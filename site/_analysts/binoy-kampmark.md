@@ -7,16 +7,267 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  The geopolitical landscape continues to be shaped by the ongoing crises in Gaza, shifting Western policies, and the militarization of advanced economies. Recent developments highlight a growing assertiveness in Australian foreign policy, intensifying humanitarian concerns in Gaza, and persistent debates over civil liberties in the UK and Australia.
+  The past week has seen a series of consequential developments across Australia’s domestic and foreign policy, as well as the ongoing crisis in Gaza. These events reflect intensifying debates over human rights, media freedom, and the limits of state power.
   
-  Australia’s expulsion of Iran’s ambassador and three officials, as reported by **Binoy Kampmark**, marks a significant escalation in Canberra’s diplomatic posture. The Albanese government’s move is widely interpreted as a strategic effort to balance domestic and international pressures ahead of its anticipated recognition of Palestinian statehood. While the government cites alleged Iranian-directed antisemitic attacks as justification, **Kampmark** notes skepticism about the direct relevance of Iran’s actions to Australia, suggesting the expulsion is more about political optics than security. This signals a new willingness by Australia to assert itself on Middle Eastern issues, even at the risk of diplomatic fallout.
+  Australia’s approach to refugees remains under scrutiny following its latest agreement with Nauru to resettle members of the NZYQ cohort. **Binoy Kampmark** notes that this deal, emblematic of Australia’s longstanding policy of offshore detention, has reignited ethical and legal concerns about the treatment of asylum seekers. The arrangement is widely criticized for perpetuating punitive measures and sidestepping international obligations, with legal challenges expected to intensify. There is a high chance that Australia will face further domestic and international pressure to reform its refugee policies, though immediate change appears unlikely.
   
-  Meanwhile, the humanitarian catastrophe in Gaza has reached a new nadir, with famine conditions now officially recognized in Gaza City. According to **Kampmark**, the famine is “engineered” through Israeli-imposed blockades and restrictive food distribution, echoing historical precedents where starvation was used as a tool of war. The majority of independent analysts concur that the crisis is not a result of natural scarcity but of deliberate policy, and there is little optimism for rapid improvement as international responses remain largely rhetorical.
+  Meanwhile, the humanitarian catastrophe in Gaza continues to draw global attention. The Israeli government’s decision to allow limited access to foreign journalists has been met with skepticism, particularly in light of the high number of journalist fatalities attributed to Israeli Defense Forces. **Kampmark** highlights international calls for greater media access and protection, underscoring the risks faced by reporters and the broader issue of press freedom in conflict zones. Given the ongoing violence and restrictions, it is quite likely that media coverage will remain tightly controlled, and further incidents involving journalists cannot be ruled out.
   
-  In the UK, the government’s use of anti-terrorism laws to criminalize protests related to the Gaza conflict—particularly those organized by Palestine Action—has sparked a fierce debate over civil liberties. **Kampmark** highlights the absurdity of labeling peaceful protesters as terrorists, with legal experts arguing that such measures fail to meet the threshold for terrorism and risk undermining free speech and assembly rights. This trend reflects a broader pattern of Western democracies tightening restrictions on dissent under the guise of security.
+  In the realm of international diplomacy, Australia’s expulsion of Iran’s ambassador and several officials marks a significant escalation. This move, justified by alleged Iranian-directed antisemitic attacks, is interpreted by **Kampmark** as a strategic attempt by the Albanese government to balance its anticipated recognition of Palestinian statehood. The decision has sparked debate over its proportionality and relevance, but signals a more assertive Australian foreign policy posture. There is a high chance that diplomatic tensions with Iran will persist, with potential repercussions for Australia’s broader Middle East policy.
   
-  Looking ahead, the prevailing trends point to further polarization and securitization in Western responses to Middle Eastern conflicts. Australia is “quite likely” to proceed with recognizing Palestinian statehood in the coming weeks, despite potential diplomatic backlash. The humanitarian situation in Gaza shows no signs of abating, with a “high chance” that famine and civilian suffering will worsen absent significant international intervention. In the UK and Australia, the expansion of anti-protest and online safety laws is expected to continue, raising ongoing concerns about the erosion of civil liberties.
+  Looking ahead, the prevailing trends suggest a continued hardening of government stances on security and migration, both in Australia and abroad. The Gaza crisis is set to remain a flashpoint, with humanitarian concerns and media access at the forefront. I guarantee that debates over rights, accountability, and the ethics of state action will only intensify in the coming weeks.
 articles:
+  - title: 'Refugee Dunghills: Australia Makes Another Nauru Deal'
+    url: https://www.counterpunch.org/2025/09/03/refugee-dunghills-australia-makes-another-nauru-deal/
+    text: 'Over the last two decades, Australia has made a name for itself by pursuing
+      barbaric policies towards refugees and asylum seekers arriving by sea. Priding
+      these moves as noble and humanitarian, cruelty born of kindness, these have entailed
+      attacking the right to seek asylum guaranteed under the United Nations Refugee
+      Convention of 1951 and the obligations of a state signatory not to penalise, discriminate
+      or return (refoul) those to a place which would imperil them.
+
+
+      From these policies grew the Pacific gulag – offshore refugee centres where desperate
+      human beings were treated like hunks of undifferentiated meat to be “processed”.
+      In such centres, sexual abuse, self-harm, mental ruin and suicide flourished with
+      weedlike vigour, described by the Asylum Seeker Resource Centre as “cruelty by
+      design”. The final, rather damaged product was never to enter Australia, to be
+      resettled in less than accommodating places as the Pacific Island state of Nauru,
+      or Manus Island in Papua New Guinea. Fractious locals in either case were not
+      impressed by cultural incompatibilities. Periodically, Australia might also get
+      a helping hand from New Zealand, always more willing to pull its weight on the
+      issue of accepting desperate boat arrivals.
+
+
+      Over time, the number of people finding themselves in indefinite detention grew.
+      As Australia lacks any constitutional protections against indefinite detention
+      without charge, judges once saw fit to see this outcome as perfectly appropriate
+      for refugees and asylum seekers. The shameful 2004 High Court case of Al-Kateb
+      v Godwin saw the Commonwealth Solicitor-General argue, successfully, that a stateless
+      Palestinian born in Kuwait, having arrived in Australia by boat without a visa,
+      having also failed to get a protection visa, and having no prospect to be returned
+      to Gaza or Kuwait, could be detained indefinitely.
+
+
+      This was a remarkable finding, enabling the Commonwealth to exercise punitive
+      functions normally associated with the judiciary. The cold words of Chief Justice
+      Murray Gleeson are worth remembering: “A person in the position of the appellant
+      might be young or old, dangerous or harmless, likely or unlikely to abscond, recently
+      in detention or someone who had been there for years, healthy or unhealthy, badly
+      affected by incarceration or relatively unaffected. The considerations that might
+      bear upon the reasonableness of a discretionary decision to detain such a person
+      do not operate.”
+
+
+      Then came the NZYQ decision in November 2023, in which the Australian High Court
+      reversed itself. The judges found it unlawful for the government to continue detaining
+      people in immigration detention where there was no real prospect of their practicable
+      removal from Australia in the reasonably foreseeable future. To do so contravened
+      the Constitution as such detention was not reasonably capable of being seen as
+      necessary for a legitimate and non-punitive purpose. As such individuals could
+      not be returned to their countries of origin for reasons of persecution or because
+      of a refusal to accept them, release had to be granted.
+
+
+      A feverish panic broke out in the Albanese government. The government had lost
+      one of its most important, sadistic weapons in the policy armoury. Hysterical
+      demonisation followed regarding some 200 non-citizens who had to be released into
+      the community. They were seen as exceptional in their defects, remarkable in their
+      criminality (murderers, rapists, child molesters). They were to be treated as
+      singular offenders, bound to reoffend and therefore in need of some form of permanent
+      invigilation, incarceration or both. That recidivism remains a feature of Australians
+      who are also released did not merit discussion, nor did the fact that many in
+      the cohort in question had never been convicted of an offence.
+
+
+      The Albanese government, egged on by a yapping conservative opposition, went about
+      the business of subverting the High Court’s decision as best it could. In November
+      2024, new laws were introduced permitting payment to third countries to accept
+      unlawful non-citizens. Those refusing could be returned to detention. With utmost
+      secrecy, Home Affairs Minister Tony Burke reached out to Nauru, yet again, as
+      Canberra’s favourite refugee dunghill. A bribe was in the offing.
+
+
+      In February, with sketchy details, the Albanese government revealed that it had
+      reached an agreement with the Pacific nation to resettle three members of the
+      NZYQ cohort of non-citizens, one of them convicted of murder, for an undisclosed
+      sum. All had been granted 30-year resettlement visas and “would reside in individual
+      facilities with a shared kitchen space, be free to move around the island and
+      would have working rights”. They were deemed good enough for Nauru, whose government
+      was keen on ruddy cash but not good enough for Australia, a country founded, most
+      ironically, as a penal colony.
+
+
+      The transfer was also arranged despite the findings by the UN Human Rights Committee
+      in two cases the month prior that Australia remained responsible for asylum seekers
+      arbitrarily detained in offshore facilities in Nauru. Committee member Mahjoub
+      El Haiba stated at the time that State parties cannot avoid their human rights
+      responsibilities “when outsourcing asylum processing to another State”. Obligations
+      remained “firmly in place” where states exercised “effective control over an area
+      […] and cannot be transferred.”
+
+
+      The small arrangement was a taster of things to come. On August 29, timing the
+      matter with the end-of-week lull in political interest, the Albanese government
+      and Nauru signed a memorandum of understanding allowing the deporting of 280 members
+      of the NZYQ cohort. Burke, who signed the MOU with Nauru’s President David Adeang,
+      had done so after meeting the cabinet and the country’s entire Parliament. A wretchedly
+      brief statement from the Australian Home Affairs office promised that the MOU
+      contained “undertakings for the proper treatment and long-term residence of people
+      who have no legal right to stay in Australia, to be received in Nauru.”
+
+
+      The staggering cost of the agreement involves the immediate payment of a vast
+      and seedy sum of A$400 million, with A$70 million to follow in annual payments
+      for associated costs. The enticing nature of these sums for Nauru’s government
+      becomes even clearer given that this small state of under 12,000 people has an
+      annual GDP, according to 2024 figures, of US$160 million. The misery of some can
+      prove to be very profitable for others.
+
+
+      Jana Favero, deputy chief executive of the Asylum Seeker Resource Centre, had
+      an appropriate response to the latest arrangements. “This deal is discriminatory,
+      disgraceful and dangerous.” The Albanese government had “launched yet another
+      attack on migrants and refugees. An attack that will result in the most significant
+      of outcomes – mass deportation.” Greens Senator David Shoebridge also remarked
+      that the government, instead of “building partnerships in the Pacific based on
+      equality and respect” had preferred to force “our smaller neighbours to become
+      21st-century prison colonies.” For Nauru’s venal politicians, seduced would have
+      been a more accurate word.'
+    one_sentence_summary: Australia's recent policies towards refugees and asylum seekers,
+      characterized by offshore detention and punitive measures, have faced significant
+      legal challenges and criticism, culminating in a controversial agreement with
+      Nauru to resettle individuals from the NZYQ cohort, raising ethical concerns about
+      human rights and the treatment of vulnerable populations.
+    paragraph_summary: Over the past two decades, Australia has implemented harsh policies
+      against refugees and asylum seekers arriving by sea, undermining their right to
+      seek asylum as outlined in the 1951 United Nations Refugee Convention. These policies
+      led to the establishment of offshore detention centers, often referred to as the
+      "Pacific gulag," where individuals faced severe mistreatment, including sexual
+      abuse and mental health crises. The situation worsened with the 2004 High Court
+      ruling allowing indefinite detention of refugees, a practice that was recently
+      challenged in the November 2023 NZYQ decision, which deemed such detention unlawful
+      without a clear prospect of removal. In response, the Albanese government sought
+      to circumvent this ruling by negotiating a deal with Nauru to resettle 280 individuals
+      from the NZYQ cohort, despite international human rights concerns. This agreement,
+      involving significant financial compensation to Nauru, has been criticized as
+      discriminatory and exploitative, reflecting a troubling trend of outsourcing Australia's
+      refugee responsibilities while perpetuating a cycle of suffering and injustice.
+    published: '2025-09-03T05:54:54+00:00'
+  - title: 'Let Them In: Opening Gaza to the Foreign Press Corps'
+    url: https://www.counterpunch.org/2025/09/02/let-them-in-opening-gaza-to-the-foreign-press-corps/
+    text: 'The Fourth Estate may not be in a good way, corrupted and compromised as
+      it is, but in some instances, it remains the only light cast over the predations
+      and ghastliness of power. For that precise reason, the state of Israel has been
+      most cautious, to the point of folly, of shutting out foreign journalists from
+      covering the Gaza conflict. A job most dirty needs to be done – levelling, disabling,
+      dispossessing and crushing of a strip with over 2 million Palestinians – and it
+      shall only be witnessed, controlled and invigilated with utmost care.
+
+
+      Only the friendliest of the friendly need apply for access to Gaza, and the call
+      by Israeli Prime Minister Benjamin Netanyahu earlier in August that the military
+      bring in more foreign journalists is heavily contingent on control.
+
+
+      The Gaza campaign is proving frustratingly long for the Netanyahu government.
+      During this time the Israeli Defense Forces have become routine killers of journalists.
+      Given the international press ban, the number of those slain by the IDF are overwhelmingly
+      Palestinian. Since the start of the Gaza War, 189 have been killed. The Committee
+      to Protect Journalists (CPJ) puts the death toll for all journalists and media
+      workers between October 2023 and August 2025 at 197. Data from Reporters Without
+      Borders puts the figure of journalists killed in Gaza at over 210, claiming that
+      56 of them were intentionally targeted by the IDF, while the UN Secretary General
+      António Guterres offers 242 as the more accurate figure. Between 2020-22, 165
+      journalists were killed across the globe, a statistic bound to move even the coldest
+      of analysts.
+
+
+      Add aid workers and medical staff, and you have such cases as the attack on Khan
+      Younis’ Nasser Hospital during the morning of August 25. Initially, it was assumed
+      that two strikes hit southern Gaza’s sole functioning major hospital. At least
+      20 people died, including five journalists. A closer examination of footage of
+      the strikes by BBC Verify shows the initial assessment to have been conservative.
+      At least four strikes took place. Two staircases were hit in the first wave, and
+      what was initially thought to be a single attack turns out to have been two separate
+      strikes hitting the same location within a fraction of a second. The first, registered
+      at 10:08 local time, killed journalist Hussam Al-Mastri, who was in the process
+      of running a live TV feed for Reuters. First responders and journalists ran to
+      aid the wounded and were subsequently butchered.
+
+
+      The list of the dead also includes Associated Press freelance photographer Mariam
+      Abu Dagga; Al Jazeera cameraman Mohammed Salama; freelance photographer Moaz Abu
+      Taha; and Middle East Eye and Quds News Network correspondent, Abu Aziz.
+
+
+      The justifications for such slaughter by the IDF have become something to behold.
+      A weary formula is at work: first, assume the strike was on a Hamas or militant
+      site, leaving those in the vicinity silly for being there. The official line:
+      the IDF does not target civilians, despite killing a vast number in such strikes.
+      Secondly, belittle those who died in exhaustive fashion, accusing them of being
+      militants, militant sympathisers or “combat propagandists”. It follows on from
+      the first point: if they were there, they were obviously tarnished one way or
+      the other.
+
+
+      Jodie Ginsburg, the CEO of CPJ, provides a terse, accurate summary on what international
+      humanitarian law says on this subject: “The only individuals who can be considered
+      legitimate targets in war are those directly involved in active combat. Expressing
+      sympathy for proscribed organisations, or even engaging in propaganda, does not
+      make someone a legitimate target.”
+
+
+      One’s political inclination – in so far as protection from military targeting
+      is concerned – is irrelevant to the role of gathering and disseminating news.
+      As Ginsburg goes on to observe, journalists have had leanings and sympathies for
+      such previously proscribed organisations as the Irish Republican Army or the African
+      National Congress. “That didn’t make them terrorists, nor legitimate targets.”
+
+
+      With these killings and the continuing starvation and deprivation taking place
+      in the Strip, many of Israel’s allies are now giving some unwanted advice. On
+      August 21, member states of the Media Freedom Coalition released a statement declaring
+      that, “In light of the unfolding humanitarian catastrophe in Gaza, the undersigned
+      members of the Media Freedom Coalition, urge Israel to allow immediate independent
+      foreign media access and afford protection for journalists operating in Gaza.”
+      Of the 28 signatories, the bulk are European, including France, Germany and the
+      United Kingdom. With usual conspicuousness, the United States remains absent.
+
+
+      The signatories went on to “condemn all violence directed against journalists
+      and media workers, especially the extremely high number of fatalities, arrests
+      and detentions.” International humanitarian made it clear that civilian journalists
+      were protected in times of armed conflict. “We call for all attacks against media
+      workers to be investigated and for those responsible to be prosecuted in compliance
+      with national and international law.”
+
+
+      While the protection of journalists in such situations could hardly be fully sealed
+      and assured, Israel will find killing members of the foreign press corps in numbers
+      a more trying prospect. Should they be allowed to scribble and record the vast,
+      engineered crime taking place in Gaza and in real time, silencing them will become
+      a most formidable, exacting task. Certainly, casual accusations of Hamas membership
+      or sympathy will be harder, more absurd, to make.'
+    one_sentence_summary: The article discusses the Israeli government's cautious approach
+      to foreign journalists covering the Gaza conflict, highlighting the high number
+      of journalist fatalities due to Israeli Defense Forces' actions, and the international
+      community's calls for greater media access and protection for journalists amidst
+      the ongoing humanitarian crisis.
+    paragraph_summary: The article discusses the precarious state of journalism in Gaza
+      amidst the ongoing conflict, highlighting the Israeli government's cautious approach
+      to controlling foreign media access to the region. Despite the Fourth Estate's
+      role as a crucial watchdog over power, the Israeli Defense Forces (IDF) have been
+      implicated in the deaths of numerous journalists, with reports indicating that
+      at least 189 journalists have been killed since the onset of the Gaza War, many
+      of whom were targeted during military strikes. The article emphasizes the troubling
+      justifications provided by the IDF for these killings, which often dismiss the
+      victims as militants or sympathizers, despite international humanitarian law protecting
+      journalists in conflict zones. Calls from the Media Freedom Coalition for Israel
+      to allow independent media access and protect journalists reflect growing international
+      concern over the humanitarian crisis in Gaza, suggesting that greater transparency
+      could challenge the narrative surrounding the conflict and the treatment of journalists.
+    published: '2025-09-02T05:55:31+00:00'
   - title: 'Useful Expedient: Expelling Iran’s Ambassador to Australia'
     url: https://www.counterpunch.org/2025/08/29/useful-expedient-expelling-irans-ambassador-to-australia/
     text: 'The rank odour of opportunity seems to have presented itself to Australia’s

@@ -7,21 +7,496 @@ description: "Ex-MI6 diplomat and founder of Conflicts Forum (Beirut); publishes
 websites:
   - https://www.eurasiareview.com/author/alastair-crooke/
 summary: |
-  Amidst a period of mounting geopolitical volatility, the U.S. under President Trump faces intensifying domestic and international pressures, with the Middle East and global economic order at the forefront of current developments. The aftermath of the June 2025 Israeli and U.S. strikes on Iran continues to reverberate, while public disillusionment with Western elites is deepening, and the global financial system is showing signs of profound transition.
+  In the wake of the recent Shanghai Cooperation Organization (SCO) Summit, the global balance of power is undergoing a marked transformation. As **Alastair Crooke** observes, the summit underscored a decisive pivot: China and Russia are now openly asserting their influence, while the West—particularly the United States—faces mounting internal discord and waning hegemony. This shift is not merely symbolic; it signals a new era of multipolarity that challenges the traditional dominance of Western-led institutions.
   
-  The most recent analysis by **Alastair Crooke** highlights a significant shift in public sentiment within the U.S., driven by the Epstein scandal and a broader sense of betrayal by political elites. This disillusionment is not only undermining the Trump administration’s domestic standing but is also shaping its foreign policy posture. Crooke notes that “the growing public disillusionment with political elites… may impact Trump’s presidency and foreign policy, potentially leading to increased tensions with Russia and Iran amidst a backdrop of geopolitical instability in the Middle East.” The implication is that Trump, facing a crisis of legitimacy at home, may be more inclined to escalate abroad to project strength.
+  The timing of China’s assertiveness at the SCO, Crooke notes, appears calculated rather than coincidental. The West’s preoccupation with domestic crises and strategic missteps has created an opening for Beijing and Moscow to consolidate their positions. “The West is grappling with internal turmoil and declining hegemony,” Crooke writes, suggesting that Washington’s capacity to dictate global norms is eroding. This development places significant pressure on the U.S. administration, which is already struggling to formulate coherent responses to simultaneous challenges in Europe, the Middle East, and the Indo-Pacific.
   
-  On the Iran front, recent reports underscore that the U.S. and Israeli military actions have failed to achieve their strategic objectives. Instead, Iran has emerged more unified and resilient, with Crooke arguing that “the strikes were likely coordinated in advance and did not significantly impact its nuclear capabilities.” The majority view among independent analysts is that the attempt to force regime change or strategic capitulation in Tehran has backfired, strengthening Iran’s regional position and emboldening the so-called “axis of resistance.”
+  Meanwhile, in the Middle East, Israel’s strategic posture continues to harden. Crooke highlights a shift toward what he terms a “new, violent Zionism,” characterized by the prioritization of military solutions and the imposition of control over Palestinians and the broader region. This approach, as articulated by Israeli officials like Ron Dermer, raises concerns about the sustainability of Israel’s security paradigm and the risk of escalating conflict. The broader implication is that Israel’s actions may serve as a harbinger for a more coercive and confrontational era in global geopolitics.
   
-  Economically, the erosion of U.S. dollar dominance is accelerating, with China’s alternative financial systems gaining traction. Crooke observes that the “Trump revolution” is, in part, a response to America’s perceived economic decline, and that anxiety within the U.S. establishment is mounting as the dollar’s supremacy is increasingly challenged. This trend is compounded by the West’s ongoing struggle to adapt to a multipolar world order, as traditional economic and political models lose their efficacy.
-  
-  **Trends and Predictions:**  
-  - There is a high chance that U.S. domestic instability will continue to drive erratic foreign policy decisions, particularly in the Middle East, as Trump seeks to compensate for waning legitimacy at home.
-  - The failure of military pressure to weaken Iran’s position suggests that further escalation is likely, but with diminishing returns for U.S. and Israeli objectives.  
-  - The transition away from dollar hegemony is most definitely underway, with alternative financial systems gaining momentum—an irreversible trend that will reshape global power balances.
-  
-  In summary, the prevailing trajectory is one of deepening systemic crisis in the West, with the U.S. increasingly resorting to external confrontation as internal cohesion unravels. The majority of independent analysts, including Crooke, guarantee that these dynamics will continue to fuel global instability and accelerate the shift toward a more fragmented, multipolar order.
+  Looking ahead, the prevailing trend is clear: the world is moving rapidly toward a multipolar order, with China and Russia at the forefront of this realignment. The U.S. is likely to face increasing difficulties in maintaining its leadership role, both due to external resistance and internal fragmentation. As Crooke concludes, “the future of U.S. leadership is now in question,” and the West must adapt to a reality where its influence is no longer unchallenged. There is a high chance that this multipolar dynamic will intensify in the coming months, with global institutions and alliances undergoing further strain and realignment.
 articles:
+  - title: Can Trump Re-Adjust In The Post-Tianjin SCO Moment? Was The Timing Of China
+      ‘Throwing Down The SCO Gauntlet’ Entirely Fortuitous? – OpEd
+    url: https://www.eurasiareview.com/09092025-can-trump-re-adjust-in-the-post-tianjin-sco-moment-was-the-timing-of-china-throwing-down-the-sco-gauntlet-entirely-fortuitous-oped/
+    text: 'By Alastair Crooke
+
+
+      The gloves are off. The SCO Summit was a clear demonstration of the reality of
+      power starkly coalescing, on the one hand, and one of power visibly ebbing, on
+      the other. The amazing military parade was the summit counterpart – it spoke loudly:
+      You want to take us on? ‘We are ready’.
+
+
+      China has thrown down the gauntlet with precision timing. (You’d almost think
+      they had planned it that way …). ‘History is being written – in Russian and Chinese
+      ink’, observed one Russian commentator.
+
+
+      Western political systems are in turmoil, beleaguered by populist politics promising
+      everything, yet lacking the tools by which to resolve anything. Western alliances
+      are riven by doubt and uncertainty, with political stability fissuring under pressure
+      from the failures of western borrow and spend policies. Even The Economist concedes
+      that “a new reality is taking hold”.
+
+
+      Trump’s reaction to the SCO spectacle was a snarky dig at some perceived anti-American
+      ‘conspiracy’. Yet, if he feels himself to be the ‘wallflower’ to this gathering
+      of ‘friends’, it is because he chose not to go to Tianjin. He has only himself
+      to blame. Should the SCO become defined in the western psyche as anti-western,
+      then that too will be largely down to Trump – and how he chooses to frame the
+      U.S.’ future.
+
+
+      Xi made this latter point in his opening speech: “Humanity is again faced with
+      a choice of peace or war, dialogue or confrontation, and win-win outcomes; or
+      zero-sum games”.
+
+
+      Unfortunately, Trump is probably too far down the road of pursuing American ‘exceptionalist
+      greatness’ to expect much of a nuanced response from him. But then again, Trump
+      often does seem to defy the obvious.
+
+
+      The default psychological mode of the West will be defensively antagonistic. The
+      U.S. clearly has not been prepared psychologically to go onto any sort of equal
+      footing with these SCO powers. Centuries of colonial superiority have shaped a
+      culture where the only possible model is hegemony and the imposition of pro-Western
+      dependency.
+
+
+      To acknowledge China, Russia or India as having ‘detached’ from the ‘Rules-based
+      Order’ and constructed a separated non-western sphere clearly implies accepting
+      the end of western global hegemony. And it means accepting too, that the hegemonic
+      eraas a whole is over. The U.S. and European ruling strata are categorically not
+      in the mood for this. The European ruling strata, like true believers, continue
+      to bristle with hostility toward Russia.
+
+
+      So for the Europeans, there is no question that they too felt something judder,
+      but did not understand what exactly had caused the tremor – and thus decided on
+      rudeness as a response. Friedrich Merz stated his belief: “Putin is a war criminal.
+      He is perhaps the most serious war criminal of our time that we have seen on a
+      large scale. We must be clear about how to deal with war criminals: There is no
+      room for leniency”.
+
+
+      The reality (and the little that we know) of what has emerged from China’s Tiananmen
+      Square parade will undoubtedly cause consternation in Washington, Brussels and
+      London: President Xi declared China’s rise to be “unstoppable”, whilst showcasing
+      over 10,000 troops marching in perfect synchronicity and revealing impressive
+      new Chinese weaponry (a nuclear, 20,000 km range ICBM; a laser-powered interceptor
+      and giant underwater drones).
+
+
+      Most notably, President Xi (also for the first time) showcased the PLA’s land,
+      sea, and air-based nuclear force – a complete and deadly triad.
+
+
+      At the victory celebration parade, Xi stood proudly with his U.S.-sanctioned allies,
+      and sat on the dais with Kim Jong Un directly to his left and Putin to his right
+      – a symbolic line up few can have expected. Equally, the bonhomie evident between
+      Putin, Xi and Prime Minister Modi clearly was real and not contrived.
+
+
+      The practical output from the summit too will nonplus the West. The announcement
+      of the Siberia 2 pipeline, Blomberg notes, effectively puts an end to plans for
+      U.S. ‘energy dominance’.
+
+
+      As Blomberg’s editorial put it, “China may now stop importing more than half of
+      its foreign LNG, and by the early 2030s, the share of Russian gas in China’s needs
+      could reach 20%. Analysts quickly calculated the implementation of the Power of
+      Siberia 2 project is equivalent to a drop in demand of about 40 million tons of
+      LNG per year”.
+
+
+      “This means that many LNG production projects, which the U.S. had bet on, no longer
+      make sense”.
+
+
+      What will be the other sequellae? The U.S. and European dark State will not take
+      these events lightly. In their hostility, their anger will likely focus on Russia
+      first and foremost (via Ukraine), and in parallel, via Russia and China’s strategic
+      ally, Iran.
+
+
+      During the summit, Xi proposed the creation of a new international security and
+      economic order, explicitly challenging the existing U.S.-led institutional system.
+      He described the initiative as a step toward building a multipolar world. And
+      having announced it – the first specific piece of SCO ‘action’ followed directly.
+
+
+      China and Russia joined Iran in rejecting a European initiative to reinstate UN
+      sanctions on Tehran through the ‘snapback mechanism’. A letter signed jointly
+      by the Foreign Ministers of China, Russia and Iran, and addressed to the UN Secretary
+      General, stated in uncompromising terms that for the E3 to trigger ‘snapback’
+      provision “clearly contravenes the resolution, and therefore, is by default, legally
+      and procedurally flawed. The E3’s course both abuses the authority and functions
+      of the UN Security Council – whilst misleading its members as well as the international
+      community concerning the root causes of breakdown in the implementation of the
+      JCPOA and the UNSCR 2231”.
+
+
+      Harsh language, which nonetheless may not prove sufficient to stop the sanctions
+      snapback from coming into effect in 30 days from the 28 August transmission of
+      the E3 letter to the Security Council.
+
+
+      The E3 claim that their action actually provides ‘space’ for Iran to negotiate
+      a return to full JCPOA compliance – but this is belied by the E3 tying the 30
+      day negotiation period to new demands for Iran’s missile inventory and its foreign
+      policy posture to be integral to any agreement. They know that these further elements
+      will never be accepted by Iran.
+
+
+      The E3 therefore effectively are setting up Iran for military action through the
+      introduction of unrealisable conditionality.
+
+
+      It is clear that China and Russia’s statement implies that they will not comply
+      with any snapback sanctions should they be imposed on Iran.
+
+
+      Trump periodically claims that he does not want war with Iran, but nonetheless,
+      he already struck Iran’s nuclear facilities (on 22nd June).
+
+
+      The ‘snapback framing’ with its punitive conditionality seemingly intended to
+      incur a breakdown in diplomacy did not arise out of the blue.
+
+
+      Recall that it was Trump, who in February 2025, signed a National Presidential
+      Memorandum (a legally binding injunction) that U.S. objectives are to be that
+      ‘Iran be denied a nuclear weapon; intercontinental ballistic missiles and that
+      ‘Iran’s network and campaign of regional aggression be neutralized’”; that the
+      Treasury Secretary should implement maximum sanctions pressure on Iran; and the
+      U.S. representative to the UN should work with key allies to complete the ‘snapback’
+      of international sanctions and restrictions on Iran, whilst holding Iran accountable
+      for its breach of the Nuclear Non-Proliferation Treaty (amongst many other provisions
+      included in the memorandum)’.
+
+
+      The February 2025 Presidential Memorandum set the table towards either eventual
+      military action against Iran – or Iran’s total capitulation. Denying Iran its
+      missile defence and links to regional allies was always a non-starter. Yet here
+      these demands are resurfacing again with the latest E3 demands. Who’s behind this?
+      Trump, and behind him – Netanyahu.
+
+
+      Round one on Iran has already been tried, and now, forces behind the scenes are
+      pressing for a further round. They see Iran strengthening, Israel weakening, and
+      the window of opportunity shortening. They are in a hurry.
+
+
+      The other strand of western retribution to the SCO ‘impudence’ in standing aloof
+      from western primacy likely will take shape in Ukraine. More pressure, military
+      and financial on Russia, will be the demand by the Europeans and Zelensky.
+
+
+      Russia no doubt briefed colleagues at Tianjin that it intends to convey the message
+      to Trump that Russia will be continuing the Special Military Operation until all
+      the set tasks and goals are fully achieved (since Washington seems unable to control
+      the Ukrainians and Europeans). Should matters take a different course, Russia
+      stands ready for a diplomatic path to end the conflict – but on its terms. The
+      primary effort however, will be that of securing victory on the battlefield. Should
+      Trump escalate in response, Russia will respond appropriately.
+
+
+      Trump subsists under huge pressures and (unknown) hooks. But what we have seen
+      again and again with Trump is that he defies the obvious. He manages to survive
+      things – to outlast them, and indeed to thrive in some sense precisely because
+      of them. Adversity is his lifeblood. He has that inexplicable indomitable quality
+      that those who know him well claim to feel.
+
+
+      Can Trump re-adjust in the post-Tianjin moment? Will a continuation of his demand
+      for U.S. entitlement to financial hegemony now lead – in the face of a defiant
+      SCO bloc – to a weakening of America? Was the timing of China ‘throwing down the
+      gauntlet’ entirely fortuitous? Or, is the West’s financial status more brittle
+      than generally understood?
+
+
+      Does Trump even enjoy the leeway from his unseen bonds to seize on nuclear détente
+      as his Nobel Prize story, should he so choose?'
+    one_sentence_summary: The SCO Summit highlighted a significant shift in global power
+      dynamics, with China and Russia asserting their influence while the West grapples
+      with internal turmoil and declining hegemony, prompting questions about the future
+      of U.S. leadership and its response to this emerging multipolar world.
+    paragraph_summary: In the wake of the recent SCO Summit, Alastair Crooke highlights
+      a significant shift in global power dynamics, with China and Russia emerging as
+      formidable forces against a backdrop of Western political turmoil and declining
+      influence. The summit showcased China's military prowess and strategic alliances,
+      particularly with Russia and Iran, signaling a challenge to the U.S.-led global
+      order. Xi Jinping's declaration of an "unstoppable" China and the announcement
+      of the Siberia 2 pipeline underscore the diminishing efficacy of U.S. energy dominance.
+      As the West grapples with internal strife and a defensive posture, the article
+      suggests that Trump's response may further entrench the U.S. in its exceptionalist
+      mindset, complicating prospects for diplomatic engagement. The implications of
+      these developments could lead to heightened tensions, particularly concerning
+      Iran and Ukraine, as the West seeks to reassert its influence amid a rapidly evolving
+      multipolar world.
+    published: '2025-09-09T01:24:20+00:00'
+  - title: Israel’s ‘New, Violent Zionism’ As A Harbinger Of Imperial Geo-politics Of
+      Submission And Obedience – OpEd
+    url: https://www.eurasiareview.com/04092025-israels-new-violent-zionism-as-a-harbinger-of-imperial-geo-politics-of-submission-and-obedience-oped/
+    text: 'By Alastair Crooke
+
+
+      Israel’s strategy from past decades continues to rest on the hope of achieving
+      some literal Chimeric transformative “de-radicalisation” of both Palestinians
+      and of the Region, writ large – a de-radicalisation that will make “Israel safe,”
+      This has been the “holy grail” objective for Zionists since Israel was first founded.
+      The code word for this chimaera today is the “Abraham Accords,”
+
+
+      Ron Dermer, Netanyahu’s Strategic Affairs Minister, former Israeli Ambassador
+      to Washington and key Trump “whisperer” – writes Anna Barsky in Ma’ariv (Hebrew)
+      on 24 August – “sees reality with cold political eyes. He is convinced that a
+      real agreement [on Gaza] will never be concluded with Hamas, but [only] with the
+      United States. What is needed, Dermer says, is the Americans’ adoption of Israel’s
+      principles: the same five points that the Cabinet approved: disarmament of Hamas,
+      return of all hostages, complete demilitarization of Gaza, Israeli security control
+      in the Strip – and an alternative civilian government that is not Hamas and not
+      the Palestinian Authority,”
+
+
+      From the perspective of Dermer, a partial hostage release deal – which Hamas has
+      accepted – would be a political disaster. By contrast, were Washington to endorse
+      the Dermer outcome – as an “American plan” – Barsky infers Dermer suggesting:
+      “we would have a situation in which everyone benefits,” Moreover, in Dermer’s
+      logic, “the mere opening of a partial deal gives Hamas a window of two to three
+      months, during which it can strengthen itself and even try to obtain a different
+      “final scenario” from that of the Americans – one that suits [Hamas] better,”
+      “This, according to Dermer, is the truly dangerous scenario,” writes Barsky.
+
+
+      Dermer has for years insisted that Israel can have no peace without the prior
+      “transformative de-radicalisation” of all Palestinians. “If we do it right,” Ron
+      Dermer says, “it will make Israel stronger – and the US too!”
+
+
+      Some years earlier, when Dermer was asked what he saw to be the solution to the
+      Palestinian conflict. He replied that both the West Bank and Gaza must be totally
+      dis-armed. Yet, more important than disarmament however, was the absolute necessity
+      that all Palestinians must be mutationally “de-radicalised,”
+
+
+      When asked to expand, Dermer pointed approvingly to the outcome of WW2: The Germans
+      were defeated, but more significantly, the Japanese had been fully “de-radicalised”
+      and rendered docile by the war’s end:
+
+
+      Japan had US forces for 75 years. Germany — US forces for 75 years. And if anyone
+      thinks that was by agreement at the beginning they’re kidding themselves. It was
+      imposed, then they understood it was good for them. And over time there was a
+      mutual interest in keeping it.
+
+
+      Trump is aware of Dermer’s thesis, but seemingly it is Netanyahu who instinctively
+      dithers, so Barsky writes:
+
+
+      A partial deal [with Hamas] will almost certainly lead to the resignation of Smotrich
+      and Ben Gvir [from the government]… The government will fall apart … A partial
+      deal means the end of the right-right government … Netanyahu knows this well,
+      which is why his hesitation is so difficult. And yet, there is a limit to how
+      long one can hold the rope at both ends,
+
+
+      Trump seemingly accepts the “Dermer Thesis”: “I think they want to die, and it’s
+      very, very bad,” Trump said of Hamas before leaving for his recent weekend trip
+      to Scotland. “It got to a point where you’re [i.e. Israel] gonna have to finish
+      the job,”
+
+
+      But Dermer’s notion about having the consciousness of adversaries seared by defeat
+      was never just about Hamas alone. It extended to all Palestinians and the region
+      as a whole – and, of course to Iran in particular.
+
+
+      Gideon Levy writes that we must thank the former head of the Military Intelligence,
+      Aharon Haliva, for admitting on Channel 12:
+
+
+      ‘We need genocide every few years; the murder of the Palestinian people is a legitimate,
+      even essential act,’ This is how a ‘moderate’ general in the IDF speaks … killing
+      50,000 people is “necessary,
+
+
+      This “necessity” is no longer “rational,” It has metamorphosed into bloodlust.
+      Benny Barbash, an Israeli playwright, writes of the many Israelis he meets, including
+      at the demonstrations in favour of a hostage-prisoner deal, who frankly admit:
+
+
+      Listen, I’m really sorry to tell you this, but the children dying in Gaza really
+      don’t bother me at all. Nor the hunger that’s there, or not. It really doesn’t
+      interest me. I’ll tell you straight: As far as I’m concerned, they can all drop
+      dead there.
+
+
+
+
+      ‘Genocide as the IDF’s legacy, for the sake of future generations’; ‘For every
+      one [Israeli] on 7 October, 50 Palestinians have to die. It doesn’t matter now,
+      children. I’m not speaking out of revenge; it’s out of a message to future generations.
+      There’s nothing to be done, they need a Nakba every now and then to feel the price,’
+      Gideon Levy soberly quotes General Haliva saying (emphasis added).
+
+
+      This must be understood to represent a profound shift within the core of Zionist
+      thinking (from Ben Gurion to Kahane). Yossi Klein writes (in Haaretz Hebrew) that:
+
+
+      “We are indeed in the stage of barbarism, but this is not the end of Zionism …
+      [This barbarism] has not killed Zionism. On the contrary, it has made it relevant.
+      Zionism has had various versions, but none resembled the new, updated, violent
+      Zionism: the Zionism of Smotrich and Ben-Gvir…
+
+
+
+
+      The old Zionism is no longer relevant. It established a state and revived its
+      language. It has no more goals … If you ask a Zionist today what their Zionism
+      is, they wouldn’t know how to answer. ‘Zionism’ has become an empty word … Until
+      [that is] Meir Kahane came along. He came with an updated Zionism whose goals
+      are clear: to expel Arabs and settle Jews. This is a Zionism that doesn’t hide
+      behind pretty words. ‘Voluntary evacuation’ makes it laugh. ‘Transfer’ enchants
+      it. It is proud of ‘apartheid’ … To be a Zionist today is to be Ben-Gvir. To be
+      non-Zionist is to be antisemitic. An antisemite [today] is someone who reads Haaretz
+      …,”
+
+
+      Smotrich declared this week that the Jewish people are experiencing “physically,”
+      “the process of redemption and the return of the divine presence to Zion – as
+      they engage in the ‘conquest of the land’,”
+
+
+      It is this train of apocalyptic thought that is bleeding into the Trump Administration
+      in its various formats: It is metamorphosing the Administration’s ethical posture
+      towards one of “war is war and must be absolute,” Anything less must be seen as
+      mere moral posturing. (This is the Talmudical understanding arising from the story
+      of wiping out the Amalek (see Jonathan Muskat in Times of Israel)).
+
+
+      Thus we can see Washington’s new found thrall for de-capitation of intransigent
+      leaderships (Yemen, Syria and Iran); the support for the political neutering of
+      Hizbullah and the Shi’a in Lebanon; the normalisation of assassination for recalcitrant
+      heads of state (as was mooted for Imam Kamenei); and for the toppling of state
+      structures (i.e. as planned for Iran on 13 June).
+
+
+      The transformation of Israel to this Revisionist Zionism – and its hold over key
+      factions of US thinking – is precisely why war between Iran and Israel has come
+      to be perceived as inevitable.
+
+
+      The Supreme Leader of Iran articulated his understanding of the implications explicitly
+      in his public address earlier this week:
+
+
+      This [American] hostility has persisted for 45 years, across different US administrations,
+      parties, and presidents. Always the same hostility, sanctions, and threats against
+      the Islamic Republic and the Iranian people. The question is why?
+
+
+
+
+      In the past, they hid the real reason behind labels like terrorism, human rights,
+      women’s rights, or democracy. If they did state it, they framed it more politely,
+      saying: ‘We want Iran’s behaviour to change’.
+
+
+
+
+      But the man in office today in America gave it away. He revealed the true objective:
+      ‘Our conflict with Iran, with the Iranian people, is because Iran must obey America’.
+      That is what we, the Iranian nation, must clearly understand. In other words:
+      A power in the world expects that Iran—with all its history, dignity and its legacy
+      as a great nation — should simply be submissive. That is the real reason for all
+      the enmity,
+
+
+
+
+      Those who argue, ‘Why not negotiate directly with America to solve your problems?’
+      are also looking only at the surface. That’s not the real issue. The real problem
+      is that the US wants Iran to be obedient to its commands. The Iranian people are
+      deeply offended by such a great insult, and they will stand with all their strength
+      against anyone who harbours such a false expectation of them … the US’ real goal
+      is Iran’s submission. Iranians will never accept this ‘great insult’.
+
+
+      “De-radicalisation” in the Dermer thesis’ meaning means installing a Leviathan-esque
+      “despotism that reduces the region to total powerlessness – including that of
+      a spiritual, intellectual and moral powerlessness. The total Leviathan is a unique,
+      absolute and unlimited power, spiritual and temporal, over other humans,” as Dr
+      Henri Hude, former head of the Department of Ethics and Law at France’s prestigious
+      Saint-Cyr Military Academy, has observed.
+
+
+      Former IDF Ombudsman Major General (Res). Itzhak Brik too has warned that Israel’s
+      political leadership are “gambling with Israel’s very existence”:
+
+
+      They want to accomplish everything through military pressure, but in the end,
+      they won’t accomplish anything. They have put Israel on the brink of two impossible
+      situations [–] the outbreak of a full-fledged war in the Middle East, [and, or,
+      secondly] a continuing of the war of attrition. In either situation, Israel won’t
+      be able to survive for long.
+
+
+      Thus, as Zionism transforms to what Yossi Klein has defined as “late stage Barbarism,”
+      the question arises, could “war without limits” work, despite Hude’s and Brik’s
+      deep scepticism? Could such Israeli “terror” impose on the Middle East an unconditional
+      surrender “that would allow it to change profoundly, militarily, politically and
+      culturally, and to transform as Israeli satellites within an overall Pax Americana?”
+
+
+      The clear response that Dr Hude gives in his book Philosophie de la Guerre is
+      that war without limits cannot be the solution, because it cannot deliver long-lasting
+      “deterrence” or de-radicalisation:
+
+
+      On the contrary, it is the most certain cause of war. Ceasing to be rational,
+      despising opponents who are more rational than it is, arousing opponents who are
+      even less rational than it is, the Leviathan will fall; and even before its fall,
+      no security is assured.
+
+
+      Hude identifies too such extreme “will to power” without limits as necessarily
+      containing the psyche of self-destruction within it.
+
+
+      For a Leviathan to function, it must remain rational and powerful. Ceasing to
+      be rational, despising opponents who are more rational, and angering opponents
+      who are less rational than it is itself, the Leviathan then must – and will –
+      fall.
+
+
+      This is precisely why Iran, even now, knows it must prepare for the Big War as
+      Leviathan “arises,” And so too, must Russia – for it is one single war being prosecuted
+      against recalcitrants to the American new order.'
+    one_sentence_summary: The article discusses Israel's long-standing strategy of seeking
+      "de-radicalization" of Palestinians and the region, as articulated by Ron Dermer,
+      which reflects a shift towards a more aggressive and violent form of Zionism that
+      prioritizes military solutions and the imposition of control, raising concerns
+      about the potential for escalating conflict and the sustainability of Israel's
+      existence.
+    paragraph_summary: In his article, Alastair Crooke critiques Israel's longstanding
+      strategy of seeking a transformative "de-radicalization" of Palestinians and the
+      broader region, a goal that has evolved into the contemporary framework of the
+      "Abraham Accords." He highlights Ron Dermer's belief that true peace cannot be
+      achieved with Hamas but requires U.S. endorsement of Israel's principles, including
+      the disarmament of Hamas and the establishment of a non-Hamas government in Gaza.
+      Crooke warns that this approach reflects a dangerous shift towards a more extreme
+      form of Zionism, characterized by a willingness to accept violence and even genocide
+      as necessary for future security. He argues that such a strategy, which aims for
+      absolute military dominance, is inherently flawed and will likely lead to Israel's
+      downfall, as it fosters irrationality and provokes further conflict rather than
+      achieving lasting peace. The article concludes by emphasizing the need for rationality
+      in international relations, particularly in the context of rising tensions with
+      Iran and the broader implications for U.S. foreign policy.
+    published: '2025-09-04T01:10:56+00:00'
   - title: Is The Trump ‘Mystique’ Broken? Does MAGA Sense Betrayal? – OpEd
     url: https://www.eurasiareview.com/29072025-is-the-trump-mystique-broken-does-maga-sense-betrayal-oped/
     text: 'By Alastair Crooke

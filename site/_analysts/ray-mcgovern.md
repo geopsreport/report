@@ -7,18 +7,512 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  As of early September 2025, the geopolitical landscape continues to be shaped by intensifying conflicts and shifting political dynamics, particularly in the Middle East and within Western political institutions.
+  The ongoing crisis in Gaza and the broader implications of U.S. foreign policy continue to dominate the geopolitical landscape as of September 10, 2025. The situation remains tense, with new developments highlighting both the persistence of violence in Gaza and growing dissent among Western military and political actors.
   
-  The most recent development centers on the ongoing crisis in Gaza, where Israeli military actions against UNRWA infrastructure have escalated. **Mara Kronenfeld**, executive director of UNRWA USA, emphasized that Israel's campaign is not only targeting humanitarian organizations but constitutes "a broader attack on civilian life for millions of Palestinians." This assessment is echoed by a growing chorus of analysts who argue that the destruction of UNRWA facilities is part of a systematic effort to undermine international support structures for Palestinians. The majority opinion across sources is that these attacks are likely to further isolate Israel diplomatically, while deepening the humanitarian catastrophe in Gaza.
+  The most recent reports focus on the intensifying blockade of Gaza and the international response. Former RAF fighter pilot **Malcolm Ducker** has joined the largest aid flotilla to date heading for Gaza, publicly urging the UK’s Royal Air Force to halt intelligence sharing with Israel. This signals a notable shift, as Western military figures begin to openly challenge their governments’ support for Israeli operations. According to **Ray McGovern**, Ducker’s involvement “underscores the growing unease within Western military ranks about complicity in the ongoing siege.”
   
-  Domestically in the United States, the appointment of Josh Smith, a former prisoner, as Deputy Director of the Bureau of Prisons has sparked significant debate. **John Kiriakou** notes that while Smith's appointment has "sparked backlash from employees," it has "garnered support from inmates," highlighting a divide within the system. This move is seen by some as a potential step toward reform, but skepticism remains high among staff, suggesting that institutional resistance could slow any meaningful change.
+  Meanwhile, analysis from **Caitlin Johnstone** argues that even a hypothetical surrender by Hamas would not end what she and others describe as a campaign of erasure against Palestinians. The prevailing view among independent analysts is that the violence is structural and unlikely to cease with a change in Palestinian leadership. There is a “high chance,” as McGovern summarizes, that the humanitarian crisis will deepen regardless of battlefield developments.
   
-  On the broader political front, **Vijay Prashad** argues that the rise of far-right politics globally can be traced back to the "inaction and complicity of liberals and social democrats in the Global North." This perspective is gaining traction, as analysts observe a pattern of mainstream parties failing to address underlying socioeconomic grievances, thereby enabling more extreme elements to gain ground.
+  In the U.S., **Patrick Lawrence** highlights the entrenched narcissism among American elites, which he argues blinds policymakers to the consequences of their actions abroad. This critique is gaining traction as Western publics and some officials question the long-term strategy and morality of current foreign interventions.
   
-  Looking ahead, the trends suggest that the situation in Gaza will remain volatile, with a high chance of continued international criticism of Israel's actions ("I guarantee" further diplomatic fallout if attacks on UNRWA persist). In the U.S., prison reform may see incremental progress, but entrenched opposition within the Bureau of Prisons makes rapid change unlikely ("quite likely" that reforms will be piecemeal). Politically, the erosion of centrist parties' credibility is expected to fuel further polarization in Western democracies.
-  
-  In summary, the coming days are set to bring heightened scrutiny of Israeli actions in Gaza, cautious steps toward prison reform in the U.S., and continued shifts in the political landscape of the Global North, with far-right movements poised to capitalize on liberal inaction.
+  Looking ahead, the trends point to increasing international pressure on Israel and its Western backers, particularly as more Western figures break ranks. However, absent a major policy reversal in Washington, the consensus among analysts is that the situation in Gaza will most definitely deteriorate further in the short term. The likelihood of meaningful change remains low, with McGovern stating, “I guarantee the violence will persist unless there is a fundamental shift in U.S. policy.”
 articles:
+  - title: 'Caitlin Johnstone: Hamas Surrender Won’t Stop the Genocide'
+    url: https://consortiumnews.com/2025/09/09/caitlin-johnstone-hamas-surrender-wont-stop-the-genocide/
+    text: 'If Hamas surrenders, the genocide won’t end: but Palestinians will be erased
+      from a Palestinian territory forever. By Caitlin Johnstone CaitlinJohnstone.com.au
+      Listen to Tim Foley reading this article. You always see Israel apologists saying,
+      “If Hamas lays down its arms there’ll… Read more →'
+    one_sentence_summary: The article argues that even if Hamas were to surrender, it
+      would not end the violence against Palestinians, but rather lead to their permanent
+      erasure from their own territory.
+    paragraph_summary: In her article, Caitlin Johnstone argues that the notion that
+      Hamas's surrender would lead to the end of violence is misleading, as it would
+      not resolve the underlying issues faced by Palestinians. Instead, she contends
+      that such a surrender could result in the permanent erasure of Palestinians from
+      their own territory, highlighting the complexities of the Israeli-Palestinian
+      conflict and the dangers of oversimplifying the situation. Johnstone emphasizes
+      that the call for Hamas to disarm overlooks the broader implications for Palestinian
+      identity and existence.
+    published: '2025-09-09T18:00:59+00:00'
+  - title: 'Caitlin Johnstone: Hamas Surrender Won’t Stop the Genocide'
+    url: https://consortiumnews.com/2025/09/09/caitlin-johnstone-hamas-surrender-wont-stop-the-genocide/
+    text: 'If Hamas surrenders, the genocide won’t end: but Palestinians will be erased
+      from a Palestinian territory forever. By Caitlin Johnstone CaitlinJohnstone.com.au
+      Listen to Tim Foley reading this article. You always see Israel apologists saying,
+      “If Hamas lays down its arms there’ll… Read more →'
+    one_sentence_summary: The article argues that even if Hamas were to surrender, it
+      would not end the violence against Palestinians, but rather lead to their permanent
+      erasure from their own territory.
+    paragraph_summary: In her article, Caitlin Johnstone argues that the notion that
+      Hamas's surrender would lead to the end of violence is misleading, as it would
+      not resolve the underlying issues faced by Palestinians. Instead, she contends
+      that such a surrender could result in the permanent erasure of Palestinians from
+      their own territory, highlighting the complexities of the Israeli-Palestinian
+      conflict and the dangers of oversimplifying the situation. Johnstone emphasizes
+      that the call for Hamas to disarm overlooks the broader implications for Palestinian
+      identity and existence.
+    published: '2025-09-09T18:00:59+00:00'
+  - title: From RAF Fighter Pilot to Gaza Blockade Buster
+    url: https://consortiumnews.com/2025/09/09/from-raf-fighter-pilot-to-gaza-blockade-buster/
+    text: Former U.K. fighter pilot Malcolm Ducker has joined the largest aid flotilla
+      to Gaza in history and is calling on the RAF to end intelligence support to Israel,
+      writes John McEvoy. By John McEvoy Declassified UK A British veteran has joined…
+      Read more →
+    one_sentence_summary: Former U.K. fighter pilot Malcolm Ducker has joined the largest
+      aid flotilla to Gaza and is urging the RAF to cease intelligence support to Israel.
+    paragraph_summary: Former U.K. fighter pilot Malcolm Ducker has joined the largest
+      aid flotilla to Gaza, advocating for the Royal Air Force (RAF) to cease its intelligence
+      support to Israel. In his efforts, Ducker emphasizes the humanitarian mission
+      of the flotilla and expresses his concerns regarding military involvement in the
+      ongoing conflict. His participation highlights a growing movement among veterans
+      and activists urging for a reevaluation of military support in light of the humanitarian
+      crisis in Gaza.
+    published: '2025-09-09T16:00:21+00:00'
+  - title: From RAF Fighter Pilot to Gaza Blockade Buster
+    url: https://consortiumnews.com/2025/09/09/from-raf-fighter-pilot-to-gaza-blockade-buster/
+    text: Former U.K. fighter pilot Malcolm Ducker has joined the largest aid flotilla
+      to Gaza in history and is calling on the RAF to end intelligence support to Israel,
+      writes John McEvoy. By John McEvoy Declassified UK A British veteran has joined…
+      Read more →
+    one_sentence_summary: Former U.K. fighter pilot Malcolm Ducker has joined the largest
+      aid flotilla to Gaza and is urging the RAF to cease intelligence support to Israel.
+    paragraph_summary: Former U.K. fighter pilot Malcolm Ducker has joined the largest
+      aid flotilla to Gaza, advocating for the Royal Air Force (RAF) to cease its intelligence
+      support to Israel. In his efforts, Ducker emphasizes the humanitarian mission
+      of the flotilla and expresses his concerns regarding military involvement in the
+      ongoing conflict. His participation highlights a growing movement among veterans
+      and activists urging for a reevaluation of military support in light of the humanitarian
+      crisis in Gaza.
+    published: '2025-09-09T16:00:21+00:00'
+  - title: 'PATRICK LAWRENCE: A Nation of Narcissists'
+    url: https://consortiumnews.com/2025/09/09/patrick-lawrence-a-nation-of-narcissists/
+    text: Narcissism is the open-and-shut condition of the elites who fashion and execute
+      American foreign policy.  And they are utterly incapable of seeing their country
+      as it is. By Patrick Lawrence Special to Consortium News All those malign authoritarians,
+      more than… Read more →
+    one_sentence_summary: The article argues that narcissism among elites shaping U.S.
+      foreign policy blinds them to the true state of their country and the world.
+    paragraph_summary: In his article for Consortium News, Patrick Lawrence argues that
+      narcissism characterizes the elites who shape American foreign policy, leading
+      them to have a distorted perception of their country and its role in the world.
+      He suggests that these policymakers are disconnected from reality, unable to recognize
+      the consequences of their actions and the complexities of global affairs, which
+      results in misguided strategies and a lack of understanding of the perspectives
+      of other nations.
+    published: '2025-09-09T07:42:38+00:00'
+  - title: 'PATRICK LAWRENCE: A Nation of Narcissists'
+    url: https://consortiumnews.com/2025/09/09/patrick-lawrence-a-nation-of-narcissists/
+    text: Narcissism is the open-and-shut condition of the elites who fashion and execute
+      American foreign policy.  And they are utterly incapable of seeing their country
+      as it is. By Patrick Lawrence Special to Consortium News All those malign authoritarians,
+      more than… Read more →
+    one_sentence_summary: The article argues that narcissism among elites shaping U.S.
+      foreign policy blinds them to the true state of their country and the world.
+    paragraph_summary: In his article for Consortium News, Patrick Lawrence argues that
+      narcissism characterizes the elites who shape American foreign policy, leading
+      them to have a distorted perception of their country and its role in the world.
+      He suggests that these policymakers are disconnected from reality, unable to recognize
+      the consequences of their actions and the complexities of global affairs, which
+      results in misguided strategies and a lack of understanding of the perspectives
+      of other nations.
+    published: '2025-09-09T07:42:38+00:00'
+  - title: 'The Chris Hedges Report: Israel’s Genocidal ‘Aid’'
+    url: https://consortiumnews.com/2025/09/08/the-chris-hedges-report-israels-genocidal-aid/
+    text: Former Green Beret Anthony Aguilar says that so-called aid distribution in
+      Gaza is a trap for Palestinians intended to drive them into concentration camps. 
+      By Chris Hedges The Chris Hedges Report This interview is also available on podcast
+      platforms and Rumble.… Read more →
+    one_sentence_summary: Former Green Beret Anthony Aguilar claims that aid distribution
+      in Gaza is a deceptive strategy designed to confine Palestinians to concentration
+      camps.
+    paragraph_summary: In an interview with Chris Hedges, former Green Beret Anthony
+      Aguilar argues that the aid distribution in Gaza is a deceptive strategy aimed
+      at corralling Palestinians into concentration camps. He suggests that the humanitarian
+      assistance is not genuinely intended to help the population but rather serves
+      as a means to control and manipulate them, reflecting a broader critique of the
+      situation in Gaza. The discussion highlights the complexities of aid in conflict
+      zones and raises concerns about the intentions behind such initiatives.
+    published: '2025-09-08T18:00:19+00:00'
+  - title: 'The Chris Hedges Report: Israel’s Genocidal ‘Aid’'
+    url: https://consortiumnews.com/2025/09/08/the-chris-hedges-report-israels-genocidal-aid/
+    text: Former Green Beret Anthony Aguilar says that so-called aid distribution in
+      Gaza is a trap for Palestinians intended to drive them into concentration camps. 
+      By Chris Hedges The Chris Hedges Report This interview is also available on podcast
+      platforms and Rumble.… Read more →
+    one_sentence_summary: Former Green Beret Anthony Aguilar claims that aid distribution
+      in Gaza is a deceptive strategy designed to confine Palestinians to concentration
+      camps.
+    paragraph_summary: In an interview with Chris Hedges, former Green Beret Anthony
+      Aguilar argues that the aid distribution in Gaza is a deceptive strategy aimed
+      at corralling Palestinians into concentration camps. He suggests that the humanitarian
+      assistance is not genuinely intended to help the population but rather serves
+      as a means to control and manipulate them, reflecting a broader critique of the
+      situation in Gaza. The discussion highlights the complexities of aid in conflict
+      zones and raises concerns about the intentions behind such initiatives.
+    published: '2025-09-08T18:00:19+00:00'
+  - title: Trump’s Deadly Boat Attack
+    url: https://consortiumnews.com/2025/09/08/trump-s-deadly-boat-attack/
+    text: The U.S. military strike that killed 11 people on a boat in the Caribbean
+      on Sept. 2 is an act of murder and a violation of international law, experts say. 
+      By Elizabeth Weill-Greenberg Truthout Experts are condemning the U.S. military
+      strike… Read more →
+    one_sentence_summary: Experts are condemning the U.S. military strike that killed
+      11 people in the Caribbean on September 2 as an act of murder and a violation
+      of international law.
+    paragraph_summary: Experts have condemned a U.S. military strike that killed 11
+      individuals on a boat in the Caribbean on September 2, labeling it as an act of
+      murder and a violation of international law. The incident has raised significant
+      concerns regarding the legality and ethical implications of such military actions,
+      prompting calls for accountability and a reevaluation of U.S. military engagement
+      policies.
+    published: '2025-09-08T16:01:18+00:00'
+  - title: Trump’s Deadly Boat Attack
+    url: https://consortiumnews.com/2025/09/08/trump-s-deadly-boat-attack/
+    text: The U.S. military strike that killed 11 people on a boat in the Caribbean
+      on Sept. 2 is an act of murder and a violation of international law, experts say. 
+      By Elizabeth Weill-Greenberg Truthout Experts are condemning the U.S. military
+      strike… Read more →
+    one_sentence_summary: Experts are condemning the U.S. military strike that killed
+      11 people in the Caribbean on September 2 as an act of murder and a violation
+      of international law.
+    paragraph_summary: Experts have condemned a U.S. military strike that killed 11
+      individuals on a boat in the Caribbean on September 2, labeling it as an act of
+      murder and a violation of international law. The incident has raised significant
+      concerns regarding the legality and ethical implications of such military actions,
+      prompting calls for accountability and a reevaluation of U.S. military engagement
+      policies.
+    published: '2025-09-08T16:01:18+00:00'
+  - title: 'US Federal Judge: Trump Isn’t National Police Chief'
+    url: https://consortiumnews.com/2025/09/07/us-federal-judge-trump-isnt-national-police-chief/
+    text: Trump “willfully” violated the Posse Comitatus Act and his deployment of federal
+      troops to L.A. was illegal, a federal judge ruled, Marjorie Cohn reports. By Marjorie
+      Cohn Truthout Donald Trump appears fixated on “creating a national police force
+      with the president… Read more →
+    one_sentence_summary: A federal judge ruled that Donald Trump "willfully" violated
+      the Posse Comitatus Act by illegally deploying federal troops to Los Angeles.
+    paragraph_summary: A federal judge ruled that Donald Trump "willfully" violated
+      the Posse Comitatus Act by unlawfully deploying federal troops to Los Angeles,
+      as reported by Marjorie Cohn. The ruling highlights concerns over Trump's intentions
+      to establish a national police force under presidential control, raising significant
+      legal and constitutional issues regarding the use of military forces for domestic
+      law enforcement.
+    published: '2025-09-07T22:01:01+00:00'
+  - title: 'US Federal Judge: Trump Isn’t National Police Chief'
+    url: https://consortiumnews.com/2025/09/07/us-federal-judge-trump-isnt-national-police-chief/
+    text: Trump “willfully” violated the Posse Comitatus Act and his deployment of federal
+      troops to L.A. was illegal, a federal judge ruled, Marjorie Cohn reports. By Marjorie
+      Cohn Truthout Donald Trump appears fixated on “creating a national police force
+      with the president… Read more →
+    one_sentence_summary: A federal judge ruled that Donald Trump "willfully" violated
+      the Posse Comitatus Act by illegally deploying federal troops to Los Angeles.
+    paragraph_summary: A federal judge ruled that Donald Trump "willfully" violated
+      the Posse Comitatus Act by unlawfully deploying federal troops to Los Angeles,
+      as reported by Marjorie Cohn. The ruling highlights concerns over Trump's intentions
+      to establish a national police force under presidential control, raising significant
+      legal and constitutional issues regarding the use of military forces for domestic
+      law enforcement.
+    published: '2025-09-07T22:01:01+00:00'
+  - title: 'Jeffrey Sachs: How to Stop Israel Starving Gaza'
+    url: https://consortiumnews.com/2025/09/06/jeffrey-sachs-how-to-stop-israel-starving-gaza/
+    text: Even in the face of American intransigence, the world can act — and the U.S.
+      government will stand naked and alone in its criminal complicity with Israel.
+      By Jeffrey D. Sachs and Sybil Fares Common Dreams Israel, with U.S. complicity,
+      is committing genocide… Read more →
+    one_sentence_summary: The article argues that despite the U.S. government's refusal
+      to change its stance, the international community can still take action against
+      what the authors describe as genocide committed by Israel, highlighting America's
+      complicity in the situation.
+    paragraph_summary: In their article, Jeffrey D. Sachs and Sybil Fares argue that
+      despite the United States' refusal to change its stance, the global community
+      can still take action against Israel's actions, which they describe as genocidal.
+      They contend that the U.S. government is complicit in these actions and will ultimately
+      be left isolated in its support for Israel, highlighting the moral and ethical
+      implications of this complicity.
+    published: '2025-09-06T10:51:44+00:00'
+  - title: 'Jeffrey Sachs: How to Stop Israel Starving Gaza'
+    url: https://consortiumnews.com/2025/09/06/jeffrey-sachs-how-to-stop-israel-starving-gaza/
+    text: Even in the face of American intransigence, the world can act — and the U.S.
+      government will stand naked and alone in its criminal complicity with Israel.
+      By Jeffrey D. Sachs and Sybil Fares Common Dreams Israel, with U.S. complicity,
+      is committing genocide… Read more →
+    one_sentence_summary: The article argues that despite the U.S. government's refusal
+      to change its stance, the international community can still take action against
+      what the authors describe as genocide committed by Israel, highlighting America's
+      complicity in the situation.
+    paragraph_summary: In their article, Jeffrey D. Sachs and Sybil Fares argue that
+      despite the United States' refusal to change its stance, the global community
+      can still take action against Israel's actions, which they describe as genocidal.
+      They contend that the U.S. government is complicit in these actions and will ultimately
+      be left isolated in its support for Israel, highlighting the moral and ethical
+      implications of this complicity.
+    published: '2025-09-06T10:51:44+00:00'
+  - title: 'Patrick Lawrence: The State of the ‘State of Palestine’'
+    url: https://consortiumnews.com/2025/09/05/patrick-lawrence-the-state-of-the-state-of-palestine/
+    text: The upcoming United Nations General Assembly may show whether those nations
+      who have pledged to support a Palestinian state really mean business. By Patrick
+      Lawrence  ScheerPost United Nations General Assembly sessions, held each September
+      since 51 nations convened in a Methodist… Read more →
+    one_sentence_summary: The upcoming United Nations General Assembly will test the
+      commitment of nations that have pledged support for a Palestinian state.
+    paragraph_summary: The upcoming United Nations General Assembly will serve as a
+      critical test for nations that have expressed support for a Palestinian state,
+      determining whether their commitments are genuine or merely symbolic. As world
+      leaders gather, the focus will be on the actions and statements made regarding
+      Palestinian statehood, highlighting the ongoing complexities and challenges in
+      the region.
+    published: '2025-09-05T18:00:29+00:00'
+  - title: 'Patrick Lawrence: The State of the ‘State of Palestine’'
+    url: https://consortiumnews.com/2025/09/05/patrick-lawrence-the-state-of-the-state-of-palestine/
+    text: The upcoming United Nations General Assembly may show whether those nations
+      who have pledged to support a Palestinian state really mean business. By Patrick
+      Lawrence  ScheerPost United Nations General Assembly sessions, held each September
+      since 51 nations convened in a Methodist… Read more →
+    one_sentence_summary: The upcoming United Nations General Assembly will test the
+      commitment of nations that have pledged support for a Palestinian state.
+    paragraph_summary: The upcoming United Nations General Assembly will serve as a
+      critical test for nations that have expressed support for a Palestinian state,
+      determining whether their commitments are genuine or merely symbolic. As world
+      leaders gather, the focus will be on the actions and statements made regarding
+      Palestinian statehood, highlighting the ongoing complexities and challenges in
+      the region.
+    published: '2025-09-05T18:00:29+00:00'
+  - title: 9/11 Suit Against Saudi Arabia Can Go to Trial
+    url: https://consortiumnews.com/2025/09/05/9-11-suit-against-saudi-arabia-can-go-to-trial/
+    text: Information uncovered by plaintiffs undermined F.B.I.’s conclusion that two
+      U.S.-based Saudi officials “unwittingly” helped al-Qaeda hijackers. By Tim Golden
+      ProPublica More than two decades after victims of the 9/11 attacks began trying
+      to hold the government of Saudi Arabia responsible… Read more →
+    one_sentence_summary: Plaintiffs have revealed information that challenges the FBI's
+      assessment that two U.S.-based Saudi officials unknowingly assisted the al-Qaeda
+      hijackers in the 9/11 attacks.
+    paragraph_summary: An investigation by plaintiffs has revealed information that
+      challenges the FBI's assertion that two Saudi officials in the U.S. unknowingly
+      assisted the al-Qaeda hijackers involved in the 9/11 attacks. This new evidence
+      emerges over 20 years after victims' families have sought to hold the Saudi government
+      accountable for its alleged role in the attacks, suggesting a more complex involvement
+      than previously acknowledged by U.S. authorities.
+    published: '2025-09-05T16:00:52+00:00'
+  - title: 9/11 Suit Against Saudi Arabia Can Go to Trial
+    url: https://consortiumnews.com/2025/09/05/9-11-suit-against-saudi-arabia-can-go-to-trial/
+    text: Information uncovered by plaintiffs undermined F.B.I.’s conclusion that two
+      U.S.-based Saudi officials “unwittingly” helped al-Qaeda hijackers. By Tim Golden
+      ProPublica More than two decades after victims of the 9/11 attacks began trying
+      to hold the government of Saudi Arabia responsible… Read more →
+    one_sentence_summary: Plaintiffs have revealed information that challenges the FBI's
+      assessment that two U.S.-based Saudi officials unknowingly assisted the al-Qaeda
+      hijackers in the 9/11 attacks.
+    paragraph_summary: An investigation by plaintiffs has revealed information that
+      challenges the FBI's assertion that two Saudi officials in the U.S. unknowingly
+      assisted the al-Qaeda hijackers involved in the 9/11 attacks. This new evidence
+      emerges over 20 years after victims' families have sought to hold the Saudi government
+      accountable for its alleged role in the attacks, suggesting a more complex involvement
+      than previously acknowledged by U.S. authorities.
+    published: '2025-09-05T16:00:52+00:00'
+  - title: West Asia is Lurching Toward War
+    url: https://consortiumnews.com/2025/09/05/west-asia-is-lurching-toward-war/
+    text: Indications are that Israel with the support of Washington is spoiling for
+      a fight with Iran as the E3 moves for snapback sanctions against Tehran, writes
+      M. K. Bhadrakumar. By M.K. Bhadrakumar Indian Punchline There is extremely alarming
+      news about the… Read more →
+    one_sentence_summary: The article discusses the escalating tensions between Israel
+      and Iran, supported by the U.S., as the E3 nations push for the reinstatement
+      of sanctions against Tehran.
+    paragraph_summary: The article by M.K. Bhadrakumar discusses the escalating tensions
+      between Israel and Iran, suggesting that Israel, backed by the United States,
+      is preparing for potential military action against Iran. This comes as the E3
+      (France, Germany, and the UK) seeks to reinstate sanctions on Tehran, indicating
+      a significant shift in diplomatic relations and raising concerns about the possibility
+      of conflict in the region. The author highlights the urgency of the situation
+      and the implications of these developments for international stability.
+    published: '2025-09-05T05:05:41+00:00'
+  - title: West Asia is Lurching Toward War
+    url: https://consortiumnews.com/2025/09/05/west-asia-is-lurching-toward-war/
+    text: Indications are that Israel with the support of Washington is spoiling for
+      a fight with Iran as the E3 moves for snapback sanctions against Tehran, writes
+      M. K. Bhadrakumar. By M.K. Bhadrakumar Indian Punchline There is extremely alarming
+      news about the… Read more →
+    one_sentence_summary: The article discusses the escalating tensions between Israel
+      and Iran, supported by the U.S., as the E3 nations push for the reinstatement
+      of sanctions against Tehran.
+    paragraph_summary: The article by M.K. Bhadrakumar discusses the escalating tensions
+      between Israel and Iran, suggesting that Israel, backed by the United States,
+      is preparing for potential military action against Iran. This comes as the E3
+      (France, Germany, and the UK) seeks to reinstate sanctions on Tehran, indicating
+      a significant shift in diplomatic relations and raising concerns about the possibility
+      of conflict in the region. The author highlights the urgency of the situation
+      and the implications of these developments for international stability.
+    published: '2025-09-05T05:05:41+00:00'
+  - title: The US Feds Defend Their Torture Again
+    url: https://consortiumnews.com/2025/09/04/the-us-feds-defend-their-torture-again/
+    text: What government lacks all sense of natural rights, humanitarian dignity and
+      due process? America’s, writes Judge Andrew Napolitano. By Andrew P. Napolitano
+      While the public’s attention this summer has been drawn to masked ICE agents arresting
+      folks without warrants; presidentially-imposed… Read more →
+    one_sentence_summary: Judge Andrew Napolitano argues that the U.S. government disregards
+      natural rights, humanitarian dignity, and due process, as evidenced by actions
+      such as warrantless arrests by ICE agents.
+    paragraph_summary: In his article, Judge Andrew Napolitano critiques the American
+      government for disregarding natural rights, humanitarian dignity, and due process,
+      highlighting recent actions by ICE agents who arrest individuals without warrants.
+      He argues that such practices undermine the fundamental principles of justice
+      and individual rights that are supposed to be upheld in a democratic society.
+      Napolitano's commentary reflects a broader concern about the erosion of civil
+      liberties in the face of government authority and the need for a renewed commitment
+      to protecting these essential rights.
+    published: '2025-09-04T18:00:41+00:00'
+  - title: The US Feds Defend Their Torture Again
+    url: https://consortiumnews.com/2025/09/04/the-us-feds-defend-their-torture-again/
+    text: What government lacks all sense of natural rights, humanitarian dignity and
+      due process? America’s, writes Judge Andrew Napolitano. By Andrew P. Napolitano
+      While the public’s attention this summer has been drawn to masked ICE agents arresting
+      folks without warrants; presidentially-imposed… Read more →
+    one_sentence_summary: Judge Andrew Napolitano argues that the U.S. government disregards
+      natural rights, humanitarian dignity, and due process, as evidenced by actions
+      such as warrantless arrests by ICE agents.
+    paragraph_summary: In his article, Judge Andrew Napolitano critiques the American
+      government for disregarding natural rights, humanitarian dignity, and due process,
+      highlighting recent actions by ICE agents who arrest individuals without warrants.
+      He argues that such practices undermine the fundamental principles of justice
+      and individual rights that are supposed to be upheld in a democratic society.
+      Napolitano's commentary reflects a broader concern about the erosion of civil
+      liberties in the face of government authority and the need for a renewed commitment
+      to protecting these essential rights.
+    published: '2025-09-04T18:00:41+00:00'
+  - title: Profiting From an Ethnically-Cleansed Gaza
+    url: https://consortiumnews.com/2025/09/04/profiting-from-an-ethnically-cleansed-gaza/
+    text: U.S. plan proposes to replace Palestinians in Gaza with projects including
+      Gaza Trump Riviera & Islands and Elon Musk Smart Manufacturing Zones. By Brett
+      Wilkins Common Dreams The White House is “circulating” a plan to transform a substantially
+      depopulated Gaza into… Read more →
+    one_sentence_summary: The U.S. is reportedly proposing a plan to replace Palestinians
+      in Gaza with development projects like the Gaza Trump Riviera and Elon Musk Smart
+      Manufacturing Zones.
+    paragraph_summary: The article discusses a controversial U.S. proposal aimed at
+      transforming Gaza into a series of development projects, including the "Gaza Trump
+      Riviera & Islands" and "Elon Musk Smart Manufacturing Zones." This plan, which
+      is reportedly being circulated by the White House, envisions replacing the Palestinian
+      population in Gaza with these ambitious initiatives, raising significant ethical
+      and humanitarian concerns regarding the displacement of people and the implications
+      of such a transformation.
+    published: '2025-09-04T16:00:58+00:00'
+  - title: Profiting From an Ethnically-Cleansed Gaza
+    url: https://consortiumnews.com/2025/09/04/profiting-from-an-ethnically-cleansed-gaza/
+    text: U.S. plan proposes to replace Palestinians in Gaza with projects including
+      Gaza Trump Riviera & Islands and Elon Musk Smart Manufacturing Zones. By Brett
+      Wilkins Common Dreams The White House is “circulating” a plan to transform a substantially
+      depopulated Gaza into… Read more →
+    one_sentence_summary: The U.S. is reportedly proposing a plan to replace Palestinians
+      in Gaza with development projects like the Gaza Trump Riviera and Elon Musk Smart
+      Manufacturing Zones.
+    paragraph_summary: The article discusses a controversial U.S. proposal aimed at
+      transforming Gaza into a series of development projects, including the "Gaza Trump
+      Riviera & Islands" and "Elon Musk Smart Manufacturing Zones." This plan, which
+      is reportedly being circulated by the White House, envisions replacing the Palestinian
+      population in Gaza with these ambitious initiatives, raising significant ethical
+      and humanitarian concerns regarding the displacement of people and the implications
+      of such a transformation.
+    published: '2025-09-04T16:00:58+00:00'
+  - title: 'Chris Hedges: Gaza & Fake War Reporting'
+    url: https://consortiumnews.com/2025/09/04/chris-hedges-gaza-fake-war-reporting/
+    text: The barrage of Israeli lies amplified and given credibility by the Western
+      press violates a fundamental tenet of journalism, the duty to transmit the truth
+      to the viewer or reader. By Chris Hedges ScheerPost There are two types of war
+      correspondents.… Read more →
+    one_sentence_summary: The article by Chris Hedges critiques the Western press for
+      perpetuating Israeli misinformation, arguing that it undermines the core journalistic
+      responsibility to convey the truth.
+    paragraph_summary: In his article for ScheerPost, Chris Hedges critiques the Western
+      press for perpetuating what he describes as Israeli misinformation during conflicts,
+      arguing that this undermines the core journalistic principle of truth-telling.
+      He emphasizes the responsibility of war correspondents to provide accurate information,
+      suggesting that the failure to do so not only misleads the public but also compromises
+      the integrity of journalism itself. Hedges calls attention to the broader implications
+      of this distortion, highlighting the ethical obligations of reporters in the context
+      of war.
+    published: '2025-09-04T09:24:09+00:00'
+  - title: 'Chris Hedges: Gaza & Fake War Reporting'
+    url: https://consortiumnews.com/2025/09/04/chris-hedges-gaza-fake-war-reporting/
+    text: The barrage of Israeli lies amplified and given credibility by the Western
+      press violates a fundamental tenet of journalism, the duty to transmit the truth
+      to the viewer or reader. By Chris Hedges ScheerPost There are two types of war
+      correspondents.… Read more →
+    one_sentence_summary: The article by Chris Hedges critiques the Western press for
+      perpetuating Israeli misinformation, arguing that it undermines the core journalistic
+      responsibility to convey the truth.
+    paragraph_summary: In his article for ScheerPost, Chris Hedges critiques the Western
+      press for perpetuating what he describes as Israeli misinformation during conflicts,
+      arguing that this undermines the core journalistic principle of truth-telling.
+      He emphasizes the responsibility of war correspondents to provide accurate information,
+      suggesting that the failure to do so not only misleads the public but also compromises
+      the integrity of journalism itself. Hedges calls attention to the broader implications
+      of this distortion, highlighting the ethical obligations of reporters in the context
+      of war.
+    published: '2025-09-04T09:24:09+00:00'
+  - title: 'US & China: India’s Sticky Situation'
+    url: https://consortiumnews.com/2025/09/03/us-china-indias-sticky-situation/
+    text: While Modi has deepened ties with the U.S., he’s been careful to preserve
+      India’s strategic autonomy, stopping short of aligning too closely with Washington,
+      writes Betwa Sharma. By Betwa Sharma in Delhi, India Special to Consortium News
+      It has become… Read more →
+    one_sentence_summary: Modi has strengthened India's relationship with the U.S. while
+      maintaining the country's strategic autonomy and avoiding excessive alignment
+      with Washington.
+    paragraph_summary: In her article, Betwa Sharma discusses how Indian Prime Minister
+      Narendra Modi has strengthened relations with the United States while maintaining
+      India's strategic autonomy. Despite deepening ties with Washington, Modi has been
+      cautious not to align too closely with the U.S., ensuring that India retains its
+      independent foreign policy stance.
+    published: '2025-09-03T18:00:51+00:00'
+  - title: 'US & China: India’s Sticky Situation'
+    url: https://consortiumnews.com/2025/09/03/us-china-indias-sticky-situation/
+    text: While Modi has deepened ties with the U.S., he’s been careful to preserve
+      India’s strategic autonomy, stopping short of aligning too closely with Washington,
+      writes Betwa Sharma. By Betwa Sharma in Delhi, India Special to Consortium News
+      It has become… Read more →
+    one_sentence_summary: Modi has strengthened India's relationship with the U.S. while
+      maintaining the country's strategic autonomy and avoiding excessive alignment
+      with Washington.
+    paragraph_summary: In her article, Betwa Sharma discusses how Indian Prime Minister
+      Narendra Modi has strengthened relations with the United States while maintaining
+      India's strategic autonomy. Despite deepening ties with Washington, Modi has been
+      cautious not to align too closely with the U.S., ensuring that India retains its
+      independent foreign policy stance.
+    published: '2025-09-03T18:00:51+00:00'
+  - title: Labour & Elbit’s £2 Billion Military Deal
+    url: https://consortiumnews.com/2025/09/03/labour-elbits-2-billion-military-deal/
+    text: Andrew Feinstein, Paul Holden and Jack Cinamon challenge why Israel’s largest
+      arms firm and a company mired in a corruption scandal are even being considered
+      for training British troops.    By Andrew Feinstein, Paul Holden and Jack Cinamon
+      Declassified UK Britain’s… Read more →
+    one_sentence_summary: Andrew Feinstein, Paul Holden, and Jack Cinamon question the
+      appropriateness of selecting Israel's largest arms firm, which is involved in
+      a corruption scandal, for training British troops.
+    paragraph_summary: In an article by Andrew Feinstein, Paul Holden, and Jack Cinamon,
+      the authors question the rationale behind considering Israel's largest arms firm,
+      which is entangled in a corruption scandal, for training British troops. They
+      highlight concerns regarding the ethical implications and potential consequences
+      of collaborating with a company that has a questionable track record, urging a
+      reevaluation of such partnerships in the context of military training and defense
+      procurement.
+    published: '2025-09-03T16:00:29+00:00'
+  - title: Labour & Elbit’s £2 Billion Military Deal
+    url: https://consortiumnews.com/2025/09/03/labour-elbits-2-billion-military-deal/
+    text: Andrew Feinstein, Paul Holden and Jack Cinamon challenge why Israel’s largest
+      arms firm and a company mired in a corruption scandal are even being considered
+      for training British troops.    By Andrew Feinstein, Paul Holden and Jack Cinamon
+      Declassified UK Britain’s… Read more →
+    one_sentence_summary: Andrew Feinstein, Paul Holden, and Jack Cinamon question the
+      appropriateness of selecting Israel's largest arms firm, which is involved in
+      a corruption scandal, for training British troops.
+    paragraph_summary: In an article by Andrew Feinstein, Paul Holden, and Jack Cinamon,
+      the authors question the rationale behind considering Israel's largest arms firm,
+      which is entangled in a corruption scandal, for training British troops. They
+      highlight concerns regarding the ethical implications and potential consequences
+      of collaborating with a company that has a questionable track record, urging a
+      reevaluation of such partnerships in the context of military training and defense
+      procurement.
+    published: '2025-09-03T16:00:29+00:00'
   - title: 'Vijay Prashad: Liberals Paved the Way to the Far Right'
     url: https://consortiumnews.com/2025/09/02/vijay-prashad-liberals-paved-way-to-the-far-right/
     text: 'The passivity — and complicity — of Global North liberals and social democrats

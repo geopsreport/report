@@ -7,14 +7,1243 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  The geopolitical landscape remains dominated by the ongoing crisis in Gaza, with recent developments intensifying scrutiny of Israel’s actions. The International Association of Genocide Scholars has released a landmark finding: 86% of its members now agree that Israel is committing genocide in Gaza, a position echoed by multiple human rights organizations. Israel’s Foreign Ministry, however, continues to reject these conclusions, dismissing them as “misinformation from Hamas.” **Caitlin Johnstone** notes that this consensus among genocide experts marks a significant shift in the international discourse, making denial of the genocide label increasingly untenable.
+  The geopolitical landscape remains dominated by escalating Israeli military actions and the intensifying debate over Western complicity in global injustices. In recent hours, new developments have heightened tensions and drawn international scrutiny.
   
-  Public debate in Western societies is also evolving. In her latest analysis, **Johnstone** explores the moral dilemmas faced by individuals whose friends remain indifferent to the Gaza crisis. She suggests that distancing from those who ignore such grave injustices is a natural response, reflecting a broader societal reckoning with complicity and moral responsibility.
+  The most significant update comes from **Caitlin Johnstone**, who reports that Israel has carried out a deadly assassination strike in Qatar, alongside drone attacks targeting humanitarian operations. These actions have provoked widespread controversy, particularly as President Trump publicly condemned the strikes despite reports that he had approved them in advance. This contradiction has fueled criticism of both U.S. and Israeli leadership, with **Johnstone** noting, "Recent Israeli military actions... have sparked significant controversy, with President Trump publicly criticizing the attacks while reportedly having approved them in advance."
   
-  Meanwhile, the U.S. military buildup near Venezuela continues, with President Trump’s administration justifying the deployment of warships as an anti-narcotics operation. However, **Johnstone** argues that these moves are widely perceived as preparation for a potential conflict, with Caracas on high alert and regional tensions escalating.
+  Meanwhile, the fallout from the drone attack on the Global Sumud Flotilla—specifically the boat carrying activist Greta Thunberg—continues to reverberate. Although no injuries were reported, the incident has intensified calls from Israeli officials to classify aid activists as terrorists, a move aimed at deterring further humanitarian missions to Gaza. **Johnstone** highlights the broader implications, observing that such labeling efforts are part of a pattern to "deter aid efforts" and criminalize dissent.
   
-  Looking ahead, the majority of independent analysts predict that international pressure on Israel will intensify as the genocide designation gains traction among scholars and advocacy groups. There is a high chance that Western governments will face growing calls to reassess their support for Israel. In Latin America, the risk of confrontation between the U.S. and Venezuela remains elevated, with most observers warning that any incident could quickly escalate. The prevailing trend is toward increased polarization and a hardening of positions, both in the Middle East and the Americas. Given the current trajectory, it is quite likely that the coming weeks will see further diplomatic fallout and heightened activism around these crises.
+  On the Western front, the debate over moral responsibility is gaining momentum. **Johnstone** argues that Western populations must confront the role their governments play in perpetuating suffering in the global south, urging active opposition to these abuses. This sentiment is echoed by a growing number of activists and analysts who see the current moment as a test of Western conscience and agency.
+  
+  **Trends and Predictions:**  
+  The majority of independent analysts, including **Johnstone**, agree that Israeli military operations are likely to intensify, with further attempts to suppress humanitarian aid and activism. The U.S. administration’s contradictory stance is expected to persist, contributing to international confusion and frustration. There is a high chance ("most definitely") that the labeling of activists as terrorists will expand, both in rhetoric and in policy, particularly as Western governments seek to align with Israeli security narratives. The moral reckoning within Western societies over their governments’ foreign policies is also likely to deepen, with increased activism and public debate in the coming weeks.
+  
+  In summary, the situation is marked by escalating violence, hardening official rhetoric, and a growing divide between government actions and public sentiment—trends that are expected to continue with high confidence in the near term.
 articles:
+  - title: Some Days There's Just Too Much Israeli Psychopathy To Write About
+    url: https://www.caitlinjohnst.one/p/some-days-theres-just-too-much-israeli
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Recent hours have seen too much Israeli depravity to write about, including an
+      assassination strike in Qatar to sabotage peace talks, a second drone attack on
+      the Global Sumud Flotilla, and a Guardian article featuring an IDF sniper who
+      discussed killing civilians like a trophy hunter talking about game animals. The
+      IDF bombed a Doha residential building on Tuesday in an attempt to assassinate
+      Hamas officials who had gathered to discuss US-Israeli ceasefire proposals, reportedly
+      killing a Qatari security officer and four Hamas aides, as well as the son of
+      the acting Hamas political bureau chief. President Trump publicly criticized the
+      Israeli attack , but Middle East Eye reports that according to US and regional
+      officials the president had actually “blessed” the strike in advance. These would
+      be the same Hamas officials who Trump had just been aggressively threatening to
+      accept his ceasefire proposal or face severe consequences. https://x.com/Antiwarcom/status/1965472909209559050
+      Hamas said the following in a statement: “Targeting the negotiating delegation,
+      as they discussed US President Donald Trump’s latest proposal, confirms beyond
+      doubt that Netanyahu and his government do not want to reach any agreement and
+      are deliberately seeking to thwart all opportunities and thwart international
+      efforts, disregarding the lives of their prisoners held by the resistance, the
+      sovereignty of states, or the security and stability of the region. “We hold the
+      US administration jointly responsible with the occupation for this crime, due
+      to its ongoing support for the aggression and crimes of the occupation against
+      our people.” It’s hard to argue with any of this. Clearly nobody who’s calling
+      the shots in Washington and Tel Aviv has any interest in actually ending this
+      genocide. Which should surprise no one, since people who are committing genocide
+      aren’t typically interested in negotiating ceasefire talks with their victims.
+      People really need to stop taking seriously the idea that Israel has any intention
+      of ever agreeing to a ceasefire. They’ve made it clear that they’re not going
+      to stop until they’ve kicked all the Palestinians out of Gaza and annexed it,
+      and the Trump administration has made it clear they’re going to support this agenda.
+      It’s time to start believing them. https://x.com/prem_thakker/status/1965558386243825867
+      The Global Sumud Flotilla reports that there has been another drone attack on
+      another activist ship bringing aid to Gaza, with video footage clearly showing
+      something incendiary hitting the boat from above and starting a fire. The day
+      before, the boat that had been carrying Greta Thunberg and other activists was
+      struck in the same way . A video was released showing something on fire being
+      dropped on the boat from above. Another showed an activist reacting to seeing
+      a drone drop the incendiary object and saying later that he clearly saw a drone.
+      Another video picked up whirring sounds immediately prior to the fire. Yesterday
+      my social media notifications were ablaze with hasbarists trying to claim the
+      first attack was an internal mechanical fire or a cigarette fire, and then when
+      the subsequent footage emerged they shifted to trying to claim it showed a misfired
+      flare from the boat’s own occupants. The evidence is overwhelming that the Sumud
+      flotilla is being attacked by drones, but we can expect the usual spinmeisters
+      to keep pretending to believe obvious lies about it. These activists are truly
+      risking their lives with their efforts to break the Israeli siege. Their selflessness
+      gives me hope for our species. https://x.com/infinite_jaz/status/1965470996951150655
+      A Guardian article titled “ The Gaza family torn apart by IDF snipers from Chicago
+      and Munich ” is creating a lot of buzz today because of the incredibly psychopathic
+      quotes it includes from a sniper from Chicago named Daniel Raab. A joint investigation
+      by the Guardian, Arab Reporters for Investigative Journalism (ARIJ) and Paper
+      Trail Media, Der Spiegel and ZDF connected footage of unarmed civilians being
+      murdered by Israeli snipers in Gaza with social media posts and recorded admissions
+      from the perpetrators. Raab had been tricked by Palestinian journalists into confessing
+      to his crimes in Hebrew under the false promise of anonymity, with footage of
+      his admissions published online last year . An excerpt from the article: Daniel
+      Raab shows no hesitation as he watches footage of 19-year-old Salem Doghmosh crumpling
+      to the ground beside his brother in a street in northern Gaza . “That was my first
+      elimination,” he says. The video, shot by a drone, lasts just a few seconds. The
+      Palestinian teenager appears to be unarmed when he is shot in the head. Raab,
+      a former varsity basketball player from a Chicago suburb who became an Israeli
+      sniper, concedes he knew that. He says he shot Salem simply because he tried to
+      retrieve the body of his beloved older brother Mohammed. “It’s hard for me to
+      understand why he [did that] and it also doesn’t really interest me,” Raab says
+      in a video interview posted on X. “I mean, what was so important about that corpse?”
+      Another: “They’re thinking: ‘Oh I don’t think [I’ll get shot] because I’m wearing
+      civilian clothes and I am not carrying a weapon and all that, but they were wrong,”
+      said Raab, who majored in biology at the University of Illinois before joining
+      the Israel Defense Forces. “That’s what you have snipers for.” After Salem was
+      shot, his father, Montasser, 51, rushed to the site, and tried to collect his
+      sons’ bodies for burial, but was also fatally injured by a sniper. https://x.com/SeanMcCarthyCom/status/1965532830852845914
+      If I had murdered people for trying to retrieve the bodies of their loved ones
+      who I had also murdered, I’d definitely be asking myself a lot of questions, but
+      “what was so important about that corpse?” would definitely not be among them.
+      Gaza has become a hunting ground which is visited by psychopathic individuals
+      who want to experience what it’s like to kill human beings, and it’s always open
+      season. Those bloodthirsty monsters then re-enter our communities and walk among
+      us without consequences. They get to go commit atrocities and then come back and
+      resume their lives as though nothing happened, like going off to some kind of
+      genocide summer camp. It’s about the most horrific thing you can imagine. Israel
+      poisons the entire world. ___________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Wikimedia Commons/IDF .'
+    one_sentence_summary: Recent Israeli military actions, including a deadly assassination
+      strike in Qatar and drone attacks on humanitarian efforts, have sparked significant
+      controversy, with President Trump publicly criticizing the attacks while reportedly
+      having approved them in advance.
+    paragraph_summary: The article discusses recent violent actions by Israel, including
+      an assassination strike in Qatar aimed at Hamas officials during peace negotiations,
+      which resulted in civilian casualties, including a Qatari security officer and
+      the son of a Hamas leader. Despite President Trump's public criticism of the attack,
+      reports suggest he had prior approval for the strike, which aligns with his aggressive
+      stance towards Hamas regarding a ceasefire proposal. Hamas condemned the Israeli
+      actions, asserting that they demonstrate a deliberate effort by the Israeli government
+      to undermine peace efforts and hold the U.S. complicit due to its support of Israeli
+      aggression. The article concludes by suggesting that those in power in Washington
+      and Tel Aviv are not genuinely interested in resolving the conflict, as evidenced
+      by their actions.
+    published: '2025-09-10T03:04:49+00:00'
+  - title: Some Days There's Just Too Much Israeli Psychopathy To Write About
+    url: https://www.caitlinjohnst.one/p/some-days-theres-just-too-much-israeli
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Recent hours have seen too much Israeli depravity to write about, including an
+      assassination strike in Qatar to sabotage peace talks, a second drone attack on
+      the Global Sumud Flotilla, and a Guardian article featuring an IDF sniper who
+      discussed killing civilians like a trophy hunter talking about game animals. The
+      IDF bombed a Doha residential building on Tuesday in an attempt to assassinate
+      Hamas officials who had gathered to discuss US-Israeli ceasefire proposals, reportedly
+      killing a Qatari security officer and four Hamas aides, as well as the son of
+      the acting Hamas political bureau chief. President Trump publicly criticized the
+      Israeli attack , but Middle East Eye reports that according to US and regional
+      officials the president had actually “blessed” the strike in advance. These would
+      be the same Hamas officials who Trump had just been aggressively threatening to
+      accept his ceasefire proposal or face severe consequences. https://x.com/Antiwarcom/status/1965472909209559050
+      Hamas said the following in a statement: “Targeting the negotiating delegation,
+      as they discussed US President Donald Trump’s latest proposal, confirms beyond
+      doubt that Netanyahu and his government do not want to reach any agreement and
+      are deliberately seeking to thwart all opportunities and thwart international
+      efforts, disregarding the lives of their prisoners held by the resistance, the
+      sovereignty of states, or the security and stability of the region. “We hold the
+      US administration jointly responsible with the occupation for this crime, due
+      to its ongoing support for the aggression and crimes of the occupation against
+      our people.” It’s hard to argue with any of this. Clearly nobody who’s calling
+      the shots in Washington and Tel Aviv has any interest in actually ending this
+      genocide. Which should surprise no one, since people who are committing genocide
+      aren’t typically interested in negotiating ceasefire talks with their victims.
+      People really need to stop taking seriously the idea that Israel has any intention
+      of ever agreeing to a ceasefire. They’ve made it clear that they’re not going
+      to stop until they’ve kicked all the Palestinians out of Gaza and annexed it,
+      and the Trump administration has made it clear they’re going to support this agenda.
+      It’s time to start believing them. https://x.com/prem_thakker/status/1965558386243825867
+      The Global Sumud Flotilla reports that there has been another drone attack on
+      another activist ship bringing aid to Gaza, with video footage clearly showing
+      something incendiary hitting the boat from above and starting a fire. The day
+      before, the boat that had been carrying Greta Thunberg and other activists was
+      struck in the same way . A video was released showing something on fire being
+      dropped on the boat from above. Another showed an activist reacting to seeing
+      a drone drop the incendiary object and saying later that he clearly saw a drone.
+      Another video picked up whirring sounds immediately prior to the fire. Yesterday
+      my social media notifications were ablaze with hasbarists trying to claim the
+      first attack was an internal mechanical fire or a cigarette fire, and then when
+      the subsequent footage emerged they shifted to trying to claim it showed a misfired
+      flare from the boat’s own occupants. The evidence is overwhelming that the Sumud
+      flotilla is being attacked by drones, but we can expect the usual spinmeisters
+      to keep pretending to believe obvious lies about it. These activists are truly
+      risking their lives with their efforts to break the Israeli siege. Their selflessness
+      gives me hope for our species. https://x.com/infinite_jaz/status/1965470996951150655
+      A Guardian article titled “ The Gaza family torn apart by IDF snipers from Chicago
+      and Munich ” is creating a lot of buzz today because of the incredibly psychopathic
+      quotes it includes from a sniper from Chicago named Daniel Raab. A joint investigation
+      by the Guardian, Arab Reporters for Investigative Journalism (ARIJ) and Paper
+      Trail Media, Der Spiegel and ZDF connected footage of unarmed civilians being
+      murdered by Israeli snipers in Gaza with social media posts and recorded admissions
+      from the perpetrators. Raab had been tricked by Palestinian journalists into confessing
+      to his crimes in Hebrew under the false promise of anonymity, with footage of
+      his admissions published online last year . An excerpt from the article: Daniel
+      Raab shows no hesitation as he watches footage of 19-year-old Salem Doghmosh crumpling
+      to the ground beside his brother in a street in northern Gaza . “That was my first
+      elimination,” he says. The video, shot by a drone, lasts just a few seconds. The
+      Palestinian teenager appears to be unarmed when he is shot in the head. Raab,
+      a former varsity basketball player from a Chicago suburb who became an Israeli
+      sniper, concedes he knew that. He says he shot Salem simply because he tried to
+      retrieve the body of his beloved older brother Mohammed. “It’s hard for me to
+      understand why he [did that] and it also doesn’t really interest me,” Raab says
+      in a video interview posted on X. “I mean, what was so important about that corpse?”
+      Another: “They’re thinking: ‘Oh I don’t think [I’ll get shot] because I’m wearing
+      civilian clothes and I am not carrying a weapon and all that, but they were wrong,”
+      said Raab, who majored in biology at the University of Illinois before joining
+      the Israel Defense Forces. “That’s what you have snipers for.” After Salem was
+      shot, his father, Montasser, 51, rushed to the site, and tried to collect his
+      sons’ bodies for burial, but was also fatally injured by a sniper. https://x.com/SeanMcCarthyCom/status/1965532830852845914
+      If I had murdered people for trying to retrieve the bodies of their loved ones
+      who I had also murdered, I’d definitely be asking myself a lot of questions, but
+      “what was so important about that corpse?” would definitely not be among them.
+      Gaza has become a hunting ground which is visited by psychopathic individuals
+      who want to experience what it’s like to kill human beings, and it’s always open
+      season. Those bloodthirsty monsters then re-enter our communities and walk among
+      us without consequences. They get to go commit atrocities and then come back and
+      resume their lives as though nothing happened, like going off to some kind of
+      genocide summer camp. It’s about the most horrific thing you can imagine. Israel
+      poisons the entire world. ___________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Wikimedia Commons/IDF .'
+    one_sentence_summary: Recent Israeli military actions, including a deadly assassination
+      strike in Qatar and drone attacks on humanitarian efforts, have sparked significant
+      controversy, with President Trump publicly criticizing the attacks while reportedly
+      having approved them in advance.
+    paragraph_summary: The article discusses recent violent actions by Israel, including
+      an assassination strike in Qatar aimed at Hamas officials during peace negotiations,
+      which resulted in civilian casualties, including a Qatari security officer and
+      the son of a Hamas leader. Despite President Trump's public criticism of the attack,
+      reports suggest he had prior approval for the strike, which aligns with his aggressive
+      stance towards Hamas regarding a ceasefire proposal. Hamas condemned the Israeli
+      actions, asserting that they demonstrate a deliberate effort by the Israeli government
+      to undermine peace efforts and hold the U.S. complicit due to its support of Israeli
+      aggression. The article concludes by suggesting that those in power in Washington
+      and Tel Aviv are not genuinely interested in resolving the conflict, as evidenced
+      by their actions.
+    published: '2025-09-10T03:04:49+00:00'
+  - title: They Just Bombed Greta Thunberg's Boat
+    url: https://www.caitlinjohnst.one/p/they-just-bombed-greta-thunbergs
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now A drone appears to have struck a boat from
+      the Global Sumud Flotilla while it was docked at a Tunisian port on its way to
+      bring aid into Gaza, temporarily starting a fire. Nobody on board was harmed.
+      The boat was reportedly crewed by the same activists who had attempted to sail
+      to Gaza on the Madleen this past July, including Greta Thunberg. And it is here
+      worth noting that Israeli National Security Minister Itamar Ben-Gvir recently
+      said that Global Sumud Flotilla activists must be designated as terrorists and
+      treated accordingly, in order to “create a clear deterrent” against foreign parties
+      attempting to bring aid into Gaza by sea. It is no mystery who the prime suspect
+      is in this attack. https://x.com/FranceskAlbs/status/1965202434298708363 This
+      is such a dark and surreal timeline. I keep imagining going back in time a few
+      years and trying to explain to someone from like 2019 that in 2025 there’d be
+      a solid chance that the Israeli military might assassinate Greta Thunberg. ❖ Western
+      officials have been falling all over themselves to express their deepest condolences
+      and sympathy for six Israelis who were killed by Palestinian gunmen at a bus stop
+      in Jerusalem on Monday, with statements pouring out from the US State Department
+      , French President Emmanuel Macron , British Foreign Secretary Yvette Cooper ,
+      German Foreign Minister Johann Wadephul , and EU Spokesman Anouar El Anouni .
+      Over six dead Israelis. After watching scores of Palestinian civilians get butchered
+      by Israel every single day for two years without uttering a peep about them. Make
+      no mistake, with all this weeping and garment rending about six dead Israelis
+      the leaders of the western world are openly and explicitly telling us that they
+      do not regard Palestinians as human beings. ❖ https://x.com/caitoz/status/1964450127495708840
+      Israel supporters are so crazy and evil that the Los Angeles Holocaust Museum
+      recently retracted a statement saying “Never again can’t only mean never again
+      for Jews” after objections from Zionists. The museum issued a statement saying,
+      “We recently posted an item on social media that was part of a pre-planned social
+      media campaign intended to promote inclusivity and community that was easily open
+      to misinterpretation by some to be a political statement reflecting the ongoing
+      situation in the Middle East. That was not our intent. It has been removed to
+      avoid any further confusion.” Think about how gross your position has to be for
+      you to be all hey, let’s say no genocide for ANYBODY, and then immediately have
+      to come back and clarify that you definitely weren’t saying no genocide for the
+      Palestinians. ❖ Cracks me up that Israel supporters’ strongest argument that the
+      Jews have claim to that land is “Okay, so, thousands of years ago, some people
+      with similar religious beliefs to modern Israelis were forced to leave.” ❖ https://x.com/caitoz/status/1965069215767130244
+      ❖ The point is to make forceful opposition to the Gaza holocaust mainstream. That
+      is the goal here. This will necessarily entail celebrities cynically joining the
+      cause far too late, politicians whose politics we despise joining our side, copious
+      amounts of liberal cringe, and the same western media outlets who helped manufacture
+      consent for this genocide suddenly pivoting against it. Those of us who’ve been
+      opposing Israel’s western-backed holocaust from the beginning should want this.
+      We should welcome it, because we care about ending this mass atrocity more than
+      we care about feeling superior to the mainstream liberals and conservatives who
+      are carrying this issue into the front and center of public consciousness. Moving
+      this issue out of the political fringes and into the mainstream has always been
+      the goal; it’s too important to gatekeep. As this issue picks up more and more
+      steam, our role will shift from one of drawing attention to a historic injustice
+      to one of leadership. The people in our communities whose attention is suddenly
+      being steered toward this issue will need our help forming a clear picture of
+      what’s been happening this whole time. This will mean teaching people about the
+      complicity of our own western governments. How both major political parties have
+      played a role in inflicting this nightmare upon the Palestinians, not just since
+      2023 but for generations prior. How the mass media lied to them and manipulated
+      their understanding of what was really happening. How we’ve been deceived about
+      all the acts of mass military slaughter our government has involved itself in
+      over the years. How we really don’t live in the kind of world we were taught about
+      in school. The mainstream public opening their eyes to Gaza creates an opportunity
+      for us to help them open their eyes to so much more. Don’t waste your energy getting
+      annoyed at the normies showing up late to the protest and saying naive things.
+      Instead, be glad of their participation, help them form a truth-based understanding
+      of what’s really going on with Palestine, and use this moment to radicalize them
+      against the machine that gave rise to this horror. ________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      via Francesca Albanese on X .'
+    one_sentence_summary: A drone attack on the Global Sumud Flotilla's boat in Tunisia,
+      which was en route to deliver aid to Gaza and crewed by activists including Greta
+      Thunberg, sparked a fire but caused no injuries, amid calls from Israeli officials
+      to label such activists as terrorists to deter aid efforts.
+    paragraph_summary: A drone attack targeted the Global Sumud Flotilla's boat while
+      it was docked in Tunisia, en route to deliver aid to Gaza, igniting a fire but
+      causing no injuries among the crew, which included activists like Greta Thunberg.
+      This incident follows Israeli National Security Minister Itamar Ben-Gvir's call
+      to label the flotilla's activists as terrorists to deter foreign aid efforts to
+      Gaza. The article reflects on the surreal nature of the current geopolitical climate,
+      suggesting that in a few years, it may not be far-fetched to consider the possibility
+      of the Israeli military targeting Thunberg. Additionally, it critiques the disproportionate
+      sympathy expressed by Western leaders for Israeli casualties compared to the ongoing
+      violence against Palestinian civilians, highlighting a perceived disregard for
+      Palestinian lives.
+    published: '2025-09-09T02:15:03+00:00'
+  - title: They Just Bombed Greta Thunberg's Boat
+    url: https://www.caitlinjohnst.one/p/they-just-bombed-greta-thunbergs
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now A drone appears to have struck a boat from
+      the Global Sumud Flotilla while it was docked at a Tunisian port on its way to
+      bring aid into Gaza, temporarily starting a fire. Nobody on board was harmed.
+      The boat was reportedly crewed by the same activists who had attempted to sail
+      to Gaza on the Madleen this past July, including Greta Thunberg. And it is here
+      worth noting that Israeli National Security Minister Itamar Ben-Gvir recently
+      said that Global Sumud Flotilla activists must be designated as terrorists and
+      treated accordingly, in order to “create a clear deterrent” against foreign parties
+      attempting to bring aid into Gaza by sea. It is no mystery who the prime suspect
+      is in this attack. https://x.com/FranceskAlbs/status/1965202434298708363 This
+      is such a dark and surreal timeline. I keep imagining going back in time a few
+      years and trying to explain to someone from like 2019 that in 2025 there’d be
+      a solid chance that the Israeli military might assassinate Greta Thunberg. ❖ Western
+      officials have been falling all over themselves to express their deepest condolences
+      and sympathy for six Israelis who were killed by Palestinian gunmen at a bus stop
+      in Jerusalem on Monday, with statements pouring out from the US State Department
+      , French President Emmanuel Macron , British Foreign Secretary Yvette Cooper ,
+      German Foreign Minister Johann Wadephul , and EU Spokesman Anouar El Anouni .
+      Over six dead Israelis. After watching scores of Palestinian civilians get butchered
+      by Israel every single day for two years without uttering a peep about them. Make
+      no mistake, with all this weeping and garment rending about six dead Israelis
+      the leaders of the western world are openly and explicitly telling us that they
+      do not regard Palestinians as human beings. ❖ https://x.com/caitoz/status/1964450127495708840
+      Israel supporters are so crazy and evil that the Los Angeles Holocaust Museum
+      recently retracted a statement saying “Never again can’t only mean never again
+      for Jews” after objections from Zionists. The museum issued a statement saying,
+      “We recently posted an item on social media that was part of a pre-planned social
+      media campaign intended to promote inclusivity and community that was easily open
+      to misinterpretation by some to be a political statement reflecting the ongoing
+      situation in the Middle East. That was not our intent. It has been removed to
+      avoid any further confusion.” Think about how gross your position has to be for
+      you to be all hey, let’s say no genocide for ANYBODY, and then immediately have
+      to come back and clarify that you definitely weren’t saying no genocide for the
+      Palestinians. ❖ Cracks me up that Israel supporters’ strongest argument that the
+      Jews have claim to that land is “Okay, so, thousands of years ago, some people
+      with similar religious beliefs to modern Israelis were forced to leave.” ❖ https://x.com/caitoz/status/1965069215767130244
+      ❖ The point is to make forceful opposition to the Gaza holocaust mainstream. That
+      is the goal here. This will necessarily entail celebrities cynically joining the
+      cause far too late, politicians whose politics we despise joining our side, copious
+      amounts of liberal cringe, and the same western media outlets who helped manufacture
+      consent for this genocide suddenly pivoting against it. Those of us who’ve been
+      opposing Israel’s western-backed holocaust from the beginning should want this.
+      We should welcome it, because we care about ending this mass atrocity more than
+      we care about feeling superior to the mainstream liberals and conservatives who
+      are carrying this issue into the front and center of public consciousness. Moving
+      this issue out of the political fringes and into the mainstream has always been
+      the goal; it’s too important to gatekeep. As this issue picks up more and more
+      steam, our role will shift from one of drawing attention to a historic injustice
+      to one of leadership. The people in our communities whose attention is suddenly
+      being steered toward this issue will need our help forming a clear picture of
+      what’s been happening this whole time. This will mean teaching people about the
+      complicity of our own western governments. How both major political parties have
+      played a role in inflicting this nightmare upon the Palestinians, not just since
+      2023 but for generations prior. How the mass media lied to them and manipulated
+      their understanding of what was really happening. How we’ve been deceived about
+      all the acts of mass military slaughter our government has involved itself in
+      over the years. How we really don’t live in the kind of world we were taught about
+      in school. The mainstream public opening their eyes to Gaza creates an opportunity
+      for us to help them open their eyes to so much more. Don’t waste your energy getting
+      annoyed at the normies showing up late to the protest and saying naive things.
+      Instead, be glad of their participation, help them form a truth-based understanding
+      of what’s really going on with Palestine, and use this moment to radicalize them
+      against the machine that gave rise to this horror. ________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      via Francesca Albanese on X .'
+    one_sentence_summary: A drone attack on the Global Sumud Flotilla's boat in Tunisia,
+      which was en route to deliver aid to Gaza and crewed by activists including Greta
+      Thunberg, sparked a fire but caused no injuries, amid calls from Israeli officials
+      to label such activists as terrorists to deter aid efforts.
+    paragraph_summary: A drone attack targeted the Global Sumud Flotilla's boat while
+      it was docked in Tunisia, en route to deliver aid to Gaza, igniting a fire but
+      causing no injuries among the crew, which included activists like Greta Thunberg.
+      This incident follows Israeli National Security Minister Itamar Ben-Gvir's call
+      to label the flotilla's activists as terrorists to deter foreign aid efforts to
+      Gaza. The article reflects on the surreal nature of the current geopolitical climate,
+      suggesting that in a few years, it may not be far-fetched to consider the possibility
+      of the Israeli military targeting Thunberg. Additionally, it critiques the disproportionate
+      sympathy expressed by Western leaders for Israeli casualties compared to the ongoing
+      violence against Palestinian civilians, highlighting a perceived disregard for
+      Palestinian lives.
+    published: '2025-09-09T02:15:03+00:00'
+  - title: Westerners Have A Moral Responsibility To Help Curb The Empire's Abuses
+    url: https://www.caitlinjohnst.one/p/westerners-have-a-moral-responsibility
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      In a sense all I’m ever really pointing at here is the importance of taking responsibility.
+      Taking responsibility as westerners for the suffering and destruction inflicted
+      upon the world by the western power structure that we live under. To be a westerner
+      is to live in a civilization that is powered by the abuse and exploitation of
+      the people of the global south. Every one of us benefits directly from the way
+      resources and labor are exploitatively extracted from nations that are held in
+      subjugation to the western empire at the barrel of a gun. The very electronic
+      device you are reading these words on is a testament to this reality. We each
+      have a moral obligation to end this abusive dynamic. We have a responsibility
+      to oppose the mass murder, tyranny, theft and abuse which is being imposed upon
+      the rest of the world by the nations in which we live. This is one of the reasons
+      why I have no patience for rightists who whine about immigrants. It is not legitimate
+      to live in a civilization which bombs, destabilizes, exploits and extracts from
+      the global south and then complain when the victims of the bombing, destabilization,
+      exploitation and extraction move to your country to get away from the misery your
+      society caused them. Whenever I say this I get rightists telling me “It’s not
+      OUR fault there are immigrants! It’s our leaders! They’re the ones doing this,
+      not us!” And to them I can only say, nah. You’re just shirking your responsibility.
+      You’re being immature and irresponsible. You need to grow up and take responsibility
+      for your part of the bargain here. You need to stop blaming your problems on the
+      desperate victims of your country’s abuses, and start doing what you can to end
+      those abuses. Don’t whine to me about how powerless you are. You know who’s a
+      lot less powerful than you? The immigrants you’re bitching about. The exploited,
+      abused nations they’ve been driven from. You’ve got a hell of a lot more power
+      to effect meaningful change than they do. They’re being blown about by the winds
+      of circumstances which you directly benefit from. Quit your bellyaching and get
+      to work. Ferociously oppose genocide. Ferociously oppose war. Ferociously oppose
+      militarism. Ferociously oppose imperialism. Stand in solidarity with the ordinary
+      workers around the world who are being exploited by the empire under which we
+      live. Do everything you can to wake your fellow westerners up to the reality of
+      the empire’s abuses and help create a grassroots movement to tear it down. That’s
+      your responsibility. This is why I’m always dismissive of people who say “Why
+      are you always criticizing the west? Why aren’t you talking about that evil regime
+      over there in Asia or Africa?” Those aren’t my responsibility. I am a westerner.
+      I live under the US-centralized western empire whose abuses dwarf those of any
+      non-western power structure by orders of magnitude. I focus on the power structure
+      under which I live, which also happens to be the most murderous and tyrannical
+      power structure on earth, because that is my responsibility. Obviously our rulers
+      are far more culpable in the abuses of the western empire than the ordinary individuals
+      who live here, but we in turn are far more culpable in those abuses than the non-westerners
+      whose labor and resources are being extracted so we can have cheap stuff whenever
+      we want it. I’m not saying this exploitation makes all westerners inherently evil,
+      I’m just saying we have a responsibility to do whatever we can to help end an
+      abusive situation. We need to stop trying to offload the blame for our circumstances
+      onto others and set to work opening eyes and fomenting a revolutionary zeitgeist.
+      Our leaders aren’t going to cease their abuses of their own volition, so we’re
+      going to have to find a way to force them to. That is our duty. That is our responsibility.
+      We will never create a healthy world and become a truly conscious species on this
+      planet until we have gotten real about this. ________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image by Cary Bass-Deschênes (CC BY-SA
+      2.0)'
+    one_sentence_summary: The article emphasizes the moral responsibility of Westerners
+      to acknowledge and address the exploitation and suffering caused by their power
+      structures on the global south, urging them to oppose the injustices perpetuated
+      by their civilization.
+    paragraph_summary: The article emphasizes the moral responsibility of Westerners
+      to acknowledge and address the suffering and exploitation caused by their civilization's
+      power structures, particularly towards nations in the global south. It argues
+      that the wealth and comfort enjoyed in the West are built on the abuse and extraction
+      of resources from these countries, and thus, individuals must take accountability
+      for the consequences of their society's actions. The author criticizes right-wing
+      attitudes that blame immigrants for their plight, asserting that such views are
+      a refusal to confront the realities of Western complicity in global injustices.
+      Instead of deflecting blame, the article calls for a collective effort to end
+      the abusive dynamics perpetuated by Western nations.
+    published: '2025-09-08T13:07:28+00:00'
+  - title: Westerners Have A Moral Responsibility To Help Curb The Empire's Abuses
+    url: https://www.caitlinjohnst.one/p/westerners-have-a-moral-responsibility
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      In a sense all I’m ever really pointing at here is the importance of taking responsibility.
+      Taking responsibility as westerners for the suffering and destruction inflicted
+      upon the world by the western power structure that we live under. To be a westerner
+      is to live in a civilization that is powered by the abuse and exploitation of
+      the people of the global south. Every one of us benefits directly from the way
+      resources and labor are exploitatively extracted from nations that are held in
+      subjugation to the western empire at the barrel of a gun. The very electronic
+      device you are reading these words on is a testament to this reality. We each
+      have a moral obligation to end this abusive dynamic. We have a responsibility
+      to oppose the mass murder, tyranny, theft and abuse which is being imposed upon
+      the rest of the world by the nations in which we live. This is one of the reasons
+      why I have no patience for rightists who whine about immigrants. It is not legitimate
+      to live in a civilization which bombs, destabilizes, exploits and extracts from
+      the global south and then complain when the victims of the bombing, destabilization,
+      exploitation and extraction move to your country to get away from the misery your
+      society caused them. Whenever I say this I get rightists telling me “It’s not
+      OUR fault there are immigrants! It’s our leaders! They’re the ones doing this,
+      not us!” And to them I can only say, nah. You’re just shirking your responsibility.
+      You’re being immature and irresponsible. You need to grow up and take responsibility
+      for your part of the bargain here. You need to stop blaming your problems on the
+      desperate victims of your country’s abuses, and start doing what you can to end
+      those abuses. Don’t whine to me about how powerless you are. You know who’s a
+      lot less powerful than you? The immigrants you’re bitching about. The exploited,
+      abused nations they’ve been driven from. You’ve got a hell of a lot more power
+      to effect meaningful change than they do. They’re being blown about by the winds
+      of circumstances which you directly benefit from. Quit your bellyaching and get
+      to work. Ferociously oppose genocide. Ferociously oppose war. Ferociously oppose
+      militarism. Ferociously oppose imperialism. Stand in solidarity with the ordinary
+      workers around the world who are being exploited by the empire under which we
+      live. Do everything you can to wake your fellow westerners up to the reality of
+      the empire’s abuses and help create a grassroots movement to tear it down. That’s
+      your responsibility. This is why I’m always dismissive of people who say “Why
+      are you always criticizing the west? Why aren’t you talking about that evil regime
+      over there in Asia or Africa?” Those aren’t my responsibility. I am a westerner.
+      I live under the US-centralized western empire whose abuses dwarf those of any
+      non-western power structure by orders of magnitude. I focus on the power structure
+      under which I live, which also happens to be the most murderous and tyrannical
+      power structure on earth, because that is my responsibility. Obviously our rulers
+      are far more culpable in the abuses of the western empire than the ordinary individuals
+      who live here, but we in turn are far more culpable in those abuses than the non-westerners
+      whose labor and resources are being extracted so we can have cheap stuff whenever
+      we want it. I’m not saying this exploitation makes all westerners inherently evil,
+      I’m just saying we have a responsibility to do whatever we can to help end an
+      abusive situation. We need to stop trying to offload the blame for our circumstances
+      onto others and set to work opening eyes and fomenting a revolutionary zeitgeist.
+      Our leaders aren’t going to cease their abuses of their own volition, so we’re
+      going to have to find a way to force them to. That is our duty. That is our responsibility.
+      We will never create a healthy world and become a truly conscious species on this
+      planet until we have gotten real about this. ________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image by Cary Bass-Deschênes (CC BY-SA
+      2.0)'
+    one_sentence_summary: The article emphasizes the moral responsibility of Westerners
+      to acknowledge and address the exploitation and suffering caused by their power
+      structures on the global south, urging them to oppose the injustices perpetuated
+      by their civilization.
+    paragraph_summary: The article emphasizes the moral responsibility of Westerners
+      to acknowledge and address the suffering and exploitation caused by their civilization's
+      power structures, particularly towards nations in the global south. It argues
+      that the wealth and comfort enjoyed in the West are built on the abuse and extraction
+      of resources from these countries, and thus, individuals must take accountability
+      for the consequences of their society's actions. The author criticizes right-wing
+      attitudes that blame immigrants for their plight, asserting that such views are
+      a refusal to confront the realities of Western complicity in global injustices.
+      Instead of deflecting blame, the article calls for a collective effort to end
+      the abusive dynamics perpetuated by Western nations.
+    published: '2025-09-08T13:07:28+00:00'
+  - title: The Word "Terrorist" Becomes More And More Of A Joke By The Day
+    url: https://www.caitlinjohnst.one/p/the-word-terrorist-becomes-more-and
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      British police arrested nearly 900 people over the weekend for expressing support
+      for the peace activist group Palestine Action. Under UK law it is illegal to express
+      favorable opinions about the group because London has deemed Palestine Action
+      a terrorist organization, in the same category as ISIS or Al Qaeda. At the same
+      time, the Trump administration is defending its assassination of a boat full of
+      Venezuelans on the allegation that they were “ narcoterrorists ”, an imaginary
+      category designed to lump garden variety drug traffickers in with suicide bombers
+      and mass shooters. The word “terrorist” becomes more and more of a joke by the
+      day. https://x.com/caitoz/status/1964457887696290204 In the UK a terrorist is
+      someone with a cardboard sign saying “I support Palestine Action”. In the US a
+      terrorist is a Venezuelan suspected of drug trafficking. In Israel a terrorist
+      is someone resisting occupation. We’re told Yemen is full of terrorists because
+      they’re trying to stop a 21st century holocaust . We’re told Lebanon is full of
+      terrorists because they oppose a genocidal apartheid state. We’re told Iran is
+      full of terrorists because its government resists imperial regime change agendas.
+      We were told Al Qaeda were terrorists because they perpetrated the 9/11 attacks,
+      but when Al Qaeda helped the west get rid of Assad they suddenly weren’t terrorists
+      anymore . Uyghur militants used to be terrorists, but they came off the list when
+      they were deemed useful operatives against Beijing and Damascus . Iraq needed
+      to be invaded because Saddam wanted to give weapons of mass destruction to terrorists,
+      but after the invasion it turned out that there were no weapons of mass destruction,
+      and then Iraq was suddenly plagued by an epidemic of suicide bombings. Afghanistan
+      needed to be invaded because the Taliban was providing a safe haven for terrorists,
+      but after 20 years of military occupation the empire needed its war machinery
+      for other duties so they let the Taliban retake Afghanistan. In 2010, then-vice
+      president Joe Biden proclaimed Julian Assange a “high-tech terrorist” because
+      his journalism with WikiLeaks exposed US war crimes. Terrorism was used as an
+      excuse to roll out the Patriot Act in the US and the Terrorism Act in the UK,
+      and countless other authoritarian measures throughout the western world which
+      tyrannical empire managers had been seeking to impose for years. https://x.com/caitoz/status/1964800706252280045
+      Really “terrorist” just means someone the empire wants to kill or imprison, or
+      a group whose terrorist designation might be used to justify the advancement of
+      preexisting geostrategic agendas. Propaganda is used to sear events like 9/11
+      into western consciousness as examples of terrorism which must be prevented at
+      all cost, and then this label “terrorism” is applied to literally anyone who poses
+      an obstacle to the agendas of the western empire. Once it is accepted that there
+      should be no rules restricting how the state responds to the threat of terrorism,
+      all the state needs to do is label someone a terrorist to remove all rules which
+      might stop them from doing whatever they want to do. Nowhere is this more clearly
+      illustrated right now than the ongoing genocide in Gaza which is being justified
+      by the need to eliminate terrorists. When power-seeking empire architects are
+      given limitless power to fight terrorism, we suddenly find ourselves in a world
+      full of designated terrorists. The more despised the western empire becomes, the
+      more “terrorists” there are going to be. Because a terrorist is anyone who takes
+      action which inconveniences the empire. If this keeps up, soon we will all be
+      “terrorists”. ________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: British police arrested nearly 900 individuals for supporting
+      the peace activist group Palestine Action, which is classified as a terrorist
+      organization in the UK, highlighting the evolving and often arbitrary definitions
+      of terrorism across different contexts.
+    paragraph_summary: British police recently arrested nearly 900 individuals for supporting
+      Palestine Action, a group labeled as a terrorist organization by the UK government,
+      equating it with groups like ISIS and Al Qaeda. This incident highlights the evolving
+      and often arbitrary use of the term "terrorist" in global politics, where definitions
+      vary widely depending on context and political agendas. For instance, in the US,
+      the term is applied to Venezuelans accused of drug trafficking, while in Israel,
+      it refers to those resisting occupation. The article critiques the inconsistent
+      application of the label, pointing out that groups previously classified as terrorists
+      can be redefined based on geopolitical interests, as seen with Al Qaeda and Uyghur
+      militants. The narrative suggests that the term "terrorist" has become increasingly
+      diluted and politicized, losing its original meaning.
+    published: '2025-09-08T01:44:00+00:00'
+  - title: The Word "Terrorist" Becomes More And More Of A Joke By The Day
+    url: https://www.caitlinjohnst.one/p/the-word-terrorist-becomes-more-and
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      British police arrested nearly 900 people over the weekend for expressing support
+      for the peace activist group Palestine Action. Under UK law it is illegal to express
+      favorable opinions about the group because London has deemed Palestine Action
+      a terrorist organization, in the same category as ISIS or Al Qaeda. At the same
+      time, the Trump administration is defending its assassination of a boat full of
+      Venezuelans on the allegation that they were “ narcoterrorists ”, an imaginary
+      category designed to lump garden variety drug traffickers in with suicide bombers
+      and mass shooters. The word “terrorist” becomes more and more of a joke by the
+      day. https://x.com/caitoz/status/1964457887696290204 In the UK a terrorist is
+      someone with a cardboard sign saying “I support Palestine Action”. In the US a
+      terrorist is a Venezuelan suspected of drug trafficking. In Israel a terrorist
+      is someone resisting occupation. We’re told Yemen is full of terrorists because
+      they’re trying to stop a 21st century holocaust . We’re told Lebanon is full of
+      terrorists because they oppose a genocidal apartheid state. We’re told Iran is
+      full of terrorists because its government resists imperial regime change agendas.
+      We were told Al Qaeda were terrorists because they perpetrated the 9/11 attacks,
+      but when Al Qaeda helped the west get rid of Assad they suddenly weren’t terrorists
+      anymore . Uyghur militants used to be terrorists, but they came off the list when
+      they were deemed useful operatives against Beijing and Damascus . Iraq needed
+      to be invaded because Saddam wanted to give weapons of mass destruction to terrorists,
+      but after the invasion it turned out that there were no weapons of mass destruction,
+      and then Iraq was suddenly plagued by an epidemic of suicide bombings. Afghanistan
+      needed to be invaded because the Taliban was providing a safe haven for terrorists,
+      but after 20 years of military occupation the empire needed its war machinery
+      for other duties so they let the Taliban retake Afghanistan. In 2010, then-vice
+      president Joe Biden proclaimed Julian Assange a “high-tech terrorist” because
+      his journalism with WikiLeaks exposed US war crimes. Terrorism was used as an
+      excuse to roll out the Patriot Act in the US and the Terrorism Act in the UK,
+      and countless other authoritarian measures throughout the western world which
+      tyrannical empire managers had been seeking to impose for years. https://x.com/caitoz/status/1964800706252280045
+      Really “terrorist” just means someone the empire wants to kill or imprison, or
+      a group whose terrorist designation might be used to justify the advancement of
+      preexisting geostrategic agendas. Propaganda is used to sear events like 9/11
+      into western consciousness as examples of terrorism which must be prevented at
+      all cost, and then this label “terrorism” is applied to literally anyone who poses
+      an obstacle to the agendas of the western empire. Once it is accepted that there
+      should be no rules restricting how the state responds to the threat of terrorism,
+      all the state needs to do is label someone a terrorist to remove all rules which
+      might stop them from doing whatever they want to do. Nowhere is this more clearly
+      illustrated right now than the ongoing genocide in Gaza which is being justified
+      by the need to eliminate terrorists. When power-seeking empire architects are
+      given limitless power to fight terrorism, we suddenly find ourselves in a world
+      full of designated terrorists. The more despised the western empire becomes, the
+      more “terrorists” there are going to be. Because a terrorist is anyone who takes
+      action which inconveniences the empire. If this keeps up, soon we will all be
+      “terrorists”. ________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: British police arrested nearly 900 individuals for supporting
+      the peace activist group Palestine Action, which is classified as a terrorist
+      organization in the UK, highlighting the evolving and often arbitrary definitions
+      of terrorism across different contexts.
+    paragraph_summary: British police recently arrested nearly 900 individuals for supporting
+      Palestine Action, a group labeled as a terrorist organization by the UK government,
+      equating it with groups like ISIS and Al Qaeda. This incident highlights the evolving
+      and often arbitrary use of the term "terrorist" in global politics, where definitions
+      vary widely depending on context and political agendas. For instance, in the US,
+      the term is applied to Venezuelans accused of drug trafficking, while in Israel,
+      it refers to those resisting occupation. The article critiques the inconsistent
+      application of the label, pointing out that groups previously classified as terrorists
+      can be redefined based on geopolitical interests, as seen with Al Qaeda and Uyghur
+      militants. The narrative suggests that the term "terrorist" has become increasingly
+      diluted and politicized, losing its original meaning.
+    published: '2025-09-08T01:44:00+00:00'
+  - title: 'New Issue Of JOHNSTONE: Break The Siege'
+    url: https://www.caitlinjohnst.one/p/new-issue-of-johnstone-break-the
+    text: 'Subscribe now The new edition of JOHNSTONE is now available to order in print
+      or download as a pay-what-you-want e-book version . As the Global Sumud Flotilla
+      continues its journey toward Gaza to break the cruel siege that’s been starving
+      Palestinian civilians to death, Israeli National Security Minister Itamar Ben-Gvir
+      is pushing to classify all the activists aboard the fleet as terrorists, and to
+      treat them accordingly. “We will not allow individuals who support terrorism to
+      live in comfort. They will face the full consequences of their actions,” Ben-Gvir
+      said. “We must create a clear deterrent. Anyone who chooses to collaborate with
+      Hamas and support terrorism will meet a firm and unyielding response from Israel.”
+      Israel has a very extensive history of raping and torturing prisoners that it
+      has associated with support for designated terrorist groups. This month’s issue
+      is titled “Break The Siege” and features a painting of Greta Thunberg, who is
+      courageously putting everything on the line sailing to Gaza for the second time
+      in fierce opposition to the cruelty of the genocidal regime. You can get a paperback
+      copy of this issue by clicking here , or a pay-what-you-feel digital copy by clicking
+      here . Other paperback editions of JOHNSTONE can be purchased by clicking here
+      . Other digital editions can be downloaded by clicking here . You can also get
+      a subscription to the digital versions which will be sent to your inbox every
+      month by clicking here . INSIDE: It’s Not Okay To Be A Grown Adult In August 2025
+      And Still Believe Lies About Gaza … 3 Israel Is Beginning To Choke On Its Own
+      Lies … 4 To Future Generations: They Knew. They All Knew What Was Happening In
+      Gaza. … 6 Debating Israel Supporters Is Pointless, Because They Don’t Care About
+      Facts Or Morality … 8 Israel Assassinates More Journalists To Hide Its Planned
+      War Crimes … 10 Stopping The Gaza Holocaust Is The First Step Toward A Healthy
+      World … 12 The Two-State Solution Sham, And Other Reader Questions … 14 Gaza Doesn’t
+      Need Our Tears, It Needs Our Anger … 17 The Biblical Case For Supporting Israel
+      … 18 Stop Giving Israeli Officials A Media Platform To Spout Lies … 20 Israel
+      Is So Evil That It Has A Military Unit Dedicated To Excusing Atrocities … 22 Some
+      Suggestions … 24 Israelis Understand That Trump Can End The Nightmare In Gaza.
+      Americans Should Know This Too. … 26 The US Treats Israeli Pedophiles Nicer Than
+      Wounded Palestinian Kids … 28 Zionism Is What It Does … 30 “Why Doesn’t Hamas
+      Release The Hostages?”, And Other Reader Questions … 33 Only Liars And Manipulators
+      Say Israel Isn’t Starving Gaza … 36 Never Forget The Lies They Told About Gaza.
+      Never Forgive Them. … 38 “Is Hamas Causing The Famine?”, And Other Reader Questions
+      … 41 Those Who Condemn Hamas Lack Empathy And Humility … 44 21 Questions About
+      The Claim That Iran Orchestrated Antisemitic Attacks In Australia … 46 “The Arabs
+      Hate Us Because Of Our Religion” Is The New “They Hate Us For Our Freedom” … 48
+      Western Civilization Is Not Worth Saving … 50 Dear Western Liberal, … 51 They’re
+      Lying About Venezuela While Moving War Machinery Into Place … 52 On Israel, Australia,
+      And Racism … 53 Alternate Reality Israel, And Other Reader Questions … 55 “What
+      About My Friends Who Don’t Care About Gaza?”, And Other Question … 58 “It’s Not
+      A Genocide” Is Not A Defensible Claim In The Year 2025 … 60 If Israel Stops Fighting,
+      A Genocide Ends; If Hamas Stops Fighting, Ethnic Cleansing Moves Forward … 62
+      Again, you can get a paperback copy of this issue by clicking here , or click
+      here for a digital pay-what-you-feel copy. __________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The latest edition of JOHNSTONE discusses the Global Sumud
+      Flotilla's mission to break the siege on Gaza, while Israeli National Security
+      Minister Itamar Ben-Gvir seeks to label the activists as terrorists and enforce
+      severe consequences for their actions.
+    paragraph_summary: The latest edition of JOHNSTONE, titled "Break The Siege," is
+      now available for purchase in both print and a pay-what-you-want e-book format.
+      As the Global Sumud Flotilla heads towards Gaza to challenge the ongoing siege
+      affecting Palestinian civilians, Israeli National Security Minister Itamar Ben-Gvir
+      is advocating for the classification of the activists on board as terrorists,
+      threatening severe repercussions for those who support them. The issue features
+      a painting of Greta Thunberg, who is making her second voyage to Gaza in protest
+      against the Israeli regime's actions. The publication includes various articles
+      addressing the situation in Gaza, the challenges of discussing Israel's policies,
+      and the broader implications of the ongoing conflict.
+    published: '2025-09-06T12:42:15+00:00'
+  - title: 'New Issue Of JOHNSTONE: Break The Siege'
+    url: https://www.caitlinjohnst.one/p/new-issue-of-johnstone-break-the
+    text: 'Subscribe now The new edition of JOHNSTONE is now available to order in print
+      or download as a pay-what-you-want e-book version . As the Global Sumud Flotilla
+      continues its journey toward Gaza to break the cruel siege that’s been starving
+      Palestinian civilians to death, Israeli National Security Minister Itamar Ben-Gvir
+      is pushing to classify all the activists aboard the fleet as terrorists, and to
+      treat them accordingly. “We will not allow individuals who support terrorism to
+      live in comfort. They will face the full consequences of their actions,” Ben-Gvir
+      said. “We must create a clear deterrent. Anyone who chooses to collaborate with
+      Hamas and support terrorism will meet a firm and unyielding response from Israel.”
+      Israel has a very extensive history of raping and torturing prisoners that it
+      has associated with support for designated terrorist groups. This month’s issue
+      is titled “Break The Siege” and features a painting of Greta Thunberg, who is
+      courageously putting everything on the line sailing to Gaza for the second time
+      in fierce opposition to the cruelty of the genocidal regime. You can get a paperback
+      copy of this issue by clicking here , or a pay-what-you-feel digital copy by clicking
+      here . Other paperback editions of JOHNSTONE can be purchased by clicking here
+      . Other digital editions can be downloaded by clicking here . You can also get
+      a subscription to the digital versions which will be sent to your inbox every
+      month by clicking here . INSIDE: It’s Not Okay To Be A Grown Adult In August 2025
+      And Still Believe Lies About Gaza … 3 Israel Is Beginning To Choke On Its Own
+      Lies … 4 To Future Generations: They Knew. They All Knew What Was Happening In
+      Gaza. … 6 Debating Israel Supporters Is Pointless, Because They Don’t Care About
+      Facts Or Morality … 8 Israel Assassinates More Journalists To Hide Its Planned
+      War Crimes … 10 Stopping The Gaza Holocaust Is The First Step Toward A Healthy
+      World … 12 The Two-State Solution Sham, And Other Reader Questions … 14 Gaza Doesn’t
+      Need Our Tears, It Needs Our Anger … 17 The Biblical Case For Supporting Israel
+      … 18 Stop Giving Israeli Officials A Media Platform To Spout Lies … 20 Israel
+      Is So Evil That It Has A Military Unit Dedicated To Excusing Atrocities … 22 Some
+      Suggestions … 24 Israelis Understand That Trump Can End The Nightmare In Gaza.
+      Americans Should Know This Too. … 26 The US Treats Israeli Pedophiles Nicer Than
+      Wounded Palestinian Kids … 28 Zionism Is What It Does … 30 “Why Doesn’t Hamas
+      Release The Hostages?”, And Other Reader Questions … 33 Only Liars And Manipulators
+      Say Israel Isn’t Starving Gaza … 36 Never Forget The Lies They Told About Gaza.
+      Never Forgive Them. … 38 “Is Hamas Causing The Famine?”, And Other Reader Questions
+      … 41 Those Who Condemn Hamas Lack Empathy And Humility … 44 21 Questions About
+      The Claim That Iran Orchestrated Antisemitic Attacks In Australia … 46 “The Arabs
+      Hate Us Because Of Our Religion” Is The New “They Hate Us For Our Freedom” … 48
+      Western Civilization Is Not Worth Saving … 50 Dear Western Liberal, … 51 They’re
+      Lying About Venezuela While Moving War Machinery Into Place … 52 On Israel, Australia,
+      And Racism … 53 Alternate Reality Israel, And Other Reader Questions … 55 “What
+      About My Friends Who Don’t Care About Gaza?”, And Other Question … 58 “It’s Not
+      A Genocide” Is Not A Defensible Claim In The Year 2025 … 60 If Israel Stops Fighting,
+      A Genocide Ends; If Hamas Stops Fighting, Ethnic Cleansing Moves Forward … 62
+      Again, you can get a paperback copy of this issue by clicking here , or click
+      here for a digital pay-what-you-feel copy. __________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The latest edition of JOHNSTONE discusses the Global Sumud
+      Flotilla's mission to break the siege on Gaza, while Israeli National Security
+      Minister Itamar Ben-Gvir seeks to label the activists as terrorists and enforce
+      severe consequences for their actions.
+    paragraph_summary: The latest edition of JOHNSTONE, titled "Break The Siege," is
+      now available for purchase in both print and a pay-what-you-want e-book format.
+      As the Global Sumud Flotilla heads towards Gaza to challenge the ongoing siege
+      affecting Palestinian civilians, Israeli National Security Minister Itamar Ben-Gvir
+      is advocating for the classification of the activists on board as terrorists,
+      threatening severe repercussions for those who support them. The issue features
+      a painting of Greta Thunberg, who is making her second voyage to Gaza in protest
+      against the Israeli regime's actions. The publication includes various articles
+      addressing the situation in Gaza, the challenges of discussing Israel's policies,
+      and the broader implications of the ongoing conflict.
+    published: '2025-09-06T12:42:15+00:00'
+  - title: Secretary Of War
+    url: https://www.caitlinjohnst.one/p/secretary-of-war
+    text: 'Listen to a reading by Tim Foley : Subscribe now https://x.com/PeteHegseth/status/1964071082710683650
+      He hung up a sign that said Secretary of War, snapped a picture for the socials,
+      shut the door, took a swig of Jameson straight from the bottle, then sat down
+      and fondled the revolver in his desk drawer like a little boy playing with his
+      penis. Visions of cruise missiles danced through his head, aircraft carriers and
+      nuclear submarines and tiny middle eastern bodies blown to bits by glorious inventory.
+      Mushroom clouds flashed in his eyes as he caressed the trigger with an index finger.
+      “They call me the Secretary of War,” he said. “They call me the Secretary of War.”
+      He did not feel the robins in his chest or hear the red-winged blackbirds trilling
+      in his hair. The electricity of the flesh was a stranger to him. Exuberance was
+      a deadbeat dad who never called. Outside the Pentagon walls a cicada roared unnoticed
+      and the grass sang ancient hymns to the sun god. People bustled in and bustled
+      out, their minds buzzing with Palantir porn, their lips casting spells of Raytheon
+      and ruin. Under the rubble of a far away building a child reached out a hand in
+      the darkness. Her cries were silenced by gulps of whiskey in the office of the
+      Secretary of War. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article depicts a character who revels in the power and
+      violence associated with being the "Secretary of War," while remaining emotionally
+      detached from the world around him.
+    paragraph_summary: The article presents a satirical and darkly humorous portrayal
+      of a character who embodies the role of the "Secretary of War," indulging in a
+      reckless and detached demeanor as he revels in the power and destruction associated
+      with military might. The imagery evokes a stark contrast between his violent fantasies
+      of warfare—symbolized by cruise missiles and nuclear submarines—and the harsh
+      reality of the consequences of such actions, represented by a child's desperate
+      reach for help amidst the rubble of conflict. The character's intoxication and
+      disconnection from the world around him highlight a critique of the militaristic
+      mindset and the moral void that accompanies the pursuit of power, all while the
+      natural world outside continues to thrive unnoticed.
+    published: '2025-09-06T02:24:42+00:00'
+  - title: Secretary Of War
+    url: https://www.caitlinjohnst.one/p/secretary-of-war
+    text: 'Listen to a reading by Tim Foley : Subscribe now https://x.com/PeteHegseth/status/1964071082710683650
+      He hung up a sign that said Secretary of War, snapped a picture for the socials,
+      shut the door, took a swig of Jameson straight from the bottle, then sat down
+      and fondled the revolver in his desk drawer like a little boy playing with his
+      penis. Visions of cruise missiles danced through his head, aircraft carriers and
+      nuclear submarines and tiny middle eastern bodies blown to bits by glorious inventory.
+      Mushroom clouds flashed in his eyes as he caressed the trigger with an index finger.
+      “They call me the Secretary of War,” he said. “They call me the Secretary of War.”
+      He did not feel the robins in his chest or hear the red-winged blackbirds trilling
+      in his hair. The electricity of the flesh was a stranger to him. Exuberance was
+      a deadbeat dad who never called. Outside the Pentagon walls a cicada roared unnoticed
+      and the grass sang ancient hymns to the sun god. People bustled in and bustled
+      out, their minds buzzing with Palantir porn, their lips casting spells of Raytheon
+      and ruin. Under the rubble of a far away building a child reached out a hand in
+      the darkness. Her cries were silenced by gulps of whiskey in the office of the
+      Secretary of War. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article depicts a character who revels in the power and
+      violence associated with being the "Secretary of War," while remaining emotionally
+      detached from the world around him.
+    paragraph_summary: The article presents a satirical and darkly humorous portrayal
+      of a character who embodies the role of the "Secretary of War," indulging in a
+      reckless and detached demeanor as he revels in the power and destruction associated
+      with military might. The imagery evokes a stark contrast between his violent fantasies
+      of warfare—symbolized by cruise missiles and nuclear submarines—and the harsh
+      reality of the consequences of such actions, represented by a child's desperate
+      reach for help amidst the rubble of conflict. The character's intoxication and
+      disconnection from the world around him highlight a critique of the militaristic
+      mindset and the moral void that accompanies the pursuit of power, all while the
+      natural world outside continues to thrive unnoticed.
+    published: '2025-09-06T02:24:42+00:00'
+  - title: Opposing An Ongoing Genocide Requires No Justification
+    url: https://www.caitlinjohnst.one/p/opposing-an-ongoing-genocide-requires
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Opposing an ongoing genocide requires no explanation or justification. You don’t
+      have to justify why you care about stopping an ongoing genocide. You don’t have
+      to reassure anyone that your opposition to the ongoing genocide isn’t driven by
+      hatred of Jews. You don’t have to defend your prioritizing stopping an active
+      genocide above all other issues. You don’t have to explain why you’re paying more
+      attention to this genocide than the other bad things that are happening in the
+      world. You don’t have to explain why a group of people shouldn’t be genocided
+      just because some of them did a violent thing. You don’t have to address all the
+      arguments about why this time genocide is fine that are being made by the people
+      who are committing the genocide. You don’t have to take seriously those who deny
+      the conclusions of all major human rights institutions and the overwhelming majority
+      of genocide scholars who say that this is a genocide. This isn’t something you
+      ever need to be in a defensive posture about. This is the easiest, most straightforward
+      moral issue of the 21st century. If you oppose this genocide, you are right, and
+      anyone who disagrees with you is wrong. It really is that simple. If someone tries
+      to put you on the back foot about your passion regarding the Gaza holocaust, it
+      is entirely legitimate to say “Opposing an active genocide requires no justification,”
+      or “I refuse to defend my opposition to an ongoing live-streamed holocaust that’s
+      backed by my own government.” They’re the ones who are wrong. Make THEM defend
+      their position. Put THEM on the back foot. Interrogate THEIR agendas. Cast suspicion
+      on THEIR motives. Call THEM crazy and evil. Accuse THEM of racism and religious
+      bigotry. Shout THEM down. Shut THEM up. They’re the ones doing something freakish
+      and nefarious, not you. The only reason anyone is expected to defend their opposition
+      to the Gaza holocaust is because our own western governments support said holocaust.
+      If this was being perpetrated by a government like Russia, China or Iran, the
+      default expectation would be that we would oppose it, and anyone supporting it
+      would be aggressively interrogated. It’s only because of blind, bootlicking subservience
+      to our ruling power structure that our compatriots look at us askance when we
+      say Israel is committing genocide with the support of its western allies. Make
+      no mistake about where the moral authority stands here. This isn’t something we
+      need to be on the defense about. It’s something we need to be on the attack about.
+      They’re the ones who have no moral, factual or logical standing. They’re the ones
+      who have to lie all the time to justify their position. Put them against the ropes
+      and keep them there. Take not one step backward. ______________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via rajatonvimma (CC BY 4.0)'
+    one_sentence_summary: The article emphasizes that opposing an ongoing genocide requires
+      no justification or explanation, asserting that the moral imperative to act against
+      such atrocities transcends the need for rationalization or comparison to other
+      global issues.
+    paragraph_summary: The article emphasizes that opposing an ongoing genocide, specifically
+      referencing the situation in Gaza, requires no justification or explanation, as
+      it is a clear moral issue of the 21st century. It argues that those who oppose
+      the genocide should not feel the need to defend their stance against accusations
+      or criticisms, and instead, they should challenge those who support or deny the
+      genocide. The author encourages individuals to assert their moral position confidently,
+      framing the opposition to genocide as a straightforward and unassailable stance,
+      while highlighting the wrongness of those who attempt to rationalize or downplay
+      the atrocities being committed.
+    published: '2025-09-05T10:43:15+00:00'
+  - title: Opposing An Ongoing Genocide Requires No Justification
+    url: https://www.caitlinjohnst.one/p/opposing-an-ongoing-genocide-requires
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Opposing an ongoing genocide requires no explanation or justification. You don’t
+      have to justify why you care about stopping an ongoing genocide. You don’t have
+      to reassure anyone that your opposition to the ongoing genocide isn’t driven by
+      hatred of Jews. You don’t have to defend your prioritizing stopping an active
+      genocide above all other issues. You don’t have to explain why you’re paying more
+      attention to this genocide than the other bad things that are happening in the
+      world. You don’t have to explain why a group of people shouldn’t be genocided
+      just because some of them did a violent thing. You don’t have to address all the
+      arguments about why this time genocide is fine that are being made by the people
+      who are committing the genocide. You don’t have to take seriously those who deny
+      the conclusions of all major human rights institutions and the overwhelming majority
+      of genocide scholars who say that this is a genocide. This isn’t something you
+      ever need to be in a defensive posture about. This is the easiest, most straightforward
+      moral issue of the 21st century. If you oppose this genocide, you are right, and
+      anyone who disagrees with you is wrong. It really is that simple. If someone tries
+      to put you on the back foot about your passion regarding the Gaza holocaust, it
+      is entirely legitimate to say “Opposing an active genocide requires no justification,”
+      or “I refuse to defend my opposition to an ongoing live-streamed holocaust that’s
+      backed by my own government.” They’re the ones who are wrong. Make THEM defend
+      their position. Put THEM on the back foot. Interrogate THEIR agendas. Cast suspicion
+      on THEIR motives. Call THEM crazy and evil. Accuse THEM of racism and religious
+      bigotry. Shout THEM down. Shut THEM up. They’re the ones doing something freakish
+      and nefarious, not you. The only reason anyone is expected to defend their opposition
+      to the Gaza holocaust is because our own western governments support said holocaust.
+      If this was being perpetrated by a government like Russia, China or Iran, the
+      default expectation would be that we would oppose it, and anyone supporting it
+      would be aggressively interrogated. It’s only because of blind, bootlicking subservience
+      to our ruling power structure that our compatriots look at us askance when we
+      say Israel is committing genocide with the support of its western allies. Make
+      no mistake about where the moral authority stands here. This isn’t something we
+      need to be on the defense about. It’s something we need to be on the attack about.
+      They’re the ones who have no moral, factual or logical standing. They’re the ones
+      who have to lie all the time to justify their position. Put them against the ropes
+      and keep them there. Take not one step backward. ______________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via rajatonvimma (CC BY 4.0)'
+    one_sentence_summary: The article emphasizes that opposing an ongoing genocide requires
+      no justification or explanation, asserting that the moral imperative to act against
+      such atrocities transcends the need for rationalization or comparison to other
+      global issues.
+    paragraph_summary: The article emphasizes that opposing an ongoing genocide, specifically
+      referencing the situation in Gaza, requires no justification or explanation, as
+      it is a clear moral issue of the 21st century. It argues that those who oppose
+      the genocide should not feel the need to defend their stance against accusations
+      or criticisms, and instead, they should challenge those who support or deny the
+      genocide. The author encourages individuals to assert their moral position confidently,
+      framing the opposition to genocide as a straightforward and unassailable stance,
+      while highlighting the wrongness of those who attempt to rationalize or downplay
+      the atrocities being committed.
+    published: '2025-09-05T10:43:15+00:00'
+  - title: If Israel Stops Fighting, A Genocide Ends; If Hamas Stops Fighting, Ethnic
+      Cleansing Moves Forward
+    url: https://www.caitlinjohnst.one/p/if-israel-stops-fighting-a-genocide
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now You always see Israel apologists saying
+      “If Hamas lays down its arms there’ll be no more war, if Israel lays down its
+      arms there’ll be no more Israel.” But really the exact opposite is true. If the
+      Israelis lay down their arms, a genocide ends. If Hamas lays down their arms,
+      Israel’s planned ethnic cleansing of Gaza happens quickly and without resistance.
+      Israel has been very clear and explicit about the fact that its onslaught in Gaza
+      will not end until Trump’s plan for the ethnic cleansing of the Gaza Strip is
+      completed. Hamas could surrender and release all the hostages today and this ethnic
+      cleansing agenda would still move forward as planned, according to Israel’s top
+      officials. They’ve been completely unambiguous about this. Anyone who says this
+      nightmare would end if Hamas surrenders is lying. All that would happen if Hamas
+      surrenders is Palestinians being purged from a Palestinian territory forever.
+      ❖ Israeli politicians and official government social media accounts have begun
+      pushing the narrative that Muslim immigrants are a threat to Europe, the implication
+      being that Europeans should support Israel because Israel is helping to kill the
+      Muslims. Israel’s Arabic language Twitter account recently posted a graph showing
+      the number of Mosques across Europe accompanied by right wing “great replacement”-style
+      talking points, saying that “This is the true face of colonization. And this is
+      what is happening while Europe is oblivious and does not care about the danger.”
+      Former Israeli prime minister Naftali Bennett tweeted last month that “Europe
+      is becoming Islamized,” fearmongering about the number of Muslim immigrants throughout
+      Europe. Benjamin Netanyahu tweeted on Wednesday that “Belgian Prime Minister de
+      Wever is a weak leader who seeks to appease Islamic terrorism by sacrificing Israel.
+      He wants to feed the terrorist crocodile before it devours Belgium.” They don’t
+      want Muslims to live in Palestine. They don’t want Muslims to live in Europe.
+      Kinda seems like they just don’t want Muslims to live. ❖ https://x.com/caitoz/status/1963052271425749415
+      ❖ Haaretz reports that an IDF commander named Haim Cohen received intelligence
+      warnings immediately prior to the Hamas attack on the Nova music festival on October
+      7 but took no preemptive action, and that “Cohen was also the officer who initially
+      approved the festival on Tuesday of that week.” This is just the latest addition
+      to a large body of evidence that Israel appears to have intentionally allowed
+      the October 7 attack to happen after deliberately provoking it in order to advance
+      a preexisting agenda to steal more Palestinian territory. ❖ President Trump is
+      reportedly preparing to change the name of the Department of Defense back to the
+      Department of War, which was what the US military department was called until
+      shortly after WWII. I’m seeing some criticism of this move, but personally I think
+      it’s fine. When was the last time the US used its military for defensive purposes?
+      Calling it the War Department is just calling it what it is. Might as well be
+      honest about it. ❖ Defense Secretary Pete Hegseth (soon to be Secretary of War,
+      I guess) announced that we can expect to see more strikes on Venezuelan ships
+      after a deadly US attack on a boat which the Trump administration claims was trafficking
+      drugs. “We have assets in the air, assets in the water, assets on ships because
+      this is a deadly serious mission for us, and it won’t stop … with just this strike,”
+      Hegseth told the press on Wednesday. Secretary of State Marco Rubio said “I don’t
+      care what the UN says” when challenged by the press about his assertions regarding
+      Venezuela’s responsibility for America’s drug problems, claiming that “Maduro
+      is an indicted drug trafficker in the United States and he’s a fugitive of American
+      justice.” You really couldn’t get a more honest representation of US foreign policy
+      than the top American diplomat saying “I don’t care what the UN says” and then
+      claiming that the leaders of sovereign nations are subject to “American justice”.
+      These freaks really do believe this entire planet is their property. As we discussed
+      previously , this is just cover for a longstanding regime change agenda against
+      an oil-rich socialist government that Washington has sought to depose for many
+      years. Venezuela’s role in the drug trade is severely overstated and its role
+      in the Fentanyl epidemic is nonexistent . This is about oil, capitalism, and geostrategic
+      control. ❖ Fame is so weird in our society. People spend all this effort becoming
+      great at something, they get a bunch of fans, then they get thrown into this strange,
+      cloistered universe of immense wealth and social circles full of psychopaths and
+      parasitic middle men and highly neurotic individuals, and they go nuts and lose
+      what it is that their fans fell in love with in the first place. Happens over
+      and over again. Under capitalism success as an artist means losing your art. _______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Wikimedia Commons/IDF.'
+    one_sentence_summary: The article argues that if Hamas disarms, it would facilitate
+      Israel's planned ethnic cleansing of Gaza, while if Israel disarms, it would halt
+      the ongoing violence and potential genocide against Palestinians.
+    paragraph_summary: 'The article critiques the narrative surrounding the Israeli-Palestinian
+      conflict, particularly the framing of the situation by Israeli apologists who
+      claim that if Hamas disarms, peace will follow, while if Israel disarms, it would
+      cease to exist. The author argues that the reality is the opposite: if Israel
+      disarms, it could halt the genocide in Gaza, whereas Hamas''s disarmament would
+      facilitate Israel''s ongoing ethnic cleansing efforts. The piece highlights the
+      explicit intentions of Israeli officials regarding their plans for Gaza, asserting
+      that surrendering would not bring peace for Palestinians but rather lead to their
+      further purging. Additionally, it discusses how Israeli politicians are promoting
+      anti-Muslim sentiments in Europe, suggesting that Israel''s actions against Muslims
+      are necessary for European safety, thus intertwining the narratives of immigration
+      and conflict to garner support for Israel.'
+    published: '2025-09-05T02:23:25+00:00'
+  - title: If Israel Stops Fighting, A Genocide Ends; If Hamas Stops Fighting, Ethnic
+      Cleansing Moves Forward
+    url: https://www.caitlinjohnst.one/p/if-israel-stops-fighting-a-genocide
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now You always see Israel apologists saying
+      “If Hamas lays down its arms there’ll be no more war, if Israel lays down its
+      arms there’ll be no more Israel.” But really the exact opposite is true. If the
+      Israelis lay down their arms, a genocide ends. If Hamas lays down their arms,
+      Israel’s planned ethnic cleansing of Gaza happens quickly and without resistance.
+      Israel has been very clear and explicit about the fact that its onslaught in Gaza
+      will not end until Trump’s plan for the ethnic cleansing of the Gaza Strip is
+      completed. Hamas could surrender and release all the hostages today and this ethnic
+      cleansing agenda would still move forward as planned, according to Israel’s top
+      officials. They’ve been completely unambiguous about this. Anyone who says this
+      nightmare would end if Hamas surrenders is lying. All that would happen if Hamas
+      surrenders is Palestinians being purged from a Palestinian territory forever.
+      ❖ Israeli politicians and official government social media accounts have begun
+      pushing the narrative that Muslim immigrants are a threat to Europe, the implication
+      being that Europeans should support Israel because Israel is helping to kill the
+      Muslims. Israel’s Arabic language Twitter account recently posted a graph showing
+      the number of Mosques across Europe accompanied by right wing “great replacement”-style
+      talking points, saying that “This is the true face of colonization. And this is
+      what is happening while Europe is oblivious and does not care about the danger.”
+      Former Israeli prime minister Naftali Bennett tweeted last month that “Europe
+      is becoming Islamized,” fearmongering about the number of Muslim immigrants throughout
+      Europe. Benjamin Netanyahu tweeted on Wednesday that “Belgian Prime Minister de
+      Wever is a weak leader who seeks to appease Islamic terrorism by sacrificing Israel.
+      He wants to feed the terrorist crocodile before it devours Belgium.” They don’t
+      want Muslims to live in Palestine. They don’t want Muslims to live in Europe.
+      Kinda seems like they just don’t want Muslims to live. ❖ https://x.com/caitoz/status/1963052271425749415
+      ❖ Haaretz reports that an IDF commander named Haim Cohen received intelligence
+      warnings immediately prior to the Hamas attack on the Nova music festival on October
+      7 but took no preemptive action, and that “Cohen was also the officer who initially
+      approved the festival on Tuesday of that week.” This is just the latest addition
+      to a large body of evidence that Israel appears to have intentionally allowed
+      the October 7 attack to happen after deliberately provoking it in order to advance
+      a preexisting agenda to steal more Palestinian territory. ❖ President Trump is
+      reportedly preparing to change the name of the Department of Defense back to the
+      Department of War, which was what the US military department was called until
+      shortly after WWII. I’m seeing some criticism of this move, but personally I think
+      it’s fine. When was the last time the US used its military for defensive purposes?
+      Calling it the War Department is just calling it what it is. Might as well be
+      honest about it. ❖ Defense Secretary Pete Hegseth (soon to be Secretary of War,
+      I guess) announced that we can expect to see more strikes on Venezuelan ships
+      after a deadly US attack on a boat which the Trump administration claims was trafficking
+      drugs. “We have assets in the air, assets in the water, assets on ships because
+      this is a deadly serious mission for us, and it won’t stop … with just this strike,”
+      Hegseth told the press on Wednesday. Secretary of State Marco Rubio said “I don’t
+      care what the UN says” when challenged by the press about his assertions regarding
+      Venezuela’s responsibility for America’s drug problems, claiming that “Maduro
+      is an indicted drug trafficker in the United States and he’s a fugitive of American
+      justice.” You really couldn’t get a more honest representation of US foreign policy
+      than the top American diplomat saying “I don’t care what the UN says” and then
+      claiming that the leaders of sovereign nations are subject to “American justice”.
+      These freaks really do believe this entire planet is their property. As we discussed
+      previously , this is just cover for a longstanding regime change agenda against
+      an oil-rich socialist government that Washington has sought to depose for many
+      years. Venezuela’s role in the drug trade is severely overstated and its role
+      in the Fentanyl epidemic is nonexistent . This is about oil, capitalism, and geostrategic
+      control. ❖ Fame is so weird in our society. People spend all this effort becoming
+      great at something, they get a bunch of fans, then they get thrown into this strange,
+      cloistered universe of immense wealth and social circles full of psychopaths and
+      parasitic middle men and highly neurotic individuals, and they go nuts and lose
+      what it is that their fans fell in love with in the first place. Happens over
+      and over again. Under capitalism success as an artist means losing your art. _______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Wikimedia Commons/IDF.'
+    one_sentence_summary: The article argues that if Hamas disarms, it would facilitate
+      Israel's planned ethnic cleansing of Gaza, while if Israel disarms, it would halt
+      the ongoing violence and potential genocide against Palestinians.
+    paragraph_summary: 'The article critiques the narrative surrounding the Israeli-Palestinian
+      conflict, particularly the framing of the situation by Israeli apologists who
+      claim that if Hamas disarms, peace will follow, while if Israel disarms, it would
+      cease to exist. The author argues that the reality is the opposite: if Israel
+      disarms, it could halt the genocide in Gaza, whereas Hamas''s disarmament would
+      facilitate Israel''s ongoing ethnic cleansing efforts. The piece highlights the
+      explicit intentions of Israeli officials regarding their plans for Gaza, asserting
+      that surrendering would not bring peace for Palestinians but rather lead to their
+      further purging. Additionally, it discusses how Israeli politicians are promoting
+      anti-Muslim sentiments in Europe, suggesting that Israel''s actions against Muslims
+      are necessary for European safety, thus intertwining the narratives of immigration
+      and conflict to garner support for Israel.'
+    published: '2025-09-05T02:23:25+00:00'
   - title: '"It''s Not A Genocide" Is Not A Defensible Claim In The Year 2025'
     url: https://www.caitlinjohnst.one/p/its-not-a-genocide-is-not-a-defensible
     text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article

@@ -7,17 +7,214 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  The past 24 hours have brought to light new revelations about the covert operations of Western states and their partners, with significant implications for global media integrity and the militarization of technology.
+  Tensions between Israel, Iran, and Western allies continue to escalate, with new revelations highlighting the role of intelligence operations and information warfare in shaping international narratives. The latest developments underscore the increasing use of covert influence campaigns and the manipulation of public perception to advance geopolitical interests.
   
-  Leaked documents, as reported by **Max Blumenthal**, expose BBC Media Action as a covert information warfare unit rather than a benign charity. The organization has embedded operatives within foreign media outlets to shape narratives in favor of British geopolitical interests, leveraging both the BBC’s global reputation and government funding. This revelation raises serious questions about the independence of international journalism and the extent to which Western governments are willing to manipulate public opinion abroad.
+  The most recent report by **Max Blumenthal** reveals that Israeli intelligence provided the initial “tip” which led Australian authorities to accuse Iran of plotting bombings against Jewish establishments. This intelligence, now under scrutiny, has significantly strained diplomatic relations between Tehran and Canberra. According to Blumenthal, “the Israeli tip-off shaped the entire narrative,” raising questions about the reliability of the evidence and the broader implications for regional security and international trust.
   
-  Meanwhile, scrutiny intensifies over the European Union’s financial support for Israeli tech firms. According to **Blumenthal**, nearly half a billion euros in EU research grants have flowed to Israeli start-ups founded by former IDF soldiers since the Gaza conflict began. Some of these technologies are reportedly being used in ongoing military operations, blurring the line between civilian innovation and direct support for military campaigns. This funding dynamic is likely to fuel further debate within the EU about the ethical and political consequences of its science and technology partnerships.
+  In a related sphere, Blumenthal previously documented an Israeli intelligence-linked online campaign that attempted to recruit Iranian scientists and foment dissent within Iran. Notably, Atlanta-based comedian Desi Banks was involved in this operation, leveraging his social media influence to reach Iranian audiences. These efforts reflect a broader trend of using unconventional assets and digital platforms for psychological operations.
   
-  In the intelligence sphere, newly unredacted files have surfaced implicating former CIA counterintelligence chief James Angleton in facilitating Israeli espionage and nuclear material acquisition, as detailed by **Blumenthal**. The files suggest a pattern of covert collaboration that undermined U.S. oversight and security, deepening concerns about the long-term impact of intelligence-sharing arrangements between the U.S. and Israel.
+  Meanwhile, scrutiny of Western media’s role in geopolitical conflicts persists. Leaked files show that **Josef Federman**, the AP’s Israel-Palestine news director, participated in a secretive Israeli government event aimed at countering the BDS movement and allegedly downplayed civilian casualties in Gaza. This revelation, following the deaths of five journalists in Gaza, has intensified debates over media impartiality and the ethics of embedded journalism.
   
-  **Trends and Predictions:**  
-  The convergence of state-backed media manipulation, technology funding with military applications, and clandestine intelligence cooperation points to an intensifying contest for narrative and technological dominance among Western powers and their allies. There is a high chance these revelations will prompt calls for greater transparency and oversight in both media and research funding, particularly within the EU and UK. Most definitely, scrutiny of intelligence relationships and covert operations will increase, with potential policy shifts in oversight mechanisms. The erosion of trust in Western institutions—media, scientific, and intelligence—appears set to continue, with significant implications for international relations and public discourse.
+  Looking ahead, the majority of analysts, including **Blumenthal**, predict with high confidence that intelligence-driven influence campaigns will remain central to Israeli and Western strategy, especially as diplomatic tensions with Iran and other regional actors deepen. There is a high chance that such operations will further complicate international relations, erode trust in official narratives, and provoke backlash both domestically and abroad. The use of media and non-traditional influencers in psychological operations is most definitely set to expand, making information warfare a defining feature of contemporary geopolitics.
 articles:
+  - title: Israeli ‘tip’ preceded Australian claim that Iran plotted bombings
+    url: https://thegrayzone.com/2025/09/09/israeli-tip-preceded-australian-claim-that-iran-plotted-bombings/
+    text: A new report suggests Israel played a key role in establishing the narrative
+      that Iran was behind attacks on Jewish-focused establishments in Australia. The
+      still unproven claim has since been used to poison relations between Tehran and
+      Canberra. Israeli spies provided Australia’s top intelligence agency with a “tip
+      off” regarding at least one of the recent explosions at Jewish community buildings
+      which Canberra has publicly blamed on Iran, according to Australia’s Sky News.
+      “Confidential sources have confirmed that Israel provided […] The post Israeli
+      ‘tip’ preceded Australian claim that Iran plotted bombings first appeared on The
+      Grayzone . The post Israeli ‘tip’ preceded Australian claim that Iran plotted
+      bombings appeared first on The Grayzone .
+    one_sentence_summary: A report indicates that Israel influenced the narrative blaming
+      Iran for attacks on Jewish establishments in Australia, providing intelligence
+      that has strained relations between Tehran and Canberra.
+    paragraph_summary: A recent report indicates that Israel significantly influenced
+      the narrative attributing attacks on Jewish establishments in Australia to Iran,
+      a claim that remains unproven and has strained relations between Tehran and Canberra.
+      According to Australia's Sky News, Israeli intelligence allegedly provided a "tip-off"
+      to Australia's top intelligence agency regarding at least one explosion at Jewish
+      community buildings, which Australia has publicly linked to Iran. This development
+      suggests a coordinated effort to shape perceptions and diplomatic ties surrounding
+      the incidents.
+    published: '2025-09-10T03:23:17+00:00'
+  - title: Israeli ‘tip’ preceded Australian claim that Iran plotted bombings
+    url: https://thegrayzone.com/2025/09/09/israeli-tip-preceded-australian-claim-that-iran-plotted-bombings/
+    text: A new report suggests Israel played a key role in establishing the narrative
+      that Iran was behind attacks on Jewish-focused establishments in Australia. The
+      still unproven claim has since been used to poison relations between Tehran and
+      Canberra. Israeli spies provided Australia’s top intelligence agency with a “tip
+      off” regarding at least one of the recent explosions at Jewish community buildings
+      which Canberra has publicly blamed on Iran, according to Australia’s Sky News.
+      “Confidential sources have confirmed that Israel provided […] The post Israeli
+      ‘tip’ preceded Australian claim that Iran plotted bombings first appeared on The
+      Grayzone . The post Israeli ‘tip’ preceded Australian claim that Iran plotted
+      bombings appeared first on The Grayzone .
+    one_sentence_summary: A report indicates that Israel influenced the narrative blaming
+      Iran for attacks on Jewish establishments in Australia, providing intelligence
+      that has strained relations between Tehran and Canberra.
+    paragraph_summary: A recent report indicates that Israel significantly influenced
+      the narrative attributing attacks on Jewish establishments in Australia to Iran,
+      a claim that remains unproven and has strained relations between Tehran and Canberra.
+      According to Australia's Sky News, Israeli intelligence allegedly provided a "tip-off"
+      to Australia's top intelligence agency regarding at least one explosion at Jewish
+      community buildings, which Australia has publicly linked to Iran. This development
+      suggests a coordinated effort to shape perceptions and diplomatic ties surrounding
+      the incidents.
+    published: '2025-09-10T03:23:17+00:00'
+  - title: Israeli intel campaign used US comedian in effort to flip Iranian scientists
+    url: https://thegrayzone.com/2025/09/08/israel-campaign-flip-iranians/
+    text: A mysterious online campaign linked to Israel’s intelligence services attempted
+      to recruit Iranians to overthrow their government. Some appear to have been placed
+      by an Atlanta-based comedian and influencer. This article was originally published
+      by Jack Poulson and Lee Fang at All-Source Intelligence. Desi Banks, an Atlanta
+      comedian and content creator, is known for his light-hearted comic sketches and
+      currently has more than nine million followers on the social media platform Instagram.
+      There is no public record of Banks commenting on sensitive Middle […] The post
+      Israeli intel campaign used US comedian in effort to flip Iranian scientists first
+      appeared on The Grayzone . The post Israeli intel campaign used US comedian in
+      effort to flip Iranian scientists appeared first on The Grayzone .
+    one_sentence_summary: An online campaign linked to Israeli intelligence sought to
+      recruit Iranians to overthrow their government, with involvement from Atlanta-based
+      comedian Desi Banks, who has a significant social media following.
+    paragraph_summary: An online campaign linked to Israeli intelligence sought to recruit
+      Iranians to overthrow their government, with some efforts reportedly involving
+      Desi Banks, an Atlanta-based comedian and influencer known for his comedic sketches
+      and large social media following. The campaign's connection to Banks raises questions
+      about the use of social media figures in sensitive geopolitical operations, although
+      there is no public record of him commenting on such issues. The article, originally
+      published by Jack Poulson and Lee Fang at All-Source Intelligence, highlights
+      the intersection of entertainment and intelligence in contemporary political maneuvers.
+    published: '2025-09-08T20:41:09+00:00'
+  - title: Israeli intel campaign used US comedian in effort to flip Iranian scientists
+    url: https://thegrayzone.com/2025/09/08/israel-campaign-flip-iranians/
+    text: A mysterious online campaign linked to Israel’s intelligence services attempted
+      to recruit Iranians to overthrow their government. Some appear to have been placed
+      by an Atlanta-based comedian and influencer. This article was originally published
+      by Jack Poulson and Lee Fang at All-Source Intelligence. Desi Banks, an Atlanta
+      comedian and content creator, is known for his light-hearted comic sketches and
+      currently has more than nine million followers on the social media platform Instagram.
+      There is no public record of Banks commenting on sensitive Middle […] The post
+      Israeli intel campaign used US comedian in effort to flip Iranian scientists first
+      appeared on The Grayzone . The post Israeli intel campaign used US comedian in
+      effort to flip Iranian scientists appeared first on The Grayzone .
+    one_sentence_summary: An online campaign linked to Israeli intelligence sought to
+      recruit Iranians to overthrow their government, with involvement from Atlanta-based
+      comedian Desi Banks, who has a significant social media following.
+    paragraph_summary: An online campaign linked to Israeli intelligence sought to recruit
+      Iranians to overthrow their government, with some efforts reportedly involving
+      Desi Banks, an Atlanta-based comedian and influencer known for his comedic sketches
+      and large social media following. The campaign's connection to Banks raises questions
+      about the use of social media figures in sensitive geopolitical operations, although
+      there is no public record of him commenting on such issues. The article, originally
+      published by Jack Poulson and Lee Fang at All-Source Intelligence, highlights
+      the intersection of entertainment and intelligence in contemporary political maneuvers.
+    published: '2025-09-08T20:41:09+00:00'
+  - title: AP Jerusalem chief participated in secretive Israeli govt anti-BDS event,
+      leaked files reveal
+    url: https://thegrayzone.com/2025/09/06/ap-jerusalem-secret-israeli-bds-leaked-files/
+    text: AP’s Israel-Palestine news director, Josef Federman, has spun data to minimize
+      the Gaza death count. Leaked documents show he appeared on a panel aimed at assisting
+      “Israel’s ability to effectively portray its narrative” during a gov’t-sponsored
+      propaganda conference chaired by an ex-IDF official who legitimized killing journalists.
+      The Israeli massacre of five journalists in broad daylight on August 24, 2025
+      at Nasser Hospital in Gaza’s Khan Younis city prompted a sternly worded statement
+      to the Israeli government from the Associated […] The post AP Jerusalem chief
+      participated in secretive Israeli govt anti-BDS event, leaked files reveal first
+      appeared on The Grayzone . The post AP Jerusalem chief participated in secretive
+      Israeli govt anti-BDS event, leaked files reveal appeared first on The Grayzone
+      .
+    one_sentence_summary: AP's Israel-Palestine news director, Josef Federman, is accused
+      of downplaying Gaza's death toll and participating in a government-sponsored propaganda
+      event aimed at supporting Israel's narrative, following the killing of five journalists
+      in Gaza.
+    paragraph_summary: Josef Federman, the Associated Press's Israel-Palestine news
+      director, has been accused of downplaying the death toll in Gaza, as revealed
+      by leaked documents indicating his participation in a government-sponsored propaganda
+      conference aimed at enhancing Israel's narrative. This event was chaired by a
+      former Israeli Defense Forces official who had previously justified the killing
+      of journalists. The context for these revelations includes a tragic incident on
+      August 24, 2025, when five journalists were killed by Israeli forces at Nasser
+      Hospital in Khan Younis, leading to a strong condemnation from the Associated
+      Press directed at the Israeli government.
+    published: '2025-09-06T18:45:42+00:00'
+  - title: AP Jerusalem chief participated in secretive Israeli govt anti-BDS event,
+      leaked files reveal
+    url: https://thegrayzone.com/2025/09/06/ap-jerusalem-secret-israeli-bds-leaked-files/
+    text: AP’s Israel-Palestine news director, Josef Federman, has spun data to minimize
+      the Gaza death count. Leaked documents show he appeared on a panel aimed at assisting
+      “Israel’s ability to effectively portray its narrative” during a gov’t-sponsored
+      propaganda conference chaired by an ex-IDF official who legitimized killing journalists.
+      The Israeli massacre of five journalists in broad daylight on August 24, 2025
+      at Nasser Hospital in Gaza’s Khan Younis city prompted a sternly worded statement
+      to the Israeli government from the Associated […] The post AP Jerusalem chief
+      participated in secretive Israeli govt anti-BDS event, leaked files reveal first
+      appeared on The Grayzone . The post AP Jerusalem chief participated in secretive
+      Israeli govt anti-BDS event, leaked files reveal appeared first on The Grayzone
+      .
+    one_sentence_summary: AP's Israel-Palestine news director, Josef Federman, is accused
+      of downplaying Gaza's death toll and participating in a government-sponsored propaganda
+      event aimed at supporting Israel's narrative, following the killing of five journalists
+      in Gaza.
+    paragraph_summary: Josef Federman, the Associated Press's Israel-Palestine news
+      director, has been accused of downplaying the death toll in Gaza, as revealed
+      by leaked documents indicating his participation in a government-sponsored propaganda
+      conference aimed at enhancing Israel's narrative. This event was chaired by a
+      former Israeli Defense Forces official who had previously justified the killing
+      of journalists. The context for these revelations includes a tragic incident on
+      August 24, 2025, when five journalists were killed by Israeli forces at Nasser
+      Hospital in Khan Younis, leading to a strong condemnation from the Associated
+      Press directed at the Israeli government.
+    published: '2025-09-06T18:45:42+00:00'
+  - title: UK funded radio show to sway Nigerian voters, leaked docs show
+    url: https://thegrayzone.com/2025/09/03/uk-funded-radio-show-to-sway-nigerian-voters-leaked-docs-show/
+    text: Amid the US refusal to provide military support to Nigeria in its fight against
+      Boko Haram in 2014, then-President Jonathan Goodluck turned to Russia and China
+      for arms. New documents show that all the while, British state media was engaged
+      in an influence campaign which would help see the African nation’s leader ousted.
+      This article was originally published by West Africa Weekly. An explosive investigation
+      by The Grayzone has revealed that BBC Media Action, which portrays itself as the
+      “charitable” […] The post UK funded radio show to sway Nigerian voters, leaked
+      docs show first appeared on The Grayzone . The post UK funded radio show to sway
+      Nigerian voters, leaked docs show appeared first on The Grayzone .
+    one_sentence_summary: An investigation by The Grayzone reveals that during Nigeria's
+      struggle against Boko Haram in 2014, British state media, through BBC Media Action,
+      conducted an influence campaign aimed at undermining then-President Jonathan Goodluck,
+      who sought military support from Russia and China after the US refused assistance.
+    paragraph_summary: In 2014, as the US declined to provide military assistance to
+      Nigeria in its battle against Boko Haram, then-President Goodluck Jonathan sought
+      arms from Russia and China. Recent documents reveal that during this time, British
+      state media, particularly BBC Media Action, was involved in a covert influence
+      campaign aimed at undermining Jonathan's leadership and swaying Nigerian voters.
+      This investigation by The Grayzone highlights the complexities of international
+      relations and media influence in Nigeria's political landscape.
+    published: '2025-09-03T22:35:50+00:00'
+  - title: UK funded radio show to sway Nigerian voters, leaked docs show
+    url: https://thegrayzone.com/2025/09/03/uk-funded-radio-show-to-sway-nigerian-voters-leaked-docs-show/
+    text: Amid the US refusal to provide military support to Nigeria in its fight against
+      Boko Haram in 2014, then-President Jonathan Goodluck turned to Russia and China
+      for arms. New documents show that all the while, British state media was engaged
+      in an influence campaign which would help see the African nation’s leader ousted.
+      This article was originally published by West Africa Weekly. An explosive investigation
+      by The Grayzone has revealed that BBC Media Action, which portrays itself as the
+      “charitable” […] The post UK funded radio show to sway Nigerian voters, leaked
+      docs show first appeared on The Grayzone . The post UK funded radio show to sway
+      Nigerian voters, leaked docs show appeared first on The Grayzone .
+    one_sentence_summary: An investigation by The Grayzone reveals that during Nigeria's
+      struggle against Boko Haram in 2014, British state media, through BBC Media Action,
+      conducted an influence campaign aimed at undermining then-President Jonathan Goodluck,
+      who sought military support from Russia and China after the US refused assistance.
+    paragraph_summary: In 2014, as the US declined to provide military assistance to
+      Nigeria in its battle against Boko Haram, then-President Goodluck Jonathan sought
+      arms from Russia and China. Recent documents reveal that during this time, British
+      state media, particularly BBC Media Action, was involved in a covert influence
+      campaign aimed at undermining Jonathan's leadership and swaying Nigerian voters.
+      This investigation by The Grayzone highlights the complexities of international
+      relations and media influence in Nigeria's political landscape.
+    published: '2025-09-03T22:35:50+00:00'
   - title: 'BBC Media Action: Britain’s overseas info warfare unit'
     url: https://thegrayzone.com/2025/09/01/bbcma-britains-overseas-infowar-unit/
     text: 'Leaked documents reveal how a shadowy BBC unit is “embedding” staff in foreign

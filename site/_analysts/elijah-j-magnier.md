@@ -7,14 +7,1341 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  Tensions are escalating in the Middle East and Europe as diplomatic maneuvers intensify around Iran’s nuclear program and the broader regional security landscape. In the wake of recent airstrikes on Iranian territory, the European trio—France, Germany, and the UK (E3)—have activated the UN "snapback" mechanism, initiating a 30-day process to reinstate sanctions on Iran. This move is widely interpreted as an attempt to rescue the faltering nuclear diplomacy and avoid a direct military confrontation.
+  The ongoing conflict in Gaza continues to reshape regional dynamics, with Israel’s military operations intensifying and diplomatic efforts revealing deep divisions among international actors. Over the past 48 hours, the focus has shifted to the contrasting approaches of US envoys in the region and the persistent inability of outside powers to influence Israeli policy under Prime Minister Benjamin Netanyahu.
   
-  According to **Elijah J. Magnier**, the E3’s decision signals not only a response to Iran’s recent actions but also highlights Europe’s diminishing autonomy in global affairs. The snapback mechanism, originally part of the 2015 nuclear deal, is now being used as a last-ditch effort to pressure Tehran back into compliance. However, Magnier notes that this step could just as easily provoke further escalation, especially given the heightened tensions following the recent bombardments.
+  **Elijah J. Magnier** highlights the divergent strategies of US envoys Steve Witkoff and Thomas Barrack. Witkoff has demonstrated an ability to adapt to Netanyahu’s political maneuvers, successfully navigating the Israeli leader’s survival tactics. In contrast, Barrack’s attempt at good faith diplomacy has faltered, as he underestimated Netanyahu’s willingness to exploit diplomatic engagement for domestic advantage. According to Magnier, this underscores a broader pattern: “Barrack failed by believing in sincere diplomacy with a leader considered illusory even by his own allies.”
   
-  Iran’s reaction remains measured but skeptical, with Tehran questioning the true intentions behind Europe’s initiative. The process puts significant pressure on Iran to demonstrate willingness to cooperate with international demands, but also risks pushing the country towards more defiant policies if it perceives the move as hostile or coordinated with U.S. interests.
+  Meanwhile, the humanitarian situation in Gaza remains dire. Israeli forces are concentrating their offensive on Gaza City, aiming to dismantle Hamas’s infrastructure while pushing for the displacement of large numbers of residents toward Rafah. Despite heavy surveillance and military pressure, Hamas has managed to conduct bold psychological operations, further complicating Israeli efforts and exposing intelligence blind spots.
   
-  Looking ahead, the majority of analysts, including **Elijah J. Magnier**, assess that the snapback process is unlikely to yield a diplomatic breakthrough. Instead, there is a high chance that it will deepen the rift between Iran and the West, increasing the risk of military escalation in the region. I guarantee that unless there is a significant shift in either European or Iranian positions within the next 30 days, the reimposition of sanctions will most definitely harden stances on all sides and further destabilize the region.
+  The international response continues to harden against Israel. As previously reported, Israel faces “unprecedented global isolation and condemnation,” with even traditional allies expressing disapproval of the ongoing military campaign and the forced displacement of Palestinians. The so-called “humanitarian corridor” is increasingly seen by observers as a mechanism for permanent demographic change rather than genuine relief.
+  
+  **Trends and Predictions:**  
+  The majority of analysts agree that Netanyahu’s strategy is to prolong the conflict, leveraging international divisions and the lack of effective diplomatic pressure. The failure of US diplomatic initiatives to alter Israeli policy is likely to persist, as long as envoys do not fully grasp the domestic imperatives driving Netanyahu’s decisions. I guarantee that, barring a dramatic shift in US or European policy, Israel will continue its current course, deepening its international isolation while escalating operations in Gaza. The humanitarian crisis is set to worsen, with a high chance of further displacement and regional destabilization in the coming weeks.
 articles:
+  - title: 'The Two US Envoys: Witkoff, Barrack, and who failed to understand Netanyahu’s
+      Game'
+    url: https://ejmagnier.com/2025/09/08/the-two-us-envoys-witkoff-barrack-and-who-failed-to-understand-netanyahus-game/
+    text: 'Tweet By Elijah J. Magnier – In the endless churn of Middle Eastern diplomacy,
+      presidential envoys come and go. Some last a few months, some only a few trips.
+      Rarely do they leave a mark that is remembered beyond the inside corridors of
+      Washington or the chancelleries of Beirut or Tel Aviv. Yet two recent US envoys
+      — Steve Witkoff and Thomas Barrack — stand as striking contrasts. Both were tasked
+      with navigating the minefield of Benjamin Netanyahu’s politics on two different
+      fronts. Both claimed to be mediating on behalf of Washington. But only one has
+      grasped, and even enabled, Netanyahu’s survival game. The other has stumbled,
+      believing diplomacy could be practiced in good faith with the illusive and liar
+      Israel’s prime minister, as described by his closest allies in the government,
+      finance minister Bezalel Smotrich. Witkoff remains in the game because he has
+      internalised the logic of Netanyahu’s rule: proposals are not meant to resolve
+      conflicts but to perpetuate them. Barrack, by contrast, believed that words on
+      paper could bind Israel to concessions and that Israeli proposed agreements signed
+      in Beirut would translate into commitments in Tel Aviv. That illusion cost him
+      his credibility and, ultimately, will cost him his mission. Witkoff’s Method:
+      Forwarding and Blaming Steve Witkoff has become emblematic of a certain kind of
+      Trump-era envoy: brash, transactional, and utterly indifferent to the optics of
+      fairness. His approach to Hamas–Israel negotiations reflects this simplicity.
+      He takes an Israeli plan — drafted in Netanyahu’s office, vetted by his advisers
+      — and channels it through Qatar and Egypt, the two indispensable mediators with
+      leverage over Hamas. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: In the complex landscape of Middle Eastern diplomacy, US envoys
+      Steve Witkoff and Thomas Barrack exemplify contrasting approaches to navigating
+      Israeli Prime Minister Benjamin Netanyahu's political maneuvers, with Witkoff
+      successfully adapting to Netanyahu's survival tactics while Barrack falters by
+      attempting to engage in good faith diplomacy.
+    paragraph_summary: In the complex landscape of Middle Eastern diplomacy, two recent
+      U.S. envoys, Steve Witkoff and Thomas Barrack, exemplify contrasting approaches
+      to navigating Israeli Prime Minister Benjamin Netanyahu's political maneuvers.
+      Witkoff has effectively adapted to Netanyahu's strategy, understanding that proposals
+      are designed to prolong conflicts rather than resolve them, which has allowed
+      him to maintain his position and influence. In contrast, Barrack operated under
+      the misconception that diplomatic agreements could lead to genuine commitments
+      from Israel, a belief that ultimately undermined his credibility and mission.
+      Witkoff's transactional and pragmatic style, particularly in mediating Hamas-Israel
+      negotiations through established intermediaries like Qatar and Egypt, highlights
+      a shift in U.S. diplomatic tactics that prioritizes results over the appearance
+      of fairness.
+    published: '2025-09-08T19:12:16+00:00'
+  - title: 'The Two US Envoys: Witkoff, Barrack, and who failed to understand Netanyahu’s
+      Game'
+    url: https://ejmagnier.com/2025/09/08/the-two-us-envoys-witkoff-barrack-and-who-failed-to-understand-netanyahus-game/
+    text: 'Tweet By Elijah J. Magnier – In the endless churn of Middle Eastern diplomacy,
+      presidential envoys come and go. Some last a few months, some only a few trips.
+      Rarely do they leave a mark that is remembered beyond the inside corridors of
+      Washington or the chancelleries of Beirut or Tel Aviv. Yet two recent US envoys
+      — Steve Witkoff and Thomas Barrack — stand as striking contrasts. Both were tasked
+      with navigating the minefield of Benjamin Netanyahu’s politics on two different
+      fronts. Both claimed to be mediating on behalf of Washington. But only one has
+      grasped, and even enabled, Netanyahu’s survival game. The other has stumbled,
+      believing diplomacy could be practiced in good faith with the illusive and liar
+      Israel’s prime minister, as described by his closest allies in the government,
+      finance minister Bezalel Smotrich. Witkoff remains in the game because he has
+      internalised the logic of Netanyahu’s rule: proposals are not meant to resolve
+      conflicts but to perpetuate them. Barrack, by contrast, believed that words on
+      paper could bind Israel to concessions and that Israeli proposed agreements signed
+      in Beirut would translate into commitments in Tel Aviv. That illusion cost him
+      his credibility and, ultimately, will cost him his mission. Witkoff’s Method:
+      Forwarding and Blaming Steve Witkoff has become emblematic of a certain kind of
+      Trump-era envoy: brash, transactional, and utterly indifferent to the optics of
+      fairness. His approach to Hamas–Israel negotiations reflects this simplicity.
+      He takes an Israeli plan — drafted in Netanyahu’s office, vetted by his advisers
+      — and channels it through Qatar and Egypt, the two indispensable mediators with
+      leverage over Hamas. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: In the complex landscape of Middle Eastern diplomacy, US envoys
+      Steve Witkoff and Thomas Barrack exemplify contrasting approaches to navigating
+      Israeli Prime Minister Benjamin Netanyahu's political maneuvers, with Witkoff
+      successfully adapting to Netanyahu's survival tactics while Barrack falters by
+      attempting to engage in good faith diplomacy.
+    paragraph_summary: In the complex landscape of Middle Eastern diplomacy, two recent
+      U.S. envoys, Steve Witkoff and Thomas Barrack, exemplify contrasting approaches
+      to navigating Israeli Prime Minister Benjamin Netanyahu's political maneuvers.
+      Witkoff has effectively adapted to Netanyahu's strategy, understanding that proposals
+      are designed to prolong conflicts rather than resolve them, which has allowed
+      him to maintain his position and influence. In contrast, Barrack operated under
+      the misconception that diplomatic agreements could lead to genuine commitments
+      from Israel, a belief that ultimately undermined his credibility and mission.
+      Witkoff's transactional and pragmatic style, particularly in mediating Hamas-Israel
+      negotiations through established intermediaries like Qatar and Egypt, highlights
+      a shift in U.S. diplomatic tactics that prioritizes results over the appearance
+      of fairness.
+    published: '2025-09-08T19:12:16+00:00'
+  - title: 'Les deux envoyés américains : Witkoff, Barrack et l’incapacité à comprendre
+      le jeu de Netanyahu'
+    url: https://ejmagnier.com/2025/09/08/les-deux-envoyes-americains-witkoff-barrack-et-lincapacite-a-comprendre-le-jeu-de-netanyahu/
+    text: 'Tweet Par Elijah J. Magnier – Dans le va-et-vient sans fin de la diplomatie
+      au Moyen-Orient, les envoyés présidentiels se succèdent. Certains ne restent que
+      quelques mois, d’autres seulement le temps de quelques voyages. Rares sont ceux
+      qui laissent une empreinte durable, au-delà des couloirs de Washington ou des
+      chancelleries de Beyrouth et de Tel-Aviv. Pourtant, deux envoyés américains récents
+      — Steve Witkoff et Thomas Barrack — se distinguent par leur contraste saisissant.
+      Tous deux étaient chargés de naviguer dans le champ de mines de la politique de
+      Benjamin Netanyahu sur deux fronts différents. Tous deux se présentaient comme
+      médiateurs au nom de Washington. Mais un seul a su comprendre, et même faciliter,
+      le jeu de survie de Netanyahu. L’autre s’est effondré, croyant que la diplomatie
+      pouvait se pratiquer de bonne foi avec un Premier ministre israélien illusoire
+      et menteur, tel que décrit par ses plus proches alliés au gouvernement, le ministre
+      des Finances Bezalel Smotrich. Witkoff reste dans la partie parce qu’il a intériorisé
+      la logique du règne de Netanyahu : les propositions ne sont pas faites pour résoudre
+      les conflits, mais pour les perpétuer. Barrack, au contraire, croyait que des
+      mots couchés sur papier pouvaient lier Israël à des concessions et que des accords
+      proposés par Israël et signés à Beyrouth se traduiraient par des engagements à
+      Tel-Aviv. Cette illusion lui a coûté sa crédibilité et, finalement, sa mission.
+      La méthode Witkoff : transmettre et blâmer Steve Witkoff est devenu l’incarnation
+      d’un certain type d’envoyé de l’ère Trump : arrogant, transactionnel et totalement
+      indifférent à l’image de l’équité. Son approche des négociations Hamas–Israël
+      reflète cette simplicité. Il prend un plan israélien — rédigé dans le bureau de
+      Netanyahu, validé par ses conseillers — et le transmet via le Qatar et l’Égypte,
+      les deux médiateurs incontournables ayant de l’influence sur le Hamas. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Dans le contexte complexe de la diplomatie au Moyen-Orient,
+      deux envoyés américains récents, Steve Witkoff et Thomas Barrack, ont eu des approches
+      très différentes face à la politique de Benjamin Netanyahu, Witkoff réussissant
+      à naviguer habilement dans ce paysage difficile, tandis que Barrack a échoué en
+      croyant à une diplomatie de bonne foi avec un leader jugé illusoire par ses propres
+      alliés.
+    paragraph_summary: In the complex landscape of Middle Eastern diplomacy, two recent
+      American envoys, Steve Witkoff and Thomas Barrack, exemplify contrasting approaches
+      to navigating Israeli Prime Minister Benjamin Netanyahu's political maneuvers.
+      While both were tasked with mediating on behalf of Washington, Witkoff succeeded
+      by understanding that Netanyahu's proposals are designed to perpetuate conflict
+      rather than resolve it, effectively facilitating negotiations by relaying Israeli
+      plans through influential intermediaries like Qatar and Egypt. In contrast, Barrack's
+      belief in the power of written agreements and good faith diplomacy led to his
+      downfall, as he underestimated the deceptive nature of Netanyahu's commitments,
+      ultimately costing him credibility and his mission. Witkoff's transactional and
+      pragmatic style reflects a broader trend among Trump-era envoys, prioritizing
+      results over ideals in a challenging diplomatic environment.
+    published: '2025-09-08T19:11:24+00:00'
+  - title: 'Les deux envoyés américains : Witkoff, Barrack et l’incapacité à comprendre
+      le jeu de Netanyahu'
+    url: https://ejmagnier.com/2025/09/08/les-deux-envoyes-americains-witkoff-barrack-et-lincapacite-a-comprendre-le-jeu-de-netanyahu/
+    text: 'Tweet Par Elijah J. Magnier – Dans le va-et-vient sans fin de la diplomatie
+      au Moyen-Orient, les envoyés présidentiels se succèdent. Certains ne restent que
+      quelques mois, d’autres seulement le temps de quelques voyages. Rares sont ceux
+      qui laissent une empreinte durable, au-delà des couloirs de Washington ou des
+      chancelleries de Beyrouth et de Tel-Aviv. Pourtant, deux envoyés américains récents
+      — Steve Witkoff et Thomas Barrack — se distinguent par leur contraste saisissant.
+      Tous deux étaient chargés de naviguer dans le champ de mines de la politique de
+      Benjamin Netanyahu sur deux fronts différents. Tous deux se présentaient comme
+      médiateurs au nom de Washington. Mais un seul a su comprendre, et même faciliter,
+      le jeu de survie de Netanyahu. L’autre s’est effondré, croyant que la diplomatie
+      pouvait se pratiquer de bonne foi avec un Premier ministre israélien illusoire
+      et menteur, tel que décrit par ses plus proches alliés au gouvernement, le ministre
+      des Finances Bezalel Smotrich. Witkoff reste dans la partie parce qu’il a intériorisé
+      la logique du règne de Netanyahu : les propositions ne sont pas faites pour résoudre
+      les conflits, mais pour les perpétuer. Barrack, au contraire, croyait que des
+      mots couchés sur papier pouvaient lier Israël à des concessions et que des accords
+      proposés par Israël et signés à Beyrouth se traduiraient par des engagements à
+      Tel-Aviv. Cette illusion lui a coûté sa crédibilité et, finalement, sa mission.
+      La méthode Witkoff : transmettre et blâmer Steve Witkoff est devenu l’incarnation
+      d’un certain type d’envoyé de l’ère Trump : arrogant, transactionnel et totalement
+      indifférent à l’image de l’équité. Son approche des négociations Hamas–Israël
+      reflète cette simplicité. Il prend un plan israélien — rédigé dans le bureau de
+      Netanyahu, validé par ses conseillers — et le transmet via le Qatar et l’Égypte,
+      les deux médiateurs incontournables ayant de l’influence sur le Hamas. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Dans le contexte complexe de la diplomatie au Moyen-Orient,
+      deux envoyés américains récents, Steve Witkoff et Thomas Barrack, ont eu des approches
+      très différentes face à la politique de Benjamin Netanyahu, Witkoff réussissant
+      à naviguer habilement dans ce paysage difficile, tandis que Barrack a échoué en
+      croyant à une diplomatie de bonne foi avec un leader jugé illusoire par ses propres
+      alliés.
+    paragraph_summary: In the complex landscape of Middle Eastern diplomacy, two recent
+      American envoys, Steve Witkoff and Thomas Barrack, exemplify contrasting approaches
+      to navigating Israeli Prime Minister Benjamin Netanyahu's political maneuvers.
+      While both were tasked with mediating on behalf of Washington, Witkoff succeeded
+      by understanding that Netanyahu's proposals are designed to perpetuate conflict
+      rather than resolve it, effectively facilitating negotiations by relaying Israeli
+      plans through influential intermediaries like Qatar and Egypt. In contrast, Barrack's
+      belief in the power of written agreements and good faith diplomacy led to his
+      downfall, as he underestimated the deceptive nature of Netanyahu's commitments,
+      ultimately costing him credibility and his mission. Witkoff's transactional and
+      pragmatic style reflects a broader trend among Trump-era envoys, prioritizing
+      results over ideals in a challenging diplomatic environment.
+    published: '2025-09-08T19:11:24+00:00'
+  - title: 'Die beiden US-Gesandten: Witkoff, Barrack und die Spielregeln Netanjahus'
+    url: https://ejmagnier.com/2025/09/08/die-beiden-us-gesandten-witkoff-barrack-und-die-spielregeln-netanjahus/
+    text: 'Tweet Von Elijah J. Magnier – In der endlosen Flut der Nahost-Diplomatie
+      kommen und gehen die Gesandten des Präsidenten. Einige bleiben ein paar Monate,
+      andere nur für ein paar Reisen. Selten hinterlassen sie Spuren, an die man sich
+      außerhalb der Korridore Washingtons oder der Kanzleien in Beirut oder Tel Aviv
+      erinnert. Doch zwei aktuelle US-Gesandte – Steve Witkoff und Thomas Barrack –
+      stehen in auffälligem Kontrast zueinander. Beide hatten die Aufgabe, sich auf
+      zwei verschiedenen Fronten durch das Minenfeld der Politik Benjamin Netanjahus
+      zu navigieren. Beide behaupteten, im Namen Washingtons zu vermitteln. Aber nur
+      einer hat Netanjahus Überlebensspiel verstanden und sogar ermöglicht. Der andere
+      ist gestolpert, weil er glaubte, dass man mit dem schwer fassbaren israelischen
+      Premierminister in gutem Glauben Diplomatie betreiben könne. Witkoff bleibt im
+      Spiel, weil er die Logik von Netanjahus Herrschaft verinnerlicht hat: Vorschläge
+      dienen nicht dazu, Konflikte zu lösen, sondern sie aufrechtzuerhalten. Barrack
+      hingegen glaubte, dass Worte auf dem Papier Israel zu Zugeständnissen verpflichten
+      könnten und dass die von Israel vorgeschlagenen und in Beirut unterzeichneten
+      Vereinbarungen zu Verpflichtungen in Tel Aviv führen würden. Der andere stolperte,
+      weil er glaubte, Diplomatie könne ehrlich mit dem illusorischen und verlogenen
+      israelischen Premierminister geführt werden – so, wie es sogar sein engster Regierungsverbündeter,
+      Finanzminister Bezalel Smotrich, beschrieben hat. Witkoffs Methode: Weiterleiten
+      und Schuld zuweisen Steve Witkoff ist zum Symbol für eine bestimmte Art von Gesandten
+      der Trump-Ära geworden: dreist, transaktionsorientiert und völlig gleichgültig
+      gegenüber dem Anschein von Fairness. Seine Herangehensweise an die Verhandlungen
+      zwischen der Hamas und Israel spiegelt diese Einfachheit wider. Er nimmt einen
+      israelischen Plan – der in Netanjahus Büro entworfen und von seinen Beratern geprüft
+      wurde – und leitet ihn über Katar und Ägypten weiter, die beiden unverzichtbaren
+      Vermittler, die Einfluss auf die Hamas haben. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: In der komplexen Nahost-Diplomatie haben die US-Gesandten
+      Steve Witkoff und Thomas Barrack unterschiedliche Ansätze verfolgt, wobei Witkoff
+      erfolgreich die politischen Strategien von Benjamin Netanjahu verstanden hat,
+      während Barrack gescheitert ist, weil er an eine gutgläubige Diplomatie glaubte.
+    paragraph_summary: In einem Artikel von Elijah J. Magnier wird die Rolle zweier
+      US-Gesandter, Steve Witkoff und Thomas Barrack, in der komplexen Nahost-Diplomatie
+      unter Premierminister Benjamin Netanjahu beleuchtet. Während Witkoff erfolgreich
+      navigiert, indem er die Machtdynamik und die Strategie Netanjahus versteht und
+      umsetzt, scheitert Barrack daran, dass er an eine ehrliche Diplomatie glaubt,
+      die mit Netanjahus manipulativen Taktiken nicht kompatibel ist. Witkoff wird als
+      Symbol für die transaktionsorientierte Diplomatie der Trump-Ära dargestellt, die
+      sich auf die Weiterleitung von israelischen Plänen konzentriert, während Barrack
+      an die Möglichkeit von echten Zugeständnissen glaubt, was zu seinem Misserfolg
+      führt.
+    published: '2025-09-08T19:10:11+00:00'
+  - title: 'Die beiden US-Gesandten: Witkoff, Barrack und die Spielregeln Netanjahus'
+    url: https://ejmagnier.com/2025/09/08/die-beiden-us-gesandten-witkoff-barrack-und-die-spielregeln-netanjahus/
+    text: 'Tweet Von Elijah J. Magnier – In der endlosen Flut der Nahost-Diplomatie
+      kommen und gehen die Gesandten des Präsidenten. Einige bleiben ein paar Monate,
+      andere nur für ein paar Reisen. Selten hinterlassen sie Spuren, an die man sich
+      außerhalb der Korridore Washingtons oder der Kanzleien in Beirut oder Tel Aviv
+      erinnert. Doch zwei aktuelle US-Gesandte – Steve Witkoff und Thomas Barrack –
+      stehen in auffälligem Kontrast zueinander. Beide hatten die Aufgabe, sich auf
+      zwei verschiedenen Fronten durch das Minenfeld der Politik Benjamin Netanjahus
+      zu navigieren. Beide behaupteten, im Namen Washingtons zu vermitteln. Aber nur
+      einer hat Netanjahus Überlebensspiel verstanden und sogar ermöglicht. Der andere
+      ist gestolpert, weil er glaubte, dass man mit dem schwer fassbaren israelischen
+      Premierminister in gutem Glauben Diplomatie betreiben könne. Witkoff bleibt im
+      Spiel, weil er die Logik von Netanjahus Herrschaft verinnerlicht hat: Vorschläge
+      dienen nicht dazu, Konflikte zu lösen, sondern sie aufrechtzuerhalten. Barrack
+      hingegen glaubte, dass Worte auf dem Papier Israel zu Zugeständnissen verpflichten
+      könnten und dass die von Israel vorgeschlagenen und in Beirut unterzeichneten
+      Vereinbarungen zu Verpflichtungen in Tel Aviv führen würden. Der andere stolperte,
+      weil er glaubte, Diplomatie könne ehrlich mit dem illusorischen und verlogenen
+      israelischen Premierminister geführt werden – so, wie es sogar sein engster Regierungsverbündeter,
+      Finanzminister Bezalel Smotrich, beschrieben hat. Witkoffs Methode: Weiterleiten
+      und Schuld zuweisen Steve Witkoff ist zum Symbol für eine bestimmte Art von Gesandten
+      der Trump-Ära geworden: dreist, transaktionsorientiert und völlig gleichgültig
+      gegenüber dem Anschein von Fairness. Seine Herangehensweise an die Verhandlungen
+      zwischen der Hamas und Israel spiegelt diese Einfachheit wider. Er nimmt einen
+      israelischen Plan – der in Netanjahus Büro entworfen und von seinen Beratern geprüft
+      wurde – und leitet ihn über Katar und Ägypten weiter, die beiden unverzichtbaren
+      Vermittler, die Einfluss auf die Hamas haben. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: In der komplexen Nahost-Diplomatie haben die US-Gesandten
+      Steve Witkoff und Thomas Barrack unterschiedliche Ansätze verfolgt, wobei Witkoff
+      erfolgreich die politischen Strategien von Benjamin Netanjahu verstanden hat,
+      während Barrack gescheitert ist, weil er an eine gutgläubige Diplomatie glaubte.
+    paragraph_summary: In einem Artikel von Elijah J. Magnier wird die Rolle zweier
+      US-Gesandter, Steve Witkoff und Thomas Barrack, in der komplexen Nahost-Diplomatie
+      unter Premierminister Benjamin Netanjahu beleuchtet. Während Witkoff erfolgreich
+      navigiert, indem er die Machtdynamik und die Strategie Netanjahus versteht und
+      umsetzt, scheitert Barrack daran, dass er an eine ehrliche Diplomatie glaubt,
+      die mit Netanjahus manipulativen Taktiken nicht kompatibel ist. Witkoff wird als
+      Symbol für die transaktionsorientierte Diplomatie der Trump-Ära dargestellt, die
+      sich auf die Weiterleitung von israelischen Plänen konzentriert, während Barrack
+      an die Möglichkeit von echten Zugeständnissen glaubt, was zu seinem Misserfolg
+      führt.
+    published: '2025-09-08T19:10:11+00:00'
+  - title: 'De twee Amerikaanse gezanten: Witkoff, Barrack en de de spelregels van Netanyahu'
+    url: https://ejmagnier.com/2025/09/08/de-twee-amerikaanse-gezanten-witkoff-barrack-en-de-de-spelregels-van-netanyahu/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. In de
+      eindeloze maalstroom van de diplomatie in het Midden-Oosten komen en gaan presidentiële
+      gezanten. Sommigen blijven een paar maanden, anderen maken slechts een paar reizen.
+      Zelden laten ze een indruk achter die verder reikt dan de wandelgangen van Washington
+      of de kanselarijen van Beiroet of Tel Aviv. Toch vormen twee recente Amerikaanse
+      gezanten – Steve Witkoff en Thomas Barrack – een opvallend contrast. Beiden hadden
+      de taak om op twee verschillende fronten door het mijnenveld van Benjamin Netanyahu’s
+      politiek te navigeren. Beiden beweerden namens Washington te bemiddelen. Maar
+      slechts één van hen heeft Netanyahu’s overlevingsspel begrepen en zelfs mogelijk
+      gemaakt. De ander is gestruikeld, in de overtuiging dat diplomatie te goeder trouw
+      kon worden beoefend met de ongrijpbare premier van Israël. Witkoff blijft in het
+      spel omdat hij de logica van Netanyahu’s heerschappij heeft geïnternaliseerd:
+      voorstellen zijn niet bedoeld om conflicten op te lossen, maar om ze te bestendigen.
+      Barrack daarentegen geloofde dat woorden op papier Israël tot concessies konden
+      binden en dat door Israël voorgestelde overeenkomsten die in Beiroet werden ondertekend,
+      zouden worden omgezet in toezeggingen in Tel Aviv. De ander struikelde door te
+      geloven dat diplomatie oprecht mogelijk was met de illusie en leugenachtige Israëlische
+      premier, zoals zijn naaste regeringsbondgenoot, minister van Financiën Bezalel
+      Smotrich, het zelf omschreef. De methode van Witkoff: doorsturen en beschuldigen
+      Steve Witkoff is het symbool geworden van een bepaald soort gezant uit het Trump-tijdperk:
+      brutaal, transactioneel en volkomen onverschillig voor de schijn van eerlijkheid.
+      Zijn benadering van de onderhandelingen tussen Hamas en Israël weerspiegelt deze
+      eenvoud. Hij neemt een Israëlisch plan – opgesteld in het kantoor van Netanyahu
+      en goedgekeurd door zijn adviseurs – en stuurt het door via Qatar en Egypte, de
+      twee onmisbare bemiddelaars die invloed hebben op Hamas. Subscribe Subscribe to
+      get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: In een analyse van de rol van Amerikaanse gezanten in het
+      Midden-Oosten, wordt het contrast belicht tussen Steve Witkoff en Thomas Barrack,
+      waarbij Witkoff succesvol is in het navigeren van Netanyahu's politieke strategieën,
+      terwijl Barrack faalt door te geloven in oprechte diplomatie met de Israëlische
+      premier.
+    paragraph_summary: In een recente analyse van de rol van Amerikaanse gezanten in
+      het Midden-Oosten, benadrukt Elijah J. Magnier het contrast tussen Steve Witkoff
+      en Thomas Barrack, die beiden betrokken waren bij de diplomatieke inspanningen
+      rond de politiek van Benjamin Netanyahu. Terwijl Witkoff erin slaagde de complexe
+      dynamiek van Netanyahu's strategie te begrijpen en zijn voorstellen door te sturen
+      via Qatar en Egypte, faalde Barrack door te geloven dat oprechte diplomatie mogelijk
+      was met de Israëlische premier, wat leidde tot zijn mislukking. Witkoff's aanpak,
+      die als brutaal en transactioneel wordt gekarakteriseerd, weerspiegelt een pragmatische
+      benadering die de realiteit van de Israëlische politiek erkent, in tegenstelling
+      tot Barrack's naïeve overtuiging dat diplomatie kan leiden tot echte concessies.
+    published: '2025-09-08T19:09:18+00:00'
+  - title: 'De twee Amerikaanse gezanten: Witkoff, Barrack en de de spelregels van Netanyahu'
+    url: https://ejmagnier.com/2025/09/08/de-twee-amerikaanse-gezanten-witkoff-barrack-en-de-de-spelregels-van-netanyahu/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. In de
+      eindeloze maalstroom van de diplomatie in het Midden-Oosten komen en gaan presidentiële
+      gezanten. Sommigen blijven een paar maanden, anderen maken slechts een paar reizen.
+      Zelden laten ze een indruk achter die verder reikt dan de wandelgangen van Washington
+      of de kanselarijen van Beiroet of Tel Aviv. Toch vormen twee recente Amerikaanse
+      gezanten – Steve Witkoff en Thomas Barrack – een opvallend contrast. Beiden hadden
+      de taak om op twee verschillende fronten door het mijnenveld van Benjamin Netanyahu’s
+      politiek te navigeren. Beiden beweerden namens Washington te bemiddelen. Maar
+      slechts één van hen heeft Netanyahu’s overlevingsspel begrepen en zelfs mogelijk
+      gemaakt. De ander is gestruikeld, in de overtuiging dat diplomatie te goeder trouw
+      kon worden beoefend met de ongrijpbare premier van Israël. Witkoff blijft in het
+      spel omdat hij de logica van Netanyahu’s heerschappij heeft geïnternaliseerd:
+      voorstellen zijn niet bedoeld om conflicten op te lossen, maar om ze te bestendigen.
+      Barrack daarentegen geloofde dat woorden op papier Israël tot concessies konden
+      binden en dat door Israël voorgestelde overeenkomsten die in Beiroet werden ondertekend,
+      zouden worden omgezet in toezeggingen in Tel Aviv. De ander struikelde door te
+      geloven dat diplomatie oprecht mogelijk was met de illusie en leugenachtige Israëlische
+      premier, zoals zijn naaste regeringsbondgenoot, minister van Financiën Bezalel
+      Smotrich, het zelf omschreef. De methode van Witkoff: doorsturen en beschuldigen
+      Steve Witkoff is het symbool geworden van een bepaald soort gezant uit het Trump-tijdperk:
+      brutaal, transactioneel en volkomen onverschillig voor de schijn van eerlijkheid.
+      Zijn benadering van de onderhandelingen tussen Hamas en Israël weerspiegelt deze
+      eenvoud. Hij neemt een Israëlisch plan – opgesteld in het kantoor van Netanyahu
+      en goedgekeurd door zijn adviseurs – en stuurt het door via Qatar en Egypte, de
+      twee onmisbare bemiddelaars die invloed hebben op Hamas. Subscribe Subscribe to
+      get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: In een analyse van de rol van Amerikaanse gezanten in het
+      Midden-Oosten, wordt het contrast belicht tussen Steve Witkoff en Thomas Barrack,
+      waarbij Witkoff succesvol is in het navigeren van Netanyahu's politieke strategieën,
+      terwijl Barrack faalt door te geloven in oprechte diplomatie met de Israëlische
+      premier.
+    paragraph_summary: In een recente analyse van de rol van Amerikaanse gezanten in
+      het Midden-Oosten, benadrukt Elijah J. Magnier het contrast tussen Steve Witkoff
+      en Thomas Barrack, die beiden betrokken waren bij de diplomatieke inspanningen
+      rond de politiek van Benjamin Netanyahu. Terwijl Witkoff erin slaagde de complexe
+      dynamiek van Netanyahu's strategie te begrijpen en zijn voorstellen door te sturen
+      via Qatar en Egypte, faalde Barrack door te geloven dat oprechte diplomatie mogelijk
+      was met de Israëlische premier, wat leidde tot zijn mislukking. Witkoff's aanpak,
+      die als brutaal en transactioneel wordt gekarakteriseerd, weerspiegelt een pragmatische
+      benadering die de realiteit van de Israëlische politiek erkent, in tegenstelling
+      tot Barrack's naïeve overtuiging dat diplomatie kan leiden tot echte concessies.
+    published: '2025-09-08T19:09:18+00:00'
+  - title: 'Blind Spots and Humiliation: How Hamas Shamed Global and Israeli Intelligence.'
+    url: https://ejmagnier.com/2025/09/07/blind-spots-and-humiliation-how-hamas-shamed-global-and-israeli-intelligence-2/
+    text: 'Tweet By Elijah J. Magnier – Israel’s army has concentrated its forces and
+      surveillance assets on Gaza City as part of its second ground offensive, Operation
+      Gideon’s Chariots 2 . The declared aim is to occupy the city and eliminate what
+      remains of Hamas’s military infrastructure. The undeclared objective is to destroy
+      Gaza City itself and to force one million inhabitants southward toward Rafah,
+      now under Israeli control, where a concentration camp awaits them. For weeks,
+      Israeli officials have insisted that the urban battlefield is sealed off under
+      an impenetrable net of drones, reconnaissance planes, satellites, and ground sensors.
+      They describe Gaza City as a theatre under constant watch, where “not even a mouse
+      can move without being seen.” And yet, in the midst of this overwhelming display
+      of force, Hamas staged one of the boldest psychological operations of the war:
+      driving an Israeli hostage through Gaza City in broad daylight, filming the journey
+      against identifiable buildings, and releasing the footage for the world to see.
+      A City Under 24/7 Watch The surveillance net over Gaza is unprecedented, representing
+      the whole architecture of ISR (Intelligence, Surveillance, and Reconnaissance)
+      . In doctrine, ISR is designed to provide commanders with a continuous, real-time
+      picture of the battlefield through the integration of multiple collection streams.
+      Israeli drones orbit constantly, supplying full-motion video and persistent stare
+      capabilities. U.S. and British reconnaissance aircraft circle offshore, gathering
+      signals intelligence (SIGINT) and imagery intelligence (IMINT) from high altitude.
+      Satellites and cyber tools add further layers by intercepting communications,
+      geolocating transmissions, mapping electronic signatures, and cross-referencing
+      with commercial imagery. On the ground, the Israeli army relies on informants,
+      special forces, and the interrogation of captured Gazans to reinforce its human
+      intelligence (HUMINT) networks Subscribe Subscribe to get access Read more of
+      this content when you subscribe today. Subscribe Submitting form Log in Make a
+      one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israel's military is intensifying its ground offensive in
+      Gaza City, aiming to dismantle Hamas's infrastructure while reportedly seeking
+      to displace a million residents southward, yet Hamas executed a daring psychological
+      operation by parading an Israeli hostage through the city despite the heavy surveillance.
+    paragraph_summary: Israel's military has intensified its operations in Gaza City
+      under the second phase of its ground offensive, Operation Gideon’s Chariots 2,
+      aiming to occupy the city and dismantle Hamas's military capabilities. While officially
+      targeting Hamas, there are concerns that the broader goal may involve devastating
+      Gaza City and displacing its one million residents toward Rafah, which is under
+      Israeli control. Israeli officials claim that the city is under constant surveillance
+      through an extensive network of drones, reconnaissance aircraft, and ground sensors,
+      making it nearly impossible for any movement to go unnoticed. However, amidst
+      this heavy surveillance, Hamas executed a significant psychological operation
+      by parading an Israeli hostage through the city in daylight, capturing and releasing
+      footage of the event, which challenges the perception of Israeli dominance in
+      the area. The article highlights the unprecedented level of intelligence and surveillance
+      capabilities employed by Israel, including drones, reconnaissance aircraft, and
+      ground intelligence operations.
+    published: '2025-09-07T17:54:00+00:00'
+  - title: 'Blind Spots and Humiliation: How Hamas Shamed Global and Israeli Intelligence.'
+    url: https://ejmagnier.com/2025/09/07/blind-spots-and-humiliation-how-hamas-shamed-global-and-israeli-intelligence-2/
+    text: 'Tweet By Elijah J. Magnier – Israel’s army has concentrated its forces and
+      surveillance assets on Gaza City as part of its second ground offensive, Operation
+      Gideon’s Chariots 2 . The declared aim is to occupy the city and eliminate what
+      remains of Hamas’s military infrastructure. The undeclared objective is to destroy
+      Gaza City itself and to force one million inhabitants southward toward Rafah,
+      now under Israeli control, where a concentration camp awaits them. For weeks,
+      Israeli officials have insisted that the urban battlefield is sealed off under
+      an impenetrable net of drones, reconnaissance planes, satellites, and ground sensors.
+      They describe Gaza City as a theatre under constant watch, where “not even a mouse
+      can move without being seen.” And yet, in the midst of this overwhelming display
+      of force, Hamas staged one of the boldest psychological operations of the war:
+      driving an Israeli hostage through Gaza City in broad daylight, filming the journey
+      against identifiable buildings, and releasing the footage for the world to see.
+      A City Under 24/7 Watch The surveillance net over Gaza is unprecedented, representing
+      the whole architecture of ISR (Intelligence, Surveillance, and Reconnaissance)
+      . In doctrine, ISR is designed to provide commanders with a continuous, real-time
+      picture of the battlefield through the integration of multiple collection streams.
+      Israeli drones orbit constantly, supplying full-motion video and persistent stare
+      capabilities. U.S. and British reconnaissance aircraft circle offshore, gathering
+      signals intelligence (SIGINT) and imagery intelligence (IMINT) from high altitude.
+      Satellites and cyber tools add further layers by intercepting communications,
+      geolocating transmissions, mapping electronic signatures, and cross-referencing
+      with commercial imagery. On the ground, the Israeli army relies on informants,
+      special forces, and the interrogation of captured Gazans to reinforce its human
+      intelligence (HUMINT) networks Subscribe Subscribe to get access Read more of
+      this content when you subscribe today. Subscribe Submitting form Log in Make a
+      one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israel's military is intensifying its ground offensive in
+      Gaza City, aiming to dismantle Hamas's infrastructure while reportedly seeking
+      to displace a million residents southward, yet Hamas executed a daring psychological
+      operation by parading an Israeli hostage through the city despite the heavy surveillance.
+    paragraph_summary: Israel's military has intensified its operations in Gaza City
+      under the second phase of its ground offensive, Operation Gideon’s Chariots 2,
+      aiming to occupy the city and dismantle Hamas's military capabilities. While officially
+      targeting Hamas, there are concerns that the broader goal may involve devastating
+      Gaza City and displacing its one million residents toward Rafah, which is under
+      Israeli control. Israeli officials claim that the city is under constant surveillance
+      through an extensive network of drones, reconnaissance aircraft, and ground sensors,
+      making it nearly impossible for any movement to go unnoticed. However, amidst
+      this heavy surveillance, Hamas executed a significant psychological operation
+      by parading an Israeli hostage through the city in daylight, capturing and releasing
+      footage of the event, which challenges the perception of Israeli dominance in
+      the area. The article highlights the unprecedented level of intelligence and surveillance
+      capabilities employed by Israel, including drones, reconnaissance aircraft, and
+      ground intelligence operations.
+    published: '2025-09-07T17:54:00+00:00'
+  - title: 'Zones d’ombre et humiliation : comment le Hamas a ridiculisé le renseignement
+      mondial et israélien'
+    url: https://ejmagnier.com/2025/09/07/zones-dombre-et-humiliation-comment-le-hamas-a-ridiculise-le-renseignement-mondial-et-israelien/
+    text: 'Tweet Par Elijah J. Magnier – L’armée israélienne a concentré ses forces
+      et ses moyens de surveillance sur Gaza-ville dans le cadre de sa deuxième offensive
+      terrestre, l’opération Chariots de Gideon 2 . L’objectif déclaré est d’occuper
+      la ville et d’éliminer ce qui reste de l’infrastructure militaire du Hamas. L’objectif
+      non avoué est de détruire Gaza-ville elle-même et de forcer un million d’habitants
+      à descendre vers Rafah, désormais sous contrôle israélien, où un camp de concentration
+      les attend. Depuis des semaines, les responsables israéliens affirment que le
+      champ de bataille urbain est hermétiquement bouclé sous un filet impénétrable
+      de drones, d’avions de reconnaissance, de satellites et de capteurs au sol. Ils
+      décrivent Gaza-ville comme un théâtre sous surveillance constante, où « pas même
+      une souris ne pourrait se déplacer sans être vue ». Et pourtant, au milieu de
+      cette démonstration écrasante de force, le Hamas a mené l’une des opérations psychologiques
+      les plus audacieuses de la guerre : transporter un otage israélien à travers Gaza-ville
+      en plein jour, filmer le trajet avec des bâtiments reconnaissables en arrière-plan
+      et diffuser les images au monde entier. Une ville sous surveillance permanente
+      Le réseau de surveillance déployé sur Gaza est sans précédent, représentant toute
+      l’architecture de l’ ISR (Intelligence, Surveillance, Reconnaissance) . En doctrine,
+      l’ISR est conçu pour fournir aux commandants une image continue et en temps réel
+      du champ de bataille grâce à l’intégration de plusieurs canaux de collecte. Les
+      drones israéliens orbitent en permanence, offrant de la vidéo en direct et des
+      capacités de surveillance persistante. Des avions de reconnaissance américains
+      et britanniques patrouillent au large, collectant du renseignement électromagnétique
+      ( SIGINT ) et des images ( IMINT ) à haute altitude. Les satellites et les outils
+      cyber viennent ajouter des couches supplémentaires en interceptant les communications,
+      en géolocalisant les transmissions, en cartographiant les signatures électroniques
+      et en recoupant avec des images commerciales. Sur le terrain, l’armée israélienne
+      s’appuie sur des informateurs, des unités spéciales et l’interrogatoire de Gazaouis
+      capturés pour renforcer ses réseaux de renseignement humain ( HUMINT ). Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: L'armée israélienne concentre ses efforts sur Gaza-ville dans
+      le cadre de l'opération Chariots de Gideon 2 pour éliminer l'infrastructure militaire
+      du Hamas, tout en cherchant à détruire la ville et à déplacer ses habitants vers
+      Rafah, malgré une surveillance intense qui n'a pas empêché le Hamas de mener des
+      opérations psychologiques audacieuses.
+    paragraph_summary: L'article d'Elijah J. Magnier décrit l'opération militaire israélienne
+      "Chariots de Gideon 2", qui vise à occuper Gaza-ville et à détruire l'infrastructure
+      militaire du Hamas, tout en ayant pour objectif implicite de forcer un million
+      d'habitants à se déplacer vers Rafah, désormais contrôlée par Israël. Malgré le
+      déploiement massif de moyens de surveillance, incluant drones, avions de reconnaissance
+      et satellites, permettant une surveillance constante de la ville, le Hamas a réussi
+      à réaliser une opération audacieuse en transportant un otage israélien à travers
+      Gaza-ville en plein jour, défiant ainsi les capacités de surveillance israéliennes.
+      L'article souligne l'inefficacité apparente de l'architecture de renseignement
+      mise en place, qui est censée offrir une image en temps réel du champ de bataille,
+      face à la résilience et à la stratégie du Hamas.
+    published: '2025-09-07T17:52:23+00:00'
+  - title: 'Zones d’ombre et humiliation : comment le Hamas a ridiculisé le renseignement
+      mondial et israélien'
+    url: https://ejmagnier.com/2025/09/07/zones-dombre-et-humiliation-comment-le-hamas-a-ridiculise-le-renseignement-mondial-et-israelien/
+    text: 'Tweet Par Elijah J. Magnier – L’armée israélienne a concentré ses forces
+      et ses moyens de surveillance sur Gaza-ville dans le cadre de sa deuxième offensive
+      terrestre, l’opération Chariots de Gideon 2 . L’objectif déclaré est d’occuper
+      la ville et d’éliminer ce qui reste de l’infrastructure militaire du Hamas. L’objectif
+      non avoué est de détruire Gaza-ville elle-même et de forcer un million d’habitants
+      à descendre vers Rafah, désormais sous contrôle israélien, où un camp de concentration
+      les attend. Depuis des semaines, les responsables israéliens affirment que le
+      champ de bataille urbain est hermétiquement bouclé sous un filet impénétrable
+      de drones, d’avions de reconnaissance, de satellites et de capteurs au sol. Ils
+      décrivent Gaza-ville comme un théâtre sous surveillance constante, où « pas même
+      une souris ne pourrait se déplacer sans être vue ». Et pourtant, au milieu de
+      cette démonstration écrasante de force, le Hamas a mené l’une des opérations psychologiques
+      les plus audacieuses de la guerre : transporter un otage israélien à travers Gaza-ville
+      en plein jour, filmer le trajet avec des bâtiments reconnaissables en arrière-plan
+      et diffuser les images au monde entier. Une ville sous surveillance permanente
+      Le réseau de surveillance déployé sur Gaza est sans précédent, représentant toute
+      l’architecture de l’ ISR (Intelligence, Surveillance, Reconnaissance) . En doctrine,
+      l’ISR est conçu pour fournir aux commandants une image continue et en temps réel
+      du champ de bataille grâce à l’intégration de plusieurs canaux de collecte. Les
+      drones israéliens orbitent en permanence, offrant de la vidéo en direct et des
+      capacités de surveillance persistante. Des avions de reconnaissance américains
+      et britanniques patrouillent au large, collectant du renseignement électromagnétique
+      ( SIGINT ) et des images ( IMINT ) à haute altitude. Les satellites et les outils
+      cyber viennent ajouter des couches supplémentaires en interceptant les communications,
+      en géolocalisant les transmissions, en cartographiant les signatures électroniques
+      et en recoupant avec des images commerciales. Sur le terrain, l’armée israélienne
+      s’appuie sur des informateurs, des unités spéciales et l’interrogatoire de Gazaouis
+      capturés pour renforcer ses réseaux de renseignement humain ( HUMINT ). Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: L'armée israélienne concentre ses efforts sur Gaza-ville dans
+      le cadre de l'opération Chariots de Gideon 2 pour éliminer l'infrastructure militaire
+      du Hamas, tout en cherchant à détruire la ville et à déplacer ses habitants vers
+      Rafah, malgré une surveillance intense qui n'a pas empêché le Hamas de mener des
+      opérations psychologiques audacieuses.
+    paragraph_summary: L'article d'Elijah J. Magnier décrit l'opération militaire israélienne
+      "Chariots de Gideon 2", qui vise à occuper Gaza-ville et à détruire l'infrastructure
+      militaire du Hamas, tout en ayant pour objectif implicite de forcer un million
+      d'habitants à se déplacer vers Rafah, désormais contrôlée par Israël. Malgré le
+      déploiement massif de moyens de surveillance, incluant drones, avions de reconnaissance
+      et satellites, permettant une surveillance constante de la ville, le Hamas a réussi
+      à réaliser une opération audacieuse en transportant un otage israélien à travers
+      Gaza-ville en plein jour, défiant ainsi les capacités de surveillance israéliennes.
+      L'article souligne l'inefficacité apparente de l'architecture de renseignement
+      mise en place, qui est censée offrir une image en temps réel du champ de bataille,
+      face à la résilience et à la stratégie du Hamas.
+    published: '2025-09-07T17:52:23+00:00'
+  - title: 'Blinde Flecken und Demütigung: Wie die Hamas den globalen und israelischen
+      Geheimdiensten eine Blamage bescherte.'
+    url: https://ejmagnier.com/2025/09/07/blinde-flecken-und-demutigung-wie-die-hamas-den-globalen-und-israelischen-geheimdiensten-eine-blamage-bescherte/
+    text: 'Tweet Von Elijah J. Magnier Die israelische Armee hat im Rahmen ihrer zweiten
+      Bodenoffensive, der Operation Gideon’s Chariots 2 , ihre Streitkräfte und Überwachungsmittel
+      auf Gaza-Stadt konzentriert, mit dem erklärten Ziel, die Stadt zu besetzen und
+      die verbleibende militärische Infrastruktur der Hamas zu zerstören, sowie dem
+      nicht erklärten Ziel, die Stadt zu zerstören und eine Million Einwohner in das
+      von Israel kontrollierte Rafah zu vertreiben, wo ein Konzentrationslager auf sie
+      wartet. Seit Wochen betonen israelische Beamte, dass das städtische Kampfgebiet
+      durch ein undurchdringliches Netz aus Drohnen, Aufklärungsflugzeugen, Satelliten
+      und Bodensensoren abgeriegelt sei. Sie beschreiben Gaza-Stadt als einen Ort, der
+      unter ständiger Beobachtung steht und an dem „sich nicht einmal eine Maus bewegen
+      kann, ohne gesehen zu werden”. Und doch gelang es der Hamas inmitten dieser überwältigenden
+      Machtdemonstration, eine der kühnsten psychologischen Operationen des Krieges
+      durchzuführen: Sie fuhr eine israelische Geisel am helllichten Tag durch Gaza-Stadt,
+      filmte die Fahrt vor erkennbaren Gebäuden und veröffentlichte das Filmmaterial,
+      damit die ganze Welt es sehen konnte. Eine Stadt unter 24/7-Überwachung Das Überwachungsnetz
+      über Gaza ist beispiellos und repräsentiert die gesamte Architektur von ISR (Intelligence,
+      Surveillance, and Reconnaissance, dt. Nachrichtendienst, Überwachung und Aufklärung)
+      . In der Theorie soll ISR den Kommandeuren durch die Integration mehrerer Erfassungsströme
+      ein kontinuierliches Echtzeitbild des Schlachtfeldes liefern. Israelische Drohnen
+      kreisen ständig über dem Gebiet und liefern Full-Motion-Videos und permanente
+      Überwachungsmöglichkeiten. US-amerikanische und britische Aufklärungsflugzeuge
+      kreisen vor der Küste und sammeln Signalaufklärung (SIGINT) und Bildaufklärung
+      (IMINT) aus großer Höhe. Satelliten und Cyber-Tools ergänzen dies durch das Abfangen
+      von Kommunikationen, die Geolokalisierung von Übertragungen, die Kartierung elektronischer
+      Signaturen und den Abgleich mit kommerziellen Bilddaten. Am Boden stützt sich
+      die israelische Armee auf Informanten, Spezialeinheiten und die Vernehmung gefangengenommener
+      Bewohner Gazas, um ihre Human Intelligence (HUMINT) -Netzwerke zu verstärken.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Die israelische Armee konzentriert ihre Offensive auf Gaza-Stadt,
+      um die militärische Infrastruktur der Hamas zu zerstören und die Bevölkerung in
+      das von Israel kontrollierte Rafah zu vertreiben, während Hamas trotz intensiver
+      Überwachung eine mutige psychologische Operation durchführt.
+    paragraph_summary: Die israelische Armee hat im Rahmen ihrer zweiten Bodenoffensive,
+      Operation Gideon’s Chariots 2, ihre Kräfte auf Gaza-Stadt konzentriert, um die
+      militärische Infrastruktur der Hamas zu zerstören und möglicherweise die Bevölkerung
+      in das von Israel kontrollierte Rafah zu vertreiben. Trotz eines umfassenden Überwachungsnetzes
+      aus Drohnen, Satelliten und Bodensensoren, das die Stadt rund um die Uhr im Blick
+      hat, gelang es der Hamas, eine israelische Geisel in einer kühnen psychologischen
+      Operation durch die Stadt zu fahren und das Video davon zu veröffentlichen. Dieses
+      Ereignis verdeutlicht die Herausforderungen, die selbst modernste Überwachungstechnologien
+      bei militärischen Operationen mit sich bringen können.
+    published: '2025-09-07T17:50:55+00:00'
+  - title: 'Blinde Flecken und Demütigung: Wie die Hamas den globalen und israelischen
+      Geheimdiensten eine Blamage bescherte.'
+    url: https://ejmagnier.com/2025/09/07/blinde-flecken-und-demutigung-wie-die-hamas-den-globalen-und-israelischen-geheimdiensten-eine-blamage-bescherte/
+    text: 'Tweet Von Elijah J. Magnier Die israelische Armee hat im Rahmen ihrer zweiten
+      Bodenoffensive, der Operation Gideon’s Chariots 2 , ihre Streitkräfte und Überwachungsmittel
+      auf Gaza-Stadt konzentriert, mit dem erklärten Ziel, die Stadt zu besetzen und
+      die verbleibende militärische Infrastruktur der Hamas zu zerstören, sowie dem
+      nicht erklärten Ziel, die Stadt zu zerstören und eine Million Einwohner in das
+      von Israel kontrollierte Rafah zu vertreiben, wo ein Konzentrationslager auf sie
+      wartet. Seit Wochen betonen israelische Beamte, dass das städtische Kampfgebiet
+      durch ein undurchdringliches Netz aus Drohnen, Aufklärungsflugzeugen, Satelliten
+      und Bodensensoren abgeriegelt sei. Sie beschreiben Gaza-Stadt als einen Ort, der
+      unter ständiger Beobachtung steht und an dem „sich nicht einmal eine Maus bewegen
+      kann, ohne gesehen zu werden”. Und doch gelang es der Hamas inmitten dieser überwältigenden
+      Machtdemonstration, eine der kühnsten psychologischen Operationen des Krieges
+      durchzuführen: Sie fuhr eine israelische Geisel am helllichten Tag durch Gaza-Stadt,
+      filmte die Fahrt vor erkennbaren Gebäuden und veröffentlichte das Filmmaterial,
+      damit die ganze Welt es sehen konnte. Eine Stadt unter 24/7-Überwachung Das Überwachungsnetz
+      über Gaza ist beispiellos und repräsentiert die gesamte Architektur von ISR (Intelligence,
+      Surveillance, and Reconnaissance, dt. Nachrichtendienst, Überwachung und Aufklärung)
+      . In der Theorie soll ISR den Kommandeuren durch die Integration mehrerer Erfassungsströme
+      ein kontinuierliches Echtzeitbild des Schlachtfeldes liefern. Israelische Drohnen
+      kreisen ständig über dem Gebiet und liefern Full-Motion-Videos und permanente
+      Überwachungsmöglichkeiten. US-amerikanische und britische Aufklärungsflugzeuge
+      kreisen vor der Küste und sammeln Signalaufklärung (SIGINT) und Bildaufklärung
+      (IMINT) aus großer Höhe. Satelliten und Cyber-Tools ergänzen dies durch das Abfangen
+      von Kommunikationen, die Geolokalisierung von Übertragungen, die Kartierung elektronischer
+      Signaturen und den Abgleich mit kommerziellen Bilddaten. Am Boden stützt sich
+      die israelische Armee auf Informanten, Spezialeinheiten und die Vernehmung gefangengenommener
+      Bewohner Gazas, um ihre Human Intelligence (HUMINT) -Netzwerke zu verstärken.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Die israelische Armee konzentriert ihre Offensive auf Gaza-Stadt,
+      um die militärische Infrastruktur der Hamas zu zerstören und die Bevölkerung in
+      das von Israel kontrollierte Rafah zu vertreiben, während Hamas trotz intensiver
+      Überwachung eine mutige psychologische Operation durchführt.
+    paragraph_summary: Die israelische Armee hat im Rahmen ihrer zweiten Bodenoffensive,
+      Operation Gideon’s Chariots 2, ihre Kräfte auf Gaza-Stadt konzentriert, um die
+      militärische Infrastruktur der Hamas zu zerstören und möglicherweise die Bevölkerung
+      in das von Israel kontrollierte Rafah zu vertreiben. Trotz eines umfassenden Überwachungsnetzes
+      aus Drohnen, Satelliten und Bodensensoren, das die Stadt rund um die Uhr im Blick
+      hat, gelang es der Hamas, eine israelische Geisel in einer kühnen psychologischen
+      Operation durch die Stadt zu fahren und das Video davon zu veröffentlichen. Dieses
+      Ereignis verdeutlicht die Herausforderungen, die selbst modernste Überwachungstechnologien
+      bei militärischen Operationen mit sich bringen können.
+    published: '2025-09-07T17:50:55+00:00'
+  - title: 'Blinde vlekken en vernedering: hoe Hamas de wereldwijde en Israëlische inlichtingendiensten
+      voor schut zette.'
+    url: https://ejmagnier.com/2025/09/07/blinde-vlekken-en-vernedering-hoe-hamas-de-wereldwijde-en-israelische-inlichtingendiensten-voor-schut-zette/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Het Israëlische
+      leger heeft zijn troepen en bewakingsmiddelen geconcentreerd op Gaza-stad als
+      onderdeel van zijn tweede grondoffensief, Operatie Gideon’s Chariots 2 , met als
+      verklaard doel de stad te bezetten en de restanten van de militaire infrastructuur
+      van Hamas te vernietigen, en als onverklaard doel de stad te vernietigen en een
+      miljoen inwoners te dwingen naar het door Israël gecontroleerde Rafah te vertrekken,
+      waar een concentratiekamp klaarstaat om hen op te vangen. Wekenlang hebben Israëlische
+      functionarissen volgehouden dat het stedelijke slagveld is afgesloten door een
+      ondoordringbaar netwerk van drones, verkenningsvliegtuigen, satellieten en grondsensoren.
+      Ze hebben Gaza-stad beschreven als een theater dat voortdurend in de gaten wordt
+      gehouden, waar “zelfs een muis zich niet kan bewegen zonder gezien te worden”.
+      En toch, temidden van deze overweldigende machtsvertoon, voerde Hamas een van
+      de meest gewaagde psychologische operaties van de oorlog uit: het rijden met een
+      Israëlische gijzelaar door Gaza-stad op klaarlichte dag, het filmen van de reis
+      langs herkenbare gebouwen en het vrijgeven van de beelden zodat de hele wereld
+      ze kon zien. Een stad die 24/7 in de gaten wordt gehouden Het surveillancenetwerk
+      boven Gaza is ongekend en vertegenwoordigt de volledige architectuur van ISR (Intelligence,
+      Surveillance, and Reconnaissance) . In de doctrine is ISR ontworpen om commandanten
+      een continu, realtime beeld van het slagveld te geven door de integratie van meerdere
+      verzamelstromen. Israëlische drones cirkelen constant rond en leveren full-motion
+      video en persistente observatiemogelijkheden. Amerikaanse en Britse verkenningsvliegtuigen
+      cirkelen voor de kust en verzamelen signaalinformatie (SIGINT) en beeldinformatie
+      (IMINT) vanuit grote hoogte. Satellieten en cybertools voegen nog meer lagen toe
+      door communicatie te onderscheppen, transmissies te geolokaliseren, elektronische
+      signaturen in kaart te brengen en te vergelijken met commerciële beeldinformatie.
+      Op de grond vertrouwt het Israëlische leger op informanten, speciale eenheden
+      en het ondervragen van gevangengenomen Gazanen om zijn human intelligence (HUMINT)
+      -netwerken te versterken. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Het Israëlische leger heeft zijn troepen geconcentreerd op
+      Gaza-stad voor Operatie Gideon’s Chariots 2, met als doel de stad te bezetten
+      en de militaire infrastructuur van Hamas te vernietigen, terwijl er zorgen zijn
+      over een mogelijke gedwongen verplaatsing van inwoners naar een concentratiekamp
+      in Rafah.
+    paragraph_summary: Het Israëlische leger heeft zijn troepen en middelen geconcentreerd
+      in Gaza-stad voor Operatie Gideon’s Chariots 2, met als doel de stad te bezetten
+      en de militaire infrastructuur van Hamas te vernietigen, terwijl er ook impliciet
+      wordt gesuggereerd dat de stad verwoest moet worden en inwoners naar een concentratiekamp
+      in Rafah moeten worden gedwongen. Ondanks de beweringen van Israëlische functionarissen
+      over een ondoordringbaar surveillancenetwerk van drones, vliegtuigen en satellieten,
+      heeft Hamas een gedurfde psychologische operatie uitgevoerd door een Israëlische
+      gijzelaar door de stad te rijden en dit te filmen, wat aantoont dat het toezicht
+      niet zo absoluut is als beweerd. Het artikel benadrukt de complexiteit van de
+      militaire strategieën en de voortdurende strijd om controle en perceptie in een
+      intensief bewaakte omgeving.
+    published: '2025-09-07T17:48:27+00:00'
+  - title: 'Blinde vlekken en vernedering: hoe Hamas de wereldwijde en Israëlische inlichtingendiensten
+      voor schut zette.'
+    url: https://ejmagnier.com/2025/09/07/blinde-vlekken-en-vernedering-hoe-hamas-de-wereldwijde-en-israelische-inlichtingendiensten-voor-schut-zette/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Het Israëlische
+      leger heeft zijn troepen en bewakingsmiddelen geconcentreerd op Gaza-stad als
+      onderdeel van zijn tweede grondoffensief, Operatie Gideon’s Chariots 2 , met als
+      verklaard doel de stad te bezetten en de restanten van de militaire infrastructuur
+      van Hamas te vernietigen, en als onverklaard doel de stad te vernietigen en een
+      miljoen inwoners te dwingen naar het door Israël gecontroleerde Rafah te vertrekken,
+      waar een concentratiekamp klaarstaat om hen op te vangen. Wekenlang hebben Israëlische
+      functionarissen volgehouden dat het stedelijke slagveld is afgesloten door een
+      ondoordringbaar netwerk van drones, verkenningsvliegtuigen, satellieten en grondsensoren.
+      Ze hebben Gaza-stad beschreven als een theater dat voortdurend in de gaten wordt
+      gehouden, waar “zelfs een muis zich niet kan bewegen zonder gezien te worden”.
+      En toch, temidden van deze overweldigende machtsvertoon, voerde Hamas een van
+      de meest gewaagde psychologische operaties van de oorlog uit: het rijden met een
+      Israëlische gijzelaar door Gaza-stad op klaarlichte dag, het filmen van de reis
+      langs herkenbare gebouwen en het vrijgeven van de beelden zodat de hele wereld
+      ze kon zien. Een stad die 24/7 in de gaten wordt gehouden Het surveillancenetwerk
+      boven Gaza is ongekend en vertegenwoordigt de volledige architectuur van ISR (Intelligence,
+      Surveillance, and Reconnaissance) . In de doctrine is ISR ontworpen om commandanten
+      een continu, realtime beeld van het slagveld te geven door de integratie van meerdere
+      verzamelstromen. Israëlische drones cirkelen constant rond en leveren full-motion
+      video en persistente observatiemogelijkheden. Amerikaanse en Britse verkenningsvliegtuigen
+      cirkelen voor de kust en verzamelen signaalinformatie (SIGINT) en beeldinformatie
+      (IMINT) vanuit grote hoogte. Satellieten en cybertools voegen nog meer lagen toe
+      door communicatie te onderscheppen, transmissies te geolokaliseren, elektronische
+      signaturen in kaart te brengen en te vergelijken met commerciële beeldinformatie.
+      Op de grond vertrouwt het Israëlische leger op informanten, speciale eenheden
+      en het ondervragen van gevangengenomen Gazanen om zijn human intelligence (HUMINT)
+      -netwerken te versterken. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Het Israëlische leger heeft zijn troepen geconcentreerd op
+      Gaza-stad voor Operatie Gideon’s Chariots 2, met als doel de stad te bezetten
+      en de militaire infrastructuur van Hamas te vernietigen, terwijl er zorgen zijn
+      over een mogelijke gedwongen verplaatsing van inwoners naar een concentratiekamp
+      in Rafah.
+    paragraph_summary: Het Israëlische leger heeft zijn troepen en middelen geconcentreerd
+      in Gaza-stad voor Operatie Gideon’s Chariots 2, met als doel de stad te bezetten
+      en de militaire infrastructuur van Hamas te vernietigen, terwijl er ook impliciet
+      wordt gesuggereerd dat de stad verwoest moet worden en inwoners naar een concentratiekamp
+      in Rafah moeten worden gedwongen. Ondanks de beweringen van Israëlische functionarissen
+      over een ondoordringbaar surveillancenetwerk van drones, vliegtuigen en satellieten,
+      heeft Hamas een gedurfde psychologische operatie uitgevoerd door een Israëlische
+      gijzelaar door de stad te rijden en dit te filmen, wat aantoont dat het toezicht
+      niet zo absoluut is als beweerd. Het artikel benadrukt de complexiteit van de
+      militaire strategieën en de voortdurende strijd om controle en perceptie in een
+      intensief bewaakte omgeving.
+    published: '2025-09-07T17:48:27+00:00'
+  - title: 'Consuming Allies, Defying Peace: Netanyahu’s war Without End'
+    url: https://ejmagnier.com/2025/09/06/blind-spots-and-humiliation-how-hamas-shamed-global-and-israeli-intelligence/
+    text: 'Tweet By Elijah J. Magnier – Israel has never faced such global isolation,
+      nor such widespread condemnation. For decades, it relied on strong international
+      alliances, particularly in Washington, where support from the U.S. Congress and
+      Senate was once unwavering. But after more than 700 days of relentless war in
+      Gaza — now widely described as genocide — that foundation is crumbling. Prominent
+      senators and representatives are openly critical, reflecting a profound erosion
+      of Israel’s soft power in its most vital arena. Yet despite this collapse of international
+      legitimacy, Prime Minister Benjamin Netanyahu presses on. His new target is Gaza
+      City, where he aims to force nearly one million Palestinians south into what Israel
+      calls a “humanitarian corridor.” In practice, this corridor functions as a vast
+      concentration zone: a place where Gazans are compelled to gather, but from which
+      they can only exit by leaving the Strip altogether — never to return. The objective
+      is clear: a forced ethnic cleansing of Gaza through displacement and exhaustion.
+      Netanyahu expects more than two million people to be moved toward al-Mawasi (
+      a narrow sandy strip of land along the southwestern coast of Gaza, just west of
+      Khan Younis previously used as farmland and scattered Bedouin dwellings, utterly
+      unfit for such mass concentration of people ) and then be squeezed toward Rafah,
+      on the Egyptian border. Such a mass transfer of civilians under bombardment represents
+      an act without precedent in modern history. Cairo, long a reluctant partner in
+      regional stability, has reacted forcefully. Egypt’s Foreign Minister, Badr Abdelatty,
+      has accused Israel of committing a “genocide” in Gaza that goes “far beyond the
+      imagination,” warning that Cairo will not tolerate any attempt to displace Palestinians
+      into Sinai. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Israel faces unprecedented global isolation and condemnation
+      due to its prolonged military actions in Gaza, which many are labeling as genocide,
+      while Prime Minister Netanyahu continues to pursue aggressive strategies, including
+      the forced displacement of Palestinians into a designated area that restricts
+      their return.
+    paragraph_summary: Elijah J. Magnier's article highlights Israel's unprecedented
+      global isolation and condemnation, particularly in light of its ongoing military
+      actions in Gaza, which many now label as genocide. Historically reliant on strong
+      U.S. support, Israel faces increasing criticism from prominent American lawmakers,
+      signaling a significant decline in its international legitimacy. Despite this
+      backlash, Prime Minister Benjamin Netanyahu continues to pursue aggressive military
+      strategies, targeting Gaza City and attempting to force nearly one million Palestinians
+      into a so-called "humanitarian corridor," which effectively serves as a concentration
+      zone for displacement. This strategy aims for the ethnic cleansing of Gaza, pushing
+      over two million people toward unsuitable areas along the coast, while Egypt has
+      firmly opposed any displacement of Palestinians into its territory, condemning
+      Israel's actions as genocidal.
+    published: '2025-09-06T16:48:58+00:00'
+  - title: 'Consuming Allies, Defying Peace: Netanyahu’s war Without End'
+    url: https://ejmagnier.com/2025/09/06/blind-spots-and-humiliation-how-hamas-shamed-global-and-israeli-intelligence/
+    text: 'Tweet By Elijah J. Magnier – Israel has never faced such global isolation,
+      nor such widespread condemnation. For decades, it relied on strong international
+      alliances, particularly in Washington, where support from the U.S. Congress and
+      Senate was once unwavering. But after more than 700 days of relentless war in
+      Gaza — now widely described as genocide — that foundation is crumbling. Prominent
+      senators and representatives are openly critical, reflecting a profound erosion
+      of Israel’s soft power in its most vital arena. Yet despite this collapse of international
+      legitimacy, Prime Minister Benjamin Netanyahu presses on. His new target is Gaza
+      City, where he aims to force nearly one million Palestinians south into what Israel
+      calls a “humanitarian corridor.” In practice, this corridor functions as a vast
+      concentration zone: a place where Gazans are compelled to gather, but from which
+      they can only exit by leaving the Strip altogether — never to return. The objective
+      is clear: a forced ethnic cleansing of Gaza through displacement and exhaustion.
+      Netanyahu expects more than two million people to be moved toward al-Mawasi (
+      a narrow sandy strip of land along the southwestern coast of Gaza, just west of
+      Khan Younis previously used as farmland and scattered Bedouin dwellings, utterly
+      unfit for such mass concentration of people ) and then be squeezed toward Rafah,
+      on the Egyptian border. Such a mass transfer of civilians under bombardment represents
+      an act without precedent in modern history. Cairo, long a reluctant partner in
+      regional stability, has reacted forcefully. Egypt’s Foreign Minister, Badr Abdelatty,
+      has accused Israel of committing a “genocide” in Gaza that goes “far beyond the
+      imagination,” warning that Cairo will not tolerate any attempt to displace Palestinians
+      into Sinai. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Israel faces unprecedented global isolation and condemnation
+      due to its prolonged military actions in Gaza, which many are labeling as genocide,
+      while Prime Minister Netanyahu continues to pursue aggressive strategies, including
+      the forced displacement of Palestinians into a designated area that restricts
+      their return.
+    paragraph_summary: Elijah J. Magnier's article highlights Israel's unprecedented
+      global isolation and condemnation, particularly in light of its ongoing military
+      actions in Gaza, which many now label as genocide. Historically reliant on strong
+      U.S. support, Israel faces increasing criticism from prominent American lawmakers,
+      signaling a significant decline in its international legitimacy. Despite this
+      backlash, Prime Minister Benjamin Netanyahu continues to pursue aggressive military
+      strategies, targeting Gaza City and attempting to force nearly one million Palestinians
+      into a so-called "humanitarian corridor," which effectively serves as a concentration
+      zone for displacement. This strategy aims for the ethnic cleansing of Gaza, pushing
+      over two million people toward unsuitable areas along the coast, while Egypt has
+      firmly opposed any displacement of Palestinians into its territory, condemning
+      Israel's actions as genocidal.
+    published: '2025-09-06T16:48:58+00:00'
+  - title: 'Consommer les Alliés, Défier la Paix : La guerre sans fin de Netanyahu'
+    url: https://ejmagnier.com/2025/09/06/consommer-les-allies-defier-la-paix-la-guerre-sans-fin-de-netanyahu/
+    text: 'Tweet Par Elijah J. Magnier – Israël n’a jamais connu une telle isolation
+      mondiale, ni une condamnation aussi généralisée. Pendant des décennies, il s’est
+      appuyé sur de solides alliances internationales, notamment à Washington, où le
+      soutien du Congrès et du Sénat américains était autrefois indéfectible. Mais après
+      plus de 700 jours de guerre acharnée à Gaza — désormais largement qualifiée de
+      génocide — ce socle s’effondre. Des sénateurs et représentants influents critiquent
+      désormais ouvertement Israël, reflétant une profonde érosion de son soft power
+      dans son arène la plus vitale. Pourtant, malgré cet effondrement de la légitimité
+      internationale, le Premier ministre Benyamin Netanyahu persiste. Sa nouvelle cible
+      est la ville de Gaza, où il cherche à forcer près d’un million de Palestiniens
+      à descendre vers ce qu’Israël appelle un « corridor humanitaire ». En réalité,
+      ce corridor fonctionne comme une vaste zone de concentration : un espace où les
+      Gazaouis sont contraints de s’entasser, mais dont ils ne peuvent sortir qu’en
+      quittant définitivement la bande — sans jamais pouvoir revenir. L’objectif est
+      clair : un nettoyage ethnique forcé de Gaza par le déplacement et l’épuisement.
+      Netanyahu prévoit de pousser plus de deux millions de personnes vers al-Mawasi
+      (une étroite bande sablonneuse le long de la côte sud-ouest de Gaza, à l’ouest
+      de Khan Younis, autrefois utilisée comme terres agricoles et habitations bédouines
+      éparses, totalement inadaptée à une telle concentration humaine), puis de les
+      presser vers Rafah, à la frontière égyptienne. Un tel transfert massif de civils
+      sous bombardements représente un acte sans précédent dans l’histoire moderne.
+      Le Caire, longtemps partenaire réticent de la stabilité régionale, a réagi avec
+      fermeté. Le ministre égyptien des Affaires étrangères, Badr Abdelatty, a accusé
+      Israël de commettre un « génocide » à Gaza allant « bien au-delà de l’imagination
+      », avertissant que l’Égypte ne tolérerait aucune tentative de déplacement des
+      Palestiniens vers le Sinaï. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: L'Israël fait face à une isolation mondiale sans précédent
+      et à une condamnation croissante, même de la part de ses alliés traditionnels,
+      alors que le Premier ministre Benyamin Netanyahu intensifie ses actions à Gaza,
+      transformant un prétendu « corridor humanitaire » en une zone de concentration
+      pour les Palestiniens.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne l'isolement croissant
+      d'Israël sur la scène mondiale, marqué par une condamnation généralisée après
+      plus de 700 jours de conflit à Gaza, souvent qualifié de génocide. Les alliances
+      historiques, notamment avec les États-Unis, s'effritent alors que des figures
+      influentes au Congrès critiquent ouvertement les actions israéliennes. Malgré
+      cette perte de légitimité, le Premier ministre Benyamin Netanyahu intensifie ses
+      efforts à Gaza, cherchant à forcer près d'un million de Palestiniens vers un «
+      corridor humanitaire » qui ressemble davantage à une zone de concentration, visant
+      à réaliser un nettoyage ethnique par le déplacement. Le ministre égyptien des
+      Affaires étrangères a dénoncé ces actions, qualifiant la situation de génocide
+      et affirmant que l'Égypte ne tolérera pas le déplacement des Palestiniens.
+    published: '2025-09-06T16:42:55+00:00'
+  - title: 'Consommer les Alliés, Défier la Paix : La guerre sans fin de Netanyahu'
+    url: https://ejmagnier.com/2025/09/06/consommer-les-allies-defier-la-paix-la-guerre-sans-fin-de-netanyahu/
+    text: 'Tweet Par Elijah J. Magnier – Israël n’a jamais connu une telle isolation
+      mondiale, ni une condamnation aussi généralisée. Pendant des décennies, il s’est
+      appuyé sur de solides alliances internationales, notamment à Washington, où le
+      soutien du Congrès et du Sénat américains était autrefois indéfectible. Mais après
+      plus de 700 jours de guerre acharnée à Gaza — désormais largement qualifiée de
+      génocide — ce socle s’effondre. Des sénateurs et représentants influents critiquent
+      désormais ouvertement Israël, reflétant une profonde érosion de son soft power
+      dans son arène la plus vitale. Pourtant, malgré cet effondrement de la légitimité
+      internationale, le Premier ministre Benyamin Netanyahu persiste. Sa nouvelle cible
+      est la ville de Gaza, où il cherche à forcer près d’un million de Palestiniens
+      à descendre vers ce qu’Israël appelle un « corridor humanitaire ». En réalité,
+      ce corridor fonctionne comme une vaste zone de concentration : un espace où les
+      Gazaouis sont contraints de s’entasser, mais dont ils ne peuvent sortir qu’en
+      quittant définitivement la bande — sans jamais pouvoir revenir. L’objectif est
+      clair : un nettoyage ethnique forcé de Gaza par le déplacement et l’épuisement.
+      Netanyahu prévoit de pousser plus de deux millions de personnes vers al-Mawasi
+      (une étroite bande sablonneuse le long de la côte sud-ouest de Gaza, à l’ouest
+      de Khan Younis, autrefois utilisée comme terres agricoles et habitations bédouines
+      éparses, totalement inadaptée à une telle concentration humaine), puis de les
+      presser vers Rafah, à la frontière égyptienne. Un tel transfert massif de civils
+      sous bombardements représente un acte sans précédent dans l’histoire moderne.
+      Le Caire, longtemps partenaire réticent de la stabilité régionale, a réagi avec
+      fermeté. Le ministre égyptien des Affaires étrangères, Badr Abdelatty, a accusé
+      Israël de commettre un « génocide » à Gaza allant « bien au-delà de l’imagination
+      », avertissant que l’Égypte ne tolérerait aucune tentative de déplacement des
+      Palestiniens vers le Sinaï. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: L'Israël fait face à une isolation mondiale sans précédent
+      et à une condamnation croissante, même de la part de ses alliés traditionnels,
+      alors que le Premier ministre Benyamin Netanyahu intensifie ses actions à Gaza,
+      transformant un prétendu « corridor humanitaire » en une zone de concentration
+      pour les Palestiniens.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne l'isolement croissant
+      d'Israël sur la scène mondiale, marqué par une condamnation généralisée après
+      plus de 700 jours de conflit à Gaza, souvent qualifié de génocide. Les alliances
+      historiques, notamment avec les États-Unis, s'effritent alors que des figures
+      influentes au Congrès critiquent ouvertement les actions israéliennes. Malgré
+      cette perte de légitimité, le Premier ministre Benyamin Netanyahu intensifie ses
+      efforts à Gaza, cherchant à forcer près d'un million de Palestiniens vers un «
+      corridor humanitaire » qui ressemble davantage à une zone de concentration, visant
+      à réaliser un nettoyage ethnique par le déplacement. Le ministre égyptien des
+      Affaires étrangères a dénoncé ces actions, qualifiant la situation de génocide
+      et affirmant que l'Égypte ne tolérera pas le déplacement des Palestiniens.
+    published: '2025-09-06T16:42:55+00:00'
+  - title: 'Bondgenoten opslokken, vrede trotseren: Netanyahu’s oorlog zonder einde'
+    url: https://ejmagnier.com/2025/09/06/bondgenoten-opslokken-vrede-trotseren-netanyahus-oorlog-zonder-einde/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Israël
+      is nog nooit zo wereldwijde igeïsolerd geweest, noch zo wijdverbreide veroordeeld.
+      Decennialang vertrouwde het op sterke internationale allianties, met name in Washington,
+      waar de steun van het Amerikaanse Congres en de Senaat ooit onwankelbaar was.
+      Maar na meer dan 700 dagen van meedogenloze oorlog in Gaza – die nu algemeen wordt
+      omschreven als genocide – brokkelt dat fundament af. Prominente senatoren en afgevaardigden
+      uiten openlijk kritiek, wat een weerspiegeling is van een diepgaande erosie van
+      de soft power van Israël op zijn meest cruciale terrein. Ondanks deze ineenstorting
+      van de internationale legitimiteit zet premier Benjamin Netanyahu door. Zijn nieuwe
+      doelwit is Gaza-stad, waar hij bijna een miljoen Palestijnen naar het zuiden wil
+      dwingen, naar wat Israël een “humanitaire corridor” noemt. In de praktijk functioneert
+      deze corridor als een enorme concentratiekamp: een plek waar Gazanen worden gedwongen
+      zich te verzamelen, maar waaruit ze alleen kunnen vertrekken door de Gazastrook
+      helemaal te verlaten – om nooit meer terug te keren. Het doel is duidelijk: een
+      gedwongen etnische zuivering van Gaza door verdrijving en uitputting. Netanyahu
+      verwacht dat meer dan twee miljoen mensen naar al-Mawasi zullen worden verplaatst
+      en vervolgens naar Rafah, aan de Egyptische grens, zullen worden gedreven. Een
+      dergelijke massale overbrenging van burgers onder bombardementen is een daad zonder
+      precedent in de moderne geschiedenis. Caïro, lange tijd een terughoudende partner
+      in de regionale stabiliteit, heeft krachtig gereageerd. De Egyptische minister
+      van Buitenlandse Zaken, Badr Abdelatty, heeft Israël beschuldigd van het plegen
+      van een “genocide” in Gaza die “ver boven het voorstellingsvermogen” gaat, en
+      heeft gewaarschuwd dat Caïro geen enkele poging om Palestijnen naar de Sinaï te
+      verdrijven zal tolereren. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israël ervaart een ongekende internationale isolatie en kritiek,
+      vooral vanuit de VS, na meer dan 700 dagen oorlog in Gaza, terwijl premier Netanyahu
+      doorgaat met zijn militaire strategieën die de situatie van de Palestijnen verder
+      verergeren.
+    paragraph_summary: Elijah J. Magnier's article, translated by Francis J., discusses
+      Israel's unprecedented global isolation and condemnation following over 700 days
+      of relentless warfare in Gaza, which many now label as genocide. Historically
+      reliant on strong international alliances, particularly with the U.S., Israel's
+      legitimacy is crumbling as prominent American lawmakers openly criticize its actions.
+      Despite this, Prime Minister Benjamin Netanyahu continues his military objectives,
+      targeting Gaza City and attempting to forcibly relocate nearly a million Palestinians
+      under the guise of a "humanitarian corridor," which effectively acts as a concentration
+      camp. This strategy aims at ethnic cleansing through displacement and exhaustion,
+      with expectations of moving over two million people to Rafah near the Egyptian
+      border. Egypt has responded strongly, accusing Israel of committing genocide and
+      warning against any attempts to displace Palestinians into the Sinai.
+    published: '2025-09-06T16:41:40+00:00'
+  - title: 'Bondgenoten opslokken, vrede trotseren: Netanyahu’s oorlog zonder einde'
+    url: https://ejmagnier.com/2025/09/06/bondgenoten-opslokken-vrede-trotseren-netanyahus-oorlog-zonder-einde/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Israël
+      is nog nooit zo wereldwijde igeïsolerd geweest, noch zo wijdverbreide veroordeeld.
+      Decennialang vertrouwde het op sterke internationale allianties, met name in Washington,
+      waar de steun van het Amerikaanse Congres en de Senaat ooit onwankelbaar was.
+      Maar na meer dan 700 dagen van meedogenloze oorlog in Gaza – die nu algemeen wordt
+      omschreven als genocide – brokkelt dat fundament af. Prominente senatoren en afgevaardigden
+      uiten openlijk kritiek, wat een weerspiegeling is van een diepgaande erosie van
+      de soft power van Israël op zijn meest cruciale terrein. Ondanks deze ineenstorting
+      van de internationale legitimiteit zet premier Benjamin Netanyahu door. Zijn nieuwe
+      doelwit is Gaza-stad, waar hij bijna een miljoen Palestijnen naar het zuiden wil
+      dwingen, naar wat Israël een “humanitaire corridor” noemt. In de praktijk functioneert
+      deze corridor als een enorme concentratiekamp: een plek waar Gazanen worden gedwongen
+      zich te verzamelen, maar waaruit ze alleen kunnen vertrekken door de Gazastrook
+      helemaal te verlaten – om nooit meer terug te keren. Het doel is duidelijk: een
+      gedwongen etnische zuivering van Gaza door verdrijving en uitputting. Netanyahu
+      verwacht dat meer dan twee miljoen mensen naar al-Mawasi zullen worden verplaatst
+      en vervolgens naar Rafah, aan de Egyptische grens, zullen worden gedreven. Een
+      dergelijke massale overbrenging van burgers onder bombardementen is een daad zonder
+      precedent in de moderne geschiedenis. Caïro, lange tijd een terughoudende partner
+      in de regionale stabiliteit, heeft krachtig gereageerd. De Egyptische minister
+      van Buitenlandse Zaken, Badr Abdelatty, heeft Israël beschuldigd van het plegen
+      van een “genocide” in Gaza die “ver boven het voorstellingsvermogen” gaat, en
+      heeft gewaarschuwd dat Caïro geen enkele poging om Palestijnen naar de Sinaï te
+      verdrijven zal tolereren. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israël ervaart een ongekende internationale isolatie en kritiek,
+      vooral vanuit de VS, na meer dan 700 dagen oorlog in Gaza, terwijl premier Netanyahu
+      doorgaat met zijn militaire strategieën die de situatie van de Palestijnen verder
+      verergeren.
+    paragraph_summary: Elijah J. Magnier's article, translated by Francis J., discusses
+      Israel's unprecedented global isolation and condemnation following over 700 days
+      of relentless warfare in Gaza, which many now label as genocide. Historically
+      reliant on strong international alliances, particularly with the U.S., Israel's
+      legitimacy is crumbling as prominent American lawmakers openly criticize its actions.
+      Despite this, Prime Minister Benjamin Netanyahu continues his military objectives,
+      targeting Gaza City and attempting to forcibly relocate nearly a million Palestinians
+      under the guise of a "humanitarian corridor," which effectively acts as a concentration
+      camp. This strategy aims at ethnic cleansing through displacement and exhaustion,
+      with expectations of moving over two million people to Rafah near the Egyptian
+      border. Egypt has responded strongly, accusing Israel of committing genocide and
+      warning against any attempts to displace Palestinians into the Sinai.
+    published: '2025-09-06T16:41:40+00:00'
+  - title: 'Pourquoi Netanyahu cherche à affronter le Hezbollah après Gaza : l’expansion
+      plutôt que la paix'
+    url: https://ejmagnier.com/2025/09/05/pourquoi-netanyahu-cherche-a-affronter-le-hezbollah-apres-gaza-lexpansion-plutot-que-la-paix/
+    text: 'Tweet Par Elijah J. Magnier Benjamin Netanyahu affiche aujourd’hui la confiance
+      d’un homme persuadé de remodeler le Moyen-Orient et de faire tomber toutes les
+      frontières à l’intérieur et autour d’Israël. Après près de deux années de conflit
+      acharné, le Premier ministre israélien prépare ce qu’il espère être la bataille
+      décisive : l’occupation de Gaza City. Pour cela, l’armée israélienne a mobilisé
+      quelque 60 000 nouvelles recrues — un chiffre extraordinaire pour un seul front.
+      L’ampleur de cette mobilisation trahit non seulement l’énormité de la tâche, mais
+      aussi l’ampleur probable des pertes. Pour Netanyahu, toutefois, les enjeux politiques
+      l’emportent sur le coût humain. Il calcule qu’une victoire sanglante à Gaza —
+      sur l’ensemble de la bande et non seulement Gaza City — cimentera son héritage,
+      consolidera sa coalition d’extrême droite, entraînera la mort des prisonniers
+      israéliens en supprimant une pression sur ses plans expansionnistes et renforcera
+      sa main pour affronter sa prochaine cible : le Liban. Dans la vision de Netanyahu,
+      Gaza n’est pas une fin en soi mais un tremplin. Une fois l’infrastructure du Hamas
+      contenue et Gaza placée sous régime militaire, il y voit l’opportunité de se tourner
+      vers le nord. Le Premier ministre israélien cherchera alors soit le désarmement
+      tant convoité du Hezbollah, soit, à défaut, l’occupation de vastes portions de
+      territoire au sud du Litani après un nouvel épisode de violence. L’objectif serait
+      double : priver le Hezbollah de sa profondeur stratégique au nord du Litani et
+      remodeler la réalité démographique de la frontière. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Benjamin Netanyahu is confidently preparing for a decisive
+      battle in Gaza City, mobilizing 60,000 new recruits for the Israeli army, as he
+      believes a bloody victory will solidify his political legacy and strengthen his
+      far-right coalition, despite the anticipated human costs.
+    paragraph_summary: Israeli Prime Minister Benjamin Netanyahu is displaying confidence
+      in his plans to reshape the Middle East by targeting Gaza City as part of a decisive
+      battle after nearly two years of conflict. The Israeli military has mobilized
+      around 60,000 new recruits for this operation, indicating the scale of the task
+      and the potential for significant casualties. Netanyahu prioritizes political
+      gains over human costs, believing that a bloody victory in Gaza will solidify
+      his legacy, strengthen his far-right coalition, alleviate pressure regarding Israeli
+      prisoners, and position him for future confrontations, particularly with Hezbollah
+      in Lebanon. He views the occupation of Gaza not as an end goal but as a stepping
+      stone to further military objectives in the region.
+    published: '2025-09-05T04:09:19+00:00'
+  - title: 'Pourquoi Netanyahu cherche à affronter le Hezbollah après Gaza : l’expansion
+      plutôt que la paix'
+    url: https://ejmagnier.com/2025/09/05/pourquoi-netanyahu-cherche-a-affronter-le-hezbollah-apres-gaza-lexpansion-plutot-que-la-paix/
+    text: 'Tweet Par Elijah J. Magnier Benjamin Netanyahu affiche aujourd’hui la confiance
+      d’un homme persuadé de remodeler le Moyen-Orient et de faire tomber toutes les
+      frontières à l’intérieur et autour d’Israël. Après près de deux années de conflit
+      acharné, le Premier ministre israélien prépare ce qu’il espère être la bataille
+      décisive : l’occupation de Gaza City. Pour cela, l’armée israélienne a mobilisé
+      quelque 60 000 nouvelles recrues — un chiffre extraordinaire pour un seul front.
+      L’ampleur de cette mobilisation trahit non seulement l’énormité de la tâche, mais
+      aussi l’ampleur probable des pertes. Pour Netanyahu, toutefois, les enjeux politiques
+      l’emportent sur le coût humain. Il calcule qu’une victoire sanglante à Gaza —
+      sur l’ensemble de la bande et non seulement Gaza City — cimentera son héritage,
+      consolidera sa coalition d’extrême droite, entraînera la mort des prisonniers
+      israéliens en supprimant une pression sur ses plans expansionnistes et renforcera
+      sa main pour affronter sa prochaine cible : le Liban. Dans la vision de Netanyahu,
+      Gaza n’est pas une fin en soi mais un tremplin. Une fois l’infrastructure du Hamas
+      contenue et Gaza placée sous régime militaire, il y voit l’opportunité de se tourner
+      vers le nord. Le Premier ministre israélien cherchera alors soit le désarmement
+      tant convoité du Hezbollah, soit, à défaut, l’occupation de vastes portions de
+      territoire au sud du Litani après un nouvel épisode de violence. L’objectif serait
+      double : priver le Hezbollah de sa profondeur stratégique au nord du Litani et
+      remodeler la réalité démographique de la frontière. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Benjamin Netanyahu is confidently preparing for a decisive
+      battle in Gaza City, mobilizing 60,000 new recruits for the Israeli army, as he
+      believes a bloody victory will solidify his political legacy and strengthen his
+      far-right coalition, despite the anticipated human costs.
+    paragraph_summary: Israeli Prime Minister Benjamin Netanyahu is displaying confidence
+      in his plans to reshape the Middle East by targeting Gaza City as part of a decisive
+      battle after nearly two years of conflict. The Israeli military has mobilized
+      around 60,000 new recruits for this operation, indicating the scale of the task
+      and the potential for significant casualties. Netanyahu prioritizes political
+      gains over human costs, believing that a bloody victory in Gaza will solidify
+      his legacy, strengthen his far-right coalition, alleviate pressure regarding Israeli
+      prisoners, and position him for future confrontations, particularly with Hezbollah
+      in Lebanon. He views the occupation of Gaza not as an end goal but as a stepping
+      stone to further military objectives in the region.
+    published: '2025-09-05T04:09:19+00:00'
+  - title: 'Warum Netanjahu nach Gaza die Konfrontation mit der Hisbollah sucht: Expansion
+      statt Frieden'
+    url: https://ejmagnier.com/2025/09/05/warum-netanjahu-nach-gaza-die-konfrontation-mit-der-hisbollah-sucht-expansion-statt-frieden/
+    text: 'Tweet Von Elijah J. Magnier – Benjamin Netanjahu strahlt heute das Selbstbewusstsein
+      eines Mannes aus, der glaubt, den Nahen Osten neu zu gestalten und alle Grenzen
+      innerhalb und um Israel herum zu sprengen. Nach fast zwei Jahren zermürbenden
+      Konflikts bereitet sich der israelische Ministerpräsident auf die seiner Hoffnung
+      nach entscheidende Schlacht vor: die Besetzung von Gaza-Stadt. Zu diesem Zweck
+      hat die israelische Armee rund 60.000 neue Rekruten mobilisiert – eine außergewöhnlich
+      hohe Zahl für eine einzige Front. Das Ausmaß dieser Mobilisierung verrät nicht
+      nur die Größe der Aufgabe, sondern auch die zu erwartende Zahl der Opfer. Für
+      Netanjahu überwiegen jedoch die politischen Interessen die menschlichen Kosten.
+      Er geht davon aus, dass ein blutiger Sieg in Gaza, und zwar im gesamten Gazastreifen
+      und nicht nur in Gaza-Stadt, sein Vermächtnis festigen, seine rechtsextreme Koalition
+      sichern, den Tod der israelischen Gefangenen herbeiführen und damit den Druck
+      auf seine Expansionspläne verringern sowie seine Position stärken wird, um sein
+      nächstes Ziel anzugehen: den Libanon. In Netanjahus Vision ist Gaza kein Endpunkt,
+      sondern ein Sprungbrett. Sobald die Infrastruktur der Hamas unter Kontrolle und
+      Gaza unter militärischer Herrschaft steht, sieht er die Möglichkeit, sich nach
+      Norden zu orientieren. Der israelische Premierminister wird als Nächstes entweder
+      die lang ersehnte Entwaffnung der Hisbollah anstreben oder, falls dies nicht gelingt,
+      nach einer Runde der Gewalt die Besetzung großer Gebiete südlich des Litani-Flusses.
+      Das Ziel wäre dabei zweigeteilt: der Hisbollah ihre strategische Tiefe nördlich
+      des Litani-Flusses zu nehmen und die demografische Realität der Grenze neu zu
+      gestalten. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Israeli Prime Minister Benjamin Netanyahu is preparing for
+      a significant military offensive in Gaza City, mobilizing around 60,000 new recruits,
+      driven by political interests despite the anticipated high human cost.
+    paragraph_summary: Elijah J. Magnier's tweet highlights Israeli Prime Minister Benjamin
+      Netanyahu's confidence in reshaping the Middle East as he prepares for a significant
+      military operation in Gaza City, mobilizing around 60,000 new recruits for this
+      purpose. This unprecedented mobilization indicates the scale of the anticipated
+      conflict and potential casualties, but Netanyahu appears more focused on political
+      gains than human costs. He believes that a decisive victory in Gaza will solidify
+      his legacy, secure his far-right coalition, and alleviate pressure on his expansionist
+      agenda, which may extend to Lebanon. Netanyahu views Gaza not as an endpoint but
+      as a launching pad for future military actions, aiming to disarm Hezbollah and
+      alter the demographic landscape along the border.
+    published: '2025-09-05T04:04:10+00:00'
+  - title: 'Warum Netanjahu nach Gaza die Konfrontation mit der Hisbollah sucht: Expansion
+      statt Frieden'
+    url: https://ejmagnier.com/2025/09/05/warum-netanjahu-nach-gaza-die-konfrontation-mit-der-hisbollah-sucht-expansion-statt-frieden/
+    text: 'Tweet Von Elijah J. Magnier – Benjamin Netanjahu strahlt heute das Selbstbewusstsein
+      eines Mannes aus, der glaubt, den Nahen Osten neu zu gestalten und alle Grenzen
+      innerhalb und um Israel herum zu sprengen. Nach fast zwei Jahren zermürbenden
+      Konflikts bereitet sich der israelische Ministerpräsident auf die seiner Hoffnung
+      nach entscheidende Schlacht vor: die Besetzung von Gaza-Stadt. Zu diesem Zweck
+      hat die israelische Armee rund 60.000 neue Rekruten mobilisiert – eine außergewöhnlich
+      hohe Zahl für eine einzige Front. Das Ausmaß dieser Mobilisierung verrät nicht
+      nur die Größe der Aufgabe, sondern auch die zu erwartende Zahl der Opfer. Für
+      Netanjahu überwiegen jedoch die politischen Interessen die menschlichen Kosten.
+      Er geht davon aus, dass ein blutiger Sieg in Gaza, und zwar im gesamten Gazastreifen
+      und nicht nur in Gaza-Stadt, sein Vermächtnis festigen, seine rechtsextreme Koalition
+      sichern, den Tod der israelischen Gefangenen herbeiführen und damit den Druck
+      auf seine Expansionspläne verringern sowie seine Position stärken wird, um sein
+      nächstes Ziel anzugehen: den Libanon. In Netanjahus Vision ist Gaza kein Endpunkt,
+      sondern ein Sprungbrett. Sobald die Infrastruktur der Hamas unter Kontrolle und
+      Gaza unter militärischer Herrschaft steht, sieht er die Möglichkeit, sich nach
+      Norden zu orientieren. Der israelische Premierminister wird als Nächstes entweder
+      die lang ersehnte Entwaffnung der Hisbollah anstreben oder, falls dies nicht gelingt,
+      nach einer Runde der Gewalt die Besetzung großer Gebiete südlich des Litani-Flusses.
+      Das Ziel wäre dabei zweigeteilt: der Hisbollah ihre strategische Tiefe nördlich
+      des Litani-Flusses zu nehmen und die demografische Realität der Grenze neu zu
+      gestalten. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Israeli Prime Minister Benjamin Netanyahu is preparing for
+      a significant military offensive in Gaza City, mobilizing around 60,000 new recruits,
+      driven by political interests despite the anticipated high human cost.
+    paragraph_summary: Elijah J. Magnier's tweet highlights Israeli Prime Minister Benjamin
+      Netanyahu's confidence in reshaping the Middle East as he prepares for a significant
+      military operation in Gaza City, mobilizing around 60,000 new recruits for this
+      purpose. This unprecedented mobilization indicates the scale of the anticipated
+      conflict and potential casualties, but Netanyahu appears more focused on political
+      gains than human costs. He believes that a decisive victory in Gaza will solidify
+      his legacy, secure his far-right coalition, and alleviate pressure on his expansionist
+      agenda, which may extend to Lebanon. Netanyahu views Gaza not as an endpoint but
+      as a launching pad for future military actions, aiming to disarm Hezbollah and
+      alter the demographic landscape along the border.
+    published: '2025-09-05T04:04:10+00:00'
+  - title: 'Why Netanyahu Seeks to Confront Hezbollah After Gaza: Expansion Over Peace'
+    url: https://ejmagnier.com/2025/09/05/why-netanyahu-seeks-to-confront-hezbollah-after-gaza-expansion-over-peace/
+    text: 'Tweet By Elijah J. Magnier – Benjamin Netanyahu today exudes the confidence
+      of a man who believes he is reshaping the Middle East and breaking all borders
+      inside and around Israel. After nearly two years of grinding conflict, Israel’s
+      prime minister is preparing for what he hopes will be the decisive battle: the
+      occupation of Gaza City. For this, the Israeli army has mobilised some 60,000
+      new recruits — an extraordinary number for a single front. The scale of this mobilisation
+      betrays the enormity of the task, but also the likely scale of casualties. For
+      Netanyahu, however, the political stakes outweigh the human cost. He calculates
+      that a bloody victory in Gaza, the entire Strip and not just Gaza city, will cement
+      his legacy, secure his far-right coalition, cause the death of the Israeli prisoners
+      resulting in removing pressure on his expansionist plans and strengthen his hand
+      to confront his next target: Lebanon. In Netanyahu’s vision, Gaza is not an endpoint
+      but a staging ground. Once Hamas infrastructure is contained and Gaza subdued
+      under military ruling, he sees the opportunity to pivot northwards. The Israeli
+      prime minister will next be seeking either the long-desired disarmament of Hezbollah
+      or, failing that, the occupation of vast swathes of territory south of the Litani
+      River after a round of violence. The objective would consist in twofold: to strip
+      Hezbollah of its strategic depth north of the Litani River and to reshape the
+      demographic reality of the frontier. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israeli Prime Minister Benjamin Netanyahu is preparing for
+      a decisive military campaign in Gaza City, mobilizing 60,000 new recruits in hopes
+      of reshaping the Middle East and solidifying his political legacy, despite the
+      potential for significant casualties.
+    paragraph_summary: Israeli Prime Minister Benjamin Netanyahu is poised for a significant
+      military escalation in Gaza, mobilizing around 60,000 new recruits in preparation
+      for what he hopes will be a decisive battle for Gaza City and the broader Gaza
+      Strip. This extensive mobilization reflects the scale of the military operation
+      and the anticipated casualties, but Netanyahu appears more focused on the political
+      implications of a potential victory, which he believes could solidify his legacy
+      and strengthen his far-right coalition. He views the occupation of Gaza not as
+      an end goal but as a strategic stepping stone towards confronting Hezbollah in
+      Lebanon, aiming to disarm the group or occupy territory south of the Litani River
+      to reshape the regional demographic landscape.
+    published: '2025-09-05T03:39:21+00:00'
+  - title: 'Why Netanyahu Seeks to Confront Hezbollah After Gaza: Expansion Over Peace'
+    url: https://ejmagnier.com/2025/09/05/why-netanyahu-seeks-to-confront-hezbollah-after-gaza-expansion-over-peace/
+    text: 'Tweet By Elijah J. Magnier – Benjamin Netanyahu today exudes the confidence
+      of a man who believes he is reshaping the Middle East and breaking all borders
+      inside and around Israel. After nearly two years of grinding conflict, Israel’s
+      prime minister is preparing for what he hopes will be the decisive battle: the
+      occupation of Gaza City. For this, the Israeli army has mobilised some 60,000
+      new recruits — an extraordinary number for a single front. The scale of this mobilisation
+      betrays the enormity of the task, but also the likely scale of casualties. For
+      Netanyahu, however, the political stakes outweigh the human cost. He calculates
+      that a bloody victory in Gaza, the entire Strip and not just Gaza city, will cement
+      his legacy, secure his far-right coalition, cause the death of the Israeli prisoners
+      resulting in removing pressure on his expansionist plans and strengthen his hand
+      to confront his next target: Lebanon. In Netanyahu’s vision, Gaza is not an endpoint
+      but a staging ground. Once Hamas infrastructure is contained and Gaza subdued
+      under military ruling, he sees the opportunity to pivot northwards. The Israeli
+      prime minister will next be seeking either the long-desired disarmament of Hezbollah
+      or, failing that, the occupation of vast swathes of territory south of the Litani
+      River after a round of violence. The objective would consist in twofold: to strip
+      Hezbollah of its strategic depth north of the Litani River and to reshape the
+      demographic reality of the frontier. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israeli Prime Minister Benjamin Netanyahu is preparing for
+      a decisive military campaign in Gaza City, mobilizing 60,000 new recruits in hopes
+      of reshaping the Middle East and solidifying his political legacy, despite the
+      potential for significant casualties.
+    paragraph_summary: Israeli Prime Minister Benjamin Netanyahu is poised for a significant
+      military escalation in Gaza, mobilizing around 60,000 new recruits in preparation
+      for what he hopes will be a decisive battle for Gaza City and the broader Gaza
+      Strip. This extensive mobilization reflects the scale of the military operation
+      and the anticipated casualties, but Netanyahu appears more focused on the political
+      implications of a potential victory, which he believes could solidify his legacy
+      and strengthen his far-right coalition. He views the occupation of Gaza not as
+      an end goal but as a strategic stepping stone towards confronting Hezbollah in
+      Lebanon, aiming to disarm the group or occupy territory south of the Litani River
+      to reshape the regional demographic landscape.
+    published: '2025-09-05T03:39:21+00:00'
   - title: 'Rückschlag oder Rückschritt? Europa: Symbol schwindender Autonomie und Gefahr
       von Krieg statt Frieden'
     url: https://ejmagnier.com/2025/09/03/ruckschlag-oder-ruckschritt-europa-symbol-schwindender-autonomie-und-gefahr-von-krieg-statt-frieden/

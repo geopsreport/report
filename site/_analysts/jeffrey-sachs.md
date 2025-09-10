@@ -8,35 +8,182 @@ websites:
   - https://www.commondreams.org/author/jeffrey-d-sachs
   - https://www.jeffsachs.org/newspaper-articles
 summary: |
-  The geopolitical landscape remains dominated by the ongoing crises in the Middle East and Europe, with new developments highlighting the deepening isolation of Israel, shifting US policy calculations, and the urgent need for a diplomatic reset in Europe’s relations with Russia and China.
+  The geopolitical landscape remains dominated by the ongoing crisis in Gaza, the deepening isolation of Israel and the United States on the world stage, and the shifting alignments in global diplomacy. The situation in Gaza has reached unprecedented levels of humanitarian catastrophe, with **Jeffrey Sachs** reporting that Israel, with active US support, is “systematically depriving more than two million people of food,” and that “more than half a million Palestinians face catastrophic hunger.” This mass starvation, now officially confirmed by the UN and major humanitarian organizations, is being described as the first such case in the Middle East, and is widely recognized as a deliberate policy by the Israeli government, with open statements from Israeli ministers confirming the intent to use hunger as a weapon.
   
-  **Mounting International Pressure on Israel and the US Role**
+  The United States continues to shield Israel diplomatically, most notably through its veto power at the UN Security Council and by blocking even basic humanitarian responses. However, international consensus is rapidly consolidating against this position. As **Sachs** notes, “172 countries, with more than 90 percent of the world population, voted to support Palestine’s right to self-determination” last December, leaving Israel and the US increasingly isolated. Public opinion in the US is also shifting, with 58% of Americans now supporting UN recognition of Palestine and 60% opposing Israel’s actions in Gaza.
   
-  The humanitarian catastrophe in Gaza continues, with **Jeffrey Sachs** asserting that “Israel is committing genocide—everyone knows it, even its staunchest defenders.” He points to recent admissions by Israeli and US officials, including former Ambassador Jack Lew, that Israel’s cabinet policy is to deny basic necessities to Gaza, confirming the intent behind current actions. The International Court of Justice is expected to use such statements as evidence of genocidal policy.
+  In response to the ongoing crisis, new practical steps are being advocated and, in some cases, implemented. Turkiye has already severed all economic, trade, and transport links with Israel, setting a precedent that **Sachs** urges other states to follow. There is mounting pressure for the suspension of Israel from the UN General Assembly, the recognition of Palestine by all remaining states, and the dispatch of a UN Protection Force to Gaza under the “Uniting for Peace” mechanism—bypassing the US veto in the Security Council.
   
-  A significant shift is underway among Western allies: France, the UK, Australia, and Canada have all pledged to recognize the State of Palestine at the upcoming UN General Assembly in September. This move signals the collapse of Israel’s traditional diplomatic shield in the West and reflects a broader global consensus in favor of a two-state solution. Domestically, US public opinion is also shifting, with a new Reuters poll showing 58% of Americans now support UN recognition of Palestine.
+  Meanwhile, the broader context of US and Israeli policy in the region continues to unravel. The collapse of Syria, following years of US and Israeli covert operations and sanctions, has further destabilized the region and emboldened Israel’s expansionist ambitions, particularly in the Golan Heights. The “Clean Break” strategy, devised in the 1990s and implemented through successive US administrations, is now widely seen as the root cause of decades of war and instability stretching from Libya to Iran.
   
-  **US Policy at a Crossroads**
+  **Trends and Predictions:**  
+  - There is a high likelihood (“I guarantee,” per **Sachs**) that international isolation of Israel and the US will intensify, especially as more countries adopt measures similar to Turkiye’s and as the UN General Assembly moves toward possible suspension of Israel.
+  - The humanitarian crisis in Gaza is expected to worsen in the immediate term, but mounting global pressure may force a change in US policy—particularly as domestic American opinion shifts against unconditional support for Israel.
+  - The prospects for a two-state solution are gaining momentum, with the majority of UN member states and even key Western allies now pledging formal recognition of Palestine at the upcoming UN summit.
+  - If the US maintains its current stance, it risks not only further isolation but also the erosion of its influence in the Middle East and beyond, as alternative diplomatic and economic blocs (including BRICS and the Global South) coalesce around a new, multipolar order.
   
-  President Trump’s ambitions for a Nobel Peace Prize and his desire to end the Ukraine war are now directly linked to his willingness to halt US complicity in Gaza. **Sachs** argues that “only the Trump administration can end the genocide through a comprehensive settlement agreed by the world’s nations at the UN Security Council and UN General Assembly.” The US remains the sole veto on Palestine’s permanent UN membership; all other Security Council members have signaled support.
-  
-  The Arab and Islamic world, along with the overwhelming majority of UN member states, continue to back the two-state solution as the only viable path to peace. The upcoming UN Security Council vote on Palestine’s membership is seen as a potential turning point that could force Israel to abandon its expansionist ambitions and open the door to regional stabilization.
-  
-  **Europe’s Strategic Dilemma and the Need for a New Foreign Policy**
-  
-  In parallel, Europe faces an urgent need to reassess its foreign policy. **Sachs** details how Europe’s “dangerous hostility with Russia, mutual distrust with China, and extreme vulnerability to the United States” have led to economic stagnation and increased security risks. The narrative of an existential Russian threat, he argues, is historically unfounded and has trapped Europe in a cycle of militarization and dependency on the US.
-  
-  The Ukraine war and the rupture with Russia have severely damaged Europe’s economy, with exports to Russia plummeting and energy costs soaring. Germany’s call for a permanent ban on Russian gas is described as “almost an economic suicide pact.” Sachs calls for Europe to open direct diplomatic channels with Moscow, prepare for a negotiated peace in Ukraine, and reject militarization of relations with China.
-  
-  **Trends and Predictions**
-  
-  - There is a **high chance** that the upcoming UN General Assembly will see a wave of Western recognition for the State of Palestine, further isolating Israel diplomatically.
-  - If the US lifts its veto on Palestine’s UN membership, **I guarantee** a rapid shift toward a two-state solution and a possible end to the Gaza crisis.
-  - Europe’s current trajectory of economic decline and security dependency is unsustainable; a diplomatic reset with Russia and China is **quite likely** within the next two years if current trends persist.
-  - The US is at a pivotal moment: Trump’s legacy and America’s global standing now hinge on decisive action to end the Gaza war and support Palestinian statehood.
-  
-  In summary, the international consensus for a two-state solution is stronger than ever, while Israel’s isolation grows and US policy faces a critical test. Europe, meanwhile, must urgently recalibrate its foreign policy to avoid further economic and security decline. The coming months, particularly the September UN meetings, are poised to be decisive for the region and the world.
+  In summary, the world is at a critical juncture: the international community is being tested as never before to uphold humanitarian law and the UN Charter, with the outcome likely to reshape the geopolitical order in the months ahead.
 articles:
+  - title: How to stop Israel from starving Gaza
+    url: https://www.aljazeera.com/amp/opinions/2025/9/4/how-to-stop-israel-from-starving-gaza
+    text: 'Washington shields Israel as it commits the darkest of crimes, but the family
+      of nations still has the means and duty to act.
+
+
+      Israel, with the complicity of the United States, is committing genocide in Gaza
+      through the mass starvation of the population, as well as direct mass murders
+      and the physical destruction of Gaza’s infrastructure. Israel does the dirty work.
+      The US government funds it and provides diplomatic cover through its veto power
+      at the United Nations. Palantir, through Lavender, provides the artificial intelligence
+      for efficient mass murder. Microsoft, through Azure cloud services, and Google
+      and Amazon, through the Nimbus initiative, supply core tech infrastructure for
+      the Israeli army.
+
+
+      This marks 21st-century war crimes as an Israel-US public-private partnership.
+      Israel’s mass starvation of the people of Gaza has been confirmed by the UN, Amnesty
+      International, Red Cross, Save the Children, and many others. The Norwegian Refugee
+      Council, along with 100 organisations, has been calling for an end to Israel’s
+      weaponisation of food relief. This is the first time that mass starvation has
+      been officially confirmed in the Middle East.
+
+
+      The scale of the starvation is staggering. Israel is systematically depriving
+      more than two million people of food. More than half a million Palestinians face
+      catastrophic hunger, and at least 132,000 children aged below five years are at
+      risk of death from acute malnutrition. The scale of the horror is thoroughly documented
+      by Haaretz in a recent article entitled “Starvation is Everywhere”. Those who
+      are able to somehow access food distribution sites are routinely fired upon by
+      the Israeli army.
+
+
+      Advertisement
+
+
+      As a former US ambassador to Israel recently explained, the intention to starve
+      the population has been present from the start. Israel’s Heritage Minister Amichai
+      Eliyahu recently declared, “There is no nation that feeds its enemies.” Minister
+      Bezalel Smotrich also recently said, “Whoever doesn’t evacuate, don’t let them.
+      No water, no electricity; they can die of hunger or surrender. This is what we
+      want.”
+
+
+      Yet, despite these glaring declarations of genocide, US representatives at the
+      UN repeatedly deny the facts and cover for Israel’s war crimes. The US alone vetoed
+      Palestine’s admission to the UN in 2024. It now denies visas to Palestinian leaders
+      to visit the UN in September, yet another violation of international law.
+
+
+      The US has used its power, especially its veto in the UN Security Council (UNSC),
+      to abet Israel’s genocide of the Palestinians and to block even the most basic
+      humanitarian responses. The world is aghast but seems paralysed before the Israel-US
+      murder machine. Yet the world can act, even in the face of US intransigence. The
+      US will stand naked and alone in its criminal complicity with Israel.
+
+
+      Advertisement
+
+
+      Let’s be clear. The overwhelming voice of humanity is on the side of the people
+      of Palestine. Last December, 172 countries, with more than 90 percent of the world
+      population, voted to support Palestine’s right to self-determination. Israel and
+      the US were essentially isolated in their opposition. Similar overwhelming majorities
+      are repeatedly expressed on behalf of Palestine and against the actions of Israel.
+
+
+      Israel’s thuggish government now counts solely on US support, but even that may
+      not be there for long. Despite Trump’s intransigence and the US government’s attempts
+      to stifle pro-Palestinian voices, 58 percent of Americans want the UN to recognise
+      the State of Palestine, compared with only 33 percent who do not. Moreover, 60
+      percent of Americans oppose Israel’s actions in Gaza.
+
+
+      Here are practical steps that the world can take.
+
+
+      First, Turkiye has set the correct course by ending all economic, trade, shipping,
+      and air links with Israel. Israel is currently a rogue state, and Turkiye is right
+      to treat it as such until Israeli-created mass starvation ends, and a State of
+      Palestine is admitted to the UN as the 194th member, with the borders of June
+      4, 1967. Other states should immediately follow Turkiye’s lead.
+
+
+      Second, all UN member states that have not yet done so should recognise the State
+      of Palestine. So far, 147 countries recognise Palestine. Dozens more should do
+      so at the UN summit on Palestine on September 22, even over the vociferous objections
+      of the US.
+
+
+      Third, the Arab signatories to the Abraham Accords – Bahrain, Morocco, Sudan,
+      and the United Arab Emirates – should suspend their diplomatic relations with
+      Israel until the Gaza siege ends and the State of Palestine is admitted to the
+      UN.
+
+
+      Advertisement
+
+
+      Fourth, the UN General Assembly (UNGA), by a vote of two-thirds present and voting,
+      should suspend Israel from the UNGA until it lifts its murderous siege on Gaza,
+      based on the precedent of suspending South Africa during its apartheid regime.
+      The US has no veto in the UNGA.
+
+
+      Fifth, UN member states should stop the export of all technology services that
+      support the war until the siege of Gaza ends and Palestine’s membership in the
+      UN is adopted by the UNSC. Consumer companies such as Amazon and Microsoft that
+      persist in aiding the Israeli military in the context of a genocide should face
+      the wrath of consumers worldwide.
+
+
+      Sixth, the UNGA should dispatch a UN Protection Force to Gaza and the occupied
+      West Bank. Typically, it would be the UNSC that mandates a protection force, but
+      in this case, the US will block the council with its veto. There is another way.
+
+
+      Under the “Uniting for Peace” mechanism, when the UNSC is deadlocked, the authority
+      to act passes to the UNGA. After a UNSC session and the almost inevitable US veto,
+      the issue would be brought before the UNGA in a resumed 10th emergency special
+      session on the Israel-Palestine conflict. There, the UNGA can, by a two-thirds
+      majority not subject to US veto, authorise a protection force in response to an
+      urgent request from the State of Palestine. There is a precedent: in 1956, the
+      UNGA authorised the UN Emergency Force (UNEF) to enter Egypt and protect it from
+      the ongoing invasion by Israel, France, and the United Kingdom.
+
+
+      At the invitation of Palestine, the protection force would enter Gaza to secure
+      emergency humanitarian aid for the starving population. If Israel were to attack
+      the UN protection force, the force would be authorised to defend itself and the
+      Palestinians in Gaza. Whether Israel and the US would dare to fight a UNGA-mandated
+      force protecting the starving Palestinians remains to be seen.
+
+
+      Israel has crossed the clear line into the darkest crimes – starving civilians
+      to death and shooting them as they line up, emaciated, for food. There is no further
+      line to cross, nor time to lose. The family of nations is being tested and summoned
+      to action as it has not been in decades.
+
+
+      The views expressed in this article are the authors’ own and do not necessarily
+      reflect Al Jazeera’s editorial stance.'
+    one_sentence_summary: The article argues that the United States is complicit in
+      Israel's alleged genocidal actions against the Palestinian population in Gaza,
+      including mass starvation and direct violence, and calls on the international
+      community to take decisive action against these war crimes.
+    paragraph_summary: The article argues that Israel, with the support of the United
+      States, is committing genocide in Gaza through mass starvation and violence against
+      the civilian population, while the US provides diplomatic cover and funding. It
+      highlights the complicity of tech companies like Palantir, Microsoft, Google,
+      and Amazon in facilitating these actions. The scale of the humanitarian crisis
+      is severe, with over two million people facing food deprivation and significant
+      risks of malnutrition, particularly among children. Despite international condemnation
+      and calls for action from numerous organizations, the US continues to block humanitarian
+      responses and deny Palestine's recognition at the UN. The article urges the global
+      community to take concrete steps, such as recognizing Palestine, suspending diplomatic
+      relations with Israel, and deploying a UN Protection Force to address the crisis,
+      emphasizing the moral obligation of nations to act against what it describes as
+      war crimes.
+    published: '2025-09-10T05:48:34.073908+00:00'
   - title: The US Can End the Gaza Genocide Now
     url: https://www.commondreams.org/opinion/how-to-end-gaza-genocide
     text: 'President Donald Trump wants a Nobel Peace Prize, and his efforts toward

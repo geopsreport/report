@@ -7,18 +7,86 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  As of early September 2025, the international geopolitical landscape continues to be shaped by persistent conflicts, shifting narratives, and debates over institutional effectiveness. Recent commentary by **Jan Oberg** and contributors highlights several key developments and ongoing trends.
+  As the global community marks the opening of the 2025 UN General Assembly, recent developments highlight persistent fractures in international diplomacy and justice. The Assembly convened in New York on September 9, but, as **Jan Oberg** reports, the Special GA Segment on Palestine is being relocated to Geneva due to a US-imposed visa ban on Palestinian delegates. This move underscores ongoing tensions regarding US influence over UN proceedings and the marginalization of Palestinian voices at major international forums.
   
-  A central issue remains the portrayal of the Gaza conflict in Western media. **Richard Falk**, cited by Oberg, critiques the recent New York Times column by Thomas Friedman for what he describes as a misleading and partial representation of the situation in Gaza. Falk argues that such coverage fails to adopt a peace-oriented and justice-based perspective, instead reinforcing entrenched narratives that hinder genuine conflict resolution. This critique underscores a broader concern among independent analysts about the Western liberal media’s reluctance to engage with the complexities of the conflict and the lived realities of Palestinians.
+  Meanwhile, the EU Troika’s decision to trigger snapback sanctions on Iran for alleged violations of the nuclear deal has drawn sharp criticism. **Jan Oberg** characterizes the move as a “dangerous misstep,” arguing that it risks escalating tensions and undermining diplomatic avenues. The prevailing view among independent analysts is that these sanctions are likely to further destabilize the region and reduce the prospects for a negotiated solution. There is a high chance that this action will provoke retaliatory measures from Iran and complicate EU-Iran relations in the near term.
   
-  In the context of international institutions, the United Nations’ 80th anniversary has prompted reflection on its role and challenges. **Jan Oberg** asserts that while the UN remains humanity’s most important organization, its effectiveness is being deliberately undermined by member states prioritizing militarism over multilateral cooperation. This erosion, Oberg warns, threatens the UN’s capacity to address global crises, including those in the Middle East and beyond.
+  On the media front, recent critiques have emerged regarding Western coverage of the Gaza situation. **Richard Falk**, cited by **Jan Oberg**, points to a persistent bias in mainstream narratives, particularly in influential outlets like The New York Times. Falk argues that such portrayals obscure the realities on the ground and hinder efforts toward a just and lasting peace. This critique reflects a broader call for more balanced and peace-oriented journalism, especially as public pressure mounts in Europe for governments to recognize Palestinian statehood.
   
-  Meanwhile, the recognition of Palestinian statehood is gaining momentum in Europe. Oberg notes that public pressure is compelling political leaders, particularly in Britain, to reconsider their historical positions. He suggests that Britain’s anticipated recognition of a Palestinian state is a direct response to both domestic and international demands for justice and accountability in the Israeli-Palestinian conflict.
-  
-  Looking forward, the majority of independent analysts cited by Oberg predict with high confidence that media narratives will continue to be contested, with increasing calls for more balanced and future-oriented reporting. There is also a high chance that the trend toward recognizing Palestinian statehood in Europe will accelerate, especially as public opinion exerts greater influence on policymakers. However, the effectiveness of the UN is expected to remain constrained unless member states shift away from militaristic priorities—a development that, according to Oberg, is quite unlikely in the near term.
-  
-  In summary, the current geopolitical moment is marked by critical scrutiny of media narratives, renewed debates over institutional legitimacy, and significant shifts in European policy toward Palestine. These trends are likely to persist, shaping the international agenda in the months ahead.
+  Looking ahead, the trends suggest intensifying polarization within international institutions, with powerful member states increasingly shaping outcomes to suit national interests. The ongoing marginalization of Palestinian representation at the UN and the EU’s hardening stance on Iran are symptomatic of this shift. Based on current trajectories, it is quite likely that diplomatic gridlock will persist, with limited progress on both the Israeli-Palestinian conflict and the Iran nuclear issue in the coming months. The majority of independent analysts, including **Jan Oberg**, urge creative, future-oriented solutions to break these impasses, but confidence in immediate breakthroughs remains low.
 articles:
+  - title: 'A Call to Citizens Everywhere: Choose Your Action for Justice'
+    url: https://transnational.live/2025/09/09/a-call-to-citizens-everywhere-choose-your-action-for-justice/
+    text: 'Contrary to what we stated when publishing this Call, the UN General Assembly
+      (GA) opened on September 9, 2025, in New York, not in Geneva, as we initially
+      wrote. However, due to the host role-violating US ban on visas to Palestinians,
+      the Special GA Segment on Palestine will be held in the UN Geneva from […] The
+      post A Call to Citizens Everywhere: Choose Your Action for Justice appeared first
+      on The Transnational .'
+    one_sentence_summary: The UN General Assembly opened in New York on September 9,
+      2025, instead of Geneva as previously stated, but the Special GA Segment on Palestine
+      will take place in Geneva due to a US visa ban on Palestinians.
+    paragraph_summary: The UN General Assembly (GA) commenced on September 9, 2025,
+      in New York, correcting an earlier statement that it would take place in Geneva.
+      However, due to a US visa ban on Palestinians, the Special GA Segment on Palestine
+      will still be held in Geneva. The article encourages citizens globally to take
+      action for justice regarding this situation.
+    published: '2025-09-09T08:04:59+00:00'
+  - title: 'A Call to Citizens Everywhere: Choose Your Action for Justice'
+    url: https://transnational.live/2025/09/09/a-call-to-citizens-everywhere-choose-your-action-for-justice/
+    text: 'Contrary to what we stated when publishing this Call, the UN General Assembly
+      (GA) opened on September 9, 2025, in New York, not in Geneva, as we initially
+      wrote. However, due to the host role-violating US ban on visas to Palestinians,
+      the Special GA Segment on Palestine will be held in the UN Geneva from […] The
+      post A Call to Citizens Everywhere: Choose Your Action for Justice appeared first
+      on The Transnational .'
+    one_sentence_summary: The UN General Assembly opened in New York on September 9,
+      2025, instead of Geneva as previously stated, but the Special GA Segment on Palestine
+      will take place in Geneva due to a US visa ban on Palestinians.
+    paragraph_summary: The UN General Assembly (GA) commenced on September 9, 2025,
+      in New York, correcting an earlier statement that it would take place in Geneva.
+      However, due to a US visa ban on Palestinians, the Special GA Segment on Palestine
+      will still be held in Geneva. The article encourages citizens globally to take
+      action for justice regarding this situation.
+    published: '2025-09-09T08:04:59+00:00'
+  - title: The Dangerous Folly of the EU Troika’s Snapback sanctions on Iran
+    url: https://transnational.live/2025/09/08/the-dangerous-folly-of-the-eu-troikas-snapback-sanctions-on-iran/
+    text: Farhang Jahanpour TFF Associate and former Board member September 8, 2025
+      On 28 August 2025, France, Germany, and the United Kingdom (the EU Troika) decided
+      to trigger the so-called “snapback mechanism” and reimpose stringent sanctions
+      on Iran after 30 days for its alleged violation of the terms of the Iran nuclear
+      deal, known as the […] The post The Dangerous Folly of the EU Troika’s Snapback
+      sanctions on Iran appeared first on The Transnational .
+    one_sentence_summary: The EU Troika's decision to trigger snapback sanctions on
+      Iran for alleged nuclear deal violations is criticized as a dangerous misstep.
+    paragraph_summary: On August 28, 2025, France, Germany, and the United Kingdom,
+      collectively known as the EU Troika, initiated the "snapback mechanism" to reimpose
+      strict sanctions on Iran, citing its alleged violations of the Iran nuclear deal.
+      This decision, which will take effect after a 30-day period, has raised concerns
+      about the potential consequences of such actions, as highlighted by Farhang Jahanpour,
+      a TFF Associate and former Board member. The article argues that these sanctions
+      could exacerbate tensions and undermine diplomatic efforts, labeling the move
+      as a dangerous folly.
+    published: '2025-09-08T15:11:42+00:00'
+  - title: The Dangerous Folly of the EU Troika’s Snapback sanctions on Iran
+    url: https://transnational.live/2025/09/08/the-dangerous-folly-of-the-eu-troikas-snapback-sanctions-on-iran/
+    text: Farhang Jahanpour TFF Associate and former Board member September 8, 2025
+      On 28 August 2025, France, Germany, and the United Kingdom (the EU Troika) decided
+      to trigger the so-called “snapback mechanism” and reimpose stringent sanctions
+      on Iran after 30 days for its alleged violation of the terms of the Iran nuclear
+      deal, known as the […] The post The Dangerous Folly of the EU Troika’s Snapback
+      sanctions on Iran appeared first on The Transnational .
+    one_sentence_summary: The EU Troika's decision to trigger snapback sanctions on
+      Iran for alleged nuclear deal violations is criticized as a dangerous misstep.
+    paragraph_summary: On August 28, 2025, France, Germany, and the United Kingdom,
+      collectively known as the EU Troika, initiated the "snapback mechanism" to reimpose
+      strict sanctions on Iran, citing its alleged violations of the Iran nuclear deal.
+      This decision, which will take effect after a 30-day period, has raised concerns
+      about the potential consequences of such actions, as highlighted by Farhang Jahanpour,
+      a TFF Associate and former Board member. The article argues that these sanctions
+      could exacerbate tensions and undermine diplomatic efforts, labeling the move
+      as a dangerous folly.
+    published: '2025-09-08T15:11:42+00:00'
   - title: 'The Western Liberal Media New Messaging on Gaza: A Critique from the Perspective
       of Peace and Justice Journalism'
     url: https://transnational.live/2025/09/02/the-western-liberal-media-new-messaging-on-gaza-a-critique-from-the-perspective-of-peace-and-justice-journalism/

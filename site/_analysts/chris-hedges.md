@@ -7,18 +7,10062 @@ description: "Pulitzer-winning journalist, ex–NYT war correspondent; radical r
 websites:
   - https://scheerpost.com
 summary: |
-  As the global order continues to fracture under the weight of war, surveillance, and economic upheaval, several new developments have emerged over the past 12 hours that shed light on the deepening crises in Gaza, the expansion of information warfare, and the ongoing transformation of U.S. economic policy.
+  The international landscape remains volatile as Western governments, particularly the United States, recalibrate their strategic priorities and confront mounting crises in the Middle East and at home. The past 12 hours have seen significant developments in U.S. defense policy, the Israeli-Palestinian conflict, and the global response to the ongoing humanitarian disaster in Gaza.
   
-  The most urgent revelations come from Gaza, where **Anthony Aguilar**, a retired Lieutenant Colonel and former GHF contractor, described to **Chris Hedges** the “unprecedented violence and disregard for humanitarian law” he witnessed on the ground. Aguilar’s testimony underscores mounting evidence of systematic starvation, destruction of infrastructure, and civilian targeting—actions that **Hedges** and other observers have repeatedly characterized as genocidal. Aguilar’s account provides direct, first-hand corroboration of these claims, intensifying calls for international accountability and heightening scrutiny of U.S. and tech sector complicity.
+  A major shift in U.S. military doctrine is underway, as officials propose pivoting from a focus on China and Russia to what are described as “threats” in Latin America and the Caribbean. This comes alongside President Trump’s executive order to rename the Department of Defense as the “War Department.” **Chris Hedges** notes that this rebranding signals a more aggressive posture and could presage increased interventionism in the Western Hemisphere. The draft National Defense Strategy reportedly frames regional instability and migration as security threats, a move that is likely to heighten tensions with governments in the region. There is a high chance this shift will exacerbate anti-U.S. sentiment and trigger a new cycle of proxy conflicts and political unrest in Latin America.
   
-  Meanwhile, new leaks have exposed the covert role of **BBC Media Action** in British overseas information warfare. According to **Hedges**, the organization, while presenting itself as a charitable media development arm, has been “leveraging the BBC’s reputation to secure government contracts” and deploying sophisticated social and behavioral change strategies. These revelations point to a broader trend of Western states weaponizing media and information to shape public opinion and foreign policy outcomes, often under the guise of humanitarian or development work.
+  In the Middle East, the humanitarian catastrophe in Gaza continues to draw international condemnation. Spain has announced a comprehensive arms embargo on Israel, with Prime Minister Pedro Sánchez unveiling nine measures aimed at pressuring the Netanyahu government to halt its military campaign. While Sánchez acknowledged the historical suffering of the Jewish people, he emphasized the urgent need to “stop the genocide in Gaza.” This move marks a significant escalation in European efforts to isolate Israel diplomatically and economically. According to **Chris Hedges**, such measures are “likely to embolden other EU states to take similar steps,” and there is a high chance that international pressure on Israel will intensify in the coming weeks.
   
-  On the domestic front, the U.S. continues to blur the lines between public and private interests. **Hedges** highlights how the Trump administration’s economic policies—far from the free-market rhetoric—have manifested as a form of “socialism for the rich,” with massive government contracts and tax breaks flowing to corporations. This trend, he argues, shifts the tax burden onto ordinary citizens while undermining the social safety net.
+  Meanwhile, tensions in the West Bank remain high after a deadly shooting in Jerusalem left six Israelis dead and 17 wounded. The attack, carried out by two Palestinian suspects who were subsequently killed, has fueled fears of harsh Israeli reprisals. **Raz Segal**, speaking with **Chris Hedges**, contextualizes the violence within a broader narrative of historical trauma and the manipulation of Holocaust memory to justify state actions. The majority of analysts predict a cycle of retaliatory violence, with a high chance of further escalation in the occupied territories.
   
-  Looking ahead, the majority of analysts cited by **Hedges** agree that the situation in Gaza is likely to deteriorate further absent significant international intervention. There is a high chance that Western information warfare efforts will intensify, particularly as governments seek to control narratives around escalating conflicts. The U.S. economic model, increasingly reliant on state support for corporations, is expected to persist, with most observers predicting further entrenchment of corporate welfare policies.
-  
-  In sum, the latest developments point to a world where violence against civilians, manipulation of information, and the privatization of public wealth are not aberrations but features of the current geopolitical landscape. I guarantee that, barring a dramatic shift in public mobilization or elite consensus, these trends will most definitely continue to define the coming months.
+  In summary, the dominant trends point toward increased militarization of U.S. foreign policy in the Americas, growing international isolation of Israel, and a deepening crisis in the Palestinian territories. I guarantee that absent meaningful diplomatic intervention, these trajectories will most definitely lead to greater instability and suffering in the regions concerned.
 articles:
+  - title: The Death of Holocaust Studies (w/ Raz Segal) | The Chris Hedges Report
+    url: https://scheerpost.com/2025/09/09/the-death-of-holocaust-studies-w-raz-segal-the-chris-hedges-report/
+    text: '/befoer By Chris Hedges / The Chris Hedges Report This interview is also
+      available on podcast platforms and Rumble . Raz Segal, an Israeli historian and
+      an associate professor of Holocaust and Genocide Studies at Stockton University,
+      analyzes how the weaponization and distortion of the Holocaust, in the midst of
+      the genocide in Gaza, has been used to serve the narrative of Zionists and the
+      Israeli government. He tells host Chris Hedges on this episode of The Chris Hedges
+      Report : “We know that Holocaust education eventually was more focused on transmitting
+      this feeling of exceptionality than actually teaching about Holocaust as history,
+      as real history, as normal history, as a part, indeed, of the making of the modern
+      and late modern world.” Segal recounts his personal experience learning about
+      the Holocaust in Israel, revealing a Zionist perspective that is both skewed and
+      contradictory. “Jews, because they were a unique people, always faced a unique
+      hatred, anti-Semitism, which then culminated in a unique genocide, really the
+      only genocide ever in human history, in this framework: the Holocaust,” he explains.
+      Though Segal outgrew this propagandized view, he explains that many in Israel
+      and its international supporters still frame Jews and the Holocaust as exceptional.
+      This belief in exceptionalism, Segal argues, blurs the history that led to the
+      Holocaust and the events that have followed. “We really can’t understand the phenomena
+      of modern genocide without understanding the nation-state system, the exclusionary
+      nation system and colonialism, European expansion around the world, settler colonialism
+      and colonial genocides that accompanied this expansion for hundreds of years,”
+      Segal contends. Please share this story and help us grow our network! Host Chris
+      Hedges Producer: Max Jones Intro: Diego Ramos Crew: Diego Ramos, Sofia Menemenlis
+      and Thomas Hedges Transcript: Diego Ramos Editor’s Note : A t a moment when the
+      once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Transcript Chris Hedges
+      The idea that the Holocaust is a unique event in human history serves the interests
+      of Zionists who use it to paint Jews as eternal victims and justify the apartheid
+      state of Israel and the genocide being carried out in Gaza. Unique suffering in
+      their eyes confers unique entitlement. But it also serves the interests of colonial
+      powers who carried out their own genocides, ones they seek to obscure and deny.
+      What was the annihilation of Native Americans by European settlers? The Armenians
+      by Turks, the Indians and the Bengal famine by the British? Or the Soviet orchestrated
+      famine in the Ukraine? What was the dropping of the atomic bombs on Hiroshima
+      and Nagasaki? Is manifest destiny any different from the Nazis’ concept of Lebensraum?
+      These too were holocausts fueled by the same dehumanization and bloodlust for
+      mass extermination. Nearly all Holocaust scholars who see in any criticism of
+      Israel a betrayal of the Holocaust have refused to condemn the genocide. Not one
+      of the institutions dedicated to researching and commemorating the Holocaust have
+      drawn the obvious historical parallels or decried the mass slaughter of Palestinians.
+      These scholars and institutions are rendering the slogan “never again” meaningless.
+      They are misappropriating the Holocaust to perpetuate a false view of the world
+      and human nature, a way not to explore the past but manipulate the present. This
+      decision to render the Holocaust an isolated event in human history, some grotesque
+      aberration of human depravity, robs it of its meaning and its universal importance.
+      This sacralization of the Holocaust allows Germany, which has been one of Israel’s
+      most important weapon suppliers since the state’s inception, to absolve itself
+      for its own past through its backing of the Israeli settler colonial state. Germany
+      uses this alliance with Israel to separate Nazism from the rest of German history,
+      including the genocide carried out by German colonists against the Nama and Herero
+      in German Southwest Africa, now Namibia. Such magic, the Israeli historian and
+      genocide scholar Raz Segal writes, legitimizes racism against the Palestinians
+      at the very moment that Israel perpetuates genocide against them. The idea of
+      Holocaust uniqueness thus reproduces rather than challenges the exclusionary nationalism
+      and settler colonialism that led to the Holocaust. Joining me to discuss the uses
+      and misuses of the Holocaust and what it means for Holocaust studies is Professor
+      Raz Segal, an associate professor of Holocaust and Genocide Studies at Stockton
+      University, where he also directs the Master of Arts in Holocaust and Genocide
+      Studies program. Professor Segal, because of his condemnation of the genocide
+      in Gaza, saw the offer to lead the Center for Holocaust and Genocide Studies at
+      the University of Minnesota revoked. Let’s begin with the lessons of the Holocaust
+      because for Zionists, and if you go to the Holocaust Museum in Washington, the
+      lesson of the Holocaust is the creation of a well-armed Jewish state. That’s not
+      the lesson for other writers of the Holocaust such as Primo Levi, but maybe you
+      can lay out what in your mind is the importance, and I think that, of course,
+      both of us fear that the misuses of the Holocaust diminishes its importance for
+      all of us who need to learn about the capacity for human evil. Raz Segal Yeah,
+      well, thank you so much, Chris, and for the invitation to speak with you today.
+      For me, the significance of the Holocaust, there’s a number of things to say,
+      but in a very basic way, I take the idea of “never again,” which is also in the
+      title of the UN Genocide Convention, which is the United Nations Convention on
+      the Prevention and Punishment of the Crime of Genocide. So genocide prevention.
+      And “never again,” I take that very seriously and I take that very seriously not
+      in the framework of Holocaust uniqueness, the exclusionary Israeli Zionist framework,
+      “never again for us”, which as you mentioned, really means reproduction of the
+      systems and processes of violence that led to the Holocaust, embodied in the state
+      of Israel. But for me, the framework is a universal framework. So that is indeed
+      about genocide prevention. So that’s in a very basic way the significance, for
+      me, of thinking about the Holocaust and certainly about thinking about the Holocaust,
+      as I said, not as an exceptional event, right, but as something that is very much
+      rooted in the broader context and really in the making of the late modern world.
+      And in that sense, I think about it as rooted in the nation-state system and colonialism.
+      I mean, there’s a reason that the Holocaust happened when it happened, where it
+      happened. That is in the middle of the 20th century in the heart of Europe. And
+      we can’t understand Nazism. We can’t understand the Holocaust. We really can’t
+      understand the phenomena of modern genocide without understanding the nation-state
+      system, the exclusionary nation system and colonialism, European expansion around
+      the world, settler colonialism and colonial genocides that accompanied this expansion
+      for hundreds of years. And in that sense, and here I come to another way in which
+      I see the significance of thinking about the Holocaust, after the defeat of Nazism,
+      after the Holocaust, after the end of World War II, there was no coming to terms
+      with the systems and processes of the nation state and colonialism that eventually
+      culminated, not in any deterministic way, but eventually culminated in the Holocaust.
+      Rather, the exclusionary nation state system and colonialism were actually reproduced
+      after World War II and most horribly they were actually reproduced and intersected
+      in the Israeli state project because Israel emerged, it’s a self-described nation-state
+      of Jews. It actually has a Basic Law, the Jewish nation-state Basic Law from 2018,
+      right? So it’s actually defined in an exclusionary way the Jewish state, but it’s
+      also from the very beginning and again very explicitly a settler colonial project.
+      So we have in the Israeli state project the intersection really of the systems
+      of the violent processes that were central to the targeting of Jews for a long
+      time before the Holocaust and then culminated in the Nazi genocide of Jews and
+      in the layers of genocidal violence during World War II, not only against Jews,
+      this was then, as I just explained, reproduced in the Israeli state project. And
+      for me, therefore, there’s another significance of studying the Holocaust that
+      is related to the project of taking seriously “never again” in its universalist
+      meaning and taking seriously the international law and the issue of genocide prevention
+      and that is really the struggle against Israeli mass violence well before, well,
+      well before October 2023 really, the Gaza genocide is a culmination of Israeli
+      settler colonial violence, the ongoing Nakba since 1948, and really Zionist settler
+      colonialism before 1948. So the struggle against Israeli mass violence, because
+      it’s actually so central, the Israeli state project in thinking about the Holocaust,
+      because it’s so central in weaponizing the Holocaust in the reproduction of the
+      causes that led us to the Holocaust, the struggle against Israeli mass violence,
+      the struggle for a different kind of state and society between the river and the
+      sea is for me a very important element that stems from thinking about the significance
+      of the Holocaust. So these are kind of the two related ways in which I think about
+      the significance of the Holocaust. Chris Hedges You’re Israeli. There’s a 1999
+      article by Ilan Pappé that talks about the way Israelis are indoctrinated. These
+      are his words. What was your own trajectory to kind of arrive to where you are,
+      especially having been born and raised in Israel? Raz Segal I don’t know about
+      the word indoctrinated, I have to say. Chris Hedges That’s his word. That’s his
+      word. Raz Segal Yeah, I understand. It might apply for… I mean, maybe it’s the
+      right word. Maybe it’s not. I think that people, not only Israeli Jews in that
+      sense, develop a sense of nationalism, right? And national attachments to places
+      in various ways. In many cases, it’s not through kind of outright indoctrination,
+      which doesn’t make it any, you know, any less strong. Quite the contrary, it makes
+      it actually even stronger. For me, growing up, look, this is the thing that is
+      very important, I think, to explain. And that’s why I said that I’m not sure about
+      indoctrination. The issue of uniqueness that you explained briefly in your introduction
+      was a common sense issue in the way that I saw the world and felt in the world
+      growing up as an Israeli Jew. What do I mean? That it was kind of, it was almost
+      the basis of how I viewed the world. So the Holocaust was unique, but the Holocaust
+      was unique was only part of thinking, and again, none of this was articulated
+      in a very sophisticated way. It was primarily felt. So Jews, of course, were a
+      unique people. And Jews, because they were a unique people, always faced a unique
+      hatred, anti-Semitism, which then culminated in a unique genocide, really the
+      only genocide ever in human history, right, in this framework, the Holocaust.
+      And because Jews and anti-Semitism and the Holocaust are unique, then of course,
+      the Israeli state, right, that is in this framework seen as a response to the
+      Holocaust, is also unique, right? So everything kind of flowed from this kind
+      of system of uniqueness of Jews, anti-Semitism, the Holocaust and Israel for me.
+      And therefore I grew up, you know, Nakba denial was nothing explicit, right? It
+      was just unimaginable to think about the Nakba, and certainly the ongoing Nakba,
+      right? Even though, again, Israel is a small place, Israel-Palestin. So it’s also
+      a very interesting case to think about how people imagine the world around them
+      even when reality contradicts it in very clear ways, right? But the issue of not
+      imagining the Nakba is actually rooted also In the international political and
+      legal system after the war and this is an important sidebar I think, you know,
+      zooming out here from my own experience right growing up in Israel to the international
+      political legal system because, again, the international legal system that emerged
+      after World War II, or re-emerged actually, right? I mean, international law has
+      a history well before World War II, it re-emerges after the war, and genocide
+      is its key innovation, the crime of genocide. But the crime of genocide emerges
+      in relation to what we call today the Holocaust. No one used the word at the time.
+      And because of this idea of uniqueness that played, that addressed various interests
+      of the victorious powers in World War II, the idea of uniqueness meant that immediately
+      what we have, right, is hierarchy, which is embodied then in the 90s much later
+      in the field in which I work, Holocaust and genocide studies, right, so Holocaust
+      and then genocide. But because, again, the Holocaust is unique, Nazism is unique,
+      and because Israel was immediately perceived of course as the state of the Holocaust
+      survivors, so again Israel is also unique, which means that from the very beginning
+      of the re-emergence of the international legal system, in relation to the new
+      crime of genocide, Israel assumes what really has become structural in the international
+      legal system — impunity, right? The idea that it’s a unique state, that it literally
+      becomes, again, back to this idea of not imagining, unimaginable that Israel could
+      perpetrate any crime under international law, let alone genocide, right? Now,
+      so what I’m saying is that there was an international context to basically… It’s
+      an absolute complete marginalization of Palestinians. Their history, their existence
+      as a people, denying the Palestinians existed as a people is a very common, was
+      a very common, still is a very common issue in Israeli politics and society, denying
+      the Nakba. And of course denying the the ongoing Nakba, the long history of Israeli
+      mass violence against Palestinians culminating today in the Gaza genocide. Now
+      in terms of my trajectory of emerging or moving away from this framework, it was
+      a very long process and there’s no time to get into it, but what matters here
+      is that it was a process that unfolded in parallel to my studies, my interest
+      in my academic studies about the Holocaust, right? And again, I came to it, of
+      course, imagining and thinking and feeling that the Holocaust is unique, that
+      Jewish history is unique. And what happened to me, particularly in my doctoral
+      studies stage and under the guidance of Dr. Debórah Dwork, who was the founding
+      director of the Strassler Center for Holocaust and Genocide Studies at Clark University,
+      where I did my PhD, and Debórah really guided me through this process of change.
+      And the process of change was really a process of learning, right, where I needed
+      to confront more and more evidence that and evidence I mean also in the archives,
+      when I went into the archives, when I was researching my dissertation that became
+      my book, Genocide in the Carpathians , the evidence more and more challenged and
+      undermined the ideas about uniqueness that I held about the Holocaust, in this
+      case the Holocaust in Hungary, about Jewish history actually in the Jews in the
+      Carpathian region. And in parallel to that, right, when this kind of system of
+      uniqueness, you know, when there are cracks that started to appear in it, almost
+      inevitably cracks started to appear in how I saw and felt and thought about Israel.
+      So it happened in parallel, but it was for me personally, it was a process of
+      many years of learning. And then I would say, you can also say of unlearning,
+      right? But it was less really a process of unlearning, it was more a process of
+      confronting the way that I felt about this place and the connection, the belonging
+      that I felt to the place and how the more I learned also about the place, again,
+      parallel to my research on the Holocaust, right, the more it became clear to me,
+      again, through a lot of resistance, that the image that I had was absolutely false,
+      actually. Chris Hedges Let’s talk about how Israel uses the Holocaust. IDF soldiers
+      will go to Auschwitz. The Yad Vashem Holocaust studies in the United States seem,
+      you know far better than I do, pretty much to have been captured by this Zionist
+      narrative. Talk about the uses of the Holocaust by Zionists and by Israel. Raz
+      Segal Yeah, I think this is quite well known, right? The way in which the Holocaust,
+      and I wouldn’t say, I think that the correct word is weaponized, right? The Holocaust
+      has been weaponized by Israel and by Zionists to obviously justify the Israeli
+      state project and rationalize and legitimize really anything that Israel did or
+      does. Again, in a very basic way, it’s rooted in this idea of uniqueness and in
+      this sense of impunity, right, that Israel can literally do no wrong. And the
+      Holocaust then serves as a key element in order to rationalize this, justify this,
+      legitimize this, reproduce this. But the important thing, there’s two things that
+      I think are less well understood about this. One is that the Holocaust is weaponized
+      to justify the entire nation-state system around the world. And when I say that,
+      what I mean is what we call global Holocaust memory, that is the institutional
+      phenomena of Holocaust memory that emerged in the 1990s with the fall of the Soviet
+      Union. And we were promised that it’s the end of history. You remember that Chris?
+      And global Holocaust memory, this kind of brave new world that was emerging. Global
+      Holocaust memory was a very important element in justifying, legitimizing, rationalizing
+      the Western-dominated nation-state system. And there’s an obvious issue here that
+      global Holocaust memory is an institutional phenomenon. What I mean is the key
+      institutes of this memory culture that are also overlapping with the academic
+      field of Holocaust and genocide studies that really took off at the time in 1990s,
+      right? So the United States Holocaust Memorial Museum in [Washington] D.C., Yad
+      Vashem in Israel that had existed, of course, since the 50s, but in the 90s also
+      became part of this global memory framework, the International Holocaust Remembrance
+      Alliance. So we have, it’s really institutional phenomena and it’s a state institutional
+      phenomenon, right? That’s the point. These are state institutes. And one of the
+      really interesting things here is that, it’s obvious that state institutes, whatever
+      they are, whatever they do, right, their goal, their interest is the interest
+      of the state, not the interest of the people targeted by states, right? That should
+      be the “never again” genocide prevention framework. The people, the era of the
+      witness, the voices of Holocaust survivors, right? That should be the focus of
+      Holocaust memory. It isn’t. It never was. Global Holocaust memory by design is
+      a state project, right? So one of the things to understand is that it’s not only
+      used by Israel and by Zionists, right? It has a global, indeed, context here that
+      is meant to legitimize the reproduction of the nation-state system after the Holocaust,
+      not to confront it. And of course, we can’t understand the Holocaust at all without
+      the nation-state system, the exclusionary nation-state system. Without it, we
+      can’t understand what happened to Jews in Hungary, in Romania, in France, indeed
+      in Germany, right? So that’s one broader context to consider. But there’s another
+      broader context here to consider that I think is far less well known and understood
+      is that in Israel specifically, the Holocaust has always also been a major problem,
+      not just an opportunity, but a major problem. And why was it a major problem?
+      Because the Israeli state, right, was based on this idea of the return of Jews
+      to their native homeland, ancient people returning to their ancient homeland.
+      The Holocaust, on the other hand, suggested a completely different kind of foundational
+      story actually, from Holocaust to redemption. So it wasn’t about antiquity, it
+      wasn’t about an ancient people. It was actually about a people that had lived
+      for hundreds of years in places that were actually their homelands, right? And
+      then were attacked and the survivors, you know, arrive to this settler colonial
+      project, regardless of how they themselves, of course, many survivors did not
+      understand and did not know and did not want to in that sense partake in a settler
+      colonial project. But the Holocaust provided a very different foundational story,
+      right? And this is a foundational story that’s not only about, it’s very strong
+      in the religious Zionist framework, right? But it’s not only about religious Zionism.
+      It’s also about secular liberal Zionism. It’s very much a framework that [David]
+      Ben-Gurion had, right, first Israeli prime minister. So the Holocaust from the
+      beginning actually created all kinds of problems in Israeli politics and societies.
+      It’s not by accident that Ben-Gurion, for example, refused, as is well known,
+      to talk about the Holocaust, right? And, I don’t remember exactly the formulation,
+      but he once had an outburst and he said, what is there to talk about? They died
+      and that’s it, right? So from the very beginning, there was a kind of urge actually,
+      yeah, an urge I would say, to disavow the Holocaust actually, right? So there
+      was a tension there. On the one hand, there was this framework of exceptionality,
+      of uniqueness, right, that was very important. But on the other hand, there was
+      the Holocaust that created a problem. And this became very, very pronounced, of
+      course, in the post-1967 religious Zionist settler movement, because again, there
+      we have the contradiction is very clear, Zionism is about the return of ancient
+      people to their homeland, and the Holocaust is a different kind of story. And
+      there’s a lot more to elaborate about this, but one last thing to say related
+      to this is that what happens then, of course, with the rise of global Holocaust
+      memory and with Holocaust education and with the proliferation of academic programs
+      around the about the Holocaust and then Holocaust and genocide studies and of
+      a lot of film and art and culture around this is that one of the things that happens,
+      of course, is that people start to develop thinking about the Holocaust that is
+      very contrary to the ideology of global Holocaust memory. And in particular, people
+      start to understand that there are big problems with, for instance, Israeli state
+      violence against Palestinians. For instance, with decades of Israeli occupation
+      that are a crude violation of international law. And wait a minute, isn’t international
+      law a Holocaust lesson? The Nuremberg trials, right? Isn’t the International Criminal
+      Court and the International Court of Justice, are these institutes not also somehow
+      related to thinking about the “lessons” of the Holocaust? So there develops these
+      ideas and then develops, of course, particularly in the frame of critical genocide
+      studies, what’s called the colonial turn in genocide studies in the last 25 years
+      or so, as thinking about colonialism and genocide and settler colonialism and
+      genocide and people, of course, started to see and make the connections with the
+      Israeli state project and Israeli settler colonialism, which, of course, creates
+      more of a problem, right, for the Israeli state and feeds into this urge also
+      to disavow the Holocaust. The end result of this, there’s two things that happen.
+      One is that we know today, not only in Israel, but also in the U.S., in the U.K.,
+      which is the center of Holocaust education, what people actually know about the
+      Holocaust is very little, right? And so we actually, we know that Holocaust education
+      eventually was more focused on transmitting this feeling of exceptionality than
+      actually teaching about Holocaust as history, as real history, as normal history,
+      as a part, indeed, of the making of the modern and late modern world. So that’s
+      one thing, that is global Holocaust memory and disorganization is actually contrary
+      to really teaching and learning and understanding the Holocaust. But the other
+      thing, and this of course became very pronounced with the Gaza genocide, right,
+      is that we really see now a rise in, you know, it’s not, I think, a significant
+      rise still but we definitely see signs of Holocaust denial in ways that I don’t,
+      again, we’re seeing signs that, may or may not develop further because, indeed,
+      the Holocaust in the world of the Gaza genocide and in the world that the Gaza
+      genocide points to, we can talk more about this, right, is a big problem. Because
+      if we think about the Gaza genocidism as really Israel and its allies are also
+      using the Gaza genocide as a model for the world to come. This is what will happen
+      to people who dare to resist any kind of measures imposed on them by extremely
+      violent states. Then this is a world of no international law. This is a world
+      not of “never again”, but of again and again. Of course, no genocide prevention
+      and of course, no need for Holocaust education of any sort at this point, right,
+      for anything, right? So in this framework, of course, Holocaust denial, this is
+      a very welcoming framework for Holocaust denial, right? Chris Hedges Let me ask
+      about that because you used the word crisis in Holocaust studies. I think, having
+      spent two decades covering war, the literature of the Holocaust has been extremely
+      important to my own understanding of our own capacity for evil atrocity, the understanding
+      that the line between the victim and the victimizer is always razor thin. This
+      is why I admire Primo Levi so much. But talk about that crisis. I mean, I think
+      that it is extremely important that we study the Holocaust. Why do you use the
+      word crisis? What’s happening? Raz Segal I mean, the crisis is again twofold.
+      As you mentioned in your introduction, Chris, the institutes of global Holocaust
+      memory, you know, unsurprisingly at all, all stood behind Israel’s attack on Gaza,
+      actually participated in a crude weaponization of Holocaust history by depicting
+      Palestinians as Nazis, by framing the Hamas attack on Israel on the 7th of October
+      as a continuation actually of the Holocaust. That is taking part in this genocide
+      legitimization basically, legitimization of the Gaza genocide. So we see this
+      across, we see this at the USHMM [United States Holocaust Memorial Museum], we
+      see this at the Yad Vashem of course, the Israeli State Institute. We see this
+      in the Shoah Foundation in LA [Los Angeles], in the International Holocaust Remembrance
+      Alliance across the board, of course, these institutes did what they are designed
+      to do, right? Support the state and of course support the Israeli state. On the
+      academic level, and of course there’s overlap, right? There’s a lot of overlap.
+      Of course the USHMM has a research arm that also provides scholarships for students
+      and scholars, right? So there’s a lot of overlap between the institutes of global
+      Holocaust remembrance and the academic world. In the academic world we’ve seen
+      a massive divide immediately after October 7. A lot, I would say, in Holocaust
+      studies, if we’re just thinking about Holocaust studies here, not the broader
+      Holocaust and genocide studies, the large majority of Holocaust scholars took
+      the position of the institutes of global Holocaust memory. There was an open letter
+      statement in November 2023 of about 150 Holocaust scholars, including some very
+      prominent names, Jan Grabowski, Saul Friedländer, others, who again, you know,
+      there’s not only genocide, of course, does not appear in the statement, no crime.
+      Israel, again, can literally do no wrong. And what’s happening according to that
+      statement in November 2023 of Holocaust scholars is really a continuation of the
+      Holocaust, of anti-Semitism. So this is of, again, participation, crude weaponization
+      of Holocaust history to justify the Gaza genocide. Again, there’s other examples,
+      some Holocaust scholars wrote some op-eds that again for example reproduced Israeli
+      atrocity propaganda, for example, about the 40 beheaded babies on October 7th,
+      that never happened. And there was a piece in a Haaretz also in November 2023
+      by five Holocaust scholars including the Israeli Dina Porat, including the American
+      Avinoam Patt and others who reproduced the beheaded babies Israeli atrocity propaganda
+      that is, again, fuel for the Gaza genocide even though by the time that they were
+      writing, by the way, it was already clear to everyone that it had never happened,
+      right, the 40 beheaded babies. They still reproduced it in their piece. So the
+      dean of Holocaust studies, Israeli professor Yehuda Bauer, who was still alive
+      at the time, also in November 2023, wrote a piece in the Times of Israel that
+      described Hamas and Israel as living in two different worlds, right? Hamas, a
+      world of barbarism, and Israel, a world of civilization so a very clear settler
+      colonial racist framework, right? Again, fodder to the genocide. So we had a lot
+      of that and the large majority of Holocaust scholars in the U.S., certainly in
+      Germany, where, as you mentioned in your introduction, support for Israel is a
+      religious element, right, in the reason of the German state. And then we had a
+      minority of Holocaust scholars including myself, you know, we could think of other
+      well-known scholars like Omer Bartov, of course, and others who immediately from
+      the beginning spoke out about not necessarily the crime of genocide, as is well
+      known, it took Omer Bartov until May 2024 to say that he recognized the crime
+      of genocide. Chris Hedges Wasn’t it 2025? Wasn’t it this year? Bartov? Raz Segal
+      No, Bartov in May 2024, with Israel’s invasion of Rafah, he argues that he recognized
+      the crime of genocide. Again, there’s contradictions in the way that he framed
+      his position in the last year, right, in relation to those early months of Israel’s
+      attack on Gaza. But he definitely talked about Israeli crimes, very, very clear
+      war crimes, crimes against humanities, about the danger of genocide. And this
+      is the key issue, right, with the crime of genocide, if we really take prevention
+      seriously, genocide is not a crime that you are supposed to identify once the
+      genocide is over. The whole idea about prevention and “never again” is that, as
+      we teach our students, there are red flags that once we notice them, right, we’re
+      supposed to work in order to stop a process that could escalate to genocide, even
+      if it’s not genocidal yet, right? For example, crude dehumanization of people
+      like calling all of them human animals or Nazis, for instance, right? So there
+      was a minority of Holocaust scholars who took that position, who wrote about it,
+      spoke about it. Barry Trachtenberg, for example, was very central in that. And
+      some others. But it’s a minority of Holocaust scholars. And I say crisis, right,
+      to answer your question, Chris, because this is a divide that we cannot bridge.
+      People, a large number of people who have mobilized themselves in order to rationalize
+      what is now seen by a growing number of people, a growing number of genocide scholars,
+      a growing number of international law experts, even some Israelis and Zionists
+      and their supporters are talking about the Gaza genocide, right? People who have,
+      from the beginning, put themselves in support of this genocide, right, they have
+      burned all their bridges, right? This is why we’re talking now about, it’s even
+      beyond a crisis, right? This is, it’s difficult, certainly, as long as Gaza genocide
+      continues to unfold. And I’m thinking about someone like Norman Goda, the Holocaust
+      historian Norman Goda, whose genocide denial is crude and unbelievable, right?
+      There is no hunger. The numbers, of course, of the Palestinian victims are inflated
+      in his view. And we know that the 62,000 Palestinians that Israel has murdered
+      so far in Gaza, we know that the real numbers are at least double, if not more,
+      actually. No, for Norman Goda, they’re inflated, which is a very, very classic
+      mechanism of Holocaust denial, the minimization of numbers. There is no hunger.
+      So we see Holocaust scholars today that legitimize Israeli genocide, that deny
+      it, and there is no coming back from that. There is no way to resolve that, at
+      least the way that I see it right now. And that’s why it’s even beyond a crisis,
+      right? In that sense, it is perhaps possible to speak in a way about the death
+      of Holocaust studies as a field. It’s quite interesting that while we might say
+      the death of Holocaust studies as a field, of course, Holocaust scholarship, the
+      last decade and even in the last years, we’ve seen amazing new kind of research
+      on the Holocaust that opens up new kind of perspectives and raises new kinds of
+      questions on Roma, on queer people, right? There’s so much interesting research
+      on the Holocaust, but Holocaust studies as a field might be dead, which is not
+      necessarily a bad thing, right? If indeed Holocaust studies is intertwined from
+      the beginning with the ideology of global Holocaust memory, maybe it’s good that
+      we won’t have Holocaust studies anymore. And maybe it will open the door for even
+      more interesting and important research on the Holocaust as history, as real history.
+      And we badly need this kind of work, this kind of work that will provide us the
+      basis for the kind of education and the kind of political work that we need to
+      do in the world around us today. Chris Hedges I mean, in Omer Bartov’s piece in
+      the New York Times, where he calls it out as genocide, he expresses the concern,
+      and of course he pays homage to someone like you, very early on denounced it as
+      a genocide, he worries that Holocaust studies will just become a sectarian field,
+      that it’ll kind of atrophy and feed as it has done, but feed in a kind of much
+      narrower way this segment of uniqueness and Zionism and not be studied broadly.
+      Raz Segal You know, what that means really, again, what we could call somewhat
+      dramatically the death of Holocaust studies. But think about it. People can continue
+      to study. People who are historians or sociologists or anthropologists or from
+      whatever discipline don’t need Holocaust studies to study the Holocaust, right.
+      And then of course, there’s the broader field of genocide studies, which is a
+      different issue. We don’t really have enough time to go into it and there’s a
+      crisis there as well, but a different kind. But in a way we’re facing a crisis
+      and the broader crisis in the academic world, really an unprecedented attack against
+      universities here in the U.S., but really everywhere around the world. So the
+      broader question is what kind of academic world will there be? What kind of journals,
+      academic presses, universities, academic programs? Maybe all that is going away
+      in any case, right? Which is the kind of framework for studying the Holocaust.
+      But the fact that there won’t be Holocaust studies, the fact that these people
+      like Norman Goda that I mentioned, Avinoam Patt, these people who have burned
+      their bridges, who cannot come back from legitimizing genocide, the fact that
+      that field will either die or will turn into, in a way, what it has always been,
+      a sectarian field that is meant to justify and rationalize the Israeli state project
+      and the nation-state system more broadly. That in itself will not mean that the
+      study of the Holocaust will die. Quite the contrary, as I said. Of course, the
+      larger problem of the academic world today and the attack that we’re facing is
+      there regardless. But again, the death of Holocaust studies, that’s not a bad
+      development. Chris Hedges Great. Thank you, Raz. I want to thank Sofia [Menemenlis],
+      Diego [Ramos], Thomas [Hedges], and Max [Jones], who produced the show. You can
+      find me at ChrisHedges.Substack.com . Chris Hedges Chris Hedges is a Pulitzer
+      Prize–winning journalist who was a foreign correspondent for fifteen years for
+      The New York Times, where he served as the Middle East Bureau Chief and Balkan
+      Bureau Chief for the paper. He previously worked overseas for The Dallas Morning
+      News , The Christian Science Monitor , and NPR. He is the host of show The Chris
+      Hedges Report. He was a member of the team that won the 2002 Pulitzer Prize for
+      Explanatory Reporting for The New York Times coverage of global terrorism, and
+      he received the 2002 Amnesty International Global Award for Human Rights Journalism.
+      Hedges, who holds a Master of Divinity from Harvard Divinity School, is the author
+      of the bestsellers American Fascists: The Christian Right and the War on America
+      , Empire of Illusion: The End of Literacy and the Triumph of Spectacle and was
+      a National Book Critics Circle finalist for his book War Is a Force That Gives
+      Us Meaning . He writes an online column for the website ScheerPost . He has taught
+      at Columbia University, New York University, Princeton University and the University
+      of Toronto. Author Site'
+    one_sentence_summary: In an interview with Chris Hedges, historian Raz Segal discusses
+      how the Holocaust has been weaponized by Zionists and the Israeli government to
+      promote a narrative that distorts historical realities, emphasizing a sense of
+      exceptionalism over genuine historical education.
+    paragraph_summary: In an interview on The Chris Hedges Report, Israeli historian
+      Raz Segal discusses the manipulation of Holocaust narratives by Zionists and the
+      Israeli government, particularly in the context of the ongoing genocide in Gaza.
+      He critiques the focus of Holocaust education in Israel, which he argues emphasizes
+      Jewish exceptionalism rather than a factual understanding of the Holocaust as
+      a historical event. Segal reflects on his own education, noting how the portrayal
+      of Jews as uniquely victimized has led to a distorted view of history that overlooks
+      the broader contexts of colonialism and genocide. He asserts that understanding
+      modern genocides requires acknowledging the historical patterns of nation-state
+      systems and colonial expansion, rather than viewing the Holocaust in isolation.
+    published: '2025-09-09T23:59:48+00:00'
+  - title: The Death of Holocaust Studies (w/ Raz Segal) | The Chris Hedges Report
+    url: https://scheerpost.com/2025/09/09/the-death-of-holocaust-studies-w-raz-segal-the-chris-hedges-report/
+    text: '/befoer By Chris Hedges / The Chris Hedges Report This interview is also
+      available on podcast platforms and Rumble . Raz Segal, an Israeli historian and
+      an associate professor of Holocaust and Genocide Studies at Stockton University,
+      analyzes how the weaponization and distortion of the Holocaust, in the midst of
+      the genocide in Gaza, has been used to serve the narrative of Zionists and the
+      Israeli government. He tells host Chris Hedges on this episode of The Chris Hedges
+      Report : “We know that Holocaust education eventually was more focused on transmitting
+      this feeling of exceptionality than actually teaching about Holocaust as history,
+      as real history, as normal history, as a part, indeed, of the making of the modern
+      and late modern world.” Segal recounts his personal experience learning about
+      the Holocaust in Israel, revealing a Zionist perspective that is both skewed and
+      contradictory. “Jews, because they were a unique people, always faced a unique
+      hatred, anti-Semitism, which then culminated in a unique genocide, really the
+      only genocide ever in human history, in this framework: the Holocaust,” he explains.
+      Though Segal outgrew this propagandized view, he explains that many in Israel
+      and its international supporters still frame Jews and the Holocaust as exceptional.
+      This belief in exceptionalism, Segal argues, blurs the history that led to the
+      Holocaust and the events that have followed. “We really can’t understand the phenomena
+      of modern genocide without understanding the nation-state system, the exclusionary
+      nation system and colonialism, European expansion around the world, settler colonialism
+      and colonial genocides that accompanied this expansion for hundreds of years,”
+      Segal contends. Please share this story and help us grow our network! Host Chris
+      Hedges Producer: Max Jones Intro: Diego Ramos Crew: Diego Ramos, Sofia Menemenlis
+      and Thomas Hedges Transcript: Diego Ramos Editor’s Note : A t a moment when the
+      once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Transcript Chris Hedges
+      The idea that the Holocaust is a unique event in human history serves the interests
+      of Zionists who use it to paint Jews as eternal victims and justify the apartheid
+      state of Israel and the genocide being carried out in Gaza. Unique suffering in
+      their eyes confers unique entitlement. But it also serves the interests of colonial
+      powers who carried out their own genocides, ones they seek to obscure and deny.
+      What was the annihilation of Native Americans by European settlers? The Armenians
+      by Turks, the Indians and the Bengal famine by the British? Or the Soviet orchestrated
+      famine in the Ukraine? What was the dropping of the atomic bombs on Hiroshima
+      and Nagasaki? Is manifest destiny any different from the Nazis’ concept of Lebensraum?
+      These too were holocausts fueled by the same dehumanization and bloodlust for
+      mass extermination. Nearly all Holocaust scholars who see in any criticism of
+      Israel a betrayal of the Holocaust have refused to condemn the genocide. Not one
+      of the institutions dedicated to researching and commemorating the Holocaust have
+      drawn the obvious historical parallels or decried the mass slaughter of Palestinians.
+      These scholars and institutions are rendering the slogan “never again” meaningless.
+      They are misappropriating the Holocaust to perpetuate a false view of the world
+      and human nature, a way not to explore the past but manipulate the present. This
+      decision to render the Holocaust an isolated event in human history, some grotesque
+      aberration of human depravity, robs it of its meaning and its universal importance.
+      This sacralization of the Holocaust allows Germany, which has been one of Israel’s
+      most important weapon suppliers since the state’s inception, to absolve itself
+      for its own past through its backing of the Israeli settler colonial state. Germany
+      uses this alliance with Israel to separate Nazism from the rest of German history,
+      including the genocide carried out by German colonists against the Nama and Herero
+      in German Southwest Africa, now Namibia. Such magic, the Israeli historian and
+      genocide scholar Raz Segal writes, legitimizes racism against the Palestinians
+      at the very moment that Israel perpetuates genocide against them. The idea of
+      Holocaust uniqueness thus reproduces rather than challenges the exclusionary nationalism
+      and settler colonialism that led to the Holocaust. Joining me to discuss the uses
+      and misuses of the Holocaust and what it means for Holocaust studies is Professor
+      Raz Segal, an associate professor of Holocaust and Genocide Studies at Stockton
+      University, where he also directs the Master of Arts in Holocaust and Genocide
+      Studies program. Professor Segal, because of his condemnation of the genocide
+      in Gaza, saw the offer to lead the Center for Holocaust and Genocide Studies at
+      the University of Minnesota revoked. Let’s begin with the lessons of the Holocaust
+      because for Zionists, and if you go to the Holocaust Museum in Washington, the
+      lesson of the Holocaust is the creation of a well-armed Jewish state. That’s not
+      the lesson for other writers of the Holocaust such as Primo Levi, but maybe you
+      can lay out what in your mind is the importance, and I think that, of course,
+      both of us fear that the misuses of the Holocaust diminishes its importance for
+      all of us who need to learn about the capacity for human evil. Raz Segal Yeah,
+      well, thank you so much, Chris, and for the invitation to speak with you today.
+      For me, the significance of the Holocaust, there’s a number of things to say,
+      but in a very basic way, I take the idea of “never again,” which is also in the
+      title of the UN Genocide Convention, which is the United Nations Convention on
+      the Prevention and Punishment of the Crime of Genocide. So genocide prevention.
+      And “never again,” I take that very seriously and I take that very seriously not
+      in the framework of Holocaust uniqueness, the exclusionary Israeli Zionist framework,
+      “never again for us”, which as you mentioned, really means reproduction of the
+      systems and processes of violence that led to the Holocaust, embodied in the state
+      of Israel. But for me, the framework is a universal framework. So that is indeed
+      about genocide prevention. So that’s in a very basic way the significance, for
+      me, of thinking about the Holocaust and certainly about thinking about the Holocaust,
+      as I said, not as an exceptional event, right, but as something that is very much
+      rooted in the broader context and really in the making of the late modern world.
+      And in that sense, I think about it as rooted in the nation-state system and colonialism.
+      I mean, there’s a reason that the Holocaust happened when it happened, where it
+      happened. That is in the middle of the 20th century in the heart of Europe. And
+      we can’t understand Nazism. We can’t understand the Holocaust. We really can’t
+      understand the phenomena of modern genocide without understanding the nation-state
+      system, the exclusionary nation system and colonialism, European expansion around
+      the world, settler colonialism and colonial genocides that accompanied this expansion
+      for hundreds of years. And in that sense, and here I come to another way in which
+      I see the significance of thinking about the Holocaust, after the defeat of Nazism,
+      after the Holocaust, after the end of World War II, there was no coming to terms
+      with the systems and processes of the nation state and colonialism that eventually
+      culminated, not in any deterministic way, but eventually culminated in the Holocaust.
+      Rather, the exclusionary nation state system and colonialism were actually reproduced
+      after World War II and most horribly they were actually reproduced and intersected
+      in the Israeli state project because Israel emerged, it’s a self-described nation-state
+      of Jews. It actually has a Basic Law, the Jewish nation-state Basic Law from 2018,
+      right? So it’s actually defined in an exclusionary way the Jewish state, but it’s
+      also from the very beginning and again very explicitly a settler colonial project.
+      So we have in the Israeli state project the intersection really of the systems
+      of the violent processes that were central to the targeting of Jews for a long
+      time before the Holocaust and then culminated in the Nazi genocide of Jews and
+      in the layers of genocidal violence during World War II, not only against Jews,
+      this was then, as I just explained, reproduced in the Israeli state project. And
+      for me, therefore, there’s another significance of studying the Holocaust that
+      is related to the project of taking seriously “never again” in its universalist
+      meaning and taking seriously the international law and the issue of genocide prevention
+      and that is really the struggle against Israeli mass violence well before, well,
+      well before October 2023 really, the Gaza genocide is a culmination of Israeli
+      settler colonial violence, the ongoing Nakba since 1948, and really Zionist settler
+      colonialism before 1948. So the struggle against Israeli mass violence, because
+      it’s actually so central, the Israeli state project in thinking about the Holocaust,
+      because it’s so central in weaponizing the Holocaust in the reproduction of the
+      causes that led us to the Holocaust, the struggle against Israeli mass violence,
+      the struggle for a different kind of state and society between the river and the
+      sea is for me a very important element that stems from thinking about the significance
+      of the Holocaust. So these are kind of the two related ways in which I think about
+      the significance of the Holocaust. Chris Hedges You’re Israeli. There’s a 1999
+      article by Ilan Pappé that talks about the way Israelis are indoctrinated. These
+      are his words. What was your own trajectory to kind of arrive to where you are,
+      especially having been born and raised in Israel? Raz Segal I don’t know about
+      the word indoctrinated, I have to say. Chris Hedges That’s his word. That’s his
+      word. Raz Segal Yeah, I understand. It might apply for… I mean, maybe it’s the
+      right word. Maybe it’s not. I think that people, not only Israeli Jews in that
+      sense, develop a sense of nationalism, right? And national attachments to places
+      in various ways. In many cases, it’s not through kind of outright indoctrination,
+      which doesn’t make it any, you know, any less strong. Quite the contrary, it makes
+      it actually even stronger. For me, growing up, look, this is the thing that is
+      very important, I think, to explain. And that’s why I said that I’m not sure about
+      indoctrination. The issue of uniqueness that you explained briefly in your introduction
+      was a common sense issue in the way that I saw the world and felt in the world
+      growing up as an Israeli Jew. What do I mean? That it was kind of, it was almost
+      the basis of how I viewed the world. So the Holocaust was unique, but the Holocaust
+      was unique was only part of thinking, and again, none of this was articulated
+      in a very sophisticated way. It was primarily felt. So Jews, of course, were a
+      unique people. And Jews, because they were a unique people, always faced a unique
+      hatred, anti-Semitism, which then culminated in a unique genocide, really the
+      only genocide ever in human history, right, in this framework, the Holocaust.
+      And because Jews and anti-Semitism and the Holocaust are unique, then of course,
+      the Israeli state, right, that is in this framework seen as a response to the
+      Holocaust, is also unique, right? So everything kind of flowed from this kind
+      of system of uniqueness of Jews, anti-Semitism, the Holocaust and Israel for me.
+      And therefore I grew up, you know, Nakba denial was nothing explicit, right? It
+      was just unimaginable to think about the Nakba, and certainly the ongoing Nakba,
+      right? Even though, again, Israel is a small place, Israel-Palestin. So it’s also
+      a very interesting case to think about how people imagine the world around them
+      even when reality contradicts it in very clear ways, right? But the issue of not
+      imagining the Nakba is actually rooted also In the international political and
+      legal system after the war and this is an important sidebar I think, you know,
+      zooming out here from my own experience right growing up in Israel to the international
+      political legal system because, again, the international legal system that emerged
+      after World War II, or re-emerged actually, right? I mean, international law has
+      a history well before World War II, it re-emerges after the war, and genocide
+      is its key innovation, the crime of genocide. But the crime of genocide emerges
+      in relation to what we call today the Holocaust. No one used the word at the time.
+      And because of this idea of uniqueness that played, that addressed various interests
+      of the victorious powers in World War II, the idea of uniqueness meant that immediately
+      what we have, right, is hierarchy, which is embodied then in the 90s much later
+      in the field in which I work, Holocaust and genocide studies, right, so Holocaust
+      and then genocide. But because, again, the Holocaust is unique, Nazism is unique,
+      and because Israel was immediately perceived of course as the state of the Holocaust
+      survivors, so again Israel is also unique, which means that from the very beginning
+      of the re-emergence of the international legal system, in relation to the new
+      crime of genocide, Israel assumes what really has become structural in the international
+      legal system — impunity, right? The idea that it’s a unique state, that it literally
+      becomes, again, back to this idea of not imagining, unimaginable that Israel could
+      perpetrate any crime under international law, let alone genocide, right? Now,
+      so what I’m saying is that there was an international context to basically… It’s
+      an absolute complete marginalization of Palestinians. Their history, their existence
+      as a people, denying the Palestinians existed as a people is a very common, was
+      a very common, still is a very common issue in Israeli politics and society, denying
+      the Nakba. And of course denying the the ongoing Nakba, the long history of Israeli
+      mass violence against Palestinians culminating today in the Gaza genocide. Now
+      in terms of my trajectory of emerging or moving away from this framework, it was
+      a very long process and there’s no time to get into it, but what matters here
+      is that it was a process that unfolded in parallel to my studies, my interest
+      in my academic studies about the Holocaust, right? And again, I came to it, of
+      course, imagining and thinking and feeling that the Holocaust is unique, that
+      Jewish history is unique. And what happened to me, particularly in my doctoral
+      studies stage and under the guidance of Dr. Debórah Dwork, who was the founding
+      director of the Strassler Center for Holocaust and Genocide Studies at Clark University,
+      where I did my PhD, and Debórah really guided me through this process of change.
+      And the process of change was really a process of learning, right, where I needed
+      to confront more and more evidence that and evidence I mean also in the archives,
+      when I went into the archives, when I was researching my dissertation that became
+      my book, Genocide in the Carpathians , the evidence more and more challenged and
+      undermined the ideas about uniqueness that I held about the Holocaust, in this
+      case the Holocaust in Hungary, about Jewish history actually in the Jews in the
+      Carpathian region. And in parallel to that, right, when this kind of system of
+      uniqueness, you know, when there are cracks that started to appear in it, almost
+      inevitably cracks started to appear in how I saw and felt and thought about Israel.
+      So it happened in parallel, but it was for me personally, it was a process of
+      many years of learning. And then I would say, you can also say of unlearning,
+      right? But it was less really a process of unlearning, it was more a process of
+      confronting the way that I felt about this place and the connection, the belonging
+      that I felt to the place and how the more I learned also about the place, again,
+      parallel to my research on the Holocaust, right, the more it became clear to me,
+      again, through a lot of resistance, that the image that I had was absolutely false,
+      actually. Chris Hedges Let’s talk about how Israel uses the Holocaust. IDF soldiers
+      will go to Auschwitz. The Yad Vashem Holocaust studies in the United States seem,
+      you know far better than I do, pretty much to have been captured by this Zionist
+      narrative. Talk about the uses of the Holocaust by Zionists and by Israel. Raz
+      Segal Yeah, I think this is quite well known, right? The way in which the Holocaust,
+      and I wouldn’t say, I think that the correct word is weaponized, right? The Holocaust
+      has been weaponized by Israel and by Zionists to obviously justify the Israeli
+      state project and rationalize and legitimize really anything that Israel did or
+      does. Again, in a very basic way, it’s rooted in this idea of uniqueness and in
+      this sense of impunity, right, that Israel can literally do no wrong. And the
+      Holocaust then serves as a key element in order to rationalize this, justify this,
+      legitimize this, reproduce this. But the important thing, there’s two things that
+      I think are less well understood about this. One is that the Holocaust is weaponized
+      to justify the entire nation-state system around the world. And when I say that,
+      what I mean is what we call global Holocaust memory, that is the institutional
+      phenomena of Holocaust memory that emerged in the 1990s with the fall of the Soviet
+      Union. And we were promised that it’s the end of history. You remember that Chris?
+      And global Holocaust memory, this kind of brave new world that was emerging. Global
+      Holocaust memory was a very important element in justifying, legitimizing, rationalizing
+      the Western-dominated nation-state system. And there’s an obvious issue here that
+      global Holocaust memory is an institutional phenomenon. What I mean is the key
+      institutes of this memory culture that are also overlapping with the academic
+      field of Holocaust and genocide studies that really took off at the time in 1990s,
+      right? So the United States Holocaust Memorial Museum in [Washington] D.C., Yad
+      Vashem in Israel that had existed, of course, since the 50s, but in the 90s also
+      became part of this global memory framework, the International Holocaust Remembrance
+      Alliance. So we have, it’s really institutional phenomena and it’s a state institutional
+      phenomenon, right? That’s the point. These are state institutes. And one of the
+      really interesting things here is that, it’s obvious that state institutes, whatever
+      they are, whatever they do, right, their goal, their interest is the interest
+      of the state, not the interest of the people targeted by states, right? That should
+      be the “never again” genocide prevention framework. The people, the era of the
+      witness, the voices of Holocaust survivors, right? That should be the focus of
+      Holocaust memory. It isn’t. It never was. Global Holocaust memory by design is
+      a state project, right? So one of the things to understand is that it’s not only
+      used by Israel and by Zionists, right? It has a global, indeed, context here that
+      is meant to legitimize the reproduction of the nation-state system after the Holocaust,
+      not to confront it. And of course, we can’t understand the Holocaust at all without
+      the nation-state system, the exclusionary nation-state system. Without it, we
+      can’t understand what happened to Jews in Hungary, in Romania, in France, indeed
+      in Germany, right? So that’s one broader context to consider. But there’s another
+      broader context here to consider that I think is far less well known and understood
+      is that in Israel specifically, the Holocaust has always also been a major problem,
+      not just an opportunity, but a major problem. And why was it a major problem?
+      Because the Israeli state, right, was based on this idea of the return of Jews
+      to their native homeland, ancient people returning to their ancient homeland.
+      The Holocaust, on the other hand, suggested a completely different kind of foundational
+      story actually, from Holocaust to redemption. So it wasn’t about antiquity, it
+      wasn’t about an ancient people. It was actually about a people that had lived
+      for hundreds of years in places that were actually their homelands, right? And
+      then were attacked and the survivors, you know, arrive to this settler colonial
+      project, regardless of how they themselves, of course, many survivors did not
+      understand and did not know and did not want to in that sense partake in a settler
+      colonial project. But the Holocaust provided a very different foundational story,
+      right? And this is a foundational story that’s not only about, it’s very strong
+      in the religious Zionist framework, right? But it’s not only about religious Zionism.
+      It’s also about secular liberal Zionism. It’s very much a framework that [David]
+      Ben-Gurion had, right, first Israeli prime minister. So the Holocaust from the
+      beginning actually created all kinds of problems in Israeli politics and societies.
+      It’s not by accident that Ben-Gurion, for example, refused, as is well known,
+      to talk about the Holocaust, right? And, I don’t remember exactly the formulation,
+      but he once had an outburst and he said, what is there to talk about? They died
+      and that’s it, right? So from the very beginning, there was a kind of urge actually,
+      yeah, an urge I would say, to disavow the Holocaust actually, right? So there
+      was a tension there. On the one hand, there was this framework of exceptionality,
+      of uniqueness, right, that was very important. But on the other hand, there was
+      the Holocaust that created a problem. And this became very, very pronounced, of
+      course, in the post-1967 religious Zionist settler movement, because again, there
+      we have the contradiction is very clear, Zionism is about the return of ancient
+      people to their homeland, and the Holocaust is a different kind of story. And
+      there’s a lot more to elaborate about this, but one last thing to say related
+      to this is that what happens then, of course, with the rise of global Holocaust
+      memory and with Holocaust education and with the proliferation of academic programs
+      around the about the Holocaust and then Holocaust and genocide studies and of
+      a lot of film and art and culture around this is that one of the things that happens,
+      of course, is that people start to develop thinking about the Holocaust that is
+      very contrary to the ideology of global Holocaust memory. And in particular, people
+      start to understand that there are big problems with, for instance, Israeli state
+      violence against Palestinians. For instance, with decades of Israeli occupation
+      that are a crude violation of international law. And wait a minute, isn’t international
+      law a Holocaust lesson? The Nuremberg trials, right? Isn’t the International Criminal
+      Court and the International Court of Justice, are these institutes not also somehow
+      related to thinking about the “lessons” of the Holocaust? So there develops these
+      ideas and then develops, of course, particularly in the frame of critical genocide
+      studies, what’s called the colonial turn in genocide studies in the last 25 years
+      or so, as thinking about colonialism and genocide and settler colonialism and
+      genocide and people, of course, started to see and make the connections with the
+      Israeli state project and Israeli settler colonialism, which, of course, creates
+      more of a problem, right, for the Israeli state and feeds into this urge also
+      to disavow the Holocaust. The end result of this, there’s two things that happen.
+      One is that we know today, not only in Israel, but also in the U.S., in the U.K.,
+      which is the center of Holocaust education, what people actually know about the
+      Holocaust is very little, right? And so we actually, we know that Holocaust education
+      eventually was more focused on transmitting this feeling of exceptionality than
+      actually teaching about Holocaust as history, as real history, as normal history,
+      as a part, indeed, of the making of the modern and late modern world. So that’s
+      one thing, that is global Holocaust memory and disorganization is actually contrary
+      to really teaching and learning and understanding the Holocaust. But the other
+      thing, and this of course became very pronounced with the Gaza genocide, right,
+      is that we really see now a rise in, you know, it’s not, I think, a significant
+      rise still but we definitely see signs of Holocaust denial in ways that I don’t,
+      again, we’re seeing signs that, may or may not develop further because, indeed,
+      the Holocaust in the world of the Gaza genocide and in the world that the Gaza
+      genocide points to, we can talk more about this, right, is a big problem. Because
+      if we think about the Gaza genocidism as really Israel and its allies are also
+      using the Gaza genocide as a model for the world to come. This is what will happen
+      to people who dare to resist any kind of measures imposed on them by extremely
+      violent states. Then this is a world of no international law. This is a world
+      not of “never again”, but of again and again. Of course, no genocide prevention
+      and of course, no need for Holocaust education of any sort at this point, right,
+      for anything, right? So in this framework, of course, Holocaust denial, this is
+      a very welcoming framework for Holocaust denial, right? Chris Hedges Let me ask
+      about that because you used the word crisis in Holocaust studies. I think, having
+      spent two decades covering war, the literature of the Holocaust has been extremely
+      important to my own understanding of our own capacity for evil atrocity, the understanding
+      that the line between the victim and the victimizer is always razor thin. This
+      is why I admire Primo Levi so much. But talk about that crisis. I mean, I think
+      that it is extremely important that we study the Holocaust. Why do you use the
+      word crisis? What’s happening? Raz Segal I mean, the crisis is again twofold.
+      As you mentioned in your introduction, Chris, the institutes of global Holocaust
+      memory, you know, unsurprisingly at all, all stood behind Israel’s attack on Gaza,
+      actually participated in a crude weaponization of Holocaust history by depicting
+      Palestinians as Nazis, by framing the Hamas attack on Israel on the 7th of October
+      as a continuation actually of the Holocaust. That is taking part in this genocide
+      legitimization basically, legitimization of the Gaza genocide. So we see this
+      across, we see this at the USHMM [United States Holocaust Memorial Museum], we
+      see this at the Yad Vashem of course, the Israeli State Institute. We see this
+      in the Shoah Foundation in LA [Los Angeles], in the International Holocaust Remembrance
+      Alliance across the board, of course, these institutes did what they are designed
+      to do, right? Support the state and of course support the Israeli state. On the
+      academic level, and of course there’s overlap, right? There’s a lot of overlap.
+      Of course the USHMM has a research arm that also provides scholarships for students
+      and scholars, right? So there’s a lot of overlap between the institutes of global
+      Holocaust remembrance and the academic world. In the academic world we’ve seen
+      a massive divide immediately after October 7. A lot, I would say, in Holocaust
+      studies, if we’re just thinking about Holocaust studies here, not the broader
+      Holocaust and genocide studies, the large majority of Holocaust scholars took
+      the position of the institutes of global Holocaust memory. There was an open letter
+      statement in November 2023 of about 150 Holocaust scholars, including some very
+      prominent names, Jan Grabowski, Saul Friedländer, others, who again, you know,
+      there’s not only genocide, of course, does not appear in the statement, no crime.
+      Israel, again, can literally do no wrong. And what’s happening according to that
+      statement in November 2023 of Holocaust scholars is really a continuation of the
+      Holocaust, of anti-Semitism. So this is of, again, participation, crude weaponization
+      of Holocaust history to justify the Gaza genocide. Again, there’s other examples,
+      some Holocaust scholars wrote some op-eds that again for example reproduced Israeli
+      atrocity propaganda, for example, about the 40 beheaded babies on October 7th,
+      that never happened. And there was a piece in a Haaretz also in November 2023
+      by five Holocaust scholars including the Israeli Dina Porat, including the American
+      Avinoam Patt and others who reproduced the beheaded babies Israeli atrocity propaganda
+      that is, again, fuel for the Gaza genocide even though by the time that they were
+      writing, by the way, it was already clear to everyone that it had never happened,
+      right, the 40 beheaded babies. They still reproduced it in their piece. So the
+      dean of Holocaust studies, Israeli professor Yehuda Bauer, who was still alive
+      at the time, also in November 2023, wrote a piece in the Times of Israel that
+      described Hamas and Israel as living in two different worlds, right? Hamas, a
+      world of barbarism, and Israel, a world of civilization so a very clear settler
+      colonial racist framework, right? Again, fodder to the genocide. So we had a lot
+      of that and the large majority of Holocaust scholars in the U.S., certainly in
+      Germany, where, as you mentioned in your introduction, support for Israel is a
+      religious element, right, in the reason of the German state. And then we had a
+      minority of Holocaust scholars including myself, you know, we could think of other
+      well-known scholars like Omer Bartov, of course, and others who immediately from
+      the beginning spoke out about not necessarily the crime of genocide, as is well
+      known, it took Omer Bartov until May 2024 to say that he recognized the crime
+      of genocide. Chris Hedges Wasn’t it 2025? Wasn’t it this year? Bartov? Raz Segal
+      No, Bartov in May 2024, with Israel’s invasion of Rafah, he argues that he recognized
+      the crime of genocide. Again, there’s contradictions in the way that he framed
+      his position in the last year, right, in relation to those early months of Israel’s
+      attack on Gaza. But he definitely talked about Israeli crimes, very, very clear
+      war crimes, crimes against humanities, about the danger of genocide. And this
+      is the key issue, right, with the crime of genocide, if we really take prevention
+      seriously, genocide is not a crime that you are supposed to identify once the
+      genocide is over. The whole idea about prevention and “never again” is that, as
+      we teach our students, there are red flags that once we notice them, right, we’re
+      supposed to work in order to stop a process that could escalate to genocide, even
+      if it’s not genocidal yet, right? For example, crude dehumanization of people
+      like calling all of them human animals or Nazis, for instance, right? So there
+      was a minority of Holocaust scholars who took that position, who wrote about it,
+      spoke about it. Barry Trachtenberg, for example, was very central in that. And
+      some others. But it’s a minority of Holocaust scholars. And I say crisis, right,
+      to answer your question, Chris, because this is a divide that we cannot bridge.
+      People, a large number of people who have mobilized themselves in order to rationalize
+      what is now seen by a growing number of people, a growing number of genocide scholars,
+      a growing number of international law experts, even some Israelis and Zionists
+      and their supporters are talking about the Gaza genocide, right? People who have,
+      from the beginning, put themselves in support of this genocide, right, they have
+      burned all their bridges, right? This is why we’re talking now about, it’s even
+      beyond a crisis, right? This is, it’s difficult, certainly, as long as Gaza genocide
+      continues to unfold. And I’m thinking about someone like Norman Goda, the Holocaust
+      historian Norman Goda, whose genocide denial is crude and unbelievable, right?
+      There is no hunger. The numbers, of course, of the Palestinian victims are inflated
+      in his view. And we know that the 62,000 Palestinians that Israel has murdered
+      so far in Gaza, we know that the real numbers are at least double, if not more,
+      actually. No, for Norman Goda, they’re inflated, which is a very, very classic
+      mechanism of Holocaust denial, the minimization of numbers. There is no hunger.
+      So we see Holocaust scholars today that legitimize Israeli genocide, that deny
+      it, and there is no coming back from that. There is no way to resolve that, at
+      least the way that I see it right now. And that’s why it’s even beyond a crisis,
+      right? In that sense, it is perhaps possible to speak in a way about the death
+      of Holocaust studies as a field. It’s quite interesting that while we might say
+      the death of Holocaust studies as a field, of course, Holocaust scholarship, the
+      last decade and even in the last years, we’ve seen amazing new kind of research
+      on the Holocaust that opens up new kind of perspectives and raises new kinds of
+      questions on Roma, on queer people, right? There’s so much interesting research
+      on the Holocaust, but Holocaust studies as a field might be dead, which is not
+      necessarily a bad thing, right? If indeed Holocaust studies is intertwined from
+      the beginning with the ideology of global Holocaust memory, maybe it’s good that
+      we won’t have Holocaust studies anymore. And maybe it will open the door for even
+      more interesting and important research on the Holocaust as history, as real history.
+      And we badly need this kind of work, this kind of work that will provide us the
+      basis for the kind of education and the kind of political work that we need to
+      do in the world around us today. Chris Hedges I mean, in Omer Bartov’s piece in
+      the New York Times, where he calls it out as genocide, he expresses the concern,
+      and of course he pays homage to someone like you, very early on denounced it as
+      a genocide, he worries that Holocaust studies will just become a sectarian field,
+      that it’ll kind of atrophy and feed as it has done, but feed in a kind of much
+      narrower way this segment of uniqueness and Zionism and not be studied broadly.
+      Raz Segal You know, what that means really, again, what we could call somewhat
+      dramatically the death of Holocaust studies. But think about it. People can continue
+      to study. People who are historians or sociologists or anthropologists or from
+      whatever discipline don’t need Holocaust studies to study the Holocaust, right.
+      And then of course, there’s the broader field of genocide studies, which is a
+      different issue. We don’t really have enough time to go into it and there’s a
+      crisis there as well, but a different kind. But in a way we’re facing a crisis
+      and the broader crisis in the academic world, really an unprecedented attack against
+      universities here in the U.S., but really everywhere around the world. So the
+      broader question is what kind of academic world will there be? What kind of journals,
+      academic presses, universities, academic programs? Maybe all that is going away
+      in any case, right? Which is the kind of framework for studying the Holocaust.
+      But the fact that there won’t be Holocaust studies, the fact that these people
+      like Norman Goda that I mentioned, Avinoam Patt, these people who have burned
+      their bridges, who cannot come back from legitimizing genocide, the fact that
+      that field will either die or will turn into, in a way, what it has always been,
+      a sectarian field that is meant to justify and rationalize the Israeli state project
+      and the nation-state system more broadly. That in itself will not mean that the
+      study of the Holocaust will die. Quite the contrary, as I said. Of course, the
+      larger problem of the academic world today and the attack that we’re facing is
+      there regardless. But again, the death of Holocaust studies, that’s not a bad
+      development. Chris Hedges Great. Thank you, Raz. I want to thank Sofia [Menemenlis],
+      Diego [Ramos], Thomas [Hedges], and Max [Jones], who produced the show. You can
+      find me at ChrisHedges.Substack.com . Chris Hedges Chris Hedges is a Pulitzer
+      Prize–winning journalist who was a foreign correspondent for fifteen years for
+      The New York Times, where he served as the Middle East Bureau Chief and Balkan
+      Bureau Chief for the paper. He previously worked overseas for The Dallas Morning
+      News , The Christian Science Monitor , and NPR. He is the host of show The Chris
+      Hedges Report. He was a member of the team that won the 2002 Pulitzer Prize for
+      Explanatory Reporting for The New York Times coverage of global terrorism, and
+      he received the 2002 Amnesty International Global Award for Human Rights Journalism.
+      Hedges, who holds a Master of Divinity from Harvard Divinity School, is the author
+      of the bestsellers American Fascists: The Christian Right and the War on America
+      , Empire of Illusion: The End of Literacy and the Triumph of Spectacle and was
+      a National Book Critics Circle finalist for his book War Is a Force That Gives
+      Us Meaning . He writes an online column for the website ScheerPost . He has taught
+      at Columbia University, New York University, Princeton University and the University
+      of Toronto. Author Site'
+    one_sentence_summary: In an interview with Chris Hedges, historian Raz Segal discusses
+      how the Holocaust has been weaponized by Zionists and the Israeli government to
+      promote a narrative that distorts historical realities, emphasizing a sense of
+      exceptionalism over genuine historical education.
+    paragraph_summary: In an interview on The Chris Hedges Report, Israeli historian
+      Raz Segal discusses the manipulation of Holocaust narratives by Zionists and the
+      Israeli government, particularly in the context of the ongoing genocide in Gaza.
+      He critiques the focus of Holocaust education in Israel, which he argues emphasizes
+      Jewish exceptionalism rather than a factual understanding of the Holocaust as
+      a historical event. Segal reflects on his own education, noting how the portrayal
+      of Jews as uniquely victimized has led to a distorted view of history that overlooks
+      the broader contexts of colonialism and genocide. He asserts that understanding
+      modern genocides requires acknowledging the historical patterns of nation-state
+      systems and colonial expansion, rather than viewing the Holocaust in isolation.
+    published: '2025-09-09T23:59:48+00:00'
+  - title: 'US War Department To Shift Focus From China to ‘Threats’ in Latin America:
+      Report'
+    url: https://scheerpost.com/2025/09/09/us-war-department-to-shift-focus-from-china-to-threats-in-latin-america-report/
+    text: 'Screenshot from Pete Hegseth X account. In one of the scariest moments in
+      modern history, we''re doing our best at ScheerPost to pierce the fog of lies
+      that conceal it but we need some help to pay our writers and staff. Please consider
+      a tax-deductible donation . By The Cradle US War Department officials are proposing
+      to shift the US military posture away from a focus on China, instead prioritizing
+      alleged threats in Latin America and the Caribbean, Politico reported on 6 September.
+      A draft of the newest National Defense Strategy places “domestic and regional
+      missions above countering adversaries such as Beijing and Moscow,” Politico revealed,
+      citing three people briefed on early versions of the report. The news comes one
+      day after Trump signed an executive order for the Department of Defense to be
+      renamed the “War Department” to better reflect its mission. Politico notes that
+      the move, if implemented, would anger politicians in both the Republican and Democratic
+      parties who have long been hostile to China and called for aggressive policies
+      to counter its rise. “This is going to be a major shift for the U.S. and its allies
+      on multiple continents,” said one person briefed on the draft document. “The old,
+      trusted US promises are being questioned.” The document was prepared by Elbridge
+      Colby, the War Department’s policy chief. Politico reports that the shift away
+      from China and toward the Western Hemisphere appears to be already underway. The
+      War Department deployed thousands of National Guard troops to support police in
+      Los Angeles and Washington, DC, and has established a militarized zone across
+      the southern border with Mexico that allows troops to detain civilians. The policy
+      shift may also result in the US withdrawing some troops from Europe and cutting
+      military assistance programs for fellow NATO members. “NATO allies increasingly
+      expect some of the roughly 80,000 U.S. troops in Europe to leave over the next
+      several years,” Politico added. The proposed policy shift comes amid escalating
+      tensions between the US and Venezuela. On 2 September, Trump authorized the US
+      air force to strike a vessel in the southern Caribbean, killing 11 people it claimed
+      were “narcoterrorists” from a Venezuelan gang, Tren de Aragua. Trump also authorized
+      the US military to shoot down Venezuelan warplanes if commanders judge them a
+      threat to US naval and air forces in the Caribbean. “If they do put us in a dangerous
+      position, we’ll shoot them down,” Trump told reporters Friday. Washington sent
+      eight warships, a submarine, and F-35 warplanes to the region, claiming that Venezuela
+      is responsible for a flood of drugs entering the US. “Billions of dollars of drugs
+      are pouring into our country from Venezuela. The prisons of Venezuela have been
+      opened up to our country,” Trump claimed. In contrast, Venezuelan President Nicolas
+      Maduro says Trump is seeking to overthrow his government and that his armed forces
+      would move to a stage of “armed struggle” if Venezuela were attacked. The US has
+      carried out multiple coup attempts in Venezuela in recent decades, while imposing
+      sweeping sanctions on Venezuela’s oil sector and financial system. Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . The Cradle The
+      Cradle is an online news magazine covering West Asian geopolitics from within.
+      Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: US military officials are proposing a shift in focus from
+      countering China and Russia to addressing perceived threats in Latin America and
+      the Caribbean, as outlined in a draft of the new National Defense Strategy, coinciding
+      with Trump's executive order to rename the Department of Defense to the "War Department."
+    paragraph_summary: The U.S. War Department is reportedly planning to shift its military
+      focus from countering China and Russia to addressing perceived threats in Latin
+      America and the Caribbean, according to a draft of the new National Defense Strategy
+      obtained by Politico. This change, which comes shortly after Trump signed an executive
+      order to rename the Department of Defense to the War Department, could provoke
+      backlash from both Republican and Democratic politicians who have historically
+      supported a strong stance against China. The draft, prepared by policy chief Elbridge
+      Colby, indicates a significant realignment in U.S. military priorities, including
+      the potential withdrawal of troops from Europe and reduced military aid to NATO
+      allies. Additionally, the War Department has already begun deploying National
+      Guard troops to assist police in U.S. cities and has established a militarized
+      zone at the southern border.
+    published: '2025-09-09T09:30:00+00:00'
+  - title: 'US War Department To Shift Focus From China to ‘Threats’ in Latin America:
+      Report'
+    url: https://scheerpost.com/2025/09/09/us-war-department-to-shift-focus-from-china-to-threats-in-latin-america-report/
+    text: 'Screenshot from Pete Hegseth X account. In one of the scariest moments in
+      modern history, we''re doing our best at ScheerPost to pierce the fog of lies
+      that conceal it but we need some help to pay our writers and staff. Please consider
+      a tax-deductible donation . By The Cradle US War Department officials are proposing
+      to shift the US military posture away from a focus on China, instead prioritizing
+      alleged threats in Latin America and the Caribbean, Politico reported on 6 September.
+      A draft of the newest National Defense Strategy places “domestic and regional
+      missions above countering adversaries such as Beijing and Moscow,” Politico revealed,
+      citing three people briefed on early versions of the report. The news comes one
+      day after Trump signed an executive order for the Department of Defense to be
+      renamed the “War Department” to better reflect its mission. Politico notes that
+      the move, if implemented, would anger politicians in both the Republican and Democratic
+      parties who have long been hostile to China and called for aggressive policies
+      to counter its rise. “This is going to be a major shift for the U.S. and its allies
+      on multiple continents,” said one person briefed on the draft document. “The old,
+      trusted US promises are being questioned.” The document was prepared by Elbridge
+      Colby, the War Department’s policy chief. Politico reports that the shift away
+      from China and toward the Western Hemisphere appears to be already underway. The
+      War Department deployed thousands of National Guard troops to support police in
+      Los Angeles and Washington, DC, and has established a militarized zone across
+      the southern border with Mexico that allows troops to detain civilians. The policy
+      shift may also result in the US withdrawing some troops from Europe and cutting
+      military assistance programs for fellow NATO members. “NATO allies increasingly
+      expect some of the roughly 80,000 U.S. troops in Europe to leave over the next
+      several years,” Politico added. The proposed policy shift comes amid escalating
+      tensions between the US and Venezuela. On 2 September, Trump authorized the US
+      air force to strike a vessel in the southern Caribbean, killing 11 people it claimed
+      were “narcoterrorists” from a Venezuelan gang, Tren de Aragua. Trump also authorized
+      the US military to shoot down Venezuelan warplanes if commanders judge them a
+      threat to US naval and air forces in the Caribbean. “If they do put us in a dangerous
+      position, we’ll shoot them down,” Trump told reporters Friday. Washington sent
+      eight warships, a submarine, and F-35 warplanes to the region, claiming that Venezuela
+      is responsible for a flood of drugs entering the US. “Billions of dollars of drugs
+      are pouring into our country from Venezuela. The prisons of Venezuela have been
+      opened up to our country,” Trump claimed. In contrast, Venezuelan President Nicolas
+      Maduro says Trump is seeking to overthrow his government and that his armed forces
+      would move to a stage of “armed struggle” if Venezuela were attacked. The US has
+      carried out multiple coup attempts in Venezuela in recent decades, while imposing
+      sweeping sanctions on Venezuela’s oil sector and financial system. Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . The Cradle The
+      Cradle is an online news magazine covering West Asian geopolitics from within.
+      Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: US military officials are proposing a shift in focus from
+      countering China and Russia to addressing perceived threats in Latin America and
+      the Caribbean, as outlined in a draft of the new National Defense Strategy, coinciding
+      with Trump's executive order to rename the Department of Defense to the "War Department."
+    paragraph_summary: The U.S. War Department is reportedly planning to shift its military
+      focus from countering China and Russia to addressing perceived threats in Latin
+      America and the Caribbean, according to a draft of the new National Defense Strategy
+      obtained by Politico. This change, which comes shortly after Trump signed an executive
+      order to rename the Department of Defense to the War Department, could provoke
+      backlash from both Republican and Democratic politicians who have historically
+      supported a strong stance against China. The draft, prepared by policy chief Elbridge
+      Colby, indicates a significant realignment in U.S. military priorities, including
+      the potential withdrawal of troops from Europe and reduced military aid to NATO
+      allies. Additionally, the War Department has already begun deploying National
+      Guard troops to assist police in U.S. cities and has established a militarized
+      zone at the southern border.
+    published: '2025-09-09T09:30:00+00:00'
+  - title: 'ICE Conducts Largest-Ever Raid at Georgia Hyundai Plant: 475 Arrested, Mostly
+      Korean'
+    url: https://scheerpost.com/2025/09/09/ice-conducts-largest-ever-raid-at-georgia-hyundai-plant-475-arrested-mostly-korean/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By DemocracyNow!
+      We get an update on the largest-ever single-site immigration raid in U.S. history
+      that unfolded Thursday when federal agents arrested nearly 500 workers at a Hyundai
+      facility in Georgia. Most workers were Korean nationals who were building an electric
+      vehicle battery plant. Hyundai is investing over $12 billion in a record-setting
+      economic development deal with the state, and the South Korean government recently
+      agreed to invest hundreds of billions more in the U.S. in exchange for lower tariffs.
+      The two countries’ relationship is now uncertain, as South Korean politicians
+      lambasted the raid and sent a charter plane to repatriate the Korean workers who
+      are being detained at a GEO Group-run Georgia ICE jail that ICE recently found
+      in violation of federal safety standards. None of the detained workers have been
+      charged; many reportedly hold valid U.S. work permits. “The circumstances of the
+      raid were just absolutely abusive, not only in their scope and just the sheer
+      size of it, but the way that the folks at the Hyundai plant were treated by law
+      enforcement,” says Meredyth Yoon of the Atlanta chapter of the civil rights organization
+      Asian Americans Advancing Justice. Witnesses describe heavily armed federal agents
+      who threatened and even tear-gassed workers. “It is disturbing to see hundreds
+      of people arrested, shackled at their waist and ankles, and loaded into buses
+      and taken to an abusive detention center.” Transcript This is a rush transcript.
+      Copy may not be in its final form. AMY GOODMAN: We begin today’s show with President
+      Trump’s growing nationwide immigration crackdown as agents arrested dozens in
+      and around Boston this weekend and Trump’s threatening more actions in Chicago
+      and other so-called sanctuary cities this week. But in Georgia last Thursday,
+      federal officials say they carried out the single-largest single-site immigration
+      enforcement action in history when they conducted an immigration raid on the construction
+      site of a new electric vehicle battery plant. The facility is a joint venture
+      by Hyundai Motor Group and LG Energy Solutions. Some 300 of the 475 arrested are
+      Korean. This is DHS Secretary Tom Homan on CNN. DHS SECRETARY TOM HOMAN: We’re
+      going to do more worksite enforcement operations, because, number one, it’s a
+      crime to enter this country illegally; number two, it’s a crime to knowingly hire
+      an illegal alien. And these companies that hire illegal aliens, they undercut
+      their competition that’s paying U.S. citizen salaries. Look, no one hires an illegal
+      alien on the goodness of their heart. They hire them because they can work them
+      harder, pay them less, undercut the competition that hires U.S. citizen employees.
+      They drive wages down. AMY GOODMAN: Over 500 federal, state and local officials
+      participated in the raid. The agencies involved included not just ICE and Border
+      Patrol, but also the Department of Labor’s Office of Inspector General, the FBI,
+      the Drug Enforcement Agency, the Bureau of Alcohol, Tobacco and Firearms and Explosives,
+      the IRS and the Georgia State Patrol. The construction site that was raided is
+      in Ellabell, Georgia, near Savannah, is part of Hyundai’s massive 3,000-acre Metaplant
+      campus. State officials say the $12.6 billion project is the largest economic
+      development deal in Georgia’s history. Hyundai also has a factory in Alabama and
+      plans to invest $5 billion in a steel plant in Louisiana. This comes as South
+      Korea’s President Lee Jae-myung promised at least $50 billion of investments during
+      his recent meeting with President Trump. The South Korean government is now sending
+      a charter plane to pick up the hundreds of Korean workers after they negotiated
+      their release. This is Kang Hun-sik, chief of staff to the president of South
+      Korea. KANG HUN-SIK: [translated] As a result of swift and united efforts by government
+      ministries, business groups and companies, talks with the United States for the
+      release of the detained workers have been concluded. But what remains now are
+      only administrative procedures. And once those are completed, a chartered plane
+      will depart to bring our people home. … To prevent a similar incident in the future,
+      we will work with the Ministry of Trade, Industry and Energy and related companies
+      to review and improve the residency status and visa systems for travelers on U.S.-related
+      projects. AMY GOODMAN: For more, we go to Savannah, Georgia, where we’re joined
+      by Meredyth Yoon, litigation director for Asian Americans Advancing Justice-Atlanta.
+      Yoon is a daughter and granddaughter of Korean immigrants. Welcome to Democracy
+      Now! , Meredyth. It’s great to have you with us. If you can explain just what
+      unfolded last Thursday? MEREDYTH YOON: Thanks so much, Amy. So, the raid at the
+      Hyundai mega-site began around 9:00 or 10:00 in the morning last Thursday and
+      lasted the entire day, into the evening as late as 6:30 p.m. Approximately 475
+      people were detained, filling at least seven buses. The nationalities of those
+      detained were mostly from South Korea, but individuals from Guatemala, Colombia,
+      Chile, Mexico, Ecuador and Venezuela also were detained. There are reports that
+      some U.S. citizens, mostly younger workers, initially were subjected to investigatory
+      detention. Some of them were released, and many of those detained had valid work
+      permits. So far, everyone who the folks on the ground have been tracking has some
+      kind of documentation. AMY GOODMAN: Any kind of indication that this was about
+      to go down? I mean, this is historic, the largest single-site raid in the agency’s
+      history. MEREDYTH YOON: That’s right. And from what we’re hearing, the circumstances
+      of the raid were just absolutely abusive, not only in their scope and just the
+      sheer size of it, but the way that those — the folks at the Hyundai plant were
+      treated by law enforcement. Phones were taken from workers. People were pressured
+      to sign papers. There are reports that tear gas was used and that agents on site
+      were heavily armed. There were helicopters, drones, ATV and other military-style
+      vehicles that were there at the site. And from what we heard, ICE was blocking
+      the exits from the facility, threatening force if workers did not surrender. AMY GOODMAN:
+      So, can you, then, talk about what happened to the detained employees, where were
+      they sent, and the timing of this, after the deals the U.S. is making with South
+      Korea? MEREDYTH YOON: The majority of the workers who were detained on Thursday
+      were taken to the Folkston ICE Processing Center, which is an ICE detention center
+      in south Georgia near the Florida line. It has been operating as an ICE detention
+      center since approximately — well, since 2017, but has existed as some sort of
+      correctional facility since 1998. The facility has had repeated, repeated reports
+      of abusive conditions, including medical neglect, lack of information about people’s
+      cases, as well as horrible conditions at the facility itself. In 2022, the Department
+      of Homeland Security’s Office of the Inspector General did an investigation of
+      the facility and found multiple deficiencies and that the human rights of those
+      being detained there were being violated. Those conditions continue into current
+      times as to what people are facing. With respect to the timing of this enforcement
+      action, it’s incredibly — it’s just incredibly concerning to see, as people like
+      Governor Kemp are trying to, you know, supposedly reach out to South Korean companies
+      to develop the economy in south Georgia, that that has been a big part of what’s
+      been publicly discussed. And then you see federal law enforcement, in conjunction
+      with state law enforcement, including the Department of Public Safety and the
+      Georgia State Patrol, participating together in this — in this investigation is
+      just incredibly concerning. AMY GOODMAN: We played a clip of the border czar,
+      Tom Homan, talking about going after these workers because they’re taking Americans’
+      jobs. He continually refers to “illegal aliens.” He talks about taking rapists
+      and the worst murderers off the street. And he also talked about how it’s illegal
+      to employ what he calls “illegal aliens.” Were the owners of the plant, were those
+      who were involved in this — in this company, both Korean and American, arrested?
+      MEREDYTH YOON: So far, we have not heard any reports that there have been any
+      arrests or criminal arrests that have been executed as a result of this raid.
+      What we have heard is that everyone who has been, you know, civilly arrested by ICE has
+      some sort of documentation, including valid work permits. We’ve heard reports
+      of people who actually have pending asylum applications, as well as work permits,
+      being arrested. So it’s unclear why those individuals were detained. AMY GOODMAN:
+      It’s interesting. A headline out this weekend, Trump is quietly preparing to travel
+      next month to South Korea, where he could sit down with China’s leader, he and
+      his top advisers quietly preparing to go there in October for the APEC summit,
+      the Asia-Pacific Economic Cooperation summit. The significance of this, in preparation,
+      and what it means for any company who Trump is trying to lure to the United States
+      to set up business? MEREDYTH YOON: It certainly is a disincentive to companies
+      that want to invest in the United States. When you see large raids like this,
+      that are clearly intended to get a lot of public attention and cause intimidation,
+      it seems at cross-purposes with the supposed goal toward economic development.
+      AMY GOODMAN: Meredyth Yoon, you are the daughter and granddaughter of Korean immigrants.
+      How has this affected the Korean community, with hundreds of people being detained
+      and apparently deported soon, at once? MEREDYTH YOON: The Korean community is
+      deeply concerned and disturbed by these reports. It is disturbing to see hundreds
+      of people arrested, shackled at their waist and ankles, and loaded into buses
+      and taken to an abusive detention center. So, the Korean community is very concerned
+      about the treatment of those who were arrested, as well as potential future raids
+      that could impact the community. AMY GOODMAN: Where do you head from here? Who
+      is appealing to you at Asian Americans Advancing Justice-Atlanta? Is the community
+      totally desperate at this point? And does this shut the plant down, having almost
+      500 people taken away? MEREDYTH YOON: We have received many requests for assistance
+      at my organization. Many local organizations that are on the ground providing
+      immediate support in the aftermath have, as you can imagine, received many requests
+      for help. There is a coordinated response, both — you know, who are supporting
+      everyone detained, not only individuals from South Korea, but others, as well,
+      with immediate needs after the raid — food, financial support, as well as assistance
+      with connecting with legal help. So, those efforts are well coordinated and ongoing.
+      And I’m sorry, the second part of your question? AMY GOODMAN: The second part
+      — well, we have to actually go, but I want to thank you very much for being with
+      us. You’re holding a news conference today? MEREDYTH YOON: Yes, we are, at 11:00.
+      AMY GOODMAN: Meredyth Yoon, litigation director for Asian Americans Advancing
+      Justice-Atlanta. Yoon is the daughter and granddaughter of Korean immigrants.
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . DemocracyNow! Democracy Now! produces a daily, global, independent
+      news hour hosted by award-winning journalists Amy Goodman and Juan González. Our
+      reporting includes breaking daily news headlines and in-depth interviews with
+      people on the front lines of the world’s most pressing issues. On Democracy Now!,
+      you’ll hear a diversity of voices speaking for themselves, providing a unique
+      and sometimes provocative perspective on global events. Author Site Please share
+      this story and help us grow our network!'
+    one_sentence_summary: The article discusses the largest single-site immigration
+      raid in U.S. history at a Hyundai facility in Georgia, where nearly 500 workers,
+      mostly Korean nationals, were arrested, prompting criticism from South Korean
+      politicians and raising concerns about the future of U.S.-South Korea relations
+      amidst significant economic investments.
+    paragraph_summary: The article discusses a significant immigration raid that took
+      place at a Hyundai facility in Georgia, where nearly 500 workers, primarily Korean
+      nationals involved in building an electric vehicle battery plant, were arrested
+      by federal agents. This raid, described as the largest single-site immigration
+      operation in U.S. history, has raised concerns about the treatment of the workers,
+      many of whom reportedly hold valid U.S. work permits and have not been charged
+      with any crimes. The South Korean government has reacted strongly, criticizing
+      the raid and sending a charter plane to repatriate the detained workers, while
+      the relationship between the U.S. and South Korea becomes increasingly uncertain
+      amid ongoing economic investments. Witnesses reported aggressive tactics by law
+      enforcement during the raid, including the use of tear gas and shackling of workers,
+      prompting civil rights advocates to condemn the operation as abusive.
+    published: '2025-09-09T09:25:00+00:00'
+  - title: 'ICE Conducts Largest-Ever Raid at Georgia Hyundai Plant: 475 Arrested, Mostly
+      Korean'
+    url: https://scheerpost.com/2025/09/09/ice-conducts-largest-ever-raid-at-georgia-hyundai-plant-475-arrested-mostly-korean/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By DemocracyNow!
+      We get an update on the largest-ever single-site immigration raid in U.S. history
+      that unfolded Thursday when federal agents arrested nearly 500 workers at a Hyundai
+      facility in Georgia. Most workers were Korean nationals who were building an electric
+      vehicle battery plant. Hyundai is investing over $12 billion in a record-setting
+      economic development deal with the state, and the South Korean government recently
+      agreed to invest hundreds of billions more in the U.S. in exchange for lower tariffs.
+      The two countries’ relationship is now uncertain, as South Korean politicians
+      lambasted the raid and sent a charter plane to repatriate the Korean workers who
+      are being detained at a GEO Group-run Georgia ICE jail that ICE recently found
+      in violation of federal safety standards. None of the detained workers have been
+      charged; many reportedly hold valid U.S. work permits. “The circumstances of the
+      raid were just absolutely abusive, not only in their scope and just the sheer
+      size of it, but the way that the folks at the Hyundai plant were treated by law
+      enforcement,” says Meredyth Yoon of the Atlanta chapter of the civil rights organization
+      Asian Americans Advancing Justice. Witnesses describe heavily armed federal agents
+      who threatened and even tear-gassed workers. “It is disturbing to see hundreds
+      of people arrested, shackled at their waist and ankles, and loaded into buses
+      and taken to an abusive detention center.” Transcript This is a rush transcript.
+      Copy may not be in its final form. AMY GOODMAN: We begin today’s show with President
+      Trump’s growing nationwide immigration crackdown as agents arrested dozens in
+      and around Boston this weekend and Trump’s threatening more actions in Chicago
+      and other so-called sanctuary cities this week. But in Georgia last Thursday,
+      federal officials say they carried out the single-largest single-site immigration
+      enforcement action in history when they conducted an immigration raid on the construction
+      site of a new electric vehicle battery plant. The facility is a joint venture
+      by Hyundai Motor Group and LG Energy Solutions. Some 300 of the 475 arrested are
+      Korean. This is DHS Secretary Tom Homan on CNN. DHS SECRETARY TOM HOMAN: We’re
+      going to do more worksite enforcement operations, because, number one, it’s a
+      crime to enter this country illegally; number two, it’s a crime to knowingly hire
+      an illegal alien. And these companies that hire illegal aliens, they undercut
+      their competition that’s paying U.S. citizen salaries. Look, no one hires an illegal
+      alien on the goodness of their heart. They hire them because they can work them
+      harder, pay them less, undercut the competition that hires U.S. citizen employees.
+      They drive wages down. AMY GOODMAN: Over 500 federal, state and local officials
+      participated in the raid. The agencies involved included not just ICE and Border
+      Patrol, but also the Department of Labor’s Office of Inspector General, the FBI,
+      the Drug Enforcement Agency, the Bureau of Alcohol, Tobacco and Firearms and Explosives,
+      the IRS and the Georgia State Patrol. The construction site that was raided is
+      in Ellabell, Georgia, near Savannah, is part of Hyundai’s massive 3,000-acre Metaplant
+      campus. State officials say the $12.6 billion project is the largest economic
+      development deal in Georgia’s history. Hyundai also has a factory in Alabama and
+      plans to invest $5 billion in a steel plant in Louisiana. This comes as South
+      Korea’s President Lee Jae-myung promised at least $50 billion of investments during
+      his recent meeting with President Trump. The South Korean government is now sending
+      a charter plane to pick up the hundreds of Korean workers after they negotiated
+      their release. This is Kang Hun-sik, chief of staff to the president of South
+      Korea. KANG HUN-SIK: [translated] As a result of swift and united efforts by government
+      ministries, business groups and companies, talks with the United States for the
+      release of the detained workers have been concluded. But what remains now are
+      only administrative procedures. And once those are completed, a chartered plane
+      will depart to bring our people home. … To prevent a similar incident in the future,
+      we will work with the Ministry of Trade, Industry and Energy and related companies
+      to review and improve the residency status and visa systems for travelers on U.S.-related
+      projects. AMY GOODMAN: For more, we go to Savannah, Georgia, where we’re joined
+      by Meredyth Yoon, litigation director for Asian Americans Advancing Justice-Atlanta.
+      Yoon is a daughter and granddaughter of Korean immigrants. Welcome to Democracy
+      Now! , Meredyth. It’s great to have you with us. If you can explain just what
+      unfolded last Thursday? MEREDYTH YOON: Thanks so much, Amy. So, the raid at the
+      Hyundai mega-site began around 9:00 or 10:00 in the morning last Thursday and
+      lasted the entire day, into the evening as late as 6:30 p.m. Approximately 475
+      people were detained, filling at least seven buses. The nationalities of those
+      detained were mostly from South Korea, but individuals from Guatemala, Colombia,
+      Chile, Mexico, Ecuador and Venezuela also were detained. There are reports that
+      some U.S. citizens, mostly younger workers, initially were subjected to investigatory
+      detention. Some of them were released, and many of those detained had valid work
+      permits. So far, everyone who the folks on the ground have been tracking has some
+      kind of documentation. AMY GOODMAN: Any kind of indication that this was about
+      to go down? I mean, this is historic, the largest single-site raid in the agency’s
+      history. MEREDYTH YOON: That’s right. And from what we’re hearing, the circumstances
+      of the raid were just absolutely abusive, not only in their scope and just the
+      sheer size of it, but the way that those — the folks at the Hyundai plant were
+      treated by law enforcement. Phones were taken from workers. People were pressured
+      to sign papers. There are reports that tear gas was used and that agents on site
+      were heavily armed. There were helicopters, drones, ATV and other military-style
+      vehicles that were there at the site. And from what we heard, ICE was blocking
+      the exits from the facility, threatening force if workers did not surrender. AMY GOODMAN:
+      So, can you, then, talk about what happened to the detained employees, where were
+      they sent, and the timing of this, after the deals the U.S. is making with South
+      Korea? MEREDYTH YOON: The majority of the workers who were detained on Thursday
+      were taken to the Folkston ICE Processing Center, which is an ICE detention center
+      in south Georgia near the Florida line. It has been operating as an ICE detention
+      center since approximately — well, since 2017, but has existed as some sort of
+      correctional facility since 1998. The facility has had repeated, repeated reports
+      of abusive conditions, including medical neglect, lack of information about people’s
+      cases, as well as horrible conditions at the facility itself. In 2022, the Department
+      of Homeland Security’s Office of the Inspector General did an investigation of
+      the facility and found multiple deficiencies and that the human rights of those
+      being detained there were being violated. Those conditions continue into current
+      times as to what people are facing. With respect to the timing of this enforcement
+      action, it’s incredibly — it’s just incredibly concerning to see, as people like
+      Governor Kemp are trying to, you know, supposedly reach out to South Korean companies
+      to develop the economy in south Georgia, that that has been a big part of what’s
+      been publicly discussed. And then you see federal law enforcement, in conjunction
+      with state law enforcement, including the Department of Public Safety and the
+      Georgia State Patrol, participating together in this — in this investigation is
+      just incredibly concerning. AMY GOODMAN: We played a clip of the border czar,
+      Tom Homan, talking about going after these workers because they’re taking Americans’
+      jobs. He continually refers to “illegal aliens.” He talks about taking rapists
+      and the worst murderers off the street. And he also talked about how it’s illegal
+      to employ what he calls “illegal aliens.” Were the owners of the plant, were those
+      who were involved in this — in this company, both Korean and American, arrested?
+      MEREDYTH YOON: So far, we have not heard any reports that there have been any
+      arrests or criminal arrests that have been executed as a result of this raid.
+      What we have heard is that everyone who has been, you know, civilly arrested by ICE has
+      some sort of documentation, including valid work permits. We’ve heard reports
+      of people who actually have pending asylum applications, as well as work permits,
+      being arrested. So it’s unclear why those individuals were detained. AMY GOODMAN:
+      It’s interesting. A headline out this weekend, Trump is quietly preparing to travel
+      next month to South Korea, where he could sit down with China’s leader, he and
+      his top advisers quietly preparing to go there in October for the APEC summit,
+      the Asia-Pacific Economic Cooperation summit. The significance of this, in preparation,
+      and what it means for any company who Trump is trying to lure to the United States
+      to set up business? MEREDYTH YOON: It certainly is a disincentive to companies
+      that want to invest in the United States. When you see large raids like this,
+      that are clearly intended to get a lot of public attention and cause intimidation,
+      it seems at cross-purposes with the supposed goal toward economic development.
+      AMY GOODMAN: Meredyth Yoon, you are the daughter and granddaughter of Korean immigrants.
+      How has this affected the Korean community, with hundreds of people being detained
+      and apparently deported soon, at once? MEREDYTH YOON: The Korean community is
+      deeply concerned and disturbed by these reports. It is disturbing to see hundreds
+      of people arrested, shackled at their waist and ankles, and loaded into buses
+      and taken to an abusive detention center. So, the Korean community is very concerned
+      about the treatment of those who were arrested, as well as potential future raids
+      that could impact the community. AMY GOODMAN: Where do you head from here? Who
+      is appealing to you at Asian Americans Advancing Justice-Atlanta? Is the community
+      totally desperate at this point? And does this shut the plant down, having almost
+      500 people taken away? MEREDYTH YOON: We have received many requests for assistance
+      at my organization. Many local organizations that are on the ground providing
+      immediate support in the aftermath have, as you can imagine, received many requests
+      for help. There is a coordinated response, both — you know, who are supporting
+      everyone detained, not only individuals from South Korea, but others, as well,
+      with immediate needs after the raid — food, financial support, as well as assistance
+      with connecting with legal help. So, those efforts are well coordinated and ongoing.
+      And I’m sorry, the second part of your question? AMY GOODMAN: The second part
+      — well, we have to actually go, but I want to thank you very much for being with
+      us. You’re holding a news conference today? MEREDYTH YOON: Yes, we are, at 11:00.
+      AMY GOODMAN: Meredyth Yoon, litigation director for Asian Americans Advancing
+      Justice-Atlanta. Yoon is the daughter and granddaughter of Korean immigrants.
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . DemocracyNow! Democracy Now! produces a daily, global, independent
+      news hour hosted by award-winning journalists Amy Goodman and Juan González. Our
+      reporting includes breaking daily news headlines and in-depth interviews with
+      people on the front lines of the world’s most pressing issues. On Democracy Now!,
+      you’ll hear a diversity of voices speaking for themselves, providing a unique
+      and sometimes provocative perspective on global events. Author Site Please share
+      this story and help us grow our network!'
+    one_sentence_summary: The article discusses the largest single-site immigration
+      raid in U.S. history at a Hyundai facility in Georgia, where nearly 500 workers,
+      mostly Korean nationals, were arrested, prompting criticism from South Korean
+      politicians and raising concerns about the future of U.S.-South Korea relations
+      amidst significant economic investments.
+    paragraph_summary: The article discusses a significant immigration raid that took
+      place at a Hyundai facility in Georgia, where nearly 500 workers, primarily Korean
+      nationals involved in building an electric vehicle battery plant, were arrested
+      by federal agents. This raid, described as the largest single-site immigration
+      operation in U.S. history, has raised concerns about the treatment of the workers,
+      many of whom reportedly hold valid U.S. work permits and have not been charged
+      with any crimes. The South Korean government has reacted strongly, criticizing
+      the raid and sending a charter plane to repatriate the detained workers, while
+      the relationship between the U.S. and South Korea becomes increasingly uncertain
+      amid ongoing economic investments. Witnesses reported aggressive tactics by law
+      enforcement during the raid, including the use of tear gas and shackling of workers,
+      prompting civil rights advocates to condemn the operation as abusive.
+    published: '2025-09-09T09:25:00+00:00'
+  - title: New York Times Misstates Palestinian Death Toll, Downplays Genocide
+    url: https://scheerpost.com/2025/09/09/new-york-times-misstates-palestinian-death-toll-downplays-genocide/
+    text: 'The New York Times. Alberto-g-rovi, CC BY 3.0 https://creativecommons.org/licenses/by/3.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Michael T. Brown / The Electronic Intifada Nearly two years into
+      the Gaza genocide, The New York Times is failing to convey to its readers the
+      enormity of what is happening to Palestinians. On 30 August (the online publication
+      date), in an article about the Venice International Film Festival and organizing
+      there on behalf of Gaza, the newspaper claimed that 39,000 people in Gaza had
+      been killed as of July. “In July, the enclave’s health ministry said that more
+      than 39,000 people had been killed, a toll that does not distinguish between civilians
+      and combatants. And this month, a group of global experts said that Gaza City
+      and the surrounding territory were officially suffering from famine .” But that
+      39,000 figure is from July of 2024. In fact, according to the health ministry
+      in Gaza, over 63,000 Palestinians had been killed when The New York Times article
+      was published. The official death toll was updated to more than 64,000 a few days
+      later. I requested a correction on 2 September after I first read the article.
+      Pro-Israel media-monitoring organizations such as CAMERA and HonestReporting did
+      not appear to be seized by the matter with the latter clearly looking past the
+      error on the number of Palestinians killed. "The enclave''s Health Ministry" "Local
+      health officials" Hamas @nytimes quietly fails to remind readers that this is
+      where the Gaza casualty figures are coming from. An editorial oversight or a deliberate
+      policy to legitimize terrorists? pic.twitter.com/DEHypfKIeH — HonestReporting
+      (@HonestReporting) August 31, 2025 The New York Times appended this correction
+      to the article the next day: “An earlier version of this article incorrectly stated
+      the Gaza health ministry’s death toll. The ministry recently put the figure at
+      more than 60,000 people, not over 39,000.” The correction run on 4 September on
+      the corrections page reads: “An article on Monday about a pro-Palestinian demonstration
+      that took place during the 82nd Venice International Film Festival on Saturday
+      misstated the death toll cited by the Gaza health ministry. The ministry recently
+      put the figure at more than 60,000 people, not over 39,000.” Even the correction
+      knowingly erases some 3,000 Palestinians killed. The number slain during the Israeli-administered
+      genocide at the time of original publication was over 63,000. In the chaos of
+      Gaza as institutions are destroyed and people are buried in the rubble, it is
+      worth noting that some estimates of the casualty figures go far higher. Genocide
+      NEW | The world''s leading genocide scholars'' association has overwhelmingly
+      passed a resolution saying that the legal criteria have been met to establish
+      that Israel is committing genocide in Gaza. Eighty-six per cent of those who voted
+      among the 500-member International… pic.twitter.com/6tdm44ECYF — Drop Site (@DropSiteNews)
+      September 1, 2025 The newspaper of record – as opposed to The Washington Post
+      – also appeared very reluctant to devote much attention to the resolution passed
+      on 31 August by the International Association of Genocide Scholars that declares
+      Israel is carrying out a genocide in Gaza. Just two paragraphs were devoted to
+      the issue on 1 September by The New York Times . First, the newspaper noted ,
+      “On Monday, the International Association of Genocide Scholars, a leading group
+      of academic experts on the topic, declared that Israel’s policies and actions
+      in Gaza met the legal definition of genocide.” Then, in a longer sentence , the
+      Israeli foreign ministry was given space to rebut the charge. “A spokesman for
+      the Israeli foreign ministry denounced the conclusion as ‘an embarrassment to
+      the legal profession,’ adding in a statement that it was ‘entirely based on Hamas’
+      campaign of lies and the laundering of those lies by others.’” Historian Assal
+      Rad noted the shortcomings of the reporting by The New York Times , highlighting
+      the absence of headlines or a dedicated story focusing on the fact Israel is committing
+      genocide. They dedicate more space to Israel’s denial to cast doubt on the statement
+      than the actual declaration by the world’s leading scholars on genocide. It’s
+      absurd to continue quoting the denials of a state committing genocide, as if it
+      has any validity against the global consensus. pic.twitter.com/rrVzVjBylu — Assal
+      Rad (@AssalRad) September 1, 2025 As award-winning investigative journalist Laila
+      Al-Arian writes of The New York Times : “They’ll be remembered for minimizing
+      genocide, normalizing Palestinian death and whitewashing Israel’s atrocities.”
+      Further bias can be seen in a New York Times article published shortly before
+      publication of this article. Liam Stack writes that “the war began after the Hamas-led
+      Oct. 7, 2023, terror attack on Israel, in which roughly 1,200 were killed and
+      250 more taken hostage.” Stack employs the term “terror attack,” but at no point
+      references Israeli war crimes, crimes against humanity or genocide. He did not
+      immediately respond to a request for comment from The Electronic Intifada regarding
+      bias at the newspaper. Editor’s Note : A t a moment when the once vaunted model
+      of responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Michael F. Brown Michael F. Brown is an independent
+      journalist. His work and views have appeared in The International Herald Tribune
+      , TheNation.com, The San Diego Union-Tribune , The News & Observer , The Atlanta
+      Journal-Constitution , The Washington Post and elsewhere. Author Site Please share
+      this story and help us grow our network!'
+    one_sentence_summary: The New York Times is criticized for inadequately reporting
+      the scale of the humanitarian crisis in Gaza, as highlighted by its mention of
+      a death toll of over 39,000 without distinguishing between civilians and combatants.
+    paragraph_summary: In a critical analysis of The New York Times' reporting on the
+      ongoing situation in Gaza, Michael T. Brown highlights a significant error in
+      the newspaper's coverage, which understated the death toll of Palestinians during
+      the conflict. An article published on August 30, 2025, referenced a figure of
+      39,000 deaths as reported by Gaza's health ministry, but this number was outdated
+      and did not reflect the updated toll of over 63,000 deaths at the time of publication.
+      Brown argues that this misrepresentation, along with the lack of scrutiny from
+      pro-Israel media organizations, raises concerns about the accuracy and accountability
+      of mainstream media in conveying the severity of the humanitarian crisis in Gaza.
+      Despite a subsequent correction by The New York Times, the incident underscores
+      ongoing challenges in reporting on the conflict.
+    published: '2025-09-09T09:20:00+00:00'
+  - title: New York Times Misstates Palestinian Death Toll, Downplays Genocide
+    url: https://scheerpost.com/2025/09/09/new-york-times-misstates-palestinian-death-toll-downplays-genocide/
+    text: 'The New York Times. Alberto-g-rovi, CC BY 3.0 https://creativecommons.org/licenses/by/3.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Michael T. Brown / The Electronic Intifada Nearly two years into
+      the Gaza genocide, The New York Times is failing to convey to its readers the
+      enormity of what is happening to Palestinians. On 30 August (the online publication
+      date), in an article about the Venice International Film Festival and organizing
+      there on behalf of Gaza, the newspaper claimed that 39,000 people in Gaza had
+      been killed as of July. “In July, the enclave’s health ministry said that more
+      than 39,000 people had been killed, a toll that does not distinguish between civilians
+      and combatants. And this month, a group of global experts said that Gaza City
+      and the surrounding territory were officially suffering from famine .” But that
+      39,000 figure is from July of 2024. In fact, according to the health ministry
+      in Gaza, over 63,000 Palestinians had been killed when The New York Times article
+      was published. The official death toll was updated to more than 64,000 a few days
+      later. I requested a correction on 2 September after I first read the article.
+      Pro-Israel media-monitoring organizations such as CAMERA and HonestReporting did
+      not appear to be seized by the matter with the latter clearly looking past the
+      error on the number of Palestinians killed. "The enclave''s Health Ministry" "Local
+      health officials" Hamas @nytimes quietly fails to remind readers that this is
+      where the Gaza casualty figures are coming from. An editorial oversight or a deliberate
+      policy to legitimize terrorists? pic.twitter.com/DEHypfKIeH — HonestReporting
+      (@HonestReporting) August 31, 2025 The New York Times appended this correction
+      to the article the next day: “An earlier version of this article incorrectly stated
+      the Gaza health ministry’s death toll. The ministry recently put the figure at
+      more than 60,000 people, not over 39,000.” The correction run on 4 September on
+      the corrections page reads: “An article on Monday about a pro-Palestinian demonstration
+      that took place during the 82nd Venice International Film Festival on Saturday
+      misstated the death toll cited by the Gaza health ministry. The ministry recently
+      put the figure at more than 60,000 people, not over 39,000.” Even the correction
+      knowingly erases some 3,000 Palestinians killed. The number slain during the Israeli-administered
+      genocide at the time of original publication was over 63,000. In the chaos of
+      Gaza as institutions are destroyed and people are buried in the rubble, it is
+      worth noting that some estimates of the casualty figures go far higher. Genocide
+      NEW | The world''s leading genocide scholars'' association has overwhelmingly
+      passed a resolution saying that the legal criteria have been met to establish
+      that Israel is committing genocide in Gaza. Eighty-six per cent of those who voted
+      among the 500-member International… pic.twitter.com/6tdm44ECYF — Drop Site (@DropSiteNews)
+      September 1, 2025 The newspaper of record – as opposed to The Washington Post
+      – also appeared very reluctant to devote much attention to the resolution passed
+      on 31 August by the International Association of Genocide Scholars that declares
+      Israel is carrying out a genocide in Gaza. Just two paragraphs were devoted to
+      the issue on 1 September by The New York Times . First, the newspaper noted ,
+      “On Monday, the International Association of Genocide Scholars, a leading group
+      of academic experts on the topic, declared that Israel’s policies and actions
+      in Gaza met the legal definition of genocide.” Then, in a longer sentence , the
+      Israeli foreign ministry was given space to rebut the charge. “A spokesman for
+      the Israeli foreign ministry denounced the conclusion as ‘an embarrassment to
+      the legal profession,’ adding in a statement that it was ‘entirely based on Hamas’
+      campaign of lies and the laundering of those lies by others.’” Historian Assal
+      Rad noted the shortcomings of the reporting by The New York Times , highlighting
+      the absence of headlines or a dedicated story focusing on the fact Israel is committing
+      genocide. They dedicate more space to Israel’s denial to cast doubt on the statement
+      than the actual declaration by the world’s leading scholars on genocide. It’s
+      absurd to continue quoting the denials of a state committing genocide, as if it
+      has any validity against the global consensus. pic.twitter.com/rrVzVjBylu — Assal
+      Rad (@AssalRad) September 1, 2025 As award-winning investigative journalist Laila
+      Al-Arian writes of The New York Times : “They’ll be remembered for minimizing
+      genocide, normalizing Palestinian death and whitewashing Israel’s atrocities.”
+      Further bias can be seen in a New York Times article published shortly before
+      publication of this article. Liam Stack writes that “the war began after the Hamas-led
+      Oct. 7, 2023, terror attack on Israel, in which roughly 1,200 were killed and
+      250 more taken hostage.” Stack employs the term “terror attack,” but at no point
+      references Israeli war crimes, crimes against humanity or genocide. He did not
+      immediately respond to a request for comment from The Electronic Intifada regarding
+      bias at the newspaper. Editor’s Note : A t a moment when the once vaunted model
+      of responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Michael F. Brown Michael F. Brown is an independent
+      journalist. His work and views have appeared in The International Herald Tribune
+      , TheNation.com, The San Diego Union-Tribune , The News & Observer , The Atlanta
+      Journal-Constitution , The Washington Post and elsewhere. Author Site Please share
+      this story and help us grow our network!'
+    one_sentence_summary: The New York Times is criticized for inadequately reporting
+      the scale of the humanitarian crisis in Gaza, as highlighted by its mention of
+      a death toll of over 39,000 without distinguishing between civilians and combatants.
+    paragraph_summary: In a critical analysis of The New York Times' reporting on the
+      ongoing situation in Gaza, Michael T. Brown highlights a significant error in
+      the newspaper's coverage, which understated the death toll of Palestinians during
+      the conflict. An article published on August 30, 2025, referenced a figure of
+      39,000 deaths as reported by Gaza's health ministry, but this number was outdated
+      and did not reflect the updated toll of over 63,000 deaths at the time of publication.
+      Brown argues that this misrepresentation, along with the lack of scrutiny from
+      pro-Israel media organizations, raises concerns about the accuracy and accountability
+      of mainstream media in conveying the severity of the humanitarian crisis in Gaza.
+      Despite a subsequent correction by The New York Times, the incident underscores
+      ongoing challenges in reporting on the conflict.
+    published: '2025-09-09T09:20:00+00:00'
+  - title: A Potentially World-Ending President
+    url: https://scheerpost.com/2025/09/09/a-potentially-world-ending-president/
+    text: 'Atom Bomb Nuclear Explosion by Burnt Pineapple Productions is licensed under
+      CC0 1.0 / Flickr In one of the scariest moments in modern history, we''re doing
+      our best at ScheerPost to pierce the fog of lies that conceal it but we need some
+      help to pay our writers and staff. Please consider a tax-deductible donation .
+      By Tom Engelhardt / TomDispatch Imagine for a moment a nuclear weapon exploding
+      over… well, you name it: Pakistan, India or, for that matter, Ukraine, Russia,
+      or the United States.  I guarantee you one thing: the news headlines would be
+      (and I use the word advisedly) explosive for days (weeks, months?) on end, assuming
+      of course that any media was left to cover it.  And yet, here’s the strange thing:
+      at this very moment, the slow-motion equivalent of a vast nuclear explosion is
+      occurring over this planet of ours and, remind me, where are the stunning headlines? 
+      Where is the shock?  Why is it so eternally passing news (or no news at all)?
+      Why doesn’t climate change make the headlines, except in the rarest of cases (or
+      — itself a rare case — in the Guardian , which has an actual “climate crisis”
+      section highlighted atop its daily online edition)?  Yes, in the mainstream media,
+      you can certainly read about the melting glaciers and surging glacial lake near
+      Juneau, Alaska, or the floods and growing rainy season in northern China, or the
+      stunning heat and fires this summer in Europe, or the Trump administration’s assault
+      on wind power , or the recent unbelievable nights of record temperatures in the
+      Middle East and, if you want, you can add it all up yourself.  But don’t wait
+      for our media to do the same, not in the sort of continuous headline-busting fashion
+      that might suit the unfolding disaster we increasingly face on this planet of
+      ours, even if in the weather equivalent of slow motion.  And when climate change
+      is indeed in the news, it’s rare indeed — unlike, say, the Covid epidemic once
+      upon a time — for it to be covered on a global basis.  When was the last time,
+      for instance, that you saw all the fierce or even record fires on this planet
+      put together in a single article?  Yes, I know, on occasion there are indeed overview
+      stories about climate change, but compared to the daily screaming headlines about
+      whatever passing thing Donald Trump did or said days (or even hours) ago, they
+      barely exist. In news terms, in fact, his second presidency might be considered
+      the news equivalent of an atomic explosion. Think of him, if you want, as President
+      Headline, hour after hour, day after day, week after week, month after month,
+      without cease and in a way no other American president has ever truly been treated. 
+      In fact, in news terms, his presidency has been distinctly atomic, both figuratively
+      and, in some sense, literally. After all, he’s been determined to ensure that
+      fossil fuels in America (and the world ) remain the energy source of choice and,
+      when it comes to his career as president, an explosive financial resource of the
+      never-ending moment. (In that context, no one should be shocked that the fossil-fuel
+      industry invested an estimated $445 million in supporting and influencing his
+      last election campaign and those of his followers in Congress.) No surprise, then,
+      that the second time around, he’s made quite an effort to expand oil, gas, and
+      coal production in this country, including signing “four executive orders in April
+      to help revive the beleaguered and polluting coal industry.” Meanwhile, he’s been
+      doing his damnedest to set back green energy in any way imaginable, including
+      by putting in place new Treasury Department “restrictions on tax subsidies for
+      wind and solar projects.” And that is just to start down a long list.  The Union
+      of Concerned Scientists estimates that his handouts to the fossil-fuel industry
+      will cost Americans $80 billlion over the next decade and, of course, they’ll
+      cost the planet we live on so much more. All too sadly, thanks to both Donald
+      Trump and the media, most of the time all too many of us barely sense that, as
+      I write this and you read it, the slow-motion equivalent of atomic weapons is
+      going off on this planet of ours.  Meanwhile, the president remains everybody’s
+      screaming headline (both literally and figuratively) every day of the week.  And
+      yes, he does indeed matter.  But does he truly matter as much as the almost literal,
+      if slow-motion, end of the world, at least as we’ve known it all these endless
+      centuries, that he’s taking such a distinctive (if generally under-reported) hand
+      in bringing about?  I don’t think so.  Unfortunately, judging by the past election
+      (and so much else), I seem to be in the distinct minority in this country when
+      it comes to such subjects. However, I doubt that if, between his two presidencies,
+      the media had dealt with the catastrophic development of climate change as it
+      should have, a man who wildly favors the production of oil, natural gas, and coal
+      — the ultimate sources of most of the greenhouse gas emissions now blanketing
+      the planet — would ever have been elected president a second time.  Generally,
+      though, unlike Donald Trump or, say, the war in Ukraine, climate change gets only
+      the equivalent of a second thought or a passing mention in the stream of daily
+      news.  Who cares if, with such a distinctive helping hand from our president,
+      we’re in the process of essentially devastating this planet as a livable place
+      for humanity and so much else? Heading for a “Global Nuclear Winter”? I don’t,
+      however, want to focus on Donald Trump alone, which would mean taking credit away
+      from the rest of us.  As a start — and give us full credit here — it’s no small
+      thing that, in our time, we humans have come up with two distinct and painfully
+      distinctive ways of doing in planet Earth. Consider it something of a genuine
+      miracle (though all too seldom written about) that the atomic way hasn’t been
+      used again since the Japanese cities of Hiroshima and Nagasaki were obliterated
+      on August 6 and 9, 1945, to end World War II. It’s almost less than human of us
+      to have let 80 years go by without taking another shot at obliterating something
+      atomically. Mind you, that hasn’t stopped eight more countries from developing
+      devastating, potentially world-ending nuclear arsenals (with, undoubtedly, more
+      to come).  As of now, there are an estimated 12,000 or so nuclear weapons of various
+      kinds on this planet — enough, that is, to do in an almost unimaginable number
+      of planets. Worse yet, two of the countries that possess them, India and Pakistan,
+      only recently came close to launching a full-scale war with each other, even exchanging
+      rounds of conventionally armed missiles, before agreeing to a ceasefire.  And
+      keep in mind that, if those countries were to use nuclear weaponry against each
+      other in what would still pass for a “limited” nuclear war, it would most likely
+      result not just in almost unimaginable local destruction but planetary devastation.
+      Massive clouds of dust from those nuclear explosions could potentially block the
+      sun, leaving us in what has come to be known as a global “nuclear winter” in which
+      more than two billion people on this planet might indeed die. And although he’s
+      seldom thought of that way, Donald Trump isn’t just a distinctly dystopian president
+      but a potentially end-of-the-world one, too.  No, I’m not even thinking about
+      that recent moment when he announced that he was moving two U.S. nuclear submarines
+      armed with nuclear missiles closer to… oops, I almost wrote the Soviet Union (and
+      that shows you how desperately old I am — slightly older, in fact, than the first
+      use of nuclear weapons on this planet). Yes, the correct word is, of course, Russia
+      or, as he put it , closer to the “appropriate regions” in response to what he
+      termed “highly provocative” comments by former Russian President Dmitry Medvedev.
+      And consider that not just a threatening but a potentially world-ending gesture.
+      (No matter that he himself has long been disturbed by atomic weaponry, warning
+      repeatedly of the possibility of “World War III.”)  And don’t forget that, only
+      recently, this country also decided to once again station some of its nuclear
+      weaponry in Great Britain (already a nuclear power). Of course, Russian President
+      Vladimir Putin responded to those submarine comments by insisting that his country
+      “no longer considers itself bound by a self-imposed moratorium on the deployment
+      of nuclear-capable intermediate range missiles.” And mind you, at this moment,
+      China has the third largest and fastest growing arsenal of all. In some sense,
+      given the ongoing growth of such arsenals and the spread of such weaponry across
+      much of the planet (not to speak of the recent U.S. and Israeli attacks on Iran’s
+      nuclear facilities), the danger of nuclear conflict seems distinctly on the rise
+      . A Coming Hell on Earth? Someday, if we humans are even here to remember the
+      Trumpian moment in history and that first method of ultimate destruction hasn’t
+      been used again, humanity will undoubtedly find itself facing the second version
+      head-on. After all, whatever he might not (yet) have done when it comes to nukes,
+      Donald Trump has gone all in on that second global nightmare.  Think of it as
+      his urge to create a world not of nuclear winter but of climate-change summer.
+      Or perhaps it would be better and more bluntly accurate to simply think of our
+      future as a distinct and potentially all too literal hell on earth.  Just imagine
+      the global heat, fires, floods, you name it, that are in our future.  Yes, some
+      countries are indeed working hard to put in place other forms of energy that won’t
+      throw greenhouse gases into the atmosphere and turn this planet into an inferno
+      and a half, but even the ones doing so aren’t doing it faintly fast enough. Take
+      China.  Its green energy emplacement, its solar and wind power, is not just greater
+      than that of any other country on the planet, but all of them combined.  What
+      it’s done in terms of the building of new green energy facilities couldn’t be
+      more stunning, as is its production of electric cars (at the moment unparalleled
+      on this planet, with more than 60% of such vehicle sales globally).  And yet,
+      before you start to feel too upbeat, consider this as well: no country, not even
+      all the rest of them put together, burns more coal than China or is putting in
+      place the number of new coal-powered plants that country is still planning to
+      open. In 2023, it accounted for 95% of new coal construction , a trend that seems
+      to have continued to the present. Can you even believe it? And then, think of
+      my own country, the (increasingly dis-)United States of America. It had done remarkably
+      little when it came to getting rid of fossil fuels even before Donald Trump entered
+      the White House a second time. After all, it was already the globe’s largest producer
+      of crude oil and exporter of natural gas when Joe Biden became president and,
+      despite his administration’s modest attempts to deal with climate change, oil
+      and gas production were — yes! — even higher when he left office (as was true
+      of Donald Trump in his first term). And so it goes, it seems. It should be so
+      much stranger than it feels at this moment to be living in a time when a slow-motion
+      apocalypse of an almost unimaginable sort is actually taking place and with a
+      distinctly world-ending president in the White House raising a storm daily (about
+      anything but climate change).  Yes, the fires, floods, heatwaves, and droughts
+      are all growing more intense on planet Earth. And on a globe that, in its own
+      fashion, appears to be going to (an all too literal) hell in a handbasket, Donald
+      Trump seems distinctly ready and willing to make that reality so much worse. Even
+      if no atomic weapons are ever used, it seems as if we’re nonetheless heading for
+      what might be thought of as the very opposite of a global nuclear winter. Think
+      of it as a global climate change summer, a slow-motion version of hell on earth.
+      Can you believe it?  I’m sweating at the very thought of it. Editor’s Note : A
+      t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Tom Engelhardt
+      Tom Engelhardt created and runs the website TomDispatch.com . He is also a co-founder
+      of the American Empire Project and the author of a highly praised history of American
+      triumphalism in the Cold War, The End of Victory Culture .  A fellow of the Type
+      Media Center , his sixth and latest book is A Nation Unmade by War . Author SIte
+      Please share this story and help us grow our network!'
+    one_sentence_summary: The article by Tom Engelhardt highlights the alarming reality
+      of climate change as a slow-motion catastrophe comparable to a nuclear explosion,
+      yet it receives far less media attention and urgency than a nuclear event would.
+    paragraph_summary: In a thought-provoking article, Tom Engelhardt highlights the
+      alarming disparity between the media's coverage of nuclear explosions and the
+      ongoing, catastrophic effects of climate change, which he describes as a "slow-motion
+      nuclear explosion" affecting the planet. He questions why climate change fails
+      to generate the same level of urgent headlines and public shock as a nuclear event
+      would, despite the increasing frequency of extreme weather events and environmental
+      crises worldwide. Engelhardt points out that while some media outlets occasionally
+      report on climate issues, there is a lack of consistent, comprehensive coverage
+      that reflects the gravity of the situation, contrasting it with the extensive
+      coverage given to other crises like the COVID-19 pandemic. He calls for greater
+      awareness and action regarding the climate crisis, urging readers to consider
+      the dire implications of ignoring this pressing issue.
+    published: '2025-09-09T09:15:00+00:00'
+  - title: A Potentially World-Ending President
+    url: https://scheerpost.com/2025/09/09/a-potentially-world-ending-president/
+    text: 'Atom Bomb Nuclear Explosion by Burnt Pineapple Productions is licensed under
+      CC0 1.0 / Flickr In one of the scariest moments in modern history, we''re doing
+      our best at ScheerPost to pierce the fog of lies that conceal it but we need some
+      help to pay our writers and staff. Please consider a tax-deductible donation .
+      By Tom Engelhardt / TomDispatch Imagine for a moment a nuclear weapon exploding
+      over… well, you name it: Pakistan, India or, for that matter, Ukraine, Russia,
+      or the United States.  I guarantee you one thing: the news headlines would be
+      (and I use the word advisedly) explosive for days (weeks, months?) on end, assuming
+      of course that any media was left to cover it.  And yet, here’s the strange thing:
+      at this very moment, the slow-motion equivalent of a vast nuclear explosion is
+      occurring over this planet of ours and, remind me, where are the stunning headlines? 
+      Where is the shock?  Why is it so eternally passing news (or no news at all)?
+      Why doesn’t climate change make the headlines, except in the rarest of cases (or
+      — itself a rare case — in the Guardian , which has an actual “climate crisis”
+      section highlighted atop its daily online edition)?  Yes, in the mainstream media,
+      you can certainly read about the melting glaciers and surging glacial lake near
+      Juneau, Alaska, or the floods and growing rainy season in northern China, or the
+      stunning heat and fires this summer in Europe, or the Trump administration’s assault
+      on wind power , or the recent unbelievable nights of record temperatures in the
+      Middle East and, if you want, you can add it all up yourself.  But don’t wait
+      for our media to do the same, not in the sort of continuous headline-busting fashion
+      that might suit the unfolding disaster we increasingly face on this planet of
+      ours, even if in the weather equivalent of slow motion.  And when climate change
+      is indeed in the news, it’s rare indeed — unlike, say, the Covid epidemic once
+      upon a time — for it to be covered on a global basis.  When was the last time,
+      for instance, that you saw all the fierce or even record fires on this planet
+      put together in a single article?  Yes, I know, on occasion there are indeed overview
+      stories about climate change, but compared to the daily screaming headlines about
+      whatever passing thing Donald Trump did or said days (or even hours) ago, they
+      barely exist. In news terms, in fact, his second presidency might be considered
+      the news equivalent of an atomic explosion. Think of him, if you want, as President
+      Headline, hour after hour, day after day, week after week, month after month,
+      without cease and in a way no other American president has ever truly been treated. 
+      In fact, in news terms, his presidency has been distinctly atomic, both figuratively
+      and, in some sense, literally. After all, he’s been determined to ensure that
+      fossil fuels in America (and the world ) remain the energy source of choice and,
+      when it comes to his career as president, an explosive financial resource of the
+      never-ending moment. (In that context, no one should be shocked that the fossil-fuel
+      industry invested an estimated $445 million in supporting and influencing his
+      last election campaign and those of his followers in Congress.) No surprise, then,
+      that the second time around, he’s made quite an effort to expand oil, gas, and
+      coal production in this country, including signing “four executive orders in April
+      to help revive the beleaguered and polluting coal industry.” Meanwhile, he’s been
+      doing his damnedest to set back green energy in any way imaginable, including
+      by putting in place new Treasury Department “restrictions on tax subsidies for
+      wind and solar projects.” And that is just to start down a long list.  The Union
+      of Concerned Scientists estimates that his handouts to the fossil-fuel industry
+      will cost Americans $80 billlion over the next decade and, of course, they’ll
+      cost the planet we live on so much more. All too sadly, thanks to both Donald
+      Trump and the media, most of the time all too many of us barely sense that, as
+      I write this and you read it, the slow-motion equivalent of atomic weapons is
+      going off on this planet of ours.  Meanwhile, the president remains everybody’s
+      screaming headline (both literally and figuratively) every day of the week.  And
+      yes, he does indeed matter.  But does he truly matter as much as the almost literal,
+      if slow-motion, end of the world, at least as we’ve known it all these endless
+      centuries, that he’s taking such a distinctive (if generally under-reported) hand
+      in bringing about?  I don’t think so.  Unfortunately, judging by the past election
+      (and so much else), I seem to be in the distinct minority in this country when
+      it comes to such subjects. However, I doubt that if, between his two presidencies,
+      the media had dealt with the catastrophic development of climate change as it
+      should have, a man who wildly favors the production of oil, natural gas, and coal
+      — the ultimate sources of most of the greenhouse gas emissions now blanketing
+      the planet — would ever have been elected president a second time.  Generally,
+      though, unlike Donald Trump or, say, the war in Ukraine, climate change gets only
+      the equivalent of a second thought or a passing mention in the stream of daily
+      news.  Who cares if, with such a distinctive helping hand from our president,
+      we’re in the process of essentially devastating this planet as a livable place
+      for humanity and so much else? Heading for a “Global Nuclear Winter”? I don’t,
+      however, want to focus on Donald Trump alone, which would mean taking credit away
+      from the rest of us.  As a start — and give us full credit here — it’s no small
+      thing that, in our time, we humans have come up with two distinct and painfully
+      distinctive ways of doing in planet Earth. Consider it something of a genuine
+      miracle (though all too seldom written about) that the atomic way hasn’t been
+      used again since the Japanese cities of Hiroshima and Nagasaki were obliterated
+      on August 6 and 9, 1945, to end World War II. It’s almost less than human of us
+      to have let 80 years go by without taking another shot at obliterating something
+      atomically. Mind you, that hasn’t stopped eight more countries from developing
+      devastating, potentially world-ending nuclear arsenals (with, undoubtedly, more
+      to come).  As of now, there are an estimated 12,000 or so nuclear weapons of various
+      kinds on this planet — enough, that is, to do in an almost unimaginable number
+      of planets. Worse yet, two of the countries that possess them, India and Pakistan,
+      only recently came close to launching a full-scale war with each other, even exchanging
+      rounds of conventionally armed missiles, before agreeing to a ceasefire.  And
+      keep in mind that, if those countries were to use nuclear weaponry against each
+      other in what would still pass for a “limited” nuclear war, it would most likely
+      result not just in almost unimaginable local destruction but planetary devastation.
+      Massive clouds of dust from those nuclear explosions could potentially block the
+      sun, leaving us in what has come to be known as a global “nuclear winter” in which
+      more than two billion people on this planet might indeed die. And although he’s
+      seldom thought of that way, Donald Trump isn’t just a distinctly dystopian president
+      but a potentially end-of-the-world one, too.  No, I’m not even thinking about
+      that recent moment when he announced that he was moving two U.S. nuclear submarines
+      armed with nuclear missiles closer to… oops, I almost wrote the Soviet Union (and
+      that shows you how desperately old I am — slightly older, in fact, than the first
+      use of nuclear weapons on this planet). Yes, the correct word is, of course, Russia
+      or, as he put it , closer to the “appropriate regions” in response to what he
+      termed “highly provocative” comments by former Russian President Dmitry Medvedev.
+      And consider that not just a threatening but a potentially world-ending gesture.
+      (No matter that he himself has long been disturbed by atomic weaponry, warning
+      repeatedly of the possibility of “World War III.”)  And don’t forget that, only
+      recently, this country also decided to once again station some of its nuclear
+      weaponry in Great Britain (already a nuclear power). Of course, Russian President
+      Vladimir Putin responded to those submarine comments by insisting that his country
+      “no longer considers itself bound by a self-imposed moratorium on the deployment
+      of nuclear-capable intermediate range missiles.” And mind you, at this moment,
+      China has the third largest and fastest growing arsenal of all. In some sense,
+      given the ongoing growth of such arsenals and the spread of such weaponry across
+      much of the planet (not to speak of the recent U.S. and Israeli attacks on Iran’s
+      nuclear facilities), the danger of nuclear conflict seems distinctly on the rise
+      . A Coming Hell on Earth? Someday, if we humans are even here to remember the
+      Trumpian moment in history and that first method of ultimate destruction hasn’t
+      been used again, humanity will undoubtedly find itself facing the second version
+      head-on. After all, whatever he might not (yet) have done when it comes to nukes,
+      Donald Trump has gone all in on that second global nightmare.  Think of it as
+      his urge to create a world not of nuclear winter but of climate-change summer.
+      Or perhaps it would be better and more bluntly accurate to simply think of our
+      future as a distinct and potentially all too literal hell on earth.  Just imagine
+      the global heat, fires, floods, you name it, that are in our future.  Yes, some
+      countries are indeed working hard to put in place other forms of energy that won’t
+      throw greenhouse gases into the atmosphere and turn this planet into an inferno
+      and a half, but even the ones doing so aren’t doing it faintly fast enough. Take
+      China.  Its green energy emplacement, its solar and wind power, is not just greater
+      than that of any other country on the planet, but all of them combined.  What
+      it’s done in terms of the building of new green energy facilities couldn’t be
+      more stunning, as is its production of electric cars (at the moment unparalleled
+      on this planet, with more than 60% of such vehicle sales globally).  And yet,
+      before you start to feel too upbeat, consider this as well: no country, not even
+      all the rest of them put together, burns more coal than China or is putting in
+      place the number of new coal-powered plants that country is still planning to
+      open. In 2023, it accounted for 95% of new coal construction , a trend that seems
+      to have continued to the present. Can you even believe it? And then, think of
+      my own country, the (increasingly dis-)United States of America. It had done remarkably
+      little when it came to getting rid of fossil fuels even before Donald Trump entered
+      the White House a second time. After all, it was already the globe’s largest producer
+      of crude oil and exporter of natural gas when Joe Biden became president and,
+      despite his administration’s modest attempts to deal with climate change, oil
+      and gas production were — yes! — even higher when he left office (as was true
+      of Donald Trump in his first term). And so it goes, it seems. It should be so
+      much stranger than it feels at this moment to be living in a time when a slow-motion
+      apocalypse of an almost unimaginable sort is actually taking place and with a
+      distinctly world-ending president in the White House raising a storm daily (about
+      anything but climate change).  Yes, the fires, floods, heatwaves, and droughts
+      are all growing more intense on planet Earth. And on a globe that, in its own
+      fashion, appears to be going to (an all too literal) hell in a handbasket, Donald
+      Trump seems distinctly ready and willing to make that reality so much worse. Even
+      if no atomic weapons are ever used, it seems as if we’re nonetheless heading for
+      what might be thought of as the very opposite of a global nuclear winter. Think
+      of it as a global climate change summer, a slow-motion version of hell on earth.
+      Can you believe it?  I’m sweating at the very thought of it. Editor’s Note : A
+      t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Tom Engelhardt
+      Tom Engelhardt created and runs the website TomDispatch.com . He is also a co-founder
+      of the American Empire Project and the author of a highly praised history of American
+      triumphalism in the Cold War, The End of Victory Culture .  A fellow of the Type
+      Media Center , his sixth and latest book is A Nation Unmade by War . Author SIte
+      Please share this story and help us grow our network!'
+    one_sentence_summary: The article by Tom Engelhardt highlights the alarming reality
+      of climate change as a slow-motion catastrophe comparable to a nuclear explosion,
+      yet it receives far less media attention and urgency than a nuclear event would.
+    paragraph_summary: In a thought-provoking article, Tom Engelhardt highlights the
+      alarming disparity between the media's coverage of nuclear explosions and the
+      ongoing, catastrophic effects of climate change, which he describes as a "slow-motion
+      nuclear explosion" affecting the planet. He questions why climate change fails
+      to generate the same level of urgent headlines and public shock as a nuclear event
+      would, despite the increasing frequency of extreme weather events and environmental
+      crises worldwide. Engelhardt points out that while some media outlets occasionally
+      report on climate issues, there is a lack of consistent, comprehensive coverage
+      that reflects the gravity of the situation, contrasting it with the extensive
+      coverage given to other crises like the COVID-19 pandemic. He calls for greater
+      awareness and action regarding the climate crisis, urging readers to consider
+      the dire implications of ignoring this pressing issue.
+    published: '2025-09-09T09:15:00+00:00'
+  - title: Harvard Dominates Headlines, But Other Schools Are Quietly Battling Trump
+    url: https://scheerpost.com/2025/09/09/harvard-dominates-headlines-but-other-schools-are-quietly-battling-trump/
+    text: 'Resist F-Elon Trump at Harvard University. Chad Davis from Minneapolis, United
+      States, CC BY 2.0 https://creativecommons.org/licenses/by/2.0 , via Wikimedia
+      Commons In one of the scariest moments in modern history, we''re doing our best
+      at ScheerPost to pierce the fog of lies that conceal it but we need some help
+      to pay our writers and staff. Please consider a tax-deductible donation . By October
+      Krausch / Truthout Closed-door committees are forming to investigate whether public
+      universities in North Carolina have fully eliminated diversity practices. Campuses
+      in Utah are being held to neutrality pledges . Accreditation is changing across
+      the Southeast as university systems join a new state-run scheme spearheaded by
+      Florida Governor Ron DeSantis. A major political struggle is being waged on university
+      campuses, and faculty are struggling to keep up. Higher education has been in
+      the news regularly since the emergence of mass pro-Palestine protests on campuses
+      after October 7, 2023, but much of the coverage has been dominated by the likes
+      of elite private schools such as Harvard and Columbia. Right-wing attacks, however,
+      have rocked campuses across the country, escalating with the Trump administration’s
+      executive orders banning diversity, equity, and inclusion (DEI) practices. These
+      orders have been followed by Department of Justice or Department of Education
+      investigations into whether there are any lingering practices of inclusivity.
+      The playbook has been used at institution after institution as a form of pressure
+      to withhold funds and secure concessions. Attacks from the Trump administration
+      are an acceleration of a situation that many campuses were already facing: Under
+      pressure from state legislatures, campus leadership, or both, university faculty
+      have been confronting a crisis created by deepening austerity regimes for decades.
+      Now these crises are being supercharged by the federal government’s anti-intellectualism
+      and hunger for authoritarian control. Faculty are scrambling to meet these challenges
+      head-on, planning teach-ins, recruiting members for unionization drives, and organizing
+      lobbying days at the state legislature, all as new threats seemingly crop up by
+      the day. Universities are not just a bastion of highly educated professionals;
+      at their best, they’re a public good, offering opportunities for intellectual
+      growth to the community, making scientific breakthroughs, and sharing technical
+      expertise in local problems. “Everybody in the state has a stake in how our universities
+      fare, because it’s such a big part of who we are as farmers and researchers and
+      biomedical researchers and people who work in the humanities and writers,” says
+      Belle Boggs, professor of English at North Carolina State University and president
+      of the North Carolina Conference of the American Association of University Professors
+      (AAUP). A Struggle on Steeply Hierarchical Terrain The U.S. system of universities
+      and colleges is tremendously diverse in terms of student and faculty population,
+      needs, and structure, even among public institutions in a single state. Take Georgia,
+      for example. Although the whole concept of “higher education” is under attack,
+      Matthew Boedy, professor of rhetoric at University of North Georgia and president
+      of the Georgia Conference of the AAUP, says the situation at Georgia Tech and
+      University of Georgia is vastly different from the chilling effect that faculty
+      experience at his school. “You have that sense that you don’t want to draw attention
+      to yourself in the same manner that UGA or Georgia Tech could.” It’s not as if
+      everything is hunky-dory at flagship public institutions — they are facing attacks
+      as well — but these schools, with beloved football teams, are well-known among
+      the public in the state. Meanwhile, less prestigious schools like the five-campus
+      University of North Georgia are easier for legislators to defund and hobble without
+      much public backlash, so they have to fight harder for every dollar. At the same
+      time, scholars working at less elite schools, like regional comprehensives, tend
+      to hold less power and visibility within their academic disciplines and in the
+      academy as a whole. The schools where most faculty work are, as a result, more
+      beleaguered and receive less media coverage. Faculty at these schools teach more
+      classes per semester (four or five as opposed to one or two) and overall receive
+      much less research funding. Very few of these schools were doing race-conscious
+      admissions to start with because their overall acceptance rates are much higher.
+      Brianne Kramer, a professor of education and American Federation of Teachers (AFT)
+      chapter president at Southern Utah University, has been lobbying the state legislature
+      for both funding and to limit the damage of the harshest legislation against diversity
+      practices. Kramer says the first step to lobbying is to make sure state legislators
+      know what her and her colleagues do on a day-to-day basis as faculty at a regional
+      university. On Kramer’s campus, the onslaught did not begin this January with
+      Trump. Statewide legislation in Utah, where a Republican supermajority controls
+      politics, had already banned DEI on university campuses and forced campuses to
+      commit to neutrality pledges, a vague set of guidelines indicating that educational
+      institutions, or units within them, cannot take political positions. But now that
+      similar moves are being made at the federal level, Kramer says, “I don’t know
+      that there will be any institution that is untouched…. I don’t mean that Trump
+      is going to come into every single, like, tiny little regional and take over.
+      But I do think that what is going to happen is that chilling effect that we’ve
+      been seeing in states is going to happen nationwide.” “Hostage-Taking” in Research
+      Institutions Meanwhile, large research institutions (R1s) have been targeted by
+      Department of Justice and Department of Education investigations that freeze federal
+      funds. Driven originally by the hearings on campus antisemitism held by the House
+      Committee on Education and Workforce , many of these Department of Education investigations
+      began under the Biden administration in response to pro-Palestine protests on
+      campuses. The process has expanded under Trump into what Tim Gibson, associate
+      professor of communication and vice president of George Mason University AAUP,
+      describes as a “hostage-taking” strategy of gaining top-down control of academic
+      institutions. “It’s a collective action problem,” says Kathy Forde, co-founder
+      of Stand Together for Higher Ed . High-level administrators are “being influenced
+      by boards of trustees and by their commitments to try to keep as many faculty
+      and staff employed.” Stand Together for Higher Ed, formed in 2025, is an outgrowth
+      of the Mutual Academic Defense Compacts (MADC), a movement that started among
+      faculty of Big Ten universities to pressure university leadership to commit to
+      solidarity with other similar campuses and refuse to capitulate to the administration’s
+      demands. The idea is that each university administrator may be individually afraid
+      of the consequences of standing up to the White House, but leadership across universities
+      hold more power if they collectively agree to refuse the DOJ’s demands for curricular
+      and intellectual concessions. While Stand Together for Higher Ed includes and
+      encourages the participation of administrators, the group is pivoting its work
+      to empower small groups of faculty on campus nationwide to embrace the model as
+      one more way to try to fight authoritarian overreach onto college campuses. Forde
+      says “we want to build the largest big tent movement that we possibly can. … We
+      still support [MADCs], but we’re pivoting away from that to say, look, build small
+      stand together teams on your campuses so that we can work collectively.” Forde
+      and her co-founder Jennifer Lundquist envision the group less as a political base
+      for organizing public messaging campaigns, and more as a vehicle to defend higher
+      education. Some faculty are skeptical that upper-level administrators are in fact
+      being forced by the Trump administration, noting that many of the concessions
+      signed at major research universities so far are things that administrators have
+      long desired. “So much of this is stuff that university administrators have been
+      chomping at the bit for,” says Kramer. Union? Maybe! Unionization is one response
+      strategy, and by all accounts 2025 has so far been a banner year for recruiting
+      new faculty union members. AAUP, one of the major national unions on campuses,
+      has a long history that predates the current crisis. The AAUP holds a dual orientation:
+      It is a professional association that advocates for the profession as a whole,
+      but many of its chapters are also collective bargaining units. With its affiliation
+      with the AFT in 2022, the AAUP is more explicitly pushing for wall-to-wall unionization,
+      or union efforts to organize all workers on campus without distinction between
+      tenured faculty, adjunct faculty, staff, hourly workers, and so on. Robert Cassanello,
+      associate professor of history at University of Central Florida and president
+      of United Faculty of Florida, says that as a new union president, he’s had to
+      bridge the gap between the ideas of a “bread and butter” or “social activist”
+      union. Cassanello says that previously, many UFF members felt that the union’s
+      job was just to negotiate the contract and not worry too much about DEI or social
+      issues. But over the last few years, the union has experienced a big change. Now,
+      most members realize, he says, “we need a social activist. Because ‘bread and
+      butter’ is not going to cut it in the climate that we have anymore…. I think people
+      kind of expect the union to be out there, to be in the forefront, to fight, you
+      know, to engage in a higher ed labor movement.” Traditionally, the AAUP has focused
+      on two key planks: academic freedom and shared governance. In the university context,
+      shared governance means faculty’s right to co-govern the university with its senior
+      leadership and governing board. Not everyone is on board with the turn toward
+      explicit unionization. In some states, public workers have no collective bargaining
+      rights, or the certification process for a bargaining unit is extremely difficult.
+      Faculty at private universities hold an ambiguous status with the National Labor
+      Relations Board and face a difficult road to collective bargaining if the institution
+      opposes them. Finally, many faculty are simply wary of calling themselves workers
+      and do not see a union as something that applies to them. “We are not organizing
+      a union here,” says Boedy of the AAUP Georgia Conference. “There’s so many steps
+      that have to happen to get that and we don’t have that type of interest yet from
+      people across the campus.” Boggs in North Carolina says that although she likes
+      the union language, “we’re comfortable with however people want to think about
+      it, as a professional organization or as a union.” Some faculty that are already
+      strongly unionized, like Jenna Chernega, president of Inter Faculty Organization
+      in Minnesota and a professor of sociology at Winona State University, have joined
+      with the coalition Higher Ed Labor United (HELU), a newer group focused on building
+      coalitions of different types of workers on campus and working across the unions
+      that represent higher ed workers. Chernega says that as a statewide union with
+      a relatively safe local context, the Inter Faculty Organization was interested
+      in finding an avenue to advocate on a federal or national level where threats
+      are most likely to originate. As a national coalition, HELU provides that. Saving
+      the Institutions That Exist, But Organizing for Something Better In the growing
+      fascist context in the U.S., many people are being put in a position to defend
+      flawed institutions and policies — and universities are no exception. At George
+      Mason University in Virginia, faculty successfully rallied to the defense of university
+      president Gregory Washington, who came under fire as the Trump administration
+      opened four investigations into the school’s diversity practices. Gibson says
+      although faculty in the AAUP chapter have had major differences with Washington,
+      it’s “not okay to force out a president through these kind of tactics and to have
+      a federal government tell us how to govern and run a state university.” It is
+      important, Gibson says, for faculty to work together to stop the Trump administration
+      and its cronies from installing “loyalists” to run their institutions. Timothy
+      Kaufman-Osborn, professor emeritus of politics and leadership at Whitman College
+      and caucus co-chair with the Coalition for Action in Higher Ed (CAHE), says the
+      U.S. university system is and always has been authoritarian; universities both
+      public and private are governed by a board of external stakeholders with the power
+      to overrule anyone inside the institution. While state takeover of governance
+      boards is certainly worse in most cases than the status quo, Kaufman-Osborn says
+      that shared governance is an already severely compromised ideal, and should not
+      be the ultimate goal. At the same time faculty are scrambling to “safeguard what
+      we have not yet lost” — such as fighting expanded state control of governance
+      boards and institutions — Kaufman-Osborn says it’s also important not to remain
+      in a “defensive crouch” that leaves them unable to imagine anything better. While
+      faculty like those at George Mason may need to organize to fight off a right-wing
+      takeover of the university, Kaufman-Osborn is also working with those in CAHE
+      to “nurture our collective capacity to imagine a very different university than
+      the one we inhabit today.” The situation seems dire and the odds of success for
+      faculty at the moment seem low. Yet faculty are undeterred. The mood among faculty
+      organizers is that you have to fight to win, but you still have to fight even
+      if you can’t win. Note: Opinions expressed by sources in this story are their
+      own and do not express the views or opinions of their employers. Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . October Krausch
+      October Krausch , Ph.D., is a public sociologist, activist and writer in the Detroit
+      metro area. Their writing has been published in Truthout, In These Times, Inside
+      Higher Ed and The Progressive , among others. They have been involved in a range
+      of community movements including anti-eviction movements, free schools, independent
+      media and Latin American solidarity work, and are currently facilitating the Abolitionist
+      Book Club, an inside/outside reading group with members of the Black Prisoners
+      Caucus. Always working to balance love and rage, October finds freedom in the
+      struggle. Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: A political struggle over diversity practices and neutrality
+      pledges is intensifying on university campuses in the U.S., particularly in North
+      Carolina and Utah, amid ongoing debates surrounding higher education and recent
+      pro-Palestine protests.
+    paragraph_summary: The article discusses the escalating political struggle on university
+      campuses in the U.S., particularly in the wake of mass pro-Palestine protests
+      and right-wing attacks on diversity, equity, and inclusion (DEI) practices. It
+      highlights the formation of closed-door committees in North Carolina to investigate
+      the elimination of DEI initiatives, neutrality pledges in Utah, and changes in
+      accreditation processes led by Florida Governor Ron DeSantis. The piece emphasizes
+      that these developments are part of a broader trend accelerated by the Trump administration's
+      executive orders and subsequent federal investigations, which have intensified
+      existing pressures on higher education institutions facing austerity measures.
+      Faculty members are struggling to navigate this crisis amid a climate of anti-intellectualism
+      and authoritarian control from the government.
+    published: '2025-09-09T09:10:00+00:00'
+  - title: Harvard Dominates Headlines, But Other Schools Are Quietly Battling Trump
+    url: https://scheerpost.com/2025/09/09/harvard-dominates-headlines-but-other-schools-are-quietly-battling-trump/
+    text: 'Resist F-Elon Trump at Harvard University. Chad Davis from Minneapolis, United
+      States, CC BY 2.0 https://creativecommons.org/licenses/by/2.0 , via Wikimedia
+      Commons In one of the scariest moments in modern history, we''re doing our best
+      at ScheerPost to pierce the fog of lies that conceal it but we need some help
+      to pay our writers and staff. Please consider a tax-deductible donation . By October
+      Krausch / Truthout Closed-door committees are forming to investigate whether public
+      universities in North Carolina have fully eliminated diversity practices. Campuses
+      in Utah are being held to neutrality pledges . Accreditation is changing across
+      the Southeast as university systems join a new state-run scheme spearheaded by
+      Florida Governor Ron DeSantis. A major political struggle is being waged on university
+      campuses, and faculty are struggling to keep up. Higher education has been in
+      the news regularly since the emergence of mass pro-Palestine protests on campuses
+      after October 7, 2023, but much of the coverage has been dominated by the likes
+      of elite private schools such as Harvard and Columbia. Right-wing attacks, however,
+      have rocked campuses across the country, escalating with the Trump administration’s
+      executive orders banning diversity, equity, and inclusion (DEI) practices. These
+      orders have been followed by Department of Justice or Department of Education
+      investigations into whether there are any lingering practices of inclusivity.
+      The playbook has been used at institution after institution as a form of pressure
+      to withhold funds and secure concessions. Attacks from the Trump administration
+      are an acceleration of a situation that many campuses were already facing: Under
+      pressure from state legislatures, campus leadership, or both, university faculty
+      have been confronting a crisis created by deepening austerity regimes for decades.
+      Now these crises are being supercharged by the federal government’s anti-intellectualism
+      and hunger for authoritarian control. Faculty are scrambling to meet these challenges
+      head-on, planning teach-ins, recruiting members for unionization drives, and organizing
+      lobbying days at the state legislature, all as new threats seemingly crop up by
+      the day. Universities are not just a bastion of highly educated professionals;
+      at their best, they’re a public good, offering opportunities for intellectual
+      growth to the community, making scientific breakthroughs, and sharing technical
+      expertise in local problems. “Everybody in the state has a stake in how our universities
+      fare, because it’s such a big part of who we are as farmers and researchers and
+      biomedical researchers and people who work in the humanities and writers,” says
+      Belle Boggs, professor of English at North Carolina State University and president
+      of the North Carolina Conference of the American Association of University Professors
+      (AAUP). A Struggle on Steeply Hierarchical Terrain The U.S. system of universities
+      and colleges is tremendously diverse in terms of student and faculty population,
+      needs, and structure, even among public institutions in a single state. Take Georgia,
+      for example. Although the whole concept of “higher education” is under attack,
+      Matthew Boedy, professor of rhetoric at University of North Georgia and president
+      of the Georgia Conference of the AAUP, says the situation at Georgia Tech and
+      University of Georgia is vastly different from the chilling effect that faculty
+      experience at his school. “You have that sense that you don’t want to draw attention
+      to yourself in the same manner that UGA or Georgia Tech could.” It’s not as if
+      everything is hunky-dory at flagship public institutions — they are facing attacks
+      as well — but these schools, with beloved football teams, are well-known among
+      the public in the state. Meanwhile, less prestigious schools like the five-campus
+      University of North Georgia are easier for legislators to defund and hobble without
+      much public backlash, so they have to fight harder for every dollar. At the same
+      time, scholars working at less elite schools, like regional comprehensives, tend
+      to hold less power and visibility within their academic disciplines and in the
+      academy as a whole. The schools where most faculty work are, as a result, more
+      beleaguered and receive less media coverage. Faculty at these schools teach more
+      classes per semester (four or five as opposed to one or two) and overall receive
+      much less research funding. Very few of these schools were doing race-conscious
+      admissions to start with because their overall acceptance rates are much higher.
+      Brianne Kramer, a professor of education and American Federation of Teachers (AFT)
+      chapter president at Southern Utah University, has been lobbying the state legislature
+      for both funding and to limit the damage of the harshest legislation against diversity
+      practices. Kramer says the first step to lobbying is to make sure state legislators
+      know what her and her colleagues do on a day-to-day basis as faculty at a regional
+      university. On Kramer’s campus, the onslaught did not begin this January with
+      Trump. Statewide legislation in Utah, where a Republican supermajority controls
+      politics, had already banned DEI on university campuses and forced campuses to
+      commit to neutrality pledges, a vague set of guidelines indicating that educational
+      institutions, or units within them, cannot take political positions. But now that
+      similar moves are being made at the federal level, Kramer says, “I don’t know
+      that there will be any institution that is untouched…. I don’t mean that Trump
+      is going to come into every single, like, tiny little regional and take over.
+      But I do think that what is going to happen is that chilling effect that we’ve
+      been seeing in states is going to happen nationwide.” “Hostage-Taking” in Research
+      Institutions Meanwhile, large research institutions (R1s) have been targeted by
+      Department of Justice and Department of Education investigations that freeze federal
+      funds. Driven originally by the hearings on campus antisemitism held by the House
+      Committee on Education and Workforce , many of these Department of Education investigations
+      began under the Biden administration in response to pro-Palestine protests on
+      campuses. The process has expanded under Trump into what Tim Gibson, associate
+      professor of communication and vice president of George Mason University AAUP,
+      describes as a “hostage-taking” strategy of gaining top-down control of academic
+      institutions. “It’s a collective action problem,” says Kathy Forde, co-founder
+      of Stand Together for Higher Ed . High-level administrators are “being influenced
+      by boards of trustees and by their commitments to try to keep as many faculty
+      and staff employed.” Stand Together for Higher Ed, formed in 2025, is an outgrowth
+      of the Mutual Academic Defense Compacts (MADC), a movement that started among
+      faculty of Big Ten universities to pressure university leadership to commit to
+      solidarity with other similar campuses and refuse to capitulate to the administration’s
+      demands. The idea is that each university administrator may be individually afraid
+      of the consequences of standing up to the White House, but leadership across universities
+      hold more power if they collectively agree to refuse the DOJ’s demands for curricular
+      and intellectual concessions. While Stand Together for Higher Ed includes and
+      encourages the participation of administrators, the group is pivoting its work
+      to empower small groups of faculty on campus nationwide to embrace the model as
+      one more way to try to fight authoritarian overreach onto college campuses. Forde
+      says “we want to build the largest big tent movement that we possibly can. … We
+      still support [MADCs], but we’re pivoting away from that to say, look, build small
+      stand together teams on your campuses so that we can work collectively.” Forde
+      and her co-founder Jennifer Lundquist envision the group less as a political base
+      for organizing public messaging campaigns, and more as a vehicle to defend higher
+      education. Some faculty are skeptical that upper-level administrators are in fact
+      being forced by the Trump administration, noting that many of the concessions
+      signed at major research universities so far are things that administrators have
+      long desired. “So much of this is stuff that university administrators have been
+      chomping at the bit for,” says Kramer. Union? Maybe! Unionization is one response
+      strategy, and by all accounts 2025 has so far been a banner year for recruiting
+      new faculty union members. AAUP, one of the major national unions on campuses,
+      has a long history that predates the current crisis. The AAUP holds a dual orientation:
+      It is a professional association that advocates for the profession as a whole,
+      but many of its chapters are also collective bargaining units. With its affiliation
+      with the AFT in 2022, the AAUP is more explicitly pushing for wall-to-wall unionization,
+      or union efforts to organize all workers on campus without distinction between
+      tenured faculty, adjunct faculty, staff, hourly workers, and so on. Robert Cassanello,
+      associate professor of history at University of Central Florida and president
+      of United Faculty of Florida, says that as a new union president, he’s had to
+      bridge the gap between the ideas of a “bread and butter” or “social activist”
+      union. Cassanello says that previously, many UFF members felt that the union’s
+      job was just to negotiate the contract and not worry too much about DEI or social
+      issues. But over the last few years, the union has experienced a big change. Now,
+      most members realize, he says, “we need a social activist. Because ‘bread and
+      butter’ is not going to cut it in the climate that we have anymore…. I think people
+      kind of expect the union to be out there, to be in the forefront, to fight, you
+      know, to engage in a higher ed labor movement.” Traditionally, the AAUP has focused
+      on two key planks: academic freedom and shared governance. In the university context,
+      shared governance means faculty’s right to co-govern the university with its senior
+      leadership and governing board. Not everyone is on board with the turn toward
+      explicit unionization. In some states, public workers have no collective bargaining
+      rights, or the certification process for a bargaining unit is extremely difficult.
+      Faculty at private universities hold an ambiguous status with the National Labor
+      Relations Board and face a difficult road to collective bargaining if the institution
+      opposes them. Finally, many faculty are simply wary of calling themselves workers
+      and do not see a union as something that applies to them. “We are not organizing
+      a union here,” says Boedy of the AAUP Georgia Conference. “There’s so many steps
+      that have to happen to get that and we don’t have that type of interest yet from
+      people across the campus.” Boggs in North Carolina says that although she likes
+      the union language, “we’re comfortable with however people want to think about
+      it, as a professional organization or as a union.” Some faculty that are already
+      strongly unionized, like Jenna Chernega, president of Inter Faculty Organization
+      in Minnesota and a professor of sociology at Winona State University, have joined
+      with the coalition Higher Ed Labor United (HELU), a newer group focused on building
+      coalitions of different types of workers on campus and working across the unions
+      that represent higher ed workers. Chernega says that as a statewide union with
+      a relatively safe local context, the Inter Faculty Organization was interested
+      in finding an avenue to advocate on a federal or national level where threats
+      are most likely to originate. As a national coalition, HELU provides that. Saving
+      the Institutions That Exist, But Organizing for Something Better In the growing
+      fascist context in the U.S., many people are being put in a position to defend
+      flawed institutions and policies — and universities are no exception. At George
+      Mason University in Virginia, faculty successfully rallied to the defense of university
+      president Gregory Washington, who came under fire as the Trump administration
+      opened four investigations into the school’s diversity practices. Gibson says
+      although faculty in the AAUP chapter have had major differences with Washington,
+      it’s “not okay to force out a president through these kind of tactics and to have
+      a federal government tell us how to govern and run a state university.” It is
+      important, Gibson says, for faculty to work together to stop the Trump administration
+      and its cronies from installing “loyalists” to run their institutions. Timothy
+      Kaufman-Osborn, professor emeritus of politics and leadership at Whitman College
+      and caucus co-chair with the Coalition for Action in Higher Ed (CAHE), says the
+      U.S. university system is and always has been authoritarian; universities both
+      public and private are governed by a board of external stakeholders with the power
+      to overrule anyone inside the institution. While state takeover of governance
+      boards is certainly worse in most cases than the status quo, Kaufman-Osborn says
+      that shared governance is an already severely compromised ideal, and should not
+      be the ultimate goal. At the same time faculty are scrambling to “safeguard what
+      we have not yet lost” — such as fighting expanded state control of governance
+      boards and institutions — Kaufman-Osborn says it’s also important not to remain
+      in a “defensive crouch” that leaves them unable to imagine anything better. While
+      faculty like those at George Mason may need to organize to fight off a right-wing
+      takeover of the university, Kaufman-Osborn is also working with those in CAHE
+      to “nurture our collective capacity to imagine a very different university than
+      the one we inhabit today.” The situation seems dire and the odds of success for
+      faculty at the moment seem low. Yet faculty are undeterred. The mood among faculty
+      organizers is that you have to fight to win, but you still have to fight even
+      if you can’t win. Note: Opinions expressed by sources in this story are their
+      own and do not express the views or opinions of their employers. Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . October Krausch
+      October Krausch , Ph.D., is a public sociologist, activist and writer in the Detroit
+      metro area. Their writing has been published in Truthout, In These Times, Inside
+      Higher Ed and The Progressive , among others. They have been involved in a range
+      of community movements including anti-eviction movements, free schools, independent
+      media and Latin American solidarity work, and are currently facilitating the Abolitionist
+      Book Club, an inside/outside reading group with members of the Black Prisoners
+      Caucus. Always working to balance love and rage, October finds freedom in the
+      struggle. Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: A political struggle over diversity practices and neutrality
+      pledges is intensifying on university campuses in the U.S., particularly in North
+      Carolina and Utah, amid ongoing debates surrounding higher education and recent
+      pro-Palestine protests.
+    paragraph_summary: The article discusses the escalating political struggle on university
+      campuses in the U.S., particularly in the wake of mass pro-Palestine protests
+      and right-wing attacks on diversity, equity, and inclusion (DEI) practices. It
+      highlights the formation of closed-door committees in North Carolina to investigate
+      the elimination of DEI initiatives, neutrality pledges in Utah, and changes in
+      accreditation processes led by Florida Governor Ron DeSantis. The piece emphasizes
+      that these developments are part of a broader trend accelerated by the Trump administration's
+      executive orders and subsequent federal investigations, which have intensified
+      existing pressures on higher education institutions facing austerity measures.
+      Faculty members are struggling to navigate this crisis amid a climate of anti-intellectualism
+      and authoritarian control from the government.
+    published: '2025-09-09T09:10:00+00:00'
+  - title: Spain Announces Arms Embargo on Israel and Other Steps ‘to Stop the Genocide
+      in Gaza’
+    url: https://scheerpost.com/2025/09/09/spain-announces-arms-embargo-on-israel-and-other-steps-to-stop-the-genocide-in-gaza/
+    text: 'Spanish Prime Minister Pedro Sánchez. Arne Müseler / http://www.arne-mueseler.com
+      , CC BY-SA 3.0 DE https://creativecommons.org/licenses/by-sa/3.0/de/deed.en ,
+      via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Brett Wilkins / Common Dreams Spanish Prime Minister Pedro Sánchez
+      on Monday announced a series of nine new measures—including a total arms embargo—aimed
+      at pressuring the government of fugitive Israeli Prime Minister Benjamin Netanyahu
+      “to stop the genocide in Gaza .” Sánchez, who leads the Spanish Socialist Workers’
+      Party (PSOE), announced the steps during a speech in which he first acknowledged
+      the historical suffering of the Jewish people, which includes the 1492 ethnic
+      cleansing of Jews from Spain. “The Jewish people have suffered countless persecutions,
+      deserve to have their own state, and to feel secure,” Sánchez said. “That is why
+      the Spanish government has condemned Hamas’ attacks from day one.” However, “there
+      is a difference between defending your country and bombing hospitals or starving
+      innocent children,” the prime minister continued. “This is an unjustifiable attack
+      on the civilian population, which the [United Nations] rapporteur has described
+      as genocide.” “Sixty thousand dead, two million displaced, half of them children,”
+      Sánchez said. “This is not self-defense, it is not even an attack—it is the extermination
+      of a defenseless people and a violation of every international law.” España está
+      y estará en el lado correcto de la historia. Damos un paso más y emprendemos nueve
+      acciones adicionales para detener el genocidio en Gaza, perseguir a sus ejecutores
+      y apoyar al pueblo palestino. pic.twitter.com/GIk8XoWWO6 — Pedro Sánchez (@sanchezcastejon)
+      September 8, 2025 The nine measures—which must be approved by lawmakers and the
+      Cabinet—include: A “legal and permanent prohibition” on the purchase and sale
+      of weapons, ammunition, and military equipment; A ban on transit through Spanish
+      ports for all ships carrying fuels destined for Israel’s military; Denial of entry
+      into Spanish airspace for all state aircraft carrying military equipment to Israel
+      ; A ban on entry to Spain for “all persons directly involved in genocide, human
+      rights violations, and war crimes” in Gaza; Prohibition of imported products from
+      illegal settlements in the occupied Palestinian territories; Limitation of consular
+      services for Spanish citizens residing in illegal Israeli settlements; Strengthened
+      support for the Palestinian Authority; An additional €10 million in support for
+      the United Nations Relief and Works Agency for Palestine Refugees in the Near
+      East (UNRWA); and An increase in overall humanitarian spending for Gaza, to reach
+      €150 million by 2026. “Spain does not have nuclear bombs. We cannot stop the Israeli
+      offensive alone, but we will not stop trying,” Sánchez said, recognizing the limitations
+      of Monday’s action. Spain’s new measures come in addition to its earlier steps
+      toward an arms embargo, promotion of several UN ceasefire resolutions, support
+      for the International Criminal Court’s (ICC) effort to bring Netanyahu to justice
+      and the International Court of Justice’s (ICJ) ongoing South Africa-led genocide
+      case against Israel, and formal recognition of Palestinian statehood. Individual
+      Spanish politicians have also taken action for Palestine, including former Social
+      Rights Minister Ione Belarra, an early proponent for ICC prosecution of Netanyahu
+      and others; former leftist lawmaker and Palma City Councilmember Lucia Muñoz,
+      a participant in the Global Sumud Flotilla ; and former Barcelona Mayor Ada Colau,
+      another flotilla member whose city cut ties with Israel prior to the Gaza genocide
+      over “the crime of apartheid against the Palestinian people.” The Global Sumud
+      Flotilla—whose other members include Mandla Mandela , Susan Sarandon, and Swedish
+      climate activist Greta Thunberg— set sail from Barcelona last month and was warmly
+      welcomed Sunday upon a stopover in Tunis , Tunisia en route to the coast of Gaza,
+      where activists will attempt to break an Israeli blockade and deliver desperately
+      needed humanitarian aid. The Israeli government responded to Sánchez’s announcement
+      with its customary allegation of antisemitism and an entry ban on Deputy Prime
+      Minister Yolanda Díaz and Youth Minister Sira Rego. “It is a point of pride that
+      a genocidal state is banning me,” said Díaz, a member of the Communist Party of
+      Spain and Sumar movement. Spain subsequently recalled its ambassador from Tel
+      Aviv. The Spanish Foreign Ministry said the government “would not be intimidated
+      in its defense of peace, international law, and human rights.” According to figures
+      from the Gaza Health Ministry—which experts contend are likely a vast undercount—at
+      least 64,522 Palestinians have been killed by Israeli forces in Gaza since October
+      2023, most of them women and children. More than 163,000 others have been wounded,
+      and thousands more are missing and presumed dead and buried beneath rubble. Hundreds
+      of thousands of Gazans are starving to death in a famine largely caused by Israel’s
+      “ complete siege ” of the coastal exclave. At least hundreds of Palestinians have
+      starved to death in what hunger experts and every United Nations Security Council
+      member except the United States have called a man-made catastrophe caused by Israeli
+      policies and practices. The ICC warrants issued last year for Netanyahu and former
+      Israeli Defense Minister Yoav Gallant accuse the pair of crimes against humanity
+      and war crimes, including forced starvation and murder. On Monday, Spain also
+      condemned what it called a “terrorist attack” that left six people, including
+      Spanish citizen Yakov Pinto, dead in a mass shooting north of occupied Jerusalem.
+      Sánchez’s announcement followed pro-Palestine and anti-genocide protests in cities
+      including the capital Madrid, where demonstrators rallied outside the Israeli
+      Embassy on Saturday and shouted messages including, “It’s Not a War, It’s a Genocide!”
+      and “Israel Kills, Europe Sponsors!” GENOCIDIO EN GAZA Concentración, hoy 06/09,
+      delante de la embajada de Israel (Madrid)… "No es una guerra, es un genocidio"
+      "Israel asesina, y Europa patrocina" "Israel bombardea con bombas europeas" "Esta
+      embajada está ensangrentada" pic.twitter.com/rRH4T6zS7f — Christophe Deschamps
+      (@ChristopheDes16) September 6, 2025 On Sunday, demonstrators gathered in Madrid’s
+      Callao Square, where participants read aloud the names of many of the more than
+      18,500 Palestinian children killed by Israeli forces in Gaza, followed by the
+      word “murdered.” According to a June Pew Research Center survey, 75% of Spanish
+      respondents have a negative view of Israel, with 46%—the highest percentage of
+      any non-Muslim nation in the 24 nations polled—having a “very unfavorable” view
+      of the country. Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . Brett Wilkins Brett Wilkins is a staff writer for Common
+      Dreams. Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: Spanish Prime Minister Pedro Sánchez announced nine new measures,
+      including a total arms embargo, to pressure Israeli Prime Minister Benjamin Netanyahu
+      to halt the violence in Gaza, while also acknowledging the historical suffering
+      of the Jewish people.
+    paragraph_summary: Spanish Prime Minister Pedro Sánchez announced nine new measures,
+      including a total arms embargo, aimed at pressuring Israeli Prime Minister Benjamin
+      Netanyahu to halt what Sánchez described as genocide in Gaza. During his speech,
+      he acknowledged the historical suffering of the Jewish people while condemning
+      Hamas' attacks. However, he emphasized that the actions taken by Israel, such
+      as bombing hospitals and causing civilian casualties, are unjustifiable and constitute
+      a violation of international law. Sánchez highlighted the devastating impact of
+      the conflict, citing high death tolls and displacement, and asserted that Spain
+      stands firmly on the right side of history in supporting the Palestinian people.
+      The proposed measures require approval from lawmakers and the Cabinet.
+    published: '2025-09-09T09:05:00+00:00'
+  - title: Spain Announces Arms Embargo on Israel and Other Steps ‘to Stop the Genocide
+      in Gaza’
+    url: https://scheerpost.com/2025/09/09/spain-announces-arms-embargo-on-israel-and-other-steps-to-stop-the-genocide-in-gaza/
+    text: 'Spanish Prime Minister Pedro Sánchez. Arne Müseler / http://www.arne-mueseler.com
+      , CC BY-SA 3.0 DE https://creativecommons.org/licenses/by-sa/3.0/de/deed.en ,
+      via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Brett Wilkins / Common Dreams Spanish Prime Minister Pedro Sánchez
+      on Monday announced a series of nine new measures—including a total arms embargo—aimed
+      at pressuring the government of fugitive Israeli Prime Minister Benjamin Netanyahu
+      “to stop the genocide in Gaza .” Sánchez, who leads the Spanish Socialist Workers’
+      Party (PSOE), announced the steps during a speech in which he first acknowledged
+      the historical suffering of the Jewish people, which includes the 1492 ethnic
+      cleansing of Jews from Spain. “The Jewish people have suffered countless persecutions,
+      deserve to have their own state, and to feel secure,” Sánchez said. “That is why
+      the Spanish government has condemned Hamas’ attacks from day one.” However, “there
+      is a difference between defending your country and bombing hospitals or starving
+      innocent children,” the prime minister continued. “This is an unjustifiable attack
+      on the civilian population, which the [United Nations] rapporteur has described
+      as genocide.” “Sixty thousand dead, two million displaced, half of them children,”
+      Sánchez said. “This is not self-defense, it is not even an attack—it is the extermination
+      of a defenseless people and a violation of every international law.” España está
+      y estará en el lado correcto de la historia. Damos un paso más y emprendemos nueve
+      acciones adicionales para detener el genocidio en Gaza, perseguir a sus ejecutores
+      y apoyar al pueblo palestino. pic.twitter.com/GIk8XoWWO6 — Pedro Sánchez (@sanchezcastejon)
+      September 8, 2025 The nine measures—which must be approved by lawmakers and the
+      Cabinet—include: A “legal and permanent prohibition” on the purchase and sale
+      of weapons, ammunition, and military equipment; A ban on transit through Spanish
+      ports for all ships carrying fuels destined for Israel’s military; Denial of entry
+      into Spanish airspace for all state aircraft carrying military equipment to Israel
+      ; A ban on entry to Spain for “all persons directly involved in genocide, human
+      rights violations, and war crimes” in Gaza; Prohibition of imported products from
+      illegal settlements in the occupied Palestinian territories; Limitation of consular
+      services for Spanish citizens residing in illegal Israeli settlements; Strengthened
+      support for the Palestinian Authority; An additional €10 million in support for
+      the United Nations Relief and Works Agency for Palestine Refugees in the Near
+      East (UNRWA); and An increase in overall humanitarian spending for Gaza, to reach
+      €150 million by 2026. “Spain does not have nuclear bombs. We cannot stop the Israeli
+      offensive alone, but we will not stop trying,” Sánchez said, recognizing the limitations
+      of Monday’s action. Spain’s new measures come in addition to its earlier steps
+      toward an arms embargo, promotion of several UN ceasefire resolutions, support
+      for the International Criminal Court’s (ICC) effort to bring Netanyahu to justice
+      and the International Court of Justice’s (ICJ) ongoing South Africa-led genocide
+      case against Israel, and formal recognition of Palestinian statehood. Individual
+      Spanish politicians have also taken action for Palestine, including former Social
+      Rights Minister Ione Belarra, an early proponent for ICC prosecution of Netanyahu
+      and others; former leftist lawmaker and Palma City Councilmember Lucia Muñoz,
+      a participant in the Global Sumud Flotilla ; and former Barcelona Mayor Ada Colau,
+      another flotilla member whose city cut ties with Israel prior to the Gaza genocide
+      over “the crime of apartheid against the Palestinian people.” The Global Sumud
+      Flotilla—whose other members include Mandla Mandela , Susan Sarandon, and Swedish
+      climate activist Greta Thunberg— set sail from Barcelona last month and was warmly
+      welcomed Sunday upon a stopover in Tunis , Tunisia en route to the coast of Gaza,
+      where activists will attempt to break an Israeli blockade and deliver desperately
+      needed humanitarian aid. The Israeli government responded to Sánchez’s announcement
+      with its customary allegation of antisemitism and an entry ban on Deputy Prime
+      Minister Yolanda Díaz and Youth Minister Sira Rego. “It is a point of pride that
+      a genocidal state is banning me,” said Díaz, a member of the Communist Party of
+      Spain and Sumar movement. Spain subsequently recalled its ambassador from Tel
+      Aviv. The Spanish Foreign Ministry said the government “would not be intimidated
+      in its defense of peace, international law, and human rights.” According to figures
+      from the Gaza Health Ministry—which experts contend are likely a vast undercount—at
+      least 64,522 Palestinians have been killed by Israeli forces in Gaza since October
+      2023, most of them women and children. More than 163,000 others have been wounded,
+      and thousands more are missing and presumed dead and buried beneath rubble. Hundreds
+      of thousands of Gazans are starving to death in a famine largely caused by Israel’s
+      “ complete siege ” of the coastal exclave. At least hundreds of Palestinians have
+      starved to death in what hunger experts and every United Nations Security Council
+      member except the United States have called a man-made catastrophe caused by Israeli
+      policies and practices. The ICC warrants issued last year for Netanyahu and former
+      Israeli Defense Minister Yoav Gallant accuse the pair of crimes against humanity
+      and war crimes, including forced starvation and murder. On Monday, Spain also
+      condemned what it called a “terrorist attack” that left six people, including
+      Spanish citizen Yakov Pinto, dead in a mass shooting north of occupied Jerusalem.
+      Sánchez’s announcement followed pro-Palestine and anti-genocide protests in cities
+      including the capital Madrid, where demonstrators rallied outside the Israeli
+      Embassy on Saturday and shouted messages including, “It’s Not a War, It’s a Genocide!”
+      and “Israel Kills, Europe Sponsors!” GENOCIDIO EN GAZA Concentración, hoy 06/09,
+      delante de la embajada de Israel (Madrid)… "No es una guerra, es un genocidio"
+      "Israel asesina, y Europa patrocina" "Israel bombardea con bombas europeas" "Esta
+      embajada está ensangrentada" pic.twitter.com/rRH4T6zS7f — Christophe Deschamps
+      (@ChristopheDes16) September 6, 2025 On Sunday, demonstrators gathered in Madrid’s
+      Callao Square, where participants read aloud the names of many of the more than
+      18,500 Palestinian children killed by Israeli forces in Gaza, followed by the
+      word “murdered.” According to a June Pew Research Center survey, 75% of Spanish
+      respondents have a negative view of Israel, with 46%—the highest percentage of
+      any non-Muslim nation in the 24 nations polled—having a “very unfavorable” view
+      of the country. Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . Brett Wilkins Brett Wilkins is a staff writer for Common
+      Dreams. Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: Spanish Prime Minister Pedro Sánchez announced nine new measures,
+      including a total arms embargo, to pressure Israeli Prime Minister Benjamin Netanyahu
+      to halt the violence in Gaza, while also acknowledging the historical suffering
+      of the Jewish people.
+    paragraph_summary: Spanish Prime Minister Pedro Sánchez announced nine new measures,
+      including a total arms embargo, aimed at pressuring Israeli Prime Minister Benjamin
+      Netanyahu to halt what Sánchez described as genocide in Gaza. During his speech,
+      he acknowledged the historical suffering of the Jewish people while condemning
+      Hamas' attacks. However, he emphasized that the actions taken by Israel, such
+      as bombing hospitals and causing civilian casualties, are unjustifiable and constitute
+      a violation of international law. Sánchez highlighted the devastating impact of
+      the conflict, citing high death tolls and displacement, and asserted that Spain
+      stands firmly on the right side of history in supporting the Palestinian people.
+      The proposed measures require approval from lawmakers and the Cabinet.
+    published: '2025-09-09T09:05:00+00:00'
+  - title: Palestinians in the West Bank Brace for Israeli Retaliation After Six Israelis
+      Killed in Jerusalem Shooting
+    url: https://scheerpost.com/2025/09/09/palestinians-in-the-west-bank-brace-for-israeli-retaliation-after-six-israelis-killed-in-jerusalem-shooting/
+    text: 'Israeli Prime Minister Benjamin Netanyahu (centter) and Israeli National
+      Security Minister Itamar Ben-Gvir (right) at the site of a shooting attack in
+      Jerusalem, September 8, 2025. (Photo: Screenshot from Israeli Prime Minister Youtube
+      Channel) In one of the scariest moments in modern history, we''re doing our best
+      at ScheerPost to pierce the fog of lies that conceal it but we need some help
+      to pay our writers and staff. Please consider a tax-deductible donation . By Qassam
+      Muaddi / Mondoweiss Six Israelis were killed and 17 others were wounded in a shooting
+      attack in Jerusalem on Monday, Israeli media reported. According to the Israeli
+      Police, two Palestinian men in their twenties from the towns of Qatanna and Qebeibeh,
+      northwest of Jerusalem, allegedly entered a bus at the Ramot Junction in Jerusalem
+      and opened fire at passengers. The men then exited the bus and clashed with armed
+      Israelis before being shot dead. The Palestinian towns of Qatanna and Qebeibeh
+      are part of the northwest Jerusalem villages, which Israel has isolated from the
+      city through the separation wall, excluding the dense Palestinian population of
+      the area from the Palestinian capital. It remains unclear how both shooters were
+      able to enter Jerusalem. The men were later identified as students at Birzeit
+      University north of Ramallah, according to a statement by the Birzeit student
+      movement. The university announced that classes on campus would be suspended for
+      the day. At the site of the attack, Israeli Prime Minister Benjamin Netanyahu
+      told the media that Israel was going to “continue its mission in Gaza,” as well
+      as “in Judea and Samaria,” using the Zionist term for the occupied West Bank.
+      The Israeli PM stressed that Israel would “increase its operations” in the territory
+      following the attack. Standing beside Netanyahu at the site of the attack, Israel’s
+      hardline National Security Minister Itamar Ben-Gvir took the opportunity to slam
+      the Israeli Supreme Court, which ruled yesterday to ease the detention conditions
+      of Palestinian prisoners in Israeli jails. “This sends a [positive] message to
+      the terrorists, that their detention conditions will be eased,” Ben-Gvir said,
+      adding that Israel will “increase the arming of Israelis, and will punish the
+      families of terrorists.” Israel regularly practices policies of collective punishment
+      against the families of Palestinians who have carried out attacks against Israel,
+      including punitive home demolitions of the family homes of suspected attackers.
+      Adding to Ben-Gvir’s statements, Netanyahu said that “we are all at war, and you,
+      too, are at war,” addressing the Israeli Supreme Court. “We will not change the
+      detention conditions of terrorists,” he added. The far-right minister has been
+      behind a series of decisions hardening the detention conditions of Palestinians
+      in Israeli jails since he took the position as Minister of National Security in
+      2022. This included reducing food quantity and quality, overcrowding in cells,
+      reducing yard time to one hour a day, deliberate medical neglect, and banning
+      all family visitations. After October 7, prison conditions worsened dramatically
+      , as the use of systematic torture, rape , beatings, and cruel and degrading treatment
+      became a regular feature of Israeli detention facilities, which have been likened
+      to “ torture camps .” These measures impact more than 10,000 Palestinians in Israeli
+      jails, 3,500 of whom are detained without charges, and only 550 of whom are serving
+      charges for acts that have resulted in the death of Israelis. Collective punishment
+      as Israeli annexation and displacement policy continues In Qatanna and Qebeibeh,
+      Israeli forces invaded both towns, sealing them off and surrounding the homes
+      of the shooters’ families. Israeli forces raided several homes in both towns and
+      arrested a number of Palestinians, including the father of one of the slain shooters.
+      In each town, Israeli soldiers conducted field interrogations. Israeli forces
+      also closed the only tell road that allows Palestinians to connect the northwest
+      Jerusalem villages and the rest of the West Bank, isolating the area entirely.
+      The attack on Monday is the first shooting carried out by Palestinians from the
+      West Bank since January, at the height of the Israeli offensive that led to the
+      complete depopulation of the Jenin refugee camp and the expulsion of thousands
+      of Palestinian families from the Tulkarem and Nur Shams refugee camps. During
+      the past eight months, Israel has ramped up its crackdown on Palestinians in the
+      West Bank, arresting thousands, raiding towns and cities, imposing more than 900
+      checkpoints, iron gates, and road blocks, and revoking working permits. Israeli
+      settler violence has also skyrocketed during the past months, claiming the lives
+      of at least six Palestinians since June. Israel has also expanded its settlements
+      in the West Bank, confiscating thousands of dunams of land and approving the building
+      of 22 new settlements. Meanwhile, the Israeli Knesset passed a law last July allowing
+      the government to annex the West Bank, with the Israeli government discussing
+      annexation twice since late August. Hardline Israeli Finance Minister Bezalel
+      Smotrich, who runs the body in charge of administering the West Bank, proposed
+      a map to annex over 82% of the West Bank last week, including Bethlehem. Following
+      the attack on Monday, Smotrich called on the villages of the shooters to be wiped
+      out, and for further punishment of the Palestinian Authority, which governs the
+      West Bank. Israeli offensives in the West Bank have so far displaced over 42,000
+      Palestinians in the northern West Bank cities, according to UNRWA. The Israeli
+      army and Israeli settlers have also displaced at least 12,000 Palestinian Bedouins
+      from 62 Bedouin communities in the Jordan Valley, according to the al-Baidar Organization
+      for the Defense of Bedouin Rights. In January, Israeli internal intelligence issued
+      a warning of a potential “explosion of the situation” in the West Bank, under
+      the pressure of military and economic restrictions. In late August, the head of
+      the Palestinian Studies Forum at the Moshe Dayan Center, Michael Milstein, told
+      the Israeli daily Yediot Ahronot that the West Bank was going through a “silent
+      tsunami” that was transforming the territory under Israeli pressure. The academic
+      added that Palestinians in the West Bank have been “maintaining silence, which
+      reflects their despair towards the political situation and their political leadership,
+      pushing more among them to support a one-state solution.” In late August, the
+      Palestinian President’s office warned in a statement that Israel was “pushing
+      towards the explosion of the situation in the West Bank” in order to expel Palestinians.
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Qassam Muaddi Qassam Muaddi is the Palestine Staff Writer for Mondoweiss.
+      Follow him on Twitter/X at @QassaMMuaddi . Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: A shooting attack in Jerusalem on September 8, 2025, resulted
+      in the deaths of six Israelis and injuries to 17 others, with two Palestinian
+      suspects reportedly opening fire on a bus before being killed in a confrontation.
+    paragraph_summary: A shooting attack in Jerusalem on September 8, 2025, resulted
+      in the deaths of six Israelis and injuries to 17 others, as two Palestinian men
+      opened fire on a bus at Ramot Junction before being killed in a subsequent confrontation.
+      The attackers, identified as students from Birzeit University, hailed from Palestinian
+      towns that have been isolated from Jerusalem by a separation wall. Following the
+      incident, Israeli Prime Minister Benjamin Netanyahu announced plans to intensify
+      military operations in Gaza and the West Bank, while National Security Minister
+      Itamar Ben-Gvir criticized the Israeli Supreme Court for its recent rulings. The
+      attack has raised questions about security and the ability of individuals from
+      isolated Palestinian areas to enter Jerusalem.
+    published: '2025-09-09T09:00:00+00:00'
+  - title: Palestinians in the West Bank Brace for Israeli Retaliation After Six Israelis
+      Killed in Jerusalem Shooting
+    url: https://scheerpost.com/2025/09/09/palestinians-in-the-west-bank-brace-for-israeli-retaliation-after-six-israelis-killed-in-jerusalem-shooting/
+    text: 'Israeli Prime Minister Benjamin Netanyahu (centter) and Israeli National
+      Security Minister Itamar Ben-Gvir (right) at the site of a shooting attack in
+      Jerusalem, September 8, 2025. (Photo: Screenshot from Israeli Prime Minister Youtube
+      Channel) In one of the scariest moments in modern history, we''re doing our best
+      at ScheerPost to pierce the fog of lies that conceal it but we need some help
+      to pay our writers and staff. Please consider a tax-deductible donation . By Qassam
+      Muaddi / Mondoweiss Six Israelis were killed and 17 others were wounded in a shooting
+      attack in Jerusalem on Monday, Israeli media reported. According to the Israeli
+      Police, two Palestinian men in their twenties from the towns of Qatanna and Qebeibeh,
+      northwest of Jerusalem, allegedly entered a bus at the Ramot Junction in Jerusalem
+      and opened fire at passengers. The men then exited the bus and clashed with armed
+      Israelis before being shot dead. The Palestinian towns of Qatanna and Qebeibeh
+      are part of the northwest Jerusalem villages, which Israel has isolated from the
+      city through the separation wall, excluding the dense Palestinian population of
+      the area from the Palestinian capital. It remains unclear how both shooters were
+      able to enter Jerusalem. The men were later identified as students at Birzeit
+      University north of Ramallah, according to a statement by the Birzeit student
+      movement. The university announced that classes on campus would be suspended for
+      the day. At the site of the attack, Israeli Prime Minister Benjamin Netanyahu
+      told the media that Israel was going to “continue its mission in Gaza,” as well
+      as “in Judea and Samaria,” using the Zionist term for the occupied West Bank.
+      The Israeli PM stressed that Israel would “increase its operations” in the territory
+      following the attack. Standing beside Netanyahu at the site of the attack, Israel’s
+      hardline National Security Minister Itamar Ben-Gvir took the opportunity to slam
+      the Israeli Supreme Court, which ruled yesterday to ease the detention conditions
+      of Palestinian prisoners in Israeli jails. “This sends a [positive] message to
+      the terrorists, that their detention conditions will be eased,” Ben-Gvir said,
+      adding that Israel will “increase the arming of Israelis, and will punish the
+      families of terrorists.” Israel regularly practices policies of collective punishment
+      against the families of Palestinians who have carried out attacks against Israel,
+      including punitive home demolitions of the family homes of suspected attackers.
+      Adding to Ben-Gvir’s statements, Netanyahu said that “we are all at war, and you,
+      too, are at war,” addressing the Israeli Supreme Court. “We will not change the
+      detention conditions of terrorists,” he added. The far-right minister has been
+      behind a series of decisions hardening the detention conditions of Palestinians
+      in Israeli jails since he took the position as Minister of National Security in
+      2022. This included reducing food quantity and quality, overcrowding in cells,
+      reducing yard time to one hour a day, deliberate medical neglect, and banning
+      all family visitations. After October 7, prison conditions worsened dramatically
+      , as the use of systematic torture, rape , beatings, and cruel and degrading treatment
+      became a regular feature of Israeli detention facilities, which have been likened
+      to “ torture camps .” These measures impact more than 10,000 Palestinians in Israeli
+      jails, 3,500 of whom are detained without charges, and only 550 of whom are serving
+      charges for acts that have resulted in the death of Israelis. Collective punishment
+      as Israeli annexation and displacement policy continues In Qatanna and Qebeibeh,
+      Israeli forces invaded both towns, sealing them off and surrounding the homes
+      of the shooters’ families. Israeli forces raided several homes in both towns and
+      arrested a number of Palestinians, including the father of one of the slain shooters.
+      In each town, Israeli soldiers conducted field interrogations. Israeli forces
+      also closed the only tell road that allows Palestinians to connect the northwest
+      Jerusalem villages and the rest of the West Bank, isolating the area entirely.
+      The attack on Monday is the first shooting carried out by Palestinians from the
+      West Bank since January, at the height of the Israeli offensive that led to the
+      complete depopulation of the Jenin refugee camp and the expulsion of thousands
+      of Palestinian families from the Tulkarem and Nur Shams refugee camps. During
+      the past eight months, Israel has ramped up its crackdown on Palestinians in the
+      West Bank, arresting thousands, raiding towns and cities, imposing more than 900
+      checkpoints, iron gates, and road blocks, and revoking working permits. Israeli
+      settler violence has also skyrocketed during the past months, claiming the lives
+      of at least six Palestinians since June. Israel has also expanded its settlements
+      in the West Bank, confiscating thousands of dunams of land and approving the building
+      of 22 new settlements. Meanwhile, the Israeli Knesset passed a law last July allowing
+      the government to annex the West Bank, with the Israeli government discussing
+      annexation twice since late August. Hardline Israeli Finance Minister Bezalel
+      Smotrich, who runs the body in charge of administering the West Bank, proposed
+      a map to annex over 82% of the West Bank last week, including Bethlehem. Following
+      the attack on Monday, Smotrich called on the villages of the shooters to be wiped
+      out, and for further punishment of the Palestinian Authority, which governs the
+      West Bank. Israeli offensives in the West Bank have so far displaced over 42,000
+      Palestinians in the northern West Bank cities, according to UNRWA. The Israeli
+      army and Israeli settlers have also displaced at least 12,000 Palestinian Bedouins
+      from 62 Bedouin communities in the Jordan Valley, according to the al-Baidar Organization
+      for the Defense of Bedouin Rights. In January, Israeli internal intelligence issued
+      a warning of a potential “explosion of the situation” in the West Bank, under
+      the pressure of military and economic restrictions. In late August, the head of
+      the Palestinian Studies Forum at the Moshe Dayan Center, Michael Milstein, told
+      the Israeli daily Yediot Ahronot that the West Bank was going through a “silent
+      tsunami” that was transforming the territory under Israeli pressure. The academic
+      added that Palestinians in the West Bank have been “maintaining silence, which
+      reflects their despair towards the political situation and their political leadership,
+      pushing more among them to support a one-state solution.” In late August, the
+      Palestinian President’s office warned in a statement that Israel was “pushing
+      towards the explosion of the situation in the West Bank” in order to expel Palestinians.
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Qassam Muaddi Qassam Muaddi is the Palestine Staff Writer for Mondoweiss.
+      Follow him on Twitter/X at @QassaMMuaddi . Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: A shooting attack in Jerusalem on September 8, 2025, resulted
+      in the deaths of six Israelis and injuries to 17 others, with two Palestinian
+      suspects reportedly opening fire on a bus before being killed in a confrontation.
+    paragraph_summary: A shooting attack in Jerusalem on September 8, 2025, resulted
+      in the deaths of six Israelis and injuries to 17 others, as two Palestinian men
+      opened fire on a bus at Ramot Junction before being killed in a subsequent confrontation.
+      The attackers, identified as students from Birzeit University, hailed from Palestinian
+      towns that have been isolated from Jerusalem by a separation wall. Following the
+      incident, Israeli Prime Minister Benjamin Netanyahu announced plans to intensify
+      military operations in Gaza and the West Bank, while National Security Minister
+      Itamar Ben-Gvir criticized the Israeli Supreme Court for its recent rulings. The
+      attack has raised questions about security and the ability of individuals from
+      isolated Palestinian areas to enter Jerusalem.
+    published: '2025-09-09T09:00:00+00:00'
+  - title: 'Bob’s Newswire: September 8, 2025'
+    url: https://scheerpost.com/2025/09/08/bobs-newswire-september-8-2025/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . Epstein
+      Birthday Letter With Trump’s Signature Revealed – Wall Street Journal Lawyers
+      for Jeffrey Epstein’s estate have given Congress a copy of the birthday book put
+      together for the financier’s 50th birthday, which includes a letter with Trump’s
+      signature that he has said doesn’t exist. On Monday, House Oversight Committee
+      members confirmed that they received a copy of the birthday book including the
+      letter bearing Trump’s signature. Palestinian gunmen kill 6 people in attack on
+      Jerusalem bus stop – Associated Press JERUSALEM (AP) — Palestinian attackers opened
+      fire at a bus stop during the morning rush hour in Jerusalem on Monday, killing
+      six people and wounding another 12, according to Israeli officials. An Israeli
+      soldier and civilians who were at the scene shot and killed the two attackers,
+      said police, who later arrested a third person in connection with the shooting.
+      Footage of the attack showed dozens of people fleeing from the bus stop at a busy
+      intersection. The windshield of a bus was riddled with bullet holes and belongings
+      were scattered across the street. Why the West’s post-WWII order is being challenged
+      and how China could reshape it – South China Morning Post Today’s world has been
+      shaped by a series of major agreements and the key developments that followed
+      them towards and after the end of World War II. A number of international institutes
+      and global governing mechanisms are credited with helping to prevent another world
+      war and bring about trade globalisation over the past 80 years. South Koreans
+      feel betrayed by workforce detentions at Georgia Hyundai plant – Associated Press
+      SEOUL, South Korea (AP) — South Korea’s foreign minister departed for the U.S.
+      on Monday to finalize steps for the return of several hundred South Korean workers
+      detained in a massive immigration raid in Georgia, a spectacle that has caused
+      confusion, shock and a sense of betrayal among many in the U.S.-allied nation.
+      Argentina President Milei suffers crushing defeat in Buenos Aires provincial election
+      – Associated Press BUENOS AIRES, Argentina (AP) — Argentine President Javier Milei
+      suffered a sweeping setback on Sunday in a Buenos Aires provincial election widely
+      viewed as a political test for his libertarian party and a barometer for how it
+      will perform in crucial congressional midterms next month. Milei’s recently formed
+      La Libertad Avanza party captured just 34% of the vote in Argentina’s biggest
+      province, losing by a landslide to the left-leaning Peronist opposition , which
+      secured 47% with the majority of ballots counted late Sunday. China targets global
+      leadership in AI-driven energy sector by 2030 – South China Morning Post China’s
+      top economic planner has pledged to roll out at least five industry-specific artificial
+      intelligence (AI) models tailored for the energy sector, as Beijing seeks to speedily
+      integrate the cutting-edge technology into power grids and the coal, oil and gas
+      industries. The National Development and Reform Commission (NDRC) said it aimed
+      to introduce a framework incorporating AI into the energy sector by 2027. The
+      goal was to strengthen the links between computing power and electricity, drive
+      breakthroughs in core technologies and broaden the use of the technology. NBA
+      star LeBron James says basketball can be US-China bridge in rare state media article
+      – South China Morning Post Basketball can be a “connecting bridge” between China
+      and the United States, NBA star LeBron James said in an article in the People’s
+      Daily on Monday. “Basketball is not only a sport, but also a bridge that connects
+      us. The passion flows in our hearts,” read the article written by James. The piece
+      appeared in Chinese on the sports page of Monday’s People’s Daily, with credit
+      also given to a newspaper reporter for interviewing him and compiling the article.
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Please share this story and help us grow our network!'
+    one_sentence_summary: 'The article reports on two significant events: the revelation
+      of a birthday book for Jeffrey Epstein containing a letter signed by Donald Trump,
+      which Trump previously claimed did not exist, and a deadly shooting by Palestinian
+      gunmen at a bus stop in Jerusalem that left six people dead and twelve injured.'
+    paragraph_summary: ScheerPost is seeking financial support to continue its investigative
+      journalism amid significant global events, including the revelation of a birthday
+      book for Jeffrey Epstein that contains a letter signed by Donald Trump, contradicting
+      Trump's previous claims about its existence. In a separate incident, Palestinian
+      gunmen attacked a bus stop in Jerusalem, resulting in six fatalities and multiple
+      injuries before being neutralized by an Israeli soldier and civilians. Additionally,
+      discussions are ongoing regarding the challenges to the post-World War II international
+      order, particularly in light of China's potential influence, while South Koreans
+      express feelings of betrayal over workforce detentions at a Hyundai plant in Georgia,
+      prompting their foreign minister to travel to the U.S. for resolution.
+    published: '2025-09-08T19:40:30+00:00'
+  - title: 'Bob’s Newswire: September 8, 2025'
+    url: https://scheerpost.com/2025/09/08/bobs-newswire-september-8-2025/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . Epstein
+      Birthday Letter With Trump’s Signature Revealed – Wall Street Journal Lawyers
+      for Jeffrey Epstein’s estate have given Congress a copy of the birthday book put
+      together for the financier’s 50th birthday, which includes a letter with Trump’s
+      signature that he has said doesn’t exist. On Monday, House Oversight Committee
+      members confirmed that they received a copy of the birthday book including the
+      letter bearing Trump’s signature. Palestinian gunmen kill 6 people in attack on
+      Jerusalem bus stop – Associated Press JERUSALEM (AP) — Palestinian attackers opened
+      fire at a bus stop during the morning rush hour in Jerusalem on Monday, killing
+      six people and wounding another 12, according to Israeli officials. An Israeli
+      soldier and civilians who were at the scene shot and killed the two attackers,
+      said police, who later arrested a third person in connection with the shooting.
+      Footage of the attack showed dozens of people fleeing from the bus stop at a busy
+      intersection. The windshield of a bus was riddled with bullet holes and belongings
+      were scattered across the street. Why the West’s post-WWII order is being challenged
+      and how China could reshape it – South China Morning Post Today’s world has been
+      shaped by a series of major agreements and the key developments that followed
+      them towards and after the end of World War II. A number of international institutes
+      and global governing mechanisms are credited with helping to prevent another world
+      war and bring about trade globalisation over the past 80 years. South Koreans
+      feel betrayed by workforce detentions at Georgia Hyundai plant – Associated Press
+      SEOUL, South Korea (AP) — South Korea’s foreign minister departed for the U.S.
+      on Monday to finalize steps for the return of several hundred South Korean workers
+      detained in a massive immigration raid in Georgia, a spectacle that has caused
+      confusion, shock and a sense of betrayal among many in the U.S.-allied nation.
+      Argentina President Milei suffers crushing defeat in Buenos Aires provincial election
+      – Associated Press BUENOS AIRES, Argentina (AP) — Argentine President Javier Milei
+      suffered a sweeping setback on Sunday in a Buenos Aires provincial election widely
+      viewed as a political test for his libertarian party and a barometer for how it
+      will perform in crucial congressional midterms next month. Milei’s recently formed
+      La Libertad Avanza party captured just 34% of the vote in Argentina’s biggest
+      province, losing by a landslide to the left-leaning Peronist opposition , which
+      secured 47% with the majority of ballots counted late Sunday. China targets global
+      leadership in AI-driven energy sector by 2030 – South China Morning Post China’s
+      top economic planner has pledged to roll out at least five industry-specific artificial
+      intelligence (AI) models tailored for the energy sector, as Beijing seeks to speedily
+      integrate the cutting-edge technology into power grids and the coal, oil and gas
+      industries. The National Development and Reform Commission (NDRC) said it aimed
+      to introduce a framework incorporating AI into the energy sector by 2027. The
+      goal was to strengthen the links between computing power and electricity, drive
+      breakthroughs in core technologies and broaden the use of the technology. NBA
+      star LeBron James says basketball can be US-China bridge in rare state media article
+      – South China Morning Post Basketball can be a “connecting bridge” between China
+      and the United States, NBA star LeBron James said in an article in the People’s
+      Daily on Monday. “Basketball is not only a sport, but also a bridge that connects
+      us. The passion flows in our hearts,” read the article written by James. The piece
+      appeared in Chinese on the sports page of Monday’s People’s Daily, with credit
+      also given to a newspaper reporter for interviewing him and compiling the article.
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Please share this story and help us grow our network!'
+    one_sentence_summary: 'The article reports on two significant events: the revelation
+      of a birthday book for Jeffrey Epstein containing a letter signed by Donald Trump,
+      which Trump previously claimed did not exist, and a deadly shooting by Palestinian
+      gunmen at a bus stop in Jerusalem that left six people dead and twelve injured.'
+    paragraph_summary: ScheerPost is seeking financial support to continue its investigative
+      journalism amid significant global events, including the revelation of a birthday
+      book for Jeffrey Epstein that contains a letter signed by Donald Trump, contradicting
+      Trump's previous claims about its existence. In a separate incident, Palestinian
+      gunmen attacked a bus stop in Jerusalem, resulting in six fatalities and multiple
+      injuries before being neutralized by an Israeli soldier and civilians. Additionally,
+      discussions are ongoing regarding the challenges to the post-World War II international
+      order, particularly in light of China's potential influence, while South Koreans
+      express feelings of betrayal over workforce detentions at a Hyundai plant in Georgia,
+      prompting their foreign minister to travel to the U.S. for resolution.
+    published: '2025-09-08T19:40:30+00:00'
+  - title: US Troops in Southern Somalia Come Under ‘Indirect Fire’
+    url: https://scheerpost.com/2025/09/08/us-troops-in-southern-somalia-come-under-indirect-fire/
+    text: 'Two US Army troops from the 10th Mountain Division are shown conducting a
+      night patrol during Operation Restore Hope, Somalia  (by PHCM Terry Mitchell)
+      | Public domain In one of the scariest moments in modern history, we''re doing
+      our best at ScheerPost to pierce the fog of lies that conceal it but we need some
+      help to pay our writers and staff. Please consider a tax-deductible donation .
+      By Dave DeCamp / Antiwar.com US troops and allied forces in Kismayo, southern
+      Somalia, came under “indirect fire” on September 4, US Africa Command said in
+      a press release. The press release came after al-Shabaab said it attacked Kismayo’s
+      airport, where US personnel are based, according to Somali media . Al-Shabaab
+      claimed that it killed and wounded American troops, but AFRICOM denied that there
+      were any casualties. “There were no US or partner force injuries or casualties
+      as a result of the attack, and no damage to the base or coalition property has
+      been reported,” AFRICOM said. “Al-Shabaab routinely disseminates false and exaggerated
+      claims regarding attacks to undermine public trust. These claims should be treated
+      with skepticism.” The US military is known to coordinate airstrikes against al-Shabaab
+      from the base in Kismayo, which is located in Jubaland, Somalia’s southernmost
+      region, which has a significant al-Shabaab presence. In June of this year, the
+      US Combined Joint Task Force – Horn of Africa said US Army engineers were enhancing
+      security at the US base in Kismayo. While the US and al-Shabaab have been at war
+      for nearly two decades, al-Shabaab cited US support for Israel’s genocidal war
+      in Gaza as the reason for the attack. Back in 2020, al-Shabaab attacked a US base
+      across the border in Kenya, killing one US soldier and two American contractors.
+      The attack in Kismayo comes as the US has launched a record number of airstrikes
+      in Somalia this year and has supported US-backed government forces and African
+      Union troops in major battles against al-Shabaab. The US has been fighting against
+      al-Shabaab since the group first emerged in 2007 following the US-backed Ethiopian
+      invasion of Somalia that ousted the Islamic Courts Union, which briefly held power
+      in Mogadishu. Please share this story and help us grow our network! Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Dave DeCamp Dave
+      DeCamp is the news editor of Antiwar.com, follow him on Twitter @decampdave. Author
+      Site'
+    one_sentence_summary: On September 4, US Africa Command reported that US troops
+      in Kismayo, Somalia, were targeted by an al-Shabaab attack, which the group claimed
+      resulted in American casualties, but AFRICOM denied any injuries or damage occurred.
+    paragraph_summary: On September 4, US troops and allied forces in Kismayo, Somalia,
+      faced "indirect fire" during an attack claimed by the militant group al-Shabaab,
+      which asserted that it resulted in American casualties. However, US Africa Command
+      (AFRICOM) refuted these claims, stating there were no injuries or damage reported
+      at the base where US personnel are stationed. Al-Shabaab's attack was reportedly
+      motivated by US support for Israel amid the ongoing conflict in Gaza. The US military
+      has been actively involved in combating al-Shabaab for nearly two decades, conducting
+      airstrikes and supporting local forces, with a notable increase in military operations
+      this year.
+    published: '2025-09-08T10:00:00+00:00'
+  - title: US Troops in Southern Somalia Come Under ‘Indirect Fire’
+    url: https://scheerpost.com/2025/09/08/us-troops-in-southern-somalia-come-under-indirect-fire/
+    text: 'Two US Army troops from the 10th Mountain Division are shown conducting a
+      night patrol during Operation Restore Hope, Somalia  (by PHCM Terry Mitchell)
+      | Public domain In one of the scariest moments in modern history, we''re doing
+      our best at ScheerPost to pierce the fog of lies that conceal it but we need some
+      help to pay our writers and staff. Please consider a tax-deductible donation .
+      By Dave DeCamp / Antiwar.com US troops and allied forces in Kismayo, southern
+      Somalia, came under “indirect fire” on September 4, US Africa Command said in
+      a press release. The press release came after al-Shabaab said it attacked Kismayo’s
+      airport, where US personnel are based, according to Somali media . Al-Shabaab
+      claimed that it killed and wounded American troops, but AFRICOM denied that there
+      were any casualties. “There were no US or partner force injuries or casualties
+      as a result of the attack, and no damage to the base or coalition property has
+      been reported,” AFRICOM said. “Al-Shabaab routinely disseminates false and exaggerated
+      claims regarding attacks to undermine public trust. These claims should be treated
+      with skepticism.” The US military is known to coordinate airstrikes against al-Shabaab
+      from the base in Kismayo, which is located in Jubaland, Somalia’s southernmost
+      region, which has a significant al-Shabaab presence. In June of this year, the
+      US Combined Joint Task Force – Horn of Africa said US Army engineers were enhancing
+      security at the US base in Kismayo. While the US and al-Shabaab have been at war
+      for nearly two decades, al-Shabaab cited US support for Israel’s genocidal war
+      in Gaza as the reason for the attack. Back in 2020, al-Shabaab attacked a US base
+      across the border in Kenya, killing one US soldier and two American contractors.
+      The attack in Kismayo comes as the US has launched a record number of airstrikes
+      in Somalia this year and has supported US-backed government forces and African
+      Union troops in major battles against al-Shabaab. The US has been fighting against
+      al-Shabaab since the group first emerged in 2007 following the US-backed Ethiopian
+      invasion of Somalia that ousted the Islamic Courts Union, which briefly held power
+      in Mogadishu. Please share this story and help us grow our network! Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Dave DeCamp Dave
+      DeCamp is the news editor of Antiwar.com, follow him on Twitter @decampdave. Author
+      Site'
+    one_sentence_summary: On September 4, US Africa Command reported that US troops
+      in Kismayo, Somalia, were targeted by an al-Shabaab attack, which the group claimed
+      resulted in American casualties, but AFRICOM denied any injuries or damage occurred.
+    paragraph_summary: On September 4, US troops and allied forces in Kismayo, Somalia,
+      faced "indirect fire" during an attack claimed by the militant group al-Shabaab,
+      which asserted that it resulted in American casualties. However, US Africa Command
+      (AFRICOM) refuted these claims, stating there were no injuries or damage reported
+      at the base where US personnel are stationed. Al-Shabaab's attack was reportedly
+      motivated by US support for Israel amid the ongoing conflict in Gaza. The US military
+      has been actively involved in combating al-Shabaab for nearly two decades, conducting
+      airstrikes and supporting local forces, with a notable increase in military operations
+      this year.
+    published: '2025-09-08T10:00:00+00:00'
+  - title: 'Glenn Greenwald: Minnesota Shooting Exploited to Impose AI Mass Surveillance
+      Tool'
+    url: https://scheerpost.com/2025/09/08/glenn-greenwald-minnesota-shooting-exploited-to-impose-ai-mass-surveillance-tool/
+    text: 'By Glenn Greenwald / System Update Please share this story and help us grow
+      our network! Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . Glenn Greenwald Glenn Greenwald is a journalist, constitutional
+      lawyer, and author of four New York Times best-selling books on politics and law.
+      He broke the Snowden leaks in 2013. Greenwald currently hosts a political commentary
+      show for Rumble called “System Update.” Author Site'
+    one_sentence_summary: Glenn Greenwald emphasizes the need for independent journalism,
+      like ScheerPost, in an era where traditional media is often influenced by wealthy
+      interests, and encourages support for such platforms.
+    paragraph_summary: In his article, Glenn Greenwald emphasizes the urgent need for
+      independent journalism in an era where traditional media is increasingly influenced
+      by wealthy individuals and corporate interests. He highlights ScheerPost as a
+      vital alternative that upholds journalistic integrity and calls for support through
+      donations to help sustain such independent platforms. Greenwald, a seasoned journalist
+      known for his work on the Snowden leaks and current host of "System Update" on
+      Rumble, advocates for the importance of maintaining a free and responsible press.
+    published: '2025-09-08T09:20:00+00:00'
+  - title: 'Glenn Greenwald: Minnesota Shooting Exploited to Impose AI Mass Surveillance
+      Tool'
+    url: https://scheerpost.com/2025/09/08/glenn-greenwald-minnesota-shooting-exploited-to-impose-ai-mass-surveillance-tool/
+    text: 'By Glenn Greenwald / System Update Please share this story and help us grow
+      our network! Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . Glenn Greenwald Glenn Greenwald is a journalist, constitutional
+      lawyer, and author of four New York Times best-selling books on politics and law.
+      He broke the Snowden leaks in 2013. Greenwald currently hosts a political commentary
+      show for Rumble called “System Update.” Author Site'
+    one_sentence_summary: Glenn Greenwald emphasizes the need for independent journalism,
+      like ScheerPost, in an era where traditional media is often influenced by wealthy
+      interests, and encourages support for such platforms.
+    paragraph_summary: In his article, Glenn Greenwald emphasizes the urgent need for
+      independent journalism in an era where traditional media is increasingly influenced
+      by wealthy individuals and corporate interests. He highlights ScheerPost as a
+      vital alternative that upholds journalistic integrity and calls for support through
+      donations to help sustain such independent platforms. Greenwald, a seasoned journalist
+      known for his work on the Snowden leaks and current host of "System Update" on
+      Rumble, advocates for the importance of maintaining a free and responsible press.
+    published: '2025-09-08T09:20:00+00:00'
+  - title: 'John Burton: What Trump and Sanders Supporters Have in Common'
+    url: https://scheerpost.com/2025/09/08/john-burton-what-trump-and-sanders-supporters-have-in-common-2/
+    text: 'John L. Burton, U.S. Representative from California | Wikimedia Commons (US
+      Government Printing Office) Editor’s Note: This podcast was originally published
+      on July 22, 2016, but is being republished here in the wake of California politician
+      John Burton’s death yesterday . In one of the scariest moments in modern history,
+      we''re doing our best at ScheerPost to pierce the fog of lies that conceal it
+      but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Robert Scheer John Burton has served in California government for
+      over three decades: in the State Assembly, State Senate and in the US House of
+      Representatives. He now chairs the California Democratic Party, and in their conversation,
+      Burton tells Robert Scheer why he believes California democrats became and stayed
+      more progressive than the rest of the country. He talks about the difficulty over
+      the past several decades of campaign finance reform actually taking hold. And
+      he discusses the current election and why he thinks Trump supporters and Bernie
+      Sanders actually have a great deal in common. Credits Guest: John Burton – California
+      Democratic Party Host: Robert Scheer Producers: Joshua Scheer , Rebecca Mooney
+      Please share this story and help us grow our network! Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Robert Scheer
+      Robert Scheer, publisher of ScheerPost and award-winning journalist and author
+      of a dozen books, has a reputation for strong social and political writing over
+      his nearly 60 years as a journalist. His award-winning journalism has appeared
+      in publications nationwide—he was Vietnam correspondent and editor of Ramparts
+      magazine, national correspondent and columnist for the Los Angeles Times—and his
+      in-depth interviews with Jimmy Carter, Richard Nixon, Ronald Reagan, Bill Clinton,
+      Mikhail Gorbachev and others made headlines. He co-hosted KCRW’s political program
+      Left, Right and Center and now hosts Scheer Intelligence , an independent ScheerPost
+      podcast with people who discuss the day’s most important issues. Author Site'
+    one_sentence_summary: The article reflects on the legacy of John L. Burton, a long-serving
+      California politician who recently passed away, highlighting his contributions
+      to the state's progressive politics and his insights on campaign finance reform
+      during a conversation with Robert Scheer.
+    paragraph_summary: John L. Burton, a prominent California politician who served
+      for over three decades in various governmental roles, including the State Assembly,
+      State Senate, and U.S. House of Representatives, recently passed away. In a podcast
+      originally aired in 2016, Burton discussed with host Robert Scheer the progressive
+      nature of California Democrats compared to their national counterparts, the challenges
+      of implementing campaign finance reform, and the surprising commonalities between
+      Trump supporters and Bernie Sanders' followers. The article also highlights the
+      importance of independent journalism in the current media landscape and encourages
+      readers to support ScheerPost through donations.
+    published: '2025-09-08T07:39:10+00:00'
+  - title: 'John Burton: What Trump and Sanders Supporters Have in Common'
+    url: https://scheerpost.com/2025/09/08/john-burton-what-trump-and-sanders-supporters-have-in-common-2/
+    text: 'John L. Burton, U.S. Representative from California | Wikimedia Commons (US
+      Government Printing Office) Editor’s Note: This podcast was originally published
+      on July 22, 2016, but is being republished here in the wake of California politician
+      John Burton’s death yesterday . In one of the scariest moments in modern history,
+      we''re doing our best at ScheerPost to pierce the fog of lies that conceal it
+      but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Robert Scheer John Burton has served in California government for
+      over three decades: in the State Assembly, State Senate and in the US House of
+      Representatives. He now chairs the California Democratic Party, and in their conversation,
+      Burton tells Robert Scheer why he believes California democrats became and stayed
+      more progressive than the rest of the country. He talks about the difficulty over
+      the past several decades of campaign finance reform actually taking hold. And
+      he discusses the current election and why he thinks Trump supporters and Bernie
+      Sanders actually have a great deal in common. Credits Guest: John Burton – California
+      Democratic Party Host: Robert Scheer Producers: Joshua Scheer , Rebecca Mooney
+      Please share this story and help us grow our network! Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Robert Scheer
+      Robert Scheer, publisher of ScheerPost and award-winning journalist and author
+      of a dozen books, has a reputation for strong social and political writing over
+      his nearly 60 years as a journalist. His award-winning journalism has appeared
+      in publications nationwide—he was Vietnam correspondent and editor of Ramparts
+      magazine, national correspondent and columnist for the Los Angeles Times—and his
+      in-depth interviews with Jimmy Carter, Richard Nixon, Ronald Reagan, Bill Clinton,
+      Mikhail Gorbachev and others made headlines. He co-hosted KCRW’s political program
+      Left, Right and Center and now hosts Scheer Intelligence , an independent ScheerPost
+      podcast with people who discuss the day’s most important issues. Author Site'
+    one_sentence_summary: The article reflects on the legacy of John L. Burton, a long-serving
+      California politician who recently passed away, highlighting his contributions
+      to the state's progressive politics and his insights on campaign finance reform
+      during a conversation with Robert Scheer.
+    paragraph_summary: John L. Burton, a prominent California politician who served
+      for over three decades in various governmental roles, including the State Assembly,
+      State Senate, and U.S. House of Representatives, recently passed away. In a podcast
+      originally aired in 2016, Burton discussed with host Robert Scheer the progressive
+      nature of California Democrats compared to their national counterparts, the challenges
+      of implementing campaign finance reform, and the surprising commonalities between
+      Trump supporters and Bernie Sanders' followers. The article also highlights the
+      importance of independent journalism in the current media landscape and encourages
+      readers to support ScheerPost through donations.
+    published: '2025-09-08T07:39:10+00:00'
+  - title: 'The World Has Failed to Stop Israel. Our Only Choices Now: Leave or Die.'
+    url: https://scheerpost.com/2025/09/08/the-world-has-failed-to-stop-israel-our-only-choices-now-leave-or-die/
+    text: 'September 2024 (by Suleiman Hajji | UN Women ) In one of the scariest moments
+      in modern history, we''re doing our best at ScheerPost to pierce the fog of lies
+      that conceal it but we need some help to pay our writers and staff. Please consider
+      a tax-deductible donation . By Shahad Ali / Truthout As the Israeli army launches
+      the first phase of its latest military operation in Gaza City — aimed at fully
+      occupying the area and displacing its roughly 1 million residents to the south
+      — the city has descended into unending hell. Night after night, relentless and
+      terrifying explosions rob us of sleep. Entire neighborhoods are being invaded
+      and demolished, forcing families to flee toward an uncertain fate, while bloody
+      massacres have become a grim part of daily life. For a moment, these cruel scenes
+      harken back to the first months of the war, when Israeli forces, for the first
+      time, compelled residents of the city to flee south under threat of ground invasion.
+      The sky then looked the same as it does now — gray and thick with billowing smoke,
+      signaling imminent danger. The people’s faces reflected the same unbearable anxiety
+      and fear, only now the worry is sharper: We fear that this time we may be forced
+      to leave Gaza City forever, without ever being allowed to return. The Israeli
+      forces began their operation by intensifying military pressure along multiple
+      axes in the north, east, and south of the city, including neighborhoods such as
+      Al-Zaitoun, Tel al-Hawa, Al-Sabra, and Sheikh Radwan, with the seeming aim of
+      fully encircling the city and confining its residents to a specific area to compel
+      them to move southward. These neighborhoods have witnessed heavy shelling from
+      artillery and airstrikes, as well as the destruction of entire residential blocks
+      by Israeli robots carrying tons of explosives, in addition to intense gunfire
+      from Israeli tanks and drones. This has caused a large wave of displacement of
+      residents toward the central and western parts of the city, which are already
+      overcrowded and still considered dangerous war zones by the Israeli military.
+      The threat of invasion looms at any moment. The forced displacement has further
+      exacerbated the suffering of Palestinians in Gaza, who are already drained mentally,
+      physically, emotionally, and financially after enduring 23 months of ongoing genocide.
+      Most families in Gaza City had been displaced to the south for more than 15 months
+      and were only able to return during the ceasefire in January 2025. They have not
+      forgotten what it was like to live in tents without basic necessities. They still
+      vividly remember being displaced, bombed, and starved in areas that Israel claimed
+      were safe. Moreover, their longing for their homes and neighborhoods remains unfulfilled.
+      Many of those families tried to resist by staying in their homes, but this time
+      the Israeli forces have left them with no choice: either be killed or leave —
+      though leaving is almost as dreadful as death. Within the past week, many have
+      evacuated under heavy bombardment, and their focus on mere survival meant they
+      were unable to take even the most basic necessities, such as food, clothes, and
+      mattresses. They were later forced to repurchase these items at exorbitant prices
+      within the informal economy. Those considered “lucky” enough to salvage a few
+      belongings from their homes faced steep transportation costs — up to $150 for
+      a donkey cart and $250 for a vehicle. Adding to this suffering is the exhausting
+      struggle of homelessness. Most families in Gaza City were forced to venture into
+      the unknown, many ending up in the streets with nowhere to go. A single tent now
+      costs $1,000 — an amount far beyond the reach of most families, as the war has
+      destroyed livelihoods and driven poverty to unbearable levels. Even when a tent
+      is secured, finding space to set it up is another challenge, since the central
+      and western parts of Gaza City are already overcrowded with tents of displaced
+      families from Gaza’s northern governorates, as well as from the eastern neighborhoods
+      of Gaza City, following the start of the Israeli military operation Gideon’s Chariots
+      , which was launched in May 2025. Some families went directly to the south, driven
+      by Israeli army threats and its claims of available space, tents, and aid, only
+      to find the situation even worse. Israeli forces are now taking over two of the
+      largest cities in the south — Khan Younis and Rafah — while people there are crammed
+      into the Central Governorate and al-Mawasi near Khan Younis, with no sufficient
+      space left to set up tents for the displaced from Gaza City. Abed Abo Laban, 19,
+      said he and his family initially refused to leave their Al-Zaitoun home despite
+      the danger. “The artillery shelling was heavy, and shrapnel scattered across our
+      roof. Quadcopters fired randomly and even burned neighboring tents, but we stayed
+      because we had nowhere else to go,” he said. Abo Laban recounted that they left
+      only after an Israeli drone targeted their home, killing his brother and father.
+      “We realized that if we hadn’t left, we would all have been killed like them,”
+      he said. Abo Laban and his family fled south to Al-Mawasi in Khan Younis but found
+      no place to set up their tent. “The Israelis claim there is space in the south,
+      but that is the biggest lie I have ever heard. There was absolutely no space;
+      we just sat on the sand of Al-Mawasi Beach, helpless and exhausted, with nowhere
+      to put our tent,” he said. “The area was cramped, with tents set up right next
+      to each other. There was no privacy, no clean water, no sewage system, and it
+      was infested with insects and flies.” Mohamed Alkateeb, 46, who lives in the heart
+      of Gaza City, said he has begun packing his belongings, preparing for an evacuation
+      order at any moment. “The thought of leaving my home, fearing I might never return,
+      and venturing into the unknown — without anywhere to go, not even a tent, and
+      with winter approaching — is unbearable. If it were up to me, I would stay; I
+      would prefer death over displacement, which feels like dying slowly. But when
+      you have children, everything changes. I am now forced to leave to protect them
+      as best I can,” he said. The Israeli army is moving forward with its plan, and
+      it seems nothing can stop it from erasing Gaza City, massacring its people, and
+      displacing us. Now, Israel wants to push us south, but no one knows what the next
+      destination will be. We have pleaded with the world in every way possible — to
+      intervene, to protect us, to recognize our right to live in dignity — but it seems
+      all our efforts have failed. We are left helpless and in despair, awaiting the
+      next chapter of torture and suffering in exile, with no end in sight. Please share
+      this story and help us grow our network! Editor’s Note : A t a moment when the
+      once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Shahad Ali Shahad
+      Ali is an English literature student and writer from Gaza. Author Site'
+    one_sentence_summary: As the Israeli army intensifies its military operation in
+      Gaza City, the area is engulfed in chaos and destruction, displacing residents
+      and subjecting them to nightly violence and uncertainty.
+    paragraph_summary: As the Israeli army initiates a military operation in Gaza City
+      aimed at complete occupation and the displacement of its approximately 1 million
+      residents, the situation has deteriorated into chaos and terror. Residents are
+      subjected to relentless explosions and invasions, leading to the destruction of
+      neighborhoods and forcing families to flee towards uncertain futures. The current
+      violence echoes the early months of the war, with the same ominous atmosphere
+      of smoke-filled skies and pervasive fear. Israeli forces are intensifying their
+      military actions across various neighborhoods, employing heavy artillery, airstrikes,
+      and drones, which has resulted in significant displacement and a grim daily reality
+      for the city's inhabitants, who now face the fear of potentially never returning
+      home.
+    published: '2025-09-08T07:00:00+00:00'
+  - title: 'The World Has Failed to Stop Israel. Our Only Choices Now: Leave or Die.'
+    url: https://scheerpost.com/2025/09/08/the-world-has-failed-to-stop-israel-our-only-choices-now-leave-or-die/
+    text: 'September 2024 (by Suleiman Hajji | UN Women ) In one of the scariest moments
+      in modern history, we''re doing our best at ScheerPost to pierce the fog of lies
+      that conceal it but we need some help to pay our writers and staff. Please consider
+      a tax-deductible donation . By Shahad Ali / Truthout As the Israeli army launches
+      the first phase of its latest military operation in Gaza City — aimed at fully
+      occupying the area and displacing its roughly 1 million residents to the south
+      — the city has descended into unending hell. Night after night, relentless and
+      terrifying explosions rob us of sleep. Entire neighborhoods are being invaded
+      and demolished, forcing families to flee toward an uncertain fate, while bloody
+      massacres have become a grim part of daily life. For a moment, these cruel scenes
+      harken back to the first months of the war, when Israeli forces, for the first
+      time, compelled residents of the city to flee south under threat of ground invasion.
+      The sky then looked the same as it does now — gray and thick with billowing smoke,
+      signaling imminent danger. The people’s faces reflected the same unbearable anxiety
+      and fear, only now the worry is sharper: We fear that this time we may be forced
+      to leave Gaza City forever, without ever being allowed to return. The Israeli
+      forces began their operation by intensifying military pressure along multiple
+      axes in the north, east, and south of the city, including neighborhoods such as
+      Al-Zaitoun, Tel al-Hawa, Al-Sabra, and Sheikh Radwan, with the seeming aim of
+      fully encircling the city and confining its residents to a specific area to compel
+      them to move southward. These neighborhoods have witnessed heavy shelling from
+      artillery and airstrikes, as well as the destruction of entire residential blocks
+      by Israeli robots carrying tons of explosives, in addition to intense gunfire
+      from Israeli tanks and drones. This has caused a large wave of displacement of
+      residents toward the central and western parts of the city, which are already
+      overcrowded and still considered dangerous war zones by the Israeli military.
+      The threat of invasion looms at any moment. The forced displacement has further
+      exacerbated the suffering of Palestinians in Gaza, who are already drained mentally,
+      physically, emotionally, and financially after enduring 23 months of ongoing genocide.
+      Most families in Gaza City had been displaced to the south for more than 15 months
+      and were only able to return during the ceasefire in January 2025. They have not
+      forgotten what it was like to live in tents without basic necessities. They still
+      vividly remember being displaced, bombed, and starved in areas that Israel claimed
+      were safe. Moreover, their longing for their homes and neighborhoods remains unfulfilled.
+      Many of those families tried to resist by staying in their homes, but this time
+      the Israeli forces have left them with no choice: either be killed or leave —
+      though leaving is almost as dreadful as death. Within the past week, many have
+      evacuated under heavy bombardment, and their focus on mere survival meant they
+      were unable to take even the most basic necessities, such as food, clothes, and
+      mattresses. They were later forced to repurchase these items at exorbitant prices
+      within the informal economy. Those considered “lucky” enough to salvage a few
+      belongings from their homes faced steep transportation costs — up to $150 for
+      a donkey cart and $250 for a vehicle. Adding to this suffering is the exhausting
+      struggle of homelessness. Most families in Gaza City were forced to venture into
+      the unknown, many ending up in the streets with nowhere to go. A single tent now
+      costs $1,000 — an amount far beyond the reach of most families, as the war has
+      destroyed livelihoods and driven poverty to unbearable levels. Even when a tent
+      is secured, finding space to set it up is another challenge, since the central
+      and western parts of Gaza City are already overcrowded with tents of displaced
+      families from Gaza’s northern governorates, as well as from the eastern neighborhoods
+      of Gaza City, following the start of the Israeli military operation Gideon’s Chariots
+      , which was launched in May 2025. Some families went directly to the south, driven
+      by Israeli army threats and its claims of available space, tents, and aid, only
+      to find the situation even worse. Israeli forces are now taking over two of the
+      largest cities in the south — Khan Younis and Rafah — while people there are crammed
+      into the Central Governorate and al-Mawasi near Khan Younis, with no sufficient
+      space left to set up tents for the displaced from Gaza City. Abed Abo Laban, 19,
+      said he and his family initially refused to leave their Al-Zaitoun home despite
+      the danger. “The artillery shelling was heavy, and shrapnel scattered across our
+      roof. Quadcopters fired randomly and even burned neighboring tents, but we stayed
+      because we had nowhere else to go,” he said. Abo Laban recounted that they left
+      only after an Israeli drone targeted their home, killing his brother and father.
+      “We realized that if we hadn’t left, we would all have been killed like them,”
+      he said. Abo Laban and his family fled south to Al-Mawasi in Khan Younis but found
+      no place to set up their tent. “The Israelis claim there is space in the south,
+      but that is the biggest lie I have ever heard. There was absolutely no space;
+      we just sat on the sand of Al-Mawasi Beach, helpless and exhausted, with nowhere
+      to put our tent,” he said. “The area was cramped, with tents set up right next
+      to each other. There was no privacy, no clean water, no sewage system, and it
+      was infested with insects and flies.” Mohamed Alkateeb, 46, who lives in the heart
+      of Gaza City, said he has begun packing his belongings, preparing for an evacuation
+      order at any moment. “The thought of leaving my home, fearing I might never return,
+      and venturing into the unknown — without anywhere to go, not even a tent, and
+      with winter approaching — is unbearable. If it were up to me, I would stay; I
+      would prefer death over displacement, which feels like dying slowly. But when
+      you have children, everything changes. I am now forced to leave to protect them
+      as best I can,” he said. The Israeli army is moving forward with its plan, and
+      it seems nothing can stop it from erasing Gaza City, massacring its people, and
+      displacing us. Now, Israel wants to push us south, but no one knows what the next
+      destination will be. We have pleaded with the world in every way possible — to
+      intervene, to protect us, to recognize our right to live in dignity — but it seems
+      all our efforts have failed. We are left helpless and in despair, awaiting the
+      next chapter of torture and suffering in exile, with no end in sight. Please share
+      this story and help us grow our network! Editor’s Note : A t a moment when the
+      once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Shahad Ali Shahad
+      Ali is an English literature student and writer from Gaza. Author Site'
+    one_sentence_summary: As the Israeli army intensifies its military operation in
+      Gaza City, the area is engulfed in chaos and destruction, displacing residents
+      and subjecting them to nightly violence and uncertainty.
+    paragraph_summary: As the Israeli army initiates a military operation in Gaza City
+      aimed at complete occupation and the displacement of its approximately 1 million
+      residents, the situation has deteriorated into chaos and terror. Residents are
+      subjected to relentless explosions and invasions, leading to the destruction of
+      neighborhoods and forcing families to flee towards uncertain futures. The current
+      violence echoes the early months of the war, with the same ominous atmosphere
+      of smoke-filled skies and pervasive fear. Israeli forces are intensifying their
+      military actions across various neighborhoods, employing heavy artillery, airstrikes,
+      and drones, which has resulted in significant displacement and a grim daily reality
+      for the city's inhabitants, who now face the fear of potentially never returning
+      home.
+    published: '2025-09-08T07:00:00+00:00'
+  - title: 'Michael Brenner: The True, The Brave, The Few'
+    url: https://scheerpost.com/2025/09/07/michael-brenner-the-true-the-brave-the-few/
+    text: 'Images from Gaza war 2023-2025 By Michael Brenner Victims of great crimes
+      deserve to be memorialized. So, too, those who bravely protected them. Hitler’s
+      genocide indeed is solemnly recognized in prominent votive memorials – in Berlin,
+      in Russia-Babi Yar, in Washington. The heroes and heroines who put themselves
+      at risk to save innocent souls are honored at Yad Vashem in Israel. A decent respect
+      for humanity and the opinion of mankind obliges us to similarly honor those who
+      have fought against mass murder of the Palestinians – and sought to balm their
+      suffering, who have called out the atrocities inflicted on them by the Israelis.
+      In this case, incidents of direct physical action by outsiders are nonexistent
+      because the victims are inaccessible. Still, they present outstanding examples
+      of integrity and empathy that transcend parochial boundaries of ethnicity or nationality.
+      To do so, they resisted the intemperate pressures from all sides to conform or
+      to stay silent. Some paid a price for that temerity. Instead, they felt the imperative
+      to fix a revealing light on the Gazan horrors, and to testify to the shameless
+      conduct of their tormentors. [I am not aware of a single occasion where Israeli
+      Jews succored Arabs. Admittedly, the Gazans and Jewish Israelis were not mingled
+      since the former already were segregated in a virtual concentration camp. On the
+      West Bank, though, the ongoing violent ethnic cleansing has allowed for acts of
+      decency – none appear to have occurred. This is not the place to identify those
+      virtuous individually. For any attempt to compose a list runs the risk of overlooking
+      some worthy parties. Besides, they are well known – especially so because their
+      numbers are relatively few. The cadre include former American ambassadors whose
+      singular accomplishments are historic landmarks of the past century, courageous
+      commentators and independent journalists who have seized the opening created by
+      alternative electronic media to speak truth to abusive power and specious argument,
+      and those who amplified the damning report of Francesca Albanese – United Nations
+      Special Rapporteur on the Occupied Palestinian Territories. Pride of place should
+      be given those thousands of students who exhibited in protest demonstrations their
+      conviction that American ideals and universal humanistic principles demanded a
+      stop to the wholesale killing – only to be betrayed cruelly by high university 
+      officials, moral eunuchs, who chose instead to pay massive indemnities to a deranged,
+      sordid extortionist who proclaims himself the Prince of Righteousness; why? for
+      tolerating (briefly) public condemnation of despicable crimes against humanity.
+      Among the “not in my name” protestors were hundreds of Jewish students whose character
+      and conscience were formed by a blend of American civic virtue and the ideals
+      of their religious heritage. Equally noteworthy are the many accomplices – active
+      or passive – in the Gazan genocide. 99 Senators, 400+ Representatives, the publishers/owners/editors
+      of every mainstream media organization, the Presidents or Chancellors of nearly
+      all the nation’s universities and colleges, foundation directors, think tanks,
+      the mute churchmen, the inert professional associations of America’s vaunted civil
+      society. All deserve a measure of culpability for our country’s genocidal behavior.
+      They forever will bear the mark of their infamy. Where should these votive memorials
+      be placed? Most appropriate are the South Lawn of the White House, the Capitol
+      rotunda, the State Department courtyard, 251 ‘H’ St D.C., the foyer of The New
+      York Times building, Harvard Square, Columbia University. INSCIPTION: “Be not
+      intimidated… nor suffer yourselves to be wheedled out of your liberties by any
+      pretense of politeness, delicacy, or decency. These, as they are often used, are
+      but three different names for hypocrisy, chicanery and cowardice.”  John Adams
+      Please share this story and help us grow our network! Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Michael Brenner
+      Michael Brenner is Professor Emeritus of International Affairs at the University
+      of Pittsburgh and a Fellow of the Center for Transatlantic Relations at SAIS/Johns
+      Hopkins. He was the Director of the International Relations & Global Studies Program
+      at the University of Texas. Brenner is the author of numerous books, and over
+      80 articles and published papers. His most recent works are: Democracy Promotion
+      and Islam ; Fear and Dread In The Middle East ; Toward A More Independent Europe
+      ; Narcissistic Public Personalities & Our Times . His writings include books with
+      Cambridge University Press ( Nuclear Power and Non-Proliferation ), the Center
+      For International Affairs at Harvard University ( The Politics of International
+      Monetary Reform ), and the Brookings Institution ( Reconcilable Differences, US-French
+      Relations In The New Era ). Author Site'
+    one_sentence_summary: The article emphasizes the importance of memorializing both
+      the victims of atrocities in Gaza and the individuals who bravely stood against
+      these injustices, highlighting their integrity and empathy in the face of widespread
+      silence and pressure.
+    paragraph_summary: In his article, Michael Brenner emphasizes the importance of
+      memorializing both the victims of atrocities, such as the Palestinians during
+      the Gaza war from 2023 to 2025, and the individuals who bravely spoke out against
+      these injustices. He draws parallels to historical memorials for victims of genocide,
+      advocating for recognition of those who have risked their safety to expose the
+      suffering of the Palestinian people and condemn the actions of their oppressors.
+      Brenner notes the absence of direct physical aid from outsiders due to the inaccessibility
+      of the victims, yet highlights the moral courage of those who have resisted societal
+      pressures to remain silent. He acknowledges the rarity of acts of decency between
+      Israelis and Palestinians, particularly in the context of ongoing violence and
+      segregation, and calls for a collective remembrance of the few who have stood
+      against the tide of indifference and injustice.
+    published: '2025-09-07T09:45:00+00:00'
+  - title: 'Michael Brenner: The True, The Brave, The Few'
+    url: https://scheerpost.com/2025/09/07/michael-brenner-the-true-the-brave-the-few/
+    text: 'Images from Gaza war 2023-2025 By Michael Brenner Victims of great crimes
+      deserve to be memorialized. So, too, those who bravely protected them. Hitler’s
+      genocide indeed is solemnly recognized in prominent votive memorials – in Berlin,
+      in Russia-Babi Yar, in Washington. The heroes and heroines who put themselves
+      at risk to save innocent souls are honored at Yad Vashem in Israel. A decent respect
+      for humanity and the opinion of mankind obliges us to similarly honor those who
+      have fought against mass murder of the Palestinians – and sought to balm their
+      suffering, who have called out the atrocities inflicted on them by the Israelis.
+      In this case, incidents of direct physical action by outsiders are nonexistent
+      because the victims are inaccessible. Still, they present outstanding examples
+      of integrity and empathy that transcend parochial boundaries of ethnicity or nationality.
+      To do so, they resisted the intemperate pressures from all sides to conform or
+      to stay silent. Some paid a price for that temerity. Instead, they felt the imperative
+      to fix a revealing light on the Gazan horrors, and to testify to the shameless
+      conduct of their tormentors. [I am not aware of a single occasion where Israeli
+      Jews succored Arabs. Admittedly, the Gazans and Jewish Israelis were not mingled
+      since the former already were segregated in a virtual concentration camp. On the
+      West Bank, though, the ongoing violent ethnic cleansing has allowed for acts of
+      decency – none appear to have occurred. This is not the place to identify those
+      virtuous individually. For any attempt to compose a list runs the risk of overlooking
+      some worthy parties. Besides, they are well known – especially so because their
+      numbers are relatively few. The cadre include former American ambassadors whose
+      singular accomplishments are historic landmarks of the past century, courageous
+      commentators and independent journalists who have seized the opening created by
+      alternative electronic media to speak truth to abusive power and specious argument,
+      and those who amplified the damning report of Francesca Albanese – United Nations
+      Special Rapporteur on the Occupied Palestinian Territories. Pride of place should
+      be given those thousands of students who exhibited in protest demonstrations their
+      conviction that American ideals and universal humanistic principles demanded a
+      stop to the wholesale killing – only to be betrayed cruelly by high university 
+      officials, moral eunuchs, who chose instead to pay massive indemnities to a deranged,
+      sordid extortionist who proclaims himself the Prince of Righteousness; why? for
+      tolerating (briefly) public condemnation of despicable crimes against humanity.
+      Among the “not in my name” protestors were hundreds of Jewish students whose character
+      and conscience were formed by a blend of American civic virtue and the ideals
+      of their religious heritage. Equally noteworthy are the many accomplices – active
+      or passive – in the Gazan genocide. 99 Senators, 400+ Representatives, the publishers/owners/editors
+      of every mainstream media organization, the Presidents or Chancellors of nearly
+      all the nation’s universities and colleges, foundation directors, think tanks,
+      the mute churchmen, the inert professional associations of America’s vaunted civil
+      society. All deserve a measure of culpability for our country’s genocidal behavior.
+      They forever will bear the mark of their infamy. Where should these votive memorials
+      be placed? Most appropriate are the South Lawn of the White House, the Capitol
+      rotunda, the State Department courtyard, 251 ‘H’ St D.C., the foyer of The New
+      York Times building, Harvard Square, Columbia University. INSCIPTION: “Be not
+      intimidated… nor suffer yourselves to be wheedled out of your liberties by any
+      pretense of politeness, delicacy, or decency. These, as they are often used, are
+      but three different names for hypocrisy, chicanery and cowardice.”  John Adams
+      Please share this story and help us grow our network! Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Michael Brenner
+      Michael Brenner is Professor Emeritus of International Affairs at the University
+      of Pittsburgh and a Fellow of the Center for Transatlantic Relations at SAIS/Johns
+      Hopkins. He was the Director of the International Relations & Global Studies Program
+      at the University of Texas. Brenner is the author of numerous books, and over
+      80 articles and published papers. His most recent works are: Democracy Promotion
+      and Islam ; Fear and Dread In The Middle East ; Toward A More Independent Europe
+      ; Narcissistic Public Personalities & Our Times . His writings include books with
+      Cambridge University Press ( Nuclear Power and Non-Proliferation ), the Center
+      For International Affairs at Harvard University ( The Politics of International
+      Monetary Reform ), and the Brookings Institution ( Reconcilable Differences, US-French
+      Relations In The New Era ). Author Site'
+    one_sentence_summary: The article emphasizes the importance of memorializing both
+      the victims of atrocities in Gaza and the individuals who bravely stood against
+      these injustices, highlighting their integrity and empathy in the face of widespread
+      silence and pressure.
+    paragraph_summary: In his article, Michael Brenner emphasizes the importance of
+      memorializing both the victims of atrocities, such as the Palestinians during
+      the Gaza war from 2023 to 2025, and the individuals who bravely spoke out against
+      these injustices. He draws parallels to historical memorials for victims of genocide,
+      advocating for recognition of those who have risked their safety to expose the
+      suffering of the Palestinian people and condemn the actions of their oppressors.
+      Brenner notes the absence of direct physical aid from outsiders due to the inaccessibility
+      of the victims, yet highlights the moral courage of those who have resisted societal
+      pressures to remain silent. He acknowledges the rarity of acts of decency between
+      Israelis and Palestinians, particularly in the context of ongoing violence and
+      segregation, and calls for a collective remembrance of the few who have stood
+      against the tide of indifference and injustice.
+    published: '2025-09-07T09:45:00+00:00'
+  - title: 'Juan Cole: Genocide Scholars: Israel is Committing a Genocide in Gaza, and
+      we Should Know'
+    url: https://scheerpost.com/2025/09/07/juan-cole-genocide-scholars-israel-is-committing-a-genocide-in-gaza-and-we-should-know/
+    text: 'By Juan Cole / Informed Comment Ann Arbor (Informed Comment) – On the last
+      day of August, 2025, the International Association of Genocide Scholars , a scholarly
+      body with more than 500 members, passed a resolution with 86% support of those
+      who voted, concluding that Israel is committing a genocide in Gaza. These scholars
+      study genocide professionally, researching it, theorizing it, and publishing on
+      it in peer-reviewed journals. In peer review, the editor who receives a submission
+      anonymizes it and sends it out to 3 or 4 major experts on the subject for the
+      recommendation of whether to publish it and their suggestions for improvement.
+      I ran a Cambridge University Press journal for 5 years and sent out hundreds of
+      papers for review. I always insisted on 4 referees and I liked to see a consensus
+      that the article was publishable. A minority of such submissions appeared. If
+      I published someone, it meant their scholarship was careful and solidly grounded.
+      This kind of publishing is what these scholars of genocide engage in routinely.
+      I underline this point because American television and social media accustom us
+      to the idea that everyone’s views are equally worthy. No. Some arguments are bullshit.
+      How can you tell? Because the academic experts who devote their lives to a subject
+      have a world-beating bullshit meter. Getting 86% of academics in a field to agree
+      on something is a minor miracle. Professors like to pick nits and make sure their
+      assertions rest on unimpeachable evidence. They spend years on an issue. Unlike
+      the Beltway Bandits on television, they don’t just shoot their mouths off with
+      shallow just-formed opinions. So how did these scholars arrive at this conclusion?
+      First, they looked carefully at Article 2 of the U.N. Convention on the Prevention
+      and Punishment of the Crime of Genocide of 1948, to which Israel is a signatory.
+      It defines genocide this way: In the present Convention, genocide means any of
+      the following acts committed with intent to destroy, in whole or in part, a national,
+      ethnical, racial or religious group, as such: (a) Killing members of the group;
+      (b) Causing serious bodily or mental harm to members of the group; (c) Deliberately
+      inflicting on the group conditions of life calculated to bring about its physical
+      destruction in whole or in part; (d) Imposing measures intended to prevent births
+      within the group; (e) Forcibly transferring children of the group to another group
+      A lot of people think that genocide consists in killing almost all members of
+      a group. This technical legal definition makes it clear, however, that you can
+      genocide a people even if lots of its members survive. Genocide as defined here
+      is more about the purpose of violence than about its magnitude. If you kill people
+      because of who they are and because you object to that people existing, you don’t
+      have to kill very many of them for it to be genocide. Myanmar or Burma’s genocide
+      against the 1.1 million Rohingya in 2016-18 likely killed 24,000 of them, but
+      forced most of the rest out of the country. leaving 150,000 internally displaced.
+      This relatively small death toll can still constitute a genocide because they
+      were killed for being Rohingya and the killing was part of an ethnic cleansing
+      campaign. The Myanmar authorities, including many in the Buddhist clerical establishment,
+      so hated the Rohingya that they wanted them to cease existing as a minority in
+      the country. The conditions of their peoplehood as Myanmar Rohingya was destroyed.
+      Now they are rootless refugees, most of them stateless. In 2022, the US government
+      branded the campaign against the Rohingya a genocide. So did Human Rights Watch.
+      So did the the US Holocaust Memorial Museum. As the IAGS notes, “Israel has forcibly
+      displaced nearly all of the 2.3 million Palestinians in the Gaza Strip multiple
+      times, and demolished more than 90 percent of the housing infrastructure in the
+      territory.” In fact, Israel is just this moment engaged in displacing a million
+      Palestinians from Gaza City, most of them already reduced to being tent people.
+      The resolution had noted: “[Recognising that] according to official UN estimates,
+      at the date of this resolution, has killed more than 59,000 adults and children
+      in Gaza; Recognising that these crimes are estimated to have left many thousands
+      of people buried under the rubble or otherwise inaccessible, and most probably
+      dead; Recognising that this bombing and other violence is estimated to have injured
+      more than 143,000 people, with many maimed; Recognising that the actions of the
+      Israeli government against Palestinians have included torture, arbitrary detention,
+      and sexual and reproductive violence; deliberate attacks on medical professionals,
+      humanitarian aid workers and journalists; and the deliberate deprivation of food,
+      water, medicine, and electricity essential to the survival of the population .
+      . .” What about Israeli intent? Do Israeli leaders want Palestinian society in
+      Gaza to cease to exist in whole or in part? Manifestly, they do: Recognising that
+      Israeli governmental leaders, war cabinet ministers, and senior army officers
+      have made explicit statements of “intent to destroy”, characterizing Palestinians
+      in Gaza as a whole as enemies and “human animals” and stating the intention of
+      inflicting “maximum damage” on Gaza, “flattening Gaza,” and turning Gaza into
+      “hell”; Recognising that Israeli Prime Minister Benjamin Netanyahu has endorsed
+      the current US President’s plan to forcibly expel all Palestinians from the Gaza
+      Strip, with no right of return, in what Navi Pillay, head of the UN Commission
+      of Inquiry on the Occupied Palestinian Territory, has said amounts to ethnic cleansing;
+      Recognising that the deliberate destruction of agricultural fields, food warehouses,
+      and bakeries and other violence that prevents food production, in conjunction
+      with denial and restriction of humanitarian aid, indicate the intentional infliction
+      of unlivable conditions resulting in starvation of Palestinians in Gaza . . .”
+      All of these “Recognising-s” are leading up to a “therefore,” of course, and here
+      it is: “Therefore, the International Association of Genocide Scholars: Declares
+      that Israel’s policies and actions in Gaza meet the legal definition of genocide
+      in Article II of the United Nations Convention for the Prevention and Punishment
+      of the Crime of Genocide (1948); Declares that Israel’s policies and actions in
+      Gaza constitute war crimes and crimes against humanity as defined in international
+      humanitarian law and the Rome Statute of the International Criminal Court; Calls
+      upon the government of Israel to immediately cease all acts that constitute genocide,
+      war crimes and crimes against humanity against Palestinians in Gaza, including
+      deliberate attacks against and killing of civilians including children; starvation;
+      deprivation of humanitarian aid, water, fuel, and other items essential to the
+      survival of the population; sexual and reproductive violence; and forced displacement
+      of the population;” etc. The case here is much stronger, in my view, than for
+      the Rohingya genocide, which has a strong case and is widely recognized. Yet the
+      United States government and the Holocaust Memorial Museum haven’t categorized
+      Gaza as a genocide. This is because genocides are political acts by states, and
+      the recognition and the memory of genocides have a political dimension. States
+      are like teams to which fans are loyal and the crimes of which the fans are often
+      willing to overlook. But the IAGS is not a state, or a cause, and it isn’t made
+      up of partisan fans. It is a membership organization of field experts who are
+      critical thinkers. And those field experts are overwhelmingly convinced by this
+      case. Please share this story and help us grow our network! Editor’s Note : A
+      t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Juan Cole Juan
+      Cole, a TomDispatch regular , is the Richard P. Mitchell collegiate professor
+      of history at the University of Michigan. He is the author of The Rubaiyat of
+      Omar Khayyam: A New Translation From the Persian and Muhammad: Prophet of Peace
+      Amid the Clash of Empires . His latest book is Peace Movements in Islam . His
+      award-winning blog is Informed Comment . He is also a non-resident Fellow of the
+      Center for Conflict and Humanitarian Studies in Doha and of Democracy for the
+      Arab World Now (DAWN). Author Site'
+    one_sentence_summary: The International Association of Genocide Scholars has declared,
+      with significant support, that Israel is committing genocide in Gaza, based on
+      rigorous academic research and peer-reviewed standards.
+    paragraph_summary: On August 31, 2025, the International Association of Genocide
+      Scholars, comprising over 500 members, overwhelmingly passed a resolution stating
+      that Israel is committing genocide in Gaza, with 86% of voting members in support.
+      This conclusion was reached after rigorous academic scrutiny, as these scholars
+      are dedicated to the study of genocide, employing a peer-review process that ensures
+      careful and evidence-based scholarship. The resolution's strength lies in the
+      consensus among experts who typically engage in detailed research and analysis,
+      contrasting sharply with the often superficial opinions presented in media. The
+      scholars based their findings on the definitions outlined in the U.N. Convention
+      on the Prevention and Punishment of the Crime of Genocide, emphasizing the seriousness
+      and scholarly backing of their claims.
+    published: '2025-09-07T09:15:00+00:00'
+  - title: 'Glenn Greenwald: Trump and Rubio dust off Regime Change Playbook for Venezuela'
+    url: https://scheerpost.com/2025/09/07/glenn-greenwald-trump-and-rubio-dust-off-regime-change-playbook-for-venezuela/
+    text: 'Please share this story and help us grow our network! Editor’s Note : A t
+      a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Glenn Greenwald
+      Glenn Greenwald is a journalist, constitutional lawyer, and author of four New
+      York Times best-selling books on politics and law. He broke the Snowden leaks
+      in 2013. Greenwald currently hosts a political commentary show for Rumble called
+      “System Update.” Author Site'
+    one_sentence_summary: The article emphasizes the need for independent journalism
+      like ScheerPost amidst the dominance of corporate media and encourages readers
+      to support it through donations.
+    paragraph_summary: The article emphasizes the need for alternatives to mainstream
+      journalism, which it criticizes for being influenced by wealthy individuals and
+      corporations. It highlights ScheerPost as a platform committed to responsible
+      journalism and encourages readers to support independent media through donations.
+      Additionally, it mentions Glenn Greenwald, a prominent journalist known for his
+      work on the Snowden leaks and his current political commentary show on Rumble,
+      underscoring the importance of integrity in news reporting.
+    published: '2025-09-07T09:15:00+00:00'
+  - title: 'Juan Cole: Genocide Scholars: Israel is Committing a Genocide in Gaza, and
+      we Should Know'
+    url: https://scheerpost.com/2025/09/07/juan-cole-genocide-scholars-israel-is-committing-a-genocide-in-gaza-and-we-should-know/
+    text: 'By Juan Cole / Informed Comment Ann Arbor (Informed Comment) – On the last
+      day of August, 2025, the International Association of Genocide Scholars , a scholarly
+      body with more than 500 members, passed a resolution with 86% support of those
+      who voted, concluding that Israel is committing a genocide in Gaza. These scholars
+      study genocide professionally, researching it, theorizing it, and publishing on
+      it in peer-reviewed journals. In peer review, the editor who receives a submission
+      anonymizes it and sends it out to 3 or 4 major experts on the subject for the
+      recommendation of whether to publish it and their suggestions for improvement.
+      I ran a Cambridge University Press journal for 5 years and sent out hundreds of
+      papers for review. I always insisted on 4 referees and I liked to see a consensus
+      that the article was publishable. A minority of such submissions appeared. If
+      I published someone, it meant their scholarship was careful and solidly grounded.
+      This kind of publishing is what these scholars of genocide engage in routinely.
+      I underline this point because American television and social media accustom us
+      to the idea that everyone’s views are equally worthy. No. Some arguments are bullshit.
+      How can you tell? Because the academic experts who devote their lives to a subject
+      have a world-beating bullshit meter. Getting 86% of academics in a field to agree
+      on something is a minor miracle. Professors like to pick nits and make sure their
+      assertions rest on unimpeachable evidence. They spend years on an issue. Unlike
+      the Beltway Bandits on television, they don’t just shoot their mouths off with
+      shallow just-formed opinions. So how did these scholars arrive at this conclusion?
+      First, they looked carefully at Article 2 of the U.N. Convention on the Prevention
+      and Punishment of the Crime of Genocide of 1948, to which Israel is a signatory.
+      It defines genocide this way: In the present Convention, genocide means any of
+      the following acts committed with intent to destroy, in whole or in part, a national,
+      ethnical, racial or religious group, as such: (a) Killing members of the group;
+      (b) Causing serious bodily or mental harm to members of the group; (c) Deliberately
+      inflicting on the group conditions of life calculated to bring about its physical
+      destruction in whole or in part; (d) Imposing measures intended to prevent births
+      within the group; (e) Forcibly transferring children of the group to another group
+      A lot of people think that genocide consists in killing almost all members of
+      a group. This technical legal definition makes it clear, however, that you can
+      genocide a people even if lots of its members survive. Genocide as defined here
+      is more about the purpose of violence than about its magnitude. If you kill people
+      because of who they are and because you object to that people existing, you don’t
+      have to kill very many of them for it to be genocide. Myanmar or Burma’s genocide
+      against the 1.1 million Rohingya in 2016-18 likely killed 24,000 of them, but
+      forced most of the rest out of the country. leaving 150,000 internally displaced.
+      This relatively small death toll can still constitute a genocide because they
+      were killed for being Rohingya and the killing was part of an ethnic cleansing
+      campaign. The Myanmar authorities, including many in the Buddhist clerical establishment,
+      so hated the Rohingya that they wanted them to cease existing as a minority in
+      the country. The conditions of their peoplehood as Myanmar Rohingya was destroyed.
+      Now they are rootless refugees, most of them stateless. In 2022, the US government
+      branded the campaign against the Rohingya a genocide. So did Human Rights Watch.
+      So did the the US Holocaust Memorial Museum. As the IAGS notes, “Israel has forcibly
+      displaced nearly all of the 2.3 million Palestinians in the Gaza Strip multiple
+      times, and demolished more than 90 percent of the housing infrastructure in the
+      territory.” In fact, Israel is just this moment engaged in displacing a million
+      Palestinians from Gaza City, most of them already reduced to being tent people.
+      The resolution had noted: “[Recognising that] according to official UN estimates,
+      at the date of this resolution, has killed more than 59,000 adults and children
+      in Gaza; Recognising that these crimes are estimated to have left many thousands
+      of people buried under the rubble or otherwise inaccessible, and most probably
+      dead; Recognising that this bombing and other violence is estimated to have injured
+      more than 143,000 people, with many maimed; Recognising that the actions of the
+      Israeli government against Palestinians have included torture, arbitrary detention,
+      and sexual and reproductive violence; deliberate attacks on medical professionals,
+      humanitarian aid workers and journalists; and the deliberate deprivation of food,
+      water, medicine, and electricity essential to the survival of the population .
+      . .” What about Israeli intent? Do Israeli leaders want Palestinian society in
+      Gaza to cease to exist in whole or in part? Manifestly, they do: Recognising that
+      Israeli governmental leaders, war cabinet ministers, and senior army officers
+      have made explicit statements of “intent to destroy”, characterizing Palestinians
+      in Gaza as a whole as enemies and “human animals” and stating the intention of
+      inflicting “maximum damage” on Gaza, “flattening Gaza,” and turning Gaza into
+      “hell”; Recognising that Israeli Prime Minister Benjamin Netanyahu has endorsed
+      the current US President’s plan to forcibly expel all Palestinians from the Gaza
+      Strip, with no right of return, in what Navi Pillay, head of the UN Commission
+      of Inquiry on the Occupied Palestinian Territory, has said amounts to ethnic cleansing;
+      Recognising that the deliberate destruction of agricultural fields, food warehouses,
+      and bakeries and other violence that prevents food production, in conjunction
+      with denial and restriction of humanitarian aid, indicate the intentional infliction
+      of unlivable conditions resulting in starvation of Palestinians in Gaza . . .”
+      All of these “Recognising-s” are leading up to a “therefore,” of course, and here
+      it is: “Therefore, the International Association of Genocide Scholars: Declares
+      that Israel’s policies and actions in Gaza meet the legal definition of genocide
+      in Article II of the United Nations Convention for the Prevention and Punishment
+      of the Crime of Genocide (1948); Declares that Israel’s policies and actions in
+      Gaza constitute war crimes and crimes against humanity as defined in international
+      humanitarian law and the Rome Statute of the International Criminal Court; Calls
+      upon the government of Israel to immediately cease all acts that constitute genocide,
+      war crimes and crimes against humanity against Palestinians in Gaza, including
+      deliberate attacks against and killing of civilians including children; starvation;
+      deprivation of humanitarian aid, water, fuel, and other items essential to the
+      survival of the population; sexual and reproductive violence; and forced displacement
+      of the population;” etc. The case here is much stronger, in my view, than for
+      the Rohingya genocide, which has a strong case and is widely recognized. Yet the
+      United States government and the Holocaust Memorial Museum haven’t categorized
+      Gaza as a genocide. This is because genocides are political acts by states, and
+      the recognition and the memory of genocides have a political dimension. States
+      are like teams to which fans are loyal and the crimes of which the fans are often
+      willing to overlook. But the IAGS is not a state, or a cause, and it isn’t made
+      up of partisan fans. It is a membership organization of field experts who are
+      critical thinkers. And those field experts are overwhelmingly convinced by this
+      case. Please share this story and help us grow our network! Editor’s Note : A
+      t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Juan Cole Juan
+      Cole, a TomDispatch regular , is the Richard P. Mitchell collegiate professor
+      of history at the University of Michigan. He is the author of The Rubaiyat of
+      Omar Khayyam: A New Translation From the Persian and Muhammad: Prophet of Peace
+      Amid the Clash of Empires . His latest book is Peace Movements in Islam . His
+      award-winning blog is Informed Comment . He is also a non-resident Fellow of the
+      Center for Conflict and Humanitarian Studies in Doha and of Democracy for the
+      Arab World Now (DAWN). Author Site'
+    one_sentence_summary: The International Association of Genocide Scholars has declared,
+      with significant support, that Israel is committing genocide in Gaza, based on
+      rigorous academic research and peer-reviewed standards.
+    paragraph_summary: On August 31, 2025, the International Association of Genocide
+      Scholars, comprising over 500 members, overwhelmingly passed a resolution stating
+      that Israel is committing genocide in Gaza, with 86% of voting members in support.
+      This conclusion was reached after rigorous academic scrutiny, as these scholars
+      are dedicated to the study of genocide, employing a peer-review process that ensures
+      careful and evidence-based scholarship. The resolution's strength lies in the
+      consensus among experts who typically engage in detailed research and analysis,
+      contrasting sharply with the often superficial opinions presented in media. The
+      scholars based their findings on the definitions outlined in the U.N. Convention
+      on the Prevention and Punishment of the Crime of Genocide, emphasizing the seriousness
+      and scholarly backing of their claims.
+    published: '2025-09-07T09:15:00+00:00'
+  - title: 'Glenn Greenwald: Trump and Rubio dust off Regime Change Playbook for Venezuela'
+    url: https://scheerpost.com/2025/09/07/glenn-greenwald-trump-and-rubio-dust-off-regime-change-playbook-for-venezuela/
+    text: 'Please share this story and help us grow our network! Editor’s Note : A t
+      a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Glenn Greenwald
+      Glenn Greenwald is a journalist, constitutional lawyer, and author of four New
+      York Times best-selling books on politics and law. He broke the Snowden leaks
+      in 2013. Greenwald currently hosts a political commentary show for Rumble called
+      “System Update.” Author Site'
+    one_sentence_summary: The article emphasizes the need for independent journalism
+      like ScheerPost amidst the dominance of corporate media and encourages readers
+      to support it through donations.
+    paragraph_summary: The article emphasizes the need for alternatives to mainstream
+      journalism, which it criticizes for being influenced by wealthy individuals and
+      corporations. It highlights ScheerPost as a platform committed to responsible
+      journalism and encourages readers to support independent media through donations.
+      Additionally, it mentions Glenn Greenwald, a prominent journalist known for his
+      work on the Snowden leaks and his current political commentary show on Rumble,
+      underscoring the importance of integrity in news reporting.
+    published: '2025-09-07T09:15:00+00:00'
+  - title: AP Jerusalem Chief Participated In Secretive Israeli Government Anti-BDS
+      Event, Leaked Files Reveal
+    url: https://scheerpost.com/2025/09/07/ap-jerusalem-chief-participated-in-secretive-israeli-government-anti-bds-event-leaked-files-reveal/
+    text: 'By Max Blumenthal / The Grayzone The Israeli massacre of five journalists
+      in broad daylight on August 24, 2025 at Nasser Hospital in Gaza’s Khan Younis
+      city prompted a sternly worded statement to the Israeli government from the Associated
+      Press and Reuters, which each employed a reporter murdered by the IDF. The AP
+      subsequently published a detailed investigation demonstrating that the Israeli
+      military knowingly attacked a civilian target, then carried out a double tap strike
+      after a rescue team and journalists arrived on the scene. While the AP’s statement
+      of outrage about the killing of its photographer in Gaza, Miriam Dagga, has brought
+      the leading wire agency’s tension with the Israeli government to its height, the
+      relationship with Tel Aviv was not always so adversarial. The Grayzone has reviewed
+      leaked documents revealing that the AP’s news director for Israel-Palestine, Josef
+      Federman , participated in a private 2018 panel discussion aimed at assisting
+      “Israel’s ability to effectively portray its narrative.” His host was a secretive
+      Israeli government outfit dedicated to combatting the global BDS campaign to boycott,
+      divest from, and sanction Israel. Called the Global Coalition For Israel (GC4I),
+      the event was convened in Jerusalem on June 18, 2018 by Israel’s Ministry of Strategic
+      Affairs and Diplomacy – the de facto propaganda arm of the Israeli government.
+      The moderator of the panel in which Federman participated was Avital Leibovich,
+      the former spokeswoman for the IDF who has ardently defended the Israeli policy
+      of defining Palestinian journalists as terrorists in order to assassinate them.
+      Federman has presided over the AP’s coverage of Israel-Palestine since 2014. Throughout
+      Israel’s genocidal assault on Gaza began in October 2023, Federman has helped
+      shape a narrative that has subtly but effectively advanced Tel Aviv’s objectives,
+      regurgitating the baseless and comprehensively debunked claim that “Israelis were
+      raped or sexually assaulted” on October 7; legitimizing Israel’s violent invasion
+      and theft of Syrian land as a historical “shift,” and relying on bogus data from
+      an Israel lobby-affiliated researcher to minimize the civilian death count in
+      Gaza – a grim toll which now includes one of his colleagues at AP. Federman’s
+      penchant for uncritically quoting notoriously mendacious Israeli military officials
+      has helped secure his reputation for biased coverage. In typical @joseffederman
+      fashion, his only contribution to @AP coverage is to ensure that it reads like
+      an Israeli press release. pic.twitter.com/3JJOaWI4xB — Monitoring Spin (@monitoringspin)
+      September 23, 2024 Federman’s participation in the 2018 Israeli government anti-BDS
+      event appears to contradict clearly stated AP guidelines on conflicts of interest.
+      According to the AP’s website , “We avoid addressing, or accepting fees or expenses
+      from, governmental bodies; trade, lobbying or special interest groups; businesses,
+      or labor groups; or any group that would pose a conflict of interest.” In response
+      to a detailed query from The Grayzone about Federman’s participation in the semi-covert
+      conference, AP Vice President of Corporate Communications Lauren Easton stated,
+      “Josef Federman is a professional journalist and a former chairman of Israel’s
+      Foreign Press Association. It is not uncommon for journalists to speak about their
+      work at conferences and other events. It remains AP policy to refrain from accepting
+      honoraria, and that policy was followed here.” The details of the GC41’s gathering
+      were gleaned from a massive tranche of documents extracted by hackers from Israel’s
+      Ministry of Justice in 2024. A full schedule and list of GC4I conference participants
+      has never been seen before by the public. View GC4I’s 2018 schedule here . AP,
+      other agencies join semi-secret Israeli gov’t event chaired by ex-IDF official
+      who justified killing journalists When GC4I gathered in 2018, it met at the Mamilla
+      Hotel Conference Hall in Jerusalem for two days of discussions and briefings on
+      the fight to crush the growing Palestine solidarity movement and its BDS campaign.
+      The conference opened with an address by Sima Vaknin-Gil , then the Director-General
+      of Israel’s Ministry of Strategic Affairs. A former Israeli intelligence official,
+      Vakhnin-Gil had emerged as one of the most influential coordinators of the country’s
+      propaganda efforts abroad, especially in the US, where she helps the Israeli government
+      evade the Foreign Agent Registration Act law. Her speech was followed by a discussion
+      moderated by celebrity Republican pollster Frank Luntz on the feasibility of defining
+      the BDS movement as a “hate group.” Further panels focused on “developing relations
+      in the corridors of power” and “how…legislation in Europe and the United States
+      can be used to reduce funding for organizations delegitimizing Israel.” On the
+      second day of the GC41 conference, Federman joined a panel aimed at “discuss[ing]
+      the difficulties of reporting fairly and accurately on Israel, while dealing with
+      issues such as BDS, delegitimization, and the Israel-Palestinian conflict.” The
+      panel was explicitly aimed at helping the Zionist operatives gathered at the GC4I
+      “understand the shortcomings in Israel’s ability to effectively portray its narrative,
+      what reporters are looking for when writing an article and why the anti-Israel
+      camp’s narrative resonates in the Western world.” Avital Leibovich, a former IDF
+      spokeswoman who moved on the American Jewish Committee, chaired the panel. During
+      her stint at the IDF, Leibovich played a leading role in justifying Israel’s deliberate
+      killing of journalists in the Gaza Strip. In 2012, for example, she fired off
+      a letter to the New York Times which smeared Palestinian journalists slain at
+      the hands of the Israeli military: “Such terrorists who hold cameras and notebooks
+      in their hands, are no different from their colleagues who fire rockets aimed
+      at Israeli cities and cannot enjoy the rights and protection afforded to legitimate
+      journalists,” she wrote. In 2016, Leibovich appeared at Washington DC’s Newseum
+      amid protests – including by this reporter–  and condemnation from the Palestinian
+      Journalists’ Syndicate, which urged the institution in a May 31 letter “not to
+      provide a platform to someone who has justified, on record and to a world audience,
+      Israel’s grave violations of international law and war crimes, and in particular
+      attacks against journalists and press freedoms.” Chaired by Leibovich, the 2018
+      GC4I panel featured featured the Jerusalem Bureau Chief of RT, Paula Slier, and
+      Laurent Lozano, who held the same position at Agence France Press, alongside the
+      AP’s Federman. Slier has since left RT, while Lozano is currently AFP’s bureau
+      chief in Dakar, Senegal. Reached by The Grayzone, Slier described the gathering
+      as “a very pleasant experience.” She said she considered her participation in
+      a semi-covert Israeli government conference as a normal part of her duties as
+      a correspondent in Jerusalem. “It was a chance for them to hear how foreign channels
+      worked in Israel,” Slier commented. “I used to participate and attend all conferences
+      – whether they were pro-Israel or pro-Palestinian – I thought it important to
+      engage with everyone, and it was also an opportunity to talk about RT.” GC4I launched
+      at “secret conference” with “closed sessions” on criminalizing BDS GC4I’s first
+      gathering took place in 2010, at a time of heightened Zionist anxiety about the
+      rising global grassroots movement to boycott Israel. A who’s who of Israeli lobbyists
+      from the US, UK and Australia were on hand, alongside Israeli officials from the
+      office of Prime Minister Benjamin Netanyahu and the newly created Ministry of
+      Strategic Affairs. “The aim was to end the perceived lack of co-ordination within
+      the pro-Israel movement, a concern frequently voiced by Israel-advocates,” wrote
+      researcher Hil Aked. Marcus Dysch of the Jewish Chronicle gained access to a 2014
+      GC4I meeting in London, England. He described it as a “secret conference…held
+      in closed sessions amid heavy security.” “We have the resources. We have the intelligence.
+      Most important, we have unbounded determination,” Ronald Lauder, the billionaire
+      Zionist financier and Netanyahu confidant, told the crowd of Jewish communal leaders
+      and Israeli officials in London. Lauder pledged to leverage his fortune to criminalize
+      the BDS movement: “We will draft and lobby for legislation that will withhold
+      government funding from academic institutions that boycott Israel.” Reporting
+      back to Jewish Federation at home, minimizing deaths in Gaza Well before he emerged
+      in the Middle East as a reporter, Josef Federman enrolled as a graduate student
+      at Israel’s Hebrew University. He grew up in Westborough, Massachusetts, where
+      his parents helped found the B’nai Shalom Congregation, a Reform Jewish synagogue.
+      Federman has returned on two occasions to deliver lectures at the synagogue, once
+      in 2021 to discuss the Abraham Accords alongside an Israeli academic, and again
+      in March 2024, during the height of Israel’s genocidal campaign in Gaza, for an
+      event titled, “Reporting from Israel.” That speech was co-sponsored by the Jewish
+      Federations of Central Massachusetts, a top sponsor of pro-Israel lobbing inside
+      the US. Two months later, the Israeli government seized camera equipment from
+      the AP to prevent it from live-streaming video from the Israeli side of the northern
+      Gaza frontier. While Israel announced that it would return the equipment and allow
+      the broadcasts to continue, the event eerily foreshadowed the Israeli military’s
+      double tap strike on the Reuters live position at the Nasser Hospital in Khan
+      Younis this August 24. The following month, Federman published a piece of “AP
+      data analysis” that relied on dubious statistics to advance one of Israel’s most
+      important propaganda objectives in Gaza. According to the headline of Federman’s
+      piece, “Women and children are killed less frequently as war’s toll rises.” The
+      article therefore implied that all men in Gaza between the ages of 18 and 59 were
+      possible militants. Throughout the piece, Federman referred to Gaza’s Health Ministry
+      as “Hamas-run,” casting doubt on its casualty counts. To legitimize his conclusions,
+      Federman turned to Gabriel Epstein, a researcher at the Washington Institute for
+      Near East Policy, or WINEP, the most prolific think tank of the Israel lobby in
+      Washington DC. WINEP director Robert Satloff, a veteran Israel lobbyist, praised
+      the AP’s Federman for “tak[ing] a big step toward setting the record straight.”
+      Another researcher cited in the article, Michael Spagat, defended the quality
+      of death counts by Gaza’s Health Ministry. Months later, in September 2024, Spagat
+      revised his view of the death toll, declaring, “I now believe that the true death
+      toll almost certainly exceeds the official total.” This August, a review of an
+      internal Israeli intelligence database further discredited Federman’s analysis,
+      revealing that 83% of those killed by the Israeli military in Gaza were civilians.
+      Today, Federman’s “data analysis” on the Gaza death has been discredited by virtually
+      every expert outside the Israel lobby, and by the gruesome reality on the ground.
+      However, a revealing post remains on his personal LinkedIn page which shows him
+      liking a rant by Idit Shamir, consul general of Israel in Toronto, mocking the
+      official death count in Gaza: “Isn’t it curious?” wrote the Israeli official.
+      “Hamas is clueless about Israeli hostages’ status but has a crystal-clear count
+      of Palestinian casualties before Israeli strikes even occur!” Now that a fellow
+      AP reporter, Miriam Dagga, has joined the tens of thousands of civilians murdered
+      by Israel in Gaza over the past two years, Federman’s agency has been forced to
+      release a rare expression of outrage at Tel Aviv. The indignation offers a stark
+      contrast from the comity Federman displayed when he bantered at an Israeli government
+      conference with the former IDF official who legitimized the policy that would
+      claim Dagga’s life. Please share this story and help us grow our network! Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Max Blumenthal
+      The editor-in-chief of The Grayzone, Max Blumenthal is an award-winning journalist
+      and the author of several books, including best-selling Republican Gomorrah ,
+      Goliath , The Fifty One Day War , and The Management of Savagery . He has produced
+      print articles for an array of publications, many video reports, and several documentaries,
+      including Killing Gaza . Blumenthal founded The Grayzone in 2015 to shine a journalistic
+      light on America’s state of perpetual war and its dangerous domestic repercussions.
+      Author Site'
+    one_sentence_summary: The Israeli military's deliberate attack on a civilian target
+      in Gaza, resulting in the deaths of five journalists, has escalated tensions between
+      the Associated Press and the Israeli government, particularly following the AP's
+      investigation and condemnation of the incident.
+    paragraph_summary: On August 24, 2025, the Israeli military killed five journalists
+      at Nasser Hospital in Khan Younis, Gaza, leading to a strong condemnation from
+      the Associated Press (AP) and Reuters, both of which had reporters among the victims.
+      The AP's investigation revealed that the Israeli military intentionally targeted
+      civilians and executed a second strike after rescuers and journalists arrived.
+      This incident heightened tensions between the AP and the Israeli government, despite
+      a history of collaboration, as leaked documents show that AP's news director for
+      the region, Josef Federman, participated in a 2018 panel aimed at promoting Israel's
+      narrative, hosted by a government-affiliated organization. Since the onset of
+      Israel's military actions in Gaza in October 2023, Federman has been accused of
+      shaping coverage that aligns with Israeli objectives, including perpetuating discredited
+      claims about violence against Israelis.
+    published: '2025-09-07T09:00:00+00:00'
+  - title: Palestinian American Mediator Says He Gave Hamas a US Proposal for Permanent
+      Gaza Ceasefire
+    url: https://scheerpost.com/2025/09/07/palestinian-american-mediator-says-he-gave-hamas-a-us-proposal-for-permanent-gaza-ceasefire/
+    text: 'Bishara Bahbah. Source: Wikimedia Commons By Dave DeCamp / Anitwar.com Palestinian
+      American businessman Bishara Bahbah, who has been involved in Gaza ceasefire negotiations,
+      has said that he passed to Hamas a US proposal for a deal that would involve the
+      release of all remaining Israeli captives in Gaza and an end to Israel’s genocidal
+      war on the Strip. Bahbah said that he passed the offer to Hamas before President
+      Trump said in a post on Truth Social on Wednesday that Hamas must “give back all
+      20 Hostages,” a reference to the remaining Israelis held in Gaza who are believed
+      to be alive. Bahbah said that Hamas was initially skeptical of the US proposal,
+      but after Trump’s post, the group released a statement that reiterated its willingness
+      to release all Israeli hostages as part of a comprehensive deal that would involve
+      a permanent ceasefire and an Israeli withdrawal from Gaza. “When [Hamas] saw the
+      president’s tweet, they were convinced that this was official,” Bahbah told Al
+      Arabiya on Wednesday evening, according to Drop Site News . “Hamas’s reaction
+      was almost immediate: They agreed to this deal. They wanted a comprehensive deal—let’s
+      hand over all the hostages and receive a certain number of Palestinian prisoners
+      in return, and at the same time, the war should end.” Israeli Prime Minister Benjamin
+      Netanyahu dismissed Hamas’s statement as “more spin” and Bahbah acknowledged that
+      a deal was unlikely unless the US put pressure on Israel. “What I know is that
+      the American side has increased its involvement in this process. And naturally,
+      it all comes back to the kind and amount of pressure on Israel to strike any deal.
+      Without American pressure, nothing will happen,” he said. “What’s on the table
+      now is an American offer. Is America ready to clash with Israel to implement this
+      American vision, or not? I don’t know. The president wants to end the war in Gaza.
+      President Trump wants to end the war in Gaza,” Bahbah added. Asked how US envoy
+      Steve Witkoff responded to Hamas’s statement, Bahbah said, “The response was:
+      ‘This is a positive thing, let’s finish the process.’” So far, there’s no sign
+      that the Trump administration is willing to put pressure on Israel to end the
+      genocidal war, as Trump has provided public support for Israel’s recent escalation
+      and continues to provide military aid, which Israel relies on to sustain military
+      operations. The details of the US proposal for a comprehensive deal remain unclear.
+      Hamas has said it is willing to give up governance to an “independent national
+      administration of technocrats.” Hamas has previously rejected Israeli demands
+      to disarm, saying that will happen only if a Palestinian state is formed and a
+      viable Palestinian force can replace its military wing. Please share this story
+      and help us grow our network! Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Dave DeCamp Dave DeCamp is the news
+      editor of Antiwar.com, follow him on Twitter @decampdave. Author Site'
+    one_sentence_summary: Palestinian American businessman Bishara Bahbah has conveyed
+      a US proposal to Hamas for a deal involving the release of Israeli captives and
+      a ceasefire in Gaza, which gained traction after President Trump's public statement
+      on the hostages.
+    paragraph_summary: Palestinian American businessman Bishara Bahbah has been involved
+      in negotiations for a ceasefire in Gaza and recently conveyed a US proposal to
+      Hamas that includes the release of all Israeli captives in exchange for a permanent
+      ceasefire and an end to the conflict. Initially skeptical, Hamas responded positively
+      after a tweet from former President Trump emphasized the need for the return of
+      hostages, indicating their willingness to negotiate a comprehensive deal. However,
+      Israeli Prime Minister Benjamin Netanyahu dismissed Hamas's statement as mere
+      propaganda, and Bahbah noted that any potential agreement would require significant
+      US pressure on Israel. He emphasized the importance of American involvement in
+      the process and questioned whether the US would be willing to confront Israel
+      to facilitate the proposed deal.
+    published: '2025-09-07T09:00:00+00:00'
+  - title: AP Jerusalem Chief Participated In Secretive Israeli Government Anti-BDS
+      Event, Leaked Files Reveal
+    url: https://scheerpost.com/2025/09/07/ap-jerusalem-chief-participated-in-secretive-israeli-government-anti-bds-event-leaked-files-reveal/
+    text: 'By Max Blumenthal / The Grayzone The Israeli massacre of five journalists
+      in broad daylight on August 24, 2025 at Nasser Hospital in Gaza’s Khan Younis
+      city prompted a sternly worded statement to the Israeli government from the Associated
+      Press and Reuters, which each employed a reporter murdered by the IDF. The AP
+      subsequently published a detailed investigation demonstrating that the Israeli
+      military knowingly attacked a civilian target, then carried out a double tap strike
+      after a rescue team and journalists arrived on the scene. While the AP’s statement
+      of outrage about the killing of its photographer in Gaza, Miriam Dagga, has brought
+      the leading wire agency’s tension with the Israeli government to its height, the
+      relationship with Tel Aviv was not always so adversarial. The Grayzone has reviewed
+      leaked documents revealing that the AP’s news director for Israel-Palestine, Josef
+      Federman , participated in a private 2018 panel discussion aimed at assisting
+      “Israel’s ability to effectively portray its narrative.” His host was a secretive
+      Israeli government outfit dedicated to combatting the global BDS campaign to boycott,
+      divest from, and sanction Israel. Called the Global Coalition For Israel (GC4I),
+      the event was convened in Jerusalem on June 18, 2018 by Israel’s Ministry of Strategic
+      Affairs and Diplomacy – the de facto propaganda arm of the Israeli government.
+      The moderator of the panel in which Federman participated was Avital Leibovich,
+      the former spokeswoman for the IDF who has ardently defended the Israeli policy
+      of defining Palestinian journalists as terrorists in order to assassinate them.
+      Federman has presided over the AP’s coverage of Israel-Palestine since 2014. Throughout
+      Israel’s genocidal assault on Gaza began in October 2023, Federman has helped
+      shape a narrative that has subtly but effectively advanced Tel Aviv’s objectives,
+      regurgitating the baseless and comprehensively debunked claim that “Israelis were
+      raped or sexually assaulted” on October 7; legitimizing Israel’s violent invasion
+      and theft of Syrian land as a historical “shift,” and relying on bogus data from
+      an Israel lobby-affiliated researcher to minimize the civilian death count in
+      Gaza – a grim toll which now includes one of his colleagues at AP. Federman’s
+      penchant for uncritically quoting notoriously mendacious Israeli military officials
+      has helped secure his reputation for biased coverage. In typical @joseffederman
+      fashion, his only contribution to @AP coverage is to ensure that it reads like
+      an Israeli press release. pic.twitter.com/3JJOaWI4xB — Monitoring Spin (@monitoringspin)
+      September 23, 2024 Federman’s participation in the 2018 Israeli government anti-BDS
+      event appears to contradict clearly stated AP guidelines on conflicts of interest.
+      According to the AP’s website , “We avoid addressing, or accepting fees or expenses
+      from, governmental bodies; trade, lobbying or special interest groups; businesses,
+      or labor groups; or any group that would pose a conflict of interest.” In response
+      to a detailed query from The Grayzone about Federman’s participation in the semi-covert
+      conference, AP Vice President of Corporate Communications Lauren Easton stated,
+      “Josef Federman is a professional journalist and a former chairman of Israel’s
+      Foreign Press Association. It is not uncommon for journalists to speak about their
+      work at conferences and other events. It remains AP policy to refrain from accepting
+      honoraria, and that policy was followed here.” The details of the GC41’s gathering
+      were gleaned from a massive tranche of documents extracted by hackers from Israel’s
+      Ministry of Justice in 2024. A full schedule and list of GC4I conference participants
+      has never been seen before by the public. View GC4I’s 2018 schedule here . AP,
+      other agencies join semi-secret Israeli gov’t event chaired by ex-IDF official
+      who justified killing journalists When GC4I gathered in 2018, it met at the Mamilla
+      Hotel Conference Hall in Jerusalem for two days of discussions and briefings on
+      the fight to crush the growing Palestine solidarity movement and its BDS campaign.
+      The conference opened with an address by Sima Vaknin-Gil , then the Director-General
+      of Israel’s Ministry of Strategic Affairs. A former Israeli intelligence official,
+      Vakhnin-Gil had emerged as one of the most influential coordinators of the country’s
+      propaganda efforts abroad, especially in the US, where she helps the Israeli government
+      evade the Foreign Agent Registration Act law. Her speech was followed by a discussion
+      moderated by celebrity Republican pollster Frank Luntz on the feasibility of defining
+      the BDS movement as a “hate group.” Further panels focused on “developing relations
+      in the corridors of power” and “how…legislation in Europe and the United States
+      can be used to reduce funding for organizations delegitimizing Israel.” On the
+      second day of the GC41 conference, Federman joined a panel aimed at “discuss[ing]
+      the difficulties of reporting fairly and accurately on Israel, while dealing with
+      issues such as BDS, delegitimization, and the Israel-Palestinian conflict.” The
+      panel was explicitly aimed at helping the Zionist operatives gathered at the GC4I
+      “understand the shortcomings in Israel’s ability to effectively portray its narrative,
+      what reporters are looking for when writing an article and why the anti-Israel
+      camp’s narrative resonates in the Western world.” Avital Leibovich, a former IDF
+      spokeswoman who moved on the American Jewish Committee, chaired the panel. During
+      her stint at the IDF, Leibovich played a leading role in justifying Israel’s deliberate
+      killing of journalists in the Gaza Strip. In 2012, for example, she fired off
+      a letter to the New York Times which smeared Palestinian journalists slain at
+      the hands of the Israeli military: “Such terrorists who hold cameras and notebooks
+      in their hands, are no different from their colleagues who fire rockets aimed
+      at Israeli cities and cannot enjoy the rights and protection afforded to legitimate
+      journalists,” she wrote. In 2016, Leibovich appeared at Washington DC’s Newseum
+      amid protests – including by this reporter–  and condemnation from the Palestinian
+      Journalists’ Syndicate, which urged the institution in a May 31 letter “not to
+      provide a platform to someone who has justified, on record and to a world audience,
+      Israel’s grave violations of international law and war crimes, and in particular
+      attacks against journalists and press freedoms.” Chaired by Leibovich, the 2018
+      GC4I panel featured featured the Jerusalem Bureau Chief of RT, Paula Slier, and
+      Laurent Lozano, who held the same position at Agence France Press, alongside the
+      AP’s Federman. Slier has since left RT, while Lozano is currently AFP’s bureau
+      chief in Dakar, Senegal. Reached by The Grayzone, Slier described the gathering
+      as “a very pleasant experience.” She said she considered her participation in
+      a semi-covert Israeli government conference as a normal part of her duties as
+      a correspondent in Jerusalem. “It was a chance for them to hear how foreign channels
+      worked in Israel,” Slier commented. “I used to participate and attend all conferences
+      – whether they were pro-Israel or pro-Palestinian – I thought it important to
+      engage with everyone, and it was also an opportunity to talk about RT.” GC4I launched
+      at “secret conference” with “closed sessions” on criminalizing BDS GC4I’s first
+      gathering took place in 2010, at a time of heightened Zionist anxiety about the
+      rising global grassroots movement to boycott Israel. A who’s who of Israeli lobbyists
+      from the US, UK and Australia were on hand, alongside Israeli officials from the
+      office of Prime Minister Benjamin Netanyahu and the newly created Ministry of
+      Strategic Affairs. “The aim was to end the perceived lack of co-ordination within
+      the pro-Israel movement, a concern frequently voiced by Israel-advocates,” wrote
+      researcher Hil Aked. Marcus Dysch of the Jewish Chronicle gained access to a 2014
+      GC4I meeting in London, England. He described it as a “secret conference…held
+      in closed sessions amid heavy security.” “We have the resources. We have the intelligence.
+      Most important, we have unbounded determination,” Ronald Lauder, the billionaire
+      Zionist financier and Netanyahu confidant, told the crowd of Jewish communal leaders
+      and Israeli officials in London. Lauder pledged to leverage his fortune to criminalize
+      the BDS movement: “We will draft and lobby for legislation that will withhold
+      government funding from academic institutions that boycott Israel.” Reporting
+      back to Jewish Federation at home, minimizing deaths in Gaza Well before he emerged
+      in the Middle East as a reporter, Josef Federman enrolled as a graduate student
+      at Israel’s Hebrew University. He grew up in Westborough, Massachusetts, where
+      his parents helped found the B’nai Shalom Congregation, a Reform Jewish synagogue.
+      Federman has returned on two occasions to deliver lectures at the synagogue, once
+      in 2021 to discuss the Abraham Accords alongside an Israeli academic, and again
+      in March 2024, during the height of Israel’s genocidal campaign in Gaza, for an
+      event titled, “Reporting from Israel.” That speech was co-sponsored by the Jewish
+      Federations of Central Massachusetts, a top sponsor of pro-Israel lobbing inside
+      the US. Two months later, the Israeli government seized camera equipment from
+      the AP to prevent it from live-streaming video from the Israeli side of the northern
+      Gaza frontier. While Israel announced that it would return the equipment and allow
+      the broadcasts to continue, the event eerily foreshadowed the Israeli military’s
+      double tap strike on the Reuters live position at the Nasser Hospital in Khan
+      Younis this August 24. The following month, Federman published a piece of “AP
+      data analysis” that relied on dubious statistics to advance one of Israel’s most
+      important propaganda objectives in Gaza. According to the headline of Federman’s
+      piece, “Women and children are killed less frequently as war’s toll rises.” The
+      article therefore implied that all men in Gaza between the ages of 18 and 59 were
+      possible militants. Throughout the piece, Federman referred to Gaza’s Health Ministry
+      as “Hamas-run,” casting doubt on its casualty counts. To legitimize his conclusions,
+      Federman turned to Gabriel Epstein, a researcher at the Washington Institute for
+      Near East Policy, or WINEP, the most prolific think tank of the Israel lobby in
+      Washington DC. WINEP director Robert Satloff, a veteran Israel lobbyist, praised
+      the AP’s Federman for “tak[ing] a big step toward setting the record straight.”
+      Another researcher cited in the article, Michael Spagat, defended the quality
+      of death counts by Gaza’s Health Ministry. Months later, in September 2024, Spagat
+      revised his view of the death toll, declaring, “I now believe that the true death
+      toll almost certainly exceeds the official total.” This August, a review of an
+      internal Israeli intelligence database further discredited Federman’s analysis,
+      revealing that 83% of those killed by the Israeli military in Gaza were civilians.
+      Today, Federman’s “data analysis” on the Gaza death has been discredited by virtually
+      every expert outside the Israel lobby, and by the gruesome reality on the ground.
+      However, a revealing post remains on his personal LinkedIn page which shows him
+      liking a rant by Idit Shamir, consul general of Israel in Toronto, mocking the
+      official death count in Gaza: “Isn’t it curious?” wrote the Israeli official.
+      “Hamas is clueless about Israeli hostages’ status but has a crystal-clear count
+      of Palestinian casualties before Israeli strikes even occur!” Now that a fellow
+      AP reporter, Miriam Dagga, has joined the tens of thousands of civilians murdered
+      by Israel in Gaza over the past two years, Federman’s agency has been forced to
+      release a rare expression of outrage at Tel Aviv. The indignation offers a stark
+      contrast from the comity Federman displayed when he bantered at an Israeli government
+      conference with the former IDF official who legitimized the policy that would
+      claim Dagga’s life. Please share this story and help us grow our network! Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Max Blumenthal
+      The editor-in-chief of The Grayzone, Max Blumenthal is an award-winning journalist
+      and the author of several books, including best-selling Republican Gomorrah ,
+      Goliath , The Fifty One Day War , and The Management of Savagery . He has produced
+      print articles for an array of publications, many video reports, and several documentaries,
+      including Killing Gaza . Blumenthal founded The Grayzone in 2015 to shine a journalistic
+      light on America’s state of perpetual war and its dangerous domestic repercussions.
+      Author Site'
+    one_sentence_summary: The Israeli military's deliberate attack on a civilian target
+      in Gaza, resulting in the deaths of five journalists, has escalated tensions between
+      the Associated Press and the Israeli government, particularly following the AP's
+      investigation and condemnation of the incident.
+    paragraph_summary: On August 24, 2025, the Israeli military killed five journalists
+      at Nasser Hospital in Khan Younis, Gaza, leading to a strong condemnation from
+      the Associated Press (AP) and Reuters, both of which had reporters among the victims.
+      The AP's investigation revealed that the Israeli military intentionally targeted
+      civilians and executed a second strike after rescuers and journalists arrived.
+      This incident heightened tensions between the AP and the Israeli government, despite
+      a history of collaboration, as leaked documents show that AP's news director for
+      the region, Josef Federman, participated in a 2018 panel aimed at promoting Israel's
+      narrative, hosted by a government-affiliated organization. Since the onset of
+      Israel's military actions in Gaza in October 2023, Federman has been accused of
+      shaping coverage that aligns with Israeli objectives, including perpetuating discredited
+      claims about violence against Israelis.
+    published: '2025-09-07T09:00:00+00:00'
+  - title: Palestinian American Mediator Says He Gave Hamas a US Proposal for Permanent
+      Gaza Ceasefire
+    url: https://scheerpost.com/2025/09/07/palestinian-american-mediator-says-he-gave-hamas-a-us-proposal-for-permanent-gaza-ceasefire/
+    text: 'Bishara Bahbah. Source: Wikimedia Commons By Dave DeCamp / Anitwar.com Palestinian
+      American businessman Bishara Bahbah, who has been involved in Gaza ceasefire negotiations,
+      has said that he passed to Hamas a US proposal for a deal that would involve the
+      release of all remaining Israeli captives in Gaza and an end to Israel’s genocidal
+      war on the Strip. Bahbah said that he passed the offer to Hamas before President
+      Trump said in a post on Truth Social on Wednesday that Hamas must “give back all
+      20 Hostages,” a reference to the remaining Israelis held in Gaza who are believed
+      to be alive. Bahbah said that Hamas was initially skeptical of the US proposal,
+      but after Trump’s post, the group released a statement that reiterated its willingness
+      to release all Israeli hostages as part of a comprehensive deal that would involve
+      a permanent ceasefire and an Israeli withdrawal from Gaza. “When [Hamas] saw the
+      president’s tweet, they were convinced that this was official,” Bahbah told Al
+      Arabiya on Wednesday evening, according to Drop Site News . “Hamas’s reaction
+      was almost immediate: They agreed to this deal. They wanted a comprehensive deal—let’s
+      hand over all the hostages and receive a certain number of Palestinian prisoners
+      in return, and at the same time, the war should end.” Israeli Prime Minister Benjamin
+      Netanyahu dismissed Hamas’s statement as “more spin” and Bahbah acknowledged that
+      a deal was unlikely unless the US put pressure on Israel. “What I know is that
+      the American side has increased its involvement in this process. And naturally,
+      it all comes back to the kind and amount of pressure on Israel to strike any deal.
+      Without American pressure, nothing will happen,” he said. “What’s on the table
+      now is an American offer. Is America ready to clash with Israel to implement this
+      American vision, or not? I don’t know. The president wants to end the war in Gaza.
+      President Trump wants to end the war in Gaza,” Bahbah added. Asked how US envoy
+      Steve Witkoff responded to Hamas’s statement, Bahbah said, “The response was:
+      ‘This is a positive thing, let’s finish the process.’” So far, there’s no sign
+      that the Trump administration is willing to put pressure on Israel to end the
+      genocidal war, as Trump has provided public support for Israel’s recent escalation
+      and continues to provide military aid, which Israel relies on to sustain military
+      operations. The details of the US proposal for a comprehensive deal remain unclear.
+      Hamas has said it is willing to give up governance to an “independent national
+      administration of technocrats.” Hamas has previously rejected Israeli demands
+      to disarm, saying that will happen only if a Palestinian state is formed and a
+      viable Palestinian force can replace its military wing. Please share this story
+      and help us grow our network! Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Dave DeCamp Dave DeCamp is the news
+      editor of Antiwar.com, follow him on Twitter @decampdave. Author Site'
+    one_sentence_summary: Palestinian American businessman Bishara Bahbah has conveyed
+      a US proposal to Hamas for a deal involving the release of Israeli captives and
+      a ceasefire in Gaza, which gained traction after President Trump's public statement
+      on the hostages.
+    paragraph_summary: Palestinian American businessman Bishara Bahbah has been involved
+      in negotiations for a ceasefire in Gaza and recently conveyed a US proposal to
+      Hamas that includes the release of all Israeli captives in exchange for a permanent
+      ceasefire and an end to the conflict. Initially skeptical, Hamas responded positively
+      after a tweet from former President Trump emphasized the need for the return of
+      hostages, indicating their willingness to negotiate a comprehensive deal. However,
+      Israeli Prime Minister Benjamin Netanyahu dismissed Hamas's statement as mere
+      propaganda, and Bahbah noted that any potential agreement would require significant
+      US pressure on Israel. He emphasized the importance of American involvement in
+      the process and questioned whether the US would be willing to confront Israel
+      to facilitate the proposed deal.
+    published: '2025-09-07T09:00:00+00:00'
+  - title: The United Nations Turns Eighty
+    url: https://scheerpost.com/2025/09/06/the-united-nations-turns-eighty/
+    text: 'Per Krohg (Norway), Untitled (Mural for Peace), 1952. In one of the scariest
+      moments in modern history, we''re doing our best at ScheerPost to pierce the fog
+      of lies that conceal it but we need some help to pay our writers and staff. Please
+      consider a tax-deductible donation . By Vijay Prashad / Tricontinental: Institute
+      for Social Research There is only one treaty in the world that, despite its limitations,
+      binds nations together: the United Nations Charter. Representatives of fifty nations
+      wrote and ratified the UN Charter in 1945, with others joining in the years that
+      followed. The charter itself only sets the terms for the behaviour of nations.
+      It does not and cannot create a new world. It depends on individual nations to
+      either live by the charter or die without it. The charter remains incomplete.
+      It needed a Universal Declaration of Human Rights in 1948, and even that was contested
+      as political and civil rights had to eventually be separated from the social and
+      economic rights. Deep rifts in political visions created fissures in the UN system
+      that have kept it from effectively addressing problems in the world. The UN is
+      now eighty. It is a miracle that it has lasted this long. The League of Nations
+      was founded in 1920 and lasted only eighteen years of relative peace (until World
+      War II began in China in 1937). The UN is only as strong as the community of nations
+      that comprises it. If the community is weak, then the UN is weak. As an independent
+      body, it cannot be expected to fly in like an angel and whisper into the ears
+      of the belligerents and stop them. The UN can only blow the whistle, an umpire
+      for a game whose rules are routinely broken by the more powerful states. It offers
+      a convenient punching bag for all sides of the political spectrum: it is blamed
+      if crises are not solved and if relief efforts fall short. Can the UN stop the
+      Israeli genocide in Gaza? UN officials have made strong statements during the
+      genocide, with Secretary General António Guterres saying that ‘Gaza is a killing
+      field – and civilians are in an endless death loop’ (8 April 2025) and that the
+      famine in Gaza is ‘not a mystery – it is a man-made disaster, a moral indictment,
+      and a failure of humanity itself’ (22 August 2025). These are powerful words,
+      but they have amounted to nothing, calling into question the efficacy of the UN
+      itself. The UN is not one body but two halves. The most public face of the UN
+      is the UN Security Council (UNSC), which has come to stand in as its executive
+      arm. The UNSC is made up of fifteen countries: five are permanent members (China,
+      France, Russia, the United Kingdom, and the United States) and the others are
+      elected for two-year terms. The five permanent members (the P5) hold veto power
+      over the decisions of the council. If one of the P5 does not like a decision,
+      they are able to scuttle it with their veto. Each time the UNSC has been presented
+      with a resolution calling for a ceasefire, the United States has exercised its
+      veto to quash even that tepid measure (since 1972, the United States has vetoed
+      more than forty-five UNSC resolutions about the Israeli occupation of Palestine).
+      The UNSC stands in for the UN General Assembly (UNGA), whose one hundred and ninety-three
+      members can pass resolutions that try to set the tone for world opinion but are
+      often ignored. Since the start of the genocide, for instance, the UNGA has passed
+      five key resolutions calling for a ceasefire (the first in October 2023 and the
+      fifth in June 2025). But the UNGA has no real power in the UN system. The other
+      half of the UN is its myriad agencies, each set up to deal with this or that crisis
+      of the modern age. Some predate the UN itself, such as the International Labour
+      Organisation (ILO), which was created in 1919 and brought into the UN system in
+      1946 as its first specialised agency. Others would follow, including the United
+      Nations Children’s Fund (UNICEF), which advocates for the rights of children,
+      and the United Nations Educational, Scientific, and Cultural Organization (UNESCO),
+      which promotes tolerance and respect for the world’s cultures. Over the decades,
+      agencies have been created to advocate for and provide relief to refugees, to
+      ensure nuclear energy is used for peace rather than war, to improve global telecommunications,
+      and to expand development assistance. Their remit is impressive, although the
+      outcomes are more modest. Meagre funding from the world’s states is one limitation
+      (in 2022, the UN’s total expenditure was $67.5 billion, compared with over $2
+      trillion spent on the arms trade). This chronic underfunding is largely because
+      the world’s powers disagree over the direction of the UN and its agencies. Yet
+      without them, the suffering in the world would neither be recorded nor addressed.
+      The UN system has become the world’s humanitarian organisation largely because
+      neoliberal austerity and war have destroyed the capacity of most individual countries
+      to do this work themselves, and because non-governmental organisations are too
+      small to meaningfully fill in the gap. With the disintegration of the Soviet Union,
+      the entire balance of the world system changed and the UN went into a cycle of
+      internal reform initiatives: from Boutros Boutros-Ghali’s An Agenda for Peace
+      (1992) and An Agenda for Development (1994) and Kofi Annan’s Renewing the United
+      Nations (1997) to Guterres’ Our Common Agenda (2021), Summit of the Future (2024),
+      and UN80 Task Force (2025). The UN80 Task Force is the deepest reform imaged,
+      but its three areas of interest (internal efficiency, mandate review, and programme
+      alignment) have been attempted previously (‘we’ve tried this exercise before’,
+      said Under-Secretary-General for Policy and Chair of the UN80 Task Force Guy Ryder).
+      The agenda set by the UN is focused on its own organisational weaknesses and does
+      not address the largely political questions that scuttle the UN’s work. A broader
+      agenda would need to include the following points: Move the UN Secretariat to
+      the Global South . Almost all UN agencies are headquartered in either Europe or
+      the United States, where the UN Secretariat itself is located. There have been
+      occasional proposals to move UNICEF, the UN Population Fund, and UN Women to Nairobi,
+      Kenya, which already hosts the UN Environment Programme and UN-Habitat . It is
+      about time that the UN Secretariat leave New York and go to the Global South,
+      not least to prevent Washington from using visa denials to punish UN officials
+      who criticise US or Israeli power. With the US preventing Palestinian officials
+      from entering the US for the UN General Assembly, there have been calls already
+      to move the UNGA meeting to Geneva. Why not permanently leave the United States?
+      Increase funding to the UN from the Global South . Currently, the largest funders
+      of the UN system are the United States (22%) and China (20%), with seven close
+      US allies contributing 28% (Japan, Germany, the United Kingdom, France, Italy,
+      Canada, and South Korea). The Global South – without China – contributes about
+      26% to the UN budget; with China, its contribution is 46%, nearly half of the
+      total budget. It is time for China to become the largest contributor to the UN,
+      surpassing the US, which wields its funding as a weapon against the organisation.
+      Increase funding for humanitarianism within states . Countries should be spending
+      more on alleviating human distress than on paying off wealthy bondholders. The
+      UN should not be the main agency to assist those in need. As we have shown , several
+      countries on the African continent spend more servicing debt than on education
+      and healthcare; unable to provide these essential functions, they come to rely
+      on the UN through UNICEF, UNESCO, and the WHO. States should build up their own
+      capacity rather than depend on this assistance. Cut the global arms trade . Wars
+      are waged not only for domination but for the profits of arms dealers. Annual
+      international arms exports are nearing $150 billion, with the United States and
+      Western European countries accounting for 73% of sales between 2020 and 2024.
+      In 2023 alone, the top one hundred arms manufacturers made $632 billion (largely
+      through sales by US companies to the US military). Meanwhile, the total UN peacekeeping
+      budget is only $5.6 billion, and 92% of the peacekeepers come from the Global
+      South. The Global North makes money on war, while the Global South sends its soldiers
+      and policemen to try and prevent conflicts. Strengthen regional peace and development
+      structures . To disperse some of the power from the UNSC, regional peace and development
+      structures such as the African Union must be strengthened and their views given
+      priority. If there are no permanent members in the UNSC from Africa, the Arab
+      world, or from Latin America, why should these regions be held captive by the
+      veto wielded by the P5? If the power to settle disputes were to rest more in regional
+      structures, then the absolute authority of the UNSC could be somewhat diluted.
+      With the genocide unrelenting, another wave of boats filled with solidarity activists
+      – the Freedom Flotilla – attempts to reach Gaza. On one of the boats is Ayoub
+      Habraoui, a member of Morocco’s Workers’ Democratic Way Party who represents the
+      International Peoples’ Assembly. He sent me this message: What is happening in
+      Gaza is not a conventional war – it is a slow-motion genocide unfolding before
+      the eyes of the world. I am joining because deliberate starvation is being used
+      as a weapon to break the will of a defenceless people – denied medicine, food,
+      and water, while children die in their mothers’ arms. I am joining because humanity
+      is indivisible. Whoever accepts a siege today will accept injustice anywhere tomorrow.
+      Silence is complicity in the crime, and indifference is a betrayal of the very
+      values we claim to uphold. This flotilla is more than just boats – it is a global
+      cry of conscience that declares: no to the siege of entire populations, no to
+      starving the innocent, no to genocide. We may be stopped, but the very act of
+      sailing is a declaration: Gaza is not alone. We are all witnesses to the truth
+      – and voices against slow death. Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Vijay Prashad Vijay Prashad is an
+      Indian historian, editor and journalist. He is a writing fellow and chief correspondent
+      at Globetrotter. He is an editor of LeftWord Books and the director of Tricontinental:
+      Institute for Social Research . He is a senior non-resident fellow at Chongyang
+      Institute for Financial Studies , Renmin University of China. He has written more
+      than 20 books, including The Darker Nations and The Poorer Nations . His latest
+      books are Struggle Makes Us Human: Learning from Movements for Socialism and (with
+      Noam Chomsky) The Withdrawal: Iraq, Libya, Afghanistan, and the Fragility of U.S.
+      Power . Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: The article discusses the United Nations Charter as the only
+      global treaty that unites nations, highlighting its limitations and the need for
+      further development, particularly in relation to human rights.
+    paragraph_summary: The article by Vijay Prashad discusses the limitations and challenges
+      faced by the United Nations (UN) since its establishment in 1945, emphasizing
+      that while the UN Charter serves as a foundational treaty for international relations,
+      it relies on the commitment of individual nations to uphold its principles. Despite
+      the addition of the Universal Declaration of Human Rights in 1948, the UN has
+      struggled to effectively address global issues due to deep political divisions
+      among member states. As the UN approaches its eightieth anniversary, its effectiveness
+      is questioned, particularly in light of ongoing crises such as the situation in
+      Gaza, where its role is often criticized as insufficient. The article highlights
+      the UN's dependency on the strength and cooperation of its member nations, noting
+      that its authority is undermined when powerful states disregard its rules.
+    published: '2025-09-06T12:44:46+00:00'
+  - title: The United Nations Turns Eighty
+    url: https://scheerpost.com/2025/09/06/the-united-nations-turns-eighty/
+    text: 'Per Krohg (Norway), Untitled (Mural for Peace), 1952. In one of the scariest
+      moments in modern history, we''re doing our best at ScheerPost to pierce the fog
+      of lies that conceal it but we need some help to pay our writers and staff. Please
+      consider a tax-deductible donation . By Vijay Prashad / Tricontinental: Institute
+      for Social Research There is only one treaty in the world that, despite its limitations,
+      binds nations together: the United Nations Charter. Representatives of fifty nations
+      wrote and ratified the UN Charter in 1945, with others joining in the years that
+      followed. The charter itself only sets the terms for the behaviour of nations.
+      It does not and cannot create a new world. It depends on individual nations to
+      either live by the charter or die without it. The charter remains incomplete.
+      It needed a Universal Declaration of Human Rights in 1948, and even that was contested
+      as political and civil rights had to eventually be separated from the social and
+      economic rights. Deep rifts in political visions created fissures in the UN system
+      that have kept it from effectively addressing problems in the world. The UN is
+      now eighty. It is a miracle that it has lasted this long. The League of Nations
+      was founded in 1920 and lasted only eighteen years of relative peace (until World
+      War II began in China in 1937). The UN is only as strong as the community of nations
+      that comprises it. If the community is weak, then the UN is weak. As an independent
+      body, it cannot be expected to fly in like an angel and whisper into the ears
+      of the belligerents and stop them. The UN can only blow the whistle, an umpire
+      for a game whose rules are routinely broken by the more powerful states. It offers
+      a convenient punching bag for all sides of the political spectrum: it is blamed
+      if crises are not solved and if relief efforts fall short. Can the UN stop the
+      Israeli genocide in Gaza? UN officials have made strong statements during the
+      genocide, with Secretary General António Guterres saying that ‘Gaza is a killing
+      field – and civilians are in an endless death loop’ (8 April 2025) and that the
+      famine in Gaza is ‘not a mystery – it is a man-made disaster, a moral indictment,
+      and a failure of humanity itself’ (22 August 2025). These are powerful words,
+      but they have amounted to nothing, calling into question the efficacy of the UN
+      itself. The UN is not one body but two halves. The most public face of the UN
+      is the UN Security Council (UNSC), which has come to stand in as its executive
+      arm. The UNSC is made up of fifteen countries: five are permanent members (China,
+      France, Russia, the United Kingdom, and the United States) and the others are
+      elected for two-year terms. The five permanent members (the P5) hold veto power
+      over the decisions of the council. If one of the P5 does not like a decision,
+      they are able to scuttle it with their veto. Each time the UNSC has been presented
+      with a resolution calling for a ceasefire, the United States has exercised its
+      veto to quash even that tepid measure (since 1972, the United States has vetoed
+      more than forty-five UNSC resolutions about the Israeli occupation of Palestine).
+      The UNSC stands in for the UN General Assembly (UNGA), whose one hundred and ninety-three
+      members can pass resolutions that try to set the tone for world opinion but are
+      often ignored. Since the start of the genocide, for instance, the UNGA has passed
+      five key resolutions calling for a ceasefire (the first in October 2023 and the
+      fifth in June 2025). But the UNGA has no real power in the UN system. The other
+      half of the UN is its myriad agencies, each set up to deal with this or that crisis
+      of the modern age. Some predate the UN itself, such as the International Labour
+      Organisation (ILO), which was created in 1919 and brought into the UN system in
+      1946 as its first specialised agency. Others would follow, including the United
+      Nations Children’s Fund (UNICEF), which advocates for the rights of children,
+      and the United Nations Educational, Scientific, and Cultural Organization (UNESCO),
+      which promotes tolerance and respect for the world’s cultures. Over the decades,
+      agencies have been created to advocate for and provide relief to refugees, to
+      ensure nuclear energy is used for peace rather than war, to improve global telecommunications,
+      and to expand development assistance. Their remit is impressive, although the
+      outcomes are more modest. Meagre funding from the world’s states is one limitation
+      (in 2022, the UN’s total expenditure was $67.5 billion, compared with over $2
+      trillion spent on the arms trade). This chronic underfunding is largely because
+      the world’s powers disagree over the direction of the UN and its agencies. Yet
+      without them, the suffering in the world would neither be recorded nor addressed.
+      The UN system has become the world’s humanitarian organisation largely because
+      neoliberal austerity and war have destroyed the capacity of most individual countries
+      to do this work themselves, and because non-governmental organisations are too
+      small to meaningfully fill in the gap. With the disintegration of the Soviet Union,
+      the entire balance of the world system changed and the UN went into a cycle of
+      internal reform initiatives: from Boutros Boutros-Ghali’s An Agenda for Peace
+      (1992) and An Agenda for Development (1994) and Kofi Annan’s Renewing the United
+      Nations (1997) to Guterres’ Our Common Agenda (2021), Summit of the Future (2024),
+      and UN80 Task Force (2025). The UN80 Task Force is the deepest reform imaged,
+      but its three areas of interest (internal efficiency, mandate review, and programme
+      alignment) have been attempted previously (‘we’ve tried this exercise before’,
+      said Under-Secretary-General for Policy and Chair of the UN80 Task Force Guy Ryder).
+      The agenda set by the UN is focused on its own organisational weaknesses and does
+      not address the largely political questions that scuttle the UN’s work. A broader
+      agenda would need to include the following points: Move the UN Secretariat to
+      the Global South . Almost all UN agencies are headquartered in either Europe or
+      the United States, where the UN Secretariat itself is located. There have been
+      occasional proposals to move UNICEF, the UN Population Fund, and UN Women to Nairobi,
+      Kenya, which already hosts the UN Environment Programme and UN-Habitat . It is
+      about time that the UN Secretariat leave New York and go to the Global South,
+      not least to prevent Washington from using visa denials to punish UN officials
+      who criticise US or Israeli power. With the US preventing Palestinian officials
+      from entering the US for the UN General Assembly, there have been calls already
+      to move the UNGA meeting to Geneva. Why not permanently leave the United States?
+      Increase funding to the UN from the Global South . Currently, the largest funders
+      of the UN system are the United States (22%) and China (20%), with seven close
+      US allies contributing 28% (Japan, Germany, the United Kingdom, France, Italy,
+      Canada, and South Korea). The Global South – without China – contributes about
+      26% to the UN budget; with China, its contribution is 46%, nearly half of the
+      total budget. It is time for China to become the largest contributor to the UN,
+      surpassing the US, which wields its funding as a weapon against the organisation.
+      Increase funding for humanitarianism within states . Countries should be spending
+      more on alleviating human distress than on paying off wealthy bondholders. The
+      UN should not be the main agency to assist those in need. As we have shown , several
+      countries on the African continent spend more servicing debt than on education
+      and healthcare; unable to provide these essential functions, they come to rely
+      on the UN through UNICEF, UNESCO, and the WHO. States should build up their own
+      capacity rather than depend on this assistance. Cut the global arms trade . Wars
+      are waged not only for domination but for the profits of arms dealers. Annual
+      international arms exports are nearing $150 billion, with the United States and
+      Western European countries accounting for 73% of sales between 2020 and 2024.
+      In 2023 alone, the top one hundred arms manufacturers made $632 billion (largely
+      through sales by US companies to the US military). Meanwhile, the total UN peacekeeping
+      budget is only $5.6 billion, and 92% of the peacekeepers come from the Global
+      South. The Global North makes money on war, while the Global South sends its soldiers
+      and policemen to try and prevent conflicts. Strengthen regional peace and development
+      structures . To disperse some of the power from the UNSC, regional peace and development
+      structures such as the African Union must be strengthened and their views given
+      priority. If there are no permanent members in the UNSC from Africa, the Arab
+      world, or from Latin America, why should these regions be held captive by the
+      veto wielded by the P5? If the power to settle disputes were to rest more in regional
+      structures, then the absolute authority of the UNSC could be somewhat diluted.
+      With the genocide unrelenting, another wave of boats filled with solidarity activists
+      – the Freedom Flotilla – attempts to reach Gaza. On one of the boats is Ayoub
+      Habraoui, a member of Morocco’s Workers’ Democratic Way Party who represents the
+      International Peoples’ Assembly. He sent me this message: What is happening in
+      Gaza is not a conventional war – it is a slow-motion genocide unfolding before
+      the eyes of the world. I am joining because deliberate starvation is being used
+      as a weapon to break the will of a defenceless people – denied medicine, food,
+      and water, while children die in their mothers’ arms. I am joining because humanity
+      is indivisible. Whoever accepts a siege today will accept injustice anywhere tomorrow.
+      Silence is complicity in the crime, and indifference is a betrayal of the very
+      values we claim to uphold. This flotilla is more than just boats – it is a global
+      cry of conscience that declares: no to the siege of entire populations, no to
+      starving the innocent, no to genocide. We may be stopped, but the very act of
+      sailing is a declaration: Gaza is not alone. We are all witnesses to the truth
+      – and voices against slow death. Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Vijay Prashad Vijay Prashad is an
+      Indian historian, editor and journalist. He is a writing fellow and chief correspondent
+      at Globetrotter. He is an editor of LeftWord Books and the director of Tricontinental:
+      Institute for Social Research . He is a senior non-resident fellow at Chongyang
+      Institute for Financial Studies , Renmin University of China. He has written more
+      than 20 books, including The Darker Nations and The Poorer Nations . His latest
+      books are Struggle Makes Us Human: Learning from Movements for Socialism and (with
+      Noam Chomsky) The Withdrawal: Iraq, Libya, Afghanistan, and the Fragility of U.S.
+      Power . Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: The article discusses the United Nations Charter as the only
+      global treaty that unites nations, highlighting its limitations and the need for
+      further development, particularly in relation to human rights.
+    paragraph_summary: The article by Vijay Prashad discusses the limitations and challenges
+      faced by the United Nations (UN) since its establishment in 1945, emphasizing
+      that while the UN Charter serves as a foundational treaty for international relations,
+      it relies on the commitment of individual nations to uphold its principles. Despite
+      the addition of the Universal Declaration of Human Rights in 1948, the UN has
+      struggled to effectively address global issues due to deep political divisions
+      among member states. As the UN approaches its eightieth anniversary, its effectiveness
+      is questioned, particularly in light of ongoing crises such as the situation in
+      Gaza, where its role is often criticized as insufficient. The article highlights
+      the UN's dependency on the strength and cooperation of its member nations, noting
+      that its authority is undermined when powerful states disregard its rules.
+    published: '2025-09-06T12:44:46+00:00'
+  - title: Trump Administration Sanctions 3 Major Palestinian Human Rights Groups
+    url: https://scheerpost.com/2025/09/06/trump-administration-sanctions-3-major-palestinian-human-rights-groups/
+    text: 'Secretary Marco Rubio arrives at Mariscal Sucre International Airport in
+      Quito, Ecuador, September 3, 2025. (Official State Department photo by Freddie
+      Everett) In one of the scariest moments in modern history, we''re doing our best
+      at ScheerPost to pierce the fog of lies that conceal it but we need some help
+      to pay our writers and staff. Please consider a tax-deductible donation . By Sharon
+      Zhang / Truthout The U.S. State Department is facing heavy criticism after it
+      announced on Thursday it is imposing sanctions on three major Palestinian human
+      rights groups over their participation in the International Criminal Court’s case
+      (ICC) against top Israeli officials. Secretary of State Marco Rubio announced
+      he’s adding Al-Haq, Al Mezan Center for Human Rights, and the Palestinian Centre
+      for Human Rights (PCHR) to the list of “Specially Designated Nationals and Blocked
+      Persons List,” as part of President Donald Trump’s executive order sanctioning
+      the ICC. The three groups are leading human rights organizations in the occupied
+      Palestinian territories, operating out of the West Bank and Gaza. They have been
+      instrumental in monitoring Israel’s genocide in Gaza and annexation of the West
+      Bank, serving as a key voice of Palestinians amid Israel’s assaults. Sanctions
+      could have a vast chilling effect on their work. “These entities have directly
+      engaged in efforts by the International Criminal Court (ICC) to investigate, arrest,
+      detain, or prosecute Israeli nationals, without Israel’s consent,” Rubio said.
+      “We oppose the ICC’s politicized agenda, overreach, and disregard for the sovereignty
+      of the United States and that of our allies.” The groups decried the sanctions
+      in a joint statement calling on states to pressure the U.S. to lift the sanctions.
+      They noted that this is part of a longtime effort by Israel to silence Palestinian
+      voices, by law or by force. “Threatened by the impact and role of our advocacy,
+      legal research, and documentation in exposing Israel’s ongoing international crimes,
+      the United States has resorted to punishing individuals and organisations seeking
+      to uphold the legal system upon which the international community was founded,”
+      the groups said. “The implications go beyond Palestine: by protecting Israel from
+      accountability, they are dismantling the international legal order and undermining
+      the possibility of justice for victims of grave crimes anywhere,” the groups went
+      on. “But we will not give up nor be silenced. We will not bend to any State apparatus
+      or system fuelled by violence and oppression.” The sanctions come after the U.S.
+      sanctioned another Palestinian human rights group, Addameer, which focuses on
+      Palestinian prisoners’ rights, and UN Special Rapporteur for the occupied Palestinian
+      territories, Francesca Albanese. Rubio’s announcement was widely condemned. UN
+      human rights chief Volker Türk said in a statement that the sanctions are “completely
+      unacceptable.” “For decades now, these NGOs have been performing vital human rights
+      work, particularly on accountability for human rights violations,” said Türk.
+      “The work of civil society in documenting violations and engaging with international
+      accountability mechanisms is all the more important when international humanitarian
+      and human rights laws are being violated systematically in Gaza and the West Bank,
+      including East Jerusalem.” A coalition of Israeli and Palestinian human rights
+      groups , including major organizations like B’Tselem, called the sanctions “violent.”
+      “This is yet another move aimed at erasing fundamental norms of protecting human
+      beings, designed to enable Israel to continue harming Palestinians without restraint,”
+      the coalition said. Other major international human rights organizations like
+      Human Rights Watch and Amnesty International also denounced the Trump administration.
+      “The Trump administration’s decision to impose sanctions against three prominent
+      Palestinian human rights organizations is a deeply troubling and shameful assault
+      on human rights and the global pursuit of justice,” said Erika Guevara-Rosas,
+      Amnesty International’s senior director for Research, Advocacy, Policy and Campaigns.
+      “This appalling move constitutes a brazen attack on the entire Palestinian human
+      rights movement, and a callous attempt to fracture and weaken the whole global
+      human rights community.” Editor’s Note : A t a moment when the once vaunted model
+      of responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Sharon Zhang Sharon Zhang is a news writer
+      at Truthout covering politics, climate and labor. Before coming to Truthout ,
+      Sharon had written stories for Pacific Standard , The New Republic , and more.
+      She has a master’s degree in environmental studies. She can be found on Twitter:
+      @zhang_sharon . Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: The U.S. State Department, led by Secretary Marco Rubio, is
+      facing backlash for imposing sanctions on three prominent Palestinian human rights
+      organizations due to their involvement in the International Criminal Court's case
+      against Israeli officials.
+    paragraph_summary: The U.S. State Department, led by Secretary of State Marco Rubio,
+      has faced backlash after imposing sanctions on three prominent Palestinian human
+      rights organizations—Al-Haq, Al Mezan Center for Human Rights, and the Palestinian
+      Centre for Human Rights (PCHR)—due to their involvement in the International Criminal
+      Court's (ICC) investigations against Israeli officials. These organizations, which
+      operate in the West Bank and Gaza, have been vital in documenting human rights
+      abuses and advocating for Palestinian rights amid ongoing Israeli actions. Rubio
+      justified the sanctions by stating that the groups have engaged in efforts to
+      prosecute Israeli nationals without consent, framing the ICC's actions as politicized
+      and overreaching. The sanctioned groups have condemned the sanctions as part of
+      a broader strategy to silence Palestinian voices and are urging international
+      pressure on the U.S. to reverse its decision.
+    published: '2025-09-06T12:33:13+00:00'
+  - title: Trump Administration Sanctions 3 Major Palestinian Human Rights Groups
+    url: https://scheerpost.com/2025/09/06/trump-administration-sanctions-3-major-palestinian-human-rights-groups/
+    text: 'Secretary Marco Rubio arrives at Mariscal Sucre International Airport in
+      Quito, Ecuador, September 3, 2025. (Official State Department photo by Freddie
+      Everett) In one of the scariest moments in modern history, we''re doing our best
+      at ScheerPost to pierce the fog of lies that conceal it but we need some help
+      to pay our writers and staff. Please consider a tax-deductible donation . By Sharon
+      Zhang / Truthout The U.S. State Department is facing heavy criticism after it
+      announced on Thursday it is imposing sanctions on three major Palestinian human
+      rights groups over their participation in the International Criminal Court’s case
+      (ICC) against top Israeli officials. Secretary of State Marco Rubio announced
+      he’s adding Al-Haq, Al Mezan Center for Human Rights, and the Palestinian Centre
+      for Human Rights (PCHR) to the list of “Specially Designated Nationals and Blocked
+      Persons List,” as part of President Donald Trump’s executive order sanctioning
+      the ICC. The three groups are leading human rights organizations in the occupied
+      Palestinian territories, operating out of the West Bank and Gaza. They have been
+      instrumental in monitoring Israel’s genocide in Gaza and annexation of the West
+      Bank, serving as a key voice of Palestinians amid Israel’s assaults. Sanctions
+      could have a vast chilling effect on their work. “These entities have directly
+      engaged in efforts by the International Criminal Court (ICC) to investigate, arrest,
+      detain, or prosecute Israeli nationals, without Israel’s consent,” Rubio said.
+      “We oppose the ICC’s politicized agenda, overreach, and disregard for the sovereignty
+      of the United States and that of our allies.” The groups decried the sanctions
+      in a joint statement calling on states to pressure the U.S. to lift the sanctions.
+      They noted that this is part of a longtime effort by Israel to silence Palestinian
+      voices, by law or by force. “Threatened by the impact and role of our advocacy,
+      legal research, and documentation in exposing Israel’s ongoing international crimes,
+      the United States has resorted to punishing individuals and organisations seeking
+      to uphold the legal system upon which the international community was founded,”
+      the groups said. “The implications go beyond Palestine: by protecting Israel from
+      accountability, they are dismantling the international legal order and undermining
+      the possibility of justice for victims of grave crimes anywhere,” the groups went
+      on. “But we will not give up nor be silenced. We will not bend to any State apparatus
+      or system fuelled by violence and oppression.” The sanctions come after the U.S.
+      sanctioned another Palestinian human rights group, Addameer, which focuses on
+      Palestinian prisoners’ rights, and UN Special Rapporteur for the occupied Palestinian
+      territories, Francesca Albanese. Rubio’s announcement was widely condemned. UN
+      human rights chief Volker Türk said in a statement that the sanctions are “completely
+      unacceptable.” “For decades now, these NGOs have been performing vital human rights
+      work, particularly on accountability for human rights violations,” said Türk.
+      “The work of civil society in documenting violations and engaging with international
+      accountability mechanisms is all the more important when international humanitarian
+      and human rights laws are being violated systematically in Gaza and the West Bank,
+      including East Jerusalem.” A coalition of Israeli and Palestinian human rights
+      groups , including major organizations like B’Tselem, called the sanctions “violent.”
+      “This is yet another move aimed at erasing fundamental norms of protecting human
+      beings, designed to enable Israel to continue harming Palestinians without restraint,”
+      the coalition said. Other major international human rights organizations like
+      Human Rights Watch and Amnesty International also denounced the Trump administration.
+      “The Trump administration’s decision to impose sanctions against three prominent
+      Palestinian human rights organizations is a deeply troubling and shameful assault
+      on human rights and the global pursuit of justice,” said Erika Guevara-Rosas,
+      Amnesty International’s senior director for Research, Advocacy, Policy and Campaigns.
+      “This appalling move constitutes a brazen attack on the entire Palestinian human
+      rights movement, and a callous attempt to fracture and weaken the whole global
+      human rights community.” Editor’s Note : A t a moment when the once vaunted model
+      of responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Sharon Zhang Sharon Zhang is a news writer
+      at Truthout covering politics, climate and labor. Before coming to Truthout ,
+      Sharon had written stories for Pacific Standard , The New Republic , and more.
+      She has a master’s degree in environmental studies. She can be found on Twitter:
+      @zhang_sharon . Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: The U.S. State Department, led by Secretary Marco Rubio, is
+      facing backlash for imposing sanctions on three prominent Palestinian human rights
+      organizations due to their involvement in the International Criminal Court's case
+      against Israeli officials.
+    paragraph_summary: The U.S. State Department, led by Secretary of State Marco Rubio,
+      has faced backlash after imposing sanctions on three prominent Palestinian human
+      rights organizations—Al-Haq, Al Mezan Center for Human Rights, and the Palestinian
+      Centre for Human Rights (PCHR)—due to their involvement in the International Criminal
+      Court's (ICC) investigations against Israeli officials. These organizations, which
+      operate in the West Bank and Gaza, have been vital in documenting human rights
+      abuses and advocating for Palestinian rights amid ongoing Israeli actions. Rubio
+      justified the sanctions by stating that the groups have engaged in efforts to
+      prosecute Israeli nationals without consent, framing the ICC's actions as politicized
+      and overreaching. The sanctioned groups have condemned the sanctions as part of
+      a broader strategy to silence Palestinian voices and are urging international
+      pressure on the U.S. to reverse its decision.
+    published: '2025-09-06T12:33:13+00:00'
+  - title: 'Genocide Scholars: Israel Is Committing a Genocide in Gaza, and We Should
+      Know'
+    url: https://scheerpost.com/2025/09/06/genocide-scholars-israel-is-committing-a-genocide-in-gaza-and-we-should-know/
+    text: 'Destruction of UNRWA Zaitoun Boys School, Gaza Strip. © 2024 UNRWA Photo
+      by Abedallah Alhaj, CC BY-SA 3.0 IGO https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Juan Cole / Informed Comment Ann Arbor (Informed Comment) – On the
+      last day of August, 2025, the International Association of Genocide Scholars ,
+      a scholarly body with more than 500 members, passed a resolution with 86% support
+      of those who voted, concluding that Israel is committing a genocide in Gaza. These
+      scholars study genocide professionally, researching it, theorizing it, and publishing
+      on it in peer-reviewed journals. In peer review, the editor who receives a submission
+      anonymizes it and sends it out to 3 or 4 major experts on the subject for the
+      recommendation whether to publish it and their suggestions for improvement. I
+      ran a Cambridge University Press journal for 5 years and sent out hundreds of
+      papers for review. I always insisted on 4 referees and I liked to see a consensus
+      that the article was publishable. A minority of such submissions appeared. If
+      I published someone, it meant their scholarship was careful and solidly grounded.
+      This kind of publishing is what these scholars of genocide engage in routinely.
+      I underline this point because American television and social media accustom us
+      to the idea that everyone’s views are equally worthy. No. Some arguments are bullshit.
+      How can you tell? Because the academic experts who devote their lives to a subject
+      have a world-beating bullshit meter. Getting 86% of academics in a field to agree
+      on something is a minor miracle. Professors like to pick nits and make sure their
+      assertions rest on unimpeachable evidence. They spend years on an issue. Unlike
+      the Beltway Bandits on television, they don’t just shoot their mouths off with
+      shallow just-formed opinions. So how did these scholars arrive at this conclusion?
+      First, they looked carefully at Article 2 of the U.N. Convention on the Prevention
+      and Punishment of the Crime of Genocide of 1948, to which Israel is a signatory.
+      It defines genocide this way: In the present Convention, genocide means any of
+      the following acts committed with intent to destroy, in whole or in part, a national,
+      ethnical, racial or religious group, as such: (a) Killing members of the group;
+      (b) Causing serious bodily or mental harm to members of the group; (c) Deliberately
+      inflicting on the group conditions of life calculated to bring about its physical
+      destruction in whole or in part; (d) Imposing measures intended to prevent births
+      within the group; (e) Forcibly transferring children of the group to another group
+      A lot of people think that genocide consists in killing almost all members of
+      a group. This technical legal definition makes it clear, however, that you can
+      genocide a people even if lots of its members survive. Genocide as defined here
+      is more about the purpose of violence than about its magnitude. If you kill people
+      because of who they are and because you object to that people existing, you don’t
+      have to kill very many of them for it to be genocide. Myanmar or Burma’s genocide
+      against the 1.1 million Rohingya in 2016-18 likely killed 24,000 of them, but
+      forced most of the rest out of the country. leaving 150,000 internally displaced.
+      This relatively small death toll can still constitute a genocide because they
+      were killed for being Rohingya and the killing was part of an ethnic cleansing
+      campaign. The Myanmar authorities, including many in the Buddhist clerical establishment,
+      so hated the Rohingya that they wanted them to cease existing as a minority in
+      the country. The conditions of their peoplehood as Myanmar Rohingya was destroyed.
+      Now they are rootless refugees, most of them stateless. In 2022, the US government
+      branded the campaign against the Rohingya a genocide. So did Human Rights Watch.
+      So did the the US Holocaust Memorial Museum. As the IAGS notes, “Israel has forcibly
+      displaced nearly all of the 2.3 million Palestinians in the Gaza Strip multiple
+      times, and demolished more than 90 percent of the housing infrastructure in the
+      territory.” In fact, Israel is just this moment engaged in displacing a million
+      Palestinians from Gaza City, most of them already reduced to being tent people.
+      The resolution had noted: “[Recognising that] according to official UN estimates,
+      at the date of this resolution, has killed more than 59,000 adults and children
+      in Gaza; Recognising that these crimes are estimated to have left many thousands
+      of people buried under the rubble or otherwise inaccessible, and most probably
+      dead; Recognising that this bombing and other violence is estimated to have injured
+      more than 143,000 people, with many maimed; Recognising that the actions of the
+      Israeli government against Palestinians have included torture, arbitrary detention,
+      and sexual and reproductive violence; deliberate attacks on medical professionals,
+      humanitarian aid workers and journalists; and the deliberate deprivation of food,
+      water, medicine, and electricity essential to the survival of the population .
+      . .” What about Israeli intent? Do Israeli leaders want Palestinian society in
+      Gaza to cease to exist in whole or in part? Manifestly, they do: Recognising that
+      Israeli governmental leaders, war cabinet ministers, and senior army officers
+      have made explicit statements of “intent to destroy”, characterizing Palestinians
+      in Gaza as a whole as enemies and “human animals” and stating the intention of
+      inflicting “maximum damage” on Gaza, “flattening Gaza,” and turning Gaza into
+      “hell”; Recognising that Israeli Prime Minister Benjamin Netanyahu has endorsed
+      the current US President’s plan to forcibly expel all Palestinians from the Gaza
+      Strip, with no right of return, in what Navi Pillay, head of the UN Commission
+      of Inquiry on the Occupied Palestinian Territory, has said amounts to ethnic cleansing;
+      Recognising that the deliberate destruction of agricultural fields, food warehouses,
+      and bakeries and other violence that prevents food production, in conjunction
+      with denial and restriction of humanitarian aid, indicate the intentional infliction
+      of unlivable conditions resulting in starvation of Palestinians in Gaza . . .”
+      All of these “Recognising-s” are leading up to a “therefore,” of course, and here
+      it is: Therefore, the International Association of Genocide Scholars: Declares
+      that Israel’s policies and actions in Gaza meet the legal definition of genocide
+      in Article II of the United Nations Convention for the Prevention and Punishment
+      of the Crime of Genocide (1948); Declares that Israel’s policies and actions in
+      Gaza constitute war crimes and crimes against humanity as defined in international
+      humanitarian law and the Rome Statute of the International Criminal Court; Calls
+      upon the government of Israel to immediately cease all acts that constitute genocide,
+      war crimes and crimes against humanity against Palestinians in Gaza, including
+      deliberate attacks against and killing of civilians including children; starvation;
+      deprivation of humanitarian aid, water, fuel, and other items essential to the
+      survival of the population; sexual and reproductive violence; and forced displacement
+      of the population;” The case here is much stronger, in my view, than for the Rohingya
+      genocide, which has a strong case and is widely recognized. Yet the United States
+      government and the Holocaust Memorial Museum haven’t categorized Gaza as a genocide.
+      This is because genocides are political acts by states, and the recognition and
+      the memory of genocides have a political dimension. States are like teams to which
+      fans are loyal and the crimes of which the fans are often willing to overlook.
+      But the IAGS is not a state, or a cause, and it isn’t made up of partisan fans.
+      It is a membership organization of field experts who are critical thinkers. And
+      those field experts are overwhelmingly convinced by this case. Editor’s Note :
+      A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Juan Cole Juan
+      Cole, a TomDispatch regular , is the Richard P. Mitchell collegiate professor
+      of history at the University of Michigan. He is the author of The Rubaiyat of
+      Omar Khayyam: A New Translation From the Persian and Muhammad: Prophet of Peace
+      Amid the Clash of Empires . His latest book is Peace Movements in Islam . His
+      award-winning blog is Informed Comment . He is also a non-resident Fellow of the
+      Center for Conflict and Humanitarian Studies in Doha and of Democracy for the
+      Arab World Now (DAWN). Author Site Please share this story and help us grow our
+      network!'
+    one_sentence_summary: The International Association of Genocide Scholars has passed
+      a resolution stating that Israel is committing genocide in Gaza, with 86% of voting
+      members in support.
+    paragraph_summary: On August 31, 2025, the International Association of Genocide
+      Scholars, comprising over 500 members, overwhelmingly passed a resolution (with
+      86% support) declaring that Israel is committing genocide in Gaza. This conclusion
+      is based on rigorous academic standards, as the scholars involved are experts
+      in the field of genocide studies, engaging in thorough peer review processes to
+      ensure the credibility and reliability of their findings. The author, Juan Cole,
+      emphasizes the significance of this consensus among scholars, contrasting it with
+      the often superficial discussions in media and social platforms, and highlights
+      the importance of expert opinion in discerning valid arguments from misinformation.
+    published: '2025-09-06T12:29:29+00:00'
+  - title: 'Genocide Scholars: Israel Is Committing a Genocide in Gaza, and We Should
+      Know'
+    url: https://scheerpost.com/2025/09/06/genocide-scholars-israel-is-committing-a-genocide-in-gaza-and-we-should-know/
+    text: 'Destruction of UNRWA Zaitoun Boys School, Gaza Strip. © 2024 UNRWA Photo
+      by Abedallah Alhaj, CC BY-SA 3.0 IGO https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Juan Cole / Informed Comment Ann Arbor (Informed Comment) – On the
+      last day of August, 2025, the International Association of Genocide Scholars ,
+      a scholarly body with more than 500 members, passed a resolution with 86% support
+      of those who voted, concluding that Israel is committing a genocide in Gaza. These
+      scholars study genocide professionally, researching it, theorizing it, and publishing
+      on it in peer-reviewed journals. In peer review, the editor who receives a submission
+      anonymizes it and sends it out to 3 or 4 major experts on the subject for the
+      recommendation whether to publish it and their suggestions for improvement. I
+      ran a Cambridge University Press journal for 5 years and sent out hundreds of
+      papers for review. I always insisted on 4 referees and I liked to see a consensus
+      that the article was publishable. A minority of such submissions appeared. If
+      I published someone, it meant their scholarship was careful and solidly grounded.
+      This kind of publishing is what these scholars of genocide engage in routinely.
+      I underline this point because American television and social media accustom us
+      to the idea that everyone’s views are equally worthy. No. Some arguments are bullshit.
+      How can you tell? Because the academic experts who devote their lives to a subject
+      have a world-beating bullshit meter. Getting 86% of academics in a field to agree
+      on something is a minor miracle. Professors like to pick nits and make sure their
+      assertions rest on unimpeachable evidence. They spend years on an issue. Unlike
+      the Beltway Bandits on television, they don’t just shoot their mouths off with
+      shallow just-formed opinions. So how did these scholars arrive at this conclusion?
+      First, they looked carefully at Article 2 of the U.N. Convention on the Prevention
+      and Punishment of the Crime of Genocide of 1948, to which Israel is a signatory.
+      It defines genocide this way: In the present Convention, genocide means any of
+      the following acts committed with intent to destroy, in whole or in part, a national,
+      ethnical, racial or religious group, as such: (a) Killing members of the group;
+      (b) Causing serious bodily or mental harm to members of the group; (c) Deliberately
+      inflicting on the group conditions of life calculated to bring about its physical
+      destruction in whole or in part; (d) Imposing measures intended to prevent births
+      within the group; (e) Forcibly transferring children of the group to another group
+      A lot of people think that genocide consists in killing almost all members of
+      a group. This technical legal definition makes it clear, however, that you can
+      genocide a people even if lots of its members survive. Genocide as defined here
+      is more about the purpose of violence than about its magnitude. If you kill people
+      because of who they are and because you object to that people existing, you don’t
+      have to kill very many of them for it to be genocide. Myanmar or Burma’s genocide
+      against the 1.1 million Rohingya in 2016-18 likely killed 24,000 of them, but
+      forced most of the rest out of the country. leaving 150,000 internally displaced.
+      This relatively small death toll can still constitute a genocide because they
+      were killed for being Rohingya and the killing was part of an ethnic cleansing
+      campaign. The Myanmar authorities, including many in the Buddhist clerical establishment,
+      so hated the Rohingya that they wanted them to cease existing as a minority in
+      the country. The conditions of their peoplehood as Myanmar Rohingya was destroyed.
+      Now they are rootless refugees, most of them stateless. In 2022, the US government
+      branded the campaign against the Rohingya a genocide. So did Human Rights Watch.
+      So did the the US Holocaust Memorial Museum. As the IAGS notes, “Israel has forcibly
+      displaced nearly all of the 2.3 million Palestinians in the Gaza Strip multiple
+      times, and demolished more than 90 percent of the housing infrastructure in the
+      territory.” In fact, Israel is just this moment engaged in displacing a million
+      Palestinians from Gaza City, most of them already reduced to being tent people.
+      The resolution had noted: “[Recognising that] according to official UN estimates,
+      at the date of this resolution, has killed more than 59,000 adults and children
+      in Gaza; Recognising that these crimes are estimated to have left many thousands
+      of people buried under the rubble or otherwise inaccessible, and most probably
+      dead; Recognising that this bombing and other violence is estimated to have injured
+      more than 143,000 people, with many maimed; Recognising that the actions of the
+      Israeli government against Palestinians have included torture, arbitrary detention,
+      and sexual and reproductive violence; deliberate attacks on medical professionals,
+      humanitarian aid workers and journalists; and the deliberate deprivation of food,
+      water, medicine, and electricity essential to the survival of the population .
+      . .” What about Israeli intent? Do Israeli leaders want Palestinian society in
+      Gaza to cease to exist in whole or in part? Manifestly, they do: Recognising that
+      Israeli governmental leaders, war cabinet ministers, and senior army officers
+      have made explicit statements of “intent to destroy”, characterizing Palestinians
+      in Gaza as a whole as enemies and “human animals” and stating the intention of
+      inflicting “maximum damage” on Gaza, “flattening Gaza,” and turning Gaza into
+      “hell”; Recognising that Israeli Prime Minister Benjamin Netanyahu has endorsed
+      the current US President’s plan to forcibly expel all Palestinians from the Gaza
+      Strip, with no right of return, in what Navi Pillay, head of the UN Commission
+      of Inquiry on the Occupied Palestinian Territory, has said amounts to ethnic cleansing;
+      Recognising that the deliberate destruction of agricultural fields, food warehouses,
+      and bakeries and other violence that prevents food production, in conjunction
+      with denial and restriction of humanitarian aid, indicate the intentional infliction
+      of unlivable conditions resulting in starvation of Palestinians in Gaza . . .”
+      All of these “Recognising-s” are leading up to a “therefore,” of course, and here
+      it is: Therefore, the International Association of Genocide Scholars: Declares
+      that Israel’s policies and actions in Gaza meet the legal definition of genocide
+      in Article II of the United Nations Convention for the Prevention and Punishment
+      of the Crime of Genocide (1948); Declares that Israel’s policies and actions in
+      Gaza constitute war crimes and crimes against humanity as defined in international
+      humanitarian law and the Rome Statute of the International Criminal Court; Calls
+      upon the government of Israel to immediately cease all acts that constitute genocide,
+      war crimes and crimes against humanity against Palestinians in Gaza, including
+      deliberate attacks against and killing of civilians including children; starvation;
+      deprivation of humanitarian aid, water, fuel, and other items essential to the
+      survival of the population; sexual and reproductive violence; and forced displacement
+      of the population;” The case here is much stronger, in my view, than for the Rohingya
+      genocide, which has a strong case and is widely recognized. Yet the United States
+      government and the Holocaust Memorial Museum haven’t categorized Gaza as a genocide.
+      This is because genocides are political acts by states, and the recognition and
+      the memory of genocides have a political dimension. States are like teams to which
+      fans are loyal and the crimes of which the fans are often willing to overlook.
+      But the IAGS is not a state, or a cause, and it isn’t made up of partisan fans.
+      It is a membership organization of field experts who are critical thinkers. And
+      those field experts are overwhelmingly convinced by this case. Editor’s Note :
+      A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Juan Cole Juan
+      Cole, a TomDispatch regular , is the Richard P. Mitchell collegiate professor
+      of history at the University of Michigan. He is the author of The Rubaiyat of
+      Omar Khayyam: A New Translation From the Persian and Muhammad: Prophet of Peace
+      Amid the Clash of Empires . His latest book is Peace Movements in Islam . His
+      award-winning blog is Informed Comment . He is also a non-resident Fellow of the
+      Center for Conflict and Humanitarian Studies in Doha and of Democracy for the
+      Arab World Now (DAWN). Author Site Please share this story and help us grow our
+      network!'
+    one_sentence_summary: The International Association of Genocide Scholars has passed
+      a resolution stating that Israel is committing genocide in Gaza, with 86% of voting
+      members in support.
+    paragraph_summary: On August 31, 2025, the International Association of Genocide
+      Scholars, comprising over 500 members, overwhelmingly passed a resolution (with
+      86% support) declaring that Israel is committing genocide in Gaza. This conclusion
+      is based on rigorous academic standards, as the scholars involved are experts
+      in the field of genocide studies, engaging in thorough peer review processes to
+      ensure the credibility and reliability of their findings. The author, Juan Cole,
+      emphasizes the significance of this consensus among scholars, contrasting it with
+      the often superficial discussions in media and social platforms, and highlights
+      the importance of expert opinion in discerning valid arguments from misinformation.
+    published: '2025-09-06T12:29:29+00:00'
+  - title: US Navy SEALs ‘Slaughtered’ Civilians During Botched 2019 North Korea Mission
+    url: https://scheerpost.com/2025/09/06/us-navy-seals-slaughtered-civilians-during-botched-2019-north-korea-mission/
+    text: 'United States Navy SEALs, Public domain, via Wikimedia Commons In one of
+      the scariest moments in modern history, we''re doing our best at ScheerPost to
+      pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Brett Wilkins / Common
+      Dreams US Navy SEALs shot dead a number of civilians during a botched secret mission
+      to plant a listening device inside North Korea during tense nuclear negotiations
+      between the first Trump administration and the government of Kim Jong Un in 2019,
+      The New York Times reported Friday . Dave Philipps and Matthew Cole reported for
+      the Times that President Donald Trump personally approved the covert operation,
+      which was tasked to SEAL Team 6’s Red Squadron, the same unit that assassinated
+      Osama bin Laden. Although the elite sailors rehearsed the nighttime mission for
+      months, things fell apart when a small fishing boat appeared out of the dark in
+      what the SEALs thought was a deserted area. “Flashlights from the bow swept over
+      the water. Fearing that they had been spotted, the SEALs opened fire,” wrote Philipps
+      and Cole. “Within seconds, everyone on the North Korean boat was dead. The SEALs
+      retreated into the sea without planting the listening device.” Officials familiar
+      with the mission told the Times that the SEALs then pulled two or three bodies
+      from the boat, punctured the victims’ lungs with knives so their bodies would
+      sink, and threw the dead fishers into the sea. It didn’t “leave them dead.” Navy
+      SEALs slaughtered three innocent people. [image or embed] — Daniel Malmer ( @malmer.com
+      ) September 5, 2025 at 9:10 AM According to the Times : The 2019 operation has
+      never been publicly acknowledged, or even hinted at, by the United States or North
+      Korea. The details remain classified and are being reported here for the first
+      time. The Trump administration did not notify key members of Congress who oversee
+      intelligence operations, before or after the mission. The lack of notification
+      may have violated the law… The aborted SEAL mission prompted a series of military
+      reviews during Mr. Trump’s first term. They found that the killing of civilians
+      was justified under the rules of engagement, and that the mission was undone by
+      a collision of unfortunate occurrences that could not have been foreseen or avoided.
+      The findings were classified. It is not known whether or how much North Korea’s
+      government knew about the mission. While Trump’s erstwhile untried tactic of direct
+      negotiations with Kim averted escalation of the 2018-19 standoff, the high-profile
+      summits between the two leaders yielded no substantial progress toward denuclearization
+      or a peace treaty. The US and North Korea are technically still at war. Between
+      1950-53 US forces killed an estimated 20% of all North Koreans —around 1.9 million
+      men, women, and children—according to Gen. Curtis “Bombs Away” LeMay, who served
+      as strategic air commander during the war after overseeing World War II firebombing
+      raids on Japanese cities that killed hundreds of thousands of civilians. Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Brett Wilkins
+      Brett Wilkins is a staff writer for Common Dreams. Author Site Please share this
+      story and help us grow our network!'
+    one_sentence_summary: A covert operation by US Navy SEALs in 2019, approved by President
+      Trump to plant a listening device in North Korea, resulted in the deaths of several
+      civilians due to a botched execution of the mission.
+    paragraph_summary: In a shocking revelation, The New York Times reported that during
+      a covert operation in 2019 aimed at planting a listening device in North Korea
+      amid tense nuclear negotiations, U.S. Navy SEALs mistakenly killed several civilians.
+      The operation, approved by President Donald Trump and executed by SEAL Team 6’s
+      Red Squadron, went awry when the SEALs opened fire on a fishing boat they believed
+      had spotted them, resulting in the deaths of all individuals on board. Following
+      the incident, the SEALs allegedly disposed of the bodies to conceal the killings.
+      This operation, which has remained classified and unacknowledged by both the U.S.
+      and North Korean governments, was conducted without informing key congressional
+      leaders overseeing intelligence operations.
+    published: '2025-09-06T12:22:23+00:00'
+  - title: US Navy SEALs ‘Slaughtered’ Civilians During Botched 2019 North Korea Mission
+    url: https://scheerpost.com/2025/09/06/us-navy-seals-slaughtered-civilians-during-botched-2019-north-korea-mission/
+    text: 'United States Navy SEALs, Public domain, via Wikimedia Commons In one of
+      the scariest moments in modern history, we''re doing our best at ScheerPost to
+      pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Brett Wilkins / Common
+      Dreams US Navy SEALs shot dead a number of civilians during a botched secret mission
+      to plant a listening device inside North Korea during tense nuclear negotiations
+      between the first Trump administration and the government of Kim Jong Un in 2019,
+      The New York Times reported Friday . Dave Philipps and Matthew Cole reported for
+      the Times that President Donald Trump personally approved the covert operation,
+      which was tasked to SEAL Team 6’s Red Squadron, the same unit that assassinated
+      Osama bin Laden. Although the elite sailors rehearsed the nighttime mission for
+      months, things fell apart when a small fishing boat appeared out of the dark in
+      what the SEALs thought was a deserted area. “Flashlights from the bow swept over
+      the water. Fearing that they had been spotted, the SEALs opened fire,” wrote Philipps
+      and Cole. “Within seconds, everyone on the North Korean boat was dead. The SEALs
+      retreated into the sea without planting the listening device.” Officials familiar
+      with the mission told the Times that the SEALs then pulled two or three bodies
+      from the boat, punctured the victims’ lungs with knives so their bodies would
+      sink, and threw the dead fishers into the sea. It didn’t “leave them dead.” Navy
+      SEALs slaughtered three innocent people. [image or embed] — Daniel Malmer ( @malmer.com
+      ) September 5, 2025 at 9:10 AM According to the Times : The 2019 operation has
+      never been publicly acknowledged, or even hinted at, by the United States or North
+      Korea. The details remain classified and are being reported here for the first
+      time. The Trump administration did not notify key members of Congress who oversee
+      intelligence operations, before or after the mission. The lack of notification
+      may have violated the law… The aborted SEAL mission prompted a series of military
+      reviews during Mr. Trump’s first term. They found that the killing of civilians
+      was justified under the rules of engagement, and that the mission was undone by
+      a collision of unfortunate occurrences that could not have been foreseen or avoided.
+      The findings were classified. It is not known whether or how much North Korea’s
+      government knew about the mission. While Trump’s erstwhile untried tactic of direct
+      negotiations with Kim averted escalation of the 2018-19 standoff, the high-profile
+      summits between the two leaders yielded no substantial progress toward denuclearization
+      or a peace treaty. The US and North Korea are technically still at war. Between
+      1950-53 US forces killed an estimated 20% of all North Koreans —around 1.9 million
+      men, women, and children—according to Gen. Curtis “Bombs Away” LeMay, who served
+      as strategic air commander during the war after overseeing World War II firebombing
+      raids on Japanese cities that killed hundreds of thousands of civilians. Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Brett Wilkins
+      Brett Wilkins is a staff writer for Common Dreams. Author Site Please share this
+      story and help us grow our network!'
+    one_sentence_summary: A covert operation by US Navy SEALs in 2019, approved by President
+      Trump to plant a listening device in North Korea, resulted in the deaths of several
+      civilians due to a botched execution of the mission.
+    paragraph_summary: In a shocking revelation, The New York Times reported that during
+      a covert operation in 2019 aimed at planting a listening device in North Korea
+      amid tense nuclear negotiations, U.S. Navy SEALs mistakenly killed several civilians.
+      The operation, approved by President Donald Trump and executed by SEAL Team 6’s
+      Red Squadron, went awry when the SEALs opened fire on a fishing boat they believed
+      had spotted them, resulting in the deaths of all individuals on board. Following
+      the incident, the SEALs allegedly disposed of the bodies to conceal the killings.
+      This operation, which has remained classified and unacknowledged by both the U.S.
+      and North Korean governments, was conducted without informing key congressional
+      leaders overseeing intelligence operations.
+    published: '2025-09-06T12:22:23+00:00'
+  - title: 'Trump: Looks Like We Lost India and Russia to China'
+    url: https://scheerpost.com/2025/09/06/trump-looks-like-we-lost-india-and-russia-to-china/
+    text: 'Modi and Trump at UN HQ. The White House from Washington, DC, Public domain,
+      via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Kyle Anzalone / Antiwar.com President Donald Trump posted on his
+      Truth Social account that India and Russia are now firmly tied to China and have
+      drifted away from the US orbit. Trump also demanded that Europe end Russian oil
+      imports and place pressure on China. “Looks like we’ve lost India and Russia to
+      deepest, darkest, China. May they have a long and prosperous future together!”
+      Trump wrote on Friday . The post is a response to a trilateral meeting between
+      Chinese President Xi, Russian President Putin, and Indian Prime Minister Modi.
+      Xi is hosting about 20 world leaders in China to mark the 80th anniversary of
+      the end of WWII. North Korean Supreme Leader Kim Jong-un also attended the event.
+      On Tuesday, Trump accused Xi, Putin, and Kim of “ conspiring ” against the US.
+      While Trump has presented the Chinese summit as a gathering of world leaders against
+      the US, Beijing planned to invite the American President to attend the event.
+      Additionally, the Kremlin said it was possible for Putin to meet with Trump during
+      the celebration. The Chinese Foreign Ministry dismissed Trump’s conspiracy accusation,
+      explaining that Beijing’s diplomatic relationships are not aimed at third countries.
+      Chinese Foreign Ministry spokesperson Guo Jiakun said , “China’s development of
+      diplomatic relations with any country has never been targeted at any third party.”
+      In addition to the WWII celebrations, Beijing hosted a meeting of the Shanghai
+      Cooperation Organisation. However, Trump appears to be prepared to force countries
+      to choose between their relations with the US or Russia and China. On Thursday,
+      he told Europeans to stop buying Russian oil and demanded that Europe place economic
+      pressure on China over its trade with Russia amid the war in Ukraine. Additionally,
+      Trump has started to place tariffs on India because of Delhi’s trade with Moscow.
+      Putin and Modi met in China and agreed to advance the Russian and Indian trade
+      relationship despite US pressure. Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Kyle Anzalone Kyle Anzalone is the
+      opinion editor of Antiwar.com, news editor of the Libertarian Institute , and
+      co-host of Conflicts of Interest . Author link Please share this story and help
+      us grow our network!'
+    one_sentence_summary: Donald Trump expressed concern on his Truth Social account
+      about India and Russia aligning more closely with China, following a trilateral
+      meeting between their leaders, and urged Europe to stop importing Russian oil
+      and exert pressure on China.
+    paragraph_summary: In a recent post on Truth Social, former President Donald Trump
+      expressed concern over the strengthening ties between India, Russia, and China,
+      suggesting that the U.S. has lost influence in the region. His comments followed
+      a trilateral meeting in China attended by Chinese President Xi Jinping, Russian
+      President Vladimir Putin, and Indian Prime Minister Narendra Modi, which coincided
+      with celebrations marking the 80th anniversary of the end of WWII. Trump accused
+      Xi, Putin, and North Korean leader Kim Jong-un of conspiring against the U.S.
+      and urged Europe to halt Russian oil imports, framing the situation as a challenge
+      to U.S. dominance. The Chinese Foreign Ministry responded by clarifying that their
+      diplomatic relations are not aimed at undermining any third party, while Trump
+      seems poised to pressure nations into choosing sides between the U.S. and its
+      rivals.
+    published: '2025-09-06T12:18:11+00:00'
+  - title: 'Trump: Looks Like We Lost India and Russia to China'
+    url: https://scheerpost.com/2025/09/06/trump-looks-like-we-lost-india-and-russia-to-china/
+    text: 'Modi and Trump at UN HQ. The White House from Washington, DC, Public domain,
+      via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Kyle Anzalone / Antiwar.com President Donald Trump posted on his
+      Truth Social account that India and Russia are now firmly tied to China and have
+      drifted away from the US orbit. Trump also demanded that Europe end Russian oil
+      imports and place pressure on China. “Looks like we’ve lost India and Russia to
+      deepest, darkest, China. May they have a long and prosperous future together!”
+      Trump wrote on Friday . The post is a response to a trilateral meeting between
+      Chinese President Xi, Russian President Putin, and Indian Prime Minister Modi.
+      Xi is hosting about 20 world leaders in China to mark the 80th anniversary of
+      the end of WWII. North Korean Supreme Leader Kim Jong-un also attended the event.
+      On Tuesday, Trump accused Xi, Putin, and Kim of “ conspiring ” against the US.
+      While Trump has presented the Chinese summit as a gathering of world leaders against
+      the US, Beijing planned to invite the American President to attend the event.
+      Additionally, the Kremlin said it was possible for Putin to meet with Trump during
+      the celebration. The Chinese Foreign Ministry dismissed Trump’s conspiracy accusation,
+      explaining that Beijing’s diplomatic relationships are not aimed at third countries.
+      Chinese Foreign Ministry spokesperson Guo Jiakun said , “China’s development of
+      diplomatic relations with any country has never been targeted at any third party.”
+      In addition to the WWII celebrations, Beijing hosted a meeting of the Shanghai
+      Cooperation Organisation. However, Trump appears to be prepared to force countries
+      to choose between their relations with the US or Russia and China. On Thursday,
+      he told Europeans to stop buying Russian oil and demanded that Europe place economic
+      pressure on China over its trade with Russia amid the war in Ukraine. Additionally,
+      Trump has started to place tariffs on India because of Delhi’s trade with Moscow.
+      Putin and Modi met in China and agreed to advance the Russian and Indian trade
+      relationship despite US pressure. Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Kyle Anzalone Kyle Anzalone is the
+      opinion editor of Antiwar.com, news editor of the Libertarian Institute , and
+      co-host of Conflicts of Interest . Author link Please share this story and help
+      us grow our network!'
+    one_sentence_summary: Donald Trump expressed concern on his Truth Social account
+      about India and Russia aligning more closely with China, following a trilateral
+      meeting between their leaders, and urged Europe to stop importing Russian oil
+      and exert pressure on China.
+    paragraph_summary: In a recent post on Truth Social, former President Donald Trump
+      expressed concern over the strengthening ties between India, Russia, and China,
+      suggesting that the U.S. has lost influence in the region. His comments followed
+      a trilateral meeting in China attended by Chinese President Xi Jinping, Russian
+      President Vladimir Putin, and Indian Prime Minister Narendra Modi, which coincided
+      with celebrations marking the 80th anniversary of the end of WWII. Trump accused
+      Xi, Putin, and North Korean leader Kim Jong-un of conspiring against the U.S.
+      and urged Europe to halt Russian oil imports, framing the situation as a challenge
+      to U.S. dominance. The Chinese Foreign Ministry responded by clarifying that their
+      diplomatic relations are not aimed at undermining any third party, while Trump
+      seems poised to pressure nations into choosing sides between the U.S. and its
+      rivals.
+    published: '2025-09-06T12:18:11+00:00'
+  - title: Does Character Still Matter in the Age of Trump?
+    url: https://scheerpost.com/2025/09/06/does-character-still-matter-in-the-age-of-trump/
+    text: 'Image concept by Kenneth A. Carlson, generated by AI By Kenneth A. Carlson
+      / Original to ScheerPost At a wedding reception a few weeks before the 2024 presidential
+      election, amid champagne toasts and laughter, a close friend leaned toward me
+      and oddly declared: “Character doesn’t matter anymore. All politicians are corrupt.
+      Every last one of them. You just have to vote on policy now.” He rattled off political
+      scandals: Bill Clinton and Monica Lewinsky, Hillary Clinton and Benghazi, Chris
+      Christie and Bridgegate, Gavin Newsom’s French Laundry dinner during COVID, but
+      conveniently failed to mention Donald Trump’s cavalcade of misbehavior. His conclusion:
+      morality is irrelevant; only policies matter. That casual remark unsettled me
+      because if he’s right — if decency and virtue are in fact relics, and Americans
+      now shrug at misconduct — then we face a crisis deeper than any election. Let’s
+      be clear, Donald Trump did not invent political scandal, but he mainstreamed it
+      in ways we once thought unimaginable. Here was a president who mocked a New York
+      Times reporter with cerebral palsy, sneered about women “bleeding from every orifice,”
+      boasted of grabbing women by the genitals, and labeled opponents with taunts:
+      “Crooked Hillary,” “Low IQ Liz Cheney,” “Newscum” Newsom and Elizabeth “Pocahontas”
+      Warren. All this from someone who was found liable in a New York jury trial in
+      May 2023 for sexually abusing and defaming writer E. Jean Carroll and was ordered
+      to pay her $5 million in damages.  In a separate January2024 defamation case —
+      stemming from his continued attacks on Carroll after the first verdict — another
+      jury awarded her $83.3 million. What is remarkable is not just that such behavior
+      occurred, but that it has become expected . A 2023 Pew survey found that 84% of
+      Americans believe political debate has become less respectful in recent years,
+      and two-thirds worry that the next generation is learning the wrong lessons from
+      leaders’ conduct. Studies from the University of Michigan show that children exposed
+      to toxic political rhetoric report higher levels of anxiety and lower trust in
+      institutions. In short, cruelty has been normalized; it has become ambient noise
+      in our civic life. The architects of our republic believed character was inseparable
+      from governance. Alexander Hamilton envisioned the electoral system as a safeguard:
+      it would elevate those “most capable” and filter out demagogues who relied only
+      on “the little arts of popularity.” James Madison insisted that political systems
+      must be designed to empower “men who possess most wisdom to discern, and most
+      virtue to pursue, the common good.” And Thomas Jefferson warned starkly: “Virtue
+      is the fount of republican government… if virtue is lost, liberty is lost.” These
+      were not just philosophical musings. Research today underscores their relevance:
+      Democracies with high levels of corruption and low trust in leaders’ integrity
+      are significantly more prone to backsliding toward authoritarianism. Would Hamilton,
+      Madison or Jefferson look at today’s climate of insults, disinformation and self-dealing
+      and feel that the system had upheld their hopes? Hardly. They expected failures
+      of character, but they also expected that voters would reject those who embodied
+      them. Skeptics argue that policy is what counts: tax rates, immigration laws,
+      foreign policy and such. Yet character is the soil from which those policies grow.
+      A leader lacking honesty or empathy cannot be trusted to pursue the common good.
+      History offers caution. The Roman Republic’s decline, historians note, began less
+      with foreign invasions than with leaders who debased norms and hollowed out virtue.
+      Today, Gallup polling shows trust in the presidency has fallen to 27%, (the historic
+      low at 25% in 1980 when  Jimmy Carter was president), and trust in Congress hovers
+      at 8%. Without trust, governance itself falters. So, when we shrug at indecency
+      because we prefer certain policies, we risk normalizing corruption as the American
+      way of life, and normalizing corruption is exactly what Donald J. Trump has done.
+      According to Forbes magazine, 45 percent of Trump’s wealth now derives from the
+      sale of $TRUMP crypto coins , minted and marketed while he sat behind the Resolute
+      Desk. Foreign governments have joined the chorus of benefactors: Trump has accepted
+      a private jet from Qatar worth $400 million as an “unconditional gift.” In addition,
+      the White House lawn itself was repurposed into a Tesla showroom, with Trump helping
+      Elon Musk peddle cars from America’s front porch. Taxpayers, too, have footed
+      the bill for Trump’s indulgence. Reports suggest in the first seven months of
+      his second term he has spent over $30 million in public funds on golf outings
+      at his own properties — effectively billing citizens to enrich his resorts. And
+      the Trump enrichment doesn’t end with Donald. Amazon recently announced a $40
+      million licensing deal for an upcoming Melania Trump documentary, billed as an
+      “unprecedented, behind-the-scenes look” at the First Lady. Meanwhile, the Trump
+      family is doubling down on profiteering. They are launching a new Washington,
+      D.C., private club called The Executive Branch — a wink at power turned into membership
+      dues. Abroad, the Trumps are expanding their empire: Trump Tower Jeddah, luxury
+      projects in Riyadh, and lucrative ventures in Doha, all following the Saudis’
+      $2 billion investment in Jared Kushner’s private equity fund. This is not public
+      service; it is public exploitation. The founders of this country envisioned leaders
+      who would embody virtue, not treat democracy as a family brand. In the 1990s,
+      Republicans denounced Bill Clinton’s affair as a collapse of trust, not just a
+      lapse of judgment. “Character counts,” they declared, as they pushed impeachment
+      to prove he was unfit for office. So yes, Republicans, you were right back then
+      — character does matte r — perhaps more than ever. Our children are watching.
+      Already, classroom surveys by the Josephson Institute of Ethics show that more
+      than half of high school students believe “successful people do what they have
+      to, even if it’s dishonest.” What lesson are we teaching when leaders sneer at
+      decency and succeed anyway? My friend at that wedding is not alone in believing
+      character no longer counts. But if he listened to Hamilton, Madison or Jefferson,
+      he might reconsider. They feared exactly this: Once virtue is dismissed as irrelevant,
+      republican government itself will collapse. The ballot box is not just about policy:
+      It is a moral compass for the next generation. In the age of Trump, we must decide:
+      Will we pass on cynicism, or remind our children — as the founders urged — that
+      democracy rests not on power alone, but on character? Please share this story
+      and help us grow our network! Kenneth A. Carlson Kenneth A. Carlson is a distinguished
+      filmmaker known for his compelling documentaries and feature films that tackle
+      profound human stories. He directed and produced The Heart of Nuba , a feature-length
+      documentary about Dr. Tom Catena, the sole doctor serving a million patients in
+      Sudan’s war-torn Nuba Mountains. The film received critical acclaim, opening in
+      over 30 U.S. cities and has been screened globally, including at the U.S. Congress,
+      British Parliament, and the International Criminal Court. The Heart of Nuba was
+      executive produced by Maria Shriver and is currently available on Hulu, iTunes,
+      and Amazon. Carlson’s recent work includes Those Who Serve , a documentary that
+      explores the journeys of American combat veterans facing the judicial system after
+      committing crimes, offering a raw look at the intersection of mental health and
+      justice. His earlier credits include the award-winning documentary Amargosa ,
+      an Academy Award finalist, and Wild Bill Hollywood Maverick , which won multiple
+      accolades, including Best Documentary from the National Board of Review. As a
+      director and producer for NBC, Carlson worked on the prime-time reality series
+      Lost , which garnered strong ratings, and Meet Mister Mom . For nearly seven years,
+      Carlson worked on America’s Most Wanted , directing and producing over 275 segments
+      that contributed to the capture of more than 72 criminals.Currently, Carlson is
+      directing and producing a documentary about Death Row inmate Kevin Cooper, who
+      has been in San Quentin State Prison for over 36 years. Carlson’s photography
+      has been featured in outlets such as the New York Times , Washington Post and
+      Boston Globe . He is a proud member of the Academy of Motion Arts Pictures and
+      Sciences, the Directors Guild of America and The Adventurers’ Club of Los Angeles.
+      Author Site Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon .'
+    one_sentence_summary: The article reflects on a friend's assertion that character
+      and morality in politics have become irrelevant, emphasizing a troubling shift
+      in American values where voters prioritize policies over ethical conduct, a change
+      exacerbated by Donald Trump's normalization of political scandals.
+    paragraph_summary: In a recent article, Kenneth A. Carlson reflects on a conversation
+      at a wedding where a friend expressed the belief that character no longer matters
+      in politics, suggesting that all politicians are corrupt and that voters should
+      focus solely on policies. This sentiment highlights a troubling trend in American
+      political culture, particularly in the wake of Donald Trump's presidency, which
+      has normalized scandalous behavior and disrespectful rhetoric. Carlson points
+      out that while political scandals are not new, Trump's actions—such as mocking
+      individuals with disabilities and making derogatory comments about women—have
+      shifted public expectations regarding political conduct. A 2023 Pew survey indicates
+      that a significant majority of Americans perceive political debate as increasingly
+      disrespectful, raising concerns about the moral lessons being imparted to future
+      generations. The article underscores a deeper crisis in American democracy, where
+      decency and virtue seem to be diminishing in importance.
+    published: '2025-09-06T11:33:00+00:00'
+  - title: Does Character Still Matter in the Age of Trump?
+    url: https://scheerpost.com/2025/09/06/does-character-still-matter-in-the-age-of-trump/
+    text: 'Image concept by Kenneth A. Carlson, generated by AI By Kenneth A. Carlson
+      / Original to ScheerPost At a wedding reception a few weeks before the 2024 presidential
+      election, amid champagne toasts and laughter, a close friend leaned toward me
+      and oddly declared: “Character doesn’t matter anymore. All politicians are corrupt.
+      Every last one of them. You just have to vote on policy now.” He rattled off political
+      scandals: Bill Clinton and Monica Lewinsky, Hillary Clinton and Benghazi, Chris
+      Christie and Bridgegate, Gavin Newsom’s French Laundry dinner during COVID, but
+      conveniently failed to mention Donald Trump’s cavalcade of misbehavior. His conclusion:
+      morality is irrelevant; only policies matter. That casual remark unsettled me
+      because if he’s right — if decency and virtue are in fact relics, and Americans
+      now shrug at misconduct — then we face a crisis deeper than any election. Let’s
+      be clear, Donald Trump did not invent political scandal, but he mainstreamed it
+      in ways we once thought unimaginable. Here was a president who mocked a New York
+      Times reporter with cerebral palsy, sneered about women “bleeding from every orifice,”
+      boasted of grabbing women by the genitals, and labeled opponents with taunts:
+      “Crooked Hillary,” “Low IQ Liz Cheney,” “Newscum” Newsom and Elizabeth “Pocahontas”
+      Warren. All this from someone who was found liable in a New York jury trial in
+      May 2023 for sexually abusing and defaming writer E. Jean Carroll and was ordered
+      to pay her $5 million in damages.  In a separate January2024 defamation case —
+      stemming from his continued attacks on Carroll after the first verdict — another
+      jury awarded her $83.3 million. What is remarkable is not just that such behavior
+      occurred, but that it has become expected . A 2023 Pew survey found that 84% of
+      Americans believe political debate has become less respectful in recent years,
+      and two-thirds worry that the next generation is learning the wrong lessons from
+      leaders’ conduct. Studies from the University of Michigan show that children exposed
+      to toxic political rhetoric report higher levels of anxiety and lower trust in
+      institutions. In short, cruelty has been normalized; it has become ambient noise
+      in our civic life. The architects of our republic believed character was inseparable
+      from governance. Alexander Hamilton envisioned the electoral system as a safeguard:
+      it would elevate those “most capable” and filter out demagogues who relied only
+      on “the little arts of popularity.” James Madison insisted that political systems
+      must be designed to empower “men who possess most wisdom to discern, and most
+      virtue to pursue, the common good.” And Thomas Jefferson warned starkly: “Virtue
+      is the fount of republican government… if virtue is lost, liberty is lost.” These
+      were not just philosophical musings. Research today underscores their relevance:
+      Democracies with high levels of corruption and low trust in leaders’ integrity
+      are significantly more prone to backsliding toward authoritarianism. Would Hamilton,
+      Madison or Jefferson look at today’s climate of insults, disinformation and self-dealing
+      and feel that the system had upheld their hopes? Hardly. They expected failures
+      of character, but they also expected that voters would reject those who embodied
+      them. Skeptics argue that policy is what counts: tax rates, immigration laws,
+      foreign policy and such. Yet character is the soil from which those policies grow.
+      A leader lacking honesty or empathy cannot be trusted to pursue the common good.
+      History offers caution. The Roman Republic’s decline, historians note, began less
+      with foreign invasions than with leaders who debased norms and hollowed out virtue.
+      Today, Gallup polling shows trust in the presidency has fallen to 27%, (the historic
+      low at 25% in 1980 when  Jimmy Carter was president), and trust in Congress hovers
+      at 8%. Without trust, governance itself falters. So, when we shrug at indecency
+      because we prefer certain policies, we risk normalizing corruption as the American
+      way of life, and normalizing corruption is exactly what Donald J. Trump has done.
+      According to Forbes magazine, 45 percent of Trump’s wealth now derives from the
+      sale of $TRUMP crypto coins , minted and marketed while he sat behind the Resolute
+      Desk. Foreign governments have joined the chorus of benefactors: Trump has accepted
+      a private jet from Qatar worth $400 million as an “unconditional gift.” In addition,
+      the White House lawn itself was repurposed into a Tesla showroom, with Trump helping
+      Elon Musk peddle cars from America’s front porch. Taxpayers, too, have footed
+      the bill for Trump’s indulgence. Reports suggest in the first seven months of
+      his second term he has spent over $30 million in public funds on golf outings
+      at his own properties — effectively billing citizens to enrich his resorts. And
+      the Trump enrichment doesn’t end with Donald. Amazon recently announced a $40
+      million licensing deal for an upcoming Melania Trump documentary, billed as an
+      “unprecedented, behind-the-scenes look” at the First Lady. Meanwhile, the Trump
+      family is doubling down on profiteering. They are launching a new Washington,
+      D.C., private club called The Executive Branch — a wink at power turned into membership
+      dues. Abroad, the Trumps are expanding their empire: Trump Tower Jeddah, luxury
+      projects in Riyadh, and lucrative ventures in Doha, all following the Saudis’
+      $2 billion investment in Jared Kushner’s private equity fund. This is not public
+      service; it is public exploitation. The founders of this country envisioned leaders
+      who would embody virtue, not treat democracy as a family brand. In the 1990s,
+      Republicans denounced Bill Clinton’s affair as a collapse of trust, not just a
+      lapse of judgment. “Character counts,” they declared, as they pushed impeachment
+      to prove he was unfit for office. So yes, Republicans, you were right back then
+      — character does matte r — perhaps more than ever. Our children are watching.
+      Already, classroom surveys by the Josephson Institute of Ethics show that more
+      than half of high school students believe “successful people do what they have
+      to, even if it’s dishonest.” What lesson are we teaching when leaders sneer at
+      decency and succeed anyway? My friend at that wedding is not alone in believing
+      character no longer counts. But if he listened to Hamilton, Madison or Jefferson,
+      he might reconsider. They feared exactly this: Once virtue is dismissed as irrelevant,
+      republican government itself will collapse. The ballot box is not just about policy:
+      It is a moral compass for the next generation. In the age of Trump, we must decide:
+      Will we pass on cynicism, or remind our children — as the founders urged — that
+      democracy rests not on power alone, but on character? Please share this story
+      and help us grow our network! Kenneth A. Carlson Kenneth A. Carlson is a distinguished
+      filmmaker known for his compelling documentaries and feature films that tackle
+      profound human stories. He directed and produced The Heart of Nuba , a feature-length
+      documentary about Dr. Tom Catena, the sole doctor serving a million patients in
+      Sudan’s war-torn Nuba Mountains. The film received critical acclaim, opening in
+      over 30 U.S. cities and has been screened globally, including at the U.S. Congress,
+      British Parliament, and the International Criminal Court. The Heart of Nuba was
+      executive produced by Maria Shriver and is currently available on Hulu, iTunes,
+      and Amazon. Carlson’s recent work includes Those Who Serve , a documentary that
+      explores the journeys of American combat veterans facing the judicial system after
+      committing crimes, offering a raw look at the intersection of mental health and
+      justice. His earlier credits include the award-winning documentary Amargosa ,
+      an Academy Award finalist, and Wild Bill Hollywood Maverick , which won multiple
+      accolades, including Best Documentary from the National Board of Review. As a
+      director and producer for NBC, Carlson worked on the prime-time reality series
+      Lost , which garnered strong ratings, and Meet Mister Mom . For nearly seven years,
+      Carlson worked on America’s Most Wanted , directing and producing over 275 segments
+      that contributed to the capture of more than 72 criminals.Currently, Carlson is
+      directing and producing a documentary about Death Row inmate Kevin Cooper, who
+      has been in San Quentin State Prison for over 36 years. Carlson’s photography
+      has been featured in outlets such as the New York Times , Washington Post and
+      Boston Globe . He is a proud member of the Academy of Motion Arts Pictures and
+      Sciences, the Directors Guild of America and The Adventurers’ Club of Los Angeles.
+      Author Site Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon .'
+    one_sentence_summary: The article reflects on a friend's assertion that character
+      and morality in politics have become irrelevant, emphasizing a troubling shift
+      in American values where voters prioritize policies over ethical conduct, a change
+      exacerbated by Donald Trump's normalization of political scandals.
+    paragraph_summary: In a recent article, Kenneth A. Carlson reflects on a conversation
+      at a wedding where a friend expressed the belief that character no longer matters
+      in politics, suggesting that all politicians are corrupt and that voters should
+      focus solely on policies. This sentiment highlights a troubling trend in American
+      political culture, particularly in the wake of Donald Trump's presidency, which
+      has normalized scandalous behavior and disrespectful rhetoric. Carlson points
+      out that while political scandals are not new, Trump's actions—such as mocking
+      individuals with disabilities and making derogatory comments about women—have
+      shifted public expectations regarding political conduct. A 2023 Pew survey indicates
+      that a significant majority of Americans perceive political debate as increasingly
+      disrespectful, raising concerns about the moral lessons being imparted to future
+      generations. The article underscores a deeper crisis in American democracy, where
+      decency and virtue seem to be diminishing in importance.
+    published: '2025-09-06T11:33:00+00:00'
+  - title: Gaza’s Looming Cancer Epidemic
+    url: https://scheerpost.com/2025/09/05/gazas-looming-cancer-epidemic/
+    text: 'Jabalia 20 by RafahKid Kid is licensed under CC BY-SA 2.0 / Flickr In one
+      of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Joshua Frank / TomDispatch
+      A week after the Hamas attacks on October 7, 2023, a large explosion incinerated
+      a parking lot near the busy Al-Ahli Arab Hospital in Gaza City, killing more than
+      470 people. It was a horrifying, chaotic scene. Burnt clothing was strewn about,
+      scorched vehicles piled atop one another, and charred buildings surrounded the
+      impact zone. Israel claimed the blast was caused by an errant rocket fired by
+      Palestinian extremists, but an investigation by Forensic Architecture later indicated
+      that the missile was most likely launched from Israel, not from inside Gaza. In
+      those first days of the onslaught, it wasn’t yet clear that wiping out Gaza’s
+      entire healthcare system could conceivably be part of the Israeli plan. After
+      all, it’s well known that purposely bombing or otherwise destroying hospitals
+      violates the Geneva Conventions and is a war crime, so there was still some hope
+      that the explosion at Al-Ahli was accidental. And that, of course, would be the
+      narrative that Israeli authorities would continue to push over the nearly two
+      years of death and misery that followed. A month into Israel’s Gaza offensive,
+      however, soldiers of the Israel Defense Forces (IDF) would raid the Indonesian
+      Hospital in northern Gaza, dismantling its dialysis center with no explanation
+      as to why such life-saving medical equipment would be targeted. (Not even Israel
+      was contending that Hamas was having kidney problems.) Then, in December 2023,
+      Al-Awda Hospital , also in northern Gaza, was hit, while at least one doctor was
+      shot by Israeli snipers stationed outside it. As unnerving as such news stories
+      were, the most gruesome footage released at the time came from Al-Nasr children’s
+      hospital, where infants were found dead and decomposing in an empty ICU ward.
+      Evacuation orders had been given and the medical staff had fled, unable to take
+      the babies with them. For those monitoring such events, a deadly pattern was beginning
+      to emerge, and Israel’s excuses for its malevolent behavior were already losing
+      credibility. Shortly after Israel issued warnings to evacuate the Al-Quds Hospital
+      in Gaza City in mid-January 2024, its troops launched rockets at the building,
+      destroying what remained of its functioning medical equipment. Following that
+      attack, ever more clinics were also targeted by Israeli forces. A Jordan Field
+      Hospital was shelled that January and again this past August. An air strike hit
+      Yafa hospital early in December 2023. The Nasser Medical Complex in Khan Younis
+      in southern Gaza was also damaged last May and again this August, when the hospital
+      and an ambulance were struck, killing 20, including five journalists. While human-rights
+      groups like the International Criminal Court, the United Nations, and the Red
+      Cross have condemned Israel for such attacks, its forces have continued to decimate
+      medical facilities and aid sites. At the same time, Israeli authorities claimed
+      that they were only targeting Hamas command centers and weapons storage facilities.
+      The Death of Gaza’s Only Cancer Center In early 2024, the Turkish-Palestinian
+      Friendship Hospital, first hit in October 2023 and shuttered in November of that
+      year, was in the early stages of being demolished by IDF battalions. A video released
+      in February by Middle East Eye showed footage of an elated Israeli soldier sharing
+      a TikTok video of himself driving a bulldozer into that hospital, chuckling as
+      his digger crushed a cinderblock wall. “The hospital accidentally broke,” he said.
+      Evidence of Israel’s crimes was by then accumulating, much of it provided by the
+      IDF itself. When that Turkish-Palestinian Friendship Hospital opened in 2018,
+      it quickly became Gaza’s leading and most well-equipped cancer treatment facility.
+      As the Covid-19 pandemic reached Gaza in 2020, all oncology operations were transferred
+      to that hospital to free up space at other clinics, making it the only cancer
+      center to serve Gaza’s population of more than two million. “This hospital will
+      help transform the health sector,” Palestinian Health Minister Jawad Awwad said
+      shortly before its opening. “[It] will help people who are going through extreme
+      difficulties.” Little did he know that those already facing severe difficulties
+      due to their cancer diagnoses would all too soon face full-blown catastrophe.
+      In March 2025, what remained of the hospital would be razed , erasing all traces
+      of Gaza’s once-promising cancer treatment. Before October 7, 2023, the most common
+      cancers afflicting Palestinians in Gaza were breast and colon cancer. Survival
+      rates were, however, much lower there than in Israel, thanks to more limited medical
+      resources and restrictions imposed by that country. From 2016 to 2019, while cases
+      in Gaza were on the rise, there was at least hope that the hospital, funded by
+      Turkey, would offer much-needed cancer screenings that had previously been unavailable.
+      “The repercussions of the current conflict on cancer care in Gaza will likely
+      be felt for years to come,” according to a November 2023 editorial in the medical
+      journal Cureus . “The immediate challenges of drugs, damaged infrastructure, and
+      reduced access to specialized treatment have long-term consequences on the overall
+      health outcomes of current patients.” In other words, lack of medical care and
+      worse cancer rates will not only continue to disproportionately affect Gazans
+      compared to Israelis, but conditions will undoubtedly deteriorate significantly
+      more. And such predictions don’t even take into account the fact that war itself
+      causes cancer, painting an even bleaker picture of the medical future for Palestinians
+      in Gaza. The Case of Fallujah When the Second Battle of Fallujah, part of America’s
+      nightmarish war in Iraq, ended in December 2004, the embattled city was a toxic
+      warzone, contaminated with munitions, depleted uranium (DU), and poisoned dust
+      from collapsed buildings. Not surprisingly, in the years that followed, cancer
+      rates increased almost exponentially there. Initially, doctors began to notice
+      that more cancers were being diagnosed. Scientific research would soon back up
+      their observations, revealing a startling trend. In the decade after the fighting
+      had mostly ended, leukemia rates among the local population skyrocketed by a dizzying
+      2,200% . It was the most significant increase ever recorded after a war, exceeding
+      even Hiroshima’s 660% rise over a more extended period of time. One study later
+      tallied a fourfold increase in all cancers and, for childhood cancers, a twelvefold
+      increase. The most likely source of many of those cancers was the mixture of DU,
+      building materials, and other leftover munitions. Researchers soon observed that
+      residing inside or near contaminated sites in Fallujah was likely the catalyst
+      for the boom in cancer rates. “Our research in Fallujah indicated that the majority
+      of families returned to their bombarded homes and lived there, or otherwise rebuilt
+      on top of the contaminated rubble of their old homes,” explained Dr. Mozghan Savabieasfahani,
+      an environmental toxicologist who studied the health impacts of war in Fallujah.
+      “When possible, they also used building materials that were salvaged from the
+      bombarded sites. Such common practices will contribute to the public’s continuous
+      exposure to toxic metals years after the bombardment of their area has ended.”
+      While difficult to quantify, we do have some idea of the amount of munitions and
+      DU that continues to plague that city. According to the International Atomic Energy
+      Agency, the United States fired between 170 and 1,700 tons of tank-busting munitions
+      in Iraq, including Fallujah, which might have amounted to as many as 300,000 rounds
+      of DU. While only mildly radioactive, persistent exposure to depleted uranium
+      has a cumulative effect on the human body. The more you’re exposed, the more the
+      radioactive particles build up in your bones , which, in turn, can cause cancers
+      like leukemia . With its population of 300,000 , Fallujah served as a military
+      testing ground for munitions much like those that Gaza endures today. In the short
+      span of one month, from March 19 to April 18, 2003, more than 29,199 bombs were
+      dropped on Iraq, 19,040 of which were precision-guided, along with another 1,276
+      cluster bombs. The impacts were grave. More than 60 of Fallujah’s 200 mosques
+      were destroyed, and of the city’s 50,000 buildings , more than 10,000 were imploded
+      and 39,000 damaged. Amid such destruction, there was a whole lot of toxic waste.
+      As a March 2025 report from Brown University’s Costs of War Project noted, “We
+      found that the environmental impact of warfighting and the presence of heavy metals
+      are long-lasting and widespread in both human bodies and soil.” Exposure to heavy
+      metals is distinctly associated with cancer risk. “Prolonged exposure to specific
+      heavy metals has been correlated with the onset of various cancers, including
+      those affecting the skin, lungs, and kidneys,” a 2023 report in Scientific Studies
+      explains. “The gradual buildup of these metals within the body can lead to persistent
+      toxic effects. Even minimal exposure levels can result in their gradual accumulation
+      in tissues, disrupting normal cellular operations and heightening the likelihood
+      of diseases, particularly cancer.” And it wasn’t just cancer that afflicted the
+      population that stuck around or returned to Fallujah. Infants began to be born
+      with alarming birth defects. A 2010 study found a significant increase in heart
+      ailments among babies there, with rates 13 times higher and nervous system defects
+      33 times higher than in European births. “We have all kinds of defects now, ranging
+      from congenital heart disease to severe physical abnormalities, both in numbers
+      you cannot imagine,” Dr Samira Alani, a pediatric specialist at Fallujah General
+      Hospital, who co-authored the birth-defect study, told Al Jazeera in 2013. “We
+      have so many cases of babies with multiple system defects… Multiple abnormalities
+      in one baby. For example, we just had one baby with central nervous system problems,
+      skeletal defects, and heart abnormalities. This is common in Fallujah today.”
+      While comprehensive health assessments in Iraq are scant, evidence continues to
+      suggest that high cancer rates persist in places like Fallujah. “Fallujah today,
+      among other bombarded cities in Iraq, reports a high rate of cancers,” researchers
+      from the Costs of War Project study report . “These high rates of cancer and birth
+      defects may be attributed to exposure to the remnants of war, as are manifold
+      other similar spikes in, for example, early onset cancers and respiratory diseases.”
+      As devastating as the war in Iraq was — and as contaminated as Fallujah remains
+      — it’s nearly impossible to envision what the future holds for those left in Gaza,
+      where the situation is so much worse. If Fallujah teaches us anything, it’s that
+      Israel’s destruction will cause cancer rates to rise significantly, impacting
+      generations to come. Manufacturing Cancer The aerial photographs and satellite
+      footage are grisly. Israel’s U.S.-backed military machine has dropped so many
+      bombs that entire neighborhoods have been reduced to rubble. Gaza, by every measure,
+      is a land of immense suffering. As Palestinian children hang on the brink of starvation,
+      it feels strange to discuss the health effects they might face in the decades
+      ahead, should they be fortunate enough to survive. While data often conceals the
+      truth, in Gaza, numbers reveal a dire reality. As of this year, nearly 70% of
+      all roads had been destroyed, 90% of all homes damaged or completely gone, 85%
+      of farmland affected, and 84% of healthcare facilities obliterated. To date, Israel’s
+      relentless death machine has created at least 50 million tons of rubble, human
+      remains, and hazardous materials — all the noxious ingredients necessary for a
+      future cancer epidemic. From October 2023 to April 2024, well over 70,000 tons
+      of explosives were dropped on Gaza , which, according to the Euro-Med Human Rights
+      Monitor, was equivalent to two nuclear bombs. While the extent and exact types
+      of weaponry used there are not fully known, the European Parliament has accused
+      Israel of deploying depleted uranium, which, if true, will only add to the future
+      cancer ills of Gazans. Most bombs contain heavy metals like lead, antimony, bismuth,
+      cobalt, and tungsten, which end up polluting the soil and groundwater, while impacting
+      agriculture and access to clean water for years to come. “The toxicological effects
+      of metals and energetic materials on microorganisms, plants, and animals vary
+      widely and can be significantly different depending on whether the exposure is
+      acute (short term) or chronic (long term),” reads a 2021 report commissioned by
+      the Guide to Explosive Ordnance Pollution of the Environment. “In some cases,
+      the toxic effects may not be immediately apparent, but instead may be linked to
+      an increased risk of cancer, or increased risk of mutation during pregnancy, which
+      may not become evident for many years.” Given such information, we can only begin
+      to predict how toxic the destruction may prove to be. The homes that once stood
+      in the Gaza Strip were mainly made of concrete and steel. Particles of dust released
+      from such crumbled buildings can themselves cause lung, colon, and stomach cancers.
+      As current cancer patients die slow deaths with no access to the care they need,
+      future patients, who will acquire cancer thanks to Israel’s genocidal mania, will
+      no doubt meet the same fate unless there is significant intervention. “[A]pproximately
+      2,700 [Gazans] in advanced stages of the disease await treatment with no hope
+      or treatment options within the Gaza Strip under an ongoing closure of Gaza’s
+      crossings, and the disruption of emergency medical evacuation mechanisms,” states
+      a May 2025 report by the Palestinian Centre for Human Rights. “[We hold] Israel
+      fully responsible for the deaths of hundreds of cancer patients and for deliberately
+      obliterating any opportunities of treatment for thousands more by destroying their
+      treatment centers and depriving them of travel. Such acts fall under the crime
+      of genocide ongoing in the Gaza Strip.” Israel’s methodical destruction in Gaza
+      has taken on many forms , from bombing civilian enclaves and hospitals to withholding
+      food, water, and medical care from those most in need. In due time, Israel will
+      undoubtedly use the cancers it will have created as a means to an end, fully aware
+      that Palestinians there have no way of preparing for the health crises that are
+      coming. Cancer, in short, will be but another weapon added to Israel’s ever-increasing
+      arsenal. Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . Joshua Frank Joshua Frank , a TomDispatch regular ,
+      is an award-winning California-based journalist and co-editor of CounterPunch
+      . He is the author of the new book Atomic Days: The Untold Story of the Most Toxic
+      Place in America (Haymarket Books). Author Site Please share this story and help
+      us grow our network!'
+    one_sentence_summary: A week after the October 7, 2023 Hamas attacks, a devastating
+      explosion near Al-Ahli Arab Hospital in Gaza City killed over 470 people, with
+      conflicting claims about its cause, as investigations suggested it was likely
+      an Israeli missile rather than a Palestinian rocket.
+    paragraph_summary: In the aftermath of the Hamas attacks on October 7, 2023, a devastating
+      explosion near the Al-Ahli Arab Hospital in Gaza City resulted in over 470 deaths,
+      raising immediate concerns about the nature of the blast. While Israel attributed
+      the explosion to a misfired rocket from Palestinian militants, an investigation
+      by Forensic Architecture suggested it was likely caused by a missile launched
+      from Israel. As the conflict escalated, it became evident that the Israeli military's
+      actions included targeting healthcare facilities, with incidents such as the dismantling
+      of a dialysis center at the Indonesian Hospital and attacks on Al-Awda Hospital,
+      leading to fears that the destruction of Gaza's healthcare system was a deliberate
+      strategy, despite the legal and moral implications of such actions.
+    published: '2025-09-05T09:40:00+00:00'
+  - title: Gaza’s Looming Cancer Epidemic
+    url: https://scheerpost.com/2025/09/05/gazas-looming-cancer-epidemic/
+    text: 'Jabalia 20 by RafahKid Kid is licensed under CC BY-SA 2.0 / Flickr In one
+      of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Joshua Frank / TomDispatch
+      A week after the Hamas attacks on October 7, 2023, a large explosion incinerated
+      a parking lot near the busy Al-Ahli Arab Hospital in Gaza City, killing more than
+      470 people. It was a horrifying, chaotic scene. Burnt clothing was strewn about,
+      scorched vehicles piled atop one another, and charred buildings surrounded the
+      impact zone. Israel claimed the blast was caused by an errant rocket fired by
+      Palestinian extremists, but an investigation by Forensic Architecture later indicated
+      that the missile was most likely launched from Israel, not from inside Gaza. In
+      those first days of the onslaught, it wasn’t yet clear that wiping out Gaza’s
+      entire healthcare system could conceivably be part of the Israeli plan. After
+      all, it’s well known that purposely bombing or otherwise destroying hospitals
+      violates the Geneva Conventions and is a war crime, so there was still some hope
+      that the explosion at Al-Ahli was accidental. And that, of course, would be the
+      narrative that Israeli authorities would continue to push over the nearly two
+      years of death and misery that followed. A month into Israel’s Gaza offensive,
+      however, soldiers of the Israel Defense Forces (IDF) would raid the Indonesian
+      Hospital in northern Gaza, dismantling its dialysis center with no explanation
+      as to why such life-saving medical equipment would be targeted. (Not even Israel
+      was contending that Hamas was having kidney problems.) Then, in December 2023,
+      Al-Awda Hospital , also in northern Gaza, was hit, while at least one doctor was
+      shot by Israeli snipers stationed outside it. As unnerving as such news stories
+      were, the most gruesome footage released at the time came from Al-Nasr children’s
+      hospital, where infants were found dead and decomposing in an empty ICU ward.
+      Evacuation orders had been given and the medical staff had fled, unable to take
+      the babies with them. For those monitoring such events, a deadly pattern was beginning
+      to emerge, and Israel’s excuses for its malevolent behavior were already losing
+      credibility. Shortly after Israel issued warnings to evacuate the Al-Quds Hospital
+      in Gaza City in mid-January 2024, its troops launched rockets at the building,
+      destroying what remained of its functioning medical equipment. Following that
+      attack, ever more clinics were also targeted by Israeli forces. A Jordan Field
+      Hospital was shelled that January and again this past August. An air strike hit
+      Yafa hospital early in December 2023. The Nasser Medical Complex in Khan Younis
+      in southern Gaza was also damaged last May and again this August, when the hospital
+      and an ambulance were struck, killing 20, including five journalists. While human-rights
+      groups like the International Criminal Court, the United Nations, and the Red
+      Cross have condemned Israel for such attacks, its forces have continued to decimate
+      medical facilities and aid sites. At the same time, Israeli authorities claimed
+      that they were only targeting Hamas command centers and weapons storage facilities.
+      The Death of Gaza’s Only Cancer Center In early 2024, the Turkish-Palestinian
+      Friendship Hospital, first hit in October 2023 and shuttered in November of that
+      year, was in the early stages of being demolished by IDF battalions. A video released
+      in February by Middle East Eye showed footage of an elated Israeli soldier sharing
+      a TikTok video of himself driving a bulldozer into that hospital, chuckling as
+      his digger crushed a cinderblock wall. “The hospital accidentally broke,” he said.
+      Evidence of Israel’s crimes was by then accumulating, much of it provided by the
+      IDF itself. When that Turkish-Palestinian Friendship Hospital opened in 2018,
+      it quickly became Gaza’s leading and most well-equipped cancer treatment facility.
+      As the Covid-19 pandemic reached Gaza in 2020, all oncology operations were transferred
+      to that hospital to free up space at other clinics, making it the only cancer
+      center to serve Gaza’s population of more than two million. “This hospital will
+      help transform the health sector,” Palestinian Health Minister Jawad Awwad said
+      shortly before its opening. “[It] will help people who are going through extreme
+      difficulties.” Little did he know that those already facing severe difficulties
+      due to their cancer diagnoses would all too soon face full-blown catastrophe.
+      In March 2025, what remained of the hospital would be razed , erasing all traces
+      of Gaza’s once-promising cancer treatment. Before October 7, 2023, the most common
+      cancers afflicting Palestinians in Gaza were breast and colon cancer. Survival
+      rates were, however, much lower there than in Israel, thanks to more limited medical
+      resources and restrictions imposed by that country. From 2016 to 2019, while cases
+      in Gaza were on the rise, there was at least hope that the hospital, funded by
+      Turkey, would offer much-needed cancer screenings that had previously been unavailable.
+      “The repercussions of the current conflict on cancer care in Gaza will likely
+      be felt for years to come,” according to a November 2023 editorial in the medical
+      journal Cureus . “The immediate challenges of drugs, damaged infrastructure, and
+      reduced access to specialized treatment have long-term consequences on the overall
+      health outcomes of current patients.” In other words, lack of medical care and
+      worse cancer rates will not only continue to disproportionately affect Gazans
+      compared to Israelis, but conditions will undoubtedly deteriorate significantly
+      more. And such predictions don’t even take into account the fact that war itself
+      causes cancer, painting an even bleaker picture of the medical future for Palestinians
+      in Gaza. The Case of Fallujah When the Second Battle of Fallujah, part of America’s
+      nightmarish war in Iraq, ended in December 2004, the embattled city was a toxic
+      warzone, contaminated with munitions, depleted uranium (DU), and poisoned dust
+      from collapsed buildings. Not surprisingly, in the years that followed, cancer
+      rates increased almost exponentially there. Initially, doctors began to notice
+      that more cancers were being diagnosed. Scientific research would soon back up
+      their observations, revealing a startling trend. In the decade after the fighting
+      had mostly ended, leukemia rates among the local population skyrocketed by a dizzying
+      2,200% . It was the most significant increase ever recorded after a war, exceeding
+      even Hiroshima’s 660% rise over a more extended period of time. One study later
+      tallied a fourfold increase in all cancers and, for childhood cancers, a twelvefold
+      increase. The most likely source of many of those cancers was the mixture of DU,
+      building materials, and other leftover munitions. Researchers soon observed that
+      residing inside or near contaminated sites in Fallujah was likely the catalyst
+      for the boom in cancer rates. “Our research in Fallujah indicated that the majority
+      of families returned to their bombarded homes and lived there, or otherwise rebuilt
+      on top of the contaminated rubble of their old homes,” explained Dr. Mozghan Savabieasfahani,
+      an environmental toxicologist who studied the health impacts of war in Fallujah.
+      “When possible, they also used building materials that were salvaged from the
+      bombarded sites. Such common practices will contribute to the public’s continuous
+      exposure to toxic metals years after the bombardment of their area has ended.”
+      While difficult to quantify, we do have some idea of the amount of munitions and
+      DU that continues to plague that city. According to the International Atomic Energy
+      Agency, the United States fired between 170 and 1,700 tons of tank-busting munitions
+      in Iraq, including Fallujah, which might have amounted to as many as 300,000 rounds
+      of DU. While only mildly radioactive, persistent exposure to depleted uranium
+      has a cumulative effect on the human body. The more you’re exposed, the more the
+      radioactive particles build up in your bones , which, in turn, can cause cancers
+      like leukemia . With its population of 300,000 , Fallujah served as a military
+      testing ground for munitions much like those that Gaza endures today. In the short
+      span of one month, from March 19 to April 18, 2003, more than 29,199 bombs were
+      dropped on Iraq, 19,040 of which were precision-guided, along with another 1,276
+      cluster bombs. The impacts were grave. More than 60 of Fallujah’s 200 mosques
+      were destroyed, and of the city’s 50,000 buildings , more than 10,000 were imploded
+      and 39,000 damaged. Amid such destruction, there was a whole lot of toxic waste.
+      As a March 2025 report from Brown University’s Costs of War Project noted, “We
+      found that the environmental impact of warfighting and the presence of heavy metals
+      are long-lasting and widespread in both human bodies and soil.” Exposure to heavy
+      metals is distinctly associated with cancer risk. “Prolonged exposure to specific
+      heavy metals has been correlated with the onset of various cancers, including
+      those affecting the skin, lungs, and kidneys,” a 2023 report in Scientific Studies
+      explains. “The gradual buildup of these metals within the body can lead to persistent
+      toxic effects. Even minimal exposure levels can result in their gradual accumulation
+      in tissues, disrupting normal cellular operations and heightening the likelihood
+      of diseases, particularly cancer.” And it wasn’t just cancer that afflicted the
+      population that stuck around or returned to Fallujah. Infants began to be born
+      with alarming birth defects. A 2010 study found a significant increase in heart
+      ailments among babies there, with rates 13 times higher and nervous system defects
+      33 times higher than in European births. “We have all kinds of defects now, ranging
+      from congenital heart disease to severe physical abnormalities, both in numbers
+      you cannot imagine,” Dr Samira Alani, a pediatric specialist at Fallujah General
+      Hospital, who co-authored the birth-defect study, told Al Jazeera in 2013. “We
+      have so many cases of babies with multiple system defects… Multiple abnormalities
+      in one baby. For example, we just had one baby with central nervous system problems,
+      skeletal defects, and heart abnormalities. This is common in Fallujah today.”
+      While comprehensive health assessments in Iraq are scant, evidence continues to
+      suggest that high cancer rates persist in places like Fallujah. “Fallujah today,
+      among other bombarded cities in Iraq, reports a high rate of cancers,” researchers
+      from the Costs of War Project study report . “These high rates of cancer and birth
+      defects may be attributed to exposure to the remnants of war, as are manifold
+      other similar spikes in, for example, early onset cancers and respiratory diseases.”
+      As devastating as the war in Iraq was — and as contaminated as Fallujah remains
+      — it’s nearly impossible to envision what the future holds for those left in Gaza,
+      where the situation is so much worse. If Fallujah teaches us anything, it’s that
+      Israel’s destruction will cause cancer rates to rise significantly, impacting
+      generations to come. Manufacturing Cancer The aerial photographs and satellite
+      footage are grisly. Israel’s U.S.-backed military machine has dropped so many
+      bombs that entire neighborhoods have been reduced to rubble. Gaza, by every measure,
+      is a land of immense suffering. As Palestinian children hang on the brink of starvation,
+      it feels strange to discuss the health effects they might face in the decades
+      ahead, should they be fortunate enough to survive. While data often conceals the
+      truth, in Gaza, numbers reveal a dire reality. As of this year, nearly 70% of
+      all roads had been destroyed, 90% of all homes damaged or completely gone, 85%
+      of farmland affected, and 84% of healthcare facilities obliterated. To date, Israel’s
+      relentless death machine has created at least 50 million tons of rubble, human
+      remains, and hazardous materials — all the noxious ingredients necessary for a
+      future cancer epidemic. From October 2023 to April 2024, well over 70,000 tons
+      of explosives were dropped on Gaza , which, according to the Euro-Med Human Rights
+      Monitor, was equivalent to two nuclear bombs. While the extent and exact types
+      of weaponry used there are not fully known, the European Parliament has accused
+      Israel of deploying depleted uranium, which, if true, will only add to the future
+      cancer ills of Gazans. Most bombs contain heavy metals like lead, antimony, bismuth,
+      cobalt, and tungsten, which end up polluting the soil and groundwater, while impacting
+      agriculture and access to clean water for years to come. “The toxicological effects
+      of metals and energetic materials on microorganisms, plants, and animals vary
+      widely and can be significantly different depending on whether the exposure is
+      acute (short term) or chronic (long term),” reads a 2021 report commissioned by
+      the Guide to Explosive Ordnance Pollution of the Environment. “In some cases,
+      the toxic effects may not be immediately apparent, but instead may be linked to
+      an increased risk of cancer, or increased risk of mutation during pregnancy, which
+      may not become evident for many years.” Given such information, we can only begin
+      to predict how toxic the destruction may prove to be. The homes that once stood
+      in the Gaza Strip were mainly made of concrete and steel. Particles of dust released
+      from such crumbled buildings can themselves cause lung, colon, and stomach cancers.
+      As current cancer patients die slow deaths with no access to the care they need,
+      future patients, who will acquire cancer thanks to Israel’s genocidal mania, will
+      no doubt meet the same fate unless there is significant intervention. “[A]pproximately
+      2,700 [Gazans] in advanced stages of the disease await treatment with no hope
+      or treatment options within the Gaza Strip under an ongoing closure of Gaza’s
+      crossings, and the disruption of emergency medical evacuation mechanisms,” states
+      a May 2025 report by the Palestinian Centre for Human Rights. “[We hold] Israel
+      fully responsible for the deaths of hundreds of cancer patients and for deliberately
+      obliterating any opportunities of treatment for thousands more by destroying their
+      treatment centers and depriving them of travel. Such acts fall under the crime
+      of genocide ongoing in the Gaza Strip.” Israel’s methodical destruction in Gaza
+      has taken on many forms , from bombing civilian enclaves and hospitals to withholding
+      food, water, and medical care from those most in need. In due time, Israel will
+      undoubtedly use the cancers it will have created as a means to an end, fully aware
+      that Palestinians there have no way of preparing for the health crises that are
+      coming. Cancer, in short, will be but another weapon added to Israel’s ever-increasing
+      arsenal. Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . Joshua Frank Joshua Frank , a TomDispatch regular ,
+      is an award-winning California-based journalist and co-editor of CounterPunch
+      . He is the author of the new book Atomic Days: The Untold Story of the Most Toxic
+      Place in America (Haymarket Books). Author Site Please share this story and help
+      us grow our network!'
+    one_sentence_summary: A week after the October 7, 2023 Hamas attacks, a devastating
+      explosion near Al-Ahli Arab Hospital in Gaza City killed over 470 people, with
+      conflicting claims about its cause, as investigations suggested it was likely
+      an Israeli missile rather than a Palestinian rocket.
+    paragraph_summary: In the aftermath of the Hamas attacks on October 7, 2023, a devastating
+      explosion near the Al-Ahli Arab Hospital in Gaza City resulted in over 470 deaths,
+      raising immediate concerns about the nature of the blast. While Israel attributed
+      the explosion to a misfired rocket from Palestinian militants, an investigation
+      by Forensic Architecture suggested it was likely caused by a missile launched
+      from Israel. As the conflict escalated, it became evident that the Israeli military's
+      actions included targeting healthcare facilities, with incidents such as the dismantling
+      of a dialysis center at the Indonesian Hospital and attacks on Al-Awda Hospital,
+      leading to fears that the destruction of Gaza's healthcare system was a deliberate
+      strategy, despite the legal and moral implications of such actions.
+    published: '2025-09-05T09:40:00+00:00'
+  - title: A Silver Lining in Trump’s ‘Big Ugly Bill’
+    url: https://scheerpost.com/2025/09/05/a-silver-lining-in-trumps-big-ugly-bill/
+    text: 'Century City, Los Angeles. Busition, CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Mark Kreidler / Capital & Main California’s housing shortage has
+      been at crisis level for decades. Three years ago, its Department of Housing and
+      Community Development said the state must plan for 2.5 million new homes in the
+      eight-year cycle between 2026 and 2034 — more than double the total of the previous
+      eight years. Further, the report said, at least a million of those homes “must
+      meet the needs of lower income households.” That’s a tall ask in the current climate,
+      in which President Donald Trump’s actions have only exacerbated some of the problems:
+      tariffs on core building components such as iron and steel, threats to immigrant
+      workers that have thinned the construction industry’s labor force, and policy-driven
+      inflation that has made the Federal Reserve wary of lowering interest rates, thus
+      keeping the cost of borrowing money high. State leaders, therefore, could be forgiven
+      if they were nonplussed by the Trump administration’s suggestion this week that
+      the president may declare a national housing emergency this fall. The teaser,
+      dropped by Treasury Secretary Scott Bessent in interviews with the Washington
+      Examiner and Reuters, was accompanied by no details about what such a declaration
+      might achieve or what it even means. In his seven-plus months back in office,
+      Trump has declared nine national emergencies , plus a crime emergency in Washington.
+      This one would concern a housing market in a deep funk , but aside from acknowledging
+      it, Bessent didn’t specify any actions Trump would take. It’s a mess. And that
+      makes it all the more remarkable that, somewhere in the rubble of the Trump administration’s
+      approach to these issues, a nugget of policy has emerged that might — might —
+      improve a critical component of the housing market in California and elsewhere.
+      It isn’t a perfect solution, and it has its limits, but its potential is real
+      enough. *   *   * Tucked within the so-called One Big Beautiful Bill is a provision
+      that significantly expands the Low-Income Housing Tax Credit, a program the U.S.
+      Department of Housing and Urban Development describes as “the most important resource
+      for creating affordable housing in the United States today.” The tax credit program
+      is not universally beloved, with some groups arguing that it rewards developers
+      and investors more than housing-insecure families. But it performs a transactional
+      function. Essentially, the program gives substantial federal tax credits to developers
+      if they build or rehabilitate housing that sets aside a certain percentage of
+      units for low-income renters – some 9% of the construction cost, which can be
+      written off their tax bill each year for 10 years. Large apartment buildings qualify
+      for the credit, but so do smaller projects such as duplexes and fourplexes, as
+      well as single family homes. The developers can use the tax credits themselves,
+      but often they sell them to banks and other equity investors in exchange for the
+      money to kick-start the projects. Until now, the program, which was created by
+      the Tax Reform Act of 1986, has funneled $10.5 billion a year to states and local
+      agencies, which then awarded the tax credits to developers based on bids. Trump’s
+      spending bill substantially increases the total number of those credits available
+      to states each year, and it does so indefinitely. The bill also makes it easier
+      for developers to qualify for a separate 4% tax credit, as it cuts from 50% to
+      25% the amount of housing costs that must be paid for by tax-exempt bonds. The
+      upshot is that developers in California will qualify for vastly more tax credits
+      , theoretically fueling greater affordable housing construction. “The passage
+      of the One Big Ugly Bill in July, with all of its horrendous impacts on the nation’s
+      social safety net, had a little-known silver lining for California,” Matt Schwartz,
+      president and CEO of the nonprofit California Housing Partnership, told Capital
+      & Main. Schwartz said that if California matches the federal funding increase
+      by passing a new affordable housing bond in 2026, and establishes long-term funding
+      by 2030, the state could nearly double its production of affordable housing to
+      some 30,000 new units per year — a total that would make a sizable dent in its
+      larger goal. But that depends on such a bond being approved by voters. *   * 
+       * It’s fair to assume that Trump didn’t enhance the tax credit program in order
+      to ease the burden on low-income Americans. Consider his administration’s assault
+      on Medicaid , an estimated $990 billion funding reduction in low-income health
+      care programs that the Republican-controlled Congress approved in the spending
+      bill. Rather, the left-leaning Center for Economic and Policy Research suggested
+      the housing tax credit changes “primarily lock in tax breaks for investors,” such
+      as banks and insurance companies, which buy the credits from developers. The center
+      contended that the measures don’t offer real relief to those facing housing insecurity
+      and skyrocketing rents. It is also true that these “affordable housing” projects
+      in California and elsewhere actually require that only a certain portion of a
+      development be set aside for low-income renters. That’s nothing new. Such requirements
+      often have a shelf life of as little as 15 years, after which developers are free
+      to pursue market rates on those units. But in a housing-desperate state like California,
+      this may qualify as “any port in a storm” territory. In 2022, a Los Angeles Times
+      analysis of state data found that the cost of building affordable housing had
+      soared to absurd heights — in some cases, $1 million per apartment . The state
+      has failed for decades to meaningfully boost its housing stock, and particularly
+      to increase the number of affordable units available. Improving federal enticements
+      to developers — and the financiers to whom they sell their tax credits — is no
+      perfect solution. But it might prove to be an important piece of the puzzle. Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Mark Kreidler
+      Mark Kreidler is a California-based writer and broadcaster, and the author of
+      three books, including Four Days to Glory. Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: California faces a severe housing crisis requiring 2.5 million
+      new homes by 2034, with a significant portion needed for low-income households,
+      a challenge compounded by recent federal policies.
+    paragraph_summary: California is facing a severe housing crisis, with a state report
+      indicating the need for 2.5 million new homes by 2034, including a million affordable
+      units for lower-income households. This challenge is compounded by factors such
+      as tariffs on construction materials, a reduced labor force due to immigration
+      policies, and high borrowing costs driven by inflation concerns. Amidst this turmoil,
+      the Trump administration hinted at a potential national housing emergency declaration,
+      but details on what such a declaration would entail or how it would address the
+      housing crisis remain unclear. The situation reflects the broader dysfunction
+      in addressing the pressing housing needs in California.
+    published: '2025-09-05T09:35:00+00:00'
+  - title: A Silver Lining in Trump’s ‘Big Ugly Bill’
+    url: https://scheerpost.com/2025/09/05/a-silver-lining-in-trumps-big-ugly-bill/
+    text: 'Century City, Los Angeles. Busition, CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Mark Kreidler / Capital & Main California’s housing shortage has
+      been at crisis level for decades. Three years ago, its Department of Housing and
+      Community Development said the state must plan for 2.5 million new homes in the
+      eight-year cycle between 2026 and 2034 — more than double the total of the previous
+      eight years. Further, the report said, at least a million of those homes “must
+      meet the needs of lower income households.” That’s a tall ask in the current climate,
+      in which President Donald Trump’s actions have only exacerbated some of the problems:
+      tariffs on core building components such as iron and steel, threats to immigrant
+      workers that have thinned the construction industry’s labor force, and policy-driven
+      inflation that has made the Federal Reserve wary of lowering interest rates, thus
+      keeping the cost of borrowing money high. State leaders, therefore, could be forgiven
+      if they were nonplussed by the Trump administration’s suggestion this week that
+      the president may declare a national housing emergency this fall. The teaser,
+      dropped by Treasury Secretary Scott Bessent in interviews with the Washington
+      Examiner and Reuters, was accompanied by no details about what such a declaration
+      might achieve or what it even means. In his seven-plus months back in office,
+      Trump has declared nine national emergencies , plus a crime emergency in Washington.
+      This one would concern a housing market in a deep funk , but aside from acknowledging
+      it, Bessent didn’t specify any actions Trump would take. It’s a mess. And that
+      makes it all the more remarkable that, somewhere in the rubble of the Trump administration’s
+      approach to these issues, a nugget of policy has emerged that might — might —
+      improve a critical component of the housing market in California and elsewhere.
+      It isn’t a perfect solution, and it has its limits, but its potential is real
+      enough. *   *   * Tucked within the so-called One Big Beautiful Bill is a provision
+      that significantly expands the Low-Income Housing Tax Credit, a program the U.S.
+      Department of Housing and Urban Development describes as “the most important resource
+      for creating affordable housing in the United States today.” The tax credit program
+      is not universally beloved, with some groups arguing that it rewards developers
+      and investors more than housing-insecure families. But it performs a transactional
+      function. Essentially, the program gives substantial federal tax credits to developers
+      if they build or rehabilitate housing that sets aside a certain percentage of
+      units for low-income renters – some 9% of the construction cost, which can be
+      written off their tax bill each year for 10 years. Large apartment buildings qualify
+      for the credit, but so do smaller projects such as duplexes and fourplexes, as
+      well as single family homes. The developers can use the tax credits themselves,
+      but often they sell them to banks and other equity investors in exchange for the
+      money to kick-start the projects. Until now, the program, which was created by
+      the Tax Reform Act of 1986, has funneled $10.5 billion a year to states and local
+      agencies, which then awarded the tax credits to developers based on bids. Trump’s
+      spending bill substantially increases the total number of those credits available
+      to states each year, and it does so indefinitely. The bill also makes it easier
+      for developers to qualify for a separate 4% tax credit, as it cuts from 50% to
+      25% the amount of housing costs that must be paid for by tax-exempt bonds. The
+      upshot is that developers in California will qualify for vastly more tax credits
+      , theoretically fueling greater affordable housing construction. “The passage
+      of the One Big Ugly Bill in July, with all of its horrendous impacts on the nation’s
+      social safety net, had a little-known silver lining for California,” Matt Schwartz,
+      president and CEO of the nonprofit California Housing Partnership, told Capital
+      & Main. Schwartz said that if California matches the federal funding increase
+      by passing a new affordable housing bond in 2026, and establishes long-term funding
+      by 2030, the state could nearly double its production of affordable housing to
+      some 30,000 new units per year — a total that would make a sizable dent in its
+      larger goal. But that depends on such a bond being approved by voters. *   * 
+       * It’s fair to assume that Trump didn’t enhance the tax credit program in order
+      to ease the burden on low-income Americans. Consider his administration’s assault
+      on Medicaid , an estimated $990 billion funding reduction in low-income health
+      care programs that the Republican-controlled Congress approved in the spending
+      bill. Rather, the left-leaning Center for Economic and Policy Research suggested
+      the housing tax credit changes “primarily lock in tax breaks for investors,” such
+      as banks and insurance companies, which buy the credits from developers. The center
+      contended that the measures don’t offer real relief to those facing housing insecurity
+      and skyrocketing rents. It is also true that these “affordable housing” projects
+      in California and elsewhere actually require that only a certain portion of a
+      development be set aside for low-income renters. That’s nothing new. Such requirements
+      often have a shelf life of as little as 15 years, after which developers are free
+      to pursue market rates on those units. But in a housing-desperate state like California,
+      this may qualify as “any port in a storm” territory. In 2022, a Los Angeles Times
+      analysis of state data found that the cost of building affordable housing had
+      soared to absurd heights — in some cases, $1 million per apartment . The state
+      has failed for decades to meaningfully boost its housing stock, and particularly
+      to increase the number of affordable units available. Improving federal enticements
+      to developers — and the financiers to whom they sell their tax credits — is no
+      perfect solution. But it might prove to be an important piece of the puzzle. Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Mark Kreidler
+      Mark Kreidler is a California-based writer and broadcaster, and the author of
+      three books, including Four Days to Glory. Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: California faces a severe housing crisis requiring 2.5 million
+      new homes by 2034, with a significant portion needed for low-income households,
+      a challenge compounded by recent federal policies.
+    paragraph_summary: California is facing a severe housing crisis, with a state report
+      indicating the need for 2.5 million new homes by 2034, including a million affordable
+      units for lower-income households. This challenge is compounded by factors such
+      as tariffs on construction materials, a reduced labor force due to immigration
+      policies, and high borrowing costs driven by inflation concerns. Amidst this turmoil,
+      the Trump administration hinted at a potential national housing emergency declaration,
+      but details on what such a declaration would entail or how it would address the
+      housing crisis remain unclear. The situation reflects the broader dysfunction
+      in addressing the pressing housing needs in California.
+    published: '2025-09-05T09:35:00+00:00'
+  - title: Voters Again Shown to Prefer Populism Over Neoliberal ‘Abundance’ Agenda
+      in New Research
+    url: https://scheerpost.com/2025/09/05/voters-again-shown-to-prefer-populism-over-neoliberal-abundance-agenda-in-new-research/
+    text: 'U.S. Senator Bernie Sanders speaking with attendees at a “Fight Oligarchy”
+      rally at Mullett Arena in Tempe, Arizona. Gage Skidmore from Surprise, AZ, United
+      States of America, CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Brad Reed / Common Dreams A new strategy memo written by a progressive
+      think tank and a pair of high-profile Democratic Party operatives makes the latest
+      case that a populist economic message will help the party more than a message
+      centered around the so-called “ abundance ” agenda, Politico reported on Thursday.
+      The memo—which was written by Democratic pollster Geoff Garin and Democratic strategist
+      Brian Fallon, in collaboration with Groundwork Collaborative—uses polling and
+      focus group data to argue that a sharp populist message is more effective at winning
+      back working-class voters than a message focused on cutting regulations in order
+      to build more housing and infrastructure. “While there are elements of the Abundance
+      agenda that have appeal, and the choice on which messages to deliver is not zero-sum,
+      a populist economic approach better solves for Democrats’ challenges with working-class
+      voters,” the memo states. “If candidates are asking which focus deserves topmost
+      billing in Democrats’ campaign messaging, the answer is clear: Though some voters
+      believe excessive bureaucracy can be a problem, it ranks far behind other concerns
+      and tackling it does not strike voters as a direct response to the problem of
+      affordability.” The memo went on to argue that “majorities of Democrats and independents
+      and two in five Republicans believe the outsized power of billionaires and corporations
+      in our government is a bigger problem than red tape and bureaucracy.” In a head-to-head
+      messaging test, voters told researchers that government giving preference to large
+      corporations and billionaires was a bigger problem than government bureaucracy
+      causing inefficiencies by a nearly two-to-one ratio. By roughly the same ratio,
+      the researchers found, voters preferred cracking down on price-gouging corporations
+      to cutting bureaucratic red tape. The researchers did credit abundance-centric
+      messaging with generating “some fresh ideas that challenge the status quo,” but
+      warned that “there are significant questions about whether a focus on it in political
+      messaging adequately meets the moment Democrats face today. The memo is set to
+      be presented to Democrats on Capitol Hill next week, and Politico noted that it
+      has the support of Rep. Chris Deluzio (D-Pa.), who represents a competitive congressional
+      district and who in the past has embraced populist messaging. The “abundance”
+      movement got its name after a book released earlier this year by journalists Ezra
+      Klein and Derek Thompson, who both argued that Democratic-led state governments
+      have put up too many bureaucratic roadblocks to achieve ambitious goals such as
+      affordable housing and high-speed rail. Some critics of the book, however, argue
+      that it fails to address issues such as corporate power and wealth inequality
+      as the real roadblocks to progressive change. As Common Dreams reported last week,
+      a recent analysis by Revolving Door Project and Open Markets Institute detailed
+      how the abundance movement “erroneously” claims that environmental reviews hinder
+      clean energy progress while having little to say about “the real causes of delay,”
+      including interference by fossil fuel-backed politicians and profit-driven privately-owned
+      utilities. The memo’s release comes just as an “Abundance” conference is set to
+      kick off in Washington, DC on Thursday that will include Klein and Thompson as
+      featured speakers, as well as Republican Utah Gov. Spencer Cox. Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Brad Reed Brad
+      Reed is a staff writer for Common Dreams. Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: A new strategy memo from a progressive think tank and Democratic
+      operatives suggests that the Democratic Party should focus on a populist economic
+      message rather than an "abundance" agenda to better resonate with voters.
+    paragraph_summary: A new strategy memo from a progressive think tank and Democratic
+      operatives suggests that the Democratic Party should adopt a populist economic
+      message rather than focus on an "abundance" agenda centered on reducing regulations
+      for housing and infrastructure development. Written by pollster Geoff Garin and
+      strategist Brian Fallon, the memo highlights polling data indicating that a populist
+      approach is more effective in appealing to working-class voters. It emphasizes
+      that concerns about the influence of billionaires and corporations in government
+      resonate more with voters than issues related to bureaucracy. The memo concludes
+      that prioritizing a populist message could better address the challenges Democrats
+      face in winning back support from these voters.
+    published: '2025-09-05T09:28:00+00:00'
+  - title: Voters Again Shown to Prefer Populism Over Neoliberal ‘Abundance’ Agenda
+      in New Research
+    url: https://scheerpost.com/2025/09/05/voters-again-shown-to-prefer-populism-over-neoliberal-abundance-agenda-in-new-research/
+    text: 'U.S. Senator Bernie Sanders speaking with attendees at a “Fight Oligarchy”
+      rally at Mullett Arena in Tempe, Arizona. Gage Skidmore from Surprise, AZ, United
+      States of America, CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Brad Reed / Common Dreams A new strategy memo written by a progressive
+      think tank and a pair of high-profile Democratic Party operatives makes the latest
+      case that a populist economic message will help the party more than a message
+      centered around the so-called “ abundance ” agenda, Politico reported on Thursday.
+      The memo—which was written by Democratic pollster Geoff Garin and Democratic strategist
+      Brian Fallon, in collaboration with Groundwork Collaborative—uses polling and
+      focus group data to argue that a sharp populist message is more effective at winning
+      back working-class voters than a message focused on cutting regulations in order
+      to build more housing and infrastructure. “While there are elements of the Abundance
+      agenda that have appeal, and the choice on which messages to deliver is not zero-sum,
+      a populist economic approach better solves for Democrats’ challenges with working-class
+      voters,” the memo states. “If candidates are asking which focus deserves topmost
+      billing in Democrats’ campaign messaging, the answer is clear: Though some voters
+      believe excessive bureaucracy can be a problem, it ranks far behind other concerns
+      and tackling it does not strike voters as a direct response to the problem of
+      affordability.” The memo went on to argue that “majorities of Democrats and independents
+      and two in five Republicans believe the outsized power of billionaires and corporations
+      in our government is a bigger problem than red tape and bureaucracy.” In a head-to-head
+      messaging test, voters told researchers that government giving preference to large
+      corporations and billionaires was a bigger problem than government bureaucracy
+      causing inefficiencies by a nearly two-to-one ratio. By roughly the same ratio,
+      the researchers found, voters preferred cracking down on price-gouging corporations
+      to cutting bureaucratic red tape. The researchers did credit abundance-centric
+      messaging with generating “some fresh ideas that challenge the status quo,” but
+      warned that “there are significant questions about whether a focus on it in political
+      messaging adequately meets the moment Democrats face today. The memo is set to
+      be presented to Democrats on Capitol Hill next week, and Politico noted that it
+      has the support of Rep. Chris Deluzio (D-Pa.), who represents a competitive congressional
+      district and who in the past has embraced populist messaging. The “abundance”
+      movement got its name after a book released earlier this year by journalists Ezra
+      Klein and Derek Thompson, who both argued that Democratic-led state governments
+      have put up too many bureaucratic roadblocks to achieve ambitious goals such as
+      affordable housing and high-speed rail. Some critics of the book, however, argue
+      that it fails to address issues such as corporate power and wealth inequality
+      as the real roadblocks to progressive change. As Common Dreams reported last week,
+      a recent analysis by Revolving Door Project and Open Markets Institute detailed
+      how the abundance movement “erroneously” claims that environmental reviews hinder
+      clean energy progress while having little to say about “the real causes of delay,”
+      including interference by fossil fuel-backed politicians and profit-driven privately-owned
+      utilities. The memo’s release comes just as an “Abundance” conference is set to
+      kick off in Washington, DC on Thursday that will include Klein and Thompson as
+      featured speakers, as well as Republican Utah Gov. Spencer Cox. Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Brad Reed Brad
+      Reed is a staff writer for Common Dreams. Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: A new strategy memo from a progressive think tank and Democratic
+      operatives suggests that the Democratic Party should focus on a populist economic
+      message rather than an "abundance" agenda to better resonate with voters.
+    paragraph_summary: A new strategy memo from a progressive think tank and Democratic
+      operatives suggests that the Democratic Party should adopt a populist economic
+      message rather than focus on an "abundance" agenda centered on reducing regulations
+      for housing and infrastructure development. Written by pollster Geoff Garin and
+      strategist Brian Fallon, the memo highlights polling data indicating that a populist
+      approach is more effective in appealing to working-class voters. It emphasizes
+      that concerns about the influence of billionaires and corporations in government
+      resonate more with voters than issues related to bureaucracy. The memo concludes
+      that prioritizing a populist message could better address the challenges Democrats
+      face in winning back support from these voters.
+    published: '2025-09-05T09:28:00+00:00'
+  - title: UK Police Raids Home of Palestine Action Supporters
+    url: https://scheerpost.com/2025/09/05/uk-police-raids-home-of-palestine-action-supporters/
+    text: 'Freedom for Palestine Protest, Portsmouth. Tim Sheerman-Chase, CC BY 2.0
+      https://creativecommons.org/licenses/by/2.0 , via Wikimedia Commons In one of
+      the scariest moments in modern history, we''re doing our best at ScheerPost to
+      pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By The Cradle Counterterrorism
+      police in the UK arrested five members of Defend Our Juries (DOJ) in dawn raids
+      on 2 September, just hours before the group was due to announce details of a mass
+      protest in London. The press conference, which had been set to confirm that the
+      threshold for Saturday’s action had been met, was postponed until Wednesday after
+      UK police raided the homes of the five DOJ spokespeople, including former government
+      lawyer Tim Crosland and law student Paddy Friend. DOJ said those detained were
+      “key spokespeople,” including former government lawyer Tim Crosland and law student
+      Paddy Friend. Witnesses reported that Friend was arrested under section 12 of
+      the Terrorism Act 2000 for hosting a Zoom call with campaign members. A DOJ spokesperson
+      described the arrests as “scandalous” and an “unprecedented assault on free speech,”
+      accusing counterterrorism police of targeting individuals perceived as organisers.
+      “No one has been arrested for joining the Zoom calls – only the hosts – and we
+      will be holding another Zoom call tonight ahead of our action on Saturday,” the
+      spokesperson added. Amnesty International condemned the home raids as “incredibly
+      concerning” and a violation of international law. Kerry Moscogiuri, director of
+      campaigns at Amnesty International UK, said the group’s peaceful protests were
+      protected by human rights conventions, warning that participants face prison terms
+      of up to 14 years. Despite the arrests, DOJ confirmed that Saturday’s mass action
+      will proceed, with expectations of up to 1,500 participants. The group has urged
+      protesters to refuse compliance with the police “street bail system” used during
+      an earlier action on 9 August, arguing that authorities cannot process 1,000 non-compliant
+      detainees in a single day. Unlike the August protest, which was limited to one
+      hour, the DOJ said the upcoming action will continue “indefinitely.” Authorities
+      have charged 114 people under terrorism offences linked to Palestine Action since
+      the UK government proscribed the group on 4 July. At least 500 people, most of
+      them over the age of 60, were arrested at the DOJ Parliament Square protest on
+      9 August. The blacklisting of Palestine Action places the group on the same legal
+      footing as Al-Qaeda and ISIS, making it a criminal offence to show support or
+      invite support for the campaign. Across Europe, governments have escalated restrictions
+      on Palestinian solidarity. In Germany, authorities have banned Palestinian gatherings
+      and carried out violent crackdowns on demonstrations. In Berlin alone, around
+      600 people were arrested within 10 days after 7 October 2023. Police tactics included
+      mass detentions, the use of force, and the confiscation of Palestinian symbols,
+      with even the kufiyye treated as grounds for arrest. This is what Germany does
+      to its own citizens when they peacefully protest against Israel''s Gaza genocide,
+      while Germany simultaneously lectures the rest of the world about human rights
+      and the rule of law. Perhaps I am naive, but I still believe a better Germany
+      is possible. pic.twitter.com/I5hrxHoR4p — Trita Parsi (@tparsi) August 28, 2025
+      France attempted blanket bans, later overturned in court, while Italy’s police
+      assaults on students drew condemnation. Riot police in the Netherlands demolished
+      student encampments, while Switzerland, Sweden, Denmark, and Belgium moved to
+      forcibly disperse protests. Spain remains a rare exception, allowing large marches
+      with limited interference. Scenes from the daily pro-Palestine protest in Brussels,
+      Belgium pic.twitter.com/QkDDFtFqcI — PALESTINE ONLINE (@OnlinePalEng) September
+      2, 2025 Despite systemic crackdowns and growing risks to protesters, demonstrations
+      of solidarity and resistance across Europe remain active and continue to draw
+      large numbers. Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . The Cradle The Cradle is an online news magazine covering
+      West Asian geopolitics from within. Author Site Please share this story and help
+      us grow our network!'
+    one_sentence_summary: UK counterterrorism police arrested five members of the Defend
+      Our Juries group just hours before they were set to announce a mass protest in
+      London, leading to the postponement of their press conference.
+    paragraph_summary: Counterterrorism police in the UK arrested five members of the
+      group Defend Our Juries (DOJ) on September 2, just hours before they were set
+      to announce a mass protest in London. Among those detained were key spokespeople,
+      including former government lawyer Tim Crosland and law student Paddy Friend,
+      the latter arrested under the Terrorism Act for hosting a Zoom call. DOJ condemned
+      the arrests as an attack on free speech, asserting that only hosts of the calls
+      were targeted, while Amnesty International criticized the raids as a violation
+      of international law and a threat to the right to peaceful assembly. Despite the
+      arrests, DOJ plans to proceed with the protest, expecting around 1,500 participants,
+      and has encouraged attendees to resist police compliance.
+    published: '2025-09-05T09:15:00+00:00'
+  - title: UK Police Raids Home of Palestine Action Supporters
+    url: https://scheerpost.com/2025/09/05/uk-police-raids-home-of-palestine-action-supporters/
+    text: 'Freedom for Palestine Protest, Portsmouth. Tim Sheerman-Chase, CC BY 2.0
+      https://creativecommons.org/licenses/by/2.0 , via Wikimedia Commons In one of
+      the scariest moments in modern history, we''re doing our best at ScheerPost to
+      pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By The Cradle Counterterrorism
+      police in the UK arrested five members of Defend Our Juries (DOJ) in dawn raids
+      on 2 September, just hours before the group was due to announce details of a mass
+      protest in London. The press conference, which had been set to confirm that the
+      threshold for Saturday’s action had been met, was postponed until Wednesday after
+      UK police raided the homes of the five DOJ spokespeople, including former government
+      lawyer Tim Crosland and law student Paddy Friend. DOJ said those detained were
+      “key spokespeople,” including former government lawyer Tim Crosland and law student
+      Paddy Friend. Witnesses reported that Friend was arrested under section 12 of
+      the Terrorism Act 2000 for hosting a Zoom call with campaign members. A DOJ spokesperson
+      described the arrests as “scandalous” and an “unprecedented assault on free speech,”
+      accusing counterterrorism police of targeting individuals perceived as organisers.
+      “No one has been arrested for joining the Zoom calls – only the hosts – and we
+      will be holding another Zoom call tonight ahead of our action on Saturday,” the
+      spokesperson added. Amnesty International condemned the home raids as “incredibly
+      concerning” and a violation of international law. Kerry Moscogiuri, director of
+      campaigns at Amnesty International UK, said the group’s peaceful protests were
+      protected by human rights conventions, warning that participants face prison terms
+      of up to 14 years. Despite the arrests, DOJ confirmed that Saturday’s mass action
+      will proceed, with expectations of up to 1,500 participants. The group has urged
+      protesters to refuse compliance with the police “street bail system” used during
+      an earlier action on 9 August, arguing that authorities cannot process 1,000 non-compliant
+      detainees in a single day. Unlike the August protest, which was limited to one
+      hour, the DOJ said the upcoming action will continue “indefinitely.” Authorities
+      have charged 114 people under terrorism offences linked to Palestine Action since
+      the UK government proscribed the group on 4 July. At least 500 people, most of
+      them over the age of 60, were arrested at the DOJ Parliament Square protest on
+      9 August. The blacklisting of Palestine Action places the group on the same legal
+      footing as Al-Qaeda and ISIS, making it a criminal offence to show support or
+      invite support for the campaign. Across Europe, governments have escalated restrictions
+      on Palestinian solidarity. In Germany, authorities have banned Palestinian gatherings
+      and carried out violent crackdowns on demonstrations. In Berlin alone, around
+      600 people were arrested within 10 days after 7 October 2023. Police tactics included
+      mass detentions, the use of force, and the confiscation of Palestinian symbols,
+      with even the kufiyye treated as grounds for arrest. This is what Germany does
+      to its own citizens when they peacefully protest against Israel''s Gaza genocide,
+      while Germany simultaneously lectures the rest of the world about human rights
+      and the rule of law. Perhaps I am naive, but I still believe a better Germany
+      is possible. pic.twitter.com/I5hrxHoR4p — Trita Parsi (@tparsi) August 28, 2025
+      France attempted blanket bans, later overturned in court, while Italy’s police
+      assaults on students drew condemnation. Riot police in the Netherlands demolished
+      student encampments, while Switzerland, Sweden, Denmark, and Belgium moved to
+      forcibly disperse protests. Spain remains a rare exception, allowing large marches
+      with limited interference. Scenes from the daily pro-Palestine protest in Brussels,
+      Belgium pic.twitter.com/QkDDFtFqcI — PALESTINE ONLINE (@OnlinePalEng) September
+      2, 2025 Despite systemic crackdowns and growing risks to protesters, demonstrations
+      of solidarity and resistance across Europe remain active and continue to draw
+      large numbers. Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . The Cradle The Cradle is an online news magazine covering
+      West Asian geopolitics from within. Author Site Please share this story and help
+      us grow our network!'
+    one_sentence_summary: UK counterterrorism police arrested five members of the Defend
+      Our Juries group just hours before they were set to announce a mass protest in
+      London, leading to the postponement of their press conference.
+    paragraph_summary: Counterterrorism police in the UK arrested five members of the
+      group Defend Our Juries (DOJ) on September 2, just hours before they were set
+      to announce a mass protest in London. Among those detained were key spokespeople,
+      including former government lawyer Tim Crosland and law student Paddy Friend,
+      the latter arrested under the Terrorism Act for hosting a Zoom call. DOJ condemned
+      the arrests as an attack on free speech, asserting that only hosts of the calls
+      were targeted, while Amnesty International criticized the raids as a violation
+      of international law and a threat to the right to peaceful assembly. Despite the
+      arrests, DOJ plans to proceed with the protest, expecting around 1,500 participants,
+      and has encouraged attendees to resist police compliance.
+    published: '2025-09-05T09:15:00+00:00'
+  - title: Google Under Fire for $45M Deal With Netanyahu’s Office To Spread Gaza Genocide
+      Propaganda
+    url: https://scheerpost.com/2025/09/05/google-under-fire-for-45m-deal-with-netanyahus-office-to-spread-gaza-genocide-propaganda/
+    text: 'Google homepage. Solen Feyissa, CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Middle East Monitor Google signed a $45 million contract with the
+      Israeli prime minister’s office to run a global digital advertising campaign promoting
+      Israeli state messaging during its ongoing genocide in Gaza. The contract, first
+      reported by Drop Site News , includes advertisements placed on YouTube and through
+      Google’s Display & Video 360 platform, explicitly described in government documents
+      as part of Israel’s propaganda war. Signed in June 2025, the contract with Google—covering
+      YouTube and Display & Video 360, the company’s digital ad service—authorised an
+      extensive propaganda campaign labelled explicitly as hasbara, a Hebrew term denoting
+      state-backed propaganda, often deployed to whitewash Israeli military actions.
+      The campaign was launched as international condemnation grew over Israel’s decision
+      to cut off all food, fuel and humanitarian supplies to Gaza on 2 March, triggering
+      what UN agencies describe as a man-made famine. One of the most widely viewed
+      outputs of the campaign was a YouTube video by Israel’s foreign ministry, falsely
+      claiming, “There is food in Gaza. Any other claim is a lie.” The ad was viewed
+      over 6 million times, heavily boosted through paid promotion under the government
+      contract. According to internal Israeli records, the initiative was coordinated
+      through the Israeli Government Advertising Agency (Lapam), a department reporting
+      directly to Prime Minister Benjamin Netanyahu’s office. As part of the broader
+      campaign, Israel also spent: $3 million on advertising with X (formerly Twitter)
+      $2.1 million with French-Israeli platform Outbrain/Teads An undisclosed amount
+      promoting Israeli-aligned content across Meta’s platforms Other ads published
+      under the contract targeted international institutions and NGOs. Several attempted
+      to delegitimise United Nations Relief and Works Agency, accusing the UN’s Palestinian
+      refugee agency of “deliberate sabotage” of aid delivery. Others aimed to smear
+      pro-Palestine legal advocacy groups such as the Hind Rajab Foundation , portraying
+      them as linked to “extremist ideologies”—an allegation unsupported by credible
+      evidence. Meanwhile, UN agencies have sounded the alarm about famine conditions
+      throughout Gaza. The Integrated Food Security Phase Classification (IPC) declared
+      a famine in northern Gaza in August, warning it would soon spread to other regions.
+      As of this month, at least 367 Palestinians, including 131 children, have died
+      of hunger and malnutrition, according to Gaza’s health ministry. Despite this,
+      Google continued to run Israeli state ads denying the existence of hunger. In
+      a March 2025 hearing in the Knesset, senior Israeli officials were pressed not
+      on humanitarian grounds, but on their preparedness to manage the PR fallout. “We
+      could also decide to launch a digital campaign… to explain that there is no hunger,”
+      Avichai Edrei, a spokesperson for the Israel Defence Forces is reported saying.
+      A separate campaign targeted critics of Israeli military operations in Iran, following
+      Israel’s 12-day aerial bombardment campaign known as Operation Rising Lion , which
+      killed at least 436 Iranian civilians. Documents show that the Netanyahu government’s
+      hasbara campaign was designed to promote the strikes as necessary for the security
+      of “Israel and the West”, with digital content placed across Google and X platforms.
+      Human rights groups, fact-checkers and UN officials have expressed alarm at the
+      growing role of US tech companies in amplifying genocide denial and disinformation.
+      In June, UN Special Rapporteur Francesca Albanese directly accused Google of profiting
+      from the Gaza genocide. According to internal leaks, Google co-founder Sergey
+      Brin responded on an employee forum by calling the UN “a transparently antisemitic
+      organisation.” Google is already under scrutiny for its role in Project Nimbus,
+      a cloud computing partnership with Amazon providing infrastructure to the Israeli
+      government, including the military. Critics say the firm’s deepening entanglement
+      with Israel’s war apparatus underscores the complicity of Silicon Valley in sustaining
+      and legitimising state violence. Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Middle East Monitor The use or misuse
+      of information is central to the conflict in the Middle East. There has been a
+      growing need for supporters of, in particular, the Palestinian cause, to master
+      the art of information gathering, analysis and dissemination. This requires well
+      organised, focused and targeted operations. Such initiatives are virtually non-existent
+      in the West today. The Middle East Monitor (MEMO) was established to fill this
+      gap. While there are several outstanding media monitoring networks online, their
+      main activity is invariably confined to exposing the flaws in existing coverages.
+      We go one step further; reaching out to opinion-makers and decision-makers in
+      a deliberate, organised and sustained manner. Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: Google has entered into a $45 million contract with the Israeli
+      prime minister's office to manage a global digital advertising campaign promoting
+      Israeli state messaging during the ongoing conflict in Gaza, as part of a propaganda
+      effort known as hasbara.
+    paragraph_summary: Google has entered into a controversial $45 million contract
+      with the Israeli prime minister’s office to conduct a global digital advertising
+      campaign aimed at promoting Israeli state messaging amid the ongoing conflict
+      in Gaza. This contract, reported to cover platforms like YouTube and Google’s
+      Display & Video 360, was signed in June 2025 and is explicitly labeled as hasbara,
+      a term for state-sponsored propaganda. The campaign was initiated as international
+      criticism mounted over Israel's blockade of Gaza, which has led to severe humanitarian
+      crises. One notable output from this campaign was a YouTube video by Israel’s
+      foreign ministry, which falsely claimed there was food available in Gaza, garnering
+      over 6 million views through paid promotion. The initiative was coordinated by
+      the Israeli Government Advertising Agency, directly under Prime Minister Benjamin
+      Netanyahu's office, and included additional spending on platforms like X (formerly
+      Twitter) and Outbrain/Teads.
+    published: '2025-09-05T09:10:00+00:00'
+  - title: Google Under Fire for $45M Deal With Netanyahu’s Office To Spread Gaza Genocide
+      Propaganda
+    url: https://scheerpost.com/2025/09/05/google-under-fire-for-45m-deal-with-netanyahus-office-to-spread-gaza-genocide-propaganda/
+    text: 'Google homepage. Solen Feyissa, CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Middle East Monitor Google signed a $45 million contract with the
+      Israeli prime minister’s office to run a global digital advertising campaign promoting
+      Israeli state messaging during its ongoing genocide in Gaza. The contract, first
+      reported by Drop Site News , includes advertisements placed on YouTube and through
+      Google’s Display & Video 360 platform, explicitly described in government documents
+      as part of Israel’s propaganda war. Signed in June 2025, the contract with Google—covering
+      YouTube and Display & Video 360, the company’s digital ad service—authorised an
+      extensive propaganda campaign labelled explicitly as hasbara, a Hebrew term denoting
+      state-backed propaganda, often deployed to whitewash Israeli military actions.
+      The campaign was launched as international condemnation grew over Israel’s decision
+      to cut off all food, fuel and humanitarian supplies to Gaza on 2 March, triggering
+      what UN agencies describe as a man-made famine. One of the most widely viewed
+      outputs of the campaign was a YouTube video by Israel’s foreign ministry, falsely
+      claiming, “There is food in Gaza. Any other claim is a lie.” The ad was viewed
+      over 6 million times, heavily boosted through paid promotion under the government
+      contract. According to internal Israeli records, the initiative was coordinated
+      through the Israeli Government Advertising Agency (Lapam), a department reporting
+      directly to Prime Minister Benjamin Netanyahu’s office. As part of the broader
+      campaign, Israel also spent: $3 million on advertising with X (formerly Twitter)
+      $2.1 million with French-Israeli platform Outbrain/Teads An undisclosed amount
+      promoting Israeli-aligned content across Meta’s platforms Other ads published
+      under the contract targeted international institutions and NGOs. Several attempted
+      to delegitimise United Nations Relief and Works Agency, accusing the UN’s Palestinian
+      refugee agency of “deliberate sabotage” of aid delivery. Others aimed to smear
+      pro-Palestine legal advocacy groups such as the Hind Rajab Foundation , portraying
+      them as linked to “extremist ideologies”—an allegation unsupported by credible
+      evidence. Meanwhile, UN agencies have sounded the alarm about famine conditions
+      throughout Gaza. The Integrated Food Security Phase Classification (IPC) declared
+      a famine in northern Gaza in August, warning it would soon spread to other regions.
+      As of this month, at least 367 Palestinians, including 131 children, have died
+      of hunger and malnutrition, according to Gaza’s health ministry. Despite this,
+      Google continued to run Israeli state ads denying the existence of hunger. In
+      a March 2025 hearing in the Knesset, senior Israeli officials were pressed not
+      on humanitarian grounds, but on their preparedness to manage the PR fallout. “We
+      could also decide to launch a digital campaign… to explain that there is no hunger,”
+      Avichai Edrei, a spokesperson for the Israel Defence Forces is reported saying.
+      A separate campaign targeted critics of Israeli military operations in Iran, following
+      Israel’s 12-day aerial bombardment campaign known as Operation Rising Lion , which
+      killed at least 436 Iranian civilians. Documents show that the Netanyahu government’s
+      hasbara campaign was designed to promote the strikes as necessary for the security
+      of “Israel and the West”, with digital content placed across Google and X platforms.
+      Human rights groups, fact-checkers and UN officials have expressed alarm at the
+      growing role of US tech companies in amplifying genocide denial and disinformation.
+      In June, UN Special Rapporteur Francesca Albanese directly accused Google of profiting
+      from the Gaza genocide. According to internal leaks, Google co-founder Sergey
+      Brin responded on an employee forum by calling the UN “a transparently antisemitic
+      organisation.” Google is already under scrutiny for its role in Project Nimbus,
+      a cloud computing partnership with Amazon providing infrastructure to the Israeli
+      government, including the military. Critics say the firm’s deepening entanglement
+      with Israel’s war apparatus underscores the complicity of Silicon Valley in sustaining
+      and legitimising state violence. Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Middle East Monitor The use or misuse
+      of information is central to the conflict in the Middle East. There has been a
+      growing need for supporters of, in particular, the Palestinian cause, to master
+      the art of information gathering, analysis and dissemination. This requires well
+      organised, focused and targeted operations. Such initiatives are virtually non-existent
+      in the West today. The Middle East Monitor (MEMO) was established to fill this
+      gap. While there are several outstanding media monitoring networks online, their
+      main activity is invariably confined to exposing the flaws in existing coverages.
+      We go one step further; reaching out to opinion-makers and decision-makers in
+      a deliberate, organised and sustained manner. Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: Google has entered into a $45 million contract with the Israeli
+      prime minister's office to manage a global digital advertising campaign promoting
+      Israeli state messaging during the ongoing conflict in Gaza, as part of a propaganda
+      effort known as hasbara.
+    paragraph_summary: Google has entered into a controversial $45 million contract
+      with the Israeli prime minister’s office to conduct a global digital advertising
+      campaign aimed at promoting Israeli state messaging amid the ongoing conflict
+      in Gaza. This contract, reported to cover platforms like YouTube and Google’s
+      Display & Video 360, was signed in June 2025 and is explicitly labeled as hasbara,
+      a term for state-sponsored propaganda. The campaign was initiated as international
+      criticism mounted over Israel's blockade of Gaza, which has led to severe humanitarian
+      crises. One notable output from this campaign was a YouTube video by Israel’s
+      foreign ministry, which falsely claimed there was food available in Gaza, garnering
+      over 6 million views through paid promotion. The initiative was coordinated by
+      the Israeli Government Advertising Agency, directly under Prime Minister Benjamin
+      Netanyahu's office, and included additional spending on platforms like X (formerly
+      Twitter) and Outbrain/Teads.
+    published: '2025-09-05T09:10:00+00:00'
+  - title: Federal Judge Said Trump Can’t Be National Police Chief. Will His Word Be
+      Final?
+    url: https://scheerpost.com/2025/09/05/federal-judge-said-trump-cant-be-national-police-chief-will-his-word-be-final/
+    text: 'President Donald Trump visits law enforcement and members of the National
+      Guard at the U. S. Park Police Anacostia Operations Facility, Thursday, August
+      21, 2025, in Washington, D.C. (Official White House Photo by Daniel Torok) In
+      one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Marjorie Cohn / Truthout
+      Donald Trump appears fixated on “creating a national police force with the President
+      as its chief,” U.S. District Judge Charles Breyer wrote, holding that Trump’s
+      deployment of federal troops to Los Angeles to enforce the immigration laws was
+      illegal. Trump has already sent troops to Washington, D.C., and has also set his
+      sights on Oakland, San Francisco, Chicago, and Baltimore. Trump will appeal the
+      ruling. The appellate courts will determine whether he will be allowed to use
+      the military as his personal police force, notwithstanding the clear command of
+      the Posse Comitatus Act. In his 52-page decision , Breyer ruled that defendants
+      Trump, Defense Secretary Pete Hegseth, and the Department of Defense “willfully”
+      violated the Posse Comitatus Act, a 1878 law that prohibits the use of the military
+      to enforce domestic laws. The act now forbids the willful use of “any part of
+      the Army, the Navy, the Marine Corps, the Air Force, or the Space Force as a posse
+      comitatus [power of the county] or otherwise to execute the laws.” It only allows
+      exceptions that are expressly authorized by the Constitution or act of Congress,
+      such as the Insurrection Act , which Trump did not invoke. Breyer concluded that,
+      “at Defendants’ orders and contrary to Congress’s explicit instruction, federal
+      troops executed the laws” in and around Los Angeles. “Defendants systematically
+      used armed soldiers (whose identity was often obscured by protective armor) and
+      military vehicles to set up protective perimeters and traffic blockades, engage
+      in crowd control, and otherwise demonstrate a military presence.” On June 7, without
+      the consent of California Gov. Gavin Newsom, Trump issued an edict under 10 U.S.C.
+      section 12406 to activate National Guard units for “the enforcement of Federal
+      law and to protect Federal property, at locations where protests against these
+      functions are occurring or are likely to occur based on current threat assessments
+      and planned operations.” In his edict, Trump also wrote that “To the extent that
+      protests or acts of violence directly inhibit the execution of the laws, they
+      constitute a form of rebellion against the authority of the Government of the
+      United States.” Not limiting his order to California, Trump deployed 2,000 National
+      Guard troops to Los Angeles for 60 days at the discretion of Defense Secretary
+      Pete Hegseth. That number was later increased to 4,000 and the defendants also
+      mobilized 700 Marines to deploy to Los Angeles. Three months later, 300 members
+      of the National Guard remain stationed in L.A. “There were indeed protests in
+      Los Angeles, and some individuals engaged in violence,” Breyer noted. “Yet there
+      was no rebellion, nor was civilian law enforcement unable to respond to the protests
+      and enforce the law.” Newsom and the State of California filed this case on June
+      9, and Breyer then found that Trump, Hegseth, and the Department of Defense illegally
+      deployed federal troops to L.A. The Ninth Circuit Court of Appeals overruled Breyer
+      and held that the defendants had properly mobilized the troops under 10 U.S.C.
+      section 12406 , But the appellate court didn’t weigh in on the plaintiffs’ assertion
+      that defendants violated the Posse Comitatus Act. Facts Adduced at Trial Breyer
+      presided over a trial from August 11 to August 13 that dealt with the merits of
+      the plaintiffs’ Posse Comitatus claim. It was established at trial that in early
+      June 2025, “ICE targeted ‘several locations in downtown LA and its immediate surroundings’
+      that are ‘known to have significant migrant populations and labour-intensive industries’
+      … Public protests quickly followed.” Breyer wrote that the L.A. Police Department
+      and the L.A. County Sheriff’s Department “responded to these protests and maintained
+      control of the situation.” Nevertheless, the defendants deployed military forces
+      to L.A. and they were put under the control of Task Force 51, which received training
+      on the permissible scope of their activities under the Posse Comitatus Act. Their
+      training materials said that “active-duty military personnel may not provide ‘direct,
+      active assistance to civilian law enforcement authorities by performing law enforcement
+      functions,’ unless a Constitutional or an Act of Congress exception specifically
+      permits it.” Task Force 51 was given a list of “Prohibited Law Enforcement Functions,”
+      which included “active, direct”: (1) Pursuit, (2) Arrests, (3) Apprehension, (4)
+      Search, (5) Seizure, (6) Security patrols, (7) Traffic control, (8) Riot control,
+      (9) Crowd Control, (10) Evidence collection, (11) Interrogation, and (12) Acting
+      as Informants. But Task Force 51 troops were orally instructed that 4 of 12 listed
+      functions that were highlighted in red — security patrols, traffic control, crowd
+      control, and riot control — “were subject to a so-called constitutional exception
+      to the Posse Comitatus Act,” Breyer noted. Moreover, the Defense Department instructed
+      the Northern Command and Task Force 51 “that the President and Secretary’s June
+      7 memoranda created a constitutional exception to the Posse Comitatus Act and
+      thereby authorized Task Force 51 to engage in the four functions listed in red,”
+      Breyer added. Task Force 51 troops and some Immigration and Customs Enforcement
+      (ICE) agents wore camouflage uniforms, which made it difficult to differentiate
+      them at a distance. Task Force 51 troops carried weapons with live ammunition.
+      “The presence of Task Force 51 deterred engagement by the public, especially by
+      those who might have attempted to hinder or protest an arrest by ICE agents,”
+      Breyer noted. Breyer Rejects Trump’s Invention of a “Constitutional Exception”
+      to Posse Comitatus The defendants argued that there is a “constitutional exception”
+      to the Posse Comitatus Act, which gives the president inherent constitutional
+      authority to protect federal property, personnel, and functions. “Under this ‘constitutional
+      exception,’ as Defendants call it, the President has inherent constitutional authority
+      to protect federal property, federal personnel, and federal functions, so any
+      actions that can be construed as such ‘protection’ are lawful in spite of the
+      Posse Comitatus Act,” Breyer wrote. “This assertion is not grounded in the history
+      of the Act, Supreme Court jurisprudence on executive authority, or common sense.”
+      The judge cited the defendants’ knowing contradiction of their own training manuals
+      and their refusal to coordinate with state and local officials. Breyer noted that
+      Trump, Hegseth, and the Department of Defense “‘coach[ed]’ federal law enforcement
+      agencies as to what language to use when submitting requests for assistance in
+      an attempt to circumvent the Act … These actions demonstrate that Defendants knew
+      that they were ordering troops to execute domestic law beyond their usual authority.
+      Whether they believed that some constitutional or other exception applied does
+      not matter; ‘ignorance of the law is no excuse.’” During the trial, Breyer was
+      incredulous at the defendants’ arguments. “Are you saying because the president
+      says it, therefore it is?,” the judge asked . “In other words, we’re going to
+      see federal officers everywhere if the president determines there’s some threat
+      to the safety of a federal agent.” Breyer Issues a Narrow Injunction Breyer issued
+      an injunction forbidding the defendants from using the National Guard troops currently
+      deployed to Los Angeles from enforcing the law. Defendants are not required to
+      withdraw the 300 National Guard troops from L.A. And they are not prevented from
+      using the troops for purposes consistent with the Posse Comitatus Act, such as
+      protecting federal property. Under Breyer’s order, Hegseth and the Department
+      of Defense are enjoined from: deploying, ordering, instructing, training, or using
+      the National Guard currently deployed in California, and any military troops heretofore
+      deployed in California, to execute the laws, including but not limited to engaging
+      in arrests, apprehensions, searches, seizures, security patrols, traffic control,
+      crowd control, riot control, evidence collection, interrogation, or acting as
+      informants, unless and until Defendants satisfy the requirements of a valid constitutional
+      or statutory exception, as defined herein, to the Posse Comitatus Act. This order
+      applies only to the defendants’ use of the National Guard in California, not nationally.
+      Breyer stayed his injunction until September 12, 2025, ostensibly to provide the
+      defendants an opportunity to appeal his ruling. True to form, Trump reacted to
+      the ruling by calling Breyer “a radical left judge.” California Attorney General
+      Rob Bonta, who filed the lawsuit, applauded Breyer’s decision. The ruling “affirms
+      that President Trump is not King, and the power of the executive is not boundless,”
+      Bonta said in a news release. He added: For more than two months, the President
+      has engaged in political theater, using National Guard troops and Marines as pawns
+      to further his anti-immigrant agenda. In doing so, he trampled on one of the very
+      basic foundations of our democracy: That our military be apolitical and the activities
+      of troops on U.S. soil be extremely limited to ensure civil liberties and protect
+      against military overreach. But in light of the Supreme Court’s 2024 decision
+      giving presidents monarchical powers, a ruling that reverses Breyer’s decision
+      would not be surprising. “The stakes are huge,” Eric J. Segall, a professor at
+      Georgia State University College of Law, told the Los Angeles Times. “If this
+      District Court decision is reversed by either the 9 th Circuit or the Supreme
+      Court or both … the Trump administration would go hog wild.” Trump, who is already
+      going hog wild on a near daily basis, could then militarize cities across the
+      country and terrorize us all. The legal tug-of-war on this front, however, is
+      far from over: Yesterday, the Attorney General of Washington, D.C., sued Trump,
+      Hegseth, the Department of Defense, the U.S. Army, the Secretary of the Army,
+      and the Justice Department, seeking an injunction for violation of the Posse Comitatus
+      Act. The lawsuit calls Trump’s deployment of the National Guard to the streets
+      of D.C. a “military occupation.” Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Marjorie Cohn Marjorie Cohn is professor
+      emerita at Thomas Jefferson School of Law, dean of the People’s Academy of International
+      Law, and past president of the National Lawyers Guild. She sits on the national
+      advisory boards of Veterans For Peace and Assange Defense, and is a member of
+      the bureau of the International Association of Democratic Lawyers and the U.S.
+      representative to the continental advisory council of the Association of American
+      Jurists. Her books include Drones and Targeted Killing: Legal, Moral and Geopolitical
+      Issues . Author SIte Please share this story and help us grow our network!'
+    one_sentence_summary: U.S. District Judge Charles Breyer ruled that Donald Trump's
+      deployment of federal troops to enforce immigration laws in Los Angeles was illegal,
+      as Trump seeks to establish a national police force under his control, prompting
+      an appeal that will be reviewed by appellate courts.
+    paragraph_summary: In a recent ruling, U.S. District Judge Charles Breyer determined
+      that President Donald Trump's deployment of federal troops to enforce immigration
+      laws in Los Angeles was illegal, as it violated the Posse Comitatus Act, which
+      prohibits military involvement in domestic law enforcement. The judge criticized
+      Trump, Defense Secretary Pete Hegseth, and the Department of Defense for willfully
+      disregarding this law, which only allows military intervention under specific
+      constitutional or congressional authorizations, none of which were invoked by
+      Trump. The ruling raises significant concerns about Trump's apparent intention
+      to establish a national police force under his control, as he has previously sent
+      troops to other cities like Washington, D.C., and plans to do so in places like
+      Oakland and Chicago. Trump is expected to appeal the decision, and the appellate
+      courts will ultimately decide the legality of his actions.
+    published: '2025-09-05T09:05:00+00:00'
+  - title: Federal Judge Said Trump Can’t Be National Police Chief. Will His Word Be
+      Final?
+    url: https://scheerpost.com/2025/09/05/federal-judge-said-trump-cant-be-national-police-chief-will-his-word-be-final/
+    text: 'President Donald Trump visits law enforcement and members of the National
+      Guard at the U. S. Park Police Anacostia Operations Facility, Thursday, August
+      21, 2025, in Washington, D.C. (Official White House Photo by Daniel Torok) In
+      one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Marjorie Cohn / Truthout
+      Donald Trump appears fixated on “creating a national police force with the President
+      as its chief,” U.S. District Judge Charles Breyer wrote, holding that Trump’s
+      deployment of federal troops to Los Angeles to enforce the immigration laws was
+      illegal. Trump has already sent troops to Washington, D.C., and has also set his
+      sights on Oakland, San Francisco, Chicago, and Baltimore. Trump will appeal the
+      ruling. The appellate courts will determine whether he will be allowed to use
+      the military as his personal police force, notwithstanding the clear command of
+      the Posse Comitatus Act. In his 52-page decision , Breyer ruled that defendants
+      Trump, Defense Secretary Pete Hegseth, and the Department of Defense “willfully”
+      violated the Posse Comitatus Act, a 1878 law that prohibits the use of the military
+      to enforce domestic laws. The act now forbids the willful use of “any part of
+      the Army, the Navy, the Marine Corps, the Air Force, or the Space Force as a posse
+      comitatus [power of the county] or otherwise to execute the laws.” It only allows
+      exceptions that are expressly authorized by the Constitution or act of Congress,
+      such as the Insurrection Act , which Trump did not invoke. Breyer concluded that,
+      “at Defendants’ orders and contrary to Congress’s explicit instruction, federal
+      troops executed the laws” in and around Los Angeles. “Defendants systematically
+      used armed soldiers (whose identity was often obscured by protective armor) and
+      military vehicles to set up protective perimeters and traffic blockades, engage
+      in crowd control, and otherwise demonstrate a military presence.” On June 7, without
+      the consent of California Gov. Gavin Newsom, Trump issued an edict under 10 U.S.C.
+      section 12406 to activate National Guard units for “the enforcement of Federal
+      law and to protect Federal property, at locations where protests against these
+      functions are occurring or are likely to occur based on current threat assessments
+      and planned operations.” In his edict, Trump also wrote that “To the extent that
+      protests or acts of violence directly inhibit the execution of the laws, they
+      constitute a form of rebellion against the authority of the Government of the
+      United States.” Not limiting his order to California, Trump deployed 2,000 National
+      Guard troops to Los Angeles for 60 days at the discretion of Defense Secretary
+      Pete Hegseth. That number was later increased to 4,000 and the defendants also
+      mobilized 700 Marines to deploy to Los Angeles. Three months later, 300 members
+      of the National Guard remain stationed in L.A. “There were indeed protests in
+      Los Angeles, and some individuals engaged in violence,” Breyer noted. “Yet there
+      was no rebellion, nor was civilian law enforcement unable to respond to the protests
+      and enforce the law.” Newsom and the State of California filed this case on June
+      9, and Breyer then found that Trump, Hegseth, and the Department of Defense illegally
+      deployed federal troops to L.A. The Ninth Circuit Court of Appeals overruled Breyer
+      and held that the defendants had properly mobilized the troops under 10 U.S.C.
+      section 12406 , But the appellate court didn’t weigh in on the plaintiffs’ assertion
+      that defendants violated the Posse Comitatus Act. Facts Adduced at Trial Breyer
+      presided over a trial from August 11 to August 13 that dealt with the merits of
+      the plaintiffs’ Posse Comitatus claim. It was established at trial that in early
+      June 2025, “ICE targeted ‘several locations in downtown LA and its immediate surroundings’
+      that are ‘known to have significant migrant populations and labour-intensive industries’
+      … Public protests quickly followed.” Breyer wrote that the L.A. Police Department
+      and the L.A. County Sheriff’s Department “responded to these protests and maintained
+      control of the situation.” Nevertheless, the defendants deployed military forces
+      to L.A. and they were put under the control of Task Force 51, which received training
+      on the permissible scope of their activities under the Posse Comitatus Act. Their
+      training materials said that “active-duty military personnel may not provide ‘direct,
+      active assistance to civilian law enforcement authorities by performing law enforcement
+      functions,’ unless a Constitutional or an Act of Congress exception specifically
+      permits it.” Task Force 51 was given a list of “Prohibited Law Enforcement Functions,”
+      which included “active, direct”: (1) Pursuit, (2) Arrests, (3) Apprehension, (4)
+      Search, (5) Seizure, (6) Security patrols, (7) Traffic control, (8) Riot control,
+      (9) Crowd Control, (10) Evidence collection, (11) Interrogation, and (12) Acting
+      as Informants. But Task Force 51 troops were orally instructed that 4 of 12 listed
+      functions that were highlighted in red — security patrols, traffic control, crowd
+      control, and riot control — “were subject to a so-called constitutional exception
+      to the Posse Comitatus Act,” Breyer noted. Moreover, the Defense Department instructed
+      the Northern Command and Task Force 51 “that the President and Secretary’s June
+      7 memoranda created a constitutional exception to the Posse Comitatus Act and
+      thereby authorized Task Force 51 to engage in the four functions listed in red,”
+      Breyer added. Task Force 51 troops and some Immigration and Customs Enforcement
+      (ICE) agents wore camouflage uniforms, which made it difficult to differentiate
+      them at a distance. Task Force 51 troops carried weapons with live ammunition.
+      “The presence of Task Force 51 deterred engagement by the public, especially by
+      those who might have attempted to hinder or protest an arrest by ICE agents,”
+      Breyer noted. Breyer Rejects Trump’s Invention of a “Constitutional Exception”
+      to Posse Comitatus The defendants argued that there is a “constitutional exception”
+      to the Posse Comitatus Act, which gives the president inherent constitutional
+      authority to protect federal property, personnel, and functions. “Under this ‘constitutional
+      exception,’ as Defendants call it, the President has inherent constitutional authority
+      to protect federal property, federal personnel, and federal functions, so any
+      actions that can be construed as such ‘protection’ are lawful in spite of the
+      Posse Comitatus Act,” Breyer wrote. “This assertion is not grounded in the history
+      of the Act, Supreme Court jurisprudence on executive authority, or common sense.”
+      The judge cited the defendants’ knowing contradiction of their own training manuals
+      and their refusal to coordinate with state and local officials. Breyer noted that
+      Trump, Hegseth, and the Department of Defense “‘coach[ed]’ federal law enforcement
+      agencies as to what language to use when submitting requests for assistance in
+      an attempt to circumvent the Act … These actions demonstrate that Defendants knew
+      that they were ordering troops to execute domestic law beyond their usual authority.
+      Whether they believed that some constitutional or other exception applied does
+      not matter; ‘ignorance of the law is no excuse.’” During the trial, Breyer was
+      incredulous at the defendants’ arguments. “Are you saying because the president
+      says it, therefore it is?,” the judge asked . “In other words, we’re going to
+      see federal officers everywhere if the president determines there’s some threat
+      to the safety of a federal agent.” Breyer Issues a Narrow Injunction Breyer issued
+      an injunction forbidding the defendants from using the National Guard troops currently
+      deployed to Los Angeles from enforcing the law. Defendants are not required to
+      withdraw the 300 National Guard troops from L.A. And they are not prevented from
+      using the troops for purposes consistent with the Posse Comitatus Act, such as
+      protecting federal property. Under Breyer’s order, Hegseth and the Department
+      of Defense are enjoined from: deploying, ordering, instructing, training, or using
+      the National Guard currently deployed in California, and any military troops heretofore
+      deployed in California, to execute the laws, including but not limited to engaging
+      in arrests, apprehensions, searches, seizures, security patrols, traffic control,
+      crowd control, riot control, evidence collection, interrogation, or acting as
+      informants, unless and until Defendants satisfy the requirements of a valid constitutional
+      or statutory exception, as defined herein, to the Posse Comitatus Act. This order
+      applies only to the defendants’ use of the National Guard in California, not nationally.
+      Breyer stayed his injunction until September 12, 2025, ostensibly to provide the
+      defendants an opportunity to appeal his ruling. True to form, Trump reacted to
+      the ruling by calling Breyer “a radical left judge.” California Attorney General
+      Rob Bonta, who filed the lawsuit, applauded Breyer’s decision. The ruling “affirms
+      that President Trump is not King, and the power of the executive is not boundless,”
+      Bonta said in a news release. He added: For more than two months, the President
+      has engaged in political theater, using National Guard troops and Marines as pawns
+      to further his anti-immigrant agenda. In doing so, he trampled on one of the very
+      basic foundations of our democracy: That our military be apolitical and the activities
+      of troops on U.S. soil be extremely limited to ensure civil liberties and protect
+      against military overreach. But in light of the Supreme Court’s 2024 decision
+      giving presidents monarchical powers, a ruling that reverses Breyer’s decision
+      would not be surprising. “The stakes are huge,” Eric J. Segall, a professor at
+      Georgia State University College of Law, told the Los Angeles Times. “If this
+      District Court decision is reversed by either the 9 th Circuit or the Supreme
+      Court or both … the Trump administration would go hog wild.” Trump, who is already
+      going hog wild on a near daily basis, could then militarize cities across the
+      country and terrorize us all. The legal tug-of-war on this front, however, is
+      far from over: Yesterday, the Attorney General of Washington, D.C., sued Trump,
+      Hegseth, the Department of Defense, the U.S. Army, the Secretary of the Army,
+      and the Justice Department, seeking an injunction for violation of the Posse Comitatus
+      Act. The lawsuit calls Trump’s deployment of the National Guard to the streets
+      of D.C. a “military occupation.” Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Marjorie Cohn Marjorie Cohn is professor
+      emerita at Thomas Jefferson School of Law, dean of the People’s Academy of International
+      Law, and past president of the National Lawyers Guild. She sits on the national
+      advisory boards of Veterans For Peace and Assange Defense, and is a member of
+      the bureau of the International Association of Democratic Lawyers and the U.S.
+      representative to the continental advisory council of the Association of American
+      Jurists. Her books include Drones and Targeted Killing: Legal, Moral and Geopolitical
+      Issues . Author SIte Please share this story and help us grow our network!'
+    one_sentence_summary: U.S. District Judge Charles Breyer ruled that Donald Trump's
+      deployment of federal troops to enforce immigration laws in Los Angeles was illegal,
+      as Trump seeks to establish a national police force under his control, prompting
+      an appeal that will be reviewed by appellate courts.
+    paragraph_summary: In a recent ruling, U.S. District Judge Charles Breyer determined
+      that President Donald Trump's deployment of federal troops to enforce immigration
+      laws in Los Angeles was illegal, as it violated the Posse Comitatus Act, which
+      prohibits military involvement in domestic law enforcement. The judge criticized
+      Trump, Defense Secretary Pete Hegseth, and the Department of Defense for willfully
+      disregarding this law, which only allows military intervention under specific
+      constitutional or congressional authorizations, none of which were invoked by
+      Trump. The ruling raises significant concerns about Trump's apparent intention
+      to establish a national police force under his control, as he has previously sent
+      troops to other cities like Washington, D.C., and plans to do so in places like
+      Oakland and Chicago. Trump is expected to appeal the decision, and the appellate
+      courts will ultimately decide the legality of his actions.
+    published: '2025-09-05T09:05:00+00:00'
+  - title: Hegseth Doesn’t Rule Out Regime Change in Venezuela, Suggests More US Strikes
+      on Boats Are Coming
+    url: https://scheerpost.com/2025/09/05/hegseth-doesnt-rule-out-regime-change-in-venezuela-suggests-more-us-strikes-on-boats-are-coming/
+    text: 'Secretary of Defense Pete Hegseth delivers remarks during a Congressional
+      Gold Medal ceremony honoring the 369th Infantry Regiment “Harlem Hellfighters”
+      of World War I at the U.S. Capitol, Washington, D.C., Sept. 3, 2025. (DoD photo
+      by U.S. Navy Petty Officer 2nd Class Aiko Bongolan) In one of the scariest moments
+      in modern history, we''re doing our best at ScheerPost to pierce the fog of lies
+      that conceal it but we need some help to pay our writers and staff. Please consider
+      a tax-deductible donation . By Dave DeCamp / Antiwar.com Secretary of Defense
+      Pete Hegseth on Wednesday didn’t rule out the possibility of the US military pursuing
+      regime change in Venezuela and suggested more US strikes on boats in the region
+      were coming. Hegseth made the comments in an interview on Fox News on Wednesday
+      morning, the day after the US bombed a boat in the Southern Caribbean that it
+      claimed without evidence was carrying drugs, marking the first US kinetic military
+      action in the name of combating drug trafficking, though the real purpose of the
+      attack may be part of a new push to oust Venezuelan President Nicolas Maduro.
+      “We have assets in the air, assets in the water, assets on ships because this
+      is a deadly serious mission for us, and it won’t stop … with just this strike,”
+      Hegseth said . “Anyone else trafficking in those waters who we know is a designated
+      narco-terrorist will face the same fate.” When asked if the goal was regime change
+      in Venezuela, Hegseth said that was a “presidential decision” and added that “we’re
+      prepared with every asset that the American military has.” Brandan P. Buck, a
+      historian and Foreign Policy Research Fellow at the Cato Institute, told Antiwar.com
+      that it was unlikely the Trump administration would have much success trying to
+      combat drug trafficking with military strikes. “The US military’s strike on an
+      alleged drug trafficking boat is a significant escalation in the long and failed
+      war on drugs. It is unclear if the administration’s goal of deterring drug trafficking
+      through lethal force will be achieved, but such a strike is unlikely to succeed
+      in this way,” Buck said. “As long as the United States remains a multi-billion-dollar
+      drug market, criminal organizations will continue to take risks for massive profits.
+      One strike on one drug-running boat is unlikely to change that calculus.” Buck
+      also noted that it was unclear what the administration’s real goal is. “The strike
+      also raises alarming questions about its true near- and long-term objectives.
+      It is plausible that the Trump Administration is using the strike as a trial balloon
+      for expanded military action against cartels throughout the region, or against
+      the Maduro regime in Venezuela,” he said. “Either would present troubling questions
+      about executive authority to authorize military action in a post-Global War on
+      Terror world and significantly raise the likelihood of plunging the US into another
+      prolonged war,” Buck added. The US has claimed that Maduro is the leader of the
+      Cartel of the Suns, a term used to describe a network of Venezuelan government
+      and military officials allegedly involved in drug trafficking, but it does not
+      actually exist as an organization . Despite the lack of a structured organization,
+      the US recently labeled the Cartel of the Suns as a terrorist group and increased
+      the bounty on Maduro’s head to $50 million over claims of “narco-terrorism.” Maduro
+      and other Latin American leaders have strongly denied the US claims. President
+      Trump claimed that the 11 people he said were killed in the bombing of the boat
+      on Tuesday were members of Tren de Aragua (TDA), a Venezuelan gang the US has
+      also labelled as terrorists. He also claimed that Maduro controls TDA, which is
+      disputed by his own intelligence agencies. The US has deployed at least nine warships
+      toward Venezuela, and some US officials have suggested in comments to Axios that
+      the operation could be “Noriega part 2,” referring to the 1989 US invasion of
+      Panama that led to the ouster of Manuel Noriega. Maduro has vowed to fight if
+      the US attacks, warning on Monday that he will declare a “republic in arms.” Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Dave DeCamp Dave
+      DeCamp is the news editor of Antiwar.com, follow him on Twitter @decampdave. Author
+      Site Please share this story and help us grow our network!'
+    one_sentence_summary: Secretary of Defense Pete Hegseth indicated the potential
+      for U.S. military intervention in Venezuela and announced forthcoming strikes
+      on boats in the region following a recent bombing of a vessel allegedly involved
+      in drug trafficking.
+    paragraph_summary: During a recent interview on Fox News, Secretary of Defense Pete
+      Hegseth indicated that the U.S. military might consider pursuing regime change
+      in Venezuela, following a U.S. airstrike on a boat in the Southern Caribbean that
+      was claimed to be involved in drug trafficking. This marked the first military
+      action taken under the guise of combating drug trafficking, although it is speculated
+      that the true intent may be to destabilize Venezuelan President Nicolas Maduro's
+      government. Hegseth emphasized the seriousness of the mission and the readiness
+      of U.S. military assets to continue operations against designated narco-terrorists
+      in the region. However, experts like Brandan P. Buck expressed skepticism about
+      the effectiveness of military strikes in addressing drug trafficking, suggesting
+      that such actions represent a significant escalation in the ongoing war on drugs.
+    published: '2025-09-05T09:00:00+00:00'
+  - title: Hegseth Doesn’t Rule Out Regime Change in Venezuela, Suggests More US Strikes
+      on Boats Are Coming
+    url: https://scheerpost.com/2025/09/05/hegseth-doesnt-rule-out-regime-change-in-venezuela-suggests-more-us-strikes-on-boats-are-coming/
+    text: 'Secretary of Defense Pete Hegseth delivers remarks during a Congressional
+      Gold Medal ceremony honoring the 369th Infantry Regiment “Harlem Hellfighters”
+      of World War I at the U.S. Capitol, Washington, D.C., Sept. 3, 2025. (DoD photo
+      by U.S. Navy Petty Officer 2nd Class Aiko Bongolan) In one of the scariest moments
+      in modern history, we''re doing our best at ScheerPost to pierce the fog of lies
+      that conceal it but we need some help to pay our writers and staff. Please consider
+      a tax-deductible donation . By Dave DeCamp / Antiwar.com Secretary of Defense
+      Pete Hegseth on Wednesday didn’t rule out the possibility of the US military pursuing
+      regime change in Venezuela and suggested more US strikes on boats in the region
+      were coming. Hegseth made the comments in an interview on Fox News on Wednesday
+      morning, the day after the US bombed a boat in the Southern Caribbean that it
+      claimed without evidence was carrying drugs, marking the first US kinetic military
+      action in the name of combating drug trafficking, though the real purpose of the
+      attack may be part of a new push to oust Venezuelan President Nicolas Maduro.
+      “We have assets in the air, assets in the water, assets on ships because this
+      is a deadly serious mission for us, and it won’t stop … with just this strike,”
+      Hegseth said . “Anyone else trafficking in those waters who we know is a designated
+      narco-terrorist will face the same fate.” When asked if the goal was regime change
+      in Venezuela, Hegseth said that was a “presidential decision” and added that “we’re
+      prepared with every asset that the American military has.” Brandan P. Buck, a
+      historian and Foreign Policy Research Fellow at the Cato Institute, told Antiwar.com
+      that it was unlikely the Trump administration would have much success trying to
+      combat drug trafficking with military strikes. “The US military’s strike on an
+      alleged drug trafficking boat is a significant escalation in the long and failed
+      war on drugs. It is unclear if the administration’s goal of deterring drug trafficking
+      through lethal force will be achieved, but such a strike is unlikely to succeed
+      in this way,” Buck said. “As long as the United States remains a multi-billion-dollar
+      drug market, criminal organizations will continue to take risks for massive profits.
+      One strike on one drug-running boat is unlikely to change that calculus.” Buck
+      also noted that it was unclear what the administration’s real goal is. “The strike
+      also raises alarming questions about its true near- and long-term objectives.
+      It is plausible that the Trump Administration is using the strike as a trial balloon
+      for expanded military action against cartels throughout the region, or against
+      the Maduro regime in Venezuela,” he said. “Either would present troubling questions
+      about executive authority to authorize military action in a post-Global War on
+      Terror world and significantly raise the likelihood of plunging the US into another
+      prolonged war,” Buck added. The US has claimed that Maduro is the leader of the
+      Cartel of the Suns, a term used to describe a network of Venezuelan government
+      and military officials allegedly involved in drug trafficking, but it does not
+      actually exist as an organization . Despite the lack of a structured organization,
+      the US recently labeled the Cartel of the Suns as a terrorist group and increased
+      the bounty on Maduro’s head to $50 million over claims of “narco-terrorism.” Maduro
+      and other Latin American leaders have strongly denied the US claims. President
+      Trump claimed that the 11 people he said were killed in the bombing of the boat
+      on Tuesday were members of Tren de Aragua (TDA), a Venezuelan gang the US has
+      also labelled as terrorists. He also claimed that Maduro controls TDA, which is
+      disputed by his own intelligence agencies. The US has deployed at least nine warships
+      toward Venezuela, and some US officials have suggested in comments to Axios that
+      the operation could be “Noriega part 2,” referring to the 1989 US invasion of
+      Panama that led to the ouster of Manuel Noriega. Maduro has vowed to fight if
+      the US attacks, warning on Monday that he will declare a “republic in arms.” Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Dave DeCamp Dave
+      DeCamp is the news editor of Antiwar.com, follow him on Twitter @decampdave. Author
+      Site Please share this story and help us grow our network!'
+    one_sentence_summary: Secretary of Defense Pete Hegseth indicated the potential
+      for U.S. military intervention in Venezuela and announced forthcoming strikes
+      on boats in the region following a recent bombing of a vessel allegedly involved
+      in drug trafficking.
+    paragraph_summary: During a recent interview on Fox News, Secretary of Defense Pete
+      Hegseth indicated that the U.S. military might consider pursuing regime change
+      in Venezuela, following a U.S. airstrike on a boat in the Southern Caribbean that
+      was claimed to be involved in drug trafficking. This marked the first military
+      action taken under the guise of combating drug trafficking, although it is speculated
+      that the true intent may be to destabilize Venezuelan President Nicolas Maduro's
+      government. Hegseth emphasized the seriousness of the mission and the readiness
+      of U.S. military assets to continue operations against designated narco-terrorists
+      in the region. However, experts like Brandan P. Buck expressed skepticism about
+      the effectiveness of military strikes in addressing drug trafficking, suggesting
+      that such actions represent a significant escalation in the ongoing war on drugs.
+    published: '2025-09-05T09:00:00+00:00'
+  - title: 'Full Interview with Gov. Gavin Newsom | The California Agenda: Sacramento
+      Summit'
+    url: https://scheerpost.com/2025/09/04/full-interview-with-gov-gavin-newsom-the-california-agenda-sacramento-summit/
+    text: 'By Politico California Governor Gavin Newsom sits down with POLITICO’s California
+      Editorial Director Chris Cadelago at POLITICO’s “The California Agenda: Sacramento
+      Summit.” In one of the scariest moments in modern history, we''re doing our best
+      at ScheerPost to pierce the fog of lies that conceal it but we need some help
+      to pay our writers and staff. Please consider a tax-deductible donation . Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Please share
+      this story and help us grow our network!'
+    one_sentence_summary: 'California Governor Gavin Newsom discusses key issues at
+      POLITICO''s "The California Agenda: Sacramento Summit," while ScheerPost calls
+      for support to sustain independent journalism amidst challenges posed by corporate
+      media.'
+    paragraph_summary: 'In a recent interview at POLITICO’s “The California Agenda:
+      Sacramento Summit,” California Governor Gavin Newsom discussed pressing issues
+      facing the state. The article emphasizes the importance of independent journalism,
+      particularly in light of the challenges posed by corporate influence and misinformation
+      in the media landscape. It highlights ScheerPost''s commitment to providing truthful
+      reporting and calls for financial support from readers to sustain its operations
+      and continue delivering vital news. The piece encourages donations through various
+      platforms to help maintain the integrity of independent journalism.'
+    published: '2025-09-04T17:43:09+00:00'
+  - title: 'Full Interview with Gov. Gavin Newsom | The California Agenda: Sacramento
+      Summit'
+    url: https://scheerpost.com/2025/09/04/full-interview-with-gov-gavin-newsom-the-california-agenda-sacramento-summit/
+    text: 'By Politico California Governor Gavin Newsom sits down with POLITICO’s California
+      Editorial Director Chris Cadelago at POLITICO’s “The California Agenda: Sacramento
+      Summit.” In one of the scariest moments in modern history, we''re doing our best
+      at ScheerPost to pierce the fog of lies that conceal it but we need some help
+      to pay our writers and staff. Please consider a tax-deductible donation . Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Please share
+      this story and help us grow our network!'
+    one_sentence_summary: 'California Governor Gavin Newsom discusses key issues at
+      POLITICO''s "The California Agenda: Sacramento Summit," while ScheerPost calls
+      for support to sustain independent journalism amidst challenges posed by corporate
+      media.'
+    paragraph_summary: 'In a recent interview at POLITICO’s “The California Agenda:
+      Sacramento Summit,” California Governor Gavin Newsom discussed pressing issues
+      facing the state. The article emphasizes the importance of independent journalism,
+      particularly in light of the challenges posed by corporate influence and misinformation
+      in the media landscape. It highlights ScheerPost''s commitment to providing truthful
+      reporting and calls for financial support from readers to sustain its operations
+      and continue delivering vital news. The piece encourages donations through various
+      platforms to help maintain the integrity of independent journalism.'
+    published: '2025-09-04T17:43:09+00:00'
+  - title: Experts Say Trump Administration’s Deadly Boat Attack Amounts to Extrajudicial
+      Killings
+    url: https://scheerpost.com/2025/09/04/experts-say-trump-administrations-deadly-boat-attack-amounts-to-extrajudicial-killings/
+    text: 'President Donald Trump delivers remarks to law enforcement and members of
+      the National Guard at the U.S. Park Police Anacostia Operations Facility, Thursday,
+      August 21, 2025, in Washington, D.C. (Official White House Photo by Daniel Torok)
+      In one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Elizabeth Weill-Greenberg
+      / Truthout Experts are condemning the U.S. military strike that killed 11 people
+      on a boat in the Caribbean on Tuesday, saying that the bombing was in violation
+      of international law. The Trump administration has claimed — without providing
+      evidence — that the casualties of the strike were members of Tren de Aragua, a
+      Venezuela-based gang that it has designated a foreign terrorist organization.
+      “Earlier this morning, on my Orders, U.S. Military Forces conducted a kinetic
+      strike against positively identified Tren de Aragua Narcoterrorists in the SOUTHCOM
+      area of responsibility,” Trump posted on his social media platform , Truth Social,
+      following the attack. “Please let this serve as notice to anybody even thinking
+      about bringing drugs into the United States of America. BEWARE!” The White House
+      posted an image on social media of Trump looking at a phone showing footage of
+      the boat being hit. “TERRORISTS ELIMINATED. ADIÓS,” the post says , with an emoji
+      of a person placing items in the trash. In another post , the White House said:
+      “ON VIDEO: U.S. Military Forces conducted a strike against Tren de Aragua Narcoterrorists.
+      The strike occurred while the terrorists were at sea in International waters transporting
+      illegal narcotics, heading to the U.S. The strike resulted in 11 terrorists killed
+      in action.” The Trump administration has circulated a brief black and white video
+      that it says shows the fatal strike. AP reports that the White House “did not
+      immediately explain how the military determined that those aboard the vessel were
+      Tren de Aragua members.” The outlet also noted that the video “is not clear enough
+      to see if the craft is carrying as many as 11 people” and “did not show any large
+      or clear stashes of drugs inside the boat.” Experts say the administration’s deadly
+      strike violated international law. “Labeling someone a terrorist and deploying
+      the military does not make them a military target,” Vincent Warren, executive
+      director of the Center for Constitutional Rights, said in a statement to Truthout
+      . “These actions amount to an extra-judicial killing, a violation of international
+      law, which should raise extraordinary concerns.” “Without clear limitations on
+      presidential and military authority, we may find this administration claiming
+      that it can execute alleged drug dealers at home without any judicial process
+      as happened under the Duterte regime in the Philippines,” Warren continued. Former
+      president of the Philippines Rodrigo Duterte is now at the International Criminal
+      Court in The Hague, accused of committing crimes against humanity , including
+      rape, murder, and torture, in the context of the government’s so-called “war on
+      drugs” campaign . “Using military forces to kill alleged drug traffickers is an
+      act of murder, not war,” Wells Dixon, a senior attorney with the Center for Constitutional
+      Rights, told Truthout in a statement following the attack on Tuesday. Civil rights
+      attorney Alec Karakatsanis called the killings “extra-judicial assassinations
+      — a preemptive death penalty with no process — for vague alleged nonviolent drug
+      distribution offenses.” Trump has a long history of calling for U.S. intervention
+      to overthrow Venezuela’s government, and has escalated tensions in recent days
+      by building up the U.S. military’s presence near the country . The Trump administration
+      has also frequently accused people of belonging to Tren de Aragua to justify violations
+      of their human rights. Shortly after taking office, Trump signed an executive
+      order declaring Tren de Aragua a foreign terrorist organization and subsequently
+      invoked the Alien Enemies Act of 1798 to send more than 250 Venezuelans living
+      in the United States to El Salvador’s notoriously brutal prison, CECOT. The administration
+      repeatedly accused the men of being Tren de Aragua members, despite the fact that
+      a majority did not have criminal convictions . After four months, they were sent
+      home to Venezuela in a prisoner swap deal between Venezuela and the United States.
+      The men, including a soccer coach , a makeup artist , and a musician , have reported
+      that they were physically and psychologically tortured at the prison. On September
+      2, an appeals court ruled that the Trump administration could not use the 18th
+      century-era law to expedite removals of people it accused of being Tren de Aragua
+      members. Before Trump, the law had been used just three times in American history
+      — during the War of 1812, World War I, and World War II. It was last invoked to
+      justify the internment of thousands of people with Japanese ancestry during World
+      War II. Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . Elizabeth Weill-Greenberg Elizabeth Weill-Greenberg
+      is a reporter based in New Jersey. Follow her on Twitter: @elizabethweill . Author
+      Site Please share this story and help us grow our network!'
+    one_sentence_summary: Experts are criticizing a U.S. military strike ordered by
+      President Trump that killed 11 people in the Caribbean, asserting it violated
+      international law and questioning the administration's unverified claims that
+      the victims were members of a designated terrorist organization.
+    paragraph_summary: In a controversial military strike on Tuesday, the Trump administration
+      claimed to have targeted members of the Tren de Aragua gang, resulting in the
+      deaths of 11 individuals in the Caribbean, which experts argue violates international
+      law. President Trump announced the strike on his social media platform, asserting
+      that it was a warning to those involved in drug trafficking to the U.S. The White
+      House shared images and videos of the operation, labeling the deceased as "terrorists"
+      and emphasizing the strike's purpose in combating narcotics. However, the administration
+      has not provided evidence to support its claims regarding the identities of the
+      casualties, raising concerns about the legality and justification of the attack.
+    published: '2025-09-04T09:30:00+00:00'
+  - title: Experts Say Trump Administration’s Deadly Boat Attack Amounts to Extrajudicial
+      Killings
+    url: https://scheerpost.com/2025/09/04/experts-say-trump-administrations-deadly-boat-attack-amounts-to-extrajudicial-killings/
+    text: 'President Donald Trump delivers remarks to law enforcement and members of
+      the National Guard at the U.S. Park Police Anacostia Operations Facility, Thursday,
+      August 21, 2025, in Washington, D.C. (Official White House Photo by Daniel Torok)
+      In one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Elizabeth Weill-Greenberg
+      / Truthout Experts are condemning the U.S. military strike that killed 11 people
+      on a boat in the Caribbean on Tuesday, saying that the bombing was in violation
+      of international law. The Trump administration has claimed — without providing
+      evidence — that the casualties of the strike were members of Tren de Aragua, a
+      Venezuela-based gang that it has designated a foreign terrorist organization.
+      “Earlier this morning, on my Orders, U.S. Military Forces conducted a kinetic
+      strike against positively identified Tren de Aragua Narcoterrorists in the SOUTHCOM
+      area of responsibility,” Trump posted on his social media platform , Truth Social,
+      following the attack. “Please let this serve as notice to anybody even thinking
+      about bringing drugs into the United States of America. BEWARE!” The White House
+      posted an image on social media of Trump looking at a phone showing footage of
+      the boat being hit. “TERRORISTS ELIMINATED. ADIÓS,” the post says , with an emoji
+      of a person placing items in the trash. In another post , the White House said:
+      “ON VIDEO: U.S. Military Forces conducted a strike against Tren de Aragua Narcoterrorists.
+      The strike occurred while the terrorists were at sea in International waters transporting
+      illegal narcotics, heading to the U.S. The strike resulted in 11 terrorists killed
+      in action.” The Trump administration has circulated a brief black and white video
+      that it says shows the fatal strike. AP reports that the White House “did not
+      immediately explain how the military determined that those aboard the vessel were
+      Tren de Aragua members.” The outlet also noted that the video “is not clear enough
+      to see if the craft is carrying as many as 11 people” and “did not show any large
+      or clear stashes of drugs inside the boat.” Experts say the administration’s deadly
+      strike violated international law. “Labeling someone a terrorist and deploying
+      the military does not make them a military target,” Vincent Warren, executive
+      director of the Center for Constitutional Rights, said in a statement to Truthout
+      . “These actions amount to an extra-judicial killing, a violation of international
+      law, which should raise extraordinary concerns.” “Without clear limitations on
+      presidential and military authority, we may find this administration claiming
+      that it can execute alleged drug dealers at home without any judicial process
+      as happened under the Duterte regime in the Philippines,” Warren continued. Former
+      president of the Philippines Rodrigo Duterte is now at the International Criminal
+      Court in The Hague, accused of committing crimes against humanity , including
+      rape, murder, and torture, in the context of the government’s so-called “war on
+      drugs” campaign . “Using military forces to kill alleged drug traffickers is an
+      act of murder, not war,” Wells Dixon, a senior attorney with the Center for Constitutional
+      Rights, told Truthout in a statement following the attack on Tuesday. Civil rights
+      attorney Alec Karakatsanis called the killings “extra-judicial assassinations
+      — a preemptive death penalty with no process — for vague alleged nonviolent drug
+      distribution offenses.” Trump has a long history of calling for U.S. intervention
+      to overthrow Venezuela’s government, and has escalated tensions in recent days
+      by building up the U.S. military’s presence near the country . The Trump administration
+      has also frequently accused people of belonging to Tren de Aragua to justify violations
+      of their human rights. Shortly after taking office, Trump signed an executive
+      order declaring Tren de Aragua a foreign terrorist organization and subsequently
+      invoked the Alien Enemies Act of 1798 to send more than 250 Venezuelans living
+      in the United States to El Salvador’s notoriously brutal prison, CECOT. The administration
+      repeatedly accused the men of being Tren de Aragua members, despite the fact that
+      a majority did not have criminal convictions . After four months, they were sent
+      home to Venezuela in a prisoner swap deal between Venezuela and the United States.
+      The men, including a soccer coach , a makeup artist , and a musician , have reported
+      that they were physically and psychologically tortured at the prison. On September
+      2, an appeals court ruled that the Trump administration could not use the 18th
+      century-era law to expedite removals of people it accused of being Tren de Aragua
+      members. Before Trump, the law had been used just three times in American history
+      — during the War of 1812, World War I, and World War II. It was last invoked to
+      justify the internment of thousands of people with Japanese ancestry during World
+      War II. Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . Elizabeth Weill-Greenberg Elizabeth Weill-Greenberg
+      is a reporter based in New Jersey. Follow her on Twitter: @elizabethweill . Author
+      Site Please share this story and help us grow our network!'
+    one_sentence_summary: Experts are criticizing a U.S. military strike ordered by
+      President Trump that killed 11 people in the Caribbean, asserting it violated
+      international law and questioning the administration's unverified claims that
+      the victims were members of a designated terrorist organization.
+    paragraph_summary: In a controversial military strike on Tuesday, the Trump administration
+      claimed to have targeted members of the Tren de Aragua gang, resulting in the
+      deaths of 11 individuals in the Caribbean, which experts argue violates international
+      law. President Trump announced the strike on his social media platform, asserting
+      that it was a warning to those involved in drug trafficking to the U.S. The White
+      House shared images and videos of the operation, labeling the deceased as "terrorists"
+      and emphasizing the strike's purpose in combating narcotics. However, the administration
+      has not provided evidence to support its claims regarding the identities of the
+      casualties, raising concerns about the legality and justification of the attack.
+    published: '2025-09-04T09:30:00+00:00'
+  - title: Mamdani Rejects ‘Corrupt Politics and Backroom Deals’ After Latest Trump-Cuomo
+      Revelations
+    url: https://scheerpost.com/2025/09/04/mamdani-rejects-corrupt-politics-and-backroom-deals-after-latest-trump-cuomo-revelations/
+    text: 'Zohran Mamdani at Caveat on May 25 2025. Bryan Berlin, CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Brad Reed / Common Dreams New York City mayoral candidate Zohran
+      Mamdani lashed out at rival Andrew Cuomo after a new report revealed that US President
+      Donald Trump was considering intervening in this November’s election. According
+      a report in The New York Times published on Wednesday, Trump advisers have discussed
+      offering jobs within the administration to incumbent New York Mayor Eric Adams
+      and Republican nominee Curtis Sliwa in a bid to get them to drop out of the race,
+      which would leave Cuomo as the only significant challenger to Mamdani. The New
+      York Times ‘ sources said that talks have been going on between the administration
+      and “some of the city’s biggest real estate executives and among allies of Mr.
+      Cuomo” about ways to get Adams and Sliwa out of the race. “Those New Yorkers have
+      been frantically searching for any way to halt the rise of Mr. Mamdani, a 33-year-old
+      state assemblyman and democratic socialist who they fear will sour the city’s
+      business climate, and have discussed potentially offering [Adams] public or private
+      sector jobs to encourage him to drop out,” the report explained. Mamdani quickly
+      jumped on the Times report and used it to again tie Cuomo to the president, who
+      is a massively unpopular figure in the city. “Today’s news confirms it: Cuomo
+      is Trump’s choice for mayor,” Mamdani wrote in a social media post. “The White
+      House is considering jobs for Adams and Sliwa to clear the field. New Yorkers
+      are sick of corrupt politics and backroom deals. No matter who’s running, we will
+      deliver a better future on November 4.” Sen. Bernie Sanders (I-Vt.), an ally of
+      Mamdani who is planning to campaign with him at a town hall-style event this weekend,
+      also ripped the attempt by the White House to help Cuomo. He also took a shot
+      at members of the Democratic Party who have refused to endorse Mamdani despite
+      his clear victory in the Democratic mayoral primary earlier this year. “The NYC
+      mayor’s race is a clear example of a corrupt political system,” he wrote . “Zohran
+      Mamdani wins the Democratic primary. The oligarchs spend whatever it takes to
+      defeat him. Democratic leadership refuses to endorse him. Together, we will take
+      them all on and elect Zohran as mayor.” Editor’s Note : A t a moment when the
+      once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Brad Reed Brad Reed
+      is a staff writer for Common Dreams. Author Site Please share this story and help
+      us grow our network!'
+    one_sentence_summary: New York City mayoral candidate Zohran Mamdani criticized
+      rival Andrew Cuomo following reports that President Trump is considering offering
+      jobs to other candidates to eliminate competition in the upcoming election.
+    paragraph_summary: In a recent political development, New York City mayoral candidate
+      Zohran Mamdani criticized rival Andrew Cuomo following a report indicating that
+      President Donald Trump is contemplating intervening in the upcoming election by
+      offering jobs to incumbent Mayor Eric Adams and Republican nominee Curtis Sliwa
+      to persuade them to withdraw from the race. This strategy aims to clear the path
+      for Cuomo as the primary challenger to Mamdani, a 33-year-old state assemblyman
+      and democratic socialist. Mamdani seized the opportunity to link Cuomo to Trump,
+      stating that the news reflects corrupt political maneuvering that New Yorkers
+      are tired of. He emphasized his commitment to providing a better future for the
+      city, regardless of the political machinations at play.
+    published: '2025-09-04T09:25:00+00:00'
+  - title: Mamdani Rejects ‘Corrupt Politics and Backroom Deals’ After Latest Trump-Cuomo
+      Revelations
+    url: https://scheerpost.com/2025/09/04/mamdani-rejects-corrupt-politics-and-backroom-deals-after-latest-trump-cuomo-revelations/
+    text: 'Zohran Mamdani at Caveat on May 25 2025. Bryan Berlin, CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Brad Reed / Common Dreams New York City mayoral candidate Zohran
+      Mamdani lashed out at rival Andrew Cuomo after a new report revealed that US President
+      Donald Trump was considering intervening in this November’s election. According
+      a report in The New York Times published on Wednesday, Trump advisers have discussed
+      offering jobs within the administration to incumbent New York Mayor Eric Adams
+      and Republican nominee Curtis Sliwa in a bid to get them to drop out of the race,
+      which would leave Cuomo as the only significant challenger to Mamdani. The New
+      York Times ‘ sources said that talks have been going on between the administration
+      and “some of the city’s biggest real estate executives and among allies of Mr.
+      Cuomo” about ways to get Adams and Sliwa out of the race. “Those New Yorkers have
+      been frantically searching for any way to halt the rise of Mr. Mamdani, a 33-year-old
+      state assemblyman and democratic socialist who they fear will sour the city’s
+      business climate, and have discussed potentially offering [Adams] public or private
+      sector jobs to encourage him to drop out,” the report explained. Mamdani quickly
+      jumped on the Times report and used it to again tie Cuomo to the president, who
+      is a massively unpopular figure in the city. “Today’s news confirms it: Cuomo
+      is Trump’s choice for mayor,” Mamdani wrote in a social media post. “The White
+      House is considering jobs for Adams and Sliwa to clear the field. New Yorkers
+      are sick of corrupt politics and backroom deals. No matter who’s running, we will
+      deliver a better future on November 4.” Sen. Bernie Sanders (I-Vt.), an ally of
+      Mamdani who is planning to campaign with him at a town hall-style event this weekend,
+      also ripped the attempt by the White House to help Cuomo. He also took a shot
+      at members of the Democratic Party who have refused to endorse Mamdani despite
+      his clear victory in the Democratic mayoral primary earlier this year. “The NYC
+      mayor’s race is a clear example of a corrupt political system,” he wrote . “Zohran
+      Mamdani wins the Democratic primary. The oligarchs spend whatever it takes to
+      defeat him. Democratic leadership refuses to endorse him. Together, we will take
+      them all on and elect Zohran as mayor.” Editor’s Note : A t a moment when the
+      once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Brad Reed Brad Reed
+      is a staff writer for Common Dreams. Author Site Please share this story and help
+      us grow our network!'
+    one_sentence_summary: New York City mayoral candidate Zohran Mamdani criticized
+      rival Andrew Cuomo following reports that President Trump is considering offering
+      jobs to other candidates to eliminate competition in the upcoming election.
+    paragraph_summary: In a recent political development, New York City mayoral candidate
+      Zohran Mamdani criticized rival Andrew Cuomo following a report indicating that
+      President Donald Trump is contemplating intervening in the upcoming election by
+      offering jobs to incumbent Mayor Eric Adams and Republican nominee Curtis Sliwa
+      to persuade them to withdraw from the race. This strategy aims to clear the path
+      for Cuomo as the primary challenger to Mamdani, a 33-year-old state assemblyman
+      and democratic socialist. Mamdani seized the opportunity to link Cuomo to Trump,
+      stating that the news reflects corrupt political maneuvering that New Yorkers
+      are tired of. He emphasized his commitment to providing a better future for the
+      city, regardless of the political machinations at play.
+    published: '2025-09-04T09:25:00+00:00'
+  - title: China’s Electric Vehicle Influence Expands Nearly Everywhere – Except the
+      US and Canada
+    url: https://scheerpost.com/2025/09/04/chinas-electric-vehicle-influence-expands-nearly-everywhere-except-the-us-and-canada/
+    text: 'BYD M6, Soekarno-Hatta International Airport, 2025. Bahnfrend, CC BY-SA 4.0
+      https://creativecommons.org/licenses/by-sa/4.0 , via Wikimedia Commons In one
+      of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Jack Barkenbus / The
+      Conversation In 2025, 1 in 4 new automotive vehicle sales globally are expected
+      to be an electric vehicle – either fully electric or a plug-in hybrid. That is
+      a significant rise from just five years ago, when EV sales amounted to fewer than
+      1 in 20 new car sales, according to the International Energy Agency, an intergovernmental
+      organization examining energy use around the world. In the U.S., however, EV sales
+      have lagged, only reaching 1 in 10 in 2024 . By contrast, in China, the world’s
+      largest car market , more than half of all new vehicle sales are electric. The
+      International Energy Agency has reported that two-thirds of fully electric cars
+      in China are now cheaper to buy than their gasoline equivalents. With operating
+      and maintenance costs already cheaper than gasoline models , EVs are attractive
+      purchases. Most EVs purchased in China are made there as well, by a range of different
+      companies. NIO, Xpeng, Xiaomi, Zeekr, Geely, Chery, Great Wall Motor, Leapmotor
+      and especially BYD are household names in China. As someone who has followed and
+      published on the topic of EVs for over 15 years, I expect they will soon become
+      as widely known in the rest of the world. What kinds of EVs is China producing?
+      China’s automakers are producing a full range of electric vehicles, from the subcompact,
+      like the BYD Seagull , to full-size SUVs, like the Xpeng G9 , and luxury cars,
+      like the Zeekr 009 . Recent European crash-test evaluations have given top safety
+      ratings to Chinese EVs, and many of them cost less than similar models made by
+      other companies in other countries. A Wall Street Journal video explores a Chinese
+      ‘dark factory’ – one so automated that it doesn’t need lights inside. What’s behind
+      Chinese EV success? There are several factors behind Chinese companies’ success
+      in producing and selling EVs. To be sure, relatively low labor costs are part
+      of the explanation. So are generous government subsidies , as EVs were one of
+      several advanced technologies selected by the Chinese government to propel the
+      nation’s global technological profile . But Chinese EV makers are also making
+      other advances. They make significant use of industrial robotics, even to the
+      point of building so-called “ dark factories ” that can operate with minimal human
+      intervention. For passengers, they have reimagined vehicles’ interiors, with large
+      touchscreens for information and entertainment , and even added a refrigerator,
+      bed or karaoke system . Competition among Chinese EV makers is fierce, which drives
+      additional innovation. BYD is the largest seller of EVs , both domestically and
+      globally. Yet the company says it employs over 100,000 scientists and engineers
+      seeking continual improvement. From initial concept models to actual rollout of
+      factory-made cars, BYD takes 18 months – half as long as U.S. and other global
+      automakers take for their product development processes, Reuters reported. BYD
+      is also the world’s second-largest EV battery seller and has developed a new battery
+      that can recharge in just five minutes , roughly the same time it takes to fill
+      a gas-powered car’s tank. Exports The real test of how well Chinese vehicles appeal
+      to consumers will come from export sales. Chinese EV manufacturers are eager to
+      sell abroad because their factories can produce far more than the 25 million vehicles
+      they can sell within China each year – perhaps twice as much. China already exports
+      more cars than any other nation , though primarily gas-powered ones at the moment.
+      Export markets for Chinese EVs are developing in Western Europe, Southeast Asia,
+      Latin America, Australia and elsewhere. The largest market where Chinese vehicles,
+      whether gasoline or electric, are not being sold is North America. Both the U.S.
+      and Canadian governments have created what some have called a “ tariff fortress
+      ” protecting their domestic automakers, by imposing tariffs of 100% on the import
+      of Chinese EVs – literally doubling their cost to consumers. Customers’ budgets
+      matter too. The average price of a new electric vehicle in the U.S. is approximately
+      $55,000 . Less expensive vehicles make up part of this average, but without tax
+      credits, which the Trump administration is eliminating after September 2025, nothing
+      gets close to $25,000. By contrast, Chinese companies produce several sub-$25,000
+      EVs, including the Xpeng M03, the BYD Dolphin and the MG4 without tax credits.
+      If sold in America, however, the 100% tariffs would remove the price advantage.
+      Tesla , Ford and General Motors all claim they are working on inexpensive EVs.
+      More expensive vehicles, however, generate higher profits , and with the protection
+      of the “tariff fortress,” their incentive to develop cheaper EVs is not as high
+      as it might be. In the 1970s and 1980s, there was considerable U.S. opposition
+      to importing Japanese vehicles . But ultimately, a combination of consumer sentiment
+      and the willingness of Japanese companies to open factories in the U.S. overcame
+      that opposition , and Japanese brands like Toyota, Honda and Nissan are common
+      on North American roads . The same process may play out for Chinese automakers,
+      though it’s not clear how long that might take. Editor’s Note : A t a moment when
+      the once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Jack Barkenbus Dr.
+      Jack Barkenbus is the former director of the University of Tennessee’s Energy,
+      Environment and Resources Center and is currently serving in a research capacity
+      at Vanderbilt University. Author Site Please share this story and help us grow
+      our network!'
+    one_sentence_summary: By 2025, electric vehicles are projected to account for 25%
+      of global automotive sales, a significant increase from 5% five years prior, with
+      China leading the market at over 50% while U.S. sales remain at 10%.
+    paragraph_summary: By 2025, electric vehicles (EVs) are projected to account for
+      25% of global automotive sales, a significant increase from just 5% five years
+      earlier, according to the International Energy Agency. In the U.S., EV sales reached
+      10% in 2024, while in China, over half of new vehicle sales are now electric,
+      with two-thirds of fully electric cars being cheaper than their gasoline counterparts.
+      Chinese manufacturers like BYD, NIO, and Xpeng are leading the market, producing
+      a diverse range of EVs that have received high safety ratings in European crash
+      tests and are generally more affordable than similar international models. As
+      the global market shifts towards electrification, these Chinese brands are expected
+      to gain recognition worldwide.
+    published: '2025-09-04T09:20:00+00:00'
+  - title: China’s Electric Vehicle Influence Expands Nearly Everywhere – Except the
+      US and Canada
+    url: https://scheerpost.com/2025/09/04/chinas-electric-vehicle-influence-expands-nearly-everywhere-except-the-us-and-canada/
+    text: 'BYD M6, Soekarno-Hatta International Airport, 2025. Bahnfrend, CC BY-SA 4.0
+      https://creativecommons.org/licenses/by-sa/4.0 , via Wikimedia Commons In one
+      of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Jack Barkenbus / The
+      Conversation In 2025, 1 in 4 new automotive vehicle sales globally are expected
+      to be an electric vehicle – either fully electric or a plug-in hybrid. That is
+      a significant rise from just five years ago, when EV sales amounted to fewer than
+      1 in 20 new car sales, according to the International Energy Agency, an intergovernmental
+      organization examining energy use around the world. In the U.S., however, EV sales
+      have lagged, only reaching 1 in 10 in 2024 . By contrast, in China, the world’s
+      largest car market , more than half of all new vehicle sales are electric. The
+      International Energy Agency has reported that two-thirds of fully electric cars
+      in China are now cheaper to buy than their gasoline equivalents. With operating
+      and maintenance costs already cheaper than gasoline models , EVs are attractive
+      purchases. Most EVs purchased in China are made there as well, by a range of different
+      companies. NIO, Xpeng, Xiaomi, Zeekr, Geely, Chery, Great Wall Motor, Leapmotor
+      and especially BYD are household names in China. As someone who has followed and
+      published on the topic of EVs for over 15 years, I expect they will soon become
+      as widely known in the rest of the world. What kinds of EVs is China producing?
+      China’s automakers are producing a full range of electric vehicles, from the subcompact,
+      like the BYD Seagull , to full-size SUVs, like the Xpeng G9 , and luxury cars,
+      like the Zeekr 009 . Recent European crash-test evaluations have given top safety
+      ratings to Chinese EVs, and many of them cost less than similar models made by
+      other companies in other countries. A Wall Street Journal video explores a Chinese
+      ‘dark factory’ – one so automated that it doesn’t need lights inside. What’s behind
+      Chinese EV success? There are several factors behind Chinese companies’ success
+      in producing and selling EVs. To be sure, relatively low labor costs are part
+      of the explanation. So are generous government subsidies , as EVs were one of
+      several advanced technologies selected by the Chinese government to propel the
+      nation’s global technological profile . But Chinese EV makers are also making
+      other advances. They make significant use of industrial robotics, even to the
+      point of building so-called “ dark factories ” that can operate with minimal human
+      intervention. For passengers, they have reimagined vehicles’ interiors, with large
+      touchscreens for information and entertainment , and even added a refrigerator,
+      bed or karaoke system . Competition among Chinese EV makers is fierce, which drives
+      additional innovation. BYD is the largest seller of EVs , both domestically and
+      globally. Yet the company says it employs over 100,000 scientists and engineers
+      seeking continual improvement. From initial concept models to actual rollout of
+      factory-made cars, BYD takes 18 months – half as long as U.S. and other global
+      automakers take for their product development processes, Reuters reported. BYD
+      is also the world’s second-largest EV battery seller and has developed a new battery
+      that can recharge in just five minutes , roughly the same time it takes to fill
+      a gas-powered car’s tank. Exports The real test of how well Chinese vehicles appeal
+      to consumers will come from export sales. Chinese EV manufacturers are eager to
+      sell abroad because their factories can produce far more than the 25 million vehicles
+      they can sell within China each year – perhaps twice as much. China already exports
+      more cars than any other nation , though primarily gas-powered ones at the moment.
+      Export markets for Chinese EVs are developing in Western Europe, Southeast Asia,
+      Latin America, Australia and elsewhere. The largest market where Chinese vehicles,
+      whether gasoline or electric, are not being sold is North America. Both the U.S.
+      and Canadian governments have created what some have called a “ tariff fortress
+      ” protecting their domestic automakers, by imposing tariffs of 100% on the import
+      of Chinese EVs – literally doubling their cost to consumers. Customers’ budgets
+      matter too. The average price of a new electric vehicle in the U.S. is approximately
+      $55,000 . Less expensive vehicles make up part of this average, but without tax
+      credits, which the Trump administration is eliminating after September 2025, nothing
+      gets close to $25,000. By contrast, Chinese companies produce several sub-$25,000
+      EVs, including the Xpeng M03, the BYD Dolphin and the MG4 without tax credits.
+      If sold in America, however, the 100% tariffs would remove the price advantage.
+      Tesla , Ford and General Motors all claim they are working on inexpensive EVs.
+      More expensive vehicles, however, generate higher profits , and with the protection
+      of the “tariff fortress,” their incentive to develop cheaper EVs is not as high
+      as it might be. In the 1970s and 1980s, there was considerable U.S. opposition
+      to importing Japanese vehicles . But ultimately, a combination of consumer sentiment
+      and the willingness of Japanese companies to open factories in the U.S. overcame
+      that opposition , and Japanese brands like Toyota, Honda and Nissan are common
+      on North American roads . The same process may play out for Chinese automakers,
+      though it’s not clear how long that might take. Editor’s Note : A t a moment when
+      the once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Jack Barkenbus Dr.
+      Jack Barkenbus is the former director of the University of Tennessee’s Energy,
+      Environment and Resources Center and is currently serving in a research capacity
+      at Vanderbilt University. Author Site Please share this story and help us grow
+      our network!'
+    one_sentence_summary: By 2025, electric vehicles are projected to account for 25%
+      of global automotive sales, a significant increase from 5% five years prior, with
+      China leading the market at over 50% while U.S. sales remain at 10%.
+    paragraph_summary: By 2025, electric vehicles (EVs) are projected to account for
+      25% of global automotive sales, a significant increase from just 5% five years
+      earlier, according to the International Energy Agency. In the U.S., EV sales reached
+      10% in 2024, while in China, over half of new vehicle sales are now electric,
+      with two-thirds of fully electric cars being cheaper than their gasoline counterparts.
+      Chinese manufacturers like BYD, NIO, and Xpeng are leading the market, producing
+      a diverse range of EVs that have received high safety ratings in European crash
+      tests and are generally more affordable than similar international models. As
+      the global market shifts towards electrification, these Chinese brands are expected
+      to gain recognition worldwide.
+    published: '2025-09-04T09:20:00+00:00'
+  - title: China Celebrates 80th Anniversary of Victory Over Japanese Occupation, Calls
+      for an Equitable and Just World Order
+    url: https://scheerpost.com/2025/09/04/china-celebrates-80th-anniversary-of-victory-over-japanese-occupation-calls-for-an-equitable-and-just-world-order/
+    text: '2025 China Victory Day Parade. Kremlin.ru, CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Abdul Rahman / Peoples Dispatch On Wednesday, September 3, China
+      celebrated the 80th anniversary of its victory against the Japanese occupation
+      during World War II. A massive military parade was held at Tiananmen square in
+      Beijing to mark the occasion. The victory celebrations were attended by more than
+      20 foreign heads of state, including Russian President Vladimir Putin, Pakistan’s
+      Prime Minister Shehbaz Sharif, Indonesia’s President Prabowo Subianto, Iranian
+      President Masoud Pezeshkian, North Korean leader Kim Jong Un, leaders from Central
+      Asian republics, and Belarusian President Alexander Lukashenko. Family members
+      and descendants of those who supported the Chinese people’s war of resistance
+      against the Japanese, belonging to various countries around the world including
+      from the US and various European countries, were also invited for the celebrations.
+      Speaking on the occasion, Chinese President Xi Jinping noted that the Chinese
+      people have contributed and sacrificed immensely during the “World Anti-Fascist
+      War” – as the Chinese refer to World War II – “for the salvation of human civilization
+      and the defense of world peace.” The Chinese will continue to join hands with
+      the rest of the world to build “a community with a shared future for humanity”,
+      along with pursuing its own development and modernization, Xi asserted. The Chinese
+      resistance to the Japanese occupation began in 1931 after Japan occupied a large
+      part of Manchuria. The war of resistance lasted for over a decade and half coincided
+      with World War II. It cost the Chinese over 35 million lives, including military
+      personnel and civilians. Finally on September 2, 1945, Japan officially surrendered.
+      The Chinese marked September 3 as victory day. Eliminate root causes of war The
+      Chinese victory was achieved thanks to the Communist Party of China (CPC) and
+      its People’s Liberation Army. The CPC formed a national united front which was
+      joined by all nationalist forces in China at the time. The united front included
+      the ruling dispensation at the time as well, against whom the CPC was already
+      leading a people’s rebellion. Xi claimed that the defeat of Japan was the first
+      Chinese victory against foreign aggression in modern times and hoped that the
+      Chinese would continue to triumph against all hegemonic and oppressive forces
+      in the future. He claimed that economic development and national unity among all
+      sections of the Chinese people is a must, along with a strong and modern military
+      force “to safeguard national sovereignty, unity and territorial integrity.” Despite
+      the turbulence and uncertainties engulfing global politics at the moment when
+      “humanity is again faced with a choice of peace or war, dialogue or confrontation,
+      and win-win outcomes or zero-sum games,” his country has resolved for a strategy
+      of “peaceful development,” Xi asserted. China will be a modern society by 2035
+      as envisioned in the roadmap adopted by the CPC, Xi indicated. Xi asserted that
+      irrespective of the challenges and provocations, the noble cause of peace and
+      development for mankind will surely triumph and China will always be on the right
+      side of history. Xi indicated towards the attempts of certain countries to try
+      to dominate and hegemonize other countries, claiming such an approach may lead
+      to the repeat of tragedies such as World War II. “Only when nations across the
+      world treat each other as equals, live in harmony and mutually support one another
+      can common security be safeguarded, the root cause of war eliminated, and historical
+      tragedies prevented from recurring,” Xi warned. Editor’s Note : A t a moment when
+      the once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Abdul Rahman Abdul
+      Rahman is a staff writer for Peoples Dispatch. Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: On September 3, 2025, China commemorated the 80th anniversary
+      of its victory over Japanese occupation in World War II with a grand military
+      parade in Tiananmen Square, attended by numerous foreign dignitaries including
+      Russian President Vladimir Putin and North Korean leader Kim Jong Un.
+    paragraph_summary: On September 3, 2025, China commemorated the 80th anniversary
+      of its victory over Japanese occupation during World War II with a grand military
+      parade in Tiananmen Square, attended by over 20 foreign leaders, including Russian
+      President Vladimir Putin and North Korean leader Kim Jong Un. Chinese President
+      Xi Jinping emphasized the significant sacrifices made by the Chinese people during
+      the "World Anti-Fascist War" and expressed China's commitment to global cooperation
+      and modernization. The resistance against Japanese occupation, which began in
+      1931, lasted over 15 years and resulted in the loss of more than 35 million Chinese
+      lives. The celebrations also included family members of those who supported China's
+      resistance from various countries, highlighting the international solidarity in
+      the fight against fascism.
+    published: '2025-09-04T09:15:00+00:00'
+  - title: China Celebrates 80th Anniversary of Victory Over Japanese Occupation, Calls
+      for an Equitable and Just World Order
+    url: https://scheerpost.com/2025/09/04/china-celebrates-80th-anniversary-of-victory-over-japanese-occupation-calls-for-an-equitable-and-just-world-order/
+    text: '2025 China Victory Day Parade. Kremlin.ru, CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Abdul Rahman / Peoples Dispatch On Wednesday, September 3, China
+      celebrated the 80th anniversary of its victory against the Japanese occupation
+      during World War II. A massive military parade was held at Tiananmen square in
+      Beijing to mark the occasion. The victory celebrations were attended by more than
+      20 foreign heads of state, including Russian President Vladimir Putin, Pakistan’s
+      Prime Minister Shehbaz Sharif, Indonesia’s President Prabowo Subianto, Iranian
+      President Masoud Pezeshkian, North Korean leader Kim Jong Un, leaders from Central
+      Asian republics, and Belarusian President Alexander Lukashenko. Family members
+      and descendants of those who supported the Chinese people’s war of resistance
+      against the Japanese, belonging to various countries around the world including
+      from the US and various European countries, were also invited for the celebrations.
+      Speaking on the occasion, Chinese President Xi Jinping noted that the Chinese
+      people have contributed and sacrificed immensely during the “World Anti-Fascist
+      War” – as the Chinese refer to World War II – “for the salvation of human civilization
+      and the defense of world peace.” The Chinese will continue to join hands with
+      the rest of the world to build “a community with a shared future for humanity”,
+      along with pursuing its own development and modernization, Xi asserted. The Chinese
+      resistance to the Japanese occupation began in 1931 after Japan occupied a large
+      part of Manchuria. The war of resistance lasted for over a decade and half coincided
+      with World War II. It cost the Chinese over 35 million lives, including military
+      personnel and civilians. Finally on September 2, 1945, Japan officially surrendered.
+      The Chinese marked September 3 as victory day. Eliminate root causes of war The
+      Chinese victory was achieved thanks to the Communist Party of China (CPC) and
+      its People’s Liberation Army. The CPC formed a national united front which was
+      joined by all nationalist forces in China at the time. The united front included
+      the ruling dispensation at the time as well, against whom the CPC was already
+      leading a people’s rebellion. Xi claimed that the defeat of Japan was the first
+      Chinese victory against foreign aggression in modern times and hoped that the
+      Chinese would continue to triumph against all hegemonic and oppressive forces
+      in the future. He claimed that economic development and national unity among all
+      sections of the Chinese people is a must, along with a strong and modern military
+      force “to safeguard national sovereignty, unity and territorial integrity.” Despite
+      the turbulence and uncertainties engulfing global politics at the moment when
+      “humanity is again faced with a choice of peace or war, dialogue or confrontation,
+      and win-win outcomes or zero-sum games,” his country has resolved for a strategy
+      of “peaceful development,” Xi asserted. China will be a modern society by 2035
+      as envisioned in the roadmap adopted by the CPC, Xi indicated. Xi asserted that
+      irrespective of the challenges and provocations, the noble cause of peace and
+      development for mankind will surely triumph and China will always be on the right
+      side of history. Xi indicated towards the attempts of certain countries to try
+      to dominate and hegemonize other countries, claiming such an approach may lead
+      to the repeat of tragedies such as World War II. “Only when nations across the
+      world treat each other as equals, live in harmony and mutually support one another
+      can common security be safeguarded, the root cause of war eliminated, and historical
+      tragedies prevented from recurring,” Xi warned. Editor’s Note : A t a moment when
+      the once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Abdul Rahman Abdul
+      Rahman is a staff writer for Peoples Dispatch. Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: On September 3, 2025, China commemorated the 80th anniversary
+      of its victory over Japanese occupation in World War II with a grand military
+      parade in Tiananmen Square, attended by numerous foreign dignitaries including
+      Russian President Vladimir Putin and North Korean leader Kim Jong Un.
+    paragraph_summary: On September 3, 2025, China commemorated the 80th anniversary
+      of its victory over Japanese occupation during World War II with a grand military
+      parade in Tiananmen Square, attended by over 20 foreign leaders, including Russian
+      President Vladimir Putin and North Korean leader Kim Jong Un. Chinese President
+      Xi Jinping emphasized the significant sacrifices made by the Chinese people during
+      the "World Anti-Fascist War" and expressed China's commitment to global cooperation
+      and modernization. The resistance against Japanese occupation, which began in
+      1931, lasted over 15 years and resulted in the loss of more than 35 million Chinese
+      lives. The celebrations also included family members of those who supported China's
+      resistance from various countries, highlighting the international solidarity in
+      the fight against fascism.
+    published: '2025-09-04T09:15:00+00:00'
+  - title: 'Patrick Lawrence: The State of the ‘State of Palestine’'
+    url: https://scheerpost.com/2025/09/04/patrick-lawrence-the-state-of-the-state-of-palestine/
+    text: 'United Nations General Assembly. Diplomatic Security Service from Washington,
+      D.C., United States of America, Public domain, via Wikimedia Commons In one of
+      the scariest moments in modern history, we''re doing our best at ScheerPost to
+      pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Patrick Lawrence / Original
+      to ScheerPost United Nations General Assembly sessions, held each September since
+      51 nations convened in a Methodist church hall in London in 1946, come and go
+      and mostly go without event. The General Assembly is set to begin its 80 th session
+      come Sept. 9, and it is difficult to imagine this one will go off uneventfully.
+      To put the point simply, Israel has murdered, starved and terrorized too many
+      Palestinians for this year’s gathering at the Secretariat in Manhattan to conclude
+      without some conclusions. It remains only what these conclusions will be. Several
+      weeks ago a group of 15 nations — among them prominent members of the Atlantic
+      alliance — stated their intention to announce their formal declaration of Palestinian
+      statehood at this year’s session. This sets up various of Israel’s most important
+      supporters for what is likely to prove a messy confrontation with “the Jewish
+      state” and, naturally, the United States as Israel’s unfailing backer. This is
+      not guesswork. It is already evident these new recognitions will dominate the
+      Assembly session. . Since the 15 nations declared their intent to recognize Palestine
+      as a legitimate state, the Israelis have announced plans to mount a major new
+      operation in Gaza City. On Aug. 25, the Zionist military staged one of those disgusting
+      “double tap” attacks — strike, then strike again as rescue workers and journalists
+      arrive — on a hospital in southern Gaza, killing 20 people and raising the death
+      toll among journalists to 247. Less than a week later, Israel began the large-scale
+      attack on Gaza City it had previously announced — an act of sheer defiance and
+      impunity. Never to be outdone when an opportunity for outrage arises, the State
+      Department announced Friday it will deny visas to all Palestinian officials who
+      had planned to attend the General Assembly travel to the Secretariat — this “for
+      undermining the prospects for peace.” I used the term “disgusting” in the above
+      paragraph. This also qualifies, given the United States committed to allowing
+      diplomats free access to diplomatic proceedings when it was agreed to locate the
+      Secretariat on American soil. There is now talk of holding this year’s General
+      Assembly in Geneva so that Palestinian representatives could attend. This will
+      not happen, but the thought is a measure of the international mood. I see only
+      two likely outcomes as this storm gathers. In one, the better of the two, France,
+      Britain and other pillars of the Western alliance will back their honorable diplomatic
+      shifts with substantive action against the Zionists’ terror campaigns and rampant
+      breaches of international law. That would change the diplomatic landscape significantly.
+      In the other, these nations will do nothing, decisively discrediting their position
+      on the Israel–Palestine question while putting the U.N.’s impotence on pitiful
+      display. There will be no coming back from this latter eventuality. The question
+      of power arises. If you do not know the flaw in the U.N. Charter that effectively
+      disempowers the General Assembly, you should: Executive authority lies in the
+      Security Council, whose permanent members hold veto power. Only the Council can
+      pass legally binding resolutions and determine measures to enforce them. Apart
+      from quotidian matters to do with housekeeping — the U.N.’s budget and so on —
+      the Assembly is limited to voting on nonbinding resolutions. OK, the Security
+      Council is where the U.N. gets things done, or doesn’t, as is too often the case.
+      You could argue that the General Assembly serves as a sort of suggestion box for
+      what are now the U.N.’s 193 members, but this is to say nothing of note ever occurs
+      in the Assembly, and that is simply not the case. I expect things of note this
+      year. I cannot yet surmise whether these will prove things-of-note-honorable or
+      things-of-note-disgraceful. A little history, maybe, to help U.N. skeptics. Fidel
+      Castro, a year and nine months in power, addressed the General Assembly in September
+      1960 . The U.N. asks members to limit their time at the podium to 15 minutes;
+      the fiery Fidel spoke for four hours, a nonstop rip into the history of U.S. imperialism
+      and its abuses of Cuba since the 1959 revolution. The U.N. calls Castro’s speech
+      “epic” and a “pivotal moment.” These are fair descriptions, in my view: It was
+      an early announcement that Latin America intended thenceforth to speak up and
+      stand up to los norteamericanos , just as it then learned to do. Fourteen years
+      later, Yasser Arafat delivered that famous speech to the General Assembly while
+      wearing a pearl-handled revolver at his hip. The Assembly then passed two resolutions,
+      3236 and 3237, the former putting “the Question of Palestine” formally on the
+      U.N.’s docket and the latter granting the Palestine Liberation Organization diplomatic
+      recognition by way of observer status. A year after that came General Assembly
+      Resolution 3379, which “determines that Zionism is a form of racism and racial
+      discrimination.” It took the Israelis and Americans until 1991 to coerce a vote
+      to repeal 3379. (I wonder how another vote now would turn out.) Closer to our
+      time, it was but a dozen Septembers ago that Hassan Rouhani, who had assumed Iran’s
+      presidency just a few months previously, addressed the General Assembly and stunned
+      us all when he extended his hand Westward to propose negotiations with the Americans
+      and Europeans to limit the Islamic Republic’s nuclear programs. Pivotal, I would
+      say. The agreement reached two years later endured until the beyond-belief Dummkopf
+      who now serves his second term as president withdrew the United States from it.
+      And so to General Assembly No. 80, which is to run three weeks and conclude Sept.
+      29. There is no question of this year’s session voting to send Blue Helmets into
+      Gaza and the West Bank to protect Palestinians from the Zionist state’s daily
+      terrors, or that it will impose an appropriately unbearable regime of sanctions
+      against said entity, or that U.N. peacekeepers will surround and embargo all those
+      illegal West Bank settlements. One wishes it would but it cannot, as just noted.
+      No, I argue that the diplomacy that has taken place in the runup to this year’s
+      General Assembly is significant and that diplomacy — all the discredit the Western
+      powers have brought upon it in recent years notwithstanding — still comes with
+      consequences, at least sometimes, and we will see consequences of one or another
+      kind next month. Before going any further we interrupt this program with an important
+      question, trivia-like but not trivial. Will Bibi Netanyahu attend this year’s
+      General Assembly? He customarily does, rarely missing a chance to denounce the
+      Assembly and the whole wide world represented there as a horror show of anti–Semites
+      — his murderers-as-victims act. But this repulsive man is wanted under international
+      law for alleged war crimes and crimes against humanity. However this turns out,
+      it will be notable either way. If Netanyahu walks the halls of the Secretariat
+      next month we will have to accept the near-total impotence of the courts that
+      adjudicate international law; the Western powers will have completed their disemboweling
+      of another of the institutions that mark out our international public space. If
+      Bibi stays away, well, we will be pleased to say international law counts for
+      something after all, and we can look to bigger things from there. As widely reported
+      in recent weeks, Israel’s starvation operation in Gaza, which began March 2, has
+      proved a barbarity too far, and it has been in consequence that numerous Western
+      nations — “even Israel’s longtime allies,” as Western media like to exclaim —
+      have pledged to recognize Palestinian statehood at this year’s Assembly. A document
+      known as the New York Call , signed July 29, commits the 15 above-noted nations
+      to formal recognition. These 15 will join 147 U.N. members that have already recognized
+      Palestine as a legitimate state, some going back to the 1990s. But this is more
+      than a matter of numbers. Finland, Ireland, Luxembourg, Norway, Portugal: These
+      are among the signatories of the New York Call, and good enough. The bigger deal
+      here lies in the bigger names: France, Britain, Canada, New Zealand and, as of
+      Aug. 11, Australia. The first two of these count among what people of a certain
+      age commonly call the major Western powers. Turning this another way, the whole
+      of the Anglosphere other than the United States — and the whole of the Security
+      Council, too — is about to commit to recognizing Palestine. So what? It is our
+      obvious question. “It’s important to recognize the state of Palestine,” Francesca
+      Albanese — the United Nations special rapporteur on the occupied Palestinian territories
+      —  said in an interview with The Guardian published Aug. 13. “It’s incoherent
+      that they’ve not done so already.” “Incoherent” is a well-chosen word, but that
+      is only part of the argument Albanese makes. Her  bigger, passionately stated
+      point is that stopping the genocide in Gaza and the ethnic cleansing in the West
+      Bank remain the No. 1 imperative, and we ought not consider the doings at the
+      General Assembly as more than a step toward this. This is precisely how one should
+      spectate the General Assembly’s proceedings in a few weeks’ time. OK, the majority
+      of the Western powers save the United States will go on the record in support
+      of a Palestinians state. What will they make this mean on the ground? There is
+      plenty to suggest as little as possible. If this proves the case, the significance
+      of the General Assembly this year will lie in the demonstrated insignificance
+      of the General Assembly. But let us reason the matter out before drawing conclusions.
+      Straight off the top, the United States has already made it plain it stands against
+      these various pledges to recognize. On Aug, 25, Washington’s just arrived ambassador
+      to Paris, Charles Kushner, published an open letter to Emmanuel Macron complaining
+      of “the dramatic rise of antisemitism in France” and asserting that the French
+      president’s decision to recognize Palestine will “embolden extremists, fuel violence,
+      and endanger Jewish life in France.” Kushner, an assertive Zionist whose son Jared
+      is married to Trump’s daughter Ivanka, is plainly playing the tiresome old antisemitism
+      card, just as Netanyahu has done in response to the New York Call. Both seem especially
+      sensitive to the French, and for good reason. French President Charles de Gaulle,
+      a strong supporter of Israel at its founding in 1948, turned against it after
+      the Six–Day War in 1967. He soon barred French arms sales, backed a Palestinian
+      state and called Israel’s occupation of land seized in the war an imperialist
+      adventure. Macron, let us not forget, has long nursed dreams of Gaullist grandeur.
+      The General Assembly offers him a superbly dramatic opportunity to strut his stuff
+      in this line, and it will be interesting to see if he does. (I am not offering
+      odds on this one.) The wayward Macron aside, the signatories of the New York Call
+      document will effectively widen the already evident rift in the trans–Atlantic
+      alliance when they declare their support for Palestinian statehood in a couple
+      of weeks. As Britain, France and the others cannot possibly miss this point, we
+      can conclude that the Europeans are now willing very gradually to assert their
+      autonomy in matters of state after eight decades of subservience to the United
+      States. (I will have more to say on this point in another column.) Beyond this,
+      those newly committed to recognition now risk falling into a hole they have themselves
+      dug. You cannot be surprised if this turns out to be the case, given how practiced
+      the Euros are at this. They tumble into one called “Ukraine” as we speak. In the
+      case of Israel and Palestine, the about-to-recognize nations now face themselves
+      with but one choice: They either signal at the General Assembly they intend to
+      take the kind of action recognition implies, or impotence and fecklessness will
+      mark them more or less indefinitely. John Whitbeck, the international attorney
+      long engaged on the Palestine question, put it as follows on Aug. 13 in his privately
+      circulated blog. I admire the lateral thinking here: It would be intellectually
+      and diplomatically incoherent to extend diplomatic recognition to a state, particularly
+      when its entire territory is illegally occupied by another state, and then not
+      to take meaningful and effective actions to end that occupation — and, if important
+      Western states like France, Britain, Canada and Australia, as well as other Western
+      states, all extend diplomatic recognition to the State of Palestine next month,
+      principles-based courage may be more easily found in numbers. In addition, after
+      imposing more than 20 rounds of sanctions on Russia, explicitly with a view to
+      collapsing its economy, for occupying a relatively modest portion of a state that
+      they recognize, how could Western governments justify to their own increasing
+      horrified people imposing no sanctions at all against a country which is occupying
+      the entire territory of a state that they recognize and which is publicly proclaiming
+      its intention to intensify its ongoing genocide of that state’s people? Principles-based
+      courage: I share John Whitbeck’s thought, if not as confidently, that such virtue
+      hangs delicately in the balance as the General Assembly opens. I am simply not
+      in the habit of putting “principles” and “courage” in the same paragraph as “Western
+      states like France, Britain, Canada and Australia.” There is a depressing possibility
+      that the big event at the General Assembly next month may consist of Western nations
+      other than the United States embarrassing themselves on a grand scale. For one
+      thing, the New York Call and various statements individual nations have made declare,
+      no exceptions, support for a two-state solution, a Palestinian nation next to
+      an Israeli nation (or a Jewish nation, as the Zionists have it). This is simply
+      impossible — impossible because all that is left for the Palestinians by way of
+      land are dots on maps in the fashion of Bantustans, impossible because the Israelis
+      are perfectly clear they will not accept a Palestinian state, impossible because
+      (this from accounts I hear from the West Bank) the escalating savagery and sadism
+      of Israeli soldiers and settlers has in all likelihood rendered coexistence beyond
+      reach. What are you doing when you declare support for something that will never
+      come to be? Supporting something while supporting nothing? There is an argument
+      that the raft of new recognitions is, indeed, nothing more than performative,
+      an exercise in sheer cynicism. For another, the major signatories of the New York
+      Call document, notably Britain, France and Australia, have been suppressing popular
+      support for the Palestinian cause from the first days after the events of Oct.
+      7, 2023. Nowhere is this contradiction more graphic than in the British case.
+      On Aug. 9, the London police arrested 532 demonstrators for supporting Palestine
+      Action, a group dedicated to nonviolent action against the genocide in Gaza. Palestine
+      Action is now designated a terrorist organization; those arrested in Parliament
+      Square are charged under the U.K.’s Terrorism Act of 2000 and face up to 14 years
+      in prison. And this is the same Britain that pledges to recognize the state of
+      Palestine at the General Assembly in a few weeks’ time? It simply does not square.
+      But rank hypocrisy of the usual sort is too easy an explanation for this kind
+      of thing. Since Israel’s starvation operation began producing page 1 photographs
+      a few weeks back, Western leaders other than Donald Trump and his crew of misfits
+      have been acutely aware that they will enter the record on one side or the other
+      of this human atrocity. There are memoirs to write; the historians hover. Stretching
+      the point — and I am having a hard time finishing this sentence but I must — John
+      V. Whitbeck’s “principles-based courage” may indeed figure in the proceedings
+      at the U.N. Secretariat next month. To my mind, those 500-plus people arrested
+      in the London protest make the best case that substantive action may follow the
+      coming spree of diplomatic recognitions. They will not be the last 500 to hit
+      the streets, after all. Public disgust with the Israelis is obviously on the rise.
+      Given that those purporting to lead the Western post-democracies have corrupted
+      the institutions intended to express the popular will, the prospect of widespread
+      unrest will be very real to them — a threat to these elites, a source of promise
+      for the rest of us. Let us not forget the incessant demonstrations of the 1960s
+      and 1970s. The Vietnamese won the Vietnam War, a point I insist we remain clear
+      about, but the antiwar movement did a great deal to change minds in the corridors
+      of power in Washington and the European capitals. There is no conducting a war
+      without a domestic consensus that favors it — this was the great lesson for the
+      elites that prosecuted the Vietnam War. Neither is there any supporting a genocide
+      and the apartheid state committing it if it brings large numbers of demonstrators
+      into the streets. Francesca Albanese is entirely right to assert that we must
+      not let a raft of diplomatic recognitions distract us from the suffering and loss
+      of life among Palestinians and the urgent imperative to stop both. The inverse
+      seems just as true to me. The Western powers are plainly in no hurry to abandon
+      wholesale their support of the Zionist state. No, the road to that is long. But
+      those about to lend their support to Palestinian statehood will take a step on
+      it, gingerly as this may  prove. Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Patrick Lawrence Patrick Lawrence
+      , a correspondent abroad for many years, chiefly for the International Herald
+      Tribune , is a media critic, essayist, author and lecturer. His new book, Journalists
+      and Their Shadows , is out now from Clarity Press . His website is Patrick Lawrence
+      . Support his work via his Patreon site . Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: The upcoming 80th session of the United Nations General Assembly,
+      starting September 9, is expected to address the escalating violence and humanitarian
+      crisis in Palestine, which has drawn significant international attention and concern.
+    paragraph_summary: The upcoming 80th session of the United Nations General Assembly,
+      starting on September 9, is expected to be particularly contentious due to escalating
+      tensions surrounding Israel and Palestine. As Israel continues its military operations
+      in Gaza, including a recent attack that resulted in numerous casualties, a coalition
+      of 15 nations plans to formally recognize Palestinian statehood during the session.
+      This move could lead to significant confrontations between Israel, its supporters,
+      and the United States, which has historically backed Israel. The situation underscores
+      the urgent need for dialogue and resolution, as the Assembly is poised to address
+      the ongoing violence and humanitarian crisis affecting Palestinians.
+    published: '2025-09-04T09:10:00+00:00'
+  - title: 'Patrick Lawrence: The State of the ‘State of Palestine’'
+    url: https://scheerpost.com/2025/09/04/patrick-lawrence-the-state-of-the-state-of-palestine/
+    text: 'United Nations General Assembly. Diplomatic Security Service from Washington,
+      D.C., United States of America, Public domain, via Wikimedia Commons In one of
+      the scariest moments in modern history, we''re doing our best at ScheerPost to
+      pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Patrick Lawrence / Original
+      to ScheerPost United Nations General Assembly sessions, held each September since
+      51 nations convened in a Methodist church hall in London in 1946, come and go
+      and mostly go without event. The General Assembly is set to begin its 80 th session
+      come Sept. 9, and it is difficult to imagine this one will go off uneventfully.
+      To put the point simply, Israel has murdered, starved and terrorized too many
+      Palestinians for this year’s gathering at the Secretariat in Manhattan to conclude
+      without some conclusions. It remains only what these conclusions will be. Several
+      weeks ago a group of 15 nations — among them prominent members of the Atlantic
+      alliance — stated their intention to announce their formal declaration of Palestinian
+      statehood at this year’s session. This sets up various of Israel’s most important
+      supporters for what is likely to prove a messy confrontation with “the Jewish
+      state” and, naturally, the United States as Israel’s unfailing backer. This is
+      not guesswork. It is already evident these new recognitions will dominate the
+      Assembly session. . Since the 15 nations declared their intent to recognize Palestine
+      as a legitimate state, the Israelis have announced plans to mount a major new
+      operation in Gaza City. On Aug. 25, the Zionist military staged one of those disgusting
+      “double tap” attacks — strike, then strike again as rescue workers and journalists
+      arrive — on a hospital in southern Gaza, killing 20 people and raising the death
+      toll among journalists to 247. Less than a week later, Israel began the large-scale
+      attack on Gaza City it had previously announced — an act of sheer defiance and
+      impunity. Never to be outdone when an opportunity for outrage arises, the State
+      Department announced Friday it will deny visas to all Palestinian officials who
+      had planned to attend the General Assembly travel to the Secretariat — this “for
+      undermining the prospects for peace.” I used the term “disgusting” in the above
+      paragraph. This also qualifies, given the United States committed to allowing
+      diplomats free access to diplomatic proceedings when it was agreed to locate the
+      Secretariat on American soil. There is now talk of holding this year’s General
+      Assembly in Geneva so that Palestinian representatives could attend. This will
+      not happen, but the thought is a measure of the international mood. I see only
+      two likely outcomes as this storm gathers. In one, the better of the two, France,
+      Britain and other pillars of the Western alliance will back their honorable diplomatic
+      shifts with substantive action against the Zionists’ terror campaigns and rampant
+      breaches of international law. That would change the diplomatic landscape significantly.
+      In the other, these nations will do nothing, decisively discrediting their position
+      on the Israel–Palestine question while putting the U.N.’s impotence on pitiful
+      display. There will be no coming back from this latter eventuality. The question
+      of power arises. If you do not know the flaw in the U.N. Charter that effectively
+      disempowers the General Assembly, you should: Executive authority lies in the
+      Security Council, whose permanent members hold veto power. Only the Council can
+      pass legally binding resolutions and determine measures to enforce them. Apart
+      from quotidian matters to do with housekeeping — the U.N.’s budget and so on —
+      the Assembly is limited to voting on nonbinding resolutions. OK, the Security
+      Council is where the U.N. gets things done, or doesn’t, as is too often the case.
+      You could argue that the General Assembly serves as a sort of suggestion box for
+      what are now the U.N.’s 193 members, but this is to say nothing of note ever occurs
+      in the Assembly, and that is simply not the case. I expect things of note this
+      year. I cannot yet surmise whether these will prove things-of-note-honorable or
+      things-of-note-disgraceful. A little history, maybe, to help U.N. skeptics. Fidel
+      Castro, a year and nine months in power, addressed the General Assembly in September
+      1960 . The U.N. asks members to limit their time at the podium to 15 minutes;
+      the fiery Fidel spoke for four hours, a nonstop rip into the history of U.S. imperialism
+      and its abuses of Cuba since the 1959 revolution. The U.N. calls Castro’s speech
+      “epic” and a “pivotal moment.” These are fair descriptions, in my view: It was
+      an early announcement that Latin America intended thenceforth to speak up and
+      stand up to los norteamericanos , just as it then learned to do. Fourteen years
+      later, Yasser Arafat delivered that famous speech to the General Assembly while
+      wearing a pearl-handled revolver at his hip. The Assembly then passed two resolutions,
+      3236 and 3237, the former putting “the Question of Palestine” formally on the
+      U.N.’s docket and the latter granting the Palestine Liberation Organization diplomatic
+      recognition by way of observer status. A year after that came General Assembly
+      Resolution 3379, which “determines that Zionism is a form of racism and racial
+      discrimination.” It took the Israelis and Americans until 1991 to coerce a vote
+      to repeal 3379. (I wonder how another vote now would turn out.) Closer to our
+      time, it was but a dozen Septembers ago that Hassan Rouhani, who had assumed Iran’s
+      presidency just a few months previously, addressed the General Assembly and stunned
+      us all when he extended his hand Westward to propose negotiations with the Americans
+      and Europeans to limit the Islamic Republic’s nuclear programs. Pivotal, I would
+      say. The agreement reached two years later endured until the beyond-belief Dummkopf
+      who now serves his second term as president withdrew the United States from it.
+      And so to General Assembly No. 80, which is to run three weeks and conclude Sept.
+      29. There is no question of this year’s session voting to send Blue Helmets into
+      Gaza and the West Bank to protect Palestinians from the Zionist state’s daily
+      terrors, or that it will impose an appropriately unbearable regime of sanctions
+      against said entity, or that U.N. peacekeepers will surround and embargo all those
+      illegal West Bank settlements. One wishes it would but it cannot, as just noted.
+      No, I argue that the diplomacy that has taken place in the runup to this year’s
+      General Assembly is significant and that diplomacy — all the discredit the Western
+      powers have brought upon it in recent years notwithstanding — still comes with
+      consequences, at least sometimes, and we will see consequences of one or another
+      kind next month. Before going any further we interrupt this program with an important
+      question, trivia-like but not trivial. Will Bibi Netanyahu attend this year’s
+      General Assembly? He customarily does, rarely missing a chance to denounce the
+      Assembly and the whole wide world represented there as a horror show of anti–Semites
+      — his murderers-as-victims act. But this repulsive man is wanted under international
+      law for alleged war crimes and crimes against humanity. However this turns out,
+      it will be notable either way. If Netanyahu walks the halls of the Secretariat
+      next month we will have to accept the near-total impotence of the courts that
+      adjudicate international law; the Western powers will have completed their disemboweling
+      of another of the institutions that mark out our international public space. If
+      Bibi stays away, well, we will be pleased to say international law counts for
+      something after all, and we can look to bigger things from there. As widely reported
+      in recent weeks, Israel’s starvation operation in Gaza, which began March 2, has
+      proved a barbarity too far, and it has been in consequence that numerous Western
+      nations — “even Israel’s longtime allies,” as Western media like to exclaim —
+      have pledged to recognize Palestinian statehood at this year’s Assembly. A document
+      known as the New York Call , signed July 29, commits the 15 above-noted nations
+      to formal recognition. These 15 will join 147 U.N. members that have already recognized
+      Palestine as a legitimate state, some going back to the 1990s. But this is more
+      than a matter of numbers. Finland, Ireland, Luxembourg, Norway, Portugal: These
+      are among the signatories of the New York Call, and good enough. The bigger deal
+      here lies in the bigger names: France, Britain, Canada, New Zealand and, as of
+      Aug. 11, Australia. The first two of these count among what people of a certain
+      age commonly call the major Western powers. Turning this another way, the whole
+      of the Anglosphere other than the United States — and the whole of the Security
+      Council, too — is about to commit to recognizing Palestine. So what? It is our
+      obvious question. “It’s important to recognize the state of Palestine,” Francesca
+      Albanese — the United Nations special rapporteur on the occupied Palestinian territories
+      —  said in an interview with The Guardian published Aug. 13. “It’s incoherent
+      that they’ve not done so already.” “Incoherent” is a well-chosen word, but that
+      is only part of the argument Albanese makes. Her  bigger, passionately stated
+      point is that stopping the genocide in Gaza and the ethnic cleansing in the West
+      Bank remain the No. 1 imperative, and we ought not consider the doings at the
+      General Assembly as more than a step toward this. This is precisely how one should
+      spectate the General Assembly’s proceedings in a few weeks’ time. OK, the majority
+      of the Western powers save the United States will go on the record in support
+      of a Palestinians state. What will they make this mean on the ground? There is
+      plenty to suggest as little as possible. If this proves the case, the significance
+      of the General Assembly this year will lie in the demonstrated insignificance
+      of the General Assembly. But let us reason the matter out before drawing conclusions.
+      Straight off the top, the United States has already made it plain it stands against
+      these various pledges to recognize. On Aug, 25, Washington’s just arrived ambassador
+      to Paris, Charles Kushner, published an open letter to Emmanuel Macron complaining
+      of “the dramatic rise of antisemitism in France” and asserting that the French
+      president’s decision to recognize Palestine will “embolden extremists, fuel violence,
+      and endanger Jewish life in France.” Kushner, an assertive Zionist whose son Jared
+      is married to Trump’s daughter Ivanka, is plainly playing the tiresome old antisemitism
+      card, just as Netanyahu has done in response to the New York Call. Both seem especially
+      sensitive to the French, and for good reason. French President Charles de Gaulle,
+      a strong supporter of Israel at its founding in 1948, turned against it after
+      the Six–Day War in 1967. He soon barred French arms sales, backed a Palestinian
+      state and called Israel’s occupation of land seized in the war an imperialist
+      adventure. Macron, let us not forget, has long nursed dreams of Gaullist grandeur.
+      The General Assembly offers him a superbly dramatic opportunity to strut his stuff
+      in this line, and it will be interesting to see if he does. (I am not offering
+      odds on this one.) The wayward Macron aside, the signatories of the New York Call
+      document will effectively widen the already evident rift in the trans–Atlantic
+      alliance when they declare their support for Palestinian statehood in a couple
+      of weeks. As Britain, France and the others cannot possibly miss this point, we
+      can conclude that the Europeans are now willing very gradually to assert their
+      autonomy in matters of state after eight decades of subservience to the United
+      States. (I will have more to say on this point in another column.) Beyond this,
+      those newly committed to recognition now risk falling into a hole they have themselves
+      dug. You cannot be surprised if this turns out to be the case, given how practiced
+      the Euros are at this. They tumble into one called “Ukraine” as we speak. In the
+      case of Israel and Palestine, the about-to-recognize nations now face themselves
+      with but one choice: They either signal at the General Assembly they intend to
+      take the kind of action recognition implies, or impotence and fecklessness will
+      mark them more or less indefinitely. John Whitbeck, the international attorney
+      long engaged on the Palestine question, put it as follows on Aug. 13 in his privately
+      circulated blog. I admire the lateral thinking here: It would be intellectually
+      and diplomatically incoherent to extend diplomatic recognition to a state, particularly
+      when its entire territory is illegally occupied by another state, and then not
+      to take meaningful and effective actions to end that occupation — and, if important
+      Western states like France, Britain, Canada and Australia, as well as other Western
+      states, all extend diplomatic recognition to the State of Palestine next month,
+      principles-based courage may be more easily found in numbers. In addition, after
+      imposing more than 20 rounds of sanctions on Russia, explicitly with a view to
+      collapsing its economy, for occupying a relatively modest portion of a state that
+      they recognize, how could Western governments justify to their own increasing
+      horrified people imposing no sanctions at all against a country which is occupying
+      the entire territory of a state that they recognize and which is publicly proclaiming
+      its intention to intensify its ongoing genocide of that state’s people? Principles-based
+      courage: I share John Whitbeck’s thought, if not as confidently, that such virtue
+      hangs delicately in the balance as the General Assembly opens. I am simply not
+      in the habit of putting “principles” and “courage” in the same paragraph as “Western
+      states like France, Britain, Canada and Australia.” There is a depressing possibility
+      that the big event at the General Assembly next month may consist of Western nations
+      other than the United States embarrassing themselves on a grand scale. For one
+      thing, the New York Call and various statements individual nations have made declare,
+      no exceptions, support for a two-state solution, a Palestinian nation next to
+      an Israeli nation (or a Jewish nation, as the Zionists have it). This is simply
+      impossible — impossible because all that is left for the Palestinians by way of
+      land are dots on maps in the fashion of Bantustans, impossible because the Israelis
+      are perfectly clear they will not accept a Palestinian state, impossible because
+      (this from accounts I hear from the West Bank) the escalating savagery and sadism
+      of Israeli soldiers and settlers has in all likelihood rendered coexistence beyond
+      reach. What are you doing when you declare support for something that will never
+      come to be? Supporting something while supporting nothing? There is an argument
+      that the raft of new recognitions is, indeed, nothing more than performative,
+      an exercise in sheer cynicism. For another, the major signatories of the New York
+      Call document, notably Britain, France and Australia, have been suppressing popular
+      support for the Palestinian cause from the first days after the events of Oct.
+      7, 2023. Nowhere is this contradiction more graphic than in the British case.
+      On Aug. 9, the London police arrested 532 demonstrators for supporting Palestine
+      Action, a group dedicated to nonviolent action against the genocide in Gaza. Palestine
+      Action is now designated a terrorist organization; those arrested in Parliament
+      Square are charged under the U.K.’s Terrorism Act of 2000 and face up to 14 years
+      in prison. And this is the same Britain that pledges to recognize the state of
+      Palestine at the General Assembly in a few weeks’ time? It simply does not square.
+      But rank hypocrisy of the usual sort is too easy an explanation for this kind
+      of thing. Since Israel’s starvation operation began producing page 1 photographs
+      a few weeks back, Western leaders other than Donald Trump and his crew of misfits
+      have been acutely aware that they will enter the record on one side or the other
+      of this human atrocity. There are memoirs to write; the historians hover. Stretching
+      the point — and I am having a hard time finishing this sentence but I must — John
+      V. Whitbeck’s “principles-based courage” may indeed figure in the proceedings
+      at the U.N. Secretariat next month. To my mind, those 500-plus people arrested
+      in the London protest make the best case that substantive action may follow the
+      coming spree of diplomatic recognitions. They will not be the last 500 to hit
+      the streets, after all. Public disgust with the Israelis is obviously on the rise.
+      Given that those purporting to lead the Western post-democracies have corrupted
+      the institutions intended to express the popular will, the prospect of widespread
+      unrest will be very real to them — a threat to these elites, a source of promise
+      for the rest of us. Let us not forget the incessant demonstrations of the 1960s
+      and 1970s. The Vietnamese won the Vietnam War, a point I insist we remain clear
+      about, but the antiwar movement did a great deal to change minds in the corridors
+      of power in Washington and the European capitals. There is no conducting a war
+      without a domestic consensus that favors it — this was the great lesson for the
+      elites that prosecuted the Vietnam War. Neither is there any supporting a genocide
+      and the apartheid state committing it if it brings large numbers of demonstrators
+      into the streets. Francesca Albanese is entirely right to assert that we must
+      not let a raft of diplomatic recognitions distract us from the suffering and loss
+      of life among Palestinians and the urgent imperative to stop both. The inverse
+      seems just as true to me. The Western powers are plainly in no hurry to abandon
+      wholesale their support of the Zionist state. No, the road to that is long. But
+      those about to lend their support to Palestinian statehood will take a step on
+      it, gingerly as this may  prove. Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Patrick Lawrence Patrick Lawrence
+      , a correspondent abroad for many years, chiefly for the International Herald
+      Tribune , is a media critic, essayist, author and lecturer. His new book, Journalists
+      and Their Shadows , is out now from Clarity Press . His website is Patrick Lawrence
+      . Support his work via his Patreon site . Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: The upcoming 80th session of the United Nations General Assembly,
+      starting September 9, is expected to address the escalating violence and humanitarian
+      crisis in Palestine, which has drawn significant international attention and concern.
+    paragraph_summary: The upcoming 80th session of the United Nations General Assembly,
+      starting on September 9, is expected to be particularly contentious due to escalating
+      tensions surrounding Israel and Palestine. As Israel continues its military operations
+      in Gaza, including a recent attack that resulted in numerous casualties, a coalition
+      of 15 nations plans to formally recognize Palestinian statehood during the session.
+      This move could lead to significant confrontations between Israel, its supporters,
+      and the United States, which has historically backed Israel. The situation underscores
+      the urgent need for dialogue and resolution, as the Assembly is poised to address
+      the ongoing violence and humanitarian crisis affecting Palestinians.
+    published: '2025-09-04T09:10:00+00:00'
+  - title: 'Navigating Sociocide: The Contradictions of American Society with Charlie
+      Derber'
+    url: https://scheerpost.com/2025/09/04/navigating-sociocide-the-contradictions-of-american-society-with-charlie-derber/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . Click to
+      subscribe on: Apple / Spotify / Amazon / YouTube / Rumble By Robert Scheer / Original
+      to ScheerPost Host Robert Scheer in this episode of Scheer Intelligence speaks
+      with sociologist Charlie Derber, author of Bonfire: American Sociocide, Broken
+      Relations and the Quest for Democracy . The delve into the complexities of modern
+      American society, exploring the alarming trends of sociocide and the ramifications
+      of systemic alienation amidst apparent prosperity. Derber, a prolific writer with
+      29 books to his name, presents a compelling argument about the forces at play
+      in our current societal landscape, where individualism erodes community bonds
+      and the quest for democracy feels increasingly distant. Scheer and Derber dissect
+      the historical context of these issues, tracing the roots of contemporary authoritarianism
+      and the role of elites in shaping the socio-political climate. Amidst the grim
+      diagnosis, they also uncover rays of hope, examining the potential for grassroots
+      movements and collective action to challenge the status quo. With insights that
+      resonate deeply in today’s political climate, they not only analyze despair but
+      also call to recognize the cracks in the system where light can break through.
+      They discuss the contradictions inherent in a society at odds with itself and
+      contemplate the future of democracy in a world grappling with profound social
+      and economic upheaval. Transcription: 00:00:00.80 Robert Scheer: Hi, this is Robert
+      Scheer with another edition of Scheer Intelligence. The intelligence comes from
+      my guests, and I was given this platform by the NPR station in Santa Monica. Thanks
+      to the attacks on NPR, I’m no longer with that station, but I’m available on Scheer
+      Post, which I happen to publish. 00:00:20.99 CHARLIE DERBER: 00:00:23.97 Robert
+      Scheer: I don’t think I’ll be fired anytime soon. I want to introduce my guest,
+      who has had a remarkable career. Charlie Derber has written 29 important books
+      that resonate with the level of C. Wright Mills in sociology, dealing with power
+      in society and how it operates. 00:01:05.50 Robert Scheer: His current book, Bonfire:
+      American Sociocide, which we’ll discuss, is a wonderful and powerful work—mercifully
+      small and clear. It presents a disquieting argument thoughtfully, with great authority.
+      00:01:55.93 Robert Scheer: By the end, it feels like we might be at the end of
+      times, not with a Messiah but perhaps with the cockroaches taking over after some
+      kind of nuclear disaster. Yet, it’s fun to read and well-written. I highly recommend
+      it. 00:02:18.59 Robert Scheer: I want to challenge the thesis. I learned from
+      your agent, Lorna, that this is part of a trilogy. After reading your book, I
+      wonder if we’ll even be around to see the next installment. 00:02:43.14 Robert
+      Scheer: I’m serious. I want to talk about our age difference; you’re younger than
+      I am by almost two decades. I was born in the middle of the Depression and grew
+      up very poor in the Bronx, during scary times. 00:03:01.30 Robert Scheer: I was
+      amazed by post-war prosperity and spent much of my career predicting disaster.
+      I was influenced by writers like Eric Fromm and Orwell, questioning if fascism
+      could come to America. 00:03:33.30 CHARLIE DERBER: Yes. 00:03:33.95 Robert Scheer:
+      It’s interesting that we often attribute totalitarian regimes to others, yet during
+      WWII, the most dangerous group—the Germans—were a significant minority in America.
+      The question “Can it happen here?” resonates now more than ever. 00:04:30.58 Robert
+      Scheer: After reading Bonfire, I feel truly depressed—not about the book, but
+      about the argument that it may be game over. How could you plan to do a trilogy
+      when we may not even be here next week? 00:04:39.78 CHARLIE DERBER: Thank you
+      for that introduction, Robert. One of the contradictions we share is that contradiction
+      itself drives history. We’re in a grim moment, but it’s not incompatible with
+      new forms of resistance that could lead to more hopeful times. 00:05:24.43 CHARLIE
+      DERBER: The term “sociocide” might not be familiar to many, but it describes a
+      process where society destroys itself. Long before Trump, we were on a trajectory
+      of sociocide. I wrote a book, Sociopathic Society, about how society breeds anti-social
+      values. 00:06:11.35 CHARLIE DERBER: A sociocidal society is one where sociopathy
+      is so extreme that the survival of the society itself is at stake. Emil Durkheim
+      discussed the breakdown of social cohesion, which could lead to individual suicides.
+      00:07:01.88 CHARLIE DERBER: The subtitle of my book includes “Broken Relations,”
+      emphasizing how America’s individualistic culture is pulling society apart. In
+      a loveless society, people prioritize individual survival over collective well-being.
+      00:09:14.65 CHARLIE DERBER: Before Trump, sociopathic and sociocidal forces were
+      already fragmenting America. My students spend hours on social media but feel
+      disconnected from nearly everyone they interact with online. 00:10:56.53 CHARLIE
+      DERBER: This disconnect is dangerous for elites, as solidarity poses a threat
+      to their interests. A generation is growing up feeling isolated and distrustful,
+      leading to increased gun purchases for protection. 00:11:17.30 CHARLIE DERBER:
+      Many studies show that social isolation is most prevalent among lower-income and
+      working-class people, particularly in areas lacking community spaces. The epidemic
+      of loneliness is rising, with many people reporting no friends or social connections.
+      00:14:17.45 CHARLIE DERBER: The social unraveling, along with economic crises,
+      is leading to authoritarianism. The Democratic Party has played a role in this
+      shift, moving away from the New Deal towards neoliberal capitalism. 00:15:12.80
+      Robert Scheer: Let me take issue with a certain aspect of your thesis. It seems
+      to blame the masses for their responses to alienation and social networking, suggesting
+      that Trump is a reflection of this. 00:16:16.54 CHARLIE DERBER: I’m not blaming
+      individuals. The system erodes worker solidarity and relationships. It’s a more
+      acute phase now. 00:17:06.93 Robert Scheer: I think something significant has
+      happened in the last 20 years, particularly since Bill Clinton. The unions were
+      crushed, and wealth concentration has skyrocketed. 00:17:38.05 CHARLIE DERBER:
+      I agree with you about the role of the Democratic Party in abandoning the working
+      class and fostering a culture of division. 00:22:00.00 Robert Scheer: The U.S.
+      is prosperous, yet we’re coming apart. We have the means to address income inequality
+      and homelessness, but we’re not doing it. 00:23:09.71 CHARLIE DERBER: I think
+      there’s a crisis of social and economic capital in America today. Many people
+      feel they’re living paycheck to paycheck. 00:28:05.58 Robert Scheer: I want to
+      stretch your argument a bit further, as there are signs of potential resistance.
+      00:55:30.13 Robert Scheer: Before we end, let’s talk about the hope in your book.
+      It’s not all a downer—it holds out the possibility of resistance against these
+      forces. 01:03:20.59 CHARLIE DERBER: I genuinely believe that the grimness of our
+      current situation is also a catalyst for mobilization. People are coming together,
+      and the potential for change is growing. 01:04:43.55 Robert Scheer: Thank you,
+      Charlie Derber, for the insightful discussion. I encourage everyone to read your
+      book, Bonfire: American Sociocide. Thank you to our production team and supporters.
+      See you next time! Editor’s Note : A t a moment when the once vaunted model of
+      responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Robert Scheer Robert Scheer, publisher of
+      ScheerPost and award-winning journalist and author of a dozen books, has a reputation
+      for strong social and political writing over his nearly 60 years as a journalist.
+      His award-winning journalism has appeared in publications nationwide—he was Vietnam
+      correspondent and editor of Ramparts magazine, national correspondent and columnist
+      for the Los Angeles Times—and his in-depth interviews with Jimmy Carter, Richard
+      Nixon, Ronald Reagan, Bill Clinton, Mikhail Gorbachev and others made headlines.
+      He co-hosted KCRW’s political program Left, Right and Center and now hosts Scheer
+      Intelligence , an independent ScheerPost podcast with people who discuss the day’s
+      most important issues. Author Site Please share this story and help us grow our
+      network! ScheerPost.com is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives
+      4.0 International license. CC-BY-NC-ND only applies to ORIGINAL ScheerPost content.'
+    one_sentence_summary: In a discussion on Scheer Intelligence, sociologist Charlie
+      Derber explores the alarming trends of sociocide and systemic alienation in modern
+      American society, arguing that individualism undermines community bonds and threatens
+      democracy.
+    paragraph_summary: 'In a recent episode of Scheer Intelligence, host Robert Scheer
+      interviews sociologist Charlie Derber, author of "Bonfire: American Sociocide,
+      Broken Relations and the Quest for Democracy." They explore the troubling trends
+      of sociocide and systemic alienation in modern American society, where individualism
+      undermines community ties and the pursuit of democracy seems increasingly unattainable.
+      Derber, who has written extensively on these issues, discusses the historical
+      roots of contemporary authoritarianism and the influence of elites on the socio-political
+      landscape. Despite the grim realities they address, the conversation also highlights
+      the potential for grassroots movements and collective action to challenge the
+      status quo, suggesting that even amidst significant social and economic upheaval,
+      there are opportunities for hope and change.'
+    published: '2025-09-04T09:05:00+00:00'
+  - title: 'Navigating Sociocide: The Contradictions of American Society with Charlie
+      Derber'
+    url: https://scheerpost.com/2025/09/04/navigating-sociocide-the-contradictions-of-american-society-with-charlie-derber/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . Click to
+      subscribe on: Apple / Spotify / Amazon / YouTube / Rumble By Robert Scheer / Original
+      to ScheerPost Host Robert Scheer in this episode of Scheer Intelligence speaks
+      with sociologist Charlie Derber, author of Bonfire: American Sociocide, Broken
+      Relations and the Quest for Democracy . The delve into the complexities of modern
+      American society, exploring the alarming trends of sociocide and the ramifications
+      of systemic alienation amidst apparent prosperity. Derber, a prolific writer with
+      29 books to his name, presents a compelling argument about the forces at play
+      in our current societal landscape, where individualism erodes community bonds
+      and the quest for democracy feels increasingly distant. Scheer and Derber dissect
+      the historical context of these issues, tracing the roots of contemporary authoritarianism
+      and the role of elites in shaping the socio-political climate. Amidst the grim
+      diagnosis, they also uncover rays of hope, examining the potential for grassroots
+      movements and collective action to challenge the status quo. With insights that
+      resonate deeply in today’s political climate, they not only analyze despair but
+      also call to recognize the cracks in the system where light can break through.
+      They discuss the contradictions inherent in a society at odds with itself and
+      contemplate the future of democracy in a world grappling with profound social
+      and economic upheaval. Transcription: 00:00:00.80 Robert Scheer: Hi, this is Robert
+      Scheer with another edition of Scheer Intelligence. The intelligence comes from
+      my guests, and I was given this platform by the NPR station in Santa Monica. Thanks
+      to the attacks on NPR, I’m no longer with that station, but I’m available on Scheer
+      Post, which I happen to publish. 00:00:20.99 CHARLIE DERBER: 00:00:23.97 Robert
+      Scheer: I don’t think I’ll be fired anytime soon. I want to introduce my guest,
+      who has had a remarkable career. Charlie Derber has written 29 important books
+      that resonate with the level of C. Wright Mills in sociology, dealing with power
+      in society and how it operates. 00:01:05.50 Robert Scheer: His current book, Bonfire:
+      American Sociocide, which we’ll discuss, is a wonderful and powerful work—mercifully
+      small and clear. It presents a disquieting argument thoughtfully, with great authority.
+      00:01:55.93 Robert Scheer: By the end, it feels like we might be at the end of
+      times, not with a Messiah but perhaps with the cockroaches taking over after some
+      kind of nuclear disaster. Yet, it’s fun to read and well-written. I highly recommend
+      it. 00:02:18.59 Robert Scheer: I want to challenge the thesis. I learned from
+      your agent, Lorna, that this is part of a trilogy. After reading your book, I
+      wonder if we’ll even be around to see the next installment. 00:02:43.14 Robert
+      Scheer: I’m serious. I want to talk about our age difference; you’re younger than
+      I am by almost two decades. I was born in the middle of the Depression and grew
+      up very poor in the Bronx, during scary times. 00:03:01.30 Robert Scheer: I was
+      amazed by post-war prosperity and spent much of my career predicting disaster.
+      I was influenced by writers like Eric Fromm and Orwell, questioning if fascism
+      could come to America. 00:03:33.30 CHARLIE DERBER: Yes. 00:03:33.95 Robert Scheer:
+      It’s interesting that we often attribute totalitarian regimes to others, yet during
+      WWII, the most dangerous group—the Germans—were a significant minority in America.
+      The question “Can it happen here?” resonates now more than ever. 00:04:30.58 Robert
+      Scheer: After reading Bonfire, I feel truly depressed—not about the book, but
+      about the argument that it may be game over. How could you plan to do a trilogy
+      when we may not even be here next week? 00:04:39.78 CHARLIE DERBER: Thank you
+      for that introduction, Robert. One of the contradictions we share is that contradiction
+      itself drives history. We’re in a grim moment, but it’s not incompatible with
+      new forms of resistance that could lead to more hopeful times. 00:05:24.43 CHARLIE
+      DERBER: The term “sociocide” might not be familiar to many, but it describes a
+      process where society destroys itself. Long before Trump, we were on a trajectory
+      of sociocide. I wrote a book, Sociopathic Society, about how society breeds anti-social
+      values. 00:06:11.35 CHARLIE DERBER: A sociocidal society is one where sociopathy
+      is so extreme that the survival of the society itself is at stake. Emil Durkheim
+      discussed the breakdown of social cohesion, which could lead to individual suicides.
+      00:07:01.88 CHARLIE DERBER: The subtitle of my book includes “Broken Relations,”
+      emphasizing how America’s individualistic culture is pulling society apart. In
+      a loveless society, people prioritize individual survival over collective well-being.
+      00:09:14.65 CHARLIE DERBER: Before Trump, sociopathic and sociocidal forces were
+      already fragmenting America. My students spend hours on social media but feel
+      disconnected from nearly everyone they interact with online. 00:10:56.53 CHARLIE
+      DERBER: This disconnect is dangerous for elites, as solidarity poses a threat
+      to their interests. A generation is growing up feeling isolated and distrustful,
+      leading to increased gun purchases for protection. 00:11:17.30 CHARLIE DERBER:
+      Many studies show that social isolation is most prevalent among lower-income and
+      working-class people, particularly in areas lacking community spaces. The epidemic
+      of loneliness is rising, with many people reporting no friends or social connections.
+      00:14:17.45 CHARLIE DERBER: The social unraveling, along with economic crises,
+      is leading to authoritarianism. The Democratic Party has played a role in this
+      shift, moving away from the New Deal towards neoliberal capitalism. 00:15:12.80
+      Robert Scheer: Let me take issue with a certain aspect of your thesis. It seems
+      to blame the masses for their responses to alienation and social networking, suggesting
+      that Trump is a reflection of this. 00:16:16.54 CHARLIE DERBER: I’m not blaming
+      individuals. The system erodes worker solidarity and relationships. It’s a more
+      acute phase now. 00:17:06.93 Robert Scheer: I think something significant has
+      happened in the last 20 years, particularly since Bill Clinton. The unions were
+      crushed, and wealth concentration has skyrocketed. 00:17:38.05 CHARLIE DERBER:
+      I agree with you about the role of the Democratic Party in abandoning the working
+      class and fostering a culture of division. 00:22:00.00 Robert Scheer: The U.S.
+      is prosperous, yet we’re coming apart. We have the means to address income inequality
+      and homelessness, but we’re not doing it. 00:23:09.71 CHARLIE DERBER: I think
+      there’s a crisis of social and economic capital in America today. Many people
+      feel they’re living paycheck to paycheck. 00:28:05.58 Robert Scheer: I want to
+      stretch your argument a bit further, as there are signs of potential resistance.
+      00:55:30.13 Robert Scheer: Before we end, let’s talk about the hope in your book.
+      It’s not all a downer—it holds out the possibility of resistance against these
+      forces. 01:03:20.59 CHARLIE DERBER: I genuinely believe that the grimness of our
+      current situation is also a catalyst for mobilization. People are coming together,
+      and the potential for change is growing. 01:04:43.55 Robert Scheer: Thank you,
+      Charlie Derber, for the insightful discussion. I encourage everyone to read your
+      book, Bonfire: American Sociocide. Thank you to our production team and supporters.
+      See you next time! Editor’s Note : A t a moment when the once vaunted model of
+      responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Robert Scheer Robert Scheer, publisher of
+      ScheerPost and award-winning journalist and author of a dozen books, has a reputation
+      for strong social and political writing over his nearly 60 years as a journalist.
+      His award-winning journalism has appeared in publications nationwide—he was Vietnam
+      correspondent and editor of Ramparts magazine, national correspondent and columnist
+      for the Los Angeles Times—and his in-depth interviews with Jimmy Carter, Richard
+      Nixon, Ronald Reagan, Bill Clinton, Mikhail Gorbachev and others made headlines.
+      He co-hosted KCRW’s political program Left, Right and Center and now hosts Scheer
+      Intelligence , an independent ScheerPost podcast with people who discuss the day’s
+      most important issues. Author Site Please share this story and help us grow our
+      network! ScheerPost.com is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives
+      4.0 International license. CC-BY-NC-ND only applies to ORIGINAL ScheerPost content.'
+    one_sentence_summary: In a discussion on Scheer Intelligence, sociologist Charlie
+      Derber explores the alarming trends of sociocide and systemic alienation in modern
+      American society, arguing that individualism undermines community bonds and threatens
+      democracy.
+    paragraph_summary: 'In a recent episode of Scheer Intelligence, host Robert Scheer
+      interviews sociologist Charlie Derber, author of "Bonfire: American Sociocide,
+      Broken Relations and the Quest for Democracy." They explore the troubling trends
+      of sociocide and systemic alienation in modern American society, where individualism
+      undermines community ties and the pursuit of democracy seems increasingly unattainable.
+      Derber, who has written extensively on these issues, discusses the historical
+      roots of contemporary authoritarianism and the influence of elites on the socio-political
+      landscape. Despite the grim realities they address, the conversation also highlights
+      the potential for grassroots movements and collective action to challenge the
+      status quo, suggesting that even amidst significant social and economic upheaval,
+      there are opportunities for hope and change.'
+    published: '2025-09-04T09:05:00+00:00'
+  - title: Communities Pay the Price for ‘Free’ AI Tools
+    url: https://scheerpost.com/2025/09/04/communities-pay-the-price-for-free-ai-tools/
+    text: 'Artificial intelligence data center. Gregory Rocher (IFREMER Centre Bretagne,
+      IRSI-RIC – ZI de la Pointe du Diable – CS 10070 – 29280 Plouzané, France), CC
+      BY 4.0 https://creativecommons.org/licenses/by/4.0 , via Wikimedia Commons In
+      one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Dan Howells and Todd
+      Larsen / OtherWords AI is everywhere. But its powerful computing comes with a
+      big cost to our planet, our neighborhoods, and our wallets. AI servers are so
+      power hungry that utilities are keeping coal-fired power plants that were slated
+      for closure running to meet the needs of massive servers. And in the South alone,
+      there are plans for 20 gigawatts of new natural-gas power plants over the next
+      15 years — enough to power millions of homes — just to feed AI’s energy needs.
+      Multi-billion dollar companies like Microsoft, Google, Amazon, and Meta that previously
+      committed to 100 percent renewable energy are going back to the Jurassic Age,
+      using fossil fuels like coal and natural gas to meet their insatiable energy needs.
+      Even nuclear power plants are being reactivated to meet the needs of power-hungry
+      servers. At a time when we need all corporations to reduce their climate footprint,
+      carbon emissions from major tech companies in 2023 have skyrocketed to 150 percent
+      of average 2020 values. AI data centers also produce massive noise pollution and
+      use huge amounts of water. Residents near data centers report that the sound keeps
+      them awake at night and their taps are running dry. Many of us live in communities
+      that either have or will have a data center , and we’re already feeling the effects.
+      Many of these plants further burden communities already struggling with a lack
+      of economic investment, access to basic resources, and exposure to high levels
+      of pollution. To add insult to injury, amid stagnant wages and increasing costs
+      for food, housing, utilities, and consumer goods, AI’s demand for power is also
+      raising electric rates for customers nationwide. To meet the soaring demand for
+      energy that AI data servers demand, utilities need to build new infrastructure,
+      the cost of which is being passed onto all customers. A recent Carnegie Mellon
+      study found that AI data centers could increase electric rates by 25 percent in
+      Northern Virginia by 2030. And NPR recently reported that AI data centers were
+      a key driver in electric rates increasing twice as fast as the cost of living
+      nationwide — at a time when one in six households are struggling to pay their
+      energy bills. All of these impacts are only projected to grow. AI already consumes
+      enough electricity to power 7 million American homes . By 2028, that could jump
+      to the amount of power needed for 22 percent of all US households. But it doesn’t
+      have to be this way. AI could be powered by renewable energy that is non-polluting
+      and works to reduce energy costs for us all. The leading AI companies, who have
+      made significant climate pledges, must lead the way. Microsoft, Google, Amazon,
+      and Meta have all made promises to the communities they serve to tackle climate
+      and pollution. They all have climate pledges. And they have made significant investments
+      in renewable energy in the past. Those investments make sense, since renewables
+      are the most affordable form of electricity. These companies have the know-how
+      and the wealth to power AI with wind, solar, and batteries — which makes it all
+      the more puzzling that they’re relying on fossil fuels to power the future. If
+      these corporate giants are to be good neighbors, they first need to be open and
+      honest about the scope and scale of the problem and the solutions needed. As these
+      companies invest billions in technology for AI, they must re-up investments in
+      renewables to power our future and protect our communities. They must ensure that
+      communities have a real voice in how and where AI data centers are built — and
+      that our communities aren’t sacrificed in the name of profits. Editor’s Note :
+      A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Dan Howells Dan
+      Howells is the Climate Campaigns Director at Green America. Author Site Todd Larsen
+      Todd Larsen is Green America’s Executive Co-Director. Author Site Please share
+      this story and help us grow our network!'
+    one_sentence_summary: The article discusses the significant environmental and economic
+      impact of artificial intelligence data centers, highlighting how their immense
+      energy demands are leading to the continued operation of coal-fired power plants
+      and the construction of new natural gas facilities to support AI infrastructure.
+    paragraph_summary: The article by Dan Howells and Todd Larsen highlights the environmental
+      and social costs associated with the growing demand for artificial intelligence
+      (AI) data centers. Despite promises from major tech companies like Microsoft,
+      Google, Amazon, and Meta to utilize 100% renewable energy, these companies are
+      increasingly relying on fossil fuels, including coal and natural gas, to power
+      their energy-hungry servers. This shift has led to the reactivation of coal plants
+      and the construction of new natural gas facilities, significantly increasing carbon
+      emissions, which have reached 150% of 2020 levels. Additionally, AI data centers
+      contribute to noise pollution and water shortages in nearby communities, exacerbating
+      existing economic and environmental challenges. The article calls attention to
+      the urgent need for corporations to reduce their climate impact as local residents
+      bear the brunt of these developments.
+    published: '2025-09-04T09:00:00+00:00'
+  - title: Communities Pay the Price for ‘Free’ AI Tools
+    url: https://scheerpost.com/2025/09/04/communities-pay-the-price-for-free-ai-tools/
+    text: 'Artificial intelligence data center. Gregory Rocher (IFREMER Centre Bretagne,
+      IRSI-RIC – ZI de la Pointe du Diable – CS 10070 – 29280 Plouzané, France), CC
+      BY 4.0 https://creativecommons.org/licenses/by/4.0 , via Wikimedia Commons In
+      one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Dan Howells and Todd
+      Larsen / OtherWords AI is everywhere. But its powerful computing comes with a
+      big cost to our planet, our neighborhoods, and our wallets. AI servers are so
+      power hungry that utilities are keeping coal-fired power plants that were slated
+      for closure running to meet the needs of massive servers. And in the South alone,
+      there are plans for 20 gigawatts of new natural-gas power plants over the next
+      15 years — enough to power millions of homes — just to feed AI’s energy needs.
+      Multi-billion dollar companies like Microsoft, Google, Amazon, and Meta that previously
+      committed to 100 percent renewable energy are going back to the Jurassic Age,
+      using fossil fuels like coal and natural gas to meet their insatiable energy needs.
+      Even nuclear power plants are being reactivated to meet the needs of power-hungry
+      servers. At a time when we need all corporations to reduce their climate footprint,
+      carbon emissions from major tech companies in 2023 have skyrocketed to 150 percent
+      of average 2020 values. AI data centers also produce massive noise pollution and
+      use huge amounts of water. Residents near data centers report that the sound keeps
+      them awake at night and their taps are running dry. Many of us live in communities
+      that either have or will have a data center , and we’re already feeling the effects.
+      Many of these plants further burden communities already struggling with a lack
+      of economic investment, access to basic resources, and exposure to high levels
+      of pollution. To add insult to injury, amid stagnant wages and increasing costs
+      for food, housing, utilities, and consumer goods, AI’s demand for power is also
+      raising electric rates for customers nationwide. To meet the soaring demand for
+      energy that AI data servers demand, utilities need to build new infrastructure,
+      the cost of which is being passed onto all customers. A recent Carnegie Mellon
+      study found that AI data centers could increase electric rates by 25 percent in
+      Northern Virginia by 2030. And NPR recently reported that AI data centers were
+      a key driver in electric rates increasing twice as fast as the cost of living
+      nationwide — at a time when one in six households are struggling to pay their
+      energy bills. All of these impacts are only projected to grow. AI already consumes
+      enough electricity to power 7 million American homes . By 2028, that could jump
+      to the amount of power needed for 22 percent of all US households. But it doesn’t
+      have to be this way. AI could be powered by renewable energy that is non-polluting
+      and works to reduce energy costs for us all. The leading AI companies, who have
+      made significant climate pledges, must lead the way. Microsoft, Google, Amazon,
+      and Meta have all made promises to the communities they serve to tackle climate
+      and pollution. They all have climate pledges. And they have made significant investments
+      in renewable energy in the past. Those investments make sense, since renewables
+      are the most affordable form of electricity. These companies have the know-how
+      and the wealth to power AI with wind, solar, and batteries — which makes it all
+      the more puzzling that they’re relying on fossil fuels to power the future. If
+      these corporate giants are to be good neighbors, they first need to be open and
+      honest about the scope and scale of the problem and the solutions needed. As these
+      companies invest billions in technology for AI, they must re-up investments in
+      renewables to power our future and protect our communities. They must ensure that
+      communities have a real voice in how and where AI data centers are built — and
+      that our communities aren’t sacrificed in the name of profits. Editor’s Note :
+      A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Dan Howells Dan
+      Howells is the Climate Campaigns Director at Green America. Author Site Todd Larsen
+      Todd Larsen is Green America’s Executive Co-Director. Author Site Please share
+      this story and help us grow our network!'
+    one_sentence_summary: The article discusses the significant environmental and economic
+      impact of artificial intelligence data centers, highlighting how their immense
+      energy demands are leading to the continued operation of coal-fired power plants
+      and the construction of new natural gas facilities to support AI infrastructure.
+    paragraph_summary: The article by Dan Howells and Todd Larsen highlights the environmental
+      and social costs associated with the growing demand for artificial intelligence
+      (AI) data centers. Despite promises from major tech companies like Microsoft,
+      Google, Amazon, and Meta to utilize 100% renewable energy, these companies are
+      increasingly relying on fossil fuels, including coal and natural gas, to power
+      their energy-hungry servers. This shift has led to the reactivation of coal plants
+      and the construction of new natural gas facilities, significantly increasing carbon
+      emissions, which have reached 150% of 2020 levels. Additionally, AI data centers
+      contribute to noise pollution and water shortages in nearby communities, exacerbating
+      existing economic and environmental challenges. The article calls attention to
+      the urgent need for corporations to reduce their climate impact as local residents
+      bear the brunt of these developments.
+    published: '2025-09-04T09:00:00+00:00'
+  - title: Belgium To Recognize Palestine, Impose Sanctions on Israel
+    url: https://scheerpost.com/2025/09/03/belgium-to-recognize-palestine-impose-sanctions-on-israel/
+    text: 'Zeebrugge, Belgium: Signpost in front of the lifting bridge in the port of
+      Zeebrugge (Belgium). Photo by CEphoto, Uwe Aranas / © CEphoto, Uwe Aranas In one
+      of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By The Cradle Belgium will
+      join France in recognizing a Palestinian state at the upcoming UN General Assembly
+      session in New York this month, the country’s foreign minister announced on 2
+      September. La Palestine sera reconnue par la Belgique lors de la session de l’ONU
+      ! Et des sanctions fermes sont prises à l’égard du gouvernement israélien. Tout
+      antisémitisme ou glorification du terrorisme par les partisans du Hamas sera aussi
+      plus fortement dénoncé. Au vu du… — Maxime PREVOT (@prevotmaxime) September 2,
+      2025 “Palestine will be recognized by Belgium during the UN session! And firm
+      sanctions are being imposed on the Israeli government. Any antisemitism or glorification
+      of terrorism by Hamas supporters will also be more strongly condemned,” said Belgian
+      Foreign Minister Maxime Prevot in a post on X. “In view of the humanitarian tragedy
+      unfolding in Palestine, particularly in Gaza, and in light of the violence perpetrated
+      by Israel in violation of international law – given its international obligations,
+      including the duty to prevent any risk of genocide – Belgium had to take bold
+      decisions to increase pressure on the Israeli government and the Hamas terrorists,”
+      he added. “This is not about penalizing the Israeli people, but about ensuring
+      that their government respects international and humanitarian law and taking action
+      to try to change the situation on the ground.” “Twelve strong national sanctions
+      have been enacted, including: banning imports from the settlements; revising public
+      procurement policies with Israeli companies; restricting consular assistance to
+      Belgians living in settlements deemed illegal under international law; potential
+      judicial proceedings; bans on overflight and transit; designating two extremist
+      Israeli ministers [Smotrich and Ben Gvir], several violent settlers, and Hamas
+      leaders as ‘persona non grata’ in our country,” he went on to say. Prevot referred
+      to his country’s decision as a “strong diplomatic and political gesture to preserve
+      the chances for a two-state solution, and to mark condemnation of Israel’s expansionist
+      tendencies.” The Palestinian Authority ( PA ) said it “welcomes” Belgium’s plan.
+      France announced in late July that it plans to recognize Palestine at the upcoming
+      UN session. Australia and Malta have also signaled they are gearing up to do the
+      same. Israel has rapidly accelerated settlement expansion and plans to illegally
+      annex the occupied West Bank as a response to the recent revival of the idea of
+      Palestinian statehood and France’s vow to recognize a state of Palestine on 9
+      September. In August, Israeli Finance Minister Bezalel Smotrich announced the
+      unfreezing of the E1 settlement project, which has been frozen for decades as
+      a result of strong opposition from the international community. It aims to link
+      occupied East Jerusalem – viewed as integral to any future Palestinian state –
+      to the illegal Maale Adumim settlement. “Today, anyone in the world who tries
+      to recognize a Palestinian state will receive an answer from us on the ground.
+      Today we are writing a historic chapter in the story of the redemption of the
+      people of Israel in their land,” the finance minister said at the time. Israeli
+      Prime Minister Benjamin Netanyahu will hold a session on 2 September to discuss
+      imposing Israeli “sovereignty” over the occupied West Bank, Hebrew media reported.
+      In late July, lawmakers in Israel’s Knesset voted 71-13 in favor of a motion calling
+      for annexing the occupied West Bank. Editor’s Note : A t a moment when the once
+      vaunted model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . The Cradle The Cradle is an online
+      news magazine covering West Asian geopolitics from within. Author Site Please
+      share this story and help us grow our network!'
+    one_sentence_summary: Belgium will officially recognize a Palestinian state at the
+      upcoming UN General Assembly session, alongside France, while also imposing firm
+      sanctions on the Israeli government and condemning antisemitism and the glorification
+      of terrorism by Hamas supporters.
+    paragraph_summary: Belgium is set to recognize a Palestinian state during the upcoming
+      UN General Assembly session, as announced by Foreign Minister Maxime Prevot. This
+      decision aligns with France's stance and comes in response to the ongoing humanitarian
+      crisis in Gaza and perceived violations of international law by Israel. Prevot
+      emphasized that the recognition and accompanying sanctions, which include banning
+      imports from Israeli settlements and revising public procurement policies, aim
+      to pressure the Israeli government to adhere to international humanitarian standards
+      without penalizing the Israeli populace. The Belgian government also plans to
+      more strongly condemn antisemitism and the glorification of terrorism by Hamas
+      supporters.
+    published: '2025-09-03T12:06:05+00:00'
+  - title: Belgium To Recognize Palestine, Impose Sanctions on Israel
+    url: https://scheerpost.com/2025/09/03/belgium-to-recognize-palestine-impose-sanctions-on-israel/
+    text: 'Zeebrugge, Belgium: Signpost in front of the lifting bridge in the port of
+      Zeebrugge (Belgium). Photo by CEphoto, Uwe Aranas / © CEphoto, Uwe Aranas In one
+      of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By The Cradle Belgium will
+      join France in recognizing a Palestinian state at the upcoming UN General Assembly
+      session in New York this month, the country’s foreign minister announced on 2
+      September. La Palestine sera reconnue par la Belgique lors de la session de l’ONU
+      ! Et des sanctions fermes sont prises à l’égard du gouvernement israélien. Tout
+      antisémitisme ou glorification du terrorisme par les partisans du Hamas sera aussi
+      plus fortement dénoncé. Au vu du… — Maxime PREVOT (@prevotmaxime) September 2,
+      2025 “Palestine will be recognized by Belgium during the UN session! And firm
+      sanctions are being imposed on the Israeli government. Any antisemitism or glorification
+      of terrorism by Hamas supporters will also be more strongly condemned,” said Belgian
+      Foreign Minister Maxime Prevot in a post on X. “In view of the humanitarian tragedy
+      unfolding in Palestine, particularly in Gaza, and in light of the violence perpetrated
+      by Israel in violation of international law – given its international obligations,
+      including the duty to prevent any risk of genocide – Belgium had to take bold
+      decisions to increase pressure on the Israeli government and the Hamas terrorists,”
+      he added. “This is not about penalizing the Israeli people, but about ensuring
+      that their government respects international and humanitarian law and taking action
+      to try to change the situation on the ground.” “Twelve strong national sanctions
+      have been enacted, including: banning imports from the settlements; revising public
+      procurement policies with Israeli companies; restricting consular assistance to
+      Belgians living in settlements deemed illegal under international law; potential
+      judicial proceedings; bans on overflight and transit; designating two extremist
+      Israeli ministers [Smotrich and Ben Gvir], several violent settlers, and Hamas
+      leaders as ‘persona non grata’ in our country,” he went on to say. Prevot referred
+      to his country’s decision as a “strong diplomatic and political gesture to preserve
+      the chances for a two-state solution, and to mark condemnation of Israel’s expansionist
+      tendencies.” The Palestinian Authority ( PA ) said it “welcomes” Belgium’s plan.
+      France announced in late July that it plans to recognize Palestine at the upcoming
+      UN session. Australia and Malta have also signaled they are gearing up to do the
+      same. Israel has rapidly accelerated settlement expansion and plans to illegally
+      annex the occupied West Bank as a response to the recent revival of the idea of
+      Palestinian statehood and France’s vow to recognize a state of Palestine on 9
+      September. In August, Israeli Finance Minister Bezalel Smotrich announced the
+      unfreezing of the E1 settlement project, which has been frozen for decades as
+      a result of strong opposition from the international community. It aims to link
+      occupied East Jerusalem – viewed as integral to any future Palestinian state –
+      to the illegal Maale Adumim settlement. “Today, anyone in the world who tries
+      to recognize a Palestinian state will receive an answer from us on the ground.
+      Today we are writing a historic chapter in the story of the redemption of the
+      people of Israel in their land,” the finance minister said at the time. Israeli
+      Prime Minister Benjamin Netanyahu will hold a session on 2 September to discuss
+      imposing Israeli “sovereignty” over the occupied West Bank, Hebrew media reported.
+      In late July, lawmakers in Israel’s Knesset voted 71-13 in favor of a motion calling
+      for annexing the occupied West Bank. Editor’s Note : A t a moment when the once
+      vaunted model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . The Cradle The Cradle is an online
+      news magazine covering West Asian geopolitics from within. Author Site Please
+      share this story and help us grow our network!'
+    one_sentence_summary: Belgium will officially recognize a Palestinian state at the
+      upcoming UN General Assembly session, alongside France, while also imposing firm
+      sanctions on the Israeli government and condemning antisemitism and the glorification
+      of terrorism by Hamas supporters.
+    paragraph_summary: Belgium is set to recognize a Palestinian state during the upcoming
+      UN General Assembly session, as announced by Foreign Minister Maxime Prevot. This
+      decision aligns with France's stance and comes in response to the ongoing humanitarian
+      crisis in Gaza and perceived violations of international law by Israel. Prevot
+      emphasized that the recognition and accompanying sanctions, which include banning
+      imports from Israeli settlements and revising public procurement policies, aim
+      to pressure the Israeli government to adhere to international humanitarian standards
+      without penalizing the Israeli populace. The Belgian government also plans to
+      more strongly condemn antisemitism and the glorification of terrorism by Hamas
+      supporters.
+    published: '2025-09-03T12:06:05+00:00'
+  - title: Vienna’s Model Shows the Government Really Can Guarantee Housing for All
+    url: https://scheerpost.com/2025/09/03/viennas-model-shows-the-government-really-can-guarantee-housing-for-all/
+    text: 'Community residential building Gredlerstraße 7, 2nd district of Vienna. Peter
+      Haas / CC BY-SA 3.0 In one of the scariest moments in modern history, we''re doing
+      our best at ScheerPost to pierce the fog of lies that conceal it but we need some
+      help to pay our writers and staff. Please consider a tax-deductible donation .
+      By Tyler Walicek / Truthout In the United States, calls for better social services,
+      public programs, and other state-led interventions are reliably met with cries
+      of impracticality. Ideas from the left are regularly derided in hyperbolic terms;
+      some classics include the charge that the left wishes to give away the equivalent
+      of “free ponies” (that one comes via Hillary Clinton ), or are otherwise pie-in-the-sky
+      utopians living in a “magical fantasy land ,” promising “ unicorns ” and the like.
+      But those who shout down even the barest suggestion of mobilizing public assistance
+      to confront the U.S.’s many sprawling social crises betray their ignorance of,
+      or their dogmatic ideological opposition to, the wealth of flourishing social
+      programs that are in place worldwide. Vienna has long been among the many international
+      examples that provide valuable lessons for systematic social betterment — particularly
+      for the housing crisis, which has become catastrophic in the U.S. Conversely,
+      in the Austrian capital, a thriving, popular state-led social housing model leads
+      the globe in providing high-quality affordable developments (known locally as
+      the Gemeindebau ) to a large segment of the population. With a pragmatic yet forward-thinking
+      design, particularly in green energy future-proofing, the Vienna model offers
+      a knowledge base, born of decades of experience, that in a just world would be
+      tapped to help enact comparable proposals in the United States — like the currently
+      stagnant hopes of a Green New Deal for Housing . Good First Impressions The Climate
+      and Community Institute (CCI), a progressive think tank with a focus on economics
+      and climate, released a comprehensive report this summer that documents the history,
+      sociopolitical context, and notable achievements of the Vienna model. Hundreds
+      of thousands of people in Vienna are comfortably housed by state-owned buildings,
+      to which 5,000 new affordable units are added per year. Daniel Aldana Cohen is
+      a researcher, writer, sociology professor and the CCI’s co-founder and director
+      of housing. “Vienna is the social housing capital of the world,” said Cohen in
+      an interview with Truthout. “It’s the big major Western city with the most social
+      housing … It’s very frequently ranked the world’s most livable city . So, it’s
+      not just the social housing — they’re clearly doing something right.” Cohen witnessed
+      the model’s accomplishments firsthand on a delegation trip to Vienna; this experience
+      provided the initial impetus for the CCI report. The city’s leadership on housing
+      is the legacy of Red Vienna , a period of leftist governance lasting from 1919
+      to 1934, which laid the groundwork by building 64,000 units of municipally owned
+      housing, funded by progressive taxes on property and on luxury goods. These efforts
+      helped resolve a disastrous turn-of-the-century tenement and slum crisis and produced,
+      among other legacies, the iconic Karl-Marx-Hof . The statistics certainly bear
+      out claims of the model’s longstanding success: as the CCI report notes, Vienna
+      has the lowest rent of any major city in Western Europe; per square meter, it
+      is roughly three times cheaper than London, and its income distribution is far
+      more equitable than New York City’s. Social housing has benefits that redound
+      to many further realms of society. It is a state and community platform on which
+      a civil service, public goods, sustainability and better lives have been built
+      for a century. Working Households Vienna’s social housing is divided into two
+      primary types: a large supply of both municipally owned housing units and what
+      the CCI researchers call “limited-profit” housing. The former is entirely state-owned
+      and run; the latter, as the report describes it, is “publicly subsidized, privately
+      developed, and heavily regulated.” Each type accounts for 21 percent of Vienna’s
+      total housing stock, which consists of roughly 40 percent social housing, with
+      the remainder being privately owned rentals and owner occupied units. Both varieties
+      of social housing are affordable and sought-after. Unlike the developments pejoratively
+      referred to as “projects” in the U.S., Vienna’s limited-profit housing is attractive
+      to people across the financial spectrum. The report notes that, though limited-profit
+      rents are higher than that of the municipal-owned units, “on average, new limited-profit
+      social housing rents are 27 percent lower than private rentals.” The key to the
+      success of the system is the interdependence of its two main components. For the
+      social housing model to function — and function “as a pro-worker model, not just
+      as subsidized units for the middle class,” Cohen stipulated — municipal housing
+      must serve as a frontline solution to accommodate the tenants in the greatest
+      need. “Most people from migrant backgrounds who live in social housing (and not
+      enough of them do, but of those that do) live in municipal housing,” he added.
+      Applications for municipally owned housing are simpler, and again, the rent is
+      lower. It’s there that immigrants and the working class tend to secure shelter.
+      Cohen emphasized that to provide the best social outcome and house all segments
+      of society, the dual systems are crucial. “We don’t actually want to just take
+      the limited-profit model. We also need to have some version, in the U.S., like
+      public housing, that assures a very substantial production for people who need
+      that housing the most.” But an entrenched pattern and legal structure has for
+      decades sent the U.S. spiraling in the opposite direction, towards diminution
+      and decay of the public housing stock. The Faircloth Amendment has capped the
+      total number of public housing units since 1998 and has prevented the office of
+      Housing and Urban Development (HUD) and local Public Housing Authorities (PHA)
+      from building any increase over the number of units that existed on October 1,
+      1999. Faircloth was effectively a giveaway to the real estate industry, which
+      enjoys the benefits of severely constrained competition along with an open rental
+      market share — a segment that disproportionately contains people of color, the
+      poor, the elderly, disabled people, and the otherwise vulnerable — from which
+      the industry can draw profit. And the profits are enormous: Research published
+      in the American Journal of Sociology in 2019 found that the owners that operate
+      low-quality housing in impoverished areas — in a word, slumlords — often charge
+      more , “relative to the market value of a property” than those operating units
+      for people with higher incomes. Contrary to the prevailing vision of slums as
+      a social byproduct of urban dysfunction, they persist, in effect, by design: the
+      slum is a “prime moneymaker,” the researchers wrote, exploited by “those who saw
+      in land scarcity, housing dilapidation, and racial segregation the opportunity
+      to maximize their rate of return.” Rent in poor neighborhoods has become endemically
+      unaffordable across the country as a result. Meanwhile, the supply of public housing
+      has fallen far behind the times. The intertwined crises of rent, homelessness
+      and poverty are in many ways traceable back to the adoption of the Faircloth Amendment,
+      alongside decades of federal disinvestment and the real estate industry’s profitable
+      predation. Historically, “federal public housing has not been mixed-income. But
+      that could be introduced,” said Cohen. Indeed, building appealing units that house
+      a wider income range of Americans would create constituent buy-in and help diminish
+      the widespread stigmatizing impression of public housing as a place that wealthier
+      (and whiter) people would want to avoid. The means-tested model — together with
+      decades of market fundamentalist, neoliberal smears against public goods — has
+      created this stereotype, bound up in all manner of confusion and myths about welfare,
+      state programs, and race. Inevitably, income limitations hamper social programs
+      and open them to attack. Universally open programs, conversely, remove the need
+      for burdensome income-filtering bureaucracy and enjoy broader legitimacy: built
+      into their very structure is the acknowledgment that the benefits are shared by
+      all. And by eliminating the bureaucracy, universal programs often actually cost
+      less . Any application of Vienna-style solutions to the United States context
+      — i.e., instituting mass social housing available to people of all incomes — will
+      demand both the embrace of the limited-profit housing model and major investments
+      in new and existing municipally owned housing. “What we would like to see [in
+      the U.S.] is an expansion of that fully public stock,” said Cohen. “Because it’s
+      publicly owned, you have much more control and [can fund] really well-regulated
+      projects built, ideally, by non-profits or cooperatives. That’d be more flexible
+      … what we’re looking for in the U.S. is a balanced-portfolio approach.” Cohen
+      himself was involved in the initial planning of Alexandria Ocasio-Cortez’s Green
+      New Deal for Public Housing Act , which would revamp, repair, and extend the nation’s
+      decaying public housing stock, construct new units and implement emissions reduction
+      technologies, creating jobs in the process. As he added, “Even at the bare minimum,
+      we need to repair, retrofit, upgrade, and basically save the almost two million
+      units of public housing that are available in the U.S. right now.” If the U.S.
+      were to build more state-owned public housing as well as adopt the limited-profit
+      model, this would meet the needs of a large segment of the working class, potentially
+      from the lowest up to higher-middle incomes. With adequate regulatory policy like
+      rent control in place, the devastating crises of housing and homelessness could
+      finally be confronted. (It is worth reiterating here that an enormous number of
+      the unhoused people in the U.S. are among the “invisible homeless,” crashing on
+      couches or in vehicles, holding jobs but simply unable to meet their needs thanks
+      to crushingly low wages and impossible housing expenses .) Some rough analogues
+      of the limited-profit model do already exist in the U.S. — but Cohen says they
+      remain inferior to Vienna’s approach for a number of reasons. Tax credits and
+      grants for affordable development are patchwork, “[while] Section 8 gives tenants
+      vouchers, which they bring to landlords, so the government is subsidizing the
+      rent.” A better approach could be to “tie the voucher to the building, instead
+      of the tenant, and then you can finance really good buildings.” Doing so would
+      require regulatory overhaul — but, as Cohen put it, “we’re not talking about bringing
+      an alien language to planet Earth.” In the Vienna model, developers of limited-profit
+      units are paid for their work, but those developers are not accumulating any excess
+      profits, Cohen explained. “The quote-unquote ‘profit,’ which is the revenue in
+      excess of expenditure, has to be recycled back into housing upgrades.” (The “limited-profit”
+      concept is fairly comparable to the U.S. “non-profit” model; the report authors
+      gave it a distinct name to reflect its distinct context.) In Vienna, many developers
+      maintain dual wings of operation: one for profit in private housing, with another
+      dedicated to limited-profit projects. Though such work might lack exorbitant returns
+      on speculative investment, it’s not as if developers are working for free — the
+      company is still paid by the state, and its workers draw paychecks. Limited-profit
+      work still provides opportunities for income and can be used as paid employee
+      training. In other words, there are still meaningful incentives to build units
+      under this model. It’s just not driven by the incentive of massively enriching
+      investors, like many developments in the U.S. The Innovation Confusion Vienna’s
+      housing triumph is a testament to the power of state planning to produce meaningful,
+      positive social outcomes that catalyze positive feedback cycles of quality-of-life
+      improvement and generate better living environments for everyone in the city.
+      It’s also a potent counterexample to the deeply inculcated U.S. narrative that
+      insists innovation can only happen in conditions of deregulation and state retreat.
+      As Cohen summarized: “The way that I think about it, as an outsider to Vienna,
+      is that in the U.S., almost all housing is a high-risk, high-reward business.
+      In Vienna’s social housing system, you have a lot of companies, and their workers
+      get paid, and it is very often just a stable, low-risk, low-financial reward business.”
+      In fact, Vienna disproves other received wisdom about market forces. “You would
+      think,” he said, “that if so much of the Viennese housing sector [is] lower-income,
+      and no one’s making a killing in social housing, that it’d be staid and ‘boring.’”
+      “But you can see from the photos — it’s spectacular! I think one of the interesting
+      lessons from Vienna is that it deconstructs this myth in the U.S. that innovation
+      and deregulation go hand in hand. The idea that creativity and technological ingenuity
+      rely on an unregulated Wild West market is just not true.” “What you have [in
+      Vienna] is highly regulated developer competitions,” Cohen continued, “with public
+      agencies doing everything from the heat pumps to the sewer system … You are basically
+      getting technological marvels out of a state-supervised, heavily planned system.”
+      Indeed, one of the latest green innovations is the creative repurposing of Viennese
+      buildings’ gas heat lines for air conditioning by filling the lines with cold
+      water in the summer. The report approvingly cites these and myriad other green
+      solutions. Such victories put the lie to the ostensibly common-sense notion that
+      innovation is predicated on deregulation and anarcho-capitalism. “You don’t need
+      to have that Silicon-Valley level of ‘everything goes’ in order to get ingenuity,”
+      Cohen said. “In fact, it’s more the opposite. The public sector setting the boundaries,
+      setting the framework, saying: I’m going to give you the cost you can bid me at,
+      but now you’re going to compete with each other on quality — that’s when you’re
+      going to get innovation and quality.” Commentators in the U.S. are always keen
+      to tout the motivating benefits of competition. Vienna’s example provides a more
+      nuanced approach. Of course, it is true that competition can spur progress. But
+      to whom the benefits of that progress return is determined by existing relations
+      of power. It’s in the interest of free-market ideologues to conflate those two
+      questions. The Vienna housing market, though, makes the difference clear. Enlisting
+      the incentives of competition on metrics of quality, rather than pathological
+      cost-cutting, is producing stunning results. Vienna, of course, is not a utopia,
+      and Cohen and his fellow report authors are clear-eyed about its failings. As
+      the report text notes, “We must also confront the model’s weaknesses. Discrimination
+      against immigrants, and people descended from immigrants, is widespread in Vienna,
+      and even more so in Austria generally. The city’s efforts to tackle this racism,
+      overall and in its social housing system, have had mixed results. People living
+      in Vienna can now move into social housing after residing in the city for two
+      years, but the social housing system has not, on the whole, welcomed residents
+      with migrant backgrounds at rates comparable to their population share.” To better
+      meet the needs of immigrants, Vienna still needs to increase the supply of the
+      very low-cost apartments. The bureaucratic barriers to obtaining a unit remain
+      too high for the decentralized, limited-profit model. “It’s got to be easier to
+      access the service, and the service has to be more affordable,” said Cohen. “From
+      a U.S. point of view, [to adopt such a model here,] you [would] have to build
+      that in.” (And concerningly, in keeping with the worldwide lurch towards reactionary
+      revanchism, some of Austria’s left-liberals are devolving towards a populist anti-migrant
+      stance in coalition with the right — an inhumane and reactionary position that
+      seeks to undermine social welfare by limiting it to what the right labels “real”
+      Austrians.) Better Visions of Home In the U.S., adopting some version of the Vienna
+      model would certainly come with vast challenges. However, the most severe obstacles
+      are not physical. Building structures and housing more people is well within our
+      capabilities. Reforms and regulations that can help mitigate inequality and discrimination
+      are just as conceivable. The primary challenge is the extreme opposition that
+      programs of this sort would face in the U.S., especially in the current climate.
+      The failure of President Joe Biden’s “Build Back Better” program foreclosed the
+      possibility of billions in housing relief . And Ocasio-Cortez’s and Bernie Sanders’s
+      Green New Deal for Housing Act , while it was reintroduced last year, shows no
+      signs of advancing at our current disastrous political juncture. Nevertheless,
+      seeking real resolution of the housing crisis could be a winning political platform,
+      says Cohen. Indeed, public opinion, as Data for Progress research has found ,
+      is firmly in favor of policy intervention. It’s perhaps most viable to pursue
+      a state level approach, though again, malicious opposition from the federal administration
+      represents a severe obstacle. Still, “If we could build housing, that would create
+      a political constituency that would be a winner,” said Cohen. “There are all these
+      little reforms [possible] here and there, but the main thing is that [Vienna]
+      just kept the policy commitment: housing is a human right, we’re going to keep
+      building it.” Cohen’s words present a compelling vision of a world in which our
+      human rights crises are confronted, rather than exacerbated in the interests of
+      profit. Robust public housing programs (including appealing and innovative new
+      developments based on promising ideas like shared land trusts ) can and do exist
+      in the U.S. But it takes a great deal of community and institutional backing and
+      expertise to realize and sustain them. Vienna possesses a century of momentum
+      to readily facilitate beautiful developments by the dozens. The U.S. failure to
+      strengthen and expand public housing is owed not to some innate flaw in the concept,
+      but rather to decades of racist stigma, state abdication, and sabotage by private
+      real estate interests. Social housing can be a vehicle for justice on numerous
+      fronts, helping to mitigate racism and discrimination, homelessness, mental health
+      crises and inequality writ large. Such meta-issues can form powerful coalitions
+      across divides. Moreover, it is an urgent moral necessity as the crisis of homelessness
+      enters catastrophic proportions with hundreds of thousands of Americans abandoned
+      on the streets on any given night — an unfathomable toll of suffering. In this
+      demoralized and fearful time, the public is in need of ways to join collectively
+      to combat our most grievous social problems. We can do so only by fighting not
+      just for ourselves, but for all those around us. Cohen memorably frames it this
+      way: “Social housing is solidarity you can touch.” Yet active, New-Deal-style
+      programs to address poverty and suffering — together with increased unity among
+      the working class — are things the reactionary right will fight tooth and nail
+      to undermine. This is as true in Austria as it is anywhere else; Vienna’s social
+      housing, for all its success, is “constantly pilloried in the right-wing press…
+      It gets accused of being housing for poor people and migrants,” Cohen said. “And
+      I say, great — let’s build more.” Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Tyler Walicek Tyler Walicek is a freelance
+      writer and journalist in Portland, Oregon. Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: The article discusses the challenges faced by advocates of
+      social services and public programs in the U.S., highlighting how their proposals
+      are often dismissed as unrealistic by critics who fail to recognize the necessity
+      of state-led interventions to address social crises.
+    paragraph_summary: In a recent article, Tyler Walicek discusses the stark contrast
+      between the U.S. and Vienna regarding social services and housing, highlighting
+      the American tendency to dismiss leftist proposals for public assistance as impractical.
+      He critiques the ideological resistance to state-led interventions, which overlooks
+      successful global examples like Vienna's social housing model, known as Gemeindebau.
+      This model not only provides high-quality, affordable housing to a significant
+      portion of the population but also incorporates sustainable design principles.
+      Walicek argues that the lessons from Vienna could inform and inspire similar initiatives
+      in the U.S., particularly in light of the ongoing housing crisis and the stalled
+      ambitions of a Green New Deal for Housing.
+    published: '2025-09-03T12:00:51+00:00'
+  - title: Vienna’s Model Shows the Government Really Can Guarantee Housing for All
+    url: https://scheerpost.com/2025/09/03/viennas-model-shows-the-government-really-can-guarantee-housing-for-all/
+    text: 'Community residential building Gredlerstraße 7, 2nd district of Vienna. Peter
+      Haas / CC BY-SA 3.0 In one of the scariest moments in modern history, we''re doing
+      our best at ScheerPost to pierce the fog of lies that conceal it but we need some
+      help to pay our writers and staff. Please consider a tax-deductible donation .
+      By Tyler Walicek / Truthout In the United States, calls for better social services,
+      public programs, and other state-led interventions are reliably met with cries
+      of impracticality. Ideas from the left are regularly derided in hyperbolic terms;
+      some classics include the charge that the left wishes to give away the equivalent
+      of “free ponies” (that one comes via Hillary Clinton ), or are otherwise pie-in-the-sky
+      utopians living in a “magical fantasy land ,” promising “ unicorns ” and the like.
+      But those who shout down even the barest suggestion of mobilizing public assistance
+      to confront the U.S.’s many sprawling social crises betray their ignorance of,
+      or their dogmatic ideological opposition to, the wealth of flourishing social
+      programs that are in place worldwide. Vienna has long been among the many international
+      examples that provide valuable lessons for systematic social betterment — particularly
+      for the housing crisis, which has become catastrophic in the U.S. Conversely,
+      in the Austrian capital, a thriving, popular state-led social housing model leads
+      the globe in providing high-quality affordable developments (known locally as
+      the Gemeindebau ) to a large segment of the population. With a pragmatic yet forward-thinking
+      design, particularly in green energy future-proofing, the Vienna model offers
+      a knowledge base, born of decades of experience, that in a just world would be
+      tapped to help enact comparable proposals in the United States — like the currently
+      stagnant hopes of a Green New Deal for Housing . Good First Impressions The Climate
+      and Community Institute (CCI), a progressive think tank with a focus on economics
+      and climate, released a comprehensive report this summer that documents the history,
+      sociopolitical context, and notable achievements of the Vienna model. Hundreds
+      of thousands of people in Vienna are comfortably housed by state-owned buildings,
+      to which 5,000 new affordable units are added per year. Daniel Aldana Cohen is
+      a researcher, writer, sociology professor and the CCI’s co-founder and director
+      of housing. “Vienna is the social housing capital of the world,” said Cohen in
+      an interview with Truthout. “It’s the big major Western city with the most social
+      housing … It’s very frequently ranked the world’s most livable city . So, it’s
+      not just the social housing — they’re clearly doing something right.” Cohen witnessed
+      the model’s accomplishments firsthand on a delegation trip to Vienna; this experience
+      provided the initial impetus for the CCI report. The city’s leadership on housing
+      is the legacy of Red Vienna , a period of leftist governance lasting from 1919
+      to 1934, which laid the groundwork by building 64,000 units of municipally owned
+      housing, funded by progressive taxes on property and on luxury goods. These efforts
+      helped resolve a disastrous turn-of-the-century tenement and slum crisis and produced,
+      among other legacies, the iconic Karl-Marx-Hof . The statistics certainly bear
+      out claims of the model’s longstanding success: as the CCI report notes, Vienna
+      has the lowest rent of any major city in Western Europe; per square meter, it
+      is roughly three times cheaper than London, and its income distribution is far
+      more equitable than New York City’s. Social housing has benefits that redound
+      to many further realms of society. It is a state and community platform on which
+      a civil service, public goods, sustainability and better lives have been built
+      for a century. Working Households Vienna’s social housing is divided into two
+      primary types: a large supply of both municipally owned housing units and what
+      the CCI researchers call “limited-profit” housing. The former is entirely state-owned
+      and run; the latter, as the report describes it, is “publicly subsidized, privately
+      developed, and heavily regulated.” Each type accounts for 21 percent of Vienna’s
+      total housing stock, which consists of roughly 40 percent social housing, with
+      the remainder being privately owned rentals and owner occupied units. Both varieties
+      of social housing are affordable and sought-after. Unlike the developments pejoratively
+      referred to as “projects” in the U.S., Vienna’s limited-profit housing is attractive
+      to people across the financial spectrum. The report notes that, though limited-profit
+      rents are higher than that of the municipal-owned units, “on average, new limited-profit
+      social housing rents are 27 percent lower than private rentals.” The key to the
+      success of the system is the interdependence of its two main components. For the
+      social housing model to function — and function “as a pro-worker model, not just
+      as subsidized units for the middle class,” Cohen stipulated — municipal housing
+      must serve as a frontline solution to accommodate the tenants in the greatest
+      need. “Most people from migrant backgrounds who live in social housing (and not
+      enough of them do, but of those that do) live in municipal housing,” he added.
+      Applications for municipally owned housing are simpler, and again, the rent is
+      lower. It’s there that immigrants and the working class tend to secure shelter.
+      Cohen emphasized that to provide the best social outcome and house all segments
+      of society, the dual systems are crucial. “We don’t actually want to just take
+      the limited-profit model. We also need to have some version, in the U.S., like
+      public housing, that assures a very substantial production for people who need
+      that housing the most.” But an entrenched pattern and legal structure has for
+      decades sent the U.S. spiraling in the opposite direction, towards diminution
+      and decay of the public housing stock. The Faircloth Amendment has capped the
+      total number of public housing units since 1998 and has prevented the office of
+      Housing and Urban Development (HUD) and local Public Housing Authorities (PHA)
+      from building any increase over the number of units that existed on October 1,
+      1999. Faircloth was effectively a giveaway to the real estate industry, which
+      enjoys the benefits of severely constrained competition along with an open rental
+      market share — a segment that disproportionately contains people of color, the
+      poor, the elderly, disabled people, and the otherwise vulnerable — from which
+      the industry can draw profit. And the profits are enormous: Research published
+      in the American Journal of Sociology in 2019 found that the owners that operate
+      low-quality housing in impoverished areas — in a word, slumlords — often charge
+      more , “relative to the market value of a property” than those operating units
+      for people with higher incomes. Contrary to the prevailing vision of slums as
+      a social byproduct of urban dysfunction, they persist, in effect, by design: the
+      slum is a “prime moneymaker,” the researchers wrote, exploited by “those who saw
+      in land scarcity, housing dilapidation, and racial segregation the opportunity
+      to maximize their rate of return.” Rent in poor neighborhoods has become endemically
+      unaffordable across the country as a result. Meanwhile, the supply of public housing
+      has fallen far behind the times. The intertwined crises of rent, homelessness
+      and poverty are in many ways traceable back to the adoption of the Faircloth Amendment,
+      alongside decades of federal disinvestment and the real estate industry’s profitable
+      predation. Historically, “federal public housing has not been mixed-income. But
+      that could be introduced,” said Cohen. Indeed, building appealing units that house
+      a wider income range of Americans would create constituent buy-in and help diminish
+      the widespread stigmatizing impression of public housing as a place that wealthier
+      (and whiter) people would want to avoid. The means-tested model — together with
+      decades of market fundamentalist, neoliberal smears against public goods — has
+      created this stereotype, bound up in all manner of confusion and myths about welfare,
+      state programs, and race. Inevitably, income limitations hamper social programs
+      and open them to attack. Universally open programs, conversely, remove the need
+      for burdensome income-filtering bureaucracy and enjoy broader legitimacy: built
+      into their very structure is the acknowledgment that the benefits are shared by
+      all. And by eliminating the bureaucracy, universal programs often actually cost
+      less . Any application of Vienna-style solutions to the United States context
+      — i.e., instituting mass social housing available to people of all incomes — will
+      demand both the embrace of the limited-profit housing model and major investments
+      in new and existing municipally owned housing. “What we would like to see [in
+      the U.S.] is an expansion of that fully public stock,” said Cohen. “Because it’s
+      publicly owned, you have much more control and [can fund] really well-regulated
+      projects built, ideally, by non-profits or cooperatives. That’d be more flexible
+      … what we’re looking for in the U.S. is a balanced-portfolio approach.” Cohen
+      himself was involved in the initial planning of Alexandria Ocasio-Cortez’s Green
+      New Deal for Public Housing Act , which would revamp, repair, and extend the nation’s
+      decaying public housing stock, construct new units and implement emissions reduction
+      technologies, creating jobs in the process. As he added, “Even at the bare minimum,
+      we need to repair, retrofit, upgrade, and basically save the almost two million
+      units of public housing that are available in the U.S. right now.” If the U.S.
+      were to build more state-owned public housing as well as adopt the limited-profit
+      model, this would meet the needs of a large segment of the working class, potentially
+      from the lowest up to higher-middle incomes. With adequate regulatory policy like
+      rent control in place, the devastating crises of housing and homelessness could
+      finally be confronted. (It is worth reiterating here that an enormous number of
+      the unhoused people in the U.S. are among the “invisible homeless,” crashing on
+      couches or in vehicles, holding jobs but simply unable to meet their needs thanks
+      to crushingly low wages and impossible housing expenses .) Some rough analogues
+      of the limited-profit model do already exist in the U.S. — but Cohen says they
+      remain inferior to Vienna’s approach for a number of reasons. Tax credits and
+      grants for affordable development are patchwork, “[while] Section 8 gives tenants
+      vouchers, which they bring to landlords, so the government is subsidizing the
+      rent.” A better approach could be to “tie the voucher to the building, instead
+      of the tenant, and then you can finance really good buildings.” Doing so would
+      require regulatory overhaul — but, as Cohen put it, “we’re not talking about bringing
+      an alien language to planet Earth.” In the Vienna model, developers of limited-profit
+      units are paid for their work, but those developers are not accumulating any excess
+      profits, Cohen explained. “The quote-unquote ‘profit,’ which is the revenue in
+      excess of expenditure, has to be recycled back into housing upgrades.” (The “limited-profit”
+      concept is fairly comparable to the U.S. “non-profit” model; the report authors
+      gave it a distinct name to reflect its distinct context.) In Vienna, many developers
+      maintain dual wings of operation: one for profit in private housing, with another
+      dedicated to limited-profit projects. Though such work might lack exorbitant returns
+      on speculative investment, it’s not as if developers are working for free — the
+      company is still paid by the state, and its workers draw paychecks. Limited-profit
+      work still provides opportunities for income and can be used as paid employee
+      training. In other words, there are still meaningful incentives to build units
+      under this model. It’s just not driven by the incentive of massively enriching
+      investors, like many developments in the U.S. The Innovation Confusion Vienna’s
+      housing triumph is a testament to the power of state planning to produce meaningful,
+      positive social outcomes that catalyze positive feedback cycles of quality-of-life
+      improvement and generate better living environments for everyone in the city.
+      It’s also a potent counterexample to the deeply inculcated U.S. narrative that
+      insists innovation can only happen in conditions of deregulation and state retreat.
+      As Cohen summarized: “The way that I think about it, as an outsider to Vienna,
+      is that in the U.S., almost all housing is a high-risk, high-reward business.
+      In Vienna’s social housing system, you have a lot of companies, and their workers
+      get paid, and it is very often just a stable, low-risk, low-financial reward business.”
+      In fact, Vienna disproves other received wisdom about market forces. “You would
+      think,” he said, “that if so much of the Viennese housing sector [is] lower-income,
+      and no one’s making a killing in social housing, that it’d be staid and ‘boring.’”
+      “But you can see from the photos — it’s spectacular! I think one of the interesting
+      lessons from Vienna is that it deconstructs this myth in the U.S. that innovation
+      and deregulation go hand in hand. The idea that creativity and technological ingenuity
+      rely on an unregulated Wild West market is just not true.” “What you have [in
+      Vienna] is highly regulated developer competitions,” Cohen continued, “with public
+      agencies doing everything from the heat pumps to the sewer system … You are basically
+      getting technological marvels out of a state-supervised, heavily planned system.”
+      Indeed, one of the latest green innovations is the creative repurposing of Viennese
+      buildings’ gas heat lines for air conditioning by filling the lines with cold
+      water in the summer. The report approvingly cites these and myriad other green
+      solutions. Such victories put the lie to the ostensibly common-sense notion that
+      innovation is predicated on deregulation and anarcho-capitalism. “You don’t need
+      to have that Silicon-Valley level of ‘everything goes’ in order to get ingenuity,”
+      Cohen said. “In fact, it’s more the opposite. The public sector setting the boundaries,
+      setting the framework, saying: I’m going to give you the cost you can bid me at,
+      but now you’re going to compete with each other on quality — that’s when you’re
+      going to get innovation and quality.” Commentators in the U.S. are always keen
+      to tout the motivating benefits of competition. Vienna’s example provides a more
+      nuanced approach. Of course, it is true that competition can spur progress. But
+      to whom the benefits of that progress return is determined by existing relations
+      of power. It’s in the interest of free-market ideologues to conflate those two
+      questions. The Vienna housing market, though, makes the difference clear. Enlisting
+      the incentives of competition on metrics of quality, rather than pathological
+      cost-cutting, is producing stunning results. Vienna, of course, is not a utopia,
+      and Cohen and his fellow report authors are clear-eyed about its failings. As
+      the report text notes, “We must also confront the model’s weaknesses. Discrimination
+      against immigrants, and people descended from immigrants, is widespread in Vienna,
+      and even more so in Austria generally. The city’s efforts to tackle this racism,
+      overall and in its social housing system, have had mixed results. People living
+      in Vienna can now move into social housing after residing in the city for two
+      years, but the social housing system has not, on the whole, welcomed residents
+      with migrant backgrounds at rates comparable to their population share.” To better
+      meet the needs of immigrants, Vienna still needs to increase the supply of the
+      very low-cost apartments. The bureaucratic barriers to obtaining a unit remain
+      too high for the decentralized, limited-profit model. “It’s got to be easier to
+      access the service, and the service has to be more affordable,” said Cohen. “From
+      a U.S. point of view, [to adopt such a model here,] you [would] have to build
+      that in.” (And concerningly, in keeping with the worldwide lurch towards reactionary
+      revanchism, some of Austria’s left-liberals are devolving towards a populist anti-migrant
+      stance in coalition with the right — an inhumane and reactionary position that
+      seeks to undermine social welfare by limiting it to what the right labels “real”
+      Austrians.) Better Visions of Home In the U.S., adopting some version of the Vienna
+      model would certainly come with vast challenges. However, the most severe obstacles
+      are not physical. Building structures and housing more people is well within our
+      capabilities. Reforms and regulations that can help mitigate inequality and discrimination
+      are just as conceivable. The primary challenge is the extreme opposition that
+      programs of this sort would face in the U.S., especially in the current climate.
+      The failure of President Joe Biden’s “Build Back Better” program foreclosed the
+      possibility of billions in housing relief . And Ocasio-Cortez’s and Bernie Sanders’s
+      Green New Deal for Housing Act , while it was reintroduced last year, shows no
+      signs of advancing at our current disastrous political juncture. Nevertheless,
+      seeking real resolution of the housing crisis could be a winning political platform,
+      says Cohen. Indeed, public opinion, as Data for Progress research has found ,
+      is firmly in favor of policy intervention. It’s perhaps most viable to pursue
+      a state level approach, though again, malicious opposition from the federal administration
+      represents a severe obstacle. Still, “If we could build housing, that would create
+      a political constituency that would be a winner,” said Cohen. “There are all these
+      little reforms [possible] here and there, but the main thing is that [Vienna]
+      just kept the policy commitment: housing is a human right, we’re going to keep
+      building it.” Cohen’s words present a compelling vision of a world in which our
+      human rights crises are confronted, rather than exacerbated in the interests of
+      profit. Robust public housing programs (including appealing and innovative new
+      developments based on promising ideas like shared land trusts ) can and do exist
+      in the U.S. But it takes a great deal of community and institutional backing and
+      expertise to realize and sustain them. Vienna possesses a century of momentum
+      to readily facilitate beautiful developments by the dozens. The U.S. failure to
+      strengthen and expand public housing is owed not to some innate flaw in the concept,
+      but rather to decades of racist stigma, state abdication, and sabotage by private
+      real estate interests. Social housing can be a vehicle for justice on numerous
+      fronts, helping to mitigate racism and discrimination, homelessness, mental health
+      crises and inequality writ large. Such meta-issues can form powerful coalitions
+      across divides. Moreover, it is an urgent moral necessity as the crisis of homelessness
+      enters catastrophic proportions with hundreds of thousands of Americans abandoned
+      on the streets on any given night — an unfathomable toll of suffering. In this
+      demoralized and fearful time, the public is in need of ways to join collectively
+      to combat our most grievous social problems. We can do so only by fighting not
+      just for ourselves, but for all those around us. Cohen memorably frames it this
+      way: “Social housing is solidarity you can touch.” Yet active, New-Deal-style
+      programs to address poverty and suffering — together with increased unity among
+      the working class — are things the reactionary right will fight tooth and nail
+      to undermine. This is as true in Austria as it is anywhere else; Vienna’s social
+      housing, for all its success, is “constantly pilloried in the right-wing press…
+      It gets accused of being housing for poor people and migrants,” Cohen said. “And
+      I say, great — let’s build more.” Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Tyler Walicek Tyler Walicek is a freelance
+      writer and journalist in Portland, Oregon. Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: The article discusses the challenges faced by advocates of
+      social services and public programs in the U.S., highlighting how their proposals
+      are often dismissed as unrealistic by critics who fail to recognize the necessity
+      of state-led interventions to address social crises.
+    paragraph_summary: In a recent article, Tyler Walicek discusses the stark contrast
+      between the U.S. and Vienna regarding social services and housing, highlighting
+      the American tendency to dismiss leftist proposals for public assistance as impractical.
+      He critiques the ideological resistance to state-led interventions, which overlooks
+      successful global examples like Vienna's social housing model, known as Gemeindebau.
+      This model not only provides high-quality, affordable housing to a significant
+      portion of the population but also incorporates sustainable design principles.
+      Walicek argues that the lessons from Vienna could inform and inspire similar initiatives
+      in the U.S., particularly in light of the ongoing housing crisis and the stalled
+      ambitions of a Green New Deal for Housing.
+    published: '2025-09-03T12:00:51+00:00'
+  - title: Trump Claims US Strike on Boat Near Venezuela Targeted Tren de Aragua Gang
+    url: https://scheerpost.com/2025/09/03/trump-claims-us-strike-on-boat-near-venezuela-targeted-tren-de-aragua-gang/
+    text: 'Screenshot from video released by White House. By Dave DeCamp / Antiwar.com
+      President Trump claimed in a post on Truth Social that a US military strike on
+      a boat near Venezuela targeted Tren de Aragua (TDA), a Venezuelan gang that the
+      Trump administration recently designated as a terrorist organization. The post
+      came after Secretary of State Marco Rubio said the US conducted a strike against
+      a boat that had departed Venezuela. “Earlier this morning, on my Orders, US Military
+      Forces conducted a kinetic strike against positively identified Tren de Aragua
+      Narcoterrorists in the SOUTHCOM area of responsibility,” the president said. Trump
+      posted a video of the strike and claimed that it killed 11 “terrorists,” though
+      no evidence has been provided to back up his claims. “No US Forces were harmed
+      in this strike. Please let this serve as notice to anybody even thinking about
+      bringing drugs into the United States of America,” Trump said. The president also
+      claimed that TDA is “operating under the control” of Venezuelan President Nicolas
+      Maduro, but that contradicts a recently declassified US intelligence memo that
+      said it was unlikely that Maduro’s government cooperates with or directs TDA.
+      ON VIDEO: U.S. Military Forces conducted a strike against Tren de Aragua Narcoterrorists.
+      The strike occurred while the terrorists were at sea in International waters transporting
+      illegal narcotics, heading to the U.S. The strike resulted in 11 terrorists killed
+      in action. pic.twitter.com/iszHE0ttxQ — The White House (@WhiteHouse) September
+      2, 2025 The memo from the Office of the Director of Intelligence, dated April
+      7, 2025 , said that some members of the Venezuelan government may tolerate or
+      cooperate with TDA, but Maduro and his top officials view the group as a threat.
+      “The Maduro regime probably does not have a policy of cooperating with TDA and
+      is not directing TDA movement to and operations in the United States,” the memo
+      states. Trump said the strike hit the boat while it was operating in international
+      waters. He also claimed that the boat was carrying drugs and heading to the US,
+      which contradicts earlier comments from Rubio, who told reporters that the drugs
+      that were allegedly carried on the boat were likely headed toward Trinidad and
+      Tobago or “some other country in the Caribbean.” Rep. Carlos Gimenez (R-FL) claimed
+      in a post on X that the US had sunk a boat belonging to the “Cartel of the Suns,”
+      a term used to describe a network of Venezuelan government and military officials
+      allegedly involved in drug trafficking, but does not actually exist as an organization
+      . The US has also designated the Cartel of the Sons as a terrorist organization
+      and claims Maduro is its leader, which he and other Latin American leaders deny
+      . The strike on the boat comes after the US has deployed at least nine warships
+      toward Venezuela , which is seen as a push toward another regime change effort
+      against Maduro. Rubio was a staunch supporter of the first regime change effort
+      when he was a senator, and according to a report from Axios , he is largely driving
+      Trump’s current Venezuela policy. Rubio recently announced that the bounty on
+      Maduro’s head was increased to $50 million, and the Trump administration has designated
+      several cartels, including the so-called Cartel of the Suns, as “Specially Designated
+      Global Terrorists.” One US official told Axios that the current operation against
+      Venezuela could be “Noriega part 2,” referring to the 1989 US invasion of Panama
+      that led to the ouster of Manuel Noriega. Maduro has vowed to fight if the US
+      attacks, warning on Monday that he will declare a “republic in arms.” Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Dave DeCamp Dave
+      DeCamp is the news editor of Antiwar.com, follow him on Twitter @decampdave. Author
+      Site Please share this story and help us grow our network!'
+    one_sentence_summary: President Trump announced on Truth Social that a US military
+      strike targeting the Venezuelan gang Tren de Aragua, recently designated as a
+      terrorist organization, resulted in the death of 11 members, although he provided
+      no evidence to support his claims.
+    paragraph_summary: In a recent post on Truth Social, former President Trump announced
+      that a US military strike targeted a boat associated with the Venezuelan gang
+      Tren de Aragua (TDA), which has been designated as a terrorist organization by
+      his administration. Trump claimed the strike, which took place in international
+      waters, resulted in the deaths of 11 "terrorists" and emphasized that no US forces
+      were harmed. He also suggested that TDA operates under the control of Venezuelan
+      President Nicolas Maduro, a statement that contradicts a declassified US intelligence
+      memo indicating that Maduro's government likely does not cooperate with TDA and
+      views it as a threat. The strike was framed as a warning against drug trafficking
+      into the United States, although no evidence has been provided to support Trump's
+      claims about the operation.
+    published: '2025-09-03T11:56:44+00:00'
+  - title: Trump Claims US Strike on Boat Near Venezuela Targeted Tren de Aragua Gang
+    url: https://scheerpost.com/2025/09/03/trump-claims-us-strike-on-boat-near-venezuela-targeted-tren-de-aragua-gang/
+    text: 'Screenshot from video released by White House. By Dave DeCamp / Antiwar.com
+      President Trump claimed in a post on Truth Social that a US military strike on
+      a boat near Venezuela targeted Tren de Aragua (TDA), a Venezuelan gang that the
+      Trump administration recently designated as a terrorist organization. The post
+      came after Secretary of State Marco Rubio said the US conducted a strike against
+      a boat that had departed Venezuela. “Earlier this morning, on my Orders, US Military
+      Forces conducted a kinetic strike against positively identified Tren de Aragua
+      Narcoterrorists in the SOUTHCOM area of responsibility,” the president said. Trump
+      posted a video of the strike and claimed that it killed 11 “terrorists,” though
+      no evidence has been provided to back up his claims. “No US Forces were harmed
+      in this strike. Please let this serve as notice to anybody even thinking about
+      bringing drugs into the United States of America,” Trump said. The president also
+      claimed that TDA is “operating under the control” of Venezuelan President Nicolas
+      Maduro, but that contradicts a recently declassified US intelligence memo that
+      said it was unlikely that Maduro’s government cooperates with or directs TDA.
+      ON VIDEO: U.S. Military Forces conducted a strike against Tren de Aragua Narcoterrorists.
+      The strike occurred while the terrorists were at sea in International waters transporting
+      illegal narcotics, heading to the U.S. The strike resulted in 11 terrorists killed
+      in action. pic.twitter.com/iszHE0ttxQ — The White House (@WhiteHouse) September
+      2, 2025 The memo from the Office of the Director of Intelligence, dated April
+      7, 2025 , said that some members of the Venezuelan government may tolerate or
+      cooperate with TDA, but Maduro and his top officials view the group as a threat.
+      “The Maduro regime probably does not have a policy of cooperating with TDA and
+      is not directing TDA movement to and operations in the United States,” the memo
+      states. Trump said the strike hit the boat while it was operating in international
+      waters. He also claimed that the boat was carrying drugs and heading to the US,
+      which contradicts earlier comments from Rubio, who told reporters that the drugs
+      that were allegedly carried on the boat were likely headed toward Trinidad and
+      Tobago or “some other country in the Caribbean.” Rep. Carlos Gimenez (R-FL) claimed
+      in a post on X that the US had sunk a boat belonging to the “Cartel of the Suns,”
+      a term used to describe a network of Venezuelan government and military officials
+      allegedly involved in drug trafficking, but does not actually exist as an organization
+      . The US has also designated the Cartel of the Sons as a terrorist organization
+      and claims Maduro is its leader, which he and other Latin American leaders deny
+      . The strike on the boat comes after the US has deployed at least nine warships
+      toward Venezuela , which is seen as a push toward another regime change effort
+      against Maduro. Rubio was a staunch supporter of the first regime change effort
+      when he was a senator, and according to a report from Axios , he is largely driving
+      Trump’s current Venezuela policy. Rubio recently announced that the bounty on
+      Maduro’s head was increased to $50 million, and the Trump administration has designated
+      several cartels, including the so-called Cartel of the Suns, as “Specially Designated
+      Global Terrorists.” One US official told Axios that the current operation against
+      Venezuela could be “Noriega part 2,” referring to the 1989 US invasion of Panama
+      that led to the ouster of Manuel Noriega. Maduro has vowed to fight if the US
+      attacks, warning on Monday that he will declare a “republic in arms.” Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Dave DeCamp Dave
+      DeCamp is the news editor of Antiwar.com, follow him on Twitter @decampdave. Author
+      Site Please share this story and help us grow our network!'
+    one_sentence_summary: President Trump announced on Truth Social that a US military
+      strike targeting the Venezuelan gang Tren de Aragua, recently designated as a
+      terrorist organization, resulted in the death of 11 members, although he provided
+      no evidence to support his claims.
+    paragraph_summary: In a recent post on Truth Social, former President Trump announced
+      that a US military strike targeted a boat associated with the Venezuelan gang
+      Tren de Aragua (TDA), which has been designated as a terrorist organization by
+      his administration. Trump claimed the strike, which took place in international
+      waters, resulted in the deaths of 11 "terrorists" and emphasized that no US forces
+      were harmed. He also suggested that TDA operates under the control of Venezuelan
+      President Nicolas Maduro, a statement that contradicts a declassified US intelligence
+      memo indicating that Maduro's government likely does not cooperate with TDA and
+      views it as a threat. The strike was framed as a warning against drug trafficking
+      into the United States, although no evidence has been provided to support Trump's
+      claims about the operation.
+    published: '2025-09-03T11:56:44+00:00'
+  - title: Manufactured Famines in Gaza Began Almost 2 Decades Ago, so Why Haven’t They
+      Been Halted?
+    url: https://scheerpost.com/2025/09/03/manufactured-famines-in-gaza-began-almost-2-decades-ago-so-why-havent-they-been-halted/
+    text: 'Nahal Oz – the security fence. Roded Shlomo Pikiwiki Israel, CC BY 2.5 https://creativecommons.org/licenses/by/2.5
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Dan Steinbock / Informed Comment New York (Special to Informed Comment;
+      Feature) – Recently, international media has highlighted the mass famine in Gaza.
+      Yet, there have been effectively three waves of famine in Gaza since spring 2024.
+      First weaponized 18 years ago in the Strip, these hunger games could have been
+      preempted several times. Why weren’t they? On Friday, August 22, the Integrated
+      Food Security Phase Classification (IPC), the global famine watchdog, declared
+      widespread famine in Gaza. The IPC is regarded as the international gold standard
+      in nutritional crises. As international media was quick to point out, the declaration
+      meant that a quarter of all Palestinians in Gaza are starving – more than 500,000
+      people – with that number expected to rise to more than 640,000 within six weeks.
+      Projected Acute Food Insecurity | 16 August – 30 September 2025. Source: IPC,
+      Aug 22, 2025. https://www.ipcinfo.org/fileadmin/user_upload/ipcinfo/docs/IPC_Gaza_Strip_Acute_Food_Insecurity_Malnutrition_July_Sept2025_Special_Snapshot.pdf
+      What was most damning to most international media is that this outbreak of full
+      famine as described by the IPC and UN agencies had been fully avoidable. What
+      should be far, far more damning is that several waves of famines have been widespread
+      in Gaza for some 20 months and that precarious conditions of life and episodic
+      famines have prevailed episodically in the Strip since 2007 – that is, for almost
+      two decades. The blockade since 2006 In the 2006 Palestinian election, when Hamas
+      won a clear majority in all occupied Palestinian territories, Israel and the Middle
+      East Quartet — U.S., Russia, the UN and EU — launched economic sanctions against
+      the Palestinian Authority, Hamas’s parliamentarians and Palestinian territories.
+      The sanctions were coupled with a blockade, Israel’s attempt to push the Gazan
+      economy “to the brink of collapse,” according to a U.S. diplomatic cable released
+      by Wikileaks. With the inception of its blockade in 2007, the Israeli government
+      estimated how many daily calories were needed to prevent or to cause malnutrition
+      in Gaza. The average daily calorie intake critical to survival is estimated at
+      2,100 kilocalories (kcal) per day. The Israeli “Red Line” document used a calculation
+      of 2,279 calories per person. During the 2008–2009 Gaza War, the Strip was subjected
+      to a “ Shoah ” (Hebrew for Holocaust), as Deputy Defense Minister Matan Vilnai
+      said. The idea was to “send Gaza decades into the past,” stated then commanding
+      general Yoav Gallant. Some 15 years later, Gallant was targeted by an International
+      Criminal Court warrant “for the war crimes of starvation as a method of warfare.”
+      But in 2009, he and other Israeli leaders complicit in the starvation games were
+      ignored by international community. The first wave of famine By early 2023—months
+      before October 7—four of five Gaza’s residents were largely dependent on humanitarian
+      aid and many suffered from widespread food insecurity, thanks to the Israeli total
+      blockade. In March 2024, the 10-year-old Palestinian boy, Yazan al-Kafarneh, became
+      the face of Gaza’s children. He died from malnourishment. Then, just two days
+      after the Hamas offensive of October 7, 2023, Israel blocked the entry of food
+      and water into the Gaza Strip, as it initiated a massive, largely indiscriminate
+      bombardment, with subsequent ground operations. By December 2023, over 90 percent
+      of the Gaza population was estimated to face high levels of acute food insecurity,
+      with 40 percent at emergency levels and over 15 percent at catastrophe levels.
+      The UN experts cautioned of genocide, warning that Israel was destroying Gaza’s
+      food system and using food as a weapon against the Palestinian people. Despite
+      mounting evidence, the head of Israel’s Coordination of Government Activities
+      in the Territories (COGAT) for Gaza stated there was no food shortage in Gaza.
+      The IDF alleged Hamas stole humanitarian aid, killed people seeking humanitarian
+      aid and kept its own supply reserves. Yet, both the U.S. and the UN denied Israeli
+      claims that Hamas caused the famine. It was the first wave of famine in Gaza.
+      The second wave of famine By June 2024, the IPC reported that the entire Gaza
+      population remained at high risk of famine. Three months later, the UN concluded
+      that through its “total siege… Israel’s use of starvation as a method of war would
+      affect the entire population of the Gaza Strip for decades to come, with particularly
+      negative consequences for children.” As the IPC estimates indicated, the second
+      wave was expected to peak in early 2025. That it did not happen was due to the
+      ceasefire in January 2025. A second bout of famine was to be facilitated by a
+      controversial General’s Plan,” led by Maj. Gen. (ret.) Giora Eiland, to lay siege
+      to northern Gaza. It was a plan PM Netanyahu was considering. Eiland argued that
+      “Gaza women are the mothers, sisters, and spouses of Hamas murderers.” So, “epidemics
+      in the South [of Gaza] will bring victory closer.” In late 2024, the IPC projected
+      that through spring 2025, Gaza would remain in an emergency state regarding food
+      insecurity. Some 345,000 people would face extreme lack of food, starvation and
+      exhaustion of their livelihoods and almost 900,000 would be in emergency state.
+      When the ceasefire fell apart, the second famine wave ensued and Israel blocked
+      all humanitarian assistance to Palestinians in Gaza after March 1, 2025. A month
+      later, at least 60,000 children in Gaza were at risk of serious health complications
+      due to malnutrition. Toward the third famine wave By the end of September, more
+      than 640 000 people across Gaza will face Catastrophic levels of food insecurity
+      ; classified as IPC Phase 5. An additional 1.14 million people in the territory
+      will be in Emergency (IPC Phase 4) and a further 396 000 people in Crisis (IPC
+      Phase 3) conditions. Conditions in North Gaza are estimated to be as severe –
+      or worse – than in Gaza City. In comparative historical view, weaponized mass
+      starvation is the common denominator of settler colonialism, including American
+      Indian Wars, the German Herero and Nama genocide, the Nazi Hungerplan all the
+      way to the Yemeni civil war and the genocidal atrocities in Gaza. In this role,
+      it is often associated with ethnic cleansing, as the pioneer of the Genocide Convention
+      Raphael Lemkin noted, “after removal of the population and the colonization of
+      the area by the oppressor’s own nationals”. What about Gaza? Measured in terms
+      of total food deliveries into the Strip since October 2023, the calorie intake
+      was about 860 kcal, a third less than in the Nazi camps over eight decades ago.
+      As the German invasion of the Soviet Union failed and the tide of World War II
+      shifted, the Nazi camps deteriorated, with the daily intake shrinking to 700 kcal
+      in 1944. That’s almost three times the intake of 245 kcal in northern Gaza in
+      the first half of the year 2024, when the New York Post famously headlined that
+      there was no famine in the Strip. Weaponization of Starvation: Selected Historical
+      Examples. Source: Dan Steinbock (2025) The Obliteration Doctrine, Chapter 1. Missed
+      preemption opportunities In May 2018, the UN Security Council adopted unanimously
+      resolution 2417 condemning the starving of civilians as a method of warfare and
+      the unlawful denial of humanitarian access to civilian populations. Yet, in the
+      course of the Gaza catastrophe, most tenets of UNSC Resolution 2417 have been
+      consistently violated. The recent “moral outrage” can be seen as the West’s belated
+      effort at absolution. In the past 18 years, the path to Gaza’s genocide and mass
+      starvation could have been preempted several times. In 2006, instead of sanctions,
+      the West could have accepted the results of the Palestinian democratic elections.
+      Instead of the subsequent blockade and other regime change efforts, the West could
+      have fostered peaceful development. In 2007, the US could have condemned Israel’s
+      deliberate effort to cause a widespread famine in Gaza. Subsequently, the West
+      could have intermediated peace talks between Israel and Hamas/Palestinian Authority.
+      As Mossad’s ex-chief Efraim Halevy has said, mutual recognition is not a necessary
+      precondition of talks, but the preferred end result. In fall 2023, when Israel
+      declared unilateral siege against Gaza, the West could have preempted the effort
+      with appropriate pressure – U.S. by halting arms transfers, the EU by pausing
+      trade – and used the opportunity to initiate the peace process. In 2024 when Israel
+      triggered the second famine wave in Gaza, the West could have escalated pressure,
+      halt all arms sales and trade with Israel. In 2025, when Israel rejected the ceasefire
+      and intensified Gaza’s mass starvation, the West could have insulated the country
+      from the UN and international community, as it once did with South Africa. When
+      several Israeli intelligence and security leaders openly charge their country
+      for apartheid rule, it is exceedingly hard to understand why the Western powers
+      of the international community would ignore such charges. That each of these fatal
+      steps in the path to mass starvation and genocide were purposely ignored by the
+      West and vetoed by the United States suggests that “moral outrage” became useful
+      only when the entire Gaza had been decimated and an entire generation of Gazans
+      had been butchered. It is this deliberate sanctification of mass butchery that
+      will cast a long dark shadow over the West and everything it claims to represent
+      in the early 21 st century. Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Dan Steinbock Dan Steinbock is the
+      author of The Obliteration Doctrine and The Fall of Israel , . He is the founder
+      of Difference Group and has served at the India, China and America Institute (US),
+      Shanghai Institute for International Studies (China) and the EU Center (Singapore).
+      For more, see https://www.differencegroup.net/ Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: The article discusses the ongoing famine in Gaza, which has
+      been exacerbated by long-standing conflicts and mismanagement, highlighting its
+      declaration as widespread by the Integrated Food Security Phase Classification
+      (IPC) and questioning the lack of preventive measures over the years.
+    paragraph_summary: The article discusses the severe famine crisis in Gaza, which
+      has been exacerbated by a long-standing blockade and political tensions, particularly
+      since Hamas's electoral victory in 2006. Recently, the Integrated Food Security
+      Phase Classification (IPC) declared widespread famine in the region, affecting
+      over 500,000 Palestinians, with projections indicating that this number could
+      rise significantly in the coming weeks. The article criticizes the international
+      community for failing to address the root causes of the famine, highlighting that
+      the situation has been preventable and that Gaza has faced multiple waves of famine
+      for nearly two decades. The author calls for greater awareness and action to alleviate
+      the humanitarian crisis in Gaza.
+    published: '2025-09-03T11:46:28+00:00'
+  - title: Manufactured Famines in Gaza Began Almost 2 Decades Ago, so Why Haven’t They
+      Been Halted?
+    url: https://scheerpost.com/2025/09/03/manufactured-famines-in-gaza-began-almost-2-decades-ago-so-why-havent-they-been-halted/
+    text: 'Nahal Oz – the security fence. Roded Shlomo Pikiwiki Israel, CC BY 2.5 https://creativecommons.org/licenses/by/2.5
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Dan Steinbock / Informed Comment New York (Special to Informed Comment;
+      Feature) – Recently, international media has highlighted the mass famine in Gaza.
+      Yet, there have been effectively three waves of famine in Gaza since spring 2024.
+      First weaponized 18 years ago in the Strip, these hunger games could have been
+      preempted several times. Why weren’t they? On Friday, August 22, the Integrated
+      Food Security Phase Classification (IPC), the global famine watchdog, declared
+      widespread famine in Gaza. The IPC is regarded as the international gold standard
+      in nutritional crises. As international media was quick to point out, the declaration
+      meant that a quarter of all Palestinians in Gaza are starving – more than 500,000
+      people – with that number expected to rise to more than 640,000 within six weeks.
+      Projected Acute Food Insecurity | 16 August – 30 September 2025. Source: IPC,
+      Aug 22, 2025. https://www.ipcinfo.org/fileadmin/user_upload/ipcinfo/docs/IPC_Gaza_Strip_Acute_Food_Insecurity_Malnutrition_July_Sept2025_Special_Snapshot.pdf
+      What was most damning to most international media is that this outbreak of full
+      famine as described by the IPC and UN agencies had been fully avoidable. What
+      should be far, far more damning is that several waves of famines have been widespread
+      in Gaza for some 20 months and that precarious conditions of life and episodic
+      famines have prevailed episodically in the Strip since 2007 – that is, for almost
+      two decades. The blockade since 2006 In the 2006 Palestinian election, when Hamas
+      won a clear majority in all occupied Palestinian territories, Israel and the Middle
+      East Quartet — U.S., Russia, the UN and EU — launched economic sanctions against
+      the Palestinian Authority, Hamas’s parliamentarians and Palestinian territories.
+      The sanctions were coupled with a blockade, Israel’s attempt to push the Gazan
+      economy “to the brink of collapse,” according to a U.S. diplomatic cable released
+      by Wikileaks. With the inception of its blockade in 2007, the Israeli government
+      estimated how many daily calories were needed to prevent or to cause malnutrition
+      in Gaza. The average daily calorie intake critical to survival is estimated at
+      2,100 kilocalories (kcal) per day. The Israeli “Red Line” document used a calculation
+      of 2,279 calories per person. During the 2008–2009 Gaza War, the Strip was subjected
+      to a “ Shoah ” (Hebrew for Holocaust), as Deputy Defense Minister Matan Vilnai
+      said. The idea was to “send Gaza decades into the past,” stated then commanding
+      general Yoav Gallant. Some 15 years later, Gallant was targeted by an International
+      Criminal Court warrant “for the war crimes of starvation as a method of warfare.”
+      But in 2009, he and other Israeli leaders complicit in the starvation games were
+      ignored by international community. The first wave of famine By early 2023—months
+      before October 7—four of five Gaza’s residents were largely dependent on humanitarian
+      aid and many suffered from widespread food insecurity, thanks to the Israeli total
+      blockade. In March 2024, the 10-year-old Palestinian boy, Yazan al-Kafarneh, became
+      the face of Gaza’s children. He died from malnourishment. Then, just two days
+      after the Hamas offensive of October 7, 2023, Israel blocked the entry of food
+      and water into the Gaza Strip, as it initiated a massive, largely indiscriminate
+      bombardment, with subsequent ground operations. By December 2023, over 90 percent
+      of the Gaza population was estimated to face high levels of acute food insecurity,
+      with 40 percent at emergency levels and over 15 percent at catastrophe levels.
+      The UN experts cautioned of genocide, warning that Israel was destroying Gaza’s
+      food system and using food as a weapon against the Palestinian people. Despite
+      mounting evidence, the head of Israel’s Coordination of Government Activities
+      in the Territories (COGAT) for Gaza stated there was no food shortage in Gaza.
+      The IDF alleged Hamas stole humanitarian aid, killed people seeking humanitarian
+      aid and kept its own supply reserves. Yet, both the U.S. and the UN denied Israeli
+      claims that Hamas caused the famine. It was the first wave of famine in Gaza.
+      The second wave of famine By June 2024, the IPC reported that the entire Gaza
+      population remained at high risk of famine. Three months later, the UN concluded
+      that through its “total siege… Israel’s use of starvation as a method of war would
+      affect the entire population of the Gaza Strip for decades to come, with particularly
+      negative consequences for children.” As the IPC estimates indicated, the second
+      wave was expected to peak in early 2025. That it did not happen was due to the
+      ceasefire in January 2025. A second bout of famine was to be facilitated by a
+      controversial General’s Plan,” led by Maj. Gen. (ret.) Giora Eiland, to lay siege
+      to northern Gaza. It was a plan PM Netanyahu was considering. Eiland argued that
+      “Gaza women are the mothers, sisters, and spouses of Hamas murderers.” So, “epidemics
+      in the South [of Gaza] will bring victory closer.” In late 2024, the IPC projected
+      that through spring 2025, Gaza would remain in an emergency state regarding food
+      insecurity. Some 345,000 people would face extreme lack of food, starvation and
+      exhaustion of their livelihoods and almost 900,000 would be in emergency state.
+      When the ceasefire fell apart, the second famine wave ensued and Israel blocked
+      all humanitarian assistance to Palestinians in Gaza after March 1, 2025. A month
+      later, at least 60,000 children in Gaza were at risk of serious health complications
+      due to malnutrition. Toward the third famine wave By the end of September, more
+      than 640 000 people across Gaza will face Catastrophic levels of food insecurity
+      ; classified as IPC Phase 5. An additional 1.14 million people in the territory
+      will be in Emergency (IPC Phase 4) and a further 396 000 people in Crisis (IPC
+      Phase 3) conditions. Conditions in North Gaza are estimated to be as severe –
+      or worse – than in Gaza City. In comparative historical view, weaponized mass
+      starvation is the common denominator of settler colonialism, including American
+      Indian Wars, the German Herero and Nama genocide, the Nazi Hungerplan all the
+      way to the Yemeni civil war and the genocidal atrocities in Gaza. In this role,
+      it is often associated with ethnic cleansing, as the pioneer of the Genocide Convention
+      Raphael Lemkin noted, “after removal of the population and the colonization of
+      the area by the oppressor’s own nationals”. What about Gaza? Measured in terms
+      of total food deliveries into the Strip since October 2023, the calorie intake
+      was about 860 kcal, a third less than in the Nazi camps over eight decades ago.
+      As the German invasion of the Soviet Union failed and the tide of World War II
+      shifted, the Nazi camps deteriorated, with the daily intake shrinking to 700 kcal
+      in 1944. That’s almost three times the intake of 245 kcal in northern Gaza in
+      the first half of the year 2024, when the New York Post famously headlined that
+      there was no famine in the Strip. Weaponization of Starvation: Selected Historical
+      Examples. Source: Dan Steinbock (2025) The Obliteration Doctrine, Chapter 1. Missed
+      preemption opportunities In May 2018, the UN Security Council adopted unanimously
+      resolution 2417 condemning the starving of civilians as a method of warfare and
+      the unlawful denial of humanitarian access to civilian populations. Yet, in the
+      course of the Gaza catastrophe, most tenets of UNSC Resolution 2417 have been
+      consistently violated. The recent “moral outrage” can be seen as the West’s belated
+      effort at absolution. In the past 18 years, the path to Gaza’s genocide and mass
+      starvation could have been preempted several times. In 2006, instead of sanctions,
+      the West could have accepted the results of the Palestinian democratic elections.
+      Instead of the subsequent blockade and other regime change efforts, the West could
+      have fostered peaceful development. In 2007, the US could have condemned Israel’s
+      deliberate effort to cause a widespread famine in Gaza. Subsequently, the West
+      could have intermediated peace talks between Israel and Hamas/Palestinian Authority.
+      As Mossad’s ex-chief Efraim Halevy has said, mutual recognition is not a necessary
+      precondition of talks, but the preferred end result. In fall 2023, when Israel
+      declared unilateral siege against Gaza, the West could have preempted the effort
+      with appropriate pressure – U.S. by halting arms transfers, the EU by pausing
+      trade – and used the opportunity to initiate the peace process. In 2024 when Israel
+      triggered the second famine wave in Gaza, the West could have escalated pressure,
+      halt all arms sales and trade with Israel. In 2025, when Israel rejected the ceasefire
+      and intensified Gaza’s mass starvation, the West could have insulated the country
+      from the UN and international community, as it once did with South Africa. When
+      several Israeli intelligence and security leaders openly charge their country
+      for apartheid rule, it is exceedingly hard to understand why the Western powers
+      of the international community would ignore such charges. That each of these fatal
+      steps in the path to mass starvation and genocide were purposely ignored by the
+      West and vetoed by the United States suggests that “moral outrage” became useful
+      only when the entire Gaza had been decimated and an entire generation of Gazans
+      had been butchered. It is this deliberate sanctification of mass butchery that
+      will cast a long dark shadow over the West and everything it claims to represent
+      in the early 21 st century. Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Dan Steinbock Dan Steinbock is the
+      author of The Obliteration Doctrine and The Fall of Israel , . He is the founder
+      of Difference Group and has served at the India, China and America Institute (US),
+      Shanghai Institute for International Studies (China) and the EU Center (Singapore).
+      For more, see https://www.differencegroup.net/ Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: The article discusses the ongoing famine in Gaza, which has
+      been exacerbated by long-standing conflicts and mismanagement, highlighting its
+      declaration as widespread by the Integrated Food Security Phase Classification
+      (IPC) and questioning the lack of preventive measures over the years.
+    paragraph_summary: The article discusses the severe famine crisis in Gaza, which
+      has been exacerbated by a long-standing blockade and political tensions, particularly
+      since Hamas's electoral victory in 2006. Recently, the Integrated Food Security
+      Phase Classification (IPC) declared widespread famine in the region, affecting
+      over 500,000 Palestinians, with projections indicating that this number could
+      rise significantly in the coming weeks. The article criticizes the international
+      community for failing to address the root causes of the famine, highlighting that
+      the situation has been preventable and that Gaza has faced multiple waves of famine
+      for nearly two decades. The author calls for greater awareness and action to alleviate
+      the humanitarian crisis in Gaza.
+    published: '2025-09-03T11:46:28+00:00'
   - title: GHF Contractor Tells All On Genocidal Israeli ‘Aid’ Plan (w/ Anthony Aguilar)
       | The Chris Hedges Report
     url: https://scheerpost.com/2025/09/02/ghf-contractor-tells-all-on-genocidal-israeli-aid-plan-w-anthony-aguilar-the-chris-hedges-report/

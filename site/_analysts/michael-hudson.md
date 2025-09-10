@@ -8,22 +8,1616 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  As the global order continues to shift in early September 2025, economic and geopolitical fault lines are becoming increasingly pronounced. The collapse of Ukraine as a NATO proxy and the subsequent pivot of Western strategy, alongside deepening financial imbalances in the West, are shaping the next phase of international relations.
+  The latest Shanghai Cooperation Organization (SCO) summit in Tianjin has accelerated a realignment of global power, as Global Majority nations intensify efforts to reduce their economic dependence on the United States. This shift, highlighted by **Michael Hudson** in his September 9 analysis, is characterized by a coordinated push for mutual trade and investment frameworks among SCO members, aiming to insulate themselves from what they perceive as U.S. economic aggression. Western media, according to Hudson, continues to frame these developments as overtly hostile, largely ignoring the defensive motivations driving these policies.
   
-  **NATO’s Strategic Realignment Post-Ukraine**
+  This movement is not isolated. The recent SCO meetings, as detailed in Hudson’s September 8 report, underscore the emergence of two distinct global blocs: one centered around the U.S. and its allies, and another led by the Global Majority, including China, Russia, and key partners in the Global South. These countries are actively developing independent trade, monetary, and military systems, signaling a decisive break from the post-Cold War unipolar order.
   
-  Following the effective collapse of Ukraine as a Western-backed front, **Michael Hudson** notes that recent diplomatic meetings reveal a clear shift in NATO’s focus. According to Hudson, “Trump is steering NATO towards new proxy wars following the collapse of Ukraine, suggesting a shift in focus away from the conflict as Russia is poised to take control.” This marks a significant recalibration of Western military priorities, with the U.S. and its allies now seeking new theaters for proxy confrontation. The majority of analysts agree that the Ukraine conflict is no longer central to NATO’s agenda, and that the alliance is actively preparing for engagement elsewhere.
+  The broader context, as Hudson has repeatedly argued, is a late-stage crisis in the Western economic model. He draws historical parallels to the collapse of ancient societies, noting that unsustainable debt and extractive economic practices have often preceded systemic breakdowns. The current trajectory, he suggests, mirrors these patterns, with the U.S. and its allies increasingly reliant on financial and military leverage to maintain their global position.
   
-  **Economic Pressures and the Role of Debt**
-  
-  Drawing parallels with the decline of ancient societies, **Michael Hudson** emphasizes the destabilizing impact of debt on modern economies. In his latest analysis, he warns that the “significant role of debt in the histories of ancient Greece and Rome” is being echoed in the U.S. and Europe today. The dominance of large investment firms in the housing market, particularly Blackstone, has led to rising rents and increased homelessness—a trend now visible across much of the Western world. This concentration of economic power is exacerbating social tensions and undermining economic stability.
-  
-  **Predictions and Trends**
-  
-  Looking ahead, the prevailing view among independent analysts is that the U.S. and NATO will most definitely continue to seek new geopolitical flashpoints to maintain global influence, with high confidence that Ukraine will recede from the headlines as Russia consolidates control. Economically, the West faces a high chance of further instability as debt burdens mount and wealth becomes increasingly concentrated. The echoes of past imperial collapses are growing louder, suggesting that without structural reforms, the current trajectory is unsustainable.
-  
-  In summary, the West is entering a period of strategic and economic uncertainty, with new proxy conflicts likely to emerge and internal financial pressures threatening long-term stability.
+  Looking ahead, the trend toward bloc formation is “most definitely” set to continue, with high confidence that the Global Majority will further institutionalize alternatives to Western-dominated systems. Hudson predicts that attempts by the U.S. to counter these moves—whether through sanctions, tariffs, or diplomatic pressure—will only accelerate the process. The world is entering a period of intensified geopolitical bifurcation, with the SCO and its partners poised to play a central role in shaping the emerging post-Western order.
 articles:
+  - title: 'Eurasia realigns in face of late-stage barbarism: Michael Hudson on new
+      post-Western world order'
+    url: https://geopoliticaleconomy.com/2025/09/09/eurasia-sco-michael-hudson-post-western-world-order/
+    text: 'The Shanghai Cooperation Organization’s meeting in Tianjin, China on September
+      1 took a remarkable step forward in defining how the world will be dividing into
+      two great blocs, as Global Majority countries seek to free their economies not
+      only from Donald Trump’s tariff chaos, but from the U.S. government’s increasingly
+      Hot War attempts to impose unipolar control on the entire world’s economy, by
+      isolating countries seeking to resist this control with trade and monetary chaos,
+      as well as direct military confrontation.
+
+
+      The SCO meeting became a pragmatic forum to define the basic principles that are
+      to replace other countries’ trade, monetary, and military independence from the
+      U.S. with mutual trade and investment among themselves, increasingly isolated
+      from reliance on U.S. markets for their exports, U.S. credit for their domestic
+      economies, and U.S. dollars for trade and investment transactions among themselves.
+
+
+      The principles announced by China’s President Xi, Russian President Putin, and
+      other SCO members set the stage for spelling out in detail the principle of a
+      new international economic order along the lines that were promised 80 years ago
+      at the end of World War II, but that have been twisted beyond all recognition
+      into what Asian and other Global Majority countries hope will have been just a
+      long detour in history away from the basic rules of civilization and its international
+      diplomacy, trade, and finance.
+
+
+      It really should not be surprising that not a word of these principles or their
+      motivation has appeared in the mainstream Western press. The New York Times depicted
+      the meetings in China as a plan of aggression against the United States, not as
+      a response to U.S. acts.
+
+
+      President Donald Trump summarized this attitude most succinctly in a Truth Social
+      post directed at President Xi: “Please give my warmest regards to Vladimir Putin,
+      and Kim Jong Un, as you conspire against The United States of America.”
+
+
+      U.S. press coverage of the SCO meetings in China presents a foreshortened perspective
+      that reminds me of the famous Hokusai etching of a close-up tree in the foreground
+      completely overshadowing the distant city in the background. Whatever the international
+      topic is, it’s all about the United States. The basic model is a foreign government’s
+      adversity toward the United States, with no mention of such policies being a defensive
+      response against U.S. belligerence toward the foreigner.
+
+
+      The press treatment of the SCO meetings and its geopolitical discussions has a
+      remarkable similarity with its treatment of NATO’s war against Russia in Ukraine.
+      Both events are seen as if they are all about the United States (and its allies),
+      not about China, Russia, India, Central Asian nations, and other countries acting
+      to promote their own attempts to create orderly and mutually beneficial trade
+      and investment.
+
+
+      Just as the war in Ukraine is depicted as a Russian invasion (with no mention
+      of its defense against NATO’s attack on Russia’s own security), the SCO summit
+      in Tianjin and subsequent meetings in Beijing were depicted as confrontational
+      scheming against the West, as if the meetings were about the United States and
+      Europe.
+
+
+      On September 3, the German chancellor, Friedrich Merz, called Putin “the most
+      serious war criminal of our time,” as it was Russia that attacked innocent Ukraine,
+      not vice versa from the 2014 coup onward. As Putin commented on Merz’s accusation:
+      “we do not assume that any new dominant states should appear. Everyone should
+      be on an equal footing.”
+
+
+      The military parade in Beijing that followed the SCO meeting was a reminder to
+      the world that the international agreements that created the United Nations and
+      other organizations at the end of World War II were supposed to end fascism and
+      introduce a fair and equitable world order based on the United Nations’ principles.
+      To depict this frame of the meetings as a threat to the West is to deny that it
+      is the West itself that has abandoned and indeed reversed the seemingly multilateral
+      principles promised in 1944-45.
+
+
+      The U.S. and European treatment of the SCO meetings as shaped entirely by antipathy
+      toward the West is not merely an expression of Western narcissism; it was a deliberately
+      censorial policy of not discussing the ways in which an alternative to U.S.-sponsored
+      neoliberal economic order are being developed.
+
+
+      NATO head Mark Rutte made it clear that there was to be no thought that there
+      even was such a thing as a policy by countries to create an alternative and more
+      productive economic order, when he complained that Putin was getting too much
+      attention. That meant not to discuss what really happened in China – and how it
+      is a landmark in introducing a new economic order, but not one that includes the
+      West.
+
+
+      President Putin explained in a press conference that confrontation was not at
+      all the focus. The speeches and press conferences spelled out the details of what
+      was necessary to consolidating relations among themselves. Specifically, how will
+      Asia and the Global South simply go their own way, with minimum contact and exposure
+      to the West’s aggressive economic and military behavior.
+
+
+      The only military confrontation that is threatened is by NATO, from Ukraine to
+      the Baltic Sea, Syria, Gaza, the South China Sea, Venezuela, and North Africa.
+      But the real threat is the West’s neoliberal financialization and privatization,
+      Thatcherism and Reaganomics.
+
+
+      The SCO and BRICS (as are now being discussed in follow-up meetings) want to avoid
+      the falling living standards and economies as the West deindustrializes. They
+      want rising living standards and productivity. This attempt to create an alternative,
+      more productive plan of economic development is what isn’t being discussed in
+      the West.
+
+
+      This great split is best epitomized by the Power of Siberia 2 pipeline. This gas
+      was planned to go to Europe, feeding into Nord Stream. That has all ended. Siberian
+      gas will now go to Mongolia and China. It powered European industry in the past;
+      now it will do the same for China and Mongolia, leaving Europe to depend on U.S.
+      LNG exports and declining North Sea supplies at much higher prices.
+
+
+      Geopolitical upshots of the SCO meeting
+
+
+      The contrast between the successful consolidation of SCO/BRICS trade, investment,
+      and payments arrangements and the U.S. destabilization makes it difficult for
+      countries to try to join both the US/NATO bloc and the BRICS/Global South countries.
+
+
+      The pressure is especially strong on Turkey and Saudi Arabia. They were invited
+      to join BRICS, and the Arab countries are especially financially exposed to the
+      dollar and also host U.S. military bases. (India has reportedly blocked Azerbaijan
+      from joining the SCO, due to its close ties to Pakistan.)
+
+
+      Two dynamics are at work. On the one hand, the BRICS and Global Majority are trying
+      to defend themselves against US/NATO economic aggression, and to de-dollarize
+      their economies so as to minimize trade dependence on the U.S. market. That saves
+      them from the U.S. weaponizing its foreign trade and monetary system and from
+      blocking their access to supply chains that have been put in place, thereby disrupting
+      their economies.
+
+
+      The other dynamic is that the U.S. economy is becoming less attractive as it polarizes
+      and shrinks, as a result of its financialization and rising debt overhead. It
+      is becoming inflationary, subject to a debt-leveraged financial bubble that is
+      at increasing risk of sudden collapse.
+
+
+      This basic moral contrast catalyzes the contrast of economic systems and policy
+      between oligarchic privatized and financialized markets (neoliberalism) and industrial
+      socialist economies. This socialism is the logical extension of the dynamic of
+      early industrial capitalism, seeking to rationalize production and minimize waste
+      and unnecessary costs imposed by rent-seeking classes demanding income without
+      playing a productive role – landlords, monopolists, and the financial sector.
+
+
+      The great problem, of course, is that the Americans want to blow up the world
+      if they can’t control it and dominate all other countries. Alastair Crooke warned
+      that the Evangelical Christian movement sees this as an opportunity for a conflagration
+      that will see Jesus return and convert the world to Christian jihadism.
+
+
+      The term “late-stage barbarism” is now being used throughout much of the internet
+      for the ethnic-supremacy fanaticism, ranging from Wahhabi jihadists and al-Qaeda
+      breakoffs, through Gaza and the West Bank, to the Ukrainian neo-Nazi revival (with
+      its echoes in Germany’s hatred of Russia) not seen since the Nazism of the 1930s
+      and ‘40s, denying that their opponents are fellow human beings.
+
+
+      As an alternative to the SCO, BRICS, and Global Majority, this defines the depth
+      of the split in today’s geopolitical alignment.'
+    one_sentence_summary: The Shanghai Cooperation Organization's recent meeting in
+      Tianjin marked a significant shift towards a new international economic order
+      among Global Majority countries, as they seek to reduce reliance on the U.S. and
+      establish mutual trade and investment, while Western media largely frames these
+      developments as antagonistic to the West, overlooking the defensive nature of
+      these countries' actions against U.S. economic aggression.
+    paragraph_summary: The Shanghai Cooperation Organization (SCO) meeting in Tianjin,
+      China, on September 1 marked a significant shift towards the formation of two
+      global blocs, as countries in the Global Majority aim to reduce their economic
+      dependence on the U.S. amidst escalating tensions and perceived U.S. attempts
+      at unipolar control. Leaders from China, Russia, and other SCO members outlined
+      principles for a new international economic order that emphasizes mutual trade
+      and investment, distancing themselves from U.S. markets and financial systems.
+      This development has largely been ignored or misrepresented in Western media,
+      which frames the SCO's actions as aggressive conspiracies against the U.S. rather
+      than defensive responses to U.S. policies. The article highlights the contrasting
+      narratives surrounding geopolitical events, such as the war in Ukraine and the
+      SCO summit, emphasizing that the Global South's efforts to establish a more equitable
+      economic framework are overshadowed by Western-centric perspectives. The meeting
+      underscored a growing divide, with the Global Majority seeking to de-dollarize
+      their economies and pursue independent development paths, while the U.S. faces
+      challenges from its own economic instability and declining attractiveness as a
+      global partner.
+    published: '2025-09-09T14:57:42+00:00'
+  - title: The Day the Dollar Blinked
+    url: https://michael-hudson.com/2025/09/the-day-the-dollar-blinked/
+    text: 'SCO and BRICS 2025 Eurasia’s Re-alignment in the face of Late Stage Barbarism
+      The Shanghai Cooperation Organization’s meetings in China last week (September
+      2 and 3) took a remarkable step forward in defining how the world will be dividing
+      into two great blocks as Global Majority countries seek to free their economies
+      not only from Donald Trump’s tariff chaos, but from the U.S.-sponsored increasingly
+      Hot War attempts to impose unipolar control on the entire world’s economy by isolating
+      countries seeking to resist this control – by subjecting them to trade and monetary
+      chaos as well as direct military confrontation. The SCO meetings became a pragmatic
+      forum to define the basic principles for replacing other countries’ trade, monetary
+      and military independence on the United States with mutual trade and investment
+      among themselves, increasingly isolated from reliance on U.S. markets for their
+      exports, U.S. credit for their domestic economies, and U.S. dollars for trade
+      and investment transactions among themselves. The principles announced by China’s
+      President Xi, Russian President Putin and other SCO members set the stage for
+      spelling out in detail a new international economic order along the lines that
+      were promised 80 years ago at the end of World War II but have been twisted beyond
+      all recognition by the United States and its satellites into what Asian and other
+      Global Majority countries hope will have been just a long detour of history away
+      from the basic rules of civilization and its international diplomacy, trade and
+      finance. It really should not be surprising that not a word of these principles
+      or their motivation has appeared in the mainstream Western press. The New York
+      Times depicted the meetings in China as a plan of aggression against the United
+      States, not as a response to U.S. acts. President Donald Trump summarized this
+      attitude most succinctly in a Truth Social post: “President Xi, Please give my
+      warmest regards to Vladimir Putin, and Kim Jong Un, as you conspire against The
+      United States of America.” U.S. press coverage of the SCO meetings in China presents
+      a greatly foreshortened perspective that reminds me of the famous Hokusai etching
+      of a close-up tree in the foreground completely overshadowing the distant city
+      in the background. Whatever the international topic is, it’s all about the United
+      States. The basic model is a foreign government’s hostility toward the United
+      States, with no mention of it being a defensive response against U.S. belligerence
+      toward the foreigner. The press’s treatment of the SCO meetings and its geopolitical
+      discussions has a remarkable similarity with its treatment of NATO’s war against
+      Russia in Ukraine. Both events are seen as if they are all about the United States
+      (and its allies), not about China, Russia, India, Central Asian and other countries
+      acting to promote their own attempts to create orderly and mutually beneficial
+      trade and investment. Just as the war in Ukraine is depicted as a Russian invasion
+      (with no mention of its defense against NATO’s attack on Russia’s own security),
+      the SCO meetings in Tianjin and the subsequent Beijing meetings were depicted
+      as confrontational scheming against the West, as if the meetings were about the
+      United States and Europe. On September 3 the German Chancellor, Friedrich Merz,
+      called Putin perhaps the most serious war criminal of our time, as it was Russia
+      that attacked innocent Ukraine, not vice versa from the 2014 coup onward. As Putin
+      commented on Merz’s accusation: “we do not assume that any new dominant states
+      should appear. Everyone should be on an equal footing.” The military parade in
+      Beijing that followed the meetings was a reminder to the world that the international
+      agreements that created the United Nations and other organizations at the end
+      of World War II were supposed to end fascism and introduce a fair and equitable
+      world order based on the United Nations’ principles. To depict this frame of the
+      meetings as a threat to the West is to cover-up, even deny that it is the West
+      itself that has abandoned and indeed reversed the seemingly multilateral principles
+      promised in 1944-1945. The U.S. and European portrayal of the SCO meetings as
+      shaped entirely by antipathy toward the West is not merely an expression of Western
+      narcissism. It was a deliberately censorial policy of not discussing the ways
+      in which an alternative to the U.S.-centered neoliberal economic order are being
+      developed . NATO head Mark Rutte made it clear that there was to be no thought
+      that there even was such a thing as a policy by countries to create an alternative
+      and more productive economic order when he complained that Putin was getting too
+      much attention. That meant not to discuss what really happened in the last few
+      days in China – and how it is a landmark in introducing a new economic order,
+      but not one that includes the West. President Putin explained in a press conference
+      that confrontation was not at all the focus. The speeches and press conferences
+      spelled out the details of what was necessary for consolidating relations among
+      themselves. Specifically, how will Asia and the Global South simply go their own
+      way, with minimum contact and exposure to the West’s economic and military aggressive
+      behavior . The only military confrontation that is threatened is by NATO, from
+      Ukraine to the Baltic Sea, Syria, Gaza, the China Sea, Venezuela and North Africa.
+      But the real threat is the West’s neoliberal financialization and privatization,
+      Thatcherism and Reaganomics. The SCO and BRICS (as is now being discussed in follow-up
+      meetings) want to avoid the falling living standards and economies being experienced
+      in the West as it deindustrializes. They want rising living standards and productivity.
+      Their attempt to create an alternative, more productive plan of economic development
+      is what isn’t being discussed in the West. This great split is best epitomized
+      by the Power of Siberia 2 pipeline. This gas was planned to go to Europe, feeding
+      into Nordstream 1. That has all ended. Siberian gas will now go to Mongolia and
+      China. It powered European industry in the past; now it will do the same for China
+      and Mongolia, leaving Europe to depend on U.S. LNG exports and declining North
+      Sea supplies at much higher prices. Some geopolitical upshots of the SCO meetings
+      The contrast between the successful consolidation of SCO/BRICS trade, investment
+      and payments arrangements and the U.S. destabilization makes it difficult for
+      countries to try and join both the US/NATO bloc and the BRICS/Global South countries.
+      The pressure is especially strong on Turkey, the Emirates and Saudi Arabia. The
+      UAE is a member of BRICS and the others are observers, but the Arab countries
+      are especially financially exposed to the dollar and also host U.S. military bases.
+      (India has blocked Azerbaijan from joining.) Two dynamics are at work. On the
+      one hand, as they pursue a potentially alternative plan of economic development,
+      the BRICS and Global Majority are trying to defend themselves against US/NATO
+      economic aggression, and to de-dollarize their economies so as to minimize trade
+      dependence on the U.S. market. That saves them from the U.S. weaponizing its foreign
+      trade and monetary system to block their access to supply chains that have been
+      put in place, and thereby disrupting their economies. The other dynamic is that
+      the U.S. economy is becoming less attractive as it polarizes, shrinks and de-deindustrializes
+      as a result of its financialization and rising debt overhead. It also is becoming
+      inflationary as a result of Trump’s tariffs and a falling dollar as countries
+      de-dollarize, and it remains subject to a debt-leveraged financial bubble that
+      is at increasing risk of sudden collapse. These two dynamics reflect the basic
+      contrast of economic systems and policy between oligarchic privatized and financialized
+      markets (neoliberalism) and industrial socialist economies. The socialism of the
+      latter is the logical extension of the dynamic of early industrial capitalism,
+      seeking to rationalize production and minimize waste and unnecessary costs imposed
+      by rent-seeking classes demanding income without playing a productive role – landlords,
+      monopolists and the financial sector. The great problem, of course, is that the
+      Americans want to blow up the world if they can’t control it and dominate all
+      other countries. Alistair Crooke recently warned that the Evangelical Christian
+      movement sees this as an opportunity for a conflagration that will see Jesus return
+      and convert the world to Christian jihadism. The term “late stage barbarism” is
+      now being used throughout much of the internet for the ethnic supremacy fanaticism
+      ranging from Wahabi jihadists and al Qaeda breakoffs (CIA/MI6 sponsored to be
+      sure) through the Zionists in Gaza and the West Bank and Africato the Ukrainian
+      neo-Nazi revival (with its echoes in Germany’s hatred of Russia) not seen since
+      the Nazism of the 1930s and ‘40s, denying that their opponents are fellow human
+      beings. As an alternative to the SCO, BRICS and Global Majority this barbarism
+      defines the depth of the spilt in today’s geopolitical alignment. No doubt client
+      oligarchies throughout BRICS will try to hold on to as many of their privileges
+      (that is, economic rents) as possible. We are just at the beginning of what promises
+      to be a long promise. For the present, all that member countries can do is to
+      insulate their monetary and balance-of-payments relations with each other, along
+      with mutual investment. So the real “new civilization” is a way’s off. But US
+      and its European satellite policy is a great catalyst for speeding up the great
+      transition. The post The Day the Dollar Blinked first appeared on Michael Hudson
+      .'
+    one_sentence_summary: The recent Shanghai Cooperation Organization meetings in China
+      marked a significant shift towards the formation of two global blocs, as Global
+      Majority countries aim to reduce dependence on the U.S. and establish independent
+      trade, monetary, and military systems amidst rising geopolitical tensions.
+    paragraph_summary: The recent Shanghai Cooperation Organization (SCO) meetings in
+      China marked a significant shift towards the formation of two global blocs, as
+      countries in the Global Majority seek to liberate their economies from U.S. influence
+      and the chaos stemming from former President Trump's tariffs and military confrontations.
+      Leaders, including China's President Xi and Russia's President Putin, outlined
+      principles aimed at fostering mutual trade and investment among SCO members, reducing
+      reliance on U.S. markets, credit, and the dollar for transactions. This initiative
+      aims to establish a new international economic order that aligns more closely
+      with the original post-World War II ideals, which have been distorted by U.S.
+      policies. The mainstream Western media largely ignored these developments, framing
+      the meetings instead as aggressive posturing against the U.S., reflecting a broader
+      misunderstanding of the motivations behind the SCO's agenda.
+    published: '2025-09-08T01:28:15+00:00'
+  - title: The Day the Dollar Blinked
+    url: https://michael-hudson.com/2025/09/the-day-the-dollar-blinked/
+    text: 'SCO and BRICS 2025 Eurasia’s Re-alignment in the face of Late Stage Barbarism
+      The Shanghai Cooperation Organization’s meetings in China last week (September
+      2 and 3) took a remarkable step forward in defining how the world will be dividing
+      into two great blocks as Global Majority countries seek to free their economies
+      not only from Donald Trump’s tariff chaos, but from the U.S.-sponsored increasingly
+      Hot War attempts to impose unipolar control on the entire world’s economy by isolating
+      countries seeking to resist this control – by subjecting them to trade and monetary
+      chaos as well as direct military confrontation. The SCO meetings became a pragmatic
+      forum to define the basic principles for replacing other countries’ trade, monetary
+      and military independence on the United States with mutual trade and investment
+      among themselves, increasingly isolated from reliance on U.S. markets for their
+      exports, U.S. credit for their domestic economies, and U.S. dollars for trade
+      and investment transactions among themselves. The principles announced by China’s
+      President Xi, Russian President Putin and other SCO members set the stage for
+      spelling out in detail a new international economic order along the lines that
+      were promised 80 years ago at the end of World War II but have been twisted beyond
+      all recognition by the United States and its satellites into what Asian and other
+      Global Majority countries hope will have been just a long detour of history away
+      from the basic rules of civilization and its international diplomacy, trade and
+      finance. It really should not be surprising that not a word of these principles
+      or their motivation has appeared in the mainstream Western press. The New York
+      Times depicted the meetings in China as a plan of aggression against the United
+      States, not as a response to U.S. acts. President Donald Trump summarized this
+      attitude most succinctly in a Truth Social post: “President Xi, Please give my
+      warmest regards to Vladimir Putin, and Kim Jong Un, as you conspire against The
+      United States of America.” U.S. press coverage of the SCO meetings in China presents
+      a greatly foreshortened perspective that reminds me of the famous Hokusai etching
+      of a close-up tree in the foreground completely overshadowing the distant city
+      in the background. Whatever the international topic is, it’s all about the United
+      States. The basic model is a foreign government’s hostility toward the United
+      States, with no mention of it being a defensive response against U.S. belligerence
+      toward the foreigner. The press’s treatment of the SCO meetings and its geopolitical
+      discussions has a remarkable similarity with its treatment of NATO’s war against
+      Russia in Ukraine. Both events are seen as if they are all about the United States
+      (and its allies), not about China, Russia, India, Central Asian and other countries
+      acting to promote their own attempts to create orderly and mutually beneficial
+      trade and investment. Just as the war in Ukraine is depicted as a Russian invasion
+      (with no mention of its defense against NATO’s attack on Russia’s own security),
+      the SCO meetings in Tianjin and the subsequent Beijing meetings were depicted
+      as confrontational scheming against the West, as if the meetings were about the
+      United States and Europe. On September 3 the German Chancellor, Friedrich Merz,
+      called Putin perhaps the most serious war criminal of our time, as it was Russia
+      that attacked innocent Ukraine, not vice versa from the 2014 coup onward. As Putin
+      commented on Merz’s accusation: “we do not assume that any new dominant states
+      should appear. Everyone should be on an equal footing.” The military parade in
+      Beijing that followed the meetings was a reminder to the world that the international
+      agreements that created the United Nations and other organizations at the end
+      of World War II were supposed to end fascism and introduce a fair and equitable
+      world order based on the United Nations’ principles. To depict this frame of the
+      meetings as a threat to the West is to cover-up, even deny that it is the West
+      itself that has abandoned and indeed reversed the seemingly multilateral principles
+      promised in 1944-1945. The U.S. and European portrayal of the SCO meetings as
+      shaped entirely by antipathy toward the West is not merely an expression of Western
+      narcissism. It was a deliberately censorial policy of not discussing the ways
+      in which an alternative to the U.S.-centered neoliberal economic order are being
+      developed . NATO head Mark Rutte made it clear that there was to be no thought
+      that there even was such a thing as a policy by countries to create an alternative
+      and more productive economic order when he complained that Putin was getting too
+      much attention. That meant not to discuss what really happened in the last few
+      days in China – and how it is a landmark in introducing a new economic order,
+      but not one that includes the West. President Putin explained in a press conference
+      that confrontation was not at all the focus. The speeches and press conferences
+      spelled out the details of what was necessary for consolidating relations among
+      themselves. Specifically, how will Asia and the Global South simply go their own
+      way, with minimum contact and exposure to the West’s economic and military aggressive
+      behavior . The only military confrontation that is threatened is by NATO, from
+      Ukraine to the Baltic Sea, Syria, Gaza, the China Sea, Venezuela and North Africa.
+      But the real threat is the West’s neoliberal financialization and privatization,
+      Thatcherism and Reaganomics. The SCO and BRICS (as is now being discussed in follow-up
+      meetings) want to avoid the falling living standards and economies being experienced
+      in the West as it deindustrializes. They want rising living standards and productivity.
+      Their attempt to create an alternative, more productive plan of economic development
+      is what isn’t being discussed in the West. This great split is best epitomized
+      by the Power of Siberia 2 pipeline. This gas was planned to go to Europe, feeding
+      into Nordstream 1. That has all ended. Siberian gas will now go to Mongolia and
+      China. It powered European industry in the past; now it will do the same for China
+      and Mongolia, leaving Europe to depend on U.S. LNG exports and declining North
+      Sea supplies at much higher prices. Some geopolitical upshots of the SCO meetings
+      The contrast between the successful consolidation of SCO/BRICS trade, investment
+      and payments arrangements and the U.S. destabilization makes it difficult for
+      countries to try and join both the US/NATO bloc and the BRICS/Global South countries.
+      The pressure is especially strong on Turkey, the Emirates and Saudi Arabia. The
+      UAE is a member of BRICS and the others are observers, but the Arab countries
+      are especially financially exposed to the dollar and also host U.S. military bases.
+      (India has blocked Azerbaijan from joining.) Two dynamics are at work. On the
+      one hand, as they pursue a potentially alternative plan of economic development,
+      the BRICS and Global Majority are trying to defend themselves against US/NATO
+      economic aggression, and to de-dollarize their economies so as to minimize trade
+      dependence on the U.S. market. That saves them from the U.S. weaponizing its foreign
+      trade and monetary system to block their access to supply chains that have been
+      put in place, and thereby disrupting their economies. The other dynamic is that
+      the U.S. economy is becoming less attractive as it polarizes, shrinks and de-deindustrializes
+      as a result of its financialization and rising debt overhead. It also is becoming
+      inflationary as a result of Trump’s tariffs and a falling dollar as countries
+      de-dollarize, and it remains subject to a debt-leveraged financial bubble that
+      is at increasing risk of sudden collapse. These two dynamics reflect the basic
+      contrast of economic systems and policy between oligarchic privatized and financialized
+      markets (neoliberalism) and industrial socialist economies. The socialism of the
+      latter is the logical extension of the dynamic of early industrial capitalism,
+      seeking to rationalize production and minimize waste and unnecessary costs imposed
+      by rent-seeking classes demanding income without playing a productive role – landlords,
+      monopolists and the financial sector. The great problem, of course, is that the
+      Americans want to blow up the world if they can’t control it and dominate all
+      other countries. Alistair Crooke recently warned that the Evangelical Christian
+      movement sees this as an opportunity for a conflagration that will see Jesus return
+      and convert the world to Christian jihadism. The term “late stage barbarism” is
+      now being used throughout much of the internet for the ethnic supremacy fanaticism
+      ranging from Wahabi jihadists and al Qaeda breakoffs (CIA/MI6 sponsored to be
+      sure) through the Zionists in Gaza and the West Bank and Africato the Ukrainian
+      neo-Nazi revival (with its echoes in Germany’s hatred of Russia) not seen since
+      the Nazism of the 1930s and ‘40s, denying that their opponents are fellow human
+      beings. As an alternative to the SCO, BRICS and Global Majority this barbarism
+      defines the depth of the spilt in today’s geopolitical alignment. No doubt client
+      oligarchies throughout BRICS will try to hold on to as many of their privileges
+      (that is, economic rents) as possible. We are just at the beginning of what promises
+      to be a long promise. For the present, all that member countries can do is to
+      insulate their monetary and balance-of-payments relations with each other, along
+      with mutual investment. So the real “new civilization” is a way’s off. But US
+      and its European satellite policy is a great catalyst for speeding up the great
+      transition. The post The Day the Dollar Blinked first appeared on Michael Hudson
+      .'
+    one_sentence_summary: The recent Shanghai Cooperation Organization meetings in China
+      marked a significant shift towards the formation of two global blocs, as Global
+      Majority countries aim to reduce dependence on the U.S. and establish independent
+      trade, monetary, and military systems amidst rising geopolitical tensions.
+    paragraph_summary: The recent Shanghai Cooperation Organization (SCO) meetings in
+      China marked a significant shift towards the formation of two global blocs, as
+      countries in the Global Majority seek to liberate their economies from U.S. influence
+      and the chaos stemming from former President Trump's tariffs and military confrontations.
+      Leaders, including China's President Xi and Russia's President Putin, outlined
+      principles aimed at fostering mutual trade and investment among SCO members, reducing
+      reliance on U.S. markets, credit, and the dollar for transactions. This initiative
+      aims to establish a new international economic order that aligns more closely
+      with the original post-World War II ideals, which have been distorted by U.S.
+      policies. The mainstream Western media largely ignored these developments, framing
+      the meetings instead as aggressive posturing against the U.S., reflecting a broader
+      misunderstanding of the motivations behind the SCO's agenda.
+    published: '2025-09-08T01:28:15+00:00'
+  - title: From Free Lunch to Forced Tribute
+    url: https://michael-hudson.com/2025/09/from-free-lunch-to-forced-tribute/
+    text: '2025.08.28 – Dialogue Works ⁣NIMA ALKHORSHID: Hi everybody, today is Thursday,
+      August 28, 2025, and our friends Richard Wolff and Michael Hudson are back with
+      us. Welcome back, Richard and Michael. ⁣RICHARD WOLFF: Glad to be here. ⁣MICHAEL
+      HUDSON: Yeah. ⁣NIMA ALKHORSHID: Let me start with what Donald Trump said in terms
+      of how the United States is making money out of Ukraine. And here is what he said:
+      ⁣DONALD TRUMP (CLIP): They didn’t pay the two [2%], and they paid the five [5%].
+      So, and as you know, we are selling a tremendous amount of equipment to NATO.
+      We’re not spending any money. We’re making money. But I don’t want to talk about
+      making. I want to talk about, we’re no longer involved with funding Ukraine, but
+      we are involved with trying to stop the war and the killing in Ukraine. So we’re
+      selling missiles and military equipment, millions and millions, and ultimately
+      billions, of dollars, to the NATO people. We’re very friendly and we have a great
+      relationship. That was an amazing trip. So they’re funding the entire war. We’re
+      not funding anything. I think it’s an important point to make as a lot of people
+      don’t understand that. ⁣NIMA ALKHORSHID: Michael, go ahead. What’s your take?
+      What’s going on in the mind of Donald Trump? He wants to stop killing and he sends
+      more weapons? He’s trying to make money from Europeans? ⁣MICHAEL HUDSON: I think
+      if you want to understand Donald Trump, realize how he’s made his money as a landlord,
+      and how landlords think about getting rich. That’s how he’s thinking about how
+      the United States is going to get rich. And the key to a landlord getting rich
+      is not only by charging rents, not only by taking over buildings and selling them
+      at a profit, but to get a piece of the business that goes on inside of these buildings.
+      For instance, a landlord that owns a co-op or a condominium is going to rent out
+      a commercial space on the ground floor. It can be a restaurant. When the whole
+      idea of turning New York real estate into condominiums and co-ops began in the
+      1970s, the landlord would buy an old commercial building, empty it out, sell it
+      to tenants to gentrify formerly commercial buildings, like one on Broadway, or
+      a big street. And then the co-op would include the stores on the bottom. And friends
+      of mine bought co-ops, very nice whole floor-throughs on Broadway. And in a few
+      years, they didn’t have to pay any carrying charges at all on the building, on
+      their condos, because the stores paid such a large amount of rent that they paid
+      the carrying charges for the whole building. Well, very quickly, landlords caught
+      onto this. And where I live now — and all this has to do with American foreign
+      policy — the landlord, when he bought the building to turn it into a condominium,
+      kept all of the storefronts for himself, not to pay for the condominium. So, all
+      of the 61 residential tenants pay the costs of the building, and the landlord
+      keeps all of the income from the stores for himself. Well, think of the economy
+      that way. Our building now has become very high-cost — for high maintenance fees
+      every month to pay our real estate taxes and heating bills and all the operations
+      — and the landlord makes much more money than the tenants get the benefit from
+      the overall property. Well, Trump says: Let’s think of Europe, Ukraine, foreign
+      governments, and our allies, as I’d think of it as a landlord. All of their property,
+      all of their wealth is in effect treated as part of America’s sovereign wealth
+      fund, and their wealth is our wealth. And already, since 1972, America has been
+      able to have European countries turn over their savings by holding them in dollars,
+      lending them to the U.S. government by buying treasury bonds, or treasury notes,
+      or other U.S. securities. Well, now Trump is telling Europe, and it’s clearest
+      in Ukraine: Well, we want you to bear the costs of NATO, and you’ll bear the costs
+      of American foreign policy. And in addition, you’re going to give us special privileges.
+      We’re going to get some of the benefits from your public domain. Let’s take Ukraine
+      as an example. When he tried to make the deal for what was laughably called Ukraine’s
+      rare earth resources, which are all in the eastern part that’s now part of Russia,
+      Ukraine really didn’t have any resources, but Trump says: Well, we’re going to
+      have a fund, and everything that Ukraine owns in the public domain — its publicly-owned
+      utilities, its publicly-owned mineral rights, everything that a government holds
+      in the public domain, its land, its forests — is going to be put into a system
+      with the United States. And our contribution? We’re going to share 50-50, or some
+      other designated proportion, and everything that we have been spending on the
+      Cold War so far, and everything that we’re going to spend, and everything that
+      Europe spends, buying from us, on you, is going to be our contribution to this.
+      So all of a sudden, retroactively, Trump is saying, everything that you thought
+      was a gift is actually an investment that we want to be repaid. What you’re seeing
+      today, and will be seeing in Ukraine and in Europe, is exactly what happened after
+      World War I. When World War I ended, the Europeans expected, well, since America
+      was our ally, we’re all going to sort of forget and forgive all of the money that
+      each of us has spent in winning the war over the enemy. But the United States
+      said: Well, that’s true for what we’ve spent while we were your allies. Indeed,
+      no charge. But before there were allies, we were sending you a lot of arms, and
+      we now want you to pay for these arms. That was the fatal defect of the Treaty
+      of Versailles: Europe had to pay America for the inter-allied arms debts, just
+      like Ukraine is now being billed for the arms, retroactively, that the United
+      States spent there. Well, that’s led the allies to say: Well, we don’t want to
+      pay, let’s make Germany pay. And of course, the result bankrupted Germany, led
+      to Nazism and World War II. This overreaching American demand on Ukraine is going
+      to be somehow, Ukraine: You’re going to have to pay. For instance, the International
+      Monetary Fund has also made huge loans to Ukraine, against its operating rules
+      that prevent it from making loans to a country at war. The International Monetary
+      Fund has more money than Ukraine can generate in the next twenty or thirty years.
+      Permanent debt servitude. The United States, in essence, is saying, well, you
+      may owe the U.S. all this money. We’ll certainly help you pay the IMF by selling
+      us your raw materials, to American mineral companies, to American farm companies,
+      to BlackRock and other countries, and you can use what you get in payment for
+      selling off your land and public domain, to pay the IMF and to begin sharing all
+      of the profits, all the revenue from these resources that you keep with us, to
+      pay for all of the arms that we’ve paid you. This is a new kind of mercantilism.
+      It’s called neomercantilism. And it’s the most demanding, exploitative, free-lunch
+      kind of rentier income that you’ve had since the European colonialism of the late
+      19th century. And America has become a rentier society. And what Trump has made
+      explicit — that was always implicit, but never explicit before — is that America
+      has to be the immediate short-term and long-term financial gainer from any trade
+      and investment, and monetary arrangement that we may make, with other countries.
+      And this is basically the rentier mentality: how to get something for nothing.
+      That’s what a rentier economy does. Well, in 1944 and 1945, America at least was
+      able to say: We want the whole world to get rich by an open economy. They’re going
+      to be the same rules for the whole economy: the United Nations rules, the international
+      monetary rules, the World Bank rules, and trade rules. All of that was supposed
+      to be: every country gets to gain by relations with other countries. Trump has
+      said: There’s going to be one gainer: Your gain is our gain. If you were our allies,
+      or if you’re our trading partner, or if you’re a foreign company that invests
+      in the United States, we get the returns, we get at least a share of your profits.
+      This is like America is the landlord for foreign investments, whether it’s a German
+      car company, or a Japanese company, or a Taiwanese computer company. You have
+      to give us a share of your profits. Other countries are being treated just like
+      Trump is treating Intel, the chipmaking corporation in the United States. Trump
+      said: the Biden administration has been awarding you, you know, we have scheduled
+      to give you, all sorts of support to build up our computer chip industry. All
+      of that money that has already been promised you as a subsidy, you have to give
+      us back something. You have to treat this as if it’s an investment in your common
+      stock, and that adds up to about 10% of all of your common stock. You have to
+      give us your common stock — 10% of it — so that we can share in your profits.
+      Well, obviously, this is a retroactive demand. This is a very close analogy to
+      what the United States is demanding from its European allies: If you want our
+      market, you have to give us something for it. Just like if you’re an American
+      home buyer wanting a home, wanting to buy a condo in our building, you have to
+      absorb all of the carrying charges for the building, including the ground floor
+      commercial properties. And we, the landlord, get all of the gain from what is
+      a commercially viable, independent property. So it’s a slicing and dicing of foreign
+      economies into what the government can extract from its government ownership of
+      utilities, monopolies, land, mineral rights, forests, and the whole works: that
+      is now to be paid [to] the United States. Well, you can imagine that’s why we
+      haven’t heard much news in the last week for us to report, because I think all
+      the Europeans — Putin is in China meeting with them, I think that Modi is going
+      to China soon — everybody’s talking about how are we going to cope with the U.S.
+      demands? Is it really worth dealing with the American market? If it’s going to
+      be a ‘lose’ proposition for us, is there any alternative that we can make so that
+      we get to keep our own wealth that we create in our own hands, instead of turning
+      it over to the United States to dissipate in the Cold War that’s a wedge blocking
+      us off from making money through the BRICS market, the Asian market, and markets
+      that the United States want to isolate. ⁣NIMA ALKHORSHID: Richard, I think one
+      of the key points in what Michael just said is Trump’s rentier mentality. And
+      for many of us, it’s somehow confusing. Let me put this question to you: Does
+      Trump’s rentier mentality in foreign policy represent a fundamental shift in U.S.
+      diplomacy, or is it simply an extreme extension of longstanding U.S. strategies
+      of extracting economic advantage from allies and rivals? ⁣RICHARD WOLFF: It’s
+      a little bit of both. It is a continuation of an empire under new and changed
+      circumstances, that the very success of that empire brought about, and which now
+      threaten that empire. So it has to do things it didn’t used to have to do. That’s
+      what you’re seeing. So, yeah, it’s a little bit continuation, and it’s a little
+      bit desperate new measures. The very fact that Michael has to say, at the end
+      of what he just told us, that Xi Jinping, and Mr. Modi, and Mr. Putin, and others
+      are meeting in Beijing, that’s already a sign that they are doing what Michael
+      says. Of course, they are going to be discussing a common problem that they all
+      have, which is the behavior of a United States, which isn’t acting like it used
+      to. Previous presidents didn’t throw tariffs at everybody. Previous presidents
+      didn’t punch the Canadians, or punch the Mexicans, or, now, punch the Indians.
+      And they have to react to that. And they will. But I want to go back to the first
+      clip you played: Mr. Trump celebrating how he has gotten the Europeans to pay.
+      Let me explain something because the American public is so used to being told
+      that what happens in the world is due to the United States, that they don’t understand
+      when that doesn’t happen, and therefore they don’t understand what’s happening
+      to them. Michael and I have been critically mocking the Europeans for quite a
+      while now because of their subservience to the United States on so many levels.
+      They are now led by political leaders that literally are slavish towards the United
+      States: [Keir] Starmer, [Emmanuel] Macron, even [Georgia] Meloni, [Friedrich]
+      ‘Schmerz,’ all of them. But this time, I want to take my hat off. The Europeans
+      — which sometimes happens — the servants sometimes outmaneuver the boss. And they
+      just did. Here’s how this works: They were desperately trying to keep Mr. Trump
+      from walking away from the Ukraine war because it’s a loser — and he doesn’t like
+      to be associated with losing propositions. And why? Because he has already been
+      associated with so many. Every business he starts fails. Okay? So he wanted to
+      walk away. And he said to the Europeans, repeatedly: I’m out. We’re out. We’re
+      not doing this anymore. The Europeans became desperate. The entire politics of
+      Western Europe has been to be the junior partner of the United States since World
+      War II. That’s all they know. That’s how they all got a career, by doing that
+      even more slavishly than other politicians — which is why we never heard of the
+      other ones and we all know their names. So, of course, they’re not going to change.
+      They can’t. That’s who they are. How could they get Mr. Trump to change his mind?
+      They tried everything. Everything failed except one thing, which has now worked.
+      They went to the American military corporations and they said to them: If Mr.
+      Trump withdraws, then he’s not going to need all of the missiles, and all of the
+      airplanes that you have been selling him — and making a fortune, which if you
+      look at their stocks over the last three years of the war, you will see they did.
+      And so the Europeans said to them: Here’s what we’ll do. We’ll give Mr. Trump
+      the chance to say to the American people, I won’t pay for them anymore. But you
+      won’t lose the business because Mr. Trump, Mr. Trump will sell what you produce
+      to us. Thereby, you’ll keep the orders. They’ll keep coming. We’ll keep shooting
+      missiles into Russia and into Ukraine. We’ll keep using up all the guns, and all
+      the planes. Your business is secure if you work with us, the Europeans, to provide
+      this solution to Mr. Trump. It won’t be American dollars. It will be European
+      dollars. And that’s where I come together with Michael. We’ve gotten the Europeans
+      to fund the military-industrial complex of the United States. And this will not
+      end. This is just the beginning. So it’s very important that you understand that.
+      That’s the plus side. Here’s the negative side. The Europeans will now have to
+      come up with huge amounts of money to buy the military equipment that Mr. Trump
+      is now going to sell them. And where are they going to get the money from? They’re
+      going to have to go deeper into debt — that’s what Germany is doing — and they’re
+      going to have to curtail their social welfare spending to free up the tax money
+      to pay for it all. And that is going to sharpen the social conflicts inside all
+      of Europe because their working classes are organized, unlike the American. They
+      have the organizations with which to protest. That’s why September 10th is the
+      date to focus on, because that’s when the French have announced they’re going
+      into the streets to shut the country down because of its threatening the social
+      welfare state. The new budget of Mr. Macron takes away paid holidays, reduces
+      the pension, increases the deductibles on their medical insurance, and a whole
+      lot of other horrific things. As they go down — the Merzes, the Macrons, the Starmers
+      — they proved themselves able to manipulate Mr. Trump. They tried several things.
+      It didn’t work. They kept at it and they came up with a solution. They will keep
+      the guns and missiles from the United States flowing. The industrial military
+      complex will be happy. And the only loss will be if Mr. Trump withholds intelligence
+      and the active participation of the American military in Ukraine. And my guess
+      is he probably won’t. So that war will continue, which for the American military
+      producers is very good news. And for the Europeans who make this happen, it is
+      very good political news because they have nothing else. In the long run, my guess
+      is that the social conflicts inside Europe will get worse, as they will in the
+      short run, with this program. And that’s what we’ll be talking about in the months
+      ahead. ⁣NIMA ALKHORSHID: Just to prove what Richard said, here is Lutnik talking
+      about what Richard said: ⁣HOWARD LUTNICK (CLIP): It’s got to be fair for America.
+      ⁣INTERVIEWER (CLIP): Secretary, why shouldn’t the U.S. government say: You know
+      what? We use Palantir services. We would like a piece of Palantir. We use Boeing
+      services. We would like a piece of Boeing. There are a lot of businesses that
+      do business with the U.S. government, that benefit by doing business with the
+      U.S. government. I guess the question is: Where’s the line? ⁣HOWARD LUTNICK (CLIP):
+      Oh, there’s a monstrous discussion about defense. I mean, Lockheed Martin makes
+      97% of their revenue from the U.S. government. They are basically an arm of the
+      U.S. government. They make exquisite munitions. I mean, amazing things that can
+      knock a missile out of the air when it’s coming towards you. But what’s the economics
+      of that? I’m going to leave that to my Secretary of Defense and the Deputy Secretary
+      of Defense. These guys are on it and they’re thinking about it. But I tell you
+      what, there’s a lot of talking that needs to be had, about how do we finance our
+      munitions acquisitions. I think a lot of that is talking. And now you have the
+      right people in the jobs, and Donald Trump at the head thinking about what is
+      the right way to do it. I tell you, the way it has been done has been a giveaway.
+      ⁣NIMA ALKHORSHID: Lockheed Martin is making more than 97% of its revenue from
+      the government. ⁣RICHARD WOLFF: Yes, I mean, you know, it is beautiful to watch
+      the ignorance on display, no awareness of what it is that they are copying. The
+      argument of the German Nazis was exactly the same: We’re in a position, we buy
+      most of what they produce, they depend on us in a hundred ways. We could have
+      a more efficient arrangement … It’s the same logic that makes a big company buy
+      a small one: It’s more “efficient” if they’re internal than external. I used to
+      love it because I used to explain to these people in seminars when they would
+      call me in — because I’m a professor, they assume I thought the way they did —
+      and I would say to them: The entire logic of economics celebrating “the market”
+      is for these 27 reasons … If you buy a company, you are destroying the market.
+      There is no market anymore. That has become an internal operation. You criticize
+      the Soviet Union because everything is internal to the government. That’s what
+      you’re doing! And they would look at me like little puppies who have just done
+      something on the family rug that they shouldn’t have, because they didn’t know
+      the answer. They want the professor to celebrate the market, as they destroy the
+      market, as they refuse the market, and tell you how much more “efficient” we can
+      be if we don’t have a market. That’s fascism. That’s what it is about. It’s about
+      state running capitalist enterprises so that the state enforces the capitalist
+      system for the benefit of the rich. Notice that when Mr. Lutnik or Mr. Trump talk
+      about it, it’s about the rich: We’re going to get richer. We’re going to have
+      more GDP. We’re going to … In socialist countries, when the government takes over
+      private enterprise, it’s about raising the country out of poverty, lifting the
+      wages … and I’m not happy with what goes on — I’m not endorsing China or any of
+      this — but it’s using the state merger with the private for a very different purpose,
+      a whole different set of goals in the case of a China or a Russia, than you have
+      here. And therein lies the difference. It’s as if you didn’t understand, oh, they’re
+      the same thing: they have a president, they have a president. Yeah, but what the
+      president means differs in one country from another. They’re not the same because
+      they have something similar, I mean, that’s a childish way of thinking. I’ve had
+      that all my life when people tell me, oh, Stalin was a dictator, and Hitler was
+      a dictator. Oh, goodness! That’s true. They both urinated, standing up. That doesn’t
+      mean very much. That doesn’t make them the same. You know, for God’s sake, did
+      you notice that they went to war and killed each other in huge numbers? Might
+      give you a clue that they had some differences. ⁣NIMA ALKHORSHID: Go ahead, Michael.
+      ⁣MICHAEL HUDSON: Every economy is a market. Finance capitalism is a market. Socialism
+      is a market. Richard, I’m trying to figure out what you were saying at the very
+      beginning. You said that Europe had a positive response to the United States.
+      I thought that what the positive response you were going to talk about was Europe
+      would have said, well, you’re saying that we have to pay the costs of fighting
+      Ukraine now, that the United States paid before, by largely fighting with American
+      arms. I thought Europe’s response, could have said, well, we are going to fight
+      Ukraine, but we’re going to fight it with Europe’s and Germany’s military industrial
+      complex. We’re going to fight it with Rheinmetall and the other companies. And
+      in fact, the European stock market has been going up more than the U.S. stock
+      market. International stock market investors are shifting out of the U.S. market,
+      into the European market. And much of this investment is going into Europe’s own
+      military-industrial complex. That could have been the response by Europe saying,
+      well, if we are going to have to bear the costs of war fighting with Ukraine,
+      we have to afford it. And the only way we can afford it, two ways: one, the budget
+      costs of our own budget deficit, which is limited, and two, the balance-of-payments
+      costs. Richard, you pointed out, correctly, that the only way that Europe could
+      afford to buy American arms along the lines that Donald Trump has outlined is
+      to borrow the money. That’s quite right. Well, if Europeans borrow the money,
+      this is going to cause a demand for dollars, basically, out of the Euros. That’s
+      going to support the dollar’s exchange rate, just the opposite of what Trump wants,
+      to push the exchange rate down. And in a way, this is a transfer problem (it’s
+      called). It’s very different from the domestic budgetary problem. As long as Europe
+      insists on counting its foreign exchange dollar spending as part of its domestic
+      economy, then of course there’s going to be a forced cutback in social spending.
+      And that’s why, as you point out, the French are rebelling in a few weeks because
+      France’s foreign debt has gone up, causing Macron to very sharply increase taxes.
+      So, what Europeans are seeing is, in a way, the same kind of problem that Americans
+      are seeing. They’re seeing, we can’t get housing, we can’t afford to meet our
+      basic expenditures because the government has cut back its social spending, and
+      because of all of this financial inflation of real estate prices. So, we see the
+      financiers, the bankers, and the absentee owners, and the monopolists, all getting
+      rich, and we’re getting poorer and poorer. Inequality and polarization is what
+      has been leading to revolutions ever since the French Revolution. So, that’s part
+      of the problem. And I think if we’re talking about how the United States is trying
+      to force the costs of war onto its allies, look at what’s happened in South Korea
+      in the last few days. The president of South Korea has been over here in the United
+      States, and the United States is saying: Well, you’re going to now have to pay
+      for all of our troops in South Korea to protect you from China. And the Korean
+      president pointed out: China is our main export market. China is our main import
+      market. Most of our relations are: China. Why are you trying to force us to decide
+      between relations with China — which means our entire economic future — or the
+      United States —which we don’t see a future on because I don’t see how we can make
+      the money, the dollars, to pay for the American military industrial arms and your
+      occupation, without being able to export our cars and our electronics to you?
+      And you’ve just raised the tariffs to prevent us from exporting cars and computers
+      to you. So you’ve made it impossible for us to bear the costs of supporting American
+      military defense. Maybe we have a solution. Maybe for $100 in total, we can meet
+      with the Chinese and say: Let’s have peace, not war. Let’s make a non-aggression
+      pact, and let’s restructure our trade. We realize that we’ve lost the U.S. market,
+      forever. We are willing to tell the United States what Iraq has told the United
+      States: Get out of our country, we cannot afford you, we don’t have the money
+      to pay you, and we’re not going to devalue our currency by buying dollars in order
+      to pay for your occupation. The costs of being your ally means our national bankruptcy,
+      and we can’t afford it. That is essentially what the Korean president said. It
+      is what the European opposition parties are in a position to say — once the current
+      NATO leadership of Merz and Macron and Starmer are replaced by what, I guess,
+      a kind of either right-wing or left-wing nationalist parties that say: We cannot
+      afford the terms of the war with Russia that Donald Trump has said we have to
+      have, of essentially becoming a servant economy, a servile economy, to the United
+      States. We simply cannot afford war anymore. It’s time to negotiate peace. Well,
+      Trump ran, pretended to be a peace president. He’s the largest war president in
+      American history. He’s declared war on multiple fronts, not only against Russia,
+      not only against Gaza, not only against Venezuela, but against Azerbaijan, against
+      China and the China Sea, against Syria, by backing al-Qaeda. There’s war all over
+      the place from Trump. And the fact is that this multi-front Cold War that Trump
+      has expanded on, America’s war against the whole rest of the world, cannot be
+      afforded by foreign countries. They’re not going to pay for America’s war against
+      them, designed to prevent them from earning the money to pay for the war, by trading
+      with China and the BRICS and the global majority, which is the growth area of
+      the world. There is literally no alternative, as Margaret Thatcher would say,
+      to saying we cannot afford the Cold War on American terms. And the fact is, we
+      can negotiate peace among ourselves, and have the kind of multipolar trading relationship
+      that the United States pretended to introduce back in 1945. So this is a whole
+      split in the whole way in which the world economy is organized, as we’ve been
+      talking about all along. ⁣RICHARD WOLFF: Could I make just one comment on that
+      before we go ahead? I want to go back to my story about the Europeans. Michael
+      is right: The preferred thing they would do and what they talk about is building
+      up their military capacity, but this is — if you pardon my Spanish — bullshit.
+      They can’t do that because they haven’t done it for seventy-five years. Their
+      military is laughable. It’s too small. It’s poorly equipped. They don’t have anything.
+      If the United States withdraws its military equipment from Ukraine, the Russian
+      victory becomes a rout. It’s halfway there already. They can’t stop it. Okay?
+      And they will look as weak and ineffective as they actually are. And they know
+      it. So what they need, they need several years, even if that will be enough, to
+      try to catch up, in some meaningful sense, so they have a credible military apparatus.
+      That’s all they need. And that’s what they figured out how to get. Mr. Trump will
+      provide them with enough of the extra American stuff that they can hold on, which
+      means they now have an immense vested interest in keeping the war in Ukraine going,
+      which you can see by everything they say and do. And they will have an enormous
+      ally in the American military-industrial complex, which will need that war to
+      continue so that it can sell the arms to Trump, who resells them to the Europeans.
+      So they’ve got their political ducks in a row. They’ll keep this war going. It
+      will last another two or three years. That will be costly for the Russians. They
+      like that. And then hopefully they will have spent the money. The only possible
+      danger is that the mass of people, the working classes in England, France, Germany,
+      and Italy, will step in and say: No, no, you can’t do that. I want to remind people,
+      when Mr. Macron tried to delay pensions by making the pension-eligible age go
+      from 62 years of age to 64, we had something that the whole world noticed called
+      the Yellow Vest Movement, “Gilets Jaunes,” in French. And when that movement hit
+      its peak, Mr. Macron withdrew the proposal to make the pension-eligible age older.
+      The working class blocked him. And they’re going to do that again. ⁣MICHAEL HUDSON:
+      I think that the idea of Europe trying to continue a war is military suicide,
+      and Europe will be wiped out within three years. A few weeks ago, a European-owned
+      missile was fired on, I think, a Sochi oil refinery in Russia, doing quite a bit
+      of damage, closing down the oil refinery for quite a bit and causing a big problem.
+      A few days later, a mysterious fire, an explosion, occurred in Hamburg, Germany,
+      at the oil refinery there. And the supposition is, well, maybe that’s Russia saying:
+      We’re going to retaliate in any way. You Germans sent a missile. Doesn’t matter
+      if it was American-made or German-made. It’s your missile. You send it over. You
+      bomb our refinery. We’re going to bomb your refinery. And as I think we’ve said
+      numerous times, along with other guests on your show, Nima, that Russia has said:
+      If we are hit by a European missile — and that’s the only way that Europe can
+      fight a war, it has no troops, no tanks, no arms — If we’re hit by a missile,
+      we will retaliate against Europe in kind. And as Trump has told Ukraine: If you’re
+      really going to fight a war, you have to fight the attacker. He’s pretending that
+      Russia is the attacker, not NATO, not Ukraine. In fact, NATO is the attacker on
+      Russia. So he gets it all wrong. He’s dropped all pretense that he’s an honest
+      broker. He’s representing the hardline neocon Cold War against Russia. And Russia
+      is not going to bomb the United States, but it’s quite willing to bomb the Europeans
+      who send the arms against Russian territory, and they will respond against European
+      territory. And if Europe continues to say, we’re at war with Russia now, it’s
+      our war against Russia, not America’s, then Russia is going to say, yes, we’re
+      at war. Ka-boom. War is over, and so is Europe. ⁣NIMA ALKHORSHID: But White House
+      Trade Advisor Peter Navarro believes that this is India’s war. We know that they
+      put 50% tariffs on India. And here is what he said, Richard, responding to the
+      reporter: ⁣INTERVIEWER (CLIP): … talks with India right now. Is there a potential
+      for a deal to change that number? ⁣PETER NAVARRO (CLIP): Look, it’s real easy.
+      India can get 25% off tomorrow, if it stops buying Russian oil and helping to
+      feed the war machine. INTERVIEWER (CLIP): They’re not sending that signal. ⁣PETER
+      NAVARRO (CLIP): They’re not. And look, here’s the thing: I’m puzzled, okay? Because
+      Modi is a great leader. These people are, this is a mature democracy with intelligent
+      people running it, and they look us bald-faced in the eye on the tariff part,
+      and say: We don’t have the highest tariffs in the world — when, in fact, they
+      do. There’s no dispute about that, if you look at the numbers. And then they say:
+      We’re not going to stop buying Russian oil. Now, what does that mean? I mean,
+      we’ve talked about this, but it’s worth talking to your viewers again. When India
+      buys Russian oil at a discount, and then Indian refiners, in partnership in India
+      with Russian refiners, make that and sell it at a premium to the rest of the world,
+      right? Russia uses the money it gets to fund its war machine, kill more Ukrainians,
+      and then the next thing that happens, of course, is Ukraine comes to us and Europe
+      and says: Give us some more money. So everybody in America loses because of what
+      India is doing. The consumers and businesses and everything lose, and workers
+      lose because India’s high tariffs cost us jobs and factories and income and higher
+      wages. And then the taxpayers lose because we gotta fund Modi’s war, okay? The
+      road to peace runs, at least partly, right through New Delhi. INTERVIEWER (CLIP):
+      You mean Putin’s war? ⁣PETER NAVARRO (CLIP): I mean, Modi’s war, because the road
+      to peace runs, in part, through New Delhi. ⁣NIMA ALKHORSHID: Yeah, this is Modi’s
+      war. Richard, your take? ⁣RICHARD WOLFF: Yes, well, Mr. Navarro is an economist,
+      and I am an economist, and Michael is an economist. At that point, we part company.
+      When this man talks, I have a vision in my mind that is captured by the phrase,
+      “not the sharpest knife in the drawer.” Anybody who trades with Russia is in some
+      way making money off making that trade because that’s why the trade happens. It’s
+      profitable for the two sides to get together. That’s what trading is about. Russia
+      trades, I would guess, with at least a hundred countries in the world, one of
+      which is India. Okay. Mr. Navarro has decided that if you trade with Russia, and
+      you make money for Russia as part of the trade, well, therefore, you’re killing
+      Ukrainians. Okay. On that grounds, there should be an endless war of everybody
+      against everybody, because Mr. Putin would be able to say exactly the same thing
+      about the United States, and everybody who trades with the United States: You
+      are providing profits for the United States, which are taxed and used by the government
+      to kill Russians in Ukraine. So, therefore, I am going to punish you. This way
+      of reasoning is so stupid that you kind of, it takes your breath away. Not that
+      he says it — this is old silly junk — but that a man in his position says it,
+      with all the clarity and enthusiasm that this poor fellow can drag out of his
+      soul, tells you only about him, not about anything else. If the Indians permitted
+      the Americans to do this, right? They would be inviting every politician in the
+      world, not just Americans, to use this kind of an argument to force concessions
+      out of India. That’s why we don’t do that, in general, in the world. That’s why
+      no other country is throwing tariffs at everybody, let alone using it to justify
+      your position in a war. The war in Ukraine runs through Washington, D.C., which
+      made the decision to push NATO to the frontier of Russia. Everybody who isn’t
+      silly knows that. If you want to, you can then use that as an argument to stop
+      trading with the United States. But nobody’s doing that. Only Mr. Navarro and
+      the Mr. Trump who hires the Mr. Navarro and thereby joins him in the same drawer.
+      This is extraordinary desperation. This is nonsensical junk. But it will have,
+      and it is having, enormous consequences. India, you know, is an economy that wants
+      to grow in the way that the Chinese have. And that’s a big job. They’re a poor
+      country. They’re a very large country, larger than China now. They have a lot
+      of hard work ahead. They don’t need these obstacles. On the other hand, they have
+      to have a longer view, and that’s why Mr. Modi is in China now. Or will get there
+      in the next few hours if he’s not already there. He’s there because they’re going
+      to be figuring out — I’m paraphrasing Michael here — they’re going to be figuring
+      out, how do you get around what has become a rogue state? If you watch and listen
+      to Mr. Navarro, anybody who does business with Russia is indirectly aiding the
+      Ukraine war. Well, then anybody who does business with anybody who does business
+      with Russia is equally culpable. Come on! On that basis, every country punishes
+      every other. And that’s maybe where we’re going. Maybe the rest of the world will
+      simply now erect its own tariff barriers. The Indians will decide, okay, they
+      have to write off the American economy. The richest, or one of the richest, economies
+      in the world will now be cut off from the rest of the world. We have said on this
+      program, and I’m going to say it again: After World War II, the name the United
+      States applied to its policy toward the Soviet Union was “containment.” George
+      Kennan came up with that, and became famous as the architect in the State Department
+      for the State Department of containment. That was a simple word: Isolate the Soviet
+      Union so it could not infect the rest of the world. Here’s the irony: The United
+      States, by punishing the whole world, one after another — Canada, Mexico, India,
+      and on and on and on — is isolating itself. It is performing self-containment
+      because that will be a major strategic objective of many, many parts of the rest
+      of the world. ⁣MICHAEL HUDSON: Well, it’s true that Richard and I are both economists,
+      but the economics discipline no longer calls itself political economy, as it does
+      in the 19th century. Richard and I are both political economists, but that’s not
+      what the discipline is, and that’s not how the American foreign economic policy
+      is conducted. They’ve left out the political aspect, and that’s exactly the dimension
+      on which India has responded to the United States position. Modi gave a very explicit
+      speech saying that India is acting within its sovereign rights. And America’s
+      threats to punish India with the 50% import tariffs is an attack on India’s sovereignty,
+      which is its right to trade with whomever it wants. And the result is that — a
+      number of results — the newspapers have said that President Trump has tried to
+      call Modi on four different occasions. Modi has refused to pick up the phone and
+      accept the call. And the reason is obvious. He knows that Trump is going to make
+      a demand of his. He knows that his response will be: We cannot agree to that.
+      We’ve already given the explanation. We are sovereign countries. We can’t agree
+      to that. A few days ago, India’s foreign minister did something that I don’t think
+      other foreign ministers, certainly not in Europe, or even Russia or China, have
+      said explicitly. They’ve attacked President Trump personally for his policies
+      — not just saying some countries want this, or the United States wants this —
+      just President Trump [him]self. There’s a very personal antagonism now, and you
+      can see the tension that’s occurring within India. The United States wants India
+      to be a market for its food exports. The single leading guiding light of American
+      foreign policy, since 1945, is to make other countries dependent on its grain
+      exports, dependent on its food, to weaponize food. That is the core of World Bank
+      loan policy, the core of U.S. backing of dictatorships — from overthrowing the
+      Guatemalan government to imposing dictators all over Latin America — to prevent
+      land reform, to prevent replacing plantation agriculture with growing their own
+      food. And the whole fight of India is saying, we’re not going to let America weaponize
+      our food needs by bankrupting our farmers, having ourselves voted out of office
+      ignominiously, by selling out the farmers to make Mr. Trump happy, by helping
+      him rescue the faltering American agriculture. So America’s made a demand that
+      cannot possibly be met. And that, of all things, that’s what’s been accelerating
+      Modi’s abrupt 180-degree shift with China, saying: Well, a few decades ago, even
+      a few years ago, we had a military problem on the border with China. This is marginal.
+      This is trivial compared to the big realignment in trade relations between us
+      and China. Just as Trump has performed the act of peace by driving Russia and
+      China together for the next generation, Trump has now driven India together with
+      China and Russia. India was the weakest link of the BRICS because so much of the
+      Indian billionaires have ties to the United States. India has been so tied with
+      Silicon Valley, and all of the Indian computer programmers and designers in the
+      United States, that while the billionaires in India are very pro-U.S. because
+      that’s where their money was, the Indian population is very nationalistic. That’s
+      Modi’s party. It’s a nationalistic party. And so you can see that by neglecting
+      this political reality, the United States has, as usual, done exactly the opposite
+      of the intended effect that Trump announced. ⁣RICHARD WOLFF: Let me just spin
+      out. I understand this is speculation, but it’s the kind of speculation that throws
+      a light on something you ought to think about. Suppose you follow the logic of
+      what Michael just said. Then here is the deal that may be on the table in Beijing,
+      as we speak. The Chinese, who are at the forefront of artificial intelligence,
+      and everything having to do with computer, robot, and everything else; the Indians,
+      who make up an inordinate portion of what the American Silicon Valley is all about;
+      and they decide, we, together, don’t need the United States. The Indians can come
+      to Beijing and we will have half of Silicon Valley in a suburb of Beijing; and
+      the other half of Silicon Valley in a suburb of New Delhi. And that’s where all
+      of the breakthroughs in high-tech will be coming from in the years ahead. Uh-oh.
+      Uh-oh. The United States (let me remind everyone): 4.5% of the world’s people.
+      India, China, Russia: nearly half of the world’s people. With the BRICS: more
+      than half of the world’s people. In the end, the mouse will not overcome the elephant.
+      ⁣MICHAEL HUDSON: Richard, you put your finger on the key role of information technology
+      and computers. It’s not simply a rival, it’s that there are two different computer
+      systems. There’s the American AI computer system, and there’s the Chinese system.
+      And the Americans, as we talked about last week, I think the whole ending part
+      of our discussion was that America is trying to monopolize the control over the
+      system architecture of what artificial intelligence and computer chips are going
+      to be, and hoping that they can use this monopoly to weaponize it, and turn it
+      into foreign dependency on American monopolists for their computer design. If
+      India switches — as you’ve suggested, and seems logical to me — to join China
+      and Russia, this is a critical mass blocking the rest of the world, picking up
+      America’s computer technology — based as it still is, I think, on COBOL, which
+      I had to use sixty years ago, and all the sort of technology that’s fallen behind.
+      It ends America’s ability to weaponize computerization, and social media platforms,
+      and computer chip manufacturing, the whole array of monopolies that America thought
+      would be its weapon to use alongside the control of the world’s oil trade and
+      its food trade. So this is what Trump has done by his attack on India, saying,
+      here’s how much we can hurt you if you don’t become a subordinate financial and
+      military colony of ours. ⁣RICHARD WOLFF: But think of it also … the same point
+      in reverse. Why would Trump jeopardize the position of the United States, thinking
+      for a moment about what it might mean if India and China — the two, arguably two
+      of the three leading cloud computing entities — you would have to be desperate
+      to risk that? Why would you go after Indian exports? Remember, he’s not even including
+      pharmaceuticals because he carved out — they have an exemption, they don’t have
+      to pay the 50% because they produce the feedstock and the basis for America’s
+      pharmaceutical industry. So you’re only talking about 50% of what’s left. Why
+      would he risk bringing those two giants of the future technology into a reason
+      to get …? You’re either very stupid or you’re very desperate. Or maybe, maybe,
+      a combination. ⁣MICHAEL HUDSON: You got it. ⁣NIMA ALKHORSHID: Thank you so much,
+      Richard and Michael, for being with us today. Great pleasure, as always. ⁣RICHARD
+      WOLFF: Yeah, we figure out some interesting things together, don’t we? ⁣MICHAEL
+      HUDSON: Yeah. ⁣RICHARD WOLFF: Alright. ⁣NIMA ALKHORSHID: Bye-bye. Photo by Evgeni
+      Tcherkasski on Unsplash Transcription and Diarization: hudsearch Editing: KIMBERLY
+      MIMS Review: ced The post From Free Lunch to Forced Tribute first appeared on
+      Michael Hudson .'
+    one_sentence_summary: In a dialogue on August 28, 2025, Richard Wolff and Michael
+      Hudson discussed Donald Trump's comments about the U.S. profiting from military
+      sales to NATO while claiming to support efforts to end the war in Ukraine.
+    paragraph_summary: In a discussion on August 28, 2025, Nima Alkhorchid, Richard
+      Wolff, and Michael Hudson analyzed Donald Trump's comments regarding U.S. financial
+      gains from the conflict in Ukraine. Trump claimed that the U.S. is profiting from
+      selling military equipment to NATO while not directly funding Ukraine, emphasizing
+      a shift in U.S. involvement towards stopping the war rather than financial support.
+      Hudson interpreted Trump's perspective through the lens of his background as a
+      landlord, suggesting that Trump views the U.S. role in the conflict as a means
+      to generate wealth, akin to how landlords profit from property and business operations
+      within their buildings. The conversation highlighted the complexities of Trump's
+      motivations and the implications of U.S. military sales in the context of the
+      ongoing war.
+    published: '2025-09-03T11:32:24+00:00'
+  - title: From Free Lunch to Forced Tribute
+    url: https://michael-hudson.com/2025/09/from-free-lunch-to-forced-tribute/
+    text: '2025.08.28 – Dialogue Works ⁣NIMA ALKHORSHID: Hi everybody, today is Thursday,
+      August 28, 2025, and our friends Richard Wolff and Michael Hudson are back with
+      us. Welcome back, Richard and Michael. ⁣RICHARD WOLFF: Glad to be here. ⁣MICHAEL
+      HUDSON: Yeah. ⁣NIMA ALKHORSHID: Let me start with what Donald Trump said in terms
+      of how the United States is making money out of Ukraine. And here is what he said:
+      ⁣DONALD TRUMP (CLIP): They didn’t pay the two [2%], and they paid the five [5%].
+      So, and as you know, we are selling a tremendous amount of equipment to NATO.
+      We’re not spending any money. We’re making money. But I don’t want to talk about
+      making. I want to talk about, we’re no longer involved with funding Ukraine, but
+      we are involved with trying to stop the war and the killing in Ukraine. So we’re
+      selling missiles and military equipment, millions and millions, and ultimately
+      billions, of dollars, to the NATO people. We’re very friendly and we have a great
+      relationship. That was an amazing trip. So they’re funding the entire war. We’re
+      not funding anything. I think it’s an important point to make as a lot of people
+      don’t understand that. ⁣NIMA ALKHORSHID: Michael, go ahead. What’s your take?
+      What’s going on in the mind of Donald Trump? He wants to stop killing and he sends
+      more weapons? He’s trying to make money from Europeans? ⁣MICHAEL HUDSON: I think
+      if you want to understand Donald Trump, realize how he’s made his money as a landlord,
+      and how landlords think about getting rich. That’s how he’s thinking about how
+      the United States is going to get rich. And the key to a landlord getting rich
+      is not only by charging rents, not only by taking over buildings and selling them
+      at a profit, but to get a piece of the business that goes on inside of these buildings.
+      For instance, a landlord that owns a co-op or a condominium is going to rent out
+      a commercial space on the ground floor. It can be a restaurant. When the whole
+      idea of turning New York real estate into condominiums and co-ops began in the
+      1970s, the landlord would buy an old commercial building, empty it out, sell it
+      to tenants to gentrify formerly commercial buildings, like one on Broadway, or
+      a big street. And then the co-op would include the stores on the bottom. And friends
+      of mine bought co-ops, very nice whole floor-throughs on Broadway. And in a few
+      years, they didn’t have to pay any carrying charges at all on the building, on
+      their condos, because the stores paid such a large amount of rent that they paid
+      the carrying charges for the whole building. Well, very quickly, landlords caught
+      onto this. And where I live now — and all this has to do with American foreign
+      policy — the landlord, when he bought the building to turn it into a condominium,
+      kept all of the storefronts for himself, not to pay for the condominium. So, all
+      of the 61 residential tenants pay the costs of the building, and the landlord
+      keeps all of the income from the stores for himself. Well, think of the economy
+      that way. Our building now has become very high-cost — for high maintenance fees
+      every month to pay our real estate taxes and heating bills and all the operations
+      — and the landlord makes much more money than the tenants get the benefit from
+      the overall property. Well, Trump says: Let’s think of Europe, Ukraine, foreign
+      governments, and our allies, as I’d think of it as a landlord. All of their property,
+      all of their wealth is in effect treated as part of America’s sovereign wealth
+      fund, and their wealth is our wealth. And already, since 1972, America has been
+      able to have European countries turn over their savings by holding them in dollars,
+      lending them to the U.S. government by buying treasury bonds, or treasury notes,
+      or other U.S. securities. Well, now Trump is telling Europe, and it’s clearest
+      in Ukraine: Well, we want you to bear the costs of NATO, and you’ll bear the costs
+      of American foreign policy. And in addition, you’re going to give us special privileges.
+      We’re going to get some of the benefits from your public domain. Let’s take Ukraine
+      as an example. When he tried to make the deal for what was laughably called Ukraine’s
+      rare earth resources, which are all in the eastern part that’s now part of Russia,
+      Ukraine really didn’t have any resources, but Trump says: Well, we’re going to
+      have a fund, and everything that Ukraine owns in the public domain — its publicly-owned
+      utilities, its publicly-owned mineral rights, everything that a government holds
+      in the public domain, its land, its forests — is going to be put into a system
+      with the United States. And our contribution? We’re going to share 50-50, or some
+      other designated proportion, and everything that we have been spending on the
+      Cold War so far, and everything that we’re going to spend, and everything that
+      Europe spends, buying from us, on you, is going to be our contribution to this.
+      So all of a sudden, retroactively, Trump is saying, everything that you thought
+      was a gift is actually an investment that we want to be repaid. What you’re seeing
+      today, and will be seeing in Ukraine and in Europe, is exactly what happened after
+      World War I. When World War I ended, the Europeans expected, well, since America
+      was our ally, we’re all going to sort of forget and forgive all of the money that
+      each of us has spent in winning the war over the enemy. But the United States
+      said: Well, that’s true for what we’ve spent while we were your allies. Indeed,
+      no charge. But before there were allies, we were sending you a lot of arms, and
+      we now want you to pay for these arms. That was the fatal defect of the Treaty
+      of Versailles: Europe had to pay America for the inter-allied arms debts, just
+      like Ukraine is now being billed for the arms, retroactively, that the United
+      States spent there. Well, that’s led the allies to say: Well, we don’t want to
+      pay, let’s make Germany pay. And of course, the result bankrupted Germany, led
+      to Nazism and World War II. This overreaching American demand on Ukraine is going
+      to be somehow, Ukraine: You’re going to have to pay. For instance, the International
+      Monetary Fund has also made huge loans to Ukraine, against its operating rules
+      that prevent it from making loans to a country at war. The International Monetary
+      Fund has more money than Ukraine can generate in the next twenty or thirty years.
+      Permanent debt servitude. The United States, in essence, is saying, well, you
+      may owe the U.S. all this money. We’ll certainly help you pay the IMF by selling
+      us your raw materials, to American mineral companies, to American farm companies,
+      to BlackRock and other countries, and you can use what you get in payment for
+      selling off your land and public domain, to pay the IMF and to begin sharing all
+      of the profits, all the revenue from these resources that you keep with us, to
+      pay for all of the arms that we’ve paid you. This is a new kind of mercantilism.
+      It’s called neomercantilism. And it’s the most demanding, exploitative, free-lunch
+      kind of rentier income that you’ve had since the European colonialism of the late
+      19th century. And America has become a rentier society. And what Trump has made
+      explicit — that was always implicit, but never explicit before — is that America
+      has to be the immediate short-term and long-term financial gainer from any trade
+      and investment, and monetary arrangement that we may make, with other countries.
+      And this is basically the rentier mentality: how to get something for nothing.
+      That’s what a rentier economy does. Well, in 1944 and 1945, America at least was
+      able to say: We want the whole world to get rich by an open economy. They’re going
+      to be the same rules for the whole economy: the United Nations rules, the international
+      monetary rules, the World Bank rules, and trade rules. All of that was supposed
+      to be: every country gets to gain by relations with other countries. Trump has
+      said: There’s going to be one gainer: Your gain is our gain. If you were our allies,
+      or if you’re our trading partner, or if you’re a foreign company that invests
+      in the United States, we get the returns, we get at least a share of your profits.
+      This is like America is the landlord for foreign investments, whether it’s a German
+      car company, or a Japanese company, or a Taiwanese computer company. You have
+      to give us a share of your profits. Other countries are being treated just like
+      Trump is treating Intel, the chipmaking corporation in the United States. Trump
+      said: the Biden administration has been awarding you, you know, we have scheduled
+      to give you, all sorts of support to build up our computer chip industry. All
+      of that money that has already been promised you as a subsidy, you have to give
+      us back something. You have to treat this as if it’s an investment in your common
+      stock, and that adds up to about 10% of all of your common stock. You have to
+      give us your common stock — 10% of it — so that we can share in your profits.
+      Well, obviously, this is a retroactive demand. This is a very close analogy to
+      what the United States is demanding from its European allies: If you want our
+      market, you have to give us something for it. Just like if you’re an American
+      home buyer wanting a home, wanting to buy a condo in our building, you have to
+      absorb all of the carrying charges for the building, including the ground floor
+      commercial properties. And we, the landlord, get all of the gain from what is
+      a commercially viable, independent property. So it’s a slicing and dicing of foreign
+      economies into what the government can extract from its government ownership of
+      utilities, monopolies, land, mineral rights, forests, and the whole works: that
+      is now to be paid [to] the United States. Well, you can imagine that’s why we
+      haven’t heard much news in the last week for us to report, because I think all
+      the Europeans — Putin is in China meeting with them, I think that Modi is going
+      to China soon — everybody’s talking about how are we going to cope with the U.S.
+      demands? Is it really worth dealing with the American market? If it’s going to
+      be a ‘lose’ proposition for us, is there any alternative that we can make so that
+      we get to keep our own wealth that we create in our own hands, instead of turning
+      it over to the United States to dissipate in the Cold War that’s a wedge blocking
+      us off from making money through the BRICS market, the Asian market, and markets
+      that the United States want to isolate. ⁣NIMA ALKHORSHID: Richard, I think one
+      of the key points in what Michael just said is Trump’s rentier mentality. And
+      for many of us, it’s somehow confusing. Let me put this question to you: Does
+      Trump’s rentier mentality in foreign policy represent a fundamental shift in U.S.
+      diplomacy, or is it simply an extreme extension of longstanding U.S. strategies
+      of extracting economic advantage from allies and rivals? ⁣RICHARD WOLFF: It’s
+      a little bit of both. It is a continuation of an empire under new and changed
+      circumstances, that the very success of that empire brought about, and which now
+      threaten that empire. So it has to do things it didn’t used to have to do. That’s
+      what you’re seeing. So, yeah, it’s a little bit continuation, and it’s a little
+      bit desperate new measures. The very fact that Michael has to say, at the end
+      of what he just told us, that Xi Jinping, and Mr. Modi, and Mr. Putin, and others
+      are meeting in Beijing, that’s already a sign that they are doing what Michael
+      says. Of course, they are going to be discussing a common problem that they all
+      have, which is the behavior of a United States, which isn’t acting like it used
+      to. Previous presidents didn’t throw tariffs at everybody. Previous presidents
+      didn’t punch the Canadians, or punch the Mexicans, or, now, punch the Indians.
+      And they have to react to that. And they will. But I want to go back to the first
+      clip you played: Mr. Trump celebrating how he has gotten the Europeans to pay.
+      Let me explain something because the American public is so used to being told
+      that what happens in the world is due to the United States, that they don’t understand
+      when that doesn’t happen, and therefore they don’t understand what’s happening
+      to them. Michael and I have been critically mocking the Europeans for quite a
+      while now because of their subservience to the United States on so many levels.
+      They are now led by political leaders that literally are slavish towards the United
+      States: [Keir] Starmer, [Emmanuel] Macron, even [Georgia] Meloni, [Friedrich]
+      ‘Schmerz,’ all of them. But this time, I want to take my hat off. The Europeans
+      — which sometimes happens — the servants sometimes outmaneuver the boss. And they
+      just did. Here’s how this works: They were desperately trying to keep Mr. Trump
+      from walking away from the Ukraine war because it’s a loser — and he doesn’t like
+      to be associated with losing propositions. And why? Because he has already been
+      associated with so many. Every business he starts fails. Okay? So he wanted to
+      walk away. And he said to the Europeans, repeatedly: I’m out. We’re out. We’re
+      not doing this anymore. The Europeans became desperate. The entire politics of
+      Western Europe has been to be the junior partner of the United States since World
+      War II. That’s all they know. That’s how they all got a career, by doing that
+      even more slavishly than other politicians — which is why we never heard of the
+      other ones and we all know their names. So, of course, they’re not going to change.
+      They can’t. That’s who they are. How could they get Mr. Trump to change his mind?
+      They tried everything. Everything failed except one thing, which has now worked.
+      They went to the American military corporations and they said to them: If Mr.
+      Trump withdraws, then he’s not going to need all of the missiles, and all of the
+      airplanes that you have been selling him — and making a fortune, which if you
+      look at their stocks over the last three years of the war, you will see they did.
+      And so the Europeans said to them: Here’s what we’ll do. We’ll give Mr. Trump
+      the chance to say to the American people, I won’t pay for them anymore. But you
+      won’t lose the business because Mr. Trump, Mr. Trump will sell what you produce
+      to us. Thereby, you’ll keep the orders. They’ll keep coming. We’ll keep shooting
+      missiles into Russia and into Ukraine. We’ll keep using up all the guns, and all
+      the planes. Your business is secure if you work with us, the Europeans, to provide
+      this solution to Mr. Trump. It won’t be American dollars. It will be European
+      dollars. And that’s where I come together with Michael. We’ve gotten the Europeans
+      to fund the military-industrial complex of the United States. And this will not
+      end. This is just the beginning. So it’s very important that you understand that.
+      That’s the plus side. Here’s the negative side. The Europeans will now have to
+      come up with huge amounts of money to buy the military equipment that Mr. Trump
+      is now going to sell them. And where are they going to get the money from? They’re
+      going to have to go deeper into debt — that’s what Germany is doing — and they’re
+      going to have to curtail their social welfare spending to free up the tax money
+      to pay for it all. And that is going to sharpen the social conflicts inside all
+      of Europe because their working classes are organized, unlike the American. They
+      have the organizations with which to protest. That’s why September 10th is the
+      date to focus on, because that’s when the French have announced they’re going
+      into the streets to shut the country down because of its threatening the social
+      welfare state. The new budget of Mr. Macron takes away paid holidays, reduces
+      the pension, increases the deductibles on their medical insurance, and a whole
+      lot of other horrific things. As they go down — the Merzes, the Macrons, the Starmers
+      — they proved themselves able to manipulate Mr. Trump. They tried several things.
+      It didn’t work. They kept at it and they came up with a solution. They will keep
+      the guns and missiles from the United States flowing. The industrial military
+      complex will be happy. And the only loss will be if Mr. Trump withholds intelligence
+      and the active participation of the American military in Ukraine. And my guess
+      is he probably won’t. So that war will continue, which for the American military
+      producers is very good news. And for the Europeans who make this happen, it is
+      very good political news because they have nothing else. In the long run, my guess
+      is that the social conflicts inside Europe will get worse, as they will in the
+      short run, with this program. And that’s what we’ll be talking about in the months
+      ahead. ⁣NIMA ALKHORSHID: Just to prove what Richard said, here is Lutnik talking
+      about what Richard said: ⁣HOWARD LUTNICK (CLIP): It’s got to be fair for America.
+      ⁣INTERVIEWER (CLIP): Secretary, why shouldn’t the U.S. government say: You know
+      what? We use Palantir services. We would like a piece of Palantir. We use Boeing
+      services. We would like a piece of Boeing. There are a lot of businesses that
+      do business with the U.S. government, that benefit by doing business with the
+      U.S. government. I guess the question is: Where’s the line? ⁣HOWARD LUTNICK (CLIP):
+      Oh, there’s a monstrous discussion about defense. I mean, Lockheed Martin makes
+      97% of their revenue from the U.S. government. They are basically an arm of the
+      U.S. government. They make exquisite munitions. I mean, amazing things that can
+      knock a missile out of the air when it’s coming towards you. But what’s the economics
+      of that? I’m going to leave that to my Secretary of Defense and the Deputy Secretary
+      of Defense. These guys are on it and they’re thinking about it. But I tell you
+      what, there’s a lot of talking that needs to be had, about how do we finance our
+      munitions acquisitions. I think a lot of that is talking. And now you have the
+      right people in the jobs, and Donald Trump at the head thinking about what is
+      the right way to do it. I tell you, the way it has been done has been a giveaway.
+      ⁣NIMA ALKHORSHID: Lockheed Martin is making more than 97% of its revenue from
+      the government. ⁣RICHARD WOLFF: Yes, I mean, you know, it is beautiful to watch
+      the ignorance on display, no awareness of what it is that they are copying. The
+      argument of the German Nazis was exactly the same: We’re in a position, we buy
+      most of what they produce, they depend on us in a hundred ways. We could have
+      a more efficient arrangement … It’s the same logic that makes a big company buy
+      a small one: It’s more “efficient” if they’re internal than external. I used to
+      love it because I used to explain to these people in seminars when they would
+      call me in — because I’m a professor, they assume I thought the way they did —
+      and I would say to them: The entire logic of economics celebrating “the market”
+      is for these 27 reasons … If you buy a company, you are destroying the market.
+      There is no market anymore. That has become an internal operation. You criticize
+      the Soviet Union because everything is internal to the government. That’s what
+      you’re doing! And they would look at me like little puppies who have just done
+      something on the family rug that they shouldn’t have, because they didn’t know
+      the answer. They want the professor to celebrate the market, as they destroy the
+      market, as they refuse the market, and tell you how much more “efficient” we can
+      be if we don’t have a market. That’s fascism. That’s what it is about. It’s about
+      state running capitalist enterprises so that the state enforces the capitalist
+      system for the benefit of the rich. Notice that when Mr. Lutnik or Mr. Trump talk
+      about it, it’s about the rich: We’re going to get richer. We’re going to have
+      more GDP. We’re going to … In socialist countries, when the government takes over
+      private enterprise, it’s about raising the country out of poverty, lifting the
+      wages … and I’m not happy with what goes on — I’m not endorsing China or any of
+      this — but it’s using the state merger with the private for a very different purpose,
+      a whole different set of goals in the case of a China or a Russia, than you have
+      here. And therein lies the difference. It’s as if you didn’t understand, oh, they’re
+      the same thing: they have a president, they have a president. Yeah, but what the
+      president means differs in one country from another. They’re not the same because
+      they have something similar, I mean, that’s a childish way of thinking. I’ve had
+      that all my life when people tell me, oh, Stalin was a dictator, and Hitler was
+      a dictator. Oh, goodness! That’s true. They both urinated, standing up. That doesn’t
+      mean very much. That doesn’t make them the same. You know, for God’s sake, did
+      you notice that they went to war and killed each other in huge numbers? Might
+      give you a clue that they had some differences. ⁣NIMA ALKHORSHID: Go ahead, Michael.
+      ⁣MICHAEL HUDSON: Every economy is a market. Finance capitalism is a market. Socialism
+      is a market. Richard, I’m trying to figure out what you were saying at the very
+      beginning. You said that Europe had a positive response to the United States.
+      I thought that what the positive response you were going to talk about was Europe
+      would have said, well, you’re saying that we have to pay the costs of fighting
+      Ukraine now, that the United States paid before, by largely fighting with American
+      arms. I thought Europe’s response, could have said, well, we are going to fight
+      Ukraine, but we’re going to fight it with Europe’s and Germany’s military industrial
+      complex. We’re going to fight it with Rheinmetall and the other companies. And
+      in fact, the European stock market has been going up more than the U.S. stock
+      market. International stock market investors are shifting out of the U.S. market,
+      into the European market. And much of this investment is going into Europe’s own
+      military-industrial complex. That could have been the response by Europe saying,
+      well, if we are going to have to bear the costs of war fighting with Ukraine,
+      we have to afford it. And the only way we can afford it, two ways: one, the budget
+      costs of our own budget deficit, which is limited, and two, the balance-of-payments
+      costs. Richard, you pointed out, correctly, that the only way that Europe could
+      afford to buy American arms along the lines that Donald Trump has outlined is
+      to borrow the money. That’s quite right. Well, if Europeans borrow the money,
+      this is going to cause a demand for dollars, basically, out of the Euros. That’s
+      going to support the dollar’s exchange rate, just the opposite of what Trump wants,
+      to push the exchange rate down. And in a way, this is a transfer problem (it’s
+      called). It’s very different from the domestic budgetary problem. As long as Europe
+      insists on counting its foreign exchange dollar spending as part of its domestic
+      economy, then of course there’s going to be a forced cutback in social spending.
+      And that’s why, as you point out, the French are rebelling in a few weeks because
+      France’s foreign debt has gone up, causing Macron to very sharply increase taxes.
+      So, what Europeans are seeing is, in a way, the same kind of problem that Americans
+      are seeing. They’re seeing, we can’t get housing, we can’t afford to meet our
+      basic expenditures because the government has cut back its social spending, and
+      because of all of this financial inflation of real estate prices. So, we see the
+      financiers, the bankers, and the absentee owners, and the monopolists, all getting
+      rich, and we’re getting poorer and poorer. Inequality and polarization is what
+      has been leading to revolutions ever since the French Revolution. So, that’s part
+      of the problem. And I think if we’re talking about how the United States is trying
+      to force the costs of war onto its allies, look at what’s happened in South Korea
+      in the last few days. The president of South Korea has been over here in the United
+      States, and the United States is saying: Well, you’re going to now have to pay
+      for all of our troops in South Korea to protect you from China. And the Korean
+      president pointed out: China is our main export market. China is our main import
+      market. Most of our relations are: China. Why are you trying to force us to decide
+      between relations with China — which means our entire economic future — or the
+      United States —which we don’t see a future on because I don’t see how we can make
+      the money, the dollars, to pay for the American military industrial arms and your
+      occupation, without being able to export our cars and our electronics to you?
+      And you’ve just raised the tariffs to prevent us from exporting cars and computers
+      to you. So you’ve made it impossible for us to bear the costs of supporting American
+      military defense. Maybe we have a solution. Maybe for $100 in total, we can meet
+      with the Chinese and say: Let’s have peace, not war. Let’s make a non-aggression
+      pact, and let’s restructure our trade. We realize that we’ve lost the U.S. market,
+      forever. We are willing to tell the United States what Iraq has told the United
+      States: Get out of our country, we cannot afford you, we don’t have the money
+      to pay you, and we’re not going to devalue our currency by buying dollars in order
+      to pay for your occupation. The costs of being your ally means our national bankruptcy,
+      and we can’t afford it. That is essentially what the Korean president said. It
+      is what the European opposition parties are in a position to say — once the current
+      NATO leadership of Merz and Macron and Starmer are replaced by what, I guess,
+      a kind of either right-wing or left-wing nationalist parties that say: We cannot
+      afford the terms of the war with Russia that Donald Trump has said we have to
+      have, of essentially becoming a servant economy, a servile economy, to the United
+      States. We simply cannot afford war anymore. It’s time to negotiate peace. Well,
+      Trump ran, pretended to be a peace president. He’s the largest war president in
+      American history. He’s declared war on multiple fronts, not only against Russia,
+      not only against Gaza, not only against Venezuela, but against Azerbaijan, against
+      China and the China Sea, against Syria, by backing al-Qaeda. There’s war all over
+      the place from Trump. And the fact is that this multi-front Cold War that Trump
+      has expanded on, America’s war against the whole rest of the world, cannot be
+      afforded by foreign countries. They’re not going to pay for America’s war against
+      them, designed to prevent them from earning the money to pay for the war, by trading
+      with China and the BRICS and the global majority, which is the growth area of
+      the world. There is literally no alternative, as Margaret Thatcher would say,
+      to saying we cannot afford the Cold War on American terms. And the fact is, we
+      can negotiate peace among ourselves, and have the kind of multipolar trading relationship
+      that the United States pretended to introduce back in 1945. So this is a whole
+      split in the whole way in which the world economy is organized, as we’ve been
+      talking about all along. ⁣RICHARD WOLFF: Could I make just one comment on that
+      before we go ahead? I want to go back to my story about the Europeans. Michael
+      is right: The preferred thing they would do and what they talk about is building
+      up their military capacity, but this is — if you pardon my Spanish — bullshit.
+      They can’t do that because they haven’t done it for seventy-five years. Their
+      military is laughable. It’s too small. It’s poorly equipped. They don’t have anything.
+      If the United States withdraws its military equipment from Ukraine, the Russian
+      victory becomes a rout. It’s halfway there already. They can’t stop it. Okay?
+      And they will look as weak and ineffective as they actually are. And they know
+      it. So what they need, they need several years, even if that will be enough, to
+      try to catch up, in some meaningful sense, so they have a credible military apparatus.
+      That’s all they need. And that’s what they figured out how to get. Mr. Trump will
+      provide them with enough of the extra American stuff that they can hold on, which
+      means they now have an immense vested interest in keeping the war in Ukraine going,
+      which you can see by everything they say and do. And they will have an enormous
+      ally in the American military-industrial complex, which will need that war to
+      continue so that it can sell the arms to Trump, who resells them to the Europeans.
+      So they’ve got their political ducks in a row. They’ll keep this war going. It
+      will last another two or three years. That will be costly for the Russians. They
+      like that. And then hopefully they will have spent the money. The only possible
+      danger is that the mass of people, the working classes in England, France, Germany,
+      and Italy, will step in and say: No, no, you can’t do that. I want to remind people,
+      when Mr. Macron tried to delay pensions by making the pension-eligible age go
+      from 62 years of age to 64, we had something that the whole world noticed called
+      the Yellow Vest Movement, “Gilets Jaunes,” in French. And when that movement hit
+      its peak, Mr. Macron withdrew the proposal to make the pension-eligible age older.
+      The working class blocked him. And they’re going to do that again. ⁣MICHAEL HUDSON:
+      I think that the idea of Europe trying to continue a war is military suicide,
+      and Europe will be wiped out within three years. A few weeks ago, a European-owned
+      missile was fired on, I think, a Sochi oil refinery in Russia, doing quite a bit
+      of damage, closing down the oil refinery for quite a bit and causing a big problem.
+      A few days later, a mysterious fire, an explosion, occurred in Hamburg, Germany,
+      at the oil refinery there. And the supposition is, well, maybe that’s Russia saying:
+      We’re going to retaliate in any way. You Germans sent a missile. Doesn’t matter
+      if it was American-made or German-made. It’s your missile. You send it over. You
+      bomb our refinery. We’re going to bomb your refinery. And as I think we’ve said
+      numerous times, along with other guests on your show, Nima, that Russia has said:
+      If we are hit by a European missile — and that’s the only way that Europe can
+      fight a war, it has no troops, no tanks, no arms — If we’re hit by a missile,
+      we will retaliate against Europe in kind. And as Trump has told Ukraine: If you’re
+      really going to fight a war, you have to fight the attacker. He’s pretending that
+      Russia is the attacker, not NATO, not Ukraine. In fact, NATO is the attacker on
+      Russia. So he gets it all wrong. He’s dropped all pretense that he’s an honest
+      broker. He’s representing the hardline neocon Cold War against Russia. And Russia
+      is not going to bomb the United States, but it’s quite willing to bomb the Europeans
+      who send the arms against Russian territory, and they will respond against European
+      territory. And if Europe continues to say, we’re at war with Russia now, it’s
+      our war against Russia, not America’s, then Russia is going to say, yes, we’re
+      at war. Ka-boom. War is over, and so is Europe. ⁣NIMA ALKHORSHID: But White House
+      Trade Advisor Peter Navarro believes that this is India’s war. We know that they
+      put 50% tariffs on India. And here is what he said, Richard, responding to the
+      reporter: ⁣INTERVIEWER (CLIP): … talks with India right now. Is there a potential
+      for a deal to change that number? ⁣PETER NAVARRO (CLIP): Look, it’s real easy.
+      India can get 25% off tomorrow, if it stops buying Russian oil and helping to
+      feed the war machine. INTERVIEWER (CLIP): They’re not sending that signal. ⁣PETER
+      NAVARRO (CLIP): They’re not. And look, here’s the thing: I’m puzzled, okay? Because
+      Modi is a great leader. These people are, this is a mature democracy with intelligent
+      people running it, and they look us bald-faced in the eye on the tariff part,
+      and say: We don’t have the highest tariffs in the world — when, in fact, they
+      do. There’s no dispute about that, if you look at the numbers. And then they say:
+      We’re not going to stop buying Russian oil. Now, what does that mean? I mean,
+      we’ve talked about this, but it’s worth talking to your viewers again. When India
+      buys Russian oil at a discount, and then Indian refiners, in partnership in India
+      with Russian refiners, make that and sell it at a premium to the rest of the world,
+      right? Russia uses the money it gets to fund its war machine, kill more Ukrainians,
+      and then the next thing that happens, of course, is Ukraine comes to us and Europe
+      and says: Give us some more money. So everybody in America loses because of what
+      India is doing. The consumers and businesses and everything lose, and workers
+      lose because India’s high tariffs cost us jobs and factories and income and higher
+      wages. And then the taxpayers lose because we gotta fund Modi’s war, okay? The
+      road to peace runs, at least partly, right through New Delhi. INTERVIEWER (CLIP):
+      You mean Putin’s war? ⁣PETER NAVARRO (CLIP): I mean, Modi’s war, because the road
+      to peace runs, in part, through New Delhi. ⁣NIMA ALKHORSHID: Yeah, this is Modi’s
+      war. Richard, your take? ⁣RICHARD WOLFF: Yes, well, Mr. Navarro is an economist,
+      and I am an economist, and Michael is an economist. At that point, we part company.
+      When this man talks, I have a vision in my mind that is captured by the phrase,
+      “not the sharpest knife in the drawer.” Anybody who trades with Russia is in some
+      way making money off making that trade because that’s why the trade happens. It’s
+      profitable for the two sides to get together. That’s what trading is about. Russia
+      trades, I would guess, with at least a hundred countries in the world, one of
+      which is India. Okay. Mr. Navarro has decided that if you trade with Russia, and
+      you make money for Russia as part of the trade, well, therefore, you’re killing
+      Ukrainians. Okay. On that grounds, there should be an endless war of everybody
+      against everybody, because Mr. Putin would be able to say exactly the same thing
+      about the United States, and everybody who trades with the United States: You
+      are providing profits for the United States, which are taxed and used by the government
+      to kill Russians in Ukraine. So, therefore, I am going to punish you. This way
+      of reasoning is so stupid that you kind of, it takes your breath away. Not that
+      he says it — this is old silly junk — but that a man in his position says it,
+      with all the clarity and enthusiasm that this poor fellow can drag out of his
+      soul, tells you only about him, not about anything else. If the Indians permitted
+      the Americans to do this, right? They would be inviting every politician in the
+      world, not just Americans, to use this kind of an argument to force concessions
+      out of India. That’s why we don’t do that, in general, in the world. That’s why
+      no other country is throwing tariffs at everybody, let alone using it to justify
+      your position in a war. The war in Ukraine runs through Washington, D.C., which
+      made the decision to push NATO to the frontier of Russia. Everybody who isn’t
+      silly knows that. If you want to, you can then use that as an argument to stop
+      trading with the United States. But nobody’s doing that. Only Mr. Navarro and
+      the Mr. Trump who hires the Mr. Navarro and thereby joins him in the same drawer.
+      This is extraordinary desperation. This is nonsensical junk. But it will have,
+      and it is having, enormous consequences. India, you know, is an economy that wants
+      to grow in the way that the Chinese have. And that’s a big job. They’re a poor
+      country. They’re a very large country, larger than China now. They have a lot
+      of hard work ahead. They don’t need these obstacles. On the other hand, they have
+      to have a longer view, and that’s why Mr. Modi is in China now. Or will get there
+      in the next few hours if he’s not already there. He’s there because they’re going
+      to be figuring out — I’m paraphrasing Michael here — they’re going to be figuring
+      out, how do you get around what has become a rogue state? If you watch and listen
+      to Mr. Navarro, anybody who does business with Russia is indirectly aiding the
+      Ukraine war. Well, then anybody who does business with anybody who does business
+      with Russia is equally culpable. Come on! On that basis, every country punishes
+      every other. And that’s maybe where we’re going. Maybe the rest of the world will
+      simply now erect its own tariff barriers. The Indians will decide, okay, they
+      have to write off the American economy. The richest, or one of the richest, economies
+      in the world will now be cut off from the rest of the world. We have said on this
+      program, and I’m going to say it again: After World War II, the name the United
+      States applied to its policy toward the Soviet Union was “containment.” George
+      Kennan came up with that, and became famous as the architect in the State Department
+      for the State Department of containment. That was a simple word: Isolate the Soviet
+      Union so it could not infect the rest of the world. Here’s the irony: The United
+      States, by punishing the whole world, one after another — Canada, Mexico, India,
+      and on and on and on — is isolating itself. It is performing self-containment
+      because that will be a major strategic objective of many, many parts of the rest
+      of the world. ⁣MICHAEL HUDSON: Well, it’s true that Richard and I are both economists,
+      but the economics discipline no longer calls itself political economy, as it does
+      in the 19th century. Richard and I are both political economists, but that’s not
+      what the discipline is, and that’s not how the American foreign economic policy
+      is conducted. They’ve left out the political aspect, and that’s exactly the dimension
+      on which India has responded to the United States position. Modi gave a very explicit
+      speech saying that India is acting within its sovereign rights. And America’s
+      threats to punish India with the 50% import tariffs is an attack on India’s sovereignty,
+      which is its right to trade with whomever it wants. And the result is that — a
+      number of results — the newspapers have said that President Trump has tried to
+      call Modi on four different occasions. Modi has refused to pick up the phone and
+      accept the call. And the reason is obvious. He knows that Trump is going to make
+      a demand of his. He knows that his response will be: We cannot agree to that.
+      We’ve already given the explanation. We are sovereign countries. We can’t agree
+      to that. A few days ago, India’s foreign minister did something that I don’t think
+      other foreign ministers, certainly not in Europe, or even Russia or China, have
+      said explicitly. They’ve attacked President Trump personally for his policies
+      — not just saying some countries want this, or the United States wants this —
+      just President Trump [him]self. There’s a very personal antagonism now, and you
+      can see the tension that’s occurring within India. The United States wants India
+      to be a market for its food exports. The single leading guiding light of American
+      foreign policy, since 1945, is to make other countries dependent on its grain
+      exports, dependent on its food, to weaponize food. That is the core of World Bank
+      loan policy, the core of U.S. backing of dictatorships — from overthrowing the
+      Guatemalan government to imposing dictators all over Latin America — to prevent
+      land reform, to prevent replacing plantation agriculture with growing their own
+      food. And the whole fight of India is saying, we’re not going to let America weaponize
+      our food needs by bankrupting our farmers, having ourselves voted out of office
+      ignominiously, by selling out the farmers to make Mr. Trump happy, by helping
+      him rescue the faltering American agriculture. So America’s made a demand that
+      cannot possibly be met. And that, of all things, that’s what’s been accelerating
+      Modi’s abrupt 180-degree shift with China, saying: Well, a few decades ago, even
+      a few years ago, we had a military problem on the border with China. This is marginal.
+      This is trivial compared to the big realignment in trade relations between us
+      and China. Just as Trump has performed the act of peace by driving Russia and
+      China together for the next generation, Trump has now driven India together with
+      China and Russia. India was the weakest link of the BRICS because so much of the
+      Indian billionaires have ties to the United States. India has been so tied with
+      Silicon Valley, and all of the Indian computer programmers and designers in the
+      United States, that while the billionaires in India are very pro-U.S. because
+      that’s where their money was, the Indian population is very nationalistic. That’s
+      Modi’s party. It’s a nationalistic party. And so you can see that by neglecting
+      this political reality, the United States has, as usual, done exactly the opposite
+      of the intended effect that Trump announced. ⁣RICHARD WOLFF: Let me just spin
+      out. I understand this is speculation, but it’s the kind of speculation that throws
+      a light on something you ought to think about. Suppose you follow the logic of
+      what Michael just said. Then here is the deal that may be on the table in Beijing,
+      as we speak. The Chinese, who are at the forefront of artificial intelligence,
+      and everything having to do with computer, robot, and everything else; the Indians,
+      who make up an inordinate portion of what the American Silicon Valley is all about;
+      and they decide, we, together, don’t need the United States. The Indians can come
+      to Beijing and we will have half of Silicon Valley in a suburb of Beijing; and
+      the other half of Silicon Valley in a suburb of New Delhi. And that’s where all
+      of the breakthroughs in high-tech will be coming from in the years ahead. Uh-oh.
+      Uh-oh. The United States (let me remind everyone): 4.5% of the world’s people.
+      India, China, Russia: nearly half of the world’s people. With the BRICS: more
+      than half of the world’s people. In the end, the mouse will not overcome the elephant.
+      ⁣MICHAEL HUDSON: Richard, you put your finger on the key role of information technology
+      and computers. It’s not simply a rival, it’s that there are two different computer
+      systems. There’s the American AI computer system, and there’s the Chinese system.
+      And the Americans, as we talked about last week, I think the whole ending part
+      of our discussion was that America is trying to monopolize the control over the
+      system architecture of what artificial intelligence and computer chips are going
+      to be, and hoping that they can use this monopoly to weaponize it, and turn it
+      into foreign dependency on American monopolists for their computer design. If
+      India switches — as you’ve suggested, and seems logical to me — to join China
+      and Russia, this is a critical mass blocking the rest of the world, picking up
+      America’s computer technology — based as it still is, I think, on COBOL, which
+      I had to use sixty years ago, and all the sort of technology that’s fallen behind.
+      It ends America’s ability to weaponize computerization, and social media platforms,
+      and computer chip manufacturing, the whole array of monopolies that America thought
+      would be its weapon to use alongside the control of the world’s oil trade and
+      its food trade. So this is what Trump has done by his attack on India, saying,
+      here’s how much we can hurt you if you don’t become a subordinate financial and
+      military colony of ours. ⁣RICHARD WOLFF: But think of it also … the same point
+      in reverse. Why would Trump jeopardize the position of the United States, thinking
+      for a moment about what it might mean if India and China — the two, arguably two
+      of the three leading cloud computing entities — you would have to be desperate
+      to risk that? Why would you go after Indian exports? Remember, he’s not even including
+      pharmaceuticals because he carved out — they have an exemption, they don’t have
+      to pay the 50% because they produce the feedstock and the basis for America’s
+      pharmaceutical industry. So you’re only talking about 50% of what’s left. Why
+      would he risk bringing those two giants of the future technology into a reason
+      to get …? You’re either very stupid or you’re very desperate. Or maybe, maybe,
+      a combination. ⁣MICHAEL HUDSON: You got it. ⁣NIMA ALKHORSHID: Thank you so much,
+      Richard and Michael, for being with us today. Great pleasure, as always. ⁣RICHARD
+      WOLFF: Yeah, we figure out some interesting things together, don’t we? ⁣MICHAEL
+      HUDSON: Yeah. ⁣RICHARD WOLFF: Alright. ⁣NIMA ALKHORSHID: Bye-bye. Photo by Evgeni
+      Tcherkasski on Unsplash Transcription and Diarization: hudsearch Editing: KIMBERLY
+      MIMS Review: ced The post From Free Lunch to Forced Tribute first appeared on
+      Michael Hudson .'
+    one_sentence_summary: In a dialogue on August 28, 2025, Richard Wolff and Michael
+      Hudson discussed Donald Trump's comments about the U.S. profiting from military
+      sales to NATO while claiming to support efforts to end the war in Ukraine.
+    paragraph_summary: In a discussion on August 28, 2025, Nima Alkhorchid, Richard
+      Wolff, and Michael Hudson analyzed Donald Trump's comments regarding U.S. financial
+      gains from the conflict in Ukraine. Trump claimed that the U.S. is profiting from
+      selling military equipment to NATO while not directly funding Ukraine, emphasizing
+      a shift in U.S. involvement towards stopping the war rather than financial support.
+      Hudson interpreted Trump's perspective through the lens of his background as a
+      landlord, suggesting that Trump views the U.S. role in the conflict as a means
+      to generate wealth, akin to how landlords profit from property and business operations
+      within their buildings. The conversation highlighted the complexities of Trump's
+      motivations and the implications of U.S. military sales in the context of the
+      ongoing war.
+    published: '2025-09-03T11:32:24+00:00'
   - title: Rome’s Arc, America’s Echo
     url: https://michael-hudson.com/2025/09/romes-arc-americas-echo/
     text: 'Letters & Politics – KPFA MITCH JESERICH: Good day and welcome to Letters

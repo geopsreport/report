@@ -7,16 +7,372 @@ description: "Journalist and producer; covers US foreign policy, Russiagate, and
 websites:
   - https://www.aaronmate.net/
 summary: |
-  The ongoing conflicts in Ukraine and Gaza continue to dominate the geopolitical landscape, with recent developments signaling potential shifts in both arenas. Over the past weeks, the Ukraine war has seen a notable change in U.S. policy, while the humanitarian crisis in Gaza remains acute amid stalled diplomatic efforts.
+  As the Ukraine conflict, Middle East crises, and debates over Western intelligence practices continue to reshape global politics, recent developments highlight deepening skepticism toward official narratives and shifting alliances.
   
-  Most recently, President Trump has shifted from a hardline sanctions approach against Russia to accepting negotiations for a ceasefire in Ukraine. As **Aaron Maté** reports, this move reflects changing battlefield realities and complicates the position of Ukrainian President Zelensky, who now faces mounting pressure both domestically and internationally. This comes as Trump prepares for a summit with Vladimir Putin, with the possibility of a territorial "swapping" arrangement being floated as a potential resolution—an idea that marks a significant departure from previous U.S. positions.
+  The most significant new revelations concern the Organization for the Prohibition of Chemical Weapons (OPCW) and its investigation into the alleged 2018 chemical attack in Douma, Syria. According to leaked documents analyzed by **Aaron Maté**, the OPCW’s own investigative team found no evidence implicating the Syrian government in the attack that prompted US, UK, and French military strikes. Maté reports that these findings were suppressed and manipulated by OPCW officials, a move largely ignored by mainstream outlets. The whistleblower’s disclosures raise further questions about the integrity of international watchdogs and the role of intelligence in justifying military interventions.
   
-  Meanwhile, the situation in Gaza remains dire. Despite widespread international criticism of Israel's ongoing siege, ceasefire talks with Hamas have collapsed. According to **Aaron Maté**, President Trump and Special Envoy Steve Witkoff attributed the breakdown to what they described as Hamas's lack of good faith, effectively greenlighting Israel to "finish the job" in Gaza. The humanitarian crisis is expected to worsen in the absence of diplomatic progress.
+  Meanwhile, the Ukraine war remains at a diplomatic crossroads. Recent weeks saw President Trump shift from a hardline sanctions approach to a willingness to negotiate a ceasefire with Russia, reflecting changing realities on the battlefield. **Benoit Paré**, a former French defense ministry analyst, emphasizes that Ukraine’s failure to implement the Minsk accords and the influence of ultra-nationalist factions are major obstacles to peace. This aligns with a broader consensus among independent observers that Western policies have contributed to prolonging the conflict rather than resolving it.
   
-  On the intelligence front, newly declassified documents have cast further doubt on longstanding claims of Russian interference in the 2016 U.S. election. **Aaron Maté** highlights that U.S. intelligence officials harbored significant skepticism about the narrative that Russia hacked and leaked Democratic Party materials, a revelation that undermines years of political controversy and investigation.
+  On the intelligence front, newly declassified documents continue to undermine the narrative of Russian interference in the 2016 US election. As **Aaron Maté** notes, there were “significant doubts” within US intelligence about claims that Russia hacked and leaked Democratic Party materials, even as Special Counsel Mueller’s investigation failed to establish a conspiracy. These disclosures fuel growing calls for accountability over the politicization of intelligence and the media’s role in amplifying unsubstantiated claims.
   
-  Looking ahead, the majority of analysts suggest that the Ukraine conflict is entering a new phase, with negotiations now more likely than further escalation—there is a high chance that some form of ceasefire or territorial compromise will be reached in the coming months. In Gaza, however, the outlook remains bleak; absent a major policy reversal from Washington, the humanitarian situation is most definitely set to deteriorate further. The revelations regarding U.S. intelligence and Russian interference are quite likely to fuel renewed debate in Washington, but are unlikely to result in immediate policy changes.
+  Looking ahead, the prevailing trend is a steady erosion of trust in Western institutions and official narratives, particularly regarding military interventions and intelligence assessments. With the Trump-Putin summit on the horizon and ongoing revelations about Syria and Russiagate, it is quite likely that demands for transparency and independent verification will intensify. I guarantee that skepticism toward Western intelligence claims will remain a dominant feature of international discourse in the coming months, with high confidence that this will shape both policy debates and public opinion.
 articles:
+  - title: OPCW whistleblower calls out next phase of Syria's chemical weapons deception
+    url: https://www.aaronmate.net/p/opcw-whistleblower-calls-out-next
+    text: '(Photo by Pierre Crom/Getty Images) Note: In April 2018, dozens of dead bodies
+      were filmed in what insurgent groups claimed was a Syrian government chemical
+      weapons attack in the town of Douma. The US, France, and UK bombed Syria in purported
+      retaliation. According to leaked documents, an investigative team sent to Douma
+      by the Organisation for the Prohibition of Chemical Weapons (OPCW), the world’s
+      top chemical weapons watchdog, subsequently found no evidence to support allegations
+      of a Syrian government chemical attack, and left open the possibility that the
+      incident was staged by insurgents. Two members of the Douma team later accused
+      senior OPCW officials of manipulating their investigation and publishing a final
+      report that baselessly implicated the Syrian government in a chlorine gas attack.
+      The OPCW has refused to meet with the veteran inspectors who challenged the cover-up,
+      and establishment media has widely ignored their story. The resounding silence
+      on the OPCW scandal has helped sustain a propaganda narrative integral to the
+      years-long, US-led regime change campaign to overthrow the Syrian government:
+      that Bashar al-Assad was guilty of “gassing his own people.” In December 2025,
+      that campaign finally succeeded with the ouster of Assad and the takeover of Syria
+      by Hay''at Tahrir al-Sham, a direct offshoot of Al Qaeda in Syria. With Assad
+      gone, how will the chemical weapons deception be sustained? Ian Henderson aka
+      Inspector A, the second of the two known OPCW whistleblowers, offers his perspective.
+      -Aaron Maté by Ian Henderson, aka “Inspector A” In 2018, I joined another veteran
+      chemical weapons inspector at the OPCW (the Organisation for the Prohibition of
+      Chemical Weapons) to challenge the corruption of our team''s investigation into
+      the alleged chemical attack in Douma, Syria. We worried that the situation would
+      unravel and potentially harm the OPCW’s reputation. Our attempts to alert management
+      to the glaring manipulation of our findings went unheeded. Since the Douma cover-up
+      scandal emerged, prominent voices, including the OPCW''s first director general,
+      José Bustani, have joined our calls for accountability. But rather than hear us
+      out, the OPCW is now planning a new phase of the deception. The Technical Secretariat
+      of the OPCW is planning to go back into the current chaos in Syria with a merged
+      grouping of the Fact-Finding Mission (FFM), the Declarations Assessment Team (DAT)
+      and the Investigation and Identification Team (IIT). This new team will include
+      some of the same officials involved in the cover-up of the Douma investigation.
+      Their mission is ostensibly aimed at a closure of the Syrian chemical weapons
+      (CW) dossier; to find the alleged “missing” undeclared CW that the Syrians were
+      accused of hiding, and to bring to justice the perpetrators of alleged chemical
+      attacks. The widely disseminated narrative that Bashar al-Assad “gassed his own
+      people” was essential for justifying the isolation and delegitimation of the former
+      Syrian government, underpinning the United States and its allies’ ultimately successful
+      policy of regime change. Therefore, the narrative still needs the fanfare of a
+      tidy closeout. This, however, may prove to be a risky undertaking for the OPCW.
+      The CW narrative perpetuated against the former Assad-led government contains
+      two main accusations: (i) that Syria did not submit a full declaration of CW activities
+      and chemical stockpiles, and (ii) that Syrian government forces were guilty of
+      illegal chemical attacks with chlorine and the nerve agent sarin. As the censored
+      Douma findings underscore , there are significant doubts about these assertions,
+      including doubts held by OPCW inspectors. But before we look into that, there
+      is an uncomfortable reality facing any further OPCW work in Syria. That is; who
+      can believe anything that comes out of Syria at the present? The Hay’at Tahrir
+      al-Sham (HTS) militants have become a compliant, somewhat captive “government”,
+      underwritten by the same Western and Gulf belligerents who developed the Syrian
+      CW narrative. The new OPCW operation will obviously entail this new government’s
+      complicity in the orchestrated closure of the CW narrative on Syria. This means
+      the radical militants who raised the allegations of chemical attacks will be working
+      alongside the OPCW teams that were arguably taken in by their stories , producing
+      reports damning the Assad government. The target of this new setup will be former
+      Assad government officials. We can only imagine the likely threats faced by these
+      individuals, and thus what they may be coerced into testifying. Turning our attention
+      to those two accusations that served the Western narrative on Syria’s chemical
+      program, we need to see how they came about. The first part of the narrative,
+      the allegation of an incomplete declaration and hidden CW stockpiles, was manufactured
+      out of the work of the Declarations Assessment Team. The DAT was created in 2014,
+      ostensibly to assist the Syrians in clarifying their hurriedly-prepared CW declaration.
+      However it soon morphed into the vehicle by which allegations were made about
+      hidden CW activities and stockpiles. Central to the DAT program was an extensive
+      chemical sampling campaign, which the Syrians themselves had been duped into supporting.
+      This had never been done under the Chemical Weapons Convention (CWC) and certainly
+      will never happen again. No country would be naïve enough to allow it, because
+      it was guaranteed to raise ambiguities that would lead to accusations of illicit
+      activities. That’s the nature of interpreting trace-level analysis results from
+      such a wide array of samples. I consider much of DAT’s analytical work to be essentially
+      sound; it was the subsequent politicised interpretations that were aimed at fabricating
+      accusations. Despite this, we must acknowledge that the Syrian declaration had
+      gaps. Some errors were corrected by the Syrians submitting amendments, a very
+      common practice in the CWC, but despite their attempts at explanations, the OPCW
+      continued alleging that so-called “gaps and inconsistencies” remained. It seems
+      the OPCW now aims to return to Syria in the hope of finding an undeclared, hidden
+      smoking gun. This has to be seen as highly unlikely unless it is staged. For a
+      start, we know that the Syrians did not have the technological know-how or the
+      right precursor chemicals to make stable, unitary nerve agents. Furthermore, even
+      if the pressure to “find” something leads to reports of allegedly undeclared activities,
+      this situation is far from unprecedented. In the early days of the CWC we saw
+      many declarations that were less than full, especially when it came to the rather
+      vague requirement in the CWC for States Parties to declare only the “general nature
+      of activities” at CW development facilities. I recall in 1998 taking part in secretive
+      technical-assistance missions where we were tasked with clarifying (and sweeping
+      under the carpet) undeclared former activities in some States Parties. This included
+      a few countries in Europe. The second accusation, that Syrian forces had carried
+      out chemical attacks, was the preserve of the FFM and IIT (and the Joint UN-OPCW
+      Investigative Mechanism, the precursor to the IIT). Referring to the new OPCW
+      venture in Syria, Director-General Fernando Arias has made statements containing
+      the language “victims deserve that perpetrators that we identified be brought
+      to justice and held accountable for what they did…”. For me this reference to
+      perpetrators “that we identified” links future justice to the activities of the
+      OPCW’s FFM and IIT. This is where problems come in. To maintain any credibility,
+      including the legitimacy of the group now in control of the country, moves to
+      bring justice against perpetrators of alleged chemical attacks will need to demonstrate
+      proper due process. Here it is important to clarify the role of the IIT, who in
+      their reports identified “likely” perpetrators. The OPCW website provides clarity
+      on the IIT’s mandate: The IIT is tasked with fact finding and is not a prosecutorial
+      or judicial entity. It is not responsible to determine criminal responsibility
+      of individuals, organisations or States. The criterion used by the FFM, JIM and
+      the IIT was the rather watered-down “there are reasonable grounds to believe”
+      that a chemical attack took place, and that Syrian forces were responsible. Any
+      future judicial process will therefore require the re-opening of cases where perpetrators
+      are meant to be brought to justice. The purported “facts” and anonymous (NATO)
+      expert opinion that the FFM and IIT may have used to arrive at their conclusions
+      will be woefully inadequate for use at a court or judicial level of evidence.
+      In any case, they were never intended for that. So real evidence will be required
+      for court cases. But from where? It is important to recognise that before Douma,
+      the FFM never went into Syria to get to the site of an alleged chemical attack.
+      After the social media postings that in each case triggered allegations of an
+      attack, all the later “evidence” was handed over to the FFM, usually in Turkey,
+      by the same militant enemies of the Syrian government that had filmed and reported
+      the allegation. Most cases were littered with mysterious contradictions or uncertainties
+      that were ignored or glossed over in FFM and IIT reports. This brings us to the
+      fatal flaw in the OPCW plan: Douma. The Douma case (along with Ghouta 2013 and
+      Khan Shaykhoun 2018) remains one of the highest-profile incidents, thus leading
+      to high expectations that the perpetrators be brought to justice. Adding to the
+      profile of Douma is the retaliatory air and missile strikes that were conducted
+      by the US, UK and France, before the OPCW investigators even got to the incident
+      locations in Douma. It gets worse. The main target of the airstrikes was a facility
+      the OPCW had inspected twice and reported as fully compliant with the CWC. I led
+      the inspections and wrote the reports. Importantly, Douma was the first and only
+      time that the FFM got the scene of an alleged chemical attack in Syria that was
+      attributed to government forces. It represents a test case where the most direct
+      information was collected at the scenes. This makes it significant for the entire
+      CW narrative. Well-informed readers will be aware of the glaring inconsistencies
+      in the official Douma story ; the conflicting witness accounts, the early (disproved)
+      accounts of nerve agent, the ruling-out of chlorine by NATO toxicologists (before
+      this line of reporting was shut down) and the results of engineering studies that
+      raised doubts about the appearance of two supposedly weaponized chlorine cylinders
+      found at the scenes. Equally damaging was questionable management involvement,
+      in particular the secret rewriting of the Douma Interim Report without the team’s
+      knowledge or consent, after it had been submitted for release. The altered report,
+      fortuitously intercepted, had been aimed at already locking in government forces’
+      accountability for the alleged attack. Furthermore, I was surprised during a meeting
+      in the aftermath of that episode by an instruction relayed to me, that “we’ve
+      been told by the first floor that we have to make it sound like we found something.”
+      The official narrative on Douma - that the Syrian government dropped chlorine
+      gas cylinders, killing dozens of civilians inside an apartment building - is on
+      shaky ground. Contrary to official reports written by individuals who had never
+      been to Douma, the FFM team in Douma did not uncover a chemical attack with chlorine.
+      I have run out of patience for the reserved language used in my account debunking
+      the Syrian CW narrative ( The Syria Scam ). Quite simply, the facts and science
+      of the Douma case have demonstrated that it was very likely staged. Alleged weaponized
+      chlorine cylinders from Douma So when the presumptive Douma trial gets underway,
+      the defendants’ lawyers will call upon current and former OPCW (and OPCW-related)
+      experts and individuals who have knowledge of FFM operations and Douma. The current
+      list contains 46 proposed names. The defendants’ legal team will also demand access
+      to experts in mechanical engineering, chemical analysis and pathology. Independent
+      specialists, with credibility and a willingness to be identified, will then undertake
+      a deeper scientific look into the Douma case. That’s where the Douma case will
+      collapse, with the mainstream media no longer able to provide effective cover.
+      Trust me, I know it will collapse. And the OPCW’s reputation will be irreparably
+      tarnished. Aaron Mate is a reader-supported publication. To receive new posts
+      and support my work, consider becoming a free or paid subscriber.'
+    one_sentence_summary: Leaked documents reveal that an OPCW investigative team found
+      no evidence of a Syrian government chemical attack in Douma, contradicting the
+      narrative that led to military strikes by the US, France, and UK, while allegations
+      of manipulation and a cover-up by OPCW officials have been largely ignored by
+      mainstream media.
+    paragraph_summary: In April 2018, a purported chemical weapons attack in Douma,
+      Syria, led to military retaliation from the US, UK, and France against the Syrian
+      government, which was accused of using chlorine gas. However, leaked documents
+      from an investigative team of the Organisation for the Prohibition of Chemical
+      Weapons (OPCW) revealed that they found no evidence supporting the claims against
+      the Syrian government and suggested the possibility of the incident being staged
+      by insurgents. Two OPCW whistleblowers later alleged that senior officials manipulated
+      the investigation and the final report to implicate the Syrian government, while
+      the organization has since refused to engage with these dissenting voices. This
+      controversy has been largely ignored by mainstream media, allowing the narrative
+      of Bashar al-Assad's culpability in chemical attacks to persist, even as regime
+      change was ultimately achieved in December 2025 with the ousting of Assad. Inspector
+      Ian Henderson, one of the whistleblowers, expresses concern over the future of
+      the chemical weapons narrative in the absence of Assad.
+    published: '2025-09-07T14:20:35+00:00'
+  - title: OPCW whistleblower calls out next phase of Syria's chemical weapons deception
+    url: https://www.aaronmate.net/p/opcw-whistleblower-calls-out-next
+    text: '(Photo by Pierre Crom/Getty Images) Note: In April 2018, dozens of dead bodies
+      were filmed in what insurgent groups claimed was a Syrian government chemical
+      weapons attack in the town of Douma. The US, France, and UK bombed Syria in purported
+      retaliation. According to leaked documents, an investigative team sent to Douma
+      by the Organisation for the Prohibition of Chemical Weapons (OPCW), the world’s
+      top chemical weapons watchdog, subsequently found no evidence to support allegations
+      of a Syrian government chemical attack, and left open the possibility that the
+      incident was staged by insurgents. Two members of the Douma team later accused
+      senior OPCW officials of manipulating their investigation and publishing a final
+      report that baselessly implicated the Syrian government in a chlorine gas attack.
+      The OPCW has refused to meet with the veteran inspectors who challenged the cover-up,
+      and establishment media has widely ignored their story. The resounding silence
+      on the OPCW scandal has helped sustain a propaganda narrative integral to the
+      years-long, US-led regime change campaign to overthrow the Syrian government:
+      that Bashar al-Assad was guilty of “gassing his own people.” In December 2025,
+      that campaign finally succeeded with the ouster of Assad and the takeover of Syria
+      by Hay''at Tahrir al-Sham, a direct offshoot of Al Qaeda in Syria. With Assad
+      gone, how will the chemical weapons deception be sustained? Ian Henderson aka
+      Inspector A, the second of the two known OPCW whistleblowers, offers his perspective.
+      -Aaron Maté by Ian Henderson, aka “Inspector A” In 2018, I joined another veteran
+      chemical weapons inspector at the OPCW (the Organisation for the Prohibition of
+      Chemical Weapons) to challenge the corruption of our team''s investigation into
+      the alleged chemical attack in Douma, Syria. We worried that the situation would
+      unravel and potentially harm the OPCW’s reputation. Our attempts to alert management
+      to the glaring manipulation of our findings went unheeded. Since the Douma cover-up
+      scandal emerged, prominent voices, including the OPCW''s first director general,
+      José Bustani, have joined our calls for accountability. But rather than hear us
+      out, the OPCW is now planning a new phase of the deception. The Technical Secretariat
+      of the OPCW is planning to go back into the current chaos in Syria with a merged
+      grouping of the Fact-Finding Mission (FFM), the Declarations Assessment Team (DAT)
+      and the Investigation and Identification Team (IIT). This new team will include
+      some of the same officials involved in the cover-up of the Douma investigation.
+      Their mission is ostensibly aimed at a closure of the Syrian chemical weapons
+      (CW) dossier; to find the alleged “missing” undeclared CW that the Syrians were
+      accused of hiding, and to bring to justice the perpetrators of alleged chemical
+      attacks. The widely disseminated narrative that Bashar al-Assad “gassed his own
+      people” was essential for justifying the isolation and delegitimation of the former
+      Syrian government, underpinning the United States and its allies’ ultimately successful
+      policy of regime change. Therefore, the narrative still needs the fanfare of a
+      tidy closeout. This, however, may prove to be a risky undertaking for the OPCW.
+      The CW narrative perpetuated against the former Assad-led government contains
+      two main accusations: (i) that Syria did not submit a full declaration of CW activities
+      and chemical stockpiles, and (ii) that Syrian government forces were guilty of
+      illegal chemical attacks with chlorine and the nerve agent sarin. As the censored
+      Douma findings underscore , there are significant doubts about these assertions,
+      including doubts held by OPCW inspectors. But before we look into that, there
+      is an uncomfortable reality facing any further OPCW work in Syria. That is; who
+      can believe anything that comes out of Syria at the present? The Hay’at Tahrir
+      al-Sham (HTS) militants have become a compliant, somewhat captive “government”,
+      underwritten by the same Western and Gulf belligerents who developed the Syrian
+      CW narrative. The new OPCW operation will obviously entail this new government’s
+      complicity in the orchestrated closure of the CW narrative on Syria. This means
+      the radical militants who raised the allegations of chemical attacks will be working
+      alongside the OPCW teams that were arguably taken in by their stories , producing
+      reports damning the Assad government. The target of this new setup will be former
+      Assad government officials. We can only imagine the likely threats faced by these
+      individuals, and thus what they may be coerced into testifying. Turning our attention
+      to those two accusations that served the Western narrative on Syria’s chemical
+      program, we need to see how they came about. The first part of the narrative,
+      the allegation of an incomplete declaration and hidden CW stockpiles, was manufactured
+      out of the work of the Declarations Assessment Team. The DAT was created in 2014,
+      ostensibly to assist the Syrians in clarifying their hurriedly-prepared CW declaration.
+      However it soon morphed into the vehicle by which allegations were made about
+      hidden CW activities and stockpiles. Central to the DAT program was an extensive
+      chemical sampling campaign, which the Syrians themselves had been duped into supporting.
+      This had never been done under the Chemical Weapons Convention (CWC) and certainly
+      will never happen again. No country would be naïve enough to allow it, because
+      it was guaranteed to raise ambiguities that would lead to accusations of illicit
+      activities. That’s the nature of interpreting trace-level analysis results from
+      such a wide array of samples. I consider much of DAT’s analytical work to be essentially
+      sound; it was the subsequent politicised interpretations that were aimed at fabricating
+      accusations. Despite this, we must acknowledge that the Syrian declaration had
+      gaps. Some errors were corrected by the Syrians submitting amendments, a very
+      common practice in the CWC, but despite their attempts at explanations, the OPCW
+      continued alleging that so-called “gaps and inconsistencies” remained. It seems
+      the OPCW now aims to return to Syria in the hope of finding an undeclared, hidden
+      smoking gun. This has to be seen as highly unlikely unless it is staged. For a
+      start, we know that the Syrians did not have the technological know-how or the
+      right precursor chemicals to make stable, unitary nerve agents. Furthermore, even
+      if the pressure to “find” something leads to reports of allegedly undeclared activities,
+      this situation is far from unprecedented. In the early days of the CWC we saw
+      many declarations that were less than full, especially when it came to the rather
+      vague requirement in the CWC for States Parties to declare only the “general nature
+      of activities” at CW development facilities. I recall in 1998 taking part in secretive
+      technical-assistance missions where we were tasked with clarifying (and sweeping
+      under the carpet) undeclared former activities in some States Parties. This included
+      a few countries in Europe. The second accusation, that Syrian forces had carried
+      out chemical attacks, was the preserve of the FFM and IIT (and the Joint UN-OPCW
+      Investigative Mechanism, the precursor to the IIT). Referring to the new OPCW
+      venture in Syria, Director-General Fernando Arias has made statements containing
+      the language “victims deserve that perpetrators that we identified be brought
+      to justice and held accountable for what they did…”. For me this reference to
+      perpetrators “that we identified” links future justice to the activities of the
+      OPCW’s FFM and IIT. This is where problems come in. To maintain any credibility,
+      including the legitimacy of the group now in control of the country, moves to
+      bring justice against perpetrators of alleged chemical attacks will need to demonstrate
+      proper due process. Here it is important to clarify the role of the IIT, who in
+      their reports identified “likely” perpetrators. The OPCW website provides clarity
+      on the IIT’s mandate: The IIT is tasked with fact finding and is not a prosecutorial
+      or judicial entity. It is not responsible to determine criminal responsibility
+      of individuals, organisations or States. The criterion used by the FFM, JIM and
+      the IIT was the rather watered-down “there are reasonable grounds to believe”
+      that a chemical attack took place, and that Syrian forces were responsible. Any
+      future judicial process will therefore require the re-opening of cases where perpetrators
+      are meant to be brought to justice. The purported “facts” and anonymous (NATO)
+      expert opinion that the FFM and IIT may have used to arrive at their conclusions
+      will be woefully inadequate for use at a court or judicial level of evidence.
+      In any case, they were never intended for that. So real evidence will be required
+      for court cases. But from where? It is important to recognise that before Douma,
+      the FFM never went into Syria to get to the site of an alleged chemical attack.
+      After the social media postings that in each case triggered allegations of an
+      attack, all the later “evidence” was handed over to the FFM, usually in Turkey,
+      by the same militant enemies of the Syrian government that had filmed and reported
+      the allegation. Most cases were littered with mysterious contradictions or uncertainties
+      that were ignored or glossed over in FFM and IIT reports. This brings us to the
+      fatal flaw in the OPCW plan: Douma. The Douma case (along with Ghouta 2013 and
+      Khan Shaykhoun 2018) remains one of the highest-profile incidents, thus leading
+      to high expectations that the perpetrators be brought to justice. Adding to the
+      profile of Douma is the retaliatory air and missile strikes that were conducted
+      by the US, UK and France, before the OPCW investigators even got to the incident
+      locations in Douma. It gets worse. The main target of the airstrikes was a facility
+      the OPCW had inspected twice and reported as fully compliant with the CWC. I led
+      the inspections and wrote the reports. Importantly, Douma was the first and only
+      time that the FFM got the scene of an alleged chemical attack in Syria that was
+      attributed to government forces. It represents a test case where the most direct
+      information was collected at the scenes. This makes it significant for the entire
+      CW narrative. Well-informed readers will be aware of the glaring inconsistencies
+      in the official Douma story ; the conflicting witness accounts, the early (disproved)
+      accounts of nerve agent, the ruling-out of chlorine by NATO toxicologists (before
+      this line of reporting was shut down) and the results of engineering studies that
+      raised doubts about the appearance of two supposedly weaponized chlorine cylinders
+      found at the scenes. Equally damaging was questionable management involvement,
+      in particular the secret rewriting of the Douma Interim Report without the team’s
+      knowledge or consent, after it had been submitted for release. The altered report,
+      fortuitously intercepted, had been aimed at already locking in government forces’
+      accountability for the alleged attack. Furthermore, I was surprised during a meeting
+      in the aftermath of that episode by an instruction relayed to me, that “we’ve
+      been told by the first floor that we have to make it sound like we found something.”
+      The official narrative on Douma - that the Syrian government dropped chlorine
+      gas cylinders, killing dozens of civilians inside an apartment building - is on
+      shaky ground. Contrary to official reports written by individuals who had never
+      been to Douma, the FFM team in Douma did not uncover a chemical attack with chlorine.
+      I have run out of patience for the reserved language used in my account debunking
+      the Syrian CW narrative ( The Syria Scam ). Quite simply, the facts and science
+      of the Douma case have demonstrated that it was very likely staged. Alleged weaponized
+      chlorine cylinders from Douma So when the presumptive Douma trial gets underway,
+      the defendants’ lawyers will call upon current and former OPCW (and OPCW-related)
+      experts and individuals who have knowledge of FFM operations and Douma. The current
+      list contains 46 proposed names. The defendants’ legal team will also demand access
+      to experts in mechanical engineering, chemical analysis and pathology. Independent
+      specialists, with credibility and a willingness to be identified, will then undertake
+      a deeper scientific look into the Douma case. That’s where the Douma case will
+      collapse, with the mainstream media no longer able to provide effective cover.
+      Trust me, I know it will collapse. And the OPCW’s reputation will be irreparably
+      tarnished. Aaron Mate is a reader-supported publication. To receive new posts
+      and support my work, consider becoming a free or paid subscriber.'
+    one_sentence_summary: Leaked documents reveal that an OPCW investigative team found
+      no evidence of a Syrian government chemical attack in Douma, contradicting the
+      narrative that led to military strikes by the US, France, and UK, while allegations
+      of manipulation and a cover-up by OPCW officials have been largely ignored by
+      mainstream media.
+    paragraph_summary: In April 2018, a purported chemical weapons attack in Douma,
+      Syria, led to military retaliation from the US, UK, and France against the Syrian
+      government, which was accused of using chlorine gas. However, leaked documents
+      from an investigative team of the Organisation for the Prohibition of Chemical
+      Weapons (OPCW) revealed that they found no evidence supporting the claims against
+      the Syrian government and suggested the possibility of the incident being staged
+      by insurgents. Two OPCW whistleblowers later alleged that senior officials manipulated
+      the investigation and the final report to implicate the Syrian government, while
+      the organization has since refused to engage with these dissenting voices. This
+      controversy has been largely ignored by mainstream media, allowing the narrative
+      of Bashar al-Assad's culpability in chemical attacks to persist, even as regime
+      change was ultimately achieved in December 2025 with the ousting of Assad. Inspector
+      Ian Henderson, one of the whistleblowers, expresses concern over the future of
+      the chemical weapons narrative in the absence of Assad.
+    published: '2025-09-07T14:20:35+00:00'
   - title: Ukraine’s best security guarantee is the peace NATO sabotaged
     url: https://www.aaronmate.net/p/ukraines-best-security-guarantee
     text: (Photo by ANDREW CABALLERO-REYNOLDS/AFP via Getty Images) In recent high-profile

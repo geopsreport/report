@@ -7,16 +7,1478 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  The global geopolitical landscape remains volatile as trade, military alliances, and shifting power centers continue to reshape international relations. Recent developments highlight persistent tensions in U.S. trade policy, the evolving Russia-China partnership, and the ongoing economic contest between NATO and BRICS.
+  Amid ongoing global instability, recent developments highlight escalating tensions in the Middle East, persistent economic maneuvering between major powers, and shifting alliances that continue to reshape the international order.
   
-  The most recent analysis by **Larry C. Johnson** sharply critiques Donald Trump’s ongoing tariff war, describing it as “one of the most damaging actions of his presidency.” Johnson points out that despite Trump’s claims, tariffs have failed to reduce the U.S. trade deficit or weaken top exporters like China, Mexico, and Canada. Instead, the policy has complicated U.S. trade relationships and, according to Johnson, “empowered BRICS rather than undermining them.” There is high confidence that these tariffs will continue to backfire, strengthening economic ties among BRICS members and pushing countries like India and China closer together.
+  The most significant new development centers on the deepening crisis between Israel, the United States, and Hamas. According to **Larry C. Johnson**, the US and Israel are now working in concert to undermine negotiations with Hamas, with Johnson characterizing Israel as a principal perpetrator of terrorism and the US as an unreliable diplomatic partner. This coordinated approach, he argues, is fueling instability and diminishing prospects for a negotiated settlement. Johnson’s assessment suggests that the current trajectory will only intensify the conflict, with little hope for de-escalation unless external actors intervene. He states, “Israel is out of control… Who will stop the Zionists?”—a rhetorical question that underscores the lack of effective checks on Israeli actions in the region.
   
-  On the U.S.-India front, Johnson challenges Trump’s assertion of a heavily unbalanced trade relationship, noting that while the U.S. is India’s largest export destination, the trade is “more balanced than he suggests.” Bilateral trade reached approximately $131.84 billion for 2024-2025, reflecting mutual dependence rather than one-sided benefit. Johnson’s analysis suggests that India’s response to U.S. tariffs is likely to remain measured, balancing diplomatic caution with domestic pressures for retaliation. There is a high chance that India will avoid direct confrontation but will continue to seek alternative partnerships within BRICS and the Shanghai Cooperation Organization (SCO).
+  On the economic front, the US administration under Donald Trump continues to pursue aggressive sanctions against Russia, particularly targeting its oil and gas exports to China and India. However, **Larry C. Johnson** critiques this strategy, pointing out that US Treasury Secretary Scott Bessent’s belief in the imminent collapse of the Russian economy is misguided. Johnson emphasizes the resilience of Russia’s economic ties with China and India, arguing that sanctions are unlikely to achieve their intended effect. He notes, “Bessent misunderstands the resilience of Russia’s economy and its strategic relationships.” This reflects a broader skepticism among analysts regarding the efficacy of US economic pressure in the current multipolar environment.
   
-  Meanwhile, the broader context of a “new world order” is becoming more pronounced. Johnson observes that Western leaders are mistaken in believing Russia can be easily pried away from China. The growing significance of the SCO and the deepening Russia-China alliance signal a realignment that is “most definitely” here to stay. This trend is reinforced by the perceived failure of Western economic and military strategies against Russia and BRICS, as highlighted in previous reports.
+  Meanwhile, India’s response to US tariffs—specifically those imposed on its oil purchases from Russia—has been to reduce its holdings of US Treasury bills and increase gold reserves. This move, as reported by **Larry C. Johnson**, signals a growing rift between Washington and New Delhi, and a broader trend of countries seeking alternatives to the US dollar in global trade. The shift is seen as a hedge against future US economic coercion and an indicator of India’s intent to assert greater financial independence.
   
-  In summary, the latest developments point to a continued weakening of U.S. influence over global trade and alliances, a strengthening of BRICS cohesion, and a durable Russia-China partnership. The majority view among analysts is that these trends will persist, with high confidence that the current trajectory will further erode Western leverage in both economic and geopolitical arenas.
+  In summary, the prevailing trends point to a world in which US influence is increasingly contested, both diplomatically and economically. The majority of independent analysis, as reflected in Johnson’s reporting, suggests that current US and Israeli policies are likely to exacerbate rather than resolve existing conflicts. Looking ahead, I guarantee that unless there is a dramatic shift in strategy from Washington or Tel Aviv, the Middle East will see further escalation. There is a high chance that US sanctions will fail to destabilize Russia, and it is quite likely that more countries will follow India’s lead in diversifying away from US financial instruments.
 articles:
+  - title: Israel Is Out of Control… Who Will Stop the Zionists?
+    url: https://sonar21.com/israel-is-out-of-control-who-will-stop-the-zionists/
+    text: 'Cartoon by NEMO Today’s failed attempt to murder the Hamas negotiators in
+      Doha, Qatar is just one more example of US and Israeli perfidy and malice. Like
+      two demented professional wrestlers, the US and Israel are a tag team with a practiced
+      scheme. It goes like this: The US presents a proposed deal — it could be a ceasefire
+      or talks to keep Iran from building a nuclear weapon — and lures the other side
+      to a meeting; the US passes the intelligence about the location and time of the
+      meeting to Israel; and Israel launches a massive bombing run against that location
+      at the specified time. It was done to Hezbollah Chief Nasrallah, it was done to
+      the Government of Iran and its nuclear scientists, and it was done again, today,
+      in Qatar. The lesson is clear — at least it should be — that the United States
+      is not a trustworthy negotiating partner. And Israel has established itself as
+      the number one terrorist entity in the world. Since October 7, 2023, the crazed
+      Zionists have attacked and killed civilians in these countries or territories:
+      Palestine and the West Bank Lebanon Syria Egypt (border shootings) Iraq Yemen
+      Iran Qatar Despite White House denials, it is certain that Tel Aviv fully coordinated
+      this attack with Washington. The Al Udeid Airbase is the regional headquarters
+      for USCENTCOM. It is the launching pad for US ground and air operations in the
+      region. I was briefly on that base in 2006, enroute to Iraq. Back then, to travel
+      to Iraq I had to fly into Doha, transfer to the Al Udeid base, where I picked
+      up a military flight into Iraq. Al Udeid Air Base in Qatar If the Qatari leaders
+      had a set of testicles, they would order that base closed immediately. But they
+      lack manhood and pride. Instead, they prance around in white sandals bedecked
+      with gold while wearing a thobe … Is that the Arabic word for dress ? Yes, I am
+      being deliberately insulting. I am furious that these sniveling cowards continue
+      to behave like house slaves to Uncle Sam. These Gulf Arabs remind me of the now-infamous
+      Hollywood actor, Stepin Fetchit . His real name was Lincoln Theodore Monroe Andrew
+      Perry , but he secured stardom by portraying an uneducated, shuffling, inarticulate
+      black character given the name, Stepin Fetchit . Mr. Perry was an American vaudevillian
+      , comedian, and film actor… He was the first black actor to have a successful
+      film career, but it came at a cost. He portrayed a stereotype favored by whites
+      that, when viewed today, is shocking, insulting and revolting. The following clip
+      will give you a taste of the humiliation this man endured just to earn a living
+      in Hollywood: So yes, I believe the Gulf Arabs are the 21st Century reincarnation
+      of Stepin Fetchit . This applies to the Saudis, the Emirates and Qataris, in my
+      opinion. The United States orders them to dance and they do. Instead of demanding
+      that the West respect the rights and lives of the Palestinians, they simply lower
+      their heads, mumble a few words, and tap dance as enablers of genocide. I hope
+      that someday the Gulf Arabs will find their courage and their dignity a refuse
+      to be vassals of the US, and that they will look back at this period with the
+      same disgust we feel when we watch Mr. Perry performing as Stepin Fetchit . I
+      wonder why the Zionists failed to kill the Hamas leaders in Qatar? Did the Hamas
+      folks receive advance warning from a foreign intelligence service, such as the
+      Russians or the Iranians? Wouldn’t that be a nice twist? The failure of the Zionist
+      attack came as a jarring surprise for Donald Trump. I believe he was promised
+      that the attack would wipe out the Hamas leadership and clear the decks for a
+      Zionist-dictated deal to take over Gaza. If it had succeeded, I believe he would
+      have eagerly taken credit for the success of the operation. Now he has to deal
+      with the fact that the US was, once again, implicated in a war crime. I discussed
+      this horror today with Marcello: I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article criticizes the US and Israel for their coordinated
+      efforts to undermine negotiations with Hamas, portraying the US as an untrustworthy
+      partner and Israel as a leading perpetrator of terrorism.
+    paragraph_summary: The article criticizes the United States and Israel for their
+      alleged collusion in a failed assassination attempt on Hamas negotiators in Doha,
+      Qatar, framing it as part of a broader pattern of deceitful tactics used by the
+      two nations in international negotiations. It describes a strategy where the US
+      proposes deals to lure adversaries into meetings, only for Israel to subsequently
+      launch attacks based on intelligence provided by the US. The author argues that
+      this behavior demonstrates the unreliability of the US as a negotiating partner
+      and labels Israel as a leading terrorist entity. The piece expresses outrage at
+      the complicity of Gulf Arab leaders, particularly Qatar, in allowing US military
+      operations to continue from their territory, portraying them as cowardly and submissive.
+    published: '2025-09-10T01:37:49+00:00'
+  - title: Israel Is Out of Control… Who Will Stop the Zionists?
+    url: https://sonar21.com/israel-is-out-of-control-who-will-stop-the-zionists/
+    text: 'Cartoon by NEMO Today’s failed attempt to murder the Hamas negotiators in
+      Doha, Qatar is just one more example of US and Israeli perfidy and malice. Like
+      two demented professional wrestlers, the US and Israel are a tag team with a practiced
+      scheme. It goes like this: The US presents a proposed deal — it could be a ceasefire
+      or talks to keep Iran from building a nuclear weapon — and lures the other side
+      to a meeting; the US passes the intelligence about the location and time of the
+      meeting to Israel; and Israel launches a massive bombing run against that location
+      at the specified time. It was done to Hezbollah Chief Nasrallah, it was done to
+      the Government of Iran and its nuclear scientists, and it was done again, today,
+      in Qatar. The lesson is clear — at least it should be — that the United States
+      is not a trustworthy negotiating partner. And Israel has established itself as
+      the number one terrorist entity in the world. Since October 7, 2023, the crazed
+      Zionists have attacked and killed civilians in these countries or territories:
+      Palestine and the West Bank Lebanon Syria Egypt (border shootings) Iraq Yemen
+      Iran Qatar Despite White House denials, it is certain that Tel Aviv fully coordinated
+      this attack with Washington. The Al Udeid Airbase is the regional headquarters
+      for USCENTCOM. It is the launching pad for US ground and air operations in the
+      region. I was briefly on that base in 2006, enroute to Iraq. Back then, to travel
+      to Iraq I had to fly into Doha, transfer to the Al Udeid base, where I picked
+      up a military flight into Iraq. Al Udeid Air Base in Qatar If the Qatari leaders
+      had a set of testicles, they would order that base closed immediately. But they
+      lack manhood and pride. Instead, they prance around in white sandals bedecked
+      with gold while wearing a thobe … Is that the Arabic word for dress ? Yes, I am
+      being deliberately insulting. I am furious that these sniveling cowards continue
+      to behave like house slaves to Uncle Sam. These Gulf Arabs remind me of the now-infamous
+      Hollywood actor, Stepin Fetchit . His real name was Lincoln Theodore Monroe Andrew
+      Perry , but he secured stardom by portraying an uneducated, shuffling, inarticulate
+      black character given the name, Stepin Fetchit . Mr. Perry was an American vaudevillian
+      , comedian, and film actor… He was the first black actor to have a successful
+      film career, but it came at a cost. He portrayed a stereotype favored by whites
+      that, when viewed today, is shocking, insulting and revolting. The following clip
+      will give you a taste of the humiliation this man endured just to earn a living
+      in Hollywood: So yes, I believe the Gulf Arabs are the 21st Century reincarnation
+      of Stepin Fetchit . This applies to the Saudis, the Emirates and Qataris, in my
+      opinion. The United States orders them to dance and they do. Instead of demanding
+      that the West respect the rights and lives of the Palestinians, they simply lower
+      their heads, mumble a few words, and tap dance as enablers of genocide. I hope
+      that someday the Gulf Arabs will find their courage and their dignity a refuse
+      to be vassals of the US, and that they will look back at this period with the
+      same disgust we feel when we watch Mr. Perry performing as Stepin Fetchit . I
+      wonder why the Zionists failed to kill the Hamas leaders in Qatar? Did the Hamas
+      folks receive advance warning from a foreign intelligence service, such as the
+      Russians or the Iranians? Wouldn’t that be a nice twist? The failure of the Zionist
+      attack came as a jarring surprise for Donald Trump. I believe he was promised
+      that the attack would wipe out the Hamas leadership and clear the decks for a
+      Zionist-dictated deal to take over Gaza. If it had succeeded, I believe he would
+      have eagerly taken credit for the success of the operation. Now he has to deal
+      with the fact that the US was, once again, implicated in a war crime. I discussed
+      this horror today with Marcello: I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article criticizes the US and Israel for their coordinated
+      efforts to undermine negotiations with Hamas, portraying the US as an untrustworthy
+      partner and Israel as a leading perpetrator of terrorism.
+    paragraph_summary: The article criticizes the United States and Israel for their
+      alleged collusion in a failed assassination attempt on Hamas negotiators in Doha,
+      Qatar, framing it as part of a broader pattern of deceitful tactics used by the
+      two nations in international negotiations. It describes a strategy where the US
+      proposes deals to lure adversaries into meetings, only for Israel to subsequently
+      launch attacks based on intelligence provided by the US. The author argues that
+      this behavior demonstrates the unreliability of the US as a negotiating partner
+      and labels Israel as a leading terrorist entity. The piece expresses outrage at
+      the complicity of Gulf Arab leaders, particularly Qatar, in allowing US military
+      operations to continue from their territory, portraying them as cowardly and submissive.
+    published: '2025-09-10T01:37:49+00:00'
+  - title: Trump’s Economic Team Pursues the Chimera of Collapsing the Russian Economy
+    url: https://sonar21.com/trumps-economic-team-pursues-the-chimera-of-collapsing-the-russian-economy/
+    text: 'Economic Chimera I don’t know US Secretary of the Treasury, Mr. Scott Bessent,
+      but I am told by people who worked with him on Wall Street that he is a really
+      smart guy. But based on his most recent claim over the weekend that he believes
+      a new round of sanctions — which includes shutting off the flow of Russian oil
+      and natural gas to China and India — will collapse the Russian economy. Bessent’s
+      statement tells me he understands nothing about the resilience of the Russian
+      economy, nothing about the nature of Russia’s bilateral relations with India and
+      China, and not a damn thing about Russia’s military industrial complex. In short,
+      he may be really smart about trading bonds and securities on Wall Street, but
+      he’s a dummy when it comes to Russia and its economy. The belief in Washington
+      policy circles that the Russian economy can be collapsed is not a new goal hatched
+      by Bessent. That scenario figured prominently in the Rand Corporation’s April
+      2019 report, which was prepared for the US Department of Defense — Extending Russia:
+      Competing from Advantageous Ground . The authors assessed the Russia economy in
+      2019 as follows: The common charge that modern Russia is just a petrostate like
+      Saudi Arabia is grossly overstated, but its economy and state budget are disproportionately
+      dependent on energy exports, the value of which has collapsed.28 Russia possesses
+      sizable manufacturing and service industries, but these are relatively uncompetitive
+      on the world market, and the country exports few manufactured goods other than
+      weapons. Recognizing the folly of Russia’s economic dependence on energy exports,
+      the liberalizing technocrat Dmitry Medvedev pursued a policy of economic modernization
+      during his presidency that sought to diversify Russia’s economy. . . . Russia’s
+      overall economic outlook is unfavorable for both the short and long terms. Between
+      the collapse in energy prices and the international sanctions imposed after the
+      Crimea and Ukraine invasions, Russian GDP fell and is now stagnant.31 The ruble
+      lost half of its value against the dollar and euro in the aftermath of the crisis,
+      but Russia has nevertheless developed a dependence on imports for both consumer
+      and capital goods. Predictably, these conditions have resulted in a massive tax
+      shortfall and the imposition of austerity measures. For the past two years, the
+      Russian government has been making up the gap by spending down the hard currency
+      reserves built up during the boom years, but these will be exhausted soon, necessitating
+      politically fraught choices to slash social spending. The likelihood that oil
+      prices will remain stagnant for the foreseeable future gives little hope that
+      the Kremlin can make an easy escape from this conundrum. While much of Russian
+      industry was de-privatized (renationalized) under Putin, the government is rumored
+      to be planning a selloff of some of these assets to raise desperately needed cash.
+      Do I need to write it out for you? These brainiacs were and are wrong! Russia
+      is now the 4th largest economy in the world in terms of GDP as measured by Purchasing
+      Power Parity (i.e., PPP), notwithstanding more than three years of heavy Western
+      sanctions. Russia has the lowest debt-to-GDP ratio of all of the top economies
+      in the world… now estimated to be, at most, 19%. That means in the event of a
+      major financial crisis, Russia has ample financial means to weather a major storm.
+      But let’s look at the term, collapse . To say that a country’s economy “collapses”
+      means there is a widespread breakdown of normal commerce and market mechanisms,
+      resulting in severe, prolonged economic distress that goes far beyond a typical
+      recession or depression. An economic collapse is marked by: • Massive failures
+      in banks, businesses, and markets • Very high unemployment • Bankruptcies and
+      widespread poverty • Chaos in the currency, sometimes including hyperinflation
+      or a currency crash • Breakdown of law, public order, and often social unrest
+      • Failure of government economic interventions to restore stability in the short
+      term Unlike regular downturns or recessions, an economic collapse is not a normal
+      part of the economic cycle; it often follows a crisis and can last for years or
+      decades. Classic examples include the Great Depression in the US, or the hyperinflation-era
+      Weimar Germany. Social chaos and civil unrest often accompany a collapse, and
+      recovery is slow and painful. The Russian economy collapsed in the 1990s, and
+      that experience left an indelible scar on the soul of the Russian people. If you
+      want to place your bets, I believe that the US will experience a collapse before
+      Russia. So how vulnerable is Russia to tough sanctions on oil and gas? Oil exports
+      account for 15–20% of Russia’s GDP in recent years, including 2025. The oil and
+      gas sector as a whole makes up roughly 15.2% (2020), 19.2% (2019), and up to 21.1%
+      (2018) according to Russian government data, but the share for oil alone is typically
+      at the lower end of this range, around 15–17%. Oil and petroleum products account
+      for about 40–45% of Russia’s total exports as of 2025. This figure includes both
+      crude oil and refined petroleum products, making them the largest export category
+      for the country. Where do China and India fit in? China and India together account
+      for around 63% of Russia’s fossil fuel export revenues in 2025, with the EU and
+      Turkey trailing behind but still significant players. Check out this table: Let
+      me take you to fantasy land. Let’s assume that China, India, Turkey and the European
+      Union stop buying Russian oil and gas. That would be a 15% hit to Russia’s economy…
+      painful, but not debilitating nor devastating. But that is not going to happen.
+      China, which is the largest importer of Russian oil, just inked a deal with Russia
+      to build a new pipeline to deliver more oil and gas to China. India also is unlikely
+      to cave to US and European pressure because it needs inexpensive oil more than
+      it needs trade with the NATO-block. If Trump is counting on Bessent to give him
+      leverage over Putin and the Russian economy, then he is making an ill-advised
+      wager. The West’s failure to understand the simple fact that Russia, by virtue
+      of its vast natural resources, does not need international trade to grow its economy.
+      It is self-sufficient. But Russia is not sitting still… It has forged close economic
+      ties with its BRICS partners and, along with those partners, is building an alternative
+      to a Western hegemonic economic and financial system. Donald Trump is no longer
+      in a position to take Russia as an economic and financial hostage. Pax Americana
+      is kaput. I discussed some of this today with Nima and with Judge Napolitano:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article critiques US Treasury Secretary Scott Bessent's
+      belief that new sanctions targeting Russian oil and gas exports to China and India
+      will collapse the Russian economy, arguing that he misunderstands the resilience
+      of Russia's economy and its strategic relationships.
+    paragraph_summary: In a recent statement, US Treasury Secretary Scott Bessent expressed
+      confidence that new sanctions aimed at halting Russian oil and gas exports to
+      China and India would lead to the collapse of the Russian economy. However, critics
+      argue that Bessent's understanding of the Russian economy and its resilience is
+      flawed, as he overlooks the strong bilateral relations Russia maintains with these
+      countries and the complexities of its military-industrial complex. This belief
+      in the potential for a Russian economic collapse is not new and has been echoed
+      in previous analyses, such as a 2019 Rand Corporation report, which highlighted
+      Russia's reliance on energy exports while also noting the country's attempts at
+      economic diversification under former President Dmitry Medvedev. Despite facing
+      challenges from sanctions and fluctuating energy prices, the overall outlook for
+      Russia's economy remains unfavorable, but its resilience may be underestimated
+      by Western policymakers.
+    published: '2025-09-09T01:42:09+00:00'
+  - title: Trump’s Economic Team Pursues the Chimera of Collapsing the Russian Economy
+    url: https://sonar21.com/trumps-economic-team-pursues-the-chimera-of-collapsing-the-russian-economy/
+    text: 'Economic Chimera I don’t know US Secretary of the Treasury, Mr. Scott Bessent,
+      but I am told by people who worked with him on Wall Street that he is a really
+      smart guy. But based on his most recent claim over the weekend that he believes
+      a new round of sanctions — which includes shutting off the flow of Russian oil
+      and natural gas to China and India — will collapse the Russian economy. Bessent’s
+      statement tells me he understands nothing about the resilience of the Russian
+      economy, nothing about the nature of Russia’s bilateral relations with India and
+      China, and not a damn thing about Russia’s military industrial complex. In short,
+      he may be really smart about trading bonds and securities on Wall Street, but
+      he’s a dummy when it comes to Russia and its economy. The belief in Washington
+      policy circles that the Russian economy can be collapsed is not a new goal hatched
+      by Bessent. That scenario figured prominently in the Rand Corporation’s April
+      2019 report, which was prepared for the US Department of Defense — Extending Russia:
+      Competing from Advantageous Ground . The authors assessed the Russia economy in
+      2019 as follows: The common charge that modern Russia is just a petrostate like
+      Saudi Arabia is grossly overstated, but its economy and state budget are disproportionately
+      dependent on energy exports, the value of which has collapsed.28 Russia possesses
+      sizable manufacturing and service industries, but these are relatively uncompetitive
+      on the world market, and the country exports few manufactured goods other than
+      weapons. Recognizing the folly of Russia’s economic dependence on energy exports,
+      the liberalizing technocrat Dmitry Medvedev pursued a policy of economic modernization
+      during his presidency that sought to diversify Russia’s economy. . . . Russia’s
+      overall economic outlook is unfavorable for both the short and long terms. Between
+      the collapse in energy prices and the international sanctions imposed after the
+      Crimea and Ukraine invasions, Russian GDP fell and is now stagnant.31 The ruble
+      lost half of its value against the dollar and euro in the aftermath of the crisis,
+      but Russia has nevertheless developed a dependence on imports for both consumer
+      and capital goods. Predictably, these conditions have resulted in a massive tax
+      shortfall and the imposition of austerity measures. For the past two years, the
+      Russian government has been making up the gap by spending down the hard currency
+      reserves built up during the boom years, but these will be exhausted soon, necessitating
+      politically fraught choices to slash social spending. The likelihood that oil
+      prices will remain stagnant for the foreseeable future gives little hope that
+      the Kremlin can make an easy escape from this conundrum. While much of Russian
+      industry was de-privatized (renationalized) under Putin, the government is rumored
+      to be planning a selloff of some of these assets to raise desperately needed cash.
+      Do I need to write it out for you? These brainiacs were and are wrong! Russia
+      is now the 4th largest economy in the world in terms of GDP as measured by Purchasing
+      Power Parity (i.e., PPP), notwithstanding more than three years of heavy Western
+      sanctions. Russia has the lowest debt-to-GDP ratio of all of the top economies
+      in the world… now estimated to be, at most, 19%. That means in the event of a
+      major financial crisis, Russia has ample financial means to weather a major storm.
+      But let’s look at the term, collapse . To say that a country’s economy “collapses”
+      means there is a widespread breakdown of normal commerce and market mechanisms,
+      resulting in severe, prolonged economic distress that goes far beyond a typical
+      recession or depression. An economic collapse is marked by: • Massive failures
+      in banks, businesses, and markets • Very high unemployment • Bankruptcies and
+      widespread poverty • Chaos in the currency, sometimes including hyperinflation
+      or a currency crash • Breakdown of law, public order, and often social unrest
+      • Failure of government economic interventions to restore stability in the short
+      term Unlike regular downturns or recessions, an economic collapse is not a normal
+      part of the economic cycle; it often follows a crisis and can last for years or
+      decades. Classic examples include the Great Depression in the US, or the hyperinflation-era
+      Weimar Germany. Social chaos and civil unrest often accompany a collapse, and
+      recovery is slow and painful. The Russian economy collapsed in the 1990s, and
+      that experience left an indelible scar on the soul of the Russian people. If you
+      want to place your bets, I believe that the US will experience a collapse before
+      Russia. So how vulnerable is Russia to tough sanctions on oil and gas? Oil exports
+      account for 15–20% of Russia’s GDP in recent years, including 2025. The oil and
+      gas sector as a whole makes up roughly 15.2% (2020), 19.2% (2019), and up to 21.1%
+      (2018) according to Russian government data, but the share for oil alone is typically
+      at the lower end of this range, around 15–17%. Oil and petroleum products account
+      for about 40–45% of Russia’s total exports as of 2025. This figure includes both
+      crude oil and refined petroleum products, making them the largest export category
+      for the country. Where do China and India fit in? China and India together account
+      for around 63% of Russia’s fossil fuel export revenues in 2025, with the EU and
+      Turkey trailing behind but still significant players. Check out this table: Let
+      me take you to fantasy land. Let’s assume that China, India, Turkey and the European
+      Union stop buying Russian oil and gas. That would be a 15% hit to Russia’s economy…
+      painful, but not debilitating nor devastating. But that is not going to happen.
+      China, which is the largest importer of Russian oil, just inked a deal with Russia
+      to build a new pipeline to deliver more oil and gas to China. India also is unlikely
+      to cave to US and European pressure because it needs inexpensive oil more than
+      it needs trade with the NATO-block. If Trump is counting on Bessent to give him
+      leverage over Putin and the Russian economy, then he is making an ill-advised
+      wager. The West’s failure to understand the simple fact that Russia, by virtue
+      of its vast natural resources, does not need international trade to grow its economy.
+      It is self-sufficient. But Russia is not sitting still… It has forged close economic
+      ties with its BRICS partners and, along with those partners, is building an alternative
+      to a Western hegemonic economic and financial system. Donald Trump is no longer
+      in a position to take Russia as an economic and financial hostage. Pax Americana
+      is kaput. I discussed some of this today with Nima and with Judge Napolitano:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article critiques US Treasury Secretary Scott Bessent's
+      belief that new sanctions targeting Russian oil and gas exports to China and India
+      will collapse the Russian economy, arguing that he misunderstands the resilience
+      of Russia's economy and its strategic relationships.
+    paragraph_summary: In a recent statement, US Treasury Secretary Scott Bessent expressed
+      confidence that new sanctions aimed at halting Russian oil and gas exports to
+      China and India would lead to the collapse of the Russian economy. However, critics
+      argue that Bessent's understanding of the Russian economy and its resilience is
+      flawed, as he overlooks the strong bilateral relations Russia maintains with these
+      countries and the complexities of its military-industrial complex. This belief
+      in the potential for a Russian economic collapse is not new and has been echoed
+      in previous analyses, such as a 2019 Rand Corporation report, which highlighted
+      Russia's reliance on energy exports while also noting the country's attempts at
+      economic diversification under former President Dmitry Medvedev. Despite facing
+      challenges from sanctions and fluctuating energy prices, the overall outlook for
+      Russia's economy remains unfavorable, but its resilience may be underestimated
+      by Western policymakers.
+    published: '2025-09-09T01:42:09+00:00'
+  - title: Will India Sell More US Treasuries and Buy More Gold?
+    url: https://sonar21.com/will-india-sell-more-us-treasuries-and-buy-more-gold/
+    text: 'Primer Minister Modi and Foreign Minister Jaishankar of India You may ask,
+      “Why are you writing on this?” The answer is simple — India, as one of the largest
+      purchasers of US bonds in recent times, can put a hurt on the US by selling more
+      US Treasury bills and buying more US gold. New Delhi has been among the top 20
+      investors in US T-bills, ahead of Saudi Arabia and Germany. Yet, starting in June
+      2024, India reduced its US Treasury holdings by approximately $15 billion between
+      June 2024 and June 2025, dropping from $242 billion to $227 billion . In the same
+      period, India increased its gold reserves by 39.22 metric tonnes, rising from
+      840.76 metric tonnes to 879.98 metric tonnes. Has anything happened since June
+      2025 that might make India less enthusiastic about buying US T-bills? You see
+      where I am going with this story? The level of acrimony has increased between
+      Washington and New Delhli as a result of Donald Trump hitting India with 50% tariffs
+      for buying Russian oil. Not only has Prime Minister Modi reportedly declined to
+      speak with President Trump — some sources say Modi has rejected four calls from
+      Trump in the last three weeks — but the Prime Minister announced late on Friday
+      that he would not attend the UN General Assembly meeting next week in New York
+      City. This does not mean that India is certain to continue to dump US T-bills
+      and buy gold to boost its domestic reserves, but I think that is highly likely.
+      Here is a worst case scenario: China, along with India, decides to substantially
+      reduce its holding of US T-bills. That would represent serious harm to the US
+      economy and could potentially set off major stagflation — i.e., an economic condition
+      characterized by the simultaneous occurrence of stagnant economic growth, high
+      unemployment, and high inflation. The anemic US jobs report on Friday is a preliminary
+      signal that the US job market is sagging. This could be an aberration, but I don’t
+      think so. I am curious what you think. Danny, who hosts a YouTube channel, CapitalCosm
+      , has interviewed me a couple of times this year. I think his latest presentation,
+      which does not include me, is worth watching in light of what is happening in
+      the gold and silver markets globally. The potential for global economic chaos
+      is genuine, and the ongoing wars in Ukraine and Palestine, along with the possibility
+      of a renewed attack on Iran by Israel, remain points of volatility that could
+      ignite a global financial crisis. And then there is Venezuela. Donald Trump launched
+      a Gulf of Tonkin incident last week when he allegedly ordered the US military
+      to destroy a cigarette boat that he claimed was carrying drugs. The Gulf of Tonkin
+      was a false flag by the US in order to justify expanding US military involvement
+      in Vietnam. Trump’s insistence that this boat was carrying drugs to the United
+      States is a complete fabrication. It is not true because the boat did not have
+      sufficient fuel to reach the United States nor were there any visible drug-bundles
+      on board, along with the eleven passengers/crew, to justify such a risk voyage.
+      Trump continues to build up US military forces off the coast of Venezuela. Maybe
+      it is just benign saber rattling. But I cannot rule out the likelihood that Trump
+      intends to attack Venezuela. If that happens, despite Trump’s confidence that
+      the US can easily subdue Maduro and his military, I think that the Venezuelans
+      are capable of inflicting some serious damage on US naval and ground forces if
+      such an intervention occurs. That will certainly dim Trump’s chances of securing
+      a Nobel Peace Prize . We are living in one of the most perilous times in modern
+      history, in my opinion. I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: India has significantly reduced its holdings of US Treasury
+      bills while increasing its gold reserves amid rising tensions with the US, particularly
+      following tariffs imposed by Donald Trump on Indian oil purchases from Russia.
+    paragraph_summary: The article discusses India's recent financial strategies regarding
+      US Treasury bills and gold reserves amid rising tensions with the United States,
+      particularly following tariffs imposed by Donald Trump on Indian oil purchases.
+      India has reduced its US Treasury holdings by $15 billion while significantly
+      increasing its gold reserves. The relationship between Washington and New Delhi
+      has soured, with Prime Minister Modi reportedly avoiding communication with Trump
+      and opting out of attending the upcoming UN General Assembly. The author speculates
+      that India may continue to divest from US T-bills, potentially in concert with
+      China, which could have detrimental effects on the US economy, leading to stagflation.
+      The article concludes by expressing concern over the implications of these developments
+      on the US job market and overall economic stability.
+    published: '2025-09-08T02:00:16+00:00'
+  - title: Will India Sell More US Treasuries and Buy More Gold?
+    url: https://sonar21.com/will-india-sell-more-us-treasuries-and-buy-more-gold/
+    text: 'Primer Minister Modi and Foreign Minister Jaishankar of India You may ask,
+      “Why are you writing on this?” The answer is simple — India, as one of the largest
+      purchasers of US bonds in recent times, can put a hurt on the US by selling more
+      US Treasury bills and buying more US gold. New Delhi has been among the top 20
+      investors in US T-bills, ahead of Saudi Arabia and Germany. Yet, starting in June
+      2024, India reduced its US Treasury holdings by approximately $15 billion between
+      June 2024 and June 2025, dropping from $242 billion to $227 billion . In the same
+      period, India increased its gold reserves by 39.22 metric tonnes, rising from
+      840.76 metric tonnes to 879.98 metric tonnes. Has anything happened since June
+      2025 that might make India less enthusiastic about buying US T-bills? You see
+      where I am going with this story? The level of acrimony has increased between
+      Washington and New Delhli as a result of Donald Trump hitting India with 50% tariffs
+      for buying Russian oil. Not only has Prime Minister Modi reportedly declined to
+      speak with President Trump — some sources say Modi has rejected four calls from
+      Trump in the last three weeks — but the Prime Minister announced late on Friday
+      that he would not attend the UN General Assembly meeting next week in New York
+      City. This does not mean that India is certain to continue to dump US T-bills
+      and buy gold to boost its domestic reserves, but I think that is highly likely.
+      Here is a worst case scenario: China, along with India, decides to substantially
+      reduce its holding of US T-bills. That would represent serious harm to the US
+      economy and could potentially set off major stagflation — i.e., an economic condition
+      characterized by the simultaneous occurrence of stagnant economic growth, high
+      unemployment, and high inflation. The anemic US jobs report on Friday is a preliminary
+      signal that the US job market is sagging. This could be an aberration, but I don’t
+      think so. I am curious what you think. Danny, who hosts a YouTube channel, CapitalCosm
+      , has interviewed me a couple of times this year. I think his latest presentation,
+      which does not include me, is worth watching in light of what is happening in
+      the gold and silver markets globally. The potential for global economic chaos
+      is genuine, and the ongoing wars in Ukraine and Palestine, along with the possibility
+      of a renewed attack on Iran by Israel, remain points of volatility that could
+      ignite a global financial crisis. And then there is Venezuela. Donald Trump launched
+      a Gulf of Tonkin incident last week when he allegedly ordered the US military
+      to destroy a cigarette boat that he claimed was carrying drugs. The Gulf of Tonkin
+      was a false flag by the US in order to justify expanding US military involvement
+      in Vietnam. Trump’s insistence that this boat was carrying drugs to the United
+      States is a complete fabrication. It is not true because the boat did not have
+      sufficient fuel to reach the United States nor were there any visible drug-bundles
+      on board, along with the eleven passengers/crew, to justify such a risk voyage.
+      Trump continues to build up US military forces off the coast of Venezuela. Maybe
+      it is just benign saber rattling. But I cannot rule out the likelihood that Trump
+      intends to attack Venezuela. If that happens, despite Trump’s confidence that
+      the US can easily subdue Maduro and his military, I think that the Venezuelans
+      are capable of inflicting some serious damage on US naval and ground forces if
+      such an intervention occurs. That will certainly dim Trump’s chances of securing
+      a Nobel Peace Prize . We are living in one of the most perilous times in modern
+      history, in my opinion. I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: India has significantly reduced its holdings of US Treasury
+      bills while increasing its gold reserves amid rising tensions with the US, particularly
+      following tariffs imposed by Donald Trump on Indian oil purchases from Russia.
+    paragraph_summary: The article discusses India's recent financial strategies regarding
+      US Treasury bills and gold reserves amid rising tensions with the United States,
+      particularly following tariffs imposed by Donald Trump on Indian oil purchases.
+      India has reduced its US Treasury holdings by $15 billion while significantly
+      increasing its gold reserves. The relationship between Washington and New Delhi
+      has soured, with Prime Minister Modi reportedly avoiding communication with Trump
+      and opting out of attending the upcoming UN General Assembly. The author speculates
+      that India may continue to divest from US T-bills, potentially in concert with
+      China, which could have detrimental effects on the US economy, leading to stagflation.
+      The article concludes by expressing concern over the implications of these developments
+      on the US job market and overall economic stability.
+    published: '2025-09-08T02:00:16+00:00'
+  - title: Hey George W. Bush, What’s So Damn Funny?
+    url: https://sonar21.com/hey-george-w-bush-whats-so-damn-funny/
+    text: 'I think the following video is authentic and is not an AI-generated piece
+      of propaganda. It features a joint press conference with Vladimir Putin and George
+      W. Bush. As you will see, Vladimir Putin raised the issue of NATO during his first
+      official meeting with George W. Bush on June 16, 2001, at the Slovenia Summit.
+      During the joint press conference, which is shown below, Putin referenced a formerly
+      classified Soviet proposal from 1954 to join the North Atlantic Treaty. He then
+      read the response from the West…  It was dismissed by NATO members as unrealistic.
+      The reaction of George W. Bush is shocking. He laughs as if Putin has told a joke.
+      Instead of engaging Putin on the matter and charting a new course in Russia’s
+      relations with the West, Bush ignored Putin’s proposal. Here’s the video: Now
+      look at the timeline of Putin’s views with respect to NATO: It was in 2008 at
+      the Bucharest Summit , which took place on April 2–4, that the rift between Russia
+      and the West with respect to NATO expansion, particularly regarding Ukraine and
+      Georgia, came to a head. During his speech at the Summit, Putin warned that NATO’s
+      expansion toward Russia’s borders posed a “direct threat” to Russian security.
+      He argued that the inclusion of former Soviet states, particularly Ukraine and
+      Georgia, would undermine Russia’s strategic interests. During the NATO-Russia
+      Council meeting on April 4, 2008, Putin stated that Moscow would view such moves
+      as a provocation, potentially forcing Russia to take measures to protect itself.
+      Was George W. Bush laughing then? In his speech and discussions at the Summit,
+      Putin highlighted the historical and cultural ties between Russia and Ukraine,
+      and pointedly stated that Ukraine’s integration into NATO could destabilize the
+      region. He notably remarked that “Ukraine is not even a real nation-state” and
+      that a significant portion of its population (e.g., 17 million ethnic Russians
+      out of 45 million) and territories (e.g., Crimea, with 90% Russian population)
+      were historically Russian. He further  warned that NATO membership could push
+      Ukraine to the “verge of its existence” due to internal divisions. Regarding Georgia,
+      he expressed concerns about its ethnic conflicts (e.g., Abkhazia, South Ossetia)
+      and suggested that NATO membership would not resolve these issues but might escalate
+      them under NATO’s aegis. Still, the West ignored him. Putin reproached NATO for
+      ignoring Russia’s legitimate security concerns, accusing the alliance of expecting
+      Moscow to “simply look on” as it expanded. He emphasized that NATO could not ensure
+      its security at the expense of others, referencing the US missile defense system
+      in Europe (planned for Poland and the Czech Republic) as an example. He called
+      for cooperation based on “equality and mutual trust” rather than on unilateral
+      expansion. Rather than try to substantively address Russia’s concerns as voiced
+      by President Putin, the West effectively told him to go pound sand . This was
+      not the first time that Putin tried to warn the US and the other NATO members
+      about the danger of expanding NATO.  The previous year, in February 2007 at the
+      Munich Security Conference, Putin provided an even sterner warning . He explicitly
+      condemned NATO’s eastward enlargement, describing it as a “serious provocation”
+      that encroached on Russia’s sphere of influence. He argued that the alliance’s
+      expansion into former Soviet states and Eastern European countries (e.g., the
+      Baltic states, with potential moves toward Ukraine and Georgia) violated assurances
+      given during the Cold War that NATO would not expand eastward. He stated, “The
+      process of NATO expansion has nothing to do with the modernization of the alliance
+      itself or with ensuring security in Europe. On the contrary, it is a serious factor
+      provoking the reduction of mutual trust.” Putin highlighted the deployment of
+      NATO military infrastructure near Russia’s borders as a direct security concern.
+      He pointed to the planned US missile defense system in Eastern Europe (later installed
+      in Poland and the Czech Republic) as an example, asserting that it upset the strategic
+      balance and could be used against Russia. He remarked, “Plans to expand certain
+      elements of the anti-missile defense system to Europe cannot but fail to cause
+      concern in Russia… This work proceeds in a unilateral fashion, without the consent
+      of the Russian Federation.” He suggested this could lead to a new arms race, undermining
+      global stability. Putin framed NATO’s actions as part of a broader US-led unipolar
+      world order that marginalized Russia. He argued that this unipolarity, enforced
+      through NATO, threatened the sovereignty of other nations, including Russia, by
+      imposing Western values and military dominance. He stated, “What is a unipolar
+      world? However one might embellish this term… it is a world in which there is
+      one master, one sovereign… This is pernicious not only for all those within this
+      system, but also for the sovereign itself because it destroys itself from within.”
+      Besides criticizing the unipolar approach, Putin also advocated for a multipolar
+      world and a new security framework that respected Russia’s interests, implicitly
+      rejecting NATO’s role as the sole guarantor of European security. He proposed
+      that security should be based on mutual respect and international law, not military
+      blocs, stating, “We are seeing a greater and greater disdain for the basic principles
+      of international law… No one feels secure anymore because no one can feel that
+      international law is like a stone wall that will protect them.” The historical
+      record clearly shows that it was the West, not Putin, who has provoked the current
+      war in Ukraine. Russia’s demands, as expressed by President Putin in 2007 and
+      2008, were not unreasonable. I think it is important to understand these historical
+      moments if you want to properly assess what Russia’s goals and objectives are
+      now. Russia is now firmly committed to creating a multipolar international political,
+      security and economic new world order. He is not just paying lip service to the
+      concept… He is actively engaged as a political mid-wife helping give birth to
+      something new. Does Donald Trump and his team understand that? I don’t think so.
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses a video of a joint press conference
+      between Vladimir Putin and George W. Bush in 2001, where Putin raised concerns
+      about NATO and referenced a Soviet proposal from 1954, but Bush dismissed the
+      issue with laughter instead of addressing it, highlighting the beginning of a
+      rift between Russia and the West regarding NATO.
+    paragraph_summary: The article discusses a joint press conference between Vladimir
+      Putin and George W. Bush on June 16, 2001, during which Putin raised concerns
+      about NATO and referenced a 1954 Soviet proposal for joining the alliance that
+      had been dismissed by NATO members. Bush's reaction, characterized by laughter,
+      indicated a lack of engagement with Putin's concerns, which foreshadowed future
+      tensions. The article highlights a significant shift in relations by referencing
+      the 2008 Bucharest Summit, where Putin warned that NATO's expansion, particularly
+      regarding Ukraine and Georgia, posed a direct threat to Russian security. He emphasized
+      the historical ties between Russia and Ukraine, arguing that NATO's inclusion
+      of Ukraine could destabilize the region, and controversially claimed that Ukraine
+      was not a legitimate nation-state. The article suggests that Bush's dismissive
+      attitude at the 2001 meeting contributed to the escalating rift between Russia
+      and the West.
+    published: '2025-09-07T03:40:29+00:00'
+  - title: Hey George W. Bush, What’s So Damn Funny?
+    url: https://sonar21.com/hey-george-w-bush-whats-so-damn-funny/
+    text: 'I think the following video is authentic and is not an AI-generated piece
+      of propaganda. It features a joint press conference with Vladimir Putin and George
+      W. Bush. As you will see, Vladimir Putin raised the issue of NATO during his first
+      official meeting with George W. Bush on June 16, 2001, at the Slovenia Summit.
+      During the joint press conference, which is shown below, Putin referenced a formerly
+      classified Soviet proposal from 1954 to join the North Atlantic Treaty. He then
+      read the response from the West…  It was dismissed by NATO members as unrealistic.
+      The reaction of George W. Bush is shocking. He laughs as if Putin has told a joke.
+      Instead of engaging Putin on the matter and charting a new course in Russia’s
+      relations with the West, Bush ignored Putin’s proposal. Here’s the video: Now
+      look at the timeline of Putin’s views with respect to NATO: It was in 2008 at
+      the Bucharest Summit , which took place on April 2–4, that the rift between Russia
+      and the West with respect to NATO expansion, particularly regarding Ukraine and
+      Georgia, came to a head. During his speech at the Summit, Putin warned that NATO’s
+      expansion toward Russia’s borders posed a “direct threat” to Russian security.
+      He argued that the inclusion of former Soviet states, particularly Ukraine and
+      Georgia, would undermine Russia’s strategic interests. During the NATO-Russia
+      Council meeting on April 4, 2008, Putin stated that Moscow would view such moves
+      as a provocation, potentially forcing Russia to take measures to protect itself.
+      Was George W. Bush laughing then? In his speech and discussions at the Summit,
+      Putin highlighted the historical and cultural ties between Russia and Ukraine,
+      and pointedly stated that Ukraine’s integration into NATO could destabilize the
+      region. He notably remarked that “Ukraine is not even a real nation-state” and
+      that a significant portion of its population (e.g., 17 million ethnic Russians
+      out of 45 million) and territories (e.g., Crimea, with 90% Russian population)
+      were historically Russian. He further  warned that NATO membership could push
+      Ukraine to the “verge of its existence” due to internal divisions. Regarding Georgia,
+      he expressed concerns about its ethnic conflicts (e.g., Abkhazia, South Ossetia)
+      and suggested that NATO membership would not resolve these issues but might escalate
+      them under NATO’s aegis. Still, the West ignored him. Putin reproached NATO for
+      ignoring Russia’s legitimate security concerns, accusing the alliance of expecting
+      Moscow to “simply look on” as it expanded. He emphasized that NATO could not ensure
+      its security at the expense of others, referencing the US missile defense system
+      in Europe (planned for Poland and the Czech Republic) as an example. He called
+      for cooperation based on “equality and mutual trust” rather than on unilateral
+      expansion. Rather than try to substantively address Russia’s concerns as voiced
+      by President Putin, the West effectively told him to go pound sand . This was
+      not the first time that Putin tried to warn the US and the other NATO members
+      about the danger of expanding NATO.  The previous year, in February 2007 at the
+      Munich Security Conference, Putin provided an even sterner warning . He explicitly
+      condemned NATO’s eastward enlargement, describing it as a “serious provocation”
+      that encroached on Russia’s sphere of influence. He argued that the alliance’s
+      expansion into former Soviet states and Eastern European countries (e.g., the
+      Baltic states, with potential moves toward Ukraine and Georgia) violated assurances
+      given during the Cold War that NATO would not expand eastward. He stated, “The
+      process of NATO expansion has nothing to do with the modernization of the alliance
+      itself or with ensuring security in Europe. On the contrary, it is a serious factor
+      provoking the reduction of mutual trust.” Putin highlighted the deployment of
+      NATO military infrastructure near Russia’s borders as a direct security concern.
+      He pointed to the planned US missile defense system in Eastern Europe (later installed
+      in Poland and the Czech Republic) as an example, asserting that it upset the strategic
+      balance and could be used against Russia. He remarked, “Plans to expand certain
+      elements of the anti-missile defense system to Europe cannot but fail to cause
+      concern in Russia… This work proceeds in a unilateral fashion, without the consent
+      of the Russian Federation.” He suggested this could lead to a new arms race, undermining
+      global stability. Putin framed NATO’s actions as part of a broader US-led unipolar
+      world order that marginalized Russia. He argued that this unipolarity, enforced
+      through NATO, threatened the sovereignty of other nations, including Russia, by
+      imposing Western values and military dominance. He stated, “What is a unipolar
+      world? However one might embellish this term… it is a world in which there is
+      one master, one sovereign… This is pernicious not only for all those within this
+      system, but also for the sovereign itself because it destroys itself from within.”
+      Besides criticizing the unipolar approach, Putin also advocated for a multipolar
+      world and a new security framework that respected Russia’s interests, implicitly
+      rejecting NATO’s role as the sole guarantor of European security. He proposed
+      that security should be based on mutual respect and international law, not military
+      blocs, stating, “We are seeing a greater and greater disdain for the basic principles
+      of international law… No one feels secure anymore because no one can feel that
+      international law is like a stone wall that will protect them.” The historical
+      record clearly shows that it was the West, not Putin, who has provoked the current
+      war in Ukraine. Russia’s demands, as expressed by President Putin in 2007 and
+      2008, were not unreasonable. I think it is important to understand these historical
+      moments if you want to properly assess what Russia’s goals and objectives are
+      now. Russia is now firmly committed to creating a multipolar international political,
+      security and economic new world order. He is not just paying lip service to the
+      concept… He is actively engaged as a political mid-wife helping give birth to
+      something new. Does Donald Trump and his team understand that? I don’t think so.
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses a video of a joint press conference
+      between Vladimir Putin and George W. Bush in 2001, where Putin raised concerns
+      about NATO and referenced a Soviet proposal from 1954, but Bush dismissed the
+      issue with laughter instead of addressing it, highlighting the beginning of a
+      rift between Russia and the West regarding NATO.
+    paragraph_summary: The article discusses a joint press conference between Vladimir
+      Putin and George W. Bush on June 16, 2001, during which Putin raised concerns
+      about NATO and referenced a 1954 Soviet proposal for joining the alliance that
+      had been dismissed by NATO members. Bush's reaction, characterized by laughter,
+      indicated a lack of engagement with Putin's concerns, which foreshadowed future
+      tensions. The article highlights a significant shift in relations by referencing
+      the 2008 Bucharest Summit, where Putin warned that NATO's expansion, particularly
+      regarding Ukraine and Georgia, posed a direct threat to Russian security. He emphasized
+      the historical ties between Russia and Ukraine, arguing that NATO's inclusion
+      of Ukraine could destabilize the region, and controversially claimed that Ukraine
+      was not a legitimate nation-state. The article suggests that Bush's dismissive
+      attitude at the 2001 meeting contributed to the escalating rift between Russia
+      and the West.
+    published: '2025-09-07T03:40:29+00:00'
+  - title: With Donald Trump, It’s a Mad World
+    url: https://sonar21.com/with-donald-trump-its-a-mad-world/
+    text: 'My friend, Alex Krainer, holds a more benign view of Donald Trump than do
+      I. I hope Alex is correct in his view that Trump actually has a strategy and is
+      genuinely pursuing a path that will end the war in Ukraine. But I generally ignore
+      what Donald Trump says and I focus instead on what he does. Today, for example,
+      he changed the name of the Department of Defense to the Department of War. WTF!!!
+      What happened to the concept that the best offense is a good defense ? I really
+      don’t think that Trump and his team thought this move through. Consider the internet
+      interface… Instead of dod.gov, we now have war.gov. What kind of message is that
+      sending to the world? While Trump is obsessed with being awarded a Nobel Peace
+      Prize, I think his decision to christen the Department of Defense as the Department
+      of War pretty much ensures he’ll never get that prize. I suppose there is a bright
+      side to this… At least the United States is now being honest about the activity
+      of our so-called Department of Defense since the Korean War, because the name
+      change more accurately defines what US military policy has been for the last 65
+      years. We waged war in Vietnam, Iraq, Afghanistan, Syria, Yemen, Somalia, Serbia,
+      Libya, Panama and Ukraine. I think the song, Mad World , which was written by
+      Tears for Fears , best encapsulates the Trump mood (I prefer the Pentatonix version):
+      The attack on the cigarette boat departing Venezuela stinks to high heaven. Cigarette
+      boats typically come equipped with large fuel tanks, generally ranging from 200
+      to 250 gallons in total capacity. For example, the Cigarette Top Gun model—one
+      of the most popular hulls—often features dual tanks with a combined capacity of
+      approximately 220 gallons (two 110-gallon tanks). A typical cigarette boat with
+      three outboard motors will burn approximately 28–35 gallons of fuel per hour per
+      engine at wide open throttle, which amounts to 84–105 gallons per hour in total
+      when running all three engines at maximum power. At normal cruising speeds, fuel
+      consumption can drop to about 18–25 gallons per hour per engine, for a combined
+      54–75 gallons per hour for the boat. A cigarette boat with a 220-gallon fuel tank
+      can typically travel between 286 and 330 miles on a full tank under normal cruising
+      conditions. This estimate uses a cruising fuel efficiency of about 1.3–1.5 miles
+      per gallon, based on common data for these high-performance boats. There is no
+      way in hell that his boat was headed to the United States. Let’s assume that the
+      boat departed from Maracaibo, Venezuela. The distance by water from Maracaibo,
+      Venezuela to the Florida Keys is approximately 1,014 nautical miles, which is
+      about 1,167 statute miles (1,878 km). This measurement reflects the shortest direct
+      route between Maracaibo and Key West in the Florida Keys, often used as the reference
+      point for the archipelago. The maximum weight capacity (also referred to as the
+      maximum load or maximum displacement) of a cigarette boat varies by model, but
+      typical figures can range from about 10,000 pounds (4,500 kg) for smaller 38-foot
+      models up to around 33,000 pounds (15,000 kg) or more for larger, high-performance
+      models like the 52-foot Cigarette 52 Thunder. If we assume that the average weight
+      of the 11 people on the boat was 180 pounds, that is 1980 pounds of weight. The
+      four outboard motors on that boat weighed a combined 2,800 pounds. If this boat
+      was heading for the United States, it would have to carry around 2,000 pounds
+      of fuel. Discounting the 220 gallons of gas already in the tanks, the boat would
+      have to have an additional 339 jerry cans of fuel onboard to make it to Key West,
+      Florida. Add all of this up and we have a total weight, without counting the alleged
+      drugs onboard, of 6,780 pounds. This means that the boat could conceivably carry
+      about 26,000 pounds of drugs. If each bundle of drugs weighed 100 pounds, that
+      means we should have seen at least 260 bundles stacked in the boat. Now look at
+      a photo of the boat before it was destroyed… Can you see even 20 100-pound bundles
+      of drugs? Can you see even a dozen jerry cans? No!!! This story is bullshit. But
+      no one in the media is capable, apparently, of doing basic math and asking logical
+      questions. I have a new video on Counter Currents . I am also posting my chat
+      with Nima and Colonel Wilkerson and the Intelligence Roundtable with Judge Napolitano
+      and Ray Mcgovern:'
+    one_sentence_summary: The author expresses skepticism about Donald Trump's approach
+      to foreign policy, particularly criticizing his decision to rename the Department
+      of Defense to the Department of War, which they believe undermines the notion
+      of defense and contradicts any aspirations for a Nobel Peace Prize.
+    paragraph_summary: The article expresses skepticism about Donald Trump's approach
+      to foreign policy, particularly his recent decision to rename the Department of
+      Defense to the Department of War, which the author believes undermines the concept
+      of defense and sends a troubling message globally. While the author acknowledges
+      a friend’s more optimistic view of Trump’s intentions regarding the Ukraine conflict,
+      they focus on the implications of this name change, suggesting it reflects a long-standing
+      U.S. military policy of aggression rather than defense. The author also critiques
+      Trump’s aspirations for a Nobel Peace Prize, arguing that this decision contradicts
+      such ambitions and highlights the U.S.'s historical involvement in various conflicts.
+      The piece concludes with a reference to the song "Mad World," capturing the author's
+      disillusionment with the current political climate.
+    published: '2025-09-06T03:16:23+00:00'
+  - title: With Donald Trump, It’s a Mad World
+    url: https://sonar21.com/with-donald-trump-its-a-mad-world/
+    text: 'My friend, Alex Krainer, holds a more benign view of Donald Trump than do
+      I. I hope Alex is correct in his view that Trump actually has a strategy and is
+      genuinely pursuing a path that will end the war in Ukraine. But I generally ignore
+      what Donald Trump says and I focus instead on what he does. Today, for example,
+      he changed the name of the Department of Defense to the Department of War. WTF!!!
+      What happened to the concept that the best offense is a good defense ? I really
+      don’t think that Trump and his team thought this move through. Consider the internet
+      interface… Instead of dod.gov, we now have war.gov. What kind of message is that
+      sending to the world? While Trump is obsessed with being awarded a Nobel Peace
+      Prize, I think his decision to christen the Department of Defense as the Department
+      of War pretty much ensures he’ll never get that prize. I suppose there is a bright
+      side to this… At least the United States is now being honest about the activity
+      of our so-called Department of Defense since the Korean War, because the name
+      change more accurately defines what US military policy has been for the last 65
+      years. We waged war in Vietnam, Iraq, Afghanistan, Syria, Yemen, Somalia, Serbia,
+      Libya, Panama and Ukraine. I think the song, Mad World , which was written by
+      Tears for Fears , best encapsulates the Trump mood (I prefer the Pentatonix version):
+      The attack on the cigarette boat departing Venezuela stinks to high heaven. Cigarette
+      boats typically come equipped with large fuel tanks, generally ranging from 200
+      to 250 gallons in total capacity. For example, the Cigarette Top Gun model—one
+      of the most popular hulls—often features dual tanks with a combined capacity of
+      approximately 220 gallons (two 110-gallon tanks). A typical cigarette boat with
+      three outboard motors will burn approximately 28–35 gallons of fuel per hour per
+      engine at wide open throttle, which amounts to 84–105 gallons per hour in total
+      when running all three engines at maximum power. At normal cruising speeds, fuel
+      consumption can drop to about 18–25 gallons per hour per engine, for a combined
+      54–75 gallons per hour for the boat. A cigarette boat with a 220-gallon fuel tank
+      can typically travel between 286 and 330 miles on a full tank under normal cruising
+      conditions. This estimate uses a cruising fuel efficiency of about 1.3–1.5 miles
+      per gallon, based on common data for these high-performance boats. There is no
+      way in hell that his boat was headed to the United States. Let’s assume that the
+      boat departed from Maracaibo, Venezuela. The distance by water from Maracaibo,
+      Venezuela to the Florida Keys is approximately 1,014 nautical miles, which is
+      about 1,167 statute miles (1,878 km). This measurement reflects the shortest direct
+      route between Maracaibo and Key West in the Florida Keys, often used as the reference
+      point for the archipelago. The maximum weight capacity (also referred to as the
+      maximum load or maximum displacement) of a cigarette boat varies by model, but
+      typical figures can range from about 10,000 pounds (4,500 kg) for smaller 38-foot
+      models up to around 33,000 pounds (15,000 kg) or more for larger, high-performance
+      models like the 52-foot Cigarette 52 Thunder. If we assume that the average weight
+      of the 11 people on the boat was 180 pounds, that is 1980 pounds of weight. The
+      four outboard motors on that boat weighed a combined 2,800 pounds. If this boat
+      was heading for the United States, it would have to carry around 2,000 pounds
+      of fuel. Discounting the 220 gallons of gas already in the tanks, the boat would
+      have to have an additional 339 jerry cans of fuel onboard to make it to Key West,
+      Florida. Add all of this up and we have a total weight, without counting the alleged
+      drugs onboard, of 6,780 pounds. This means that the boat could conceivably carry
+      about 26,000 pounds of drugs. If each bundle of drugs weighed 100 pounds, that
+      means we should have seen at least 260 bundles stacked in the boat. Now look at
+      a photo of the boat before it was destroyed… Can you see even 20 100-pound bundles
+      of drugs? Can you see even a dozen jerry cans? No!!! This story is bullshit. But
+      no one in the media is capable, apparently, of doing basic math and asking logical
+      questions. I have a new video on Counter Currents . I am also posting my chat
+      with Nima and Colonel Wilkerson and the Intelligence Roundtable with Judge Napolitano
+      and Ray Mcgovern:'
+    one_sentence_summary: The author expresses skepticism about Donald Trump's approach
+      to foreign policy, particularly criticizing his decision to rename the Department
+      of Defense to the Department of War, which they believe undermines the notion
+      of defense and contradicts any aspirations for a Nobel Peace Prize.
+    paragraph_summary: The article expresses skepticism about Donald Trump's approach
+      to foreign policy, particularly his recent decision to rename the Department of
+      Defense to the Department of War, which the author believes undermines the concept
+      of defense and sends a troubling message globally. While the author acknowledges
+      a friend’s more optimistic view of Trump’s intentions regarding the Ukraine conflict,
+      they focus on the implications of this name change, suggesting it reflects a long-standing
+      U.S. military policy of aggression rather than defense. The author also critiques
+      Trump’s aspirations for a Nobel Peace Prize, arguing that this decision contradicts
+      such ambitions and highlights the U.S.'s historical involvement in various conflicts.
+      The piece concludes with a reference to the song "Mad World," capturing the author's
+      disillusionment with the current political climate.
+    published: '2025-09-06T03:16:23+00:00'
+  - title: Vladimir Putin Updates Reporters and the World on Russia’s Ukraine Policy
+    url: https://sonar21.com/vladimir-putin-updates-reporters-and-the-world-on-russias-ukraine-policy/
+    text: 'Vladimir Putin held a press conference in China Tuesday night Beijing time
+      and provided a thorough update on Russia’s policy regarding Ukraine and negotiations
+      with the United States. You can find the full transcript here . To begin, I want
+      to draw your attention to President Putin’s reaction to Donald Trump’s juvenile
+      Truth -post where he accused Putin and Kim Jong-un of conspiring against the US.
+      Putin’s response is a classic example of a statesman in action: E. Mukhametshina:
+      Trump commented on the parade before it even took place, and said, “I hope Xi
+      will remember the American soldiers who helped China during World War II.” He
+      also wrote, “Please convey my warmest regards to Vladimir Putin and Kim Jong-un
+      as they plot against the United States.” How can you comment on this? V. Putin:
+      The President of the United States is not devoid of humour – everything is clear,
+      everyone knows it well. I have developed a good relationship with him. We address
+      each other by name. I can tell you, and I hope he will hear it as well: It may
+      seem strange, but during these four days of negotiations, both informal and formal,
+      no one has ever expressed any negative opinions about the current American administration. This
+      is the first point. Second. All of my interlocutors, without exception, I want
+      to emphasize, all of them supported our meeting in Anchorage. And they all expressed
+      their hope that President Trump’s position and the positions of Russia and the
+      other negotiators would lead to the end of the armed conflict. This is without
+      any irony or jokes. Since I’m saying this in public, it will be seen and heard
+      all over the world, and that’s the best way to ensure that I’m telling the truth. Why? Because
+      the people I’ve been talking to over the past four days will also hear this, and
+      they’ll be the ones to say, “Yes, it’s true.” I wouldn’t have done this if it
+      wasn’t true, because it would have made me look bad in front of my friends, allies,
+      and strategic partners. That’s exactly how it happened. And I would like to return
+      to what I said to your colleague on my right. The activities of the SCO and those
+      of our partners, including our strategic partners, are not aimed at fighting anyone,
+      but rather at finding the best ways to develop ourselves, our countries, our peoples,
+      and our economies. Putin kept it on the high road , at least with respect to Donald
+      Trump. Mr. Putin had a slightly different reaction to remarks by German Chancellor
+      Merz, who had labeled President Putin as a “war criminal.” This is quite ironic
+      coming out of Merz’s piehole, in light of the tongue baths he has lathered on
+      Bibi Netanyahu — a genuine war criminal. A. Kolesnikov: Andrey Kolesnikov, Kommersant
+      newspaper. And if you don’t mind, one more question.  A few hours ago, the German
+      Chancellor, Mr. Merz, called you perhaps the most serious war criminal of our
+      time.  What do you think about that? V. Putin: When? A. Kolesnikov: Just a couple
+      of hours ago. V. Putin: I see. . . . As for the statements you mentioned, which
+      Peskov also mentioned to me just a few minutes ago, what do I think about them? I
+      think that this is an unsuccessful attempt to absolve himself, not personally,
+      but his country and the “collective West” in general, of responsibility for the
+      tragedy that is currently unfolding in Ukraine. What do I mean? I have already
+      said this many times: in 2014, the ministers of three European countries came
+      to Kiev and signed a document that was essentially an agreement between the current
+      government, then-President Yanukovych, and the opposition. According to this agreement,
+      all political disputes were to be resolved within the constitutional framework,
+      peacefully and legally. And just a day or two later, there was a coup d’état,
+      a bloody and brutal one. None of these guarantors did anything to bring the situation
+      back into the legal framework. This is where the conflict began, because immediately
+      after that, events began to unfold in Crimea, and the Kiev regime launched military
+      operations using armored vehicles and aircraft against the civilian population
+      of those regions of Ukraine that did not agree with the coup d’état. They then
+      undermined all our attempts to resolve the issue peacefully and publicly refused
+      to implement the Minsk agreements. So who is to blame for the tragedy that is
+      happening? Those who have brought us to this situation by completely ignoring
+      Russia’s security interests. If someone believes that it is acceptable to treat
+      the people of our country with such disregard, they should know that we will never
+      allow such a situation where Russia remains passive and does not respond to the
+      events unfolding around it. Putin is quite clear that he holds the West totally
+      responsible for creating the predicates that led to the Special Military Operation
+      ( SMO ) in February 2022. His warning to the West is clear: If you treat Russia
+      with disregard, Russia will respond appropriately . President Putin’s response
+      to a question about the when the SMO will end revealed that Mr. Putin remains
+      hopeful that a deal to end the war can be struck, but he also is ready to end
+      it militarily. O. Skabeeva: Good evening! Olga Skabeeva, Russia TV channel. .
+      . . And another important question about the special operation: Vladimir Vladimirovich,
+      is there a chance that it will end in the near future? How do you feel about it,
+      do you feel that we are moving towards the end? V.Putin: I will probably start
+      with the second part, as it is the key part. Back in 2022, we suggested that the
+      Ukrainian authorities respect the choice of the people living in the southeast
+      of Ukraine, withdraw their troops, and end the conflict immediately. I must say
+      that this suggestion was not completely rejected. But after we withdrew our troops
+      from Kiev at the insistence of our Western European colleagues, the situation
+      changed, and we were told, almost verbatim, that we would continue to fight until
+      either you turned your head or we turned ours. I don’t remember if I said this
+      publicly, but it was something like that, albeit in more blunt terms, but it was
+      quite open and, oddly enough, friendly: it was either us or you. This is still
+      ongoing. Nevertheless, it seems to me that if common sense prevails, it will be
+      possible to agree on an acceptable way to end this conflict. This is my assumption.
+      Moreover, we can see the mood of the current US administration under President
+      Trump, and it’s not just about their calls, but their genuine desire to find a
+      solution. I believe there is a glimmer of hope at the end of the tunnel. Let’s
+      see how the situation unfolds. If not, we will have to address our challenges
+      through military means. Lastly, I encourage you to read Putin’s answers to two
+      questions he received regarding security guarantees and achieving a negotiated
+      outcome. He is not just doing some fancy lawyer tap dancing as he analyzes the
+      Ukrainian constitution… Putin explains very clearly why negotiating with Zelensky
+      is a dead end. P. Zarubin: Good evening! Pavel Zarubin, Russia TV channel. You
+      often talk about the root causes of the Ukrainian crisis, and yesterday, by the
+      way, you also talked about the reasons for Ukraine’s accession to NATO. However,
+      we are now witnessing European leaders who claim to provide security guarantees
+      for Ukraine but are primarily focused on deploying their troops in Ukraine. Additionally,
+      many continue to advocate for Ukraine’s accession to the European Union. But we
+      also see that the European Union is rapidly transforming from an economic union
+      into a military-political bloc, with almost constant aggressive decisions and
+      statements. How can you comment on all these scenarios? V.Putin: I agree with
+      those who believe that every country has the right to choose its own security
+      system. This applies to all countries, including Ukraine. However, it also means
+      that the security of one party cannot be ensured at the expense of the security
+      of another party, in this case, the Russian Federation. We have always opposed
+      Ukraine’s membership in the North Atlantic Treaty Organization, but we have never
+      questioned its right to conduct its economic and business activities as it sees
+      fit, including its membership in the European Union. A. Yunashev: Can we continue
+      about Ukraine? V. Putin: You can. A. Yunashev: Alexander Yunashev, Life. When
+      Russia and the United States are discussing their efforts to achieve a peaceful
+      resolution in Ukraine, the formula of “security guarantees in exchange for territory”
+      is becoming increasingly popular. Does this align with what you discussed with
+      Trump in Alaska? And what do you mean when you say that Russia is ready to join
+      in developing these guarantees? Who should be the guarantor, in your opinion?
+      And, if you don’t mind, about Zelensky: is there any point in meeting with him
+      now, in the current circumstances? Is it possible to reach any agreements at this
+      meeting? Thank you. V. Putin: The first part, once again. A. Yunashev: The US
+      efforts – there are some speculations now that there is a formula of “security
+      guarantees in exchange for territories”. V. Putin: No, we have never raised this
+      issue or discussed it in this way. Security guarantees are natural, and I often
+      talk about them. We believe that every country should have these guarantees and
+      a security system, including Ukraine. However, this is not related to any exchanges,
+      let alone territorial exchanges. To be honest, I want to emphasize that we are
+      not fighting for territories so much as we are fighting for human rights and for
+      the right of the people who live in these territories to speak their own language,
+      to live within their own culture, and to follow the traditions that have been
+      passed down from previous generations, from their fathers, grandfathers, and so
+      on. This is the main focus of our efforts. And if these people, in the course
+      of electoral democratic procedures, including referendums, expressed their support
+      for being part of the Russian Federation, this opinion should be respected. This
+      is democracy – I want to remind those who forget about it. And, among other things,
+      this is fully in line with international law: I would like to recall the first
+      articles of the Charter [of the Organization] The United Nations, which explicitly
+      states the right of nations to self-determination. But we don’t link one to the
+      other – territories and security guarantees. Of course, we can say that these
+      are related topics, but we don’t directly link them. This was not a topic discussed
+      during the Anchorage discussion. As for possible meetings with Mr. Zelensky, I
+      have already spoken about this. In general, I have never ruled out the possibility
+      of such a meeting. Is there any point in these meetings? Let’s see. According
+      to the Constitution of Ukraine – some people may agree with it, some may not,
+      you just need to read the text carefully – there are no provisions in the Constitution
+      of Ukraine for extending the term of office of the President of Ukraine. If you
+      are elected for a five-year term, and five years have passed, your term of office
+      has ended. There is a provision according to which elections are not held during
+      martial law. Yes, this is true. However, this does not mean that the president’s
+      powers are extended. Instead, it means that his powers expire, and his rights
+      are transferred to the Speaker of the Rada, including his authority as the Supreme
+      Commander-in-Chief. What should the current authorities do if they want to be
+      legitimate and fully participate in the settlement process? First of all, they
+      should hold a referendum: according to the Ukrainian Constitution, territorial
+      issues can only be resolved through a referendum, as far as I remember. However,
+      a referendum cannot be held during a state of war, which is also a provision of
+      the Constitution. Therefore, in order to hold a referendum, the state of war must
+      be lifted. Once this is done, elections must be held. This process will continue
+      indefinitely. The result of the election is unclear, but whatever the result,
+      it is necessary to obtain a corresponding opinion from the Constitutional Court,
+      as stated in the main law. However, how can one obtain a Constitutional Court
+      opinion when, after the authorities demanded that the Constitutional Court of
+      Ukraine confirm the extension of the president’s powers, and the court effectively
+      refused to do so, what happened in Ukraine? It may sound ridiculous, but the security
+      guards refused to allow the chairman of the Constitutional Court to enter his
+      office. That’s it, the movie’s over. But not quite, because as far as I know,
+      I don’t know where he is right now, but at one point, he went abroad. However,
+      in recent years, the powers of some members of the Constitutional Court have expired. As
+      a result, the court lacks the necessary quorum to make decisions. Therefore, it
+      is a dead-end path to simply hold meetings with the current head of administration,
+      let’s say, in a delicate manner. It is possible – I have never refused to do this
+      – if this meeting is well-prepared and leads to some positive possible results. By
+      the way, Donald asked me if it was possible to hold such a meeting. I said yes,
+      it is possible. After all, if Zelensky is ready, he can come to Moscow and the
+      meeting will take place. This is the key paragraph from his remarks: according
+      to the Ukrainian Constitution, territorial issues can only be resolved through
+      a referendum, as far as I remember. However, a referendum cannot be held during
+      a state of war, which is also a provision of the Constitution. Therefore, in order
+      to hold a referendum, the state of war must be lifted. Once this is done, elections
+      must be held. This process will continue indefinitely. I hope President Trump
+      and his envoy, Mr. Witkoff, are paying attention to Mr. Putin’s carefully chosen
+      words. I did two podcasts today: The first was with the boys at The Duran , and
+      the second was with Garland Nixon. Enjoy: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: During a press conference in China, Vladimir Putin addressed
+      U.S. relations and responded to Donald Trump's comments about him and Kim Jong-un,
+      highlighting their cordial relationship and acknowledging Trump's sense of humor.
+    paragraph_summary: In a recent press conference in China, Vladimir Putin addressed
+      Russia's stance on Ukraine and its negotiations with the United States, responding
+      specifically to Donald Trump's comments suggesting a conspiracy between Putin
+      and Kim Jong-un against the U.S. Putin characterized Trump's remarks as humorous
+      and emphasized his positive relationship with the former U.S. president, noting
+      that during recent negotiations, no negative opinions about the current U.S. administration
+      were expressed. He highlighted that all his interlocutors supported the discussions
+      held in Anchorage and expressed hope that these negotiations would help end the
+      armed conflict, asserting the sincerity of his statements as a means to maintain
+      credibility with his allies and partners.
+    published: '2025-09-05T02:28:40+00:00'
+  - title: Vladimir Putin Updates Reporters and the World on Russia’s Ukraine Policy
+    url: https://sonar21.com/vladimir-putin-updates-reporters-and-the-world-on-russias-ukraine-policy/
+    text: 'Vladimir Putin held a press conference in China Tuesday night Beijing time
+      and provided a thorough update on Russia’s policy regarding Ukraine and negotiations
+      with the United States. You can find the full transcript here . To begin, I want
+      to draw your attention to President Putin’s reaction to Donald Trump’s juvenile
+      Truth -post where he accused Putin and Kim Jong-un of conspiring against the US.
+      Putin’s response is a classic example of a statesman in action: E. Mukhametshina:
+      Trump commented on the parade before it even took place, and said, “I hope Xi
+      will remember the American soldiers who helped China during World War II.” He
+      also wrote, “Please convey my warmest regards to Vladimir Putin and Kim Jong-un
+      as they plot against the United States.” How can you comment on this? V. Putin:
+      The President of the United States is not devoid of humour – everything is clear,
+      everyone knows it well. I have developed a good relationship with him. We address
+      each other by name. I can tell you, and I hope he will hear it as well: It may
+      seem strange, but during these four days of negotiations, both informal and formal,
+      no one has ever expressed any negative opinions about the current American administration. This
+      is the first point. Second. All of my interlocutors, without exception, I want
+      to emphasize, all of them supported our meeting in Anchorage. And they all expressed
+      their hope that President Trump’s position and the positions of Russia and the
+      other negotiators would lead to the end of the armed conflict. This is without
+      any irony or jokes. Since I’m saying this in public, it will be seen and heard
+      all over the world, and that’s the best way to ensure that I’m telling the truth. Why? Because
+      the people I’ve been talking to over the past four days will also hear this, and
+      they’ll be the ones to say, “Yes, it’s true.” I wouldn’t have done this if it
+      wasn’t true, because it would have made me look bad in front of my friends, allies,
+      and strategic partners. That’s exactly how it happened. And I would like to return
+      to what I said to your colleague on my right. The activities of the SCO and those
+      of our partners, including our strategic partners, are not aimed at fighting anyone,
+      but rather at finding the best ways to develop ourselves, our countries, our peoples,
+      and our economies. Putin kept it on the high road , at least with respect to Donald
+      Trump. Mr. Putin had a slightly different reaction to remarks by German Chancellor
+      Merz, who had labeled President Putin as a “war criminal.” This is quite ironic
+      coming out of Merz’s piehole, in light of the tongue baths he has lathered on
+      Bibi Netanyahu — a genuine war criminal. A. Kolesnikov: Andrey Kolesnikov, Kommersant
+      newspaper. And if you don’t mind, one more question.  A few hours ago, the German
+      Chancellor, Mr. Merz, called you perhaps the most serious war criminal of our
+      time.  What do you think about that? V. Putin: When? A. Kolesnikov: Just a couple
+      of hours ago. V. Putin: I see. . . . As for the statements you mentioned, which
+      Peskov also mentioned to me just a few minutes ago, what do I think about them? I
+      think that this is an unsuccessful attempt to absolve himself, not personally,
+      but his country and the “collective West” in general, of responsibility for the
+      tragedy that is currently unfolding in Ukraine. What do I mean? I have already
+      said this many times: in 2014, the ministers of three European countries came
+      to Kiev and signed a document that was essentially an agreement between the current
+      government, then-President Yanukovych, and the opposition. According to this agreement,
+      all political disputes were to be resolved within the constitutional framework,
+      peacefully and legally. And just a day or two later, there was a coup d’état,
+      a bloody and brutal one. None of these guarantors did anything to bring the situation
+      back into the legal framework. This is where the conflict began, because immediately
+      after that, events began to unfold in Crimea, and the Kiev regime launched military
+      operations using armored vehicles and aircraft against the civilian population
+      of those regions of Ukraine that did not agree with the coup d’état. They then
+      undermined all our attempts to resolve the issue peacefully and publicly refused
+      to implement the Minsk agreements. So who is to blame for the tragedy that is
+      happening? Those who have brought us to this situation by completely ignoring
+      Russia’s security interests. If someone believes that it is acceptable to treat
+      the people of our country with such disregard, they should know that we will never
+      allow such a situation where Russia remains passive and does not respond to the
+      events unfolding around it. Putin is quite clear that he holds the West totally
+      responsible for creating the predicates that led to the Special Military Operation
+      ( SMO ) in February 2022. His warning to the West is clear: If you treat Russia
+      with disregard, Russia will respond appropriately . President Putin’s response
+      to a question about the when the SMO will end revealed that Mr. Putin remains
+      hopeful that a deal to end the war can be struck, but he also is ready to end
+      it militarily. O. Skabeeva: Good evening! Olga Skabeeva, Russia TV channel. .
+      . . And another important question about the special operation: Vladimir Vladimirovich,
+      is there a chance that it will end in the near future? How do you feel about it,
+      do you feel that we are moving towards the end? V.Putin: I will probably start
+      with the second part, as it is the key part. Back in 2022, we suggested that the
+      Ukrainian authorities respect the choice of the people living in the southeast
+      of Ukraine, withdraw their troops, and end the conflict immediately. I must say
+      that this suggestion was not completely rejected. But after we withdrew our troops
+      from Kiev at the insistence of our Western European colleagues, the situation
+      changed, and we were told, almost verbatim, that we would continue to fight until
+      either you turned your head or we turned ours. I don’t remember if I said this
+      publicly, but it was something like that, albeit in more blunt terms, but it was
+      quite open and, oddly enough, friendly: it was either us or you. This is still
+      ongoing. Nevertheless, it seems to me that if common sense prevails, it will be
+      possible to agree on an acceptable way to end this conflict. This is my assumption.
+      Moreover, we can see the mood of the current US administration under President
+      Trump, and it’s not just about their calls, but their genuine desire to find a
+      solution. I believe there is a glimmer of hope at the end of the tunnel. Let’s
+      see how the situation unfolds. If not, we will have to address our challenges
+      through military means. Lastly, I encourage you to read Putin’s answers to two
+      questions he received regarding security guarantees and achieving a negotiated
+      outcome. He is not just doing some fancy lawyer tap dancing as he analyzes the
+      Ukrainian constitution… Putin explains very clearly why negotiating with Zelensky
+      is a dead end. P. Zarubin: Good evening! Pavel Zarubin, Russia TV channel. You
+      often talk about the root causes of the Ukrainian crisis, and yesterday, by the
+      way, you also talked about the reasons for Ukraine’s accession to NATO. However,
+      we are now witnessing European leaders who claim to provide security guarantees
+      for Ukraine but are primarily focused on deploying their troops in Ukraine. Additionally,
+      many continue to advocate for Ukraine’s accession to the European Union. But we
+      also see that the European Union is rapidly transforming from an economic union
+      into a military-political bloc, with almost constant aggressive decisions and
+      statements. How can you comment on all these scenarios? V.Putin: I agree with
+      those who believe that every country has the right to choose its own security
+      system. This applies to all countries, including Ukraine. However, it also means
+      that the security of one party cannot be ensured at the expense of the security
+      of another party, in this case, the Russian Federation. We have always opposed
+      Ukraine’s membership in the North Atlantic Treaty Organization, but we have never
+      questioned its right to conduct its economic and business activities as it sees
+      fit, including its membership in the European Union. A. Yunashev: Can we continue
+      about Ukraine? V. Putin: You can. A. Yunashev: Alexander Yunashev, Life. When
+      Russia and the United States are discussing their efforts to achieve a peaceful
+      resolution in Ukraine, the formula of “security guarantees in exchange for territory”
+      is becoming increasingly popular. Does this align with what you discussed with
+      Trump in Alaska? And what do you mean when you say that Russia is ready to join
+      in developing these guarantees? Who should be the guarantor, in your opinion?
+      And, if you don’t mind, about Zelensky: is there any point in meeting with him
+      now, in the current circumstances? Is it possible to reach any agreements at this
+      meeting? Thank you. V. Putin: The first part, once again. A. Yunashev: The US
+      efforts – there are some speculations now that there is a formula of “security
+      guarantees in exchange for territories”. V. Putin: No, we have never raised this
+      issue or discussed it in this way. Security guarantees are natural, and I often
+      talk about them. We believe that every country should have these guarantees and
+      a security system, including Ukraine. However, this is not related to any exchanges,
+      let alone territorial exchanges. To be honest, I want to emphasize that we are
+      not fighting for territories so much as we are fighting for human rights and for
+      the right of the people who live in these territories to speak their own language,
+      to live within their own culture, and to follow the traditions that have been
+      passed down from previous generations, from their fathers, grandfathers, and so
+      on. This is the main focus of our efforts. And if these people, in the course
+      of electoral democratic procedures, including referendums, expressed their support
+      for being part of the Russian Federation, this opinion should be respected. This
+      is democracy – I want to remind those who forget about it. And, among other things,
+      this is fully in line with international law: I would like to recall the first
+      articles of the Charter [of the Organization] The United Nations, which explicitly
+      states the right of nations to self-determination. But we don’t link one to the
+      other – territories and security guarantees. Of course, we can say that these
+      are related topics, but we don’t directly link them. This was not a topic discussed
+      during the Anchorage discussion. As for possible meetings with Mr. Zelensky, I
+      have already spoken about this. In general, I have never ruled out the possibility
+      of such a meeting. Is there any point in these meetings? Let’s see. According
+      to the Constitution of Ukraine – some people may agree with it, some may not,
+      you just need to read the text carefully – there are no provisions in the Constitution
+      of Ukraine for extending the term of office of the President of Ukraine. If you
+      are elected for a five-year term, and five years have passed, your term of office
+      has ended. There is a provision according to which elections are not held during
+      martial law. Yes, this is true. However, this does not mean that the president’s
+      powers are extended. Instead, it means that his powers expire, and his rights
+      are transferred to the Speaker of the Rada, including his authority as the Supreme
+      Commander-in-Chief. What should the current authorities do if they want to be
+      legitimate and fully participate in the settlement process? First of all, they
+      should hold a referendum: according to the Ukrainian Constitution, territorial
+      issues can only be resolved through a referendum, as far as I remember. However,
+      a referendum cannot be held during a state of war, which is also a provision of
+      the Constitution. Therefore, in order to hold a referendum, the state of war must
+      be lifted. Once this is done, elections must be held. This process will continue
+      indefinitely. The result of the election is unclear, but whatever the result,
+      it is necessary to obtain a corresponding opinion from the Constitutional Court,
+      as stated in the main law. However, how can one obtain a Constitutional Court
+      opinion when, after the authorities demanded that the Constitutional Court of
+      Ukraine confirm the extension of the president’s powers, and the court effectively
+      refused to do so, what happened in Ukraine? It may sound ridiculous, but the security
+      guards refused to allow the chairman of the Constitutional Court to enter his
+      office. That’s it, the movie’s over. But not quite, because as far as I know,
+      I don’t know where he is right now, but at one point, he went abroad. However,
+      in recent years, the powers of some members of the Constitutional Court have expired. As
+      a result, the court lacks the necessary quorum to make decisions. Therefore, it
+      is a dead-end path to simply hold meetings with the current head of administration,
+      let’s say, in a delicate manner. It is possible – I have never refused to do this
+      – if this meeting is well-prepared and leads to some positive possible results. By
+      the way, Donald asked me if it was possible to hold such a meeting. I said yes,
+      it is possible. After all, if Zelensky is ready, he can come to Moscow and the
+      meeting will take place. This is the key paragraph from his remarks: according
+      to the Ukrainian Constitution, territorial issues can only be resolved through
+      a referendum, as far as I remember. However, a referendum cannot be held during
+      a state of war, which is also a provision of the Constitution. Therefore, in order
+      to hold a referendum, the state of war must be lifted. Once this is done, elections
+      must be held. This process will continue indefinitely. I hope President Trump
+      and his envoy, Mr. Witkoff, are paying attention to Mr. Putin’s carefully chosen
+      words. I did two podcasts today: The first was with the boys at The Duran , and
+      the second was with Garland Nixon. Enjoy: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: During a press conference in China, Vladimir Putin addressed
+      U.S. relations and responded to Donald Trump's comments about him and Kim Jong-un,
+      highlighting their cordial relationship and acknowledging Trump's sense of humor.
+    paragraph_summary: In a recent press conference in China, Vladimir Putin addressed
+      Russia's stance on Ukraine and its negotiations with the United States, responding
+      specifically to Donald Trump's comments suggesting a conspiracy between Putin
+      and Kim Jong-un against the U.S. Putin characterized Trump's remarks as humorous
+      and emphasized his positive relationship with the former U.S. president, noting
+      that during recent negotiations, no negative opinions about the current U.S. administration
+      were expressed. He highlighted that all his interlocutors supported the discussions
+      held in Anchorage and expressed hope that these negotiations would help end the
+      armed conflict, asserting the sincerity of his statements as a means to maintain
+      credibility with his allies and partners.
+    published: '2025-09-05T02:28:40+00:00'
+  - title: Did Donald Trump Authorize Murder?… and Why is He Disrespecting China’s Role
+      in Defeating Japan?
+    url: https://sonar21.com/donald-trump-authorizes-murder-and-pouts-about-china-russia-and-north-korea/
+    text: 'I am going to cover two different issues here today, but both pertain to
+      Donald Trump. I am not a Trump Derangement Syndrome (TDS) person. I do not reflexively
+      dislike President Trump, but I find myself more disturbed about his foreign policy
+      and his military actions, which counter his professed claim to be seeking peace.
+      Let’s start with the attack on an alleged Venezuelan boat on Monday by the US
+      Navy… It was a criminal act by US forces in my view. First, here is what the White
+      House, the US State Department and the Department of Defense said about the US
+      attack: White House President Donald Trump announced at a press briefing that
+      US Navy forces “shot down a boat, a drug-laden vessel, with a substantial amount
+      of drugs aboard,” stating that 11 alleged cartel members were killed in the operation.
+      He described the strike as a warning to narco-terrorist organizations and claimed
+      it was conducted in international waters against a vessel headed for the United
+      States. Trump posted a video of the operation and emphasized US resolve to combat
+      drug trafficking linked to Venezuelan gangs. US State Department Secretary of
+      State Marco Rubio confirmed via social media that the US military conducted a
+      “lethal strike” against a ship operated by a “designated narco-terrorist organization.”
+      The Department reiterated the US position that President Nicolás Maduro heads
+      a drug cartel and called the action necessary in the ongoing fight against drug
+      trafficking. The State Department also stated there were no US casualties during
+      the operation. Department of Defense Defense Secretary Pete Hegseth stated on
+      national media that further military action against cartels is likely, saying
+      that the US will “continue to hit drug cartels” and that any traffickers operating
+      as designated narco-terrorists would “face the same fate.” The Pentagon confirmed
+      no American personnel were harmed and described the operation as “deadly serious,”
+      marking the start of a broader military campaign to combat drug smuggling and
+      organized crime in the region. Killing people merely because you believe they
+      are doing something illegal will get you charged with murder. Just because it
+      is the USG making the claim that the boat carried drugs, which was manned by alleged
+      members of Tren de Aragua , is an illegal use of force. The proper way to do this
+      is to intercept the boat, board it, take the passengers/crew into custody and
+      confiscate the drugs. It would be a completely different matter — and justifiable
+      — if the people on that boat were shooting at US personnel. The video that was
+      published by the USG does not show any firearms activity by the persons on that
+      boat. If evidence is produced that shows the people on this boat firing at US
+      personnel or ships, then I withdraw my accusation of murder. However, if such
+      evidence exists, do you think that the Trump administration would keep that quiet
+      and hidden away? I fully agree with the principle of stopping the flow of illegal
+      drugs into the US. I personally know the cost… my 39-year-old nephew died from
+      a fentanyl overdose. But I also know — based on 27 years of doing money laundering
+      cases — that the best way to hurt the cartels and curtail their actions is to
+      go after their money. The USG talks big, i.e. follow the money , but has not focused
+      the full capabilities of the USG to do so. Why? Because too many US-based banks
+      and corporations are complicit in profiting from this money. CHINA CELEBRATES
+      THE 80TH ANNIVERSARY OF THE DEFEAT OF JAPAN Donald Trump posted this “Truth” (i.e.,
+      that is what Trump calls his posts on Truth Social ): The big question to be answered
+      is whether or not President Xi of China will mention the massive amount of support
+      and “blood” that The United States of America gave to China in order to help it
+      to secure its FREEDOM from a very unfriendly foreign invader. Many Americans died
+      in China’s quest for Victory and Glory. I hope that they are rightfully Honored
+      and Remembered for their Bravery and Sacrifice! May President Xi and the wonderful
+      people of China have a great and lasting day of celebration. Please give my warmest
+      regards to Vladimir Putin, and Kim Jong Un, as you conspire against The United
+      States of America. PRESIDENT DONALD J. TRUMP I think Trump spent too much time
+      watching Hollywood films about the War in the Pacific. Trump and I, like most
+      Americans, have been fed a steady diet of the great victory the US obtained with
+      the defeat of Japan in World War II. Rarely is there a fair presentation of what
+      the Chinese experienced. So let me hit you with some facts. Japan began attacking
+      China well before the United States entered the war in the Pacific. The earliest
+      significant Japanese aggression came with the invasion of Manchuria, which began
+      on September 18, 1931 as a result of the Mukden Incident. This led to the establishment
+      of the puppet state of Manchukuo in northeastern China. However, full-scale war
+      between Japan and China erupted with the Marco Polo Bridge Incident near Beijing
+      on July 7, 1937. This incident triggered the outbreak of the Second Sino-Japanese
+      War, which saw Japan launch a widespread invasion of Chinese territory. By the
+      end of July 1937, the Japanese had occupied major cities like Beijing and Tianjin,
+      and by December 1937, Nanjing had fallen, resulting in the infamous Nanjing Massacre.
+      While the Japanese were busy killing Chinese civilians and soldiers, the US did
+      nothing. The United States initially avoided taking sides during the early Japanese
+      attacks on China, prioritizing economic interests and trade with both nations.
+      In the years following Japan’s invasion of Manchuria in 1931 and later during
+      the large-scale attacks beginning in 1937, the US government did not provide direct
+      aid to China nor take significant actions to protest Japanese aggression. So who
+      did most of the fighting and dying during the War in the Pacific… the US or China?
+      On average, over the course of the Second World War, about 70% of the Japanese
+      army was deployed in China. This figure fluctuated over time: the proportion occasionally
+      peaked above 90%, with the lowest point around 35%, but typically remained above
+      70% for most of the conflict. As of December 1941, 35 out of Japan’s 51 army divisions—about
+      69% of its total ground forces—were stationed in China, and the majority of these
+      forces remained there until Japan’s surrender in 1945. During World War II, the
+      number of Chinese soldiers and civilians killed by Japanese forces is estimated
+      as follows: • Chinese military deaths: Approximately 3 to 4 million Chinese soldiers
+      were killed during battles, executions, and related combat operations by the Japanese
+      military. For example, around 50,000 Chinese soldiers died defending Nanjing in
+      1937, with 30,000 more executed after its capture. • Chinese civilian deaths:
+      Civilian casualties are estimated at 15 to 20 million. This includes deaths from
+      massacres like the Nanjing Massacre, which alone caused between 100,000 and 300,000
+      civilian deaths, widespread rape, and atrocities. Many others died due to famine,
+      forced labor, and other Japanese war crimes. In total, over 20 million Chinese—both
+      military and civilian—are estimated to have died as a result of the Japanese invasion
+      and occupation during the Second Sino-Japanese War and the broader World War II
+      conflict. The US, by comparison, during World War II, in the Pacific theater,
+      lost approximately 111,606 U.S. military personnel who were killed in action or
+      went missing. This includes: • About 41,592 US Army soldiers • About 23,160 US
+      Marines and sailors Additionally, the US Navy lost 31,157 killed in action in
+      the Pacific theater. Trump simply does not know what he is talking about when
+      he baldly states that the US expended a massive amount of blood in defeating Japan.
+      Yes, we suffered significant casualties, but our losses pale in comparison to
+      what China lost. Our combat fatalities were 0.04% of those sustained by China.
+      Moreover, the fact that China spent eight years fighting 70% of the Japanese military
+      means that because of their effort, fewer Americans died. In light of these facts,
+      Trump’s TRUTH to Xi is just a big lie. Danny Davis and I had an interesting chat
+      about these issues: I thank you for your invaluable support by taking time to
+      read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses concerns regarding Donald Trump's foreign
+      policy and military actions, particularly criticizing a recent US Navy attack
+      on a Venezuelan boat, which the author views as a criminal act despite Trump's
+      claims of it being a necessary operation against drug trafficking.
+    paragraph_summary: The article discusses concerns regarding Donald Trump's foreign
+      policy, particularly his military actions that seem contradictory to his claims
+      of seeking peace. It focuses on a recent incident where the US Navy attacked an
+      alleged Venezuelan drug-laden vessel, which Trump characterized as a necessary
+      strike against narco-terrorism. The White House, State Department, and Department
+      of Defense supported the operation, emphasizing its role in combating drug trafficking
+      linked to Venezuelan gangs and asserting that it was conducted in international
+      waters with no US casualties. The Defense Secretary indicated that this operation
+      marks the beginning of a broader military campaign against drug cartels, raising
+      questions about the implications of such actions on Trump's professed peace agenda.
+    published: '2025-09-04T01:33:16+00:00'
+  - title: Did Donald Trump Authorize Murder?… and Why is He Disrespecting China’s Role
+      in Defeating Japan?
+    url: https://sonar21.com/donald-trump-authorizes-murder-and-pouts-about-china-russia-and-north-korea/
+    text: 'I am going to cover two different issues here today, but both pertain to
+      Donald Trump. I am not a Trump Derangement Syndrome (TDS) person. I do not reflexively
+      dislike President Trump, but I find myself more disturbed about his foreign policy
+      and his military actions, which counter his professed claim to be seeking peace.
+      Let’s start with the attack on an alleged Venezuelan boat on Monday by the US
+      Navy… It was a criminal act by US forces in my view. First, here is what the White
+      House, the US State Department and the Department of Defense said about the US
+      attack: White House President Donald Trump announced at a press briefing that
+      US Navy forces “shot down a boat, a drug-laden vessel, with a substantial amount
+      of drugs aboard,” stating that 11 alleged cartel members were killed in the operation.
+      He described the strike as a warning to narco-terrorist organizations and claimed
+      it was conducted in international waters against a vessel headed for the United
+      States. Trump posted a video of the operation and emphasized US resolve to combat
+      drug trafficking linked to Venezuelan gangs. US State Department Secretary of
+      State Marco Rubio confirmed via social media that the US military conducted a
+      “lethal strike” against a ship operated by a “designated narco-terrorist organization.”
+      The Department reiterated the US position that President Nicolás Maduro heads
+      a drug cartel and called the action necessary in the ongoing fight against drug
+      trafficking. The State Department also stated there were no US casualties during
+      the operation. Department of Defense Defense Secretary Pete Hegseth stated on
+      national media that further military action against cartels is likely, saying
+      that the US will “continue to hit drug cartels” and that any traffickers operating
+      as designated narco-terrorists would “face the same fate.” The Pentagon confirmed
+      no American personnel were harmed and described the operation as “deadly serious,”
+      marking the start of a broader military campaign to combat drug smuggling and
+      organized crime in the region. Killing people merely because you believe they
+      are doing something illegal will get you charged with murder. Just because it
+      is the USG making the claim that the boat carried drugs, which was manned by alleged
+      members of Tren de Aragua , is an illegal use of force. The proper way to do this
+      is to intercept the boat, board it, take the passengers/crew into custody and
+      confiscate the drugs. It would be a completely different matter — and justifiable
+      — if the people on that boat were shooting at US personnel. The video that was
+      published by the USG does not show any firearms activity by the persons on that
+      boat. If evidence is produced that shows the people on this boat firing at US
+      personnel or ships, then I withdraw my accusation of murder. However, if such
+      evidence exists, do you think that the Trump administration would keep that quiet
+      and hidden away? I fully agree with the principle of stopping the flow of illegal
+      drugs into the US. I personally know the cost… my 39-year-old nephew died from
+      a fentanyl overdose. But I also know — based on 27 years of doing money laundering
+      cases — that the best way to hurt the cartels and curtail their actions is to
+      go after their money. The USG talks big, i.e. follow the money , but has not focused
+      the full capabilities of the USG to do so. Why? Because too many US-based banks
+      and corporations are complicit in profiting from this money. CHINA CELEBRATES
+      THE 80TH ANNIVERSARY OF THE DEFEAT OF JAPAN Donald Trump posted this “Truth” (i.e.,
+      that is what Trump calls his posts on Truth Social ): The big question to be answered
+      is whether or not President Xi of China will mention the massive amount of support
+      and “blood” that The United States of America gave to China in order to help it
+      to secure its FREEDOM from a very unfriendly foreign invader. Many Americans died
+      in China’s quest for Victory and Glory. I hope that they are rightfully Honored
+      and Remembered for their Bravery and Sacrifice! May President Xi and the wonderful
+      people of China have a great and lasting day of celebration. Please give my warmest
+      regards to Vladimir Putin, and Kim Jong Un, as you conspire against The United
+      States of America. PRESIDENT DONALD J. TRUMP I think Trump spent too much time
+      watching Hollywood films about the War in the Pacific. Trump and I, like most
+      Americans, have been fed a steady diet of the great victory the US obtained with
+      the defeat of Japan in World War II. Rarely is there a fair presentation of what
+      the Chinese experienced. So let me hit you with some facts. Japan began attacking
+      China well before the United States entered the war in the Pacific. The earliest
+      significant Japanese aggression came with the invasion of Manchuria, which began
+      on September 18, 1931 as a result of the Mukden Incident. This led to the establishment
+      of the puppet state of Manchukuo in northeastern China. However, full-scale war
+      between Japan and China erupted with the Marco Polo Bridge Incident near Beijing
+      on July 7, 1937. This incident triggered the outbreak of the Second Sino-Japanese
+      War, which saw Japan launch a widespread invasion of Chinese territory. By the
+      end of July 1937, the Japanese had occupied major cities like Beijing and Tianjin,
+      and by December 1937, Nanjing had fallen, resulting in the infamous Nanjing Massacre.
+      While the Japanese were busy killing Chinese civilians and soldiers, the US did
+      nothing. The United States initially avoided taking sides during the early Japanese
+      attacks on China, prioritizing economic interests and trade with both nations.
+      In the years following Japan’s invasion of Manchuria in 1931 and later during
+      the large-scale attacks beginning in 1937, the US government did not provide direct
+      aid to China nor take significant actions to protest Japanese aggression. So who
+      did most of the fighting and dying during the War in the Pacific… the US or China?
+      On average, over the course of the Second World War, about 70% of the Japanese
+      army was deployed in China. This figure fluctuated over time: the proportion occasionally
+      peaked above 90%, with the lowest point around 35%, but typically remained above
+      70% for most of the conflict. As of December 1941, 35 out of Japan’s 51 army divisions—about
+      69% of its total ground forces—were stationed in China, and the majority of these
+      forces remained there until Japan’s surrender in 1945. During World War II, the
+      number of Chinese soldiers and civilians killed by Japanese forces is estimated
+      as follows: • Chinese military deaths: Approximately 3 to 4 million Chinese soldiers
+      were killed during battles, executions, and related combat operations by the Japanese
+      military. For example, around 50,000 Chinese soldiers died defending Nanjing in
+      1937, with 30,000 more executed after its capture. • Chinese civilian deaths:
+      Civilian casualties are estimated at 15 to 20 million. This includes deaths from
+      massacres like the Nanjing Massacre, which alone caused between 100,000 and 300,000
+      civilian deaths, widespread rape, and atrocities. Many others died due to famine,
+      forced labor, and other Japanese war crimes. In total, over 20 million Chinese—both
+      military and civilian—are estimated to have died as a result of the Japanese invasion
+      and occupation during the Second Sino-Japanese War and the broader World War II
+      conflict. The US, by comparison, during World War II, in the Pacific theater,
+      lost approximately 111,606 U.S. military personnel who were killed in action or
+      went missing. This includes: • About 41,592 US Army soldiers • About 23,160 US
+      Marines and sailors Additionally, the US Navy lost 31,157 killed in action in
+      the Pacific theater. Trump simply does not know what he is talking about when
+      he baldly states that the US expended a massive amount of blood in defeating Japan.
+      Yes, we suffered significant casualties, but our losses pale in comparison to
+      what China lost. Our combat fatalities were 0.04% of those sustained by China.
+      Moreover, the fact that China spent eight years fighting 70% of the Japanese military
+      means that because of their effort, fewer Americans died. In light of these facts,
+      Trump’s TRUTH to Xi is just a big lie. Danny Davis and I had an interesting chat
+      about these issues: I thank you for your invaluable support by taking time to
+      read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses concerns regarding Donald Trump's foreign
+      policy and military actions, particularly criticizing a recent US Navy attack
+      on a Venezuelan boat, which the author views as a criminal act despite Trump's
+      claims of it being a necessary operation against drug trafficking.
+    paragraph_summary: The article discusses concerns regarding Donald Trump's foreign
+      policy, particularly his military actions that seem contradictory to his claims
+      of seeking peace. It focuses on a recent incident where the US Navy attacked an
+      alleged Venezuelan drug-laden vessel, which Trump characterized as a necessary
+      strike against narco-terrorism. The White House, State Department, and Department
+      of Defense supported the operation, emphasizing its role in combating drug trafficking
+      linked to Venezuelan gangs and asserting that it was conducted in international
+      waters with no US casualties. The Defense Secretary indicated that this operation
+      marks the beginning of a broader military campaign against drug cartels, raising
+      questions about the implications of such actions on Trump's professed peace agenda.
+    published: '2025-09-04T01:33:16+00:00'
   - title: Why Donald Trump’s Tariff War is Not Working
     url: https://sonar21.com/why-donald-trumps-tariff-war-is-not-working/
     text: 'When the history of the Donald Trump presidency is written, his ill-advised
