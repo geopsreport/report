@@ -7,16 +7,616 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  The ongoing crisis in Gaza and the broader implications of U.S. foreign policy continue to dominate the geopolitical landscape as of September 10, 2025. The situation remains tense, with new developments highlighting both the persistence of violence in Gaza and growing dissent among Western military and political actors.
+  Tensions around Israel’s actions in Gaza and their global repercussions continue to dominate the geopolitical landscape. The latest independent UN probe has found that Israeli authorities and security forces have committed four out of five acts defined as genocide under the 1948 Genocide Convention. This marks a significant escalation in international scrutiny and could have far-reaching legal and diplomatic consequences. As **Ray McGovern** notes, “the weight of evidence and the language of the report leave little doubt about the severity of the allegations.”
   
-  The most recent reports focus on the intensifying blockade of Gaza and the international response. Former RAF fighter pilot **Malcolm Ducker** has joined the largest aid flotilla to date heading for Gaza, publicly urging the UK’s Royal Air Force to halt intelligence sharing with Israel. This signals a notable shift, as Western military figures begin to openly challenge their governments’ support for Israeli operations. According to **Ray McGovern**, Ducker’s involvement “underscores the growing unease within Western military ranks about complicity in the ongoing siege.”
+  Meanwhile, internal divisions within the U.S. right-wing movement have come under the spotlight following the assassination of Charlie Kirk. **Max Blumenthal** highlights how Kirk’s shifting position on Israel, coupled with infighting within the Trump administration before his death, has intensified political polarization. The fallout is expected to further fragment the conservative base and complicate U.S. policy on Israel.
   
-  Meanwhile, analysis from **Caitlin Johnstone** argues that even a hypothetical surrender by Hamas would not end what she and others describe as a campaign of erasure against Palestinians. The prevailing view among independent analysts is that the violence is structural and unlikely to cease with a change in Palestinian leadership. There is a “high chance,” as McGovern summarizes, that the humanitarian crisis will deepen regardless of battlefield developments.
+  In Europe, Germany’s crackdown on pro-Palestinian speech has drawn criticism for its unintended consequences. **Antony Lowenstein** argues that such repression not only stifles legitimate debate but also emboldens far-right groups, undermining democratic norms. This trend is likely to fuel further social tensions within Germany and across the EU.
   
-  In the U.S., **Patrick Lawrence** highlights the entrenched narcissism among American elites, which he argues blinds policymakers to the consequences of their actions abroad. This critique is gaining traction as Western publics and some officials question the long-term strategy and morality of current foreign interventions.
-  
-  Looking ahead, the trends point to increasing international pressure on Israel and its Western backers, particularly as more Western figures break ranks. However, absent a major policy reversal in Washington, the consensus among analysts is that the situation in Gaza will most definitely deteriorate further in the short term. The likelihood of meaningful change remains low, with McGovern stating, “I guarantee the violence will persist unless there is a fundamental shift in U.S. policy.”
+  Looking ahead, the convergence of these developments points to a period of heightened instability. There is a high chance that international legal pressure on Israel will increase, while domestic polarization in the U.S. and Europe will deepen. I guarantee that unless there is a significant policy shift, these trends will most definitely continue to shape the geopolitical environment in the coming months.
 articles:
+  - title: 'Hedges Report: Israel, Kirk, & the Coming Repression'
+    url: https://consortiumnews.com/2025/09/16/hedges-report-israel-kirk-the-coming-repression/
+    text: Max Blumenthal provides important context on Charlie Kirk’s changing relationship
+      with Israel and tension within the Trump administration in the lead up to his
+      assassination, and discusses the political impact of his death. By Chris Hedges
+      The Chris Hedges Report This… Read more →
+    one_sentence_summary: Max Blumenthal analyzes Charlie Kirk's evolving stance on
+      Israel and the internal conflicts within the Trump administration prior to his
+      assassination, while also examining the political ramifications of his death.
+    paragraph_summary: In the article, Max Blumenthal examines the evolving dynamics
+      of Charlie Kirk's relationship with Israel and the internal conflicts within the
+      Trump administration prior to his assassination. Chris Hedges highlights the political
+      ramifications of Kirk's death, suggesting it may have significant implications
+      for U.S.-Israel relations and the broader political landscape. The piece delves
+      into the complexities of these relationships and the potential shifts in political
+      alliances following Kirk's assassination.
+    published: '2025-09-16T18:00:40+00:00'
+  - title: 'Hedges Report: Israel, Kirk, & the Coming Repression'
+    url: https://consortiumnews.com/2025/09/16/hedges-report-israel-kirk-the-coming-repression/
+    text: Max Blumenthal provides important context on Charlie Kirk’s changing relationship
+      with Israel and tension within the Trump administration in the lead up to his
+      assassination, and discusses the political impact of his death. By Chris Hedges
+      The Chris Hedges Report This… Read more →
+    one_sentence_summary: Max Blumenthal analyzes Charlie Kirk's evolving stance on
+      Israel and the internal conflicts within the Trump administration prior to his
+      assassination, while also examining the political ramifications of his death.
+    paragraph_summary: In the article, Max Blumenthal examines the evolving dynamics
+      of Charlie Kirk's relationship with Israel and the internal conflicts within the
+      Trump administration prior to his assassination. Chris Hedges highlights the political
+      ramifications of Kirk's death, suggesting it may have significant implications
+      for U.S.-Israel relations and the broader political landscape. The piece delves
+      into the complexities of these relationships and the potential shifts in political
+      alliances following Kirk's assassination.
+    published: '2025-09-16T18:00:40+00:00'
+  - title: Independent Probe for UN Says Israel Commits Genocide
+    url: https://consortiumnews.com/2025/09/16/independent-probe-for-un-says-israel-commits-genocide/
+    text: Israeli authorities and security forces “committed four of the five genocidal
+      acts defined by the 1948 Convention on the Prevention and Punishment of the Crime
+      of Genocide,” says a new U.N. report.  By UN News In a new report published… Read
+      more →
+    one_sentence_summary: A new U.N. report claims that Israeli authorities and security
+      forces have committed four out of five genocidal acts as defined by the 1948 Genocide
+      Convention.
+    paragraph_summary: A recent U.N. report asserts that Israeli authorities and security
+      forces have committed four out of the five genocidal acts as outlined in the 1948
+      Convention on the Prevention and Punishment of the Crime of Genocide. The report
+      highlights serious concerns regarding actions taken by Israel, suggesting that
+      these actions may constitute genocide against the Palestinian population. The
+      findings have sparked significant international attention and debate regarding
+      the ongoing conflict and the treatment of Palestinians.
+    published: '2025-09-16T16:44:47+00:00'
+  - title: Independent Probe for UN Says Israel Commits Genocide
+    url: https://consortiumnews.com/2025/09/16/independent-probe-for-un-says-israel-commits-genocide/
+    text: Israeli authorities and security forces “committed four of the five genocidal
+      acts defined by the 1948 Convention on the Prevention and Punishment of the Crime
+      of Genocide,” says a new U.N. report.  By UN News In a new report published… Read
+      more →
+    one_sentence_summary: A new U.N. report claims that Israeli authorities and security
+      forces have committed four out of five genocidal acts as defined by the 1948 Genocide
+      Convention.
+    paragraph_summary: A recent U.N. report asserts that Israeli authorities and security
+      forces have committed four out of the five genocidal acts as outlined in the 1948
+      Convention on the Prevention and Punishment of the Crime of Genocide. The report
+      highlights serious concerns regarding actions taken by Israel, suggesting that
+      these actions may constitute genocide against the Palestinian population. The
+      findings have sparked significant international attention and debate regarding
+      the ongoing conflict and the treatment of Palestinians.
+    published: '2025-09-16T16:44:47+00:00'
+  - title: 'WATCH: Germany’s Israel Obsession'
+    url: https://consortiumnews.com/2025/09/16/watch-germanys-israel-obsession/
+    text: Germany has become one of the world’s most repressive states in cracking down
+      on legitimate speech in support of Palestine, empowering the far-right in the
+      process, says Antony Lowenstein in his latest documentary. By Antony Loewenstein
+      Substack Since Oct. 7,… Read more →
+    one_sentence_summary: Antony Lowenstein's latest documentary argues that Germany's
+      severe repression of pro-Palestinian speech has not only stifled legitimate discourse
+      but also inadvertently strengthened far-right movements.
+    paragraph_summary: In his latest documentary, Antony Loewenstein argues that Germany
+      has increasingly suppressed legitimate speech supporting Palestine, which he claims
+      has inadvertently strengthened far-right movements within the country. He highlights
+      the government's repressive measures taken since October 7, suggesting that these
+      actions not only stifle free expression but also contribute to a growing polarization
+      in society.
+    published: '2025-09-16T06:47:12+00:00'
+  - title: 'WATCH: Germany’s Israel Obsession'
+    url: https://consortiumnews.com/2025/09/16/watch-germanys-israel-obsession/
+    text: Germany has become one of the world’s most repressive states in cracking down
+      on legitimate speech in support of Palestine, empowering the far-right in the
+      process, says Antony Lowenstein in his latest documentary. By Antony Loewenstein
+      Substack Since Oct. 7,… Read more →
+    one_sentence_summary: Antony Lowenstein's latest documentary argues that Germany's
+      severe repression of pro-Palestinian speech has not only stifled legitimate discourse
+      but also inadvertently strengthened far-right movements.
+    paragraph_summary: In his latest documentary, Antony Loewenstein argues that Germany
+      has increasingly suppressed legitimate speech supporting Palestine, which he claims
+      has inadvertently strengthened far-right movements within the country. He highlights
+      the government's repressive measures taken since October 7, suggesting that these
+      actions not only stifle free expression but also contribute to a growing polarization
+      in society.
+    published: '2025-09-16T06:47:12+00:00'
+  - title: Can the UN GA End Israel’s Occupation?
+    url: https://consortiumnews.com/2025/09/16/can-the-un-ga-end-israels-occupation/
+    text: The General Assembly is not powerless in the face of genocide. It can recommend
+      one or more of six concrete measures based on the GA’s own precedents, writes
+      Mona Ali Khalil.  By Mona Ali Khalil PassBlue With illegal settlements rising
+      and settler… Read more →
+    one_sentence_summary: Mona Ali Khalil argues that the General Assembly has the authority
+      to take concrete actions against genocide, drawing on its own precedents, despite
+      challenges such as rising illegal settlements.
+    paragraph_summary: In her article, Mona Ali Khalil argues that the United Nations
+      General Assembly (GA) holds significant power to address genocide despite common
+      perceptions of its limitations. She emphasizes that the GA can take decisive action
+      by recommending specific measures, drawing on its own historical precedents. Khalil
+      highlights the urgency of the situation, particularly in light of increasing illegal
+      settlements and settler violence, suggesting that the GA's proactive engagement
+      is essential in combating such atrocities.
+    published: '2025-09-16T06:10:49+00:00'
+  - title: Can the UN GA End Israel’s Occupation?
+    url: https://consortiumnews.com/2025/09/16/can-the-un-ga-end-israels-occupation/
+    text: The General Assembly is not powerless in the face of genocide. It can recommend
+      one or more of six concrete measures based on the GA’s own precedents, writes
+      Mona Ali Khalil.  By Mona Ali Khalil PassBlue With illegal settlements rising
+      and settler… Read more →
+    one_sentence_summary: Mona Ali Khalil argues that the General Assembly has the authority
+      to take concrete actions against genocide, drawing on its own precedents, despite
+      challenges such as rising illegal settlements.
+    paragraph_summary: In her article, Mona Ali Khalil argues that the United Nations
+      General Assembly (GA) holds significant power to address genocide despite common
+      perceptions of its limitations. She emphasizes that the GA can take decisive action
+      by recommending specific measures, drawing on its own historical precedents. Khalil
+      highlights the urgency of the situation, particularly in light of increasing illegal
+      settlements and settler violence, suggesting that the GA's proactive engagement
+      is essential in combating such atrocities.
+    published: '2025-09-16T06:10:49+00:00'
+  - title: Quo Vadis Deutschland? An Obituary in Twelve Theses
+    url: https://consortiumnews.com/2025/09/15/quo-vadis-deutschland-an-obituary-in-twelve-theses/
+    text: Germany once again sits sullied among the nations with the blood of those
+      who lie in the streets in imperialist wars. Patrik Baab delivers an obituary in
+      twelve theses or the crash of a discontinued model. By Patrik Baab The… Read more
+      →
+    one_sentence_summary: Patrik Baab critiques Germany's involvement in imperialist
+      wars, presenting an obituary in twelve theses that reflect on the nation's tarnished
+      legacy and the consequences of its actions.
+    paragraph_summary: In his article, Patrik Baab reflects on Germany's troubled legacy,
+      highlighting its involvement in imperialist wars that have led to violence and
+      suffering, symbolized by the blood of victims in the streets. He presents an obituary
+      in twelve theses, critiquing Germany's historical and contemporary actions that
+      have perpetuated conflict and questioning the viability of its current political
+      model. Baab's analysis serves as a somber reminder of the consequences of imperialism
+      and the need for accountability in addressing past and present injustices.
+    published: '2025-09-15T18:15:33+00:00'
+  - title: Quo Vadis Deutschland? An Obituary in Twelve Theses
+    url: https://consortiumnews.com/2025/09/15/quo-vadis-deutschland-an-obituary-in-twelve-theses/
+    text: Germany once again sits sullied among the nations with the blood of those
+      who lie in the streets in imperialist wars. Patrik Baab delivers an obituary in
+      twelve theses or the crash of a discontinued model. By Patrik Baab The… Read more
+      →
+    one_sentence_summary: Patrik Baab critiques Germany's involvement in imperialist
+      wars, presenting an obituary in twelve theses that reflect on the nation's tarnished
+      legacy and the consequences of its actions.
+    paragraph_summary: In his article, Patrik Baab reflects on Germany's troubled legacy,
+      highlighting its involvement in imperialist wars that have led to violence and
+      suffering, symbolized by the blood of victims in the streets. He presents an obituary
+      in twelve theses, critiquing Germany's historical and contemporary actions that
+      have perpetuated conflict and questioning the viability of its current political
+      model. Baab's analysis serves as a somber reminder of the consequences of imperialism
+      and the need for accountability in addressing past and present injustices.
+    published: '2025-09-15T18:15:33+00:00'
+  - title: 'JOHN KIRIAKOU:  Out-of-Control Gov’t Targets Business ‘Whistleblowers’'
+    url: https://consortiumnews.com/2025/09/15/john-kiriakou-out-of-control-govt-targets-business-whistleblowers/
+    text: The FTC targeted businessman James Douvas for ruin in $216 million lawsuit.
+      It’s yet another case of federal officials with too much power, an unlimited budget,
+      and a need for a scalp.   By John Kiriakou Special to Consortium News… Read more
+      →
+    one_sentence_summary: The article critiques the FTC's $216 million lawsuit against
+      businessman James Douvas, arguing it exemplifies federal overreach and the pursuit
+      of high-profile targets by officials with excessive power and resources.
+    paragraph_summary: In an article by John Kiriakou for Consortium News, the author
+      discusses the Federal Trade Commission's (FTC) lawsuit against businessman James
+      Douvas, seeking $216 million in damages. Kiriakou argues that this case exemplifies
+      the overreach of federal authorities, who wield excessive power and resources
+      in their pursuit of individuals, often prioritizing high-profile targets over
+      fair legal practices. The article critiques the FTC's approach, suggesting it
+      reflects a broader issue of government agencies pursuing personal vendettas rather
+      than serving justice.
+    published: '2025-09-15T16:00:26+00:00'
+  - title: 'JOHN KIRIAKOU:  Out-of-Control Gov’t Targets Business ‘Whistleblowers’'
+    url: https://consortiumnews.com/2025/09/15/john-kiriakou-out-of-control-govt-targets-business-whistleblowers/
+    text: The FTC targeted businessman James Douvas for ruin in $216 million lawsuit.
+      It’s yet another case of federal officials with too much power, an unlimited budget,
+      and a need for a scalp.   By John Kiriakou Special to Consortium News… Read more
+      →
+    one_sentence_summary: The article critiques the FTC's $216 million lawsuit against
+      businessman James Douvas, arguing it exemplifies federal overreach and the pursuit
+      of high-profile targets by officials with excessive power and resources.
+    paragraph_summary: In an article by John Kiriakou for Consortium News, the author
+      discusses the Federal Trade Commission's (FTC) lawsuit against businessman James
+      Douvas, seeking $216 million in damages. Kiriakou argues that this case exemplifies
+      the overreach of federal authorities, who wield excessive power and resources
+      in their pursuit of individuals, often prioritizing high-profile targets over
+      fair legal practices. The article critiques the FTC's approach, suggesting it
+      reflects a broader issue of government agencies pursuing personal vendettas rather
+      than serving justice.
+    published: '2025-09-15T16:00:26+00:00'
+  - title: Trump Trashes the US Constitution
+    url: https://consortiumnews.com/2025/09/15/trump-trashes-the-us-constitution/
+    text: The president of the United States is not taking the U.S. Constitution seriously,
+      writes Judge Andrew P. Napolitano, as due process is the foundation of American
+      law.  By Andrew P. Napolitano The President of the United States did not take
+      the… Read more →
+    one_sentence_summary: Judge Andrew P. Napolitano argues that the President of the
+      United States is undermining the U.S. Constitution by failing to uphold the principle
+      of due process, which is fundamental to American law.
+    paragraph_summary: In his article, Judge Andrew P. Napolitano argues that the President
+      of the United States is failing to uphold the Constitution, particularly in relation
+      to the principle of due process, which he identifies as a cornerstone of American
+      law. Napolitano emphasizes the importance of adhering to constitutional principles
+      and expresses concern over the implications of neglecting these foundational legal
+      protections.
+    published: '2025-09-15T09:00:28+00:00'
+  - title: Trump Trashes the US Constitution
+    url: https://consortiumnews.com/2025/09/15/trump-trashes-the-us-constitution/
+    text: The president of the United States is not taking the U.S. Constitution seriously,
+      writes Judge Andrew P. Napolitano, as due process is the foundation of American
+      law.  By Andrew P. Napolitano The President of the United States did not take
+      the… Read more →
+    one_sentence_summary: Judge Andrew P. Napolitano argues that the President of the
+      United States is undermining the U.S. Constitution by failing to uphold the principle
+      of due process, which is fundamental to American law.
+    paragraph_summary: In his article, Judge Andrew P. Napolitano argues that the President
+      of the United States is failing to uphold the Constitution, particularly in relation
+      to the principle of due process, which he identifies as a cornerstone of American
+      law. Napolitano emphasizes the importance of adhering to constitutional principles
+      and expresses concern over the implications of neglecting these foundational legal
+      protections.
+    published: '2025-09-15T09:00:28+00:00'
+  - title: Charlie Kirk’s Death
+    url: https://consortiumnews.com/2025/09/12/charlie-kirks-death/
+    text: 'Discourse following the Charlie Kirk assassination has left little to be
+      hopeful about, writes Nolan Higdon.  By Nolan Higdon Substack On Wednesday, the
+      shocking news reverberated across the United States: Charlie Kirk, right-wing
+      influencer and Trump ally, had been shot… Read more →'
+    one_sentence_summary: Nolan Higdon reflects on the bleak discourse surrounding the
+      assassination of right-wing influencer Charlie Kirk, highlighting the troubling
+      implications for political dialogue in the U.S.
+    paragraph_summary: In his article, Nolan Higdon reflects on the aftermath of the
+      assassination of Charlie Kirk, a prominent right-wing influencer and ally of Donald
+      Trump, noting that the discourse surrounding the event has been largely negative
+      and disheartening. Higdon highlights the polarized reactions and the implications
+      for political dialogue in the U.S., suggesting that the incident has further entrenched
+      divisions rather than fostering constructive conversation.
+    published: '2025-09-12T22:14:53+00:00'
+  - title: Charlie Kirk’s Death
+    url: https://consortiumnews.com/2025/09/12/charlie-kirks-death/
+    text: 'Discourse following the Charlie Kirk assassination has left little to be
+      hopeful about, writes Nolan Higdon.  By Nolan Higdon Substack On Wednesday, the
+      shocking news reverberated across the United States: Charlie Kirk, right-wing
+      influencer and Trump ally, had been shot… Read more →'
+    one_sentence_summary: Nolan Higdon reflects on the bleak discourse surrounding the
+      assassination of right-wing influencer Charlie Kirk, highlighting the troubling
+      implications for political dialogue in the U.S.
+    paragraph_summary: In his article, Nolan Higdon reflects on the aftermath of the
+      assassination of Charlie Kirk, a prominent right-wing influencer and ally of Donald
+      Trump, noting that the discourse surrounding the event has been largely negative
+      and disheartening. Higdon highlights the polarized reactions and the implications
+      for political dialogue in the U.S., suggesting that the incident has further entrenched
+      divisions rather than fostering constructive conversation.
+    published: '2025-09-12T22:14:53+00:00'
+  - title: ‘Forever Wars’ Authorization Finally Repealed by US House
+    url: https://consortiumnews.com/2025/09/12/forever-wars-authorization-finally-repealed-by-us-house/
+    text: One foreign policy expert said these congressional authorizations “have become
+      like holy writ, documents frozen in time yet endlessly reinterpreted to justify
+      new military action,” reports Stephen Prager. By Stephen Prager Common Dreams
+      Almost exactly 24 years after the September… Read more →
+    one_sentence_summary: A foreign policy expert argues that congressional authorizations
+      for military action have become rigid documents that are continuously reinterpreted
+      to justify new conflicts, according to Stephen Prager.
+    paragraph_summary: In an article by Stephen Prager for Common Dreams, a foreign
+      policy expert critiques congressional authorizations for military action, describing
+      them as "holy writ" that are often rigid and outdated yet continually reinterpreted
+      to support new military interventions. This commentary comes nearly 24 years after
+      the September 11 attacks, highlighting concerns about the ongoing implications
+      of these authorizations in shaping U.S. military policy.
+    published: '2025-09-12T19:07:13+00:00'
+  - title: ‘Forever Wars’ Authorization Finally Repealed by US House
+    url: https://consortiumnews.com/2025/09/12/forever-wars-authorization-finally-repealed-by-us-house/
+    text: One foreign policy expert said these congressional authorizations “have become
+      like holy writ, documents frozen in time yet endlessly reinterpreted to justify
+      new military action,” reports Stephen Prager. By Stephen Prager Common Dreams
+      Almost exactly 24 years after the September… Read more →
+    one_sentence_summary: A foreign policy expert argues that congressional authorizations
+      for military action have become rigid documents that are continuously reinterpreted
+      to justify new conflicts, according to Stephen Prager.
+    paragraph_summary: In an article by Stephen Prager for Common Dreams, a foreign
+      policy expert critiques congressional authorizations for military action, describing
+      them as "holy writ" that are often rigid and outdated yet continually reinterpreted
+      to support new military interventions. This commentary comes nearly 24 years after
+      the September 11 attacks, highlighting concerns about the ongoing implications
+      of these authorizations in shaping U.S. military policy.
+    published: '2025-09-12T19:07:13+00:00'
+  - title: 'Jonathan Cook: Billionaires Want You to Think Israel Is in Control'
+    url: https://consortiumnews.com/2025/09/12/jonathan-cook-billionaires-want-you-to-think-israel-is-in-control/
+    text: Through Israel and the ideology of Zionism, western elites reinvented their
+      ugly, racist system of control and sold it as a ‘moral’ cause. Now the game is
+      up. By Jonathan Cook Jonathan-Cook.net Western elites don’t care what you think
+      or say,… Read more →
+    one_sentence_summary: The article argues that Western elites have repackaged their
+      oppressive systems through the lens of Zionism and Israel, presenting them as
+      a moral cause, but this facade is now being exposed.
+    paragraph_summary: In his article, Jonathan Cook argues that Western elites have
+      repackaged their oppressive and racist systems of control under the guise of supporting
+      Israel and the ideology of Zionism, presenting it as a moral cause. He suggests
+      that this manipulation is now being exposed, revealing the underlying motives
+      and disregard for public opinion that characterize these elites.
+    published: '2025-09-12T18:00:22+00:00'
+  - title: 'Jonathan Cook: Billionaires Want You to Think Israel Is in Control'
+    url: https://consortiumnews.com/2025/09/12/jonathan-cook-billionaires-want-you-to-think-israel-is-in-control/
+    text: Through Israel and the ideology of Zionism, western elites reinvented their
+      ugly, racist system of control and sold it as a ‘moral’ cause. Now the game is
+      up. By Jonathan Cook Jonathan-Cook.net Western elites don’t care what you think
+      or say,… Read more →
+    one_sentence_summary: The article argues that Western elites have repackaged their
+      oppressive systems through the lens of Zionism and Israel, presenting them as
+      a moral cause, but this facade is now being exposed.
+    paragraph_summary: In his article, Jonathan Cook argues that Western elites have
+      repackaged their oppressive and racist systems of control under the guise of supporting
+      Israel and the ideology of Zionism, presenting it as a moral cause. He suggests
+      that this manipulation is now being exposed, revealing the underlying motives
+      and disregard for public opinion that characterize these elites.
+    published: '2025-09-12T18:00:22+00:00'
+  - title: 'Vijay Prashad: Can Mexico’s Dignity Be Restored?'
+    url: https://consortiumnews.com/2025/09/12/vijay-prashad-can-mexicos-dignity-be-restored/
+    text: 'With the promise of the Mexican revolution and the sweeping reforms of cardenismo
+      long erased by decades of neoliberalism can sovereignty be restored to the country?
+      By Vijay Prashad Tricontinental: Institute for Social Research When I was in graduate
+      school, I audited a… Read more →'
+    one_sentence_summary: The article by Vijay Prashad explores the challenges of restoring
+      sovereignty to Mexico in the wake of decades of neoliberalism that have overshadowed
+      the revolutionary promises and reforms of the past.
+    paragraph_summary: 'In the article by Vijay Prashad for Tricontinental: Institute
+      for Social Research, the author reflects on the impact of neoliberalism in Mexico,
+      which has overshadowed the revolutionary ideals and reforms of the Cardenista
+      era. Prashad questions whether it is possible to restore sovereignty to Mexico
+      in light of these historical and economic challenges, suggesting that the promise
+      of the Mexican revolution has been diminished over time. The piece calls for a
+      reevaluation of the country''s path forward, emphasizing the need for a return
+      to the principles that once aimed to empower the Mexican people.'
+    published: '2025-09-12T16:00:49+00:00'
+  - title: 'Vijay Prashad: Can Mexico’s Dignity Be Restored?'
+    url: https://consortiumnews.com/2025/09/12/vijay-prashad-can-mexicos-dignity-be-restored/
+    text: 'With the promise of the Mexican revolution and the sweeping reforms of cardenismo
+      long erased by decades of neoliberalism can sovereignty be restored to the country?
+      By Vijay Prashad Tricontinental: Institute for Social Research When I was in graduate
+      school, I audited a… Read more →'
+    one_sentence_summary: The article by Vijay Prashad explores the challenges of restoring
+      sovereignty to Mexico in the wake of decades of neoliberalism that have overshadowed
+      the revolutionary promises and reforms of the past.
+    paragraph_summary: 'In the article by Vijay Prashad for Tricontinental: Institute
+      for Social Research, the author reflects on the impact of neoliberalism in Mexico,
+      which has overshadowed the revolutionary ideals and reforms of the Cardenista
+      era. Prashad questions whether it is possible to restore sovereignty to Mexico
+      in light of these historical and economic challenges, suggesting that the promise
+      of the Mexican revolution has been diminished over time. The piece calls for a
+      reevaluation of the country''s path forward, emphasizing the need for a return
+      to the principles that once aimed to empower the Mexican people.'
+    published: '2025-09-12T16:00:49+00:00'
+  - title: 'Chris Hedges: The Martyrdom of Charlie Kirk'
+    url: https://consortiumnews.com/2025/09/12/chris-hedges-the-martyrdom-of-charlie-kirk/
+    text: Martyrs are used by messianic movements to sanctify violence. To show any
+      mercy or understanding toward the enemy is to betray the martyr and the cause
+      the martyr died defending. By Chris Hedges ScheerPost The assassination of Charlie
+      Kirk presages a… Read more →
+    one_sentence_summary: The article discusses how messianic movements exploit martyrs
+      to justify violence, arguing that showing mercy towards enemies undermines the
+      martyr's sacrifice and the cause they represent.
+    paragraph_summary: In the article by Chris Hedges, it is argued that messianic movements
+      often utilize martyrs to legitimize and sanctify acts of violence, creating a
+      narrative where any form of mercy or empathy towards adversaries is seen as a
+      betrayal of the martyr and the cause they represent. The discussion is framed
+      within the context of contemporary events, including the assassination of Charlie
+      Kirk, suggesting that such acts are emblematic of a broader trend where martyrdom
+      fuels extremist ideologies and justifies violent actions in the name of a perceived
+      righteous cause.
+    published: '2025-09-12T10:33:51+00:00'
+  - title: 'Chris Hedges: The Martyrdom of Charlie Kirk'
+    url: https://consortiumnews.com/2025/09/12/chris-hedges-the-martyrdom-of-charlie-kirk/
+    text: Martyrs are used by messianic movements to sanctify violence. To show any
+      mercy or understanding toward the enemy is to betray the martyr and the cause
+      the martyr died defending. By Chris Hedges ScheerPost The assassination of Charlie
+      Kirk presages a… Read more →
+    one_sentence_summary: The article discusses how messianic movements exploit martyrs
+      to justify violence, arguing that showing mercy towards enemies undermines the
+      martyr's sacrifice and the cause they represent.
+    paragraph_summary: In the article by Chris Hedges, it is argued that messianic movements
+      often utilize martyrs to legitimize and sanctify acts of violence, creating a
+      narrative where any form of mercy or empathy towards adversaries is seen as a
+      betrayal of the martyr and the cause they represent. The discussion is framed
+      within the context of contemporary events, including the assassination of Charlie
+      Kirk, suggesting that such acts are emblematic of a broader trend where martyrdom
+      fuels extremist ideologies and justifies violent actions in the name of a perceived
+      righteous cause.
+    published: '2025-09-12T10:33:51+00:00'
+  - title: When Australia Defied US Nuclear Plans
+    url: https://consortiumnews.com/2025/09/11/when-australia-defied-us-nuclear-plans/
+    text: 'Prime Minister Malcolm Fraser, in 1981, established a high-water mark for
+      Australian sovereignty over U.S. nuclear-capable bomber operations, write Richard
+      Tanter and Vince Scappatura. This Declassified Australia article draws on the
+      Nautilus Institute Special Report: B-52s in Australia in 1979-1991… Read more
+      →'
+    one_sentence_summary: In 1981, Prime Minister Malcolm Fraser set a significant precedent
+      for Australian sovereignty regarding U.S. nuclear-capable bomber operations, as
+      discussed in a Declassified Australia article by Richard Tanter and Vince Scappatura,
+      which references the Nautilus Institute's Special Report on B-52s in Australia
+      from 1979 to 1991.
+    paragraph_summary: In 1981, Prime Minister Malcolm Fraser set a significant precedent
+      for Australian sovereignty regarding U.S. nuclear-capable bomber operations, as
+      detailed by Richard Tanter and Vince Scappatura in their article for Declassified
+      Australia. The piece references the Nautilus Institute Special Report on the deployment
+      of B-52 bombers in Australia from 1979 to 1991, highlighting the complexities
+      and implications of this military arrangement during that period.
+    published: '2025-09-11T18:00:33+00:00'
+  - title: When Australia Defied US Nuclear Plans
+    url: https://consortiumnews.com/2025/09/11/when-australia-defied-us-nuclear-plans/
+    text: 'Prime Minister Malcolm Fraser, in 1981, established a high-water mark for
+      Australian sovereignty over U.S. nuclear-capable bomber operations, write Richard
+      Tanter and Vince Scappatura. This Declassified Australia article draws on the
+      Nautilus Institute Special Report: B-52s in Australia in 1979-1991… Read more
+      →'
+    one_sentence_summary: In 1981, Prime Minister Malcolm Fraser set a significant precedent
+      for Australian sovereignty regarding U.S. nuclear-capable bomber operations, as
+      discussed in a Declassified Australia article by Richard Tanter and Vince Scappatura,
+      which references the Nautilus Institute's Special Report on B-52s in Australia
+      from 1979 to 1991.
+    paragraph_summary: In 1981, Prime Minister Malcolm Fraser set a significant precedent
+      for Australian sovereignty regarding U.S. nuclear-capable bomber operations, as
+      detailed by Richard Tanter and Vince Scappatura in their article for Declassified
+      Australia. The piece references the Nautilus Institute Special Report on the deployment
+      of B-52 bombers in Australia from 1979 to 1991, highlighting the complexities
+      and implications of this military arrangement during that period.
+    published: '2025-09-11T18:00:33+00:00'
+  - title: 'Craig Murray: Palestine Action & the Scottish Claim of Right'
+    url: https://consortiumnews.com/2025/09/11/craig-murray-palestine-action-the-scottish-claim-of-right/
+    text: The result of the English judicial review of Palestine Action’s case against
+      terrorist proscription will apply to the whole U.K. — which is a direct violation
+      of Scottish legal rights. By Craig Murray CraigMurray.org.uk In late November,
+      a judge in… Read more →
+    one_sentence_summary: The English judicial review ruling on Palestine Action's case
+      regarding terrorist proscription will have nationwide implications in the U.K.,
+      infringing upon Scottish legal rights.
+    paragraph_summary: The article discusses the implications of an English judicial
+      review regarding Palestine Action's challenge against the proscription of certain
+      groups as terrorists, highlighting that the ruling will have nationwide effects
+      in the U.K. This decision is viewed as a violation of Scottish legal rights, as
+      it undermines Scotland's legal autonomy. Craig Murray, the author, expresses concern
+      over the potential overreach of English law into Scottish jurisdiction, emphasizing
+      the broader implications for legal rights and governance within the U.K.
+    published: '2025-09-11T16:00:37+00:00'
+  - title: 'Craig Murray: Palestine Action & the Scottish Claim of Right'
+    url: https://consortiumnews.com/2025/09/11/craig-murray-palestine-action-the-scottish-claim-of-right/
+    text: The result of the English judicial review of Palestine Action’s case against
+      terrorist proscription will apply to the whole U.K. — which is a direct violation
+      of Scottish legal rights. By Craig Murray CraigMurray.org.uk In late November,
+      a judge in… Read more →
+    one_sentence_summary: The English judicial review ruling on Palestine Action's case
+      regarding terrorist proscription will have nationwide implications in the U.K.,
+      infringing upon Scottish legal rights.
+    paragraph_summary: The article discusses the implications of an English judicial
+      review regarding Palestine Action's challenge against the proscription of certain
+      groups as terrorists, highlighting that the ruling will have nationwide effects
+      in the U.K. This decision is viewed as a violation of Scottish legal rights, as
+      it undermines Scotland's legal autonomy. Craig Murray, the author, expresses concern
+      over the potential overreach of English law into Scottish jurisdiction, emphasizing
+      the broader implications for legal rights and governance within the U.K.
+    published: '2025-09-11T16:00:37+00:00'
+  - title: 'The Chris Hedges Report: The Death of Holocaust Studies'
+    url: https://consortiumnews.com/2025/09/11/the-chris-hedges-report-the-death-of-holocaust-studies/
+    text: How distortion of the Holocaust, in the midst of the genocide in Gaza, has
+      been used to serve the narrative of Zionists and the Israeli government, analyzes
+      Israeli historian Raz Segal. By Chris Hedges The Chris Hedges Report Raz Segal,
+      an… Read more →
+    one_sentence_summary: Israeli historian Raz Segal examines how the distortion of
+      the Holocaust has been leveraged by Zionists and the Israeli government to shape
+      narratives during the ongoing genocide in Gaza.
+    paragraph_summary: In an analysis by Israeli historian Raz Segal, featured in Chris
+      Hedges' report, the distortion of the Holocaust is examined in the context of
+      the ongoing genocide in Gaza. Segal argues that this distortion has been strategically
+      employed to bolster the narratives of Zionists and the Israeli government, highlighting
+      how historical trauma is manipulated to justify contemporary actions and policies.
+      The article critiques this appropriation of history, suggesting it serves to obscure
+      the realities of the current conflict and the suffering of those in Gaza.
+    published: '2025-09-11T08:06:05+00:00'
+  - title: 'The Chris Hedges Report: The Death of Holocaust Studies'
+    url: https://consortiumnews.com/2025/09/11/the-chris-hedges-report-the-death-of-holocaust-studies/
+    text: How distortion of the Holocaust, in the midst of the genocide in Gaza, has
+      been used to serve the narrative of Zionists and the Israeli government, analyzes
+      Israeli historian Raz Segal. By Chris Hedges The Chris Hedges Report Raz Segal,
+      an… Read more →
+    one_sentence_summary: Israeli historian Raz Segal examines how the distortion of
+      the Holocaust has been leveraged by Zionists and the Israeli government to shape
+      narratives during the ongoing genocide in Gaza.
+    paragraph_summary: In an analysis by Israeli historian Raz Segal, featured in Chris
+      Hedges' report, the distortion of the Holocaust is examined in the context of
+      the ongoing genocide in Gaza. Segal argues that this distortion has been strategically
+      employed to bolster the narratives of Zionists and the Israeli government, highlighting
+      how historical trauma is manipulated to justify contemporary actions and policies.
+      The article critiques this appropriation of history, suggesting it serves to obscure
+      the realities of the current conflict and the suffering of those in Gaza.
+    published: '2025-09-11T08:06:05+00:00'
+  - title: India Disavows ‘Tianjin spirit,’ Turns to EU
+    url: https://consortiumnews.com/2025/09/10/india-disavows-tianjin-spirit-turns-to-eu/
+    text: After Narendra Modi enjoyed a private limo ride with Vladimir Putin that set
+      off alarms in the West, Modi’s government did a quick about-face.  By M.K. Bhadrakumar
+      Indian Punchline India found itself in an uncomfortable situation like a cat on
+      a… Read more →
+    one_sentence_summary: After a private limo ride between Narendra Modi and Vladimir
+      Putin raised concerns in the West, Modi's government swiftly changed its stance
+      to address the ensuing diplomatic discomfort.
+    paragraph_summary: After Indian Prime Minister Narendra Modi's private limo ride
+      with Russian President Vladimir Putin raised concerns in the West, Modi's government
+      swiftly changed its stance to mitigate potential diplomatic fallout. The encounter,
+      which sparked alarm among Western nations, highlighted India's delicate position
+      in balancing its relationships with both Russia and the West. The article by M.K.
+      Bhadrakumar discusses the complexities of India's foreign policy and the challenges
+      it faces in navigating its ties with major global powers.
+    published: '2025-09-10T18:00:52+00:00'
+  - title: India Disavows ‘Tianjin spirit,’ Turns to EU
+    url: https://consortiumnews.com/2025/09/10/india-disavows-tianjin-spirit-turns-to-eu/
+    text: After Narendra Modi enjoyed a private limo ride with Vladimir Putin that set
+      off alarms in the West, Modi’s government did a quick about-face.  By M.K. Bhadrakumar
+      Indian Punchline India found itself in an uncomfortable situation like a cat on
+      a… Read more →
+    one_sentence_summary: After a private limo ride between Narendra Modi and Vladimir
+      Putin raised concerns in the West, Modi's government swiftly changed its stance
+      to address the ensuing diplomatic discomfort.
+    paragraph_summary: After Indian Prime Minister Narendra Modi's private limo ride
+      with Russian President Vladimir Putin raised concerns in the West, Modi's government
+      swiftly changed its stance to mitigate potential diplomatic fallout. The encounter,
+      which sparked alarm among Western nations, highlighted India's delicate position
+      in balancing its relationships with both Russia and the West. The article by M.K.
+      Bhadrakumar discusses the complexities of India's foreign policy and the challenges
+      it faces in navigating its ties with major global powers.
+    published: '2025-09-10T18:00:52+00:00'
+  - title: Westminster Group Shut Down over Israel Funding
+    url: https://consortiumnews.com/2025/09/10/westminster-group-shut-down-over-israel-funding/
+    text: A cross-party group of MPs and Lords has been shut down, after Declassified
+      UK revealed it had taken money from an Israeli-owned weapons firm. By Martin Williams
+      Declassified UK A cross-party group of MPs and Lords has been shut down, after Declassified revealed it…
+      Read more →
+    one_sentence_summary: A cross-party group of MPs and Lords has been disbanded following
+      revelations that it received funding from an Israeli-owned weapons company.
+    paragraph_summary: A cross-party group of MPs and Lords has been disbanded following
+      revelations by Declassified UK that it received funding from an Israeli-owned
+      weapons company. The exposure of this financial connection raised concerns about
+      the group's integrity and transparency, leading to its closure.
+    published: '2025-09-10T16:00:34+00:00'
+  - title: Westminster Group Shut Down over Israel Funding
+    url: https://consortiumnews.com/2025/09/10/westminster-group-shut-down-over-israel-funding/
+    text: A cross-party group of MPs and Lords has been shut down, after Declassified
+      UK revealed it had taken money from an Israeli-owned weapons firm. By Martin Williams
+      Declassified UK A cross-party group of MPs and Lords has been shut down, after Declassified revealed it…
+      Read more →
+    one_sentence_summary: A cross-party group of MPs and Lords has been disbanded following
+      revelations that it received funding from an Israeli-owned weapons company.
+    paragraph_summary: A cross-party group of MPs and Lords has been disbanded following
+      revelations by Declassified UK that it received funding from an Israeli-owned
+      weapons company. The exposure of this financial connection raised concerns about
+      the group's integrity and transparency, leading to its closure.
+    published: '2025-09-10T16:00:34+00:00'
+  - title: 'Vijay Prashad: The United Nations Turns 80'
+    url: https://consortiumnews.com/2025/09/10/vijay-prashad-the-united-nations-turns-80/
+    text: 'The U.N. is bogged down by structural limitations and political divisions
+      that render it powerless to act decisively – nowhere more clearly than in the
+      Gaza genocide. By Vijay Prashad Tricontinental: Institute for Social Research
+      There is only one treaty in… Read more →'
+    one_sentence_summary: The article by Vijay Prashad highlights the U.N.'s structural
+      limitations and political divisions, which hinder its ability to take decisive
+      action, particularly evident in the ongoing crisis in Gaza.
+    paragraph_summary: The article by Vijay Prashad discusses the United Nations' inability
+      to effectively respond to crises, particularly highlighting the situation in Gaza,
+      which he describes as a genocide. He argues that the U.N. is hindered by structural
+      limitations and political divisions among member states, preventing it from taking
+      decisive action. Prashad emphasizes the need for reform within the U.N. to enable
+      it to fulfill its mandate of protecting human rights and maintaining peace, as
+      current conditions leave it largely powerless in the face of ongoing atrocities.
+    published: '2025-09-10T10:41:46+00:00'
+  - title: 'Vijay Prashad: The United Nations Turns 80'
+    url: https://consortiumnews.com/2025/09/10/vijay-prashad-the-united-nations-turns-80/
+    text: 'The U.N. is bogged down by structural limitations and political divisions
+      that render it powerless to act decisively – nowhere more clearly than in the
+      Gaza genocide. By Vijay Prashad Tricontinental: Institute for Social Research
+      There is only one treaty in… Read more →'
+    one_sentence_summary: The article by Vijay Prashad highlights the U.N.'s structural
+      limitations and political divisions, which hinder its ability to take decisive
+      action, particularly evident in the ongoing crisis in Gaza.
+    paragraph_summary: The article by Vijay Prashad discusses the United Nations' inability
+      to effectively respond to crises, particularly highlighting the situation in Gaza,
+      which he describes as a genocide. He argues that the U.N. is hindered by structural
+      limitations and political divisions among member states, preventing it from taking
+      decisive action. Prashad emphasizes the need for reform within the U.N. to enable
+      it to fulfill its mandate of protecting human rights and maintaining peace, as
+      current conditions leave it largely powerless in the face of ongoing atrocities.
+    published: '2025-09-10T10:41:46+00:00'
   - title: 'Caitlin Johnstone: Hamas Surrender Won’t Stop the Genocide'
     url: https://consortiumnews.com/2025/09/09/caitlin-johnstone-hamas-surrender-wont-stop-the-genocide/
     text: 'If Hamas surrenders, the genocide won’t end: but Palestinians will be erased

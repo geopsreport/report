@@ -7,16 +7,206 @@ description: "Journalist and producer; covers US foreign policy, Russiagate, and
 websites:
   - https://www.aaronmate.net/
 summary: |
-  As the Ukraine conflict, Middle East crises, and debates over Western intelligence practices continue to reshape global politics, recent developments highlight deepening skepticism toward official narratives and shifting alliances.
+  The past week has seen a rapid escalation in Middle East tensions, with the Israeli airstrike on Hamas leaders in Doha marking a significant expansion of the Gaza conflict. As **Aaron Maté** notes, this strike followed President Trump’s “last warning” to Hamas regarding ceasefire terms and the release of captives, underscoring what many analysts describe as a pattern of “diplomacy for aggression” by the US and Israel. The attack has raised urgent questions about whether Iran could be the next target, with regional actors bracing for potential spillover.
   
-  The most significant new revelations concern the Organization for the Prohibition of Chemical Weapons (OPCW) and its investigation into the alleged 2018 chemical attack in Douma, Syria. According to leaked documents analyzed by **Aaron Maté**, the OPCW’s own investigative team found no evidence implicating the Syrian government in the attack that prompted US, UK, and French military strikes. Maté reports that these findings were suppressed and manipulated by OPCW officials, a move largely ignored by mainstream outlets. The whistleblower’s disclosures raise further questions about the integrity of international watchdogs and the role of intelligence in justifying military interventions.
+  Meanwhile, revelations concerning the OPCW’s investigation into alleged chemical attacks in Syria have resurfaced. Leaked documents, as reported by **Aaron Maté**, show that an OPCW team found no evidence implicating the Syrian government in the Douma incident, contradicting the justification for Western military strikes in 2018. Allegations of internal manipulation and a subsequent cover-up have been largely ignored by mainstream outlets, but the new disclosures are fueling skepticism about the integrity of international investigative bodies.
   
-  Meanwhile, the Ukraine war remains at a diplomatic crossroads. Recent weeks saw President Trump shift from a hardline sanctions approach to a willingness to negotiate a ceasefire with Russia, reflecting changing realities on the battlefield. **Benoit Paré**, a former French defense ministry analyst, emphasizes that Ukraine’s failure to implement the Minsk accords and the influence of ultra-nationalist factions are major obstacles to peace. This aligns with a broader consensus among independent observers that Western policies have contributed to prolonging the conflict rather than resolving it.
+  On the Ukraine front, diplomatic dynamics continue to shift. President Trump’s move from demanding further sanctions against Russia to accepting negotiations for a ceasefire reflects the changing battlefield realities and the pressure on Ukrainian leadership. Former OSCE monitor **Benoit Paré** attributes the failure to implement the Minsk accords to Kyiv and warns that ultra-nationalist factions remain a major obstacle to peace.
   
-  On the intelligence front, newly declassified documents continue to undermine the narrative of Russian interference in the 2016 US election. As **Aaron Maté** notes, there were “significant doubts” within US intelligence about claims that Russia hacked and leaked Democratic Party materials, even as Special Counsel Mueller’s investigation failed to establish a conspiracy. These disclosures fuel growing calls for accountability over the politicization of intelligence and the media’s role in amplifying unsubstantiated claims.
-  
-  Looking ahead, the prevailing trend is a steady erosion of trust in Western institutions and official narratives, particularly regarding military interventions and intelligence assessments. With the Trump-Putin summit on the horizon and ongoing revelations about Syria and Russiagate, it is quite likely that demands for transparency and independent verification will intensify. I guarantee that skepticism toward Western intelligence claims will remain a dominant feature of international discourse in the coming months, with high confidence that this will shape both policy debates and public opinion.
+  **Trends and Predictions:**  
+  The majority of independent analysts agree that the Israeli strike in Qatar signals a willingness by both Israel and the US to expand the conflict zone, making further escalation in the region, possibly involving Iran, “quite likely.” The OPCW leaks are expected to intensify calls for transparency and accountability in international institutions, though mainstream acknowledgment remains uncertain. In Ukraine, the shift toward negotiations suggests a high chance of a frozen conflict or a brokered settlement in the coming months, with the outcome hinging on US-Russia talks and internal Ukrainian politics.
 articles:
+  - title: After Israeli attack in Qatar, is Iran next?
+    url: https://www.aaronmate.net/p/after-israeli-attack-in-qatar-is
+    text: 'Aaron Mate After Israeli attack in Qatar, is Iran next? 103 1 16 1× 0:00
+      Current time: 0:00 / Total time: -23:14 -23:14 Audio playback is not supported
+      on your browser. Please upgrade. After Israeli attack in Qatar, is Iran next?
+      Aaron Maté Sep 10, 2025 103 1 16 Share Transcript Aaron Mate is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. Subscribe Discussion about this episode Comments Restacks
+      Aaron Mate Reporting and analysis by award-winning independent journalist. Reporting
+      and analysis by award-winning independent journalist. Subscribe Authors Aaron
+      Maté Recent Episodes Listen to this article: In Qatar attack, Israel and US again
+      use diplomacy for aggression 16 hrs ago • Aaron Maté Trump terror in Venezuela;
+      endless carnage in Gaza Sep 4 • Aaron Maté Israel''s unrelenting sadism in Gaza;
+      Zelensky''s threat from within Aug 27 • Aaron Maté Listen to this article: Ukraine’s
+      best security guarantee is the peace NATO sabotaged Aug 25 • Aaron Maté Trump
+      hosts Zelensky; State Dept. bans wounded Palestinian children Aug 18 • Aaron Maté
+      French monitor: Ukraine, NATO provoked Russia in Donbas war Aug 18 • Aaron Maté
+      Audio version: As Trump and Putin meet, new evidence that ''Russian interference''
+      was US intel deception Aug 17 • Aaron Maté'
+    one_sentence_summary: In his article, Aaron Maté explores the implications of an
+      Israeli attack in Qatar and raises concerns about whether Iran could be the next
+      target in the ongoing geopolitical tensions.
+    paragraph_summary: In his article, Aaron Maté discusses the implications of a recent
+      Israeli attack in Qatar, raising concerns about whether Iran might be the next
+      target in the region. He highlights the pattern of Israeli and U.S. diplomacy
+      being used to justify aggressive military actions, suggesting that such incidents
+      could escalate tensions further. Maté's analysis reflects on the broader geopolitical
+      dynamics at play, particularly in relation to U.S. foreign policy and its impact
+      on Middle Eastern stability. The piece serves as a commentary on the ongoing conflicts
+      and the potential for further violence in the region.
+    published: '2025-09-10T20:29:30+00:00'
+  - title: In Qatar attack, Israel and US again use diplomacy for aggression
+    url: https://www.aaronmate.net/p/in-qatar-attack-israel-and-us-again
+    text: '(Photo by Security Camera/Anadolu via Getty Images) The Israeli bombing of
+      Hamas leaders in Doha, Qatar came just two days after US president Donald Trump
+      issued what he called his “last warning” to the Palestinian group. “The Israelis
+      have accepted my Terms,” Trump wrote on social media. “It is time for Hamas to
+      accept as well.” Trump’s terms, outlined in a 100-word document , demanded that
+      Hamas release all remaining captives in exchange for a 60-day ceasefire, with
+      no guarantee of a permanent end to Israel’s mass murder rampage in Gaza. During
+      that pause, the US proposal stated, “President Trump will guarantee that the parties
+      negotiate in good faith until an agreement is reached.” Trump made a similar pledge
+      to Hamas earlier this year when he convinced it to free Israeli-American soldier
+      Edan Alexander, only to continue supporting Israel’s bombardment and starvation
+      siege upon his release. This new overture was also in bad faith. As Hamas officials
+      gathered to discuss Trump’s ultimatum, 10 Israeli warplanes entered Qatari airspace
+      and bombed them. Six people were reportedly killed; Hamas claims that its senior
+      leadership survived. As they did with Iran back in June, Trump and his ally Benjamin
+      Netanyahu had used the cover of negotiations for an act of aggression that sabotaged
+      a potential agreement . Prior to the attack, the Mossad even gave the Qataris
+      assurances that “ we will not attack on your soil .” But that was part of the
+      ruse. The US military base in Qatar – the largest in the Middle East – can easily
+      detect incoming attacks, but did not activate its air defenses, a sign that the
+      Trump administration was involved. If it weren’t obvious enough, the Jerusalem
+      Post immediately reported, citing Israeli officials, that Washington “gave the
+      green light for the operation,” as it has for every Israeli act of violence since
+      Oct. 7 th and countless before it. Having facilitated an Israeli strike on an
+      allied country hosting 10,000 US soldiers, the White House delivered an incoherent
+      response. Press Secretary Karoline Leavitt told reporters that Trump “feels very
+      badly about the location” of the Israeli strike. This was a nod to its awkward
+      timing: the Qatari location recently gifted Trump a $400 million Boeing 747-8
+      luxury jet, along with what the White House touted as $1.2 trillion in investment
+      pledges. And while the attack “does not advance Israel''s or America''s goals”,
+      Trump nonetheless believes that “eliminating Hamas... is a worthy goal.” Qatar
+      has responded by suspending its mediation efforts. But since Israel broke the
+      last ceasefire in March, the talks have been a farce. Like the Biden administration
+      before it, the Trump team has repeatedly pretended that Hamas is the obstacle
+      even after it agrees to ever-shifting US-Israeli terms. Last month, Hamas accepted
+      a proposal transmitted by Trump envoy Steve Witkoff for the release of 10 living
+      Israeli captives, in exchange for a 60-day ceasefire and the release of 150 Palestinian
+      prisoners held by Israel. Netanyahu ignored Hamas and proceeded with his plans
+      to destroy Gaza City, the last habitable area of Gaza after nearly two years of
+      unrelenting Israeli violence. Israel’s latest targets include high-rise buildings
+      that housed tens of thousands of people and multiple human rights organizations,
+      some struck with minimal or no warning. To complete the scorched earth campaign,
+      Israel has ordered everyone sheltering in Gaza City – around 1 million people,
+      half of Gaza’s population – to evacuate. Deploying his stock propaganda line,
+      Netanyahu claims that he is targeting “terrorist high-rises” used by Hamas for
+      militant activity. In real life, the Israeli leader is implementing the final
+      stage of his plan to force as many Palestinians as possible into permanent exile.
+      The Israeli military, Netanyahu reportedly explained to lawmakers in May, is “destroying
+      more and more houses” so that Palestinians therefore “have nowhere to return.”
+      He added: “The only obvious result will be Gazans choosing to emigrate outside
+      of the Strip.” Netanyahu’s top choice remains Egypt to Gaza’s south, but Israeli
+      officials have tried to entice other states, including South Sudan, to absorb
+      Palestinians forced into exile. The plan was circulated in the immediate aftermath
+      of the Oct. 7 th attack. A leaked military intelligence report , dated Oct. 13
+      th 2023, called on Israel “to bring about a significant change in the civilian
+      reality” in Gaza. Of three proposed options, the “evacuation of the civilian population
+      from Gaza to Sinai” was identified as “the one that yields positive and long-term
+      strategic results for Israel.” Nearly two years later, the ethnic cleansing operation
+      in Gaza continues as planned. Its Washington sponsor remains complicit at every
+      juncture, even if that means facilitating Israeli violence against a less important
+      client state. Aaron Mate is a reader-supported publication. To receive new posts
+      and support my work, consider becoming a free or paid subscriber.'
+    one_sentence_summary: The Israeli bombing of Hamas leaders in Doha followed President
+      Trump's "last warning" for Hamas to accept his terms for a ceasefire and the release
+      of captives, which many view as a continuation of bad faith negotiations amidst
+      ongoing violence in Gaza.
+    paragraph_summary: The article discusses a recent Israeli bombing of Hamas leaders
+      in Doha, Qatar, which occurred shortly after President Donald Trump issued what
+      he termed his "last warning" to Hamas, demanding the release of captives in exchange
+      for a ceasefire. Trump's proposal, which lacked guarantees for a permanent resolution,
+      was perceived as insincere, especially since it followed a similar earlier pledge.
+      While Hamas officials were reportedly meeting to discuss Trump's ultimatum, Israeli
+      warplanes attacked, killing six, although Hamas claimed its leadership survived.
+      The attack was seen as a coordinated effort between Trump and Israeli Prime Minister
+      Benjamin Netanyahu, undermining the potential for negotiation and raising questions
+      about the U.S. military's inaction during the assault, suggesting complicity in
+      the operation.
+    published: '2025-09-10T14:18:21+00:00'
+  - title: In Qatar attack, Israel and US again use diplomacy for aggression
+    url: https://www.aaronmate.net/p/in-qatar-attack-israel-and-us-again
+    text: '(Photo by Security Camera/Anadolu via Getty Images) The Israeli bombing of
+      Hamas leaders in Doha, Qatar came just two days after US president Donald Trump
+      issued what he called his “last warning” to the Palestinian group. “The Israelis
+      have accepted my Terms,” Trump wrote on social media. “It is time for Hamas to
+      accept as well.” Trump’s terms, outlined in a 100-word document , demanded that
+      Hamas release all remaining captives in exchange for a 60-day ceasefire, with
+      no guarantee of a permanent end to Israel’s mass murder rampage in Gaza. During
+      that pause, the US proposal stated, “President Trump will guarantee that the parties
+      negotiate in good faith until an agreement is reached.” Trump made a similar pledge
+      to Hamas earlier this year when he convinced it to free Israeli-American soldier
+      Edan Alexander, only to continue supporting Israel’s bombardment and starvation
+      siege upon his release. This new overture was also in bad faith. As Hamas officials
+      gathered to discuss Trump’s ultimatum, 10 Israeli warplanes entered Qatari airspace
+      and bombed them. Six people were reportedly killed; Hamas claims that its senior
+      leadership survived. As they did with Iran back in June, Trump and his ally Benjamin
+      Netanyahu had used the cover of negotiations for an act of aggression that sabotaged
+      a potential agreement . Prior to the attack, the Mossad even gave the Qataris
+      assurances that “ we will not attack on your soil .” But that was part of the
+      ruse. The US military base in Qatar – the largest in the Middle East – can easily
+      detect incoming attacks, but did not activate its air defenses, a sign that the
+      Trump administration was involved. If it weren’t obvious enough, the Jerusalem
+      Post immediately reported, citing Israeli officials, that Washington “gave the
+      green light for the operation,” as it has for every Israeli act of violence since
+      Oct. 7 th and countless before it. Having facilitated an Israeli strike on an
+      allied country hosting 10,000 US soldiers, the White House delivered an incoherent
+      response. Press Secretary Karoline Leavitt told reporters that Trump “feels very
+      badly about the location” of the Israeli strike. This was a nod to its awkward
+      timing: the Qatari location recently gifted Trump a $400 million Boeing 747-8
+      luxury jet, along with what the White House touted as $1.2 trillion in investment
+      pledges. And while the attack “does not advance Israel''s or America''s goals”,
+      Trump nonetheless believes that “eliminating Hamas... is a worthy goal.” Qatar
+      has responded by suspending its mediation efforts. But since Israel broke the
+      last ceasefire in March, the talks have been a farce. Like the Biden administration
+      before it, the Trump team has repeatedly pretended that Hamas is the obstacle
+      even after it agrees to ever-shifting US-Israeli terms. Last month, Hamas accepted
+      a proposal transmitted by Trump envoy Steve Witkoff for the release of 10 living
+      Israeli captives, in exchange for a 60-day ceasefire and the release of 150 Palestinian
+      prisoners held by Israel. Netanyahu ignored Hamas and proceeded with his plans
+      to destroy Gaza City, the last habitable area of Gaza after nearly two years of
+      unrelenting Israeli violence. Israel’s latest targets include high-rise buildings
+      that housed tens of thousands of people and multiple human rights organizations,
+      some struck with minimal or no warning. To complete the scorched earth campaign,
+      Israel has ordered everyone sheltering in Gaza City – around 1 million people,
+      half of Gaza’s population – to evacuate. Deploying his stock propaganda line,
+      Netanyahu claims that he is targeting “terrorist high-rises” used by Hamas for
+      militant activity. In real life, the Israeli leader is implementing the final
+      stage of his plan to force as many Palestinians as possible into permanent exile.
+      The Israeli military, Netanyahu reportedly explained to lawmakers in May, is “destroying
+      more and more houses” so that Palestinians therefore “have nowhere to return.”
+      He added: “The only obvious result will be Gazans choosing to emigrate outside
+      of the Strip.” Netanyahu’s top choice remains Egypt to Gaza’s south, but Israeli
+      officials have tried to entice other states, including South Sudan, to absorb
+      Palestinians forced into exile. The plan was circulated in the immediate aftermath
+      of the Oct. 7 th attack. A leaked military intelligence report , dated Oct. 13
+      th 2023, called on Israel “to bring about a significant change in the civilian
+      reality” in Gaza. Of three proposed options, the “evacuation of the civilian population
+      from Gaza to Sinai” was identified as “the one that yields positive and long-term
+      strategic results for Israel.” Nearly two years later, the ethnic cleansing operation
+      in Gaza continues as planned. Its Washington sponsor remains complicit at every
+      juncture, even if that means facilitating Israeli violence against a less important
+      client state. Aaron Mate is a reader-supported publication. To receive new posts
+      and support my work, consider becoming a free or paid subscriber.'
+    one_sentence_summary: The Israeli bombing of Hamas leaders in Doha followed President
+      Trump's "last warning" for Hamas to accept his terms for a ceasefire and the release
+      of captives, which many view as a continuation of bad faith negotiations amidst
+      ongoing violence in Gaza.
+    paragraph_summary: The article discusses a recent Israeli bombing of Hamas leaders
+      in Doha, Qatar, which occurred shortly after President Donald Trump issued what
+      he termed his "last warning" to Hamas, demanding the release of captives in exchange
+      for a ceasefire. Trump's proposal, which lacked guarantees for a permanent resolution,
+      was perceived as insincere, especially since it followed a similar earlier pledge.
+      While Hamas officials were reportedly meeting to discuss Trump's ultimatum, Israeli
+      warplanes attacked, killing six, although Hamas claimed its leadership survived.
+      The attack was seen as a coordinated effort between Trump and Israeli Prime Minister
+      Benjamin Netanyahu, undermining the potential for negotiation and raising questions
+      about the U.S. military's inaction during the assault, suggesting complicity in
+      the operation.
+    published: '2025-09-10T14:18:21+00:00'
   - title: OPCW whistleblower calls out next phase of Syria's chemical weapons deception
     url: https://www.aaronmate.net/p/opcw-whistleblower-calls-out-next
     text: '(Photo by Pierre Crom/Getty Images) Note: In April 2018, dozens of dead bodies

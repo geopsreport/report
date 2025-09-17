@@ -7,19 +7,1162 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  The geopolitical landscape remains dominated by escalating Israeli military actions and the intensifying debate over Western complicity in global injustices. In recent hours, new developments have heightened tensions and drawn international scrutiny.
+  The aftermath of Charlie Kirk’s assassination continues to dominate the US political landscape, with the Trump administration intensifying its rhetoric and policy proposals around free speech and political violence. In the most recent development, US Attorney General Pam Bondi has publicly attributed Kirk’s killing to “hate speech” against conservatives, signaling a shift toward criminalizing certain forms of political expression. **Caitlin Johnstone** notes that Bondi’s remarks, made in the wake of a widely circulated podcast on conservative treatment at universities, suggest the administration is preparing to prosecute what it deems as anti-conservative rhetoric. This marks a significant escalation from previous calls for action and reflects the administration’s broader push for new legal frameworks targeting dissent.
   
-  The most significant update comes from **Caitlin Johnstone**, who reports that Israel has carried out a deadly assassination strike in Qatar, alongside drone attacks targeting humanitarian operations. These actions have provoked widespread controversy, particularly as President Trump publicly condemned the strikes despite reports that he had approved them in advance. This contradiction has fueled criticism of both U.S. and Israeli leadership, with **Johnstone** noting, "Recent Israeli military actions... have sparked significant controversy, with President Trump publicly criticizing the attacks while reportedly having approved them in advance."
+  Simultaneously, the debate over media control has intensified. Calls for a “Charlie Kirk Act” to establish a so-called “Ministry of Truth” have gained traction among Trump supporters, aiming to hold news organizations accountable for misinformation. While not yet law, these proposals echo earlier authoritarian measures such as the Smith-Mundt Act and raise alarms about the future of press freedom in the US.
   
-  Meanwhile, the fallout from the drone attack on the Global Sumud Flotilla—specifically the boat carrying activist Greta Thunberg—continues to reverberate. Although no injuries were reported, the incident has intensified calls from Israeli officials to classify aid activists as terrorists, a move aimed at deterring further humanitarian missions to Gaza. **Johnstone** highlights the broader implications, observing that such labeling efforts are part of a pattern to "deter aid efforts" and criminalize dissent.
+  On the international front, the Gaza crisis remains a flashpoint. **Johnstone** highlights the rare instance of Hollywood activism, as Hannah Einbinder used her Emmy acceptance speech to advocate for Palestine and draw a distinction between Jewish identity and the Israeli state. This act stands out amid a general silence from other celebrities, underscoring the ongoing lack of high-profile Western criticism of Israeli actions in Gaza.
   
-  On the Western front, the debate over moral responsibility is gaining momentum. **Johnstone** argues that Western populations must confront the role their governments play in perpetuating suffering in the global south, urging active opposition to these abuses. This sentiment is echoed by a growing number of activists and analysts who see the current moment as a test of Western conscience and agency.
-  
-  **Trends and Predictions:**  
-  The majority of independent analysts, including **Johnstone**, agree that Israeli military operations are likely to intensify, with further attempts to suppress humanitarian aid and activism. The U.S. administration’s contradictory stance is expected to persist, contributing to international confusion and frustration. There is a high chance ("most definitely") that the labeling of activists as terrorists will expand, both in rhetoric and in policy, particularly as Western governments seek to align with Israeli security narratives. The moral reckoning within Western societies over their governments’ foreign policies is also likely to deepen, with increased activism and public debate in the coming weeks.
-  
-  In summary, the situation is marked by escalating violence, hardening official rhetoric, and a growing divide between government actions and public sentiment—trends that are expected to continue with high confidence in the near term.
+  Trends indicate a hardening of government stances on both domestic dissent and international criticism. The Trump administration’s moves to criminalize certain speech and potentially centralize media oversight are “most definitely” leading the US toward a more authoritarian posture. Internationally, the lack of sustained celebrity or mainstream Western opposition to Israeli policies suggests that, barring a major shift in public sentiment, the status quo will persist. I guarantee that unless there is significant public backlash, these trends—both the clampdown on dissent at home and muted criticism of allied governments abroad—will continue to define the geopolitical climate in the near term.
 articles:
+  - title: Trump Administration Rushes To Kill Free Speech In Response To Kirk Assassination
+    url: https://www.caitlinjohnst.one/p/trump-administration-rushes-to-kill
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      US Attorney General Pam Bondi just said on a podcast that “hate speech” directed
+      at conservatives was responsible for Charlie Kirk’s assassination, and that people
+      who utter such speech will be prosecuted by the Trump administration. Bondi’s
+      comments came after the podcast’s host Katie Miller (wife of Trump henchman Stephen
+      Miller) bizarrely suggested that Kirk’s murder at a university was a symptom of
+      university campuses being too tolerant of mistreatment of people with conservative
+      views. Here’s a transcript: Miller: “These universities are complicit in allowing
+      conservatives to be harassed on campus. And what happens when you allow a university
+      to harass conservatives and don’t expel or don’t take action is what happened
+      last week.” Bondi: “It is, and you know, on a broader level, the antisemitism
+      that’s been happening at college campuses around this country is disgusting. It’s
+      despicable. And we’ve been fighting that. We’ve been fighting these universities
+      left and right, and we’re not going to stop. There’s free speech, and then there’s
+      hate speech, and there is no place — especially now, especially after what happened
+      to Charlie — in our society.” Miller: “Do you see more law enforcement going after
+      these groups who are using hate speech and putting cuffs on people so we show
+      them that some action is better than no action?” Bondi: “We will absolutely target
+      you, go after you if you are targeting anyone with hate speech, anything. And
+      that’s across the aisle.” At the same time, Miller’s husband Stephen circulated
+      the baseless claim that an “organized campaign” by left wing “terrorist networks”
+      led to Kirk’s murder, and that the Trump administration is going to “dismantle
+      and destroy” these networks. Appearing on the late Kirk’s podcast which was being
+      guest hosted by Vice President JD Vance, Miller stated the following : “We are
+      going to channel all the anger we have over the organized campaign that led to
+      this assassination to uproot and dismantle these terrorist networks … The organized
+      doxxing campaigns. The organized riots. The organized street violence. The organized
+      campaigns of of dehumanization, vilification, posting people’s addresses. Combining
+      that with messaging designed to trigger and incite violence and the actual organized
+      cells that carry out and facilitate the violence. It is a vast domestic terror
+      movement. With God as my witness, we are going to use every resource we have at
+      the Department of Justice, Homeland Security and throughout this government to
+      identify, disrupt, dismantle and destroy these networks, and make America safe
+      again for the American people. It will happen, and we will do it in Charlie’s
+      name.” On the same show, Vance urged American conservatives to report anyone who
+      celebrated the killing of Charlie Kirk to their employer in order to get them
+      fired. “When you see someone celebrating Charlie’s murder, call them out, and
+      hell, call their employer,” Vance said , adding, “We don’t believe in political
+      violence, but we do believe in civility.” https://x.com/atrupar/status/1967644960917778911
+      If the Biden administration had been saying these things about right wingers,
+      Trump supporters would’ve shrieked their lungs out. But because Trump supporters
+      are mindless unprincipled NPCs, they’re perfectly fine with using authoritarian
+      speech suppression and cancel culture against the other side. One of the many
+      naive mistakes I made when I first started this commentary gig was taking Trump
+      supporters at their word when they said they support things like free speech,
+      ending wars, and dismantling the deep state. I thought they can’t be all bad,
+      because they’re saying they’re on the same side as me with many important issues
+      that I care about. This wishful thinking quickly fell apart as I watched them
+      defend every single one of Trump’s acts of warmongering and authoritarianism and
+      advancements of longstanding deep state agendas throughout his first term. Even
+      actions which should have gone against their own basic partisan ideological biases
+      like imprisoning Julian Assange were excused, justified, or spun as some kind
+      of 4-D chess maneuver to actually rescue Assange. I stayed in dialogue with them
+      the entire time, and they stood by literally every last bit of Trump’s warmongering,
+      authoritarianism, and assaults on free speech. Every once in a while you’d see
+      one of them go “This is the final straw for me! I don’t support Trump anymore!”
+      But then their disdain for Democrats would pull them right back into the fold
+      and they’d be toeing the Republican Party line just the same as before. https://x.com/mtracey/status/1967695029662806271
+      And it became clear to me that these people do not actually oppose the terrible
+      abuses they claim to oppose, they just oppose them when the other party is doing
+      them. They don’t oppose assaults on free speech, they just oppose assaults on
+      their own speech. They don’t oppose war, they just oppose wars that they perceive
+      as being started by Democrats. They don’t oppose the unelected power structure
+      which runs the US empire, they just oppose the aspects of that power structure
+      which they perceive as hostile to Trump. And they’ve been demonstrating this even
+      more clearly during Trump’s second term. They’ve defended every single one of
+      their president’s genocidal, warmongering, tyrannical abuses. They stood by him
+      when he deliberately torched the ceasefire with Hamas and the truce with the Houthis
+      and reignited the bloodshed in Gaza and Yemen. They stood by him as he worked
+      to stomp out free speech in the United States with moves intended to silence criticism
+      of Israel. They stood by him when he announced his ethnic cleansing plans for
+      the Gaza Strip. They stood by him when he bombed Iran. They’re standing by him
+      as he expands his warmongering to Venezuela. Whatever authoritarian measures Washington
+      decides to surf on the tide of the Charlie Kirk assassination will surely be complied
+      with too. They’re a bunch of worthless, power-worshipping bootlickers who support
+      everything they claim to oppose. They’re garden variety Republican empire simps
+      posing as populist revolutionaries, just as devoted to the imperial murder machine
+      as the Democrats they despise. Eventually you learn that anyone who aligns themselves
+      with either mainstream party in any way is someone you can just dismiss as a compliant
+      empire stooge. They might say “No no I’m this new special kind of Republican that
+      opposes the war machine and fights for liberty,” or “No no I’m this new special
+      kind of Democrat who opposes the oligarchy and works for peace,” but they’re lying.
+      It’s a play. A performance. They’re just trying to herd people into the two mainstream
+      imperial parties whose entire purpose is to protect and promote the interests
+      of the empire. They’re all part of the swamp, and you cannot use the swamp to
+      drain the swamp. _______________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      he best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image is a screen grab from The Katie Miller Show (Fair Use) .'
+    one_sentence_summary: US Attorney General Pam Bondi attributed the assassination
+      of Charlie Kirk to "hate speech" against conservatives, suggesting that such rhetoric
+      will be prosecuted by the Trump administration, following a podcast discussion
+      on the treatment of conservatives at universities.
+    paragraph_summary: In a recent podcast, U.S. Attorney General Pam Bondi attributed
+      the assassination of conservative activist Charlie Kirk to "hate speech" directed
+      at conservatives, asserting that the Trump administration would prosecute those
+      who engage in such speech. This statement followed comments from Katie Miller,
+      who suggested that universities are complicit in allowing harassment of conservatives,
+      leading to tragic outcomes like Kirk's murder. Bondi condemned antisemitism on
+      college campuses and emphasized the need to differentiate between free speech
+      and hate speech, vowing to target individuals who promote the latter. Meanwhile,
+      Stephen Miller, Katie's husband, propagated unfounded claims of an organized left-wing
+      campaign behind Kirk's murder, promising that the Trump administration would work
+      to dismantle these alleged networks.
+    published: '2025-09-16T03:14:27+00:00'
+  - title: Trump Administration Rushes To Kill Free Speech In Response To Kirk Assassination
+    url: https://www.caitlinjohnst.one/p/trump-administration-rushes-to-kill
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      US Attorney General Pam Bondi just said on a podcast that “hate speech” directed
+      at conservatives was responsible for Charlie Kirk’s assassination, and that people
+      who utter such speech will be prosecuted by the Trump administration. Bondi’s
+      comments came after the podcast’s host Katie Miller (wife of Trump henchman Stephen
+      Miller) bizarrely suggested that Kirk’s murder at a university was a symptom of
+      university campuses being too tolerant of mistreatment of people with conservative
+      views. Here’s a transcript: Miller: “These universities are complicit in allowing
+      conservatives to be harassed on campus. And what happens when you allow a university
+      to harass conservatives and don’t expel or don’t take action is what happened
+      last week.” Bondi: “It is, and you know, on a broader level, the antisemitism
+      that’s been happening at college campuses around this country is disgusting. It’s
+      despicable. And we’ve been fighting that. We’ve been fighting these universities
+      left and right, and we’re not going to stop. There’s free speech, and then there’s
+      hate speech, and there is no place — especially now, especially after what happened
+      to Charlie — in our society.” Miller: “Do you see more law enforcement going after
+      these groups who are using hate speech and putting cuffs on people so we show
+      them that some action is better than no action?” Bondi: “We will absolutely target
+      you, go after you if you are targeting anyone with hate speech, anything. And
+      that’s across the aisle.” At the same time, Miller’s husband Stephen circulated
+      the baseless claim that an “organized campaign” by left wing “terrorist networks”
+      led to Kirk’s murder, and that the Trump administration is going to “dismantle
+      and destroy” these networks. Appearing on the late Kirk’s podcast which was being
+      guest hosted by Vice President JD Vance, Miller stated the following : “We are
+      going to channel all the anger we have over the organized campaign that led to
+      this assassination to uproot and dismantle these terrorist networks … The organized
+      doxxing campaigns. The organized riots. The organized street violence. The organized
+      campaigns of of dehumanization, vilification, posting people’s addresses. Combining
+      that with messaging designed to trigger and incite violence and the actual organized
+      cells that carry out and facilitate the violence. It is a vast domestic terror
+      movement. With God as my witness, we are going to use every resource we have at
+      the Department of Justice, Homeland Security and throughout this government to
+      identify, disrupt, dismantle and destroy these networks, and make America safe
+      again for the American people. It will happen, and we will do it in Charlie’s
+      name.” On the same show, Vance urged American conservatives to report anyone who
+      celebrated the killing of Charlie Kirk to their employer in order to get them
+      fired. “When you see someone celebrating Charlie’s murder, call them out, and
+      hell, call their employer,” Vance said , adding, “We don’t believe in political
+      violence, but we do believe in civility.” https://x.com/atrupar/status/1967644960917778911
+      If the Biden administration had been saying these things about right wingers,
+      Trump supporters would’ve shrieked their lungs out. But because Trump supporters
+      are mindless unprincipled NPCs, they’re perfectly fine with using authoritarian
+      speech suppression and cancel culture against the other side. One of the many
+      naive mistakes I made when I first started this commentary gig was taking Trump
+      supporters at their word when they said they support things like free speech,
+      ending wars, and dismantling the deep state. I thought they can’t be all bad,
+      because they’re saying they’re on the same side as me with many important issues
+      that I care about. This wishful thinking quickly fell apart as I watched them
+      defend every single one of Trump’s acts of warmongering and authoritarianism and
+      advancements of longstanding deep state agendas throughout his first term. Even
+      actions which should have gone against their own basic partisan ideological biases
+      like imprisoning Julian Assange were excused, justified, or spun as some kind
+      of 4-D chess maneuver to actually rescue Assange. I stayed in dialogue with them
+      the entire time, and they stood by literally every last bit of Trump’s warmongering,
+      authoritarianism, and assaults on free speech. Every once in a while you’d see
+      one of them go “This is the final straw for me! I don’t support Trump anymore!”
+      But then their disdain for Democrats would pull them right back into the fold
+      and they’d be toeing the Republican Party line just the same as before. https://x.com/mtracey/status/1967695029662806271
+      And it became clear to me that these people do not actually oppose the terrible
+      abuses they claim to oppose, they just oppose them when the other party is doing
+      them. They don’t oppose assaults on free speech, they just oppose assaults on
+      their own speech. They don’t oppose war, they just oppose wars that they perceive
+      as being started by Democrats. They don’t oppose the unelected power structure
+      which runs the US empire, they just oppose the aspects of that power structure
+      which they perceive as hostile to Trump. And they’ve been demonstrating this even
+      more clearly during Trump’s second term. They’ve defended every single one of
+      their president’s genocidal, warmongering, tyrannical abuses. They stood by him
+      when he deliberately torched the ceasefire with Hamas and the truce with the Houthis
+      and reignited the bloodshed in Gaza and Yemen. They stood by him as he worked
+      to stomp out free speech in the United States with moves intended to silence criticism
+      of Israel. They stood by him when he announced his ethnic cleansing plans for
+      the Gaza Strip. They stood by him when he bombed Iran. They’re standing by him
+      as he expands his warmongering to Venezuela. Whatever authoritarian measures Washington
+      decides to surf on the tide of the Charlie Kirk assassination will surely be complied
+      with too. They’re a bunch of worthless, power-worshipping bootlickers who support
+      everything they claim to oppose. They’re garden variety Republican empire simps
+      posing as populist revolutionaries, just as devoted to the imperial murder machine
+      as the Democrats they despise. Eventually you learn that anyone who aligns themselves
+      with either mainstream party in any way is someone you can just dismiss as a compliant
+      empire stooge. They might say “No no I’m this new special kind of Republican that
+      opposes the war machine and fights for liberty,” or “No no I’m this new special
+      kind of Democrat who opposes the oligarchy and works for peace,” but they’re lying.
+      It’s a play. A performance. They’re just trying to herd people into the two mainstream
+      imperial parties whose entire purpose is to protect and promote the interests
+      of the empire. They’re all part of the swamp, and you cannot use the swamp to
+      drain the swamp. _______________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      he best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image is a screen grab from The Katie Miller Show (Fair Use) .'
+    one_sentence_summary: US Attorney General Pam Bondi attributed the assassination
+      of Charlie Kirk to "hate speech" against conservatives, suggesting that such rhetoric
+      will be prosecuted by the Trump administration, following a podcast discussion
+      on the treatment of conservatives at universities.
+    paragraph_summary: In a recent podcast, U.S. Attorney General Pam Bondi attributed
+      the assassination of conservative activist Charlie Kirk to "hate speech" directed
+      at conservatives, asserting that the Trump administration would prosecute those
+      who engage in such speech. This statement followed comments from Katie Miller,
+      who suggested that universities are complicit in allowing harassment of conservatives,
+      leading to tragic outcomes like Kirk's murder. Bondi condemned antisemitism on
+      college campuses and emphasized the need to differentiate between free speech
+      and hate speech, vowing to target individuals who promote the latter. Meanwhile,
+      Stephen Miller, Katie's husband, propagated unfounded claims of an organized left-wing
+      campaign behind Kirk's murder, promising that the Trump administration would work
+      to dismantle these alleged networks.
+    published: '2025-09-16T03:14:27+00:00'
+  - title: Celebrities Should Have Been Calling Out The Gaza Holocaust This Entire Time
+    url: https://www.caitlinjohnst.one/p/celebrities-should-have-been-calling
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now “Hacks” costar Hannah Einbinder said “Free
+      Palestine” during her acceptance speech for Best Supporting Actress at the Emmys
+      on Sunday. Questioned by the press afterward, Einbinder said she has friends in
+      Gaza, adding, “I feel like it is my obligation as a Jewish person to distinguish
+      Jews from the state of Israel, because our religion and our culture is such an
+      important and longstanding institution that is really separate to this sort of
+      ethnonationalist state.” I’ve followed Einbinder on Instagram for a long time
+      because she’s been one of the few people in Hollywood consistently using their
+      influential voice to oppose this genocide, and it is very good that she said these
+      things. Hopefully we see much more of this. But right now I can’t help thinking
+      about how unforgivable it is that all the other Hollywood celebrities haven’t
+      been using their platforms at these events to call for an end to the Gaza holocaust
+      this entire time. For two years this nightmare has been normalized in the eyes
+      of the public with the assistance of the vast conspiracy of silence between all
+      the people with the largest and most influential voices in our society. ❖ ❖ I’ve
+      been seeing a lot of people talking about how hypocritical it is of Trumpers to
+      be going around trying to get people ostracized or fired for speaking ill of Charlie
+      Kirk after his assassination. One of the most boring political observations you
+      can make about Republicans or Democrats is that they are “hypocrites” who say
+      one thing and do another. That stops being interesting when you realize their
+      words are never actually saying anything about their real principles and values;
+      they’re always just making empty noises to advance whatever agendas they’re trying
+      to push in a given instance. Of course Republicans pretend to care about free
+      speech and then support the suppression of the speech of their political enemies;
+      their lip service to “free speech” was just something they said to attack the
+      Democrats. Of course Democrats pretended to care about racism and injustice and
+      then threw their support behind a live-streamed genocide; their lip service to
+      justice and equality was only ever empty noise they were making to attack Republicans.
+      The interesting thing about these contradictions isn’t that they show “hypocrisy”,
+      it’s that these people don’t actually stand for anything. It’s that they’re just
+      a bunch of babbling human livestock mindlessly regurgitating whatever noises they’re
+      conditioned to regurgitate in order for their team to win. This unthinking lateral
+      feuding benefits nobody but the powerful. The empire managers are always happy
+      to see a white hot culture war sucking all the oxygen away from the kind of dissident
+      thinking that could give rise to a revolutionary class war. The more Americans
+      are fixated on empty partisan feuding with no real content, the less inclined
+      they will be to do anything real. The more their gaze is fixed horizontally, the
+      less likely they are to look up at those who are pulling their strings. ❖ When
+      rightists talk about people who “celebrated” Charlie Kirk’s death they’re talking
+      about literally anyone who didn’t give him the respect and reverence they feel
+      he was due. For days they’ve been falsely claiming I celebrated and cheered his
+      assassination because I didn’t act like Jesus Himself had been shot. Go ahead
+      and search through my articles. Search my tweets. You’ll find me saying he was
+      a genocide apologist, you’ll see me saying his life wasn’t worth more than the
+      lives of the people being murdered in Gaza as we speak, you’ll see me calling
+      him a GOP swamp creature, you’ll see me calling rightists a bunch of mindless
+      NPCs for uncritically swallowing every narrative they’ve been fed about this thing,
+      but you won’t find me celebrating, expressing joy at his death, mocking or making
+      jokes about his death, justifying his death, or saying he deserved to die. They’re
+      just lying and claiming people celebrated his death whose only real offense was
+      declining to participate in the efforts to posthumously beatify this asshole and
+      pretend he was a wonderful, saintly person. ❖ “Don’t criticize the behavior of
+      a dead political operative” is not a legitimate position to have. Grow the fuck
+      up. ______________ Caitlin’s Newsletter is a reader-supported publication. To
+      receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image is a screen grab from Television Academy (Fair Use) .'
+    one_sentence_summary: Hannah Einbinder used her Emmy acceptance speech to advocate
+      for Palestine and distinguish Jewish identity from the Israeli state, highlighting
+      a lack of similar activism among other Hollywood celebrities.
+    paragraph_summary: During her acceptance speech for Best Supporting Actress at the
+      Emmys, "Hacks" star Hannah Einbinder expressed her support for Palestine, stating,
+      "Free Palestine," and emphasized her obligation as a Jewish person to differentiate
+      between Jews and the state of Israel. She highlighted her personal connections
+      to Gaza and criticized the silence of other Hollywood celebrities regarding the
+      ongoing violence, which she views as a genocide. The article reflects on the broader
+      issue of hypocrisy in political discourse, particularly among Republicans and
+      Democrats, suggesting that their statements often serve to advance specific agendas
+      rather than reflect genuine principles.
+    published: '2025-09-15T13:00:36+00:00'
+  - title: Celebrities Should Have Been Calling Out The Gaza Holocaust This Entire Time
+    url: https://www.caitlinjohnst.one/p/celebrities-should-have-been-calling
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now “Hacks” costar Hannah Einbinder said “Free
+      Palestine” during her acceptance speech for Best Supporting Actress at the Emmys
+      on Sunday. Questioned by the press afterward, Einbinder said she has friends in
+      Gaza, adding, “I feel like it is my obligation as a Jewish person to distinguish
+      Jews from the state of Israel, because our religion and our culture is such an
+      important and longstanding institution that is really separate to this sort of
+      ethnonationalist state.” I’ve followed Einbinder on Instagram for a long time
+      because she’s been one of the few people in Hollywood consistently using their
+      influential voice to oppose this genocide, and it is very good that she said these
+      things. Hopefully we see much more of this. But right now I can’t help thinking
+      about how unforgivable it is that all the other Hollywood celebrities haven’t
+      been using their platforms at these events to call for an end to the Gaza holocaust
+      this entire time. For two years this nightmare has been normalized in the eyes
+      of the public with the assistance of the vast conspiracy of silence between all
+      the people with the largest and most influential voices in our society. ❖ ❖ I’ve
+      been seeing a lot of people talking about how hypocritical it is of Trumpers to
+      be going around trying to get people ostracized or fired for speaking ill of Charlie
+      Kirk after his assassination. One of the most boring political observations you
+      can make about Republicans or Democrats is that they are “hypocrites” who say
+      one thing and do another. That stops being interesting when you realize their
+      words are never actually saying anything about their real principles and values;
+      they’re always just making empty noises to advance whatever agendas they’re trying
+      to push in a given instance. Of course Republicans pretend to care about free
+      speech and then support the suppression of the speech of their political enemies;
+      their lip service to “free speech” was just something they said to attack the
+      Democrats. Of course Democrats pretended to care about racism and injustice and
+      then threw their support behind a live-streamed genocide; their lip service to
+      justice and equality was only ever empty noise they were making to attack Republicans.
+      The interesting thing about these contradictions isn’t that they show “hypocrisy”,
+      it’s that these people don’t actually stand for anything. It’s that they’re just
+      a bunch of babbling human livestock mindlessly regurgitating whatever noises they’re
+      conditioned to regurgitate in order for their team to win. This unthinking lateral
+      feuding benefits nobody but the powerful. The empire managers are always happy
+      to see a white hot culture war sucking all the oxygen away from the kind of dissident
+      thinking that could give rise to a revolutionary class war. The more Americans
+      are fixated on empty partisan feuding with no real content, the less inclined
+      they will be to do anything real. The more their gaze is fixed horizontally, the
+      less likely they are to look up at those who are pulling their strings. ❖ When
+      rightists talk about people who “celebrated” Charlie Kirk’s death they’re talking
+      about literally anyone who didn’t give him the respect and reverence they feel
+      he was due. For days they’ve been falsely claiming I celebrated and cheered his
+      assassination because I didn’t act like Jesus Himself had been shot. Go ahead
+      and search through my articles. Search my tweets. You’ll find me saying he was
+      a genocide apologist, you’ll see me saying his life wasn’t worth more than the
+      lives of the people being murdered in Gaza as we speak, you’ll see me calling
+      him a GOP swamp creature, you’ll see me calling rightists a bunch of mindless
+      NPCs for uncritically swallowing every narrative they’ve been fed about this thing,
+      but you won’t find me celebrating, expressing joy at his death, mocking or making
+      jokes about his death, justifying his death, or saying he deserved to die. They’re
+      just lying and claiming people celebrated his death whose only real offense was
+      declining to participate in the efforts to posthumously beatify this asshole and
+      pretend he was a wonderful, saintly person. ❖ “Don’t criticize the behavior of
+      a dead political operative” is not a legitimate position to have. Grow the fuck
+      up. ______________ Caitlin’s Newsletter is a reader-supported publication. To
+      receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image is a screen grab from Television Academy (Fair Use) .'
+    one_sentence_summary: Hannah Einbinder used her Emmy acceptance speech to advocate
+      for Palestine and distinguish Jewish identity from the Israeli state, highlighting
+      a lack of similar activism among other Hollywood celebrities.
+    paragraph_summary: During her acceptance speech for Best Supporting Actress at the
+      Emmys, "Hacks" star Hannah Einbinder expressed her support for Palestine, stating,
+      "Free Palestine," and emphasized her obligation as a Jewish person to differentiate
+      between Jews and the state of Israel. She highlighted her personal connections
+      to Gaza and criticized the silence of other Hollywood celebrities regarding the
+      ongoing violence, which she views as a genocide. The article reflects on the broader
+      issue of hypocrisy in political discourse, particularly among Republicans and
+      Democrats, suggesting that their statements often serve to advance specific agendas
+      rather than reflect genuine principles.
+    published: '2025-09-15T13:00:36+00:00'
+  - title: Trump Promotes A “Charlie Kirk Act” To Establish A Ministry Of Truth
+    url: https://www.caitlinjohnst.one/p/trump-promotes-a-charlie-kirk-act
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s probably worth flagging the fact that the president of the United States
+      is promoting the establishment of a Ministry of Truth to restrict speech in a
+      suggested law called the “Charlie Kirk Act”. President Trump’s Truth Social account
+      posted a viral video from TikTok on Saturday in which a Trump voter named Elly
+      May blamed the assassination of Republican political operative Charlie Kirk on
+      the press, urging the president to push for legislation which would make “news
+      corporations accountable for lying to the American people and spreading propaganda
+      instead of truth.” May frames the idea as a revisitation of the Smith-Mundt Act,
+      but then goes on to describe authoritarian measures which have nothing to do with
+      Smith-Mundt. “President Trump, as a supporter who voted for you 3 times, I am
+      hoping and praying that you will revisit what Barack Obama and Joe Biden got rid
+      of back in 2013, which is the Smith-Mundt Act, which held news corporations accountable
+      for lying to the American people and spreading propaganda instead of truth,” May
+      says. “I think instead of bringing it back as a Smith-Mundt Act, you name it the
+      Charlie Kirk Act, make it a law, and you make it damn near impossible for these
+      people to continue to lie to the American public, which has brought chaos, hatred,
+      division, and anarchy all across this country. Fines out their ass which will
+      damn near bankrupt their companies should they lie to the American people ever
+      again.” “Because of their constant lies, a man lost his life, because of the constant
+      hateful rhetoric of calling him a fascist, and a Nazi, and a white supremacist,
+      and a bigot,” May said. “I think this would be a great legacy for him to have
+      a law named after him to force journalists to finally start telling the truth
+      and having the integrity that they have lacked for over a decade.” “We are on
+      a dangerous path right now with the constant lies and the propaganda,” May says.
+      “And that doesn’t end just at news journalists. It needs to go to content creators
+      who consistently spread lies and propaganda and half-truths across the internet.
+      This needs to end, and people need to start being held accountable for baseless
+      claims over absolute abysmal things.” “Get this in front of Congress, get this
+      passed as a law, and start holding these news corporations — be they right, left
+      or center — accountable for their behavior,” May concludes. May has been promoting
+      a Change dot org petition to “Enact the Charlie Kirk Act to Restore Media Accountability,”
+      which as of this writing has tens of thousands of signatures. “This amended act
+      will hold media outlets, radio stations, educators, and content creators accountable
+      for the false narratives and erroneous information they spread deliberately or
+      irresponsibly,” the petition reads, proposing heavy fines for those deemed to
+      be in violation. A couple of issues with this. Firstly, the Smith-Mundt Act had
+      nothing to do with holding “news corporations accountable for lying to the American
+      people”; it was a Cold War-era law which prohibited official US government propaganda
+      created by institutions like the State Department and the USAGM from being disseminated
+      domestically. This law was controversially revised under the Smith-Mundt Modernization
+      Act of 2012 in the name of combatting Al Qaeda propaganda campaigns in the United
+      States. Returning Smith-Mundt to its original iteration would be a fine idea.
+      American right wingers tend to make a much bigger deal about the changes made
+      under the Obama administration than is actually warranted — anyone who remembers
+      the lead-up to the Iraq invasion knows the US government had no trouble getting
+      immensely consequential propaganda circulating throughout the American press prior
+      to 2013. But anything that inhibits the US government’s ability to disseminate
+      propaganda to Americans might be somewhat helpful, and couldn’t hurt. But that
+      isn’t what this “Charlie Kirk Act” push is advocating. Smith-Mundt placed restrictions
+      on what the US government is allowed to do with regard to propaganda, while the
+      proposed “Charlie Kirk Act” would give the US government sweeping new powers to
+      decide what does and does not constitute propaganda and untruth and administer
+      penalties accordingly. One limits the US government’s ability to manipulate public
+      information, while the other explicitly expands it. Nobody anywhere is claiming
+      that propaganda generated by the US State Department or USAGM projects like Voice
+      of America got Charlie Kirk assassinated by calling him a Nazi; they’re talking
+      about creating a new law to stomp out the free speech of “media outlets, radio
+      stations, educators, and content creators.” https://x.com/caitoz/status/1967070398610370909
+      The other issue is of course that giving the government the authority to penalize
+      propaganda and lies means giving the government the authority to determine what
+      constitutes propaganda and lies. They could decide it’s a lie to say Israel is
+      committing genocide in Gaza, for example, or that it’s propaganda to say the US
+      shouldn’t be waging a proxy war in Ukraine. The “Charlie Kirk Act” is being pushed
+      in the name of fighting propaganda, but it would actually be giving the US government
+      unprecedented authority over what Americans are permitted to say on any platform.
+      This could of course turn out to be nothing and fizzle right away, but when the
+      president of the United States starts pushing for the establishment of a Ministry
+      of Truth to determine what Americans are allowed to say, I think that’s worth
+      drawing attention to. I’m just amazed at the virality of this whole thing. The
+      American right’s frenzied emotional hysteria about the murder of Charlie Kirk
+      has them promoting an initiative that is not meaningfully different from the Ministry
+      of Truth proposed under the Biden administration’s “Disinformation Governance
+      Board” , which was aborted after massive public outcry from the right. And that
+      was just three years ago. I’ve said it many times before and I’ll surely say it
+      many times again: when everyone’s emotions are running hot, that’s when it’s most
+      important to be intensely skeptical of everything your government does. We learned
+      this lesson after 9/11, we were reminded again after October 7, and we may very
+      well be getting another lesson with the killing of Charlie Kirk. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via The White House .'
+    one_sentence_summary: President Trump is being urged by a supporter to establish
+      a "Ministry of Truth" through the proposed "Charlie Kirk Act" to hold news corporations
+      accountable for misinformation, reflecting a call for authoritarian measures reminiscent
+      of the Smith-Mundt Act.
+    paragraph_summary: The article discusses a controversial proposal by President Trump,
+      promoted through his Truth Social account, to establish a "Ministry of Truth"
+      under a suggested law called the "Charlie Kirk Act." This idea was sparked by
+      a viral TikTok video featuring a Trump supporter, Elly May, who blamed the assassination
+      of Republican operative Charlie Kirk on the media's alleged dishonesty. May advocates
+      for legislation that would hold news corporations accountable for misinformation,
+      suggesting a revival of the Smith-Mundt Act but with more authoritarian measures.
+      She argues that such a law would impose severe penalties on media outlets for
+      lying, claiming that the media's false narratives have contributed to societal
+      chaos and division. The proposal raises concerns about free speech and the implications
+      of government regulation of the press.
+    published: '2025-09-14T11:08:32+00:00'
+  - title: Trump Promotes A “Charlie Kirk Act” To Establish A Ministry Of Truth
+    url: https://www.caitlinjohnst.one/p/trump-promotes-a-charlie-kirk-act
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s probably worth flagging the fact that the president of the United States
+      is promoting the establishment of a Ministry of Truth to restrict speech in a
+      suggested law called the “Charlie Kirk Act”. President Trump’s Truth Social account
+      posted a viral video from TikTok on Saturday in which a Trump voter named Elly
+      May blamed the assassination of Republican political operative Charlie Kirk on
+      the press, urging the president to push for legislation which would make “news
+      corporations accountable for lying to the American people and spreading propaganda
+      instead of truth.” May frames the idea as a revisitation of the Smith-Mundt Act,
+      but then goes on to describe authoritarian measures which have nothing to do with
+      Smith-Mundt. “President Trump, as a supporter who voted for you 3 times, I am
+      hoping and praying that you will revisit what Barack Obama and Joe Biden got rid
+      of back in 2013, which is the Smith-Mundt Act, which held news corporations accountable
+      for lying to the American people and spreading propaganda instead of truth,” May
+      says. “I think instead of bringing it back as a Smith-Mundt Act, you name it the
+      Charlie Kirk Act, make it a law, and you make it damn near impossible for these
+      people to continue to lie to the American public, which has brought chaos, hatred,
+      division, and anarchy all across this country. Fines out their ass which will
+      damn near bankrupt their companies should they lie to the American people ever
+      again.” “Because of their constant lies, a man lost his life, because of the constant
+      hateful rhetoric of calling him a fascist, and a Nazi, and a white supremacist,
+      and a bigot,” May said. “I think this would be a great legacy for him to have
+      a law named after him to force journalists to finally start telling the truth
+      and having the integrity that they have lacked for over a decade.” “We are on
+      a dangerous path right now with the constant lies and the propaganda,” May says.
+      “And that doesn’t end just at news journalists. It needs to go to content creators
+      who consistently spread lies and propaganda and half-truths across the internet.
+      This needs to end, and people need to start being held accountable for baseless
+      claims over absolute abysmal things.” “Get this in front of Congress, get this
+      passed as a law, and start holding these news corporations — be they right, left
+      or center — accountable for their behavior,” May concludes. May has been promoting
+      a Change dot org petition to “Enact the Charlie Kirk Act to Restore Media Accountability,”
+      which as of this writing has tens of thousands of signatures. “This amended act
+      will hold media outlets, radio stations, educators, and content creators accountable
+      for the false narratives and erroneous information they spread deliberately or
+      irresponsibly,” the petition reads, proposing heavy fines for those deemed to
+      be in violation. A couple of issues with this. Firstly, the Smith-Mundt Act had
+      nothing to do with holding “news corporations accountable for lying to the American
+      people”; it was a Cold War-era law which prohibited official US government propaganda
+      created by institutions like the State Department and the USAGM from being disseminated
+      domestically. This law was controversially revised under the Smith-Mundt Modernization
+      Act of 2012 in the name of combatting Al Qaeda propaganda campaigns in the United
+      States. Returning Smith-Mundt to its original iteration would be a fine idea.
+      American right wingers tend to make a much bigger deal about the changes made
+      under the Obama administration than is actually warranted — anyone who remembers
+      the lead-up to the Iraq invasion knows the US government had no trouble getting
+      immensely consequential propaganda circulating throughout the American press prior
+      to 2013. But anything that inhibits the US government’s ability to disseminate
+      propaganda to Americans might be somewhat helpful, and couldn’t hurt. But that
+      isn’t what this “Charlie Kirk Act” push is advocating. Smith-Mundt placed restrictions
+      on what the US government is allowed to do with regard to propaganda, while the
+      proposed “Charlie Kirk Act” would give the US government sweeping new powers to
+      decide what does and does not constitute propaganda and untruth and administer
+      penalties accordingly. One limits the US government’s ability to manipulate public
+      information, while the other explicitly expands it. Nobody anywhere is claiming
+      that propaganda generated by the US State Department or USAGM projects like Voice
+      of America got Charlie Kirk assassinated by calling him a Nazi; they’re talking
+      about creating a new law to stomp out the free speech of “media outlets, radio
+      stations, educators, and content creators.” https://x.com/caitoz/status/1967070398610370909
+      The other issue is of course that giving the government the authority to penalize
+      propaganda and lies means giving the government the authority to determine what
+      constitutes propaganda and lies. They could decide it’s a lie to say Israel is
+      committing genocide in Gaza, for example, or that it’s propaganda to say the US
+      shouldn’t be waging a proxy war in Ukraine. The “Charlie Kirk Act” is being pushed
+      in the name of fighting propaganda, but it would actually be giving the US government
+      unprecedented authority over what Americans are permitted to say on any platform.
+      This could of course turn out to be nothing and fizzle right away, but when the
+      president of the United States starts pushing for the establishment of a Ministry
+      of Truth to determine what Americans are allowed to say, I think that’s worth
+      drawing attention to. I’m just amazed at the virality of this whole thing. The
+      American right’s frenzied emotional hysteria about the murder of Charlie Kirk
+      has them promoting an initiative that is not meaningfully different from the Ministry
+      of Truth proposed under the Biden administration’s “Disinformation Governance
+      Board” , which was aborted after massive public outcry from the right. And that
+      was just three years ago. I’ve said it many times before and I’ll surely say it
+      many times again: when everyone’s emotions are running hot, that’s when it’s most
+      important to be intensely skeptical of everything your government does. We learned
+      this lesson after 9/11, we were reminded again after October 7, and we may very
+      well be getting another lesson with the killing of Charlie Kirk. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via The White House .'
+    one_sentence_summary: President Trump is being urged by a supporter to establish
+      a "Ministry of Truth" through the proposed "Charlie Kirk Act" to hold news corporations
+      accountable for misinformation, reflecting a call for authoritarian measures reminiscent
+      of the Smith-Mundt Act.
+    paragraph_summary: The article discusses a controversial proposal by President Trump,
+      promoted through his Truth Social account, to establish a "Ministry of Truth"
+      under a suggested law called the "Charlie Kirk Act." This idea was sparked by
+      a viral TikTok video featuring a Trump supporter, Elly May, who blamed the assassination
+      of Republican operative Charlie Kirk on the media's alleged dishonesty. May advocates
+      for legislation that would hold news corporations accountable for misinformation,
+      suggesting a revival of the Smith-Mundt Act but with more authoritarian measures.
+      She argues that such a law would impose severe penalties on media outlets for
+      lying, claiming that the media's false narratives have contributed to societal
+      chaos and division. The proposal raises concerns about free speech and the implications
+      of government regulation of the press.
+    published: '2025-09-14T11:08:32+00:00'
+  - title: They Lowered The McDonald's Flag Half-Mast At Guantanamo
+    url: https://www.caitlinjohnst.one/p/they-lowered-the-mcdonalds-flag-half
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The McDonald’s flag at Guantanamo Bay was lowered to half-mast in honor of the
+      GOP swamp creature who was assassinated by a sniper the day before 9/11, which
+      I think we can all agree is the most American thing that has ever happened. They’re
+      saying they caught the guy who did it. Some 22 year-old Utah kid with no priors.
+      My social media feeds have been full of people debating whether he was right wing
+      or left wing, or agreeing with each other that he was obviously one or the other
+      depending on their own ideology and how insulated their echo chamber is. I am
+      not young enough or online enough to understand what the hell they’re talking
+      about. It’s all about memes and groyper culture and video game references and
+      furries. Reading the discourse makes me feel older than rocks. https://x.com/lib_crusher/status/1966213359142858765
+      I have no idea how much of what we’re being told about this case is true and how
+      much we are being lied to. All I know is at the moment it all fits very nicely
+      into the pre-existing plans of the powerful. White House lackey Stephen Miller
+      is saying that Charlie Kirk’s assassination means “radical left organizations”
+      need to be targeted and dismantled in the United States, because it’s what Charlie
+      would have wanted. “The last message that Charlie Kirk gave to me before he joined
+      his creator in heaven was he said that we have to dismantle and take on the radical
+      left organizations in this country that are fomenting violence. That was the last
+      message that he sent me before that assassin stole him from all of us. And we
+      are gonna do that under President Trump’s leadership,” Miller told Fox News .
+      Yeah okay. The fascists want to roll out authoritarian measures and crush the
+      left, something they definitely never planned on doing until this past Wednesday.
+      https://x.com/atrupar/status/1966679244454408279 And meanwhile the nightmare in
+      west Asia continues to blaze on with the backing of the empire Kirk spent his
+      life supporting. People in Gaza are still being starved to death and shot while
+      seeking aid and bombed in their homes , with scores of innocents slain in the
+      days since Kirk’s death in the genocide that he had actively facilitated . Former
+      Israeli commander Herzi Halevi has publicly admitted that more than 200,000 Palestinians
+      have been killed or injured since the onslaught began — a number which is surely
+      a massive undercount . Israel killed at least 30 journalists in an attack on a
+      press office in Yemen on Wednesday, because the only thing the Israelis love more
+      than bombing hospitals is assassinating news reporters, and the only thing they
+      hate more than Palestinians is the truth. On Thursday the IDF abducted over a
+      thousand Palestinians at random in the West Bank following an explosion which
+      wounded two Israeli soldiers, marching them through the streets in a public display
+      of humiliation. Benjamin Netanyahu signed off on a major West Bank settlement
+      expansion on Thursday, proclaiming that “there will be no Palestinian state, this
+      place belongs to us.” Israeli Finance Minister Bezalel Smotrich added that the
+      West Bank will soon be annexed, a move the Trump administration has reportedly
+      signed off on . https://x.com/westonpagano/status/1966528461909950905 Anyway,
+      yeah. Things are dark. Sometimes when the world looks dark and scary I like to
+      remind myself that the darkness was probably what pressed humanity to become the
+      clever creature that it is. According to British anthropologist and primatologist
+      Richard Wrangham , the most likely explanation for the explosion in human brain
+      size in our evolutionary history was because our early ancestors started cooking
+      their food with fire . This greatly reduced the amount of energy needed for chewing
+      and digestion, which could then be redirected toward the brain, whose operation
+      consumes a large amount of energy. Why did our ancestors start using fire? What
+      was the initial appeal? It probably wasn’t “I can roast this piece of animal flesh
+      over the flames so my digestive system doesn’t have to work as hard and I can
+      reallocate those calories for other purposes.” It was probably the warmth and
+      the light — things which we wouldn’t have had access to in the night time. Until
+      our ancestors started making fire, the night would have been a terrifying time.
+      Prehistoric predators would have been able to pick them off before they ever saw
+      it coming; they’d have just huddled together surrounded by an infinite stretch
+      of darkness full of sharp teeth and claws until sunrise. They probably started
+      making fires because they were afraid of the dark. If early humans had been a
+      nocturnal animal, this probably wouldn’t have happened. If their eyes had been
+      adapted for night vision, they may never have been incentivized to go through
+      all the hard toil and trial and error that would have gone into learning how to
+      start and maintain a fire. They wouldn’t have been afraid of the dark, so they
+      wouldn’t have started cooking, so their brains wouldn’t have begin to grow, and
+      all the brilliance of our species would never have emerged. All the artistic,
+      scientific and philosophical wonders we have birthed into this world would never
+      have existed. We get to experience all these amazing things, ultimately, because
+      our world used to be dark and scary. Maybe the darkness of these times will press
+      us to make the next adaptations necessary for a further leap forward as a species.
+      ________________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article discusses the lowering of the McDonald's flag
+      at Guantanamo Bay in honor of a GOP figure assassinated before 9/11, while reflecting
+      on the polarized social media discourse surrounding the incident and the complexities
+      of modern online culture.
+    paragraph_summary: The article discusses the recent assassination of a GOP figure,
+      Charlie Kirk, which has sparked intense debate on social media regarding the political
+      affiliations of the alleged assassin, a 22-year-old from Utah. The author expresses
+      confusion over the online discourse dominated by memes and cultural references,
+      feeling out of touch with the younger generation's discussions. They express skepticism
+      about the information being presented, suggesting it aligns conveniently with
+      the agendas of those in power, particularly citing Stephen Miller's comments that
+      frame the assassination as a justification for targeting "radical left organizations."
+      The author critiques the opportunistic response from political figures, implying
+      a premeditated plan to escalate authoritarian measures against the left, while
+      also noting the ongoing turmoil in West Asia.
+    published: '2025-09-13T11:21:48+00:00'
+  - title: They Lowered The McDonald's Flag Half-Mast At Guantanamo
+    url: https://www.caitlinjohnst.one/p/they-lowered-the-mcdonalds-flag-half
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The McDonald’s flag at Guantanamo Bay was lowered to half-mast in honor of the
+      GOP swamp creature who was assassinated by a sniper the day before 9/11, which
+      I think we can all agree is the most American thing that has ever happened. They’re
+      saying they caught the guy who did it. Some 22 year-old Utah kid with no priors.
+      My social media feeds have been full of people debating whether he was right wing
+      or left wing, or agreeing with each other that he was obviously one or the other
+      depending on their own ideology and how insulated their echo chamber is. I am
+      not young enough or online enough to understand what the hell they’re talking
+      about. It’s all about memes and groyper culture and video game references and
+      furries. Reading the discourse makes me feel older than rocks. https://x.com/lib_crusher/status/1966213359142858765
+      I have no idea how much of what we’re being told about this case is true and how
+      much we are being lied to. All I know is at the moment it all fits very nicely
+      into the pre-existing plans of the powerful. White House lackey Stephen Miller
+      is saying that Charlie Kirk’s assassination means “radical left organizations”
+      need to be targeted and dismantled in the United States, because it’s what Charlie
+      would have wanted. “The last message that Charlie Kirk gave to me before he joined
+      his creator in heaven was he said that we have to dismantle and take on the radical
+      left organizations in this country that are fomenting violence. That was the last
+      message that he sent me before that assassin stole him from all of us. And we
+      are gonna do that under President Trump’s leadership,” Miller told Fox News .
+      Yeah okay. The fascists want to roll out authoritarian measures and crush the
+      left, something they definitely never planned on doing until this past Wednesday.
+      https://x.com/atrupar/status/1966679244454408279 And meanwhile the nightmare in
+      west Asia continues to blaze on with the backing of the empire Kirk spent his
+      life supporting. People in Gaza are still being starved to death and shot while
+      seeking aid and bombed in their homes , with scores of innocents slain in the
+      days since Kirk’s death in the genocide that he had actively facilitated . Former
+      Israeli commander Herzi Halevi has publicly admitted that more than 200,000 Palestinians
+      have been killed or injured since the onslaught began — a number which is surely
+      a massive undercount . Israel killed at least 30 journalists in an attack on a
+      press office in Yemen on Wednesday, because the only thing the Israelis love more
+      than bombing hospitals is assassinating news reporters, and the only thing they
+      hate more than Palestinians is the truth. On Thursday the IDF abducted over a
+      thousand Palestinians at random in the West Bank following an explosion which
+      wounded two Israeli soldiers, marching them through the streets in a public display
+      of humiliation. Benjamin Netanyahu signed off on a major West Bank settlement
+      expansion on Thursday, proclaiming that “there will be no Palestinian state, this
+      place belongs to us.” Israeli Finance Minister Bezalel Smotrich added that the
+      West Bank will soon be annexed, a move the Trump administration has reportedly
+      signed off on . https://x.com/westonpagano/status/1966528461909950905 Anyway,
+      yeah. Things are dark. Sometimes when the world looks dark and scary I like to
+      remind myself that the darkness was probably what pressed humanity to become the
+      clever creature that it is. According to British anthropologist and primatologist
+      Richard Wrangham , the most likely explanation for the explosion in human brain
+      size in our evolutionary history was because our early ancestors started cooking
+      their food with fire . This greatly reduced the amount of energy needed for chewing
+      and digestion, which could then be redirected toward the brain, whose operation
+      consumes a large amount of energy. Why did our ancestors start using fire? What
+      was the initial appeal? It probably wasn’t “I can roast this piece of animal flesh
+      over the flames so my digestive system doesn’t have to work as hard and I can
+      reallocate those calories for other purposes.” It was probably the warmth and
+      the light — things which we wouldn’t have had access to in the night time. Until
+      our ancestors started making fire, the night would have been a terrifying time.
+      Prehistoric predators would have been able to pick them off before they ever saw
+      it coming; they’d have just huddled together surrounded by an infinite stretch
+      of darkness full of sharp teeth and claws until sunrise. They probably started
+      making fires because they were afraid of the dark. If early humans had been a
+      nocturnal animal, this probably wouldn’t have happened. If their eyes had been
+      adapted for night vision, they may never have been incentivized to go through
+      all the hard toil and trial and error that would have gone into learning how to
+      start and maintain a fire. They wouldn’t have been afraid of the dark, so they
+      wouldn’t have started cooking, so their brains wouldn’t have begin to grow, and
+      all the brilliance of our species would never have emerged. All the artistic,
+      scientific and philosophical wonders we have birthed into this world would never
+      have existed. We get to experience all these amazing things, ultimately, because
+      our world used to be dark and scary. Maybe the darkness of these times will press
+      us to make the next adaptations necessary for a further leap forward as a species.
+      ________________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article discusses the lowering of the McDonald's flag
+      at Guantanamo Bay in honor of a GOP figure assassinated before 9/11, while reflecting
+      on the polarized social media discourse surrounding the incident and the complexities
+      of modern online culture.
+    paragraph_summary: The article discusses the recent assassination of a GOP figure,
+      Charlie Kirk, which has sparked intense debate on social media regarding the political
+      affiliations of the alleged assassin, a 22-year-old from Utah. The author expresses
+      confusion over the online discourse dominated by memes and cultural references,
+      feeling out of touch with the younger generation's discussions. They express skepticism
+      about the information being presented, suggesting it aligns conveniently with
+      the agendas of those in power, particularly citing Stephen Miller's comments that
+      frame the assassination as a justification for targeting "radical left organizations."
+      The author critiques the opportunistic response from political figures, implying
+      a premeditated plan to escalate authoritarian measures against the left, while
+      also noting the ongoing turmoil in West Asia.
+    published: '2025-09-13T11:21:48+00:00'
+  - title: ALL Mainstream American Political Pundits Are Evil Scumbags
+    url: https://www.caitlinjohnst.one/p/all-mainstream-american-political
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now Hi I’m an anti-establishment right winger.
+      I’m enraged about the murder of a mainstream Republican pundit who worshipped
+      the president and I demand sweeping authoritarian measures to stomp out the political
+      left. I believe whatever the TV says about this. I’m anti-establishment. ❖ To
+      be clear I would be just as unmoved if a mainstream Democrat-aligned manipulator
+      like Bill Maher or Joe Scarborough was killed, and I would be just as disdainful
+      of their memory. They are exactly the same to me. I had no strong feelings about
+      Charlie Kirk especially; to me he was just one of the empire’s countless flying
+      monkeys, and his role will be easily filled by the next flying monkey in line.
+      My disdain toward him was of the ordinary blanket variety that I hold toward all
+      the lackeys of the most tyrannical and murderous power structure on our planet,
+      regardless of their political affiliation. All mainstream Republican pundits,
+      politicians and political operatives are evil pieces of shit. All mainstream Democratic
+      pundits, politicians and political operatives are evil pieces of shit. You cannot
+      become a high-level pundit, politician or political operative in either mainstream
+      party without being an evil piece of shit. It’s part of the job description, because
+      the job requires you to make excuses for the abuses of a globe-spanning empire
+      which is fueled by human blood. The Republicans are not your friend. The Democrats
+      are not your friend. If you have any special attachment to any mainstream American
+      pundit, politician or political operative, then you have a special attachment
+      to an evil piece of shit. That includes Charlie Kirk, and it includes all major
+      Republican pundits and politicians, and it includes all major Democrat pundits
+      and politicians. There are no exceptions. That’s just the way the empire is structured.
+      ❖ Rightists have been aggressively pushing the narrative that the weapon used
+      to assassinate Charlie Kirk contained ammunition which had been engraved with
+      “transgender and anti-fascist ideology”, based on an early internal police bulletin
+      whose contents made its way to the press via right wing pundit Steven Crowder
+      . Yeah, sure. Hey you guys they found “I am trans” written on the bullets and
+      “I am Antifa” was also written on the bullets and also “Nothing can stop us radical
+      leftists but a huge Palantir surveillance network” and also “Killer police robots
+      and murder drones would thwart our plans.” Come on. The claim fizzled almost as
+      soon as it surfaced, with one law enforcement official telling The New York Times
+      that “the report had not been verified by A.T.F. analysts, did not match other
+      summaries of the evidence and might turn out to have been misread or misinterpreted.”
+      CNN was then told by two law enforcement sources that “agents quickly ran an initial
+      search on one of the markings, including a series of arrows, which analysts initially
+      interpreted to be a connection to the transgender community. That information
+      remains unverified and is still being investigated.” So police found a “series
+      of arrows” on some ammo, thought that maybe the arrows have something to do with
+      trans activism, and then someone fed this completely unsubstantiated hunch to
+      Steven Crowder, further inflaming the insane, shrieking vitriol that has been
+      consuming the American political right . ❖ A few days before Global Sumud Flotilla
+      activists began reporting that drones were repeatedly dropping incendiary firebombs
+      on their aid boats headed for Gaza, TRT World came out with a report saying Israel
+      has been using quadcopter drones to drop incendiary firebombs in Gaza. Social
+      media users have been posting footage of these drone attacks in Gaza alongside
+      the video footage of the flotilla attacks, and they look the same. Israel is droning
+      activist boats for trying to bring formula to starving babies and Israelis are
+      still like “the world hates us because of our religion!” ❖ Jerry Seinfeld said
+      during a speech at Duke University on Tuesday that he believes that members of
+      the Ku Klux Klan are morally superior to Palestine supporters, because they are
+      more honest about their hatred of Jewish people. “Free Palestine is, to me, just — you’re
+      free to say you don’t like Jews. Just say you don’t like Jews,” Seinfeld said.
+      “By saying Free Palestine, you’re not admitting what you really think,” he continued.
+      “So it’s actually — compared to the Ku Klux Klan, I’m actually thinking the Klan
+      is actually a little better here because they can come right out and say, ‘We
+      don’t like Blacks, we don’t like Jews.’ Okay that’s honest.” This is such a perfect
+      example of the insanity of the Zionist ideology. They’re like, “The KKK is fine,
+      it’s the ones who never voice hatred of Jews that I worry about. The ones whose
+      Jew hatred is completely invisible and has no actual manifestations in the physical
+      world.” Israel supporters make alliances with the far right while attacking the
+      left and alienating the centrists, and completely ignore all the actual white
+      supremacist groups who want to kill Jews while shrieking about a fictional epidemic
+      of Jew hatred among people who are protesting a genocide. You never see them yelling
+      at Klansmen and neo-Nazis, you only ever see them yelling at people who think
+      genocide is bad. This is because Israel is a far right racist genocidal country,
+      and its most natural allies are therefore racist right wingers who think genocide
+      is cool. All the world’s worst people cozying up together in one big happy genocidal
+      cuddle party. ❖ The other day I tweeted about an IDF sniper who had boasted about
+      murdering unarmed civilians just for the hell of it, and a commenter said, “If
+      that is a real quote from the real sniper, it’s bad but I don’t think it is real
+      because it is so obviously bad.” This is a common error when learning about the
+      abuses of Israel. So much Israeli depravity hides behind the assumption that nobody
+      could possibly be that evil. And then you dig a little deeper and it turns out,
+      oh shit, yes they absolutely are. It really makes you reassess things. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Gage Skidmore (CC BY-SA 4.0)'
+    one_sentence_summary: The author expresses a cynical view on the political landscape,
+      highlighting their indifference to the murder of a Republican pundit while critiquing
+      both mainstream political factions as equally complicit in a tyrannical system.
+    paragraph_summary: In the article "Notes From The Edge Of The Narrative Matrix,"
+      the author expresses a vehement disdain for mainstream political figures from
+      both the Republican and Democratic parties, viewing them all as complicit in the
+      oppressive structures of power that characterize the current political landscape.
+      The author reflects on the murder of a Republican pundit, Charlie Kirk, stating
+      that they feel no particular sympathy for him or any other mainstream political
+      figure, as they believe that all such individuals, regardless of their party affiliation,
+      are fundamentally corrupt and serve an imperial agenda that perpetuates violence
+      and injustice. The piece critiques the notion of political loyalty and emphasizes
+      that any attachment to mainstream pundits or politicians is misguided, as they
+      are all part of a system that the author deems inherently evil.
+    published: '2025-09-12T02:36:52+00:00'
+  - title: ALL Mainstream American Political Pundits Are Evil Scumbags
+    url: https://www.caitlinjohnst.one/p/all-mainstream-american-political
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now Hi I’m an anti-establishment right winger.
+      I’m enraged about the murder of a mainstream Republican pundit who worshipped
+      the president and I demand sweeping authoritarian measures to stomp out the political
+      left. I believe whatever the TV says about this. I’m anti-establishment. ❖ To
+      be clear I would be just as unmoved if a mainstream Democrat-aligned manipulator
+      like Bill Maher or Joe Scarborough was killed, and I would be just as disdainful
+      of their memory. They are exactly the same to me. I had no strong feelings about
+      Charlie Kirk especially; to me he was just one of the empire’s countless flying
+      monkeys, and his role will be easily filled by the next flying monkey in line.
+      My disdain toward him was of the ordinary blanket variety that I hold toward all
+      the lackeys of the most tyrannical and murderous power structure on our planet,
+      regardless of their political affiliation. All mainstream Republican pundits,
+      politicians and political operatives are evil pieces of shit. All mainstream Democratic
+      pundits, politicians and political operatives are evil pieces of shit. You cannot
+      become a high-level pundit, politician or political operative in either mainstream
+      party without being an evil piece of shit. It’s part of the job description, because
+      the job requires you to make excuses for the abuses of a globe-spanning empire
+      which is fueled by human blood. The Republicans are not your friend. The Democrats
+      are not your friend. If you have any special attachment to any mainstream American
+      pundit, politician or political operative, then you have a special attachment
+      to an evil piece of shit. That includes Charlie Kirk, and it includes all major
+      Republican pundits and politicians, and it includes all major Democrat pundits
+      and politicians. There are no exceptions. That’s just the way the empire is structured.
+      ❖ Rightists have been aggressively pushing the narrative that the weapon used
+      to assassinate Charlie Kirk contained ammunition which had been engraved with
+      “transgender and anti-fascist ideology”, based on an early internal police bulletin
+      whose contents made its way to the press via right wing pundit Steven Crowder
+      . Yeah, sure. Hey you guys they found “I am trans” written on the bullets and
+      “I am Antifa” was also written on the bullets and also “Nothing can stop us radical
+      leftists but a huge Palantir surveillance network” and also “Killer police robots
+      and murder drones would thwart our plans.” Come on. The claim fizzled almost as
+      soon as it surfaced, with one law enforcement official telling The New York Times
+      that “the report had not been verified by A.T.F. analysts, did not match other
+      summaries of the evidence and might turn out to have been misread or misinterpreted.”
+      CNN was then told by two law enforcement sources that “agents quickly ran an initial
+      search on one of the markings, including a series of arrows, which analysts initially
+      interpreted to be a connection to the transgender community. That information
+      remains unverified and is still being investigated.” So police found a “series
+      of arrows” on some ammo, thought that maybe the arrows have something to do with
+      trans activism, and then someone fed this completely unsubstantiated hunch to
+      Steven Crowder, further inflaming the insane, shrieking vitriol that has been
+      consuming the American political right . ❖ A few days before Global Sumud Flotilla
+      activists began reporting that drones were repeatedly dropping incendiary firebombs
+      on their aid boats headed for Gaza, TRT World came out with a report saying Israel
+      has been using quadcopter drones to drop incendiary firebombs in Gaza. Social
+      media users have been posting footage of these drone attacks in Gaza alongside
+      the video footage of the flotilla attacks, and they look the same. Israel is droning
+      activist boats for trying to bring formula to starving babies and Israelis are
+      still like “the world hates us because of our religion!” ❖ Jerry Seinfeld said
+      during a speech at Duke University on Tuesday that he believes that members of
+      the Ku Klux Klan are morally superior to Palestine supporters, because they are
+      more honest about their hatred of Jewish people. “Free Palestine is, to me, just — you’re
+      free to say you don’t like Jews. Just say you don’t like Jews,” Seinfeld said.
+      “By saying Free Palestine, you’re not admitting what you really think,” he continued.
+      “So it’s actually — compared to the Ku Klux Klan, I’m actually thinking the Klan
+      is actually a little better here because they can come right out and say, ‘We
+      don’t like Blacks, we don’t like Jews.’ Okay that’s honest.” This is such a perfect
+      example of the insanity of the Zionist ideology. They’re like, “The KKK is fine,
+      it’s the ones who never voice hatred of Jews that I worry about. The ones whose
+      Jew hatred is completely invisible and has no actual manifestations in the physical
+      world.” Israel supporters make alliances with the far right while attacking the
+      left and alienating the centrists, and completely ignore all the actual white
+      supremacist groups who want to kill Jews while shrieking about a fictional epidemic
+      of Jew hatred among people who are protesting a genocide. You never see them yelling
+      at Klansmen and neo-Nazis, you only ever see them yelling at people who think
+      genocide is bad. This is because Israel is a far right racist genocidal country,
+      and its most natural allies are therefore racist right wingers who think genocide
+      is cool. All the world’s worst people cozying up together in one big happy genocidal
+      cuddle party. ❖ The other day I tweeted about an IDF sniper who had boasted about
+      murdering unarmed civilians just for the hell of it, and a commenter said, “If
+      that is a real quote from the real sniper, it’s bad but I don’t think it is real
+      because it is so obviously bad.” This is a common error when learning about the
+      abuses of Israel. So much Israeli depravity hides behind the assumption that nobody
+      could possibly be that evil. And then you dig a little deeper and it turns out,
+      oh shit, yes they absolutely are. It really makes you reassess things. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Gage Skidmore (CC BY-SA 4.0)'
+    one_sentence_summary: The author expresses a cynical view on the political landscape,
+      highlighting their indifference to the murder of a Republican pundit while critiquing
+      both mainstream political factions as equally complicit in a tyrannical system.
+    paragraph_summary: In the article "Notes From The Edge Of The Narrative Matrix,"
+      the author expresses a vehement disdain for mainstream political figures from
+      both the Republican and Democratic parties, viewing them all as complicit in the
+      oppressive structures of power that characterize the current political landscape.
+      The author reflects on the murder of a Republican pundit, Charlie Kirk, stating
+      that they feel no particular sympathy for him or any other mainstream political
+      figure, as they believe that all such individuals, regardless of their party affiliation,
+      are fundamentally corrupt and serve an imperial agenda that perpetuates violence
+      and injustice. The piece critiques the notion of political loyalty and emphasizes
+      that any attachment to mainstream pundits or politicians is misguided, as they
+      are all part of a system that the author deems inherently evil.
+    published: '2025-09-12T02:36:52+00:00'
+  - title: Thoughts On The Assassination Of Charlie Kirk
+    url: https://www.caitlinjohnst.one/p/thoughts-on-the-assassination-of
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      American rightists have been losing their fucking minds about the Charlie Kirk
+      assassination , bawling their eyes out and babbling about “civil war” and how
+      ready they are to use any amount of violence to crush the “radical left”. The
+      president himself suggested that Kirk was a victim of “radical left political
+      violence” and said he’ll be taking action against groups and individuals who he
+      views as responsible for it. “My Administration will find each and every one of
+      those who contributed to this atrocity and to other political violence, including
+      the organizations that fund it and support it,” Trump said in a speech after the
+      assassination, adding that “radical left political violence has hurt too many
+      innocent people and taken too many lives” and complaining that “those on the radical
+      left have compared wonderful Americans like Charlie to Nazis and the world’s worst
+      mass murderers and criminals.” https://x.com/Byoussef/status/1965981937539100916
+      All this despite the fact that as of this writing there is no evidence whatsoever
+      that Kirk’s killing was motivated by left-wing ideology. The assassin appears
+      to have been able to successfully escape after the killing, so nothing is known
+      about what their motives were. Rightists are braying for civil war and demanding
+      sweeping new authoritarian measures to crush what passes for the political “left”
+      in the United States these days, based on nothing but vibes and feelings. I myself
+      have a hard time believing the narrative that Kirk’s assassin was a blue-haired
+      they/them Antifa ninja who had developed the skills and training necessary to
+      shoot a high-profile individual through the jugular at 200 yards and then execute
+      an elaborate escape plan, and yet chose to use all those abilities to murder some
+      divisive pundit instead of Trump or somebody with real power. That doesn’t make
+      much sense to me. It seems a lot more likely as of this writing that Kirk was
+      assassinated by one of the usual types of sniper assassins — someone whose job
+      is assassinating people, or some weird, fringey right winger (I’m seeing people
+      online say that Kirk was despised by white supremacists). There are all kinds
+      of motives someone can have for assassinating a prominent political operative,
+      and not all of them are ideological or personal. As things stand right now there
+      is no evidence for any of them. https://x.com/charliekirk11/status/1894238401865363474
+      I don’t have much else to say on the subject, other than to tie it back in to
+      the genocide in Gaza. Charlie Kirk was an enthusiastic cheerleader and propagandist
+      for the Gaza holocaust, and the right wingers who’ve been talking about how gruesome
+      they find the video of his assassination are accidentally confessing that they
+      haven’t been watching the footage that’s being produced by the mass atrocity they
+      support. If they had, someone getting shot in the throat wouldn’t feel like such
+      a big deal to them. I saw more shocking things today before my morning coffee.
+      The same day Charlie Kirk was killed, at least 72 Palestinians were killed in
+      the genocide he supported. The Palestinians killed in Gaza on that day collectively
+      mattered at least 72 times more than Charlie Kirk, but his death received many
+      orders of magnitude more attention from the mainstream press and from western
+      political discourse. Westerners do not regard Palestinians as fully human. So
+      on this particular day I would like to express my sincere condolences to the families
+      of everyone in Gaza who’ve been massacred by bombs and bullets every single day
+      for the last two years with the facilitation of the US government and cheered
+      on by wealthy Republican pundits. I don’t believe anything positive will be gained
+      by Charlie Kirk’s death; he was a mediocre man who will be easily replaced by
+      the next mediocre man in the right wing punditry pecking order. But he was also
+      a piece of shit, and I’m not going to pretend otherwise just because he’s dead
+      now. __________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Gage Skidmore (CC BY-SA 2.0)'
+    one_sentence_summary: American rightists, including the president, are reacting
+      with outrage and calls for violence in response to the assassination of Charlie
+      Kirk, blaming "radical left political violence" and vowing to take action against
+      those they hold responsible.
+    paragraph_summary: The article discusses the intense reaction from American rightists
+      following the assassination of Charlie Kirk, with many expressing outrage and
+      calling for civil war against the "radical left." President Trump echoed these
+      sentiments, labeling Kirk a victim of "radical left political violence" and promising
+      to hold accountable those he believes are responsible for such acts. However,
+      the article points out that there is currently no evidence linking Kirk's assassination
+      to left-wing ideology, as the assassin remains unidentified and their motives
+      unknown. The author expresses skepticism about the narrative that the assassin
+      was a politically motivated leftist, suggesting it is more plausible that the
+      motives behind the killing are not politically driven.
+    published: '2025-09-11T13:08:00+00:00'
+  - title: Thoughts On The Assassination Of Charlie Kirk
+    url: https://www.caitlinjohnst.one/p/thoughts-on-the-assassination-of
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      American rightists have been losing their fucking minds about the Charlie Kirk
+      assassination , bawling their eyes out and babbling about “civil war” and how
+      ready they are to use any amount of violence to crush the “radical left”. The
+      president himself suggested that Kirk was a victim of “radical left political
+      violence” and said he’ll be taking action against groups and individuals who he
+      views as responsible for it. “My Administration will find each and every one of
+      those who contributed to this atrocity and to other political violence, including
+      the organizations that fund it and support it,” Trump said in a speech after the
+      assassination, adding that “radical left political violence has hurt too many
+      innocent people and taken too many lives” and complaining that “those on the radical
+      left have compared wonderful Americans like Charlie to Nazis and the world’s worst
+      mass murderers and criminals.” https://x.com/Byoussef/status/1965981937539100916
+      All this despite the fact that as of this writing there is no evidence whatsoever
+      that Kirk’s killing was motivated by left-wing ideology. The assassin appears
+      to have been able to successfully escape after the killing, so nothing is known
+      about what their motives were. Rightists are braying for civil war and demanding
+      sweeping new authoritarian measures to crush what passes for the political “left”
+      in the United States these days, based on nothing but vibes and feelings. I myself
+      have a hard time believing the narrative that Kirk’s assassin was a blue-haired
+      they/them Antifa ninja who had developed the skills and training necessary to
+      shoot a high-profile individual through the jugular at 200 yards and then execute
+      an elaborate escape plan, and yet chose to use all those abilities to murder some
+      divisive pundit instead of Trump or somebody with real power. That doesn’t make
+      much sense to me. It seems a lot more likely as of this writing that Kirk was
+      assassinated by one of the usual types of sniper assassins — someone whose job
+      is assassinating people, or some weird, fringey right winger (I’m seeing people
+      online say that Kirk was despised by white supremacists). There are all kinds
+      of motives someone can have for assassinating a prominent political operative,
+      and not all of them are ideological or personal. As things stand right now there
+      is no evidence for any of them. https://x.com/charliekirk11/status/1894238401865363474
+      I don’t have much else to say on the subject, other than to tie it back in to
+      the genocide in Gaza. Charlie Kirk was an enthusiastic cheerleader and propagandist
+      for the Gaza holocaust, and the right wingers who’ve been talking about how gruesome
+      they find the video of his assassination are accidentally confessing that they
+      haven’t been watching the footage that’s being produced by the mass atrocity they
+      support. If they had, someone getting shot in the throat wouldn’t feel like such
+      a big deal to them. I saw more shocking things today before my morning coffee.
+      The same day Charlie Kirk was killed, at least 72 Palestinians were killed in
+      the genocide he supported. The Palestinians killed in Gaza on that day collectively
+      mattered at least 72 times more than Charlie Kirk, but his death received many
+      orders of magnitude more attention from the mainstream press and from western
+      political discourse. Westerners do not regard Palestinians as fully human. So
+      on this particular day I would like to express my sincere condolences to the families
+      of everyone in Gaza who’ve been massacred by bombs and bullets every single day
+      for the last two years with the facilitation of the US government and cheered
+      on by wealthy Republican pundits. I don’t believe anything positive will be gained
+      by Charlie Kirk’s death; he was a mediocre man who will be easily replaced by
+      the next mediocre man in the right wing punditry pecking order. But he was also
+      a piece of shit, and I’m not going to pretend otherwise just because he’s dead
+      now. __________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Gage Skidmore (CC BY-SA 2.0)'
+    one_sentence_summary: American rightists, including the president, are reacting
+      with outrage and calls for violence in response to the assassination of Charlie
+      Kirk, blaming "radical left political violence" and vowing to take action against
+      those they hold responsible.
+    paragraph_summary: The article discusses the intense reaction from American rightists
+      following the assassination of Charlie Kirk, with many expressing outrage and
+      calling for civil war against the "radical left." President Trump echoed these
+      sentiments, labeling Kirk a victim of "radical left political violence" and promising
+      to hold accountable those he believes are responsible for such acts. However,
+      the article points out that there is currently no evidence linking Kirk's assassination
+      to left-wing ideology, as the assassin remains unidentified and their motives
+      unknown. The author expresses skepticism about the narrative that the assassin
+      was a politically motivated leftist, suggesting it is more plausible that the
+      motives behind the killing are not politically driven.
+    published: '2025-09-11T13:08:00+00:00'
   - title: Some Days There's Just Too Much Israeli Psychopathy To Write About
     url: https://www.caitlinjohnst.one/p/some-days-theres-just-too-much-israeli
     text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now

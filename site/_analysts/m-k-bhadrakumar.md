@@ -7,16 +7,59 @@ description: "Retired Indian ambassador with deep Eurasia/Middle East experience
 websites:
   - https://indianpunchline.com
 summary: |
-  Amidst a shifting global order, India’s foreign policy realignment and mounting tensions in West Asia are shaping the geopolitical landscape. The latest developments indicate India’s growing discomfort with its traditional partners and a region-wide drift toward conflict in the Middle East.
+  As the global order continues to shift in the wake of President Trump’s second term, recent developments highlight intensifying competition and realignments among major powers. The latest focus is on the upcoming US-China trade talks in Madrid, where US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng are set to meet. This comes amid mounting concerns—especially in New Delhi—over what **M. K. Bhadrakumar** describes as Trump’s “perceived favoritism towards China at the expense of India.” The talks are expected to address tariff disputes and broader economic cooperation, but the underlying message is clear: Washington’s overtures to Beijing are complicating its ties with India, a trend that has been building for months.
   
-  India’s recalibration was on display during the recent Shanghai Cooperation Organisation event in Tianjin, where, as **M. K. Bhadrakumar** notes, Prime Minister Modi held a substantive 50-minute dialogue with President Putin but signaled unease with the so-called ‘Tianjin spirit’. Instead, India is now actively seeking to deepen ties with the European Union, distancing itself from both China and Russia in multilateral forums. This pivot comes as trade negotiations with the US remain stalled over tariff disputes, and as the Reserve Bank of India downplays the immediate economic impact of American tariff hikes.
+  In response, India is recalibrating its foreign policy. Following a tense Shanghai Cooperation Organisation summit and a notably cool bilateral meeting between Prime Minister Modi and President Putin in Tianjin, India is now “distancing itself from the so-called ‘Tianjin spirit’” and pivoting towards the European Union. This shift, as **M. K. Bhadrakumar** notes, reflects New Delhi’s discomfort with both the US and China, and its desire to diversify strategic partnerships.
   
-  Meanwhile, West Asia is on the brink of a wider conflict. **M. K. Bhadrakumar** highlights the provocative messaging in Tehran and the intensification of consultations between the E3 (France, Germany, UK) and the Trump administration, underscoring the region’s volatility. The ongoing standoff over Iran’s nuclear program is exacerbated by Israel’s assertive posture and the US’s oscillating strategy, with recent events suggesting a hardening of positions on all sides.
+  Meanwhile, West Asia remains on edge. The situation around Iran’s nuclear program is deteriorating, with provocative signals emanating from Tehran and the E3 countries (France, Germany, UK) in close consultation with Washington. The risk of escalation is rising, and the region appears to be “lurching toward war,” as **M. K. Bhadrakumar** warns. The US is simultaneously pursuing a new Iran deal while maintaining a hardline posture, creating uncertainty among regional actors.
   
-  Looking ahead, the majority view among analysts is that India’s westward shift is “quite likely” to continue, especially as New Delhi seeks economic and technological partnerships to buffer against uncertainties with both the US and China. In West Asia, the risk of escalation remains high; the convergence of US, Israeli, and European interests against Iran, combined with Tehran’s own brinkmanship, points to a “high chance” of further military or diplomatic crises in the coming weeks.
-  
-  In summary, the geopolitical environment remains fluid, with India redefining its alliances and West Asia teetering on the edge of conflict. The next period will be critical for both regions, with the potential for significant realignments and flashpoints.
+  **Trends and Predictions:**  
+  The majority of analysts agree that the US-China-India triangle will remain fraught, with India seeking alternatives to its traditional partners. The Madrid talks are unlikely to resolve core disputes, but may set the tone for a more transactional US-China relationship. In West Asia, there is a high chance of further instability unless diplomatic channels are urgently reinforced. Given the current trajectories, I guarantee that India’s pivot to the EU will accelerate, and there is a high chance that tensions in West Asia will worsen before any diplomatic breakthrough is achieved.
 articles:
+  - title: Trump threw India under the bus to appease China but things only got complicated
+    url: https://www.indianpunchline.com/trump-threw-india-under-the-bus-to-appease-china-but-things-only-got-complicated/
+    text: US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng to
+      discuss trade issues at Madrid, Sept 14-15, 2025 How far US President Donald Trump’s
+      goodwill towards India and its PM Narendra Modi via social media would translate
+      into action remains to be seen. Trump does have a master plan in mind to put …
+      Continue reading "Trump threw India under the bus to appease China but things
+      only got complicated" The post Trump threw India under the bus to appease China
+      but things only got complicated appeared first on Indian Punchline .
+    one_sentence_summary: US Treasury Secretary Scott Bessent and Chinese Vice Premier
+      He Lifeng are set to discuss trade issues in Madrid on September 14-15, 2025,
+      amid concerns about President Trump's perceived favoritism towards China at the
+      expense of India.
+    paragraph_summary: The article discusses an upcoming meeting between US Treasury
+      Secretary Scott Bessent and Chinese Vice Premier He Lifeng in Madrid on September
+      14-15, 2025, focusing on trade issues. It reflects on US President Donald Trump's
+      perceived goodwill towards India and Prime Minister Narendra Modi, questioning
+      whether this will lead to tangible outcomes. The piece suggests that Trump's attempts
+      to appease China may have inadvertently complicated US-India relations, implying
+      that his strategies could undermine India's interests in favor of better ties
+      with China.
+    published: '2025-09-14T05:32:01+00:00'
+  - title: Trump threw India under the bus to appease China but things only got complicated
+    url: https://www.indianpunchline.com/trump-threw-india-under-the-bus-to-appease-china-but-things-only-got-complicated/
+    text: US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng to
+      discuss trade issues at Madrid, Sept 14-15, 2025 How far US President Donald Trump’s
+      goodwill towards India and its PM Narendra Modi via social media would translate
+      into action remains to be seen. Trump does have a master plan in mind to put …
+      Continue reading "Trump threw India under the bus to appease China but things
+      only got complicated" The post Trump threw India under the bus to appease China
+      but things only got complicated appeared first on Indian Punchline .
+    one_sentence_summary: US Treasury Secretary Scott Bessent and Chinese Vice Premier
+      He Lifeng are set to discuss trade issues in Madrid on September 14-15, 2025,
+      amid concerns about President Trump's perceived favoritism towards China at the
+      expense of India.
+    paragraph_summary: The article discusses an upcoming meeting between US Treasury
+      Secretary Scott Bessent and Chinese Vice Premier He Lifeng in Madrid on September
+      14-15, 2025, focusing on trade issues. It reflects on US President Donald Trump's
+      perceived goodwill towards India and Prime Minister Narendra Modi, questioning
+      whether this will lead to tangible outcomes. The piece suggests that Trump's attempts
+      to appease China may have inadvertently complicated US-India relations, implying
+      that his strategies could undermine India's interests in favor of better ties
+      with China.
+    published: '2025-09-14T05:32:01+00:00'
   - title: India disavows ‘Tianjin spirit’, turns to EU
     url: https://www.indianpunchline.com/india-disavows-tianjin-spirit-turns-to-eu/
     text: Prime Minister Narendra Modi and Russian President Vladimir Putin share the

@@ -7,16 +7,479 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  Amid a rapidly shifting geopolitical landscape, recent discussions have centered on the ongoing Ukraine conflict, the evolving role of international organizations, and emerging political instability in Europe. As the war in Ukraine grinds on, Western and Russian positions remain entrenched, with new signs of volatility in both Ukrainian and French domestic politics.
+  The past week has seen a marked escalation in Middle Eastern and European tensions, with new developments underscoring the volatility of both regions. The most recent and significant event is the Israeli airstrike in Qatar, which, according to **Judge Andrew Napolitano** (via **Gilbert Doctorow**), killed 37 Hamas negotiators just before they were to participate in peace talks regarding Gaza. This action has been widely interpreted as a deliberate move to derail diplomatic efforts, with the majority of analysts suggesting it will further entrench hostilities and diminish prospects for a negotiated settlement in the near term.
   
-  The latest analysis by **Gilbert Doctorow** in his conversation with Judge Andrew Napolitano highlights the significance of Donald Trump’s continued support for Israeli Prime Minister Netanyahu, which Doctorow suggests could further complicate U.S. foreign policy in the Middle East. Turning to Ukraine, Doctorow points to growing complexities on the ground and signals of political instability within Kyiv. He notes, “Recent political developments in Ukraine and France suggest potential instability in both regions,” underscoring the fragility of current governments as the war drags on.
+  In Ukraine, the conflict appears to be approaching a decisive phase. Recent discussions, as highlighted by **Gilbert Doctorow**, indicate that the Russian elite remain convinced that the war will be resolved militarily, not diplomatically. Political instability is also rising in both Ukraine and France, with **Doctorow** noting that internal pressures could soon impact their respective roles in the broader European security landscape. The ongoing support of Donald Trump for Israeli Prime Minister Netanyahu is seen as reinforcing hardline positions in both the Middle East and among Western allies.
   
-  On the international stage, Doctorow’s recent exchanges with Professor Glenn Diesen emphasize the rising prominence of the Shanghai Cooperation Organization (SCO). Diesen argues that the SCO is now eclipsing BRICS as the primary platform for Eurasian cooperation, particularly as Russia, China, and India coordinate more closely to counterbalance U.S. influence. This shift is “most definitely” expected to continue, with Doctorow guaranteeing that the SCO will play an increasingly central role in shaping regional security and economic frameworks.
+  Meanwhile, the Shanghai Cooperation Organization (SCO) continues to gain strategic relevance, eclipsing BRICS in the eyes of many observers. As **Doctorow** and **Glenn Diesen** discussed, the SCO’s growing influence reflects a broader realignment, with Russia, China, and India increasingly united in opposition to U.S. hegemony. This trend is expected to continue, with a high chance of further institutional strengthening and coordination among Eurasian powers.
   
-  Meanwhile, the European political scene is showing signs of turbulence. Doctorow references instability in France, where domestic pressures could threaten the current administration. While not providing specifics, he suggests that political volatility in Europe may soon impact the continent’s approach to the Ukraine conflict and its broader foreign policy orientation.
+  **Trends and Predictions:**  
+  - The Israeli strike in Qatar will most definitely escalate the Gaza conflict and undermine peace initiatives, with a high likelihood of retaliatory actions and regional fallout.
+  - The Ukraine war is quite likely to see intensified military operations, as both sides prepare for what may be a final phase, with little expectation of diplomatic breakthroughs.
+  - The SCO’s prominence will continue to rise, and its member states will most definitely deepen cooperation, challenging Western-led institutions in Eurasia.
   
-  In summary, the prevailing trends indicate a hardening of positions in Ukraine, the continued rise of the SCO as a Eurasian power center, and growing political uncertainty in key European states. Looking ahead, Doctorow maintains with high confidence that the Ukraine war will be resolved militarily rather than diplomatically, and that the SCO’s influence will only expand in the coming months. European instability, while less certain, is “quite likely” to shape the next phase of the continent’s geopolitical posture.
+  Overall, the geopolitical environment remains highly unstable, with new flashpoints emerging and existing conflicts hardening along established lines.
 articles:
+  - title: Transcript of ‘Judging Freedom,’ 9 September 2025
+    url: https://gilbertdoctorow.com/2025/09/10/transcript-of-judging-freedom-9-september-2025/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=C2saYUvFeCY
+      Napolitano: 0:34 Hi, everyone. Judge Andrew Napolitano here for _Judging Freedom_.
+      Today is Tuesday, September 9th, 2025. Professor Gilbert Doctorow joins us now.
+      Professor Doctorow, I know you’re traveling, figuratively and literally, and I
+      appreciate very much the time you’ve given us and what you’ve gone through to
+      make this connection so we can chat. I do want to spend my usual time with you
+      about attitudes in the Kremlin and events in Ukraine, but there is breaking news
+      as we come on air this morning. And that is that the Israeli defense forces have
+      attacked the Hamas negotiators who were about to enter a negotiating session in
+      Qatar with their Israeli counterparts to address President Trump’s proposals to
+      bring about a cessation of military activity in Gaza. And as they were approaching
+      wherever this place was in Qatar, in Doha, Qatar, the IDF attacked and killed
+      37 of them. If these facts are accurate, is the US complicit in this murder? Gilbert
+      Doctorow, PhD: 1:53 Oh yes, there’s no question. They’re tolerating all of the
+      war crimes of Netanyahu. We don’t have to take any one of them as a spelling complicity,
+      but the whole lot of them are results of American complicity and refusal to deny
+      Netanyahu what he needs in materiel to carry on his crimes. So of course, as I
+      say, any one element of their behavior is part of the big picture which the United
+      States is supporting. Napolitano: Notwithstanding its wealth, or their wealth,
+      the people that run Qatar have made it pretty much subservient to the United States.
+      The US controls the airspace in Qatar. So if the IDF was going to either use jets
+      or missiles to enter the airspace, they would have to know about it. Stated differently,
+      the United States, which lured the Hamas negotiators to this negotiating site
+      would [have had to know] that they were luring them to their deaths, because the
+      US controls the airspace. The Israelis would need US permission to enter the airspace,
+      and it obviously was given. Doctorow: 3:07 It’s not a pretty picture, any which
+      way you look at it, but it’s a subject I hope we can get into as we consider Mr.
+      Trump in general, and what I was just discussing with one of the very well-informed
+      European deputy of the parliament, what we can make of Trump and where are the
+      pluses that may offset the minuses like the one you just mentioned. Napolitano:
+      I believe that that was the same conversation. Is this an EU member from Germany
+      who has past experience living in Iran? Are we talking about the same person about
+      whom you wrote to me recently? Doctorow: Exactly. Napolitano: Can you … share
+      with us what this person told you he believes was the communication between Washington
+      and Tehran before Trump dropped those huge bombs on Iran in June? Doctorow: 04:24
+      Yes, what he– he interprets the scenario as follows: that Trump was aware of Netanyahu’s
+      plans to use Israeli nuclear bombs on the Iranian sites if Israel were going to
+      act alone. And with that knowledge, Trump approached Netanyahu and said, “Just
+      sit still; we’ll take care of it for you.” Meaning the bombing that eventually
+      took place. But this did not just happen. The United States was in communications
+      with Tehran, according to my conversational partner. They were in contact with
+      Tehran. The Iranians knew perfectly what was about to happen. And of course, their
+      response was calibrated accordingly. Moreover, they had every opportunity to remove
+      personnel and critical material in the time between [when] they had been given
+      a forewarning and the actual bombing by the United States. Napolitano: So was
+      the bombing by the United States intended to make Netanyahu and company believe
+      that the US was really trying to destroy and set back the Tehran nuclear capabilities,
+      but to satisfy Tehran that this was just for show and give Tehran time to get
+      their nuclear material out of the way of our bombs? Is that what this argument
+      is? Doctorow: 5:59 I think the chief point here was to prevent an Israeli nuclear
+      strike. And whether or not they would actually disarm Iran, do much damage or
+      whatever, was not the key consideration. I don’t know that this was sold to Netanyahu
+      in that respect. It was just, “Don’t make a move; we will do it.” And this raised
+      the whole question of how we interpret Trump’s behavior, his major foreign policy
+      decisions, including what we just talked about a couple minutes ago, how he is
+      supporting the genocide in Gaza. I found this very important to find a person
+      who is so well informed, by his present activities within the parliament and by
+      his past experience of dealing with other high officials across Europe, and not
+      only, but also in Iran and other countries where he was stationed for long periods
+      of time. 7:03 I was very heartened to see that he had a similar reading to myself
+      about the pluses and minuses of Mr. Trump and tends to believe that the pluses
+      outweigh these awful minuses that we were just discussing. Napolitano: So the
+      Qatari foreign minister has just released the following statement: “The state
+      of Qatar strongly condemns the cowardly Israeli attack that targeted residential
+      buildings housing several members of the political bureau of Hamas in the Qatari
+      capital Doha. This criminal assault constitutes a blatant violation of all international
+      laws and norms and poses a serious threat to the security and safety of Qataris
+      and residents in Qatar. While the state of Qatar strongly condemns this assault,
+      it confirms that it will not tolerate this reckless Israeli behavior and the ongoing
+      disruption of regional security nor any act that targets its security and sovereignty.”
+      Close quote. 8:07 Interestingly, no condemnation of the United States, since the
+      Americans obviously knew about this and facilitated it. Doctorow: Yes, that’s
+      clear. But you can understand that this rather small power, regional power, Qatar,
+      would keep its mouth shut about the United States and not issue public condemnation.
+      Suffice to say that they have roundly condemned Israel. What will come from this
+      is another question. It’s hard to believe that this will go unnoticed and there
+      will be no reaction from the neighborhood or farther afield. It is utterly unbelievable
+      the brazen nature of this act. Napolitano: 8:52 When the US bombed Tehran, whether
+      by knowledge and consent or whether it was a surprise, the Iranian negotiators
+      were about to attend a negotiating session. So we have seen, if all of this is
+      true, we have seen yet again, President Trump lure people into a negotiation only
+      to attack the negotiators or their colleagues or their homeland at the very time
+      that these people thought they’d be negotiating under the auspices of or directly
+      with the United States. Doctorow: That may well be, but there is a “but” that
+      I throw into this. It was not the United States that made that attack. In either
+      case, it was Israel that did the dirty work. Whether the United States believed
+      it was luring diplomats into negotiations only to have them killed by the Israelis,
+      that is an open question. One can assume the worst, and I agree with your interpretation,
+      but it isn’t necessarily what happened. Napollitano: 10:10 Understood, understood.
+      Let’s transition to the area that you have scrutinized so nicely for us. How close
+      do you think the Ukrainian military is to the end? I mean, by the end, I mean
+      either the Russians have clearly achieved their military objectives or there’s
+      no firepower left, insufficient human beings or insufficient equipment for the
+      Ukrainian military to resist the Russians? Doctorow: The Ukrainian military is
+      suffering disastrous losses across the Donbas. In Donetsk in particular, in the
+      neighboring oblasts, Zaporozhye, in Kherson on the right bank of the Dnieper River.
+      In various hot points, they are losing a lot of soldiers, and they are withdrawing
+      under pressure from the Russians. That is not the same thing as speaking of a
+      complete Ukrainian collapse. The Russians have no plans to go beyond the Dnieper
+      River. What they may do is seize Odessa. What they may do is seize large parts
+      of these other oblasts in the neighborhood, in particular Dnieper-Petrovsk. That
+      may happen, but it’s not the same thing as wiping out the Ukrainian army. And
+      the question is, within Ukraine, will the power structure survive these devastating
+      defeats? Or will it not? It’s not the same thing as saying there’s no Ukrainian
+      army left, there is. 11:50 But these are very embarrassing, politically very sensitive
+      losses, and they should bring down the government. And as for the Russians, what
+      is the Kremlin thinking and doing, on Russian state television, a lot of attention
+      is being given to the defection of the former Minister of Foreign Affairs, Kuleba,
+      who is now in Krakow, having by stealth crossed the border when, just after Zelensky
+      had put in effect an edict that barred diplomats and former diplomats from leaving
+      the country. That is looked at as a sign of the breakup of the power structure
+      in Kiev. And the Russians are also looking at the breakup of the power structure
+      in western Europe. 12:45 There was a lot of attention to the fall of the Macron
+      government, Mr. Beyrou, who lost his vote of confidence yesterday. They are paying
+      great attention to the political collapse, as well as to the military defeats
+      on the battlefield in Ukraine. Both elements are receiving close attention of
+      the Kremlin, and they are feeding this to the general public via state television.
+      Napolitano: 13:16 Do you accept the theory that President Putin is very slow,
+      methodical, and patient in the manner in which he wages the war, not because he’s
+      virtuous, not because he possesses the virtue of patience, but because he wants
+      to obliterate the Ukrainian army and kill as many Ukrainian soldiers as he can
+      so that Russia doesn’t have to go through this again for at least another generation.
+      Do you accept that thesis? Doctorow: 13:50 There’s a lot of merit to that thesis.
+      Of course, nobody can prove it. But when you consider how the Russians have not
+      pressed to the highest advantage their gains on this part of the front or that
+      part of the front, pure military doctrine would suggest that they would keep on
+      running, that they would pursue the enemy in his flight. They’re not doing that.
+      Instead, they advance and they stop. And they are baiting the Ukrainians to make
+      a counterattack, which they do, and they get slaughtered. So there is a large
+      merit to that interpretation that the Russians could move faster if they wanted
+      to, but would rather destroy the manpower of the Ukrainian army. Napolitano: Apologies
+      for going back and forth, but breaking news and commentary keeps coming from this
+      attack in Doha. Prime Minister Netanyahu on his X account, quote, “Today’s action
+      against the top terrorist chieftains of Hamas was a wholly independent Israeli
+      operation. Israel initiated it, Israel conducted it, and Israel takes full responsibility.”
+      Close quote. A Professor Saeed Mohammed-Murandi, who’s been a guest on this show,
+      has said, “Why weren’t US regime anti-missile systems activated to help protect
+      Qatari airspace? Because Washington was helping Netanyahu.” So the words are flying
+      thick and fast. I think the most profound words I heard were yours a few minutes
+      ago, and that is expect some sort of a serious response to this. I don’t know.
+      [Did] the Israelis ever attacked the Qataris before? This is the location of the
+      negotiations. The Israeli negotiators were there as well. They obviously weren’t
+      in the building that was being attacked, but they were all getting ready to meet.
+      I don’t even know if Witkoff was there, but they’re meeting over supposedly Trump’s
+      proposal, the essence of which we don’t know. Doctorow: 16:06 This is totally
+      outrageous. It is in line, if you want to speak of a moral level, with the outrageous
+      behavior of Israel under Netanyahu in Gaza, in the West Bank, in Syria, in Lebanon.
+      This has gotten totally out of control, and it’s hard to see how this can go on
+      without some violent response. Who will lead that response is unclear, But Mr.
+      Netanyahu, who has done his best to destroy the state of Israel and certainly
+      to destroy the moral weight of Judaism– it’s an enormous attack on the religion,
+      his behavior– and that will take a generational or more for any recovery. Napolitano:
+      16:53 Back to Ukraine, if I could. How do you read– you alluded to this a few
+      minutes ago– the fact that French President Macron is now confronted with choosing
+      his fifth, one, two, three, four, five, prime minister in two years. Is this personal
+      unpopularity of him? Is this a rejection by the French General Assembly of his
+      bellicose attitudes toward Russia? How do you read this, Professor Doctorow? Doctorow:
+      I wish it were the last, but I don’t believe it is. That is, your last comment,
+      that the bellicosity towards Russia has some impact here. I don’t believe so.
+      I think it was largely decided on domestic issues, although the domestic issues
+      themselves are shaped by the war in Ukraine and Macron’s taking the lead in the
+      coalition of the willing and promising all kinds of financial and arms assistance
+      to Ukraine. The fact of the matter is that Mr. Beyrou’s budget, which was the
+      reason for his defeat, introduced austerity to everything in the French budget
+      except defence, which would rise. 18:15 They would be cutting medical care, They
+      would be cutting back on national holidays, two major national holidays would
+      be taken off the calendar. There [was] a lot of economic hardship being imposed
+      on the general French public, while the military would be rising. I think that
+      is the area where the two meet, the domestic opposition to Macron for his many
+      reforms which were hated by large segments of the population and brought his approval
+      ratings down below 20%. I think his, Beyrou had 15% approval rating. The domestic
+      side of it has been impacted by his belligerency towards Russia and support, unqualified
+      support for Ukraine, with money coming from those taxpayers in France. 19:11 The
+      likelihood that France will find itself in the arms of the IMF for emergency funding
+      because they cannot meet their budget requirements from taxation presently, and
+      they’re five percent or more of a budgetary deficit, which is more than two and
+      a half times what is allowed under EU and central bank regulations. This cannot
+      go on. So the Russians of course are following this very closely because of Macron’s
+      leadership of the coalition of the willing and with good reason. Napolitano: 19:51
+      I want to ask you a few more questions about Starmer and Merz, but more breaking
+      news, but this is news in respect of allegations. The Israelis are claiming that
+      the senior Hamas officials were eliminated. Qatari TV says Hamas delegation survives
+      assassination attempt in Doha. So we don’t know which is the truth. Obviously,
+      we’ll find this out as time progresses, but I thought I would mention that because
+      it’s coming across what used to be called the wires as we speak. Do you foresee
+      Chancellor Merz and Prime Minister Starmer suffering a similar fate? Either personal
+      popularity so low that they can’t govern or personal popularity so low that the
+      legislative bodies vote no confidence. Doctorow: 20:58 Let’s separate these cases.
+      Starmer, yes, he can suffer that fate. His government is in disarray. They have
+      had a series of scandals. Once again, the belligerency towards Russia as expressed
+      in appropriations for Ukraine and arms deliveries to Ukraine, they are in contrast
+      with the attempts to cut back on benefits to the population. He has had a recent
+      scandal in his deputy, the deputy prime minister. This was over domestic issues
+      entirely. But nonetheless, he is being challenged now very effectively by Farage.
+      And he is being challenged within his own party. So the chance of his surviving,
+      I say, is also declining. 22:03 As for Merz, it’s a different story. The real
+      issue here is money. Money talks, Merz has got it. Starmer doesn’t have it, Macron
+      doesn’t have it. And that, when they try to cut the benefits of the general population,
+      then there is seething, loathing, and they are at risk. Mr. Merz doesn’t have
+      that problem. He may not be liked, and he certainly isn’t liked, but his appropriating
+      of one trillion euros for defense– a large part of it to encourage production,
+      long- range contracts with Germany’s arms manufacturers– that is going to pump
+      some vigor into the economy. This may not be the best way to raise the economy,
+      We certainly don’t believe that, but it has an impact. Money speaks and he’s got
+      the money. Napolitano: 22:57 Professor Doctorow, thank you very much. Thanks for
+      allowing me to question you all across the board here. And thanks for taking the
+      time out of your unique day and your travels to find time for us. All the best.
+      Godspeed in your travels. We look forward to seeing you again next week. Doctorow:
+      Well, thank you, thank you. Napolitno: Okay. And coming up very shortly, we’ll
+      have all the latest for you as we can gather it on the Israeli attacks in Qatar
+      and truly one of the more profound people on the planet to analyze it for you
+      at 11 o’clock, Colonel Douglas Macgregor; at 1.15, Scott Horton; at two o’clock,
+      Max Blumenthal; at three o’clock, Colonel Karen Kwiatkowski. 23:49 Judge Napolitano
+      for _Judging Freedom_. View in dashboard'
+    one_sentence_summary: Judge Andrew Napolitano discusses a recent Israeli airstrike
+      that killed 37 Hamas negotiators in Qatar just before they were set to engage
+      in peace talks regarding military activity in Gaza.
+    paragraph_summary: In a recent episode of _Judging Freedom_, Judge Andrew Napolitano
+      discusses the implications of a deadly Israeli Defense Forces (IDF) attack on
+      Hamas negotiators in Qatar, which resulted in the deaths of 37 individuals just
+      before they were set to enter negotiations regarding President Trump's proposals
+      for a ceasefire in Gaza. Professor Gilbert Doctorow asserts that the United States
+      is complicit in this act, as it tolerates Israeli actions and provides support
+      to Prime Minister Netanyahu, thereby enabling what Doctorow describes as war crimes.
+      Napolitano further emphasizes that the U.S. controls the airspace over Qatar,
+      suggesting that American authorities were aware of the attack on the negotiators,
+      raising questions about the U.S.'s role in facilitating such violence.
+    published: '2025-09-10T15:25:32+00:00'
+  - title: Transcript of ‘Judging Freedom,’ 9 September 2025
+    url: https://gilbertdoctorow.com/2025/09/10/transcript-of-judging-freedom-9-september-2025/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=C2saYUvFeCY
+      Napolitano: 0:34 Hi, everyone. Judge Andrew Napolitano here for _Judging Freedom_.
+      Today is Tuesday, September 9th, 2025. Professor Gilbert Doctorow joins us now.
+      Professor Doctorow, I know you’re traveling, figuratively and literally, and I
+      appreciate very much the time you’ve given us and what you’ve gone through to
+      make this connection so we can chat. I do want to spend my usual time with you
+      about attitudes in the Kremlin and events in Ukraine, but there is breaking news
+      as we come on air this morning. And that is that the Israeli defense forces have
+      attacked the Hamas negotiators who were about to enter a negotiating session in
+      Qatar with their Israeli counterparts to address President Trump’s proposals to
+      bring about a cessation of military activity in Gaza. And as they were approaching
+      wherever this place was in Qatar, in Doha, Qatar, the IDF attacked and killed
+      37 of them. If these facts are accurate, is the US complicit in this murder? Gilbert
+      Doctorow, PhD: 1:53 Oh yes, there’s no question. They’re tolerating all of the
+      war crimes of Netanyahu. We don’t have to take any one of them as a spelling complicity,
+      but the whole lot of them are results of American complicity and refusal to deny
+      Netanyahu what he needs in materiel to carry on his crimes. So of course, as I
+      say, any one element of their behavior is part of the big picture which the United
+      States is supporting. Napolitano: Notwithstanding its wealth, or their wealth,
+      the people that run Qatar have made it pretty much subservient to the United States.
+      The US controls the airspace in Qatar. So if the IDF was going to either use jets
+      or missiles to enter the airspace, they would have to know about it. Stated differently,
+      the United States, which lured the Hamas negotiators to this negotiating site
+      would [have had to know] that they were luring them to their deaths, because the
+      US controls the airspace. The Israelis would need US permission to enter the airspace,
+      and it obviously was given. Doctorow: 3:07 It’s not a pretty picture, any which
+      way you look at it, but it’s a subject I hope we can get into as we consider Mr.
+      Trump in general, and what I was just discussing with one of the very well-informed
+      European deputy of the parliament, what we can make of Trump and where are the
+      pluses that may offset the minuses like the one you just mentioned. Napolitano:
+      I believe that that was the same conversation. Is this an EU member from Germany
+      who has past experience living in Iran? Are we talking about the same person about
+      whom you wrote to me recently? Doctorow: Exactly. Napolitano: Can you … share
+      with us what this person told you he believes was the communication between Washington
+      and Tehran before Trump dropped those huge bombs on Iran in June? Doctorow: 04:24
+      Yes, what he– he interprets the scenario as follows: that Trump was aware of Netanyahu’s
+      plans to use Israeli nuclear bombs on the Iranian sites if Israel were going to
+      act alone. And with that knowledge, Trump approached Netanyahu and said, “Just
+      sit still; we’ll take care of it for you.” Meaning the bombing that eventually
+      took place. But this did not just happen. The United States was in communications
+      with Tehran, according to my conversational partner. They were in contact with
+      Tehran. The Iranians knew perfectly what was about to happen. And of course, their
+      response was calibrated accordingly. Moreover, they had every opportunity to remove
+      personnel and critical material in the time between [when] they had been given
+      a forewarning and the actual bombing by the United States. Napolitano: So was
+      the bombing by the United States intended to make Netanyahu and company believe
+      that the US was really trying to destroy and set back the Tehran nuclear capabilities,
+      but to satisfy Tehran that this was just for show and give Tehran time to get
+      their nuclear material out of the way of our bombs? Is that what this argument
+      is? Doctorow: 5:59 I think the chief point here was to prevent an Israeli nuclear
+      strike. And whether or not they would actually disarm Iran, do much damage or
+      whatever, was not the key consideration. I don’t know that this was sold to Netanyahu
+      in that respect. It was just, “Don’t make a move; we will do it.” And this raised
+      the whole question of how we interpret Trump’s behavior, his major foreign policy
+      decisions, including what we just talked about a couple minutes ago, how he is
+      supporting the genocide in Gaza. I found this very important to find a person
+      who is so well informed, by his present activities within the parliament and by
+      his past experience of dealing with other high officials across Europe, and not
+      only, but also in Iran and other countries where he was stationed for long periods
+      of time. 7:03 I was very heartened to see that he had a similar reading to myself
+      about the pluses and minuses of Mr. Trump and tends to believe that the pluses
+      outweigh these awful minuses that we were just discussing. Napolitano: So the
+      Qatari foreign minister has just released the following statement: “The state
+      of Qatar strongly condemns the cowardly Israeli attack that targeted residential
+      buildings housing several members of the political bureau of Hamas in the Qatari
+      capital Doha. This criminal assault constitutes a blatant violation of all international
+      laws and norms and poses a serious threat to the security and safety of Qataris
+      and residents in Qatar. While the state of Qatar strongly condemns this assault,
+      it confirms that it will not tolerate this reckless Israeli behavior and the ongoing
+      disruption of regional security nor any act that targets its security and sovereignty.”
+      Close quote. 8:07 Interestingly, no condemnation of the United States, since the
+      Americans obviously knew about this and facilitated it. Doctorow: Yes, that’s
+      clear. But you can understand that this rather small power, regional power, Qatar,
+      would keep its mouth shut about the United States and not issue public condemnation.
+      Suffice to say that they have roundly condemned Israel. What will come from this
+      is another question. It’s hard to believe that this will go unnoticed and there
+      will be no reaction from the neighborhood or farther afield. It is utterly unbelievable
+      the brazen nature of this act. Napolitano: 8:52 When the US bombed Tehran, whether
+      by knowledge and consent or whether it was a surprise, the Iranian negotiators
+      were about to attend a negotiating session. So we have seen, if all of this is
+      true, we have seen yet again, President Trump lure people into a negotiation only
+      to attack the negotiators or their colleagues or their homeland at the very time
+      that these people thought they’d be negotiating under the auspices of or directly
+      with the United States. Doctorow: That may well be, but there is a “but” that
+      I throw into this. It was not the United States that made that attack. In either
+      case, it was Israel that did the dirty work. Whether the United States believed
+      it was luring diplomats into negotiations only to have them killed by the Israelis,
+      that is an open question. One can assume the worst, and I agree with your interpretation,
+      but it isn’t necessarily what happened. Napollitano: 10:10 Understood, understood.
+      Let’s transition to the area that you have scrutinized so nicely for us. How close
+      do you think the Ukrainian military is to the end? I mean, by the end, I mean
+      either the Russians have clearly achieved their military objectives or there’s
+      no firepower left, insufficient human beings or insufficient equipment for the
+      Ukrainian military to resist the Russians? Doctorow: The Ukrainian military is
+      suffering disastrous losses across the Donbas. In Donetsk in particular, in the
+      neighboring oblasts, Zaporozhye, in Kherson on the right bank of the Dnieper River.
+      In various hot points, they are losing a lot of soldiers, and they are withdrawing
+      under pressure from the Russians. That is not the same thing as speaking of a
+      complete Ukrainian collapse. The Russians have no plans to go beyond the Dnieper
+      River. What they may do is seize Odessa. What they may do is seize large parts
+      of these other oblasts in the neighborhood, in particular Dnieper-Petrovsk. That
+      may happen, but it’s not the same thing as wiping out the Ukrainian army. And
+      the question is, within Ukraine, will the power structure survive these devastating
+      defeats? Or will it not? It’s not the same thing as saying there’s no Ukrainian
+      army left, there is. 11:50 But these are very embarrassing, politically very sensitive
+      losses, and they should bring down the government. And as for the Russians, what
+      is the Kremlin thinking and doing, on Russian state television, a lot of attention
+      is being given to the defection of the former Minister of Foreign Affairs, Kuleba,
+      who is now in Krakow, having by stealth crossed the border when, just after Zelensky
+      had put in effect an edict that barred diplomats and former diplomats from leaving
+      the country. That is looked at as a sign of the breakup of the power structure
+      in Kiev. And the Russians are also looking at the breakup of the power structure
+      in western Europe. 12:45 There was a lot of attention to the fall of the Macron
+      government, Mr. Beyrou, who lost his vote of confidence yesterday. They are paying
+      great attention to the political collapse, as well as to the military defeats
+      on the battlefield in Ukraine. Both elements are receiving close attention of
+      the Kremlin, and they are feeding this to the general public via state television.
+      Napolitano: 13:16 Do you accept the theory that President Putin is very slow,
+      methodical, and patient in the manner in which he wages the war, not because he’s
+      virtuous, not because he possesses the virtue of patience, but because he wants
+      to obliterate the Ukrainian army and kill as many Ukrainian soldiers as he can
+      so that Russia doesn’t have to go through this again for at least another generation.
+      Do you accept that thesis? Doctorow: 13:50 There’s a lot of merit to that thesis.
+      Of course, nobody can prove it. But when you consider how the Russians have not
+      pressed to the highest advantage their gains on this part of the front or that
+      part of the front, pure military doctrine would suggest that they would keep on
+      running, that they would pursue the enemy in his flight. They’re not doing that.
+      Instead, they advance and they stop. And they are baiting the Ukrainians to make
+      a counterattack, which they do, and they get slaughtered. So there is a large
+      merit to that interpretation that the Russians could move faster if they wanted
+      to, but would rather destroy the manpower of the Ukrainian army. Napolitano: Apologies
+      for going back and forth, but breaking news and commentary keeps coming from this
+      attack in Doha. Prime Minister Netanyahu on his X account, quote, “Today’s action
+      against the top terrorist chieftains of Hamas was a wholly independent Israeli
+      operation. Israel initiated it, Israel conducted it, and Israel takes full responsibility.”
+      Close quote. A Professor Saeed Mohammed-Murandi, who’s been a guest on this show,
+      has said, “Why weren’t US regime anti-missile systems activated to help protect
+      Qatari airspace? Because Washington was helping Netanyahu.” So the words are flying
+      thick and fast. I think the most profound words I heard were yours a few minutes
+      ago, and that is expect some sort of a serious response to this. I don’t know.
+      [Did] the Israelis ever attacked the Qataris before? This is the location of the
+      negotiations. The Israeli negotiators were there as well. They obviously weren’t
+      in the building that was being attacked, but they were all getting ready to meet.
+      I don’t even know if Witkoff was there, but they’re meeting over supposedly Trump’s
+      proposal, the essence of which we don’t know. Doctorow: 16:06 This is totally
+      outrageous. It is in line, if you want to speak of a moral level, with the outrageous
+      behavior of Israel under Netanyahu in Gaza, in the West Bank, in Syria, in Lebanon.
+      This has gotten totally out of control, and it’s hard to see how this can go on
+      without some violent response. Who will lead that response is unclear, But Mr.
+      Netanyahu, who has done his best to destroy the state of Israel and certainly
+      to destroy the moral weight of Judaism– it’s an enormous attack on the religion,
+      his behavior– and that will take a generational or more for any recovery. Napolitano:
+      16:53 Back to Ukraine, if I could. How do you read– you alluded to this a few
+      minutes ago– the fact that French President Macron is now confronted with choosing
+      his fifth, one, two, three, four, five, prime minister in two years. Is this personal
+      unpopularity of him? Is this a rejection by the French General Assembly of his
+      bellicose attitudes toward Russia? How do you read this, Professor Doctorow? Doctorow:
+      I wish it were the last, but I don’t believe it is. That is, your last comment,
+      that the bellicosity towards Russia has some impact here. I don’t believe so.
+      I think it was largely decided on domestic issues, although the domestic issues
+      themselves are shaped by the war in Ukraine and Macron’s taking the lead in the
+      coalition of the willing and promising all kinds of financial and arms assistance
+      to Ukraine. The fact of the matter is that Mr. Beyrou’s budget, which was the
+      reason for his defeat, introduced austerity to everything in the French budget
+      except defence, which would rise. 18:15 They would be cutting medical care, They
+      would be cutting back on national holidays, two major national holidays would
+      be taken off the calendar. There [was] a lot of economic hardship being imposed
+      on the general French public, while the military would be rising. I think that
+      is the area where the two meet, the domestic opposition to Macron for his many
+      reforms which were hated by large segments of the population and brought his approval
+      ratings down below 20%. I think his, Beyrou had 15% approval rating. The domestic
+      side of it has been impacted by his belligerency towards Russia and support, unqualified
+      support for Ukraine, with money coming from those taxpayers in France. 19:11 The
+      likelihood that France will find itself in the arms of the IMF for emergency funding
+      because they cannot meet their budget requirements from taxation presently, and
+      they’re five percent or more of a budgetary deficit, which is more than two and
+      a half times what is allowed under EU and central bank regulations. This cannot
+      go on. So the Russians of course are following this very closely because of Macron’s
+      leadership of the coalition of the willing and with good reason. Napolitano: 19:51
+      I want to ask you a few more questions about Starmer and Merz, but more breaking
+      news, but this is news in respect of allegations. The Israelis are claiming that
+      the senior Hamas officials were eliminated. Qatari TV says Hamas delegation survives
+      assassination attempt in Doha. So we don’t know which is the truth. Obviously,
+      we’ll find this out as time progresses, but I thought I would mention that because
+      it’s coming across what used to be called the wires as we speak. Do you foresee
+      Chancellor Merz and Prime Minister Starmer suffering a similar fate? Either personal
+      popularity so low that they can’t govern or personal popularity so low that the
+      legislative bodies vote no confidence. Doctorow: 20:58 Let’s separate these cases.
+      Starmer, yes, he can suffer that fate. His government is in disarray. They have
+      had a series of scandals. Once again, the belligerency towards Russia as expressed
+      in appropriations for Ukraine and arms deliveries to Ukraine, they are in contrast
+      with the attempts to cut back on benefits to the population. He has had a recent
+      scandal in his deputy, the deputy prime minister. This was over domestic issues
+      entirely. But nonetheless, he is being challenged now very effectively by Farage.
+      And he is being challenged within his own party. So the chance of his surviving,
+      I say, is also declining. 22:03 As for Merz, it’s a different story. The real
+      issue here is money. Money talks, Merz has got it. Starmer doesn’t have it, Macron
+      doesn’t have it. And that, when they try to cut the benefits of the general population,
+      then there is seething, loathing, and they are at risk. Mr. Merz doesn’t have
+      that problem. He may not be liked, and he certainly isn’t liked, but his appropriating
+      of one trillion euros for defense– a large part of it to encourage production,
+      long- range contracts with Germany’s arms manufacturers– that is going to pump
+      some vigor into the economy. This may not be the best way to raise the economy,
+      We certainly don’t believe that, but it has an impact. Money speaks and he’s got
+      the money. Napolitano: 22:57 Professor Doctorow, thank you very much. Thanks for
+      allowing me to question you all across the board here. And thanks for taking the
+      time out of your unique day and your travels to find time for us. All the best.
+      Godspeed in your travels. We look forward to seeing you again next week. Doctorow:
+      Well, thank you, thank you. Napolitno: Okay. And coming up very shortly, we’ll
+      have all the latest for you as we can gather it on the Israeli attacks in Qatar
+      and truly one of the more profound people on the planet to analyze it for you
+      at 11 o’clock, Colonel Douglas Macgregor; at 1.15, Scott Horton; at two o’clock,
+      Max Blumenthal; at three o’clock, Colonel Karen Kwiatkowski. 23:49 Judge Napolitano
+      for _Judging Freedom_. View in dashboard'
+    one_sentence_summary: Judge Andrew Napolitano discusses a recent Israeli airstrike
+      that killed 37 Hamas negotiators in Qatar just before they were set to engage
+      in peace talks regarding military activity in Gaza.
+    paragraph_summary: In a recent episode of _Judging Freedom_, Judge Andrew Napolitano
+      discusses the implications of a deadly Israeli Defense Forces (IDF) attack on
+      Hamas negotiators in Qatar, which resulted in the deaths of 37 individuals just
+      before they were set to enter negotiations regarding President Trump's proposals
+      for a ceasefire in Gaza. Professor Gilbert Doctorow asserts that the United States
+      is complicit in this act, as it tolerates Israeli actions and provides support
+      to Prime Minister Netanyahu, thereby enabling what Doctorow describes as war crimes.
+      Napolitano further emphasizes that the U.S. controls the airspace over Qatar,
+      suggesting that American authorities were aware of the attack on the negotiators,
+      raising questions about the U.S.'s role in facilitating such violence.
+    published: '2025-09-10T15:25:32+00:00'
   - title: '‘Judging Freedom’ edition of 8 September: Nearing the end in Ukraine'
     url: https://gilbertdoctorow.com/2025/09/09/judging-freedom-edition-of-8-september-nearing-the-end-in-ukraine/
     text: This chat with Judge Andrew Napolitano began with breaking news of the murderous

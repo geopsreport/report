@@ -7,16 +7,449 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  The past week has seen a series of consequential developments across Australia’s domestic and foreign policy, as well as the ongoing crisis in Gaza. These events reflect intensifying debates over human rights, media freedom, and the limits of state power.
+  Australia’s foreign policy and its handling of regional relationships have come under renewed scrutiny following a controversial incident excluding Pacific Island journalists from a press conference with Prime Minister Anthony Albanese. This episode, as analyzed by **Binoy Kampmark**, underscores persistent “colonial attitudes” and a lack of transparency in Canberra’s dealings with its Pacific neighbors, particularly as Australia deepens its strategic alignment with the United States. The exclusion has been widely interpreted as emblematic of Australia’s broader reluctance to treat Pacific Island nations as equal partners, raising questions about the credibility of its regional engagement.
   
-  Australia’s approach to refugees remains under scrutiny following its latest agreement with Nauru to resettle members of the NZYQ cohort. **Binoy Kampmark** notes that this deal, emblematic of Australia’s longstanding policy of offshore detention, has reignited ethical and legal concerns about the treatment of asylum seekers. The arrangement is widely criticized for perpetuating punitive measures and sidestepping international obligations, with legal challenges expected to intensify. There is a high chance that Australia will face further domestic and international pressure to reform its refugee policies, though immediate change appears unlikely.
+  Meanwhile, the fallout from Israel’s recent military strike on Qatari territory continues to reverberate across the Middle East. The attack, which **Kampmark** describes as a “rogue” operation, has drawn sharp international condemnation and intensified calls for a coordinated response. The move is seen as part of Prime Minister Netanyahu’s ongoing strategy to undermine Palestinian statehood and consolidate domestic political power, even at the risk of escalating regional instability. The incident has further strained Israel’s already fraught relations with key regional actors and is likely to prompt renewed diplomatic efforts to contain the crisis.
   
-  Meanwhile, the humanitarian catastrophe in Gaza continues to draw global attention. The Israeli government’s decision to allow limited access to foreign journalists has been met with skepticism, particularly in light of the high number of journalist fatalities attributed to Israeli Defense Forces. **Kampmark** highlights international calls for greater media access and protection, underscoring the risks faced by reporters and the broader issue of press freedom in conflict zones. Given the ongoing violence and restrictions, it is quite likely that media coverage will remain tightly controlled, and further incidents involving journalists cannot be ruled out.
+  In a related development, Australia’s approach to the Gaza conflict remains cautious and, at times, contradictory. While the Albanese government has taken symbolic steps such as expelling Iranian diplomats and revoking visas for controversial Israeli figures, its broader policy is marked by attempts to balance support for Palestinian statehood with the imperatives of its alliance with the US. **Kampmark** notes that these actions are often perceived as “useful expedients” rather than substantive shifts, reflecting Canberra’s ongoing struggle to assert an independent foreign policy in the face of mounting international and domestic pressure.
   
-  In the realm of international diplomacy, Australia’s expulsion of Iran’s ambassador and several officials marks a significant escalation. This move, justified by alleged Iranian-directed antisemitic attacks, is interpreted by **Kampmark** as a strategic attempt by the Albanese government to balance its anticipated recognition of Palestinian statehood. The decision has sparked debate over its proportionality and relevance, but signals a more assertive Australian foreign policy posture. There is a high chance that diplomatic tensions with Iran will persist, with potential repercussions for Australia’s broader Middle East policy.
-  
-  Looking ahead, the prevailing trends suggest a continued hardening of government stances on security and migration, both in Australia and abroad. The Gaza crisis is set to remain a flashpoint, with humanitarian concerns and media access at the forefront. I guarantee that debates over rights, accountability, and the ethics of state action will only intensify in the coming weeks.
+  Trends indicate a growing skepticism among regional actors regarding Australia’s intentions and capacity for genuine partnership, particularly in the Pacific. In the Middle East, Israel’s aggressive posture is likely to provoke further instability, with a high chance of continued international backlash and diplomatic isolation. In the coming weeks, it is quite likely that Australia will face increased demands for transparency and accountability in its foreign policy, while Israel’s actions may prompt new efforts at collective regional response, though a durable resolution remains elusive.
 articles:
+  - title: Australia Excludes the Pacific Island Press Corps
+    url: https://www.counterpunch.org/2025/09/16/australia-excludes-the-pacific-island-press-corps/
+    text: 'Bullies, never able to hit upwards, always kick down. The United States beats
+      their vassals in the Indo-Pacific and Europe with vulgar presumption. Their vassals
+      kick down to their own appointees, expecting compliance and respect to various
+      degrees. Australia, long known as Washington’s regional deputy sheriff, looks
+      down on its Pacific Island neighbours as basket cases for charity, potential enclaves
+      for terrorism, and vulnerable to the temptation of rival powers. The language
+      of a relationship falsely described as friendship is better seen as one of financial
+      asymmetry, strategic use and a mockery trapped in the formaldehyde of colonialism.
+      Australians are both confused tourists and mercenaries in the region – and it
+      shows.
+
+
+      On the sidelines of the 54th Pacific Islands Forum Leaders Meeting in Honiara
+      in the Solomon Islands, Australian officials had made it clear that all Pacific
+      Island media would have no role in covering the September 10 press conference
+      with Australian Prime Minister Anthony Albanese, held, with boisterous irony,
+      at a sports facility funded by the People’s Republic of China. Papua New Guinea’s
+      National Broadcasting Corporation (NBC) was told that “the presser was only for
+      Australian journalists.”
+
+
+      When he was asked by an Australian journalist, Stefan Armbruster, about the bar
+      on Pacific journalists attending the press gathering, the words, delivered with
+      snotty indifference were: “I don’t know what you are talking about mate.” Armbruster
+      expressed his dissatisfaction with the whole matter, insisting that this had “to
+      stop and Pacific journalists treated with respect.”
+
+
+      The Fijian Prime Minister, Sitiveni Rabuka, tried to soften matters by assuming
+      that this was an entirely Australian matter, and therefore something for the Australian
+      Prime Minister and his coddling minders. Landlords, it would seem, must have their
+      day, while native scribblers should repair elsewhere. “The press conference was
+      his so his press people would have made that arrangement, and they might have
+      restricted access to it, and it’s got nothing to do with the Pacific Island Forum.”
+      The Fiji Sun was less accommodating, complaining that “the exclusion was both
+      confusing and detrimental to the representation of regional media.” The decision
+      threatened “to reinforce a narrative that Australia is more focused on controlling
+      its own story than on being a responsible regional partner to Pacific communities.”
+      Rarely has a paper been so relevantly sharp.
+
+
+      On September 12, the Pacific Freedom Forum released a message condemning the exclusion.
+      “This ‘shameful’ act represents a direct assault on press freedom and democratic
+      principles within our Pacific region,” complained the PFF chair from the Solomon
+      Islands, Robert Iroga. “You cannot claim to be part of the Pacific family while
+      silencing Pacific voices. You cannot talk about partnership while blocking journalists
+      from doing their jobs. This cannot happen in our region, at our own forum.” He
+      went on to fume that, “The decision to restrict media access exclusively to Australian
+      outlets while excluding regional journalists demonstrates a troubling disregard
+      for transparency and democratic accountability.”
+
+
+      Appositely enough, these complaints mirror a state of constrictive circumstances
+      that affect Australia’s own relationship with the United States, the paternal
+      bully and Freudian Daddy Canberra struggles to do without. Australian officials
+      do little to enlighten the press corps in their country about what, exactly, is
+      going on with such momentous agreements as AUKUS, or the next security bash with
+      America’s uniformed finest. Canberra’s near criminal expenditure on nuclear powered
+      submarines that Australia will never have with any degree of autonomy, in exchange
+      for bolstering US naval shipyards and creating imperial naval hubs in Australia
+      for deployments against China, is something that the Albanese government remains
+      silent about. Their preference is to do things in plain sight.
+
+
+      Better information, without exception, is always to be found in the US State Department
+      and the Pentagon. The US intelligence facility in Pine Gap in the Northern Territory,
+      ostensibly described as a jointly run outfit with Australian personnel, does nothing
+      to inform the residents of the territory, or of Australia, about its role in maintaining
+      US hegemony. Guest lists to events on the base rarely feature locals, and certainly
+      not the local political representative. The facilities have, with little doubt,
+      been used for such unsavoury acts as directing drone strikes against areas of
+      the world most Americans, or Australians, would be unable to locate, spells of
+      strategic bombing, and sharing intelligence with allies no Australian journalist
+      would ever be allowed to officially confirm.
+
+
+      It may well be that the Albanese government’s inexorable gravitation to secrecy
+      is starting to look, rather disconcertingly, like that of his pathologically clandestine
+      predecessor, Scott Morrison. Exuding the confidence that comes from a heaving
+      electoral majority, and the concern that his policies might be subjected to greater
+      scrutiny than he would wish, Albanese is embracing the dark magic of the controlled
+      narrative, the heavily curated truth. If so, such moves are cloddish, insensitive
+      and foolish to the vulnerable island states whose support he so desperately needs.
+      “Not to put too fine a point on it,” suggests Dan McGarry of the Organised Crime
+      and Corruption Reporting Project, “but if Australia wants the Pacific to choose
+      it over China, maybe it should make the differences easier, not harder to see.”'
+    one_sentence_summary: The article critiques Australia's condescending treatment
+      of Pacific Island nations and its exclusion of regional media from a press conference
+      with Prime Minister Anthony Albanese, highlighting a broader issue of colonial
+      attitudes and a lack of transparency in Australia's foreign policy, particularly
+      in relation to its alliance with the United States.
+    paragraph_summary: The article critiques Australia's condescending attitude towards
+      its Pacific Island neighbors, highlighting a recent incident during the Pacific
+      Islands Forum where Australian Prime Minister Anthony Albanese restricted media
+      access to only Australian journalists, effectively excluding local Pacific reporters.
+      This action sparked outrage, with critics arguing it undermined press freedom
+      and regional representation, reinforcing a narrative of Australia prioritizing
+      control over genuine partnership. The piece suggests that Australia's relationship
+      with the United States mirrors this dynamic, as Canberra remains secretive about
+      significant defense agreements and U.S. military operations on its soil, which
+      further alienates its Pacific allies. The author warns that such behavior could
+      jeopardize Australia's standing in the region, especially as it competes with
+      China for influence.
+    published: '2025-09-16T05:55:49+00:00'
+  - title: Israel’s Rogue Attack on Qatar
+    url: https://www.counterpunch.org/2025/09/12/israels-rogue-attack-on-qatar/
+    text: 'It’s all part of a stratagem, bleak and brutal. With Palestinian recognition
+      being promised by France, the UK, Canada and Australia at the 80th session of
+      the United Nations General Assembly, Israeli aggression is becoming more brazen
+      and panicked. Time must be bought on one vital front: creating a Greater Israel,
+      involving the annexation of Gaza and extinguishing, as far as possible, the power
+      of the Palestinian Authority in the West Bank. What follows from this is the termination
+      of Palestinian statehood altogether, including its political representatives.
+
+
+      Israel’s efforts have, for that purpose, focused on killing Hamas militants at
+      enormous cost to Palestinian civilians while also attempting to eradicate the
+      diplomatic presence of the organisation. The attack on a building in Doha, Qatar
+      on September 9 was a case in point. The intention of the attack by the IDF, involving
+      15 Israeli fighter jets and an unspecified number of drones, was killing senior
+      Hamas officials involved in discussing a ceasefire proposal advanced by US President
+      Donald Trump. Were it to be accepted, that proposal would see the release of all
+      Israeli hostages (dead and alive) in exchange for Palestinian prisoners, followed
+      by a ceasefire of 60 days duration and ongoing negotiations towards an agreement
+      concluding the war. Qatar had been putting pressure on Hamas to accept the proposal.
+
+
+      While Hamas personnel were killed, such senior negotiators as Khalil al-Hayya
+      (who lost his son), Zaher Jabarin, and Khaled Mashal, were spared. Seven perished
+      in the strike, with Qatar losing two security officers. Yet again, Israel’s military
+      action demonstrated a reading of international law that tilts towards anarchical
+      self-assurance, indifferent to any sovereignty that is not its own. As Israeli
+      Prime Minister Benjamin Netanyahu reasoned, Qatar was hosting terrorists. “I say
+      to Qatar and all nations that harbour terrorists, you either expel them or you
+      bring them to justice. Because you don’t, we will.”
+
+
+      Israeli officials, in keeping with an established, somewhat jaundiced view of
+      international relations, advanced a novel, unhinged reading of the attack on Qatari
+      soil. Israeli Ambassador to the US, Yechiel Leiter, offered his dash of drivel
+      by suggesting that this would “actually advance the efforts for a ceasefire and
+      peace.” And as for the Hamas leaders, “if we didn’t get them this time, we’ll
+      get them the next time.”
+
+
+      A condemnation of Netanyahu’s comments followed from Qatar’s Ministry of Foreign
+      Affairs, which described them as a “shameful attempt … to justify the cowardly
+      attack that targeted Qatari territory, as well as the explicit threats of future
+      violations of state sovereignty.”
+
+
+      Qatar’s Prime Minister Mohammed bin Abdulrahman bin Jassim Al Thani, undoubtedly
+      stung that his country’s modernised military had failed to protect the capital,
+      drew the obvious conclusion. The strike had been motivated by Israel’s desire
+      to eliminate “any chance of peace” in Gaza, and effectively sealed the fate of
+      the Israeli hostages still being held in the Strip. “Everything in the meeting
+      is very well known to the Israelis and the Americans. It’s not something that
+      we are hiding.”
+
+
+      He also demanded some “collective response” to the attack. “There is a response
+      that will happen from the region. This response is currently under consultation
+      and discussion with other partners in the region,” he explained to CNN. What that
+      will look like is by no means clear, given the temperamental nature of relations
+      between the various Gulf states. Al Jazeera’s Charles Stratford reports that a
+      legal committee is being formed to consider “all legal avenues to have Netanyahu
+      tried for breaking international law.”
+
+
+      Even Israel’s least conditional sponsor felt that things had gone too far. “I’m
+      not thrilled by it,” stated Trump as he arrived at a restaurant in Washington.
+      “It’s not a good situation but I will say this: We want the hostages back, but
+      we’re not thrilled about the way it went down today.” He went further, saying
+      he was “very unhappy about it, very unhappy about every aspect.” The President
+      had every reason to harbour such sentiments, given the value of US-Qatar relations
+      and the hosting of US forces at Al-Udeid, the largest US airbase in the Middle
+      East. If Doha can be attacked with impunity, an American military presence becomes
+      less impressive. This was a point Iran’s state-run Press TV found too delicious
+      to avoid. “Did you know,” went the network’s post on X, “that Qatar hosts one
+      of the US’s biggest military bases in the Persian Gulf, with many air defense
+      systems present, yet none of the American THAAD systems fired a single shot to
+      defend Qatar against the Israel invasion?”
+
+
+      The Israeli PM’s list of legal woes is further reason time is being bought. Israel’s
+      strikes across the Middle East this year have been efforts to keep war in the
+      spotlight, peace suspended, and Netanyahu out of jail. The war in Gaza, the attacks
+      on the Houthis in Yemen, the strikes on Iran’s nuclear facilities or the targeting
+      of Syria, have all become matters of personal self-interest and prolongation.
+      Were there a serious risk of calm breaking out, if only momentarily, Netanyahu
+      would have to face something he fails to take seriously: the force of the law.'
+    one_sentence_summary: The article discusses Israel's aggressive military actions,
+      particularly against Hamas, as part of a broader strategy to undermine Palestinian
+      statehood and maintain Prime Minister Netanyahu's political power, while highlighting
+      the international backlash and implications for regional stability, particularly
+      following an attack on Qatari soil that has drawn condemnation and calls for a
+      collective response.
+    paragraph_summary: The article discusses Israel's aggressive military actions in
+      the context of its broader strategy to establish a Greater Israel by annexing
+      Gaza and diminishing the Palestinian Authority's influence, particularly as international
+      recognition of Palestinian statehood is gaining momentum from countries like France,
+      the UK, Canada, and Australia. A recent Israeli airstrike in Doha aimed at killing
+      Hamas leaders involved in ceasefire negotiations, which has drawn condemnation
+      from Qatar and raised concerns about Israel's disregard for international law
+      and sovereignty. The attack has complicated peace efforts and further endangered
+      Israeli hostages held in Gaza, prompting calls for a collective regional response.
+      Even U.S. President Trump expressed dissatisfaction with the situation, highlighting
+      the potential implications for U.S.-Qatar relations and the security of American
+      military presence in the region. The article suggests that Netanyahu's military
+      actions are also aimed at diverting attention from his legal troubles, indicating
+      that ongoing conflict serves his personal interests while hindering the prospect
+      of peace.
+    published: '2025-09-12T05:53:13+00:00'
+  - title: Destroying Gaza City
+    url: https://www.counterpunch.org/2025/09/10/destroying-gaza-city/
+    text: 'Destroying cultures and eradicating the legacies of a people is a game the
+      parochial and the dim-witted delight in. While this should be shunned and punished
+      in international law, a general discomfort of purpose seems to trouble the friends
+      of Israel as the state goes about its business of ruining what vestiges of living
+      might exist in the Gaza Strip. As Israel’s warriors of vengeful virtue go about
+      demolishing one of the last parts of Gaza that has any infrastructure worth mentioning,
+      the usual ceremony of impotent effusion and concern is registered across the networks
+      of the world.
+
+
+      By the end of October 2024, Corey Scher and Jamon Van Den Hoek noted that the
+      Gaza Strip had been subjected to “one of the most intense bombing campaigns of
+      the twenty-first century, driving widespread urban damage.” With a focus on northern
+      Gaza, the authors noted that 191,263 (three-fifths) of all buildings were either
+      damaged or destroyed. In such outlets of sober discernment as Lawfare, we find
+      the authors aghast that the operations in Gaza eclipse those of more recent operations
+      of levelling mayhem, be it the destruction of Mariupol in Ukraine, where 32 percent
+      of the buildings were destroyed or damaged, or the Syrian town of Aleppo, an ancient
+      city victim to a war that saw damage to 40 percent of its buildings during three
+      years of remorseless conflict.
+
+
+      In language so corrupted it conveys the opposite of what is intended, Israel has
+      again used the term “humanitarian zone” in areas it repeatedly bombs, whose residents
+      are being consistently killed. Leaflets dropped over Gaza City on September 7
+      made the bold and mendacious claim: “From this moment it is announced that the
+      al-Mawasi area is a humanitarian zone and steps will be taken to provide better
+      humanitarian services there”. (They were evidently not up to scratch before.)
+      The Gaza Ministry of Interior could only capitalise on this in a statement. “We
+      call on citizens in Gaza City to beware of the occupation’s deceitful claims about
+      the existence of a humanitarian zone in the south of the Strip.”
+
+
+      Al Jazeera’s Hani Mahmoud reports that the IDF is “using remotely controlled explosive
+      robots, and detonating them in residential streets, destroying neighbourhoods.”
+      He goes on to say that homes, public facilities, schools and a mosque were also
+      hit in Sheikh Radwan. The head of the Palestinian NGOs network, Amjad Shawa, also
+      observed that Israeli forces were “aiming to force Palestinians to the southern
+      areas using these explosions, but everyone knows that there is no safe place in
+      the south or any humanitarian zone.”
+
+
+      Demolitions are now taking place at will, with the high-rise buildings in Gaza
+      City falling to attacks. BBC Verify notes that the IDF is replicating its pattern
+      of demolishing structures in southern Gaza. “Thousands of buildings in areas including
+      Rafah and Khan Younis have been demolished by controlled explosions and demolition
+      contractors in the area”.
+
+
+      Along the way, tents have disappeared in such areas as Zeitoun. Palestinians,
+      treated like much incidental livestock in war, have again been forced to move
+      on under callous direction. Israeli military spokesperson, the gruesome Avichay
+      Adraee, growled his bit of advice that residents leave the city to move to a designated
+      coastal area of Khan Younis risibly called a “humanitarian zone”. On social media,
+      Adraee assures his own conscience – and those of his colleagues: residents are
+      told to leave such specific buildings as the Al-Ruya complex because of alleged
+      Hamas “terrorist infrastructure” in it.
+
+
+      Israeli Prime Minister Benjamin Netanyahu adds a vicious flourish, treating the
+      systematic destruction of Gaza City’s infrastructure as entailing the necessary
+      removal of “terror towers” and “nests of terror” (50, to date, having been destroyed).
+      “Now all of this is just an introduction, just a prelude, to the main intense
+      operation – a ground manoeuvre of our forces, who are organising and gathering
+      in Gaza City.” Paying lip service to humanitarian considerations, he also wished
+      it to be on record that those in Gaza “take advantage of this opportunity and
+      listen” with care to his words: “You have been warned. Get out of there.”
+
+
+      The time given for leaving such structures is a question of debate. Aida Abu Kas,
+      resident of the now demolished Sousi Tower, claims that a mere 20 minutes was
+      given by the IDF to take what belongings they could and leave the building before
+      its razing. A better perspective of Israeli intentions is offered by defence minister
+      Israel Katz. In posting a video on social media featuring the destruction of Sousi
+      Tower, he ecstatically claimed (war crime prosecutors, take keen note) that, “The
+      gates of hell are being unlocked in Gaza City.”
+
+
+      In another post of ample blood lust on the X platform, Katz “a last warning to
+      the murderers and rapists of Hamas in Gaza, and in luxury hotels abroad: Release
+      the hostages, and put down your weapons – or Gaza will be destroyed and you will
+      be obliterated.” In such exercises, distinguishing between civilians and combatants
+      no longer takes place. Targets, and culpability, are conflated, as they have been
+      from the outset. The next hellish stage is being set.'
+    one_sentence_summary: The article critiques Israel's extensive bombing campaign
+      in the Gaza Strip, highlighting the destruction of infrastructure, the misleading
+      use of the term "humanitarian zone," and the disregard for civilian safety, while
+      condemning the broader implications of cultural erasure and the normalization
+      of violence against Palestinians.
+    paragraph_summary: The article critiques Israel's military actions in the Gaza Strip,
+      highlighting the extensive destruction of infrastructure and the severe humanitarian
+      crisis resulting from one of the most intense bombing campaigns of the 21st century.
+      It notes that by late October 2024, a significant portion of buildings in northern
+      Gaza had been damaged or destroyed, surpassing destruction seen in other conflict
+      zones like Mariupol and Aleppo. The authors express concern over Israel's use
+      of misleading terminology, such as "humanitarian zones," while simultaneously
+      conducting bombings in those areas, leading to widespread displacement of Palestinian
+      residents. Israeli officials, including Prime Minister Benjamin Netanyahu and
+      Defense Minister Israel Katz, are depicted as justifying the destruction under
+      the guise of targeting Hamas, while the distinction between civilians and combatants
+      becomes increasingly blurred. The article conveys a sense of urgency and despair
+      over the ongoing violence and its implications for the Palestinian population.
+    published: '2025-09-10T05:53:15+00:00'
+  - title: Nuclear Snobbery and Atomic Anniversaries
+    url: https://www.counterpunch.org/2025/09/05/nuclear-snobbery-and-atomic-anniversaries/
+    text: 'How do we commemorate it? The atomic attacks on Hiroshima and Nagasaki during
+      the Second World War on August 6 and 9, 1945 by the United States remain the only
+      examples of the use of such a weapon in history. Rather than banishing any temptation
+      to use them, the wholehearted killing of tens of thousands of civilians through
+      experimental designs laid the grounds for an arms race that has never dissipated.
+      Once found, the military use of the atom was never abolished or dissipated. As
+      Henry Stimson, US Secretary of War, put it to President Harry Truman in April
+      1945, “if the problem of the proper use of this weapon can be solved, we would
+      have the opportunity to bring the world into a pattern in which the peace of the
+      world and our civilization can be saved.”
+
+
+      After eight decades, we have two diametrically opposed trends, babbling in separate
+      halls. Non-nuclear weapons states, for the most part, are showing fortitude and
+      resolve in stigmatising the nuclear bomb through such instruments as the Treaty
+      on the Prohibition of Nuclear Weapons. Others, such as a neutered, heavily vassalized
+      Australia, prefer the comfort of extended deterrence offered by the US nuclear
+      deterrent. But the aristocrats and landed gentry of the nuclear club continue
+      to retain their prized assets, seeking to modernise and refurbish them. Like prized
+      livestock, these creatures need feeding and watering, not forced retirement. In
+      2024, the Stockholm International Peace Research Institute documents, the US,
+      Russia, the UK, France, China, India, Pakistan, North Korea and Israel “continued
+      intensive nuclear modernization programmes […] upgrading existing weapons and
+      adding newer versions.”
+
+
+      This whole process has been characterised by a certain snobbery, one encouraged
+      by the 1968 Treaty on the Non-Proliferation of Nuclear Weapons. The document legitimised
+      the sanctity of the nuclear club by means of bribery: non-nuclear weapon states
+      could still avail themselves of nuclear energy for peaceful purposes while nuclear
+      weapons states would abide by the promise of Article VI. “Each of the Parties
+      to the Treaty,” states the article, “undertakes to pursue negotiations in good
+      faith on effective measures relating to cessation of the nuclear arms race at
+      an early date and to nuclear disarmament, and on a treaty on general and complete
+      disarmament under strict and effective international control.”
+
+
+      The NPT, and in particular Article VI, is looking increasingly worn. Executive
+      director of Project Ploughshares, Cesar Jaramillo, is merely stating the obvious
+      by referring to two stresses at work on those arrangements: an internal one marked
+      “by the persistent failure of nuclear-weapon states to meet disarmament obligations”
+      and an external one characterised by “shifting geopolitical dynamics that threaten
+      to dismantle longstanding norms.”
+
+
+      Unfortunately, the events of this year, particularly regarding the illegal attack
+      on Iran’s nuclear facilities and infrastructure by Israel and the United States,
+      continues to demonstrate the appeal of such weapons. On the pretext of claiming
+      how horrifying such arms are in terms of acquisition and potential use, the two
+      countries demonstrated their quintessential value. The implications of Operations
+      “Rising Lion” and “Midnight Hammer”, the respective names given to the Israeli
+      and US bombing operations against the Fordow, Natanz and Isfahan nuclear facilities
+      in June, bode ill. The absurdity of this action was laid bare by the fact that
+      Iran had originally surrendered its quest for a nuclear weapon by joining the
+      Joint Comprehensive Plan of Action (JCPOA) that the US decided to leave in 2018.
+      That Tehran subsequently enriched uranium to the level of 60 per cent was something
+      to draw the surly attention of the International Atomic Energy Agency, but it
+      was still below the 90 per cent required for weapons-grade production.
+
+
+      As the bombs fell, the grand defenders of international law were nowhere to be
+      found. When they bothered to make an appearance, they scolded Iran for nursing
+      nuclear ambitions of its own, sparing any chastening words for Israel, an undeclared
+      nuclear power that decided years ago to join the nuclear club as a prancing upstart
+      sneering at international treaties, even as it decided to deny the entitlement
+      of any power in the Middle East to do the same. The words of Australia’s Foreign
+      Minister, Penny Wong, were typical of this: “The world has long agreed Iran cannot
+      be allowed to get a nuclear weapon, and we support action to prevent this. That
+      is what this is.”
+
+
+      The tragic lesson of the June attacks on Iran’s nuclear infrastructure adds succour
+      to the proposition that not having such a military capability, and more to the
+      point, being told not to acquire one, endangers the state in question. The North
+      Koreans, having witnessed the demise of the regimes of Saddam Hussein in Iraq
+      and Muammar Gaddafi in Libya to foreign invasion and interventions despite both
+      having abandoned their nuclear programs, studied that lesson with avid keenness.
+      In Europe, countries concerned about a loss of interest from the Trump administration
+      in extending its nuclear deterrent – an infantile notion given the presence of
+      some 100,000 US soldiers and 100 tactical nuclear weapons on the continent – are
+      mulling over a collective option that could involve a “Eurobomb”. The pollen of
+      proliferation is in the air.
+
+
+      The nuclear club, to admit members, requires stupendously good references (is
+      the candidate clubbable or not?), powerful patrons and shed loads of hypocrisy.
+      Short of that, the country must acquire nuclear weapons clandestinely, a point
+      Israel knows better than most. Once admitted to the inner sanctum, membership
+      guarantees both security and an eternal reluctance that a sovereign option, once
+      attained, should ever be relinquished.'
+    one_sentence_summary: The article discusses the enduring legacy of the atomic bombings
+      of Hiroshima and Nagasaki, highlighting the ongoing nuclear arms race, the hypocrisy
+      of nuclear-armed states, and the implications of recent military actions against
+      Iran, which underscore the perceived necessity of nuclear weapons for national
+      security amidst a backdrop of failed disarmament efforts and shifting geopolitical
+      dynamics.
+    paragraph_summary: The atomic bombings of Hiroshima and Nagasaki in 1945 marked
+      the only use of nuclear weapons in warfare, yet instead of deterring future use,
+      they initiated an ongoing arms race and a complex global dynamic regarding nuclear
+      weapons. Eight decades later, while non-nuclear states are increasingly stigmatizing
+      nuclear arms through treaties like the Treaty on the Prohibition of Nuclear Weapons,
+      nuclear-armed nations continue to modernize their arsenals, undermining disarmament
+      efforts outlined in the Treaty on the Non-Proliferation of Nuclear Weapons (NPT).
+      Recent geopolitical tensions, particularly the U.S. and Israel's military actions
+      against Iran's nuclear facilities, highlight the paradox of nuclear deterrence,
+      where states without such capabilities feel increasingly vulnerable. This situation
+      reinforces the notion that possessing nuclear weapons may be seen as essential
+      for national security, as evidenced by North Korea's observations of the fates
+      of Iraq and Libya after abandoning their nuclear ambitions. The article concludes
+      that the nuclear club operates on a basis of hypocrisy and exclusivity, with new
+      members often forced to pursue clandestine routes to join, as the global landscape
+      continues to grapple with the implications of nuclear proliferation.
+    published: '2025-09-05T05:53:47+00:00'
   - title: 'Refugee Dunghills: Australia Makes Another Nauru Deal'
     url: https://www.counterpunch.org/2025/09/03/refugee-dunghills-australia-makes-another-nauru-deal/
     text: 'Over the last two decades, Australia has made a name for itself by pursuing

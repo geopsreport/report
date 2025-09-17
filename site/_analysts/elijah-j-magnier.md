@@ -7,17 +7,1962 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  The ongoing conflict in Gaza continues to reshape regional dynamics, with Israel’s military operations intensifying and diplomatic efforts revealing deep divisions among international actors. Over the past 48 hours, the focus has shifted to the contrasting approaches of US envoys in the region and the persistent inability of outside powers to influence Israeli policy under Prime Minister Benjamin Netanyahu.
+  The Israeli military has escalated its campaign in Gaza City, marking the beginning of the second phase of "Gideon’s Chariots 2." This operation follows weeks of intense aerial bombardment that, according to **Elijah J. Magnier**, has already left over 50,000 civilians homeless and destroyed hundreds of buildings, including residential towers and refugee centers. The latest development is the deployment of two Israeli army divisions into Gaza City, with a third division on standby, initiating a large-scale ground offensive aimed at capturing territory and fundamentally altering the urban landscape.
   
-  **Elijah J. Magnier** highlights the divergent strategies of US envoys Steve Witkoff and Thomas Barrack. Witkoff has demonstrated an ability to adapt to Netanyahu’s political maneuvers, successfully navigating the Israeli leader’s survival tactics. In contrast, Barrack’s attempt at good faith diplomacy has faltered, as he underestimated Netanyahu’s willingness to exploit diplomatic engagement for domestic advantage. According to Magnier, this underscores a broader pattern: “Barrack failed by believing in sincere diplomacy with a leader considered illusory even by his own allies.”
+  **Magnier** notes that this combined-arms assault is characterized by unprecedented levels of bombardment and is designed not only to seize control but also to reshape the city’s structure. The Israeli strategy is expected to unfold over a period that could last up to six months, reflecting both the scale of the operation and the anticipated resistance.
   
-  Meanwhile, the humanitarian situation in Gaza remains dire. Israeli forces are concentrating their offensive on Gaza City, aiming to dismantle Hamas’s infrastructure while pushing for the displacement of large numbers of residents toward Rafah. Despite heavy surveillance and military pressure, Hamas has managed to conduct bold psychological operations, further complicating Israeli efforts and exposing intelligence blind spots.
+  The humanitarian situation continues to deteriorate rapidly. The destruction wrought by the initial phase has already displaced tens of thousands, and the intensification of ground operations is likely to exacerbate civilian suffering. The Israeli government, however, maintains a focus on military objectives and has downplayed the humanitarian impact, as previously reported.
   
-  The international response continues to harden against Israel. As previously reported, Israel faces “unprecedented global isolation and condemnation,” with even traditional allies expressing disapproval of the ongoing military campaign and the forced displacement of Palestinians. The so-called “humanitarian corridor” is increasingly seen by observers as a mechanism for permanent demographic change rather than genuine relief.
+  Looking ahead, the majority of analysts, including **Magnier**, assess with high confidence that the Israeli campaign will persist in its current trajectory, with further escalation in both military operations and urban destruction. "I guarantee," writes **Magnier**, "that the Israeli strategy is to fundamentally change Gaza City’s landscape, regardless of the humanitarian cost." The expectation is that the operation will become protracted, with significant implications for regional stability and Israel’s international standing.
   
-  **Trends and Predictions:**  
-  The majority of analysts agree that Netanyahu’s strategy is to prolong the conflict, leveraging international divisions and the lack of effective diplomatic pressure. The failure of US diplomatic initiatives to alter Israeli policy is likely to persist, as long as envoys do not fully grasp the domestic imperatives driving Netanyahu’s decisions. I guarantee that, barring a dramatic shift in US or European policy, Israel will continue its current course, deepening its international isolation while escalating operations in Gaza. The humanitarian crisis is set to worsen, with a high chance of further displacement and regional destabilization in the coming weeks.
+  In summary, the conflict in Gaza has entered a new, more destructive phase, with the Israeli military committed to a long-term ground campaign. The humanitarian crisis is set to deepen, and the prospects for a swift resolution remain remote.
 articles:
+  - title: 'De tweede fase van Gideon’s Chariots 2: Israël verwoestte Gaza-stad voorafgaand
+      aan grondoffensief'
+    url: https://ejmagnier.com/2025/09/16/de-tweede-fase-van-gideons-chariots-2-israel-verwoestte-gaza-stad-voorafgaand-aan-grondoffensief/
+    text: Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Het Israëlische
+      leger heeft officieel de start aangekondigd van de tweede fase van zijn campagne,
+      “Gideon’s Chariots 2”, en bevestigd dat twee volledige divisies nu ingezet zijn
+      voor operaties in Gaza-stad, terwijl een derde divisie paraat blijft om zich bij
+      hen aan te sluiten. Dit besluit markeert de overgang van luchtbombardementen naar
+      een gecombineerde wapenaanval die niet alleen bedoeld is om grondgebied te veroveren,
+      maar ook om de stedelijke structuur van Gaza fundamenteel te veranderen. Nu de
+      bombardementen tot ongekende niveaus zijn geïntensiveerd, komen militaire doctrine
+      en politieke berekeningen samen in een strategie die minstens zes maanden kan
+      duren voordat Gaza-stad volledig bezet is. Elke moderne militaire campagne begint
+      met een voorbereidend bombardement dat bedoeld is om het verzet te verzwakken,
+      de infrastructuur te vernietigen en de verdedigers te desoriënteren. De Israëlische
+      bezettingsmacht vormt hierop geen uitzondering. De afgelopen weken heeft hun luchtmacht
+      systematisch zestig gebouwen van meer dan zeven verdiepingen vernietigd, waardoor
+      uitkijkpunten, commandoposten en potentiële bolwerken voor Hamas-strijders zijn
+      weggenomen, maar bovenal om bewoners te overtuigen te vluchten. Wat overblijft
+      zijn lagere woonblokken en commerciële units, die verschillende uitdagingen vormen
+      voor gemechaniseerde troepen die door smalle straten en steegjes oprukken. De
+      intensiteit van de bombardementen van de afgelopen dagen duidt op een klassieke
+      pre-aanvalcyclus. Het doel van de artillerie- en luchtaanvallen op stedelijke
+      gebieden is niet alleen om een tactische schok te veroorzaken, maar ook om de
+      weg vrij te maken voor een gemechaniseerde inval. Israëls vasthoudendheid aan
+      overweldigende vuurkracht weerspiegelt de Sovjet-tactiek in Afghanistan, de Amerikaanse
+      aanpak in Fallujah en Mosul, en de eigen bezetting van Rafah – waarbij de stad
+      tot puin wordt gereduceerd voordat infanterie en pantservoertuigen worden ingezet.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet
+    one_sentence_summary: Het Israëlische leger heeft de tweede fase van zijn campagne
+      "Gideon’s Chariots 2" aangekondigd, waarbij twee divisies in Gaza-stad zijn ingezet
+      voor een gecombineerde wapenaanval die gericht is op het veroveren van grondgebied
+      en het fundamenteel veranderen van de stedelijke structuur, met een strategie
+      die mogelijk zes maanden kan duren.
+    paragraph_summary: Het Israëlische leger heeft de tweede fase van zijn campagne
+      "Gideon’s Chariots 2" aangekondigd, waarbij twee divisies zijn ingezet voor operaties
+      in Gaza-stad, met een derde divisie in reserve. Deze fase markeert een verschuiving
+      van luchtbombardementen naar een gecombineerde grondaanval, met als doel niet
+      alleen terrein te veroveren, maar ook de stedelijke structuur van Gaza ingrijpend
+      te veranderen. De bombardementen zijn de afgelopen weken aanzienlijk toegenomen,
+      met de vernietiging van zestig hoge gebouwen om Hamas-strijders te verzwakken
+      en bewoners te dwingen te vluchten. De Israëlische strategie, die parallellen
+      vertoont met eerdere militaire campagnes in Afghanistan en Irak, richt zich op
+      het creëren van een tactische schok en het voorbereiden van een gemechaniseerde
+      inval in de complexe stedelijke omgeving van Gaza.
+    published: '2025-09-16T18:56:23+00:00'
+  - title: 'De tweede fase van Gideon’s Chariots 2: Israël verwoestte Gaza-stad voorafgaand
+      aan grondoffensief'
+    url: https://ejmagnier.com/2025/09/16/de-tweede-fase-van-gideons-chariots-2-israel-verwoestte-gaza-stad-voorafgaand-aan-grondoffensief/
+    text: Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Het Israëlische
+      leger heeft officieel de start aangekondigd van de tweede fase van zijn campagne,
+      “Gideon’s Chariots 2”, en bevestigd dat twee volledige divisies nu ingezet zijn
+      voor operaties in Gaza-stad, terwijl een derde divisie paraat blijft om zich bij
+      hen aan te sluiten. Dit besluit markeert de overgang van luchtbombardementen naar
+      een gecombineerde wapenaanval die niet alleen bedoeld is om grondgebied te veroveren,
+      maar ook om de stedelijke structuur van Gaza fundamenteel te veranderen. Nu de
+      bombardementen tot ongekende niveaus zijn geïntensiveerd, komen militaire doctrine
+      en politieke berekeningen samen in een strategie die minstens zes maanden kan
+      duren voordat Gaza-stad volledig bezet is. Elke moderne militaire campagne begint
+      met een voorbereidend bombardement dat bedoeld is om het verzet te verzwakken,
+      de infrastructuur te vernietigen en de verdedigers te desoriënteren. De Israëlische
+      bezettingsmacht vormt hierop geen uitzondering. De afgelopen weken heeft hun luchtmacht
+      systematisch zestig gebouwen van meer dan zeven verdiepingen vernietigd, waardoor
+      uitkijkpunten, commandoposten en potentiële bolwerken voor Hamas-strijders zijn
+      weggenomen, maar bovenal om bewoners te overtuigen te vluchten. Wat overblijft
+      zijn lagere woonblokken en commerciële units, die verschillende uitdagingen vormen
+      voor gemechaniseerde troepen die door smalle straten en steegjes oprukken. De
+      intensiteit van de bombardementen van de afgelopen dagen duidt op een klassieke
+      pre-aanvalcyclus. Het doel van de artillerie- en luchtaanvallen op stedelijke
+      gebieden is niet alleen om een tactische schok te veroorzaken, maar ook om de
+      weg vrij te maken voor een gemechaniseerde inval. Israëls vasthoudendheid aan
+      overweldigende vuurkracht weerspiegelt de Sovjet-tactiek in Afghanistan, de Amerikaanse
+      aanpak in Fallujah en Mosul, en de eigen bezetting van Rafah – waarbij de stad
+      tot puin wordt gereduceerd voordat infanterie en pantservoertuigen worden ingezet.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet
+    one_sentence_summary: Het Israëlische leger heeft de tweede fase van zijn campagne
+      "Gideon’s Chariots 2" aangekondigd, waarbij twee divisies in Gaza-stad zijn ingezet
+      voor een gecombineerde wapenaanval die gericht is op het veroveren van grondgebied
+      en het fundamenteel veranderen van de stedelijke structuur, met een strategie
+      die mogelijk zes maanden kan duren.
+    paragraph_summary: Het Israëlische leger heeft de tweede fase van zijn campagne
+      "Gideon’s Chariots 2" aangekondigd, waarbij twee divisies zijn ingezet voor operaties
+      in Gaza-stad, met een derde divisie in reserve. Deze fase markeert een verschuiving
+      van luchtbombardementen naar een gecombineerde grondaanval, met als doel niet
+      alleen terrein te veroveren, maar ook de stedelijke structuur van Gaza ingrijpend
+      te veranderen. De bombardementen zijn de afgelopen weken aanzienlijk toegenomen,
+      met de vernietiging van zestig hoge gebouwen om Hamas-strijders te verzwakken
+      en bewoners te dwingen te vluchten. De Israëlische strategie, die parallellen
+      vertoont met eerdere militaire campagnes in Afghanistan en Irak, richt zich op
+      het creëren van een tactische schok en het voorbereiden van een gemechaniseerde
+      inval in de complexe stedelijke omgeving van Gaza.
+    published: '2025-09-16T18:56:23+00:00'
+  - title: 'The Second Phase of Gideon’s Chariots 2: Israel Levels Gaza City Ahead of
+      Ground Assault'
+    url: https://ejmagnier.com/2025/09/16/the-second-phase-of-gideons-chariots-2-israel-levels-gaza-city-ahead-of-ground-assault/
+    text: Tweet By Elijah J. Magnier – The Israeli army has formally announced the start
+      of the second phase of its campaign, “Gideon’s Chariots 2”, confirming that two
+      full divisions are now committed to operations in Gaza City while a third remains
+      on alert, ready to join in. The decision marks the transition from aerial bombardment
+      to a combined arms advance designed not only to capture territory but to fundamentally
+      alter the urban fabric of Gaza. With bombardments intensifying to unprecedented
+      levels, military doctrine and political calculation converge in a strategy that
+      may stretch for at least six months before Gaza City is brought under full occupation.
+      Every modern military campaign begins with a preparatory bombardment designed
+      to soften resistance, flatten infrastructure, and disorient defenders. The Israeli
+      occupation forces are no exception. Over the past weeks, their air force has systematically
+      destroyed sixty multistorey buildings—structures rising more than seven floors—removing
+      vantage points, command posts, potential strongholds for Hamas fighters, but above
+      all, convincing residents to flee. What remains are lower residential blocks and
+      commercial units, which pose different challenges for mechanised troops advancing
+      through narrow streets and alleys. The intensity of bombing in recent days signals
+      a classic pre-assault cycle. As artillery and aerial strikes pound urban sectors,
+      the aim is not only to create tactical shock but to prepare the ground for mechanised
+      entry. Israel’s insistence on overwhelming firepower mirrors Soviet tactics in
+      Afghanistan, U.S. approaches in Fallujah and Mosul, and its own occupation of
+      Rafah—reducing the city to rubble before infantry and armour are committed. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: The Israeli army has launched the second phase of its campaign
+      in Gaza City, transitioning from aerial bombardment to ground operations with
+      two divisions committed and a third on standby, aiming to capture territory and
+      reshape the urban landscape amidst intensifying bombardments.
+    paragraph_summary: The Israeli army has officially launched the second phase of
+      its campaign, "Gideon’s Chariots 2," deploying two full divisions to Gaza City
+      while a third remains on standby. This shift from aerial bombardment to a combined
+      arms offensive aims to capture territory and significantly alter Gaza's urban
+      landscape, with operations expected to last at least six months. The intensified
+      bombardments have already led to the destruction of numerous multistorey buildings,
+      targeting Hamas strongholds and compelling residents to evacuate. The current
+      military strategy reflects a classic pre-assault cycle, utilizing overwhelming
+      firepower to disorient defenders and prepare for mechanized troop movements through
+      the city's narrow streets, reminiscent of historical military tactics used in
+      other urban conflicts.
+    published: '2025-09-16T18:41:51+00:00'
+  - title: 'The Second Phase of Gideon’s Chariots 2: Israel Levels Gaza City Ahead of
+      Ground Assault'
+    url: https://ejmagnier.com/2025/09/16/the-second-phase-of-gideons-chariots-2-israel-levels-gaza-city-ahead-of-ground-assault/
+    text: Tweet By Elijah J. Magnier – The Israeli army has formally announced the start
+      of the second phase of its campaign, “Gideon’s Chariots 2”, confirming that two
+      full divisions are now committed to operations in Gaza City while a third remains
+      on alert, ready to join in. The decision marks the transition from aerial bombardment
+      to a combined arms advance designed not only to capture territory but to fundamentally
+      alter the urban fabric of Gaza. With bombardments intensifying to unprecedented
+      levels, military doctrine and political calculation converge in a strategy that
+      may stretch for at least six months before Gaza City is brought under full occupation.
+      Every modern military campaign begins with a preparatory bombardment designed
+      to soften resistance, flatten infrastructure, and disorient defenders. The Israeli
+      occupation forces are no exception. Over the past weeks, their air force has systematically
+      destroyed sixty multistorey buildings—structures rising more than seven floors—removing
+      vantage points, command posts, potential strongholds for Hamas fighters, but above
+      all, convincing residents to flee. What remains are lower residential blocks and
+      commercial units, which pose different challenges for mechanised troops advancing
+      through narrow streets and alleys. The intensity of bombing in recent days signals
+      a classic pre-assault cycle. As artillery and aerial strikes pound urban sectors,
+      the aim is not only to create tactical shock but to prepare the ground for mechanised
+      entry. Israel’s insistence on overwhelming firepower mirrors Soviet tactics in
+      Afghanistan, U.S. approaches in Fallujah and Mosul, and its own occupation of
+      Rafah—reducing the city to rubble before infantry and armour are committed. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: The Israeli army has launched the second phase of its campaign
+      in Gaza City, transitioning from aerial bombardment to ground operations with
+      two divisions committed and a third on standby, aiming to capture territory and
+      reshape the urban landscape amidst intensifying bombardments.
+    paragraph_summary: The Israeli army has officially launched the second phase of
+      its campaign, "Gideon’s Chariots 2," deploying two full divisions to Gaza City
+      while a third remains on standby. This shift from aerial bombardment to a combined
+      arms offensive aims to capture territory and significantly alter Gaza's urban
+      landscape, with operations expected to last at least six months. The intensified
+      bombardments have already led to the destruction of numerous multistorey buildings,
+      targeting Hamas strongholds and compelling residents to evacuate. The current
+      military strategy reflects a classic pre-assault cycle, utilizing overwhelming
+      firepower to disorient defenders and prepare for mechanized troop movements through
+      the city's narrow streets, reminiscent of historical military tactics used in
+      other urban conflicts.
+    published: '2025-09-16T18:41:51+00:00'
+  - title: 'La deuxième phase des « Chariots de Gédéon 2 » : Israël rase Gaza-ville
+      avant l’assaut terrestre'
+    url: https://ejmagnier.com/2025/09/16/la-deuxieme-phase-des-chariots-de-gedeon-2-israel-rase-gaza-ville-avant-lassaut-terrestre/
+    text: Tweet Par Elijah J. Magnier – L’armée israélienne a officiellement annoncé
+      le début de la deuxième phase de sa campagne, « Chariots de Gédéon 2 », confirmant
+      que deux divisions entières sont désormais engagées dans les opérations à Gaza-ville
+      tandis qu’une troisième reste en alerte, prête à rejoindre l’offensive. Cette
+      décision marque le passage des bombardements aériens à une avancée interarmes
+      conçue non seulement pour capturer du territoire mais aussi pour transformer fondamentalement
+      le tissu urbain de Gaza. Avec des bombardements atteignant un niveau d’intensité
+      sans précédent, doctrine militaire et calcul politique convergent dans une stratégie
+      qui pourrait durer au moins six mois avant que Gaza-ville ne soit totalement occupée.
+      Chaque campagne militaire moderne commence par un bombardement préparatoire destiné
+      à affaiblir la résistance, détruire les infrastructures et désorienter les défenseurs.
+      Les forces d’occupation israéliennes n’y font pas exception. Ces dernières semaines,
+      leur aviation a systématiquement détruit soixante immeubles de grande hauteur
+      — des structures de plus de sept étages — éliminant points de vue, postes de commandement,
+      potentiels bastions pour les combattants du Hamas mais, surtout, poussant les
+      habitants à fuir. Ce qui reste, ce sont des blocs résidentiels bas et des unités
+      commerciales, qui posent d’autres défis aux troupes mécanisées avançant dans les
+      rues étroites et les ruelles. L’intensité des bombardements de ces derniers jours
+      signale un cycle classique de pré-assaut. Tandis que l’artillerie et les frappes
+      aériennes pilonnent les secteurs urbains, l’objectif est non seulement de créer
+      un choc tactique mais aussi de préparer le terrain pour l’entrée des forces mécanisées.
+      L’insistance d’Israël sur la puissance de feu écrasante rappelle les tactiques
+      soviétiques en Afghanistan, les approches américaines à Falloujah et Mossoul,
+      ainsi que sa propre occupation de Rafah — réduire la ville en ruines avant l’engagement
+      de l’infanterie et des blindés. Subscribe Subscribe to get access Read more of
+      this content when you subscribe today. Subscribe Submitting form Log in Make a
+      one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet
+    one_sentence_summary: L'armée israélienne a lancé la deuxième phase de sa campagne
+      "Chariots de Gédéon 2" à Gaza, impliquant deux divisions dans des opérations terrestres
+      intensifiées, visant à capturer du territoire et à transformer la ville, avec
+      des bombardements d'une intensité sans précédent et une stratégie qui pourrait
+      durer jusqu'à six mois.
+    paragraph_summary: L'armée israélienne a annoncé le lancement de la deuxième phase
+      de sa campagne "Chariots de Gédéon 2", impliquant deux divisions dans des opérations
+      à Gaza-ville, tandis qu'une troisième est en attente. Cette phase marque une transition
+      des bombardements aériens vers une offensive interarmes visant à capturer du territoire
+      et à transformer le paysage urbain de Gaza, avec des bombardements d'une intensité
+      sans précédent. Les forces israéliennes ont détruit de nombreux immeubles de grande
+      hauteur pour affaiblir la résistance du Hamas et pousser les civils à fuir, laissant
+      derrière elles des zones urbaines plus difficiles à traverser pour les troupes
+      mécanisées. Cette stratégie, qui s'inspire de tactiques militaires historiques,
+      vise à créer un choc tactique et à préparer le terrain pour l'engagement des forces
+      au sol, suggérant que l'occupation de Gaza-ville pourrait durer plusieurs mois.
+    published: '2025-09-16T18:40:05+00:00'
+  - title: 'La deuxième phase des « Chariots de Gédéon 2 » : Israël rase Gaza-ville
+      avant l’assaut terrestre'
+    url: https://ejmagnier.com/2025/09/16/la-deuxieme-phase-des-chariots-de-gedeon-2-israel-rase-gaza-ville-avant-lassaut-terrestre/
+    text: Tweet Par Elijah J. Magnier – L’armée israélienne a officiellement annoncé
+      le début de la deuxième phase de sa campagne, « Chariots de Gédéon 2 », confirmant
+      que deux divisions entières sont désormais engagées dans les opérations à Gaza-ville
+      tandis qu’une troisième reste en alerte, prête à rejoindre l’offensive. Cette
+      décision marque le passage des bombardements aériens à une avancée interarmes
+      conçue non seulement pour capturer du territoire mais aussi pour transformer fondamentalement
+      le tissu urbain de Gaza. Avec des bombardements atteignant un niveau d’intensité
+      sans précédent, doctrine militaire et calcul politique convergent dans une stratégie
+      qui pourrait durer au moins six mois avant que Gaza-ville ne soit totalement occupée.
+      Chaque campagne militaire moderne commence par un bombardement préparatoire destiné
+      à affaiblir la résistance, détruire les infrastructures et désorienter les défenseurs.
+      Les forces d’occupation israéliennes n’y font pas exception. Ces dernières semaines,
+      leur aviation a systématiquement détruit soixante immeubles de grande hauteur
+      — des structures de plus de sept étages — éliminant points de vue, postes de commandement,
+      potentiels bastions pour les combattants du Hamas mais, surtout, poussant les
+      habitants à fuir. Ce qui reste, ce sont des blocs résidentiels bas et des unités
+      commerciales, qui posent d’autres défis aux troupes mécanisées avançant dans les
+      rues étroites et les ruelles. L’intensité des bombardements de ces derniers jours
+      signale un cycle classique de pré-assaut. Tandis que l’artillerie et les frappes
+      aériennes pilonnent les secteurs urbains, l’objectif est non seulement de créer
+      un choc tactique mais aussi de préparer le terrain pour l’entrée des forces mécanisées.
+      L’insistance d’Israël sur la puissance de feu écrasante rappelle les tactiques
+      soviétiques en Afghanistan, les approches américaines à Falloujah et Mossoul,
+      ainsi que sa propre occupation de Rafah — réduire la ville en ruines avant l’engagement
+      de l’infanterie et des blindés. Subscribe Subscribe to get access Read more of
+      this content when you subscribe today. Subscribe Submitting form Log in Make a
+      one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet
+    one_sentence_summary: L'armée israélienne a lancé la deuxième phase de sa campagne
+      "Chariots de Gédéon 2" à Gaza, impliquant deux divisions dans des opérations terrestres
+      intensifiées, visant à capturer du territoire et à transformer la ville, avec
+      des bombardements d'une intensité sans précédent et une stratégie qui pourrait
+      durer jusqu'à six mois.
+    paragraph_summary: L'armée israélienne a annoncé le lancement de la deuxième phase
+      de sa campagne "Chariots de Gédéon 2", impliquant deux divisions dans des opérations
+      à Gaza-ville, tandis qu'une troisième est en attente. Cette phase marque une transition
+      des bombardements aériens vers une offensive interarmes visant à capturer du territoire
+      et à transformer le paysage urbain de Gaza, avec des bombardements d'une intensité
+      sans précédent. Les forces israéliennes ont détruit de nombreux immeubles de grande
+      hauteur pour affaiblir la résistance du Hamas et pousser les civils à fuir, laissant
+      derrière elles des zones urbaines plus difficiles à traverser pour les troupes
+      mécanisées. Cette stratégie, qui s'inspire de tactiques militaires historiques,
+      vise à créer un choc tactique et à préparer le terrain pour l'engagement des forces
+      au sol, suggérant que l'occupation de Gaza-ville pourrait durer plusieurs mois.
+    published: '2025-09-16T18:40:05+00:00'
+  - title: 'Die zweite Phase von „Gideon’s Chariots 2“: Israel ebnet Gaza-Stadt vor
+      Bodenoffensive'
+    url: https://ejmagnier.com/2025/09/16/die-zweite-phase-von-gideons-chariots-2-israel-ebnet-gaza-stadt-vor-bodenoffensive/
+    text: Tweet Von Elijah J. Magnier – Die israelische Armee hat offiziell den Beginn
+      der zweiten Phase ihrer Kampagne „Gideon’s Chariots 2“ angekündigt und bestätigt,
+      dass nun zwei vollständige Divisionen in Gaza-Stadt im Einsatz sind, während eine
+      dritte in Alarmbereitschaft bleibt und bereit ist, sich anzuschließen. Diese Entscheidung
+      markiert den Übergang von Luftangriffen zu einem kombinierten Vorstoß, der nicht
+      nur darauf abzielt, Territorium zu erobern, sondern auch die städtische Struktur
+      Gazas grundlegend zu verändern. Angesichts der Bombardierungen, die ein beispielloses
+      Ausmaß erreichen, laufen militärische Doktrin und politische Kalkulation in einer
+      Strategie zusammen, die sich über mindestens sechs Monate erstrecken könnte, bevor
+      Gaza-Stadt vollständig besetzt ist. Jede moderne Militäraktion beginnt mit einem
+      vorbereitenden Bombardement, das darauf abzielt, den Widerstand zu schwächen,
+      die Infrastruktur zu zerstören und die Verteidiger zu desorientieren. Die israelischen
+      Besatzungstruppen bilden da keine Ausnahme. In den letzten Wochen hat ihre Luftwaffe
+      systematisch sechzig mehrstöckige Gebäude – mit mehr als sieben Stockwerken –
+      zerstört, um Aussichtspunkte, Kommandoposten und potenzielle Hochburgen für Hamas-Kämpfer
+      zu beseitigen, vor allem aber, um die Bewohner zur Flucht zu bewegen. Übrig bleiben
+      niedrigere Wohnblocks und Gewerbegebäude, die für mechanisierte Truppen, die durch
+      enge Straßen und Gassen vorrücken, andere Herausforderungen darstellen. Die Intensität
+      der Bombardierungen in den letzten Tagen deutet auf einen klassischen Vorbereitungszyklus
+      hin. Wenn Artillerie und Luftangriffe städtische Gebiete bombardieren, geht es
+      nicht nur darum, einen taktischen Schock zu erzeugen, sondern auch darum, den
+      Boden für den mechanisierten Einmarsch vorzubereiten. Israels Beharren auf überwältigender
+      Feuerkraft spiegelt die sowjetische Taktik in Afghanistan, die Vorgehensweise
+      der USA in Falludscha und Mossul sowie die eigene Besetzung von Rafah wider –
+      die Stadt wird in Schutt und Asche gelegt, bevor Infanterie und Panzer zum Einsatz
+      kommen. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet
+    one_sentence_summary: Die israelische Armee hat die zweite Phase ihrer Offensive
+      "Gideon’s Chariots 2" in Gaza-Stadt gestartet, indem sie zwei Divisionen im Einsatz
+      hat und eine dritte in Alarmbereitschaft, um von Luftangriffen zu einem kombinierten
+      Bodenvorstoß überzugehen, der auf eine grundlegende Veränderung der städtischen
+      Struktur abzielt.
+    paragraph_summary: Die israelische Armee hat offiziell die zweite Phase ihrer Kampagne
+      „Gideon’s Chariots 2“ in Gaza-Stadt eingeleitet, wobei zwei Divisionen im Einsatz
+      sind und eine dritte in Alarmbereitschaft bleibt. Dieser Schritt markiert den
+      Übergang von Luftangriffen zu einem kombinierten Vorstoß, der darauf abzielt,
+      sowohl Territorium zu erobern als auch die städtische Struktur Gazas grundlegend
+      zu verändern. Die Intensität der Bombardierungen, die in den letzten Wochen ein
+      beispielloses Ausmaß erreicht haben, zielt darauf ab, den Widerstand zu schwächen
+      und die Infrastruktur zu zerstören, um die Zivilbevölkerung zur Flucht zu bewegen.
+      Die Strategie könnte sich über mindestens sechs Monate erstrecken, wobei die israelischen
+      Streitkräfte auf überwältigende Feuerkraft setzen, ähnlich den Taktiken, die in
+      früheren Konflikten wie in Afghanistan, Falludscha und Mossul angewendet wurden.
+    published: '2025-09-16T18:38:58+00:00'
+  - title: 'Die zweite Phase von „Gideon’s Chariots 2“: Israel ebnet Gaza-Stadt vor
+      Bodenoffensive'
+    url: https://ejmagnier.com/2025/09/16/die-zweite-phase-von-gideons-chariots-2-israel-ebnet-gaza-stadt-vor-bodenoffensive/
+    text: Tweet Von Elijah J. Magnier – Die israelische Armee hat offiziell den Beginn
+      der zweiten Phase ihrer Kampagne „Gideon’s Chariots 2“ angekündigt und bestätigt,
+      dass nun zwei vollständige Divisionen in Gaza-Stadt im Einsatz sind, während eine
+      dritte in Alarmbereitschaft bleibt und bereit ist, sich anzuschließen. Diese Entscheidung
+      markiert den Übergang von Luftangriffen zu einem kombinierten Vorstoß, der nicht
+      nur darauf abzielt, Territorium zu erobern, sondern auch die städtische Struktur
+      Gazas grundlegend zu verändern. Angesichts der Bombardierungen, die ein beispielloses
+      Ausmaß erreichen, laufen militärische Doktrin und politische Kalkulation in einer
+      Strategie zusammen, die sich über mindestens sechs Monate erstrecken könnte, bevor
+      Gaza-Stadt vollständig besetzt ist. Jede moderne Militäraktion beginnt mit einem
+      vorbereitenden Bombardement, das darauf abzielt, den Widerstand zu schwächen,
+      die Infrastruktur zu zerstören und die Verteidiger zu desorientieren. Die israelischen
+      Besatzungstruppen bilden da keine Ausnahme. In den letzten Wochen hat ihre Luftwaffe
+      systematisch sechzig mehrstöckige Gebäude – mit mehr als sieben Stockwerken –
+      zerstört, um Aussichtspunkte, Kommandoposten und potenzielle Hochburgen für Hamas-Kämpfer
+      zu beseitigen, vor allem aber, um die Bewohner zur Flucht zu bewegen. Übrig bleiben
+      niedrigere Wohnblocks und Gewerbegebäude, die für mechanisierte Truppen, die durch
+      enge Straßen und Gassen vorrücken, andere Herausforderungen darstellen. Die Intensität
+      der Bombardierungen in den letzten Tagen deutet auf einen klassischen Vorbereitungszyklus
+      hin. Wenn Artillerie und Luftangriffe städtische Gebiete bombardieren, geht es
+      nicht nur darum, einen taktischen Schock zu erzeugen, sondern auch darum, den
+      Boden für den mechanisierten Einmarsch vorzubereiten. Israels Beharren auf überwältigender
+      Feuerkraft spiegelt die sowjetische Taktik in Afghanistan, die Vorgehensweise
+      der USA in Falludscha und Mossul sowie die eigene Besetzung von Rafah wider –
+      die Stadt wird in Schutt und Asche gelegt, bevor Infanterie und Panzer zum Einsatz
+      kommen. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet
+    one_sentence_summary: Die israelische Armee hat die zweite Phase ihrer Offensive
+      "Gideon’s Chariots 2" in Gaza-Stadt gestartet, indem sie zwei Divisionen im Einsatz
+      hat und eine dritte in Alarmbereitschaft, um von Luftangriffen zu einem kombinierten
+      Bodenvorstoß überzugehen, der auf eine grundlegende Veränderung der städtischen
+      Struktur abzielt.
+    paragraph_summary: Die israelische Armee hat offiziell die zweite Phase ihrer Kampagne
+      „Gideon’s Chariots 2“ in Gaza-Stadt eingeleitet, wobei zwei Divisionen im Einsatz
+      sind und eine dritte in Alarmbereitschaft bleibt. Dieser Schritt markiert den
+      Übergang von Luftangriffen zu einem kombinierten Vorstoß, der darauf abzielt,
+      sowohl Territorium zu erobern als auch die städtische Struktur Gazas grundlegend
+      zu verändern. Die Intensität der Bombardierungen, die in den letzten Wochen ein
+      beispielloses Ausmaß erreicht haben, zielt darauf ab, den Widerstand zu schwächen
+      und die Infrastruktur zu zerstören, um die Zivilbevölkerung zur Flucht zu bewegen.
+      Die Strategie könnte sich über mindestens sechs Monate erstrecken, wobei die israelischen
+      Streitkräfte auf überwältigende Feuerkraft setzen, ähnlich den Taktiken, die in
+      früheren Konflikten wie in Afghanistan, Falludscha und Mossul angewendet wurden.
+    published: '2025-09-16T18:38:58+00:00'
+  - title: 'Gaza in Trümmern, Israel isoliert: Netanjahus kalkulierte Sucht nach Konflikten'
+    url: https://ejmagnier.com/2025/09/15/gaza-in-trummern-israel-isoliert-netanjahus-kalkulierte-sucht-nach-konflikten/
+    text: 'Tweet Von Elijah J. Magnier – Als Israels Verteidigungsminister Israel Katz
+      erklärte, sein Land würde „die Tore der Hölle öffnen“, war dieser Satz keine Übertreibung,
+      sondern eine direkte Beschreibung der Politik. In den letzten Wochen haben israelische
+      Jets unerbittliche Luftangriffe auf Gaza-Stadt geflogen und die Stadtviertel al-Rimal
+      und Tal al-Hawa im Zentrum der Stadt getroffen. Die Ergebnisse sind erschütternd:
+      Innerhalb einer einzigen Woche wurden mehr als 500 Gebäude zerstört, darunter
+      mehr als ein Dutzend Hochhäuser, in denen einst Hunderte von Familien lebten.
+      Rund 600 Zelte, in denen Vertriebene untergebracht waren, wurden niedergebrannt,
+      und mindestens 20 Zentren für Flüchtlinge wurden bombardiert. Durch die Zerstörung
+      wurden mehr als 50.000 Zivilisten über Nacht obdachlos und mussten sich ohne sicheren
+      Zufluchtsort zerstreuen, nur mit dem, was sie in den wenigen Minuten vor dem Einschlag
+      der US-amerikanischen Bomben retten konnten. Diese Statistiken erzählen eine Geschichte,
+      die in offiziellen israelischen Kommuniqués sorgfältig vermieden wird. Im letzten
+      Monat gab es keine glaubwürdigen Berichte über die Zerschlagung von Hamas-Netzwerken,
+      die Beschlagnahmung von unterirdischen Einrichtungen oder die Gefangennahme hochrangiger
+      Kommandeure in Gaza-Stadt. Stattdessen hebt die Armee ihre sogenannten „Evakuierungswarnungen“
+      hervor – Anrufe oder Flugblätter, die Familien nur wenige Minuten Zeit geben,
+      um zu fliehen, bevor die von den USA gelieferten Bomben ihre Häuser treffen. Hochhäuser,
+      Schulen und Flüchtlingsunterkünfte werden wiederholt mit der Begründung bombardiert,
+      dass sich dort Militante aufhalten könnten. Für die Vertriebenen sind diese Warnungen
+      bedeutungslos. Da es keinen sicheren Ort gibt, an den sie sich begeben können,
+      sind die Familien gezwungen, sich zwischen dem Risiko, unter den Bomben zu sterben,
+      und der Flucht in überfüllte Lager, in denen Hunger und Krankheiten grassieren,
+      zu entscheiden. Ganze Stadtteile werden ausgelöscht und mit ihnen das fragile
+      Gefühl der Kontinuität, das die Gesellschaft zusammenhält. Die gezielte Zerstörung
+      der städtischen Struktur ist kein Kollateralschaden, sondern eine kalkulierte
+      Maßnahme, um den Norden Gazas unbewohnbar zu machen, was einer ethnischen Säuberung
+      durch Sprengstoff und Zwangsvertreibung gleichkommt. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israels Verteidigungsminister Israel Katz' Aussage über das
+      Öffnen "der Tore der Hölle" spiegelt die verheerenden Luftangriffe auf Gaza-Stadt
+      wider, bei denen in einer Woche über 500 Gebäude zerstört und mehr als 50.000
+      Zivilisten obdachlos gemacht wurden.
+    paragraph_summary: In einem Tweet beschreibt Elijah J. Magnier die verheerenden
+      Auswirkungen der israelischen Luftangriffe auf Gaza-Stadt, die von Verteidigungsminister
+      Israel Katz als das Öffnen „der Tore der Hölle“ bezeichnet wurden. In nur einer
+      Woche wurden über 500 Gebäude, darunter Hochhäuser mit Hunderten von Familien,
+      zerstört, was mehr als 50.000 Zivilisten obdachlos machte. Die Bombardierungen
+      trafen auch Flüchtlingsunterkünfte und führten zu einem massiven Anstieg von Vertriebenen,
+      die in überfüllte Lager fliehen mussten, wo Hunger und Krankheiten herrschen.
+      Trotz der Zerstörung und der humanitären Krise gibt es keine glaubwürdigen Berichte
+      über Erfolge im Kampf gegen Hamas, während die israelische Armee weiterhin „Evakuierungswarnungen“
+      herausgibt, die für die betroffenen Familien kaum von Bedeutung sind, da es keine
+      sicheren Zufluchtsorte gibt.
+    published: '2025-09-15T02:55:29+00:00'
+  - title: 'Gaza in Trümmern, Israel isoliert: Netanjahus kalkulierte Sucht nach Konflikten'
+    url: https://ejmagnier.com/2025/09/15/gaza-in-trummern-israel-isoliert-netanjahus-kalkulierte-sucht-nach-konflikten/
+    text: 'Tweet Von Elijah J. Magnier – Als Israels Verteidigungsminister Israel Katz
+      erklärte, sein Land würde „die Tore der Hölle öffnen“, war dieser Satz keine Übertreibung,
+      sondern eine direkte Beschreibung der Politik. In den letzten Wochen haben israelische
+      Jets unerbittliche Luftangriffe auf Gaza-Stadt geflogen und die Stadtviertel al-Rimal
+      und Tal al-Hawa im Zentrum der Stadt getroffen. Die Ergebnisse sind erschütternd:
+      Innerhalb einer einzigen Woche wurden mehr als 500 Gebäude zerstört, darunter
+      mehr als ein Dutzend Hochhäuser, in denen einst Hunderte von Familien lebten.
+      Rund 600 Zelte, in denen Vertriebene untergebracht waren, wurden niedergebrannt,
+      und mindestens 20 Zentren für Flüchtlinge wurden bombardiert. Durch die Zerstörung
+      wurden mehr als 50.000 Zivilisten über Nacht obdachlos und mussten sich ohne sicheren
+      Zufluchtsort zerstreuen, nur mit dem, was sie in den wenigen Minuten vor dem Einschlag
+      der US-amerikanischen Bomben retten konnten. Diese Statistiken erzählen eine Geschichte,
+      die in offiziellen israelischen Kommuniqués sorgfältig vermieden wird. Im letzten
+      Monat gab es keine glaubwürdigen Berichte über die Zerschlagung von Hamas-Netzwerken,
+      die Beschlagnahmung von unterirdischen Einrichtungen oder die Gefangennahme hochrangiger
+      Kommandeure in Gaza-Stadt. Stattdessen hebt die Armee ihre sogenannten „Evakuierungswarnungen“
+      hervor – Anrufe oder Flugblätter, die Familien nur wenige Minuten Zeit geben,
+      um zu fliehen, bevor die von den USA gelieferten Bomben ihre Häuser treffen. Hochhäuser,
+      Schulen und Flüchtlingsunterkünfte werden wiederholt mit der Begründung bombardiert,
+      dass sich dort Militante aufhalten könnten. Für die Vertriebenen sind diese Warnungen
+      bedeutungslos. Da es keinen sicheren Ort gibt, an den sie sich begeben können,
+      sind die Familien gezwungen, sich zwischen dem Risiko, unter den Bomben zu sterben,
+      und der Flucht in überfüllte Lager, in denen Hunger und Krankheiten grassieren,
+      zu entscheiden. Ganze Stadtteile werden ausgelöscht und mit ihnen das fragile
+      Gefühl der Kontinuität, das die Gesellschaft zusammenhält. Die gezielte Zerstörung
+      der städtischen Struktur ist kein Kollateralschaden, sondern eine kalkulierte
+      Maßnahme, um den Norden Gazas unbewohnbar zu machen, was einer ethnischen Säuberung
+      durch Sprengstoff und Zwangsvertreibung gleichkommt. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israels Verteidigungsminister Israel Katz' Aussage über das
+      Öffnen "der Tore der Hölle" spiegelt die verheerenden Luftangriffe auf Gaza-Stadt
+      wider, bei denen in einer Woche über 500 Gebäude zerstört und mehr als 50.000
+      Zivilisten obdachlos gemacht wurden.
+    paragraph_summary: In einem Tweet beschreibt Elijah J. Magnier die verheerenden
+      Auswirkungen der israelischen Luftangriffe auf Gaza-Stadt, die von Verteidigungsminister
+      Israel Katz als das Öffnen „der Tore der Hölle“ bezeichnet wurden. In nur einer
+      Woche wurden über 500 Gebäude, darunter Hochhäuser mit Hunderten von Familien,
+      zerstört, was mehr als 50.000 Zivilisten obdachlos machte. Die Bombardierungen
+      trafen auch Flüchtlingsunterkünfte und führten zu einem massiven Anstieg von Vertriebenen,
+      die in überfüllte Lager fliehen mussten, wo Hunger und Krankheiten herrschen.
+      Trotz der Zerstörung und der humanitären Krise gibt es keine glaubwürdigen Berichte
+      über Erfolge im Kampf gegen Hamas, während die israelische Armee weiterhin „Evakuierungswarnungen“
+      herausgibt, die für die betroffenen Familien kaum von Bedeutung sind, da es keine
+      sicheren Zufluchtsorte gibt.
+    published: '2025-09-15T02:55:29+00:00'
+  - title: 'Gaza in Ruins, Israel Isolated: Netanyahu’s Calculated Addiction to Conflict'
+    url: https://ejmagnier.com/2025/09/14/gaza-in-ruins-israel-isolated-netanyahus-calculated-addiction-to-conflict/
+    text: 'Tweet By Elijah J. Magnier – When Israel’s Defence Minister Israel Katz declared
+      that his country was “opening the gates of hell,” the phrase was not an exaggeration
+      but a direct description of policy. In recent weeks, Israeli jets have unleashed
+      relentless waves of airstrikes on Gaza City, striking at its core districts of
+      al-Rimal and Tal al-Hawa. The results are staggering: in the span of a single
+      week, more than 500 buildings were destroyed, including more than a dozen high-rise
+      towers that once housed hundreds of families. Around 600 tents sheltering displaced
+      people were burned to the ground, and at least 20 centres for refugees were bombed.
+      The destruction has rendered more than 50,000 civilians homeless overnight, forced
+      to scatter with nowhere safe to go, carrying only what they could save in those
+      few minutes before the U.S.-made bombs struck. These statistics tell a story that
+      official Israeli communiqués carefully avoid. Over the last month, there has been
+      no credible claim of Hamas networks dismantled, underground facilities seized,
+      or senior commanders captured inside Gaza City. Instead, what the army highlights
+      are its so-called “evacuation warnings”—calls or leaflets giving families only
+      minutes to flee before American-supplied bombs strike their homes. High-rise towers,
+      schools, and refugee shelters are repeatedly bombed on the grounds that militants
+      may be present. For the displaced, these warnings are meaningless. With nowhere
+      safe to go, families are forced to choose between risking death under bombardment
+      or fleeing into overcrowded camps where hunger and disease are rampant. Entire
+      neighbourhoods are erased, and with them the fragile sense of continuity that
+      sustains society. The deliberate targeting of the urban fabric is not collateral
+      damage but a calculated effort to render northern Gaza uninhabitable, amounting
+      to ethnic cleansing conducted through explosives and enforced displacement. Benjamin
+      Netanyahu’s public justifications for prolonging the war have shifted repeatedly
+      as circumstances demanded. First, the obstacle to peace was Mohammed al-Sinwar,
+      the Hamas commander in Gaza. After al-Sinwar was killed, the focus shifted to
+      Mohammed al-Deif, the head of Hamas’s military wing. Once al-Deif was eliminated,
+      Netanyahu announced that the movement’s political leader, Ismail Haniyeh, stood
+      in the way of peace. One by one, Hamas leaders have been targeted and assassinated,
+      including the son of al-Sinwar, Mohamad, who assumed command. Yet each killing
+      only led to the identification of a new scapegoat. The pattern reveals that the
+      real obstacle is not Hamas leadership but Netanyahu himself, who is unwilling
+      to close any deal regardless of Hamas’s response, because ending the war would
+      undermine his political survival. US diplomacy has inadvertently exposed Israel’s
+      role as saboteur. When Secretary of State Marco Rubio arrived in Israel, his focus
+      was not on brokering a ceasefire but on ensuring the release of hostages and to
+      confirm that “the US relationship with Israel won’t change regardless of what
+      happened in Qatar”. His first stop was Jerusalem, not Doha, even though Qatar
+      is the key mediator with influence over Hamas. The symbolism was clear: Washington
+      knows that the decisive veto lies with Netanyahu, not with Hamas or its allies.
+      Whenever negotiations approach a breakthrough, Israel acts to derail them. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israeli airstrikes on Gaza City have caused extensive destruction,
+      leaving over 50,000 civilians homeless and destroying hundreds of buildings, including
+      high-rises and refugee centers, while the Israeli government downplays the humanitarian
+      impact.
+    paragraph_summary: Israeli Defense Minister Israel Katz's declaration of "opening
+      the gates of hell" reflects the severe and destructive military campaign Israel
+      has launched against Gaza City, particularly targeting the al-Rimal and Tal al-Hawa
+      districts. In just one week, over 500 buildings, including numerous high-rises
+      and refugee centers, have been destroyed, leaving more than 50,000 civilians homeless
+      and forcing them into overcrowded camps plagued by hunger and disease. Despite
+      the extensive destruction, Israeli military reports lack credible evidence of
+      dismantling Hamas infrastructure, focusing instead on evacuation warnings that
+      offer little safety to families. The systematic targeting of urban areas appears
+      to be a calculated strategy to make northern Gaza uninhabitable, raising concerns
+      about ethnic cleansing through military means, as entire neighborhoods are obliterated
+      and the social fabric of the community is shattered.
+    published: '2025-09-14T17:36:24+00:00'
+  - title: 'Gaza in Ruins, Israel Isolated: Netanyahu’s Calculated Addiction to Conflict'
+    url: https://ejmagnier.com/2025/09/14/gaza-in-ruins-israel-isolated-netanyahus-calculated-addiction-to-conflict/
+    text: 'Tweet By Elijah J. Magnier – When Israel’s Defence Minister Israel Katz declared
+      that his country was “opening the gates of hell,” the phrase was not an exaggeration
+      but a direct description of policy. In recent weeks, Israeli jets have unleashed
+      relentless waves of airstrikes on Gaza City, striking at its core districts of
+      al-Rimal and Tal al-Hawa. The results are staggering: in the span of a single
+      week, more than 500 buildings were destroyed, including more than a dozen high-rise
+      towers that once housed hundreds of families. Around 600 tents sheltering displaced
+      people were burned to the ground, and at least 20 centres for refugees were bombed.
+      The destruction has rendered more than 50,000 civilians homeless overnight, forced
+      to scatter with nowhere safe to go, carrying only what they could save in those
+      few minutes before the U.S.-made bombs struck. These statistics tell a story that
+      official Israeli communiqués carefully avoid. Over the last month, there has been
+      no credible claim of Hamas networks dismantled, underground facilities seized,
+      or senior commanders captured inside Gaza City. Instead, what the army highlights
+      are its so-called “evacuation warnings”—calls or leaflets giving families only
+      minutes to flee before American-supplied bombs strike their homes. High-rise towers,
+      schools, and refugee shelters are repeatedly bombed on the grounds that militants
+      may be present. For the displaced, these warnings are meaningless. With nowhere
+      safe to go, families are forced to choose between risking death under bombardment
+      or fleeing into overcrowded camps where hunger and disease are rampant. Entire
+      neighbourhoods are erased, and with them the fragile sense of continuity that
+      sustains society. The deliberate targeting of the urban fabric is not collateral
+      damage but a calculated effort to render northern Gaza uninhabitable, amounting
+      to ethnic cleansing conducted through explosives and enforced displacement. Benjamin
+      Netanyahu’s public justifications for prolonging the war have shifted repeatedly
+      as circumstances demanded. First, the obstacle to peace was Mohammed al-Sinwar,
+      the Hamas commander in Gaza. After al-Sinwar was killed, the focus shifted to
+      Mohammed al-Deif, the head of Hamas’s military wing. Once al-Deif was eliminated,
+      Netanyahu announced that the movement’s political leader, Ismail Haniyeh, stood
+      in the way of peace. One by one, Hamas leaders have been targeted and assassinated,
+      including the son of al-Sinwar, Mohamad, who assumed command. Yet each killing
+      only led to the identification of a new scapegoat. The pattern reveals that the
+      real obstacle is not Hamas leadership but Netanyahu himself, who is unwilling
+      to close any deal regardless of Hamas’s response, because ending the war would
+      undermine his political survival. US diplomacy has inadvertently exposed Israel’s
+      role as saboteur. When Secretary of State Marco Rubio arrived in Israel, his focus
+      was not on brokering a ceasefire but on ensuring the release of hostages and to
+      confirm that “the US relationship with Israel won’t change regardless of what
+      happened in Qatar”. His first stop was Jerusalem, not Doha, even though Qatar
+      is the key mediator with influence over Hamas. The symbolism was clear: Washington
+      knows that the decisive veto lies with Netanyahu, not with Hamas or its allies.
+      Whenever negotiations approach a breakthrough, Israel acts to derail them. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israeli airstrikes on Gaza City have caused extensive destruction,
+      leaving over 50,000 civilians homeless and destroying hundreds of buildings, including
+      high-rises and refugee centers, while the Israeli government downplays the humanitarian
+      impact.
+    paragraph_summary: Israeli Defense Minister Israel Katz's declaration of "opening
+      the gates of hell" reflects the severe and destructive military campaign Israel
+      has launched against Gaza City, particularly targeting the al-Rimal and Tal al-Hawa
+      districts. In just one week, over 500 buildings, including numerous high-rises
+      and refugee centers, have been destroyed, leaving more than 50,000 civilians homeless
+      and forcing them into overcrowded camps plagued by hunger and disease. Despite
+      the extensive destruction, Israeli military reports lack credible evidence of
+      dismantling Hamas infrastructure, focusing instead on evacuation warnings that
+      offer little safety to families. The systematic targeting of urban areas appears
+      to be a calculated strategy to make northern Gaza uninhabitable, raising concerns
+      about ethnic cleansing through military means, as entire neighborhoods are obliterated
+      and the social fabric of the community is shattered.
+    published: '2025-09-14T17:36:24+00:00'
+  - title: 'Gaza en ruines, Israël isolé : l’addiction calculée de Netanyahu au conflit'
+    url: https://ejmagnier.com/2025/09/14/gaza-en-ruines-israel-isole-laddiction-calculee-de-netanyahu-au-conflit/
+    text: 'Tweet Par Elijah J. Magnier – Lorsque le ministre israélien de la Défense,
+      Israel Katz, a déclaré que son pays « ouvrait les portes de l’enfer », ce n’était
+      pas une exagération mais une description directe de la politique menée. Ces dernières
+      semaines, les avions israéliens ont lancé des vagues incessantes de bombardements
+      sur la ville de Gaza, visant ses quartiers centraux d’al-Rimal et de Tal al-Hawa.
+      Les résultats sont stupéfiants : en l’espace d’une seule semaine, plus de 500
+      bâtiments ont été détruits, dont plus d’une douzaine de tours d’habitation qui
+      abritaient des centaines de familles. Environ 600 tentes de déplacés ont été incendiées
+      et au moins 20 centres pour réfugiés bombardés. Cette destruction a jeté à la
+      rue plus de 50 000 civils en une nuit, les obligeant à fuir sans refuge sûr, emportant
+      seulement ce qu’ils pouvaient sauver dans les quelques minutes avant que les bombes
+      américaines ne s’abattent. Ces chiffres racontent une histoire que les communiqués
+      officiels israéliens évitent soigneusement. Au cours du dernier mois, aucune annonce
+      crédible n’a fait état de réseaux du Hamas démantelés, d’installations souterraines
+      saisies ou de commandants supérieurs capturés dans Gaza-ville. L’armée met plutôt
+      en avant ses prétendus « avertissements d’évacuation » — appels téléphoniques
+      ou tracts donnant aux familles quelques minutes pour fuir avant que les bombes
+      américaines ne réduisent leurs maisons en poussière. Des tours d’habitation, des
+      écoles et des abris pour réfugiés sont régulièrement bombardés au prétexte que
+      des combattants pourraient s’y trouver. Pour les déplacés, ces avertissements
+      sont vides de sens. Sans refuge sûr, les familles doivent choisir entre risquer
+      la mort sous les bombes ou fuir vers des camps surpeuplés où la faim et les maladies
+      sévissent déjà. Des quartiers entiers sont effacés, emportant avec eux le fragile
+      tissu de continuité qui soutient une société. Le ciblage délibéré de l’urbanisme
+      n’est pas un dommage collatéral mais un effort calculé pour rendre le nord de
+      Gaza inhabitable, une épuration ethnique menée par les explosifs et les déplacements
+      forcés. Les justifications publiques de Benjamin Netanyahu pour prolonger la guerre
+      ont changé à plusieurs reprises selon les circonstances. D’abord, l’obstacle à
+      la paix était Mohammed al-Sinwar, le commandant du Hamas à Gaza. Après son assassinat,
+      le foyer s’est déplacé vers Mohammed al-Deif, chef de la branche militaire du
+      mouvement. Une fois al-Deif éliminé, Netanyahu a déclaré que le dirigeant politique
+      du Hamas, Ismaïl Haniyeh, bloquait la paix. Un à un, les dirigeants du Hamas ont
+      été pris pour cible et assassinés, y compris le fils de Mohammed al-Sinwar, qui
+      avait brièvement pris la relève. Pourtant, chaque assassinat n’a fait que désigner
+      un nouveau bouc émissaire. Le schéma révèle que le véritable obstacle n’est pas
+      la direction du Hamas mais Netanyahu lui-même, qui refuse de conclure le moindre
+      accord, quelle que soit la réponse du Hamas, car mettre fin à la guerre minerait
+      sa survie politique. La diplomatie américaine a révélé involontairement le rôle
+      d’Israël comme saboteur. Lorsque le secrétaire d’État Marco Rubio est arrivé en
+      Israël, son objectif n’était pas de négocier un cessez-le-feu mais de s’assurer
+      de la libération des otages et de confirmer que « la relation des États-Unis avec
+      Israël ne changerait pas, quoi qu’il soit arrivé à Doha ». Sa première étape fut
+      Jérusalem, et non Doha, pourtant médiateur clé doté d’une influence sur le Hamas.
+      Le symbole était clair : Washington sait que le veto décisif se trouve chez Netanyahu,
+      non chez le Hamas ou ses alliés. Chaque fois qu’une percée semblait possible,
+      Israël agissait pour la torpiller. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Le ministre israélien de la Défense, Israel Katz, a décrit
+      la politique de bombardement intensif sur Gaza, qui a entraîné la destruction
+      de plus de 500 bâtiments et le déplacement de plus de 50 000 civils en une semaine,
+      comme l'ouverture des "portes de l'enfer".
+    paragraph_summary: L'article d'Elijah J. Magnier décrit la situation catastrophique
+      à Gaza suite aux bombardements israéliens intensifiés, qui ont entraîné la destruction
+      de plus de 500 bâtiments, y compris des tours d'habitation, et le déplacement
+      de plus de 50 000 civils en une seule nuit. Malgré les déclarations du ministre
+      israélien de la Défense, Israel Katz, sur l'ouverture des "portes de l'enfer",
+      les résultats concrets sur le terrain montrent l'absence de succès militaire contre
+      le Hamas, avec peu de preuves de réseaux démantelés ou de commandants capturés.
+      Les avertissements d'évacuation fournis par l'armée israélienne sont jugés inefficaces
+      et vides de sens par les familles, qui se retrouvent piégées entre les bombardements
+      et des camps de réfugiés surpeuplés, aggravant ainsi la crise humanitaire et détruisant
+      le tissu social de Gaza.
+    published: '2025-09-14T17:33:29+00:00'
+  - title: 'Gaza en ruines, Israël isolé : l’addiction calculée de Netanyahu au conflit'
+    url: https://ejmagnier.com/2025/09/14/gaza-en-ruines-israel-isole-laddiction-calculee-de-netanyahu-au-conflit/
+    text: 'Tweet Par Elijah J. Magnier – Lorsque le ministre israélien de la Défense,
+      Israel Katz, a déclaré que son pays « ouvrait les portes de l’enfer », ce n’était
+      pas une exagération mais une description directe de la politique menée. Ces dernières
+      semaines, les avions israéliens ont lancé des vagues incessantes de bombardements
+      sur la ville de Gaza, visant ses quartiers centraux d’al-Rimal et de Tal al-Hawa.
+      Les résultats sont stupéfiants : en l’espace d’une seule semaine, plus de 500
+      bâtiments ont été détruits, dont plus d’une douzaine de tours d’habitation qui
+      abritaient des centaines de familles. Environ 600 tentes de déplacés ont été incendiées
+      et au moins 20 centres pour réfugiés bombardés. Cette destruction a jeté à la
+      rue plus de 50 000 civils en une nuit, les obligeant à fuir sans refuge sûr, emportant
+      seulement ce qu’ils pouvaient sauver dans les quelques minutes avant que les bombes
+      américaines ne s’abattent. Ces chiffres racontent une histoire que les communiqués
+      officiels israéliens évitent soigneusement. Au cours du dernier mois, aucune annonce
+      crédible n’a fait état de réseaux du Hamas démantelés, d’installations souterraines
+      saisies ou de commandants supérieurs capturés dans Gaza-ville. L’armée met plutôt
+      en avant ses prétendus « avertissements d’évacuation » — appels téléphoniques
+      ou tracts donnant aux familles quelques minutes pour fuir avant que les bombes
+      américaines ne réduisent leurs maisons en poussière. Des tours d’habitation, des
+      écoles et des abris pour réfugiés sont régulièrement bombardés au prétexte que
+      des combattants pourraient s’y trouver. Pour les déplacés, ces avertissements
+      sont vides de sens. Sans refuge sûr, les familles doivent choisir entre risquer
+      la mort sous les bombes ou fuir vers des camps surpeuplés où la faim et les maladies
+      sévissent déjà. Des quartiers entiers sont effacés, emportant avec eux le fragile
+      tissu de continuité qui soutient une société. Le ciblage délibéré de l’urbanisme
+      n’est pas un dommage collatéral mais un effort calculé pour rendre le nord de
+      Gaza inhabitable, une épuration ethnique menée par les explosifs et les déplacements
+      forcés. Les justifications publiques de Benjamin Netanyahu pour prolonger la guerre
+      ont changé à plusieurs reprises selon les circonstances. D’abord, l’obstacle à
+      la paix était Mohammed al-Sinwar, le commandant du Hamas à Gaza. Après son assassinat,
+      le foyer s’est déplacé vers Mohammed al-Deif, chef de la branche militaire du
+      mouvement. Une fois al-Deif éliminé, Netanyahu a déclaré que le dirigeant politique
+      du Hamas, Ismaïl Haniyeh, bloquait la paix. Un à un, les dirigeants du Hamas ont
+      été pris pour cible et assassinés, y compris le fils de Mohammed al-Sinwar, qui
+      avait brièvement pris la relève. Pourtant, chaque assassinat n’a fait que désigner
+      un nouveau bouc émissaire. Le schéma révèle que le véritable obstacle n’est pas
+      la direction du Hamas mais Netanyahu lui-même, qui refuse de conclure le moindre
+      accord, quelle que soit la réponse du Hamas, car mettre fin à la guerre minerait
+      sa survie politique. La diplomatie américaine a révélé involontairement le rôle
+      d’Israël comme saboteur. Lorsque le secrétaire d’État Marco Rubio est arrivé en
+      Israël, son objectif n’était pas de négocier un cessez-le-feu mais de s’assurer
+      de la libération des otages et de confirmer que « la relation des États-Unis avec
+      Israël ne changerait pas, quoi qu’il soit arrivé à Doha ». Sa première étape fut
+      Jérusalem, et non Doha, pourtant médiateur clé doté d’une influence sur le Hamas.
+      Le symbole était clair : Washington sait que le veto décisif se trouve chez Netanyahu,
+      non chez le Hamas ou ses alliés. Chaque fois qu’une percée semblait possible,
+      Israël agissait pour la torpiller. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Le ministre israélien de la Défense, Israel Katz, a décrit
+      la politique de bombardement intensif sur Gaza, qui a entraîné la destruction
+      de plus de 500 bâtiments et le déplacement de plus de 50 000 civils en une semaine,
+      comme l'ouverture des "portes de l'enfer".
+    paragraph_summary: L'article d'Elijah J. Magnier décrit la situation catastrophique
+      à Gaza suite aux bombardements israéliens intensifiés, qui ont entraîné la destruction
+      de plus de 500 bâtiments, y compris des tours d'habitation, et le déplacement
+      de plus de 50 000 civils en une seule nuit. Malgré les déclarations du ministre
+      israélien de la Défense, Israel Katz, sur l'ouverture des "portes de l'enfer",
+      les résultats concrets sur le terrain montrent l'absence de succès militaire contre
+      le Hamas, avec peu de preuves de réseaux démantelés ou de commandants capturés.
+      Les avertissements d'évacuation fournis par l'armée israélienne sont jugés inefficaces
+      et vides de sens par les familles, qui se retrouvent piégées entre les bombardements
+      et des camps de réfugiés surpeuplés, aggravant ainsi la crise humanitaire et détruisant
+      le tissu social de Gaza.
+    published: '2025-09-14T17:33:29+00:00'
+  - title: 'Gaza in puin, Israël geïsoleerd: Netanyahu’s berekende verslaving aan conflict'
+    url: https://ejmagnier.com/2025/09/14/gaza-in-puin-israel-geisoleerd-netanyahus-berekende-verslaving-aan-conflict/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Toen de
+      Israëlische minister van Defensie Israel Katz verklaarde dat zijn land “de poorten
+      van de hel opende”, was die uitspraak geen overdrijving, maar een directe beschrijving
+      van het beleid. De afgelopen weken hebben Israëlische straaljagers een niet-aflatende
+      reeks luchtaanvallen uitgevoerd op Gaza-stad, waarbij de centrale wijken al-Rimal
+      en Tal al-Hawa werden getroffen. De resultaten zijn verbijsterend: in één week
+      tijd werden meer dan 500 gebouwen verwoest, waaronder meer dan een dozijn hoge
+      torens waar ooit honderden gezinnen woonden. Ongeveer 600 tenten waarin ontheemden
+      onderdak hadden gevonden, werden tot de grond toe afgebrand en minstens 20 opvangcentra
+      voor vluchtelingen werden gebombardeerd. Door de verwoesting zijn meer dan 50.000
+      burgers van de ene op de andere dag dakloos geworden en gedwongen om te vluchten
+      zonder een veilige plek om naartoe te gaan, met alleen wat ze in die paar minuten
+      voordat de Amerikaanse bommen insloegen konden redden. Deze statistieken vertellen
+      een verhaal dat in officiële Israëlische communiqués zorgvuldig wordt vermeden.
+      In de afgelopen maand is er geen geloofwaardige bewering gedaan dat Hamas-netwerken
+      zijn ontmanteld, ondergrondse faciliteiten in beslag zijn genomen of hoge commandanten
+      zijn gevangengenomen in Gaza-stad. In plaats daarvan benadrukt het leger zijn
+      zogenaamde “evacuatiewaarschuwingen” – telefoontjes of pamfletten die gezinnen
+      slechts enkele minuten de tijd geven om te vluchten voordat Amerikaanse bommen
+      hun huizen raken. Hoogbouwtorens, scholen en vluchtelingenopvangcentra worden
+      herhaaldelijk gebombardeerd op grond van het feit dat er mogelijk militanten aanwezig
+      zijn. Voor de ontheemden zijn deze waarschuwingen zinloos. Omdat ze nergens veilig
+      heen kunnen, worden gezinnen gedwongen te kiezen tussen de dood riskeren onder
+      bombardementen of vluchten naar overvolle kampen waar honger en ziekte welig tieren.
+      Hele wijken worden weggevaagd, en daarmee ook het fragiele gevoel van continuïteit
+      dat de samenleving in stand houdt. Het opzettelijk aanvallen van de stedelijke
+      structuur is geen bijkomende schade, maar een berekende poging om het noorden
+      van Gaza onbewoonbaar te maken, wat neerkomt op etnische zuivering door middel
+      van explosieven en gedwongen ontheemding. Benjamin Netanyahu’s publieke rechtvaardigingen
+      voor het voortzetten van de oorlog zijn herhaaldelijk veranderd naargelang de
+      omstandigheden. Eerst was Mohammed al-Sinwar, de Hamas-commandant in Gaza, het
+      obstakel voor vrede. Nadat al-Sinwar was gedood, verschoof de aandacht naar Mohammed
+      al-Deif, het hoofd van de militaire vleugel van Hamas. Toen al-Deif eenmaal was
+      uitgeschakeld, verklaarde Netanyahu dat de politieke leider van de beweging, Ismail
+      Haniyeh, vrede in de weg stond. Een voor een werden Hamas-leiders het doelwit
+      en vermoord, waaronder de zoon van al-Sinwar, Mohamad, die het bevel had overgenomen.
+      Maar elke moord leidde alleen maar tot de aanwijzing van een nieuwe zondebok.
+      Dit patroon laat zien dat het echte obstakel niet het leiderschap van Hamas is,
+      maar Netanyahu zelf, die niet bereid is om een akkoord te sluiten, ongeacht de
+      reactie van Hamas, omdat het beëindigen van de oorlog zijn politieke voortbestaan
+      zou ondermijnen. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Tweet'
+    one_sentence_summary: Israël heeft intensieve luchtaanvallen op Gaza uitgevoerd,
+      waarbij meer dan 500 gebouwen zijn verwoest en meer dan 50.000 mensen dakloos
+      zijn geworden, wat de woorden van minister van Defensie Israel Katz over het "openen
+      van de poorten van de hel" bevestigt.
+    paragraph_summary: Israëlische minister van Defensie Israel Katz's uitspraak over
+      het "openen van de poorten van de hel" weerspiegelt de recente escalatie van geweld
+      in Gaza, waar Israëlische straaljagers een onophoudelijke reeks luchtaanvallen
+      hebben uitgevoerd, met verwoestingen in centrale wijken zoals al-Rimal en Tal
+      al-Hawa. In slechts één week zijn meer dan 500 gebouwen, waaronder hoge torens
+      met honderden gezinnen, verwoest, en zijn meer dan 50.000 burgers dakloos geworden.
+      De bombardementen hebben ook vluchtelingenopvangcentra getroffen, terwijl de Israëlische
+      strijdkrachten geen geloofwaardige claims hebben gedaan over het uitschakelen
+      van Hamas-netwerken. De zogenoemde "evacuatiewaarschuwingen" bieden gezinnen slechts
+      enkele minuten om te vluchten, maar zijn ineffectief omdat er geen veilige plekken
+      zijn om naartoe te gaan, waardoor mensen gedwongen worden te kiezen tussen de
+      risico's van bombardementen of het zoeken naar onderdak in overvolle kampen, waar
+      honger en ziekte heersen.
+    published: '2025-09-14T17:29:58+00:00'
+  - title: 'Gaza in puin, Israël geïsoleerd: Netanyahu’s berekende verslaving aan conflict'
+    url: https://ejmagnier.com/2025/09/14/gaza-in-puin-israel-geisoleerd-netanyahus-berekende-verslaving-aan-conflict/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Toen de
+      Israëlische minister van Defensie Israel Katz verklaarde dat zijn land “de poorten
+      van de hel opende”, was die uitspraak geen overdrijving, maar een directe beschrijving
+      van het beleid. De afgelopen weken hebben Israëlische straaljagers een niet-aflatende
+      reeks luchtaanvallen uitgevoerd op Gaza-stad, waarbij de centrale wijken al-Rimal
+      en Tal al-Hawa werden getroffen. De resultaten zijn verbijsterend: in één week
+      tijd werden meer dan 500 gebouwen verwoest, waaronder meer dan een dozijn hoge
+      torens waar ooit honderden gezinnen woonden. Ongeveer 600 tenten waarin ontheemden
+      onderdak hadden gevonden, werden tot de grond toe afgebrand en minstens 20 opvangcentra
+      voor vluchtelingen werden gebombardeerd. Door de verwoesting zijn meer dan 50.000
+      burgers van de ene op de andere dag dakloos geworden en gedwongen om te vluchten
+      zonder een veilige plek om naartoe te gaan, met alleen wat ze in die paar minuten
+      voordat de Amerikaanse bommen insloegen konden redden. Deze statistieken vertellen
+      een verhaal dat in officiële Israëlische communiqués zorgvuldig wordt vermeden.
+      In de afgelopen maand is er geen geloofwaardige bewering gedaan dat Hamas-netwerken
+      zijn ontmanteld, ondergrondse faciliteiten in beslag zijn genomen of hoge commandanten
+      zijn gevangengenomen in Gaza-stad. In plaats daarvan benadrukt het leger zijn
+      zogenaamde “evacuatiewaarschuwingen” – telefoontjes of pamfletten die gezinnen
+      slechts enkele minuten de tijd geven om te vluchten voordat Amerikaanse bommen
+      hun huizen raken. Hoogbouwtorens, scholen en vluchtelingenopvangcentra worden
+      herhaaldelijk gebombardeerd op grond van het feit dat er mogelijk militanten aanwezig
+      zijn. Voor de ontheemden zijn deze waarschuwingen zinloos. Omdat ze nergens veilig
+      heen kunnen, worden gezinnen gedwongen te kiezen tussen de dood riskeren onder
+      bombardementen of vluchten naar overvolle kampen waar honger en ziekte welig tieren.
+      Hele wijken worden weggevaagd, en daarmee ook het fragiele gevoel van continuïteit
+      dat de samenleving in stand houdt. Het opzettelijk aanvallen van de stedelijke
+      structuur is geen bijkomende schade, maar een berekende poging om het noorden
+      van Gaza onbewoonbaar te maken, wat neerkomt op etnische zuivering door middel
+      van explosieven en gedwongen ontheemding. Benjamin Netanyahu’s publieke rechtvaardigingen
+      voor het voortzetten van de oorlog zijn herhaaldelijk veranderd naargelang de
+      omstandigheden. Eerst was Mohammed al-Sinwar, de Hamas-commandant in Gaza, het
+      obstakel voor vrede. Nadat al-Sinwar was gedood, verschoof de aandacht naar Mohammed
+      al-Deif, het hoofd van de militaire vleugel van Hamas. Toen al-Deif eenmaal was
+      uitgeschakeld, verklaarde Netanyahu dat de politieke leider van de beweging, Ismail
+      Haniyeh, vrede in de weg stond. Een voor een werden Hamas-leiders het doelwit
+      en vermoord, waaronder de zoon van al-Sinwar, Mohamad, die het bevel had overgenomen.
+      Maar elke moord leidde alleen maar tot de aanwijzing van een nieuwe zondebok.
+      Dit patroon laat zien dat het echte obstakel niet het leiderschap van Hamas is,
+      maar Netanyahu zelf, die niet bereid is om een akkoord te sluiten, ongeacht de
+      reactie van Hamas, omdat het beëindigen van de oorlog zijn politieke voortbestaan
+      zou ondermijnen. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Tweet'
+    one_sentence_summary: Israël heeft intensieve luchtaanvallen op Gaza uitgevoerd,
+      waarbij meer dan 500 gebouwen zijn verwoest en meer dan 50.000 mensen dakloos
+      zijn geworden, wat de woorden van minister van Defensie Israel Katz over het "openen
+      van de poorten van de hel" bevestigt.
+    paragraph_summary: Israëlische minister van Defensie Israel Katz's uitspraak over
+      het "openen van de poorten van de hel" weerspiegelt de recente escalatie van geweld
+      in Gaza, waar Israëlische straaljagers een onophoudelijke reeks luchtaanvallen
+      hebben uitgevoerd, met verwoestingen in centrale wijken zoals al-Rimal en Tal
+      al-Hawa. In slechts één week zijn meer dan 500 gebouwen, waaronder hoge torens
+      met honderden gezinnen, verwoest, en zijn meer dan 50.000 burgers dakloos geworden.
+      De bombardementen hebben ook vluchtelingenopvangcentra getroffen, terwijl de Israëlische
+      strijdkrachten geen geloofwaardige claims hebben gedaan over het uitschakelen
+      van Hamas-netwerken. De zogenoemde "evacuatiewaarschuwingen" bieden gezinnen slechts
+      enkele minuten om te vluchten, maar zijn ineffectief omdat er geen veilige plekken
+      zijn om naartoe te gaan, waardoor mensen gedwongen worden te kiezen tussen de
+      risico's van bombardementen of het zoeken naar onderdak in overvolle kampen, waar
+      honger en ziekte heersen.
+    published: '2025-09-14T17:29:58+00:00'
+  - title: 'When Shabak Replaces Mossad: Netanyahu’s Calculated Message to Doha and
+      Washington'
+    url: https://ejmagnier.com/2025/09/13/when-shabak-replaces-mossad-netanyahus-calculated-message-to-doha-and-washington/
+    text: 'Tweet By Elijah J. Magnier – When Israeli Prime Minister Benjamin Netanyahu
+      announced responsibility for the unlawful attack on a sovereign country, Qatar,
+      his statement drew attention for two reasons. First, the speed of his acknowledgement
+      contrasted sharply with Israel’s decades-long reliance on deniability and media
+      leaks to insinuate its role in covert actions. For assassinations, sabotage missions,
+      or cyber operations abroad, the Israeli formula was always the same: silence at
+      the official level, “anonymous sources” to foreign correspondents, and a carefully
+      cultivated aura of mystery. By stepping in front of the cameras almost immediately,
+      Netanyahu broke with a long tradition that had served Israel diplomatically and
+      strategically. Second, the way he described the operation was even more striking.
+      Netanyahu credited “the army, the Air Force, and the Shabak” for the strike. Missing
+      was the Mossad, the agency that by law and mandate carries responsibility for
+      intelligence and covert action abroad. In Israel’s security architecture, roles
+      are clearly delineated: Mossad for external operations, Shabak for internal security,
+      AMAN for military intelligence, and the IDF with its Air Force for overt operations.
+      The omission of Mossad from a mission that took place in Qatar, a US ally hosting
+      the largest American airbase in the Middle East and an important political mediator
+      with Hamas, was not a slip of the tongue. Netanyahu is known for calculated messaging.
+      His words are chosen to address multiple audiences: Hebrew for the domestic front,
+      English for foreign capitals. In this case, the exclusion of Mossad raises several
+      possible explanations, each with far-reaching implications. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israeli Prime Minister Benjamin Netanyahu's swift acknowledgment
+      of Israel's attack on Qatar marks a significant departure from the country's historical
+      practice of deniability in covert operations, notably omitting the Mossad from
+      his praise of the military and intelligence agencies involved.
+    paragraph_summary: Israeli Prime Minister Benjamin Netanyahu's recent admission
+      of responsibility for an attack on Qatar marks a significant departure from Israel's
+      longstanding practice of maintaining deniability regarding covert operations.
+      Traditionally, Israel has relied on silence and anonymous sources to hint at its
+      involvement in such actions, but Netanyahu's prompt acknowledgment signals a shift
+      in strategy. Notably, he credited the Israeli military and internal security services
+      for the operation while omitting mention of the Mossad, the agency typically responsible
+      for external covert actions. This deliberate exclusion raises questions about
+      the implications of the operation, particularly given Qatar's role as a U.S. ally
+      and mediator in the region, suggesting that Netanyahu's choice of words was a
+      calculated move aimed at addressing various audiences and possibly redefining
+      the roles of Israeli intelligence agencies.
+    published: '2025-09-13T18:37:01+00:00'
+  - title: 'When Shabak Replaces Mossad: Netanyahu’s Calculated Message to Doha and
+      Washington'
+    url: https://ejmagnier.com/2025/09/13/when-shabak-replaces-mossad-netanyahus-calculated-message-to-doha-and-washington/
+    text: 'Tweet By Elijah J. Magnier – When Israeli Prime Minister Benjamin Netanyahu
+      announced responsibility for the unlawful attack on a sovereign country, Qatar,
+      his statement drew attention for two reasons. First, the speed of his acknowledgement
+      contrasted sharply with Israel’s decades-long reliance on deniability and media
+      leaks to insinuate its role in covert actions. For assassinations, sabotage missions,
+      or cyber operations abroad, the Israeli formula was always the same: silence at
+      the official level, “anonymous sources” to foreign correspondents, and a carefully
+      cultivated aura of mystery. By stepping in front of the cameras almost immediately,
+      Netanyahu broke with a long tradition that had served Israel diplomatically and
+      strategically. Second, the way he described the operation was even more striking.
+      Netanyahu credited “the army, the Air Force, and the Shabak” for the strike. Missing
+      was the Mossad, the agency that by law and mandate carries responsibility for
+      intelligence and covert action abroad. In Israel’s security architecture, roles
+      are clearly delineated: Mossad for external operations, Shabak for internal security,
+      AMAN for military intelligence, and the IDF with its Air Force for overt operations.
+      The omission of Mossad from a mission that took place in Qatar, a US ally hosting
+      the largest American airbase in the Middle East and an important political mediator
+      with Hamas, was not a slip of the tongue. Netanyahu is known for calculated messaging.
+      His words are chosen to address multiple audiences: Hebrew for the domestic front,
+      English for foreign capitals. In this case, the exclusion of Mossad raises several
+      possible explanations, each with far-reaching implications. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israeli Prime Minister Benjamin Netanyahu's swift acknowledgment
+      of Israel's attack on Qatar marks a significant departure from the country's historical
+      practice of deniability in covert operations, notably omitting the Mossad from
+      his praise of the military and intelligence agencies involved.
+    paragraph_summary: Israeli Prime Minister Benjamin Netanyahu's recent admission
+      of responsibility for an attack on Qatar marks a significant departure from Israel's
+      longstanding practice of maintaining deniability regarding covert operations.
+      Traditionally, Israel has relied on silence and anonymous sources to hint at its
+      involvement in such actions, but Netanyahu's prompt acknowledgment signals a shift
+      in strategy. Notably, he credited the Israeli military and internal security services
+      for the operation while omitting mention of the Mossad, the agency typically responsible
+      for external covert actions. This deliberate exclusion raises questions about
+      the implications of the operation, particularly given Qatar's role as a U.S. ally
+      and mediator in the region, suggesting that Netanyahu's choice of words was a
+      calculated move aimed at addressing various audiences and possibly redefining
+      the roles of Israeli intelligence agencies.
+    published: '2025-09-13T18:37:01+00:00'
+  - title: 'Wenn Shabak den Mossad ersetzt: Netanjahus kalkulierte Botschaft an Doha
+      und Washington'
+    url: https://ejmagnier.com/2025/09/13/wenn-shabak-den-mossad-ersetzt-netanjahus-kalkulierte-botschaft-an-doha-und-washington/
+    text: 'Tweet Von Elijah J. Magnier – Als der israelische Ministerpräsident Benjamin
+      Netanjahu die Verantwortung für den rechtswidrigen Angriff auf ein souveränes
+      Land, Katar, übernahm, erregte seine Erklärung aus zwei Gründen Aufmerksamkeit.
+      Erstens stand die Schnelligkeit seines Eingeständnisses in starkem Kontrast zu
+      Israels jahrzehntelangem Vertrauen auf Leugnung und Medienlecks, um seine Rolle
+      bei verdeckten Aktionen anzudeuten. Bei Attentaten, Sabotagemissionen oder Cyberoperationen
+      im Ausland war die israelische Vorgehensweise immer dieselbe: Schweigen auf offizieller
+      Ebene, „anonyme Quellen“ für Auslandskorrespondenten und eine sorgfältig gepflegte
+      Aura des Geheimnisvollen. Indem er fast sofort vor die Kameras trat, brach Netanjahu
+      mit einer langen Tradition, die Israel diplomatisch und strategisch gedient hatte.
+      Zweitens war die Art und Weise, wie er die Operation beschrieb, noch auffälliger.
+      Netanjahu schrieb den Erfolg des Angriffs „der Armee, der Luftwaffe und dem Shabak“
+      zu. Nicht erwähnt wurde der Mossad, die Behörde, die laut Gesetz und Auftrag für
+      Geheimdienstaktivitäten und verdeckte Operationen im Ausland zuständig ist. In
+      Israels Sicherheitsarchitektur sind die Rollen klar verteilt: Der Mossad ist für
+      externe Operationen zuständig, der Shabak für die innere Sicherheit, der AMAN
+      für den militärischen Geheimdienst und die IDF mit ihrer Luftwaffe für offene
+      Operationen. Die Auslassung des Mossad bei einer Mission, die in Katar stattfand,
+      einem Verbündeten der USA, Standort der größten amerikanischen Luftwaffenbasis
+      im Nahen Osten und wichtiger politischer Vermittler mit der Hamas, wie von Präsident
+      Barack Obama während seiner Amtszeit gefordert, war kein Versprecher. Netanjahu
+      ist bekannt für seine kalkulierten Botschaften. Seine Worte sind so gewählt, dass
+      sie mehrere Zielgruppen ansprechen: Hebräisch für die heimische Öffentlichkeit,
+      Englisch für ausländische Hauptstädte. In diesem Fall gibt es mehrere mögliche
+      Erklärungen für den Ausschluss des Mossad, die jeweils weitreichende Auswirkungen
+      haben. Warum? Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Israels Ministerpräsident Benjamin Netanjahu sorgte für Aufsehen,
+      als er überraschend die Verantwortung für den rechtswidrigen Angriff auf Katar
+      übernahm, was einen Bruch mit der bisherigen Strategie des Landes darstellt, verdeckte
+      Operationen geheim zu halten.
+    paragraph_summary: In einem bemerkenswerten Schritt übernahm der israelische Ministerpräsident
+      Benjamin Netanjahu die Verantwortung für einen rechtswidrigen Angriff auf Katar,
+      was in starkem Kontrast zu Israels traditioneller Praxis der Geheimhaltung und
+      Leugnung steht. Netanjahus schnelles Eingeständnis bricht mit der jahrzehntelangen
+      Strategie, die auf Anonymität und Medienlecks setzt, um verdeckte Operationen
+      zu verschleiern. Besonders auffällig war, dass er bei der Beschreibung des Angriffs
+      die Rolle des Mossad, der für Auslandseinsätze zuständig ist, nicht erwähnte,
+      während er die Erfolge der Armee, Luftwaffe und des Shabak lobte. Diese bewusste
+      Auslassung könnte strategische Gründe haben, da Katar als wichtiger politischer
+      Akteur im Nahen Osten gilt, was auf eine gezielte Botschaft an verschiedene Zielgruppen
+      hinweist.
+    published: '2025-09-13T18:32:20+00:00'
+  - title: 'Wenn Shabak den Mossad ersetzt: Netanjahus kalkulierte Botschaft an Doha
+      und Washington'
+    url: https://ejmagnier.com/2025/09/13/wenn-shabak-den-mossad-ersetzt-netanjahus-kalkulierte-botschaft-an-doha-und-washington/
+    text: 'Tweet Von Elijah J. Magnier – Als der israelische Ministerpräsident Benjamin
+      Netanjahu die Verantwortung für den rechtswidrigen Angriff auf ein souveränes
+      Land, Katar, übernahm, erregte seine Erklärung aus zwei Gründen Aufmerksamkeit.
+      Erstens stand die Schnelligkeit seines Eingeständnisses in starkem Kontrast zu
+      Israels jahrzehntelangem Vertrauen auf Leugnung und Medienlecks, um seine Rolle
+      bei verdeckten Aktionen anzudeuten. Bei Attentaten, Sabotagemissionen oder Cyberoperationen
+      im Ausland war die israelische Vorgehensweise immer dieselbe: Schweigen auf offizieller
+      Ebene, „anonyme Quellen“ für Auslandskorrespondenten und eine sorgfältig gepflegte
+      Aura des Geheimnisvollen. Indem er fast sofort vor die Kameras trat, brach Netanjahu
+      mit einer langen Tradition, die Israel diplomatisch und strategisch gedient hatte.
+      Zweitens war die Art und Weise, wie er die Operation beschrieb, noch auffälliger.
+      Netanjahu schrieb den Erfolg des Angriffs „der Armee, der Luftwaffe und dem Shabak“
+      zu. Nicht erwähnt wurde der Mossad, die Behörde, die laut Gesetz und Auftrag für
+      Geheimdienstaktivitäten und verdeckte Operationen im Ausland zuständig ist. In
+      Israels Sicherheitsarchitektur sind die Rollen klar verteilt: Der Mossad ist für
+      externe Operationen zuständig, der Shabak für die innere Sicherheit, der AMAN
+      für den militärischen Geheimdienst und die IDF mit ihrer Luftwaffe für offene
+      Operationen. Die Auslassung des Mossad bei einer Mission, die in Katar stattfand,
+      einem Verbündeten der USA, Standort der größten amerikanischen Luftwaffenbasis
+      im Nahen Osten und wichtiger politischer Vermittler mit der Hamas, wie von Präsident
+      Barack Obama während seiner Amtszeit gefordert, war kein Versprecher. Netanjahu
+      ist bekannt für seine kalkulierten Botschaften. Seine Worte sind so gewählt, dass
+      sie mehrere Zielgruppen ansprechen: Hebräisch für die heimische Öffentlichkeit,
+      Englisch für ausländische Hauptstädte. In diesem Fall gibt es mehrere mögliche
+      Erklärungen für den Ausschluss des Mossad, die jeweils weitreichende Auswirkungen
+      haben. Warum? Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Israels Ministerpräsident Benjamin Netanjahu sorgte für Aufsehen,
+      als er überraschend die Verantwortung für den rechtswidrigen Angriff auf Katar
+      übernahm, was einen Bruch mit der bisherigen Strategie des Landes darstellt, verdeckte
+      Operationen geheim zu halten.
+    paragraph_summary: In einem bemerkenswerten Schritt übernahm der israelische Ministerpräsident
+      Benjamin Netanjahu die Verantwortung für einen rechtswidrigen Angriff auf Katar,
+      was in starkem Kontrast zu Israels traditioneller Praxis der Geheimhaltung und
+      Leugnung steht. Netanjahus schnelles Eingeständnis bricht mit der jahrzehntelangen
+      Strategie, die auf Anonymität und Medienlecks setzt, um verdeckte Operationen
+      zu verschleiern. Besonders auffällig war, dass er bei der Beschreibung des Angriffs
+      die Rolle des Mossad, der für Auslandseinsätze zuständig ist, nicht erwähnte,
+      während er die Erfolge der Armee, Luftwaffe und des Shabak lobte. Diese bewusste
+      Auslassung könnte strategische Gründe haben, da Katar als wichtiger politischer
+      Akteur im Nahen Osten gilt, was auf eine gezielte Botschaft an verschiedene Zielgruppen
+      hinweist.
+    published: '2025-09-13T18:32:20+00:00'
+  - title: 'Wanneer Shabak Mossad vervangt: Netanyahu’s berekende boodschap aan Doha
+      en Washington'
+    url: https://ejmagnier.com/2025/09/13/wanneer-shabak-mossad-vervangt-netanyahus-berekende-boodschap-aan-doha-en-washington/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Toen de
+      Israëlische premier Benjamin Netanyahu de verantwoordelijkheid op zich nam voor
+      de onwettige aanval op een soeverein land, Qatar, trok zijn verklaring om twee
+      redenen de aandacht. Ten eerste stond de snelheid waarmee hij dit erkende in schril
+      contrast met het feit dat Israël al decennialang vertrouwt op ontkenning en lekken
+      naar de media om zijn rol in geheime acties te insinueren. Voor moorden, sabotagemissies
+      of cyberoperaties in het buitenland was de Israëlische formule altijd dezelfde:
+      stilzwijgen op officieel niveau, “anonieme bronnen” voor buitenlandse correspondenten
+      en een zorgvuldig gecultiveerde aura van mysterie. Door vrijwel onmiddellijk voor
+      de camera’s te verschijnen, brak Netanyahu met een lange traditie die Israël diplomatiek
+      en strategisch goed van pas was gekomen. Ten tweede was de manier waarop hij de
+      operatie beschreef nog opvallender. Netanyahu gaf “het leger, de luchtmacht en
+      de Shabak” de eer voor de aanval. Ontbrekend was de Mossad, de dienst die volgens
+      de wet en zijn mandaat verantwoordelijk is voor inlichtingen en geheime operaties
+      in het buitenland. In de veiligheidsarchitectuur van Israël zijn de rollen duidelijk
+      afgebakend: de Mossad voor externe operaties, de Shabak voor interne veiligheid,
+      AMAN voor militaire inlichtingen en de IDF met zijn luchtmacht voor openlijke
+      operaties. Het weglaten van de Mossad bij een missie die plaatsvond in Qatar,
+      een bondgenoot van de VS, gastheer van de grootste Amerikaanse luchtmachtbasis
+      in het Midden-Oosten en een belangrijke politieke bemiddelaar met Hamas op verzoek
+      van president Barack Obama tijdens zijn mandaat, was geen verspreking. Netanyahu
+      staat bekend om zijn weloverwogen boodschappen. Zijn woorden zijn gekozen om meerdere
+      doelgroepen aan te spreken: Hebreeuws voor het binnenlandse front, Engels voor
+      buitenlandse hoofdsteden. In dit geval roept de uitsluiting van de Mossad verschillende
+      mogelijke verklaringen op, elk met verstrekkende gevolgen. Waarom? Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israëlische premier Benjamin Netanyahu's snelle erkenning
+      van de verantwoordelijkheid voor een onwettige aanval op Qatar markeert een breuk
+      met de gebruikelijke strategie van geheimhouding en ontkenning, wat zowel diplomatiek
+      als strategisch opmerkelijk is.
+    paragraph_summary: Israëlische premier Benjamin Netanyahu's erkenning van de verantwoordelijkheid
+      voor een onwettige aanval op Qatar heeft de aandacht getrokken om twee redenen.
+      Ten eerste wijkt zijn snelle publieke erkenning af van de gebruikelijke Israëlische
+      strategie van ontkenning en geheimhouding rond buitenlandse operaties. Ten tweede
+      is het opmerkelijk dat hij de eer voor de aanval toeschreef aan het leger, de
+      luchtmacht en de Shabak, terwijl de Mossad, die normaal verantwoordelijk is voor
+      dergelijke operaties, werd weggelaten. Deze keuze lijkt geen vergissing, maar
+      eerder een strategische zet van Netanyahu, die zijn boodschap zorgvuldig afstemt
+      op verschillende doelgroepen, wat vragen oproept over de implicaties van de Mossad's
+      afwezigheid in deze context, vooral gezien Qatar's rol als belangrijke politieke
+      bemiddelaar en gastheer van een grote Amerikaanse luchtmachtbasis.
+    published: '2025-09-13T18:29:53+00:00'
+  - title: 'Wanneer Shabak Mossad vervangt: Netanyahu’s berekende boodschap aan Doha
+      en Washington'
+    url: https://ejmagnier.com/2025/09/13/wanneer-shabak-mossad-vervangt-netanyahus-berekende-boodschap-aan-doha-en-washington/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Toen de
+      Israëlische premier Benjamin Netanyahu de verantwoordelijkheid op zich nam voor
+      de onwettige aanval op een soeverein land, Qatar, trok zijn verklaring om twee
+      redenen de aandacht. Ten eerste stond de snelheid waarmee hij dit erkende in schril
+      contrast met het feit dat Israël al decennialang vertrouwt op ontkenning en lekken
+      naar de media om zijn rol in geheime acties te insinueren. Voor moorden, sabotagemissies
+      of cyberoperaties in het buitenland was de Israëlische formule altijd dezelfde:
+      stilzwijgen op officieel niveau, “anonieme bronnen” voor buitenlandse correspondenten
+      en een zorgvuldig gecultiveerde aura van mysterie. Door vrijwel onmiddellijk voor
+      de camera’s te verschijnen, brak Netanyahu met een lange traditie die Israël diplomatiek
+      en strategisch goed van pas was gekomen. Ten tweede was de manier waarop hij de
+      operatie beschreef nog opvallender. Netanyahu gaf “het leger, de luchtmacht en
+      de Shabak” de eer voor de aanval. Ontbrekend was de Mossad, de dienst die volgens
+      de wet en zijn mandaat verantwoordelijk is voor inlichtingen en geheime operaties
+      in het buitenland. In de veiligheidsarchitectuur van Israël zijn de rollen duidelijk
+      afgebakend: de Mossad voor externe operaties, de Shabak voor interne veiligheid,
+      AMAN voor militaire inlichtingen en de IDF met zijn luchtmacht voor openlijke
+      operaties. Het weglaten van de Mossad bij een missie die plaatsvond in Qatar,
+      een bondgenoot van de VS, gastheer van de grootste Amerikaanse luchtmachtbasis
+      in het Midden-Oosten en een belangrijke politieke bemiddelaar met Hamas op verzoek
+      van president Barack Obama tijdens zijn mandaat, was geen verspreking. Netanyahu
+      staat bekend om zijn weloverwogen boodschappen. Zijn woorden zijn gekozen om meerdere
+      doelgroepen aan te spreken: Hebreeuws voor het binnenlandse front, Engels voor
+      buitenlandse hoofdsteden. In dit geval roept de uitsluiting van de Mossad verschillende
+      mogelijke verklaringen op, elk met verstrekkende gevolgen. Waarom? Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israëlische premier Benjamin Netanyahu's snelle erkenning
+      van de verantwoordelijkheid voor een onwettige aanval op Qatar markeert een breuk
+      met de gebruikelijke strategie van geheimhouding en ontkenning, wat zowel diplomatiek
+      als strategisch opmerkelijk is.
+    paragraph_summary: Israëlische premier Benjamin Netanyahu's erkenning van de verantwoordelijkheid
+      voor een onwettige aanval op Qatar heeft de aandacht getrokken om twee redenen.
+      Ten eerste wijkt zijn snelle publieke erkenning af van de gebruikelijke Israëlische
+      strategie van ontkenning en geheimhouding rond buitenlandse operaties. Ten tweede
+      is het opmerkelijk dat hij de eer voor de aanval toeschreef aan het leger, de
+      luchtmacht en de Shabak, terwijl de Mossad, die normaal verantwoordelijk is voor
+      dergelijke operaties, werd weggelaten. Deze keuze lijkt geen vergissing, maar
+      eerder een strategische zet van Netanyahu, die zijn boodschap zorgvuldig afstemt
+      op verschillende doelgroepen, wat vragen oproept over de implicaties van de Mossad's
+      afwezigheid in deze context, vooral gezien Qatar's rol als belangrijke politieke
+      bemiddelaar en gastheer van een grote Amerikaanse luchtmachtbasis.
+    published: '2025-09-13T18:29:53+00:00'
+  - title: 'Quand le Shabak remplace le Mossad : le message calculé de Netanyahu à Doha
+      et à Washington'
+    url: https://ejmagnier.com/2025/09/13/quand-le-shabak-remplace-le-mossad-le-message-calcule-de-netanyahu-a-doha-et-a-washington/
+    text: 'Tweet Par Elijah J. Magnier – Lorsque le Premier ministre israélien Benjamin
+      Netanyahu a revendiqué la responsabilité de l’attaque illégale contre un pays
+      souverain, le Qatar, sa déclaration a retenu l’attention pour deux raisons. D’abord,
+      la rapidité de son aveu contrastait fortement avec la dépendance d’Israël, depuis
+      des décennies, à l’égard du déni et des fuites médiatiques pour insinuer son rôle
+      dans des actions secrètes. Pour les assassinats, les missions de sabotage ou les
+      cyber-opérations à l’étranger, la formule israélienne était toujours la même :
+      silence au niveau officiel, “sources anonymes” pour les correspondants étrangers
+      et une aura savamment cultivée de mystère. En se présentant presque immédiatement
+      devant les caméras, Netanyahu a rompu avec une longue tradition qui avait servi
+      Israël diplomatiquement et stratégiquement. Ensuite, la manière dont il a décrit
+      l’opération était encore plus frappante. Netanyahu a attribué l’attaque à “l’armée,
+      l’armée de l’air et le Shabak”. Absent de la liste : le Mossad, l’agence légalement
+      chargée des opérations de renseignement et des actions secrètes à l’étranger.
+      Dans l’architecture sécuritaire israélienne, les rôles sont clairement définis
+      : le Mossad pour les opérations extérieures, le Shabak pour la sécurité intérieure,
+      l’AMAN pour le renseignement militaire et les Forces de défense israéliennes (FDI)
+      avec leur armée de l’air pour les opérations ouvertes. L’omission du Mossad dans
+      une mission qui s’est déroulée au Qatar – allié des États-Unis, hôte de la plus
+      grande base américaine au Moyen-Orient et médiateur politique important avec le
+      Hamas – n’était pas un lapsus. Netanyahu est connu pour son langage calculé. Ses
+      mots sont choisis pour s’adresser à plusieurs publics : l’hébreu pour la scène
+      intérieure, l’anglais pour les capitales étrangères. Dans ce cas, l’exclusion
+      du Mossad soulève plusieurs explications possibles, chacune ayant des implications
+      profondes. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Le Premier ministre israélien Benjamin Netanyahu a surpris
+      en revendiquant publiquement la responsabilité d'une attaque contre le Qatar,
+      rompant ainsi avec la tradition d'Israël de déni et de secret concernant ses opérations
+      à l'étranger.
+    paragraph_summary: Dans un tweet, Elijah J. Magnier souligne l'importance de la
+      déclaration du Premier ministre israélien Benjamin Netanyahu, qui a revendiqué
+      la responsabilité d'une attaque contre le Qatar, un acte inhabituel pour Israël,
+      traditionnellement avare en admissions publiques concernant ses opérations secrètes.
+      Netanyahu a rompu avec la pratique de déni en s'adressant directement aux médias,
+      mais ce qui a particulièrement retenu l'attention, c'est l'absence du Mossad dans
+      sa liste des agences impliquées, alors que cette agence est normalement chargée
+      des opérations à l'étranger. Cette omission soulève des questions sur les motivations
+      derrière sa déclaration, étant donné le rôle stratégique du Qatar et la structure
+      sécuritaire israélienne bien définie, ce qui pourrait avoir des implications diplomatiques
+      et militaires significatives.
+    published: '2025-09-13T18:27:21+00:00'
+  - title: 'Quand le Shabak remplace le Mossad : le message calculé de Netanyahu à Doha
+      et à Washington'
+    url: https://ejmagnier.com/2025/09/13/quand-le-shabak-remplace-le-mossad-le-message-calcule-de-netanyahu-a-doha-et-a-washington/
+    text: 'Tweet Par Elijah J. Magnier – Lorsque le Premier ministre israélien Benjamin
+      Netanyahu a revendiqué la responsabilité de l’attaque illégale contre un pays
+      souverain, le Qatar, sa déclaration a retenu l’attention pour deux raisons. D’abord,
+      la rapidité de son aveu contrastait fortement avec la dépendance d’Israël, depuis
+      des décennies, à l’égard du déni et des fuites médiatiques pour insinuer son rôle
+      dans des actions secrètes. Pour les assassinats, les missions de sabotage ou les
+      cyber-opérations à l’étranger, la formule israélienne était toujours la même :
+      silence au niveau officiel, “sources anonymes” pour les correspondants étrangers
+      et une aura savamment cultivée de mystère. En se présentant presque immédiatement
+      devant les caméras, Netanyahu a rompu avec une longue tradition qui avait servi
+      Israël diplomatiquement et stratégiquement. Ensuite, la manière dont il a décrit
+      l’opération était encore plus frappante. Netanyahu a attribué l’attaque à “l’armée,
+      l’armée de l’air et le Shabak”. Absent de la liste : le Mossad, l’agence légalement
+      chargée des opérations de renseignement et des actions secrètes à l’étranger.
+      Dans l’architecture sécuritaire israélienne, les rôles sont clairement définis
+      : le Mossad pour les opérations extérieures, le Shabak pour la sécurité intérieure,
+      l’AMAN pour le renseignement militaire et les Forces de défense israéliennes (FDI)
+      avec leur armée de l’air pour les opérations ouvertes. L’omission du Mossad dans
+      une mission qui s’est déroulée au Qatar – allié des États-Unis, hôte de la plus
+      grande base américaine au Moyen-Orient et médiateur politique important avec le
+      Hamas – n’était pas un lapsus. Netanyahu est connu pour son langage calculé. Ses
+      mots sont choisis pour s’adresser à plusieurs publics : l’hébreu pour la scène
+      intérieure, l’anglais pour les capitales étrangères. Dans ce cas, l’exclusion
+      du Mossad soulève plusieurs explications possibles, chacune ayant des implications
+      profondes. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Le Premier ministre israélien Benjamin Netanyahu a surpris
+      en revendiquant publiquement la responsabilité d'une attaque contre le Qatar,
+      rompant ainsi avec la tradition d'Israël de déni et de secret concernant ses opérations
+      à l'étranger.
+    paragraph_summary: Dans un tweet, Elijah J. Magnier souligne l'importance de la
+      déclaration du Premier ministre israélien Benjamin Netanyahu, qui a revendiqué
+      la responsabilité d'une attaque contre le Qatar, un acte inhabituel pour Israël,
+      traditionnellement avare en admissions publiques concernant ses opérations secrètes.
+      Netanyahu a rompu avec la pratique de déni en s'adressant directement aux médias,
+      mais ce qui a particulièrement retenu l'attention, c'est l'absence du Mossad dans
+      sa liste des agences impliquées, alors que cette agence est normalement chargée
+      des opérations à l'étranger. Cette omission soulève des questions sur les motivations
+      derrière sa déclaration, étant donné le rôle stratégique du Qatar et la structure
+      sécuritaire israélienne bien définie, ce qui pourrait avoir des implications diplomatiques
+      et militaires significatives.
+    published: '2025-09-13T18:27:21+00:00'
+  - title: 'Israel’s Military Reach Is US-Made: The Mirage of Power'
+    url: https://ejmagnier.com/2025/09/11/israels-military-reach-is-us-made-the-mirage-of-power/
+    text: 'Tweet By Elijah J. Magnier – When Israeli bombs fell on Doha, the world’s
+      attention was fixed on the political message. Less noticed, but far more telling,
+      were the military mechanics that made the strike possible. Israeli jets do not
+      cross 1800 kilometres of hostile or neutral airspace, penetrate one of the world’s
+      most monitored regions, and strike next to the largest US military Air Base in
+      the Middle East without cover, coordination, and authorisation. The Doha operation
+      said it did not “see” the Israeli jets, exposing what has long been disguised:
+      Israel’s apparent military omnipresence is, in practice, an extension of U.S.
+      supremacy and “friendly flee”. Without American logistical networks, aerial refuelling,
+      shared radar intelligence and imprint, and permissive air corridors, Israel’s
+      operations in Gaza, Lebanon, Syria, and now even Qatar would not be feasible.
+      Radar systems in the Gulf are integrated into a broader CENTCOM network headquartered
+      at Al Udeid in Qatar. Every flight in the region is tracked, categorised, and,
+      if necessary, intercepted. For Israeli jets to appear on those radars without
+      triggering alarms requires one of two things: either their signatures were masked
+      as “friendly” using Identification Friend or Foe (IFF) codes, or the strike was
+      conducted – but still visible – from outside Qatari airspace with stand-off weapons.
+      IFF sharing is technically possible. U.S. aircraft and those of its allies rely
+      on encrypted codes that identify them as friendly to air defence systems. If Washington
+      provided these to Israel, then Israeli planes would have appeared harmless as
+      they traversed the skies. This would not be unprecedented: NATO allies routinely
+      share codes. But in the Gulf context, it would mean the U.S. deliberately authorised
+      Israel to move unchallenged across airspaces supposedly under American protection.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: The recent Israeli airstrike on Doha highlights the reliance
+      of Israel's military operations on U.S. support and coordination, revealing that
+      its perceived omnipresence is largely facilitated by American logistical and intelligence
+      networks.
+    paragraph_summary: Elijah J. Magnier's article discusses the implications of an
+      Israeli airstrike near Doha, highlighting the military logistics that enabled
+      such an operation. It emphasizes that Israeli jets could not have penetrated 1,800
+      kilometers of hostile airspace and conducted a strike near a major U.S. military
+      base without American support and coordination. The article reveals that Israel's
+      military capabilities are heavily reliant on U.S. logistical networks, aerial
+      refueling, and shared intelligence, suggesting that the apparent omnipresence
+      of Israeli forces is an extension of U.S. influence. The operation's success implies
+      either that Israeli jets were able to mask their signatures as "friendly" or that
+      the strike was conducted from outside Qatari airspace using stand-off weapons,
+      indicating a potential U.S. authorization for Israel to operate unchallenged in
+      areas under American protection.
+    published: '2025-09-11T17:11:27+00:00'
+  - title: 'Israel’s Military Reach Is US-Made: The Mirage of Power'
+    url: https://ejmagnier.com/2025/09/11/israels-military-reach-is-us-made-the-mirage-of-power/
+    text: 'Tweet By Elijah J. Magnier – When Israeli bombs fell on Doha, the world’s
+      attention was fixed on the political message. Less noticed, but far more telling,
+      were the military mechanics that made the strike possible. Israeli jets do not
+      cross 1800 kilometres of hostile or neutral airspace, penetrate one of the world’s
+      most monitored regions, and strike next to the largest US military Air Base in
+      the Middle East without cover, coordination, and authorisation. The Doha operation
+      said it did not “see” the Israeli jets, exposing what has long been disguised:
+      Israel’s apparent military omnipresence is, in practice, an extension of U.S.
+      supremacy and “friendly flee”. Without American logistical networks, aerial refuelling,
+      shared radar intelligence and imprint, and permissive air corridors, Israel’s
+      operations in Gaza, Lebanon, Syria, and now even Qatar would not be feasible.
+      Radar systems in the Gulf are integrated into a broader CENTCOM network headquartered
+      at Al Udeid in Qatar. Every flight in the region is tracked, categorised, and,
+      if necessary, intercepted. For Israeli jets to appear on those radars without
+      triggering alarms requires one of two things: either their signatures were masked
+      as “friendly” using Identification Friend or Foe (IFF) codes, or the strike was
+      conducted – but still visible – from outside Qatari airspace with stand-off weapons.
+      IFF sharing is technically possible. U.S. aircraft and those of its allies rely
+      on encrypted codes that identify them as friendly to air defence systems. If Washington
+      provided these to Israel, then Israeli planes would have appeared harmless as
+      they traversed the skies. This would not be unprecedented: NATO allies routinely
+      share codes. But in the Gulf context, it would mean the U.S. deliberately authorised
+      Israel to move unchallenged across airspaces supposedly under American protection.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: The recent Israeli airstrike on Doha highlights the reliance
+      of Israel's military operations on U.S. support and coordination, revealing that
+      its perceived omnipresence is largely facilitated by American logistical and intelligence
+      networks.
+    paragraph_summary: Elijah J. Magnier's article discusses the implications of an
+      Israeli airstrike near Doha, highlighting the military logistics that enabled
+      such an operation. It emphasizes that Israeli jets could not have penetrated 1,800
+      kilometers of hostile airspace and conducted a strike near a major U.S. military
+      base without American support and coordination. The article reveals that Israel's
+      military capabilities are heavily reliant on U.S. logistical networks, aerial
+      refueling, and shared intelligence, suggesting that the apparent omnipresence
+      of Israeli forces is an extension of U.S. influence. The operation's success implies
+      either that Israeli jets were able to mask their signatures as "friendly" or that
+      the strike was conducted from outside Qatari airspace using stand-off weapons,
+      indicating a potential U.S. authorization for Israel to operate unchallenged in
+      areas under American protection.
+    published: '2025-09-11T17:11:27+00:00'
+  - title: 'La portée militaire d’Israël est fabriquée aux États-Unis : le mirage de
+      la puissance'
+    url: https://ejmagnier.com/2025/09/11/la-portee-militaire-disrael-est-fabriquee-aux-etats-unis-le-mirage-de-la-puissance/
+    text: 'Tweet Par Elijah J. Magnier – Lorsque les bombes israéliennes sont tombées
+      sur Doha, l’attention du monde s’est concentrée sur le message politique. Moins
+      remarquée, mais bien plus révélatrice, fut la mécanique militaire qui a rendu
+      la frappe possible. Les avions israéliens ne parcourent pas 1 800 kilomètres d’espaces
+      aériens hostiles ou neutres, ne pénètrent pas l’une des régions les plus surveillées
+      du monde et ne frappent pas à proximité de la plus grande base militaire et aérienne
+      américaine du Moyen-Orient sans couverture, coordination et autorisation. L’opération
+      de Doha a affirmé qu’elle n’avait pas “vu” les avions israéliens, exposant ainsi
+      ce qui a longtemps été dissimulé : l’omniprésence militaire apparente d’Israël
+      est, en pratique, une extension de la suprématie américaine et du “feu vert” de
+      Washington. Sans les réseaux logistiques américains, le ravitaillement aérien,
+      le partage de renseignements radar et l’ouverture de couloirs aériens, les opérations
+      israéliennes à Gaza, au Liban, en Syrie et désormais même au Qatar ne seraient
+      pas possibles. Les systèmes radar du Golfe sont intégrés dans un réseau plus large
+      du CENTCOM, dont le quartier général se trouve à Al Udeid, au Qatar. Chaque vol
+      dans la région est suivi, catégorisé et, si nécessaire, intercepté. Pour que des
+      avions israéliens apparaissent sur ces radars sans déclencher d’alerte, il faut
+      l’une des deux choses suivantes : soit leurs signatures sont masquées en tant
+      qu’“amies” grâce aux codes d’Identification Friend or Foe (IFF), soit la frappe
+      est effectuée — mais reste visible — depuis l’extérieur de l’espace aérien qatari
+      grâce à des armes de précision à longue portée. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: L'article souligne que les frappes israéliennes sur Doha révèlent
+      non seulement la puissance militaire d'Israël, mais aussi sa dépendance à la coordination
+      et au soutien logistique des États-Unis, qui facilitent ces opérations dans une
+      région hautement surveillée.
+    paragraph_summary: Elijah J. Magnier's tweet highlights the military logistics behind
+      Israeli airstrikes, particularly in Doha, revealing that such operations are heavily
+      reliant on American support. He argues that Israeli aircraft cannot traverse hostile
+      or neutral airspace and strike near a major U.S. military base without coordination
+      and authorization from Washington. The apparent military dominance of Israel is
+      portrayed as an extension of U.S. supremacy, facilitated by American logistical
+      networks, aerial refueling, intelligence sharing, and the management of air corridors.
+      Magnier notes that the Gulf's radar systems are integrated into a broader CENTCOM
+      network, which tracks all flights in the region, suggesting that Israeli operations,
+      whether conducted with stealth or precision weapons from outside Qatari airspace,
+      require U.S. complicity to avoid detection.
+    published: '2025-09-11T17:07:27+00:00'
+  - title: 'La portée militaire d’Israël est fabriquée aux États-Unis : le mirage de
+      la puissance'
+    url: https://ejmagnier.com/2025/09/11/la-portee-militaire-disrael-est-fabriquee-aux-etats-unis-le-mirage-de-la-puissance/
+    text: 'Tweet Par Elijah J. Magnier – Lorsque les bombes israéliennes sont tombées
+      sur Doha, l’attention du monde s’est concentrée sur le message politique. Moins
+      remarquée, mais bien plus révélatrice, fut la mécanique militaire qui a rendu
+      la frappe possible. Les avions israéliens ne parcourent pas 1 800 kilomètres d’espaces
+      aériens hostiles ou neutres, ne pénètrent pas l’une des régions les plus surveillées
+      du monde et ne frappent pas à proximité de la plus grande base militaire et aérienne
+      américaine du Moyen-Orient sans couverture, coordination et autorisation. L’opération
+      de Doha a affirmé qu’elle n’avait pas “vu” les avions israéliens, exposant ainsi
+      ce qui a longtemps été dissimulé : l’omniprésence militaire apparente d’Israël
+      est, en pratique, une extension de la suprématie américaine et du “feu vert” de
+      Washington. Sans les réseaux logistiques américains, le ravitaillement aérien,
+      le partage de renseignements radar et l’ouverture de couloirs aériens, les opérations
+      israéliennes à Gaza, au Liban, en Syrie et désormais même au Qatar ne seraient
+      pas possibles. Les systèmes radar du Golfe sont intégrés dans un réseau plus large
+      du CENTCOM, dont le quartier général se trouve à Al Udeid, au Qatar. Chaque vol
+      dans la région est suivi, catégorisé et, si nécessaire, intercepté. Pour que des
+      avions israéliens apparaissent sur ces radars sans déclencher d’alerte, il faut
+      l’une des deux choses suivantes : soit leurs signatures sont masquées en tant
+      qu’“amies” grâce aux codes d’Identification Friend or Foe (IFF), soit la frappe
+      est effectuée — mais reste visible — depuis l’extérieur de l’espace aérien qatari
+      grâce à des armes de précision à longue portée. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: L'article souligne que les frappes israéliennes sur Doha révèlent
+      non seulement la puissance militaire d'Israël, mais aussi sa dépendance à la coordination
+      et au soutien logistique des États-Unis, qui facilitent ces opérations dans une
+      région hautement surveillée.
+    paragraph_summary: Elijah J. Magnier's tweet highlights the military logistics behind
+      Israeli airstrikes, particularly in Doha, revealing that such operations are heavily
+      reliant on American support. He argues that Israeli aircraft cannot traverse hostile
+      or neutral airspace and strike near a major U.S. military base without coordination
+      and authorization from Washington. The apparent military dominance of Israel is
+      portrayed as an extension of U.S. supremacy, facilitated by American logistical
+      networks, aerial refueling, intelligence sharing, and the management of air corridors.
+      Magnier notes that the Gulf's radar systems are integrated into a broader CENTCOM
+      network, which tracks all flights in the region, suggesting that Israeli operations,
+      whether conducted with stealth or precision weapons from outside Qatari airspace,
+      require U.S. complicity to avoid detection.
+    published: '2025-09-11T17:07:27+00:00'
+  - title: 'Israels militärische Reichweite ist US-amerikanischer Herkunft: Die Illusion
+      der Macht'
+    url: https://ejmagnier.com/2025/09/11/israels-militarische-reichweite-ist-us-amerikanischer-herkunft-die-illusion-der-macht/
+    text: 'Tweet Von Elijah J. Magnier – Als israelische Bomben auf Doha fielen, richtete
+      sich die Aufmerksamkeit der Welt auf die politische Botschaft. Weniger beachtet,
+      aber weitaus aussagekräftiger waren die militärischen Mechanismen, die den Angriff
+      ermöglichten. Israelische Jets überqueren keine 1800 Kilometer feindlichen oder
+      neutralen Luftraums, dringen nicht in eine der am stärksten überwachten Regionen
+      der Welt ein und greifen nicht ohne Deckung, Koordination und Genehmigung neben
+      der größten US-Basis im Nahen Osten an. Die Operation in Doha gab an, die israelischen
+      Jets nicht „gesehen” zu haben, und enthüllte damit, was lange Zeit verschleiert
+      worden war: Israels offensichtliche militärische Allgegenwart ist in der Praxis
+      eine Erweiterung der Vorherrschaft der USA und ihrer „freundlichen Flucht”. Ohne
+      amerikanische Logistiknetzwerke, Luftbetankung, gemeinsame Radarinformationen
+      und -abdrücke sowie freigegebene Luftkorridore wären Israels Operationen in Gaza,
+      im Libanon, in Syrien und jetzt sogar in Katar nicht durchführbar. Die Radarsysteme
+      im Golf sind in ein größeres CENTCOM-Netzwerk mit Hauptsitz in Al Udeid in Katar
+      integriert. Jeder Flug in der Region wird verfolgt, kategorisiert und, falls erforderlich,
+      abgefangen. Damit israelische Jets auf diesen Radargeräten erscheinen können,
+      ohne Alarm auszulösen, muss eine von zwei Voraussetzungen erfüllt sein: Entweder
+      wurden ihre Signaturen mithilfe von IFF-Codes (Identification Friend or Foe) als
+      „befreundet” maskiert, oder der Angriff wurde – aber dennoch sichtbar – von außerhalb
+      des Luftraums Katars mit Stand-off-Waffen durchgeführt. Die gemeinsame Nutzung
+      von IFF-Codes ist technisch möglich. US-Flugzeuge und die ihrer Verbündeten verwenden
+      verschlüsselte Codes, die sie gegenüber Luftabwehrsystemen als freundlich identifizieren.
+      Hätte Washington diese Codes an Israel weitergegeben, wären israelische Flugzeuge
+      beim Überfliegen des Luftraums als harmlos erschienen. Dies wäre kein Novum: NATO-Verbündete
+      tauschen regelmäßig Codes aus. Im Kontext des Golfs würde dies jedoch bedeuten,
+      dass die USA Israel bewusst ermächtigt hätten, sich ungehindert durch Lufträume
+      zu bewegen, die eigentlich unter amerikanischem Schutz stehen. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Die israelischen Luftangriffe auf Doha verdeutlichen, dass
+      Israels militärische Aktionen stark von den USA abhängig sind, da sie ohne amerikanische
+      Unterstützung und Infrastruktur nicht möglich wären.
+    paragraph_summary: Der Artikel von Elijah J. Magnier beleuchtet die militärischen
+      Mechanismen hinter einem israelischen Luftangriff auf Doha und hebt hervor, dass
+      dieser ohne die Unterstützung der USA nicht möglich gewesen wäre. Israelische
+      Jets können nicht einfach durch feindliches oder neutrales Luftraum fliegen und
+      Angriffe durchführen, ohne dass sie durch amerikanische Logistik, Luftbetankung
+      und Radarinformationen unterstützt werden. Die Operation zeigt, dass Israels militärische
+      Präsenz in der Region stark von der US-Hegemonie abhängt. Die Integration von
+      Radarsystemen im Golf in das CENTCOM-Netzwerk ermöglicht es, jeden Flug zu überwachen,
+      und israelische Jets können nur dann unentdeckt bleiben, wenn ihre Identifikation
+      als „freundlich” maskiert wird oder sie von außerhalb des Luftraums angreifen.
+      Dies verdeutlicht die enge militärische Zusammenarbeit zwischen Israel und den
+      USA.
+    published: '2025-09-11T17:05:52+00:00'
+  - title: 'Israels militärische Reichweite ist US-amerikanischer Herkunft: Die Illusion
+      der Macht'
+    url: https://ejmagnier.com/2025/09/11/israels-militarische-reichweite-ist-us-amerikanischer-herkunft-die-illusion-der-macht/
+    text: 'Tweet Von Elijah J. Magnier – Als israelische Bomben auf Doha fielen, richtete
+      sich die Aufmerksamkeit der Welt auf die politische Botschaft. Weniger beachtet,
+      aber weitaus aussagekräftiger waren die militärischen Mechanismen, die den Angriff
+      ermöglichten. Israelische Jets überqueren keine 1800 Kilometer feindlichen oder
+      neutralen Luftraums, dringen nicht in eine der am stärksten überwachten Regionen
+      der Welt ein und greifen nicht ohne Deckung, Koordination und Genehmigung neben
+      der größten US-Basis im Nahen Osten an. Die Operation in Doha gab an, die israelischen
+      Jets nicht „gesehen” zu haben, und enthüllte damit, was lange Zeit verschleiert
+      worden war: Israels offensichtliche militärische Allgegenwart ist in der Praxis
+      eine Erweiterung der Vorherrschaft der USA und ihrer „freundlichen Flucht”. Ohne
+      amerikanische Logistiknetzwerke, Luftbetankung, gemeinsame Radarinformationen
+      und -abdrücke sowie freigegebene Luftkorridore wären Israels Operationen in Gaza,
+      im Libanon, in Syrien und jetzt sogar in Katar nicht durchführbar. Die Radarsysteme
+      im Golf sind in ein größeres CENTCOM-Netzwerk mit Hauptsitz in Al Udeid in Katar
+      integriert. Jeder Flug in der Region wird verfolgt, kategorisiert und, falls erforderlich,
+      abgefangen. Damit israelische Jets auf diesen Radargeräten erscheinen können,
+      ohne Alarm auszulösen, muss eine von zwei Voraussetzungen erfüllt sein: Entweder
+      wurden ihre Signaturen mithilfe von IFF-Codes (Identification Friend or Foe) als
+      „befreundet” maskiert, oder der Angriff wurde – aber dennoch sichtbar – von außerhalb
+      des Luftraums Katars mit Stand-off-Waffen durchgeführt. Die gemeinsame Nutzung
+      von IFF-Codes ist technisch möglich. US-Flugzeuge und die ihrer Verbündeten verwenden
+      verschlüsselte Codes, die sie gegenüber Luftabwehrsystemen als freundlich identifizieren.
+      Hätte Washington diese Codes an Israel weitergegeben, wären israelische Flugzeuge
+      beim Überfliegen des Luftraums als harmlos erschienen. Dies wäre kein Novum: NATO-Verbündete
+      tauschen regelmäßig Codes aus. Im Kontext des Golfs würde dies jedoch bedeuten,
+      dass die USA Israel bewusst ermächtigt hätten, sich ungehindert durch Lufträume
+      zu bewegen, die eigentlich unter amerikanischem Schutz stehen. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Die israelischen Luftangriffe auf Doha verdeutlichen, dass
+      Israels militärische Aktionen stark von den USA abhängig sind, da sie ohne amerikanische
+      Unterstützung und Infrastruktur nicht möglich wären.
+    paragraph_summary: Der Artikel von Elijah J. Magnier beleuchtet die militärischen
+      Mechanismen hinter einem israelischen Luftangriff auf Doha und hebt hervor, dass
+      dieser ohne die Unterstützung der USA nicht möglich gewesen wäre. Israelische
+      Jets können nicht einfach durch feindliches oder neutrales Luftraum fliegen und
+      Angriffe durchführen, ohne dass sie durch amerikanische Logistik, Luftbetankung
+      und Radarinformationen unterstützt werden. Die Operation zeigt, dass Israels militärische
+      Präsenz in der Region stark von der US-Hegemonie abhängt. Die Integration von
+      Radarsystemen im Golf in das CENTCOM-Netzwerk ermöglicht es, jeden Flug zu überwachen,
+      und israelische Jets können nur dann unentdeckt bleiben, wenn ihre Identifikation
+      als „freundlich” maskiert wird oder sie von außerhalb des Luftraums angreifen.
+      Dies verdeutlicht die enge militärische Zusammenarbeit zwischen Israel und den
+      USA.
+    published: '2025-09-11T17:05:52+00:00'
+  - title: 'Netanyahu’s War Without Borders: The Doha Strike and the End of Arab Illusions'
+    url: https://ejmagnier.com/2025/09/10/netanyahus-war-without-borders-the-doha-strike-and-the-end-of-arab-illusions/
+    text: 'Tweet By Elijah J. Magnier – Since 7 October 2023, Israel’s prime minister
+      Benjamin Netanyahu has pursued a doctrine of “peace through military force.” Last
+      week, that doctrine reached new extremes with the bombing of a Hamas leadership
+      meeting in Qatar’s capital, Doha. It was not only an assassination attempt—it
+      was an act of war carried out on the soil of a U.S. ally, under the watch of the
+      largest American airbase in the Middle East. The implications reverberate far
+      beyond Gaza or Doha: this was a turning point in Netanyahu’s “Greater Israel”
+      vision, a display of impunity under Washington’s cover, and a reckoning for Middle
+      Eastern leaders who believed American protection to be a guarantee. Al Udeid Air
+      Base in Qatar—the largest U.S. facility in the Middle East—was supposed to represent
+      a shield of security. Instead, the Doha strike revealed it as a mirage. Time and
+      again, U.S. assurances have proven hollow. In 1982, American envoys promised Beirut
+      that Israeli forces would not enter the city and that Palestinian camps would
+      be protected. Days later, Israeli-backed militias carried out the Sabra and Chatila
+      massacre under Israeli watch, while U.S. guarantees dissolved into silence. Four
+      decades later, the pattern remained. In September 2024, the Biden administration
+      vowed that Israel would not bomb Beirut. Within weeks, Sayyed Hassan Nasrallah
+      was assassinated and Israeli missiles pounded the capital. What had been presented
+      as restraint was exposed as theatre. Only a few months ago, U.S. officials told
+      Tehran they were ready for nuclear talks in Oman, war plans were already in motion.
+      Israel’s twelve-day campaign against Iran began on the eve of those supposed negotiations.
+      Diplomacy was dangled as bait while the strike clock was ticking. The Doha episode
+      fits the same script. Twenty-four hours before Israeli jets hit Hamas’s meeting,
+      Donald Trump announced he was sending a peace proposal to Hamas for discussion.
+      Hours later, as the document was being debated, the bombs fell. The timing suggests
+      not coincidence but orchestration: Trump’s initiative served as bait, the meeting
+      as the target. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Since October 7, 2023, Israeli Prime Minister Benjamin Netanyahu
+      has escalated his military strategy, exemplified by a bombing of a Hamas leadership
+      meeting in Doha, Qatar, which not only marked an assassination attempt but also
+      highlighted the fragility of U.S. assurances of protection in the region, challenging
+      the notion of American security guarantees for Middle Eastern leaders.
+    paragraph_summary: Since October 7, 2023, Israeli Prime Minister Benjamin Netanyahu
+      has escalated his "peace through military force" doctrine, culminating in a bombing
+      of a Hamas leadership meeting in Doha, Qatar, which not only marked an assassination
+      attempt but also an act of war on the territory of a U.S. ally, under the surveillance
+      of the largest American airbase in the Middle East. This incident signifies a
+      pivotal moment in Netanyahu's "Greater Israel" vision, showcasing a sense of impunity
+      backed by Washington and challenging the perceived security guarantees offered
+      to Middle Eastern leaders. The attack has drawn parallels to historical U.S. assurances
+      that have often proved ineffective, such as past promises regarding Israeli actions
+      in Beirut and ongoing tensions with Iran. The timing of the Doha strike, coinciding
+      with a peace proposal from Donald Trump to Hamas, further highlights the disconnect
+      between diplomatic overtures and military actions, suggesting a pattern of deception
+      in U.S. foreign policy.
+    published: '2025-09-10T17:01:20+00:00'
+  - title: 'Netanyahu’s War Without Borders: The Doha Strike and the End of Arab Illusions'
+    url: https://ejmagnier.com/2025/09/10/netanyahus-war-without-borders-the-doha-strike-and-the-end-of-arab-illusions/
+    text: 'Tweet By Elijah J. Magnier – Since 7 October 2023, Israel’s prime minister
+      Benjamin Netanyahu has pursued a doctrine of “peace through military force.” Last
+      week, that doctrine reached new extremes with the bombing of a Hamas leadership
+      meeting in Qatar’s capital, Doha. It was not only an assassination attempt—it
+      was an act of war carried out on the soil of a U.S. ally, under the watch of the
+      largest American airbase in the Middle East. The implications reverberate far
+      beyond Gaza or Doha: this was a turning point in Netanyahu’s “Greater Israel”
+      vision, a display of impunity under Washington’s cover, and a reckoning for Middle
+      Eastern leaders who believed American protection to be a guarantee. Al Udeid Air
+      Base in Qatar—the largest U.S. facility in the Middle East—was supposed to represent
+      a shield of security. Instead, the Doha strike revealed it as a mirage. Time and
+      again, U.S. assurances have proven hollow. In 1982, American envoys promised Beirut
+      that Israeli forces would not enter the city and that Palestinian camps would
+      be protected. Days later, Israeli-backed militias carried out the Sabra and Chatila
+      massacre under Israeli watch, while U.S. guarantees dissolved into silence. Four
+      decades later, the pattern remained. In September 2024, the Biden administration
+      vowed that Israel would not bomb Beirut. Within weeks, Sayyed Hassan Nasrallah
+      was assassinated and Israeli missiles pounded the capital. What had been presented
+      as restraint was exposed as theatre. Only a few months ago, U.S. officials told
+      Tehran they were ready for nuclear talks in Oman, war plans were already in motion.
+      Israel’s twelve-day campaign against Iran began on the eve of those supposed negotiations.
+      Diplomacy was dangled as bait while the strike clock was ticking. The Doha episode
+      fits the same script. Twenty-four hours before Israeli jets hit Hamas’s meeting,
+      Donald Trump announced he was sending a peace proposal to Hamas for discussion.
+      Hours later, as the document was being debated, the bombs fell. The timing suggests
+      not coincidence but orchestration: Trump’s initiative served as bait, the meeting
+      as the target. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Since October 7, 2023, Israeli Prime Minister Benjamin Netanyahu
+      has escalated his military strategy, exemplified by a bombing of a Hamas leadership
+      meeting in Doha, Qatar, which not only marked an assassination attempt but also
+      highlighted the fragility of U.S. assurances of protection in the region, challenging
+      the notion of American security guarantees for Middle Eastern leaders.
+    paragraph_summary: Since October 7, 2023, Israeli Prime Minister Benjamin Netanyahu
+      has escalated his "peace through military force" doctrine, culminating in a bombing
+      of a Hamas leadership meeting in Doha, Qatar, which not only marked an assassination
+      attempt but also an act of war on the territory of a U.S. ally, under the surveillance
+      of the largest American airbase in the Middle East. This incident signifies a
+      pivotal moment in Netanyahu's "Greater Israel" vision, showcasing a sense of impunity
+      backed by Washington and challenging the perceived security guarantees offered
+      to Middle Eastern leaders. The attack has drawn parallels to historical U.S. assurances
+      that have often proved ineffective, such as past promises regarding Israeli actions
+      in Beirut and ongoing tensions with Iran. The timing of the Doha strike, coinciding
+      with a peace proposal from Donald Trump to Hamas, further highlights the disconnect
+      between diplomatic overtures and military actions, suggesting a pattern of deception
+      in U.S. foreign policy.
+    published: '2025-09-10T17:01:20+00:00'
+  - title: 'La guerre sans frontières de Netanyahu : la frappe de Doha et la fin des
+      illusions arabes'
+    url: https://ejmagnier.com/2025/09/10/la-guerre-sans-frontieres-de-netanyahu-la-frappe-de-doha-et-la-fin-des-illusions-arabes/
+    text: 'Tweet Par Elijah J. Magnier Depuis le 7 octobre 2023, le Premier ministre
+      israélien Benyamin Netanyahu poursuit une doctrine de « paix par la force militaire
+      ». La semaine dernière, cette doctrine a atteint de nouveaux extrêmes avec le
+      bombardement d’une réunion de dirigeants du Hamas dans la capitale du Qatar, Doha.
+      Il ne s’agissait pas seulement d’une tentative d’assassinat, mais d’un acte de
+      guerre perpétré sur le sol d’un allié des États-Unis, sous les yeux de la plus
+      grande base aérienne américaine du Moyen-Orient. Les implications dépassent largement
+      Gaza ou Doha : il s’agit d’un tournant dans la vision du « Grand Israël » de Netanyahu,
+      d’une démonstration d’impunité sous la protection de Washington, et d’un avertissement
+      pour les dirigeants arabes qui croyaient que la protection américaine constituait
+      une garantie. La base aérienne d’Al Udeid au Qatar — la plus grande installation
+      américaine du Moyen-Orient — était censée représenter un bouclier de sécurité.
+      La frappe de Doha l’a révélée comme un mirage. À maintes reprises, les assurances
+      américaines se sont avérées creuses. En 1982, des envoyés américains avaient promis
+      à Beyrouth que les forces israéliennes n’entreraient pas dans la ville et que
+      les camps palestiniens seraient protégés. Quelques jours plus tard, des milices
+      soutenues par Israël perpétraient le massacre de Sabra et Chatila sous les yeux
+      de l’armée israélienne, tandis que les « garanties » américaines s’évaporaient
+      dans le silence. Quatre décennies plus tard, le schéma s’est répété. En septembre
+      2024, l’administration Biden avait juré qu’Israël ne bombarderait pas Beyrouth.
+      Quelques semaines plus tard, Sayyed Hassan Nasrallah était assassiné et des missiles
+      israéliens s’abattaient sur la capitale. Ce qui avait été présenté comme de la
+      retenue fut révélé comme du théâtre. Il y a seulement quelques mois, alors que
+      des responsables américains assuraient Téhéran qu’ils étaient prêts à entamer
+      des négociations nucléaires à Oman, les plans de guerre étaient déjà en marche.
+      La campagne israélienne de douze jours contre l’Iran débuta à la veille de ces
+      supposées négociations. La diplomatie fut agitée comme un leurre tandis que l’horloge
+      de la frappe tournait déjà. L’épisode de Doha suit le même scénario. Vingt-quatre
+      heures avant que les avions israéliens ne frappent la réunion du Hamas, Donald
+      Trump annonçait l’envoi d’une proposition de paix au mouvement pour discussion.
+      Quelques heures plus tard, alors que le document était débattu, les bombes tombaient.
+      Le calendrier suggère non pas une coïncidence mais une orchestration : l’initiative
+      de Trump servait d’appât, la réunion était la cible. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Depuis le 7 octobre 2023, le Premier ministre israélien Benyamin
+      Netanyahu a intensifié sa doctrine de « paix par la force militaire » en bombardant
+      une réunion de dirigeants du Hamas à Doha, un acte de guerre sur le sol d'un allié
+      des États-Unis qui remet en question la sécurité régionale et la protection américaine
+      pour les dirigeants arabes.
+    paragraph_summary: Depuis le 7 octobre 2023, le Premier ministre israélien Benyamin
+      Netanyahu a intensifié sa stratégie de « paix par la force militaire », culminant
+      avec le bombardement d'une réunion de dirigeants du Hamas à Doha, au Qatar. Cet
+      acte, considéré comme une déclaration de guerre sur le territoire d'un allié des
+      États-Unis, remet en question la sécurité que représente la base aérienne d'Al
+      Udeid, révélant les promesses américaines comme illusoires. L'incident souligne
+      un tournant dans la vision de Netanyahu pour un « Grand Israël » et sert d'avertissement
+      aux dirigeants arabes sur la fiabilité de la protection américaine. L'histoire
+      se répète, avec des promesses américaines qui se sont souvent avérées vaines,
+      comme en témoignent des événements passés à Beyrouth et les récentes tensions
+      avec Téhéran.
+    published: '2025-09-10T17:00:11+00:00'
+  - title: 'La guerre sans frontières de Netanyahu : la frappe de Doha et la fin des
+      illusions arabes'
+    url: https://ejmagnier.com/2025/09/10/la-guerre-sans-frontieres-de-netanyahu-la-frappe-de-doha-et-la-fin-des-illusions-arabes/
+    text: 'Tweet Par Elijah J. Magnier Depuis le 7 octobre 2023, le Premier ministre
+      israélien Benyamin Netanyahu poursuit une doctrine de « paix par la force militaire
+      ». La semaine dernière, cette doctrine a atteint de nouveaux extrêmes avec le
+      bombardement d’une réunion de dirigeants du Hamas dans la capitale du Qatar, Doha.
+      Il ne s’agissait pas seulement d’une tentative d’assassinat, mais d’un acte de
+      guerre perpétré sur le sol d’un allié des États-Unis, sous les yeux de la plus
+      grande base aérienne américaine du Moyen-Orient. Les implications dépassent largement
+      Gaza ou Doha : il s’agit d’un tournant dans la vision du « Grand Israël » de Netanyahu,
+      d’une démonstration d’impunité sous la protection de Washington, et d’un avertissement
+      pour les dirigeants arabes qui croyaient que la protection américaine constituait
+      une garantie. La base aérienne d’Al Udeid au Qatar — la plus grande installation
+      américaine du Moyen-Orient — était censée représenter un bouclier de sécurité.
+      La frappe de Doha l’a révélée comme un mirage. À maintes reprises, les assurances
+      américaines se sont avérées creuses. En 1982, des envoyés américains avaient promis
+      à Beyrouth que les forces israéliennes n’entreraient pas dans la ville et que
+      les camps palestiniens seraient protégés. Quelques jours plus tard, des milices
+      soutenues par Israël perpétraient le massacre de Sabra et Chatila sous les yeux
+      de l’armée israélienne, tandis que les « garanties » américaines s’évaporaient
+      dans le silence. Quatre décennies plus tard, le schéma s’est répété. En septembre
+      2024, l’administration Biden avait juré qu’Israël ne bombarderait pas Beyrouth.
+      Quelques semaines plus tard, Sayyed Hassan Nasrallah était assassiné et des missiles
+      israéliens s’abattaient sur la capitale. Ce qui avait été présenté comme de la
+      retenue fut révélé comme du théâtre. Il y a seulement quelques mois, alors que
+      des responsables américains assuraient Téhéran qu’ils étaient prêts à entamer
+      des négociations nucléaires à Oman, les plans de guerre étaient déjà en marche.
+      La campagne israélienne de douze jours contre l’Iran débuta à la veille de ces
+      supposées négociations. La diplomatie fut agitée comme un leurre tandis que l’horloge
+      de la frappe tournait déjà. L’épisode de Doha suit le même scénario. Vingt-quatre
+      heures avant que les avions israéliens ne frappent la réunion du Hamas, Donald
+      Trump annonçait l’envoi d’une proposition de paix au mouvement pour discussion.
+      Quelques heures plus tard, alors que le document était débattu, les bombes tombaient.
+      Le calendrier suggère non pas une coïncidence mais une orchestration : l’initiative
+      de Trump servait d’appât, la réunion était la cible. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Depuis le 7 octobre 2023, le Premier ministre israélien Benyamin
+      Netanyahu a intensifié sa doctrine de « paix par la force militaire » en bombardant
+      une réunion de dirigeants du Hamas à Doha, un acte de guerre sur le sol d'un allié
+      des États-Unis qui remet en question la sécurité régionale et la protection américaine
+      pour les dirigeants arabes.
+    paragraph_summary: Depuis le 7 octobre 2023, le Premier ministre israélien Benyamin
+      Netanyahu a intensifié sa stratégie de « paix par la force militaire », culminant
+      avec le bombardement d'une réunion de dirigeants du Hamas à Doha, au Qatar. Cet
+      acte, considéré comme une déclaration de guerre sur le territoire d'un allié des
+      États-Unis, remet en question la sécurité que représente la base aérienne d'Al
+      Udeid, révélant les promesses américaines comme illusoires. L'incident souligne
+      un tournant dans la vision de Netanyahu pour un « Grand Israël » et sert d'avertissement
+      aux dirigeants arabes sur la fiabilité de la protection américaine. L'histoire
+      se répète, avec des promesses américaines qui se sont souvent avérées vaines,
+      comme en témoignent des événements passés à Beyrouth et les récentes tensions
+      avec Téhéran.
+    published: '2025-09-10T17:00:11+00:00'
+  - title: 'Netanjahus Krieg ohne Grenzen: Der Angriff auf Doha und das Ende arabischer
+      Illusionen'
+    url: https://ejmagnier.com/2025/09/10/netanjahus-krieg-ohne-grenzen-der-angriff-auf-doha-und-das-ende-arabischer-illusionen/
+    text: 'Tweet Von Elijah J. Magnier – Seit dem 7. Oktober 2023 verfolgt Israels Ministerpräsident
+      Benjamin Netanjahu eine Doktrin des „Friedens durch militärische Gewalt“. Letzte
+      Woche erreichte diese Doktrin mit der Bombardierung eines Treffens der Hamas-Führung
+      in Katars Hauptstadt Doha einen neuen Höhepunkt. Es handelte sich nicht nur um
+      einen Attentatsversuch, sondern um einen Kriegshandlung, die auf dem Boden eines
+      Verbündeten der USA unter den Augen der größten amerikanischen Luftwaffenbasis
+      im Nahen Osten durchgeführt wurde. Die Auswirkungen reichen weit über Gaza oder
+      Doha hinaus: Dies war ein Wendepunkt in Netanjahus Vision eines „Großisraels”,
+      eine Demonstration der Straffreiheit unter dem Schutz Washingtons und eine Abrechnung
+      für die Führer des Nahen Ostens, die den Schutz der USA für eine Garantie hielten.
+      Der Luftwaffenstützpunkt Al Udeid in Katar – die größte US-Einrichtung im Nahen
+      Osten – sollte eigentlich ein Schutzschild für die Sicherheit sein. Stattdessen
+      entpuppte sich der Angriff auf Doha als Illusion. Immer wieder haben sich die
+      Zusicherungen der USA als leer erwiesen. 1982 versprachen amerikanische Gesandte
+      Beirut, dass israelische Truppen nicht in die Stadt einmarschieren und palästinensische
+      Lager geschützt würden. Nur wenige Tage später verübten von Israel unterstützte
+      Milizen unter israelischer Aufsicht das Massaker von Sabra und Shatila, während
+      die Garantien der USA in Schweigen versanken. Vier Jahrzehnte später hat sich
+      dieses Muster nicht geändert. Im September 2024 versprach die Biden-Regierung,
+      dass Israel Beirut nicht bombardieren würde. Innerhalb weniger Wochen wurde Sayyed
+      Hassan Nasrallah ermordet und israelische Raketen schlugen in der Hauptstadt ein.
+      Was als Zurückhaltung dargestellt worden war, entpuppte sich als Theater. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israels Ministerpräsident Benjamin Netanjahu verfolgt seit
+      dem 7. Oktober 2023 eine aggressive Militärdoktrin, die ihren Höhepunkt in einem
+      Luftangriff auf ein Hamas-Treffen in Doha fand, was nicht nur die Dynamik im Nahen
+      Osten verändert, sondern auch die Rolle der USA als Schutzmacht in Frage stellt.
+    paragraph_summary: Since October 7, 2023, Israeli Prime Minister Benjamin Netanyahu
+      has pursued a doctrine of "peace through military force," culminating in a recent
+      airstrike targeting Hamas leadership in Doha, Qatar. This act, conducted on the
+      territory of a U.S. ally and near a major American military base, signifies a
+      shift in Netanyahu's vision for a "Greater Israel" and highlights the perceived
+      impunity granted by U.S. support. The attack undermines the notion of U.S. guarantees
+      for regional security, echoing historical failures of American assurances, such
+      as those made prior to the 1982 Sabra and Shatila massacre. Despite promises from
+      the Biden administration to refrain from military actions in Beirut, recent events
+      suggest a continuation of this pattern, revealing the fragility of U.S. commitments
+      in the region.
+    published: '2025-09-10T16:58:57+00:00'
+  - title: 'Netanjahus Krieg ohne Grenzen: Der Angriff auf Doha und das Ende arabischer
+      Illusionen'
+    url: https://ejmagnier.com/2025/09/10/netanjahus-krieg-ohne-grenzen-der-angriff-auf-doha-und-das-ende-arabischer-illusionen/
+    text: 'Tweet Von Elijah J. Magnier – Seit dem 7. Oktober 2023 verfolgt Israels Ministerpräsident
+      Benjamin Netanjahu eine Doktrin des „Friedens durch militärische Gewalt“. Letzte
+      Woche erreichte diese Doktrin mit der Bombardierung eines Treffens der Hamas-Führung
+      in Katars Hauptstadt Doha einen neuen Höhepunkt. Es handelte sich nicht nur um
+      einen Attentatsversuch, sondern um einen Kriegshandlung, die auf dem Boden eines
+      Verbündeten der USA unter den Augen der größten amerikanischen Luftwaffenbasis
+      im Nahen Osten durchgeführt wurde. Die Auswirkungen reichen weit über Gaza oder
+      Doha hinaus: Dies war ein Wendepunkt in Netanjahus Vision eines „Großisraels”,
+      eine Demonstration der Straffreiheit unter dem Schutz Washingtons und eine Abrechnung
+      für die Führer des Nahen Ostens, die den Schutz der USA für eine Garantie hielten.
+      Der Luftwaffenstützpunkt Al Udeid in Katar – die größte US-Einrichtung im Nahen
+      Osten – sollte eigentlich ein Schutzschild für die Sicherheit sein. Stattdessen
+      entpuppte sich der Angriff auf Doha als Illusion. Immer wieder haben sich die
+      Zusicherungen der USA als leer erwiesen. 1982 versprachen amerikanische Gesandte
+      Beirut, dass israelische Truppen nicht in die Stadt einmarschieren und palästinensische
+      Lager geschützt würden. Nur wenige Tage später verübten von Israel unterstützte
+      Milizen unter israelischer Aufsicht das Massaker von Sabra und Shatila, während
+      die Garantien der USA in Schweigen versanken. Vier Jahrzehnte später hat sich
+      dieses Muster nicht geändert. Im September 2024 versprach die Biden-Regierung,
+      dass Israel Beirut nicht bombardieren würde. Innerhalb weniger Wochen wurde Sayyed
+      Hassan Nasrallah ermordet und israelische Raketen schlugen in der Hauptstadt ein.
+      Was als Zurückhaltung dargestellt worden war, entpuppte sich als Theater. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israels Ministerpräsident Benjamin Netanjahu verfolgt seit
+      dem 7. Oktober 2023 eine aggressive Militärdoktrin, die ihren Höhepunkt in einem
+      Luftangriff auf ein Hamas-Treffen in Doha fand, was nicht nur die Dynamik im Nahen
+      Osten verändert, sondern auch die Rolle der USA als Schutzmacht in Frage stellt.
+    paragraph_summary: Since October 7, 2023, Israeli Prime Minister Benjamin Netanyahu
+      has pursued a doctrine of "peace through military force," culminating in a recent
+      airstrike targeting Hamas leadership in Doha, Qatar. This act, conducted on the
+      territory of a U.S. ally and near a major American military base, signifies a
+      shift in Netanyahu's vision for a "Greater Israel" and highlights the perceived
+      impunity granted by U.S. support. The attack undermines the notion of U.S. guarantees
+      for regional security, echoing historical failures of American assurances, such
+      as those made prior to the 1982 Sabra and Shatila massacre. Despite promises from
+      the Biden administration to refrain from military actions in Beirut, recent events
+      suggest a continuation of this pattern, revealing the fragility of U.S. commitments
+      in the region.
+    published: '2025-09-10T16:58:57+00:00'
+  - title: 'Netanyahu’s oorlog zonder grenzen: de aanval op Doha en het einde van de
+      Arabische illusies'
+    url: https://ejmagnier.com/2025/09/10/netanyahus-oorlog-zonder-grenzen-de-aanval-op-doha-en-het-einde-van-de-arabische-illusies/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Sinds
+      7 oktober 2023 streeft de Israëlische premier Benjamin Netanyahu een doctrine
+      na van “vrede door middel van militair geweld”. Vorige week bereikte die doctrine
+      een nieuw hoogtepunt met de bombardementen op een bijeenkomst van Hamas-leiders
+      in de hoofdstad van Qatar, Doha. Het was niet alleen een moordaanslag, het was
+      een oorlogsdaad uitgevoerd op het grondgebied van een bondgenoot van de VS, onder
+      het toeziend oog van de grootste Amerikaanse luchtmachtbasis in het Midden-Oosten.
+      De gevolgen reiken veel verder dan Gaza of Doha: dit was een keerpunt in Netanyahu’s
+      visie van ‘Groot-Israël’, een demonstratie van straffeloosheid onder de dekmantel
+      van Washington en een afrekening voor leiders in het Midden-Oosten die dachten
+      dat Amerikaanse bescherming een garantie was. De Al Udeid-luchtmachtbasis in Qatar
+      – de grootste Amerikaanse faciliteit in het Midden-Oosten – moest een schild van
+      veiligheid vormen. In plaats daarvan bleek de aanval op Doha dat dit een luchtspiegeling
+      was. Keer op keer zijn de garanties van de VS hol gebleken. In 1982 beloofden
+      Amerikaanse gezanten Beiroet dat Israëlische troepen de stad niet zouden binnenvallen
+      en dat Palestijnse kampen zouden worden beschermd. Enkele dagen later voerden
+      door Israël gesteunde milities onder Israëlisch toezicht het bloedbad van Sabra
+      en Chatila uit, terwijl de Amerikaanse garanties in stilzwijgen verzonken. Vier
+      decennia later was het patroon nog steeds hetzelfde. In september 2024 beloofde
+      de regering-Biden dat Israël Beiroet niet zou bombarderen. Binnen enkele weken
+      werd Sayyed Hassan Nasrallah vermoord en werd de hoofdstad door Israëlische raketten
+      bestookt. Wat als terughoudendheid was gepresenteerd, bleek slechts schijn te
+      zijn. Nog maar een paar maanden geleden vertelden Amerikaanse functionarissen
+      Teheran dat ze klaar waren voor nucleaire besprekingen in Oman, terwijl de oorlogsplannen
+      al in gang waren gezet. Israëls twaalfdaagse campagne tegen Iran begon aan de
+      vooravond van die vermeende onderhandelingen. Diplomatie werd als lokmiddel gebruikt
+      terwijl de klok voor de aanval tikte. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israëlische premier Benjamin Netanyahu heeft sinds 7 oktober
+      2023 een beleid van "vrede door middel van militair geweld" geïmplementeerd, wat
+      culmineerde in een aanval op Hamas-leiders in Qatar, en dit markeert een keerpunt
+      in zijn visie voor 'Groot-Israël' en de Amerikaanse invloed in de regio.
+    paragraph_summary: Sinds 7 oktober 2023 heeft de Israëlische premier Benjamin Netanyahu
+      een beleid van "vrede door middel van militair geweld" geïntroduceerd, dat recentelijk
+      culmineerde in een luchtaanval op een bijeenkomst van Hamas-leiders in Doha, Qatar.
+      Deze aanval, uitgevoerd op het grondgebied van een Amerikaanse bondgenoot en nabij
+      de grootste Amerikaanse luchtmachtbasis in het Midden-Oosten, markeert een keerpunt
+      in Netanyahu's streven naar 'Groot-Israël' en toont de schijnbare straffeloosheid
+      van Israël aan, ondanks de beloften van Amerikaanse bescherming aan leiders in
+      de regio. De aanval illustreert een herhaald patroon van gebroken Amerikaanse
+      garanties, zoals eerder gezien in de geschiedenis, en benadrukt de schijnbare
+      onbetrouwbaarheid van de VS in het Midden-Oosten, waarbij recente beloftes van
+      terughoudendheid door Israël vaak niet zijn nagekomen.
+    published: '2025-09-10T16:56:59+00:00'
+  - title: 'Netanyahu’s oorlog zonder grenzen: de aanval op Doha en het einde van de
+      Arabische illusies'
+    url: https://ejmagnier.com/2025/09/10/netanyahus-oorlog-zonder-grenzen-de-aanval-op-doha-en-het-einde-van-de-arabische-illusies/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Sinds
+      7 oktober 2023 streeft de Israëlische premier Benjamin Netanyahu een doctrine
+      na van “vrede door middel van militair geweld”. Vorige week bereikte die doctrine
+      een nieuw hoogtepunt met de bombardementen op een bijeenkomst van Hamas-leiders
+      in de hoofdstad van Qatar, Doha. Het was niet alleen een moordaanslag, het was
+      een oorlogsdaad uitgevoerd op het grondgebied van een bondgenoot van de VS, onder
+      het toeziend oog van de grootste Amerikaanse luchtmachtbasis in het Midden-Oosten.
+      De gevolgen reiken veel verder dan Gaza of Doha: dit was een keerpunt in Netanyahu’s
+      visie van ‘Groot-Israël’, een demonstratie van straffeloosheid onder de dekmantel
+      van Washington en een afrekening voor leiders in het Midden-Oosten die dachten
+      dat Amerikaanse bescherming een garantie was. De Al Udeid-luchtmachtbasis in Qatar
+      – de grootste Amerikaanse faciliteit in het Midden-Oosten – moest een schild van
+      veiligheid vormen. In plaats daarvan bleek de aanval op Doha dat dit een luchtspiegeling
+      was. Keer op keer zijn de garanties van de VS hol gebleken. In 1982 beloofden
+      Amerikaanse gezanten Beiroet dat Israëlische troepen de stad niet zouden binnenvallen
+      en dat Palestijnse kampen zouden worden beschermd. Enkele dagen later voerden
+      door Israël gesteunde milities onder Israëlisch toezicht het bloedbad van Sabra
+      en Chatila uit, terwijl de Amerikaanse garanties in stilzwijgen verzonken. Vier
+      decennia later was het patroon nog steeds hetzelfde. In september 2024 beloofde
+      de regering-Biden dat Israël Beiroet niet zou bombarderen. Binnen enkele weken
+      werd Sayyed Hassan Nasrallah vermoord en werd de hoofdstad door Israëlische raketten
+      bestookt. Wat als terughoudendheid was gepresenteerd, bleek slechts schijn te
+      zijn. Nog maar een paar maanden geleden vertelden Amerikaanse functionarissen
+      Teheran dat ze klaar waren voor nucleaire besprekingen in Oman, terwijl de oorlogsplannen
+      al in gang waren gezet. Israëls twaalfdaagse campagne tegen Iran begon aan de
+      vooravond van die vermeende onderhandelingen. Diplomatie werd als lokmiddel gebruikt
+      terwijl de klok voor de aanval tikte. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israëlische premier Benjamin Netanyahu heeft sinds 7 oktober
+      2023 een beleid van "vrede door middel van militair geweld" geïmplementeerd, wat
+      culmineerde in een aanval op Hamas-leiders in Qatar, en dit markeert een keerpunt
+      in zijn visie voor 'Groot-Israël' en de Amerikaanse invloed in de regio.
+    paragraph_summary: Sinds 7 oktober 2023 heeft de Israëlische premier Benjamin Netanyahu
+      een beleid van "vrede door middel van militair geweld" geïntroduceerd, dat recentelijk
+      culmineerde in een luchtaanval op een bijeenkomst van Hamas-leiders in Doha, Qatar.
+      Deze aanval, uitgevoerd op het grondgebied van een Amerikaanse bondgenoot en nabij
+      de grootste Amerikaanse luchtmachtbasis in het Midden-Oosten, markeert een keerpunt
+      in Netanyahu's streven naar 'Groot-Israël' en toont de schijnbare straffeloosheid
+      van Israël aan, ondanks de beloften van Amerikaanse bescherming aan leiders in
+      de regio. De aanval illustreert een herhaald patroon van gebroken Amerikaanse
+      garanties, zoals eerder gezien in de geschiedenis, en benadrukt de schijnbare
+      onbetrouwbaarheid van de VS in het Midden-Oosten, waarbij recente beloftes van
+      terughoudendheid door Israël vaak niet zijn nagekomen.
+    published: '2025-09-10T16:56:59+00:00'
   - title: 'The Two US Envoys: Witkoff, Barrack, and who failed to understand Netanyahu’s
       Game'
     url: https://ejmagnier.com/2025/09/08/the-two-us-envoys-witkoff-barrack-and-who-failed-to-understand-netanyahus-game/

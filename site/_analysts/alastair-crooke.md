@@ -7,14 +7,212 @@ description: "Ex-MI6 diplomat and founder of Conflicts Forum (Beirut); publishes
 websites:
   - https://www.eurasiareview.com/author/alastair-crooke/
 summary: |
-  In the wake of the recent Shanghai Cooperation Organization (SCO) Summit, the global balance of power is undergoing a marked transformation. As **Alastair Crooke** observes, the summit underscored a decisive pivot: China and Russia are now openly asserting their influence, while the West—particularly the United States—faces mounting internal discord and waning hegemony. This shift is not merely symbolic; it signals a new era of multipolarity that challenges the traditional dominance of Western-led institutions.
+  The geopolitical landscape remains defined by escalating tensions and shifting alliances, as U.S. foreign policy under President Trump continues to prioritize military assertiveness and transactional interests over traditional diplomacy. The most recent development—the Israeli strike on a Hamas negotiating team in Doha—marks a significant turning point in Middle Eastern diplomacy. According to **Alastair Crooke**, this action "signifies the end of Qatar's influential role" as a mediator, effectively sidelining one of the few remaining channels for dialogue in the region. This move is emblematic of what Crooke describes as a broader U.S. strategy of "escalatory dominance," where the pursuit of military advantage and profit supersedes efforts toward sustainable peace.
   
-  The timing of China’s assertiveness at the SCO, Crooke notes, appears calculated rather than coincidental. The West’s preoccupation with domestic crises and strategic missteps has created an opening for Beijing and Moscow to consolidate their positions. “The West is grappling with internal turmoil and declining hegemony,” Crooke writes, suggesting that Washington’s capacity to dictate global norms is eroding. This development places significant pressure on the U.S. administration, which is already struggling to formulate coherent responses to simultaneous challenges in Europe, the Middle East, and the Indo-Pacific.
+  This trend is not isolated. The Trump administration’s alignment with hardline Israeli interests, often referred to as the sway of ‘Israel Firsters’, has further entrenched a policy of confrontation, particularly against Iran and Palestinian factions. Crooke notes that this approach is less about achieving a negotiated settlement and more about imposing outcomes through force, a strategy that risks further destabilization.
   
-  Meanwhile, in the Middle East, Israel’s strategic posture continues to harden. Crooke highlights a shift toward what he terms a “new, violent Zionism,” characterized by the prioritization of military solutions and the imposition of control over Palestinians and the broader region. This approach, as articulated by Israeli officials like Ron Dermer, raises concerns about the sustainability of Israel’s security paradigm and the risk of escalating conflict. The broader implication is that Israel’s actions may serve as a harbinger for a more coercive and confrontational era in global geopolitics.
+  Meanwhile, the global balance of power continues to shift. The recent Shanghai Cooperation Organization (SCO) summit underscored the growing assertiveness of China and Russia, who are capitalizing on Western disarray to advance a multipolar order. As Crooke observes, the West is "grappling with internal turmoil and declining hegemony," raising questions about the future of U.S. leadership in a world where alternative centers of power are increasingly influential.
   
-  Looking ahead, the prevailing trend is clear: the world is moving rapidly toward a multipolar order, with China and Russia at the forefront of this realignment. The U.S. is likely to face increasing difficulties in maintaining its leadership role, both due to external resistance and internal fragmentation. As Crooke concludes, “the future of U.S. leadership is now in question,” and the West must adapt to a reality where its influence is no longer unchallenged. There is a high chance that this multipolar dynamic will intensify in the coming months, with global institutions and alliances undergoing further strain and realignment.
+  Looking ahead, the predominant trend is one of continued escalation and polarization. The sidelining of diplomatic actors like Qatar, combined with the U.S. administration’s preference for military solutions, suggests that prospects for de-escalation in the Middle East are dim in the near term. At the same time, the emergence of a more assertive China-Russia axis is likely to further erode Western influence on the global stage. Based on the current trajectory, there is a high chance that conflict zones such as Iran and Palestine will see renewed violence, while the U.S. faces mounting challenges to its geopolitical dominance. As Crooke concludes, the era of Western-led order is most definitely giving way to a more fragmented and unpredictable global system.
 articles:
+  - title: 'Maintaining Escalatory Dominance: Trump And The Predominant Sway Of ‘Israel
+      Firsters’ – OpEd'
+    url: https://www.eurasiareview.com/16092025-maintaining-escalatory-dominance-trump-and-the-predominant-sway-of-israel-firsters-oped/
+    text: 'By Alastair Crooke
+
+
+      The strike on the Hamas negotiating team assembled in Doha to discuss the ‘Witkoff
+      Gaza proposal’ is not just another ‘IDF operation’ to be passed over silently
+      (as with the de-capitation of almost the entire civilian cabinet in Yemen).
+
+
+      It marks rather, the end to an entire era – and “a new reality” for Qatar.
+
+
+      It’s a landmark event. For decades, Qatar has played a very profitable game –
+      supporting the radical An-Nusra jihadists in Syria as a lever against Iran, while
+      maintaining American military bases and a strategic partnership with Washington.
+      Doha presented itself as a mediator – dining with the jihadists whilst acting
+      as a Mossad facilitator.
+
+
+      It was this multi-directional approach that gave Qatar the reputation of being
+      the ‘eternal beneficiary’ in Middle Eastern crises and in Afghanistan. Even when
+      Israel, Iran, or Saudi Arabia were under attack, Doha came out ahead. The Qataris
+      calmly counted the profits from their gas and enjoyed the role of indispensable
+      intermediaries.
+
+
+      Now this fairy tale is over: There will be no more ‘safe zones’. Most tellingly,
+      the U.S. (reported Israeli Channel 11) had approved the action about which Trump
+      was then informed. Despite questioning the attack, Trump said he applauded any
+      killing of Hamas members.
+
+
+      We should have seen this coming. The Doha attack was yet another Trump-Israel
+      sneak attack – a pattern that began with the sneak strike on the Hizbullah leadership
+      assembling to discuss a U.S. peace initiative – a methodology then was copied
+      for the Iranian de-capitation operation of 13 June, just as Trump touted JCPOA
+      talks with the Witkoff team commencing in the days ahead.
+
+
+      And now, with Trump’s Gaza ‘peace proposal’ handed as bait to gather the Hamas
+      leaders together in one place in Doha, Israel struck. Witkoff’s Gaza plan looks
+      a mockery; or else a deliberate feint. For Israel had already decided to end the
+      Qatari role.
+
+
+      Israeli logic is fundamentally simple and cynical – regardless of how many American
+      bases you have or how important your gas is to the global economy. The killing
+      of Ismail Haniya in Tehran, the strikes on Syria and Lebanon, the operation in
+      Qatar – all are links to one chain: Netanyahu (and a majority in Israel is behind
+      him in this) methodically demonstrates that there are no forbidden territories;
+      no rules of law; no Vienna Convention for him in the Middle East.
+
+
+      The support for Israel’s genocide and ethnic cleansing; the failure to make any
+      serious effort to prepare a political path for a settlement on Ukraine; the reliance
+      instead on making war, whilst proclaiming peace – all these represent the essence
+      of the Trump approach: An exercise of escalatory dominance, both at home and abroad.
+
+
+      The whole notion of Make America Great Again (MAGA) seems to rest on the calibrated
+      use of belligerency, tariffs or military power to maintain a continuous potential
+      for escalatory dominance over the longer term. Trump seems to think that achieving
+      dominance at home and abroad to be the essence of MAGA. And that this can be achieved
+      through calibrated domination – sold to his MAGA base by calling such threats
+      bringing ‘peace’ or negotiating a ‘ceasefire’.
+
+
+      The emphasis on escalatory dominance also has to do with the transformation of
+      wars – in Trump’s mind – into huge U.S. profit-making ventures. The notion of
+      turning Gaza into a lucrative investment project underlines the close linkage
+      between war and making money. Ditto for Ukraine which has become a boondoggle
+      for the U.S. money laundromat.
+
+
+      Do not believe that the U.S. will not come back to any particular war, in due
+      time. That is why the escalatory ladder is never fully relinquished or removed,
+      for its continued leaning up against the outer wall of a conflict offers a return
+      to some form of further escalation at a later time (i.e. in Ukraine).
+
+
+      All these signs have rung warning bells in Moscow. Trump’s Anchorage Trip – from
+      the Russian perspective – was to learn (if possible) how tight are the fetters
+      that bind Trump; what is the extent of his latitude to act autonomously; what
+      he wants; and what might he do next.
+
+
+      For the Russians, the visit demonstrated what the limitations are.
+
+
+      Yuri Ushakov, Putin’s principle foreign policy adviser, has explained that in
+      Tianjin at the SCO summit, there were discussions with all of Russia’s strategic
+      allies; it was understood that there had been a delay in sanctions pressure on
+      Russia offered by Trump, but no implementation of any of the structures for continuing
+      negotiations. No structures, no working groups, no further exchanges to prepare
+      for the so-called trilateral meeting of Trump, Zelensky, and Putin. No preparation
+      for an agenda; no preparation for terms.
+
+
+      That spoke to Trump’s future intentions – no structures, no signals, no real commitment
+      to peace. Instead, the Russians see a Trump regime that is dallying with the opposite
+      – with European plans to re-arm Ukraine.
+
+
+      The joint aggression by Israel and the U.S. against Iran – and yesterday’s strike
+      on Qatar – are events of the same ideological substance, serving as confirmation
+      of the predominant sway of ‘Israel Firsters’, and those in the circles around
+      Trump – nursing ancient grudges against Russia from similar religious roots.
+
+
+      The predominance of this Israeli-centric policy has fractured Trump’s MAGA base.
+      It has – more widely – permanently impaired U.S. global soft power and diplomatic
+      trustworthiness. Yet Trump, held fast in its grip, dare not let it go – to do
+      so would risk its self-destruction.
+
+
+      Israel is carrying out a second Nakba (ethnic cleaning and genocide) in Gaza and
+      the West Bank, with Jewish society remaining largely trapped in repression and
+      denial – just as it was back in 1948. Israeli filmmaker Neta Shoshani’s controversial
+      documentary about the 1948 war was banned in Israel because it exposed many of
+      the flaws in the ethos underlying the creation of the nascent State’s identity.
+
+
+      Shoshani wrote recently about her film, “I suddenly realized that in the past
+      two horrible years the whole matter of the Israeli ethos has been totally shattered”:
+
+
+      “I grasped that an ethos has a great deal of power, that it contains society within
+      certain boundaries. And even if those boundaries are breached – and they were
+      certainly breached as early as 1948 – there was still something in society’s moral
+      codes that at least caused it to feel ashamed. So for decades that ethos safeguarded
+      [Israeli] society and the army, compelling them to preserve certain limits”.
+
+
+      “And when that ethos falls apart, it’s really scary. From this perspective, the
+      film was difficult to watch from the get-go, but after the last two years it’s
+      become unbearable” …
+
+
+      “If 1948 Was a War of Independence, the current war could be the one that ends
+      Israel”.
+
+
+      Shosani’s warning that when a society’s ethical boundaries are erased in a bout
+      of bloodletting (as they were in 1948), this loss of ethos structure can imperil
+      the legitimacy of the entire project – leading to self-destruction as the state
+      traverses all human limits.
+
+
+      This dark insight – very pertinent to today – may precisely be one tentacle tying
+      Trump unreservedly to Israel’s ultimate survival. (Likely, there are unseen ‘other
+      strong fetters’, too).
+
+
+      This comes at a time when the U.S. is moving further and further away from its
+      1992 Defence Planning Guidance (DPG) draft – known as the ‘Wolfowitz Doctrine’
+      which called for the U.S. to maintain unquestioned military superiority to prevent
+      rivals from emerging and, if necessary, to act unilaterally to protect its interests
+      and deter potential competitors.
+
+
+      The current draft National Defence Strategy is pivoting away from China, towards
+      securing the homeland and the Western hemisphere. Troops will be brought back,
+      initially to enforce the border. Will Schryver writes, “Elbridge Colby has apparently
+      opened his eyes to the reality that it’s too late to arrest China’s dominance
+      of the western Pacific. He already knew war against Russia was unthinkable. The
+      only strategically meaningful option left is Iran”.
+
+
+      Colby perhaps understands too, that any further U.S. military failure would fatally
+      expose Trump’s geostrategic bluster as bluff.
+
+
+      We may see then a new round of major geopolitical shifts as Trump abandons efforts
+      to be ‘perceived as a global peacemaker’. Trump himself probably doesn’t know
+      what he wants to do – and with many factions trying to elbow in to the vacant
+      strategic space, he likely will turn to those Israeli war tactics which he so
+      much admires.'
+    one_sentence_summary: The recent Israeli strike on a Hamas negotiating team in Doha
+      signifies the end of Qatar's influential role in Middle Eastern diplomacy and
+      reflects a broader shift towards escalatory dominance in U.S. foreign policy under
+      Trump, which prioritizes military aggression and profit-making over genuine peace
+      efforts.
+    paragraph_summary: Alastair Crooke's article discusses the implications of the recent
+      Israeli strike on a Hamas negotiating team in Doha, signaling a significant shift
+      in Qatar's longstanding role as a mediator in Middle Eastern conflicts. This event
+      marks the end of an era for Qatar, which had balanced support for jihadist groups
+      while maintaining strategic ties with the U.S. and Israel. The attack is seen
+      as part of a broader pattern of aggressive Israeli actions under Trump's administration,
+      reflecting a shift towards escalatory dominance in U.S. foreign policy. Crooke
+      argues that this approach prioritizes military power and profit-making ventures
+      over genuine peace efforts, ultimately undermining U.S. global influence and ethical
+      standards. He warns that the erosion of moral boundaries within Israeli society,
+      as highlighted by filmmaker Neta Shoshani, could lead to self-destruction, paralleling
+      the current geopolitical landscape where Trump’s policies may further entrench
+      conflict rather than resolve it.
+    published: '2025-09-16T15:40:25+00:00'
   - title: Can Trump Re-Adjust In The Post-Tianjin SCO Moment? Was The Timing Of China
       ‘Throwing Down The SCO Gauntlet’ Entirely Fortuitous? – OpEd
     url: https://www.eurasiareview.com/09092025-can-trump-re-adjust-in-the-post-tianjin-sco-moment-was-the-timing-of-china-throwing-down-the-sco-gauntlet-entirely-fortuitous-oped/

@@ -7,16 +7,123 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  Tensions between Israel, Iran, and Western allies continue to escalate, with new revelations highlighting the role of intelligence operations and information warfare in shaping international narratives. The latest developments underscore the increasing use of covert influence campaigns and the manipulation of public perception to advance geopolitical interests.
+  The past week has seen a series of revelations highlighting the interplay between Western influence operations, Israeli lobbying, and covert intelligence activities, with new details emerging about the events leading up to the assassination of conservative activist Charlie Kirk.
   
-  The most recent report by **Max Blumenthal** reveals that Israeli intelligence provided the initial “tip” which led Australian authorities to accuse Iran of plotting bombings against Jewish establishments. This intelligence, now under scrutiny, has significantly strained diplomatic relations between Tehran and Canberra. According to Blumenthal, “the Israeli tip-off shaped the entire narrative,” raising questions about the reliability of the evidence and the broader implications for regional security and international trust.
+  Most recently, **Max Blumenthal** reports that billionaire Bill Ackman convened a tense intervention with Charlie Kirk in the Hamptons, just a month before Kirk’s killing. The meeting, attended by high-profile figures including Charlie Kirk and focused on Kirk’s increasingly vocal criticism of Israeli influence in Washington, reportedly left Kirk deeply unsettled and contemplating a conversion to Catholicism. This follows earlier disclosures that Kirk had refused a funding offer from Israeli Prime Minister Netanyahu and expressed fear over the reach of pro-Israel forces. The majority of sources suggest that these pressures contributed to anxiety within the Trump administration and heightened Kirk’s sense of vulnerability in the weeks before his death.
   
-  In a related sphere, Blumenthal previously documented an Israeli intelligence-linked online campaign that attempted to recruit Iranian scientists and foment dissent within Iran. Notably, Atlanta-based comedian Desi Banks was involved in this operation, leveraging his social media influence to reach Iranian audiences. These efforts reflect a broader trend of using unconventional assets and digital platforms for psychological operations.
+  In the broader context of Western influence operations, further evidence has surfaced regarding the covert role of BBC Media Action. According to **Max Blumenthal**, leaked documents expose the organization as a front for British information warfare, embedding operatives in foreign media to shape narratives favorable to UK interests. This was notably seen in Nigeria during the 2014 Boko Haram crisis, where BBC Media Action ran a radio campaign undermining then-President Goodluck Jonathan as he sought military support from Russia and China after the US declined assistance.
   
-  Meanwhile, scrutiny of Western media’s role in geopolitical conflicts persists. Leaked files show that **Josef Federman**, the AP’s Israel-Palestine news director, participated in a secretive Israeli government event aimed at countering the BDS movement and allegedly downplayed civilian casualties in Gaza. This revelation, following the deaths of five journalists in Gaza, has intensified debates over media impartiality and the ethics of embedded journalism.
+  Meanwhile, scrutiny continues over the European Union’s financial support for Israeli military technology. Data shows that nearly half a billion euros in EU research grants have been funneled to Israeli tech start-ups, many founded by former IDF soldiers, since the escalation of the Gaza conflict. Some of these technologies have reportedly been deployed in military operations, raising questions about the EU’s indirect role in the ongoing conflict.
   
-  Looking ahead, the majority of analysts, including **Blumenthal**, predict with high confidence that intelligence-driven influence campaigns will remain central to Israeli and Western strategy, especially as diplomatic tensions with Iran and other regional actors deepen. There is a high chance that such operations will further complicate international relations, erode trust in official narratives, and provoke backlash both domestically and abroad. The use of media and non-traditional influencers in psychological operations is most definitely set to expand, making information warfare a defining feature of contemporary geopolitics.
+  **Trends and Predictions:**  
+  The convergence of political pressure campaigns, covert influence operations, and transnational funding streams points to a sustained pattern of Western and Israeli efforts to shape both domestic and international policy environments. Given the depth and coordination of these activities, it is quite likely that further disclosures will emerge regarding the use of media and financial leverage to influence political outcomes. There is high confidence that scrutiny of Israeli lobbying and Western information warfare will intensify, with potential ramifications for diplomatic relations and public trust in major institutions.
 articles:
+  - title: Billionaire Bill Ackman convened stormy Israel ‘intervention’ with Charlie
+      Kirk, sources say
+    url: https://thegrayzone.com/2025/09/15/bill-ackman-israel-intervention-charlie-kirk/
+    text: A month before Charlie Kirk’s killing, billionaire pro-Israel moneyman Bill
+      Ackman arranged an intervention in the Hamptons during which sources say he and
+      others “hammered” Kirk for the conservative leader’s growing criticism of Israeli
+      influence in Washington. Kirk came away fretting about Israeli “blackmail,” sources
+      say, as he contemplated a Catholic conversion. On September 11, one day after
+      the assassination of Charlie Kirk, billionaire pro-Israel moneyman Bill Ackman
+      took to Twitter/X to trumpet his relationship with the late conservative operative.
+      […] The post Billionaire Bill Ackman convened stormy Israel ‘intervention’ with
+      Charlie Kirk, sources say first appeared on The Grayzone . The post Billionaire
+      Bill Ackman convened stormy Israel ‘intervention’ with Charlie Kirk, sources say
+      appeared first on The Grayzone .
+    one_sentence_summary: A month before Charlie Kirk's assassination, billionaire Bill
+      Ackman reportedly held a tense intervention in the Hamptons to address Kirk's
+      escalating criticisms of Israeli influence in Washington, which left Kirk concerned
+      about potential repercussions and contemplating a conversion to Catholicism.
+    paragraph_summary: A month prior to Charlie Kirk's assassination, billionaire pro-Israel
+      financier Bill Ackman reportedly organized an intervention in the Hamptons to
+      confront Kirk over his increasing criticisms of Israeli influence in U.S. politics.
+      Sources indicate that the meeting was intense, with Kirk expressing concerns about
+      perceived Israeli "blackmail" and contemplating a conversion to Catholicism. Following
+      Kirk's death on September 11, Ackman publicly highlighted his relationship with
+      Kirk on social media.
+    published: '2025-09-15T20:44:09+00:00'
+  - title: Billionaire Bill Ackman convened stormy Israel ‘intervention’ with Charlie
+      Kirk, sources say
+    url: https://thegrayzone.com/2025/09/15/bill-ackman-israel-intervention-charlie-kirk/
+    text: A month before Charlie Kirk’s killing, billionaire pro-Israel moneyman Bill
+      Ackman arranged an intervention in the Hamptons during which sources say he and
+      others “hammered” Kirk for the conservative leader’s growing criticism of Israeli
+      influence in Washington. Kirk came away fretting about Israeli “blackmail,” sources
+      say, as he contemplated a Catholic conversion. On September 11, one day after
+      the assassination of Charlie Kirk, billionaire pro-Israel moneyman Bill Ackman
+      took to Twitter/X to trumpet his relationship with the late conservative operative.
+      […] The post Billionaire Bill Ackman convened stormy Israel ‘intervention’ with
+      Charlie Kirk, sources say first appeared on The Grayzone . The post Billionaire
+      Bill Ackman convened stormy Israel ‘intervention’ with Charlie Kirk, sources say
+      appeared first on The Grayzone .
+    one_sentence_summary: A month before Charlie Kirk's assassination, billionaire Bill
+      Ackman reportedly held a tense intervention in the Hamptons to address Kirk's
+      escalating criticisms of Israeli influence in Washington, which left Kirk concerned
+      about potential repercussions and contemplating a conversion to Catholicism.
+    paragraph_summary: A month prior to Charlie Kirk's assassination, billionaire pro-Israel
+      financier Bill Ackman reportedly organized an intervention in the Hamptons to
+      confront Kirk over his increasing criticisms of Israeli influence in U.S. politics.
+      Sources indicate that the meeting was intense, with Kirk expressing concerns about
+      perceived Israeli "blackmail" and contemplating a conversion to Catholicism. Following
+      Kirk's death on September 11, Ackman publicly highlighted his relationship with
+      Kirk on social media.
+    published: '2025-09-15T20:44:09+00:00'
+  - title: Charlie Kirk refused Netanyahu funding offer, was ‘frightened’ by pro-Israel
+      forces before death, friend reveals
+    url: https://thegrayzone.com/2025/09/12/charlie-kirk-netanyahu-israel-assassination/
+    text: A Trump insider and longtime friend of Charlie Kirk tells The Grayzone how
+      the assassinated conservative leader’s turning point on Israeli influence provoked
+      a private backlash from Netanyahu’s allies that left him angry and afraid. The
+      source said anxiety spread within the Trump administration after an apparent Israeli
+      spying operation was uncovered. Charlie Kirk rejected an offer earlier this year
+      from Israeli Prime Minister Benjamin Netanyahu to arrange a massive new infusion
+      of Zionist money into his Turning Point USA […] The post Charlie Kirk refused
+      Netanyahu funding offer, was ‘frightened’ by pro-Israel forces before death, friend
+      reveals first appeared on The Grayzone . The post Charlie Kirk refused Netanyahu
+      funding offer, was ‘frightened’ by pro-Israel forces before death, friend reveals
+      appeared first on The Grayzone .
+    one_sentence_summary: A Trump insider revealed that Charlie Kirk's rejection of
+      a funding offer from Israeli Prime Minister Netanyahu and his subsequent concerns
+      about Israeli influence led to anxiety within the Trump administration and left
+      him feeling frightened before his assassination.
+    paragraph_summary: A close associate of the late Charlie Kirk revealed to The Grayzone
+      that Kirk's shift in stance regarding Israeli influence led to significant backlash
+      from allies of Israeli Prime Minister Benjamin Netanyahu, leaving Kirk feeling
+      angry and fearful. The insider noted that anxiety permeated the Trump administration
+      following the discovery of an Israeli spying operation. Earlier this year, Kirk
+      declined an offer from Netanyahu for substantial funding for his organization,
+      Turning Point USA, which contributed to his apprehension about pro-Israel factions
+      before his assassination.
+    published: '2025-09-12T17:15:13+00:00'
+  - title: Charlie Kirk refused Netanyahu funding offer, was ‘frightened’ by pro-Israel
+      forces before death, friend reveals
+    url: https://thegrayzone.com/2025/09/12/charlie-kirk-netanyahu-israel-assassination/
+    text: A Trump insider and longtime friend of Charlie Kirk tells The Grayzone how
+      the assassinated conservative leader’s turning point on Israeli influence provoked
+      a private backlash from Netanyahu’s allies that left him angry and afraid. The
+      source said anxiety spread within the Trump administration after an apparent Israeli
+      spying operation was uncovered. Charlie Kirk rejected an offer earlier this year
+      from Israeli Prime Minister Benjamin Netanyahu to arrange a massive new infusion
+      of Zionist money into his Turning Point USA […] The post Charlie Kirk refused
+      Netanyahu funding offer, was ‘frightened’ by pro-Israel forces before death, friend
+      reveals first appeared on The Grayzone . The post Charlie Kirk refused Netanyahu
+      funding offer, was ‘frightened’ by pro-Israel forces before death, friend reveals
+      appeared first on The Grayzone .
+    one_sentence_summary: A Trump insider revealed that Charlie Kirk's rejection of
+      a funding offer from Israeli Prime Minister Netanyahu and his subsequent concerns
+      about Israeli influence led to anxiety within the Trump administration and left
+      him feeling frightened before his assassination.
+    paragraph_summary: A close associate of the late Charlie Kirk revealed to The Grayzone
+      that Kirk's shift in stance regarding Israeli influence led to significant backlash
+      from allies of Israeli Prime Minister Benjamin Netanyahu, leaving Kirk feeling
+      angry and fearful. The insider noted that anxiety permeated the Trump administration
+      following the discovery of an Israeli spying operation. Earlier this year, Kirk
+      declined an offer from Netanyahu for substantial funding for his organization,
+      Turning Point USA, which contributed to his apprehension about pro-Israel factions
+      before his assassination.
+    published: '2025-09-12T17:15:13+00:00'
   - title: Israeli ‘tip’ preceded Australian claim that Iran plotted bombings
     url: https://thegrayzone.com/2025/09/09/israeli-tip-preceded-australian-claim-that-iran-plotted-bombings/
     text: A new report suggests Israel played a key role in establishing the narrative

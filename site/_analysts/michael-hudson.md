@@ -8,14 +8,3825 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  The latest Shanghai Cooperation Organization (SCO) summit in Tianjin has accelerated a realignment of global power, as Global Majority nations intensify efforts to reduce their economic dependence on the United States. This shift, highlighted by **Michael Hudson** in his September 9 analysis, is characterized by a coordinated push for mutual trade and investment frameworks among SCO members, aiming to insulate themselves from what they perceive as U.S. economic aggression. Western media, according to Hudson, continues to frame these developments as overtly hostile, largely ignoring the defensive motivations driving these policies.
+  The geopolitical landscape continues to be shaped by the accelerating fragmentation of the global order, with new developments highlighting both domestic instability in the United States and the consolidation of alternative international blocs.
   
-  This movement is not isolated. The recent SCO meetings, as detailed in Hudson’s September 8 report, underscore the emergence of two distinct global blocs: one centered around the U.S. and its allies, and another led by the Global Majority, including China, Russia, and key partners in the Global South. These countries are actively developing independent trade, monetary, and military systems, signaling a decisive break from the post-Cold War unipolar order.
+  The most recent and notable event is the shooting of Charlie Kirk at a university in Utah, which has sparked a heated debate about the roots of political violence in the U.S. **Richard Wolff** attributes this incident to the deepening crisis of American capitalism, suggesting that social unrest is a symptom of systemic economic decline. In contrast, the President has publicly blamed the far left, reflecting the ongoing polarization and the tendency to externalize blame for domestic instability. This divergence in interpretation underscores the lack of consensus on how to address the underlying causes of violence, and points to a broader crisis of legitimacy within U.S. governance.
   
-  The broader context, as Hudson has repeatedly argued, is a late-stage crisis in the Western economic model. He draws historical parallels to the collapse of ancient societies, noting that unsustainable debt and extractive economic practices have often preceded systemic breakdowns. The current trajectory, he suggests, mirrors these patterns, with the U.S. and its allies increasingly reliant on financial and military leverage to maintain their global position.
+  On the international front, the aftermath of the recent Shanghai Cooperation Organization (SCO) summit in China continues to reverberate. **Nima Alkhorshid**, **Richard Wolff**, and **Michael Hudson** have all highlighted the growing alignment between major Eurasian powers—China, Russia, and India—in response to what they perceive as the waning influence of the United States. The summit is widely seen as a marker of the shift towards a multipolar world order, with the SCO bloc seeking greater economic and strategic autonomy from the West.
   
-  Looking ahead, the trend toward bloc formation is “most definitely” set to continue, with high confidence that the Global Majority will further institutionalize alternatives to Western-dominated systems. Hudson predicts that attempts by the U.S. to counter these moves—whether through sanctions, tariffs, or diplomatic pressure—will only accelerate the process. The world is entering a period of intensified geopolitical bifurcation, with the SCO and its partners poised to play a central role in shaping the emerging post-Western order.
+  Meanwhile, Donald Trump’s recent remarks on U.S. global influence and the perceived decline under the current administration have further fueled debate about the future direction of American foreign policy. Analysts agree that the U.S. is increasingly focused on consolidating its economic base by pressuring traditional allies in Europe and Asia to subsidize and relocate industry to the U.S., a strategy that reflects both defensive retrenchment and an attempt to maintain relative economic dominance.
+  
+  **Trends and Predictions:**  
+  The majority of analysts, including **Michael Hudson**, maintain that the world is most definitely moving towards a dual-system order, with the Global Majority countries establishing independent trade, monetary, and military frameworks. The U.S., facing internal instability and declining external leverage, is likely to intensify efforts to extract economic concessions from its allies while struggling to contain the rise of a Eurasian-centered bloc. Given the current trajectory, I guarantee that geopolitical tensions will continue to escalate, with the risk of further fragmentation and conflict—both within the West and between the emerging blocs—remaining high in the near term.
 articles:
+  - title: Late-Stage Barbarism Meets a Mixed-Economy Bloc
+    url: https://michael-hudson.com/2025/09/late-stage-barbarism-meets-a-mixed-economy-bloc/
+    text: '⁣NIMA ALKHORSHID: Hi everybody, today is Thursday, September 11, 2025, and
+      our friends Michael Hudson and Richard Wolff are back with us. Welcome back. ⁣RICHARD
+      WOLFF: Glad to be here. ⁣NIMA ALKHORSHID: Richard, let’s start with what has happened
+      in the United States, which somehow was shocking. Charlie Kirk was shot dead when
+      he was talking at the university campus in Utah, if I’m not mistaken, talking
+      to an audience. And the President of the United States came out and put the blame
+      on the far left. What’s going on in the United States today, in your opinion,
+      that they try to picture what’s going on — the violence — and put the blame, on
+      the left, right, and whatever. What is your take on that? ⁣RICHARD WOLFF: My take
+      on that is that the fundamental difficulty of the United States today is a declining
+      capitalist system. The empire is in tatters. It barely exists. The domestic economy
+      — yesterday, Jamie Diamond, the head of the largest bank in the United States,
+      gave an interview (actually two or three of them), and talked about the weakening
+      U.S. economy. Now, he always talks as if he were a spectator, rather than one
+      of the people responsible for it. That’s cute. Hopefully, nobody’s fooled. But
+      there he is, admitting what the others are afraid to admit, but pretending he’s
+      a spectator. Well, Mr. Trump pretends in a different way, but is dealing with
+      the same weakening economy, and the same vanishing empire, and the same hobbled
+      capitalism. But Mr. Trump’s specialty — and that goes back to the first time he
+      became a serious public figure, if you remember, riding down that escalator somewhere
+      in New York City, and explaining to the world that the problems we face are about
+      Mexican immigrants, whom he then slandered — Mr. Trump specializes, as leaders
+      often do in declining empires, in finding scapegoats. Mexicans are scapegoats.
+      The Chinese are scapegoats. And the American left, that he understands as well
+      as he understands everything else, namely, not at all, is likewise now going to
+      be a scapegoat. When you can’t fix a problem, you blame somebody for it, to detract
+      from your failure to fix it. Mr. Trump told us he was going to end the war in
+      Ukraine, in a matter of days or weeks. False. He was going to end the war in Gaza,
+      in a short time. False. He’s actually gone to war in Iran, a war that wasn’t there
+      when he became president, and he’s gearing up, evidently, to do the same to Venezuela.
+      The man is finding people around the world to blame. I want to remind people —
+      it’s a parallel I would take seriously — Germany, in the years before Hitler,
+      faced the loss of its empire. That was accomplished in World War I, when literally
+      the German empire in Africa, Asia was taken away by the winning side of World
+      War I. So the Germans lost their empire. In 1923, they had the worst inflation
+      in modern history that wiped out their entire middle class. All their savings,
+      accumulated over the 19th century, were lost. And it ended up, by the end of 1923,
+      all those savings were barely enough to get you a quarter pound of butter at the
+      local store. And then in 1929, as we all know, the Great Depression hit. So in
+      a very few years, 1918 to 1933, or 1929, if you like, the German working class
+      was really whacked. And in desperation, they turned to a leader who promised them
+      — I’ll fix it right away, and here are the scapegoats: Jews, Roma people, Slavic
+      people — all the collection of scapegoats Mr. Hitler specialized in. And then
+      he went to war in order to distract the people from what was happening at home,
+      so they could focus on the ‘glorious’ victories being achieved abroad. If it sounds
+      familiar, it should. And if you think that I’m telling you a story that gets you
+      depressed, don’t be. Today’s headlines are full of what the French people just
+      did, saying: unh-unh [no], we’re not going to tolerate this. And in Nepal, halfway
+      across the world, another group, another people are rising up, and saying no.
+      The real question, the important question, is not that Mr. Trump has found the
+      left to scapegoat, that he wants to turn a killing in Utah into something more
+      he can, say, arrest somebody of Mexican descent in order to slander Mexico as
+      a whole. Cheap shot. We all kinda know better. But, yeah, he’ll try. And you know
+      what that shows? Desperation is what it shows. And that desperation is, first
+      and foremost, economic. We’re facing a risk of inflation. We’re facing the risk
+      of a recession. Our foreign connections are falling apart. The rest of the world
+      is mobilizing to go around us, to isolate us. That’s the reality. Meanwhile, the
+      inequality in wealth and income gets worse, and worse. And we just had a spectacle
+      in which the board of directors of a typical American mega-capitalist company,
+      Tesla, offers its own CEO a pay package over the next few years worth $1 trillion
+      dollars. That’s the achievement of capitalism, to make the already richest person
+      even richer than he has been up until now. It is obscene, and it will not last.
+      ⁣MICHAEL HUDSON: Well, Richard is quite right in pointing to the weakening of
+      the U.S. economy, and to the desperation that is guiding Trump’s domestic policy.
+      But I think that his dream, that somehow you can reverse America’s deindustrialization,
+      involves subordinating its allies, and turning them into subsidiaries of a shrinking
+      U.S. West. Richard quite rightly points to the fact that, well, the rest of the
+      world is opposed by this — the rest of the world, meaning the SCO, the BRICS,
+      Russia, China, East Asia, the successful economies that continue to grow. But
+      I think that Trump has a proactive — not Trump, I should say the deep state, of
+      which Trump is simply acting as the frontman — has a proactive response to all
+      of this. And he says, well, I’ve applied my tariffs, and to threaten to cause
+      chaos to other countries if they don’t support and subsidize the United States
+      economy. The threats of tariffs and the sanctions didn’t work against Russia,
+      didn’t work against Iran. China is too independent for it to work then. So, we’re
+      not going to try to spend and dissipate any more U.S. wealth fighting Russia —
+      at least Russia — and even trying to increase the Cold War. What we can do is
+      consolidate our control over the Western economies. And if American firms won’t
+      reindustrialize, we can tell Europe, Korea, and Japan to dismantle their own industry,
+      and relocate their industry in the United States. And they will reindustrialize
+      the United States. What the U.S. is trying to do in response to its decline, is
+      to imitate what the British Empire did in the 19th century. It’s treating its
+      allies as colonies — just like Britain treated India, and other countries, to
+      sort of say, keep your savings in pounds sterling; keep your savings in Britain.
+      Don’t industrialize yourself, but become dependent on American industry. What
+      makes Trump realize that there has to be a shift is there isn’t American industry
+      for them to become dependent on. So he’s told the European industry — especially
+      the Germans — to relocate in the United States; to tell Korea that, well, if you
+      want to make money and profit selling cars, relocate Hyundai’s production in the
+      United States. And to tell Japan: You can avoid the disruption of imposing heavy
+      tariffs on you by lending the United States half a trillion dollars by the time
+      my four-year presidency is up. And you will give us a trillion dollars. You will
+      have no control over this. I will have total personal control over what’s going
+      to happen. And after we make investments, and you will be repaid your half a trillion
+      dollars, America will have 90% of the profits from your investment here — not
+      50%, as the Japanese press originally reported, but only 10%. Well, none of the
+      details of this agreement with Japan have been released yet, but the Financial
+      Times today had just a wonderful discussion, saying how horrendous the agreement
+      with Japan is. And the Financial Times reporter leaked it all and reported a glowing
+      [Howard] Lutnick, who — the American negotiator — appeared on CNBC and said, this
+      is the most fun he’s had working for this period. And Trump has complete discussion.
+      And the Financial Times describes this secret agreement that has not yet been
+      published by Japan, because you can imagine what the Japanese public would feel
+      if this agreement were made public. And the Financial Times said: “This reeks
+      of coercion, a sovereign nation forced to funnel private and public sector investment
+      to a much richer one, under the structures unashamedly directed by the U.S. President.”
+      Well, you can see the problems. And the most abject surrender has been that of
+      Germany and Europe. And there’s been hardly any coverage in the U.S. press of
+      the bait-and-switch that America had with — [Ursula] von der Leyen said: We will
+      do whatever you want, President Trump, as long as you give us security — and at
+      least we know what’s going to happen — so that you will protect us from Russia
+      invading us. Well, what happened was there’s no security at all. Trump agreed
+      not to impose punitive tariffs on Europe, but, all of a sudden, he changed his
+      mind. And instead of lowering the tariffs from 25% to 15%, he said: Well, we’re
+      still going to keep the tariffs we have — 50% on steel and aluminum — and if it
+      happens that any of your manufactures contain steel or aluminum — up to 50%. Well,
+      this is treating Europe just like industry. Well, there’s been a cry out of the
+      European industrialists saying: Wait a minute. When we do make a manufactured
+      good, it does include steel and aluminum, and we’re going to have to close down
+      our operations. Trump says: Well, there is a solution. You can avoid the tariffs
+      by relocating in the United States and doing the kind of deal that Hyundai has
+      done in the United States, that Japan has done. This is a shakedown, pure and
+      simple. And you can see what is happening. The SCO and the BRICS are seeing that
+      it’s so fortunate that they didn’t even try to engage with negotiations with Trump
+      — go your own way — and you’re seeing the world really dividing into what the
+      United States can retain from the countries it defeated in World War II — Germany
+      and Japan — and the Korean War in 1951. They all have the Stockholm Syndrome among
+      their leaders. They somehow identify with the victor, and the United States has
+      been able to carve them out. And that’s the proactive response to all this. None
+      of this has to do with what you’d call “the left.” We’re talking about national
+      interest. But I’m sure that Trump will accuse foreign opponents of saying: Wait
+      a minute. We want Japan to have the profits from its investments. We want Korea
+      to be able to bring our skilled labor over when the United States does not have
+      contractors that can build the Hyundai factory. And the Germans, who say: Well,
+      we can’t just relocate to the United States. It takes years to build a factory.
+      We’ll go bankrupt in the process. This is Trump’s response to the world. And I
+      think that goes beyond anything that the left, or even the right, had even dreamed
+      of a year ago, before Trump won. ⁣RICHARD WOLFF: Let me intervene, and perhaps
+      here I will disagree just a bit with Michael, but maybe not. Yeah, time will,
+      for sure, tell whether a return of big business from the rest of the world, moving
+      its production to the United States, is a serious phenomenon. So far, we only
+      have words. We have promises, we have all of this. And as I have known, and as
+      Michael knows, and as most people who follow this thing, it’s real easy for a
+      prime minister, or a big corporation, to tell you about the enormous investments
+      they’re planning to make next year, next year, three years from now, in five years.
+      Most of the executives in top positions who make those promises won’t be in those
+      positions three years from now, when those promises will likely be forgotten,
+      or excused. Number one. Number two: The problem of the United States is, it’s
+      not in a position to get the lackeys it’s had since the end of World War II —
+      Western Europe, Japan, and so on — to do what it needs to have them do. Michael
+      is right. They should all now become colonies. And colonies, let me explain. Colonies,
+      in the following precise sense: They are being charged to do business in the United
+      States. You want to sell in the United States, you’re going to have to work out
+      with the importing company, if you yourself don’t import into the United States.
+      You’re going to have to pay a fee. It’s an entrance fee to the American economy.
+      That’s what a tariff is. If you sell in the American economy, you’re going to
+      have to pay the American government a fee. And the American government is so desperate,
+      it says: Either you pay it — the company abroad coming in — or the American importer
+      pays it. We don’t care. We are equally burdening you and the American — that’s
+      not something the American government wants to do. It wants others to pay, but
+      it can’t get that. So it has to do a deal which hurts its own so-called program:
+      Why in the world would you come here, if one of the things you’re going to have
+      to do, as a business, is pay real high tariffs, which could be raised at any time,
+      on the imported portion of whatever it is you produce here, which, at least for
+      the years ahead, is going to be significant? No, I think what I see is a declining
+      empire no longer able to control huge parts of the world — China, India, Russia,
+      BRICS — and therefore having to eat its own colonies — to savage Canada and Mexico,
+      its major trading partners — doing God knows what kind of damage to those societies.
+      And I want to be clear: The United States may get von der Leyen, or [Friedrich]
+      Merz, or the Japanese leaders secretly to give away their country’s needs, but
+      the only way to sustain that, the only way possible for them to stay in office,
+      is to hype a great danger: That’s the hysteria over Russian invasions, which you
+      can see ratcheted up six more notches when some drones go flying over Poland.
+      You can see the hysteria working its way up. This is a very useful hysteria, focusing
+      the blame on Russia, when your problem is the United States. But you can’t say
+      that because they can really hurt you, which the Russians can’t. The Russians
+      are having trouble subduing Ukraine. They’re going to go after the rest of Europe?
+      That’s a joke. Nobody in their right mind — except if you’re desperate, if you
+      need a scapegoat. And what’s the scapegoat in Europe for, this scapegoating of
+      Russia? They are in a position in which, to salvage anything in their economy,
+      they have to come up with a whole new programming — here we go — of subsidizing
+      their own industries. That’s part of how they will react, and are reacting, against
+      the United States, whatever they say publicly. The Europeans know what is being
+      done to them. They don’t want it. They are afraid that if they are hollowed out
+      of their industry, their own people will turn against them. And you can see it
+      already, in the streets of France, in the right-wing shift of the German political
+      scene, the British political — [Nigel] Farage in England, Alternativ für Deutschland
+      in Germany — and so on. It’s not working real well. The Americans are desperate
+      and are taking care of themselves. They hope to do that at the expense of their
+      used-to-be allies/colonies. So they squeeze the crap out of them, who in turn
+      demonize Russia, to justify the military build-up, which will be the mask for
+      subsidizing their own industry at the expense of their social democracy welfare
+      states. That’s what’s happening. I don’t think that’s gonna work. And that’s Mr.
+      Trump’s worst nightmare: that all of this scapegoating will not work. And here’s
+      a last point: a friend of mine is an industrialist in Europe. I can assure you,
+      he understands perfectly what’s going on. And in my latest conversation with him,
+      where I said: Is there any way that you might actually move your production to
+      the United States? He said, laughingly: Are you crazy? And I said: Well, why?
+      He said: Every day in our newspaper — in the country in Western Europe where he
+      lives — we see pictures of American troops patrolling American cities. You’re
+      a country that I wouldn’t move to in a million years. There’s too much turmoil.
+      And then I watched your new army, your ICE army, closing down a South Korean battery
+      plant in Georgia, out of the hysteria you have cultivated against immigrants.
+      I’m not moving there. I’m not entering that crazy place that is occupying its
+      own cities. I want to quote to you finally a statement made by Vice-President
+      Vance yesterday. In commenting on the occupation that’s supposed to end — although
+      I gather it isn’t — in Washington, D.C., by federal troops, the Vice-President
+      said, with great enjoyment, that his fondest hope is to see that done in cities
+      across America. That’s what he said. And I don’t have the exact words, but that
+      is the exact quotation. He is — you know, foreign industrialists say: That’s not
+      a place I want to go to. Given everything else happening in the world, I’m not
+      moving to a place that looks like it is falling apart. And with the shooting of
+      that right-wing fellow yesterday, you can see where this is going. Of course,
+      he’s right. What am I going to tell him? Oh, you don’t have to worry about violence
+      in the United States, about situations like the South Korean battery plant? This
+      is crazy stuff. And we are in a country that is falling apart. And all the pretense
+      of it scapegoating this one, that one, shooting from the hip, before you know
+      anything — they don’t even know who did the thing in Utah, let alone what the
+      motivations might be. Nor will it be believable once they do. We can’t believe
+      anything anymore. Michael and I used to use the Bureau of Labor Statistics. In
+      the last three weeks we have had two demonstrations: The president fires the woman
+      who runs it, and the next person in charge explains that for the last year, we
+      have overestimated the number of jobs in this country by a million. These are
+      all symptoms, folks. You can pretend, with this one or that one, to dispute it
+      or to quibble about it, but the bottom line is everywhere: The retreat, the desperation,
+      the scapegoating, is a substitute for being able to do anything serious about
+      this. ⁣MICHAEL HUDSON: Richard has given what could be a summary of exactly my
+      views, by emphasizing the role of scapegoating and the almost parallel-universe
+      ability of the U.S. to have been able to support leaders that can insist that
+      Russia actually cares enough about Europe to actually invade it — instead of saying:
+      We don’t want anything to do with it, we’ve turned our eyes east; all we want
+      to do is to be left alone, and not harassed — but that’s all that the United States
+      can do. Trump also gave a speech yesterday. He said: America will fall apart without
+      the tariffs. We need the tariffs because the tariffs are what’s balancing the
+      budget, so that we can cut the taxes — he didn’t say this, but the implication,
+      to finish his sentence, is America will fall apart because we won’t have tariffs
+      to enable us to cut the taxes on the wealthiest 10%, while we raise taxes on the
+      90%. It’s all about the polarization that Richard talked about earlier. How can
+      America support an economy that remunerates the 10%, including the trillion-dollar
+      paycheck to [Elon] Musk, without getting the money from its colonies, its de facto
+      colonies — the countries that it defeated in World War II and in Korea? So, what
+      Trump followed up was to say, well, you know, who’s opposing this? If you oppose
+      the tariffs, that’s the left. Well, of course, the left doesn’t want to see the
+      polarization between the wealthiest stockholders and bondholders whose wealth
+      is increasing, while the net worth of 90% of the population is actually going
+      down. And when you get to the bottom 50%, it’s going down pretty rapidly. Well,
+      the interesting thing is that in Europe, that Richard rightly points to, it’s
+      the nationalists who are saying, you know, put our country first. And the nationalists
+      are considered to be the right. What’s ‘left,’ and what’s ‘right,’ about whether
+      you’re for your own country to take control of your destiny? The press, and the
+      vocabulary that is being used to describe this process, both in Europe and the
+      United States, has become meaningless between left and right. Although, certainly,
+      the nationalist right in Europe agrees that, yes, we should be independent, so
+      that we can make our wealthiest financial class even wealthier — that is the fight
+      that is very explicitly broken out in France, when the new prime minister is a
+      supporter of cutting back social spending, and refusing to impose the 2% wealth
+      tax on the wealthiest that the lower house of France wanted to impose. So, when
+      the only response to dependency on the United States’ right is to have a European
+      right-wing response, you know that we’re in a “Bizarro World” that the old vocabulary
+      of left and right had no way of anticipating logically. ⁣RICHARD WOLFF: Could
+      I comment on that? ⁣MICHAEL HUDSON: Sure. ⁣NIMA ALKHORSHID: Richard, before commenting
+      on that, I don’t know if you’ve heard the French National Assembly deputy Mathilde
+      Panot. She’s from the left, La France Insoumise? ⁣RICHARD WOLFF: “ La France Insoumise.”
+      ⁣NIMA ALKHORSHID: Yeah, here is what she said from what’s going on in France:
+      ⁣MATHILDE PANOT (CLIP): The result shows beyond [François] Bayrou’s government
+      is the fact that [Emmanuel] Macron has no more legitimacy. Only a third of the
+      National Assembly gave him its confidence, which means that the Macron policy
+      for the rich, and against the people, has had two-thirds of negative votes. Therefore,
+      this is a minority in the country. I don’t think that Bayrou and [Michel] Barnier
+      can continue the same policy, taking no account of the results of the election
+      […]. ⁣RICHARD WOLFF: Just for the record, it’s called “La France Insoumise,” and
+      it’s an alliance of a half a dozen of the left-wing parties who got together in
+      France, in a way that other countries still have to learn from, and presented
+      a common front. And that left-wing, together, is the largest bloc of votes in
+      the National Assembly. So, unlike other countries, the left is a big power. You
+      will not hear about it in the American press because the bias here is grotesque.
+      You either hear about Mr. Macron, who is now supported by barely 20% of the people
+      in public polls, or you’ll hear about the right wing, [Marine] Le Pen, and all
+      of that. What you don’t hear about is the larger political formation, which is
+      on the left. And if you think that’s an accident, well, you’re not paying attention.
+      Now, let me try to explain what Michael just ended up with: why right-wingers
+      are taking the lead in much of Europe — not all, not by a long shot, but in much
+      of Europe. Why would it be the right-wing? And by the way, when I answer that
+      question for Europe, I’m going to be answering it for the United States too. When
+      capitalism crashes — which, let’s remember, we have a downturn every four to seven
+      years, on average. We’ve had that for three hundred years. The NBER [National
+      Bureau of Economic Research] in Washington gives a record of all the ups and downs.
+      Wherever capitalism goes, it’s a fundamentally unstable system. If you lived with
+      a person as unstable as capitalism, you would have moved out long ago, and you
+      ought to think about that. Okay. So why? In the 1930s, when capitalism crashed,
+      large numbers of it went to the left. For example, in the United States, what
+      did millions of Americans do that was remarkable in the 1930s Great Depression?
+      They joined a union for the first time in their lives. They joined two socialist
+      and one communist party, who all worked together to produce what’s called the
+      New Deal. Right? That is the most left-wing activity demonstrable in American
+      history. Is it possible for the working class to go to the left when the system
+      starts to break down, like it did in the 30s? The answer is yes —and by the way,
+      similar things happened in Europe. But after World War II, and in the last seventy-five
+      years, we all know what the United States and Europe experienced: a cold war,
+      which had much less to do with the Soviet Union, and much more to do with rolling
+      back the New Deal in the United States, and undoing the power of social democracy,
+      from Scandinavia in the north to Greece in the south. And that’s what we’ve been
+      doing for seventy-five years: hammering — anti-socialism, anti-communism — all
+      of that. So why are we surprised that now that capitalism is experiencing its
+      latest, and maybe its final, decline, we have people — the working class — moving
+      in large numbers to the right? They’ve been trained to do that for seventy-five
+      years. The left has been demonized. What you’re seeing now, the demonization of
+      Mr. Putin — and I’m not here to support him, one way or the other, but the demonization
+      is childish — why would you do that? Mr. Putin is now the same as Mr. Stalin.
+      This is kind of silly. What are you doing? Because you’re desperate, because that’s
+      the way you think. Not just the leaders. The leaders in Europe couldn’t get away
+      with this childish demonization, if there weren’t in the population, still, the
+      residues of seventy-five years of indoctrination. But here’s the good news: The
+      right wing has no solution for the collapse of capitalism, and the longer it flails
+      around, the more that will become clear. That’s what’s happening in France. Of
+      course, they’re the first ones. They have been for the last three centuries. They’re
+      the canary in the coal mine, letting us know — uh-oh, what’s coming? When the
+      right wing is exposed as having no solution at all, then the people will move
+      to the left. Watch out, because that’s coming down the pike. ⁣MICHAEL HUDSON:
+      Richard, how can the working class move left without a political party? That’s
+      the problem. At least in Europe, the left could create a new party, as Sahra Wagenknecht
+      has done in Germany. But America is only a two-party system, as we’ve described.
+      And you can see with a Democratic Socialist — Mr. [Zohran] Mamdani, overwhelmingly
+      getting support in his run for mayor of New York, supported by Bernie Sanders
+      and AOC [Alexandria Ocasio-Cortez] — the Democratic Party denounces that as being
+      the left. And the Democrats say: We are not the left. Socialism is poison for
+      us — and they preferred to lose the 2016 election with Hillary [Clinton], instead
+      of winning with Bernie, just because the Democratic Party is the great enemy of
+      the left. So that’s why the working class has moved to the Republicans, because
+      they’ve given up, quite as I have, certainly — well, I never supported the Democrats
+      to begin with, since I was always a socialist — but there’s a perception among
+      the workers, and the middle class, and the ruling class, that the Democrats are
+      the ultra-right, Cold War, neocon, neoliberal party. ⁣RICHARD WOLFF: I agree with
+      you, but let me again play the same role. Over the last week, two polls emerged:
+      one, the New York Times , the Siena College poll; and the other one, the Gallup
+      poll. And here’s what they show — and here I am borrowing, I should give credit
+      where it’s due, to an article in the American Prospect by one of its leading writers,
+      Harold Meyerson. And in that article — it’s all available right now — those polls
+      show that a majority of Democrats want Bernie Sanders, want the left solution,
+      want people like Zohran Mamdani. And I want to also point that Bernie is beginning
+      to see it too. He endorsed, in Maine, a very important candidate for the Senate,
+      to replace Susan Collins, who is a disaster. And the person — Platner is his name,
+      Graham Platner. He’s an oyster fisherman choosing not to run in the Democratic
+      Party. So, yes, Bernie endorsed Mamdani, who is running [as] the Democrat, but
+      he also endorsed Platner, who isn’t running [as a Democrat] — and you’re going
+      to be seeing more and more — what we see here is what, again, happened in Germany.
+      Sahra Wagenknecht is part of what was called — before — “Die Linke,” which is
+      the left-wing party. “Linke” in German means left — Die Linke is “The Left” —
+      that’s the name they chose. And together they get more than 10% of the vote already,
+      Wagenknecht and Die Linke. But here’s the origin of Die Linke: A split-away from
+      the German Socialist Party — the one that is all the time, half the time, in government,
+      a rough equivalent of our Democratic Party — the left wing of that broke away,
+      and allied with the independent left, including what was left of the old Communist
+      Party of East Germany. They formed Die Linke, and they are now throughout Germany
+      a left-wing alternative, that holds seats in the regional parliament, etc., etc.
+      So, the notion that this all has to go in a right-wing direction is a mistake.
+      We shouldn’t be surprised that that’s where it goes first. When this starts to
+      unravel, this capitalist game, well, then the first reaction of frightened people
+      is to go where they’ve been told you ought to be. When that fails too, then we’ll
+      have our chance to present our idea. Look: In this country, if I stood up and
+      I explained that rather than allowing the Tesla Corporation — which depends on
+      the United States — to give a trillion dollars to one man who is already the richest
+      man on this planet, that we could better tax that trillion and use it to deal
+      with the problems of this country — if I stood for election on that platform,
+      I’d already win. And we’re not even at the point where we can — Michael is right.
+      The left in Europe is better organized. But that’s a problem we can solve, because
+      the support, the idea, of what our political system ought to be, relative to what
+      it is, that’s already for us. We now just have to organize and mobilize it. And
+      that puts the left in a better position in the United States than it has been
+      since the end of the Second World War. ⁣MICHAEL HUDSON: I wish I could agree with
+      you, but I’m so pessimistic about the rottenness of the Democratic Party, and
+      the fervor and hatred that it has for the working class, for socialism,  the hatred
+      for Bernie Sanders, the hatred that it has for Mamdani, as an existential threat
+      to its loyalty to Wall Street and the financial sector that are its candidates.
+      You mentioned that, you know, if you were running as a candidate — but how can
+      someone with your and my views, or Bernie’s views, get nominated for presidency?
+      You saw the corrupt theft of the 2016 Democratic nomination by Hillary. You’ve
+      seen the right-wing press. I don’t see how the scenario that you’re describing
+      can occur, without dissolving the Democratic Party as it is legally constituted,
+      as an independent corporation run by its board of directors that have excluded
+      anyone with a tinge of the left. So, of course, the Democrats’ poll supports what
+      you and I, and Bernie and the others, support, but they have very little effect
+      on who the candidates are going to be for Congress and the Senate, and the actual
+      political administrative system. And I think that’s why there’s sort of an intuitive
+      sense for voters, such as — well, if we, of course, we would like a Democratic
+      Party that represents working-class interests, but in order to do that, we have
+      to replace the Democratic Party as it is now politically and legally structured.
+      And the only way to do that is to just block it from winning altogether. Yes,
+      there will be one — suppose there was one — party, a Republican Party, at all.
+      Well, that was the dream of the founders of the Constitution: There shouldn’t
+      be sectarian — there should be one party. Well, at least, then you would have
+      a variety. You would have left-winger socialists running against Republicans,
+      all in the same kind of primary that many people think, technically, would give
+      more of a chance for a left-wing politician — to make the laws, and levy taxes,
+      and determine American foreign policy — than they would have by a Democratic Party
+      controlled by the neocons and the neoliberals. That’s really the dilemma. I don’t
+      see a way out of this, without replacing the Democratic Party as it’s constituted.
+      And that’s why I supported Jill Stein for her run, that was making these very
+      points, including on our shows on Nima’s discussion. ⁣RICHARD WOLFF: No, I understand
+      your position. I know that many people feel that way. I would suggest that, from
+      my experience, the majority of the American working class that I interact with
+      feels pretty much that way, and is pessimistic about the situation. And I can’t
+      say I’m surprised, that my whole analysis makes it clear to me why, after seventy-five
+      years of this, we have such a situation. Let me talk for a moment about it very
+      directly, politically. I live in New York City. I’m sitting in New York City,
+      as I believe Michael is, as well, as we make this program. I’m watching a very
+      modest socialist, a Social Democrat or Democratic Socialist, if you like, Zohran
+      Mamdani, running for mayor —clearly, the front-running candidate, gets polling
+      always in the high 40%. He’s running against an incumbent mayor whose level of
+      corruption even exceeds what we’re used to here in New York, and we’re used to
+      an awful lot of it. Most of his key associates are either in jail, or on trial,
+      or being investigated. It’s horrible. And he is busily making deals, secret and
+      otherwise, with the president to welcome the ICE, that the rest of the New York
+      political system rejects, and so on. Right? That’s one candidate against him.
+      The other one is a former governor whose distinguishing characteristics are his
+      sexual oppression of the women around him, and behavior during the pandemic that
+      endangered elderly people in nursing homes on a scale that makes you back away.
+      These are his two candidates who are being flooded with money by the rich people
+      of New York City — not all of them, but many of them — in their desperate hope
+      not to be taxed the one, or two, or three percent, which is all Mr. Mamdani has
+      even said he would try. What a spectacle of absurdity this all is. So my answer
+      to Michael is: “We” won’t do it, the Democratic Party will do it to itself. The
+      Democratic Party, as he correctly describes it, has a leadership that will literally
+      push its own membership away. It’ll become a junior party — the plaything of the
+      donors who keep it alive — shrinking, as a real political force on the left replaces
+      it. The left doesn’t need the Democratic Party. The Democratic Party needs the
+      left. And that fundamental reality becomes truer with every passing day, because
+      of the declining American empire and the declining American capitalism. It can’t
+      solve its problem. You send ICE in to terrorize the scapegoat, and you offend
+      so many other people by misarresting them, by hurting them, by obvious excess
+      violence, that you’re undoing your own effort. It’s a little bit like what they
+      just did with that battery plant in Georgia. What a very stupid thing to do. South
+      Korean enterprises, who are among the most important they hoped to bring here,
+      are saying: Wait a minute. In addition to all the other risks we take, we run
+      the risk that if we send over a team of people, because we know our technology,
+      you don’t — you know, poor Mr. Trump has to come limping along afterwards: Gee,
+      we should have brought some over here to train our workers. Really, really, you
+      think? What an interesting idea, after you’ve smashed everything with your absurd
+      ICE game. Sure, it’s an internal army. Sure, it will be used to hold the people
+      back, but it won’t work. Those things don’t do that. By the time you have to do
+      what Mr. Trump is doing, you’ve waited too long, and it is too late. And you’re
+      going to suffer all of the missteps, all of the mistakes. Instead of sitting down
+      with the leadership of that company, and talking about what their workers are,
+      or are not, in the way of immigration, and working out a reasonable plan, you
+      did the theatric. But you always have to ask: Why the excess theatric? Why the
+      excess scapegoating? Because the situation is desperate. Desperate people do what
+      we end up calling self-destructive behavior. We’re living it. ⁣MICHAEL HUDSON:
+      I agree. I can’t disagree with any of that. We’re in the same — I don’t know where
+      all this is leading, or have any sense of the timeframe being imminent. ⁣RICHARD
+      WOLFF: Well, I can tell you, if we all watch — or at least I assume many of you
+      watched — the videos of the last couple of weeks in which a boat, which is defined
+      as a boat on which eleven people are present, in this boat, and the boat is moving
+      through the water, and then suddenly there’s an explosion of light, and it is
+      explained to us that these eleven people are now blown to smithereens. They are
+      dead. And we don’t know until two or three or four days later, and the information
+      dribbles out. The boat is a thousand miles away in the ocean. Therefore, it is
+      not threatening the United States, at least not yet. It is somewhere in the area
+      of Venezuela, but it is not clear, nor could it be, whether it is going to Venezuela,
+      or from Venezuela. The president and the vice-president announce to us, with no
+      evidence presented at all, that these are drug runners, that the boat is, perhaps,
+      carrying drugs, and it has to do with Venezuela. And therefore, the United States
+      has no obligation to arrest these people, to subject them to a trial in which
+      they have the right to defend themselves, and to receive a punishment, if they
+      are found guilty, that is in some sense proportionate to whatever crime they might
+      be — all of that is dispensed, and Trump and Vance become trial, judge, jury,
+      and executioner, all at once. And nobody — I take that back — relatively few people
+      think that there’s something wrong. You want evidence of desperation? That’s it.
+      And will there be significant numbers of people who go along with it? Yeah, those
+      who are gone to the right, out of their genuine suffering in the last forty years
+      of economic decline. But even those people are mumbling at the bar this evening
+      about giving a trillion dollars to Elon Musk to add to his already $400 billion
+      — the level of obscenity here requires metaphors taking us back to the pharaohs
+      of ancient Egypt, and little of them is left. ⁣MICHAEL HUDSON: I want to say something
+      about the attack on the boat. In the last two days, it’s come out that it wasn’t
+      the Coast Guard that attacked the boat — everybody said, well, wait a minute:
+      A boat is supposed to approach the target and tell them to stand down, to ask
+      what they’re doing, to let themselves be boarded, or whatever — the boat was shot
+      down by drones. The U.S. apparently has drones simply flying throughout the ocean
+      off of Venezuela, to shoot down whatever moves. Now, talk about scapegoats. The
+      drones had no reason — to answer your question of was it going to Venezuela, away
+      from Venezuela — just the fact that it was there, the United States had to shoot
+      down a boat. It doesn’t have enough ships to go everywhere in the ocean, the Atlantic,
+      around that area. So, it just used drones to find a boat so that Trump then could
+      say: We’ve just prepared what will be the first step in a series of attacks on
+      similar ships having anything to do with Venezuela, or in international waters,
+      anywhere of it. It was Senator Rand Paul, the Republican, sort of extremist, in
+      the Senate, that pointed out the fact that all of this was done without all of
+      the legal niceties that you’re supposed to do to follow the formalities of war.
+      And this is what Trump says: There are no rules at all anymore. Don’t you get
+      it? The 1945–2025 era of United Nations rules are gone. It is totally under U.S.
+      rules. This is more radical. It’s something that spans the whole political spectrum
+      from the left to the right that’s occurred. I would imagine that other discussants,
+      military discussions on Nima’s programs, will be elaborating that, and how utterly
+      radical it is. ⁣RICHARD WOLFF: Yeah, and again, we’re repeating: for me, desperate.
+      There’s no need to do this. There is no need to do this. Those eleven people are
+      a thousand miles away. No American — and no one has asserted that any American
+      — was endangered by these people, or threatened by these people. What are you
+      doing? Why would you deliberately violate all those norms of international law,
+      of the law of the ocean, of the presumption of innocence until proven guilty?
+      All of those things, what we’re supposed to revere as Western values, chucked
+      out the window in order to kill eleven people, and then wonder who they were,
+      and what they were doing. What do you — what? This is the act of — I can see Mr.
+      Trump, who, I presume, had to authorize this sort of thing, being in a bad mood
+      and wanting, therefore, to deal with his frustration at being unable to stop the
+      war in Iraq, or stop the horror in Gaza, or stop, or stop, can’t do any of it
+      — can’t avoid the recession, can’t avoid the inflation, can’t decide whether the
+      tariff should be up, or down, or paused, or not paused, or what to do about India,
+      now that you’ve pushed away the single most important foreign ally you could have
+      acquired — the level of frustration is probably high, and this is an outcome.
+      This is an impulsive act done by a desperate person, who should have known better,
+      who may even know better, but is caught up in the level of downturn, and decline,
+      and frustration. That’s what makes our times difficult — not Mr. Putin, and not
+      Xi Jinping, but the problem that they are not. Here, they can’t be other than
+      extras in the story. Our story is about our economic system, our U.S. dominance
+      in the world, and it’s over. And it’s terribly difficult for the American people
+      to face it. And Mr. Trump rides on that difficulty. He rode into office on it,
+      and he will exit office on it. And he will not solve it. And that will be the
+      legacy that haunts him, and the right wing that supports him, for years to come.
+      ⁣MICHAEL HUDSON: Maybe he won’t win the Nobel Peace Prize. ⁣NIMA ALKHORSHID: Actually,
+      before wrapping up, they know what to do with India. Before wrapping up, I’m going
+      to play a clip of Lutnick, the Secretary of Commerce, talking about India: ⁣HOWARD
+      LUTNICK (CLIP): […] they want to open their market. Stop buying Russian oil, right?
+      And stop being a part of BRICS, right? They’re the vowel between Russia and China.
+      If that’s who you want to be, go be it. But either support the dollar, support
+      the United States of America, support your biggest client, who is the American
+      consumer; or, I guess, you’re going to pay a 50% tariff. And let’s see how long
+      this lasts. ⁣NIMA ALKHORSHID: What better solution can you offer? ⁣MICHAEL HUDSON:
+      That’s right. That’s right. ⁣RICHARD WOLFF: Mr. [Narendra] Modi took a trip. His
+      answer to Mr. Lutnick is: Did you notice where I went? Mr. Lutnick is an example
+      of a very self-satisfied American businessman, who comes out of the last seventy-five
+      years imagining that those seventy-five years have lasted, and will last, forever.
+      And therein lies the catastrophic mistake that all of history teaches: The past
+      is not the future, and if you extrapolate forward, you will make misjudgments
+      that will destroy you. That’s what he’s doing. ⁣MICHAEL HUDSON: The guiding illusion
+      is that other countries need the American market, and they don’t need it. The
+      big market is in the BRICS and their allies. That is the illusion, along with
+      the illusion that Russia, and Iran, is a military threat to Europe. You’re dealing
+      with illusions, which have a kind of life of their own. The fact is that Russian
+      oil is the key to energy production and energy use in India, and, of course, India
+      finds the reliance on Russian oil more economically important than the U.S. market.
+      That’s what the Americans can’t understand. The rest of the world does not need
+      the United States. So, that’s the question: Why do the colonies agree to remain
+      as part of the U.S. Empire, instead of joining the global majority? That’s the
+      big puzzle to be solved. And that’s the geopolitical position that, I think, overshadows
+      the whole issue of right and left. ⁣NIMA ALKHORSHID: Thank you so much. Richard,
+      do you have something to add? ⁣RICHARD WOLFF: No, I think we’ve done a good conversation
+      about urgent issues. I feel good about it. ⁣NIMA ALKHORSHID: Thank you so much,
+      Richard and Michael, for being with us today. Great pleasure, as always. Transcription
+      and Diarization: hudsearch Editing: Kimberly Mims Review: ced Photo by Clay Banks
+      on Unsplash The post Late-Stage Barbarism Meets a Mixed-Economy Bloc first appeared
+      on Michael Hudson .'
+    one_sentence_summary: In a discussion about the recent shooting of Charlie Kirk
+      at a university in Utah, Richard Wolff attributes the violence in the U.S. to
+      a declining capitalist system, while the President blames the far left for the
+      incident.
+    paragraph_summary: In a discussion on September 11, 2025, Nima Alkhorshid, Richard
+      Wolff, and Michael Hudson addressed the recent shocking event of Charlie Kirk's
+      assassination at a university in Utah, which prompted President Biden to blame
+      the far left for the violence. Wolff attributed the turmoil in the U.S. to a declining
+      capitalist system and a weakening economy, citing Jamie Dimon's acknowledgment
+      of these issues. He criticized political leaders, particularly Trump, for diverting
+      attention from systemic problems by scapegoating various groups, including immigrants
+      and the left, rather than addressing the underlying economic decline and societal
+      unrest.
+    published: '2025-09-16T21:56:00+00:00'
+  - title: Late-Stage Barbarism Meets a Mixed-Economy Bloc
+    url: https://michael-hudson.com/2025/09/late-stage-barbarism-meets-a-mixed-economy-bloc/
+    text: '⁣NIMA ALKHORSHID: Hi everybody, today is Thursday, September 11, 2025, and
+      our friends Michael Hudson and Richard Wolff are back with us. Welcome back. ⁣RICHARD
+      WOLFF: Glad to be here. ⁣NIMA ALKHORSHID: Richard, let’s start with what has happened
+      in the United States, which somehow was shocking. Charlie Kirk was shot dead when
+      he was talking at the university campus in Utah, if I’m not mistaken, talking
+      to an audience. And the President of the United States came out and put the blame
+      on the far left. What’s going on in the United States today, in your opinion,
+      that they try to picture what’s going on — the violence — and put the blame, on
+      the left, right, and whatever. What is your take on that? ⁣RICHARD WOLFF: My take
+      on that is that the fundamental difficulty of the United States today is a declining
+      capitalist system. The empire is in tatters. It barely exists. The domestic economy
+      — yesterday, Jamie Diamond, the head of the largest bank in the United States,
+      gave an interview (actually two or three of them), and talked about the weakening
+      U.S. economy. Now, he always talks as if he were a spectator, rather than one
+      of the people responsible for it. That’s cute. Hopefully, nobody’s fooled. But
+      there he is, admitting what the others are afraid to admit, but pretending he’s
+      a spectator. Well, Mr. Trump pretends in a different way, but is dealing with
+      the same weakening economy, and the same vanishing empire, and the same hobbled
+      capitalism. But Mr. Trump’s specialty — and that goes back to the first time he
+      became a serious public figure, if you remember, riding down that escalator somewhere
+      in New York City, and explaining to the world that the problems we face are about
+      Mexican immigrants, whom he then slandered — Mr. Trump specializes, as leaders
+      often do in declining empires, in finding scapegoats. Mexicans are scapegoats.
+      The Chinese are scapegoats. And the American left, that he understands as well
+      as he understands everything else, namely, not at all, is likewise now going to
+      be a scapegoat. When you can’t fix a problem, you blame somebody for it, to detract
+      from your failure to fix it. Mr. Trump told us he was going to end the war in
+      Ukraine, in a matter of days or weeks. False. He was going to end the war in Gaza,
+      in a short time. False. He’s actually gone to war in Iran, a war that wasn’t there
+      when he became president, and he’s gearing up, evidently, to do the same to Venezuela.
+      The man is finding people around the world to blame. I want to remind people —
+      it’s a parallel I would take seriously — Germany, in the years before Hitler,
+      faced the loss of its empire. That was accomplished in World War I, when literally
+      the German empire in Africa, Asia was taken away by the winning side of World
+      War I. So the Germans lost their empire. In 1923, they had the worst inflation
+      in modern history that wiped out their entire middle class. All their savings,
+      accumulated over the 19th century, were lost. And it ended up, by the end of 1923,
+      all those savings were barely enough to get you a quarter pound of butter at the
+      local store. And then in 1929, as we all know, the Great Depression hit. So in
+      a very few years, 1918 to 1933, or 1929, if you like, the German working class
+      was really whacked. And in desperation, they turned to a leader who promised them
+      — I’ll fix it right away, and here are the scapegoats: Jews, Roma people, Slavic
+      people — all the collection of scapegoats Mr. Hitler specialized in. And then
+      he went to war in order to distract the people from what was happening at home,
+      so they could focus on the ‘glorious’ victories being achieved abroad. If it sounds
+      familiar, it should. And if you think that I’m telling you a story that gets you
+      depressed, don’t be. Today’s headlines are full of what the French people just
+      did, saying: unh-unh [no], we’re not going to tolerate this. And in Nepal, halfway
+      across the world, another group, another people are rising up, and saying no.
+      The real question, the important question, is not that Mr. Trump has found the
+      left to scapegoat, that he wants to turn a killing in Utah into something more
+      he can, say, arrest somebody of Mexican descent in order to slander Mexico as
+      a whole. Cheap shot. We all kinda know better. But, yeah, he’ll try. And you know
+      what that shows? Desperation is what it shows. And that desperation is, first
+      and foremost, economic. We’re facing a risk of inflation. We’re facing the risk
+      of a recession. Our foreign connections are falling apart. The rest of the world
+      is mobilizing to go around us, to isolate us. That’s the reality. Meanwhile, the
+      inequality in wealth and income gets worse, and worse. And we just had a spectacle
+      in which the board of directors of a typical American mega-capitalist company,
+      Tesla, offers its own CEO a pay package over the next few years worth $1 trillion
+      dollars. That’s the achievement of capitalism, to make the already richest person
+      even richer than he has been up until now. It is obscene, and it will not last.
+      ⁣MICHAEL HUDSON: Well, Richard is quite right in pointing to the weakening of
+      the U.S. economy, and to the desperation that is guiding Trump’s domestic policy.
+      But I think that his dream, that somehow you can reverse America’s deindustrialization,
+      involves subordinating its allies, and turning them into subsidiaries of a shrinking
+      U.S. West. Richard quite rightly points to the fact that, well, the rest of the
+      world is opposed by this — the rest of the world, meaning the SCO, the BRICS,
+      Russia, China, East Asia, the successful economies that continue to grow. But
+      I think that Trump has a proactive — not Trump, I should say the deep state, of
+      which Trump is simply acting as the frontman — has a proactive response to all
+      of this. And he says, well, I’ve applied my tariffs, and to threaten to cause
+      chaos to other countries if they don’t support and subsidize the United States
+      economy. The threats of tariffs and the sanctions didn’t work against Russia,
+      didn’t work against Iran. China is too independent for it to work then. So, we’re
+      not going to try to spend and dissipate any more U.S. wealth fighting Russia —
+      at least Russia — and even trying to increase the Cold War. What we can do is
+      consolidate our control over the Western economies. And if American firms won’t
+      reindustrialize, we can tell Europe, Korea, and Japan to dismantle their own industry,
+      and relocate their industry in the United States. And they will reindustrialize
+      the United States. What the U.S. is trying to do in response to its decline, is
+      to imitate what the British Empire did in the 19th century. It’s treating its
+      allies as colonies — just like Britain treated India, and other countries, to
+      sort of say, keep your savings in pounds sterling; keep your savings in Britain.
+      Don’t industrialize yourself, but become dependent on American industry. What
+      makes Trump realize that there has to be a shift is there isn’t American industry
+      for them to become dependent on. So he’s told the European industry — especially
+      the Germans — to relocate in the United States; to tell Korea that, well, if you
+      want to make money and profit selling cars, relocate Hyundai’s production in the
+      United States. And to tell Japan: You can avoid the disruption of imposing heavy
+      tariffs on you by lending the United States half a trillion dollars by the time
+      my four-year presidency is up. And you will give us a trillion dollars. You will
+      have no control over this. I will have total personal control over what’s going
+      to happen. And after we make investments, and you will be repaid your half a trillion
+      dollars, America will have 90% of the profits from your investment here — not
+      50%, as the Japanese press originally reported, but only 10%. Well, none of the
+      details of this agreement with Japan have been released yet, but the Financial
+      Times today had just a wonderful discussion, saying how horrendous the agreement
+      with Japan is. And the Financial Times reporter leaked it all and reported a glowing
+      [Howard] Lutnick, who — the American negotiator — appeared on CNBC and said, this
+      is the most fun he’s had working for this period. And Trump has complete discussion.
+      And the Financial Times describes this secret agreement that has not yet been
+      published by Japan, because you can imagine what the Japanese public would feel
+      if this agreement were made public. And the Financial Times said: “This reeks
+      of coercion, a sovereign nation forced to funnel private and public sector investment
+      to a much richer one, under the structures unashamedly directed by the U.S. President.”
+      Well, you can see the problems. And the most abject surrender has been that of
+      Germany and Europe. And there’s been hardly any coverage in the U.S. press of
+      the bait-and-switch that America had with — [Ursula] von der Leyen said: We will
+      do whatever you want, President Trump, as long as you give us security — and at
+      least we know what’s going to happen — so that you will protect us from Russia
+      invading us. Well, what happened was there’s no security at all. Trump agreed
+      not to impose punitive tariffs on Europe, but, all of a sudden, he changed his
+      mind. And instead of lowering the tariffs from 25% to 15%, he said: Well, we’re
+      still going to keep the tariffs we have — 50% on steel and aluminum — and if it
+      happens that any of your manufactures contain steel or aluminum — up to 50%. Well,
+      this is treating Europe just like industry. Well, there’s been a cry out of the
+      European industrialists saying: Wait a minute. When we do make a manufactured
+      good, it does include steel and aluminum, and we’re going to have to close down
+      our operations. Trump says: Well, there is a solution. You can avoid the tariffs
+      by relocating in the United States and doing the kind of deal that Hyundai has
+      done in the United States, that Japan has done. This is a shakedown, pure and
+      simple. And you can see what is happening. The SCO and the BRICS are seeing that
+      it’s so fortunate that they didn’t even try to engage with negotiations with Trump
+      — go your own way — and you’re seeing the world really dividing into what the
+      United States can retain from the countries it defeated in World War II — Germany
+      and Japan — and the Korean War in 1951. They all have the Stockholm Syndrome among
+      their leaders. They somehow identify with the victor, and the United States has
+      been able to carve them out. And that’s the proactive response to all this. None
+      of this has to do with what you’d call “the left.” We’re talking about national
+      interest. But I’m sure that Trump will accuse foreign opponents of saying: Wait
+      a minute. We want Japan to have the profits from its investments. We want Korea
+      to be able to bring our skilled labor over when the United States does not have
+      contractors that can build the Hyundai factory. And the Germans, who say: Well,
+      we can’t just relocate to the United States. It takes years to build a factory.
+      We’ll go bankrupt in the process. This is Trump’s response to the world. And I
+      think that goes beyond anything that the left, or even the right, had even dreamed
+      of a year ago, before Trump won. ⁣RICHARD WOLFF: Let me intervene, and perhaps
+      here I will disagree just a bit with Michael, but maybe not. Yeah, time will,
+      for sure, tell whether a return of big business from the rest of the world, moving
+      its production to the United States, is a serious phenomenon. So far, we only
+      have words. We have promises, we have all of this. And as I have known, and as
+      Michael knows, and as most people who follow this thing, it’s real easy for a
+      prime minister, or a big corporation, to tell you about the enormous investments
+      they’re planning to make next year, next year, three years from now, in five years.
+      Most of the executives in top positions who make those promises won’t be in those
+      positions three years from now, when those promises will likely be forgotten,
+      or excused. Number one. Number two: The problem of the United States is, it’s
+      not in a position to get the lackeys it’s had since the end of World War II —
+      Western Europe, Japan, and so on — to do what it needs to have them do. Michael
+      is right. They should all now become colonies. And colonies, let me explain. Colonies,
+      in the following precise sense: They are being charged to do business in the United
+      States. You want to sell in the United States, you’re going to have to work out
+      with the importing company, if you yourself don’t import into the United States.
+      You’re going to have to pay a fee. It’s an entrance fee to the American economy.
+      That’s what a tariff is. If you sell in the American economy, you’re going to
+      have to pay the American government a fee. And the American government is so desperate,
+      it says: Either you pay it — the company abroad coming in — or the American importer
+      pays it. We don’t care. We are equally burdening you and the American — that’s
+      not something the American government wants to do. It wants others to pay, but
+      it can’t get that. So it has to do a deal which hurts its own so-called program:
+      Why in the world would you come here, if one of the things you’re going to have
+      to do, as a business, is pay real high tariffs, which could be raised at any time,
+      on the imported portion of whatever it is you produce here, which, at least for
+      the years ahead, is going to be significant? No, I think what I see is a declining
+      empire no longer able to control huge parts of the world — China, India, Russia,
+      BRICS — and therefore having to eat its own colonies — to savage Canada and Mexico,
+      its major trading partners — doing God knows what kind of damage to those societies.
+      And I want to be clear: The United States may get von der Leyen, or [Friedrich]
+      Merz, or the Japanese leaders secretly to give away their country’s needs, but
+      the only way to sustain that, the only way possible for them to stay in office,
+      is to hype a great danger: That’s the hysteria over Russian invasions, which you
+      can see ratcheted up six more notches when some drones go flying over Poland.
+      You can see the hysteria working its way up. This is a very useful hysteria, focusing
+      the blame on Russia, when your problem is the United States. But you can’t say
+      that because they can really hurt you, which the Russians can’t. The Russians
+      are having trouble subduing Ukraine. They’re going to go after the rest of Europe?
+      That’s a joke. Nobody in their right mind — except if you’re desperate, if you
+      need a scapegoat. And what’s the scapegoat in Europe for, this scapegoating of
+      Russia? They are in a position in which, to salvage anything in their economy,
+      they have to come up with a whole new programming — here we go — of subsidizing
+      their own industries. That’s part of how they will react, and are reacting, against
+      the United States, whatever they say publicly. The Europeans know what is being
+      done to them. They don’t want it. They are afraid that if they are hollowed out
+      of their industry, their own people will turn against them. And you can see it
+      already, in the streets of France, in the right-wing shift of the German political
+      scene, the British political — [Nigel] Farage in England, Alternativ für Deutschland
+      in Germany — and so on. It’s not working real well. The Americans are desperate
+      and are taking care of themselves. They hope to do that at the expense of their
+      used-to-be allies/colonies. So they squeeze the crap out of them, who in turn
+      demonize Russia, to justify the military build-up, which will be the mask for
+      subsidizing their own industry at the expense of their social democracy welfare
+      states. That’s what’s happening. I don’t think that’s gonna work. And that’s Mr.
+      Trump’s worst nightmare: that all of this scapegoating will not work. And here’s
+      a last point: a friend of mine is an industrialist in Europe. I can assure you,
+      he understands perfectly what’s going on. And in my latest conversation with him,
+      where I said: Is there any way that you might actually move your production to
+      the United States? He said, laughingly: Are you crazy? And I said: Well, why?
+      He said: Every day in our newspaper — in the country in Western Europe where he
+      lives — we see pictures of American troops patrolling American cities. You’re
+      a country that I wouldn’t move to in a million years. There’s too much turmoil.
+      And then I watched your new army, your ICE army, closing down a South Korean battery
+      plant in Georgia, out of the hysteria you have cultivated against immigrants.
+      I’m not moving there. I’m not entering that crazy place that is occupying its
+      own cities. I want to quote to you finally a statement made by Vice-President
+      Vance yesterday. In commenting on the occupation that’s supposed to end — although
+      I gather it isn’t — in Washington, D.C., by federal troops, the Vice-President
+      said, with great enjoyment, that his fondest hope is to see that done in cities
+      across America. That’s what he said. And I don’t have the exact words, but that
+      is the exact quotation. He is — you know, foreign industrialists say: That’s not
+      a place I want to go to. Given everything else happening in the world, I’m not
+      moving to a place that looks like it is falling apart. And with the shooting of
+      that right-wing fellow yesterday, you can see where this is going. Of course,
+      he’s right. What am I going to tell him? Oh, you don’t have to worry about violence
+      in the United States, about situations like the South Korean battery plant? This
+      is crazy stuff. And we are in a country that is falling apart. And all the pretense
+      of it scapegoating this one, that one, shooting from the hip, before you know
+      anything — they don’t even know who did the thing in Utah, let alone what the
+      motivations might be. Nor will it be believable once they do. We can’t believe
+      anything anymore. Michael and I used to use the Bureau of Labor Statistics. In
+      the last three weeks we have had two demonstrations: The president fires the woman
+      who runs it, and the next person in charge explains that for the last year, we
+      have overestimated the number of jobs in this country by a million. These are
+      all symptoms, folks. You can pretend, with this one or that one, to dispute it
+      or to quibble about it, but the bottom line is everywhere: The retreat, the desperation,
+      the scapegoating, is a substitute for being able to do anything serious about
+      this. ⁣MICHAEL HUDSON: Richard has given what could be a summary of exactly my
+      views, by emphasizing the role of scapegoating and the almost parallel-universe
+      ability of the U.S. to have been able to support leaders that can insist that
+      Russia actually cares enough about Europe to actually invade it — instead of saying:
+      We don’t want anything to do with it, we’ve turned our eyes east; all we want
+      to do is to be left alone, and not harassed — but that’s all that the United States
+      can do. Trump also gave a speech yesterday. He said: America will fall apart without
+      the tariffs. We need the tariffs because the tariffs are what’s balancing the
+      budget, so that we can cut the taxes — he didn’t say this, but the implication,
+      to finish his sentence, is America will fall apart because we won’t have tariffs
+      to enable us to cut the taxes on the wealthiest 10%, while we raise taxes on the
+      90%. It’s all about the polarization that Richard talked about earlier. How can
+      America support an economy that remunerates the 10%, including the trillion-dollar
+      paycheck to [Elon] Musk, without getting the money from its colonies, its de facto
+      colonies — the countries that it defeated in World War II and in Korea? So, what
+      Trump followed up was to say, well, you know, who’s opposing this? If you oppose
+      the tariffs, that’s the left. Well, of course, the left doesn’t want to see the
+      polarization between the wealthiest stockholders and bondholders whose wealth
+      is increasing, while the net worth of 90% of the population is actually going
+      down. And when you get to the bottom 50%, it’s going down pretty rapidly. Well,
+      the interesting thing is that in Europe, that Richard rightly points to, it’s
+      the nationalists who are saying, you know, put our country first. And the nationalists
+      are considered to be the right. What’s ‘left,’ and what’s ‘right,’ about whether
+      you’re for your own country to take control of your destiny? The press, and the
+      vocabulary that is being used to describe this process, both in Europe and the
+      United States, has become meaningless between left and right. Although, certainly,
+      the nationalist right in Europe agrees that, yes, we should be independent, so
+      that we can make our wealthiest financial class even wealthier — that is the fight
+      that is very explicitly broken out in France, when the new prime minister is a
+      supporter of cutting back social spending, and refusing to impose the 2% wealth
+      tax on the wealthiest that the lower house of France wanted to impose. So, when
+      the only response to dependency on the United States’ right is to have a European
+      right-wing response, you know that we’re in a “Bizarro World” that the old vocabulary
+      of left and right had no way of anticipating logically. ⁣RICHARD WOLFF: Could
+      I comment on that? ⁣MICHAEL HUDSON: Sure. ⁣NIMA ALKHORSHID: Richard, before commenting
+      on that, I don’t know if you’ve heard the French National Assembly deputy Mathilde
+      Panot. She’s from the left, La France Insoumise? ⁣RICHARD WOLFF: “ La France Insoumise.”
+      ⁣NIMA ALKHORSHID: Yeah, here is what she said from what’s going on in France:
+      ⁣MATHILDE PANOT (CLIP): The result shows beyond [François] Bayrou’s government
+      is the fact that [Emmanuel] Macron has no more legitimacy. Only a third of the
+      National Assembly gave him its confidence, which means that the Macron policy
+      for the rich, and against the people, has had two-thirds of negative votes. Therefore,
+      this is a minority in the country. I don’t think that Bayrou and [Michel] Barnier
+      can continue the same policy, taking no account of the results of the election
+      […]. ⁣RICHARD WOLFF: Just for the record, it’s called “La France Insoumise,” and
+      it’s an alliance of a half a dozen of the left-wing parties who got together in
+      France, in a way that other countries still have to learn from, and presented
+      a common front. And that left-wing, together, is the largest bloc of votes in
+      the National Assembly. So, unlike other countries, the left is a big power. You
+      will not hear about it in the American press because the bias here is grotesque.
+      You either hear about Mr. Macron, who is now supported by barely 20% of the people
+      in public polls, or you’ll hear about the right wing, [Marine] Le Pen, and all
+      of that. What you don’t hear about is the larger political formation, which is
+      on the left. And if you think that’s an accident, well, you’re not paying attention.
+      Now, let me try to explain what Michael just ended up with: why right-wingers
+      are taking the lead in much of Europe — not all, not by a long shot, but in much
+      of Europe. Why would it be the right-wing? And by the way, when I answer that
+      question for Europe, I’m going to be answering it for the United States too. When
+      capitalism crashes — which, let’s remember, we have a downturn every four to seven
+      years, on average. We’ve had that for three hundred years. The NBER [National
+      Bureau of Economic Research] in Washington gives a record of all the ups and downs.
+      Wherever capitalism goes, it’s a fundamentally unstable system. If you lived with
+      a person as unstable as capitalism, you would have moved out long ago, and you
+      ought to think about that. Okay. So why? In the 1930s, when capitalism crashed,
+      large numbers of it went to the left. For example, in the United States, what
+      did millions of Americans do that was remarkable in the 1930s Great Depression?
+      They joined a union for the first time in their lives. They joined two socialist
+      and one communist party, who all worked together to produce what’s called the
+      New Deal. Right? That is the most left-wing activity demonstrable in American
+      history. Is it possible for the working class to go to the left when the system
+      starts to break down, like it did in the 30s? The answer is yes —and by the way,
+      similar things happened in Europe. But after World War II, and in the last seventy-five
+      years, we all know what the United States and Europe experienced: a cold war,
+      which had much less to do with the Soviet Union, and much more to do with rolling
+      back the New Deal in the United States, and undoing the power of social democracy,
+      from Scandinavia in the north to Greece in the south. And that’s what we’ve been
+      doing for seventy-five years: hammering — anti-socialism, anti-communism — all
+      of that. So why are we surprised that now that capitalism is experiencing its
+      latest, and maybe its final, decline, we have people — the working class — moving
+      in large numbers to the right? They’ve been trained to do that for seventy-five
+      years. The left has been demonized. What you’re seeing now, the demonization of
+      Mr. Putin — and I’m not here to support him, one way or the other, but the demonization
+      is childish — why would you do that? Mr. Putin is now the same as Mr. Stalin.
+      This is kind of silly. What are you doing? Because you’re desperate, because that’s
+      the way you think. Not just the leaders. The leaders in Europe couldn’t get away
+      with this childish demonization, if there weren’t in the population, still, the
+      residues of seventy-five years of indoctrination. But here’s the good news: The
+      right wing has no solution for the collapse of capitalism, and the longer it flails
+      around, the more that will become clear. That’s what’s happening in France. Of
+      course, they’re the first ones. They have been for the last three centuries. They’re
+      the canary in the coal mine, letting us know — uh-oh, what’s coming? When the
+      right wing is exposed as having no solution at all, then the people will move
+      to the left. Watch out, because that’s coming down the pike. ⁣MICHAEL HUDSON:
+      Richard, how can the working class move left without a political party? That’s
+      the problem. At least in Europe, the left could create a new party, as Sahra Wagenknecht
+      has done in Germany. But America is only a two-party system, as we’ve described.
+      And you can see with a Democratic Socialist — Mr. [Zohran] Mamdani, overwhelmingly
+      getting support in his run for mayor of New York, supported by Bernie Sanders
+      and AOC [Alexandria Ocasio-Cortez] — the Democratic Party denounces that as being
+      the left. And the Democrats say: We are not the left. Socialism is poison for
+      us — and they preferred to lose the 2016 election with Hillary [Clinton], instead
+      of winning with Bernie, just because the Democratic Party is the great enemy of
+      the left. So that’s why the working class has moved to the Republicans, because
+      they’ve given up, quite as I have, certainly — well, I never supported the Democrats
+      to begin with, since I was always a socialist — but there’s a perception among
+      the workers, and the middle class, and the ruling class, that the Democrats are
+      the ultra-right, Cold War, neocon, neoliberal party. ⁣RICHARD WOLFF: I agree with
+      you, but let me again play the same role. Over the last week, two polls emerged:
+      one, the New York Times , the Siena College poll; and the other one, the Gallup
+      poll. And here’s what they show — and here I am borrowing, I should give credit
+      where it’s due, to an article in the American Prospect by one of its leading writers,
+      Harold Meyerson. And in that article — it’s all available right now — those polls
+      show that a majority of Democrats want Bernie Sanders, want the left solution,
+      want people like Zohran Mamdani. And I want to also point that Bernie is beginning
+      to see it too. He endorsed, in Maine, a very important candidate for the Senate,
+      to replace Susan Collins, who is a disaster. And the person — Platner is his name,
+      Graham Platner. He’s an oyster fisherman choosing not to run in the Democratic
+      Party. So, yes, Bernie endorsed Mamdani, who is running [as] the Democrat, but
+      he also endorsed Platner, who isn’t running [as a Democrat] — and you’re going
+      to be seeing more and more — what we see here is what, again, happened in Germany.
+      Sahra Wagenknecht is part of what was called — before — “Die Linke,” which is
+      the left-wing party. “Linke” in German means left — Die Linke is “The Left” —
+      that’s the name they chose. And together they get more than 10% of the vote already,
+      Wagenknecht and Die Linke. But here’s the origin of Die Linke: A split-away from
+      the German Socialist Party — the one that is all the time, half the time, in government,
+      a rough equivalent of our Democratic Party — the left wing of that broke away,
+      and allied with the independent left, including what was left of the old Communist
+      Party of East Germany. They formed Die Linke, and they are now throughout Germany
+      a left-wing alternative, that holds seats in the regional parliament, etc., etc.
+      So, the notion that this all has to go in a right-wing direction is a mistake.
+      We shouldn’t be surprised that that’s where it goes first. When this starts to
+      unravel, this capitalist game, well, then the first reaction of frightened people
+      is to go where they’ve been told you ought to be. When that fails too, then we’ll
+      have our chance to present our idea. Look: In this country, if I stood up and
+      I explained that rather than allowing the Tesla Corporation — which depends on
+      the United States — to give a trillion dollars to one man who is already the richest
+      man on this planet, that we could better tax that trillion and use it to deal
+      with the problems of this country — if I stood for election on that platform,
+      I’d already win. And we’re not even at the point where we can — Michael is right.
+      The left in Europe is better organized. But that’s a problem we can solve, because
+      the support, the idea, of what our political system ought to be, relative to what
+      it is, that’s already for us. We now just have to organize and mobilize it. And
+      that puts the left in a better position in the United States than it has been
+      since the end of the Second World War. ⁣MICHAEL HUDSON: I wish I could agree with
+      you, but I’m so pessimistic about the rottenness of the Democratic Party, and
+      the fervor and hatred that it has for the working class, for socialism,  the hatred
+      for Bernie Sanders, the hatred that it has for Mamdani, as an existential threat
+      to its loyalty to Wall Street and the financial sector that are its candidates.
+      You mentioned that, you know, if you were running as a candidate — but how can
+      someone with your and my views, or Bernie’s views, get nominated for presidency?
+      You saw the corrupt theft of the 2016 Democratic nomination by Hillary. You’ve
+      seen the right-wing press. I don’t see how the scenario that you’re describing
+      can occur, without dissolving the Democratic Party as it is legally constituted,
+      as an independent corporation run by its board of directors that have excluded
+      anyone with a tinge of the left. So, of course, the Democrats’ poll supports what
+      you and I, and Bernie and the others, support, but they have very little effect
+      on who the candidates are going to be for Congress and the Senate, and the actual
+      political administrative system. And I think that’s why there’s sort of an intuitive
+      sense for voters, such as — well, if we, of course, we would like a Democratic
+      Party that represents working-class interests, but in order to do that, we have
+      to replace the Democratic Party as it is now politically and legally structured.
+      And the only way to do that is to just block it from winning altogether. Yes,
+      there will be one — suppose there was one — party, a Republican Party, at all.
+      Well, that was the dream of the founders of the Constitution: There shouldn’t
+      be sectarian — there should be one party. Well, at least, then you would have
+      a variety. You would have left-winger socialists running against Republicans,
+      all in the same kind of primary that many people think, technically, would give
+      more of a chance for a left-wing politician — to make the laws, and levy taxes,
+      and determine American foreign policy — than they would have by a Democratic Party
+      controlled by the neocons and the neoliberals. That’s really the dilemma. I don’t
+      see a way out of this, without replacing the Democratic Party as it’s constituted.
+      And that’s why I supported Jill Stein for her run, that was making these very
+      points, including on our shows on Nima’s discussion. ⁣RICHARD WOLFF: No, I understand
+      your position. I know that many people feel that way. I would suggest that, from
+      my experience, the majority of the American working class that I interact with
+      feels pretty much that way, and is pessimistic about the situation. And I can’t
+      say I’m surprised, that my whole analysis makes it clear to me why, after seventy-five
+      years of this, we have such a situation. Let me talk for a moment about it very
+      directly, politically. I live in New York City. I’m sitting in New York City,
+      as I believe Michael is, as well, as we make this program. I’m watching a very
+      modest socialist, a Social Democrat or Democratic Socialist, if you like, Zohran
+      Mamdani, running for mayor —clearly, the front-running candidate, gets polling
+      always in the high 40%. He’s running against an incumbent mayor whose level of
+      corruption even exceeds what we’re used to here in New York, and we’re used to
+      an awful lot of it. Most of his key associates are either in jail, or on trial,
+      or being investigated. It’s horrible. And he is busily making deals, secret and
+      otherwise, with the president to welcome the ICE, that the rest of the New York
+      political system rejects, and so on. Right? That’s one candidate against him.
+      The other one is a former governor whose distinguishing characteristics are his
+      sexual oppression of the women around him, and behavior during the pandemic that
+      endangered elderly people in nursing homes on a scale that makes you back away.
+      These are his two candidates who are being flooded with money by the rich people
+      of New York City — not all of them, but many of them — in their desperate hope
+      not to be taxed the one, or two, or three percent, which is all Mr. Mamdani has
+      even said he would try. What a spectacle of absurdity this all is. So my answer
+      to Michael is: “We” won’t do it, the Democratic Party will do it to itself. The
+      Democratic Party, as he correctly describes it, has a leadership that will literally
+      push its own membership away. It’ll become a junior party — the plaything of the
+      donors who keep it alive — shrinking, as a real political force on the left replaces
+      it. The left doesn’t need the Democratic Party. The Democratic Party needs the
+      left. And that fundamental reality becomes truer with every passing day, because
+      of the declining American empire and the declining American capitalism. It can’t
+      solve its problem. You send ICE in to terrorize the scapegoat, and you offend
+      so many other people by misarresting them, by hurting them, by obvious excess
+      violence, that you’re undoing your own effort. It’s a little bit like what they
+      just did with that battery plant in Georgia. What a very stupid thing to do. South
+      Korean enterprises, who are among the most important they hoped to bring here,
+      are saying: Wait a minute. In addition to all the other risks we take, we run
+      the risk that if we send over a team of people, because we know our technology,
+      you don’t — you know, poor Mr. Trump has to come limping along afterwards: Gee,
+      we should have brought some over here to train our workers. Really, really, you
+      think? What an interesting idea, after you’ve smashed everything with your absurd
+      ICE game. Sure, it’s an internal army. Sure, it will be used to hold the people
+      back, but it won’t work. Those things don’t do that. By the time you have to do
+      what Mr. Trump is doing, you’ve waited too long, and it is too late. And you’re
+      going to suffer all of the missteps, all of the mistakes. Instead of sitting down
+      with the leadership of that company, and talking about what their workers are,
+      or are not, in the way of immigration, and working out a reasonable plan, you
+      did the theatric. But you always have to ask: Why the excess theatric? Why the
+      excess scapegoating? Because the situation is desperate. Desperate people do what
+      we end up calling self-destructive behavior. We’re living it. ⁣MICHAEL HUDSON:
+      I agree. I can’t disagree with any of that. We’re in the same — I don’t know where
+      all this is leading, or have any sense of the timeframe being imminent. ⁣RICHARD
+      WOLFF: Well, I can tell you, if we all watch — or at least I assume many of you
+      watched — the videos of the last couple of weeks in which a boat, which is defined
+      as a boat on which eleven people are present, in this boat, and the boat is moving
+      through the water, and then suddenly there’s an explosion of light, and it is
+      explained to us that these eleven people are now blown to smithereens. They are
+      dead. And we don’t know until two or three or four days later, and the information
+      dribbles out. The boat is a thousand miles away in the ocean. Therefore, it is
+      not threatening the United States, at least not yet. It is somewhere in the area
+      of Venezuela, but it is not clear, nor could it be, whether it is going to Venezuela,
+      or from Venezuela. The president and the vice-president announce to us, with no
+      evidence presented at all, that these are drug runners, that the boat is, perhaps,
+      carrying drugs, and it has to do with Venezuela. And therefore, the United States
+      has no obligation to arrest these people, to subject them to a trial in which
+      they have the right to defend themselves, and to receive a punishment, if they
+      are found guilty, that is in some sense proportionate to whatever crime they might
+      be — all of that is dispensed, and Trump and Vance become trial, judge, jury,
+      and executioner, all at once. And nobody — I take that back — relatively few people
+      think that there’s something wrong. You want evidence of desperation? That’s it.
+      And will there be significant numbers of people who go along with it? Yeah, those
+      who are gone to the right, out of their genuine suffering in the last forty years
+      of economic decline. But even those people are mumbling at the bar this evening
+      about giving a trillion dollars to Elon Musk to add to his already $400 billion
+      — the level of obscenity here requires metaphors taking us back to the pharaohs
+      of ancient Egypt, and little of them is left. ⁣MICHAEL HUDSON: I want to say something
+      about the attack on the boat. In the last two days, it’s come out that it wasn’t
+      the Coast Guard that attacked the boat — everybody said, well, wait a minute:
+      A boat is supposed to approach the target and tell them to stand down, to ask
+      what they’re doing, to let themselves be boarded, or whatever — the boat was shot
+      down by drones. The U.S. apparently has drones simply flying throughout the ocean
+      off of Venezuela, to shoot down whatever moves. Now, talk about scapegoats. The
+      drones had no reason — to answer your question of was it going to Venezuela, away
+      from Venezuela — just the fact that it was there, the United States had to shoot
+      down a boat. It doesn’t have enough ships to go everywhere in the ocean, the Atlantic,
+      around that area. So, it just used drones to find a boat so that Trump then could
+      say: We’ve just prepared what will be the first step in a series of attacks on
+      similar ships having anything to do with Venezuela, or in international waters,
+      anywhere of it. It was Senator Rand Paul, the Republican, sort of extremist, in
+      the Senate, that pointed out the fact that all of this was done without all of
+      the legal niceties that you’re supposed to do to follow the formalities of war.
+      And this is what Trump says: There are no rules at all anymore. Don’t you get
+      it? The 1945–2025 era of United Nations rules are gone. It is totally under U.S.
+      rules. This is more radical. It’s something that spans the whole political spectrum
+      from the left to the right that’s occurred. I would imagine that other discussants,
+      military discussions on Nima’s programs, will be elaborating that, and how utterly
+      radical it is. ⁣RICHARD WOLFF: Yeah, and again, we’re repeating: for me, desperate.
+      There’s no need to do this. There is no need to do this. Those eleven people are
+      a thousand miles away. No American — and no one has asserted that any American
+      — was endangered by these people, or threatened by these people. What are you
+      doing? Why would you deliberately violate all those norms of international law,
+      of the law of the ocean, of the presumption of innocence until proven guilty?
+      All of those things, what we’re supposed to revere as Western values, chucked
+      out the window in order to kill eleven people, and then wonder who they were,
+      and what they were doing. What do you — what? This is the act of — I can see Mr.
+      Trump, who, I presume, had to authorize this sort of thing, being in a bad mood
+      and wanting, therefore, to deal with his frustration at being unable to stop the
+      war in Iraq, or stop the horror in Gaza, or stop, or stop, can’t do any of it
+      — can’t avoid the recession, can’t avoid the inflation, can’t decide whether the
+      tariff should be up, or down, or paused, or not paused, or what to do about India,
+      now that you’ve pushed away the single most important foreign ally you could have
+      acquired — the level of frustration is probably high, and this is an outcome.
+      This is an impulsive act done by a desperate person, who should have known better,
+      who may even know better, but is caught up in the level of downturn, and decline,
+      and frustration. That’s what makes our times difficult — not Mr. Putin, and not
+      Xi Jinping, but the problem that they are not. Here, they can’t be other than
+      extras in the story. Our story is about our economic system, our U.S. dominance
+      in the world, and it’s over. And it’s terribly difficult for the American people
+      to face it. And Mr. Trump rides on that difficulty. He rode into office on it,
+      and he will exit office on it. And he will not solve it. And that will be the
+      legacy that haunts him, and the right wing that supports him, for years to come.
+      ⁣MICHAEL HUDSON: Maybe he won’t win the Nobel Peace Prize. ⁣NIMA ALKHORSHID: Actually,
+      before wrapping up, they know what to do with India. Before wrapping up, I’m going
+      to play a clip of Lutnick, the Secretary of Commerce, talking about India: ⁣HOWARD
+      LUTNICK (CLIP): […] they want to open their market. Stop buying Russian oil, right?
+      And stop being a part of BRICS, right? They’re the vowel between Russia and China.
+      If that’s who you want to be, go be it. But either support the dollar, support
+      the United States of America, support your biggest client, who is the American
+      consumer; or, I guess, you’re going to pay a 50% tariff. And let’s see how long
+      this lasts. ⁣NIMA ALKHORSHID: What better solution can you offer? ⁣MICHAEL HUDSON:
+      That’s right. That’s right. ⁣RICHARD WOLFF: Mr. [Narendra] Modi took a trip. His
+      answer to Mr. Lutnick is: Did you notice where I went? Mr. Lutnick is an example
+      of a very self-satisfied American businessman, who comes out of the last seventy-five
+      years imagining that those seventy-five years have lasted, and will last, forever.
+      And therein lies the catastrophic mistake that all of history teaches: The past
+      is not the future, and if you extrapolate forward, you will make misjudgments
+      that will destroy you. That’s what he’s doing. ⁣MICHAEL HUDSON: The guiding illusion
+      is that other countries need the American market, and they don’t need it. The
+      big market is in the BRICS and their allies. That is the illusion, along with
+      the illusion that Russia, and Iran, is a military threat to Europe. You’re dealing
+      with illusions, which have a kind of life of their own. The fact is that Russian
+      oil is the key to energy production and energy use in India, and, of course, India
+      finds the reliance on Russian oil more economically important than the U.S. market.
+      That’s what the Americans can’t understand. The rest of the world does not need
+      the United States. So, that’s the question: Why do the colonies agree to remain
+      as part of the U.S. Empire, instead of joining the global majority? That’s the
+      big puzzle to be solved. And that’s the geopolitical position that, I think, overshadows
+      the whole issue of right and left. ⁣NIMA ALKHORSHID: Thank you so much. Richard,
+      do you have something to add? ⁣RICHARD WOLFF: No, I think we’ve done a good conversation
+      about urgent issues. I feel good about it. ⁣NIMA ALKHORSHID: Thank you so much,
+      Richard and Michael, for being with us today. Great pleasure, as always. Transcription
+      and Diarization: hudsearch Editing: Kimberly Mims Review: ced Photo by Clay Banks
+      on Unsplash The post Late-Stage Barbarism Meets a Mixed-Economy Bloc first appeared
+      on Michael Hudson .'
+    one_sentence_summary: In a discussion about the recent shooting of Charlie Kirk
+      at a university in Utah, Richard Wolff attributes the violence in the U.S. to
+      a declining capitalist system, while the President blames the far left for the
+      incident.
+    paragraph_summary: In a discussion on September 11, 2025, Nima Alkhorshid, Richard
+      Wolff, and Michael Hudson addressed the recent shocking event of Charlie Kirk's
+      assassination at a university in Utah, which prompted President Biden to blame
+      the far left for the violence. Wolff attributed the turmoil in the U.S. to a declining
+      capitalist system and a weakening economy, citing Jamie Dimon's acknowledgment
+      of these issues. He criticized political leaders, particularly Trump, for diverting
+      attention from systemic problems by scapegoating various groups, including immigrants
+      and the left, rather than addressing the underlying economic decline and societal
+      unrest.
+    published: '2025-09-16T21:56:00+00:00'
+  - title: From Unipolar Dreams to Dual Systems
+    url: https://michael-hudson.com/2025/09/from-unipolar-dreams-to-dual-systems/
+    text: '⁣NIMA ALKHORSHID: Hi everybody. Today is Thursday, September 4, 2025, and
+      our friends Richard Wolf and Michael Hudson are back with us. Welcome back, Richard
+      and Michael. ⁣RICHARD WOLFF: Glad to be here. ⁣NIMA ALKHORSHID: We had a summit
+      in China, SCO [Shanghai Cooperation Organization] summit, which was huge: India,
+      Russia, China, coming together. And we had regional powers, we had Iran and other
+      Central Asian powers there, talking to these superpowers. On the other hand, we
+      had Armenia and Azerbaijan being part of that, considering the new conflicts in
+      that region. Curious how Donald Trump reacted, and he’s talking about the United
+      States: ⁣DONALD TRUMP (CLIP): […] the United States, everything in the world would
+      die. It’s true. It’s so powerful. It’s so big. And I made it really big in the
+      first four years. Then it started to degenerate with what this Biden administration
+      did. But we built it up to a level that I never thought we could be at this quickly.
+      We’re the hottest, we’re the best, and we’re the best financially. The money coming
+      in is so big because of tariffs and other things, but because of tariffs. Tariff
+      gets us even those other things, plus it gets us great negotiators. I settled
+      seven wars, and numerous of those wars were because of trade […] ⁣NIMA ALKHORSHID:
+      By the way, tariffs were the main reason that India was somehow pushed toward
+      Russia and China in the summit: after years, India went to the summit, the SCO
+      summit. Go ahead, Michael, your take. ⁣MICHAEL HUDSON: Well, the interesting thing
+      is that there’s been hardly any coverage in the American press, and even the European
+      press, about what the summit really was all about. The New York Times coverage
+      is probably the worst. It made it seem as if the whole Shanghai Cooperation Organization
+      and the meetings in Tianjin and Beijing were simply to discuss confrontation against
+      the West. And to read the coverage here, and in the Financial Times and others,
+      you’d think that the meetings all were, how do we organize ourselves to threaten
+      the West? That’s all the coverage is about: the military parade, which is depicted
+      as an imminent threat to the West. What’s left out is the fact that all of this
+      focus on the military parade was to remind the world of the 80th anniversary of
+      the end of World War II in Asia; it was to frame the whole discussions, that the
+      aim — originally — of the post-war economic order that the American strategists
+      designed was to end fascism and introduce a fair world order based on the United
+      Nations principles. Again and again, both President Xi, President Putin, and others
+      kept referring to the United Nations principles of equal treatment, no interference
+      in other countries. It was about how to reestablish this order. And, of course,
+      they recognize that this order cannot any longer include the West. Putin’s speech,
+      especially, was how the United States and Europe have led the West away from the
+      United Nations principles, away from the open international economy — away from
+      the most favored nations treatment — where you treat other nations equal and you
+      acknowledge the security demands of everyone. So you had the NATO head, Mark Rutte,
+      complaining that Putin was getting too much attention, meaning we shouldn’t discuss,
+      even, what they’re really talking about in China. It meant not to discuss how
+      much of a landmark we’ve seen in the last few days in introducing a new economic
+      order. And President Putin, when told about this, explained that [in] the press
+      conference — he gave one — the confrontation was not at all the focus. The talks
+      were about how to spell out the details of consolidating relations among the Asian
+      countries, the BRICS countries, and the global south countries themselves. There
+      was no mention in the speeches that were given and the press conferences, really,
+      about the West. It was about themselves and, specifically, how are Asia and the
+      global south countries to go their own way, with minimum contact and exposure
+      to the West? They’re not trying to attack the West. They’re trying to isolate
+      themselves and break free of the Western economic model of Margaret Thatcherism,
+      financialization, and neoliberalism that’s led the West to deindustrialize. How
+      can the members of the SCO, BRICS, and their allies in the global south, how can
+      they create a socialist market economy, basically, along similar lines to China,
+      that actually raises living standards and increases productivity, instead of deindustrializing?
+      So, no war is really threatened, except by NATO. But there’s not going to be peaceful
+      relations either. The idea is how to become independent of relations with the
+      West. And this is what’s not being discussed here. And this split is best epitomized
+      by the Power of Siberia 2 pipeline. That was the most important discussion that
+      came out. And this was gas that originally was planned to go to Europe via the
+      North [Nord] Stream 1 pipeline. Well, that’s all ended. Siberian gas is going
+      to go via Mongolia to China. And just as Russian gas powered European industry
+      in the past, it’s now going to do the same for China, Mongolia, and other countries
+      that are plugged into their mutual pipelines. Well, what that means is that Europe
+      is going to be left to depend on U.S. liquefied natural gas exports, much higher
+      prices, and declining North Sea supplies from Norway. And this enormous amount
+      of gas in Siberia is going to drive Chinese growth. Well, you could see the fury
+      that this has caused in Europe. Yesterday afternoon, the German Chancellor Friedrich
+      Merz called Putin “perhaps the most serious war criminal of our time.” What he
+      said: The European Union is rapidly transforming from an economic union into a
+      military political bloc — with almost, he gave almost constant aggressive decisions
+      and statements. And that’s how President Putin described what Merz said, that
+      the Western reports are simply belligerent. And Putin said: We do not assume that
+      any new dominant states should appear. Everyone’s going to be on an equal footing.
+      In other words, no new dominant state means we’re not going to let the United
+      States and its satellites in Europe run the world anymore, certainly not run us.
+      But there’s a recognition that, yes, the United States can run Europe, and probably
+      Japan and Korea for the time being, but all these meetings were: how do we not
+      get involved in that? And you quoted President Trump before. On social media,
+      he wrote, “President Xi, please give my warmest regards to Vladimir Putin and
+      Kim Jong-un as you conspire against the United States of America.” That was the
+      message, the reporting, of all of this, has happened. And I don’t want to go on
+      too long, but I just want to point out that the contrast between the successful
+      consolidation of the Shanghai Cooperation Organization and the BRICS trade and
+      investment stands; it’s a different economic system from the U.S. destabilization,
+      the U.S. economy that’s destabilizing. And that makes it very difficult for …
+      the upshot of the meetings for, I guess, what we can discuss is, if the world’s
+      dividing into these two different systems, how is this going to affect countries
+      that have tried to have a foot in both systems, like Turkey? Well, originally,
+      people thought that India was going to be the weak part of BRICS, and that India
+      was trying to have one foot in the U.S. economy, and the other foot as much as
+      it could with BRICS, but really representing U.S. neoliberal interests within
+      BRICS. Trump’s tariffs changed all of that. Fortuitously, just a week before the
+      meeting, Trump gave India no choice at all but to choose its future with BRICS,
+      and to make up with China and say: This borderland up in the Himalayas, where
+      there’s no real defined border, that’s not important at all. What is important
+      is our whole long-term development. For India, the oil and gas trade that we have
+      with Russia, refining Russian oil, and getting it is much more important to our
+      economy, which runs on energy and electricity that is produced by oil. That’s
+      much more important than our exports, mainly of manual labor products, to the
+      United States. Well, Putin [Trump] kept saying, India needs the U.S. market. It’s
+      going to fall apart without the U.S. market. And, I think, President Modi made
+      it very clear that that’s not the case at all. So you have these two opposing
+      dynamics at work: On the one hand, the BRICS and the global majority are trying
+      to isolate themselves from the U.S.-NATO, not to attack it, not to be rivals.
+      No rivalry involved, because they’re doing completely different things. Europe
+      is militarizing its economy and deindustrializing the non-industrial sector. Asia
+      does have to have a military overhead, but it’s trying to continue the spread,
+      the Chinese successful industrial model, to all of the other countries of BRICS,
+      and to arrange these treaties that they’re working on, accordingly, to consolidate
+      their mutual relationships. And that’s what is so upsetting to the West: the thought
+      that other countries are not dependent on the U.S. market, not dependent on Europe,
+      but can actually go their own way. And it’s a different system, and it’s succeeding;
+      while the U.S. economy is shrinking, and the European economy is shrinking, and
+      they are disintegrating. ⁣NIMA ALKHORSHID: Go ahead, Richard. ⁣RICHARD WOLFF:
+      Yes, I’d like to add to what Michael has said with a little bit of history, and
+      then a little bit of focus on the BRICS. At the end of World War II, George Kennan
+      and others argued that, in the wake of the defeat of fascism, the next stage would
+      have to be for the consolidation of the American empire — he did not use that
+      language but, in effect — would be to isolate, or in his words, “contain” the
+      Soviet Union, which then, in his brain, included Eastern Europe. Okay. Why do
+      I bring this up? Because history has brought us to a kind of 180 degrees. If I
+      had to summarize what I got out of this summit in China over the last weekend,
+      it would be that it represents a program of the “containment” of the West and,
+      above all, the United States — again, not in those words, because they go out
+      of their way, it seems to me, not to use the language, because language matters.
+      They don’t define themselves as caught up in a great military confrontation. They
+      don’t describe themselves as the object of a great conspiracy. They don’t do that.
+      You might enjoy, as I did, what Mr. Putin said, when he was shown the clip you
+      just showed us, Nima, about, you know, ‘my greetings as you conspire against the
+      United States.’ When asked what he thought of that, Mr. Putin had a big grin,
+      and said how he appreciated Donald Trump’s sense of humor. What a remarkable way
+      to diffuse, by humor, by ridicule, the whole intensity of it all. The hot house
+      language now becomes a joke. It tells you a lot about what’s going on here. Number
+      one. Number two: The BRICS now is in a very comfortable position, and that’s what
+      this summit showed to me. For five years, from 2020 to right now, the gap between
+      the size and economic wealth of the BRICS relative to that of the United States,
+      or the G7, has gotten wider, and wider, and wider. This is stunningly important.
+      They caught up in the year 2020, and they are now leaving us in their rear-view
+      mirror as they move forward. That’s why Michael’s point is so important. Their
+      major function now is to consolidate, to organize, to integrate what they already
+      have, which I want to remind you: The BRICS together is more than half the population
+      of this planet, and the G7 is barely 10% of this planet, and those numbers are
+      very, very hard to overcome. And if you add the five years in which one of them
+      grows markedly faster than the other one, I want to remind you: Germany is in
+      recession; Britain is barely holding on; the United States feels better than all
+      of them because it has 2.5%, China has 5 [%], and India has 7%. There is no contest
+      here. Time has been on their side and only becomes more so as I speak. And that’s
+      what they were dealing with. They know that. The United States people know it
+      too. Everybody knows it. But that means they don’t need, and they don’t want,
+      military confrontation. And they don’t want it because they don’t need it. Whereas
+      the West wants it because it needs it. You have to keep that in mind, or else
+      you’ll misunderstand the dynamic that’s going on here. And, I think, at the bottom
+      here is a very, very dangerous situation. And let me end my comments with that.
+      The United States maintains 700 (roughly) military bases around the world. Russia
+      and China have nothing like that. China lists one, and I don’t know what the Russians
+      list, but it’s trivial. Okay. What does that mean? Well, let me give you a second
+      example. Over the time of the meetings in Beijing, the one dramatic thing that
+      the United States did, and made sure that the President announced, was an extraordinary
+      act: A boat, a little boat, with a few outboard motors, was moving in waters 1,000
+      miles away from the United States. It was clear from the pictures that we’ve now
+      been shown that this boat had no missiles on it. It couldn’t have sustained them.
+      It was too small. It was moving in the water between Venezuela and Trinidad, which
+      is a short distance. Those countries are separated by ten or twelve miles of water.
+      And the United States took the extraordinary step — since you can’t know what’s
+      on such a boat without pretty close inspection, it did not stop the boat. It did
+      not arrest the people in the boat. It blew up the boat with either a drone or
+      a missile, killing, according to the U.S. government, eleven people who were in
+      or on that boat. That is, the United States — and this was announced by the President
+      in his press conference … It was announced without arrest, without a trial, without
+      a jury, without a judgment, and these people were summarily executed. What are
+      you doing? By the way, these are international waters where global international
+      law forbids this. The United States is not at war with Venezuela. Or if they are,
+      no one has declared it: not the Venezuelans, not the Americans. Congress hasn’t
+      voted for it, and the President hasn’t said it. He announced that “we” — whoever
+      the royal “we” was — took out a drug boat, as if he knows a thousand miles away
+      what was in that boat, and where the people in the boat were going, with what
+      was in the boat. Since it’s a thousand miles away, since there are many countries
+      between that place and the United States, that boat could have been going to any
+      of them, with God knows what in it. What are you doing? That is so outrageous
+      an act, and will be seen around the world in that way, that you have to ask: What
+      would possess you to do it, and what would possess you to have your president
+      tell the world you’re doing it? And the only answer I can come up with is that
+      it is very important — in the short run — to take the headlines away from the
+      [Jeffrey] Epstein case, which threatens Mr. Trump. And in the long run, it’s an
+      underscoring: that military action is what we are reduced to. And now, finally,
+      in Afghanistan, the United States began, if I understand it correctly, to use
+      drones; and very famously, over a number of years, listened to whatever its sources
+      of information were, and used the drones to assassinate groups of people who often
+      turned out to be a funeral, a wedding, a family gathering. Okay, if you keep doing
+      that — and that’s the equivalent of what was done with that boat — you are teaching
+      the people of whoever you do that to be deeply angry, bitter, and fearful because
+      to them, this is wildly irrational military destruction. If you want to know,
+      honestly, why the war in Afghanistan — which pitted the United States against
+      the Taliban — was lost by the United States — because what runs Afghanistan today,
+      friends, is the Taliban — they won, we lost — and one of the reasons was what
+      we did there. And we seem not to have learned the lesson. All of Latin America
+      can now sit, and wonder: Can you send a boat with anything, anywhere — in the
+      Caribbean Sea, for example — or are you risking the displeasure of the United
+      States, which is willing to be jury, judge, prosecutor, and executioner, all at
+      once, instantaneously, when there is obviously no imminent threat to any American
+      anywhere? We’re watching something which, in itself, is small, but put into its
+      context, is not small. It is a dangerous sign of a reliance on military action
+      because nothing else any longer works to deal with your problem. India is lost
+      to us. The president, who suggests that he is a great leader because of his tariffs
+      — just as we watch the BRICS organize itself to enable dozens of countries to
+      reduce or eliminate the damage they feel the tariffs have done to them — fifty
+      billion or a hundred billion raised by the tariffs is a childishly inadequate
+      offset to the damage done by what India has done and, finally, what every country
+      on earth is now doing, every business involved in international trade is now doing:
+      they are reassessing. And by the way, that includes American companies, both those
+      located with plants abroad and those here in the United States. Practical profit-maximizing
+      strategy requires you to adjust to a dramatically changing world economy. The
+      rest of the world has not, in most cases, imposed tariffs on the United States,
+      but they could. And if evolution develops in certain directions, they will. And
+      where you locate your business, whom you trade with, whom you buy from, whom you
+      sell to, everyone is recalculating. And in that recalculation, the relative importance
+      of the West is shrinking, and the relative importance of the people who met in
+      Beijing is growing. And the only people who will ignore that are those who are
+      self-destructive, rather than profit-maximizing — as they claim to be. So we are
+      watching a changing world economy, and we’re watching a meeting in Beijing that
+      will be looked back on as a very important milestone. Mr. Trump has accelerated
+      these changes. That’s all. ⁣MICHAEL HUDSON: I want to pick up the point that you
+      were making about the attack on Venezuela, the boat. President Trump provided
+      the framework for why he did it. What he said was, explicitly: This is only the
+      first attack on Venezuela. It’s the opening shot. And there’s been a discussion,
+      as you know, for the last few weeks, about the U.S. plans to invade Venezuela
+      because indeed it does have a threat to the United States. And you have to understand
+      what that threat is. The threat is that Venezuela has oil that is no longer directly
+      controlled by the United States. Control of the world’s oil supply, at least control
+      of the oil supply to the Western satellite countries, is a key to American diplomatic
+      control of their economies, because it’s this control by the eight [seven] sisters
+      — the big American, British, and Dutch oil companies together — that enables the
+      United States to impose sanctions to say: If your country does not do what we
+      want, for instance, if your country does not break off your trade and investment
+      relations with Russia, we’re going to cut off your oil. So I think you have to
+      put the Venezuela attack in the same context as the American destruction of Nord
+      Stream. The United States has already said Trump has put a $50 million bounty
+      on (whoever can kill) Venezuela’s President Maduro. This is not exactly the U.N.
+      Charter’s rule about not interfering with the internal affairs of other countries.
+      The United States has already grabbed Venezuela’s assets; its gold assets that
+      were held in the Bank of England have been grabbed. The United States has grabbed
+      Venezuela’s holdings of distribution and gas station networks in the United States.
+      The United States wants Venezuelan oil because it’s an enormous amount of oil.
+      And the United States has aimed at controlling this oil for the last century.
+      That’s why its refineries are not in Venezuela, but in Trinidad, because that’s
+      separate from Venezuela. The United States has always wanted the ability to put
+      pressure on Venezuela by saying, well, you may have the oil, but who’s going to
+      refine it? Well, here you’re twelve miles away on Trinidad. Well, that’s very
+      separate, and we can control Trinidad and just have our control over you. Think
+      of the imminent attack on Venezuela in the same frame of reference that Trump
+      has said: We must invade Greenland for our own national security. And Greenland
+      has raw materials that the United States wants. It has [a] favorable situation
+      geopolitically in the north to control a large part of the sea trade and the whole
+      Arctic arena. This is what it’s all about. The United States wants to actually
+      invade Venezuela and it, apparently, has been preparing marine forces for an invasion.
+      We don’t know how many. There are various rumors and reports around, but enough
+      reports to say that the plans are all there. And when Trump says this is only
+      the first step, it’s not about the boat. It’s not about drug dealing. If you don’t
+      like another country, if you don’t like socialism, what’s the American translation
+      of socialism? Drug dealing, terrorism. They’re accused of that. Again, the one
+      thing that the United States cannot talk about, as it’s forced to, is neocolonial
+      imperialism. Conquer Venezuela. Conquer Greenland. Just as England, and France,
+      and Germany conquered part of Africa. All of a sudden, we’re put back in history
+      150 years to this. Well, what they cannot talk about — to get back to the SCO
+      and BRICS meetings — is that what the BRICS are doing, what China has done, in
+      creating a mixed economy — well, let’s call it a socialized market economy. This
+      was the original dynamic of industrial capitalism, seeking to rationalize production,
+      minimize waste, and minimize unnecessary costs imposed by rent-extracting classes:
+      the landlords, the monopolists, the banks that did not play a productive role
+      in financing industry. The problem is that America and Europe no longer follow
+      this original 19th-century logic of industrial capitalism. They’re willing to
+      blow up the world if they can’t control it and dominate other countries. That’s
+      what’s an issue in this Venezuela boat attack that was shown, again and again,
+      on network television, the blowing up of the boat. So, maybe the title of this
+      show should be: “Late Stage Barbarism.” That term has been used throughout much
+      of the internet, including guests on your show, Nima, such as Alastair Crooke
+      and others. It’s late stage barbarism and the willingness to attack other countries
+      that the United States and NATO cannot control. That is a setting for what Asia,
+      the BRICS, and the other countries are following to say, let’s look at where the
+      U.S. economy and the European economies went wrong. How do we avoid it (among
+      themselves)? How do we create trade among ourselves, and investment among ourselves,
+      and monetary relations about ourselves, which are not going to lead to the kind
+      of financialization that has destroyed the Western economies, as they’ve taken
+      a long detour away from industrial capitalism, towards finance capitalism and
+      financial polarization and polarizing the economies between creditors and debtors,
+      and imposing a whole overhead of debt service, of land rent, of increasing monopolies?
+      That’s the Western model. And what the BRICS are discussing is: How do we avoid
+      all this? And they’re reinventing the wheel that Britain and Germany and France,
+      and the United States developed in their industrial take-offs in the early 19th
+      century. Well, that’s what can’t be discussed. So instead of spelling it out —
+      by saying, well, we’re no longer in industrial capitalist countries, we’re deindustrializing,
+      and so the only way that we can control other countries is to grab them by military
+      force, whether it’s Venezuelan oil, or Greenland, or Ukraine’s rare earths — well,
+      they just called them, well, they’re drug dealers, they’re belligerent, they’re
+      evil. And this demonization of other countries — as if countries that you can’t
+      control are drug dealers, are ethnically inferior, if they’re Slavic and you’re
+      Ukrainian, or if they’re Hispanic and you’re an American government, a Republican
+      — all of this demonization is to avoid talking about what this world’s split,
+      which we’re seeing taking shape in the last week, is really all about. ⁣RICHARD
+      WOLFF: I wanted to add because there’s an ongoing debate, which begins by recognizing
+      — correctly in my view — that there are also huge differences among the members
+      of the BRICS. That is correct. These are very different countries — different
+      histories, different economic systems, different cultures. It is a very complicated,
+      heterogeneous mass. Number one. It is right now being thrown together by a common
+      enemy. And what is not recognized here in the United States is that the United
+      States is that enemy. That’s why you have this apparently perverse result that
+      the United States wants to do everything to dismiss and to deny the BRICS, and
+      then is confronted by the fact that it is the single most important bringer-together
+      of this heterogeneous [mass]. It’s important also to recognize that, as the world
+      is changing, the way we think about the world economy has to also change now.
+      The 20th century set up the issue, as if it were a great historical struggle between
+      the capitalist system and the socialist system: U.S., U.S.S.R., etc. Those issues
+      raised by capitalism versus socialism, those are still on the table. Those have
+      not been resolved, not in the West, not in the East either. They will play their
+      role. Right now, they are secondary because the key issue motivating world actors
+      and affairs is this break between the dominance of the West and the rise of the
+      East; the decline of the G7 and the rise of the BRICS. And it is perfectly appropriate
+      for us to think about that dynamic, not because it displaces or somehow renders
+      no longer relevant the capitalism–socialism struggle. That struggle is there.
+      It’s right below the surface, and it will come to the surface. It does already
+      now, but it will continue, in one country or another, in one region or another,
+      in one group of striking workers at a factory in — fill in any blank of — any
+      country now in the BRICS. They haven’t overcome those contradictions. Some of
+      their enthusiasts may say so, but that’s naïve. You know, the people who made
+      the transition from feudalism to capitalism, for example, in France: Robespierre,
+      Danton, all of them, they loved to talk about liberty, equality, fraternity, and
+      the struggle of people. They believed if you bring in capitalism, you will get
+      liberty, equality, fraternity, and — add the American Revolution contribution
+      — democracy. Well, the 19th century taught people that you got the capitalism,
+      you did. You buried feudalism, you did. But did you get liberty, equality, fraternity,
+      and democracy? Not at all. And who made that point more powerfully in the 19th
+      century than everybody else? Karl Marx. That’s his contribution. He loved liberty,
+      equality, fraternity, democracy, the French and American revolutions. He said
+      so, over and over again. But he said capitalism is its own obstacle to getting
+      that done. And that was his other great contribution: It’s not external, it’s
+      internal. Well, we have every right to say — and I would argue — that the BRICS
+      is an immensely important break in Western capitalism, challenging all the people
+      who led it, or as Michael says, challenging the whole logic and ideology of capitalism
+      in the 19th century and the 20th. So it’s beyond words important, but it doesn’t
+      remove, or erase, or leave behind those other issues. It just teaches us that
+      while we may have thought the issue in the 20th century was capitalism versus
+      socialism, a lot of other things were going on; and those have now come to the
+      fore, pushed away, pushed into second place, those other issues; they’re not resolved.
+      They will show us in the future that those issues remain on the table. And they
+      will be doing that in China and everywhere else as well. ⁣MICHAEL HUDSON: Well,
+      Richard, you’re quite right in emphasizing what the BRICS was. The BRICS has a
+      variety of political systems and there [are] very heavy neoliberal forces within
+      the BRICS. How do they deal with that? Well, I think the key to these meetings
+      is, although nominally they’re geopolitical meetings that we’ve been seeing in
+      China, the whole meetings were built around this military anniversary of the ending
+      of World War II. It was placed in a military perspective in order to highlight
+      just how important today’s fight is in shaping the next eighty years. Because
+      just like the promise of industrial capitalism — to bring about more equality
+      and raise living standards — ended up taking the detour into monopoly capitalism
+      and finance capitalism, the United Nations agreements and the whole economic order
+      that was devised in 1944 and 1945, that created the UN, and the IMF, and the World
+      Bank has not lived up to its promise at all. And I think President Xi’s speech
+      proclaimed at this meeting that the aim was “a global government initiative.”
+      He’s talking about: How do we make global governments that can be agreed upon
+      in the face of these neoliberal strengths in some countries, in the face of the
+      surviving post-industrial rent-seeking interests, in many of the BRICS countries,
+      and many of the global south countries — how do we deal with it? All that they
+      could deal with, that they set out to do was: Let’s make a set of foundational
+      assumptions for international trade — non-interference, was one of them; equality
+      among different countries; not threatening each other’s national security. Equal
+      economic sovereignty among nations was really what it was all about. Well, how
+      can you have economic sovereignty for the global south countries, for instance,
+      when they have the modern equivalent of what Britain and Europe had: the survival
+      of feudalism, the survival of landlord class, land rent, survival of monopolists?
+      Well, what the global south countries have as their legacy, that’s just as serious
+      as feudalism, is the legacy of foreign ownership of their raw material resources.
+      What Europe — England, Germany, France — what they sought in Africa was not to
+      replicate themselves, not to spread the industrial capitalism that marked the
+      industrial take-off of Europe, but they sought rent-seeking. They sought to create
+      their own rentier economy, very much as much of a straitjacket as feudalism was.
+      They wanted control, they wanted resource rents for oil, for mining, for monopolies
+      in transportation — such as the European investment in canals and railroads —
+      and other basic infrastructure. From the very beginning, European, and then American,
+      investment in the global south took a completely different form than investment
+      in continental Europe and the United States itself. It was all rent-seeking. Well,
+      this is the legacy that the BRICS countries have to deal with because this legacy
+      has created client oligarchies in many of the southern countries. Well, this was
+      a problem that they were worrying about, until last week, about India. Where does
+      India’s sort of mixed economy and mixed geopolitical identity lie? Well, they
+      were able to solve that. They’re going to have to solve this problem, which you
+      point out, of different economic systems throughout the BRICS and global south
+      countries. The only way that they can make a beginning in this is to say: What
+      we can agree upon is dedollarization using each other’s currencies, not the dollar.
+      China is going to create, be the major investor in, an international bank, and
+      create trade relations. That has to be the beginning. How they deal with each
+      other. Before they can deal — now, how do we deal with your domestic economies
+      — so that other countries can follow the same path that China has done in keeping
+      the financial sector as a public utility, to create money and credit for purposes
+      of capital investment and productive lending, instead of predatory corporate takeovers
+      and financial leveraging, and debt pyramiding that you have in the United States?
+      This is what they’re trying to do. I think the focus is on international geopolitical
+      relations before they can then go into the domestic relations. As they work out
+      this geopolitical discussion of, well, how are we going to arrange for the means
+      of payment? What is a productive loan? The structuring of foreign trade and investment
+      has its own momentum in transforming these internal economies to free themselves
+      from the Western neoliberal, rent-seeking, financialized predatory economy that
+      you have here. ⁣NIMA ALKHORSHID: Richard, just to add something to what Michael
+      said: Over the last three years, the United States dollar has lost about 107%
+      of its value related to gold. This is, I think, the main point that Russia and
+      China, and other countries, are trying to build on their economy. The main goal
+      is to build on the value of gold. Go ahead, Richard. Do you want to add? ⁣RICHARD
+      WOLFF: Yeah, I also personally am running out of time, but I just want to add
+      one little point. I think we’re going to see what Michael has just alluded to.
+      We’re going to see — and the whole world will see — how exactly China and the
+      BRICS are going to handle the economic issues that the whole world confronts differently.
+      They’re going to see it, step by step, whether it’s in the attention paid to the
+      climate — how much of your economic development is going to be shaped by taking
+      the climate issues seriously, versus not doing that? It’s already evident. How
+      much of your work is going to be in making sure that the inequality of wealth
+      and income stops increasing and starts tangentially, you know, decreasing, taking
+      deliberate steps? And there’ll be some evidence. And the last one that I think
+      is the one that may do the trick is how you’re going to integrate artificial intelligence.
+      In the West, it is a threat to employment. And the reason for that is that capitalists
+      use AI — if they use it at all, if they install it — because they can fire workers
+      and replace them with AI. If you have a hundred workers doing a task and AI enables
+      them all to do a bit more, you can fire fifty of them, and they can get as much
+      done as the remaining, as they used to take a hundred for. Okay? And you’ll see
+      that. And that’s why there’s the alarmism and the anxiety about employment. But
+      of course, there’s an option. If the AI makes you doubly productive, as in my
+      example, the alternative is that everybody keeps their job but works four hours
+      a day, not eight. Then you get the same output, all the same numbers, the same
+      profit. It’s all the same, but the AI has been used to enhance the leisure of
+      the majority, the working class. Okay, those are the two poles. Fire half the
+      workers, or keep them all and give them a half-time job, paying them the same,
+      because all the numbers work out. The profits are the same, outputs the same,
+      revenues the same, and wages the same. Half the work, same wages. Workers would
+      love it. Well, those are the two poles. You can do anything in between. That’s
+      going to be a decision that more and more countries are likely going to make.
+      And it’s going to separate those who are, in general, serious about the old socialist
+      objectives, and those who are not. And that’s going to become an issue of contention
+      inside every economy. That’s what I mean by saying we haven’t left the world of
+      capitalism versus socialism. We’re actually closer to making that a real struggle
+      — on the ground, every day —than we were. We just didn’t understand it. We thought
+      the struggle was X. It’s actually Y. That’s how I think we should think about
+      the significance of the whole BRICS movement. However, I am sorry. I have another
+      thing. I wish you all well, and I will be ready to go next Thursday without a
+      limit. ⁣NIMA ALKHORSHID: Yeah, thank you, Richard. See you soon. Michael? ⁣MICHAEL
+      HUDSON: Well, I think that Richard has put his finger on the point that, yes,
+      it’s a clash; but not so much between socialism and capitalism, because what does
+      capitalism mean? It’s really between socialism and finance capitalism because,
+      back in the late 19th century, all of the writers in capitalist economies believed
+      that the trajectory of industrial capitalism was going to be toward a mixed economy,
+      and they all used the word socialism. It meant something different, as we’ve talked
+      about, to different people. There were many kinds of socialism: anarchist socialism,
+      libertarian socialism, mutual aid socialism, Christian socialism, John Stuart
+      Mill socialism … tax the landlords, basically, that’s the common denominator of
+      classical economics. And socialism was expected as part of the dynamic of industrial
+      capitalism itself. That all ended after World War I. And you could look at the
+      SCO and BRICS and global south countries; you can look at what’s happened, in
+      the last week, as setting the stage for a resumption of this whole idea of a market
+      economy — a state capitalist economy, a mixed economy, as you have in China, 
+      and as Lenin described in his New Economic Policy of 1921 — you’re always going
+      to need a kind of mixed economy. And you’re also going to need a tax system, tax
+      uniformity among the countries that are doing trade and investment so that the
+      tax system is based on taxing economic rent — that is, unearned income: land rent,
+      monopoly rent, natural resource rent, and financial speculation — by keeping …
+      And there’s always going to be some sort of rent because localities have a better
+      location. There’s always going to be a natural monopoly in the form of basic public
+      infrastructure: transportation, communications, healthcare, and education. These
+      potential rent-extracting sectors are going to be kept in the public domain, kept
+      by finance. And as long as finance is used along with the fiscal system to shape
+      how economies operate, that is going to be what the discussions and arguments
+      and theory of economic development, for the next few generations, is going to
+      be all about. Well, that’s exactly what is not being discussed in the West. But
+      it is being discussed in China, and among the countries that were just meeting
+      in Beijing. So, I think we can look at this as setting the stage, on the one hand,
+      the positive lines that Asia is taking, and drawing in as many of the global south
+      countries as want to join, even if it means moving away from their vested client
+      oligarchies and their own rentier interests that the West has put in power for
+      all of this. And this is, of course, what the whole American fight against Venezuela
+      is, that tried to have a socialist revolution with America saying: We’re going
+      to make socialism so expensive for you in its military overhead, in its sabotage
+      of your economies, that we can then say socialism’s a failure because we are able
+      to destroy socialist economies. Well, the BRICS countries, the Shanghai Cooperation
+      Organization, have said: You are not going to be able to do to our economies what
+      you have just been doing to Venezuela, and what you’re threatening to do to Greenland.
+      We are going to isolate ourselves from you. We’re not going to fight with you.
+      We will defend ourselves if you attack us, as you’re attacking Russia in Ukraine.
+      If you’re attacking us because of the path we’re taking, then, of course, there’s
+      going to be a fight. We don’t want to fight. We just want nothing to do with you.
+      You’re a different system. You’re late-stage barbarism. And we’re going our own
+      way. I think that is what is shaping the next generation globally. ⁣NIMA ALKHORSHID:
+      Thank you so much, Michael, for being with us today. ⁣MICHAEL HUDSON: Thank you
+      for having me, Nima. This was the right discussion to have at this time. Transcription
+      and Diarization: hudsearch Editing: Kimberly Mims Review: ced Photo by Farid Karimi
+      on Unsplash The post From Unipolar Dreams to Dual Systems first appeared on Michael
+      Hudson .'
+    one_sentence_summary: During a discussion on September 4, 2025, Nima Alkhorshid,
+      Richard Wolff, and Michael Hudson reflected on the significant SCO summit in China
+      involving major powers like India, Russia, and China, while also noting Donald
+      Trump's comments on the U.S.'s global influence and its perceived decline under
+      the Biden administration.
+    paragraph_summary: On September 4, 2025, Nima Alkhorchid hosted Richard Wolff and
+      Michael Hudson to discuss the recent Shanghai Cooperation Organization (SCO) summit
+      in China, which included major powers like India, Russia, and China, alongside
+      regional players such as Iran and Central Asian nations. The summit's significance
+      was underscored by its discussions on emerging conflicts, particularly between
+      Armenia and Azerbaijan. Donald Trump commented on the United States' global power,
+      attributing its strength to his administration's policies, including tariffs,
+      which he claimed helped boost the economy and resolve conflicts. Michael Hudson
+      criticized the lack of comprehensive coverage in American and European media regarding
+      the summit, suggesting that reports often framed it as merely a confrontation
+      against the West, rather than addressing its broader implications.
+    published: '2025-09-16T12:24:53+00:00'
+  - title: From Unipolar Dreams to Dual Systems
+    url: https://michael-hudson.com/2025/09/from-unipolar-dreams-to-dual-systems/
+    text: '⁣NIMA ALKHORSHID: Hi everybody. Today is Thursday, September 4, 2025, and
+      our friends Richard Wolf and Michael Hudson are back with us. Welcome back, Richard
+      and Michael. ⁣RICHARD WOLFF: Glad to be here. ⁣NIMA ALKHORSHID: We had a summit
+      in China, SCO [Shanghai Cooperation Organization] summit, which was huge: India,
+      Russia, China, coming together. And we had regional powers, we had Iran and other
+      Central Asian powers there, talking to these superpowers. On the other hand, we
+      had Armenia and Azerbaijan being part of that, considering the new conflicts in
+      that region. Curious how Donald Trump reacted, and he’s talking about the United
+      States: ⁣DONALD TRUMP (CLIP): […] the United States, everything in the world would
+      die. It’s true. It’s so powerful. It’s so big. And I made it really big in the
+      first four years. Then it started to degenerate with what this Biden administration
+      did. But we built it up to a level that I never thought we could be at this quickly.
+      We’re the hottest, we’re the best, and we’re the best financially. The money coming
+      in is so big because of tariffs and other things, but because of tariffs. Tariff
+      gets us even those other things, plus it gets us great negotiators. I settled
+      seven wars, and numerous of those wars were because of trade […] ⁣NIMA ALKHORSHID:
+      By the way, tariffs were the main reason that India was somehow pushed toward
+      Russia and China in the summit: after years, India went to the summit, the SCO
+      summit. Go ahead, Michael, your take. ⁣MICHAEL HUDSON: Well, the interesting thing
+      is that there’s been hardly any coverage in the American press, and even the European
+      press, about what the summit really was all about. The New York Times coverage
+      is probably the worst. It made it seem as if the whole Shanghai Cooperation Organization
+      and the meetings in Tianjin and Beijing were simply to discuss confrontation against
+      the West. And to read the coverage here, and in the Financial Times and others,
+      you’d think that the meetings all were, how do we organize ourselves to threaten
+      the West? That’s all the coverage is about: the military parade, which is depicted
+      as an imminent threat to the West. What’s left out is the fact that all of this
+      focus on the military parade was to remind the world of the 80th anniversary of
+      the end of World War II in Asia; it was to frame the whole discussions, that the
+      aim — originally — of the post-war economic order that the American strategists
+      designed was to end fascism and introduce a fair world order based on the United
+      Nations principles. Again and again, both President Xi, President Putin, and others
+      kept referring to the United Nations principles of equal treatment, no interference
+      in other countries. It was about how to reestablish this order. And, of course,
+      they recognize that this order cannot any longer include the West. Putin’s speech,
+      especially, was how the United States and Europe have led the West away from the
+      United Nations principles, away from the open international economy — away from
+      the most favored nations treatment — where you treat other nations equal and you
+      acknowledge the security demands of everyone. So you had the NATO head, Mark Rutte,
+      complaining that Putin was getting too much attention, meaning we shouldn’t discuss,
+      even, what they’re really talking about in China. It meant not to discuss how
+      much of a landmark we’ve seen in the last few days in introducing a new economic
+      order. And President Putin, when told about this, explained that [in] the press
+      conference — he gave one — the confrontation was not at all the focus. The talks
+      were about how to spell out the details of consolidating relations among the Asian
+      countries, the BRICS countries, and the global south countries themselves. There
+      was no mention in the speeches that were given and the press conferences, really,
+      about the West. It was about themselves and, specifically, how are Asia and the
+      global south countries to go their own way, with minimum contact and exposure
+      to the West? They’re not trying to attack the West. They’re trying to isolate
+      themselves and break free of the Western economic model of Margaret Thatcherism,
+      financialization, and neoliberalism that’s led the West to deindustrialize. How
+      can the members of the SCO, BRICS, and their allies in the global south, how can
+      they create a socialist market economy, basically, along similar lines to China,
+      that actually raises living standards and increases productivity, instead of deindustrializing?
+      So, no war is really threatened, except by NATO. But there’s not going to be peaceful
+      relations either. The idea is how to become independent of relations with the
+      West. And this is what’s not being discussed here. And this split is best epitomized
+      by the Power of Siberia 2 pipeline. That was the most important discussion that
+      came out. And this was gas that originally was planned to go to Europe via the
+      North [Nord] Stream 1 pipeline. Well, that’s all ended. Siberian gas is going
+      to go via Mongolia to China. And just as Russian gas powered European industry
+      in the past, it’s now going to do the same for China, Mongolia, and other countries
+      that are plugged into their mutual pipelines. Well, what that means is that Europe
+      is going to be left to depend on U.S. liquefied natural gas exports, much higher
+      prices, and declining North Sea supplies from Norway. And this enormous amount
+      of gas in Siberia is going to drive Chinese growth. Well, you could see the fury
+      that this has caused in Europe. Yesterday afternoon, the German Chancellor Friedrich
+      Merz called Putin “perhaps the most serious war criminal of our time.” What he
+      said: The European Union is rapidly transforming from an economic union into a
+      military political bloc — with almost, he gave almost constant aggressive decisions
+      and statements. And that’s how President Putin described what Merz said, that
+      the Western reports are simply belligerent. And Putin said: We do not assume that
+      any new dominant states should appear. Everyone’s going to be on an equal footing.
+      In other words, no new dominant state means we’re not going to let the United
+      States and its satellites in Europe run the world anymore, certainly not run us.
+      But there’s a recognition that, yes, the United States can run Europe, and probably
+      Japan and Korea for the time being, but all these meetings were: how do we not
+      get involved in that? And you quoted President Trump before. On social media,
+      he wrote, “President Xi, please give my warmest regards to Vladimir Putin and
+      Kim Jong-un as you conspire against the United States of America.” That was the
+      message, the reporting, of all of this, has happened. And I don’t want to go on
+      too long, but I just want to point out that the contrast between the successful
+      consolidation of the Shanghai Cooperation Organization and the BRICS trade and
+      investment stands; it’s a different economic system from the U.S. destabilization,
+      the U.S. economy that’s destabilizing. And that makes it very difficult for …
+      the upshot of the meetings for, I guess, what we can discuss is, if the world’s
+      dividing into these two different systems, how is this going to affect countries
+      that have tried to have a foot in both systems, like Turkey? Well, originally,
+      people thought that India was going to be the weak part of BRICS, and that India
+      was trying to have one foot in the U.S. economy, and the other foot as much as
+      it could with BRICS, but really representing U.S. neoliberal interests within
+      BRICS. Trump’s tariffs changed all of that. Fortuitously, just a week before the
+      meeting, Trump gave India no choice at all but to choose its future with BRICS,
+      and to make up with China and say: This borderland up in the Himalayas, where
+      there’s no real defined border, that’s not important at all. What is important
+      is our whole long-term development. For India, the oil and gas trade that we have
+      with Russia, refining Russian oil, and getting it is much more important to our
+      economy, which runs on energy and electricity that is produced by oil. That’s
+      much more important than our exports, mainly of manual labor products, to the
+      United States. Well, Putin [Trump] kept saying, India needs the U.S. market. It’s
+      going to fall apart without the U.S. market. And, I think, President Modi made
+      it very clear that that’s not the case at all. So you have these two opposing
+      dynamics at work: On the one hand, the BRICS and the global majority are trying
+      to isolate themselves from the U.S.-NATO, not to attack it, not to be rivals.
+      No rivalry involved, because they’re doing completely different things. Europe
+      is militarizing its economy and deindustrializing the non-industrial sector. Asia
+      does have to have a military overhead, but it’s trying to continue the spread,
+      the Chinese successful industrial model, to all of the other countries of BRICS,
+      and to arrange these treaties that they’re working on, accordingly, to consolidate
+      their mutual relationships. And that’s what is so upsetting to the West: the thought
+      that other countries are not dependent on the U.S. market, not dependent on Europe,
+      but can actually go their own way. And it’s a different system, and it’s succeeding;
+      while the U.S. economy is shrinking, and the European economy is shrinking, and
+      they are disintegrating. ⁣NIMA ALKHORSHID: Go ahead, Richard. ⁣RICHARD WOLFF:
+      Yes, I’d like to add to what Michael has said with a little bit of history, and
+      then a little bit of focus on the BRICS. At the end of World War II, George Kennan
+      and others argued that, in the wake of the defeat of fascism, the next stage would
+      have to be for the consolidation of the American empire — he did not use that
+      language but, in effect — would be to isolate, or in his words, “contain” the
+      Soviet Union, which then, in his brain, included Eastern Europe. Okay. Why do
+      I bring this up? Because history has brought us to a kind of 180 degrees. If I
+      had to summarize what I got out of this summit in China over the last weekend,
+      it would be that it represents a program of the “containment” of the West and,
+      above all, the United States — again, not in those words, because they go out
+      of their way, it seems to me, not to use the language, because language matters.
+      They don’t define themselves as caught up in a great military confrontation. They
+      don’t describe themselves as the object of a great conspiracy. They don’t do that.
+      You might enjoy, as I did, what Mr. Putin said, when he was shown the clip you
+      just showed us, Nima, about, you know, ‘my greetings as you conspire against the
+      United States.’ When asked what he thought of that, Mr. Putin had a big grin,
+      and said how he appreciated Donald Trump’s sense of humor. What a remarkable way
+      to diffuse, by humor, by ridicule, the whole intensity of it all. The hot house
+      language now becomes a joke. It tells you a lot about what’s going on here. Number
+      one. Number two: The BRICS now is in a very comfortable position, and that’s what
+      this summit showed to me. For five years, from 2020 to right now, the gap between
+      the size and economic wealth of the BRICS relative to that of the United States,
+      or the G7, has gotten wider, and wider, and wider. This is stunningly important.
+      They caught up in the year 2020, and they are now leaving us in their rear-view
+      mirror as they move forward. That’s why Michael’s point is so important. Their
+      major function now is to consolidate, to organize, to integrate what they already
+      have, which I want to remind you: The BRICS together is more than half the population
+      of this planet, and the G7 is barely 10% of this planet, and those numbers are
+      very, very hard to overcome. And if you add the five years in which one of them
+      grows markedly faster than the other one, I want to remind you: Germany is in
+      recession; Britain is barely holding on; the United States feels better than all
+      of them because it has 2.5%, China has 5 [%], and India has 7%. There is no contest
+      here. Time has been on their side and only becomes more so as I speak. And that’s
+      what they were dealing with. They know that. The United States people know it
+      too. Everybody knows it. But that means they don’t need, and they don’t want,
+      military confrontation. And they don’t want it because they don’t need it. Whereas
+      the West wants it because it needs it. You have to keep that in mind, or else
+      you’ll misunderstand the dynamic that’s going on here. And, I think, at the bottom
+      here is a very, very dangerous situation. And let me end my comments with that.
+      The United States maintains 700 (roughly) military bases around the world. Russia
+      and China have nothing like that. China lists one, and I don’t know what the Russians
+      list, but it’s trivial. Okay. What does that mean? Well, let me give you a second
+      example. Over the time of the meetings in Beijing, the one dramatic thing that
+      the United States did, and made sure that the President announced, was an extraordinary
+      act: A boat, a little boat, with a few outboard motors, was moving in waters 1,000
+      miles away from the United States. It was clear from the pictures that we’ve now
+      been shown that this boat had no missiles on it. It couldn’t have sustained them.
+      It was too small. It was moving in the water between Venezuela and Trinidad, which
+      is a short distance. Those countries are separated by ten or twelve miles of water.
+      And the United States took the extraordinary step — since you can’t know what’s
+      on such a boat without pretty close inspection, it did not stop the boat. It did
+      not arrest the people in the boat. It blew up the boat with either a drone or
+      a missile, killing, according to the U.S. government, eleven people who were in
+      or on that boat. That is, the United States — and this was announced by the President
+      in his press conference … It was announced without arrest, without a trial, without
+      a jury, without a judgment, and these people were summarily executed. What are
+      you doing? By the way, these are international waters where global international
+      law forbids this. The United States is not at war with Venezuela. Or if they are,
+      no one has declared it: not the Venezuelans, not the Americans. Congress hasn’t
+      voted for it, and the President hasn’t said it. He announced that “we” — whoever
+      the royal “we” was — took out a drug boat, as if he knows a thousand miles away
+      what was in that boat, and where the people in the boat were going, with what
+      was in the boat. Since it’s a thousand miles away, since there are many countries
+      between that place and the United States, that boat could have been going to any
+      of them, with God knows what in it. What are you doing? That is so outrageous
+      an act, and will be seen around the world in that way, that you have to ask: What
+      would possess you to do it, and what would possess you to have your president
+      tell the world you’re doing it? And the only answer I can come up with is that
+      it is very important — in the short run — to take the headlines away from the
+      [Jeffrey] Epstein case, which threatens Mr. Trump. And in the long run, it’s an
+      underscoring: that military action is what we are reduced to. And now, finally,
+      in Afghanistan, the United States began, if I understand it correctly, to use
+      drones; and very famously, over a number of years, listened to whatever its sources
+      of information were, and used the drones to assassinate groups of people who often
+      turned out to be a funeral, a wedding, a family gathering. Okay, if you keep doing
+      that — and that’s the equivalent of what was done with that boat — you are teaching
+      the people of whoever you do that to be deeply angry, bitter, and fearful because
+      to them, this is wildly irrational military destruction. If you want to know,
+      honestly, why the war in Afghanistan — which pitted the United States against
+      the Taliban — was lost by the United States — because what runs Afghanistan today,
+      friends, is the Taliban — they won, we lost — and one of the reasons was what
+      we did there. And we seem not to have learned the lesson. All of Latin America
+      can now sit, and wonder: Can you send a boat with anything, anywhere — in the
+      Caribbean Sea, for example — or are you risking the displeasure of the United
+      States, which is willing to be jury, judge, prosecutor, and executioner, all at
+      once, instantaneously, when there is obviously no imminent threat to any American
+      anywhere? We’re watching something which, in itself, is small, but put into its
+      context, is not small. It is a dangerous sign of a reliance on military action
+      because nothing else any longer works to deal with your problem. India is lost
+      to us. The president, who suggests that he is a great leader because of his tariffs
+      — just as we watch the BRICS organize itself to enable dozens of countries to
+      reduce or eliminate the damage they feel the tariffs have done to them — fifty
+      billion or a hundred billion raised by the tariffs is a childishly inadequate
+      offset to the damage done by what India has done and, finally, what every country
+      on earth is now doing, every business involved in international trade is now doing:
+      they are reassessing. And by the way, that includes American companies, both those
+      located with plants abroad and those here in the United States. Practical profit-maximizing
+      strategy requires you to adjust to a dramatically changing world economy. The
+      rest of the world has not, in most cases, imposed tariffs on the United States,
+      but they could. And if evolution develops in certain directions, they will. And
+      where you locate your business, whom you trade with, whom you buy from, whom you
+      sell to, everyone is recalculating. And in that recalculation, the relative importance
+      of the West is shrinking, and the relative importance of the people who met in
+      Beijing is growing. And the only people who will ignore that are those who are
+      self-destructive, rather than profit-maximizing — as they claim to be. So we are
+      watching a changing world economy, and we’re watching a meeting in Beijing that
+      will be looked back on as a very important milestone. Mr. Trump has accelerated
+      these changes. That’s all. ⁣MICHAEL HUDSON: I want to pick up the point that you
+      were making about the attack on Venezuela, the boat. President Trump provided
+      the framework for why he did it. What he said was, explicitly: This is only the
+      first attack on Venezuela. It’s the opening shot. And there’s been a discussion,
+      as you know, for the last few weeks, about the U.S. plans to invade Venezuela
+      because indeed it does have a threat to the United States. And you have to understand
+      what that threat is. The threat is that Venezuela has oil that is no longer directly
+      controlled by the United States. Control of the world’s oil supply, at least control
+      of the oil supply to the Western satellite countries, is a key to American diplomatic
+      control of their economies, because it’s this control by the eight [seven] sisters
+      — the big American, British, and Dutch oil companies together — that enables the
+      United States to impose sanctions to say: If your country does not do what we
+      want, for instance, if your country does not break off your trade and investment
+      relations with Russia, we’re going to cut off your oil. So I think you have to
+      put the Venezuela attack in the same context as the American destruction of Nord
+      Stream. The United States has already said Trump has put a $50 million bounty
+      on (whoever can kill) Venezuela’s President Maduro. This is not exactly the U.N.
+      Charter’s rule about not interfering with the internal affairs of other countries.
+      The United States has already grabbed Venezuela’s assets; its gold assets that
+      were held in the Bank of England have been grabbed. The United States has grabbed
+      Venezuela’s holdings of distribution and gas station networks in the United States.
+      The United States wants Venezuelan oil because it’s an enormous amount of oil.
+      And the United States has aimed at controlling this oil for the last century.
+      That’s why its refineries are not in Venezuela, but in Trinidad, because that’s
+      separate from Venezuela. The United States has always wanted the ability to put
+      pressure on Venezuela by saying, well, you may have the oil, but who’s going to
+      refine it? Well, here you’re twelve miles away on Trinidad. Well, that’s very
+      separate, and we can control Trinidad and just have our control over you. Think
+      of the imminent attack on Venezuela in the same frame of reference that Trump
+      has said: We must invade Greenland for our own national security. And Greenland
+      has raw materials that the United States wants. It has [a] favorable situation
+      geopolitically in the north to control a large part of the sea trade and the whole
+      Arctic arena. This is what it’s all about. The United States wants to actually
+      invade Venezuela and it, apparently, has been preparing marine forces for an invasion.
+      We don’t know how many. There are various rumors and reports around, but enough
+      reports to say that the plans are all there. And when Trump says this is only
+      the first step, it’s not about the boat. It’s not about drug dealing. If you don’t
+      like another country, if you don’t like socialism, what’s the American translation
+      of socialism? Drug dealing, terrorism. They’re accused of that. Again, the one
+      thing that the United States cannot talk about, as it’s forced to, is neocolonial
+      imperialism. Conquer Venezuela. Conquer Greenland. Just as England, and France,
+      and Germany conquered part of Africa. All of a sudden, we’re put back in history
+      150 years to this. Well, what they cannot talk about — to get back to the SCO
+      and BRICS meetings — is that what the BRICS are doing, what China has done, in
+      creating a mixed economy — well, let’s call it a socialized market economy. This
+      was the original dynamic of industrial capitalism, seeking to rationalize production,
+      minimize waste, and minimize unnecessary costs imposed by rent-extracting classes:
+      the landlords, the monopolists, the banks that did not play a productive role
+      in financing industry. The problem is that America and Europe no longer follow
+      this original 19th-century logic of industrial capitalism. They’re willing to
+      blow up the world if they can’t control it and dominate other countries. That’s
+      what’s an issue in this Venezuela boat attack that was shown, again and again,
+      on network television, the blowing up of the boat. So, maybe the title of this
+      show should be: “Late Stage Barbarism.” That term has been used throughout much
+      of the internet, including guests on your show, Nima, such as Alastair Crooke
+      and others. It’s late stage barbarism and the willingness to attack other countries
+      that the United States and NATO cannot control. That is a setting for what Asia,
+      the BRICS, and the other countries are following to say, let’s look at where the
+      U.S. economy and the European economies went wrong. How do we avoid it (among
+      themselves)? How do we create trade among ourselves, and investment among ourselves,
+      and monetary relations about ourselves, which are not going to lead to the kind
+      of financialization that has destroyed the Western economies, as they’ve taken
+      a long detour away from industrial capitalism, towards finance capitalism and
+      financial polarization and polarizing the economies between creditors and debtors,
+      and imposing a whole overhead of debt service, of land rent, of increasing monopolies?
+      That’s the Western model. And what the BRICS are discussing is: How do we avoid
+      all this? And they’re reinventing the wheel that Britain and Germany and France,
+      and the United States developed in their industrial take-offs in the early 19th
+      century. Well, that’s what can’t be discussed. So instead of spelling it out —
+      by saying, well, we’re no longer in industrial capitalist countries, we’re deindustrializing,
+      and so the only way that we can control other countries is to grab them by military
+      force, whether it’s Venezuelan oil, or Greenland, or Ukraine’s rare earths — well,
+      they just called them, well, they’re drug dealers, they’re belligerent, they’re
+      evil. And this demonization of other countries — as if countries that you can’t
+      control are drug dealers, are ethnically inferior, if they’re Slavic and you’re
+      Ukrainian, or if they’re Hispanic and you’re an American government, a Republican
+      — all of this demonization is to avoid talking about what this world’s split,
+      which we’re seeing taking shape in the last week, is really all about. ⁣RICHARD
+      WOLFF: I wanted to add because there’s an ongoing debate, which begins by recognizing
+      — correctly in my view — that there are also huge differences among the members
+      of the BRICS. That is correct. These are very different countries — different
+      histories, different economic systems, different cultures. It is a very complicated,
+      heterogeneous mass. Number one. It is right now being thrown together by a common
+      enemy. And what is not recognized here in the United States is that the United
+      States is that enemy. That’s why you have this apparently perverse result that
+      the United States wants to do everything to dismiss and to deny the BRICS, and
+      then is confronted by the fact that it is the single most important bringer-together
+      of this heterogeneous [mass]. It’s important also to recognize that, as the world
+      is changing, the way we think about the world economy has to also change now.
+      The 20th century set up the issue, as if it were a great historical struggle between
+      the capitalist system and the socialist system: U.S., U.S.S.R., etc. Those issues
+      raised by capitalism versus socialism, those are still on the table. Those have
+      not been resolved, not in the West, not in the East either. They will play their
+      role. Right now, they are secondary because the key issue motivating world actors
+      and affairs is this break between the dominance of the West and the rise of the
+      East; the decline of the G7 and the rise of the BRICS. And it is perfectly appropriate
+      for us to think about that dynamic, not because it displaces or somehow renders
+      no longer relevant the capitalism–socialism struggle. That struggle is there.
+      It’s right below the surface, and it will come to the surface. It does already
+      now, but it will continue, in one country or another, in one region or another,
+      in one group of striking workers at a factory in — fill in any blank of — any
+      country now in the BRICS. They haven’t overcome those contradictions. Some of
+      their enthusiasts may say so, but that’s naïve. You know, the people who made
+      the transition from feudalism to capitalism, for example, in France: Robespierre,
+      Danton, all of them, they loved to talk about liberty, equality, fraternity, and
+      the struggle of people. They believed if you bring in capitalism, you will get
+      liberty, equality, fraternity, and — add the American Revolution contribution
+      — democracy. Well, the 19th century taught people that you got the capitalism,
+      you did. You buried feudalism, you did. But did you get liberty, equality, fraternity,
+      and democracy? Not at all. And who made that point more powerfully in the 19th
+      century than everybody else? Karl Marx. That’s his contribution. He loved liberty,
+      equality, fraternity, democracy, the French and American revolutions. He said
+      so, over and over again. But he said capitalism is its own obstacle to getting
+      that done. And that was his other great contribution: It’s not external, it’s
+      internal. Well, we have every right to say — and I would argue — that the BRICS
+      is an immensely important break in Western capitalism, challenging all the people
+      who led it, or as Michael says, challenging the whole logic and ideology of capitalism
+      in the 19th century and the 20th. So it’s beyond words important, but it doesn’t
+      remove, or erase, or leave behind those other issues. It just teaches us that
+      while we may have thought the issue in the 20th century was capitalism versus
+      socialism, a lot of other things were going on; and those have now come to the
+      fore, pushed away, pushed into second place, those other issues; they’re not resolved.
+      They will show us in the future that those issues remain on the table. And they
+      will be doing that in China and everywhere else as well. ⁣MICHAEL HUDSON: Well,
+      Richard, you’re quite right in emphasizing what the BRICS was. The BRICS has a
+      variety of political systems and there [are] very heavy neoliberal forces within
+      the BRICS. How do they deal with that? Well, I think the key to these meetings
+      is, although nominally they’re geopolitical meetings that we’ve been seeing in
+      China, the whole meetings were built around this military anniversary of the ending
+      of World War II. It was placed in a military perspective in order to highlight
+      just how important today’s fight is in shaping the next eighty years. Because
+      just like the promise of industrial capitalism — to bring about more equality
+      and raise living standards — ended up taking the detour into monopoly capitalism
+      and finance capitalism, the United Nations agreements and the whole economic order
+      that was devised in 1944 and 1945, that created the UN, and the IMF, and the World
+      Bank has not lived up to its promise at all. And I think President Xi’s speech
+      proclaimed at this meeting that the aim was “a global government initiative.”
+      He’s talking about: How do we make global governments that can be agreed upon
+      in the face of these neoliberal strengths in some countries, in the face of the
+      surviving post-industrial rent-seeking interests, in many of the BRICS countries,
+      and many of the global south countries — how do we deal with it? All that they
+      could deal with, that they set out to do was: Let’s make a set of foundational
+      assumptions for international trade — non-interference, was one of them; equality
+      among different countries; not threatening each other’s national security. Equal
+      economic sovereignty among nations was really what it was all about. Well, how
+      can you have economic sovereignty for the global south countries, for instance,
+      when they have the modern equivalent of what Britain and Europe had: the survival
+      of feudalism, the survival of landlord class, land rent, survival of monopolists?
+      Well, what the global south countries have as their legacy, that’s just as serious
+      as feudalism, is the legacy of foreign ownership of their raw material resources.
+      What Europe — England, Germany, France — what they sought in Africa was not to
+      replicate themselves, not to spread the industrial capitalism that marked the
+      industrial take-off of Europe, but they sought rent-seeking. They sought to create
+      their own rentier economy, very much as much of a straitjacket as feudalism was.
+      They wanted control, they wanted resource rents for oil, for mining, for monopolies
+      in transportation — such as the European investment in canals and railroads —
+      and other basic infrastructure. From the very beginning, European, and then American,
+      investment in the global south took a completely different form than investment
+      in continental Europe and the United States itself. It was all rent-seeking. Well,
+      this is the legacy that the BRICS countries have to deal with because this legacy
+      has created client oligarchies in many of the southern countries. Well, this was
+      a problem that they were worrying about, until last week, about India. Where does
+      India’s sort of mixed economy and mixed geopolitical identity lie? Well, they
+      were able to solve that. They’re going to have to solve this problem, which you
+      point out, of different economic systems throughout the BRICS and global south
+      countries. The only way that they can make a beginning in this is to say: What
+      we can agree upon is dedollarization using each other’s currencies, not the dollar.
+      China is going to create, be the major investor in, an international bank, and
+      create trade relations. That has to be the beginning. How they deal with each
+      other. Before they can deal — now, how do we deal with your domestic economies
+      — so that other countries can follow the same path that China has done in keeping
+      the financial sector as a public utility, to create money and credit for purposes
+      of capital investment and productive lending, instead of predatory corporate takeovers
+      and financial leveraging, and debt pyramiding that you have in the United States?
+      This is what they’re trying to do. I think the focus is on international geopolitical
+      relations before they can then go into the domestic relations. As they work out
+      this geopolitical discussion of, well, how are we going to arrange for the means
+      of payment? What is a productive loan? The structuring of foreign trade and investment
+      has its own momentum in transforming these internal economies to free themselves
+      from the Western neoliberal, rent-seeking, financialized predatory economy that
+      you have here. ⁣NIMA ALKHORSHID: Richard, just to add something to what Michael
+      said: Over the last three years, the United States dollar has lost about 107%
+      of its value related to gold. This is, I think, the main point that Russia and
+      China, and other countries, are trying to build on their economy. The main goal
+      is to build on the value of gold. Go ahead, Richard. Do you want to add? ⁣RICHARD
+      WOLFF: Yeah, I also personally am running out of time, but I just want to add
+      one little point. I think we’re going to see what Michael has just alluded to.
+      We’re going to see — and the whole world will see — how exactly China and the
+      BRICS are going to handle the economic issues that the whole world confronts differently.
+      They’re going to see it, step by step, whether it’s in the attention paid to the
+      climate — how much of your economic development is going to be shaped by taking
+      the climate issues seriously, versus not doing that? It’s already evident. How
+      much of your work is going to be in making sure that the inequality of wealth
+      and income stops increasing and starts tangentially, you know, decreasing, taking
+      deliberate steps? And there’ll be some evidence. And the last one that I think
+      is the one that may do the trick is how you’re going to integrate artificial intelligence.
+      In the West, it is a threat to employment. And the reason for that is that capitalists
+      use AI — if they use it at all, if they install it — because they can fire workers
+      and replace them with AI. If you have a hundred workers doing a task and AI enables
+      them all to do a bit more, you can fire fifty of them, and they can get as much
+      done as the remaining, as they used to take a hundred for. Okay? And you’ll see
+      that. And that’s why there’s the alarmism and the anxiety about employment. But
+      of course, there’s an option. If the AI makes you doubly productive, as in my
+      example, the alternative is that everybody keeps their job but works four hours
+      a day, not eight. Then you get the same output, all the same numbers, the same
+      profit. It’s all the same, but the AI has been used to enhance the leisure of
+      the majority, the working class. Okay, those are the two poles. Fire half the
+      workers, or keep them all and give them a half-time job, paying them the same,
+      because all the numbers work out. The profits are the same, outputs the same,
+      revenues the same, and wages the same. Half the work, same wages. Workers would
+      love it. Well, those are the two poles. You can do anything in between. That’s
+      going to be a decision that more and more countries are likely going to make.
+      And it’s going to separate those who are, in general, serious about the old socialist
+      objectives, and those who are not. And that’s going to become an issue of contention
+      inside every economy. That’s what I mean by saying we haven’t left the world of
+      capitalism versus socialism. We’re actually closer to making that a real struggle
+      — on the ground, every day —than we were. We just didn’t understand it. We thought
+      the struggle was X. It’s actually Y. That’s how I think we should think about
+      the significance of the whole BRICS movement. However, I am sorry. I have another
+      thing. I wish you all well, and I will be ready to go next Thursday without a
+      limit. ⁣NIMA ALKHORSHID: Yeah, thank you, Richard. See you soon. Michael? ⁣MICHAEL
+      HUDSON: Well, I think that Richard has put his finger on the point that, yes,
+      it’s a clash; but not so much between socialism and capitalism, because what does
+      capitalism mean? It’s really between socialism and finance capitalism because,
+      back in the late 19th century, all of the writers in capitalist economies believed
+      that the trajectory of industrial capitalism was going to be toward a mixed economy,
+      and they all used the word socialism. It meant something different, as we’ve talked
+      about, to different people. There were many kinds of socialism: anarchist socialism,
+      libertarian socialism, mutual aid socialism, Christian socialism, John Stuart
+      Mill socialism … tax the landlords, basically, that’s the common denominator of
+      classical economics. And socialism was expected as part of the dynamic of industrial
+      capitalism itself. That all ended after World War I. And you could look at the
+      SCO and BRICS and global south countries; you can look at what’s happened, in
+      the last week, as setting the stage for a resumption of this whole idea of a market
+      economy — a state capitalist economy, a mixed economy, as you have in China, 
+      and as Lenin described in his New Economic Policy of 1921 — you’re always going
+      to need a kind of mixed economy. And you’re also going to need a tax system, tax
+      uniformity among the countries that are doing trade and investment so that the
+      tax system is based on taxing economic rent — that is, unearned income: land rent,
+      monopoly rent, natural resource rent, and financial speculation — by keeping …
+      And there’s always going to be some sort of rent because localities have a better
+      location. There’s always going to be a natural monopoly in the form of basic public
+      infrastructure: transportation, communications, healthcare, and education. These
+      potential rent-extracting sectors are going to be kept in the public domain, kept
+      by finance. And as long as finance is used along with the fiscal system to shape
+      how economies operate, that is going to be what the discussions and arguments
+      and theory of economic development, for the next few generations, is going to
+      be all about. Well, that’s exactly what is not being discussed in the West. But
+      it is being discussed in China, and among the countries that were just meeting
+      in Beijing. So, I think we can look at this as setting the stage, on the one hand,
+      the positive lines that Asia is taking, and drawing in as many of the global south
+      countries as want to join, even if it means moving away from their vested client
+      oligarchies and their own rentier interests that the West has put in power for
+      all of this. And this is, of course, what the whole American fight against Venezuela
+      is, that tried to have a socialist revolution with America saying: We’re going
+      to make socialism so expensive for you in its military overhead, in its sabotage
+      of your economies, that we can then say socialism’s a failure because we are able
+      to destroy socialist economies. Well, the BRICS countries, the Shanghai Cooperation
+      Organization, have said: You are not going to be able to do to our economies what
+      you have just been doing to Venezuela, and what you’re threatening to do to Greenland.
+      We are going to isolate ourselves from you. We’re not going to fight with you.
+      We will defend ourselves if you attack us, as you’re attacking Russia in Ukraine.
+      If you’re attacking us because of the path we’re taking, then, of course, there’s
+      going to be a fight. We don’t want to fight. We just want nothing to do with you.
+      You’re a different system. You’re late-stage barbarism. And we’re going our own
+      way. I think that is what is shaping the next generation globally. ⁣NIMA ALKHORSHID:
+      Thank you so much, Michael, for being with us today. ⁣MICHAEL HUDSON: Thank you
+      for having me, Nima. This was the right discussion to have at this time. Transcription
+      and Diarization: hudsearch Editing: Kimberly Mims Review: ced Photo by Farid Karimi
+      on Unsplash The post From Unipolar Dreams to Dual Systems first appeared on Michael
+      Hudson .'
+    one_sentence_summary: During a discussion on September 4, 2025, Nima Alkhorshid,
+      Richard Wolff, and Michael Hudson reflected on the significant SCO summit in China
+      involving major powers like India, Russia, and China, while also noting Donald
+      Trump's comments on the U.S.'s global influence and its perceived decline under
+      the Biden administration.
+    paragraph_summary: On September 4, 2025, Nima Alkhorchid hosted Richard Wolff and
+      Michael Hudson to discuss the recent Shanghai Cooperation Organization (SCO) summit
+      in China, which included major powers like India, Russia, and China, alongside
+      regional players such as Iran and Central Asian nations. The summit's significance
+      was underscored by its discussions on emerging conflicts, particularly between
+      Armenia and Azerbaijan. Donald Trump commented on the United States' global power,
+      attributing its strength to his administration's policies, including tariffs,
+      which he claimed helped boost the economy and resolve conflicts. Michael Hudson
+      criticized the lack of comprehensive coverage in American and European media regarding
+      the summit, suggesting that reports often framed it as merely a confrontation
+      against the West, rather than addressing its broader implications.
+    published: '2025-09-16T12:24:53+00:00'
+  - title: 'Michael Hudson: Trump attacks Europe, Korea, Japan, forcing them to subsidize
+      & move industry to US'
+    url: https://geopoliticaleconomy.com/2025/09/12/michael-hudson-trump-economic-war-europe-korea-japan/
+    text: 'U.S. cold warriors have failed to prevent Russia, China, Iran, and other
+      members of the Shanghai Cooperation Organization (SCO) from obtaining their economic
+      independence. That means keeping the fruits of their economic growth for themselves,
+      rather than letting it be drained off by U.S. banks, investors, consumers, and
+      the U.S. Treasury through the monetary dollar standard.
+
+
+      Washington’s cold warriors have been unable to stop SCO members from moving forward
+      and becoming independent from U.S. influence. Recognizing that they are unable
+      to prevent this, U.S. policy is focusing now on how to prevent Europe (especially
+      Germany), Japan, and South Korea from becoming industrial rivals and hence threats
+      — while also targeting China and BRICS.
+
+
+      The solution by the U.S. deep state is to turn these longtime allies into neo-colonial
+      dependencies.
+
+
+      The U.S. can’t de-industrialize the SCO or install leaders in Eurasia who put
+      U.S. demands above those of their own economics. But U.S. diplomacy can arm-twist
+      Europe, Japan, South Korea, and other dependencies (such as the ruling DPP party
+      in Taiwan) to relocate their industry to the United States.
+
+
+      These governments are still suffering from Stockholm syndrome after wars that
+      ended in 1945 and 1953.
+
+
+      Trump’s dream of reversing U.S. de-industrialization involves de-industrializing
+      its allies as rivals, turning them into subsidizers of a shrunken unipolar West,
+      forcing them to move their key industries to the United States.
+
+
+      Trump’s focus on economic war against the United States’ own allies
+
+
+      Most discussion of the historic SCO meeting held in September has focused on the
+      rising strength of the group’s multilateral alternative to the attempt by the
+      United States to impose unipolar world control under its own rules.
+
+
+      Trump is calling for other countries to subordinate themselves to U.S. demands,
+      to concentrate all the gains from trade and international investment in Washington’s
+      own hands. China, Russia, and now even India are creating an alternative to this
+      control.
+
+
+      Trump seems to have recognized that he has lost the ability to treat these Eurasian
+      powers in the way that he is controlling Europe and other allies whose political
+      leaders (if not their populations) have remained loyal to the U.S. and stuck in
+      its geopolitical orbit.
+
+
+      But the failure of U.S. strategists to control the SCO and BRICS has by no means
+      diminished Washington’s basic ideal of control. It simply has led U.S. strategists
+      to be realistic enough to narrow the scope of this control to focus on subjecting
+      their own allies in Europe, South Korea, Japan, and Australia.
+
+
+      We can now see the “grand plan” of Trump’s tariff chaos policy
+
+
+      The United States is trying to do what the British colonial empire did in the
+      19th century.
+
+
+      The British and French empires drained the Sterling Area and Franc Area countries,
+      and forced them to finance British or French industry as well as military spending.
+
+
+      The U.S. imperial strategy of control is based on two tactics.
+
+
+      First is to isolate Europe and other neo-colonial countries from the SCO, BRICS,
+      and Global Majority.
+
+
+      The first step was to end Europe’s trade dependency on Russian gas and oil and
+      its increasing trade with China for industrial products. The destruction of the
+      Nord Stream pipelines and the Ukraine War guaranteed this.
+
+
+      This strategy requires making Russia, Iran, and the SCO appear as a military threat
+      – one that needs heavy support for new U.S. cold war defense. The costs are to
+      be paid entirely by Europe, Japan, South Korea, and Australia.
+
+
+      The second tactic of the U.S. imperial strategy is to relocate its allies’ industry
+      to the United States, de-industrializing their economies to rebuild U.S. industrial
+      self-sufficiency and strenghten its balance of payments.
+
+
+      Trump’s over-reaching attempt to control India’s economy quickly drove that nation
+      out of the orbit of U.S. diplomatic dominance. (Although there is still substantial
+      neoliberal support for India to join in the Atlanticist dream.) The question now
+      is whether such demands will have a similar effect on driving other allies out
+      of this U.S. orbit.
+
+
+      This plan seems to have failed. The EU and India announced their intention to
+      create a trade agreement, expanding their mutual trade with each other. The hope
+      is to complete it by the end of the year.
+
+
+      The question is whether Trump will now raise tariffs against the EU as punishment
+      for its refusal to break with India over its purchases of Russian oil.
+
+
+      Trump also has asked Japan to impose tariffs on trade with China and Russia. This
+      would deprive Japan of the Chinese market. If Japan caves into this demand, it
+      is hard to imagine its pro-U.S. Liberal Democratic Party (LDP) retaining power.
+
+
+      The subsidiary question is whether U.S. success in enforcing this control will
+      have the effect of economically weakening its European, East Asian, and English-speaking
+      allies to the point where their ability to remain viable contributors is fatally
+      crippled and will lead to a nationalist reaction to de-dollarize their own economies.
+
+
+      The U.S. conquest of Europe
+
+
+      The most obvious basket case is Europe, especially the most pro-U.S. members —
+      Germany and Britain — where public opinion polls show their populations strongly
+      rejecting their current pro-U.S. puppet leaders.
+
+
+      The most immediate breaking point is the EU’s open-ended submission to U.S. demands
+      considerably beyond what was expected, with the abject surrender to Trump’s tariff
+      threats by EU Commission President Ursula von der Leyen.
+
+
+      Von der Leyen had explained that her surrender was worth it for Europe because
+      at least it provided an environment of “certainty.” But there can be no uncertainty
+      where Trump’s diplomacy is concerned.
+
+
+      Trump pulled a fast trick out of his hat by sharply raising tariffs above the
+      promised 15% base, by dissolving that promise into his broader 50% tariff rates
+      on imported steel and aluminum. These tariffs were to promote U.S. employment
+      (and hence labor union support) in these two basic materials inputs, despite raising
+      costs for all U.S. manufacturers that use these metals in their own products.
+
+
+      This in itself was a crazy reversal of the basic principle of tariff policy: import
+      low-priced raw materials to provide a cost subsidy for the high value-added products
+      of industry. Trump put narrow political symbolism over national self-interest.
+
+
+      What nobody anticipated was that the U.S. Commerce Department would apply these
+      50% steel and aluminum tariffs to European and other foreign industrial imports
+      of motors, tools, and agricultural and construction equipment. The Wall Street
+      Journal quoted the head of Germany’s Mechanical Engineering Industry Association
+      (VDMA), Bertram Kawlath, as warning that “about 30% of U.S. machinery imports
+      from the EU are now subject to 50% tariffs on the metal content of the product,”
+      which creates an “existential crisis” for its industrialists that is so serious
+      that the European Parliament may not approve Trump’s July tariff dictates.
+
+
+      A company producing agricultural harvesting machinery, the Krone Group, laid off
+      100 employees and is reported to be redirecting its exports already being shipped
+      to the United States. The German affiliate of John Deere has been similarly affected,
+      as 20% of its exports are reported as being sold in the United States. The Germans
+      are said to be insisting on the same 15% U.S. tariff limit that Trump extended
+      to pharmaceuticals, semiconductors, and lumber imports.
+
+
+      The effect of Trump’s policy has been to help right-wing nationalist parties,
+      which are gaining support by criticizing the pro-U.S. Atlanticist parties for
+      participating in America’s war against Russia and China, and even picking up the
+      costs of the fighting in Ukraine, the Baltic, and other areas bordering Russia,
+      as well as for extending “Atlantic” protection to mischief-making in the South
+      China Sea.
+
+
+      The U.S. conquest of Korea
+
+
+      U.S. foreign policy has also imposed strains on South Korea and Japan.
+
+
+      After Washington demanded that Korea’s automobile company Hyundai shift production
+      to the United States by investing in a factory in Georgia, the U.S. immigration
+      service ICE descended on the plant under construction and deported some 475 employees
+      (of whom 300 were reported to be Korean) who had been hired to provide the specialized
+      labor.
+
+
+      Hyundai already had invested $20.5 billion in the 2,900-acre complex, and was
+      scheduled to invest another $21 billion between 2025 and 2028, according to the
+      New York Times. The company’s battery maker for its electric cars, LG Energy Solution,
+      had already spent $12.6 billion on production.
+
+
+      Despite this, Trump imposed 25% tariffs on Korean auto exports to the United States,
+      costing Hyundai $600 million in the second quarter of 2025.
+
+
+      Hyundai explained that the workers were highly trained and under the direction
+      of contractors that the company had used in Korea in order to complete the construction
+      speedily, and indeed to avoid the problem of having to deal with the lack of vocational
+      education in the United States needed to supply such labor – not to mention the
+      price differential from using Korean labor familiar with work on such projects.
+
+
+      A South Korean government official told the Financial Times that U.S. policy had
+      put Korean companies in an “impossible position” by sending such labor back to
+      Korea and denying it the kind of working-visa arrangement that was granted to
+      Australia.
+
+
+      For many years, Korea had sought to get equal treatment with workers from Australia,
+      Canada, and Singapore, but was consistently turned down, although the immigration
+      was permitted informally – until September 5, in what turned out to be a long-planned
+      attack by armed ICE troops arresting the immigrants in manacles.
+
+
+      Hyundai and other foreign firms have discovered that investments they make in
+      the United States allow “America First” administrations to use them as hostages,
+      setting and changing the terms of their investment at will, knowing that the foreign
+      investors are not prepared to simply walk away and lose their costly investments.
+
+
+      But countries are being browbeat to make such investments as part of the financial
+      shakedown policy that Trump has adopted.
+
+
+      To avoid having U.S. tariffs raised against South Korea’s automotive imports from
+      15% to 25%, Seoul had to spend tens of billions of dollars to shift production
+      to the United States.
+
+
+      The threat was to crash Korean export income (and hence employment and earnings)
+      if it did not surrender to Trump’s terms – with no military conflict being necessary
+      to impose this trade-peace treaty.
+
+
+      The U.S. economic conquest of Japan (and hopes of re-arming it with atomic weapons)
+
+
+      Trump used a similar bait-and-switch shakedown policy against Japan, threatening
+      to create commercial chaos in its economy by imposing steep tariffs on its trade
+      with the United States if it did not pay $550 billion in protection money for
+      Trump to invest in projects of his own choice, keeping 90% of the profits for
+      himself after Japan was reimbursed for its capital advance.
+
+
+      The Japanese version of the original agreement indicated that the profits would
+      be split, but the U.S. drafted a final version saying that that split would only
+      govern the initial reimbursement of investment by Japan, not the profits, according
+      to the Financial Times.
+
+
+      Such was Japan’s desperation – an abject surrender to U.S. demands, German-style
+      – that it accepted Trump’s tariff deal of “only” charging Japanese exports 15%
+      instead of 25% – the same deal that he had made with South Korea. Japan was given
+      only 45 days to pay up.
+
+
+      The resulting slush fund was a political godsend to Trump, who is now able to
+      exploit it as bait for his leading campaign contributors and supporters, while
+      using the more than half a trillion dollars to help finance his tax giveaway to
+      the wealthiest Americans.
+
+
+      Trump also demanded a kickback on Japanese investment in U.S. steel production
+      by Nippon Steel’s $15 billion purchase of U.S. Steel. The U.S. government received
+      a free golden share of the company’s stock to ensure U.S. control over the company’s
+      operations.
+
+
+      The agreement has remained secret, but the Financial Times obtained a copy, and
+      reported that it
+
+
+      reeks of coercion: a sovereign nation forced to funnel private and public-sector
+      investment to a much richer one under a structure unashamedly directed by the
+      US president. Once Japan recoups its investment, it then reaps only 10 per cent
+      of the cash flows from the project, to America’s 90 per cent. Yes, Japan has nominal
+      input via a consultative committee into which projects are chosen, but there are
+      no Japanese on the more powerful investment committee and it’s Trump who makes
+      the ultimate call. Yes, Japan can elect not to fund an investment, but if it does
+      so the US may impose new tariffs on Japan “at the rate determined by the President”.
+
+
+      The Financial Times reporter added that
+
+
+      a gloating Lutnick, appearing separately on CNBC, denied Japan even the right
+      to make that case at home. Japan, he said, had sought to “buy down” its tariff
+      rate with a deal that he described as “off the rails” and the most fun he had
+      working for this president. Trump, he said, had “complete discretion” over Japan’s
+      investments and would decide where and how he wanted Japanese capital spent in
+      America.
+
+
+      In the wake of the recent SCO and BRICS meetings, it seems unlikely that countries
+      not already closely allied with the U.S. would make any such deals as Germany,
+      South Korea, and Japan have done so far in 2025. These agreements serve as object
+      lessons highlighting the contrast between the U.S.-allied West and the rest of
+      the world.
+
+
+      Alastair Crooke described how:
+
+
+      The default psychological mode of the West will be defensively antagonistic. The
+      U.S. clearly has not been prepared psychologically to go onto any sort of equal
+      footing with these SCO powers. Centuries of colonial superiority have shaped a
+      culture where the only possible model is hegemony and the imposition of pro-Western
+      dependency. To acknowledge China, Russia or India as having ‘detached’ from the
+      ‘Rules-based Order’ and constructed a separated non-western sphere clearly implies
+      accepting the end of western global hegemony. And it means accepting too, that
+      the hegemonic era as a whole is over. The U.S. and European ruling strata are
+      categorically not in the mood for this.
+
+
+      It obviously is not over for America’s relationship with NATO and other new cold
+      war allies. But it is limited to them, and Trump is seeking to extend the U.S.
+      sphere of control to the western hemisphere as a whole – not only Latin America
+      and Canada, but Greenland as well.
+
+
+      The effort needed to lock in their dependency and withstand what one would expect
+      to be nationalistic reactions against such subservience seems to have led U.S.
+      policy to turn away from the conflict with its declared enemies Russia, China,
+      and Iran, at least for the time being.
+
+
+      The great question is whether these abused allies will at some point seek to choose
+      a different set of alliances.
+
+
+      Turkey is a wild card still up for grabs. Likewise for the entire Middle East.
+
+
+      U.S. strategists also still hope to put India back in play, and dream of destabilizing
+      Russia’s economy to bring about regime change.
+
+
+      Where do we go from here?
+
+
+      As an ideological policy threat, the economic logic of SCO and BRICS members is
+      to enact strong government regulation to minimize the rent-seeking and financialization
+      that has led to U.S. deindustrialization.
+
+
+      You can read more about that in this article.'
+    one_sentence_summary: U.S. efforts to maintain global economic dominance have faltered
+      as Russia, China, and other members of the Shanghai Cooperation Organization gain
+      economic independence, prompting a shift in strategy to de-industrialize allied
+      nations like Europe, Japan, and South Korea in order to bolster U.S. industry
+      and control.
+    paragraph_summary: The article critiques U.S. foreign policy, particularly under
+      Trump, arguing that American efforts to maintain control over global economic
+      dynamics have failed, particularly regarding the Shanghai Cooperation Organization
+      (SCO) and BRICS nations, which are gaining economic independence from U.S. influence.
+      Instead of successfully de-industrializing these countries, U.S. policy has shifted
+      to coercing traditional allies like Europe, Japan, and South Korea into becoming
+      neo-colonial dependencies that relocate their industries to the U.S. This strategy
+      involves isolating these nations from the SCO and BRICS while imposing tariffs
+      and economic pressures to ensure they subsidize the U.S. economy. The article
+      suggests that such tactics may backfire, leading to nationalist reactions and
+      a potential reevaluation of alliances among these countries, as they seek to escape
+      U.S. dominance and explore alternative partnerships.
+    published: '2025-09-13T04:37:56+00:00'
+  - title: When Most of the World Says No
+    url: https://michael-hudson.com/2025/09/when-most-of-the-world-says-no/
+    text: 'Glenn Diesen September 2 2025 Eurasian World Order. ⁣GLENN DIESEN: Hi everyone
+      and welcome back. We are joined today by Michael Hudson, one of the world’s great
+      political economists, to discuss the development of a multipolar international
+      economic system indeed being built as we speak in China. So welcome back to the
+      program. ⁣MICHAEL HUDSON: Well, thanks for having me. So many things are happening
+      right now. ⁣GLENN DIESEN: Yeah, it’s incredible how fast the developments are
+      coming. If you want to see how extraordinary this is in a relatively short period
+      of time, look over the past three decades. You remember, at the end of the Cold
+      War, the main foreign policy objective of Russia was to integrate with the West
+      to have a common European home or greater Europe. Then, of course, over the past
+      few decades, NATO expansionism began to push Russia closer and closer to China
+      instead. And after 2014, it really abandoned Greater Europe in favor of what it
+      calls Greater Eurasia. Trump, when he came to power, seemed to recognize this
+      mistake. Almost paraphrasing Henry Kissinger, he said that this was a huge mistake
+      to push Russia into the arms of China. However, then we’ve seen that colossal
+      foreign policy mistake being done: all these threats, tariffs and secondary sanctions
+      against India, now pushing India also towards not just China but Russia. So we
+      now see that we’re all meeting in the Shanghai Cooperation Organization meeting
+      in China and forming new partnerships. So it’s really extraordinary. I was wondering
+      how you read this whole situation. ⁣MICHAEL HUDSON: The interesting thing is that
+      Trump has represented really the deep state in declaring war against the whole
+      rest of the world. The only war that he’s really won is against his own allies,
+      against Europe, Korea, and Japan. He’s driven the rest of the world together.
+      It is this actual neocon warlike belligerence that has somehow unified the rest
+      of the world to take the steps that they’re taking right now, just about a half
+      year after Trump took power. What’s happening is a geopolitical realignment, as
+      you pointed out. And the whole theme of this meeting of the Shanghai Cooperation
+      Organization was global governance. That is what President Xi was saying. And
+      it’s not just the governance of the SCO countries. It’s for all of the countries
+      that have been driven out of the U.S. orbit. The catalyst for all this that set
+      the stage was Trump’s tariffs against India. India’s Prime Minister Modi spent
+      an hour riding in a limousine with President Trump and discussing relations between
+      India and Russia. And Trump basically told India, we’re going to block off the
+      American market for you, and that’s going to create chaos in your economy if you
+      don’t stop importing oil and energy from Russia. Well, what Modi said and explained
+      to the audience was that India’s trade in oil is much more important for its economy
+      than its trade with the United States. Getting oil to power its industry, its
+      whole economy, and to make money in trading with the balance of payments is more
+      important than producing low-wage textile labor and other labor. The labor that
+      the United States companies had hoped to use India as a counterweight to China,
+      whereby they say, we don’t need Chinese labor to make iPhones and other products;
+      we can use Indian labor. All of that is ended. Right after the SCO meetings, we’re
+      going to be leading right into the bigger meetings of BRICS. And the Indian Prime
+      Minister Modi is going to be the head of BRICS for the next year because it’s
+      India’s turn to become the host of BRICS, and they’ll be meeting in India. Just
+      a month before these meetings, everybody was worrying that India was the weak
+      part of, the weak link in, BRICS because it was, in a way, very much like Turkey.
+      It was trying to play both the U.S. world and the China-BRICS world both ways.
+      Trump has closed off the option of siding with the United States, despite the
+      fact that so many Indian billionaires or wealthy businesses are tied to the United
+      States. Modi has realized that the future of India’s economy lies with Russia,
+      China, Iran, and the rest of the BRICS region. All of that was sort of the setting
+      for all of this. And what was made clear, the whole theme of the speeches by Putin
+      and Xi and the others is that we are now 80 years since World War II ended, and
+      the United States had pretty much a free hand in designing the international economic
+      order, the International Monetary Fund, the World Bank, the World Trade Organization,
+      and the Cold War, all on its own terms. These terms promised to be multilateral,
+      and they promised to be the terms that underlay the United Nations Charter. Above
+      all, multipolarity, equal treatment of other countries, not selective tariffs,
+      not sanctions against some countries being told who you can trade with, who you
+      can invest with, and what you have to do. And all of this has been violated at
+      an accelerating rate by the United States neocons in their Cold War. President
+      Xi was the host of these meetings, then they moved to Beijing for the big military
+      parade, I guess, later today in China. This is them saying, we are now going to
+      pick up where 1945 was supposed to lead to an alternative to fascism or Nazism
+      or the militarism of Japan. President Xi was pointing to China’s role in defeating
+      Japan, Russia’s role in defeating Germany and the Axis, and the great sacrifices
+      they made. Despite the fact that, in their [China’s etc.] narrative, they really
+      won the war against the Axis powers, it was the United States that designed the
+      post-war world. The United States, which hired as many Nazi scientists and Nazi
+      politicians as they could in Operation Paperclip – hired them to fight communism
+      in Latin America, in Europe, and other countries – hired their scientists, Wernher
+      von Braun, et cetera, for the U.S. space program. It was the United States that
+      somehow didn’t really end World War II. Now you have in Germany, Chancellor Merz
+      saying, we’re going to re-fight World War II. And this time, the German army is
+      going to beat the Russian army. This is really the setting that has consolidated
+      the BRICS countries. The result is that there is a global fracture that’s occurring,
+      but it’s different from all of the attempts to do that really for the last 70
+      years. In 1954, the non-aligned nations got together in Bandung, Indonesia, and
+      said: We need a fairer and more equitable order that lets us develop and doesn’t
+      stifle our development with foreign debt, with free trade, with preventing us
+      from protecting and subsidizing our own industry. But they really couldn’t do
+      anything about it because they were too small acting by themselves. The non-aligned
+      nations could not go it alone, even together, because they didn’t have the critical
+      mass. What’s changed all this since the 1990s, obviously, has been China. Now
+      China can be the core of this critical mass, largely because of its financial
+      policies, its foreign exchange reserves, its economic power, its export power,
+      and its technological power. And this has enabled, for the first time, countries
+      outside of the U.S. and European orbit – I think we’ve discussed this before –
+      to create an alternative. These meetings at the SCO that are going to be followed
+      by the BRICS meetings in a week or so are all about spelling out exactly how they’re
+      going to restructure this new economic order. And they’re powerful enough to do
+      it this time. It’s obvious that trade is going to be a key in this. The United
+      States is trying to weaponize foreign trade by saying we can force you to follow
+      our political directives, like isolating Russia and China and joining the U.S.
+      Cold War against them by blocking off your access to the United States market.
+      Well, that’s weaponizing it; it’s saying, we can cause chaos to you if you don’t
+      follow our advice. The alternative to this, as I think all of the speakers spelled
+      out in Tianjin, was to trade among each other. If we don’t trade with the United
+      States, we’ll give up the U.S. market. In fact, India has no choice but to give
+      up the U.S. market if Trump’s tariffs are allowed to stand against India. They’ll
+      trade with themselves. That’s what’s become the underlying frame for discussing
+      all of the economic and financial and related changes. It’s a civilizational fight
+      to restructure the whole means of foreign trade and finance. It’s going to de-dollarize
+      that. President Putin pointed out how much more efficient China’s means of trading
+      among themselves in their own domestic currency was than having Russia buy dollars
+      to pay China, for China then to convert the dollars back into its own currency.
+      All of this foreign exchange and the charges for it no longer have to be borne,
+      quite apart from the fact that the United States has weaponized international
+      finance by expelling Russia, China and other countries from SWIFT, the bank clearing
+      operation. Everything that Trump has done to isolate other countries financially,
+      commercially, in trade, and militarily, has had just the opposite effect. It’s
+      driven them together. All that the SCO and BRICS countries and global majority
+      had to do was: well, if we’re going to act together as a unit, how are we going
+      to set the rules of trade, the rules of finance, so that it’s something that will
+      be multilateral, a word that kept coming up, and fair? How do we de-dollarize
+      so that the United States can’t grab our foreign exchange, as it grabbed Russia’s
+      $300 billion, or gold, as the Bank of England grabbed Venezuela’s gold supply
+      or others? You’re having this global fracture spelled out in the way of saying,
+      well, it’s not so much that we’re creating a new type of civilization. We’re picking
+      up civilization, where it was interrupted by the United States Cold War that has
+      transformed finance and trade, in violation of all of the United Nations principles
+      that we were promised at the end of World War II would be subsidized and supported
+      by the United States. That’s basically the framework that has occurred. ⁣GLENN
+      DIESEN: I just read that this morning China and Russia signed an agreement finally
+      on the Power of Siberia 2 massive gas pipeline. Now, it is not gas from the gas
+      fields in the Asian parts of Russia which is being exported. This is from the
+      Yamal Peninsula in the Russian Arctic. And this is a massive amount of gas which
+      will go to China. This was previously intended to be exported to Europe through
+      primarily the Nord Stream and Nord Stream 2 pipelines to Germany. As we know,
+      these pipelines were destroyed. They initially tried to blame the Russians, but
+      then they had to walk this back. Now they’re trying to blame the Ukrainians. But
+      I think most people would assume that the US had something to do with this. But
+      this is just a huge, huge development because it really cements Russia’s pivot
+      from Europe, which it has dreamed of since Gorbachev’s concept of a common European
+      home, all the way to 2014. And then, in 2022, it began to abandon it completely.
+      But now, all of this gas, which was supposed to fuel all these European industries
+      for decades to come, will now instead go to China. I’m just wondering what future
+      historians will say, because the Europeans are still celebrating that they liberated
+      themselves from Russian gas. They don’t have any alternatives, except much, much
+      more, many times more expensive American gas, which might not even be available
+      in the future. It is amazing to see what is happening. ⁣MICHAEL HUDSON: But anyway,
+      there’s no really reversing this because it’s irreversible. Once you make a huge
+      investment like this, you’re not going to say, oh, you know, we wanted at one
+      point to be a European nation. We thought of ourselves as European, but we’re
+      not going to somehow tear down this pipeline and build a new one to Europe. Putin
+      has made it clear that the break with Europe and especially Germany is going to
+      take many decades to be restored. Russia has come to terms with the fact that
+      probably there’s not going to be a reopening of the Nord Stream pipeline to Europe.
+      There could be, but it’s up to Europe. And Europe has really been locked into
+      the U.S. orbit. It’s as if the whole effect of this [new] Cold War, the whole
+      Trump strategy against Russia and China has been to lock Europe into dependence
+      on the United States for liquefied natural gas and especially for one of the bases
+      of its balance of payments, military arms sales. Modi had complained that actually
+      Trump had announced that he had brought pressure on India to buy more American
+      arms. And he’d criticized India for buying Russian weapons. And I don’t think
+      Modi came right out and said, well, our weapons work and your weapons don’t, as
+      we’ve been watching the war in Ukraine unfold. He didn’t say anything, but it’s
+      obvious the fact that the United States has lost India as a major purchaser of
+      its very expensive aircraft and missiles and other military and industrial complex
+      arms. This is a blow to the United States, but it’s locked in Europe to American
+      arms purchases. And the whole Trump tariff deals with Europe have just created
+      such a surrender of the European economy to the United States, locking itself
+      in, denying itself the choice of trading with the BRICS countries, that the Asian
+      countries that are the most rapidly growing economies in the world. You’re having
+      political revolution in Europe, saying, we’ve got to get rid of the ruling parties.
+      We’ve got to have nationalist parties. As you and I have discussed here before,
+      it’s amazing that all of this is still occurring almost entirely on the right
+      wing of the spectrum, not the left wing of the spectrum for nationalism. But at
+      a certain point, Sahra Wagenknecht’s party in Germany and other parties in Britain
+      are going to replace the neocon U.S. parties. But as you said, the irreversible
+      break has already occurred. There’s nothing really that can happen to Europe.
+      The whole identity and structure of how the world is going, most of the world
+      is going to be following the rules decided by China, Russia, India, the BRICS,
+      and the global majority. And they’re going to leave not only the United States
+      isolated, but Europe isolated with it. And in view of the fact that, in the last
+      few days, von der Leyen and Germany and the EU have announced their intent to
+      supply missiles to Ukraine and attack Russia… This is just locking in the irreversibility
+      of isolating Western Europe from the rest of Eurasia. ⁣GLENN DIESEN: I want to
+      ask about the treatment of India because it just seems to be so out of place.
+      Just for context, for me, the critical point was a decade ago. Indeed, I wrote
+      a book a decade ago called Russia’s Geoeconomic Strategy for Greater Eurasia,
+      because 2014 was such a pivotal year. That is, we saw the same time as the West
+      backed this coup in Ukraine, which killed Russia’s hope for a common Europe. This
+      happened around the same time as the Chinese were launching their Belt and Road
+      Initiative by land and sea, the same time that the Chinese were launching this
+      Asian Infrastructure Investment Bank, the same time they were launching China
+      2025 to develop leadership in key technologies. So you saw the format for new
+      technologies, industries, transportation corridors, banks, and different currencies
+      all coming out at the same time in China as they [the west] toppled this government
+      in Ukraine. For me, it was just amazing because for the first time you had a country
+      like China, which had both the capabilities and the preparedness to challenge
+      the US-centric economic system. And this was the time to kill Russia’s dream of
+      being able to integrate with the West. I mean it was… it was kind of extraordinary.
+      If you wanted to sabotage yourself, this is kind of what you would do. And which
+      is why I think the past decade was kind of predictable in many ways. We’ve seen
+      Russia and China kind of leading this Eurasian front in order to develop an alternative
+      economic system. But India was always the wild card because they have a bit of
+      a difficult relationship with China. And of course, they can – not always, but
+      it’s possible that they can – be used by the United States. Indeed, whenever there
+      are some tensions between China and India, there’s a little bit of excitement
+      in the media, that now maybe they will fall in line and join the anti-China bloc.
+      But these kinds of threats against India, I just can’t understand. And it doesn’t
+      appear that Washington’s walking it back. Only today I was watching Navarro make
+      some speeches telling India: you’re not allowed to buy Russian energy or you shouldn’t
+      buy Russian arms. And, you know, we like Modi, but this is unacceptable. I’ve
+      been on several Indian TV shows about politics. And they’re all just amazed. Some
+      think it’s hilarious; others are angry. It’s just, they can’t believe this is
+      real. Why should Washington dictate to India whom it can trade with? It seems
+      absurd, but when you listen to people like Navarro, it’s like the most natural
+      thing. How do you explain this treatment of India? Because this could have been
+      America’s best friend. It’s quite extraordinary. ⁣MICHAEL HUDSON: Well, you use
+      the word unacceptable, and that’s what’s so ironic. It shows that the United States
+      didn’t have any accurate calculation of the costs and benefits of what it was
+      doing. Think of what the word unacceptable meant. (When the United States says,
+      we won’t accept it.) George Bernard Shaw had a story that he was at a party, and
+      some woman came up to him, who was, I think, a yogi. She returned from India and
+      said to him very proudly, I accept the world. And George Bernard Shaw said to
+      her, well, madame, you don’t really have a choice, do you? Well, that’s the situation
+      with the United States. When it says it won’t accept the inevitable, this doesn’t
+      have much effect on reality at all. It’s like King Canute trying to stop the ocean
+      and stop the tides from coming in. It has no effect at all. Most policymakers
+      – in, I think, all of the statements from the beginning of NATO’s war in Ukraine
+      to this week or even today – say that Trump’s strength and his power over the
+      other countries that’s enabled him to announce his Liberation Day tariffs is that
+      other countries need the American market because the disruption is going to be
+      so great that the alternative to joining as allies with the United States is chaos.
+      Well, obviously, in Beijing and Moscow and now New Delhi, they’ve decided: it
+      turns out that our ability to accept a disruption in trade is much better than
+      America’s and Europe’s ability to accept it. That it’s not that hard to replace
+      the American market for these countries. China has already shifted its soybean
+      demand away from the United States 100% to Brazil. The result is that soybean
+      prices are now collapsing in the United States. The agricultural sector, which
+      has been a key political sector in the United States ever since the 1930s, is
+      really suffering as a result of the losing the Chinese market and now other countries
+      that are allied with the BRICS. China, Russia, India, and other countries of the
+      global majority are able to restructure trade among themselves. There’s obviously
+      going to be a short-term cost. There are going to be layoffs. I’m sure that there
+      are many textile companies in India that all of a sudden have had to stop. It
+      may be that today’s ruling by the Supreme Court that Trump’s tariffs are illegal
+      may give hope that, gee, maybe these tariffs will have to be canceled. That’s
+      not going to have any effect at all because you have both the Republicans and
+      the Democrats in Congress completely supporting what Trump is doing. They’ve supported
+      the war against China. So this is not going to lead other countries to say, now
+      we can open our factories again and begin exporting to the U.S. because it’ll
+      all be over once there’s a vote in Congress. Does Congress support America’s war
+      against China? They all do. Certainly, the politicians support it. The American
+      public doesn’t. The polls that are taken show the public wants the same things
+      that President Xi wants and that President Putin wants. They want peace, they
+      want normal trade and prosperity. That’s not what the senators and representatives
+      in Congress of the U.S. want. They want the Cold War, they want poverty, they
+      want inflation, they want a declining dollar. It’s the politicians that are destroying
+      the economy, not either the voters or the business community that’s going to be
+      losing from all this. That’s what’s so amazing in all of this, that the United
+      States is not really acting in its own self-interest. And, apparently, it’s because
+      the CIA and the National Security Council and the Council of Economic Advisors
+      and all of the economists in the government have miscalculated the costs and benefits
+      that are at stake in restructuring this world order. They cannot acknowledge for
+      ideological reasons why China and its allied countries are pulling ahead. They
+      can’t acknowledge that a socialist market economy works better than a financialized
+      belligerent economy that’s running a chronic balance of payments deficit and a
+      government debt as a result of its Cold War. They can’t acknowledge that. ⁣GLENN
+      DIESEN: Well, a lot of the deals which are being made, are primarily economic.
+      I keep making the point that India wouldn’t want to join anything that would be
+      seen as a group against America because their main idea is they want to be able
+      to diversify their ties and trade with everyone. So it’s not a grouping against
+      America, but it’s a grouping protecting themselves from America. That is, if Washington
+      weren’t going against India, India would be much more cautious. But now, what
+      can they really do? I don’t think they would have ever subordinated themselves
+      or capitulated to the demands of Washington. But even if they would, what would
+      have been the rewards? We’ve seen the Europeans do it. They signed any deal Trump
+      put in front of them. Even though the EU said it was a horrible trade deal, they
+      signed it nonetheless. They sat like good schoolboys in front of his desk. They
+      did everything that was asked, hoping that obedience would be rewarded, but it
+      wasn’t. All they did was cut themselves off from Russia, China, Iran, and now
+      possibly India in the future, too. And it’s not actually rewarded. It just makes
+      them more dependent on the U.S., which then weakens their hand even more. So,
+      you know, it would be a kind of foolish assumption to believe that the Indians
+      will go down the same path. ⁣MICHAEL HUDSON: Well, neither President Xi nor President
+      Putin in their speeches made any reference to the United States at all. There
+      was no reference. They’re not expressly describing what they’re doing as opposing
+      the United States in Europe. They’re simply ignoring it. They’re supporting each
+      other. What they’re talking about is: let’s revive the principles that underlay
+      the United Nations: multipolarity, treatment of equals, and no interference in
+      other countries’ affairs. Let’s decide what is an ideal world order that we can
+      all join as part of a win-win situation and not permit any of our member countries
+      to weaponize foreign trade, to weaponize international finance, and to settle
+      our differences on the battlefield instead of by negotiation. They’ve simply ignored
+      the United States. So it’s not that India or any other country that’s joining
+      it is aligning itself against the United States. They’re saying we’re following
+      the basic principles that we think are the principles of civilization itself.
+      And these principles of civilization that have not only been written into United
+      Nations law, but the whole Treaty of Westphalia in 1648 of equality among nations,
+      non-interference with other countries, internal affairs, no regime change or covert
+      assassinations of heads of state, none of this. All they’re talking about is what
+      a wonderful world we’re trying to create. And if other countries don’t want to
+      join it – obviously, the United States and Europe won’t want to join it – they’re
+      just part of another world. They’re outside of civilization, outside of the rule
+      of law. And again and again, President Xi and President Putin talked about an
+      international law binding all against the U.S. rules-based order. They use that
+      fairly often. And these rules that sort of capped the United States efforts in
+      all this. You can just see what the United States has become a model of what the
+      global majority is going to avoid. This global confrontation: Trump’s demand that
+      European companies, Japanese and Korean companies, relocate their automobiles
+      and computers and other major industries to the United States, or they permit
+      U.S. companies to control their leading emerging technologies without having to
+      declare taxable income, without having to pay taxes, such as even the European
+      countries were trying to prevent American companies from doing. The United States
+      foreign policy is based on how we can cause chaos in other countries and hurt
+      their economies so that they’ll have to side with us. Normally, if you’re going
+      to injure and fight against another country, that’s not a way to get them to depend
+      upon you unless you’re ruling by fear and by compulsion. And the whole framing
+      of the future of the SCO and BRICS, as their speakers have announced, is going
+      to be that it’s voluntary because people want mutual gain, not the zero-sum game
+      that Donald Trump sees. U.S. relations will have to be bilateral, country by country,
+      and America has to be the winner, other countries have to be the loser. He said
+      that in his speeches and writings on the internet again and again and again. So,
+      in a way, Trump has spelled out exactly everything that Asia and the global majority
+      want to avoid. And this helps them write up the rules that are going to prevent
+      any country who’s a member of them from being able to do again [what the US does].
+      In that sense, maybe he should win the Nobel Prize. He’s accelerated and catalyzed
+      this creation of a fair and ideal peaceful world. It just doesn’t apply to the
+      United States and Europe. ⁣GLENN DIESEN: Yeah, the same thought struck me, though,
+      that there might be some peace prize, an unintentional one awarded for bringing
+      together all these countries. For example, India and China, who have all these
+      tensions, are now seeing the need to overcome some of these problems in order
+      to create new economic alternatives. What I find fascinating, though, is a lot
+      of this could have been predicted. Indeed, it was predicted in good time. For
+      example, in the scholarly work of people like John Ruggie, who wrote back in the
+      1980s how you would expect the international economic system to develop. He was
+      making the point back then that when there is a huge amount of economic power
+      concentrated in the hegemon, such as the United States, it would have the ability
+      to act as a benign hegemon because simply because it would be in its incentive
+      to deliver a collective good for the international system, that is, to have the
+      rest of the international system trusting its administrative control over the
+      international economy. So, the United States would be able to say, here is your
+      access to key technologies and industries, which are reliable. You have access
+      to transportation corridors under the US Navy’s control, which won’t be disrupted.
+      You have access to the reserve currency, we can all trade with the dollar, your
+      access to global finance, and all of this architecture is under US control. It’s
+      an incentive for the US to keep this open and liberal so the rest of the world
+      can access it. This kind of would be the foundation of an international economic
+      system, which would be considered a benign hegemon. Other countries would trust
+      it; they would be more or less comfortable under US leadership. However, he also
+      made the point then that when the hegemon is in decline, this would no longer
+      work because then the hegemon would likely use its administrative control over
+      the international economy to prevent the rise of rivals. For example, China: the
+      US cut off its access to technologies and industries. It stops Iranian access
+      to transportation corridors and seizes its tankers. It confiscates gold, bans
+      countries from accessing banks and currencies, and suddenly the whole economic
+      system is weaponized and now trust is gone. This will only amplify the need for
+      alternatives. This is where we now are. The United States is apparently pursuing
+      some tributary economy where others have to pay tribute or find a way of extracting
+      industrial power or other wealth from other countries. It’s just very short-term
+      and destructive, and so much trust is being lost. But what I want to get to is,
+      a lot of these deals which are being signed now in China are economic in nature.
+      It’s supposed to form a new international system. But what are the key principles
+      and the way you see it in this system? Because it definitely will not be the rules-based
+      international order, which is not international, not rules-based, and not orderly
+      either. So what are they actually going for? ⁣MICHAEL HUDSON: I’d written what
+      you just described up already in my book, Global Fracture, in 1978. And I think
+      these rules have been spelled out. You mentioned transport. Russia’s Prime Minister
+      Lavrov has described recently in a speech just last month the need “to establish
+      foreign trade mechanisms that the West will be unable to control, such as transport
+      corridors, alternative payment systems, and supply chains.” As an example, he
+      cited how the United States has paralyzed the World Trade Organization by refusing
+      to permit a third judge so that there can’t be a three-judge panel for all of
+      this. The United States only has an ability to block other countries from taking
+      moves. For instance, the U.S. veto single-handedly has blocked the United Nations
+      from denouncing Israel. And you can just follow the results of the U.S. veto power.
+      The United States will not join any organization in which it does not have veto
+      power because it says, that’s letting other countries control our economy. Well,
+      no country is going to have that kind of veto power in the global majority countries.
+      That turns out to have been the Achilles heel of the United Nations, the ability
+      of the U.S. to block things… and simply corruption, the way that it’s corrupted
+      the International Atomic Energy Agency by having Rafael Grossi turn over all of
+      Iran’s atomic energy sites and scientists’ names to Israel to assassinate and
+      to bomb. I mean, Lavrov mentioned a whole bunch of it. As you just pointed out,
+      the world is not to be governed any longer by the unilateral U.S. rules that are
+      subject to desperation. The U.S. is acting in desperation, trying to stop everything.
+      And President Putin described this already in 2022. He was laying the groundwork
+      for what we’re seeing flowering today. He said Western countries have been saying
+      for centuries that they’re bringing freedom and democracy to other nations, yet
+      the unipolar world is inherently anti-democratic and unfree. It is false and hypocritical
+      through and through. Well, that’s about as direct a statement as you can have,
+      and you can see how many people outside the United States have said, the last
+      three years from 2022 to today have just borne that out. We’ve got to have an
+      alternative. And that’s really the point. This is the first time that they’ve
+      been really pushed into spelling out just what the rules of an alternative are.
+      They can’t simply say, we’re going to break from the United States and go it alone.
+      They have to say, what are the rules by which we go it alone? How are we going
+      to set rules to shape how we trade in a fair way with each other and how we finance
+      this foreign trade? China has announced that it’s going to set up a bank that
+      will be able to extend credit to countries that are running deficits with China
+      or paying for China’s investment in these countries to develop the Belt and Road
+      Initiative and the Transportation Initiative that is going to enable them all
+      to produce for each other’s markets instead of for the U.S. and European markets.
+      ⁣GLENN DIESEN: My last question is, this is a very different economic system.
+      Of course, traditionally we only see liberal economic systems function under the
+      British hegemon in the 19th century, and then the American hegemon in the 20th.
+      That doesn’t mean that there haven’t been any alternatives. It’s not that long
+      since the Industrial Revolution and the introduction of capitalism and all that.
+      But in this multipolar system, what are the opportunities as well as the challenges
+      of creating a stable economic system? ⁣MICHAEL HUDSON: Well, what’s so ironic
+      is that what China is doing in its socialist market economy is exactly what the
+      classical economists outlined as the development strategy of industrial capitalism
+      in Britain, France, Germany, and other countries in the early 19th century. It
+      has a mixed economy, which is exactly where the European economies said, we’re
+      going to get rid of all of the monopolies that were created in the feudal Middle
+      Ages to enable kings to raise the money to pay their creditors for the war debts
+      that they took on to fight each other. We’re going to make these public entities
+      so that instead of being monopolies, they can supply basic services, health, education,
+      transportation, and communications, at a subsidized rate to lower the economy’s
+      cost of doing business. That’s what China’s doing, that it’s following the mixed
+      economy. Where China has gone further than the classical economists of the 19th
+      century went is that it’s really controlled finance as a public utility. The creation
+      of money and credit is run by the People’s Bank of China, and it creates credit
+      for purposes of direct tangible capital investment to increase production and
+      to fund investment that will raise living standards, not to make money financially.
+      The whole structure that you’re going to see in the SCO, the BRICS countries,
+      and the global majority is going to be to use banking and finance. Not to fund
+      takeovers of property, not to essentially create credit (especially in real estate)
+      and create real estate bubbles or stock market bubbles or run the economy as a
+      Ponzi scheme. Not the creation of financial wealth in the hands of a narrowing
+      financial sector at the very top of the economic pyramid, whose product is debt,
+      getting the rest of the population into debt for itself and getting monopolies
+      that extract interest, monopoly rent, and all the financial overhead that characterizes
+      the West. But to actually use credit creation and the economic surplus to plow
+      back into overall national production. That’s the way that we’re really moving,
+      into what are described now as the new rules of civilization, but they’re the
+      very rules of civilization that followed naturally from the Industrial Revolution,
+      from the question of how Britain (and European countries) are going to industrialize
+      and make Britain the workshop of the world. Well, we’re going to lower the cost
+      of production, we’re going to get rid of the rent overhead, we’re going to get
+      rid of the landed aristocracy and its demands for ground rent, we’re going to
+      get rid of the monopolies and make them into public utilities. And we’re going
+      to do what Germany and Central Europe were doing, we’re going to redesign banking
+      so that it’s actually going to finance industry, not just finance war debts and
+      predatory debt without regard for the economy’s ability to pay and to carry these
+      debts. ⁣GLENN DIESEN: I know that, on the face of it, it’s almost obligatory for
+      anyone in the West that we should all interpret these developments as something
+      negative, given that this represents a massive power shift from the West to the
+      East. Of course, there’s something to be said about that. On the other hand, it
+      has to also be recognized that the system which these countries are seeking to
+      decouple from seems to have reached the end of the line. That is, as you mentioned,
+      our economies have become excessively financialized. They’re simply not that competitive
+      anymore. The debt has grown to such crazy levels, it’s not sustainable. Trust
+      in this economic system is faltering. The amount of economic inequality has built
+      up, it’s given rise to an oligarchy, which is being very destructive, not just
+      for society, but also for politics, for democracy to function. And as you suggested
+      as well, the addiction to the forever wars. It’s reaching the end of the line,
+      it seems. So at this point in time, it’s strange to me that we have this almost
+      instinctive hostility towards these alternatives emerging. But again, the alternative
+      to what is being done in places such as the Shanghai Cooperation Organization
+      is not to go back to the 1990s or the 1950s. This is already exhausted. It’s gone.
+      I’m a bit confused by this hostility. I saw the German media, the Bild wrote this
+      morning that this was the summit of tyranny or the villains, you know, of rogue
+      nations. It’s just a very strange way of framing these massive historical developments
+      taking place now in the present time. ⁣MICHAEL HUDSON: It’s a class war against
+      socialism, it’s a class war against labor, it’s a Thatcherite/Reaganomics demand
+      for privatization. Just in the last hour that we’ve been talking, Glenn, the US
+      stock market is down. The Treasury bond prices are falling as long-term interest
+      rates are rising. Gold prices have just gone over $3500 an ounce, 100 times their
+      1971 price. You’re seeing the fact that what the West calls democracy is an oligarchy.
+      What it’s attacking as autocracy is a society such as China that aims at raising
+      living standards and preventing the kind of economic polarization between the
+      financial class and the rest of the economy, the indebted economy at large that
+      you’re having in the West. The West for the last century has been following an
+      anti-classical reaction, a fight against the whole ideals of classical economics
+      and of a mixed economy, to essentially fight against government control. It’s
+      a fight by the rentier interests, a fight by the banks backing the landlord class
+      and the monopoly class against all of the reforms that you saw flowering in the
+      19th century before World War I. All this counter-revolution has now ended up
+      tying the United States and Europe in a knot and blocking its development. It’s
+      the rest of the countries that are picking up the development and the trajectory
+      that civilization was going in on the eve of World War I before this whole last
+      century as a long detour of U.S. and European dominance under an increasingly
+      unfair, polarized financial oligarchy. That’s the big picture in my view. ⁣GLENN
+      DIESEN: There’s a lot of depth to what’s happening now. I just wish it deserved
+      some proper discourse in the West. I think it’s just depressing to me that the
+      only way they can refer to what’s happening in China now is a summit of dictators
+      who hate the West and hate freedom and democracy. It’s very intellectually bankrupt,
+      but there we are. Anyway, Michael Hudson, thank you so much for your time, and
+      I hope you can come back on soon. ⁣MICHAEL HUDSON: I love these discussions. They’re
+      the big picture. Thank you for having me. Transcription and Diarization: hudsearch
+      Editing: ton yeh Review: ced Photo by Willian Justen de Vasconcellos on Unsplash
+      The post When Most of the World Says No first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion between Glenn Diesen and political economist
+      Michael Hudson, they explore the rapid development of a multipolar international
+      economic system centered in China, highlighting Russia's shift from seeking integration
+      with the West to fostering closer ties with China in response to NATO expansionism.
+    paragraph_summary: In a recent discussion, Glenn Diesen and political economist
+      Michael Hudson explored the rapid evolution of a multipolar international economic
+      system, particularly centered around China. They reflected on the historical context,
+      noting that after the Cold War, Russia initially sought integration with the West,
+      but NATO's expansionism has since pushed it closer to China, culminating in the
+      concept of Greater Eurasia. Hudson pointed out that former President Trump's foreign
+      policy, which he characterized as a war against global allies, inadvertently united
+      countries like Russia and India against Western pressures, leading to new partnerships
+      exemplified by the Shanghai Cooperation Organization. This shift highlights the
+      unintended consequences of aggressive foreign policies that have fostered greater
+      collaboration among nations outside the Western sphere.
+    published: '2025-09-12T22:57:39+00:00'
+  - title: When Most of the World Says No
+    url: https://michael-hudson.com/2025/09/when-most-of-the-world-says-no/
+    text: 'Glenn Diesen September 2 2025 Eurasian World Order. ⁣GLENN DIESEN: Hi everyone
+      and welcome back. We are joined today by Michael Hudson, one of the world’s great
+      political economists, to discuss the development of a multipolar international
+      economic system indeed being built as we speak in China. So welcome back to the
+      program. ⁣MICHAEL HUDSON: Well, thanks for having me. So many things are happening
+      right now. ⁣GLENN DIESEN: Yeah, it’s incredible how fast the developments are
+      coming. If you want to see how extraordinary this is in a relatively short period
+      of time, look over the past three decades. You remember, at the end of the Cold
+      War, the main foreign policy objective of Russia was to integrate with the West
+      to have a common European home or greater Europe. Then, of course, over the past
+      few decades, NATO expansionism began to push Russia closer and closer to China
+      instead. And after 2014, it really abandoned Greater Europe in favor of what it
+      calls Greater Eurasia. Trump, when he came to power, seemed to recognize this
+      mistake. Almost paraphrasing Henry Kissinger, he said that this was a huge mistake
+      to push Russia into the arms of China. However, then we’ve seen that colossal
+      foreign policy mistake being done: all these threats, tariffs and secondary sanctions
+      against India, now pushing India also towards not just China but Russia. So we
+      now see that we’re all meeting in the Shanghai Cooperation Organization meeting
+      in China and forming new partnerships. So it’s really extraordinary. I was wondering
+      how you read this whole situation. ⁣MICHAEL HUDSON: The interesting thing is that
+      Trump has represented really the deep state in declaring war against the whole
+      rest of the world. The only war that he’s really won is against his own allies,
+      against Europe, Korea, and Japan. He’s driven the rest of the world together.
+      It is this actual neocon warlike belligerence that has somehow unified the rest
+      of the world to take the steps that they’re taking right now, just about a half
+      year after Trump took power. What’s happening is a geopolitical realignment, as
+      you pointed out. And the whole theme of this meeting of the Shanghai Cooperation
+      Organization was global governance. That is what President Xi was saying. And
+      it’s not just the governance of the SCO countries. It’s for all of the countries
+      that have been driven out of the U.S. orbit. The catalyst for all this that set
+      the stage was Trump’s tariffs against India. India’s Prime Minister Modi spent
+      an hour riding in a limousine with President Trump and discussing relations between
+      India and Russia. And Trump basically told India, we’re going to block off the
+      American market for you, and that’s going to create chaos in your economy if you
+      don’t stop importing oil and energy from Russia. Well, what Modi said and explained
+      to the audience was that India’s trade in oil is much more important for its economy
+      than its trade with the United States. Getting oil to power its industry, its
+      whole economy, and to make money in trading with the balance of payments is more
+      important than producing low-wage textile labor and other labor. The labor that
+      the United States companies had hoped to use India as a counterweight to China,
+      whereby they say, we don’t need Chinese labor to make iPhones and other products;
+      we can use Indian labor. All of that is ended. Right after the SCO meetings, we’re
+      going to be leading right into the bigger meetings of BRICS. And the Indian Prime
+      Minister Modi is going to be the head of BRICS for the next year because it’s
+      India’s turn to become the host of BRICS, and they’ll be meeting in India. Just
+      a month before these meetings, everybody was worrying that India was the weak
+      part of, the weak link in, BRICS because it was, in a way, very much like Turkey.
+      It was trying to play both the U.S. world and the China-BRICS world both ways.
+      Trump has closed off the option of siding with the United States, despite the
+      fact that so many Indian billionaires or wealthy businesses are tied to the United
+      States. Modi has realized that the future of India’s economy lies with Russia,
+      China, Iran, and the rest of the BRICS region. All of that was sort of the setting
+      for all of this. And what was made clear, the whole theme of the speeches by Putin
+      and Xi and the others is that we are now 80 years since World War II ended, and
+      the United States had pretty much a free hand in designing the international economic
+      order, the International Monetary Fund, the World Bank, the World Trade Organization,
+      and the Cold War, all on its own terms. These terms promised to be multilateral,
+      and they promised to be the terms that underlay the United Nations Charter. Above
+      all, multipolarity, equal treatment of other countries, not selective tariffs,
+      not sanctions against some countries being told who you can trade with, who you
+      can invest with, and what you have to do. And all of this has been violated at
+      an accelerating rate by the United States neocons in their Cold War. President
+      Xi was the host of these meetings, then they moved to Beijing for the big military
+      parade, I guess, later today in China. This is them saying, we are now going to
+      pick up where 1945 was supposed to lead to an alternative to fascism or Nazism
+      or the militarism of Japan. President Xi was pointing to China’s role in defeating
+      Japan, Russia’s role in defeating Germany and the Axis, and the great sacrifices
+      they made. Despite the fact that, in their [China’s etc.] narrative, they really
+      won the war against the Axis powers, it was the United States that designed the
+      post-war world. The United States, which hired as many Nazi scientists and Nazi
+      politicians as they could in Operation Paperclip – hired them to fight communism
+      in Latin America, in Europe, and other countries – hired their scientists, Wernher
+      von Braun, et cetera, for the U.S. space program. It was the United States that
+      somehow didn’t really end World War II. Now you have in Germany, Chancellor Merz
+      saying, we’re going to re-fight World War II. And this time, the German army is
+      going to beat the Russian army. This is really the setting that has consolidated
+      the BRICS countries. The result is that there is a global fracture that’s occurring,
+      but it’s different from all of the attempts to do that really for the last 70
+      years. In 1954, the non-aligned nations got together in Bandung, Indonesia, and
+      said: We need a fairer and more equitable order that lets us develop and doesn’t
+      stifle our development with foreign debt, with free trade, with preventing us
+      from protecting and subsidizing our own industry. But they really couldn’t do
+      anything about it because they were too small acting by themselves. The non-aligned
+      nations could not go it alone, even together, because they didn’t have the critical
+      mass. What’s changed all this since the 1990s, obviously, has been China. Now
+      China can be the core of this critical mass, largely because of its financial
+      policies, its foreign exchange reserves, its economic power, its export power,
+      and its technological power. And this has enabled, for the first time, countries
+      outside of the U.S. and European orbit – I think we’ve discussed this before –
+      to create an alternative. These meetings at the SCO that are going to be followed
+      by the BRICS meetings in a week or so are all about spelling out exactly how they’re
+      going to restructure this new economic order. And they’re powerful enough to do
+      it this time. It’s obvious that trade is going to be a key in this. The United
+      States is trying to weaponize foreign trade by saying we can force you to follow
+      our political directives, like isolating Russia and China and joining the U.S.
+      Cold War against them by blocking off your access to the United States market.
+      Well, that’s weaponizing it; it’s saying, we can cause chaos to you if you don’t
+      follow our advice. The alternative to this, as I think all of the speakers spelled
+      out in Tianjin, was to trade among each other. If we don’t trade with the United
+      States, we’ll give up the U.S. market. In fact, India has no choice but to give
+      up the U.S. market if Trump’s tariffs are allowed to stand against India. They’ll
+      trade with themselves. That’s what’s become the underlying frame for discussing
+      all of the economic and financial and related changes. It’s a civilizational fight
+      to restructure the whole means of foreign trade and finance. It’s going to de-dollarize
+      that. President Putin pointed out how much more efficient China’s means of trading
+      among themselves in their own domestic currency was than having Russia buy dollars
+      to pay China, for China then to convert the dollars back into its own currency.
+      All of this foreign exchange and the charges for it no longer have to be borne,
+      quite apart from the fact that the United States has weaponized international
+      finance by expelling Russia, China and other countries from SWIFT, the bank clearing
+      operation. Everything that Trump has done to isolate other countries financially,
+      commercially, in trade, and militarily, has had just the opposite effect. It’s
+      driven them together. All that the SCO and BRICS countries and global majority
+      had to do was: well, if we’re going to act together as a unit, how are we going
+      to set the rules of trade, the rules of finance, so that it’s something that will
+      be multilateral, a word that kept coming up, and fair? How do we de-dollarize
+      so that the United States can’t grab our foreign exchange, as it grabbed Russia’s
+      $300 billion, or gold, as the Bank of England grabbed Venezuela’s gold supply
+      or others? You’re having this global fracture spelled out in the way of saying,
+      well, it’s not so much that we’re creating a new type of civilization. We’re picking
+      up civilization, where it was interrupted by the United States Cold War that has
+      transformed finance and trade, in violation of all of the United Nations principles
+      that we were promised at the end of World War II would be subsidized and supported
+      by the United States. That’s basically the framework that has occurred. ⁣GLENN
+      DIESEN: I just read that this morning China and Russia signed an agreement finally
+      on the Power of Siberia 2 massive gas pipeline. Now, it is not gas from the gas
+      fields in the Asian parts of Russia which is being exported. This is from the
+      Yamal Peninsula in the Russian Arctic. And this is a massive amount of gas which
+      will go to China. This was previously intended to be exported to Europe through
+      primarily the Nord Stream and Nord Stream 2 pipelines to Germany. As we know,
+      these pipelines were destroyed. They initially tried to blame the Russians, but
+      then they had to walk this back. Now they’re trying to blame the Ukrainians. But
+      I think most people would assume that the US had something to do with this. But
+      this is just a huge, huge development because it really cements Russia’s pivot
+      from Europe, which it has dreamed of since Gorbachev’s concept of a common European
+      home, all the way to 2014. And then, in 2022, it began to abandon it completely.
+      But now, all of this gas, which was supposed to fuel all these European industries
+      for decades to come, will now instead go to China. I’m just wondering what future
+      historians will say, because the Europeans are still celebrating that they liberated
+      themselves from Russian gas. They don’t have any alternatives, except much, much
+      more, many times more expensive American gas, which might not even be available
+      in the future. It is amazing to see what is happening. ⁣MICHAEL HUDSON: But anyway,
+      there’s no really reversing this because it’s irreversible. Once you make a huge
+      investment like this, you’re not going to say, oh, you know, we wanted at one
+      point to be a European nation. We thought of ourselves as European, but we’re
+      not going to somehow tear down this pipeline and build a new one to Europe. Putin
+      has made it clear that the break with Europe and especially Germany is going to
+      take many decades to be restored. Russia has come to terms with the fact that
+      probably there’s not going to be a reopening of the Nord Stream pipeline to Europe.
+      There could be, but it’s up to Europe. And Europe has really been locked into
+      the U.S. orbit. It’s as if the whole effect of this [new] Cold War, the whole
+      Trump strategy against Russia and China has been to lock Europe into dependence
+      on the United States for liquefied natural gas and especially for one of the bases
+      of its balance of payments, military arms sales. Modi had complained that actually
+      Trump had announced that he had brought pressure on India to buy more American
+      arms. And he’d criticized India for buying Russian weapons. And I don’t think
+      Modi came right out and said, well, our weapons work and your weapons don’t, as
+      we’ve been watching the war in Ukraine unfold. He didn’t say anything, but it’s
+      obvious the fact that the United States has lost India as a major purchaser of
+      its very expensive aircraft and missiles and other military and industrial complex
+      arms. This is a blow to the United States, but it’s locked in Europe to American
+      arms purchases. And the whole Trump tariff deals with Europe have just created
+      such a surrender of the European economy to the United States, locking itself
+      in, denying itself the choice of trading with the BRICS countries, that the Asian
+      countries that are the most rapidly growing economies in the world. You’re having
+      political revolution in Europe, saying, we’ve got to get rid of the ruling parties.
+      We’ve got to have nationalist parties. As you and I have discussed here before,
+      it’s amazing that all of this is still occurring almost entirely on the right
+      wing of the spectrum, not the left wing of the spectrum for nationalism. But at
+      a certain point, Sahra Wagenknecht’s party in Germany and other parties in Britain
+      are going to replace the neocon U.S. parties. But as you said, the irreversible
+      break has already occurred. There’s nothing really that can happen to Europe.
+      The whole identity and structure of how the world is going, most of the world
+      is going to be following the rules decided by China, Russia, India, the BRICS,
+      and the global majority. And they’re going to leave not only the United States
+      isolated, but Europe isolated with it. And in view of the fact that, in the last
+      few days, von der Leyen and Germany and the EU have announced their intent to
+      supply missiles to Ukraine and attack Russia… This is just locking in the irreversibility
+      of isolating Western Europe from the rest of Eurasia. ⁣GLENN DIESEN: I want to
+      ask about the treatment of India because it just seems to be so out of place.
+      Just for context, for me, the critical point was a decade ago. Indeed, I wrote
+      a book a decade ago called Russia’s Geoeconomic Strategy for Greater Eurasia,
+      because 2014 was such a pivotal year. That is, we saw the same time as the West
+      backed this coup in Ukraine, which killed Russia’s hope for a common Europe. This
+      happened around the same time as the Chinese were launching their Belt and Road
+      Initiative by land and sea, the same time that the Chinese were launching this
+      Asian Infrastructure Investment Bank, the same time they were launching China
+      2025 to develop leadership in key technologies. So you saw the format for new
+      technologies, industries, transportation corridors, banks, and different currencies
+      all coming out at the same time in China as they [the west] toppled this government
+      in Ukraine. For me, it was just amazing because for the first time you had a country
+      like China, which had both the capabilities and the preparedness to challenge
+      the US-centric economic system. And this was the time to kill Russia’s dream of
+      being able to integrate with the West. I mean it was… it was kind of extraordinary.
+      If you wanted to sabotage yourself, this is kind of what you would do. And which
+      is why I think the past decade was kind of predictable in many ways. We’ve seen
+      Russia and China kind of leading this Eurasian front in order to develop an alternative
+      economic system. But India was always the wild card because they have a bit of
+      a difficult relationship with China. And of course, they can – not always, but
+      it’s possible that they can – be used by the United States. Indeed, whenever there
+      are some tensions between China and India, there’s a little bit of excitement
+      in the media, that now maybe they will fall in line and join the anti-China bloc.
+      But these kinds of threats against India, I just can’t understand. And it doesn’t
+      appear that Washington’s walking it back. Only today I was watching Navarro make
+      some speeches telling India: you’re not allowed to buy Russian energy or you shouldn’t
+      buy Russian arms. And, you know, we like Modi, but this is unacceptable. I’ve
+      been on several Indian TV shows about politics. And they’re all just amazed. Some
+      think it’s hilarious; others are angry. It’s just, they can’t believe this is
+      real. Why should Washington dictate to India whom it can trade with? It seems
+      absurd, but when you listen to people like Navarro, it’s like the most natural
+      thing. How do you explain this treatment of India? Because this could have been
+      America’s best friend. It’s quite extraordinary. ⁣MICHAEL HUDSON: Well, you use
+      the word unacceptable, and that’s what’s so ironic. It shows that the United States
+      didn’t have any accurate calculation of the costs and benefits of what it was
+      doing. Think of what the word unacceptable meant. (When the United States says,
+      we won’t accept it.) George Bernard Shaw had a story that he was at a party, and
+      some woman came up to him, who was, I think, a yogi. She returned from India and
+      said to him very proudly, I accept the world. And George Bernard Shaw said to
+      her, well, madame, you don’t really have a choice, do you? Well, that’s the situation
+      with the United States. When it says it won’t accept the inevitable, this doesn’t
+      have much effect on reality at all. It’s like King Canute trying to stop the ocean
+      and stop the tides from coming in. It has no effect at all. Most policymakers
+      – in, I think, all of the statements from the beginning of NATO’s war in Ukraine
+      to this week or even today – say that Trump’s strength and his power over the
+      other countries that’s enabled him to announce his Liberation Day tariffs is that
+      other countries need the American market because the disruption is going to be
+      so great that the alternative to joining as allies with the United States is chaos.
+      Well, obviously, in Beijing and Moscow and now New Delhi, they’ve decided: it
+      turns out that our ability to accept a disruption in trade is much better than
+      America’s and Europe’s ability to accept it. That it’s not that hard to replace
+      the American market for these countries. China has already shifted its soybean
+      demand away from the United States 100% to Brazil. The result is that soybean
+      prices are now collapsing in the United States. The agricultural sector, which
+      has been a key political sector in the United States ever since the 1930s, is
+      really suffering as a result of the losing the Chinese market and now other countries
+      that are allied with the BRICS. China, Russia, India, and other countries of the
+      global majority are able to restructure trade among themselves. There’s obviously
+      going to be a short-term cost. There are going to be layoffs. I’m sure that there
+      are many textile companies in India that all of a sudden have had to stop. It
+      may be that today’s ruling by the Supreme Court that Trump’s tariffs are illegal
+      may give hope that, gee, maybe these tariffs will have to be canceled. That’s
+      not going to have any effect at all because you have both the Republicans and
+      the Democrats in Congress completely supporting what Trump is doing. They’ve supported
+      the war against China. So this is not going to lead other countries to say, now
+      we can open our factories again and begin exporting to the U.S. because it’ll
+      all be over once there’s a vote in Congress. Does Congress support America’s war
+      against China? They all do. Certainly, the politicians support it. The American
+      public doesn’t. The polls that are taken show the public wants the same things
+      that President Xi wants and that President Putin wants. They want peace, they
+      want normal trade and prosperity. That’s not what the senators and representatives
+      in Congress of the U.S. want. They want the Cold War, they want poverty, they
+      want inflation, they want a declining dollar. It’s the politicians that are destroying
+      the economy, not either the voters or the business community that’s going to be
+      losing from all this. That’s what’s so amazing in all of this, that the United
+      States is not really acting in its own self-interest. And, apparently, it’s because
+      the CIA and the National Security Council and the Council of Economic Advisors
+      and all of the economists in the government have miscalculated the costs and benefits
+      that are at stake in restructuring this world order. They cannot acknowledge for
+      ideological reasons why China and its allied countries are pulling ahead. They
+      can’t acknowledge that a socialist market economy works better than a financialized
+      belligerent economy that’s running a chronic balance of payments deficit and a
+      government debt as a result of its Cold War. They can’t acknowledge that. ⁣GLENN
+      DIESEN: Well, a lot of the deals which are being made, are primarily economic.
+      I keep making the point that India wouldn’t want to join anything that would be
+      seen as a group against America because their main idea is they want to be able
+      to diversify their ties and trade with everyone. So it’s not a grouping against
+      America, but it’s a grouping protecting themselves from America. That is, if Washington
+      weren’t going against India, India would be much more cautious. But now, what
+      can they really do? I don’t think they would have ever subordinated themselves
+      or capitulated to the demands of Washington. But even if they would, what would
+      have been the rewards? We’ve seen the Europeans do it. They signed any deal Trump
+      put in front of them. Even though the EU said it was a horrible trade deal, they
+      signed it nonetheless. They sat like good schoolboys in front of his desk. They
+      did everything that was asked, hoping that obedience would be rewarded, but it
+      wasn’t. All they did was cut themselves off from Russia, China, Iran, and now
+      possibly India in the future, too. And it’s not actually rewarded. It just makes
+      them more dependent on the U.S., which then weakens their hand even more. So,
+      you know, it would be a kind of foolish assumption to believe that the Indians
+      will go down the same path. ⁣MICHAEL HUDSON: Well, neither President Xi nor President
+      Putin in their speeches made any reference to the United States at all. There
+      was no reference. They’re not expressly describing what they’re doing as opposing
+      the United States in Europe. They’re simply ignoring it. They’re supporting each
+      other. What they’re talking about is: let’s revive the principles that underlay
+      the United Nations: multipolarity, treatment of equals, and no interference in
+      other countries’ affairs. Let’s decide what is an ideal world order that we can
+      all join as part of a win-win situation and not permit any of our member countries
+      to weaponize foreign trade, to weaponize international finance, and to settle
+      our differences on the battlefield instead of by negotiation. They’ve simply ignored
+      the United States. So it’s not that India or any other country that’s joining
+      it is aligning itself against the United States. They’re saying we’re following
+      the basic principles that we think are the principles of civilization itself.
+      And these principles of civilization that have not only been written into United
+      Nations law, but the whole Treaty of Westphalia in 1648 of equality among nations,
+      non-interference with other countries, internal affairs, no regime change or covert
+      assassinations of heads of state, none of this. All they’re talking about is what
+      a wonderful world we’re trying to create. And if other countries don’t want to
+      join it – obviously, the United States and Europe won’t want to join it – they’re
+      just part of another world. They’re outside of civilization, outside of the rule
+      of law. And again and again, President Xi and President Putin talked about an
+      international law binding all against the U.S. rules-based order. They use that
+      fairly often. And these rules that sort of capped the United States efforts in
+      all this. You can just see what the United States has become a model of what the
+      global majority is going to avoid. This global confrontation: Trump’s demand that
+      European companies, Japanese and Korean companies, relocate their automobiles
+      and computers and other major industries to the United States, or they permit
+      U.S. companies to control their leading emerging technologies without having to
+      declare taxable income, without having to pay taxes, such as even the European
+      countries were trying to prevent American companies from doing. The United States
+      foreign policy is based on how we can cause chaos in other countries and hurt
+      their economies so that they’ll have to side with us. Normally, if you’re going
+      to injure and fight against another country, that’s not a way to get them to depend
+      upon you unless you’re ruling by fear and by compulsion. And the whole framing
+      of the future of the SCO and BRICS, as their speakers have announced, is going
+      to be that it’s voluntary because people want mutual gain, not the zero-sum game
+      that Donald Trump sees. U.S. relations will have to be bilateral, country by country,
+      and America has to be the winner, other countries have to be the loser. He said
+      that in his speeches and writings on the internet again and again and again. So,
+      in a way, Trump has spelled out exactly everything that Asia and the global majority
+      want to avoid. And this helps them write up the rules that are going to prevent
+      any country who’s a member of them from being able to do again [what the US does].
+      In that sense, maybe he should win the Nobel Prize. He’s accelerated and catalyzed
+      this creation of a fair and ideal peaceful world. It just doesn’t apply to the
+      United States and Europe. ⁣GLENN DIESEN: Yeah, the same thought struck me, though,
+      that there might be some peace prize, an unintentional one awarded for bringing
+      together all these countries. For example, India and China, who have all these
+      tensions, are now seeing the need to overcome some of these problems in order
+      to create new economic alternatives. What I find fascinating, though, is a lot
+      of this could have been predicted. Indeed, it was predicted in good time. For
+      example, in the scholarly work of people like John Ruggie, who wrote back in the
+      1980s how you would expect the international economic system to develop. He was
+      making the point back then that when there is a huge amount of economic power
+      concentrated in the hegemon, such as the United States, it would have the ability
+      to act as a benign hegemon because simply because it would be in its incentive
+      to deliver a collective good for the international system, that is, to have the
+      rest of the international system trusting its administrative control over the
+      international economy. So, the United States would be able to say, here is your
+      access to key technologies and industries, which are reliable. You have access
+      to transportation corridors under the US Navy’s control, which won’t be disrupted.
+      You have access to the reserve currency, we can all trade with the dollar, your
+      access to global finance, and all of this architecture is under US control. It’s
+      an incentive for the US to keep this open and liberal so the rest of the world
+      can access it. This kind of would be the foundation of an international economic
+      system, which would be considered a benign hegemon. Other countries would trust
+      it; they would be more or less comfortable under US leadership. However, he also
+      made the point then that when the hegemon is in decline, this would no longer
+      work because then the hegemon would likely use its administrative control over
+      the international economy to prevent the rise of rivals. For example, China: the
+      US cut off its access to technologies and industries. It stops Iranian access
+      to transportation corridors and seizes its tankers. It confiscates gold, bans
+      countries from accessing banks and currencies, and suddenly the whole economic
+      system is weaponized and now trust is gone. This will only amplify the need for
+      alternatives. This is where we now are. The United States is apparently pursuing
+      some tributary economy where others have to pay tribute or find a way of extracting
+      industrial power or other wealth from other countries. It’s just very short-term
+      and destructive, and so much trust is being lost. But what I want to get to is,
+      a lot of these deals which are being signed now in China are economic in nature.
+      It’s supposed to form a new international system. But what are the key principles
+      and the way you see it in this system? Because it definitely will not be the rules-based
+      international order, which is not international, not rules-based, and not orderly
+      either. So what are they actually going for? ⁣MICHAEL HUDSON: I’d written what
+      you just described up already in my book, Global Fracture, in 1978. And I think
+      these rules have been spelled out. You mentioned transport. Russia’s Prime Minister
+      Lavrov has described recently in a speech just last month the need “to establish
+      foreign trade mechanisms that the West will be unable to control, such as transport
+      corridors, alternative payment systems, and supply chains.” As an example, he
+      cited how the United States has paralyzed the World Trade Organization by refusing
+      to permit a third judge so that there can’t be a three-judge panel for all of
+      this. The United States only has an ability to block other countries from taking
+      moves. For instance, the U.S. veto single-handedly has blocked the United Nations
+      from denouncing Israel. And you can just follow the results of the U.S. veto power.
+      The United States will not join any organization in which it does not have veto
+      power because it says, that’s letting other countries control our economy. Well,
+      no country is going to have that kind of veto power in the global majority countries.
+      That turns out to have been the Achilles heel of the United Nations, the ability
+      of the U.S. to block things… and simply corruption, the way that it’s corrupted
+      the International Atomic Energy Agency by having Rafael Grossi turn over all of
+      Iran’s atomic energy sites and scientists’ names to Israel to assassinate and
+      to bomb. I mean, Lavrov mentioned a whole bunch of it. As you just pointed out,
+      the world is not to be governed any longer by the unilateral U.S. rules that are
+      subject to desperation. The U.S. is acting in desperation, trying to stop everything.
+      And President Putin described this already in 2022. He was laying the groundwork
+      for what we’re seeing flowering today. He said Western countries have been saying
+      for centuries that they’re bringing freedom and democracy to other nations, yet
+      the unipolar world is inherently anti-democratic and unfree. It is false and hypocritical
+      through and through. Well, that’s about as direct a statement as you can have,
+      and you can see how many people outside the United States have said, the last
+      three years from 2022 to today have just borne that out. We’ve got to have an
+      alternative. And that’s really the point. This is the first time that they’ve
+      been really pushed into spelling out just what the rules of an alternative are.
+      They can’t simply say, we’re going to break from the United States and go it alone.
+      They have to say, what are the rules by which we go it alone? How are we going
+      to set rules to shape how we trade in a fair way with each other and how we finance
+      this foreign trade? China has announced that it’s going to set up a bank that
+      will be able to extend credit to countries that are running deficits with China
+      or paying for China’s investment in these countries to develop the Belt and Road
+      Initiative and the Transportation Initiative that is going to enable them all
+      to produce for each other’s markets instead of for the U.S. and European markets.
+      ⁣GLENN DIESEN: My last question is, this is a very different economic system.
+      Of course, traditionally we only see liberal economic systems function under the
+      British hegemon in the 19th century, and then the American hegemon in the 20th.
+      That doesn’t mean that there haven’t been any alternatives. It’s not that long
+      since the Industrial Revolution and the introduction of capitalism and all that.
+      But in this multipolar system, what are the opportunities as well as the challenges
+      of creating a stable economic system? ⁣MICHAEL HUDSON: Well, what’s so ironic
+      is that what China is doing in its socialist market economy is exactly what the
+      classical economists outlined as the development strategy of industrial capitalism
+      in Britain, France, Germany, and other countries in the early 19th century. It
+      has a mixed economy, which is exactly where the European economies said, we’re
+      going to get rid of all of the monopolies that were created in the feudal Middle
+      Ages to enable kings to raise the money to pay their creditors for the war debts
+      that they took on to fight each other. We’re going to make these public entities
+      so that instead of being monopolies, they can supply basic services, health, education,
+      transportation, and communications, at a subsidized rate to lower the economy’s
+      cost of doing business. That’s what China’s doing, that it’s following the mixed
+      economy. Where China has gone further than the classical economists of the 19th
+      century went is that it’s really controlled finance as a public utility. The creation
+      of money and credit is run by the People’s Bank of China, and it creates credit
+      for purposes of direct tangible capital investment to increase production and
+      to fund investment that will raise living standards, not to make money financially.
+      The whole structure that you’re going to see in the SCO, the BRICS countries,
+      and the global majority is going to be to use banking and finance. Not to fund
+      takeovers of property, not to essentially create credit (especially in real estate)
+      and create real estate bubbles or stock market bubbles or run the economy as a
+      Ponzi scheme. Not the creation of financial wealth in the hands of a narrowing
+      financial sector at the very top of the economic pyramid, whose product is debt,
+      getting the rest of the population into debt for itself and getting monopolies
+      that extract interest, monopoly rent, and all the financial overhead that characterizes
+      the West. But to actually use credit creation and the economic surplus to plow
+      back into overall national production. That’s the way that we’re really moving,
+      into what are described now as the new rules of civilization, but they’re the
+      very rules of civilization that followed naturally from the Industrial Revolution,
+      from the question of how Britain (and European countries) are going to industrialize
+      and make Britain the workshop of the world. Well, we’re going to lower the cost
+      of production, we’re going to get rid of the rent overhead, we’re going to get
+      rid of the landed aristocracy and its demands for ground rent, we’re going to
+      get rid of the monopolies and make them into public utilities. And we’re going
+      to do what Germany and Central Europe were doing, we’re going to redesign banking
+      so that it’s actually going to finance industry, not just finance war debts and
+      predatory debt without regard for the economy’s ability to pay and to carry these
+      debts. ⁣GLENN DIESEN: I know that, on the face of it, it’s almost obligatory for
+      anyone in the West that we should all interpret these developments as something
+      negative, given that this represents a massive power shift from the West to the
+      East. Of course, there’s something to be said about that. On the other hand, it
+      has to also be recognized that the system which these countries are seeking to
+      decouple from seems to have reached the end of the line. That is, as you mentioned,
+      our economies have become excessively financialized. They’re simply not that competitive
+      anymore. The debt has grown to such crazy levels, it’s not sustainable. Trust
+      in this economic system is faltering. The amount of economic inequality has built
+      up, it’s given rise to an oligarchy, which is being very destructive, not just
+      for society, but also for politics, for democracy to function. And as you suggested
+      as well, the addiction to the forever wars. It’s reaching the end of the line,
+      it seems. So at this point in time, it’s strange to me that we have this almost
+      instinctive hostility towards these alternatives emerging. But again, the alternative
+      to what is being done in places such as the Shanghai Cooperation Organization
+      is not to go back to the 1990s or the 1950s. This is already exhausted. It’s gone.
+      I’m a bit confused by this hostility. I saw the German media, the Bild wrote this
+      morning that this was the summit of tyranny or the villains, you know, of rogue
+      nations. It’s just a very strange way of framing these massive historical developments
+      taking place now in the present time. ⁣MICHAEL HUDSON: It’s a class war against
+      socialism, it’s a class war against labor, it’s a Thatcherite/Reaganomics demand
+      for privatization. Just in the last hour that we’ve been talking, Glenn, the US
+      stock market is down. The Treasury bond prices are falling as long-term interest
+      rates are rising. Gold prices have just gone over $3500 an ounce, 100 times their
+      1971 price. You’re seeing the fact that what the West calls democracy is an oligarchy.
+      What it’s attacking as autocracy is a society such as China that aims at raising
+      living standards and preventing the kind of economic polarization between the
+      financial class and the rest of the economy, the indebted economy at large that
+      you’re having in the West. The West for the last century has been following an
+      anti-classical reaction, a fight against the whole ideals of classical economics
+      and of a mixed economy, to essentially fight against government control. It’s
+      a fight by the rentier interests, a fight by the banks backing the landlord class
+      and the monopoly class against all of the reforms that you saw flowering in the
+      19th century before World War I. All this counter-revolution has now ended up
+      tying the United States and Europe in a knot and blocking its development. It’s
+      the rest of the countries that are picking up the development and the trajectory
+      that civilization was going in on the eve of World War I before this whole last
+      century as a long detour of U.S. and European dominance under an increasingly
+      unfair, polarized financial oligarchy. That’s the big picture in my view. ⁣GLENN
+      DIESEN: There’s a lot of depth to what’s happening now. I just wish it deserved
+      some proper discourse in the West. I think it’s just depressing to me that the
+      only way they can refer to what’s happening in China now is a summit of dictators
+      who hate the West and hate freedom and democracy. It’s very intellectually bankrupt,
+      but there we are. Anyway, Michael Hudson, thank you so much for your time, and
+      I hope you can come back on soon. ⁣MICHAEL HUDSON: I love these discussions. They’re
+      the big picture. Thank you for having me. Transcription and Diarization: hudsearch
+      Editing: ton yeh Review: ced Photo by Willian Justen de Vasconcellos on Unsplash
+      The post When Most of the World Says No first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion between Glenn Diesen and political economist
+      Michael Hudson, they explore the rapid development of a multipolar international
+      economic system centered in China, highlighting Russia's shift from seeking integration
+      with the West to fostering closer ties with China in response to NATO expansionism.
+    paragraph_summary: In a recent discussion, Glenn Diesen and political economist
+      Michael Hudson explored the rapid evolution of a multipolar international economic
+      system, particularly centered around China. They reflected on the historical context,
+      noting that after the Cold War, Russia initially sought integration with the West,
+      but NATO's expansionism has since pushed it closer to China, culminating in the
+      concept of Greater Eurasia. Hudson pointed out that former President Trump's foreign
+      policy, which he characterized as a war against global allies, inadvertently united
+      countries like Russia and India against Western pressures, leading to new partnerships
+      exemplified by the Shanghai Cooperation Organization. This shift highlights the
+      unintended consequences of aggressive foreign policies that have fostered greater
+      collaboration among nations outside the Western sphere.
+    published: '2025-09-12T22:57:39+00:00'
+  - title: Trump’s Tariff Wars Hit Europe, Korea & Japan
+    url: https://michael-hudson.com/2025/09/trumps-tariff-wars-hit-europe-korea-japan/
+    text: 'Most discussion of the past week’s SCO and BRICS meetings understandably
+      have focused on the rising strength of their multilateral alternative to America’s
+      attempt to impose its unipolar world control under its own rules calling for other
+      countries’ subordination to U.S. demands to concentrate all the gains from trade
+      and international investment in its own hands. China, Russia and India have established
+      their ability to create an alternative to this control. But that has by no means
+      diminished the basic U.S. ideal of control. It simply has led U.S. strategists
+      to be realistic enough to narrow the scope of this control to focus on subjecting
+      its own allies in Europe, Korea, Japan and Australia. Trump’s over-reaching attempt
+      to control India’s economy quickly drove that nation out of the orbit of U.S.
+      diplomatic dominance. (There is still substantial neoliberal support for India
+      to join in the Atlanticist dream.) The question now is whether such demands will
+      have a similar effect on driving other allies out of this U.S. orbit. And the
+      subsidiary question is whether U.S. success in enforcing this control will have
+      the effect of economically weakening its European, East Asian and English-speaking
+      allies to the point where their ability to remain viable contributors is fatally
+      crippled and will lead to a nationalist reaction to de-dollarize their own economies
+      The most obvious basket case is Europe, especially the most pro-U.S. members Germany,
+      France and Britain whose public opinion polls show their populations strongly
+      rejecting their current pro-U.S. puppet leaders. The most immediate breaking point
+      is the EU’s open-ended submission to U.S. demands considerably beyond what was
+      expected in the abject surrender by EU policy head van der Lehen to Trump’s tariff
+      threats. She had explained her surrender as being worth it for Europe because
+      at least it provided an environment of certainty. But there can be no uncertainty
+      where Trump’s diplomacy is concerned. He has pulled a fast trick out of his hat
+      by sharply raising tariffs above the promised 15% base, by dissolving that promise
+      into his broader 50% tariff rates on imported steel and aluminum. These tariffs
+      were to promote U.S. employment (and hence labor union support) in these two basic
+      materials inputs despite raising costs for all U.S. manufacturers using these
+      metals in their own products. That in itself was a crazy reversal of the basic
+      principle of tariff policy: import low-priced raw materials to provide a cost
+      subsidy for the high value-added products of industry. Trump put narrow political
+      symbolism over national self-interest. What nobody anticipated was that the Commerce
+      Department would apply these 50% steel and aluminum tariffs to European and other
+      foreign industrial imports of motors, tools and agricultural and construction
+      equipment. The Wall Street Journal quotes the head of Germany’s Mechanical Engineering
+      Industry Association (VDMA), Bertram Kawlath, as warning that machinery accounts
+      for some 30% of Germany’s exports to the United States, creating so serious an
+      “existential crisis” for its industrialists that European Parliament may not approve
+      Trump’s July tariff dictates. A company producing agricultural harvesting machinery,
+      the Krone Group, laid off a hundred employees and is reported to be redirecting
+      its exports already being shipped to the United States. The German affiliate of
+      the John Deere has been similarly affected, as 20% of its exports are reported
+      as being sold in the United States. The Germans are said to be insisting on the
+      same 15% U.S. tariff limit that Trump extended to pharmaceuticals, semiconductors
+      and lumber imports. The effect has been to promote nationalist parties gaining
+      support to replace the pro-U.S. Atlanticist parties committed to participating
+      in America’s war against Russia and China, and even picking up the costs of fighting
+      in Ukraine, the Baltic Sea and other areas bordering on Russia as well as extending
+      “Atlantic” protection to mischief making in the China Sea. U.S. foreign policy
+      has also imposed strains on Korea and Japan. Having demanded that Korea’s automobile
+      company Hyundai shift production to the United States by investing in a $30 billion
+      factory in Georgia, the immigration service descended on the plant under construction
+      and deported some 475 employes (of whom 300 were reported to be Korean) who had
+      been hired to provide the specialized labor. Hyundai explained that the workers
+      were highly trained and under the direction of contractors that the company had
+      used in Korea in order to complete the construction speedily and indeed to avoid
+      the problem of having to deal with the lack of vocational education in the United
+      States to supply such labor – not to mention the price differential from using
+      Korean labor familiar with work on such projects. An official at the Korea International
+      Trade Association accused U.S. policy of imposing an “impossible position” by
+      sending such labor back to Korea by denying it the kind of working-visa arrangement
+      that was granted to Australia. For many years Korea had sought to get equal treatment
+      with such white immigrants and with Singapore, but was consistently turned down,
+      although the immigration was permitted informally – until September 5, in what
+      turned out to be a long-planned attack by armed ICE troops arresting the immigrants
+      in other manacles. Hyundai and other foreign firms have discovered that investments
+      they make in the United States provides America First administrations to use them
+      as hostages, setting and changing the terms of their investment at will, knowing
+      that the foreign investors are hardly prepared to simply walk away and lose their
+      costly investments. But countries are being browbeat to make such investments
+      as part of the financial shakedown policy that Trump has adopted: To avoid having
+      U.S. tariffs raised against Korea’s automotive imports from 15% to 25%, Korea
+      had to spend tens of billions of dollars to shift production to the United States.
+      The threat was to crash Korean export income (and hence employment and earnings)
+      if it did not surrender to Trump’s terms – with no military conflict being necessary
+      to impose this trade-peace treaty. Trump used a similar bait-and-switch shakedown
+      policy against Japan, threatening to create commercial chaos in its economy by
+      imposing steep tariffs on its trade with the United States if it did not pay $550
+      billion in protection money for Trump to invest in projects of his own choice,
+      keeping 90% of the profits for himself after Japan was reimbursed for its capital
+      advance. The Japanese version of the original agreement indicated that the profits
+      would be split 50/50, but the U.S. drafted a final version saying that that split
+      would only govern the initial reimbursement of investment by Japan, not the profits.
+      Such was Japan’s desperation – and abject surrender to U.S. demands, German-style
+      – that it accepted Trump’s tariff deal of “only” charging Japanese esports 15%
+      instead of 25% – the same deal that he had made with Korea. Japan was given only
+      45 days to pay up. The resulting slush fund was a political godsend to Trump,
+      who is now able to use it as bait for his leading campaign contributors and supporters,
+      while using the more than half a trillion dollars to help finance his budget’s
+      tax giveaway to the wealthiest Americans. Trump also demanded a kickback on Japanese
+      investment in U.S. steel production by Nippon Steel’s $15 billion purchase of
+      U.S. Steel. The U.S. Government received a free golden share of the company’s
+      stock to ensure U.S. control over the company’s operations In the wake of the
+      recent SCO and BRICS meetings, it seems u unlikely that countries not already
+      closely allied with U.S. control would make any such deals as Germany, Korea and
+      Japan have done so far in 2025. These deals serve as object lessons highlighting
+      the contrast between the U.S.-allied West and the rest of the world. Alaister
+      Crooke on Monday, September 8, described how “The default psychological mode of
+      the West will be defensively antagonistic . … To acknowledge China, Russia or
+      India as having ‘detached’ from the ‘Rules-based Order’ and constructed a separated
+      non-western sphere clearly implies accepting the end of western global hegemony.
+      And it means accepting too, that the hegemonic era as a whole is over. The U.S.
+      and European ruling strata are categorically not in the mood for this.” It obviously
+      is not over for America’s relationship with its NATO and other new Cold War allies.
+      But it is limited to them, and Trump is seeking to extend the U.S. sphere of control
+      to the Western Hemisphere as a whole – not only Latin America and Canada, but
+      Greenland as well. The effort needed to lock in their dependency and withstand
+      what one would expect to be nationalistic reactions against such subservience
+      seems to have led U.S. policy to turn away from the conflict with its declared
+      enemies Russia, China and Iran at least for the time being. The great question
+      is whether these abused allies will at some point seek to choose a different set
+      of alliances. Photo by Jukan Tateisi on Unsplash The post Trump’s Tariff Wars
+      Hit Europe, Korea & Japan first appeared on Michael Hudson .'
+    one_sentence_summary: The recent SCO and BRICS meetings highlight the growing strength
+      of a multilateral alternative to U.S. dominance, particularly as China, Russia,
+      and India assert their influence, while the U.S. refocuses its control efforts
+      on its traditional allies in Europe and Asia.
+    paragraph_summary: The recent meetings of the Shanghai Cooperation Organization
+      (SCO) and BRICS have highlighted the growing strength of these multilateral groups
+      as alternatives to U.S. dominance in global trade and investment, which often
+      seeks to impose its own rules and maintain control over allied nations. While
+      China, Russia, and India have demonstrated their capacity to challenge U.S. hegemony,
+      the U.S. continues to focus on exerting influence over its traditional allies
+      in Europe, East Asia, and Australia. The article discusses how aggressive U.S.
+      strategies, such as those employed during Trump's presidency, have alienated countries
+      like India and may similarly drive other allies away, potentially weakening their
+      economies and prompting a nationalist push towards de-dollarization. Europe, particularly
+      its pro-U.S. nations like Germany, France, and Britain, faces significant public
+      discontent with their leadership's alignment with U.S. demands, raising questions
+      about the future viability of these alliances in the face of increasing geopolitical
+      tensions.
+    published: '2025-09-10T12:20:14+00:00'
+  - title: Trump’s Tariff Wars Hit Europe, Korea & Japan
+    url: https://michael-hudson.com/2025/09/trumps-tariff-wars-hit-europe-korea-japan/
+    text: 'Most discussion of the past week’s SCO and BRICS meetings understandably
+      have focused on the rising strength of their multilateral alternative to America’s
+      attempt to impose its unipolar world control under its own rules calling for other
+      countries’ subordination to U.S. demands to concentrate all the gains from trade
+      and international investment in its own hands. China, Russia and India have established
+      their ability to create an alternative to this control. But that has by no means
+      diminished the basic U.S. ideal of control. It simply has led U.S. strategists
+      to be realistic enough to narrow the scope of this control to focus on subjecting
+      its own allies in Europe, Korea, Japan and Australia. Trump’s over-reaching attempt
+      to control India’s economy quickly drove that nation out of the orbit of U.S.
+      diplomatic dominance. (There is still substantial neoliberal support for India
+      to join in the Atlanticist dream.) The question now is whether such demands will
+      have a similar effect on driving other allies out of this U.S. orbit. And the
+      subsidiary question is whether U.S. success in enforcing this control will have
+      the effect of economically weakening its European, East Asian and English-speaking
+      allies to the point where their ability to remain viable contributors is fatally
+      crippled and will lead to a nationalist reaction to de-dollarize their own economies
+      The most obvious basket case is Europe, especially the most pro-U.S. members Germany,
+      France and Britain whose public opinion polls show their populations strongly
+      rejecting their current pro-U.S. puppet leaders. The most immediate breaking point
+      is the EU’s open-ended submission to U.S. demands considerably beyond what was
+      expected in the abject surrender by EU policy head van der Lehen to Trump’s tariff
+      threats. She had explained her surrender as being worth it for Europe because
+      at least it provided an environment of certainty. But there can be no uncertainty
+      where Trump’s diplomacy is concerned. He has pulled a fast trick out of his hat
+      by sharply raising tariffs above the promised 15% base, by dissolving that promise
+      into his broader 50% tariff rates on imported steel and aluminum. These tariffs
+      were to promote U.S. employment (and hence labor union support) in these two basic
+      materials inputs despite raising costs for all U.S. manufacturers using these
+      metals in their own products. That in itself was a crazy reversal of the basic
+      principle of tariff policy: import low-priced raw materials to provide a cost
+      subsidy for the high value-added products of industry. Trump put narrow political
+      symbolism over national self-interest. What nobody anticipated was that the Commerce
+      Department would apply these 50% steel and aluminum tariffs to European and other
+      foreign industrial imports of motors, tools and agricultural and construction
+      equipment. The Wall Street Journal quotes the head of Germany’s Mechanical Engineering
+      Industry Association (VDMA), Bertram Kawlath, as warning that machinery accounts
+      for some 30% of Germany’s exports to the United States, creating so serious an
+      “existential crisis” for its industrialists that European Parliament may not approve
+      Trump’s July tariff dictates. A company producing agricultural harvesting machinery,
+      the Krone Group, laid off a hundred employees and is reported to be redirecting
+      its exports already being shipped to the United States. The German affiliate of
+      the John Deere has been similarly affected, as 20% of its exports are reported
+      as being sold in the United States. The Germans are said to be insisting on the
+      same 15% U.S. tariff limit that Trump extended to pharmaceuticals, semiconductors
+      and lumber imports. The effect has been to promote nationalist parties gaining
+      support to replace the pro-U.S. Atlanticist parties committed to participating
+      in America’s war against Russia and China, and even picking up the costs of fighting
+      in Ukraine, the Baltic Sea and other areas bordering on Russia as well as extending
+      “Atlantic” protection to mischief making in the China Sea. U.S. foreign policy
+      has also imposed strains on Korea and Japan. Having demanded that Korea’s automobile
+      company Hyundai shift production to the United States by investing in a $30 billion
+      factory in Georgia, the immigration service descended on the plant under construction
+      and deported some 475 employes (of whom 300 were reported to be Korean) who had
+      been hired to provide the specialized labor. Hyundai explained that the workers
+      were highly trained and under the direction of contractors that the company had
+      used in Korea in order to complete the construction speedily and indeed to avoid
+      the problem of having to deal with the lack of vocational education in the United
+      States to supply such labor – not to mention the price differential from using
+      Korean labor familiar with work on such projects. An official at the Korea International
+      Trade Association accused U.S. policy of imposing an “impossible position” by
+      sending such labor back to Korea by denying it the kind of working-visa arrangement
+      that was granted to Australia. For many years Korea had sought to get equal treatment
+      with such white immigrants and with Singapore, but was consistently turned down,
+      although the immigration was permitted informally – until September 5, in what
+      turned out to be a long-planned attack by armed ICE troops arresting the immigrants
+      in other manacles. Hyundai and other foreign firms have discovered that investments
+      they make in the United States provides America First administrations to use them
+      as hostages, setting and changing the terms of their investment at will, knowing
+      that the foreign investors are hardly prepared to simply walk away and lose their
+      costly investments. But countries are being browbeat to make such investments
+      as part of the financial shakedown policy that Trump has adopted: To avoid having
+      U.S. tariffs raised against Korea’s automotive imports from 15% to 25%, Korea
+      had to spend tens of billions of dollars to shift production to the United States.
+      The threat was to crash Korean export income (and hence employment and earnings)
+      if it did not surrender to Trump’s terms – with no military conflict being necessary
+      to impose this trade-peace treaty. Trump used a similar bait-and-switch shakedown
+      policy against Japan, threatening to create commercial chaos in its economy by
+      imposing steep tariffs on its trade with the United States if it did not pay $550
+      billion in protection money for Trump to invest in projects of his own choice,
+      keeping 90% of the profits for himself after Japan was reimbursed for its capital
+      advance. The Japanese version of the original agreement indicated that the profits
+      would be split 50/50, but the U.S. drafted a final version saying that that split
+      would only govern the initial reimbursement of investment by Japan, not the profits.
+      Such was Japan’s desperation – and abject surrender to U.S. demands, German-style
+      – that it accepted Trump’s tariff deal of “only” charging Japanese esports 15%
+      instead of 25% – the same deal that he had made with Korea. Japan was given only
+      45 days to pay up. The resulting slush fund was a political godsend to Trump,
+      who is now able to use it as bait for his leading campaign contributors and supporters,
+      while using the more than half a trillion dollars to help finance his budget’s
+      tax giveaway to the wealthiest Americans. Trump also demanded a kickback on Japanese
+      investment in U.S. steel production by Nippon Steel’s $15 billion purchase of
+      U.S. Steel. The U.S. Government received a free golden share of the company’s
+      stock to ensure U.S. control over the company’s operations In the wake of the
+      recent SCO and BRICS meetings, it seems u unlikely that countries not already
+      closely allied with U.S. control would make any such deals as Germany, Korea and
+      Japan have done so far in 2025. These deals serve as object lessons highlighting
+      the contrast between the U.S.-allied West and the rest of the world. Alaister
+      Crooke on Monday, September 8, described how “The default psychological mode of
+      the West will be defensively antagonistic . … To acknowledge China, Russia or
+      India as having ‘detached’ from the ‘Rules-based Order’ and constructed a separated
+      non-western sphere clearly implies accepting the end of western global hegemony.
+      And it means accepting too, that the hegemonic era as a whole is over. The U.S.
+      and European ruling strata are categorically not in the mood for this.” It obviously
+      is not over for America’s relationship with its NATO and other new Cold War allies.
+      But it is limited to them, and Trump is seeking to extend the U.S. sphere of control
+      to the Western Hemisphere as a whole – not only Latin America and Canada, but
+      Greenland as well. The effort needed to lock in their dependency and withstand
+      what one would expect to be nationalistic reactions against such subservience
+      seems to have led U.S. policy to turn away from the conflict with its declared
+      enemies Russia, China and Iran at least for the time being. The great question
+      is whether these abused allies will at some point seek to choose a different set
+      of alliances. Photo by Jukan Tateisi on Unsplash The post Trump’s Tariff Wars
+      Hit Europe, Korea & Japan first appeared on Michael Hudson .'
+    one_sentence_summary: The recent SCO and BRICS meetings highlight the growing strength
+      of a multilateral alternative to U.S. dominance, particularly as China, Russia,
+      and India assert their influence, while the U.S. refocuses its control efforts
+      on its traditional allies in Europe and Asia.
+    paragraph_summary: The recent meetings of the Shanghai Cooperation Organization
+      (SCO) and BRICS have highlighted the growing strength of these multilateral groups
+      as alternatives to U.S. dominance in global trade and investment, which often
+      seeks to impose its own rules and maintain control over allied nations. While
+      China, Russia, and India have demonstrated their capacity to challenge U.S. hegemony,
+      the U.S. continues to focus on exerting influence over its traditional allies
+      in Europe, East Asia, and Australia. The article discusses how aggressive U.S.
+      strategies, such as those employed during Trump's presidency, have alienated countries
+      like India and may similarly drive other allies away, potentially weakening their
+      economies and prompting a nationalist push towards de-dollarization. Europe, particularly
+      its pro-U.S. nations like Germany, France, and Britain, faces significant public
+      discontent with their leadership's alignment with U.S. demands, raising questions
+      about the future viability of these alliances in the face of increasing geopolitical
+      tensions.
+    published: '2025-09-10T12:20:14+00:00'
   - title: 'Eurasia realigns in face of late-stage barbarism: Michael Hudson on new
       post-Western world order'
     url: https://geopoliticaleconomy.com/2025/09/09/eurasia-sco-michael-hudson-post-western-world-order/

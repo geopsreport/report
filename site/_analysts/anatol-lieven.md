@@ -8,14 +8,106 @@ websites:
   - https://responsiblestatecraft.org/author/alieven/
   - https://quincyinst.org/author/anatol-lieven/
 summary: |
-  The European security landscape remains highly volatile as France pushes for a new military "reassurance force" for Ukraine, even as its own government faces deep internal turmoil. This initiative, discussed at the recent Paris summit, is overshadowed by France’s political crisis and the broader instability gripping Western Europe. **Anatol Lieven** notes that France’s stagnant economy, rising debt, and fractured parliament mirror a wider pattern of unrest across the continent, casting doubt on Europe’s ability to deliver meaningful military support to Ukraine.
+  The European security landscape remains tense as recent Russian drone incursions into Polish airspace have underscored both the vulnerabilities of NATO’s eastern flank and the necessity for measured responses. According to **Anatol Lieven**, these drone overflights are best interpreted as provocative warnings rather than precursors to direct military action. He cautions that “panic and escalation would serve neither Poland nor the wider alliance,” emphasizing the importance of restraint to avoid unintended conflict with Russia.
   
-  Amid these challenges, the Trump administration’s evolving stance on Ukraine continues to shape diplomatic efforts. Recent meetings between President Trump and European leaders produced a tentative agreement on security guarantees for Ukraine, but the lack of clarity on military commitments and Russia’s firm opposition to NATO involvement leave the process fraught with uncertainty. **Anatol Lieven** emphasizes that “loose, abstract talk of ‘guarantees’ could sink Ukraine peace,” underlining the need for concrete, realistic terms if negotiations are to succeed.
+  Meanwhile, France’s ongoing political and economic crisis continues to cast doubt on the viability of European military initiatives. The government in Paris, already beset by public discontent and a fragmented parliament, is pressing ahead with plans for a “reassurance force” for Ukraine. However, as **Lieven** notes, “the ability of France and other European states to sustain such deployments is increasingly questionable,” given their internal divisions and fiscal constraints. This instability is mirrored across much of Western Europe, where rising radical parties and unpopular austerity measures threaten to undermine transatlantic unity.
   
-  Meanwhile, the EU’s campaign against Russia’s “shadow fleet” of oil tankers has escalated, with Sweden leading efforts to inspect and potentially seize suspect vessels. This move increases the risk of direct confrontation with Russia, and **Anatol Lieven** warns that “the need for U.S. involvement and caution in navigating these escalating tensions” is greater than ever.
+  On the diplomatic front, the U.S. remains central to any prospective settlement in Ukraine. While President Trump’s administration has shifted toward proposing concrete terms for peace—including recognition of Russian control over Crimea and Donbas—there is little sign that either Kyiv or Moscow is prepared to compromise. The latest exchanges between the two sides, as reported by **Lieven**, reveal “deep incompatibilities” and a lack of genuine interest in immediate peace. Without robust U.S. mediation and a comprehensive plan, the conflict is likely to persist.
   
-  Looking ahead, the prevailing view among analysts is that Europe’s internal divisions and economic woes will continue to undermine its capacity for unified action. The Trump administration is likely to press for a comprehensive peace plan that addresses both Ukrainian and Russian security concerns, but the prospects for a swift resolution remain dim. There is a high chance that, absent substantial U.S. intervention and a clear diplomatic roadmap, the conflict will persist in a dangerous stalemate.
+  **Trends and Predictions:**  
+  The prevailing trend is one of heightened tension but limited escalation, with most actors seeking to avoid direct confrontation. European political instability is set to further constrain military support for Ukraine, and the prospects for a negotiated settlement remain dim in the absence of significant U.S. intervention. Given current dynamics, I guarantee that the risk of a major NATO-Russia conflict remains low, but the Ukraine war will most definitely continue in its current, unresolved state for the foreseeable future.
 articles:
+  - title: Russian drones over Poland no reason to panic and start a war
+    url: https://responsiblestatecraft.org/russian-drones-over-poland/
+    text: 'It seems unlikely that the handful of Russian drones that entered Polish
+      air space did so accidentally.
+
+
+      There have been previous incidents, but they involved individual drones very close
+      to the Ukrainian border. Yesterday there were over a dozen, according to reports,
+      with debris landing in several cities, including hitting one house, after NATO
+      was scrambled to shoot them down.
+
+
+      It is appropriate therefore that under Article 4 of the NATO Treaty, NATO members
+      consulted over this and responded.
+
+
+      This was however not an "attack." None of the drones hit a significant target,
+      or seem to have been intended to do so. The Russian move was most likely intended
+      as a warning to the European "coalition of the willing" to abandon its hopes of
+      establishing a "reassurance force " in Ukraine, and add weight to President Putin''s
+      statement that such a force would automatically be subject to Russian attack .
+
+
+      It was probably also a warning to the U.S. not to provide air cover or a "backstop"
+      for such a force.
+
+
+      We should remember that during the Cold War, there were a number of far more serious
+      violations of air space by both sides, some of them leading to NATO planes being
+      shot down and American and British airmen killed. These incidents led not to threats
+      of war, but careful attempts to de-escalate tensions and develop ways to avoid
+      such clashes.
+
+
+      There are two ways of looking at this, and they are not mutually exclusive. On
+      the one hand, it was undoubtedly a provocative act by Russia, which has provided
+      the opportunity for more hysterical outbursts by Western hawks about alleged Russian
+      plans to attack NATO, more calls for increased aid to Ukraine, and more allegations
+      that “Russia does not want peace” (it does, but — just like Ukraine — on terms
+      that meet its basic conditions).
+
+
+      On the other hand, the immediate European response is a reminder of the extent
+      of European (though not Polish) military weakness, and that any European force
+      in Ukraine would be utterly dependent on US support and guarantees.
+
+
+      Thus while the British defense secretary John Healey responded by warning of a
+      "new era of threat" and promising to defend Poland, he also revealed that Britain
+      has only 300 troops in Poland; its previous contingent of precisely six Typhoon
+      fighter jets were withdrawn in July, and its Sky Sabre air defense system in Poland
+      was removed last year for maintenance and has not yet returned.
+
+
+      So when Healey told the "E5" group (the UK, France, Germany, Italy and Poland)
+      that he had asked the British armed forces “to look at options to bolster NATO’s
+      air defence over Poland,” those options would seem extremely limited, and would
+      also probably require reducing military supplies to Ukraine.
+
+
+      Amidst wild ravings from Poland and some British commentators (including calls
+      for an “Article 5 response” - i.e. war), former NATO Deputy Commander General
+      Sir Adrian Bradshaw struck a sensible note , which the U.S. and European governments
+      would do well to follow:
+
+
+      “The point of the consultations is to do things which lower the tension and lower
+      the potential for a slide into conflict, which none of us want. And it’s reasonable
+      to assume that even Mr. Putin doesn’t want a conflict between the whole of NATO
+      and Russia, because it would be disastrous for all of us. So we need to bear that
+      in mind, but be seen to act with resolve...[I]f we don’t want to escalate in the
+      military domain, then we must do so in the economic, political and diplomatic
+      domains."'
+    one_sentence_summary: The recent incursion of Russian drones into Polish airspace,
+      likely a provocative warning rather than an attack, highlights both the military
+      vulnerabilities of European nations and the need for a measured response to avoid
+      escalating tensions with Russia.
+    paragraph_summary: Recent incursions of Russian drones into Polish airspace, which
+      resulted in debris landing in various cities, have raised concerns among NATO
+      members, prompting consultations under Article 4 of the NATO Treaty. While these
+      incidents are provocative and likely intended as warnings to deter Western military
+      support for Ukraine, they do not constitute an outright attack, as none of the
+      drones targeted significant locations. The situation highlights the military vulnerabilities
+      of European nations, particularly Poland, which relies heavily on U.S. support.
+      British Defense Secretary John Healey's response, while emphasizing the need for
+      defense, reveals limited military resources available to bolster NATO's air defense.
+      Amidst calls for heightened military responses, former NATO Deputy Commander General
+      Sir Adrian Bradshaw advocates for de-escalation and a focus on economic, political,
+      and diplomatic measures to avoid conflict, suggesting that even Russia may not
+      desire a full-scale war with NATO.
+    published: '2025-09-10T17:09:33+00:00'
   - title: France plans risky military deployment while govt is in tatters
     url: https://responsiblestatecraft.org/ukraine-coalition-of-the-willing/
     text: 'The choice of Paris as the venue for a summit of the European “coalition

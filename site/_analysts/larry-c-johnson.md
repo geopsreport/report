@@ -7,16 +7,1342 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  Amid ongoing global instability, recent developments highlight escalating tensions in the Middle East, persistent economic maneuvering between major powers, and shifting alliances that continue to reshape the international order.
+  The geopolitical landscape remains turbulent as new developments continue to reshape alliances and challenge established narratives. In the aftermath of Charlie Kirk’s assassination, debate has intensified over the circumstances of his death, while the Middle East witnesses a significant diplomatic realignment, and global economic power continues to shift toward China and Russia.
   
-  The most significant new development centers on the deepening crisis between Israel, the United States, and Hamas. According to **Larry C. Johnson**, the US and Israel are now working in concert to undermine negotiations with Hamas, with Johnson characterizing Israel as a principal perpetrator of terrorism and the US as an unreliable diplomatic partner. This coordinated approach, he argues, is fueling instability and diminishing prospects for a negotiated settlement. Johnson’s assessment suggests that the current trajectory will only intensify the conflict, with little hope for de-escalation unless external actors intervene. He states, “Israel is out of control… Who will stop the Zionists?”—a rhetorical question that underscores the lack of effective checks on Israeli actions in the region.
+  The most recent update focuses on the controversy surrounding the fatal shooting of Charlie Kirk, founder of Turning Point USA. Contrary to widespread claims that Kirk was shot from behind, **Larry C. Johnson** presents expert analysis and visual evidence indicating the shot came from the front. This finding undermines earlier narratives and suggests the need for a reassessment of both the investigation and the motives behind the attack. Johnson’s analysis is supported by forensic documentation, adding weight to calls for transparency and accuracy in reporting on high-profile political violence.
   
-  On the economic front, the US administration under Donald Trump continues to pursue aggressive sanctions against Russia, particularly targeting its oil and gas exports to China and India. However, **Larry C. Johnson** critiques this strategy, pointing out that US Treasury Secretary Scott Bessent’s belief in the imminent collapse of the Russian economy is misguided. Johnson emphasizes the resilience of Russia’s economic ties with China and India, arguing that sanctions are unlikely to achieve their intended effect. He notes, “Bessent misunderstands the resilience of Russia’s economy and its strategic relationships.” This reflects a broader skepticism among analysts regarding the efficacy of US economic pressure in the current multipolar environment.
+  Meanwhile, the Middle East is experiencing a notable diplomatic shift. The emergency Arab-Islamic summit in Doha brought together Iranian President Masoud Pezeshkian and Saudi Crown Prince Mohammed bin Salman, as well as other regional actors, including a rebranded former ISIS leader. The summit was convened in response to Israel’s attack on Hamas negotiators and is widely interpreted as a rebuff to US diplomatic efforts in the region. **Larry C. Johnson** notes that the summit’s collaborative tone among former adversaries signals a growing willingness among Arab and Islamic states to coordinate independently of Washington, particularly in response to Israeli actions.
   
-  Meanwhile, India’s response to US tariffs—specifically those imposed on its oil purchases from Russia—has been to reduce its holdings of US Treasury bills and increase gold reserves. This move, as reported by **Larry C. Johnson**, signals a growing rift between Washington and New Delhi, and a broader trend of countries seeking alternatives to the US dollar in global trade. The shift is seen as a hedge against future US economic coercion and an indicator of India’s intent to assert greater financial independence.
+  On the global economic front, China’s trade with Africa has surged, with exports projected to exceed $200 billion in 2025. This robust growth stands in stark contrast to declining US orders and complicates President Trump’s attempts to pressure China into distancing itself from Russia. According to **Larry C. Johnson**, this trend “most definitely” signals a turning tide in economic and political influence, favoring China and Russia while spelling increasing difficulties for the West and Ukraine.
   
-  In summary, the prevailing trends point to a world in which US influence is increasingly contested, both diplomatically and economically. The majority of independent analysis, as reflected in Johnson’s reporting, suggests that current US and Israeli policies are likely to exacerbate rather than resolve existing conflicts. Looking ahead, I guarantee that unless there is a dramatic shift in strategy from Washington or Tel Aviv, the Middle East will see further escalation. There is a high chance that US sanctions will fail to destabilize Russia, and it is quite likely that more countries will follow India’s lead in diversifying away from US financial instruments.
+  In summary, the latest developments indicate a deepening fracture in US influence both in the Middle East and the global economy. The Doha summit marks a high-confidence trend toward greater regional autonomy and cooperation against US and Israeli policies. Simultaneously, the economic realignment toward China and Russia is accelerating, with high confidence that this will continue to erode Western leverage in the near term. The controversy over Charlie Kirk’s assassination remains unresolved, but new forensic evidence is likely to intensify scrutiny of official narratives and could have broader implications for domestic political tensions in the US.
 articles:
+  - title: Debunking A False Claim About the Shot that Killed Charlie Kirk
+    url: https://sonar21.com/debunking-a-false-claim-about-the-shot-that-killed-charlie-kirk/
+    text: 'I was hesitant to write this because I do not want to feed the prurient interest
+      of the just-curious. However, there is a lot of bad information and wild speculation
+      being published and I want to present you with some video and photographic evidence
+      that debunks one of these claims. I am particularly addressing the claim that
+      Charlie Kirk was shot from behind. That is not true. The shot that killed Mr.
+      Kirk came from the front, and I will prove that. In reaching these conclusions
+      I consulted with one of my students who served as a Navy corpsman in combat and
+      who also was a certified US Marine Corps sniper. Let’s start with the shockwave
+      of the bullet. A bullet moving through the air at a supersonic speed creates a
+      shadow in the air as pictured in the photo at the top of this article. I am posting
+      the full video of the examination of supersonic versus sub-sonic rounds, i.e.,
+      a supersonic round travels at a speed greater than 1,125 feet-per-second. The
+      bullet that killed Charlie Kirk was a supersonic round. I will post below the
+      link to the video that I used to copy the still images that appear in this post
+      (WARNING: The video is graphic and disturbing; I do not earn any money from people
+      watching the video). This is the image showing the moment before Charlie is shot.
+      Note the lettering on the front of his T-shirt. The next seven images represent
+      a total elapsed time of 1 second, but a lot happened in that brief moment in time.
+      In the next photo, Charlie’s head pitches forward slightly — down and to the left
+      — as his T-shirt climbs upwards. This is the moment the shockwave and the bullet
+      hit him. It is the compressed air from the shockwave that moves the T-shirt upwards,
+      as you can see from the lettering. Punch yourself in the neck over the carotid
+      artery and see which way your head moves if you want to verify that a strike to
+      that part of the neck will result in the head moving forward. The next image shows
+      the T-shirt still moving upwards and Charlie’s head continuing to move down and
+      to the left. In the next image, the shockwave has passed and the T-shirt returns
+      to normal. This image alone proves that the shot came from the front. A shot from
+      behind would not have produced this movement in the T-shirt. Notice also that
+      Charlie’s head is starting to move upwards. This image also disproves the claim
+      made by some that the wound to Charlie’s throat was an exit wound. If it had been
+      an exit wound, you would see a spray of blood moving away from Charlie in line
+      with such a bullet. That did not happen. In the next photo, you can see the start
+      of the flow of blood from the entrance wound and, if you look closely at the left
+      arm, the start of a muscular/neurological reaction to the bullet, which is striking
+      on or near the cervical spinal cord. Even if the bullet did not hit the spinal
+      cord directly, the shockwave from the bullet carries sufficient force to cause
+      neurological impairment. In the next moment, the blood flow increases and Charlie’s
+      body begins to stiffen dramatically, as he starts moving to the left. Charlie’s
+      arms continue to move upwards, but in a stiff, unnatural motion. In this final
+      frame, the blood rushing from the shattered carotid artery is akin to a flash
+      flood and Charlie’s body continues to move to the left. If you want to see the
+      video so that you can understand how quickly all of this happened, click here
+      . I also want to show you a video that demonstrates that it is not difficult to
+      hide a Mauser rifle with a scope in your pants leg and move around. The man in
+      the video places the rifle in his right pants leg and then proceeds to walk, including
+      walking uphill to simulate climbing stairs. If you are offended by this article,
+      I apologize. But I think it is important that people have accurate information.
+      Killing someone just because you do not like their words is a criminal, evil act.
+      I think that principle applies to international affairs as well as to individuals.
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article aims to debunk the claim that Charlie Kirk was
+      shot from behind, providing evidence that the fatal shot actually came from the
+      front, supported by expert analysis and visual documentation.
+    paragraph_summary: The article addresses and debunks the claim that Charlie Kirk
+      was shot from behind, asserting that the fatal shot actually came from the front.
+      The author, who consulted with a knowledgeable student with military experience,
+      presents photographic and video evidence to support this conclusion. They explain
+      the mechanics of a supersonic bullet's shockwave, which can be observed in images
+      showing the moment before and after the shooting, including how the impact affected
+      Kirk's body posture. The article emphasizes the importance of accurate information
+      amidst rampant speculation and misinformation surrounding the incident.
+    published: '2025-09-17T02:46:18+00:00'
+  - title: Debunking A False Claim About the Shot that Killed Charlie Kirk
+    url: https://sonar21.com/debunking-a-false-claim-about-the-shot-that-killed-charlie-kirk/
+    text: 'I was hesitant to write this because I do not want to feed the prurient interest
+      of the just-curious. However, there is a lot of bad information and wild speculation
+      being published and I want to present you with some video and photographic evidence
+      that debunks one of these claims. I am particularly addressing the claim that
+      Charlie Kirk was shot from behind. That is not true. The shot that killed Mr.
+      Kirk came from the front, and I will prove that. In reaching these conclusions
+      I consulted with one of my students who served as a Navy corpsman in combat and
+      who also was a certified US Marine Corps sniper. Let’s start with the shockwave
+      of the bullet. A bullet moving through the air at a supersonic speed creates a
+      shadow in the air as pictured in the photo at the top of this article. I am posting
+      the full video of the examination of supersonic versus sub-sonic rounds, i.e.,
+      a supersonic round travels at a speed greater than 1,125 feet-per-second. The
+      bullet that killed Charlie Kirk was a supersonic round. I will post below the
+      link to the video that I used to copy the still images that appear in this post
+      (WARNING: The video is graphic and disturbing; I do not earn any money from people
+      watching the video). This is the image showing the moment before Charlie is shot.
+      Note the lettering on the front of his T-shirt. The next seven images represent
+      a total elapsed time of 1 second, but a lot happened in that brief moment in time.
+      In the next photo, Charlie’s head pitches forward slightly — down and to the left
+      — as his T-shirt climbs upwards. This is the moment the shockwave and the bullet
+      hit him. It is the compressed air from the shockwave that moves the T-shirt upwards,
+      as you can see from the lettering. Punch yourself in the neck over the carotid
+      artery and see which way your head moves if you want to verify that a strike to
+      that part of the neck will result in the head moving forward. The next image shows
+      the T-shirt still moving upwards and Charlie’s head continuing to move down and
+      to the left. In the next image, the shockwave has passed and the T-shirt returns
+      to normal. This image alone proves that the shot came from the front. A shot from
+      behind would not have produced this movement in the T-shirt. Notice also that
+      Charlie’s head is starting to move upwards. This image also disproves the claim
+      made by some that the wound to Charlie’s throat was an exit wound. If it had been
+      an exit wound, you would see a spray of blood moving away from Charlie in line
+      with such a bullet. That did not happen. In the next photo, you can see the start
+      of the flow of blood from the entrance wound and, if you look closely at the left
+      arm, the start of a muscular/neurological reaction to the bullet, which is striking
+      on or near the cervical spinal cord. Even if the bullet did not hit the spinal
+      cord directly, the shockwave from the bullet carries sufficient force to cause
+      neurological impairment. In the next moment, the blood flow increases and Charlie’s
+      body begins to stiffen dramatically, as he starts moving to the left. Charlie’s
+      arms continue to move upwards, but in a stiff, unnatural motion. In this final
+      frame, the blood rushing from the shattered carotid artery is akin to a flash
+      flood and Charlie’s body continues to move to the left. If you want to see the
+      video so that you can understand how quickly all of this happened, click here
+      . I also want to show you a video that demonstrates that it is not difficult to
+      hide a Mauser rifle with a scope in your pants leg and move around. The man in
+      the video places the rifle in his right pants leg and then proceeds to walk, including
+      walking uphill to simulate climbing stairs. If you are offended by this article,
+      I apologize. But I think it is important that people have accurate information.
+      Killing someone just because you do not like their words is a criminal, evil act.
+      I think that principle applies to international affairs as well as to individuals.
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article aims to debunk the claim that Charlie Kirk was
+      shot from behind, providing evidence that the fatal shot actually came from the
+      front, supported by expert analysis and visual documentation.
+    paragraph_summary: The article addresses and debunks the claim that Charlie Kirk
+      was shot from behind, asserting that the fatal shot actually came from the front.
+      The author, who consulted with a knowledgeable student with military experience,
+      presents photographic and video evidence to support this conclusion. They explain
+      the mechanics of a supersonic bullet's shockwave, which can be observed in images
+      showing the moment before and after the shooting, including how the impact affected
+      Kirk's body posture. The article emphasizes the importance of accurate information
+      amidst rampant speculation and misinformation surrounding the incident.
+    published: '2025-09-17T02:46:18+00:00'
+  - title: An Emergency Arab-Islamic Summit in Doha is a Rebuff to US Diplomacy
+    url: https://sonar21.com/19192-2/
+    text: 'Iran’s President, Masoud Pezeshkian, met with Saudi Crown Prince Mohammed
+      bin Salman in Doha today An Arab-Islamic emergency summit convened today in Doha
+      to discuss Israel’s attempted assassination of the Hamas negotiators, who were
+      in Doha at the request of the United States when they were attacked. The meeting
+      produced some very startling optics, starting with former ISIS terrorist leader
+      Abu Mohammad al-Julani — who is now repackaged as Syrian President Ahmed al-Sharaa,
+      with a nice beard trim and a $1,000 suit to boot — meeting with Iranian officials,
+      including President Pezeshkian. Two years ago Julani’s forces were attacking and
+      killing Iranian soldiers, and vice-versa. We also saw Jordan’s King Abdullah in
+      attendance and interacting with folks he normally would shun… And Iran’s President
+      Pezeshkian had a cordial meeting with the Saudi Crown Prince. This was akin to
+      a conference of lions, lambs and jackals meeting to discuss how to stop poachers.
+      Although the summit did not produce a consensus to break all ties with Israel,
+      the mere fact that such a diverse group, that in normal times are at odds with
+      one another, assembled to engage in a diplomatic discussion about how to stop
+      Israel’s attacks is noteworthy and also signals a dramatic decline in the ability
+      of the US to influence events in the region. Here are some of  the key statements
+      from today’s summit: QATAR Emir Tamim bin Hamad Al Thani: Condemns Israel’s “treacherous”
+      attack on Doha, targeting Hamas leaders’ families and their negotiators Condemns
+      Israel for creating a system of occupation and apartheid and waging a war of extermination
+      Calls Israel’s attempts to divide Syria and make Gaza uninhabitable a failure.
+      IRAN President Masoud Pezeshkian: Calls for Islamic nations to HOLD ISRAEL ACCOUNTABLE
+      for its aggression “It is necessary that retribution against the aggressors begins”
+      Warns that Israel is at war with the future of Islamic countries “Justice will
+      rise from the land of Gaza. From the ruins of homes in Doha, Beirut, Tehran, Damascus
+      and Sanaa, a new order will emerge.” PALESTINE President Mahmoud Abbas: Declares
+      the far-right Israeli government “cannot be a partner in ensuring security and
+      stability in the Middle East” Urges the international community to hold Israel
+      accountable for crimes against the region. TURKEY President Recep Tayyip Erdogan:
+      Calls for strengthened defense cooperation among OIC and LAS members Urges economic
+      pressure on Israel, calling his country’s suspension of all trade with Israel—$9.5b
+      annually—as an effective measure Stresses the need to achieve self-sufficiency
+      in defense to ensure deterrence. SYRIA Transitional President Ahmed al-Sharaa:
+      Condemns the Israeli strike on Doha as an “unprecedented attack on a mediator”
+      Voices Damascus’s full support for Qatar against Israeli aggression. In tandem
+      with the summit, Jordan and Egypt made some important declarations: Jordan reinstated
+      mandatory military conscription after a 34-year hiatus, which means that Jordan
+      anticipates a military conflict in the future. Egypt proposed boosting regional
+      military cooperation, including a “NATO-style Arab Unified Army”, and said it
+      will keep mediating talks between Israel and Hamas, but is deeply concerned about
+      Israel targeting Hamas officials on its soil or opening the Rafah border crossing
+      with the Gaza Strip to a flood of refugees. The presidents of Iran and Egypt met,
+      accompanied by their foreign ministers, and discussed reestablishing diplomatic
+      ties. Let’s give Donald Trump credit… His support of Israel’s attack on Qatar
+      has convinced Iran and Egypt to be friends again. Maybe that alone qualifies Trump
+      for a Noble Peace prize (sarcasm alert). Iranian President and Foreign Minister
+      met with the Egyptian President and Foreign Minister at the sidelines of the Doha
+      summit Here is the full text of the declaration : We, the Leaders of States and
+      Governments of the Arab League and the Organization of Islamic Cooperation, meeting
+      today, Monday, 22 Rabi’ Al-Awwal 1447 AH, corresponding to Sep. 15 2025, in the
+      Qatari capital, Doha, at the gracious invitation of HH the Amir Sheikh Tamim bin
+      Hamad Al-Thani, and under his chairmanship, to discuss the Israeli aggression
+      against the State of Qatar and to express our unified stance in condemning it
+      and our full solidarity with the sisterly State of Qatar. Expressing our profound
+      gratitude and appreciation to HH the Amir Sheikh Tamim bin Hamad Al-Thani for
+      the generous hosting, and to the sisterly State of Qatar for the excellent organization.
+      Guided by the principles of the Charters of the League of Arab States and the
+      Organization of Islamic Cooperation, and recalling the basic principles of the
+      Charter of the United Nations, in particular Article 2 (4), which prohibits the
+      threat or use of force against the territorial integrity or political independence
+      of any State. Recalling all relevant resolutions adopted by the Organization of
+      Islamic Cooperation and the Arab League over the past decades, which reject aggression
+      against Member States and affirm Arab and Islamic solidarity and the security
+      of Arab and Islamic States in the face of external threats, including those relating
+      to the Palestinian Cause. Reaffirming our unwavering commitment to the sovereignty,
+      independence, and security of all Member States of the League of Arab States and
+      the Organization of Islamic Cooperation, and recalling our collective duty to
+      respond to this aggression in defense of our common security, we reiterate our
+      categorical rejection of any infringement upon the security of any of our States,
+      firmly condemning any aggression targeting them, and reaffirming our absolute
+      and steadfast solidarity in confronting all that threatens their security and
+      stability. Noting the emergency meeting of the United Nations Security Council
+      held on Sep. 11, 2025, which witnessed consensus in condemning the Israeli attack
+      as a breach of international peace and security, and welcoming the press statement
+      issued by the Council, which condemned the attack, expressed solidarity with the
+      State of Qatar, and supported the vital role that Qatar continues to play in mediation
+      efforts in the region, alongside Egypt and the United States, reaffirming respect
+      for the sovereignty and territorial integrity of the State of Qatar, in line with
+      the principles of the UN Charter. Stressing that the absence of international
+      accountability, and the silence of the international community in the face of
+      repeated Israeli violations, have emboldened Israel to persist in its aggressions
+      and to further entrench its flagrant violations of international law and international
+      legitimacy, thereby perpetuating a policy of impunity, weakening the international
+      justice system, and threatening to dismantle the rules-based global order, posing
+      a direct threat to regional and international peace and security. Reaffirming
+      our absolute support for the sisterly State of Qatar, its security, stability,
+      sovereignty, and the safety of its citizens, we declare our united stand with
+      Qatar in confronting this aggression, which we consider a flagrant violation of
+      its sovereignty, a blatant breach of international law, and a grave threat to
+      regional and international peace and security. We hereby decide to: 1. Reaffirm
+      that the brutal Israeli blatant aggression against the sisterly State of Qatar,
+      and Israel’s continued aggressive practices, including crimes of genocide, ethnic
+      cleansing, starvation and siege, as well as settlement activities and expansionist
+      policies, undermine prospects for peace and peaceful coexistence in the region.
+      2. Condemn, in the strongest possible terms, the cowardly and unlawful attack
+      carried out by Israel on 9 September 2025 against a residential neighborhood in
+      the Qatari capital, Doha, which included housing facilities designated by the
+      State for hosting negotiating delegations in the framework of Qatar’s multiple
+      mediation efforts, in addition to a number of schools, nurseries, and diplomatic
+      missions, resulting in martyrs, including a Qatari citizen, and injuries among
+      civilians. This attack constitutes a flagrant act of aggression against an Arab
+      and Islamic State, a Member of the United Nations, represents a grave escalation
+      exposing the aggressiveness of the extremist Israeli Government, and adds to its
+      criminal record that threatens regional and international peace and security.
+      3. Reaffirm absolute solidarity with the State of Qatar against this aggression,
+      which constitutes aggression against all Arab and Islamic States, and to stand
+      firmly with Qatar in all measures it may take in response to this treacherous
+      Israeli aggression to safeguard its security, sovereignty, stability, and the
+      safety of its citizens and residents, in accordance with the UN Charter. 4. Reaffirm
+      that this aggression on Qatari territory, a State serving as a principal mediator
+      in efforts to secure a ceasefire and end the war on Gaza, and to release hostages
+      and prisoners, constitutes a grave escalation and an assault on diplomatic efforts
+      to restore peace. Such an attack on a neutral venue for mediation not only violates
+      Qatar’s sovereignty, but also undermines international mediation and peace-making
+      processes. Israel bears full responsibility for this assault. 5. Commend the civilized,
+      wise, and responsible stance adopted by the State of Qatar in addressing this
+      treacherous assault, its firm adherence to international law, and its insistence
+      on upholding its sovereignty and security and defending its rights by all legitimate
+      means. 6. Support the efforts of States engaged in mediation, in particular the
+      State of Qatar, the Arab Republic of Egypt, and the United States of America,
+      to end the aggression on the Gaza Strip, and, in this context, to reaffirm the
+      constructive role played by Qatar and its valued mediation efforts with their
+      positive impacts in support of endeavors to establish security, stability, and
+      peace; to commend Qatar’s multiple initiatives at both the regional and international
+      levels, especially in the fields of humanitarian assistance and support for education
+      in developing and poor countries, which enhance its standing as an active and
+      supportive partner for peace and development regionally and internationally. 7.
+      Reaffirm the categorical rejection of any attempts to justify this aggression
+      under any pretext whatsoever, and to stress that it constitutes a blatant violation
+      of international law and the UN Charter, directly targeting ongoing mediation
+      efforts to halt the aggression on the Gaza Strip and undermining serious efforts
+      to reach a just and comprehensive political solution that ends the occupation
+      and ensures the realization of the inalienable rights of the Palestinian people.
+      8. Categorically reject repeated Israeli threats of possible renewed targeting
+      of the State of Qatar, or of any Arab or Islamic State, considering such threats
+      provocative and a grave escalation that threatens international peace and security,
+      and to urge the international community to condemn them in the strongest possible
+      terms and take deterrent measures to halt them. 9. Welcome the adoption by the
+      Council of the Arab League at ministerial level of the resolution entitled “Shared
+      Vision for Security and Cooperation in the Region,” and, in this context, to reaffirm
+      the concept of collective security and shared destiny of Arab and Islamic States,
+      the necessity of unity in facing common challenges and threats, and the importance
+      of beginning to put in place the required implementation mechanisms. We stress
+      that any future regional arrangements must enshrine the principles of international
+      law and the UN Charter, good-neighborly relations, respect for sovereignty, noninterference
+      in the internal affairs of States, equality of rights and duties without preference
+      of one State over another, settlement of disputes by peaceful means, and renunciation
+      of the use of force, while underscoring the necessity of ending the Israeli occupation
+      of all Arab territories, establishing the State of Palestine along the lines of
+      June 4, 1967, and ridding the Middle East of nuclear weapons and all other weapons
+      of mass destruction. 10. Reaffirm the necessity of confronting Israel’s schemes
+      to impose a new fait accompli in the region, which pose a direct threat to regional
+      and international stability and security, and the necessity of resisting them.
+      11. Reaffirm the condemnation of any Israeli attempts to forcibly displace the
+      Palestinian people, under any pretext or designation, from their occupied territories
+      of 1967, and to consider such acts crimes against humanity, flagrant violations
+      of international law and international humanitarian law, and a policy of ethnic
+      cleansing wholly rejected. In this context, to stress the necessity of implementing
+      the Arab-Islamic reconstruction plan, both politically and technically, and to
+      launch the reconstruction of the Gaza Strip as quickly as possible, calling on
+      international donors to provide the necessary support and urging their active
+      participation in the forthcoming Gaza Reconstruction Conference to be hosted in
+      Cairo once a ceasefire is secured. 12. Condemn Israeli policies that have caused
+      an unprecedented humanitarian catastrophe, whereby siege, starvation, and deprivation
+      of civilians of food and medicine are used as weapons of war against the Palestinian
+      people, in flagrant violation of international humanitarian law and the Geneva
+      Conventions; stress that these practices constitute a fullfledged war crime requiring
+      urgent international action to put an end to them and to ensure the immediate,
+      safe, and unimpeded entry of humanitarian assistance into all parts of the occupied
+      Palestinian territory. 13. Warn of the catastrophic consequences of any decision
+      by Israel, the occupying power, to annex any part of the occupied Palestinian
+      territory, and rejecting such a move as a blatant assault on the historical and
+      legal rights of the Palestinian people, a violation of the Charter of the United
+      Nations, the principles of international law, and relevant United Nations resolutions,
+      and as a nullification of all efforts to achieve a just and comprehensive peace
+      in the region. 14. Reaffirm the necessity of urgent action by the international
+      community to halt Israel’s repeated aggressions in the region and to stop its
+      ongoing violations of the sovereignty, security, and stability of States, within
+      the framework of respecting international law and relevant international legitimacy
+      resolutions, and to warn of the grave consequences of continued international
+      inaction in curbing Israeli aggressiveness, including its aggression against the
+      sisterly State of Qatar, its ongoing and escalating brutal assault on the occupied
+      Gaza Strip, its illegal settlement practices in the West Bank, including East
+      Jerusalem, and its continued aggressions against States in the region, including
+      the Lebanese Republic and the Syrian Arab Republic and the Islamic Republic of
+      Iran all constituting flagrant breaches of international law and blatant violations
+      of State sovereignty. 15. Call upon all States to take all possible legal and
+      effective measures to prevent Israel from continuing its actions against the Palestinian
+      people, including by supporting efforts to end its impunity, holding it accountable
+      for its violations and crimes, imposing sanctions on it, suspending the supply,
+      transfer, or transit of weapons, ammunition, and military materials — including
+      dual-use items — reviewing diplomatic and economic relations with it, and initiating
+      legal proceedings against it. 16. Call upon the Member States of the Organization
+      of Islamic Cooperation to examine the extent to which Israel’s membership in the
+      United Nations is consistent with the Charter, in view of its clear violations
+      of the conditions of membership and its persistent disregard for United Nations
+      resolutions, and to coordinate efforts aimed at suspending Israel’s membership
+      in the United Nations. 17. Reaffirm the importance of commitment to international
+      legitimacy and relevant UN resolutions as the fundamental reference for achieving
+      international peace and security, and to reject Israeli rhetoric that exploits
+      and promotes Islamophobia in order to justify the continuation of its violations
+      and its pursuit of policies outside international law, including ongoing extermination
+      and settlement projects in the West Bank, as well as attempts to distort the image
+      of Arab and Islamic States. 18. Welcome the adoption by the United Nations General
+      Assembly of the “New York Declaration” on the implementation of the two-State
+      solution and the establishment of an independent Palestinian State, as a clear
+      expression of international will supporting the legitimate rights of the Palestinian
+      people, foremost among them their right to establish their independent State along
+      the lines of 4 June 1967, with East Jerusalem as its capital; and to commend the
+      efforts made by the Kingdom of Saudi Arabia and the French Republic, which contributed
+      to the adoption of this declaration. 19. Welcome the convening of the Two-State
+      Solution Conference, co-chaired by the Kingdom of Saudi Arabia and the French
+      Republic, to be held on 22 September 2025 in New York, and calls for the concerted
+      efforts of the international community to ensure broad recognition of the independent
+      State of Palestine with East Al-Quds as its capital. 20. Commend the pivotal role
+      played by the representatives of Arab and Islamic States that are members of the
+      Security Council, foremost among them Algeria, Somalia, and Pakistan, in defending
+      the Palestinian cause, in putting an end to the Israeli aggression on the Gaza
+      Strip, securing a ceasefire, and achieving full membership of Palestine in the
+      United Nations. It further values their effective contribution in calling for
+      and ensuring the convening of the emergency session of the Security Council dedicated
+      to addressing the Israeli aggression against the State of Qatar. 21. Reaffirm
+      support for the historic Hashemite custodianship exercised by His Majesty King
+      Abdullah II ibn Al Hussein over the Islamic and Christian holy sites in Jerusalem,
+      as reaffirmed in the agreement signed between His Majesty King Abdullah II and
+      His Excellency President Mahmoud Abbas, President of the State of Palestine, on
+      31 March 2013; and further affirming that Al-Aqsa Mosque / Al-Haram Al-Sharif,
+      in its entirety of 144,000 square meters, is a place of worship exclusively for
+      Muslims, and that the Jerusalem Awqaf and Al-Aqsa Mosque Affairs Department, affiliated
+      with the Jordanian Ministry of Awqaf, is the sole legitimate authority vested
+      with exclusive competence to administer Al-Aqsa Mosque, maintain it, and regulate
+      entry thereto. 22. Reaffirm the necessity of enabling Palestinians in Jerusalem
+      to remain steadfast on their land, and of supporting the Al-Quds Committee chaired
+      by His Majesty King Mohammed VI of the Kingdom of Morocco and its executive arm,
+      Bayt Mal Al-Quds Al-Sharif Agency. 23. Reaffirm that a just, comprehensive, and
+      lasting peace in the Middle East will not be achieved by bypassing the Palestinian
+      Cause, ignoring the rights of the Palestinian people, or through violence and
+      targeting mediators, but rather through adherence to the Arab Peace Initiative
+      and relevant international legitimacy resolutions. In this regard, we call upon
+      the international community, in particular the Security Council, to assume its
+      legal and moral responsibilities in ending the Israeli occupation and establishing
+      a binding timetable for that purpose. 24. Mandate the Member States of the Organization
+      of Islamic Cooperation that are States Parties to the Rome Statute of the International
+      Criminal Court, consistent with their obligations under international law and,
+      where applicable, to take all feasible measures within their domestic legal frameworks
+      to support the enforcement of the arrest warrants issued by the International
+      Criminal Court on 21 November 2024 against the perpetrators of crimes against
+      the Palestinian people; and further calls upon OIC Member States to exert diplomatic,
+      political, and legal efforts to ensure Israel’s compliance, as the occupying power,
+      with its binding obligations under the provisional measures issued by the International
+      Court of Justice on 26 January 2024 in the case concerning the Application of
+      the Convention on the Prevention and Punishment of the Crime of Genocide in the
+      Gaza Strip. 25. Express our deep appreciation to the State of Qatar, its Amir,
+      Government, and people, and in particular His Highness Sheikh Tamim bin Hamad
+      Al Thani, for their tireless efforts in hosting and organizing the meetings of
+      this Summit with wisdom and strategic vision, and for the facilities and resources
+      provided to ensure its success. We highly value Qatar’s active role in fostering
+      a spirit of consultation and consensus among Member States, and its tangible contributions
+      to supporting the course of joint action, reflecting its constant commitment to
+      strengthening solidarity and unity. (QNA) Secretary of State Marco Rubio made
+      a huge amateur mistake today by visiting Israel as this summit was underway. Following
+      the summit, Israel reportedly has launched a massive attack on Gaza City. The
+      participants at this summit will likely interpret this as Donald Trump giving
+      Israel permission to expand its campaign of genocide. It will reinforce the view
+      of the members of the Arab-Islamic that Trump is weak and totally under the control
+      of Bibi Netanyahu. Regardless of his intent, Rubio will be viewed as the guy who
+      delivered Trump’s message to launch the offensive in Gaza City. Perception is
+      reality, regardless of the actual facts. I returned from my trip to Texas late
+      this afternoon and was able to do my normal Monday chats with Judge Napolitano
+      and with Nima: I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Iran's President Masoud Pezeshkian and Saudi Crown Prince
+      Mohammed bin Salman met at an Arab-Islamic emergency summit in Doha, which also
+      featured surprising interactions among former adversaries, including a rebranded
+      former ISIS leader, as they discussed Israel's attack on Hamas negotiators.
+    paragraph_summary: Iran's President Masoud Pezeshkian met with Saudi Crown Prince
+      Mohammed bin Salman during an Arab-Islamic emergency summit in Doha, aimed at
+      addressing Israel's attempted assassination of Hamas negotiators. The summit featured
+      unexpected interactions among leaders typically at odds, including former ISIS
+      leader Abu Mohammad al-Julani, now rebranded as Syrian President Ahmed al-Sharaa,
+      engaging with Iranian officials. Despite not reaching a consensus to sever ties
+      with Israel, the gathering of such a diverse group signals a significant shift
+      in regional dynamics and a decline in U.S. influence. Key statements from the
+      summit included strong condemnations of Israel's actions by Qatar's Emir and calls
+      for accountability from Pezeshkian, emphasizing the need for retribution against
+      Israeli aggression and highlighting the ongoing conflict's implications for the
+      future of Islamic nations.
+    published: '2025-09-16T03:48:00+00:00'
+  - title: An Emergency Arab-Islamic Summit in Doha is a Rebuff to US Diplomacy
+    url: https://sonar21.com/19192-2/
+    text: 'Iran’s President, Masoud Pezeshkian, met with Saudi Crown Prince Mohammed
+      bin Salman in Doha today An Arab-Islamic emergency summit convened today in Doha
+      to discuss Israel’s attempted assassination of the Hamas negotiators, who were
+      in Doha at the request of the United States when they were attacked. The meeting
+      produced some very startling optics, starting with former ISIS terrorist leader
+      Abu Mohammad al-Julani — who is now repackaged as Syrian President Ahmed al-Sharaa,
+      with a nice beard trim and a $1,000 suit to boot — meeting with Iranian officials,
+      including President Pezeshkian. Two years ago Julani’s forces were attacking and
+      killing Iranian soldiers, and vice-versa. We also saw Jordan’s King Abdullah in
+      attendance and interacting with folks he normally would shun… And Iran’s President
+      Pezeshkian had a cordial meeting with the Saudi Crown Prince. This was akin to
+      a conference of lions, lambs and jackals meeting to discuss how to stop poachers.
+      Although the summit did not produce a consensus to break all ties with Israel,
+      the mere fact that such a diverse group, that in normal times are at odds with
+      one another, assembled to engage in a diplomatic discussion about how to stop
+      Israel’s attacks is noteworthy and also signals a dramatic decline in the ability
+      of the US to influence events in the region. Here are some of  the key statements
+      from today’s summit: QATAR Emir Tamim bin Hamad Al Thani: Condemns Israel’s “treacherous”
+      attack on Doha, targeting Hamas leaders’ families and their negotiators Condemns
+      Israel for creating a system of occupation and apartheid and waging a war of extermination
+      Calls Israel’s attempts to divide Syria and make Gaza uninhabitable a failure.
+      IRAN President Masoud Pezeshkian: Calls for Islamic nations to HOLD ISRAEL ACCOUNTABLE
+      for its aggression “It is necessary that retribution against the aggressors begins”
+      Warns that Israel is at war with the future of Islamic countries “Justice will
+      rise from the land of Gaza. From the ruins of homes in Doha, Beirut, Tehran, Damascus
+      and Sanaa, a new order will emerge.” PALESTINE President Mahmoud Abbas: Declares
+      the far-right Israeli government “cannot be a partner in ensuring security and
+      stability in the Middle East” Urges the international community to hold Israel
+      accountable for crimes against the region. TURKEY President Recep Tayyip Erdogan:
+      Calls for strengthened defense cooperation among OIC and LAS members Urges economic
+      pressure on Israel, calling his country’s suspension of all trade with Israel—$9.5b
+      annually—as an effective measure Stresses the need to achieve self-sufficiency
+      in defense to ensure deterrence. SYRIA Transitional President Ahmed al-Sharaa:
+      Condemns the Israeli strike on Doha as an “unprecedented attack on a mediator”
+      Voices Damascus’s full support for Qatar against Israeli aggression. In tandem
+      with the summit, Jordan and Egypt made some important declarations: Jordan reinstated
+      mandatory military conscription after a 34-year hiatus, which means that Jordan
+      anticipates a military conflict in the future. Egypt proposed boosting regional
+      military cooperation, including a “NATO-style Arab Unified Army”, and said it
+      will keep mediating talks between Israel and Hamas, but is deeply concerned about
+      Israel targeting Hamas officials on its soil or opening the Rafah border crossing
+      with the Gaza Strip to a flood of refugees. The presidents of Iran and Egypt met,
+      accompanied by their foreign ministers, and discussed reestablishing diplomatic
+      ties. Let’s give Donald Trump credit… His support of Israel’s attack on Qatar
+      has convinced Iran and Egypt to be friends again. Maybe that alone qualifies Trump
+      for a Noble Peace prize (sarcasm alert). Iranian President and Foreign Minister
+      met with the Egyptian President and Foreign Minister at the sidelines of the Doha
+      summit Here is the full text of the declaration : We, the Leaders of States and
+      Governments of the Arab League and the Organization of Islamic Cooperation, meeting
+      today, Monday, 22 Rabi’ Al-Awwal 1447 AH, corresponding to Sep. 15 2025, in the
+      Qatari capital, Doha, at the gracious invitation of HH the Amir Sheikh Tamim bin
+      Hamad Al-Thani, and under his chairmanship, to discuss the Israeli aggression
+      against the State of Qatar and to express our unified stance in condemning it
+      and our full solidarity with the sisterly State of Qatar. Expressing our profound
+      gratitude and appreciation to HH the Amir Sheikh Tamim bin Hamad Al-Thani for
+      the generous hosting, and to the sisterly State of Qatar for the excellent organization.
+      Guided by the principles of the Charters of the League of Arab States and the
+      Organization of Islamic Cooperation, and recalling the basic principles of the
+      Charter of the United Nations, in particular Article 2 (4), which prohibits the
+      threat or use of force against the territorial integrity or political independence
+      of any State. Recalling all relevant resolutions adopted by the Organization of
+      Islamic Cooperation and the Arab League over the past decades, which reject aggression
+      against Member States and affirm Arab and Islamic solidarity and the security
+      of Arab and Islamic States in the face of external threats, including those relating
+      to the Palestinian Cause. Reaffirming our unwavering commitment to the sovereignty,
+      independence, and security of all Member States of the League of Arab States and
+      the Organization of Islamic Cooperation, and recalling our collective duty to
+      respond to this aggression in defense of our common security, we reiterate our
+      categorical rejection of any infringement upon the security of any of our States,
+      firmly condemning any aggression targeting them, and reaffirming our absolute
+      and steadfast solidarity in confronting all that threatens their security and
+      stability. Noting the emergency meeting of the United Nations Security Council
+      held on Sep. 11, 2025, which witnessed consensus in condemning the Israeli attack
+      as a breach of international peace and security, and welcoming the press statement
+      issued by the Council, which condemned the attack, expressed solidarity with the
+      State of Qatar, and supported the vital role that Qatar continues to play in mediation
+      efforts in the region, alongside Egypt and the United States, reaffirming respect
+      for the sovereignty and territorial integrity of the State of Qatar, in line with
+      the principles of the UN Charter. Stressing that the absence of international
+      accountability, and the silence of the international community in the face of
+      repeated Israeli violations, have emboldened Israel to persist in its aggressions
+      and to further entrench its flagrant violations of international law and international
+      legitimacy, thereby perpetuating a policy of impunity, weakening the international
+      justice system, and threatening to dismantle the rules-based global order, posing
+      a direct threat to regional and international peace and security. Reaffirming
+      our absolute support for the sisterly State of Qatar, its security, stability,
+      sovereignty, and the safety of its citizens, we declare our united stand with
+      Qatar in confronting this aggression, which we consider a flagrant violation of
+      its sovereignty, a blatant breach of international law, and a grave threat to
+      regional and international peace and security. We hereby decide to: 1. Reaffirm
+      that the brutal Israeli blatant aggression against the sisterly State of Qatar,
+      and Israel’s continued aggressive practices, including crimes of genocide, ethnic
+      cleansing, starvation and siege, as well as settlement activities and expansionist
+      policies, undermine prospects for peace and peaceful coexistence in the region.
+      2. Condemn, in the strongest possible terms, the cowardly and unlawful attack
+      carried out by Israel on 9 September 2025 against a residential neighborhood in
+      the Qatari capital, Doha, which included housing facilities designated by the
+      State for hosting negotiating delegations in the framework of Qatar’s multiple
+      mediation efforts, in addition to a number of schools, nurseries, and diplomatic
+      missions, resulting in martyrs, including a Qatari citizen, and injuries among
+      civilians. This attack constitutes a flagrant act of aggression against an Arab
+      and Islamic State, a Member of the United Nations, represents a grave escalation
+      exposing the aggressiveness of the extremist Israeli Government, and adds to its
+      criminal record that threatens regional and international peace and security.
+      3. Reaffirm absolute solidarity with the State of Qatar against this aggression,
+      which constitutes aggression against all Arab and Islamic States, and to stand
+      firmly with Qatar in all measures it may take in response to this treacherous
+      Israeli aggression to safeguard its security, sovereignty, stability, and the
+      safety of its citizens and residents, in accordance with the UN Charter. 4. Reaffirm
+      that this aggression on Qatari territory, a State serving as a principal mediator
+      in efforts to secure a ceasefire and end the war on Gaza, and to release hostages
+      and prisoners, constitutes a grave escalation and an assault on diplomatic efforts
+      to restore peace. Such an attack on a neutral venue for mediation not only violates
+      Qatar’s sovereignty, but also undermines international mediation and peace-making
+      processes. Israel bears full responsibility for this assault. 5. Commend the civilized,
+      wise, and responsible stance adopted by the State of Qatar in addressing this
+      treacherous assault, its firm adherence to international law, and its insistence
+      on upholding its sovereignty and security and defending its rights by all legitimate
+      means. 6. Support the efforts of States engaged in mediation, in particular the
+      State of Qatar, the Arab Republic of Egypt, and the United States of America,
+      to end the aggression on the Gaza Strip, and, in this context, to reaffirm the
+      constructive role played by Qatar and its valued mediation efforts with their
+      positive impacts in support of endeavors to establish security, stability, and
+      peace; to commend Qatar’s multiple initiatives at both the regional and international
+      levels, especially in the fields of humanitarian assistance and support for education
+      in developing and poor countries, which enhance its standing as an active and
+      supportive partner for peace and development regionally and internationally. 7.
+      Reaffirm the categorical rejection of any attempts to justify this aggression
+      under any pretext whatsoever, and to stress that it constitutes a blatant violation
+      of international law and the UN Charter, directly targeting ongoing mediation
+      efforts to halt the aggression on the Gaza Strip and undermining serious efforts
+      to reach a just and comprehensive political solution that ends the occupation
+      and ensures the realization of the inalienable rights of the Palestinian people.
+      8. Categorically reject repeated Israeli threats of possible renewed targeting
+      of the State of Qatar, or of any Arab or Islamic State, considering such threats
+      provocative and a grave escalation that threatens international peace and security,
+      and to urge the international community to condemn them in the strongest possible
+      terms and take deterrent measures to halt them. 9. Welcome the adoption by the
+      Council of the Arab League at ministerial level of the resolution entitled “Shared
+      Vision for Security and Cooperation in the Region,” and, in this context, to reaffirm
+      the concept of collective security and shared destiny of Arab and Islamic States,
+      the necessity of unity in facing common challenges and threats, and the importance
+      of beginning to put in place the required implementation mechanisms. We stress
+      that any future regional arrangements must enshrine the principles of international
+      law and the UN Charter, good-neighborly relations, respect for sovereignty, noninterference
+      in the internal affairs of States, equality of rights and duties without preference
+      of one State over another, settlement of disputes by peaceful means, and renunciation
+      of the use of force, while underscoring the necessity of ending the Israeli occupation
+      of all Arab territories, establishing the State of Palestine along the lines of
+      June 4, 1967, and ridding the Middle East of nuclear weapons and all other weapons
+      of mass destruction. 10. Reaffirm the necessity of confronting Israel’s schemes
+      to impose a new fait accompli in the region, which pose a direct threat to regional
+      and international stability and security, and the necessity of resisting them.
+      11. Reaffirm the condemnation of any Israeli attempts to forcibly displace the
+      Palestinian people, under any pretext or designation, from their occupied territories
+      of 1967, and to consider such acts crimes against humanity, flagrant violations
+      of international law and international humanitarian law, and a policy of ethnic
+      cleansing wholly rejected. In this context, to stress the necessity of implementing
+      the Arab-Islamic reconstruction plan, both politically and technically, and to
+      launch the reconstruction of the Gaza Strip as quickly as possible, calling on
+      international donors to provide the necessary support and urging their active
+      participation in the forthcoming Gaza Reconstruction Conference to be hosted in
+      Cairo once a ceasefire is secured. 12. Condemn Israeli policies that have caused
+      an unprecedented humanitarian catastrophe, whereby siege, starvation, and deprivation
+      of civilians of food and medicine are used as weapons of war against the Palestinian
+      people, in flagrant violation of international humanitarian law and the Geneva
+      Conventions; stress that these practices constitute a fullfledged war crime requiring
+      urgent international action to put an end to them and to ensure the immediate,
+      safe, and unimpeded entry of humanitarian assistance into all parts of the occupied
+      Palestinian territory. 13. Warn of the catastrophic consequences of any decision
+      by Israel, the occupying power, to annex any part of the occupied Palestinian
+      territory, and rejecting such a move as a blatant assault on the historical and
+      legal rights of the Palestinian people, a violation of the Charter of the United
+      Nations, the principles of international law, and relevant United Nations resolutions,
+      and as a nullification of all efforts to achieve a just and comprehensive peace
+      in the region. 14. Reaffirm the necessity of urgent action by the international
+      community to halt Israel’s repeated aggressions in the region and to stop its
+      ongoing violations of the sovereignty, security, and stability of States, within
+      the framework of respecting international law and relevant international legitimacy
+      resolutions, and to warn of the grave consequences of continued international
+      inaction in curbing Israeli aggressiveness, including its aggression against the
+      sisterly State of Qatar, its ongoing and escalating brutal assault on the occupied
+      Gaza Strip, its illegal settlement practices in the West Bank, including East
+      Jerusalem, and its continued aggressions against States in the region, including
+      the Lebanese Republic and the Syrian Arab Republic and the Islamic Republic of
+      Iran all constituting flagrant breaches of international law and blatant violations
+      of State sovereignty. 15. Call upon all States to take all possible legal and
+      effective measures to prevent Israel from continuing its actions against the Palestinian
+      people, including by supporting efforts to end its impunity, holding it accountable
+      for its violations and crimes, imposing sanctions on it, suspending the supply,
+      transfer, or transit of weapons, ammunition, and military materials — including
+      dual-use items — reviewing diplomatic and economic relations with it, and initiating
+      legal proceedings against it. 16. Call upon the Member States of the Organization
+      of Islamic Cooperation to examine the extent to which Israel’s membership in the
+      United Nations is consistent with the Charter, in view of its clear violations
+      of the conditions of membership and its persistent disregard for United Nations
+      resolutions, and to coordinate efforts aimed at suspending Israel’s membership
+      in the United Nations. 17. Reaffirm the importance of commitment to international
+      legitimacy and relevant UN resolutions as the fundamental reference for achieving
+      international peace and security, and to reject Israeli rhetoric that exploits
+      and promotes Islamophobia in order to justify the continuation of its violations
+      and its pursuit of policies outside international law, including ongoing extermination
+      and settlement projects in the West Bank, as well as attempts to distort the image
+      of Arab and Islamic States. 18. Welcome the adoption by the United Nations General
+      Assembly of the “New York Declaration” on the implementation of the two-State
+      solution and the establishment of an independent Palestinian State, as a clear
+      expression of international will supporting the legitimate rights of the Palestinian
+      people, foremost among them their right to establish their independent State along
+      the lines of 4 June 1967, with East Jerusalem as its capital; and to commend the
+      efforts made by the Kingdom of Saudi Arabia and the French Republic, which contributed
+      to the adoption of this declaration. 19. Welcome the convening of the Two-State
+      Solution Conference, co-chaired by the Kingdom of Saudi Arabia and the French
+      Republic, to be held on 22 September 2025 in New York, and calls for the concerted
+      efforts of the international community to ensure broad recognition of the independent
+      State of Palestine with East Al-Quds as its capital. 20. Commend the pivotal role
+      played by the representatives of Arab and Islamic States that are members of the
+      Security Council, foremost among them Algeria, Somalia, and Pakistan, in defending
+      the Palestinian cause, in putting an end to the Israeli aggression on the Gaza
+      Strip, securing a ceasefire, and achieving full membership of Palestine in the
+      United Nations. It further values their effective contribution in calling for
+      and ensuring the convening of the emergency session of the Security Council dedicated
+      to addressing the Israeli aggression against the State of Qatar. 21. Reaffirm
+      support for the historic Hashemite custodianship exercised by His Majesty King
+      Abdullah II ibn Al Hussein over the Islamic and Christian holy sites in Jerusalem,
+      as reaffirmed in the agreement signed between His Majesty King Abdullah II and
+      His Excellency President Mahmoud Abbas, President of the State of Palestine, on
+      31 March 2013; and further affirming that Al-Aqsa Mosque / Al-Haram Al-Sharif,
+      in its entirety of 144,000 square meters, is a place of worship exclusively for
+      Muslims, and that the Jerusalem Awqaf and Al-Aqsa Mosque Affairs Department, affiliated
+      with the Jordanian Ministry of Awqaf, is the sole legitimate authority vested
+      with exclusive competence to administer Al-Aqsa Mosque, maintain it, and regulate
+      entry thereto. 22. Reaffirm the necessity of enabling Palestinians in Jerusalem
+      to remain steadfast on their land, and of supporting the Al-Quds Committee chaired
+      by His Majesty King Mohammed VI of the Kingdom of Morocco and its executive arm,
+      Bayt Mal Al-Quds Al-Sharif Agency. 23. Reaffirm that a just, comprehensive, and
+      lasting peace in the Middle East will not be achieved by bypassing the Palestinian
+      Cause, ignoring the rights of the Palestinian people, or through violence and
+      targeting mediators, but rather through adherence to the Arab Peace Initiative
+      and relevant international legitimacy resolutions. In this regard, we call upon
+      the international community, in particular the Security Council, to assume its
+      legal and moral responsibilities in ending the Israeli occupation and establishing
+      a binding timetable for that purpose. 24. Mandate the Member States of the Organization
+      of Islamic Cooperation that are States Parties to the Rome Statute of the International
+      Criminal Court, consistent with their obligations under international law and,
+      where applicable, to take all feasible measures within their domestic legal frameworks
+      to support the enforcement of the arrest warrants issued by the International
+      Criminal Court on 21 November 2024 against the perpetrators of crimes against
+      the Palestinian people; and further calls upon OIC Member States to exert diplomatic,
+      political, and legal efforts to ensure Israel’s compliance, as the occupying power,
+      with its binding obligations under the provisional measures issued by the International
+      Court of Justice on 26 January 2024 in the case concerning the Application of
+      the Convention on the Prevention and Punishment of the Crime of Genocide in the
+      Gaza Strip. 25. Express our deep appreciation to the State of Qatar, its Amir,
+      Government, and people, and in particular His Highness Sheikh Tamim bin Hamad
+      Al Thani, for their tireless efforts in hosting and organizing the meetings of
+      this Summit with wisdom and strategic vision, and for the facilities and resources
+      provided to ensure its success. We highly value Qatar’s active role in fostering
+      a spirit of consultation and consensus among Member States, and its tangible contributions
+      to supporting the course of joint action, reflecting its constant commitment to
+      strengthening solidarity and unity. (QNA) Secretary of State Marco Rubio made
+      a huge amateur mistake today by visiting Israel as this summit was underway. Following
+      the summit, Israel reportedly has launched a massive attack on Gaza City. The
+      participants at this summit will likely interpret this as Donald Trump giving
+      Israel permission to expand its campaign of genocide. It will reinforce the view
+      of the members of the Arab-Islamic that Trump is weak and totally under the control
+      of Bibi Netanyahu. Regardless of his intent, Rubio will be viewed as the guy who
+      delivered Trump’s message to launch the offensive in Gaza City. Perception is
+      reality, regardless of the actual facts. I returned from my trip to Texas late
+      this afternoon and was able to do my normal Monday chats with Judge Napolitano
+      and with Nima: I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Iran's President Masoud Pezeshkian and Saudi Crown Prince
+      Mohammed bin Salman met at an Arab-Islamic emergency summit in Doha, which also
+      featured surprising interactions among former adversaries, including a rebranded
+      former ISIS leader, as they discussed Israel's attack on Hamas negotiators.
+    paragraph_summary: Iran's President Masoud Pezeshkian met with Saudi Crown Prince
+      Mohammed bin Salman during an Arab-Islamic emergency summit in Doha, aimed at
+      addressing Israel's attempted assassination of Hamas negotiators. The summit featured
+      unexpected interactions among leaders typically at odds, including former ISIS
+      leader Abu Mohammad al-Julani, now rebranded as Syrian President Ahmed al-Sharaa,
+      engaging with Iranian officials. Despite not reaching a consensus to sever ties
+      with Israel, the gathering of such a diverse group signals a significant shift
+      in regional dynamics and a decline in U.S. influence. Key statements from the
+      summit included strong condemnations of Israel's actions by Qatar's Emir and calls
+      for accountability from Pezeshkian, emphasizing the need for retribution against
+      Israeli aggression and highlighting the ongoing conflict's implications for the
+      future of Islamic nations.
+    published: '2025-09-16T03:48:00+00:00'
+  - title: The Turning Economic and Political Tide Favors China and Russia, While Spelling
+      Disaster for the West and Ukraine
+    url: https://sonar21.com/the-turning-economic-and-political-tide-favors-china-and-russia-while-spelling-disaster-for-the-west-and-ukraine/
+    text: 'Trade-US_China-2000_2020 I want to direct your attention to a recent article
+      in Bloomberg News regarding China’s trade relationship with Africa and the dire
+      implications for Donald Trump’s attempt to compel a change in China’s policy towards
+      Russia. According to Bloomberg : With a 25% on-year jump to $122 billion, growth
+      in sales to the continent of 1.5 billion people has far outpaced other major markets
+      this year while orders from the US slumped. China’s exports to Africa so far in
+      2025 are more than in the whole of 2020 and on track to exceed $200 billion for
+      the first time. Although the trading relationship shows no sign of becoming less
+      lopsided, with China running a far wider surplus with Africa than last year, Beijing
+      is cracking open its domestic market while seizing on the chance to meet the continent’s
+      infrastructure needs. . . . Rising protectionism in Washington has given extra
+      incentive for Africa to buy from Beijing. A number of goods from more than 30
+      nations on the continent that had duty-free access to American markets granted
+      under the African Growth and Opportunity Act are now being subjected to a range
+      of tariffs by the Trump administration. In the first half of 2025 alone, Africa
+      inked $30.5 billion in construction contracts with China, according to a July
+      report from Griffith University in Australia and the Green Finance & Development
+      Center, founded at Shanghai-based Fudan University. That’s five times the amount
+      during the same period last year and the most among all regions included in Xi’s
+      infrastructure initiative. I think this is another data point signaling the dramatic
+      restructuring of the international financial and commercial infrastructure that
+      is underway, and marks the end of US dominance, especially with respect to international
+      trade. The following two charts should disabuse any of Trump’s economic advisors
+      of the belief that China is dependent on the US for its exports and that no alternative
+      exists. Africa is saying otherwise: I believe we are witnessing the start of a
+      watershed moment in which many of  the Global South countries stop using the dollar
+      and increase their use of the Chinese yuan. In other words, China is providing
+      low-interest loans to Global South countries in lieu of those countries taking
+      out more expensive US-dollar-based loans. The Beatles were wrong… Money can buy
+      you — or in this case, China — some love. Unrelated, but equally disturbing, is
+      the effect that Trump’s tariffs is having on items sent via mail. To be honest,
+      I had never even considered this as a possible negative consequence on the economy,
+      but the numbers are alarming. According to the Universal Postal Union (UPU): The
+      global network saw postal traffic to the US come to a near halt after the implementation
+      of the new rules on 29 August 2025, which for the first time placed the burden
+      of customs duty collection and remittance on transportation carriers or US Customs
+      and Border Protection (CBP) agency-approved qualified parties. Carriers, such
+      as airlines, signalled they were unwilling or unable to bear this responsibility
+      and postal operators had not yet established a link to the list of CBP qualified
+      parties, causing major operational disruptions. The data, exchanged between postal
+      operators via the UPU’s electronic network, shows that traffic from UPU member
+      countries to the US was down 81% on Friday 29 August – the day the regulation
+      was implemented – compared to the previous Friday, 22 August. Furthermore, 88
+      postal operators informed the UPU they have suspended some or all postal services
+      to the US until a solution is implemented, highlighting the widespread impact
+      of the US Executive Order eliminating the de minimis exemption for low-value goods.
+      These are not isolated cases. Global shipping is adding to inflationary concerns
+      because of the number of ships that now have to sail around Africa rather than
+      use the Red Sea/Suez Canal , because of the Houthi embargo of Israeli-connected
+      ships transiting that waterway, is adding to transportation costs and supply chain
+      disruptions. At the very time that Europe, especially the UK, France and Germany,
+      are at their weakest level economically and politically, President Donald Trump
+      clubbed them over their heads with a new tariff gambit that puts the onus of pressuring
+      Russia fully on their shoulders… And it is a burden too heavy for them to lift:
+      Europe is on notice: if they want major sanctions on Russia, they must make the
+      first move and also hit India and China with bone crunching tariffs. But Europe
+      is unwilling to do so, which means Trump is under no pressure to act unilaterally
+      against Russia or India or China. I don’t know if this was his plan from the outset,
+      but the effect is brilliant. Amidst the backdrop of all of this economic turmoil
+      and upheaval, the Russian offensive in the Donbas is picking up steam and the
+      position of the Ukrainian military is more tenuous with each passing day. I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: China's trade with Africa has surged significantly, with exports
+      expected to exceed $200 billion in 2025, highlighting a growing economic relationship
+      that contrasts with declining U.S. orders and complicates Trump's efforts to shift
+      China's policies towards Russia.
+    paragraph_summary: A Bloomberg News article highlights the significant growth in
+      China's trade relationship with Africa, which has surged by 25% year-on-year to
+      $122 billion, far outpacing sales to other major markets, including the US, where
+      orders have declined. China's exports to Africa in 2025 are projected to exceed
+      $200 billion, marking a substantial increase from previous years. This trade dynamic
+      is characterized by a growing surplus for China, as it capitalizes on Africa's
+      infrastructure needs while simultaneously opening its domestic market. The rise
+      of protectionist measures in the US has further incentivized African nations to
+      engage with China, leading to a remarkable $30.5 billion in construction contracts
+      signed in the first half of 2025—five times more than the previous year. This
+      trend signals a shift in the global economic landscape, suggesting a decline in
+      US dominance in international trade, as Africa increasingly turns to China for
+      its economic partnerships.
+    published: '2025-09-15T04:19:29+00:00'
+  - title: The Turning Economic and Political Tide Favors China and Russia, While Spelling
+      Disaster for the West and Ukraine
+    url: https://sonar21.com/the-turning-economic-and-political-tide-favors-china-and-russia-while-spelling-disaster-for-the-west-and-ukraine/
+    text: 'Trade-US_China-2000_2020 I want to direct your attention to a recent article
+      in Bloomberg News regarding China’s trade relationship with Africa and the dire
+      implications for Donald Trump’s attempt to compel a change in China’s policy towards
+      Russia. According to Bloomberg : With a 25% on-year jump to $122 billion, growth
+      in sales to the continent of 1.5 billion people has far outpaced other major markets
+      this year while orders from the US slumped. China’s exports to Africa so far in
+      2025 are more than in the whole of 2020 and on track to exceed $200 billion for
+      the first time. Although the trading relationship shows no sign of becoming less
+      lopsided, with China running a far wider surplus with Africa than last year, Beijing
+      is cracking open its domestic market while seizing on the chance to meet the continent’s
+      infrastructure needs. . . . Rising protectionism in Washington has given extra
+      incentive for Africa to buy from Beijing. A number of goods from more than 30
+      nations on the continent that had duty-free access to American markets granted
+      under the African Growth and Opportunity Act are now being subjected to a range
+      of tariffs by the Trump administration. In the first half of 2025 alone, Africa
+      inked $30.5 billion in construction contracts with China, according to a July
+      report from Griffith University in Australia and the Green Finance & Development
+      Center, founded at Shanghai-based Fudan University. That’s five times the amount
+      during the same period last year and the most among all regions included in Xi’s
+      infrastructure initiative. I think this is another data point signaling the dramatic
+      restructuring of the international financial and commercial infrastructure that
+      is underway, and marks the end of US dominance, especially with respect to international
+      trade. The following two charts should disabuse any of Trump’s economic advisors
+      of the belief that China is dependent on the US for its exports and that no alternative
+      exists. Africa is saying otherwise: I believe we are witnessing the start of a
+      watershed moment in which many of  the Global South countries stop using the dollar
+      and increase their use of the Chinese yuan. In other words, China is providing
+      low-interest loans to Global South countries in lieu of those countries taking
+      out more expensive US-dollar-based loans. The Beatles were wrong… Money can buy
+      you — or in this case, China — some love. Unrelated, but equally disturbing, is
+      the effect that Trump’s tariffs is having on items sent via mail. To be honest,
+      I had never even considered this as a possible negative consequence on the economy,
+      but the numbers are alarming. According to the Universal Postal Union (UPU): The
+      global network saw postal traffic to the US come to a near halt after the implementation
+      of the new rules on 29 August 2025, which for the first time placed the burden
+      of customs duty collection and remittance on transportation carriers or US Customs
+      and Border Protection (CBP) agency-approved qualified parties. Carriers, such
+      as airlines, signalled they were unwilling or unable to bear this responsibility
+      and postal operators had not yet established a link to the list of CBP qualified
+      parties, causing major operational disruptions. The data, exchanged between postal
+      operators via the UPU’s electronic network, shows that traffic from UPU member
+      countries to the US was down 81% on Friday 29 August – the day the regulation
+      was implemented – compared to the previous Friday, 22 August. Furthermore, 88
+      postal operators informed the UPU they have suspended some or all postal services
+      to the US until a solution is implemented, highlighting the widespread impact
+      of the US Executive Order eliminating the de minimis exemption for low-value goods.
+      These are not isolated cases. Global shipping is adding to inflationary concerns
+      because of the number of ships that now have to sail around Africa rather than
+      use the Red Sea/Suez Canal , because of the Houthi embargo of Israeli-connected
+      ships transiting that waterway, is adding to transportation costs and supply chain
+      disruptions. At the very time that Europe, especially the UK, France and Germany,
+      are at their weakest level economically and politically, President Donald Trump
+      clubbed them over their heads with a new tariff gambit that puts the onus of pressuring
+      Russia fully on their shoulders… And it is a burden too heavy for them to lift:
+      Europe is on notice: if they want major sanctions on Russia, they must make the
+      first move and also hit India and China with bone crunching tariffs. But Europe
+      is unwilling to do so, which means Trump is under no pressure to act unilaterally
+      against Russia or India or China. I don’t know if this was his plan from the outset,
+      but the effect is brilliant. Amidst the backdrop of all of this economic turmoil
+      and upheaval, the Russian offensive in the Donbas is picking up steam and the
+      position of the Ukrainian military is more tenuous with each passing day. I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: China's trade with Africa has surged significantly, with exports
+      expected to exceed $200 billion in 2025, highlighting a growing economic relationship
+      that contrasts with declining U.S. orders and complicates Trump's efforts to shift
+      China's policies towards Russia.
+    paragraph_summary: A Bloomberg News article highlights the significant growth in
+      China's trade relationship with Africa, which has surged by 25% year-on-year to
+      $122 billion, far outpacing sales to other major markets, including the US, where
+      orders have declined. China's exports to Africa in 2025 are projected to exceed
+      $200 billion, marking a substantial increase from previous years. This trade dynamic
+      is characterized by a growing surplus for China, as it capitalizes on Africa's
+      infrastructure needs while simultaneously opening its domestic market. The rise
+      of protectionist measures in the US has further incentivized African nations to
+      engage with China, leading to a remarkable $30.5 billion in construction contracts
+      signed in the first half of 2025—five times more than the previous year. This
+      trend signals a shift in the global economic landscape, suggesting a decline in
+      US dominance in international trade, as Africa increasingly turns to China for
+      its economic partnerships.
+    published: '2025-09-15T04:19:29+00:00'
+  - title: More On Charlie Kirk, The Qatar Strike and the Russia’s Netcentric Military
+      Doctrine
+    url: https://sonar21.com/more-on-charlie-kirk-the-qatar-strike-and-the-russias-netcentric-military-doctrine/
+    text: I am celebrating a good friend’s 70th birthday, which means I have limited
+      time to write. I interviewed Andrei Martyanov on Thursday, before traveling to
+      my friend’s town, and took time out today to chat with Nima since I was unable
+      to make our usual Friday gig. I am very troubled by the unbridled hatred some
+      are expressing towards Charlie Kirk. It is callous, inhuman and evil in my view.
+      Charlie did something remarkable in building up Turning Point USA into a potent
+      political player. I do not agree with nor endorse all of his statements during
+      his brief career. But I also recognize that he was still a young man who was changing
+      some of his positions, particularly with reference to the Zionist cause. We will
+      never know if he would have made the full conversion to denouncing the Zionist
+      genocide of the Palestinians, but I believe he was on his way. The key point is
+      that nothing he said justified the use of force to silence him. If you don’t understand
+      that, then you are a morally flawed person in my view. You only kill someone who
+      poses an imminent threat to you of death or grievous bodily harm. Anything short
+      of that is murder. My apologies for not being able to write more. I’ll do better
+      tomorrow. Looks like Russia is making major advances in the Donbas. I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .
+    one_sentence_summary: The author expresses concern over the intense hatred directed
+      at Charlie Kirk, acknowledging his achievements with Turning Point USA while advocating
+      for the importance of free speech and the moral implications of silencing dissenting
+      voices.
+    paragraph_summary: The author reflects on their limited writing time due to a friend's
+      70th birthday celebration and shares insights from recent interviews, including
+      one with Andrei Martyanov. They express deep concern over the intense hatred directed
+      at Charlie Kirk, arguing that while they do not agree with all of his views, his
+      achievements in building Turning Point USA are noteworthy. The author believes
+      Kirk was evolving in his perspectives, particularly regarding the Zionist issue,
+      and emphasizes that no one should face violence for their opinions unless they
+      pose an imminent threat. They conclude by acknowledging the ongoing situation
+      in the Donbas and express gratitude for their readers' support, noting that their
+      content remains free of charge and advertising.
+    published: '2025-09-14T07:13:30+00:00'
+  - title: More On Charlie Kirk, The Qatar Strike and the Russia’s Netcentric Military
+      Doctrine
+    url: https://sonar21.com/more-on-charlie-kirk-the-qatar-strike-and-the-russias-netcentric-military-doctrine/
+    text: I am celebrating a good friend’s 70th birthday, which means I have limited
+      time to write. I interviewed Andrei Martyanov on Thursday, before traveling to
+      my friend’s town, and took time out today to chat with Nima since I was unable
+      to make our usual Friday gig. I am very troubled by the unbridled hatred some
+      are expressing towards Charlie Kirk. It is callous, inhuman and evil in my view.
+      Charlie did something remarkable in building up Turning Point USA into a potent
+      political player. I do not agree with nor endorse all of his statements during
+      his brief career. But I also recognize that he was still a young man who was changing
+      some of his positions, particularly with reference to the Zionist cause. We will
+      never know if he would have made the full conversion to denouncing the Zionist
+      genocide of the Palestinians, but I believe he was on his way. The key point is
+      that nothing he said justified the use of force to silence him. If you don’t understand
+      that, then you are a morally flawed person in my view. You only kill someone who
+      poses an imminent threat to you of death or grievous bodily harm. Anything short
+      of that is murder. My apologies for not being able to write more. I’ll do better
+      tomorrow. Looks like Russia is making major advances in the Donbas. I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .
+    one_sentence_summary: The author expresses concern over the intense hatred directed
+      at Charlie Kirk, acknowledging his achievements with Turning Point USA while advocating
+      for the importance of free speech and the moral implications of silencing dissenting
+      voices.
+    paragraph_summary: The author reflects on their limited writing time due to a friend's
+      70th birthday celebration and shares insights from recent interviews, including
+      one with Andrei Martyanov. They express deep concern over the intense hatred directed
+      at Charlie Kirk, arguing that while they do not agree with all of his views, his
+      achievements in building Turning Point USA are noteworthy. The author believes
+      Kirk was evolving in his perspectives, particularly regarding the Zionist issue,
+      and emphasizes that no one should face violence for their opinions unless they
+      pose an imminent threat. They conclude by acknowledging the ongoing situation
+      in the Donbas and express gratitude for their readers' support, noting that their
+      content remains free of charge and advertising.
+    published: '2025-09-14T07:13:30+00:00'
+  - title: Is There Something More Nefarious Behind the Murder of Charlie Kirk?
+    url: https://sonar21.com/is-there-something-more-nefarious-behind-the-murder-of-charlie-kirk/
+    text: 'There is an understandable level of skepticism about the 22-year-old alleged
+      to have fired the shot that killed Charlie Kirk. The spin coming out of the FBI
+      and local law enforcement is painting Tyler Robinson as a radical leftist acting
+      on his own.  I have no evidence to disprove that claim, but there are some other
+      things that suggest an alternative motive. I want to call your attention to the
+      latest from Max Blumenthal and Anya Parampil at the GrayZone : Charlie Kirk refused
+      Netanyahu funding offer, was ‘frightened’ by pro-Israel forces before death, friend
+      reveals . I am posting the first three paragraphs of the article (and I encourage
+      you to read the rest): Charlie Kirk rejected an offer earlier this year from Israeli
+      Prime Minister Benjamin Netanyahu to arrange a massive new infusion of Zionist
+      money into his Turning Point USA (TPUSA) organization, America’s largest conservative
+      youth association, according to a longtime friend of the slain commentator speaking
+      on the condition of anonymity. The source told The Grayzone that the late pro-Trump
+      influencer believed Netanyahu was trying to cow him into silence as he began to
+      publicly question Israel’s overwhelming influence in Washington and demanded more
+      space to criticize it. In the weeks leading up to his September 10 assassination,
+      Kirk had come to loathe the Israeli leader, regarding him as a “bully,” the source
+      said. Kirk was disgusted by what he witnessed inside the Trump administration,
+      where Netanyahu sought to personally dictate the president’s personnel decisions,
+      and weaponized Israeli assets like billionaire donor Miriam Adelson to keep the
+      White House firmly under its thumb. According to Kirk’s friend, who also enjoyed
+      access to President Donald Trump and his inner circle, Kirk strongly warned Trump
+      last June against bombing Iran on Israel’s behalf. “Charlie was the only person
+      who did that,” they said, recalling how Trump “barked at him” in response and
+      angrily shut down the conversation. The source believes the incident confirmed
+      in Kirk’s mind that the president of the United States had fallen under the control
+      of a malign foreign power, and was leading his own country into a series of disastrous
+      conflicts. If you watched the debate between Dave Smith and Josh Hammer, which
+      was moderated by Charlie on July 13th, at least 2/3rds of the youthful audience
+      cheered Dave’s strong critique of Israel. There is no doubt that the Zionists
+      are panicked by the growing opposition to Zionism and Israel’s genocide of the
+      Palestinian people among the under-30 crowd in the United States. This would not
+      be the first time that the ardent Zionists have been part of a successful effort
+      to kill an American politician or military personnel. The evidence that Israeli
+      intelligence, along with the CIA and Meyer Lansky’s crew, carried out the assassination
+      of John F. Kennedy because of his efforts to stop Israel’s nuclear weapons program
+      and to require the predecessor of AIPAC to register as a foreign agent. While
+      it is not wild speculation to point out the obvious motive for the Zionists to
+      eliminate Charlie Kirk, we still have to deal with the facts at hand — Tyler Robinson
+      reportedly has confessed and the firearm allegedly used has been recovered. It
+      is now up to the Feds and the Utah police to present evidence to support their
+      claim. I was traveling today to attend a friend’s birthday party and, for the
+      first time, got to tell the Judge, “Thank you for accommodating my schedule.”
+      We discussed the ballistics and the rifle involved: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article discusses skepticism surrounding the alleged shooter
+      of Charlie Kirk, Tyler Robinson, and highlights claims that Kirk rejected funding
+      from Israeli Prime Minister Netanyahu, suggesting a potential motive related to
+      pro-Israel forces.
+    paragraph_summary: The article discusses skepticism surrounding the alleged shooter,
+      Tyler Robinson, in the assassination of Charlie Kirk, suggesting alternative motives
+      behind the incident. While the FBI and local law enforcement label Robinson as
+      a radical leftist acting independently, sources from The GrayZone reveal that
+      Kirk had recently rejected a significant funding offer from Israeli Prime Minister
+      Benjamin Netanyahu for his organization, Turning Point USA. A friend of Kirk claims
+      that he felt threatened by pro-Israel forces and had grown increasingly critical
+      of Netanyahu, whom he viewed as a manipulative figure in U.S. politics. Additionally,
+      Kirk reportedly warned former President Trump against military actions favoring
+      Israel, highlighting his concerns about the influence of Israeli interests in
+      American governance.
+    published: '2025-09-13T04:04:25+00:00'
+  - title: Is There Something More Nefarious Behind the Murder of Charlie Kirk?
+    url: https://sonar21.com/is-there-something-more-nefarious-behind-the-murder-of-charlie-kirk/
+    text: 'There is an understandable level of skepticism about the 22-year-old alleged
+      to have fired the shot that killed Charlie Kirk. The spin coming out of the FBI
+      and local law enforcement is painting Tyler Robinson as a radical leftist acting
+      on his own.  I have no evidence to disprove that claim, but there are some other
+      things that suggest an alternative motive. I want to call your attention to the
+      latest from Max Blumenthal and Anya Parampil at the GrayZone : Charlie Kirk refused
+      Netanyahu funding offer, was ‘frightened’ by pro-Israel forces before death, friend
+      reveals . I am posting the first three paragraphs of the article (and I encourage
+      you to read the rest): Charlie Kirk rejected an offer earlier this year from Israeli
+      Prime Minister Benjamin Netanyahu to arrange a massive new infusion of Zionist
+      money into his Turning Point USA (TPUSA) organization, America’s largest conservative
+      youth association, according to a longtime friend of the slain commentator speaking
+      on the condition of anonymity. The source told The Grayzone that the late pro-Trump
+      influencer believed Netanyahu was trying to cow him into silence as he began to
+      publicly question Israel’s overwhelming influence in Washington and demanded more
+      space to criticize it. In the weeks leading up to his September 10 assassination,
+      Kirk had come to loathe the Israeli leader, regarding him as a “bully,” the source
+      said. Kirk was disgusted by what he witnessed inside the Trump administration,
+      where Netanyahu sought to personally dictate the president’s personnel decisions,
+      and weaponized Israeli assets like billionaire donor Miriam Adelson to keep the
+      White House firmly under its thumb. According to Kirk’s friend, who also enjoyed
+      access to President Donald Trump and his inner circle, Kirk strongly warned Trump
+      last June against bombing Iran on Israel’s behalf. “Charlie was the only person
+      who did that,” they said, recalling how Trump “barked at him” in response and
+      angrily shut down the conversation. The source believes the incident confirmed
+      in Kirk’s mind that the president of the United States had fallen under the control
+      of a malign foreign power, and was leading his own country into a series of disastrous
+      conflicts. If you watched the debate between Dave Smith and Josh Hammer, which
+      was moderated by Charlie on July 13th, at least 2/3rds of the youthful audience
+      cheered Dave’s strong critique of Israel. There is no doubt that the Zionists
+      are panicked by the growing opposition to Zionism and Israel’s genocide of the
+      Palestinian people among the under-30 crowd in the United States. This would not
+      be the first time that the ardent Zionists have been part of a successful effort
+      to kill an American politician or military personnel. The evidence that Israeli
+      intelligence, along with the CIA and Meyer Lansky’s crew, carried out the assassination
+      of John F. Kennedy because of his efforts to stop Israel’s nuclear weapons program
+      and to require the predecessor of AIPAC to register as a foreign agent. While
+      it is not wild speculation to point out the obvious motive for the Zionists to
+      eliminate Charlie Kirk, we still have to deal with the facts at hand — Tyler Robinson
+      reportedly has confessed and the firearm allegedly used has been recovered. It
+      is now up to the Feds and the Utah police to present evidence to support their
+      claim. I was traveling today to attend a friend’s birthday party and, for the
+      first time, got to tell the Judge, “Thank you for accommodating my schedule.”
+      We discussed the ballistics and the rifle involved: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article discusses skepticism surrounding the alleged shooter
+      of Charlie Kirk, Tyler Robinson, and highlights claims that Kirk rejected funding
+      from Israeli Prime Minister Netanyahu, suggesting a potential motive related to
+      pro-Israel forces.
+    paragraph_summary: The article discusses skepticism surrounding the alleged shooter,
+      Tyler Robinson, in the assassination of Charlie Kirk, suggesting alternative motives
+      behind the incident. While the FBI and local law enforcement label Robinson as
+      a radical leftist acting independently, sources from The GrayZone reveal that
+      Kirk had recently rejected a significant funding offer from Israeli Prime Minister
+      Benjamin Netanyahu for his organization, Turning Point USA. A friend of Kirk claims
+      that he felt threatened by pro-Israel forces and had grown increasingly critical
+      of Netanyahu, whom he viewed as a manipulative figure in U.S. politics. Additionally,
+      Kirk reportedly warned former President Trump against military actions favoring
+      Israel, highlighting his concerns about the influence of Israeli interests in
+      American governance.
+    published: '2025-09-13T04:04:25+00:00'
+  - title: Trump’s EU Tariff Gambit on India and China Crumbles
+    url: https://sonar21.com/trumps-eu-tariff-gambit-on-india-and-china-crumbles/
+    text: Trump and his economic team bet the house on persuading the Europeans to impose
+      tough tariffs on India and China as a way to pressure the Russian government by
+      targeting its major fossil-fuel customers. As I have previously stated, Treasury
+      Secretary Bessent, along with Peter Navarro, wrongly believed that Russia was
+      strategically dependent on exporting oil to China and India and that imposing
+      significant costs on Russia would collapse the Russian economy. Well, that bet
+      is busted. The European Union (EU) has rejected US President Donald Trump’s push
+      for 100% tariffs on India and China, as per media reports. Why? Notably, the EU
+      is in the midst of concluding a trade deal with New Delhi. The two sides are deliberating
+      this week, looking to resolve their differences over issues of agriculture, dairy,
+      and non-tariff barriers to meet an ambitious end-of-year deadline for a deal.
+      Prime Minister Narendra Modi on Wednesday had a telephonic conversation with his
+      Italian counterpart Giorgia Meloni, deliberating bilateral ties, trade, and global
+      issues, including the Ukraine conflict. Remains to be seen if Trump is going to
+      double down in ratcheting up tariffs and sanctions on Russia — count me as a skeptic
+      — or is the President simply going to do nothing and let the war come to its inevitable
+      conclusion. With the focus of the media almost entirely consumed by the murder
+      of Charlie Kirk, this was a major punch in the face to Donald Trump’s diplomacy.
+      Shifting briefly to Israel’s bombing of Qatar, the UN Security Council unanimously
+      passed a resolution condemning Israel’s attack on Qatar on September 11, 2025.
+      Although the statement did not directly name Israel, it was clear that the condemnation
+      was directed at Israel because of its airstrike in Qatar last week targeting Hamas
+      officials. This move was notable, as the US usually shields Israel from Security
+      Council criticism but, in this case, President Trump and US diplomats expressed
+      concerns and joined the Council’s expression of solidarity with Qatar. I think
+      that Trump realized he had to side with Qatar on this or put at risk any possibility
+      of progress in getting support for the Abraham Accords from the Gulf Arabs. I
+      had a good chat with Garland Nixon today. We started off by discussing Charlie
+      Kirk’s horrific death, but also touched on the situation with Qatar and Trump’s
+      failure to get the Europeans to impose tariffs. I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .
+    one_sentence_summary: The European Union has rejected President Trump's proposal
+      for imposing tough tariffs on India and China, undermining his economic team's
+      strategy to pressure Russia by targeting its fossil-fuel customers, as the EU
+      is focused on finalizing a trade deal with India.
+    paragraph_summary: The article discusses the failure of President Trump's economic
+      strategy to persuade the European Union to impose significant tariffs on India
+      and China as a means to pressure Russia by targeting its fossil fuel customers.
+      Despite Trump's push for 100% tariffs, the EU has rejected this approach, particularly
+      as it seeks to finalize a trade deal with India, which is currently under negotiation.
+      The article notes that Trump's economic advisors, including Treasury Secretary
+      Bessent and Peter Navarro, mistakenly believed that such tariffs would cripple
+      the Russian economy. Additionally, the article touches on the UN Security Council's
+      unanimous condemnation of Israel's recent bombing of Qatar, highlighting a rare
+      instance where the US did not shield Israel from criticism, indicating a shift
+      in diplomatic dynamics.
+    published: '2025-09-12T02:34:03+00:00'
+  - title: Trump’s EU Tariff Gambit on India and China Crumbles
+    url: https://sonar21.com/trumps-eu-tariff-gambit-on-india-and-china-crumbles/
+    text: Trump and his economic team bet the house on persuading the Europeans to impose
+      tough tariffs on India and China as a way to pressure the Russian government by
+      targeting its major fossil-fuel customers. As I have previously stated, Treasury
+      Secretary Bessent, along with Peter Navarro, wrongly believed that Russia was
+      strategically dependent on exporting oil to China and India and that imposing
+      significant costs on Russia would collapse the Russian economy. Well, that bet
+      is busted. The European Union (EU) has rejected US President Donald Trump’s push
+      for 100% tariffs on India and China, as per media reports. Why? Notably, the EU
+      is in the midst of concluding a trade deal with New Delhi. The two sides are deliberating
+      this week, looking to resolve their differences over issues of agriculture, dairy,
+      and non-tariff barriers to meet an ambitious end-of-year deadline for a deal.
+      Prime Minister Narendra Modi on Wednesday had a telephonic conversation with his
+      Italian counterpart Giorgia Meloni, deliberating bilateral ties, trade, and global
+      issues, including the Ukraine conflict. Remains to be seen if Trump is going to
+      double down in ratcheting up tariffs and sanctions on Russia — count me as a skeptic
+      — or is the President simply going to do nothing and let the war come to its inevitable
+      conclusion. With the focus of the media almost entirely consumed by the murder
+      of Charlie Kirk, this was a major punch in the face to Donald Trump’s diplomacy.
+      Shifting briefly to Israel’s bombing of Qatar, the UN Security Council unanimously
+      passed a resolution condemning Israel’s attack on Qatar on September 11, 2025.
+      Although the statement did not directly name Israel, it was clear that the condemnation
+      was directed at Israel because of its airstrike in Qatar last week targeting Hamas
+      officials. This move was notable, as the US usually shields Israel from Security
+      Council criticism but, in this case, President Trump and US diplomats expressed
+      concerns and joined the Council’s expression of solidarity with Qatar. I think
+      that Trump realized he had to side with Qatar on this or put at risk any possibility
+      of progress in getting support for the Abraham Accords from the Gulf Arabs. I
+      had a good chat with Garland Nixon today. We started off by discussing Charlie
+      Kirk’s horrific death, but also touched on the situation with Qatar and Trump’s
+      failure to get the Europeans to impose tariffs. I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .
+    one_sentence_summary: The European Union has rejected President Trump's proposal
+      for imposing tough tariffs on India and China, undermining his economic team's
+      strategy to pressure Russia by targeting its fossil-fuel customers, as the EU
+      is focused on finalizing a trade deal with India.
+    paragraph_summary: The article discusses the failure of President Trump's economic
+      strategy to persuade the European Union to impose significant tariffs on India
+      and China as a means to pressure Russia by targeting its fossil fuel customers.
+      Despite Trump's push for 100% tariffs, the EU has rejected this approach, particularly
+      as it seeks to finalize a trade deal with India, which is currently under negotiation.
+      The article notes that Trump's economic advisors, including Treasury Secretary
+      Bessent and Peter Navarro, mistakenly believed that such tariffs would cripple
+      the Russian economy. Additionally, the article touches on the UN Security Council's
+      unanimous condemnation of Israel's recent bombing of Qatar, highlighting a rare
+      instance where the US did not shield Israel from criticism, indicating a shift
+      in diplomatic dynamics.
+    published: '2025-09-12T02:34:03+00:00'
+  - title: The Murder of Charlie Kirk and, Unrelated, The Polish False Flag
+    url: https://sonar21.com/the-murder-of-charlie-kirk-and-unrelated-the-polish-false-flag/
+    text: 'Charlie Kirk, the 31-year-old founder of Turning Point USA , was assassinated
+      today while speaking to a large assembly of college students. I am posting on
+      this for the benefit of my foreign readers who have likely been inundated with
+      the propaganda that Charlie was arch Zionist. He was not. Although Charlie, especially
+      a few years back, was an ardent supporter of Israel, there is evidence that in
+      the last few months his view was starting to change. At his Turning Point conference
+      on July 13, 2025, Charlie hosted a debate on Israel, which featured the Zionist
+      Josh Hammer debating comedian Dave Smith. Dave wiped the floor with him. Ironically,
+      in light of today’s killing, Dave opened the session by reminding the audience
+      about the attempted assassination of Donald Trump on July 13. No blind supporter
+      of Israel would have allowed this debate… but Charlie did. Charlie’s schtick was
+      to travel to US colleges and universities and hold open-air meetings where he
+      would debate woke students and, through dialogue and reason, try to change hearts-and-minds
+      to embrace his conservative agenda. You may disagree with some, if not all, of
+      Charlie’s views, but he was a gentle and intelligent soul. He did not insult or
+      harangue his opponents. Instead, he spoke to them as equals and employed the truly
+      dangerous weapon… logic. I think of Charlie as a Caucasian Malcolm X . If you
+      have the time to watch the following debate, you will gain insight into the kind
+      of man that Charlie was. RIP! A remarkable life filled with amazing accomplishments
+      for someone so young. Charlie’s murder destroyed any chance that the Polish false
+      flag story regarding an alleged swarm of Russian drones over Poland would occupy
+      the media’s attention… Ditto for the failed Israeli attempt to assassinate Hamas
+      negotiators in Qatar. Those of you who live outside the United States don’t have
+      that problem, and I am pretty sure those two stories dominated your news coverage.
+      Before focusing on the Polish story, let me just say that I wish the deaths of
+      Palestinian women and children and senior citizens would receive the same attention
+      and be treated with the same level of horror and outrage that attends the death
+      of Charlie Kirk. Last night (Tuesday), around 11pm Eastern Time, there were a
+      flurry of reports hitting social media about an alleged Russian drone attack inside
+      Polish territory. Here is a brief sample: Is Poland under attack by “Geraniums”?!
+      Preliminary strike by a combat UAV in Poland, Warsaw closes airports, — monitoring
+      resources. Belarus stated that they shot down some drones last night, which were
+      diverted from their course by electronic warfare. By early afternoon east-coast-time
+      on Wednesday, the smoke had cleared, sort of, and the estimated number of Russian
+      drones that strayed into Poland stood at four. The Russian Ministry of Defense
+      and Ministry of Foreign Affairs both denied this was a deliberate Russian incursion
+      into Poland because the alleged drones, if launched from Russian controlled territory
+      in the Donbas, had a limited range of 750 km and the Polish border, which was
+      more than 1,000 km from the Donbas, did not have the capability of flying that
+      far. I discussed the Polish drone incident and the Zionist attack on Qatar in
+      detail today with Danny Davis and with Danny Haiphong and Colonel Lawrence Wilkerson:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Charlie Kirk, the founder of Turning Point USA, was assassinated
+      while addressing college students, amidst a backdrop of evolving views on Israel
+      and a recent debate he hosted on the topic.
+    paragraph_summary: Charlie Kirk, the 31-year-old founder of Turning Point USA, was
+      assassinated while addressing a large group of college students, prompting a discussion
+      about his evolving views on Israel. Although he was once a strong supporter of
+      Israel, recent evidence suggested a shift in his stance, highlighted by a debate
+      he hosted at a Turning Point conference in July 2025, where differing opinions
+      were openly discussed. Known for his respectful and logical approach to engaging
+      with opponents, Kirk aimed to persuade students to embrace conservative values
+      through dialogue rather than confrontation. His untimely death overshadowed other
+      significant news stories, including a false flag narrative involving Russian drones
+      in Poland and an Israeli assassination attempt on Hamas negotiators, which were
+      likely to dominate international headlines.
+    published: '2025-09-11T01:03:05+00:00'
+  - title: The Murder of Charlie Kirk and, Unrelated, The Polish False Flag
+    url: https://sonar21.com/the-murder-of-charlie-kirk-and-unrelated-the-polish-false-flag/
+    text: 'Charlie Kirk, the 31-year-old founder of Turning Point USA , was assassinated
+      today while speaking to a large assembly of college students. I am posting on
+      this for the benefit of my foreign readers who have likely been inundated with
+      the propaganda that Charlie was arch Zionist. He was not. Although Charlie, especially
+      a few years back, was an ardent supporter of Israel, there is evidence that in
+      the last few months his view was starting to change. At his Turning Point conference
+      on July 13, 2025, Charlie hosted a debate on Israel, which featured the Zionist
+      Josh Hammer debating comedian Dave Smith. Dave wiped the floor with him. Ironically,
+      in light of today’s killing, Dave opened the session by reminding the audience
+      about the attempted assassination of Donald Trump on July 13. No blind supporter
+      of Israel would have allowed this debate… but Charlie did. Charlie’s schtick was
+      to travel to US colleges and universities and hold open-air meetings where he
+      would debate woke students and, through dialogue and reason, try to change hearts-and-minds
+      to embrace his conservative agenda. You may disagree with some, if not all, of
+      Charlie’s views, but he was a gentle and intelligent soul. He did not insult or
+      harangue his opponents. Instead, he spoke to them as equals and employed the truly
+      dangerous weapon… logic. I think of Charlie as a Caucasian Malcolm X . If you
+      have the time to watch the following debate, you will gain insight into the kind
+      of man that Charlie was. RIP! A remarkable life filled with amazing accomplishments
+      for someone so young. Charlie’s murder destroyed any chance that the Polish false
+      flag story regarding an alleged swarm of Russian drones over Poland would occupy
+      the media’s attention… Ditto for the failed Israeli attempt to assassinate Hamas
+      negotiators in Qatar. Those of you who live outside the United States don’t have
+      that problem, and I am pretty sure those two stories dominated your news coverage.
+      Before focusing on the Polish story, let me just say that I wish the deaths of
+      Palestinian women and children and senior citizens would receive the same attention
+      and be treated with the same level of horror and outrage that attends the death
+      of Charlie Kirk. Last night (Tuesday), around 11pm Eastern Time, there were a
+      flurry of reports hitting social media about an alleged Russian drone attack inside
+      Polish territory. Here is a brief sample: Is Poland under attack by “Geraniums”?!
+      Preliminary strike by a combat UAV in Poland, Warsaw closes airports, — monitoring
+      resources. Belarus stated that they shot down some drones last night, which were
+      diverted from their course by electronic warfare. By early afternoon east-coast-time
+      on Wednesday, the smoke had cleared, sort of, and the estimated number of Russian
+      drones that strayed into Poland stood at four. The Russian Ministry of Defense
+      and Ministry of Foreign Affairs both denied this was a deliberate Russian incursion
+      into Poland because the alleged drones, if launched from Russian controlled territory
+      in the Donbas, had a limited range of 750 km and the Polish border, which was
+      more than 1,000 km from the Donbas, did not have the capability of flying that
+      far. I discussed the Polish drone incident and the Zionist attack on Qatar in
+      detail today with Danny Davis and with Danny Haiphong and Colonel Lawrence Wilkerson:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Charlie Kirk, the founder of Turning Point USA, was assassinated
+      while addressing college students, amidst a backdrop of evolving views on Israel
+      and a recent debate he hosted on the topic.
+    paragraph_summary: Charlie Kirk, the 31-year-old founder of Turning Point USA, was
+      assassinated while addressing a large group of college students, prompting a discussion
+      about his evolving views on Israel. Although he was once a strong supporter of
+      Israel, recent evidence suggested a shift in his stance, highlighted by a debate
+      he hosted at a Turning Point conference in July 2025, where differing opinions
+      were openly discussed. Known for his respectful and logical approach to engaging
+      with opponents, Kirk aimed to persuade students to embrace conservative values
+      through dialogue rather than confrontation. His untimely death overshadowed other
+      significant news stories, including a false flag narrative involving Russian drones
+      in Poland and an Israeli assassination attempt on Hamas negotiators, which were
+      likely to dominate international headlines.
+    published: '2025-09-11T01:03:05+00:00'
   - title: Israel Is Out of Control… Who Will Stop the Zionists?
     url: https://sonar21.com/israel-is-out-of-control-who-will-stop-the-zionists/
     text: 'Cartoon by NEMO Today’s failed attempt to murder the Hamas negotiators in

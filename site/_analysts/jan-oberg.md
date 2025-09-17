@@ -7,14 +7,88 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  As the global community marks the opening of the 2025 UN General Assembly, recent developments highlight persistent fractures in international diplomacy and justice. The Assembly convened in New York on September 9, but, as **Jan Oberg** reports, the Special GA Segment on Palestine is being relocated to Geneva due to a US-imposed visa ban on Palestinian delegates. This move underscores ongoing tensions regarding US influence over UN proceedings and the marginalization of Palestinian voices at major international forums.
+  The geopolitical landscape remains tense as humanitarian crises and diplomatic standoffs dominate the agenda. The UN’s recent declaration of famine in Gaza has intensified calls for immediate international intervention. **Jan Oberg** highlights the urgency, urging citizens to pressure their governments for concrete action to prevent further starvation amid ongoing conflict. This comes as the UN General Assembly convenes in New York, with a special segment on Palestine relocated to Geneva due to a US visa ban on Palestinian delegates—an unusual move that underscores the political sensitivities and barriers facing diplomatic engagement.
   
-  Meanwhile, the EU Troika’s decision to trigger snapback sanctions on Iran for alleged violations of the nuclear deal has drawn sharp criticism. **Jan Oberg** characterizes the move as a “dangerous misstep,” arguing that it risks escalating tensions and undermining diplomatic avenues. The prevailing view among independent analysts is that these sanctions are likely to further destabilize the region and reduce the prospects for a negotiated solution. There is a high chance that this action will provoke retaliatory measures from Iran and complicate EU-Iran relations in the near term.
+  In parallel, the EU Troika’s decision to trigger snapback sanctions on Iran over alleged nuclear deal violations is drawing criticism. **Jan Oberg** warns that this step is a “dangerous misstep,” reflecting broader concerns among analysts that such punitive measures may escalate tensions without addressing underlying issues. The majority view across sources is that these sanctions risk further destabilizing the region and undermining prospects for diplomatic solutions.
   
-  On the media front, recent critiques have emerged regarding Western coverage of the Gaza situation. **Richard Falk**, cited by **Jan Oberg**, points to a persistent bias in mainstream narratives, particularly in influential outlets like The New York Times. Falk argues that such portrayals obscure the realities on the ground and hinder efforts toward a just and lasting peace. This critique reflects a broader call for more balanced and peace-oriented journalism, especially as public pressure mounts in Europe for governments to recognize Palestinian statehood.
+  Meanwhile, **Biljana Vankovska**’s recent open letter, as discussed by Oberg, stresses the need for political leaders to move beyond rhetoric and take substantive action, a sentiment echoed by civil society actors in response to both the Gaza crisis and broader international challenges.
   
-  Looking ahead, the trends suggest intensifying polarization within international institutions, with powerful member states increasingly shaping outcomes to suit national interests. The ongoing marginalization of Palestinian representation at the UN and the EU’s hardening stance on Iran are symptomatic of this shift. Based on current trajectories, it is quite likely that diplomatic gridlock will persist, with limited progress on both the Israeli-Palestinian conflict and the Iran nuclear issue in the coming months. The majority of independent analysts, including **Jan Oberg**, urge creative, future-oriented solutions to break these impasses, but confidence in immediate breakthroughs remains low.
+  Looking ahead, the prevailing trend is one of mounting public pressure on Western governments to adopt more principled and effective policies, particularly regarding the Israeli-Palestinian conflict. There is a high chance—“quite likely”—that continued grassroots mobilization will force political leaders to reconsider their current approaches, especially as humanitarian conditions worsen. However, without a shift from verbal commitments to concrete measures, the outlook for immediate relief in Gaza and progress on diplomatic fronts remains uncertain.
 articles:
+  - title: 'Gaza: Write a Letter to Your Government NOW – Part 3/3'
+    url: https://transnational.live/2025/09/11/gaza-write-a-letter-to-your-government-now-part-3-3/
+    text: 'Annette Schiffman TFF Board member September 11, 2025 This is the third appeal
+      from TFF. The first and the second here. On August 22, 2025, the UN officially
+      declared famine in Gaza. The world’s top authority on food security called for
+      help and said starvation will spread further within the Strip unless fighting
+      stops and much […] The post Gaza: Write a Letter to Your Government NOW – Part
+      3/3 appeared first on The Transnational .'
+    one_sentence_summary: The article urges readers to write to their governments in
+      response to the UN's declaration of famine in Gaza, emphasizing the need for immediate
+      action to prevent further starvation amid ongoing conflict.
+    paragraph_summary: In the third appeal from TFF, Annette Schiffman highlights the
+      urgent situation in Gaza following the UN's declaration of famine on August 22,
+      2025. The article emphasizes the dire need for international assistance to prevent
+      further starvation in the region, urging readers to contact their governments
+      to advocate for an end to the fighting and to provide necessary aid. This appeal
+      follows two previous calls for action, underscoring the escalating humanitarian
+      crisis in Gaza.
+    published: '2025-09-11T10:11:31+00:00'
+  - title: 'Gaza: Write a Letter to Your Government NOW – Part 3/3'
+    url: https://transnational.live/2025/09/11/gaza-write-a-letter-to-your-government-now-part-3-3/
+    text: 'Annette Schiffman TFF Board member September 11, 2025 This is the third appeal
+      from TFF. The first and the second here. On August 22, 2025, the UN officially
+      declared famine in Gaza. The world’s top authority on food security called for
+      help and said starvation will spread further within the Strip unless fighting
+      stops and much […] The post Gaza: Write a Letter to Your Government NOW – Part
+      3/3 appeared first on The Transnational .'
+    one_sentence_summary: The article urges readers to write to their governments in
+      response to the UN's declaration of famine in Gaza, emphasizing the need for immediate
+      action to prevent further starvation amid ongoing conflict.
+    paragraph_summary: In the third appeal from TFF, Annette Schiffman highlights the
+      urgent situation in Gaza following the UN's declaration of famine on August 22,
+      2025. The article emphasizes the dire need for international assistance to prevent
+      further starvation in the region, urging readers to contact their governments
+      to advocate for an end to the fighting and to provide necessary aid. This appeal
+      follows two previous calls for action, underscoring the escalating humanitarian
+      crisis in Gaza.
+    published: '2025-09-11T10:11:31+00:00'
+  - title: Dear Madam President – Part 2/3
+    url: https://transnational.live/2025/09/10/dear-madam-president/
+    text: Biljana Vankovska Professor, Dr, TFF Board member September 10, 2025 The second
+      of three TFF Appeals This is an example – for your inspiration – of how you can
+      address your head of state, prime minister and other relevant ministers. To urge
+      them to take action and not just use words.Instead of just sending it […] The
+      post Dear Madam President – Part 2/3 appeared first on The Transnational .
+    one_sentence_summary: Biljana Vankovska's article emphasizes the importance of urging
+      political leaders to take concrete actions rather than merely making verbal commitments,
+      as exemplified in her open letter to the president and other officials.
+    paragraph_summary: The article by Professor Biljana Vankovska, a member of the TFF
+      Board, serves as a template for citizens to address their leaders, specifically
+      targeting heads of state and prime ministers. It emphasizes the importance of
+      urging these officials to take concrete actions rather than merely offering verbal
+      commitments. This piece is part of a series aimed at inspiring individuals to
+      engage with their governments effectively, advocating for accountability and proactive
+      measures in governance.
+    published: '2025-09-10T10:32:41+00:00'
+  - title: Dear Madam President – Part 2/3
+    url: https://transnational.live/2025/09/10/dear-madam-president/
+    text: Biljana Vankovska Professor, Dr, TFF Board member September 10, 2025 The second
+      of three TFF Appeals This is an example – for your inspiration – of how you can
+      address your head of state, prime minister and other relevant ministers. To urge
+      them to take action and not just use words.Instead of just sending it […] The
+      post Dear Madam President – Part 2/3 appeared first on The Transnational .
+    one_sentence_summary: Biljana Vankovska's article emphasizes the importance of urging
+      political leaders to take concrete actions rather than merely making verbal commitments,
+      as exemplified in her open letter to the president and other officials.
+    paragraph_summary: The article by Professor Biljana Vankovska, a member of the TFF
+      Board, serves as a template for citizens to address their leaders, specifically
+      targeting heads of state and prime ministers. It emphasizes the importance of
+      urging these officials to take concrete actions rather than merely offering verbal
+      commitments. This piece is part of a series aimed at inspiring individuals to
+      engage with their governments effectively, advocating for accountability and proactive
+      measures in governance.
+    published: '2025-09-10T10:32:41+00:00'
   - title: 'A Call to Citizens Everywhere: Choose Your Action for Justice'
     url: https://transnational.live/2025/09/09/a-call-to-citizens-everywhere-choose-your-action-for-justice/
     text: 'Contrary to what we stated when publishing this Call, the UN General Assembly

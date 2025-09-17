@@ -8,21 +8,37 @@ websites:
   - https://www.commondreams.org/author/jeffrey-d-sachs
   - https://www.jeffsachs.org/newspaper-articles
 summary: |
-  The geopolitical landscape remains dominated by the ongoing crisis in Gaza, the deepening isolation of Israel and the United States on the world stage, and the shifting alignments in global diplomacy. The situation in Gaza has reached unprecedented levels of humanitarian catastrophe, with **Jeffrey Sachs** reporting that Israel, with active US support, is “systematically depriving more than two million people of food,” and that “more than half a million Palestinians face catastrophic hunger.” This mass starvation, now officially confirmed by the UN and major humanitarian organizations, is being described as the first such case in the Middle East, and is widely recognized as a deliberate policy by the Israeli government, with open statements from Israeli ministers confirming the intent to use hunger as a weapon.
+  The geopolitical landscape remains dominated by the ongoing crisis in Gaza, the aftermath of Israel’s recent military campaigns across the region, and shifting international alignments. The most recent developments underscore both the humanitarian catastrophe in Gaza and the growing global isolation of Israel and its US backer.
   
-  The United States continues to shield Israel diplomatically, most notably through its veto power at the UN Security Council and by blocking even basic humanitarian responses. However, international consensus is rapidly consolidating against this position. As **Sachs** notes, “172 countries, with more than 90 percent of the world population, voted to support Palestine’s right to self-determination” last December, leaving Israel and the US increasingly isolated. Public opinion in the US is also shifting, with 58% of Americans now supporting UN recognition of Palestine and 60% opposing Israel’s actions in Gaza.
+  **Gaza: Starvation as a Weapon of War**
   
-  In response to the ongoing crisis, new practical steps are being advocated and, in some cases, implemented. Turkiye has already severed all economic, trade, and transport links with Israel, setting a precedent that **Sachs** urges other states to follow. There is mounting pressure for the suspension of Israel from the UN General Assembly, the recognition of Palestine by all remaining states, and the dispatch of a UN Protection Force to Gaza under the “Uniting for Peace” mechanism—bypassing the US veto in the Security Council.
+  According to **Jeffrey Sachs**, Israel, with US complicity, is “committing genocide in Gaza through the mass starvation of the population, as well as direct mass murders and the physical destruction of Gaza’s infrastructure.” This assessment is now widely echoed by international organizations, including the UN, Amnesty International, and the Red Cross, all confirming mass starvation for the first time in the region’s modern history. More than half a million Palestinians face catastrophic hunger, with at least 132,000 children under five at acute risk of death from malnutrition. Food distribution sites are routinely targeted by Israeli forces, further exacerbating the crisis.
   
-  Meanwhile, the broader context of US and Israeli policy in the region continues to unravel. The collapse of Syria, following years of US and Israeli covert operations and sanctions, has further destabilized the region and emboldened Israel’s expansionist ambitions, particularly in the Golan Heights. The “Clean Break” strategy, devised in the 1990s and implemented through successive US administrations, is now widely seen as the root cause of decades of war and instability stretching from Libya to Iran.
+  Despite overwhelming global condemnation—172 countries supported Palestine’s right to self-determination last December—the US continues to shield Israel diplomatically, most recently by denying visas to Palestinian leaders and vetoing Palestine’s UN membership. However, **Sachs** notes that “even that [US support] may not be there for long,” as American public opinion shifts: 58% now support UN recognition of Palestine, and 60% oppose Israel’s actions in Gaza.
   
-  **Trends and Predictions:**  
-  - There is a high likelihood (“I guarantee,” per **Sachs**) that international isolation of Israel and the US will intensify, especially as more countries adopt measures similar to Turkiye’s and as the UN General Assembly moves toward possible suspension of Israel.
-  - The humanitarian crisis in Gaza is expected to worsen in the immediate term, but mounting global pressure may force a change in US policy—particularly as domestic American opinion shifts against unconditional support for Israel.
-  - The prospects for a two-state solution are gaining momentum, with the majority of UN member states and even key Western allies now pledging formal recognition of Palestine at the upcoming UN summit.
-  - If the US maintains its current stance, it risks not only further isolation but also the erosion of its influence in the Middle East and beyond, as alternative diplomatic and economic blocs (including BRICS and the Global South) coalesce around a new, multipolar order.
+  **International Response: Calls for Concrete Action**
   
-  In summary, the world is at a critical juncture: the international community is being tested as never before to uphold humanitarian law and the UN Charter, with the outcome likely to reshape the geopolitical order in the months ahead.
+  In response to the deepening crisis, **Sachs** highlights a series of practical steps gaining traction among independent analysts and a growing number of states:
+  
+  - **Turkiye** has ended all economic, trade, shipping, and air links with Israel, setting a precedent for broader international sanctions.
+  - Calls are intensifying for more UN member states to recognize Palestine, with a major push expected at the upcoming UN summit on September 22.
+  - Suspension of diplomatic relations by Arab Abraham Accords signatories (Bahrain, Morocco, Sudan, UAE) is being urged until the siege of Gaza ends.
+  - There is mounting advocacy for the UN General Assembly to suspend Israel’s membership, bypassing the US veto, and to authorize a UN protection force for Gaza under the “Uniting for Peace” mechanism.
+  
+  **Broader Regional and Global Implications**
+  
+  The crisis in Gaza is part of a wider pattern of destabilization across the Middle East, driven by Israel’s long-term strategy to block Palestinian statehood through military dominance and regime change, as detailed in the “Clean Break” doctrine. The recent collapse of Syria, following years of US-Israeli covert operations and sanctions, is cited by **Sachs** as the latest example of this approach, which has left a “4,000-kilometer swath of violence from Libya to Iran.”
+  
+  Internationally, the US and Israel are increasingly isolated. Even traditional allies such as France, the UK, Australia, and Canada have pledged to recognize Palestine at the UN General Assembly. The majority of the world’s population, as represented in the UN, now supports Palestinian statehood and an end to the occupation.
+  
+  **Trends and Predictions**
+  
+  - There is **high confidence** that international pressure on Israel will escalate, especially through economic and diplomatic isolation, as more countries follow Turkiye’s lead.
+  - It is **quite likely** that the UN General Assembly will take unprecedented steps, including moves to suspend Israel’s membership and authorize a protection force, given the paralysis at the Security Council.
+  - The US position is becoming increasingly untenable both internationally and domestically, with public opinion shifting rapidly against unconditional support for Israel.
+  - Unless there is a dramatic policy shift from Washington, the US risks standing “naked and alone in its criminal complicity,” as **Sachs** puts it, with severe consequences for its global standing.
+  
+  In summary, the humanitarian disaster in Gaza is catalyzing a realignment of international attitudes and policies toward Israel and the US. The majority of analysts and global actors now see the two-state solution, enforced through robust international mechanisms, as the only viable path to peace and regional stability. The coming weeks—especially the UN summit on Palestine—are poised to be decisive.
 articles:
   - title: How to stop Israel from starving Gaza
     url: https://www.aljazeera.com/amp/opinions/2025/9/4/how-to-stop-israel-from-starving-gaza
