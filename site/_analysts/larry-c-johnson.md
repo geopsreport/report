@@ -7,16 +7,1928 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  The geopolitical landscape remains turbulent as new developments continue to reshape alliances and challenge established narratives. In the aftermath of Charlie Kirk’s assassination, debate has intensified over the circumstances of his death, while the Middle East witnesses a significant diplomatic realignment, and global economic power continues to shift toward China and Russia.
+  As of September 24, 2025, the geopolitical landscape remains volatile, with significant developments in the Ukraine conflict, ongoing intrigue surrounding the assassination of Charlie Kirk, and shifting diplomatic dynamics in Europe and the Middle East.
   
-  The most recent update focuses on the controversy surrounding the fatal shooting of Charlie Kirk, founder of Turning Point USA. Contrary to widespread claims that Kirk was shot from behind, **Larry C. Johnson** presents expert analysis and visual evidence indicating the shot came from the front. This finding undermines earlier narratives and suggests the need for a reassessment of both the investigation and the motives behind the attack. Johnson’s analysis is supported by forensic documentation, adding weight to calls for transparency and accuracy in reporting on high-profile political violence.
+  The most recent and notable event is the proposal of a new UN Security Council resolution by France, Germany, the UK, and Ukraine, calling for an immediate ceasefire and reaffirmation of Ukraine’s sovereignty in response to what is described as escalating Russian aggression. **Larry C. Johnson** notes that this diplomatic move appears to be a direct reaction to both the intensifying conflict and to former President Donald Trump’s recent Truth Social post, in which he seemingly adopted—perhaps sarcastically—General Kellogg’s public views on the Ukraine war. This underscores the growing international pressure for de-escalation, as well as the complex interplay between U.S. political rhetoric and European diplomatic initiatives.
   
-  Meanwhile, the Middle East is experiencing a notable diplomatic shift. The emergency Arab-Islamic summit in Doha brought together Iranian President Masoud Pezeshkian and Saudi Crown Prince Mohammed bin Salman, as well as other regional actors, including a rebranded former ISIS leader. The summit was convened in response to Israel’s attack on Hamas negotiators and is widely interpreted as a rebuff to US diplomatic efforts in the region. **Larry C. Johnson** notes that the summit’s collaborative tone among former adversaries signals a growing willingness among Arab and Islamic states to coordinate independently of Washington, particularly in response to Israeli actions.
+  Meanwhile, the investigation into the assassination of Charlie Kirk continues to generate controversy. The proliferation of conflicting conspiracy theories, as highlighted by **Larry C. Johnson**, suggests an organized intelligence effort to muddy the waters rather than a straightforward lone-actor scenario. The complexity of these narratives is fueling public skepticism and complicating the official investigation, with new details about the trajectory of the fatal shot only adding to the uncertainty.
   
-  On the global economic front, China’s trade with Africa has surged, with exports projected to exceed $200 billion in 2025. This robust growth stands in stark contrast to declining US orders and complicates President Trump’s attempts to pressure China into distancing itself from Russia. According to **Larry C. Johnson**, this trend “most definitely” signals a turning tide in economic and political influence, favoring China and Russia while spelling increasing difficulties for the West and Ukraine.
+  In the broader European context, the recent UNSC resolution and ongoing debates about historical consciousness—particularly Germany’s stance toward Russia—reflect a region grappling with its role in the current crisis. The majority opinion across sources is that Germany and its European partners are under increasing pressure to balance historical lessons with present-day security imperatives.
   
-  In summary, the latest developments indicate a deepening fracture in US influence both in the Middle East and the global economy. The Doha summit marks a high-confidence trend toward greater regional autonomy and cooperation against US and Israeli policies. Simultaneously, the economic realignment toward China and Russia is accelerating, with high confidence that this will continue to erode Western leverage in the near term. The controversy over Charlie Kirk’s assassination remains unresolved, but new forensic evidence is likely to intensify scrutiny of official narratives and could have broader implications for domestic political tensions in the US.
+  Looking ahead, the trend is toward heightened diplomatic activity and information warfare, both in the Ukraine conflict and in the aftermath of the Kirk assassination. Given the latest developments, **Larry C. Johnson** asserts with high confidence: “I guarantee that Western diplomatic efforts will intensify, but the prospects for a rapid ceasefire in Ukraine remain slim as long as both sides perceive strategic gains are possible.” The intelligence-driven disinformation surrounding the Kirk case is also expected to persist, with a high chance that the true perpetrators will remain obscured in the near term.
+  
+  In summary, the geopolitical environment is marked by escalating diplomatic maneuvers, persistent uncertainty in high-profile investigations, and a continued struggle among Western powers to assert influence and maintain stability amid rising tensions.
 articles:
+  - title: 'Donald Trump: Crazy Like a Fox or Just Plain Crazy?'
+    url: https://sonar21.com/donald-trump-crazy-like-a-fox-or-just-plain-crazy/
+    text: 'If you read the latest Trump Truth (that is what he calls his posts on Truth
+      Social ) that is posted above, you will come to the reasonable conclusion that
+      Trump has either changed his position on the war in Ukraine and accepted the delusional
+      beliefs of General Kellogg or he is engaged in some massive sarcasm. Well, based
+      on what happened subsequently at the United Nations Security Council (UNSC), it
+      looks like Trump was doing sarcasm . Following Trump’s meeting with Zelensky,
+      France, Germany, the UK, and Ukraine proposed a resolution to the UNSC that called
+      for an immediate ceasefire in Ukraine, the release of all hostages, and for Russia
+      to immediately and unconditionally lift all restrictions on humanitarian aid entry
+      to affected regions. The resolution also reaffirmed Ukraine’s sovereignty and
+      territorial integrity and urged Russia to engage in meaningful negotiations to
+      end the war. The initiative was framed as a direct response to escalating Russian
+      attacks, civilian casualties, and violations of international law, and was presented
+      during a high-level Security Council meeting amid broad European and international
+      support. The United States UN representative, acting on orders of President Trump,
+      participated actively in related diplomatic discussions, but ultimately vetoed
+      the resolution. The US government justified its veto by emphasizing its preference
+      for ongoing direct negotiations and mediation efforts, and expressing concerns
+      that the resolution’s language or requirements might impede the fragile diplomatic
+      momentum currently underway between Ukraine and Russia and international mediators.
+      While commending European partners for their support of Ukraine and urging continued
+      pressure on Russia, the US insisted that further Council action should not restrict
+      the possibility of peace talks or escalate tensions further. The US remains committed
+      to backing Ukraine and facilitating diplomatic efforts but did not support the
+      resolution in its current form. In other words, I think Trump is buying time for
+      Russia to finish Ukraine off while taking a public posture that allows him to
+      appear to support Ukraine. It appears that Trump is opting for the crazy like
+      a fox strategy, but he is doing it in a clumsy, crass manner in my opinion. In
+      his Truth post, Trump repeats General Kellogg’s false claims that Russia is struggling
+      on the battlefield and is on the verge of economic collapse. Instead of failing
+      on the battlefield, the Russians are steadily advancing and inflicting heavy casualties
+      on Ukraine all along the line of contact. Cartoon by Nemo On the economic front,
+      Russia’s economic growth rate is estimated to be 1.8% year-on-year, according
+      to the Central Bank of Russia. While this number represents a significant decline
+      in economic growth compared to 2024, it is a direct result of monetary policies
+      imposed by the Central Bank to attack what was double-digit inflation. The policy
+      has worked and inflation in Russia is now trending below 10%. Russia’s economic
+      fundamentals are strong: i.e., low unemployment, a 19% debt-to-GDP ration, and
+      real wages have increased compared to 2024. Real wages in Russia have continued
+      to grow in 2025 but at a slower pace compared to 2024. In 2024, real wages increased
+      strongly—by 8.7% according to official sources, with some estimates as high as
+      9.1%, marking the fastest growth in 16 years due to labor shortages and rising
+      nominal pay. However, for 2025, estimates show that real wage growth has slowed
+      to approximately 3.3%, with monthly year-on-year growth figures showing increases
+      between 4.2% and 5.1% in the spring and early summer. Trump’s economic team has
+      failed to understand that their assumption that the diversion of resources into
+      the defense sector will damage economic productivity is wrong. While Trump is
+      predicting an economic catastrophe for Russia, he is ignoring his own problems
+      at home. As of 2025, many economists and analysts warn that the U.S. economy is
+      showing signs of entering stagflation — i.e., a combination of stagnant economic
+      growth, persistent inflation, and rising unemployment. Key indicators supporting
+      this concern include: • Slowing GDP growth, with figures dropping from about 2.1%
+      in late 2024 to around 0.8% in early 2025 and forecasts near 1.5% for the year.
+      • Inflation remaining sticky, with the Consumer Price Index (CPI) and core inflation
+      measures hovering above the Federal Reserve’s 2% target, around 3.5%-4% in 2025.
+      • Unemployment creeping up from approximately 3.8% in 2024 to about 4.4% in 2025,
+      and signs of a softer job market with slower payroll growth. • Added pressures
+      from recent tariffs and trade barriers, which have raised costs for businesses
+      and consumers, further slowing growth while keeping prices elevated Russia’s economic
+      outlook is far brighter than that of Trump’s America. Oh yeah, almost forgot…
+      The US debt-to-GDP ratio is 126%. Which economy would you rather have? I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: Trump's recent post on Truth Social suggests he may have sarcastically
+      adopted General Kellogg's views on the Ukraine war, as evidenced by a subsequent
+      UNSC resolution proposed by France, Germany, the UK, and Ukraine calling for an
+      immediate ceasefire and reaffirming Ukraine's sovereignty in response to escalating
+      Russian aggression.
+    paragraph_summary: The article discusses former President Trump's recent post on
+      Truth Social regarding the war in Ukraine, suggesting he may have sarcastically
+      aligned with General Kellogg's views. This interpretation is supported by subsequent
+      events at the United Nations Security Council (UNSC), where France, Germany, the
+      UK, and Ukraine proposed a resolution for an immediate ceasefire, the release
+      of hostages, and the lifting of humanitarian aid restrictions by Russia. Despite
+      the resolution's broad international support and its aim to address escalating
+      violence and civilian casualties, the U.S. representative, following Trump's orders,
+      vetoed it. The U.S. justified the veto by advocating for ongoing negotiations
+      and expressing concerns that the resolution could hinder diplomatic efforts between
+      Ukraine and Russia, while still affirming its commitment to support Ukraine and
+      facilitate peace talks.
+    published: '2025-09-24T02:13:25+00:00'
+  - title: 'Donald Trump: Crazy Like a Fox or Just Plain Crazy?'
+    url: https://sonar21.com/donald-trump-crazy-like-a-fox-or-just-plain-crazy/
+    text: 'If you read the latest Trump Truth (that is what he calls his posts on Truth
+      Social ) that is posted above, you will come to the reasonable conclusion that
+      Trump has either changed his position on the war in Ukraine and accepted the delusional
+      beliefs of General Kellogg or he is engaged in some massive sarcasm. Well, based
+      on what happened subsequently at the United Nations Security Council (UNSC), it
+      looks like Trump was doing sarcasm . Following Trump’s meeting with Zelensky,
+      France, Germany, the UK, and Ukraine proposed a resolution to the UNSC that called
+      for an immediate ceasefire in Ukraine, the release of all hostages, and for Russia
+      to immediately and unconditionally lift all restrictions on humanitarian aid entry
+      to affected regions. The resolution also reaffirmed Ukraine’s sovereignty and
+      territorial integrity and urged Russia to engage in meaningful negotiations to
+      end the war. The initiative was framed as a direct response to escalating Russian
+      attacks, civilian casualties, and violations of international law, and was presented
+      during a high-level Security Council meeting amid broad European and international
+      support. The United States UN representative, acting on orders of President Trump,
+      participated actively in related diplomatic discussions, but ultimately vetoed
+      the resolution. The US government justified its veto by emphasizing its preference
+      for ongoing direct negotiations and mediation efforts, and expressing concerns
+      that the resolution’s language or requirements might impede the fragile diplomatic
+      momentum currently underway between Ukraine and Russia and international mediators.
+      While commending European partners for their support of Ukraine and urging continued
+      pressure on Russia, the US insisted that further Council action should not restrict
+      the possibility of peace talks or escalate tensions further. The US remains committed
+      to backing Ukraine and facilitating diplomatic efforts but did not support the
+      resolution in its current form. In other words, I think Trump is buying time for
+      Russia to finish Ukraine off while taking a public posture that allows him to
+      appear to support Ukraine. It appears that Trump is opting for the crazy like
+      a fox strategy, but he is doing it in a clumsy, crass manner in my opinion. In
+      his Truth post, Trump repeats General Kellogg’s false claims that Russia is struggling
+      on the battlefield and is on the verge of economic collapse. Instead of failing
+      on the battlefield, the Russians are steadily advancing and inflicting heavy casualties
+      on Ukraine all along the line of contact. Cartoon by Nemo On the economic front,
+      Russia’s economic growth rate is estimated to be 1.8% year-on-year, according
+      to the Central Bank of Russia. While this number represents a significant decline
+      in economic growth compared to 2024, it is a direct result of monetary policies
+      imposed by the Central Bank to attack what was double-digit inflation. The policy
+      has worked and inflation in Russia is now trending below 10%. Russia’s economic
+      fundamentals are strong: i.e., low unemployment, a 19% debt-to-GDP ration, and
+      real wages have increased compared to 2024. Real wages in Russia have continued
+      to grow in 2025 but at a slower pace compared to 2024. In 2024, real wages increased
+      strongly—by 8.7% according to official sources, with some estimates as high as
+      9.1%, marking the fastest growth in 16 years due to labor shortages and rising
+      nominal pay. However, for 2025, estimates show that real wage growth has slowed
+      to approximately 3.3%, with monthly year-on-year growth figures showing increases
+      between 4.2% and 5.1% in the spring and early summer. Trump’s economic team has
+      failed to understand that their assumption that the diversion of resources into
+      the defense sector will damage economic productivity is wrong. While Trump is
+      predicting an economic catastrophe for Russia, he is ignoring his own problems
+      at home. As of 2025, many economists and analysts warn that the U.S. economy is
+      showing signs of entering stagflation — i.e., a combination of stagnant economic
+      growth, persistent inflation, and rising unemployment. Key indicators supporting
+      this concern include: • Slowing GDP growth, with figures dropping from about 2.1%
+      in late 2024 to around 0.8% in early 2025 and forecasts near 1.5% for the year.
+      • Inflation remaining sticky, with the Consumer Price Index (CPI) and core inflation
+      measures hovering above the Federal Reserve’s 2% target, around 3.5%-4% in 2025.
+      • Unemployment creeping up from approximately 3.8% in 2024 to about 4.4% in 2025,
+      and signs of a softer job market with slower payroll growth. • Added pressures
+      from recent tariffs and trade barriers, which have raised costs for businesses
+      and consumers, further slowing growth while keeping prices elevated Russia’s economic
+      outlook is far brighter than that of Trump’s America. Oh yeah, almost forgot…
+      The US debt-to-GDP ratio is 126%. Which economy would you rather have? I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: Trump's recent post on Truth Social suggests he may have sarcastically
+      adopted General Kellogg's views on the Ukraine war, as evidenced by a subsequent
+      UNSC resolution proposed by France, Germany, the UK, and Ukraine calling for an
+      immediate ceasefire and reaffirming Ukraine's sovereignty in response to escalating
+      Russian aggression.
+    paragraph_summary: The article discusses former President Trump's recent post on
+      Truth Social regarding the war in Ukraine, suggesting he may have sarcastically
+      aligned with General Kellogg's views. This interpretation is supported by subsequent
+      events at the United Nations Security Council (UNSC), where France, Germany, the
+      UK, and Ukraine proposed a resolution for an immediate ceasefire, the release
+      of hostages, and the lifting of humanitarian aid restrictions by Russia. Despite
+      the resolution's broad international support and its aim to address escalating
+      violence and civilian casualties, the U.S. representative, following Trump's orders,
+      vetoed it. The U.S. justified the veto by advocating for ongoing negotiations
+      and expressing concerns that the resolution could hinder diplomatic efforts between
+      Ukraine and Russia, while still affirming its commitment to support Ukraine and
+      facilitate peace talks.
+    published: '2025-09-24T02:13:25+00:00'
+  - title: Who Killed Charlie Kirk? NATO Ramps Up for War with Russia
+    url: https://sonar21.com/who-killed-charlie-kirk-nato-ramps-up-for-war-with-russia/
+    text: 'A Disassembled Mauser I am sorry to return to the subject of Charlie Kirk’s
+      assassination, but I am receiving a ton of emails with questions and theories
+      and, rather than answer each one individually, I want to address some of the issues.
+      Let me state up front that the flood of alternative theories about the firearm
+      used to kill Charlie (e.g., a palm-pistol, a .30-06 rifle, a .22 pistol with a
+      silencer) and the direction of the shot — i.e., from the front, from the side
+      and from behind — tells me that Charlie’s murder was not the work of just one
+      pissed-off 22-year-old who was in love with a transgender furry. Creating a number
+      of false stories and false leads is something that an intelligence organization
+      does in order to misdirect a law enforcement investigation. Frankly, we witnessed
+      the same phenomena with the failed assassination attempt on Trump in Butler, Pennsylvania
+      in July 2024. For starters, it was not a palm-pistol that delivered the fatal
+      shot. The ballistic sound recorded on film when Charlie was shot is not consistent
+      with a pistol. But beyond the problems with the sound, a palm-pistol is a point-and-shoot
+      weapon and it is not a firearm that allows for pinpoint accuracy. If you are seven
+      yards away from the target — and you are shooting at a bullseye — you are not
+      likely to hit the bullseye. Even the most skilled pistol shooters have trouble
+      hitting a two-inch target at 25 yards and beyond. I have double-checked my thinking
+      with one of my FBI Hostage Rescue Team buddies and he agrees. While I have finally
+      found a photo of a Mauser that can be quickly broken down (hat tip to Zarael),
+      there is no way, short of using a specially created rifle cartridge, that the
+      bullet that entered Charlie’s throat was a .30-06 fired from a Mauser . However,
+      Special Operations forces and paramilitaries associated with intelligence organizations
+      do have the ability (and have done so) to create rounds that will not go through
+      the body but will cause massive damage. If that is the case here, then we are
+      looking at an organized conspiracy because Tyler Robinson, based on what we now
+      know, did not have that set of skills. Let me put one other fact on the table
+      — Charlie Kirk was on the Ukrainian death-list. I have seen (and cannot locate
+      at the moment) a photograph of an AZOV battalion soldier, who was sporting a Swastika
+      tat on the back of his neck, praying at the Wailing Wall in Jerusalem. Why would
+      AZOV Nazis be hanging out with Zionists? And we also know that members of AZOV
+      were in the crowd on January 6, 2021… They were specifically brought to DC to
+      help create the alleged insurrection. Now, back to NATO. The rhetoric pouring
+      out of the NATO states is heating up with each passing day… with Poland, Estonia
+      and Germany leading the way. Based on their public comments, the NATO members
+      genuinely believe that they enjoy military superiority over Russia and are proposing
+      a range of crazed responses to alleged Russian provocations, such as shooting
+      down Russian combat aircraft and closing the Baltic Sea to Russian maritime traffic.
+      These are reckless, dangerous and stupid ways of thinking, and this combination
+      of belligerence and bravado is likely to create an incident where Russia will
+      be compelled to respond with military force. As the situation on the ground in
+      Ukraine worsens for the Ukrainian forces, the Western threats will become more
+      wild and hysterical. I spent an hour with Nima today discussing the Charlie Kirk
+      affair: Judge Napolitano and I discussed Palestine and the plight of the Palestinian
+      people: I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses the various conspiracy theories surrounding
+      the assassination of Charlie Kirk, suggesting that the complexity and diversity
+      of these theories indicate the involvement of an organized intelligence effort
+      to mislead the investigation, rather than a simple act by an individual.
+    paragraph_summary: The article discusses the assassination of Charlie Kirk, addressing
+      numerous conspiracy theories regarding the weapon used and the circumstances surrounding
+      the shooting. The author argues that the variety of alternative narratives, including
+      different types of firearms and shooting angles, suggests a more complex scenario
+      than a simple act of violence by an individual. They emphasize that the ballistic
+      evidence does not support the use of a palm-pistol or a .30-06 rifle, and instead
+      point to the possibility of an intelligence operation designed to mislead investigators,
+      similar to tactics observed in a previous assassination attempt on Trump. The
+      author concludes by noting that specialized ammunition could have been used to
+      inflict serious injury without exiting the body, indicating a level of sophistication
+      in the operation.
+    published: '2025-09-23T03:19:02+00:00'
+  - title: Who Killed Charlie Kirk? NATO Ramps Up for War with Russia
+    url: https://sonar21.com/who-killed-charlie-kirk-nato-ramps-up-for-war-with-russia/
+    text: 'A Disassembled Mauser I am sorry to return to the subject of Charlie Kirk’s
+      assassination, but I am receiving a ton of emails with questions and theories
+      and, rather than answer each one individually, I want to address some of the issues.
+      Let me state up front that the flood of alternative theories about the firearm
+      used to kill Charlie (e.g., a palm-pistol, a .30-06 rifle, a .22 pistol with a
+      silencer) and the direction of the shot — i.e., from the front, from the side
+      and from behind — tells me that Charlie’s murder was not the work of just one
+      pissed-off 22-year-old who was in love with a transgender furry. Creating a number
+      of false stories and false leads is something that an intelligence organization
+      does in order to misdirect a law enforcement investigation. Frankly, we witnessed
+      the same phenomena with the failed assassination attempt on Trump in Butler, Pennsylvania
+      in July 2024. For starters, it was not a palm-pistol that delivered the fatal
+      shot. The ballistic sound recorded on film when Charlie was shot is not consistent
+      with a pistol. But beyond the problems with the sound, a palm-pistol is a point-and-shoot
+      weapon and it is not a firearm that allows for pinpoint accuracy. If you are seven
+      yards away from the target — and you are shooting at a bullseye — you are not
+      likely to hit the bullseye. Even the most skilled pistol shooters have trouble
+      hitting a two-inch target at 25 yards and beyond. I have double-checked my thinking
+      with one of my FBI Hostage Rescue Team buddies and he agrees. While I have finally
+      found a photo of a Mauser that can be quickly broken down (hat tip to Zarael),
+      there is no way, short of using a specially created rifle cartridge, that the
+      bullet that entered Charlie’s throat was a .30-06 fired from a Mauser . However,
+      Special Operations forces and paramilitaries associated with intelligence organizations
+      do have the ability (and have done so) to create rounds that will not go through
+      the body but will cause massive damage. If that is the case here, then we are
+      looking at an organized conspiracy because Tyler Robinson, based on what we now
+      know, did not have that set of skills. Let me put one other fact on the table
+      — Charlie Kirk was on the Ukrainian death-list. I have seen (and cannot locate
+      at the moment) a photograph of an AZOV battalion soldier, who was sporting a Swastika
+      tat on the back of his neck, praying at the Wailing Wall in Jerusalem. Why would
+      AZOV Nazis be hanging out with Zionists? And we also know that members of AZOV
+      were in the crowd on January 6, 2021… They were specifically brought to DC to
+      help create the alleged insurrection. Now, back to NATO. The rhetoric pouring
+      out of the NATO states is heating up with each passing day… with Poland, Estonia
+      and Germany leading the way. Based on their public comments, the NATO members
+      genuinely believe that they enjoy military superiority over Russia and are proposing
+      a range of crazed responses to alleged Russian provocations, such as shooting
+      down Russian combat aircraft and closing the Baltic Sea to Russian maritime traffic.
+      These are reckless, dangerous and stupid ways of thinking, and this combination
+      of belligerence and bravado is likely to create an incident where Russia will
+      be compelled to respond with military force. As the situation on the ground in
+      Ukraine worsens for the Ukrainian forces, the Western threats will become more
+      wild and hysterical. I spent an hour with Nima today discussing the Charlie Kirk
+      affair: Judge Napolitano and I discussed Palestine and the plight of the Palestinian
+      people: I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses the various conspiracy theories surrounding
+      the assassination of Charlie Kirk, suggesting that the complexity and diversity
+      of these theories indicate the involvement of an organized intelligence effort
+      to mislead the investigation, rather than a simple act by an individual.
+    paragraph_summary: The article discusses the assassination of Charlie Kirk, addressing
+      numerous conspiracy theories regarding the weapon used and the circumstances surrounding
+      the shooting. The author argues that the variety of alternative narratives, including
+      different types of firearms and shooting angles, suggests a more complex scenario
+      than a simple act of violence by an individual. They emphasize that the ballistic
+      evidence does not support the use of a palm-pistol or a .30-06 rifle, and instead
+      point to the possibility of an intelligence operation designed to mislead investigators,
+      similar to tactics observed in a previous assassination attempt on Trump. The
+      author concludes by noting that specialized ammunition could have been used to
+      inflict serious injury without exiting the body, indicating a level of sophistication
+      in the operation.
+    published: '2025-09-23T03:19:02+00:00'
+  - title: A Charlie Kirk Update… While Trump is Playing with Fire in Venezuela
+    url: https://sonar21.com/a-charlie-kirk-update-while-trump-is-playing-with-fire-in-venezuela/
+    text: 'New details emerged today from the autopsy and statements by Kirk’s colleagues
+      about the bullet’s trajectory, sparking widespread discussion and some conspiracy
+      theories on social media. According to Andrew Kolvet, executive producer of The
+      Charlie Kirk Show, the bullet entered Kirk’s neck but “miraculously” did not exit
+      his body, lodging instead under the skin and absorbing its full force. This prevented
+      it from striking or injuring anyone seated behind Kirk in the crowded outdoor
+      amphitheater, which had over 3,000 attendees and limited security (only six police
+      officers and a small private team). Hopefully this will put an end to those who
+      claim the shot was fired from the side or from behind. There is a video circulating
+      on line that shows a 30-06 round hitting a facsimile of a human skull… That video,
+      which shows the head violently exploding, shows that the bullet hit the skull
+      and not the neck. The neck is soft tissue and, assuming the shot was fired from
+      the building, which is an elevated shot, it is possible that the bullet nicked
+      his collarbone, which could have deflected the round. However, there are plenty
+      of other videos on YouTube that show the destructive power of a 30-06 round, and
+      those videos raise serious doubts that the FBI is telling the truth. Another possibility
+      is that a frangible bullet was fired. Frangible 30-06 ammunition is valued for
+      specialized safety considerations rather than for maximizing terminal effectiveness
+      in hunting or military combat, where deeper penetration and massive wound channels
+      are generally prioritized. A frangible 30-06 round is designed with a compressed
+      metal powder core that disintegrates into tiny fragments upon striking a hard
+      surface, such as metal, bone, or concrete, rather than deforming or remaining
+      intact like traditional lead-core ammunition. Here is a video that demonstrates
+      the power of a 30-06 round: As I have maintained from the outset, the shot came
+      from the front. All of the videos filmed by various people record the same loud
+      noise that is consistent with a rifle shot, but the sound does not appear consistent
+      with a 30-06 round. In other words, the sound of the shot a smaller caliber than
+      a 30-06… I doubt that it was a 30-06 round that killed Charlie. Charlie’s widow
+      and friends need to demand a truthful account of the bullet that took his life.
+      Meanwhile, the United States is engaged in acts of blatant murder by blowing up
+      boats from Venezuela alleged to be carrying illegal narcotics. I taught a Range
+      Safety Officer course today and one of my students, a young man in his thirties,
+      served with the US Coast Guard and told me of several experiences he had interdicting
+      drug boats, which included shoot outs. He told me he was disgusted and alarmed
+      by what Trump is doing (and he voted for Trump). He said these attacks on boats
+      that are not firing at US forces violates all US Coast Guard and military protocol
+      for handling these alleged threats. Donald Trump is flouting international maritime
+      law and celebrating his power to kill people he thinks are bad. Worse yet, the
+      politicians and the mainstream media are just shrugging their collective shoulders
+      and foolishly accepting the concept that a President can kill any foreigner he
+      wants as long as he asserts they are bad . I was interviewed on Thursday by Dr.
+      Hasan Ünal, a professor in Turkiye. We discussed recent events in Qatar and Gaza:
+      On Friday I appeared, along with Andrei Martyanov, on Randy Credico’s NY radio
+      show… We discussed the war in Ukraine: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: New autopsy details and statements from Kirk's colleagues
+      reveal that a bullet entered Charlie Kirk's neck but did not exit, sparking conspiracy
+      theories about the shooting's trajectory and alleviating claims that it was fired
+      from the side or behind in a crowded amphitheater.
+    paragraph_summary: New details from the autopsy of Kirk, along with insights from
+      his colleagues, have sparked discussions and conspiracy theories regarding the
+      trajectory of the bullet that struck him. Andrew Kolvet, executive producer of
+      The Charlie Kirk Show, revealed that the bullet entered Kirk's neck but did not
+      exit, instead lodging under the skin and preventing further injury to those behind
+      him in a crowded amphitheater. This information aims to counter claims that the
+      shot was fired from the side or behind. Additionally, videos circulating online
+      demonstrate the destructive power of a 30-06 round, raising skepticism about the
+      FBI's findings. Some speculate that a frangible bullet, designed to disintegrate
+      upon impact, may have been used, which would account for the unusual circumstances
+      of the injury. Overall, the narrative suggests that the shot likely came from
+      the front, as supported by various eyewitness videos.
+    published: '2025-09-22T03:31:43+00:00'
+  - title: A Charlie Kirk Update… While Trump is Playing with Fire in Venezuela
+    url: https://sonar21.com/a-charlie-kirk-update-while-trump-is-playing-with-fire-in-venezuela/
+    text: 'New details emerged today from the autopsy and statements by Kirk’s colleagues
+      about the bullet’s trajectory, sparking widespread discussion and some conspiracy
+      theories on social media. According to Andrew Kolvet, executive producer of The
+      Charlie Kirk Show, the bullet entered Kirk’s neck but “miraculously” did not exit
+      his body, lodging instead under the skin and absorbing its full force. This prevented
+      it from striking or injuring anyone seated behind Kirk in the crowded outdoor
+      amphitheater, which had over 3,000 attendees and limited security (only six police
+      officers and a small private team). Hopefully this will put an end to those who
+      claim the shot was fired from the side or from behind. There is a video circulating
+      on line that shows a 30-06 round hitting a facsimile of a human skull… That video,
+      which shows the head violently exploding, shows that the bullet hit the skull
+      and not the neck. The neck is soft tissue and, assuming the shot was fired from
+      the building, which is an elevated shot, it is possible that the bullet nicked
+      his collarbone, which could have deflected the round. However, there are plenty
+      of other videos on YouTube that show the destructive power of a 30-06 round, and
+      those videos raise serious doubts that the FBI is telling the truth. Another possibility
+      is that a frangible bullet was fired. Frangible 30-06 ammunition is valued for
+      specialized safety considerations rather than for maximizing terminal effectiveness
+      in hunting or military combat, where deeper penetration and massive wound channels
+      are generally prioritized. A frangible 30-06 round is designed with a compressed
+      metal powder core that disintegrates into tiny fragments upon striking a hard
+      surface, such as metal, bone, or concrete, rather than deforming or remaining
+      intact like traditional lead-core ammunition. Here is a video that demonstrates
+      the power of a 30-06 round: As I have maintained from the outset, the shot came
+      from the front. All of the videos filmed by various people record the same loud
+      noise that is consistent with a rifle shot, but the sound does not appear consistent
+      with a 30-06 round. In other words, the sound of the shot a smaller caliber than
+      a 30-06… I doubt that it was a 30-06 round that killed Charlie. Charlie’s widow
+      and friends need to demand a truthful account of the bullet that took his life.
+      Meanwhile, the United States is engaged in acts of blatant murder by blowing up
+      boats from Venezuela alleged to be carrying illegal narcotics. I taught a Range
+      Safety Officer course today and one of my students, a young man in his thirties,
+      served with the US Coast Guard and told me of several experiences he had interdicting
+      drug boats, which included shoot outs. He told me he was disgusted and alarmed
+      by what Trump is doing (and he voted for Trump). He said these attacks on boats
+      that are not firing at US forces violates all US Coast Guard and military protocol
+      for handling these alleged threats. Donald Trump is flouting international maritime
+      law and celebrating his power to kill people he thinks are bad. Worse yet, the
+      politicians and the mainstream media are just shrugging their collective shoulders
+      and foolishly accepting the concept that a President can kill any foreigner he
+      wants as long as he asserts they are bad . I was interviewed on Thursday by Dr.
+      Hasan Ünal, a professor in Turkiye. We discussed recent events in Qatar and Gaza:
+      On Friday I appeared, along with Andrei Martyanov, on Randy Credico’s NY radio
+      show… We discussed the war in Ukraine: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: New autopsy details and statements from Kirk's colleagues
+      reveal that a bullet entered Charlie Kirk's neck but did not exit, sparking conspiracy
+      theories about the shooting's trajectory and alleviating claims that it was fired
+      from the side or behind in a crowded amphitheater.
+    paragraph_summary: New details from the autopsy of Kirk, along with insights from
+      his colleagues, have sparked discussions and conspiracy theories regarding the
+      trajectory of the bullet that struck him. Andrew Kolvet, executive producer of
+      The Charlie Kirk Show, revealed that the bullet entered Kirk's neck but did not
+      exit, instead lodging under the skin and preventing further injury to those behind
+      him in a crowded amphitheater. This information aims to counter claims that the
+      shot was fired from the side or behind. Additionally, videos circulating online
+      demonstrate the destructive power of a 30-06 round, raising skepticism about the
+      FBI's findings. Some speculate that a frangible bullet, designed to disintegrate
+      upon impact, may have been used, which would account for the unusual circumstances
+      of the injury. Overall, the narrative suggests that the shot likely came from
+      the front, as supported by various eyewitness videos.
+    published: '2025-09-22T03:31:43+00:00'
+  - title: 'Historical Consciousness: What Germany Could Learn from Russia'
+    url: https://sonar21.com/historical-consciousness-what-germany-could-learn-from-russia/
+    text: 'There are sound reasons why Germany is on the wrong track. A lack of historical
+      consciousness, or rather a false one, is one of the main reasons , and one that
+      is reluctantly discussed in Germany. An article based on Peter Hanseler’s speech
+      at “Mut zur Ethik” (Courage for Ethics). By Peter Hanseler via ForumGeopolitica.com
+      May 2, 1945, roof of the Reichstag building in Berlin. Photographer: Yevgeny Khaldei,
+      TASS news agency. Introduction Peter Hanseler was invited to speak on the topic
+      “What Germany could learn from Russia” at the “ Courage for Ethics ” conference,
+      which took place from August 29 to 31 in Sirnach, Switzerland. This article is
+      based on that speech. The European working group “ Mut zur Ethik ” (Courage for
+      Ethics) is an international forum that has been organizing a major annual conference
+      in Switzerland since the early 1990s. It sees itself as a circle of personalities
+      from various European countries (and beyond) who are committed to a people-oriented,
+      value-based ethic. It attaches particular importance to not following ideological
+      trends in social, political, economic, and educational issues, but rather to seeking
+      guidance from “objective ethics.” It depends on whom you ask If you were to ask
+      Friedrich Merz what we could learn from the Russians, his answer would surely
+      be: “Nothing!” The German Chancellor is so convinced of himself that he fails
+      to notice the downward spiral of this once-great country of poets and thinkers,
+      which was the world’s leading exporter just a few years ago. Approval rating of
+      this little boy: Only 21% are satisfied with Merz. Here we go again—a little boy
+      with a 21% approval rating is driving Germany into the ground. This shows that
+      this intellectual dwarf in a long body sees himself as a new leader, because a
+      real leader does not care about approval ratings. Recently, this chancellor uttered
+      the following phrase, which is hard to believe: “There is a deep-seated fear of
+      war among parts of our population. I don’t share it, but I can relate to it.”
+      Friedrich Merz “The German people sleep while standing.” When I discussed this
+      topic with German friends, the mood was gloomy, because in addition to the insane
+      politicians who are a tradition in Germany, the people are obviously unable or
+      unwilling to recognize the precarious situation once again. Nevertheless, one
+      of my closest friends made everyone laugh with the following bon mot: “The German
+      people sleep while standing.” Those who do not learn from the past are doomed
+      to repeat it. If you don’t take an honest and critical look at your history, you
+      will keep making the same mistakes. Unlike Mark Twain, history does not rhyme
+      with such behavior, but repeats itself. Incidentally, this applies not only to
+      countries, but also to people. We all make mistakes, and many people learn from
+      them, fools, however, do not—they make the same mistakes over and over again.
+      You can recognize these behavior patterns in yourself—and even more often in others.
+      The famous look in the mirror is therefore a tool that is—or could be—equally
+      valuable in private life and in geopolitics. Historical Awareness Starts with
+      Language I use the term “historical consciousness” because I consider it the best
+      antidote to the repetition of catastrophes. However, historical consciousness
+      requires a great deal of skepticism when looking at one’s own history, and the
+      Russians are already world champions in this regard. Russians do not believe anything
+      they are told, whether by history books, the media, or governments—even their
+      own. Russians have a natural ability to question everything they are told—including
+      their own historiography. This leads to discussions, and the more diverse the
+      opinions in such discussions, the healthier the outcome. It is not important to
+      me whether, for example, Stalin is seen by a colleague as a positive or negative
+      person after weighing up all the factors; the discussion itself clearly reduces
+      the chances of negative events repeating themselves in the future. People are
+      not Monsters—that would be too Simple It is very convenient, too convenient, to
+      label Adolf Hitler and Joseph Stalin as the worst figures of all time and relegate
+      them to the same category labeled “monsters.” After all, monsters are not something
+      we need to engage with, but people are. But both of these historical figures were
+      human beings and had a lasting impact not only on their own countries but on the
+      entire world. It is therefore necessary to engage with them in order to understand
+      them, if we want to ensure that history does not repeat itself. In Russia, Joseph
+      Stalin is not regarded as a monster, but as an important historical figure who
+      had an enormous influence on the country. He is highly controversial, and opinions
+      and reactions to him are sometimes contradictory. However, their ability to engage
+      in unbiased discussion of even such emotionally difficult topics, based on skepticism,
+      allows Russians to treat historically sensitive issues with respect, dignity,
+      and reverence for history. My ex-wife’s great-great-aunt, for instance, was sentenced
+      by Stalin in the 1930s to 15 years in a Siberian labor camp for a trivial offense.
+      She survived this nightmare and returned to society. When Stalin died a few years
+      later, she wept bitterly over his death. We in the West find this contradictory,
+      because this behavior is surprising and shows how closely the positive and negative
+      can be linked to a person. One side shows almost limitless brutality. The other
+      side shows Stalin’s big achievements. Two achievements stand out: Stalin was responsible
+      for the rapid industrialization of the Soviet Union. He showed foresight and precision
+      in his analysis that can seem almost scary. Furthermore, his leadership during
+      World War II turned a near defeat into victory, as he united the population, motivated
+      them to superhuman achievements and—unlike Hitler—let the right military leaders
+      take the decisions. Victory came at a high price, but it was achieved. For a Westerner,
+      these undisputed achievements are difficult to comprehend against the backdrop
+      of the enormous piles of corpses left behind. Nevertheless, the heated discussion
+      about Stalin in Russia, a very strenuous and at times unpleasant debate, will
+      most likely make it impossible for the horrific aspects of Stalin’s rule to be
+      repeated in the future. The discussion in Germany about Hitler never went beyond
+      describing him as a monster. It was easier to sweep this “monster” under the carpet
+      and flatten everything associated with him. If the Obersalzberg and the Reich
+      Chancellery were still standing, Germans would be aware of Hitler’s megalomania
+      – nothing to do with being close to the people. Hitler’s office in the Reichskanzlei
+      – bombastic Last year, I visited Stalin’s dacha in Sochi and was surprised by
+      the simplicity of his living quarters. His offices in the Moscow Kremlin were
+      also by no means ostentatious. Study in Stalin’s dacha in Sochi. Arbeitszimmer
+      Stalins im Kreml 1941 – Standbild aus Video Until May 1945, the Germans were lied
+      to by Joseph Goebbels, then by others. We will now discuss how these lies completely
+      destroyed the Germans’ comprehension of history, using a few examples. After the
+      Nazis, the US Needed a New Enemy. War is a Highly Profitable Business—for a Few
+      The average citizen views war from the perspective of the masses and sees an image
+      of destruction, death, and deprivation. However, the financial elites of a country
+      see this completely differently. War is a huge business, and the amounts of money
+      spent on war-related goods are astronomical, with heavenly profit margins for
+      those involved. When it became apparent in 1943 that Germany would lose the war,
+      the financial elites in the US were already concerned that the peace would dry
+      up the windfall they had enjoyed from the gigantic arms contracts. These elites
+      were not only very wealthy, they also had enormous political influence, because
+      in addition to the ability to manufacture armaments, one also needs the influence
+      to be able to sell them through political influence and corruption. Thus, the
+      military-industrial complex was born. Roosevelt Sought Lasting Peace—Others Did
+      Not Roosevelt and Stalin had a good working relationship. Roosevelt calling Stalin
+      “Uncle Joe” was probably pure propaganda, but the good geopolitical relationship
+      was based on Stalin keeping his word; he was a reliable ally. In addition, the
+      Russians bore the brunt of the war against Hitler. Roosevelt sought a lasting
+      peace after the war. A second Versailles was out of the question for him. His
+      intention was to rebuild Germany and the Soviet Union and to provide both parties
+      with equal amounts of aid. So much for Roosevelt’s plans. However, peace is not
+      a good business model for the military-industrial complex. Since Roosevelt’s health
+      was already so poor in 1944 that it was rightly assumed that Roosevelt would be
+      re-elected but would not live to see the end of his fourth term, a suitable vice
+      president—a puppet—was sought. This was found in the person of Harry S. Truman.
+      The problem for the group was now to get rid of the extremely liberal, popular,
+      and peace-oriented Vice President Henry Wallace , who would have continued Roosevelt’s
+      strategy and thus stood in the way of the military-industrial complex. This undertaking
+      was ultimately successful, albeit through the use of highly unscrupulous means.
+      Roosevelt was pressured. Although Henry Wallace had a perfectly good chance of
+      winning, Truman won the “election.” War wins over peace – left: Henry Wallace
+      wanted peace – right: Harry S. Truman – the first puppet of the military-industrial
+      complex This “election,” which was not one, was impressively portrayed and analyzed
+      by Oliver Stone in his magnificent series “ The Untold History of the United States
+      ” in 2012, in the third part of the series. The documentary, which was produced
+      by Showtime and initially available on Netflix, was banned from major streaming
+      portals years ago: Oliver Stone’s portrayal of the history of the United States
+      is too poignant and too honest. No one should be subjected to this truth. I recommend
+      every reader watch this series. If you ask the internet about this “election,”
+      AI will still lie to you today that it was the right choice. This is an indication
+      that this charade 80 years ago had a lasting impact on world history and that
+      it still seems important to those in power today to keep the truth under wraps.
+      From Friend to Foe in the Blink of an Eye During the war, Russia was celebrated
+      as a great friend and ally, with top directors such as Frank Capra making propaganda
+      films. I refer to the fifth part of the American propaganda film series “ Why
+      We Fight ,” which was called “ The Battle of Russia .” Film poster “The Battle
+      of Russia” Within the blink of an eye, however, Russia became the enemy again
+      after the war. General Patton proposed attacking the USSR, and shortly thereafter
+      the hunt for communists began in the US, with anyone they wanted to destroy simply
+      being labeled a “communist.” This inhumane persecution of people bears no shame
+      in comparison to the witch hunts of the Middle Ages. “Despite this betrayal of
+      the Soviet Union, Russia still uses diplomatic and friendly words toward the US,
+      which is actually astonishing.” We showed how untruthfully Russia’s role in World
+      War II is described today in an article published on the occasion of the May 9
+      celebrations, in which we contrasted the lies of Keir Starmer and Joe Biden with
+      the statements of Winston Churchill and Franklin D. Roosevelt in the article “
+      Western propaganda without limits: Unmasked .” For me personally, this reversal,
+      this betrayal at the time, which continues to this day, of the people who saved
+      the world from the Nazis, is difficult to digest. The Americans must accept the
+      accusation that they have repeatedly double-crossed the Russians over many decades
+      and are also responsible, without any ifs or buts, for the military conflict in
+      Ukraine. We have expressed our views on this in detail, most recently in our article
+      “ Trump-Putin: A Deal, Yalta or No Agreement .” Despite this betrayal of the Soviet
+      Union, Russia still uses diplomatic and friendly words toward the US, which is
+      actually astonishing. From Enemy to Friend in the Blink of an Eye In addition
+      to a new enemy, which filled the coffers of the military-industrial complex thanks
+      to perpetual rearmament, a counterweight in the form of a new “friend” and ally
+      was also needed. Germany presented itself as the obvious choice, as the severe
+      destruction of the country promised huge investments for reconstruction and thus
+      large profits. In addition, the US was able to present itself as a noble, benevolent
+      helper by initiating, among other things, the Marshall Plan shortly after the
+      war, which was stylized as the anthem of the new American-German friendship. However,
+      there was one small, unsavory flaw in the whole thing, namely that the Germans
+      were not only responsible for the Holocaust against the Jews, but had also behaved
+      appallingly toward civilians in all the occupied countries, especially in the
+      Soviet Union, where the Germans had slaughtered no fewer than 15 million civilians.
+      Thus, the Nazis had achieved half of the goal set out in the General Plan East
+      , which was to kill or starve 30 million people. However, the practical-minded
+      Americans came to the conclusion that many of these criminals were ideally suited
+      to helping the new, good cause. In addition to operations such as “ Paperclip
+      ,” which brought Nazi scientists to the US, thousands of Nazis were reintegrated
+      into German society. A few years after the war, they could be found in government,
+      the secret service, universities, and large companies. This was astonishing, given
+      that for years the Nazis had rightly been portrayed as serious criminals who belonged
+      in front of a firing squad. Americans don’t need to be taught marketing. Here
+      are a few examples of how the opposite of the truth was made palatable to the
+      world, thus robbing Germans of their historical consciousness. We had Nothing
+      to do with the Whole Thing Germans Become Victims First, a huge show of atonement
+      was staged for the West by hanging a few token Nazis during the Nuremberg trials
+      (or rather, festival). Shortly thereafter, the tide turned. For example, the Russians
+      were portrayed as rapists of German women. It is true that German women were raped
+      by Russian soldiers—and, incidentally, by other Allied soldiers as well. In contrast
+      to Germany and Japan, which encouraged or even ordered the rape and murder of
+      civilians in occupied territories, the incidents in which Russian soldiers were
+      the perpetrators were, statistically speaking, isolated cases. This was also due
+      to the fact that on January 19, 1945, Stalin issued an order regarding the conduct
+      of his soldiers in the occupied territory that could not have been any clearer:
+      “Officers and soldiers of the Red Army! We are marching into enemy territory.
+      Everyone must maintain self-control, everyone must be courageous… The population
+      remaining in the conquered territories, regardless of whether they are Germans,
+      Czechs, or Poles, must not be subjected to violence. The guilty will be punished
+      according to the laws of wartime. Sexual relations with women are not permitted
+      in the conquered territory. Those guilty of violence and rape will be shot.” Stalin’s
+      order of January 19, 1945 It is claimed that approximately 100,000 women were
+      raped by Soviet soldiers. Incidentally, this figure comes from a doctor at Berlin’s
+      Charité hospital and is in no way substantiated, as he extrapolated the figures
+      from his clinic to the whole of Germany. Nevertheless, we will use this figure
+      for our following considerations. There were approximately 10 million Soviet soldiers
+      in Germany. Statistically speaking, one in every hundred Soviet soldiers committed
+      rape, but this figure is also misleading. Rapists are serial offenders. If we
+      assume that one rapist raped 10 women, then 99.9% of Soviet soldiers behaved correctly
+      towards German women. In contrast, 15 million Soviet citizens were killed by approximately
+      3 million German soldiers. Statistically speaking, every German soldier murdered
+      5 Soviet citizens. So much for proportionality. This is not about relativizing
+      the rapes themselves, which were an unparalleled tragedy and an inexcusable act.
+      The 100,000 raped women are, of course, still a major topic in the German press
+      today. However, there is no mention of the 15 million civilian deaths. The vicious
+      propaganda that began 80 years ago continues unabated—today in preparation for
+      the next war against Russia. Almost all Einsatzgruppen Butchers got Away with
+      It Before the Jews were industrially murdered in concentration and extermination
+      camps, four so-called Einsatzgruppen (task forces) were set up. These groups,
+      consisting of 400 to 1,000 soldiers, had the task between 1941 and 1943 of systematically
+      killing not only Jews but all so-called subhumans, including Russian civilians,
+      in the conquered territories of the Soviet Union. The units, mostly made up of
+      ordinary soldiers, slaughtered around one million people, including women, children,
+      and the elderly. Today, we know that the claim of being under orders, which was
+      regularly cited as justification by the perpetrators, does not stand up to scrutiny.
+      Every soldier had the opportunity to refuse to take part in these actions. Refusal
+      had no negative consequences for those involved. Many who found this task repugnant
+      nevertheless participated, claiming to have done so out of a sense of duty and
+      loyalty to their comrades. Otto Ohlendorf led one of these task forces, which,
+      incidentally, was attached to Manstein’s army—more on that later—and on January
+      6, 1946, as a witness for the prosecution in the main trial at Nuremberg, he described
+      his work dispassionately and truthfully. In the subsequent separate Einsatzgruppen
+      trial, consistent verdicts were handed down: all 24 defendants were found guilty.
+      Otto Ohlendorf pleads “not guilty,” source: ICC Legal Tools Database Fourteen
+      of them received the death penalty, two were sentenced to life imprisonment, and
+      the rest received prison sentences ranging from 10 to 20 years. However, the consistent
+      severe punishment of the perpetrators in the Einsatzgruppen trial evaporated into
+      thin air: of the 14 sentenced to death, only three were executed, including Ohlendorf.
+      All the other convicts were released between 1951 and 1958. Manstein – Hero Instead
+      of War Criminal To this day, Erich von Manstein is internationally celebrated
+      as a tactical genius. It is true that Manstein was an outstanding general. He
+      is credited with the ingenious German strategy in the 1940 campaign in France,
+      when the Germans launched a surprise attack through the Ardennes, thus completely
+      taking the French by surprise. His successes in Sevastopol in 1941/1942 and Kharkov
+      in 1943 are also worth mentioning. His heroic status as a general even influenced
+      the Allied leaders. When Manstein was put on trial after the war, even Winston
+      Churchill supported him financially in covering his legal costs. However, Manstein
+      was – like all German frontline generals – a notorious war criminal. War criminal
+      who was stylized as a hero and helped build today’s German armed forces – Erich
+      von Manstein Dr. Ohlendorf testified to this effect: The task forces were not
+      only assigned to the army groups, but also subordinate to them. Officers from
+      the slaughter groups were assigned to Manstein’s command group to coordinate the
+      slaughter with the officers. In his testimony, Ohlendorf stated, among other things,
+      that Manstein’s command gave the order to carry out the “actions” at least 200
+      km away from the Wehrmacht. Thus, no questions remained unanswered. Von Manstein
+      not only knew about the genocide, but also coordinated it with the SS. Although
+      von Manstein was sentenced to 18 years in prison, he only served a short time
+      and was released to write two bestsellers, Lost Victories (1955) and From a Soldier’s
+      Life (1958). I read part of Lost Victories: a whitewashing of his own achievements,
+      in which all mistakes were blamed on the deceased Hitler and his arch-enemy Halder,
+      omitting the genocide of the Russians that he coordinated. A nasty but convenient
+      distortion of the facts. I would like to point out that these examples have been
+      picked from a pool of hundreds or thousands of unsavory facts to serve as examples
+      of how the history of World War II and the periods that followed has been so thoroughly
+      distorted that lies have become facts and facts have become lies. Franz Halder
+      – 15 million Russian Civilians on His Conscience One of the most unsavory figures
+      of the Third Reich was Franz Halder, who was Chief of the Army General Staff from
+      1938 to 1942. He was closely involved in the plans to conquer Russia and thus
+      also in the genocide, and would certainly have deserved to be executed after the
+      war. Franz Halder – instead of being put in front of a firing squad, he was hired
+      by the Americans to construct a web of lies that persists to this day. His department
+      made the genocide of the Russian civilian population possible in the first place:
+      the Commissar Order of June 6, 1941, which is more or less well known to the general
+      public, obliged the German Eastern Army to separate all captured political officers
+      of the Red Army from the front line and execute them on the spot. However, the
+      so-called War Jurisdiction Decree of May 13, 1941, was a free pass for all members
+      of the German armed forces to slaughter the Soviet population. The order is central
+      to the genocide in several respects: Firstly, the order was not issued by Heinrich
+      Himmler, head of the SS. This is important in the context that since World War
+      II, attempts have been made to blame genocide and war crimes on the SS in order
+      to whitewash the Wehrmacht. The order came from the head of the Wehrmacht High
+      Command, Wilhelm Keitel . It was therefore addressed to the Wehrmacht and not
+      to the SS. Secondly, this order removed the decision to murder from the jurisdiction
+      of the courts-martial and summary courts. Thirdly, against localities that resisted
+      the occupation—which was probably every locality that was attacked— collective
+      measures of violence were ordered, i.e., genocide. Fourthly, members of the armed
+      forces who carried out this genocide were not prosecuted, as the following was
+      formulated: “ There is no obligation to prosecute acts committed by members of
+      the Wehrmacht and their followers against enemy civilians, even if the act also
+      constitutes a military crime or offense .” In quantitative terms, Halder was thus
+      worse than Reinhard Heydrich, for example, and would have deserved the worst fate.
+      The opposite was the case: he was appointed by the US as head of the German section
+      of the US Army’s War History Research Group ( Operational History (German) Section
+      ) and was commissioned to write the history of the Eastern Campaign. Halder romanticized
+      the Nazis’ Eastern Campaign as a preemptive strike and was the architect of the
+      myth of the “clean Wehrmacht,” a narrative that does not stand up to the facts
+      but is still anchored in the minds of Germans today – freely based on the motto:
+      “SS bad, Wehrmacht good.” Death of Hitler and Bormann – where is All the Money?
+      At this point, I would like to use two examples to show how flimsy the official
+      versions of the whereabouts of two of Nazi Germany’s most prominent figures really
+      are. The following remarks are merely intended to show that official historiography
+      may also be incorrect in the most important respects. The fact that there may
+      be some truth in the following theories is already evident from the reactions
+      of the guardians of official historiography: “Conspiracy theories!” The Death
+      of Adolf Hitler Adolf Hitler officially died on April 30, 1945, by suicide in
+      the Führer’s bunker in Berlin. Much has been written and many films have been
+      made about this, probably also to close this chapter, because many books and films
+      make the outcome seem certain. There have always been theories that Hitler survived,
+      but these theories have been reflexively dismissed as conspiracy theories. However,
+      one story—which was, of course, also dismissed as a conspiracy theory—was researched
+      in great detail. In 2011, British author Simon Dunstan and journalist Gerard Williams
+      published the book “The Grey Wolf,” which was adapted into a docudrama in 2014.
+      According to the story, Hitler fled to Argentina and died there in 1962. I read
+      the book and watched the documentary, both of which were exciting and credible.
+      However, I don’t know if this story is true. What is surprising, though, is the
+      fact that no university has taken up the matter. Martin Bormann’s Death The death
+      of Martin Bormann is also shrouded in legend. Officially, he died on May 2, 1945,
+      while fleeing from the Führer’s bunker. In 1972, Bormann’s skull was found. However,
+      there are three problems with this story. First, the skull was not found at the
+      location where witnesses at the time claimed Bormann had died. Second, the skull
+      contained soil that does not exist in Berlin, but only in Paraguay. In addition,
+      a tooth on the skull showed signs of a treatment method that did not exist in
+      1945. Any theory that Bormann survived the war is dismissed as a conspiracy theory.
+      I have never looked into these stories in detail. However, life has taught me
+      not to trust the “official” opinion. The fact is that after the war, thousands
+      of Nazis fled to South America and lived there mostly unmolested—the exceptions
+      that prove the rule are Adolf Eichmann, Klaus Barbie, and Erich Priebke. They
+      were punished with much fanfare as token Nazis, but that was all. Where is All
+      the Money? No clear investigation has ever been conducted into the whereabouts
+      of the enormous assets that were moved out of Germany during the Nazi era, starting
+      around 1943. Rumor has it that Bormann, who served as Hitler’s treasurer, among
+      other things, used every means possible to transfer huge amounts of assets in
+      the form of gold, foreign currency, and patents abroad starting in 1943. Mark
+      Felton, a British historian who runs a very successful YouTube channel, showed
+      in a post – Himmler’s Fourth Reich – SS Assets in Global Conspiracy , that the
+      SS not only became fabulously wealthy, among other things by operating hundreds
+      of concentration camps, but that the SS strategically placed its people on the
+      supervisory boards of large companies in Germany and thus effectively took control.
+      On August 10, 1944, a meeting took place at the Hotel Maison Rouge in Strasbourg.
+      At this meeting, which was attended by major industrialists, “underground activities”
+      after the fall of the Third Reich and the transfer of assets to neutral countries
+      were discussed. It was never clarified what these capital flows looked like, how
+      these huge sums flowed back after the war, and who was or is the owner of these
+      assets today. To put it simply: Who owned “Deutschland AG”? Until the early 1990s,
+      these included Deutsche Bank, Allianz, MAN, VEBY, VIAG, Thyssen Krupp, Klöckner
+      Werke, Ruhrkohle, Daimler-Benz, VW, Preussag, Hoesch, Ruhrgas, Mannesmann, BASF,
+      etc. These companies—or their predecessors—all already existed during the Nazi
+      era. You can assume that there are many very powerful people who have no interest
+      whatsoever in clarifying the issues raised here. Too many unsavory details would
+      come to light. It is very possible that these holdings are held directly or indirectly
+      by today’s giant financial conglomerates such as BlackRock, etc., which promise
+      a level of opacity that is impossible to penetrate – mission accomplished. Conclusion
+      “ Russia will always remain an enemy to us ” (Wadephul), “ Putin is a war criminal.
+      He is perhaps the most serious war criminal of our time, whom we are currently
+      seeing on a large scale ” (Merz). There is no country in world history that has
+      behaved as cruelly toward another country as Germany has toward Russia—these atrocities
+      took place decades, not centuries, ago. Apart from the fact that Merz thus completely
+      disqualifies himself not only as chancellor but also as a human being, he proves
+      that Germany has no comprehension of history. Unlike Russia, Germany has not practiced
+      and does not practice coming to terms with its history, questioning it, and drawing
+      lessons from it for the future. History is presented in such a dishonest way that
+      no one is willing to muster the energy to clean up the mess. This dishonesty was
+      certainly discovered by the Germans—first under Hitler and then under the new
+      regime, which was and is controlled by the US. Under Hitler, people were willing
+      to sacrifice the welfare of Jews and civilians in the occupied territories; under
+      the new government, history was sacrificed, both times for the sake of economic
+      progress – a life lie and a pact with the devil. This combination of devastating
+      influences—a lack of comprehension of history and a pact with the devil—will cause
+      history to repeat itself. If you are German and share this opinion, it is time
+      to stand up. Peter Hanseler is a geopolitical analyst who reports from Moscow.
+      Peter was born in Zurich, Switzerland. He holds a J.D. (lic. iur.) and Ph.D. (Dr.
+      iur.) from Zurich University Law School and Master in International Commercial
+      Law (LL.M.) from Georgetown University Law School, Washington, D.C. He has lived
+      in the US, Spain, Switzerland, Thailand and Russia. Peter is independent, his
+      work is not supported by government or private entities. Peter’s website Forumgeopolitica.com
+      publishes its content in English, Russian, German and French.'
+    one_sentence_summary: The article discusses Peter Hanseler's speech at the "Courage
+      for Ethics" conference, highlighting Germany's misguided historical consciousness
+      as a key issue and suggesting that Germany could learn valuable lessons from Russia.
+    paragraph_summary: In his speech at the "Courage for Ethics" conference, Peter Hanseler
+      critiques Germany's current trajectory, attributing it to a lack of genuine historical
+      awareness and a reluctance to engage in meaningful discussions about its past.
+      He contrasts the perspectives of German leaders, like Chancellor Friedrich Merz,
+      who dismiss the idea of learning from Russia, with the urgent need for Germany
+      to reflect on its historical and ethical foundations. Hanseler argues that the
+      country, once a beacon of culture and innovation, is now in decline, as evidenced
+      by Merz's low approval ratings and his dismissive attitude towards public concerns
+      about war. The article emphasizes the importance of adopting a value-based ethic
+      that transcends ideological trends to address Germany's challenges.
+    published: '2025-09-21T08:55:02+00:00'
+  - title: 'Historical Consciousness: What Germany Could Learn from Russia'
+    url: https://sonar21.com/historical-consciousness-what-germany-could-learn-from-russia/
+    text: 'There are sound reasons why Germany is on the wrong track. A lack of historical
+      consciousness, or rather a false one, is one of the main reasons , and one that
+      is reluctantly discussed in Germany. An article based on Peter Hanseler’s speech
+      at “Mut zur Ethik” (Courage for Ethics). By Peter Hanseler via ForumGeopolitica.com
+      May 2, 1945, roof of the Reichstag building in Berlin. Photographer: Yevgeny Khaldei,
+      TASS news agency. Introduction Peter Hanseler was invited to speak on the topic
+      “What Germany could learn from Russia” at the “ Courage for Ethics ” conference,
+      which took place from August 29 to 31 in Sirnach, Switzerland. This article is
+      based on that speech. The European working group “ Mut zur Ethik ” (Courage for
+      Ethics) is an international forum that has been organizing a major annual conference
+      in Switzerland since the early 1990s. It sees itself as a circle of personalities
+      from various European countries (and beyond) who are committed to a people-oriented,
+      value-based ethic. It attaches particular importance to not following ideological
+      trends in social, political, economic, and educational issues, but rather to seeking
+      guidance from “objective ethics.” It depends on whom you ask If you were to ask
+      Friedrich Merz what we could learn from the Russians, his answer would surely
+      be: “Nothing!” The German Chancellor is so convinced of himself that he fails
+      to notice the downward spiral of this once-great country of poets and thinkers,
+      which was the world’s leading exporter just a few years ago. Approval rating of
+      this little boy: Only 21% are satisfied with Merz. Here we go again—a little boy
+      with a 21% approval rating is driving Germany into the ground. This shows that
+      this intellectual dwarf in a long body sees himself as a new leader, because a
+      real leader does not care about approval ratings. Recently, this chancellor uttered
+      the following phrase, which is hard to believe: “There is a deep-seated fear of
+      war among parts of our population. I don’t share it, but I can relate to it.”
+      Friedrich Merz “The German people sleep while standing.” When I discussed this
+      topic with German friends, the mood was gloomy, because in addition to the insane
+      politicians who are a tradition in Germany, the people are obviously unable or
+      unwilling to recognize the precarious situation once again. Nevertheless, one
+      of my closest friends made everyone laugh with the following bon mot: “The German
+      people sleep while standing.” Those who do not learn from the past are doomed
+      to repeat it. If you don’t take an honest and critical look at your history, you
+      will keep making the same mistakes. Unlike Mark Twain, history does not rhyme
+      with such behavior, but repeats itself. Incidentally, this applies not only to
+      countries, but also to people. We all make mistakes, and many people learn from
+      them, fools, however, do not—they make the same mistakes over and over again.
+      You can recognize these behavior patterns in yourself—and even more often in others.
+      The famous look in the mirror is therefore a tool that is—or could be—equally
+      valuable in private life and in geopolitics. Historical Awareness Starts with
+      Language I use the term “historical consciousness” because I consider it the best
+      antidote to the repetition of catastrophes. However, historical consciousness
+      requires a great deal of skepticism when looking at one’s own history, and the
+      Russians are already world champions in this regard. Russians do not believe anything
+      they are told, whether by history books, the media, or governments—even their
+      own. Russians have a natural ability to question everything they are told—including
+      their own historiography. This leads to discussions, and the more diverse the
+      opinions in such discussions, the healthier the outcome. It is not important to
+      me whether, for example, Stalin is seen by a colleague as a positive or negative
+      person after weighing up all the factors; the discussion itself clearly reduces
+      the chances of negative events repeating themselves in the future. People are
+      not Monsters—that would be too Simple It is very convenient, too convenient, to
+      label Adolf Hitler and Joseph Stalin as the worst figures of all time and relegate
+      them to the same category labeled “monsters.” After all, monsters are not something
+      we need to engage with, but people are. But both of these historical figures were
+      human beings and had a lasting impact not only on their own countries but on the
+      entire world. It is therefore necessary to engage with them in order to understand
+      them, if we want to ensure that history does not repeat itself. In Russia, Joseph
+      Stalin is not regarded as a monster, but as an important historical figure who
+      had an enormous influence on the country. He is highly controversial, and opinions
+      and reactions to him are sometimes contradictory. However, their ability to engage
+      in unbiased discussion of even such emotionally difficult topics, based on skepticism,
+      allows Russians to treat historically sensitive issues with respect, dignity,
+      and reverence for history. My ex-wife’s great-great-aunt, for instance, was sentenced
+      by Stalin in the 1930s to 15 years in a Siberian labor camp for a trivial offense.
+      She survived this nightmare and returned to society. When Stalin died a few years
+      later, she wept bitterly over his death. We in the West find this contradictory,
+      because this behavior is surprising and shows how closely the positive and negative
+      can be linked to a person. One side shows almost limitless brutality. The other
+      side shows Stalin’s big achievements. Two achievements stand out: Stalin was responsible
+      for the rapid industrialization of the Soviet Union. He showed foresight and precision
+      in his analysis that can seem almost scary. Furthermore, his leadership during
+      World War II turned a near defeat into victory, as he united the population, motivated
+      them to superhuman achievements and—unlike Hitler—let the right military leaders
+      take the decisions. Victory came at a high price, but it was achieved. For a Westerner,
+      these undisputed achievements are difficult to comprehend against the backdrop
+      of the enormous piles of corpses left behind. Nevertheless, the heated discussion
+      about Stalin in Russia, a very strenuous and at times unpleasant debate, will
+      most likely make it impossible for the horrific aspects of Stalin’s rule to be
+      repeated in the future. The discussion in Germany about Hitler never went beyond
+      describing him as a monster. It was easier to sweep this “monster” under the carpet
+      and flatten everything associated with him. If the Obersalzberg and the Reich
+      Chancellery were still standing, Germans would be aware of Hitler’s megalomania
+      – nothing to do with being close to the people. Hitler’s office in the Reichskanzlei
+      – bombastic Last year, I visited Stalin’s dacha in Sochi and was surprised by
+      the simplicity of his living quarters. His offices in the Moscow Kremlin were
+      also by no means ostentatious. Study in Stalin’s dacha in Sochi. Arbeitszimmer
+      Stalins im Kreml 1941 – Standbild aus Video Until May 1945, the Germans were lied
+      to by Joseph Goebbels, then by others. We will now discuss how these lies completely
+      destroyed the Germans’ comprehension of history, using a few examples. After the
+      Nazis, the US Needed a New Enemy. War is a Highly Profitable Business—for a Few
+      The average citizen views war from the perspective of the masses and sees an image
+      of destruction, death, and deprivation. However, the financial elites of a country
+      see this completely differently. War is a huge business, and the amounts of money
+      spent on war-related goods are astronomical, with heavenly profit margins for
+      those involved. When it became apparent in 1943 that Germany would lose the war,
+      the financial elites in the US were already concerned that the peace would dry
+      up the windfall they had enjoyed from the gigantic arms contracts. These elites
+      were not only very wealthy, they also had enormous political influence, because
+      in addition to the ability to manufacture armaments, one also needs the influence
+      to be able to sell them through political influence and corruption. Thus, the
+      military-industrial complex was born. Roosevelt Sought Lasting Peace—Others Did
+      Not Roosevelt and Stalin had a good working relationship. Roosevelt calling Stalin
+      “Uncle Joe” was probably pure propaganda, but the good geopolitical relationship
+      was based on Stalin keeping his word; he was a reliable ally. In addition, the
+      Russians bore the brunt of the war against Hitler. Roosevelt sought a lasting
+      peace after the war. A second Versailles was out of the question for him. His
+      intention was to rebuild Germany and the Soviet Union and to provide both parties
+      with equal amounts of aid. So much for Roosevelt’s plans. However, peace is not
+      a good business model for the military-industrial complex. Since Roosevelt’s health
+      was already so poor in 1944 that it was rightly assumed that Roosevelt would be
+      re-elected but would not live to see the end of his fourth term, a suitable vice
+      president—a puppet—was sought. This was found in the person of Harry S. Truman.
+      The problem for the group was now to get rid of the extremely liberal, popular,
+      and peace-oriented Vice President Henry Wallace , who would have continued Roosevelt’s
+      strategy and thus stood in the way of the military-industrial complex. This undertaking
+      was ultimately successful, albeit through the use of highly unscrupulous means.
+      Roosevelt was pressured. Although Henry Wallace had a perfectly good chance of
+      winning, Truman won the “election.” War wins over peace – left: Henry Wallace
+      wanted peace – right: Harry S. Truman – the first puppet of the military-industrial
+      complex This “election,” which was not one, was impressively portrayed and analyzed
+      by Oliver Stone in his magnificent series “ The Untold History of the United States
+      ” in 2012, in the third part of the series. The documentary, which was produced
+      by Showtime and initially available on Netflix, was banned from major streaming
+      portals years ago: Oliver Stone’s portrayal of the history of the United States
+      is too poignant and too honest. No one should be subjected to this truth. I recommend
+      every reader watch this series. If you ask the internet about this “election,”
+      AI will still lie to you today that it was the right choice. This is an indication
+      that this charade 80 years ago had a lasting impact on world history and that
+      it still seems important to those in power today to keep the truth under wraps.
+      From Friend to Foe in the Blink of an Eye During the war, Russia was celebrated
+      as a great friend and ally, with top directors such as Frank Capra making propaganda
+      films. I refer to the fifth part of the American propaganda film series “ Why
+      We Fight ,” which was called “ The Battle of Russia .” Film poster “The Battle
+      of Russia” Within the blink of an eye, however, Russia became the enemy again
+      after the war. General Patton proposed attacking the USSR, and shortly thereafter
+      the hunt for communists began in the US, with anyone they wanted to destroy simply
+      being labeled a “communist.” This inhumane persecution of people bears no shame
+      in comparison to the witch hunts of the Middle Ages. “Despite this betrayal of
+      the Soviet Union, Russia still uses diplomatic and friendly words toward the US,
+      which is actually astonishing.” We showed how untruthfully Russia’s role in World
+      War II is described today in an article published on the occasion of the May 9
+      celebrations, in which we contrasted the lies of Keir Starmer and Joe Biden with
+      the statements of Winston Churchill and Franklin D. Roosevelt in the article “
+      Western propaganda without limits: Unmasked .” For me personally, this reversal,
+      this betrayal at the time, which continues to this day, of the people who saved
+      the world from the Nazis, is difficult to digest. The Americans must accept the
+      accusation that they have repeatedly double-crossed the Russians over many decades
+      and are also responsible, without any ifs or buts, for the military conflict in
+      Ukraine. We have expressed our views on this in detail, most recently in our article
+      “ Trump-Putin: A Deal, Yalta or No Agreement .” Despite this betrayal of the Soviet
+      Union, Russia still uses diplomatic and friendly words toward the US, which is
+      actually astonishing. From Enemy to Friend in the Blink of an Eye In addition
+      to a new enemy, which filled the coffers of the military-industrial complex thanks
+      to perpetual rearmament, a counterweight in the form of a new “friend” and ally
+      was also needed. Germany presented itself as the obvious choice, as the severe
+      destruction of the country promised huge investments for reconstruction and thus
+      large profits. In addition, the US was able to present itself as a noble, benevolent
+      helper by initiating, among other things, the Marshall Plan shortly after the
+      war, which was stylized as the anthem of the new American-German friendship. However,
+      there was one small, unsavory flaw in the whole thing, namely that the Germans
+      were not only responsible for the Holocaust against the Jews, but had also behaved
+      appallingly toward civilians in all the occupied countries, especially in the
+      Soviet Union, where the Germans had slaughtered no fewer than 15 million civilians.
+      Thus, the Nazis had achieved half of the goal set out in the General Plan East
+      , which was to kill or starve 30 million people. However, the practical-minded
+      Americans came to the conclusion that many of these criminals were ideally suited
+      to helping the new, good cause. In addition to operations such as “ Paperclip
+      ,” which brought Nazi scientists to the US, thousands of Nazis were reintegrated
+      into German society. A few years after the war, they could be found in government,
+      the secret service, universities, and large companies. This was astonishing, given
+      that for years the Nazis had rightly been portrayed as serious criminals who belonged
+      in front of a firing squad. Americans don’t need to be taught marketing. Here
+      are a few examples of how the opposite of the truth was made palatable to the
+      world, thus robbing Germans of their historical consciousness. We had Nothing
+      to do with the Whole Thing Germans Become Victims First, a huge show of atonement
+      was staged for the West by hanging a few token Nazis during the Nuremberg trials
+      (or rather, festival). Shortly thereafter, the tide turned. For example, the Russians
+      were portrayed as rapists of German women. It is true that German women were raped
+      by Russian soldiers—and, incidentally, by other Allied soldiers as well. In contrast
+      to Germany and Japan, which encouraged or even ordered the rape and murder of
+      civilians in occupied territories, the incidents in which Russian soldiers were
+      the perpetrators were, statistically speaking, isolated cases. This was also due
+      to the fact that on January 19, 1945, Stalin issued an order regarding the conduct
+      of his soldiers in the occupied territory that could not have been any clearer:
+      “Officers and soldiers of the Red Army! We are marching into enemy territory.
+      Everyone must maintain self-control, everyone must be courageous… The population
+      remaining in the conquered territories, regardless of whether they are Germans,
+      Czechs, or Poles, must not be subjected to violence. The guilty will be punished
+      according to the laws of wartime. Sexual relations with women are not permitted
+      in the conquered territory. Those guilty of violence and rape will be shot.” Stalin’s
+      order of January 19, 1945 It is claimed that approximately 100,000 women were
+      raped by Soviet soldiers. Incidentally, this figure comes from a doctor at Berlin’s
+      Charité hospital and is in no way substantiated, as he extrapolated the figures
+      from his clinic to the whole of Germany. Nevertheless, we will use this figure
+      for our following considerations. There were approximately 10 million Soviet soldiers
+      in Germany. Statistically speaking, one in every hundred Soviet soldiers committed
+      rape, but this figure is also misleading. Rapists are serial offenders. If we
+      assume that one rapist raped 10 women, then 99.9% of Soviet soldiers behaved correctly
+      towards German women. In contrast, 15 million Soviet citizens were killed by approximately
+      3 million German soldiers. Statistically speaking, every German soldier murdered
+      5 Soviet citizens. So much for proportionality. This is not about relativizing
+      the rapes themselves, which were an unparalleled tragedy and an inexcusable act.
+      The 100,000 raped women are, of course, still a major topic in the German press
+      today. However, there is no mention of the 15 million civilian deaths. The vicious
+      propaganda that began 80 years ago continues unabated—today in preparation for
+      the next war against Russia. Almost all Einsatzgruppen Butchers got Away with
+      It Before the Jews were industrially murdered in concentration and extermination
+      camps, four so-called Einsatzgruppen (task forces) were set up. These groups,
+      consisting of 400 to 1,000 soldiers, had the task between 1941 and 1943 of systematically
+      killing not only Jews but all so-called subhumans, including Russian civilians,
+      in the conquered territories of the Soviet Union. The units, mostly made up of
+      ordinary soldiers, slaughtered around one million people, including women, children,
+      and the elderly. Today, we know that the claim of being under orders, which was
+      regularly cited as justification by the perpetrators, does not stand up to scrutiny.
+      Every soldier had the opportunity to refuse to take part in these actions. Refusal
+      had no negative consequences for those involved. Many who found this task repugnant
+      nevertheless participated, claiming to have done so out of a sense of duty and
+      loyalty to their comrades. Otto Ohlendorf led one of these task forces, which,
+      incidentally, was attached to Manstein’s army—more on that later—and on January
+      6, 1946, as a witness for the prosecution in the main trial at Nuremberg, he described
+      his work dispassionately and truthfully. In the subsequent separate Einsatzgruppen
+      trial, consistent verdicts were handed down: all 24 defendants were found guilty.
+      Otto Ohlendorf pleads “not guilty,” source: ICC Legal Tools Database Fourteen
+      of them received the death penalty, two were sentenced to life imprisonment, and
+      the rest received prison sentences ranging from 10 to 20 years. However, the consistent
+      severe punishment of the perpetrators in the Einsatzgruppen trial evaporated into
+      thin air: of the 14 sentenced to death, only three were executed, including Ohlendorf.
+      All the other convicts were released between 1951 and 1958. Manstein – Hero Instead
+      of War Criminal To this day, Erich von Manstein is internationally celebrated
+      as a tactical genius. It is true that Manstein was an outstanding general. He
+      is credited with the ingenious German strategy in the 1940 campaign in France,
+      when the Germans launched a surprise attack through the Ardennes, thus completely
+      taking the French by surprise. His successes in Sevastopol in 1941/1942 and Kharkov
+      in 1943 are also worth mentioning. His heroic status as a general even influenced
+      the Allied leaders. When Manstein was put on trial after the war, even Winston
+      Churchill supported him financially in covering his legal costs. However, Manstein
+      was – like all German frontline generals – a notorious war criminal. War criminal
+      who was stylized as a hero and helped build today’s German armed forces – Erich
+      von Manstein Dr. Ohlendorf testified to this effect: The task forces were not
+      only assigned to the army groups, but also subordinate to them. Officers from
+      the slaughter groups were assigned to Manstein’s command group to coordinate the
+      slaughter with the officers. In his testimony, Ohlendorf stated, among other things,
+      that Manstein’s command gave the order to carry out the “actions” at least 200
+      km away from the Wehrmacht. Thus, no questions remained unanswered. Von Manstein
+      not only knew about the genocide, but also coordinated it with the SS. Although
+      von Manstein was sentenced to 18 years in prison, he only served a short time
+      and was released to write two bestsellers, Lost Victories (1955) and From a Soldier’s
+      Life (1958). I read part of Lost Victories: a whitewashing of his own achievements,
+      in which all mistakes were blamed on the deceased Hitler and his arch-enemy Halder,
+      omitting the genocide of the Russians that he coordinated. A nasty but convenient
+      distortion of the facts. I would like to point out that these examples have been
+      picked from a pool of hundreds or thousands of unsavory facts to serve as examples
+      of how the history of World War II and the periods that followed has been so thoroughly
+      distorted that lies have become facts and facts have become lies. Franz Halder
+      – 15 million Russian Civilians on His Conscience One of the most unsavory figures
+      of the Third Reich was Franz Halder, who was Chief of the Army General Staff from
+      1938 to 1942. He was closely involved in the plans to conquer Russia and thus
+      also in the genocide, and would certainly have deserved to be executed after the
+      war. Franz Halder – instead of being put in front of a firing squad, he was hired
+      by the Americans to construct a web of lies that persists to this day. His department
+      made the genocide of the Russian civilian population possible in the first place:
+      the Commissar Order of June 6, 1941, which is more or less well known to the general
+      public, obliged the German Eastern Army to separate all captured political officers
+      of the Red Army from the front line and execute them on the spot. However, the
+      so-called War Jurisdiction Decree of May 13, 1941, was a free pass for all members
+      of the German armed forces to slaughter the Soviet population. The order is central
+      to the genocide in several respects: Firstly, the order was not issued by Heinrich
+      Himmler, head of the SS. This is important in the context that since World War
+      II, attempts have been made to blame genocide and war crimes on the SS in order
+      to whitewash the Wehrmacht. The order came from the head of the Wehrmacht High
+      Command, Wilhelm Keitel . It was therefore addressed to the Wehrmacht and not
+      to the SS. Secondly, this order removed the decision to murder from the jurisdiction
+      of the courts-martial and summary courts. Thirdly, against localities that resisted
+      the occupation—which was probably every locality that was attacked— collective
+      measures of violence were ordered, i.e., genocide. Fourthly, members of the armed
+      forces who carried out this genocide were not prosecuted, as the following was
+      formulated: “ There is no obligation to prosecute acts committed by members of
+      the Wehrmacht and their followers against enemy civilians, even if the act also
+      constitutes a military crime or offense .” In quantitative terms, Halder was thus
+      worse than Reinhard Heydrich, for example, and would have deserved the worst fate.
+      The opposite was the case: he was appointed by the US as head of the German section
+      of the US Army’s War History Research Group ( Operational History (German) Section
+      ) and was commissioned to write the history of the Eastern Campaign. Halder romanticized
+      the Nazis’ Eastern Campaign as a preemptive strike and was the architect of the
+      myth of the “clean Wehrmacht,” a narrative that does not stand up to the facts
+      but is still anchored in the minds of Germans today – freely based on the motto:
+      “SS bad, Wehrmacht good.” Death of Hitler and Bormann – where is All the Money?
+      At this point, I would like to use two examples to show how flimsy the official
+      versions of the whereabouts of two of Nazi Germany’s most prominent figures really
+      are. The following remarks are merely intended to show that official historiography
+      may also be incorrect in the most important respects. The fact that there may
+      be some truth in the following theories is already evident from the reactions
+      of the guardians of official historiography: “Conspiracy theories!” The Death
+      of Adolf Hitler Adolf Hitler officially died on April 30, 1945, by suicide in
+      the Führer’s bunker in Berlin. Much has been written and many films have been
+      made about this, probably also to close this chapter, because many books and films
+      make the outcome seem certain. There have always been theories that Hitler survived,
+      but these theories have been reflexively dismissed as conspiracy theories. However,
+      one story—which was, of course, also dismissed as a conspiracy theory—was researched
+      in great detail. In 2011, British author Simon Dunstan and journalist Gerard Williams
+      published the book “The Grey Wolf,” which was adapted into a docudrama in 2014.
+      According to the story, Hitler fled to Argentina and died there in 1962. I read
+      the book and watched the documentary, both of which were exciting and credible.
+      However, I don’t know if this story is true. What is surprising, though, is the
+      fact that no university has taken up the matter. Martin Bormann’s Death The death
+      of Martin Bormann is also shrouded in legend. Officially, he died on May 2, 1945,
+      while fleeing from the Führer’s bunker. In 1972, Bormann’s skull was found. However,
+      there are three problems with this story. First, the skull was not found at the
+      location where witnesses at the time claimed Bormann had died. Second, the skull
+      contained soil that does not exist in Berlin, but only in Paraguay. In addition,
+      a tooth on the skull showed signs of a treatment method that did not exist in
+      1945. Any theory that Bormann survived the war is dismissed as a conspiracy theory.
+      I have never looked into these stories in detail. However, life has taught me
+      not to trust the “official” opinion. The fact is that after the war, thousands
+      of Nazis fled to South America and lived there mostly unmolested—the exceptions
+      that prove the rule are Adolf Eichmann, Klaus Barbie, and Erich Priebke. They
+      were punished with much fanfare as token Nazis, but that was all. Where is All
+      the Money? No clear investigation has ever been conducted into the whereabouts
+      of the enormous assets that were moved out of Germany during the Nazi era, starting
+      around 1943. Rumor has it that Bormann, who served as Hitler’s treasurer, among
+      other things, used every means possible to transfer huge amounts of assets in
+      the form of gold, foreign currency, and patents abroad starting in 1943. Mark
+      Felton, a British historian who runs a very successful YouTube channel, showed
+      in a post – Himmler’s Fourth Reich – SS Assets in Global Conspiracy , that the
+      SS not only became fabulously wealthy, among other things by operating hundreds
+      of concentration camps, but that the SS strategically placed its people on the
+      supervisory boards of large companies in Germany and thus effectively took control.
+      On August 10, 1944, a meeting took place at the Hotel Maison Rouge in Strasbourg.
+      At this meeting, which was attended by major industrialists, “underground activities”
+      after the fall of the Third Reich and the transfer of assets to neutral countries
+      were discussed. It was never clarified what these capital flows looked like, how
+      these huge sums flowed back after the war, and who was or is the owner of these
+      assets today. To put it simply: Who owned “Deutschland AG”? Until the early 1990s,
+      these included Deutsche Bank, Allianz, MAN, VEBY, VIAG, Thyssen Krupp, Klöckner
+      Werke, Ruhrkohle, Daimler-Benz, VW, Preussag, Hoesch, Ruhrgas, Mannesmann, BASF,
+      etc. These companies—or their predecessors—all already existed during the Nazi
+      era. You can assume that there are many very powerful people who have no interest
+      whatsoever in clarifying the issues raised here. Too many unsavory details would
+      come to light. It is very possible that these holdings are held directly or indirectly
+      by today’s giant financial conglomerates such as BlackRock, etc., which promise
+      a level of opacity that is impossible to penetrate – mission accomplished. Conclusion
+      “ Russia will always remain an enemy to us ” (Wadephul), “ Putin is a war criminal.
+      He is perhaps the most serious war criminal of our time, whom we are currently
+      seeing on a large scale ” (Merz). There is no country in world history that has
+      behaved as cruelly toward another country as Germany has toward Russia—these atrocities
+      took place decades, not centuries, ago. Apart from the fact that Merz thus completely
+      disqualifies himself not only as chancellor but also as a human being, he proves
+      that Germany has no comprehension of history. Unlike Russia, Germany has not practiced
+      and does not practice coming to terms with its history, questioning it, and drawing
+      lessons from it for the future. History is presented in such a dishonest way that
+      no one is willing to muster the energy to clean up the mess. This dishonesty was
+      certainly discovered by the Germans—first under Hitler and then under the new
+      regime, which was and is controlled by the US. Under Hitler, people were willing
+      to sacrifice the welfare of Jews and civilians in the occupied territories; under
+      the new government, history was sacrificed, both times for the sake of economic
+      progress – a life lie and a pact with the devil. This combination of devastating
+      influences—a lack of comprehension of history and a pact with the devil—will cause
+      history to repeat itself. If you are German and share this opinion, it is time
+      to stand up. Peter Hanseler is a geopolitical analyst who reports from Moscow.
+      Peter was born in Zurich, Switzerland. He holds a J.D. (lic. iur.) and Ph.D. (Dr.
+      iur.) from Zurich University Law School and Master in International Commercial
+      Law (LL.M.) from Georgetown University Law School, Washington, D.C. He has lived
+      in the US, Spain, Switzerland, Thailand and Russia. Peter is independent, his
+      work is not supported by government or private entities. Peter’s website Forumgeopolitica.com
+      publishes its content in English, Russian, German and French.'
+    one_sentence_summary: The article discusses Peter Hanseler's speech at the "Courage
+      for Ethics" conference, highlighting Germany's misguided historical consciousness
+      as a key issue and suggesting that Germany could learn valuable lessons from Russia.
+    paragraph_summary: In his speech at the "Courage for Ethics" conference, Peter Hanseler
+      critiques Germany's current trajectory, attributing it to a lack of genuine historical
+      awareness and a reluctance to engage in meaningful discussions about its past.
+      He contrasts the perspectives of German leaders, like Chancellor Friedrich Merz,
+      who dismiss the idea of learning from Russia, with the urgent need for Germany
+      to reflect on its historical and ethical foundations. Hanseler argues that the
+      country, once a beacon of culture and innovation, is now in decline, as evidenced
+      by Merz's low approval ratings and his dismissive attitude towards public concerns
+      about war. The article emphasizes the importance of adopting a value-based ethic
+      that transcends ideological trends to address Germany's challenges.
+    published: '2025-09-21T08:55:02+00:00'
+  - title: Most Americans Do Not Understand that Palestine is Not a Mythical Creation
+    url: https://sonar21.com/most-americans-do-not-understand-that-palestine-is-not-a-mythical-creation/
+    text: 'I am writing this to inform some friends who believe, wrongly, that there
+      is no such thing as Palestinians and that the people being genocided by the Zionists
+      are nothing more than interlopers. Prior to 1947, the territory now occupied by
+      Israel and the Gaza Strip was commonly called Palestine . This designation was
+      used during various historical periods, including the Ottoman rule and the British
+      Mandate period (1920–1948). The British Mandate for Palestine was established
+      after World War I and lasted until 1948, during which time the region was officially
+      administered under that name. The term, Palestine , historically referred to the
+      geographic area between the Jordan River and the Mediterranean Sea and was used
+      in various forms dating back to ancient times, including Roman, Byzantine, and
+      early Islamic periods. The earliest recorded historical reference to Palestine
+      dates back to around 1150 BCE in ancient Egyptian inscriptions during the reign
+      of Ramesses III. The name, Peleset , (transliterated as P-r-s-t ) was used to
+      describe a group of people, likely the Philistines, who lived along the southern
+      coast of the region. The first clear use of the term, Palestine , to refer to
+      the broader region was by the ancient Greek historian, Herodotus, in the 5th century
+      BCE. In his work, The Histories , he described a “ district of Syria ,” called
+      Palaistínē , which included the area between Phoenicia and Egypt, incorporating
+      the Judean mountains and the Jordan Rift Valley. Thus, while the name’s roots
+      trace back to ancient Egyptian references to coastal peoples, the geographical
+      concept of Palestine as a region appears clearly in Greek literature from the
+      5th century BCE. Overview of the 1922 Census of Palestine The 1922 Census of Palestine,
+      conducted by the British Mandatory authorities on October 23, 1922, was the first
+      comprehensive population survey under the Mandate. It provides a snapshot of the
+      demographic composition of Palestine at the onset of British administration, following
+      the collapse of Ottoman rule and the establishment of the Mandate by the League
+      of Nations. The census recorded the population by religion, as this was the primary
+      demographic identifier used at the time, reflecting the socio-political context
+      of the region. It covered all inhabitants of the territory defined as Palestine,
+      including urban and rural areas, but excluded some nomadic populations due to
+      enumeration challenges. Population Composition by Religion According to the 1922
+      Census, the total population of Palestine was 757,182 . The breakdown by religious
+      affiliation, as reported in the official census document ( Census of Palestine
+      1922 , published by the British Mandatory Government), is as follows: Religious
+      Group Population Percentage of Total Muslims 590,890 78.0% Jews 83,794 11.1% Christians
+      73,024 9.6% Druze 7,028 0.9% Others* 2,446 0.3% As you can see, the majority were
+      Arab Muslims, predominantly Sunni, living across urban centers (e.g., Jerusalem,
+      Jaffa, Hebron) and rural villages. This group formed the largest demographic,
+      reflecting the historical Ottoman-era population. The Jewish population included
+      both longstanding Sephardic and Mizrahi communities (e.g., in Jerusalem and Safed)
+      and newer Zionist immigrants arriving during the late Ottoman period and early
+      British Mandate, particularly under the Second and Third Aliyahs (1904–1914, 1919–1923).
+      About 40% lived in Jerusalem and Jaffa districts. And the Christians consisted
+      of mainly Arab Christians (Orthodox, Catholic, and Protestant denominations),
+      with significant communities in Jerusalem, Bethlehem, and Nazareth. A small number
+      of European Christians (e.g., clergy, missionaries) were also included. The next
+      census was in 1931 and, like in 1922, was conducted by the British Mandatory authorities
+      on November 18, 1931. It aimed to provide an updated demographic profile of Palestine
+      amid significant political and social changes, including increased Jewish immigration
+      during the Third and Fourth Aliyahs (1919–1923, 1924–1929) and growing Arab-Jewish
+      tensions over land and national aspirations. Like the 1922 Census, it primarily
+      categorized the population by religion, reflecting the era’s socio-political focus
+      on communal identities. The census covered all settled inhabitants of Mandatory
+      Palestine but faced challenges in fully enumerating nomadic populations, particularly
+      Bedouins. According to the official Census of Palestine 1931, published by the
+      British Mandatory Government, the total population of Palestine was 1,035,821.
+      The breakdown by religious affiliation is as follows: Religious Group Population
+      Percentage of Total Muslims 759,712 73.3% Jews 174,610 16.9% Christians 91,398
+      8.8% Druze 9,148 0.9% Others* 953 0.1% Events in Eastern Europe and the former
+      Soviet Union were the catalyst behind the doubling of the Jewish population in
+      Palestine — not Judea and Samaria. The Muslims and Christians who inhabited Palestine
+      prior to World War II were not refugees from some other country… Palestine was
+      their historical home. Keep these points in mind in the coming weeks as Donald
+      Trump’s administration tries to make the case that the Palestinians have no legal
+      claim to the territory they and their ancestors have lived in for centuries. Stop
+      the genocide. I thank you for your invaluable support by taking time to read or
+      comment. I do not charge a subscription fee nor do I accept advertising. I want
+      the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article argues against the misconception that Palestinians
+      do not exist, highlighting that the region now known as Israel and the Gaza Strip
+      was historically referred to as Palestine, with this designation used throughout
+      various historical periods, including during the British Mandate from 1920 to
+      1948.
+    paragraph_summary: The article addresses misconceptions regarding the existence
+      of Palestinians, emphasizing that the territory now known as Israel and the Gaza
+      Strip was historically referred to as Palestine, a name used during various periods
+      including Ottoman rule and the British Mandate (1920–1948). It traces the term
+      "Palestine" back to ancient times, with references dating to around 1150 BCE in
+      Egyptian inscriptions and its first clear use by the Greek historian Herodotus
+      in the 5th century BCE. The article also mentions the 1922 Census of Palestine,
+      which was the first comprehensive population survey conducted under British administration,
+      highlighting the region's demographic composition at that time.
+    published: '2025-09-21T00:39:01+00:00'
+  - title: Most Americans Do Not Understand that Palestine is Not a Mythical Creation
+    url: https://sonar21.com/most-americans-do-not-understand-that-palestine-is-not-a-mythical-creation/
+    text: 'I am writing this to inform some friends who believe, wrongly, that there
+      is no such thing as Palestinians and that the people being genocided by the Zionists
+      are nothing more than interlopers. Prior to 1947, the territory now occupied by
+      Israel and the Gaza Strip was commonly called Palestine . This designation was
+      used during various historical periods, including the Ottoman rule and the British
+      Mandate period (1920–1948). The British Mandate for Palestine was established
+      after World War I and lasted until 1948, during which time the region was officially
+      administered under that name. The term, Palestine , historically referred to the
+      geographic area between the Jordan River and the Mediterranean Sea and was used
+      in various forms dating back to ancient times, including Roman, Byzantine, and
+      early Islamic periods. The earliest recorded historical reference to Palestine
+      dates back to around 1150 BCE in ancient Egyptian inscriptions during the reign
+      of Ramesses III. The name, Peleset , (transliterated as P-r-s-t ) was used to
+      describe a group of people, likely the Philistines, who lived along the southern
+      coast of the region. The first clear use of the term, Palestine , to refer to
+      the broader region was by the ancient Greek historian, Herodotus, in the 5th century
+      BCE. In his work, The Histories , he described a “ district of Syria ,” called
+      Palaistínē , which included the area between Phoenicia and Egypt, incorporating
+      the Judean mountains and the Jordan Rift Valley. Thus, while the name’s roots
+      trace back to ancient Egyptian references to coastal peoples, the geographical
+      concept of Palestine as a region appears clearly in Greek literature from the
+      5th century BCE. Overview of the 1922 Census of Palestine The 1922 Census of Palestine,
+      conducted by the British Mandatory authorities on October 23, 1922, was the first
+      comprehensive population survey under the Mandate. It provides a snapshot of the
+      demographic composition of Palestine at the onset of British administration, following
+      the collapse of Ottoman rule and the establishment of the Mandate by the League
+      of Nations. The census recorded the population by religion, as this was the primary
+      demographic identifier used at the time, reflecting the socio-political context
+      of the region. It covered all inhabitants of the territory defined as Palestine,
+      including urban and rural areas, but excluded some nomadic populations due to
+      enumeration challenges. Population Composition by Religion According to the 1922
+      Census, the total population of Palestine was 757,182 . The breakdown by religious
+      affiliation, as reported in the official census document ( Census of Palestine
+      1922 , published by the British Mandatory Government), is as follows: Religious
+      Group Population Percentage of Total Muslims 590,890 78.0% Jews 83,794 11.1% Christians
+      73,024 9.6% Druze 7,028 0.9% Others* 2,446 0.3% As you can see, the majority were
+      Arab Muslims, predominantly Sunni, living across urban centers (e.g., Jerusalem,
+      Jaffa, Hebron) and rural villages. This group formed the largest demographic,
+      reflecting the historical Ottoman-era population. The Jewish population included
+      both longstanding Sephardic and Mizrahi communities (e.g., in Jerusalem and Safed)
+      and newer Zionist immigrants arriving during the late Ottoman period and early
+      British Mandate, particularly under the Second and Third Aliyahs (1904–1914, 1919–1923).
+      About 40% lived in Jerusalem and Jaffa districts. And the Christians consisted
+      of mainly Arab Christians (Orthodox, Catholic, and Protestant denominations),
+      with significant communities in Jerusalem, Bethlehem, and Nazareth. A small number
+      of European Christians (e.g., clergy, missionaries) were also included. The next
+      census was in 1931 and, like in 1922, was conducted by the British Mandatory authorities
+      on November 18, 1931. It aimed to provide an updated demographic profile of Palestine
+      amid significant political and social changes, including increased Jewish immigration
+      during the Third and Fourth Aliyahs (1919–1923, 1924–1929) and growing Arab-Jewish
+      tensions over land and national aspirations. Like the 1922 Census, it primarily
+      categorized the population by religion, reflecting the era’s socio-political focus
+      on communal identities. The census covered all settled inhabitants of Mandatory
+      Palestine but faced challenges in fully enumerating nomadic populations, particularly
+      Bedouins. According to the official Census of Palestine 1931, published by the
+      British Mandatory Government, the total population of Palestine was 1,035,821.
+      The breakdown by religious affiliation is as follows: Religious Group Population
+      Percentage of Total Muslims 759,712 73.3% Jews 174,610 16.9% Christians 91,398
+      8.8% Druze 9,148 0.9% Others* 953 0.1% Events in Eastern Europe and the former
+      Soviet Union were the catalyst behind the doubling of the Jewish population in
+      Palestine — not Judea and Samaria. The Muslims and Christians who inhabited Palestine
+      prior to World War II were not refugees from some other country… Palestine was
+      their historical home. Keep these points in mind in the coming weeks as Donald
+      Trump’s administration tries to make the case that the Palestinians have no legal
+      claim to the territory they and their ancestors have lived in for centuries. Stop
+      the genocide. I thank you for your invaluable support by taking time to read or
+      comment. I do not charge a subscription fee nor do I accept advertising. I want
+      the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article argues against the misconception that Palestinians
+      do not exist, highlighting that the region now known as Israel and the Gaza Strip
+      was historically referred to as Palestine, with this designation used throughout
+      various historical periods, including during the British Mandate from 1920 to
+      1948.
+    paragraph_summary: The article addresses misconceptions regarding the existence
+      of Palestinians, emphasizing that the territory now known as Israel and the Gaza
+      Strip was historically referred to as Palestine, a name used during various periods
+      including Ottoman rule and the British Mandate (1920–1948). It traces the term
+      "Palestine" back to ancient times, with references dating to around 1150 BCE in
+      Egyptian inscriptions and its first clear use by the Greek historian Herodotus
+      in the 5th century BCE. The article also mentions the 1922 Census of Palestine,
+      which was the first comprehensive population survey conducted under British administration,
+      highlighting the region's demographic composition at that time.
+    published: '2025-09-21T00:39:01+00:00'
+  - title: Charlie Kirk Update and, As Predicted, Europe Snapbacks on Iran
+    url: https://sonar21.com/charlie-kirk-update-and-as-predicted-europe-snapbacks-on-iran/
+    text: 'Let me state at the outset that I do not believe the story the FBI is pushing
+      and that I recommend you watch Candace Owens; she has major doubts, and some proof,
+      that key parts of the FBI narrative are false or appear to be fabrications. However,
+      the shot that killed Charlie Kirk came from the front… It was not from a palm
+      pistol fired from Charlie’s right nor was it a shot from behind. I believe these
+      three videos are conclusive that the shot came from the front — WARNING: Graphic
+      content: The first is filmed from the front and slightly to Charlie’s right: The
+      second is filmed from the front left side of Charlie: The third is filmed from
+      90 degrees to the right side of Charlie: Candace Owens reported today that she
+      has viewed another film that is in the possession of a T urning Points USA staffer.
+      She says she had a clear view of Charlie’s back and that there was no evidence
+      of a bullet exiting Charlie’s body. Nor was there evidence of a shot from behind
+      or from the right side. I have consulted with three military veterans… two of
+      them served as combat medics and had experience with gunshot wounds. All believed
+      that the bullet, after it hit the neck, was deflected into the thoracic cavity,
+      which accounts for the massive blood flow visible after Charlie is shot. If the
+      bullet had only hit the carotid there would have been a visible spray of arterial
+      blood. That is not visible on any of the videos circulating. This was a catastrophic
+      wound and Charlie died almost instantaneously. Whether or not Tyler Robinson fired
+      the fatal shot remains unproven. I had speculated early on, before I knew what
+      the weapon was, that the shooter was able to break the weapon down by removing
+      the stock. That did not happen… I was wrong. Unfortunately, the FBI claims that
+      is what happened. They are not telling the truth. The FBI also claimed the shooter
+      disassembled the rifle after firing the shot, but the video evidence casts major
+      doubts on that explanation because the alleged shooter seen moving across the
+      roof did so within six seconds of taking the shot. Moveover, the recovered rifle
+      was fully intact. I believe Candace Owens is correct in challenging the current
+      narrative. Charlie was hit by a bullet that was fired from the front UNSC APPROVES
+      SNAPBACK SANCTIONS ON IRAN: The United Nations Security Council has rejected the
+      draft resolution that would give continued sanctions relief for Iran under the
+      terms of  the JCPOA. Only Russia, China, Pakistan and Algeria voted to support
+      Iran, while nine other countries, including the U.S. and the Europeans, voted
+      in favor of SnapBack. This means that snapback has now been officially ACTIVATED,
+      and that UN sanctions against Iran will take effect at 8pm EST on September 27th.
+      However, China and Russia issued a joint statement following the vote and officially
+      announced that they consider the snapback of UN sanctions against Iran to be illegal
+      and invalid, and that they will not abide by them. In other words, they will continue
+      to do business with Iran as usual, regardless of UN sanctions. I suspect the other
+      BRICS nations will adopt the same position. I am posting three videos: the first
+      is my interview with Alex Krainer regarding the economic conditions in Europe
+      and the implications for Ukrain; the second is the Friday Intelligence Roundtable
+      with the Judge and Ray; the last video is another roundtable … It is an impromptu
+      shirt convention with Nima and Colonel Lawrence Wilkerson: I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article expresses skepticism about the FBI's narrative
+      regarding the shooting of Charlie Kirk, asserting that evidence suggests the fatal
+      shot came from the front rather than from the side or behind, and references Candace
+      Owens' claims of additional video evidence supporting this view.
+    paragraph_summary: The article expresses skepticism towards the FBI's narrative
+      regarding the shooting of Charlie Kirk, suggesting that key elements may be fabricated.
+      It argues that video evidence indicates the fatal shot came from the front rather
+      than from the side or behind, as the FBI claims. Candace Owens is mentioned as
+      having seen additional footage that supports this view, showing no exit wound
+      on Charlie's back. The author consulted military veterans who believe the bullet's
+      trajectory caused significant internal damage, contradicting the FBI's assertions
+      about the nature of the wound. The article concludes with doubts about the FBI's
+      account of the shooter disassembling the weapon after the incident, implying a
+      lack of credibility in their investigation.
+    published: '2025-09-20T02:11:55+00:00'
+  - title: Charlie Kirk Update and, As Predicted, Europe Snapbacks on Iran
+    url: https://sonar21.com/charlie-kirk-update-and-as-predicted-europe-snapbacks-on-iran/
+    text: 'Let me state at the outset that I do not believe the story the FBI is pushing
+      and that I recommend you watch Candace Owens; she has major doubts, and some proof,
+      that key parts of the FBI narrative are false or appear to be fabrications. However,
+      the shot that killed Charlie Kirk came from the front… It was not from a palm
+      pistol fired from Charlie’s right nor was it a shot from behind. I believe these
+      three videos are conclusive that the shot came from the front — WARNING: Graphic
+      content: The first is filmed from the front and slightly to Charlie’s right: The
+      second is filmed from the front left side of Charlie: The third is filmed from
+      90 degrees to the right side of Charlie: Candace Owens reported today that she
+      has viewed another film that is in the possession of a T urning Points USA staffer.
+      She says she had a clear view of Charlie’s back and that there was no evidence
+      of a bullet exiting Charlie’s body. Nor was there evidence of a shot from behind
+      or from the right side. I have consulted with three military veterans… two of
+      them served as combat medics and had experience with gunshot wounds. All believed
+      that the bullet, after it hit the neck, was deflected into the thoracic cavity,
+      which accounts for the massive blood flow visible after Charlie is shot. If the
+      bullet had only hit the carotid there would have been a visible spray of arterial
+      blood. That is not visible on any of the videos circulating. This was a catastrophic
+      wound and Charlie died almost instantaneously. Whether or not Tyler Robinson fired
+      the fatal shot remains unproven. I had speculated early on, before I knew what
+      the weapon was, that the shooter was able to break the weapon down by removing
+      the stock. That did not happen… I was wrong. Unfortunately, the FBI claims that
+      is what happened. They are not telling the truth. The FBI also claimed the shooter
+      disassembled the rifle after firing the shot, but the video evidence casts major
+      doubts on that explanation because the alleged shooter seen moving across the
+      roof did so within six seconds of taking the shot. Moveover, the recovered rifle
+      was fully intact. I believe Candace Owens is correct in challenging the current
+      narrative. Charlie was hit by a bullet that was fired from the front UNSC APPROVES
+      SNAPBACK SANCTIONS ON IRAN: The United Nations Security Council has rejected the
+      draft resolution that would give continued sanctions relief for Iran under the
+      terms of  the JCPOA. Only Russia, China, Pakistan and Algeria voted to support
+      Iran, while nine other countries, including the U.S. and the Europeans, voted
+      in favor of SnapBack. This means that snapback has now been officially ACTIVATED,
+      and that UN sanctions against Iran will take effect at 8pm EST on September 27th.
+      However, China and Russia issued a joint statement following the vote and officially
+      announced that they consider the snapback of UN sanctions against Iran to be illegal
+      and invalid, and that they will not abide by them. In other words, they will continue
+      to do business with Iran as usual, regardless of UN sanctions. I suspect the other
+      BRICS nations will adopt the same position. I am posting three videos: the first
+      is my interview with Alex Krainer regarding the economic conditions in Europe
+      and the implications for Ukrain; the second is the Friday Intelligence Roundtable
+      with the Judge and Ray; the last video is another roundtable … It is an impromptu
+      shirt convention with Nima and Colonel Lawrence Wilkerson: I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article expresses skepticism about the FBI's narrative
+      regarding the shooting of Charlie Kirk, asserting that evidence suggests the fatal
+      shot came from the front rather than from the side or behind, and references Candace
+      Owens' claims of additional video evidence supporting this view.
+    paragraph_summary: The article expresses skepticism towards the FBI's narrative
+      regarding the shooting of Charlie Kirk, suggesting that key elements may be fabricated.
+      It argues that video evidence indicates the fatal shot came from the front rather
+      than from the side or behind, as the FBI claims. Candace Owens is mentioned as
+      having seen additional footage that supports this view, showing no exit wound
+      on Charlie's back. The author consulted military veterans who believe the bullet's
+      trajectory caused significant internal damage, contradicting the FBI's assertions
+      about the nature of the wound. The article concludes with doubts about the FBI's
+      account of the shooter disassembling the weapon after the incident, implying a
+      lack of credibility in their investigation.
+    published: '2025-09-20T02:11:55+00:00'
+  - title: Why is Iran Willing to Make an Agreement with the IAEA?
+    url: https://sonar21.com/why-is-iran-willing-to-make-an-agreement-with-the-iaea/
+    text: 'IAEA’s Grossi Signs Cairo Agreement with Iran’s Foreign Minister It looks
+      like Donald Trump, with his European lackeys in tow, is telling Egypt to screw
+      off . After painstaking negotiations, Egypt brokered an agreement between Iran
+      and the International Atomic Energy Agency (IAEA), which is now known as the Cairo
+      Agreement . This is a technical accord reached on September 9, 2025, in Cairo
+      between Iran and the IAEA, which allows the IAEA to inspect Iranian nuclear facilities.
+      Here are the main provisions of the Cairo Agreement : Resumption of Inspections:
+      Iran agreed to resume cooperation with the IAEA, reopening the way for technical
+      verification at its nuclear facilities and increased transparency measures. Special
+      Reporting: Iran is required to prepare a report detailing locations and conditions
+      of nuclear material, including highly enriched uranium, especially after incidents
+      affecting those sites. Framework for Trust: The agreement lays the groundwork
+      for rebuilding trust between Iran and the IAEA and is intended as a first step
+      toward restarting broader nuclear negotiations. Regional Diplomacy: Egypt played
+      a central role as mediator, with its foreign minister leading negotiations that
+      started in June amid heightened regional tensions My initial reaction was that
+      Iran is crazy to entertain such an agreement in light of evidence that the IAEA
+      used its previous inspections to gather intelligence on Iranian scientists who
+      were murdered by Israel during the 12-Day War . Upon further reflection, I think
+      I understand why Iran is taking this step: Iran is trying to play by the international
+      rules in order to avoid the snapback sanctions under the JCPOA. Despite the Western
+      narrative that the Islamic Republic of Iran is a lawless, terrorist state, Iran
+      is taking the high-road by taking a concrete action to show that it is not enriching
+      uranium to build a nuclear bomb. Unfortunately, the West does not care… It is
+      hellbent on destroying the Islamic Republic. I think Iran is taking this step
+      so that its BRICS partners will be able to ignore the UN sanctions and continue
+      to do business with Iran because of the deceit of the UK, France and Germany,
+      who failed to uphold the JCPOA by lifting sanctions on Iran ten years ago. Let’s
+      begin by reviewing the original JCPOA: Overview of the JCPOA and Snapback Sanctions
+      The Joint Comprehensive Plan of Action (JCPOA), signed in 2015 between Iran and
+      the P5+1 (United States, United Kingdom, France, Russia, China, and Germany),
+      is an agreement aimed at limiting Iran’s nuclear program in exchange for sanctions
+      relief. It was endorsed by UN Security Council Resolution 2231 (UNSCR 2231), which
+      terminated six prior UN sanctions resolutions (1696 (2006), 1737 (2006), 1747
+      (2007), 1803 (2008), 1835 (2008), and 1929 (2010) but included a “snapback” mechanism
+      to reimpose them if Iran engages in “significant non-performance” of its commitments.
+      This mechanism, detailed in Article 36-37 of the JCPOA and operational paragraphs
+      10-19 of UNSCR 2231, is a veto-proof process designed to ensure compliance without
+      requiring new Security Council action, which could be blocked by permanent members.
+      The snapback is one of the JCPOA’s key enforcement tools and is set to expire
+      on October 18, 2025 (“Termination Day”), after which the UN’s consideration of
+      Iran’s nuclear file ends and the mechanism lapses. Only current JCPOA participants
+      (France, UK, Germany, China, Russia; the US withdrew in 2018 and lost standing)
+      can trigger it. As of August 28, 2025, the E3 (France, UK, Germany) initiated
+      the process, citing Iran’s uranium enrichment and non-compliance, starting a 30-day
+      countdown unless resolved. How the Snapback Mechanism Works The process is structured
+      to automatically restore sanctions if not halted by consensus: Notification of
+      Non-Performance : Any JCPOA participant notifies the UN Security Council (via
+      the President) of Iran’s “significant non-performance,” such as exceeding uranium
+      enrichment limits or blocking IAEA inspections. This locks in the complaint for
+      15 days, during which the Joint Commission (JCPOA parties) can try to resolve
+      it. Referral to the Security Council : If unresolved, the complaint is referred
+      to the Council. Within 10 days, the Council President must circulate a draft resolution
+      to “continue” the sanctions termination (i.e., maintain relief under the JCPOA).
+      30-Day Voting Period : The Council has 30 days to adopt the continuation resolution.
+      Adoption requires nine affirmative votes with no vetoes from permanent members
+      (P5: US, UK, France, Russia, China). If the resolution fails (e.g., due to a veto
+      by the triggering state or lack of votes), sanctions automatically “snap back”
+      without further action. Irreversibility : Once triggered, the process cannot be
+      easily reversed; even a veto accelerates snapback. The restored sanctions are
+      indefinite until a new Council resolution lifts them. This design, proposed by
+      Russia during negotiations, bypasses traditional vetoes on new sanctions, making
+      it a powerful deterrent. Sanctions Reimposed by Snapback Snapback restores all
+      provisions from the six pre-JCPOA UN resolutions, focusing on Iran’s nuclear,
+      missile, and proliferation activities. These include: Nuclear Program Restrictions
+      : Prohibition on uranium enrichment, reprocessing, and heavy-water reactor activities
+      beyond JCPOA limits. Ban on new nuclear facilities and transfers of nuclear-related
+      materials, equipment, or technology to Iran. Requirement for IAEA monitoring;
+      Iran must comply with safeguards. Missile and Arms Embargo : Ban on activities
+      involving ballistic missiles capable of delivering nuclear weapons (includes transfers,
+      testing, and procurement). Restrictions on conventional arms transfers to or from
+      Iran (though some expired in 2020; snapback would reinstate broader prohibitions).
+      Limits on dual-use items for missiles. Financial and Economic Sanctions : Asset
+      freezes on designated Iranian individuals, entities, and bodies (e.g., Islamic
+      Revolutionary Guard Corps (IRGC), nuclear scientists, and proliferation networks;
+      over 80 entities and 200+ individuals). Prohibition on financial services, banking
+      transactions, and insurance related to prohibited activities. Vigilance requirements
+      for states to prevent Iranian use of their financial systems for nuclear/missile
+      purposes. Travel Bans and Designations : Travel restrictions on listed individuals.
+      Re-designation of entities connected to Iran’s nuclear, missile, or support programs.
+      Monitoring and Enforcement : Revival of the UN Panel of Experts to investigate
+      violations, report on compliance, and recommend enforcement. States must seize
+      and inspect prohibited cargo and report to the Council. These UN sanctions apply
+      globally but do not automatically restore US or EU national sanctions (e.g., US
+      secondary sanctions on oil exports remain separate). However, they signal international
+      isolation, deterring business with Iran and potentially amplifying unilateral
+      measures. Category Key Provisions Restored Affected Areas Nuclear No enrichment/reprocessing;
+      IAEA access Facilities, materials, technology transfers Missiles/Arms Bans on
+      ballistic missiles and arms deals Procurement, testing, exports/imports Financial
+      Asset freezes; banking restrictions IRGC, banks, proliferation networks Travel/Designations
+      Bans on listed persons/entities Over 200 individuals, 80+ entities Enforcement
+      Panel of Experts; inspections Global cargo, compliance reporting According to
+      a report from Al Mayadeen , if the European states activate the snapback mechanism,
+      then Iran will nullify the Cairo Agreement and shut the door on cooperation between
+      the IAEA and Tehran, and bar inspections.” Not surprisingly, French President
+      Emmanuel Macron told a reporter today that snapback sanctions against Iran are
+      a ‘done deal’, and WILL be implemented regardless of the Iran-IAEA agreement that
+      was signed in Cairo. So much for diplomacy. As I intimated at the outset, the
+      West is determined to destroy the current government in Iran. But Iran is not
+      in this battle alone. The Chief of Staff of the Iranian Armed Forces, Major General
+      Musavi, met in Moscow with Russian Energy Minister Sergey Tsivilyov. Musavi stated
+      that Russia’s positions at the UN and IAEA regarding Israel’s attack on Iran were
+      “firm and positive.” He emphasized that Iran has never started a war, considering
+      diplomacy the priority path, but in response to aggression delivered a “harsh
+      and crushing blow” to the USA and Israel. Russian Energy Minister Tsivilyov expressed
+      condolences over the deaths of Iranian commanders and scientists, supported the
+      idea of deepening joint commissions, and called to elevate Moscow and Tehran’s
+      economic and defense cooperation to the highest level. If there are new attacks
+      on Iran, Moscow is likely to actively assist Iran in defending itself. Meanwhile,
+      the Trump administration is working overtime to sabotage any initiatives by the
+      IAEA to reduce the possibility of attacks on nuclear facilities. The IAEA member
+      states will vote on Thursday on a ban against attacking or threatening to attack
+      any nuclear facilities under the agency’s safeguards . The draft resolution strongly
+      condemned the deliberate and unlawful attacks on nuclear facilities under IAEA
+      safeguards in the Islamic Republic of Iran, stating that these attacks constitute
+      a clear violation of international law, including the UN Charter and the IAEA’s
+      own statute. It reiterated that all nations must refrain from attacking or threatening
+      to attack the peaceful nuclear facilities of other countries. It also reaffirmed
+      the necessity of the full and effective realization of the inalienable right of
+      all Member States for the development of research, production, and use of nuclear
+      energy for peaceful purposes, without discrimination, and further affirmed that
+      any legitimate matters arising in this context shall be settled exclusively through
+      peaceful means, through dialogue and diplomacy, being the only viable course of
+      action, in addition to the decision to consider taking further action, as and
+      when deemed necessary. The draft resolution will be submitted by Iran along with
+      China, Russia, Belarus, Nicaragua, and Venezuela at the 69th IAEA General Conference
+      in Vienna, Austria. Washington reportedly has warned the majority of member states
+      not to vote in favor of a resolution banning strikes on nuclear facilities. I
+      interpret this as the US wanting to maintain the option to bomb Iranian facilities
+      again. Here are three more podcasts from the last two days — Glenn Diesen, Jyotishman
+      Mudiar and Garland Nixon: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The Cairo Agreement, signed by IAEA's Grossi and Iran's Foreign
+      Minister, allows for renewed inspections of Iranian nuclear facilities and establishes
+      measures for transparency and trust-building between Iran and the IAEA.
+    paragraph_summary: The Cairo Agreement, signed on September 9, 2025, between Iran
+      and the International Atomic Energy Agency (IAEA), facilitates inspections of
+      Iranian nuclear facilities and marks a significant step towards rebuilding trust
+      and resuming broader nuclear negotiations. Brokered by Egypt, the agreement includes
+      provisions for Iran to cooperate with the IAEA, provide detailed reports on nuclear
+      materials, and enhance transparency measures. While some view Iran's participation
+      as a strategic move to avoid snapback sanctions under the Joint Comprehensive
+      Plan of Action (JCPOA), skepticism remains about the West's intentions towards
+      Iran, with concerns that the IAEA's past actions may have compromised Iranian
+      security.
+    published: '2025-09-19T01:42:03+00:00'
+  - title: Why is Iran Willing to Make an Agreement with the IAEA?
+    url: https://sonar21.com/why-is-iran-willing-to-make-an-agreement-with-the-iaea/
+    text: 'IAEA’s Grossi Signs Cairo Agreement with Iran’s Foreign Minister It looks
+      like Donald Trump, with his European lackeys in tow, is telling Egypt to screw
+      off . After painstaking negotiations, Egypt brokered an agreement between Iran
+      and the International Atomic Energy Agency (IAEA), which is now known as the Cairo
+      Agreement . This is a technical accord reached on September 9, 2025, in Cairo
+      between Iran and the IAEA, which allows the IAEA to inspect Iranian nuclear facilities.
+      Here are the main provisions of the Cairo Agreement : Resumption of Inspections:
+      Iran agreed to resume cooperation with the IAEA, reopening the way for technical
+      verification at its nuclear facilities and increased transparency measures. Special
+      Reporting: Iran is required to prepare a report detailing locations and conditions
+      of nuclear material, including highly enriched uranium, especially after incidents
+      affecting those sites. Framework for Trust: The agreement lays the groundwork
+      for rebuilding trust between Iran and the IAEA and is intended as a first step
+      toward restarting broader nuclear negotiations. Regional Diplomacy: Egypt played
+      a central role as mediator, with its foreign minister leading negotiations that
+      started in June amid heightened regional tensions My initial reaction was that
+      Iran is crazy to entertain such an agreement in light of evidence that the IAEA
+      used its previous inspections to gather intelligence on Iranian scientists who
+      were murdered by Israel during the 12-Day War . Upon further reflection, I think
+      I understand why Iran is taking this step: Iran is trying to play by the international
+      rules in order to avoid the snapback sanctions under the JCPOA. Despite the Western
+      narrative that the Islamic Republic of Iran is a lawless, terrorist state, Iran
+      is taking the high-road by taking a concrete action to show that it is not enriching
+      uranium to build a nuclear bomb. Unfortunately, the West does not care… It is
+      hellbent on destroying the Islamic Republic. I think Iran is taking this step
+      so that its BRICS partners will be able to ignore the UN sanctions and continue
+      to do business with Iran because of the deceit of the UK, France and Germany,
+      who failed to uphold the JCPOA by lifting sanctions on Iran ten years ago. Let’s
+      begin by reviewing the original JCPOA: Overview of the JCPOA and Snapback Sanctions
+      The Joint Comprehensive Plan of Action (JCPOA), signed in 2015 between Iran and
+      the P5+1 (United States, United Kingdom, France, Russia, China, and Germany),
+      is an agreement aimed at limiting Iran’s nuclear program in exchange for sanctions
+      relief. It was endorsed by UN Security Council Resolution 2231 (UNSCR 2231), which
+      terminated six prior UN sanctions resolutions (1696 (2006), 1737 (2006), 1747
+      (2007), 1803 (2008), 1835 (2008), and 1929 (2010) but included a “snapback” mechanism
+      to reimpose them if Iran engages in “significant non-performance” of its commitments.
+      This mechanism, detailed in Article 36-37 of the JCPOA and operational paragraphs
+      10-19 of UNSCR 2231, is a veto-proof process designed to ensure compliance without
+      requiring new Security Council action, which could be blocked by permanent members.
+      The snapback is one of the JCPOA’s key enforcement tools and is set to expire
+      on October 18, 2025 (“Termination Day”), after which the UN’s consideration of
+      Iran’s nuclear file ends and the mechanism lapses. Only current JCPOA participants
+      (France, UK, Germany, China, Russia; the US withdrew in 2018 and lost standing)
+      can trigger it. As of August 28, 2025, the E3 (France, UK, Germany) initiated
+      the process, citing Iran’s uranium enrichment and non-compliance, starting a 30-day
+      countdown unless resolved. How the Snapback Mechanism Works The process is structured
+      to automatically restore sanctions if not halted by consensus: Notification of
+      Non-Performance : Any JCPOA participant notifies the UN Security Council (via
+      the President) of Iran’s “significant non-performance,” such as exceeding uranium
+      enrichment limits or blocking IAEA inspections. This locks in the complaint for
+      15 days, during which the Joint Commission (JCPOA parties) can try to resolve
+      it. Referral to the Security Council : If unresolved, the complaint is referred
+      to the Council. Within 10 days, the Council President must circulate a draft resolution
+      to “continue” the sanctions termination (i.e., maintain relief under the JCPOA).
+      30-Day Voting Period : The Council has 30 days to adopt the continuation resolution.
+      Adoption requires nine affirmative votes with no vetoes from permanent members
+      (P5: US, UK, France, Russia, China). If the resolution fails (e.g., due to a veto
+      by the triggering state or lack of votes), sanctions automatically “snap back”
+      without further action. Irreversibility : Once triggered, the process cannot be
+      easily reversed; even a veto accelerates snapback. The restored sanctions are
+      indefinite until a new Council resolution lifts them. This design, proposed by
+      Russia during negotiations, bypasses traditional vetoes on new sanctions, making
+      it a powerful deterrent. Sanctions Reimposed by Snapback Snapback restores all
+      provisions from the six pre-JCPOA UN resolutions, focusing on Iran’s nuclear,
+      missile, and proliferation activities. These include: Nuclear Program Restrictions
+      : Prohibition on uranium enrichment, reprocessing, and heavy-water reactor activities
+      beyond JCPOA limits. Ban on new nuclear facilities and transfers of nuclear-related
+      materials, equipment, or technology to Iran. Requirement for IAEA monitoring;
+      Iran must comply with safeguards. Missile and Arms Embargo : Ban on activities
+      involving ballistic missiles capable of delivering nuclear weapons (includes transfers,
+      testing, and procurement). Restrictions on conventional arms transfers to or from
+      Iran (though some expired in 2020; snapback would reinstate broader prohibitions).
+      Limits on dual-use items for missiles. Financial and Economic Sanctions : Asset
+      freezes on designated Iranian individuals, entities, and bodies (e.g., Islamic
+      Revolutionary Guard Corps (IRGC), nuclear scientists, and proliferation networks;
+      over 80 entities and 200+ individuals). Prohibition on financial services, banking
+      transactions, and insurance related to prohibited activities. Vigilance requirements
+      for states to prevent Iranian use of their financial systems for nuclear/missile
+      purposes. Travel Bans and Designations : Travel restrictions on listed individuals.
+      Re-designation of entities connected to Iran’s nuclear, missile, or support programs.
+      Monitoring and Enforcement : Revival of the UN Panel of Experts to investigate
+      violations, report on compliance, and recommend enforcement. States must seize
+      and inspect prohibited cargo and report to the Council. These UN sanctions apply
+      globally but do not automatically restore US or EU national sanctions (e.g., US
+      secondary sanctions on oil exports remain separate). However, they signal international
+      isolation, deterring business with Iran and potentially amplifying unilateral
+      measures. Category Key Provisions Restored Affected Areas Nuclear No enrichment/reprocessing;
+      IAEA access Facilities, materials, technology transfers Missiles/Arms Bans on
+      ballistic missiles and arms deals Procurement, testing, exports/imports Financial
+      Asset freezes; banking restrictions IRGC, banks, proliferation networks Travel/Designations
+      Bans on listed persons/entities Over 200 individuals, 80+ entities Enforcement
+      Panel of Experts; inspections Global cargo, compliance reporting According to
+      a report from Al Mayadeen , if the European states activate the snapback mechanism,
+      then Iran will nullify the Cairo Agreement and shut the door on cooperation between
+      the IAEA and Tehran, and bar inspections.” Not surprisingly, French President
+      Emmanuel Macron told a reporter today that snapback sanctions against Iran are
+      a ‘done deal’, and WILL be implemented regardless of the Iran-IAEA agreement that
+      was signed in Cairo. So much for diplomacy. As I intimated at the outset, the
+      West is determined to destroy the current government in Iran. But Iran is not
+      in this battle alone. The Chief of Staff of the Iranian Armed Forces, Major General
+      Musavi, met in Moscow with Russian Energy Minister Sergey Tsivilyov. Musavi stated
+      that Russia’s positions at the UN and IAEA regarding Israel’s attack on Iran were
+      “firm and positive.” He emphasized that Iran has never started a war, considering
+      diplomacy the priority path, but in response to aggression delivered a “harsh
+      and crushing blow” to the USA and Israel. Russian Energy Minister Tsivilyov expressed
+      condolences over the deaths of Iranian commanders and scientists, supported the
+      idea of deepening joint commissions, and called to elevate Moscow and Tehran’s
+      economic and defense cooperation to the highest level. If there are new attacks
+      on Iran, Moscow is likely to actively assist Iran in defending itself. Meanwhile,
+      the Trump administration is working overtime to sabotage any initiatives by the
+      IAEA to reduce the possibility of attacks on nuclear facilities. The IAEA member
+      states will vote on Thursday on a ban against attacking or threatening to attack
+      any nuclear facilities under the agency’s safeguards . The draft resolution strongly
+      condemned the deliberate and unlawful attacks on nuclear facilities under IAEA
+      safeguards in the Islamic Republic of Iran, stating that these attacks constitute
+      a clear violation of international law, including the UN Charter and the IAEA’s
+      own statute. It reiterated that all nations must refrain from attacking or threatening
+      to attack the peaceful nuclear facilities of other countries. It also reaffirmed
+      the necessity of the full and effective realization of the inalienable right of
+      all Member States for the development of research, production, and use of nuclear
+      energy for peaceful purposes, without discrimination, and further affirmed that
+      any legitimate matters arising in this context shall be settled exclusively through
+      peaceful means, through dialogue and diplomacy, being the only viable course of
+      action, in addition to the decision to consider taking further action, as and
+      when deemed necessary. The draft resolution will be submitted by Iran along with
+      China, Russia, Belarus, Nicaragua, and Venezuela at the 69th IAEA General Conference
+      in Vienna, Austria. Washington reportedly has warned the majority of member states
+      not to vote in favor of a resolution banning strikes on nuclear facilities. I
+      interpret this as the US wanting to maintain the option to bomb Iranian facilities
+      again. Here are three more podcasts from the last two days — Glenn Diesen, Jyotishman
+      Mudiar and Garland Nixon: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The Cairo Agreement, signed by IAEA's Grossi and Iran's Foreign
+      Minister, allows for renewed inspections of Iranian nuclear facilities and establishes
+      measures for transparency and trust-building between Iran and the IAEA.
+    paragraph_summary: The Cairo Agreement, signed on September 9, 2025, between Iran
+      and the International Atomic Energy Agency (IAEA), facilitates inspections of
+      Iranian nuclear facilities and marks a significant step towards rebuilding trust
+      and resuming broader nuclear negotiations. Brokered by Egypt, the agreement includes
+      provisions for Iran to cooperate with the IAEA, provide detailed reports on nuclear
+      materials, and enhance transparency measures. While some view Iran's participation
+      as a strategic move to avoid snapback sanctions under the Joint Comprehensive
+      Plan of Action (JCPOA), skepticism remains about the West's intentions towards
+      Iran, with concerns that the IAEA's past actions may have compromised Iranian
+      security.
+    published: '2025-09-19T01:42:03+00:00'
+  - title: Dead Bodies Don’t Lie — The Truth About Ukraine’s Military Casualties
+    url: https://sonar21.com/dead-bodies-dont-lie-the-truth-about-ukraines-military-casualties/
+    text: 'Donald Trump is being deliberately misled about the state of the war between
+      Russia and China. We know this based on recent comments by retired General Keith
+      Kellogg. On Sunday of this week , Keith Kellogg stated during the Yalta European
+      Strategy conference in Kyiv that “Russia is, in fact, losing this war.” He specified
+      “If Putin was winning, he’d be in Odessa. If he was winning, he’d be west of the
+      Dnipro River. If he was winning, he would have changed the government. Russia
+      is in fact losing this war.” Kellogg dismissed Russian advances in the Donbas
+      as insignificant, saying, “If you consider advancing moving by meters, not miles,
+      then okay, that’s successful. But at the cost they’re having, it’s enormous.”
+      He also recounted a conversation with President Trump where he urged the president
+      to confirm with General Dan Kaine, Chairman of the Joint Chiefs, who agreed: “They’re
+      not winning.” Kellogg praised Ukraine’s military, calling it the global leader
+      in drone warfare and asserted, “Don’t take Russia’s statements at face value.
+      They’re not as good as Putin says they are. And I give great credit to the Ukrainian
+      military because they’ve taken them down a couple notches.” Kellogg emphasized
+      the immense Russian casualties, noting that Russia has suffered “over a million
+      dead and wounded,” and he argued that Russia’s costly gains in eastern Ukraine
+      do not signify victory. But now let’s consider the facts. Russia and Ukraine have
+      conducted multiple exchanges of deceased soldiers’ remains since January 2025,
+      primarily facilitated by agreements from peace talks in Istanbul (May-June 2025)
+      and ongoing humanitarian efforts. These exchanges are dramatically asymmetric,
+      with Russia repatriating far more Ukrainian bodies than vice versa. Some Western
+      analysts account for this discrepancy by saying that Russia controls more battlefields
+      because of rapid territorial advances, which prevents the Ukrainians from recovering
+      remains. Hmmm… that calls into question Kellogg’s imbecilic claim that Russia
+      is barely advancing and is suffering enormous casualties in the process. Since
+      January 1, 2025, Ukraine has received the bodies of 9,365 Ukrainian soldiers while
+      Russia has received an estimated deceased soldiers. In other words, for every
+      dead Russian serviceman there are 39 dead Ukrainian soldiers. This represents
+      nine months of data, so we are not dealing with a one-time aberration. I am posting
+      three videos. The first is with Danny Davis, where we discuss the latest on the
+      Charlie Kirk assassination and the recent ranting of Keith Kellogg. I also am
+      posting my chat on Tuesday with Marcello. And last, I was interviewed on Tuesday
+      by Andy Millette, who normally focuses on financial issues: I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: Retired General Keith Kellogg stated at a conference in Kyiv
+      that Russia is losing the war against Ukraine, contradicting claims made to Donald
+      Trump, and emphasized Ukraine's military prowess in drone warfare.
+    paragraph_summary: Retired General Keith Kellogg recently asserted that Russia is
+      losing the war against Ukraine, stating that significant territorial gains would
+      have been made by now if that were not the case. During a conference in Kyiv,
+      he emphasized that Russian advances in the Donbas region are minimal and costly,
+      with high casualties reported. Kellogg urged former President Trump to verify
+      this assessment with military leaders, highlighting Ukraine's strengths in drone
+      warfare and the importance of not taking Russian claims at face value. He noted
+      that Russia has suffered over a million casualties, suggesting that their limited
+      successes do not equate to victory. However, the article also mentions ongoing
+      asymmetrical exchanges of deceased soldiers' remains between Russia and Ukraine,
+      raising questions about the narrative of battlefield control and the implications
+      of Kellogg's statements.
+    published: '2025-09-18T04:04:43+00:00'
+  - title: Dead Bodies Don’t Lie — The Truth About Ukraine’s Military Casualties
+    url: https://sonar21.com/dead-bodies-dont-lie-the-truth-about-ukraines-military-casualties/
+    text: 'Donald Trump is being deliberately misled about the state of the war between
+      Russia and China. We know this based on recent comments by retired General Keith
+      Kellogg. On Sunday of this week , Keith Kellogg stated during the Yalta European
+      Strategy conference in Kyiv that “Russia is, in fact, losing this war.” He specified
+      “If Putin was winning, he’d be in Odessa. If he was winning, he’d be west of the
+      Dnipro River. If he was winning, he would have changed the government. Russia
+      is in fact losing this war.” Kellogg dismissed Russian advances in the Donbas
+      as insignificant, saying, “If you consider advancing moving by meters, not miles,
+      then okay, that’s successful. But at the cost they’re having, it’s enormous.”
+      He also recounted a conversation with President Trump where he urged the president
+      to confirm with General Dan Kaine, Chairman of the Joint Chiefs, who agreed: “They’re
+      not winning.” Kellogg praised Ukraine’s military, calling it the global leader
+      in drone warfare and asserted, “Don’t take Russia’s statements at face value.
+      They’re not as good as Putin says they are. And I give great credit to the Ukrainian
+      military because they’ve taken them down a couple notches.” Kellogg emphasized
+      the immense Russian casualties, noting that Russia has suffered “over a million
+      dead and wounded,” and he argued that Russia’s costly gains in eastern Ukraine
+      do not signify victory. But now let’s consider the facts. Russia and Ukraine have
+      conducted multiple exchanges of deceased soldiers’ remains since January 2025,
+      primarily facilitated by agreements from peace talks in Istanbul (May-June 2025)
+      and ongoing humanitarian efforts. These exchanges are dramatically asymmetric,
+      with Russia repatriating far more Ukrainian bodies than vice versa. Some Western
+      analysts account for this discrepancy by saying that Russia controls more battlefields
+      because of rapid territorial advances, which prevents the Ukrainians from recovering
+      remains. Hmmm… that calls into question Kellogg’s imbecilic claim that Russia
+      is barely advancing and is suffering enormous casualties in the process. Since
+      January 1, 2025, Ukraine has received the bodies of 9,365 Ukrainian soldiers while
+      Russia has received an estimated deceased soldiers. In other words, for every
+      dead Russian serviceman there are 39 dead Ukrainian soldiers. This represents
+      nine months of data, so we are not dealing with a one-time aberration. I am posting
+      three videos. The first is with Danny Davis, where we discuss the latest on the
+      Charlie Kirk assassination and the recent ranting of Keith Kellogg. I also am
+      posting my chat on Tuesday with Marcello. And last, I was interviewed on Tuesday
+      by Andy Millette, who normally focuses on financial issues: I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: Retired General Keith Kellogg stated at a conference in Kyiv
+      that Russia is losing the war against Ukraine, contradicting claims made to Donald
+      Trump, and emphasized Ukraine's military prowess in drone warfare.
+    paragraph_summary: Retired General Keith Kellogg recently asserted that Russia is
+      losing the war against Ukraine, stating that significant territorial gains would
+      have been made by now if that were not the case. During a conference in Kyiv,
+      he emphasized that Russian advances in the Donbas region are minimal and costly,
+      with high casualties reported. Kellogg urged former President Trump to verify
+      this assessment with military leaders, highlighting Ukraine's strengths in drone
+      warfare and the importance of not taking Russian claims at face value. He noted
+      that Russia has suffered over a million casualties, suggesting that their limited
+      successes do not equate to victory. However, the article also mentions ongoing
+      asymmetrical exchanges of deceased soldiers' remains between Russia and Ukraine,
+      raising questions about the narrative of battlefield control and the implications
+      of Kellogg's statements.
+    published: '2025-09-18T04:04:43+00:00'
   - title: Debunking A False Claim About the Shot that Killed Charlie Kirk
     url: https://sonar21.com/debunking-a-false-claim-about-the-shot-that-killed-charlie-kirk/
     text: 'I was hesitant to write this because I do not want to feed the prurient interest

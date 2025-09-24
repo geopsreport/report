@@ -7,14 +7,604 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  Tensions around Israel’s actions in Gaza and their global repercussions continue to dominate the geopolitical landscape. The latest independent UN probe has found that Israeli authorities and security forces have committed four out of five acts defined as genocide under the 1948 Genocide Convention. This marks a significant escalation in international scrutiny and could have far-reaching legal and diplomatic consequences. As **Ray McGovern** notes, “the weight of evidence and the language of the report leave little doubt about the severity of the allegations.”
+  As world leaders gather for the 80th United Nations General Assembly, the international landscape is marked by escalating crises and mounting criticism of Western policies. The ongoing war in Gaza and the U.S.'s expanding military footprint in the Caribbean and Latin America are dominating discussions, while questions of historical memory and moral reasoning continue to shape debate.
   
-  Meanwhile, internal divisions within the U.S. right-wing movement have come under the spotlight following the assassination of Charlie Kirk. **Max Blumenthal** highlights how Kirk’s shifting position on Israel, coupled with infighting within the Trump administration before his death, has intensified political polarization. The fallout is expected to further fragment the conservative base and complicate U.S. policy on Israel.
+  The most recent development centers on the U.K.'s approach to terrorism designations. **Craig Murray** highlights what he calls "rank hypocrisy" by the British government, which is simultaneously providing support to a group labeled as terrorist while arresting its own citizens for backing an anti-genocide organization that is also proscribed. This double standard, Murray argues, undermines the credibility of the U.K.'s counterterrorism policy and raises questions about the selective application of legal and moral standards.
   
-  In Europe, Germany’s crackdown on pro-Palestinian speech has drawn criticism for its unintended consequences. **Antony Lowenstein** argues that such repression not only stifles legitimate debate but also emboldens far-right groups, undermining democratic norms. This trend is likely to fuel further social tensions within Germany and across the EU.
+  Meanwhile, the U.N. General Assembly has become a focal point for diplomatic efforts to address the Gaza conflict. As reported by **Ray McGovern**, Donald Trump’s participation in the debate comes amid heightened violence in Gaza, with the recognition of Palestinian statehood and the humanitarian crisis taking center stage. The session, chaired by France and Saudi Arabia, has seen renewed calls for a ceasefire and international intervention, though consensus remains elusive.
   
-  Looking ahead, the convergence of these developments points to a period of heightened instability. There is a high chance that international legal pressure on Israel will increase, while domestic polarization in the U.S. and Europe will deepen. I guarantee that unless there is a significant policy shift, these trends will most definitely continue to shape the geopolitical environment in the coming months.
+  On the historical front, **Uroš Lipušcek** draws attention to the diminishing awareness of Asia’s role in World War II, arguing that a Eurocentric narrative continues to overshadow the sacrifices and contributions of China and other Asian nations. This fading historical memory, Lipušcek warns, risks distorting contemporary geopolitical understanding and policy-making.
+  
+  Looking ahead, the prevailing trend is one of increasing polarization and erosion of trust in Western leadership. The U.K.'s contradictory stance on terrorism is likely to fuel further domestic and international criticism. The U.N. debate on Gaza is expected to intensify, but, given entrenched positions, there is only a medium confidence that substantive progress will be achieved in the immediate term. The marginalization of non-Western historical perspectives, as noted by Lipušcek, is quite likely to persist, shaping future debates on global order and justice.
+  
+  In summary, the geopolitical environment remains volatile, with Western policies facing scrutiny on multiple fronts. I guarantee that unless there is a significant shift in approach, these patterns of criticism and division will most definitely continue to define international relations in the coming weeks.
 articles:
+  - title: 'Craig Murray: UK’s Rank Hypocrisy on Terrorism'
+    url: https://consortiumnews.com/2025/09/23/craig-murray-uks-rank-hypocrisy-on-terrorism/
+    text: The admission that the U.K. government has provided aid to a proscribed terrorist
+      group, while arresting citizens for the support of an anti-genocide group similarly
+      proscribed is the height of hypocrisy. By Craig Murray CraigMurray.org.uk The
+      outgoing Head of MI6 Richard… Read more →
+    one_sentence_summary: The article criticizes the U.K. government for hypocrisy in
+      providing aid to a designated terrorist group while simultaneously arresting citizens
+      for supporting an anti-genocide group that is also proscribed.
+    paragraph_summary: The article by Craig Murray criticizes the U.K. government's
+      hypocrisy in providing aid to a proscribed terrorist group while simultaneously
+      arresting citizens for supporting an anti-genocide group that is also on the proscribed
+      list. This contradiction highlights a troubling inconsistency in the government's
+      approach to terrorism and support for human rights, raising questions about the
+      motivations behind such policies.
+    published: '2025-09-23T18:00:51+00:00'
+  - title: 'Craig Murray: UK’s Rank Hypocrisy on Terrorism'
+    url: https://consortiumnews.com/2025/09/23/craig-murray-uks-rank-hypocrisy-on-terrorism/
+    text: The admission that the U.K. government has provided aid to a proscribed terrorist
+      group, while arresting citizens for the support of an anti-genocide group similarly
+      proscribed is the height of hypocrisy. By Craig Murray CraigMurray.org.uk The
+      outgoing Head of MI6 Richard… Read more →
+    one_sentence_summary: The article criticizes the U.K. government for hypocrisy in
+      providing aid to a designated terrorist group while simultaneously arresting citizens
+      for supporting an anti-genocide group that is also proscribed.
+    paragraph_summary: The article by Craig Murray criticizes the U.K. government's
+      hypocrisy in providing aid to a proscribed terrorist group while simultaneously
+      arresting citizens for supporting an anti-genocide group that is also on the proscribed
+      list. This contradiction highlights a troubling inconsistency in the government's
+      approach to terrorism and support for human rights, raising questions about the
+      motivations behind such policies.
+    published: '2025-09-23T18:00:51+00:00'
+  - title: 'WATCH LIVE: The 80th UN General Debate'
+    url: https://consortiumnews.com/2025/09/23/watch-live-the-80th-un-general-debate/
+    text: Donald Trump is among heads of government and state addressing the 80th general
+      debate of the United Nations General Assembly as Gaza burns. ???? Plenary Meetings
+      for the General Debate of the Eightieth Session – Tuesday, 23 September to Saturday,…
+      Read more →
+    one_sentence_summary: Donald Trump is participating in the 80th United Nations General
+      Assembly's general debate while the situation in Gaza escalates.
+    paragraph_summary: Donald Trump is participating in the 80th United Nations General
+      Assembly, where leaders from around the world are addressing pressing global issues,
+      including the ongoing conflict in Gaza. The assembly's plenary meetings are scheduled
+      from September 23 to September 30, providing a platform for heads of state to
+      discuss various international challenges amidst the backdrop of escalating tensions
+      in the region.
+    published: '2025-09-23T13:23:58+00:00'
+  - title: 'WATCH LIVE: The 80th UN General Debate'
+    url: https://consortiumnews.com/2025/09/23/watch-live-the-80th-un-general-debate/
+    text: Donald Trump is among heads of government and state addressing the 80th general
+      debate of the United Nations General Assembly as Gaza burns. ???? Plenary Meetings
+      for the General Debate of the Eightieth Session – Tuesday, 23 September to Saturday,…
+      Read more →
+    one_sentence_summary: Donald Trump is participating in the 80th United Nations General
+      Assembly's general debate while the situation in Gaza escalates.
+    paragraph_summary: Donald Trump is participating in the 80th United Nations General
+      Assembly, where leaders from around the world are addressing pressing global issues,
+      including the ongoing conflict in Gaza. The assembly's plenary meetings are scheduled
+      from September 23 to September 30, providing a platform for heads of state to
+      discuss various international challenges amidst the backdrop of escalating tensions
+      in the region.
+    published: '2025-09-23T13:23:58+00:00'
+  - title: China’s Ignored Role in Winning World War II
+    url: https://consortiumnews.com/2025/09/23/chinas-ignored-role-in-winning-world-war-ii/
+    text: A Eurocentric perspective on the war dominates, while the conflict in Asia
+      is little known in the West. Historical memory of WW II fades as generations of
+      participants and witnesses pass away, says Uroš Lipušcek. This year marks the
+      80th… Read more →
+    one_sentence_summary: Uroš Lipušcek highlights that a Eurocentric view overshadows
+      the lesser-known Asian conflicts of World War II, as historical memory diminishes
+      with the passing of those who experienced it.
+    paragraph_summary: The article by Uroš Lipušcek highlights the predominance of a
+      Eurocentric viewpoint regarding World War II, which overshadows the lesser-known
+      conflicts in Asia. As the historical memory of the war diminishes with the passing
+      of those who experienced it, the article emphasizes the need to acknowledge and
+      remember the broader scope of the war, particularly the Asian front, which remains
+      largely overlooked in Western narratives. This year marks the 80th anniversary
+      of significant events from that period, underscoring the urgency of preserving
+      and understanding this history.
+    published: '2025-09-23T13:15:03+00:00'
+  - title: China’s Ignored Role in Winning World War II
+    url: https://consortiumnews.com/2025/09/23/chinas-ignored-role-in-winning-world-war-ii/
+    text: A Eurocentric perspective on the war dominates, while the conflict in Asia
+      is little known in the West. Historical memory of WW II fades as generations of
+      participants and witnesses pass away, says Uroš Lipušcek. This year marks the
+      80th… Read more →
+    one_sentence_summary: Uroš Lipušcek highlights that a Eurocentric view overshadows
+      the lesser-known Asian conflicts of World War II, as historical memory diminishes
+      with the passing of those who experienced it.
+    paragraph_summary: The article by Uroš Lipušcek highlights the predominance of a
+      Eurocentric viewpoint regarding World War II, which overshadows the lesser-known
+      conflicts in Asia. As the historical memory of the war diminishes with the passing
+      of those who experienced it, the article emphasizes the need to acknowledge and
+      remember the broader scope of the war, particularly the Asian front, which remains
+      largely overlooked in Western narratives. This year marks the 80th anniversary
+      of significant events from that period, underscoring the urgency of preserving
+      and understanding this history.
+    published: '2025-09-23T13:15:03+00:00'
+  - title: 'WATCH LIVE: UN General Assembly on Palestinian State'
+    url: https://consortiumnews.com/2025/09/22/watch-live-un-general-assembly-on-palestinian-state/
+    text: Heads of state and government are speaking at the U.N. assembly on the recognition
+      of the state of Palestine and the Gaza war in a meeting chaired by France and
+      Saudi Arabia. ?? High-Level International Conference for Peaceful Settlement of…
+      Read more →
+    one_sentence_summary: Heads of state and government are addressing the U.N. assembly
+      regarding the recognition of Palestine and the Gaza war, in a meeting chaired
+      by France and Saudi Arabia.
+    paragraph_summary: At a U.N. assembly meeting chaired by France and Saudi Arabia,
+      heads of state and government are addressing the recognition of the state of Palestine
+      and the ongoing Gaza war. The conference aims to facilitate a peaceful settlement
+      of the conflict, highlighting the international community's concerns and efforts
+      to address the situation in the region.
+    published: '2025-09-22T20:19:30+00:00'
+  - title: 'WATCH LIVE: UN General Assembly on Palestinian State'
+    url: https://consortiumnews.com/2025/09/22/watch-live-un-general-assembly-on-palestinian-state/
+    text: Heads of state and government are speaking at the U.N. assembly on the recognition
+      of the state of Palestine and the Gaza war in a meeting chaired by France and
+      Saudi Arabia. ?? High-Level International Conference for Peaceful Settlement of…
+      Read more →
+    one_sentence_summary: Heads of state and government are addressing the U.N. assembly
+      regarding the recognition of Palestine and the Gaza war, in a meeting chaired
+      by France and Saudi Arabia.
+    paragraph_summary: At a U.N. assembly meeting chaired by France and Saudi Arabia,
+      heads of state and government are addressing the recognition of the state of Palestine
+      and the ongoing Gaza war. The conference aims to facilitate a peaceful settlement
+      of the conflict, highlighting the international community's concerns and efforts
+      to address the situation in the region.
+    published: '2025-09-22T20:19:30+00:00'
+  - title: 'PATRICK LAWRENCE: Our Age of Unreason'
+    url: https://consortiumnews.com/2025/09/22/patrick-lawrence-our-age-of-unreason/
+    text: We have lost that connection between reason and morality …. We have decisively
+      lost our idea of the commonweal as the anchor from which reason will make its
+      case. By Patrick Lawrence Special to Consortium News Remarks delivered in late
+      August at… Read more →
+    one_sentence_summary: Patrick Lawrence argues that society has severed the link
+      between reason and morality, leading to a disconnection from the concept of the
+      common good that should guide rational discourse.
+    paragraph_summary: In his remarks delivered in late August, Patrick Lawrence argues
+      that society has severed the vital link between reason and morality, leading to
+      a diminished understanding of the common good, or commonweal, which should serve
+      as a foundational principle for rational discourse. He emphasizes that this disconnect
+      undermines the ability to engage in meaningful discussions about ethics and societal
+      values, ultimately affecting the collective decision-making process. Lawrence
+      calls for a reevaluation of how we approach morality and reason in order to restore
+      a sense of shared purpose and ethical responsibility within society.
+    published: '2025-09-22T18:00:26+00:00'
+  - title: 'PATRICK LAWRENCE: Our Age of Unreason'
+    url: https://consortiumnews.com/2025/09/22/patrick-lawrence-our-age-of-unreason/
+    text: We have lost that connection between reason and morality …. We have decisively
+      lost our idea of the commonweal as the anchor from which reason will make its
+      case. By Patrick Lawrence Special to Consortium News Remarks delivered in late
+      August at… Read more →
+    one_sentence_summary: Patrick Lawrence argues that society has severed the link
+      between reason and morality, leading to a disconnection from the concept of the
+      common good that should guide rational discourse.
+    paragraph_summary: In his remarks delivered in late August, Patrick Lawrence argues
+      that society has severed the vital link between reason and morality, leading to
+      a diminished understanding of the common good, or commonweal, which should serve
+      as a foundational principle for rational discourse. He emphasizes that this disconnect
+      undermines the ability to engage in meaningful discussions about ethics and societal
+      values, ultimately affecting the collective decision-making process. Lawrence
+      calls for a reevaluation of how we approach morality and reason in order to restore
+      a sense of shared purpose and ethical responsibility within society.
+    published: '2025-09-22T18:00:26+00:00'
+  - title: U.S. Senators Try to Stop Trump’s Attacks in the Caribbean
+    url: https://consortiumnews.com/2025/09/22/u-s-senators-try-to-stop-trumps-attacks-in-the-caribbean/
+    text: “President Trump has no legal authority to launch strikes or use military
+      force in the Caribbean or elsewhere in the Western Hemisphere,” said Sen. Tim
+      Kaine of Virginia. By Julia Conley Common Dreams With 14 people killed in the
+      Caribbean in… Read more →
+    one_sentence_summary: Senator Tim Kaine stated that President Trump lacks the legal
+      authority to initiate military strikes in the Caribbean or the broader Western
+      Hemisphere, following the deaths of 14 individuals in the region.
+    paragraph_summary: Senator Tim Kaine of Virginia asserted that President Trump lacks
+      the legal authority to initiate military strikes in the Caribbean or any part
+      of the Western Hemisphere, following reports of 14 fatalities in the region. The
+      statement highlights concerns over presidential military powers and the need for
+      congressional approval in such matters.
+    published: '2025-09-22T16:00:16+00:00'
+  - title: U.S. Senators Try to Stop Trump’s Attacks in the Caribbean
+    url: https://consortiumnews.com/2025/09/22/u-s-senators-try-to-stop-trumps-attacks-in-the-caribbean/
+    text: “President Trump has no legal authority to launch strikes or use military
+      force in the Caribbean or elsewhere in the Western Hemisphere,” said Sen. Tim
+      Kaine of Virginia. By Julia Conley Common Dreams With 14 people killed in the
+      Caribbean in… Read more →
+    one_sentence_summary: Senator Tim Kaine stated that President Trump lacks the legal
+      authority to initiate military strikes in the Caribbean or the broader Western
+      Hemisphere, following the deaths of 14 individuals in the region.
+    paragraph_summary: Senator Tim Kaine of Virginia asserted that President Trump lacks
+      the legal authority to initiate military strikes in the Caribbean or any part
+      of the Western Hemisphere, following reports of 14 fatalities in the region. The
+      statement highlights concerns over presidential military powers and the need for
+      congressional approval in such matters.
+    published: '2025-09-22T16:00:16+00:00'
+  - title: Targeting India & Iran
+    url: https://consortiumnews.com/2025/09/22/targeting-india-iran/
+    text: With the Trump 2.0 sanctions, the U.S. has left India facing the difficult
+      task of protecting its financial stake while managing relationships with Washington,
+      Tehran, and other regional partners. By M.K. Bhadrakumar Indian Punchline God
+      giveth and God taketh away, the… Read more →
+    one_sentence_summary: The Trump 2.0 sanctions have put India in a challenging position
+      of balancing its financial interests while navigating complex relationships with
+      the U.S., Iran, and other regional partners.
+    paragraph_summary: The article discusses the challenges India faces in navigating
+      its financial interests amid the reimposition of Trump-era sanctions by the U.S.
+      These sanctions complicate India's relationships with Washington, Tehran, and
+      other regional partners, forcing India to balance its economic stakes while maintaining
+      diplomatic ties. The author, M.K. Bhadrakumar, highlights the precarious position
+      India finds itself in as it seeks to protect its investments and strategic alliances
+      in a shifting geopolitical landscape.
+    published: '2025-09-22T13:18:41+00:00'
+  - title: Targeting India & Iran
+    url: https://consortiumnews.com/2025/09/22/targeting-india-iran/
+    text: With the Trump 2.0 sanctions, the U.S. has left India facing the difficult
+      task of protecting its financial stake while managing relationships with Washington,
+      Tehran, and other regional partners. By M.K. Bhadrakumar Indian Punchline God
+      giveth and God taketh away, the… Read more →
+    one_sentence_summary: The Trump 2.0 sanctions have put India in a challenging position
+      of balancing its financial interests while navigating complex relationships with
+      the U.S., Iran, and other regional partners.
+    paragraph_summary: The article discusses the challenges India faces in navigating
+      its financial interests amid the reimposition of Trump-era sanctions by the U.S.
+      These sanctions complicate India's relationships with Washington, Tehran, and
+      other regional partners, forcing India to balance its economic stakes while maintaining
+      diplomatic ties. The author, M.K. Bhadrakumar, highlights the precarious position
+      India finds itself in as it seeks to protect its investments and strategic alliances
+      in a shifting geopolitical landscape.
+    published: '2025-09-22T13:18:41+00:00'
+  - title: Targeting Venezuela
+    url: https://consortiumnews.com/2025/09/20/targeting-venezuela/
+    text: Alan Macleod assesses Trump’s claims regarding Venezuelan drug trafficking
+      and assesses the history of U.S. efforts to overthrow the Venezuelan government.
+      By Alan MacLeod MintPress News The United States is building up its military assets,
+      sparking fears of another regime change… Read more →
+    one_sentence_summary: Alan Macleod analyzes Trump's assertions about Venezuelan
+      drug trafficking and examines the U.S.'s historical attempts to destabilize the
+      Venezuelan government amid growing military presence, raising concerns about potential
+      regime change.
+    paragraph_summary: Alan Macleod analyzes former President Trump's assertions about
+      Venezuelan drug trafficking and examines the historical context of U.S. attempts
+      to destabilize the Venezuelan government. The article highlights the increasing
+      military presence of the United States in the region, raising concerns about the
+      possibility of another regime change operation. Macleod's assessment underscores
+      the complexities of U.S.-Venezuela relations and the implications of military
+      escalation.
+    published: '2025-09-20T13:36:27+00:00'
+  - title: Targeting Venezuela
+    url: https://consortiumnews.com/2025/09/20/targeting-venezuela/
+    text: Alan Macleod assesses Trump’s claims regarding Venezuelan drug trafficking
+      and assesses the history of U.S. efforts to overthrow the Venezuelan government.
+      By Alan MacLeod MintPress News The United States is building up its military assets,
+      sparking fears of another regime change… Read more →
+    one_sentence_summary: Alan Macleod analyzes Trump's assertions about Venezuelan
+      drug trafficking and examines the U.S.'s historical attempts to destabilize the
+      Venezuelan government amid growing military presence, raising concerns about potential
+      regime change.
+    paragraph_summary: Alan Macleod analyzes former President Trump's assertions about
+      Venezuelan drug trafficking and examines the historical context of U.S. attempts
+      to destabilize the Venezuelan government. The article highlights the increasing
+      military presence of the United States in the region, raising concerns about the
+      possibility of another regime change operation. Macleod's assessment underscores
+      the complexities of U.S.-Venezuela relations and the implications of military
+      escalation.
+    published: '2025-09-20T13:36:27+00:00'
+  - title: 'Patrick Lawrence: Who Benefits from Kirk Murder?'
+    url: https://consortiumnews.com/2025/09/19/patrick-lawrence-who-benefits-from-kirk-murder/
+    text: As of now, we have only our questions about the who and the why of the murder
+      of Charlie Kirk. But questions, the right ones, have a power all their own. By Patrick
+      Lawrence  ScheerPost So many questions arise since a… Read more →
+    one_sentence_summary: The article discusses the numerous unanswered questions surrounding
+      the murder of Charlie Kirk, emphasizing the significance of asking the right questions
+      to uncover the truth.
+    paragraph_summary: The article by Patrick Lawrence discusses the unresolved murder
+      of Charlie Kirk, emphasizing the importance of questioning the circumstances surrounding
+      his death. It highlights the need for critical inquiry into the identities and
+      motives of those involved, suggesting that asking the right questions can be a
+      powerful tool in seeking truth and understanding in the face of tragedy.
+    published: '2025-09-19T18:15:23+00:00'
+  - title: 'Patrick Lawrence: Who Benefits from Kirk Murder?'
+    url: https://consortiumnews.com/2025/09/19/patrick-lawrence-who-benefits-from-kirk-murder/
+    text: As of now, we have only our questions about the who and the why of the murder
+      of Charlie Kirk. But questions, the right ones, have a power all their own. By Patrick
+      Lawrence  ScheerPost So many questions arise since a… Read more →
+    one_sentence_summary: The article discusses the numerous unanswered questions surrounding
+      the murder of Charlie Kirk, emphasizing the significance of asking the right questions
+      to uncover the truth.
+    paragraph_summary: The article by Patrick Lawrence discusses the unresolved murder
+      of Charlie Kirk, emphasizing the importance of questioning the circumstances surrounding
+      his death. It highlights the need for critical inquiry into the identities and
+      motives of those involved, suggesting that asking the right questions can be a
+      powerful tool in seeking truth and understanding in the face of tragedy.
+    published: '2025-09-19T18:15:23+00:00'
+  - title: Trump Threatens CODEPINK with RICO Charges after Public Confrontation
+    url: https://consortiumnews.com/2025/09/19/trump-threatens-codepink-with-rico-charges-after-public-confrontation/
+    text: Trump wants RICO charges against CODEPINK looked into after D.C. restaurant
+      protest, escalating crackdown on dissent and free speech, writes Natalia Marques.
+      By Natalia Marques Peoples Dispatch Activists from the anti-war group CODEPINK
+      confronted U.S. President Donald Trump and his cabinet… Read more →
+    one_sentence_summary: Trump is calling for RICO charges against the anti-war group
+      CODEPINK following their protest at a D.C. restaurant, highlighting a growing
+      crackdown on dissent and free speech.
+    paragraph_summary: In an article by Natalia Marques for Peoples Dispatch, it is
+      reported that former President Donald Trump is calling for RICO charges to be
+      investigated against the anti-war group CODEPINK following a protest at a Washington
+      D.C. restaurant where activists confronted him and his cabinet. This demand reflects
+      a broader trend of escalating measures against dissent and free speech, raising
+      concerns about the implications for activism and political expression in the current
+      climate.
+    published: '2025-09-19T16:00:44+00:00'
+  - title: Trump Threatens CODEPINK with RICO Charges after Public Confrontation
+    url: https://consortiumnews.com/2025/09/19/trump-threatens-codepink-with-rico-charges-after-public-confrontation/
+    text: Trump wants RICO charges against CODEPINK looked into after D.C. restaurant
+      protest, escalating crackdown on dissent and free speech, writes Natalia Marques.
+      By Natalia Marques Peoples Dispatch Activists from the anti-war group CODEPINK
+      confronted U.S. President Donald Trump and his cabinet… Read more →
+    one_sentence_summary: Trump is calling for RICO charges against the anti-war group
+      CODEPINK following their protest at a D.C. restaurant, highlighting a growing
+      crackdown on dissent and free speech.
+    paragraph_summary: In an article by Natalia Marques for Peoples Dispatch, it is
+      reported that former President Donald Trump is calling for RICO charges to be
+      investigated against the anti-war group CODEPINK following a protest at a Washington
+      D.C. restaurant where activists confronted him and his cabinet. This demand reflects
+      a broader trend of escalating measures against dissent and free speech, raising
+      concerns about the implications for activism and political expression in the current
+      climate.
+    published: '2025-09-19T16:00:44+00:00'
+  - title: The Return of the War Department
+    url: https://consortiumnews.com/2025/09/19/the-return-of-the-war-department/
+    text: America’s rebranded Department of War promises a new era of endless death
+      and violence, says William Astore.  By William Astore TomDispatch A rebranded
+      Department of War, President Donald Trump recently suggested, simply sounds tougher
+      (and more Trumpian) than “defense.” As is… Read more →
+    one_sentence_summary: William Astore critiques the rebranding of the Department
+      of Defense to the Department of War under President Trump, arguing that it symbolizes
+      a troubling commitment to perpetual violence and militarism.
+    paragraph_summary: In a critical analysis, William Astore discusses President Donald
+      Trump's proposal to rebrand the Department of Defense as the Department of War,
+      arguing that this change signifies a troubling shift towards a more aggressive
+      and militaristic approach to international relations. Astore contends that the
+      new nomenclature reflects a mindset that embraces endless conflict and violence,
+      moving away from the notion of defense and suggesting a readiness for perpetual
+      warfare. He warns that this rebranding could have significant implications for
+      U.S. foreign policy and military engagement, potentially leading to an era characterized
+      by increased militarization and a lack of accountability.
+    published: '2025-09-19T07:47:04+00:00'
+  - title: The Return of the War Department
+    url: https://consortiumnews.com/2025/09/19/the-return-of-the-war-department/
+    text: America’s rebranded Department of War promises a new era of endless death
+      and violence, says William Astore.  By William Astore TomDispatch A rebranded
+      Department of War, President Donald Trump recently suggested, simply sounds tougher
+      (and more Trumpian) than “defense.” As is… Read more →
+    one_sentence_summary: William Astore critiques the rebranding of the Department
+      of Defense to the Department of War under President Trump, arguing that it symbolizes
+      a troubling commitment to perpetual violence and militarism.
+    paragraph_summary: In a critical analysis, William Astore discusses President Donald
+      Trump's proposal to rebrand the Department of Defense as the Department of War,
+      arguing that this change signifies a troubling shift towards a more aggressive
+      and militaristic approach to international relations. Astore contends that the
+      new nomenclature reflects a mindset that embraces endless conflict and violence,
+      moving away from the notion of defense and suggesting a readiness for perpetual
+      warfare. He warns that this rebranding could have significant implications for
+      U.S. foreign policy and military engagement, potentially leading to an era characterized
+      by increased militarization and a lack of accountability.
+    published: '2025-09-19T07:47:04+00:00'
+  - title: 'Caitlin Johnstone: A Charlie Kirk Ministry of Truth'
+    url: https://consortiumnews.com/2025/09/18/caitlin-johnstone-a-charlie-kirk-ministry-of-truth/
+    text: The proposed “Charlie Kirk Act” would give the U.S. government sweeping new
+      powers to decide what does and does not constitute propaganda and untruth and
+      administer penalties accordingly. By Caitlin Johnstone Caitlin’s Newsletter Listen
+      to Tim Foley reading this article… Read more →
+    one_sentence_summary: The "Charlie Kirk Act" aims to grant the U.S. government extensive
+      authority to define and regulate propaganda and misinformation, along with the
+      ability to impose penalties for violations.
+    paragraph_summary: The "Charlie Kirk Act" aims to grant the U.S. government extensive
+      authority to define and regulate propaganda and misinformation, along with the
+      ability to impose penalties for violations. The proposal raises concerns about
+      potential overreach and the implications for free speech, as it would empower
+      the government to determine what constitutes truth and falsehood in public discourse.
+    published: '2025-09-18T19:00:05+00:00'
+  - title: 'Caitlin Johnstone: A Charlie Kirk Ministry of Truth'
+    url: https://consortiumnews.com/2025/09/18/caitlin-johnstone-a-charlie-kirk-ministry-of-truth/
+    text: The proposed “Charlie Kirk Act” would give the U.S. government sweeping new
+      powers to decide what does and does not constitute propaganda and untruth and
+      administer penalties accordingly. By Caitlin Johnstone Caitlin’s Newsletter Listen
+      to Tim Foley reading this article… Read more →
+    one_sentence_summary: The "Charlie Kirk Act" aims to grant the U.S. government extensive
+      authority to define and regulate propaganda and misinformation, along with the
+      ability to impose penalties for violations.
+    paragraph_summary: The "Charlie Kirk Act" aims to grant the U.S. government extensive
+      authority to define and regulate propaganda and misinformation, along with the
+      ability to impose penalties for violations. The proposal raises concerns about
+      potential overreach and the implications for free speech, as it would empower
+      the government to determine what constitutes truth and falsehood in public discourse.
+    published: '2025-09-18T19:00:05+00:00'
+  - title: ‘Show Me Your Papers’ Ruling Defies 4th Amendment
+    url: https://consortiumnews.com/2025/09/18/show-me-your-papers/
+    text: The Supreme Court for the first time in the modern era lets police demand
+      to see your papers. To colleagues in media, law and academia who love liberty,
+      Judge Andrew Napolitano asks, “Where is your outrage?” By Andrew P. Napolitano
+      “The right… Read more →
+    one_sentence_summary: The Supreme Court has ruled that police can demand to see
+      identification, prompting Judge Andrew Napolitano to question the lack of outrage
+      from advocates of liberty in various fields.
+    paragraph_summary: In a significant ruling, the Supreme Court has allowed police
+      to request identification from individuals, marking a departure from previous
+      interpretations of civil liberties. Judge Andrew Napolitano expresses concern
+      over this decision, urging media, legal professionals, and academics who value
+      personal freedoms to voice their outrage. He emphasizes the implications of this
+      ruling on individual rights and the potential erosion of privacy protections in
+      the modern era.
+    published: '2025-09-18T18:00:26+00:00'
+  - title: ‘Show Me Your Papers’ Ruling Defies 4th Amendment
+    url: https://consortiumnews.com/2025/09/18/show-me-your-papers/
+    text: The Supreme Court for the first time in the modern era lets police demand
+      to see your papers. To colleagues in media, law and academia who love liberty,
+      Judge Andrew Napolitano asks, “Where is your outrage?” By Andrew P. Napolitano
+      “The right… Read more →
+    one_sentence_summary: The Supreme Court has ruled that police can demand to see
+      identification, prompting Judge Andrew Napolitano to question the lack of outrage
+      from advocates of liberty in various fields.
+    paragraph_summary: In a significant ruling, the Supreme Court has allowed police
+      to request identification from individuals, marking a departure from previous
+      interpretations of civil liberties. Judge Andrew Napolitano expresses concern
+      over this decision, urging media, legal professionals, and academics who value
+      personal freedoms to voice their outrage. He emphasizes the implications of this
+      ruling on individual rights and the potential erosion of privacy protections in
+      the modern era.
+    published: '2025-09-18T18:00:26+00:00'
+  - title: When Tony Blair Agreed to Back ‘Terrorists’
+    url: https://consortiumnews.com/2025/09/18/when-tony-blair-agreed-to-back-terrorists/
+    text: Blair’s government aided forces against Yugoslavia whose leaders are now on
+      trial for war crimes and crimes against humanity, writes Mark Curtis. By Mark
+      Curtis Declassified UK On 28 April 1999, prime minister Tony Blair’s adviser John
+      Sawers wrote a memo… Read more →
+    one_sentence_summary: Mark Curtis discusses how Tony Blair's government supported
+      military actions against Yugoslavia, leading to the prosecution of its leaders
+      for war crimes and crimes against humanity.
+    paragraph_summary: In an article by Mark Curtis for Declassified UK, it is highlighted
+      that during Tony Blair's government, the UK supported military actions against
+      Yugoslavia, whose leaders are currently facing trials for war crimes and crimes
+      against humanity. The piece references a memo from Blair's adviser, John Sawers,
+      dated April 28, 1999, which underscores the complexities and implications of the
+      UK's involvement in the conflict, raising questions about the moral and legal
+      ramifications of such support in light of ongoing war crime prosecutions.
+    published: '2025-09-18T16:00:33+00:00'
+  - title: When Tony Blair Agreed to Back ‘Terrorists’
+    url: https://consortiumnews.com/2025/09/18/when-tony-blair-agreed-to-back-terrorists/
+    text: Blair’s government aided forces against Yugoslavia whose leaders are now on
+      trial for war crimes and crimes against humanity, writes Mark Curtis. By Mark
+      Curtis Declassified UK On 28 April 1999, prime minister Tony Blair’s adviser John
+      Sawers wrote a memo… Read more →
+    one_sentence_summary: Mark Curtis discusses how Tony Blair's government supported
+      military actions against Yugoslavia, leading to the prosecution of its leaders
+      for war crimes and crimes against humanity.
+    paragraph_summary: In an article by Mark Curtis for Declassified UK, it is highlighted
+      that during Tony Blair's government, the UK supported military actions against
+      Yugoslavia, whose leaders are currently facing trials for war crimes and crimes
+      against humanity. The piece references a memo from Blair's adviser, John Sawers,
+      dated April 28, 1999, which underscores the complexities and implications of the
+      UK's involvement in the conflict, raising questions about the moral and legal
+      ramifications of such support in light of ongoing war crime prosecutions.
+    published: '2025-09-18T16:00:33+00:00'
+  - title: 'WATCH: US Again Vetoes Security Council on Gaza Ceasefire'
+    url: https://consortiumnews.com/2025/09/18/watch-live-un-security-council-on-gaza-ceasefire/
+    text: The Council will met on Thursday to vote on an immediate ceasefire resolution
+      in Gaza that the U.S. vetoed against the wishes of the other 14 Council members.
+      ?????? By Joe Lauria Special to Consortium News As it did five… Read more →
+    one_sentence_summary: The U.S. vetoed a ceasefire resolution in Gaza during a Council
+      meeting, despite the support of the other 14 members.
+    paragraph_summary: The Council is set to meet on Thursday to vote on a resolution
+      calling for an immediate ceasefire in Gaza, which the U.S. has vetoed despite
+      the support of the other 14 Council members. This decision reflects ongoing tensions
+      and differing perspectives on the conflict, as the U.S. continues to oppose measures
+      that it believes may undermine its strategic interests in the region.
+    published: '2025-09-18T10:06:39+00:00'
+  - title: 'WATCH: US Again Vetoes Security Council on Gaza Ceasefire'
+    url: https://consortiumnews.com/2025/09/18/watch-live-un-security-council-on-gaza-ceasefire/
+    text: The Council will met on Thursday to vote on an immediate ceasefire resolution
+      in Gaza that the U.S. vetoed against the wishes of the other 14 Council members.
+      ?????? By Joe Lauria Special to Consortium News As it did five… Read more →
+    one_sentence_summary: The U.S. vetoed a ceasefire resolution in Gaza during a Council
+      meeting, despite the support of the other 14 members.
+    paragraph_summary: The Council is set to meet on Thursday to vote on a resolution
+      calling for an immediate ceasefire in Gaza, which the U.S. has vetoed despite
+      the support of the other 14 Council members. This decision reflects ongoing tensions
+      and differing perspectives on the conflict, as the U.S. continues to oppose measures
+      that it believes may undermine its strategic interests in the region.
+    published: '2025-09-18T10:06:39+00:00'
+  - title: 'A Symbol of Global Resistance: Why Israel Fears Gaza Flotillas'
+    url: https://consortiumnews.com/2025/09/17/a-symbol-of-global-resistance-why-israel-fears-the-gaza-flotillas/
+    text: Israeli leaders’ threats to treat flotilla activists as “terrorists” is, paradoxically,
+      a powerful acknowledgment of the international solidarity movement’s growing influence,
+      writes Ramzy Baroud.  By Ramzy Baroud Z Network One needs only to examine the
+      actions and rhetoric of the Israeli… Read more →
+    one_sentence_summary: Israeli leaders' threats to label flotilla activists as "terrorists"
+      reflect the increasing impact of the international solidarity movement, according
+      to Ramzy Baroud.
+    paragraph_summary: In his article, Ramzy Baroud discusses how Israeli leaders' threats
+      to label flotilla activists as "terrorists" inadvertently highlight the increasing
+      impact of the international solidarity movement. This response from Israeli officials
+      reflects their recognition of the activists' influence and the broader implications
+      of their actions, suggesting that such movements are gaining traction and posing
+      a significant challenge to Israeli policies. Baroud argues that this acknowledgment
+      underscores the effectiveness of global solidarity efforts in advocating for Palestinian
+      rights and raising awareness about the situation in the region.
+    published: '2025-09-17T18:15:54+00:00'
+  - title: 'A Symbol of Global Resistance: Why Israel Fears Gaza Flotillas'
+    url: https://consortiumnews.com/2025/09/17/a-symbol-of-global-resistance-why-israel-fears-the-gaza-flotillas/
+    text: Israeli leaders’ threats to treat flotilla activists as “terrorists” is, paradoxically,
+      a powerful acknowledgment of the international solidarity movement’s growing influence,
+      writes Ramzy Baroud.  By Ramzy Baroud Z Network One needs only to examine the
+      actions and rhetoric of the Israeli… Read more →
+    one_sentence_summary: Israeli leaders' threats to label flotilla activists as "terrorists"
+      reflect the increasing impact of the international solidarity movement, according
+      to Ramzy Baroud.
+    paragraph_summary: In his article, Ramzy Baroud discusses how Israeli leaders' threats
+      to label flotilla activists as "terrorists" inadvertently highlight the increasing
+      impact of the international solidarity movement. This response from Israeli officials
+      reflects their recognition of the activists' influence and the broader implications
+      of their actions, suggesting that such movements are gaining traction and posing
+      a significant challenge to Israeli policies. Baroud argues that this acknowledgment
+      underscores the effectiveness of global solidarity efforts in advocating for Palestinian
+      rights and raising awareness about the situation in the region.
+    published: '2025-09-17T18:15:54+00:00'
+  - title: Israel’s Destruction of Gaza City Intensifies
+    url: https://consortiumnews.com/2025/09/17/israels-destruction-of-gaza-city-intensifies/
+    text: Israel called the campaign “Operation Gideon Chariots II,” which Hamas said
+      it will counter with a series of operations dubbed “Moses’ Staff.” By Peoples
+      Dispatch “The bolt is now being removed from the gates of Hell in Gaza,” Israeli
+      Defense… Read more →
+    one_sentence_summary: Israel launched "Operation Gideon Chariots II" against Hamas,
+      which responded with its own operations named "Moses’ Staff," amidst escalating
+      tensions in Gaza.
+    paragraph_summary: Israel has launched a military campaign named "Operation Gideon
+      Chariots II," while Hamas has announced its response with operations referred
+      to as "Moses' Staff." The Israeli Defense Forces have indicated that this operation
+      marks a significant escalation in their military actions in Gaza, with statements
+      suggesting a severe impact on the region. The conflict continues to intensify
+      as both sides prepare for further confrontations.
+    published: '2025-09-17T16:35:08+00:00'
+  - title: Israel’s Destruction of Gaza City Intensifies
+    url: https://consortiumnews.com/2025/09/17/israels-destruction-of-gaza-city-intensifies/
+    text: Israel called the campaign “Operation Gideon Chariots II,” which Hamas said
+      it will counter with a series of operations dubbed “Moses’ Staff.” By Peoples
+      Dispatch “The bolt is now being removed from the gates of Hell in Gaza,” Israeli
+      Defense… Read more →
+    one_sentence_summary: Israel launched "Operation Gideon Chariots II" against Hamas,
+      which responded with its own operations named "Moses’ Staff," amidst escalating
+      tensions in Gaza.
+    paragraph_summary: Israel has launched a military campaign named "Operation Gideon
+      Chariots II," while Hamas has announced its response with operations referred
+      to as "Moses' Staff." The Israeli Defense Forces have indicated that this operation
+      marks a significant escalation in their military actions in Gaza, with statements
+      suggesting a severe impact on the region. The conflict continues to intensify
+      as both sides prepare for further confrontations.
+    published: '2025-09-17T16:35:08+00:00'
+  - title: 'AS’AD AbuKHALIL: Israel’s Qatar Attack Rattles the Gulf'
+    url: https://consortiumnews.com/2025/09/17/asad-abukhalil-israels-qatar-attack-rattles-the-gulf/
+    text: Like its Gulf neighbors, Qatar invested in a security system premised on U.S.
+      reliability and Israeli restraint.  Both pillars have now collapsed. By As`ad
+      AbuKhalil Special to Consortium News The Israeli attack on Qatar on Sept. 9 has
+      undermined the very… Read more →
+    one_sentence_summary: Qatar's reliance on U.S. security and Israeli restraint has
+      been shattered by the recent Israeli attack, highlighting the fragility of its
+      defense strategy.
+    paragraph_summary: The article by As'ad AbuKhalil discusses how Qatar, similar to
+      other Gulf states, relied on a security framework based on the reliability of
+      the U.S. and the restraint of Israel. However, this security system has been severely
+      compromised following an Israeli attack on Qatar on September 9, which has destabilized
+      the foundational pillars of Qatar's defense strategy.
+    published: '2025-09-17T07:00:49+00:00'
+  - title: 'AS’AD AbuKHALIL: Israel’s Qatar Attack Rattles the Gulf'
+    url: https://consortiumnews.com/2025/09/17/asad-abukhalil-israels-qatar-attack-rattles-the-gulf/
+    text: Like its Gulf neighbors, Qatar invested in a security system premised on U.S.
+      reliability and Israeli restraint.  Both pillars have now collapsed. By As`ad
+      AbuKhalil Special to Consortium News The Israeli attack on Qatar on Sept. 9 has
+      undermined the very… Read more →
+    one_sentence_summary: Qatar's reliance on U.S. security and Israeli restraint has
+      been shattered by the recent Israeli attack, highlighting the fragility of its
+      defense strategy.
+    paragraph_summary: The article by As'ad AbuKhalil discusses how Qatar, similar to
+      other Gulf states, relied on a security framework based on the reliability of
+      the U.S. and the restraint of Israel. However, this security system has been severely
+      compromised following an Israeli attack on Qatar on September 9, which has destabilized
+      the foundational pillars of Qatar's defense strategy.
+    published: '2025-09-17T07:00:49+00:00'
   - title: 'Hedges Report: Israel, Kirk, & the Coming Repression'
     url: https://consortiumnews.com/2025/09/16/hedges-report-israel-kirk-the-coming-repression/
     text: Max Blumenthal provides important context on Charlie Kirk’s changing relationship

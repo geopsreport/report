@@ -7,14 +7,207 @@ description: "Ex-MI6 diplomat and founder of Conflicts Forum (Beirut); publishes
 websites:
   - https://www.eurasiareview.com/author/alastair-crooke/
 summary: |
-  The geopolitical landscape remains defined by escalating tensions and shifting alliances, as U.S. foreign policy under President Trump continues to prioritize military assertiveness and transactional interests over traditional diplomacy. The most recent development—the Israeli strike on a Hamas negotiating team in Doha—marks a significant turning point in Middle Eastern diplomacy. According to **Alastair Crooke**, this action "signifies the end of Qatar's influential role" as a mediator, effectively sidelining one of the few remaining channels for dialogue in the region. This move is emblematic of what Crooke describes as a broader U.S. strategy of "escalatory dominance," where the pursuit of military advantage and profit supersedes efforts toward sustainable peace.
+  As the global order continues to shift, recent developments underscore the deepening fractures within Western alliances and the rise of alternative power centers. The aftermath of Israel’s recent military actions, particularly its strike on a Hamas negotiating team in Doha, has accelerated the erosion of traditional diplomatic channels and heightened regional volatility.
   
-  This trend is not isolated. The Trump administration’s alignment with hardline Israeli interests, often referred to as the sway of ‘Israel Firsters’, has further entrenched a policy of confrontation, particularly against Iran and Palestinian factions. Crooke notes that this approach is less about achieving a negotiated settlement and more about imposing outcomes through force, a strategy that risks further destabilization.
+  **Alastair Crooke** notes that Israel’s increasingly assertive and violent approach—what he terms “violent Zionism”—has not only sidelined key mediators like Qatar but also exposed growing discontent among American conservatives regarding unconditional U.S. support for Israel. This signals a possible weakening of Israel’s standing both in Washington and internationally, with Crooke emphasizing, “the genie of ‘Israeli First’ dominance is out of the bottle,” and it may not be possible to restore the previous status quo.
   
-  Meanwhile, the global balance of power continues to shift. The recent Shanghai Cooperation Organization (SCO) summit underscored the growing assertiveness of China and Russia, who are capitalizing on Western disarray to advance a multipolar order. As Crooke observes, the West is "grappling with internal turmoil and declining hegemony," raising questions about the future of U.S. leadership in a world where alternative centers of power are increasingly influential.
+  Meanwhile, the broader context is defined by the U.S. struggle to maintain its global influence amid the assertiveness of the China-Russia axis. The recent Shanghai Cooperation Organization (SCO) summit, as analyzed by Crooke, highlighted a “significant shift in global power dynamics,” with China and Russia consolidating their positions while the West faces internal discord and waning hegemony.
   
-  Looking ahead, the predominant trend is one of continued escalation and polarization. The sidelining of diplomatic actors like Qatar, combined with the U.S. administration’s preference for military solutions, suggests that prospects for de-escalation in the Middle East are dim in the near term. At the same time, the emergence of a more assertive China-Russia axis is likely to further erode Western influence on the global stage. Based on the current trajectory, there is a high chance that conflict zones such as Iran and Palestine will see renewed violence, while the U.S. faces mounting challenges to its geopolitical dominance. As Crooke concludes, the era of Western-led order is most definitely giving way to a more fragmented and unpredictable global system.
+  The Trump administration’s foreign policy, shaped by a preference for escalatory dominance and headline-driven actions, has further complicated the landscape. The sidelining of diplomatic solutions in favor of military posturing—especially in the Middle East—has, according to Crooke, “prioritized military aggression and profit-making over genuine peace efforts.” This approach risks further destabilization, as seen in the aftermath of the Israeli strike in Doha and the diminishing effectiveness of traditional U.S.-led mediation.
+  
+  **Trends and Predictions:**  
+  - There is a **high chance** that Israel’s aggressive posture will continue to alienate both regional actors and segments of the U.S. political establishment, leading to a decline in its diplomatic leverage.
+  - The U.S. is **quite likely** to face increasing challenges in projecting power, especially as the China-Russia bloc solidifies alternative frameworks for global cooperation.
+  - The sidelining of negotiation in favor of escalation is **most definitely** setting the stage for prolonged instability in the Middle East, with fewer avenues for de-escalation or compromise.
+  
+  In summary, the current trajectory points toward a more fragmented international system, with traditional Western dominance under strain and new power centers asserting themselves with increasing confidence.
 articles:
+  - title: The Genie Of ‘Israeli First’ Dominance Is Out Of The Bottle – OpEd
+    url: https://www.eurasiareview.com/22092025-the-genie-of-israeli-first-dominance-is-out-of-the-bottle-oped/
+    text: 'By Alastair Crooke
+
+
+      ‘Gaza is on fire; the Jewish state will not relent’, Israeli Defence Minister
+      Katz excitedly proclaims: “The IDF is striking with an Iron fist at terrorist
+      infrastructure”. In fact, over recent weeks Israel has struck at ‘infrastructure’
+      in West Bank, Iran, Syria, Lebanon, Yemen, and Tunisia – besides Gaza.
+
+
+      The so-called ‘Rules-Based Order’ blueprint (if it ever truly existed beyond narrative)
+      has been ripped up in favour of violent Zionism: Genocide, sneak attacks under
+      the guise of on-going peace negotiations, assassinations, and the de-capitation
+      of political leaderships. It is war without limits; without rules; without law;
+      and in complete disdain for the UN Charter. Ethical boundaries, more particularly,
+      are dismissed as mere ‘moral relativism’.
+
+
+      Something profound is re-shaping Israeli foreign policy. The transformation needs
+      be understood as a U-turn within the very core of Zionist thinking (a journey
+      from Ben Gurion to Kahane), as Yossi Klein has written.
+
+
+      Israel’s strategy from past decades continues to rest on the hope of achieving
+      some literal Chimeric transformative ‘de-radicalisation’ of both Palestinians
+      and of the Region, writ large – a de-radicalisation that will make ‘Israel safe’.
+      This has been the ‘holy grail’ objective for Zionists since Israel was first founded.
+
+
+      Israeli Strategic Affairs Minister Ron Dermer claims that such radical mutation
+      in consciousness will only come from the bombing of opponents into utter submission.
+      (The lesson which he draws from WWII). One aspect – Israel’s foreign policy –
+      then is clear: It is the ‘War of the Jungle’.
+
+
+      But there is another aspect; one perhaps more troubling: These norms and ethical
+      principles that Israel openly seeks to tear apart are, in the last resort, American
+      proclaimed norms and values. Strikingly, the U.S. has abandoned its traditional
+      ethos when it comes to Israel. And rather than criticise or seek to limit Israel’s
+      use of such norm-busting military actions, the Trump Administration emulates them
+      – sneak attacks under the guise of talking peace, de-capitation attempts, and
+      striking with missiles at unknown vessels off Venezuela, vaporising the crew.
+
+
+      The U.S. is doing this openly – thumbing its nose, like Israel, at international
+      law and conventions.
+
+
+      It does appear that key components of the U.S. Establishment increasingly favour
+      the military strategies of Israel and even are shifting from the moral ethos of
+      a ‘Just War’, shall we say, to one closer to the Hebraic ethos of ‘Amalek’. It
+      amounts to updating western moral ‘software’ with the alternative ‘justice’ of
+      absolute war.
+
+
+      Does the Israel state have a future? Israel is now carrying out a second Nakba
+      in Gaza and the West Bank, with Jewish society remaining trapped in repression
+      and denial – just as it was back in 1948. Israeli Historian, Ilan Pappe wrote
+      in 2006 in his seminal work on the 1948 Nakba the fundamental importance of “retrieving
+      [the events of 1948] from oblivion”:
+
+
+      Once the decision was taken [on 10 March 1948], it took six months to complete
+      the mission. When it was over, more than half of Palestine’s native population,
+      close to 800,000 people, had been uprooted, 531 villages … destroyed, and eleven
+      urban neighbourhoods emptied of their inhabitants. The plan … and above all its
+      systematic implementation in the following months, was a clear-cut case of an
+      ethnic cleansing operation, regarded under international law today as a crime
+      against humanity …
+
+
+      The story of 1948 is not complicated … It is the simple but horrific story of
+      the ethnic cleansing of Palestine, a crime against humanity that Israel has wanted
+      to deny and cause the world to forget. Retrieving it from oblivion is incumbent
+      upon us, not just as a greatly overdue act of historiographical reconstruction
+      or professional duty; it is … a moral decision, the very first step we must take
+      if we ever want reconciliation to have a chance.
+
+
+      I wrote recently how Israeli film-maker Neta Shoshani’s controversial documentary
+      about the 1948 Nakba showed Israeli ethical and legal boundaries to have been
+      erased in a bout of bloodletting and rape. The absolute loss of ethos (there was
+      no accounting or justice), Shoshani says, imperilled the then-legitimacy of the
+      State founding project. Repeated a second time – the current war – she warns,
+      “could be the one That Ends Israel”.
+
+
+      Shoshani’s comments hint at the trauma felt by secular liberal Jews at witnessing
+      the norms and lifestyle of their largely secular-liberal society upended by the
+      swivel towards the militaristic and eschatological objectives of the Israeli Right.
+      Finance Minister Smotrich declared recently that the Jewish people are experiencing
+      “the process of redemption and the return of the divine presence to Zion – as
+      they engage in the ‘conquest of the land’”.
+
+
+      Many European Jews did arrive in the new Israeli state to find safety and protection,
+      however, they also came to participate in the Zionist project in Palestine.
+
+
+      For now, Netanyahu states he has Trump’s “100%” support and “unlimited credit”
+      for the maelstrom unleashed across the region. As Ben Caspit writes, quoting a
+      senior Israeli diplomat:
+
+
+      “The fact that Rubio landed here just days after the [Doha] attack, and voiced
+      almost no criticism — in fact, the opposite — gives a tailwind to Israel’s operation
+      in Gaza … Israel has not received such a generous and long line of credit from
+      any American administration”.
+
+
+      And Trump seems to be moving away from the ‘global peacemaker’ moniker to concentrate
+      more narrowly on demonstrating American ‘exceptional greatness’ – through tariffs,
+      sanctions or military operations – thus demonstrating a dominating, if not Great,
+      America.
+
+
+      Yet the problems are all too apparent: In previous years, Israel had been largely
+      relegated to the sidelines at the U.S. National Conservatism Conference. This
+      time around, the Jewish state and its wars couldn’t be avoided. The latest Conservatism
+      conference slid into ‘civil war’ between the neo-con ‘realists’ supporting Israel,
+      and those asking: “Why are these our wars? Why are Israel’s endless problems America’s
+      liabilities? Why should we accept [Israel as being part of] ‘America First’?”,
+      as the editor of The American Conservative exploded: “We f***ing shouldn’t!”
+
+
+      The tension within the Republican Party is obvious: MAGA supporters wish to support
+      Trump, but the big Jewish donors and commentators, such as pro-Israel hawk Max
+      Abrahms, mocked Tucker Carlson-loving “MAGA isolationists” at the conference,
+      who had gone “insane” in their push to disengage from the Middle East.
+
+
+      Trump warned Netanyahu that the genocide in Gaza is causing Israel to bleed support
+      among Republicans, including especially among younger people. Nonetheless, Trump
+      has not modified his unwavering support for Israel (for whatever reason), but
+      he has taken notice of the ‘mood vibe’ amongst his base.
+
+
+      If Trump has indeed noticed the change, Netanyahu doesn’t care. As Amir Tibon
+      in Haaretz reports:
+
+
+      “If Trump thinks his comments on Israel’s loss of ‘control over Congress’ will
+      be a wake-up call for Netanyahu, he’s mistaken. Israelis didn’t need Trump to
+      know that their country is losing the battle over global public opinion”.
+
+
+      “Netanyahu and Ron Dermer … are at peace with Israel’s loss of international support,
+      heightened isolation, the threats of sanctions against it, and arrest warrants
+      for its leaders (including Netanyahu himself). The two don’t seem to care, and
+      the reason, ironically, is the very man sounding the alarm: Donald Trump”.
+
+
+      “From Netanyahu’s point of view, as long as he’s got Trump’s backing – none of
+      it matters”.
+
+
+      Well, Israel’s wars have lost a generation of young American conservatives – and
+      they’re not coming back. Whatever the circumstances to the killing of Charlie
+      Kirk, his death has let loose the genie of ‘Israeli First’ dominance in Republican
+      politics to escape from the bottle.
+
+
+      When Netanyahu does peer out, he will find that Israel has lost America (and the
+      rest of the world, too).'
+    one_sentence_summary: The article by Alastair Crooke critiques Israel's recent military
+      actions and foreign policy, arguing that they reflect a shift towards violent
+      Zionism and a disregard for international norms, while also highlighting the growing
+      discontent among American conservatives regarding unconditional support for Israel,
+      suggesting that Israel may be losing its standing both in the U.S. and globally.
+    paragraph_summary: In a critical analysis of Israel's current military and foreign
+      policy, Alastair Crooke highlights the aggressive and unrestrained nature of Israeli
+      actions across various regions, including Gaza, the West Bank, and beyond. He
+      argues that Israel's approach has shifted towards a violent form of Zionism that
+      disregards international law and ethical norms, reflecting a profound transformation
+      in Zionist ideology from its founding principles. Crooke points out that the U.S.
+      has increasingly aligned itself with Israel's militaristic strategies, abandoning
+      its traditional moral framework, which raises concerns about the future of both
+      Israel and its relationship with America. He notes that while Israeli leaders
+      remain unfazed by growing international criticism and isolation, they risk alienating
+      a younger generation of American conservatives who are increasingly questioning
+      the U.S.'s unwavering support for Israel. Ultimately, Crooke suggests that Israel's
+      current trajectory may lead to a significant loss of global support and a potential
+      reckoning with its historical actions, particularly regarding the Nakba and ongoing
+      conflicts.
+    published: '2025-09-22T15:53:25+00:00'
   - title: 'Maintaining Escalatory Dominance: Trump And The Predominant Sway Of ‘Israel
       Firsters’ – OpEd'
     url: https://www.eurasiareview.com/16092025-maintaining-escalatory-dominance-trump-and-the-predominant-sway-of-israel-firsters-oped/

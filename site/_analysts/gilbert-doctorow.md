@@ -7,19 +7,2743 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  The past week has seen a marked escalation in Middle Eastern and European tensions, with new developments underscoring the volatility of both regions. The most recent and significant event is the Israeli airstrike in Qatar, which, according to **Judge Andrew Napolitano** (via **Gilbert Doctorow**), killed 37 Hamas negotiators just before they were to participate in peace talks regarding Gaza. This action has been widely interpreted as a deliberate move to derail diplomatic efforts, with the majority of analysts suggesting it will further entrench hostilities and diminish prospects for a negotiated settlement in the near term.
+  As Europe continues to grapple with the unraveling of its post-World War II order, recent commentary by **Dr. Gilbert Doctorow** highlights a growing consensus among independent analysts: the continent is entering a period of profound transformation, with traditional models of governance and integration coming under increasing strain. Hungarian Prime Minister Viktor Orban’s call to acknowledge the decline of the old European model is gaining traction, as Doctorow notes, “admitting this reality is crucial for progress.”
   
-  In Ukraine, the conflict appears to be approaching a decisive phase. Recent discussions, as highlighted by **Gilbert Doctorow**, indicate that the Russian elite remain convinced that the war will be resolved militarily, not diplomatically. Political instability is also rising in both Ukraine and France, with **Doctorow** noting that internal pressures could soon impact their respective roles in the broader European security landscape. The ongoing support of Donald Trump for Israeli Prime Minister Netanyahu is seen as reinforcing hardline positions in both the Middle East and among Western allies.
+  Meanwhile, the debate over sanctions on Iran has intensified. The UN Security Council’s recent rejection of Iran’s request for sanctions relief—driven by France, the UK, and Germany—signals a hardening European stance. According to Doctorow’s analysis of the Press TV panel, this move is widely condemned by Iran as a “hypocritical violation of international law,” while China and Russia continue to oppose such measures. The discussion also underscores the complex interplay of U.S. and Israeli influence on European decisions, with Doctorow observing that the debate now centers on “the influence of Israel versus the U.S. on European decisions,” reflecting deeper fractures within the Western alliance.
   
-  Meanwhile, the Shanghai Cooperation Organization (SCO) continues to gain strategic relevance, eclipsing BRICS in the eyes of many observers. As **Doctorow** and **Glenn Diesen** discussed, the SCO’s growing influence reflects a broader realignment, with Russia, China, and India increasingly united in opposition to U.S. hegemony. This trend is expected to continue, with a high chance of further institutional strengthening and coordination among Eurasian powers.
+  On the broader historical stage, Doctorow’s recent conversations draw parallels between China’s “century of humiliation” and what he describes as Europe’s own looming era of diminished influence. In dialogue with historian Glenn Diesen, Doctorow suggests that Europe may be facing its own period of humiliation, with the decline of its traditional powers—France, Germany, and Britain—casting doubt on the continent’s ability to shape global outcomes, particularly in the context of the ongoing Russia-Ukraine war.
   
   **Trends and Predictions:**  
-  - The Israeli strike in Qatar will most definitely escalate the Gaza conflict and undermine peace initiatives, with a high likelihood of retaliatory actions and regional fallout.
-  - The Ukraine war is quite likely to see intensified military operations, as both sides prepare for what may be a final phase, with little expectation of diplomatic breakthroughs.
-  - The SCO’s prominence will continue to rise, and its member states will most definitely deepen cooperation, challenging Western-led institutions in Eurasia.
-  
-  Overall, the geopolitical environment remains highly unstable, with new flashpoints emerging and existing conflicts hardening along established lines.
+  The majority view among independent analysts, as synthesized from Doctorow’s recent work, is that Europe’s institutional and geopolitical crisis will deepen in the coming months. There is a high chance that the EU will face further internal divisions, especially as sanctions policies and external pressures mount. I guarantee that the debate over sovereignty versus federalism will intensify, with member states increasingly challenging Brussels’ authority. Regarding the Iran sanctions issue, there is a high chance that renewed international sanctions will further polarize the Security Council, with China and Russia continuing to resist Western initiatives. Most definitely, Europe’s global influence will continue to wane, setting the stage for a protracted period of adjustment and potential instability.
 articles:
+  - title: Transcript of ‘Sanchez Effect’ show
+    url: https://gilbertdoctorow.com/2025/09/23/transcript-of-sanchez-effect-show/
+    text: 'Transcript submitted by a reader https://www.mgtow.tv/watch/sanchez-effect-dr-gilbert-doctorow-trump-s-playbook-a-masterclass-in-confusion_DXPcqxRBgbjUY3z.html
+      https://rumble.com/v6zbfxs-sanchez-effect-dr.-gilbert-doctorow-trumps-playbook–masterclass-in-confus.html
+      https://www.youtube.com/watch?v=CroGgJxPEbU Orban: 11:55 (English voice over)
+      Europe, as we knew and loved it, is over. If we deny this, we lose time. If we
+      say it out loud, we gain time. Sanchez: Wow, has the post-World War II model lost
+      its way? Is it too late to get it back? That’s what Orban seemed to be saying,
+      but in stronger words than I just repeated. Our guest today has written countless
+      books on this subject. His books include War Diaries, Stepping Out of Line, Does
+      the U.S. Have a Future, Does Russia Have a Future, and many, many more. Here,
+      historian, international thinker, and writer, Dr. Gilbert Doctorow is good enough
+      to join us. Wow, that was quite a mouthful, not for me, but for Mr. Orban. Lilliputians,
+      bankrupt, wars, they’re finished. Wow. Is he right about Europe, doctor? Doctorow:
+      12:52 Yes and no. Under the present administration of von der Leyen, yes, this
+      is a very apt description. However, she’s not going to remain in power forever.
+      And there are some well-informed members of the European Parliament who have shared
+      with me their view that she may not last six months. It’s also possible she may
+      not last two weeks. There are now pending two votes of no confidence against von
+      der Leyen, one of them initiated precisely by Mr. Orban and his group of deputies
+      in the European Parliament, the Patriots for Europe. These are accusing her of
+      violating the Constitution, of having lack of transparency in the way she governs.
+      So if von der Leyen falls, which is, I wouldn’t say likely, but it’s possible
+      in the near future, then she will be replaced by people who will be far more circumspect.
+      I don’t mean to say that the balance of power within the European Parliament and
+      in the European institutions will change overnight, but it will be on the way
+      towards change, and it can virtually only change for the better. 14:07 As for
+      Europe’s viability, I believe it’s there. But it’s possible only if Europe goes
+      back to where it was in the 1990s as a peace project and not in the new millennium
+      as a war project. Sanchez: 14:22 Let me ask you the question that my editors would
+      ask me when I told them that something is likely to happen and it’s going to be
+      big news. How good are your sources that are telling you that von der Leyen is
+      on the way out? Doctorow: Well, it’s not wild speculation. There were several
+      weeks ago, and I forget, within the last two months, there was a vote of no confidence,
+      which she survived. Sanchez: Yes. Doctorow: But she held on by her fingertips.
+      I understand that there was a one-vote swing, which left her in power. And if
+      the mood has continually deteriorated, with respect to her popularity, standing,
+      credibility in the parliament, then she’ll lose the next vote. As I say, that’s
+      not going to cure all, but it’s a good start, towards cure. And what is at issue
+      is Europe being, as I say, a war project, because it has taken over geopolitics
+      as its uniting factor, whereas in the 1990s it was the economics and cultural
+      dimension which gave Europe unity. Sanchez: 15:28 So essentially it’s become an
+      entity that is into wars, Afghanistan, Belgrade, Iraq, et cetera. It has become
+      aggressive and very tied to the military establishments that surround themselves
+      with that entity. Is that part of what you’re intimating has been their downfall?
+      Doctorow: Exactly. They have made the bogeyman Russia the uniting factor. It is
+      meant to keep in power those who are now ruling Europe. Let’s be frank about it.
+      We’re talking about a very common element of politics, and that is to hold on
+      to the spoils of power at all price. European countries, by and large, are run
+      by coalition governments, which are a formula for corruption and for incompetence,
+      which, corruption and incompetence, are two sides of the same coin. Parties get
+      together for the sake of grabbing and holding power, and they have no consistency
+      in their policies, because they have dealt out to parties with conflicting interests
+      and conflicting programs, ministerial portfolios, to have a majority of seats
+      in the parliaments. So it is a situation where Europe, country by country, will
+      have to reconsider the basis for elections and allocation of a formation of governments.
+      That’s a separate but related issue. Sanchez: But when you hear Orban talk about
+      it, he talks about layoffs and high inflation and wages are really low and migrants
+      all over the place and the populace that’s unhappy. How did that become the overflow
+      product of this situation that you were just describing to us. Did they, you know–
+      there’s an expression in America, as you know, you and I are both Americans. The
+      term is you “take your eye off the ball”. Have they taken their eye off the ball,
+      the people that they’re supposed to serve? Doctorow: Well, it took some time to
+      reach the dismal state they’re in now. As regards the illegal immigrants, refugees,
+      as they were called at the time. This takes us back to 2014, 2015, and the gross
+      mistake of Angela Merkel to open the doors of Europe to these supposedly kind
+      ladies with little children who were fleeing the civil war in Syria. That was
+      a very nice story for the progressive press in Western Europe. It was now quite–
+      lie. And the present Minister of Defense in the Belgian government, Theo Franken,
+      he wrote a very fine book about 2016, _Europe Without Borders_, which described
+      in great detail the fraud that was perpetrated on the European peoples, since
+      it was not nice, kindly ladies with little children who came in. And it was not
+      Syrians as such. It was Afghanis. It was North Africans. It was all kinds of very
+      muscular young men who came as economic refugees, not war refugees. Sanchez: 18:56
+      Before it’s all said and done, before we leave Europe– because I want to ask you
+      about the United States, and I want to ask you about Russia and Ukraine. There’s
+      so many things to talk about, including some of the things that are going on with
+      India and Israel as well, but– maybe the final question when it comes to Europe
+      is, will, if there is a change– and let us suppose that your sources and your
+      sense of things is correct, and your sense of things is usually correct because
+      you’re one of the most respected people in this business– and von der Leyen is
+      out, what are the probabilities that whoever or whatever replaces her in the European
+      power structure will be more level-headed and will not do things like wanting
+      eternal war with Russia and wanting to constantly engage in more and more wars,
+      etc.? What are the chances of that? Doctorow: 19:57 There are several factors
+      here. I started this discussion pointing to the European institutions. The opposition
+      to von der Leyen is partly or even importantly on geopolitical considerations.
+      And that is why it is of greatest interest to myself and to others who are following
+      developments in Europe. This is not the only factor that can bring about change.
+      We have the two locomotive countries from the beginning of the European institutions,
+      that is France and Germany, both are faltering. Both have the possibility of changing
+      government in the foreseeable future, as opposed to the constitutionally recommended
+      periods of service. England also has a very weak government. 20:47 So, if you
+      put together the possibility the fall of Macron, he has royal powers under the
+      French Constitution, but even royalty can find itself on the way out, even if
+      they’re not facing a guillotine. The government of Macron is hanging by a hair.
+      And if he cannot maintain his own position, then there will be a change, a dramatic
+      change in France, which will bear upon the overall geopolitical stance of Europe.
+      In Germany, Mr. Merz looks very solid. He was very proud that in the West German
+      Laender, the states, federal states of Germany, had elections in the last 10 days.
+      His party held its own. However, his coalition partner, that is the socialist
+      SPD, they lost significantly to the Right parties of the Alternative fur Deutschland.
+      Sanchez: Or Russian. Doctorow: If you lose your coalition, then you lose your
+      government. Sanchez: Yeah. Doctorow: And you’re out and have to face elections.
+      And he will not survive a new election in Germany, because he’s very unpopular,
+      as became apparent after he took office. So it is possible in both of these locomotive
+      countries of the European Union that there will be changes of government in the
+      foreseeable future, all of which would promote and redirect the European institutions,
+      because these countries are leaders within the European Council, which is the
+      second executive body alongside the commission within Europe. Sanchez: 22:27 Yeah,
+      all three of them have horrible approval numbers, by the way. I mean, not just
+      horrible, dismal, like in the low 20s. And by the way, just to make sure I heard
+      you correct, you said that Macron is not hanging by a thread, but hanging by a
+      head? Doctorow: Hanging by a hair, well, might as well say by a thread, yes. Sanchez:
+      Okay, I was thinking of French history there for just a moment. Good line either
+      way. Let’s talk our country, the United States of America. What gives? I can’t
+      help but look at the situation and scratch my head in a different place every
+      day. I’m going to give myself a sore trying to figure out what is the intent?
+      What is the actual strategy? Have you figured it out? Doctorow: Well, I have.
+      I’ve paid a price in terms of the general public reading my works or listening
+      to me. I’m doing better these days than, say, six months ago. Six months ago,
+      I was called an apologist for Putin. Now I’m called an apologist for Trump. I
+      suppose that’s progress. The point is that I see logic in Mr. Trump in what he
+      does, not what he says. What he says is intended to confuse, to keep all of his
+      opponents both domestically and foreign, off balance, and to avoid their coming
+      at him with a hatchet. So he has successfully confused many of my peers in alternative
+      media. Sanchez: Including me. Including me. Hands up over here, by the way. Doctorow:
+      They point to the contradictions as if he is mindless and does what is proposed
+      to him by the last person to whisper in his ear. I absolutely [disagree] with
+      that. He has his priorities and his direction. His first priority is establishing
+      some normal relationship with Russia for a number of reasons, which we probably
+      don’t have time to discuss, but they are rational, rational logic to this. And
+      he is doing what he can in very difficult circumstances. By that I mean he is
+      surrounded by opponents to his policy. The Congress basically is opposed to his
+      policy of some kind of normalization with Russia. And of course, Europe is now
+      all against it and has, in the last week, launched yet another program to draw
+      to its side Mr. Trump. 25:06 And I mean now this discussion of the drone attacks
+      on Poland, Romania; and the Estonian complaints that Russian fighter jets violated
+      their airspace. All of this is nonsense. If you want to go back to basics, what
+      those drones were, whether it was possible at all to fly across the Baltic without
+      violating NATO space, given the realities of the narrowness of the Baltic Sea
+      and the countries lining it, being NATO members. In any case, my point is that
+      the Russians have been described as aggressors in the last week, all in an attempt
+      to turn Mr. Trump around. Well, they won’t. The man is not for turning, but he
+      is for lying, for deceiving, and for giving hope to his enemies that he will do
+      what they want, which he will not. So it is a waiting game. The message that I
+      see from Mr. Trump to Mr. Putin is to get it over with quickly. That is the message.
+      Sanchez: 26:18 I’m wondering, in hearing you say that about Mr. Trump, whether
+      you believe—and I think this is important, so let me just try and get it on the
+      record from you, because a lot of people heard you mention as an aside what just
+      happened with Poland, and I haven’t quite even figured it out. Do you think it’s
+      a canard, a red herring? Do you think it’s just errant drones that suddenly may
+      or may not have been the fault of Russia that ended up in Polish airspace? And
+      should we not then ask ourselves if Russia was really interested in doing something
+      with Poland or to Poland, which I don’t think they are. I think they have no interest
+      in Poland or Europe, who would? They would have done it full force, not with three
+      or four errant drones. 27:10 That’s just what I’m thinking, not necessarily as
+      a studied journalist on this issue who’s talked to sources, but rather as somebody
+      who just looks at it and says, this doesn’t make sense to me. What’s your take?
+      Doctorow: Well, to go back to the beginning, my own understanding of what was
+      happening has changed over the last 10 days or so, as new information came out
+      and as new accusations against Russia came on. Initially it looked like this was,
+      these were drones sent by Ukraine into Polish territory for the sake of provoking
+      a Russia-Polish war, and which would immediately become a broader Russia-NATO
+      war, moving from proxy to genuine kinetic war. That was over, that was bypassed
+      by further information. First of all, we learned from Polish authorities, Polish
+      news sources, that Belarus had communicated with the Polish military while those
+      drones were flying over Belarus territory informing the– well, I have posted the
+      links to the Polish news agencies– giving the Poles time to act. If Russia were
+      the source of these, of the [drones] it is excluded totally that Belarus would
+      be communicating information to warn them. Sanchez: They’re allies with Russia.
+      Doctorow: We have to [assume]. 28:40 Secondly, people have done research into
+      what the drones were. They were found to be not kamikaze drones, but the type
+      of drone that Russia has used in swarm attacks on various Ukrainian sites. These
+      are to attract or distract the air defenses from the primary attack drones and
+      missiles. It was known that the Ukrainians had been collecting downed drones of
+      this variety. And they did. Some of them do go down by electronic warfare they’re
+      brought down, and or they crash. And since they had no explosives, which was the
+      important fact, they would just fall and break up. They could be reassembled,
+      were reassembled by the Ukrainians for use in this contingency. All of that was
+      defined at the level of a Ukraine-Polish interaction. However, the plot had thickened
+      in the last week or so; then there were the so-called attacks on Romania, further
+      aggravating the case against Russia as an aggressor. And now we have the culmination
+      in the last few days, the supposed violation of Estonian airspace by Russian military
+      jets. Well, we have to look at the timing of all of this. All of this comes in
+      the middle or at the end of Zapad 25, the West 25 military exercises of Belarus
+      and Russia with very large-scale participation, more than 100, 000 Russian soldiers
+      in action, sites all over the place from Murmansk in the north, down to the southwest
+      of Russia, and in the [Baltic Sea]. 30:30 This of course was an important event
+      staged in part to show the military prowess of Russia to the 25 visiting delegations,
+      many of them Global South, prospective security partners of Russia and purchasers
+      of Russia military hardware. Now, the West reacted. How did they react? By this
+      canard, as you called it, false flag activity, which has a number of objectives.
+      One of them has been to call for united Ukrainian, Polish dash NATO action, securing
+      a wall against Russian drones using Ukrainian technology and hardware to help
+      the West European countries defend themselves against Russian drones. 31:24 At
+      a price less than what happened in this Polish incident, where the Poles sent
+      aloft fighter jets that cost several million euros each, that fire missiles that
+      cost $500,000 each to down drones that cost $20,000 each. So this was one big
+      end result of all of these various efforts, starting with the false flag drone
+      attack on Poland. And now it reached the highest level in the case of the Estonian
+      charges meant to influence Donald Trump. Sanchez: That’s amazing. The explanation
+      that you just gave is the best that I’ve heard since I’ve been watching this situation.
+      And I’m here in Moscow. And sometimes, you know, things get muddy because a lot
+      of people talk at once. But in the end, the takeaway from all of this is Russia
+      was flexing its muscle, doing military exercises and inviting global south countries
+      and countries from all over the world. They probably would have been happy to
+      see even NATO countries come. Here’s what we got. We’ll be happy to show you.
+      You can buy it if you want, for the right amount of money. 32:38 NATO, EU, that
+      power structure saw what Russia was doing and said, we have to create a distraction.
+      We have to create, as you said, a false flag. We have to create something to make
+      people think that Russia is actually getting ready to invade Europe. If Biden
+      had been president, he would have held a news conference and said, “We’ve got
+      to be on the alert because Russia is getting ready to invade Europe.” Instead,
+      we heard it from Rutte, but we didn’t hear it from Donald Trump. Going back to
+      your original point, maybe Donald Trump is a little smarter than we give him credit
+      for. Doctorow: I think he has good advisors. In the memorial service for Charlie
+      Kirk yesterday, we had a good glimpse of what kind of advisors and what quality
+      advisors Trump has had around him. And that is first quality. That is an extraordinarily
+      capable man of great intelligence, who obviously was providing to Trump the information
+      on what is going on at American universities, since he traversed the country many
+      times each year and had installed his Turning Point units in 2,000 American universities
+      and colleges. That is on that domain. I believe he had similar competence in his
+      advisors for foreign policy and what is going on in Russia. I have taken issue
+      with my peers and intelligence experts who appear on some very widely known programs
+      based in Washington and elsewhere, and who keep on insisting that Trump is in
+      the dark. He’s not in the dark at all. We’re more likely in the dark than he’s
+      in the dark. Sanchez: 34:13 So you’re talking about Jeffrey Sachs and Mearsheimer
+      and Ritter and Napolitano and Daniels and some of these guys who are wonderful
+      people, by the way, really good communicators, great shows, but they tend to lean
+      on the side that Trump’s getting really, really bad information and he should
+      have made Macgregor his defense secretary. Doctorow: Well, I won’t make any comments
+      on Macgregor, who iss obviously a very competent and experienced man, but I’m
+      not sure I would like to see him as the defense minister. As regards Mr. Sachs,
+      I would put him apart from the other men you’ve mentioned, because he is a globalist.
+      And that is something that everybody who praises him for his wonderful stance
+      on US foreign policy and its violations of international law, they ignore the
+      fact that Jeffrey Sachs is a backer of globalism, which is the reason why the
+      United States is such a violator of international law. Sanchez: 35:13 Can we talk
+      Israel for a little bit? Canada, UK, Australia came out today and said they recognize
+      officially Palestine as a state. I’m wondering whether they know that they’d already
+      done that during the Oslo Accord, or at least that was my reading of it, so [I’m]
+      kind of shocked that everybody’s making such a big deal out of it. So I guess
+      my question to you, is it a big deal? Doctorow: 35:38 Well, it cannot be a big
+      deal if no one is taking any action against Israel to prevent the annexation of
+      the West Bank. I think that’s a much bigger deal than these countries coming out
+      and acknowledging the non-existent Palestinian government. There is no government.
+      It’s a nice statement. It is certainly hurtful to Israel, but it does not contribute
+      to ending the genocide in Gaza or to downing Mr. Netanyahu. I think a much more
+      important development in the last couple of days, was the Pakistan-Saudi agreement,
+      a mutual defense, which, if I were sitting in West Jerusalem in Israeli offices,
+      I would be much more worried about. 36:27 That gives to the Gulf states, and to
+      one Gulf state in particular, Saudi Arabia, finally an equalizer to Israel and
+      its nuclear weapons. Sanchez: That’s a great point. Everybody talks about the
+      Israel situation in Gaza. Everybody criticizes what Israel is doing, and by everybody
+      I mean everybody but the United States and a few others. But nobody ever can definitively
+      say that any of this, no matter how ruffian Israel may appear, is going to eventually
+      affect them in a negative way. I alluded to this earlier, I think you heard me
+      say, props to Netanyahu, he basically is thumbing his nose at the rest of the
+      world and said, “I don’t care what you think, and I don’t care what you say about
+      me.” My tendency is then to ask you, what can they do to him? What can happen
+      to him? How can he be affected by any of this? Doctorow: 37:32 None of the great
+      powers [has] taken any significant action against Israel, and that is China, it
+      is Russia. Sanchez: Right. Doctorow: And I understand why. If the neighbors, if
+      the Gulf states do nothing, except jawbone, then there is no room for outside
+      powers to come in and do something. So that is the real state, the real situation.
+      As for Mr. Trump, since I’ve said some very positive things about him, I’d like
+      to put the negative side. This is a balance, of course. The negative side is his
+      support for Israel, which enables the genocide, and not only the genocide. For
+      example, the very widely discussed Israeli attack on Qatar. Yes, as I understand,
+      it was enabled by American refueling of their jets, not a small detail. 38:32
+      The problem here is that Mr. Trump lives in a world that he didn’t make in Washington,
+      and there are certain rules that he is stuck with. And one is not to go against
+      the pro-Zionist Congress. If he were to act out of conscience and take any measures
+      against Netanyahu and the genocide, he would be politically broken the next day.
+      Therefore, in a world that has both good and evil in it, you have to make compromises.
+      Mr. Trump has compromised on relations with Israel, and he is seeking to accomplish
+      something on a global level by putting aside the risk of a war with Russia. Sanchez:
+      39:23 There are those who say, and I only mention this because it’s become part
+      of the national conversation these days in the United States, that what you just
+      said is true, but actually worse. Mr. Trump would not be broken politically, to
+      use your words, as a result of taking on Israel in the United States. He could
+      actually be broken physically for taking on Israel, if you get my gist. What do
+      you think of that? Doctorow: 39:54 I think if he doesn’t do something stupid again,
+      that is not going to happen. What he did stupid was called out on Russian television
+      two weeks ago, when he and J.D. Vance and much of the cabinet took a stroll over
+      to a Washington restaurant to demonstrate how safe Washington is. That was a very
+      stupid thing to do. Vladimir Solovyov’s program mentioned anyone with a bomb among
+      that group of protesters in the restaurant could have ended the US government
+      right then and there. Now, the reason why Mr. Trump, aside from that very strange
+      and inexplicable risk-taking that I just described in that restaurant, Mr. Trump’s
+      best life insurance policy is called JD Vance. 40:45 Nobody in his right mind,
+      among political malefactors, will try to remove Trump knowing that he would be
+      replaced by a man who is still more obnoxious in the opposition to America’s conventional
+      foreign policy than J.D. Vance. Sanchez: Yeah, he’s a non-Neocon. He’s a non-Neocon,
+      right? That’s what you mean, yeah. Doctorow: That’s right. Sanchez: Huh, I’ve
+      never looked at it that way. That’s absolutely fascinating. His best insurance
+      is in fact JD Vance. I got, what I got left in my mind in this feeble little tiny
+      Cuban mind of mine. Why don’t we go to why don’t we go to India? I was fascinated
+      last night. I was obviously watching football because it’s Sunday night in America.
+      But I was fascinated by what Mr. Modi did. Just to all of a sudden call this emergency
+      national address where he told his people, Swadesha, we have to do this. And he
+      didn’t say, don’t go to McDonald’s, don’t go to Burger King, don’t drive a Chevy.
+      But he didn’t have to. I kind of got the gist. He was telling people, don’t buy
+      American products. We’re going to make our own products. We might buy some stuff
+      from the Chinese and the Russians. That was my take. What was yours? Doctorow:
+      42:12 Well, he was just repeating Mahatma Gandhi. This was the basic method, don’t
+      buy British textiles. Buy Indian hand-woven textiles. That’s where it all began.
+      That’s where the Indian liberation movement found its footing. So I think within
+      India, this would have been recognized immediately, that he’s positioning himself
+      in the tradition of Mahatma Gandhi as regards the self-, the production of goods
+      and the purchase of goods within the country. However, that is much easier to
+      recommend than to enforce. Russia has been through this. It was only in wartime
+      conditions of drastic economic sanctions that Russia adapted to that type of policy
+      of import substitution. And, of course, it was furthered by the military prowess
+      on display, which gave a great deal of confidence to Russians that they can make
+      things and do things. 43:25 And that is one of the big points in my book, which
+      you made reference to, _The War Diaries_, which is largely about coming from my
+      visits to Russia at a time when nearly all Western correspondents were not there
+      due to the, first the covid and then to the sanctions imposed on Russia at the
+      start of the special military operation. And what I saw was, step by step, how
+      this was achieved, how there was the making of a nation that had confidence in
+      itself. And I thought back to the 1990s when I was, my wife and I were taking
+      a taxi down the main boulevards of St. Petersburg and the driver said, “And by
+      the way, we Russians make very cute kids, but not such good cars.” That self-deprecation,
+      that inferiority complex, which was well established in the broad Russian public,
+      has evaporated. Sanchez: It has. Doctorow: And there’s great pride in Russia’s
+      ability to produce very good consumer good products. Sanchez: Yeah. Doctorow:
+      And of course to feed itself magnificently as it is doing now. So India has to
+      have a bit more pressure on it for the public to follow Mr. Modi’s advice. Sanchez:
+      I, it’s interesting. So in many ways, what you’re saying is the United States
+      has replaced the British in the mindset of the contemporary situation that we’re
+      undergoing or that India is undergoing right now. If you haven’t had a chance
+      to look at it, I would direct you to go look at my files of this show to my interview
+      with Mr. Solyonov, who was the finance minister of Russia, because he said the
+      very same thing. 45:11 We were having a conversation, he was sitting right here
+      to the right of me, came in to say hi, spent a long interview, and at one point
+      I asked him, I said, “what are you gonna do about McDonald’s?” And he says, we’ve
+      learned to make the burgers and the cheeseburgers and the Big Macs better than
+      theirs, and they ain’t getting them back. So anyway, it was a pride of ownership.
+      I don’t know if you can brag about pride of ownership over a Big Mac or a Juicy
+      Burger, whatever the hell they’re called, but it was interesting to hear him say
+      that. To your point. 45:42 Hey, let’s finish off, doctor, with what can happen
+      in Ukraine. My take watching this and reporting on it and doing interviews on
+      it is that the Europeans have not moved one inch. They’ve not moved one inch in
+      understanding what the positions of the Russians are. I think if they did give
+      the Russians, I don’t know, 60, 75 percent of what they’re asking for, this thing
+      could be done in– this thing could be over in 24 hours. But they haven’t, as far
+      as I can tell. First of all, what do you think of my take on that? And second
+      of all, is there room for movement at some point, maybe post-von der Leyen and
+      Rutte, you know, Merz, Macron, these other people? What do you think? Doctorow:
+      46:41 Well, I think that some kind of patching up between Europe and Russia will
+      take place. I wouldn’t want to put an exact timeline on it, but the logic is compelling,
+      the economic logic. Also, if the locomotive countries have this collapse of the
+      present leadership, that will give further room to the smaller countries to make
+      their own accommodation with Russia. I’m speaking to you from Brussels. I’m a
+      longtime resident in Brussels, long time, meaning more than 40 years. And I’ve
+      seen a few people here and have a sense of how the country is suffering right
+      now economically. 47:23 When you go down the main boulevards at Brussels, you
+      see a lot of vacant retail and restaurants. The economy is suffering. People who
+      are associated with marketing, which is the first budgetary item in all company
+      business to be sacrificed, they tell me that the companies have slashed their
+      marketing budget, which is an indication that Belgium is suffering from the German
+      recession, as are the other smaller countries around Central Europe. These countries
+      will certainly break with the von der Leyen-imposed restrictions and cancel Russia
+      policies — as soon as von der Leyen goes, which could be very soon, and as soon
+      as a country like France has a change of government, which is also very possible.
+      So, but that is a very near term. 48:16 In the medium term, it is so obvious that
+      Europe needs very badly the hydrocarbons, the gas and oil, at affordable prices,
+      which Russia was providing, in order to be, once again, economically competitive
+      in global markets. So, this will patch up. The Russians, that’s for the Russians.
+      I know that many Russians who might listen to this will say I’m wrong, that they
+      have had their fill of Europe. However, my own reading of the situation is that
+      Russia is part of Europe intellectually, culturally, in every way. 48:59 And to
+      say that– to deny that, is to deny the obvious. When I was, again, studying, looking
+      over my diary entries when I was living and working in Russia in the 1990s, in
+      the midst of destitution, the high culture performing arts, museums, symphonies,
+      they were reconstructed, readapted to market conditions and flourished. And they
+      are flourishing today. And let us remember that these high culture institutions,
+      they are European institutions. Russia was an essential contributor to European
+      culture. Therefore, to deny this is to deny the obvious. Of course, they’ll patch
+      up. Sanchez: 49:43 I get a sense. I’ve been here now, I don’t know, four and a
+      half, five months or something like that since I got here and I started covering
+      stories, though I’ve done a lot of traveling, different parts. My sense is, I
+      love what you just said. I think Russians like American culture, but are born
+      of European culture. And they can’t take that suit off. They wear it. It’s visible
+      to me when I see it. So that’s my take, you know, just based on observation. And
+      it comes to me as I hear you say those words. So, wow, what a great interview.
+      You are such a brilliant person. And your thoughts, your ideas are so provoking
+      in so many ways. And it seems like obviously you’re imperfect and so am I and
+      so are we all, but So much of what you have said, doctor, has been on the money
+      in terms of understanding these situations that we’re all embroiled in right now.
+      Thank you so much for being my guest. You’ve been so kind to spend so much time
+      with us talking about these things. I hope to be able to talk to you again. Doctorow:
+      50:57 It was very kind of you to invite me, and I’ve enjoyed this as much as you
+      have. Sanchez: Oh, thank you so much, Dr. Gilbert Doctorow. What a pleasure. What
+      a great author. Buy his books, my God. Listen to that man. That’s it from us.
+      I got a podcast. It’s called Journalistically Speaking because I believe in journalism,
+      because I am a journalist and because I think it’s an important craft and it’s
+      about truth. Also, oh yeah, we’re on X a lot, all over X these days. I mean, I’m
+      also on Apple and Spotify. I’m all over the place, but we do a lot of really good
+      stuff on X, and our crew’s really commanding some unbelievable conversations with
+      you. Thank you for all you do. Thank you for letting us into your home. God bless.
+      51:42 Take care. We’ll see you next time.'
+    one_sentence_summary: In a discussion about the decline of the post-World War II
+      model in Europe, Dr. Gilbert Doctorow reflects on Viktor Orban's assertion that
+      acknowledging this reality is crucial for progress, while also exploring broader
+      historical themes in his extensive body of work.
+    paragraph_summary: In a discussion featuring historian Dr. Gilbert Doctorow, the
+      conversation revolves around Hungarian Prime Minister Viktor Orban's assertion
+      that the post-World War II model of Europe is failing, a sentiment echoed by Doctorow
+      who acknowledges the current administration under Ursula von der Leyen as a significant
+      contributor to this decline. Doctorow suggests that while Orban's critique is
+      valid, the political landscape in Europe may soon shift, as there are ongoing
+      votes of no confidence against von der Leyen, initiated by Orban and his allies.
+      Should von der Leyen be ousted, Doctorow believes her replacement could lead to
+      a more cautious approach in European governance, although he remains uncertain
+      about the overall balance of power within the European Parliament.
+    published: '2025-09-23T05:09:45+00:00'
+  - title: Transcript of ‘Sanchez Effect’ show
+    url: https://gilbertdoctorow.com/2025/09/23/transcript-of-sanchez-effect-show/
+    text: 'Transcript submitted by a reader https://www.mgtow.tv/watch/sanchez-effect-dr-gilbert-doctorow-trump-s-playbook-a-masterclass-in-confusion_DXPcqxRBgbjUY3z.html
+      https://rumble.com/v6zbfxs-sanchez-effect-dr.-gilbert-doctorow-trumps-playbook–masterclass-in-confus.html
+      https://www.youtube.com/watch?v=CroGgJxPEbU Orban: 11:55 (English voice over)
+      Europe, as we knew and loved it, is over. If we deny this, we lose time. If we
+      say it out loud, we gain time. Sanchez: Wow, has the post-World War II model lost
+      its way? Is it too late to get it back? That’s what Orban seemed to be saying,
+      but in stronger words than I just repeated. Our guest today has written countless
+      books on this subject. His books include War Diaries, Stepping Out of Line, Does
+      the U.S. Have a Future, Does Russia Have a Future, and many, many more. Here,
+      historian, international thinker, and writer, Dr. Gilbert Doctorow is good enough
+      to join us. Wow, that was quite a mouthful, not for me, but for Mr. Orban. Lilliputians,
+      bankrupt, wars, they’re finished. Wow. Is he right about Europe, doctor? Doctorow:
+      12:52 Yes and no. Under the present administration of von der Leyen, yes, this
+      is a very apt description. However, she’s not going to remain in power forever.
+      And there are some well-informed members of the European Parliament who have shared
+      with me their view that she may not last six months. It’s also possible she may
+      not last two weeks. There are now pending two votes of no confidence against von
+      der Leyen, one of them initiated precisely by Mr. Orban and his group of deputies
+      in the European Parliament, the Patriots for Europe. These are accusing her of
+      violating the Constitution, of having lack of transparency in the way she governs.
+      So if von der Leyen falls, which is, I wouldn’t say likely, but it’s possible
+      in the near future, then she will be replaced by people who will be far more circumspect.
+      I don’t mean to say that the balance of power within the European Parliament and
+      in the European institutions will change overnight, but it will be on the way
+      towards change, and it can virtually only change for the better. 14:07 As for
+      Europe’s viability, I believe it’s there. But it’s possible only if Europe goes
+      back to where it was in the 1990s as a peace project and not in the new millennium
+      as a war project. Sanchez: 14:22 Let me ask you the question that my editors would
+      ask me when I told them that something is likely to happen and it’s going to be
+      big news. How good are your sources that are telling you that von der Leyen is
+      on the way out? Doctorow: Well, it’s not wild speculation. There were several
+      weeks ago, and I forget, within the last two months, there was a vote of no confidence,
+      which she survived. Sanchez: Yes. Doctorow: But she held on by her fingertips.
+      I understand that there was a one-vote swing, which left her in power. And if
+      the mood has continually deteriorated, with respect to her popularity, standing,
+      credibility in the parliament, then she’ll lose the next vote. As I say, that’s
+      not going to cure all, but it’s a good start, towards cure. And what is at issue
+      is Europe being, as I say, a war project, because it has taken over geopolitics
+      as its uniting factor, whereas in the 1990s it was the economics and cultural
+      dimension which gave Europe unity. Sanchez: 15:28 So essentially it’s become an
+      entity that is into wars, Afghanistan, Belgrade, Iraq, et cetera. It has become
+      aggressive and very tied to the military establishments that surround themselves
+      with that entity. Is that part of what you’re intimating has been their downfall?
+      Doctorow: Exactly. They have made the bogeyman Russia the uniting factor. It is
+      meant to keep in power those who are now ruling Europe. Let’s be frank about it.
+      We’re talking about a very common element of politics, and that is to hold on
+      to the spoils of power at all price. European countries, by and large, are run
+      by coalition governments, which are a formula for corruption and for incompetence,
+      which, corruption and incompetence, are two sides of the same coin. Parties get
+      together for the sake of grabbing and holding power, and they have no consistency
+      in their policies, because they have dealt out to parties with conflicting interests
+      and conflicting programs, ministerial portfolios, to have a majority of seats
+      in the parliaments. So it is a situation where Europe, country by country, will
+      have to reconsider the basis for elections and allocation of a formation of governments.
+      That’s a separate but related issue. Sanchez: But when you hear Orban talk about
+      it, he talks about layoffs and high inflation and wages are really low and migrants
+      all over the place and the populace that’s unhappy. How did that become the overflow
+      product of this situation that you were just describing to us. Did they, you know–
+      there’s an expression in America, as you know, you and I are both Americans. The
+      term is you “take your eye off the ball”. Have they taken their eye off the ball,
+      the people that they’re supposed to serve? Doctorow: Well, it took some time to
+      reach the dismal state they’re in now. As regards the illegal immigrants, refugees,
+      as they were called at the time. This takes us back to 2014, 2015, and the gross
+      mistake of Angela Merkel to open the doors of Europe to these supposedly kind
+      ladies with little children who were fleeing the civil war in Syria. That was
+      a very nice story for the progressive press in Western Europe. It was now quite–
+      lie. And the present Minister of Defense in the Belgian government, Theo Franken,
+      he wrote a very fine book about 2016, _Europe Without Borders_, which described
+      in great detail the fraud that was perpetrated on the European peoples, since
+      it was not nice, kindly ladies with little children who came in. And it was not
+      Syrians as such. It was Afghanis. It was North Africans. It was all kinds of very
+      muscular young men who came as economic refugees, not war refugees. Sanchez: 18:56
+      Before it’s all said and done, before we leave Europe– because I want to ask you
+      about the United States, and I want to ask you about Russia and Ukraine. There’s
+      so many things to talk about, including some of the things that are going on with
+      India and Israel as well, but– maybe the final question when it comes to Europe
+      is, will, if there is a change– and let us suppose that your sources and your
+      sense of things is correct, and your sense of things is usually correct because
+      you’re one of the most respected people in this business– and von der Leyen is
+      out, what are the probabilities that whoever or whatever replaces her in the European
+      power structure will be more level-headed and will not do things like wanting
+      eternal war with Russia and wanting to constantly engage in more and more wars,
+      etc.? What are the chances of that? Doctorow: 19:57 There are several factors
+      here. I started this discussion pointing to the European institutions. The opposition
+      to von der Leyen is partly or even importantly on geopolitical considerations.
+      And that is why it is of greatest interest to myself and to others who are following
+      developments in Europe. This is not the only factor that can bring about change.
+      We have the two locomotive countries from the beginning of the European institutions,
+      that is France and Germany, both are faltering. Both have the possibility of changing
+      government in the foreseeable future, as opposed to the constitutionally recommended
+      periods of service. England also has a very weak government. 20:47 So, if you
+      put together the possibility the fall of Macron, he has royal powers under the
+      French Constitution, but even royalty can find itself on the way out, even if
+      they’re not facing a guillotine. The government of Macron is hanging by a hair.
+      And if he cannot maintain his own position, then there will be a change, a dramatic
+      change in France, which will bear upon the overall geopolitical stance of Europe.
+      In Germany, Mr. Merz looks very solid. He was very proud that in the West German
+      Laender, the states, federal states of Germany, had elections in the last 10 days.
+      His party held its own. However, his coalition partner, that is the socialist
+      SPD, they lost significantly to the Right parties of the Alternative fur Deutschland.
+      Sanchez: Or Russian. Doctorow: If you lose your coalition, then you lose your
+      government. Sanchez: Yeah. Doctorow: And you’re out and have to face elections.
+      And he will not survive a new election in Germany, because he’s very unpopular,
+      as became apparent after he took office. So it is possible in both of these locomotive
+      countries of the European Union that there will be changes of government in the
+      foreseeable future, all of which would promote and redirect the European institutions,
+      because these countries are leaders within the European Council, which is the
+      second executive body alongside the commission within Europe. Sanchez: 22:27 Yeah,
+      all three of them have horrible approval numbers, by the way. I mean, not just
+      horrible, dismal, like in the low 20s. And by the way, just to make sure I heard
+      you correct, you said that Macron is not hanging by a thread, but hanging by a
+      head? Doctorow: Hanging by a hair, well, might as well say by a thread, yes. Sanchez:
+      Okay, I was thinking of French history there for just a moment. Good line either
+      way. Let’s talk our country, the United States of America. What gives? I can’t
+      help but look at the situation and scratch my head in a different place every
+      day. I’m going to give myself a sore trying to figure out what is the intent?
+      What is the actual strategy? Have you figured it out? Doctorow: Well, I have.
+      I’ve paid a price in terms of the general public reading my works or listening
+      to me. I’m doing better these days than, say, six months ago. Six months ago,
+      I was called an apologist for Putin. Now I’m called an apologist for Trump. I
+      suppose that’s progress. The point is that I see logic in Mr. Trump in what he
+      does, not what he says. What he says is intended to confuse, to keep all of his
+      opponents both domestically and foreign, off balance, and to avoid their coming
+      at him with a hatchet. So he has successfully confused many of my peers in alternative
+      media. Sanchez: Including me. Including me. Hands up over here, by the way. Doctorow:
+      They point to the contradictions as if he is mindless and does what is proposed
+      to him by the last person to whisper in his ear. I absolutely [disagree] with
+      that. He has his priorities and his direction. His first priority is establishing
+      some normal relationship with Russia for a number of reasons, which we probably
+      don’t have time to discuss, but they are rational, rational logic to this. And
+      he is doing what he can in very difficult circumstances. By that I mean he is
+      surrounded by opponents to his policy. The Congress basically is opposed to his
+      policy of some kind of normalization with Russia. And of course, Europe is now
+      all against it and has, in the last week, launched yet another program to draw
+      to its side Mr. Trump. 25:06 And I mean now this discussion of the drone attacks
+      on Poland, Romania; and the Estonian complaints that Russian fighter jets violated
+      their airspace. All of this is nonsense. If you want to go back to basics, what
+      those drones were, whether it was possible at all to fly across the Baltic without
+      violating NATO space, given the realities of the narrowness of the Baltic Sea
+      and the countries lining it, being NATO members. In any case, my point is that
+      the Russians have been described as aggressors in the last week, all in an attempt
+      to turn Mr. Trump around. Well, they won’t. The man is not for turning, but he
+      is for lying, for deceiving, and for giving hope to his enemies that he will do
+      what they want, which he will not. So it is a waiting game. The message that I
+      see from Mr. Trump to Mr. Putin is to get it over with quickly. That is the message.
+      Sanchez: 26:18 I’m wondering, in hearing you say that about Mr. Trump, whether
+      you believe—and I think this is important, so let me just try and get it on the
+      record from you, because a lot of people heard you mention as an aside what just
+      happened with Poland, and I haven’t quite even figured it out. Do you think it’s
+      a canard, a red herring? Do you think it’s just errant drones that suddenly may
+      or may not have been the fault of Russia that ended up in Polish airspace? And
+      should we not then ask ourselves if Russia was really interested in doing something
+      with Poland or to Poland, which I don’t think they are. I think they have no interest
+      in Poland or Europe, who would? They would have done it full force, not with three
+      or four errant drones. 27:10 That’s just what I’m thinking, not necessarily as
+      a studied journalist on this issue who’s talked to sources, but rather as somebody
+      who just looks at it and says, this doesn’t make sense to me. What’s your take?
+      Doctorow: Well, to go back to the beginning, my own understanding of what was
+      happening has changed over the last 10 days or so, as new information came out
+      and as new accusations against Russia came on. Initially it looked like this was,
+      these were drones sent by Ukraine into Polish territory for the sake of provoking
+      a Russia-Polish war, and which would immediately become a broader Russia-NATO
+      war, moving from proxy to genuine kinetic war. That was over, that was bypassed
+      by further information. First of all, we learned from Polish authorities, Polish
+      news sources, that Belarus had communicated with the Polish military while those
+      drones were flying over Belarus territory informing the– well, I have posted the
+      links to the Polish news agencies– giving the Poles time to act. If Russia were
+      the source of these, of the [drones] it is excluded totally that Belarus would
+      be communicating information to warn them. Sanchez: They’re allies with Russia.
+      Doctorow: We have to [assume]. 28:40 Secondly, people have done research into
+      what the drones were. They were found to be not kamikaze drones, but the type
+      of drone that Russia has used in swarm attacks on various Ukrainian sites. These
+      are to attract or distract the air defenses from the primary attack drones and
+      missiles. It was known that the Ukrainians had been collecting downed drones of
+      this variety. And they did. Some of them do go down by electronic warfare they’re
+      brought down, and or they crash. And since they had no explosives, which was the
+      important fact, they would just fall and break up. They could be reassembled,
+      were reassembled by the Ukrainians for use in this contingency. All of that was
+      defined at the level of a Ukraine-Polish interaction. However, the plot had thickened
+      in the last week or so; then there were the so-called attacks on Romania, further
+      aggravating the case against Russia as an aggressor. And now we have the culmination
+      in the last few days, the supposed violation of Estonian airspace by Russian military
+      jets. Well, we have to look at the timing of all of this. All of this comes in
+      the middle or at the end of Zapad 25, the West 25 military exercises of Belarus
+      and Russia with very large-scale participation, more than 100, 000 Russian soldiers
+      in action, sites all over the place from Murmansk in the north, down to the southwest
+      of Russia, and in the [Baltic Sea]. 30:30 This of course was an important event
+      staged in part to show the military prowess of Russia to the 25 visiting delegations,
+      many of them Global South, prospective security partners of Russia and purchasers
+      of Russia military hardware. Now, the West reacted. How did they react? By this
+      canard, as you called it, false flag activity, which has a number of objectives.
+      One of them has been to call for united Ukrainian, Polish dash NATO action, securing
+      a wall against Russian drones using Ukrainian technology and hardware to help
+      the West European countries defend themselves against Russian drones. 31:24 At
+      a price less than what happened in this Polish incident, where the Poles sent
+      aloft fighter jets that cost several million euros each, that fire missiles that
+      cost $500,000 each to down drones that cost $20,000 each. So this was one big
+      end result of all of these various efforts, starting with the false flag drone
+      attack on Poland. And now it reached the highest level in the case of the Estonian
+      charges meant to influence Donald Trump. Sanchez: That’s amazing. The explanation
+      that you just gave is the best that I’ve heard since I’ve been watching this situation.
+      And I’m here in Moscow. And sometimes, you know, things get muddy because a lot
+      of people talk at once. But in the end, the takeaway from all of this is Russia
+      was flexing its muscle, doing military exercises and inviting global south countries
+      and countries from all over the world. They probably would have been happy to
+      see even NATO countries come. Here’s what we got. We’ll be happy to show you.
+      You can buy it if you want, for the right amount of money. 32:38 NATO, EU, that
+      power structure saw what Russia was doing and said, we have to create a distraction.
+      We have to create, as you said, a false flag. We have to create something to make
+      people think that Russia is actually getting ready to invade Europe. If Biden
+      had been president, he would have held a news conference and said, “We’ve got
+      to be on the alert because Russia is getting ready to invade Europe.” Instead,
+      we heard it from Rutte, but we didn’t hear it from Donald Trump. Going back to
+      your original point, maybe Donald Trump is a little smarter than we give him credit
+      for. Doctorow: I think he has good advisors. In the memorial service for Charlie
+      Kirk yesterday, we had a good glimpse of what kind of advisors and what quality
+      advisors Trump has had around him. And that is first quality. That is an extraordinarily
+      capable man of great intelligence, who obviously was providing to Trump the information
+      on what is going on at American universities, since he traversed the country many
+      times each year and had installed his Turning Point units in 2,000 American universities
+      and colleges. That is on that domain. I believe he had similar competence in his
+      advisors for foreign policy and what is going on in Russia. I have taken issue
+      with my peers and intelligence experts who appear on some very widely known programs
+      based in Washington and elsewhere, and who keep on insisting that Trump is in
+      the dark. He’s not in the dark at all. We’re more likely in the dark than he’s
+      in the dark. Sanchez: 34:13 So you’re talking about Jeffrey Sachs and Mearsheimer
+      and Ritter and Napolitano and Daniels and some of these guys who are wonderful
+      people, by the way, really good communicators, great shows, but they tend to lean
+      on the side that Trump’s getting really, really bad information and he should
+      have made Macgregor his defense secretary. Doctorow: Well, I won’t make any comments
+      on Macgregor, who iss obviously a very competent and experienced man, but I’m
+      not sure I would like to see him as the defense minister. As regards Mr. Sachs,
+      I would put him apart from the other men you’ve mentioned, because he is a globalist.
+      And that is something that everybody who praises him for his wonderful stance
+      on US foreign policy and its violations of international law, they ignore the
+      fact that Jeffrey Sachs is a backer of globalism, which is the reason why the
+      United States is such a violator of international law. Sanchez: 35:13 Can we talk
+      Israel for a little bit? Canada, UK, Australia came out today and said they recognize
+      officially Palestine as a state. I’m wondering whether they know that they’d already
+      done that during the Oslo Accord, or at least that was my reading of it, so [I’m]
+      kind of shocked that everybody’s making such a big deal out of it. So I guess
+      my question to you, is it a big deal? Doctorow: 35:38 Well, it cannot be a big
+      deal if no one is taking any action against Israel to prevent the annexation of
+      the West Bank. I think that’s a much bigger deal than these countries coming out
+      and acknowledging the non-existent Palestinian government. There is no government.
+      It’s a nice statement. It is certainly hurtful to Israel, but it does not contribute
+      to ending the genocide in Gaza or to downing Mr. Netanyahu. I think a much more
+      important development in the last couple of days, was the Pakistan-Saudi agreement,
+      a mutual defense, which, if I were sitting in West Jerusalem in Israeli offices,
+      I would be much more worried about. 36:27 That gives to the Gulf states, and to
+      one Gulf state in particular, Saudi Arabia, finally an equalizer to Israel and
+      its nuclear weapons. Sanchez: That’s a great point. Everybody talks about the
+      Israel situation in Gaza. Everybody criticizes what Israel is doing, and by everybody
+      I mean everybody but the United States and a few others. But nobody ever can definitively
+      say that any of this, no matter how ruffian Israel may appear, is going to eventually
+      affect them in a negative way. I alluded to this earlier, I think you heard me
+      say, props to Netanyahu, he basically is thumbing his nose at the rest of the
+      world and said, “I don’t care what you think, and I don’t care what you say about
+      me.” My tendency is then to ask you, what can they do to him? What can happen
+      to him? How can he be affected by any of this? Doctorow: 37:32 None of the great
+      powers [has] taken any significant action against Israel, and that is China, it
+      is Russia. Sanchez: Right. Doctorow: And I understand why. If the neighbors, if
+      the Gulf states do nothing, except jawbone, then there is no room for outside
+      powers to come in and do something. So that is the real state, the real situation.
+      As for Mr. Trump, since I’ve said some very positive things about him, I’d like
+      to put the negative side. This is a balance, of course. The negative side is his
+      support for Israel, which enables the genocide, and not only the genocide. For
+      example, the very widely discussed Israeli attack on Qatar. Yes, as I understand,
+      it was enabled by American refueling of their jets, not a small detail. 38:32
+      The problem here is that Mr. Trump lives in a world that he didn’t make in Washington,
+      and there are certain rules that he is stuck with. And one is not to go against
+      the pro-Zionist Congress. If he were to act out of conscience and take any measures
+      against Netanyahu and the genocide, he would be politically broken the next day.
+      Therefore, in a world that has both good and evil in it, you have to make compromises.
+      Mr. Trump has compromised on relations with Israel, and he is seeking to accomplish
+      something on a global level by putting aside the risk of a war with Russia. Sanchez:
+      39:23 There are those who say, and I only mention this because it’s become part
+      of the national conversation these days in the United States, that what you just
+      said is true, but actually worse. Mr. Trump would not be broken politically, to
+      use your words, as a result of taking on Israel in the United States. He could
+      actually be broken physically for taking on Israel, if you get my gist. What do
+      you think of that? Doctorow: 39:54 I think if he doesn’t do something stupid again,
+      that is not going to happen. What he did stupid was called out on Russian television
+      two weeks ago, when he and J.D. Vance and much of the cabinet took a stroll over
+      to a Washington restaurant to demonstrate how safe Washington is. That was a very
+      stupid thing to do. Vladimir Solovyov’s program mentioned anyone with a bomb among
+      that group of protesters in the restaurant could have ended the US government
+      right then and there. Now, the reason why Mr. Trump, aside from that very strange
+      and inexplicable risk-taking that I just described in that restaurant, Mr. Trump’s
+      best life insurance policy is called JD Vance. 40:45 Nobody in his right mind,
+      among political malefactors, will try to remove Trump knowing that he would be
+      replaced by a man who is still more obnoxious in the opposition to America’s conventional
+      foreign policy than J.D. Vance. Sanchez: Yeah, he’s a non-Neocon. He’s a non-Neocon,
+      right? That’s what you mean, yeah. Doctorow: That’s right. Sanchez: Huh, I’ve
+      never looked at it that way. That’s absolutely fascinating. His best insurance
+      is in fact JD Vance. I got, what I got left in my mind in this feeble little tiny
+      Cuban mind of mine. Why don’t we go to why don’t we go to India? I was fascinated
+      last night. I was obviously watching football because it’s Sunday night in America.
+      But I was fascinated by what Mr. Modi did. Just to all of a sudden call this emergency
+      national address where he told his people, Swadesha, we have to do this. And he
+      didn’t say, don’t go to McDonald’s, don’t go to Burger King, don’t drive a Chevy.
+      But he didn’t have to. I kind of got the gist. He was telling people, don’t buy
+      American products. We’re going to make our own products. We might buy some stuff
+      from the Chinese and the Russians. That was my take. What was yours? Doctorow:
+      42:12 Well, he was just repeating Mahatma Gandhi. This was the basic method, don’t
+      buy British textiles. Buy Indian hand-woven textiles. That’s where it all began.
+      That’s where the Indian liberation movement found its footing. So I think within
+      India, this would have been recognized immediately, that he’s positioning himself
+      in the tradition of Mahatma Gandhi as regards the self-, the production of goods
+      and the purchase of goods within the country. However, that is much easier to
+      recommend than to enforce. Russia has been through this. It was only in wartime
+      conditions of drastic economic sanctions that Russia adapted to that type of policy
+      of import substitution. And, of course, it was furthered by the military prowess
+      on display, which gave a great deal of confidence to Russians that they can make
+      things and do things. 43:25 And that is one of the big points in my book, which
+      you made reference to, _The War Diaries_, which is largely about coming from my
+      visits to Russia at a time when nearly all Western correspondents were not there
+      due to the, first the covid and then to the sanctions imposed on Russia at the
+      start of the special military operation. And what I saw was, step by step, how
+      this was achieved, how there was the making of a nation that had confidence in
+      itself. And I thought back to the 1990s when I was, my wife and I were taking
+      a taxi down the main boulevards of St. Petersburg and the driver said, “And by
+      the way, we Russians make very cute kids, but not such good cars.” That self-deprecation,
+      that inferiority complex, which was well established in the broad Russian public,
+      has evaporated. Sanchez: It has. Doctorow: And there’s great pride in Russia’s
+      ability to produce very good consumer good products. Sanchez: Yeah. Doctorow:
+      And of course to feed itself magnificently as it is doing now. So India has to
+      have a bit more pressure on it for the public to follow Mr. Modi’s advice. Sanchez:
+      I, it’s interesting. So in many ways, what you’re saying is the United States
+      has replaced the British in the mindset of the contemporary situation that we’re
+      undergoing or that India is undergoing right now. If you haven’t had a chance
+      to look at it, I would direct you to go look at my files of this show to my interview
+      with Mr. Solyonov, who was the finance minister of Russia, because he said the
+      very same thing. 45:11 We were having a conversation, he was sitting right here
+      to the right of me, came in to say hi, spent a long interview, and at one point
+      I asked him, I said, “what are you gonna do about McDonald’s?” And he says, we’ve
+      learned to make the burgers and the cheeseburgers and the Big Macs better than
+      theirs, and they ain’t getting them back. So anyway, it was a pride of ownership.
+      I don’t know if you can brag about pride of ownership over a Big Mac or a Juicy
+      Burger, whatever the hell they’re called, but it was interesting to hear him say
+      that. To your point. 45:42 Hey, let’s finish off, doctor, with what can happen
+      in Ukraine. My take watching this and reporting on it and doing interviews on
+      it is that the Europeans have not moved one inch. They’ve not moved one inch in
+      understanding what the positions of the Russians are. I think if they did give
+      the Russians, I don’t know, 60, 75 percent of what they’re asking for, this thing
+      could be done in– this thing could be over in 24 hours. But they haven’t, as far
+      as I can tell. First of all, what do you think of my take on that? And second
+      of all, is there room for movement at some point, maybe post-von der Leyen and
+      Rutte, you know, Merz, Macron, these other people? What do you think? Doctorow:
+      46:41 Well, I think that some kind of patching up between Europe and Russia will
+      take place. I wouldn’t want to put an exact timeline on it, but the logic is compelling,
+      the economic logic. Also, if the locomotive countries have this collapse of the
+      present leadership, that will give further room to the smaller countries to make
+      their own accommodation with Russia. I’m speaking to you from Brussels. I’m a
+      longtime resident in Brussels, long time, meaning more than 40 years. And I’ve
+      seen a few people here and have a sense of how the country is suffering right
+      now economically. 47:23 When you go down the main boulevards at Brussels, you
+      see a lot of vacant retail and restaurants. The economy is suffering. People who
+      are associated with marketing, which is the first budgetary item in all company
+      business to be sacrificed, they tell me that the companies have slashed their
+      marketing budget, which is an indication that Belgium is suffering from the German
+      recession, as are the other smaller countries around Central Europe. These countries
+      will certainly break with the von der Leyen-imposed restrictions and cancel Russia
+      policies — as soon as von der Leyen goes, which could be very soon, and as soon
+      as a country like France has a change of government, which is also very possible.
+      So, but that is a very near term. 48:16 In the medium term, it is so obvious that
+      Europe needs very badly the hydrocarbons, the gas and oil, at affordable prices,
+      which Russia was providing, in order to be, once again, economically competitive
+      in global markets. So, this will patch up. The Russians, that’s for the Russians.
+      I know that many Russians who might listen to this will say I’m wrong, that they
+      have had their fill of Europe. However, my own reading of the situation is that
+      Russia is part of Europe intellectually, culturally, in every way. 48:59 And to
+      say that– to deny that, is to deny the obvious. When I was, again, studying, looking
+      over my diary entries when I was living and working in Russia in the 1990s, in
+      the midst of destitution, the high culture performing arts, museums, symphonies,
+      they were reconstructed, readapted to market conditions and flourished. And they
+      are flourishing today. And let us remember that these high culture institutions,
+      they are European institutions. Russia was an essential contributor to European
+      culture. Therefore, to deny this is to deny the obvious. Of course, they’ll patch
+      up. Sanchez: 49:43 I get a sense. I’ve been here now, I don’t know, four and a
+      half, five months or something like that since I got here and I started covering
+      stories, though I’ve done a lot of traveling, different parts. My sense is, I
+      love what you just said. I think Russians like American culture, but are born
+      of European culture. And they can’t take that suit off. They wear it. It’s visible
+      to me when I see it. So that’s my take, you know, just based on observation. And
+      it comes to me as I hear you say those words. So, wow, what a great interview.
+      You are such a brilliant person. And your thoughts, your ideas are so provoking
+      in so many ways. And it seems like obviously you’re imperfect and so am I and
+      so are we all, but So much of what you have said, doctor, has been on the money
+      in terms of understanding these situations that we’re all embroiled in right now.
+      Thank you so much for being my guest. You’ve been so kind to spend so much time
+      with us talking about these things. I hope to be able to talk to you again. Doctorow:
+      50:57 It was very kind of you to invite me, and I’ve enjoyed this as much as you
+      have. Sanchez: Oh, thank you so much, Dr. Gilbert Doctorow. What a pleasure. What
+      a great author. Buy his books, my God. Listen to that man. That’s it from us.
+      I got a podcast. It’s called Journalistically Speaking because I believe in journalism,
+      because I am a journalist and because I think it’s an important craft and it’s
+      about truth. Also, oh yeah, we’re on X a lot, all over X these days. I mean, I’m
+      also on Apple and Spotify. I’m all over the place, but we do a lot of really good
+      stuff on X, and our crew’s really commanding some unbelievable conversations with
+      you. Thank you for all you do. Thank you for letting us into your home. God bless.
+      51:42 Take care. We’ll see you next time.'
+    one_sentence_summary: In a discussion about the decline of the post-World War II
+      model in Europe, Dr. Gilbert Doctorow reflects on Viktor Orban's assertion that
+      acknowledging this reality is crucial for progress, while also exploring broader
+      historical themes in his extensive body of work.
+    paragraph_summary: In a discussion featuring historian Dr. Gilbert Doctorow, the
+      conversation revolves around Hungarian Prime Minister Viktor Orban's assertion
+      that the post-World War II model of Europe is failing, a sentiment echoed by Doctorow
+      who acknowledges the current administration under Ursula von der Leyen as a significant
+      contributor to this decline. Doctorow suggests that while Orban's critique is
+      valid, the political landscape in Europe may soon shift, as there are ongoing
+      votes of no confidence against von der Leyen, initiated by Orban and his allies.
+      Should von der Leyen be ousted, Doctorow believes her replacement could lead to
+      a more cautious approach in European governance, although he remains uncertain
+      about the overall balance of power within the European Parliament.
+    published: '2025-09-23T05:09:45+00:00'
+  - title: RT International:  Sanchez Effect – Dr Gilbert Doctorow – “Trump’s playbook,
+      a master class in confusion”
+    url: https://gilbertdoctorow.com/2025/09/22/rt-international-sanchez-effect-dr-gilbert-doctorow-trumps-playbook-a-master-class-in-confusion/
+    text: https://www.mgtow.tv/watch/sanchez-effect-dr-gilbert-doctorow-trump-s-playbook-a-masterclass-in-confusion_DXPcqxRBgbjUY3z.html
+      Today’s wide-ranging discussion on one of RT’s most popular interview programs
+      will no doubt raise hackles among those who seek conformism in independent media
+      even as they reject the conformism of mainstream. After all, I dare to question
+      here the consistency of thinking of Jeffrey Sachs, the most eloquent critic of
+      U.S. foreign policy who at the same time, in his role as economist, is an unapologetic
+      Globalist, and Globalism is an instrument of American hegemony which breeds the
+      violence that Sachs condemns. But then again, I take a lesson from the honorable
+      Charlie Kirk who promoted debate and sought truth wherever it led him. Truth,
+      after all, is not a popularity contest. I take my hat off to RT International
+      for its encouragement of diversity. The interview begins at minute 12 and runs
+      to the end at 52 minutes. The topics discussed include Modi’s call upon his citizenry
+      to “buy Indian,” Trump’s prioritization of normalizing relations with Russia in
+      his foreign policy, Trump’s support for Netanyahu’s genocide in Gaza, the key
+      importance for the Middle East of the Pakistani-Saudi mutual defense agreement
+      announced late last week, phony Western accusations of Russian aggression involving
+      the overflight of Estonian air space late last week and the drone attacks on Poland
+      two weeks ago
+    one_sentence_summary: In a thought-provoking interview on RT, Dr. Gilbert Doctorow
+      critiques the inconsistencies in Jeffrey Sachs' views on U.S. foreign policy and
+      Globalism, while emphasizing the importance of diverse perspectives in independent
+      media.
+    paragraph_summary: The article discusses a recent interview on RT featuring Dr.
+      Gilbert Doctorow, who critiques the inconsistencies in Jeffrey Sachs' views on
+      U.S. foreign policy and Globalism, which he argues perpetuates the violence Sachs
+      condemns. The conversation covers various topics, including Indian Prime Minister
+      Modi's economic nationalism, Trump's foreign policy focus on improving relations
+      with Russia, his support for Israel amidst the Gaza conflict, and the significance
+      of a new defense agreement between Pakistan and Saudi Arabia for the Middle East.
+      Additionally, it touches on Western accusations of Russian aggression related
+      to recent incidents involving Estonia and Poland. The author appreciates RT's
+      commitment to diverse viewpoints, contrasting it with the conformism found in
+      both mainstream and some independent media.
+    published: '2025-09-22T18:57:10+00:00'
+  - title: RT International:  Sanchez Effect – Dr Gilbert Doctorow – “Trump’s playbook,
+      a master class in confusion”
+    url: https://gilbertdoctorow.com/2025/09/22/rt-international-sanchez-effect-dr-gilbert-doctorow-trumps-playbook-a-master-class-in-confusion/
+    text: https://www.mgtow.tv/watch/sanchez-effect-dr-gilbert-doctorow-trump-s-playbook-a-masterclass-in-confusion_DXPcqxRBgbjUY3z.html
+      Today’s wide-ranging discussion on one of RT’s most popular interview programs
+      will no doubt raise hackles among those who seek conformism in independent media
+      even as they reject the conformism of mainstream. After all, I dare to question
+      here the consistency of thinking of Jeffrey Sachs, the most eloquent critic of
+      U.S. foreign policy who at the same time, in his role as economist, is an unapologetic
+      Globalist, and Globalism is an instrument of American hegemony which breeds the
+      violence that Sachs condemns. But then again, I take a lesson from the honorable
+      Charlie Kirk who promoted debate and sought truth wherever it led him. Truth,
+      after all, is not a popularity contest. I take my hat off to RT International
+      for its encouragement of diversity. The interview begins at minute 12 and runs
+      to the end at 52 minutes. The topics discussed include Modi’s call upon his citizenry
+      to “buy Indian,” Trump’s prioritization of normalizing relations with Russia in
+      his foreign policy, Trump’s support for Netanyahu’s genocide in Gaza, the key
+      importance for the Middle East of the Pakistani-Saudi mutual defense agreement
+      announced late last week, phony Western accusations of Russian aggression involving
+      the overflight of Estonian air space late last week and the drone attacks on Poland
+      two weeks ago
+    one_sentence_summary: In a thought-provoking interview on RT, Dr. Gilbert Doctorow
+      critiques the inconsistencies in Jeffrey Sachs' views on U.S. foreign policy and
+      Globalism, while emphasizing the importance of diverse perspectives in independent
+      media.
+    paragraph_summary: The article discusses a recent interview on RT featuring Dr.
+      Gilbert Doctorow, who critiques the inconsistencies in Jeffrey Sachs' views on
+      U.S. foreign policy and Globalism, which he argues perpetuates the violence Sachs
+      condemns. The conversation covers various topics, including Indian Prime Minister
+      Modi's economic nationalism, Trump's foreign policy focus on improving relations
+      with Russia, his support for Israel amidst the Gaza conflict, and the significance
+      of a new defense agreement between Pakistan and Saudi Arabia for the Middle East.
+      Additionally, it touches on Western accusations of Russian aggression related
+      to recent incidents involving Estonia and Poland. The author appreciates RT's
+      commitment to diverse viewpoints, contrasting it with the conformism found in
+      both mainstream and some independent media.
+    published: '2025-09-22T18:57:10+00:00'
+  - title: Transcript of Press TV panel discussion, 19 September
+    url: https://gilbertdoctorow.com/2025/09/20/transcript-of-press-tv-panel-discussion-19-september/
+    text: 'Transcript submitted by a reader http://www.urmedium.net/c/presstv/134610
+      Bardia Honardar, PressTV: 0:04 Hello and welcome to “Spotlight”. The UN Security
+      Council has rejected a bid to keep sanctions relief for Iran, paving the way for
+      renewed UN sanctions within days. Iran has slammed the move, calling any attempt
+      by the European trio to reimpose sanctions baseless and a direct assault on international
+      law. Iran’s ambassador to the UN, Amir Saeedi Ravani, emphasized that in a striking
+      display of hypocrisy, the European trio and the US claim that Tehran must be punished
+      for the reciprocal measures it took years after enduring violations by the other
+      side. The three European countries triggered the snapback process last month,
+      accusing Iran of breaching its obligations under the 2015 nuclear deal. That mechanism
+      will expire on October the 18th. 0:54 And if no deal is reached by September 28th,
+      international sanctions suspended under the nuclear deal will automatically return.
+      Allow me to introduce my guests for tonight’s show. Security and political analyst
+      Avi Rizk, joining us from the Lebanese capital Beirut. And we also have independent
+      international affairs analyst Gilbert Doctorow joining us from Brussels. 1:25
+      Gentlemen, welcome to the program. Let’s start off with Mr. Rizk in Beirut. Iran’s
+      ambassador to the UN, Amir Said Ravani, said today’s action was hasty, unnecessary
+      and unlawful. The Iranian foreign minister also highlighted that the push to revive
+      sanctions lacked consensus and faced serious opposition from several council members.
+      What were your expectations for today’s session, Mr. Risk? Rizk: 1:51 I think
+      that the expectations were that indeed that this measure wouldn’t pass and that
+      the sanctions are going to be implemented or imposed. In fact, the French president
+      Emmanuel Macron said as much during an interview with Israeli television when
+      he was asked about this topic. He was asked, are you certain, I think, that the
+      sanctions are going to impose? He responded in the affirmative. So I don’t think
+      it comes as a big surprise. And I think that a lot of it’s related to European
+      animosity towards Iran, specifically over Russia. In other words, there’s a lot
+      of hostility and animosity between the Europeans and the Russians over Ukraine.
+      And we know that Iran has drawn closer to Russia in recent years. 2:41 And so
+      that’s made Iran more of an enemy in Europe’s eyes. I think that is one or possibly
+      the major factor, not the only one, but a major factor behind the European approach
+      to Iran and the fact that they’ve decided to impose these sanctions. PressTV:
+      Gilbert Doctorow, Iran’s ambassador to the UN said any attempt by the European
+      trio to reimpose sanctions is baseless and a direct assault on international law
+      and the Council’s credibility. Give us your perspective on this route that the
+      E3 decided to pursue ultimately. Doctorow: 3:20 I believe that the underlying
+      reasons for this action have nothing to do with Iran. I agree with the remarks
+      of my fellow panelist that they are to be understood in reference to Europe’s
+      positions on Russia. And this action against Iran is in its own way similar to
+      Donald Trump’s attacks on boats in the Caribbean, allegedly coming from Venezuela
+      and carrying narcotics. This is the action of a bully, a cowardly bully, who looks
+      for a weak spot to flex his muscles and show his strength. And that is what the
+      European Troika is doing. They are picking on Iran because they don’t have the
+      guts to go directly after Russia. That’s what it’s all about. PressTV: All right,
+      Ali Rizk, China and Russia who backed today’s proposal, they condemned further
+      sanctions on Tehran as counterproductive, illegal and invalid. They also released
+      a joint statement regarding the anti-Iran sanctions. The two countries said that
+      the reinstatement of the sanctions [was] illegal. They will not comply with or
+      abide by these renewed sanctions. So break down the response from China and Russia.
+      What message do you think this sends to the other side, to those who are pushing
+      for the renewal of the sanctions and for cranking up pressure on Iran? Rizk: 5:01
+      Well, I think it was very clear during the recent summits which were held in Beijing,
+      if you remember, Chinese President Xi Jinping hosting a number of world leaders,
+      including Russian President Vladimir Putin, also Iranian President Masoud Pazhashkian,
+      and the North Korean leader Kim Jong-un. I think that this show– by the way, another
+      very important development during that summit, perhaps the most important, was
+      the participation of the Indian Prime Minister Modi. I think that was a major,
+      major development. So I think that that particular summit showed that there’s
+      a emerging block which is taking shape. And the reason why I focused on India
+      is that India’s traditionally seemed to be on the Western or in the Western camp.
+      But what happened in Beijing, I think, proved that something different is taking
+      shape, because I think of Trump’s own policies. 6:02 And I also believe that this
+      also brings me to another important issue. For example, India didn’t commit to
+      the sanctions which were imposed on Russia. That’s why Trump chose to increase
+      the tariffs. But that just goes to tell you that even if the Western camp doesn’t
+      tend to increase the maximum pressure on Iran, a lot of the countries aren’t going
+      to commit to that, regardless of this resolution or regardless of the European
+      intentions to reactivate the snapback mechanism. So China and Russia, yes they
+      won’t commit to it, but I think also countries like India, it’s quite possible
+      that they might not also commit to it. 6:47 So this era of Western hegemony and
+      the West being able to impose its own will, I think that slowly is breaking down.
+      And I think Trump’s policies, by the way, are speeding up the process of it breaking
+      down. So yes, it is considered to be, I think, an escalatory step, but I think
+      that other countries do have their own incentives to try and stop or limit how
+      effective these measures will be, not just for the sake of Iran, I think, but
+      also because they want to prove their own points that there’s a new world order
+      which is emerging, and that the US can no longer use these sanctions in such a
+      way. PressTV: 7:31 And Mr. Doctorow, about the reactions and responses coming
+      in following the UN Security Council session, if you’d like to add anything to
+      China and Russia’s response. Also, Pakistan said invoking snapback complicates
+      the situation. Iran’s cooperation with the IAEA could be an area which gets complicated.
+      Doctorow: I subscribe completely to the remarks of my fellow panelist. We respect
+      the positions of China and Russia on the snapback. I just remember that going
+      back 10 years, the Russians and other countries that had been subjected to sanctions
+      went along with the dictat coming from the United States and its allies to impose
+      sanctions on a country X, Y, and Z. That game is over, and it has been declared
+      invalid from the highest possible point, that is Russia and China. 8:39 And for
+      that reason, the notion that a Gemini is unraveled, or has unraveled already,
+      and cannot be put back in place is a very important development to which we are
+      witnesses. Having said that, of course I appreciate that imposing or reimposing
+      sanctions on Iran will be very painful for your country. And I am hopeful that
+      understanding in places like Russia and China will enable mitigation of the pain
+      that the troika in Europe intend to impose. Let us also consider that they’re
+      acting in the hope, one more action in the hope of currying favor with Donald
+      Trump. Trump, of course, is much tougher on Iran than he dares to be on Russia.
+      So this is a situation in which Iran is an unwilling victim and a innocent victim,
+      one can say. It is being punched for the simple reason that those who are imposing
+      these sanctions believe that they can do to Iran what they cannot do to a country
+      like Russia. And then that is sad. PressTV: So Mr. Rizk, Gilbert Doctorow believes
+      that the trail leads back to Russia. Iran’s foreign minister, however, he has
+      accused the European Troika, France, Germany and the UK of colluding with Israel
+      and the United States to maliciously pressure the Iranian people. Your reaction
+      to that accusation, and do you agree with the Iranian foreign minister? Rizk:
+      10:34 I think that part of it is about the United States, but again, I think the
+      Europeans have their own hostility towards Iran, which is separate than the issue
+      of the United States. And it wouldn’t be the first time, by the way. If you go
+      back to when Obama wanted to reach the agreement or when he did reach the agreement
+      with Iran, France objected strongly initially. It was the most hawkish player
+      out of all of the G5-plus-1. And at the initial phase, it obstructed the American
+      efforts, Obama’s efforts to reach an agreement. This time around, I think that
+      the European stance is even more hawkish, as I said, due to the developments that
+      have taken place between Iran and Russia. By that, I mean the closer ties between
+      the two countries. But regarding Israel, I think that’s an interesting point.
+      And this brings me to the issue of the European intentions to recognize a Palestinian
+      state. And we hear now about potential European sanctions against Israel. 11:36
+      Now I think possibly, possibly, the Europeans, in order to satisfy the Israelis,
+      they might be following the strategy in such a way, in the following way, that
+      we recognize a Palestinian state, we might sanction some Israeli right-wing figures,
+      but at the same time, we impose sanctions against Iran. That way, they might make
+      up for Israel. So they take some anti-Israeli measures on the one hand, but they
+      make up for that by escalating against Iran. And I think many Western countries
+      do pursue these kinds of policies in order to gain the satisfaction of Israel,
+      because Israel still, I think, wields enormous influence over political decision
+      making in the West. PressTV: 12:25 Gilbert Doctorow, along the lines of the same
+      issue, a guest that we spoke to earlier here following today’s UN Security Council
+      session said that there is a constant effort to undermine Iran at every turn.
+      Please tell us whether you agree with that or not; and who benefits from this?
+      Doctorow: Well the beneficiary of course is Israel. Any restrictions on Iran that
+      cause economic harm, any restrictions that cause a weakening of some sort in the
+      military capabilities of Iran all serve the purposes of Israel. As regards Israeli
+      influence on this decision, I’m rather skeptical. The decision to reimpose or
+      use this snapback, I’m rather skeptical that they played any significant role.
+      I still say the issues are more on the United States, currying favor with the
+      United States, and doing to Iran what they would like to do to Russia, but don’t
+      have the ability or the force of will to do. PressTV: 13:40 Sure. And Ali Rizk,
+      just chronologically looking at everything that led up to the situation we are
+      right now, the E3, they also severely failed in carrying out their obligations
+      under the JCPOA. So what about all of Europe’s shortcomings in the implementation
+      of the nuclear deal? And why did Iran have to do all the heavy lifting all these
+      years? Why has Iran always been the one to shoulder the responsibility of keeping
+      the JCPOA afloat? Rizk: Well, I think that’s been the issue all along. I have
+      to emphasize here, I must slightly disagree with my colleague. I still think Israel
+      wields enormous influence over the West, and I think this goes a long way in giving
+      an answer to what you just asked. PressTV: Absolutely. Rizk: Israel is viewed
+      as a natural ally of the West, of Europe and of the United States, and as a result
+      of Israel being viewed as this natural ally, that leads to these double standards
+      which you just referred to. The Europeans weren’t able to live up to their own
+      pledges of the deal simply because Trump introduced this mechanism of secondary
+      sanctions, meaning that if the EU were to continue with business deals with Iran
+      after the US withdrew under Trump, they would be subject to sanctions. And I think
+      the EU economies are just too weak to withstand that. But again, I think the major,
+      the basic point is that Israel continues to be viewed despite everything which
+      is happening and the horrors of Gaza, it’s still viewed as a natural Western ally,
+      and that’s translated into these policies which appear to be illogical and place
+      all of the onus on Iran without looking at how other parties have not lived up
+      to their commitments or pledges. PressTV: 15:42 Mr. Doctorow, would you like to
+      respond to that? Doctorow: Well, if we look at this old question of the smaller
+      devil and the bigger devil, the smaller devil being Israel and the bigger devil
+      being the United States, I put my money on the bigger devil. This is– what we
+      are now engaged in, my fellow panelists and myself, is a debate over whether Israel
+      is the tail wagging the dog or whether the head is wagging the tail. I opt for
+      the head wagging the tail. Israel does what the United States wants. And it’s
+      not because Israel dominates the United States, but because the United States
+      dominates, or can dominate Israel, if and when, at any moment, it wants to. Everyone
+      knows full well that the moment the United States pulls the plug on its economic
+      support to Israel, Israel will fold. So the situation is a bit different from
+      my perspective from the presentation that Israel is calling the shots and the
+      United States falls into line. PressTV: All right, and staying with you, Mr. Doctorow,
+      Iran has been calling out a serious double standard here, where Tehran has demonstrated
+      its peaceful intentions, pointing to years of cooperation with the IAEA and the
+      transparency it has shown under the NPT. But Israel, which is carrying out a genocide
+      as we speak, it possesses nuclear weapons without scrutiny, and Iran here is being
+      punished for its civilian nuclear technology. Doctorow: 17:24 Well, unfortunately,
+      the world we’re living in has more than double standards to worry about. It is
+      very sad that the Gulf states have done nothing to save the Palestinians and to
+      put pressure, military pressure, as well as political pressure, on Israel to desist.
+      That is the world we live in. It’s a much more complicated world than we have
+      been discussing till now. And it is regrettable that none of the great powers
+      can move in. It’s logical they can’t move in if the neighbors of Israel and Palestine
+      are doing nothing other than Iran. Iran is very active. The Houthis are very active.
+      But the rest of the region is quiet. PressTV: And same question to you Mr. Rizk
+      about this double standard and hypocrisy that we’re seeing with regards to the
+      Israeli regime. Rizk: 18:25 If you just give me a minute to respond to that point,
+      I know we’re going off script here, but I have to emphasize that the recent strike
+      on Doha, Qatar, the Israeli attack, I think that proves in my humble opinion beyond
+      any doubt that it’s Israel which directs US policy in the way it wishes more than
+      the other way around. I’m not saying it dominates or it always decides, but it
+      does have significant influence. Look at the pro-Israeli lobby, look at the evangelicals,
+      and the US, it can, if it pulls the plug on economic aid to Israel, yes, Israel
+      wouldn’t survive. But I don’t think that there’s any US president who has the
+      political will to do so, because of the dangers that would expose. The strike
+      on Qatar, you’re talking about Centcom, the base of Centcom. Now how that strike
+      serves American interests, I fail to see. 19:22 Regarding the double standards,
+      look, again, this is standard Western policy. There are certain players which
+      are signified as national allies. [4 sec. no sound] And that’s the way the policies
+      are pursued, despite the fact that this sometimes is contradictory to Western
+      interests, but they continue to pursue that. And it seems to want to be rather
+      illogical, not based on any strategic or rational calculations. PressTV: 19:56
+      Gilbert Doctorow, let’s talk about the credibility of the United Nations Security
+      Council in its entirety as well. Do you think that the Security Council is a body
+      for peace, or is it the exact opposite? Because we have to also allude to the
+      constant resolutions for a ceasefire in Gaza that have been vetoed at the Security
+      Council. Doctorow: There’s no question that the UN Security Council is not functioning
+      as designed. But it was always from the very beginning intended to be a place
+      of dispute and failure to resolve issues. That was foreseen when the veto was
+      given to the permanent members. So I don’t see a very great deterioration in the
+      efficacy of UN resolutions or in the actions of the Security Council itself. The
+      Security Council is a talking body. And it is a place where some debates of importance
+      take place, which can be useful for informing the broad public across the world.
+      However, when matters are critical, as they are in the Palestinian issue, on the
+      issue of Iran today, we can expect that the various interests work against any
+      effective resolution. That’s where we are today. And I’ll say the issue is in
+      the region, and the region is doing nothing. PressTV: 21:45 Okay, final question
+      to Mr. Rizk. Same issue about the United Nations Security Council. Do you think
+      there’s a big question mark over the credibility of the likes of the UNSC? Is
+      it a force for good or is it a force to stifle good? Rizk: I’m not sure if we
+      can say it’s a force for good or a force for evil. The UN Security Council, it’s
+      a result of World War Two, basically, whereby you have the most powerful countries
+      that emerge after World War II, which have veto power. Each country, yesterday
+      for example, it turned out to be a force of sheer evil when the US used that veto
+      against the resolution regarding genocide, which is taking place in [Gaza]. So
+      there are certain powers who exercise their own domination if you would like,
+      in order to push through their own policies. And I think that more and more we’re
+      approaching the law of the jungle, if you would like, outside the framework of
+      the UN. One very good example of that is not only the genocide in Gaza, but also
+      what the guests referred to, the current US campaign against Venezuela, the attack
+      on boats and fishermen, which is happening. Also how the George Bush administration
+      launched the war on terror without going back to the Security Council. So I think
+      that quite some time, the UN Security Council has been only able to do so much.
+      PressTV: 23:16 All right, thank you, gentlemen. We’re going to leave it there.
+      Security and political analyst Avi Rizk, joining us from Beirut. And independent
+      international affairs analyst Gilbert Doctorow, joining us from Brussels. Than
+      you, gentlemen, and a special thanks to you our viewers for staying with us on
+      tonight’s edition of “Spotlight”. It’s good night for now. We’ll see you next
+      time.'
+    one_sentence_summary: The UN Security Council has rejected Iran's request for sanctions
+      relief, leading to the potential reinstatement of international sanctions, which
+      Iran has condemned as a hypocritical violation of international law by the European
+      trio and the US.
+    paragraph_summary: The UN Security Council has rejected a proposal to extend sanctions
+      relief for Iran, leading to the imminent reinstatement of UN sanctions. Iran has
+      condemned this decision as unfounded and a violation of international law, with
+      its UN ambassador criticizing the hypocrisy of the European trio and the US for
+      seeking to punish Iran for actions taken in response to prior violations of the
+      nuclear deal by other parties. The snapback mechanism, initiated by the three
+      European nations last month due to alleged Iranian breaches of the 2015 nuclear
+      agreement, is set to expire on October 18, and if no agreement is reached by September
+      28, the sanctions will automatically return. Analysts on a recent program discussed
+      the implications of this development, with expectations leaning towards the imposition
+      of sanctions as indicated by French President Emmanuel Macron.
+    published: '2025-09-20T16:40:44+00:00'
+  - title: Transcript of Press TV panel discussion, 19 September
+    url: https://gilbertdoctorow.com/2025/09/20/transcript-of-press-tv-panel-discussion-19-september/
+    text: 'Transcript submitted by a reader http://www.urmedium.net/c/presstv/134610
+      Bardia Honardar, PressTV: 0:04 Hello and welcome to “Spotlight”. The UN Security
+      Council has rejected a bid to keep sanctions relief for Iran, paving the way for
+      renewed UN sanctions within days. Iran has slammed the move, calling any attempt
+      by the European trio to reimpose sanctions baseless and a direct assault on international
+      law. Iran’s ambassador to the UN, Amir Saeedi Ravani, emphasized that in a striking
+      display of hypocrisy, the European trio and the US claim that Tehran must be punished
+      for the reciprocal measures it took years after enduring violations by the other
+      side. The three European countries triggered the snapback process last month,
+      accusing Iran of breaching its obligations under the 2015 nuclear deal. That mechanism
+      will expire on October the 18th. 0:54 And if no deal is reached by September 28th,
+      international sanctions suspended under the nuclear deal will automatically return.
+      Allow me to introduce my guests for tonight’s show. Security and political analyst
+      Avi Rizk, joining us from the Lebanese capital Beirut. And we also have independent
+      international affairs analyst Gilbert Doctorow joining us from Brussels. 1:25
+      Gentlemen, welcome to the program. Let’s start off with Mr. Rizk in Beirut. Iran’s
+      ambassador to the UN, Amir Said Ravani, said today’s action was hasty, unnecessary
+      and unlawful. The Iranian foreign minister also highlighted that the push to revive
+      sanctions lacked consensus and faced serious opposition from several council members.
+      What were your expectations for today’s session, Mr. Risk? Rizk: 1:51 I think
+      that the expectations were that indeed that this measure wouldn’t pass and that
+      the sanctions are going to be implemented or imposed. In fact, the French president
+      Emmanuel Macron said as much during an interview with Israeli television when
+      he was asked about this topic. He was asked, are you certain, I think, that the
+      sanctions are going to impose? He responded in the affirmative. So I don’t think
+      it comes as a big surprise. And I think that a lot of it’s related to European
+      animosity towards Iran, specifically over Russia. In other words, there’s a lot
+      of hostility and animosity between the Europeans and the Russians over Ukraine.
+      And we know that Iran has drawn closer to Russia in recent years. 2:41 And so
+      that’s made Iran more of an enemy in Europe’s eyes. I think that is one or possibly
+      the major factor, not the only one, but a major factor behind the European approach
+      to Iran and the fact that they’ve decided to impose these sanctions. PressTV:
+      Gilbert Doctorow, Iran’s ambassador to the UN said any attempt by the European
+      trio to reimpose sanctions is baseless and a direct assault on international law
+      and the Council’s credibility. Give us your perspective on this route that the
+      E3 decided to pursue ultimately. Doctorow: 3:20 I believe that the underlying
+      reasons for this action have nothing to do with Iran. I agree with the remarks
+      of my fellow panelist that they are to be understood in reference to Europe’s
+      positions on Russia. And this action against Iran is in its own way similar to
+      Donald Trump’s attacks on boats in the Caribbean, allegedly coming from Venezuela
+      and carrying narcotics. This is the action of a bully, a cowardly bully, who looks
+      for a weak spot to flex his muscles and show his strength. And that is what the
+      European Troika is doing. They are picking on Iran because they don’t have the
+      guts to go directly after Russia. That’s what it’s all about. PressTV: All right,
+      Ali Rizk, China and Russia who backed today’s proposal, they condemned further
+      sanctions on Tehran as counterproductive, illegal and invalid. They also released
+      a joint statement regarding the anti-Iran sanctions. The two countries said that
+      the reinstatement of the sanctions [was] illegal. They will not comply with or
+      abide by these renewed sanctions. So break down the response from China and Russia.
+      What message do you think this sends to the other side, to those who are pushing
+      for the renewal of the sanctions and for cranking up pressure on Iran? Rizk: 5:01
+      Well, I think it was very clear during the recent summits which were held in Beijing,
+      if you remember, Chinese President Xi Jinping hosting a number of world leaders,
+      including Russian President Vladimir Putin, also Iranian President Masoud Pazhashkian,
+      and the North Korean leader Kim Jong-un. I think that this show– by the way, another
+      very important development during that summit, perhaps the most important, was
+      the participation of the Indian Prime Minister Modi. I think that was a major,
+      major development. So I think that that particular summit showed that there’s
+      a emerging block which is taking shape. And the reason why I focused on India
+      is that India’s traditionally seemed to be on the Western or in the Western camp.
+      But what happened in Beijing, I think, proved that something different is taking
+      shape, because I think of Trump’s own policies. 6:02 And I also believe that this
+      also brings me to another important issue. For example, India didn’t commit to
+      the sanctions which were imposed on Russia. That’s why Trump chose to increase
+      the tariffs. But that just goes to tell you that even if the Western camp doesn’t
+      tend to increase the maximum pressure on Iran, a lot of the countries aren’t going
+      to commit to that, regardless of this resolution or regardless of the European
+      intentions to reactivate the snapback mechanism. So China and Russia, yes they
+      won’t commit to it, but I think also countries like India, it’s quite possible
+      that they might not also commit to it. 6:47 So this era of Western hegemony and
+      the West being able to impose its own will, I think that slowly is breaking down.
+      And I think Trump’s policies, by the way, are speeding up the process of it breaking
+      down. So yes, it is considered to be, I think, an escalatory step, but I think
+      that other countries do have their own incentives to try and stop or limit how
+      effective these measures will be, not just for the sake of Iran, I think, but
+      also because they want to prove their own points that there’s a new world order
+      which is emerging, and that the US can no longer use these sanctions in such a
+      way. PressTV: 7:31 And Mr. Doctorow, about the reactions and responses coming
+      in following the UN Security Council session, if you’d like to add anything to
+      China and Russia’s response. Also, Pakistan said invoking snapback complicates
+      the situation. Iran’s cooperation with the IAEA could be an area which gets complicated.
+      Doctorow: I subscribe completely to the remarks of my fellow panelist. We respect
+      the positions of China and Russia on the snapback. I just remember that going
+      back 10 years, the Russians and other countries that had been subjected to sanctions
+      went along with the dictat coming from the United States and its allies to impose
+      sanctions on a country X, Y, and Z. That game is over, and it has been declared
+      invalid from the highest possible point, that is Russia and China. 8:39 And for
+      that reason, the notion that a Gemini is unraveled, or has unraveled already,
+      and cannot be put back in place is a very important development to which we are
+      witnesses. Having said that, of course I appreciate that imposing or reimposing
+      sanctions on Iran will be very painful for your country. And I am hopeful that
+      understanding in places like Russia and China will enable mitigation of the pain
+      that the troika in Europe intend to impose. Let us also consider that they’re
+      acting in the hope, one more action in the hope of currying favor with Donald
+      Trump. Trump, of course, is much tougher on Iran than he dares to be on Russia.
+      So this is a situation in which Iran is an unwilling victim and a innocent victim,
+      one can say. It is being punched for the simple reason that those who are imposing
+      these sanctions believe that they can do to Iran what they cannot do to a country
+      like Russia. And then that is sad. PressTV: So Mr. Rizk, Gilbert Doctorow believes
+      that the trail leads back to Russia. Iran’s foreign minister, however, he has
+      accused the European Troika, France, Germany and the UK of colluding with Israel
+      and the United States to maliciously pressure the Iranian people. Your reaction
+      to that accusation, and do you agree with the Iranian foreign minister? Rizk:
+      10:34 I think that part of it is about the United States, but again, I think the
+      Europeans have their own hostility towards Iran, which is separate than the issue
+      of the United States. And it wouldn’t be the first time, by the way. If you go
+      back to when Obama wanted to reach the agreement or when he did reach the agreement
+      with Iran, France objected strongly initially. It was the most hawkish player
+      out of all of the G5-plus-1. And at the initial phase, it obstructed the American
+      efforts, Obama’s efforts to reach an agreement. This time around, I think that
+      the European stance is even more hawkish, as I said, due to the developments that
+      have taken place between Iran and Russia. By that, I mean the closer ties between
+      the two countries. But regarding Israel, I think that’s an interesting point.
+      And this brings me to the issue of the European intentions to recognize a Palestinian
+      state. And we hear now about potential European sanctions against Israel. 11:36
+      Now I think possibly, possibly, the Europeans, in order to satisfy the Israelis,
+      they might be following the strategy in such a way, in the following way, that
+      we recognize a Palestinian state, we might sanction some Israeli right-wing figures,
+      but at the same time, we impose sanctions against Iran. That way, they might make
+      up for Israel. So they take some anti-Israeli measures on the one hand, but they
+      make up for that by escalating against Iran. And I think many Western countries
+      do pursue these kinds of policies in order to gain the satisfaction of Israel,
+      because Israel still, I think, wields enormous influence over political decision
+      making in the West. PressTV: 12:25 Gilbert Doctorow, along the lines of the same
+      issue, a guest that we spoke to earlier here following today’s UN Security Council
+      session said that there is a constant effort to undermine Iran at every turn.
+      Please tell us whether you agree with that or not; and who benefits from this?
+      Doctorow: Well the beneficiary of course is Israel. Any restrictions on Iran that
+      cause economic harm, any restrictions that cause a weakening of some sort in the
+      military capabilities of Iran all serve the purposes of Israel. As regards Israeli
+      influence on this decision, I’m rather skeptical. The decision to reimpose or
+      use this snapback, I’m rather skeptical that they played any significant role.
+      I still say the issues are more on the United States, currying favor with the
+      United States, and doing to Iran what they would like to do to Russia, but don’t
+      have the ability or the force of will to do. PressTV: 13:40 Sure. And Ali Rizk,
+      just chronologically looking at everything that led up to the situation we are
+      right now, the E3, they also severely failed in carrying out their obligations
+      under the JCPOA. So what about all of Europe’s shortcomings in the implementation
+      of the nuclear deal? And why did Iran have to do all the heavy lifting all these
+      years? Why has Iran always been the one to shoulder the responsibility of keeping
+      the JCPOA afloat? Rizk: Well, I think that’s been the issue all along. I have
+      to emphasize here, I must slightly disagree with my colleague. I still think Israel
+      wields enormous influence over the West, and I think this goes a long way in giving
+      an answer to what you just asked. PressTV: Absolutely. Rizk: Israel is viewed
+      as a natural ally of the West, of Europe and of the United States, and as a result
+      of Israel being viewed as this natural ally, that leads to these double standards
+      which you just referred to. The Europeans weren’t able to live up to their own
+      pledges of the deal simply because Trump introduced this mechanism of secondary
+      sanctions, meaning that if the EU were to continue with business deals with Iran
+      after the US withdrew under Trump, they would be subject to sanctions. And I think
+      the EU economies are just too weak to withstand that. But again, I think the major,
+      the basic point is that Israel continues to be viewed despite everything which
+      is happening and the horrors of Gaza, it’s still viewed as a natural Western ally,
+      and that’s translated into these policies which appear to be illogical and place
+      all of the onus on Iran without looking at how other parties have not lived up
+      to their commitments or pledges. PressTV: 15:42 Mr. Doctorow, would you like to
+      respond to that? Doctorow: Well, if we look at this old question of the smaller
+      devil and the bigger devil, the smaller devil being Israel and the bigger devil
+      being the United States, I put my money on the bigger devil. This is– what we
+      are now engaged in, my fellow panelists and myself, is a debate over whether Israel
+      is the tail wagging the dog or whether the head is wagging the tail. I opt for
+      the head wagging the tail. Israel does what the United States wants. And it’s
+      not because Israel dominates the United States, but because the United States
+      dominates, or can dominate Israel, if and when, at any moment, it wants to. Everyone
+      knows full well that the moment the United States pulls the plug on its economic
+      support to Israel, Israel will fold. So the situation is a bit different from
+      my perspective from the presentation that Israel is calling the shots and the
+      United States falls into line. PressTV: All right, and staying with you, Mr. Doctorow,
+      Iran has been calling out a serious double standard here, where Tehran has demonstrated
+      its peaceful intentions, pointing to years of cooperation with the IAEA and the
+      transparency it has shown under the NPT. But Israel, which is carrying out a genocide
+      as we speak, it possesses nuclear weapons without scrutiny, and Iran here is being
+      punished for its civilian nuclear technology. Doctorow: 17:24 Well, unfortunately,
+      the world we’re living in has more than double standards to worry about. It is
+      very sad that the Gulf states have done nothing to save the Palestinians and to
+      put pressure, military pressure, as well as political pressure, on Israel to desist.
+      That is the world we live in. It’s a much more complicated world than we have
+      been discussing till now. And it is regrettable that none of the great powers
+      can move in. It’s logical they can’t move in if the neighbors of Israel and Palestine
+      are doing nothing other than Iran. Iran is very active. The Houthis are very active.
+      But the rest of the region is quiet. PressTV: And same question to you Mr. Rizk
+      about this double standard and hypocrisy that we’re seeing with regards to the
+      Israeli regime. Rizk: 18:25 If you just give me a minute to respond to that point,
+      I know we’re going off script here, but I have to emphasize that the recent strike
+      on Doha, Qatar, the Israeli attack, I think that proves in my humble opinion beyond
+      any doubt that it’s Israel which directs US policy in the way it wishes more than
+      the other way around. I’m not saying it dominates or it always decides, but it
+      does have significant influence. Look at the pro-Israeli lobby, look at the evangelicals,
+      and the US, it can, if it pulls the plug on economic aid to Israel, yes, Israel
+      wouldn’t survive. But I don’t think that there’s any US president who has the
+      political will to do so, because of the dangers that would expose. The strike
+      on Qatar, you’re talking about Centcom, the base of Centcom. Now how that strike
+      serves American interests, I fail to see. 19:22 Regarding the double standards,
+      look, again, this is standard Western policy. There are certain players which
+      are signified as national allies. [4 sec. no sound] And that’s the way the policies
+      are pursued, despite the fact that this sometimes is contradictory to Western
+      interests, but they continue to pursue that. And it seems to want to be rather
+      illogical, not based on any strategic or rational calculations. PressTV: 19:56
+      Gilbert Doctorow, let’s talk about the credibility of the United Nations Security
+      Council in its entirety as well. Do you think that the Security Council is a body
+      for peace, or is it the exact opposite? Because we have to also allude to the
+      constant resolutions for a ceasefire in Gaza that have been vetoed at the Security
+      Council. Doctorow: There’s no question that the UN Security Council is not functioning
+      as designed. But it was always from the very beginning intended to be a place
+      of dispute and failure to resolve issues. That was foreseen when the veto was
+      given to the permanent members. So I don’t see a very great deterioration in the
+      efficacy of UN resolutions or in the actions of the Security Council itself. The
+      Security Council is a talking body. And it is a place where some debates of importance
+      take place, which can be useful for informing the broad public across the world.
+      However, when matters are critical, as they are in the Palestinian issue, on the
+      issue of Iran today, we can expect that the various interests work against any
+      effective resolution. That’s where we are today. And I’ll say the issue is in
+      the region, and the region is doing nothing. PressTV: 21:45 Okay, final question
+      to Mr. Rizk. Same issue about the United Nations Security Council. Do you think
+      there’s a big question mark over the credibility of the likes of the UNSC? Is
+      it a force for good or is it a force to stifle good? Rizk: I’m not sure if we
+      can say it’s a force for good or a force for evil. The UN Security Council, it’s
+      a result of World War Two, basically, whereby you have the most powerful countries
+      that emerge after World War II, which have veto power. Each country, yesterday
+      for example, it turned out to be a force of sheer evil when the US used that veto
+      against the resolution regarding genocide, which is taking place in [Gaza]. So
+      there are certain powers who exercise their own domination if you would like,
+      in order to push through their own policies. And I think that more and more we’re
+      approaching the law of the jungle, if you would like, outside the framework of
+      the UN. One very good example of that is not only the genocide in Gaza, but also
+      what the guests referred to, the current US campaign against Venezuela, the attack
+      on boats and fishermen, which is happening. Also how the George Bush administration
+      launched the war on terror without going back to the Security Council. So I think
+      that quite some time, the UN Security Council has been only able to do so much.
+      PressTV: 23:16 All right, thank you, gentlemen. We’re going to leave it there.
+      Security and political analyst Avi Rizk, joining us from Beirut. And independent
+      international affairs analyst Gilbert Doctorow, joining us from Brussels. Than
+      you, gentlemen, and a special thanks to you our viewers for staying with us on
+      tonight’s edition of “Spotlight”. It’s good night for now. We’ll see you next
+      time.'
+    one_sentence_summary: The UN Security Council has rejected Iran's request for sanctions
+      relief, leading to the potential reinstatement of international sanctions, which
+      Iran has condemned as a hypocritical violation of international law by the European
+      trio and the US.
+    paragraph_summary: The UN Security Council has rejected a proposal to extend sanctions
+      relief for Iran, leading to the imminent reinstatement of UN sanctions. Iran has
+      condemned this decision as unfounded and a violation of international law, with
+      its UN ambassador criticizing the hypocrisy of the European trio and the US for
+      seeking to punish Iran for actions taken in response to prior violations of the
+      nuclear deal by other parties. The snapback mechanism, initiated by the three
+      European nations last month due to alleged Iranian breaches of the 2015 nuclear
+      agreement, is set to expire on October 18, and if no agreement is reached by September
+      28, the sanctions will automatically return. Analysts on a recent program discussed
+      the implications of this development, with expectations leaning towards the imposition
+      of sanctions as indicated by French President Emmanuel Macron.
+    published: '2025-09-20T16:40:44+00:00'
+  - title: 'Press TV (Iran): Snapback mechanism – UNSC Meeting on anti-Iran Sanctions'
+    url: https://gilbertdoctorow.com/2025/09/20/press-tv-iran-snapback-mechanism-unsc-meeting-on-anti-iran-sanctions/
+    text: The focus of this panel discussion was the meeting just held in the United
+      Nations Security Council at which three European signatories to the 2015 Iran
+      Nuclear Deal (JCPOA), France, the U.K. and Germany, effectively set the way for
+      reimposition of harsh sanctions against Iran, claiming that Teheran was in violation
+      of the conditions of the JCPOA as regards inspections of its nuclear facilities
+      and other measures to ensure that it was not enriching uranium to weapons grade.
+      This means that international sanctions on Iran will automatically return in October.
+       However, China and Russia have both declared that they will not apply sanctions
+      on Iran, whatever others may do. My fellow panelist in this program was Beirut-based
+      Ali Rizk, a Security and Political analyst who clearly is well informed on the
+      issues and provided stimulating commentary that I partially agreed with. We disagreed
+      principally on who was the greater influencer of the European decision – Israel
+      or the United States. Rizk suggests that the European Troika decided to reinstate
+      sanctions on Iran as an offset to their recognition of the Palestinian State.
+      We both believe that the reimposition of sanctions has little or nothing to do
+      with what Iran has done. We both see this affair as relating to the Russia-Ukraine
+      war, whether because Europe is punishing Iran for its support to Russia (Rizk)
+      or because for the cowardly European (and U.S.) bullies, it is easier and safer
+      to pick on Iran than to go head-to-head against Russia in a military confrontation.
+      http://www.urmedium.net/c/presstv/134610
+    one_sentence_summary: The panel discussion centered on the recent UN Security Council
+      meeting where France, the U.K., and Germany moved towards reinstating sanctions
+      on Iran for alleged violations of the 2015 nuclear deal, while China and Russia
+      opposed such measures, leading to a debate on the influence of Israel versus the
+      U.S. on European decisions.
+    paragraph_summary: The panel discussion centered on a recent United Nations Security
+      Council meeting where France, the U.K., and Germany, the three European signatories
+      of the 2015 Iran Nuclear Deal (JCPOA), indicated their intent to reimpose strict
+      sanctions on Iran, citing violations related to nuclear inspections and uranium
+      enrichment. As a result, international sanctions on Iran are set to automatically
+      return in October, although China and Russia have pledged not to enforce these
+      sanctions. The discussion featured insights from Ali Rizk, a Beirut-based political
+      analyst, who debated the influences behind the European decision, suggesting it
+      was linked to their recognition of the Palestinian State, while also noting that
+      the sanctions are more reflective of the geopolitical tensions stemming from the
+      Russia-Ukraine war. Both panelists agreed that the sanctions are not primarily
+      about Iran's actions but rather a strategic move by Europe and the U.S. to avoid
+      confronting Russia directly.
+    published: '2025-09-20T12:02:05+00:00'
+  - title: 'Press TV (Iran): Snapback mechanism – UNSC Meeting on anti-Iran Sanctions'
+    url: https://gilbertdoctorow.com/2025/09/20/press-tv-iran-snapback-mechanism-unsc-meeting-on-anti-iran-sanctions/
+    text: The focus of this panel discussion was the meeting just held in the United
+      Nations Security Council at which three European signatories to the 2015 Iran
+      Nuclear Deal (JCPOA), France, the U.K. and Germany, effectively set the way for
+      reimposition of harsh sanctions against Iran, claiming that Teheran was in violation
+      of the conditions of the JCPOA as regards inspections of its nuclear facilities
+      and other measures to ensure that it was not enriching uranium to weapons grade.
+      This means that international sanctions on Iran will automatically return in October.
+       However, China and Russia have both declared that they will not apply sanctions
+      on Iran, whatever others may do. My fellow panelist in this program was Beirut-based
+      Ali Rizk, a Security and Political analyst who clearly is well informed on the
+      issues and provided stimulating commentary that I partially agreed with. We disagreed
+      principally on who was the greater influencer of the European decision – Israel
+      or the United States. Rizk suggests that the European Troika decided to reinstate
+      sanctions on Iran as an offset to their recognition of the Palestinian State.
+      We both believe that the reimposition of sanctions has little or nothing to do
+      with what Iran has done. We both see this affair as relating to the Russia-Ukraine
+      war, whether because Europe is punishing Iran for its support to Russia (Rizk)
+      or because for the cowardly European (and U.S.) bullies, it is easier and safer
+      to pick on Iran than to go head-to-head against Russia in a military confrontation.
+      http://www.urmedium.net/c/presstv/134610
+    one_sentence_summary: The panel discussion centered on the recent UN Security Council
+      meeting where France, the U.K., and Germany moved towards reinstating sanctions
+      on Iran for alleged violations of the 2015 nuclear deal, while China and Russia
+      opposed such measures, leading to a debate on the influence of Israel versus the
+      U.S. on European decisions.
+    paragraph_summary: The panel discussion centered on a recent United Nations Security
+      Council meeting where France, the U.K., and Germany, the three European signatories
+      of the 2015 Iran Nuclear Deal (JCPOA), indicated their intent to reimpose strict
+      sanctions on Iran, citing violations related to nuclear inspections and uranium
+      enrichment. As a result, international sanctions on Iran are set to automatically
+      return in October, although China and Russia have pledged not to enforce these
+      sanctions. The discussion featured insights from Ali Rizk, a Beirut-based political
+      analyst, who debated the influences behind the European decision, suggesting it
+      was linked to their recognition of the Palestinian State, while also noting that
+      the sanctions are more reflective of the geopolitical tensions stemming from the
+      Russia-Ukraine war. Both panelists agreed that the sanctions are not primarily
+      about Iran's actions but rather a strategic move by Europe and the U.S. to avoid
+      confronting Russia directly.
+    published: '2025-09-20T12:02:05+00:00'
+  - title: Transcript of conversation with Glenn Diesen,18 September
+    url: https://gilbertdoctorow.com/2025/09/20/transcript-of-conversation-with-glenn-diesen18-september/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=OsAk2E2YWl0
+      Diesen: 0:00 Hi everyone and welcome back. We are joined today by Gilbert Doctorow,
+      historian, international affairs analyst, and also author of _War Diaries: the
+      Russia-Ukraine War_. So welcome back to the program. Doctorow: Well, very good
+      to be with you. Diesen: So China, they used to be a leading power in the world
+      for a few thousands of years until the mid-19th century when they were defeated
+      by the British and they went from being the leading power to a country pillaged
+      and purged by others, great powers. So this is what the Chinese refer to as a
+      century of humiliation from the mid-19th century to the mid-20th. 0:44 Now, we’ve
+      had now Europeans being quite powerful for some would put it as 500 years, if
+      not dominant. And it appears that Europe is falling down pretty quickly. That
+      is some concern that Europe might be entering its own century of humiliation.
+      I’m not sure how you see the situation, what is going on in Europe these days,
+      because one can look at the security problems, one can look at the economics not
+      going well, the political stability, but in the overarching picture, one gets
+      the impression that Europe no longer has a seat at the table, but it’s looking
+      at the risk of becoming mere pieces moved across a board. How do you see the situation
+      of Europe at the moment? Doctorow: It is lamentable. And for a number of reasons,
+      a number of dimensions, the ones that you touched upon, of course, are highly
+      relevant. The question that we discussed in the weeks gone by was the low level,
+      low political intelligence, the low level of competence, which is very distressing.
+      I’m speaking now of the leadership. There’s 25 of the 27 member states of the
+      European Union plus the United Kingdom where you have the same display of very
+      low level people running the show. Institutions that were built, but I’m thinking
+      now of the European institutions, going back to the 1990s, when you had brilliant
+      socialist-minded, let’s be open about it, intellectuals like Jacques Delors who
+      were working to create a united Europe, a future-looking Europe, a harmonized
+      Europe, and they created institutions without paying– to my understanding today–
+      without paying enough attention to balance of powers and to ensuring a genuine
+      democracy. They assumed that people like themselves, highly intelligent, highly
+      educated, well-meaning, outgoing, would succeed them. And here’s where there’s
+      a great fallacy. We had institutions in Europe which can be abused and which violate
+      all the principles of democracy. And that’s what we have today, when someone like
+      von der Leyen has grabbed all the power, and around her there is silence. 3:19
+      And there’s reason for the silence. Sadly, it comes from the way that the European
+      institutions were engineered in the early new millennium to sacrifice the sovereignty
+      of individual member states. That was done consciously to the point where, as
+      one former Belgian prime minister said publicly, the level of power of a head
+      of state in Europe today is equivalent to the powers of a mayor in the past. Now
+      that is bad enough within Europe. What we see currently, what is particularly,
+      say discouraging, is that Europe as a whole has given up its sovereignty, not
+      just individual member states passing to Brussels decision-making, which had in
+      the past been at this national level, but the whole of Europe has given up sovereignty
+      to the United States, in the hope of buying off Trump and ensuring the backing,
+      the military defense backing of the United States for Europe against Russia, since
+      all of these gentlemen and ladies were scared out of their boots at the start
+      of the Special Military Operation, when they realized, very correctly, that they
+      had no armies, that they had no air defense, that they were totally at the mercy
+      of Russia if the United States did not step in and provide all of the equipment
+      that Europe doesn’t have to protect Europe. 5:14 So that is the present situation.
+      That explains the economic damage that we see as well. Because in sacrificing
+      everything to keep Mr. Trump on board, the leaders of Europe have compromised
+      the future prosperity of the whole continent. Diesen: 5:41 The French, though,
+      for a long time, for many years, they talked about the prospect of a common army
+      as a reason for the point of integrating Europe. And they called for greater autonomy
+      from the United States, again, something that they did all the way since the 1990s.
+      They did recognize that if they wanted stability, they would have to find a role
+      for Russia in Europe, not simply say that they have to stand on the sideline even
+      though they’re the largest country and they shouldn’t have a say. So they seemed
+      to recognize all the right things. But these days, they seem to have gone a bit
+      off the rails. They no longer pursue a clear policy of strategic autonomy or European
+      independence. And how do you see the political crisis raging now in France? Because
+      it’s hardly stable. Is this rooted in economics or is it internal politics? Is
+      it a security issue? How can we understand these tremendous changes? Doctorow:
+      6:51 There are fragile governments in the locomotive countries of Europe, both
+      France and Germany, and in the now outsider, but still very important partner
+      in European defense in the UK. All three countries have fragile situations, but
+      they are fragile largely for domestic reasons. Domestic fight for power, for banned
+      policies that are unpopular and have brought down, in the case of France, brought
+      down several governments and probably will soon bring about the newest government
+      that Macron installed, for his defense minister to replace Beyrou after that prime
+      minister faced and lost the vote of confidence. 7:41 What is the volatility in
+      France is largely on domestic issues. And the same can be said in Germany. The
+      only area where geopolitics and what interests you and me and most of the viewers
+      of this program, the only weak spot, but a very important weak spot in Europe
+      right now is the European institutions, and particularly the European Commission.
+      There is now pending, I believe it’s a few weeks from now, one or possibly two
+      different votes of confidence against Ursula von der Leyen. And the most important
+      one was introduced by Viktor Orban, by his group called the Patriots for Europe.
+      I think about a quarter of the members of the European Parliament are, announced
+      themselves, as members of this bloc. And it comes from– his confidence in making
+      this direct attack on von der Leyen– comes from a victory he was given by the
+      European Court of Justice over the punishments, withholding funds, the kind of
+      blackmail that von der Leyen has used against Hungary to punish them for violating
+      Brussels’-made rules on immigration, which are very lax and which Hungary, the
+      Orban government disagrees with, and has established in Hungary much harsher rules
+      for admitting immigrants or refugees or whatever you want to call them. 9:38 He
+      won that. And this was quite dramatic. And since this is not the first time I
+      mention this, nor is it the first time I’m mentioning on air the pending votes
+      of confidence, I want to explain since people have asked, “Oh, Mr. Doctorow, where’s
+      your source? The _Financial Times_. So I’m not relying on alternative media for
+      these basic facts, that he won a victory, Orban, and that he’s pursuing her. It’s
+      not the only case, but having spoken about 10 days ago with a very well-informed
+      and non-aligned– that limits the possible people I’m talking about to 30 in the
+      European Parliament. One of them spoke with me and said that he believes that
+      Ursula will be thrown out of office within six months. It could be she’ll be thrown
+      out of office within two weeks or three weeks. What that means is the whole Commission
+      will go. Now, I don’t mean to say that the European Parliament would change from
+      its present globalist anti-Russian, very censorious policies to something more
+      civilized and looking for peace on the continent. That isn’t going to happen overnight.
+      But Ursula von der Leyen has assembled a group of incompetents who are coming
+      from the most viciously anti-Russian part of Europe, the Baltic states, and who
+      are totally dependent on protection from her, which she deals out in good measure.
+      11:28 Therefore, these people will be swept away. And perhaps in the fighting
+      for commissioned seats, the larger members of the European community who are less
+      radical and more reasonable will assume seats. That isn’t a dramatic change in
+      Europe, but it’s an important step towards revival of common sense and a less
+      hostile view towards the neighbor to the east, and perhaps a step back from the
+      militarization that is now the official policy of the EU as led by von dert Leyen.
+      Diesen: Well, we always have to look at the extent to which some of these policies
+      are coming from the EU institutions or the member states. But to have people like
+      Kallas, so in a key position as the EU foreign policy chief, is quite concerning.
+      I’m sure you watched the recent speech she made where she argued that the Russians
+      and the Chinese believe that they defeated fascism, that they had a leading role
+      in this. And she was saying, well, this is what people think when they don’t read
+      books. I mean, it’s quite extraordinary that you can have a person in such a prominent
+      position who doesn’t seem to be aware of the leading role that the Chinese and
+      the Russians had in defeating the fascists. But I did want to ask you though about
+      von der Leyen, and to what extent her involvement in the EU is, for example, influencing
+      the efforts of stealing, or seizing they say, Russian sovereign funds. Because
+      what we read now in the _Financial Times_ and other papers is that the EU would
+      like to take the money, but they want to pretend to still abide by international
+      law and not stealing the assets of the Russian central bank. So they are looking
+      at what they call creative legality or legally creative measures, which entails
+      taking the Russian money, but using it to buy zero interest EU bonds. And somehow
+      this will make it legal, the theft. So, I mean, this is, again, a great exercise
+      in self-harm, but is this coming from the von der Leyens, or is this something
+      that is being pushed by member states? Doctorow: 14:19 Well, some member states
+      indeed have been behind this, but I would look at von der Leyen. She is a law
+      unto herself. And I say not just because she is so ambitious, but because everyone
+      around her are cowards. They are cowards. They’re the leaders of Europe by and
+      large are cowards. Now when you mentioned the policies in Europe, and we’re speaking
+      about EU member states, I want to take a step aside and what is the UK doing?
+      And I want to reflect on what King Charles said in the banquet, the state banquet
+      with 160 invitees that took place yesterday in honor of Donald Trump. King Charles
+      said that we, Britain and the United States, have stood shoulder to shoulder,
+      well, I’m not, I’m paraphrasing what he said, in two world wars. 15:16 Now we
+      stand together to protect Europe from, well, what was his word? Tyranny. Tyranny,
+      exactly right. Tyranny. There you have it in a nutshell. England, this is the
+      coming from Starmer, but it’s not just from Starmer. Most of the British elites
+      and governing class, whether they call themselves Laborer or call themselves Conservative,
+      they have this deeply distorted propagandistic approach to security in Europe.
+      So when you look at von der Leyen, she is not unique, except that she has the
+      authority, absent any protests or challenges, to direct where Europe is headed,
+      in the absolutely wrong direction, of course. And that is what– the fulcrum may
+      shift if she loses a vote of no confidence. I’m told that she held on by her fingernails
+      in the last vote of confidence, which is over her handling of contracts for the
+      covid vaccine. And then lack of transparency in negotiations and actually the
+      violation of her authority as Commission President. So this vote which will also
+      have transparency among the non-transparency as a fundamental accusation against
+      her, It may go against her. We’ll see. But looking at France, yes, the French
+      government may fall and indeed, even Mr. Macron, who according to the French constitution
+      has royal powers essentially for five years, theoretically he cannot be removed.
+      17:18 But he may go, because his unpopularity is so overwhelming. It all depends
+      on the intensity of the demonstrations that have begun in France over the new
+      government and over policy, the budget and so forth. They will not name militarism
+      and his increase, his budgetary plans to increase spending on arms and on Ukraine
+      while everything else in the budget is slashed, it may not be over that. But at
+      the end of the day, who cares? If he falls, he will not be replaced by anyone
+      who is so pigheaded and unrealistic as he is. And that can only be to the good.
+      18:10 As for Mr. Merz, he is, of course, doing better. They just had state elections
+      in Germany, in the Western Lander. And for his party, they claimed great satisfaction
+      that they hadn’t lost any seats. They held their own in percentage of the votes.
+      However, their coalition partners, the SPD, the socialists, took a beating. And
+      the main beneficiary of the lost seats of the socialists was the Alternative for
+      Deutschland, Ms. Alice Weidel, who was picking up more power. And the question
+      is, at what point will the fragility of the coalition be its downfall and the
+      Chancellor be forced to call new elections, as a result of which it is very likely
+      we’ll see him removed from office, simply because it became apparent not long
+      after his taking power that he is deeply unpopular. 19:20 So a change in Germany,
+      of course, would also be a great benefit to those of us who are hoping for a return
+      to samity, as opposed to what he’s been saying of late about Russia, generally,
+      about Europe’s needs, defense needs. Indeed, Europe needs defense needs. And going
+      back to your remarks, the question of European Army, indeed, that goes back decades.
+      I was looking not long ago at, I think it was 2014, 2015, there was a study by
+      CEPs, a think tank, a major think tank in Brussels, which had Solana, the former
+      head of diplomacy and military policy of the EU, he headed it and other people
+      of great experience in the EU institutions were on the team performing this study
+      of a European army. A result of which was the conclusion that, yes, we can try
+      to proceed with this, but we don’t have the money. 20:35 This sounds very familiar
+      judging from 2025. They don’t have the money and they also didn’t have a consensus
+      of what they need because going back several decades, the issues in Europe over
+      a united army were who’s the enemy, where the threats coming from? Spain and France
+      looked south traditionally. Germany looked east traditionally. And the needs,
+      the military needs for these different threats [are] entirely different. That
+      was a major impediment back then to creating a European-wide army. And I don’t
+      know that has been resolved or can be resolved. Diesen: 21:18 Well, that is a
+      key problem though for Europe. I mean, this, the unity or relative unity we’ve
+      had across Europe since World War II, it is unusual for our continent. And it’s
+      worth looking at the distribution of power it actually happened because in the
+      bipolar world the Europeans had to unite under the leadership of the United States
+      because of the obvious threat from the Soviet Union. And then that was replaced
+      with a unipolar world after the Cold War. And this, I think, was organized around
+      the principle of collective hegemony or unipolarity for the United States with
+      the Europeans aspiring to be its equal partner through the collective bargaining
+      power in the European Union. And also this was the reason for the United States
+      to prioritize Europe and its foreign policy, which would prolong the relevance
+      for Europe. But I guess it looks as if one of the key challenges for Europe is
+      how can it have a role in a multipolar world where the key centers of power are
+      the United States, Russia, China, lesser extent India. And did Americans want
+      to pivot away from Europe? 22:34 I mean, in such a system, what actually unites
+      Europe? Can we live without a Russian bogeyman or even in the security issue,
+      as you said, they see threats from different areas. But if we would unite around
+      economic issues, collective bargaining power, do we even have the same economic
+      interests? Surely if the Germans would look at their national interests, they
+      would seek to patch up with Russia very quickly. While, yeah, the polls will be
+      more concerned about both the German and Russian power. You would have the Spanish
+      Portuguese looking in completely different directions. I mean, did you see Europe
+      surviving without, Russian bogeyman? I mean, what happens after this war is over?
+      Is this the end of the European unity? Doctorow: 23:23 No, I think Europe can
+      survive very well without the Russian bogeyman. It has to take a step back. The
+      idea of Europe playing a geopolitical role is new. The European uniting forces
+      were economic. Now if that sounds weak, let’s remember that until the United States
+      started poking the Chinese in the eye, China was very happy to be an economic
+      force and not a military force. Now, same thing with Europe. There is nothing
+      to be embarrassed about by not looking to be a self-standing worldwide policeman
+      and to be one of the world’s largest economies and most attractive and vital economies.
+      24:14 Not to mention the cultural factor. I’m speaking to you today from Venice,
+      and the cultural factor is all around me, and it’s not bad. It’s brought in hordes
+      of American tourists right now, even at the end of the season. That’s what Europe
+      was until they got into their heads, and this is partly the achievement of Ursula
+      van der Leyen, that Europe has to be a geopolitical force. Wrong. They don’t need
+      a bogeyman in Russia. They can do very well just being one of the world’s biggest
+      economies, biggest and most attractive markets and a center of global civilization.
+      That’s my answer to your question. Diesen: 25:09 Well, one of my favorite scholars
+      on European integration is David Mitrani, who wrote back in the 1960s that, well
+      he predicted that Europe could take two paths towards integration. He called one
+      the functionalist, where they would integrate in areas where it delivered specific
+      benefits in terms of good governance, security or economic competitiveness. And
+      in other words, the form would be dictated by the purpose and then the alternative
+      model he called the federalism, where he already had a goal in terms of form.
+      He would want to centralize power and create the United States of Europe. And
+      in this area, you would look for areas to integrate for the mere purpose of integrating,
+      irrespective of serving economic or security interests. And I guess his, well,
+      his prediction was that many of the Europeans, especially the Germans, would push
+      for the federalist model, that is the United States of Europe. And his prediction
+      was this would not actually look like the United States of America, but more like
+      Soviet Union, because it would force the integration through. So if it doesn’t
+      make sense, if you can’t convince the public that this delivers better economic
+      benefits or security benefits or better governance, then it would have to be more
+      or less forced and not responding to the national interests. And this would then
+      fuel a lot of resistance over time. It seems at least to me that some of these
+      predictions seem kind of fair. But do you see any signs of a pre-revolutionary
+      moment in Europe, that is, the political leadership lacking in legitimacy, people
+      willing to experiment with radical alternatives? I’m not sure I put AfD necessarily
+      in radical, but what are you expecting, I guess, over the months ahead? Doctorow:
+      When you read the literature, the federalists that you’ve mentioned in passing,
+      it all seems reasonable and may sound very progressive. That’s how they position
+      themselves, as being progressive, to take Europe one step higher and one step
+      further. But when you look at how that plays out in practice, these are our class
+      enemy. They are, all of these, they are globalists. Who are they? To name names.
+      All right. My home state is Belgium, and one of its former prime ministers, Kiefer
+      Hofstad, was one of the leading personalities in the Federalist movement, and
+      head of a group, a bloc within the EU that was called Aldi. And that group, after
+      Mr. Macron came to power, merged with Macron’s reform group, forming a very significant
+      block in the present day parliament, and they are all federalists. 28:25 Now,
+      when you look at what those federalists want to do and what Kiefer Hofstad wanted
+      to do, he and their group are [a keyword] who are talking exactly the talk of
+      von der Leyen. It’s a continuum of all of the ideologically driven, anti-Russian,
+      uniting around the enemy, about opposition to that enemy, that we see around us
+      today. So these principles, which sound very nice to a political scientist, are
+      not self-standing. They are attached to a whole worldview in other domains. Economics
+      and sovereignty and open immigration, as no borders. 29:21 All of these things
+      come together in the persons of the champions of federalism. Now it may be an
+      accident or maybe there’s something deeply philosophical uniting these trends.
+      Diesen: Well, I’m glad before you mentioned Britain, because it takes me to my
+      last question that is with this comment of tyranny, we see that, well, historically
+      when countries are ramping up for war, they like to present conflicts very much
+      in one-dimensional terms of black and white, good versus evil, to rally support
+      and discredit any dissent. But once there’s defeat or doesn’t look like it’s going
+      our way, you would expect the rhetoric to change a bit along the lines of the
+      United States now, now that the recognizing the war hasn’t gone that well. 30:23
+      You would then begin to humanize your opponent. You would identify legitimate
+      security concerns of the other side and look for ways to harmonize interests,
+      because you can’t really harmonize when it’s a struggle between good and evil.
+      Yet as you mentioned from the United Kingdom that they’re still talking about
+      tyranny, the fight against tyranny as if this is some cosplay or replay of World
+      War II. How do you see the possibility of, I guess, new political forces emerging
+      in this climate? Because at the moment, anything is seen as treasonous. Any political
+      force coming up opposing the war rhetoric would be seen as more or less traitors,
+      Putinists, apologists for Russia. They don’t care enough about Ukraine. Do you
+      see anyone in Europe possibly breaking through this? Because anyone who seems
+      to want to have a serious chance of challenging the status quo kind of has to
+      fall in line with this rhetoric, that they’re fighting against the most recent
+      reincarnation of Hitler. Doctorow: 31:39 Well, we know that there are at least
+      two personalities. I spoke of 25 out of 27 European leaders who are incompetent
+      or caught happily living in a bubble of propaganda, I didn’t include two. That
+      is Mr. Urbán and Fico. So they are sane people who appreciate what you’re just
+      saying. Coming back though to Britain, it is a really sad case. They are the biggest
+      foot-draggers in a return to realism. And the remarks which King Charles was hand-fed
+      by his government, which is normal, that’s the way it goes. It’s been going in
+      Britain for a couple of hundred years, and the speeches are written by the government.
+      But I suspect that Charles himself deeply feels the same way. And this is, they
+      are going to be last to be pulled screaming and shouting into the new world which
+      is possibly coming rather quickly, if the Russians continue their acceleration
+      of their offensive against, in Ukraine. I am hopeful that these things will come
+      together, but as I said there are different levels of the cause for optimism.
+      The greatest one, because it’s directly on a geopolitical issue, is in the EU
+      institutions. 33:09 The luck element of Europe turning away from its present policies
+      to something more reasonable and realistic [is] in the three key countries that
+      we discussed. I really have nothing further to add on that issue. We keep our
+      fingers crossed, but then frankly speaking, I’ve been keeping my fingers crossed
+      on various hopeful signs, either in the US or in Europe, for the whole duration
+      of the special military operation. These hopeful things have not panned out, but
+      I think we’re coming to the end where this optimism will finally be rewarded.
+      Diesen: Well, on that, let me just add the last follow-up question here, because
+      I’ve listened to people like Alastair Crook, who’s also been a British diplomat
+      for a long time. And people like him, they expect that what is required for Europe
+      to essentially wake up from its 30-year slumber or dreaming away about this end
+      of history and its enduring central role in the world is an actual, well, a big
+      defeat or at least feeling the consequences of its wrong policies. Essentially
+      forcing some of the key politicians to have to be held accountable and to reconsider
+      some of the policies. [He] and others suspect that this would likely come from
+      defeat in the proxy war in Ukraine. 34:54 So since you mentioned that we might
+      be reaching the end of this, do you see a critical shift on the battlefield? Given,
+      I mean, there’s been this gradual disintegration or collapse or weakening at least
+      of the Ukrainian army, but it does appear that this, what we’re witnessing now
+      is something quite fatal. Doctorow: Well yes, I’ve said for some time, that I
+      expect the war to end in a political collapse in Ukraine, not in the whole army
+      running the other way and or holding up white flags. I don’t think that’s going
+      to happen. But the losses are so considerable, the inability to cover the holes
+      in the front are so obvious to everyone now, that I think the end of the war is
+      nigh. How the war ends, in what kind of a document, to what extent there will
+      be general recognition of Russia’s basic objectives as legitimate, that remains
+      to be seen. It is very hopeful that Mr. Trump has done as you said, has begun
+      to humanize the enemy and has denied the latest false flag operations, these drone
+      attacks in Poland and Romania. 36:23 This is all to the good. It doesn’t solve
+      all problems. But just to take a step back, just looking at European history and
+      the Dickens’ famous line about the French Revolution, the best of times and the
+      worst of times, it always was that way and probably always will be that way, so
+      long as human beings are around. And again, what I see around here in this hub
+      of European culture is something so attractive and so sublime that it addresses
+      all people who have open ears and open eyes. The collapse of European civilization
+      is certainly exaggerated as an issue. And I believe even in Russia, of course,
+      any Russian viewers watching this will immediately attack me over this. But it’s
+      not just fifth- column people in Russia who have great love for European culture
+      and feel themselves to be Europeans. That is an absolute truth. So it’ll take
+      time to heal the wounds, but they will be patched up. And therefore I’m not pessimistic
+      for the long run about Europe coming to its senses and saving for itself a place
+      in the world, not a geopolitical place in the world. That’s clear. Diesen: Well,
+      I hope you’re correct. I would like to see some revival in Europe, but I do think
+      that the secret, though, is to start with, look for, ways of reviving Europe as
+      a non-hegemonic power, not out of some idealist aspirations, but simply as a recognition
+      of reality, because I think this ignoring reality is coming at an increasingly
+      high cost. 38:28 But I’m, rarely we end on a very positive note, so on the possible
+      revival of Europe, it looks like a good place to wrap up. Doctorow: Well, we’re
+      in completely agreement.'
+    one_sentence_summary: In a discussion with historian Gilbert Doctorow, the conversation
+      explores the historical context of China's "century of humiliation" and draws
+      parallels to the current decline of European power, suggesting that Europe may
+      be facing its own period of humiliation.
+    paragraph_summary: In a recent discussion, historian and international affairs analyst
+      Gilbert Doctorow reflects on the current state of Europe, drawing parallels between
+      its potential decline and China's historical "century of humiliation." He notes
+      that Europe, which has enjoyed dominance for around 500 years, is facing significant
+      challenges, including security issues, economic instability, and political incompetence
+      among its leadership. Doctorow expresses concern that Europe may be losing its
+      influence and could become a mere pawn in global geopolitics, as many of its leaders
+      lack the necessary competence to navigate the complexities of the current international
+      landscape.
+    published: '2025-09-20T04:38:00+00:00'
+  - title: Transcript of conversation with Glenn Diesen,18 September
+    url: https://gilbertdoctorow.com/2025/09/20/transcript-of-conversation-with-glenn-diesen18-september/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=OsAk2E2YWl0
+      Diesen: 0:00 Hi everyone and welcome back. We are joined today by Gilbert Doctorow,
+      historian, international affairs analyst, and also author of _War Diaries: the
+      Russia-Ukraine War_. So welcome back to the program. Doctorow: Well, very good
+      to be with you. Diesen: So China, they used to be a leading power in the world
+      for a few thousands of years until the mid-19th century when they were defeated
+      by the British and they went from being the leading power to a country pillaged
+      and purged by others, great powers. So this is what the Chinese refer to as a
+      century of humiliation from the mid-19th century to the mid-20th. 0:44 Now, we’ve
+      had now Europeans being quite powerful for some would put it as 500 years, if
+      not dominant. And it appears that Europe is falling down pretty quickly. That
+      is some concern that Europe might be entering its own century of humiliation.
+      I’m not sure how you see the situation, what is going on in Europe these days,
+      because one can look at the security problems, one can look at the economics not
+      going well, the political stability, but in the overarching picture, one gets
+      the impression that Europe no longer has a seat at the table, but it’s looking
+      at the risk of becoming mere pieces moved across a board. How do you see the situation
+      of Europe at the moment? Doctorow: It is lamentable. And for a number of reasons,
+      a number of dimensions, the ones that you touched upon, of course, are highly
+      relevant. The question that we discussed in the weeks gone by was the low level,
+      low political intelligence, the low level of competence, which is very distressing.
+      I’m speaking now of the leadership. There’s 25 of the 27 member states of the
+      European Union plus the United Kingdom where you have the same display of very
+      low level people running the show. Institutions that were built, but I’m thinking
+      now of the European institutions, going back to the 1990s, when you had brilliant
+      socialist-minded, let’s be open about it, intellectuals like Jacques Delors who
+      were working to create a united Europe, a future-looking Europe, a harmonized
+      Europe, and they created institutions without paying– to my understanding today–
+      without paying enough attention to balance of powers and to ensuring a genuine
+      democracy. They assumed that people like themselves, highly intelligent, highly
+      educated, well-meaning, outgoing, would succeed them. And here’s where there’s
+      a great fallacy. We had institutions in Europe which can be abused and which violate
+      all the principles of democracy. And that’s what we have today, when someone like
+      von der Leyen has grabbed all the power, and around her there is silence. 3:19
+      And there’s reason for the silence. Sadly, it comes from the way that the European
+      institutions were engineered in the early new millennium to sacrifice the sovereignty
+      of individual member states. That was done consciously to the point where, as
+      one former Belgian prime minister said publicly, the level of power of a head
+      of state in Europe today is equivalent to the powers of a mayor in the past. Now
+      that is bad enough within Europe. What we see currently, what is particularly,
+      say discouraging, is that Europe as a whole has given up its sovereignty, not
+      just individual member states passing to Brussels decision-making, which had in
+      the past been at this national level, but the whole of Europe has given up sovereignty
+      to the United States, in the hope of buying off Trump and ensuring the backing,
+      the military defense backing of the United States for Europe against Russia, since
+      all of these gentlemen and ladies were scared out of their boots at the start
+      of the Special Military Operation, when they realized, very correctly, that they
+      had no armies, that they had no air defense, that they were totally at the mercy
+      of Russia if the United States did not step in and provide all of the equipment
+      that Europe doesn’t have to protect Europe. 5:14 So that is the present situation.
+      That explains the economic damage that we see as well. Because in sacrificing
+      everything to keep Mr. Trump on board, the leaders of Europe have compromised
+      the future prosperity of the whole continent. Diesen: 5:41 The French, though,
+      for a long time, for many years, they talked about the prospect of a common army
+      as a reason for the point of integrating Europe. And they called for greater autonomy
+      from the United States, again, something that they did all the way since the 1990s.
+      They did recognize that if they wanted stability, they would have to find a role
+      for Russia in Europe, not simply say that they have to stand on the sideline even
+      though they’re the largest country and they shouldn’t have a say. So they seemed
+      to recognize all the right things. But these days, they seem to have gone a bit
+      off the rails. They no longer pursue a clear policy of strategic autonomy or European
+      independence. And how do you see the political crisis raging now in France? Because
+      it’s hardly stable. Is this rooted in economics or is it internal politics? Is
+      it a security issue? How can we understand these tremendous changes? Doctorow:
+      6:51 There are fragile governments in the locomotive countries of Europe, both
+      France and Germany, and in the now outsider, but still very important partner
+      in European defense in the UK. All three countries have fragile situations, but
+      they are fragile largely for domestic reasons. Domestic fight for power, for banned
+      policies that are unpopular and have brought down, in the case of France, brought
+      down several governments and probably will soon bring about the newest government
+      that Macron installed, for his defense minister to replace Beyrou after that prime
+      minister faced and lost the vote of confidence. 7:41 What is the volatility in
+      France is largely on domestic issues. And the same can be said in Germany. The
+      only area where geopolitics and what interests you and me and most of the viewers
+      of this program, the only weak spot, but a very important weak spot in Europe
+      right now is the European institutions, and particularly the European Commission.
+      There is now pending, I believe it’s a few weeks from now, one or possibly two
+      different votes of confidence against Ursula von der Leyen. And the most important
+      one was introduced by Viktor Orban, by his group called the Patriots for Europe.
+      I think about a quarter of the members of the European Parliament are, announced
+      themselves, as members of this bloc. And it comes from– his confidence in making
+      this direct attack on von der Leyen– comes from a victory he was given by the
+      European Court of Justice over the punishments, withholding funds, the kind of
+      blackmail that von der Leyen has used against Hungary to punish them for violating
+      Brussels’-made rules on immigration, which are very lax and which Hungary, the
+      Orban government disagrees with, and has established in Hungary much harsher rules
+      for admitting immigrants or refugees or whatever you want to call them. 9:38 He
+      won that. And this was quite dramatic. And since this is not the first time I
+      mention this, nor is it the first time I’m mentioning on air the pending votes
+      of confidence, I want to explain since people have asked, “Oh, Mr. Doctorow, where’s
+      your source? The _Financial Times_. So I’m not relying on alternative media for
+      these basic facts, that he won a victory, Orban, and that he’s pursuing her. It’s
+      not the only case, but having spoken about 10 days ago with a very well-informed
+      and non-aligned– that limits the possible people I’m talking about to 30 in the
+      European Parliament. One of them spoke with me and said that he believes that
+      Ursula will be thrown out of office within six months. It could be she’ll be thrown
+      out of office within two weeks or three weeks. What that means is the whole Commission
+      will go. Now, I don’t mean to say that the European Parliament would change from
+      its present globalist anti-Russian, very censorious policies to something more
+      civilized and looking for peace on the continent. That isn’t going to happen overnight.
+      But Ursula von der Leyen has assembled a group of incompetents who are coming
+      from the most viciously anti-Russian part of Europe, the Baltic states, and who
+      are totally dependent on protection from her, which she deals out in good measure.
+      11:28 Therefore, these people will be swept away. And perhaps in the fighting
+      for commissioned seats, the larger members of the European community who are less
+      radical and more reasonable will assume seats. That isn’t a dramatic change in
+      Europe, but it’s an important step towards revival of common sense and a less
+      hostile view towards the neighbor to the east, and perhaps a step back from the
+      militarization that is now the official policy of the EU as led by von dert Leyen.
+      Diesen: Well, we always have to look at the extent to which some of these policies
+      are coming from the EU institutions or the member states. But to have people like
+      Kallas, so in a key position as the EU foreign policy chief, is quite concerning.
+      I’m sure you watched the recent speech she made where she argued that the Russians
+      and the Chinese believe that they defeated fascism, that they had a leading role
+      in this. And she was saying, well, this is what people think when they don’t read
+      books. I mean, it’s quite extraordinary that you can have a person in such a prominent
+      position who doesn’t seem to be aware of the leading role that the Chinese and
+      the Russians had in defeating the fascists. But I did want to ask you though about
+      von der Leyen, and to what extent her involvement in the EU is, for example, influencing
+      the efforts of stealing, or seizing they say, Russian sovereign funds. Because
+      what we read now in the _Financial Times_ and other papers is that the EU would
+      like to take the money, but they want to pretend to still abide by international
+      law and not stealing the assets of the Russian central bank. So they are looking
+      at what they call creative legality or legally creative measures, which entails
+      taking the Russian money, but using it to buy zero interest EU bonds. And somehow
+      this will make it legal, the theft. So, I mean, this is, again, a great exercise
+      in self-harm, but is this coming from the von der Leyens, or is this something
+      that is being pushed by member states? Doctorow: 14:19 Well, some member states
+      indeed have been behind this, but I would look at von der Leyen. She is a law
+      unto herself. And I say not just because she is so ambitious, but because everyone
+      around her are cowards. They are cowards. They’re the leaders of Europe by and
+      large are cowards. Now when you mentioned the policies in Europe, and we’re speaking
+      about EU member states, I want to take a step aside and what is the UK doing?
+      And I want to reflect on what King Charles said in the banquet, the state banquet
+      with 160 invitees that took place yesterday in honor of Donald Trump. King Charles
+      said that we, Britain and the United States, have stood shoulder to shoulder,
+      well, I’m not, I’m paraphrasing what he said, in two world wars. 15:16 Now we
+      stand together to protect Europe from, well, what was his word? Tyranny. Tyranny,
+      exactly right. Tyranny. There you have it in a nutshell. England, this is the
+      coming from Starmer, but it’s not just from Starmer. Most of the British elites
+      and governing class, whether they call themselves Laborer or call themselves Conservative,
+      they have this deeply distorted propagandistic approach to security in Europe.
+      So when you look at von der Leyen, she is not unique, except that she has the
+      authority, absent any protests or challenges, to direct where Europe is headed,
+      in the absolutely wrong direction, of course. And that is what– the fulcrum may
+      shift if she loses a vote of no confidence. I’m told that she held on by her fingernails
+      in the last vote of confidence, which is over her handling of contracts for the
+      covid vaccine. And then lack of transparency in negotiations and actually the
+      violation of her authority as Commission President. So this vote which will also
+      have transparency among the non-transparency as a fundamental accusation against
+      her, It may go against her. We’ll see. But looking at France, yes, the French
+      government may fall and indeed, even Mr. Macron, who according to the French constitution
+      has royal powers essentially for five years, theoretically he cannot be removed.
+      17:18 But he may go, because his unpopularity is so overwhelming. It all depends
+      on the intensity of the demonstrations that have begun in France over the new
+      government and over policy, the budget and so forth. They will not name militarism
+      and his increase, his budgetary plans to increase spending on arms and on Ukraine
+      while everything else in the budget is slashed, it may not be over that. But at
+      the end of the day, who cares? If he falls, he will not be replaced by anyone
+      who is so pigheaded and unrealistic as he is. And that can only be to the good.
+      18:10 As for Mr. Merz, he is, of course, doing better. They just had state elections
+      in Germany, in the Western Lander. And for his party, they claimed great satisfaction
+      that they hadn’t lost any seats. They held their own in percentage of the votes.
+      However, their coalition partners, the SPD, the socialists, took a beating. And
+      the main beneficiary of the lost seats of the socialists was the Alternative for
+      Deutschland, Ms. Alice Weidel, who was picking up more power. And the question
+      is, at what point will the fragility of the coalition be its downfall and the
+      Chancellor be forced to call new elections, as a result of which it is very likely
+      we’ll see him removed from office, simply because it became apparent not long
+      after his taking power that he is deeply unpopular. 19:20 So a change in Germany,
+      of course, would also be a great benefit to those of us who are hoping for a return
+      to samity, as opposed to what he’s been saying of late about Russia, generally,
+      about Europe’s needs, defense needs. Indeed, Europe needs defense needs. And going
+      back to your remarks, the question of European Army, indeed, that goes back decades.
+      I was looking not long ago at, I think it was 2014, 2015, there was a study by
+      CEPs, a think tank, a major think tank in Brussels, which had Solana, the former
+      head of diplomacy and military policy of the EU, he headed it and other people
+      of great experience in the EU institutions were on the team performing this study
+      of a European army. A result of which was the conclusion that, yes, we can try
+      to proceed with this, but we don’t have the money. 20:35 This sounds very familiar
+      judging from 2025. They don’t have the money and they also didn’t have a consensus
+      of what they need because going back several decades, the issues in Europe over
+      a united army were who’s the enemy, where the threats coming from? Spain and France
+      looked south traditionally. Germany looked east traditionally. And the needs,
+      the military needs for these different threats [are] entirely different. That
+      was a major impediment back then to creating a European-wide army. And I don’t
+      know that has been resolved or can be resolved. Diesen: 21:18 Well, that is a
+      key problem though for Europe. I mean, this, the unity or relative unity we’ve
+      had across Europe since World War II, it is unusual for our continent. And it’s
+      worth looking at the distribution of power it actually happened because in the
+      bipolar world the Europeans had to unite under the leadership of the United States
+      because of the obvious threat from the Soviet Union. And then that was replaced
+      with a unipolar world after the Cold War. And this, I think, was organized around
+      the principle of collective hegemony or unipolarity for the United States with
+      the Europeans aspiring to be its equal partner through the collective bargaining
+      power in the European Union. And also this was the reason for the United States
+      to prioritize Europe and its foreign policy, which would prolong the relevance
+      for Europe. But I guess it looks as if one of the key challenges for Europe is
+      how can it have a role in a multipolar world where the key centers of power are
+      the United States, Russia, China, lesser extent India. And did Americans want
+      to pivot away from Europe? 22:34 I mean, in such a system, what actually unites
+      Europe? Can we live without a Russian bogeyman or even in the security issue,
+      as you said, they see threats from different areas. But if we would unite around
+      economic issues, collective bargaining power, do we even have the same economic
+      interests? Surely if the Germans would look at their national interests, they
+      would seek to patch up with Russia very quickly. While, yeah, the polls will be
+      more concerned about both the German and Russian power. You would have the Spanish
+      Portuguese looking in completely different directions. I mean, did you see Europe
+      surviving without, Russian bogeyman? I mean, what happens after this war is over?
+      Is this the end of the European unity? Doctorow: 23:23 No, I think Europe can
+      survive very well without the Russian bogeyman. It has to take a step back. The
+      idea of Europe playing a geopolitical role is new. The European uniting forces
+      were economic. Now if that sounds weak, let’s remember that until the United States
+      started poking the Chinese in the eye, China was very happy to be an economic
+      force and not a military force. Now, same thing with Europe. There is nothing
+      to be embarrassed about by not looking to be a self-standing worldwide policeman
+      and to be one of the world’s largest economies and most attractive and vital economies.
+      24:14 Not to mention the cultural factor. I’m speaking to you today from Venice,
+      and the cultural factor is all around me, and it’s not bad. It’s brought in hordes
+      of American tourists right now, even at the end of the season. That’s what Europe
+      was until they got into their heads, and this is partly the achievement of Ursula
+      van der Leyen, that Europe has to be a geopolitical force. Wrong. They don’t need
+      a bogeyman in Russia. They can do very well just being one of the world’s biggest
+      economies, biggest and most attractive markets and a center of global civilization.
+      That’s my answer to your question. Diesen: 25:09 Well, one of my favorite scholars
+      on European integration is David Mitrani, who wrote back in the 1960s that, well
+      he predicted that Europe could take two paths towards integration. He called one
+      the functionalist, where they would integrate in areas where it delivered specific
+      benefits in terms of good governance, security or economic competitiveness. And
+      in other words, the form would be dictated by the purpose and then the alternative
+      model he called the federalism, where he already had a goal in terms of form.
+      He would want to centralize power and create the United States of Europe. And
+      in this area, you would look for areas to integrate for the mere purpose of integrating,
+      irrespective of serving economic or security interests. And I guess his, well,
+      his prediction was that many of the Europeans, especially the Germans, would push
+      for the federalist model, that is the United States of Europe. And his prediction
+      was this would not actually look like the United States of America, but more like
+      Soviet Union, because it would force the integration through. So if it doesn’t
+      make sense, if you can’t convince the public that this delivers better economic
+      benefits or security benefits or better governance, then it would have to be more
+      or less forced and not responding to the national interests. And this would then
+      fuel a lot of resistance over time. It seems at least to me that some of these
+      predictions seem kind of fair. But do you see any signs of a pre-revolutionary
+      moment in Europe, that is, the political leadership lacking in legitimacy, people
+      willing to experiment with radical alternatives? I’m not sure I put AfD necessarily
+      in radical, but what are you expecting, I guess, over the months ahead? Doctorow:
+      When you read the literature, the federalists that you’ve mentioned in passing,
+      it all seems reasonable and may sound very progressive. That’s how they position
+      themselves, as being progressive, to take Europe one step higher and one step
+      further. But when you look at how that plays out in practice, these are our class
+      enemy. They are, all of these, they are globalists. Who are they? To name names.
+      All right. My home state is Belgium, and one of its former prime ministers, Kiefer
+      Hofstad, was one of the leading personalities in the Federalist movement, and
+      head of a group, a bloc within the EU that was called Aldi. And that group, after
+      Mr. Macron came to power, merged with Macron’s reform group, forming a very significant
+      block in the present day parliament, and they are all federalists. 28:25 Now,
+      when you look at what those federalists want to do and what Kiefer Hofstad wanted
+      to do, he and their group are [a keyword] who are talking exactly the talk of
+      von der Leyen. It’s a continuum of all of the ideologically driven, anti-Russian,
+      uniting around the enemy, about opposition to that enemy, that we see around us
+      today. So these principles, which sound very nice to a political scientist, are
+      not self-standing. They are attached to a whole worldview in other domains. Economics
+      and sovereignty and open immigration, as no borders. 29:21 All of these things
+      come together in the persons of the champions of federalism. Now it may be an
+      accident or maybe there’s something deeply philosophical uniting these trends.
+      Diesen: Well, I’m glad before you mentioned Britain, because it takes me to my
+      last question that is with this comment of tyranny, we see that, well, historically
+      when countries are ramping up for war, they like to present conflicts very much
+      in one-dimensional terms of black and white, good versus evil, to rally support
+      and discredit any dissent. But once there’s defeat or doesn’t look like it’s going
+      our way, you would expect the rhetoric to change a bit along the lines of the
+      United States now, now that the recognizing the war hasn’t gone that well. 30:23
+      You would then begin to humanize your opponent. You would identify legitimate
+      security concerns of the other side and look for ways to harmonize interests,
+      because you can’t really harmonize when it’s a struggle between good and evil.
+      Yet as you mentioned from the United Kingdom that they’re still talking about
+      tyranny, the fight against tyranny as if this is some cosplay or replay of World
+      War II. How do you see the possibility of, I guess, new political forces emerging
+      in this climate? Because at the moment, anything is seen as treasonous. Any political
+      force coming up opposing the war rhetoric would be seen as more or less traitors,
+      Putinists, apologists for Russia. They don’t care enough about Ukraine. Do you
+      see anyone in Europe possibly breaking through this? Because anyone who seems
+      to want to have a serious chance of challenging the status quo kind of has to
+      fall in line with this rhetoric, that they’re fighting against the most recent
+      reincarnation of Hitler. Doctorow: 31:39 Well, we know that there are at least
+      two personalities. I spoke of 25 out of 27 European leaders who are incompetent
+      or caught happily living in a bubble of propaganda, I didn’t include two. That
+      is Mr. Urbán and Fico. So they are sane people who appreciate what you’re just
+      saying. Coming back though to Britain, it is a really sad case. They are the biggest
+      foot-draggers in a return to realism. And the remarks which King Charles was hand-fed
+      by his government, which is normal, that’s the way it goes. It’s been going in
+      Britain for a couple of hundred years, and the speeches are written by the government.
+      But I suspect that Charles himself deeply feels the same way. And this is, they
+      are going to be last to be pulled screaming and shouting into the new world which
+      is possibly coming rather quickly, if the Russians continue their acceleration
+      of their offensive against, in Ukraine. I am hopeful that these things will come
+      together, but as I said there are different levels of the cause for optimism.
+      The greatest one, because it’s directly on a geopolitical issue, is in the EU
+      institutions. 33:09 The luck element of Europe turning away from its present policies
+      to something more reasonable and realistic [is] in the three key countries that
+      we discussed. I really have nothing further to add on that issue. We keep our
+      fingers crossed, but then frankly speaking, I’ve been keeping my fingers crossed
+      on various hopeful signs, either in the US or in Europe, for the whole duration
+      of the special military operation. These hopeful things have not panned out, but
+      I think we’re coming to the end where this optimism will finally be rewarded.
+      Diesen: Well, on that, let me just add the last follow-up question here, because
+      I’ve listened to people like Alastair Crook, who’s also been a British diplomat
+      for a long time. And people like him, they expect that what is required for Europe
+      to essentially wake up from its 30-year slumber or dreaming away about this end
+      of history and its enduring central role in the world is an actual, well, a big
+      defeat or at least feeling the consequences of its wrong policies. Essentially
+      forcing some of the key politicians to have to be held accountable and to reconsider
+      some of the policies. [He] and others suspect that this would likely come from
+      defeat in the proxy war in Ukraine. 34:54 So since you mentioned that we might
+      be reaching the end of this, do you see a critical shift on the battlefield? Given,
+      I mean, there’s been this gradual disintegration or collapse or weakening at least
+      of the Ukrainian army, but it does appear that this, what we’re witnessing now
+      is something quite fatal. Doctorow: Well yes, I’ve said for some time, that I
+      expect the war to end in a political collapse in Ukraine, not in the whole army
+      running the other way and or holding up white flags. I don’t think that’s going
+      to happen. But the losses are so considerable, the inability to cover the holes
+      in the front are so obvious to everyone now, that I think the end of the war is
+      nigh. How the war ends, in what kind of a document, to what extent there will
+      be general recognition of Russia’s basic objectives as legitimate, that remains
+      to be seen. It is very hopeful that Mr. Trump has done as you said, has begun
+      to humanize the enemy and has denied the latest false flag operations, these drone
+      attacks in Poland and Romania. 36:23 This is all to the good. It doesn’t solve
+      all problems. But just to take a step back, just looking at European history and
+      the Dickens’ famous line about the French Revolution, the best of times and the
+      worst of times, it always was that way and probably always will be that way, so
+      long as human beings are around. And again, what I see around here in this hub
+      of European culture is something so attractive and so sublime that it addresses
+      all people who have open ears and open eyes. The collapse of European civilization
+      is certainly exaggerated as an issue. And I believe even in Russia, of course,
+      any Russian viewers watching this will immediately attack me over this. But it’s
+      not just fifth- column people in Russia who have great love for European culture
+      and feel themselves to be Europeans. That is an absolute truth. So it’ll take
+      time to heal the wounds, but they will be patched up. And therefore I’m not pessimistic
+      for the long run about Europe coming to its senses and saving for itself a place
+      in the world, not a geopolitical place in the world. That’s clear. Diesen: Well,
+      I hope you’re correct. I would like to see some revival in Europe, but I do think
+      that the secret, though, is to start with, look for, ways of reviving Europe as
+      a non-hegemonic power, not out of some idealist aspirations, but simply as a recognition
+      of reality, because I think this ignoring reality is coming at an increasingly
+      high cost. 38:28 But I’m, rarely we end on a very positive note, so on the possible
+      revival of Europe, it looks like a good place to wrap up. Doctorow: Well, we’re
+      in completely agreement.'
+    one_sentence_summary: In a discussion with historian Gilbert Doctorow, the conversation
+      explores the historical context of China's "century of humiliation" and draws
+      parallels to the current decline of European power, suggesting that Europe may
+      be facing its own period of humiliation.
+    paragraph_summary: In a recent discussion, historian and international affairs analyst
+      Gilbert Doctorow reflects on the current state of Europe, drawing parallels between
+      its potential decline and China's historical "century of humiliation." He notes
+      that Europe, which has enjoyed dominance for around 500 years, is facing significant
+      challenges, including security issues, economic instability, and political incompetence
+      among its leadership. Doctorow expresses concern that Europe may be losing its
+      influence and could become a mere pawn in global geopolitics, as many of its leaders
+      lack the necessary competence to navigate the complexities of the current international
+      landscape.
+    published: '2025-09-20T04:38:00+00:00'
+  - title: Conversation with Professor Glenn Diesen, 18 September 2025
+    url: https://gilbertdoctorow.com/2025/09/19/conversation-with-professor-glenn-diesen-18-september-2025/
+    text: Conversation with Professor Glenn Diesen, 18 September 2025 This far-reaching
+      discussion gave me an opportunity to share some observations justifying an optimistic
+      medium to long term vision of Europe’s returning to the objectives of the creators
+      of the European Union, namely a peace mission and casting aside the militarization
+      and marginalization that we see today under the direction of the usurper President
+      of the European Commission, Ursula van der Leyen. We have come to this lamentable
+      situation due in part to the rapacious and largely unchallenged behavior of von
+      der Leyen, but not by her alone. The entire federalist movement in the European
+      Institutions has for decades masked with seemingly progressive organizational
+      solutions to harmonizing Europe what in fact is an odious package of globalism,
+      loss of sovereignty by the Member States and most recently by the Union as a whole
+      through acceptance of vassal status to the USA. The EU need not enter a century
+      of humiliation, as Glenn Diesen suggests. But it must return to its original game
+      plan of being an economic powerhouse and a cultural powerhouse. This means rejecting
+      the geopolitical ambitions that over the past couple of decades have pushed aside
+      the concept of Europe’s place in the world that the founding fathers of the European
+      Economic Community had in mind.
+    one_sentence_summary: In a conversation with Professor Glenn Diesen, he expressed
+      an optimistic vision for Europe to return to its foundational peace mission, criticizing
+      the current leadership of Ursula von der Leyen and the federalist movement for
+      promoting globalism and diminishing member states' sovereignty.
+    paragraph_summary: In a conversation with Professor Glenn Diesen on September 18,
+      2025, the discussion centered on the need for Europe to return to the foundational
+      objectives of the European Union, which prioritize peace and cooperation rather
+      than militarization and marginalization under the leadership of President Ursula
+      von der Leyen. The article critiques von der Leyen's leadership and the broader
+      federalist movement within European institutions, arguing that they have contributed
+      to a loss of sovereignty and a subservient relationship with the United States.
+      Diesen expresses an optimistic vision for Europe, suggesting that it can avoid
+      a "century of humiliation" by refocusing on its original goals as an economic
+      and cultural powerhouse, rather than succumbing to geopolitical ambitions that
+      diverge from the intentions of the EU's founders.
+    published: '2025-09-19T18:19:07+00:00'
+  - title: Conversation with Professor Glenn Diesen, 18 September 2025
+    url: https://gilbertdoctorow.com/2025/09/19/conversation-with-professor-glenn-diesen-18-september-2025/
+    text: Conversation with Professor Glenn Diesen, 18 September 2025 This far-reaching
+      discussion gave me an opportunity to share some observations justifying an optimistic
+      medium to long term vision of Europe’s returning to the objectives of the creators
+      of the European Union, namely a peace mission and casting aside the militarization
+      and marginalization that we see today under the direction of the usurper President
+      of the European Commission, Ursula van der Leyen. We have come to this lamentable
+      situation due in part to the rapacious and largely unchallenged behavior of von
+      der Leyen, but not by her alone. The entire federalist movement in the European
+      Institutions has for decades masked with seemingly progressive organizational
+      solutions to harmonizing Europe what in fact is an odious package of globalism,
+      loss of sovereignty by the Member States and most recently by the Union as a whole
+      through acceptance of vassal status to the USA. The EU need not enter a century
+      of humiliation, as Glenn Diesen suggests. But it must return to its original game
+      plan of being an economic powerhouse and a cultural powerhouse. This means rejecting
+      the geopolitical ambitions that over the past couple of decades have pushed aside
+      the concept of Europe’s place in the world that the founding fathers of the European
+      Economic Community had in mind.
+    one_sentence_summary: In a conversation with Professor Glenn Diesen, he expressed
+      an optimistic vision for Europe to return to its foundational peace mission, criticizing
+      the current leadership of Ursula von der Leyen and the federalist movement for
+      promoting globalism and diminishing member states' sovereignty.
+    paragraph_summary: In a conversation with Professor Glenn Diesen on September 18,
+      2025, the discussion centered on the need for Europe to return to the foundational
+      objectives of the European Union, which prioritize peace and cooperation rather
+      than militarization and marginalization under the leadership of President Ursula
+      von der Leyen. The article critiques von der Leyen's leadership and the broader
+      federalist movement within European institutions, arguing that they have contributed
+      to a loss of sovereignty and a subservient relationship with the United States.
+      Diesen expresses an optimistic vision for Europe, suggesting that it can avoid
+      a "century of humiliation" by refocusing on its original goals as an economic
+      and cultural powerhouse, rather than succumbing to geopolitical ambitions that
+      diverge from the intentions of the EU's founders.
+    published: '2025-09-19T18:19:07+00:00'
+  - title: Transcript of ‘Judging Freedom’ edition of 17 September
+    url: https://gilbertdoctorow.com/2025/09/17/transript-of-judging-freedom-edition-of-17-september/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=RHzPmbvNCYU
+      Napolitano: 0:32 Hi everyone, Judge Andrew Napolitano here for “Judging Freedom”.
+      Today is Wednesday, September 17th, 2025. Professor Gilbert Doctorow will be with
+      us in just a moment on Is Europe Collapsing? But first this. [ad] 1:56 Professor
+      Doctorow, welcome here, my dear friend. Thank you for accommodating my schedule,
+      as you always do. Before we get into the current state of geopolitics in Europe,
+      what has been the reaction in Europe and maybe in the Kremlin, if you’re able
+      to gauge it, to the United States-approved and facilitated and Israeli- perpetrated
+      attack on a residential neighborhood in Doha, Qatar last week? Doctorow: 2:31
+      The reaction– I’ll concentrate on the Russian reaction. What I detect in the last
+      few days watching Russian state television is a significant hardening of Moscow’s
+      position with respect to Israel. They were sitting on the fence. They didn’t want
+      to create difficulties in their relationship with Israel. That’s all over. What
+      I see now is very frank statements condemning Israeli genocide in Gaza, and of
+      course what happened in Doha is part of the overall picture. So in that regard
+      there is a change in Moscow’s position vis-a-vis Israel and the ongoing land offensive
+      in Gaza City is part of that picture as well. In Europe, of course, what we see
+      is a greater willingness to talk about sanctions against Israel, though of course
+      nothing has happened as yet. So far it’s just jaw-burning. Napolitano? 3:36 Is
+      the Kremlin going to do anything about it? I mean, how should we read this public
+      change in the Kremlin’s attitude? Doctorow: I’m afraid to say that it doesn’t
+      indicate any particular actions to protect Palestinians or to intervene in the
+      conflict. That is not the present state of affairs. I think that the Kremlin takes
+      its cue from what the Gulf states are doing, and as you know, the Gulf states
+      are doing nothing. Therefore, it is useful, interesting to see the Kremlin has
+      finally broken with this mystique around Israel and is taking a moralistic stand
+      and not afraid to condemn the Israeli government. Napolitano: 4:28 Has there been
+      any reaction that you’re able to detect to Prime Minister Netanyahu going on international
+      television and before Charlie Kirk’s shooter was even caught or named, denying
+      that the Israelis murdered him. Who denies that they committed a murder before
+      they were accused of it? Doctorow: Well, in the case of the Kremlin, there has
+      been almost no commentary on that issue. I understand that it is highly visible
+      in American media. Even in Europe, I don’t see much commentary on that particular
+      question, but for Russia, it doesn’t exist. Napolitano: 5:12 President Putin’s
+      recent trip to the Belarus-Russian War Games wearing a military uniform, Do you
+      read anything into that? Doctorow: Well, it’s the first time, to my knowledge,
+      it’s the first time that he has donned a military uniform. It was quite impressive
+      when Mr. Belousov, his very civilian minister of defense, first shifted from a
+      formal suit to a military uniform. And now Putin has done that. I don’t think
+      it’s necessarily a message to the West, though it would be appropriate to say
+      it’s a hardening of his position, and his position on the war, of course. And
+      I think that the occasion was to be one of the boys when he was meeting with the
+      20 or so foreign delegations who were present as witnesses and some as participants
+      in the military exercises, war. This 2025 is taking place, as you say, in central
+      Russia, not far from the Volga River in the territory of Nizhny Novgorod. That
+      is a remarkable event. It’s understandable that it attracted so many foreign visitors,
+      from the global South in particular, Because there are 100,000 Russian soldiers
+      in these exercises, an extraordinary large number. Napolitano: 6:53 Were NATO
+      officials invited to observe this? Doctorow: I believe they were. But of course,
+      when Mr. Putin had his address to the foreign contingents, NATO people were not
+      in it. Napolitano: Why would NATO be invited to observe a hundred thousand Russian
+      troops and gleaming new military equipment? Doctorow: I don’t think there’s any
+      particular meaning to that, because by convention, all military exercises, both
+      Russian and Western, usually invite everyone. So it would be exceptional if they
+      were excluded, not that they were included. Napolitano: 7:44 What is the Kremlin’s
+      public position on the drones over Poland? Doctorow: I think the public position
+      was stated clearly by their ambassador to the United Nations last week, Mr. Mabenzio,
+      And he spoke of this as absolutely not Russian drones, that they had no participation
+      in this. He made mention of the Belarusian reporting in real time on the incoming
+      flight headed towards Poland. And as a demonstration that Russia was in no way
+      involved, the Belarusian authorities hardly would be alerting the Poles if their
+      fraternal Russian military were sending drones at Poland. So the flat denial.
+      I don’t see, though, any particular accusations as to what the intention of this
+      Ukrainian action was. 8:55 From the very beginning, we assumed it was to spark
+      some kind of a conflict between Poland and Russia, which would immediately broaden
+      into a NATO-Russian conflict. But I don’t see this as being reasserted or any
+      other particular interpretation being presented by the Kremlin. Napolitano: 9:15
+      Is this, in your view, the dirty work of MI6 and CIA again? Doctoorow: I’m skeptical
+      if the CIA at this stage would be involved, given Mr. Trump’s position on Ukraine
+      and Russia, That the MI6 is involved is on the hundred percent. So that is a fair
+      game. Pick up, there have been so many statements by various observers with considerable
+      technical expertise explaining why this was a fake attack, why this was an attempt
+      by Ukraine to set off the parties against one another. But this has not been,
+      as I said, hasn’t been in Russian news. And I don’t think it’s a current issue
+      for Russia. What is interesting is that, for example, the _Financial Times_ today
+      is speaking about these drone incursions as if they were Russian without any question,
+      that this is not a contentious issue. That’s a statement of fact. The Russians
+      sent these drones in, and we in Western Europe have to react by strengthening,
+      by investing more in our defenses, and of course by increasing our cooperation
+      with the Ukrainians who have far more experience in liquidating, destroying Russian
+      drones than we in Western Europe have. That is the official word coming out of
+      the _Financial Times_, and I take it to be prompted by MI6. Napolitano: 11:05
+      I thought of you this morning when I saw these absurdities in the _Financial Times_.
+      Has the Kremlin indicated at all how much longer it will take for the Russian
+      military to achieve its objectives in Ukraine? Doctorow: No, no. They don’t put
+      out any timelines or any indications of what they’re going to do next. The daily
+      news on Russia hasn’t changed in the last several weeks. They speak about capturing
+      this or that village in Zaporozhye, in Donetsk oblast and elsewhere, but they
+      don’t give you a strategic vision of where they’re heading or whether they’re
+      going to take Odessa, how soon they’re going to take Odessa. There’s nothing of
+      that sort in Russian news. Napolitano: 11:53 Let me back up to Poland for a minute.
+      I neglected to ask you this. Did the Polish government send troops to the Polish
+      border in significant numbers? Doctorow: o-fly zone in the face of the Russian
+      military. Let’s jump to Europe. Over the weekend, there was an enormous march
+      in London. The British police said it was 110,000 people. The media says it was
+      north of a million. It’s a huge, huge number of people fiercely opposed to the
+      government, doing something that I honestly didn’t know was unlawful in Britain,
+      which is waving the Union Jack. You know, you see these American demonstrations,
+      people wave American flags all the time, but this was apparently unprecedented
+      in Britain, or at least rarely done. Is Prime Minister Starmer on thin ice? Is
+      the Labour Party going to go through this musical chairs as Prime Minister, as
+      the Tories did a few years ago? Doctorow: Starmer has serious political problems
+      at home. I wish I could say that they were caused by his various positions in
+      geopolitics, but they’re not. The difficulties that Starmer has are very traditional
+      in British political history, which was laden with sex scandals. Well, in this
+      case, the domestic issues were the forced resignation of his deputy prime minister
+      over scandalous, really scandalous tax manipulation. And there are other members
+      of his cabinet who are teetering. 14:59 There is severe criticism within the party
+      of Starmer, who is now being called by leading figures in his own party as being
+      incompetent and not up to the job. On the outside, the conservative party, the
+      normal conservative party is also in tatters. The only rising force, the people
+      who could succeed Stammer in case he loses his grip, is ousted, then has to hold
+      an election and loses the election, which would be quite likely, is Nigel Farage,
+      who is doing very well. He has been consistent going back a dozen years. He has
+      a very statesman-like image. Let’s remember that Mr. Farage had difficulties in
+      the past. He was known to tiple too much, to drink too much. All that is gone.
+      He’s quite serious. And his policies on immigration and on Brexit and otherwise,
+      have been useful to him because of his very consistency over a decade, whereas
+      others have waffled, gone this way and that, in both parties. Napolitano: You
+      know, I know him well. He worked with me at Fox News. He was there for about two
+      years. In those days, it was almost inconceivable that he would become the prime
+      minister, but you’re telling me there is a spanking new Nigel Farage who’s perceived
+      as a statesman by the British people and could very well be living at number 10
+      Downing Street in the future? Doctorow: 16:46 It is possible. I agree that he
+      had difficult times, and for the reason I just mentioned, he wasn’t taken so seriously,
+      but that’s all gone. He has sobered up in every way, and his positions are of
+      great popularity, particularly on immigration. It’s very hard for other parties
+      to get their arms around that. Napolitano: 17:10 Let’s look at France, which is
+      in its fifth government in two years. How stable is the government there? Doctorow:
+      Well, it’s a question of how many weeks or months this new government will last.
+      The peculiar thing is that Beyrou was replaced now by the defense minister, who
+      was close to Macron. But it’s the heart of what is wrong with Macron government.
+      After all, Beyrou was fired, was lost the vote of confidence over his budget.
+      Which– what was wrong with the budget? That everything was being cut, that the
+      number of public holidays [was] being cut, that health, welfare benefits were
+      being cut, and only one budgetary item was going up, and that is defense. It is
+      inconceivable that this fact– this basis for the new prime minister in an increased
+      military spend when everything else is being cut– it’s inconceivable that that
+      will go on for long. In the meantime, the French government has a different problem.
+      That is the loss of confidence of investors and of the business world in its ability
+      to keep the national debt within sustainable, financeable terms. Today’s _Financial
+      Times_ is reporting that exceptionally the French private company bonds are giving
+      a lower interest to their purchasers than government bonds. It should normally
+      be the other way around. It means that the markets have lost confidence in Macron.
+      And I don’t see how he can stay on for long when the markets where he came from
+      disown him. Napolitano: 19:10 Fascinating observation. In Germany, the AfD gained
+      recently, but at the price of the socialists, as I understand, not at the price
+      of Chancellor Merz’s party. I don’t know if that makes Merz stronger or makes
+      the AFD stronger. Doctorow: It makes the government weaker. He has a coalition
+      government. Napolitano: Right. Doctorow: And his coalition partners are precisely
+      the people who took a battering in the West German elections. Now, this Alice
+      Weidel and her Alternative for Germany, they didn’t rise, I think it’s about 15
+      percent, which doesn’t give you a ruling position in the government. But considering
+      the loss– that everything she gained was at the expense of Merz’s coalition partner,
+      it puts in jeopardy his coalition government. And if that government should fall,
+      he’ll be obliged, most likely, to call elections, in which case all possibilities
+      are open. And his continued service as chancellor has a question mark over it.
+      Napolitano: 20:29 Last subject matter, von der Leyen, is she confronting some
+      sort of a vote of no confidence, and if the vote of no confidence prevails, is
+      she out of a job? Doctorow: Well, when we last spoke a week ago, I mentioned what
+      I’d heard from a well-informed, independent member of parliament from Germany
+      who said his prediction was that she won’t last six months. And he reminded me
+      that on the last vote of confidence, she was held in power by one vote. Now, what
+      has just happened? And why is it possible that she will lose this vote of no confidence?
+      There are two of them, apparently scheduled in a week’s time from now. 21:18 The
+      one that’s most important, I think, politically, is the one that is being sponsored
+      by Victor Orbán’s bloc. There are deputies from various countries, but he is–
+      the bloc that he formed is called Patriots for Europe. And that is interesting
+      because Viktor Orban is now in really a fighting mood. He just won a very important
+      decision by the European Court of Justice, in which the core issue was whether
+      Orban’s very restrictive policies on immigration, which are in contradiction with
+      the much more lax immigration regulations of the European Union, whether he would
+      continue to face blackmail and suspension of monies that are owed to Hungary in
+      the EU budget for violation of EU immigration rules. He won the case. 22:20 This
+      just happened. And that put him really in a fighting mood, as came out in a message
+      to his parliament yesterday. He initiated a vote of no confidence against von
+      der Leyen. And who knows, they may unseat her. Napolitano: Wow. Professor Doctorow,
+      thank you very much. I know you’re traveling, and I deeply appreciate the time
+      you’ve given us. Enjoy your travels, safe travels. We’ll look forward to seeing
+      you next week. Doctorow: Well, thank you so much. Napolitano: Thank you. Coming
+      up today, a busy and full day for you: at 11 o’clock this morning, Pepe Escobar
+      from somewhere in China. At two this afternoon, Colonel Lawrence Wilkerson. At
+      three this afternoon, Phil Giraldi. At four this afternoon, Professor Jeffrey
+      Sachs. 23:06 Judge Napolitano for “Judging Freedom”.'
+    one_sentence_summary: In a discussion on "Judging Freedom," Judge Andrew Napolitano
+      and Professor Gilbert Doctorow analyze the geopolitical implications of a recent
+      U.S.-approved Israeli attack in Doha, Qatar, noting a notable shift in Russia's
+      stance towards Israel.
+    paragraph_summary: In a recent episode of "Judging Freedom," Judge Andrew Napolitano
+      interviews Professor Gilbert Doctorow about the geopolitical situation in Europe,
+      particularly in light of a recent U.S.-approved Israeli attack on a residential
+      area in Doha, Qatar. Doctorow notes a significant shift in Russia's stance towards
+      Israel, with state media now condemning what they describe as Israeli genocide
+      in Gaza, indicating a hardening of Moscow's position. In Europe, there is an emerging
+      willingness to discuss sanctions against Israel, although no concrete actions
+      have been taken yet. However, Doctorow expresses skepticism about any meaningful
+      intervention from the Kremlin to protect Palestinians, suggesting that Russia
+      is largely influenced by the inaction of Gulf states on the matter.
+    published: '2025-09-17T20:36:48+00:00'
+  - title: Transcript of ‘Judging Freedom’ edition of 17 September
+    url: https://gilbertdoctorow.com/2025/09/17/transript-of-judging-freedom-edition-of-17-september/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=RHzPmbvNCYU
+      Napolitano: 0:32 Hi everyone, Judge Andrew Napolitano here for “Judging Freedom”.
+      Today is Wednesday, September 17th, 2025. Professor Gilbert Doctorow will be with
+      us in just a moment on Is Europe Collapsing? But first this. [ad] 1:56 Professor
+      Doctorow, welcome here, my dear friend. Thank you for accommodating my schedule,
+      as you always do. Before we get into the current state of geopolitics in Europe,
+      what has been the reaction in Europe and maybe in the Kremlin, if you’re able
+      to gauge it, to the United States-approved and facilitated and Israeli- perpetrated
+      attack on a residential neighborhood in Doha, Qatar last week? Doctorow: 2:31
+      The reaction– I’ll concentrate on the Russian reaction. What I detect in the last
+      few days watching Russian state television is a significant hardening of Moscow’s
+      position with respect to Israel. They were sitting on the fence. They didn’t want
+      to create difficulties in their relationship with Israel. That’s all over. What
+      I see now is very frank statements condemning Israeli genocide in Gaza, and of
+      course what happened in Doha is part of the overall picture. So in that regard
+      there is a change in Moscow’s position vis-a-vis Israel and the ongoing land offensive
+      in Gaza City is part of that picture as well. In Europe, of course, what we see
+      is a greater willingness to talk about sanctions against Israel, though of course
+      nothing has happened as yet. So far it’s just jaw-burning. Napolitano? 3:36 Is
+      the Kremlin going to do anything about it? I mean, how should we read this public
+      change in the Kremlin’s attitude? Doctorow: I’m afraid to say that it doesn’t
+      indicate any particular actions to protect Palestinians or to intervene in the
+      conflict. That is not the present state of affairs. I think that the Kremlin takes
+      its cue from what the Gulf states are doing, and as you know, the Gulf states
+      are doing nothing. Therefore, it is useful, interesting to see the Kremlin has
+      finally broken with this mystique around Israel and is taking a moralistic stand
+      and not afraid to condemn the Israeli government. Napolitano: 4:28 Has there been
+      any reaction that you’re able to detect to Prime Minister Netanyahu going on international
+      television and before Charlie Kirk’s shooter was even caught or named, denying
+      that the Israelis murdered him. Who denies that they committed a murder before
+      they were accused of it? Doctorow: Well, in the case of the Kremlin, there has
+      been almost no commentary on that issue. I understand that it is highly visible
+      in American media. Even in Europe, I don’t see much commentary on that particular
+      question, but for Russia, it doesn’t exist. Napolitano: 5:12 President Putin’s
+      recent trip to the Belarus-Russian War Games wearing a military uniform, Do you
+      read anything into that? Doctorow: Well, it’s the first time, to my knowledge,
+      it’s the first time that he has donned a military uniform. It was quite impressive
+      when Mr. Belousov, his very civilian minister of defense, first shifted from a
+      formal suit to a military uniform. And now Putin has done that. I don’t think
+      it’s necessarily a message to the West, though it would be appropriate to say
+      it’s a hardening of his position, and his position on the war, of course. And
+      I think that the occasion was to be one of the boys when he was meeting with the
+      20 or so foreign delegations who were present as witnesses and some as participants
+      in the military exercises, war. This 2025 is taking place, as you say, in central
+      Russia, not far from the Volga River in the territory of Nizhny Novgorod. That
+      is a remarkable event. It’s understandable that it attracted so many foreign visitors,
+      from the global South in particular, Because there are 100,000 Russian soldiers
+      in these exercises, an extraordinary large number. Napolitano: 6:53 Were NATO
+      officials invited to observe this? Doctorow: I believe they were. But of course,
+      when Mr. Putin had his address to the foreign contingents, NATO people were not
+      in it. Napolitano: Why would NATO be invited to observe a hundred thousand Russian
+      troops and gleaming new military equipment? Doctorow: I don’t think there’s any
+      particular meaning to that, because by convention, all military exercises, both
+      Russian and Western, usually invite everyone. So it would be exceptional if they
+      were excluded, not that they were included. Napolitano: 7:44 What is the Kremlin’s
+      public position on the drones over Poland? Doctorow: I think the public position
+      was stated clearly by their ambassador to the United Nations last week, Mr. Mabenzio,
+      And he spoke of this as absolutely not Russian drones, that they had no participation
+      in this. He made mention of the Belarusian reporting in real time on the incoming
+      flight headed towards Poland. And as a demonstration that Russia was in no way
+      involved, the Belarusian authorities hardly would be alerting the Poles if their
+      fraternal Russian military were sending drones at Poland. So the flat denial.
+      I don’t see, though, any particular accusations as to what the intention of this
+      Ukrainian action was. 8:55 From the very beginning, we assumed it was to spark
+      some kind of a conflict between Poland and Russia, which would immediately broaden
+      into a NATO-Russian conflict. But I don’t see this as being reasserted or any
+      other particular interpretation being presented by the Kremlin. Napolitano: 9:15
+      Is this, in your view, the dirty work of MI6 and CIA again? Doctoorow: I’m skeptical
+      if the CIA at this stage would be involved, given Mr. Trump’s position on Ukraine
+      and Russia, That the MI6 is involved is on the hundred percent. So that is a fair
+      game. Pick up, there have been so many statements by various observers with considerable
+      technical expertise explaining why this was a fake attack, why this was an attempt
+      by Ukraine to set off the parties against one another. But this has not been,
+      as I said, hasn’t been in Russian news. And I don’t think it’s a current issue
+      for Russia. What is interesting is that, for example, the _Financial Times_ today
+      is speaking about these drone incursions as if they were Russian without any question,
+      that this is not a contentious issue. That’s a statement of fact. The Russians
+      sent these drones in, and we in Western Europe have to react by strengthening,
+      by investing more in our defenses, and of course by increasing our cooperation
+      with the Ukrainians who have far more experience in liquidating, destroying Russian
+      drones than we in Western Europe have. That is the official word coming out of
+      the _Financial Times_, and I take it to be prompted by MI6. Napolitano: 11:05
+      I thought of you this morning when I saw these absurdities in the _Financial Times_.
+      Has the Kremlin indicated at all how much longer it will take for the Russian
+      military to achieve its objectives in Ukraine? Doctorow: No, no. They don’t put
+      out any timelines or any indications of what they’re going to do next. The daily
+      news on Russia hasn’t changed in the last several weeks. They speak about capturing
+      this or that village in Zaporozhye, in Donetsk oblast and elsewhere, but they
+      don’t give you a strategic vision of where they’re heading or whether they’re
+      going to take Odessa, how soon they’re going to take Odessa. There’s nothing of
+      that sort in Russian news. Napolitano: 11:53 Let me back up to Poland for a minute.
+      I neglected to ask you this. Did the Polish government send troops to the Polish
+      border in significant numbers? Doctorow: o-fly zone in the face of the Russian
+      military. Let’s jump to Europe. Over the weekend, there was an enormous march
+      in London. The British police said it was 110,000 people. The media says it was
+      north of a million. It’s a huge, huge number of people fiercely opposed to the
+      government, doing something that I honestly didn’t know was unlawful in Britain,
+      which is waving the Union Jack. You know, you see these American demonstrations,
+      people wave American flags all the time, but this was apparently unprecedented
+      in Britain, or at least rarely done. Is Prime Minister Starmer on thin ice? Is
+      the Labour Party going to go through this musical chairs as Prime Minister, as
+      the Tories did a few years ago? Doctorow: Starmer has serious political problems
+      at home. I wish I could say that they were caused by his various positions in
+      geopolitics, but they’re not. The difficulties that Starmer has are very traditional
+      in British political history, which was laden with sex scandals. Well, in this
+      case, the domestic issues were the forced resignation of his deputy prime minister
+      over scandalous, really scandalous tax manipulation. And there are other members
+      of his cabinet who are teetering. 14:59 There is severe criticism within the party
+      of Starmer, who is now being called by leading figures in his own party as being
+      incompetent and not up to the job. On the outside, the conservative party, the
+      normal conservative party is also in tatters. The only rising force, the people
+      who could succeed Stammer in case he loses his grip, is ousted, then has to hold
+      an election and loses the election, which would be quite likely, is Nigel Farage,
+      who is doing very well. He has been consistent going back a dozen years. He has
+      a very statesman-like image. Let’s remember that Mr. Farage had difficulties in
+      the past. He was known to tiple too much, to drink too much. All that is gone.
+      He’s quite serious. And his policies on immigration and on Brexit and otherwise,
+      have been useful to him because of his very consistency over a decade, whereas
+      others have waffled, gone this way and that, in both parties. Napolitano: You
+      know, I know him well. He worked with me at Fox News. He was there for about two
+      years. In those days, it was almost inconceivable that he would become the prime
+      minister, but you’re telling me there is a spanking new Nigel Farage who’s perceived
+      as a statesman by the British people and could very well be living at number 10
+      Downing Street in the future? Doctorow: 16:46 It is possible. I agree that he
+      had difficult times, and for the reason I just mentioned, he wasn’t taken so seriously,
+      but that’s all gone. He has sobered up in every way, and his positions are of
+      great popularity, particularly on immigration. It’s very hard for other parties
+      to get their arms around that. Napolitano: 17:10 Let’s look at France, which is
+      in its fifth government in two years. How stable is the government there? Doctorow:
+      Well, it’s a question of how many weeks or months this new government will last.
+      The peculiar thing is that Beyrou was replaced now by the defense minister, who
+      was close to Macron. But it’s the heart of what is wrong with Macron government.
+      After all, Beyrou was fired, was lost the vote of confidence over his budget.
+      Which– what was wrong with the budget? That everything was being cut, that the
+      number of public holidays [was] being cut, that health, welfare benefits were
+      being cut, and only one budgetary item was going up, and that is defense. It is
+      inconceivable that this fact– this basis for the new prime minister in an increased
+      military spend when everything else is being cut– it’s inconceivable that that
+      will go on for long. In the meantime, the French government has a different problem.
+      That is the loss of confidence of investors and of the business world in its ability
+      to keep the national debt within sustainable, financeable terms. Today’s _Financial
+      Times_ is reporting that exceptionally the French private company bonds are giving
+      a lower interest to their purchasers than government bonds. It should normally
+      be the other way around. It means that the markets have lost confidence in Macron.
+      And I don’t see how he can stay on for long when the markets where he came from
+      disown him. Napolitano: 19:10 Fascinating observation. In Germany, the AfD gained
+      recently, but at the price of the socialists, as I understand, not at the price
+      of Chancellor Merz’s party. I don’t know if that makes Merz stronger or makes
+      the AFD stronger. Doctorow: It makes the government weaker. He has a coalition
+      government. Napolitano: Right. Doctorow: And his coalition partners are precisely
+      the people who took a battering in the West German elections. Now, this Alice
+      Weidel and her Alternative for Germany, they didn’t rise, I think it’s about 15
+      percent, which doesn’t give you a ruling position in the government. But considering
+      the loss– that everything she gained was at the expense of Merz’s coalition partner,
+      it puts in jeopardy his coalition government. And if that government should fall,
+      he’ll be obliged, most likely, to call elections, in which case all possibilities
+      are open. And his continued service as chancellor has a question mark over it.
+      Napolitano: 20:29 Last subject matter, von der Leyen, is she confronting some
+      sort of a vote of no confidence, and if the vote of no confidence prevails, is
+      she out of a job? Doctorow: Well, when we last spoke a week ago, I mentioned what
+      I’d heard from a well-informed, independent member of parliament from Germany
+      who said his prediction was that she won’t last six months. And he reminded me
+      that on the last vote of confidence, she was held in power by one vote. Now, what
+      has just happened? And why is it possible that she will lose this vote of no confidence?
+      There are two of them, apparently scheduled in a week’s time from now. 21:18 The
+      one that’s most important, I think, politically, is the one that is being sponsored
+      by Victor Orbán’s bloc. There are deputies from various countries, but he is–
+      the bloc that he formed is called Patriots for Europe. And that is interesting
+      because Viktor Orban is now in really a fighting mood. He just won a very important
+      decision by the European Court of Justice, in which the core issue was whether
+      Orban’s very restrictive policies on immigration, which are in contradiction with
+      the much more lax immigration regulations of the European Union, whether he would
+      continue to face blackmail and suspension of monies that are owed to Hungary in
+      the EU budget for violation of EU immigration rules. He won the case. 22:20 This
+      just happened. And that put him really in a fighting mood, as came out in a message
+      to his parliament yesterday. He initiated a vote of no confidence against von
+      der Leyen. And who knows, they may unseat her. Napolitano: Wow. Professor Doctorow,
+      thank you very much. I know you’re traveling, and I deeply appreciate the time
+      you’ve given us. Enjoy your travels, safe travels. We’ll look forward to seeing
+      you next week. Doctorow: Well, thank you so much. Napolitano: Thank you. Coming
+      up today, a busy and full day for you: at 11 o’clock this morning, Pepe Escobar
+      from somewhere in China. At two this afternoon, Colonel Lawrence Wilkerson. At
+      three this afternoon, Phil Giraldi. At four this afternoon, Professor Jeffrey
+      Sachs. 23:06 Judge Napolitano for “Judging Freedom”.'
+    one_sentence_summary: In a discussion on "Judging Freedom," Judge Andrew Napolitano
+      and Professor Gilbert Doctorow analyze the geopolitical implications of a recent
+      U.S.-approved Israeli attack in Doha, Qatar, noting a notable shift in Russia's
+      stance towards Israel.
+    paragraph_summary: In a recent episode of "Judging Freedom," Judge Andrew Napolitano
+      interviews Professor Gilbert Doctorow about the geopolitical situation in Europe,
+      particularly in light of a recent U.S.-approved Israeli attack on a residential
+      area in Doha, Qatar. Doctorow notes a significant shift in Russia's stance towards
+      Israel, with state media now condemning what they describe as Israeli genocide
+      in Gaza, indicating a hardening of Moscow's position. In Europe, there is an emerging
+      willingness to discuss sanctions against Israel, although no concrete actions
+      have been taken yet. However, Doctorow expresses skepticism about any meaningful
+      intervention from the Kremlin to protect Palestinians, suggesting that Russia
+      is largely influenced by the inaction of Gulf states on the matter.
+    published: '2025-09-17T20:36:48+00:00'
+  - title: '‘Judging Freedom’ edition of 17 September: Is Europe collapsing?'
+    url: https://gilbertdoctorow.com/2025/09/17/judging-freedom-edition-of-17-september-is-europe-collapsing/
+    text: There are good reasons to spend time considering the weaknesses in the traditional
+      leaders of the EU, France and Germany, as well as in Britain as we ponder how
+      the Russia-Ukraine war will end and when.
+    one_sentence_summary: The article emphasizes the importance of examining the weaknesses
+      of traditional EU leaders, particularly France, Germany, and Britain, in the context
+      of understanding the potential outcomes and timeline of the Russia-Ukraine war.
+    paragraph_summary: The article emphasizes the importance of analyzing the weaknesses
+      of traditional EU leaders, particularly France and Germany, along with Britain,
+      in the context of the ongoing Russia-Ukraine war. Understanding these vulnerabilities
+      is crucial for assessing the potential outcomes and timelines of the conflict,
+      as the effectiveness and unity of these nations play a significant role in shaping
+      the geopolitical landscape and responses to the war.
+    published: '2025-09-17T13:07:48+00:00'
+  - title: '‘Judging Freedom’ edition of 17 September: Is Europe collapsing?'
+    url: https://gilbertdoctorow.com/2025/09/17/judging-freedom-edition-of-17-september-is-europe-collapsing/
+    text: There are good reasons to spend time considering the weaknesses in the traditional
+      leaders of the EU, France and Germany, as well as in Britain as we ponder how
+      the Russia-Ukraine war will end and when.
+    one_sentence_summary: The article emphasizes the importance of examining the weaknesses
+      of traditional EU leaders, particularly France, Germany, and Britain, in the context
+      of understanding the potential outcomes and timeline of the Russia-Ukraine war.
+    paragraph_summary: The article emphasizes the importance of analyzing the weaknesses
+      of traditional EU leaders, particularly France and Germany, along with Britain,
+      in the context of the ongoing Russia-Ukraine war. Understanding these vulnerabilities
+      is crucial for assessing the potential outcomes and timelines of the conflict,
+      as the effectiveness and unity of these nations play a significant role in shaping
+      the geopolitical landscape and responses to the war.
+    published: '2025-09-17T13:07:48+00:00'
   - title: Transcript of ‘Judging Freedom,’ 9 September 2025
     url: https://gilbertdoctorow.com/2025/09/10/transcript-of-judging-freedom-9-september-2025/
     text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=C2saYUvFeCY

@@ -7,14 +7,1134 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  The aftermath of Charlie Kirk’s assassination continues to dominate the US political landscape, with the Trump administration intensifying its rhetoric and policy proposals around free speech and political violence. In the most recent development, US Attorney General Pam Bondi has publicly attributed Kirk’s killing to “hate speech” against conservatives, signaling a shift toward criminalizing certain forms of political expression. **Caitlin Johnstone** notes that Bondi’s remarks, made in the wake of a widely circulated podcast on conservative treatment at universities, suggest the administration is preparing to prosecute what it deems as anti-conservative rhetoric. This marks a significant escalation from previous calls for action and reflects the administration’s broader push for new legal frameworks targeting dissent.
+  The ongoing crisis in Gaza continues to dominate the geopolitical landscape, with new developments highlighting both the intensification of Israeli military actions and the international response. In the latest escalation, the Global Sumud Flotilla—an international convoy attempting to deliver humanitarian aid to Gaza—was attacked by Israeli drones, resulting in injuries and significant damage to the vessels. Israeli officials have justified the strikes by labeling the activists as violent and alleging ties to Hamas, a narrative that has been sharply contested by independent observers.
   
-  Simultaneously, the debate over media control has intensified. Calls for a “Charlie Kirk Act” to establish a so-called “Ministry of Truth” have gained traction among Trump supporters, aiming to hold news organizations accountable for misinformation. While not yet law, these proposals echo earlier authoritarian measures such as the Smith-Mundt Act and raise alarms about the future of press freedom in the US.
+  **Caitlin Johnstone** notes that these attacks on the flotilla represent a further tightening of the blockade and a willingness by Israel to use force against civilian-led humanitarian initiatives. The Israeli government's framing of the activists as security threats is seen by many analysts as an attempt to delegitimize international solidarity with Gaza and to justify ongoing military operations.
   
-  On the international front, the Gaza crisis remains a flashpoint. **Johnstone** highlights the rare instance of Hollywood activism, as Hannah Einbinder used her Emmy acceptance speech to advocate for Palestine and draw a distinction between Jewish identity and the Israeli state. This act stands out amid a general silence from other celebrities, underscoring the ongoing lack of high-profile Western criticism of Israeli actions in Gaza.
+  This incident comes amid a broader context of what **Johnstone** describes as "hollow support" from Western governments for Palestinian statehood. While countries like the UK, Canada, and Australia have issued statements recognizing the need for a Palestinian state, these gestures are widely viewed as symbolic, especially in light of Israeli Prime Minister Netanyahu's continued rejection of Palestinian sovereignty and the expansion of settlements in the West Bank.
   
-  Trends indicate a hardening of government stances on both domestic dissent and international criticism. The Trump administration’s moves to criminalize certain speech and potentially centralize media oversight are “most definitely” leading the US toward a more authoritarian posture. Internationally, the lack of sustained celebrity or mainstream Western opposition to Israeli policies suggests that, barring a major shift in public sentiment, the status quo will persist. I guarantee that unless there is significant public backlash, these trends—both the clampdown on dissent at home and muted criticism of allied governments abroad—will continue to define the geopolitical climate in the near term.
+  Looking ahead, the majority of independent analysts cited in these reports predict with high confidence that Israeli military actions against both Gaza and international aid efforts will persist, given the lack of effective international pressure and the prevailing narratives in Western media. There is a high chance that further attempts to break the blockade will be met with similar or greater force, and that Western governments will continue to offer rhetorical support for Palestinian rights without substantive policy changes.
+  
+  In summary, the current trend points toward an ongoing cycle of violence and diplomatic stalemate, with the humanitarian situation in Gaza expected to deteriorate further unless there is a significant shift in international policy or public opinion.
 articles:
+  - title: More Attacks On The Gaza Aid Flotilla, And Other Notes From The Edge Of The
+      Narrative Matrix
+    url: https://www.caitlinjohnst.one/p/more-attacks-on-the-gaza-aid-flotilla
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The Global Sumud Flotilla which is bringing aid to break the Israeli siege on
+      Gaza has once again come under attack . Activists say drones are dropping explosive
+      objects which have reportedly burned the arm of one crew member and destroyed
+      the main mast of one of the boats. As Middle East Eye recently noted , US Ambassador
+      to Turkey and Special Envoy to Syria Tom Barrack has admitted that Israel was
+      behind the attacks on flotilla boats in Tunisia which we discussed earlier this
+      month, stating offhand during an interview that “Israel is attacking Tunisia.”
+      This happens as the Israeli government repeatedly issues statements branding the
+      boats a “ Hamas Flotilla ” and claiming the activists are “pursuing a violent
+      course of action,” something Israel tends to do when preparing to launch attacks
+      on civilians in hospitals or press uniforms. The Israelis will literally launch
+      drone strikes on activist boats for trying to bring formula to starving babies
+      and then turn around and say the world hates them because of their religion. https://x.com/emma_frr/status/1970622617720889604
+      ❖ On Tuesday Secretary of State Marco Rubio denounced the move by France, the
+      UK, Canada and Australia to formally recognize the state of Palestine, telling
+      CBS Mornings that “There is no Palestinian state no matter how many papers they
+      put out, and the only time there’ll ever be one is if there is a negotiation with
+      Israel.” It’s so surreal how Israel can come right out and explicitly say there
+      will never, ever be a Palestinian state, and western officials will just keep
+      babbling on about the possibility of Israel and Palestine negotiating a two-state
+      solution as though it never happened. ❖ Sure is a crazy coincidence how all of
+      Israel’s defensive actions in Gaza, Syria, Lebanon, Iran, Yemen and the West Bank
+      just so happen to look exactly the same as what it would look like if Israel was
+      trying to massively expand its territory and take control of the middle east.
+      ❖ Kamala Harris’ new book reportedly contains an admission that polls found her
+      refusal to oppose the genocide in Gaza likely cost her the election. If I was
+      a Democrat and I knew my refusal to oppose an active genocide was what got Donald
+      Trump elected, I personally would shut the fuck up for a while. All the Democrats
+      had to do was run an anti-genocide candidate. That’s all they needed to do to
+      keep Trump out. It’s the most reasonable request voters could possibly have made
+      of a candidate for the world’s most powerful elected office, and they adamantly
+      refused to do it. In a recent interview with Rachel Maddow, Harris referred to
+      Trump as a “communist dictator”. Democrats and Republicans are always calling
+      each other communists while in real life neither of them will even give Americans
+      a normal healthcare system because that would make the corporations sad. ❖ US
+      Ambassador to Israel Mike Huckabee likened Israel to the “wife” of the United
+      States during a speech at an event called “50 States, One Israel”. “It may sound
+      a little bit this afternoon as if I’m almost speaking on behalf of Israel rather
+      than the U.S.,” said Huckabee , who went on to explain that “If you came to my
+      house tonight for dinner and you came in and you said, ‘Oh, Mike, we like you.
+      We really think the world of you. We just enjoy being with you. So excited to
+      be here with you and have dinner with you. But your wife, we can’t stand her.
+      We don’t like her a bit. I hope she’s not going to be at the table.’ I would say,
+      ‘Well, she will be. You won’t be. Get out.’ Because if you were to insult my partner,
+      you have insulted me.” Christian Zionists are some of the craziest, weirdest,
+      creepiest, most dangerous fanatics on our planet. ❖ https://x.com/SecRubio/status/1967698172647797226
+      “Judeo-Christian” just means Zionist. Anyone who uses it these days is generally
+      just referring broadly to white people who love Israel and hate Muslims. It’s
+      a term used to distinguish the people we kill in our wars from the people who
+      do the killing. There’s nothing wrong with the word “Abrahamic”; it’s a perfectly
+      good term for the major monotheistic religions which trace their roots back to
+      Judaism. The only reason “Judeo-Christian” gets used instead is because Abrahamic
+      religions include Islam. Judaism and Christianity expanded westward, while Islam
+      has remained most popular among the darker-skinned people of the global south.
+      So they needed to popularize a special term to separate the religions of the white
+      western imperialists from the religion of the brown people those imperialists
+      like to kill. ❖ A New York Times investigation has found that Elon Musk’s father
+      Errol Musk has been repeatedly accused of molesting small children in his family,
+      including his four year-old stepdaughter whom he later impregnated as an adult.
+      The world is ruled by traumatized, emotionally stunted men who compensate for
+      their inner woundedness by obtaining as much power and control as possible, which
+      they then inevitably use to inflict trauma upon all of society. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The Global Sumud Flotilla, aimed at delivering aid to Gaza,
+      has faced drone attacks from Israel, resulting in injuries and damage to the boats,
+      while Israeli officials label the activists as violent and affiliated with Hamas.
+    paragraph_summary: The Global Sumud Flotilla, aimed at delivering aid to Gaza amidst
+      the Israeli blockade, has faced renewed attacks, including drone strikes that
+      injured a crew member and damaged a boat. U.S. Ambassador Tom Barrack acknowledged
+      Israel's involvement in these assaults, which Israel has labeled as targeting
+      a "Hamas Flotilla," despite the humanitarian nature of the mission. Concurrently,
+      U.S. Secretary of State Marco Rubio criticized the recognition of Palestine by
+      several countries, asserting that a Palestinian state will only emerge through
+      negotiations with Israel, highlighting a disconnect between Israel's stated intentions
+      and the ongoing discourse about a two-state solution. The article suggests that
+      Israel's military actions across the region appear to align with territorial expansion
+      rather than defense.
+    published: '2025-09-24T02:02:56+00:00'
+  - title: More Attacks On The Gaza Aid Flotilla, And Other Notes From The Edge Of The
+      Narrative Matrix
+    url: https://www.caitlinjohnst.one/p/more-attacks-on-the-gaza-aid-flotilla
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The Global Sumud Flotilla which is bringing aid to break the Israeli siege on
+      Gaza has once again come under attack . Activists say drones are dropping explosive
+      objects which have reportedly burned the arm of one crew member and destroyed
+      the main mast of one of the boats. As Middle East Eye recently noted , US Ambassador
+      to Turkey and Special Envoy to Syria Tom Barrack has admitted that Israel was
+      behind the attacks on flotilla boats in Tunisia which we discussed earlier this
+      month, stating offhand during an interview that “Israel is attacking Tunisia.”
+      This happens as the Israeli government repeatedly issues statements branding the
+      boats a “ Hamas Flotilla ” and claiming the activists are “pursuing a violent
+      course of action,” something Israel tends to do when preparing to launch attacks
+      on civilians in hospitals or press uniforms. The Israelis will literally launch
+      drone strikes on activist boats for trying to bring formula to starving babies
+      and then turn around and say the world hates them because of their religion. https://x.com/emma_frr/status/1970622617720889604
+      ❖ On Tuesday Secretary of State Marco Rubio denounced the move by France, the
+      UK, Canada and Australia to formally recognize the state of Palestine, telling
+      CBS Mornings that “There is no Palestinian state no matter how many papers they
+      put out, and the only time there’ll ever be one is if there is a negotiation with
+      Israel.” It’s so surreal how Israel can come right out and explicitly say there
+      will never, ever be a Palestinian state, and western officials will just keep
+      babbling on about the possibility of Israel and Palestine negotiating a two-state
+      solution as though it never happened. ❖ Sure is a crazy coincidence how all of
+      Israel’s defensive actions in Gaza, Syria, Lebanon, Iran, Yemen and the West Bank
+      just so happen to look exactly the same as what it would look like if Israel was
+      trying to massively expand its territory and take control of the middle east.
+      ❖ Kamala Harris’ new book reportedly contains an admission that polls found her
+      refusal to oppose the genocide in Gaza likely cost her the election. If I was
+      a Democrat and I knew my refusal to oppose an active genocide was what got Donald
+      Trump elected, I personally would shut the fuck up for a while. All the Democrats
+      had to do was run an anti-genocide candidate. That’s all they needed to do to
+      keep Trump out. It’s the most reasonable request voters could possibly have made
+      of a candidate for the world’s most powerful elected office, and they adamantly
+      refused to do it. In a recent interview with Rachel Maddow, Harris referred to
+      Trump as a “communist dictator”. Democrats and Republicans are always calling
+      each other communists while in real life neither of them will even give Americans
+      a normal healthcare system because that would make the corporations sad. ❖ US
+      Ambassador to Israel Mike Huckabee likened Israel to the “wife” of the United
+      States during a speech at an event called “50 States, One Israel”. “It may sound
+      a little bit this afternoon as if I’m almost speaking on behalf of Israel rather
+      than the U.S.,” said Huckabee , who went on to explain that “If you came to my
+      house tonight for dinner and you came in and you said, ‘Oh, Mike, we like you.
+      We really think the world of you. We just enjoy being with you. So excited to
+      be here with you and have dinner with you. But your wife, we can’t stand her.
+      We don’t like her a bit. I hope she’s not going to be at the table.’ I would say,
+      ‘Well, she will be. You won’t be. Get out.’ Because if you were to insult my partner,
+      you have insulted me.” Christian Zionists are some of the craziest, weirdest,
+      creepiest, most dangerous fanatics on our planet. ❖ https://x.com/SecRubio/status/1967698172647797226
+      “Judeo-Christian” just means Zionist. Anyone who uses it these days is generally
+      just referring broadly to white people who love Israel and hate Muslims. It’s
+      a term used to distinguish the people we kill in our wars from the people who
+      do the killing. There’s nothing wrong with the word “Abrahamic”; it’s a perfectly
+      good term for the major monotheistic religions which trace their roots back to
+      Judaism. The only reason “Judeo-Christian” gets used instead is because Abrahamic
+      religions include Islam. Judaism and Christianity expanded westward, while Islam
+      has remained most popular among the darker-skinned people of the global south.
+      So they needed to popularize a special term to separate the religions of the white
+      western imperialists from the religion of the brown people those imperialists
+      like to kill. ❖ A New York Times investigation has found that Elon Musk’s father
+      Errol Musk has been repeatedly accused of molesting small children in his family,
+      including his four year-old stepdaughter whom he later impregnated as an adult.
+      The world is ruled by traumatized, emotionally stunted men who compensate for
+      their inner woundedness by obtaining as much power and control as possible, which
+      they then inevitably use to inflict trauma upon all of society. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The Global Sumud Flotilla, aimed at delivering aid to Gaza,
+      has faced drone attacks from Israel, resulting in injuries and damage to the boats,
+      while Israeli officials label the activists as violent and affiliated with Hamas.
+    paragraph_summary: The Global Sumud Flotilla, aimed at delivering aid to Gaza amidst
+      the Israeli blockade, has faced renewed attacks, including drone strikes that
+      injured a crew member and damaged a boat. U.S. Ambassador Tom Barrack acknowledged
+      Israel's involvement in these assaults, which Israel has labeled as targeting
+      a "Hamas Flotilla," despite the humanitarian nature of the mission. Concurrently,
+      U.S. Secretary of State Marco Rubio criticized the recognition of Palestine by
+      several countries, asserting that a Palestinian state will only emerge through
+      negotiations with Israel, highlighting a disconnect between Israel's stated intentions
+      and the ongoing discourse about a two-state solution. The article suggests that
+      Israel's military actions across the region appear to align with territorial expansion
+      rather than defense.
+    published: '2025-09-24T02:02:56+00:00'
+  - title: '"Recognizing" The Rubble Of Palestine'
+    url: https://www.caitlinjohnst.one/p/recognizing-the-rubble-of-palestine
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now UK, Canada and Australia: Never fear, Palestinians!
+      We’re here to save the day! Palestinians: You’re going to stop the genocide? UK,
+      Canada and Australia: HAHAHAHAHA! No! Oh god no. Haha! No, we are going to give
+      a great big Thumbs Up to the idea of your eventual statehood! Palestinians: Will
+      you at least stop sending them weapons? UK, Canada and Australia: LOL no. ❖ In
+      response to the UK, Canada and Australia announcing their recognition of a Palestinian
+      state, Benjamin Netanyahu has proclaimed that Israel will never allow such a state
+      to exist. “It’s not going to happen. There will be no Palestinian state to the
+      west of the Jordan River,” Netanyahu said, adding that Israel will continue expanding
+      settlements in the West bank. It’s funny how Israel supporters will claim it’s
+      a genocidal hate crime to say “from the river to the sea Palestine will be free”,
+      but apparently it’s fine to say from the river to the sea Palestine will not be
+      free. Even if you say it while actually committing genocide. ❖ Israeli officials
+      coming out saying there will never be a Palestinian state are completely discrediting
+      all the two-state solution western liberals who’ve spent two years condemning
+      Hamas because they didn’t pursue their liberation by going through the proper
+      channels. Reminds me of that Jon Stone quote you see going around sometimes, “One
+      reason people insist that you use the proper channels to change things is because
+      they have control of the proper channels and they’re confident it won’t work.”
+      ❖ Westerner: I support a two-state solution. Israel: There will never be a Palestinian
+      state. Westerner: Okay then I support a one-state solution where everyone has
+      equal rights. Israel: You’re calling for an end to the Jewish state you monster.
+      Westerner: Alright then I support the Palestinian resistance. Israel: That’s supporting
+      terrorism. You are Hamas and we can legally murder you. Westerner: Well can I
+      at least support a permanent ceasefire to end the genocide? Israel: [ cocks pistol
+      ] What did I just tell you about supporting Hamas? Westerner: Okay then, I support
+      Palestinians living as a permanent underclass until they can be slowly salami
+      sliced out of existence as a people. Israel: Getting warmer. Westerner: I support
+      removing all Palestinians from their historic homeland via ethnic cleansing or
+      extermination before the end of Donald Trump’s presidential term. Israel: [ puts
+      away gun ] That’s more like it. ❖ I saw a video where two Australian doctors described
+      how they had to deliver a baby via emergency c-section because the baby’s mother
+      had been decapitated by an Israeli airstrike. Information like this always reminds
+      me of that period last year when all the western politicians and media outlets
+      were telling us that the worst people in the entire world were the university
+      students who were protesting against this genocide. ❖ The Global Sumud Flotilla
+      is saying they’re seeing drones around their ships again just days out from their
+      planned arrival to bring aid into Gaza. Earlier this month drones repeatedly dropped
+      incendiary firebombs on the boats. This comes as Israel’s Foreign Ministry declares
+      that the flotilla is a Hamas ally, and as Google runs Israel-sponsored ads spinning
+      the flotilla as a terrorist operation. I don’t know if the Israelis are going
+      to kill these courageous activists, but you can tell they really, really want
+      to. ❖ Remember that time we spent two years watching a horrific live-streamed
+      genocide and then everyone tried to tell us we’re supposed to cry and express
+      our deepest condolences when one of the propagandists for that genocide got shot?
+      That was weird, right? When Biden finally fucking dies I’m going to be much more
+      insensitive and hostile than I ever was about Charlie Kirk, because he was objectively
+      more murderous and destructive. And when I do, right wingers won’t be shrieking
+      at me about how evil it is to speak ill of the dead. These people have no principles;
+      they’re just herd-minded NPCs trying to canonize a horrible man because he has
+      the same ideology as them. ❖ You’re never going to believe this, but it turns
+      out that news story everyone’s been yelling hysterically about is being used to
+      advance many pre-existing agendas of the US empire. Officials at the US War Department
+      have announced that they’re considering using Charlie Kirk as a tool for military
+      recruitment. You can add that to the list of all the other agendas they’re using
+      Kirk’s death to advance like increased censorship and surveillance and attacks
+      on leftist dissident groups. This was predictable from the very beginning. Never
+      play along with their games. _________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article critiques the hollow support for Palestinian statehood
+      expressed by the UK, Canada, and Australia, juxtaposed with Israeli Prime Minister
+      Benjamin Netanyahu's firm rejection of such a state and ongoing settlement expansion
+      in the West Bank.
+    paragraph_summary: The article critiques the responses of the UK, Canada, and Australia
+      to the recognition of a Palestinian state, highlighting the irony in their lack
+      of action against Israeli aggression while offering symbolic support for Palestinian
+      statehood. It notes Israeli Prime Minister Benjamin Netanyahu's firm stance against
+      the establishment of a Palestinian state, asserting that Israel will continue
+      its settlement expansion in the West Bank. The piece underscores the hypocrisy
+      of Western supporters of a two-state solution who ignore Israel's outright rejection
+      of such a possibility, while also critiquing the narrative that labels any form
+      of Palestinian resistance as terrorism. Ultimately, it illustrates the complexities
+      and contradictions in the discourse surrounding the Israeli-Palestinian conflict.
+    published: '2025-09-22T02:38:14+00:00'
+  - title: '"Recognizing" The Rubble Of Palestine'
+    url: https://www.caitlinjohnst.one/p/recognizing-the-rubble-of-palestine
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now UK, Canada and Australia: Never fear, Palestinians!
+      We’re here to save the day! Palestinians: You’re going to stop the genocide? UK,
+      Canada and Australia: HAHAHAHAHA! No! Oh god no. Haha! No, we are going to give
+      a great big Thumbs Up to the idea of your eventual statehood! Palestinians: Will
+      you at least stop sending them weapons? UK, Canada and Australia: LOL no. ❖ In
+      response to the UK, Canada and Australia announcing their recognition of a Palestinian
+      state, Benjamin Netanyahu has proclaimed that Israel will never allow such a state
+      to exist. “It’s not going to happen. There will be no Palestinian state to the
+      west of the Jordan River,” Netanyahu said, adding that Israel will continue expanding
+      settlements in the West bank. It’s funny how Israel supporters will claim it’s
+      a genocidal hate crime to say “from the river to the sea Palestine will be free”,
+      but apparently it’s fine to say from the river to the sea Palestine will not be
+      free. Even if you say it while actually committing genocide. ❖ Israeli officials
+      coming out saying there will never be a Palestinian state are completely discrediting
+      all the two-state solution western liberals who’ve spent two years condemning
+      Hamas because they didn’t pursue their liberation by going through the proper
+      channels. Reminds me of that Jon Stone quote you see going around sometimes, “One
+      reason people insist that you use the proper channels to change things is because
+      they have control of the proper channels and they’re confident it won’t work.”
+      ❖ Westerner: I support a two-state solution. Israel: There will never be a Palestinian
+      state. Westerner: Okay then I support a one-state solution where everyone has
+      equal rights. Israel: You’re calling for an end to the Jewish state you monster.
+      Westerner: Alright then I support the Palestinian resistance. Israel: That’s supporting
+      terrorism. You are Hamas and we can legally murder you. Westerner: Well can I
+      at least support a permanent ceasefire to end the genocide? Israel: [ cocks pistol
+      ] What did I just tell you about supporting Hamas? Westerner: Okay then, I support
+      Palestinians living as a permanent underclass until they can be slowly salami
+      sliced out of existence as a people. Israel: Getting warmer. Westerner: I support
+      removing all Palestinians from their historic homeland via ethnic cleansing or
+      extermination before the end of Donald Trump’s presidential term. Israel: [ puts
+      away gun ] That’s more like it. ❖ I saw a video where two Australian doctors described
+      how they had to deliver a baby via emergency c-section because the baby’s mother
+      had been decapitated by an Israeli airstrike. Information like this always reminds
+      me of that period last year when all the western politicians and media outlets
+      were telling us that the worst people in the entire world were the university
+      students who were protesting against this genocide. ❖ The Global Sumud Flotilla
+      is saying they’re seeing drones around their ships again just days out from their
+      planned arrival to bring aid into Gaza. Earlier this month drones repeatedly dropped
+      incendiary firebombs on the boats. This comes as Israel’s Foreign Ministry declares
+      that the flotilla is a Hamas ally, and as Google runs Israel-sponsored ads spinning
+      the flotilla as a terrorist operation. I don’t know if the Israelis are going
+      to kill these courageous activists, but you can tell they really, really want
+      to. ❖ Remember that time we spent two years watching a horrific live-streamed
+      genocide and then everyone tried to tell us we’re supposed to cry and express
+      our deepest condolences when one of the propagandists for that genocide got shot?
+      That was weird, right? When Biden finally fucking dies I’m going to be much more
+      insensitive and hostile than I ever was about Charlie Kirk, because he was objectively
+      more murderous and destructive. And when I do, right wingers won’t be shrieking
+      at me about how evil it is to speak ill of the dead. These people have no principles;
+      they’re just herd-minded NPCs trying to canonize a horrible man because he has
+      the same ideology as them. ❖ You’re never going to believe this, but it turns
+      out that news story everyone’s been yelling hysterically about is being used to
+      advance many pre-existing agendas of the US empire. Officials at the US War Department
+      have announced that they’re considering using Charlie Kirk as a tool for military
+      recruitment. You can add that to the list of all the other agendas they’re using
+      Kirk’s death to advance like increased censorship and surveillance and attacks
+      on leftist dissident groups. This was predictable from the very beginning. Never
+      play along with their games. _________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article critiques the hollow support for Palestinian statehood
+      expressed by the UK, Canada, and Australia, juxtaposed with Israeli Prime Minister
+      Benjamin Netanyahu's firm rejection of such a state and ongoing settlement expansion
+      in the West Bank.
+    paragraph_summary: The article critiques the responses of the UK, Canada, and Australia
+      to the recognition of a Palestinian state, highlighting the irony in their lack
+      of action against Israeli aggression while offering symbolic support for Palestinian
+      statehood. It notes Israeli Prime Minister Benjamin Netanyahu's firm stance against
+      the establishment of a Palestinian state, asserting that Israel will continue
+      its settlement expansion in the West Bank. The piece underscores the hypocrisy
+      of Western supporters of a two-state solution who ignore Israel's outright rejection
+      of such a possibility, while also critiquing the narrative that labels any form
+      of Palestinian resistance as terrorism. Ultimately, it illustrates the complexities
+      and contradictions in the discourse surrounding the Israeli-Palestinian conflict.
+    published: '2025-09-22T02:38:14+00:00'
+  - title: Imagine There Was A Violent Cult Committing Atrocities With Impunity
+    url: https://www.caitlinjohnst.one/p/imagine-there-was-a-violent-cult
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Imagine there was a violent cult that used scriptures from an ancient religion
+      to convince its followers to do evil things. Imagine the cult was given its own
+      state. Imagine the cult was given machine guns, tanks and war planes. Imagine
+      the cult obtained nuclear weapons. Imagine the cult started committing genocide
+      against the indigenous people who’d been living in the area where the cult’s state
+      was established. Imagine the cult had huge branches in the most powerful nation
+      on earth, and the powerful nation defended the cult no matter what it did. Imagine
+      the cult flipped out and started relentlessly attacking and invading the surrounding
+      nations. Imagine the cult had so much influence and support in western society
+      that western governments and institutions would censor, silence, fire, marginalize
+      and deport anyone who criticized the cult’s actions. Imagine the western media
+      sympathized highly with the cult and spent the entire time framing its atrocities
+      as entirely reasonable defensive actions, and framing critics of the cult as malicious
+      bigots. Imagine the cult kept getting crazier and crazier and more and more violent,
+      but nobody could find a way to stop it because its actions were backed by this
+      giant western power structure. That’d suck, huh? I think that’d be just about
+      the most bat shit insane situation anyone could possibly imagine. A nuclear-armed
+      death cult just murdering and massacring mountains of human beings with total
+      impunity, backed by the most powerful people on earth? That would be an unfathomable
+      madness. If someone made a movie about such a thing I’d stop watching halfway
+      through, because I would find it too unbelievable. I’d be like, come on man. Come
+      up with a more realistic plot line. And come up with a more believable antagonist;
+      nobody is that evil. I’d be like come on Hollywood, you seriously expect me to
+      maintain my suspension of disbelief when you’re putting out a movie about these
+      cartoonishly evil bad guys who blow up hospitals and assassinate journalists and
+      murder humanitarian workers and deliberately massacre starving civilians seeking
+      food? I’d be like, you really expect me to believe a violent cult could get all
+      this power and do all these evil things and get away with it, just by lying about
+      it all the time? Eventually people would stop believing their lies! I’d be like,
+      somebody would stop them. Not only does this movie have unbelievable antagonists,
+      it also lacks any believable protagonists. Basic human decency would compel the
+      world to stop all these atrocities being committed right out in the open. Where
+      are the heroes in this story? And then I’d storm out of the movie theater, glad
+      to be outside that horrible fictional world where such freakish absurdities were
+      taking place. And then I’d stand in the parking lot and look up at the sky, and
+      thank God I’m back in reality again. _________________ Caitlin’s Newsletter is
+      a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article presents a hypothetical scenario in which a violent
+      cult, backed by a powerful nation and equipped with military resources, commits
+      atrocities and faces little to no accountability or criticism from the global
+      community.
+    paragraph_summary: The article presents a hypothetical scenario where a violent
+      cult, using ancient religious scriptures to justify its actions, is granted its
+      own state and armed with advanced weaponry, including nuclear arms. This cult
+      commits genocide against indigenous populations and aggressively invades neighboring
+      nations, all while receiving unwavering support from a powerful nation that defends
+      its actions and silences critics. The media portrays the cult's violence as defensive,
+      framing dissenters as bigots, leading to a situation where the cult's increasingly
+      extreme behavior goes unchecked due to the backing of a significant power structure.
+      The author expresses disbelief at the extremity of this situation, suggesting
+      it would be too outrageous for even a fictional narrative.
+    published: '2025-09-21T00:13:29+00:00'
+  - title: Imagine There Was A Violent Cult Committing Atrocities With Impunity
+    url: https://www.caitlinjohnst.one/p/imagine-there-was-a-violent-cult
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Imagine there was a violent cult that used scriptures from an ancient religion
+      to convince its followers to do evil things. Imagine the cult was given its own
+      state. Imagine the cult was given machine guns, tanks and war planes. Imagine
+      the cult obtained nuclear weapons. Imagine the cult started committing genocide
+      against the indigenous people who’d been living in the area where the cult’s state
+      was established. Imagine the cult had huge branches in the most powerful nation
+      on earth, and the powerful nation defended the cult no matter what it did. Imagine
+      the cult flipped out and started relentlessly attacking and invading the surrounding
+      nations. Imagine the cult had so much influence and support in western society
+      that western governments and institutions would censor, silence, fire, marginalize
+      and deport anyone who criticized the cult’s actions. Imagine the western media
+      sympathized highly with the cult and spent the entire time framing its atrocities
+      as entirely reasonable defensive actions, and framing critics of the cult as malicious
+      bigots. Imagine the cult kept getting crazier and crazier and more and more violent,
+      but nobody could find a way to stop it because its actions were backed by this
+      giant western power structure. That’d suck, huh? I think that’d be just about
+      the most bat shit insane situation anyone could possibly imagine. A nuclear-armed
+      death cult just murdering and massacring mountains of human beings with total
+      impunity, backed by the most powerful people on earth? That would be an unfathomable
+      madness. If someone made a movie about such a thing I’d stop watching halfway
+      through, because I would find it too unbelievable. I’d be like, come on man. Come
+      up with a more realistic plot line. And come up with a more believable antagonist;
+      nobody is that evil. I’d be like come on Hollywood, you seriously expect me to
+      maintain my suspension of disbelief when you’re putting out a movie about these
+      cartoonishly evil bad guys who blow up hospitals and assassinate journalists and
+      murder humanitarian workers and deliberately massacre starving civilians seeking
+      food? I’d be like, you really expect me to believe a violent cult could get all
+      this power and do all these evil things and get away with it, just by lying about
+      it all the time? Eventually people would stop believing their lies! I’d be like,
+      somebody would stop them. Not only does this movie have unbelievable antagonists,
+      it also lacks any believable protagonists. Basic human decency would compel the
+      world to stop all these atrocities being committed right out in the open. Where
+      are the heroes in this story? And then I’d storm out of the movie theater, glad
+      to be outside that horrible fictional world where such freakish absurdities were
+      taking place. And then I’d stand in the parking lot and look up at the sky, and
+      thank God I’m back in reality again. _________________ Caitlin’s Newsletter is
+      a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article presents a hypothetical scenario in which a violent
+      cult, backed by a powerful nation and equipped with military resources, commits
+      atrocities and faces little to no accountability or criticism from the global
+      community.
+    paragraph_summary: The article presents a hypothetical scenario where a violent
+      cult, using ancient religious scriptures to justify its actions, is granted its
+      own state and armed with advanced weaponry, including nuclear arms. This cult
+      commits genocide against indigenous populations and aggressively invades neighboring
+      nations, all while receiving unwavering support from a powerful nation that defends
+      its actions and silences critics. The media portrays the cult's violence as defensive,
+      framing dissenters as bigots, leading to a situation where the cult's increasingly
+      extreme behavior goes unchecked due to the backing of a significant power structure.
+      The author expresses disbelief at the extremity of this situation, suggesting
+      it would be too outrageous for even a fictional narrative.
+    published: '2025-09-21T00:13:29+00:00'
+  - title: Netanyahu Keeps Making Statements Saying Israel Didn't Kill Charlie Kirk
+    url: https://www.caitlinjohnst.one/p/netanyahu-keeps-making-statements
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now One of the weirdest things happening right
+      now is how Israel’s prime minister keeps going out of his way to make public statements
+      saying that Israel was definitely not behind the assassination of Charlie Kirk.
+      In a two-minute video uploaded onto his Twitter account on Wednesday, Netanyahu
+      complained that “Somebody has fabricated a monstrous big lie that Israel had something
+      to do with Charlie Kirk’s horrific murder,” saying the allegation “is insane,
+      it is false, it is outrageous,” and that “Charlie loved Israel.” A few days earlier,
+      Netanyahu appeared on the highly sympathetic Newsmax to spend another couple of
+      minutes ranting about how “insane”, “stupid” and “ridiculous” it is to claim that
+      Israel was behind Kirk’s death, saying he “can’t believe that people are saying
+      that.” https://x.com/IsraeliPM/status/1968511432032391272 This is like repeatedly
+      going out in public to yell “I did not have a sex dream about my cousin!” so that
+      nobody thinks you had a sex dream about your cousin. People are going to walk
+      away with the strong impression that you probably had a sex dream about your cousin.
+      At this time I have no position on the emerging theories that Israel was involved
+      in the assassination, but damn dude. Really not quelling the suspicion there.
+      ❖ Israel’s Foreign Ministry is claiming that the Gaza flotilla bringing aid to
+      starving civilians is actually Hamas. “The so-called ‘Flotilla to Gaza’ is openly
+      backed by jihadi Hamas,” the ministry said in a statement , claiming that “This
+      is a jihadist initiative serving the terror group’s agenda.” If you’ve been following
+      the Gaza holocaust for a while you start getting real nervous whenever Israel
+      begins saying a new group of civilians are Hamas. ❖ Trump has announced plans
+      to designate Antifa a terrorist organization, which liberals have hastened to
+      point out is a legal absurdity since Antifa is not an actual entity in any meaningful
+      way and has no leadership or organizational structure. But the fact that they’re
+      pushing to apply the “terrorist” label to something so vague and amorphous actually
+      makes this more concerning in some ways, since the shapelessness of the claim
+      will make it easier to slap that label on anyone they’ve got a mind to. The Trump
+      administration is also reportedly planning to include transgender suspects in
+      the FBI’s newly created domestic threat category of “ nihilistic violent extremists
+      ” as the American right’s anti-trans feeding frenzy hits fever pitch. One of the
+      fastest ways to lose my interest and respect is to play along with the anti-trans
+      bullshit, because you’re telling me you’re just another dopey herd-minded NPC
+      thinking whatever thoughts your rulers want you to think. It’s the most obvious
+      thing in the world that the trans community has been deliberately demonized by
+      the ruling class to keep half the population angry at a convenient target instead
+      of at the people with real power. All the Trumpian pundits and politicians, oligarchs
+      and empire managers have been feeding into this frenzied hate campaign against
+      a marginalized population to keep the populists barking and snarling at ordinary
+      members of the public so the energy of their discontent doesn’t start drifting
+      in revolutionary directions. They’ve been completely transparent about this. Couldn’t
+      have made it clearer. And people have been clapping along with it like a bunch
+      of drooling toddlers watching a puppet show. It’s pathetic. Leave trans people
+      alone. Let them be. They are not a threat to you. They’ve got it rough enough
+      as it is. Your rulers want you punching laterally so you don’t start punching
+      up. ❖ Since I began criticizing the Trump administration’s aggressive assaults
+      on free speech in the wake of the Charlie Kirk killing I’ve had American rightists
+      falling all over themselves in my social media notifications trying to justify
+      government censorship. Yesterday I had multiple Trump supporters try to tell me
+      that it should be illegal to lie, and that anyone who tells lies should be stopped
+      from lying by the government. One of them told me he’s an anarchist. https://x.com/caitoz/status/1968704236646027763
+      Some of them argue, “Democrats censored us, so we get to censor the Democrats!
+      Turn about is fair play!” That only sounds like a cool argument if you believe
+      the two-party puppet show is real. In reality you’re both lining up to give more
+      and more of your power to the empire which remains in power regardless of who
+      won the last election. They surrender some, you surrender some more, repeat. Obviously
+      American liberals should have known they were opening themselves up to return
+      fire with their support for censorship when they were in power. Obviously they
+      should not have done that, and people like me told them this the entire time.
+      That doesn’t change the fact that you’re handing the nonpartisan oppression machine
+      more power that you will never get back every time you throw your support behind
+      retaliatory acts of speech suppression. You think you’re hurting the libs, but
+      you’re just hurting yourself. You’re just making your society more tyrannical
+      and dystopian in ways that will inevitably affect you. You’re clapping along with
+      the two-handed puppet show while your real oppressor picks your pockets. ❖ Alexandria
+      Ocasio-Cortex is reportedly planning a presidential run , which anyone could see
+      coming from miles away. Everything about this person is a lab-grown synthetic
+      product designed to rocket to the top of the Beltway swamp as quickly as possible.
+      Every single step of her career has been carefully choreographed. Every statement.
+      Every photo op. All so she can drone bomb middle eastern civilians from the Oval
+      Office. ________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Israeli Prime Minister Netanyahu has been vocally denying
+      any involvement in the assassination of Charlie Kirk, calling the allegations
+      "insane" and "false" in multiple public statements.
+    paragraph_summary: In a recent article, the author discusses Israeli Prime Minister
+      Benjamin Netanyahu's vehement denials regarding Israel's involvement in the assassination
+      of Charlie Kirk, emphasizing how his repeated public statements may inadvertently
+      raise suspicion rather than quell it. Netanyahu's strong reactions, labeling the
+      allegations as "insane" and "false," are likened to someone defensively denying
+      an embarrassing personal rumor, suggesting that such fervent denial can lead to
+      more speculation. Additionally, the article touches on Israel's Foreign Ministry's
+      claims that a humanitarian flotilla to Gaza is actually a Hamas initiative, raising
+      concerns about the labeling of civilians as terrorists. The piece also briefly
+      mentions former President Trump's plans to designate Antifa as a terrorist organization,
+      highlighting the legal absurdity of such a move.
+    published: '2025-09-20T02:59:33+00:00'
+  - title: Netanyahu Keeps Making Statements Saying Israel Didn't Kill Charlie Kirk
+    url: https://www.caitlinjohnst.one/p/netanyahu-keeps-making-statements
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now One of the weirdest things happening right
+      now is how Israel’s prime minister keeps going out of his way to make public statements
+      saying that Israel was definitely not behind the assassination of Charlie Kirk.
+      In a two-minute video uploaded onto his Twitter account on Wednesday, Netanyahu
+      complained that “Somebody has fabricated a monstrous big lie that Israel had something
+      to do with Charlie Kirk’s horrific murder,” saying the allegation “is insane,
+      it is false, it is outrageous,” and that “Charlie loved Israel.” A few days earlier,
+      Netanyahu appeared on the highly sympathetic Newsmax to spend another couple of
+      minutes ranting about how “insane”, “stupid” and “ridiculous” it is to claim that
+      Israel was behind Kirk’s death, saying he “can’t believe that people are saying
+      that.” https://x.com/IsraeliPM/status/1968511432032391272 This is like repeatedly
+      going out in public to yell “I did not have a sex dream about my cousin!” so that
+      nobody thinks you had a sex dream about your cousin. People are going to walk
+      away with the strong impression that you probably had a sex dream about your cousin.
+      At this time I have no position on the emerging theories that Israel was involved
+      in the assassination, but damn dude. Really not quelling the suspicion there.
+      ❖ Israel’s Foreign Ministry is claiming that the Gaza flotilla bringing aid to
+      starving civilians is actually Hamas. “The so-called ‘Flotilla to Gaza’ is openly
+      backed by jihadi Hamas,” the ministry said in a statement , claiming that “This
+      is a jihadist initiative serving the terror group’s agenda.” If you’ve been following
+      the Gaza holocaust for a while you start getting real nervous whenever Israel
+      begins saying a new group of civilians are Hamas. ❖ Trump has announced plans
+      to designate Antifa a terrorist organization, which liberals have hastened to
+      point out is a legal absurdity since Antifa is not an actual entity in any meaningful
+      way and has no leadership or organizational structure. But the fact that they’re
+      pushing to apply the “terrorist” label to something so vague and amorphous actually
+      makes this more concerning in some ways, since the shapelessness of the claim
+      will make it easier to slap that label on anyone they’ve got a mind to. The Trump
+      administration is also reportedly planning to include transgender suspects in
+      the FBI’s newly created domestic threat category of “ nihilistic violent extremists
+      ” as the American right’s anti-trans feeding frenzy hits fever pitch. One of the
+      fastest ways to lose my interest and respect is to play along with the anti-trans
+      bullshit, because you’re telling me you’re just another dopey herd-minded NPC
+      thinking whatever thoughts your rulers want you to think. It’s the most obvious
+      thing in the world that the trans community has been deliberately demonized by
+      the ruling class to keep half the population angry at a convenient target instead
+      of at the people with real power. All the Trumpian pundits and politicians, oligarchs
+      and empire managers have been feeding into this frenzied hate campaign against
+      a marginalized population to keep the populists barking and snarling at ordinary
+      members of the public so the energy of their discontent doesn’t start drifting
+      in revolutionary directions. They’ve been completely transparent about this. Couldn’t
+      have made it clearer. And people have been clapping along with it like a bunch
+      of drooling toddlers watching a puppet show. It’s pathetic. Leave trans people
+      alone. Let them be. They are not a threat to you. They’ve got it rough enough
+      as it is. Your rulers want you punching laterally so you don’t start punching
+      up. ❖ Since I began criticizing the Trump administration’s aggressive assaults
+      on free speech in the wake of the Charlie Kirk killing I’ve had American rightists
+      falling all over themselves in my social media notifications trying to justify
+      government censorship. Yesterday I had multiple Trump supporters try to tell me
+      that it should be illegal to lie, and that anyone who tells lies should be stopped
+      from lying by the government. One of them told me he’s an anarchist. https://x.com/caitoz/status/1968704236646027763
+      Some of them argue, “Democrats censored us, so we get to censor the Democrats!
+      Turn about is fair play!” That only sounds like a cool argument if you believe
+      the two-party puppet show is real. In reality you’re both lining up to give more
+      and more of your power to the empire which remains in power regardless of who
+      won the last election. They surrender some, you surrender some more, repeat. Obviously
+      American liberals should have known they were opening themselves up to return
+      fire with their support for censorship when they were in power. Obviously they
+      should not have done that, and people like me told them this the entire time.
+      That doesn’t change the fact that you’re handing the nonpartisan oppression machine
+      more power that you will never get back every time you throw your support behind
+      retaliatory acts of speech suppression. You think you’re hurting the libs, but
+      you’re just hurting yourself. You’re just making your society more tyrannical
+      and dystopian in ways that will inevitably affect you. You’re clapping along with
+      the two-handed puppet show while your real oppressor picks your pockets. ❖ Alexandria
+      Ocasio-Cortex is reportedly planning a presidential run , which anyone could see
+      coming from miles away. Everything about this person is a lab-grown synthetic
+      product designed to rocket to the top of the Beltway swamp as quickly as possible.
+      Every single step of her career has been carefully choreographed. Every statement.
+      Every photo op. All so she can drone bomb middle eastern civilians from the Oval
+      Office. ________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Israeli Prime Minister Netanyahu has been vocally denying
+      any involvement in the assassination of Charlie Kirk, calling the allegations
+      "insane" and "false" in multiple public statements.
+    paragraph_summary: In a recent article, the author discusses Israeli Prime Minister
+      Benjamin Netanyahu's vehement denials regarding Israel's involvement in the assassination
+      of Charlie Kirk, emphasizing how his repeated public statements may inadvertently
+      raise suspicion rather than quell it. Netanyahu's strong reactions, labeling the
+      allegations as "insane" and "false," are likened to someone defensively denying
+      an embarrassing personal rumor, suggesting that such fervent denial can lead to
+      more speculation. Additionally, the article touches on Israel's Foreign Ministry's
+      claims that a humanitarian flotilla to Gaza is actually a Hamas initiative, raising
+      concerns about the labeling of civilians as terrorists. The piece also briefly
+      mentions former President Trump's plans to designate Antifa as a terrorist organization,
+      highlighting the legal absurdity of such a move.
+    published: '2025-09-20T02:59:33+00:00'
+  - title: Bernie Sanders Is A Ghoulish Zionist
+    url: https://www.caitlinjohnst.one/p/bernie-sanders-is-a-ghoulish-zionist
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now Bernie Sanders finally issued a statement
+      acknowledging the indisputable fact that Israel is committing genocide in Gaza
+      after two years of adamantly refusing to do so . The statement begins as follows:
+      “Hamas, a terrorist organization, began this war with its brutal attack on October
+      7, 2023, which killed 1,200 innocent people and took 250 hostages. Israel, as
+      any other country, had a right to defend itself from Hamas. But,” Dude goes two
+      years refusing to call a genocide a genocide, then issues a statement which begins
+      by placing blame for the genocide on the victims of said genocide. He also lumps
+      the hundreds of IDF troops slain in the attack in with “innocent people”, ignores
+      the large percentage of the death toll that would have been killed by Israeli
+      troops under the Hannibal Directive, and babbles about Israel’s “right to defend
+      itself” against an occupied population. The rest of the statement is standard
+      liberal Zionist fare, acknowledging the horror of the situation in Gaza while
+      blaming it all on Benjamin Netanyahu and not the murderous apartheid state which
+      would be doing what it’s doing with or without Netanyahu. It’s just progressive-sounding
+      Israel apologia accompanied by a denunciation driven by the inability to escape
+      finally calling this thing what it is. This is the face of what passes for the
+      “left” in modern US politics. Absolutely ghoulish. ❖ https://x.com/caitoz/status/1968350298537341310
+      Israeli Finance Minister Bezalel Smotrich described Gaza as a “real estate bonanza”
+      on Wednesday, saying Israel is in talks with the United States negotiating how
+      the two countries will divide up the enclave. “We are checking how this becomes
+      a real estate bonanza — I’m not joking — and pays for itself,” Smotrich said,
+      adding, “I’ve begun negotiations with the Americans, and I’m saying this seriously,
+      because we paid a lot of money for this war. We need to work out how we share
+      percentages on the land. The demolition phase, the first stage of urban renewal,
+      we’ve already done. Now we need to build.” It’s absolutely incredible how often
+      Smotrich and his buddy Itamar Ben-Gvir will just come out and admit that Israel
+      is doing the thing everyone says it’s doing. If this information had come out
+      as a WikiLeaks drop or something it would have been a bombshell revelation, and
+      this guy is right here just bloody saying it. ❖ https://x.com/caitoz/status/1968432422208348233
+      ❖ There’s another report from Haaretz about the horrific things Israeli soldiers
+      say they’ve been doing to civilians in Gaza, including descriptions of the murders
+      of children. Whenever I read these accounts I can’t help thinking about how there
+      are westerners joining the IDF to participate in this genocide. People travel
+      to Israel to massacre civilians and then fly back home to their real countries
+      and resume their lives as though nothing happened, like they went backpacking
+      in Europe or something. And now they walk among us in our communities, and we’re
+      supposed to be fine with it. ❖ Netanyahu says he has been invited to visit with
+      President Trump for the fourth time this year. At this point they should just
+      save on jet fuel and move him into a room in the White House. ❖ Trump is repeatedly
+      bombing civilian vessels under the ridiculous justification that drug traffickers
+      are “terrorists”, without even providing evidence that they are drug traffickers.
+      Trump has now admitted to the US bombing three Venezuelan boats on these completely
+      evidence-free grounds. When Yemen was attacking ships to enforce a blockade against
+      a genocide, Trump declared them all terrorists and massacred hundreds of civilians
+      . Now Trump is attacking civilian boats and calling them the terrorists. ❖ Ask
+      a scientist when the universe began and they’ll tell you 13.8 billion years ago.
+      Ask a Young Earth creationist when the universe began and they’ll tell you six
+      thousand years ago. Ask a Zionist when the universe began and they’ll tell you
+      October 7, 2023. __________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Gage Skidmore (CC BY-SA 2.0)'
+    one_sentence_summary: Bernie Sanders has finally acknowledged the genocide in Gaza
+      after two years of silence, but his statement begins by blaming Hamas for the
+      violence and framing Israel's actions as self-defense, which has drawn criticism
+      for downplaying the severity of the situation.
+    paragraph_summary: In a recent statement, Bernie Sanders finally acknowledged the
+      genocide occurring in Gaza, a topic he had previously avoided for two years. His
+      statement begins by attributing blame for the conflict to Hamas, describing their
+      October 7 attack as brutal and framing Israel's military response as a legitimate
+      act of self-defense. Critics argue that this rhetoric shifts responsibility away
+      from the Israeli government and fails to address the broader context of violence
+      against the Palestinian population. Additionally, Israeli Finance Minister Bezalel
+      Smotrich controversially referred to Gaza as a "real estate bonanza," indicating
+      that Israel is in discussions with the U.S. about how to profit from the region,
+      further highlighting the troubling dynamics at play in the ongoing conflict.
+    published: '2025-09-19T03:04:23+00:00'
+  - title: Bernie Sanders Is A Ghoulish Zionist
+    url: https://www.caitlinjohnst.one/p/bernie-sanders-is-a-ghoulish-zionist
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now Bernie Sanders finally issued a statement
+      acknowledging the indisputable fact that Israel is committing genocide in Gaza
+      after two years of adamantly refusing to do so . The statement begins as follows:
+      “Hamas, a terrorist organization, began this war with its brutal attack on October
+      7, 2023, which killed 1,200 innocent people and took 250 hostages. Israel, as
+      any other country, had a right to defend itself from Hamas. But,” Dude goes two
+      years refusing to call a genocide a genocide, then issues a statement which begins
+      by placing blame for the genocide on the victims of said genocide. He also lumps
+      the hundreds of IDF troops slain in the attack in with “innocent people”, ignores
+      the large percentage of the death toll that would have been killed by Israeli
+      troops under the Hannibal Directive, and babbles about Israel’s “right to defend
+      itself” against an occupied population. The rest of the statement is standard
+      liberal Zionist fare, acknowledging the horror of the situation in Gaza while
+      blaming it all on Benjamin Netanyahu and not the murderous apartheid state which
+      would be doing what it’s doing with or without Netanyahu. It’s just progressive-sounding
+      Israel apologia accompanied by a denunciation driven by the inability to escape
+      finally calling this thing what it is. This is the face of what passes for the
+      “left” in modern US politics. Absolutely ghoulish. ❖ https://x.com/caitoz/status/1968350298537341310
+      Israeli Finance Minister Bezalel Smotrich described Gaza as a “real estate bonanza”
+      on Wednesday, saying Israel is in talks with the United States negotiating how
+      the two countries will divide up the enclave. “We are checking how this becomes
+      a real estate bonanza — I’m not joking — and pays for itself,” Smotrich said,
+      adding, “I’ve begun negotiations with the Americans, and I’m saying this seriously,
+      because we paid a lot of money for this war. We need to work out how we share
+      percentages on the land. The demolition phase, the first stage of urban renewal,
+      we’ve already done. Now we need to build.” It’s absolutely incredible how often
+      Smotrich and his buddy Itamar Ben-Gvir will just come out and admit that Israel
+      is doing the thing everyone says it’s doing. If this information had come out
+      as a WikiLeaks drop or something it would have been a bombshell revelation, and
+      this guy is right here just bloody saying it. ❖ https://x.com/caitoz/status/1968432422208348233
+      ❖ There’s another report from Haaretz about the horrific things Israeli soldiers
+      say they’ve been doing to civilians in Gaza, including descriptions of the murders
+      of children. Whenever I read these accounts I can’t help thinking about how there
+      are westerners joining the IDF to participate in this genocide. People travel
+      to Israel to massacre civilians and then fly back home to their real countries
+      and resume their lives as though nothing happened, like they went backpacking
+      in Europe or something. And now they walk among us in our communities, and we’re
+      supposed to be fine with it. ❖ Netanyahu says he has been invited to visit with
+      President Trump for the fourth time this year. At this point they should just
+      save on jet fuel and move him into a room in the White House. ❖ Trump is repeatedly
+      bombing civilian vessels under the ridiculous justification that drug traffickers
+      are “terrorists”, without even providing evidence that they are drug traffickers.
+      Trump has now admitted to the US bombing three Venezuelan boats on these completely
+      evidence-free grounds. When Yemen was attacking ships to enforce a blockade against
+      a genocide, Trump declared them all terrorists and massacred hundreds of civilians
+      . Now Trump is attacking civilian boats and calling them the terrorists. ❖ Ask
+      a scientist when the universe began and they’ll tell you 13.8 billion years ago.
+      Ask a Young Earth creationist when the universe began and they’ll tell you six
+      thousand years ago. Ask a Zionist when the universe began and they’ll tell you
+      October 7, 2023. __________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Gage Skidmore (CC BY-SA 2.0)'
+    one_sentence_summary: Bernie Sanders has finally acknowledged the genocide in Gaza
+      after two years of silence, but his statement begins by blaming Hamas for the
+      violence and framing Israel's actions as self-defense, which has drawn criticism
+      for downplaying the severity of the situation.
+    paragraph_summary: In a recent statement, Bernie Sanders finally acknowledged the
+      genocide occurring in Gaza, a topic he had previously avoided for two years. His
+      statement begins by attributing blame for the conflict to Hamas, describing their
+      October 7 attack as brutal and framing Israel's military response as a legitimate
+      act of self-defense. Critics argue that this rhetoric shifts responsibility away
+      from the Israeli government and fails to address the broader context of violence
+      against the Palestinian population. Additionally, Israeli Finance Minister Bezalel
+      Smotrich controversially referred to Gaza as a "real estate bonanza," indicating
+      that Israel is in discussions with the U.S. about how to profit from the region,
+      further highlighting the troubling dynamics at play in the ongoing conflict.
+    published: '2025-09-19T03:04:23+00:00'
+  - title: Assaults On Free Speech Go Into Hyperdrive After Charlie Kirk Killing
+    url: https://www.caitlinjohnst.one/p/assaults-on-free-speech-go-into-hyperdrive
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s amazing how aggressively free speech in the United States is being torn apart
+      in the wake of the Charlie Kirk killing. Jimmy Kimmel was fired after President
+      Trump’s FCC threatened ABC when the late night comic suggested that Kirk’s killer
+      was a Trumper. I personally dislike Kimmel, but this is about as naked a government
+      assault on free expression as you could possibly imagine. Palestinian activist
+      Mahmoud Khalil has been ordered deported to Syria or Algeria after the Trump administration
+      targeted him for political speech critical of Israel. Trump has brokered a deal
+      allowing TikTok to be purchased by a consortium that includes his billionaire
+      buddies Larry Ellison and Marc Andreesen. US officials have acknowledged that
+      Washington’s push to grab control of TikTok was because of the opposition to the
+      Gaza holocaust that was circulating on the platform. https://x.com/ggreenwald/status/1968127613463040481
+      Oracle co-founder Ellison is a fanatical Zionist oligarch who has expressed support
+      for the idea of a massive surveillance network to control all of society, and
+      his son David just purchased Paramount , which owns CBS News. The younger Ellison
+      has reportedly installed pro-Israel propagandist Bari Weiss to a senior leadership
+      position within the network. Trump says he has asked Attorney General Pam Bondi
+      to look into bringing “ criminal RICO charges ” against Code Pink activists who
+      chanted anti-genocide slogans at him while he was dining at a restaurant. Like
+      pro-Palestine demonstrators are mafia kingpins or something. Bondi said during
+      a podcast that the Trump administration is going to start prosecuting “hate speech”
+      against conservatives, alleging that such speech was responsible for Charlie Kirk’s
+      assassination. When asked by the press about Bondi’s comments, Trump said “We’ll
+      probably go after people like you, because you treat me so unfairly. It’s hate.
+      You have a lot of hate in your heart. Maybe I’ll come after ABC.” Again, ABC was
+      the network Jimmy Kimmel was fired from. https://x.com/tab_delete/status/1968450079867502674
+      Trump henchman Stephen Miller said on a podcast that the White House is going
+      to start targeting leftist “terrorist networks”, claiming on no basis whatsoever
+      that Kirk’s assassination was the fault of a “vast domestic terror movement” which
+      foments the kind of violence which led to Kirk’s death. Trump himself said that
+      “a lot of people that you would traditionally say are on the left … [are] already
+      under investigation,” and that he plans to designate Antifa as a terrorist organization.
+      Vice President JD Vance has publicly been encouraging Trump supporters to try
+      to get ordinary members of the public fired for saying mean things about Charlie
+      Kirk, saying, “When you see someone celebrating Charlie’s murder, call them out,
+      and hell, call their employer. We don’t believe in political violence, but we
+      do believe in civility.” Trump’s Truth Social account recently shared a video
+      calling for state censorship of media outlets and online influencers who share
+      “propaganda”, falsely framing this authoritarian notion as a reboot of the Smith-Mundt
+      Act and suggesting that it should be called the “Charlie Kirk Act”. https://x.com/BTnewsroom/status/1968481491106529791
+      When you see me refusing to play along with the campaign to canonize Charlie Kirk
+      or respect the emotional hysteria around his killing, this is the main reason
+      why. His death is already being used to manufacture consent for sweeping acts
+      of tyranny, and it was clear from day one that it would be. The empire managers
+      are always seeking excuses to suppress free speech, crush the left, and stomp
+      out opposition to Zionism and the US war machine. They’ll use any chance they
+      get to advance these goals, which are all ultimately about expanding power and
+      control. Many pre-existing agendas are being shoved forward by those in power,
+      as always happens when emotions run hot over a traumatic event. I’ve said it many
+      times before and I’ll surely say it many times again: it’s precisely when we are
+      most tempted to abandon rationality and play along with the emotionality of the
+      moment that we need to be thinking most clearly and critically. _____________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article discusses the erosion of free speech in the U.S.
+      following the killing of Charlie Kirk, highlighting incidents such as Jimmy Kimmel's
+      firing for comments about the killer's political affiliations, the deportation
+      of Palestinian activist Mahmoud Khalil for his criticism of Israel, and the Trump
+      administration's controversial move to control TikTok amid rising opposition to
+      the Gaza conflict.
+    paragraph_summary: The article discusses the perceived erosion of free speech in
+      the United States following the assassination of Charlie Kirk, highlighting several
+      incidents where individuals faced repercussions for their political expressions.
+      It mentions the firing of comedian Jimmy Kimmel after he linked Kirk's killer
+      to Trump supporters, the deportation order against Palestinian activist Mahmoud
+      Khalil for his criticism of Israel, and Trump's involvement in a deal allowing
+      TikTok to be acquired by associates with ties to pro-Israel sentiments. The piece
+      also notes Trump's call for legal action against anti-war activists and his administration's
+      intent to prosecute "hate speech" against conservatives, framing these actions
+      as part of a broader government assault on free expression.
+    published: '2025-09-18T02:47:21+00:00'
+  - title: Assaults On Free Speech Go Into Hyperdrive After Charlie Kirk Killing
+    url: https://www.caitlinjohnst.one/p/assaults-on-free-speech-go-into-hyperdrive
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s amazing how aggressively free speech in the United States is being torn apart
+      in the wake of the Charlie Kirk killing. Jimmy Kimmel was fired after President
+      Trump’s FCC threatened ABC when the late night comic suggested that Kirk’s killer
+      was a Trumper. I personally dislike Kimmel, but this is about as naked a government
+      assault on free expression as you could possibly imagine. Palestinian activist
+      Mahmoud Khalil has been ordered deported to Syria or Algeria after the Trump administration
+      targeted him for political speech critical of Israel. Trump has brokered a deal
+      allowing TikTok to be purchased by a consortium that includes his billionaire
+      buddies Larry Ellison and Marc Andreesen. US officials have acknowledged that
+      Washington’s push to grab control of TikTok was because of the opposition to the
+      Gaza holocaust that was circulating on the platform. https://x.com/ggreenwald/status/1968127613463040481
+      Oracle co-founder Ellison is a fanatical Zionist oligarch who has expressed support
+      for the idea of a massive surveillance network to control all of society, and
+      his son David just purchased Paramount , which owns CBS News. The younger Ellison
+      has reportedly installed pro-Israel propagandist Bari Weiss to a senior leadership
+      position within the network. Trump says he has asked Attorney General Pam Bondi
+      to look into bringing “ criminal RICO charges ” against Code Pink activists who
+      chanted anti-genocide slogans at him while he was dining at a restaurant. Like
+      pro-Palestine demonstrators are mafia kingpins or something. Bondi said during
+      a podcast that the Trump administration is going to start prosecuting “hate speech”
+      against conservatives, alleging that such speech was responsible for Charlie Kirk’s
+      assassination. When asked by the press about Bondi’s comments, Trump said “We’ll
+      probably go after people like you, because you treat me so unfairly. It’s hate.
+      You have a lot of hate in your heart. Maybe I’ll come after ABC.” Again, ABC was
+      the network Jimmy Kimmel was fired from. https://x.com/tab_delete/status/1968450079867502674
+      Trump henchman Stephen Miller said on a podcast that the White House is going
+      to start targeting leftist “terrorist networks”, claiming on no basis whatsoever
+      that Kirk’s assassination was the fault of a “vast domestic terror movement” which
+      foments the kind of violence which led to Kirk’s death. Trump himself said that
+      “a lot of people that you would traditionally say are on the left … [are] already
+      under investigation,” and that he plans to designate Antifa as a terrorist organization.
+      Vice President JD Vance has publicly been encouraging Trump supporters to try
+      to get ordinary members of the public fired for saying mean things about Charlie
+      Kirk, saying, “When you see someone celebrating Charlie’s murder, call them out,
+      and hell, call their employer. We don’t believe in political violence, but we
+      do believe in civility.” Trump’s Truth Social account recently shared a video
+      calling for state censorship of media outlets and online influencers who share
+      “propaganda”, falsely framing this authoritarian notion as a reboot of the Smith-Mundt
+      Act and suggesting that it should be called the “Charlie Kirk Act”. https://x.com/BTnewsroom/status/1968481491106529791
+      When you see me refusing to play along with the campaign to canonize Charlie Kirk
+      or respect the emotional hysteria around his killing, this is the main reason
+      why. His death is already being used to manufacture consent for sweeping acts
+      of tyranny, and it was clear from day one that it would be. The empire managers
+      are always seeking excuses to suppress free speech, crush the left, and stomp
+      out opposition to Zionism and the US war machine. They’ll use any chance they
+      get to advance these goals, which are all ultimately about expanding power and
+      control. Many pre-existing agendas are being shoved forward by those in power,
+      as always happens when emotions run hot over a traumatic event. I’ve said it many
+      times before and I’ll surely say it many times again: it’s precisely when we are
+      most tempted to abandon rationality and play along with the emotionality of the
+      moment that we need to be thinking most clearly and critically. _____________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article discusses the erosion of free speech in the U.S.
+      following the killing of Charlie Kirk, highlighting incidents such as Jimmy Kimmel's
+      firing for comments about the killer's political affiliations, the deportation
+      of Palestinian activist Mahmoud Khalil for his criticism of Israel, and the Trump
+      administration's controversial move to control TikTok amid rising opposition to
+      the Gaza conflict.
+    paragraph_summary: The article discusses the perceived erosion of free speech in
+      the United States following the assassination of Charlie Kirk, highlighting several
+      incidents where individuals faced repercussions for their political expressions.
+      It mentions the firing of comedian Jimmy Kimmel after he linked Kirk's killer
+      to Trump supporters, the deportation order against Palestinian activist Mahmoud
+      Khalil for his criticism of Israel, and Trump's involvement in a deal allowing
+      TikTok to be acquired by associates with ties to pro-Israel sentiments. The piece
+      also notes Trump's call for legal action against anti-war activists and his administration's
+      intent to prosecute "hate speech" against conservatives, framing these actions
+      as part of a broader government assault on free expression.
+    published: '2025-09-18T02:47:21+00:00'
+  - title: Israel Is Committing Genocide. This Is A Fact, Not An Opinion.
+    url: https://www.caitlinjohnst.one/p/israel-is-committing-genocide-this
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      A UN inquiry has found that Israel is committing genocide in Gaza, and that Israeli
+      authorities have “intended to kill as many Palestinians as possible” in the enclave.
+      Israel has responded to the UN report by calling it Hamas and antisemitic, because
+      that’s all they’ve got. The Israeli Foreign Ministry released a statement claiming
+      the report was authored by “individuals serving as Hamas proxies, notorious for
+      their openly antisemitic positions.” Blah, blah, blah. The report is Hamas and
+      antisemitic. All human rights organizations are Hamas and antisemitic. There’s
+      a giant global antisemitic Hamas conspiracy dedicated to making it appear as though
+      Israel is committing genocide, just to make Jewish people feel sad. https://x.com/AaronBastani/status/1967984754416029709
+      At this point the only people who still deny that Israel is committing genocide
+      are those who want to make sure nobody does anything to stop Israel from committing
+      genocide. The list of humanitarian institutions who accuse Israel of genocide
+      now includes: 1. The United Nations Independent International Commission of Inquiry
+      on the Occupied Palestinian Territory 2. The International Association of Genocide
+      Scholars 3. B’Tselem (an Israeli organization) 4. Physicians for Human Rights-Israel
+      (another Israeli organization) 5. Amnesty International 6. Doctors Without Borders
+      7. The European Center for Constitutional and Human Rights 8. Human Rights Watch
+      9. The International Federation for Human Rights 10. The Lemkin Institute for
+      Genocide Prevention The list of humanitarian institutions who say Israel is NOT
+      committing genocide in Gaza includes: 1. Nobody 2. No one 3. Zero 4. Nothing 5.
+      Nada 6. Zilch 7. Sweet damn all 8. A complete absence 9. Diddly squat 10. Bupkis
+      https://x.com/wikileaks/status/1968080495914422455 It is not okay to treat the
+      fact that Israel is committing genocide like it’s a matter of opinion. Every relevant
+      human rights institution on earth says it’s a genocide. Zero equivalent institutions
+      say it’s not. This is a settled matter. People who deny that it’s a genocide deserve
+      to be taken exactly as seriously as flat earthers. They’re just an extremely evil
+      and destructive version of the thing flat earthers are. You don’t see news articles
+      about NASA with journalists adding “an agency which many believe is a government
+      hoax designed to trick us into accepting ball earth theory” to their reporting.
+      If a guest mentions Antarctica on the BBC, the news anchor doesn’t interrupt them
+      to say “and we should say here that flat earth theorists deny the existence of
+      that continent, maintaining that it is actually a wall of ice holding the oceans
+      in place.” You also don’t see reporting which treats accepted science about space
+      and our planet like it’s an opinion held by some. You never see “which many scientists
+      claim exists” when a report discusses outer space, or mentions of the horizon
+      mitigated with words like “which some hold is due to the curvature of the earth
+      rather than laws of perspective and light refraction”. They’re just treated as
+      established facts, and those who disagree with the established facts are not taken
+      seriously. The genocide in Gaza should be no different. As the old adage goes,
+      if one side says it’s raining and the other says it isn’t, your job isn’t to quote
+      both sides, your job is to look out the window. The window’s right there, western
+      media. And it’s pouring genocide. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: A UN inquiry has accused Israel of committing genocide in
+      Gaza, a claim that Israel has dismissed as being rooted in antisemitism and a
+      conspiracy by Hamas.
+    paragraph_summary: A UN inquiry has concluded that Israel is committing genocide
+      in Gaza, asserting that Israeli authorities have aimed to kill as many Palestinians
+      as possible. In response, Israel has dismissed the report as biased, labeling
+      it as a product of individuals aligned with Hamas and antisemitism. The article
+      highlights the growing consensus among various humanitarian organizations, including
+      the UN and several Israeli groups, that Israel's actions constitute genocide,
+      while noting that there is no credible opposition to this claim. The author criticizes
+      the dismissal of these findings as mere opinion, emphasizing the urgency of recognizing
+      the situation as a humanitarian crisis rather than a debatable issue.
+    published: '2025-09-17T11:48:46+00:00'
+  - title: Israel Is Committing Genocide. This Is A Fact, Not An Opinion.
+    url: https://www.caitlinjohnst.one/p/israel-is-committing-genocide-this
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      A UN inquiry has found that Israel is committing genocide in Gaza, and that Israeli
+      authorities have “intended to kill as many Palestinians as possible” in the enclave.
+      Israel has responded to the UN report by calling it Hamas and antisemitic, because
+      that’s all they’ve got. The Israeli Foreign Ministry released a statement claiming
+      the report was authored by “individuals serving as Hamas proxies, notorious for
+      their openly antisemitic positions.” Blah, blah, blah. The report is Hamas and
+      antisemitic. All human rights organizations are Hamas and antisemitic. There’s
+      a giant global antisemitic Hamas conspiracy dedicated to making it appear as though
+      Israel is committing genocide, just to make Jewish people feel sad. https://x.com/AaronBastani/status/1967984754416029709
+      At this point the only people who still deny that Israel is committing genocide
+      are those who want to make sure nobody does anything to stop Israel from committing
+      genocide. The list of humanitarian institutions who accuse Israel of genocide
+      now includes: 1. The United Nations Independent International Commission of Inquiry
+      on the Occupied Palestinian Territory 2. The International Association of Genocide
+      Scholars 3. B’Tselem (an Israeli organization) 4. Physicians for Human Rights-Israel
+      (another Israeli organization) 5. Amnesty International 6. Doctors Without Borders
+      7. The European Center for Constitutional and Human Rights 8. Human Rights Watch
+      9. The International Federation for Human Rights 10. The Lemkin Institute for
+      Genocide Prevention The list of humanitarian institutions who say Israel is NOT
+      committing genocide in Gaza includes: 1. Nobody 2. No one 3. Zero 4. Nothing 5.
+      Nada 6. Zilch 7. Sweet damn all 8. A complete absence 9. Diddly squat 10. Bupkis
+      https://x.com/wikileaks/status/1968080495914422455 It is not okay to treat the
+      fact that Israel is committing genocide like it’s a matter of opinion. Every relevant
+      human rights institution on earth says it’s a genocide. Zero equivalent institutions
+      say it’s not. This is a settled matter. People who deny that it’s a genocide deserve
+      to be taken exactly as seriously as flat earthers. They’re just an extremely evil
+      and destructive version of the thing flat earthers are. You don’t see news articles
+      about NASA with journalists adding “an agency which many believe is a government
+      hoax designed to trick us into accepting ball earth theory” to their reporting.
+      If a guest mentions Antarctica on the BBC, the news anchor doesn’t interrupt them
+      to say “and we should say here that flat earth theorists deny the existence of
+      that continent, maintaining that it is actually a wall of ice holding the oceans
+      in place.” You also don’t see reporting which treats accepted science about space
+      and our planet like it’s an opinion held by some. You never see “which many scientists
+      claim exists” when a report discusses outer space, or mentions of the horizon
+      mitigated with words like “which some hold is due to the curvature of the earth
+      rather than laws of perspective and light refraction”. They’re just treated as
+      established facts, and those who disagree with the established facts are not taken
+      seriously. The genocide in Gaza should be no different. As the old adage goes,
+      if one side says it’s raining and the other says it isn’t, your job isn’t to quote
+      both sides, your job is to look out the window. The window’s right there, western
+      media. And it’s pouring genocide. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: A UN inquiry has accused Israel of committing genocide in
+      Gaza, a claim that Israel has dismissed as being rooted in antisemitism and a
+      conspiracy by Hamas.
+    paragraph_summary: A UN inquiry has concluded that Israel is committing genocide
+      in Gaza, asserting that Israeli authorities have aimed to kill as many Palestinians
+      as possible. In response, Israel has dismissed the report as biased, labeling
+      it as a product of individuals aligned with Hamas and antisemitism. The article
+      highlights the growing consensus among various humanitarian organizations, including
+      the UN and several Israeli groups, that Israel's actions constitute genocide,
+      while noting that there is no credible opposition to this claim. The author criticizes
+      the dismissal of these findings as mere opinion, emphasizing the urgency of recognizing
+      the situation as a humanitarian crisis rather than a debatable issue.
+    published: '2025-09-17T11:48:46+00:00'
   - title: Trump Administration Rushes To Kill Free Speech In Response To Kirk Assassination
     url: https://www.caitlinjohnst.one/p/trump-administration-rushes-to-kill
     text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now

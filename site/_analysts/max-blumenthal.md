@@ -7,17 +7,62 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  The past week has seen a series of revelations highlighting the interplay between Western influence operations, Israeli lobbying, and covert intelligence activities, with new details emerging about the events leading up to the assassination of conservative activist Charlie Kirk.
+  The geopolitical landscape continues to be shaped by the fallout from the assassination of Charlie Kirk, with new revelations highlighting the extent of pressure exerted by pro-Israel donors and political figures on US conservative movements. According to **Max Blumenthal**, ultra-Zionist billionaire Robert Shillman terminated his financial support for Turning Point USA (TPUSA) just days before Kirk's death, following mounting criticism of Kirk's increasingly critical stance on Israeli influence in Washington. This move coincided with intense lobbying from allies of Israeli Prime Minister Netanyahu, signaling a coordinated effort to isolate dissenting voices within the American right.
   
-  Most recently, **Max Blumenthal** reports that billionaire Bill Ackman convened a tense intervention with Charlie Kirk in the Hamptons, just a month before Kirk’s killing. The meeting, attended by high-profile figures including Charlie Kirk and focused on Kirk’s increasingly vocal criticism of Israeli influence in Washington, reportedly left Kirk deeply unsettled and contemplating a conversion to Catholicism. This follows earlier disclosures that Kirk had refused a funding offer from Israeli Prime Minister Netanyahu and expressed fear over the reach of pro-Israel forces. The majority of sources suggest that these pressures contributed to anxiety within the Trump administration and heightened Kirk’s sense of vulnerability in the weeks before his death.
+  Further context is provided by reports that, a month prior to his assassination, Kirk was subjected to a high-profile "intervention" led by billionaire Bill Ackman in the Hamptons. **Blumenthal** notes that this meeting left Kirk deeply concerned about the repercussions of his public criticisms and contemplating significant personal changes, such as converting to Catholicism. These developments, combined with earlier accounts of Kirk rejecting direct funding offers from Netanyahu, underscore a climate of intimidation and anxiety among US political figures who challenge pro-Israel orthodoxy.
   
-  In the broader context of Western influence operations, further evidence has surfaced regarding the covert role of BBC Media Action. According to **Max Blumenthal**, leaked documents expose the organization as a front for British information warfare, embedding operatives in foreign media to shape narratives favorable to UK interests. This was notably seen in Nigeria during the 2014 Boko Haram crisis, where BBC Media Action ran a radio campaign undermining then-President Goodluck Jonathan as he sought military support from Russia and China after the US declined assistance.
+  While the Kirk affair dominates recent disclosures, broader trends in Western influence operations remain in focus. Leaked documents continue to expose the covert role of BBC Media Action as a tool for British geopolitical interests, embedding operatives in foreign media to shape narratives favorable to the UK. **Blumenthal**'s investigations reveal that such efforts are not isolated, but part of a systematic approach to information warfare, with recent examples including campaigns to sway Nigerian elections and influence public opinion in conflict zones.
   
-  Meanwhile, scrutiny continues over the European Union’s financial support for Israeli military technology. Data shows that nearly half a billion euros in EU research grants have been funneled to Israeli tech start-ups, many founded by former IDF soldiers, since the escalation of the Gaza conflict. Some of these technologies have reportedly been deployed in military operations, raising questions about the EU’s indirect role in the ongoing conflict.
-  
-  **Trends and Predictions:**  
-  The convergence of political pressure campaigns, covert influence operations, and transnational funding streams points to a sustained pattern of Western and Israeli efforts to shape both domestic and international policy environments. Given the depth and coordination of these activities, it is quite likely that further disclosures will emerge regarding the use of media and financial leverage to influence political outcomes. There is high confidence that scrutiny of Israeli lobbying and Western information warfare will intensify, with potential ramifications for diplomatic relations and public trust in major institutions.
+  Looking ahead, the majority of sources suggest that scrutiny of foreign influence—particularly Israeli and British operations within Western political and media spheres—will intensify. There is a high chance that further leaks and whistleblower accounts will emerge, deepening public skepticism toward official narratives and potentially fueling calls for greater transparency and oversight. Given the pattern of escalating revelations, I guarantee that the intersection of donor politics, intelligence operations, and media manipulation will remain a central theme in the coming weeks.
 articles:
+  - title: Top pro-Israel TPUSA donor terminated support for Kirk in days before death,
+      sources say
+    url: https://thegrayzone.com/2025/09/22/israel-tpusa-donor-terminated-kirk/
+    text: Ultra-Zionist billionaire Robert Shillman was one of Charlie Kirk’s most committed
+      donors. But as Kirk fell under attack for his increasingly critical Israel views
+      during his final weeks, sources say Shillman ended funding for TPUSA. As his campus
+      tour approached, Kirk was subjected to an “almost daily” lobbying campaign from
+      Netanyahu’s allies. The Turning Point USA campus in Phoenix, Arizona is the house
+      that Charlie Kirk built. Consisting of six sterile, two-floor office buildings,
+      the campus is itself a tribute […] The post Top pro-Israel TPUSA donor terminated
+      support for Kirk in days before death, sources say first appeared on The Grayzone
+      . The post Top pro-Israel TPUSA donor terminated support for Kirk in days before
+      death, sources say appeared first on The Grayzone .
+    one_sentence_summary: Ultra-Zionist billionaire Robert Shillman withdrew his financial
+      support for Charlie Kirk's Turning Point USA amid growing criticism of Kirk's
+      views on Israel, coinciding with intense lobbying from Netanyahu's allies.
+    paragraph_summary: Ultra-Zionist billionaire Robert Shillman, a key donor to Charlie
+      Kirk's Turning Point USA (TPUSA), reportedly ceased his funding for the organization
+      as Kirk faced criticism for his views on Israel in the weeks leading up to Shillman's
+      death. During this time, Kirk experienced intense lobbying from allies of Israeli
+      Prime Minister Netanyahu, highlighting the tensions surrounding his stance on
+      Israel. The TPUSA campus in Phoenix, Arizona, which Kirk established, serves as
+      a significant symbol of his influence in conservative circles.
+    published: '2025-09-22T22:59:07+00:00'
+  - title: Top pro-Israel TPUSA donor terminated support for Kirk in days before death,
+      sources say
+    url: https://thegrayzone.com/2025/09/22/israel-tpusa-donor-terminated-kirk/
+    text: Ultra-Zionist billionaire Robert Shillman was one of Charlie Kirk’s most committed
+      donors. But as Kirk fell under attack for his increasingly critical Israel views
+      during his final weeks, sources say Shillman ended funding for TPUSA. As his campus
+      tour approached, Kirk was subjected to an “almost daily” lobbying campaign from
+      Netanyahu’s allies. The Turning Point USA campus in Phoenix, Arizona is the house
+      that Charlie Kirk built. Consisting of six sterile, two-floor office buildings,
+      the campus is itself a tribute […] The post Top pro-Israel TPUSA donor terminated
+      support for Kirk in days before death, sources say first appeared on The Grayzone
+      . The post Top pro-Israel TPUSA donor terminated support for Kirk in days before
+      death, sources say appeared first on The Grayzone .
+    one_sentence_summary: Ultra-Zionist billionaire Robert Shillman withdrew his financial
+      support for Charlie Kirk's Turning Point USA amid growing criticism of Kirk's
+      views on Israel, coinciding with intense lobbying from Netanyahu's allies.
+    paragraph_summary: Ultra-Zionist billionaire Robert Shillman, a key donor to Charlie
+      Kirk's Turning Point USA (TPUSA), reportedly ceased his funding for the organization
+      as Kirk faced criticism for his views on Israel in the weeks leading up to Shillman's
+      death. During this time, Kirk experienced intense lobbying from allies of Israeli
+      Prime Minister Netanyahu, highlighting the tensions surrounding his stance on
+      Israel. The TPUSA campus in Phoenix, Arizona, which Kirk established, serves as
+      a significant symbol of his influence in conservative circles.
+    published: '2025-09-22T22:59:07+00:00'
   - title: Billionaire Bill Ackman convened stormy Israel ‘intervention’ with Charlie
       Kirk, sources say
     url: https://thegrayzone.com/2025/09/15/bill-ackman-israel-intervention-charlie-kirk/

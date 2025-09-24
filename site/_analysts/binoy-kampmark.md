@@ -7,14 +7,384 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  Australia’s foreign policy and its handling of regional relationships have come under renewed scrutiny following a controversial incident excluding Pacific Island journalists from a press conference with Prime Minister Anthony Albanese. This episode, as analyzed by **Binoy Kampmark**, underscores persistent “colonial attitudes” and a lack of transparency in Canberra’s dealings with its Pacific neighbors, particularly as Australia deepens its strategic alignment with the United States. The exclusion has been widely interpreted as emblematic of Australia’s broader reluctance to treat Pacific Island nations as equal partners, raising questions about the credibility of its regional engagement.
+  The geopolitical landscape remains volatile as new developments continue to reshape diplomatic, humanitarian, and domestic policy debates. In the UK, the fallout from Peter Mandelson’s brief tenure as ambassador to the US has deepened, following his dismissal after revelations of close ties to Jeffrey Epstein. **Binoy Kampmark** notes that this episode has not only embarrassed Prime Minister Keir Starmer’s government but also exposed vulnerabilities in the vetting process for high-level diplomatic appointments. The majority view among analysts is that the scandal will have lingering effects on UK-US relations and further erode public trust in political leadership. There is a high chance that future appointments will face intensified scrutiny, and I guarantee this episode will be referenced in parliamentary debates on government transparency.
   
-  Meanwhile, the fallout from Israel’s recent military strike on Qatari territory continues to reverberate across the Middle East. The attack, which **Kampmark** describes as a “rogue” operation, has drawn sharp international condemnation and intensified calls for a coordinated response. The move is seen as part of Prime Minister Netanyahu’s ongoing strategy to undermine Palestinian statehood and consolidate domestic political power, even at the risk of escalating regional instability. The incident has further strained Israel’s already fraught relations with key regional actors and is likely to prompt renewed diplomatic efforts to contain the crisis.
+  On the international front, the United Nations’ recent commission report finding Israel responsible for genocide in Gaza has intensified calls for accountability. **Binoy Kampmark** emphasizes that the commission found Israel guilty of four out of five elements of the 1948 Genocide Convention, a conclusion that has triggered renewed demands for an immediate end to hostilities and legal action against Israeli officials. The consensus among commentators is that this report will most definitely increase pressure on Western governments, particularly the US and UK, to reconsider their support for Israel. There is a high chance that international legal proceedings will be initiated, though the effectiveness of such measures remains uncertain.
   
-  In a related development, Australia’s approach to the Gaza conflict remains cautious and, at times, contradictory. While the Albanese government has taken symbolic steps such as expelling Iranian diplomats and revoking visas for controversial Israeli figures, its broader policy is marked by attempts to balance support for Palestinian statehood with the imperatives of its alliance with the US. **Kampmark** notes that these actions are often perceived as “useful expedients” rather than substantive shifts, reflecting Canberra’s ongoing struggle to assert an independent foreign policy in the face of mounting international and domestic pressure.
+  Meanwhile, in Australia, domestic policy is under scrutiny following the University of Technology Sydney’s controversial Operational Sustainability Initiative. **Binoy Kampmark** reports that the initiative has caused significant psychological harm to staff, prioritizing financial cuts and outsourcing over genuine consultation. This has sparked a broader debate about the corporatization of higher education and the role of external consultants like KPMG. The majority opinion is that similar austerity measures will face increasing resistance from academic staff and unions, and there is a high chance of further industrial action if current trends persist.
   
-  Trends indicate a growing skepticism among regional actors regarding Australia’s intentions and capacity for genuine partnership, particularly in the Pacific. In the Middle East, Israel’s aggressive posture is likely to provoke further instability, with a high chance of continued international backlash and diplomatic isolation. In the coming weeks, it is quite likely that Australia will face increased demands for transparency and accountability in its foreign policy, while Israel’s actions may prompt new efforts at collective regional response, though a durable resolution remains elusive.
+  In summary, the dominant trends point to growing demands for accountability—whether in diplomatic appointments, international humanitarian law, or domestic policy management. The prediction with high confidence is that scrutiny of leadership decisions and institutional practices will intensify across these domains, with significant political and legal ramifications in the coming months.
 articles:
+  - title: Lord Mandelson’s Epstein Problem
+    url: https://www.counterpunch.org/2025/09/22/lord-mandelsons-epstein-problem/
+    text: 'It was so startlingly obvious it seemed to snuff out any comment. Lord Peter
+      Mandelson, otherwise known as the sinister Mr Fixit of New Labour from the Blair
+      years, was an intimate of the late convicted paedophile and socially connected
+      financier Jeffrey Epstein. If it was intended as a humorous appointment – Britain’s
+      Epstein familiar ambassadorial representative to Washington attending the court
+      of an administration with another Epstein familiar, President Donald Trump – it
+      was not one to last.
+
+
+      It began at the end of last year, when Mandelson, who seemed to specialise in
+      the art of being sacked, was called upon to take up one of British diplomacy’s
+      most important offices: the ambassadorship to the United States. As a result,
+      he was glowing, brightly telling all that President George W. Bush had dubbed
+      him “Silvertongue”. This same tongue had called Trump, in 2019, a “danger to the
+      world” and “little short of a white nationalist and racist”. Chris LaCivita, who
+      co-campaigned the President’s election bid, thought Mandelson “an absolute moron”
+      – high praise indeed.
+
+
+      Mandelson took it all in his stride. He promised the administration that they
+      would “discover I’m not uber-liberal, I’m not a wokey-cokey sort of person, and
+      I’m pro-market and pro-business.” His remit: to keep Trump onside in staying in
+      Europe for reasons of security, forge commercial ties, and limit tariffs on UK
+      exports.
+
+
+      Then came those emails, as reported by Bloomberg. They revealed the extent of
+      Mandelson’s association with Epstein. The Dark Lord was found encouraging Epstein
+      to “fight for early release” shortly after his sentencing to 18 months in prison.
+      He showed signs of infatuation, saying “I think the world of you” a day before
+      the sentence for soliciting prostitution from a minor in June 2008 commenced.
+
+
+      More material surfaced. From the US House Oversight Committee came the disclosure
+      of a scrapbook made to celebrate the financier’s fiftieth birthday, with the Mandelson
+      effusion “best pal”. (Trump can also count himself a fellow Epstein enthusiast
+      in the collection.)
+
+
+      The scene was set for yet another sacking. The embarrassed British Prime Minister,
+      Sir Keir Starmer, was again shown up for his faulty judgment. He had already known
+      of Mandelson’s soiled ties yet remained unmoved. In June 2023, for instance, the
+      Financial Times obtained an internal JPMorgan report showing the extent of the
+      association even after Epstein’s imprisonment. In January 2024, when asked at
+      a press conference about Mandelson’s stays at the home of a convicted sex offender
+      in Manhattan, the Labour leader proved implausibly unaware: “I don’t know any
+      more than you and there’s not really much I can add to what is already out there
+      I’m afraid.”
+
+
+      The new correspondence, however, was seen as “materially different” to information
+      available when the new ambassador made his way to Washington. “Had I known then
+      what I know now,” Starmer stated emphatically, “I’d never have appointed him.”
+      Then came that churning feeling of dissatisfaction from Starmer’s own Labour MPs,
+      whose views he occasionally respects. One of them, Andy McDonald, noted “widespread
+      revulsion that we, by association, being in the same party, are being brought
+      under the microscope for something that [Mandelson] has done.”
+
+
+      Mandelson, for his part, expressed a feeling of “tremendous” regret regarding
+      his friendship with Epstein, and a “tremendous sense of sympathy” for the victims
+      but insisted that he never witnessed or was aware about any wrongdoing when spending
+      time with him. As he told the BBC: “I relied on assurances of [Epstein’s] innocence
+      that turned out later to be horrendously false.” Lawyers representing his best
+      pal “claimed that it was a shake down of him, a criminal conspiracy. I foolishly
+      relied on their word which I regret to this day.” What fabulous, mountainous mendacity.
+
+
+      Some tried to explain the appointment as a symptom of establishment blindness
+      and insularity. In the Spectator, there was a rather apt observation that Mandelson,
+      at least in Britain, “was part of the furniture – the man you loved to hate. It
+      was everywhere implied that this amoral figure, relic of a subtler age, would
+      be able to ‘run rings’ around the various oik populists – chief among them the
+      47th president.” A less likely, though equally apposite reading, is that Mandelson’s
+      spotty record was exactly what was needed in a Washington distinctly unmoored
+      from any moral compass. The Trump administration, with its venality, its solipsistic
+      universe, its tendency to muddy and contaminate institutions, would have suited
+      “Petie”, as Epstein liked to call him.
+
+
+      The greatest insult of all, and one that Trump inspires on most occasions, is
+      the feigned (or genuine) ignorance of a person he has known or had an acquaintance
+      with. Trump has selective amnesia for those he professes fondness for; he has
+      an elephantine memory for those he hates. As both the President and Starmer were
+      drooling and slobbering over the Anglo-American “special” alliance in a press
+      conference during the President’s UK visit, Mandelson’s name did come up. Trump
+      claimed to have never known the fellow, suggesting that Starmer was better placed
+      to answer. Starmer, exploiting the situation, walked it on with his now conditioned
+      response: Mandelson was sacked once new information surfaced about the Epstein
+      link. Mr Fixit was, at least in the metaphorical sense, dead and buried.'
+    one_sentence_summary: Peter Mandelson's appointment as the UK ambassador to the
+      US was marred by revelations of his close ties to convicted paedophile Jeffrey
+      Epstein, leading to significant embarrassment for Prime Minister Keir Starmer
+      and ultimately resulting in Mandelson's dismissal after new information about
+      their association came to light.
+    paragraph_summary: Lord Peter Mandelson, a controversial figure from New Labour's
+      Blair era, faced scrutiny after revelations of his close ties with convicted paedophile
+      Jeffrey Epstein emerged following his appointment as the UK ambassador to the
+      United States. Despite his previous criticisms of Donald Trump, Mandelson aimed
+      to foster commercial ties and maintain security relations with the Trump administration,
+      branding himself as pro-market and pro-business. However, leaked emails highlighted
+      his encouragement of Epstein during his imprisonment, leading to significant embarrassment
+      for Prime Minister Keir Starmer, who initially overlooked Mandelson's associations.
+      As more damaging information surfaced, Starmer expressed regret over Mandelson's
+      appointment, claiming he would not have chosen him had he known the full extent
+      of the connections. Mandelson, while expressing regret for his friendship with
+      Epstein, maintained he was unaware of any wrongdoing. Ultimately, both Trump and
+      Starmer distanced themselves from Mandelson, marking the end of his brief diplomatic
+      tenure.
+    published: '2025-09-22T05:50:52+00:00'
+  - title: 'Clear Conclusions: A UN Commission Finds Israel Responsible for Genocide
+      in Gaza'
+    url: https://www.counterpunch.org/2025/09/19/clear-conclusions-a-un-commission-finds-israel-responsible-for-genocide-in-gaza/
+    text: 'Yet another blistering addition to the ghoulish accounts of cruelty regarding
+      the ongoing actions of Israel in Gaza made its appearance on September 16. It
+      came in the form of a report by the United Nations Independent International Commission
+      of Inquiry on the Occupied Palestinian Territory, a lashing publication finding
+      Israel guilty of committing genocide on the Strip. Of the five elements outlined
+      in the 1948 Genocide Convention, Israel was found guilty of four. (The state’s
+      interest in transferring Palestinian children from one group to another is yet
+      to show itself.)
+
+
+      The relevant acts outlined in the report include instances of killing, causing
+      serious bodily or mental harm, the deliberate infliction of conditions of life
+      calculated to bring about physical destruction, and imposing measures intended
+      to prevent births, all conducted with the specific intent to destroy the Palestinian
+      people as a group. “Today we witness in real time how the promise of ‘never again’
+      is broken and tested in the eyes of the world,” said the Commission’s chair Navi
+      Pillay in a press conference following the report’s release.
+
+
+      This report finds itself in the adhesive if gruesome company of such publications
+      as Amnesty International’s December 2024 effort, You Feel Like You are Subhuman
+      to the August 2025 conclusions of the International Association of Genocide Scholars.
+      The Special Rapporteur on the human rights situation in the Palestinian territories,
+      occupied since 1967, Francesca Albanese, has also been admirably busy drumming
+      up interest in the links between genocide and starvation. Such bountiful material
+      has yet to convince the Israeli authorities to pause their efforts in Gaza, now
+      culminating in the systematic destruction of Gaza City and the displacement of
+      its population.
+
+
+      The Commission authors, all sound and weighty figures of international jurisprudence,
+      also found that Israeli President Isaac Herzog, Prime Minister Benjamin Netanyahu
+      and former Defence Minister Yoav Gallant “incited the commission of genocide and
+      that Israeli authorities have failed to take action against them to punish this
+      incitement.” More broadly, Israel’s political and military leaders responsible
+      for prosecuting the war strategy “are ultimately responsible for the commission
+      of the underlying acts of genocide by members of the Israeli security forces”,
+      with such leaders being “agents of the State of Israel”.
+
+
+      The mental state for establishing genocide had been established by relevant statements
+      made by members of the Israeli authorities. In addition to this, there was “circumstantial
+      evidence of genocidal intent and that genocidal intent was the only reasonable
+      inference that could be drawn from the totality of the evidence.” Israeli authorities
+      and security forces “had and continue to have the genocidal intent to destroy,
+      in whole or in part, the Palestinians in the Gaza Strip.”
+
+
+      The Commission also makes various recommendations, including the obvious one of
+      ending the commission of genocide and Israel’s compliance with the three provisional
+      orders of the International Court of Justice (ICJ) made in January, March and
+      May last year; the immediate implementation of a permanent ceasefire in Gaza and
+      conclusion of military operations in the occupied Palestinian territory that entail
+      genocidal acts; the restoration of the United Nations aid model, unimpeded; and
+      the investigation and punishment of acts of genocide and incitement to genocide
+      against the Palestinians in the Strip.
+
+
+      Pointed words are also reserved for the international community, among them that
+      all Member States pull their weight in insuring the prevention of genocidal acts
+      in the Strip, cease the transfer of arms and equipment to Israel or third parties
+      “where there is reason to suspect their use in military operations that have involved
+      or could involve the commission of genocide”, ensure that corporations and individuals
+      within their territories and jurisdiction are not part of the genocidal program,
+      and facilitate necessary investigations and prosecutive proceedings against the
+      State of Israel and corporations and individuals regarding genocide, its facilitation
+      and incitement.
+
+
+      The Commission arose in 2021, when it was established by the UN Human Rights Council
+      to investigate alleged violations of international law in the Occupied Palestinian
+      Territory, including East Jerusalem, and in Israel. The September report makes
+      much of three previous reports issued by the COI, and three papers relevant to
+      international law violations committed by all the parties to the conflict.
+
+
+      To have reached findings of genocidal intent is a tall order indeed. The mental
+      threshold needed to satisfy genocidal intent is a dizzyingly high bar to meet.
+      The ICJ, even as it considers Israel’s own actions in Gaza at the litigious prodding
+      of South Africa, has shown itself reluctant to identify the destructive intent
+      (dolus specialis) against an identifiable group as protected by the UN Genocide
+      Convention. In the Bosnia v Serbia case, Serbia was not found to be responsible
+      for the commission of genocide, but for its failure in preventing it with respect
+      to the killings of over 7,000 Bosnian Muslims at Srebrenica in July 1995. The
+      Court imposed a giddy standard of proof: that the pattern of acts in destroying
+      the identifiable group should “have to be such that it could only point to the
+      existence of such intent”. It was a standard criticised by Judge Awn Al-Khasawneh
+      in his dissenting opinion, feeling that such acts as “population transfers” and
+      “evidence of massive killings systematically targeting the Bosnian Muslims” evidenced
+      obvious genocidal intent.
+
+
+      In 2015, the ICJ also found that neither Serbia or Croatia had committed acts
+      of genocide against each other’s populations during the disintegration of Yugoslavia,
+      despite killings and the infliction of serious bodily or mental harm to both groups
+      by virtue of them being members of an ethnic group.
+
+
+      Judge Antônio Augusto Cançado Trindade, in his dissenting opinion in Croatia v
+      Serbia, proffers a salutary observation: “perpetrators of genocide will almost
+      always allege that they were in armed conflict, and their actions were taken ‘pursuant
+      to an ongoing military conflict’; yet, ‘genocide may be a means for achieving
+      military objectives just as readily as military conflict may be a means for instigating
+      a genocidal plan”.
+
+
+      There is certainly much to draw upon, be it the Commission’s findings, or the
+      excoriating report by UN Special Rapporteur Albanese. The latter tartly exposes
+      the misuse of international humanitarian law as an instrument of Israeli advancement,
+      making a mockery of aid to the very people the state seeks to dislocate, kill
+      and humble.
+
+
+      The response from Israel is also instructive in terms of how that state fits within
+      the law of nations, which it has sought to reinterpret with postmodern elasticity.
+      A statement from the Israeli Ministry of Foreign Affairs makes short work of the
+      report as “distorted” and “false”, accusing the authors as “Hamas proxies, notorious
+      for their antisemitic positions” and demanding the “immediate abolition of this
+      Commission of Inquiry.” That would be all too convenient.'
+    one_sentence_summary: A recent report by the United Nations Independent International
+      Commission of Inquiry has accused Israel of committing genocide against the Palestinian
+      people in Gaza, finding the state guilty of four out of five elements of the 1948
+      Genocide Convention, while calling for an end to the violence and accountability
+      for those responsible.
+    paragraph_summary: On September 16, the United Nations Independent International
+      Commission of Inquiry on the Occupied Palestinian Territory released a report
+      accusing Israel of committing genocide against the Palestinian people in Gaza,
+      finding the state guilty of four out of five elements outlined in the 1948 Genocide
+      Convention. The report details acts such as killing, causing serious harm, inflicting
+      life-threatening conditions, and preventing births, all aimed at destroying the
+      Palestinian population. Commission chair Navi Pillay emphasized the failure of
+      the international community to uphold the promise of "never again" in the face
+      of such atrocities. The report implicates Israeli leaders, including President
+      Isaac Herzog and Prime Minister Benjamin Netanyahu, in inciting genocide and calls
+      for immediate actions to halt these practices, restore humanitarian aid, and hold
+      accountable those responsible for genocidal acts. Despite the gravity of the findings,
+      Israel dismissed the report as distorted and false, labeling the authors as biased.
+    published: '2025-09-19T05:53:53+00:00'
+  - title: 'Suspending Courses, Washing Delicates and Baking: A University Justifies
+      Harming Staff and Students'
+    url: https://www.counterpunch.org/2025/09/18/suspending-courses-washing-delicates-and-baking-a-university-justifies-harming-staff-and-students/
+    text: 'These people are a charming, lynch worthy bunch. In claiming they are short
+      of cash, the managerial dunderheads at the University of Technology Sydney thought
+      it prudent to throw a $4.8 million at the tax consultants KPMG to design what
+      it calls the Operational Sustainability Initiative (OSI). The linking of these
+      three words alone suggests that something sinister and inhumane is afoot, a program
+      closer to an assassination or disposal program than a sensible readjustment. Indeed,
+      the OSI became the subject of a “notice to give information” in June from Safework
+      NSW, accusing the university of “wilful and negligent mismanagement” of the restructuring
+      undertaking “despite full knowledge that the process is causing significant psychological
+      harm to staff, including documented instances of suicidal ideation, anxiety, and
+      depression.”
+
+
+      The university, as reported in The Australian Financial Review in May, was hoping
+      to give a savage pruning to the institution’s budget to the value of A$100 million.
+      This initially involved the sacking of 400 staff members, a proposal cooked up
+      even as five senior UTS executives travelled to the United States on an alumni
+      trip worth A$140,000. That financially minded paper also wondered why UTS ended
+      up using KPMG “instead of its own staff to design this plan” in an adventurously
+      asinine contract stuffed with such terms as “leveraging solutions”, “acceleration
+      of value”, and “decision trees”. (Meaningless terms suggest a mind without meaning.)
+      KPMG crows in convoluted ecstasy about a “six-layer framework for target operating
+      model design”. No wonder the technocrats were so wooed by it all.
+
+
+      The suggested program from the firm was ordinary and, as with most products arising
+      from such an organisation, prosaic. It could have just as easily been done by
+      clumsy butchers with a plagiarised MBA. KPMG produced spreadsheets dealing with
+      courses and subjects that might be offered in future, which ones deserved to be
+      confined to oblivion and what areas of research warranted interest as opposed
+      to those that did not. Just to confirm the firm’s almost awe-inspiring lack of
+      expertise, it was also called upon to examine “current and future state teaching
+      capacity”.
+
+
+      Part of the tool kit of advice developed by KPMG to staff most likely heading
+      for the chop developed into a ragbag of nonsense and piffle: to stay mentally
+      sound, best wash delicates with your hands. Try to take up baking, because that
+      is what a disturbed mind awaiting imminent suffering needs. Keep a gratitude journal.
+      Make sure to brush and floss your teeth, because you obviously did not do that
+      before a consultancy firm hired by a university told you to do.
+
+
+      There is every reason to suppose that ChatGPT could have come up with the same,
+      risible nonsense, saving the shameful creeps in management some cash. But sound
+      reasoning is not a prerequisite to those rising up the greasy towers of technocracy
+      in learning institutions, let alone any other institution. Incompetence is often
+      essential, while talent and ethical worth are impediments best done away with.
+
+
+      The vice-chancellor of the university is very much short of parfit, though sports
+      the name Andrew Parfitt. He is adamant that no decisions have been made on job
+      losses or the discontinuing of any courses which, knowing the pattern of university
+      practices, is precisely the opposite of what will happen. “The temporary suspension
+      is aimed at prospective new students for 2026.” This is the sort of shoddy reasoning
+      we have come to expect from the vice-chancellorship and any number of university
+      proconsuls and viceroys that suck the lifeblood out of education. Ella Haid, spokesperson
+      of the UTS Students Association General Councillor and Stop the Cuts UTS, is hard
+      to fault in her assessment on this: “We should be clear that management is doing
+      this because they’re pursuing a hefty financial surplus. They’ve no interest in
+      seeking student or staff consultation on this major restructure.”
+
+
+      The response from UTS to reports, notably by the ABC, was one of dastardly fudging,
+      oily manoeuvring and sickly denial. Rather than admitting to blunder, organisational
+      insensitivity, and being outed, it attacked the national broadcaster for its reporting
+      in a statement. “We are disappointed that the ABC reported that these comprehensive
+      support initiatives were only rolled out as a result of their reporting.”
+
+
+      The reports, claimed the university, had ignored context. “By focusing on just
+      six dot points from a single article on an external wellbeing hub comprising extensive,
+      differentiated resources, the ABC chose to portray this as being representative
+      of the tone, intent and totality of support provided to UTS employees.”
+
+
+      The parasitic problems associated with university management have become critically
+      colossal. Being unable to exist without attachment to the authentic university,
+      that pulsing, thriving organism of cerebration sustained by students and research,
+      the leadership of such bodies continues to make decisions that harm academic staff
+      and any chance of a rich learning experience for students. (A survey from the
+      National Tertiary Education Union of 380 respondents from UTS found that 35% had
+      experienced high levels of psychological distress from the OSI endeavour.)
+
+
+      That harm is then justified through cringeworthy programs of “wellbeing” and assistance,
+      their very existence intended to exonerate the misdeeds of culprits who shamelessly
+      engender an environment of emotional and intellectual terrorism. They create the
+      bullets, use them, and drag out the psychological bandaging to conceal the wounds.
+
+
+      Should courage ever be mustered by cowed academics and the atomised student body,
+      the cosmos of the vice-chancellor and those complicit in sustaining it can finally
+      be terminated with little sorrow and much relish.'
+    one_sentence_summary: The University of Technology Sydney is facing severe criticism
+      for its costly and poorly managed Operational Sustainability Initiative, which
+      has allegedly caused significant psychological harm to staff while prioritizing
+      financial cuts and outsourcing to KPMG over genuine consultation and support for
+      employees.
+    paragraph_summary: The University of Technology Sydney (UTS) has come under fire
+      for its decision to spend $4.8 million on a restructuring initiative, dubbed the
+      Operational Sustainability Initiative (OSI), by KPMG, despite claiming financial
+      constraints. This initiative has been criticized for its potential to cause significant
+      psychological harm to staff, with reports of anxiety and suicidal ideation linked
+      to the proposed layoffs of 400 employees and budget cuts of A$100 million. Critics
+      argue that the program, filled with vague corporate jargon, lacks genuine expertise
+      and offers trivial advice for mental well-being, while the university's management
+      has been accused of prioritizing financial surplus over the welfare of students
+      and staff. The vice-chancellor, Andrew Parfitt, has denied any decisions on job
+      losses, but many believe the restructuring is already underway without proper
+      consultation. The situation reflects a broader issue within university management,
+      where decisions often harm the academic community while superficial support measures
+      are implemented to mask the damage.
+    published: '2025-09-18T05:53:37+00:00'
   - title: Australia Excludes the Pacific Island Press Corps
     url: https://www.counterpunch.org/2025/09/16/australia-excludes-the-pacific-island-press-corps/
     text: 'Bullies, never able to hit upwards, always kick down. The United States beats

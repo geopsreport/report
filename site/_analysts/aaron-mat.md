@@ -7,15 +7,96 @@ description: "Journalist and producer; covers US foreign policy, Russiagate, and
 websites:
   - https://www.aaronmate.net/
 summary: |
-  The past week has seen a rapid escalation in Middle East tensions, with the Israeli airstrike on Hamas leaders in Doha marking a significant expansion of the Gaza conflict. As **Aaron Maté** notes, this strike followed President Trump’s “last warning” to Hamas regarding ceasefire terms and the release of captives, underscoring what many analysts describe as a pattern of “diplomacy for aggression” by the US and Israel. The attack has raised urgent questions about whether Iran could be the next target, with regional actors bracing for potential spillover.
+  The geopolitical landscape remains volatile as new developments reshape alliances and challenge longstanding narratives. In a historic move, the US has hosted Syrian President Ahmed al-Sharaa—formerly known as Mohammed al-Jolani and a past leader of Al Qaeda and ISIS—marking the first visit by a sitting Syrian president in nearly sixty years. This follows Washington’s controversial decision to remove al-Sharaa from its terrorism list, a step justified by his group’s pivotal role in toppling Bashar al-Assad. **Aaron Maté** notes that this normalization signals a dramatic realignment in US-Syria relations, raising questions about the future of counterterrorism policy and the regional balance of power.
   
-  Meanwhile, revelations concerning the OPCW’s investigation into alleged chemical attacks in Syria have resurfaced. Leaked documents, as reported by **Aaron Maté**, show that an OPCW team found no evidence implicating the Syrian government in the Douma incident, contradicting the justification for Western military strikes in 2018. Allegations of internal manipulation and a subsequent cover-up have been largely ignored by mainstream outlets, but the new disclosures are fueling skepticism about the integrity of international investigative bodies.
+  Meanwhile, the aftermath of Israel’s strike on Hamas leaders in Doha continues to reverberate. The attack, which came after President Trump’s ultimatum to Hamas regarding a ceasefire and hostage release, is widely seen as an example of “diplomacy for aggression,” according to **Aaron Maté**. The incident has heightened fears that Iran could be the next target, given the pattern of escalating military actions and diplomatic brinkmanship in the region.
   
-  On the Ukraine front, diplomatic dynamics continue to shift. President Trump’s move from demanding further sanctions against Russia to accepting negotiations for a ceasefire reflects the changing battlefield realities and the pressure on Ukrainian leadership. Former OSCE monitor **Benoit Paré** attributes the failure to implement the Minsk accords to Kyiv and warns that ultra-nationalist factions remain a major obstacle to peace.
+  On the Ukraine front, President Trump’s pivot from sanctions to negotiations with Russia has shifted the dynamics of the conflict. The acceptance of talks for a final settlement, as reported by **Aaron Maté**, complicates the position of Ukrainian President Zelensky and reflects changing realities on the battlefield. There is now a high chance that the Trump-Putin summit will yield at least a temporary ceasefire, though the details of any territorial agreements remain uncertain.
   
-  **Trends and Predictions:**  
-  The majority of independent analysts agree that the Israeli strike in Qatar signals a willingness by both Israel and the US to expand the conflict zone, making further escalation in the region, possibly involving Iran, “quite likely.” The OPCW leaks are expected to intensify calls for transparency and accountability in international institutions, though mainstream acknowledgment remains uncertain. In Ukraine, the shift toward negotiations suggests a high chance of a frozen conflict or a brokered settlement in the coming months, with the outcome hinging on US-Russia talks and internal Ukrainian politics.
+  Looking ahead, the majority of analysts agree that the US’s willingness to engage with former adversaries—whether in Syria or Russia—signals a pragmatic, if controversial, approach to conflict resolution. However, these moves also risk fueling new cycles of instability, especially if underlying grievances remain unaddressed. There is high confidence that the coming weeks will see intensified diplomatic maneuvering in both the Middle East and Eastern Europe, with the potential for further surprises as power dynamics continue to shift.
 articles:
+  - title: US hosts Syria's ruling fmr. Al Qaeda leader amid sectarian violence at home
+    url: https://www.aaronmate.net/p/us-hosts-syrias-ruling-fmr-al-qaeda
+    text: '(Photo by BING GUAN/POOL/AFP via Getty Images) The new President of Syria,
+      Ahmed al-Sharaa, aka Mohammed al-Jolani, is in New York for what is widely being
+      described as the first visit by a sitting Syrian president to the US in nearly
+      six decades. But even more significant is another fact: it’s also the first state
+      visit to the US by a leading veteran of Al Qaeda and ISIS. Just last year, al-Sharra/al-Jolani
+      – the founding leader of Al Qaeda in Syria and a former deputy leader of ISIS
+      -- was on the US terrorism list with a $10 million reward for his arrest. But
+      after leading the overthrow of Syrian president Basher al-Assad , the US removed
+      that designation and welcomed Jolani’s ruling Al Qaeda offshoot government. After
+      all, as Jake Sullivan put it at the outset of the dirty war in early, 2012, “
+      Al Qaeda is on our side in Syria .” Because the US is on Al Qaeda’s side in Syria,
+      that also means overlooking atrocities under its founding leader’s watch. Since
+      al-Sharaa/al-Jolani took power, government forces have committed sectarian violence
+      against Syria’s minority groups. In March, hundreds – possibly thousands – of
+      Alawite civilians were massacred in Syria’s coastal regions. In July, hundreds
+      more, mostly Druze civilians, were killed in Syria''s Suweida region. The Grayzone’s
+      Aaron Maté speaks to members of two Syrian minority communities about the ongoing
+      sectarian violence at the hands of a ruling Al Qaeda offshoot that the US and
+      allies helped put in power. Guests : Dr. Morhaf Ibrahim, head of the Alawite Association
+      of the United States. Hibbah Jarmakani, a Druze Syrian-American originally from
+      Suweida province in Syria. Aaron Mate is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber.'
+    one_sentence_summary: The new President of Syria, Ahmed al-Sharaa (also known as
+      Mohammed al-Jolani), is making a historic visit to the US as the first sitting
+      Syrian president in nearly sixty years and as a former leader of Al Qaeda and
+      ISIS, following the US's decision to remove him from its terrorism list after
+      his group's role in overthrowing Bashar al-Assad.
+    paragraph_summary: Ahmed al-Sharaa, also known as Mohammed al-Jolani, has made a
+      historic visit to the US as the new President of Syria, marking the first time
+      a sitting Syrian president has visited the country in nearly sixty years. This
+      visit is particularly notable as al-Jolani is a prominent figure associated with
+      Al Qaeda and ISIS, having previously been on the US terrorism list with a $10
+      million bounty on his head. Following his role in the overthrow of Syrian President
+      Bashar al-Assad, the US removed his designation as a terrorist and has since supported
+      his Al Qaeda offshoot government. However, this support has come amidst reports
+      of severe sectarian violence against minority groups in Syria, including massacres
+      of Alawite and Druze civilians, raising ethical concerns about the US's alliance
+      with a group that has committed such atrocities.
+    published: '2025-09-22T18:30:23+00:00'
+  - title: US hosts Syria's ruling fmr. Al Qaeda leader amid sectarian violence at home
+    url: https://www.aaronmate.net/p/us-hosts-syrias-ruling-fmr-al-qaeda
+    text: '(Photo by BING GUAN/POOL/AFP via Getty Images) The new President of Syria,
+      Ahmed al-Sharaa, aka Mohammed al-Jolani, is in New York for what is widely being
+      described as the first visit by a sitting Syrian president to the US in nearly
+      six decades. But even more significant is another fact: it’s also the first state
+      visit to the US by a leading veteran of Al Qaeda and ISIS. Just last year, al-Sharra/al-Jolani
+      – the founding leader of Al Qaeda in Syria and a former deputy leader of ISIS
+      -- was on the US terrorism list with a $10 million reward for his arrest. But
+      after leading the overthrow of Syrian president Basher al-Assad , the US removed
+      that designation and welcomed Jolani’s ruling Al Qaeda offshoot government. After
+      all, as Jake Sullivan put it at the outset of the dirty war in early, 2012, “
+      Al Qaeda is on our side in Syria .” Because the US is on Al Qaeda’s side in Syria,
+      that also means overlooking atrocities under its founding leader’s watch. Since
+      al-Sharaa/al-Jolani took power, government forces have committed sectarian violence
+      against Syria’s minority groups. In March, hundreds – possibly thousands – of
+      Alawite civilians were massacred in Syria’s coastal regions. In July, hundreds
+      more, mostly Druze civilians, were killed in Syria''s Suweida region. The Grayzone’s
+      Aaron Maté speaks to members of two Syrian minority communities about the ongoing
+      sectarian violence at the hands of a ruling Al Qaeda offshoot that the US and
+      allies helped put in power. Guests : Dr. Morhaf Ibrahim, head of the Alawite Association
+      of the United States. Hibbah Jarmakani, a Druze Syrian-American originally from
+      Suweida province in Syria. Aaron Mate is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber.'
+    one_sentence_summary: The new President of Syria, Ahmed al-Sharaa (also known as
+      Mohammed al-Jolani), is making a historic visit to the US as the first sitting
+      Syrian president in nearly sixty years and as a former leader of Al Qaeda and
+      ISIS, following the US's decision to remove him from its terrorism list after
+      his group's role in overthrowing Bashar al-Assad.
+    paragraph_summary: Ahmed al-Sharaa, also known as Mohammed al-Jolani, has made a
+      historic visit to the US as the new President of Syria, marking the first time
+      a sitting Syrian president has visited the country in nearly sixty years. This
+      visit is particularly notable as al-Jolani is a prominent figure associated with
+      Al Qaeda and ISIS, having previously been on the US terrorism list with a $10
+      million bounty on his head. Following his role in the overthrow of Syrian President
+      Bashar al-Assad, the US removed his designation as a terrorist and has since supported
+      his Al Qaeda offshoot government. However, this support has come amidst reports
+      of severe sectarian violence against minority groups in Syria, including massacres
+      of Alawite and Druze civilians, raising ethical concerns about the US's alliance
+      with a group that has committed such atrocities.
+    published: '2025-09-22T18:30:23+00:00'
   - title: After Israeli attack in Qatar, is Iran next?
     url: https://www.aaronmate.net/p/after-israeli-attack-in-qatar-is
     text: 'Aaron Mate After Israeli attack in Qatar, is Iran next? 103 1 16 1× 0:00
@@ -563,6 +644,24 @@ articles:
       Ian Henderson, one of the whistleblowers, expresses concern over the future of
       the chemical weapons narrative in the absence of Assad.
     published: '2025-09-07T14:20:35+00:00'
+  - title: 'Listen to this article: Ukraine’s best security guarantee is the peace NATO
+      sabotaged'
+    url: https://www.aaronmate.net/p/listen-to-this-article-ukraines-best
+    text: In recent high-profile meetings with Russian, Ukrainian, and European counterparts,
+      the most significant breakthrough on the path to ending the Ukraine war came from
+      President Donald Trump himself. After threatening Vladimir Putin with punishing
+      new sanctions unless he agreed to a ceasefire, Trump dropped that demand and accepted
+      the Kremlin leader’s insistence on negotiating a final settlement.
+    one_sentence_summary: President Donald Trump made a significant breakthrough in
+      ending the Ukraine war by shifting from demanding new sanctions on Vladimir Putin
+      to accepting his call for negotiations on a final settlement.
+    paragraph_summary: In recent discussions involving Russian, Ukrainian, and European
+      leaders, President Donald Trump made a notable breakthrough in efforts to resolve
+      the Ukraine war. Initially threatening Vladimir Putin with new sanctions to enforce
+      a ceasefire, Trump ultimately relented and agreed to Putin's request to focus
+      on negotiating a final settlement, marking a significant shift in the diplomatic
+      approach to the conflict.
+    published: '2025-08-25T14:19:56+00:00'
   - title: Ukraine’s best security guarantee is the peace NATO sabotaged
     url: https://www.aaronmate.net/p/ukraines-best-security-guarantee
     text: (Photo by ANDREW CABALLERO-REYNOLDS/AFP via Getty Images) In recent high-profile

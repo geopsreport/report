@@ -8,37 +8,15 @@ websites:
   - https://www.commondreams.org/author/jeffrey-d-sachs
   - https://www.jeffsachs.org/newspaper-articles
 summary: |
-  The geopolitical landscape remains dominated by the ongoing crisis in Gaza, the aftermath of Israel’s recent military campaigns across the region, and shifting international alignments. The most recent developments underscore both the humanitarian catastrophe in Gaza and the growing global isolation of Israel and its US backer.
+  The geopolitical landscape remains dominated by the ongoing crisis in Gaza, the aftermath of the US-Israeli campaign in Syria, and the shifting positions of global powers regarding the Israel-Palestine conflict. The humanitarian catastrophe in Gaza has reached unprecedented levels, with mass starvation now officially confirmed by multiple international organizations, including the UN, Amnesty International, and the Red Cross. **Jeffrey Sachs** reports that “Israel is systematically depriving more than two million people of food,” with over half a million Palestinians facing catastrophic hunger and at least 132,000 children under five at risk of death from acute malnutrition. The deliberate targeting of food distribution sites by Israeli forces has been documented, further exacerbating the crisis.
   
-  **Gaza: Starvation as a Weapon of War**
+  Despite overwhelming international condemnation, the United States continues to shield Israel diplomatically, most notably through its veto power at the UN Security Council and by denying visas to Palestinian leaders. However, global sentiment is shifting: 172 countries, representing over 90% of the world’s population, have voted to support Palestine’s right to self-determination, leaving the US and Israel increasingly isolated. Domestically, US public opinion is also turning, with 58% of Americans now supporting UN recognition of Palestine and 60% opposing Israel’s actions in Gaza.
   
-  According to **Jeffrey Sachs**, Israel, with US complicity, is “committing genocide in Gaza through the mass starvation of the population, as well as direct mass murders and the physical destruction of Gaza’s infrastructure.” This assessment is now widely echoed by international organizations, including the UN, Amnesty International, and the Red Cross, all confirming mass starvation for the first time in the region’s modern history. More than half a million Palestinians face catastrophic hunger, with at least 132,000 children under five at acute risk of death from malnutrition. Food distribution sites are routinely targeted by Israeli forces, further exacerbating the crisis.
+  In response to the deepening crisis, **Sachs** outlines a series of escalating international measures, including Turkey’s full suspension of economic and transport ties with Israel, calls for broader recognition of the State of Palestine, and proposals for the UN General Assembly to suspend Israel’s membership and deploy a protection force to Gaza under the “Uniting for Peace” mechanism. The likelihood of such collective action is rising, as the US loses its ability to control the narrative and votes across mainstream American society. Sachs assesses with high confidence that “the family of nations is being tested and summoned to action as it has not been in decades.”
   
-  Despite overwhelming global condemnation—172 countries supported Palestine’s right to self-determination last December—the US continues to shield Israel diplomatically, most recently by denying visas to Palestinian leaders and vetoing Palestine’s UN membership. However, **Sachs** notes that “even that [US support] may not be there for long,” as American public opinion shifts: 58% now support UN recognition of Palestine, and 60% oppose Israel’s actions in Gaza.
+  Meanwhile, the collapse of the Syrian government marks the culmination of decades of US-Israeli efforts to reshape the Middle East. The fall was precipitated by years of war, economic sanctions, the US seizure of Syrian oil, and recent Israeli military actions. In the immediate aftermath, Israel has conducted hundreds of strikes across Syria and claimed permanent control over the Golan Heights. Sachs notes that this outcome is the realization of the long-standing “Clean Break” strategy, aimed at preventing the emergence of a Palestinian state by dismantling regional governments supportive of the Palestinian cause.
   
-  **International Response: Calls for Concrete Action**
-  
-  In response to the deepening crisis, **Sachs** highlights a series of practical steps gaining traction among independent analysts and a growing number of states:
-  
-  - **Turkiye** has ended all economic, trade, shipping, and air links with Israel, setting a precedent for broader international sanctions.
-  - Calls are intensifying for more UN member states to recognize Palestine, with a major push expected at the upcoming UN summit on September 22.
-  - Suspension of diplomatic relations by Arab Abraham Accords signatories (Bahrain, Morocco, Sudan, UAE) is being urged until the siege of Gaza ends.
-  - There is mounting advocacy for the UN General Assembly to suspend Israel’s membership, bypassing the US veto, and to authorize a UN protection force for Gaza under the “Uniting for Peace” mechanism.
-  
-  **Broader Regional and Global Implications**
-  
-  The crisis in Gaza is part of a wider pattern of destabilization across the Middle East, driven by Israel’s long-term strategy to block Palestinian statehood through military dominance and regime change, as detailed in the “Clean Break” doctrine. The recent collapse of Syria, following years of US-Israeli covert operations and sanctions, is cited by **Sachs** as the latest example of this approach, which has left a “4,000-kilometer swath of violence from Libya to Iran.”
-  
-  Internationally, the US and Israel are increasingly isolated. Even traditional allies such as France, the UK, Australia, and Canada have pledged to recognize Palestine at the UN General Assembly. The majority of the world’s population, as represented in the UN, now supports Palestinian statehood and an end to the occupation.
-  
-  **Trends and Predictions**
-  
-  - There is **high confidence** that international pressure on Israel will escalate, especially through economic and diplomatic isolation, as more countries follow Turkiye’s lead.
-  - It is **quite likely** that the UN General Assembly will take unprecedented steps, including moves to suspend Israel’s membership and authorize a protection force, given the paralysis at the Security Council.
-  - The US position is becoming increasingly untenable both internationally and domestically, with public opinion shifting rapidly against unconditional support for Israel.
-  - Unless there is a dramatic policy shift from Washington, the US risks standing “naked and alone in its criminal complicity,” as **Sachs** puts it, with severe consequences for its global standing.
-  
-  In summary, the humanitarian disaster in Gaza is catalyzing a realignment of international attitudes and policies toward Israel and the US. The majority of analysts and global actors now see the two-state solution, enforced through robust international mechanisms, as the only viable path to peace and regional stability. The coming weeks—especially the UN summit on Palestine—are poised to be decisive.
+  Looking ahead, the consensus among independent analysts is that the only viable path to regional stability is a comprehensive peace agreement anchored in the two-state solution, with the US lifting its veto on Palestinian statehood at the UN. With the international community overwhelmingly in favor, and US public opinion shifting, there is a high chance that diplomatic pressure will intensify on Washington to end its support for Israel’s current policies. Sachs predicts with high confidence that “the Israel-US partnership in its current form cannot be sustained much longer,” and that the coming months will be decisive for the future of the Middle East order.
 articles:
   - title: How to stop Israel from starving Gaza
     url: https://www.aljazeera.com/amp/opinions/2025/9/4/how-to-stop-israel-from-starving-gaza

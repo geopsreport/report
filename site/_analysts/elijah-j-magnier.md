@@ -7,16 +7,2666 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  The Israeli military has escalated its campaign in Gaza City, marking the beginning of the second phase of "Gideon’s Chariots 2." This operation follows weeks of intense aerial bombardment that, according to **Elijah J. Magnier**, has already left over 50,000 civilians homeless and destroyed hundreds of buildings, including residential towers and refugee centers. The latest development is the deployment of two Israeli army divisions into Gaza City, with a third division on standby, initiating a large-scale ground offensive aimed at capturing territory and fundamentally altering the urban landscape.
+  The ongoing Israeli-Palestinian conflict has reached a critical humanitarian and political juncture. Over the past week, Israeli military operations in Gaza have intensified, with government leaders in Tel Aviv consistently framing their actions as essential for national security. However, as **Elijah J. Magnier** reports, the reality on the ground is marked by repeated displacement of Palestinians, widespread destruction of infrastructure, and irreversible harm to civilian life. The Israeli leadership’s rhetoric, according to Magnier, masks a cycle of devastation that condemns not only Palestinians but also future generations of Israelis to continued insecurity and trauma.
   
-  **Magnier** notes that this combined-arms assault is characterized by unprecedented levels of bombardment and is designed not only to seize control but also to reshape the city’s structure. The Israeli strategy is expected to unfold over a period that could last up to six months, reflecting both the scale of the operation and the anticipated resistance.
+  Recent developments highlight the deepening crisis: Israeli bombardments have forced hundreds of thousands of Palestinians into overcrowded, unsafe areas, dramatically worsening the humanitarian situation. The death toll continues to rise daily, and the prospects for meaningful relief remain bleak. **Magnier** emphasizes that families are compelled to rebuild their lives amid relentless destruction, with no end in sight to the violence.
   
-  The humanitarian situation continues to deteriorate rapidly. The destruction wrought by the initial phase has already displaced tens of thousands, and the intensification of ground operations is likely to exacerbate civilian suffering. The Israeli government, however, maintains a focus on military objectives and has downplayed the humanitarian impact, as previously reported.
+  On the political front, Israeli Prime Minister Benjamin Netanyahu has reiterated his commitment to targeting Hamas leadership, even as the military campaign endangers the lives of Israeli hostages held in Gaza. The majority of analysts, including **Magnier**, agree that the impending ground invasion will almost certainly place these hostages at even greater risk, with Netanyahu’s public statements seen as an attempt to preemptively shift blame for any tragic outcomes.
   
-  Looking ahead, the majority of analysts, including **Magnier**, assess with high confidence that the Israeli campaign will persist in its current trajectory, with further escalation in both military operations and urban destruction. "I guarantee," writes **Magnier**, "that the Israeli strategy is to fundamentally change Gaza City’s landscape, regardless of the humanitarian cost." The expectation is that the operation will become protracted, with significant implications for regional stability and Israel’s international standing.
-  
-  In summary, the conflict in Gaza has entered a new, more destructive phase, with the Israeli military committed to a long-term ground campaign. The humanitarian crisis is set to deepen, and the prospects for a swift resolution remain remote.
+  Looking ahead, the prevailing trend is one of escalating violence and deepening humanitarian catastrophe. Based on the current trajectory and the positions of both Israeli and Palestinian leadership, I most definitely guarantee that the cycle of destruction and retaliation will persist in the near term. The likelihood of a negotiated settlement or significant de-escalation remains extremely low, and the region is set to endure further instability, with generational consequences for both peoples.
 articles:
+  - title: 'Israël vernietigt Palestina — en zichzelf: leiders veroordelen generaties
+      aan beide kanten'
+    url: https://ejmagnier.com/2025/09/21/israel-vernietigt-palestina-en-zichzelf-leiders-veroordelen-generaties-aan-beide-kanten/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. In de
+      besluitvormingskamers van Tel Aviv wordt nationale veiligheid aangeroepen als
+      een heilige bezwering, de zin die elke bom die wordt gegooid en elk huis dat wordt
+      gesloopt rechtvaardigt. Achter gesloten deuren beraadslagen ministers en generaals
+      in de steriele taal van afschrikking, preventieve aanvallen en langetermijnveiligheidsarchitectuur,
+      alsof oorlog een technisch project is. Maar de realiteit die hun woorden verbergen
+      is niet theoretisch – het is bloed, puin en levens die onherstelbaar zijn gebroken.
+      Voor Palestijnen zijn de kosten absoluut. Gezinnen worden niet één keer, maar
+      herhaaldelijk uit hun huizen verdreven en gedwongen om tenten op te zetten op
+      onstabiele grond, om die vervolgens weer te zien vernietigd worden. Hun levensonderhoud
+      verdwijnt van de ene op de andere dag: boerderijen worden platgebrand, winkels
+      worden gereduceerd tot vervormd metaal, scholen worden met de grond gelijkgemaakt
+      voordat de lessen kunnen worden hervat. Hele wijken worden tot grijs stof verpulverd,
+      waardoor de geografie van herinneringen en verbondenheid wordt uitgewist. In Gaza
+      verliest een kind dat haar ouders ziet verbranden in een luchtaanval niet alleen
+      haar familie; ze verliest ook haar anker van veiligheid, het kader van liefde,
+      de mogelijkheid van een normale jeugd. Die wond zal haar volgen in elke fase van
+      haar leven – in haar stilzwijgen, haar woede, haar dromen – en haar identiteit
+      merken met verdriet, onteigening en het gevoel dat de wereld zelf tegen haar bestaan
+      heeft samengespannen. In hun herinnering kent de wereld geen gerechtigheid, geen
+      erkenning van hun menselijkheid – alleen de echo van een kindertijd die opzettelijk
+      is verwoest en begraven onder het puin. Het gevaarlijkste gevolg is misschien
+      wel de manier waarop deze oorlog het sociale weefsel van beide samenlevingen aantast.
+      Onder Palestijnen kan wanhoop leiden tot radicalisering, waardoor er minder stemmen
+      overblijven die pleiten voor coëxistentie. Onder Israëli’s bevordert voortdurende
+      mobilisatie een belegeringsmentaliteit die bijna elke maatregel tegen een ‘vijand’
+      rechtvaardigt, waaronder miljoenen burgers. Voor Israëli’s is de last van een
+      andere aard, maar niet minder corrosief. Een soldaat die uit de eerste hand deelneemt
+      aan het plegen van misdaden, of die de nasleep van zijn eigen bevelen ziet, draagt
+      die beelden met zich mee als een schaduw die hem niet loslaat. Toch blijft het
+      onderscheid scherp en onverbiddelijk: de ene kant rouwt om zijn doden onder het
+      puin, de andere worstelt met de wetenschap dat hij heeft gedood. Deze trauma’s
+      komen zelden samen, maar ze zijn verbonden in een groteske symmetrie – een tragische
+      spiegel van verlies en schuld. En al die tijd wordt de cyclus in stand gehouden
+      door leiders die precies weten wat ze doen: ze hebben wreedheid omgezet in strategie,
+      controle omgezet in beleid en wreedheden geaccepteerd als een prijs die het waard
+      is om te betalen. In hun handen is eindeloze oorlog geen ongeluk – het is een
+      keuze, berekend en koelbloedig, voortgezet in het volle besef van de verwoesting
+      die het achterlaat. Gaza: een landschap van ruïnes en trauma’s Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: In Tel Aviv rechtvaardigen ministers en generaals hun militaire
+      acties in naam van nationale veiligheid, terwijl de verwoestende realiteit voor
+      Palestijnen bestaat uit herhaalde ontheemding, vernietiging van levensonderhoud
+      en onherstelbare schade aan hun levens.
+    paragraph_summary: 'In een artikel van Elijah J. Magnier, vertaald door Francis
+      J., wordt de verwoestende impact van de oorlog op de Palestijnen belicht, waarbij
+      de besluitvorming in Tel Aviv wordt gekarakteriseerd door een technocratische
+      benadering van nationale veiligheid. Terwijl ministers en generaals strategisch
+      over afschrikking en preventieve aanvallen discussiëren, blijven de menselijke
+      kosten van deze oorlog onzichtbaar; Palestijnen worden herhaaldelijk uit hun huizen
+      verdreven, verliezen hun levensonderhoud en zien hun gemeenschappen verwoest.
+      De gevolgen zijn niet alleen fysiek, maar ook psychologisch: kinderen die hun
+      ouders verliezen in aanvallen worden getraumatiseerd en hun identiteit wordt gekenmerkt
+      door verdriet en onteigening. Dit leidt tot een verwoesting van het sociale weefsel,
+      met het risico dat wanhoop en radicalisering de overhand krijgen onder de Palestijnen,
+      waardoor de kans op vreedzame oplossingen verder afneemt.'
+    published: '2025-09-21T03:28:23+00:00'
+  - title: 'Israël vernietigt Palestina — en zichzelf: leiders veroordelen generaties
+      aan beide kanten'
+    url: https://ejmagnier.com/2025/09/21/israel-vernietigt-palestina-en-zichzelf-leiders-veroordelen-generaties-aan-beide-kanten/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. In de
+      besluitvormingskamers van Tel Aviv wordt nationale veiligheid aangeroepen als
+      een heilige bezwering, de zin die elke bom die wordt gegooid en elk huis dat wordt
+      gesloopt rechtvaardigt. Achter gesloten deuren beraadslagen ministers en generaals
+      in de steriele taal van afschrikking, preventieve aanvallen en langetermijnveiligheidsarchitectuur,
+      alsof oorlog een technisch project is. Maar de realiteit die hun woorden verbergen
+      is niet theoretisch – het is bloed, puin en levens die onherstelbaar zijn gebroken.
+      Voor Palestijnen zijn de kosten absoluut. Gezinnen worden niet één keer, maar
+      herhaaldelijk uit hun huizen verdreven en gedwongen om tenten op te zetten op
+      onstabiele grond, om die vervolgens weer te zien vernietigd worden. Hun levensonderhoud
+      verdwijnt van de ene op de andere dag: boerderijen worden platgebrand, winkels
+      worden gereduceerd tot vervormd metaal, scholen worden met de grond gelijkgemaakt
+      voordat de lessen kunnen worden hervat. Hele wijken worden tot grijs stof verpulverd,
+      waardoor de geografie van herinneringen en verbondenheid wordt uitgewist. In Gaza
+      verliest een kind dat haar ouders ziet verbranden in een luchtaanval niet alleen
+      haar familie; ze verliest ook haar anker van veiligheid, het kader van liefde,
+      de mogelijkheid van een normale jeugd. Die wond zal haar volgen in elke fase van
+      haar leven – in haar stilzwijgen, haar woede, haar dromen – en haar identiteit
+      merken met verdriet, onteigening en het gevoel dat de wereld zelf tegen haar bestaan
+      heeft samengespannen. In hun herinnering kent de wereld geen gerechtigheid, geen
+      erkenning van hun menselijkheid – alleen de echo van een kindertijd die opzettelijk
+      is verwoest en begraven onder het puin. Het gevaarlijkste gevolg is misschien
+      wel de manier waarop deze oorlog het sociale weefsel van beide samenlevingen aantast.
+      Onder Palestijnen kan wanhoop leiden tot radicalisering, waardoor er minder stemmen
+      overblijven die pleiten voor coëxistentie. Onder Israëli’s bevordert voortdurende
+      mobilisatie een belegeringsmentaliteit die bijna elke maatregel tegen een ‘vijand’
+      rechtvaardigt, waaronder miljoenen burgers. Voor Israëli’s is de last van een
+      andere aard, maar niet minder corrosief. Een soldaat die uit de eerste hand deelneemt
+      aan het plegen van misdaden, of die de nasleep van zijn eigen bevelen ziet, draagt
+      die beelden met zich mee als een schaduw die hem niet loslaat. Toch blijft het
+      onderscheid scherp en onverbiddelijk: de ene kant rouwt om zijn doden onder het
+      puin, de andere worstelt met de wetenschap dat hij heeft gedood. Deze trauma’s
+      komen zelden samen, maar ze zijn verbonden in een groteske symmetrie – een tragische
+      spiegel van verlies en schuld. En al die tijd wordt de cyclus in stand gehouden
+      door leiders die precies weten wat ze doen: ze hebben wreedheid omgezet in strategie,
+      controle omgezet in beleid en wreedheden geaccepteerd als een prijs die het waard
+      is om te betalen. In hun handen is eindeloze oorlog geen ongeluk – het is een
+      keuze, berekend en koelbloedig, voortgezet in het volle besef van de verwoesting
+      die het achterlaat. Gaza: een landschap van ruïnes en trauma’s Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: In Tel Aviv rechtvaardigen ministers en generaals hun militaire
+      acties in naam van nationale veiligheid, terwijl de verwoestende realiteit voor
+      Palestijnen bestaat uit herhaalde ontheemding, vernietiging van levensonderhoud
+      en onherstelbare schade aan hun levens.
+    paragraph_summary: 'In een artikel van Elijah J. Magnier, vertaald door Francis
+      J., wordt de verwoestende impact van de oorlog op de Palestijnen belicht, waarbij
+      de besluitvorming in Tel Aviv wordt gekarakteriseerd door een technocratische
+      benadering van nationale veiligheid. Terwijl ministers en generaals strategisch
+      over afschrikking en preventieve aanvallen discussiëren, blijven de menselijke
+      kosten van deze oorlog onzichtbaar; Palestijnen worden herhaaldelijk uit hun huizen
+      verdreven, verliezen hun levensonderhoud en zien hun gemeenschappen verwoest.
+      De gevolgen zijn niet alleen fysiek, maar ook psychologisch: kinderen die hun
+      ouders verliezen in aanvallen worden getraumatiseerd en hun identiteit wordt gekenmerkt
+      door verdriet en onteigening. Dit leidt tot een verwoesting van het sociale weefsel,
+      met het risico dat wanhoop en radicalisering de overhand krijgen onder de Palestijnen,
+      waardoor de kans op vreedzame oplossingen verder afneemt.'
+    published: '2025-09-21T03:28:23+00:00'
+  - title: 'Israel Is Destroying Palestine — and Itself: Leaders Condemn Generations
+      on Both Sides'
+    url: https://ejmagnier.com/2025/09/20/israel-is-destroying-palestine-and-itself-leaders-condemn-generations-on-both-sides/
+    text: 'Tweet By Elijah J. Magnier – In the decision-making halls of Tel Aviv, national
+      security is invoked like a sacred incantation, the phrase that justifies every
+      bomb dropped and every home demolished. Behind closed doors, ministers and generals
+      deliberate in the sterile language of deterrence, pre-emptive strikes, and long-term
+      security architecture, as if war were an engineering project. Yet the reality
+      their words conceal is not theoretical—it is blood, rubble, and lives irreparably
+      broken. For Palestinians, the cost is absolute. Families are driven from their
+      homes not once but repeatedly, forced to rebuild tents on shifting ground, only
+      to see them destroyed again. Livelihoods vanish overnight: farms scorched, shops
+      reduced to twisted metal, schools levelled before lessons can resume. Entire neighbourhoods
+      are turned to grey dust, erasing the geography of memory and belonging. In Gaza,
+      a child who sees her parents incinerated in an airstrike does not simply lose
+      her family; she loses the anchor of safety, the framework of love, the possibility
+      of an ordinary childhood. That wound will follow her into every stage of life—into
+      her silence, her anger, her dreams—branding her identity with grief, dispossession,
+      and a sense that the world itself has conspired against her existence. In their
+      memory, the world holds no justice, no recognition of their humanity—only the
+      echo of a childhood deliberately broken and buried beneath rubble. The most dangerous
+      consequence may be the way this war erode the social fabric of both societies.
+      Among Palestinians, despair can turn into radicalisation, leaving fewer voices
+      advocating coexistence. Among Israelis, perpetual mobilisation fosters a siege
+      mentality that justifies almost any measure against an “enemy” that includes millions
+      of civilians. For Israelis, the burden is of another kind, but it is no less corrosive.
+      A soldier who participate in the first hand of committing crimes, or who watches
+      the aftermath of his own orders, carries those images like a shadow that will
+      not release him. Yet the distinction remains stark and unforgiving: one side mourns
+      its dead beneath the ruins; the other struggles with the knowledge of having killed.
+      These traumas seldom meet, but they are bound in a grotesque symmetry—a tragic
+      mirror of loss and guilt. And all the while, the cycle is sustained by leaders
+      who know exactly what they are doing: they have transformed cruelty into strategy,
+      turned control into policy, and accepted atrocity as a price worth paying. In
+      their hands, endless war is not an accident—it is a choice, calculated and cold,
+      perpetuated in full knowledge of the devastation it leaves behind. Gaza: A Landscape
+      of Ruins and Trauma Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: The article critiques the Israeli government's use of national
+      security rhetoric to justify military actions that result in devastating humanitarian
+      consequences for Palestinians, including loss of homes, livelihoods, and lives.
+    paragraph_summary: In a recent tweet, Elijah J. Magnier critiques the stark contrast
+      between the calculated language of national security used by Israeli leaders and
+      the devastating reality faced by Palestinians in Gaza. He highlights how the rhetoric
+      surrounding deterrence and pre-emptive strikes masks the profound human cost of
+      war, where families are repeatedly displaced, homes and livelihoods are destroyed,
+      and children are left traumatized by violence. This cycle of destruction not only
+      erases the physical landscape of communities but also inflicts deep psychological
+      wounds that shape identities marked by grief and dispossession. Magnier warns
+      that the ongoing conflict risks eroding the social fabric of both Israeli and
+      Palestinian societies, fostering despair and radicalization among Palestinians
+      while instilling a siege mentality among Israelis that justifies extreme measures
+      against civilians. Ultimately, he underscores the urgent need to recognize the
+      humanity of those affected by the conflict and the long-term consequences of sustained
+      violence.
+    published: '2025-09-20T16:49:57+00:00'
+  - title: 'Israel Is Destroying Palestine — and Itself: Leaders Condemn Generations
+      on Both Sides'
+    url: https://ejmagnier.com/2025/09/20/israel-is-destroying-palestine-and-itself-leaders-condemn-generations-on-both-sides/
+    text: 'Tweet By Elijah J. Magnier – In the decision-making halls of Tel Aviv, national
+      security is invoked like a sacred incantation, the phrase that justifies every
+      bomb dropped and every home demolished. Behind closed doors, ministers and generals
+      deliberate in the sterile language of deterrence, pre-emptive strikes, and long-term
+      security architecture, as if war were an engineering project. Yet the reality
+      their words conceal is not theoretical—it is blood, rubble, and lives irreparably
+      broken. For Palestinians, the cost is absolute. Families are driven from their
+      homes not once but repeatedly, forced to rebuild tents on shifting ground, only
+      to see them destroyed again. Livelihoods vanish overnight: farms scorched, shops
+      reduced to twisted metal, schools levelled before lessons can resume. Entire neighbourhoods
+      are turned to grey dust, erasing the geography of memory and belonging. In Gaza,
+      a child who sees her parents incinerated in an airstrike does not simply lose
+      her family; she loses the anchor of safety, the framework of love, the possibility
+      of an ordinary childhood. That wound will follow her into every stage of life—into
+      her silence, her anger, her dreams—branding her identity with grief, dispossession,
+      and a sense that the world itself has conspired against her existence. In their
+      memory, the world holds no justice, no recognition of their humanity—only the
+      echo of a childhood deliberately broken and buried beneath rubble. The most dangerous
+      consequence may be the way this war erode the social fabric of both societies.
+      Among Palestinians, despair can turn into radicalisation, leaving fewer voices
+      advocating coexistence. Among Israelis, perpetual mobilisation fosters a siege
+      mentality that justifies almost any measure against an “enemy” that includes millions
+      of civilians. For Israelis, the burden is of another kind, but it is no less corrosive.
+      A soldier who participate in the first hand of committing crimes, or who watches
+      the aftermath of his own orders, carries those images like a shadow that will
+      not release him. Yet the distinction remains stark and unforgiving: one side mourns
+      its dead beneath the ruins; the other struggles with the knowledge of having killed.
+      These traumas seldom meet, but they are bound in a grotesque symmetry—a tragic
+      mirror of loss and guilt. And all the while, the cycle is sustained by leaders
+      who know exactly what they are doing: they have transformed cruelty into strategy,
+      turned control into policy, and accepted atrocity as a price worth paying. In
+      their hands, endless war is not an accident—it is a choice, calculated and cold,
+      perpetuated in full knowledge of the devastation it leaves behind. Gaza: A Landscape
+      of Ruins and Trauma Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: The article critiques the Israeli government's use of national
+      security rhetoric to justify military actions that result in devastating humanitarian
+      consequences for Palestinians, including loss of homes, livelihoods, and lives.
+    paragraph_summary: In a recent tweet, Elijah J. Magnier critiques the stark contrast
+      between the calculated language of national security used by Israeli leaders and
+      the devastating reality faced by Palestinians in Gaza. He highlights how the rhetoric
+      surrounding deterrence and pre-emptive strikes masks the profound human cost of
+      war, where families are repeatedly displaced, homes and livelihoods are destroyed,
+      and children are left traumatized by violence. This cycle of destruction not only
+      erases the physical landscape of communities but also inflicts deep psychological
+      wounds that shape identities marked by grief and dispossession. Magnier warns
+      that the ongoing conflict risks eroding the social fabric of both Israeli and
+      Palestinian societies, fostering despair and radicalization among Palestinians
+      while instilling a siege mentality among Israelis that justifies extreme measures
+      against civilians. Ultimately, he underscores the urgent need to recognize the
+      humanity of those affected by the conflict and the long-term consequences of sustained
+      violence.
+    published: '2025-09-20T16:49:57+00:00'
+  - title: 'Israël détruit la Palestine — et se détruit lui-même : ses dirigeants condamnent
+      des générations des deux côtés'
+    url: https://ejmagnier.com/2025/09/20/israel-detruit-la-palestine-et-se-detruit-lui-meme-ses-dirigeants-condamnent-des-generations-des-deux-cotes/
+    text: 'Tweet Par Elijah J. Magnier – Dans les salles où se prennent les décisions
+      à Tel-Aviv, la sécurité nationale est invoquée comme une incantation sacrée, la
+      formule qui justifie chaque bombe larguée et chaque maison démolie. À huis clos,
+      ministres et généraux délibèrent dans le langage stérile de la dissuasion, des
+      frappes préventives et de l’architecture de sécurité à long terme, comme si la
+      guerre était un projet d’ingénierie. Pourtant, la réalité que leurs mots dissimulent
+      n’a rien de théorique : c’est du sang, des décombres, et des vies irrémédiablement
+      brisées. Pour les Palestiniens, le coût est absolu. Des familles sont chassées
+      de leurs maisons non pas une fois mais à répétition, contraintes de rebâtir des
+      tentes sur un sol mouvant pour les voir à nouveau détruites. Des moyens de subsistance
+      disparaissent du jour au lendemain : des fermes brûlées, des boutiques réduites
+      à des carcasses de métal, des écoles rasées avant même la reprise des cours. Des
+      quartiers entiers se changent en poussière grise, effaçant la géographie de la
+      mémoire et de l’appartenance. À Gaza, un enfant qui voit ses parents incinérés
+      par une frappe aérienne ne perd pas seulement sa famille ; il perd l’ancre de
+      la sécurité, la trame de l’amour, la possibilité même d’une enfance ordinaire.
+      Cette blessure l’accompagnera à toutes les étapes de sa vie – dans son silence,
+      sa colère, ses rêves – marquant son identité de deuil, de dépossession, et du
+      sentiment que le monde entier s’est ligué contre son existence. Dans sa mémoire,
+      le monde n’offre ni justice ni reconnaissance de son humanité – seulement l’écho
+      d’une enfance délibérément brisée et enterrée sous les gravats. La conséquence
+      la plus dangereuse pourrait être la manière dont cette guerre érode le tissu social
+      des deux sociétés. Chez les Palestiniens, le désespoir peut se muer en radicalisation,
+      laissant moins de voix pour plaider la coexistence. Chez les Israéliens, la mobilisation
+      permanente nourrit un esprit d’assiégés qui justifie presque toute mesure contre
+      un «ennemi» qui inclut des millions de civils. Pour les Israéliens, le fardeau
+      est d’une autre nature, mais il n’en est pas moins corrosif. Un soldat qui participe
+      de première main à la commission de crimes, ou qui observe les conséquences de
+      ses propres ordres, porte ces images comme une ombre qui ne le lâche pas. Pourtant,
+      la distinction demeure implacable : l’un des peuples pleure ses morts sous les
+      ruines; l’autre lutte avec la connaissance d’avoir tué. Ces traumatismes se croisent
+      rarement, mais ils sont liés par une symétrie grotesque – un miroir tragique de
+      perte et de culpabilité. Et pendant ce temps, le cycle est entretenu par des dirigeants
+      qui savent exactement ce qu’ils font : ils ont transformé la cruauté en stratégie,
+      fait du contrôle une politique et accepté l’atrocité comme un prix à payer. Entre
+      leurs mains, la guerre sans fin n’est pas un accident – c’est un choix, calculé
+      et froid, perpétué en pleine connaissance de la dévastation qu’il laisse derrière
+      lui. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: L'article souligne que, derrière le discours technique et
+      stratégique des décideurs israéliens sur la sécurité nationale, se cache une réalité
+      tragique pour les Palestiniens, qui subissent des pertes humaines et matérielles
+      dévastatrices, avec des familles forcées de reconstruire sans cesse dans un environnement
+      de destruction.
+    paragraph_summary: L'article d'Elijah J. Magnier met en lumière la manière dont
+      les décisions de sécurité nationale à Tel-Aviv sont souvent déshumanisées et présentées
+      comme des stratégies militaires, tandis que la réalité sur le terrain est marquée
+      par la violence et la destruction. Les Palestiniens subissent des pertes dévastatrices,
+      avec des familles déplacées, des moyens de subsistance anéantis et des enfants
+      traumatisés par la perte de leurs proches et de leur enfance. Cette situation
+      engendre un profond désespoir qui peut mener à la radicalisation parmi les Palestiniens,
+      tandis que les Israéliens, en état de siège permanent, développent un sentiment
+      de victimisation qui justifie la violence. L'article souligne ainsi le risque
+      que cette guerre ne détruise le tissu social des deux communautés, rendant la
+      coexistence de plus en plus difficile.
+    published: '2025-09-20T16:48:42+00:00'
+  - title: 'Israël détruit la Palestine — et se détruit lui-même : ses dirigeants condamnent
+      des générations des deux côtés'
+    url: https://ejmagnier.com/2025/09/20/israel-detruit-la-palestine-et-se-detruit-lui-meme-ses-dirigeants-condamnent-des-generations-des-deux-cotes/
+    text: 'Tweet Par Elijah J. Magnier – Dans les salles où se prennent les décisions
+      à Tel-Aviv, la sécurité nationale est invoquée comme une incantation sacrée, la
+      formule qui justifie chaque bombe larguée et chaque maison démolie. À huis clos,
+      ministres et généraux délibèrent dans le langage stérile de la dissuasion, des
+      frappes préventives et de l’architecture de sécurité à long terme, comme si la
+      guerre était un projet d’ingénierie. Pourtant, la réalité que leurs mots dissimulent
+      n’a rien de théorique : c’est du sang, des décombres, et des vies irrémédiablement
+      brisées. Pour les Palestiniens, le coût est absolu. Des familles sont chassées
+      de leurs maisons non pas une fois mais à répétition, contraintes de rebâtir des
+      tentes sur un sol mouvant pour les voir à nouveau détruites. Des moyens de subsistance
+      disparaissent du jour au lendemain : des fermes brûlées, des boutiques réduites
+      à des carcasses de métal, des écoles rasées avant même la reprise des cours. Des
+      quartiers entiers se changent en poussière grise, effaçant la géographie de la
+      mémoire et de l’appartenance. À Gaza, un enfant qui voit ses parents incinérés
+      par une frappe aérienne ne perd pas seulement sa famille ; il perd l’ancre de
+      la sécurité, la trame de l’amour, la possibilité même d’une enfance ordinaire.
+      Cette blessure l’accompagnera à toutes les étapes de sa vie – dans son silence,
+      sa colère, ses rêves – marquant son identité de deuil, de dépossession, et du
+      sentiment que le monde entier s’est ligué contre son existence. Dans sa mémoire,
+      le monde n’offre ni justice ni reconnaissance de son humanité – seulement l’écho
+      d’une enfance délibérément brisée et enterrée sous les gravats. La conséquence
+      la plus dangereuse pourrait être la manière dont cette guerre érode le tissu social
+      des deux sociétés. Chez les Palestiniens, le désespoir peut se muer en radicalisation,
+      laissant moins de voix pour plaider la coexistence. Chez les Israéliens, la mobilisation
+      permanente nourrit un esprit d’assiégés qui justifie presque toute mesure contre
+      un «ennemi» qui inclut des millions de civils. Pour les Israéliens, le fardeau
+      est d’une autre nature, mais il n’en est pas moins corrosif. Un soldat qui participe
+      de première main à la commission de crimes, ou qui observe les conséquences de
+      ses propres ordres, porte ces images comme une ombre qui ne le lâche pas. Pourtant,
+      la distinction demeure implacable : l’un des peuples pleure ses morts sous les
+      ruines; l’autre lutte avec la connaissance d’avoir tué. Ces traumatismes se croisent
+      rarement, mais ils sont liés par une symétrie grotesque – un miroir tragique de
+      perte et de culpabilité. Et pendant ce temps, le cycle est entretenu par des dirigeants
+      qui savent exactement ce qu’ils font : ils ont transformé la cruauté en stratégie,
+      fait du contrôle une politique et accepté l’atrocité comme un prix à payer. Entre
+      leurs mains, la guerre sans fin n’est pas un accident – c’est un choix, calculé
+      et froid, perpétué en pleine connaissance de la dévastation qu’il laisse derrière
+      lui. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: L'article souligne que, derrière le discours technique et
+      stratégique des décideurs israéliens sur la sécurité nationale, se cache une réalité
+      tragique pour les Palestiniens, qui subissent des pertes humaines et matérielles
+      dévastatrices, avec des familles forcées de reconstruire sans cesse dans un environnement
+      de destruction.
+    paragraph_summary: L'article d'Elijah J. Magnier met en lumière la manière dont
+      les décisions de sécurité nationale à Tel-Aviv sont souvent déshumanisées et présentées
+      comme des stratégies militaires, tandis que la réalité sur le terrain est marquée
+      par la violence et la destruction. Les Palestiniens subissent des pertes dévastatrices,
+      avec des familles déplacées, des moyens de subsistance anéantis et des enfants
+      traumatisés par la perte de leurs proches et de leur enfance. Cette situation
+      engendre un profond désespoir qui peut mener à la radicalisation parmi les Palestiniens,
+      tandis que les Israéliens, en état de siège permanent, développent un sentiment
+      de victimisation qui justifie la violence. L'article souligne ainsi le risque
+      que cette guerre ne détruise le tissu social des deux communautés, rendant la
+      coexistence de plus en plus difficile.
+    published: '2025-09-20T16:48:42+00:00'
+  - title: 'Israel zerstört Palästina – und sich selbst: Führer verdammen Generationen
+      auf beiden Seiten'
+    url: https://ejmagnier.com/2025/09/20/israel-zerstort-palastina-und-sich-selbst-fuhrer-verdammen-generationen-auf-beiden-seiten/
+    text: 'Tweet Von Elijah J. Magnier – In den Entscheidungszentren von Tel Aviv wird
+      die nationale Sicherheit wie eine heilige Beschwörungsformel herangezogen, ein
+      Satz, der jeden abgeworfenen Bomben und jeden zerstörten Haus rechtfertigt. Hinter
+      verschlossenen Türen beraten Minister und Generäle in der sterilen Sprache der
+      Abschreckung, der Präventivschläge und der langfristigen Sicherheitsarchitektur,
+      als wäre Krieg ein Ingenieursprojekt. Doch die Realität, die ihre Worte verbergen,
+      ist nicht theoretisch – es ist Blut, Trümmer und Leben, die unwiederbringlich
+      zerstört sind. Für die Palästinenser sind die Kosten absolut. Familien werden
+      nicht nur einmal, sondern wiederholt aus ihren Häusern vertrieben und gezwungen,
+      Zelte auf unbeständigem Boden wieder aufzubauen, nur um zu sehen, wie diese erneut
+      zerstört werden. Lebensgrundlagen verschwinden über Nacht: Bauernhöfe werden niedergebrannt,
+      Geschäfte zu verbogenem Metall reduziert, Schulen dem Erdboden gleichgemacht,
+      bevor der Unterricht wieder aufgenommen werden kann. Ganze Stadtviertel werden
+      zu grauem Staub, wodurch die Geografie der Erinnerung und Zugehörigkeit ausgelöscht
+      wird. In Gaza verliert ein Kind, das mitansehen muss, wie seine Eltern bei einem
+      Luftangriff verbrennen, nicht nur seine Familie, sondern auch den Anker der Sicherheit,
+      das Fundament der Liebe, die Möglichkeit einer normalen Kindheit. Diese Wunde
+      wird es in jeder Phase seines Lebens begleiten – in seinem Schweigen, seiner Wut,
+      seinen Träumen – und seine Identität mit Trauer, Entbehrung und dem Gefühl prägen,
+      dass sich die Welt gegen seine Existenz verschworen hat. In ihrer Erinnerung gibt
+      es in der Welt keine Gerechtigkeit, keine Anerkennung ihrer Menschlichkeit – nur
+      das Echo einer Kindheit, die absichtlich zerstört und unter Trümmern begraben
+      wurde. Die gefährlichste Folge könnte sein, dass dieser Krieg das soziale Gefüge
+      beider Gesellschaften untergräbt. Unter den Palästinensern kann Verzweiflung zu
+      Radikalisierung führen, sodass immer weniger Stimmen für eine Koexistenz eintreten.
+      Unter den Israelis fördert die ständige Mobilisierung eine Belagerungsmentalität,
+      die fast jede Maßnahme gegen einen „Feind” rechtfertigt, zu dem auch Millionen
+      von Zivilisten gehören. Für die Israelis ist die Last anderer Art, aber nicht
+      weniger zerstörerisch. Ein Soldat, der an der Begehung von Verbrechen beteiligt
+      ist oder die Folgen seiner eigenen Befehle mit ansieht, trägt diese Bilder wie
+      einen Schatten mit sich, der ihn nicht loslässt. Dennoch bleibt der Unterschied
+      krass und unversöhnlich: Die eine Seite trauert um ihre Toten unter den Trümmern,
+      die andere kämpft mit dem Wissen, getötet zu haben. Diese Traumata treffen selten
+      aufeinander, aber sie sind in einer grotesken Symmetrie miteinander verbunden
+      – einem tragischen Spiegelbild von Verlust und Schuld. Und währenddessen wird
+      dieser Kreislauf von Führern aufrechterhalten, die genau wissen, was sie tun:
+      Sie haben Grausamkeit in Strategie verwandelt, Kontrolle in Politik und Gräueltaten
+      als einen Preis akzeptiert, der es wert ist, gezahlt zu werden. In ihren Händen
+      ist endloser Krieg kein Zufall – er ist eine Entscheidung, kalkuliert und kalt,
+      fortgesetzt in vollem Bewusstsein der Verwüstung, die er hinterlässt. Gaza: Eine
+      Landschaft aus Ruinen und Traumata Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: In Tel Aviv wird nationale Sicherheit als Rechtfertigung für
+      militärische Aktionen genutzt, während die verheerenden humanitären Konsequenzen
+      für die Palästinenser, die wiederholt aus ihren Häusern vertrieben und in ihrer
+      Existenz bedroht werden, ignoriert werden.
+    paragraph_summary: 'In einem Tweet beschreibt Elijah J. Magnier die verzweifelte
+      Realität, die hinter den strategischen Entscheidungen der israelischen Führung
+      steht, die nationale Sicherheit als Rechtfertigung für Gewalt und Zerstörung nutzt.
+      Während Minister und Generäle in abstrakten Begriffen über Abschreckung und Sicherheitsarchitektur
+      diskutieren, leiden die Palästinenser unter den verheerenden Folgen: wiederholte
+      Vertreibungen, Zerstörung von Lebensgrundlagen und das Auslöschen ihrer Erinnerungen
+      und Identität. Kinder in Gaza, die Zeugen von Gewalt und Verlust werden, tragen
+      die seelischen Wunden ein Leben lang mit sich, was zu einem Gefühl der Ungerechtigkeit
+      und Isolation führt. Diese Dynamik könnte nicht nur die palästinensische Gesellschaft
+      destabilisieren, sondern auch die sozialen Strukturen beider Seiten gefährden,
+      indem sie Verzweiflung und Radikalisierung fördert.'
+    published: '2025-09-20T16:46:23+00:00'
+  - title: 'Israel zerstört Palästina – und sich selbst: Führer verdammen Generationen
+      auf beiden Seiten'
+    url: https://ejmagnier.com/2025/09/20/israel-zerstort-palastina-und-sich-selbst-fuhrer-verdammen-generationen-auf-beiden-seiten/
+    text: 'Tweet Von Elijah J. Magnier – In den Entscheidungszentren von Tel Aviv wird
+      die nationale Sicherheit wie eine heilige Beschwörungsformel herangezogen, ein
+      Satz, der jeden abgeworfenen Bomben und jeden zerstörten Haus rechtfertigt. Hinter
+      verschlossenen Türen beraten Minister und Generäle in der sterilen Sprache der
+      Abschreckung, der Präventivschläge und der langfristigen Sicherheitsarchitektur,
+      als wäre Krieg ein Ingenieursprojekt. Doch die Realität, die ihre Worte verbergen,
+      ist nicht theoretisch – es ist Blut, Trümmer und Leben, die unwiederbringlich
+      zerstört sind. Für die Palästinenser sind die Kosten absolut. Familien werden
+      nicht nur einmal, sondern wiederholt aus ihren Häusern vertrieben und gezwungen,
+      Zelte auf unbeständigem Boden wieder aufzubauen, nur um zu sehen, wie diese erneut
+      zerstört werden. Lebensgrundlagen verschwinden über Nacht: Bauernhöfe werden niedergebrannt,
+      Geschäfte zu verbogenem Metall reduziert, Schulen dem Erdboden gleichgemacht,
+      bevor der Unterricht wieder aufgenommen werden kann. Ganze Stadtviertel werden
+      zu grauem Staub, wodurch die Geografie der Erinnerung und Zugehörigkeit ausgelöscht
+      wird. In Gaza verliert ein Kind, das mitansehen muss, wie seine Eltern bei einem
+      Luftangriff verbrennen, nicht nur seine Familie, sondern auch den Anker der Sicherheit,
+      das Fundament der Liebe, die Möglichkeit einer normalen Kindheit. Diese Wunde
+      wird es in jeder Phase seines Lebens begleiten – in seinem Schweigen, seiner Wut,
+      seinen Träumen – und seine Identität mit Trauer, Entbehrung und dem Gefühl prägen,
+      dass sich die Welt gegen seine Existenz verschworen hat. In ihrer Erinnerung gibt
+      es in der Welt keine Gerechtigkeit, keine Anerkennung ihrer Menschlichkeit – nur
+      das Echo einer Kindheit, die absichtlich zerstört und unter Trümmern begraben
+      wurde. Die gefährlichste Folge könnte sein, dass dieser Krieg das soziale Gefüge
+      beider Gesellschaften untergräbt. Unter den Palästinensern kann Verzweiflung zu
+      Radikalisierung führen, sodass immer weniger Stimmen für eine Koexistenz eintreten.
+      Unter den Israelis fördert die ständige Mobilisierung eine Belagerungsmentalität,
+      die fast jede Maßnahme gegen einen „Feind” rechtfertigt, zu dem auch Millionen
+      von Zivilisten gehören. Für die Israelis ist die Last anderer Art, aber nicht
+      weniger zerstörerisch. Ein Soldat, der an der Begehung von Verbrechen beteiligt
+      ist oder die Folgen seiner eigenen Befehle mit ansieht, trägt diese Bilder wie
+      einen Schatten mit sich, der ihn nicht loslässt. Dennoch bleibt der Unterschied
+      krass und unversöhnlich: Die eine Seite trauert um ihre Toten unter den Trümmern,
+      die andere kämpft mit dem Wissen, getötet zu haben. Diese Traumata treffen selten
+      aufeinander, aber sie sind in einer grotesken Symmetrie miteinander verbunden
+      – einem tragischen Spiegelbild von Verlust und Schuld. Und währenddessen wird
+      dieser Kreislauf von Führern aufrechterhalten, die genau wissen, was sie tun:
+      Sie haben Grausamkeit in Strategie verwandelt, Kontrolle in Politik und Gräueltaten
+      als einen Preis akzeptiert, der es wert ist, gezahlt zu werden. In ihren Händen
+      ist endloser Krieg kein Zufall – er ist eine Entscheidung, kalkuliert und kalt,
+      fortgesetzt in vollem Bewusstsein der Verwüstung, die er hinterlässt. Gaza: Eine
+      Landschaft aus Ruinen und Traumata Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: In Tel Aviv wird nationale Sicherheit als Rechtfertigung für
+      militärische Aktionen genutzt, während die verheerenden humanitären Konsequenzen
+      für die Palästinenser, die wiederholt aus ihren Häusern vertrieben und in ihrer
+      Existenz bedroht werden, ignoriert werden.
+    paragraph_summary: 'In einem Tweet beschreibt Elijah J. Magnier die verzweifelte
+      Realität, die hinter den strategischen Entscheidungen der israelischen Führung
+      steht, die nationale Sicherheit als Rechtfertigung für Gewalt und Zerstörung nutzt.
+      Während Minister und Generäle in abstrakten Begriffen über Abschreckung und Sicherheitsarchitektur
+      diskutieren, leiden die Palästinenser unter den verheerenden Folgen: wiederholte
+      Vertreibungen, Zerstörung von Lebensgrundlagen und das Auslöschen ihrer Erinnerungen
+      und Identität. Kinder in Gaza, die Zeugen von Gewalt und Verlust werden, tragen
+      die seelischen Wunden ein Leben lang mit sich, was zu einem Gefühl der Ungerechtigkeit
+      und Isolation führt. Diese Dynamik könnte nicht nur die palästinensische Gesellschaft
+      destabilisieren, sondern auch die sozialen Strukturen beider Seiten gefährden,
+      indem sie Verzweiflung und Radikalisierung fördert.'
+    published: '2025-09-20T16:46:23+00:00'
+  - title: 'Der israelische Geheimdienst Mossad: Der Mythos der langen Arme und die
+      Realität des Scheiterns'
+    url: https://ejmagnier.com/2025/09/19/der-israelische-geheimdienst-mossad-der-mythos-der-langen-arme-und-die-realitat-des-scheiterns/
+    text: 'Tweet Von Elijah J. Magnier – Der israelische Ministerpräsident Benjamin
+      Netanjahu hat geschworen, die Führer der Hamas „aufzuspüren“, wo immer sie sich
+      auch befinden mögen, und gewarnt, dass „ihr Leben kurz sein wird, wenn den israelischen
+      Geiseln in Gaza-Stadt auch nur ein Haar gekrümmt wird“. Gleichzeitig bombardiert
+      Israel die Stadt mit einer Million Einwohnern, um eine Bodeninvasion vorzubereiten,
+      und zwingt Hunderttausende zur Flucht. Die Hamas und andere palästinensische Gruppen
+      haben jedoch deutlich gemacht, dass sie ihre Positionen nicht aufgeben werden.
+      Die etwa acht Geiseln, die in Gaza gefangen sind, werden daher den israelischen
+      Vormarsch, der die Zerstörung ganzer Stadtteile erfordert, wahrscheinlich nicht
+      überleben. Tatsächlich wissen Netanjahu und die israelische Gesellschaft, dass
+      die Invasion für die Gefangenen einem Todesurteil gleichkommt. In Erwartung dessen
+      schiebt Netanjahu bereits die Verantwortung auf andere: Jedes Mal, wenn die Hamas
+      den Tod einer Geisel bekannt gibt, stellt er dies als Auslöser für Rache dar,
+      verspricht, die Führer der Hamas zu eliminieren, und prahlt mit dem „langen Arm“
+      des Mossad. Tatsächlich ist der oft gepriesene lange Arm des Mossad weniger ein
+      Zeichen von Stärke als vielmehr ein Maß dafür, wie weit andere bereit sind, Israel
+      gehen zu lassen. Indem er sich auf diese Weise auf den „langen Arm“ des Mossad
+      beruft, greift Netanjahu auf eine sorgfältig konstruierte Legende zurück. Seit
+      Jahrzehnten pflegt der israelische Geheimdienst ein furchteinflößendes Image:
+      eine geheime Organisation, die überall auf der Welt zuschlagen kann. Dieser Ruf
+      ist jedoch weniger auf makellose Operationen zurückzuführen als auf den Schutz
+      der Straffreiheit, den er genießt. Der Mossad profitiert vom Schutz mächtiger
+      westlicher Regierungen, die ihm zu Hilfe eilen, sobald seine Agenten enttarnt
+      werden. Er operiert mit gefälschten Identitäten und modernsten Technologien, die
+      oft durch Forschungsprogramme von Verbündeten, Partnergeheimdiensten und multinationalen
+      Unternehmen erworben werden. Wenn seine Operationen scheitern – was oft der Fall
+      ist –, wird der Schaden nicht durch Kompetenz, sondern durch Politik begrenzt.
+      Die Legende des Mossad hält sich nicht wegen seiner Erfolgsbilanz, sondern weil
+      seine Gönner dafür sorgen, dass die Kosten des Scheiterns niemals bezahlt werden.
+      Die Mythologie des Mossad wird durch Filme, Romane und sorgfältig platzierte Indiskretionen
+      aufrechterhalten. Geschichten über gewagte Missionen, spektakuläre Attentate und
+      verdeckte Spione kursieren ungehindert. Israel fördert diese Aura, weil sie Gegner
+      abschreckt und Verbündete beeindruckt. Bei genauerer Betrachtung zeigt sich jedoch
+      eine ganze Reihe gescheiterter Operationen, verpfuschter Attentate und vermasselter
+      Komplotte, die Mossad-Agenten enttarnten und ihre Unterstützer in Verlegenheit
+      brachten. Die Wahrheit ist einfach: Der Mossad hat nur deshalb so viel Einfluss,
+      weil ihm der Weg dafür geebnet wird. Israel wird Immunität gewährt, wenn es auf
+      frischer Tat ertappt wird. Pässe können gefälscht werden, weil befreundete Länder
+      wegsehen. Verhaftete Agenten werden nach diplomatischem Druck stillschweigend
+      nach Hause zurückgebracht. Fortschrittliche Überwachungssysteme und Cyberwaffen
+      stehen zur Verfügung, weil westliche Forschungseinrichtungen ihre Türen öffnen.
+      Ohne diesen Schutzschild würde die Bilanz des Mossad weniger wie Meisterschaft,
+      sondern eher wie Leichtsinn aussehen. Einer der demütigendsten Misserfolge des
+      Mossad ereignete sich im September 1997 in Jordanien. Agenten versuchten, Khaled
+      Meshal, einen hochrangigen Hamas-Führer, zu ermorden, indem sie ihm ein langsam
+      wirkendes Gift ins Ohr sprühten, als er in Amman spazieren ging. Der Plan scheiterte
+      fast augenblicklich. Meshal’s Leibwächter verfolgten und fingen zwei Mossad-Agenten,
+      während vier andere in die israelische Botschaft flohen. König Hussein war über
+      die Verletzung der Souveränität Jordaniens empört und stellte den Friedensvertrag
+      mit Israel in Frage. Er sagte den Amerikanern unverblümt: „Wenn Meshal stirbt,
+      stirbt auch der Friedensvertrag mit ihm.“ US-Präsident Bill Clinton schaltete
+      sich persönlich ein und zwang Israel, das Gegenmittel zu übergeben, um Meshal
+      das Leben zu retten. Die Regierung Netanjahu, gedemütigt, war gezwungen, Scheich
+      Ahmed Yassin, den geistigen Führer der Hamas, zusammen mit etwa 70 anderen Gefangenen
+      im Austausch für die gefangenen Agenten freizulassen. Anstatt die Hamas zu schwächen,
+      belebte die Operation sie wieder. Anstatt Stärke zu demonstrieren, offenbarte
+      der Mossad seine Inkompetenz und zwang seinen engsten Verbündeten, das Chaos zu
+      beseitigen. Ein ähnliches Debakel ereignete sich im Januar 2010 in Dubai, als
+      der Hamas-Funktionär Mahmoud al-Mabhouh tot in seinem Hotelzimmer aufgefunden
+      wurde. Das Attentat trug die Handschrift des Mossad: verdeckte Überwachung, koordinierte
+      Ein- und Ausgänge und eine tödliche Injektion. Doch die Sicherheitsdienste Dubais
+      deckten die gesamte Operation schnell auf. Aufnahmen von Überwachungskameras zeigten
+      Verdächtige, die sich unbeholfen durch die Lobbys bewegten, ihre Perücken verrutschten
+      und ihre Verkleidungen komisch wirkten. Die Polizei von Dubai identifizierte 26
+      Verdächtige, die mit dem Mord in Verbindung standen und meist mit gefälschten
+      Pässen reisten. Der Skandal weitete sich aus, als bekannt wurde, dass der Mossad
+      Dokumente aus befreundeten westlichen Staaten geklont hatte: zwölf britische,
+      sechs irische, vier französische, vier australische und einen deutschen Pass.
+      Die Enthüllung empörte die Regierungen, deren Bürger identitätsdiebstahl zum Opfer
+      gefallen waren. Der Polizeichef von Dubai, Dhahi Khalfan, warf Israel vor, „die
+      Pässe von Nationen zu missbrauchen, die sich als Freunde Israels betrachten“.
+      London wies einen israelischen Diplomaten aus; Irland und Australien wiesen jeweils
+      hochrangige Vertreter des Mossad aus, darunter den Leiter der Agentur in Canberra.
+      Doch damit endeten die Konsequenzen auch schon. Innerhalb weniger Monate wurden
+      die Beziehungen stillschweigend wiederhergestellt. Die Agenten des Mossad kehrten
+      nach Hause zurück, seine Führung blieb unversehrt und seine Methoden unverändert.
+      Die Lektion war klar: Israel konnte die Sicherheit der Bürger seiner Verbündeten
+      gefährden, ohne dafür dauerhaft bestraft zu werden. Die Verwendung ausländischer
+      Pässe ist ein Eckpfeiler der Arbeit des Mossad. Israelische Agenten reisen routinemäßig
+      mit gestohlenen oder gefälschten Identitäten aus Europa, Nordamerika und Australasien.
+      Dies verschafft ihnen Zugang zu Orten, an denen israelische Dokumente Verdacht
+      erregen würden, und stellt sicher, dass im Falle einer Festnahme diplomatischer
+      Druck seitens der Regierung des Landes, dessen Staatsangehörigkeit sie vortäuschen,
+      ausgeübt wird. Die Reichweite des Mossad beruhte schon immer auf den Pässen anderer
+      und deren Schweigen. Diese Abhängigkeit hat jedoch auch zu Fiaskos geführt. Im
+      Jahr 2004 wurden zwei Mossad-Agenten, Uriel Kelman und Eli Cara, in Neuseeland
+      verhaftet, nachdem sie versucht hatten, unter den Namen behinderter Bürger auf
+      betrügerische Weise Pässe zu erhalten. Premierministerin Helen Clark war außer
+      sich und bezeichnete den Vorfall als „staatlich unterstützte Kriminalität”. Die
+      beiden wurden zu sechs Monaten Haft verurteilt und anschließend abgeschoben. Die
+      diplomatischen Beziehungen wurden eingefroren, und Israel entschuldigte sich,
+      was selten vorkommt. Doch wie in Dubai waren die Folgen nur vorübergehend. Neuseeland
+      nahm die Beziehungen wieder auf, und der Mossad nutzte weiterhin westliche Identitäten,
+      um seine Operationen zu verschleiern. Die Liste der Fehlschläge reicht noch weiter
+      zurück. 1973 töteten Mossad-Agenten in Lillehammer, Norwegen, Ahmed Bouchiki,
+      einen marokkanischen Kellner, den sie fälschlicherweise für Ali Hassan Salameh
+      von der Organisation „Schwarzer September“ hielten, der für den Anschlag auf die
+      Olympischen Spiele in München verantwortlich war. Sechs Agenten wurden verhaftet,
+      vor Gericht gestellt und verurteilt. Der norwegische Premierminister Trygve Bratteli
+      bezeichnete dies als „eine entsetzliche Verletzung unserer Souveränität und der
+      Rechtsstaatlichkeit“. Dennoch verbüßten die verurteilten Agenten nur minimale
+      Haftstrafen – die meisten wurden innerhalb von 22 Monaten freigelassen. Auch diesmal
+      kehrten die Agenten nach Hause zurück, und Israels Verbündete sorgten dafür, dass
+      der Schaden nicht von Dauer war. 1998 erwischten die Schweizer Behörden Mossad-Agenten
+      beim Abhören eines angeblichen Hisbollah-Büros in Bern. Die Agenten wurden verhaftet,
+      der Skandal sorgte für Schlagzeilen in den Schweizer Medien, und Israels Außenminister
+      Ariel Sharon wurde entsandt, um sich zu entschuldigen. Wieder einmal führte die
+      Aufdeckung zu vorübergehender Verlegenheit, aber zu keinen nennenswerten Kosten.
+      Der Mossad konnte seine Operationen in Europa fortsetzen, da er wusste, dass seine
+      Fehler vergeben werden würden. Der sogenannte „Pager-Angriff“ auf die Hisbollah
+      wurde in Israel als Meisterstück der Geheimdienstarbeit und technischen Kreativität
+      gefeiert. Tausende von Kommunikationsgeräten, die von Hisbollah-Kämpfern und -Agenten
+      verwendet wurden, wurden mit kleinen Sprengladungen versehen und als gewöhnliche
+      Importe getarnt in den Libanon geschmuggelt. Eine solche Operation lässt sich
+      jedoch nicht allein mit israelischer Gerissenheit erklären. Der Transport ganzer
+      Ladungen mit Sprengfallen über Kontinente und durch mehrere Häfen wäre ohne die
+      Komplizenschaft oder zumindest die bewusste Blindheit anderer Staaten unmöglich
+      gewesen. Jeder Hafen verfügt über Scanner, Detektionssysteme und Zollbeamte, die
+      für die Identifizierung von Sprengstoffen ausgebildet sind. Wie konnten dann Kisten
+      mit Tausenden von tödlichen Geräten von Asien in die Türkei und von dort in den
+      Libanon transportiert werden, ohne abgefangen zu werden? Die Antwort liegt in
+      dem außergewöhnlichen Schutz, den Israel von westlichen Regierungen und verbündeten
+      Geheimdienstnetzwerken genießt. Die Illusion der Brillanz des Mossad bricht zusammen,
+      wenn man die Logistik untersucht. Die letzte Lieferung wurde in einem türkischen
+      Hafen aufgedeckt, als die Hisbollah die Türken informierte, die das Vorhandensein
+      von Sprengstoff bestätigten und die Gefahr eindämmten. Israel wurde nicht dafür
+      bestraft, dass es über die Türkei Sprengstoff in ein anderes Land geschmuggelt
+      und damit gegen mehrere internationale und nationale Gesetze [1] verstoßen hatte.
+      Hätte sich Israel ausschließlich auf seine eigenen Spionagetechniken verlassen,
+      wäre die Wahrscheinlichkeit einer Entdeckung an einem der vielen Transitpunkte
+      überwältigend gewesen. Stattdessen wurden die Lieferungen durchgewunken, geschützt
+      durch die unsichtbare Hand von Verbündeten, die dafür sorgten, dass sie unkontrolliert
+      transportiert wurden und Israel für seine Tat nicht zur Rechenschaft gezogen wurde.
+      Der vorübergehende Erfolg des Anschlags war weniger dem Genie des Mossad zu verdanken
+      als vielmehr der Infrastruktur der Straffreiheit, die Israel umgibt. Der Austausch
+      von Geheimdienstinformationen mit den Vereinigten Staaten und europäischen Partnern
+      lieferte Tarngeschichten und kennzeichnete Container als „ohne Inspektion freigegeben“.
+      Reedereien, von denen viele unter westlicher Flagge fahren, drückten ein Auge
+      zu. Die Hafenbehörden in Asien und im Mittelmeerraum folgten den Signalen, sich
+      nicht einzumischen. Als die Sprengkörper schließlich den Libanon erreichten, wurde
+      der Anschlag in Tel Aviv als Demonstration der Reichweite und Kreativität gefeiert.
+      In Wahrheit war es jedoch ein Beweis für Privilegien: Der Mossad bewegt sich nicht
+      unbemerkt durch die Welt, weil er unsichtbar ist, sondern weil andere ihm Deckung
+      geben. Dieses Muster ist nicht neu. In den 1960er Jahren baute Israel sein geheimes
+      Atomwaffenarsenal auf, indem es dasselbe Netzwerk aus Nachsicht und Schutz ausnutzte.
+      Im Jahr 1968 „verschwand“ der Frachter Scheersberg A , der 200 Tonnen Yellowcake-Uran
+      aus Antwerpen transportierte, auf dem Weg nach Italien, bevor er leer wieder auftauchte
+      – die Ladung wurde vermutlich zum israelischen Reaktor in Dimona umgeleitet (Cohen,
+      1998; Hersh, 1991). Westliche Geheimdienste wussten davon, schauten aber weg.
+      Französische und amerikanische Forschungslabors lieferten wichtige Technologien,
+      während deutsche und norwegische Unternehmen später als Lieferanten von schwerem
+      Wasser und Präzisionsgeräten entlarvt wurden. Jede Transaktion hätte von den Verbündeten
+      unter Anwendung der Nichtverbreitungsregeln blockiert werden können. Stattdessen
+      wurde Israel geschützt, sodass es sich außerhalb des Nichtverbreitungsvertrags
+      ein Atomwaffenarsenal anlegen konnte. Die Parallelen zum Pager-Angriff sind auffällig:
+      logistische Meisterleistungen, die nur möglich waren, weil mächtige Staaten für
+      einen sicheren Transport sorgten. Das jüngste Debakel ereignete sich 2025, als
+      Israel Doha, die Hauptstadt Katars, angriff und dabei fünf Menschen tötete, darunter
+      einen Katarer und vier Palästinenser. Netanjahu brach mit der traditionellen Politik
+      der Leugnung Israels und bekannte sich offen zu der Verantwortung. Der Angriff
+      war nicht nur eine Verletzung der Souveränität eines Staates, sondern auch ein
+      Angriff auf die Vermittlung selbst. Katar, Standort der größten US-Militärbasis
+      in der Region, wurde von einem Staat angegriffen, den Washington bei jeder Gelegenheit
+      schützt. Für den Mossad, der die Informationen für den Angriff geliefert hatte,
+      war dies ein weiteres Beispiel für Übergriffigkeit. Die Folge waren diplomatische
+      Empörung, Verurteilungen aus der gesamten arabischen Welt und erneut die Gewissheit,
+      dass keine wirklichen Strafen folgen würden. Der Ruf des Mossad, lange Arme zu
+      haben, beruht nicht auf Unfehlbarkeit, sondern auf politischem Schutz. Seine Misserfolge
+      werden von Regierungen aufgefangen, die es vorziehen, Israel nicht zu konfrontieren.
+      Wenn Agenten gefasst werden, werden sie freigelassen. Wenn Operationen schiefgehen,
+      reichen Entschuldigungen aus. Der Mythos hält sich hartnäckig, weil mächtige Staaten
+      sich zusammentun, um ihn aufrechtzuerhalten. Diese Absprachen gehen über die Diplomatie
+      hinaus und erstrecken sich auch auf den Technologiebereich. Der Mossad genießt
+      privilegierten Zugang zu westlichen Überwachungs-, Cyber- und Forschungsnetzwerken.
+      Der Stuxnet-Virus, der zur Sabotage des iranischen Atomprogramms eingesetzt wurde,
+      wurde gemeinsam mit US-Behörden entwickelt. Israelische Hacker profitieren vom
+      Informationsaustausch mit der NSA und der CIA, während Informationen des SIS (MI6)
+      und anderer europäischer Dienste regelmäßig nach Tel Aviv fließen. Die Agenten
+      des Mossad tragen Ausrüstung, die in Labors im Silicon Valley, deutschen und anderen
+      europäischen Forschungsinstituten sowie britischen Universitäten entwickelt wurde.
+      Israelische Drohnen überqueren Grenzen, weil die Luftabwehr den Befehl hat, nicht
+      zu reagieren. Der Mossad kann in Finanzsysteme eindringen, weil westliche Regierungen
+      stillschweigend die Datenbanken öffnen. Seine langen Arme werden durch geliehene
+      Hände ermöglicht. Diese Abhängigkeit offenbart jedoch auch eine Schwäche. Ohne
+      die Nachsicht der Verbündeten wären die Operationen des Mossad lahmgelegt. Ein
+      Fehler Russlands oder des Iran in der Größenordnung von Dubai oder Amman hätte
+      zu Sanktionen, Gerichtsverfahren und weltweiter Verurteilung geführt. Der Mossad
+      kommt mit seinen Fehlern davon, weil Washington, London und Canberra ihn retten.
+      Diese Asymmetrie fördert Leichtsinn. Israelische Agenten verhalten sich so, als
+      gäbe es keine Regeln, weil es in der Praxis auch keine gibt. Hinter dem Mythos
+      verbirgt sich eine Kultur der Sorglosigkeit. Der Mossad hat nur deshalb lange
+      Arme, weil andere ihm den Weg ebnen. Seine Immunität ist sein größter Trumpf.
+      Ohne sie würde man sich weniger an seine gewagten Heldentaten erinnern, sondern
+      eher an seine rücksichtslosen Fehler, die Verbündete gefährdeten und die Diplomatie
+      untergruben. In Wirklichkeit beruht die Legende des Mossad nicht auf seiner Meisterschaft
+      im Verborgenen, sondern auf der Bereitschaft mächtiger Nationen, wegzuschauen.
+      Literaturverzeichnis: AP News (2025) „Die Türkei hat im vergangenen Jahr einen
+      weiteren Anschlag mit Pagern im Libanon vereitelt, sagen Beamte.“ AP News, 6.
+      Mai. Verfügbar unter: https://apnews.com/article/e39b0dabaa1718606e238001ad9a31fa
+      (Zugriff: 14. September 2025). Arab News (2024) „Die Zahl der Todesopfer bei einem
+      Anschlag mit einem Pager im Libanon steigt auf 12.“ Arab News, 18. September.
+      Verfügbar unter: https://www.arabnews.com/node/2571862/middle-east (Zugriff: 14.
+      September 2025). Bachega, H. und Lukiv, J. (2025) „Katar veranstaltet arabisch-islamischen
+      Notfallgipfel wegen israelischem Angriff auf Doha.“ BBC News, 15. September. Verfügbar
+      unter: https://www.bbc.com/news/articles/c4gk8nx5nw3o (Zugriff: 17. September
+      2025). Bainerman, J. (1994) Inside the Covert Operations of the CIA & Israel’s
+      Mossad. Verfügbar unter: https://www.academia.edu/46843346/Inside_the_covert_operations_of_the_CIA_Israels_Mossad_by_Joel_Bainerman
+      (Zugriff: 17. September 2025). BBC News (2010) „Mord in Dubai: Polizei veröffentlicht
+      Liste mit 26 Verdächtigen.“ BBC News, 24. Februar. Verfügbar unter: http://news.bbc.co.uk/2/hi/middle_east/8533665.stm
+      (Zugriff: 14. September 2025). Bergman, R. (2018) Rise and Kill First: The Secret
+      History of Israel’s Targeted Assassinations. London: John Murray. Black, I. und
+      Morris, B. (1991) Israel’s Secret Wars: A History of Israel’s Intelligence Services.
+      London: Grove Weidenfeld. Center for Israel Education (2025) Mossad tötet falschen
+      Mann in Norwegen, 21. Juli. Verfügbar unter: https://israeled.org/mossad-kills-wrong-man-in-norway/
+      (Zugriff: 17. September 2025). Fickling, D. (2004) „Mossad-Spione wegen Passbetrugs
+      in Neuseeland inhaftiert“. The Guardian, 16. Juli. Verfügbar unter: https://www.theguardian.com/world/2004/jul/16/israel
+      (Zugriff: 17. September 2025). Khalfan, D. (2010) Bemerkungen zur Beteiligung
+      des Mossad an der Ermordung von Mahmoud al-Mabhouh. Zitiert in The Guardian, 18.
+      Februar. Verfügbar unter: https://www.theguardian.com/world/2010/feb/18/dubai-police-certain-mossad-killing
+      (Zugriff: 14. September 2025). LBC (2025) „Hinweis der Hisbollah hilft der Türkei,
+      einen Plan zum Schmuggel von explosiven Pagern zu vereiteln. “ LBC Group, Mai.
+      Verfügbar unter: https://www.lbcgroup.tv/news/news-bulletin-reports/852789/hezbollah-tip-off-helps-turkey-foil-plot-to-smuggle-explosive-pagers-i/en
+      (Zugriff: 14. September 2025). Melman, Y. und Raviv, D. (2014) Spies Against Armageddon:
+      Inside Israel’s Secret Wars. New York: Levant Books. Minnesota Daily (1998) „Schweizer
+      sagen, dass mutmaßliche Mossad-Operation in Bern aufgedeckt wurde.“ The Minnesota
+      Daily, 27. Februar. Verfügbar unter: https://mndaily.com/201889/uncategorized/swiss-say-suspected-mossad-operation-bern-uncovered/
+      (Zugriff: 17. September 2025). New York Times (1997) „Israel entlässt kranken
+      Hamas-Gründer auf Wunsch von Hussein nach Jordanien.“ The New York Times, 1. Oktober.
+      Verfügbar unter: https://www.nytimes.com/1997/10/01/world/israel-frees-ailing-hamas-founder-to-jordan-at-hussein-s-request.html
+      (Zugriff: 17. September 2025). New Zealand Herald (2004) „Israelis wegen Passbetrugs
+      zu sechs Monaten Haft verurteilt.“ The New Zealand Herald, 16. Juli. Verfügbar
+      unter: https://www.nzherald.co.nz/nz/israelis-jailed-for-six-months-on-passport-fraud-charge/KEQRWZ3PBVGUF3FW46KBM5CWNI/
+      (Zugriff: 17. September 2025). Ostrovsky, V. und Hoy, C. (1990) By Way of Deception:
+      The Making and Unmaking of a Mossad Officer. New York: St. Martin’s Press. Reuters
+      (2024) „Israel hat Sprengstoff in den in Taiwan hergestellten Pagern der Hisbollah
+      platziert, sagen Quellen.“ Reuters, 18. September. Verfügbar unter: https://www.reuters.com/world/middle-east/israel-planted-explosives-hezbollahs-taiwan-made-pagers-say-sources-2024-09-18
+      (Zugriff: 14. September 2025). The Guardian (2010) „‚Überzeugende Beweise‘ dafür,
+      dass Israel hinter dem Missbrauch britischer Pässe bei einem Anschlag der Hamas
+      steckt – David Miliband.“ The Guardian, 23. März. Verfügbar unter: https://www.theguardian.com/world/2010/mar/23/uk-expel-israeli-diplomat-passport
+      (Zugriff: 16. September 2025). The National (2025) „Türkei fängt zweite Ladung
+      mit Sprengstoff präparierter Pager nach israelischem Angriff auf Hisbollah ab.“
+      The National News, 7. Mai. Verfügbar unter: https://www.thenationalnews.com/news/mena/2025/05/07/turkey-intercepted-second-batch-of-pagers-rigged-with-explosives-after-israeli-attack-on-hezbollah
+      (Zugriff: 14. September 2025). Thomas, G. (1999) Gideon’s Spies: The Secret History
+      of the Mossad. New York: St. Martin’s Press. [1] Referenzen mit Schlüsselklauseln
+      Vereinte Nationen (1982) Seerechtsübereinkommen der Vereinten Nationen (UNCLOS)
+      , 10. Dezember 1982, 1833 UNTS 397. Relevante Bestimmungen: Artikel 27 (strafrechtliche
+      Zuständigkeit für ausländische Schiffe in Hoheitsgewässern), Artikel 94 (Pflichten
+      des Flaggenstaats), Artikel 108 (Bekämpfung des illegalen Handels mit Betäubungsmitteln
+      als Präzedenzfall für die Kontrolle illegaler Fracht). Verfügbar unter: https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf
+      (Zugriff: 17. September 2025). Internationale Seeschifffahrtsorganisation (1988)
+      Übereinkommen zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit
+      der Seeschifffahrt (SUA-Übereinkommen) , 10. März 1988, 1678 UNTS 221. Relevante
+      Bestimmungen: Artikel 3(1)(f) stellt den Transport oder die Platzierung von „Geräten
+      oder Stoffen, die ein Schiff oder eine Ladung zerstören oder beschädigen können“
+      mit der Absicht, Tod, Verletzung oder Schaden zu verursachen, unter Strafe. Verfügbar
+      unter: https://treaties.un.org/doc/Treaties/2005/04/20050428%2006-13%20AM/Ch_XII_16p.pdf
+      (Zugriff: 17. September 2025). Vereinte Nationen (1997) Internationales Übereinkommen
+      zur Bekämpfung terroristischer Bombenanschläge , 15. Dezember 1997, 2149 UNTS
+      256. Relevante Bestimmungen: Artikel 2 definiert die rechtswidrige und vorsätzliche
+      Lieferung, Platzierung oder Detonation von Sprengstoffen in öffentlichen oder
+      staatlichen Einrichtungen, einschließlich im Verkehrswesen. Verfügbar unter: https://treaties.un.org/doc/db/Terrorism/english-18-9.pdf
+      (Zugriff: 17. September 2025). Sicherheitsrat der Vereinten Nationen (2001) Resolution
+      1373 (2001) , S/RES/1373 (28. September 2001). Relevante Bestimmungen: Die Absätze
+      1(b)–(d) verpflichten alle Staaten, die Finanzierung, den Transport und die Lieferung
+      von Waffen oder Sprengstoffen an nichtstaatliche Akteure zu verhindern und zu
+      unterbinden. Verfügbar unter: https://undocs.org/S/RES/1373(2001) (Zugriff: 17.
+      September 2025). Sicherheitsrat der Vereinten Nationen (2004) Resolution 1540
+      (2004) , S/RES/1540 (28. April 2004). Relevante Bestimmungen: Die Absätze 2–3
+      verpflichten alle Staaten, die Verbreitung von Massenvernichtungswaffen, Sprengstoffen
+      und verwandten Materialien durch „wirksame Grenzkontrollen und Strafverfolgungsmaßnahmen
+      zur Aufdeckung, Verhinderung und Bekämpfung … des illegalen Handels“ zu verhindern.
+      Verfügbar unter: https://undocs.org/S/RES/1540(2004) (Zugriff: 17. September 2025).
+      Weltzollorganisation (2007) SAFE-Rahmenwerk von Standards zur Sicherung und Erleichterung
+      des globalen Handels (in der aktualisierten Fassung). Brüssel: WZO. Relevante
+      Bestimmungen: Säule I, Standard 1 und 3 legen Verpflichtungen für Zollverwaltungen
+      fest, risikoreiche Fracht, einschließlich Sprengstoffen, über alle Lieferketten
+      hinweg zu überprüfen und zu beschlagnahmen. Verfügbar unter: https://www.wcoomd.org/en/topics/facilitation/instrument-and-tools/tools/safe_package.aspx
+      (Zugriff: 17. September 2025). Subscribe Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Israels Ministerpräsident Benjamin Netanjahu hat angekündigt,
+      die Hamas-Führer zu verfolgen und warnt, dass das Leben der Geiseln in Gaza gefährdet
+      ist, während Israel die Stadt bombardiert und eine Bodeninvasion vorbereitet,
+      was die Geiseln wahrscheinlich in Lebensgefahr bringt.
+    paragraph_summary: Israeli Prime Minister Benjamin Netanyahu has vowed to track
+      down Hamas leaders wherever they may be, warning that their lives will be in danger
+      if any harm comes to Israeli hostages in Gaza City. As Israel intensifies its
+      bombardment of the densely populated city in preparation for a ground invasion,
+      hundreds of thousands are being forced to flee, while Hamas and other Palestinian
+      groups refuse to relinquish their positions. The approximately eight hostages
+      held in Gaza are likely to face dire consequences as the Israeli offensive could
+      lead to their deaths. Netanyahu appears to be shifting responsibility for any
+      hostage casualties onto Hamas, framing their deaths as justifications for retaliation
+      and boasting about the capabilities of the Mossad. However, the effectiveness
+      of the Mossad is questioned, as its reputation for global reach is more a product
+      of the impunity it enjoys, supported by powerful Western governments, rather than
+      flawless operations.
+    published: '2025-09-19T06:15:31+00:00'
+  - title: 'Der israelische Geheimdienst Mossad: Der Mythos der langen Arme und die
+      Realität des Scheiterns'
+    url: https://ejmagnier.com/2025/09/19/der-israelische-geheimdienst-mossad-der-mythos-der-langen-arme-und-die-realitat-des-scheiterns/
+    text: 'Tweet Von Elijah J. Magnier – Der israelische Ministerpräsident Benjamin
+      Netanjahu hat geschworen, die Führer der Hamas „aufzuspüren“, wo immer sie sich
+      auch befinden mögen, und gewarnt, dass „ihr Leben kurz sein wird, wenn den israelischen
+      Geiseln in Gaza-Stadt auch nur ein Haar gekrümmt wird“. Gleichzeitig bombardiert
+      Israel die Stadt mit einer Million Einwohnern, um eine Bodeninvasion vorzubereiten,
+      und zwingt Hunderttausende zur Flucht. Die Hamas und andere palästinensische Gruppen
+      haben jedoch deutlich gemacht, dass sie ihre Positionen nicht aufgeben werden.
+      Die etwa acht Geiseln, die in Gaza gefangen sind, werden daher den israelischen
+      Vormarsch, der die Zerstörung ganzer Stadtteile erfordert, wahrscheinlich nicht
+      überleben. Tatsächlich wissen Netanjahu und die israelische Gesellschaft, dass
+      die Invasion für die Gefangenen einem Todesurteil gleichkommt. In Erwartung dessen
+      schiebt Netanjahu bereits die Verantwortung auf andere: Jedes Mal, wenn die Hamas
+      den Tod einer Geisel bekannt gibt, stellt er dies als Auslöser für Rache dar,
+      verspricht, die Führer der Hamas zu eliminieren, und prahlt mit dem „langen Arm“
+      des Mossad. Tatsächlich ist der oft gepriesene lange Arm des Mossad weniger ein
+      Zeichen von Stärke als vielmehr ein Maß dafür, wie weit andere bereit sind, Israel
+      gehen zu lassen. Indem er sich auf diese Weise auf den „langen Arm“ des Mossad
+      beruft, greift Netanjahu auf eine sorgfältig konstruierte Legende zurück. Seit
+      Jahrzehnten pflegt der israelische Geheimdienst ein furchteinflößendes Image:
+      eine geheime Organisation, die überall auf der Welt zuschlagen kann. Dieser Ruf
+      ist jedoch weniger auf makellose Operationen zurückzuführen als auf den Schutz
+      der Straffreiheit, den er genießt. Der Mossad profitiert vom Schutz mächtiger
+      westlicher Regierungen, die ihm zu Hilfe eilen, sobald seine Agenten enttarnt
+      werden. Er operiert mit gefälschten Identitäten und modernsten Technologien, die
+      oft durch Forschungsprogramme von Verbündeten, Partnergeheimdiensten und multinationalen
+      Unternehmen erworben werden. Wenn seine Operationen scheitern – was oft der Fall
+      ist –, wird der Schaden nicht durch Kompetenz, sondern durch Politik begrenzt.
+      Die Legende des Mossad hält sich nicht wegen seiner Erfolgsbilanz, sondern weil
+      seine Gönner dafür sorgen, dass die Kosten des Scheiterns niemals bezahlt werden.
+      Die Mythologie des Mossad wird durch Filme, Romane und sorgfältig platzierte Indiskretionen
+      aufrechterhalten. Geschichten über gewagte Missionen, spektakuläre Attentate und
+      verdeckte Spione kursieren ungehindert. Israel fördert diese Aura, weil sie Gegner
+      abschreckt und Verbündete beeindruckt. Bei genauerer Betrachtung zeigt sich jedoch
+      eine ganze Reihe gescheiterter Operationen, verpfuschter Attentate und vermasselter
+      Komplotte, die Mossad-Agenten enttarnten und ihre Unterstützer in Verlegenheit
+      brachten. Die Wahrheit ist einfach: Der Mossad hat nur deshalb so viel Einfluss,
+      weil ihm der Weg dafür geebnet wird. Israel wird Immunität gewährt, wenn es auf
+      frischer Tat ertappt wird. Pässe können gefälscht werden, weil befreundete Länder
+      wegsehen. Verhaftete Agenten werden nach diplomatischem Druck stillschweigend
+      nach Hause zurückgebracht. Fortschrittliche Überwachungssysteme und Cyberwaffen
+      stehen zur Verfügung, weil westliche Forschungseinrichtungen ihre Türen öffnen.
+      Ohne diesen Schutzschild würde die Bilanz des Mossad weniger wie Meisterschaft,
+      sondern eher wie Leichtsinn aussehen. Einer der demütigendsten Misserfolge des
+      Mossad ereignete sich im September 1997 in Jordanien. Agenten versuchten, Khaled
+      Meshal, einen hochrangigen Hamas-Führer, zu ermorden, indem sie ihm ein langsam
+      wirkendes Gift ins Ohr sprühten, als er in Amman spazieren ging. Der Plan scheiterte
+      fast augenblicklich. Meshal’s Leibwächter verfolgten und fingen zwei Mossad-Agenten,
+      während vier andere in die israelische Botschaft flohen. König Hussein war über
+      die Verletzung der Souveränität Jordaniens empört und stellte den Friedensvertrag
+      mit Israel in Frage. Er sagte den Amerikanern unverblümt: „Wenn Meshal stirbt,
+      stirbt auch der Friedensvertrag mit ihm.“ US-Präsident Bill Clinton schaltete
+      sich persönlich ein und zwang Israel, das Gegenmittel zu übergeben, um Meshal
+      das Leben zu retten. Die Regierung Netanjahu, gedemütigt, war gezwungen, Scheich
+      Ahmed Yassin, den geistigen Führer der Hamas, zusammen mit etwa 70 anderen Gefangenen
+      im Austausch für die gefangenen Agenten freizulassen. Anstatt die Hamas zu schwächen,
+      belebte die Operation sie wieder. Anstatt Stärke zu demonstrieren, offenbarte
+      der Mossad seine Inkompetenz und zwang seinen engsten Verbündeten, das Chaos zu
+      beseitigen. Ein ähnliches Debakel ereignete sich im Januar 2010 in Dubai, als
+      der Hamas-Funktionär Mahmoud al-Mabhouh tot in seinem Hotelzimmer aufgefunden
+      wurde. Das Attentat trug die Handschrift des Mossad: verdeckte Überwachung, koordinierte
+      Ein- und Ausgänge und eine tödliche Injektion. Doch die Sicherheitsdienste Dubais
+      deckten die gesamte Operation schnell auf. Aufnahmen von Überwachungskameras zeigten
+      Verdächtige, die sich unbeholfen durch die Lobbys bewegten, ihre Perücken verrutschten
+      und ihre Verkleidungen komisch wirkten. Die Polizei von Dubai identifizierte 26
+      Verdächtige, die mit dem Mord in Verbindung standen und meist mit gefälschten
+      Pässen reisten. Der Skandal weitete sich aus, als bekannt wurde, dass der Mossad
+      Dokumente aus befreundeten westlichen Staaten geklont hatte: zwölf britische,
+      sechs irische, vier französische, vier australische und einen deutschen Pass.
+      Die Enthüllung empörte die Regierungen, deren Bürger identitätsdiebstahl zum Opfer
+      gefallen waren. Der Polizeichef von Dubai, Dhahi Khalfan, warf Israel vor, „die
+      Pässe von Nationen zu missbrauchen, die sich als Freunde Israels betrachten“.
+      London wies einen israelischen Diplomaten aus; Irland und Australien wiesen jeweils
+      hochrangige Vertreter des Mossad aus, darunter den Leiter der Agentur in Canberra.
+      Doch damit endeten die Konsequenzen auch schon. Innerhalb weniger Monate wurden
+      die Beziehungen stillschweigend wiederhergestellt. Die Agenten des Mossad kehrten
+      nach Hause zurück, seine Führung blieb unversehrt und seine Methoden unverändert.
+      Die Lektion war klar: Israel konnte die Sicherheit der Bürger seiner Verbündeten
+      gefährden, ohne dafür dauerhaft bestraft zu werden. Die Verwendung ausländischer
+      Pässe ist ein Eckpfeiler der Arbeit des Mossad. Israelische Agenten reisen routinemäßig
+      mit gestohlenen oder gefälschten Identitäten aus Europa, Nordamerika und Australasien.
+      Dies verschafft ihnen Zugang zu Orten, an denen israelische Dokumente Verdacht
+      erregen würden, und stellt sicher, dass im Falle einer Festnahme diplomatischer
+      Druck seitens der Regierung des Landes, dessen Staatsangehörigkeit sie vortäuschen,
+      ausgeübt wird. Die Reichweite des Mossad beruhte schon immer auf den Pässen anderer
+      und deren Schweigen. Diese Abhängigkeit hat jedoch auch zu Fiaskos geführt. Im
+      Jahr 2004 wurden zwei Mossad-Agenten, Uriel Kelman und Eli Cara, in Neuseeland
+      verhaftet, nachdem sie versucht hatten, unter den Namen behinderter Bürger auf
+      betrügerische Weise Pässe zu erhalten. Premierministerin Helen Clark war außer
+      sich und bezeichnete den Vorfall als „staatlich unterstützte Kriminalität”. Die
+      beiden wurden zu sechs Monaten Haft verurteilt und anschließend abgeschoben. Die
+      diplomatischen Beziehungen wurden eingefroren, und Israel entschuldigte sich,
+      was selten vorkommt. Doch wie in Dubai waren die Folgen nur vorübergehend. Neuseeland
+      nahm die Beziehungen wieder auf, und der Mossad nutzte weiterhin westliche Identitäten,
+      um seine Operationen zu verschleiern. Die Liste der Fehlschläge reicht noch weiter
+      zurück. 1973 töteten Mossad-Agenten in Lillehammer, Norwegen, Ahmed Bouchiki,
+      einen marokkanischen Kellner, den sie fälschlicherweise für Ali Hassan Salameh
+      von der Organisation „Schwarzer September“ hielten, der für den Anschlag auf die
+      Olympischen Spiele in München verantwortlich war. Sechs Agenten wurden verhaftet,
+      vor Gericht gestellt und verurteilt. Der norwegische Premierminister Trygve Bratteli
+      bezeichnete dies als „eine entsetzliche Verletzung unserer Souveränität und der
+      Rechtsstaatlichkeit“. Dennoch verbüßten die verurteilten Agenten nur minimale
+      Haftstrafen – die meisten wurden innerhalb von 22 Monaten freigelassen. Auch diesmal
+      kehrten die Agenten nach Hause zurück, und Israels Verbündete sorgten dafür, dass
+      der Schaden nicht von Dauer war. 1998 erwischten die Schweizer Behörden Mossad-Agenten
+      beim Abhören eines angeblichen Hisbollah-Büros in Bern. Die Agenten wurden verhaftet,
+      der Skandal sorgte für Schlagzeilen in den Schweizer Medien, und Israels Außenminister
+      Ariel Sharon wurde entsandt, um sich zu entschuldigen. Wieder einmal führte die
+      Aufdeckung zu vorübergehender Verlegenheit, aber zu keinen nennenswerten Kosten.
+      Der Mossad konnte seine Operationen in Europa fortsetzen, da er wusste, dass seine
+      Fehler vergeben werden würden. Der sogenannte „Pager-Angriff“ auf die Hisbollah
+      wurde in Israel als Meisterstück der Geheimdienstarbeit und technischen Kreativität
+      gefeiert. Tausende von Kommunikationsgeräten, die von Hisbollah-Kämpfern und -Agenten
+      verwendet wurden, wurden mit kleinen Sprengladungen versehen und als gewöhnliche
+      Importe getarnt in den Libanon geschmuggelt. Eine solche Operation lässt sich
+      jedoch nicht allein mit israelischer Gerissenheit erklären. Der Transport ganzer
+      Ladungen mit Sprengfallen über Kontinente und durch mehrere Häfen wäre ohne die
+      Komplizenschaft oder zumindest die bewusste Blindheit anderer Staaten unmöglich
+      gewesen. Jeder Hafen verfügt über Scanner, Detektionssysteme und Zollbeamte, die
+      für die Identifizierung von Sprengstoffen ausgebildet sind. Wie konnten dann Kisten
+      mit Tausenden von tödlichen Geräten von Asien in die Türkei und von dort in den
+      Libanon transportiert werden, ohne abgefangen zu werden? Die Antwort liegt in
+      dem außergewöhnlichen Schutz, den Israel von westlichen Regierungen und verbündeten
+      Geheimdienstnetzwerken genießt. Die Illusion der Brillanz des Mossad bricht zusammen,
+      wenn man die Logistik untersucht. Die letzte Lieferung wurde in einem türkischen
+      Hafen aufgedeckt, als die Hisbollah die Türken informierte, die das Vorhandensein
+      von Sprengstoff bestätigten und die Gefahr eindämmten. Israel wurde nicht dafür
+      bestraft, dass es über die Türkei Sprengstoff in ein anderes Land geschmuggelt
+      und damit gegen mehrere internationale und nationale Gesetze [1] verstoßen hatte.
+      Hätte sich Israel ausschließlich auf seine eigenen Spionagetechniken verlassen,
+      wäre die Wahrscheinlichkeit einer Entdeckung an einem der vielen Transitpunkte
+      überwältigend gewesen. Stattdessen wurden die Lieferungen durchgewunken, geschützt
+      durch die unsichtbare Hand von Verbündeten, die dafür sorgten, dass sie unkontrolliert
+      transportiert wurden und Israel für seine Tat nicht zur Rechenschaft gezogen wurde.
+      Der vorübergehende Erfolg des Anschlags war weniger dem Genie des Mossad zu verdanken
+      als vielmehr der Infrastruktur der Straffreiheit, die Israel umgibt. Der Austausch
+      von Geheimdienstinformationen mit den Vereinigten Staaten und europäischen Partnern
+      lieferte Tarngeschichten und kennzeichnete Container als „ohne Inspektion freigegeben“.
+      Reedereien, von denen viele unter westlicher Flagge fahren, drückten ein Auge
+      zu. Die Hafenbehörden in Asien und im Mittelmeerraum folgten den Signalen, sich
+      nicht einzumischen. Als die Sprengkörper schließlich den Libanon erreichten, wurde
+      der Anschlag in Tel Aviv als Demonstration der Reichweite und Kreativität gefeiert.
+      In Wahrheit war es jedoch ein Beweis für Privilegien: Der Mossad bewegt sich nicht
+      unbemerkt durch die Welt, weil er unsichtbar ist, sondern weil andere ihm Deckung
+      geben. Dieses Muster ist nicht neu. In den 1960er Jahren baute Israel sein geheimes
+      Atomwaffenarsenal auf, indem es dasselbe Netzwerk aus Nachsicht und Schutz ausnutzte.
+      Im Jahr 1968 „verschwand“ der Frachter Scheersberg A , der 200 Tonnen Yellowcake-Uran
+      aus Antwerpen transportierte, auf dem Weg nach Italien, bevor er leer wieder auftauchte
+      – die Ladung wurde vermutlich zum israelischen Reaktor in Dimona umgeleitet (Cohen,
+      1998; Hersh, 1991). Westliche Geheimdienste wussten davon, schauten aber weg.
+      Französische und amerikanische Forschungslabors lieferten wichtige Technologien,
+      während deutsche und norwegische Unternehmen später als Lieferanten von schwerem
+      Wasser und Präzisionsgeräten entlarvt wurden. Jede Transaktion hätte von den Verbündeten
+      unter Anwendung der Nichtverbreitungsregeln blockiert werden können. Stattdessen
+      wurde Israel geschützt, sodass es sich außerhalb des Nichtverbreitungsvertrags
+      ein Atomwaffenarsenal anlegen konnte. Die Parallelen zum Pager-Angriff sind auffällig:
+      logistische Meisterleistungen, die nur möglich waren, weil mächtige Staaten für
+      einen sicheren Transport sorgten. Das jüngste Debakel ereignete sich 2025, als
+      Israel Doha, die Hauptstadt Katars, angriff und dabei fünf Menschen tötete, darunter
+      einen Katarer und vier Palästinenser. Netanjahu brach mit der traditionellen Politik
+      der Leugnung Israels und bekannte sich offen zu der Verantwortung. Der Angriff
+      war nicht nur eine Verletzung der Souveränität eines Staates, sondern auch ein
+      Angriff auf die Vermittlung selbst. Katar, Standort der größten US-Militärbasis
+      in der Region, wurde von einem Staat angegriffen, den Washington bei jeder Gelegenheit
+      schützt. Für den Mossad, der die Informationen für den Angriff geliefert hatte,
+      war dies ein weiteres Beispiel für Übergriffigkeit. Die Folge waren diplomatische
+      Empörung, Verurteilungen aus der gesamten arabischen Welt und erneut die Gewissheit,
+      dass keine wirklichen Strafen folgen würden. Der Ruf des Mossad, lange Arme zu
+      haben, beruht nicht auf Unfehlbarkeit, sondern auf politischem Schutz. Seine Misserfolge
+      werden von Regierungen aufgefangen, die es vorziehen, Israel nicht zu konfrontieren.
+      Wenn Agenten gefasst werden, werden sie freigelassen. Wenn Operationen schiefgehen,
+      reichen Entschuldigungen aus. Der Mythos hält sich hartnäckig, weil mächtige Staaten
+      sich zusammentun, um ihn aufrechtzuerhalten. Diese Absprachen gehen über die Diplomatie
+      hinaus und erstrecken sich auch auf den Technologiebereich. Der Mossad genießt
+      privilegierten Zugang zu westlichen Überwachungs-, Cyber- und Forschungsnetzwerken.
+      Der Stuxnet-Virus, der zur Sabotage des iranischen Atomprogramms eingesetzt wurde,
+      wurde gemeinsam mit US-Behörden entwickelt. Israelische Hacker profitieren vom
+      Informationsaustausch mit der NSA und der CIA, während Informationen des SIS (MI6)
+      und anderer europäischer Dienste regelmäßig nach Tel Aviv fließen. Die Agenten
+      des Mossad tragen Ausrüstung, die in Labors im Silicon Valley, deutschen und anderen
+      europäischen Forschungsinstituten sowie britischen Universitäten entwickelt wurde.
+      Israelische Drohnen überqueren Grenzen, weil die Luftabwehr den Befehl hat, nicht
+      zu reagieren. Der Mossad kann in Finanzsysteme eindringen, weil westliche Regierungen
+      stillschweigend die Datenbanken öffnen. Seine langen Arme werden durch geliehene
+      Hände ermöglicht. Diese Abhängigkeit offenbart jedoch auch eine Schwäche. Ohne
+      die Nachsicht der Verbündeten wären die Operationen des Mossad lahmgelegt. Ein
+      Fehler Russlands oder des Iran in der Größenordnung von Dubai oder Amman hätte
+      zu Sanktionen, Gerichtsverfahren und weltweiter Verurteilung geführt. Der Mossad
+      kommt mit seinen Fehlern davon, weil Washington, London und Canberra ihn retten.
+      Diese Asymmetrie fördert Leichtsinn. Israelische Agenten verhalten sich so, als
+      gäbe es keine Regeln, weil es in der Praxis auch keine gibt. Hinter dem Mythos
+      verbirgt sich eine Kultur der Sorglosigkeit. Der Mossad hat nur deshalb lange
+      Arme, weil andere ihm den Weg ebnen. Seine Immunität ist sein größter Trumpf.
+      Ohne sie würde man sich weniger an seine gewagten Heldentaten erinnern, sondern
+      eher an seine rücksichtslosen Fehler, die Verbündete gefährdeten und die Diplomatie
+      untergruben. In Wirklichkeit beruht die Legende des Mossad nicht auf seiner Meisterschaft
+      im Verborgenen, sondern auf der Bereitschaft mächtiger Nationen, wegzuschauen.
+      Literaturverzeichnis: AP News (2025) „Die Türkei hat im vergangenen Jahr einen
+      weiteren Anschlag mit Pagern im Libanon vereitelt, sagen Beamte.“ AP News, 6.
+      Mai. Verfügbar unter: https://apnews.com/article/e39b0dabaa1718606e238001ad9a31fa
+      (Zugriff: 14. September 2025). Arab News (2024) „Die Zahl der Todesopfer bei einem
+      Anschlag mit einem Pager im Libanon steigt auf 12.“ Arab News, 18. September.
+      Verfügbar unter: https://www.arabnews.com/node/2571862/middle-east (Zugriff: 14.
+      September 2025). Bachega, H. und Lukiv, J. (2025) „Katar veranstaltet arabisch-islamischen
+      Notfallgipfel wegen israelischem Angriff auf Doha.“ BBC News, 15. September. Verfügbar
+      unter: https://www.bbc.com/news/articles/c4gk8nx5nw3o (Zugriff: 17. September
+      2025). Bainerman, J. (1994) Inside the Covert Operations of the CIA & Israel’s
+      Mossad. Verfügbar unter: https://www.academia.edu/46843346/Inside_the_covert_operations_of_the_CIA_Israels_Mossad_by_Joel_Bainerman
+      (Zugriff: 17. September 2025). BBC News (2010) „Mord in Dubai: Polizei veröffentlicht
+      Liste mit 26 Verdächtigen.“ BBC News, 24. Februar. Verfügbar unter: http://news.bbc.co.uk/2/hi/middle_east/8533665.stm
+      (Zugriff: 14. September 2025). Bergman, R. (2018) Rise and Kill First: The Secret
+      History of Israel’s Targeted Assassinations. London: John Murray. Black, I. und
+      Morris, B. (1991) Israel’s Secret Wars: A History of Israel’s Intelligence Services.
+      London: Grove Weidenfeld. Center for Israel Education (2025) Mossad tötet falschen
+      Mann in Norwegen, 21. Juli. Verfügbar unter: https://israeled.org/mossad-kills-wrong-man-in-norway/
+      (Zugriff: 17. September 2025). Fickling, D. (2004) „Mossad-Spione wegen Passbetrugs
+      in Neuseeland inhaftiert“. The Guardian, 16. Juli. Verfügbar unter: https://www.theguardian.com/world/2004/jul/16/israel
+      (Zugriff: 17. September 2025). Khalfan, D. (2010) Bemerkungen zur Beteiligung
+      des Mossad an der Ermordung von Mahmoud al-Mabhouh. Zitiert in The Guardian, 18.
+      Februar. Verfügbar unter: https://www.theguardian.com/world/2010/feb/18/dubai-police-certain-mossad-killing
+      (Zugriff: 14. September 2025). LBC (2025) „Hinweis der Hisbollah hilft der Türkei,
+      einen Plan zum Schmuggel von explosiven Pagern zu vereiteln. “ LBC Group, Mai.
+      Verfügbar unter: https://www.lbcgroup.tv/news/news-bulletin-reports/852789/hezbollah-tip-off-helps-turkey-foil-plot-to-smuggle-explosive-pagers-i/en
+      (Zugriff: 14. September 2025). Melman, Y. und Raviv, D. (2014) Spies Against Armageddon:
+      Inside Israel’s Secret Wars. New York: Levant Books. Minnesota Daily (1998) „Schweizer
+      sagen, dass mutmaßliche Mossad-Operation in Bern aufgedeckt wurde.“ The Minnesota
+      Daily, 27. Februar. Verfügbar unter: https://mndaily.com/201889/uncategorized/swiss-say-suspected-mossad-operation-bern-uncovered/
+      (Zugriff: 17. September 2025). New York Times (1997) „Israel entlässt kranken
+      Hamas-Gründer auf Wunsch von Hussein nach Jordanien.“ The New York Times, 1. Oktober.
+      Verfügbar unter: https://www.nytimes.com/1997/10/01/world/israel-frees-ailing-hamas-founder-to-jordan-at-hussein-s-request.html
+      (Zugriff: 17. September 2025). New Zealand Herald (2004) „Israelis wegen Passbetrugs
+      zu sechs Monaten Haft verurteilt.“ The New Zealand Herald, 16. Juli. Verfügbar
+      unter: https://www.nzherald.co.nz/nz/israelis-jailed-for-six-months-on-passport-fraud-charge/KEQRWZ3PBVGUF3FW46KBM5CWNI/
+      (Zugriff: 17. September 2025). Ostrovsky, V. und Hoy, C. (1990) By Way of Deception:
+      The Making and Unmaking of a Mossad Officer. New York: St. Martin’s Press. Reuters
+      (2024) „Israel hat Sprengstoff in den in Taiwan hergestellten Pagern der Hisbollah
+      platziert, sagen Quellen.“ Reuters, 18. September. Verfügbar unter: https://www.reuters.com/world/middle-east/israel-planted-explosives-hezbollahs-taiwan-made-pagers-say-sources-2024-09-18
+      (Zugriff: 14. September 2025). The Guardian (2010) „‚Überzeugende Beweise‘ dafür,
+      dass Israel hinter dem Missbrauch britischer Pässe bei einem Anschlag der Hamas
+      steckt – David Miliband.“ The Guardian, 23. März. Verfügbar unter: https://www.theguardian.com/world/2010/mar/23/uk-expel-israeli-diplomat-passport
+      (Zugriff: 16. September 2025). The National (2025) „Türkei fängt zweite Ladung
+      mit Sprengstoff präparierter Pager nach israelischem Angriff auf Hisbollah ab.“
+      The National News, 7. Mai. Verfügbar unter: https://www.thenationalnews.com/news/mena/2025/05/07/turkey-intercepted-second-batch-of-pagers-rigged-with-explosives-after-israeli-attack-on-hezbollah
+      (Zugriff: 14. September 2025). Thomas, G. (1999) Gideon’s Spies: The Secret History
+      of the Mossad. New York: St. Martin’s Press. [1] Referenzen mit Schlüsselklauseln
+      Vereinte Nationen (1982) Seerechtsübereinkommen der Vereinten Nationen (UNCLOS)
+      , 10. Dezember 1982, 1833 UNTS 397. Relevante Bestimmungen: Artikel 27 (strafrechtliche
+      Zuständigkeit für ausländische Schiffe in Hoheitsgewässern), Artikel 94 (Pflichten
+      des Flaggenstaats), Artikel 108 (Bekämpfung des illegalen Handels mit Betäubungsmitteln
+      als Präzedenzfall für die Kontrolle illegaler Fracht). Verfügbar unter: https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf
+      (Zugriff: 17. September 2025). Internationale Seeschifffahrtsorganisation (1988)
+      Übereinkommen zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit
+      der Seeschifffahrt (SUA-Übereinkommen) , 10. März 1988, 1678 UNTS 221. Relevante
+      Bestimmungen: Artikel 3(1)(f) stellt den Transport oder die Platzierung von „Geräten
+      oder Stoffen, die ein Schiff oder eine Ladung zerstören oder beschädigen können“
+      mit der Absicht, Tod, Verletzung oder Schaden zu verursachen, unter Strafe. Verfügbar
+      unter: https://treaties.un.org/doc/Treaties/2005/04/20050428%2006-13%20AM/Ch_XII_16p.pdf
+      (Zugriff: 17. September 2025). Vereinte Nationen (1997) Internationales Übereinkommen
+      zur Bekämpfung terroristischer Bombenanschläge , 15. Dezember 1997, 2149 UNTS
+      256. Relevante Bestimmungen: Artikel 2 definiert die rechtswidrige und vorsätzliche
+      Lieferung, Platzierung oder Detonation von Sprengstoffen in öffentlichen oder
+      staatlichen Einrichtungen, einschließlich im Verkehrswesen. Verfügbar unter: https://treaties.un.org/doc/db/Terrorism/english-18-9.pdf
+      (Zugriff: 17. September 2025). Sicherheitsrat der Vereinten Nationen (2001) Resolution
+      1373 (2001) , S/RES/1373 (28. September 2001). Relevante Bestimmungen: Die Absätze
+      1(b)–(d) verpflichten alle Staaten, die Finanzierung, den Transport und die Lieferung
+      von Waffen oder Sprengstoffen an nichtstaatliche Akteure zu verhindern und zu
+      unterbinden. Verfügbar unter: https://undocs.org/S/RES/1373(2001) (Zugriff: 17.
+      September 2025). Sicherheitsrat der Vereinten Nationen (2004) Resolution 1540
+      (2004) , S/RES/1540 (28. April 2004). Relevante Bestimmungen: Die Absätze 2–3
+      verpflichten alle Staaten, die Verbreitung von Massenvernichtungswaffen, Sprengstoffen
+      und verwandten Materialien durch „wirksame Grenzkontrollen und Strafverfolgungsmaßnahmen
+      zur Aufdeckung, Verhinderung und Bekämpfung … des illegalen Handels“ zu verhindern.
+      Verfügbar unter: https://undocs.org/S/RES/1540(2004) (Zugriff: 17. September 2025).
+      Weltzollorganisation (2007) SAFE-Rahmenwerk von Standards zur Sicherung und Erleichterung
+      des globalen Handels (in der aktualisierten Fassung). Brüssel: WZO. Relevante
+      Bestimmungen: Säule I, Standard 1 und 3 legen Verpflichtungen für Zollverwaltungen
+      fest, risikoreiche Fracht, einschließlich Sprengstoffen, über alle Lieferketten
+      hinweg zu überprüfen und zu beschlagnahmen. Verfügbar unter: https://www.wcoomd.org/en/topics/facilitation/instrument-and-tools/tools/safe_package.aspx
+      (Zugriff: 17. September 2025). Subscribe Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Israels Ministerpräsident Benjamin Netanjahu hat angekündigt,
+      die Hamas-Führer zu verfolgen und warnt, dass das Leben der Geiseln in Gaza gefährdet
+      ist, während Israel die Stadt bombardiert und eine Bodeninvasion vorbereitet,
+      was die Geiseln wahrscheinlich in Lebensgefahr bringt.
+    paragraph_summary: Israeli Prime Minister Benjamin Netanyahu has vowed to track
+      down Hamas leaders wherever they may be, warning that their lives will be in danger
+      if any harm comes to Israeli hostages in Gaza City. As Israel intensifies its
+      bombardment of the densely populated city in preparation for a ground invasion,
+      hundreds of thousands are being forced to flee, while Hamas and other Palestinian
+      groups refuse to relinquish their positions. The approximately eight hostages
+      held in Gaza are likely to face dire consequences as the Israeli offensive could
+      lead to their deaths. Netanyahu appears to be shifting responsibility for any
+      hostage casualties onto Hamas, framing their deaths as justifications for retaliation
+      and boasting about the capabilities of the Mossad. However, the effectiveness
+      of the Mossad is questioned, as its reputation for global reach is more a product
+      of the impunity it enjoys, supported by powerful Western governments, rather than
+      flawless operations.
+    published: '2025-09-19T06:15:31+00:00'
+  - title: 'Le service de renseignement israélien, le Mossad : le mythe des longs bras
+      et la réalité de l’échec'
+    url: https://ejmagnier.com/2025/09/18/le-service-de-renseignement-israelien-le-mossad-le-mythe-des-longs-bras-et-la-realite-de-lechec/
+    text: 'Tweet Le service de renseignement israélien, le Mossad : le mythe des longs
+      bras et la réalité de l’échec Par Elijah J. Magnier – Le Premier ministre israélien
+      Benjamin Netanyahou a juré de « traquer » les dirigeants du Hamas où qu’ils se
+      trouvent, avertissant que « leur vie sera courte si un seul cheveu des otages
+      israéliens à Gaza est touché ». Dans le même temps, Israël bombarde la ville d’un
+      million d’habitants en préparation d’une invasion terrestre, forçant des centaines
+      de milliers de personnes à fuir. Pourtant, le Hamas et d’autres groupes palestiniens
+      ont clairement indiqué qu’ils ne quitteraient pas leurs positions. Les huit otages
+      environ retenus à Gaza ont donc peu de chances de survivre à l’avancée israélienne,
+      qui implique la destruction de quartiers entiers. En réalité, Netanyahou et la
+      société israélienne savent que l’invasion équivaut à une condamnation à mort pour
+      les captifs. Anticipant cela, Netanyahou déplace déjà la responsabilité : chaque
+      fois que le Hamas annonce la mort d’un otage, il la présente comme un déclencheur
+      de vengeance, promettant d’éliminer les dirigeants du Hamas et se vantant des
+      « longs bras » du Mossad. En vérité, les longs bras du Mossad, si souvent célébrés,
+      sont moins une preuve de force qu’une mesure de la complaisance dont bénéficie
+      Israël. En invoquant ainsi les « longs bras » du Mossad, Netanyahou s’appuie sur
+      une légende soigneusement construite. Depuis des décennies, le service de renseignement
+      israélien cultive une image redoutable : une organisation clandestine capable
+      de frapper partout dans le monde. Pourtant, cette réputation tient moins à des
+      opérations impeccables qu’au bouclier d’impunité dont il jouit. Le Mossad bénéficie
+      de la protection de puissants gouvernements occidentaux, qui accourent à sa défense
+      chaque fois que ses agents sont démasqués. Il opère avec de fausses identités
+      et les technologies les plus avancées, souvent acquises grâce à des programmes
+      de recherche alliés, à des services de renseignement partenaires et à des multinationales.
+      Quand ses opérations échouent — ce qui est fréquent —, les dégâts sont contenus
+      non par la compétence mais par la politique. La légende du Mossad perdure non
+      pas en raison de ses réussites, mais parce que ses parrains veillent à ce que
+      ses échecs ne lui coûtent rien. Cette mythologie est alimentée par des films,
+      des romans et des fuites soigneusement orchestrées. Les récits de missions audacieuses,
+      d’assassinats spectaculaires et d’agents infiltrés circulent librement. Israël
+      entretient cette aura parce qu’elle dissuade ses adversaires et impressionne ses
+      alliés. Mais un examen attentif révèle une série d’opérations ratées, d’assassinats
+      manqués et de complots bâclés qui ont exposé les agents du Mossad et embarrassé
+      leurs soutiens. La vérité est simple : la portée du Mossad n’est longue que parce
+      que la piste lui est dégagée. Israël bénéficie d’une immunité quand il est pris
+      la main dans le sac. Les passeports peuvent être falsifiés parce que des pays
+      amis détournent le regard. Des agents arrêtés rentrent discrètement chez eux après
+      des pressions diplomatiques. Des systèmes de surveillance et des armes cybernétiques
+      sophistiqués sont accessibles parce que les institutions occidentales leur ouvrent
+      leurs portes. Sans ce bouclier protecteur, le bilan du Mossad ressemblerait moins
+      à un modèle de maîtrise qu’à une succession d’imprudences. L’un des échecs les
+      plus humiliants du Mossad s’est produit en Jordanie en septembre 1997. Des agents
+      ont tenté d’assassiner Khaled Mechaal, un dirigeant du Hamas, en lui pulvérisant
+      un poison à action lente dans l’oreille alors qu’il marchait à Amman. Le complot
+      s’est effondré presque aussitôt. Les gardes du corps de Mechaal ont capturé deux
+      agents du Mossad, tandis que quatre autres se réfugiaient à l’ambassade israélienne.
+      Le roi Hussein, furieux de cette violation de la souveraineté jordanienne, mit
+      en jeu le traité de paix avec Israël. Il prévint sans détour les Américains :
+      « Si Mechaal meurt, le traité de paix meurt avec lui. » Le président Bill Clinton
+      intervint personnellement, obligeant Israël à livrer l’antidote pour sauver la
+      vie de Mechaal. Le gouvernement Netanyahou, humilié, dut libérer le cheikh Ahmed
+      Yassine, chef spirituel du Hamas, ainsi qu’environ 70 autres prisonniers, en échange
+      des agents capturés. Au lieu d’affaiblir le Hamas, l’opération le renforça. Au
+      lieu de projeter la force, le Mossad révéla son incompétence et contraignit son
+      plus proche allié à réparer les dégâts. Un fiasco similaire eut lieu à Dubaï en
+      janvier 2010, lorsque le responsable du Hamas Mahmoud al-Mabhouh fut retrouvé
+      mort dans sa chambre d’hôtel. L’assassinat portait la marque du Mossad : surveillance
+      discrète, entrées et sorties coordonnées, injection fatale. Pourtant, les services
+      de sécurité de Dubaï mirent rapidement à nu toute l’opération. Les caméras de
+      surveillance montrèrent des suspects se déplaçant maladroitement dans les halls,
+      leurs perruques glissant, leurs déguisements risibles. La police identifia 26
+      suspects, la plupart voyageant avec de faux passeports. Le scandale s’élargit
+      lorsqu’il fut révélé que le Mossad avait cloné des documents de pays alliés :
+      douze britanniques, six irlandais, quatre français, quatre australiens et un allemand.
+      L’indignation éclata dans les gouvernements dont les citoyens avaient été ainsi
+      usurpés. Le chef de la police de Dubaï accusa Israël de « bafouer les passeports
+      de nations qui se considèrent comme ses amies ». Londres expulsa un diplomate
+      israélien ; l’Irlande et l’Australie firent de même avec des représentants du
+      Mossad, dont le chef de station à Canberra. Mais les conséquences s’arrêtèrent
+      là. Quelques mois plus tard, les relations furent discrètement rétablies. Les
+      agents rentrèrent chez eux, la direction resta en place et les méthodes ne changèrent
+      pas. La leçon était claire : Israël pouvait compromettre la sécurité des citoyens
+      de ses alliés sans en payer le prix. L’utilisation de passeports étrangers est
+      une pratique centrale du Mossad. Ses agents voyagent régulièrement avec des identités
+      volées ou falsifiées provenant d’Europe, d’Amérique du Nord ou d’Australasie.
+      Cela leur ouvre des accès que des documents israéliens rendraient suspects, et
+      garantit qu’en cas d’arrestation, le pays dont le passeport a été usurpé interviendra
+      sous pression diplomatique. Les « longs bras » du Mossad reposent sur les passeports
+      et le silence des autres. Mais cette dépendance a aussi conduit à des fiascos.
+      En 2004, deux agents du Mossad, Uriel Kelman et Eli Cara, furent arrêtés en Nouvelle-Zélande
+      pour avoir tenté d’obtenir frauduleusement des passeports au nom de citoyens handicapés.
+      La Première ministre Helen Clark dénonça « un acte criminel commandité par un
+      État ». Condamnés à six mois de prison, ils furent expulsés. Les relations diplomatiques
+      furent gelées et Israël dut présenter des excuses rares. Mais, comme à Dubaï,
+      les conséquences furent temporaires. Les liens reprirent et le Mossad continua
+      d’utiliser des identités occidentales. La liste des échecs remonte plus loin.
+      En 1973, à Lillehammer, en Norvège, des agents du Mossad tuèrent Ahmed Bouchiki,
+      un serveur marocain pris à tort pour Ali Hassan Salameh, membre de Septembre Noir
+      impliqué dans l’attentat des Jeux olympiques de Munich. Six agents furent arrêtés,
+      jugés et condamnés. Le Premier ministre norvégien Trygve Bratteli dénonça « une
+      violation révoltante de notre souveraineté et de l’État de droit ». Pourtant,
+      les peines furent légères : la plupart furent libérés en moins de deux ans. Encore
+      une fois, les agents rentrèrent chez eux et les alliés d’Israël veillèrent à ce
+      que l’incident ne laisse pas de trace durable. En 1998, les autorités suisses
+      surprirent des agents du Mossad en train de poser des micros à Berne, près d’un
+      bureau présenté comme lié au Hezbollah. Les arrestations firent scandale dans
+      la presse. Le ministre israélien Ariel Sharon dut s’excuser publiquement. Mais,
+      là encore, l’embarras resta passager. L’« attaque des pagers » contre le Hezbollah
+      fut saluée en Israël comme un coup de maître technologique. Des milliers d’appareils
+      de communication, utilisés par les combattants, furent piégés et introduits au
+      Liban sous couvert d’importations ordinaires. Mais une telle opération ne peut
+      s’expliquer par la seule ingéniosité israélienne. Transporter des cargaisons entières
+      d’explosifs à travers ports et douanes aurait été impossible sans la complicité,
+      ou au moins la complaisance, d’États tiers. Chaque port dispose de scanners et
+      de contrôleurs formés à détecter les explosifs. Comment alors des caisses de milliers
+      d’appareils piégés ont-elles pu transiter d’Asie en Turquie, puis au Liban, sans
+      interception ? La réponse tient à la protection exceptionnelle dont bénéficie
+      Israël auprès de gouvernements occidentaux et de réseaux alliés. L’illusion de
+      brillance s’effondre à l’examen logistique. Le dernier chargement fut détecté
+      dans un port turc, alerté par le Hezbollah. Les autorités confirmèrent la présence
+      d’explosifs. Israël ne fut pas sanctionné pour avoir introduit clandestinement
+      des explosifs via la Turquie, en violation flagrante du droit. Si Israël n’avait
+      compté que sur ses propres moyens, la probabilité d’être démasqué aurait été énorme.
+      Au lieu de cela, les cargaisons furent laissées libres de passage, protégées par
+      la main invisible d’alliés. Cette réussite temporaire fut moins un signe de génie
+      qu’une démonstration d’impunité. Le partage de renseignements avec les États-Unis
+      et l’Europe fournit de fausses couvertures et des conteneurs à « laisser passer
+      ». Les compagnies maritimes, souvent occidentales, détournèrent le regard. Les
+      autorités portuaires suivirent les signaux de ne pas interférer. Quand les appareils
+      atteignirent le Liban, l’opération fut célébrée comme un succès, mais elle prouvait
+      surtout le privilège : le Mossad ne circule pas parce qu’il est invisible, mais
+      parce qu’on lui fournit un manteau d’invisibilité. Ce schéma n’est pas nouveau.
+      Dans les années 1960, Israël a construit son arsenal nucléaire secret de la même
+      manière, en profitant du silence et de la complaisance de ses alliés. En 1968,
+      le cargo Scheersberg A , transportant 200 tonnes d’uranium entre Anvers et l’Italie,
+      « disparut » avant de réapparaître vide — la cargaison ayant vraisemblablement
+      été détournée vers Dimona. Les services occidentaux savaient mais se turent. Des
+      laboratoires français et américains fournirent des technologies, des entreprises
+      allemandes et norvégiennes livrèrent eau lourde et équipements. Chacune de ces
+      étapes aurait pu être bloquée. Au lieu de cela, Israël fut protégé, obtenant l’arme
+      nucléaire hors du Traité de non-prolifération. Les parallèles avec l’attaque des
+      pagers sont frappants : des exploits logistiques rendus possibles par le silence
+      des alliés. Le fiasco le plus récent survint en 2025, quand Israël frappa Doha,
+      capitale du Qatar, tuant cinq personnes, dont un Qatari et quatre Palestiniens.
+      Netanyahou, rompant avec la tradition du déni, revendiqua l’opération. L’attaque
+      violait non seulement la souveraineté d’un État, mais aussi le rôle de médiateur
+      du Qatar. Pour le Mossad, qui avait fourni les renseignements, ce fut un nouvel
+      excès. Résultat : indignation diplomatique, condamnation dans le monde arabe,
+      et, une fois de plus, certitude qu’aucune sanction réelle ne suivrait. La réputation
+      du Mossad repose non pas sur l’infaillibilité, mais sur la protection politique.
+      Ses échecs sont absorbés par des gouvernements qui préfèrent détourner le regard.
+      Quand des agents sont arrêtés, ils sont libérés. Quand des opérations dérapent,
+      de simples excuses suffisent. La mythologie perdure parce que des puissances acceptent
+      de l’entretenir. Cette collusion dépasse la diplomatie pour inclure la technologie.
+      Le Mossad bénéficie d’un accès privilégié aux systèmes de surveillance occidentaux,
+      aux capacités cybernétiques et aux réseaux de recherche. Le virus Stuxnet, utilisé
+      contre le programme nucléaire iranien, fut développé conjointement avec les États-Unis.
+      Les hackers israéliens profitent d’échanges constants avec la NSA et la CIA. Les
+      services européens transmettent des informations sensibles. Des drones israéliens
+      franchissent des frontières parce qu’on ordonne aux défenses de ne pas riposter.
+      Le Mossad peut infiltrer des systèmes financiers car les gouvernements ouvrent
+      discrètement les bases de données. Ses longs bras existent grâce aux mains prêtées
+      par d’autres. Mais cette dépendance révèle aussi une fragilité. Sans l’indulgence
+      de ses alliés, les opérations du Mossad seraient paralysées. Une bévue russe ou
+      iranienne de l’ampleur de Dubaï ou Amman aurait entraîné sanctions et procès.
+      Le Mossad survit à ses échecs car Washington, Londres et Canberra le sauvent.
+      Cette asymétrie encourage la témérité : les agents israéliens agissent comme si
+      les règles ne s’appliquaient pas, car, en pratique, elles ne s’appliquent pas.
+      Derrière le mythe se cache une culture d’imprudence. Le Mossad n’a de longs bras
+      que parce que d’autres lui ouvrent la voie. Son immunité est son principal atout.
+      Sans elle, l’agence serait connue moins pour ses exploits que pour ses erreurs,
+      qui ont mis en danger des alliés et compromis la diplomatie. En réalité, sa légende
+      repose non sur la maîtrise de l’ombre mais sur la volonté de puissances amies
+      de fermer les yeux. Footnote [1] United Nations (1982) United Nations Convention
+      on the Law of the Sea (UNCLOS) , 10 December 1982, 1833 UNTS 397. Relevant provisions:
+      Article 27 (criminal jurisdiction over foreign ships in territorial seas), Article
+      94 (flag state duties), Article 108 (suppression of illicit traffic in narcotics
+      as precedent for illicit cargo control). Available at: https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf
+      (Accessed: 17 September 2025). International Maritime Organization (1988) Convention
+      for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation
+      (SUA Convention) , 10 March 1988, 1678 UNTS 221. Relevant provisions: Article
+      3(1)(f) criminalises the transport or placement of “any device or substance likely
+      to destroy or damage a ship or cargo” with intent to cause death, injury, or damage.
+      Available at: https://treaties.un.org/doc/Treaties/2005/04/20050428%2006-13%20AM/Ch_XII_16p.pdf(Accessed
+      : 17 September 2025). United Nations (1997) International Convention for the Suppression
+      of Terrorist Bombings , 15 December 1997, 2149 UNTS 256. Relevant provisions:
+      Article 2 defines unlawful and intentional delivery, placement, or detonation
+      of explosives in public or government facilities, including transport contexts.
+      Available at: https://treaties.un.org/doc/db/Terrorism/english-18-9.pdf (Accessed
+      : 17 September 2025). United Nations Security Council (2001) Resolution 1373 (2001)
+      , S/RES/1373 (28 September 2001). Relevant provisions: Paragraphs 1(b)–(d) obligate
+      all states to prevent and suppress financing, movement, and supply of weapons
+      or explosives to non-state actors. Available at: https://undocs.org/S/RES/1373(2001) (Accessed
+      : 17 September 2025). United Nations Security Council (2004) Resolution 1540 (2004)
+      , S/RES/1540 (28 April 2004). Relevant provisions: Paragraphs 2–3 require all
+      states to prevent proliferation of WMD, explosives, and related materials through
+      “effective border controls and law enforcement to detect, deter, prevent and combat…
+      illicit trafficking.” Available at: https://undocs.org/S/RES/1540(2004) (Accessed
+      : 17 September 2025). World Customs Organization (2007) SAFE Framework of Standards
+      to Secure and Facilitate Global Trade (as updated). Brussels: WCO. Relevant provisions:
+      Pillar I, Standard 1 and 3 establish obligations for customs administrations to
+      screen and interdict high-risk cargo, including explosives, across all supply
+      chains. Available at: https://www.wcoomd.org/en/topics/facilitation/instrument-and-tools/tools/safe_package.aspx(Accessed
+      : 17 September 2025). Bibliography: AP News (2025) ‘Turkey thwarted another attack
+      with pagers in Lebanon last year, officials say.’ AP News, 6 May. Available at:
+      https://apnews.com/article/e39b0dabaa1718606e238001ad9a31fa (Accessed: 14 September
+      2025). Arab News (2024) ‘Death toll in Lebanon pager-explosion attack rises to
+      12.’ Arab News, 18 September. Available at: https://www.arabnews.com/node/2571862/middle-east
+      (Accessed: 14 September 2025). Bachega, H. and Lukiv, J. (2025) ‘Qatar hosts Arab-Islamic
+      emergency summit over Israeli strike on Doha.’ BBC News, 15 September. Available
+      at: https://www.bbc.com/news/articles/c4gk8nx5nw3o (Accessed: 17 September 2025).
+      Bainerman, J. (1994) Inside the Covert Operations of the CIA & Israel’s Mossad.
+      Available at: https://www.academia.edu/46843346/Inside_the_covert_operations_of_the_CIA_Israels_Mossad_by_Joel_Bainerman
+      (Accessed: 17 September 2025). BBC News (2010) ‘Dubai murder: Police release list
+      of 26 suspects.’ BBC News, 24 February. Available at: http://news.bbc.co.uk/2/hi/middle_east/8533665.stm
+      (Accessed: 14 September 2025). Bergman, R. (2018) Rise and Kill First: The Secret
+      History of Israel’s Targeted Assassinations. London: John Murray. Black, I. and
+      Morris, B. (1991) Israel’s Secret Wars: A History of Israel’s Intelligence Services.
+      London: Grove Weidenfeld. Center for Israel Education (2025) Mossad Kills Wrong
+      Man in Norway, 21 July. Available at: https://israeled.org/mossad-kills-wrong-man-in-norway/
+      (Accessed: 17 September 2025). Fickling, D. (2004) ‘“Mossad spies” jailed over
+      New Zealand passport fraud.’ The Guardian, 16 July. Available at: https://www.theguardian.com/world/2004/jul/16/israel
+      (Accessed: 17 September 2025). Khalfan, D. (2010) Remarks on Mossad involvement
+      in the assassination of Mahmoud al-Mabhouh. Quoted in The Guardian, 18 February.
+      Available at: https://www.theguardian.com/world/2010/feb/18/dubai-police-certain-mossad-killing
+      (Accessed: 14 September 2025). LBC (2025) ‘Hezbollah tip off helps Turkey foil
+      plot to smuggle explosive pagers.’ LBC Group, May. Available at: https://www.lbcgroup.tv/news/news-bulletin-reports/852789/hezbollah-tip-off-helps-turkey-foil-plot-to-smuggle-explosive-pagers-i/en
+      (Accessed: 14 September 2025). Melman, Y. and Raviv, D. (2014) Spies Against Armageddon:
+      Inside Israel’s Secret Wars. New York: Levant Books. Minnesota Daily (1998) ‘Swiss
+      say suspected Mossad operation in Bern uncovered.’ The Minnesota Daily, 27 February.
+      Available at: https://mndaily.com/201889/uncategorized/swiss-say-suspected-mossad-operation-bern-uncovered/
+      (Accessed: 17 September 2025). New York Times (1997) ‘Israel frees ailing Hamas
+      founder to Jordan, at Hussein’s request.’ The New York Times, 1 October. Available
+      at: https://www.nytimes.com/1997/10/01/world/israel-frees-ailing-hamas-founder-to-jordan-at-hussein-s-request.html
+      (Accessed: 17 September 2025). New Zealand Herald (2004) ‘Israelis jailed for
+      six months on passport fraud charge.’ The New Zealand Herald, 16 July. Available
+      at: https://www.nzherald.co.nz/nz/israelis-jailed-for-six-months-on-passport-fraud-charge/KEQRWZ3PBVGUF3FW46KBM5CWNI/
+      (Accessed: 17 September 2025). Ostrovsky, V. and Hoy, C. (1990) By Way of Deception:
+      The Making and Unmaking of a Mossad Officer. New York: St. Martin’s Press. Reuters
+      (2024) ‘Israel planted explosives in Hezbollah’s Taiwan-made pagers, say sources.’
+      Reuters, 18 September. Available at: https://www.reuters.com/world/middle-east/israel-planted-explosives-hezbollahs-taiwan-made-pagers-say-sources-2024-09-18
+      (Accessed: 14 September 2025). The Guardian (2010) ‘‘Compelling evidence’ Israel
+      was behind misuse of UK passports in Hamas hit – David Miliband.’ The Guardian,
+      23 March. Available at: https://www.theguardian.com/world/2010/mar/23/uk-expel-israeli-diplomat-passport
+      (Accessed: 16 September 2025). The National (2025) ‘Turkey intercepted second
+      batch of pagers rigged with explosives after Israeli attack on Hezbollah.’ The
+      National News, 7 May. Available at: https://www.thenationalnews.com/news/mena/2025/05/07/turkey-intercepted-second-batch-of-pagers-rigged-with-explosives-after-israeli-attack-on-hezbollah
+      (Accessed: 14 September 2025). Thomas, G. (1999) Gideon’s Spies: The Secret History
+      of the Mossad. New York: St. Martin’s Press. Tweet'
+    one_sentence_summary: L'article souligne que malgré les promesses du Premier ministre
+      israélien Benjamin Netanyahou de traquer les dirigeants du Hamas et les bombardements
+      intensifiés à Gaza, la réalité est que l'invasion imminente met en danger la vie
+      des otages israéliens, tout en suggérant que Netanyahou cherche à se décharger
+      de la responsabilité des conséquences tragiques qui pourraient en découler.
+    paragraph_summary: L'article d'Elijah J. Magnier examine la dichotomie entre l'image
+      mythique du Mossad, le service de renseignement israélien, et la réalité de ses
+      échecs, notamment dans le contexte actuel du conflit avec le Hamas. Le Premier
+      ministre israélien Benjamin Netanyahou a promis de traquer les dirigeants du Hamas
+      en réponse à la prise d'otages, tout en préparant une invasion terrestre de Gaza
+      qui mettrait en péril la vie des otages restants. Malgré la réputation du Mossad
+      comme une organisation redoutable capable d'opérer à l'échelle mondiale, l'article
+      suggère que cette image est davantage le résultat d'une complaisance et d'une
+      protection par des gouvernements occidentaux que d'une réelle efficacité opérationnelle.
+      En fin de compte, la promesse de vengeance de Netanyahou face aux pertes d'otages
+      semble plus une tentative de détourner la responsabilité qu'une stratégie viable.
+    published: '2025-09-18T17:56:59+00:00'
+  - title: 'Le service de renseignement israélien, le Mossad : le mythe des longs bras
+      et la réalité de l’échec'
+    url: https://ejmagnier.com/2025/09/18/le-service-de-renseignement-israelien-le-mossad-le-mythe-des-longs-bras-et-la-realite-de-lechec/
+    text: 'Tweet Le service de renseignement israélien, le Mossad : le mythe des longs
+      bras et la réalité de l’échec Par Elijah J. Magnier – Le Premier ministre israélien
+      Benjamin Netanyahou a juré de « traquer » les dirigeants du Hamas où qu’ils se
+      trouvent, avertissant que « leur vie sera courte si un seul cheveu des otages
+      israéliens à Gaza est touché ». Dans le même temps, Israël bombarde la ville d’un
+      million d’habitants en préparation d’une invasion terrestre, forçant des centaines
+      de milliers de personnes à fuir. Pourtant, le Hamas et d’autres groupes palestiniens
+      ont clairement indiqué qu’ils ne quitteraient pas leurs positions. Les huit otages
+      environ retenus à Gaza ont donc peu de chances de survivre à l’avancée israélienne,
+      qui implique la destruction de quartiers entiers. En réalité, Netanyahou et la
+      société israélienne savent que l’invasion équivaut à une condamnation à mort pour
+      les captifs. Anticipant cela, Netanyahou déplace déjà la responsabilité : chaque
+      fois que le Hamas annonce la mort d’un otage, il la présente comme un déclencheur
+      de vengeance, promettant d’éliminer les dirigeants du Hamas et se vantant des
+      « longs bras » du Mossad. En vérité, les longs bras du Mossad, si souvent célébrés,
+      sont moins une preuve de force qu’une mesure de la complaisance dont bénéficie
+      Israël. En invoquant ainsi les « longs bras » du Mossad, Netanyahou s’appuie sur
+      une légende soigneusement construite. Depuis des décennies, le service de renseignement
+      israélien cultive une image redoutable : une organisation clandestine capable
+      de frapper partout dans le monde. Pourtant, cette réputation tient moins à des
+      opérations impeccables qu’au bouclier d’impunité dont il jouit. Le Mossad bénéficie
+      de la protection de puissants gouvernements occidentaux, qui accourent à sa défense
+      chaque fois que ses agents sont démasqués. Il opère avec de fausses identités
+      et les technologies les plus avancées, souvent acquises grâce à des programmes
+      de recherche alliés, à des services de renseignement partenaires et à des multinationales.
+      Quand ses opérations échouent — ce qui est fréquent —, les dégâts sont contenus
+      non par la compétence mais par la politique. La légende du Mossad perdure non
+      pas en raison de ses réussites, mais parce que ses parrains veillent à ce que
+      ses échecs ne lui coûtent rien. Cette mythologie est alimentée par des films,
+      des romans et des fuites soigneusement orchestrées. Les récits de missions audacieuses,
+      d’assassinats spectaculaires et d’agents infiltrés circulent librement. Israël
+      entretient cette aura parce qu’elle dissuade ses adversaires et impressionne ses
+      alliés. Mais un examen attentif révèle une série d’opérations ratées, d’assassinats
+      manqués et de complots bâclés qui ont exposé les agents du Mossad et embarrassé
+      leurs soutiens. La vérité est simple : la portée du Mossad n’est longue que parce
+      que la piste lui est dégagée. Israël bénéficie d’une immunité quand il est pris
+      la main dans le sac. Les passeports peuvent être falsifiés parce que des pays
+      amis détournent le regard. Des agents arrêtés rentrent discrètement chez eux après
+      des pressions diplomatiques. Des systèmes de surveillance et des armes cybernétiques
+      sophistiqués sont accessibles parce que les institutions occidentales leur ouvrent
+      leurs portes. Sans ce bouclier protecteur, le bilan du Mossad ressemblerait moins
+      à un modèle de maîtrise qu’à une succession d’imprudences. L’un des échecs les
+      plus humiliants du Mossad s’est produit en Jordanie en septembre 1997. Des agents
+      ont tenté d’assassiner Khaled Mechaal, un dirigeant du Hamas, en lui pulvérisant
+      un poison à action lente dans l’oreille alors qu’il marchait à Amman. Le complot
+      s’est effondré presque aussitôt. Les gardes du corps de Mechaal ont capturé deux
+      agents du Mossad, tandis que quatre autres se réfugiaient à l’ambassade israélienne.
+      Le roi Hussein, furieux de cette violation de la souveraineté jordanienne, mit
+      en jeu le traité de paix avec Israël. Il prévint sans détour les Américains :
+      « Si Mechaal meurt, le traité de paix meurt avec lui. » Le président Bill Clinton
+      intervint personnellement, obligeant Israël à livrer l’antidote pour sauver la
+      vie de Mechaal. Le gouvernement Netanyahou, humilié, dut libérer le cheikh Ahmed
+      Yassine, chef spirituel du Hamas, ainsi qu’environ 70 autres prisonniers, en échange
+      des agents capturés. Au lieu d’affaiblir le Hamas, l’opération le renforça. Au
+      lieu de projeter la force, le Mossad révéla son incompétence et contraignit son
+      plus proche allié à réparer les dégâts. Un fiasco similaire eut lieu à Dubaï en
+      janvier 2010, lorsque le responsable du Hamas Mahmoud al-Mabhouh fut retrouvé
+      mort dans sa chambre d’hôtel. L’assassinat portait la marque du Mossad : surveillance
+      discrète, entrées et sorties coordonnées, injection fatale. Pourtant, les services
+      de sécurité de Dubaï mirent rapidement à nu toute l’opération. Les caméras de
+      surveillance montrèrent des suspects se déplaçant maladroitement dans les halls,
+      leurs perruques glissant, leurs déguisements risibles. La police identifia 26
+      suspects, la plupart voyageant avec de faux passeports. Le scandale s’élargit
+      lorsqu’il fut révélé que le Mossad avait cloné des documents de pays alliés :
+      douze britanniques, six irlandais, quatre français, quatre australiens et un allemand.
+      L’indignation éclata dans les gouvernements dont les citoyens avaient été ainsi
+      usurpés. Le chef de la police de Dubaï accusa Israël de « bafouer les passeports
+      de nations qui se considèrent comme ses amies ». Londres expulsa un diplomate
+      israélien ; l’Irlande et l’Australie firent de même avec des représentants du
+      Mossad, dont le chef de station à Canberra. Mais les conséquences s’arrêtèrent
+      là. Quelques mois plus tard, les relations furent discrètement rétablies. Les
+      agents rentrèrent chez eux, la direction resta en place et les méthodes ne changèrent
+      pas. La leçon était claire : Israël pouvait compromettre la sécurité des citoyens
+      de ses alliés sans en payer le prix. L’utilisation de passeports étrangers est
+      une pratique centrale du Mossad. Ses agents voyagent régulièrement avec des identités
+      volées ou falsifiées provenant d’Europe, d’Amérique du Nord ou d’Australasie.
+      Cela leur ouvre des accès que des documents israéliens rendraient suspects, et
+      garantit qu’en cas d’arrestation, le pays dont le passeport a été usurpé interviendra
+      sous pression diplomatique. Les « longs bras » du Mossad reposent sur les passeports
+      et le silence des autres. Mais cette dépendance a aussi conduit à des fiascos.
+      En 2004, deux agents du Mossad, Uriel Kelman et Eli Cara, furent arrêtés en Nouvelle-Zélande
+      pour avoir tenté d’obtenir frauduleusement des passeports au nom de citoyens handicapés.
+      La Première ministre Helen Clark dénonça « un acte criminel commandité par un
+      État ». Condamnés à six mois de prison, ils furent expulsés. Les relations diplomatiques
+      furent gelées et Israël dut présenter des excuses rares. Mais, comme à Dubaï,
+      les conséquences furent temporaires. Les liens reprirent et le Mossad continua
+      d’utiliser des identités occidentales. La liste des échecs remonte plus loin.
+      En 1973, à Lillehammer, en Norvège, des agents du Mossad tuèrent Ahmed Bouchiki,
+      un serveur marocain pris à tort pour Ali Hassan Salameh, membre de Septembre Noir
+      impliqué dans l’attentat des Jeux olympiques de Munich. Six agents furent arrêtés,
+      jugés et condamnés. Le Premier ministre norvégien Trygve Bratteli dénonça « une
+      violation révoltante de notre souveraineté et de l’État de droit ». Pourtant,
+      les peines furent légères : la plupart furent libérés en moins de deux ans. Encore
+      une fois, les agents rentrèrent chez eux et les alliés d’Israël veillèrent à ce
+      que l’incident ne laisse pas de trace durable. En 1998, les autorités suisses
+      surprirent des agents du Mossad en train de poser des micros à Berne, près d’un
+      bureau présenté comme lié au Hezbollah. Les arrestations firent scandale dans
+      la presse. Le ministre israélien Ariel Sharon dut s’excuser publiquement. Mais,
+      là encore, l’embarras resta passager. L’« attaque des pagers » contre le Hezbollah
+      fut saluée en Israël comme un coup de maître technologique. Des milliers d’appareils
+      de communication, utilisés par les combattants, furent piégés et introduits au
+      Liban sous couvert d’importations ordinaires. Mais une telle opération ne peut
+      s’expliquer par la seule ingéniosité israélienne. Transporter des cargaisons entières
+      d’explosifs à travers ports et douanes aurait été impossible sans la complicité,
+      ou au moins la complaisance, d’États tiers. Chaque port dispose de scanners et
+      de contrôleurs formés à détecter les explosifs. Comment alors des caisses de milliers
+      d’appareils piégés ont-elles pu transiter d’Asie en Turquie, puis au Liban, sans
+      interception ? La réponse tient à la protection exceptionnelle dont bénéficie
+      Israël auprès de gouvernements occidentaux et de réseaux alliés. L’illusion de
+      brillance s’effondre à l’examen logistique. Le dernier chargement fut détecté
+      dans un port turc, alerté par le Hezbollah. Les autorités confirmèrent la présence
+      d’explosifs. Israël ne fut pas sanctionné pour avoir introduit clandestinement
+      des explosifs via la Turquie, en violation flagrante du droit. Si Israël n’avait
+      compté que sur ses propres moyens, la probabilité d’être démasqué aurait été énorme.
+      Au lieu de cela, les cargaisons furent laissées libres de passage, protégées par
+      la main invisible d’alliés. Cette réussite temporaire fut moins un signe de génie
+      qu’une démonstration d’impunité. Le partage de renseignements avec les États-Unis
+      et l’Europe fournit de fausses couvertures et des conteneurs à « laisser passer
+      ». Les compagnies maritimes, souvent occidentales, détournèrent le regard. Les
+      autorités portuaires suivirent les signaux de ne pas interférer. Quand les appareils
+      atteignirent le Liban, l’opération fut célébrée comme un succès, mais elle prouvait
+      surtout le privilège : le Mossad ne circule pas parce qu’il est invisible, mais
+      parce qu’on lui fournit un manteau d’invisibilité. Ce schéma n’est pas nouveau.
+      Dans les années 1960, Israël a construit son arsenal nucléaire secret de la même
+      manière, en profitant du silence et de la complaisance de ses alliés. En 1968,
+      le cargo Scheersberg A , transportant 200 tonnes d’uranium entre Anvers et l’Italie,
+      « disparut » avant de réapparaître vide — la cargaison ayant vraisemblablement
+      été détournée vers Dimona. Les services occidentaux savaient mais se turent. Des
+      laboratoires français et américains fournirent des technologies, des entreprises
+      allemandes et norvégiennes livrèrent eau lourde et équipements. Chacune de ces
+      étapes aurait pu être bloquée. Au lieu de cela, Israël fut protégé, obtenant l’arme
+      nucléaire hors du Traité de non-prolifération. Les parallèles avec l’attaque des
+      pagers sont frappants : des exploits logistiques rendus possibles par le silence
+      des alliés. Le fiasco le plus récent survint en 2025, quand Israël frappa Doha,
+      capitale du Qatar, tuant cinq personnes, dont un Qatari et quatre Palestiniens.
+      Netanyahou, rompant avec la tradition du déni, revendiqua l’opération. L’attaque
+      violait non seulement la souveraineté d’un État, mais aussi le rôle de médiateur
+      du Qatar. Pour le Mossad, qui avait fourni les renseignements, ce fut un nouvel
+      excès. Résultat : indignation diplomatique, condamnation dans le monde arabe,
+      et, une fois de plus, certitude qu’aucune sanction réelle ne suivrait. La réputation
+      du Mossad repose non pas sur l’infaillibilité, mais sur la protection politique.
+      Ses échecs sont absorbés par des gouvernements qui préfèrent détourner le regard.
+      Quand des agents sont arrêtés, ils sont libérés. Quand des opérations dérapent,
+      de simples excuses suffisent. La mythologie perdure parce que des puissances acceptent
+      de l’entretenir. Cette collusion dépasse la diplomatie pour inclure la technologie.
+      Le Mossad bénéficie d’un accès privilégié aux systèmes de surveillance occidentaux,
+      aux capacités cybernétiques et aux réseaux de recherche. Le virus Stuxnet, utilisé
+      contre le programme nucléaire iranien, fut développé conjointement avec les États-Unis.
+      Les hackers israéliens profitent d’échanges constants avec la NSA et la CIA. Les
+      services européens transmettent des informations sensibles. Des drones israéliens
+      franchissent des frontières parce qu’on ordonne aux défenses de ne pas riposter.
+      Le Mossad peut infiltrer des systèmes financiers car les gouvernements ouvrent
+      discrètement les bases de données. Ses longs bras existent grâce aux mains prêtées
+      par d’autres. Mais cette dépendance révèle aussi une fragilité. Sans l’indulgence
+      de ses alliés, les opérations du Mossad seraient paralysées. Une bévue russe ou
+      iranienne de l’ampleur de Dubaï ou Amman aurait entraîné sanctions et procès.
+      Le Mossad survit à ses échecs car Washington, Londres et Canberra le sauvent.
+      Cette asymétrie encourage la témérité : les agents israéliens agissent comme si
+      les règles ne s’appliquaient pas, car, en pratique, elles ne s’appliquent pas.
+      Derrière le mythe se cache une culture d’imprudence. Le Mossad n’a de longs bras
+      que parce que d’autres lui ouvrent la voie. Son immunité est son principal atout.
+      Sans elle, l’agence serait connue moins pour ses exploits que pour ses erreurs,
+      qui ont mis en danger des alliés et compromis la diplomatie. En réalité, sa légende
+      repose non sur la maîtrise de l’ombre mais sur la volonté de puissances amies
+      de fermer les yeux. Footnote [1] United Nations (1982) United Nations Convention
+      on the Law of the Sea (UNCLOS) , 10 December 1982, 1833 UNTS 397. Relevant provisions:
+      Article 27 (criminal jurisdiction over foreign ships in territorial seas), Article
+      94 (flag state duties), Article 108 (suppression of illicit traffic in narcotics
+      as precedent for illicit cargo control). Available at: https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf
+      (Accessed: 17 September 2025). International Maritime Organization (1988) Convention
+      for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation
+      (SUA Convention) , 10 March 1988, 1678 UNTS 221. Relevant provisions: Article
+      3(1)(f) criminalises the transport or placement of “any device or substance likely
+      to destroy or damage a ship or cargo” with intent to cause death, injury, or damage.
+      Available at: https://treaties.un.org/doc/Treaties/2005/04/20050428%2006-13%20AM/Ch_XII_16p.pdf(Accessed
+      : 17 September 2025). United Nations (1997) International Convention for the Suppression
+      of Terrorist Bombings , 15 December 1997, 2149 UNTS 256. Relevant provisions:
+      Article 2 defines unlawful and intentional delivery, placement, or detonation
+      of explosives in public or government facilities, including transport contexts.
+      Available at: https://treaties.un.org/doc/db/Terrorism/english-18-9.pdf (Accessed
+      : 17 September 2025). United Nations Security Council (2001) Resolution 1373 (2001)
+      , S/RES/1373 (28 September 2001). Relevant provisions: Paragraphs 1(b)–(d) obligate
+      all states to prevent and suppress financing, movement, and supply of weapons
+      or explosives to non-state actors. Available at: https://undocs.org/S/RES/1373(2001) (Accessed
+      : 17 September 2025). United Nations Security Council (2004) Resolution 1540 (2004)
+      , S/RES/1540 (28 April 2004). Relevant provisions: Paragraphs 2–3 require all
+      states to prevent proliferation of WMD, explosives, and related materials through
+      “effective border controls and law enforcement to detect, deter, prevent and combat…
+      illicit trafficking.” Available at: https://undocs.org/S/RES/1540(2004) (Accessed
+      : 17 September 2025). World Customs Organization (2007) SAFE Framework of Standards
+      to Secure and Facilitate Global Trade (as updated). Brussels: WCO. Relevant provisions:
+      Pillar I, Standard 1 and 3 establish obligations for customs administrations to
+      screen and interdict high-risk cargo, including explosives, across all supply
+      chains. Available at: https://www.wcoomd.org/en/topics/facilitation/instrument-and-tools/tools/safe_package.aspx(Accessed
+      : 17 September 2025). Bibliography: AP News (2025) ‘Turkey thwarted another attack
+      with pagers in Lebanon last year, officials say.’ AP News, 6 May. Available at:
+      https://apnews.com/article/e39b0dabaa1718606e238001ad9a31fa (Accessed: 14 September
+      2025). Arab News (2024) ‘Death toll in Lebanon pager-explosion attack rises to
+      12.’ Arab News, 18 September. Available at: https://www.arabnews.com/node/2571862/middle-east
+      (Accessed: 14 September 2025). Bachega, H. and Lukiv, J. (2025) ‘Qatar hosts Arab-Islamic
+      emergency summit over Israeli strike on Doha.’ BBC News, 15 September. Available
+      at: https://www.bbc.com/news/articles/c4gk8nx5nw3o (Accessed: 17 September 2025).
+      Bainerman, J. (1994) Inside the Covert Operations of the CIA & Israel’s Mossad.
+      Available at: https://www.academia.edu/46843346/Inside_the_covert_operations_of_the_CIA_Israels_Mossad_by_Joel_Bainerman
+      (Accessed: 17 September 2025). BBC News (2010) ‘Dubai murder: Police release list
+      of 26 suspects.’ BBC News, 24 February. Available at: http://news.bbc.co.uk/2/hi/middle_east/8533665.stm
+      (Accessed: 14 September 2025). Bergman, R. (2018) Rise and Kill First: The Secret
+      History of Israel’s Targeted Assassinations. London: John Murray. Black, I. and
+      Morris, B. (1991) Israel’s Secret Wars: A History of Israel’s Intelligence Services.
+      London: Grove Weidenfeld. Center for Israel Education (2025) Mossad Kills Wrong
+      Man in Norway, 21 July. Available at: https://israeled.org/mossad-kills-wrong-man-in-norway/
+      (Accessed: 17 September 2025). Fickling, D. (2004) ‘“Mossad spies” jailed over
+      New Zealand passport fraud.’ The Guardian, 16 July. Available at: https://www.theguardian.com/world/2004/jul/16/israel
+      (Accessed: 17 September 2025). Khalfan, D. (2010) Remarks on Mossad involvement
+      in the assassination of Mahmoud al-Mabhouh. Quoted in The Guardian, 18 February.
+      Available at: https://www.theguardian.com/world/2010/feb/18/dubai-police-certain-mossad-killing
+      (Accessed: 14 September 2025). LBC (2025) ‘Hezbollah tip off helps Turkey foil
+      plot to smuggle explosive pagers.’ LBC Group, May. Available at: https://www.lbcgroup.tv/news/news-bulletin-reports/852789/hezbollah-tip-off-helps-turkey-foil-plot-to-smuggle-explosive-pagers-i/en
+      (Accessed: 14 September 2025). Melman, Y. and Raviv, D. (2014) Spies Against Armageddon:
+      Inside Israel’s Secret Wars. New York: Levant Books. Minnesota Daily (1998) ‘Swiss
+      say suspected Mossad operation in Bern uncovered.’ The Minnesota Daily, 27 February.
+      Available at: https://mndaily.com/201889/uncategorized/swiss-say-suspected-mossad-operation-bern-uncovered/
+      (Accessed: 17 September 2025). New York Times (1997) ‘Israel frees ailing Hamas
+      founder to Jordan, at Hussein’s request.’ The New York Times, 1 October. Available
+      at: https://www.nytimes.com/1997/10/01/world/israel-frees-ailing-hamas-founder-to-jordan-at-hussein-s-request.html
+      (Accessed: 17 September 2025). New Zealand Herald (2004) ‘Israelis jailed for
+      six months on passport fraud charge.’ The New Zealand Herald, 16 July. Available
+      at: https://www.nzherald.co.nz/nz/israelis-jailed-for-six-months-on-passport-fraud-charge/KEQRWZ3PBVGUF3FW46KBM5CWNI/
+      (Accessed: 17 September 2025). Ostrovsky, V. and Hoy, C. (1990) By Way of Deception:
+      The Making and Unmaking of a Mossad Officer. New York: St. Martin’s Press. Reuters
+      (2024) ‘Israel planted explosives in Hezbollah’s Taiwan-made pagers, say sources.’
+      Reuters, 18 September. Available at: https://www.reuters.com/world/middle-east/israel-planted-explosives-hezbollahs-taiwan-made-pagers-say-sources-2024-09-18
+      (Accessed: 14 September 2025). The Guardian (2010) ‘‘Compelling evidence’ Israel
+      was behind misuse of UK passports in Hamas hit – David Miliband.’ The Guardian,
+      23 March. Available at: https://www.theguardian.com/world/2010/mar/23/uk-expel-israeli-diplomat-passport
+      (Accessed: 16 September 2025). The National (2025) ‘Turkey intercepted second
+      batch of pagers rigged with explosives after Israeli attack on Hezbollah.’ The
+      National News, 7 May. Available at: https://www.thenationalnews.com/news/mena/2025/05/07/turkey-intercepted-second-batch-of-pagers-rigged-with-explosives-after-israeli-attack-on-hezbollah
+      (Accessed: 14 September 2025). Thomas, G. (1999) Gideon’s Spies: The Secret History
+      of the Mossad. New York: St. Martin’s Press. Tweet'
+    one_sentence_summary: L'article souligne que malgré les promesses du Premier ministre
+      israélien Benjamin Netanyahou de traquer les dirigeants du Hamas et les bombardements
+      intensifiés à Gaza, la réalité est que l'invasion imminente met en danger la vie
+      des otages israéliens, tout en suggérant que Netanyahou cherche à se décharger
+      de la responsabilité des conséquences tragiques qui pourraient en découler.
+    paragraph_summary: L'article d'Elijah J. Magnier examine la dichotomie entre l'image
+      mythique du Mossad, le service de renseignement israélien, et la réalité de ses
+      échecs, notamment dans le contexte actuel du conflit avec le Hamas. Le Premier
+      ministre israélien Benjamin Netanyahou a promis de traquer les dirigeants du Hamas
+      en réponse à la prise d'otages, tout en préparant une invasion terrestre de Gaza
+      qui mettrait en péril la vie des otages restants. Malgré la réputation du Mossad
+      comme une organisation redoutable capable d'opérer à l'échelle mondiale, l'article
+      suggère que cette image est davantage le résultat d'une complaisance et d'une
+      protection par des gouvernements occidentaux que d'une réelle efficacité opérationnelle.
+      En fin de compte, la promesse de vengeance de Netanyahou face aux pertes d'otages
+      semble plus une tentative de détourner la responsabilité qu'une stratégie viable.
+    published: '2025-09-18T17:56:59+00:00'
+  - title: 'Israel’s Intelligence Service Mossad: The Myth of “Long Arms” and the Reality
+      of Failure'
+    url: https://ejmagnier.com/2025/09/18/israels-intelligence-service-mossad-the-myth-of-long-arms-and-the-reality-of-failure/
+    text: 'Tweet Israel’s Intelligence Service Mossad: The Myth of “Long Arms” and the
+      Reality of Failure By Elijah J. Magnier – Israel’s Prime Minister Benjamin Netanyahu
+      has vowed to “hunt down” Hamas leaders wherever they may be, warning that “their
+      lives will be short if a single hair of the Israeli hostages in Gaza City is harmed.”
+      At the same time, Israel is bombarding the city of one million inhabitants in
+      preparation for a ground invasion, forcing hundreds of thousands to flee. Yet
+      Hamas and other Palestinian groups have made clear they will not abandon their
+      positions. The eight or so hostages trapped in Gaza are therefore unlikely to
+      survive the Israeli advance, which requires the destruction of entire neighbourhoods.
+      In effect, Netanyahu and Israeli society know that the invasion amounts to a death
+      sentence for the captives. Anticipating this, Netanyahu is already shifting responsibility:
+      each time Hamas announces the death of a hostage, he frames it as a trigger for
+      vengeance, promising to eliminate Hamas leaders and boasting of Mossad’s “long
+      arm.” In fact, Mossad’s long arm, so often celebrated, is less a mark of strength
+      than a measure of how far others are willing to let Israel go. By invoking Mossad’s
+      “long arm” in this way, Netanyahu draws on a carefully constructed legend. For
+      decades, Israel’s intelligence service has cultivated a fearsome image: a clandestine
+      organisation able to strike anywhere in the world. Yet that reputation owes less
+      to flawless operations than to the shield of impunity it enjoys. Mossad benefits
+      from the protection of powerful Western governments, which rush to its defence
+      whenever its agents are exposed. It operates with forged identities and the most
+      advanced technologies, often acquired through allied research programmes, partner
+      intelligence services, and multinational corporations. When its operations fail—as
+      they often do—the damage is contained not by competence but by politics. Mossad’s
+      legend endures not because of its record, but because its patrons ensure the costs
+      of failure are never paid. The mythology of Mossad is sustained by films, novels,
+      and carefully planted leaks. Stories of daring missions, spectacular assassinations,
+      and deep-cover spies circulate freely. Israel encourages this aura because it
+      deters adversaries and impresses allies. Yet a closer look reveals a litany of
+      failed operations, botched assassinations, and bungled plots that exposed Mossad
+      agents and embarrassed their backers. The truth is simple: Mossad’s reach is long
+      only because the runway is cleared for it. Israel is gifted immunity when caught
+      red-handed. Passports can be forged because friendly countries look away. Arrested
+      agents are quietly returned home after diplomatic pressure. Advanced surveillance
+      systems and cyber-weapons are available because Western research institutions
+      open their doors. Without this protective shield, Mossad’s record would look less
+      like mastery and more like recklessness. One of Mossad’s most humiliating failures
+      unfolded in Jordan in September 1997. Agents attempted to assassinate Khaled Meshal,
+      a senior Hamas leader, by spraying a slow-acting poison into his ear as he walked
+      in Amman. The plot collapsed almost instantly. Meshal’s bodyguards chased down
+      and captured two Mossad operatives, while four others fled to the Israeli embassy.
+      King Hussein was enraged at the violation of Jordan’s sovereignty and placed the
+      peace treaty with Israel on the line. He told the Americans bluntly: “If Meshal
+      dies, the peace treaty dies with him.” U.S. President Bill Clinton intervened
+      personally, forcing Israel to hand over the antidote to save Meshal’s life. Netanyahu’s
+      government, humiliated, was forced to release Sheikh Ahmed Yassin, Hamas’s spiritual
+      leader, along with around 70 other prisoners, in exchange for the captured agents.
+      Instead of weakening Hamas, the operation revived it. Instead of projecting strength,
+      Mossad revealed incompetence and forced its closest ally to clean up the mess.
+      A similar debacle struck in Dubai in January 2010, when Hamas official Mahmoud
+      al-Mabhouh was found dead in his hotel room. The assassination bore Mossad’s fingerprints:
+      covert surveillance, coordinated entries and exits, and a fatal injection. Yet
+      Dubai’s security services quickly exposed the entire operation. CCTV footage showed
+      suspects moving awkwardly through lobbies, their wigs slipping, disguises comical.
+      Dubai police identified 26 suspects linked to the killing, most travelling under
+      forged passports. The scandal widened when it was revealed that Mossad had cloned
+      documents from friendly Western states: twelve British, six Irish, four French,
+      four Australian, and one German passport. The revelation outraged governments
+      whose citizens’ identities had been hijacked. Dubai police chief Dhahi Khalfan
+      accused Israel of “abusing the passports of nations who consider themselves friends
+      of Israel.” London expelled an Israeli diplomat; Ireland and Australia each expelled
+      senior Mossad representatives, including the agency’s station chief in Canberra.
+      Yet the consequences ended there. Within months, relations were quietly restored.
+      Mossad’s agents returned home, its leadership unscathed, and its methods unchanged.
+      The lesson was clear: Israel could compromise the security of its allies’ citizens
+      with little lasting penalty. The use of foreign passports has been a cornerstone
+      of Mossad tradecraft. Israeli operatives routinely travel on stolen or forged
+      identities from Europe, North America, and Australasia. This gives them access
+      where Israeli documents would raise suspicion, and ensures that if they are caught,
+      diplomatic pressure from the forged nationality’s government will intervene. Mossad’s
+      reach has always relied on others’ passports and others’ silence. But this reliance
+      has also led to fiascos. In 2004, two Mossad agents, Uriel Kelman and Eli Cara,
+      were arrested in New Zealand after attempting to fraudulently obtain passports
+      under the names of disabled citizens. Prime Minister Helen Clark was furious,
+      describing the incident as “an act of state-backed criminality.” The two were
+      sentenced to six months in prison before being deported. Diplomatic relations
+      froze, and Israel issued a rare apology. Yet, as in Dubai, the consequences were
+      temporary. New Zealand resumed ties, and Mossad continued to use Western identities
+      to cover its operations. The list of failures stretches further back. In 1973,
+      in Lillehammer, Norway, Mossad agents killed Ahmed Bouchiki, a Moroccan waiter
+      they mistakenly believed was Ali Hassan Salameh of Black September, responsible
+      for the Munich Olympics attack. Six agents were arrested, tried, and convicted.
+      Norwegian Prime Minister Trygve Bratteli called it “an appalling violation of
+      our sovereignty and of the rule of law.” Yet the convicted operatives served minimal
+      time—most were released within 22 months. Again, the agents went home, and Israel’s
+      allies ensured the damage did not last. In 1998, Swiss authorities caught Mossad
+      agents wiretapping what it was claimed to be a Hezbollah office in Berne. The
+      agents were arrested, the scandal splashed across Swiss media, and Israel’s foreign
+      minister, Ariel Sharon, was dispatched to apologise. Once again, exposure led
+      to temporary embarrassment but no meaningful cost. Mossad could continue operating
+      in Europe knowing its mistakes would be forgiven. The so-called “pager attack”
+      on Hezbollah was hailed in Israel as a masterstroke of intelligence and technical
+      creativity. Thousands of communication devices, used by Hezbollah fighters and
+      operatives, were rigged with small explosive charges and smuggled into Lebanon
+      disguised as ordinary imports. Yet such an operation cannot be explained by Israeli
+      cunning alone. Moving entire shipments of booby-trapped equipment across continents
+      and through multiple ports would be impossible without complicity, or at least
+      deliberate blindness, from other states. Every port has scanners, detection systems,
+      and customs officers trained to identify explosives. How then could crates of
+      thousands of lethal devices move from Asia to Turkey, and from there to Lebanon,
+      without interception? The answer lies in the exceptional protection Israel enjoys
+      from Western governments and allied intelligence networks. The illusion of Mossad’s
+      brilliance collapses when examining the logistics. The final shipment was exposed
+      in a Turkish harbour when Hezbollah informed the Turks, who confirmed the presence
+      of explosives and contained the risk. Israel was not punished for smuggling via
+      Turkey explosives to another country, violating multiple layers of international
+      and domestic law [1] . If Israel were relying solely on its own tradecraft, the
+      odds of detection at one of the many transit points would have been overwhelming.
+      Instead, the shipments were waved through, protected by the invisible hand of
+      allies who ensured they travelled uninspected and Israel was unaccountable for
+      its act. The attack’s temporary success owed less to Mossad’s genius than to the
+      infrastructure of impunity surrounding Israel. Intelligence sharing with the United
+      States and European partners provided cover stories and flagged containers to
+      be “cleared without inspection.” Shipping companies, many operating under Western
+      flags, turned a blind eye. Port authorities in Asia and the Mediterranean followed
+      signals not to interfere. When the devices finally reached Lebanon, the attack
+      was celebrated in Tel Aviv as a demonstration of reach and creativity. But in
+      truth it was proof of privilege: Mossad does not move through the world undetected
+      because it is invisible, but because others provide the cloak. This pattern is
+      not new. In the 1960s, Israel built its secret nuclear arsenal by exploiting the
+      same network of indulgence and protection. In 1968, the freighter Scheersberg
+      A , carrying 200 tons of yellowcake uranium from Antwerp, “disappeared” on route
+      to Italy before resurfacing empty — the cargo believed to have been diverted to
+      Israel’s Dimona reactor (Cohen, 1998; Hersh, 1991). Western intelligence agencies
+      knew but looked away. French and American research laboratories provided critical
+      technologies, while German and Norwegian companies were later exposed as suppliers
+      of heavy water and precision equipment. Each transaction could have been blocked
+      by allies applying the rules of non-proliferation. Instead, Israel was shielded,
+      allowing it to acquire a nuclear arsenal outside the Non-Proliferation Treaty.
+      The parallels with the pager attack are striking: logistical feats possible only
+      because powerful states ensured safe passage. The most recent debacle came in
+      2025, when Israel struck Doha, the capital of Qatar, killing five people, including
+      a Qatari and four Palestinians. Netanyahu, in a departure from Israel’s traditional
+      policy of denial, claimed responsibility openly. The strike was not only a violation
+      of a sovereign state but also an assault on mediation itself. Qatar, host of the
+      largest U.S. military base in the region, found itself attacked by a state that
+      Washington shields at every turn. For Mossad, which had provided the intelligence
+      for the strike, the fallout was another example of excess. The result was diplomatic
+      outrage, condemnation from across the Arab world, and yet again the certainty
+      that no real penalty would follow. Mossad’s reputation for long arms rests not
+      on infallibility but on political protection. Its failures are absorbed by governments
+      that prefer not to confront Israel. When agents are caught, they are released.
+      When operations go wrong, apologies are enough. The mythology persists because
+      powerful states collude in sustaining it. This collusion extends beyond diplomacy
+      to technology. Mossad enjoys privileged access to Western surveillance, cyber
+      capabilities, and research networks. The Stuxnet virus, used to sabotage Iran’s
+      nuclear programme, was developed jointly with U.S. agencies. Israeli hackers benefit
+      from information-sharing with the NSA and CIA, while intelligence from SIS (MI6)
+      and other European services flows routinely into Tel Aviv. Mossad’s agents carry
+      equipment developed in Silicon Valley labs, German and other European research
+      institutes, and British universities. Israeli drones cross borders because air
+      defences are ordered not to respond. Mossad can penetrate financial systems because
+      Western governments quietly open the databases. Its long arms are enabled by borrowed
+      hands. Yet this dependence also reveals fragility. Without the indulgence of allies,
+      Mossad’s operations would be crippled. A Russian or Iranian blunder on the scale
+      of Dubai or Amman would have led to sanctions, trials, and worldwide condemnation.
+      Mossad emerges from its failures because Washington, London, and Canberra rescue
+      it. The asymmetry encourages recklessness. Israeli operatives behave as though
+      rules do not apply because, in practice, they do not. Behind the mythology lies
+      a culture of carelessness. Mossad has long arms only because others clear the
+      path. Its immunity is its greatest asset. Without it, the agency would be remembered
+      less for daring exploits and more for reckless blunders that endangered allies
+      and undermined diplomacy. In reality, Mossad’s legend rests not on mastery of
+      the shadows but on the willingness of powerful nations to look away. Footnote:
+      [1] United Nations (1982) United Nations Convention on the Law of the Sea (UNCLOS)
+      , 10 December 1982, 1833 UNTS 397. Relevant provisions: Article 27 (criminal jurisdiction
+      over foreign ships in territorial seas), Article 94 (flag state duties), Article
+      108 (suppression of illicit traffic in narcotics as precedent for illicit cargo
+      control). Available at: https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf
+      (Accessed: 17 September 2025). International Maritime Organization (1988) Convention
+      for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation
+      (SUA Convention) , 10 March 1988, 1678 UNTS 221. Relevant provisions: Article
+      3(1)(f) criminalises the transport or placement of “any device or substance likely
+      to destroy or damage a ship or cargo” with intent to cause death, injury, or damage.
+      Available at: https://treaties.un.org/doc/Treaties/2005/04/20050428%2006-13%20AM/Ch_XII_16p.pdf(Accessed
+      : 17 September 2025). United Nations (1997) International Convention for the Suppression
+      of Terrorist Bombings , 15 December 1997, 2149 UNTS 256. Relevant provisions:
+      Article 2 defines unlawful and intentional delivery, placement, or detonation
+      of explosives in public or government facilities, including transport contexts.
+      Available at: https://treaties.un.org/doc/db/Terrorism/english-18-9.pdf (Accessed
+      : 17 September 2025). United Nations Security Council (2001) Resolution 1373 (2001)
+      , S/RES/1373 (28 September 2001). Relevant provisions: Paragraphs 1(b)–(d) obligate
+      all states to prevent and suppress financing, movement, and supply of weapons
+      or explosives to non-state actors. Available at: https://undocs.org/S/RES/1373(2001) (Accessed
+      : 17 September 2025). United Nations Security Council (2004) Resolution 1540 (2004)
+      , S/RES/1540 (28 April 2004). Relevant provisions: Paragraphs 2–3 require all
+      states to prevent proliferation of WMD, explosives, and related materials through
+      “effective border controls and law enforcement to detect, deter, prevent and combat…
+      illicit trafficking.” Available at: https://undocs.org/S/RES/1540(2004) (Accessed
+      : 17 September 2025). World Customs Organization (2007) SAFE Framework of Standards
+      to Secure and Facilitate Global Trade (as updated). Brussels: WCO. Relevant provisions:
+      Pillar I, Standard 1 and 3 establish obligations for customs administrations to
+      screen and interdict high-risk cargo, including explosives, across all supply
+      chains. Available at: https://www.wcoomd.org/en/topics/facilitation/instrument-and-tools/tools/safe_package.aspx(Accessed
+      : 17 September 2025). Bibliography: AP News (2025) ‘Turkey thwarted another attack
+      with pagers in Lebanon last year, officials say.’ AP News, 6 May. Available at:
+      https://apnews.com/article/e39b0dabaa1718606e238001ad9a31fa (Accessed: 14 September
+      2025). Arab News (2024) ‘Death toll in Lebanon pager-explosion attack rises to
+      12.’ Arab News, 18 September. Available at: https://www.arabnews.com/node/2571862/middle-east
+      (Accessed: 14 September 2025). Bachega, H. and Lukiv, J. (2025) ‘Qatar hosts Arab-Islamic
+      emergency summit over Israeli strike on Doha.’ BBC News, 15 September. Available
+      at: https://www.bbc.com/news/articles/c4gk8nx5nw3o (Accessed: 17 September 2025).
+      Bainerman, J. (1994) Inside the Covert Operations of the CIA & Israel’s Mossad.
+      Available at: https://www.academia.edu/46843346/Inside_the_covert_operations_of_the_CIA_Israels_Mossad_by_Joel_Bainerman
+      (Accessed: 17 September 2025). BBC News (2010) ‘Dubai murder: Police release list
+      of 26 suspects.’ BBC News, 24 February. Available at: http://news.bbc.co.uk/2/hi/middle_east/8533665.stm
+      (Accessed: 14 September 2025). Bergman, R. (2018) Rise and Kill First: The Secret
+      History of Israel’s Targeted Assassinations. London: John Murray. Black, I. and
+      Morris, B. (1991) Israel’s Secret Wars: A History of Israel’s Intelligence Services.
+      London: Grove Weidenfeld. Center for Israel Education (2025) Mossad Kills Wrong
+      Man in Norway, 21 July. Available at: https://israeled.org/mossad-kills-wrong-man-in-norway/
+      (Accessed: 17 September 2025). Fickling, D. (2004) ‘“Mossad spies” jailed over
+      New Zealand passport fraud.’ The Guardian, 16 July. Available at: https://www.theguardian.com/world/2004/jul/16/israel
+      (Accessed: 17 September 2025). Khalfan, D. (2010) Remarks on Mossad involvement
+      in the assassination of Mahmoud al-Mabhouh. Quoted in The Guardian, 18 February.
+      Available at: https://www.theguardian.com/world/2010/feb/18/dubai-police-certain-mossad-killing
+      (Accessed: 14 September 2025). LBC (2025) ‘Hezbollah tip off helps Turkey foil
+      plot to smuggle explosive pagers.’ LBC Group, May. Available at: https://www.lbcgroup.tv/news/news-bulletin-reports/852789/hezbollah-tip-off-helps-turkey-foil-plot-to-smuggle-explosive-pagers-i/en
+      (Accessed: 14 September 2025). Melman, Y. and Raviv, D. (2014) Spies Against Armageddon:
+      Inside Israel’s Secret Wars. New York: Levant Books. Minnesota Daily (1998) ‘Swiss
+      say suspected Mossad operation in Bern uncovered.’ The Minnesota Daily, 27 February.
+      Available at: https://mndaily.com/201889/uncategorized/swiss-say-suspected-mossad-operation-bern-uncovered/
+      (Accessed: 17 September 2025). New York Times (1997) ‘Israel frees ailing Hamas
+      founder to Jordan, at Hussein’s request.’ The New York Times, 1 October. Available
+      at: https://www.nytimes.com/1997/10/01/world/israel-frees-ailing-hamas-founder-to-jordan-at-hussein-s-request.html
+      (Accessed: 17 September 2025). New Zealand Herald (2004) ‘Israelis jailed for
+      six months on passport fraud charge.’ The New Zealand Herald, 16 July. Available
+      at: https://www.nzherald.co.nz/nz/israelis-jailed-for-six-months-on-passport-fraud-charge/KEQRWZ3PBVGUF3FW46KBM5CWNI/
+      (Accessed: 17 September 2025). Ostrovsky, V. and Hoy, C. (1990) By Way of Deception:
+      The Making and Unmaking of a Mossad Officer. New York: St. Martin’s Press. Reuters
+      (2024) ‘Israel planted explosives in Hezbollah’s Taiwan-made pagers, say sources.’
+      Reuters, 18 September. Available at: https://www.reuters.com/world/middle-east/israel-planted-explosives-hezbollahs-taiwan-made-pagers-say-sources-2024-09-18
+      (Accessed: 14 September 2025). The Guardian (2010) ‘‘Compelling evidence’ Israel
+      was behind misuse of UK passports in Hamas hit – David Miliband.’ The Guardian,
+      23 March. Available at: https://www.theguardian.com/world/2010/mar/23/uk-expel-israeli-diplomat-passport
+      (Accessed: 16 September 2025). The National (2025) ‘Turkey intercepted second
+      batch of pagers rigged with explosives after Israeli attack on Hezbollah.’ The
+      National News, 7 May. Available at: https://www.thenationalnews.com/news/mena/2025/05/07/turkey-intercepted-second-batch-of-pagers-rigged-with-explosives-after-israeli-attack-on-hezbollah
+      (Accessed: 14 September 2025). Thomas, G. (1999) Gideon’s Spies: The Secret History
+      of the Mossad. New York: St. Martin’s Press. [1] United Nations (1982) United
+      Nations Convention on the Law of the Sea (UNCLOS) , 10 December 1982, 1833 UNTS
+      397. Relevant provisions: Article 27 (criminal jurisdiction over foreign ships
+      in territorial seas), Article 94 (flag state duties), Article 108 (suppression
+      of illicit traffic in narcotics as precedent for illicit cargo control). Available
+      at: https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf
+      (Accessed: 17 September 2025). International Maritime Organization (1988) Convention
+      for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation
+      (SUA Convention) , 10 March 1988, 1678 UNTS 221. Relevant provisions: Article
+      3(1)(f) criminalises the transport or placement of “any device or substance likely
+      to destroy or damage a ship or cargo” with intent to cause death, injury, or damage.
+      Available at: https://treaties.un.org/doc/Treaties/2005/04/20050428%2006-13%20AM/Ch_XII_16p.pdf(Accessed
+      : 17 September 2025). United Nations (1997) International Convention for the Suppression
+      of Terrorist Bombings , 15 December 1997, 2149 UNTS 256. Relevant provisions:
+      Article 2 defines unlawful and intentional delivery, placement, or detonation
+      of explosives in public or government facilities, including transport contexts.
+      Available at: https://treaties.un.org/doc/db/Terrorism/english-18-9.pdf (Accessed
+      : 17 September 2025). United Nations Security Council (2001) Resolution 1373 (2001)
+      , S/RES/1373 (28 September 2001). Relevant provisions: Paragraphs 1(b)–(d) obligate
+      all states to prevent and suppress financing, movement, and supply of weapons
+      or explosives to non-state actors. Available at: https://undocs.org/S/RES/1373(2001) (Accessed
+      : 17 September 2025). United Nations Security Council (2004) Resolution 1540 (2004)
+      , S/RES/1540 (28 April 2004). Relevant provisions: Paragraphs 2–3 require all
+      states to prevent proliferation of WMD, explosives, and related materials through
+      “effective border controls and law enforcement to detect, deter, prevent and combat…
+      illicit trafficking.” Available at: https://undocs.org/S/RES/1540(2004) (Accessed
+      : 17 September 2025). World Customs Organization (2007) SAFE Framework of Standards
+      to Secure and Facilitate Global Trade (as updated). Brussels: WCO. Relevant provisions:
+      Pillar I, Standard 1 and 3 establish obligations for customs administrations to
+      screen and interdict high-risk cargo, including explosives, across all supply
+      chains. Available at: https://www.wcoomd.org/en/topics/facilitation/instrument-and-tools/tools/safe_package.aspx(Accessed
+      : 17 September 2025). Subscribe Make a one-time donation Your contribution is
+      appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Israeli Prime Minister Benjamin Netanyahu has vowed to eliminate
+      Hamas leaders while conducting a bombardment of Gaza that threatens the lives
+      of hostages, leading to a grim outlook for their survival amidst the impending
+      ground invasion.
+    paragraph_summary: In an article by Elijah J. Magnier, Israel's Prime Minister Benjamin
+      Netanyahu is depicted as intensifying military actions against Hamas in Gaza while
+      simultaneously acknowledging the likely death of hostages trapped in the conflict.
+      Netanyahu's rhetoric emphasizes a commitment to "hunt down" Hamas leaders, framing
+      the situation as a justification for vengeance whenever hostages are reported
+      dead. The article critiques the myth of Mossad's "long arm," suggesting that its
+      feared reputation is more a product of political protection and the willingness
+      of Western governments to shield it from accountability than of its operational
+      success. Mossad's image as a powerful intelligence agency is portrayed as reliant
+      on a combination of advanced technology, forged identities, and political maneuvering,
+      rather than on a record of flawless operations.
+    published: '2025-09-18T17:53:40+00:00'
+  - title: 'Israel’s Intelligence Service Mossad: The Myth of “Long Arms” and the Reality
+      of Failure'
+    url: https://ejmagnier.com/2025/09/18/israels-intelligence-service-mossad-the-myth-of-long-arms-and-the-reality-of-failure/
+    text: 'Tweet Israel’s Intelligence Service Mossad: The Myth of “Long Arms” and the
+      Reality of Failure By Elijah J. Magnier – Israel’s Prime Minister Benjamin Netanyahu
+      has vowed to “hunt down” Hamas leaders wherever they may be, warning that “their
+      lives will be short if a single hair of the Israeli hostages in Gaza City is harmed.”
+      At the same time, Israel is bombarding the city of one million inhabitants in
+      preparation for a ground invasion, forcing hundreds of thousands to flee. Yet
+      Hamas and other Palestinian groups have made clear they will not abandon their
+      positions. The eight or so hostages trapped in Gaza are therefore unlikely to
+      survive the Israeli advance, which requires the destruction of entire neighbourhoods.
+      In effect, Netanyahu and Israeli society know that the invasion amounts to a death
+      sentence for the captives. Anticipating this, Netanyahu is already shifting responsibility:
+      each time Hamas announces the death of a hostage, he frames it as a trigger for
+      vengeance, promising to eliminate Hamas leaders and boasting of Mossad’s “long
+      arm.” In fact, Mossad’s long arm, so often celebrated, is less a mark of strength
+      than a measure of how far others are willing to let Israel go. By invoking Mossad’s
+      “long arm” in this way, Netanyahu draws on a carefully constructed legend. For
+      decades, Israel’s intelligence service has cultivated a fearsome image: a clandestine
+      organisation able to strike anywhere in the world. Yet that reputation owes less
+      to flawless operations than to the shield of impunity it enjoys. Mossad benefits
+      from the protection of powerful Western governments, which rush to its defence
+      whenever its agents are exposed. It operates with forged identities and the most
+      advanced technologies, often acquired through allied research programmes, partner
+      intelligence services, and multinational corporations. When its operations fail—as
+      they often do—the damage is contained not by competence but by politics. Mossad’s
+      legend endures not because of its record, but because its patrons ensure the costs
+      of failure are never paid. The mythology of Mossad is sustained by films, novels,
+      and carefully planted leaks. Stories of daring missions, spectacular assassinations,
+      and deep-cover spies circulate freely. Israel encourages this aura because it
+      deters adversaries and impresses allies. Yet a closer look reveals a litany of
+      failed operations, botched assassinations, and bungled plots that exposed Mossad
+      agents and embarrassed their backers. The truth is simple: Mossad’s reach is long
+      only because the runway is cleared for it. Israel is gifted immunity when caught
+      red-handed. Passports can be forged because friendly countries look away. Arrested
+      agents are quietly returned home after diplomatic pressure. Advanced surveillance
+      systems and cyber-weapons are available because Western research institutions
+      open their doors. Without this protective shield, Mossad’s record would look less
+      like mastery and more like recklessness. One of Mossad’s most humiliating failures
+      unfolded in Jordan in September 1997. Agents attempted to assassinate Khaled Meshal,
+      a senior Hamas leader, by spraying a slow-acting poison into his ear as he walked
+      in Amman. The plot collapsed almost instantly. Meshal’s bodyguards chased down
+      and captured two Mossad operatives, while four others fled to the Israeli embassy.
+      King Hussein was enraged at the violation of Jordan’s sovereignty and placed the
+      peace treaty with Israel on the line. He told the Americans bluntly: “If Meshal
+      dies, the peace treaty dies with him.” U.S. President Bill Clinton intervened
+      personally, forcing Israel to hand over the antidote to save Meshal’s life. Netanyahu’s
+      government, humiliated, was forced to release Sheikh Ahmed Yassin, Hamas’s spiritual
+      leader, along with around 70 other prisoners, in exchange for the captured agents.
+      Instead of weakening Hamas, the operation revived it. Instead of projecting strength,
+      Mossad revealed incompetence and forced its closest ally to clean up the mess.
+      A similar debacle struck in Dubai in January 2010, when Hamas official Mahmoud
+      al-Mabhouh was found dead in his hotel room. The assassination bore Mossad’s fingerprints:
+      covert surveillance, coordinated entries and exits, and a fatal injection. Yet
+      Dubai’s security services quickly exposed the entire operation. CCTV footage showed
+      suspects moving awkwardly through lobbies, their wigs slipping, disguises comical.
+      Dubai police identified 26 suspects linked to the killing, most travelling under
+      forged passports. The scandal widened when it was revealed that Mossad had cloned
+      documents from friendly Western states: twelve British, six Irish, four French,
+      four Australian, and one German passport. The revelation outraged governments
+      whose citizens’ identities had been hijacked. Dubai police chief Dhahi Khalfan
+      accused Israel of “abusing the passports of nations who consider themselves friends
+      of Israel.” London expelled an Israeli diplomat; Ireland and Australia each expelled
+      senior Mossad representatives, including the agency’s station chief in Canberra.
+      Yet the consequences ended there. Within months, relations were quietly restored.
+      Mossad’s agents returned home, its leadership unscathed, and its methods unchanged.
+      The lesson was clear: Israel could compromise the security of its allies’ citizens
+      with little lasting penalty. The use of foreign passports has been a cornerstone
+      of Mossad tradecraft. Israeli operatives routinely travel on stolen or forged
+      identities from Europe, North America, and Australasia. This gives them access
+      where Israeli documents would raise suspicion, and ensures that if they are caught,
+      diplomatic pressure from the forged nationality’s government will intervene. Mossad’s
+      reach has always relied on others’ passports and others’ silence. But this reliance
+      has also led to fiascos. In 2004, two Mossad agents, Uriel Kelman and Eli Cara,
+      were arrested in New Zealand after attempting to fraudulently obtain passports
+      under the names of disabled citizens. Prime Minister Helen Clark was furious,
+      describing the incident as “an act of state-backed criminality.” The two were
+      sentenced to six months in prison before being deported. Diplomatic relations
+      froze, and Israel issued a rare apology. Yet, as in Dubai, the consequences were
+      temporary. New Zealand resumed ties, and Mossad continued to use Western identities
+      to cover its operations. The list of failures stretches further back. In 1973,
+      in Lillehammer, Norway, Mossad agents killed Ahmed Bouchiki, a Moroccan waiter
+      they mistakenly believed was Ali Hassan Salameh of Black September, responsible
+      for the Munich Olympics attack. Six agents were arrested, tried, and convicted.
+      Norwegian Prime Minister Trygve Bratteli called it “an appalling violation of
+      our sovereignty and of the rule of law.” Yet the convicted operatives served minimal
+      time—most were released within 22 months. Again, the agents went home, and Israel’s
+      allies ensured the damage did not last. In 1998, Swiss authorities caught Mossad
+      agents wiretapping what it was claimed to be a Hezbollah office in Berne. The
+      agents were arrested, the scandal splashed across Swiss media, and Israel’s foreign
+      minister, Ariel Sharon, was dispatched to apologise. Once again, exposure led
+      to temporary embarrassment but no meaningful cost. Mossad could continue operating
+      in Europe knowing its mistakes would be forgiven. The so-called “pager attack”
+      on Hezbollah was hailed in Israel as a masterstroke of intelligence and technical
+      creativity. Thousands of communication devices, used by Hezbollah fighters and
+      operatives, were rigged with small explosive charges and smuggled into Lebanon
+      disguised as ordinary imports. Yet such an operation cannot be explained by Israeli
+      cunning alone. Moving entire shipments of booby-trapped equipment across continents
+      and through multiple ports would be impossible without complicity, or at least
+      deliberate blindness, from other states. Every port has scanners, detection systems,
+      and customs officers trained to identify explosives. How then could crates of
+      thousands of lethal devices move from Asia to Turkey, and from there to Lebanon,
+      without interception? The answer lies in the exceptional protection Israel enjoys
+      from Western governments and allied intelligence networks. The illusion of Mossad’s
+      brilliance collapses when examining the logistics. The final shipment was exposed
+      in a Turkish harbour when Hezbollah informed the Turks, who confirmed the presence
+      of explosives and contained the risk. Israel was not punished for smuggling via
+      Turkey explosives to another country, violating multiple layers of international
+      and domestic law [1] . If Israel were relying solely on its own tradecraft, the
+      odds of detection at one of the many transit points would have been overwhelming.
+      Instead, the shipments were waved through, protected by the invisible hand of
+      allies who ensured they travelled uninspected and Israel was unaccountable for
+      its act. The attack’s temporary success owed less to Mossad’s genius than to the
+      infrastructure of impunity surrounding Israel. Intelligence sharing with the United
+      States and European partners provided cover stories and flagged containers to
+      be “cleared without inspection.” Shipping companies, many operating under Western
+      flags, turned a blind eye. Port authorities in Asia and the Mediterranean followed
+      signals not to interfere. When the devices finally reached Lebanon, the attack
+      was celebrated in Tel Aviv as a demonstration of reach and creativity. But in
+      truth it was proof of privilege: Mossad does not move through the world undetected
+      because it is invisible, but because others provide the cloak. This pattern is
+      not new. In the 1960s, Israel built its secret nuclear arsenal by exploiting the
+      same network of indulgence and protection. In 1968, the freighter Scheersberg
+      A , carrying 200 tons of yellowcake uranium from Antwerp, “disappeared” on route
+      to Italy before resurfacing empty — the cargo believed to have been diverted to
+      Israel’s Dimona reactor (Cohen, 1998; Hersh, 1991). Western intelligence agencies
+      knew but looked away. French and American research laboratories provided critical
+      technologies, while German and Norwegian companies were later exposed as suppliers
+      of heavy water and precision equipment. Each transaction could have been blocked
+      by allies applying the rules of non-proliferation. Instead, Israel was shielded,
+      allowing it to acquire a nuclear arsenal outside the Non-Proliferation Treaty.
+      The parallels with the pager attack are striking: logistical feats possible only
+      because powerful states ensured safe passage. The most recent debacle came in
+      2025, when Israel struck Doha, the capital of Qatar, killing five people, including
+      a Qatari and four Palestinians. Netanyahu, in a departure from Israel’s traditional
+      policy of denial, claimed responsibility openly. The strike was not only a violation
+      of a sovereign state but also an assault on mediation itself. Qatar, host of the
+      largest U.S. military base in the region, found itself attacked by a state that
+      Washington shields at every turn. For Mossad, which had provided the intelligence
+      for the strike, the fallout was another example of excess. The result was diplomatic
+      outrage, condemnation from across the Arab world, and yet again the certainty
+      that no real penalty would follow. Mossad’s reputation for long arms rests not
+      on infallibility but on political protection. Its failures are absorbed by governments
+      that prefer not to confront Israel. When agents are caught, they are released.
+      When operations go wrong, apologies are enough. The mythology persists because
+      powerful states collude in sustaining it. This collusion extends beyond diplomacy
+      to technology. Mossad enjoys privileged access to Western surveillance, cyber
+      capabilities, and research networks. The Stuxnet virus, used to sabotage Iran’s
+      nuclear programme, was developed jointly with U.S. agencies. Israeli hackers benefit
+      from information-sharing with the NSA and CIA, while intelligence from SIS (MI6)
+      and other European services flows routinely into Tel Aviv. Mossad’s agents carry
+      equipment developed in Silicon Valley labs, German and other European research
+      institutes, and British universities. Israeli drones cross borders because air
+      defences are ordered not to respond. Mossad can penetrate financial systems because
+      Western governments quietly open the databases. Its long arms are enabled by borrowed
+      hands. Yet this dependence also reveals fragility. Without the indulgence of allies,
+      Mossad’s operations would be crippled. A Russian or Iranian blunder on the scale
+      of Dubai or Amman would have led to sanctions, trials, and worldwide condemnation.
+      Mossad emerges from its failures because Washington, London, and Canberra rescue
+      it. The asymmetry encourages recklessness. Israeli operatives behave as though
+      rules do not apply because, in practice, they do not. Behind the mythology lies
+      a culture of carelessness. Mossad has long arms only because others clear the
+      path. Its immunity is its greatest asset. Without it, the agency would be remembered
+      less for daring exploits and more for reckless blunders that endangered allies
+      and undermined diplomacy. In reality, Mossad’s legend rests not on mastery of
+      the shadows but on the willingness of powerful nations to look away. Footnote:
+      [1] United Nations (1982) United Nations Convention on the Law of the Sea (UNCLOS)
+      , 10 December 1982, 1833 UNTS 397. Relevant provisions: Article 27 (criminal jurisdiction
+      over foreign ships in territorial seas), Article 94 (flag state duties), Article
+      108 (suppression of illicit traffic in narcotics as precedent for illicit cargo
+      control). Available at: https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf
+      (Accessed: 17 September 2025). International Maritime Organization (1988) Convention
+      for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation
+      (SUA Convention) , 10 March 1988, 1678 UNTS 221. Relevant provisions: Article
+      3(1)(f) criminalises the transport or placement of “any device or substance likely
+      to destroy or damage a ship or cargo” with intent to cause death, injury, or damage.
+      Available at: https://treaties.un.org/doc/Treaties/2005/04/20050428%2006-13%20AM/Ch_XII_16p.pdf(Accessed
+      : 17 September 2025). United Nations (1997) International Convention for the Suppression
+      of Terrorist Bombings , 15 December 1997, 2149 UNTS 256. Relevant provisions:
+      Article 2 defines unlawful and intentional delivery, placement, or detonation
+      of explosives in public or government facilities, including transport contexts.
+      Available at: https://treaties.un.org/doc/db/Terrorism/english-18-9.pdf (Accessed
+      : 17 September 2025). United Nations Security Council (2001) Resolution 1373 (2001)
+      , S/RES/1373 (28 September 2001). Relevant provisions: Paragraphs 1(b)–(d) obligate
+      all states to prevent and suppress financing, movement, and supply of weapons
+      or explosives to non-state actors. Available at: https://undocs.org/S/RES/1373(2001) (Accessed
+      : 17 September 2025). United Nations Security Council (2004) Resolution 1540 (2004)
+      , S/RES/1540 (28 April 2004). Relevant provisions: Paragraphs 2–3 require all
+      states to prevent proliferation of WMD, explosives, and related materials through
+      “effective border controls and law enforcement to detect, deter, prevent and combat…
+      illicit trafficking.” Available at: https://undocs.org/S/RES/1540(2004) (Accessed
+      : 17 September 2025). World Customs Organization (2007) SAFE Framework of Standards
+      to Secure and Facilitate Global Trade (as updated). Brussels: WCO. Relevant provisions:
+      Pillar I, Standard 1 and 3 establish obligations for customs administrations to
+      screen and interdict high-risk cargo, including explosives, across all supply
+      chains. Available at: https://www.wcoomd.org/en/topics/facilitation/instrument-and-tools/tools/safe_package.aspx(Accessed
+      : 17 September 2025). Bibliography: AP News (2025) ‘Turkey thwarted another attack
+      with pagers in Lebanon last year, officials say.’ AP News, 6 May. Available at:
+      https://apnews.com/article/e39b0dabaa1718606e238001ad9a31fa (Accessed: 14 September
+      2025). Arab News (2024) ‘Death toll in Lebanon pager-explosion attack rises to
+      12.’ Arab News, 18 September. Available at: https://www.arabnews.com/node/2571862/middle-east
+      (Accessed: 14 September 2025). Bachega, H. and Lukiv, J. (2025) ‘Qatar hosts Arab-Islamic
+      emergency summit over Israeli strike on Doha.’ BBC News, 15 September. Available
+      at: https://www.bbc.com/news/articles/c4gk8nx5nw3o (Accessed: 17 September 2025).
+      Bainerman, J. (1994) Inside the Covert Operations of the CIA & Israel’s Mossad.
+      Available at: https://www.academia.edu/46843346/Inside_the_covert_operations_of_the_CIA_Israels_Mossad_by_Joel_Bainerman
+      (Accessed: 17 September 2025). BBC News (2010) ‘Dubai murder: Police release list
+      of 26 suspects.’ BBC News, 24 February. Available at: http://news.bbc.co.uk/2/hi/middle_east/8533665.stm
+      (Accessed: 14 September 2025). Bergman, R. (2018) Rise and Kill First: The Secret
+      History of Israel’s Targeted Assassinations. London: John Murray. Black, I. and
+      Morris, B. (1991) Israel’s Secret Wars: A History of Israel’s Intelligence Services.
+      London: Grove Weidenfeld. Center for Israel Education (2025) Mossad Kills Wrong
+      Man in Norway, 21 July. Available at: https://israeled.org/mossad-kills-wrong-man-in-norway/
+      (Accessed: 17 September 2025). Fickling, D. (2004) ‘“Mossad spies” jailed over
+      New Zealand passport fraud.’ The Guardian, 16 July. Available at: https://www.theguardian.com/world/2004/jul/16/israel
+      (Accessed: 17 September 2025). Khalfan, D. (2010) Remarks on Mossad involvement
+      in the assassination of Mahmoud al-Mabhouh. Quoted in The Guardian, 18 February.
+      Available at: https://www.theguardian.com/world/2010/feb/18/dubai-police-certain-mossad-killing
+      (Accessed: 14 September 2025). LBC (2025) ‘Hezbollah tip off helps Turkey foil
+      plot to smuggle explosive pagers.’ LBC Group, May. Available at: https://www.lbcgroup.tv/news/news-bulletin-reports/852789/hezbollah-tip-off-helps-turkey-foil-plot-to-smuggle-explosive-pagers-i/en
+      (Accessed: 14 September 2025). Melman, Y. and Raviv, D. (2014) Spies Against Armageddon:
+      Inside Israel’s Secret Wars. New York: Levant Books. Minnesota Daily (1998) ‘Swiss
+      say suspected Mossad operation in Bern uncovered.’ The Minnesota Daily, 27 February.
+      Available at: https://mndaily.com/201889/uncategorized/swiss-say-suspected-mossad-operation-bern-uncovered/
+      (Accessed: 17 September 2025). New York Times (1997) ‘Israel frees ailing Hamas
+      founder to Jordan, at Hussein’s request.’ The New York Times, 1 October. Available
+      at: https://www.nytimes.com/1997/10/01/world/israel-frees-ailing-hamas-founder-to-jordan-at-hussein-s-request.html
+      (Accessed: 17 September 2025). New Zealand Herald (2004) ‘Israelis jailed for
+      six months on passport fraud charge.’ The New Zealand Herald, 16 July. Available
+      at: https://www.nzherald.co.nz/nz/israelis-jailed-for-six-months-on-passport-fraud-charge/KEQRWZ3PBVGUF3FW46KBM5CWNI/
+      (Accessed: 17 September 2025). Ostrovsky, V. and Hoy, C. (1990) By Way of Deception:
+      The Making and Unmaking of a Mossad Officer. New York: St. Martin’s Press. Reuters
+      (2024) ‘Israel planted explosives in Hezbollah’s Taiwan-made pagers, say sources.’
+      Reuters, 18 September. Available at: https://www.reuters.com/world/middle-east/israel-planted-explosives-hezbollahs-taiwan-made-pagers-say-sources-2024-09-18
+      (Accessed: 14 September 2025). The Guardian (2010) ‘‘Compelling evidence’ Israel
+      was behind misuse of UK passports in Hamas hit – David Miliband.’ The Guardian,
+      23 March. Available at: https://www.theguardian.com/world/2010/mar/23/uk-expel-israeli-diplomat-passport
+      (Accessed: 16 September 2025). The National (2025) ‘Turkey intercepted second
+      batch of pagers rigged with explosives after Israeli attack on Hezbollah.’ The
+      National News, 7 May. Available at: https://www.thenationalnews.com/news/mena/2025/05/07/turkey-intercepted-second-batch-of-pagers-rigged-with-explosives-after-israeli-attack-on-hezbollah
+      (Accessed: 14 September 2025). Thomas, G. (1999) Gideon’s Spies: The Secret History
+      of the Mossad. New York: St. Martin’s Press. [1] United Nations (1982) United
+      Nations Convention on the Law of the Sea (UNCLOS) , 10 December 1982, 1833 UNTS
+      397. Relevant provisions: Article 27 (criminal jurisdiction over foreign ships
+      in territorial seas), Article 94 (flag state duties), Article 108 (suppression
+      of illicit traffic in narcotics as precedent for illicit cargo control). Available
+      at: https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf
+      (Accessed: 17 September 2025). International Maritime Organization (1988) Convention
+      for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation
+      (SUA Convention) , 10 March 1988, 1678 UNTS 221. Relevant provisions: Article
+      3(1)(f) criminalises the transport or placement of “any device or substance likely
+      to destroy or damage a ship or cargo” with intent to cause death, injury, or damage.
+      Available at: https://treaties.un.org/doc/Treaties/2005/04/20050428%2006-13%20AM/Ch_XII_16p.pdf(Accessed
+      : 17 September 2025). United Nations (1997) International Convention for the Suppression
+      of Terrorist Bombings , 15 December 1997, 2149 UNTS 256. Relevant provisions:
+      Article 2 defines unlawful and intentional delivery, placement, or detonation
+      of explosives in public or government facilities, including transport contexts.
+      Available at: https://treaties.un.org/doc/db/Terrorism/english-18-9.pdf (Accessed
+      : 17 September 2025). United Nations Security Council (2001) Resolution 1373 (2001)
+      , S/RES/1373 (28 September 2001). Relevant provisions: Paragraphs 1(b)–(d) obligate
+      all states to prevent and suppress financing, movement, and supply of weapons
+      or explosives to non-state actors. Available at: https://undocs.org/S/RES/1373(2001) (Accessed
+      : 17 September 2025). United Nations Security Council (2004) Resolution 1540 (2004)
+      , S/RES/1540 (28 April 2004). Relevant provisions: Paragraphs 2–3 require all
+      states to prevent proliferation of WMD, explosives, and related materials through
+      “effective border controls and law enforcement to detect, deter, prevent and combat…
+      illicit trafficking.” Available at: https://undocs.org/S/RES/1540(2004) (Accessed
+      : 17 September 2025). World Customs Organization (2007) SAFE Framework of Standards
+      to Secure and Facilitate Global Trade (as updated). Brussels: WCO. Relevant provisions:
+      Pillar I, Standard 1 and 3 establish obligations for customs administrations to
+      screen and interdict high-risk cargo, including explosives, across all supply
+      chains. Available at: https://www.wcoomd.org/en/topics/facilitation/instrument-and-tools/tools/safe_package.aspx(Accessed
+      : 17 September 2025). Subscribe Make a one-time donation Your contribution is
+      appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Israeli Prime Minister Benjamin Netanyahu has vowed to eliminate
+      Hamas leaders while conducting a bombardment of Gaza that threatens the lives
+      of hostages, leading to a grim outlook for their survival amidst the impending
+      ground invasion.
+    paragraph_summary: In an article by Elijah J. Magnier, Israel's Prime Minister Benjamin
+      Netanyahu is depicted as intensifying military actions against Hamas in Gaza while
+      simultaneously acknowledging the likely death of hostages trapped in the conflict.
+      Netanyahu's rhetoric emphasizes a commitment to "hunt down" Hamas leaders, framing
+      the situation as a justification for vengeance whenever hostages are reported
+      dead. The article critiques the myth of Mossad's "long arm," suggesting that its
+      feared reputation is more a product of political protection and the willingness
+      of Western governments to shield it from accountability than of its operational
+      success. Mossad's image as a powerful intelligence agency is portrayed as reliant
+      on a combination of advanced technology, forged identities, and political maneuvering,
+      rather than on a record of flawless operations.
+    published: '2025-09-18T17:53:40+00:00'
+  - title: Israel beginnt mit der ethnischen Säuberung von Gaza-Stadt und dem Weg, der
+      zur Tötung aller israelischen Geiseln führt
+    url: https://ejmagnier.com/2025/09/18/israel-beginnt-mit-der-ethnischen-sauberung-von-gaza-stadt-und-dem-weg-der-zur-totung-aller-israelischen-geiseln-fuhrt/
+    text: 'Tweet Von Elijah J. Magnier – Die ethnische Säuberung der Palästinenser begann
+      mit der Intensivierung der israelischen Bombardements gegen Gaza-Stadt, dem Auftakt
+      zu einer Invasion und Besetzung, die viele Monate, vielleicht sogar ein Jahr dauern
+      könnte. Im Osten der Stadt sind Hunderttausende Menschen – schätzungsweise mehr
+      als 600.000 – in überfüllten Räumen ohne Infrastruktur, ohne Unterkunft und ohne
+      sicherere Zuflucht irgendwo im Gazastreifen zusammengepfercht. Rund 400.000 Palästinenser
+      konnten der unmittelbaren Zerstörung durch die israelischen Bombardements der
+      Stadt entkommen und flohen in unsichere und unausgestattete Gebiete, wo der Tod
+      langsamer eintritt. Die übrige Bevölkerung von Gaza-Stadt ist in dem Gebiet gefangen,
+      das zum dichtesten urbanen Schlachtfeld der Welt geworden ist und in dem in Friedenszeiten
+      normalerweise fast eine Million Menschen lebten. Die menschlichen Kosten sind
+      erschütternd und steigen von Minute zu Minute, wobei täglich mehr als 100 Palästinenser
+      getötet werden. Die Strategie der israelischen Armee zielt darauf ab, das eigene
+      Risiko zu verringern, indem sie sowohl Zivilisten als auch Infrastruktur mit überwältigender
+      Feuerkraft angreift. Gaza-Stadt ist dazu bestimmt, das gleiche Schicksal wie Rafah
+      (südlich von Gaza) zu erleiden, das zu Beginn des Konflikts in Schutt und Asche
+      gelegt wurde. Das Ziel ist klar: die Stadt zu entvölkern, ganze Stadtteile dem
+      Erdboden gleichzumachen und den Boden für die mögliche Rückkehr der israelischen
+      Siedler zu bereiten, die sich 2005 zurückgezogen hatten. Mehr als zwei Millionen
+      Palästinenser werden in eine immer kleiner werdende Enklave gedrängt, in begrenzte
+      Gebiete im Süden, in denen ein Leben nicht mehr möglich ist. Die unvermeidliche
+      Folge ist eine gewaltsame Flucht – entweder über die Grenzen in Nachbarstaaten
+      oder in die umliegenden Wüsten. Netanjahu bereitet sorgfältig seinen endgültigen
+      Plan vor, alle Palästinenser aus Gaza zu vertreiben, wenn das Leben dort unmöglich
+      wird. Israel hat enorme militärische Ressourcen mobilisiert, um diese Invasionskampagne
+      durchzuführen. Die Divisionen 162 und 98 führen die Operationen im Norden und
+      Süden von Gaza-Stadt an, während die Divisionen 36, 143 und die Gaza-Division
+      im Osten in Bereitschaft und in Reserve bleiben, um den Angriff zu verstärken.
+      Um eine derart groß angelegte Invasion aufrechtzuerhalten, hat die Armee zusätzlich
+      zu ihren Berufssoldaten 60.000 Reservisten einberufen. Der Einsatz solch massiver
+      Streitkräfte dient einem doppelten Zweck: die Palästinenser durch Terror zur Unterwerfung
+      zu zwingen und den israelischen Truppen zu versichern, dass sie abgelöst und ersetzt
+      werden, sollte der Krieg länger als erwartet dauern. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Die ethnische Säuberung der Palästinenser in Gaza hat mit
+      intensiven israelischen Bombardements begonnen, die Hunderttausende in überfüllte
+      und unsichere Räume treiben, während die humanitäre Krise und die Todeszahlen
+      täglich steigen.
+    paragraph_summary: Elijah J. Magnier beschreibt in einem Tweet die eskalierende
+      ethnische Säuberung der Palästinenser in Gaza, die mit intensiven israelischen
+      Bombardements gegen Gaza-Stadt begann und möglicherweise zu einer langanhaltenden
+      Invasion führen könnte. Hunderttausende Menschen, darunter über 600.000, sind
+      in überfüllten und infrastrukturell unzureichenden Räumen gefangen, während etwa
+      400.000 in unsichere Gebiete geflohen sind. Die humanitäre Lage ist katastrophal,
+      mit täglich über 100 Toten, und die israelische Militärstrategie zielt darauf
+      ab, Zivilisten und Infrastruktur mit überwältigender Feuerkraft zu attackieren,
+      um die Stadt zu entvölkern und Platz für eine mögliche Rückkehr israelischer Siedler
+      zu schaffen. Die Situation zwingt mehr als zwei Millionen Palästinenser in immer
+      kleinere Enklaven, während Premierminister Netanjahu einen Plan zur Vertreibung
+      aller Palästinenser aus Gaza vorbereitet, wenn das Leben dort unhaltbar wird.
+    published: '2025-09-18T17:40:47+00:00'
+  - title: Israel beginnt mit der ethnischen Säuberung von Gaza-Stadt und dem Weg, der
+      zur Tötung aller israelischen Geiseln führt
+    url: https://ejmagnier.com/2025/09/18/israel-beginnt-mit-der-ethnischen-sauberung-von-gaza-stadt-und-dem-weg-der-zur-totung-aller-israelischen-geiseln-fuhrt/
+    text: 'Tweet Von Elijah J. Magnier – Die ethnische Säuberung der Palästinenser begann
+      mit der Intensivierung der israelischen Bombardements gegen Gaza-Stadt, dem Auftakt
+      zu einer Invasion und Besetzung, die viele Monate, vielleicht sogar ein Jahr dauern
+      könnte. Im Osten der Stadt sind Hunderttausende Menschen – schätzungsweise mehr
+      als 600.000 – in überfüllten Räumen ohne Infrastruktur, ohne Unterkunft und ohne
+      sicherere Zuflucht irgendwo im Gazastreifen zusammengepfercht. Rund 400.000 Palästinenser
+      konnten der unmittelbaren Zerstörung durch die israelischen Bombardements der
+      Stadt entkommen und flohen in unsichere und unausgestattete Gebiete, wo der Tod
+      langsamer eintritt. Die übrige Bevölkerung von Gaza-Stadt ist in dem Gebiet gefangen,
+      das zum dichtesten urbanen Schlachtfeld der Welt geworden ist und in dem in Friedenszeiten
+      normalerweise fast eine Million Menschen lebten. Die menschlichen Kosten sind
+      erschütternd und steigen von Minute zu Minute, wobei täglich mehr als 100 Palästinenser
+      getötet werden. Die Strategie der israelischen Armee zielt darauf ab, das eigene
+      Risiko zu verringern, indem sie sowohl Zivilisten als auch Infrastruktur mit überwältigender
+      Feuerkraft angreift. Gaza-Stadt ist dazu bestimmt, das gleiche Schicksal wie Rafah
+      (südlich von Gaza) zu erleiden, das zu Beginn des Konflikts in Schutt und Asche
+      gelegt wurde. Das Ziel ist klar: die Stadt zu entvölkern, ganze Stadtteile dem
+      Erdboden gleichzumachen und den Boden für die mögliche Rückkehr der israelischen
+      Siedler zu bereiten, die sich 2005 zurückgezogen hatten. Mehr als zwei Millionen
+      Palästinenser werden in eine immer kleiner werdende Enklave gedrängt, in begrenzte
+      Gebiete im Süden, in denen ein Leben nicht mehr möglich ist. Die unvermeidliche
+      Folge ist eine gewaltsame Flucht – entweder über die Grenzen in Nachbarstaaten
+      oder in die umliegenden Wüsten. Netanjahu bereitet sorgfältig seinen endgültigen
+      Plan vor, alle Palästinenser aus Gaza zu vertreiben, wenn das Leben dort unmöglich
+      wird. Israel hat enorme militärische Ressourcen mobilisiert, um diese Invasionskampagne
+      durchzuführen. Die Divisionen 162 und 98 führen die Operationen im Norden und
+      Süden von Gaza-Stadt an, während die Divisionen 36, 143 und die Gaza-Division
+      im Osten in Bereitschaft und in Reserve bleiben, um den Angriff zu verstärken.
+      Um eine derart groß angelegte Invasion aufrechtzuerhalten, hat die Armee zusätzlich
+      zu ihren Berufssoldaten 60.000 Reservisten einberufen. Der Einsatz solch massiver
+      Streitkräfte dient einem doppelten Zweck: die Palästinenser durch Terror zur Unterwerfung
+      zu zwingen und den israelischen Truppen zu versichern, dass sie abgelöst und ersetzt
+      werden, sollte der Krieg länger als erwartet dauern. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Die ethnische Säuberung der Palästinenser in Gaza hat mit
+      intensiven israelischen Bombardements begonnen, die Hunderttausende in überfüllte
+      und unsichere Räume treiben, während die humanitäre Krise und die Todeszahlen
+      täglich steigen.
+    paragraph_summary: Elijah J. Magnier beschreibt in einem Tweet die eskalierende
+      ethnische Säuberung der Palästinenser in Gaza, die mit intensiven israelischen
+      Bombardements gegen Gaza-Stadt begann und möglicherweise zu einer langanhaltenden
+      Invasion führen könnte. Hunderttausende Menschen, darunter über 600.000, sind
+      in überfüllten und infrastrukturell unzureichenden Räumen gefangen, während etwa
+      400.000 in unsichere Gebiete geflohen sind. Die humanitäre Lage ist katastrophal,
+      mit täglich über 100 Toten, und die israelische Militärstrategie zielt darauf
+      ab, Zivilisten und Infrastruktur mit überwältigender Feuerkraft zu attackieren,
+      um die Stadt zu entvölkern und Platz für eine mögliche Rückkehr israelischer Siedler
+      zu schaffen. Die Situation zwingt mehr als zwei Millionen Palästinenser in immer
+      kleinere Enklaven, während Premierminister Netanjahu einen Plan zur Vertreibung
+      aller Palästinenser aus Gaza vorbereitet, wenn das Leben dort unhaltbar wird.
+    published: '2025-09-18T17:40:47+00:00'
+  - title: Israël begint met etnische zuivering van Gaza-stad en het pad dat leidt tot
+      het doden van alle Israëlische gijzelaars
+    url: https://ejmagnier.com/2025/09/17/israel-begint-met-etnische-zuivering-van-gaza-stad-en-het-pad-dat-leidt-tot-het-doden-van-alle-israelische-gijzelaars/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. De etnische
+      zuivering van de Palestijnen begon met de intensivering van de Israëlische bombardementen
+      op Gaza-stad, de opmaat naar een invasie en bezetting die vele maanden, misschien
+      zelfs een jaar zou kunnen duren. Ten oosten van de stad zitten honderdduizenden
+      mensen – naar schatting meer dan 600.000 – opeengepakt in overvolle ruimtes zonder
+      infrastructuur, zonder onderdak en zonder veiliger toevluchtsoord in de hele Gazastrook.
+      Ongeveer 400.000 Palestijnen zijn erin geslaagd te ontsnappen aan de onmiddellijke
+      verwoesting door de Israëlische bombardementen op de stad, naar onveilige en onuitgeruste
+      zones waar de dood langzamer komt. De resterende bevolking van Gaza-stad zit gevangen
+      in wat het dichtstbevolkte stedelijke slagveld ter wereld is geworden, waar in
+      vredestijd bijna een miljoen mensen woonden. De menselijke tol is ontzagwekkend
+      en stijgt met de minuut, met meer dan 100 Palestijnen die per dag worden gedood.
+      De strategie van het Israëlische leger is erop gericht het eigen risico te verminderen
+      door zowel burgers als infrastructuur met overweldigende vuurkracht te bestoken.
+      Gaza-stad is voorbestemd om hetzelfde lot te ondergaan als Rafah (ten zuiden van
+      Gaza), dat eerder in het conflict tot puin werd herleid. Het doel is duidelijk:
+      de stad ontvolken, hele wijken met de grond gelijk maken en de weg vrijmaken voor
+      de mogelijke terugkeer van Israëlische kolonisten die zich in 2005 hebben teruggetrokken.
+      Meer dan twee miljoen Palestijnen worden gedwongen zich terug te trekken in een
+      steeds kleiner wordende enclave, samengeperst in beperkte zuidelijke gebieden
+      waar het leven niet langer houdbaar is. Het onvermijdelijke gevolg is een gedwongen
+      exodus – hetzij over de grenzen naar buurlanden, hetzij naar de omliggende woestijnen.
+      Netanyahu bereidt zorgvuldig zijn ultieme plan voor om alle Palestijnen uit Gaza
+      te verdrijven wanneer het leven daar onhoudbaar wordt. Israël heeft enorme militaire
+      middelen gemobiliseerd om deze invasiecampagne uit te voeren. De divisies 162
+      en 98 leiden de operaties in het noorden en zuiden van Gaza-stad, terwijl de divisies
+      36, 143 en de Gazadivisie in het oosten stand-by blijven en in reserve staan,
+      klaar om de aanval te versterken. Om een dergelijke grootschalige invasie vol
+      te houden, heeft het leger naast zijn beroepsmilitairen 60.000 reservisten opgeroepen.
+      De inzet van zulke enorme troepenmacht heeft een tweeledig doel: de Palestijnen
+      door terreur tot onderwerping dwingen en de Israëlische troepen geruststellen
+      dat ze zullen worden afgelost en vervangen als de oorlog langer duurt dan verwacht.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: De Israëlische bombardementen op Gaza-stad hebben geleid tot
+      een ernstige humanitaire crisis, waarbij honderdduizenden Palestijnen vastzitten
+      in overvolle en onveilige omstandigheden, terwijl de doden dagelijks toenemen.
+    paragraph_summary: Elijah J. Magnier's article, translated by Francis J., discusses
+      the escalating ethnic cleansing of Palestinians amid intensified Israeli bombardments
+      on Gaza City, which are paving the way for a prolonged invasion and occupation.
+      Over 600,000 people are trapped in overcrowded, infrastructure-deficient areas,
+      while around 400,000 have fled to unsafe zones. The situation has turned Gaza
+      City into one of the world's most densely populated urban battlefields, with a
+      staggering death toll exceeding 100 Palestinians daily. The Israeli military's
+      strategy aims to minimize its own risks by targeting both civilians and infrastructure,
+      leading to the systematic depopulation of the city and the destruction of neighborhoods,
+      reminiscent of Rafah's fate earlier in the conflict. As more than two million
+      Palestinians are forced into increasingly confined areas, the looming threat of
+      a forced exodus to neighboring countries or surrounding deserts becomes apparent,
+      with Netanyahu allegedly preparing to execute a plan to completely displace Palestinians
+      from Gaza.
+    published: '2025-09-17T18:34:08+00:00'
+  - title: Israël begint met etnische zuivering van Gaza-stad en het pad dat leidt tot
+      het doden van alle Israëlische gijzelaars
+    url: https://ejmagnier.com/2025/09/17/israel-begint-met-etnische-zuivering-van-gaza-stad-en-het-pad-dat-leidt-tot-het-doden-van-alle-israelische-gijzelaars/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. De etnische
+      zuivering van de Palestijnen begon met de intensivering van de Israëlische bombardementen
+      op Gaza-stad, de opmaat naar een invasie en bezetting die vele maanden, misschien
+      zelfs een jaar zou kunnen duren. Ten oosten van de stad zitten honderdduizenden
+      mensen – naar schatting meer dan 600.000 – opeengepakt in overvolle ruimtes zonder
+      infrastructuur, zonder onderdak en zonder veiliger toevluchtsoord in de hele Gazastrook.
+      Ongeveer 400.000 Palestijnen zijn erin geslaagd te ontsnappen aan de onmiddellijke
+      verwoesting door de Israëlische bombardementen op de stad, naar onveilige en onuitgeruste
+      zones waar de dood langzamer komt. De resterende bevolking van Gaza-stad zit gevangen
+      in wat het dichtstbevolkte stedelijke slagveld ter wereld is geworden, waar in
+      vredestijd bijna een miljoen mensen woonden. De menselijke tol is ontzagwekkend
+      en stijgt met de minuut, met meer dan 100 Palestijnen die per dag worden gedood.
+      De strategie van het Israëlische leger is erop gericht het eigen risico te verminderen
+      door zowel burgers als infrastructuur met overweldigende vuurkracht te bestoken.
+      Gaza-stad is voorbestemd om hetzelfde lot te ondergaan als Rafah (ten zuiden van
+      Gaza), dat eerder in het conflict tot puin werd herleid. Het doel is duidelijk:
+      de stad ontvolken, hele wijken met de grond gelijk maken en de weg vrijmaken voor
+      de mogelijke terugkeer van Israëlische kolonisten die zich in 2005 hebben teruggetrokken.
+      Meer dan twee miljoen Palestijnen worden gedwongen zich terug te trekken in een
+      steeds kleiner wordende enclave, samengeperst in beperkte zuidelijke gebieden
+      waar het leven niet langer houdbaar is. Het onvermijdelijke gevolg is een gedwongen
+      exodus – hetzij over de grenzen naar buurlanden, hetzij naar de omliggende woestijnen.
+      Netanyahu bereidt zorgvuldig zijn ultieme plan voor om alle Palestijnen uit Gaza
+      te verdrijven wanneer het leven daar onhoudbaar wordt. Israël heeft enorme militaire
+      middelen gemobiliseerd om deze invasiecampagne uit te voeren. De divisies 162
+      en 98 leiden de operaties in het noorden en zuiden van Gaza-stad, terwijl de divisies
+      36, 143 en de Gazadivisie in het oosten stand-by blijven en in reserve staan,
+      klaar om de aanval te versterken. Om een dergelijke grootschalige invasie vol
+      te houden, heeft het leger naast zijn beroepsmilitairen 60.000 reservisten opgeroepen.
+      De inzet van zulke enorme troepenmacht heeft een tweeledig doel: de Palestijnen
+      door terreur tot onderwerping dwingen en de Israëlische troepen geruststellen
+      dat ze zullen worden afgelost en vervangen als de oorlog langer duurt dan verwacht.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: De Israëlische bombardementen op Gaza-stad hebben geleid tot
+      een ernstige humanitaire crisis, waarbij honderdduizenden Palestijnen vastzitten
+      in overvolle en onveilige omstandigheden, terwijl de doden dagelijks toenemen.
+    paragraph_summary: Elijah J. Magnier's article, translated by Francis J., discusses
+      the escalating ethnic cleansing of Palestinians amid intensified Israeli bombardments
+      on Gaza City, which are paving the way for a prolonged invasion and occupation.
+      Over 600,000 people are trapped in overcrowded, infrastructure-deficient areas,
+      while around 400,000 have fled to unsafe zones. The situation has turned Gaza
+      City into one of the world's most densely populated urban battlefields, with a
+      staggering death toll exceeding 100 Palestinians daily. The Israeli military's
+      strategy aims to minimize its own risks by targeting both civilians and infrastructure,
+      leading to the systematic depopulation of the city and the destruction of neighborhoods,
+      reminiscent of Rafah's fate earlier in the conflict. As more than two million
+      Palestinians are forced into increasingly confined areas, the looming threat of
+      a forced exodus to neighboring countries or surrounding deserts becomes apparent,
+      with Netanyahu allegedly preparing to execute a plan to completely displace Palestinians
+      from Gaza.
+    published: '2025-09-17T18:34:08+00:00'
+  - title: Israel Initiates the Ethnic Cleansing of Gaza City and the Path That Leads
+      to Kill All Israeli Hostages
+    url: https://ejmagnier.com/2025/09/17/israel-initiates-the-ethnic-cleansing-of-gaza-city-and-the-path-that-leads-to-kill-all-israeli-hostages/
+    text: 'Tweet By Elijah J. Magnier – The ethnic cleansing of the Palestinians began
+      with the intensification of Israel’s bombing campaign against Gaza City, the prelude
+      to an invasion and occupation that could last many months, perhaps even a year.
+      To the east of the city, hundreds of thousands of people—estimated at more than
+      600,000—are packed into overcrowded spaces with no infrastructure, no shelter,
+      and no safer refuge anywhere in the Strip. Around 400,000 Palestinians managed
+      to escape the immediate destruction of Israeli bombardments of the City  towards
+      unsafe and unequipped zones where death is slower. The remaining population of
+      Gaza City is trapped in what has become the densest urban battlefield in the world,
+      where close to a million people usually lived in times of no war. The human cost
+      is staggering and rising by the minute exceeding a 100 Palestinian killed per
+      day. The Israeli army’s strategy is designed to reduce its own risk by inflicting
+      overwhelming firepower on civilians and infrastructure alike. Gaza City is destined
+      to meet the same fate as Rafah (south of Gaza), which was reduced to rubble earlier
+      in the conflict. The aim is clear: to depopulate the city, flatten entire neighbourhoods,
+      and prepare the ground for the possible return of Israeli settlers who withdrew
+      in 2005. More than two million Palestinians are being forced into an ever-shrinking
+      enclave, squeezed into limited southern areas where life is no longer sustainable.
+      The inevitable outcome is forcible exodus—either across borders to neighbouring
+      states or into the surrounding deserts. Netanyahu is careful preparing his ultimate
+      plan to see all the Palestinians out of Gaza when life will become unsustainable.
+      Israel has mobilised enormous military resources to carry out this invasion campaign.
+      Divisions 162 and 98 are spearheading operations in the north and south of Gaza
+      City, while Divisions 36, 143, and the Gaza Division remain on standby to the
+      east and on reserve stand, ready to reinforce the assault. To sustain such a large-scale
+      invasion, the army has called up 60,000 reservists in addition to its professional
+      soldiers. The deployment of such massive forces serves a dual purpose: to terrorise
+      the Palestinians into submission and to reassure Israeli troops that they will
+      be rotated and replaced if the war drags on longer than anticipated. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: The article describes the severe humanitarian crisis in Gaza
+      City, where an intensifying Israeli bombing campaign has led to the ethnic cleansing
+      of Palestinians, with hundreds of thousands trapped in overcrowded and unsafe
+      conditions, resulting in a staggering death toll.
+    paragraph_summary: The article by Elijah J. Magnier highlights the severe humanitarian
+      crisis unfolding in Gaza City due to an intensified Israeli bombing campaign,
+      which is part of a broader strategy that aims to depopulate the area and facilitate
+      the return of Israeli settlers. With over 600,000 Palestinians crammed into overcrowded
+      and unsafe spaces, the situation is dire, as many have fled from the immediate
+      destruction only to find themselves in equally perilous conditions. The ongoing
+      conflict has resulted in a staggering death toll, exceeding 100 Palestinians daily,
+      and has transformed Gaza City into a densely populated urban battlefield. The
+      Israeli military's operations, involving significant troop mobilization, are designed
+      to inflict overwhelming damage on both civilians and infrastructure, leading to
+      an inevitable forcible exodus of the Palestinian population as life becomes increasingly
+      unsustainable in the region.
+    published: '2025-09-17T18:20:39+00:00'
+  - title: Israel Initiates the Ethnic Cleansing of Gaza City and the Path That Leads
+      to Kill All Israeli Hostages
+    url: https://ejmagnier.com/2025/09/17/israel-initiates-the-ethnic-cleansing-of-gaza-city-and-the-path-that-leads-to-kill-all-israeli-hostages/
+    text: 'Tweet By Elijah J. Magnier – The ethnic cleansing of the Palestinians began
+      with the intensification of Israel’s bombing campaign against Gaza City, the prelude
+      to an invasion and occupation that could last many months, perhaps even a year.
+      To the east of the city, hundreds of thousands of people—estimated at more than
+      600,000—are packed into overcrowded spaces with no infrastructure, no shelter,
+      and no safer refuge anywhere in the Strip. Around 400,000 Palestinians managed
+      to escape the immediate destruction of Israeli bombardments of the City  towards
+      unsafe and unequipped zones where death is slower. The remaining population of
+      Gaza City is trapped in what has become the densest urban battlefield in the world,
+      where close to a million people usually lived in times of no war. The human cost
+      is staggering and rising by the minute exceeding a 100 Palestinian killed per
+      day. The Israeli army’s strategy is designed to reduce its own risk by inflicting
+      overwhelming firepower on civilians and infrastructure alike. Gaza City is destined
+      to meet the same fate as Rafah (south of Gaza), which was reduced to rubble earlier
+      in the conflict. The aim is clear: to depopulate the city, flatten entire neighbourhoods,
+      and prepare the ground for the possible return of Israeli settlers who withdrew
+      in 2005. More than two million Palestinians are being forced into an ever-shrinking
+      enclave, squeezed into limited southern areas where life is no longer sustainable.
+      The inevitable outcome is forcible exodus—either across borders to neighbouring
+      states or into the surrounding deserts. Netanyahu is careful preparing his ultimate
+      plan to see all the Palestinians out of Gaza when life will become unsustainable.
+      Israel has mobilised enormous military resources to carry out this invasion campaign.
+      Divisions 162 and 98 are spearheading operations in the north and south of Gaza
+      City, while Divisions 36, 143, and the Gaza Division remain on standby to the
+      east and on reserve stand, ready to reinforce the assault. To sustain such a large-scale
+      invasion, the army has called up 60,000 reservists in addition to its professional
+      soldiers. The deployment of such massive forces serves a dual purpose: to terrorise
+      the Palestinians into submission and to reassure Israeli troops that they will
+      be rotated and replaced if the war drags on longer than anticipated. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: The article describes the severe humanitarian crisis in Gaza
+      City, where an intensifying Israeli bombing campaign has led to the ethnic cleansing
+      of Palestinians, with hundreds of thousands trapped in overcrowded and unsafe
+      conditions, resulting in a staggering death toll.
+    paragraph_summary: The article by Elijah J. Magnier highlights the severe humanitarian
+      crisis unfolding in Gaza City due to an intensified Israeli bombing campaign,
+      which is part of a broader strategy that aims to depopulate the area and facilitate
+      the return of Israeli settlers. With over 600,000 Palestinians crammed into overcrowded
+      and unsafe spaces, the situation is dire, as many have fled from the immediate
+      destruction only to find themselves in equally perilous conditions. The ongoing
+      conflict has resulted in a staggering death toll, exceeding 100 Palestinians daily,
+      and has transformed Gaza City into a densely populated urban battlefield. The
+      Israeli military's operations, involving significant troop mobilization, are designed
+      to inflict overwhelming damage on both civilians and infrastructure, leading to
+      an inevitable forcible exodus of the Palestinian population as life becomes increasingly
+      unsustainable in the region.
+    published: '2025-09-17T18:20:39+00:00'
+  - title: Israël initie le nettoyage ethnique de la ville de Gaza et trace la voie
+      qui mènera à la mort de tous les otages israéliens
+    url: https://ejmagnier.com/2025/09/17/israel-initie-le-nettoyage-ethnique-de-la-ville-de-gaza-et-trace-la-voie-qui-menera-a-la-mort-de-tous-les-otages-israeliens/
+    text: 'Tweet Par Elijah J. Magnier – Le nettoyage ethnique des Palestiniens a commencé
+      avec l’intensification de la campagne de bombardements israéliens contre la ville
+      de Gaza, prélude à une invasion et une occupation qui pourraient durer de longs
+      mois, voire une année entière. À l’est de la ville, des centaines de milliers
+      de personnes — estimées à plus de 600 000 — s’entassent dans des espaces surpeuplés,
+      sans infrastructures, sans abris et sans refuge plus sûr ailleurs dans la bande.
+      Environ 400 000 Palestiniens ont réussi à échapper à la destruction immédiate
+      causée par les bombardements israéliens de la ville pour se diriger vers des zones
+      tout aussi dangereuses et dépourvues d’équipements, où la mort est seulement plus
+      lente. La population restante de Gaza est piégée dans ce qui est devenu le champ
+      de bataille urbain le plus dense au monde, où près d’un million de personnes vivaient
+      en temps de paix. Le coût humain est effroyable et augmente de minute en minute,
+      dépassant la centaine de Palestiniens tués chaque jour. La stratégie de l’armée
+      israélienne vise à minimiser ses propres pertes en infligeant une puissance de
+      feu écrasante aux civils et aux infrastructures. La ville de Gaza est promise
+      au même sort que Rafah (au sud de la bande), réduite en ruines plus tôt dans le
+      conflit. L’objectif est clair : dépeupler la ville, raser des quartiers entiers
+      et préparer le terrain à un éventuel retour des colons israéliens qui s’étaient
+      retirés en 2005. Plus de deux millions de Palestiniens sont ainsi forcés de se
+      concentrer dans une enclave toujours plus réduite, entassés dans les zones sud
+      où la vie devient invivable. L’issue inévitable est un exode forcé — au-delà des
+      frontières vers les États voisins ou vers les déserts environnants. Netanyahu
+      prépare minutieusement son plan ultime : voir partir tous les Palestiniens de
+      Gaza lorsque la vie y sera rendue insoutenable. Israël a mobilisé des ressources
+      militaires considérables pour mener cette campagne. Les divisions 162 et 98 mènent
+      les opérations au nord et au sud de Gaza, tandis que les divisions 36, 143 et
+      la division de Gaza restent en attente à l’est, prêtes à renforcer l’assaut. Pour
+      soutenir une invasion de cette ampleur, l’armée a rappelé 60 000 réservistes en
+      plus de ses soldats professionnels. Le déploiement d’une telle force sert un double
+      objectif : terroriser les Palestiniens afin de les soumettre et rassurer les soldats
+      israéliens en leur garantissant qu’ils seront relevés si la guerre se prolonge.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: L'article décrit la situation désastreuse à Gaza, où des centaines
+      de milliers de Palestiniens sont piégés dans des conditions surpeuplées et dangereuses
+      en raison d'une intensification des bombardements israéliens, entraînant un nettoyage
+      ethnique et un coût humain tragique.
+    paragraph_summary: Elijah J. Magnier's tweet highlights the ongoing ethnic cleansing
+      of Palestinians amid intensified Israeli bombardments in Gaza, which are paving
+      the way for a prolonged invasion and occupation. Over 600,000 people are crammed
+      into overcrowded, infrastructure-poor areas, while around 400,000 have fled to
+      equally perilous zones. The remaining population is trapped in what has become
+      the densest urban battlefield, with daily casualties exceeding a hundred. The
+      Israeli military's strategy focuses on overwhelming civilian areas to minimize
+      its own losses, aiming to depopulate Gaza and prepare for a potential return of
+      Israeli settlers. As life becomes increasingly unbearable, over two million Palestinians
+      are forced into a shrinking enclave, leading to an inevitable exodus beyond Gaza's
+      borders.
+    published: '2025-09-17T18:10:13+00:00'
+  - title: Israël initie le nettoyage ethnique de la ville de Gaza et trace la voie
+      qui mènera à la mort de tous les otages israéliens
+    url: https://ejmagnier.com/2025/09/17/israel-initie-le-nettoyage-ethnique-de-la-ville-de-gaza-et-trace-la-voie-qui-menera-a-la-mort-de-tous-les-otages-israeliens/
+    text: 'Tweet Par Elijah J. Magnier – Le nettoyage ethnique des Palestiniens a commencé
+      avec l’intensification de la campagne de bombardements israéliens contre la ville
+      de Gaza, prélude à une invasion et une occupation qui pourraient durer de longs
+      mois, voire une année entière. À l’est de la ville, des centaines de milliers
+      de personnes — estimées à plus de 600 000 — s’entassent dans des espaces surpeuplés,
+      sans infrastructures, sans abris et sans refuge plus sûr ailleurs dans la bande.
+      Environ 400 000 Palestiniens ont réussi à échapper à la destruction immédiate
+      causée par les bombardements israéliens de la ville pour se diriger vers des zones
+      tout aussi dangereuses et dépourvues d’équipements, où la mort est seulement plus
+      lente. La population restante de Gaza est piégée dans ce qui est devenu le champ
+      de bataille urbain le plus dense au monde, où près d’un million de personnes vivaient
+      en temps de paix. Le coût humain est effroyable et augmente de minute en minute,
+      dépassant la centaine de Palestiniens tués chaque jour. La stratégie de l’armée
+      israélienne vise à minimiser ses propres pertes en infligeant une puissance de
+      feu écrasante aux civils et aux infrastructures. La ville de Gaza est promise
+      au même sort que Rafah (au sud de la bande), réduite en ruines plus tôt dans le
+      conflit. L’objectif est clair : dépeupler la ville, raser des quartiers entiers
+      et préparer le terrain à un éventuel retour des colons israéliens qui s’étaient
+      retirés en 2005. Plus de deux millions de Palestiniens sont ainsi forcés de se
+      concentrer dans une enclave toujours plus réduite, entassés dans les zones sud
+      où la vie devient invivable. L’issue inévitable est un exode forcé — au-delà des
+      frontières vers les États voisins ou vers les déserts environnants. Netanyahu
+      prépare minutieusement son plan ultime : voir partir tous les Palestiniens de
+      Gaza lorsque la vie y sera rendue insoutenable. Israël a mobilisé des ressources
+      militaires considérables pour mener cette campagne. Les divisions 162 et 98 mènent
+      les opérations au nord et au sud de Gaza, tandis que les divisions 36, 143 et
+      la division de Gaza restent en attente à l’est, prêtes à renforcer l’assaut. Pour
+      soutenir une invasion de cette ampleur, l’armée a rappelé 60 000 réservistes en
+      plus de ses soldats professionnels. Le déploiement d’une telle force sert un double
+      objectif : terroriser les Palestiniens afin de les soumettre et rassurer les soldats
+      israéliens en leur garantissant qu’ils seront relevés si la guerre se prolonge.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: L'article décrit la situation désastreuse à Gaza, où des centaines
+      de milliers de Palestiniens sont piégés dans des conditions surpeuplées et dangereuses
+      en raison d'une intensification des bombardements israéliens, entraînant un nettoyage
+      ethnique et un coût humain tragique.
+    paragraph_summary: Elijah J. Magnier's tweet highlights the ongoing ethnic cleansing
+      of Palestinians amid intensified Israeli bombardments in Gaza, which are paving
+      the way for a prolonged invasion and occupation. Over 600,000 people are crammed
+      into overcrowded, infrastructure-poor areas, while around 400,000 have fled to
+      equally perilous zones. The remaining population is trapped in what has become
+      the densest urban battlefield, with daily casualties exceeding a hundred. The
+      Israeli military's strategy focuses on overwhelming civilian areas to minimize
+      its own losses, aiming to depopulate Gaza and prepare for a potential return of
+      Israeli settlers. As life becomes increasingly unbearable, over two million Palestinians
+      are forced into a shrinking enclave, leading to an inevitable exodus beyond Gaza's
+      borders.
+    published: '2025-09-17T18:10:13+00:00'
   - title: 'De tweede fase van Gideon’s Chariots 2: Israël verwoestte Gaza-stad voorafgaand
       aan grondoffensief'
     url: https://ejmagnier.com/2025/09/16/de-tweede-fase-van-gideons-chariots-2-israel-verwoestte-gaza-stad-voorafgaand-aan-grondoffensief/

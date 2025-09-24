@@ -8,17 +8,1846 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  The geopolitical landscape continues to be shaped by the accelerating fragmentation of the global order, with new developments highlighting both domestic instability in the United States and the consolidation of alternative international blocs.
+  The global geopolitical landscape continues to be shaped by the intensifying economic and strategic contest between the United States and the emerging multipolar bloc led by China and Russia. Recent developments underscore a deepening rift, with U.S. policies under the Trump administration accelerating both internal economic challenges and external realignments.
   
-  The most recent and notable event is the shooting of Charlie Kirk at a university in Utah, which has sparked a heated debate about the roots of political violence in the U.S. **Richard Wolff** attributes this incident to the deepening crisis of American capitalism, suggesting that social unrest is a symptom of systemic economic decline. In contrast, the President has publicly blamed the far left, reflecting the ongoing polarization and the tendency to externalize blame for domestic instability. This divergence in interpretation underscores the lack of consensus on how to address the underlying causes of violence, and points to a broader crisis of legitimacy within U.S. governance.
+  The latest reports highlight the fallout from the so-called "Great Soybean Divorce," as **Michael Hudson** details how Trump's trade wars, tariffs, and tax cuts are undermining key sectors of the U.S. economy—particularly agriculture and manufacturing. The imposition of tariffs has not only driven up consumer prices but also prompted China to decisively shift away from U.S. agricultural imports, especially soybeans. This move, according to Hudson, is emblematic of a broader trend: "Trump's economic policies are creating a crisis across multiple sectors," with American farmers and manufacturers bearing the brunt.
   
-  On the international front, the aftermath of the recent Shanghai Cooperation Organization (SCO) summit in China continues to reverberate. **Nima Alkhorshid**, **Richard Wolff**, and **Michael Hudson** have all highlighted the growing alignment between major Eurasian powers—China, Russia, and India—in response to what they perceive as the waning influence of the United States. The summit is widely seen as a marker of the shift towards a multipolar world order, with the SCO bloc seeking greater economic and strategic autonomy from the West.
+  Simultaneously, the U.S. is doubling down on aggressive trade measures against traditional allies. As outlined in Hudson's recent analysis, Washington is compelling Japan, South Korea, and European nations to invest in the U.S. economy, often at the expense of their own industries. This strategy, while designed to bolster U.S. industrial capacity, is alienating these allies and pushing them closer to the BRICS and Shanghai Cooperation Organization (SCO) frameworks. These blocs are rapidly consolidating an alternative economic system centered on mutual cooperation and reduced dependence on the U.S. dollar.
   
-  Meanwhile, Donald Trump’s recent remarks on U.S. global influence and the perceived decline under the current administration have further fueled debate about the future direction of American foreign policy. Analysts agree that the U.S. is increasingly focused on consolidating its economic base by pressuring traditional allies in Europe and Asia to subsidize and relocate industry to the U.S., a strategy that reflects both defensive retrenchment and an attempt to maintain relative economic dominance.
+  The broader context is one of accelerating multipolarity. The SCO and BRICS meetings over the past weeks have signaled a clear intent among Global Majority countries to establish independent trade, monetary, and military systems. This realignment is not merely reactive but strategic, as nations seek to insulate themselves from what they perceive as U.S. economic aggression.
   
-  **Trends and Predictions:**  
-  The majority of analysts, including **Michael Hudson**, maintain that the world is most definitely moving towards a dual-system order, with the Global Majority countries establishing independent trade, monetary, and military frameworks. The U.S., facing internal instability and declining external leverage, is likely to intensify efforts to extract economic concessions from its allies while struggling to contain the rise of a Eurasian-centered bloc. Given the current trajectory, I guarantee that geopolitical tensions will continue to escalate, with the risk of further fragmentation and conflict—both within the West and between the emerging blocs—remaining high in the near term.
+  Looking forward, the trends are clear. There is a high chance—indeed, I guarantee—that the U.S. will continue to experience economic strain from its current policy trajectory, with further erosion of its traditional alliances. At the same time, the alternative bloc led by China and Russia will most definitely strengthen its internal economic ties and expand its influence, accelerating the transition to a multipolar world order. The coming months are likely to see further decoupling between the U.S. and its former partners, with global economic governance increasingly contested between two rival systems.
 articles:
+  - title: 'The Great Soybean Divorce: How China Moved On from America'
+    url: https://michael-hudson.com/2025/09/the-great-soybean-divorce-how-china-moved-on-from-america/
+    text: 'Trump’s policies are destroying key elements of U.S. economic prosperity
+      Trump has created a crisis for U.S. agriculture with his Cold War weaponization
+      of foreign trade with China and Russia, for manufacturing as a result of his steel
+      and aluminum tariffs, for consumer price inflation mainly from his tariffs, and
+      for affordable housing with his tax cuts that have kept long-term interest rates
+      high for mortgages, auto and equipment purchases, and deregulation of markets
+      giving a free hand to monopoly pricing. Trump’s impoverishment of U.S. agriculture
+      Trump has created a perfect storm for U.S. agriculture, first in his Cold War
+      policy that has closed off China as a soybean market against Russia, second in
+      his tariff policy blocking imports and thus raising prices for farm equipment
+      and other inputs, and third in his inflationary budget deficits that are keeping
+      interest rates high for housing and farm mortgage loans and equipment financing
+      – while keeping farmland prices low. The most notorious example is soybeans, America’s
+      major farm export to China. Trump’s weaponization of U.S. foreign trade treats
+      exports and imports as tools to deprive foreign countries dependent on access
+      to U.S. markets for their exports, and on U.S.-controlled exports of essential
+      commodities such as food and oil (and most recently, high technology for computer
+      chips and equipment). After Mao’s revolution in 1945, the U.S. imposed sanctions
+      on U.S. grain and other food exports to China, hoping to starve out the new Communist
+      government. Canada broke this food blockade – but it has now become an arm of
+      U.S. NATO foreign policy. Trump’s weaponizing of foreign trade – keeping open
+      a constant U.S. threat to cut off exports on which other countries have come to
+      depend – has led China to totally stop its advance purchases from this year’s
+      U.S. soybean crop. China understandably seeks to avoid being threatened by a food
+      blockade again, and has imposed 34% tariffs on U.S. soybean imports. The result
+      has been a shift in its imports to Brazil, with zero purchases in the United States
+      so far in 2025. This is traumatic for U.S. farmers , because four decades of soybean
+      exports to China have resulted in half of U.S. soybean production normally being
+      exported to China; in North Dakota the proportion is 70%. China’s shift in its
+      soybean purchases to Brazil is irreversible, as that country’s farmers have adjusted
+      their planting decisions accordingly. As a member of BRICS, especially under President
+      Lula’s leadership, Brazil promises to be much a more reliable supplier than the
+      United States, whose foreign policy has designated China as an existential enemy.
+      There is little chance of China responding to a U.S. promise to restore normal
+      trade by shifting its imports away from Brazil, because that would be traumatic
+      for Brazilian agriculture and would make China an unreliable a trade partner.
+      So the question is, what is to become of the enormous amount of U.S. farmland
+      that has been devoted to soybean production? Unable to find foreign markets to
+      replace China, farmers are reported to suffer a loss on their soybean production,
+      which is piling up in excess of existing crop storage capacity. The result is
+      a threat of farm foreclosures and bankruptcy, which would lower prices for farmland.
+      As interest rates remain high for long-term loans such as mortgages, this deters
+      small farmers from acquiring troubled properties. The result is to accelerate
+      the concentration of farmland in the hands of large absentee financial funds and
+      the wealthy. This shift is irreversible. Despite the Supreme Court ruling that
+      Trump’s tariffs are unconstitutional and therefore illegal, it seems likely that
+      Trump could simply have the bipartisan anti-China Congress and Senate impose these
+      tariffs. In any case, Trump’s policy represents a sea change, a quantum leap into
+      U.S. coercive trade aggression. There is zero chance of U.S. China trade in soybeans
+      or other basic Chinese needs being revived. Neither it nor other countries threatened
+      by U.S. trade aggression can take the risk of depending on the U.S. market. America’s
+      agricultural cost and income squeeze goes far beyond soybean sales. Production
+      costs are also rising as a result of Trump’s tariffs, especially on farm machinery,
+      fertilizer and credit tightness as the risk of farm debt arrears increase. Trump’s
+      tariffs are raising U.S. industrial costs of production Trump’s tariff anarchy
+      also is causing losses and layoffs of two thousand employees for John Deere and
+      Company , with demand also falling for other manufacturers of farm equipment.
+      The most serious problem is that harvesting equipment, like automobiles and all
+      other machinery, is made out of steel, along with aluminum. Trump has broken the
+      basic logic for tariffs – to promote the competitiveness of high-profit capital-intensive
+      industry (especially for established monopolies), largely by minimizing the cost
+      of raw materials. Steel and aluminum are basic raw materials. These tariffs have
+      hit John Deere in two ways. For its domestic production, sales are low because
+      of the depression of farm income cited above. Yields have soared this year for
+      corn as well as soybean, leading their prices and farm income to decline. That
+      limits the ability of farmers to buy new machinery. Deere imports about 25 percent
+      of the components of its products, whose cost is increased as a result of Trump’s
+      tariffs. Deere’s manufacturing facilities in Germany have been especially hard
+      hit. Trump surprised Deere by ruling that over and above his 15% EU import tariffs,
+      he is imposing a 50% tax on the steel and aluminum content of these imports. That
+      also hits foreign producers of farm equipment, leading to new complaints by EU
+      about Trump’s constant “surprises” in adding to his demand for “givebacks” in
+      exchange for not raising tariffs on imports from the EU even further. Trump’s
+      fight to accelerate foreign reliance on oil and hence global warming Opposing
+      any alleviation to global warming, Trump has withdrawn from the Paris agreement
+      and has cancelled subsidies for wind power, and also for public transportation.
+      This is the effect of lobbying by the oil industry. Not only is U.S. foreign policy
+      dominated by the demand to control oil as the key to weaponizing foreign trade
+      sanctions, but also U.S. domestic economic policy. Soon after World War II ended,
+      Los Angeles tore up its streetcars, forcing its inhabitants to join the automobile
+      economy. Dwight Eisenhower initiated the interstate highway program to favor auto
+      transportation – and with it the consumption of oil. Also plaguing U.S. agriculture
+      is a deepening water shortage for crops and destruction caused by flooding, drought
+      and other extreme weather. One cause is the extreme weather resulting from global
+      warming, which Trump denies as part of his policy to support U.S. oil and coal
+      while actively fighting against wind and solar energy production. He has withdrawn
+      U.S. support for the Paris Agreement with other nations to de-carbonize world
+      production. Insurance costs are rising to unaffordable levels for many areas most
+      prone to storms and flooding, much as the annual cost of housing has soared in
+      Miami and other Florida cities and the southern border states threatened by hurricanes.
+      A parallel disruption is the rising electricity price as well as a water shortage
+      caused by the rising demand to cool the computers needed for Trump’s support of
+      artificial intelligence and quantum computing. The increasing demand for electricity
+      is far beyond the investment plans by power utilities to increase their production.
+      Such planning takes many years – and utilities are happy to see the shortages
+      push demand far above supply, enabling prices for electricity to be one of the
+      major contributors to inflating the cost of production. In sum, we see the US
+      economy moving away from policy based on economic objectives, however unsound
+      they appear, and towards one where raw power and vindictiveness are distractive
+      tools intent on rewarding campaign contributors. Photo by Daniela Paola Alchapar
+      on Unsplash The post The Great Soybean Divorce: How China Moved On from America
+      first appeared on Michael Hudson .'
+    one_sentence_summary: Trump's economic policies, including trade wars, tariffs,
+      and tax cuts, are undermining U.S. agriculture, manufacturing, consumer prices,
+      and affordable housing, creating a crisis across multiple sectors.
+    paragraph_summary: The article argues that former President Trump's economic policies
+      have severely harmed key sectors of the U.S. economy, particularly agriculture,
+      manufacturing, and housing. His trade strategies, characterized by a Cold War
+      mentality towards China and Russia, have disrupted the agricultural market by
+      closing off China as a major buyer of U.S. soybeans and imposing tariffs that
+      raise costs for farmers and consumers. Additionally, Trump's tariffs on steel
+      and aluminum have negatively impacted manufacturing, while his tax cuts have contributed
+      to high long-term interest rates, making housing and equipment financing less
+      affordable. The overall effect of these policies has created a crisis for U.S.
+      agriculture and exacerbated inflation, undermining economic prosperity.
+    published: '2025-09-23T00:15:21+00:00'
+  - title: 'The Great Soybean Divorce: How China Moved On from America'
+    url: https://michael-hudson.com/2025/09/the-great-soybean-divorce-how-china-moved-on-from-america/
+    text: 'Trump’s policies are destroying key elements of U.S. economic prosperity
+      Trump has created a crisis for U.S. agriculture with his Cold War weaponization
+      of foreign trade with China and Russia, for manufacturing as a result of his steel
+      and aluminum tariffs, for consumer price inflation mainly from his tariffs, and
+      for affordable housing with his tax cuts that have kept long-term interest rates
+      high for mortgages, auto and equipment purchases, and deregulation of markets
+      giving a free hand to monopoly pricing. Trump’s impoverishment of U.S. agriculture
+      Trump has created a perfect storm for U.S. agriculture, first in his Cold War
+      policy that has closed off China as a soybean market against Russia, second in
+      his tariff policy blocking imports and thus raising prices for farm equipment
+      and other inputs, and third in his inflationary budget deficits that are keeping
+      interest rates high for housing and farm mortgage loans and equipment financing
+      – while keeping farmland prices low. The most notorious example is soybeans, America’s
+      major farm export to China. Trump’s weaponization of U.S. foreign trade treats
+      exports and imports as tools to deprive foreign countries dependent on access
+      to U.S. markets for their exports, and on U.S.-controlled exports of essential
+      commodities such as food and oil (and most recently, high technology for computer
+      chips and equipment). After Mao’s revolution in 1945, the U.S. imposed sanctions
+      on U.S. grain and other food exports to China, hoping to starve out the new Communist
+      government. Canada broke this food blockade – but it has now become an arm of
+      U.S. NATO foreign policy. Trump’s weaponizing of foreign trade – keeping open
+      a constant U.S. threat to cut off exports on which other countries have come to
+      depend – has led China to totally stop its advance purchases from this year’s
+      U.S. soybean crop. China understandably seeks to avoid being threatened by a food
+      blockade again, and has imposed 34% tariffs on U.S. soybean imports. The result
+      has been a shift in its imports to Brazil, with zero purchases in the United States
+      so far in 2025. This is traumatic for U.S. farmers , because four decades of soybean
+      exports to China have resulted in half of U.S. soybean production normally being
+      exported to China; in North Dakota the proportion is 70%. China’s shift in its
+      soybean purchases to Brazil is irreversible, as that country’s farmers have adjusted
+      their planting decisions accordingly. As a member of BRICS, especially under President
+      Lula’s leadership, Brazil promises to be much a more reliable supplier than the
+      United States, whose foreign policy has designated China as an existential enemy.
+      There is little chance of China responding to a U.S. promise to restore normal
+      trade by shifting its imports away from Brazil, because that would be traumatic
+      for Brazilian agriculture and would make China an unreliable a trade partner.
+      So the question is, what is to become of the enormous amount of U.S. farmland
+      that has been devoted to soybean production? Unable to find foreign markets to
+      replace China, farmers are reported to suffer a loss on their soybean production,
+      which is piling up in excess of existing crop storage capacity. The result is
+      a threat of farm foreclosures and bankruptcy, which would lower prices for farmland.
+      As interest rates remain high for long-term loans such as mortgages, this deters
+      small farmers from acquiring troubled properties. The result is to accelerate
+      the concentration of farmland in the hands of large absentee financial funds and
+      the wealthy. This shift is irreversible. Despite the Supreme Court ruling that
+      Trump’s tariffs are unconstitutional and therefore illegal, it seems likely that
+      Trump could simply have the bipartisan anti-China Congress and Senate impose these
+      tariffs. In any case, Trump’s policy represents a sea change, a quantum leap into
+      U.S. coercive trade aggression. There is zero chance of U.S. China trade in soybeans
+      or other basic Chinese needs being revived. Neither it nor other countries threatened
+      by U.S. trade aggression can take the risk of depending on the U.S. market. America’s
+      agricultural cost and income squeeze goes far beyond soybean sales. Production
+      costs are also rising as a result of Trump’s tariffs, especially on farm machinery,
+      fertilizer and credit tightness as the risk of farm debt arrears increase. Trump’s
+      tariffs are raising U.S. industrial costs of production Trump’s tariff anarchy
+      also is causing losses and layoffs of two thousand employees for John Deere and
+      Company , with demand also falling for other manufacturers of farm equipment.
+      The most serious problem is that harvesting equipment, like automobiles and all
+      other machinery, is made out of steel, along with aluminum. Trump has broken the
+      basic logic for tariffs – to promote the competitiveness of high-profit capital-intensive
+      industry (especially for established monopolies), largely by minimizing the cost
+      of raw materials. Steel and aluminum are basic raw materials. These tariffs have
+      hit John Deere in two ways. For its domestic production, sales are low because
+      of the depression of farm income cited above. Yields have soared this year for
+      corn as well as soybean, leading their prices and farm income to decline. That
+      limits the ability of farmers to buy new machinery. Deere imports about 25 percent
+      of the components of its products, whose cost is increased as a result of Trump’s
+      tariffs. Deere’s manufacturing facilities in Germany have been especially hard
+      hit. Trump surprised Deere by ruling that over and above his 15% EU import tariffs,
+      he is imposing a 50% tax on the steel and aluminum content of these imports. That
+      also hits foreign producers of farm equipment, leading to new complaints by EU
+      about Trump’s constant “surprises” in adding to his demand for “givebacks” in
+      exchange for not raising tariffs on imports from the EU even further. Trump’s
+      fight to accelerate foreign reliance on oil and hence global warming Opposing
+      any alleviation to global warming, Trump has withdrawn from the Paris agreement
+      and has cancelled subsidies for wind power, and also for public transportation.
+      This is the effect of lobbying by the oil industry. Not only is U.S. foreign policy
+      dominated by the demand to control oil as the key to weaponizing foreign trade
+      sanctions, but also U.S. domestic economic policy. Soon after World War II ended,
+      Los Angeles tore up its streetcars, forcing its inhabitants to join the automobile
+      economy. Dwight Eisenhower initiated the interstate highway program to favor auto
+      transportation – and with it the consumption of oil. Also plaguing U.S. agriculture
+      is a deepening water shortage for crops and destruction caused by flooding, drought
+      and other extreme weather. One cause is the extreme weather resulting from global
+      warming, which Trump denies as part of his policy to support U.S. oil and coal
+      while actively fighting against wind and solar energy production. He has withdrawn
+      U.S. support for the Paris Agreement with other nations to de-carbonize world
+      production. Insurance costs are rising to unaffordable levels for many areas most
+      prone to storms and flooding, much as the annual cost of housing has soared in
+      Miami and other Florida cities and the southern border states threatened by hurricanes.
+      A parallel disruption is the rising electricity price as well as a water shortage
+      caused by the rising demand to cool the computers needed for Trump’s support of
+      artificial intelligence and quantum computing. The increasing demand for electricity
+      is far beyond the investment plans by power utilities to increase their production.
+      Such planning takes many years – and utilities are happy to see the shortages
+      push demand far above supply, enabling prices for electricity to be one of the
+      major contributors to inflating the cost of production. In sum, we see the US
+      economy moving away from policy based on economic objectives, however unsound
+      they appear, and towards one where raw power and vindictiveness are distractive
+      tools intent on rewarding campaign contributors. Photo by Daniela Paola Alchapar
+      on Unsplash The post The Great Soybean Divorce: How China Moved On from America
+      first appeared on Michael Hudson .'
+    one_sentence_summary: Trump's economic policies, including trade wars, tariffs,
+      and tax cuts, are undermining U.S. agriculture, manufacturing, consumer prices,
+      and affordable housing, creating a crisis across multiple sectors.
+    paragraph_summary: The article argues that former President Trump's economic policies
+      have severely harmed key sectors of the U.S. economy, particularly agriculture,
+      manufacturing, and housing. His trade strategies, characterized by a Cold War
+      mentality towards China and Russia, have disrupted the agricultural market by
+      closing off China as a major buyer of U.S. soybeans and imposing tariffs that
+      raise costs for farmers and consumers. Additionally, Trump's tariffs on steel
+      and aluminum have negatively impacted manufacturing, while his tax cuts have contributed
+      to high long-term interest rates, making housing and equipment financing less
+      affordable. The overall effect of these policies has created a crisis for U.S.
+      agriculture and exacerbated inflation, undermining economic prosperity.
+    published: '2025-09-23T00:15:21+00:00'
+  - title: Trump wages economic war on US allies, while BRICS builds alternative system
+    url: https://geopoliticaleconomy.com/2025/09/17/trump-economic-war-us-allies-michael-hudson/
+    text: 'Donald Trump is imposing tariffs and unequal treaties on longtime allies
+      in Europe, Japan, and South Korea, forcing them to pay and move their factories
+      to the US.
+
+
+      Meanwhile, BRICS and the Shanghai Cooperation Organization (SCO) are building
+      a new multipolar world order based on mutually beneficial trade and investment.
+
+
+      Ben Norton is joined by economist Michael Hudson to discuss.
+
+
+      Video
+
+
+      Podcast
+
+
+      Transcript
+
+
+      (Introduction)
+
+
+      BEN NORTON: The US government has always had a very aggressive foreign policy.
+      The United States has intervened in dozens of countries all around the world.
+
+
+      But what is unique about Donald Trump is that many of his aggressive policies
+      not only target US adversaries like China, Russia, Iran, Venezuela, and Cuba,
+      but also longtime US allies.
+
+
+      Trump has imposed high tariffs that have hurt the economies of key US allies such
+      as Japan, South Korea, and Europe.
+
+
+      In fact, the details of the agreement that Trump imposed on Japan are quite shocking.
+      This was reported on by the Financial Times, which wrote that “Japan confronts
+      the increased price of US friendship”.
+
+
+      Although I would say it’s not so much “friendship”; rather it’s vassalage. Japan
+      has been militarily occupied by the US for 80 years, and we’re now seeing the
+      cost of this imperial relationship.
+
+
+      Because as part of the trade deal that Trump imposed on Japan, the US will be
+      putting 15% tariffs on Japanese exports to the US, whereas Japan is not allowed
+      to impose tariffs on US exports to Japan.
+
+
+      Moreover, what’s shocking about this deal is that Japan is being forced to invest
+      $550 billion in the US economy, and Japan must do this by January 19, 2029, which
+      is Trump’s last day as US president.
+
+
+      But that’s not all. In this extremely one-sided, imperial agreement, the US government
+      has complete control over Japan’s investment. We’re talking about half a trillion
+      dollars of investment. And as the Financial Times put it:
+
+
+      [The deal] reeks of coercion: a sovereign nation forced to funnel private and
+      public-sector investment to a much richer one under a structure unashamedly directed
+      by the US president. Once Japan recoups its investment, it then reaps only 10
+      per cent of the cash flows from the project, to America’s 90 per cent. Yes, Japan
+      has nominal input via a consultative committee into which projects are chosen,
+      but there are no Japanese on the more powerful investment committee and it’s Trump
+      who makes the ultimate call. Yes, Japan can elect not to fund an investment, but
+      if it does so the US may impose new tariffs on Japan “at the rate determined by
+      the President”.
+
+
+      So this is an extremely one-sided deal. The US gets 90% of the return on investment,
+      and Trump personally has control over Japan’s $550 billion of investment in the
+      US.
+
+
+      But it’s not just Japan. South Korea — another longtime US ally that has been
+      militarily occupied by the US for over 70 years — has also been forced to sign
+      an unequal treaty with the US, in which the US imposes 15% tariffs on Korean exports,
+      and Korea is not allowed to retaliate.
+
+
+      But that’s not all. Trump has been humiliating Korea, and the US immigration agency
+      ICE carried out a raid against a major factory in Georgia run by the Korean companies
+      Hyundai and LG, and detained more than 300 South Korean workers in humiliating
+      circumstances, putting handcuffs on them and treating them like criminals.
+
+
+      This has outraged people in South Korea from across the political spectrum, from
+      the left to the right. Media outlets have condemned this abuse of South Korean
+      workers and portrayed their treatment as those of “prisoners of war”, depicting
+      Trump as an aggressive tyrant.
+
+
+      This whole scandal is also deeply hypocritical, because Trump has claimed that
+      he wants to re-industrialize the US, but he is now attacking foreign investors
+      who have been building factories in the US.
+
+
+      The Financial Times reported that the major South Korean companies Hyundai and
+      LG had already invested $20 billion in this factory in Georgia, and they had plans
+      to invest another $20 billion.
+
+
+      This is why a South Korean government official told the Financial Times that the
+      US has put these South Korean companies in an “impossible position”, and the newspaper
+      wrote, “successive US governments pushed them to invest billions of dollars in
+      reviving American industry while refusing to facilitate short-term working visas
+      for projects to be completed on time”.
+
+
+      The FT interviewed the head of research at the Korea International Trade Association,
+      who said, “The US government is two-faced”, because Washington “is asking Korea
+      to invest more in the US, while treating Korean workers like criminals even when
+      it is well aware that they are needed for these projects to happen”.
+
+
+      This is because the US does not have the skilled workers who know how to actually
+      build these high-tech, largely automated factories and create these advanced manufactured
+      goods.
+
+
+      However, instead of training American workers to be technicians and engineers
+      to work in and help to design these factories, the Trump administration is doing
+      the exact opposite.
+
+
+      In March, Trump signed an executive order to abolish the Department of Education,
+      which is currently being run by a billionaire wrestling executive, Linda McMahon,
+      who doesn’t even know what artificial intelligence is. (I’m not joking; the US
+      education secretary really doesn’t know what AI is.)
+
+
+      So the results of Trump’s very aggressive policies is that, one, the US is not
+      re-industrializing; he is not bringing back manufacturing jobs. The contrary is
+      happening.
+
+
+      And two, Trump is alienating longtime US allies like Japan and South Korea, that,
+      again, remain militarily occupied by the US.
+
+
+      And even they are now looking to diversify their foreign relations. They are improving
+      their relations with China, and trading more with China, as their people domestically
+      are outraged by the blatant US attacks on their sovereignty.
+
+
+      In fact, Japan’s Prime Minister Shigeru Ishiba was pressured to resign after signing
+      this humiliating deal with the US, which benefits Washington at the expense of
+      Tokyo.
+
+
+      The same thing has also happened in Europe. Trump imposed another unequal treaty
+      on the so-called US “allies” in Europe, forcing the EU to accept 15% US tariffs
+      on European exports to the US, while Europe cannot retaliate.
+
+
+      Trump also boasted that Europe will be investing hundreds of billions of dollars
+      in the US, and buying weapons from US corporations in the military-industrial
+      complex.
+
+
+      This is how Trump described the trade deal that he imposed on the EU, in a press
+      conference with European Commission President Ursula von der Leyen:
+
+
+      They [the EU] are going to be purchasing hundreds of billions of dollars worth
+      of [US] military equipment. Very important is that they’re going to purchase $750
+      billion worth of [US] energy. So that’s going to be great. And $600 billion worth
+      of investments into the United States, over and above what they have.
+
+
+      So all of this serves as a reminder of the quote by the late US war criminal and
+      imperial strategist Henry Kissinger, who said, “It may be dangerous to be America’s
+      enemy, but to be America’s friend is fatal”.
+
+
+      The so-called US “allies” in Europe, Japan, and South Korea are learning this
+      the hard way.
+
+
+      What is also striking is to compare how the US is treating its “allies” with how
+      the countries in BRICS, in the Global South are building alternative institutions
+      and deepening their trade, cooperating together to build a new multipolar world
+      order.
+
+
+      This September, we saw historic breakthroughs in China, when the Shanghai Cooperation
+      Organization (SCO) held a historic summit in the Chinese city of Tianjin, that
+      also featured India’s Prime Minister Narendra Modi.
+
+
+      India and China have significantly improved their relations after years of conflict.
+      This comes after the US government tried for decades to divide China and India,
+      to divide BRICS, and to divide the SCO.
+
+
+      But Trump’s aggression has actually brought these countries closer together, and
+      accelerated their movement to create a new international financial architecture,
+      one that is not controlled by the US and is not based on the US dollar, but rather
+      uses the national currencies of BRICS countries and SCO members.
+
+
+      So, on one side, you have the allies of the US in Europe, Japan, South Korea,
+      and Australia; the US is imposing unequal treaties on these vassals, which are
+      hurting their economies and benefiting the US at the expense of their own economies.
+
+
+      Meanwhile, the BRICS countries, representing the Global Majority, are building
+      a new financial system that is based on mutually beneficial, win-win cooperation.
+
+
+      The contrast is very stark.
+
+
+      In order to discuss this in further detail, I have the privilege of being joined
+      today by the renowned economist Michael Hudson.
+
+
+      I interviewed him to discuss an article that he published titled “Trump attacks
+      Europe, Korea, Japan, forcing them to subsidize & move industry to US”.
+
+
+      I am now going to play some highlights of our interview, and then I will go straight
+      to the full discussion.
+
+
+      (Highlights)
+
+
+      MICHAEL HUDSON: What Trump and the US is trying to do is a policy of economic
+      coercion, to essentially do to its allies — Europe, the EU, the NATO countries,
+      Japan, Korea, maybe Australia along with that — to say, well, if we’re unable
+      to control and dominate the SCO and the BRICS countries, let’s consolidate control
+      over our allies.
+
+
+      And if we’re going to try to build up America’s industrial power, and with it
+      our military power, and our ability to coerce other countries diplomatically,
+      then we’ve got to draw on the economic power of our allies. And this is an essentially
+      exploitative plan.
+
+
+      …
+
+
+      Trump believes that the US market has been so critical to other countries that
+      they will do anything to subordinate their own interests in the long run, just
+      to maintain access to the US market in the short run.
+
+
+      …
+
+
+      Trump has a standard ploy. He said, well, of course we can roll back the tariffs
+      that would threaten to destabilize your economy; but we want a “giveback”. This
+      is a simple protection racket, is what we call it in the United States.
+
+
+      Trump has said, well, if you follow certain US policies, and if you will agree
+      to transplant your industry to the United States and help us industrialize, take
+      your automobile plants, your industrial manufacturing, your key industries.
+
+
+      …
+
+
+      Yes, Volkswagen, just like Hyundai in Korea, and Nissan [in Japan], all these
+      countries; your companies can continue to make profits, but you’ll make them by
+      offshoring your production from your home country to the United States.
+
+
+      And so he has extracted promises for them to shift to the United States, and promises
+      to roll back tariffs in exchange for their support of US policies.
+
+
+      …
+
+
+      Both Trump and Secretary of State Rubio said, this is not serving us anymore;
+      we can’t compete in a fair market. We’re not going to be fair, because we don’t
+      have to be, because other countries have become so dependent on the American market,
+      that we can punch them in the face, and destabilize their economies, if we want.
+
+
+      They really don’t have a choice but to surrender. That was what America believed.
+
+
+      …
+
+
+      And these deals actually serve as an object lesson for saying, well, you have
+      the new international order that is being defined by the SCO and the BRICS meetings
+      — and the alternative, just look at what the United States has done to Europe,
+      Japan, and Korea, that is the alternative.
+
+
+      (Interview)
+
+
+      BEN NORTON: Michael, thanks for joining us today. It’s always a pleasure. Now,
+      you published a very interesting article in which you argued that the US has been
+      trying to do to Russia, China, Iran, the BRICS countries, the members of the Shanghai
+      Cooperation Organization (SCO), exactly what the US did previously to its so-called
+      European allies, especially the UK, now the European Union, and increasingly the
+      US is economically attacking its so-called allies in Japan and South Korea.
+
+
+      So the countries most affected by these US policies of economic war — not just
+      Donald Trump’s tariffs, but going back even further, the countries most affected
+      have actually been US allies.
+
+
+      And you have explained how the BRICS countries have managed to create an alternative,
+      and they are now accelerating the creation of a parallel financial architecture.
+
+
+      So can you talk about why you wrote this article, how you see what is happening
+      in the world, and what direction you think it is going in?
+
+
+      MICHAEL HUDSON: Well Ben, most of our discussions for the last few episodes that
+      I have been on have been to talk about where is the new international economic
+      order going? Where are the SCO and the BRICS going, under the leadership of China,
+      Russia, now India, Iran, as they create what really was supposed to be created
+      after World War Two, in 1945, a fair trade association of countries under basically
+      the United Nations principle of equality of states; with no special rules for
+      certain countries; with uniform trade rules, uniform investment rules, uniform
+      monetary rules; the whole idea of international trade and investment of mutual
+      gain, where investors and host countries would both benefit, and exporters and
+      importers both benefit.
+
+
+      All of that has been changed radically in the last few years. And that has led
+      to the creation of the SCO, initially in response to America’s overt military
+      attacks, to say, if we can’t control Russia, China, Iran, and other countries,
+      we’re going to press for regime change; we’re going to try to overthrow them;
+      we’re going to prevent their economic development, by imposing such a high military
+      overhead on these countries that they will become economic failures, just as we
+      used that strategy against Russia in Afghanistan under [Zbigniew] Brzezinski’s
+      idea, to just try to drain countries by warfare.
+
+
+      The idea is to treat all countries that seek independence from the United States
+      to be treated like Russia has been treated with the NATO war in Ukraine, in the
+      Baltics, and on Russia’s southern borders.
+
+
+      Other countries are trying to go it alone, and in the process now they have a
+      country, an economy, China, large enough to merge with each other, they found
+      that they don’t need trade with the United States anymore.
+
+
+      The election of Trump, and his tariff policy, to use to threaten other countries
+      with chaos, has driven them to create an alternative that will not be based on
+      chaos, but will be based on a more mutual gain, win-win type of situation.
+
+
+      Well, all of the attention has been on how are these countries going to formulate
+      their trade interactions; their means of financing foreign trade in each other’s
+      currencies, instead of having to use the dollar; using the Chinese bank transfer
+      system [CIPS] instead of the SWIFT system that has been weaponized.
+
+
+      As they see — as China, Russia, and Asian countries in general, and the Global
+      South, see the United States weaponizing its foreign trade, its international
+      investment, the dollar system itself, they realize they want to deal with a non-weaponized
+      trade and investment system.
+
+
+      So, all of the attention that you and I, and most of the discussants, have been
+      trying to look forward and forecast is, how is this system going to evolve?
+
+
+      Well, what I want to talk about today is, what about the rest of the world that
+      is not evolving? What about the United States and its allies, who have said, we
+      do not want to be part of this system of non-weaponized trade and investment,
+      because we still want to hope that we can dominate the world, and somehow that
+      we can make the SCO and the BRICS fail, and drive them back into the US orbit.
+
+
+      That is the dream of the American neocons and the neoliberals. And it seems a
+      crazy dream, to go together with their Cold War military attacks — we have seen
+      how that has failed in Ukraine, and has failed throughout much of the world —
+      but it hasn’t stopped them.
+
+
+      So I want to talk about what is the alternative to the SCO and the BRICS. What’s
+      the alternative to the Global Majority going together to restructure the system
+      of international trade and investment?
+
+
+      Well, you’ve seen the United States strategists — not only Trump, but he is representing
+      the entire deep state, the entire collective US strategy, the State Department,
+      the national security groups.
+
+
+      BEN NORTON: And Michael, also representing the newly renamed Department of War.
+
+
+      MICHAEL HUDSON: Yeah, he [Trump] has made it very explicit that what we’re talking
+      about is not only an economic, commercial, and monetary restructuring; it’s really
+      a military alignment.
+
+
+      And Trump has stepped up the intention of promoting regime change and military
+      war, accelerating the war against Russia.
+
+
+      BEN NORTON: And Venezuela
+
+
+      MICHAEL HUDSON: Yeah. Many commentators have already pointed out that NATO has
+      basically failed to confront Russia, but it’s still not giving up.
+
+
+      It has failed to mount an attack that has destabilized Russia. What is it going
+      to do as an alternative to military confrontation with Russia, now that Russia
+      and China, and other SCO members, are not only technologically ahead of the United
+      States, not only industrially ahead, but as a result, militarily ahead?
+
+
+      This pretty much leaves the United States militarily with only one option. The
+      only way that it can fight other countries is not by land invasion, not by ships,
+      but by missiles. And missile fighting ends up in atomic war. I don’t see the world
+      going that way, until the Americans get even more desperate than they are now.
+
+
+      What Trump and the US policy is trying to do is a policy of economic coercion,
+      to essentially do to its allies — Europe, the EU, the NATO countries, Japan, Korea,
+      maybe Australia along with that — to say, well, if we’re unable to control and
+      dominate the SCO and the BRICS countries, let’s consolidate control over our allies.
+
+
+      And if we’re going to try to build up America’s industrial power, and with it
+      our military power, and our ability to coerce other countries diplomatically,
+      then we’ve got to draw on the economic power of our allies. And, this is an essentially
+      exploitative plan.
+
+
+      In a way, you could say that what Trump is trying to do is recreate for the United
+      States today what Britain did in its sterling area, and its colonialism of the
+      19th century, to use other countries, subordinate countries, to use its colonies,
+      and its protectorates, and countries that it influenced, including the United
+      States, for its own economy, to sort of subsidize its ability to maintain an imperialistic
+      military threat against these countries.
+
+
+      A map of the British empire’s sterling area
+
+
+      That’s the big picture that the United States is trying to do, and it’s trying
+      to do it in ways that, in many ways, are like those used by Britain — a dual set
+      of tariffs, for instance, one set of tariffs for members of the British empire,
+      other tariffs for other countries; a whole division of the world into British
+      and non-British.
+
+
+      Well, what the United States is doing is a similar division of the world into
+      the United States its allies, on the one hand, the 15% of the world — the garden
+      is what NATO calls it.
+
+
+      BEN NORTON: Josep Borrell, the the former EU foreign policy chief, said that.
+
+
+      JOSEP BORRELL: Yes, Europe is a garden. We have built a garden… The rest of the
+      world, most of the rest of the world, is a jungle. And the jungle could invade
+      the garden.
+
+
+      MICHAEL HUDSON: Right, against the rest of the world, that is going ahead.
+
+
+      So the solution by the US deep state is to sort of keep its allies in neocolonial
+      dependency.
+
+
+      Well, how is it going to use their wealth to re-industrialize itself? I think
+      the best place to start is on the economic war with America’s own allies, and
+      exactly what the strategy is, now that Trump realizes that he has lost his ability
+      to do what he dreamed of doing, of just making threats.
+
+
+      The threat that he has imposed on other countries is, well, I’m going to impose
+      these tariffs that are going to cause chaos in your economy, cripple them, lead
+      to unemployment, lead to the bankruptcy of some of your businesses that have depended
+      on the US market.
+
+
+      Trump believes that the US market has been so critical to other countries that
+      they will do anything to subordinate their own interests in the long run, just
+      to maintain access to the US market in the short run.
+
+
+      Well, that hasn’t worked. We have seen how it hasn’t worked with India. It is
+      unable to influence China and its allied countries.
+
+
+      But it has worked tremendously against America’s allies, especially the European
+      allies.
+
+
+      So the Trump group met with the EU head, [Ursula] von der Leyen.
+
+
+      You’re seeing the European leadership of individual countries — [Friedrich] Merz
+      in Germany, [Keir] Starmer in Britain, [Emmanuel] Macron in France — you’re seeing
+      the result of the US, CIA, and NED (National Endowment for Democracy) interfering
+      in European politics for the last 80 years, really since 1945.
+
+
+      The result of this US interference — with non-governmental organizations (NGOs),
+      with propaganda, with control of the mass media and television — you have nurtured
+      and put in place a group of political leaders whose loyalty is largely to the
+      United States, not to their own countries.
+
+
+      The result is a widening disparity between the political leaders of these countries
+      — the social democrats; the Christian democrats; the so-called “socialist” parties,
+      that are now part of the right wing, not the left wing; all pro-US, liberal parties
+      — and the population at large, that is reacting against the brutal force, and
+      chaos that Trump has tried to impose.
+
+
+      So von der Leyen came to the United States, and the United States, said — Trump
+      has a standard ploy — he said, well, of course we can roll back the tariffs that
+      we threaten to destabilize your economy, but we want a “giveback”. This is a simple
+      protection racket, is what we call it in the United States.
+
+
+      Trump had said, well, if you follow certain US policies, and if you will agree
+      to transplant your industry to the United States and help us industrialize, take
+      your automobile plants, your industrial manufacturing, your key industries.
+
+
+      And now that we have cut off European trade with Russia for its oil and energy,
+      now that Europe is dependent on America’s liquefied natural gas for its energy
+      imports, that have gone way up, Europe itself, its major industrial companies
+      have been faced with falling profits and actual bankruptcy.
+
+
+      What are they going to do?
+
+
+      Trump says, well, there is a way out. Yes, Volkswagen, just like Hyundai in Korea,
+      and Nissan [in Japan], and all these countries, your companies can continue to
+      make profits, but you will make them by offshoring your production from your home
+      country to the United States.
+
+
+      So he has extracted promises for them to shift to the United States, and promises
+      to roll back tariffs in exchange for their support of US policies.
+
+
+      Well, von der Leyen and the three European political leaders whom I have discussed
+      said, well, we’ve made this agreement in order to make Trump happy enough that
+      he will protect us from Russia’s military invasion of Western Europe.
+
+
+      The whole mythology, the parallel universe, that has been created between the
+      European and American sphere’s view of reality and the actual reality, as seen
+      by the Global Majority and the rest of the world, is that somehow Russia and China
+      represent a military threat to Europe, to actually invade it and take it over.
+
+
+      You’re having the leaders of the right-wing parties, namely the ones that call
+      themselves liberal and left-wing parties, all living in this political unreality.
+
+
+      So von der Leyen says, well, it’s worth sacrificing European prosperity as long
+      as America will continue to protect us by fighting Russia and Ukraine, and prevent
+      Russia from taking over Ukraine today, and then Poland next, and then Germany,
+      and then marching right to to the Atlantic Ocean.
+
+
+      Well, that was a crazy thing for von der Leyen to say, because any agreement that
+      you make with Donald Trump is subject to change on a weekly, maybe almost a daily
+      basis. And Trump has continued to keep insisting on new givebacks.
+
+
+      Once he sees that he is dealing with a political party that knuckles under, it’s
+      like dealing with a weak adversary in the marketplace in the United States. You
+      just keep pushing and pushing, and you don’t know how far you can push until the
+      other side pushes back.
+
+
+      Well, so far, from Europe, there has been no push back at all.
+
+
+      Trump has said, well, we’re not going to spend any of our military budget on fighting
+      Russia anymore; it’s up to you, the Europeans. You must now use your military
+      budget to fight in Ukraine, and to fight in the Baltics, and to fight elsewhere
+      against Russia.
+
+
+      You will do this fighting by buying American military armaments. Well, he didn’t
+      add, we know that the arms don’t work; we know that our missiles can be stopped;
+      we know that our anti-missile protection doesn’t work; we know that the back of
+      the tanks can be shot right out; we know that our military arms are obsolete and
+      don’t work, but you have to agree to that anyway.
+
+
+      And Von der Leyen said, well, we’ll agree. She and the Estonian assistant to EU
+      foreign policy.
+
+
+      BEN NORTON: Kaja Kallas, who is now running the EU’s foreign policy. She replaced
+      Josep Borrell, who gave the infamous garden speech.
+
+
+      So they went from someone who was already, you know, a colonialist, to someone
+      who is now even worse, even more of a warmonger.
+
+
+      MICHAEL HUDSON: Yes, they have agreed to all this, and the Europeans have agreed
+      to move their industry to the United States.
+
+
+      And America is pressing them now, well, you’ve got to impose tariffs against India,
+      trade with India, because India is importing oil from Russia to send to you.
+
+
+      We know that we’ve cut off Nord Stream oil; we’ve cut off other Russian gas. But
+      you Europeans are still getting oil from India, and it’s Russian oil that you’re
+      getting.
+
+
+      And you have to punish India for relying on Russia for its own oil, and for refining
+      oil to send to you, with tariffs. You have to cut off your trade with China just
+      like you’ve cut off your trade with Russia.
+
+
+      You actually have to do, in reverse, what the BRICS and SCO countries are doing.
+      We have to trade among ourselves; we have to isolate European and American trade,
+      and the American dollar sphere, with trade among itself, excluding trade with
+      countries outside of the dollar sphere.
+
+
+      Well, you can imagine the impact of this on European industrialists. And economists
+      say, well, the world is divided into two blocs, and the Global Majority, the SCO,
+      BRICS and Global South, that’s where the economic growth, in GDP, in trade, in
+      industrialization and technology, is occurring; it’s not occurring in the United
+      States; it’s not occurring in Europe, either. We’re going to lose this market.
+
+
+      And basically, they have been overruled. You’re not having the industrial self-interest
+      determine the actual economic policy of the European governments or other American
+      allies. They’re actually willing to put America’s economic interests above their
+      own.
+
+
+      And they’ve been agreeing to move their industries in the United States. So Trump
+      said, all right, we’re not going to charge you 25% tariffs; we’re going to lower
+      the tariffs on European imports to 15%.
+
+
+      Well, that led the Europeans to think, well, maybe 15% we can live with. Certainly
+      the importers, since we’re the main suppliers of many of these goods to the United
+      States, the American consumers are going to have to bear much of the cost of the
+      tariffs. And we’ll probably lower our prices a bit, and absorb some of the cost
+      of the tariffs, but we can live with that.
+
+
+      But then Trump, this week, has changed the rules once again, all in the small
+      print of the contracts.
+
+
+      This, I think, is such a clever twist that I think most of the world’s press has
+      completely overlooked it.
+
+
+      Trump has said, well, when I said you’re going to have 15% tariffs, all of this
+      is subject to an existing overriding tariff policy — my very first tariff policy
+      was a 50% tariff on steel and aluminum, in order to help steel and aluminum be
+      made in the United States.
+
+
+      Well, that was pretty much a dream to begin with, because the US steel industry
+      has been dismantled increasingly, from underinvestment and obsolescence.
+
+
+      And aluminum is made basically out of electricity, and there’s an electricity
+      shortage in the United States, not only because of the huge new source of demand
+      for electricity for computers [and AI], but the fact that it takes almost a decade
+      for a new electric utility to be put in place to place to increase electricity.
+
+
+      And second, Trump has said that — one way that America has controlled trade for
+      the last half century, to weaponize it, is control of oil. One of our hopes to
+      lock in other countries to US trade control is control of the oil trade.
+
+
+      So we’re going to spur the oil trade. And he [Trump] has stopped all alternative
+      sources of energy, in the United States, to oil. He has withdrawn support for
+      the windmills that use air power. He has blocked solar energy, because the solar
+      energy technology is largely from Chinese manufacturers.
+
+
+      He has limited America’s energy supply to oil, coal, and gas; not like the rest
+      of the world, which is trying to decarbonize.
+
+
+      Trump has thrown his entire diplomatic support, in foreign policy, to opposing
+      efforts to stop global warming. Carbonization, oil, coal and gas are supposed
+      to be the fuels of the future, not sunlight, wind, and other alternatives to oil.
+
+
+      So, Trump has basically insisted on aluminum and steel tariffs going up to 50%.
+      And he has then blocked European imports of not only automobiles, but also machinery,
+      and goods — any European industrial product that is made out of steel and aluminum
+      is subject to this 50% tariff, not the 15% that he promised, but he is going to
+      calculate, in a very complicated mathematical calculation, how much of this contains
+      steel and aluminum.
+
+
+      Well, this is absolutely crazy, and bureaucratic. It has already led European
+      producers to say, well, most of almost everything we make as an industrial export
+      contains steel and aluminum.
+
+
+      You have had major German makers, of harvesting equipment for instance, say, well,
+      we’re going to have to lay off our employees, because our major market, about
+      20% of the European agricultural machinery is sent to the United States.
+
+
+      That includes the American affiliate of John Deere, an American company that makes
+      harvesting machinery and other agricultural machinery in Germany, and exports
+      it to the United States. It is also impaired, and said, well, we’re going to have
+      to lower production; we’re going to have to layoff labor. It has become basically
+      a disaster for them. And Trump is refusing so far to give it in on this.
+
+
+      The European agreement with the United States still hasn’t been formalized to
+      the very final stage, which is the parliament has to agree on this. And now, for
+      the first time this week, there has been a fight back in the European Parliament,
+      saying, Trump is doing to us what he has done to every other country, bait and
+      switch.
+
+
+      This agreement that we are now being asked to sign is not the seeming compromise
+      — that was no compromise at all — that we thought was being offered by the United
+      States. It’s a policy that results in our dismantling.
+
+
+      Well, the question is, how will the European Parliament vote on this? Well, the
+      problem here is a political crisis for Europe. The existing parliament, the existing
+      political parties, are all Atlanticist, and pro US.
+
+
+      As the Europeans become aware of the complete surrender of European economic autonomy
+      by von der Leyen, in her so-called negotiation, Bambi meets Goliath, with Trump,
+      this means curtains for European industry.
+
+
+      The result is nationalistic parties emerging in Europe. The Alternative for Deutschland
+      in Germany, which Germany is talking about banning from power, and similar right-wing
+      nationalist parties in other countries. This is the political crisis that you’re
+      going to see unfolding.
+
+
+      And for the first time, a Central European argument, politically, across the whole
+      continent, is what bloc are we going to associate our economic and political future
+      with, and our military future?
+
+
+      Will it be the United States Cold War bloc, in which case we have to promise to
+      subsidize Ukraine and any and all US Cold War spending, to counter Russia and
+      other countries that the United States opposes?
+
+
+      Or are we going to realize that our future lies with the Gobal Majority, of countries
+      in the rest of the world. That is what is transforming Europe.
+
+
+      BEN NORTON: By the way, Michael, the director of trade for the EU Commission,
+      who is a German politician named Sabine Weyand, did an interview with the German
+      media. It did not really get any attention in English, because it wasn’t translated
+      by the mainstream corporate media.
+
+
+      But there are some very revealing quotes in this interview from the person who
+      oversaw these so-called negotiations.
+
+
+      She admitted that there were no real negotiations. She said, “If you didn’t hear
+      me say the word ‘negotiation’ – that’s because there wasn’t one”.
+
+
+      So, in other words, the US imposed its terms on Europe, and they simply accepted
+      it.
+
+
+      And why is that? This top EU official admitted in the interview, “we are completely
+      dependent on the United States”.
+
+
+      Those were the words of a top EU official. So when they’re speaking in their native
+      languages, not when they’re speaking in English for the US media, but when they’re
+      speaking for the German media, they acknowledge some of these inconvenient truths.
+
+
+      But then, of course, they’re not second-guessing their extreme Atlanticism.
+
+
+      MICHAEL HUDSON: That’s exactly what I was trying to say. And, you’re right, there
+      was no real negotiation, because you have von der Leyen and the so-called negotiators
+      acting on behalf of the United States. It’s like a kangaroo court.
+
+
+      BEN NORTON: Did you see, in the press conference, when Trump and von der Leyen
+      first announced the so-called deal, a US journalist asked von der Leyen, what
+      is the US giving up? Does the US give up anything in this deal?
+
+
+      Von der Leyen’s response was, well, we had a trade surplus and the US had a trade
+      deficit, so we’re trying to make the trade more equal, as she put it, which is
+      her way of admitting that there was no US concession.
+
+
+      REPORTER: I have a question for the EU Commission president. What are the US concessions?
+      What is the US giving up in the deal, if anything?
+
+
+      URSULA VON DER LEYEN: So the starting point was an imbalance, a surplus on our
+      side and a deficit on the US side. And we wanted to rebalance the trade relation,
+      and we wanted to do it in a way that trade goes on between the two of us across
+      the Atlantic, because the two biggest economies should have a good trade flow
+      between us.
+
+
+      And I think we hit exactly the point we wanted to find. Rebalance, but enable
+      trade on both sides, which means good jobs on both sides of the Atlantic, means
+      prosperity on both sides of the Atlantic. And that was important for us.
+
+
+      DONALD TRUMP: And again, the energy is a very important component, because we
+      have more energy than anybody else, in that sense.
+
+
+      I think it is very wise that they buy a lot of [US] energy, and it’s great stuff.
+      And it solves a lot of problems. So that was a great decision, I think.
+
+
+      MICHAEL HUDSON: Well, also, the US gets an enormous amount of international payments
+      [from the EU], on debt service, on remission of profits by American companies
+      abroad. America makes on its capital account an enormous amount of money.
+
+
+      Plus, Europe’s international monetary reserves are sent to the United States to
+      invest in Treasury bonds.
+
+
+      So, von der Leyen knew that she was lying. Her job is to do just exactly that,
+      and to distract attention from what are the actual balance of payments flows between
+      Europe and the United States, for monetary reserves invested in US Treasury bills,
+      remission of US profits and other capital account and military transfers to the
+      United States.
+
+
+      It’s a fictitious world.
+
+
+      BEN NORTON: By the way, Michael, on the subject of European politicians being
+      overwhelmingly Atlanticists, I was recently going through data that was published
+      by the Federal Reserve, and it looked at foreign holdings of US securities, and
+      in particular of US stocks.
+
+
+      And what this data shows is that, of all of the regions of the world, Europe has
+      by far the largest holders of US equities (stocks), and also corporate debt.
+
+
+      Keep in mind that Europe’s population is only around 750 million, compared to
+      Asia’s population, which is nearly 5 billion.
+
+
+      Yet, in Europe, they hold over twice as many US stocks and corporate bonds than
+      in Asia.
+
+
+      So obviously, in Europe, the vast majority of elites have a huge part of their
+      portfolio held in US assets, especially stocks and corporate bonds.
+
+
+      So not only are they Atlanticists for political reasons and ideological reasons,
+      but a lot of them, I think, are Atlanticists because it serves their own portfolios.
+      I mean, they’re acting in their own economic interests.
+
+
+      MICHAEL HUDSON: I don’t think they are. Trump’s announced policy is he wants to
+      lower the dollar’s exchange rate.
+
+
+      Now, if he lowers the dollar’s exchange rate, that means that the value of US
+      bonds, and US stocks, and US Treasury holdings, as denominated in euro, is going
+      to go down. So they’ll take a foreign exchange loss on whatever interest rates,
+      and capital gains, and stock dividends they get.
+
+
+      So what seems to be in their short-term interest is going to go kaboom if they
+      live in the long run.
+
+
+      The Europeans live in the short run. The short run determines, you know, when
+      is the next election.
+
+
+      The Asians are looking at the long run. The Asians are avoiding, are moving out
+      of letting their money stay in the US, because you’ve seen America grab $300 billion
+      worth of Russian investments in the West.
+
+
+      The Asians say, we don’t want the US to do with us what it has done to Russia.
+      Of course they’re moving out. They’re afraid to hold US investments.
+
+
+      Of course, what the United States has grabbed from Russia, it can grab from Saudi
+      Arabia, or Turkey, or any other country that wavers in its loyalty and submission
+      to US foreign policy.
+
+
+      BEN NORTON: If you look at the official data from the Federal Reserve on foreign
+      holders, official holders — that is, foreign central banks investing in US Treasury
+      securities — you can see that, in recent years, the BRICS countries have been
+      slowly, gradually, on net, selling their Treasury holdings.
+
+
+      They’re not just dumping them immediately, but, over the years, you can see a
+      chart, and their holdings have been falling, especially China’s holdings.
+
+
+      And meanwhile, what are the countries whose central banks have been buying more
+      and more Treasuries? It’s European countries, the UK and EU member states.
+
+
+      So Europe is helping to fund the US government, while BRICS countries are on net
+      selling their US government debt.
+
+
+      MICHAEL HUDSON: Well, that’s exactly what happened in the 19th century, through
+      World War Two, when India’s vast increase in its trade surplus was all kept in
+      London. India was one of the major bolsters of the British sterling area, and
+      the exchange rate.
+
+
+      That was what the United States tried to dissolve and end, successfully, in 1944
+      and 45, with the British loan (the Anglo-American loan), saying, you have to open
+      your markets; no blocked currency; India and other countries that had built up
+      their foreign exchange during World War Two, they can spend the sterling, and
+      francs, and other foreign currencies wherever they want, meaning in the United
+      States, which was at that time the leading industrial power.
+
+
+      Well, that was America saying, the world economy should be “open”, meaning trade
+      with the United States.
+
+
+      And the result was that the United States increased its holding of gold, between
+      1945 and 1950, to 80% of the world’s monetary gold, as gold flowed out of Europe,
+      and other countries, just as it had flowed during the 1930s, in capital flight,
+      to the United States.
+
+
+      Well, that was when the United States promised an open world economy with equal
+      rights for all, similar to how the United Nations was treating countries.
+
+
+      That’s what, both Trump and Secretary of State Rubio says, this is not serving
+      us anymore; we can’t compete in a fair market. We’re not going to be fair, because
+      we don’t have to, because other countries have become so dependent on the American
+      market that we can punch them in the face and destabilize their economies, if
+      we want.
+
+
+      They really don’t have a choice but to surrender. That was what America believed,
+      that it was so necessary for other countries, that they had no alternative.
+
+
+      Well, now we’re seeing, if they really have no alternative, what is the United
+      States going to do to press its advantage?
+
+
+      And I want to talk about what it has done to Korea and Japan, to illustrate exactly
+      what it would like to do to the the whole rest of the world, if countries agreed
+      to follow the US “rules-based order” instead of the fair open economy of mutual
+      gain that the global majority of SCO, BRICS, and Asia is wanting.
+
+
+      Well, the United States threatened to impose very heavy tariffs of 25% on Korea,
+      which of course would just block its exports to the United States, and cause mass
+      unemployment there, which would have led to the Korean government falling, and
+      probably have led to a left-wing government — and the Korean government has been
+      always very right wing.
+
+
+      Well, the United States insisted that Korea shift its automobile production away
+      from employing Koreans in Korea and to the United States. So it pressed Hyundai
+      to invest over $20 billion to make a factory in Georgia.
+
+
+      Well, as the whole world has seen in the last week, the immigration service somehow
+      blocked this.
+
+
+      Korea said, it takes, you know, two or three years to build this factory. We’re
+      going to employ American labor to make, manufactures. But we don’t want this southern
+      labor to end up making the Hyundai automobiles look like the Boeing airplanes,
+      that are made in the non-unionized, southern production plants.
+
+
+      It turns out that part of America’s deindustrialization has been to stop almost
+      all the vocational education in the United States, for engineering.
+
+
+      How do you engineer and create a factory? That’s not something that is taught
+      in the United States, because factories are being dismantled and turned into gentrified
+      housing, not production facilities.
+
+
+      BEN NORTON: And turned into Amazon warehouses, to sell products that were made
+      in China and other Asian economies. And the de-industrialized factories in the
+      Midwest, they’re just sitting there, so Amazon buys them up.
+
+
+      MICHAEL HUDSON: That’s right. Well, anyway, Korea said, well, we’re going to send
+      the contractors that have been building our factories in Korea over to the United
+      States, and we’re going to be sending our skilled labor over.
+
+
+      They’re used to set up a plant and its machinery, and design it so that it can
+      be run efficiently once it goes into production using American labor.
+
+
+      We have to set up the plant, because if you don’t set it up initially in a very
+      rational way, that is free of cutting corners, Boeing style, that is done efficiently,
+      then you’re going to have problems that are going to vastly increase the cost
+      of production, and redos later on.
+
+
+      Well, this week, the United States, and Trump is trying to get brownie points
+      politically by hitting foreigners.
+
+
+      Mostly, so far, he has hated the undocumented immigrants, Hispanics. The immigration
+      authorities, ICE, have been arresting Hispanics, grabbing them, even if they’re
+      American citizens or were born here. They’re grabbed, and put in chains, and sent
+      to relocation camps.
+
+
+      Well, all of this was done to Koreans, with handcuffs, leg irons, totally shackled,
+      and arrested on the grounds that their work visas had expired, or their work visas
+      said they were here for business meetings.
+
+
+      Well, the Korean government had been arguing with the Biden administration, you
+      know, can’t you open the visas so that we can have — we don’t want to invest in
+      the United States — but can’t you give us visas so we can have our skilled labor
+      and our staff set up production facilities?
+
+
+      The Biden administration said, well, you know, we’re just not going to impose
+      —Congress is unwilling to pass any law that gives foreigners equality with the
+      United States. You are not only inferior; you’re the Yellow peril. So of course
+      we can’t give you the special concessions we have given Australians; they are
+      white people; they are English speakers; you’re not.
+
+
+      So we’re not going to rewrite the laws to say, yes, you can move your skilled
+      labor here. You’re who you are.
+
+
+      But we’re just not going to enforce the law, because, of course, we realize that
+      you’re going to have to have your engineers and your skilled labor set up the
+      facilities here, that we’re insisting that you do, so that you can employ American
+      labor, not your own labor, so you can increase American employment at the cost
+      of your own unemployment, and so that you can hurt your economy by helping our
+      economy.
+
+
+      BEN NORTON: Yeah, Michael, this is also what happened with TSMC, which is the
+      Taiwan Semiconductor Manufacturing Company. They produce the majority of the world’s
+      most advanced, cutting-edge chips.
+
+
+      The US government wanted to force TSMC to move its most advanced capital equipment
+      to the US, to invest to create factories in Arizona. And the US did pressure TSMC
+      to do so, starting under Trump and continuing under Biden.
+
+
+      TSMC has invested billions of dollars making these factories in Arizona. And then
+      they realized there were no skilled workers in the US who knew how to actually
+      use this equipment, because we’re talking about the most cutting-edge technology
+      in making semiconductors.
+
+
+      So Taiwan sent over entire families of workers from TSMC.
+
+
+      So what South Korea has been doing is not necessarily unique, and I would not
+      be surprised to see that Trump starts going after other industries with these
+      skilled workers, so the US won’t have any skilled workers.
+
+
+      MICHAEL HUDSON: This is exactly the problem. The many generations of skilled workers,
+      machine workers, engineers, designers, have retired as a result of old age.
+
+
+      And nobody has been trained to take their place, because America has decided,
+      the way to make money is by de-industrializing, not by industrializing. Let’s
+      make money financially.
+
+
+      And if we’re not going to industrialize, what’s the point of training skilled
+      labor? Because there are not going to be any factories for them to work in.
+
+
+      So this is the result of a long-term, neoliberal financialization of the United
+      States economy. And Trump just ignored all of this. He thought, well, employing
+      American labor, just any American labor can do any job. You don’t need an education.
+
+
+      In fact, especially you don’t need an education if we’re abolishing the Education
+      Department.
+
+
+      And if we’re finding we don’t want to educate the kind of racial and ethnic people
+      who become manual skilled laborers, because for the last two centuries, who have
+      been America’s skilled industrial laborers? Immigrants have been the key to all
+      of this, from the 19th century and early 20th century.
+
+
+      If you’re going to oppose immigrants, who said, yes, we’re going to do all the
+      dirty jobs in order to be able to live here and to make a new life in America;
+      we’ll work in the construction industry, we’ll work as home care workers; we’ll
+      do the manual labor jobs, not middle class, but we’ll be wage earners, just blue-collar
+      workers.
+
+
+      The Americans don’t want to do these jobs, because the Americans want to all be
+      middle class, as if somehow middle class means not manual labor, not industrial,
+      but the professional-managerial class.
+
+
+      Well, that’s the corner into which US society has painted itself.
+
+
+      You’re right, the Taiwanese [TSMC] factory is certainly a case in point.
+
+
+      And, obviously, it’s increasing the cost of production and making the Taiwanese
+      worry that, well, how are things going to work out, when other countries, whether
+      it’s Korea or Japan, or Europe, Germany, make an American affiliate here, producing,
+      this affiliate becomes a hostage.
+
+
+      And the United States can, essentially, if there’s a policy disagreement over
+      a Cold War stance, which economic bloc are you going to be loyal to, the American
+      bloc or the SCO-BRICS bloc?
+
+
+      They are holding the European investments here hostage, while the European, or
+      Japanese, or Korean investors have lost the production facilities that they have
+      now offshored to the United States.
+
+
+      Well, for years, Korea had wanted the same kind of treatment that I think the
+      United States has been giving Taiwan, and it realized that, yes, we’ll let the
+      Taiwanese come in, because we’re hoping that somehow we can have its leaders agree
+      to fight China to the last Taiwanese. We would love to see Taiwan become the Asian
+      Ukraine, fighting China, being like an insect, bothering it on the corner, and
+      end up being wiped out. That’s too bad, but at least it will drain China.
+
+
+      Well, you’ve seen, the result of all of this is that the Korean press and the
+      American press made a big thing — how come all of these workers were brought here
+      thinking that the United States would say, well, that part of the agreement of
+      our investing in America is we’re supplying the labor, and now they’re put in
+      shackles?
+
+
+      Trump reversed his stance and said, OK, now you can remain here if you want. But
+      every Korean worker who had been handcuffed and put on the plane, with them saying,
+      you know, we don’t want you here. And they were subject to all sorts of racial
+      attacks.
+
+
+      They said, we don’t want to stay in the United States; we don’t want to stay in
+      the South. We didn’t realize how they felt about people who are not white.
+
+
+      And they all insisted on going back to Korea, refusing to come to the United States.
+      Only one Korean worker chose to remain here.
+
+
+      Well, the question is, how will Korea go from here and convince other workers
+      to submit to the degrading treatment that they get in the United States?
+
+
+      BEN NORTON: By the way, Michael, did you see this chart that was published in
+      the Financial Times? It is a survey asking Americans if they thought that the
+      US would be better off if more Americans worked in manufacturing.
+
+
+      80% of Americans said yes. And for Republicans, even more than 80% said that the
+      US would be better off with more people working in manufacturing.
+
+
+      But then they asked a follow-up question: would you personally be better off if
+      you worked in a factory? And only around 20% of Americans said that they would
+      be better off working in a factory.
+
+
+      Because they don’t want to actually work in a factory. They want to work in an
+      email job in an air-conditioned office, where they don’t have to be standing on
+      an assembly line every single day.
+
+
+      So, obviously, pretty much everyone agrees that the US should re industrialize.
+      But getting people to actually work in those factory jobs is going to be difficult,
+      given the shortage of not only skilled labor, but the shortage of people willing
+      to do this work.
+
+
+      So Trump says he wants to re-industrialize the US, but he also wants to deport
+      the immigrants who would be most likely to work in the factories that need to
+      be built to re-industrialize the US.
+
+
+      MICHAEL HUDSON: Well, that’s what I was trying to say. It’s not really an economic
+      issue so much as a cultural issue, of status.
+
+
+      People think that it’s low status to work in an industrial job, that that’s working
+      class, not middle class.
+
+
+      What the American political discussion doesn’t realize is that the middle-class
+      people are also wage-earners. There isn’t any middle class. The middle class is
+      still part of the wage-earning class.
+
+
+      Well, that’s what the Democratic Party, and its whole social engineering has tried
+      to dissolve.
+
+
+      It has tried to create an identity politics, where there is every kind of identity,
+      every kind of way of subdividing identities, every identity except being a wage-earner.
+
+
+      BEN NORTON: Except class, there is no working class anymore. There’s no discussion
+      of class politics in the US.
+
+
+      Which is how you can have a so-called “populist”, who is a billionaire, Donald
+      Trump, who fills his administration with a dozen billionaires, including the head
+      of the Treasury, a billionaire hedge fund manager from Wall Street, Scott Bessent,
+      who worked for the liberal billionaire, the Democratic billionaire, George Soros,
+      but apparently that’s not a scandal, because they’re all part of a big club of
+      billionaires.
+
+
+      Yet they portray themselves as the “populist” party who are “fighting for workers”.
+      It’s so crazy.
+
+
+      And the Democratic Party doesn’t do anything to actually serve working people,
+      because neither party actually wants to talk about class politics and the billionaires
+      who fund and control both parties.
+
+
+      MICHAEL HUDSON: It’s not simply that the Republicans and the billionaires have
+      attracted the working class. The Democrats have driven the working class away.
+
+
+      This is not a Republican attraction of labor. It’s the Democrats saying, if you’re
+      a worker, a wage-earner, we don’t want you in our party. If you’re someone who
+      wants universal health care, like Bernie Sanders, get out of our party. If you’re
+      someone who wants a living wage, well, you’re, I’m afraid, below the status of
+      the people that we’re looking for in the professional-managerial class.
+
+
+      We don’t have any alternative in the Democratic Party, and there cannot be — just
+      to speak for myself — I don’t see how there can be any economic progress, or political
+      or social progress, in the United States, until the Democratic Party, as it exists,
+      is dissolved and ceases to be what the Supreme Court has said: you’re controlled
+      by the stockholders in the Democratic National Committee; they are in charge of
+      the party, not the voters.
+
+
+      As you can see, the political fight to block the socialist, Democratic candidate
+      for mayor of New York, Mamdani.
+
+
+      BEN NORTON: Zohran Mamdani.
+
+
+      MICHAEL HUDSON: You can see the hatred. The Democratic National Committee expresses
+      its hatred for Bernie Sanders and AOC, saying the word socialism is the kiss of
+      death for the Democrats.
+
+
+      And yet, public opinion polls say that Americans prefer the word socialism to
+      capitalism. The Democratic Party says, we don’t care.
+
+
+      BEN NORTON: Socialism is much more popular than the Democratic Party itself.
+
+
+      Trump is very unpopular, but the Democratic Party is even less popular than Trump.
+      They’re both extremely unpopular. The word socialism is more popular.
+
+
+      MICHAEL HUDSON: Yes, and it’s likely that in the elections that happen next year,
+      the Republicans will show up at the polls. The people who in the past would have
+      voted Democratic simply will not vote, because of the right-wing attack on any
+      pro-labor [candidate], because of the [DNC’s] right-wing, pro-Wall Street attacks.
+
+
+      The Democrats are just as controlled by the billionaires as the Republicans. And
+      in fact, many of these Republican billionaires have also backed Democratic Party
+      billionaires, too. You can back both parties.
+
+
+      BEN NORTON: Including Trump. Trump used to help fund the Clintons.
+
+
+      MICHAEL HUDSON: Yes, exactly.
+
+
+      Well, anyway, I want to talk about what happened to Japan, because it’s really
+      something.
+
+
+      America threatened to impose very heavy tariffs on Japan, that would have destabilized
+      its employment, unless it gave a giveback to the United States.
+
+
+      The deal that Trump confronted them with was, OK, we will keep your tariffs low,
+      at 15%, but you will have to pay over half a trillion dollars to the United States
+      for us not to wreck your economy.
+
+
+      You’re going to have four years, so the rest of my term, to pay us half a trillion
+      dollars. But at least you politicians can survive for another three years. And
+      you politicians, you know, you live for the short run; deal with the long run
+      later.
+
+
+      So, the deal was they were to invest $550 billion in projects exclusively of Trump’s
+      choosing, by a group controlled entirely by the United States. And the idea was,
+      OK, you’ll invest in the United States to help us re-industrialize, and then we’ll
+      split the profits.
+
+
+      The expectation by the Japanese, and what they wrote in the Japanese press was,
+      OK, we’ll split the profits 50-50.
+
+
+      But then when they read the US version of this treaty, written in English, it
+      says the United States gets 90% of the profits of your $550 billion investment
+      here. We will use the first earnings, if there are any, to reimburse you for the
+      $550 billion. But after that, 90% of the profits go to my US team, to be paid
+      to the United States.
+
+
+      Well, this shows the desperation that you have in Japan, the abject surrender.
+      What are they going to do with this? They obviously think that, well, this isn’t
+      fair at all.
+
+
+      For Trump, you can see what a bonanza this is. He now can go to his billionaire
+      friends and say, look, I have $550 billion; I can make you all rich. I can give
+      your company — here’s a $50 million grant to invest in XYZ, and here’s a $100
+      billion grant for you to invest in industrialization.
+
+
+      By the way, why don’t we do this and make an American affiliate? You will fund
+      this US investment that I’m putting the money in with borrowed money from the
+      Federal Reserve. You can pay yourself a management fee.
+
+
+      There won’t be any profits to pay the Japanese! They’ll never get a penny out
+      of it, because I will make the investments to make your company rich by the overall
+      corporate shell that you’re creating. All the money goes into the corporate shell,
+      the financial, artificial, nominal owner, and the actual company will be run at
+      a loss.
+
+
+      That’s how you make money. That’s how I [Trump], as a real estate investor, made
+      all my money in real estate, but I didn’t have to pay any income tax at all, because
+      real estate doesn’t make an income taxable profit, thanks to depreciation loopholes
+      and all of the financial loopholes that the financial and real estate sector have
+      written into the tax code here.
+
+
+      So the idea is that this is just a plain shakedown of Japan for the money.
+
+
+      BEN NORTON: And Michael, this is also a significant factor that led to the resignation
+      of Japan’s Prime Minister Ishiba, because there was national outrage in Japan
+      — which, by the way, I think reflects better on Japan than it does on Europe,
+      because at least Japan’s leader was forced to resign in response to popular outrage.
+
+
+      You know, Japan has been a one-party state, almost without exception, since 1955,
+      run by the LDP. Meanwhile, in Europe, which claims to be the beacon of “democracy”,
+      you know, Ursula von der Leyen, she gives the green light to this extremely, one-sided,
+      unfair, unequal treaty that benefits the US at the expense of Europe, and where’s
+      the outrage?
+
+
+      Why isn’t she being forced to resign? At least Japan’s government resigned.
+
+
+      MICHAEL HUDSON: I think you’re being much too optimistic regarding Japan.
+
+
+      BEN NORTON: Oh, yeah, I’m not optimistic about Japan in general, but, I mean,
+      the bar is so low with Europe.
+
+
+      MICHAEL HUDSON: There are three candidates to replace the prime minister. They’re
+      equally pro US; they’re equally Atlanticist.
+
+
+      They’re they’re all von der Leyens; that’s the whole LDP, the Liberal Democratic
+      Party, is von der Leyens.
+
+
+      The alternative is black and white in Japan. I have talked to CEOs there for many
+      years. They say it’s either totally locked into the US, or we shift to China and
+      we lose the United States.
+
+
+      At some point, if things get really awful, of course we’ll have to shift. But
+      until then, we’re totally in the US. And that’s the LDP.
+
+
+      Well, the agreement with Japan is still secret; it’s not revealed. But a few days
+      ago, the Financial Times obtained a copy, and the Financial Times report said
+      it:
+
+
+      reeks of coercion: a sovereign nation forced to funnel private and public-sector
+      investment to a much richer one under a structure unashamedly directed by the
+      US president. Once Japan recoups its investment, it then reaps only 10 per cent
+      of the cash flows from the project, to America’s 90 per cent. Yes, Japan has nominal
+      input via a consultative committee into which projects are chosen, but there are
+      no Japanese on the more powerful investment committee and it’s Trump who makes
+      the ultimate call. Yes, Japan can elect not to fund an investment, but if it does
+      so the US may impose new tariffs on Japan “at the rate determined by the President”.
+
+
+      Well, on, September 11, we already saw Trump up the ante and said, well, Japan,
+      we want you now to impose tariffs against China, and against Russia, and we’re
+      trying to isolate the SCO, and BRICS, to block them.
+
+
+      So, Trump has it in his power to say, if you don’t sacrifice, if you don’t give
+      up your export market in China, if you don’t turn away from dealing with Asians,
+      and lock yourself into Europe, and the US, and the English-speaking allies like
+      Australia and New Zealand, then we’re going to raise the tariffs anyway.
+
+
+      And despite the promise you have made, once we get your half a trillion dollars,
+      haha, you won’t have any control over it anymore, because we won’t give it back
+      to you. That’s the agreement.
+
+
+      Well, in the wake of the recent Shanghai Cooperation Organization and BRICS meetings,
+      it seems very unlikely that countries that are not already aligned with the United
+      States are going to make any kind of deal like that that Germany, Korea, and Japan
+      have made.
+
+
+      These deals actually serve as an object lesson for saying, well, you have the
+      new international order that is being defined by the SCO and the BRICS meetings,
+      and for the alternative, just look at what the United States has done to Europe,
+      Japan, and Korea; that is the alternative. And what are you going to do?
+
+
+      So the effect of Trump’s actions has been to isolate the United States from the
+      growth areas of the world, from the areas of the world that are industrializing,
+      that are gaining technological leadership and even military leadership.
+
+
+      The US also is trying to extend its diplomatic control over Latin America. And
+      again, they are using the slogan of the Monroe Doctrine, without acknowledging
+      the fact that the doctrine said that not only will Europe stay out of the Western
+      Hemisphere’s affairs, but we in the United States will stay out of European affairs.
+      America has dropped the mutuality of this agreement, and that’s a one-sided agreement.
+
+
+      And you’re seeing the fight for Venezuela’s oil right now, to try to destabilize
+      the Venezuelan government, essentially to reduce Venezuela to the status of a
+      British-style colony, ruled by a kind of pliant oligarchy, and other Venezuelan
+      dictators, and their counterparts throughout the whole of Latin America.
+
+
+      So, when you’re talking about the world split, it’s important not only to follow
+      the speeches of President Xi, President Putin, Russian Foreign Minister Lavrov,
+      to see them spell out the details, to watch what India is doing, but also to see
+      the extremes of the unipolar control that America is imposing on its own allies,
+      and what it would like to do to the rest of the world, if it could.
+
+
+      Well, you can see what some of the geopolitical futures are.
+
+
+      I think Turkey is a wild card in all this; it’s still up for grabs. Is Turkey
+      going to support NATO, and let itself be dominated by the US in a similar way?
+      Or is it going to move toward the Asian countries, Russia, etc.?
+
+
+      Similarly, you could say the Near East is held hostage, because Saudi Arabia’s
+      foreign exchange reserves, and other Arab countries, Kuwait, the United Arab Emirates,
+      all of their national investments are held in the United States. The dollar system
+      has been weaponized to hold them all hostage.
+
+
+      So the question is, are countries going to somehow try to defend themselves?
+
+
+      Well, what to watch is exactly what you mentioned, Ben, at the start of the show,
+      the fact that other countries are trying to move out of the dollar, into each
+      other’s currencies, and into gold, and into capital investments in European stocks
+      or other stocks.
+
+
+      They’re trying to slowly move out of the United States. And the United States
+      is trying to preempt this by moving rapidly, and trying to lock them in, and saying,
+      you have a sunk cost in the dependency that you, the rest of the world, have run
+      into, to the United States, since 1945, that 80 years of dependency, of ties,
+      of producing your exports for the American market, of depending on American bank
+      loans, of depending on US military production.
+
+
+      All of this is the inertia that we can bring to bear. Are you willing to break
+      away from this whole inertia and say, yes, it’s a loss; we’re making a completely
+      new beginning? Or are you going to submit?
+
+
+      It’s either total submission, and you have Europeanized yourself; or you have
+      to begin all over, and you lose all of your life savings, as it were.
+
+
+      That’s the choice that US foreign policy is imposing on the rest of the world.
+
+
+      BEN NORTON: Well, I think that’s the perfect note to end on. Was there anything
+      else you wanted to add, Michael?
+
+
+      MICHAEL HUDSON: No, that’s the big picture.
+
+
+      BEN NORTON: Yeah, today was a tour de force. I’m glad you could spell out all
+      of this analysis. I think it’s very important.
+
+
+      By the way, people can support Michael’s work at his Patreon page. That is Patreon.com/MichaelHudson.
+
+
+      Michael, it’s always a pleasure. Thanks for for joining us today.
+
+
+      MICHAEL HUDSON: Well I’m glad we had a chance to talk about the big picture.'
+    one_sentence_summary: Donald Trump's administration is imposing aggressive tariffs
+      and unequal trade agreements on traditional allies like Japan, South Korea, and
+      Europe, compelling them to invest heavily in the U.S. economy while simultaneously
+      alienating these nations and pushing them towards closer ties with BRICS and the
+      Shanghai Cooperation Organization, which are fostering a new multipolar world
+      order based on mutual cooperation.
+    paragraph_summary: Donald Trump's administration has implemented aggressive trade
+      policies, including high tariffs and unequal treaties, targeting not only adversaries
+      like China and Russia but also long-standing allies such as Japan, South Korea,
+      and European nations. These policies compel allies to invest heavily in the U.S.
+      economy while facing punitive tariffs on their exports, effectively undermining
+      their economic sovereignty and fostering resentment. For instance, Japan is required
+      to invest $550 billion in the U.S. by 2029, with the U.S. retaining control over
+      these investments, while South Korea faces similar coercive measures, including
+      the detention of its workers in the U.S. These actions have led to a growing alienation
+      of these allies, who are increasingly seeking to diversify their economic relationships,
+      particularly with BRICS nations and the Shanghai Cooperation Organization (SCO),
+      which are establishing a new multipolar world order based on mutually beneficial
+      trade. The discussion highlights the stark contrast between U.S. coercive tactics
+      and the cooperative frameworks being developed by countries outside the U.S. sphere
+      of influence.
+    published: '2025-09-17T14:32:55+00:00'
   - title: Late-Stage Barbarism Meets a Mixed-Economy Bloc
     url: https://michael-hudson.com/2025/09/late-stage-barbarism-meets-a-mixed-economy-bloc/
     text: '⁣NIMA ALKHORSHID: Hi everybody, today is Thursday, September 11, 2025, and
