@@ -7,14 +7,112 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  The geopolitical landscape continues to be shaped by the fallout from the assassination of Charlie Kirk, with new revelations highlighting the extent of pressure exerted by pro-Israel donors and political figures on US conservative movements. According to **Max Blumenthal**, ultra-Zionist billionaire Robert Shillman terminated his financial support for Turning Point USA (TPUSA) just days before Kirk's death, following mounting criticism of Kirk's increasingly critical stance on Israeli influence in Washington. This move coincided with intense lobbying from allies of Israeli Prime Minister Netanyahu, signaling a coordinated effort to isolate dissenting voices within the American right.
+  Tensions between Iran, Israel, and the United States remain at the forefront of geopolitical developments, as recent reports highlight escalating rhetoric and covert influence campaigns shaping the international landscape.
   
-  Further context is provided by reports that, a month prior to his assassination, Kirk was subjected to a high-profile "intervention" led by billionaire Bill Ackman in the Hamptons. **Blumenthal** notes that this meeting left Kirk deeply concerned about the repercussions of his public criticisms and contemplating significant personal changes, such as converting to Catholicism. These developments, combined with earlier accounts of Kirk rejecting direct funding offers from Netanyahu, underscore a climate of intimidation and anxiety among US political figures who challenge pro-Israel orthodoxy.
+  In a significant development, Iranian President Masoud Pezeshkian, during a meeting in New York with US antiwar activists, issued a stark warning about the likelihood of direct conflict with Israel and the United States. According to **Max Blumenthal**, Pezeshkian criticized Washington's intransigence on the JCPOA nuclear deal and signaled that, absent compromise, "there is no doubt they will attack." This statement underscores the high risk of military escalation in the region, with diplomatic avenues narrowing.
   
-  While the Kirk affair dominates recent disclosures, broader trends in Western influence operations remain in focus. Leaked documents continue to expose the covert role of BBC Media Action as a tool for British geopolitical interests, embedding operatives in foreign media to shape narratives favorable to the UK. **Blumenthal**'s investigations reveal that such efforts are not isolated, but part of a systematic approach to information warfare, with recent examples including campaigns to sway Nigerian elections and influence public opinion in conflict zones.
+  Meanwhile, fallout from the assassination of US conservative figure Charlie Kirk continues to reverberate. New revelations indicate that ultra-Zionist billionaire Robert Shillman withdrew financial support from Kirk's Turning Point USA shortly before his death, amid mounting criticism of Kirk's increasingly critical stance toward Israel. **Max Blumenthal** reports that this move coincided with intense lobbying from Israeli Prime Minister Netanyahu's allies, suggesting a coordinated effort to isolate dissenting voices within US conservative circles.
   
-  Looking ahead, the majority of sources suggest that scrutiny of foreign influence—particularly Israeli and British operations within Western political and media spheres—will intensify. There is a high chance that further leaks and whistleblower accounts will emerge, deepening public skepticism toward official narratives and potentially fueling calls for greater transparency and oversight. Given the pattern of escalating revelations, I guarantee that the intersection of donor politics, intelligence operations, and media manipulation will remain a central theme in the coming weeks.
+  On the information warfare front, leaked documents have exposed the role of BBC Media Action as a covert instrument of British foreign policy. As detailed by **Max Blumenthal**, the organization, while presenting itself as a charity, has embedded staff in foreign media to shape narratives and advance UK geopolitical interests. This revelation adds to growing concerns about Western media manipulation and the use of soft power to influence political outcomes abroad.
+  
+  Looking ahead, the majority of sources suggest that the risk of direct confrontation between Iran and Israel is "most definitely" rising, with US involvement almost certain should hostilities erupt. The ongoing exposure of covert influence operations—whether by Western or Israeli actors—will likely fuel further distrust and polarization in international relations. I guarantee that, unless there is a significant shift in diplomatic posture from Washington or Tel Aviv, the trajectory points toward heightened conflict and intensified information warfare in the coming months.
 articles:
+  - title: '‘No doubt they will attack’: Max Blumenthal meets Iran’s President in NYC'
+    url: https://thegrayzone.com/2025/09/27/they-will-attack-max-blumenthal-irans-president/
+    text: 'In a meeting with US antiwar figures, Iranian Pres. Masoud Pezeshkian forecasted
+      a more intense round of conflict with Israel and the US, and slammed Washington’s
+      intransigence. Iranian President Masoud Pezeshkian arrived late to a September
+      24, 2025 meeting with American antiwar figures on the sidelines of the UN General
+      Assembly. He had come from a fateful tete-a-tete with Emmanuel Macron, where he
+      attempted to cajole his French counterpart into delaying expiration of the JCPOA
+      nuclear deal rather than instituting […] The post ‘No doubt they will attack’:
+      Max Blumenthal meets Iran’s President in NYC first appeared on The Grayzone .
+      The post ‘No doubt they will attack’: Max Blumenthal meets Iran’s President in
+      NYC appeared first on The Grayzone .'
+    one_sentence_summary: In a meeting with US antiwar activists, Iranian President
+      Masoud Pezeshkian warned of escalating conflict with Israel and the US while criticizing
+      Washington's refusal to compromise on issues like the JCPOA nuclear deal.
+    paragraph_summary: In a meeting with US antiwar activists during the UN General
+      Assembly on September 24, 2025, Iranian President Masoud Pezeshkian expressed
+      concerns about an impending escalation of conflict with Israel and the United
+      States, criticizing Washington's stubbornness. Pezeshkian, who arrived late after
+      discussions with French President Emmanuel Macron regarding the JCPOA nuclear
+      deal, emphasized the need for diplomatic efforts to prevent further tensions.
+      The meeting highlighted the ongoing geopolitical strains and the potential for
+      military confrontation in the region.
+    published: '2025-09-27T21:37:18+00:00'
+  - title: '‘No doubt they will attack’: Max Blumenthal meets Iran’s President in NYC'
+    url: https://thegrayzone.com/2025/09/27/they-will-attack-max-blumenthal-irans-president/
+    text: 'In a meeting with US antiwar figures, Iranian Pres. Masoud Pezeshkian forecasted
+      a more intense round of conflict with Israel and the US, and slammed Washington’s
+      intransigence. Iranian President Masoud Pezeshkian arrived late to a September
+      24, 2025 meeting with American antiwar figures on the sidelines of the UN General
+      Assembly. He had come from a fateful tete-a-tete with Emmanuel Macron, where he
+      attempted to cajole his French counterpart into delaying expiration of the JCPOA
+      nuclear deal rather than instituting […] The post ‘No doubt they will attack’:
+      Max Blumenthal meets Iran’s President in NYC first appeared on The Grayzone .
+      The post ‘No doubt they will attack’: Max Blumenthal meets Iran’s President in
+      NYC appeared first on The Grayzone .'
+    one_sentence_summary: In a meeting with US antiwar activists, Iranian President
+      Masoud Pezeshkian warned of escalating conflict with Israel and the US while criticizing
+      Washington's refusal to compromise on issues like the JCPOA nuclear deal.
+    paragraph_summary: In a meeting with US antiwar activists during the UN General
+      Assembly on September 24, 2025, Iranian President Masoud Pezeshkian expressed
+      concerns about an impending escalation of conflict with Israel and the United
+      States, criticizing Washington's stubbornness. Pezeshkian, who arrived late after
+      discussions with French President Emmanuel Macron regarding the JCPOA nuclear
+      deal, emphasized the need for diplomatic efforts to prevent further tensions.
+      The meeting highlighted the ongoing geopolitical strains and the potential for
+      military confrontation in the region.
+    published: '2025-09-27T21:37:18+00:00'
+  - title: 'Palestinian kids’ author: New York Times ‘put a target on my back’ with
+      Grayzone smear'
+    url: https://thegrayzone.com/2025/09/24/kids-author-new-york-times-target-back/
+    text: 'New Jersey area Jewish leadership described a factual Grayzone report about
+      Charlie Kirk’s falling out with Netanyahu as “hateful, divisive, and antisemitic,”
+      and weaponized it to cancel the book event of a Palestinian children’s writer
+      who reposted the article on social media. The New York Times uncritically published
+      the bogus allegation. Palestinian children’s author Jenan Matari says she believes
+      The New York Times “was trying to put a target on [her] back” when it publicized
+      the fact that she recently […] The post Palestinian kids’ author: New York Times
+      ‘put a target on my back’ with Grayzone smear first appeared on The Grayzone .
+      The post Palestinian kids’ author: New York Times ‘put a target on my back’ with
+      Grayzone smear appeared first on The Grayzone .'
+    one_sentence_summary: Jewish leaders in New Jersey condemned a Grayzone report on
+      Charlie Kirk's fallout with Netanyahu as antisemitic, leading to the cancellation
+      of a book event for Palestinian author Jenan Matari, who accused The New York
+      Times of endangering her by amplifying the controversy.
+    paragraph_summary: Jewish leadership in the New Jersey area condemned a Grayzone
+      report detailing Charlie Kirk's fallout with Netanyahu as "hateful, divisive,
+      and antisemitic," using it to cancel a book event for Palestinian children's author
+      Jenan Matari, who had shared the article on social media. Matari expressed her
+      belief that The New York Times, which published the allegations without scrutiny,
+      aimed to endanger her by highlighting her association with the report.
+    published: '2025-09-25T00:46:06+00:00'
+  - title: 'Palestinian kids’ author: New York Times ‘put a target on my back’ with
+      Grayzone smear'
+    url: https://thegrayzone.com/2025/09/24/kids-author-new-york-times-target-back/
+    text: 'New Jersey area Jewish leadership described a factual Grayzone report about
+      Charlie Kirk’s falling out with Netanyahu as “hateful, divisive, and antisemitic,”
+      and weaponized it to cancel the book event of a Palestinian children’s writer
+      who reposted the article on social media. The New York Times uncritically published
+      the bogus allegation. Palestinian children’s author Jenan Matari says she believes
+      The New York Times “was trying to put a target on [her] back” when it publicized
+      the fact that she recently […] The post Palestinian kids’ author: New York Times
+      ‘put a target on my back’ with Grayzone smear first appeared on The Grayzone .
+      The post Palestinian kids’ author: New York Times ‘put a target on my back’ with
+      Grayzone smear appeared first on The Grayzone .'
+    one_sentence_summary: Jewish leaders in New Jersey condemned a Grayzone report on
+      Charlie Kirk's fallout with Netanyahu as antisemitic, leading to the cancellation
+      of a book event for Palestinian author Jenan Matari, who accused The New York
+      Times of endangering her by amplifying the controversy.
+    paragraph_summary: Jewish leadership in the New Jersey area condemned a Grayzone
+      report detailing Charlie Kirk's fallout with Netanyahu as "hateful, divisive,
+      and antisemitic," using it to cancel a book event for Palestinian children's author
+      Jenan Matari, who had shared the article on social media. Matari expressed her
+      belief that The New York Times, which published the allegations without scrutiny,
+      aimed to endanger her by highlighting her association with the report.
+    published: '2025-09-25T00:46:06+00:00'
   - title: Top pro-Israel TPUSA donor terminated support for Kirk in days before death,
       sources say
     url: https://thegrayzone.com/2025/09/22/israel-tpusa-donor-terminated-kirk/

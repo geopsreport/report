@@ -7,16 +7,1231 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  The ongoing crisis in Gaza continues to dominate the geopolitical landscape, with new developments highlighting both the intensification of Israeli military actions and the international response. In the latest escalation, the Global Sumud Flotilla—an international convoy attempting to deliver humanitarian aid to Gaza—was attacked by Israeli drones, resulting in injuries and significant damage to the vessels. Israeli officials have justified the strikes by labeling the activists as violent and alleging ties to Hamas, a narrative that has been sharply contested by independent observers.
+  As the international community continues to grapple with the fallout from the ongoing conflict in Gaza and shifting US policy, recent developments underscore deep skepticism about the prospects for peace and the direction of Western engagement. 
   
-  **Caitlin Johnstone** notes that these attacks on the flotilla represent a further tightening of the blockade and a willingness by Israel to use force against civilian-led humanitarian initiatives. The Israeli government's framing of the activists as security threats is seen by many analysts as an attempt to delegitimize international solidarity with Gaza and to justify ongoing military operations.
+  The latest focus is the Trump administration’s newly unveiled “peace plan” for Gaza, which, according to **Caitlin Johnstone**, has been widely criticized for entrenching permanent Palestinian subjugation under Israeli control. Johnstone notes that this proposal is reminiscent of previous US-brokered agreements that failed to deliver meaningful change, fueling doubts about Washington’s intentions and capacity as a mediator. The plan’s reception among analysts and regional observers has been overwhelmingly negative, with many viewing it as a diplomatic maneuver that legitimizes the status quo rather than addressing the core issues of occupation and self-determination.
   
-  This incident comes amid a broader context of what **Johnstone** describes as "hollow support" from Western governments for Palestinian statehood. While countries like the UK, Canada, and Australia have issued statements recognizing the need for a Palestinian state, these gestures are widely viewed as symbolic, especially in light of Israeli Prime Minister Netanyahu's continued rejection of Palestinian sovereignty and the expansion of settlements in the West Bank.
+  Meanwhile, attention is turning to the imminent second anniversary of the October 7 attacks. **Caitlin Johnstone** predicts a significant escalation in pro-Israel media narratives and commemorative events, as supporters seek to counteract mounting global criticism of Israeli policies. She anticipates “multiple scripted series and sensational claims” designed to shape public perception and reinforce Israel’s position, especially as international scrutiny intensifies.
   
-  Looking ahead, the majority of independent analysts cited in these reports predict with high confidence that Israeli military actions against both Gaza and international aid efforts will persist, given the lack of effective international pressure and the prevailing narratives in Western media. There is a high chance that further attempts to break the blockade will be met with similar or greater force, and that Western governments will continue to offer rhetorical support for Palestinian rights without substantive policy changes.
+  On the ground, the humanitarian crisis in Gaza remains acute. The continued targeting of aid flotillas and the labeling of activists as violent by Israeli officials have further eroded hopes for relief and accountability. The majority of independent analysts, including Johnstone, argue that denying the reality of the humanitarian catastrophe in Gaza requires accepting the implausible notion of a coordinated conspiracy among major aid organizations—a view that has little traction outside fringe circles.
   
-  In summary, the current trend points toward an ongoing cycle of violence and diplomatic stalemate, with the humanitarian situation in Gaza expected to deteriorate further unless there is a significant shift in international policy or public opinion.
+  **Trends and Predictions:**  
+  The prevailing trend is a hardening of positions on all sides. The US “peace plan” is unlikely to gain traction among Palestinians or the broader international community, and there is a high chance that it will be viewed as another failed diplomatic initiative. The coming days will almost certainly see a media blitz from Israel’s supporters, but this is unlikely to reverse the growing global consensus critical of Israeli policy. I guarantee that skepticism toward US-led peace efforts will persist, and the humanitarian situation in Gaza will remain a flashpoint for international activism and debate.
 articles:
+  - title: The Trumpanyahu "Peace" Plan, And Other Notes
+    url: https://www.caitlinjohnst.one/p/the-trumpanyahu-peace-plan-and-other
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The Trumpanyahu administration is pushing a “peace plan” for Gaza which critics
+      are saying would damn Palestinians to permanent subjugation under the thumb of
+      Israel. The proposed plan would see Gaza supervised by Trump and by war criminal
+      Tony Blair , and Netanyahu is already saying that the deal will allow the IDF
+      to remain in the Palestinian territory indefinitely. The last time the US brokered
+      a “peace plan” between Israel and Hamas, the US and Israel torched it in a few
+      weeks, laid siege to the enclave, and announced a plan for the ethnic cleansing
+      of Gaza. So even without all the major problems with the offer, there’s not going
+      to be a whole lot of enthusiasm about it. I’m seeing a lot of purportedly pro-Palestine
+      voices proclaiming that Hamas needs to accept the deal in order to end the genocide.
+      I personally will never tell Palestinians what they should do to address their
+      abuse at the hands of the empire or what deals they should accept. My job as a
+      westerner is to oppose the western empire that is butchering them, not to finger-wag
+      and moralize at the empire’s victims. The onus is on the party committing genocide
+      to stop committing genocide. The onus is not on the victims of the genocide to
+      sign agreements in the hope of saving themselves from the genocide. This is obvious
+      to anyone who isn’t a psychopath. https://x.com/caitoz/status/1972858268268798231
+      ❖ The Israeli Foreign Ministry keeps trying to claim that the Global Sumud Flotilla
+      bringing aid to Gaza is actually a Hamas operation. Their latest effort in this
+      ridiculous campaign was a statement trying to connect the dots between Hamas and
+      people associated with the flotilla which bizarrely featured a photo of British
+      politician George Galloway whom the ministry falsely identified as a British Palestinian
+      man named Zaher Birawi. Not one single person in the entire world believes this
+      narrative. Literally nobody believes the Gaza flotilla has any connection to Hamas.
+      It’s just a framing they’re circulating to preemptively justify any cruelty they
+      might inflict upon the flotilla activists. Meanwhile the death count of people
+      who have starved to death in Gaza has risen to around 453 . Israel is trying to
+      convince the world that the Global Sumud Flotilla are terrorists for trying to
+      help stop this. In addition to everything else this genocide has been, it has
+      also been one nonstop insult to our intelligence. ❖ Two separate news reports
+      have just come out about Israeli propaganda operations to manipulate western opinion.
+      In an article titled “ Israel is paying influencers $7,000 per post ,” Responsible
+      Statecraft’s Nick Cleveland-Stout reports on documents showing that 14 to 18 individuals
+      have been receiving significant compensation to generate pro-Israel content for
+      platforms like TikTok and Instagram. In a write-up titled “ Trump’s Ex-Digital
+      Guru Works to Combat Antisemitism ,” O’Dwyer’s PR News reports that “The firm
+      of Donald Trump’s former campaign manager Brad Parscale has a four-month $6M agreement
+      for strategic communications and media services in support of Havas Media’s engagement
+      by Israel to develop a nationwide campaign in the US to combat antisemitism.”
+      Journalist Jack Paulson notes that we know about Parscale’s six million-dollar
+      psyop because he had to register as a foreign agent of the Israeli government,
+      saying Parscale was paid “to map out Gen-Z influencers and distribute a narrative
+      about antisemitism in the United States.” This is what happens when a state doesn’t
+      have facts, reason or morality on its side, but has unlimited funding. ❖ It’s
+      silly how people call it “the Holy Land”. If the land was holy it would have turned
+      Israelis into decent people. ❖ One of the many ugly things about the Trump era
+      has been watching so many hippie woo woo spiritual types turn into crazed transphobic
+      QAnoners, because those were my people. It’s kind of an embarrassing admission
+      at this point, but they were. I didn’t come to where I’m at ideologically from
+      reading Lenin or talking to Marxists, I got here because I did a lot of inner
+      work and had some transformative experiences and came out the other side with
+      a deep love for this beautiful planet and for the strange naked ape mutants who
+      people it, and with a yearning to help create a healthy world. I just kinda felt
+      my way through the human experience as the barefoot hippie earth mama that I am,
+      and it carried me to a clear intuitive understanding that the western empire must
+      end and that capitalism cannot carry our species into the future. And I’d just
+      sorta assumed the people who looked and talked like me were on a similar journey
+      this whole time. It looked like we were for a hot minute a decade ago when we
+      were all getting excited about Bernie Sanders and the possibility of a real socialist
+      movement in the western world, but then after that it got really weird and gross.
+      I started watching so many of the leftwardly-inclined spiritual types I’d connected
+      with in 2015 and 2016 start getting sucked into the Trumpian worldview and getting
+      crazier and crazier with QAnon and all its related psyops until they were indistinguishable
+      from garden variety American conservatives. I remember a Bernie guy I’d made friends
+      with in 2016 shrieking at me in 2020 and accusing me of acting like an Iranian
+      mullah when I criticized Trump’s assassination of Qassem Soleimani. My Facebook
+      feed increasingly morphed from Bernie Sanders stuff to Jill Stein stuff to pro-Trump
+      stuff, and then with Covid a lot of them went full-blown wingnut and started posting
+      crazy right wing shit about trans people and Muslims and immigrants and China.
+      I saw it happen to people I’d known in person my whole life, transforming from
+      the barefoot peaceniks I’d always known into stuffy reactionaries in just a few
+      years. I’d tell them they’d turned into Republicans and they’d generally get all
+      huffy and indignant and claim they were just like me, free-thinking leftist dissidents
+      who opposed the fake two-party system. But there they were, fully buying into
+      the entire worldview of one of those parties — and it was the one that’s further
+      to the right. And I just found the whole thing baffling. I mean, why were these
+      people ever attracted to the left in the first place? Did they not have any values?
+      If they did, what happened to them? How could they not see they were being duped
+      into throwing their support behind the establishment they used to oppose? What
+      happened to their spiritual insight? Their intuition? Their rebelliousness? Where
+      was their connection to nature and to heart which had previously caused them to
+      stand for peace and love? And eventually I learned that it was just an act for
+      most people. For most people spirituality is just an accessory for the ego, and
+      being a hippie is just a feel-good fashion statement. They’re not engaging in
+      the kind of rigorous interior excavation and ruthless self-honesty that would
+      have protected them from imperial psyops to corral their political energy back
+      into the mainstream herd. They just like how weed makes them feel and enjoy Alex
+      Grey art. They wear spirituality, but they’ve never lived it. This feels like
+      kind of a confession because I’m admitting to having been naive about something
+      many of you probably already knew for a long time, but it’s just the truth. I
+      was naive. I stumbled into this commentary gig after years of focusing almost
+      entirely on spirituality and inner work without paying much attention to what
+      other people were doing. I have a journalism degree and I was a news junkie when
+      I was younger, but then I fell down the rabbit hole of inner exploration and lost
+      track of the outer world. It took me a while to get a read on things once I tuned
+      back in. It’s been a trip, man. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Trump White House (Public
+      Domain).'
+    one_sentence_summary: The Trump administration's proposed "peace plan" for Gaza,
+      criticized for potentially leading to permanent Palestinian subjugation under
+      Israeli control, raises skepticism given the historical failures of similar US-brokered
+      agreements.
+    paragraph_summary: The Trump administration, alongside Israeli Prime Minister Netanyahu,
+      is promoting a controversial "peace plan" for Gaza that critics argue would lead
+      to the permanent subjugation of Palestinians under Israeli control, with oversight
+      from figures like Tony Blair. This plan has sparked skepticism due to past failures
+      of U.S.-brokered agreements, which were quickly undermined by military actions
+      and proposals for ethnic cleansing. Many voices advocating for Palestinian rights
+      are urging Hamas to accept the deal to mitigate ongoing violence, but the article
+      emphasizes that the responsibility lies with the aggressors to cease their actions,
+      rather than expecting victims to negotiate under duress. Additionally, the Israeli
+      Foreign Ministry is attempting to discredit humanitarian efforts, such as the
+      Global Sumud Flotilla, by falsely linking it to Hamas, a narrative that lacks
+      credibility.
+    published: '2025-10-01T02:51:52+00:00'
+  - title: The Trumpanyahu "Peace" Plan, And Other Notes
+    url: https://www.caitlinjohnst.one/p/the-trumpanyahu-peace-plan-and-other
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The Trumpanyahu administration is pushing a “peace plan” for Gaza which critics
+      are saying would damn Palestinians to permanent subjugation under the thumb of
+      Israel. The proposed plan would see Gaza supervised by Trump and by war criminal
+      Tony Blair , and Netanyahu is already saying that the deal will allow the IDF
+      to remain in the Palestinian territory indefinitely. The last time the US brokered
+      a “peace plan” between Israel and Hamas, the US and Israel torched it in a few
+      weeks, laid siege to the enclave, and announced a plan for the ethnic cleansing
+      of Gaza. So even without all the major problems with the offer, there’s not going
+      to be a whole lot of enthusiasm about it. I’m seeing a lot of purportedly pro-Palestine
+      voices proclaiming that Hamas needs to accept the deal in order to end the genocide.
+      I personally will never tell Palestinians what they should do to address their
+      abuse at the hands of the empire or what deals they should accept. My job as a
+      westerner is to oppose the western empire that is butchering them, not to finger-wag
+      and moralize at the empire’s victims. The onus is on the party committing genocide
+      to stop committing genocide. The onus is not on the victims of the genocide to
+      sign agreements in the hope of saving themselves from the genocide. This is obvious
+      to anyone who isn’t a psychopath. https://x.com/caitoz/status/1972858268268798231
+      ❖ The Israeli Foreign Ministry keeps trying to claim that the Global Sumud Flotilla
+      bringing aid to Gaza is actually a Hamas operation. Their latest effort in this
+      ridiculous campaign was a statement trying to connect the dots between Hamas and
+      people associated with the flotilla which bizarrely featured a photo of British
+      politician George Galloway whom the ministry falsely identified as a British Palestinian
+      man named Zaher Birawi. Not one single person in the entire world believes this
+      narrative. Literally nobody believes the Gaza flotilla has any connection to Hamas.
+      It’s just a framing they’re circulating to preemptively justify any cruelty they
+      might inflict upon the flotilla activists. Meanwhile the death count of people
+      who have starved to death in Gaza has risen to around 453 . Israel is trying to
+      convince the world that the Global Sumud Flotilla are terrorists for trying to
+      help stop this. In addition to everything else this genocide has been, it has
+      also been one nonstop insult to our intelligence. ❖ Two separate news reports
+      have just come out about Israeli propaganda operations to manipulate western opinion.
+      In an article titled “ Israel is paying influencers $7,000 per post ,” Responsible
+      Statecraft’s Nick Cleveland-Stout reports on documents showing that 14 to 18 individuals
+      have been receiving significant compensation to generate pro-Israel content for
+      platforms like TikTok and Instagram. In a write-up titled “ Trump’s Ex-Digital
+      Guru Works to Combat Antisemitism ,” O’Dwyer’s PR News reports that “The firm
+      of Donald Trump’s former campaign manager Brad Parscale has a four-month $6M agreement
+      for strategic communications and media services in support of Havas Media’s engagement
+      by Israel to develop a nationwide campaign in the US to combat antisemitism.”
+      Journalist Jack Paulson notes that we know about Parscale’s six million-dollar
+      psyop because he had to register as a foreign agent of the Israeli government,
+      saying Parscale was paid “to map out Gen-Z influencers and distribute a narrative
+      about antisemitism in the United States.” This is what happens when a state doesn’t
+      have facts, reason or morality on its side, but has unlimited funding. ❖ It’s
+      silly how people call it “the Holy Land”. If the land was holy it would have turned
+      Israelis into decent people. ❖ One of the many ugly things about the Trump era
+      has been watching so many hippie woo woo spiritual types turn into crazed transphobic
+      QAnoners, because those were my people. It’s kind of an embarrassing admission
+      at this point, but they were. I didn’t come to where I’m at ideologically from
+      reading Lenin or talking to Marxists, I got here because I did a lot of inner
+      work and had some transformative experiences and came out the other side with
+      a deep love for this beautiful planet and for the strange naked ape mutants who
+      people it, and with a yearning to help create a healthy world. I just kinda felt
+      my way through the human experience as the barefoot hippie earth mama that I am,
+      and it carried me to a clear intuitive understanding that the western empire must
+      end and that capitalism cannot carry our species into the future. And I’d just
+      sorta assumed the people who looked and talked like me were on a similar journey
+      this whole time. It looked like we were for a hot minute a decade ago when we
+      were all getting excited about Bernie Sanders and the possibility of a real socialist
+      movement in the western world, but then after that it got really weird and gross.
+      I started watching so many of the leftwardly-inclined spiritual types I’d connected
+      with in 2015 and 2016 start getting sucked into the Trumpian worldview and getting
+      crazier and crazier with QAnon and all its related psyops until they were indistinguishable
+      from garden variety American conservatives. I remember a Bernie guy I’d made friends
+      with in 2016 shrieking at me in 2020 and accusing me of acting like an Iranian
+      mullah when I criticized Trump’s assassination of Qassem Soleimani. My Facebook
+      feed increasingly morphed from Bernie Sanders stuff to Jill Stein stuff to pro-Trump
+      stuff, and then with Covid a lot of them went full-blown wingnut and started posting
+      crazy right wing shit about trans people and Muslims and immigrants and China.
+      I saw it happen to people I’d known in person my whole life, transforming from
+      the barefoot peaceniks I’d always known into stuffy reactionaries in just a few
+      years. I’d tell them they’d turned into Republicans and they’d generally get all
+      huffy and indignant and claim they were just like me, free-thinking leftist dissidents
+      who opposed the fake two-party system. But there they were, fully buying into
+      the entire worldview of one of those parties — and it was the one that’s further
+      to the right. And I just found the whole thing baffling. I mean, why were these
+      people ever attracted to the left in the first place? Did they not have any values?
+      If they did, what happened to them? How could they not see they were being duped
+      into throwing their support behind the establishment they used to oppose? What
+      happened to their spiritual insight? Their intuition? Their rebelliousness? Where
+      was their connection to nature and to heart which had previously caused them to
+      stand for peace and love? And eventually I learned that it was just an act for
+      most people. For most people spirituality is just an accessory for the ego, and
+      being a hippie is just a feel-good fashion statement. They’re not engaging in
+      the kind of rigorous interior excavation and ruthless self-honesty that would
+      have protected them from imperial psyops to corral their political energy back
+      into the mainstream herd. They just like how weed makes them feel and enjoy Alex
+      Grey art. They wear spirituality, but they’ve never lived it. This feels like
+      kind of a confession because I’m admitting to having been naive about something
+      many of you probably already knew for a long time, but it’s just the truth. I
+      was naive. I stumbled into this commentary gig after years of focusing almost
+      entirely on spirituality and inner work without paying much attention to what
+      other people were doing. I have a journalism degree and I was a news junkie when
+      I was younger, but then I fell down the rabbit hole of inner exploration and lost
+      track of the outer world. It took me a while to get a read on things once I tuned
+      back in. It’s been a trip, man. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Trump White House (Public
+      Domain).'
+    one_sentence_summary: The Trump administration's proposed "peace plan" for Gaza,
+      criticized for potentially leading to permanent Palestinian subjugation under
+      Israeli control, raises skepticism given the historical failures of similar US-brokered
+      agreements.
+    paragraph_summary: The Trump administration, alongside Israeli Prime Minister Netanyahu,
+      is promoting a controversial "peace plan" for Gaza that critics argue would lead
+      to the permanent subjugation of Palestinians under Israeli control, with oversight
+      from figures like Tony Blair. This plan has sparked skepticism due to past failures
+      of U.S.-brokered agreements, which were quickly undermined by military actions
+      and proposals for ethnic cleansing. Many voices advocating for Palestinian rights
+      are urging Hamas to accept the deal to mitigate ongoing violence, but the article
+      emphasizes that the responsibility lies with the aggressors to cease their actions,
+      rather than expecting victims to negotiate under duress. Additionally, the Israeli
+      Foreign Ministry is attempting to discredit humanitarian efforts, such as the
+      Global Sumud Flotilla, by falsely linking it to Hamas, a narrative that lacks
+      credibility.
+    published: '2025-10-01T02:51:52+00:00'
+  - title: Expect A Huge Fuss About The October 7 Anniversary As The World Turns Against
+      Israel
+    url: https://www.caitlinjohnst.one/p/expect-a-huge-fuss-about-the-october
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Israel apologists are probably going to make a much, much bigger deal about the
+      second October 7 anniversary than they did about the first anniversary, because
+      they kind of have to. The world is turning against Israel in unprecedented ways
+      in 2025, and yelling about October 7 is all they’ve got left. They’ve already
+      got a scripted October 7 series coming out on Paramount+, and another, separate
+      scripted October 7 series coming out on HBO Max for the anniversary. There are
+      probably numerous news media segments and articles scheduled. Maybe some new “revelations”
+      about alleged October 7 atrocities which have been just waiting in the wings this
+      whole time for some reason. The hasbarists are going to be so obnoxious. They’ll
+      be babbling about Hamas beheading babies and then cooking the beheaded babies
+      in the oven and then having sex with the beheaded babies and then eating the beheaded
+      babies and then playing soccer with the baby heads while singing about how much
+      they love Adolf Hitler. https://x.com/GoodVibePolitik/status/1971654308489056562
+      They’ll need to do this, because what else do they have? All the attention has
+      long ago moved from October 7 to the genocide in Gaza, because Israel is the victimizer
+      in literally every news story that’s come out about Palestine since that one day.
+      Every relevant humanitarian institution on earth is saying that Israel is committing
+      genocide and starving civilians, and we’ve been watching the evidence of this
+      on our screens for two years. In 2023 you had westerners saying “How could Hamas
+      do such a thing??”, but in 2025 everyone’s looking back and going “Ehh, I kinda
+      get it.” There are only so many horrific atrocities you can witness before you
+      stop seeing Israel as the poor widdle Bambi-eyed victim. There are only so many
+      times you can hear Israeli officials stating their plans to ethnically cleanse
+      the Gaza Strip of all Palestinians, only so many Israeli soldiers you can see
+      mockingly dressed in the undergarments of the dead and displaced Palestinian women
+      they’ve been genociding, only so many hospital bombings you can read about, only
+      so many accounts of IDF troops massacring starving civilians at aid sites you
+      can listen to, before you start thinking to yourself that Israel probably had
+      it coming. So they’ve got to try and reignite that initial shock and horror Israel’s
+      western allies experienced on October 7, using whatever tools of emotional manipulation
+      they can. Try to take us all by the hand and lead us back to that naive time when
+      the mainstream narrative was that Israel had just been attacked by a bunch of
+      hateful savages who wanted to murder Jews simply because they are Jewish. https://x.com/ggreenwald/status/1972792567969554612
+      It won’t work, though. We’ve seen too much. What has been seen cannot be unseen.
+      No matter how much they moan about October 7, no matter how much control they
+      shore up over TikTok and other social media platforms to silence criticism of
+      Israel, no matter how loudly they concern troll about a pretend epidemic of antisemitism,
+      what has been seen will never be unseen. We see what Israel is. We see what Israel
+      is doing. We see what the western governments who support Israel are. There is
+      nothing anyone can say or do that will cause us to unsee what we have seen and
+      un-know what we now know. And we will never, ever forgive them. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: As the second anniversary of October 7 approaches, Israel
+      supporters are expected to amplify their narratives and media coverage in response
+      to growing global criticism of Israel, with multiple scripted series and sensational
+      claims likely to emerge.
+    paragraph_summary: As the second anniversary of the October 7 attacks approaches,
+      proponents of Israel are expected to amplify their narratives significantly more
+      than they did for the first anniversary, driven by a growing global backlash against
+      Israel in 2025. With scripted series about the events set to release on major
+      streaming platforms and a slew of media coverage planned, these advocates are
+      likely to focus on sensationalized accounts of the attacks to divert attention
+      from the ongoing humanitarian crisis in Gaza, where accusations of genocide against
+      Israel have gained traction. The shift in public perception is evident, as many
+      now question the narrative of Israel as the sole victim, recognizing the broader
+      context of violence and suffering in the region.
+    published: '2025-09-29T23:24:56+00:00'
+  - title: Expect A Huge Fuss About The October 7 Anniversary As The World Turns Against
+      Israel
+    url: https://www.caitlinjohnst.one/p/expect-a-huge-fuss-about-the-october
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Israel apologists are probably going to make a much, much bigger deal about the
+      second October 7 anniversary than they did about the first anniversary, because
+      they kind of have to. The world is turning against Israel in unprecedented ways
+      in 2025, and yelling about October 7 is all they’ve got left. They’ve already
+      got a scripted October 7 series coming out on Paramount+, and another, separate
+      scripted October 7 series coming out on HBO Max for the anniversary. There are
+      probably numerous news media segments and articles scheduled. Maybe some new “revelations”
+      about alleged October 7 atrocities which have been just waiting in the wings this
+      whole time for some reason. The hasbarists are going to be so obnoxious. They’ll
+      be babbling about Hamas beheading babies and then cooking the beheaded babies
+      in the oven and then having sex with the beheaded babies and then eating the beheaded
+      babies and then playing soccer with the baby heads while singing about how much
+      they love Adolf Hitler. https://x.com/GoodVibePolitik/status/1971654308489056562
+      They’ll need to do this, because what else do they have? All the attention has
+      long ago moved from October 7 to the genocide in Gaza, because Israel is the victimizer
+      in literally every news story that’s come out about Palestine since that one day.
+      Every relevant humanitarian institution on earth is saying that Israel is committing
+      genocide and starving civilians, and we’ve been watching the evidence of this
+      on our screens for two years. In 2023 you had westerners saying “How could Hamas
+      do such a thing??”, but in 2025 everyone’s looking back and going “Ehh, I kinda
+      get it.” There are only so many horrific atrocities you can witness before you
+      stop seeing Israel as the poor widdle Bambi-eyed victim. There are only so many
+      times you can hear Israeli officials stating their plans to ethnically cleanse
+      the Gaza Strip of all Palestinians, only so many Israeli soldiers you can see
+      mockingly dressed in the undergarments of the dead and displaced Palestinian women
+      they’ve been genociding, only so many hospital bombings you can read about, only
+      so many accounts of IDF troops massacring starving civilians at aid sites you
+      can listen to, before you start thinking to yourself that Israel probably had
+      it coming. So they’ve got to try and reignite that initial shock and horror Israel’s
+      western allies experienced on October 7, using whatever tools of emotional manipulation
+      they can. Try to take us all by the hand and lead us back to that naive time when
+      the mainstream narrative was that Israel had just been attacked by a bunch of
+      hateful savages who wanted to murder Jews simply because they are Jewish. https://x.com/ggreenwald/status/1972792567969554612
+      It won’t work, though. We’ve seen too much. What has been seen cannot be unseen.
+      No matter how much they moan about October 7, no matter how much control they
+      shore up over TikTok and other social media platforms to silence criticism of
+      Israel, no matter how loudly they concern troll about a pretend epidemic of antisemitism,
+      what has been seen will never be unseen. We see what Israel is. We see what Israel
+      is doing. We see what the western governments who support Israel are. There is
+      nothing anyone can say or do that will cause us to unsee what we have seen and
+      un-know what we now know. And we will never, ever forgive them. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: As the second anniversary of October 7 approaches, Israel
+      supporters are expected to amplify their narratives and media coverage in response
+      to growing global criticism of Israel, with multiple scripted series and sensational
+      claims likely to emerge.
+    paragraph_summary: As the second anniversary of the October 7 attacks approaches,
+      proponents of Israel are expected to amplify their narratives significantly more
+      than they did for the first anniversary, driven by a growing global backlash against
+      Israel in 2025. With scripted series about the events set to release on major
+      streaming platforms and a slew of media coverage planned, these advocates are
+      likely to focus on sensationalized accounts of the attacks to divert attention
+      from the ongoing humanitarian crisis in Gaza, where accusations of genocide against
+      Israel have gained traction. The shift in public perception is evident, as many
+      now question the narrative of Israel as the sole victim, recognizing the broader
+      context of violence and suffering in the region.
+    published: '2025-09-29T23:24:56+00:00'
+  - title: The Single Dumbest Conspiracy Theory In The Entire World
+    url: https://www.caitlinjohnst.one/p/the-single-dumbest-conspiracy-theory
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The single dumbest conspiracy theory in the entire world is that every major humanitarian
+      institution on earth is conspiring to falsely frame Israel for the crime of genocide.
+      And yet believing this bat shit insane conspiracy theory is the only way to think
+      it’s not a genocide. There is no other way to claim that there is no genocide
+      happening in Gaza without treating this self-evidently ridiculous theory as true.
+      In order to believe that there is no genocide in Gaza, you need to accept it as
+      a given that the United Nations Independent International Commission of Inquiry
+      on the Occupied Palestinian Territory is conspiring to frame Israel for this crime.
+      You also need to believe that the International Association of Genocide Scholars
+      is in on the conspiracy. You also need to believe the Israeli human rights group
+      B’Tselem is in on the conspiracy. You also need to believe that Physicians for
+      Human Rights-Israel , another Israeli organization, is in on the conspiracy. You
+      also need to believe that Amnesty International is in on the conspiracy. You also
+      need to believe that Doctors Without Borders are in on the conspiracy. You also
+      need to accept that Human Rights Watch are in on the conspiracy. You also need
+      to accept that the European Center for Constitutional and Human Rights is in on
+      the conspiracy. You also need to accept that the International Federation for
+      Human Rights is in on the conspiracy. You also need to believe that the Lemkin
+      Institute for Genocide Prevention is in on the conspiracy. You also need to believe
+      the conspiracy is so widespread and pervasive that there exists not a single major
+      human rights group which holds that Israel is NOT committing genocide in Gaza.
+      You need to believe this conspiracy goes all the way to the top. Toward what end
+      are all these institutions conspiring to deceive the world into thinking that
+      the innocent, virtuous state of Israel is guilty of these heinous crimes? Well,
+      that’s where the “theory” part of conspiracy theory comes in. You need to have
+      some reason why all these groups would be working together to trick everyone into
+      thinking Israel is committing genocide. “Cui bono?”, as they say in conspiracy
+      circles. If you press the average Israel defender to explain why all these institutions
+      would be lying about Israel’s actions in Gaza, you will eventually get them to
+      admit that their theory is that all these institutions secretly hate Jews. That
+      it’s a giant antisemitic conspiracy designed to discredit the Israeli state and
+      make Jewish people feel sad. I defy you to find me a dumber conspiracy theory
+      than this. There’s nothing that can possibly compete. QAnon. Flat earth. Reptilians.
+      They all seem fairly reasonable in comparison to this demented nonsense. They’re
+      certainly a lot less harmful. They’re a lot less harmful because they’re not being
+      used to justify an ongoing genocide, and because they’re not being promoted by
+      the most powerful people in the world. All the major western powers who’ve refused
+      to acknowledge that we’re looking at a genocide in Gaza subscribe to the dumb
+      conspiracy theory in question. All the mass media institutions who frame genocide
+      as an unfounded accusation rather than an established fact verified by the overwhelming
+      consensus of the world’s relevant experts necessarily subscribe to the world’s
+      dumbest conspiracy theory as well. It’s the dumbest conspiracy theory in the world,
+      but it’s also the mainstream narrative. It’s what our governments and our media
+      tell us is reality. They’re a bunch of tinfoil hat-wearing crackpots, and they
+      rule the world. The western empire is the craziest, most murderous, most deceitful,
+      and most dangerous power structure on earth, and it is only getting more so. Which
+      is why the narratives we’re being asked to believe are getting dumber and dumber
+      by the year. __________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that denying the occurrence of genocide
+      in Gaza requires subscribing to an absurd conspiracy theory that major humanitarian
+      organizations are colluding to falsely accuse Israel of such crimes.
+    paragraph_summary: The article argues that the belief that major humanitarian institutions
+      are conspiring to falsely accuse Israel of genocide in Gaza is an absurd conspiracy
+      theory. It contends that to deny the occurrence of genocide in Gaza, one must
+      accept the implausible notion that numerous reputable organizations—including
+      the United Nations, various human rights groups, and international scholars—are
+      all colluding in this deception. The author emphasizes that this conspiracy theory
+      is so extensive that it implies a widespread agreement among these institutions
+      to misrepresent the situation, which they find inherently ridiculous.
+    published: '2025-09-29T12:07:21+00:00'
+  - title: The Single Dumbest Conspiracy Theory In The Entire World
+    url: https://www.caitlinjohnst.one/p/the-single-dumbest-conspiracy-theory
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The single dumbest conspiracy theory in the entire world is that every major humanitarian
+      institution on earth is conspiring to falsely frame Israel for the crime of genocide.
+      And yet believing this bat shit insane conspiracy theory is the only way to think
+      it’s not a genocide. There is no other way to claim that there is no genocide
+      happening in Gaza without treating this self-evidently ridiculous theory as true.
+      In order to believe that there is no genocide in Gaza, you need to accept it as
+      a given that the United Nations Independent International Commission of Inquiry
+      on the Occupied Palestinian Territory is conspiring to frame Israel for this crime.
+      You also need to believe that the International Association of Genocide Scholars
+      is in on the conspiracy. You also need to believe the Israeli human rights group
+      B’Tselem is in on the conspiracy. You also need to believe that Physicians for
+      Human Rights-Israel , another Israeli organization, is in on the conspiracy. You
+      also need to believe that Amnesty International is in on the conspiracy. You also
+      need to believe that Doctors Without Borders are in on the conspiracy. You also
+      need to accept that Human Rights Watch are in on the conspiracy. You also need
+      to accept that the European Center for Constitutional and Human Rights is in on
+      the conspiracy. You also need to accept that the International Federation for
+      Human Rights is in on the conspiracy. You also need to believe that the Lemkin
+      Institute for Genocide Prevention is in on the conspiracy. You also need to believe
+      the conspiracy is so widespread and pervasive that there exists not a single major
+      human rights group which holds that Israel is NOT committing genocide in Gaza.
+      You need to believe this conspiracy goes all the way to the top. Toward what end
+      are all these institutions conspiring to deceive the world into thinking that
+      the innocent, virtuous state of Israel is guilty of these heinous crimes? Well,
+      that’s where the “theory” part of conspiracy theory comes in. You need to have
+      some reason why all these groups would be working together to trick everyone into
+      thinking Israel is committing genocide. “Cui bono?”, as they say in conspiracy
+      circles. If you press the average Israel defender to explain why all these institutions
+      would be lying about Israel’s actions in Gaza, you will eventually get them to
+      admit that their theory is that all these institutions secretly hate Jews. That
+      it’s a giant antisemitic conspiracy designed to discredit the Israeli state and
+      make Jewish people feel sad. I defy you to find me a dumber conspiracy theory
+      than this. There’s nothing that can possibly compete. QAnon. Flat earth. Reptilians.
+      They all seem fairly reasonable in comparison to this demented nonsense. They’re
+      certainly a lot less harmful. They’re a lot less harmful because they’re not being
+      used to justify an ongoing genocide, and because they’re not being promoted by
+      the most powerful people in the world. All the major western powers who’ve refused
+      to acknowledge that we’re looking at a genocide in Gaza subscribe to the dumb
+      conspiracy theory in question. All the mass media institutions who frame genocide
+      as an unfounded accusation rather than an established fact verified by the overwhelming
+      consensus of the world’s relevant experts necessarily subscribe to the world’s
+      dumbest conspiracy theory as well. It’s the dumbest conspiracy theory in the world,
+      but it’s also the mainstream narrative. It’s what our governments and our media
+      tell us is reality. They’re a bunch of tinfoil hat-wearing crackpots, and they
+      rule the world. The western empire is the craziest, most murderous, most deceitful,
+      and most dangerous power structure on earth, and it is only getting more so. Which
+      is why the narratives we’re being asked to believe are getting dumber and dumber
+      by the year. __________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that denying the occurrence of genocide
+      in Gaza requires subscribing to an absurd conspiracy theory that major humanitarian
+      organizations are colluding to falsely accuse Israel of such crimes.
+    paragraph_summary: The article argues that the belief that major humanitarian institutions
+      are conspiring to falsely accuse Israel of genocide in Gaza is an absurd conspiracy
+      theory. It contends that to deny the occurrence of genocide in Gaza, one must
+      accept the implausible notion that numerous reputable organizations—including
+      the United Nations, various human rights groups, and international scholars—are
+      all colluding in this deception. The author emphasizes that this conspiracy theory
+      is so extensive that it implies a widespread agreement among these institutions
+      to misrepresent the situation, which they find inherently ridiculous.
+    published: '2025-09-29T12:07:21+00:00'
+  - title: Trump Tyranny, Digital IDs, And Other Notes From The Edge Of The Narrative
+      Matrix
+    url: https://www.caitlinjohnst.one/p/trump-tyranny-digital-ids-and-other
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Authoritarianism continues to surge under the western empire. Ken Klippenstein
+      has drawn attention to the fact that President Trump has signed a national security
+      directive which expands federal power to “disrupt” individuals or groups which
+      “foment political violence,” including “before they result in violent political
+      acts.” The president’s memorandum states that such groups can be identified by
+      “anti-Americanism, anti-capitalism, and anti-Christianity; support for the overthrow
+      of the United States Government; extremism on migration, race, and gender; and
+      hostility towards those who hold traditional American views on family, religion,
+      and morality.” Meanwhile as Trump is falling all over himself to spin lefty vegans
+      as a massive extremist threat, an Iraq War veteran just shot up a Mormon church
+      and killed four people. If you’re looking for institutions that radicalize Americans
+      toward acts of terrorism, don’t look at mosques or Antifa or trans rights activists,
+      look at the US military, because veterans of the US war machine are where a hugely
+      disproportionate number of these extremist attacks are coming from. ❖ In a move
+      that has sparked significant political backlash throughout the UK, Prime Minister
+      Keir Starmer has announced that digital IDs will be required for anyone who wants
+      to work. You can tell intuitively that digital IDs aren’t being pushed for the
+      benefit of ordinary people just from the fact that zero ordinary people have been
+      asking for them. You’ll see people clamoring for their government to do all kinds
+      of things depending on where they’re at on the political spectrum, from giving
+      them better healthcare to stopping immigration to legalizing weed to making prayer
+      mandatory in public schools. But one thing you never see is ordinary members of
+      the public demanding that the government create a digital ID system and force
+      everyone to participate in it. Literally never. It’s a completely top-down initiative
+      with zero grassroots demand. This is because conventional systems of identification
+      have been working out more or less fine for general members of the public for
+      generations. What digital ID systems provide that those conventional systems do
+      not is a significant increase in the state’s ability to surveil and control the
+      population and their online behavior. This doesn’t benefit ordinary people, but
+      it does benefit our rulers. The more control they have over us, the easier it
+      will be to keep us propagandized and consenting to the status quo, and the harder
+      it will be for us to rise up against them when it’s time to remove them from power.
+      That’s the only reason you’re seeing governments scramble to shove this bullshit
+      down our throats without anyone ever asking for it or voting for it. ❖ https://x.com/caitoz/status/1971728090155176373
+      ❖ A major promoter of digital IDs is Oracle co-founder Larry Ellison, a surveillance
+      proponent and virulent Zionist who has poured unprecedented amounts of personal
+      wealth into the IDF. Ellison’s family is in the process of shoring up control
+      over TikTok, Paramount, and Warner Brothers Discovery, giving them control over
+      legacy media outlets like CNN and CBS. Ellison has been in a neck and neck race
+      with Elon Musk this month for the title of wealthiest person on earth. Capitalism
+      elevates the worst among us. The ones who will claw their way to the top under
+      this system are the most ruthless and sociopathic members of our society who are
+      willing to do whatever it takes to get ahead. They then use all their power to
+      advance their own interests and manifest their own vision of how they think the
+      world ought to be, which is always going to be horrible and detrimental to our
+      species because they are horrible people. When you create a system where sociopathy
+      is rewarded with wealth and where wealth equals power, you’re naturally going
+      to find yourself being ruled by sociopaths. The sociopaths won’t stop being in
+      charge until we dismantle the system which turns them into royalty. ❖ I’ll never
+      forget the day I saw reports that there was a shooting at an ICE facility and
+      the ammo had “messages that were anti-ICE in nature” on it, and I’m thinking “Anti-ICE
+      messages? Like what?” And then the FBI chief posts a photo of bullets with literally
+      just “ANTI-ICE” written in pen. https://x.com/FBIDirectorKash/status/1970877754221498599
+      False flags and coverups are getting so lazy it’s bringing a whole new generation
+      of leftists back around to embracing conspiracy analysis like it’s the Bush administration.
+      ❖ They’re coming out with two separate scripted shows about October 7 for the
+      second anniversary of the 2023 Hamas attack. The problem with using October 7
+      to justify a genocide is that it was just a single event two years ago, while
+      the genocide is happening every day. So they have to keep coming up with new ways
+      to make people feel like October 7 just happened: films, shows, new “mass rape”
+      stories, etc. ❖ It’s time for westerners to move on from our “Are we the baddies?”
+      moment to our “Let’s actually stop being the baddies” moment. It’s great that
+      we’re gathering all these insights into how profoundly evil our governments are,
+      but at some point you need to stop gathering lumber and start building. ______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via the White House (Public Domain).'
+    one_sentence_summary: President Trump's national security directive expands federal
+      powers to target individuals or groups deemed to promote political violence based
+      on various ideological criteria, amidst rising concerns about authoritarianism
+      and recent violent incidents.
+    paragraph_summary: The article discusses the rise of authoritarianism under the
+      western empire, highlighting President Trump's national security directive that
+      expands federal powers to target individuals or groups deemed to promote political
+      violence, identifying them based on various ideological criteria. It critiques
+      the focus on leftist groups as extremist threats while pointing out that a significant
+      number of violent acts have been committed by veterans of the U.S. military. Additionally,
+      it addresses UK Prime Minister Keir Starmer's controversial announcement requiring
+      digital IDs for employment, arguing that such measures are not driven by public
+      demand but rather serve governmental interests, reflecting a broader trend of
+      increasing control over citizens.
+    published: '2025-09-29T02:37:20+00:00'
+  - title: Trump Tyranny, Digital IDs, And Other Notes From The Edge Of The Narrative
+      Matrix
+    url: https://www.caitlinjohnst.one/p/trump-tyranny-digital-ids-and-other
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Authoritarianism continues to surge under the western empire. Ken Klippenstein
+      has drawn attention to the fact that President Trump has signed a national security
+      directive which expands federal power to “disrupt” individuals or groups which
+      “foment political violence,” including “before they result in violent political
+      acts.” The president’s memorandum states that such groups can be identified by
+      “anti-Americanism, anti-capitalism, and anti-Christianity; support for the overthrow
+      of the United States Government; extremism on migration, race, and gender; and
+      hostility towards those who hold traditional American views on family, religion,
+      and morality.” Meanwhile as Trump is falling all over himself to spin lefty vegans
+      as a massive extremist threat, an Iraq War veteran just shot up a Mormon church
+      and killed four people. If you’re looking for institutions that radicalize Americans
+      toward acts of terrorism, don’t look at mosques or Antifa or trans rights activists,
+      look at the US military, because veterans of the US war machine are where a hugely
+      disproportionate number of these extremist attacks are coming from. ❖ In a move
+      that has sparked significant political backlash throughout the UK, Prime Minister
+      Keir Starmer has announced that digital IDs will be required for anyone who wants
+      to work. You can tell intuitively that digital IDs aren’t being pushed for the
+      benefit of ordinary people just from the fact that zero ordinary people have been
+      asking for them. You’ll see people clamoring for their government to do all kinds
+      of things depending on where they’re at on the political spectrum, from giving
+      them better healthcare to stopping immigration to legalizing weed to making prayer
+      mandatory in public schools. But one thing you never see is ordinary members of
+      the public demanding that the government create a digital ID system and force
+      everyone to participate in it. Literally never. It’s a completely top-down initiative
+      with zero grassroots demand. This is because conventional systems of identification
+      have been working out more or less fine for general members of the public for
+      generations. What digital ID systems provide that those conventional systems do
+      not is a significant increase in the state’s ability to surveil and control the
+      population and their online behavior. This doesn’t benefit ordinary people, but
+      it does benefit our rulers. The more control they have over us, the easier it
+      will be to keep us propagandized and consenting to the status quo, and the harder
+      it will be for us to rise up against them when it’s time to remove them from power.
+      That’s the only reason you’re seeing governments scramble to shove this bullshit
+      down our throats without anyone ever asking for it or voting for it. ❖ https://x.com/caitoz/status/1971728090155176373
+      ❖ A major promoter of digital IDs is Oracle co-founder Larry Ellison, a surveillance
+      proponent and virulent Zionist who has poured unprecedented amounts of personal
+      wealth into the IDF. Ellison’s family is in the process of shoring up control
+      over TikTok, Paramount, and Warner Brothers Discovery, giving them control over
+      legacy media outlets like CNN and CBS. Ellison has been in a neck and neck race
+      with Elon Musk this month for the title of wealthiest person on earth. Capitalism
+      elevates the worst among us. The ones who will claw their way to the top under
+      this system are the most ruthless and sociopathic members of our society who are
+      willing to do whatever it takes to get ahead. They then use all their power to
+      advance their own interests and manifest their own vision of how they think the
+      world ought to be, which is always going to be horrible and detrimental to our
+      species because they are horrible people. When you create a system where sociopathy
+      is rewarded with wealth and where wealth equals power, you’re naturally going
+      to find yourself being ruled by sociopaths. The sociopaths won’t stop being in
+      charge until we dismantle the system which turns them into royalty. ❖ I’ll never
+      forget the day I saw reports that there was a shooting at an ICE facility and
+      the ammo had “messages that were anti-ICE in nature” on it, and I’m thinking “Anti-ICE
+      messages? Like what?” And then the FBI chief posts a photo of bullets with literally
+      just “ANTI-ICE” written in pen. https://x.com/FBIDirectorKash/status/1970877754221498599
+      False flags and coverups are getting so lazy it’s bringing a whole new generation
+      of leftists back around to embracing conspiracy analysis like it’s the Bush administration.
+      ❖ They’re coming out with two separate scripted shows about October 7 for the
+      second anniversary of the 2023 Hamas attack. The problem with using October 7
+      to justify a genocide is that it was just a single event two years ago, while
+      the genocide is happening every day. So they have to keep coming up with new ways
+      to make people feel like October 7 just happened: films, shows, new “mass rape”
+      stories, etc. ❖ It’s time for westerners to move on from our “Are we the baddies?”
+      moment to our “Let’s actually stop being the baddies” moment. It’s great that
+      we’re gathering all these insights into how profoundly evil our governments are,
+      but at some point you need to stop gathering lumber and start building. ______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via the White House (Public Domain).'
+    one_sentence_summary: President Trump's national security directive expands federal
+      powers to target individuals or groups deemed to promote political violence based
+      on various ideological criteria, amidst rising concerns about authoritarianism
+      and recent violent incidents.
+    paragraph_summary: The article discusses the rise of authoritarianism under the
+      western empire, highlighting President Trump's national security directive that
+      expands federal powers to target individuals or groups deemed to promote political
+      violence, identifying them based on various ideological criteria. It critiques
+      the focus on leftist groups as extremist threats while pointing out that a significant
+      number of violent acts have been committed by veterans of the U.S. military. Additionally,
+      it addresses UK Prime Minister Keir Starmer's controversial announcement requiring
+      digital IDs for employment, arguing that such measures are not driven by public
+      demand but rather serve governmental interests, reflecting a broader trend of
+      increasing control over citizens.
+    published: '2025-09-29T02:37:20+00:00'
+  - title: The World Doesn't Hate Jews, The World Hates Israel
+    url: https://www.caitlinjohnst.one/p/the-world-doesnt-hate-jews-the-world
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s so crazy that we’re two years into a genocide and we’re still being hammered
+      by propagandists pretending to believe that the world has just spontaneously started
+      hating Israel for no reason in some inexplicable explosion of Jew-hatred. “ U.S.
+      registers most outbreaks of global antisemitism in August ,” reads a recent headline
+      from Fox News. “ Report: Antisemitism Hits Post-Holocaust Hig h,” blares a headline
+      from Newsmax. “ Gen Z’s casual antisemitism is growing — seeded by influencers
+      like Tucker Carlson ,” says a headline from The New York Post. During a recent
+      “counter-terrorism” summit at Reichman University, Anti-Defamation League CEO
+      Jonathan Greenblatt complained that the entire world is becoming increasingly
+      hateful toward Jews. “This year, ADL’s Global 100 survey of antisemitic attitudes
+      around the world found a 46 percent shift of the adult population — 2.2 billion
+      people — harbor elevated levels of antisemitism,” Greenblatt said. “That’s nearly
+      double the rate that we saw a decade ago. For the first time since we started
+      tracking these attitudes in the 1960s, the younger generation is more likely to
+      hold elevated anti-Jewish views than their parents or grandparents.” They’re just
+      talking about people who oppose Israel for perpetrating a live-streamed holocaust.
+      People don’t hate Israel because it’s full of Jewish people, they hate Israel
+      because of the things Israel does. It is absolutely mind-boggling that to this
+      day we’re seeing a hypermilitaristic apartheid ethnonationalist state starving
+      and massacring civilians because of their ethnicity, bombing hospitals, assassinating
+      journalists and medical professionals, murdering humanitarian workers, starting
+      wars, invading neighboring countries, manipulating foreign governments, threatening
+      activists, and actively working to crush free speech throughout the western world,
+      all with the backing of the most powerful empire in history — and we’ve still
+      got western institutions trying to convince us that people hate Israel because
+      of religious prejudice. This is the same genocidal apartheid state that has been
+      terrorizing activists for trying to bring formula to starving babies. The same
+      genocidal apartheid state whose leader just appeared before the UN and announced
+      that the victims of his genocide were being forced to listen to his speech because
+      Israel had taken control of their phones. The same genocidal apartheid state whose
+      leader is publicly boasting about having seized control of TikTok in order to
+      manipulate the things westerners are allowed to say to each other about Israeli
+      atrocities . The same genocidal apartheid state whose leader is reportedly going
+      around bragging that he owns the president of the United States and can make the
+      US do whatever he wants. https://x.com/caitoz/status/1970630309000745298 For two
+      years we’ve been watching footage coming out of Gaza showing things being done
+      to human anatomy that we hadn’t seen depicted in even the goriest horror movies
+      ever produced by Hollywood. Stories about rape, torture, people being mauled to
+      death by dogs. Suffering the likes of which we cannot even imagine over here in
+      our sheltered little western homes. And they’re still trying to tell us that our
+      revulsion toward the state that is doing these things is the result of “antisemitism”.
+      If I was on the bus with a man who was constantly hurting the other passengers,
+      abusing them, attacking them and degrading them, I would think that man is an
+      asshole. It wouldn’t matter if he was wearing a Star of David, a cross, a turban
+      or a keffiyeh; I would think he is a dickhead regardless. If I looked out my window
+      and saw people massacring children, I’d probably think thoughts like “That’s horrible!”
+      and “How can I stop this?” The furthest thing from my mind would be thoughts like
+      “What religion are they?” or “Their religion is very relevant to any discussions
+      we might have about this massacre” or “We should definitely be very careful about
+      discussing this massacre because we don’t want to offend people who have the same
+      religion as the people doing the massacre.” It would never occur to me to consider
+      such things, much less that such considerations should be central to all discourse
+      about the massacre for years on end. As someone from a Catholic family I never
+      once felt like I was being discriminated against when people said priests should
+      stop molesting children. I never tried to claim a hate crime had been done to
+      me whenever anyone said pedophilia is wrong. I saw that child rape at the hands
+      of the Church was a monstrous abuse which urgently needed to end at all cost,
+      and that this self-evident fact had nothing to do with discriminating against
+      anyone based on their religion. https://x.com/RyanRozbiani/status/1971919918842143138
+      There’s a video going around showing anti-genocide protesters in South Korea throwing
+      shoes at a large picture of Benjamin Netanyahu. These are people who’ve probably
+      never met a Jew in their lives, for whom the Jewish faith has no cultural relevance
+      whatsoever. They’ve probably spent close to zero time thinking about Jews and
+      Judaism. They just hate Netanyahu because he’s perpetrating an active genocide.
+      Because duh. The world doesn’t hate Jews, it hates Israel. The world hates Israel
+      because Israel is a profoundly evil state whose profoundly evil actions are tormenting
+      millions of people, and are having a direct effect on our own lives to a greater
+      and greater extent as well. Anyone who babbles about “antisemitism” in the year
+      2025 is just trying to shut you down and shut you up so you don’t oppose the most
+      nakedly evil thing that is happening in your world today. _______________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article discusses the rise of global antisemitism, highlighting
+      recent reports and comments from figures like Anti-Defamation League CEO Jonathan
+      Greenblatt, who attribute this increase to a growing hatred towards Jews amidst
+      ongoing conflicts, particularly in relation to Israel.
+    paragraph_summary: The article discusses the rise of antisemitism in the context
+      of the ongoing conflict involving Israel, arguing that the hatred directed towards
+      Israel is not rooted in a spontaneous resurgence of Jew-hatred, but rather in
+      the actions of the Israeli government, which the author describes as engaging
+      in violent and oppressive practices against Palestinians. Citing statistics from
+      the Anti-Defamation League, the piece highlights a significant increase in antisemitic
+      attitudes globally, particularly among younger generations. The author contends
+      that criticism of Israel's policies and actions should not be conflated with antisemitism,
+      emphasizing that opposition arises from Israel's military actions and treatment
+      of civilians rather than from an inherent dislike of Jewish people. The article
+      critiques the portrayal of this issue in the media and the broader implications
+      of Israel's actions, suggesting that they contribute to a cycle of violence and
+      hatred.
+    published: '2025-09-28T02:34:23+00:00'
+  - title: The World Doesn't Hate Jews, The World Hates Israel
+    url: https://www.caitlinjohnst.one/p/the-world-doesnt-hate-jews-the-world
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s so crazy that we’re two years into a genocide and we’re still being hammered
+      by propagandists pretending to believe that the world has just spontaneously started
+      hating Israel for no reason in some inexplicable explosion of Jew-hatred. “ U.S.
+      registers most outbreaks of global antisemitism in August ,” reads a recent headline
+      from Fox News. “ Report: Antisemitism Hits Post-Holocaust Hig h,” blares a headline
+      from Newsmax. “ Gen Z’s casual antisemitism is growing — seeded by influencers
+      like Tucker Carlson ,” says a headline from The New York Post. During a recent
+      “counter-terrorism” summit at Reichman University, Anti-Defamation League CEO
+      Jonathan Greenblatt complained that the entire world is becoming increasingly
+      hateful toward Jews. “This year, ADL’s Global 100 survey of antisemitic attitudes
+      around the world found a 46 percent shift of the adult population — 2.2 billion
+      people — harbor elevated levels of antisemitism,” Greenblatt said. “That’s nearly
+      double the rate that we saw a decade ago. For the first time since we started
+      tracking these attitudes in the 1960s, the younger generation is more likely to
+      hold elevated anti-Jewish views than their parents or grandparents.” They’re just
+      talking about people who oppose Israel for perpetrating a live-streamed holocaust.
+      People don’t hate Israel because it’s full of Jewish people, they hate Israel
+      because of the things Israel does. It is absolutely mind-boggling that to this
+      day we’re seeing a hypermilitaristic apartheid ethnonationalist state starving
+      and massacring civilians because of their ethnicity, bombing hospitals, assassinating
+      journalists and medical professionals, murdering humanitarian workers, starting
+      wars, invading neighboring countries, manipulating foreign governments, threatening
+      activists, and actively working to crush free speech throughout the western world,
+      all with the backing of the most powerful empire in history — and we’ve still
+      got western institutions trying to convince us that people hate Israel because
+      of religious prejudice. This is the same genocidal apartheid state that has been
+      terrorizing activists for trying to bring formula to starving babies. The same
+      genocidal apartheid state whose leader just appeared before the UN and announced
+      that the victims of his genocide were being forced to listen to his speech because
+      Israel had taken control of their phones. The same genocidal apartheid state whose
+      leader is publicly boasting about having seized control of TikTok in order to
+      manipulate the things westerners are allowed to say to each other about Israeli
+      atrocities . The same genocidal apartheid state whose leader is reportedly going
+      around bragging that he owns the president of the United States and can make the
+      US do whatever he wants. https://x.com/caitoz/status/1970630309000745298 For two
+      years we’ve been watching footage coming out of Gaza showing things being done
+      to human anatomy that we hadn’t seen depicted in even the goriest horror movies
+      ever produced by Hollywood. Stories about rape, torture, people being mauled to
+      death by dogs. Suffering the likes of which we cannot even imagine over here in
+      our sheltered little western homes. And they’re still trying to tell us that our
+      revulsion toward the state that is doing these things is the result of “antisemitism”.
+      If I was on the bus with a man who was constantly hurting the other passengers,
+      abusing them, attacking them and degrading them, I would think that man is an
+      asshole. It wouldn’t matter if he was wearing a Star of David, a cross, a turban
+      or a keffiyeh; I would think he is a dickhead regardless. If I looked out my window
+      and saw people massacring children, I’d probably think thoughts like “That’s horrible!”
+      and “How can I stop this?” The furthest thing from my mind would be thoughts like
+      “What religion are they?” or “Their religion is very relevant to any discussions
+      we might have about this massacre” or “We should definitely be very careful about
+      discussing this massacre because we don’t want to offend people who have the same
+      religion as the people doing the massacre.” It would never occur to me to consider
+      such things, much less that such considerations should be central to all discourse
+      about the massacre for years on end. As someone from a Catholic family I never
+      once felt like I was being discriminated against when people said priests should
+      stop molesting children. I never tried to claim a hate crime had been done to
+      me whenever anyone said pedophilia is wrong. I saw that child rape at the hands
+      of the Church was a monstrous abuse which urgently needed to end at all cost,
+      and that this self-evident fact had nothing to do with discriminating against
+      anyone based on their religion. https://x.com/RyanRozbiani/status/1971919918842143138
+      There’s a video going around showing anti-genocide protesters in South Korea throwing
+      shoes at a large picture of Benjamin Netanyahu. These are people who’ve probably
+      never met a Jew in their lives, for whom the Jewish faith has no cultural relevance
+      whatsoever. They’ve probably spent close to zero time thinking about Jews and
+      Judaism. They just hate Netanyahu because he’s perpetrating an active genocide.
+      Because duh. The world doesn’t hate Jews, it hates Israel. The world hates Israel
+      because Israel is a profoundly evil state whose profoundly evil actions are tormenting
+      millions of people, and are having a direct effect on our own lives to a greater
+      and greater extent as well. Anyone who babbles about “antisemitism” in the year
+      2025 is just trying to shut you down and shut you up so you don’t oppose the most
+      nakedly evil thing that is happening in your world today. _______________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article discusses the rise of global antisemitism, highlighting
+      recent reports and comments from figures like Anti-Defamation League CEO Jonathan
+      Greenblatt, who attribute this increase to a growing hatred towards Jews amidst
+      ongoing conflicts, particularly in relation to Israel.
+    paragraph_summary: The article discusses the rise of antisemitism in the context
+      of the ongoing conflict involving Israel, arguing that the hatred directed towards
+      Israel is not rooted in a spontaneous resurgence of Jew-hatred, but rather in
+      the actions of the Israeli government, which the author describes as engaging
+      in violent and oppressive practices against Palestinians. Citing statistics from
+      the Anti-Defamation League, the piece highlights a significant increase in antisemitic
+      attitudes globally, particularly among younger generations. The author contends
+      that criticism of Israel's policies and actions should not be conflated with antisemitism,
+      emphasizing that opposition arises from Israel's military actions and treatment
+      of civilians rather than from an inherent dislike of Jewish people. The article
+      critiques the portrayal of this issue in the media and the broader implications
+      of Israel's actions, suggesting that they contribute to a cycle of violence and
+      hatred.
+    published: '2025-09-28T02:34:23+00:00'
+  - title: The Real Violent Extremists Are The Freaks Who Run The US Empire
+    url: https://www.caitlinjohnst.one/p/the-real-violent-extremists-are-the
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The real violent extremists are the oligarchs and imperialists who run the US-centralized
+      empire from both mainstream parties. Not Antifa. Not trans people. Not anti-genocide
+      activists. Not protesters against ICE. The extremists who are inflicting the real
+      violence and abuse in our world are the ones committing genocide, starting wars,
+      backing blockades, imposing starvation sanctions, arming proxy conflicts, circling
+      the planet with hundreds of military bases, and flirting with nuclear armageddon.
+      https://x.com/haugejostein/status/1968656757175030216 Donald Trump is a violent
+      extremist. Joe Biden is a violent extremist. Keir Starmer is a violent extremist.
+      Benjamin Netanyahu is a violent extremist. Oligarchs who knit themselves into
+      the murderous imperial power structure like Jeff Bezos, Elon Musk, Peter Thiel,
+      Miriam Adelson and Larry Ellison are violent extremists. The Democratic Party
+      is a violent extremist organization. The Republican Party is a violent extremist
+      organization. War profiteers like Raytheon, Lockheed Martin and Northrop Grumman
+      are violent extremist organizations. Empire management firms which facilitate
+      imperial violence and control like Palantir, Oracle and Starlink are violent extremist
+      organizations. There is no designated terrorist group foreign or domestic which
+      can hold a candle to the death toll and human suffering that has been inflicted
+      by the western empire. I think it’s worth remembering this as the empire harnesses
+      the emotional hysteria around Charlie Kirk’s death to whip up a moral panic about
+      violent radical leftists in the United States in order to justify increased authoritarian
+      measures to stomp out political dissent . The real violence is coming from the
+      powerful manipulators who want you consenting to these measures. The call is coming
+      from inside the house. The US and its allies have killed millions of people in
+      their wars of aggression since 9/11, and displaced tens of millions . Their cruel
+      sanctions have killed tens of millions since 1970. Their policies of imperialist
+      extraction force populations throughout the global south to live lives of endless
+      poverty and toil . They are currently perpetrating a genocide in full view of
+      the entire world. https://x.com/jasonhickel/status/1967151376200544495 These are
+      the violent extremists. The only reason they are able to claim that some kid wearing
+      a keffiyeh or a balaclava is a violent extremist while they themselves are not
+      is because they control the narrative. The plutocrats who benefit from the imperial
+      status quo own and control the media platforms and information systems which people
+      use to learn about the world, and they use this narrative control to frame the
+      imperial status quo as normal and any opposition to it as freakish extremism.
+      That’s the only reason a westerner who supports genocide, warmongering, militarism
+      and imperialism gets to call themselves a “centrist” or a “moderate”. They live
+      in an empire whose propagandists actively normalize imperial abuses while spinning
+      any deviation from this violent madness as abnormalities on the radical political
+      fringe. But it’s a lie. Genocide is violent extremism. Mass murder is violent
+      extremism. Siege warfare is violent extremism. Global tyranny is violent extremism.
+      Peace is moderate and normal. Justice is moderate and normal. Health is moderate
+      and normal. Equality is moderate and normal. Equitable wealth and resource distribution
+      is moderate and normal. The genocidal, ecocidal, omnicidal nightmare we see before
+      us in our world today is what it looks like when the violent extremists are in
+      charge. __________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Trump White House (Public Domain) .'
+    one_sentence_summary: The article argues that the true violent extremists are the
+      oligarchs and political leaders who perpetuate war, genocide, and imperialism,
+      rather than marginalized groups or activists often labeled as extremists.
+    paragraph_summary: The article argues that the true violent extremists are not marginalized
+      groups like Antifa or anti-genocide activists, but rather the oligarchs and imperialists
+      who control the U.S.-led empire through both major political parties. It identifies
+      figures such as Donald Trump, Joe Biden, and various corporate leaders as part
+      of a violent extremist framework that engages in genocide, war, and other forms
+      of systemic violence, while also criticizing the military-industrial complex and
+      empire management firms. The piece emphasizes that the real threat comes from
+      those in power who manipulate public sentiment to justify authoritarian measures
+      against dissent, highlighting the extensive human suffering caused by U.S. military
+      actions since 9/11.
+    published: '2025-09-26T12:49:55+00:00'
+  - title: The Real Violent Extremists Are The Freaks Who Run The US Empire
+    url: https://www.caitlinjohnst.one/p/the-real-violent-extremists-are-the
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The real violent extremists are the oligarchs and imperialists who run the US-centralized
+      empire from both mainstream parties. Not Antifa. Not trans people. Not anti-genocide
+      activists. Not protesters against ICE. The extremists who are inflicting the real
+      violence and abuse in our world are the ones committing genocide, starting wars,
+      backing blockades, imposing starvation sanctions, arming proxy conflicts, circling
+      the planet with hundreds of military bases, and flirting with nuclear armageddon.
+      https://x.com/haugejostein/status/1968656757175030216 Donald Trump is a violent
+      extremist. Joe Biden is a violent extremist. Keir Starmer is a violent extremist.
+      Benjamin Netanyahu is a violent extremist. Oligarchs who knit themselves into
+      the murderous imperial power structure like Jeff Bezos, Elon Musk, Peter Thiel,
+      Miriam Adelson and Larry Ellison are violent extremists. The Democratic Party
+      is a violent extremist organization. The Republican Party is a violent extremist
+      organization. War profiteers like Raytheon, Lockheed Martin and Northrop Grumman
+      are violent extremist organizations. Empire management firms which facilitate
+      imperial violence and control like Palantir, Oracle and Starlink are violent extremist
+      organizations. There is no designated terrorist group foreign or domestic which
+      can hold a candle to the death toll and human suffering that has been inflicted
+      by the western empire. I think it’s worth remembering this as the empire harnesses
+      the emotional hysteria around Charlie Kirk’s death to whip up a moral panic about
+      violent radical leftists in the United States in order to justify increased authoritarian
+      measures to stomp out political dissent . The real violence is coming from the
+      powerful manipulators who want you consenting to these measures. The call is coming
+      from inside the house. The US and its allies have killed millions of people in
+      their wars of aggression since 9/11, and displaced tens of millions . Their cruel
+      sanctions have killed tens of millions since 1970. Their policies of imperialist
+      extraction force populations throughout the global south to live lives of endless
+      poverty and toil . They are currently perpetrating a genocide in full view of
+      the entire world. https://x.com/jasonhickel/status/1967151376200544495 These are
+      the violent extremists. The only reason they are able to claim that some kid wearing
+      a keffiyeh or a balaclava is a violent extremist while they themselves are not
+      is because they control the narrative. The plutocrats who benefit from the imperial
+      status quo own and control the media platforms and information systems which people
+      use to learn about the world, and they use this narrative control to frame the
+      imperial status quo as normal and any opposition to it as freakish extremism.
+      That’s the only reason a westerner who supports genocide, warmongering, militarism
+      and imperialism gets to call themselves a “centrist” or a “moderate”. They live
+      in an empire whose propagandists actively normalize imperial abuses while spinning
+      any deviation from this violent madness as abnormalities on the radical political
+      fringe. But it’s a lie. Genocide is violent extremism. Mass murder is violent
+      extremism. Siege warfare is violent extremism. Global tyranny is violent extremism.
+      Peace is moderate and normal. Justice is moderate and normal. Health is moderate
+      and normal. Equality is moderate and normal. Equitable wealth and resource distribution
+      is moderate and normal. The genocidal, ecocidal, omnicidal nightmare we see before
+      us in our world today is what it looks like when the violent extremists are in
+      charge. __________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Trump White House (Public Domain) .'
+    one_sentence_summary: The article argues that the true violent extremists are the
+      oligarchs and political leaders who perpetuate war, genocide, and imperialism,
+      rather than marginalized groups or activists often labeled as extremists.
+    paragraph_summary: The article argues that the true violent extremists are not marginalized
+      groups like Antifa or anti-genocide activists, but rather the oligarchs and imperialists
+      who control the U.S.-led empire through both major political parties. It identifies
+      figures such as Donald Trump, Joe Biden, and various corporate leaders as part
+      of a violent extremist framework that engages in genocide, war, and other forms
+      of systemic violence, while also criticizing the military-industrial complex and
+      empire management firms. The piece emphasizes that the real threat comes from
+      those in power who manipulate public sentiment to justify authoritarian measures
+      against dissent, highlighting the extensive human suffering caused by U.S. military
+      actions since 9/11.
+    published: '2025-09-26T12:49:55+00:00'
+  - title: The Two-State Solution Is A Western Liberal Fairy Tale
+    url: https://www.caitlinjohnst.one/p/the-two-state-solution-is-a-western
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The only real benefit to this latest western “recognition” of Palestine is that
+      it drew out high-profile Israeli politicians to explain to western liberals in
+      plain English that the entire state of Israel stands opposed to their vision of
+      a two-state solution. Former Israeli defense minister Benny Gantz has a new op-ed
+      in The New York Times where he explicitly states that opposition to the creation
+      of a Palestinian state is “the heart” of a national consensus among Israelis across
+      the mainstream political spectrum, and that this isn’t an obstacle that will go
+      away once Netanyahu is out of power. “Too often, Western leaders view our policies
+      in this war not through the lens of national security, but through the prism of
+      individuals — and, in particular, Israel’s prime minister, Benjamin Netanyahu,”
+      Gantz writes. “The conversation is often framed as a question of what serves the
+      prime minister, as if Israel’s national security begins and ends with one man.
+      This view is mistaken and counterproductive to global stability, regional normalization
+      and Israel’s own security.” “I myself have been a vocal critic of Mr. Netanyahu,”
+      says Gantz. “But the nation’s core security interests are not partisan property.
+      Today more than ever, they are anchored by a national consensus that is rooted
+      in the hard realities of our region. Opposition to the recognition of Palestinian
+      statehood stands at the heart of that consensus.” https://x.com/gantzbe/status/1970886373281509394
+      He’s spelling it out in black and white. The Bernie Sanders-style framing of the
+      nightmare in Palestine as a Netanyahu problem which can be remedied in short order
+      by a two-state solution is a fairy tale that western liberals tell each other
+      so they don’t have to face the cold hard reality that the problem is the state
+      of Israel itself. This comes after Netanyahu publicly stated that “There will
+      be no Palestinian state to the west of the Jordan River,” and after former Israeli
+      defense minister Yoav Gallant proclaimed that “There will never be a Palestinian
+      state.” Israel is the problem. Not Netanyahu. Not Hamas. Not that both sides have
+      tragically failed to sit down and find common ground in good-faith negotiations.
+      The problem is that the west established a state in the middle east which holds
+      as its foundational ideology that the people who were living there before that
+      state was created are less than human, and must never have access to the full
+      spectrum of human rights. The problem is Israel. A state which has always been
+      a racist endeavor from its very inception. A state whose Jewish citizenry are
+      indoctrinated from birth into accepting the hateful, supremacist worldview that
+      is necessary for apartheid and abuse to be accepted as the status quo. https://x.com/caitoz/status/1970621607766041078
+      No solutions are going to emerge until the west gets real about this. As long
+      as western liberals are still buying into the fuzzbrained escapist fantasy that
+      Israel is just an election away from a two-state solution if the US simply keeps
+      funding the Iron Dome and making nice with Tel Aviv, we’re going to continue seeing
+      Israel inflicting the nonstop violence and abuse that is necessary for it to exist
+      in its present iteration as a state. Any actual, reality-based solutions are not
+      going to make liberal Zionists happy like their daydream about a two-state solution
+      does. Israel simply cannot continue to exist as a Zionist entity. It needs to
+      be disarmed, dramatically restructured, and comprehensively denazified as a society.
+      This isn’t going to happen without force, and that necessary force isn’t going
+      to be forthcoming from the western world as long as we are deluding ourselves
+      with infantile fantasies. The Israelis are telling us this is the case themselves,
+      right to our faces. It’s time to wake up. ____________ Caitlin’s Newsletter is
+      a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The recent acknowledgment of Palestine by Western nations
+      has prompted Israeli leaders, particularly former defense minister Benny Gantz,
+      to clarify that the widespread Israeli opposition to a Palestinian state is a
+      fundamental aspect of national consensus, rather than merely a reflection of Prime
+      Minister Netanyahu's policies.
+    paragraph_summary: The recent acknowledgment of Palestine by Western leaders has
+      prompted Israeli politicians, particularly former defense minister Benny Gantz,
+      to clarify that the opposition to a Palestinian state is a fundamental consensus
+      among Israelis, transcending political affiliations. In a New York Times op-ed,
+      Gantz argues that viewing Israel's policies solely through the lens of Prime Minister
+      Netanyahu is misguided, as the nation's core security interests are rooted in
+      a broader national consensus that firmly rejects Palestinian statehood. This perspective
+      challenges the common belief among Western liberals that a two-state solution
+      could easily resolve the conflict, highlighting the deeper, systemic issues within
+      the state of Israel itself.
+    published: '2025-09-25T01:30:39+00:00'
+  - title: The Two-State Solution Is A Western Liberal Fairy Tale
+    url: https://www.caitlinjohnst.one/p/the-two-state-solution-is-a-western
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The only real benefit to this latest western “recognition” of Palestine is that
+      it drew out high-profile Israeli politicians to explain to western liberals in
+      plain English that the entire state of Israel stands opposed to their vision of
+      a two-state solution. Former Israeli defense minister Benny Gantz has a new op-ed
+      in The New York Times where he explicitly states that opposition to the creation
+      of a Palestinian state is “the heart” of a national consensus among Israelis across
+      the mainstream political spectrum, and that this isn’t an obstacle that will go
+      away once Netanyahu is out of power. “Too often, Western leaders view our policies
+      in this war not through the lens of national security, but through the prism of
+      individuals — and, in particular, Israel’s prime minister, Benjamin Netanyahu,”
+      Gantz writes. “The conversation is often framed as a question of what serves the
+      prime minister, as if Israel’s national security begins and ends with one man.
+      This view is mistaken and counterproductive to global stability, regional normalization
+      and Israel’s own security.” “I myself have been a vocal critic of Mr. Netanyahu,”
+      says Gantz. “But the nation’s core security interests are not partisan property.
+      Today more than ever, they are anchored by a national consensus that is rooted
+      in the hard realities of our region. Opposition to the recognition of Palestinian
+      statehood stands at the heart of that consensus.” https://x.com/gantzbe/status/1970886373281509394
+      He’s spelling it out in black and white. The Bernie Sanders-style framing of the
+      nightmare in Palestine as a Netanyahu problem which can be remedied in short order
+      by a two-state solution is a fairy tale that western liberals tell each other
+      so they don’t have to face the cold hard reality that the problem is the state
+      of Israel itself. This comes after Netanyahu publicly stated that “There will
+      be no Palestinian state to the west of the Jordan River,” and after former Israeli
+      defense minister Yoav Gallant proclaimed that “There will never be a Palestinian
+      state.” Israel is the problem. Not Netanyahu. Not Hamas. Not that both sides have
+      tragically failed to sit down and find common ground in good-faith negotiations.
+      The problem is that the west established a state in the middle east which holds
+      as its foundational ideology that the people who were living there before that
+      state was created are less than human, and must never have access to the full
+      spectrum of human rights. The problem is Israel. A state which has always been
+      a racist endeavor from its very inception. A state whose Jewish citizenry are
+      indoctrinated from birth into accepting the hateful, supremacist worldview that
+      is necessary for apartheid and abuse to be accepted as the status quo. https://x.com/caitoz/status/1970621607766041078
+      No solutions are going to emerge until the west gets real about this. As long
+      as western liberals are still buying into the fuzzbrained escapist fantasy that
+      Israel is just an election away from a two-state solution if the US simply keeps
+      funding the Iron Dome and making nice with Tel Aviv, we’re going to continue seeing
+      Israel inflicting the nonstop violence and abuse that is necessary for it to exist
+      in its present iteration as a state. Any actual, reality-based solutions are not
+      going to make liberal Zionists happy like their daydream about a two-state solution
+      does. Israel simply cannot continue to exist as a Zionist entity. It needs to
+      be disarmed, dramatically restructured, and comprehensively denazified as a society.
+      This isn’t going to happen without force, and that necessary force isn’t going
+      to be forthcoming from the western world as long as we are deluding ourselves
+      with infantile fantasies. The Israelis are telling us this is the case themselves,
+      right to our faces. It’s time to wake up. ____________ Caitlin’s Newsletter is
+      a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The recent acknowledgment of Palestine by Western nations
+      has prompted Israeli leaders, particularly former defense minister Benny Gantz,
+      to clarify that the widespread Israeli opposition to a Palestinian state is a
+      fundamental aspect of national consensus, rather than merely a reflection of Prime
+      Minister Netanyahu's policies.
+    paragraph_summary: The recent acknowledgment of Palestine by Western leaders has
+      prompted Israeli politicians, particularly former defense minister Benny Gantz,
+      to clarify that the opposition to a Palestinian state is a fundamental consensus
+      among Israelis, transcending political affiliations. In a New York Times op-ed,
+      Gantz argues that viewing Israel's policies solely through the lens of Prime Minister
+      Netanyahu is misguided, as the nation's core security interests are rooted in
+      a broader national consensus that firmly rejects Palestinian statehood. This perspective
+      challenges the common belief among Western liberals that a two-state solution
+      could easily resolve the conflict, highlighting the deeper, systemic issues within
+      the state of Israel itself.
+    published: '2025-09-25T01:30:39+00:00'
   - title: More Attacks On The Gaza Aid Flotilla, And Other Notes From The Edge Of The
       Narrative Matrix
     url: https://www.caitlinjohnst.one/p/more-attacks-on-the-gaza-aid-flotilla

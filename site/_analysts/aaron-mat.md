@@ -7,14 +7,154 @@ description: "Journalist and producer; covers US foreign policy, Russiagate, and
 websites:
   - https://www.aaronmate.net/
 summary: |
-  The geopolitical landscape remains volatile as new developments reshape alliances and challenge longstanding narratives. In a historic move, the US has hosted Syrian President Ahmed al-Sharaa—formerly known as Mohammed al-Jolani and a past leader of Al Qaeda and ISIS—marking the first visit by a sitting Syrian president in nearly sixty years. This follows Washington’s controversial decision to remove al-Sharaa from its terrorism list, a step justified by his group’s pivotal role in toppling Bashar al-Assad. **Aaron Maté** notes that this normalization signals a dramatic realignment in US-Syria relations, raising questions about the future of counterterrorism policy and the regional balance of power.
+  The geopolitical landscape remains volatile as the US, Russia, and their allies navigate shifting alliances and intensifying conflicts. In recent days, several developments have underscored the complexity of these dynamics.
   
-  Meanwhile, the aftermath of Israel’s strike on Hamas leaders in Doha continues to reverberate. The attack, which came after President Trump’s ultimatum to Hamas regarding a ceasefire and hostage release, is widely seen as an example of “diplomacy for aggression,” according to **Aaron Maté**. The incident has heightened fears that Iran could be the next target, given the pattern of escalating military actions and diplomatic brinkmanship in the region.
+  The indictment of former FBI Director James Comey for alleged false statements to Congress has reignited debates over the politicization of justice in the US. While some view the move as a retaliatory act by President Trump, **Aaron Maté** notes that it also exposes the "controversial standards" set during the 2016 Trump-Russia investigation, which Comey himself oversaw. This case is emblematic of the broader struggle over accountability and political power in Washington.
   
-  On the Ukraine front, President Trump’s pivot from sanctions to negotiations with Russia has shifted the dynamics of the conflict. The acceptance of talks for a final settlement, as reported by **Aaron Maté**, complicates the position of Ukrainian President Zelensky and reflects changing realities on the battlefield. There is now a high chance that the Trump-Putin summit will yield at least a temporary ceasefire, though the details of any territorial agreements remain uncertain.
+  On the international front, President Trump’s evolving position on the Ukraine war marks a significant shift. After previously advocating for negotiations, Trump now expresses confidence in Ukraine’s ability to reclaim territory with EU backing, while openly questioning Russia’s military strength. This pivot has been welcomed by Ukrainian President Zelensky, who sees it as renewed support for Kyiv’s objectives. **Aaron Maté** observes that this change "reflects the changing dynamics on the battlefield," complicating the prospects for a negotiated settlement.
   
-  Looking ahead, the majority of analysts agree that the US’s willingness to engage with former adversaries—whether in Syria or Russia—signals a pragmatic, if controversial, approach to conflict resolution. However, these moves also risk fueling new cycles of instability, especially if underlying grievances remain unaddressed. There is high confidence that the coming weeks will see intensified diplomatic maneuvering in both the Middle East and Eastern Europe, with the potential for further surprises as power dynamics continue to shift.
+  Meanwhile, the Middle East remains a flashpoint. The US's hosting of Syria’s new president, Ahmed al-Sharaa (formerly Mohammed al-Jolani, a former Al Qaeda and ISIS leader), signals a dramatic realignment. The US removed al-Sharaa from its terrorism list following his role in toppling Bashar al-Assad, a move that has drawn criticism and raised questions about Washington’s long-term strategy in the region.
+  
+  Looking ahead, the trend is toward greater unpredictability. The Comey indictment is likely to deepen partisan divides in the US, with a high chance of further legal and political battles. In Ukraine, the renewed US and EU backing for Kyiv suggests the conflict will persist, with no immediate end in sight—there is high confidence that the war will continue to be a central issue in US-Russia relations. In Syria, the normalization of relations with a former jihadist leader points to a pragmatic, if controversial, shift in US policy, but the long-term stability of the region remains uncertain.
+  
+  Most definitely, these developments indicate a period of heightened tension and realignment, with major powers recalibrating their approaches in response to rapidly changing circumstances.
 articles:
+  - title: By Russiagate standards, the Comey case is a slam-dunk
+    url: https://www.aaronmate.net/p/by-russiagate-standards-the-comey
+    text: (Photo by Alex Wong/Getty Images) The indictment of former FBI Director James
+      Comey over alleged false statements to Congress has been widely dismissed as yet
+      another radical overreach of Donald Trump’s executive power. But to view the first
+      ever indictment of an FBI chief solely through the lens of Trump retribution only
+      tells half the story. By the derelict standards of the 2016 Trump-Russia collusion
+      probe that Comey presided over and promoted long after leaving his position, his
+      2025 prosecution is perfectly legitimate. There is no debate, in my view, that
+      Trump is exploiting the justice system for revenge against a political foe. Trump
+      took to social media to urge Attorney General Pam Bondi to charge Comey and other
+      political enemies. To secure the case, the White House forced out the interim
+      US attorney for the Eastern District of Virginia, Erik Siebert, who had declined
+      to press charges. Siebert was promptly replaced by Lindsey Halligan, a former
+      personal attorney to Trump with no prosecutorial experience. After overruling
+      career lawyers in her new office, Halligan filed a bare-bones indictment against
+      Comey that is light on specifics and, by all accounts, will be hard to prove in
+      court. The same tactics were used in the years-long, all-encompassing Russia investigation
+      that Comey and his defenders fervently pursued. Read more
+    one_sentence_summary: The indictment of former FBI Director James Comey for alleged
+      false statements to Congress is seen by some as a politically motivated act of
+      revenge by Donald Trump, yet it also reflects the controversial standards of the
+      2016 Trump-Russia investigation that Comey oversaw, highlighting the complexities
+      of the situation beyond mere retribution.
+    paragraph_summary: The indictment of former FBI Director James Comey for allegedly
+      making false statements to Congress has been criticized as a politically motivated
+      act of revenge by Donald Trump, yet it also reflects the controversial standards
+      of the 2016 Trump-Russia investigation that Comey led. While Trump's actions appear
+      to exploit the justice system against a political adversary, the prosecution of
+      Comey in 2025 is seen by some as justified given the context of the earlier probe.
+      Trump's influence is evident as he pressured Attorney General Pam Bondi to pursue
+      charges against Comey and replaced the interim US attorney who refused to do so
+      with Lindsey Halligan, a Trump ally lacking prosecutorial experience. Halligan
+      subsequently filed a vague indictment against Comey, which is expected to be difficult
+      to substantiate in court, echoing the tactics used during the extensive Russia
+      investigation.
+    published: '2025-09-28T15:36:08+00:00'
+  - title: By Russiagate standards, the Comey case is a slam-dunk
+    url: https://www.aaronmate.net/p/by-russiagate-standards-the-comey
+    text: (Photo by Alex Wong/Getty Images) The indictment of former FBI Director James
+      Comey over alleged false statements to Congress has been widely dismissed as yet
+      another radical overreach of Donald Trump’s executive power. But to view the first
+      ever indictment of an FBI chief solely through the lens of Trump retribution only
+      tells half the story. By the derelict standards of the 2016 Trump-Russia collusion
+      probe that Comey presided over and promoted long after leaving his position, his
+      2025 prosecution is perfectly legitimate. There is no debate, in my view, that
+      Trump is exploiting the justice system for revenge against a political foe. Trump
+      took to social media to urge Attorney General Pam Bondi to charge Comey and other
+      political enemies. To secure the case, the White House forced out the interim
+      US attorney for the Eastern District of Virginia, Erik Siebert, who had declined
+      to press charges. Siebert was promptly replaced by Lindsey Halligan, a former
+      personal attorney to Trump with no prosecutorial experience. After overruling
+      career lawyers in her new office, Halligan filed a bare-bones indictment against
+      Comey that is light on specifics and, by all accounts, will be hard to prove in
+      court. The same tactics were used in the years-long, all-encompassing Russia investigation
+      that Comey and his defenders fervently pursued. Read more
+    one_sentence_summary: The indictment of former FBI Director James Comey for alleged
+      false statements to Congress is seen by some as a politically motivated act of
+      revenge by Donald Trump, yet it also reflects the controversial standards of the
+      2016 Trump-Russia investigation that Comey oversaw, highlighting the complexities
+      of the situation beyond mere retribution.
+    paragraph_summary: The indictment of former FBI Director James Comey for allegedly
+      making false statements to Congress has been criticized as a politically motivated
+      act of revenge by Donald Trump, yet it also reflects the controversial standards
+      of the 2016 Trump-Russia investigation that Comey led. While Trump's actions appear
+      to exploit the justice system against a political adversary, the prosecution of
+      Comey in 2025 is seen by some as justified given the context of the earlier probe.
+      Trump's influence is evident as he pressured Attorney General Pam Bondi to pursue
+      charges against Comey and replaced the interim US attorney who refused to do so
+      with Lindsey Halligan, a Trump ally lacking prosecutorial experience. Halligan
+      subsequently filed a vague indictment against Comey, which is expected to be difficult
+      to substantiate in court, echoing the tactics used during the extensive Russia
+      investigation.
+    published: '2025-09-28T15:36:08+00:00'
+  - title: With nuclear pact in peril, Trump embraces prolonged war in Ukraine
+    url: https://www.aaronmate.net/p/with-nuclear-pact-in-peril-trump
+    text: (Photo by Ukranian Presidency / Handout/Anadolu via Getty Images) After famously
+      telling Ukrainian counterpart Volodymyr Zelensky that “you don’t have the cards”
+      to defeat Moscow and that territorial concessions are inevitable, President Trump
+      is now singing a different tune. “I think Ukraine, with the support of the European
+      Union, is in a position to fight and WIN all of Ukraine back in its original form,”
+      Trump wrote on Tuesday. “...We will continue to supply weapons to NATO for NATO
+      to do what they want with them.” The US president also cast doubt on Russia’s
+      military capabilities nearly four years into the invasion. Ukraine “can fight
+      too,” Trump said, “and they’ve proven that maybe it could be that Russia is a
+      paper tiger.” Zelensky, who has waged a dogged campaign to repair relations with
+      Trump since their White House dust-up in February , welcomed his chief sponsor’s
+      seeming about-face. Trump, the Ukrainian leader said after the two met in New
+      York, “clearly understands the situation and is well-informed about all aspects
+      of this war.” Yet as all parties to the Ukraine proxy war have learned by now,
+      Trump’s rhetoric tells us very little about how he plans to handle it. Read more
+    one_sentence_summary: President Trump has shifted his stance on Ukraine, now expressing
+      confidence in its ability to reclaim territory from Russia with EU support, while
+      also questioning Russia's military strength, a change welcomed by Ukrainian President
+      Zelensky.
+    paragraph_summary: Former President Donald Trump has shifted his stance on the Ukraine-Russia
+      conflict, now expressing confidence that Ukraine, with European Union support,
+      can reclaim its territory from Russia. In a recent statement, Trump emphasized
+      Ukraine's military capabilities and suggested that Russia may not be as formidable
+      as previously thought. This change in tone comes after a period of strained relations
+      with Ukrainian President Volodymyr Zelensky, who has been working to mend ties
+      with Trump. Despite this apparent endorsement of Ukraine's potential for victory,
+      analysts remain cautious, noting that Trump's rhetoric often lacks clarity regarding
+      his actual policy intentions.
+    published: '2025-09-24T22:59:10+00:00'
+  - title: With nuclear pact in peril, Trump embraces prolonged war in Ukraine
+    url: https://www.aaronmate.net/p/with-nuclear-pact-in-peril-trump
+    text: (Photo by Ukranian Presidency / Handout/Anadolu via Getty Images) After famously
+      telling Ukrainian counterpart Volodymyr Zelensky that “you don’t have the cards”
+      to defeat Moscow and that territorial concessions are inevitable, President Trump
+      is now singing a different tune. “I think Ukraine, with the support of the European
+      Union, is in a position to fight and WIN all of Ukraine back in its original form,”
+      Trump wrote on Tuesday. “...We will continue to supply weapons to NATO for NATO
+      to do what they want with them.” The US president also cast doubt on Russia’s
+      military capabilities nearly four years into the invasion. Ukraine “can fight
+      too,” Trump said, “and they’ve proven that maybe it could be that Russia is a
+      paper tiger.” Zelensky, who has waged a dogged campaign to repair relations with
+      Trump since their White House dust-up in February , welcomed his chief sponsor’s
+      seeming about-face. Trump, the Ukrainian leader said after the two met in New
+      York, “clearly understands the situation and is well-informed about all aspects
+      of this war.” Yet as all parties to the Ukraine proxy war have learned by now,
+      Trump’s rhetoric tells us very little about how he plans to handle it. Read more
+    one_sentence_summary: President Trump has shifted his stance on Ukraine, now expressing
+      confidence in its ability to reclaim territory from Russia with EU support, while
+      also questioning Russia's military strength, a change welcomed by Ukrainian President
+      Zelensky.
+    paragraph_summary: Former President Donald Trump has shifted his stance on the Ukraine-Russia
+      conflict, now expressing confidence that Ukraine, with European Union support,
+      can reclaim its territory from Russia. In a recent statement, Trump emphasized
+      Ukraine's military capabilities and suggested that Russia may not be as formidable
+      as previously thought. This change in tone comes after a period of strained relations
+      with Ukrainian President Volodymyr Zelensky, who has been working to mend ties
+      with Trump. Despite this apparent endorsement of Ukraine's potential for victory,
+      analysts remain cautious, noting that Trump's rhetoric often lacks clarity regarding
+      his actual policy intentions.
+    published: '2025-09-24T22:59:10+00:00'
   - title: US hosts Syria's ruling fmr. Al Qaeda leader amid sectarian violence at home
     url: https://www.aaronmate.net/p/us-hosts-syrias-ruling-fmr-al-qaeda
     text: '(Photo by BING GUAN/POOL/AFP via Getty Images) The new President of Syria,

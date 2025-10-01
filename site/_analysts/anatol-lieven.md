@@ -8,16 +8,207 @@ websites:
   - https://responsiblestatecraft.org/author/alieven/
   - https://quincyinst.org/author/anatol-lieven/
 summary: |
-  The European security landscape remains unsettled as Western governments grapple with internal crises and shifting U.S. policy under President Trump. Recent developments underscore the growing disconnect between European ambitions and their actual capacities, as well as the persistent challenges in negotiating a durable peace in Ukraine.
+  As the conflict in Ukraine grinds on and Europe’s political landscape remains unsettled, the latest developments highlight both the persistence of old challenges and the emergence of new complexities. The focus has shifted in recent days to Georgia’s evolving relationship with the European Union, the ongoing instability in Western Europe, and the persistent ambiguities in Western security strategies.
   
-  Most notably, the unveiling of Britain’s new National Security Strategy has attracted sharp criticism. **Anatol Lieven** describes the document as “a disorganized collection of conflicting goals and unrealistic assumptions,” heavily shaped by U.S. priorities but lacking a coherent alignment between the UK’s military ambitions and its available resources. This, Lieven argues, ultimately undermines British national security and reflects a broader European trend of promising increased military support for Ukraine without the financial or political stability to deliver.
+  Georgia’s EU Aspirations Amidst Regional Tensions  
+  The most recent analysis by **Anatol Lieven** underscores Georgia’s determination to pursue EU membership, not as a means of weakening its national identity, but to reinforce it in the face of regional uncertainty. President Kavelashvili’s government is navigating a delicate balance between internal political pressures, Western expectations, and the shadow of Russia’s invasion of Ukraine. While the EU views accession as a tool for reform and integration, Georgia’s leadership frames it as a safeguard for sovereignty and resilience. According to **Lieven**, “Georgia’s historical resilience and sense of identity” are central to its approach, but internal divisions and the risk of Russian interference remain significant obstacles. There is a high chance that Georgia’s EU bid will become a flashpoint in regional geopolitics, especially if the Ukraine war drags on.
   
-  Meanwhile, the situation in France continues to deteriorate. The government’s plans for a military “reassurance force” for Ukraine are overshadowed by domestic political turmoil and economic stagnation. According to **Anatol Lieven**, France’s high public debt, unpopular leadership, and rising radical parties are symptomatic of a wider Western European instability that threatens to erode transatlantic unity and the continent’s ability to sustain its commitments to Ukraine.
+  European Security and Political Crisis  
+  Meanwhile, Western Europe continues to grapple with political and economic instability, particularly in France and the UK. **Lieven** criticizes Britain’s new National Security Strategy as “a disorganized collection of conflicting goals and unrealistic assumptions,” heavily influenced by U.S. priorities and detached from Britain’s actual capabilities. In France, the government’s efforts to project military strength are undermined by internal political crises and economic stagnation. The broader trend, as **Lieven** notes, is one of “rising radical parties and unpopular leadership,” with public discontent threatening the cohesion and effectiveness of European security initiatives. There is high confidence that these internal fractures will limit Europe’s ability to respond robustly to external threats in the near term.
   
-  On the diplomatic front, President Trump’s recent engagement with European and Ukrainian leaders has produced only a tentative agreement on security guarantees for Ukraine. As **Anatol Lieven** notes, the lack of clarity on the specifics of military support and the unresolved issue of NATO’s involvement continue to impede progress toward a comprehensive peace settlement. Both Ukraine and Russia remain entrenched in their positions, making a breakthrough unlikely without significant U.S. intervention and a willingness to address Russia’s security concerns.
+  Ukraine War: Stalemate and Uncertain Peace Prospects  
+  On the Ukraine front, there have been no major breakthroughs in peace negotiations or battlefield developments. The tentative security guarantees discussed in recent U.S.-European talks remain vague, and both Kyiv and Moscow show little appetite for meaningful compromise. The majority view among analysts, as reflected in **Lieven’s** recent work, is that “without significant U.S. intervention and a comprehensive peace plan, a resolution to the conflict is unlikely.” The risk of escalation—whether through accidental incidents, such as Russian drone incursions into NATO airspace, or through mismanaged sanctions enforcement—remains ever-present.
   
-  Looking ahead, the prevailing trend is one of increasing European fragility and a growing reliance on U.S. leadership to mediate the Ukraine conflict. Given the current trajectory, I guarantee that without a fundamental realignment of European priorities and a more realistic approach to peace negotiations, the prospects for a stable settlement in Ukraine remain remote. The risk of further political fragmentation in Europe is high, and the likelihood of a meaningful peace deal in the near term is, at best, quite low.
+  **Trends and Predictions:**  
+  - The EU’s eastward ambitions will continue to collide with Russian interests, with Georgia’s accession process likely to become a new arena of contestation (high chance).
+  - Western Europe’s political and economic instability will persist, constraining its ability to act decisively on security matters (I guarantee).
+  - The Ukraine conflict is set to remain in a protracted stalemate absent a major diplomatic breakthrough, with the risk of escalation not fully contained (high chance).
+  
+  In sum, the geopolitical environment remains volatile, with entrenched divisions and fragile alliances shaping the outlook for the months ahead.
 articles:
+  - title: '''We aim to join the EU to strengthen Georgia, not to weaken it'''
+    url: https://responsiblestatecraft.org/georgia-kavelashvili/
+    text: 'The European Union expects Georgia to change radically to accommodate the
+      EU. The Georgian government expects the EU to change radically to accommodate
+      Georgia.
+
+
+      The latter may seem an absurd proposition given the relative size of the two sides
+      (and it will certainly be regarded as such by the EU Commission) but as the Georgian
+      President, Mikheil Kavelashvili reminded me in New York last week, Christian Georgia
+      has been around for a lot longer than the EU — almost 1,700 years longer — and
+      confidently expects to be around for a long time after it.
+
+
+      In the years after the Georgian Dream government was elected in 2012, relations
+      with the EU were excellent. The previous United National Movement government of
+      President Mikheil Saakashvili (now in jail for alleged misappropriation of state
+      money), though it had carried out radical economic reforms (backed by copious
+      Western aid), had become increasingly brutal and authoritarian, and had been criticized
+      for this by human rights organizations.
+
+
+      Moreover, though they rarely talk about this in public, Western officials had
+      come to see Saakashvili himself as a reckless and dangerous figure whose actions
+      had brought on the Georgian-Russian war of August 2008, in which Georgia suffered
+      a catastrophic defeat.
+
+
+      Georgian Dream carried out further economic and democratic reforms, and as President
+      Kavelashvili was anxious to stress, as a result Georgia drew far ahead of Moldova
+      and Ukraine in moving towards meeting the EU’s criteria for accession. However,
+      hawkish elements in both Georgia and the West were always suspicious of Georgian
+      Dream’s founder, Bidzina Ivanishvili, a billionaire who — like a number of leading
+      Georgian businessmen — made a fortune in Russia in the chaotic years of the 1990s
+      before moving to France in 2002 and becoming a French citizen. Mr. Ivanishvili’s
+      wealth in 2024 was estimated at between $2.7 billion and $7.8 billion — the latter
+      figure being almost a quarter of Georgia’s GDP. In the view of an opposition activist:
+
+
+      "Georgia currently is ruled by an oligarch who has a very Russian agenda…He owns
+      everything, all the institutions and all the governmental forces and resources.
+      He sees this country as his private property, and he is ruling this country as
+      if it were his own business."
+
+
+      Mr. Ivanishvili has always been accused by his enemies of being an agent of Moscow,
+      though no concrete evidence for this has ever been presented. What is unquestionable,
+      however, is that Mr. Ivanishvili’s immense wealth, political patronage, extensive
+      philanthropic activities and personal prestige mean that although he was only
+      prime minister from 2012-2013, he remains the Honorary Chairman and dominant figure
+      in Georgian Dream.
+
+
+      In President Kavelashvili’s words, “He was responsible for restoring sanity to
+      Georgian politics and refocusing Georgian policy on our real national interests…The
+      number of people like him in Georgian history can be counted on the fingers of
+      one hand. He is an example to the nation.”
+
+
+      Mr. Ivanishvili’s mixture of immense power with personal reticence and inaccessibility
+      — very unlike the Georgian norm — were among the reasons for the growth of opposition
+      to Georgian Dream in the Georgian political classes. What first drew the EU and
+      NATO into this internal Georgian political battle was the role of Western-funded
+      NGOs, which passionately support EU and NATO accession, but became increasingly
+      linked to the opposition.
+
+
+      Georgia’s relative poverty, and deliberate decisions by previous governments to
+      outsource state functions to them, have given these NGOs an unusually large role
+      in Georgian society and as employers of the Georgian educated classes. Given that
+      their agreements contracts with the EU and USAID generally stipulate a non-partisan
+      role, the government had some reason to think it inappropriate that the EU should
+      continue to fund what had in effect in many cases become openly political groups
+      opposing the government.
+
+
+      However, the government’s moves to regulate the foreign funding of these NGOs
+      caused a storm of protest in Georgia that spread to their backers in Western Europe
+      and the United States, where it was portrayed as the first step in a move to suppress
+      them.
+
+
+      What brought matters to a head between Georgia and the EU was the Russian invasion
+      of Ukraine in 2022. The Georgian government condemned the invasion, sent humanitarian
+      aid to Ukraine and imposed certain sanctions on Russia. However, it tried to block
+      Georgian volunteers going to Ukraine to fight and rejected Western pressure to
+      send military aid and to impose the full range of EU sanctions, leading to fresh
+      accusations of being “pro-Russian.”
+
+
+      On this, President Kavelashvili pushed back very strongly. He accused the West
+      of trying to provoke a new war with Russia that would be catastrophic for Georgia.
+      “The West demanded that we get involved in war with Russia against our vital national
+      interests…just like in 2008, when the then government’s unreasonable actions on
+      the basis of trust in NATO led Georgia to disaster,” he said in our interview,
+      adding, “but today, Georgia has a government that represents the interests of
+      our people…the same media outlets that accuse us of being under Russian influence
+      tell the same lie about President Trump.”
+
+
+      President Kavelashvili accused the U.S. “deep state” and organizations like USAID,
+      the National Endowment for Democracy, and the European Parliament of mobilizing
+      the Georgian opposition to this end; “but despite all this pressure, we stood
+      and continue to stand as guardians of Georgian national interest and of Georgian
+      economic growth” — the latter comment a veiled reference to the very important
+      economic links between Georgia and Russia. Western sanctions against Russia have
+      brought about a steep increase in Georgian exports to Russia and the transit trade
+      from Turkey and Europe to Russia, contributing to maintaining high GDP growth
+      over the past three years.
+
+
+      As a result of this clash, and what Western governments allege are the increasingly
+      repressive policies of the Georgian government, several Georgian government figures
+      (including Mr. Ivanishvili) are under Western sanctions, Georgia has paused its
+      application to join the EU, and the so-called “ Megobari ” Act (in Georgian, Megobari
+      means “friend”), introduced by Rep. Joe Wilson (R-S.C.) to the U.S. Congress with
+      bipartisan support, would if passed by the Senate impose sweeping U.S. sanctions
+      on the Georgian government as a whole.
+
+
+      The Megobari Act, resolutions of the European Parliament and countless articles
+      in the Western media allege that the Georgian parliamentary elections of October
+      2024 were rigged by the government with the help of a massive Russian “hybrid
+      operation,” although at the time the OSCE observer mission report described them
+      as generally free and without Russian interference, though with government misuse
+      of the media and the civil service to generate support. The elections were followed
+      by large and sometimes violent opposition protests that were met with police violence,
+      and some elements in Europe and Washington support the claim of the former president,
+      Salome Zourabichvili (previously a French diplomat), to remain Georgia’s legitimate
+      president.
+
+
+      Mr. Kavelashvili, however, was defiant. “We are a unique people, and have had
+      to fight for centuries to preserve our language, culture, values and identity,”
+      he told me. “Our overriding aim is to strengthen and preserve this culture…We
+      have an open-hearted approach to the EU and NATO but our relationship must be
+      based on mutual respect. Instead, from them we receive only double standards,
+      hypocrisy and hostility…We aim to join the EU in order to strengthen Georgia,
+      not to weaken it.”
+
+
+      In his emphasis on national identity, national interests and traditional national
+      culture, President Kavelashvili sounded very much like many U.S. Republicans and
+      the growing right-wing populist movements in Europe (and of course the governments
+      of Hungary and Slovakia), which are pushing back against what they see as dictation
+      by Brussels and attempts at compulsory cultural change by liberal elites. As with
+      Georgian Dream, all of these movements are using the language of the defense of
+      cultural values to generate mass support.
+
+
+      This could make President Kavelashvili’s aim to change the EU a good deal less
+      outlandish than it may seem. A future Rassemblement National government in France
+      would probably push for a much looser EU, much closer to the ideas of Georgian
+      Dream — and President de Gaulle — than those of the present European Commission
+      and western European establishments. For in his words, “The European Union is
+      not a museum. Attitudes within the EU are changing, and will go on changing.”
+      Then again, an EU dominated by such forces might also be much less likely to engage
+      in further enlargement. As for most of its history, Georgia would be thrown back
+      on its own resources and its ability to navigate between the contending powers
+      in its turbulent neighborhood.'
+    one_sentence_summary: The article discusses the contrasting expectations between
+      Georgia and the European Union regarding their relationship, highlighting Georgia's
+      historical resilience and national identity under President Kavelashvili, while
+      also addressing the complexities of internal politics, Western influence, and
+      the implications of the Russian invasion of Ukraine on Georgia's EU accession
+      aspirations.
+    paragraph_summary: The article discusses the complex relationship between Georgia
+      and the European Union, highlighting the contrasting expectations each side has
+      for the other. While the EU anticipates significant reforms from Georgia to align
+      with its standards, the Georgian government, led by President Mikheil Kavelashvili,
+      believes the EU should adapt to accommodate Georgia's historical and cultural
+      context. The article outlines Georgia's political evolution since the election
+      of the Georgian Dream government in 2012, which has made strides in economic and
+      democratic reforms but faces criticism for its ties to oligarch Bidzina Ivanishvili,
+      perceived as having a pro-Russian agenda. Tensions escalated following the Russian
+      invasion of Ukraine, with Georgia's reluctance to fully align with Western military
+      and economic sanctions leading to accusations of being pro-Russian. The situation
+      has resulted in a pause in Georgia's EU accession application and increased scrutiny
+      from Western governments, culminating in proposed sanctions against Georgian officials.
+      Kavelashvili's administration emphasizes national interests and cultural identity,
+      reflecting broader populist sentiments in Europe, suggesting that Georgia's push
+      for EU integration may challenge existing norms within the union.
+    published: '2025-09-30T04:05:03+00:00'
   - title: Britain's half-baked national security strategy
     url: https://responsiblestatecraft.org/keir-starmer-foreign-policy/
     text: 'The new British “ National Security Strategy ” is not really a strategy at

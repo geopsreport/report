@@ -7,17 +7,2062 @@ description: "Richard Falk is an international law and international relations s
 websites:
   - https://richardfalk.org/
 summary: |
-  The ongoing crisis in Gaza and the West Bank remains the central concern in Middle Eastern geopolitics, with mounting calls for international intervention as the humanitarian situation deteriorates. Over the past weeks, the Israeli government's policies under Prime Minister Netanyahu have drawn increasing scrutiny, particularly regarding the use of force in Gaza and the West Bank, and the broader implications for regional stability.
+  The ongoing crisis in Gaza and the broader Israeli-Palestinian conflict continues to dominate regional and international discourse, with recent developments underscoring both the intractability of the situation and the shifting contours of global engagement.
   
-  **Richard Falk** emphasizes the urgent necessity for the US and EU to reconsider their support for Israel, advocating for sanctions as a means to pressure a change in policy and alleviate the humanitarian crisis. He notes, "the international community, particularly the US and EU, must withdraw support for Israel and impose sanctions in response to its oppressive policies." This sentiment reflects a growing consensus among independent analysts that external pressure is the most viable avenue for altering the current trajectory.
+  Most notably, the recent wave of diplomatic recognition for Palestinian statehood has injected new urgency into debates over self-determination. However, as **Richard Falk** emphasizes, these recognitions have yet to translate into meaningful change on the ground, largely due to entrenched Israeli settlement expansion and the persistent lack of political will from both Israel and the United States. The failures of the Oslo Accords remain a central reference point, illustrating the gap between international rhetoric and the realities faced by Palestinians.
   
-  Meanwhile, the information landscape has become a battleground in itself. **Richard Falk** highlights the "weaponization of information" and the targeting of journalists, particularly in Gaza, as part of a broader strategy by the US and Israel to suppress dissent and control the narrative. This manipulation complicates efforts to mobilize international opinion and action, as accurate reporting from conflict zones becomes increasingly perilous.
+  Meanwhile, the aftermath of Israel’s missile strike on a Hamas negotiating team in Doha continues to reverberate. The attack, which **Falk** describes as a violation of Qatari sovereignty and a blow to ongoing ceasefire negotiations, has heightened concerns about regional stability and the erosion of international legal norms. The incident has also complicated efforts to broker a hostage exchange and has been widely condemned as undermining diplomatic channels that could lead to de-escalation.
   
-  On the diplomatic front, there is increasing skepticism about the feasibility of Netanyahu's plan to install non-PA Arab governance in Gaza following a military occupation. Internal divisions within Israel's Cabinet and resistance from extremist factions cast doubt on the plan's viability and potential for long-term stability.
+  On the information front, the publication of Francesca Albanese’s "A Moon Will Rise from the Darkness" has brought renewed attention to the role of international complicity in the Gaza crisis. The book, praised by **Falk** for its "unflinching clarity and moral integrity," frames the situation as a genocide and calls for greater accountability from global actors, particularly Western governments.
   
-  **Trends and Predictions:**  
-  Given the entrenched positions of the US and UK in supporting Israel, and the lack of decisive action from the EU, it is quite likely that the humanitarian crisis in Gaza and the West Bank will persist in the near term. However, with global protests and criticism intensifying, there is a high chance that pressure for sanctions and accountability will grow, especially if independent reporting continues to expose the realities on the ground. The legitimacy of Israel's actions is increasingly questioned in Western media, but without a shift in US and EU policy, significant change remains unlikely in the immediate future. I guarantee that the information war will remain a critical front, shaping both international perceptions and policy responses.
+  Looking ahead, the consensus among analysts is that, absent a dramatic shift in U.S. and EU policy—such as the imposition of sanctions or the withdrawal of diplomatic support for Israel—there is little prospect for substantive progress toward Palestinian self-determination. As **Falk** notes, "the lack of genuine political will" remains the primary obstacle. There is a high chance that the humanitarian crisis in Gaza will persist, and, unless international pressure intensifies, Israeli policies are likely to remain unchanged. The legitimacy of Israel’s actions will continue to be contested in global forums, but without coordinated action from major powers, the status quo is most definitely set to endure.
 articles:
+  - title: Palestinian Statehood and the Winding Road to Palestinian Self-Determination
+    url: https://richardfalk.org/2025/09/29/palestinian-statehood-and-the-winding-road-to-palestinian-self-determination/
+    text: '[ Prefatory Comments] This post consists of my responses to a Brazilian journalist
+      who posed some questions about the recent diplomatic surge of recognitions of
+      Palestinian statehood, as provisionally represented by a PLO coalition of political
+      actors, chaired Mahmoud Abbas, and in the 1990s given the supposedly temporary,
+      ambiguous title of the Palestinian Authority with its capital in the West Bank
+      city of Ramallah. This political development resulted from the Oslo diplomacy
+      that allowed the PLO to represent the Palestinian people although within a pro-Israeli
+      partisan framework that empowered the US to serve as intermediary without requiring
+      Israel to freeze settlement activity or to comply with international humanitarian
+      law during ‘the peace process.’ The central expectation of this process was that
+      a Palestinian state would emerge from a complex series of bilateral negotiations,
+      but what occurred was an evident lack of political will on the part of Israel
+      and Washington to produce such an outcome. The whole undertaking was contradicted
+      and discredited by the continuous expansion of unlawful Israeli settlements on
+      the occupied Palestinian territories of the West Bank, East Jerusalem, and Gaza.
+      The Palestinians were advised at the time by the US to withhold their objections
+      to Israeli behavior until the final stages of statehood negotiations were reached
+      (which never happened), and the Palestinian team foolishly heeded the advice,
+      and itself lost credibility for consenting to take part in a diplomatic exercise
+      that did not even acknowledge the Palestinian right of self-determination. At
+      the outset a certain skepticism seems prudent. It suggests a cautious response
+      to this foundational question: Should this new surge of internationalist enthusiasm
+      for ‘two-statism’ be viewed as a buildup for a replay of the Oslo process or as
+      something new? Underlying conditions are different as Israel’s military operations
+      Gaza are now normalized, even in most of the previously complicit liberal democracies
+      of the West and in most influential venues of political discourse as ‘genocide.’
+      This has resulted in Israel’s delegitimation and emergent identity as a rogue
+      or pariah state that has become the target of hostile civil society initiatives
+      ranging from BDS to rising pressures to impose arms embargoes, suspension of diplomatic
+      relations, and expulsion or suspension from the UN.  It has also produced pushback
+      by the US in the form of sanctioning UN appointees by barring entry and freezing
+      assets, denying visas to PLO members, including the leadership of the Palestinian
+      Authority, and classifying Palestinian NGOs as terrorist organizations. Israel
+      has reacted defiantly to calls for Palestinian statehood and to the boycott of
+      Netanyahu’s speech at the 80 th anniversary session of the General Assembly. To
+      date, France and the US have put forward peace proposals, with some cooperation
+      and encouragement from Arab governments, that end the genocide, but reward Israel
+      by excluding Hamas from any future political role in Gaza, and dubiously presupposing
+      the adequacy of the PA to represent the struggle for Palestinian rights, including
+      the establishment of a functioning state. My responses below are based on a strong
+      conviction that until the Palestinian people are given the choice as to their
+      political representation by way of an internationally monitored free elections
+      in Gaza and the West Bank or through a reliable referendum allowing for the selection
+      or ranking of political representation options, no peace process should be accorded
+      legitimacy by the UN or civil society assessments. How can the recognition of
+      the State of Palestine by Australia, Canada, the United Kingdom, France, Portugal,
+      Belgium, and others help in a plan to officialize the creation of the State of
+      Palestine? The push toward Palestinian recognition will probably has now extended
+      to at least 157 of the 193 members of the UN, representing a large majority of
+      the world’s peoples. The only major opponents being Israel and the United States,
+      along with s Hungary, Paraguay, and Argentina, autocratic middle powers. The longer-term
+      undertaking of the states bestowing statehood recognition is a two-state solution
+      of the underlying conflict. This objective has been most influentially articulated
+      so far by France, and somewhat separately by the US although it has not yet openly
+      challenged Israel’s refusal to allow the emergence of a Palestinian state in any
+      form. It is based on the belief that the only way to end the conflict and achieve
+      regional stability is by promoting a solution that provides an alternative to
+      Israel’s One-State Plan (Greater Israe) but also by a Euro/Arab packaging of Palestinian
+      statehood to preclude a genuine Palestinian liberation. Israeli one-statism is
+      structured in accord with Israel’s 2018 adoption of a Basic Law institutionalizing
+      Jewish supremist dominance in Israel and the OPT according to an unacknowledged
+      adoption of a settler colonial approach to apartheid control imposed on the subjugated
+      and dehumanized native population of historic Palestine. President Trump’s assertion
+      that he would not allow Israel to annex occupied Palestinian territory may depict
+      a middle ground of permanent Israeli occupation and gradual Israelization without
+      a Palestinian state of any sort coming into existence. The French-backed solution,
+      now competing with the Trump US proposal along somewhat similar lines, is centered
+      on endorsing the establishment of a Palestinian state following the release of
+      hostages held captive in Gaza since October 7 and the gradual dismantling of Hamas
+      by an International Stabilization Force with an armed Arab administrative presence
+      in Gaza. Palestinian governance of Gaza, the West Bank, and East Jerusalem would
+      be eventually entrusted to what is generally referred to as a reconstituted Palestinian
+      Authority, originally brought into existence within the framework of Oslo Diplomacy
+      of the 1990s. Mahmoud Abbas, the longtime, quasi-collaborationist President of
+      the Palestinian Authority told the General Assembly speaking online as barred
+      entry to the US, that he favors a demilitarized Palestinian state, the demilitarization
+      and exclusion of Hamas from a governance in role , and opposed the October 7 attack,
+      while indicting Israel for ‘genocide’ in shaping its response. Abbas has not so
+      far insisted that Israel be required to implement the right of return enjoyed
+      by an estimated 8 million Palestinian refugees living in the OPT and neighboring
+      countries. A handful of states apparently oppose this approach, most unambiguously,
+      Israel, as it is inconsistent with Israel’s firm commitment to a one-state solution,
+      and refusal to accept any form of Palestinian statehood. Israeli state propaganda
+      opposes these recent Global West recognitions of Palestine by its former allies,
+      several earlier complicit in supporting the genocide diplomatically, and some
+      of these governments continuing their material support. Israel condemns these
+      diplomatic moves as somehow ‘rewarding’ Hamas and its allegedly ‘terrorist’ assault
+      of two years ago, but it hard to fathom how Hamas gains from this variation of
+      two-state advocacy that includes the punitive exclusion of Hamas from any future
+      role in the administration of Gaza. In other words, this variant of the two-state
+      approach appears to reward the perpetrator of genocide and punish the victim.
+      In fact, it may reopen the road to political and economic normalization and acceptance
+      within the Arab Middle East. The seeming majority Palestinian approach rejects
+      both Israeli one statism and the two-statism as delimited by Emanuel Macron as
+      set forth in the New York Declaration, arising from summit on Palestine co-chaired
+      by France and Saudi Arabia, as well as the 21 Point Program for conflict resolution
+      put forward by Trump in consultation with Arab countries. The most independent
+      and trustworthy Palestinian voices are calling for the selection of a new more
+      legitimate mechanism than the PA for the pursuit of national liberation objectives.
+      This would be expected to require mechanisms for a meaningful exercise of the
+      Palestinian right of self-determination by the Palestinian people including those
+      Palestinians and their descendants living in neighboring countries or the OPT
+      as refugees. Authentic Palestinian representation would likely take the form of
+      a fully unified sovereign secular state (presumably renamed and deZionized) encompassing
+      Palestinians and Jews in viable, ethnically neutral governance structures and
+      integrated with guaranteed rights of return for Palestinians living as exiles
+      or in refugee camps and of Jews living in the diaspora. Palestinian statehood
+      could take the form of a viable, fully distinct, equal, and sovereign Palestinian
+      state co-existing with a post-Zionist Israel that embodied the principles of ethnic
+      equality, implying either the revision of Zionist ideology or its complete abandonment,
+      reflecting approval by authenticated Palestinian representatives. The recognition
+      diplomacy of former supporters of Israel’s response to and characterization of
+      October 7, even though vigorously repudiated by Israel, does not bring the conflict
+      closer to a just and durable outcome. In effect, despite Israel’s apparent rejection,
+      if the Palestinian statehood proposals is ever implemented along these proposed
+      lines would not only reward Israel for genocide, and additionally have the perverse
+      effect of extending the conflict rather than ending it. If ending was the true
+      objective then Israel would be required to reject the practice, policies, and
+      ideology of Zionism as the basis of Israeli governance and to refrain from establishing
+      new settlements on occupied Palestinian territory, if not called upon to remove
+      some or all of the settlements. As of the present, Israel is strongly opposed
+      to the Franco/American approaches as has been made clear in words, and also by
+      its actions, particularly threats  of partial or complete annexation of the West
+      Bank and new provocative expansions of settlements, including a new particularly
+      controversial settlement in E1 where a proposed settlement would bisect occupied
+      the West Bank effectively ending any prospect of a viable Palestinian state. 2-
+      Israel has criticized the recognition of a Palestinian state, claiming that it
+      will strengthen Hamas. Netanyahu has said there will never be a Palestinian state.
+      How do you see this? Netanyahu signaled by the Doha attack of September 13 seeking
+      to assassinate the Hamas negotiating team that Israel’s priorities remain the
+      extermination of Hamas as a source of resistance, a discrediting of the PA as
+      capable of being ‘a partner of peace,’ and an overall, unshakable commitment to
+      Greater Israel, which implies opposition to any form of Palestine statehood, however
+      limited. As suggested it also implies total extermination of Hamas as the organized
+      center of continuing Palestinian resistance. Israel as now constituted remains
+      currently unwilling to end the genocide, and seeks political rewards as measured
+      by land and the removal of Palestinian residents to offset its political loss
+      of legitimacy. As noted, Israel is now a politically isolated pariah state that
+      is  economically subject to an increasing variety of civil society harassments.
+      The underlying conflict between the two peoples remains frozen with no horizon
+      of durable peace visible to informed eyes . With so many nations recognizing Palestinian
+      state, what will be necessary to make the transition from a symbolic reality to
+      a sovereign territorial reality with recognized borders and governmental authority?
+      As the foregoing seeks to make clear, this sequence of diplomatic recognitions
+      at this point seems to produce a diplomacy of futility, acceptable to neither
+      side, and lacking the will and capabilities at the UN and elsewhere to overcome
+      the ongoing stalemate created by Israel’s refusal to consent to coexist with a
+      viable, and fully sovereign Palestinian state, or even a willingness to accept
+      a Palestinian state with ghost characteristics. Israel seems poised to prolong
+      the agony pushing Palestinians in Gaza and the West Back to leave or die. In effect,
+      to create a third mass dispossession of the sort that in 1948 and 1967 led to
+      the mass expulsion of Palestinian residents to obtain and preserve a Jewish majority
+      population. Israel to fulfill the apparent goals of the Zionist Project must not
+      only claim and exercise territorial sovereignty over the land and ethnic dominance
+      with an apartheid matrix of control over remaining Palestinian but continuously
+      act to defuse the demographic bomb resulting from Palestinian fertility rates
+      being higher than that of their Jewish oppressors and from the persisting legally
+      based claims of Palestinian refugee communities to implement their long deferred
+      right of return. The likely outcome of increasing international pressure to end
+      the genocide and settle the conflict by a diplomatic compromise is currently taking
+      the mainstream shape of a two-state outcome has little prospect of realization,
+      given the opposition of both Israel and Palestine (if legitimately represented).
+      If a Palestinian demilitarized statelet should be accepted by a weak and dependent
+      PA leadership, that is, not of Palestinian choosing, it will at best recreate
+      a pre-October 7 set of conditions of de facto Israeli one-statism periodically
+      challenged by resistance violence. It may also lead to creative efforts by Palestinian
+      activists and countries in the Global South to gain enough international backing
+      for a justice-driven solution to produce a new conflict-resolving diplomacy. Two-state
+      advocacy would likely be discredited and soon superseded by Palestinian advocacy
+      and civil society activism that will increase over time pressures within Israel
+      to contemplate ways to restore national legitimacy and overcome the perceptions
+      and practices of being a pariah state. This would be, as was the case in racist
+      South Africa, a transactional adjustment rather that a reevaluation of priorities
+      and identity. In conclusion, the French-Arab-American led diplomatic approaches
+      should be critically analyzed on grounds of their misleading and concealed allegiances
+      with many of the underlying tenets of Israel and Zionism that amount to a continuing
+      denial of fundamental Palestinian rights. Until Palestinian representation is
+      determined by Palestinians rather than by external political actors, whether the
+      US, the UN, or others. Only when Palestinian international representation is reliably
+      established will it become credible to embark upon a truly genuine effort, with
+      integral Palestinian participation and truly neutral intermediation to devise
+      a durable and desirable solution based on a mutually acceptable governance arrangements
+      and agreed boundaries either of a binational single state or of two coexisting
+      equal sovereign states.'
+    one_sentence_summary: The article discusses the recent diplomatic recognition of
+      Palestinian statehood, highlighting the complexities and failures of the Oslo
+      Accords and the ongoing challenges posed by Israeli settlement activities and
+      the lack of genuine political will from Israel and the U.S. to facilitate the
+      establishment of a Palestinian state.
+    paragraph_summary: The article discusses the recent diplomatic recognition of Palestinian
+      statehood, primarily represented by the PLO and its leader Mahmoud Abbas, in the
+      context of the historical Oslo Accords. It critiques the original peace process,
+      which allowed the PLO to represent Palestinians while operating within a pro-Israeli
+      framework that favored U.S. mediation without requiring Israel to halt settlement
+      expansion or adhere to international law. The expectation was that a Palestinian
+      state would emerge from negotiations, but this was undermined by Israel's lack
+      of political will and ongoing settlement activities. The U.S. advised Palestinians
+      to refrain from opposing Israeli actions until negotiations concluded, a strategy
+      that ultimately damaged their credibility. The article raises skepticism about
+      whether the current international support for a two-state solution signals a genuine
+      shift or merely a repetition of past failures, especially given the normalization
+      of Israel's military actions in Gaza and changing underlying conditions.
+    published: '2025-09-29T10:51:31+00:00'
+  - title: Palestinian Statehood and the Winding Road to Palestinian Self-Determination
+    url: https://richardfalk.org/2025/09/29/palestinian-statehood-and-the-winding-road-to-palestinian-self-determination/
+    text: '[ Prefatory Comments] This post consists of my responses to a Brazilian journalist
+      who posed some questions about the recent diplomatic surge of recognitions of
+      Palestinian statehood, as provisionally represented by a PLO coalition of political
+      actors, chaired Mahmoud Abbas, and in the 1990s given the supposedly temporary,
+      ambiguous title of the Palestinian Authority with its capital in the West Bank
+      city of Ramallah. This political development resulted from the Oslo diplomacy
+      that allowed the PLO to represent the Palestinian people although within a pro-Israeli
+      partisan framework that empowered the US to serve as intermediary without requiring
+      Israel to freeze settlement activity or to comply with international humanitarian
+      law during ‘the peace process.’ The central expectation of this process was that
+      a Palestinian state would emerge from a complex series of bilateral negotiations,
+      but what occurred was an evident lack of political will on the part of Israel
+      and Washington to produce such an outcome. The whole undertaking was contradicted
+      and discredited by the continuous expansion of unlawful Israeli settlements on
+      the occupied Palestinian territories of the West Bank, East Jerusalem, and Gaza.
+      The Palestinians were advised at the time by the US to withhold their objections
+      to Israeli behavior until the final stages of statehood negotiations were reached
+      (which never happened), and the Palestinian team foolishly heeded the advice,
+      and itself lost credibility for consenting to take part in a diplomatic exercise
+      that did not even acknowledge the Palestinian right of self-determination. At
+      the outset a certain skepticism seems prudent. It suggests a cautious response
+      to this foundational question: Should this new surge of internationalist enthusiasm
+      for ‘two-statism’ be viewed as a buildup for a replay of the Oslo process or as
+      something new? Underlying conditions are different as Israel’s military operations
+      Gaza are now normalized, even in most of the previously complicit liberal democracies
+      of the West and in most influential venues of political discourse as ‘genocide.’
+      This has resulted in Israel’s delegitimation and emergent identity as a rogue
+      or pariah state that has become the target of hostile civil society initiatives
+      ranging from BDS to rising pressures to impose arms embargoes, suspension of diplomatic
+      relations, and expulsion or suspension from the UN.  It has also produced pushback
+      by the US in the form of sanctioning UN appointees by barring entry and freezing
+      assets, denying visas to PLO members, including the leadership of the Palestinian
+      Authority, and classifying Palestinian NGOs as terrorist organizations. Israel
+      has reacted defiantly to calls for Palestinian statehood and to the boycott of
+      Netanyahu’s speech at the 80 th anniversary session of the General Assembly. To
+      date, France and the US have put forward peace proposals, with some cooperation
+      and encouragement from Arab governments, that end the genocide, but reward Israel
+      by excluding Hamas from any future political role in Gaza, and dubiously presupposing
+      the adequacy of the PA to represent the struggle for Palestinian rights, including
+      the establishment of a functioning state. My responses below are based on a strong
+      conviction that until the Palestinian people are given the choice as to their
+      political representation by way of an internationally monitored free elections
+      in Gaza and the West Bank or through a reliable referendum allowing for the selection
+      or ranking of political representation options, no peace process should be accorded
+      legitimacy by the UN or civil society assessments. How can the recognition of
+      the State of Palestine by Australia, Canada, the United Kingdom, France, Portugal,
+      Belgium, and others help in a plan to officialize the creation of the State of
+      Palestine? The push toward Palestinian recognition will probably has now extended
+      to at least 157 of the 193 members of the UN, representing a large majority of
+      the world’s peoples. The only major opponents being Israel and the United States,
+      along with s Hungary, Paraguay, and Argentina, autocratic middle powers. The longer-term
+      undertaking of the states bestowing statehood recognition is a two-state solution
+      of the underlying conflict. This objective has been most influentially articulated
+      so far by France, and somewhat separately by the US although it has not yet openly
+      challenged Israel’s refusal to allow the emergence of a Palestinian state in any
+      form. It is based on the belief that the only way to end the conflict and achieve
+      regional stability is by promoting a solution that provides an alternative to
+      Israel’s One-State Plan (Greater Israe) but also by a Euro/Arab packaging of Palestinian
+      statehood to preclude a genuine Palestinian liberation. Israeli one-statism is
+      structured in accord with Israel’s 2018 adoption of a Basic Law institutionalizing
+      Jewish supremist dominance in Israel and the OPT according to an unacknowledged
+      adoption of a settler colonial approach to apartheid control imposed on the subjugated
+      and dehumanized native population of historic Palestine. President Trump’s assertion
+      that he would not allow Israel to annex occupied Palestinian territory may depict
+      a middle ground of permanent Israeli occupation and gradual Israelization without
+      a Palestinian state of any sort coming into existence. The French-backed solution,
+      now competing with the Trump US proposal along somewhat similar lines, is centered
+      on endorsing the establishment of a Palestinian state following the release of
+      hostages held captive in Gaza since October 7 and the gradual dismantling of Hamas
+      by an International Stabilization Force with an armed Arab administrative presence
+      in Gaza. Palestinian governance of Gaza, the West Bank, and East Jerusalem would
+      be eventually entrusted to what is generally referred to as a reconstituted Palestinian
+      Authority, originally brought into existence within the framework of Oslo Diplomacy
+      of the 1990s. Mahmoud Abbas, the longtime, quasi-collaborationist President of
+      the Palestinian Authority told the General Assembly speaking online as barred
+      entry to the US, that he favors a demilitarized Palestinian state, the demilitarization
+      and exclusion of Hamas from a governance in role , and opposed the October 7 attack,
+      while indicting Israel for ‘genocide’ in shaping its response. Abbas has not so
+      far insisted that Israel be required to implement the right of return enjoyed
+      by an estimated 8 million Palestinian refugees living in the OPT and neighboring
+      countries. A handful of states apparently oppose this approach, most unambiguously,
+      Israel, as it is inconsistent with Israel’s firm commitment to a one-state solution,
+      and refusal to accept any form of Palestinian statehood. Israeli state propaganda
+      opposes these recent Global West recognitions of Palestine by its former allies,
+      several earlier complicit in supporting the genocide diplomatically, and some
+      of these governments continuing their material support. Israel condemns these
+      diplomatic moves as somehow ‘rewarding’ Hamas and its allegedly ‘terrorist’ assault
+      of two years ago, but it hard to fathom how Hamas gains from this variation of
+      two-state advocacy that includes the punitive exclusion of Hamas from any future
+      role in the administration of Gaza. In other words, this variant of the two-state
+      approach appears to reward the perpetrator of genocide and punish the victim.
+      In fact, it may reopen the road to political and economic normalization and acceptance
+      within the Arab Middle East. The seeming majority Palestinian approach rejects
+      both Israeli one statism and the two-statism as delimited by Emanuel Macron as
+      set forth in the New York Declaration, arising from summit on Palestine co-chaired
+      by France and Saudi Arabia, as well as the 21 Point Program for conflict resolution
+      put forward by Trump in consultation with Arab countries. The most independent
+      and trustworthy Palestinian voices are calling for the selection of a new more
+      legitimate mechanism than the PA for the pursuit of national liberation objectives.
+      This would be expected to require mechanisms for a meaningful exercise of the
+      Palestinian right of self-determination by the Palestinian people including those
+      Palestinians and their descendants living in neighboring countries or the OPT
+      as refugees. Authentic Palestinian representation would likely take the form of
+      a fully unified sovereign secular state (presumably renamed and deZionized) encompassing
+      Palestinians and Jews in viable, ethnically neutral governance structures and
+      integrated with guaranteed rights of return for Palestinians living as exiles
+      or in refugee camps and of Jews living in the diaspora. Palestinian statehood
+      could take the form of a viable, fully distinct, equal, and sovereign Palestinian
+      state co-existing with a post-Zionist Israel that embodied the principles of ethnic
+      equality, implying either the revision of Zionist ideology or its complete abandonment,
+      reflecting approval by authenticated Palestinian representatives. The recognition
+      diplomacy of former supporters of Israel’s response to and characterization of
+      October 7, even though vigorously repudiated by Israel, does not bring the conflict
+      closer to a just and durable outcome. In effect, despite Israel’s apparent rejection,
+      if the Palestinian statehood proposals is ever implemented along these proposed
+      lines would not only reward Israel for genocide, and additionally have the perverse
+      effect of extending the conflict rather than ending it. If ending was the true
+      objective then Israel would be required to reject the practice, policies, and
+      ideology of Zionism as the basis of Israeli governance and to refrain from establishing
+      new settlements on occupied Palestinian territory, if not called upon to remove
+      some or all of the settlements. As of the present, Israel is strongly opposed
+      to the Franco/American approaches as has been made clear in words, and also by
+      its actions, particularly threats  of partial or complete annexation of the West
+      Bank and new provocative expansions of settlements, including a new particularly
+      controversial settlement in E1 where a proposed settlement would bisect occupied
+      the West Bank effectively ending any prospect of a viable Palestinian state. 2-
+      Israel has criticized the recognition of a Palestinian state, claiming that it
+      will strengthen Hamas. Netanyahu has said there will never be a Palestinian state.
+      How do you see this? Netanyahu signaled by the Doha attack of September 13 seeking
+      to assassinate the Hamas negotiating team that Israel’s priorities remain the
+      extermination of Hamas as a source of resistance, a discrediting of the PA as
+      capable of being ‘a partner of peace,’ and an overall, unshakable commitment to
+      Greater Israel, which implies opposition to any form of Palestine statehood, however
+      limited. As suggested it also implies total extermination of Hamas as the organized
+      center of continuing Palestinian resistance. Israel as now constituted remains
+      currently unwilling to end the genocide, and seeks political rewards as measured
+      by land and the removal of Palestinian residents to offset its political loss
+      of legitimacy. As noted, Israel is now a politically isolated pariah state that
+      is  economically subject to an increasing variety of civil society harassments.
+      The underlying conflict between the two peoples remains frozen with no horizon
+      of durable peace visible to informed eyes . With so many nations recognizing Palestinian
+      state, what will be necessary to make the transition from a symbolic reality to
+      a sovereign territorial reality with recognized borders and governmental authority?
+      As the foregoing seeks to make clear, this sequence of diplomatic recognitions
+      at this point seems to produce a diplomacy of futility, acceptable to neither
+      side, and lacking the will and capabilities at the UN and elsewhere to overcome
+      the ongoing stalemate created by Israel’s refusal to consent to coexist with a
+      viable, and fully sovereign Palestinian state, or even a willingness to accept
+      a Palestinian state with ghost characteristics. Israel seems poised to prolong
+      the agony pushing Palestinians in Gaza and the West Back to leave or die. In effect,
+      to create a third mass dispossession of the sort that in 1948 and 1967 led to
+      the mass expulsion of Palestinian residents to obtain and preserve a Jewish majority
+      population. Israel to fulfill the apparent goals of the Zionist Project must not
+      only claim and exercise territorial sovereignty over the land and ethnic dominance
+      with an apartheid matrix of control over remaining Palestinian but continuously
+      act to defuse the demographic bomb resulting from Palestinian fertility rates
+      being higher than that of their Jewish oppressors and from the persisting legally
+      based claims of Palestinian refugee communities to implement their long deferred
+      right of return. The likely outcome of increasing international pressure to end
+      the genocide and settle the conflict by a diplomatic compromise is currently taking
+      the mainstream shape of a two-state outcome has little prospect of realization,
+      given the opposition of both Israel and Palestine (if legitimately represented).
+      If a Palestinian demilitarized statelet should be accepted by a weak and dependent
+      PA leadership, that is, not of Palestinian choosing, it will at best recreate
+      a pre-October 7 set of conditions of de facto Israeli one-statism periodically
+      challenged by resistance violence. It may also lead to creative efforts by Palestinian
+      activists and countries in the Global South to gain enough international backing
+      for a justice-driven solution to produce a new conflict-resolving diplomacy. Two-state
+      advocacy would likely be discredited and soon superseded by Palestinian advocacy
+      and civil society activism that will increase over time pressures within Israel
+      to contemplate ways to restore national legitimacy and overcome the perceptions
+      and practices of being a pariah state. This would be, as was the case in racist
+      South Africa, a transactional adjustment rather that a reevaluation of priorities
+      and identity. In conclusion, the French-Arab-American led diplomatic approaches
+      should be critically analyzed on grounds of their misleading and concealed allegiances
+      with many of the underlying tenets of Israel and Zionism that amount to a continuing
+      denial of fundamental Palestinian rights. Until Palestinian representation is
+      determined by Palestinians rather than by external political actors, whether the
+      US, the UN, or others. Only when Palestinian international representation is reliably
+      established will it become credible to embark upon a truly genuine effort, with
+      integral Palestinian participation and truly neutral intermediation to devise
+      a durable and desirable solution based on a mutually acceptable governance arrangements
+      and agreed boundaries either of a binational single state or of two coexisting
+      equal sovereign states.'
+    one_sentence_summary: The article discusses the recent diplomatic recognition of
+      Palestinian statehood, highlighting the complexities and failures of the Oslo
+      Accords and the ongoing challenges posed by Israeli settlement activities and
+      the lack of genuine political will from Israel and the U.S. to facilitate the
+      establishment of a Palestinian state.
+    paragraph_summary: The article discusses the recent diplomatic recognition of Palestinian
+      statehood, primarily represented by the PLO and its leader Mahmoud Abbas, in the
+      context of the historical Oslo Accords. It critiques the original peace process,
+      which allowed the PLO to represent Palestinians while operating within a pro-Israeli
+      framework that favored U.S. mediation without requiring Israel to halt settlement
+      expansion or adhere to international law. The expectation was that a Palestinian
+      state would emerge from negotiations, but this was undermined by Israel's lack
+      of political will and ongoing settlement activities. The U.S. advised Palestinians
+      to refrain from opposing Israeli actions until negotiations concluded, a strategy
+      that ultimately damaged their credibility. The article raises skepticism about
+      whether the current international support for a two-state solution signals a genuine
+      shift or merely a repetition of past failures, especially given the normalization
+      of Israel's military actions in Gaza and changing underlying conditions.
+    published: '2025-09-29T10:51:31+00:00'
+  - title: 'Francesca Albanese’s Contributions to Gaza Truthtelling: Pluto’s Publication
+      on October 7'
+    url: https://richardfalk.org/2025/09/26/francesca-albaneses-contributions-to-gaza-truthtelling-plutos-publication-on-october-7/
+    text: 'Books Authors Podcast Blog About Partners Select your location currency:United
+      Kingdom (£) Your cart is currently empty! Log in Pluto in Translation – 40% off
+      selected books Search A Moon Will Rise from the Darkness Reports on Israel’s Genocide
+      in Palestine By Francesca Albanese Edited by Mandy Turner and Lex Takkenberg Preface
+      by Mandy Turner and Lex Takkenberg Foreword by Richard Falk , John Dugard and
+      Michael Lynk Format Choose an optioneBookPaperbackPaperback£14.99(with free eBook)eBook£0.00
+      Pre-order A devastating indictment against international complicity in Israel’s
+      genocide in Palestine Description Author Biography Contents Additional information
+      ‘Albanese has spoken truth with unflinching clarity in a world largely silent
+      in the face of a holocaust, carrying out her mandate with integrity and defiance
+      that honours both the law and the human conscience. This book is a formidable
+      indictment of injustice and demonstrates what it means to stand alone against
+      power’ Susan Abulhawa, author of Against the Loveless World Israel’s genocide
+      in Palestine and the complicity of powerful Western states is undermining international
+      human rights and the UN system. The United States has imposed sanctions on lawyers,
+      UN experts, and Palestinian officials in an attempt to bully and intimidate them
+      into silence. One prominent example is UN special rapporteur Francesca Albanese,
+      who has played an important role in documenting Israel’s atrocities and those
+      who profit from its oppression of Palestinians. This book compiles Albanese’s
+      indispensable and damning reports on Israel’s conduct in Palestine since October
+      2023. First outlining the case that this period should be understood as a genocide,
+      Albanese goes on to explain how the ongoing violence fits into a longer history
+      of Israel’s settler colonialism, and finally presents a devastating indictment
+      against the international corporations that treat mass killing and destruction
+      as a business opportunity. The volume also features a reflection by Albanese on
+      the current state of affairs; revelations by her predecessors Richard Falk, John
+      Dugard, and Michael Lynk of their experiences as UN special rapporteurs; and a
+      preface by Lex Takkenberg, a 30-year veteran of UNRWA, co-authored with scholar
+      Mandy Turner. ————— The ebook is free to download from the Pluto Press website
+      indefinitely, with request for a donation to the Palestinian refugee agency, UNRWA
+      . All royalties from sales of the book will be donated to UNRWA. ————— The book’s
+      title is a variation on a line from a poem by the Palestinian national poet Mahmoud
+      Darwish. It is a metaphor for hope and strength even in the darkest of times.
+      The cover features a painting ‘Children of Gaza Dreaming of Peace’ from Malak
+      Mattar, a Palestinian artist from Gaza Address: Pluto Press, New Wing, Somerset
+      House, Strand, London, WC2R 1LA T: +44 (0) 208 348 2724 E: pluto@plutobooks.com
+      Company nr: 4770976 / VAT nr: GB 830307563'
+    one_sentence_summary: '"A Moon Will Rise from the Darkness" by Francesca Albanese,
+      edited by Mandy Turner and Lex Takkenberg, is a powerful critique of international
+      complicity in Israel''s actions in Palestine, described as a genocide, and is
+      praised for its unflinching clarity and moral integrity.'
+    paragraph_summary: '"A Moon Will Rise from the Darkness" by Francesca Albanese,
+      edited by Mandy Turner and Lex Takkenberg, is a critical examination of Israel''s
+      actions in Palestine, framed as a genocide, and highlights the complicity of Western
+      powers in undermining international human rights. The book compiles Albanese''s
+      reports documenting atrocities committed since October 2023, illustrating how
+      these events are part of a broader history of settler colonialism. It also critiques
+      the role of international corporations that exploit the violence for profit. The
+      work is characterized as a powerful indictment of injustice and a call for accountability
+      in the face of overwhelming silence from the global community.'
+    published: '2025-09-26T12:00:00+00:00'
+  - title: 'Francesca Albanese’s Contributions to Gaza Truthtelling: Pluto’s Publication
+      on October 7'
+    url: https://richardfalk.org/2025/09/26/francesca-albaneses-contributions-to-gaza-truthtelling-plutos-publication-on-october-7/
+    text: 'Books Authors Podcast Blog About Partners Select your location currency:United
+      Kingdom (£) Your cart is currently empty! Log in Pluto in Translation – 40% off
+      selected books Search A Moon Will Rise from the Darkness Reports on Israel’s Genocide
+      in Palestine By Francesca Albanese Edited by Mandy Turner and Lex Takkenberg Preface
+      by Mandy Turner and Lex Takkenberg Foreword by Richard Falk , John Dugard and
+      Michael Lynk Format Choose an optioneBookPaperbackPaperback£14.99(with free eBook)eBook£0.00
+      Pre-order A devastating indictment against international complicity in Israel’s
+      genocide in Palestine Description Author Biography Contents Additional information
+      ‘Albanese has spoken truth with unflinching clarity in a world largely silent
+      in the face of a holocaust, carrying out her mandate with integrity and defiance
+      that honours both the law and the human conscience. This book is a formidable
+      indictment of injustice and demonstrates what it means to stand alone against
+      power’ Susan Abulhawa, author of Against the Loveless World Israel’s genocide
+      in Palestine and the complicity of powerful Western states is undermining international
+      human rights and the UN system. The United States has imposed sanctions on lawyers,
+      UN experts, and Palestinian officials in an attempt to bully and intimidate them
+      into silence. One prominent example is UN special rapporteur Francesca Albanese,
+      who has played an important role in documenting Israel’s atrocities and those
+      who profit from its oppression of Palestinians. This book compiles Albanese’s
+      indispensable and damning reports on Israel’s conduct in Palestine since October
+      2023. First outlining the case that this period should be understood as a genocide,
+      Albanese goes on to explain how the ongoing violence fits into a longer history
+      of Israel’s settler colonialism, and finally presents a devastating indictment
+      against the international corporations that treat mass killing and destruction
+      as a business opportunity. The volume also features a reflection by Albanese on
+      the current state of affairs; revelations by her predecessors Richard Falk, John
+      Dugard, and Michael Lynk of their experiences as UN special rapporteurs; and a
+      preface by Lex Takkenberg, a 30-year veteran of UNRWA, co-authored with scholar
+      Mandy Turner. ————— The ebook is free to download from the Pluto Press website
+      indefinitely, with request for a donation to the Palestinian refugee agency, UNRWA
+      . All royalties from sales of the book will be donated to UNRWA. ————— The book’s
+      title is a variation on a line from a poem by the Palestinian national poet Mahmoud
+      Darwish. It is a metaphor for hope and strength even in the darkest of times.
+      The cover features a painting ‘Children of Gaza Dreaming of Peace’ from Malak
+      Mattar, a Palestinian artist from Gaza Address: Pluto Press, New Wing, Somerset
+      House, Strand, London, WC2R 1LA T: +44 (0) 208 348 2724 E: pluto@plutobooks.com
+      Company nr: 4770976 / VAT nr: GB 830307563'
+    one_sentence_summary: '"A Moon Will Rise from the Darkness" by Francesca Albanese,
+      edited by Mandy Turner and Lex Takkenberg, is a powerful critique of international
+      complicity in Israel''s actions in Palestine, described as a genocide, and is
+      praised for its unflinching clarity and moral integrity.'
+    paragraph_summary: '"A Moon Will Rise from the Darkness" by Francesca Albanese,
+      edited by Mandy Turner and Lex Takkenberg, is a critical examination of Israel''s
+      actions in Palestine, framed as a genocide, and highlights the complicity of Western
+      powers in undermining international human rights. The book compiles Albanese''s
+      reports documenting atrocities committed since October 2023, illustrating how
+      these events are part of a broader history of settler colonialism. It also critiques
+      the role of international corporations that exploit the violence for profit. The
+      work is characterized as a powerful indictment of injustice and a call for accountability
+      in the face of overwhelming silence from the global community.'
+    published: '2025-09-26T12:00:00+00:00'
+  - title: Assessing Israel’s Doha Attack on Hamas Negotiating High-Level Te
+    url: https://richardfalk.org/2025/09/26/assessing-israels-doha-attack-on-hamas-negotiating-high-level-team/
+    text: '[ Prefatory Note : Interview by Daniel Falcone on Sept 8 Israeli attack on
+      Hamas negotiating team residence in Doha ending diplomatic effort, at least temporarily,
+      to reach agreement on a US proposed/ allegedly Israel approved ceasefire/hostage
+      exchange arrangements. A disturbing development from many points of view, including
+      the role of secure diplomatic settings for conflict resolution war-averting efforts.]
+      September 23, 2025 Israel’s Qatar Strike Undermines Sovereignty and International
+      Law Richard Falk – Daniel Falcone Facebook Twitter Reddit Bluesky Email In the
+      aftermath of this Israel-Qatar attack that seemed at first to threaten the Western
+      interests in the Middle East, is a strange combination of verbal denunciation
+      of Israeli violation of Qatari sovereignty with a political status quo in play.
+      Israel’s brazen September 8 missile strike on Doha in targeting senior Hamas negotiators
+      has sent reactions all throughout the region, threatening to disrupt US brokered
+      ceasefire talks. Further, it brought questions about Israel’s strategy and intent
+      as well as their government’s disregard for global norms. Coming amid delicate
+      diplomacy and on the soil of a key U.S. ally, the attack challenges assumptions
+      about core-peripheral power, and underlines the ever-changing politics of the
+      Middle East. In the Q/A that follows, Daniel Falcone interviews Richard Falk for
+      insight into the consequences of this act and what it reveals about Israel’s objectives.
+      Daniel Falcone: Can you explain the incredible action of Israel in bombing Qatar
+      ? Why should we be surprised? Why shouldn’t we? Richard Falk: At this stage an
+      explanation seems premature, although not for media pundits. At best, we can venture
+      speculations, but the complexities of the situation should encourage humility
+      of interpretation. It would be naïve to give much weight to the words of top officials
+      that issue from either Tel Aviv or Washington. Of course, the media stress so
+      far is in three salient facets of the undertaking: (1) Israel’s display of audacity
+      in launching a missile against high value human targets in the capital of Qatar
+      , location of the largest US military base in the region and the site of negotiations
+      between Israel and Hamas. (2) the unrelenting demonization of Hamas as a terrorist
+      entity that deserves neither the protection of law and morality nor reactions
+      of human sympathy for the loss of dedicated lives; and … (3) the tightrope act
+      of Donald Trump who combines his public disapproval of Israel for carrying out
+      this military operation supposedly without a prior notification to the White House
+      while reiterating his solidarity with Israel so far as destroying Hamas. Obviously,
+      Trump sheds no tears for the victims of the attack, nor is he incensed by Israel’s
+      disregard of international law and morality at a time when it seemed an American
+      ceasefire diplomacy proposal was on the brink of success. What Trump knew and
+      said privately Netanyahu is high on the list of uncertainties. From Israel’s perspective
+      such a gathering of top Hamas leaders in Doha can be simply regarded as a target
+      too tempting to forego, especially given their information about the location
+      of their place of residence. If these top Hamas leaders had been assassinated,
+      rather than apparently managing to avoid the missile strike , it would have allowed
+      the Netanyahu government to claim a victory in relation to their post-October
+      7 commitment to exterminate Hamas for the attack, and diminished outrage at attacking
+      an adversary negotiating team. From a second perspective, the timing as well as
+      the location of the attack is rather mystifying. These Hamas leaders were functioning
+      as a negotiating team meeting in one place to prepare a unified response to the
+      US proposal, unreliably reported as already accepted by Israel, to establish both
+      a ceasefire and the return of the surviving ‘ hostages ’ in a prisoner exchange.
+      Why would Israel undermine such a proposal by this sort of disruptive behavior
+      when it had just days previously agreed to the negotiated solution, risking not
+      only negative reactions throughout the region and beyond, but also, and more significantly,
+      raising doubts about US unconditional support. Although a US shift away from its
+      long-term posture on Israel/Palestine remains a remote possibility, which cannot
+      be totally ruled out given Trump’s style of egocentric and erratic leadership
+      that is certainly capable of taking personal offense at Netanyahu’s subversion
+      of Trump’s diplomatic initiative. Such a conjecture presupposes that Trump is
+      being uncharacteristically truthful when finding himself betrayed by Israel, a
+      country thought too dependent on the US to pull off such a diplomatic tactic.
+      The alternative is that Trump is so beholden to Netanyahu that he conspired with
+      him to project the image of diplomacy when the real plan was a counter-terrorist
+      ploy to lure the Hamas leaders to Doha as a group, thinking they were going to
+      put the finishing touches on a breakthrough agreement that will end the Gaza ordeal.
+      Yet from another perspective, apparently not yet discussed, but likely influential,
+      is either Netanyahu or cabinet hardliners such as Ben-Gvir, Smotrich, and Katz,
+      opposed a ceasefire at this time before the Gaza City ground operation was completed
+      or missing the opportunity to decapitate the surviving Hamas leadership, and made
+      their political weight felt with Netanyahu as had happened previously. These Zionist
+      extremists have seemed determined to seize the moment since October 7 to fulfill
+      Israel endgame ambitions relating to land and people. Recalling the early Zionist
+      pre-Nazi whimsical airbrushing of the residents of Palestine by falsely contending
+      that it was replacing ‘ a people without land for a land without people ,’ while
+      just an ironic quip, can be retroactively interpreted as a start down a long path
+      of Palestinian dehumanization and erasure in the 1920s if not before. What now
+      defines the Zionist Project is to acquire for Israel as much land of Ottoman Palestine
+      as possible with as few Palestinians living on it as feasible. Those Palestinians
+      with the resolve to remain face the ensured prospect of suffering as a victimized,
+      super-resilient minority in an Israeli apartheid state. As with the timing of
+      Iran’s ‘ 12 Day Iran War ,’ June 13-24, 2025, as partly reflecting Israel’s successful
+      effort to deflect attention from its increasingly condemned Gaza policies, the
+      Doha timing may have partly been motivated by the hope of deflecting attention
+      once again. These lines of interpretation are highly conjectural, difficult to
+      either confirm or dismiss. This complexity is aggravated by the tendency of the
+      main parties to the conflict to use public discourse as a propaganda tool rather
+      than as truthful disclosures of national policies. Against this background and
+      timing of the Doha attack it is plausible, if controversial, to argue that it
+      should be regarded as another example of Israel strategy of deflection, shifting
+      the focus away from Israel’s plan to demolish Gaza City or to divert the attention
+      from the fate of the hostages or to show the world and prove to itself that Israel
+      is able and willing to act without waiting for a green light from Washington.
+      Along these lines, some analysts now fear a second attack on Iran in coming weeks
+      as Israel once more finds itself in a position where facing a rising tide of criticism
+      and hostile pushback that it might once again possibly act to deflect attention
+      from what now appears a provocative failure of the Qatar mission because the Hamas
+      leadership somehow survived the missile attack. Whether Iran would act again so
+      moderately in response seems doubtful, raising threats of a deadly regional war
+      with strong escalation dangers and serious policy challenges to US foreign policy,
+      whether as shaped by the White House or deep state. Daniel Falcone: What is the
+      end game for Israel ? It looks like in the short-term negotiators are worth more
+      dead than alive. Are there other motivations other than power? Richard Falk: I
+      think your question, with due account given to uncertainties and shifting priorities,
+      points to the reality that Israel seems primarily concerned with establishing
+      a one-state solution in all or most of Ottoman Palestine , administered in quasi-colonial
+      fashion by the UK in the aftermath of World War I. As I have earlier observed,
+      attaining this goal must be preceded by a Palestinian political surrender or better
+      yet, the physical erasure of any significant Palestinian presence. Israel could
+      partially reach such a goal diplomatically or even by the imposition of an extreme
+      form of apartheid making life so unbearable for the Palestinians that many would
+      soon leave if a refugee sanctuary was found, if for no other reason than to assure
+      family survival, especially for children. The post-October 7 genocide, as underscored
+      by accelerated settlement expansion in the West Bank , should end any beliefs
+      that Israel is at all interested in a diplomatic compromise taking the form of
+      a two-state solution, even if the designated Palestinian negotiators (the Palestinian
+      Authority) seem willing to settle for a ghost state, which more resolute Palestinians
+      insist would be no better than a renewal of ‘ breadcrumb diplomacy .’ On further
+      consideration it may turn out that the fragile Netanyahu coalition was unwilling
+      to go along with the current ceasefire diplomacy because it viewed it as a trap
+      that would block a full realization of the Zionist Project. Considering such priorities,
+      Israel needed to go to the blood-soaked end of its Gaza policy if it was to achieve
+      its primary goals relating to the victorious end of the settler colonial undertaking.
+      Netanyahu either shared this line of thinking in whole or part or accepted it
+      as to avoid the collapse of his fragile coalition that might still lead to his
+      facing long delayed charges of fraud and disgrace within Israel. Of secondary
+      importance was to extend the orbit of lawlessness by coercively removing present
+      or near future threats within the Middle East to Israel’s security and hegemonic
+      partnership with the US. This line of analysis best explains Israel’s recent multiple
+      regional aggressions against Iran, Syria, and Lebanon. These military operations
+      have been conducted with the alleged purpose of ensuring that unstable regional
+      actors do not in the future become adversaries, which leads to the preemptive
+      destruction of existing military capabilities with implied threats of future military
+      operations should conditions change. Israel, despite possessing the only arsenal
+      of nuclear weapons in the region, remains insecure, at least if security is assessed
+      in defensive terms. More accurately perceived, Israel’s awesome deterrent capability
+      in its regional neighborhood is conceived of offensively as well as preemptively
+      as to avoid the rise of any regional power that might have a political disposition
+      to challenge Israel’s hegemony or partnership with the US in managing the geopolitics
+      of the Middle East. Whether an extra-regional challenge focused on economic penetration
+      and energy politics is posed by China acting alone or with Russia, or in concert
+      with a coalition of the willing in the Global South is still an over-the-horizon
+      nightmare for the West. Israel’s plans are most likely to be upset, if at all,
+      from within as the status of pariah state sinks into the political consciousness
+      of nations, the region , and the world prompting pressures from without and a
+      pragmatic recalculation by elites within. This kind of dynamic led to profound
+      shifts in the recalculation of the interests (although not the values) of South
+      African apartheid elites in the 1990s producing an enduring embedding of constitutional
+      democracy that were not even hinted at until given tangible expression until unexpectedly
+      acted upon by the Afrikaner leadership. Netanyahu’s unexpected remarks implicitly
+      acknowledging Israel’s pariah or rogue status are an indication that international
+      disapproval is now having major negative impacts. Recently Netanyahu confessed
+      that “[ We] will have to get used to an economy with autarchic features. ” As
+      well as declaring “[We’ll] have to be both Athens and Sparta, developing the capabilities
+      to cope on our own.” Even a month ago such statements acknowledging Israel political
+      and economic isolation could hardly be imagined as being uttered by such a combative
+      and self-congratulating political leader as Netanyahu. Daniel Falcone: Often Israel
+      and the US are discussed as core regions whereas places like Qatar or even Sudan
+      are considered peripheral. Does this event put this misconception on display in
+      your estimation? Nothing looks peripheral when it comes to Israel. Richard Falk:
+      It is a tantalizing challenge to divide the states of the world up into those
+      that are core and those that are on the periphery. Each historical era gave rise
+      to its own distinctive patterns. World War II produced one pattern, the Cold War
+      another, decolonization another and now the world is on the cusp of another rearrangement
+      of core/periphery relations. The distinction between global geopolitical actors
+      (currently US, China , Russia) and other states is another way of mapping the
+      new world order emerging in tandem with the Ukraine War and the Gaza Genocide.
+      In a narrow sense, both Israel and Qatar were playing core roles in recent decades.
+      Israel as a regional hegemon with questionable credentials as a sovereign state,
+      although gaining legitimacy through its technological acumen and its skills as
+      arms supplier and battlefield innovator. Whether it will retain its core regional
+      geopolitical role despite perpetrating a transparent genocide viewed in real time
+      is a major uncertainty, likely greatly affected by whether anti-pariah state pressures
+      are exerted in a sustained and effective manner to ensure cooperative relations
+      with the Arab states, Organization of Islamic Cooperation, and the Arab League
+      . Although I suspect many would disagree, I believe Qatar’s core is rather stable,
+      especially if it is assumed that the September 9 Doha attack was a one-off incident.
+      To a surprising extent Qatar has become like Switzerland for diplomacy among adversaries,
+      reflective of the power-shift from Europe following the collapse of French and
+      British colonialism . This de-westernizing phenomenon has not received the commentary
+      it deserves. This world order realignment of neutral diplomatic sites exhibits
+      more responsiveness to historical circumstances than has the UN with obvious disappointing
+      consequences for multilateral approaches to global problem-solving. Daniel Falcone:
+      Mouin Rabbani recently discussed the USS Liberty and the Israeli attack on America.
+      Considering this alleged mishap, could we ever witness Israel attacking its allies
+      in your view? Richard Falk: The Israeli attack on the USS Liberty during the Six
+      Day War on June 8, 1967, killing 34 naval crew members, injuring an additional
+      171, severely damaging the ship. Objective scholarly treatments have long concluded
+      beyond a reasonable doubt that the Liberty incident was not ‘a mishap’ but rather
+      a deliberate attempt by Israel to prevent US surveillance of its military operations
+      that conflicted with its public assertions. [For a persuasive account see Joan
+      Mellen, Blood in the Water: How the US and Israel Ambush to USS Liberty (Prometheus,
+      2018)]. It is notable that the US Government chose to accept the Israeli apology
+      and went along with a coverup narrative, despite the damning evidence that it
+      was a deliberate and lethal attack on an American warship. This dynamic has been
+      persuasively analyzed in Mellon’s book and to this day the US coverup is deplored
+      by Liberty survivors. It is a revealing taint on the willingness of the US Government
+      to throw the wellbeing, even the lives, of members of its own armed forces under
+      the bus of diplomatic expediency. Where Israel’s strategic interests are involved,
+      however extreme, lawless, and inhumane, there is little doubt that the present
+      and many of its past leaders would not hesitate to repeat the USS Liberty disaster/tragedy
+      if the strategic stakes were high enough. More than almost any state, Israel’s
+      allies, including the US, are not beyond suspicion, attitudes acutely inflated
+      by security paranoia that falsely views latent antisemitism as a universal phenomenon.
+      I entertain the wish, however slim, that Israel is capable of internally transforming
+      its identity in ways that confer future legitimacy and achieve a stable normalcy.
+      For this transformative scenario to have any reasonable chance of reshaping the
+      future presupposes mounting international pressure. Even so, if Israel were to
+      shed its Zionist ideology of Jewish exceptionalism, such developments would be
+      a spectacular instance of the politics of impossibility. Its enactment would help
+      ensure peace and justice, but it has no chance of happening unless the world finally
+      musters the will to impose strong economic sanctions on Israel, as reinforced
+      by civil society activism that mobilizes support for cultural and sporting boycotts,
+      demands an armed protective force under UN auspices, and urges suspension of Israel’s
+      participation in the UN . The politics of impossibility walks a tightrope between
+      wishful thinking and such unlikely transformative events as the South African
+      abandonment of apartheid, the Soviet collapse, and China’s remarkable developmental
+      ascendancy coupled with unprecedented rates of poverty reduction. Negative events
+      are also possible as with the signs of an American abandonment of democracy and
+      embrace of fascistic styles of governance . Daniel Falcone: Has the visit to Israel
+      and Qatar by the American Secretary of State, Marco Rubio , altered your understanding
+      of the US engagement with recent developments, especially the attack on the Hamas
+      leadership in Doha? Richard Falk: The Rubio visit did underscore some vital points
+      in addition to reassuring Israel of US continuing support and Qatar, as well as
+      the Gulf countries, of unwavering security commitments. Rubio tried hard to show
+      that the US was still backing Israel all the way while also promising to be a
+      trusted protector of Arab governments should they face their own security threats.
+      His underlying expression of this dual relationship seemed to rest on the demonization
+      of Hamas, calling this center of Palestinian resistance “ agents of barbarism
+      ” and insisting that “[ As] long as they’re around there will be no peace in this
+      region. ” As Ariel Hayon insisted in an article, “Dangerous Prophecy,” when the
+      microphones are off, every European and Arab leader knows that Hamas’s clones
+      pose a threat to them just as much as this terror organization poses a threat
+      to us. [ Published online , September 16, 2025, S. Daniel Abraham, Center of Middle
+      East , News Update.] Hayon, like Rubio, is trying to overcome the divisiveness
+      of the Arab/Islamic Emergency Summit in Doha following the attack by stressing
+      the common supreme interests of both Israel and the Islamic world (or at least
+      of the governing regimes) in counterterrorism, otherwise viewed as popular resistance
+      . In the aftermath of this Israel-Qatar attack that seemed at first to threaten
+      the Western interests in the Middle East, is a strange combination of verbal denunciation
+      of Israeli violation of Qatari sovereignty with a political status quo in play.
+      On the outside, but not to be discounted, are a series of civil society campaigns
+      and solidarity initiatives that are reacting to the cruelties and injustices of
+      the ongoing genocide. The release at this time of the report of the UN Commission
+      of Inquiry that confirms by evidence and analysis allegations of Israeli genocide
+      in Gaza is another facet of the overall situation. This interplay will be tested
+      by the way states participate in the forthcoming General Assembly session devoted
+      to celebrating the 80 th anniversary of the UN . Top of Form Bottom of Form'
+    one_sentence_summary: Israel's missile strike on a Hamas negotiating team in Doha
+      has not only violated Qatari sovereignty but also jeopardized ongoing diplomatic
+      efforts for a ceasefire and hostage exchange, raising concerns about the implications
+      for international law and regional stability.
+    paragraph_summary: On September 8, 2025, Israel conducted a missile strike in Doha,
+      Qatar, targeting senior Hamas negotiators, which has raised significant concerns
+      about the violation of Qatari sovereignty and international law. This aggressive
+      action disrupted ongoing US-brokered ceasefire negotiations and highlighted Israel's
+      apparent disregard for global diplomatic norms, particularly in a region where
+      delicate political dynamics are at play. In an interview with Daniel Falcone,
+      Richard Falk discusses the implications of this strike, suggesting that while
+      the motivations behind Israel's actions remain complex and speculative, the incident
+      underscores the shifting power dynamics in the Middle East and the challenges
+      facing conflict resolution efforts. The attack not only threatens Western interests
+      but also complicates the already fragile political landscape, prompting calls
+      for a more nuanced understanding of the situation.
+    published: '2025-09-26T11:47:25+00:00'
+  - title: Assessing Israel’s Doha Attack on Hamas Negotiating High-Level Te
+    url: https://richardfalk.org/2025/09/26/assessing-israels-doha-attack-on-hamas-negotiating-high-level-team/
+    text: '[ Prefatory Note : Interview by Daniel Falcone on Sept 8 Israeli attack on
+      Hamas negotiating team residence in Doha ending diplomatic effort, at least temporarily,
+      to reach agreement on a US proposed/ allegedly Israel approved ceasefire/hostage
+      exchange arrangements. A disturbing development from many points of view, including
+      the role of secure diplomatic settings for conflict resolution war-averting efforts.]
+      September 23, 2025 Israel’s Qatar Strike Undermines Sovereignty and International
+      Law Richard Falk – Daniel Falcone Facebook Twitter Reddit Bluesky Email In the
+      aftermath of this Israel-Qatar attack that seemed at first to threaten the Western
+      interests in the Middle East, is a strange combination of verbal denunciation
+      of Israeli violation of Qatari sovereignty with a political status quo in play.
+      Israel’s brazen September 8 missile strike on Doha in targeting senior Hamas negotiators
+      has sent reactions all throughout the region, threatening to disrupt US brokered
+      ceasefire talks. Further, it brought questions about Israel’s strategy and intent
+      as well as their government’s disregard for global norms. Coming amid delicate
+      diplomacy and on the soil of a key U.S. ally, the attack challenges assumptions
+      about core-peripheral power, and underlines the ever-changing politics of the
+      Middle East. In the Q/A that follows, Daniel Falcone interviews Richard Falk for
+      insight into the consequences of this act and what it reveals about Israel’s objectives.
+      Daniel Falcone: Can you explain the incredible action of Israel in bombing Qatar
+      ? Why should we be surprised? Why shouldn’t we? Richard Falk: At this stage an
+      explanation seems premature, although not for media pundits. At best, we can venture
+      speculations, but the complexities of the situation should encourage humility
+      of interpretation. It would be naïve to give much weight to the words of top officials
+      that issue from either Tel Aviv or Washington. Of course, the media stress so
+      far is in three salient facets of the undertaking: (1) Israel’s display of audacity
+      in launching a missile against high value human targets in the capital of Qatar
+      , location of the largest US military base in the region and the site of negotiations
+      between Israel and Hamas. (2) the unrelenting demonization of Hamas as a terrorist
+      entity that deserves neither the protection of law and morality nor reactions
+      of human sympathy for the loss of dedicated lives; and … (3) the tightrope act
+      of Donald Trump who combines his public disapproval of Israel for carrying out
+      this military operation supposedly without a prior notification to the White House
+      while reiterating his solidarity with Israel so far as destroying Hamas. Obviously,
+      Trump sheds no tears for the victims of the attack, nor is he incensed by Israel’s
+      disregard of international law and morality at a time when it seemed an American
+      ceasefire diplomacy proposal was on the brink of success. What Trump knew and
+      said privately Netanyahu is high on the list of uncertainties. From Israel’s perspective
+      such a gathering of top Hamas leaders in Doha can be simply regarded as a target
+      too tempting to forego, especially given their information about the location
+      of their place of residence. If these top Hamas leaders had been assassinated,
+      rather than apparently managing to avoid the missile strike , it would have allowed
+      the Netanyahu government to claim a victory in relation to their post-October
+      7 commitment to exterminate Hamas for the attack, and diminished outrage at attacking
+      an adversary negotiating team. From a second perspective, the timing as well as
+      the location of the attack is rather mystifying. These Hamas leaders were functioning
+      as a negotiating team meeting in one place to prepare a unified response to the
+      US proposal, unreliably reported as already accepted by Israel, to establish both
+      a ceasefire and the return of the surviving ‘ hostages ’ in a prisoner exchange.
+      Why would Israel undermine such a proposal by this sort of disruptive behavior
+      when it had just days previously agreed to the negotiated solution, risking not
+      only negative reactions throughout the region and beyond, but also, and more significantly,
+      raising doubts about US unconditional support. Although a US shift away from its
+      long-term posture on Israel/Palestine remains a remote possibility, which cannot
+      be totally ruled out given Trump’s style of egocentric and erratic leadership
+      that is certainly capable of taking personal offense at Netanyahu’s subversion
+      of Trump’s diplomatic initiative. Such a conjecture presupposes that Trump is
+      being uncharacteristically truthful when finding himself betrayed by Israel, a
+      country thought too dependent on the US to pull off such a diplomatic tactic.
+      The alternative is that Trump is so beholden to Netanyahu that he conspired with
+      him to project the image of diplomacy when the real plan was a counter-terrorist
+      ploy to lure the Hamas leaders to Doha as a group, thinking they were going to
+      put the finishing touches on a breakthrough agreement that will end the Gaza ordeal.
+      Yet from another perspective, apparently not yet discussed, but likely influential,
+      is either Netanyahu or cabinet hardliners such as Ben-Gvir, Smotrich, and Katz,
+      opposed a ceasefire at this time before the Gaza City ground operation was completed
+      or missing the opportunity to decapitate the surviving Hamas leadership, and made
+      their political weight felt with Netanyahu as had happened previously. These Zionist
+      extremists have seemed determined to seize the moment since October 7 to fulfill
+      Israel endgame ambitions relating to land and people. Recalling the early Zionist
+      pre-Nazi whimsical airbrushing of the residents of Palestine by falsely contending
+      that it was replacing ‘ a people without land for a land without people ,’ while
+      just an ironic quip, can be retroactively interpreted as a start down a long path
+      of Palestinian dehumanization and erasure in the 1920s if not before. What now
+      defines the Zionist Project is to acquire for Israel as much land of Ottoman Palestine
+      as possible with as few Palestinians living on it as feasible. Those Palestinians
+      with the resolve to remain face the ensured prospect of suffering as a victimized,
+      super-resilient minority in an Israeli apartheid state. As with the timing of
+      Iran’s ‘ 12 Day Iran War ,’ June 13-24, 2025, as partly reflecting Israel’s successful
+      effort to deflect attention from its increasingly condemned Gaza policies, the
+      Doha timing may have partly been motivated by the hope of deflecting attention
+      once again. These lines of interpretation are highly conjectural, difficult to
+      either confirm or dismiss. This complexity is aggravated by the tendency of the
+      main parties to the conflict to use public discourse as a propaganda tool rather
+      than as truthful disclosures of national policies. Against this background and
+      timing of the Doha attack it is plausible, if controversial, to argue that it
+      should be regarded as another example of Israel strategy of deflection, shifting
+      the focus away from Israel’s plan to demolish Gaza City or to divert the attention
+      from the fate of the hostages or to show the world and prove to itself that Israel
+      is able and willing to act without waiting for a green light from Washington.
+      Along these lines, some analysts now fear a second attack on Iran in coming weeks
+      as Israel once more finds itself in a position where facing a rising tide of criticism
+      and hostile pushback that it might once again possibly act to deflect attention
+      from what now appears a provocative failure of the Qatar mission because the Hamas
+      leadership somehow survived the missile attack. Whether Iran would act again so
+      moderately in response seems doubtful, raising threats of a deadly regional war
+      with strong escalation dangers and serious policy challenges to US foreign policy,
+      whether as shaped by the White House or deep state. Daniel Falcone: What is the
+      end game for Israel ? It looks like in the short-term negotiators are worth more
+      dead than alive. Are there other motivations other than power? Richard Falk: I
+      think your question, with due account given to uncertainties and shifting priorities,
+      points to the reality that Israel seems primarily concerned with establishing
+      a one-state solution in all or most of Ottoman Palestine , administered in quasi-colonial
+      fashion by the UK in the aftermath of World War I. As I have earlier observed,
+      attaining this goal must be preceded by a Palestinian political surrender or better
+      yet, the physical erasure of any significant Palestinian presence. Israel could
+      partially reach such a goal diplomatically or even by the imposition of an extreme
+      form of apartheid making life so unbearable for the Palestinians that many would
+      soon leave if a refugee sanctuary was found, if for no other reason than to assure
+      family survival, especially for children. The post-October 7 genocide, as underscored
+      by accelerated settlement expansion in the West Bank , should end any beliefs
+      that Israel is at all interested in a diplomatic compromise taking the form of
+      a two-state solution, even if the designated Palestinian negotiators (the Palestinian
+      Authority) seem willing to settle for a ghost state, which more resolute Palestinians
+      insist would be no better than a renewal of ‘ breadcrumb diplomacy .’ On further
+      consideration it may turn out that the fragile Netanyahu coalition was unwilling
+      to go along with the current ceasefire diplomacy because it viewed it as a trap
+      that would block a full realization of the Zionist Project. Considering such priorities,
+      Israel needed to go to the blood-soaked end of its Gaza policy if it was to achieve
+      its primary goals relating to the victorious end of the settler colonial undertaking.
+      Netanyahu either shared this line of thinking in whole or part or accepted it
+      as to avoid the collapse of his fragile coalition that might still lead to his
+      facing long delayed charges of fraud and disgrace within Israel. Of secondary
+      importance was to extend the orbit of lawlessness by coercively removing present
+      or near future threats within the Middle East to Israel’s security and hegemonic
+      partnership with the US. This line of analysis best explains Israel’s recent multiple
+      regional aggressions against Iran, Syria, and Lebanon. These military operations
+      have been conducted with the alleged purpose of ensuring that unstable regional
+      actors do not in the future become adversaries, which leads to the preemptive
+      destruction of existing military capabilities with implied threats of future military
+      operations should conditions change. Israel, despite possessing the only arsenal
+      of nuclear weapons in the region, remains insecure, at least if security is assessed
+      in defensive terms. More accurately perceived, Israel’s awesome deterrent capability
+      in its regional neighborhood is conceived of offensively as well as preemptively
+      as to avoid the rise of any regional power that might have a political disposition
+      to challenge Israel’s hegemony or partnership with the US in managing the geopolitics
+      of the Middle East. Whether an extra-regional challenge focused on economic penetration
+      and energy politics is posed by China acting alone or with Russia, or in concert
+      with a coalition of the willing in the Global South is still an over-the-horizon
+      nightmare for the West. Israel’s plans are most likely to be upset, if at all,
+      from within as the status of pariah state sinks into the political consciousness
+      of nations, the region , and the world prompting pressures from without and a
+      pragmatic recalculation by elites within. This kind of dynamic led to profound
+      shifts in the recalculation of the interests (although not the values) of South
+      African apartheid elites in the 1990s producing an enduring embedding of constitutional
+      democracy that were not even hinted at until given tangible expression until unexpectedly
+      acted upon by the Afrikaner leadership. Netanyahu’s unexpected remarks implicitly
+      acknowledging Israel’s pariah or rogue status are an indication that international
+      disapproval is now having major negative impacts. Recently Netanyahu confessed
+      that “[ We] will have to get used to an economy with autarchic features. ” As
+      well as declaring “[We’ll] have to be both Athens and Sparta, developing the capabilities
+      to cope on our own.” Even a month ago such statements acknowledging Israel political
+      and economic isolation could hardly be imagined as being uttered by such a combative
+      and self-congratulating political leader as Netanyahu. Daniel Falcone: Often Israel
+      and the US are discussed as core regions whereas places like Qatar or even Sudan
+      are considered peripheral. Does this event put this misconception on display in
+      your estimation? Nothing looks peripheral when it comes to Israel. Richard Falk:
+      It is a tantalizing challenge to divide the states of the world up into those
+      that are core and those that are on the periphery. Each historical era gave rise
+      to its own distinctive patterns. World War II produced one pattern, the Cold War
+      another, decolonization another and now the world is on the cusp of another rearrangement
+      of core/periphery relations. The distinction between global geopolitical actors
+      (currently US, China , Russia) and other states is another way of mapping the
+      new world order emerging in tandem with the Ukraine War and the Gaza Genocide.
+      In a narrow sense, both Israel and Qatar were playing core roles in recent decades.
+      Israel as a regional hegemon with questionable credentials as a sovereign state,
+      although gaining legitimacy through its technological acumen and its skills as
+      arms supplier and battlefield innovator. Whether it will retain its core regional
+      geopolitical role despite perpetrating a transparent genocide viewed in real time
+      is a major uncertainty, likely greatly affected by whether anti-pariah state pressures
+      are exerted in a sustained and effective manner to ensure cooperative relations
+      with the Arab states, Organization of Islamic Cooperation, and the Arab League
+      . Although I suspect many would disagree, I believe Qatar’s core is rather stable,
+      especially if it is assumed that the September 9 Doha attack was a one-off incident.
+      To a surprising extent Qatar has become like Switzerland for diplomacy among adversaries,
+      reflective of the power-shift from Europe following the collapse of French and
+      British colonialism . This de-westernizing phenomenon has not received the commentary
+      it deserves. This world order realignment of neutral diplomatic sites exhibits
+      more responsiveness to historical circumstances than has the UN with obvious disappointing
+      consequences for multilateral approaches to global problem-solving. Daniel Falcone:
+      Mouin Rabbani recently discussed the USS Liberty and the Israeli attack on America.
+      Considering this alleged mishap, could we ever witness Israel attacking its allies
+      in your view? Richard Falk: The Israeli attack on the USS Liberty during the Six
+      Day War on June 8, 1967, killing 34 naval crew members, injuring an additional
+      171, severely damaging the ship. Objective scholarly treatments have long concluded
+      beyond a reasonable doubt that the Liberty incident was not ‘a mishap’ but rather
+      a deliberate attempt by Israel to prevent US surveillance of its military operations
+      that conflicted with its public assertions. [For a persuasive account see Joan
+      Mellen, Blood in the Water: How the US and Israel Ambush to USS Liberty (Prometheus,
+      2018)]. It is notable that the US Government chose to accept the Israeli apology
+      and went along with a coverup narrative, despite the damning evidence that it
+      was a deliberate and lethal attack on an American warship. This dynamic has been
+      persuasively analyzed in Mellon’s book and to this day the US coverup is deplored
+      by Liberty survivors. It is a revealing taint on the willingness of the US Government
+      to throw the wellbeing, even the lives, of members of its own armed forces under
+      the bus of diplomatic expediency. Where Israel’s strategic interests are involved,
+      however extreme, lawless, and inhumane, there is little doubt that the present
+      and many of its past leaders would not hesitate to repeat the USS Liberty disaster/tragedy
+      if the strategic stakes were high enough. More than almost any state, Israel’s
+      allies, including the US, are not beyond suspicion, attitudes acutely inflated
+      by security paranoia that falsely views latent antisemitism as a universal phenomenon.
+      I entertain the wish, however slim, that Israel is capable of internally transforming
+      its identity in ways that confer future legitimacy and achieve a stable normalcy.
+      For this transformative scenario to have any reasonable chance of reshaping the
+      future presupposes mounting international pressure. Even so, if Israel were to
+      shed its Zionist ideology of Jewish exceptionalism, such developments would be
+      a spectacular instance of the politics of impossibility. Its enactment would help
+      ensure peace and justice, but it has no chance of happening unless the world finally
+      musters the will to impose strong economic sanctions on Israel, as reinforced
+      by civil society activism that mobilizes support for cultural and sporting boycotts,
+      demands an armed protective force under UN auspices, and urges suspension of Israel’s
+      participation in the UN . The politics of impossibility walks a tightrope between
+      wishful thinking and such unlikely transformative events as the South African
+      abandonment of apartheid, the Soviet collapse, and China’s remarkable developmental
+      ascendancy coupled with unprecedented rates of poverty reduction. Negative events
+      are also possible as with the signs of an American abandonment of democracy and
+      embrace of fascistic styles of governance . Daniel Falcone: Has the visit to Israel
+      and Qatar by the American Secretary of State, Marco Rubio , altered your understanding
+      of the US engagement with recent developments, especially the attack on the Hamas
+      leadership in Doha? Richard Falk: The Rubio visit did underscore some vital points
+      in addition to reassuring Israel of US continuing support and Qatar, as well as
+      the Gulf countries, of unwavering security commitments. Rubio tried hard to show
+      that the US was still backing Israel all the way while also promising to be a
+      trusted protector of Arab governments should they face their own security threats.
+      His underlying expression of this dual relationship seemed to rest on the demonization
+      of Hamas, calling this center of Palestinian resistance “ agents of barbarism
+      ” and insisting that “[ As] long as they’re around there will be no peace in this
+      region. ” As Ariel Hayon insisted in an article, “Dangerous Prophecy,” when the
+      microphones are off, every European and Arab leader knows that Hamas’s clones
+      pose a threat to them just as much as this terror organization poses a threat
+      to us. [ Published online , September 16, 2025, S. Daniel Abraham, Center of Middle
+      East , News Update.] Hayon, like Rubio, is trying to overcome the divisiveness
+      of the Arab/Islamic Emergency Summit in Doha following the attack by stressing
+      the common supreme interests of both Israel and the Islamic world (or at least
+      of the governing regimes) in counterterrorism, otherwise viewed as popular resistance
+      . In the aftermath of this Israel-Qatar attack that seemed at first to threaten
+      the Western interests in the Middle East, is a strange combination of verbal denunciation
+      of Israeli violation of Qatari sovereignty with a political status quo in play.
+      On the outside, but not to be discounted, are a series of civil society campaigns
+      and solidarity initiatives that are reacting to the cruelties and injustices of
+      the ongoing genocide. The release at this time of the report of the UN Commission
+      of Inquiry that confirms by evidence and analysis allegations of Israeli genocide
+      in Gaza is another facet of the overall situation. This interplay will be tested
+      by the way states participate in the forthcoming General Assembly session devoted
+      to celebrating the 80 th anniversary of the UN . Top of Form Bottom of Form'
+    one_sentence_summary: Israel's missile strike on a Hamas negotiating team in Doha
+      has not only violated Qatari sovereignty but also jeopardized ongoing diplomatic
+      efforts for a ceasefire and hostage exchange, raising concerns about the implications
+      for international law and regional stability.
+    paragraph_summary: On September 8, 2025, Israel conducted a missile strike in Doha,
+      Qatar, targeting senior Hamas negotiators, which has raised significant concerns
+      about the violation of Qatari sovereignty and international law. This aggressive
+      action disrupted ongoing US-brokered ceasefire negotiations and highlighted Israel's
+      apparent disregard for global diplomatic norms, particularly in a region where
+      delicate political dynamics are at play. In an interview with Daniel Falcone,
+      Richard Falk discusses the implications of this strike, suggesting that while
+      the motivations behind Israel's actions remain complex and speculative, the incident
+      underscores the shifting power dynamics in the Middle East and the challenges
+      facing conflict resolution efforts. The attack not only threatens Western interests
+      but also complicates the already fragile political landscape, prompting calls
+      for a more nuanced understanding of the situation.
+    published: '2025-09-26T11:47:25+00:00'
+  - title: 'Assessing Israel’s attack on Hamas Negotiating Team in Doha: Defying Law,
+      Morality, and Prudence'
+    url: https://richardfalk.org/2025/09/24/assessing-israels-attack-on-hamas-negotiating-team-in-doha-defying-law-morality-and-prudence/
+    text: '[ Prefatory Note : Interview by Daniel Falcone on Sept 8 Israeli attack on
+      Hamas negotiating team residence in Doha ending diplomatic effort, at least temporarily,
+      to reach agreement on a US proposed/ allegedly Israel approved ceasefire/hostage
+      exchange arrangements. A disturbing development from many points of view, including
+      the role of secure diplomatic settings for conflict resolution war-averting efforts.]
+      September 23, 2025 Israel’s Qatar Strike Undermines Sovereignty and International
+      Law Richard Falk – Daniel Falcone Facebook Twitter Reddit Bluesky Email In the
+      aftermath of this Israel-Qatar attack that seemed at first to threaten the Western
+      interests in the Middle East, is a strange combination of verbal denunciation
+      of Israeli violation of Qatari sovereignty with a political status quo in play.
+      Israel’s brazen September 8 missile strike on Doha in targeting senior Hamas negotiators
+      has sent reactions all throughout the region, threatening to disrupt US brokered
+      ceasefire talks. Further, it brought questions about Israel’s strategy and intent
+      as well as their government’s disregard for global norms. Coming amid delicate
+      diplomacy and on the soil of a key U.S. ally, the attack challenges assumptions
+      about core-peripheral power, and underlines the ever-changing politics of the
+      Middle East. In the Q/A that follows, Daniel Falcone interviews Richard Falk for
+      insight into the consequences of this act and what it reveals about Israel’s objectives.
+      Daniel Falcone: Can you explain the incredible action of Israel in bombing Qatar
+      ? Why should we be surprised? Why shouldn’t we? Richard Falk: At this stage an
+      explanation seems premature, although not for media pundits. At best, we can venture
+      speculations, but the complexities of the situation should encourage humility
+      of interpretation. It would be naïve to give much weight to the words of top officials
+      that issue from either Tel Aviv or Washington. Of course, the media stress so
+      far is in three salient facets of the undertaking: (1) Israel’s display of audacity
+      in launching a missile against high value human targets in the capital of Qatar
+      , location of the largest US military base in the region and the site of negotiations
+      between Israel and Hamas. (2) the unrelenting demonization of Hamas as a terrorist
+      entity that deserves neither the protection of law and morality nor reactions
+      of human sympathy for the loss of dedicated lives; and … (3) the tightrope act
+      of Donald Trump who combines his public disapproval of Israel for carrying out
+      this military operation supposedly without a prior notification to the White House
+      while reiterating his solidarity with Israel so far as destroying Hamas. Obviously,
+      Trump sheds no tears for the victims of the attack, nor is he incensed by Israel’s
+      disregard of international law and morality at a time when it seemed an American
+      ceasefire diplomacy proposal was on the brink of success. What Trump knew and
+      said privately Netanyahu is high on the list of uncertainties. From Israel’s perspective
+      such a gathering of top Hamas leaders in Doha can be simply regarded as a target
+      too tempting to forego, especially given their information about the location
+      of their place of residence. If these top Hamas leaders had been assassinated,
+      rather than apparently managing to avoid the missile strike , it would have allowed
+      the Netanyahu government to claim a victory in relation to their post-October
+      7 commitment to exterminate Hamas for the attack, and diminished outrage at attacking
+      an adversary negotiating team. From a second perspective, the timing as well as
+      the location of the attack is rather mystifying. These Hamas leaders were functioning
+      as a negotiating team meeting in one place to prepare a unified response to the
+      US proposal, unreliably reported as already accepted by Israel, to establish both
+      a ceasefire and the return of the surviving ‘ hostages ’ in a prisoner exchange.
+      Why would Israel undermine such a proposal by this sort of disruptive behavior
+      when it had just days previously agreed to the negotiated solution, risking not
+      only negative reactions throughout the region and beyond, but also, and more significantly,
+      raising doubts about US unconditional support. Although a US shift away from its
+      long-term posture on Israel/Palestine remains a remote possibility, which cannot
+      be totally ruled out given Trump’s style of egocentric and erratic leadership
+      that is certainly capable of taking personal offense at Netanyahu’s subversion
+      of Trump’s diplomatic initiative. Such a conjecture presupposes that Trump is
+      being uncharacteristically truthful when finding himself betrayed by Israel, a
+      country thought too dependent on the US to pull off such a diplomatic tactic.
+      The alternative is that Trump is so beholden to Netanyahu that he conspired with
+      him to project the image of diplomacy when the real plan was a counter-terrorist
+      ploy to lure the Hamas leaders to Doha as a group, thinking they were going to
+      put the finishing touches on a breakthrough agreement that will end the Gaza ordeal.
+      Yet from another perspective, apparently not yet discussed, but likely influential,
+      is either Netanyahu or cabinet hardliners such as Ben-Gvir, Smotrich, and Katz,
+      opposed a ceasefire at this time before the Gaza City ground operation was completed
+      or missing the opportunity to decapitate the surviving Hamas leadership, and made
+      their political weight felt with Netanyahu as had happened previously. These Zionist
+      extremists have seemed determined to seize the moment since October 7 to fulfill
+      Israel endgame ambitions relating to land and people. Recalling the early Zionist
+      pre-Nazi whimsical airbrushing of the residents of Palestine by falsely contending
+      that it was replacing ‘ a people without land for a land without people ,’ while
+      just an ironic quip, can be retroactively interpreted as a start down a long path
+      of Palestinian dehumanization and erasure in the 1920s if not before. What now
+      defines the Zionist Project is to acquire for Israel as much land of Ottoman Palestine
+      as possible with as few Palestinians living on it as feasible. Those Palestinians
+      with the resolve to remain face the ensured prospect of suffering as a victimized,
+      super-resilient minority in an Israeli apartheid state. As with the timing of
+      Iran’s ‘ 12 Day Iran War ,’ June 13-24, 2025, as partly reflecting Israel’s successful
+      effort to deflect attention from its increasingly condemned Gaza policies, the
+      Doha timing may have partly been motivated by the hope of deflecting attention
+      once again. These lines of interpretation are highly conjectural, difficult to
+      either confirm or dismiss. This complexity is aggravated by the tendency of the
+      main parties to the conflict to use public discourse as a propaganda tool rather
+      than as truthful disclosures of national policies. Against this background and
+      timing of the Doha attack it is plausible, if controversial, to argue that it
+      should be regarded as another example of Israel strategy of deflection, shifting
+      the focus away from Israel’s plan to demolish Gaza City or to divert the attention
+      from the fate of the hostages or to show the world and prove to itself that Israel
+      is able and willing to act without waiting for a green light from Washington.
+      Along these lines, some analysts now fear a second attack on Iran in coming weeks
+      as Israel once more finds itself in a position where facing a rising tide of criticism
+      and hostile pushback that it might once again possibly act to deflect attention
+      from what now appears a provocative failure of the Qatar mission because the Hamas
+      leadership somehow survived the missile attack. Whether Iran would act again so
+      moderately in response seems doubtful, raising threats of a deadly regional war
+      with strong escalation dangers and serious policy challenges to US foreign policy,
+      whether as shaped by the White House or deep state. Daniel Falcone: What is the
+      end game for Israel ? It looks like in the short-term negotiators are worth more
+      dead than alive. Are there other motivations other than power? Richard Falk: I
+      think your question, with due account given to uncertainties and shifting priorities,
+      points to the reality that Israel seems primarily concerned with establishing
+      a one-state solution in all or most of Ottoman Palestine , administered in quasi-colonial
+      fashion by the UK in the aftermath of World War I. As I have earlier observed,
+      attaining this goal must be preceded by a Palestinian political surrender or better
+      yet, the physical erasure of any significant Palestinian presence. Israel could
+      partially reach such a goal diplomatically or even by the imposition of an extreme
+      form of apartheid making life so unbearable for the Palestinians that many would
+      soon leave if a refugee sanctuary was found, if for no other reason than to assure
+      family survival, especially for children. The post-October 7 genocide, as underscored
+      by accelerated settlement expansion in the West Bank , should end any beliefs
+      that Israel is at all interested in a diplomatic compromise taking the form of
+      a two-state solution, even if the designated Palestinian negotiators (the Palestinian
+      Authority) seem willing to settle for a ghost state, which more resolute Palestinians
+      insist would be no better than a renewal of ‘ breadcrumb diplomacy .’ On further
+      consideration it may turn out that the fragile Netanyahu coalition was unwilling
+      to go along with the current ceasefire diplomacy because it viewed it as a trap
+      that would block a full realization of the Zionist Project. Considering such priorities,
+      Israel needed to go to the blood-soaked end of its Gaza policy if it was to achieve
+      its primary goals relating to the victorious end of the settler colonial undertaking.
+      Netanyahu either shared this line of thinking in whole or part or accepted it
+      as to avoid the collapse of his fragile coalition that might still lead to his
+      facing long delayed charges of fraud and disgrace within Israel. Of secondary
+      importance was to extend the orbit of lawlessness by coercively removing present
+      or near future threats within the Middle East to Israel’s security and hegemonic
+      partnership with the US. This line of analysis best explains Israel’s recent multiple
+      regional aggressions against Iran, Syria, and Lebanon. These military operations
+      have been conducted with the alleged purpose of ensuring that unstable regional
+      actors do not in the future become adversaries, which leads to the preemptive
+      destruction of existing military capabilities with implied threats of future military
+      operations should conditions change. Israel, despite possessing the only arsenal
+      of nuclear weapons in the region, remains insecure, at least if security is assessed
+      in defensive terms. More accurately perceived, Israel’s awesome deterrent capability
+      in its regional neighborhood is conceived of offensively as well as preemptively
+      as to avoid the rise of any regional power that might have a political disposition
+      to challenge Israel’s hegemony or partnership with the US in managing the geopolitics
+      of the Middle East. Whether an extra-regional challenge focused on economic penetration
+      and energy politics is posed by China acting alone or with Russia, or in concert
+      with a coalition of the willing in the Global South is still an over-the-horizon
+      nightmare for the West. Israel’s plans are most likely to be upset, if at all,
+      from within as the status of pariah state sinks into the political consciousness
+      of nations, the region , and the world prompting pressures from without and a
+      pragmatic recalculation by elites within. This kind of dynamic led to profound
+      shifts in the recalculation of the interests (although not the values) of South
+      African apartheid elites in the 1990s producing an enduring embedding of constitutional
+      democracy that were not even hinted at until given tangible expression until unexpectedly
+      acted upon by the Afrikaner leadership. Netanyahu’s unexpected remarks implicitly
+      acknowledging Israel’s pariah or rogue status are an indication that international
+      disapproval is now having major negative impacts. Recently Netanyahu confessed
+      that “[ We] will have to get used to an economy with autarchic features. ” As
+      well as declaring “[We’ll] have to be both Athens and Sparta, developing the capabilities
+      to cope on our own.” Even a month ago such statements acknowledging Israel political
+      and economic isolation could hardly be imagined as being uttered by such a combative
+      and self-congratulating political leader as Netanyahu. Daniel Falcone: Often Israel
+      and the US are discussed as core regions whereas places like Qatar or even Sudan
+      are considered peripheral. Does this event put this misconception on display in
+      your estimation? Nothing looks peripheral when it comes to Israel. Richard Falk:
+      It is a tantalizing challenge to divide the states of the world up into those
+      that are core and those that are on the periphery. Each historical era gave rise
+      to its own distinctive patterns. World War II produced one pattern, the Cold War
+      another, decolonization another and now the world is on the cusp of another rearrangement
+      of core/periphery relations. The distinction between global geopolitical actors
+      (currently US, China , Russia) and other states is another way of mapping the
+      new world order emerging in tandem with the Ukraine War and the Gaza Genocide.
+      In a narrow sense, both Israel and Qatar were playing core roles in recent decades.
+      Israel as a regional hegemon with questionable credentials as a sovereign state,
+      although gaining legitimacy through its technological acumen and its skills as
+      arms supplier and battlefield innovator. Whether it will retain its core regional
+      geopolitical role despite perpetrating a transparent genocide viewed in real time
+      is a major uncertainty, likely greatly affected by whether anti-pariah state pressures
+      are exerted in a sustained and effective manner to ensure cooperative relations
+      with the Arab states, Organization of Islamic Cooperation, and the Arab League
+      . Although I suspect many would disagree, I believe Qatar’s core is rather stable,
+      especially if it is assumed that the September 9 Doha attack was a one-off incident.
+      To a surprising extent Qatar has become like Switzerland for diplomacy among adversaries,
+      reflective of the power-shift from Europe following the collapse of French and
+      British colonialism . This de-westernizing phenomenon has not received the commentary
+      it deserves. This world order realignment of neutral diplomatic sites exhibits
+      more responsiveness to historical circumstances than has the UN with obvious disappointing
+      consequences for multilateral approaches to global problem-solving. Daniel Falcone:
+      Mouin Rabbani recently discussed the USS Liberty and the Israeli attack on America.
+      Considering this alleged mishap, could we ever witness Israel attacking its allies
+      in your view? Richard Falk: The Israeli attack on the USS Liberty during the Six
+      Day War on June 8, 1967, killing 34 naval crew members, injuring an additional
+      171, severely damaging the ship. Objective scholarly treatments have long concluded
+      beyond a reasonable doubt that the Liberty incident was not ‘a mishap’ but rather
+      a deliberate attempt by Israel to prevent US surveillance of its military operations
+      that conflicted with its public assertions. [For a persuasive account see Joan
+      Mellen, Blood in the Water: How the US and Israel Ambush to USS Liberty (Prometheus,
+      2018)]. It is notable that the US Government chose to accept the Israeli apology
+      and went along with a coverup narrative, despite the damning evidence that it
+      was a deliberate and lethal attack on an American warship. This dynamic has been
+      persuasively analyzed in Mellon’s book and to this day the US coverup is deplored
+      by Liberty survivors. It is a revealing taint on the willingness of the US Government
+      to throw the wellbeing, even the lives, of members of its own armed forces under
+      the bus of diplomatic expediency. Where Israel’s strategic interests are involved,
+      however extreme, lawless, and inhumane, there is little doubt that the present
+      and many of its past leaders would not hesitate to repeat the USS Liberty disaster/tragedy
+      if the strategic stakes were high enough. More than almost any state, Israel’s
+      allies, including the US, are not beyond suspicion, attitudes acutely inflated
+      by security paranoia that falsely views latent antisemitism as a universal phenomenon.
+      I entertain the wish, however slim, that Israel is capable of internally transforming
+      its identity in ways that confer future legitimacy and achieve a stable normalcy.
+      For this transformative scenario to have any reasonable chance of reshaping the
+      future presupposes mounting international pressure. Even so, if Israel were to
+      shed its Zionist ideology of Jewish exceptionalism, such developments would be
+      a spectacular instance of the politics of impossibility. Its enactment would help
+      ensure peace and justice, but it has no chance of happening unless the world finally
+      musters the will to impose strong economic sanctions on Israel, as reinforced
+      by civil society activism that mobilizes support for cultural and sporting boycotts,
+      demands an armed protective force under UN auspices, and urges suspension of Israel’s
+      participation in the UN . The politics of impossibility walks a tightrope between
+      wishful thinking and such unlikely transformative events as the South African
+      abandonment of apartheid, the Soviet collapse, and China’s remarkable developmental
+      ascendancy coupled with unprecedented rates of poverty reduction. Negative events
+      are also possible as with the signs of an American abandonment of democracy and
+      embrace of fascistic styles of governance . Daniel Falcone: Has the visit to Israel
+      and Qatar by the American Secretary of State, Marco Rubio , altered your understanding
+      of the US engagement with recent developments, especially the attack on the Hamas
+      leadership in Doha? Richard Falk: The Rubio visit did underscore some vital points
+      in addition to reassuring Israel of US continuing support and Qatar, as well as
+      the Gulf countries, of unwavering security commitments. Rubio tried hard to show
+      that the US was still backing Israel all the way while also promising to be a
+      trusted protector of Arab governments should they face their own security threats.
+      His underlying expression of this dual relationship seemed to rest on the demonization
+      of Hamas, calling this center of Palestinian resistance “ agents of barbarism
+      ” and insisting that “[ As] long as they’re around there will be no peace in this
+      region. ” As Ariel Hayon insisted in an article, “Dangerous Prophecy,” when the
+      microphones are off, every European and Arab leader knows that Hamas’s clones
+      pose a threat to them just as much as this terror organization poses a threat
+      to us. [ Published online , September 16, 2025, S. Daniel Abraham, Center of Middle
+      East , News Update.] Hayon, like Rubio, is trying to overcome the divisiveness
+      of the Arab/Islamic Emergency Summit in Doha following the attack by stressing
+      the common supreme interests of both Israel and the Islamic world (or at least
+      of the governing regimes) in counterterrorism, otherwise viewed as popular resistance
+      . In the aftermath of this Israel-Qatar attack that seemed at first to threaten
+      the Western interests in the Middle East, is a strange combination of verbal denunciation
+      of Israeli violation of Qatari sovereignty with a political status quo in play.
+      On the outside, but not to be discounted, are a series of civil society campaigns
+      and solidarity initiatives that are reacting to the cruelties and injustices of
+      the ongoing genocide. The release at this time of the report of the UN Commission
+      of Inquiry that confirms by evidence and analysis allegations of Israeli genocide
+      in Gaza is another facet of the overall situation. This interplay will be tested
+      by the way states participate in the forthcoming General Assembly session devoted
+      to celebrating the 80 th anniversary of the UN . Top of Form Bottom of Form September
+      23, 2025 Israel’s Qatar Strike Undermines Sovereignty and International Law Richard
+      Falk – Daniel Falcone Facebook Twitter Reddit Bluesky Email In the aftermath of
+      this Israel-Qatar attack that seemed at first to threaten the Western interests
+      in the Middle East, is a strange combination of verbal denunciation of Israeli
+      violation of Qatari sovereignty with a political status quo in play. Israel’s
+      brazen September 8 missile strike on Doha in targeting senior Hamas negotiators
+      has sent reactions all throughout the region, threatening to disrupt US brokered
+      ceasefire talks. Further, it brought questions about Israel’s strategy and intent
+      as well as their government’s disregard for global norms. Coming amid delicate
+      diplomacy and on the soil of a key U.S. ally, the attack challenges assumptions
+      about core-peripheral power, and underlines the ever-changing politics of the
+      Middle East. In the Q/A that follows, Daniel Falcone interviews Richard Falk for
+      insight into the consequences of this act and what it reveals about Israel’s objectives.
+      Daniel Falcone: Can you explain the incredible action of Israel in bombing Qatar
+      ? Why should we be surprised? Why shouldn’t we? Richard Falk: At this stage an
+      explanation seems premature, although not for media pundits. At best, we can venture
+      speculations, but the complexities of the situation should encourage humility
+      of interpretation. It would be naïve to give much weight to the words of top officials
+      that issue from either Tel Aviv or Washington. Of course, the media stress so
+      far is in three salient facets of the undertaking: (1) Israel’s display of audacity
+      in launching a missile against high value human targets in the capital of Qatar
+      , location of the largest US military base in the region and the site of negotiations
+      between Israel and Hamas. (2) the unrelenting demonization of Hamas as a terrorist
+      entity that deserves neither the protection of law and morality nor reactions
+      of human sympathy for the loss of dedicated lives; and … (3) the tightrope act
+      of Donald Trump who combines his public disapproval of Israel for carrying out
+      this military operation supposedly without a prior notification to the White House
+      while reiterating his solidarity with Israel so far as destroying Hamas. Obviously,
+      Trump sheds no tears for the victims of the attack, nor is he incensed by Israel’s
+      disregard of international law and morality at a time when it seemed an American
+      ceasefire diplomacy proposal was on the brink of success. What Trump knew and
+      said privately Netanyahu is high on the list of uncertainties. From Israel’s perspective
+      such a gathering of top Hamas leaders in Doha can be simply regarded as a target
+      too tempting to forego, especially given their information about the location
+      of their place of residence. If these top Hamas leaders had been assassinated,
+      rather than apparently managing to avoid the missile strike , it would have allowed
+      the Netanyahu government to claim a victory in relation to their post-October
+      7 commitment to exterminate Hamas for the attack, and diminished outrage at attacking
+      an adversary negotiating team. From a second perspective, the timing as well as
+      the location of the attack is rather mystifying. These Hamas leaders were functioning
+      as a negotiating team meeting in one place to prepare a unified response to the
+      US proposal, unreliably reported as already accepted by Israel, to establish both
+      a ceasefire and the return of the surviving ‘ hostages ’ in a prisoner exchange.
+      Why would Israel undermine such a proposal by this sort of disruptive behavior
+      when it had just days previously agreed to the negotiated solution, risking not
+      only negative reactions throughout the region and beyond, but also, and more significantly,
+      raising doubts about US unconditional support. Although a US shift away from its
+      long-term posture on Israel/Palestine remains a remote possibility, which cannot
+      be totally ruled out given Trump’s style of egocentric and erratic leadership
+      that is certainly capable of taking personal offense at Netanyahu’s subversion
+      of Trump’s diplomatic initiative. Such a conjecture presupposes that Trump is
+      being uncharacteristically truthful when finding himself betrayed by Israel, a
+      country thought too dependent on the US to pull off such a diplomatic tactic.
+      The alternative is that Trump is so beholden to Netanyahu that he conspired with
+      him to project the image of diplomacy when the real plan was a counter-terrorist
+      ploy to lure the Hamas leaders to Doha as a group, thinking they were going to
+      put the finishing touches on a breakthrough agreement that will end the Gaza ordeal.
+      Yet from another perspective, apparently not yet discussed, but likely influential,
+      is either Netanyahu or cabinet hardliners such as Ben-Gvir, Smotrich, and Katz,
+      opposed a ceasefire at this time before the Gaza City ground operation was completed
+      or missing the opportunity to decapitate the surviving Hamas leadership, and made
+      their political weight felt with Netanyahu as had happened previously. These Zionist
+      extremists have seemed determined to seize the moment since October 7 to fulfill
+      Israel endgame ambitions relating to land and people. Recalling the early Zionist
+      pre-Nazi whimsical airbrushing of the residents of Palestine by falsely contending
+      that it was replacing ‘ a people without land for a land without people ,’ while
+      just an ironic quip, can be retroactively interpreted as a start down a long path
+      of Palestinian dehumanization and erasure in the 1920s if not before. What now
+      defines the Zionist Project is to acquire for Israel as much land of Ottoman Palestine
+      as possible with as few Palestinians living on it as feasible. Those Palestinians
+      with the resolve to remain face the ensured prospect of suffering as a victimized,
+      super-resilient minority in an Israeli apartheid state. As with the timing of
+      Iran’s ‘ 12 Day Iran War ,’ June 13-24, 2025, as partly reflecting Israel’s successful
+      effort to deflect attention from its increasingly condemned Gaza policies, the
+      Doha timing may have partly been motivated by the hope of deflecting attention
+      once again. These lines of interpretation are highly conjectural, difficult to
+      either confirm or dismiss. This complexity is aggravated by the tendency of the
+      main parties to the conflict to use public discourse as a propaganda tool rather
+      than as truthful disclosures of national policies. Against this background and
+      timing of the Doha attack it is plausible, if controversial, to argue that it
+      should be regarded as another example of Israel strategy of deflection, shifting
+      the focus away from Israel’s plan to demolish Gaza City or to divert the attention
+      from the fate of the hostages or to show the world and prove to itself that Israel
+      is able and willing to act without waiting for a green light from Washington.
+      Along these lines, some analysts now fear a second attack on Iran in coming weeks
+      as Israel once more finds itself in a position where facing a rising tide of criticism
+      and hostile pushback that it might once again possibly act to deflect attention
+      from what now appears a provocative failure of the Qatar mission because the Hamas
+      leadership somehow survived the missile attack. Whether Iran would act again so
+      moderately in response seems doubtful, raising threats of a deadly regional war
+      with strong escalation dangers and serious policy challenges to US foreign policy,
+      whether as shaped by the White House or deep state. Daniel Falcone: What is the
+      end game for Israel ? It looks like in the short-term negotiators are worth more
+      dead than alive. Are there other motivations other than power? Richard Falk: I
+      think your question, with due account given to uncertainties and shifting priorities,
+      points to the reality that Israel seems primarily concerned with establishing
+      a one-state solution in all or most of Ottoman Palestine , administered in quasi-colonial
+      fashion by the UK in the aftermath of World War I. As I have earlier observed,
+      attaining this goal must be preceded by a Palestinian political surrender or better
+      yet, the physical erasure of any significant Palestinian presence. Israel could
+      partially reach such a goal diplomatically or even by the imposition of an extreme
+      form of apartheid making life so unbearable for the Palestinians that many would
+      soon leave if a refugee sanctuary was found, if for no other reason than to assure
+      family survival, especially for children. The post-October 7 genocide, as underscored
+      by accelerated settlement expansion in the West Bank , should end any beliefs
+      that Israel is at all interested in a diplomatic compromise taking the form of
+      a two-state solution, even if the designated Palestinian negotiators (the Palestinian
+      Authority) seem willing to settle for a ghost state, which more resolute Palestinians
+      insist would be no better than a renewal of ‘ breadcrumb diplomacy .’ On further
+      consideration it may turn out that the fragile Netanyahu coalition was unwilling
+      to go along with the current ceasefire diplomacy because it viewed it as a trap
+      that would block a full realization of the Zionist Project. Considering such priorities,
+      Israel needed to go to the blood-soaked end of its Gaza policy if it was to achieve
+      its primary goals relating to the victorious end of the settler colonial undertaking.
+      Netanyahu either shared this line of thinking in whole or part or accepted it
+      as to avoid the collapse of his fragile coalition that might still lead to his
+      facing long delayed charges of fraud and disgrace within Israel. Of secondary
+      importance was to extend the orbit of lawlessness by coercively removing present
+      or near future threats within the Middle East to Israel’s security and hegemonic
+      partnership with the US. This line of analysis best explains Israel’s recent multiple
+      regional aggressions against Iran, Syria, and Lebanon. These military operations
+      have been conducted with the alleged purpose of ensuring that unstable regional
+      actors do not in the future become adversaries, which leads to the preemptive
+      destruction of existing military capabilities with implied threats of future military
+      operations should conditions change. Israel, despite possessing the only arsenal
+      of nuclear weapons in the region, remains insecure, at least if security is assessed
+      in defensive terms. More accurately perceived, Israel’s awesome deterrent capability
+      in its regional neighborhood is conceived of offensively as well as preemptively
+      as to avoid the rise of any regional power that might have a political disposition
+      to challenge Israel’s hegemony or partnership with the US in managing the geopolitics
+      of the Middle East. Whether an extra-regional challenge focused on economic penetration
+      and energy politics is posed by China acting alone or with Russia, or in concert
+      with a coalition of the willing in the Global South is still an over-the-horizon
+      nightmare for the West. Israel’s plans are most likely to be upset, if at all,
+      from within as the status of pariah state sinks into the political consciousness
+      of nations, the region , and the world prompting pressures from without and a
+      pragmatic recalculation by elites within. This kind of dynamic led to profound
+      shifts in the recalculation of the interests (although not the values) of South
+      African apartheid elites in the 1990s producing an enduring embedding of constitutional
+      democracy that were not even hinted at until given tangible expression until unexpectedly
+      acted upon by the Afrikaner leadership. Netanyahu’s unexpected remarks implicitly
+      acknowledging Israel’s pariah or rogue status are an indication that international
+      disapproval is now having major negative impacts. Recently Netanyahu confessed
+      that “[ We] will have to get used to an economy with autarchic features. ” As
+      well as declaring “[We’ll] have to be both Athens and Sparta, developing the capabilities
+      to cope on our own.” Even a month ago such statements acknowledging Israel political
+      and economic isolation could hardly be imagined as being uttered by such a combative
+      and self-congratulating political leader as Netanyahu. Daniel Falcone: Often Israel
+      and the US are discussed as core regions whereas places like Qatar or even Sudan
+      are considered peripheral. Does this event put this misconception on display in
+      your estimation? Nothing looks peripheral when it comes to Israel. Richard Falk:
+      It is a tantalizing challenge to divide the states of the world up into those
+      that are core and those that are on the periphery. Each historical era gave rise
+      to its own distinctive patterns. World War II produced one pattern, the Cold War
+      another, decolonization another and now the world is on the cusp of another rearrangement
+      of core/periphery relations. The distinction between global geopolitical actors
+      (currently US, China , Russia) and other states is another way of mapping the
+      new world order emerging in tandem with the Ukraine War and the Gaza Genocide.
+      In a narrow sense, both Israel and Qatar were playing core roles in recent decades.
+      Israel as a regional hegemon with questionable credentials as a sovereign state,
+      although gaining legitimacy through its technological acumen and its skills as
+      arms supplier and battlefield innovator. Whether it will retain its core regional
+      geopolitical role despite perpetrating a transparent genocide viewed in real time
+      is a major uncertainty, likely greatly affected by whether anti-pariah state pressures
+      are exerted in a sustained and effective manner to ensure cooperative relations
+      with the Arab states, Organization of Islamic Cooperation, and the Arab League
+      . Although I suspect many would disagree, I believe Qatar’s core is rather stable,
+      especially if it is assumed that the September 9 Doha attack was a one-off incident.
+      To a surprising extent Qatar has become like Switzerland for diplomacy among adversaries,
+      reflective of the power-shift from Europe following the collapse of French and
+      British colonialism . This de-westernizing phenomenon has not received the commentary
+      it deserves. This world order realignment of neutral diplomatic sites exhibits
+      more responsiveness to historical circumstances than has the UN with obvious disappointing
+      consequences for multilateral approaches to global problem-solving. Daniel Falcone:
+      Mouin Rabbani recently discussed the USS Liberty and the Israeli attack on America.
+      Considering this alleged mishap, could we ever witness Israel attacking its allies
+      in your view? Richard Falk: The Israeli attack on the USS Liberty during the Six
+      Day War on June 8, 1967, killing 34 naval crew members, injuring an additional
+      171, severely damaging the ship. Objective scholarly treatments have long concluded
+      beyond a reasonable doubt that the Liberty incident was not ‘a mishap’ but rather
+      a deliberate attempt by Israel to prevent US surveillance of its military operations
+      that conflicted with its public assertions. [For a persuasive account see Joan
+      Mellen, Blood in the Water: How the US and Israel Ambush to USS Liberty (Prometheus,
+      2018)]. It is notable that the US Government chose to accept the Israeli apology
+      and went along with a coverup narrative, despite the damning evidence that it
+      was a deliberate and lethal attack on an American warship. This dynamic has been
+      persuasively analyzed in Mellon’s book and to this day the US coverup is deplored
+      by Liberty survivors. It is a revealing taint on the willingness of the US Government
+      to throw the wellbeing, even the lives, of members of its own armed forces under
+      the bus of diplomatic expediency. Where Israel’s strategic interests are involved,
+      however extreme, lawless, and inhumane, there is little doubt that the present
+      and many of its past leaders would not hesitate to repeat the USS Liberty disaster/tragedy
+      if the strategic stakes were high enough. More than almost any state, Israel’s
+      allies, including the US, are not beyond suspicion, attitudes acutely inflated
+      by security paranoia that falsely views latent antisemitism as a universal phenomenon.
+      I entertain the wish, however slim, that Israel is capable of internally transforming
+      its identity in ways that confer future legitimacy and achieve a stable normalcy.
+      For this transformative scenario to have any reasonable chance of reshaping the
+      future presupposes mounting international pressure. Even so, if Israel were to
+      shed its Zionist ideology of Jewish exceptionalism, such developments would be
+      a spectacular instance of the politics of impossibility. Its enactment would help
+      ensure peace and justice, but it has no chance of happening unless the world finally
+      musters the will to impose strong economic sanctions on Israel, as reinforced
+      by civil society activism that mobilizes support for cultural and sporting boycotts,
+      demands an armed protective force under UN auspices, and urges suspension of Israel’s
+      participation in the UN . The politics of impossibility walks a tightrope between
+      wishful thinking and such unlikely transformative events as the South African
+      abandonment of apartheid, the Soviet collapse, and China’s remarkable developmental
+      ascendancy coupled with unprecedented rates of poverty reduction. Negative events
+      are also possible as with the signs of an American abandonment of democracy and
+      embrace of fascistic styles of governance . Daniel Falcone: Has the visit to Israel
+      and Qatar by the American Secretary of State, Marco Rubio , altered your understanding
+      of the US engagement with recent developments, especially the attack on the Hamas
+      leadership in Doha? Richard Falk: The Rubio visit did underscore some vital points
+      in addition to reassuring Israel of US continuing support and Qatar, as well as
+      the Gulf countries, of unwavering security commitments. Rubio tried hard to show
+      that the US was still backing Israel all the way while also promising to be a
+      trusted protector of Arab governments should they face their own security threats.
+      His underlying expression of this dual relationship seemed to rest on the demonization
+      of Hamas, calling this center of Palestinian resistance “ agents of barbarism
+      ” and insisting that “[ As] long as they’re around there will be no peace in this
+      region. ” As Ariel Hayon insisted in an article, “Dangerous Prophecy,” when the
+      microphones are off, every European and Arab leader knows that Hamas’s clones
+      pose a threat to them just as much as this terror organization poses a threat
+      to us. [ Published online , September 16, 2025, S. Daniel Abraham, Center of Middle
+      East , News Update.] Hayon, like Rubio, is trying to overcome the divisiveness
+      of the Arab/Islamic Emergency Summit in Doha following the attack by stressing
+      the common supreme interests of both Israel and the Islamic world (or at least
+      of the governing regimes) in counterterrorism, otherwise viewed as popular resistance
+      . In the aftermath of this Israel-Qatar attack that seemed at first to threaten
+      the Western interests in the Middle East, is a strange combination of verbal denunciation
+      of Israeli violation of Qatari sovereignty with a political status quo in play.
+      On the outside, but not to be discounted, are a series of civil society campaigns
+      and solidarity initiatives that are reacting to the cruelties and injustices of
+      the ongoing genocide. The release at this time of the report of the UN Commission
+      of Inquiry that confirms by evidence and analysis allegations of Israeli genocide
+      in Gaza is another facet of the overall situation. This interplay will be tested
+      by the way states participate in the forthcoming General Assembly session devoted
+      to celebrating the 80 th anniversary of the UN . Top of Form Bottom of Form'
+    one_sentence_summary: Israel's missile strike on a Hamas negotiating team in Doha
+      on September 8 has undermined diplomatic efforts for a ceasefire and raised concerns
+      over violations of Qatari sovereignty and international law.
+    paragraph_summary: On September 8, 2025, Israel conducted a missile strike in Doha,
+      Qatar, targeting senior Hamas negotiators, which has raised significant concerns
+      regarding the violation of Qatari sovereignty and international law. This attack
+      has disrupted ongoing US-brokered ceasefire negotiations and highlighted Israel's
+      apparent disregard for diplomatic norms, particularly in a region where delicate
+      political dynamics are at play. In an interview with Daniel Falcone, Richard Falk
+      discusses the implications of this aggressive action, emphasizing the complexities
+      of the situation and cautioning against hasty interpretations of Israel's motives.
+      The incident not only threatens Western interests in the Middle East but also
+      challenges existing assumptions about power dynamics in the region, reflecting
+      the volatile and evolving nature of Middle Eastern politics.
+    published: '2025-09-24T08:07:38+00:00'
+  - title: 'Assessing Israel’s attack on Hamas Negotiating Team in Doha: Defying Law,
+      Morality, and Prudence'
+    url: https://richardfalk.org/2025/09/24/assessing-israels-attack-on-hamas-negotiating-team-in-doha-defying-law-morality-and-prudence/
+    text: '[ Prefatory Note : Interview by Daniel Falcone on Sept 8 Israeli attack on
+      Hamas negotiating team residence in Doha ending diplomatic effort, at least temporarily,
+      to reach agreement on a US proposed/ allegedly Israel approved ceasefire/hostage
+      exchange arrangements. A disturbing development from many points of view, including
+      the role of secure diplomatic settings for conflict resolution war-averting efforts.]
+      September 23, 2025 Israel’s Qatar Strike Undermines Sovereignty and International
+      Law Richard Falk – Daniel Falcone Facebook Twitter Reddit Bluesky Email In the
+      aftermath of this Israel-Qatar attack that seemed at first to threaten the Western
+      interests in the Middle East, is a strange combination of verbal denunciation
+      of Israeli violation of Qatari sovereignty with a political status quo in play.
+      Israel’s brazen September 8 missile strike on Doha in targeting senior Hamas negotiators
+      has sent reactions all throughout the region, threatening to disrupt US brokered
+      ceasefire talks. Further, it brought questions about Israel’s strategy and intent
+      as well as their government’s disregard for global norms. Coming amid delicate
+      diplomacy and on the soil of a key U.S. ally, the attack challenges assumptions
+      about core-peripheral power, and underlines the ever-changing politics of the
+      Middle East. In the Q/A that follows, Daniel Falcone interviews Richard Falk for
+      insight into the consequences of this act and what it reveals about Israel’s objectives.
+      Daniel Falcone: Can you explain the incredible action of Israel in bombing Qatar
+      ? Why should we be surprised? Why shouldn’t we? Richard Falk: At this stage an
+      explanation seems premature, although not for media pundits. At best, we can venture
+      speculations, but the complexities of the situation should encourage humility
+      of interpretation. It would be naïve to give much weight to the words of top officials
+      that issue from either Tel Aviv or Washington. Of course, the media stress so
+      far is in three salient facets of the undertaking: (1) Israel’s display of audacity
+      in launching a missile against high value human targets in the capital of Qatar
+      , location of the largest US military base in the region and the site of negotiations
+      between Israel and Hamas. (2) the unrelenting demonization of Hamas as a terrorist
+      entity that deserves neither the protection of law and morality nor reactions
+      of human sympathy for the loss of dedicated lives; and … (3) the tightrope act
+      of Donald Trump who combines his public disapproval of Israel for carrying out
+      this military operation supposedly without a prior notification to the White House
+      while reiterating his solidarity with Israel so far as destroying Hamas. Obviously,
+      Trump sheds no tears for the victims of the attack, nor is he incensed by Israel’s
+      disregard of international law and morality at a time when it seemed an American
+      ceasefire diplomacy proposal was on the brink of success. What Trump knew and
+      said privately Netanyahu is high on the list of uncertainties. From Israel’s perspective
+      such a gathering of top Hamas leaders in Doha can be simply regarded as a target
+      too tempting to forego, especially given their information about the location
+      of their place of residence. If these top Hamas leaders had been assassinated,
+      rather than apparently managing to avoid the missile strike , it would have allowed
+      the Netanyahu government to claim a victory in relation to their post-October
+      7 commitment to exterminate Hamas for the attack, and diminished outrage at attacking
+      an adversary negotiating team. From a second perspective, the timing as well as
+      the location of the attack is rather mystifying. These Hamas leaders were functioning
+      as a negotiating team meeting in one place to prepare a unified response to the
+      US proposal, unreliably reported as already accepted by Israel, to establish both
+      a ceasefire and the return of the surviving ‘ hostages ’ in a prisoner exchange.
+      Why would Israel undermine such a proposal by this sort of disruptive behavior
+      when it had just days previously agreed to the negotiated solution, risking not
+      only negative reactions throughout the region and beyond, but also, and more significantly,
+      raising doubts about US unconditional support. Although a US shift away from its
+      long-term posture on Israel/Palestine remains a remote possibility, which cannot
+      be totally ruled out given Trump’s style of egocentric and erratic leadership
+      that is certainly capable of taking personal offense at Netanyahu’s subversion
+      of Trump’s diplomatic initiative. Such a conjecture presupposes that Trump is
+      being uncharacteristically truthful when finding himself betrayed by Israel, a
+      country thought too dependent on the US to pull off such a diplomatic tactic.
+      The alternative is that Trump is so beholden to Netanyahu that he conspired with
+      him to project the image of diplomacy when the real plan was a counter-terrorist
+      ploy to lure the Hamas leaders to Doha as a group, thinking they were going to
+      put the finishing touches on a breakthrough agreement that will end the Gaza ordeal.
+      Yet from another perspective, apparently not yet discussed, but likely influential,
+      is either Netanyahu or cabinet hardliners such as Ben-Gvir, Smotrich, and Katz,
+      opposed a ceasefire at this time before the Gaza City ground operation was completed
+      or missing the opportunity to decapitate the surviving Hamas leadership, and made
+      their political weight felt with Netanyahu as had happened previously. These Zionist
+      extremists have seemed determined to seize the moment since October 7 to fulfill
+      Israel endgame ambitions relating to land and people. Recalling the early Zionist
+      pre-Nazi whimsical airbrushing of the residents of Palestine by falsely contending
+      that it was replacing ‘ a people without land for a land without people ,’ while
+      just an ironic quip, can be retroactively interpreted as a start down a long path
+      of Palestinian dehumanization and erasure in the 1920s if not before. What now
+      defines the Zionist Project is to acquire for Israel as much land of Ottoman Palestine
+      as possible with as few Palestinians living on it as feasible. Those Palestinians
+      with the resolve to remain face the ensured prospect of suffering as a victimized,
+      super-resilient minority in an Israeli apartheid state. As with the timing of
+      Iran’s ‘ 12 Day Iran War ,’ June 13-24, 2025, as partly reflecting Israel’s successful
+      effort to deflect attention from its increasingly condemned Gaza policies, the
+      Doha timing may have partly been motivated by the hope of deflecting attention
+      once again. These lines of interpretation are highly conjectural, difficult to
+      either confirm or dismiss. This complexity is aggravated by the tendency of the
+      main parties to the conflict to use public discourse as a propaganda tool rather
+      than as truthful disclosures of national policies. Against this background and
+      timing of the Doha attack it is plausible, if controversial, to argue that it
+      should be regarded as another example of Israel strategy of deflection, shifting
+      the focus away from Israel’s plan to demolish Gaza City or to divert the attention
+      from the fate of the hostages or to show the world and prove to itself that Israel
+      is able and willing to act without waiting for a green light from Washington.
+      Along these lines, some analysts now fear a second attack on Iran in coming weeks
+      as Israel once more finds itself in a position where facing a rising tide of criticism
+      and hostile pushback that it might once again possibly act to deflect attention
+      from what now appears a provocative failure of the Qatar mission because the Hamas
+      leadership somehow survived the missile attack. Whether Iran would act again so
+      moderately in response seems doubtful, raising threats of a deadly regional war
+      with strong escalation dangers and serious policy challenges to US foreign policy,
+      whether as shaped by the White House or deep state. Daniel Falcone: What is the
+      end game for Israel ? It looks like in the short-term negotiators are worth more
+      dead than alive. Are there other motivations other than power? Richard Falk: I
+      think your question, with due account given to uncertainties and shifting priorities,
+      points to the reality that Israel seems primarily concerned with establishing
+      a one-state solution in all or most of Ottoman Palestine , administered in quasi-colonial
+      fashion by the UK in the aftermath of World War I. As I have earlier observed,
+      attaining this goal must be preceded by a Palestinian political surrender or better
+      yet, the physical erasure of any significant Palestinian presence. Israel could
+      partially reach such a goal diplomatically or even by the imposition of an extreme
+      form of apartheid making life so unbearable for the Palestinians that many would
+      soon leave if a refugee sanctuary was found, if for no other reason than to assure
+      family survival, especially for children. The post-October 7 genocide, as underscored
+      by accelerated settlement expansion in the West Bank , should end any beliefs
+      that Israel is at all interested in a diplomatic compromise taking the form of
+      a two-state solution, even if the designated Palestinian negotiators (the Palestinian
+      Authority) seem willing to settle for a ghost state, which more resolute Palestinians
+      insist would be no better than a renewal of ‘ breadcrumb diplomacy .’ On further
+      consideration it may turn out that the fragile Netanyahu coalition was unwilling
+      to go along with the current ceasefire diplomacy because it viewed it as a trap
+      that would block a full realization of the Zionist Project. Considering such priorities,
+      Israel needed to go to the blood-soaked end of its Gaza policy if it was to achieve
+      its primary goals relating to the victorious end of the settler colonial undertaking.
+      Netanyahu either shared this line of thinking in whole or part or accepted it
+      as to avoid the collapse of his fragile coalition that might still lead to his
+      facing long delayed charges of fraud and disgrace within Israel. Of secondary
+      importance was to extend the orbit of lawlessness by coercively removing present
+      or near future threats within the Middle East to Israel’s security and hegemonic
+      partnership with the US. This line of analysis best explains Israel’s recent multiple
+      regional aggressions against Iran, Syria, and Lebanon. These military operations
+      have been conducted with the alleged purpose of ensuring that unstable regional
+      actors do not in the future become adversaries, which leads to the preemptive
+      destruction of existing military capabilities with implied threats of future military
+      operations should conditions change. Israel, despite possessing the only arsenal
+      of nuclear weapons in the region, remains insecure, at least if security is assessed
+      in defensive terms. More accurately perceived, Israel’s awesome deterrent capability
+      in its regional neighborhood is conceived of offensively as well as preemptively
+      as to avoid the rise of any regional power that might have a political disposition
+      to challenge Israel’s hegemony or partnership with the US in managing the geopolitics
+      of the Middle East. Whether an extra-regional challenge focused on economic penetration
+      and energy politics is posed by China acting alone or with Russia, or in concert
+      with a coalition of the willing in the Global South is still an over-the-horizon
+      nightmare for the West. Israel’s plans are most likely to be upset, if at all,
+      from within as the status of pariah state sinks into the political consciousness
+      of nations, the region , and the world prompting pressures from without and a
+      pragmatic recalculation by elites within. This kind of dynamic led to profound
+      shifts in the recalculation of the interests (although not the values) of South
+      African apartheid elites in the 1990s producing an enduring embedding of constitutional
+      democracy that were not even hinted at until given tangible expression until unexpectedly
+      acted upon by the Afrikaner leadership. Netanyahu’s unexpected remarks implicitly
+      acknowledging Israel’s pariah or rogue status are an indication that international
+      disapproval is now having major negative impacts. Recently Netanyahu confessed
+      that “[ We] will have to get used to an economy with autarchic features. ” As
+      well as declaring “[We’ll] have to be both Athens and Sparta, developing the capabilities
+      to cope on our own.” Even a month ago such statements acknowledging Israel political
+      and economic isolation could hardly be imagined as being uttered by such a combative
+      and self-congratulating political leader as Netanyahu. Daniel Falcone: Often Israel
+      and the US are discussed as core regions whereas places like Qatar or even Sudan
+      are considered peripheral. Does this event put this misconception on display in
+      your estimation? Nothing looks peripheral when it comes to Israel. Richard Falk:
+      It is a tantalizing challenge to divide the states of the world up into those
+      that are core and those that are on the periphery. Each historical era gave rise
+      to its own distinctive patterns. World War II produced one pattern, the Cold War
+      another, decolonization another and now the world is on the cusp of another rearrangement
+      of core/periphery relations. The distinction between global geopolitical actors
+      (currently US, China , Russia) and other states is another way of mapping the
+      new world order emerging in tandem with the Ukraine War and the Gaza Genocide.
+      In a narrow sense, both Israel and Qatar were playing core roles in recent decades.
+      Israel as a regional hegemon with questionable credentials as a sovereign state,
+      although gaining legitimacy through its technological acumen and its skills as
+      arms supplier and battlefield innovator. Whether it will retain its core regional
+      geopolitical role despite perpetrating a transparent genocide viewed in real time
+      is a major uncertainty, likely greatly affected by whether anti-pariah state pressures
+      are exerted in a sustained and effective manner to ensure cooperative relations
+      with the Arab states, Organization of Islamic Cooperation, and the Arab League
+      . Although I suspect many would disagree, I believe Qatar’s core is rather stable,
+      especially if it is assumed that the September 9 Doha attack was a one-off incident.
+      To a surprising extent Qatar has become like Switzerland for diplomacy among adversaries,
+      reflective of the power-shift from Europe following the collapse of French and
+      British colonialism . This de-westernizing phenomenon has not received the commentary
+      it deserves. This world order realignment of neutral diplomatic sites exhibits
+      more responsiveness to historical circumstances than has the UN with obvious disappointing
+      consequences for multilateral approaches to global problem-solving. Daniel Falcone:
+      Mouin Rabbani recently discussed the USS Liberty and the Israeli attack on America.
+      Considering this alleged mishap, could we ever witness Israel attacking its allies
+      in your view? Richard Falk: The Israeli attack on the USS Liberty during the Six
+      Day War on June 8, 1967, killing 34 naval crew members, injuring an additional
+      171, severely damaging the ship. Objective scholarly treatments have long concluded
+      beyond a reasonable doubt that the Liberty incident was not ‘a mishap’ but rather
+      a deliberate attempt by Israel to prevent US surveillance of its military operations
+      that conflicted with its public assertions. [For a persuasive account see Joan
+      Mellen, Blood in the Water: How the US and Israel Ambush to USS Liberty (Prometheus,
+      2018)]. It is notable that the US Government chose to accept the Israeli apology
+      and went along with a coverup narrative, despite the damning evidence that it
+      was a deliberate and lethal attack on an American warship. This dynamic has been
+      persuasively analyzed in Mellon’s book and to this day the US coverup is deplored
+      by Liberty survivors. It is a revealing taint on the willingness of the US Government
+      to throw the wellbeing, even the lives, of members of its own armed forces under
+      the bus of diplomatic expediency. Where Israel’s strategic interests are involved,
+      however extreme, lawless, and inhumane, there is little doubt that the present
+      and many of its past leaders would not hesitate to repeat the USS Liberty disaster/tragedy
+      if the strategic stakes were high enough. More than almost any state, Israel’s
+      allies, including the US, are not beyond suspicion, attitudes acutely inflated
+      by security paranoia that falsely views latent antisemitism as a universal phenomenon.
+      I entertain the wish, however slim, that Israel is capable of internally transforming
+      its identity in ways that confer future legitimacy and achieve a stable normalcy.
+      For this transformative scenario to have any reasonable chance of reshaping the
+      future presupposes mounting international pressure. Even so, if Israel were to
+      shed its Zionist ideology of Jewish exceptionalism, such developments would be
+      a spectacular instance of the politics of impossibility. Its enactment would help
+      ensure peace and justice, but it has no chance of happening unless the world finally
+      musters the will to impose strong economic sanctions on Israel, as reinforced
+      by civil society activism that mobilizes support for cultural and sporting boycotts,
+      demands an armed protective force under UN auspices, and urges suspension of Israel’s
+      participation in the UN . The politics of impossibility walks a tightrope between
+      wishful thinking and such unlikely transformative events as the South African
+      abandonment of apartheid, the Soviet collapse, and China’s remarkable developmental
+      ascendancy coupled with unprecedented rates of poverty reduction. Negative events
+      are also possible as with the signs of an American abandonment of democracy and
+      embrace of fascistic styles of governance . Daniel Falcone: Has the visit to Israel
+      and Qatar by the American Secretary of State, Marco Rubio , altered your understanding
+      of the US engagement with recent developments, especially the attack on the Hamas
+      leadership in Doha? Richard Falk: The Rubio visit did underscore some vital points
+      in addition to reassuring Israel of US continuing support and Qatar, as well as
+      the Gulf countries, of unwavering security commitments. Rubio tried hard to show
+      that the US was still backing Israel all the way while also promising to be a
+      trusted protector of Arab governments should they face their own security threats.
+      His underlying expression of this dual relationship seemed to rest on the demonization
+      of Hamas, calling this center of Palestinian resistance “ agents of barbarism
+      ” and insisting that “[ As] long as they’re around there will be no peace in this
+      region. ” As Ariel Hayon insisted in an article, “Dangerous Prophecy,” when the
+      microphones are off, every European and Arab leader knows that Hamas’s clones
+      pose a threat to them just as much as this terror organization poses a threat
+      to us. [ Published online , September 16, 2025, S. Daniel Abraham, Center of Middle
+      East , News Update.] Hayon, like Rubio, is trying to overcome the divisiveness
+      of the Arab/Islamic Emergency Summit in Doha following the attack by stressing
+      the common supreme interests of both Israel and the Islamic world (or at least
+      of the governing regimes) in counterterrorism, otherwise viewed as popular resistance
+      . In the aftermath of this Israel-Qatar attack that seemed at first to threaten
+      the Western interests in the Middle East, is a strange combination of verbal denunciation
+      of Israeli violation of Qatari sovereignty with a political status quo in play.
+      On the outside, but not to be discounted, are a series of civil society campaigns
+      and solidarity initiatives that are reacting to the cruelties and injustices of
+      the ongoing genocide. The release at this time of the report of the UN Commission
+      of Inquiry that confirms by evidence and analysis allegations of Israeli genocide
+      in Gaza is another facet of the overall situation. This interplay will be tested
+      by the way states participate in the forthcoming General Assembly session devoted
+      to celebrating the 80 th anniversary of the UN . Top of Form Bottom of Form September
+      23, 2025 Israel’s Qatar Strike Undermines Sovereignty and International Law Richard
+      Falk – Daniel Falcone Facebook Twitter Reddit Bluesky Email In the aftermath of
+      this Israel-Qatar attack that seemed at first to threaten the Western interests
+      in the Middle East, is a strange combination of verbal denunciation of Israeli
+      violation of Qatari sovereignty with a political status quo in play. Israel’s
+      brazen September 8 missile strike on Doha in targeting senior Hamas negotiators
+      has sent reactions all throughout the region, threatening to disrupt US brokered
+      ceasefire talks. Further, it brought questions about Israel’s strategy and intent
+      as well as their government’s disregard for global norms. Coming amid delicate
+      diplomacy and on the soil of a key U.S. ally, the attack challenges assumptions
+      about core-peripheral power, and underlines the ever-changing politics of the
+      Middle East. In the Q/A that follows, Daniel Falcone interviews Richard Falk for
+      insight into the consequences of this act and what it reveals about Israel’s objectives.
+      Daniel Falcone: Can you explain the incredible action of Israel in bombing Qatar
+      ? Why should we be surprised? Why shouldn’t we? Richard Falk: At this stage an
+      explanation seems premature, although not for media pundits. At best, we can venture
+      speculations, but the complexities of the situation should encourage humility
+      of interpretation. It would be naïve to give much weight to the words of top officials
+      that issue from either Tel Aviv or Washington. Of course, the media stress so
+      far is in three salient facets of the undertaking: (1) Israel’s display of audacity
+      in launching a missile against high value human targets in the capital of Qatar
+      , location of the largest US military base in the region and the site of negotiations
+      between Israel and Hamas. (2) the unrelenting demonization of Hamas as a terrorist
+      entity that deserves neither the protection of law and morality nor reactions
+      of human sympathy for the loss of dedicated lives; and … (3) the tightrope act
+      of Donald Trump who combines his public disapproval of Israel for carrying out
+      this military operation supposedly without a prior notification to the White House
+      while reiterating his solidarity with Israel so far as destroying Hamas. Obviously,
+      Trump sheds no tears for the victims of the attack, nor is he incensed by Israel’s
+      disregard of international law and morality at a time when it seemed an American
+      ceasefire diplomacy proposal was on the brink of success. What Trump knew and
+      said privately Netanyahu is high on the list of uncertainties. From Israel’s perspective
+      such a gathering of top Hamas leaders in Doha can be simply regarded as a target
+      too tempting to forego, especially given their information about the location
+      of their place of residence. If these top Hamas leaders had been assassinated,
+      rather than apparently managing to avoid the missile strike , it would have allowed
+      the Netanyahu government to claim a victory in relation to their post-October
+      7 commitment to exterminate Hamas for the attack, and diminished outrage at attacking
+      an adversary negotiating team. From a second perspective, the timing as well as
+      the location of the attack is rather mystifying. These Hamas leaders were functioning
+      as a negotiating team meeting in one place to prepare a unified response to the
+      US proposal, unreliably reported as already accepted by Israel, to establish both
+      a ceasefire and the return of the surviving ‘ hostages ’ in a prisoner exchange.
+      Why would Israel undermine such a proposal by this sort of disruptive behavior
+      when it had just days previously agreed to the negotiated solution, risking not
+      only negative reactions throughout the region and beyond, but also, and more significantly,
+      raising doubts about US unconditional support. Although a US shift away from its
+      long-term posture on Israel/Palestine remains a remote possibility, which cannot
+      be totally ruled out given Trump’s style of egocentric and erratic leadership
+      that is certainly capable of taking personal offense at Netanyahu’s subversion
+      of Trump’s diplomatic initiative. Such a conjecture presupposes that Trump is
+      being uncharacteristically truthful when finding himself betrayed by Israel, a
+      country thought too dependent on the US to pull off such a diplomatic tactic.
+      The alternative is that Trump is so beholden to Netanyahu that he conspired with
+      him to project the image of diplomacy when the real plan was a counter-terrorist
+      ploy to lure the Hamas leaders to Doha as a group, thinking they were going to
+      put the finishing touches on a breakthrough agreement that will end the Gaza ordeal.
+      Yet from another perspective, apparently not yet discussed, but likely influential,
+      is either Netanyahu or cabinet hardliners such as Ben-Gvir, Smotrich, and Katz,
+      opposed a ceasefire at this time before the Gaza City ground operation was completed
+      or missing the opportunity to decapitate the surviving Hamas leadership, and made
+      their political weight felt with Netanyahu as had happened previously. These Zionist
+      extremists have seemed determined to seize the moment since October 7 to fulfill
+      Israel endgame ambitions relating to land and people. Recalling the early Zionist
+      pre-Nazi whimsical airbrushing of the residents of Palestine by falsely contending
+      that it was replacing ‘ a people without land for a land without people ,’ while
+      just an ironic quip, can be retroactively interpreted as a start down a long path
+      of Palestinian dehumanization and erasure in the 1920s if not before. What now
+      defines the Zionist Project is to acquire for Israel as much land of Ottoman Palestine
+      as possible with as few Palestinians living on it as feasible. Those Palestinians
+      with the resolve to remain face the ensured prospect of suffering as a victimized,
+      super-resilient minority in an Israeli apartheid state. As with the timing of
+      Iran’s ‘ 12 Day Iran War ,’ June 13-24, 2025, as partly reflecting Israel’s successful
+      effort to deflect attention from its increasingly condemned Gaza policies, the
+      Doha timing may have partly been motivated by the hope of deflecting attention
+      once again. These lines of interpretation are highly conjectural, difficult to
+      either confirm or dismiss. This complexity is aggravated by the tendency of the
+      main parties to the conflict to use public discourse as a propaganda tool rather
+      than as truthful disclosures of national policies. Against this background and
+      timing of the Doha attack it is plausible, if controversial, to argue that it
+      should be regarded as another example of Israel strategy of deflection, shifting
+      the focus away from Israel’s plan to demolish Gaza City or to divert the attention
+      from the fate of the hostages or to show the world and prove to itself that Israel
+      is able and willing to act without waiting for a green light from Washington.
+      Along these lines, some analysts now fear a second attack on Iran in coming weeks
+      as Israel once more finds itself in a position where facing a rising tide of criticism
+      and hostile pushback that it might once again possibly act to deflect attention
+      from what now appears a provocative failure of the Qatar mission because the Hamas
+      leadership somehow survived the missile attack. Whether Iran would act again so
+      moderately in response seems doubtful, raising threats of a deadly regional war
+      with strong escalation dangers and serious policy challenges to US foreign policy,
+      whether as shaped by the White House or deep state. Daniel Falcone: What is the
+      end game for Israel ? It looks like in the short-term negotiators are worth more
+      dead than alive. Are there other motivations other than power? Richard Falk: I
+      think your question, with due account given to uncertainties and shifting priorities,
+      points to the reality that Israel seems primarily concerned with establishing
+      a one-state solution in all or most of Ottoman Palestine , administered in quasi-colonial
+      fashion by the UK in the aftermath of World War I. As I have earlier observed,
+      attaining this goal must be preceded by a Palestinian political surrender or better
+      yet, the physical erasure of any significant Palestinian presence. Israel could
+      partially reach such a goal diplomatically or even by the imposition of an extreme
+      form of apartheid making life so unbearable for the Palestinians that many would
+      soon leave if a refugee sanctuary was found, if for no other reason than to assure
+      family survival, especially for children. The post-October 7 genocide, as underscored
+      by accelerated settlement expansion in the West Bank , should end any beliefs
+      that Israel is at all interested in a diplomatic compromise taking the form of
+      a two-state solution, even if the designated Palestinian negotiators (the Palestinian
+      Authority) seem willing to settle for a ghost state, which more resolute Palestinians
+      insist would be no better than a renewal of ‘ breadcrumb diplomacy .’ On further
+      consideration it may turn out that the fragile Netanyahu coalition was unwilling
+      to go along with the current ceasefire diplomacy because it viewed it as a trap
+      that would block a full realization of the Zionist Project. Considering such priorities,
+      Israel needed to go to the blood-soaked end of its Gaza policy if it was to achieve
+      its primary goals relating to the victorious end of the settler colonial undertaking.
+      Netanyahu either shared this line of thinking in whole or part or accepted it
+      as to avoid the collapse of his fragile coalition that might still lead to his
+      facing long delayed charges of fraud and disgrace within Israel. Of secondary
+      importance was to extend the orbit of lawlessness by coercively removing present
+      or near future threats within the Middle East to Israel’s security and hegemonic
+      partnership with the US. This line of analysis best explains Israel’s recent multiple
+      regional aggressions against Iran, Syria, and Lebanon. These military operations
+      have been conducted with the alleged purpose of ensuring that unstable regional
+      actors do not in the future become adversaries, which leads to the preemptive
+      destruction of existing military capabilities with implied threats of future military
+      operations should conditions change. Israel, despite possessing the only arsenal
+      of nuclear weapons in the region, remains insecure, at least if security is assessed
+      in defensive terms. More accurately perceived, Israel’s awesome deterrent capability
+      in its regional neighborhood is conceived of offensively as well as preemptively
+      as to avoid the rise of any regional power that might have a political disposition
+      to challenge Israel’s hegemony or partnership with the US in managing the geopolitics
+      of the Middle East. Whether an extra-regional challenge focused on economic penetration
+      and energy politics is posed by China acting alone or with Russia, or in concert
+      with a coalition of the willing in the Global South is still an over-the-horizon
+      nightmare for the West. Israel’s plans are most likely to be upset, if at all,
+      from within as the status of pariah state sinks into the political consciousness
+      of nations, the region , and the world prompting pressures from without and a
+      pragmatic recalculation by elites within. This kind of dynamic led to profound
+      shifts in the recalculation of the interests (although not the values) of South
+      African apartheid elites in the 1990s producing an enduring embedding of constitutional
+      democracy that were not even hinted at until given tangible expression until unexpectedly
+      acted upon by the Afrikaner leadership. Netanyahu’s unexpected remarks implicitly
+      acknowledging Israel’s pariah or rogue status are an indication that international
+      disapproval is now having major negative impacts. Recently Netanyahu confessed
+      that “[ We] will have to get used to an economy with autarchic features. ” As
+      well as declaring “[We’ll] have to be both Athens and Sparta, developing the capabilities
+      to cope on our own.” Even a month ago such statements acknowledging Israel political
+      and economic isolation could hardly be imagined as being uttered by such a combative
+      and self-congratulating political leader as Netanyahu. Daniel Falcone: Often Israel
+      and the US are discussed as core regions whereas places like Qatar or even Sudan
+      are considered peripheral. Does this event put this misconception on display in
+      your estimation? Nothing looks peripheral when it comes to Israel. Richard Falk:
+      It is a tantalizing challenge to divide the states of the world up into those
+      that are core and those that are on the periphery. Each historical era gave rise
+      to its own distinctive patterns. World War II produced one pattern, the Cold War
+      another, decolonization another and now the world is on the cusp of another rearrangement
+      of core/periphery relations. The distinction between global geopolitical actors
+      (currently US, China , Russia) and other states is another way of mapping the
+      new world order emerging in tandem with the Ukraine War and the Gaza Genocide.
+      In a narrow sense, both Israel and Qatar were playing core roles in recent decades.
+      Israel as a regional hegemon with questionable credentials as a sovereign state,
+      although gaining legitimacy through its technological acumen and its skills as
+      arms supplier and battlefield innovator. Whether it will retain its core regional
+      geopolitical role despite perpetrating a transparent genocide viewed in real time
+      is a major uncertainty, likely greatly affected by whether anti-pariah state pressures
+      are exerted in a sustained and effective manner to ensure cooperative relations
+      with the Arab states, Organization of Islamic Cooperation, and the Arab League
+      . Although I suspect many would disagree, I believe Qatar’s core is rather stable,
+      especially if it is assumed that the September 9 Doha attack was a one-off incident.
+      To a surprising extent Qatar has become like Switzerland for diplomacy among adversaries,
+      reflective of the power-shift from Europe following the collapse of French and
+      British colonialism . This de-westernizing phenomenon has not received the commentary
+      it deserves. This world order realignment of neutral diplomatic sites exhibits
+      more responsiveness to historical circumstances than has the UN with obvious disappointing
+      consequences for multilateral approaches to global problem-solving. Daniel Falcone:
+      Mouin Rabbani recently discussed the USS Liberty and the Israeli attack on America.
+      Considering this alleged mishap, could we ever witness Israel attacking its allies
+      in your view? Richard Falk: The Israeli attack on the USS Liberty during the Six
+      Day War on June 8, 1967, killing 34 naval crew members, injuring an additional
+      171, severely damaging the ship. Objective scholarly treatments have long concluded
+      beyond a reasonable doubt that the Liberty incident was not ‘a mishap’ but rather
+      a deliberate attempt by Israel to prevent US surveillance of its military operations
+      that conflicted with its public assertions. [For a persuasive account see Joan
+      Mellen, Blood in the Water: How the US and Israel Ambush to USS Liberty (Prometheus,
+      2018)]. It is notable that the US Government chose to accept the Israeli apology
+      and went along with a coverup narrative, despite the damning evidence that it
+      was a deliberate and lethal attack on an American warship. This dynamic has been
+      persuasively analyzed in Mellon’s book and to this day the US coverup is deplored
+      by Liberty survivors. It is a revealing taint on the willingness of the US Government
+      to throw the wellbeing, even the lives, of members of its own armed forces under
+      the bus of diplomatic expediency. Where Israel’s strategic interests are involved,
+      however extreme, lawless, and inhumane, there is little doubt that the present
+      and many of its past leaders would not hesitate to repeat the USS Liberty disaster/tragedy
+      if the strategic stakes were high enough. More than almost any state, Israel’s
+      allies, including the US, are not beyond suspicion, attitudes acutely inflated
+      by security paranoia that falsely views latent antisemitism as a universal phenomenon.
+      I entertain the wish, however slim, that Israel is capable of internally transforming
+      its identity in ways that confer future legitimacy and achieve a stable normalcy.
+      For this transformative scenario to have any reasonable chance of reshaping the
+      future presupposes mounting international pressure. Even so, if Israel were to
+      shed its Zionist ideology of Jewish exceptionalism, such developments would be
+      a spectacular instance of the politics of impossibility. Its enactment would help
+      ensure peace and justice, but it has no chance of happening unless the world finally
+      musters the will to impose strong economic sanctions on Israel, as reinforced
+      by civil society activism that mobilizes support for cultural and sporting boycotts,
+      demands an armed protective force under UN auspices, and urges suspension of Israel’s
+      participation in the UN . The politics of impossibility walks a tightrope between
+      wishful thinking and such unlikely transformative events as the South African
+      abandonment of apartheid, the Soviet collapse, and China’s remarkable developmental
+      ascendancy coupled with unprecedented rates of poverty reduction. Negative events
+      are also possible as with the signs of an American abandonment of democracy and
+      embrace of fascistic styles of governance . Daniel Falcone: Has the visit to Israel
+      and Qatar by the American Secretary of State, Marco Rubio , altered your understanding
+      of the US engagement with recent developments, especially the attack on the Hamas
+      leadership in Doha? Richard Falk: The Rubio visit did underscore some vital points
+      in addition to reassuring Israel of US continuing support and Qatar, as well as
+      the Gulf countries, of unwavering security commitments. Rubio tried hard to show
+      that the US was still backing Israel all the way while also promising to be a
+      trusted protector of Arab governments should they face their own security threats.
+      His underlying expression of this dual relationship seemed to rest on the demonization
+      of Hamas, calling this center of Palestinian resistance “ agents of barbarism
+      ” and insisting that “[ As] long as they’re around there will be no peace in this
+      region. ” As Ariel Hayon insisted in an article, “Dangerous Prophecy,” when the
+      microphones are off, every European and Arab leader knows that Hamas’s clones
+      pose a threat to them just as much as this terror organization poses a threat
+      to us. [ Published online , September 16, 2025, S. Daniel Abraham, Center of Middle
+      East , News Update.] Hayon, like Rubio, is trying to overcome the divisiveness
+      of the Arab/Islamic Emergency Summit in Doha following the attack by stressing
+      the common supreme interests of both Israel and the Islamic world (or at least
+      of the governing regimes) in counterterrorism, otherwise viewed as popular resistance
+      . In the aftermath of this Israel-Qatar attack that seemed at first to threaten
+      the Western interests in the Middle East, is a strange combination of verbal denunciation
+      of Israeli violation of Qatari sovereignty with a political status quo in play.
+      On the outside, but not to be discounted, are a series of civil society campaigns
+      and solidarity initiatives that are reacting to the cruelties and injustices of
+      the ongoing genocide. The release at this time of the report of the UN Commission
+      of Inquiry that confirms by evidence and analysis allegations of Israeli genocide
+      in Gaza is another facet of the overall situation. This interplay will be tested
+      by the way states participate in the forthcoming General Assembly session devoted
+      to celebrating the 80 th anniversary of the UN . Top of Form Bottom of Form'
+    one_sentence_summary: Israel's missile strike on a Hamas negotiating team in Doha
+      on September 8 has undermined diplomatic efforts for a ceasefire and raised concerns
+      over violations of Qatari sovereignty and international law.
+    paragraph_summary: On September 8, 2025, Israel conducted a missile strike in Doha,
+      Qatar, targeting senior Hamas negotiators, which has raised significant concerns
+      regarding the violation of Qatari sovereignty and international law. This attack
+      has disrupted ongoing US-brokered ceasefire negotiations and highlighted Israel's
+      apparent disregard for diplomatic norms, particularly in a region where delicate
+      political dynamics are at play. In an interview with Daniel Falcone, Richard Falk
+      discusses the implications of this aggressive action, emphasizing the complexities
+      of the situation and cautioning against hasty interpretations of Israel's motives.
+      The incident not only threatens Western interests in the Middle East but also
+      challenges existing assumptions about power dynamics in the region, reflecting
+      the volatile and evolving nature of Middle Eastern politics.
+    published: '2025-09-24T08:07:38+00:00'
   - title: Can Netanyahu’s Israel be Stopped? Time, Space, and Political Will
     url: https://richardfalk.org/2025/09/02/can-netanyahus-israel-be-stopped-time-space-and-political-will/
     text: '[ Prefatory Note: This interview was conducted on behalf of Fayn Press by

@@ -7,18 +7,1393 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  As of September 24, 2025, the geopolitical landscape remains volatile, with significant developments in the Ukraine conflict, ongoing intrigue surrounding the assassination of Charlie Kirk, and shifting diplomatic dynamics in Europe and the Middle East.
+  In the wake of escalating global tensions and political intrigue, recent developments in U.S. military and foreign policy have drawn heightened scrutiny. The most notable event in the last 12 hours was the unprecedented assembly of over 800 General Officers at Quantico Marine Base, where Donald Trump and Secretary of War Pete Hegseth addressed the nation’s top military leadership. According to **Larry C. Johnson**, this gathering appeared “unnecessary” and likely served as a diversion from a more significant, undisclosed agenda, possibly related to covert military operations. The scale and secrecy of the meeting have fueled speculation about imminent U.S. military actions, with Johnson emphasizing the lack of transparency and suggesting that the event was “a cover for action.”
   
-  The most recent and notable event is the proposal of a new UN Security Council resolution by France, Germany, the UK, and Ukraine, calling for an immediate ceasefire and reaffirmation of Ukraine’s sovereignty in response to what is described as escalating Russian aggression. **Larry C. Johnson** notes that this diplomatic move appears to be a direct reaction to both the intensifying conflict and to former President Donald Trump’s recent Truth Social post, in which he seemingly adopted—perhaps sarcastically—General Kellogg’s public views on the Ukraine war. This underscores the growing international pressure for de-escalation, as well as the complex interplay between U.S. political rhetoric and European diplomatic initiatives.
+  Meanwhile, diplomatic efforts in the Middle East remain stalled. Trump’s recently unveiled Gaza Peace Plan, which proposed a ceasefire and reconstruction, has been categorically rejected by Israeli leadership and influential Zionist groups. **Larry C. Johnson** asserts that the plan is “DOA” (dead on arrival), with little chance of implementation given the entrenched opposition from Israeli Prime Minister Netanyahu and the ongoing violence that continues to claim Palestinian lives.
   
-  Meanwhile, the investigation into the assassination of Charlie Kirk continues to generate controversy. The proliferation of conflicting conspiracy theories, as highlighted by **Larry C. Johnson**, suggests an organized intelligence effort to muddy the waters rather than a straightforward lone-actor scenario. The complexity of these narratives is fueling public skepticism and complicating the official investigation, with new details about the trajectory of the fatal shot only adding to the uncertainty.
+  On the Latin American front, concerns persist over a potential U.S. military buildup near Venezuela. Johnson raises the possibility that the threat posed by the Tren de Aragua gang could be exaggerated or manipulated as a pretext for regime change, drawing parallels to previous U.S. strategies in Syria. The article questions the authenticity of the threat and warns of the risk of another interventionist episode.
   
-  In the broader European context, the recent UNSC resolution and ongoing debates about historical consciousness—particularly Germany’s stance toward Russia—reflect a region grappling with its role in the current crisis. The majority opinion across sources is that Germany and its European partners are under increasing pressure to balance historical lessons with present-day security imperatives.
+  **Trends and Predictions:**  
+  The convergence of high-level military meetings and failed diplomatic initiatives signals a period of heightened uncertainty. The majority view across sources, as articulated by **Larry C. Johnson**, is that the U.S. is preparing for significant, possibly covert, military operations—most likely with a focus on Venezuela or other strategic theaters. There is a high chance that the Quantico meeting foreshadows imminent action, though the precise nature remains undisclosed. In the Middle East, the peace process is at a standstill, and there is little expectation of progress in the near term. The situation in Venezuela is likely to intensify, with a “high chance” of further U.S. involvement under the guise of combating organized crime.
   
-  Looking ahead, the trend is toward heightened diplomatic activity and information warfare, both in the Ukraine conflict and in the aftermath of the Kirk assassination. Given the latest developments, **Larry C. Johnson** asserts with high confidence: “I guarantee that Western diplomatic efforts will intensify, but the prospects for a rapid ceasefire in Ukraine remain slim as long as both sides perceive strategic gains are possible.” The intelligence-driven disinformation surrounding the Kirk case is also expected to persist, with a high chance that the true perpetrators will remain obscured in the near term.
-  
-  In summary, the geopolitical environment is marked by escalating diplomatic maneuvers, persistent uncertainty in high-profile investigations, and a continued struggle among Western powers to assert influence and maintain stability amid rising tensions.
+  In summary, the geopolitical landscape is marked by secrecy, stalled diplomacy, and the potential for new military interventions. As Johnson concludes, “I guarantee” that the coming days will bring further clarity on the true purpose behind these extraordinary military maneuvers.
 articles:
+  - title: Was Trump’s Meeting with the US Military Brass Today a Cover for Action?
+      And a Charlie Kirk Update
+    url: https://sonar21.com/was-trumps-meeting-with-the-us-military-brass-today-a-cover-for-action-and-a-charlie-kirk-update/
+    text: 'Cartoon by Nemo If you watched today’s spectacle at the Quantico Marine Base,
+      where Donald Trump and Secretary of War Hegseth delivered awful speeches to more
+      than 800 General Officers, I imagine you are hearing Peggy Lee sing, Is that All
+      There Is ? Well, leave it to the brilliant Yves Smith to explain the reason for
+      the meeting. She sent me the following message: After Charlie Kirk, perhaps I
+      have become too fond of complicated theories. But it’s ludicrous to have called
+      so many senior guys in for such a silly agenda. A stern memo and/or video sessions
+      would have done. So the big stoopid meeting, IMHO was to cover for a smaller gathering
+      that had to be done in person. And where whoever was summoned would be a big tell
+      as to what the focus was. No, Yves… I think you nailed it. Besides the massive
+      US naval force parked off the coast of Venezuela, we are now hearing that US tanker
+      aircraft are flying to the Middle East via England. We saw the same phenomena
+      in the days preceding the June 24 attack on Iran. If the Trump administration
+      is planning a coordinated attack on Venezuela and Iran, the commanders of USCENTCOM
+      and USSOUTHCOM would be involved. While the plans for such attacks could have
+      been discussed over a SVTCS (i.e., Secure Video Teleconferences), those sessions
+      usually have dozens of straphangers watching. If you want to keep close hold on
+      such planning, you do it in person. If the CENTCOM and SOUTHCOM commanders had
+      been called to Washington alone, the odds are high that someone would have reported
+      this. With the presence of the US naval force off the coast of Venezuela and the
+      movement of US aircraft towards the Persian Gulf, this likely would have attracted
+      unwanted attention… Well played Ms. Smith! Turning to the Charlie Kirk murder,
+      I want you to watch the following video that clearly demonstrates the impossibility
+      of the FBI claim that the murder weapon was a .30-06. I received the following
+      message late today from a friend who is very well connected. He writes: I was
+      told by someone very high up at TP USA the bullet hit c2 and crushed its way through
+      c7. Charlie’s entire neck was destroyed. The heart was destroyed instantly and
+      the bullet was found near T1 of the spine. He then said there were broken pieces
+      of bullet found and no one mentioned to him it was a .30-06. They just called
+      it a bullet. Hope you are well just wanted to pass this on. Bullet fragments are
+      consistent with a frangible round of ammunition. A frangible round of ammunition
+      is a specialized bullet designed to disintegrate into tiny pieces upon impact
+      with hard surfaces, such as steel or concrete. These bullets are typically made
+      from compressed powdered metals like copper, tin, or zinc, which are engineered
+      to break apart on contact rather than retain their shape or penetrate deeply.
+      The key purpose of frangible ammunition is to minimize the risk of ricochet, splash-back,
+      and over-penetration, making them ideal for use in indoor ranges, close-quarters
+      training, and environments where shooter safety and bystander protection are top
+      priorities. One possible candidate for the rifle used to kill Charlie is a 300
+      Blackout fired from a short-barreled rifle. Here is one example from Daniel Defense
+      — the DDM4 V7P 300 Blackout Semi-Automatic Pistol with Stabilizing Brace . You
+      can mount a scope on this and easily hide it in a backpack: I am not saying this
+      is the weapon that was used… I am simply showing you that there are a number of
+      rifles that could shoot this type of round and be easily concealed. Here is a
+      video showing the cavitation effect of a .300 Blackout soft-point bullet fired
+      from 30 yards: You can see the massive cavitation caused by this round. It creates
+      a shockwave inside the body that ripples out in all directions. Here is the photo
+      — one frame of the video — when Charlie is struck. Remember, there are 30 frames
+      per second, so what you are seeing is 1/30th of a second: In the next frame you
+      can see the cavitation effect as both the front and back of Charlie’s T-shirt
+      moved up and out — again, this was 1/30th of a second: The bullet that hit Charlie
+      caused an immediate cavitation in his body that expanded the chest and neck, but
+      the bullet did not exit. If the report I mentioned above is correct, the bullet
+      hit the spinal column and fragmented, which suggests some type of frangible round.
+      Here is a video where you can see the cavitation effect when a deer is hit by
+      a bullet: I do not know what rifle and ammunition was used to kill Charlie Kirk…
+      But it certainly was not a .30-06 round fired by Tyler Robinson. The video evidence
+      demands a real investigation, not the clown show being put out by Kash Patel.
+      I did a roundtable with Danny Haiphong on Monday, accompanied by Matt Kennard
+      and Patrick Henningsen: And I had a very productive chat today with Marcello…
+      We discussed the Charlie Kirk murder: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article critiques a recent meeting at Quantico Marine
+      Base where Donald Trump and Secretary of War Hegseth addressed over 800 General
+      Officers, suggesting that the gathering was unnecessary and likely intended to
+      distract from a more significant, secretive agenda related to military operations.
+    paragraph_summary: The article discusses a recent meeting at Quantico Marine Base
+      attended by Donald Trump and Secretary of War Hegseth, where they delivered speeches
+      to over 800 General Officers, which some observers found trivial given the scale
+      of the gathering. Yves Smith suggests that the large meeting was likely a cover
+      for a more critical, confidential discussion regarding potential military actions
+      against Venezuela and Iran, as indicated by the significant US naval presence
+      near Venezuela and the movement of US tanker aircraft towards the Middle East.
+      The article implies that such sensitive planning would necessitate in-person meetings
+      to maintain secrecy, contrasting it with the usual practice of using secure video
+      conferences that could attract attention. Additionally, the article briefly touches
+      on a separate issue regarding the FBI's claims about a murder weapon, hinting
+      at inconsistencies in their narrative.
+    published: '2025-10-01T02:45:21+00:00'
+  - title: Was Trump’s Meeting with the US Military Brass Today a Cover for Action?
+      And a Charlie Kirk Update
+    url: https://sonar21.com/was-trumps-meeting-with-the-us-military-brass-today-a-cover-for-action-and-a-charlie-kirk-update/
+    text: 'Cartoon by Nemo If you watched today’s spectacle at the Quantico Marine Base,
+      where Donald Trump and Secretary of War Hegseth delivered awful speeches to more
+      than 800 General Officers, I imagine you are hearing Peggy Lee sing, Is that All
+      There Is ? Well, leave it to the brilliant Yves Smith to explain the reason for
+      the meeting. She sent me the following message: After Charlie Kirk, perhaps I
+      have become too fond of complicated theories. But it’s ludicrous to have called
+      so many senior guys in for such a silly agenda. A stern memo and/or video sessions
+      would have done. So the big stoopid meeting, IMHO was to cover for a smaller gathering
+      that had to be done in person. And where whoever was summoned would be a big tell
+      as to what the focus was. No, Yves… I think you nailed it. Besides the massive
+      US naval force parked off the coast of Venezuela, we are now hearing that US tanker
+      aircraft are flying to the Middle East via England. We saw the same phenomena
+      in the days preceding the June 24 attack on Iran. If the Trump administration
+      is planning a coordinated attack on Venezuela and Iran, the commanders of USCENTCOM
+      and USSOUTHCOM would be involved. While the plans for such attacks could have
+      been discussed over a SVTCS (i.e., Secure Video Teleconferences), those sessions
+      usually have dozens of straphangers watching. If you want to keep close hold on
+      such planning, you do it in person. If the CENTCOM and SOUTHCOM commanders had
+      been called to Washington alone, the odds are high that someone would have reported
+      this. With the presence of the US naval force off the coast of Venezuela and the
+      movement of US aircraft towards the Persian Gulf, this likely would have attracted
+      unwanted attention… Well played Ms. Smith! Turning to the Charlie Kirk murder,
+      I want you to watch the following video that clearly demonstrates the impossibility
+      of the FBI claim that the murder weapon was a .30-06. I received the following
+      message late today from a friend who is very well connected. He writes: I was
+      told by someone very high up at TP USA the bullet hit c2 and crushed its way through
+      c7. Charlie’s entire neck was destroyed. The heart was destroyed instantly and
+      the bullet was found near T1 of the spine. He then said there were broken pieces
+      of bullet found and no one mentioned to him it was a .30-06. They just called
+      it a bullet. Hope you are well just wanted to pass this on. Bullet fragments are
+      consistent with a frangible round of ammunition. A frangible round of ammunition
+      is a specialized bullet designed to disintegrate into tiny pieces upon impact
+      with hard surfaces, such as steel or concrete. These bullets are typically made
+      from compressed powdered metals like copper, tin, or zinc, which are engineered
+      to break apart on contact rather than retain their shape or penetrate deeply.
+      The key purpose of frangible ammunition is to minimize the risk of ricochet, splash-back,
+      and over-penetration, making them ideal for use in indoor ranges, close-quarters
+      training, and environments where shooter safety and bystander protection are top
+      priorities. One possible candidate for the rifle used to kill Charlie is a 300
+      Blackout fired from a short-barreled rifle. Here is one example from Daniel Defense
+      — the DDM4 V7P 300 Blackout Semi-Automatic Pistol with Stabilizing Brace . You
+      can mount a scope on this and easily hide it in a backpack: I am not saying this
+      is the weapon that was used… I am simply showing you that there are a number of
+      rifles that could shoot this type of round and be easily concealed. Here is a
+      video showing the cavitation effect of a .300 Blackout soft-point bullet fired
+      from 30 yards: You can see the massive cavitation caused by this round. It creates
+      a shockwave inside the body that ripples out in all directions. Here is the photo
+      — one frame of the video — when Charlie is struck. Remember, there are 30 frames
+      per second, so what you are seeing is 1/30th of a second: In the next frame you
+      can see the cavitation effect as both the front and back of Charlie’s T-shirt
+      moved up and out — again, this was 1/30th of a second: The bullet that hit Charlie
+      caused an immediate cavitation in his body that expanded the chest and neck, but
+      the bullet did not exit. If the report I mentioned above is correct, the bullet
+      hit the spinal column and fragmented, which suggests some type of frangible round.
+      Here is a video where you can see the cavitation effect when a deer is hit by
+      a bullet: I do not know what rifle and ammunition was used to kill Charlie Kirk…
+      But it certainly was not a .30-06 round fired by Tyler Robinson. The video evidence
+      demands a real investigation, not the clown show being put out by Kash Patel.
+      I did a roundtable with Danny Haiphong on Monday, accompanied by Matt Kennard
+      and Patrick Henningsen: And I had a very productive chat today with Marcello…
+      We discussed the Charlie Kirk murder: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article critiques a recent meeting at Quantico Marine
+      Base where Donald Trump and Secretary of War Hegseth addressed over 800 General
+      Officers, suggesting that the gathering was unnecessary and likely intended to
+      distract from a more significant, secretive agenda related to military operations.
+    paragraph_summary: The article discusses a recent meeting at Quantico Marine Base
+      attended by Donald Trump and Secretary of War Hegseth, where they delivered speeches
+      to over 800 General Officers, which some observers found trivial given the scale
+      of the gathering. Yves Smith suggests that the large meeting was likely a cover
+      for a more critical, confidential discussion regarding potential military actions
+      against Venezuela and Iran, as indicated by the significant US naval presence
+      near Venezuela and the movement of US tanker aircraft towards the Middle East.
+      The article implies that such sensitive planning would necessitate in-person meetings
+      to maintain secrecy, contrasting it with the usual practice of using secure video
+      conferences that could attract attention. Additionally, the article briefly touches
+      on a separate issue regarding the FBI's claims about a murder weapon, hinting
+      at inconsistencies in their narrative.
+    published: '2025-10-01T02:45:21+00:00'
+  - title: Donald Trump’s Proposed Peace Plan for Gaza is DOA
+    url: https://sonar21.com/donald-trumps-proposed-peace-plan-for-gaza-is-d-o-a/
+    text: 'I will give you the bottom line up front: The Zionists, not just Israeli
+      Prime Minister Netanyahu, totally reject a two-state solution. Accordingly, Donald
+      Trump’s Gaza Peace Plan is kaput right out of the gate… Dead on arrival . President
+      Trump, during a White House press conference with Benjamin Netanyahu, unveiled
+      a detailed proposal to end the Israel-Hamas war in Gaza, which has raged since
+      October 2023, and resulted in over 66,000 Palestinian deaths and widespread destruction.
+      The plan, officially titled President Donald J. Trump’s Comprehensive Plan to
+      End the Gaza Conflict , is structured as a 20-point framework (though some reports
+      refer to it as 21-points, possibly including an introductory preamble). It emphasizes
+      an immediate ceasefire, hostage release, Hamas disarmament and exclusion from
+      governance, international oversight, massive reconstruction, and a vague pathway
+      to Palestinian self-determination. Netanyahu endorsed the plan, stating it achieves
+      Israel’s war aims, while Trump warned that Hamas must accept it or face destruction
+      with full US backing for Israel. Hamas stated it had not received the written
+      proposal, but would study it in good faith . The plan builds on elements from
+      earlier US ideas (e.g., Trump’s 2020 Abraham Accords framework and a Saudi-French
+      proposal) and input from figures like former UK Prime Minister Tony Blair, who
+      contributed to postwar governance concepts. It was first presented in a 21-point
+      draft to Arab and Muslim leaders at the UN General Assembly on September 24, 2025,
+      receiving conditional support from countries like Egypt, Jordan, Saudi Arabia,
+      and Qatar, who welcomed efforts to end the war, but stressed no displacement,
+      full Israeli withdrawal, and a two-state solution . Turkey’s President Erdogan
+      commended Trump’s “efforts and leadership” for a ceasefire, while the Palestinian
+      Authority expressed confidence in his ability to find a peace path. Critics, including
+      Palestinian Islamic Jihad , called it a “recipe to blow up the region,” arguing
+      it sidelines Palestinians and allows indefinite Israeli security control. The
+      plan avoids forced displacement, but permits voluntary departures, contrasting
+      with Trump’s controversial February 2025 idea of US-led redevelopment into a “Riviera
+      of the Middle East” with mass resettlement (which faced backlash and was later
+      softened). The biggest tell that this plan is nothing more than a deception was
+      the presence of Trump’s son-in-law, Jared Kushner, at the announcement. Jared’s
+      dream of building resort condos on the Gaza beaches remains intact. Here are the
+      so-called highlights of Trumps proposal: Point Category Details Immediate Ceasefire
+      and Hostage Release – War ends immediately upon mutual acceptance. – All military
+      operations cease; battle lines freeze. – Release of all ~20 living hostages and
+      remains of 25+ deceased within 48–72 hours. – Israel releases thousands of Palestinian
+      prisoners in exchange. – Hostilities paused during negotiations. Hamas Disarmament
+      and Amnesty – Hamas must fully disarm, renounce governance, and dissolve as a
+      military entity. – Amnesty for members committing to “peaceful coexistence” and
+      decommissioning weapons; they can remain in Gaza. – Safe passage for those wishing
+      to leave to receiving countries (no forced expulsion). – Gaza becomes a “deradicalized,
+      terror-free zone” posing no threat to neighbors. Israeli Withdrawal and Security
+      – Gradual Israeli withdrawal from all of Gaza. – Israel retains a “security perimeter/buffer
+      area” until Gaza is deemed secure from terror threats (criteria undefined, potentially
+      indefinite). – Deployment of an international stabilization force (ISF), likely
+      from Arab/Muslim states (e.g., Egypt, UAE), under UN supervision for security
+      handover. Governance and Oversight – Temporary technocratic, apolitical Palestinian
+      committee (qualified Palestinians + international experts) handles day-to-day
+      services (e.g., municipalities, public services). – Supervised by a new “Board
+      of Peace,” chaired by Trump, with members including Tony Blair and other heads
+      of state. – Board oversees framework and funding until Palestinian Authority (PA)
+      completes reforms (per 2020 Trump plan and Saudi-French proposal) and resumes
+      control. – No Israeli occupation or annexation of Gaza or West Bank. Humanitarian
+      Aid and Reconstruction – Immediate, unrestricted aid influx consistent with January
+      19, 2025, agreement: food, water, medical supplies, infrastructure rehab (water,
+      electricity, sewage), hospitals, bakeries, rubble removal. – Rafah crossing opens
+      bidirectionally under prior mechanisms. – “Trump Development Plan”: Redevelop
+      Gaza for residents’ benefit into a prosperous zone (e.g., economic hubs, no specifics
+      on “Riviera” vision). – Funding via international partners; focus on deradicalization
+      and mindset change through interfaith dialogue. Long-Term Political Horizon –
+      U.S.-led dialogue between Israel and Palestinians for “peaceful coexistence.”
+      – Pathway to Palestinian self-determination/statehood as an “aspiration,” contingent
+      on PA reforms, Gaza redevelopment, and security. – Promotes “tolerance” via narrative
+      shifts; Gaza integrated with West Bank in potential state per international law.
+      Trump apparently ignored Netanyahu’s address to the 80th United Nations General
+      Assembly on September 26, 2025… The speech was defiant, focusing on Israel’s military
+      actions in Gaza, accusations of genocide against Israel, and regional threats
+      from Iran and Hezbollah. Regarding the two-state solution—specifically, the establishment
+      of a sovereign Palestinian state—Netanyahu explicitly rejected it as a viable
+      or imminent path, portraying it as a dangerous concession that would enable further
+      attacks against Israel. He argued that such a state would inevitably become a
+      “terror state” controlled by groups like Hamas, citing the October 7, 2023 attack
+      as evidence that Palestinian statehood under current conditions poses an existential
+      threat. His rhetoric emphasized that Israel would not accept imposed solutions
+      from the international community, prioritizing security control over the West
+      Bank (referred to as Judea and Samaria ) and Gaza. During today’s unveiling of
+      the plan at a joint-press conference, Netanyahu endorsed the proposal, but avoided
+      committing to a two-state outcome. He stated, “This plan achieves Israel’s war
+      aims—destroying Hamas military capability, securing our borders, and ensuring
+      Gaza poses no threat.” When pressed on Palestinian statehood, he deflected, saying,
+      “Peace requires security first, not abstract notions of sovereignty that ignore
+      reality.” The Trump plan’s vague “pathway to self-determination” allowed him to
+      sidestep explicit rejection while maintaining Israel’s security control over Gaza
+      and the West Bank. But this was nothing more than political theater targeted at
+      the US public. Netanyahu’s position on the two-state solution has been consistent
+      since October 2023: January 18, 2024 (Press Conference): Netanyahu rejected US
+      calls for a Palestinian state, stating, “In any future arrangement… Israel must
+      have security control over all territory west of the Jordan River. This collides
+      with the idea of sovereignty [for Palestinians].” He argued that a Palestinian
+      state would become a “terror base” like Gaza post-2005 disengagement. February
+      2024 (Cabinet Statement): Amid US and Arab proposals for a Gaza postwar plan with
+      a two-state horizon, Netanyahu’s government passed a resolution rejecting “international
+      diktats” for Palestinian statehood, declaring it would “cause unprecedented harm
+      to Israel” and reward terrorism post-October 7. He emphasized, “Israel will continue
+      to oppose unilateral recognition of a Palestinian state.” July 17, 2024 (Knesset
+      Speech): Addressing renewed international pressure, Netanyahu reiterated, “We
+      will not allow the establishment of a terrorist state in Judea and Samaria [West
+      Bank] that would endanger our existence… The answer is no.” He cited Hamas control
+      of Gaza as proof that Palestinian statehood would lead to Iran-backed militancy.
+      I do not believe that Netanyahu will change his tune. I also believe that most
+      of his private meeting with Trump was spent discussing the next round of attacks
+      on Iran… So much for Trump snagging a Nobel Peace Prize. Neither Trump nor Netanyahu
+      are serious about a peaceful conclusion to Israel’s genocidal war… The killing
+      will continue. I discussed the Charlie Kirk assassination and Ukraine with Nima
+      today. Judge Napolitano and I spent our half-hour together discussing the war
+      in Ukraine. Later in the day, Natalie and Clayton Morris interviewed me about
+      the Charlie Kirk assassination:'
+    one_sentence_summary: The article argues that Donald Trump's Gaza Peace Plan is
+      doomed to fail because it is rejected by Zionists, including Israeli Prime Minister
+      Netanyahu, despite its proposals for a ceasefire and reconstruction amid the ongoing
+      conflict that has caused significant Palestinian casualties.
+    paragraph_summary: The article discusses the unveiling of President Trump's Gaza
+      Peace Plan, which aims to end the ongoing Israel-Hamas conflict that has resulted
+      in significant Palestinian casualties and destruction. The plan, presented in
+      a 20-point framework, includes provisions for an immediate ceasefire, hostage
+      release, disarmament of Hamas, and international oversight, but faces skepticism
+      as it is perceived to be rejected by Zionists, including Israeli Prime Minister
+      Netanyahu, who endorse it primarily for its alignment with Israeli interests.
+      While some Arab and Muslim leaders expressed conditional support for the plan,
+      emphasizing the need for a two-state solution and no displacement, critics, including
+      Palestinian factions, dismissed it as inadequate and potentially harmful. Overall,
+      the plan appears to lack the necessary consensus for effective implementation,
+      leading to its characterization as "dead on arrival."
+    published: '2025-09-30T03:22:17+00:00'
+  - title: Donald Trump’s Proposed Peace Plan for Gaza is DOA
+    url: https://sonar21.com/donald-trumps-proposed-peace-plan-for-gaza-is-d-o-a/
+    text: 'I will give you the bottom line up front: The Zionists, not just Israeli
+      Prime Minister Netanyahu, totally reject a two-state solution. Accordingly, Donald
+      Trump’s Gaza Peace Plan is kaput right out of the gate… Dead on arrival . President
+      Trump, during a White House press conference with Benjamin Netanyahu, unveiled
+      a detailed proposal to end the Israel-Hamas war in Gaza, which has raged since
+      October 2023, and resulted in over 66,000 Palestinian deaths and widespread destruction.
+      The plan, officially titled President Donald J. Trump’s Comprehensive Plan to
+      End the Gaza Conflict , is structured as a 20-point framework (though some reports
+      refer to it as 21-points, possibly including an introductory preamble). It emphasizes
+      an immediate ceasefire, hostage release, Hamas disarmament and exclusion from
+      governance, international oversight, massive reconstruction, and a vague pathway
+      to Palestinian self-determination. Netanyahu endorsed the plan, stating it achieves
+      Israel’s war aims, while Trump warned that Hamas must accept it or face destruction
+      with full US backing for Israel. Hamas stated it had not received the written
+      proposal, but would study it in good faith . The plan builds on elements from
+      earlier US ideas (e.g., Trump’s 2020 Abraham Accords framework and a Saudi-French
+      proposal) and input from figures like former UK Prime Minister Tony Blair, who
+      contributed to postwar governance concepts. It was first presented in a 21-point
+      draft to Arab and Muslim leaders at the UN General Assembly on September 24, 2025,
+      receiving conditional support from countries like Egypt, Jordan, Saudi Arabia,
+      and Qatar, who welcomed efforts to end the war, but stressed no displacement,
+      full Israeli withdrawal, and a two-state solution . Turkey’s President Erdogan
+      commended Trump’s “efforts and leadership” for a ceasefire, while the Palestinian
+      Authority expressed confidence in his ability to find a peace path. Critics, including
+      Palestinian Islamic Jihad , called it a “recipe to blow up the region,” arguing
+      it sidelines Palestinians and allows indefinite Israeli security control. The
+      plan avoids forced displacement, but permits voluntary departures, contrasting
+      with Trump’s controversial February 2025 idea of US-led redevelopment into a “Riviera
+      of the Middle East” with mass resettlement (which faced backlash and was later
+      softened). The biggest tell that this plan is nothing more than a deception was
+      the presence of Trump’s son-in-law, Jared Kushner, at the announcement. Jared’s
+      dream of building resort condos on the Gaza beaches remains intact. Here are the
+      so-called highlights of Trumps proposal: Point Category Details Immediate Ceasefire
+      and Hostage Release – War ends immediately upon mutual acceptance. – All military
+      operations cease; battle lines freeze. – Release of all ~20 living hostages and
+      remains of 25+ deceased within 48–72 hours. – Israel releases thousands of Palestinian
+      prisoners in exchange. – Hostilities paused during negotiations. Hamas Disarmament
+      and Amnesty – Hamas must fully disarm, renounce governance, and dissolve as a
+      military entity. – Amnesty for members committing to “peaceful coexistence” and
+      decommissioning weapons; they can remain in Gaza. – Safe passage for those wishing
+      to leave to receiving countries (no forced expulsion). – Gaza becomes a “deradicalized,
+      terror-free zone” posing no threat to neighbors. Israeli Withdrawal and Security
+      – Gradual Israeli withdrawal from all of Gaza. – Israel retains a “security perimeter/buffer
+      area” until Gaza is deemed secure from terror threats (criteria undefined, potentially
+      indefinite). – Deployment of an international stabilization force (ISF), likely
+      from Arab/Muslim states (e.g., Egypt, UAE), under UN supervision for security
+      handover. Governance and Oversight – Temporary technocratic, apolitical Palestinian
+      committee (qualified Palestinians + international experts) handles day-to-day
+      services (e.g., municipalities, public services). – Supervised by a new “Board
+      of Peace,” chaired by Trump, with members including Tony Blair and other heads
+      of state. – Board oversees framework and funding until Palestinian Authority (PA)
+      completes reforms (per 2020 Trump plan and Saudi-French proposal) and resumes
+      control. – No Israeli occupation or annexation of Gaza or West Bank. Humanitarian
+      Aid and Reconstruction – Immediate, unrestricted aid influx consistent with January
+      19, 2025, agreement: food, water, medical supplies, infrastructure rehab (water,
+      electricity, sewage), hospitals, bakeries, rubble removal. – Rafah crossing opens
+      bidirectionally under prior mechanisms. – “Trump Development Plan”: Redevelop
+      Gaza for residents’ benefit into a prosperous zone (e.g., economic hubs, no specifics
+      on “Riviera” vision). – Funding via international partners; focus on deradicalization
+      and mindset change through interfaith dialogue. Long-Term Political Horizon –
+      U.S.-led dialogue between Israel and Palestinians for “peaceful coexistence.”
+      – Pathway to Palestinian self-determination/statehood as an “aspiration,” contingent
+      on PA reforms, Gaza redevelopment, and security. – Promotes “tolerance” via narrative
+      shifts; Gaza integrated with West Bank in potential state per international law.
+      Trump apparently ignored Netanyahu’s address to the 80th United Nations General
+      Assembly on September 26, 2025… The speech was defiant, focusing on Israel’s military
+      actions in Gaza, accusations of genocide against Israel, and regional threats
+      from Iran and Hezbollah. Regarding the two-state solution—specifically, the establishment
+      of a sovereign Palestinian state—Netanyahu explicitly rejected it as a viable
+      or imminent path, portraying it as a dangerous concession that would enable further
+      attacks against Israel. He argued that such a state would inevitably become a
+      “terror state” controlled by groups like Hamas, citing the October 7, 2023 attack
+      as evidence that Palestinian statehood under current conditions poses an existential
+      threat. His rhetoric emphasized that Israel would not accept imposed solutions
+      from the international community, prioritizing security control over the West
+      Bank (referred to as Judea and Samaria ) and Gaza. During today’s unveiling of
+      the plan at a joint-press conference, Netanyahu endorsed the proposal, but avoided
+      committing to a two-state outcome. He stated, “This plan achieves Israel’s war
+      aims—destroying Hamas military capability, securing our borders, and ensuring
+      Gaza poses no threat.” When pressed on Palestinian statehood, he deflected, saying,
+      “Peace requires security first, not abstract notions of sovereignty that ignore
+      reality.” The Trump plan’s vague “pathway to self-determination” allowed him to
+      sidestep explicit rejection while maintaining Israel’s security control over Gaza
+      and the West Bank. But this was nothing more than political theater targeted at
+      the US public. Netanyahu’s position on the two-state solution has been consistent
+      since October 2023: January 18, 2024 (Press Conference): Netanyahu rejected US
+      calls for a Palestinian state, stating, “In any future arrangement… Israel must
+      have security control over all territory west of the Jordan River. This collides
+      with the idea of sovereignty [for Palestinians].” He argued that a Palestinian
+      state would become a “terror base” like Gaza post-2005 disengagement. February
+      2024 (Cabinet Statement): Amid US and Arab proposals for a Gaza postwar plan with
+      a two-state horizon, Netanyahu’s government passed a resolution rejecting “international
+      diktats” for Palestinian statehood, declaring it would “cause unprecedented harm
+      to Israel” and reward terrorism post-October 7. He emphasized, “Israel will continue
+      to oppose unilateral recognition of a Palestinian state.” July 17, 2024 (Knesset
+      Speech): Addressing renewed international pressure, Netanyahu reiterated, “We
+      will not allow the establishment of a terrorist state in Judea and Samaria [West
+      Bank] that would endanger our existence… The answer is no.” He cited Hamas control
+      of Gaza as proof that Palestinian statehood would lead to Iran-backed militancy.
+      I do not believe that Netanyahu will change his tune. I also believe that most
+      of his private meeting with Trump was spent discussing the next round of attacks
+      on Iran… So much for Trump snagging a Nobel Peace Prize. Neither Trump nor Netanyahu
+      are serious about a peaceful conclusion to Israel’s genocidal war… The killing
+      will continue. I discussed the Charlie Kirk assassination and Ukraine with Nima
+      today. Judge Napolitano and I spent our half-hour together discussing the war
+      in Ukraine. Later in the day, Natalie and Clayton Morris interviewed me about
+      the Charlie Kirk assassination:'
+    one_sentence_summary: The article argues that Donald Trump's Gaza Peace Plan is
+      doomed to fail because it is rejected by Zionists, including Israeli Prime Minister
+      Netanyahu, despite its proposals for a ceasefire and reconstruction amid the ongoing
+      conflict that has caused significant Palestinian casualties.
+    paragraph_summary: The article discusses the unveiling of President Trump's Gaza
+      Peace Plan, which aims to end the ongoing Israel-Hamas conflict that has resulted
+      in significant Palestinian casualties and destruction. The plan, presented in
+      a 20-point framework, includes provisions for an immediate ceasefire, hostage
+      release, disarmament of Hamas, and international oversight, but faces skepticism
+      as it is perceived to be rejected by Zionists, including Israeli Prime Minister
+      Netanyahu, who endorse it primarily for its alignment with Israeli interests.
+      While some Arab and Muslim leaders expressed conditional support for the plan,
+      emphasizing the need for a two-state solution and no displacement, critics, including
+      Palestinian factions, dismissed it as inadequate and potentially harmful. Overall,
+      the plan appears to lack the necessary consensus for effective implementation,
+      leading to its characterization as "dead on arrival."
+    published: '2025-09-30T03:22:17+00:00'
+  - title: Is Tren De Aragua a CIA Operation In Order to Justify an Attack on Venezuela?
+    url: https://sonar21.com/is-tren-de-aragua-a-cia-operation-in-order-to-justify-an-attack-on-venezuela/
+    text: 'Maduro and Assad You will likely ask: Why is your headline about Venezuela
+      but you begin your article by discussing the new leader in Syria? A fair question,
+      and here is the simple answer: Given the massive buildup of US forces off the
+      coast, is the supposed threat posed by Tren de Aragua genuine, or is it an intelligence
+      operation designed to create a justification to carry out a regime change in Venezuela?
+      We know from publicly available evidence that the CIA has a history of providing
+      support to radical Islamic groups in contravention of publicly stated US policy
+      to oppose such groups. Hay’at Tahrir al-Sham , which is headed by the newly installed
+      president of Syria, Ahmed Hussein al-Sharaa, formerly known as Abu Mohammad al-Julani,
+      is the latest example. Al-Sharaa was born in 1982 in Riyadh, Saudi Arabia, to
+      a Syrian Sunni Muslim family from the Golan Heights, and he grew up in Damascus,
+      Syria. He joined al-Qaeda in Iraq (AQI) shortly before the 2003 US invasion of
+      Iraq and fought in the Iraqi insurgency for three years. He was captured by American
+      forces in 2006 and imprisoned until 2011. After his release, coinciding with the
+      start of the Syrian Revolution, he founded the al-Nusra Front in 2012, an al-Qaeda
+      affiliate aiming to topple Bashar al-Assad’s regime during the Syrian civil war,
+      which happened to coincide with US policy… Just a coincidence? By 2016, al-Sharaa
+      cut ties with al-Qaeda , rebranded his group, and merged with other factions to
+      form Hay’at Tahrir al-Sham ( HTS ), which controlled much of Idlib Governorate.
+      HTS operated a technocratic administration known as the Syrian Salvation Government,
+      providing some public services but also suppressing dissent. I believe that this
+      separation from al-Qaeda coincided with him becoming affiliated with Western intelligence
+      organizations. Although he was brought to power with the assistance of Western
+      intelligence organizations, multiple reports and investigations from multiple
+      sources confirm that forces aligned with Ahmed al-Sharaa and his government in
+      Syria have continued to carry out widespread sectarian violence, persecution,
+      and massacres targeting religious minorities including Christians, Alawites, Druze,
+      and Shia Muslims. Key points include: • From March 2025, a series of mass killings
+      targeting Alawite communities occurred, involving door-to-door interrogations
+      and executions based solely on sectarian identity. These massacres resulted in
+      over a thousand deaths and involved Syrian government forces and allied militias.
+      Al-Sharaa denied direct responsibility and blamed remnants of the Assad regime,
+      but human rights groups have implicated forces loyal to him in the violence. Videos
+      have surfaced showing Ministry of Defense personnel engaging in sectarian killing
+      operations. • The U.S. Commission on International Religious Freedom reported
+      ongoing religious persecutions by forces loyal to Hay’at Tahrir al-Sham (HTS),
+      which al-Sharaa once commanded. Persecutions against Alawites, Druze, Shia Muslims,
+      and Christians have included mass killings, kidnappings, intimidation, and looting
+      by Islamist militias affiliated with the new Syrian government. • Despite pledges
+      from al-Sharaa’s government to protect religious minorities, evidence indicates
+      continued violence and discrimination. Christian and Druze populations report
+      fear and suffering under the new regime, which retains militant elements associated
+      with terrorist designations. • Human rights organizations such as Amnesty International
+      have called for full investigations into the civilian killings and human rights
+      abuses under al-Sharaa’s government. This evidence shows that the situation for
+      religious minorities under Ahmed al-Sharaa’s rule is precarious, with significant
+      reports of sectarian violence and persecution alongside official denials or counterclaims
+      from the government. And yet, the US government aligned itself with this head-chopper
+      . Based on this precedent, it is not a wild leap to ask the question: Is the CIA
+      involved with creating the Tren de Aragua threat in order to justify a regime
+      change in Venezuela? Circumstantial evidence says, yes ! First Mention in News
+      Media The earliest documented mention of Tren de Aragua in US news media appears
+      in a June 9, 2024 , CNN article titled Tren de Aragua: The Venezuelan gang infiltrating
+      the US . This report detailed the gang’s origins in a Venezuelan prison, its expansion
+      into South America, and emerging activities in the US, including over 70 linked
+      cases in law enforcement documents. Prior mentions in international media ( e.g.,
+      in Peru in 2018 ) exist, but this marks the first significant US-focused coverage,
+      coinciding with federal investigations into its US operations. Pay attention to
+      the 2018 date… More about that in a bit. First Mention in a US Government Publication
+      The US Department of the Treasury’s Office of Foreign Assets Control (OFAC) first
+      officially mentioned Tren de Aragua on July 10, 2024 , in a press release sanctioning
+      it as a transnational criminal organization. The release highlighted its involvement
+      in human smuggling, trafficking, gender-based violence, money laundering, and
+      drug trafficking across the Western Hemisphere, including the US. This predates
+      subsequent actions, such as DHS references to arrests starting in May 2023 (retrospectively
+      noted in 2025 reports) and later designations in 2025. No publicly declassified
+      or confirmed CIA operation specifically named for the purpose of overthrowing
+      Nicolás Maduro’s government exists in available records. The US government has
+      consistently denied direct involvement in coup attempts or assassinations, labeling
+      such Venezuelan claims as categorically false . However, reporting reveals a secret
+      Trump-era CIA-assisted covert initiative aimed at regime change through nonviolent
+      disruption, such as a 2019 hack of Venezuela’s military payroll system to sow
+      discontent among troops. This unnamed program involved internal CIA debates over
+      resources and alignment with broader US policy, but it did not achieve Maduro’s
+      ouster and remains partially classified. Operation/Incident Agency Description
+      Outcome Unnamed CIA Regime Change Campaign (2019) CIA Covert support for opposition,
+      including digital sabotage of military systems to undermine loyalty to Maduro.
+      Involved meetings on ship interdiction options against Venezuelan-Cuban oil trade.
+      Failed to depose Maduro; details emerged via anonymous officials in 2024 reporting.
+      Operation Gideon (Operación Gedeón) (2020) Private (Silvercorp USA); alleged U.S.
+      awareness Failed amphibious invasion by Venezuelan exiles to capture Maduro; compared
+      to Bay of Pigs. U.S. officials (including CIA) reportedly knew of plans but denied
+      direct involvement. 13 arrested; labeled a “false flag” by Maduro. Operation Money
+      Badger (2013–2018+) DEA Undercover ops to record Venezuelan officials (including
+      Maduro) for drug-trafficking cases; expanded unilaterally despite international
+      law concerns. Led to 2020 indictments; memo leaked in 2024. Unnamed Assassination
+      Plot (2024) Alleged CIA/Spanish intel Venezuelan arrests of 3 Americans (incl.
+      Navy SEAL), 2 Spaniards, 1 Czech for plot to kill Maduro; tied to $15M U.S. bounty.
+      U.S. denial; weapons seized per Maduro claims. These reflect a pattern of US maximum
+      pressure tactics (sanctions, indictments, cyber ops) since 2018 , but no single,
+      named CIA overthrow operation has been acknowledged or declassified. Maduro frequently
+      accuses the CIA of plots to justify repression, though evidence is often lacking.
+      Did you catch the date in the preceding sentence? The maximum pressure to oust
+      Maduro started in 2018, which just happens to coincide with the first mention
+      of Tren de Aragua in the Peruvian press in 2018. Hmmmm… Just a coincidence? I
+      know based on my previous experience that it is highly likely that CIA assets
+      were used to plant stories in the media, including social media, to build a narrative
+      that Tren de Aragua is a threat to the US that justifies the use of military force.
+      Is it possible that Donald Trump signed a classified finding in 2018 that authorized
+      a CIA covert action program to remove Nicholas Maduro from power, and is it likely
+      that program is still in operation? I think so… What do you think? I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The article raises concerns about the potential U.S. military
+      buildup near Venezuela, questioning whether the perceived threat from the Tren
+      de Aragua gang is genuine or a pretext for regime change, while drawing parallels
+      to the U.S. support for radical groups like Hay’at Tahrir al-Sham in Syria, led
+      by Ahmed Hussein al-Sharaa.
+    paragraph_summary: The article discusses the potential motivations behind the U.S.
+      military buildup off the coast of Venezuela, questioning whether the perceived
+      threat from the Tren de Aragua gang is genuine or a pretext for regime change
+      in Venezuela. It highlights the controversial history of U.S. intelligence operations,
+      particularly the CIA's past support for radical Islamic groups, exemplified by
+      the rise of Ahmed Hussein al-Sharaa, the new leader in Syria. Al-Sharaa, who has
+      a background in al-Qaeda and was involved in the Syrian civil war, rebranded his
+      group to Hay’at Tahrir al-Sham (HTS) and now leads a faction that has received
+      backing from Western intelligence. The article suggests that this connection raises
+      concerns about the implications for U.S. foreign policy and its historical patterns
+      of intervention.
+    published: '2025-09-29T02:48:36+00:00'
+  - title: Is Tren De Aragua a CIA Operation In Order to Justify an Attack on Venezuela?
+    url: https://sonar21.com/is-tren-de-aragua-a-cia-operation-in-order-to-justify-an-attack-on-venezuela/
+    text: 'Maduro and Assad You will likely ask: Why is your headline about Venezuela
+      but you begin your article by discussing the new leader in Syria? A fair question,
+      and here is the simple answer: Given the massive buildup of US forces off the
+      coast, is the supposed threat posed by Tren de Aragua genuine, or is it an intelligence
+      operation designed to create a justification to carry out a regime change in Venezuela?
+      We know from publicly available evidence that the CIA has a history of providing
+      support to radical Islamic groups in contravention of publicly stated US policy
+      to oppose such groups. Hay’at Tahrir al-Sham , which is headed by the newly installed
+      president of Syria, Ahmed Hussein al-Sharaa, formerly known as Abu Mohammad al-Julani,
+      is the latest example. Al-Sharaa was born in 1982 in Riyadh, Saudi Arabia, to
+      a Syrian Sunni Muslim family from the Golan Heights, and he grew up in Damascus,
+      Syria. He joined al-Qaeda in Iraq (AQI) shortly before the 2003 US invasion of
+      Iraq and fought in the Iraqi insurgency for three years. He was captured by American
+      forces in 2006 and imprisoned until 2011. After his release, coinciding with the
+      start of the Syrian Revolution, he founded the al-Nusra Front in 2012, an al-Qaeda
+      affiliate aiming to topple Bashar al-Assad’s regime during the Syrian civil war,
+      which happened to coincide with US policy… Just a coincidence? By 2016, al-Sharaa
+      cut ties with al-Qaeda , rebranded his group, and merged with other factions to
+      form Hay’at Tahrir al-Sham ( HTS ), which controlled much of Idlib Governorate.
+      HTS operated a technocratic administration known as the Syrian Salvation Government,
+      providing some public services but also suppressing dissent. I believe that this
+      separation from al-Qaeda coincided with him becoming affiliated with Western intelligence
+      organizations. Although he was brought to power with the assistance of Western
+      intelligence organizations, multiple reports and investigations from multiple
+      sources confirm that forces aligned with Ahmed al-Sharaa and his government in
+      Syria have continued to carry out widespread sectarian violence, persecution,
+      and massacres targeting religious minorities including Christians, Alawites, Druze,
+      and Shia Muslims. Key points include: • From March 2025, a series of mass killings
+      targeting Alawite communities occurred, involving door-to-door interrogations
+      and executions based solely on sectarian identity. These massacres resulted in
+      over a thousand deaths and involved Syrian government forces and allied militias.
+      Al-Sharaa denied direct responsibility and blamed remnants of the Assad regime,
+      but human rights groups have implicated forces loyal to him in the violence. Videos
+      have surfaced showing Ministry of Defense personnel engaging in sectarian killing
+      operations. • The U.S. Commission on International Religious Freedom reported
+      ongoing religious persecutions by forces loyal to Hay’at Tahrir al-Sham (HTS),
+      which al-Sharaa once commanded. Persecutions against Alawites, Druze, Shia Muslims,
+      and Christians have included mass killings, kidnappings, intimidation, and looting
+      by Islamist militias affiliated with the new Syrian government. • Despite pledges
+      from al-Sharaa’s government to protect religious minorities, evidence indicates
+      continued violence and discrimination. Christian and Druze populations report
+      fear and suffering under the new regime, which retains militant elements associated
+      with terrorist designations. • Human rights organizations such as Amnesty International
+      have called for full investigations into the civilian killings and human rights
+      abuses under al-Sharaa’s government. This evidence shows that the situation for
+      religious minorities under Ahmed al-Sharaa’s rule is precarious, with significant
+      reports of sectarian violence and persecution alongside official denials or counterclaims
+      from the government. And yet, the US government aligned itself with this head-chopper
+      . Based on this precedent, it is not a wild leap to ask the question: Is the CIA
+      involved with creating the Tren de Aragua threat in order to justify a regime
+      change in Venezuela? Circumstantial evidence says, yes ! First Mention in News
+      Media The earliest documented mention of Tren de Aragua in US news media appears
+      in a June 9, 2024 , CNN article titled Tren de Aragua: The Venezuelan gang infiltrating
+      the US . This report detailed the gang’s origins in a Venezuelan prison, its expansion
+      into South America, and emerging activities in the US, including over 70 linked
+      cases in law enforcement documents. Prior mentions in international media ( e.g.,
+      in Peru in 2018 ) exist, but this marks the first significant US-focused coverage,
+      coinciding with federal investigations into its US operations. Pay attention to
+      the 2018 date… More about that in a bit. First Mention in a US Government Publication
+      The US Department of the Treasury’s Office of Foreign Assets Control (OFAC) first
+      officially mentioned Tren de Aragua on July 10, 2024 , in a press release sanctioning
+      it as a transnational criminal organization. The release highlighted its involvement
+      in human smuggling, trafficking, gender-based violence, money laundering, and
+      drug trafficking across the Western Hemisphere, including the US. This predates
+      subsequent actions, such as DHS references to arrests starting in May 2023 (retrospectively
+      noted in 2025 reports) and later designations in 2025. No publicly declassified
+      or confirmed CIA operation specifically named for the purpose of overthrowing
+      Nicolás Maduro’s government exists in available records. The US government has
+      consistently denied direct involvement in coup attempts or assassinations, labeling
+      such Venezuelan claims as categorically false . However, reporting reveals a secret
+      Trump-era CIA-assisted covert initiative aimed at regime change through nonviolent
+      disruption, such as a 2019 hack of Venezuela’s military payroll system to sow
+      discontent among troops. This unnamed program involved internal CIA debates over
+      resources and alignment with broader US policy, but it did not achieve Maduro’s
+      ouster and remains partially classified. Operation/Incident Agency Description
+      Outcome Unnamed CIA Regime Change Campaign (2019) CIA Covert support for opposition,
+      including digital sabotage of military systems to undermine loyalty to Maduro.
+      Involved meetings on ship interdiction options against Venezuelan-Cuban oil trade.
+      Failed to depose Maduro; details emerged via anonymous officials in 2024 reporting.
+      Operation Gideon (Operación Gedeón) (2020) Private (Silvercorp USA); alleged U.S.
+      awareness Failed amphibious invasion by Venezuelan exiles to capture Maduro; compared
+      to Bay of Pigs. U.S. officials (including CIA) reportedly knew of plans but denied
+      direct involvement. 13 arrested; labeled a “false flag” by Maduro. Operation Money
+      Badger (2013–2018+) DEA Undercover ops to record Venezuelan officials (including
+      Maduro) for drug-trafficking cases; expanded unilaterally despite international
+      law concerns. Led to 2020 indictments; memo leaked in 2024. Unnamed Assassination
+      Plot (2024) Alleged CIA/Spanish intel Venezuelan arrests of 3 Americans (incl.
+      Navy SEAL), 2 Spaniards, 1 Czech for plot to kill Maduro; tied to $15M U.S. bounty.
+      U.S. denial; weapons seized per Maduro claims. These reflect a pattern of US maximum
+      pressure tactics (sanctions, indictments, cyber ops) since 2018 , but no single,
+      named CIA overthrow operation has been acknowledged or declassified. Maduro frequently
+      accuses the CIA of plots to justify repression, though evidence is often lacking.
+      Did you catch the date in the preceding sentence? The maximum pressure to oust
+      Maduro started in 2018, which just happens to coincide with the first mention
+      of Tren de Aragua in the Peruvian press in 2018. Hmmmm… Just a coincidence? I
+      know based on my previous experience that it is highly likely that CIA assets
+      were used to plant stories in the media, including social media, to build a narrative
+      that Tren de Aragua is a threat to the US that justifies the use of military force.
+      Is it possible that Donald Trump signed a classified finding in 2018 that authorized
+      a CIA covert action program to remove Nicholas Maduro from power, and is it likely
+      that program is still in operation? I think so… What do you think? I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The article raises concerns about the potential U.S. military
+      buildup near Venezuela, questioning whether the perceived threat from the Tren
+      de Aragua gang is genuine or a pretext for regime change, while drawing parallels
+      to the U.S. support for radical groups like Hay’at Tahrir al-Sham in Syria, led
+      by Ahmed Hussein al-Sharaa.
+    paragraph_summary: The article discusses the potential motivations behind the U.S.
+      military buildup off the coast of Venezuela, questioning whether the perceived
+      threat from the Tren de Aragua gang is genuine or a pretext for regime change
+      in Venezuela. It highlights the controversial history of U.S. intelligence operations,
+      particularly the CIA's past support for radical Islamic groups, exemplified by
+      the rise of Ahmed Hussein al-Sharaa, the new leader in Syria. Al-Sharaa, who has
+      a background in al-Qaeda and was involved in the Syrian civil war, rebranded his
+      group to Hay’at Tahrir al-Sham (HTS) and now leads a faction that has received
+      backing from Western intelligence. The article suggests that this connection raises
+      concerns about the implications for U.S. foreign policy and its historical patterns
+      of intervention.
+    published: '2025-09-29T02:48:36+00:00'
+  - title: Chris Martenson Decimates the Various Conspiracy Theories About Charlie Kirk’s
+      Murder
+    url: https://sonar21.com/chris-martenson-decimates-the-various-conspiracy-theories-about-charlie-kirks-murder/
+    text: 'Chris Martenson is out with a terrific video analysis that rebuts many of
+      the false claims circulating on social media about who shot Charlie Kirk. Martenson
+      proves beyond a reasonable doubt that it was not a .30-06 round that took Charlie’s
+      life. I am posting below a video of a dummy composed of ballistic gel and a human
+      skull that is a sickening illustration of the actual power of the .30-06. It also
+      was not a pistol of any kind, especially the alleged palm pistol . What about
+      the alleged exploding microphone ? Debunked as well. If you have ever had the
+      chance to fire a revolver or a semi-automatic pistol, you would know there is
+      this phenomenon called recoil . Recoil from a pistol round is the backward movement
+      or kick a shooter feels when the pistol is fired. This force results from the
+      conservation of momentum: As the bullet and expanding gases are propelled forward,
+      the pistol itself is pushed backward with equal force in the opposite direction.
+      The amount of recoil depends on the mass and velocity of both the bullet and gases,
+      as well as the mass of the pistol. In technical terms, recoil is a physical response
+      to Newton’s third law, and is mathematically defined as the product of the mass
+      and acceleration of the ejecta (bullet and gases), reversed and imparted to the
+      gun. This force is experienced by the shooter as an impulse, which they must absorb
+      and counteract, resulting in a noticeable rearward kick from each shot. The same
+      applies to the microphone. If that microphone had launched a projectile at Charlie’s
+      neck, the microphone should have moved violently to Charlie’s right… It did no
+      such thing. Here is the video of the .30-06 round hitting a replica of a human
+      head: The central question remains… Who shot Charlie? If Robinson was involved
+      in this plot — and I believe that more than Mr. Robinson was involved — his role
+      was to be the patsy … Distract officials from the trail of the actual shooter:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Chris Martenson's video analysis effectively debunks various
+      false claims about the circumstances surrounding Charlie Kirk's death, confirming
+      that he was not shot with a .30-06 round or any type of pistol, and also refuting
+      the myth of an exploding microphone.
+    paragraph_summary: Chris Martenson has released a video analysis that effectively
+      debunks various false claims regarding the circumstances surrounding Charlie Kirk's
+      death, specifically refuting the notion that he was shot with a .30-06 round or
+      any type of pistol, including the rumored palm pistol. Martenson illustrates the
+      power of a .30-06 round using ballistic gel and a human skull, demonstrating that
+      the physical properties of recoil from firearms contradict the claims made about
+      the shooting. He also dismisses the idea of an exploding microphone as a potential
+      weapon, explaining that such an event would have resulted in noticeable movement
+      of the microphone, which did not occur. While the investigation into who actually
+      shot Charlie remains open, Martenson suggests that if a person named Robinson
+      was involved, he may have been a scapegoat to divert attention from the true shooter.
+    published: '2025-09-28T02:41:04+00:00'
+  - title: Chris Martenson Decimates the Various Conspiracy Theories About Charlie Kirk’s
+      Murder
+    url: https://sonar21.com/chris-martenson-decimates-the-various-conspiracy-theories-about-charlie-kirks-murder/
+    text: 'Chris Martenson is out with a terrific video analysis that rebuts many of
+      the false claims circulating on social media about who shot Charlie Kirk. Martenson
+      proves beyond a reasonable doubt that it was not a .30-06 round that took Charlie’s
+      life. I am posting below a video of a dummy composed of ballistic gel and a human
+      skull that is a sickening illustration of the actual power of the .30-06. It also
+      was not a pistol of any kind, especially the alleged palm pistol . What about
+      the alleged exploding microphone ? Debunked as well. If you have ever had the
+      chance to fire a revolver or a semi-automatic pistol, you would know there is
+      this phenomenon called recoil . Recoil from a pistol round is the backward movement
+      or kick a shooter feels when the pistol is fired. This force results from the
+      conservation of momentum: As the bullet and expanding gases are propelled forward,
+      the pistol itself is pushed backward with equal force in the opposite direction.
+      The amount of recoil depends on the mass and velocity of both the bullet and gases,
+      as well as the mass of the pistol. In technical terms, recoil is a physical response
+      to Newton’s third law, and is mathematically defined as the product of the mass
+      and acceleration of the ejecta (bullet and gases), reversed and imparted to the
+      gun. This force is experienced by the shooter as an impulse, which they must absorb
+      and counteract, resulting in a noticeable rearward kick from each shot. The same
+      applies to the microphone. If that microphone had launched a projectile at Charlie’s
+      neck, the microphone should have moved violently to Charlie’s right… It did no
+      such thing. Here is the video of the .30-06 round hitting a replica of a human
+      head: The central question remains… Who shot Charlie? If Robinson was involved
+      in this plot — and I believe that more than Mr. Robinson was involved — his role
+      was to be the patsy … Distract officials from the trail of the actual shooter:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Chris Martenson's video analysis effectively debunks various
+      false claims about the circumstances surrounding Charlie Kirk's death, confirming
+      that he was not shot with a .30-06 round or any type of pistol, and also refuting
+      the myth of an exploding microphone.
+    paragraph_summary: Chris Martenson has released a video analysis that effectively
+      debunks various false claims regarding the circumstances surrounding Charlie Kirk's
+      death, specifically refuting the notion that he was shot with a .30-06 round or
+      any type of pistol, including the rumored palm pistol. Martenson illustrates the
+      power of a .30-06 round using ballistic gel and a human skull, demonstrating that
+      the physical properties of recoil from firearms contradict the claims made about
+      the shooting. He also dismisses the idea of an exploding microphone as a potential
+      weapon, explaining that such an event would have resulted in noticeable movement
+      of the microphone, which did not occur. While the investigation into who actually
+      shot Charlie remains open, Martenson suggests that if a person named Robinson
+      was involved, he may have been a scapegoat to divert attention from the true shooter.
+    published: '2025-09-28T02:41:04+00:00'
+  - title: Is Ukraine Preparing a False Flag?
+    url: https://sonar21.com/is-ukraine-preparing-a-false-flag/
+    text: 'I received the following from one of my loyal readers. Judge for yourself:
+      World War III will start very soon if the information about Kyiv’s plans to carry
+      out a false-flag operation in Romania and Poland is confirmed. According to the
+      available information, the plan is to repair several downed Russian UAVs, send
+      them — disguised as ‘Russian drones’ — to NATO hubs in Poland and Romania, conduct
+      a disinformation campaign in Europe with the intent to blame everything on Moscow
+      and thereby trigger an armed conflict between Russia and NATO.” (c) Russian MFA
+      On Kyiv’s plans to carry out a false-flag operation in Romania and Poland Today
+      several Hungarian media outlets reported on Zelensky’s plans to carry out sabotage
+      in Romania and Poland in order to blame Russia. Thus, on Bankova they are preparing
+      their own “Gleiwitz incident” — to create a casus belli for a war between Russia
+      and NATO. According to the available information, the Kyiv regime’s plan is as
+      follows: Repair several downed or intercepted Russian UAVs. Equip them with a
+      combat warhead. Send UAVs controlled by Ukrainian specialists — disguised as “Russian
+      drones” — to major NATO transport hubs in Poland and Romania. Simultaneously conduct
+      a disinformation campaign in Europe to blame everything on Moscow. Ignite an armed
+      conflict between the Russian Federation and NATO. To carry out this provocation,
+      on September 16 Russian “Geran” UAVs were already brought to the Yavoriv training
+      ground in Western Ukraine, where the International Center for Peacekeeping and
+      Security of the Hetman Petro Sahaidachny National Academy is located. They were
+      previously repaired in Lviv at the LORTA plant. As Hungarian journalists write,
+      the reason for these actions by Zelensky is simple: the AFU is suffering a crushing
+      defeat. The army’s collapse is no longer at the tactical level; it is taking on
+      a strategic character. If all this is confirmed, then we must admit… Never in
+      modern times has Europe been so close to the start of World War III. I am hoping
+      that Donald Trump’s Truth Social post, in which he dumped the Ukraine war onto
+      Europe’s back, will give Romania and Poland pause in going along with this scheme
+      because there is no guarantee that the US will come to their aid. However, desperate
+      people to desperate things. I discussed the Palestinian crisis and the war in
+      Ukraine with Nima and Colonel Wilkerson today: Judge Nap, Ray and I did our usual
+      Friday gig: Christian White, a relatively new YouTuber , interviewed me on Tuesday.
+      I received the link late yesterday: I thank you for your invaluable support by
+      taking time to read or comment. I do not charge a subscription fee nor do I accept
+      advertising. I want the content to be accessible to everyone interested in the
+      issues I am discussing. However, if you wish to make a donation, please see this
+      link .'
+    one_sentence_summary: The article claims that there are allegations of Kyiv planning
+      a false-flag operation involving repaired Russian drones to provoke a conflict
+      between Russia and NATO, potentially leading to World War III.
+    paragraph_summary: The article discusses alarming claims regarding Ukraine's alleged
+      plans to execute a false-flag operation in Romania and Poland, potentially igniting
+      World War III. According to reports, Ukrainian forces are purportedly preparing
+      to repair downed Russian drones, disguise them as Russian UAVs, and deploy them
+      to NATO transport hubs in these countries while simultaneously launching a disinformation
+      campaign to blame Russia. This strategy is suggested to be a desperate measure
+      by Ukraine amid significant military setbacks, aiming to provoke an armed conflict
+      between Russia and NATO. The article cites Hungarian media sources and suggests
+      that if these plans are confirmed, Europe could be on the brink of a major conflict.
+    published: '2025-09-27T02:59:33+00:00'
+  - title: Is Ukraine Preparing a False Flag?
+    url: https://sonar21.com/is-ukraine-preparing-a-false-flag/
+    text: 'I received the following from one of my loyal readers. Judge for yourself:
+      World War III will start very soon if the information about Kyiv’s plans to carry
+      out a false-flag operation in Romania and Poland is confirmed. According to the
+      available information, the plan is to repair several downed Russian UAVs, send
+      them — disguised as ‘Russian drones’ — to NATO hubs in Poland and Romania, conduct
+      a disinformation campaign in Europe with the intent to blame everything on Moscow
+      and thereby trigger an armed conflict between Russia and NATO.” (c) Russian MFA
+      On Kyiv’s plans to carry out a false-flag operation in Romania and Poland Today
+      several Hungarian media outlets reported on Zelensky’s plans to carry out sabotage
+      in Romania and Poland in order to blame Russia. Thus, on Bankova they are preparing
+      their own “Gleiwitz incident” — to create a casus belli for a war between Russia
+      and NATO. According to the available information, the Kyiv regime’s plan is as
+      follows: Repair several downed or intercepted Russian UAVs. Equip them with a
+      combat warhead. Send UAVs controlled by Ukrainian specialists — disguised as “Russian
+      drones” — to major NATO transport hubs in Poland and Romania. Simultaneously conduct
+      a disinformation campaign in Europe to blame everything on Moscow. Ignite an armed
+      conflict between the Russian Federation and NATO. To carry out this provocation,
+      on September 16 Russian “Geran” UAVs were already brought to the Yavoriv training
+      ground in Western Ukraine, where the International Center for Peacekeeping and
+      Security of the Hetman Petro Sahaidachny National Academy is located. They were
+      previously repaired in Lviv at the LORTA plant. As Hungarian journalists write,
+      the reason for these actions by Zelensky is simple: the AFU is suffering a crushing
+      defeat. The army’s collapse is no longer at the tactical level; it is taking on
+      a strategic character. If all this is confirmed, then we must admit… Never in
+      modern times has Europe been so close to the start of World War III. I am hoping
+      that Donald Trump’s Truth Social post, in which he dumped the Ukraine war onto
+      Europe’s back, will give Romania and Poland pause in going along with this scheme
+      because there is no guarantee that the US will come to their aid. However, desperate
+      people to desperate things. I discussed the Palestinian crisis and the war in
+      Ukraine with Nima and Colonel Wilkerson today: Judge Nap, Ray and I did our usual
+      Friday gig: Christian White, a relatively new YouTuber , interviewed me on Tuesday.
+      I received the link late yesterday: I thank you for your invaluable support by
+      taking time to read or comment. I do not charge a subscription fee nor do I accept
+      advertising. I want the content to be accessible to everyone interested in the
+      issues I am discussing. However, if you wish to make a donation, please see this
+      link .'
+    one_sentence_summary: The article claims that there are allegations of Kyiv planning
+      a false-flag operation involving repaired Russian drones to provoke a conflict
+      between Russia and NATO, potentially leading to World War III.
+    paragraph_summary: The article discusses alarming claims regarding Ukraine's alleged
+      plans to execute a false-flag operation in Romania and Poland, potentially igniting
+      World War III. According to reports, Ukrainian forces are purportedly preparing
+      to repair downed Russian drones, disguise them as Russian UAVs, and deploy them
+      to NATO transport hubs in these countries while simultaneously launching a disinformation
+      campaign to blame Russia. This strategy is suggested to be a desperate measure
+      by Ukraine amid significant military setbacks, aiming to provoke an armed conflict
+      between Russia and NATO. The article cites Hungarian media sources and suggests
+      that if these plans are confirmed, Europe could be on the brink of a major conflict.
+    published: '2025-09-27T02:59:33+00:00'
+  - title: Nazigate! Enjoy this Animated Satirical Flic and Watch Don Quixote take on
+      the Ukrainian Waffen SS!
+    url: https://sonar21.com/nazigate-enjoy-this-animated-satirical-flic-and-watch-don-quixote-take-on-the-ukrainian-waffen-ss/
+    text: 'By Richard Sanders Watch this film on Youtube: Nazigate! Don Quixote takes
+      on the Ukrainian Waffen SS Join us on Facebook: Quixote News Network This fun
+      satirical film from the Quixote News Network (QNN), uses surreal animations and
+      some diverse tunes to blast through the bull crap of official narratives and expose
+      some hunking great controversies that Canada’s government, and its fearmongering
+      media propagandists, are keen to keep hidden in their vast skeleton-laden closets.
+      The animation is inspired by Monty Python, Sisyphus beetles, dung-rolling bureaucrats,
+      Elvis’ “ Hunka Burnin Love,” the Spanish Surrealists (who nobody expected), CIA
+      whistleblowers, the slapstick humour of Groucho Marxists and Rosie, QNN’s fearlessly
+      “Riveting Reporter.” Spoiler alert! Viewers should also be warned that this film
+      gets down to the seriously silly business of proposing “The Sisyphean Dung-Ball
+      Theory of Social Change.” Is that really a thing, you ask? Watch the film and
+      you’ll find out! Who’d have thought Canada would have such a big Ukrainian Nazi
+      problem? Some Historical Context: Canada has the largest population of ethnic
+      Ukrainians outside Ukraine. Before WWII, the Ukrainian community in Canada was
+      feared as a grave threat to the powers that be. Why? Because they were then dominated
+      by lefty organizations. By that I mean, Canada’s preWWII Ukrainians included communists,
+      socialists and militant labour activists. Some shamelessly protested Canada’s
+      imperialist authorities, led big strikes and some even supported the Bolshevik
+      Revolution. Once-secret letters between Canada’s top politicians and their generals
+      reveal that Canadian elites were paranoid about the threat of a coming revolution
+      from these working class heroes. During the “First Red Scare” (1918-1920), Canada’s
+      military forced several thousand radical urban unemployed Ukrainian men into what
+      the government then called “concentration camps.” Once interned, they were forced
+      into slave labour. So, after WWII, Canadian political elites decided to import
+      4,000 veterans from armed ethnofascist Ukrainian formations, including the Waffen
+      SS Galicia, Bandera’s army, and the Roland and Nachtigall Battalions that took
+      part in Hitler’s massive Barbarossa invasion. The huge influx of these Ukrainian
+      veterans into Canada, was bolstered by tens of thousands of their family members
+      and supporters. A key goal of this move was to deal a devastating blow to the
+      Ukrainian Canadian Left. (To learn more about this, here’s a 2016 article of mine
+      on a century of conflict between Right and Leftwing Ukrainians in Canada. Enough
+      context already ! Here’s more on this Satirical Pythonesque Animation ! Jam-packed
+      with back-to-back music and crafty visual antics, this film also packs a lighthearted
+      punch with many hard-hitting facts that dare to ridicule a silly slew of officious
+      narratives covering up Canada’s longstanding support for postwar Ukrainian-Canadian
+      organizations that still glorify their Nazi-collaborating forebears. Canada’s
+      longstanding support for far-right Ukrainians, finally went viral and became known
+      as the Hunkagate affair. This scandal broke out into the open when a dung ball
+      hit the proverbial fan in Canada’s Parliament, two years ago this week. To control
+      the foul splatter, Canada’s propaganda bureaucrats got quickly to work rolling
+      out newly-spun versions of the Mighty Wurlitzer’s official BS narratives on Ukraine.
+      Back in 1978, a heroic CIA whistleblower, Victor Marchetti, explained this process
+      by saying: “A ‘limited hangout’ is spy jargon for a favorite and frequently used
+      gimmick of the clandestine professionals. When their veil of secrecy is shredded
+      and they can no longer rely on a phony cover story to misinform the public, they
+      resort to admitting—sometimes even volunteering—some of the truth while still
+      managing to withhold the key and damaging facts in the case. The public, however,
+      is usually so intrigued by the new information that it never thinks to pursue
+      the matter further.” ( Spotlight, Aug. 14, 1978 ) A Summary of the Hunkagate Incident
+      On September 22, 2023, after visiting Washington, President Zelenskyy (a former
+      comedic actor), dropped in like a Zeppelin on Canada’s Parliament. The Speaker
+      of the House, Tony Rota, took that dignified and stately opportunity to make the
+      biggest faux pas of his soon-to-be very short political life. With great gusto,
+      Rota happily hailed a Ukrainian Waffen SS veteran, Yaroslav Hunka, who was sitting
+      up in the bleachers watching the whole spectacle unfold. When Rota praised this
+      former SS man as a “hero” for having “fought the Russians” in WWII, every single
+      MP instantly jumped to their feet and gave loud enthusiastic ovations of applause.
+      It was quite a day, and Canada has arguably been a slightly different place ever
+      since. It hasn’t been nearly different enough mind you, but these things take
+      time… The Struggle Continues, eh? Yes, certain Canadian myths have been taking
+      a bit of beating since then, but unfortunately there’s still a long way to go
+      before we can even hope to have a dream that we’ve finally done away with the
+      diehard fake news that Canada is a wondrous beacon of peace, justice, democracy
+      and joy enlightening the world. Bigger Badder Scandals hiding behind Hunkagate
+      Hunka is just the tip of an iceberg. Although ships of all kinds, including ships
+      of state, can sink by hitting icebergs, it’s what’s hiding under the water that
+      brings them down. The tip is visible, but its not much of a real threat. The REAL
+      scandal here is NOT that Canadian politicians saluted Hunka as a hero. He was
+      after all only one of thousands of Ukrainian veterans from fascist armies, that
+      were given safe haven and then hid out in Canada for all those decades after the
+      war. And let’s not forget that every Canadian government since WWII has funded
+      Ukrainian-Canadian organizations that use their monuments, publications, events
+      and programs to glorify their Nazi-collaborating “war heroes.” Finally, since
+      the idea of iconic cultural “heroes” is a powerful theme running through the animation,
+      I’ll end with the story of Canadian Prime Minister Lester B. Pearson. He appears
+      during the flaming Zeppelensky scene in an intense visual flurry of images and
+      text. Despite winning the Nobel Peace Prize, and being heralded as a “peace hero”
+      by many Canadians, Pearson was virulent Cold Warrior. He supported American wars
+      all around the world, proudly encouraged billions in weapons exports to the US
+      and even welcomed US nuclear missiles into Canada soon after coming to power in
+      a 1963 constitutional coup that was orchestrated by NATO’s top brass, JFK’s State
+      Department, the CIA, mass media and other usual suspects. Ousted in this operation,
+      was Prime Minister Diefenbaker. His main crime was refusing Kennedy’s demand that
+      US nuclear warheads be based in Canada. Pearson appears in a scene of this film
+      that was ostensibly about Hunka. Ironically, although Pearson is still widely
+      seen as heroic and sacrosanct icon of peace, he was actually more of a warmonger
+      than Hunka ever was! ( Read my article on Pearson in Covert Action Magazine ,
+      Mar. 30, 2021.) Internet Links and Thanks! Please join the 2000+ folks who have
+      signed the petition: “Stop Canadian government funding of groups that glorify
+      Nazi collaborators” If you want to know all the gory details on many issues raised
+      in this film, check out issue #70 of Press for Conversion! magazine (Spring 2021):
+      Defunding the Myths and Cults of Cold War Canada: Ongoing state support for East
+      European émigré groups with deep fascist roots Or, if you are more inclined to
+      having a good laugh at state-propaganda peddlers, you can always join the Dude
+      of la Mancha and his team on Facebook. We could sure use your help: Quixote News
+      Network (QNN) Thanks for watching! Please like, subscribe, comment on this film
+      and share it as widely as possible! Thanks'
+    one_sentence_summary: The satirical film "Nazigate! Don Quixote takes on the Ukrainian
+      Waffen SS," produced by the Quixote News Network, employs surreal animations and
+      humor to critique official narratives and expose hidden controversies in Canada,
+      while introducing the whimsical concept of "The Sisyphean Dung-Ball Theory of
+      Social Change."
+    paragraph_summary: In the satirical film "Nazigate! Don Quixote Takes on the Ukrainian
+      Waffen SS," produced by the Quixote News Network, surreal animations and eclectic
+      music are used to critique the Canadian government's narratives and highlight
+      hidden controversies, particularly regarding the country's Ukrainian population.
+      The film draws inspiration from various cultural references, including Monty Python
+      and Groucho Marx, while humorously proposing the "Sisyphean Dung-Ball Theory of
+      Social Change." It also provides historical context about the Ukrainian community
+      in Canada, which, before World War II, was viewed with suspicion due to its leftist
+      affiliations and activism, leading to the internment of many Ukrainian men in
+      concentration camps during the First Red Scare. The film suggests that contemporary
+      issues surrounding Ukraine in Canada are rooted in this complex history.
+    published: '2025-09-27T01:40:13+00:00'
+  - title: Nazigate! Enjoy this Animated Satirical Flic and Watch Don Quixote take on
+      the Ukrainian Waffen SS!
+    url: https://sonar21.com/nazigate-enjoy-this-animated-satirical-flic-and-watch-don-quixote-take-on-the-ukrainian-waffen-ss/
+    text: 'By Richard Sanders Watch this film on Youtube: Nazigate! Don Quixote takes
+      on the Ukrainian Waffen SS Join us on Facebook: Quixote News Network This fun
+      satirical film from the Quixote News Network (QNN), uses surreal animations and
+      some diverse tunes to blast through the bull crap of official narratives and expose
+      some hunking great controversies that Canada’s government, and its fearmongering
+      media propagandists, are keen to keep hidden in their vast skeleton-laden closets.
+      The animation is inspired by Monty Python, Sisyphus beetles, dung-rolling bureaucrats,
+      Elvis’ “ Hunka Burnin Love,” the Spanish Surrealists (who nobody expected), CIA
+      whistleblowers, the slapstick humour of Groucho Marxists and Rosie, QNN’s fearlessly
+      “Riveting Reporter.” Spoiler alert! Viewers should also be warned that this film
+      gets down to the seriously silly business of proposing “The Sisyphean Dung-Ball
+      Theory of Social Change.” Is that really a thing, you ask? Watch the film and
+      you’ll find out! Who’d have thought Canada would have such a big Ukrainian Nazi
+      problem? Some Historical Context: Canada has the largest population of ethnic
+      Ukrainians outside Ukraine. Before WWII, the Ukrainian community in Canada was
+      feared as a grave threat to the powers that be. Why? Because they were then dominated
+      by lefty organizations. By that I mean, Canada’s preWWII Ukrainians included communists,
+      socialists and militant labour activists. Some shamelessly protested Canada’s
+      imperialist authorities, led big strikes and some even supported the Bolshevik
+      Revolution. Once-secret letters between Canada’s top politicians and their generals
+      reveal that Canadian elites were paranoid about the threat of a coming revolution
+      from these working class heroes. During the “First Red Scare” (1918-1920), Canada’s
+      military forced several thousand radical urban unemployed Ukrainian men into what
+      the government then called “concentration camps.” Once interned, they were forced
+      into slave labour. So, after WWII, Canadian political elites decided to import
+      4,000 veterans from armed ethnofascist Ukrainian formations, including the Waffen
+      SS Galicia, Bandera’s army, and the Roland and Nachtigall Battalions that took
+      part in Hitler’s massive Barbarossa invasion. The huge influx of these Ukrainian
+      veterans into Canada, was bolstered by tens of thousands of their family members
+      and supporters. A key goal of this move was to deal a devastating blow to the
+      Ukrainian Canadian Left. (To learn more about this, here’s a 2016 article of mine
+      on a century of conflict between Right and Leftwing Ukrainians in Canada. Enough
+      context already ! Here’s more on this Satirical Pythonesque Animation ! Jam-packed
+      with back-to-back music and crafty visual antics, this film also packs a lighthearted
+      punch with many hard-hitting facts that dare to ridicule a silly slew of officious
+      narratives covering up Canada’s longstanding support for postwar Ukrainian-Canadian
+      organizations that still glorify their Nazi-collaborating forebears. Canada’s
+      longstanding support for far-right Ukrainians, finally went viral and became known
+      as the Hunkagate affair. This scandal broke out into the open when a dung ball
+      hit the proverbial fan in Canada’s Parliament, two years ago this week. To control
+      the foul splatter, Canada’s propaganda bureaucrats got quickly to work rolling
+      out newly-spun versions of the Mighty Wurlitzer’s official BS narratives on Ukraine.
+      Back in 1978, a heroic CIA whistleblower, Victor Marchetti, explained this process
+      by saying: “A ‘limited hangout’ is spy jargon for a favorite and frequently used
+      gimmick of the clandestine professionals. When their veil of secrecy is shredded
+      and they can no longer rely on a phony cover story to misinform the public, they
+      resort to admitting—sometimes even volunteering—some of the truth while still
+      managing to withhold the key and damaging facts in the case. The public, however,
+      is usually so intrigued by the new information that it never thinks to pursue
+      the matter further.” ( Spotlight, Aug. 14, 1978 ) A Summary of the Hunkagate Incident
+      On September 22, 2023, after visiting Washington, President Zelenskyy (a former
+      comedic actor), dropped in like a Zeppelin on Canada’s Parliament. The Speaker
+      of the House, Tony Rota, took that dignified and stately opportunity to make the
+      biggest faux pas of his soon-to-be very short political life. With great gusto,
+      Rota happily hailed a Ukrainian Waffen SS veteran, Yaroslav Hunka, who was sitting
+      up in the bleachers watching the whole spectacle unfold. When Rota praised this
+      former SS man as a “hero” for having “fought the Russians” in WWII, every single
+      MP instantly jumped to their feet and gave loud enthusiastic ovations of applause.
+      It was quite a day, and Canada has arguably been a slightly different place ever
+      since. It hasn’t been nearly different enough mind you, but these things take
+      time… The Struggle Continues, eh? Yes, certain Canadian myths have been taking
+      a bit of beating since then, but unfortunately there’s still a long way to go
+      before we can even hope to have a dream that we’ve finally done away with the
+      diehard fake news that Canada is a wondrous beacon of peace, justice, democracy
+      and joy enlightening the world. Bigger Badder Scandals hiding behind Hunkagate
+      Hunka is just the tip of an iceberg. Although ships of all kinds, including ships
+      of state, can sink by hitting icebergs, it’s what’s hiding under the water that
+      brings them down. The tip is visible, but its not much of a real threat. The REAL
+      scandal here is NOT that Canadian politicians saluted Hunka as a hero. He was
+      after all only one of thousands of Ukrainian veterans from fascist armies, that
+      were given safe haven and then hid out in Canada for all those decades after the
+      war. And let’s not forget that every Canadian government since WWII has funded
+      Ukrainian-Canadian organizations that use their monuments, publications, events
+      and programs to glorify their Nazi-collaborating “war heroes.” Finally, since
+      the idea of iconic cultural “heroes” is a powerful theme running through the animation,
+      I’ll end with the story of Canadian Prime Minister Lester B. Pearson. He appears
+      during the flaming Zeppelensky scene in an intense visual flurry of images and
+      text. Despite winning the Nobel Peace Prize, and being heralded as a “peace hero”
+      by many Canadians, Pearson was virulent Cold Warrior. He supported American wars
+      all around the world, proudly encouraged billions in weapons exports to the US
+      and even welcomed US nuclear missiles into Canada soon after coming to power in
+      a 1963 constitutional coup that was orchestrated by NATO’s top brass, JFK’s State
+      Department, the CIA, mass media and other usual suspects. Ousted in this operation,
+      was Prime Minister Diefenbaker. His main crime was refusing Kennedy’s demand that
+      US nuclear warheads be based in Canada. Pearson appears in a scene of this film
+      that was ostensibly about Hunka. Ironically, although Pearson is still widely
+      seen as heroic and sacrosanct icon of peace, he was actually more of a warmonger
+      than Hunka ever was! ( Read my article on Pearson in Covert Action Magazine ,
+      Mar. 30, 2021.) Internet Links and Thanks! Please join the 2000+ folks who have
+      signed the petition: “Stop Canadian government funding of groups that glorify
+      Nazi collaborators” If you want to know all the gory details on many issues raised
+      in this film, check out issue #70 of Press for Conversion! magazine (Spring 2021):
+      Defunding the Myths and Cults of Cold War Canada: Ongoing state support for East
+      European émigré groups with deep fascist roots Or, if you are more inclined to
+      having a good laugh at state-propaganda peddlers, you can always join the Dude
+      of la Mancha and his team on Facebook. We could sure use your help: Quixote News
+      Network (QNN) Thanks for watching! Please like, subscribe, comment on this film
+      and share it as widely as possible! Thanks'
+    one_sentence_summary: The satirical film "Nazigate! Don Quixote takes on the Ukrainian
+      Waffen SS," produced by the Quixote News Network, employs surreal animations and
+      humor to critique official narratives and expose hidden controversies in Canada,
+      while introducing the whimsical concept of "The Sisyphean Dung-Ball Theory of
+      Social Change."
+    paragraph_summary: In the satirical film "Nazigate! Don Quixote Takes on the Ukrainian
+      Waffen SS," produced by the Quixote News Network, surreal animations and eclectic
+      music are used to critique the Canadian government's narratives and highlight
+      hidden controversies, particularly regarding the country's Ukrainian population.
+      The film draws inspiration from various cultural references, including Monty Python
+      and Groucho Marx, while humorously proposing the "Sisyphean Dung-Ball Theory of
+      Social Change." It also provides historical context about the Ukrainian community
+      in Canada, which, before World War II, was viewed with suspicion due to its leftist
+      affiliations and activism, leading to the internment of many Ukrainian men in
+      concentration camps during the First Red Scare. The film suggests that contemporary
+      issues surrounding Ukraine in Canada are rooted in this complex history.
+    published: '2025-09-27T01:40:13+00:00'
+  - title: Secretary of War Hegseth Summons All US Military Brass to Quantico
+    url: https://sonar21.com/secretary-of-war-hegseth-summons-all-us-military-brass-to-quantico/
+    text: 'Pete Hegseth’s announcement today (Thursday) that all General Officers in
+      the five branches of the US military — i.e., Army, Air Force, Navy, Marines and
+      Coast Guard — must attend an in-person meeting in Quantico, Virginia in the coming
+      weeks has justifiably generated quite a buzz. I have seen several numbers kicked
+      around, ranging from 800 to 1,131. The current estimated number of General Officers
+      in each major branch of the US military for 2025 is as follows: Total Number of
+      U.S. Military Generals in 2025 Branch 1-Star (Brig. Gen. / Rear Adm. Lower Half)
+      2-Star (Maj. Gen. / Rear Adm. Upper Half) 3-Star (Lt. Gen. / Vice Adm.) 4-Star
+      (Gen. / Adm.) Total Estimate Army 250+ ~110 ~40 11–12 ~415 Air Force ~150 ~90
+      ~37 9–10 ~286 Navy ~160 ~80–90 ~36 10–12 ~290 Marine Corps ~60 ~22 ~6 2 ~90 Space
+      Force ~8 ~4 2–3 1 ~16 Coast Guard ~20 ~11 2 1 ~34 If we use the 1,131 number of
+      officers, this means there is one general or admiral for every 1,768 soldiers,
+      sailors, marines or air force personnel… pretty top-heavy compared to World War
+      II, which is the last war where the US can claim a military victory. During World
+      War II, the US military had more than 2,000 General Officers and Flag Officers
+      on its rolls. Specifically, there were over 2,000 generals and admirals for a
+      force of about 12 million active troops, which translates roughly to one general
+      per 6,000 troops. This number is significantly higher proportionally than in modern
+      times, despite today’s military being smaller in active strength but with more
+      general officers overall. The Army and Air Force together had fewer four-star
+      generals during WWII than the Army alone does currently. Is Secretary of War Hegseth
+      holding an early retirement party? We will see. I interviewed Alastair Crooke
+      on Tuesday, and the video was posted today. We discussed Gaza, Iran and the war
+      in Ukraine: Danny Davis and I riffed on Trump’s Truth Social post for 45 minutes:
+      I ended the day with my friend, Garland Nixon. We spent some time discussing the
+      unjustified US attacks on Venezuela: I thank you for your invaluable support by
+      taking time to read or comment. I do not charge a subscription fee nor do I accept
+      advertising. I want the content to be accessible to everyone interested in the
+      issues I am discussing. However, if you wish to make a donation, please see this
+      link .'
+    one_sentence_summary: Pete Hegseth announced that all General Officers from the
+      five branches of the US military must attend an in-person meeting in Quantico,
+      Virginia, which has sparked significant interest given the estimated total of
+      1,131 generals and admirals across the services.
+    paragraph_summary: Pete Hegseth announced that all General Officers from the five
+      branches of the U.S. military must attend an in-person meeting in Quantico, Virginia,
+      generating significant attention. Estimates suggest there are between 800 and
+      1,131 General Officers across the Army, Air Force, Navy, Marine Corps, Space Force,
+      and Coast Guard, with a notable ratio of one general for every 1,768 service members,
+      which is considered top-heavy compared to historical figures from World War II,
+      where the ratio was one general for every 6,000 troops. The article also hints
+      at speculation regarding Hegseth's motives, questioning whether he is preparing
+      for an early retirement. Additionally, the author mentions recent interviews and
+      discussions on various geopolitical topics.
+    published: '2025-09-26T03:13:23+00:00'
+  - title: Secretary of War Hegseth Summons All US Military Brass to Quantico
+    url: https://sonar21.com/secretary-of-war-hegseth-summons-all-us-military-brass-to-quantico/
+    text: 'Pete Hegseth’s announcement today (Thursday) that all General Officers in
+      the five branches of the US military — i.e., Army, Air Force, Navy, Marines and
+      Coast Guard — must attend an in-person meeting in Quantico, Virginia in the coming
+      weeks has justifiably generated quite a buzz. I have seen several numbers kicked
+      around, ranging from 800 to 1,131. The current estimated number of General Officers
+      in each major branch of the US military for 2025 is as follows: Total Number of
+      U.S. Military Generals in 2025 Branch 1-Star (Brig. Gen. / Rear Adm. Lower Half)
+      2-Star (Maj. Gen. / Rear Adm. Upper Half) 3-Star (Lt. Gen. / Vice Adm.) 4-Star
+      (Gen. / Adm.) Total Estimate Army 250+ ~110 ~40 11–12 ~415 Air Force ~150 ~90
+      ~37 9–10 ~286 Navy ~160 ~80–90 ~36 10–12 ~290 Marine Corps ~60 ~22 ~6 2 ~90 Space
+      Force ~8 ~4 2–3 1 ~16 Coast Guard ~20 ~11 2 1 ~34 If we use the 1,131 number of
+      officers, this means there is one general or admiral for every 1,768 soldiers,
+      sailors, marines or air force personnel… pretty top-heavy compared to World War
+      II, which is the last war where the US can claim a military victory. During World
+      War II, the US military had more than 2,000 General Officers and Flag Officers
+      on its rolls. Specifically, there were over 2,000 generals and admirals for a
+      force of about 12 million active troops, which translates roughly to one general
+      per 6,000 troops. This number is significantly higher proportionally than in modern
+      times, despite today’s military being smaller in active strength but with more
+      general officers overall. The Army and Air Force together had fewer four-star
+      generals during WWII than the Army alone does currently. Is Secretary of War Hegseth
+      holding an early retirement party? We will see. I interviewed Alastair Crooke
+      on Tuesday, and the video was posted today. We discussed Gaza, Iran and the war
+      in Ukraine: Danny Davis and I riffed on Trump’s Truth Social post for 45 minutes:
+      I ended the day with my friend, Garland Nixon. We spent some time discussing the
+      unjustified US attacks on Venezuela: I thank you for your invaluable support by
+      taking time to read or comment. I do not charge a subscription fee nor do I accept
+      advertising. I want the content to be accessible to everyone interested in the
+      issues I am discussing. However, if you wish to make a donation, please see this
+      link .'
+    one_sentence_summary: Pete Hegseth announced that all General Officers from the
+      five branches of the US military must attend an in-person meeting in Quantico,
+      Virginia, which has sparked significant interest given the estimated total of
+      1,131 generals and admirals across the services.
+    paragraph_summary: Pete Hegseth announced that all General Officers from the five
+      branches of the U.S. military must attend an in-person meeting in Quantico, Virginia,
+      generating significant attention. Estimates suggest there are between 800 and
+      1,131 General Officers across the Army, Air Force, Navy, Marine Corps, Space Force,
+      and Coast Guard, with a notable ratio of one general for every 1,768 service members,
+      which is considered top-heavy compared to historical figures from World War II,
+      where the ratio was one general for every 6,000 troops. The article also hints
+      at speculation regarding Hegseth's motives, questioning whether he is preparing
+      for an early retirement. Additionally, the author mentions recent interviews and
+      discussions on various geopolitical topics.
+    published: '2025-09-26T03:13:23+00:00'
+  - title: Ignore Ukraine (Trump Is), Pay Attention to Venezuela
+    url: https://sonar21.com/ignore-ukraine-trump-is-pay-attention-to-venezuela/
+    text: 'I think this picture captures the essence of US foreign policy with respect
+      to Ukraine and Syria. What do you think? Trump’s Truth on Russia and Ukraine spread
+      like a California wildfire across social media in the last 24 hours. Supporters
+      of Ukraine were elated… at least initially. I got a nice shout out today from
+      my friend, Alexander Mercouris,  who agreed with my assessment that Trump’s Ukraine/Russia
+      Truth was actually a piece of sophisticated sarcasm. But Alexander did a better
+      job than me in explaining the nature of this sarcasm. So, back at you Alexander.
+      Brother Mercouris explained that Trump, rather than debate Kellogg and the neocons
+      who wanted to push the Russia-is-losing narrative, essentially said to them, “You’re
+      right,” and then took that claim to a logical conclusion. Rather than argue with
+      Kellogg and the neocons he said: Ok, you’re right. Since Ukraine is winning and
+      Russia is losing, why the hell does the US have to do anything more? Sure, we’ll
+      sell NATO all the weapons we want (assuming we can actually make them) and they
+      can bankrupt themselves giving them to Ukraine while America makes some sorely
+      needed cash. Anyway, since Russia’s economy is collapsing, the war will end, Ukraine
+      will win and we don’t have to do another damn thing. The ball is now in the hands
+      of Ukraine, NATO and the neocons. Trump is not going to do anything new in terms
+      of military or diplomatic action. He is in essence, hoisting them on their own
+      petard . Kellogg is now on the record, having told Trump that Ukraine is winning
+      and Russia is losing, and will have — as Ricky Ricardo used to say — some splaining
+      to do when the Ukrainian front crumbles and Russia reaches the Dnieper River.
+      And how will he explain why the Russian economy is doing better by December than
+      the US economy? He promised Trump a collapse. The war will grind on and the leading
+      NATO countries in Europe will grow more panicked as the reality of Ukraine’s defeat
+      becomes more apparent. What we ought to be paying attention to is the dramatic
+      buildup of US military assets off the coast of Venezuela. This mirrors the kind
+      of activity we saw after the 13 June  attack on Iran by Israel, as the United
+      States deployed naval and air assets to the region in preparation for the US attack
+      on 24 June. As of September 2025, the United States has deployed a substantial
+      naval and military force off the coast of Venezuela in the southern Caribbean.
+      The deployment includes: Navy Ships: • Guided-missile destroyers: USS Jason Dunham,
+      USS Gravely, USS Sampson, USS Stockdale • Missile cruiser: USS Lake Erie • Littoral
+      combat ship: USS Minneapolis-Saint Paul • Amphibious ships: USS Iwo Jima, USS
+      Fort Lauderdale, USS San Antonio (comprising the Iwo Jima Amphibious Ready Group)
+      • Fast-attack submarine: USS Newport News Military Units: • Marine Expeditionary
+      Unit: 22nd Marine Expeditionary Unit, with approximately 4,500 personnel, including
+      2,200 Marines and sailors, deployed aboard the amphibious ships • Air assets:
+      F-35B fighter jets, MV-22 Osprey tilt-rotor aircraft, MQ-9 Reaper drones, and
+      P-8 Poseidon maritime surveillance aircraft • Special Operations Forces: Reported
+      secret deployments for targeted strikes and commando operations in support of
+      anti-cartel missions I cannot rule out that this show of military force is part
+      of an intelligence operation — i.e., use the saber rattling as leverage over key
+      members of the Venezuelan military to persuade them to  launch a US-backed coup
+      and eliminate President Maduro. But Maduro is not alone… He has the backing of
+      Russia, China and Iran by virtue of his membership in BRICS. Maduro and Venezuela
+      have more than verbal assurances from Russia. Venezuela concluded a significant
+      defense and strategic cooperation agreement with Russia in mid-September 2025,
+      when the Venezuelan National Assembly preliminarily approved a Strategic Partnership
+      and Cooperation Treaty with Russia. This agreement is designed to deepen existing
+      bilateral ties in defense, energy, technology, and includes provisions for regular
+      high-level political dialogue and oversight commissions for implementation. Key
+      features of the agreement: • The treaty expands Venezuela’s military cooperation
+      with Russia, building on the already substantial relationship, such as domestic
+      manufacturing of AK-103 rifles and joint defense technology initiatives. • Venezuelan
+      cadets are training in Russia in advanced military specialties, including drone
+      technology and electronic warfare. • The agreement was advanced in direct response
+      to the recent deployment of US warships, submarines, and fighter jets in the Caribbean,
+      which Venezuela views as a threat to its sovereignty. • The pact, which still
+      requires a final parliamentary vote for formal ratification, is explicitly framed
+      by Venezuelan officials as part of their rejection of “hegemonic” US influence
+      and an effort to build a multipolar world order in partnership with Russia. •
+      Earlier this year, Presidents Maduro and Putin signed a 10-year strategic alliance,
+      which lays the foundation for this further-deepened cooperation and also encompasses
+      arms control, energy sector collaboration, and joint efforts to bypass sanctions.
+      Putin is sending Trump a not-so-subtle reminder that Russia still has some global
+      reach. I had two delightful conversations today… One with Rachel Blevins and the
+      other with Ed DeMarche of the Trends Journal : I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article discusses how Trump's recent comments on Russia
+      and Ukraine, perceived as sarcastic by some, reflect a critique of US foreign
+      policy by suggesting that if Ukraine is winning, there may be no need for further
+      US involvement.
+    paragraph_summary: The article discusses the implications of Donald Trump's recent
+      comments on the Ukraine-Russia conflict, suggesting that his statements reflect
+      a sarcastic critique of the prevailing narrative pushed by neoconservatives that
+      Ukraine is winning and Russia is losing. Instead of engaging in a debate, Trump
+      seemingly agrees with this narrative to highlight the absurdity of continued U.S.
+      involvement, implying that if Ukraine is indeed winning, there is no need for
+      further American military or diplomatic action. The author argues that this stance
+      puts pressure on proponents of the war, like Kellogg, to justify their claims
+      when the situation on the ground potentially shifts, leading to a realization
+      that Russia's economy may not collapse as predicted. Ultimately, the article suggests
+      that the ongoing conflict will likely lead to increased panic among NATO countries
+      as the reality of Ukraine's challenges becomes clearer.
+    published: '2025-09-25T01:45:13+00:00'
+  - title: Ignore Ukraine (Trump Is), Pay Attention to Venezuela
+    url: https://sonar21.com/ignore-ukraine-trump-is-pay-attention-to-venezuela/
+    text: 'I think this picture captures the essence of US foreign policy with respect
+      to Ukraine and Syria. What do you think? Trump’s Truth on Russia and Ukraine spread
+      like a California wildfire across social media in the last 24 hours. Supporters
+      of Ukraine were elated… at least initially. I got a nice shout out today from
+      my friend, Alexander Mercouris,  who agreed with my assessment that Trump’s Ukraine/Russia
+      Truth was actually a piece of sophisticated sarcasm. But Alexander did a better
+      job than me in explaining the nature of this sarcasm. So, back at you Alexander.
+      Brother Mercouris explained that Trump, rather than debate Kellogg and the neocons
+      who wanted to push the Russia-is-losing narrative, essentially said to them, “You’re
+      right,” and then took that claim to a logical conclusion. Rather than argue with
+      Kellogg and the neocons he said: Ok, you’re right. Since Ukraine is winning and
+      Russia is losing, why the hell does the US have to do anything more? Sure, we’ll
+      sell NATO all the weapons we want (assuming we can actually make them) and they
+      can bankrupt themselves giving them to Ukraine while America makes some sorely
+      needed cash. Anyway, since Russia’s economy is collapsing, the war will end, Ukraine
+      will win and we don’t have to do another damn thing. The ball is now in the hands
+      of Ukraine, NATO and the neocons. Trump is not going to do anything new in terms
+      of military or diplomatic action. He is in essence, hoisting them on their own
+      petard . Kellogg is now on the record, having told Trump that Ukraine is winning
+      and Russia is losing, and will have — as Ricky Ricardo used to say — some splaining
+      to do when the Ukrainian front crumbles and Russia reaches the Dnieper River.
+      And how will he explain why the Russian economy is doing better by December than
+      the US economy? He promised Trump a collapse. The war will grind on and the leading
+      NATO countries in Europe will grow more panicked as the reality of Ukraine’s defeat
+      becomes more apparent. What we ought to be paying attention to is the dramatic
+      buildup of US military assets off the coast of Venezuela. This mirrors the kind
+      of activity we saw after the 13 June  attack on Iran by Israel, as the United
+      States deployed naval and air assets to the region in preparation for the US attack
+      on 24 June. As of September 2025, the United States has deployed a substantial
+      naval and military force off the coast of Venezuela in the southern Caribbean.
+      The deployment includes: Navy Ships: • Guided-missile destroyers: USS Jason Dunham,
+      USS Gravely, USS Sampson, USS Stockdale • Missile cruiser: USS Lake Erie • Littoral
+      combat ship: USS Minneapolis-Saint Paul • Amphibious ships: USS Iwo Jima, USS
+      Fort Lauderdale, USS San Antonio (comprising the Iwo Jima Amphibious Ready Group)
+      • Fast-attack submarine: USS Newport News Military Units: • Marine Expeditionary
+      Unit: 22nd Marine Expeditionary Unit, with approximately 4,500 personnel, including
+      2,200 Marines and sailors, deployed aboard the amphibious ships • Air assets:
+      F-35B fighter jets, MV-22 Osprey tilt-rotor aircraft, MQ-9 Reaper drones, and
+      P-8 Poseidon maritime surveillance aircraft • Special Operations Forces: Reported
+      secret deployments for targeted strikes and commando operations in support of
+      anti-cartel missions I cannot rule out that this show of military force is part
+      of an intelligence operation — i.e., use the saber rattling as leverage over key
+      members of the Venezuelan military to persuade them to  launch a US-backed coup
+      and eliminate President Maduro. But Maduro is not alone… He has the backing of
+      Russia, China and Iran by virtue of his membership in BRICS. Maduro and Venezuela
+      have more than verbal assurances from Russia. Venezuela concluded a significant
+      defense and strategic cooperation agreement with Russia in mid-September 2025,
+      when the Venezuelan National Assembly preliminarily approved a Strategic Partnership
+      and Cooperation Treaty with Russia. This agreement is designed to deepen existing
+      bilateral ties in defense, energy, technology, and includes provisions for regular
+      high-level political dialogue and oversight commissions for implementation. Key
+      features of the agreement: • The treaty expands Venezuela’s military cooperation
+      with Russia, building on the already substantial relationship, such as domestic
+      manufacturing of AK-103 rifles and joint defense technology initiatives. • Venezuelan
+      cadets are training in Russia in advanced military specialties, including drone
+      technology and electronic warfare. • The agreement was advanced in direct response
+      to the recent deployment of US warships, submarines, and fighter jets in the Caribbean,
+      which Venezuela views as a threat to its sovereignty. • The pact, which still
+      requires a final parliamentary vote for formal ratification, is explicitly framed
+      by Venezuelan officials as part of their rejection of “hegemonic” US influence
+      and an effort to build a multipolar world order in partnership with Russia. •
+      Earlier this year, Presidents Maduro and Putin signed a 10-year strategic alliance,
+      which lays the foundation for this further-deepened cooperation and also encompasses
+      arms control, energy sector collaboration, and joint efforts to bypass sanctions.
+      Putin is sending Trump a not-so-subtle reminder that Russia still has some global
+      reach. I had two delightful conversations today… One with Rachel Blevins and the
+      other with Ed DeMarche of the Trends Journal : I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article discusses how Trump's recent comments on Russia
+      and Ukraine, perceived as sarcastic by some, reflect a critique of US foreign
+      policy by suggesting that if Ukraine is winning, there may be no need for further
+      US involvement.
+    paragraph_summary: The article discusses the implications of Donald Trump's recent
+      comments on the Ukraine-Russia conflict, suggesting that his statements reflect
+      a sarcastic critique of the prevailing narrative pushed by neoconservatives that
+      Ukraine is winning and Russia is losing. Instead of engaging in a debate, Trump
+      seemingly agrees with this narrative to highlight the absurdity of continued U.S.
+      involvement, implying that if Ukraine is indeed winning, there is no need for
+      further American military or diplomatic action. The author argues that this stance
+      puts pressure on proponents of the war, like Kellogg, to justify their claims
+      when the situation on the ground potentially shifts, leading to a realization
+      that Russia's economy may not collapse as predicted. Ultimately, the article suggests
+      that the ongoing conflict will likely lead to increased panic among NATO countries
+      as the reality of Ukraine's challenges becomes clearer.
+    published: '2025-09-25T01:45:13+00:00'
   - title: 'Donald Trump: Crazy Like a Fox or Just Plain Crazy?'
     url: https://sonar21.com/donald-trump-crazy-like-a-fox-or-just-plain-crazy/
     text: 'If you read the latest Trump Truth (that is what he calls his posts on Truth

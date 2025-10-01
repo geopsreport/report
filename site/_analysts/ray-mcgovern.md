@@ -7,18 +7,680 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  As world leaders gather for the 80th United Nations General Assembly, the international landscape is marked by escalating crises and mounting criticism of Western policies. The ongoing war in Gaza and the U.S.'s expanding military footprint in the Caribbean and Latin America are dominating discussions, while questions of historical memory and moral reasoning continue to shape debate.
+  Tensions remain high in the Middle East as diplomatic efforts to end the Gaza conflict continue to stall. The latest development, as reported by **Ray McGovern**, is that the White House’s revised Gaza ceasefire proposal was significantly altered at the request of Israeli Prime Minister Benjamin Netanyahu. These changes have provoked anger among Arab officials involved in the negotiations, who see the edits as undermining the prospects for a balanced agreement. The U.S. administration’s willingness to accommodate Israeli demands is seen as further evidence of Washington’s alignment with Israeli policy, despite mounting international criticism.
   
-  The most recent development centers on the U.K.'s approach to terrorism designations. **Craig Murray** highlights what he calls "rank hypocrisy" by the British government, which is simultaneously providing support to a group labeled as terrorist while arresting its own citizens for backing an anti-genocide organization that is also proscribed. This double standard, Murray argues, undermines the credibility of the U.K.'s counterterrorism policy and raises questions about the selective application of legal and moral standards.
+  Meanwhile, domestic sentiment in the United States is shifting. A new poll of 1,313 registered voters, highlighted by **Ray McGovern**, reveals a historic reversal: for the first time, more Americans now support Palestinians than Israelis in the context of the ongoing violence in Gaza. This marks a significant change in public opinion and could have implications for U.S. foreign policy, particularly as the 2026 election cycle approaches.
   
-  Meanwhile, the U.N. General Assembly has become a focal point for diplomatic efforts to address the Gaza conflict. As reported by **Ray McGovern**, Donald Trump’s participation in the debate comes amid heightened violence in Gaza, with the recognition of Palestinian statehood and the humanitarian crisis taking center stage. The session, chaired by France and Saudi Arabia, has seen renewed calls for a ceasefire and international intervention, though consensus remains elusive.
+  On the global stage, protests against the Gaza war have erupted in many countries, but India stands out for its lack of visible demonstrations. According to **Betwa Sharma**, this absence is attributed to increased repression of protests under the BJP government, especially those involving Muslim communities or international issues like Gaza. This trend reflects broader concerns about shrinking civic space and the suppression of dissent in the world’s largest democracy.
   
-  On the historical front, **Uroš Lipušcek** draws attention to the diminishing awareness of Asia’s role in World War II, arguing that a Eurocentric narrative continues to overshadow the sacrifices and contributions of China and other Asian nations. This fading historical memory, Lipušcek warns, risks distorting contemporary geopolitical understanding and policy-making.
-  
-  Looking ahead, the prevailing trend is one of increasing polarization and erosion of trust in Western leadership. The U.K.'s contradictory stance on terrorism is likely to fuel further domestic and international criticism. The U.N. debate on Gaza is expected to intensify, but, given entrenched positions, there is only a medium confidence that substantive progress will be achieved in the immediate term. The marginalization of non-Western historical perspectives, as noted by Lipušcek, is quite likely to persist, shaping future debates on global order and justice.
-  
-  In summary, the geopolitical environment remains volatile, with Western policies facing scrutiny on multiple fronts. I guarantee that unless there is a significant shift in approach, these patterns of criticism and division will most definitely continue to define international relations in the coming weeks.
+  Looking ahead, the majority of analysts agree that the U.S.-Israel alliance remains robust, with Washington likely to continue supporting Israeli positions in negotiations. However, the growing divergence between public opinion and official policy in the U.S. could lead to increased domestic pressure for a more balanced approach. I assess with high confidence that the ceasefire process will remain deadlocked in the near term, and that international criticism of both Israeli actions and U.S. policy will intensify. The repression of protest in India is quite likely to persist, further isolating the country from global civil society movements on this issue.
 articles:
+  - title: US Gaza ‘Ceasefire’ Plan Edited by Netanyahu
+    url: https://consortiumnews.com/2025/09/30/us-gaza-ceasefire-plan-edited-by-netanyahu/
+    text: Axios reported that the changes infuriated Arab officials involved in the
+      negotiations, writes Dave DeCamp. By Dave DeCamp Antiwar.com The Gaza ceasefire
+      proposal released by the White House on Monday included significant changes that
+      were requested by Israeli Prime Minister… Read more →
+    one_sentence_summary: The White House's revised Gaza ceasefire proposal, which incorporated
+      substantial changes requested by Israeli Prime Minister, has angered Arab officials
+      involved in the negotiations, according to Axios.
+    paragraph_summary: Axios reported that a Gaza ceasefire proposal released by the
+      White House has sparked anger among Arab officials involved in the negotiations
+      due to significant changes made at the request of Israeli Prime Minister. The
+      modifications have led to frustration among those seeking a resolution, highlighting
+      the complexities and tensions surrounding the ongoing conflict.
+    published: '2025-09-30T21:32:23+00:00'
+  - title: US Gaza ‘Ceasefire’ Plan Edited by Netanyahu
+    url: https://consortiumnews.com/2025/09/30/us-gaza-ceasefire-plan-edited-by-netanyahu/
+    text: Axios reported that the changes infuriated Arab officials involved in the
+      negotiations, writes Dave DeCamp. By Dave DeCamp Antiwar.com The Gaza ceasefire
+      proposal released by the White House on Monday included significant changes that
+      were requested by Israeli Prime Minister… Read more →
+    one_sentence_summary: The White House's revised Gaza ceasefire proposal, which incorporated
+      substantial changes requested by Israeli Prime Minister, has angered Arab officials
+      involved in the negotiations, according to Axios.
+    paragraph_summary: Axios reported that a Gaza ceasefire proposal released by the
+      White House has sparked anger among Arab officials involved in the negotiations
+      due to significant changes made at the request of Israeli Prime Minister. The
+      modifications have led to frustration among those seeking a resolution, highlighting
+      the complexities and tensions surrounding the ongoing conflict.
+    published: '2025-09-30T21:32:23+00:00'
+  - title: '‘Stunning Reversal’: NYT Poll Finds Sinking US Support for Israel'
+    url: https://consortiumnews.com/2025/09/30/stunning-reversal-nyt-poll-finds-sinking-us-support-for-israel/
+    text: A survey of 1,313 registered voters found that for the first time more respondents
+      said they support Palestinians than Israelis, reports Julia Conley.  By Julia
+      Conley Common Dreams As Israel’s bombardment of Gaza and starvation policy in
+      the exclave nears the beginning… Read more →
+    one_sentence_summary: A survey of 1,313 registered voters revealed that, for the
+      first time, more respondents support Palestinians than Israelis amid ongoing violence
+      in Gaza.
+    paragraph_summary: A recent survey of 1,313 registered voters revealed a significant
+      shift in public opinion, with more respondents expressing support for Palestinians
+      than Israelis for the first time. This change comes amid ongoing violence and
+      humanitarian crises in Gaza, as Israel's military actions and policies have drawn
+      increasing scrutiny and concern from the public.
+    published: '2025-09-30T21:24:44+00:00'
+  - title: '‘Stunning Reversal’: NYT Poll Finds Sinking US Support for Israel'
+    url: https://consortiumnews.com/2025/09/30/stunning-reversal-nyt-poll-finds-sinking-us-support-for-israel/
+    text: A survey of 1,313 registered voters found that for the first time more respondents
+      said they support Palestinians than Israelis, reports Julia Conley.  By Julia
+      Conley Common Dreams As Israel’s bombardment of Gaza and starvation policy in
+      the exclave nears the beginning… Read more →
+    one_sentence_summary: A survey of 1,313 registered voters revealed that, for the
+      first time, more respondents support Palestinians than Israelis amid ongoing violence
+      in Gaza.
+    paragraph_summary: A recent survey of 1,313 registered voters revealed a significant
+      shift in public opinion, with more respondents expressing support for Palestinians
+      than Israelis for the first time. This change comes amid ongoing violence and
+      humanitarian crises in Gaza, as Israel's military actions and policies have drawn
+      increasing scrutiny and concern from the public.
+    published: '2025-09-30T21:24:44+00:00'
+  - title: The Greater Israel Cult & the US Alliance
+    url: https://consortiumnews.com/2025/09/30/the-greater-israel-cult-the-us-alliance/
+    text: The next phase of Israel’s attempt to greatly expand its territory is underway
+      with U.S. backing, writes Stefan Moore.   By Stefan Moore Special to Consortium
+      News When Israeli Prime Minister Benjamin Netanyahu was recently asked on Israeli
+      i24 TV whether he… Read more →
+    one_sentence_summary: The article discusses Israel's ongoing efforts to expand its
+      territory, supported by the U.S., as highlighted by Prime Minister Benjamin Netanyahu's
+      recent statements.
+    paragraph_summary: In a recent article by Stefan Moore for Consortium News, it is
+      reported that Israel, with the support of the United States, is advancing its
+      efforts to significantly expand its territory. Israeli Prime Minister Benjamin
+      Netanyahu's statements during an interview suggest a commitment to this expansionist
+      agenda, raising concerns about the implications for regional stability and the
+      ongoing Israeli-Palestinian conflict. The article highlights the potential consequences
+      of these actions and the geopolitical dynamics at play.
+    published: '2025-09-30T18:00:38+00:00'
+  - title: The Greater Israel Cult & the US Alliance
+    url: https://consortiumnews.com/2025/09/30/the-greater-israel-cult-the-us-alliance/
+    text: The next phase of Israel’s attempt to greatly expand its territory is underway
+      with U.S. backing, writes Stefan Moore.   By Stefan Moore Special to Consortium
+      News When Israeli Prime Minister Benjamin Netanyahu was recently asked on Israeli
+      i24 TV whether he… Read more →
+    one_sentence_summary: The article discusses Israel's ongoing efforts to expand its
+      territory, supported by the U.S., as highlighted by Prime Minister Benjamin Netanyahu's
+      recent statements.
+    paragraph_summary: In a recent article by Stefan Moore for Consortium News, it is
+      reported that Israel, with the support of the United States, is advancing its
+      efforts to significantly expand its territory. Israeli Prime Minister Benjamin
+      Netanyahu's statements during an interview suggest a commitment to this expansionist
+      agenda, raising concerns about the implications for regional stability and the
+      ongoing Israeli-Palestinian conflict. The article highlights the potential consequences
+      of these actions and the geopolitical dynamics at play.
+    published: '2025-09-30T18:00:38+00:00'
+  - title: Gaza Sparks Global Protests — Except in India
+    url: https://consortiumnews.com/2025/09/30/gaza-sparks-global-protests-except-in-india/
+    text: Since 2014 when the BJP came to power, there has been increased repression
+      of protests, particularly those led by Muslims or aligned with a cause like Gaza,
+      writes Betwa Sharma. By Betwa Sharma in Delhi, India Special to Consortium News
+      While… Read more →
+    one_sentence_summary: Since the BJP came to power in 2014, there has been a notable
+      rise in the repression of protests in India, especially those involving Muslims
+      or related to causes such as Gaza, according to Betwa Sharma.
+    paragraph_summary: Since the BJP came to power in 2014, there has been a notable
+      increase in the repression of protests in India, particularly those organized
+      by Muslims or related to causes such as Gaza, according to Betwa Sharma. The article
+      highlights the government's crackdown on dissent and the implications for civil
+      liberties and social movements in the country.
+    published: '2025-09-30T16:00:10+00:00'
+  - title: Gaza Sparks Global Protests — Except in India
+    url: https://consortiumnews.com/2025/09/30/gaza-sparks-global-protests-except-in-india/
+    text: Since 2014 when the BJP came to power, there has been increased repression
+      of protests, particularly those led by Muslims or aligned with a cause like Gaza,
+      writes Betwa Sharma. By Betwa Sharma in Delhi, India Special to Consortium News
+      While… Read more →
+    one_sentence_summary: Since the BJP came to power in 2014, there has been a notable
+      rise in the repression of protests in India, especially those involving Muslims
+      or related to causes such as Gaza, according to Betwa Sharma.
+    paragraph_summary: Since the BJP came to power in 2014, there has been a notable
+      increase in the repression of protests in India, particularly those organized
+      by Muslims or related to causes such as Gaza, according to Betwa Sharma. The article
+      highlights the government's crackdown on dissent and the implications for civil
+      liberties and social movements in the country.
+    published: '2025-09-30T16:00:10+00:00'
+  - title: 'PATRICK LAWRENCE: The War Dept’s War on Media'
+    url: https://consortiumnews.com/2025/09/30/patrick-lawrence-the-war-depts-war-on-media/
+    text: The Pentagon’s new restrictions will bar correspondents covering the American
+      military from covering the American military, as the Trump regime attempts to
+      exert full-spectrum control over media. By Patrick Lawrence Special to Consortium
+      News It should be evident by now to… Read more →
+    one_sentence_summary: The Pentagon's new restrictions will prevent journalists from
+      reporting on the American military, reflecting the Trump administration's efforts
+      to tighten control over media coverage.
+    paragraph_summary: The article discusses the Pentagon's new restrictions that prevent
+      journalists from covering the American military, highlighting concerns about the
+      Trump administration's efforts to control media narratives. Patrick Lawrence argues
+      that these measures signify an attempt to limit transparency and restrict the
+      flow of information regarding military activities, raising alarms about the implications
+      for press freedom and public awareness.
+    published: '2025-09-30T08:02:22+00:00'
+  - title: 'PATRICK LAWRENCE: The War Dept’s War on Media'
+    url: https://consortiumnews.com/2025/09/30/patrick-lawrence-the-war-depts-war-on-media/
+    text: The Pentagon’s new restrictions will bar correspondents covering the American
+      military from covering the American military, as the Trump regime attempts to
+      exert full-spectrum control over media. By Patrick Lawrence Special to Consortium
+      News It should be evident by now to… Read more →
+    one_sentence_summary: The Pentagon's new restrictions will prevent journalists from
+      reporting on the American military, reflecting the Trump administration's efforts
+      to tighten control over media coverage.
+    paragraph_summary: The article discusses the Pentagon's new restrictions that prevent
+      journalists from covering the American military, highlighting concerns about the
+      Trump administration's efforts to control media narratives. Patrick Lawrence argues
+      that these measures signify an attempt to limit transparency and restrict the
+      flow of information regarding military activities, raising alarms about the implications
+      for press freedom and public awareness.
+    published: '2025-09-30T08:02:22+00:00'
+  - title: Australian Media Union Stands Up to Zionist Lobby
+    url: https://consortiumnews.com/2025/09/29/australian-media-union-stands-up-to-zionist-lobby/
+    text: The Australian Media Entertainment Arts Alliance (MEAA) has issued a strong
+      statement defending its members who have been fired and brought to court by the
+      Zionist lobby for daring to criticize Israel’s atrocities in Gaza. Video by Cathy
+      Vogan for… Read more →
+    one_sentence_summary: The Australian Media Entertainment Arts Alliance (MEAA) has
+      firmly supported its members facing termination and legal action from the Zionist
+      lobby for their criticism of Israel's actions in Gaza.
+    paragraph_summary: The Australian Media Entertainment Arts Alliance (MEAA) has publicly
+      defended its members who have faced termination and legal action from the Zionist
+      lobby for their criticisms of Israel's actions in Gaza. The organization emphasizes
+      the importance of protecting free speech and the rights of its members to express
+      their views on contentious issues.
+    published: '2025-09-29T22:12:55+00:00'
+  - title: Australian Media Union Stands Up to Zionist Lobby
+    url: https://consortiumnews.com/2025/09/29/australian-media-union-stands-up-to-zionist-lobby/
+    text: The Australian Media Entertainment Arts Alliance (MEAA) has issued a strong
+      statement defending its members who have been fired and brought to court by the
+      Zionist lobby for daring to criticize Israel’s atrocities in Gaza. Video by Cathy
+      Vogan for… Read more →
+    one_sentence_summary: The Australian Media Entertainment Arts Alliance (MEAA) has
+      firmly supported its members facing termination and legal action from the Zionist
+      lobby for their criticism of Israel's actions in Gaza.
+    paragraph_summary: The Australian Media Entertainment Arts Alliance (MEAA) has publicly
+      defended its members who have faced termination and legal action from the Zionist
+      lobby for their criticisms of Israel's actions in Gaza. The organization emphasizes
+      the importance of protecting free speech and the rights of its members to express
+      their views on contentious issues.
+    published: '2025-09-29T22:12:55+00:00'
+  - title: The F Word, the C Word & the N Word
+    url: https://consortiumnews.com/2025/09/29/the-f-word-the-c-word-the-n-word/
+    text: They are all nouns. The F word can also be used as an adjective. They are
+      all used as invectives. Today all these words are being overused. And misused.
+      By Joe Lauria Special to Consortium News Despite the fact that… Read more →
+    one_sentence_summary: The article discusses the overuse and misuse of certain invective
+      nouns, including the F word, which can also function as an adjective.
+    paragraph_summary: The article by Joe Lauria discusses the overuse and misuse of
+      certain invective words, particularly focusing on the F word, which can function
+      as both a noun and an adjective. Lauria emphasizes that these words, while commonly
+      employed in contemporary language, are often used inappropriately, diluting their
+      impact and meaning.
+    published: '2025-09-29T17:57:37+00:00'
+  - title: The F Word, the C Word & the N Word
+    url: https://consortiumnews.com/2025/09/29/the-f-word-the-c-word-the-n-word/
+    text: They are all nouns. The F word can also be used as an adjective. They are
+      all used as invectives. Today all these words are being overused. And misused.
+      By Joe Lauria Special to Consortium News Despite the fact that… Read more →
+    one_sentence_summary: The article discusses the overuse and misuse of certain invective
+      nouns, including the F word, which can also function as an adjective.
+    paragraph_summary: The article by Joe Lauria discusses the overuse and misuse of
+      certain invective words, particularly focusing on the F word, which can function
+      as both a noun and an adjective. Lauria emphasizes that these words, while commonly
+      employed in contemporary language, are often used inappropriately, diluting their
+      impact and meaning.
+    published: '2025-09-29T17:57:37+00:00'
+  - title: Whitewashing Germany & Japan’s WWII Crimes
+    url: https://consortiumnews.com/2025/09/29/whitewashing-germany-japans-wwii-crimes/
+    text: In a speech to the 12th Xiangshan Forum in Beijing, Sevim Dagdelen warns of
+      a growing historical revisionism to whitewash Germany and Japan’s role in WWII.
+      The following is an address delivered by Sevim Dagdelen, foreign policy spokesperson
+      for the… Read more →
+    one_sentence_summary: In her speech at the 12th Xiangshan Forum in Beijing, Sevim
+      Dagdelen cautions against the rising trend of historical revisionism that seeks
+      to obscure Germany and Japan's responsibilities during World War II.
+    paragraph_summary: In her speech at the 12th Xiangshan Forum in Beijing, Sevim Dagdelen,
+      the foreign policy spokesperson for Germany's Left Party, cautioned against the
+      rising trend of historical revisionism that seeks to downplay or sanitize the
+      roles of Germany and Japan during World War II. She emphasized the importance
+      of acknowledging and confronting the past rather than attempting to rewrite history,
+      highlighting the potential dangers of such revisionism in fostering nationalism
+      and undermining international relations.
+    published: '2025-09-29T16:00:10+00:00'
+  - title: Whitewashing Germany & Japan’s WWII Crimes
+    url: https://consortiumnews.com/2025/09/29/whitewashing-germany-japans-wwii-crimes/
+    text: In a speech to the 12th Xiangshan Forum in Beijing, Sevim Dagdelen warns of
+      a growing historical revisionism to whitewash Germany and Japan’s role in WWII.
+      The following is an address delivered by Sevim Dagdelen, foreign policy spokesperson
+      for the… Read more →
+    one_sentence_summary: In her speech at the 12th Xiangshan Forum in Beijing, Sevim
+      Dagdelen cautions against the rising trend of historical revisionism that seeks
+      to obscure Germany and Japan's responsibilities during World War II.
+    paragraph_summary: In her speech at the 12th Xiangshan Forum in Beijing, Sevim Dagdelen,
+      the foreign policy spokesperson for Germany's Left Party, cautioned against the
+      rising trend of historical revisionism that seeks to downplay or sanitize the
+      roles of Germany and Japan during World War II. She emphasized the importance
+      of acknowledging and confronting the past rather than attempting to rewrite history,
+      highlighting the potential dangers of such revisionism in fostering nationalism
+      and undermining international relations.
+    published: '2025-09-29T16:00:10+00:00'
+  - title: 'Craig Murray: What Fresh Hell Is This?'
+    url: https://consortiumnews.com/2025/09/29/craig-murray-what-fresh-hell-is-this/
+    text: 'Starmer is the most unpopular Prime Minister in British history, writes Craig
+      Murray, and Blair being made effectively Governor of Gaza is so sickening as to
+      be beyond belief. By Craig Murray CraigMurray.org.uk Friday saw two announcements:
+      Keir Starmer is to… Read more →'
+    one_sentence_summary: Craig Murray argues that Keir Starmer is the most unpopular
+      Prime Minister in British history, and expresses outrage at Tony Blair's role
+      as an effective governor of Gaza.
+    paragraph_summary: In his article, Craig Murray argues that Keir Starmer has become
+      the most unpopular Prime Minister in British history, criticizing the political
+      landscape in the UK. He expresses outrage over Tony Blair's appointment as an
+      effective governor of Gaza, describing it as a deeply troubling development. Murray's
+      commentary reflects his discontent with the current leadership and the implications
+      of these political decisions.
+    published: '2025-09-29T06:53:28+00:00'
+  - title: 'Craig Murray: What Fresh Hell Is This?'
+    url: https://consortiumnews.com/2025/09/29/craig-murray-what-fresh-hell-is-this/
+    text: 'Starmer is the most unpopular Prime Minister in British history, writes Craig
+      Murray, and Blair being made effectively Governor of Gaza is so sickening as to
+      be beyond belief. By Craig Murray CraigMurray.org.uk Friday saw two announcements:
+      Keir Starmer is to… Read more →'
+    one_sentence_summary: Craig Murray argues that Keir Starmer is the most unpopular
+      Prime Minister in British history, and expresses outrage at Tony Blair's role
+      as an effective governor of Gaza.
+    paragraph_summary: In his article, Craig Murray argues that Keir Starmer has become
+      the most unpopular Prime Minister in British history, criticizing the political
+      landscape in the UK. He expresses outrage over Tony Blair's appointment as an
+      effective governor of Gaza, describing it as a deeply troubling development. Murray's
+      commentary reflects his discontent with the current leadership and the implications
+      of these political decisions.
+    published: '2025-09-29T06:53:28+00:00'
+  - title: 'WATCH: A Rally for Sanity'
+    url: https://consortiumnews.com/2025/09/27/watch-live-a-rally-for-sanity/
+    text: Ray McGovern, Dennis Kucinich, Judge Andrew Napolitano, Scott Ritter, Gerald
+      Celente, Garland Nixon, Roger Waters (video) and Joe Lauria addressed a rally
+      in Kingston, NY Saturday in defense of sanity in a world gone mad.    The views
+      expressed are… Read more →
+    one_sentence_summary: A rally in Kingston, NY featured speakers including Ray McGovern,
+      Dennis Kucinich, and Roger Waters, who advocated for sanity in a chaotic world.
+    paragraph_summary: A rally in Kingston, NY featured prominent speakers including
+      Ray McGovern, Dennis Kucinich, Judge Andrew Napolitano, Scott Ritter, Gerald Celente,
+      Garland Nixon, Roger Waters, and Joe Lauria, who gathered to advocate for rational
+      discourse in an increasingly chaotic world. The event emphasized the importance
+      of sanity amidst prevailing global tensions and challenges, with each speaker
+      sharing their perspectives on the current state of affairs.
+    published: '2025-09-27T13:12:37+00:00'
+  - title: 'WATCH: A Rally for Sanity'
+    url: https://consortiumnews.com/2025/09/27/watch-live-a-rally-for-sanity/
+    text: Ray McGovern, Dennis Kucinich, Judge Andrew Napolitano, Scott Ritter, Gerald
+      Celente, Garland Nixon, Roger Waters (video) and Joe Lauria addressed a rally
+      in Kingston, NY Saturday in defense of sanity in a world gone mad.    The views
+      expressed are… Read more →
+    one_sentence_summary: A rally in Kingston, NY featured speakers including Ray McGovern,
+      Dennis Kucinich, and Roger Waters, who advocated for sanity in a chaotic world.
+    paragraph_summary: A rally in Kingston, NY featured prominent speakers including
+      Ray McGovern, Dennis Kucinich, Judge Andrew Napolitano, Scott Ritter, Gerald Celente,
+      Garland Nixon, Roger Waters, and Joe Lauria, who gathered to advocate for rational
+      discourse in an increasingly chaotic world. The event emphasized the importance
+      of sanity amidst prevailing global tensions and challenges, with each speaker
+      sharing their perspectives on the current state of affairs.
+    published: '2025-09-27T13:12:37+00:00'
+  - title: 'Hedges Report: Trump’s Crackdown on Anti-War Activists'
+    url: https://consortiumnews.com/2025/09/26/the-chris-hedges-report-trumps-crackdown-on-anti-war-activists/
+    text: CODEPINK’S Medea Benjamin joins host Chris Hedges to discuss the current moment
+      in American politics, which sees free speech sitting on a knife’s edge. By Chris
+      Hedges ScheerPost  This interview is also available on podcast platforms and Rumble.
+      Medea Benjamin and CODEPINK, the organization… Read more →
+    one_sentence_summary: Medea Benjamin discusses the precarious state of free speech
+      in American politics with Chris Hedges, highlighting the challenges faced by activists
+      and dissenters.
+    paragraph_summary: In an interview with Chris Hedges, Medea Benjamin of CODEPINK
+      discusses the precarious state of free speech in contemporary American politics.
+      They explore the challenges and threats to open discourse, emphasizing the importance
+      of protecting free expression amidst rising censorship and political polarization.
+      The conversation highlights CODEPINK's activism and the broader implications for
+      democracy and civil liberties in the current political climate. The interview
+      is also accessible on various podcast platforms and Rumble.
+    published: '2025-09-26T18:00:29+00:00'
+  - title: 'Hedges Report: Trump’s Crackdown on Anti-War Activists'
+    url: https://consortiumnews.com/2025/09/26/the-chris-hedges-report-trumps-crackdown-on-anti-war-activists/
+    text: CODEPINK’S Medea Benjamin joins host Chris Hedges to discuss the current moment
+      in American politics, which sees free speech sitting on a knife’s edge. By Chris
+      Hedges ScheerPost  This interview is also available on podcast platforms and Rumble.
+      Medea Benjamin and CODEPINK, the organization… Read more →
+    one_sentence_summary: Medea Benjamin discusses the precarious state of free speech
+      in American politics with Chris Hedges, highlighting the challenges faced by activists
+      and dissenters.
+    paragraph_summary: In an interview with Chris Hedges, Medea Benjamin of CODEPINK
+      discusses the precarious state of free speech in contemporary American politics.
+      They explore the challenges and threats to open discourse, emphasizing the importance
+      of protecting free expression amidst rising censorship and political polarization.
+      The conversation highlights CODEPINK's activism and the broader implications for
+      democracy and civil liberties in the current political climate. The interview
+      is also accessible on various podcast platforms and Rumble.
+    published: '2025-09-26T18:00:29+00:00'
+  - title: Parliament Blocks Declassified, Citing Gaza ‘Standpoint’
+    url: https://consortiumnews.com/2025/09/26/parliament-blocks-declassified-citing-gaza-standpoint/
+    text: Parliament has been accused of an “outrageous abuse” that is “worthy of the
+      Trump White House,” after blocking Declassified from holding a media pass, reports
+      Martin Williams.  By Martin Williams Declassified UK Parliament has been accused
+      of an “outrageous abuse” that… Read more →
+    one_sentence_summary: Parliament has faced criticism for allegedly blocking Declassified
+      from obtaining a media pass, with accusations likening the action to abuses seen
+      during the Trump administration.
+    paragraph_summary: Parliament has faced criticism for allegedly blocking Declassified,
+      a media organization, from obtaining a media pass, with some commentators likening
+      the action to practices seen during the Trump administration. The situation has
+      sparked accusations of an "outrageous abuse" of power, raising concerns about
+      press freedom and transparency in government.
+    published: '2025-09-26T16:36:22+00:00'
+  - title: Parliament Blocks Declassified, Citing Gaza ‘Standpoint’
+    url: https://consortiumnews.com/2025/09/26/parliament-blocks-declassified-citing-gaza-standpoint/
+    text: Parliament has been accused of an “outrageous abuse” that is “worthy of the
+      Trump White House,” after blocking Declassified from holding a media pass, reports
+      Martin Williams.  By Martin Williams Declassified UK Parliament has been accused
+      of an “outrageous abuse” that… Read more →
+    one_sentence_summary: Parliament has faced criticism for allegedly blocking Declassified
+      from obtaining a media pass, with accusations likening the action to abuses seen
+      during the Trump administration.
+    paragraph_summary: Parliament has faced criticism for allegedly blocking Declassified,
+      a media organization, from obtaining a media pass, with some commentators likening
+      the action to practices seen during the Trump administration. The situation has
+      sparked accusations of an "outrageous abuse" of power, raising concerns about
+      press freedom and transparency in government.
+    published: '2025-09-26T16:36:22+00:00'
+  - title: 'Caitlin Johnstone: A Liberal Fantasy of Palestine'
+    url: https://consortiumnews.com/2025/09/26/caitlin-johnstone-a-liberal-fantasy-of-palestine/
+    text: The problem is the west established a state in the middle east which holds
+      as its foundational ideology that the people who were living there before that
+      state was created are less than human. By Caitlin Johnstone Caitlin’s Newsletter
+      Listen… Read more →
+    one_sentence_summary: The article argues that the West created a state in the Middle
+      East based on an ideology that dehumanizes the indigenous population.
+    paragraph_summary: In her article, Caitlin Johnstone argues that the establishment
+      of a state in the Middle East, particularly Israel, is rooted in an ideology that
+      dehumanizes the indigenous population that existed prior to its creation. She
+      critiques the foundational beliefs that underpin this state, suggesting that they
+      contribute to ongoing conflict and suffering in the region. Johnstone emphasizes
+      the moral implications of this ideology and calls for a reevaluation of the narratives
+      surrounding the state's legitimacy and the treatment of its original inhabitants.
+    published: '2025-09-26T11:05:43+00:00'
+  - title: 'Caitlin Johnstone: A Liberal Fantasy of Palestine'
+    url: https://consortiumnews.com/2025/09/26/caitlin-johnstone-a-liberal-fantasy-of-palestine/
+    text: The problem is the west established a state in the middle east which holds
+      as its foundational ideology that the people who were living there before that
+      state was created are less than human. By Caitlin Johnstone Caitlin’s Newsletter
+      Listen… Read more →
+    one_sentence_summary: The article argues that the West created a state in the Middle
+      East based on an ideology that dehumanizes the indigenous population.
+    paragraph_summary: In her article, Caitlin Johnstone argues that the establishment
+      of a state in the Middle East, particularly Israel, is rooted in an ideology that
+      dehumanizes the indigenous population that existed prior to its creation. She
+      critiques the foundational beliefs that underpin this state, suggesting that they
+      contribute to ongoing conflict and suffering in the region. Johnstone emphasizes
+      the moral implications of this ideology and calls for a reevaluation of the narratives
+      surrounding the state's legitimacy and the treatment of its original inhabitants.
+    published: '2025-09-26T11:05:43+00:00'
+  - title: Million-Strong General Strike Blocked Italy for Palestine
+    url: https://consortiumnews.com/2025/09/25/million-strong-general-strike-blocked-italy-for-palestine/
+    text: One million people across Italy, led by grassroots unions, took part in a
+      general strike supporting Palestine and the Global Sumud Flotilla. By Ana Vracar
+      Peoples Dispatch Approximately one million people across Italy staged a general
+      strike in support of Palestine… Read more →
+    one_sentence_summary: Approximately one million people in Italy participated in
+      a general strike organized by grassroots unions to express solidarity with Palestine
+      and the Global Sumud Flotilla.
+    paragraph_summary: Approximately one million people in Italy participated in a general
+      strike organized by grassroots unions to show solidarity with Palestine and support
+      the Global Sumud Flotilla. The strike highlighted widespread public sentiment
+      and activism surrounding the Palestinian cause, demonstrating significant mobilization
+      and unity among various groups advocating for justice and humanitarian efforts
+      in the region.
+    published: '2025-09-25T21:09:32+00:00'
+  - title: Million-Strong General Strike Blocked Italy for Palestine
+    url: https://consortiumnews.com/2025/09/25/million-strong-general-strike-blocked-italy-for-palestine/
+    text: One million people across Italy, led by grassroots unions, took part in a
+      general strike supporting Palestine and the Global Sumud Flotilla. By Ana Vracar
+      Peoples Dispatch Approximately one million people across Italy staged a general
+      strike in support of Palestine… Read more →
+    one_sentence_summary: Approximately one million people in Italy participated in
+      a general strike organized by grassroots unions to express solidarity with Palestine
+      and the Global Sumud Flotilla.
+    paragraph_summary: Approximately one million people in Italy participated in a general
+      strike organized by grassroots unions to show solidarity with Palestine and support
+      the Global Sumud Flotilla. The strike highlighted widespread public sentiment
+      and activism surrounding the Palestinian cause, demonstrating significant mobilization
+      and unity among various groups advocating for justice and humanitarian efforts
+      in the region.
+    published: '2025-09-25T21:09:32+00:00'
+  - title: Italian Navy Sails to Protect Gaza Flotilla
+    url: https://consortiumnews.com/2025/09/25/italian-navy-sails-to-protect-gaza-flotilla/
+    text: As the Israeli government continues its horrific genocide of Palestinians
+      and the destruction of housing and infrastructure in Gaza, in the third attack
+      on the 42-ship Global Sumud flotilla, drones struck multiple boats in international
+      waters. By Ann Wright As… Read more →
+    one_sentence_summary: The article reports on the Israeli government's ongoing military
+      actions against Palestinians in Gaza, highlighting a recent drone attack on the
+      Global Sumud flotilla, which was targeted in international waters.
+    paragraph_summary: The article discusses the ongoing violence and destruction inflicted
+      by the Israeli government on Palestinians in Gaza, highlighting a recent incident
+      where drones attacked the Global Sumud flotilla, consisting of 42 ships, while
+      they were in international waters. Ann Wright emphasizes the severity of the situation,
+      framing it as a genocide against the Palestinian people and drawing attention
+      to the broader implications of such military actions on humanitarian efforts and
+      international law.
+    published: '2025-09-25T18:27:08+00:00'
+  - title: Italian Navy Sails to Protect Gaza Flotilla
+    url: https://consortiumnews.com/2025/09/25/italian-navy-sails-to-protect-gaza-flotilla/
+    text: As the Israeli government continues its horrific genocide of Palestinians
+      and the destruction of housing and infrastructure in Gaza, in the third attack
+      on the 42-ship Global Sumud flotilla, drones struck multiple boats in international
+      waters. By Ann Wright As… Read more →
+    one_sentence_summary: The article reports on the Israeli government's ongoing military
+      actions against Palestinians in Gaza, highlighting a recent drone attack on the
+      Global Sumud flotilla, which was targeted in international waters.
+    paragraph_summary: The article discusses the ongoing violence and destruction inflicted
+      by the Israeli government on Palestinians in Gaza, highlighting a recent incident
+      where drones attacked the Global Sumud flotilla, consisting of 42 ships, while
+      they were in international waters. Ann Wright emphasizes the severity of the situation,
+      framing it as a genocide against the Palestinian people and drawing attention
+      to the broader implications of such military actions on humanitarian efforts and
+      international law.
+    published: '2025-09-25T18:27:08+00:00'
+  - title: 'Vijay Prashad: An Intellectual Is Nothing Without Confronting Oppression'
+    url: https://consortiumnews.com/2025/09/25/vijay-prashad-an-intellectual-is-nothing-without-confronting-oppression/
+    text: 'Berta Cáceres, a Honduran leader in the struggle for indigenous and environmental
+      rights, was killed in 2016 – a price too often paid by those who fight for human
+      dignity and social justice. By Vijay Prashad Tricontinental: Institute for Social Research
+      At… Read more →'
+    one_sentence_summary: Berta Cáceres, a prominent Honduran activist for indigenous
+      and environmental rights, was murdered in 2016, highlighting the dangers faced
+      by those advocating for human dignity and social justice.
+    paragraph_summary: Berta Cáceres, a prominent Honduran activist advocating for indigenous
+      and environmental rights, was assassinated in 2016, highlighting the perilous
+      consequences faced by individuals who champion human dignity and social justice.
+      Her death underscores the ongoing violence and repression against activists in
+      the region, reflecting a broader pattern of targeting those who oppose exploitation
+      and advocate for marginalized communities. The article, authored by Vijay Prashad
+      for the Tricontinental Institute for Social Research, emphasizes the need to recognize
+      and support the struggles of such leaders who risk their lives for the sake of
+      justice and environmental protection.
+    published: '2025-09-25T18:00:02+00:00'
+  - title: 'Vijay Prashad: An Intellectual Is Nothing Without Confronting Oppression'
+    url: https://consortiumnews.com/2025/09/25/vijay-prashad-an-intellectual-is-nothing-without-confronting-oppression/
+    text: 'Berta Cáceres, a Honduran leader in the struggle for indigenous and environmental
+      rights, was killed in 2016 – a price too often paid by those who fight for human
+      dignity and social justice. By Vijay Prashad Tricontinental: Institute for Social Research
+      At… Read more →'
+    one_sentence_summary: Berta Cáceres, a prominent Honduran activist for indigenous
+      and environmental rights, was murdered in 2016, highlighting the dangers faced
+      by those advocating for human dignity and social justice.
+    paragraph_summary: Berta Cáceres, a prominent Honduran activist advocating for indigenous
+      and environmental rights, was assassinated in 2016, highlighting the perilous
+      consequences faced by individuals who champion human dignity and social justice.
+      Her death underscores the ongoing violence and repression against activists in
+      the region, reflecting a broader pattern of targeting those who oppose exploitation
+      and advocate for marginalized communities. The article, authored by Vijay Prashad
+      for the Tricontinental Institute for Social Research, emphasizes the need to recognize
+      and support the struggles of such leaders who risk their lives for the sake of
+      justice and environmental protection.
+    published: '2025-09-25T18:00:02+00:00'
+  - title: 'WATCH:  Time to Cancel AUKUS'
+    url: https://consortiumnews.com/2025/09/25/watch-time-to-cancel-aukus/
+    text: The AUKUS military alliance between Australia, the U.K. and the U.S. poses
+      a threat of war with China. The NO AUKUS Coalition of Victoria, Australia argues
+      that the AUKUS military alliance between Australia, the U.K. and the .U.S poses
+      a… Read more →
+    one_sentence_summary: The NO AUKUS Coalition in Victoria, Australia, contends that
+      the AUKUS military alliance among Australia, the U.K., and the U.S. increases
+      the risk of conflict with China.
+    paragraph_summary: The NO AUKUS Coalition in Victoria, Australia, warns that the
+      AUKUS military alliance between Australia, the U.K., and the U.S. could escalate
+      tensions and potentially lead to war with China. Critics of the alliance express
+      concerns over its implications for regional stability and the risk of military
+      confrontation, advocating for a reevaluation of Australia's defense strategies
+      in light of these threats.
+    published: '2025-09-25T14:00:16+00:00'
+  - title: 'WATCH:  Time to Cancel AUKUS'
+    url: https://consortiumnews.com/2025/09/25/watch-time-to-cancel-aukus/
+    text: The AUKUS military alliance between Australia, the U.K. and the U.S. poses
+      a threat of war with China. The NO AUKUS Coalition of Victoria, Australia argues
+      that the AUKUS military alliance between Australia, the U.K. and the .U.S poses
+      a… Read more →
+    one_sentence_summary: The NO AUKUS Coalition in Victoria, Australia, contends that
+      the AUKUS military alliance among Australia, the U.K., and the U.S. increases
+      the risk of conflict with China.
+    paragraph_summary: The NO AUKUS Coalition in Victoria, Australia, warns that the
+      AUKUS military alliance between Australia, the U.K., and the U.S. could escalate
+      tensions and potentially lead to war with China. Critics of the alliance express
+      concerns over its implications for regional stability and the risk of military
+      confrontation, advocating for a reevaluation of Australia's defense strategies
+      in light of these threats.
+    published: '2025-09-25T14:00:16+00:00'
+  - title: Free Speech and Its Discontents
+    url: https://consortiumnews.com/2025/09/25/free-speech-and-its-discontents/
+    text: A government that can silence the speech you hate today can silence the speech
+      you love tomorrow, writes Judge Andrew Napolitano. “It does me no injury for my
+      neighbor to say there are 20 gods or no God. It neither… Read more →
+    one_sentence_summary: Judge Andrew Napolitano argues that a government capable of
+      suppressing unpopular speech today poses a threat to all speech, including that
+      which we cherish, emphasizing the importance of protecting free expression.
+    paragraph_summary: In his article, Judge Andrew Napolitano emphasizes the dangers
+      of government censorship, arguing that the suppression of unpopular speech today
+      sets a precedent that could threaten beloved speech in the future. He asserts
+      that allowing the government to silence dissenting voices undermines the principle
+      of free expression, highlighting that differing beliefs, whether about the existence
+      of deities or other contentious issues, should be tolerated to preserve individual
+      liberties and prevent authoritarian control over public discourse.
+    published: '2025-09-25T12:55:57+00:00'
+  - title: Free Speech and Its Discontents
+    url: https://consortiumnews.com/2025/09/25/free-speech-and-its-discontents/
+    text: A government that can silence the speech you hate today can silence the speech
+      you love tomorrow, writes Judge Andrew Napolitano. “It does me no injury for my
+      neighbor to say there are 20 gods or no God. It neither… Read more →
+    one_sentence_summary: Judge Andrew Napolitano argues that a government capable of
+      suppressing unpopular speech today poses a threat to all speech, including that
+      which we cherish, emphasizing the importance of protecting free expression.
+    paragraph_summary: In his article, Judge Andrew Napolitano emphasizes the dangers
+      of government censorship, arguing that the suppression of unpopular speech today
+      sets a precedent that could threaten beloved speech in the future. He asserts
+      that allowing the government to silence dissenting voices undermines the principle
+      of free expression, highlighting that differing beliefs, whether about the existence
+      of deities or other contentious issues, should be tolerated to preserve individual
+      liberties and prevent authoritarian control over public discourse.
+    published: '2025-09-25T12:55:57+00:00'
+  - title: 'Hedges Report: We Are All Antifa Now'
+    url: https://consortiumnews.com/2025/09/24/hedges-report-we-are-all-antifa-now/
+    text: The designation of the amorphous group antifa as a terrorist organization
+      allows the state to brand all dissidents as supporters of antifa and prosecute
+      them as terrorists. By Chris Hedges The Chris Hedges Report Trump’s designation
+      of the amorphous group antifa,… Read more →
+    one_sentence_summary: The article argues that labeling the loosely organized group
+      antifa as a terrorist organization enables the state to categorize and prosecute
+      all dissenters as terrorists.
+    paragraph_summary: In his article, Chris Hedges argues that the Trump administration's
+      classification of the loosely organized group antifa as a terrorist organization
+      serves to stigmatize and criminalize all dissenters, effectively enabling the
+      state to label and prosecute a wide range of activists and opponents as terrorists.
+      This designation raises concerns about the implications for civil liberties and
+      the potential for broader repression of dissent in society.
+    published: '2025-09-24T18:00:29+00:00'
+  - title: 'Hedges Report: We Are All Antifa Now'
+    url: https://consortiumnews.com/2025/09/24/hedges-report-we-are-all-antifa-now/
+    text: The designation of the amorphous group antifa as a terrorist organization
+      allows the state to brand all dissidents as supporters of antifa and prosecute
+      them as terrorists. By Chris Hedges The Chris Hedges Report Trump’s designation
+      of the amorphous group antifa,… Read more →
+    one_sentence_summary: The article argues that labeling the loosely organized group
+      antifa as a terrorist organization enables the state to categorize and prosecute
+      all dissenters as terrorists.
+    paragraph_summary: In his article, Chris Hedges argues that the Trump administration's
+      classification of the loosely organized group antifa as a terrorist organization
+      serves to stigmatize and criminalize all dissenters, effectively enabling the
+      state to label and prosecute a wide range of activists and opponents as terrorists.
+      This designation raises concerns about the implications for civil liberties and
+      the potential for broader repression of dissent in society.
+    published: '2025-09-24T18:00:29+00:00'
+  - title: 'WATCH: Defending Free Speech on Palestine'
+    url: https://consortiumnews.com/2025/09/24/watch-defending-free-speech-on-palestine/
+    text: Australian journalist Mary Kostakidis, accused in court of antisemitism because
+      of her reporting critical of Israel, was among the speakers at this rally in Melbourne
+      covered by CN. Film by Cathy Vogan for Consortium News Read more →
+    one_sentence_summary: Australian journalist Mary Kostakidis, who faced accusations
+      of antisemitism due to her critical reporting on Israel, spoke at a rally in Melbourne,
+      as reported by Consortium News.
+    paragraph_summary: Australian journalist Mary Kostakidis, who faced accusations
+      of antisemitism due to her critical reporting on Israel, spoke at a rally in Melbourne,
+      as reported by Consortium News. The event highlighted her stance and the ongoing
+      debate surrounding media coverage of Israel and Palestine. The rally was documented
+      in a film by Cathy Vogan, emphasizing the complexities of journalistic expression
+      and the reactions it can provoke.
+    published: '2025-09-24T16:00:05+00:00'
+  - title: 'WATCH: Defending Free Speech on Palestine'
+    url: https://consortiumnews.com/2025/09/24/watch-defending-free-speech-on-palestine/
+    text: Australian journalist Mary Kostakidis, accused in court of antisemitism because
+      of her reporting critical of Israel, was among the speakers at this rally in Melbourne
+      covered by CN. Film by Cathy Vogan for Consortium News Read more →
+    one_sentence_summary: Australian journalist Mary Kostakidis, who faced accusations
+      of antisemitism due to her critical reporting on Israel, spoke at a rally in Melbourne,
+      as reported by Consortium News.
+    paragraph_summary: Australian journalist Mary Kostakidis, who faced accusations
+      of antisemitism due to her critical reporting on Israel, spoke at a rally in Melbourne,
+      as reported by Consortium News. The event highlighted her stance and the ongoing
+      debate surrounding media coverage of Israel and Palestine. The rally was documented
+      in a film by Cathy Vogan, emphasizing the complexities of journalistic expression
+      and the reactions it can provoke.
+    published: '2025-09-24T16:00:05+00:00'
+  - title: Fighting Trump’s Witch Hunt on Campus
+    url: https://consortiumnews.com/2025/09/24/fighting-trumps-witch-hunt-on-campus/
+    text: A coalition of University of California faculty, students, staff, and labor
+      unions are suing the Trump administration for violating their free speech and
+      academic freedom.  By Marjorie Cohn Truthout Outrage flared last week about the
+      University of California’s capitulation to this… Read more →
+    one_sentence_summary: A coalition of University of California faculty, students,
+      staff, and labor unions is suing the Trump administration for allegedly infringing
+      on their free speech and academic freedom.
+    paragraph_summary: A coalition of faculty, students, staff, and labor unions from
+      the University of California is suing the Trump administration, claiming it has
+      infringed upon their free speech and academic freedom. The lawsuit follows widespread
+      outrage over the university's perceived acquiescence to the administration's policies,
+      which the coalition argues threaten the principles of open discourse and academic
+      independence essential to higher education.
+    published: '2025-09-24T12:56:28+00:00'
+  - title: Fighting Trump’s Witch Hunt on Campus
+    url: https://consortiumnews.com/2025/09/24/fighting-trumps-witch-hunt-on-campus/
+    text: A coalition of University of California faculty, students, staff, and labor
+      unions are suing the Trump administration for violating their free speech and
+      academic freedom.  By Marjorie Cohn Truthout Outrage flared last week about the
+      University of California’s capitulation to this… Read more →
+    one_sentence_summary: A coalition of University of California faculty, students,
+      staff, and labor unions is suing the Trump administration for allegedly infringing
+      on their free speech and academic freedom.
+    paragraph_summary: A coalition of faculty, students, staff, and labor unions from
+      the University of California is suing the Trump administration, claiming it has
+      infringed upon their free speech and academic freedom. The lawsuit follows widespread
+      outrage over the university's perceived acquiescence to the administration's policies,
+      which the coalition argues threaten the principles of open discourse and academic
+      independence essential to higher education.
+    published: '2025-09-24T12:56:28+00:00'
   - title: 'Craig Murray: UK’s Rank Hypocrisy on Terrorism'
     url: https://consortiumnews.com/2025/09/23/craig-murray-uks-rank-hypocrisy-on-terrorism/
     text: The admission that the U.K. government has provided aid to a proscribed terrorist

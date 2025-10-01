@@ -7,19 +7,11124 @@ description: "Pulitzer-winning journalist, ex–NYT war correspondent; radical r
 websites:
   - https://scheerpost.com
 summary: |
-  As the world enters a period marked by deepening political polarization and global unrest, recent developments underscore the intensification of state crackdowns on dissent, the deepening humanitarian crisis in Gaza, and growing economic hardship among working-class Americans.
+  As the world enters October 2025, the United States remains at the center of global political turbulence, with the Trump administration’s domestic and foreign policies generating widespread concern among analysts and international observers.
   
-  The Trump administration has escalated its campaign against dissent following the assassination of conservative activist Charlie Kirk. At a memorial event, prominent figures called for retribution against political opponents, a move that **Jameel Jaffer** warns could have chilling effects on civil liberties and political discourse. The administration’s labeling of negative media coverage as “illegal” signals a further slide toward authoritarianism, raising alarms about the future of free speech in the United States.
+  The most recent development is the release of a Presidential memo that, according to **Chris Hedges**, labels critics of government, corporate power, and U.S. foreign policy as potential domestic terrorists. Hedges warns that this move “makes explicit the candid yet dangerous intentions of homegrown fascism in America,” signaling a marked escalation in authoritarian tactics. The memo’s language, he notes, is “unprecedented in its scope,” targeting not only political opponents but also activists and journalists. This development follows a broader pattern of increasing repression and surveillance, raising urgent questions about the future of civil liberties and democratic dissent in the United States.
   
-  Internationally, the crisis in Gaza has reached a new nadir. A United Nations commission has formally accused Israel of committing genocide against Palestinians, a charge that has been met with continued U.S. support for Israel. The U.S. has now blocked six separate UN Security Council resolutions aimed at establishing peace in Gaza. **Chris Hedges** notes that this persistent vetoing by Washington isolates the U.S. diplomatically and entrenches the conflict, with little sign of a shift in policy.
+  On the international front, President Trump’s recent press conference with Israeli Prime Minister Benjamin Netanyahu revealed that Israel has accepted a new U.S.-backed ceasefire plan for Gaza. However, Trump made clear that if Hamas rejects the deal, Israel would have a “green light to finish the job,” a phrase that, as **Chris Hedges** points out, has been interpreted by many as tacit approval for further military escalation. The involvement of the Qatari Prime Minister in brokering the plan underscores the high stakes and the fragile nature of the current ceasefire efforts.
   
-  On the domestic front, economic pain is mounting for working-class Americans. **Gene Ludwig**, a former U.S. comptroller, argues that official economic indicators like the Consumer Price Index fail to capture the real struggles families face, particularly regarding essential costs such as food, housing, and healthcare. The disconnect between reported statistics and lived reality is fueling discontent, especially as policies under the current Republican agenda exacerbate these pressures.
+  Meanwhile, at the United Nations, Trump’s September 23 speech marked a continuation of his administration’s skepticism toward multilateral institutions. He questioned the UN’s relevance, despite its foundational role in global cooperation. This stance, as Hedges observes, “reflects a broader U.S. disregard for international norms,” particularly as the U.S. continues to violate the UN Charter’s limits on the use of force.
   
-  In the academic sphere, the University of California, Berkeley’s decision to provide federal officials with the names of over 160 individuals in connection with alleged antisemitic incidents has sparked outrage. Critics argue this is part of a broader crackdown on those opposing Israel’s actions in Gaza and liken it to a resurgence of McCarthyism. Faculty and unions are mobilizing in response, suggesting a likely escalation in campus activism and legal challenges.
-  
-  **Trends and Predictions:**  
-  The convergence of state repression, international impunity, and economic hardship points to a period of heightened instability. The majority of analysts cited expect further erosions of civil liberties in the U.S. and continued diplomatic isolation for Washington over its support for Israel. There is a high chance that protests and labor actions will intensify on university campuses and beyond. Economic discontent is quite likely to fuel broader social unrest. I guarantee that unless there is a significant policy reversal, these trends will deepen in the coming months.
+  Looking ahead, the majority of analysts cited by Hedges agree that the U.S. is entering a period of heightened authoritarianism and international instability. There is a high chance that domestic repression will intensify, especially against dissenters and marginalized groups. On the foreign policy front, it is quite likely that the U.S. will continue to back aggressive actions by allies such as Israel, while undermining international institutions like the UN. If current trends persist, I guarantee that democratic norms and global cooperation will face mounting challenges in the months ahead.
 articles:
+  - title: 'Chris Hedges: Trump’s War on America'
+    url: https://scheerpost.com/2025/09/30/chris-hedges-trumps-war-on-america/
+    text: 'Ethic Cleansing by Decree — by Mr. Fish ( clowncrack.com ) In one of the
+      scariest moments in modern history, we''re doing our best at ScheerPost to pierce
+      the fog of lies that conceal it but we need some help to pay our writers and staff.
+      Please consider a tax-deductible donation . By Chris Hedges / Original to ScheerPost
+      Fascists, historically, are surprisingly candid about the world they intend to
+      create. Those they target, despite this transparency, are surprisingly obtuse
+      about what is coming. The most ominous warning to date from our homegrown fascists
+      is the latest Presidential memo , “Countering Domestic Terrorism and Organized
+      Political Violence.” It accuses any critic of law enforcement, Immigration and
+      Customs Enforcement (ICE), the American empire, capitalism, the Christian right,
+      the persecution of immigrants and those that decry discrimination based on race
+      and gender, as well as those who question white, male patriarchy, described as
+      “traditional American views on family, religion, and morality,” of fomenting “violent
+      revolution.” It is a declaration of war on the so-called “radical left,” those
+      the Trump administration blames for “heinous assassinations and other acts of
+      political violence” from the murder of the right-wing pundit Charlie Kirk to “the
+      2024 assassination of a senior healthcare executive and the 2022 assassination
+      attempt against Supreme Court Justice Brett Kavanaugh.” The memo goes on to list
+      the two assassination attempts against Trump. The memo, typical of the self-serving
+      narratives favored by Trump, ignores the murder by a Christian nationalist of
+      Democratic Minnesota state legislator Melissa Hortman and her husband, and the
+      attempted murder of state senator John Hoffman and his wife. These “anti-fascists,”
+      the White House memo warns ominously, “have created a movement that embraces and
+      elevates violence to achieve policy outcomes, including justifying additional
+      assassinations.” The memo’s definition of state enemies is by design amorphous,
+      grounded in the fiction of phantom organizations bent on murder and sedition.
+      The accusations are absurd. They are not based on evidence or verifiable fact.
+      But, as in all totalitarian regimes, truth is whatever those in power declare
+      it to be. This “truth” justifies the crusade. The memo brazenly inverts the rule
+      of law. It turns the law into an instrument of injustice. It uses the decorum
+      of federal agencies, the courts and trials to legalize state crimes. It is grounded
+      in magical thinking, bizarre conspiracy theories and a paranoia that sees the
+      most tepid acts of dissent or criticism as treason. Those who defy the state will,
+      I expect, be decapitated one by one. The forlorn hope that the state will tolerate
+      those who obey will silence many who have already been condemned. “Universal innocence,”
+      Aleksandr Solzhenitsyn writes in The Gulag Archipelago, “also gave rise to the
+      universal failure to act. Maybe they won’t take you? Maybe it will all blow over.”
+      “The majority sit quietly and dare to hope,” he writes. “Since you aren’t guilty,
+      then how can they arrest you? It’s a mistake!” “Does hope lend strength or does
+      it weaken a man?” Solzhenitsyn asks. “If the condemned man in every cell had ganged
+      up on the executioners as they came in and choked them, wouldn’t this have ended
+      the executions sooner than appeals to the All-Russian Central Executive Committee?
+      When one is already on the edge of the grave, why not resist?” “But wasn’t everything
+      foredoomed anyway, from the moment of arrest?” he asks. “Yet all the arrested
+      crawled along the path of hope on their knees, as if their legs had been amputated.”
+      Totalitarian regimes promulgate broad security decrees, from Stalin’s Article
+      58:10 to the Nazis’ Malicious Practices Act , to give themselves the sweeping
+      powers to indiscriminately target anyone. The memo lays out in chilling detail
+      what I assumed in my column , “We Are All antifa Now,” was behind the Trump administration’s
+      designation of antifa as a terrorist group. The designation allows the state to
+      brand all dissidents as supporters of antifa and prosecute them as terrorists.
+      The memo says that state and federal agencies, adopting “a new law enforcement
+      strategy,” will “investigate and disrupt networks, entities, and organizations
+      that foment political violence so that law enforcement can intervene in criminal
+      conspiracies before they result in violent political acts.” These “organized structures,
+      networks, entities, organizations, funding sources” will, the memo promises, be
+      disbanded and uprooted. This is to be a preemptive war. It will be waged against
+      those individuals – James Comey, John Bolton, George Soros and Reid Hoffman –
+      and institutions, including the Democratic Party – which Stephen Miller has labeled
+      a “terrorist organization” – universities and the media, which threaten Trump’s
+      absolute grip on power. This is not simply a war on the left, which is a marginal
+      and ineffective force in American society, but a war on the remnants of our liberal
+      institutions and those that support them. Once these establishment institutions
+      and their representatives are neutered those of us on the left will be next. The
+      memo instructs Federal law enforcement agencies to detain, “question and interrogate”
+      individuals suspected or accused of “political violence or lawlessness.” It demands
+      the Internal Revenue Service (IRS) strip organizations of their tax-exempt status
+      if they are seen by the state as “directly or indirectly financing political violence
+      or domestic terrorism” and report them to “the Department of Justice for investigation
+      and possible prosecution.” I spent two years with the architects of our emergent
+      fascism when I wrote my book, “ American Fascists: The Christian Right and the
+      War on America. ” They do not hide their vision for America. They plan to make
+      the legal system subservient to dogma. They hate the “secular humanist” society
+      based on science and reason. They dream of making the Ten Commandments the basis
+      of the legal system. They plan to teach Creationism or “Intelligent Design” in
+      public schools and make education overtly “Christian.” They brand the LGBTQ community,
+      immigrants, secular humanists, feminists, Jews, Muslims, criminals, and those
+      dismissed as “nominal Christians” — meaning Christians who do not embrace the
+      fundamentalist interpretation of the Bible — as deviants. These deviants are worthy
+      only of being silenced, imprisoned or killed. They condemn government assistance
+      programs, especially for the poor. The climate crisis is a hoax. They call for
+      the federal government to be reduced to protecting property rights, “homeland”
+      security and waging war. They want church organizations to run social-welfare
+      agencies and schools. They demand the expansion of the death penalty to include
+      “moral crimes,” including apostasy, blasphemy, sodomy, and witchcraft, as well
+      as abortion, which will be treated as murder. They call for a return to white,
+      male patriarchy by mythologizing the past. They demand women be denied contraception,
+      access to abortion and equality under the law. The only legitimate voices in public
+      discourse and the media, to them, are “Christian.” America is sacralized as an
+      agent of God. Those who defy the “Christian” authorities, at home and abroad,
+      are agents of Satan. These Christian fascists are incapable of dealing in the
+      world of ideas, nuance and complexity. Stunted by emotional numbness and an inchoate
+      rage, they are unable to communicate in any language other than threats and coercion.
+      Diplomacy, scholarship, culture and journalism are an anathema. One’s duty is
+      to obey. These are the ideological underpinnings of this memo and the society
+      those who authored it plan to create. Power in the age of Trump is based on blind
+      personal loyalty. Rights are privileges that can be instantly revoked. Lies replace
+      truth. Opinions replace facts. History is erased and rewritten. The cult of leadership
+      replaces politics. Paranoia grips the ruling elite, composed of narcissists, buffoons
+      and gangsters, who feed off conspiracy theories. They see mortal enemies everywhere
+      and live in a hermetically sealed non-reality-based universe. They are creating
+      a pseudo-democracy populated with pseudo-legislators, pseudo-courts, pseudo-journalists,
+      pseudo-intellectuals, pseudo-Christians and pseudo-citizens. Fascists mean what
+      they say. The rhetoric condemning the rest of us is not hyperbolic. They cannot
+      be reasoned with. We cannot open channels of dialogue and communication. Our anemic
+      and calcified democracy, including our bankrupt liberal institutions, cannot defeat
+      them. Fascists are the swamp creatures that rise up out of all failed democracies.
+      Our enemies intend to implement this dystopia. The question is not if, but when.
+      How long before the iron bars slam shut and America as we know it disappears?
+      How long before the state rounds us up and hauls us away? I can’t say. But it
+      won’t be long. NOTE TO SCHEERPOST READERS FROM CHRIS HEDGES: There is now no way
+      left for me to continue to write a weekly column for ScheerPost and produce my
+      weekly television show without your help. The walls are closing in, with startling
+      rapidity, on independent journalism , with the elites, including the Democratic
+      Party elites, clamoring for more and more censorship. Bob Scheer, who runs ScheerPost
+      on a shoestring budget, and I will not waver in our commitment to independent
+      and honest journalism, and we will never put ScheerPost behind a paywall, charge
+      a subscription for it, sell your data or accept advertising. Please, if you can,
+      sign up at chrishedges.substack.com so I can continue to post my now weekly Monday
+      column on ScheerPost and produce my weekly television show, The Chris Hedges Report.
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Chris Hedges Chris Hedges is a Pulitzer Prize–winning journalist
+      who was a foreign correspondent for fifteen years for The New York Times, where
+      he served as the Middle East Bureau Chief and Balkan Bureau Chief for the paper.
+      He previously worked overseas for The Dallas Morning News , The Christian Science
+      Monitor , and NPR. He is the host of show The Chris Hedges Report. He was a member
+      of the team that won the 2002 Pulitzer Prize for Explanatory Reporting for The
+      New York Times coverage of global terrorism, and he received the 2002 Amnesty
+      International Global Award for Human Rights Journalism. Hedges, who holds a Master
+      of Divinity from Harvard Divinity School, is the author of the bestsellers American
+      Fascists: The Christian Right and the War on America , Empire of Illusion: The
+      End of Literacy and the Triumph of Spectacle and was a National Book Critics Circle
+      finalist for his book War Is a Force That Gives Us Meaning . He writes an online
+      column for the website ScheerPost . He has taught at Columbia University, New
+      York University, Princeton University and the University of Toronto. Author Site
+      Please share this story and help us grow our network!'
+    one_sentence_summary: The article discusses the alarming implications of a recent
+      Presidential memo that labels critics of various societal issues as potential
+      domestic terrorists, highlighting the candid yet dangerous intentions of homegrown
+      fascism in America.
+    paragraph_summary: In his article, Chris Hedges critiques a recent Presidential
+      memo titled “Countering Domestic Terrorism and Organized Political Violence,”
+      which he argues is a declaration of war against the so-called "radical left."
+      The memo accuses critics of law enforcement, immigration policies, and systemic
+      discrimination of inciting violence and revolution, while framing these critics
+      as threats to traditional American values. Hedges highlights the memo's selective
+      narrative, which overlooks violence committed by right-wing extremists, and suggests
+      that it serves to legitimize the targeting of dissenters in a climate of rising
+      fascism. He warns that this rhetoric reflects a broader strategy to suppress opposition
+      and manipulate public perception, ultimately contributing to an environment of
+      fear and repression.
+    published: '2025-09-30T21:17:23+00:00'
+  - title: 'Chris Hedges: Trump’s War on America'
+    url: https://scheerpost.com/2025/09/30/chris-hedges-trumps-war-on-america/
+    text: 'Ethic Cleansing by Decree — by Mr. Fish ( clowncrack.com ) In one of the
+      scariest moments in modern history, we''re doing our best at ScheerPost to pierce
+      the fog of lies that conceal it but we need some help to pay our writers and staff.
+      Please consider a tax-deductible donation . By Chris Hedges / Original to ScheerPost
+      Fascists, historically, are surprisingly candid about the world they intend to
+      create. Those they target, despite this transparency, are surprisingly obtuse
+      about what is coming. The most ominous warning to date from our homegrown fascists
+      is the latest Presidential memo , “Countering Domestic Terrorism and Organized
+      Political Violence.” It accuses any critic of law enforcement, Immigration and
+      Customs Enforcement (ICE), the American empire, capitalism, the Christian right,
+      the persecution of immigrants and those that decry discrimination based on race
+      and gender, as well as those who question white, male patriarchy, described as
+      “traditional American views on family, religion, and morality,” of fomenting “violent
+      revolution.” It is a declaration of war on the so-called “radical left,” those
+      the Trump administration blames for “heinous assassinations and other acts of
+      political violence” from the murder of the right-wing pundit Charlie Kirk to “the
+      2024 assassination of a senior healthcare executive and the 2022 assassination
+      attempt against Supreme Court Justice Brett Kavanaugh.” The memo goes on to list
+      the two assassination attempts against Trump. The memo, typical of the self-serving
+      narratives favored by Trump, ignores the murder by a Christian nationalist of
+      Democratic Minnesota state legislator Melissa Hortman and her husband, and the
+      attempted murder of state senator John Hoffman and his wife. These “anti-fascists,”
+      the White House memo warns ominously, “have created a movement that embraces and
+      elevates violence to achieve policy outcomes, including justifying additional
+      assassinations.” The memo’s definition of state enemies is by design amorphous,
+      grounded in the fiction of phantom organizations bent on murder and sedition.
+      The accusations are absurd. They are not based on evidence or verifiable fact.
+      But, as in all totalitarian regimes, truth is whatever those in power declare
+      it to be. This “truth” justifies the crusade. The memo brazenly inverts the rule
+      of law. It turns the law into an instrument of injustice. It uses the decorum
+      of federal agencies, the courts and trials to legalize state crimes. It is grounded
+      in magical thinking, bizarre conspiracy theories and a paranoia that sees the
+      most tepid acts of dissent or criticism as treason. Those who defy the state will,
+      I expect, be decapitated one by one. The forlorn hope that the state will tolerate
+      those who obey will silence many who have already been condemned. “Universal innocence,”
+      Aleksandr Solzhenitsyn writes in The Gulag Archipelago, “also gave rise to the
+      universal failure to act. Maybe they won’t take you? Maybe it will all blow over.”
+      “The majority sit quietly and dare to hope,” he writes. “Since you aren’t guilty,
+      then how can they arrest you? It’s a mistake!” “Does hope lend strength or does
+      it weaken a man?” Solzhenitsyn asks. “If the condemned man in every cell had ganged
+      up on the executioners as they came in and choked them, wouldn’t this have ended
+      the executions sooner than appeals to the All-Russian Central Executive Committee?
+      When one is already on the edge of the grave, why not resist?” “But wasn’t everything
+      foredoomed anyway, from the moment of arrest?” he asks. “Yet all the arrested
+      crawled along the path of hope on their knees, as if their legs had been amputated.”
+      Totalitarian regimes promulgate broad security decrees, from Stalin’s Article
+      58:10 to the Nazis’ Malicious Practices Act , to give themselves the sweeping
+      powers to indiscriminately target anyone. The memo lays out in chilling detail
+      what I assumed in my column , “We Are All antifa Now,” was behind the Trump administration’s
+      designation of antifa as a terrorist group. The designation allows the state to
+      brand all dissidents as supporters of antifa and prosecute them as terrorists.
+      The memo says that state and federal agencies, adopting “a new law enforcement
+      strategy,” will “investigate and disrupt networks, entities, and organizations
+      that foment political violence so that law enforcement can intervene in criminal
+      conspiracies before they result in violent political acts.” These “organized structures,
+      networks, entities, organizations, funding sources” will, the memo promises, be
+      disbanded and uprooted. This is to be a preemptive war. It will be waged against
+      those individuals – James Comey, John Bolton, George Soros and Reid Hoffman –
+      and institutions, including the Democratic Party – which Stephen Miller has labeled
+      a “terrorist organization” – universities and the media, which threaten Trump’s
+      absolute grip on power. This is not simply a war on the left, which is a marginal
+      and ineffective force in American society, but a war on the remnants of our liberal
+      institutions and those that support them. Once these establishment institutions
+      and their representatives are neutered those of us on the left will be next. The
+      memo instructs Federal law enforcement agencies to detain, “question and interrogate”
+      individuals suspected or accused of “political violence or lawlessness.” It demands
+      the Internal Revenue Service (IRS) strip organizations of their tax-exempt status
+      if they are seen by the state as “directly or indirectly financing political violence
+      or domestic terrorism” and report them to “the Department of Justice for investigation
+      and possible prosecution.” I spent two years with the architects of our emergent
+      fascism when I wrote my book, “ American Fascists: The Christian Right and the
+      War on America. ” They do not hide their vision for America. They plan to make
+      the legal system subservient to dogma. They hate the “secular humanist” society
+      based on science and reason. They dream of making the Ten Commandments the basis
+      of the legal system. They plan to teach Creationism or “Intelligent Design” in
+      public schools and make education overtly “Christian.” They brand the LGBTQ community,
+      immigrants, secular humanists, feminists, Jews, Muslims, criminals, and those
+      dismissed as “nominal Christians” — meaning Christians who do not embrace the
+      fundamentalist interpretation of the Bible — as deviants. These deviants are worthy
+      only of being silenced, imprisoned or killed. They condemn government assistance
+      programs, especially for the poor. The climate crisis is a hoax. They call for
+      the federal government to be reduced to protecting property rights, “homeland”
+      security and waging war. They want church organizations to run social-welfare
+      agencies and schools. They demand the expansion of the death penalty to include
+      “moral crimes,” including apostasy, blasphemy, sodomy, and witchcraft, as well
+      as abortion, which will be treated as murder. They call for a return to white,
+      male patriarchy by mythologizing the past. They demand women be denied contraception,
+      access to abortion and equality under the law. The only legitimate voices in public
+      discourse and the media, to them, are “Christian.” America is sacralized as an
+      agent of God. Those who defy the “Christian” authorities, at home and abroad,
+      are agents of Satan. These Christian fascists are incapable of dealing in the
+      world of ideas, nuance and complexity. Stunted by emotional numbness and an inchoate
+      rage, they are unable to communicate in any language other than threats and coercion.
+      Diplomacy, scholarship, culture and journalism are an anathema. One’s duty is
+      to obey. These are the ideological underpinnings of this memo and the society
+      those who authored it plan to create. Power in the age of Trump is based on blind
+      personal loyalty. Rights are privileges that can be instantly revoked. Lies replace
+      truth. Opinions replace facts. History is erased and rewritten. The cult of leadership
+      replaces politics. Paranoia grips the ruling elite, composed of narcissists, buffoons
+      and gangsters, who feed off conspiracy theories. They see mortal enemies everywhere
+      and live in a hermetically sealed non-reality-based universe. They are creating
+      a pseudo-democracy populated with pseudo-legislators, pseudo-courts, pseudo-journalists,
+      pseudo-intellectuals, pseudo-Christians and pseudo-citizens. Fascists mean what
+      they say. The rhetoric condemning the rest of us is not hyperbolic. They cannot
+      be reasoned with. We cannot open channels of dialogue and communication. Our anemic
+      and calcified democracy, including our bankrupt liberal institutions, cannot defeat
+      them. Fascists are the swamp creatures that rise up out of all failed democracies.
+      Our enemies intend to implement this dystopia. The question is not if, but when.
+      How long before the iron bars slam shut and America as we know it disappears?
+      How long before the state rounds us up and hauls us away? I can’t say. But it
+      won’t be long. NOTE TO SCHEERPOST READERS FROM CHRIS HEDGES: There is now no way
+      left for me to continue to write a weekly column for ScheerPost and produce my
+      weekly television show without your help. The walls are closing in, with startling
+      rapidity, on independent journalism , with the elites, including the Democratic
+      Party elites, clamoring for more and more censorship. Bob Scheer, who runs ScheerPost
+      on a shoestring budget, and I will not waver in our commitment to independent
+      and honest journalism, and we will never put ScheerPost behind a paywall, charge
+      a subscription for it, sell your data or accept advertising. Please, if you can,
+      sign up at chrishedges.substack.com so I can continue to post my now weekly Monday
+      column on ScheerPost and produce my weekly television show, The Chris Hedges Report.
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Chris Hedges Chris Hedges is a Pulitzer Prize–winning journalist
+      who was a foreign correspondent for fifteen years for The New York Times, where
+      he served as the Middle East Bureau Chief and Balkan Bureau Chief for the paper.
+      He previously worked overseas for The Dallas Morning News , The Christian Science
+      Monitor , and NPR. He is the host of show The Chris Hedges Report. He was a member
+      of the team that won the 2002 Pulitzer Prize for Explanatory Reporting for The
+      New York Times coverage of global terrorism, and he received the 2002 Amnesty
+      International Global Award for Human Rights Journalism. Hedges, who holds a Master
+      of Divinity from Harvard Divinity School, is the author of the bestsellers American
+      Fascists: The Christian Right and the War on America , Empire of Illusion: The
+      End of Literacy and the Triumph of Spectacle and was a National Book Critics Circle
+      finalist for his book War Is a Force That Gives Us Meaning . He writes an online
+      column for the website ScheerPost . He has taught at Columbia University, New
+      York University, Princeton University and the University of Toronto. Author Site
+      Please share this story and help us grow our network!'
+    one_sentence_summary: The article discusses the alarming implications of a recent
+      Presidential memo that labels critics of various societal issues as potential
+      domestic terrorists, highlighting the candid yet dangerous intentions of homegrown
+      fascism in America.
+    paragraph_summary: In his article, Chris Hedges critiques a recent Presidential
+      memo titled “Countering Domestic Terrorism and Organized Political Violence,”
+      which he argues is a declaration of war against the so-called "radical left."
+      The memo accuses critics of law enforcement, immigration policies, and systemic
+      discrimination of inciting violence and revolution, while framing these critics
+      as threats to traditional American values. Hedges highlights the memo's selective
+      narrative, which overlooks violence committed by right-wing extremists, and suggests
+      that it serves to legitimize the targeting of dissenters in a climate of rising
+      fascism. He warns that this rhetoric reflects a broader strategy to suppress opposition
+      and manipulate public perception, ultimately contributing to an environment of
+      fear and repression.
+    published: '2025-09-30T21:17:23+00:00'
+  - title: Trump Is a Fascist, That’s Clear. But What Kind Exactly?
+    url: https://scheerpost.com/2025/09/30/trump-is-a-fascist-thats-clear-but-what-kind-exactly/
+    text: 'Trump protest. Ben Alexander from United States, CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By C.J. Polychroniou and Alexandra Boutri / Common Dreams With each
+      passing day, the Trump administration becomes more authoritarian, shifting the
+      country from a flawed democracy to some variant of fascism. What is President
+      Donald Trump’s ultimate aim? Is he an old-fashioned authoritarian or some type
+      of a new fascist or neofascist? What is the duty of democratic-minded citizens
+      under an emerging dictatorship? Political scientist/political economist, author,
+      and journalist C. J. Polychroniou addresses these and other questions about the
+      current political climate in the United States in the interview that follows with
+      the French-Greek independent journalist and writer Alexandra Boutri. Alexandra
+      Boutri: I’d like to start by asking you how worried you are about the collapse
+      of “democracy” in the United States and whether it is worth defending a governing
+      system that has worked almost exclusively for the super-rich and the privileged
+      classes. C. J. Polychroniou: This is a provocative but nonetheless gripping question!
+      My own feeling is that everyone who cares about fundamental personal freedoms,
+      such as freedom of speech, and basic human rights, such as the rights to health,
+      education, a decent standard of living, and a clean environment, should be terribly
+      worried about what is happening in the United States under the current administration.
+      President Donald Trump and his cronies are a real menace to everything that defines
+      a decent society in today’s world. First of all, they want to go back to a time
+      when whiteness was dominant and there was a clear racial hierarchy. They despise
+      racial equality and have nothing but contempt for poor and working-class people.
+      They loathe the idea of an open society and find intolerable constraints on their
+      powers to do as they please. Trump’s priority is concentrating wealth and power
+      for himself and his family. It is a self-serving, special interest presidency
+      unlike anything we have seen in contemporary U.S. politics. George W. Bush’s corrupt
+      presidency, with its long-standing connections to the oil industry, pales in comparison
+      to the way Trump is using the office of the presidency to increase his own personal
+      wealth and that of his family. Donald Trump is the ultimate used car sales conman
+      who will say and do anythig to make an extra buck. For him, democracy and the
+      rule of law are meaningless concepts as evidenced by the way he is systematically
+      targeting universities, courts, the press, and his political opponents. He is
+      astonishingly corrupt, shockingly cruel, and all his political moves are out of
+      the authoritarian playbook. I should add that he is also one of the dumbest presidents,
+      profoundly ignorant of history, geography and scores of other subjects. As so
+      many sources have pointed out, he most likely does have a “ lethal aversion to
+      reading .” Now, you are right of course in pointing out that the system of government
+      in the United States is one that has favored overwhelmingly the rich and the powerful.
+      American democracy is a sham in many ways. The United States is best defined as
+      an oligarchy rather than a democracy. Still, it has been a free country, up until
+      recently, which means the pursuit of political alternatives were open to the citizenry,
+      although the challenges of doing so were and remain unquestionably enormous. Now,
+      unfortunately, we find ourselves at a stage where concerned citizens have to fight
+      for the mere protection of personal freedoms. Resisting Trump’s authoritarianism
+      is a must if there is to be any hope for a better future. We need to defeat the
+      neofascists. That’s the number one priority. But we need to do this while advocating
+      a real alternative for a sustainable future. Alexandra Boutri: Why is Trump so
+      keen to use the military on home soil? In Portland, he has even authorized troops
+      to make use of “full force.” Has he gone completely bonkers? C. J. Polychroniou
+      : I see several reasons behind the wannabe dictator’s yearning to use the military
+      to implement his domestic policies and enforce his dystopian view of America.
+      First, he is doing it as a form of intimidation, which is of course an old fascist
+      tactic. It is really his way of letting everyone know that there is a new sheriff
+      in town who doesn’t tolerate dissent and refuses to accept challenges to the way
+      he thinks the country ought to be run. After all, you should know that the “beloved
+      leader” knows best how to run a country after having studied extensively the works
+      of Plato, Aristotle, Cicero, Hobbes, Locke, Montesquieu, and so on and so forth.Second,
+      he is doing it because Republicans are clearly behind his vision of using the
+      military as a tool for his domestic policy goals but also because he is worried
+      about the outcome of the 2026 midterm elections. His actions target Democratic-leaning
+      cities, so it’s all part of a PR campaign and very little to do with some strategic
+      crackdown on crime. In Washington, DC ., the National Guard was not deployed to
+      neighborhoods where crime is higher than in other areas but to tourist sites where
+      there is very little crime. At any rate, his MAGA base loves this display of such
+      authoritarian tactics in an alleged fight against crime in blue cities. Third,
+      he is doing it because it boosts his ego and makes him feel like a strongman.
+      This was the purpose of the idiotic military parade in Washington, DC this past
+      June to mark the Army’s 250 th anniversary, which, conveniently enough, coincided
+      with the “beloved leader’s” 79 th birthday. We must not underestimate how important
+      of a role psychology plays in Trump’s behavior. Finally, the intrusion of the
+      military into civilian life could very well be for the purpose of normalizing
+      such a situation in the event that a coup becomes necessary at some point down
+      the road in order to keep Trump and the Republicans in power. Alexandra Boutri:
+      Old-fashioned authoritarian, fascist, neo-fascist, or proto-fascist? What’s the
+      best way to describe Trump and his actions? C. J. Polychroniou : There are subtle
+      differences between authoritarian regimes, military dictatorships, fascism, and
+      Nazism. What we are witnessing today is the decline of liberal democracies under
+      the oppressive weight of 45 years of neoliberal policies and the rise of a new
+      wave of right-wing authoritarianism that can be called neofascist or proto-fascist.
+      In practical terms, it makes very little difference how we label Donald Trump’s
+      dystopian vision of America and the actions of his administration as long as we
+      are absolutely clear that they represent a real threat to the most fundamental
+      human rights and values that were discussed earlier. He is an authoritarian bully
+      carrying out policies with tactics that bear similarities to fascism and who undoubtedly
+      would like to see in place some sort of a proto-fascist social order based on
+      white supremacy and plutocracy. He is a racist to the core, and that alone makes
+      him intrinsically some sort of a fascist. Moreover, if it was entirely up to him,
+      he would remain in power till the end of his life and rule with an iron fist.
+      I have no doubt whatsoever about that. Alexandra Boutri: Out of plain intellectual
+      curiosity, what’s the difference between fascism and Nazism? C. J. Polychroniou:
+      Fascism and Nazism are similar ideologies that rely on mass irrationality, the
+      cult of personality, the supremacy of the state, mysticism and the rejection of
+      Enlightenment values, and the glorification of violence. In crime, both regimes
+      enforced the death penalty (Italy had abolished the death penalty in 1889 while
+      pre-Nazi Germany came close to doing so on many occasions, but all such efforts
+      were always overturned in the end) and both ideologies are deeply racist and antisemitic.
+      Still, there were differences between Italian fascism and Nazism in racial matters.
+      Biological determinism and “blood” played a much more central role in Nazi ideology
+      than it did in fascism. In fact, it was America’s racial laws that shaped Nazi
+      policies in Germany, as James Whitman has so convincingly shown in his book Hitler’s
+      American Model : The United States and the Making of Nazi Race Law . It was the
+      Nazis who practiced mass extermination and genocide of groups deemed as “inferior
+      races.” Alexandra Boutri: How could democratically-minded citizens respond to
+      an emerging dictatorial regime and protect democracy, even a flawed one? C. J.
+      Polychroniou : A soft dictatorial regime is emerging in the US, which could easily
+      become a hard one if Trump is allowed to carry out to the end his reactionary
+      agenda. When a country heads toward a dictatorship, rebellion becomes a duty.
+      We need, first and foremost, solidarity. We need to protect those most vulnerable
+      while at the same time taking political action through whatever legal means are
+      available against presidential abuses of power. Protests, strikes, boycotting
+      companies that support Trump, letting officials know where we stand, and joining
+      groups advocating social change are useful tools and mechanisms of resistance.
+      Educational work is also of critical importance in letting people know what is
+      happening and raising public consciousness. General strikes are very difficult
+      to organize in the US, and the closest the country has come to a national general
+      strike was in 1886. But they can be a very effective form of direct action as
+      they target the political regime itself as well as the system’s economy. Indeed,
+      there have already been calls for the sort of direct action that will shut down
+      the country from people like Democratic Representative Jim McGovern and Sara Nelson
+      , head of the Association of Flight Attendants, and such calls may increase and
+      become louder as the actions of the wannabe dictator become more threatening and
+      increasingly more brutal. I like to believe that we will not see in the US what
+      Greece and Chile experienced in 1967 and 1973, respectively, but the United States
+      is moving exactly in that direction. On September 22, Trump signed an executive
+      order designating Antifa as a ” domestic terrorist organization .” Three days
+      later, he issued a National Security Presidential Memorandum (NSPM-7) on Countering
+      Domestic Terrorism and Organized Political Violence, accompanied by a fact sheet
+      . This memorandum, which is far more dangerous than the Antifa order, is a truly
+      fascist blueprint that directs the federal government to go after “anti-fascist,”
+      “anti-capitalist” movements in the US. It basically targets anyone who is opposing
+      Trump and his MAGA ideology. One may say that these are ” paper tiger executive
+      actions ” and that Trump doesn’t have the legal authority to create new crimes,
+      but such arguments miss the point. Trump has the entire repressive apparatus of
+      the US state behind him, and he is someone who has shown us repeatedly that the
+      Constitution and the rule of law mean nothing to him. He even has the Supreme
+      Court backing his unlawful acts on immigration aids , political prosecutions ,
+      and withholding foreign aid . This is someone who does not hesitate to use the
+      military to carry out deadly strikes against boats in the Caribbean and to order
+      troops to use “full force” against American citizens protesting his fascist policies.
+      The day when we see tanks rolling through the streets across America and curfews
+      imposed may, perhaps, not be that far away after all. Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . C.J. Polychroniou
+      C.J. Polychroniou is a political economist/political scientist who has taught
+      and worked in numerous universities and research centers in Europe and the United
+      States. His latest books are The Precipice: Neoliberalism, the Pandemic and the
+      Urgent Need for Social Change (A collection of interviews with Noam Chomsky; Haymarket
+      Books, 2021), and Economics and the Left: Interviews with Progressive Economists
+      (Verso, 2021). Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: The article discusses the increasing authoritarianism of the
+      Trump administration, questioning its implications for democracy and the responsibilities
+      of citizens in the face of potential fascism, as explored in an interview with
+      political scientist C.J. Polychroniou.
+    paragraph_summary: In a recent interview, political scientist C.J. Polychroniou
+      discusses the alarming shift in the United States under the Trump administration,
+      which he argues is moving the country towards authoritarianism and potentially
+      fascism. He emphasizes the importance of defending democracy, despite its flaws,
+      as it is crucial for protecting fundamental freedoms and human rights. Polychroniou
+      expresses concern over the administration's agenda, which he believes seeks to
+      restore a racial hierarchy and undermine equality, posing a significant threat
+      to the values that define a just society.
+    published: '2025-09-30T19:55:36+00:00'
+  - title: Trump Is a Fascist, That’s Clear. But What Kind Exactly?
+    url: https://scheerpost.com/2025/09/30/trump-is-a-fascist-thats-clear-but-what-kind-exactly/
+    text: 'Trump protest. Ben Alexander from United States, CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By C.J. Polychroniou and Alexandra Boutri / Common Dreams With each
+      passing day, the Trump administration becomes more authoritarian, shifting the
+      country from a flawed democracy to some variant of fascism. What is President
+      Donald Trump’s ultimate aim? Is he an old-fashioned authoritarian or some type
+      of a new fascist or neofascist? What is the duty of democratic-minded citizens
+      under an emerging dictatorship? Political scientist/political economist, author,
+      and journalist C. J. Polychroniou addresses these and other questions about the
+      current political climate in the United States in the interview that follows with
+      the French-Greek independent journalist and writer Alexandra Boutri. Alexandra
+      Boutri: I’d like to start by asking you how worried you are about the collapse
+      of “democracy” in the United States and whether it is worth defending a governing
+      system that has worked almost exclusively for the super-rich and the privileged
+      classes. C. J. Polychroniou: This is a provocative but nonetheless gripping question!
+      My own feeling is that everyone who cares about fundamental personal freedoms,
+      such as freedom of speech, and basic human rights, such as the rights to health,
+      education, a decent standard of living, and a clean environment, should be terribly
+      worried about what is happening in the United States under the current administration.
+      President Donald Trump and his cronies are a real menace to everything that defines
+      a decent society in today’s world. First of all, they want to go back to a time
+      when whiteness was dominant and there was a clear racial hierarchy. They despise
+      racial equality and have nothing but contempt for poor and working-class people.
+      They loathe the idea of an open society and find intolerable constraints on their
+      powers to do as they please. Trump’s priority is concentrating wealth and power
+      for himself and his family. It is a self-serving, special interest presidency
+      unlike anything we have seen in contemporary U.S. politics. George W. Bush’s corrupt
+      presidency, with its long-standing connections to the oil industry, pales in comparison
+      to the way Trump is using the office of the presidency to increase his own personal
+      wealth and that of his family. Donald Trump is the ultimate used car sales conman
+      who will say and do anythig to make an extra buck. For him, democracy and the
+      rule of law are meaningless concepts as evidenced by the way he is systematically
+      targeting universities, courts, the press, and his political opponents. He is
+      astonishingly corrupt, shockingly cruel, and all his political moves are out of
+      the authoritarian playbook. I should add that he is also one of the dumbest presidents,
+      profoundly ignorant of history, geography and scores of other subjects. As so
+      many sources have pointed out, he most likely does have a “ lethal aversion to
+      reading .” Now, you are right of course in pointing out that the system of government
+      in the United States is one that has favored overwhelmingly the rich and the powerful.
+      American democracy is a sham in many ways. The United States is best defined as
+      an oligarchy rather than a democracy. Still, it has been a free country, up until
+      recently, which means the pursuit of political alternatives were open to the citizenry,
+      although the challenges of doing so were and remain unquestionably enormous. Now,
+      unfortunately, we find ourselves at a stage where concerned citizens have to fight
+      for the mere protection of personal freedoms. Resisting Trump’s authoritarianism
+      is a must if there is to be any hope for a better future. We need to defeat the
+      neofascists. That’s the number one priority. But we need to do this while advocating
+      a real alternative for a sustainable future. Alexandra Boutri: Why is Trump so
+      keen to use the military on home soil? In Portland, he has even authorized troops
+      to make use of “full force.” Has he gone completely bonkers? C. J. Polychroniou
+      : I see several reasons behind the wannabe dictator’s yearning to use the military
+      to implement his domestic policies and enforce his dystopian view of America.
+      First, he is doing it as a form of intimidation, which is of course an old fascist
+      tactic. It is really his way of letting everyone know that there is a new sheriff
+      in town who doesn’t tolerate dissent and refuses to accept challenges to the way
+      he thinks the country ought to be run. After all, you should know that the “beloved
+      leader” knows best how to run a country after having studied extensively the works
+      of Plato, Aristotle, Cicero, Hobbes, Locke, Montesquieu, and so on and so forth.Second,
+      he is doing it because Republicans are clearly behind his vision of using the
+      military as a tool for his domestic policy goals but also because he is worried
+      about the outcome of the 2026 midterm elections. His actions target Democratic-leaning
+      cities, so it’s all part of a PR campaign and very little to do with some strategic
+      crackdown on crime. In Washington, DC ., the National Guard was not deployed to
+      neighborhoods where crime is higher than in other areas but to tourist sites where
+      there is very little crime. At any rate, his MAGA base loves this display of such
+      authoritarian tactics in an alleged fight against crime in blue cities. Third,
+      he is doing it because it boosts his ego and makes him feel like a strongman.
+      This was the purpose of the idiotic military parade in Washington, DC this past
+      June to mark the Army’s 250 th anniversary, which, conveniently enough, coincided
+      with the “beloved leader’s” 79 th birthday. We must not underestimate how important
+      of a role psychology plays in Trump’s behavior. Finally, the intrusion of the
+      military into civilian life could very well be for the purpose of normalizing
+      such a situation in the event that a coup becomes necessary at some point down
+      the road in order to keep Trump and the Republicans in power. Alexandra Boutri:
+      Old-fashioned authoritarian, fascist, neo-fascist, or proto-fascist? What’s the
+      best way to describe Trump and his actions? C. J. Polychroniou : There are subtle
+      differences between authoritarian regimes, military dictatorships, fascism, and
+      Nazism. What we are witnessing today is the decline of liberal democracies under
+      the oppressive weight of 45 years of neoliberal policies and the rise of a new
+      wave of right-wing authoritarianism that can be called neofascist or proto-fascist.
+      In practical terms, it makes very little difference how we label Donald Trump’s
+      dystopian vision of America and the actions of his administration as long as we
+      are absolutely clear that they represent a real threat to the most fundamental
+      human rights and values that were discussed earlier. He is an authoritarian bully
+      carrying out policies with tactics that bear similarities to fascism and who undoubtedly
+      would like to see in place some sort of a proto-fascist social order based on
+      white supremacy and plutocracy. He is a racist to the core, and that alone makes
+      him intrinsically some sort of a fascist. Moreover, if it was entirely up to him,
+      he would remain in power till the end of his life and rule with an iron fist.
+      I have no doubt whatsoever about that. Alexandra Boutri: Out of plain intellectual
+      curiosity, what’s the difference between fascism and Nazism? C. J. Polychroniou:
+      Fascism and Nazism are similar ideologies that rely on mass irrationality, the
+      cult of personality, the supremacy of the state, mysticism and the rejection of
+      Enlightenment values, and the glorification of violence. In crime, both regimes
+      enforced the death penalty (Italy had abolished the death penalty in 1889 while
+      pre-Nazi Germany came close to doing so on many occasions, but all such efforts
+      were always overturned in the end) and both ideologies are deeply racist and antisemitic.
+      Still, there were differences between Italian fascism and Nazism in racial matters.
+      Biological determinism and “blood” played a much more central role in Nazi ideology
+      than it did in fascism. In fact, it was America’s racial laws that shaped Nazi
+      policies in Germany, as James Whitman has so convincingly shown in his book Hitler’s
+      American Model : The United States and the Making of Nazi Race Law . It was the
+      Nazis who practiced mass extermination and genocide of groups deemed as “inferior
+      races.” Alexandra Boutri: How could democratically-minded citizens respond to
+      an emerging dictatorial regime and protect democracy, even a flawed one? C. J.
+      Polychroniou : A soft dictatorial regime is emerging in the US, which could easily
+      become a hard one if Trump is allowed to carry out to the end his reactionary
+      agenda. When a country heads toward a dictatorship, rebellion becomes a duty.
+      We need, first and foremost, solidarity. We need to protect those most vulnerable
+      while at the same time taking political action through whatever legal means are
+      available against presidential abuses of power. Protests, strikes, boycotting
+      companies that support Trump, letting officials know where we stand, and joining
+      groups advocating social change are useful tools and mechanisms of resistance.
+      Educational work is also of critical importance in letting people know what is
+      happening and raising public consciousness. General strikes are very difficult
+      to organize in the US, and the closest the country has come to a national general
+      strike was in 1886. But they can be a very effective form of direct action as
+      they target the political regime itself as well as the system’s economy. Indeed,
+      there have already been calls for the sort of direct action that will shut down
+      the country from people like Democratic Representative Jim McGovern and Sara Nelson
+      , head of the Association of Flight Attendants, and such calls may increase and
+      become louder as the actions of the wannabe dictator become more threatening and
+      increasingly more brutal. I like to believe that we will not see in the US what
+      Greece and Chile experienced in 1967 and 1973, respectively, but the United States
+      is moving exactly in that direction. On September 22, Trump signed an executive
+      order designating Antifa as a ” domestic terrorist organization .” Three days
+      later, he issued a National Security Presidential Memorandum (NSPM-7) on Countering
+      Domestic Terrorism and Organized Political Violence, accompanied by a fact sheet
+      . This memorandum, which is far more dangerous than the Antifa order, is a truly
+      fascist blueprint that directs the federal government to go after “anti-fascist,”
+      “anti-capitalist” movements in the US. It basically targets anyone who is opposing
+      Trump and his MAGA ideology. One may say that these are ” paper tiger executive
+      actions ” and that Trump doesn’t have the legal authority to create new crimes,
+      but such arguments miss the point. Trump has the entire repressive apparatus of
+      the US state behind him, and he is someone who has shown us repeatedly that the
+      Constitution and the rule of law mean nothing to him. He even has the Supreme
+      Court backing his unlawful acts on immigration aids , political prosecutions ,
+      and withholding foreign aid . This is someone who does not hesitate to use the
+      military to carry out deadly strikes against boats in the Caribbean and to order
+      troops to use “full force” against American citizens protesting his fascist policies.
+      The day when we see tanks rolling through the streets across America and curfews
+      imposed may, perhaps, not be that far away after all. Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . C.J. Polychroniou
+      C.J. Polychroniou is a political economist/political scientist who has taught
+      and worked in numerous universities and research centers in Europe and the United
+      States. His latest books are The Precipice: Neoliberalism, the Pandemic and the
+      Urgent Need for Social Change (A collection of interviews with Noam Chomsky; Haymarket
+      Books, 2021), and Economics and the Left: Interviews with Progressive Economists
+      (Verso, 2021). Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: The article discusses the increasing authoritarianism of the
+      Trump administration, questioning its implications for democracy and the responsibilities
+      of citizens in the face of potential fascism, as explored in an interview with
+      political scientist C.J. Polychroniou.
+    paragraph_summary: In a recent interview, political scientist C.J. Polychroniou
+      discusses the alarming shift in the United States under the Trump administration,
+      which he argues is moving the country towards authoritarianism and potentially
+      fascism. He emphasizes the importance of defending democracy, despite its flaws,
+      as it is crucial for protecting fundamental freedoms and human rights. Polychroniou
+      expresses concern over the administration's agenda, which he believes seeks to
+      restore a racial hierarchy and undermine equality, posing a significant threat
+      to the values that define a just society.
+    published: '2025-09-30T19:55:36+00:00'
+  - title: Trump Says Israel Can ‘Finish the Job’ in Gaza if Hamas Rejects Latest Ceasefire
+      Plan
+    url: https://scheerpost.com/2025/09/30/trump-says-israel-can-finish-the-job-in-gaza-if-hamas-rejects-latest-ceasefire-plan/
+    text: 'Donald Trump and Benjamin Netanyahu at White House 2025. Dan Scavino, Public
+      domain, via Wikimedia Commons In one of the scariest moments in modern history,
+      we''re doing our best at ScheerPost to pierce the fog of lies that conceal it
+      but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Michael Arria / Mondoweiss President Donald Trump says Israeli Prime
+      Minister Benjamin Netanyahu has accepted the latest U.S.-backed “peace plan,”
+      which is ostensibly aimed at securing a ceasefire in Gaza. Trump made the announcement
+      during a joint press conference with Netanyahu, which followed a White House meeting
+      between the two leaders. It’s Netanyahu’s fourth trip to Washington since Trump
+      began his term in January. During the meeting, Trump facilitated an Oval Office
+      phone call between Netanyahu and Qatari Prime Minister Mohammed bin Abdulrahman
+      bin Jassim al-Thani, in which the Israeli leader apologized for the September
+      9 attack on Doha. Netanyahu expressed regret about the strikes and, specifically,
+      “that, in targeting Hamas leadership during hostage negotiations, Israel violated
+      Qatari sovereignty,” according to a White House readout of the phone call. Despite
+      being touted as a diplomatic breakthrough, the 20-point plan recycles a number
+      of previous White House declarations. The plan would include a prisoner swap,
+      complete Hamas disarmament, and the formulation of a transitional government led
+      by an international body. Additionaly, it requires Gaza to become “deradicalized
+      terror-free zone.” Trump would chair a “board of peace” to reconstruct the Gaza
+      Strip as part of the program, while Jordan and Egypt would train new Palestinian
+      security forces. Trump told reporters that it was an “extremely fair” proposal
+      and claimed that Hamas “wants to get this done too,” despite reports that Hamas
+      has yet to receive the plan. “I also want to thank Prime Minister Netanyahu for
+      agreeing to the plan and for trusting that if we work together, we can bring an
+      end to the death and destruction that we’ve seen for so many years, decades, even
+      centuries and begin a new chapter of security, peace and prosperity for the entire
+      region,” said Trump. If Hamas rejects the deal, Trump said Israel “would have
+      my full backing to finish the job” of destroying the group. Netanyahu said Hamas
+      could choose the “easy way or hard way” going forward. “Everyone understands that
+      the ultimate result must be the elimination of any danger posed in the region,
+      and that danger is caused by Hamas,” explained Trump. Neither leader took questions
+      after the press conference. Shortly before the meeting, Axios published a report
+      by Marc Caputo and Barak Ravid, which claimed Trump is “willing to break with
+      him over Gaza for the first time since returning to office.” It quoted an anonymous
+      Trump official who insisted that “everyone — and I mean everyone — is exasperated
+      with Bibi.” Despite such assertions, the Trump administration has continued to
+      support the assault on Gaza without conditions of any kind. Earlier this month,
+      in a 72-page report, the UN Commission of Inquiry concluded that Israel is committing
+      genocide in Gaza and called for an arms embargo on the country. “What does this
+      mean for the international community?,” wrote UN human rights chief and commission
+      member Navi Pillay after the report was released. “It means its obligations are
+      not optional. Every state has an obligation to prevent genocide wherever it occurs,”
+      she continued. “That obligation requires action: halting the transfer of weapons
+      and military support used in genocidal acts, ensuring unimpeded humanitarian assistance,
+      stopping the mass displacement and destruction, and using all available diplomatic
+      and legal means to stop the killing. To do nothing is not neutrality. It is complicity.”
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Michael Arria Michael Arria is the U.S. correspondent for Mondoweiss.
+      His work has appeared in In These Times, The Appeal, and Truthout. He is the author
+      of Medium Blue: The Politics of MSNBC . Follow him on Twitter at @michaelarria
+      . Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: During a joint press conference at the White House, President
+      Donald Trump announced that Israeli Prime Minister Benjamin Netanyahu has accepted
+      a new U.S.-backed peace plan aimed at achieving a ceasefire in Gaza, following
+      their meeting and a phone call facilitated by Trump with the Qatari Prime Minister.
+    paragraph_summary: During a recent press conference, President Donald Trump announced
+      that Israeli Prime Minister Benjamin Netanyahu has accepted a new U.S.-backed
+      peace plan aimed at establishing a ceasefire in Gaza. This announcement followed
+      a meeting between the two leaders at the White House, marking Netanyahu's fourth
+      visit since Trump took office. The plan, which includes a prisoner swap, the disarmament
+      of Hamas, and the creation of a transitional government overseen by an international
+      body, has been criticized for recycling previous U.S. proposals. Trump described
+      the plan as "extremely fair" and claimed that Hamas is also interested in the
+      agreement, despite indications that they have not yet received it. The plan also
+      involves the reconstruction of Gaza, with Jordan and Egypt participating in training
+      new Palestinian security forces.
+    published: '2025-09-30T12:00:34+00:00'
+  - title: Trump Says Israel Can ‘Finish the Job’ in Gaza if Hamas Rejects Latest Ceasefire
+      Plan
+    url: https://scheerpost.com/2025/09/30/trump-says-israel-can-finish-the-job-in-gaza-if-hamas-rejects-latest-ceasefire-plan/
+    text: 'Donald Trump and Benjamin Netanyahu at White House 2025. Dan Scavino, Public
+      domain, via Wikimedia Commons In one of the scariest moments in modern history,
+      we''re doing our best at ScheerPost to pierce the fog of lies that conceal it
+      but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Michael Arria / Mondoweiss President Donald Trump says Israeli Prime
+      Minister Benjamin Netanyahu has accepted the latest U.S.-backed “peace plan,”
+      which is ostensibly aimed at securing a ceasefire in Gaza. Trump made the announcement
+      during a joint press conference with Netanyahu, which followed a White House meeting
+      between the two leaders. It’s Netanyahu’s fourth trip to Washington since Trump
+      began his term in January. During the meeting, Trump facilitated an Oval Office
+      phone call between Netanyahu and Qatari Prime Minister Mohammed bin Abdulrahman
+      bin Jassim al-Thani, in which the Israeli leader apologized for the September
+      9 attack on Doha. Netanyahu expressed regret about the strikes and, specifically,
+      “that, in targeting Hamas leadership during hostage negotiations, Israel violated
+      Qatari sovereignty,” according to a White House readout of the phone call. Despite
+      being touted as a diplomatic breakthrough, the 20-point plan recycles a number
+      of previous White House declarations. The plan would include a prisoner swap,
+      complete Hamas disarmament, and the formulation of a transitional government led
+      by an international body. Additionaly, it requires Gaza to become “deradicalized
+      terror-free zone.” Trump would chair a “board of peace” to reconstruct the Gaza
+      Strip as part of the program, while Jordan and Egypt would train new Palestinian
+      security forces. Trump told reporters that it was an “extremely fair” proposal
+      and claimed that Hamas “wants to get this done too,” despite reports that Hamas
+      has yet to receive the plan. “I also want to thank Prime Minister Netanyahu for
+      agreeing to the plan and for trusting that if we work together, we can bring an
+      end to the death and destruction that we’ve seen for so many years, decades, even
+      centuries and begin a new chapter of security, peace and prosperity for the entire
+      region,” said Trump. If Hamas rejects the deal, Trump said Israel “would have
+      my full backing to finish the job” of destroying the group. Netanyahu said Hamas
+      could choose the “easy way or hard way” going forward. “Everyone understands that
+      the ultimate result must be the elimination of any danger posed in the region,
+      and that danger is caused by Hamas,” explained Trump. Neither leader took questions
+      after the press conference. Shortly before the meeting, Axios published a report
+      by Marc Caputo and Barak Ravid, which claimed Trump is “willing to break with
+      him over Gaza for the first time since returning to office.” It quoted an anonymous
+      Trump official who insisted that “everyone — and I mean everyone — is exasperated
+      with Bibi.” Despite such assertions, the Trump administration has continued to
+      support the assault on Gaza without conditions of any kind. Earlier this month,
+      in a 72-page report, the UN Commission of Inquiry concluded that Israel is committing
+      genocide in Gaza and called for an arms embargo on the country. “What does this
+      mean for the international community?,” wrote UN human rights chief and commission
+      member Navi Pillay after the report was released. “It means its obligations are
+      not optional. Every state has an obligation to prevent genocide wherever it occurs,”
+      she continued. “That obligation requires action: halting the transfer of weapons
+      and military support used in genocidal acts, ensuring unimpeded humanitarian assistance,
+      stopping the mass displacement and destruction, and using all available diplomatic
+      and legal means to stop the killing. To do nothing is not neutrality. It is complicity.”
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Michael Arria Michael Arria is the U.S. correspondent for Mondoweiss.
+      His work has appeared in In These Times, The Appeal, and Truthout. He is the author
+      of Medium Blue: The Politics of MSNBC . Follow him on Twitter at @michaelarria
+      . Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: During a joint press conference at the White House, President
+      Donald Trump announced that Israeli Prime Minister Benjamin Netanyahu has accepted
+      a new U.S.-backed peace plan aimed at achieving a ceasefire in Gaza, following
+      their meeting and a phone call facilitated by Trump with the Qatari Prime Minister.
+    paragraph_summary: During a recent press conference, President Donald Trump announced
+      that Israeli Prime Minister Benjamin Netanyahu has accepted a new U.S.-backed
+      peace plan aimed at establishing a ceasefire in Gaza. This announcement followed
+      a meeting between the two leaders at the White House, marking Netanyahu's fourth
+      visit since Trump took office. The plan, which includes a prisoner swap, the disarmament
+      of Hamas, and the creation of a transitional government overseen by an international
+      body, has been criticized for recycling previous U.S. proposals. Trump described
+      the plan as "extremely fair" and claimed that Hamas is also interested in the
+      agreement, despite indications that they have not yet received it. The plan also
+      involves the reconstruction of Gaza, with Jordan and Egypt participating in training
+      new Palestinian security forces.
+    published: '2025-09-30T12:00:34+00:00'
+  - title: As UN Turns 80, Trump Continues US Violation of Charter’s Limits on Use of
+      Force
+    url: https://scheerpost.com/2025/09/30/as-un-turns-80-trump-continues-us-violation-of-charters-limits-on-use-of-force/
+    text: 'Shore of the East River with Headquarters of the United Nations, New York
+      City. Jakub Hałun, CC BY 4.0 https://creativecommons.org/licenses/by/4.0 , via
+      Wikimedia Commons In one of the scariest moments in modern history, we''re doing
+      our best at ScheerPost to pierce the fog of lies that conceal it but we need some
+      help to pay our writers and staff. Please consider a tax-deductible donation .
+      By Marjorie Cohn / Truthout In his inflammatory September 23 speech to the United
+      Nations General Assembly, Donald Trump expressed contempt for the UN, falsely
+      claiming he had ended seven wars and stating , “I realized that the United Nations
+      wasn’t there for us. I thought of it really after the fact … that being the case,
+      what is the purpose of the United Nations?” If Trump studied history, he would
+      know the answer to that question. Eighty years ago, after two world wars claimed
+      millions of lives, nations around the world — including the United States — came
+      together and established the UN system “to save succeeding generations from the
+      scourge of war.” The UN Charter requires that all states settle their disputes
+      peacefully and refrain from the use of armed force except in self-defense under
+      Article 51, after an armed attack against a UN state by another state, or when
+      the Security Council authorizes it. But, motivated by American exceptionalism
+      — the notion that the U.S. is unique and morally superior and thus not bound by
+      the rules — successive elected U.S. governments have violate d the commands of
+      the UN Charter and illegally attacked other countries with impunity. Violation
+      of UN Charter by Last Five U.S. Presidents Trump has ignored the straightforward
+      rules about the lawful use of force, but he is not the first U.S. president to
+      do so. We need look no further than the last five presidents, who have launched
+      armed attacks without Security Council approval against countries that had not
+      carried out armed attacks on the United States or other UN member countries. Bill
+      Clinton could have helped prevent the genocide in Rwanda. But instead, he precluded
+      the UN from acting to stop the killing of 800,000 people. In 1993, Clinton bombed
+      Iraq to retaliate for an assassination attempt against George H. W. Bush. In 1998,
+      on the eve of his impeachment, Clinton once again bombed Iraq, ostensibly to enforce
+      Security Council resolutions, even though only the Council has the power to enforce
+      its resolutions. Both bombings violated the UN Charter. The 1999 U.S.-led NATO
+      bombing of Yugoslavia also violated the Charter, killing roughly 500 civilians
+      . Madeline Albright, Clinton’s secretary of state, labeled the UN “a tool of American
+      foreign policy.” In 2001, George W. Bush’s administration illegally invaded Afghanistan
+      , even though Afghanistan had not attacked the United States. On September 11,
+      2001, 19 men (15 of whom hailed from Saudi Arabia) committed crimes against humanity
+      in the United States. But that was not an armed attack by another state sufficient
+      to trigger the Charter’s Article 51 self-defense provision. Bush’s invasion of
+      Afghanistan was not lawful self-defense, and the Security Council had not approved
+      it. Two years later, before he illegally invaded Iraq and changed its regime,
+      Bush tried to obtain the consent of the Security Council, but the Council refused
+      to authorize the invasion. Then Bush cobbled together prior Security Council resolutions
+      from the first Gulf War, none of which authorized him to attack Iraq in 2003,
+      in a vain attempt to legitimize his illegitimate war. John Bolton, who served
+      as U.S. ambassador to the UN during George W. Bush’s second term, and national
+      security adviser during Trump’s first term, was a strong advocate for Bush’s 2003
+      invasion of Iraq. In 1994, Bolton displayed his hatred for the UN when he stated
+      that “there is no such thing as the United Nations,” cynically adding, “If the
+      UN Secretariat building in New York lost 10 stories, it wouldn’t make a bit of
+      difference.” Barack Obama launched illegal drone strikes in Yemen, Pakistan, Somalia,
+      Libya, Afghanistan, Syria, and Iraq. None of those seven states had mounted an
+      armed attack against the U.S. or any other UN member country, and the Security
+      Council did not authorize the strikes. Moreover, the Obama administration provided
+      no evidence that any of those states were about to launch an imminent attack on
+      the United States. Even if the U.S. Congress had authorized Obama’s wars, they
+      still would not have been in compliance with the Charter. During Trump’s first
+      regime, he ordered the illegal bombing of Syria . In 2017, he sent 59 Tomahawk
+      cruise missiles to attack Syria in response to its alleged use of chemical weapons
+      in a Damascus suburb. Syria had not attacked the United States or any other UN
+      state before Trump’s missile strike. The use of chemical weapons by Syria did
+      not constitute an armed attack to trigger the right of self-defense. And the Security
+      Council had not approved Trump’s use of force. It therefore violated the Charter.
+      In 2020, Trump ordered the illegal drone assassination of Iranian Maj. Gen. Qassim
+      Suleimani who was present in Iraq. Neither Iran nor Iraq had attacked the United
+      States and the Council had not authorized Trump’s drone attack. It was therefore
+      illegal under the Charter. One month after Joe Biden was inaugurated, he authorized
+      airstrikes in Syria on buildings that purportedly belonged to Iran-backed militias
+      who were allegedly responsible for attacks against U.S. and allied personnel in
+      Iraq. Syria, however, had not undertaken an armed attack on the U.S. or another
+      country, and the Security Council had not approved the attack. Biden also authorized
+      illegal drone strikes in Afghanistan in 2021 and 2022 , and in Yemen in 2024.
+      Trump Renames “Department of Defense” the “Department of War” Trump signed an
+      executive order attempting to rename the “Department of Defense” as the “Department
+      of War.” Permanently renaming the department would require congressional approval,
+      but the move is indicative of his explicit rejection of the Charter’s fundamental
+      precept of self-defense. And his actions since assuming office for his second
+      term are consistent with that rejection. After Israel illegally attacked Iran
+      in June, Trump conducted a series of military strikes against three Iranian nuclear
+      facilities. Although he claimed his objective was to put “a stop to the nuclear
+      threat posed by the world’s number one state sponsor of terror,” Iran did not
+      constitute an imminent threat. Rafael Grossi, director general of the International
+      Atomic Energy Agency, affirmed at the time that Iran did not even have nuclear
+      weapons capability. The U.S. strikes were not mounted in self-defense, and the
+      Council had not given its imprimatur for the attacks. Earlier this month, Trump
+      illegally ordered armed attacks on at least three Venezuelan fishing vessels under
+      the guise of fighting the drug war, killing at least 11 people, in direct violation
+      of the Charter. He was apparently testing the waters. Now NBC News is reporting
+      that Trump is considering mounting drone strikes within Venezuela in the next
+      few weeks. Since October 7, 2023, when Israel began its genocidal campaign against
+      the Palestinian people in Gaza, the United States — under both Biden and Trump
+      — has six times vetoed Security Council resolutions to end the fighting, despite
+      the UN Charter’s command that international disputes be settled peacefully. The
+      Trump administration filed the most recent U.S. veto on September 18. Secretary
+      of War Pete Hegseth has issued an unprecedented order summoning high-ranking military
+      officials to attend a meeting in Quantico, Virginia, on September 30, reportedly
+      to deliver a message about upholding a “ warrior ethos .” Whether this signals
+      a new aggressive approach or remains a mere photo op, the Trump administration
+      is likely to continue the foreign policy tradition of disregarding the UN Charter,
+      thanks to decades of impunity enjoyed by previous administrations. Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Marjorie Cohn
+      Marjorie Cohn is professor emerita at Thomas Jefferson School of Law, dean of
+      the People’s Academy of International Law, and past president of the National
+      Lawyers Guild. She sits on the national advisory boards of Veterans For Peace
+      and Assange Defense, and is a member of the bureau of the International Association
+      of Democratic Lawyers and the U.S. representative to the continental advisory
+      council of the Association of American Jurists. Her books include Drones and Targeted
+      Killing: Legal, Moral and Geopolitical Issues . Author SIte Please share this
+      story and help us grow our network!'
+    one_sentence_summary: In a September 23 speech to the UN General Assembly, Donald
+      Trump criticized the United Nations and questioned its purpose, despite its historical
+      role in promoting global cooperation after the devastation of two world wars.
+    paragraph_summary: In a recent article by Marjorie Cohn for Truthout, the author
+      critiques Donald Trump's speech at the United Nations General Assembly, where
+      he expressed disdain for the UN and made misleading claims about ending wars.
+      Cohn emphasizes the historical significance of the UN, established after two world
+      wars to promote peace and prevent future conflicts, and highlights the UN Charter's
+      stipulations regarding the use of force. She argues that successive U.S. presidents,
+      including Trump, have violated these principles, acting on a belief in American
+      exceptionalism that allows them to bypass international law. The article underscores
+      the ongoing disregard for the UN's authority by U.S. leaders, which undermines
+      the organization's foundational goals.
+    published: '2025-09-30T11:56:13+00:00'
+  - title: As UN Turns 80, Trump Continues US Violation of Charter’s Limits on Use of
+      Force
+    url: https://scheerpost.com/2025/09/30/as-un-turns-80-trump-continues-us-violation-of-charters-limits-on-use-of-force/
+    text: 'Shore of the East River with Headquarters of the United Nations, New York
+      City. Jakub Hałun, CC BY 4.0 https://creativecommons.org/licenses/by/4.0 , via
+      Wikimedia Commons In one of the scariest moments in modern history, we''re doing
+      our best at ScheerPost to pierce the fog of lies that conceal it but we need some
+      help to pay our writers and staff. Please consider a tax-deductible donation .
+      By Marjorie Cohn / Truthout In his inflammatory September 23 speech to the United
+      Nations General Assembly, Donald Trump expressed contempt for the UN, falsely
+      claiming he had ended seven wars and stating , “I realized that the United Nations
+      wasn’t there for us. I thought of it really after the fact … that being the case,
+      what is the purpose of the United Nations?” If Trump studied history, he would
+      know the answer to that question. Eighty years ago, after two world wars claimed
+      millions of lives, nations around the world — including the United States — came
+      together and established the UN system “to save succeeding generations from the
+      scourge of war.” The UN Charter requires that all states settle their disputes
+      peacefully and refrain from the use of armed force except in self-defense under
+      Article 51, after an armed attack against a UN state by another state, or when
+      the Security Council authorizes it. But, motivated by American exceptionalism
+      — the notion that the U.S. is unique and morally superior and thus not bound by
+      the rules — successive elected U.S. governments have violate d the commands of
+      the UN Charter and illegally attacked other countries with impunity. Violation
+      of UN Charter by Last Five U.S. Presidents Trump has ignored the straightforward
+      rules about the lawful use of force, but he is not the first U.S. president to
+      do so. We need look no further than the last five presidents, who have launched
+      armed attacks without Security Council approval against countries that had not
+      carried out armed attacks on the United States or other UN member countries. Bill
+      Clinton could have helped prevent the genocide in Rwanda. But instead, he precluded
+      the UN from acting to stop the killing of 800,000 people. In 1993, Clinton bombed
+      Iraq to retaliate for an assassination attempt against George H. W. Bush. In 1998,
+      on the eve of his impeachment, Clinton once again bombed Iraq, ostensibly to enforce
+      Security Council resolutions, even though only the Council has the power to enforce
+      its resolutions. Both bombings violated the UN Charter. The 1999 U.S.-led NATO
+      bombing of Yugoslavia also violated the Charter, killing roughly 500 civilians
+      . Madeline Albright, Clinton’s secretary of state, labeled the UN “a tool of American
+      foreign policy.” In 2001, George W. Bush’s administration illegally invaded Afghanistan
+      , even though Afghanistan had not attacked the United States. On September 11,
+      2001, 19 men (15 of whom hailed from Saudi Arabia) committed crimes against humanity
+      in the United States. But that was not an armed attack by another state sufficient
+      to trigger the Charter’s Article 51 self-defense provision. Bush’s invasion of
+      Afghanistan was not lawful self-defense, and the Security Council had not approved
+      it. Two years later, before he illegally invaded Iraq and changed its regime,
+      Bush tried to obtain the consent of the Security Council, but the Council refused
+      to authorize the invasion. Then Bush cobbled together prior Security Council resolutions
+      from the first Gulf War, none of which authorized him to attack Iraq in 2003,
+      in a vain attempt to legitimize his illegitimate war. John Bolton, who served
+      as U.S. ambassador to the UN during George W. Bush’s second term, and national
+      security adviser during Trump’s first term, was a strong advocate for Bush’s 2003
+      invasion of Iraq. In 1994, Bolton displayed his hatred for the UN when he stated
+      that “there is no such thing as the United Nations,” cynically adding, “If the
+      UN Secretariat building in New York lost 10 stories, it wouldn’t make a bit of
+      difference.” Barack Obama launched illegal drone strikes in Yemen, Pakistan, Somalia,
+      Libya, Afghanistan, Syria, and Iraq. None of those seven states had mounted an
+      armed attack against the U.S. or any other UN member country, and the Security
+      Council did not authorize the strikes. Moreover, the Obama administration provided
+      no evidence that any of those states were about to launch an imminent attack on
+      the United States. Even if the U.S. Congress had authorized Obama’s wars, they
+      still would not have been in compliance with the Charter. During Trump’s first
+      regime, he ordered the illegal bombing of Syria . In 2017, he sent 59 Tomahawk
+      cruise missiles to attack Syria in response to its alleged use of chemical weapons
+      in a Damascus suburb. Syria had not attacked the United States or any other UN
+      state before Trump’s missile strike. The use of chemical weapons by Syria did
+      not constitute an armed attack to trigger the right of self-defense. And the Security
+      Council had not approved Trump’s use of force. It therefore violated the Charter.
+      In 2020, Trump ordered the illegal drone assassination of Iranian Maj. Gen. Qassim
+      Suleimani who was present in Iraq. Neither Iran nor Iraq had attacked the United
+      States and the Council had not authorized Trump’s drone attack. It was therefore
+      illegal under the Charter. One month after Joe Biden was inaugurated, he authorized
+      airstrikes in Syria on buildings that purportedly belonged to Iran-backed militias
+      who were allegedly responsible for attacks against U.S. and allied personnel in
+      Iraq. Syria, however, had not undertaken an armed attack on the U.S. or another
+      country, and the Security Council had not approved the attack. Biden also authorized
+      illegal drone strikes in Afghanistan in 2021 and 2022 , and in Yemen in 2024.
+      Trump Renames “Department of Defense” the “Department of War” Trump signed an
+      executive order attempting to rename the “Department of Defense” as the “Department
+      of War.” Permanently renaming the department would require congressional approval,
+      but the move is indicative of his explicit rejection of the Charter’s fundamental
+      precept of self-defense. And his actions since assuming office for his second
+      term are consistent with that rejection. After Israel illegally attacked Iran
+      in June, Trump conducted a series of military strikes against three Iranian nuclear
+      facilities. Although he claimed his objective was to put “a stop to the nuclear
+      threat posed by the world’s number one state sponsor of terror,” Iran did not
+      constitute an imminent threat. Rafael Grossi, director general of the International
+      Atomic Energy Agency, affirmed at the time that Iran did not even have nuclear
+      weapons capability. The U.S. strikes were not mounted in self-defense, and the
+      Council had not given its imprimatur for the attacks. Earlier this month, Trump
+      illegally ordered armed attacks on at least three Venezuelan fishing vessels under
+      the guise of fighting the drug war, killing at least 11 people, in direct violation
+      of the Charter. He was apparently testing the waters. Now NBC News is reporting
+      that Trump is considering mounting drone strikes within Venezuela in the next
+      few weeks. Since October 7, 2023, when Israel began its genocidal campaign against
+      the Palestinian people in Gaza, the United States — under both Biden and Trump
+      — has six times vetoed Security Council resolutions to end the fighting, despite
+      the UN Charter’s command that international disputes be settled peacefully. The
+      Trump administration filed the most recent U.S. veto on September 18. Secretary
+      of War Pete Hegseth has issued an unprecedented order summoning high-ranking military
+      officials to attend a meeting in Quantico, Virginia, on September 30, reportedly
+      to deliver a message about upholding a “ warrior ethos .” Whether this signals
+      a new aggressive approach or remains a mere photo op, the Trump administration
+      is likely to continue the foreign policy tradition of disregarding the UN Charter,
+      thanks to decades of impunity enjoyed by previous administrations. Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Marjorie Cohn
+      Marjorie Cohn is professor emerita at Thomas Jefferson School of Law, dean of
+      the People’s Academy of International Law, and past president of the National
+      Lawyers Guild. She sits on the national advisory boards of Veterans For Peace
+      and Assange Defense, and is a member of the bureau of the International Association
+      of Democratic Lawyers and the U.S. representative to the continental advisory
+      council of the Association of American Jurists. Her books include Drones and Targeted
+      Killing: Legal, Moral and Geopolitical Issues . Author SIte Please share this
+      story and help us grow our network!'
+    one_sentence_summary: In a September 23 speech to the UN General Assembly, Donald
+      Trump criticized the United Nations and questioned its purpose, despite its historical
+      role in promoting global cooperation after the devastation of two world wars.
+    paragraph_summary: In a recent article by Marjorie Cohn for Truthout, the author
+      critiques Donald Trump's speech at the United Nations General Assembly, where
+      he expressed disdain for the UN and made misleading claims about ending wars.
+      Cohn emphasizes the historical significance of the UN, established after two world
+      wars to promote peace and prevent future conflicts, and highlights the UN Charter's
+      stipulations regarding the use of force. She argues that successive U.S. presidents,
+      including Trump, have violated these principles, acting on a belief in American
+      exceptionalism that allows them to bypass international law. The article underscores
+      the ongoing disregard for the UN's authority by U.S. leaders, which undermines
+      the organization's foundational goals.
+    published: '2025-09-30T11:56:13+00:00'
+  - title: Zohran Mamdani on Historic NYC Mayoral Run & Trump’s Meddling in Election
+      as Eric Adams Drops Out
+    url: https://scheerpost.com/2025/09/30/zohran-mamdani-on-historic-nyc-mayoral-run-trumps-meddling-in-election-as-eric-adams-drops-out/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By DemocracyNow!
+      In an exclusive interview just hours after incumbent New York City Mayor Eric
+      Adams’s decision to end his reelection bid, we sat down with Democratic nominee
+      for mayor, Zohran Mamdani, to lay out his campaign and his vision for an affordable
+      city. We discuss his platform, his support for Palestinian rights and why he identifies
+      as democratic socialist. Mamdani also responds to Adams’s decision to drop out,
+      which is expected to help consolidate votes for Mamdani’s main opponent, disgraced
+      former New York Governor Andrew Cuomo. “The reason that Donald Trump is seeking
+      to clear the lane for Andrew Cuomo is because he knows that Andrew Cuomo will
+      clear the lane for Donald Trump’s agenda,” he says. Transcript This is a rush
+      transcript. Copy may not be in its final form. AMY GOODMAN: This is Democracy
+      Now! , democracynow.org, The War and Peace Report . I’m Amy Goodman. New York
+      City Mayor Eric Adams announced Sunday he’s dropping out of the mayoral race.
+      This comes after President Trump and New York business leaders pressured Adams
+      and Republican nominee Curtis Sliwa to drop out in order to narrow the race and
+      help disgraced former Governor Andrew Cuomo beat the Democratic candidate, Zohran
+      Mamdani. The Democratic Socialist assemblymember shocked the political establishment
+      when he trounced Cuomo in the Democratic mayoral primary in June. Cuomo is now
+      running as an independent. Last September, Adams was indicted on federal bribery
+      charges in a scheme spanning nearly a decade. Prosecutors allege Adams engaged
+      in a long-running conspiracy in which he solicited and knowingly accepted illegal
+      campaign contributions from foreign donors and corporations. In exchange, Adams
+      allegedly helped Turkey’s government open a new 36-story consular building near
+      the United Nations here in New York without a fire inspection. Trump’s Justice
+      Department dismissed the charges earlier this year in what was seen as a quid
+      pro quo in exchange for Adams implementing Trump’s crackdown on immigrants. President
+      Trump reportedly considered offering Adams a position in his administration, possibly
+      ambassador to Saudi Arabia, if he dropped out. If elected, Zohran Mamdani would
+      become New York City’s first Muslim mayor. He was born in Kampala, Uganda, moved
+      with his family to New York at the age of 7, is the son of the renowned academic
+      and author Mahmood Mamdani and Indian American filmmaker Mira Nair. On Sunday,
+      Democracy Now! ’s Nermeen Shaikh and I sat down with Zohran Mamdani in our studio
+      an hour after Eric Adams announced his withdrawal from the mayoral race, as polls
+      show Cuomo is well behind Mamdani. AMY GOODMAN: Well, today, we’re joined by the
+      man President Trump does not want to become mayor of New York — that’s right,
+      Zohran Mamdani. He’s in our studio to talk about this breaking news and more.
+      Zohran Mamdani, welcome back to Democracy Now! It’s great to have you with us.
+      Respond. The significance of Adams dropping out of the race? Does this surprise
+      you? ZOHRAN MAMDANI: You know, it is something that has been rumored for quite
+      some time, that this would be the month, this would be the week, this would be
+      the day. And today, we’ve finally seen it. Yet it is also an encapsulation of
+      so much of what has characterized Eric Adams’s mayoralty, is decisions at the
+      behest of Donald Trump and his billionaire donors and at the expense of working-class
+      New Yorkers. And what we see in this moment is very much what we saw the day we
+      started this campaign on October 23rd: a necessity to finally stand up to the
+      days of big money and small ideas being what characterizes City Hall, and instead
+      delivering for the very working-class New Yorkers that are being priced out of
+      that same city. NERMEEN SHAIKH: Well, let’s go to what Eric Adams had to say.
+      In a nine-minute video message announcing his decision to drop out, New York Mayor
+      Eric Adams did not mention you, Zohran, or Andrew Cuomo by name, but he said this,
+      which has been viewed as criticism of your campaign. MAYOR ERIC ADAMS: Major change
+      is welcome and necessary, but beware of those who claim the answer to destroy
+      the very system we built together over generations. That is not change. That is
+      chaos. Instead, I urge New Yorkers to choose leaders not by what they promise,
+      but by what they have delivered. NERMEEN SHAIKH: So, Zohran, your response? ZOHRAN MAMDANI:
+      Well, you know, I am not surprised to hear any of these critiques or points from
+      Eric Adams, because it is Eric Adams’s mayoralty that has delivered us with a
+      city where one in four New Yorkers are living in poverty. And in that same video,
+      he diagnoses what the issues are that New Yorkers face. He speaks about the necessity
+      of lowering costs, of improving quality of life, of keeping New Yorkers safe.
+      And I don’t contest the diagnosis. I contest his delivery, however. This is a
+      mayor who raised the rent by 12% on more than 2 million New Yorkers, a mayor who
+      priced New Yorkers further out of child care, a mayor who has, time and time again,
+      exacerbated a cost-of-living crisis, whether by raising the water bill or supporting
+      Con Edison when they wanted to raise gas and electric. And so, I wouldn’t take
+      advice on addressing that same crisis from the man who’s been inflaming it time
+      and time again. NERMEEN SHAIKH: Well, could you say, Zohran, what do you think
+      the impact of his dropping out will have on your electoral prospects? ZOHRAN MAMDANI:
+      I think it’s very much the same race. We have seen over the course of this race,
+      especially in the final weeks and months of the primary, that Andrew Cuomo wanted
+      nothing more than a one-on-one fight with me. And we gave him exactly that, and
+      then we beat him by 13 points. And we continue to be just as confident. And yet,
+      what separates us from these other candidates is that we’re not focused on them.
+      We’re focused on New Yorkers. New Yorkers deserve leadership that is thinking
+      about how to benefit the people of the city. And too often politicians, be it
+      Andrew Cuomo or Eric Adams, the meetings that they have or the phone calls with
+      someone like Donald Trump, they’re only speaking about themselves. It’s time to
+      actually think about New Yorkers. AMY GOODMAN: So, in the New York City mayoral
+      race, the Republican nominee, who’s still in the race, Curtis Sliwa, says at least
+      seven wealthy individuals have offered him money to end his campaign. He says
+      he’s going to stay in the race. If you can talk about that, who you think these
+      seven wealthy individuals are, and are they the same people who are funding ads
+      to the tune of millions of dollars against you? ZOHRAN MAMDANI: Well, I can tell
+      you, there’s no shortage of Trump donors who are seeking to influence this election,
+      who are looking to spend more money than I would even tax them to try and stop
+      our campaign. And at the same time, of Eric Adams, Andrew Cuomo and Curtis Sliwa,
+      Curtis Sliwa is the one that I would trust the most. And I do think it is very
+      real that there are many who are threatened by our campaign and our politics of
+      putting working people at the heart of this city’s focus, and are trying to do
+      everything in their power — and we’ve seen that with Donald Trump being on the
+      phone with Andrew Cuomo, trying to do everything in his power — to ensure that
+      they stop this movement. And the sad news for them is that they won’t be able
+      to. AMY GOODMAN: Is this going to change your strategy in any way, where you now
+      — it’s gone from a four-person race to a three-person race? But, of course, people
+      are saying that with Eric Adams out of the race, it’s much closer to a two-person
+      race: you and your leading opponent, Andrew Cuomo. ZOHRAN MAMDANI: We will have
+      the same focus as we’ve always had, on working-class New Yorkers, their struggle
+      to afford this city, and also to be very clear with New Yorkers that the reason
+      that Donald Trump is seeking to clear the lane for Andrew Cuomo is because he
+      knows that Andrew Cuomo will clear their lane for Donald Trump’s agenda. There
+      is a reality to the fact that it takes two to tango, and these are the two people
+      that are so often on New Yorkers’ minds as an example of the politics we have
+      to leave in the past. NERMEEN SHAIKH: Well, indeed, Zohran, your entire platform
+      has focused principally on affordability and, as you said, helping the working
+      class. But what appeared surprising to some in the Democratic primary is that
+      Cuomo had a double-digit lead over you in low-income neighborhoods. So, how do
+      you explain that? And what are you doing to assuage whatever the concerns of this
+      constituency are? ZOHRAN MAMDANI: You know, when I started this race — and I was
+      here on the first day of the campaign, I was also here on Primary Day, and I’m
+      very happy to be back — I spoke about the fact that I was a state assemblymember
+      who at that time was polling, let’s say, 1%, and that’s being charitable to me.
+      That’s rounding up. And I think for much of the campaign, it was introducing myself
+      and our movement to New Yorkers. And we introduced ourselves to quite a few, which,
+      by the end of that primary, meant that we won close to 600,000 votes. And yet,
+      that work still continues, because when I’m running against Andrew Cuomo, it’s
+      not just his name or his record that comes to mind for New Yorkers, it’s also
+      that of his father. And so, for many New Yorkers, that was the association that
+      they began the race with. And now we are building a coalition that shows our agenda
+      as one that will deliver that affordability to each and every New Yorker. AMY GOODMAN:
+      So, let’s talk about affordability and talk about your planks. I mean, I think
+      people are looking at this all over the country, and the question people have
+      is: How can this be afforded — for example, when you have free child care, when
+      you have free buses, you put a rent freeze on rent-stabilized apartments, so housing,
+      and city-owned grocery stores? Go through your planks. It’s not that it’s never
+      been tried in the country, and in many cases very successfully, but you’re putting
+      it all together. ZOHRAN MAMDANI: And I think it requires an approach that addresses
+      this crisis across the lives of New Yorkers. You know, New Yorkers are not just
+      bus riders or parents. They are all of these things at once, while also many of
+      them being tenants. And as you’ve said, there is a precedent for all of these
+      commitments. When we talk about freezing the rent, that’s something that doesn’t
+      come at a fiscal cost to the city of New York. It is through the power we have
+      of the Rent Guidelines Board to tell the landlords of those more than 2 million
+      New Yorkers that they cannot raise the rent for these four years, to provide relief
+      to those tenants to the tune of close to $7 billion, and also to still work with
+      those landlords to reduce the cost burdens they’re facing from insurance, from
+      the water bill, from Con Edison, because it’s not a competition. It’s a question
+      of ensuring that this is affordable and workable for each and every New Yorker.
+      And if we think about universal child care, the cost of universal child care is
+      around $6 billion — significant amount of money, has to be put in a context of
+      a $116 billion municipal budget, more than $250 billion state budget, and also
+      the context of the fact that it’s costing us nearly four times as much to not
+      have affordable child care. And what I mean by that is, a few years ago there
+      was a study of the economic costs of that lack of affordable child care, and it
+      found it close to $23 billion, because it is, after housing, the leading cost
+      pushing New Yorkers out of the city, which makes sense, given that it’s $25,000
+      a year for a New Yorker to find child care for their one kid. And so, this is
+      an agenda that delivers on that, and it’s one that also understands, when you
+      are faced with these costs, you are faced with a political choice. And it’s a
+      choice I believe we have to make for working New Yorkers. And I think that there
+      are two clear revenue streams to raise the money necessary to fund this. AMY GOODMAN:
+      And that is? ZOHRAN MAMDANI: That is raising personal income taxes on the top
+      1% of New Yorkers — that’s New Yorkers who make a million dollars or more a year
+      — by 2%, and raising the state’s top corporate tax rate to match that of New Jersey.
+      Together, those two initiatives would raise $9 billion. I think they’re the most
+      straightforward, productive means of doing so. But if people have other ideas
+      to raise the same money, I encourage it. AMY GOODMAN: Interestingly, on child
+      care, what can you learn from New Mexico, which became the first and only state
+      in the country to offer free child care to a majority of families three years
+      ago. According to The Guardian , the program lifted 120,000 people above the poverty
+      line. ZOHRAN MAMDANI: I think it shows that this is possible. It shows that it’s
+      not only necessary, but it is a question of our own political will. And we don’t
+      have to look as far as New Mexico, frankly, because right here in New York City,
+      the previous mayoral administration delivered universal pre-K. And that was something
+      that showed us the possibility of city government meeting the needs of working
+      New Yorkers. And if we do not meet these needs, we will see — continue to see
+      parents and aspiring parents leave this city in order to find a place where they
+      can afford that child care. It’s time for us to actually deliver on it so we can
+      keep people here and actually have room for others to join us, as well. NERMEEN SHAIKH:
+      Well, Zohran, you mentioned earlier, of course, housing is one of the central
+      — you’ve made it one of the central issues in your campaign, because it’s true
+      that New York City, one of the biggest issues is that people can no longer afford
+      housing. You’re focusing in particular on deed theft. If you could explain what
+      it is and your plans to create an Office of Deed Theft Prevention? ZOHRAN MAMDANI:
+      Absolutely. You know, the affordability agenda we have is one that doesn’t just
+      speak to tenants. It also speaks to homeowners. And since 2015, we’ve seen more
+      than 3,500 instances of deed theft take place across New York City. Deed theft,
+      for those who don’t know, is something that disproportionately targets older New
+      Yorkers — they tend to be Black and Brown New Yorkers — where an individual will
+      knock on the door of one of those same New Yorkers and say, “Do you need assistance
+      in resolving your inheritance or refinancing your home?” preying upon their desire
+      to actually pass that home on to their next generation or to ensure that they
+      can stay in that home. And there are so many of those New Yorkers who have been
+      — lost the title to their own home through this kind of being preyed upon. And
+      so, our office would take advantage of the new state rules that have allowed the
+      city greater enforcement authority on this issue, would also fund, for about $20
+      million, lawyers and further legal assistance for New Yorkers, who would then
+      be proactively reached out to by the city of New York, and would look at the example
+      of a Tangled Title Fund in Pennsylvania and bring the success of that here, so
+      that the city is assisting New Yorkers in ensuring that their next generation
+      can inherit their home, as opposed to leaving them to the prey of someone who
+      would look to actually engage in deed theft. NERMEEN SHAIKH: Well, let’s talk,
+      Zohran, about issues that, of course, are very relevant to people in New York,
+      but the principal action is happening elsewhere, and what you’ve commented on
+      many times — namely, what’s unfolding in Gaza right now. Israeli Prime Minister
+      Benjamin Netanyahu was just here in New York, scheduled to meet Trump on Monday.
+      So, if you could talk about what you’ve heard from New Yorkers on this issue?
+      ZOHRAN MAMDANI: You know, I can tell you I have heard, from New Yorkers across
+      the five boroughs, a real sense of despair and horror at the genocide that we’ve
+      seen in Gaza, and an understanding of complicity as Americans in the funding of
+      this genocide. And New Yorkers are looking for someone to be their mayor who will
+      focus on this city, who will deliver for the people of this city, and someone
+      who also, amidst all of that, has the moral clarity to have a politics of consistency.
+      And that’s what has been at the heart of our campaign, a consistent belief in
+      the universality of ideals like humanity, like justice, like safety, and the ways
+      in which Benjamin Netanyahu’s genocide of Palestinians is a violation not only
+      of those ideals, but also of international law. And we’ve seen that in the issuing
+      of a warrant for his arrest by the International Criminal Court. AMY GOODMAN:
+      I wanted to go to a journalist questioning Netanyahu at a White House dinner hosted
+      by Donald Trump in July. REPORTER: Zohran Mamdani, a Democratic Socialist, has
+      been a vocal critic of Israel and of yourself, and has said he would arrest you
+      if you came to New York City, if he was mayor. Is that something you take seriously?
+      Are you concerned about that? Do you have a response to that? PRIME MINISTER BENJAMIN NETANYAHU:
+      No, no, I’m not concerned about that. … Oh, well, look, I’m going to come there
+      with President Trump, and we’ll see what the — how do you know who the mayor will
+      be? I don’t know that. Do we know that? PRESIDENT DONALD TRUMP: He’s going to
+      be very fine. And who knows? It could — we don’t know who the mayor is going to
+      be yet. But this is a communist. He’s not a socialist. He’s a communist. And he
+      said some really bad things about Jewish people, and he said some really bad things
+      about a lot of people. And I think he’s going through a little bit of a honeymoon
+      right now, but he might make it. But, you know, it all comes through the White
+      House. He needs the money through the White House. He needs a lot. He’s going
+      to behave. He’ll behave. He better behave; otherwise, he’s going to have big problems.
+      AMY GOODMAN: So, if you can respond to both President Trump and Netanyahu? Trump
+      has been going after you since you announced. He talked about detaining you, checking
+      whether he might be able to deport you, talking about you as a communist. You,
+      in exchange, talk about Trump-proofing New York. ZOHRAN MAMDANI: You know, I think
+      it’s — it is a sad reality in this country, where we have a president who ran
+      an entire campaign premised on cheaper groceries and lowering the cost of living,
+      and what he has instead delivered, time and again, is an exacerbating of that
+      very crisis, all while focusing on the persecution of his supposed political enemies.
+      And when we talk about Trump-proofing the city, it’s not just the question of
+      hiring the 200 additional lawyers at our law department to bring us back to the
+      staffing levels prior to the pandemic. It’s a question of actually standing up
+      and fighting Donald Trump, and fighting Donald Trump because what his agenda is
+      doing is endangering the welfare of New Yorkers. This bill that he recently ushered
+      through Washington, D.C., it throws millions of New Yorkers off of their healthcare.
+      It steals SNAP benefits from so many hungry New Yorkers. And it does all of this
+      in the interest of the largest wealth transfer that we’ve seen in this country.
+      And to do those things while speaking about a cost-of-living crisis, it is truly
+      a betrayal of so much of what his campaign was premised on, and an illustration
+      of why he is so fearful of our campaign, because, unlike him, we don’t just diagnose
+      this crisis, we will deliver on it. We will actually ensure that we have New Yorkers
+      who can afford the city that they call home, that we freeze the rent for more
+      than 2 million New Yorkers, we make buses fast and free, which are currently the
+      slowest ones in the nation, and we deliver universal child care. And that’s what
+      Donald Trump is afraid of: the stark contrast between our delivery of those things
+      and what he has done as the president of this country. AMY GOODMAN: Zohran Mamdani,
+      what does it mean to be a Democratic Socialist? ZOHRAN MAMDANI: You know, I think
+      of the words of Dr. King from decades ago, who said, “Call it democracy, or call
+      it democratic socialism. There must be a better distribution of wealth for all
+      of God’s children in this country.” And New Yorkers understand that. We’re in
+      the wealthiest city in the wealthiest country in the history of the world, and
+      one in four New Yorkers are living in poverty. When I walked into this interview,
+      I walked past a New Yorker who was sleeping on the street. That’s the level of
+      poverty in the city, and yet it’s happening amidst great wealth. And the vision
+      for this city has to be one that understands the dignity of working people must
+      return to the heart of our politics, and to focus on that is to fulfill the ideals
+      that brought so many to politics in the first place, and the abandonment of it
+      has been what’s pushed so many away from it. NERMEEN SHAIKH: So, Zohran, let’s
+      talk about some of the support that you’ve received that was perhaps almost unprecedented,
+      and in this case, unprecedented. Over the weekend, you received an endorsement
+      from Bend the Arc: Jewish Action, the very first time the organization has endorsed
+      anyone in a mayoral race. In their endorsement, they wrote, “We are really very
+      excited about Zohran and his platform not in spite of our commitment to Jewish
+      values but because of them.” So, if you could talk about this endorsement? ZOHRAN MAMDANI:
+      You know, I am honored to have the endorsement of Bend the Arc and to be the first
+      municipal candidate to receive it. It really is a privilege. And it showcases
+      the fact that this coalition that we have, it is a coalition that not only continues
+      to expand, but also looks to reflect the beauty and the breadth of this city.
+      And one of the many things that makes the city so special are the close to 1 million
+      Jewish residents of this city. And I take very seriously my responsibility and
+      my opportunity to not only protect Jewish New Yorkers, but to celebrate so much
+      of what they have brought the city and so much of what it means to be a city with
+      such a thriving community. And I think of this period of the High Holy Days as
+      one where our politics and our politicians would do well to learn from the lessons
+      of these very holidays that seek to impart a reflection on what the prior year
+      has been, an atonement and a real level of humility as to what it means to lead.
+      And that is the kind of lessons that I hope to learn in delivering leadership
+      to this city. AMY GOODMAN: I was getting messages from congregants at Rosh Hashanah
+      when you went to a synagogue then, and also hearing about the reports of a woman
+      handing you stickers she had made with a picture of bagels and lox and a message
+      urging Jewish voters to support Mr. Mamdani. And on the stickers, it said, “Reject
+      the smear campaign. Join the schmear campaign.” ZOHRAN MAMDANI: Yes, yes, this
+      is very creative. And I think it’s a reflection that for all of the fearmongering
+      that we’ve seen in this race, part of the reason that I sit before you as the
+      Democratic nominee is because of the support of so many Jewish New Yorkers, of
+      all generations. And I’m so excited by that support and the prospect of building
+      that support by reaching out to Jewish New Yorkers across the five boroughs, including
+      at their synagogues. NERMEEN SHAIKH: And finally, Zohran, we know you have to
+      go, but, you know, many people have talked about the fact that you mobilized so
+      much of the youth vote. But you also mobilized a lot of the South Asian vote,
+      many people voting for the first time in a mayoral election, and Muslim communities,
+      as well. You’ll be, if you win, the first Muslim mayor of New York, the first
+      South Asian mayor. So, if you could say, you know, how important was that support
+      to you? And explain your decision, in fact, to emphasize the fact that you are
+      both a Muslim, South Asian and, in fact, also African. ZOHRAN MAMDANI: You know,
+      these are parts of my identity. They are parts of what has formed me and my life
+      over the course of both being a New Yorker and even before that. And I think it’s
+      a desire at the heart of our politics to ensure that these electoral outcomes,
+      these contests that we have, that they actually reflect the city at large. Too
+      often New York City politics is focused on an ever-narrowing group of New Yorkers,
+      the ones who vote every primary. And yet we know that there are so many New Yorkers
+      who call the city home just in the manner of those voters, but are not spoken
+      to with the same respect, are not given the same kind of time. And from the beginning
+      of this race, we said we wanted this race to look like the entire city. And that
+      means speaking to the very South Asian and Muslim New Yorkers that too often have
+      been looked at as, at best, there to be for a photo op, as opposed to New Yorkers
+      who are also suffering from this affordability crisis. AMY GOODMAN: Zohran Mamdani,
+      we are broadcasting this on Monday. We spoke to you on Sunday, right after Adams
+      said he’s pulling out of the election campaign. We also spoke to you the day after
+      he was indicted on corruption charges. Of course, Trump would dismiss those charges
+      later. But I also wanted to ask you — on this day, Monday, that we broadcast this,
+      apparently, the Democratic leaders will be at the White House — Hakeem Jeffries,
+      Minority Leader Chuck Schumer — meeting with Trump over the whole issue of the
+      budget and whether the country is going to be shut down. I want to know which
+      is more contentious: that meeting, Trump, Schumer and Hakeem Jeffries, or their
+      meetings, Hakeem Jeffries and Schumer, with you? I was just watching Senator Van
+      Hollen, who was really castigating his fellow Democrats who had not yet supported
+      you. Many have, from corporate Democrats, conservative Democrats, on to progressives.
+      But talk about that, Hakeem Jeffries and Chuck Schumer not having supported you
+      yet, even though you are the Democratic primary candidate. And what is being said
+      in these meetings? They keep saying they’re talking to you. ZOHRAN MAMDANI: Yes,
+      we have had a number of meetings, and I’ve appreciated the meetings, because the
+      focus of the meetings has been on the fact that New Yorkers are facing twin crises:
+      authoritarianism from Washington, D.C., and an affordability crisis from the inside.
+      And we often tend to separate these out. We think about democracy as an ideal
+      that must be protected, but not that democracy also has to be able to deliver
+      on the material needs of working people. And it was Fiorello La Guardia that said,
+      “You cannot preach … liberty to a starving land.” You have to be able to deliver
+      on both fronts. And to me, in these meetings, the focus has been how to do so.
+      And I would say that the meeting that they will have with Donald Trump is going
+      to be far more contentious than the ones that we’ve had. Ours have been focused
+      on New Yorkers. Donald Trump is focused on himself and his donors. And it is time
+      to showcase the cost of the legislation that he has ushered through, what it would
+      mean for New Yorkers’ lives. I mean, I was at a hospital in the Bronx just a few
+      days ago speaking to 1199 members who were telling me that these cuts, they could
+      decimate their ability to take care of New Yorkers in their toughest moments and
+      in their best moments. And yet that is the agenda that Donald Trump is pursuing.
+      And I continue to be hopeful and to be focused on the necessity of turning back
+      that legislation, ensuring those cuts do not come to pass in the manner that they
+      have been written. AMY GOODMAN: We’re going to end where we intended to begin
+      today, before Eric Adams announced that he’s dropping out, which became top news,
+      and that is by you saying your name. Of course, your main opponent, Andrew Cuomo,
+      continually mispronounces your name. I want you to respond to that. This is how
+      he does it. ANDREW CUOMO: I’m running against a man named Zohran Mamdami. He’s
+      a socialist. AMY GOODMAN: If you can respond to that and tell us how you say it,
+      your full name? ZOHRAN MAMDANI: Zohran Kwame Mamdani. And I think what has been
+      offensive to me is not whether a New Yorker can say my name on their first attempt
+      or their second, but that what Andrew Cuomo has done is to deliberately mispronounce
+      that name. And it is something whose meaning is not — it’s not just about me.
+      It’s about how so many New Yorkers have to deal with this in their own workplace,
+      in their own lives. You know, I was at a mosque recently for Friday prayers, and
+      I asked the uncles and the aunties there to raise their hands if they have ever
+      had to deal with the basic indignity of having the name that they were given be
+      butchered time and again with an intention of belittling them. And hand after
+      hand after hand raised. And that shows me the ways in which so many have been
+      overlooked, at the very least. And our campaign, it’s not a campaign to ensure
+      that everyone can say my name. It’s a campaign to ensure that each and every New
+      Yorker is celebrated for the fullest version of themselves, who they actually
+      are, and belonging to the fabric of this gorgeous mosaic, as David Dinkins once
+      called it. AMY GOODMAN: And your middle name, Kwame, where it comes from? ZOHRAN MAMDANI:
+      I was named by my father after Kwame Nkrumah, the first prime minister of Ghana.
+      And it is a point of pride for me and a reflection of the fact that I would also
+      be the first immigrant mayor of the city in generations. I was born in Kampala,
+      Uganda, in East Africa, moved here when I was 7. It’s the city where I grew up,
+      the city where I met my wife, the city where I got my citizenship, and hopefully
+      the city I will lead. AMY GOODMAN: Leading New York City mayoral candidate Zohran
+      Mamdani, speaking with us Sunday just after Mayor Eric Adams dropped out of the
+      mayoral race. Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . DemocracyNow! Democracy Now! produces a daily, global,
+      independent news hour hosted by award-winning journalists Amy Goodman and Juan
+      González. Our reporting includes breaking daily news headlines and in-depth interviews
+      with people on the front lines of the world’s most pressing issues. On Democracy
+      Now!, you’ll hear a diversity of voices speaking for themselves, providing a unique
+      and sometimes provocative perspective on global events. Author Site Please share
+      this story and help us grow our network!'
+    one_sentence_summary: In an exclusive interview following Mayor Eric Adams's withdrawal
+      from the reelection race, Democratic nominee Zohran Mamdani discusses his campaign
+      for an affordable New York City, his support for Palestinian rights, and the implications
+      of Adams's exit on the electoral landscape, particularly regarding his main opponent,
+      Andrew Cuomo.
+    paragraph_summary: In a recent interview following New York City Mayor Eric Adams's
+      announcement to withdraw from the mayoral race, Democratic nominee Zohran Mamdani
+      discussed his campaign focused on creating an affordable city and his support
+      for Palestinian rights, identifying as a democratic socialist. Mamdani's candidacy
+      gained momentum after he defeated disgraced former Governor Andrew Cuomo in the
+      Democratic primary, and Adams's exit is expected to consolidate votes for Cuomo,
+      who is now running as an independent. The interview also touched on the influence
+      of Donald Trump and business leaders in pressuring Adams to step down, as well
+      as the legal troubles Adams faces, including federal bribery charges related to
+      illegal campaign contributions.
+    published: '2025-09-30T11:49:56+00:00'
+  - title: Zohran Mamdani on Historic NYC Mayoral Run & Trump’s Meddling in Election
+      as Eric Adams Drops Out
+    url: https://scheerpost.com/2025/09/30/zohran-mamdani-on-historic-nyc-mayoral-run-trumps-meddling-in-election-as-eric-adams-drops-out/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By DemocracyNow!
+      In an exclusive interview just hours after incumbent New York City Mayor Eric
+      Adams’s decision to end his reelection bid, we sat down with Democratic nominee
+      for mayor, Zohran Mamdani, to lay out his campaign and his vision for an affordable
+      city. We discuss his platform, his support for Palestinian rights and why he identifies
+      as democratic socialist. Mamdani also responds to Adams’s decision to drop out,
+      which is expected to help consolidate votes for Mamdani’s main opponent, disgraced
+      former New York Governor Andrew Cuomo. “The reason that Donald Trump is seeking
+      to clear the lane for Andrew Cuomo is because he knows that Andrew Cuomo will
+      clear the lane for Donald Trump’s agenda,” he says. Transcript This is a rush
+      transcript. Copy may not be in its final form. AMY GOODMAN: This is Democracy
+      Now! , democracynow.org, The War and Peace Report . I’m Amy Goodman. New York
+      City Mayor Eric Adams announced Sunday he’s dropping out of the mayoral race.
+      This comes after President Trump and New York business leaders pressured Adams
+      and Republican nominee Curtis Sliwa to drop out in order to narrow the race and
+      help disgraced former Governor Andrew Cuomo beat the Democratic candidate, Zohran
+      Mamdani. The Democratic Socialist assemblymember shocked the political establishment
+      when he trounced Cuomo in the Democratic mayoral primary in June. Cuomo is now
+      running as an independent. Last September, Adams was indicted on federal bribery
+      charges in a scheme spanning nearly a decade. Prosecutors allege Adams engaged
+      in a long-running conspiracy in which he solicited and knowingly accepted illegal
+      campaign contributions from foreign donors and corporations. In exchange, Adams
+      allegedly helped Turkey’s government open a new 36-story consular building near
+      the United Nations here in New York without a fire inspection. Trump’s Justice
+      Department dismissed the charges earlier this year in what was seen as a quid
+      pro quo in exchange for Adams implementing Trump’s crackdown on immigrants. President
+      Trump reportedly considered offering Adams a position in his administration, possibly
+      ambassador to Saudi Arabia, if he dropped out. If elected, Zohran Mamdani would
+      become New York City’s first Muslim mayor. He was born in Kampala, Uganda, moved
+      with his family to New York at the age of 7, is the son of the renowned academic
+      and author Mahmood Mamdani and Indian American filmmaker Mira Nair. On Sunday,
+      Democracy Now! ’s Nermeen Shaikh and I sat down with Zohran Mamdani in our studio
+      an hour after Eric Adams announced his withdrawal from the mayoral race, as polls
+      show Cuomo is well behind Mamdani. AMY GOODMAN: Well, today, we’re joined by the
+      man President Trump does not want to become mayor of New York — that’s right,
+      Zohran Mamdani. He’s in our studio to talk about this breaking news and more.
+      Zohran Mamdani, welcome back to Democracy Now! It’s great to have you with us.
+      Respond. The significance of Adams dropping out of the race? Does this surprise
+      you? ZOHRAN MAMDANI: You know, it is something that has been rumored for quite
+      some time, that this would be the month, this would be the week, this would be
+      the day. And today, we’ve finally seen it. Yet it is also an encapsulation of
+      so much of what has characterized Eric Adams’s mayoralty, is decisions at the
+      behest of Donald Trump and his billionaire donors and at the expense of working-class
+      New Yorkers. And what we see in this moment is very much what we saw the day we
+      started this campaign on October 23rd: a necessity to finally stand up to the
+      days of big money and small ideas being what characterizes City Hall, and instead
+      delivering for the very working-class New Yorkers that are being priced out of
+      that same city. NERMEEN SHAIKH: Well, let’s go to what Eric Adams had to say.
+      In a nine-minute video message announcing his decision to drop out, New York Mayor
+      Eric Adams did not mention you, Zohran, or Andrew Cuomo by name, but he said this,
+      which has been viewed as criticism of your campaign. MAYOR ERIC ADAMS: Major change
+      is welcome and necessary, but beware of those who claim the answer to destroy
+      the very system we built together over generations. That is not change. That is
+      chaos. Instead, I urge New Yorkers to choose leaders not by what they promise,
+      but by what they have delivered. NERMEEN SHAIKH: So, Zohran, your response? ZOHRAN MAMDANI:
+      Well, you know, I am not surprised to hear any of these critiques or points from
+      Eric Adams, because it is Eric Adams’s mayoralty that has delivered us with a
+      city where one in four New Yorkers are living in poverty. And in that same video,
+      he diagnoses what the issues are that New Yorkers face. He speaks about the necessity
+      of lowering costs, of improving quality of life, of keeping New Yorkers safe.
+      And I don’t contest the diagnosis. I contest his delivery, however. This is a
+      mayor who raised the rent by 12% on more than 2 million New Yorkers, a mayor who
+      priced New Yorkers further out of child care, a mayor who has, time and time again,
+      exacerbated a cost-of-living crisis, whether by raising the water bill or supporting
+      Con Edison when they wanted to raise gas and electric. And so, I wouldn’t take
+      advice on addressing that same crisis from the man who’s been inflaming it time
+      and time again. NERMEEN SHAIKH: Well, could you say, Zohran, what do you think
+      the impact of his dropping out will have on your electoral prospects? ZOHRAN MAMDANI:
+      I think it’s very much the same race. We have seen over the course of this race,
+      especially in the final weeks and months of the primary, that Andrew Cuomo wanted
+      nothing more than a one-on-one fight with me. And we gave him exactly that, and
+      then we beat him by 13 points. And we continue to be just as confident. And yet,
+      what separates us from these other candidates is that we’re not focused on them.
+      We’re focused on New Yorkers. New Yorkers deserve leadership that is thinking
+      about how to benefit the people of the city. And too often politicians, be it
+      Andrew Cuomo or Eric Adams, the meetings that they have or the phone calls with
+      someone like Donald Trump, they’re only speaking about themselves. It’s time to
+      actually think about New Yorkers. AMY GOODMAN: So, in the New York City mayoral
+      race, the Republican nominee, who’s still in the race, Curtis Sliwa, says at least
+      seven wealthy individuals have offered him money to end his campaign. He says
+      he’s going to stay in the race. If you can talk about that, who you think these
+      seven wealthy individuals are, and are they the same people who are funding ads
+      to the tune of millions of dollars against you? ZOHRAN MAMDANI: Well, I can tell
+      you, there’s no shortage of Trump donors who are seeking to influence this election,
+      who are looking to spend more money than I would even tax them to try and stop
+      our campaign. And at the same time, of Eric Adams, Andrew Cuomo and Curtis Sliwa,
+      Curtis Sliwa is the one that I would trust the most. And I do think it is very
+      real that there are many who are threatened by our campaign and our politics of
+      putting working people at the heart of this city’s focus, and are trying to do
+      everything in their power — and we’ve seen that with Donald Trump being on the
+      phone with Andrew Cuomo, trying to do everything in his power — to ensure that
+      they stop this movement. And the sad news for them is that they won’t be able
+      to. AMY GOODMAN: Is this going to change your strategy in any way, where you now
+      — it’s gone from a four-person race to a three-person race? But, of course, people
+      are saying that with Eric Adams out of the race, it’s much closer to a two-person
+      race: you and your leading opponent, Andrew Cuomo. ZOHRAN MAMDANI: We will have
+      the same focus as we’ve always had, on working-class New Yorkers, their struggle
+      to afford this city, and also to be very clear with New Yorkers that the reason
+      that Donald Trump is seeking to clear the lane for Andrew Cuomo is because he
+      knows that Andrew Cuomo will clear their lane for Donald Trump’s agenda. There
+      is a reality to the fact that it takes two to tango, and these are the two people
+      that are so often on New Yorkers’ minds as an example of the politics we have
+      to leave in the past. NERMEEN SHAIKH: Well, indeed, Zohran, your entire platform
+      has focused principally on affordability and, as you said, helping the working
+      class. But what appeared surprising to some in the Democratic primary is that
+      Cuomo had a double-digit lead over you in low-income neighborhoods. So, how do
+      you explain that? And what are you doing to assuage whatever the concerns of this
+      constituency are? ZOHRAN MAMDANI: You know, when I started this race — and I was
+      here on the first day of the campaign, I was also here on Primary Day, and I’m
+      very happy to be back — I spoke about the fact that I was a state assemblymember
+      who at that time was polling, let’s say, 1%, and that’s being charitable to me.
+      That’s rounding up. And I think for much of the campaign, it was introducing myself
+      and our movement to New Yorkers. And we introduced ourselves to quite a few, which,
+      by the end of that primary, meant that we won close to 600,000 votes. And yet,
+      that work still continues, because when I’m running against Andrew Cuomo, it’s
+      not just his name or his record that comes to mind for New Yorkers, it’s also
+      that of his father. And so, for many New Yorkers, that was the association that
+      they began the race with. And now we are building a coalition that shows our agenda
+      as one that will deliver that affordability to each and every New Yorker. AMY GOODMAN:
+      So, let’s talk about affordability and talk about your planks. I mean, I think
+      people are looking at this all over the country, and the question people have
+      is: How can this be afforded — for example, when you have free child care, when
+      you have free buses, you put a rent freeze on rent-stabilized apartments, so housing,
+      and city-owned grocery stores? Go through your planks. It’s not that it’s never
+      been tried in the country, and in many cases very successfully, but you’re putting
+      it all together. ZOHRAN MAMDANI: And I think it requires an approach that addresses
+      this crisis across the lives of New Yorkers. You know, New Yorkers are not just
+      bus riders or parents. They are all of these things at once, while also many of
+      them being tenants. And as you’ve said, there is a precedent for all of these
+      commitments. When we talk about freezing the rent, that’s something that doesn’t
+      come at a fiscal cost to the city of New York. It is through the power we have
+      of the Rent Guidelines Board to tell the landlords of those more than 2 million
+      New Yorkers that they cannot raise the rent for these four years, to provide relief
+      to those tenants to the tune of close to $7 billion, and also to still work with
+      those landlords to reduce the cost burdens they’re facing from insurance, from
+      the water bill, from Con Edison, because it’s not a competition. It’s a question
+      of ensuring that this is affordable and workable for each and every New Yorker.
+      And if we think about universal child care, the cost of universal child care is
+      around $6 billion — significant amount of money, has to be put in a context of
+      a $116 billion municipal budget, more than $250 billion state budget, and also
+      the context of the fact that it’s costing us nearly four times as much to not
+      have affordable child care. And what I mean by that is, a few years ago there
+      was a study of the economic costs of that lack of affordable child care, and it
+      found it close to $23 billion, because it is, after housing, the leading cost
+      pushing New Yorkers out of the city, which makes sense, given that it’s $25,000
+      a year for a New Yorker to find child care for their one kid. And so, this is
+      an agenda that delivers on that, and it’s one that also understands, when you
+      are faced with these costs, you are faced with a political choice. And it’s a
+      choice I believe we have to make for working New Yorkers. And I think that there
+      are two clear revenue streams to raise the money necessary to fund this. AMY GOODMAN:
+      And that is? ZOHRAN MAMDANI: That is raising personal income taxes on the top
+      1% of New Yorkers — that’s New Yorkers who make a million dollars or more a year
+      — by 2%, and raising the state’s top corporate tax rate to match that of New Jersey.
+      Together, those two initiatives would raise $9 billion. I think they’re the most
+      straightforward, productive means of doing so. But if people have other ideas
+      to raise the same money, I encourage it. AMY GOODMAN: Interestingly, on child
+      care, what can you learn from New Mexico, which became the first and only state
+      in the country to offer free child care to a majority of families three years
+      ago. According to The Guardian , the program lifted 120,000 people above the poverty
+      line. ZOHRAN MAMDANI: I think it shows that this is possible. It shows that it’s
+      not only necessary, but it is a question of our own political will. And we don’t
+      have to look as far as New Mexico, frankly, because right here in New York City,
+      the previous mayoral administration delivered universal pre-K. And that was something
+      that showed us the possibility of city government meeting the needs of working
+      New Yorkers. And if we do not meet these needs, we will see — continue to see
+      parents and aspiring parents leave this city in order to find a place where they
+      can afford that child care. It’s time for us to actually deliver on it so we can
+      keep people here and actually have room for others to join us, as well. NERMEEN SHAIKH:
+      Well, Zohran, you mentioned earlier, of course, housing is one of the central
+      — you’ve made it one of the central issues in your campaign, because it’s true
+      that New York City, one of the biggest issues is that people can no longer afford
+      housing. You’re focusing in particular on deed theft. If you could explain what
+      it is and your plans to create an Office of Deed Theft Prevention? ZOHRAN MAMDANI:
+      Absolutely. You know, the affordability agenda we have is one that doesn’t just
+      speak to tenants. It also speaks to homeowners. And since 2015, we’ve seen more
+      than 3,500 instances of deed theft take place across New York City. Deed theft,
+      for those who don’t know, is something that disproportionately targets older New
+      Yorkers — they tend to be Black and Brown New Yorkers — where an individual will
+      knock on the door of one of those same New Yorkers and say, “Do you need assistance
+      in resolving your inheritance or refinancing your home?” preying upon their desire
+      to actually pass that home on to their next generation or to ensure that they
+      can stay in that home. And there are so many of those New Yorkers who have been
+      — lost the title to their own home through this kind of being preyed upon. And
+      so, our office would take advantage of the new state rules that have allowed the
+      city greater enforcement authority on this issue, would also fund, for about $20
+      million, lawyers and further legal assistance for New Yorkers, who would then
+      be proactively reached out to by the city of New York, and would look at the example
+      of a Tangled Title Fund in Pennsylvania and bring the success of that here, so
+      that the city is assisting New Yorkers in ensuring that their next generation
+      can inherit their home, as opposed to leaving them to the prey of someone who
+      would look to actually engage in deed theft. NERMEEN SHAIKH: Well, let’s talk,
+      Zohran, about issues that, of course, are very relevant to people in New York,
+      but the principal action is happening elsewhere, and what you’ve commented on
+      many times — namely, what’s unfolding in Gaza right now. Israeli Prime Minister
+      Benjamin Netanyahu was just here in New York, scheduled to meet Trump on Monday.
+      So, if you could talk about what you’ve heard from New Yorkers on this issue?
+      ZOHRAN MAMDANI: You know, I can tell you I have heard, from New Yorkers across
+      the five boroughs, a real sense of despair and horror at the genocide that we’ve
+      seen in Gaza, and an understanding of complicity as Americans in the funding of
+      this genocide. And New Yorkers are looking for someone to be their mayor who will
+      focus on this city, who will deliver for the people of this city, and someone
+      who also, amidst all of that, has the moral clarity to have a politics of consistency.
+      And that’s what has been at the heart of our campaign, a consistent belief in
+      the universality of ideals like humanity, like justice, like safety, and the ways
+      in which Benjamin Netanyahu’s genocide of Palestinians is a violation not only
+      of those ideals, but also of international law. And we’ve seen that in the issuing
+      of a warrant for his arrest by the International Criminal Court. AMY GOODMAN:
+      I wanted to go to a journalist questioning Netanyahu at a White House dinner hosted
+      by Donald Trump in July. REPORTER: Zohran Mamdani, a Democratic Socialist, has
+      been a vocal critic of Israel and of yourself, and has said he would arrest you
+      if you came to New York City, if he was mayor. Is that something you take seriously?
+      Are you concerned about that? Do you have a response to that? PRIME MINISTER BENJAMIN NETANYAHU:
+      No, no, I’m not concerned about that. … Oh, well, look, I’m going to come there
+      with President Trump, and we’ll see what the — how do you know who the mayor will
+      be? I don’t know that. Do we know that? PRESIDENT DONALD TRUMP: He’s going to
+      be very fine. And who knows? It could — we don’t know who the mayor is going to
+      be yet. But this is a communist. He’s not a socialist. He’s a communist. And he
+      said some really bad things about Jewish people, and he said some really bad things
+      about a lot of people. And I think he’s going through a little bit of a honeymoon
+      right now, but he might make it. But, you know, it all comes through the White
+      House. He needs the money through the White House. He needs a lot. He’s going
+      to behave. He’ll behave. He better behave; otherwise, he’s going to have big problems.
+      AMY GOODMAN: So, if you can respond to both President Trump and Netanyahu? Trump
+      has been going after you since you announced. He talked about detaining you, checking
+      whether he might be able to deport you, talking about you as a communist. You,
+      in exchange, talk about Trump-proofing New York. ZOHRAN MAMDANI: You know, I think
+      it’s — it is a sad reality in this country, where we have a president who ran
+      an entire campaign premised on cheaper groceries and lowering the cost of living,
+      and what he has instead delivered, time and again, is an exacerbating of that
+      very crisis, all while focusing on the persecution of his supposed political enemies.
+      And when we talk about Trump-proofing the city, it’s not just the question of
+      hiring the 200 additional lawyers at our law department to bring us back to the
+      staffing levels prior to the pandemic. It’s a question of actually standing up
+      and fighting Donald Trump, and fighting Donald Trump because what his agenda is
+      doing is endangering the welfare of New Yorkers. This bill that he recently ushered
+      through Washington, D.C., it throws millions of New Yorkers off of their healthcare.
+      It steals SNAP benefits from so many hungry New Yorkers. And it does all of this
+      in the interest of the largest wealth transfer that we’ve seen in this country.
+      And to do those things while speaking about a cost-of-living crisis, it is truly
+      a betrayal of so much of what his campaign was premised on, and an illustration
+      of why he is so fearful of our campaign, because, unlike him, we don’t just diagnose
+      this crisis, we will deliver on it. We will actually ensure that we have New Yorkers
+      who can afford the city that they call home, that we freeze the rent for more
+      than 2 million New Yorkers, we make buses fast and free, which are currently the
+      slowest ones in the nation, and we deliver universal child care. And that’s what
+      Donald Trump is afraid of: the stark contrast between our delivery of those things
+      and what he has done as the president of this country. AMY GOODMAN: Zohran Mamdani,
+      what does it mean to be a Democratic Socialist? ZOHRAN MAMDANI: You know, I think
+      of the words of Dr. King from decades ago, who said, “Call it democracy, or call
+      it democratic socialism. There must be a better distribution of wealth for all
+      of God’s children in this country.” And New Yorkers understand that. We’re in
+      the wealthiest city in the wealthiest country in the history of the world, and
+      one in four New Yorkers are living in poverty. When I walked into this interview,
+      I walked past a New Yorker who was sleeping on the street. That’s the level of
+      poverty in the city, and yet it’s happening amidst great wealth. And the vision
+      for this city has to be one that understands the dignity of working people must
+      return to the heart of our politics, and to focus on that is to fulfill the ideals
+      that brought so many to politics in the first place, and the abandonment of it
+      has been what’s pushed so many away from it. NERMEEN SHAIKH: So, Zohran, let’s
+      talk about some of the support that you’ve received that was perhaps almost unprecedented,
+      and in this case, unprecedented. Over the weekend, you received an endorsement
+      from Bend the Arc: Jewish Action, the very first time the organization has endorsed
+      anyone in a mayoral race. In their endorsement, they wrote, “We are really very
+      excited about Zohran and his platform not in spite of our commitment to Jewish
+      values but because of them.” So, if you could talk about this endorsement? ZOHRAN MAMDANI:
+      You know, I am honored to have the endorsement of Bend the Arc and to be the first
+      municipal candidate to receive it. It really is a privilege. And it showcases
+      the fact that this coalition that we have, it is a coalition that not only continues
+      to expand, but also looks to reflect the beauty and the breadth of this city.
+      And one of the many things that makes the city so special are the close to 1 million
+      Jewish residents of this city. And I take very seriously my responsibility and
+      my opportunity to not only protect Jewish New Yorkers, but to celebrate so much
+      of what they have brought the city and so much of what it means to be a city with
+      such a thriving community. And I think of this period of the High Holy Days as
+      one where our politics and our politicians would do well to learn from the lessons
+      of these very holidays that seek to impart a reflection on what the prior year
+      has been, an atonement and a real level of humility as to what it means to lead.
+      And that is the kind of lessons that I hope to learn in delivering leadership
+      to this city. AMY GOODMAN: I was getting messages from congregants at Rosh Hashanah
+      when you went to a synagogue then, and also hearing about the reports of a woman
+      handing you stickers she had made with a picture of bagels and lox and a message
+      urging Jewish voters to support Mr. Mamdani. And on the stickers, it said, “Reject
+      the smear campaign. Join the schmear campaign.” ZOHRAN MAMDANI: Yes, yes, this
+      is very creative. And I think it’s a reflection that for all of the fearmongering
+      that we’ve seen in this race, part of the reason that I sit before you as the
+      Democratic nominee is because of the support of so many Jewish New Yorkers, of
+      all generations. And I’m so excited by that support and the prospect of building
+      that support by reaching out to Jewish New Yorkers across the five boroughs, including
+      at their synagogues. NERMEEN SHAIKH: And finally, Zohran, we know you have to
+      go, but, you know, many people have talked about the fact that you mobilized so
+      much of the youth vote. But you also mobilized a lot of the South Asian vote,
+      many people voting for the first time in a mayoral election, and Muslim communities,
+      as well. You’ll be, if you win, the first Muslim mayor of New York, the first
+      South Asian mayor. So, if you could say, you know, how important was that support
+      to you? And explain your decision, in fact, to emphasize the fact that you are
+      both a Muslim, South Asian and, in fact, also African. ZOHRAN MAMDANI: You know,
+      these are parts of my identity. They are parts of what has formed me and my life
+      over the course of both being a New Yorker and even before that. And I think it’s
+      a desire at the heart of our politics to ensure that these electoral outcomes,
+      these contests that we have, that they actually reflect the city at large. Too
+      often New York City politics is focused on an ever-narrowing group of New Yorkers,
+      the ones who vote every primary. And yet we know that there are so many New Yorkers
+      who call the city home just in the manner of those voters, but are not spoken
+      to with the same respect, are not given the same kind of time. And from the beginning
+      of this race, we said we wanted this race to look like the entire city. And that
+      means speaking to the very South Asian and Muslim New Yorkers that too often have
+      been looked at as, at best, there to be for a photo op, as opposed to New Yorkers
+      who are also suffering from this affordability crisis. AMY GOODMAN: Zohran Mamdani,
+      we are broadcasting this on Monday. We spoke to you on Sunday, right after Adams
+      said he’s pulling out of the election campaign. We also spoke to you the day after
+      he was indicted on corruption charges. Of course, Trump would dismiss those charges
+      later. But I also wanted to ask you — on this day, Monday, that we broadcast this,
+      apparently, the Democratic leaders will be at the White House — Hakeem Jeffries,
+      Minority Leader Chuck Schumer — meeting with Trump over the whole issue of the
+      budget and whether the country is going to be shut down. I want to know which
+      is more contentious: that meeting, Trump, Schumer and Hakeem Jeffries, or their
+      meetings, Hakeem Jeffries and Schumer, with you? I was just watching Senator Van
+      Hollen, who was really castigating his fellow Democrats who had not yet supported
+      you. Many have, from corporate Democrats, conservative Democrats, on to progressives.
+      But talk about that, Hakeem Jeffries and Chuck Schumer not having supported you
+      yet, even though you are the Democratic primary candidate. And what is being said
+      in these meetings? They keep saying they’re talking to you. ZOHRAN MAMDANI: Yes,
+      we have had a number of meetings, and I’ve appreciated the meetings, because the
+      focus of the meetings has been on the fact that New Yorkers are facing twin crises:
+      authoritarianism from Washington, D.C., and an affordability crisis from the inside.
+      And we often tend to separate these out. We think about democracy as an ideal
+      that must be protected, but not that democracy also has to be able to deliver
+      on the material needs of working people. And it was Fiorello La Guardia that said,
+      “You cannot preach … liberty to a starving land.” You have to be able to deliver
+      on both fronts. And to me, in these meetings, the focus has been how to do so.
+      And I would say that the meeting that they will have with Donald Trump is going
+      to be far more contentious than the ones that we’ve had. Ours have been focused
+      on New Yorkers. Donald Trump is focused on himself and his donors. And it is time
+      to showcase the cost of the legislation that he has ushered through, what it would
+      mean for New Yorkers’ lives. I mean, I was at a hospital in the Bronx just a few
+      days ago speaking to 1199 members who were telling me that these cuts, they could
+      decimate their ability to take care of New Yorkers in their toughest moments and
+      in their best moments. And yet that is the agenda that Donald Trump is pursuing.
+      And I continue to be hopeful and to be focused on the necessity of turning back
+      that legislation, ensuring those cuts do not come to pass in the manner that they
+      have been written. AMY GOODMAN: We’re going to end where we intended to begin
+      today, before Eric Adams announced that he’s dropping out, which became top news,
+      and that is by you saying your name. Of course, your main opponent, Andrew Cuomo,
+      continually mispronounces your name. I want you to respond to that. This is how
+      he does it. ANDREW CUOMO: I’m running against a man named Zohran Mamdami. He’s
+      a socialist. AMY GOODMAN: If you can respond to that and tell us how you say it,
+      your full name? ZOHRAN MAMDANI: Zohran Kwame Mamdani. And I think what has been
+      offensive to me is not whether a New Yorker can say my name on their first attempt
+      or their second, but that what Andrew Cuomo has done is to deliberately mispronounce
+      that name. And it is something whose meaning is not — it’s not just about me.
+      It’s about how so many New Yorkers have to deal with this in their own workplace,
+      in their own lives. You know, I was at a mosque recently for Friday prayers, and
+      I asked the uncles and the aunties there to raise their hands if they have ever
+      had to deal with the basic indignity of having the name that they were given be
+      butchered time and again with an intention of belittling them. And hand after
+      hand after hand raised. And that shows me the ways in which so many have been
+      overlooked, at the very least. And our campaign, it’s not a campaign to ensure
+      that everyone can say my name. It’s a campaign to ensure that each and every New
+      Yorker is celebrated for the fullest version of themselves, who they actually
+      are, and belonging to the fabric of this gorgeous mosaic, as David Dinkins once
+      called it. AMY GOODMAN: And your middle name, Kwame, where it comes from? ZOHRAN MAMDANI:
+      I was named by my father after Kwame Nkrumah, the first prime minister of Ghana.
+      And it is a point of pride for me and a reflection of the fact that I would also
+      be the first immigrant mayor of the city in generations. I was born in Kampala,
+      Uganda, in East Africa, moved here when I was 7. It’s the city where I grew up,
+      the city where I met my wife, the city where I got my citizenship, and hopefully
+      the city I will lead. AMY GOODMAN: Leading New York City mayoral candidate Zohran
+      Mamdani, speaking with us Sunday just after Mayor Eric Adams dropped out of the
+      mayoral race. Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . DemocracyNow! Democracy Now! produces a daily, global,
+      independent news hour hosted by award-winning journalists Amy Goodman and Juan
+      González. Our reporting includes breaking daily news headlines and in-depth interviews
+      with people on the front lines of the world’s most pressing issues. On Democracy
+      Now!, you’ll hear a diversity of voices speaking for themselves, providing a unique
+      and sometimes provocative perspective on global events. Author Site Please share
+      this story and help us grow our network!'
+    one_sentence_summary: In an exclusive interview following Mayor Eric Adams's withdrawal
+      from the reelection race, Democratic nominee Zohran Mamdani discusses his campaign
+      for an affordable New York City, his support for Palestinian rights, and the implications
+      of Adams's exit on the electoral landscape, particularly regarding his main opponent,
+      Andrew Cuomo.
+    paragraph_summary: In a recent interview following New York City Mayor Eric Adams's
+      announcement to withdraw from the mayoral race, Democratic nominee Zohran Mamdani
+      discussed his campaign focused on creating an affordable city and his support
+      for Palestinian rights, identifying as a democratic socialist. Mamdani's candidacy
+      gained momentum after he defeated disgraced former Governor Andrew Cuomo in the
+      Democratic primary, and Adams's exit is expected to consolidate votes for Cuomo,
+      who is now running as an independent. The interview also touched on the influence
+      of Donald Trump and business leaders in pressuring Adams to step down, as well
+      as the legal troubles Adams faces, including federal bribery charges related to
+      illegal campaign contributions.
+    published: '2025-09-30T11:49:56+00:00'
+  - title: It’s Time to Fight Back Against Trump’s Fascist Regime (w/ Ralph Nader) |
+      The Chris Hedges Report
+    url: https://scheerpost.com/2025/09/29/its-time-to-fight-back-against-trumps-fascist-regime-w-ralph-nader-the-chris-hedges-report/
+    text: 'By Chris Hedges / The Chris Hedges Report This interview is also available
+      on podcast platforms and Rumble . “Are you a worker? Yes. Are you a consumer shopper?
+      Yes. Are you a taxpayer? Yes. Voter? Well, sometimes. Are you a parent? Yes. Are
+      you a veteran? Sometimes. Well, how can you say you’re a nobody? You know things
+      about those roles. You’ve experienced them. You’ve been frustrated. If you lie
+      to yourself to be a nobody, you’re going to be treated like a nobody. You’re going
+      to be treated like someone who doesn’t count, someone who doesn’t matter, somebody
+      who can be disrespected, someone who can be ripped off, somebody who could be
+      underinsured, somebody who can be suppressed.” Ralph Nader, consumer advocate,
+      corporate critic and former presidential candidate, asks these questions to demonstrate
+      how Americans often sell themselves short regarding their power as citizens. Nader,
+      whose life-long mission has been to empower people to fight back against corrupt
+      politicians and greedy corporate criminals, joins host Chris Hedges on this episode
+      of The Chris Hedges Report to continue to spread this message at a critical juncture
+      in American politics. With Donald Trump’s increasing fascistic repression and
+      an impending government shutdown, Nader offers a roadmap for how both government
+      officials and ordinary people can fight back. His latest book, Citizen Self-Respect
+      , serves as a call to action, arguing that Americans must not passively allow
+      the Trump administration and corporate elites to consolidate their power. /NOTE
+      TO SCHEERPOST READERS FROM CHRIS HEDGES: There is now no way left for me to continue
+      to write a weekly column for ScheerPost and produce my weekly television show
+      without your help. The walls are closing in, with startling rapidity, on independent
+      journalism , with the elites, including the Democratic Party elites, clamoring
+      for more and more censorship. Bob Scheer, who runs ScheerPost on a shoestring
+      budget, and I will not waver in our commitment to independent and honest journalism,
+      and we will never put ScheerPost behind a paywall, charge a subscription for it,
+      sell your data or accept advertising. Please, if you can, sign up at chrishedges.substack.com
+      so I can continue to post my now weekly Monday column on ScheerPost and produce
+      my weekly television show, The Chris Hedges Report. Host Chris Hedges Producer:
+      Max Jones Intro: Diego Ramos Crew: Diego Ramos and Victor Castellanos Transcript:
+      Diego Ramos Transcript: Chris Hedges There is no functioning opposition party
+      that can halt America’s rapid descent into an authoritarian state. The Democratic
+      Party, which in the last presidential election saw the party hierarchy anoint
+      a candidate who ran a vapid, issueless, celebrity-driven campaign, was soundly
+      rejected by the voters for the grifter and demagogue Donald Trump. The party,
+      which is a minority in the House and the Senate, stands for nothing and fights
+      for nothing. Indeed, it does not even function as a political party, with the
+      concerns of its voting base routinely ignored. Democratic Party voters, sixty-two
+      percent of whom say the party leadership should be replaced, seventy-five percent
+      of whom oppose sending more military aid to Israel and sixty-six percent favor
+      socialism, are little more than props trotted out as extras at the highly choreographed
+      convention. The sinking poll numbers — the Party has a twenty-four percent positive
+      rating and a fifty-six percent negative rating — have done nothing to jolt the
+      party back to reality. Hakeem Jeffries, the House Minority leader, and Chuck Schumer,
+      the Senate minority leader, each of whom are from New York state, have refused
+      to endorse the party’s official candidate for mayor in New York, Zohran Mamdani,
+      despite his energized grassroots campaign and high polling numbers. It has ignored
+      Bernie Sanders “Fighting Oligarchy” tour which drew large crowds across the country
+      and did all it could to sabotage Sander’s campaign to be the party’s presidential
+      nominee. The party continues to cravenly serve the interests of its corporate
+      and oligarchic donors, including the Israel lobby, at the expense of its own viability.
+      It refuses to mount little more than a symbolic challenge as the Trump administration
+      dismantles democratic institutions and eviscerates civil liberties. With government
+      funding set to expire tomorrow, the party could deliver a significant blow to
+      the Trump administration by orchestrating a partial government shutdown. This
+      tactic was rejected earlier this year by Schumer when he supported a continuing
+      resolution, but the widespread outrage over the abject failure by the party to
+      throw up roadblocks to Trump’s authoritarianism may finally see the Democrats
+      reluctantly react. Joining me to discuss the crisis in the American political
+      system, what it means if the Democratic Party continues to capitulate and the
+      Trump administration’s war on democratic norms and lawful dissent is consumer
+      advocate and former presidential candidate Ralph Nader. I want to begin, Ralph,
+      by looking at the Democratic Party. I think you have long blamed the party for
+      this rightward drift and even the election of Trump. Ralph Nader Chris, I have
+      to bicker with you. Stop using the word authoritarianism to describe Trump’s fascist
+      dictatorship, which meets every criteria of dictatorship, moving into a police
+      state with only terror to look forward to. He has violated every law that would
+      obstruct him. He has defied judicial decisions. He has ignored congressional exclusive
+      authority over spending and declaration of war and other authorities under the
+      Constitution. There’s almost no impeachable offense that he has not committed.
+      We have drafted over 23 impeachable articles and we’re talking impeachment now
+      and removal from office. That’s the only thing left under the Constitution that
+      he has not ravaged and been able to control. He has turned the Justice Department
+      into a crooked, illegal persecutor of innocent people. He is self-enriching himself
+      and his cohorts using the office of the White House. He lies seriously and violently,
+      turning realities into fantasies. He is basically laying the groundwork with tariffs
+      and other policies that are going to increase prices to the American people, which
+      has already started. Unemployment is increasing, people are having a hard time
+      finding new jobs and they’re having a very hard time in terms of housing and other
+      necessities of life to protect and nurture their families. So you have but all
+      the criteria — repression of free speech, cracking down on dissent, kidnapping
+      people with masked ICE [Immigration and Customs Enforcement] agents including
+      people who have green cards and they stumbled over people who are actually American
+      citizens, thrown into dungeon concentration camps. They’re called “detention centers”
+      by liberals as well as right wingers. The second thing in addition to dropping
+      the word authoritarianism is to show that the Democrats, they don’t have a party
+      per se. They contract out their campaigns, their fundraising, their strategies,
+      their tactics, their choice of schedules and traveling to corporate conflicted
+      consulting firms, which have been immune from investigation by the Washington
+      Post, New York Times and Wall Street Journal for years. And I have talked to all
+      the reporters and I said, you’re missing a big story. This is the only party we
+      have that can save the republic from the ravages of what JD Vance in 2016 before
+      he turncoat called America’s Hitler, meaning he’s referring to Trump. So having
+      said this, it’s so easy for the Democrats to throw the Republicans on the defensive
+      on issues that are supported by left/right voters but they don’t stand for anything
+      because they’re not in charge of their campaign policies and programs. They got
+      all these greedy consulting firms that go back and forth between the Democratic
+      apparatchiks and their own business. It’s a huge scandal that needs to be exposed.
+      So if the Democrats made a big issue out of increasing the minimum wage to at
+      least $15 federal from $7.25, that’s 25 million workers who would live better.
+      They can say, vote for a raise. You’ve long denied it. They can raise Social Security
+      benefits frozen for over 45 years and pay for it by raising the Social Security
+      tax on higher income individuals. In 2022, 200 House Democrats voted for such
+      a bill by John Larson, congressman from Connecticut, but Nancy Pelosi wouldn’t
+      take it to the floor. That would help 65 million retired Americans. You could
+      restore this child tax credit, providing $300 a month to 61 million children from
+      both liberal and conservative families. The Republicans are against all of these.
+      So you cut the difference between the priorities sharply with huge polling. If
+      you went into the next issue, which is cracking down on corporate crooks that
+      are stealing the hard-earned earnings and savings of all Americans, that comes
+      in at 85% in the polls. What’s there to lose? Campaign money from Wall Street
+      to Chuck Schumer and to Hakeem Jeffries. And then the other big one is, which
+      Kamala Harris raised but never really emphasized, it was a throwaway line, raise
+      taxes on the hugely under-taxed, super-rich and multinationals. And that comes
+      in at 85%. That’s a lot of conservatives who are fed up with how these big companies
+      are getting away with it. So you’re dealing with just endless opportunities that
+      Franklin Delano Roosevelt, Harry Truman, even Lyndon Johnson would have adopted
+      to landslide the Republicans. So now the Democrats are hours away from a potential
+      shutdown, but they haven’t made the case. They say that they want to reverse ending
+      the subsidies for Obamacare, that’s almost 30 million. We’re going to experience
+      very high increase in health care premiums as of January and they want to get
+      rid of the depletion of Medicaid. 10 to 15 million people are going to lose it
+      in order to pay for tax cuts for the super wealthy including Trump’s family. So
+      that’s not enough. They don’t say it. They don’t know how to say it right. They
+      don’t know how to talk about how many people would be benefited by continuing
+      the subsidies and stopping the hemorrhaging of Medicaid. They just are letting
+      consultants use the words they use. So in 2001, Robert Reich, former Labor Secretary
+      under [Bill] Clinton, wrote an article for the [Washington Post] , and he basically
+      said the Democratic Party is dead, dead, dead. And that’s the problem for the
+      American people. And that’s why the clamoring at town meetings where people are
+      shouting at the Democratic senators and representatives “start fighting, start
+      going after the GOP, protect us, defend us, represent us,” is still not breaking
+      through. Schumer and Jeffries should resign immediately. They have turned themselves
+      into trojan horses and if the government shuts down partially on October 1, I’m
+      not sure they can make the case in the polls yet because they have surrendered
+      their integrity and independence to these commercial consultants who have corporate
+      clients throughout the year. What are they doing hiring them for the Democratic
+      Party? Chris Hedges Do you see any hope in the [Zohran] Mamdani campaign? Ralph
+      Nader Yes, it looks like he’s going to win. The more he’s battered by the billionaires
+      and the real estate industry and the Israeli lobby, his polls keep going up. So
+      the key thing is turnout. There are huge numbers of younger New Yorkers who are
+      registered to vote who don’t vote. They came out for the primary, a small number,
+      but [Andrew] Cuomo is relying on a low turnout. So the issue is he’s got over
+      16,000 volunteers that should be able to get a major vote turnout. He’s getting
+      a lot of media, even critical media he turns to his advantage. But the one thing
+      he hasn’t done is answer the question, how are you going to pay for these programs
+      like free childcare, free bus service, etc. The way to do it is for him to come
+      out with his colleagues in Albany, who have already come out for a bill to end
+      the daily rebate of over $40 million a day, maybe $80 million, of the tiny sales
+      tax on stock transactions, 1/10th of 1%. Chris, you know what you pay when you
+      go to New York. You pay a state and city tax that’s over 8% for the necessities
+      of life in stores in New York, 1/10th of 1% will bring in anywhere from $16 to
+      $30 billion a year. And for some reason, even though he’s been asked by 1099 Union,
+      he’s been asked by a statewide religious group, he’s been asked by a coalition
+      of consumer groups, including us, to come out and end the rebate so you can answer
+      the question, how you can pay for daycare and bus fare. And this bill targets
+      money. It actually targets money to mass transit, to healthcare, to environment,
+      to education. All these unions should be fighting for it, but only a very few
+      are because the state labor federation guy has been listening to [Thomas P.] DiNapoli,
+      the state [comptroller] who’s in the pockets of Wall Street and saying, oh this
+      will harm pension fund investments. Total nonsense. It will be paid primarily
+      by very high frequency traders, so it’s a wonderful progressive sales tax for
+      only 1/10 of 1%. Otherwise, he’s running a good campaign. Chris Hedges Yeah, I
+      mean, they will, they’ve already announced, they will do everything they can to
+      destroy him and to make his tenure in office untenable. Ralph Nader Well, he’s
+      got to appoint some very smart, experienced people, and he’s fully aware of that.
+      He’s a pragmatic guy. He’s not a skydiver. Chris Hedges If the Democratic Party
+      continues in this trajectory and Trump continues to consolidate, and I have used
+      the word fascism, I did not use it in my introduction, but I do use the word fascism,
+      this fascistic, and we’ve just seen this presidential memo that essentially equates
+      criticism of capitalism, criticism of ICE with acts of terrorism. Where are we
+      headed and how fast? Ralph Nader We’re headed fast into a police state and terrorism.
+      He’s already going after James Comey, and he’s persecuting him. The indictment
+      was two pages. It was totally flimsy by the grand jury, which is a narrow decision.
+      And he now says he’s going after Senator Adam Schiff from California. That’s another
+      very serious bright line. He’s starting to go after lawmakers. So that’s what
+      fascists do. They’re going after the press. He’s extorting them. He’s going after
+      universities. This is technically extortion. When you say you’re going to cut
+      off funds, they’re going to block law firms from representing clients by not letting
+      them into federal buildings, that’s the perfect definition of extortion. That’s
+      a serious crime, impeachable crime, clearly. It’s not only his repression, Chris.
+      Who’s he leaving alone and who is he cutting funds for? You know, cutting funds
+      for FEMA [Federal Emergency Management Agency] with approaching hurricanes. He’s
+      cutting funds that warn on weather patterns. He’s cutting funds that warn on pandemics.
+      He’s cutting funds that warn on global warming catastrophes. He’s cutting the
+      funds of Head Start, which Republicans and Democrats have supported. Cutting the
+      funds on Meals on Wheels. Cutting the funds on Medicaid. All these affect Trump
+      voters as well and they’re not coming to their senses and turning against him
+      in fast enough numbers. His polls are dropping but not fast enough because he’s
+      betrayed them. But it’s not just all of that that you’ve written and talked about,
+      Chris. Repression, violence, defamation, incarceration, unemploying people, firing
+      them illegally. 300,000 have left the Federal Civil Service since January 20.
+      Some of them were retirements, but most were pushed out. Closing down scientific
+      research, NIH [National Institutes of Health], and CDC [Centers for Disease Control
+      and Prevention]. But who’s he leaving alone? And this is the definition of fascism
+      or the corporate state. He’s leaving alone hundreds of billions of dollars of
+      corporate handouts, giveaways, subsidies, bailouts a year. He’s leaving alone,
+      along with [Elon] Musk, all the corporate crooks that are bleeding federal programs
+      like Medicare. $60 billion fraud a year, billion with a B. Medicaid, heavy tens
+      of billions of dollars by the vendors, by the people who, the companies who sell
+      or who are contracted out to administer programs like the inflated Medicare Disadvantage
+      program, poking a huge hole in Medicare and with deceptive ads that are not prosecuted
+      by the Federal Trade Commission. And of course the military budget. He’s added
+      $150 billion dollars more to the bloated military budget than the generals have
+      asked for. $44 billion more to Homeland Security, hired tens of thousands of masked
+      agents, kidnapping people, throwing them into jail without charges, sometimes
+      exporting them to dictatorial torture regimes. So you got the complete definition
+      of fascism defined by Franklin D. Roosevelt in 1938 in a message to Congress.
+      He basically said, when private power takes over our government, that’s fascism.
+      Chris Hedges Let’s talk about his deployment of National Guard troops in cities,
+      Washington [D.C.], Chicago, now Portland. What’s he doing? Ralph Nader Well, basically
+      this attack on Democratic-controlled cities, most of them with Black mayors, like
+      Los Angeles and New York, other places, Washington, D.C., it’s part of the fascist
+      takeover. You federalize the state National Guard. He’s using fake national emergency
+      declarations. This is Congress’s fault. They gave them all this wide open discretionary
+      power to declare insurrection, to declare foreign invasion, to declare emergency
+      powers without any criteria or standards. So it goes back a long way when Congress
+      just abdicated its role. It doesn’t want to do its job under the Constitution.
+      Those are not executive powers. Those are congressional powers delegated without
+      any restraints and accountability to any reckless president. We’ve never had one
+      more reckless. He’s an egomaniacal, unstable, dangerous personality. He is set
+      on the record and we printed him in our book on destroying America on Donald Trump.
+      He said that he knows more than experts in 15 different areas. He knows more about
+      banks. He knows more about construction. He knows more about trade than anyone.
+      This is a deranged megalomaniac person. He just said the other day before the
+      UN [United Nations], I’ve been right on everything. There’s a very dangerous personality
+      here. Chris Hedges And let’s talk about ICE. The massive expansion of ICE will
+      get more, its budget will now dwarf all other federal law enforcement agencies
+      and this planned building of huge detention centers all across the country… Ralph
+      Nader They’re not detention centers, they’re concentration camps! Chris Hedges
+      Concentration camps. Yes, you’re right. And how is that mechanism going to be
+      used? One assumes that that’s not simply for undocumented people. Ralph Nader
+      Well it’s already starting like he kidnapped the Tufts graduate student because
+      she wrote an op-ed criticism of him. There’s a lot of people in that category
+      — citizen groups, labor groups, better government groups, reform groups, and he’s
+      getting away with it. And one reason, by the way, you might wonder, Chris, and
+      your audience might wonder why people aren’t suing for malicious prosecution,
+      abuse of power, the way that they have successfully sued out of control police
+      violence in cities around the country under tort law. It’s because, with the help
+      of the Supreme Court, they’ve made it very hard to sue federal employees who,
+      even under contract, who basically plead the government sovereignty defense. So
+      that’s why the ICE agents feel that they’re not going to be sued, because they
+      come under that protective cloak, which the Supreme Court has been expanding.
+      That’s what the concentration camps are for. Now, obviously, public opinion is
+      turning against him. And that’s where he’s going to fail. He’s losing ground,
+      even significantly among Trump voters and independent voters who voted for him
+      because they’re seeing the betrayal even though there’s been a delay in the impact
+      because he delays the tariffs but a whole bunch of them are going in effect October
+      1st. And they will see the price increases in necessities of life, kitchen table
+      necessities, very shortly so I expect that his polls are going to drop to thirty
+      percent and it’s only at thirty percent that Hakeem Jeffries and Schumer say that’s
+      when they can go after him. Well, that waits to be seen. What does it mean to
+      go after him? There’s only one remedy. It’s called impeachment in the House, removal
+      of the Senate. Now people say impossible, GOP controls both. It’s not at all.
+      Here’s why. When the GOP sees his polls plummeting for 2026, it’s either them,
+      up for reelection and loss of the Congress, or Trump, who is not up for reelection.
+      What do you think they’re going to pick? What’s the precedent? Let’s go to Richard
+      Nixon. He won 49 states in 1972. He was a 60% approval. Less than two years later,
+      he resigned. Why? Because he was about to be impeached and removed from office.
+      For what articles? Listen to this in comparison. Listen to the transgressions
+      of Nixon that led to his ouster: One count of obstructing justice and I think
+      two counts of obstructing justice and one article of defying a congressional subpoena.
+      Trump defied 125 congressional subpoenas in his first term alone. 125. Obstruction
+      of justice, John Bolton said in his memoir, the former security assistant to Trump,
+      who Trump is going after, by the way. He’s raided his home with FBI agents. He
+      said, “obstruction of justice was a way of life, a daily way of life in the White
+      House first term.” So the Democrats have hundreds of more impeachable offenses,
+      and they’re not one-time events like Watergate. They are continually impeachable.
+      He brags about it openly. He boasts about it. He indicts himself every day. And
+      the Democrats on Capitol Hill are telling us, now is not the time for impeachment.
+      Now is not the time. When is the time, Jamie Raskin? When is the time, Adam Schiff?
+      When is the time, Schumer? When is the time, Jeffries? After he’s prosecuted you
+      with rump prosecutors for crimes and got you before a grand jury? Is that what
+      you’re waiting for? Have you ever seen a more craven, corrupt, cowardly party
+      in American history, Chris? Chris Hedges No. And it’s always, you know, look at
+      Weimar [Germany] or anywhere else, it’s always a bankrupt liberalism that sows
+      the seeds for fascism. Ralph Nader Well, you wrote the book on it: Death of the
+      Liberal Class , when I had you on my podcast radio show, I accused you of understatement
+      and really, it’s much worse. For example, we’re asking Jamie Raskin, he is now
+      the ranking member of this House Judiciary Committee. There’s nothing stopping
+      him from holding shadow hearings publicly with witnesses and media on impeachment,
+      educating the public, getting them ready for impeachment if and when the Democrats
+      take control of the House. Now, the House Democrats under Pelosi, they impeached
+      Trump twice. Once on a Ukraine extortion type thing with Hunter Biden, not exactly
+      a tabletop issue, kitchen table issue. And the other was on January 6th, insurrection.
+      Now they have 24 serious, serious impeachable offenses, many of which are criminal
+      violations with jail terms, like the Anti-Deficiency Act, which prohibits presidents
+      from not obeying appropriation fund orders by the Congress, which he violates
+      every day. He’s closing down AID, impeachable offense, Congress has authorized
+      funds to keep it open. He’s done the same thing with the Education Department,
+      the Consumer Financial Protection Bureau that protects people and has returned
+      $21 billion from corporate crooks, including from Wall Street. So what are they
+      waiting for? The longer they wait, the more they’re going to have to deal with
+      the police terror state. This guy has no boundaries. He’s a deranged, unstable
+      personality. He’s ignorant, monomaniacal, he knows more than everybody and he’s
+      put entrenched yes people that can be the counterparts of Hermann Göring, [Heinrich]
+      Himmler, [Joachim von] Ribbentrop, guys like [Pete] Hegseth, Secretary of Defense.
+      He can’t wait for a war. They’re pushing the country to war. And he’ll put us
+      into war to try to avoid impeachment and send US troops. So we have retired military
+      who despise Trump. They worked under him. They were Secretary of Defense, remember
+      [Jim] Mattis? The head of the Joint Chiefs of Staff, and his security advisor,
+      John Kelly, all former generals, retired now. They have a network. What are they
+      waiting for? They cannot be told to obey an illegal order under the Constitution
+      and a Trump war without congressional authorization is ipso facto an illegal order
+      to every soldier that they are under a legal requirement under the Nuremberg rules,
+      international law, to disobey that illegal order and go fight an illegal war in
+      some foreign land. Chris Hedges So Ralph, before I ask you about your new book,
+      do you have any idea what this concave of all the senior military and Hegseth
+      is about? Ralph Nader It’s about not to disobey illegal orders that are forthcoming.
+      To do things from Trump to the Pentagon to people overseas and to use the military
+      domestically in our cities and towns in rural areas which violated federal law
+      and he can’t get away with by just declaring one fake emergency after another.
+      It’s basically to whip potential dissenters among the generals and admirals, people
+      who grew up West Point Air Force Academy, Naval Academy, saying that their first
+      obligation is their oath to support the Constitution, not the Secretary of Defense
+      or the President. It’s very dangerous whipping them into a very pliable force
+      for illegal action against the American people domestically and abroad. Chris
+      Hedges So let’s talk about, at the end here, your book, Civil Self-Respect and
+      what you call a civic personality as opposed to a personal personality. Ralph
+      Nader Let me just put it this way. I want to use this metaphor. The mighty Mississippi
+      starts with a few rivulets in Minnesota and Montana. The rivulets then become
+      brooks. Brooks then merge to become streams. The streams then merge into mighty
+      tributaries, which then, like the Missouri River, feed into the giant Mississippi
+      River. The giant Mississippi River would not be a river without the rivulets,
+      trucks, and the streams. So that’s the metaphor. Now the reason I wrote this book,
+      it’s critical to all we’ve been discussing. The ballgame now is back in the hands
+      of the people. They’re turning out at various town meetings. 1% of them are marching
+      and very active. We need more than 1%. Even 2% is 5 million adults right there.
+      And so I write this book because I would be speaking to large audiences, Chris,
+      around the country in past years. And at the end, people would come up to me,
+      rather hesitantly, and they would say, Ralph, I know I’m a nobody, but I have
+      to ask you this question. And when I hear that, I flare. I say, what do you mean
+      you’re a nobody? How can you ever say you’re a nobody? You live as a citizen in
+      this country. How can you say you’re a nobody? Are you a worker? Yes. Are you
+      a consumer shopper? Yes. Are you a taxpayer? Yes. Voter? Well, sometimes. Are
+      you a parent? Yes. Are you a veteran? Sometimes. Well, how can you say you’re
+      a nobody? You know things about those roles. You’ve experienced them. You’ve been
+      frustrated. If you lie to yourself to be a nobody, you’re going to be treated
+      like a nobody. You’re going to be treated like someone who doesn’t count, someone
+      who doesn’t matter, somebody who can be disrespected, someone who can be ripped
+      off, somebody who could be underinsured, somebody who can be suppressed. So let
+      me tell you something. And that is, you don’t have to go out of your way. Just
+      in your ordinary shopping, you get ripped off, you become more of an advocate,
+      you move into a citizen dimension. Some of the examples in this book, it’s full
+      of examples called Citizen Self-Respect . A woman was kept on a tarmac in Michigan
+      for hours with her fellow passengers. The plane heated up. It was awful. And so
+      when she got out, she looked into it and she saw there’s no remedy for the passengers.
+      So she started a group called FlyersRights , Kate Hanni was her name. And until
+      she stopped getting support because people often look the other way and think
+      other people are going to support these citizen groups, she made a lot of changes
+      on the basis of her experience. She became a citizen advocate. And there are people
+      who’ve done this recently and they’ve been in the news, in the food safety area.
+      They mobilize because of their bad experiences with junk food, contaminated food.
+      So this is full of examples. And so your daily role as a consumer, a worker, taxpayer,
+      voter, whatever, you can go out of your personal role and develop an additional
+      civic energy, civic protest, civic advocacy. And some of you are going to be so
+      excited, you’re going to join existing citizen groups that want more members and
+      more supporters around the country focusing on Congress, for example. You’ll get
+      the CapitolHillCitizen.com , the new Capitol Hill Citizen newspaper that we’re
+      putting out. You’ll connect with some local groups on housing and really basic
+      community necessities that are recognized by left/right families don’t fall prey
+      to the divide and rule tactics of the ruling classes because they want the same
+      things for their children and for themselves — public services adequate benefits
+      that they’ve already paid into as well as clean air, clean water and other protections
+      locally in the community and the neighborhood. This is why I call this my most
+      important book. This is a short book, very readable, full of examples, but it’s
+      very personal. The chapters are chapter names that have never been written about
+      before in a preface. I, the citizen, I, the worker, I, the consumer shopper, I,
+      the taxpayer, I, the voter, I, the parent, I, the veteran, I, the philanthropist.
+      People say philanthropy? I’m not a philanthropist. Are you kidding? Lower and
+      middle income people give a higher portion of their money to charity than rich
+      people. They’re all philanthropists. They can all decide where to put their money,
+      how to aggregate their money, how to talk to enlightened rich people, to fund
+      activities, which we outline in this book at the local level. So you can get an
+      autographed copy of this book. If you’re inclined that way, you can go to Nader.org
+      and it describes the book or you can get it directly from the publisher, Seven
+      Stories Press , or you can get it in other ways you buy books online or from your
+      independent bookstores. It’s called Civic Self-Respect . It has a nice commentary,
+      very brilliant commentary by Patti Smith on the front page as well as other encomiums
+      that I appreciate including yours, Chris Hedges. Thank you very much winner of
+      the Pulitzer Prize for war [reporting] and author of the book War Is a Force That
+      Gives Us Meaning and I always thought, Chris, that’s one of your greatest books
+      because it really cuts deep into the self-respect, or lack of, by citizens around
+      the country who have allowed themselves to lose their government, have it be taken
+      over by corporations into a military corporatist plutocracy. Chris Hedges Great,
+      thanks Ralph. That’s Civic Self-Respect . I want to thank Diego [Ramos], Max [Jones],
+      Sofia [Menemenlis], Thomas [Hedges], and Victor [Padilla], who produced the show.
+      You can find me at ChrisHedges.Substack.com . Editor’s Note : A t a moment when
+      the once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Chris Hedges Chris
+      Hedges is a Pulitzer Prize–winning journalist who was a foreign correspondent
+      for fifteen years for The New York Times, where he served as the Middle East Bureau
+      Chief and Balkan Bureau Chief for the paper. He previously worked overseas for
+      The Dallas Morning News , The Christian Science Monitor , and NPR. He is the host
+      of show The Chris Hedges Report. He was a member of the team that won the 2002
+      Pulitzer Prize for Explanatory Reporting for The New York Times coverage of global
+      terrorism, and he received the 2002 Amnesty International Global Award for Human
+      Rights Journalism. Hedges, who holds a Master of Divinity from Harvard Divinity
+      School, is the author of the bestsellers American Fascists: The Christian Right
+      and the War on America , Empire of Illusion: The End of Literacy and the Triumph
+      of Spectacle and was a National Book Critics Circle finalist for his book War
+      Is a Force That Gives Us Meaning . He writes an online column for the website
+      ScheerPost . He has taught at Columbia University, New York University, Princeton
+      University and the University of Toronto. Author Site'
+    one_sentence_summary: In an interview, consumer advocate Ralph Nader emphasizes
+      that Americans undermine their own significance and power by perceiving themselves
+      as "nobodies," which leads to their mistreatment and disenfranchisement by corrupt
+      systems.
+    paragraph_summary: In an interview on The Chris Hedges Report, consumer advocate
+      Ralph Nader emphasizes the importance of recognizing one’s value and power as
+      a citizen, challenging the notion of being a "nobody." He argues that Americans
+      must acknowledge their roles as workers, consumers, taxpayers, and voters to avoid
+      being marginalized and disrespected by corrupt politicians and corporate interests.
+      With the rise of authoritarianism under Donald Trump and the threat of a government
+      shutdown, Nader presents a roadmap for resistance in his latest book, "Citizen
+      Self-Respect," urging citizens to actively combat the consolidation of power by
+      elites rather than passively accepting their fate.
+    published: '2025-09-30T03:56:36+00:00'
+  - title: It’s Time to Fight Back Against Trump’s Fascist Regime (w/ Ralph Nader) |
+      The Chris Hedges Report
+    url: https://scheerpost.com/2025/09/29/its-time-to-fight-back-against-trumps-fascist-regime-w-ralph-nader-the-chris-hedges-report/
+    text: 'By Chris Hedges / The Chris Hedges Report This interview is also available
+      on podcast platforms and Rumble . “Are you a worker? Yes. Are you a consumer shopper?
+      Yes. Are you a taxpayer? Yes. Voter? Well, sometimes. Are you a parent? Yes. Are
+      you a veteran? Sometimes. Well, how can you say you’re a nobody? You know things
+      about those roles. You’ve experienced them. You’ve been frustrated. If you lie
+      to yourself to be a nobody, you’re going to be treated like a nobody. You’re going
+      to be treated like someone who doesn’t count, someone who doesn’t matter, somebody
+      who can be disrespected, someone who can be ripped off, somebody who could be
+      underinsured, somebody who can be suppressed.” Ralph Nader, consumer advocate,
+      corporate critic and former presidential candidate, asks these questions to demonstrate
+      how Americans often sell themselves short regarding their power as citizens. Nader,
+      whose life-long mission has been to empower people to fight back against corrupt
+      politicians and greedy corporate criminals, joins host Chris Hedges on this episode
+      of The Chris Hedges Report to continue to spread this message at a critical juncture
+      in American politics. With Donald Trump’s increasing fascistic repression and
+      an impending government shutdown, Nader offers a roadmap for how both government
+      officials and ordinary people can fight back. His latest book, Citizen Self-Respect
+      , serves as a call to action, arguing that Americans must not passively allow
+      the Trump administration and corporate elites to consolidate their power. /NOTE
+      TO SCHEERPOST READERS FROM CHRIS HEDGES: There is now no way left for me to continue
+      to write a weekly column for ScheerPost and produce my weekly television show
+      without your help. The walls are closing in, with startling rapidity, on independent
+      journalism , with the elites, including the Democratic Party elites, clamoring
+      for more and more censorship. Bob Scheer, who runs ScheerPost on a shoestring
+      budget, and I will not waver in our commitment to independent and honest journalism,
+      and we will never put ScheerPost behind a paywall, charge a subscription for it,
+      sell your data or accept advertising. Please, if you can, sign up at chrishedges.substack.com
+      so I can continue to post my now weekly Monday column on ScheerPost and produce
+      my weekly television show, The Chris Hedges Report. Host Chris Hedges Producer:
+      Max Jones Intro: Diego Ramos Crew: Diego Ramos and Victor Castellanos Transcript:
+      Diego Ramos Transcript: Chris Hedges There is no functioning opposition party
+      that can halt America’s rapid descent into an authoritarian state. The Democratic
+      Party, which in the last presidential election saw the party hierarchy anoint
+      a candidate who ran a vapid, issueless, celebrity-driven campaign, was soundly
+      rejected by the voters for the grifter and demagogue Donald Trump. The party,
+      which is a minority in the House and the Senate, stands for nothing and fights
+      for nothing. Indeed, it does not even function as a political party, with the
+      concerns of its voting base routinely ignored. Democratic Party voters, sixty-two
+      percent of whom say the party leadership should be replaced, seventy-five percent
+      of whom oppose sending more military aid to Israel and sixty-six percent favor
+      socialism, are little more than props trotted out as extras at the highly choreographed
+      convention. The sinking poll numbers — the Party has a twenty-four percent positive
+      rating and a fifty-six percent negative rating — have done nothing to jolt the
+      party back to reality. Hakeem Jeffries, the House Minority leader, and Chuck Schumer,
+      the Senate minority leader, each of whom are from New York state, have refused
+      to endorse the party’s official candidate for mayor in New York, Zohran Mamdani,
+      despite his energized grassroots campaign and high polling numbers. It has ignored
+      Bernie Sanders “Fighting Oligarchy” tour which drew large crowds across the country
+      and did all it could to sabotage Sander’s campaign to be the party’s presidential
+      nominee. The party continues to cravenly serve the interests of its corporate
+      and oligarchic donors, including the Israel lobby, at the expense of its own viability.
+      It refuses to mount little more than a symbolic challenge as the Trump administration
+      dismantles democratic institutions and eviscerates civil liberties. With government
+      funding set to expire tomorrow, the party could deliver a significant blow to
+      the Trump administration by orchestrating a partial government shutdown. This
+      tactic was rejected earlier this year by Schumer when he supported a continuing
+      resolution, but the widespread outrage over the abject failure by the party to
+      throw up roadblocks to Trump’s authoritarianism may finally see the Democrats
+      reluctantly react. Joining me to discuss the crisis in the American political
+      system, what it means if the Democratic Party continues to capitulate and the
+      Trump administration’s war on democratic norms and lawful dissent is consumer
+      advocate and former presidential candidate Ralph Nader. I want to begin, Ralph,
+      by looking at the Democratic Party. I think you have long blamed the party for
+      this rightward drift and even the election of Trump. Ralph Nader Chris, I have
+      to bicker with you. Stop using the word authoritarianism to describe Trump’s fascist
+      dictatorship, which meets every criteria of dictatorship, moving into a police
+      state with only terror to look forward to. He has violated every law that would
+      obstruct him. He has defied judicial decisions. He has ignored congressional exclusive
+      authority over spending and declaration of war and other authorities under the
+      Constitution. There’s almost no impeachable offense that he has not committed.
+      We have drafted over 23 impeachable articles and we’re talking impeachment now
+      and removal from office. That’s the only thing left under the Constitution that
+      he has not ravaged and been able to control. He has turned the Justice Department
+      into a crooked, illegal persecutor of innocent people. He is self-enriching himself
+      and his cohorts using the office of the White House. He lies seriously and violently,
+      turning realities into fantasies. He is basically laying the groundwork with tariffs
+      and other policies that are going to increase prices to the American people, which
+      has already started. Unemployment is increasing, people are having a hard time
+      finding new jobs and they’re having a very hard time in terms of housing and other
+      necessities of life to protect and nurture their families. So you have but all
+      the criteria — repression of free speech, cracking down on dissent, kidnapping
+      people with masked ICE [Immigration and Customs Enforcement] agents including
+      people who have green cards and they stumbled over people who are actually American
+      citizens, thrown into dungeon concentration camps. They’re called “detention centers”
+      by liberals as well as right wingers. The second thing in addition to dropping
+      the word authoritarianism is to show that the Democrats, they don’t have a party
+      per se. They contract out their campaigns, their fundraising, their strategies,
+      their tactics, their choice of schedules and traveling to corporate conflicted
+      consulting firms, which have been immune from investigation by the Washington
+      Post, New York Times and Wall Street Journal for years. And I have talked to all
+      the reporters and I said, you’re missing a big story. This is the only party we
+      have that can save the republic from the ravages of what JD Vance in 2016 before
+      he turncoat called America’s Hitler, meaning he’s referring to Trump. So having
+      said this, it’s so easy for the Democrats to throw the Republicans on the defensive
+      on issues that are supported by left/right voters but they don’t stand for anything
+      because they’re not in charge of their campaign policies and programs. They got
+      all these greedy consulting firms that go back and forth between the Democratic
+      apparatchiks and their own business. It’s a huge scandal that needs to be exposed.
+      So if the Democrats made a big issue out of increasing the minimum wage to at
+      least $15 federal from $7.25, that’s 25 million workers who would live better.
+      They can say, vote for a raise. You’ve long denied it. They can raise Social Security
+      benefits frozen for over 45 years and pay for it by raising the Social Security
+      tax on higher income individuals. In 2022, 200 House Democrats voted for such
+      a bill by John Larson, congressman from Connecticut, but Nancy Pelosi wouldn’t
+      take it to the floor. That would help 65 million retired Americans. You could
+      restore this child tax credit, providing $300 a month to 61 million children from
+      both liberal and conservative families. The Republicans are against all of these.
+      So you cut the difference between the priorities sharply with huge polling. If
+      you went into the next issue, which is cracking down on corporate crooks that
+      are stealing the hard-earned earnings and savings of all Americans, that comes
+      in at 85% in the polls. What’s there to lose? Campaign money from Wall Street
+      to Chuck Schumer and to Hakeem Jeffries. And then the other big one is, which
+      Kamala Harris raised but never really emphasized, it was a throwaway line, raise
+      taxes on the hugely under-taxed, super-rich and multinationals. And that comes
+      in at 85%. That’s a lot of conservatives who are fed up with how these big companies
+      are getting away with it. So you’re dealing with just endless opportunities that
+      Franklin Delano Roosevelt, Harry Truman, even Lyndon Johnson would have adopted
+      to landslide the Republicans. So now the Democrats are hours away from a potential
+      shutdown, but they haven’t made the case. They say that they want to reverse ending
+      the subsidies for Obamacare, that’s almost 30 million. We’re going to experience
+      very high increase in health care premiums as of January and they want to get
+      rid of the depletion of Medicaid. 10 to 15 million people are going to lose it
+      in order to pay for tax cuts for the super wealthy including Trump’s family. So
+      that’s not enough. They don’t say it. They don’t know how to say it right. They
+      don’t know how to talk about how many people would be benefited by continuing
+      the subsidies and stopping the hemorrhaging of Medicaid. They just are letting
+      consultants use the words they use. So in 2001, Robert Reich, former Labor Secretary
+      under [Bill] Clinton, wrote an article for the [Washington Post] , and he basically
+      said the Democratic Party is dead, dead, dead. And that’s the problem for the
+      American people. And that’s why the clamoring at town meetings where people are
+      shouting at the Democratic senators and representatives “start fighting, start
+      going after the GOP, protect us, defend us, represent us,” is still not breaking
+      through. Schumer and Jeffries should resign immediately. They have turned themselves
+      into trojan horses and if the government shuts down partially on October 1, I’m
+      not sure they can make the case in the polls yet because they have surrendered
+      their integrity and independence to these commercial consultants who have corporate
+      clients throughout the year. What are they doing hiring them for the Democratic
+      Party? Chris Hedges Do you see any hope in the [Zohran] Mamdani campaign? Ralph
+      Nader Yes, it looks like he’s going to win. The more he’s battered by the billionaires
+      and the real estate industry and the Israeli lobby, his polls keep going up. So
+      the key thing is turnout. There are huge numbers of younger New Yorkers who are
+      registered to vote who don’t vote. They came out for the primary, a small number,
+      but [Andrew] Cuomo is relying on a low turnout. So the issue is he’s got over
+      16,000 volunteers that should be able to get a major vote turnout. He’s getting
+      a lot of media, even critical media he turns to his advantage. But the one thing
+      he hasn’t done is answer the question, how are you going to pay for these programs
+      like free childcare, free bus service, etc. The way to do it is for him to come
+      out with his colleagues in Albany, who have already come out for a bill to end
+      the daily rebate of over $40 million a day, maybe $80 million, of the tiny sales
+      tax on stock transactions, 1/10th of 1%. Chris, you know what you pay when you
+      go to New York. You pay a state and city tax that’s over 8% for the necessities
+      of life in stores in New York, 1/10th of 1% will bring in anywhere from $16 to
+      $30 billion a year. And for some reason, even though he’s been asked by 1099 Union,
+      he’s been asked by a statewide religious group, he’s been asked by a coalition
+      of consumer groups, including us, to come out and end the rebate so you can answer
+      the question, how you can pay for daycare and bus fare. And this bill targets
+      money. It actually targets money to mass transit, to healthcare, to environment,
+      to education. All these unions should be fighting for it, but only a very few
+      are because the state labor federation guy has been listening to [Thomas P.] DiNapoli,
+      the state [comptroller] who’s in the pockets of Wall Street and saying, oh this
+      will harm pension fund investments. Total nonsense. It will be paid primarily
+      by very high frequency traders, so it’s a wonderful progressive sales tax for
+      only 1/10 of 1%. Otherwise, he’s running a good campaign. Chris Hedges Yeah, I
+      mean, they will, they’ve already announced, they will do everything they can to
+      destroy him and to make his tenure in office untenable. Ralph Nader Well, he’s
+      got to appoint some very smart, experienced people, and he’s fully aware of that.
+      He’s a pragmatic guy. He’s not a skydiver. Chris Hedges If the Democratic Party
+      continues in this trajectory and Trump continues to consolidate, and I have used
+      the word fascism, I did not use it in my introduction, but I do use the word fascism,
+      this fascistic, and we’ve just seen this presidential memo that essentially equates
+      criticism of capitalism, criticism of ICE with acts of terrorism. Where are we
+      headed and how fast? Ralph Nader We’re headed fast into a police state and terrorism.
+      He’s already going after James Comey, and he’s persecuting him. The indictment
+      was two pages. It was totally flimsy by the grand jury, which is a narrow decision.
+      And he now says he’s going after Senator Adam Schiff from California. That’s another
+      very serious bright line. He’s starting to go after lawmakers. So that’s what
+      fascists do. They’re going after the press. He’s extorting them. He’s going after
+      universities. This is technically extortion. When you say you’re going to cut
+      off funds, they’re going to block law firms from representing clients by not letting
+      them into federal buildings, that’s the perfect definition of extortion. That’s
+      a serious crime, impeachable crime, clearly. It’s not only his repression, Chris.
+      Who’s he leaving alone and who is he cutting funds for? You know, cutting funds
+      for FEMA [Federal Emergency Management Agency] with approaching hurricanes. He’s
+      cutting funds that warn on weather patterns. He’s cutting funds that warn on pandemics.
+      He’s cutting funds that warn on global warming catastrophes. He’s cutting the
+      funds of Head Start, which Republicans and Democrats have supported. Cutting the
+      funds on Meals on Wheels. Cutting the funds on Medicaid. All these affect Trump
+      voters as well and they’re not coming to their senses and turning against him
+      in fast enough numbers. His polls are dropping but not fast enough because he’s
+      betrayed them. But it’s not just all of that that you’ve written and talked about,
+      Chris. Repression, violence, defamation, incarceration, unemploying people, firing
+      them illegally. 300,000 have left the Federal Civil Service since January 20.
+      Some of them were retirements, but most were pushed out. Closing down scientific
+      research, NIH [National Institutes of Health], and CDC [Centers for Disease Control
+      and Prevention]. But who’s he leaving alone? And this is the definition of fascism
+      or the corporate state. He’s leaving alone hundreds of billions of dollars of
+      corporate handouts, giveaways, subsidies, bailouts a year. He’s leaving alone,
+      along with [Elon] Musk, all the corporate crooks that are bleeding federal programs
+      like Medicare. $60 billion fraud a year, billion with a B. Medicaid, heavy tens
+      of billions of dollars by the vendors, by the people who, the companies who sell
+      or who are contracted out to administer programs like the inflated Medicare Disadvantage
+      program, poking a huge hole in Medicare and with deceptive ads that are not prosecuted
+      by the Federal Trade Commission. And of course the military budget. He’s added
+      $150 billion dollars more to the bloated military budget than the generals have
+      asked for. $44 billion more to Homeland Security, hired tens of thousands of masked
+      agents, kidnapping people, throwing them into jail without charges, sometimes
+      exporting them to dictatorial torture regimes. So you got the complete definition
+      of fascism defined by Franklin D. Roosevelt in 1938 in a message to Congress.
+      He basically said, when private power takes over our government, that’s fascism.
+      Chris Hedges Let’s talk about his deployment of National Guard troops in cities,
+      Washington [D.C.], Chicago, now Portland. What’s he doing? Ralph Nader Well, basically
+      this attack on Democratic-controlled cities, most of them with Black mayors, like
+      Los Angeles and New York, other places, Washington, D.C., it’s part of the fascist
+      takeover. You federalize the state National Guard. He’s using fake national emergency
+      declarations. This is Congress’s fault. They gave them all this wide open discretionary
+      power to declare insurrection, to declare foreign invasion, to declare emergency
+      powers without any criteria or standards. So it goes back a long way when Congress
+      just abdicated its role. It doesn’t want to do its job under the Constitution.
+      Those are not executive powers. Those are congressional powers delegated without
+      any restraints and accountability to any reckless president. We’ve never had one
+      more reckless. He’s an egomaniacal, unstable, dangerous personality. He is set
+      on the record and we printed him in our book on destroying America on Donald Trump.
+      He said that he knows more than experts in 15 different areas. He knows more about
+      banks. He knows more about construction. He knows more about trade than anyone.
+      This is a deranged megalomaniac person. He just said the other day before the
+      UN [United Nations], I’ve been right on everything. There’s a very dangerous personality
+      here. Chris Hedges And let’s talk about ICE. The massive expansion of ICE will
+      get more, its budget will now dwarf all other federal law enforcement agencies
+      and this planned building of huge detention centers all across the country… Ralph
+      Nader They’re not detention centers, they’re concentration camps! Chris Hedges
+      Concentration camps. Yes, you’re right. And how is that mechanism going to be
+      used? One assumes that that’s not simply for undocumented people. Ralph Nader
+      Well it’s already starting like he kidnapped the Tufts graduate student because
+      she wrote an op-ed criticism of him. There’s a lot of people in that category
+      — citizen groups, labor groups, better government groups, reform groups, and he’s
+      getting away with it. And one reason, by the way, you might wonder, Chris, and
+      your audience might wonder why people aren’t suing for malicious prosecution,
+      abuse of power, the way that they have successfully sued out of control police
+      violence in cities around the country under tort law. It’s because, with the help
+      of the Supreme Court, they’ve made it very hard to sue federal employees who,
+      even under contract, who basically plead the government sovereignty defense. So
+      that’s why the ICE agents feel that they’re not going to be sued, because they
+      come under that protective cloak, which the Supreme Court has been expanding.
+      That’s what the concentration camps are for. Now, obviously, public opinion is
+      turning against him. And that’s where he’s going to fail. He’s losing ground,
+      even significantly among Trump voters and independent voters who voted for him
+      because they’re seeing the betrayal even though there’s been a delay in the impact
+      because he delays the tariffs but a whole bunch of them are going in effect October
+      1st. And they will see the price increases in necessities of life, kitchen table
+      necessities, very shortly so I expect that his polls are going to drop to thirty
+      percent and it’s only at thirty percent that Hakeem Jeffries and Schumer say that’s
+      when they can go after him. Well, that waits to be seen. What does it mean to
+      go after him? There’s only one remedy. It’s called impeachment in the House, removal
+      of the Senate. Now people say impossible, GOP controls both. It’s not at all.
+      Here’s why. When the GOP sees his polls plummeting for 2026, it’s either them,
+      up for reelection and loss of the Congress, or Trump, who is not up for reelection.
+      What do you think they’re going to pick? What’s the precedent? Let’s go to Richard
+      Nixon. He won 49 states in 1972. He was a 60% approval. Less than two years later,
+      he resigned. Why? Because he was about to be impeached and removed from office.
+      For what articles? Listen to this in comparison. Listen to the transgressions
+      of Nixon that led to his ouster: One count of obstructing justice and I think
+      two counts of obstructing justice and one article of defying a congressional subpoena.
+      Trump defied 125 congressional subpoenas in his first term alone. 125. Obstruction
+      of justice, John Bolton said in his memoir, the former security assistant to Trump,
+      who Trump is going after, by the way. He’s raided his home with FBI agents. He
+      said, “obstruction of justice was a way of life, a daily way of life in the White
+      House first term.” So the Democrats have hundreds of more impeachable offenses,
+      and they’re not one-time events like Watergate. They are continually impeachable.
+      He brags about it openly. He boasts about it. He indicts himself every day. And
+      the Democrats on Capitol Hill are telling us, now is not the time for impeachment.
+      Now is not the time. When is the time, Jamie Raskin? When is the time, Adam Schiff?
+      When is the time, Schumer? When is the time, Jeffries? After he’s prosecuted you
+      with rump prosecutors for crimes and got you before a grand jury? Is that what
+      you’re waiting for? Have you ever seen a more craven, corrupt, cowardly party
+      in American history, Chris? Chris Hedges No. And it’s always, you know, look at
+      Weimar [Germany] or anywhere else, it’s always a bankrupt liberalism that sows
+      the seeds for fascism. Ralph Nader Well, you wrote the book on it: Death of the
+      Liberal Class , when I had you on my podcast radio show, I accused you of understatement
+      and really, it’s much worse. For example, we’re asking Jamie Raskin, he is now
+      the ranking member of this House Judiciary Committee. There’s nothing stopping
+      him from holding shadow hearings publicly with witnesses and media on impeachment,
+      educating the public, getting them ready for impeachment if and when the Democrats
+      take control of the House. Now, the House Democrats under Pelosi, they impeached
+      Trump twice. Once on a Ukraine extortion type thing with Hunter Biden, not exactly
+      a tabletop issue, kitchen table issue. And the other was on January 6th, insurrection.
+      Now they have 24 serious, serious impeachable offenses, many of which are criminal
+      violations with jail terms, like the Anti-Deficiency Act, which prohibits presidents
+      from not obeying appropriation fund orders by the Congress, which he violates
+      every day. He’s closing down AID, impeachable offense, Congress has authorized
+      funds to keep it open. He’s done the same thing with the Education Department,
+      the Consumer Financial Protection Bureau that protects people and has returned
+      $21 billion from corporate crooks, including from Wall Street. So what are they
+      waiting for? The longer they wait, the more they’re going to have to deal with
+      the police terror state. This guy has no boundaries. He’s a deranged, unstable
+      personality. He’s ignorant, monomaniacal, he knows more than everybody and he’s
+      put entrenched yes people that can be the counterparts of Hermann Göring, [Heinrich]
+      Himmler, [Joachim von] Ribbentrop, guys like [Pete] Hegseth, Secretary of Defense.
+      He can’t wait for a war. They’re pushing the country to war. And he’ll put us
+      into war to try to avoid impeachment and send US troops. So we have retired military
+      who despise Trump. They worked under him. They were Secretary of Defense, remember
+      [Jim] Mattis? The head of the Joint Chiefs of Staff, and his security advisor,
+      John Kelly, all former generals, retired now. They have a network. What are they
+      waiting for? They cannot be told to obey an illegal order under the Constitution
+      and a Trump war without congressional authorization is ipso facto an illegal order
+      to every soldier that they are under a legal requirement under the Nuremberg rules,
+      international law, to disobey that illegal order and go fight an illegal war in
+      some foreign land. Chris Hedges So Ralph, before I ask you about your new book,
+      do you have any idea what this concave of all the senior military and Hegseth
+      is about? Ralph Nader It’s about not to disobey illegal orders that are forthcoming.
+      To do things from Trump to the Pentagon to people overseas and to use the military
+      domestically in our cities and towns in rural areas which violated federal law
+      and he can’t get away with by just declaring one fake emergency after another.
+      It’s basically to whip potential dissenters among the generals and admirals, people
+      who grew up West Point Air Force Academy, Naval Academy, saying that their first
+      obligation is their oath to support the Constitution, not the Secretary of Defense
+      or the President. It’s very dangerous whipping them into a very pliable force
+      for illegal action against the American people domestically and abroad. Chris
+      Hedges So let’s talk about, at the end here, your book, Civil Self-Respect and
+      what you call a civic personality as opposed to a personal personality. Ralph
+      Nader Let me just put it this way. I want to use this metaphor. The mighty Mississippi
+      starts with a few rivulets in Minnesota and Montana. The rivulets then become
+      brooks. Brooks then merge to become streams. The streams then merge into mighty
+      tributaries, which then, like the Missouri River, feed into the giant Mississippi
+      River. The giant Mississippi River would not be a river without the rivulets,
+      trucks, and the streams. So that’s the metaphor. Now the reason I wrote this book,
+      it’s critical to all we’ve been discussing. The ballgame now is back in the hands
+      of the people. They’re turning out at various town meetings. 1% of them are marching
+      and very active. We need more than 1%. Even 2% is 5 million adults right there.
+      And so I write this book because I would be speaking to large audiences, Chris,
+      around the country in past years. And at the end, people would come up to me,
+      rather hesitantly, and they would say, Ralph, I know I’m a nobody, but I have
+      to ask you this question. And when I hear that, I flare. I say, what do you mean
+      you’re a nobody? How can you ever say you’re a nobody? You live as a citizen in
+      this country. How can you say you’re a nobody? Are you a worker? Yes. Are you
+      a consumer shopper? Yes. Are you a taxpayer? Yes. Voter? Well, sometimes. Are
+      you a parent? Yes. Are you a veteran? Sometimes. Well, how can you say you’re
+      a nobody? You know things about those roles. You’ve experienced them. You’ve been
+      frustrated. If you lie to yourself to be a nobody, you’re going to be treated
+      like a nobody. You’re going to be treated like someone who doesn’t count, someone
+      who doesn’t matter, somebody who can be disrespected, someone who can be ripped
+      off, somebody who could be underinsured, somebody who can be suppressed. So let
+      me tell you something. And that is, you don’t have to go out of your way. Just
+      in your ordinary shopping, you get ripped off, you become more of an advocate,
+      you move into a citizen dimension. Some of the examples in this book, it’s full
+      of examples called Citizen Self-Respect . A woman was kept on a tarmac in Michigan
+      for hours with her fellow passengers. The plane heated up. It was awful. And so
+      when she got out, she looked into it and she saw there’s no remedy for the passengers.
+      So she started a group called FlyersRights , Kate Hanni was her name. And until
+      she stopped getting support because people often look the other way and think
+      other people are going to support these citizen groups, she made a lot of changes
+      on the basis of her experience. She became a citizen advocate. And there are people
+      who’ve done this recently and they’ve been in the news, in the food safety area.
+      They mobilize because of their bad experiences with junk food, contaminated food.
+      So this is full of examples. And so your daily role as a consumer, a worker, taxpayer,
+      voter, whatever, you can go out of your personal role and develop an additional
+      civic energy, civic protest, civic advocacy. And some of you are going to be so
+      excited, you’re going to join existing citizen groups that want more members and
+      more supporters around the country focusing on Congress, for example. You’ll get
+      the CapitolHillCitizen.com , the new Capitol Hill Citizen newspaper that we’re
+      putting out. You’ll connect with some local groups on housing and really basic
+      community necessities that are recognized by left/right families don’t fall prey
+      to the divide and rule tactics of the ruling classes because they want the same
+      things for their children and for themselves — public services adequate benefits
+      that they’ve already paid into as well as clean air, clean water and other protections
+      locally in the community and the neighborhood. This is why I call this my most
+      important book. This is a short book, very readable, full of examples, but it’s
+      very personal. The chapters are chapter names that have never been written about
+      before in a preface. I, the citizen, I, the worker, I, the consumer shopper, I,
+      the taxpayer, I, the voter, I, the parent, I, the veteran, I, the philanthropist.
+      People say philanthropy? I’m not a philanthropist. Are you kidding? Lower and
+      middle income people give a higher portion of their money to charity than rich
+      people. They’re all philanthropists. They can all decide where to put their money,
+      how to aggregate their money, how to talk to enlightened rich people, to fund
+      activities, which we outline in this book at the local level. So you can get an
+      autographed copy of this book. If you’re inclined that way, you can go to Nader.org
+      and it describes the book or you can get it directly from the publisher, Seven
+      Stories Press , or you can get it in other ways you buy books online or from your
+      independent bookstores. It’s called Civic Self-Respect . It has a nice commentary,
+      very brilliant commentary by Patti Smith on the front page as well as other encomiums
+      that I appreciate including yours, Chris Hedges. Thank you very much winner of
+      the Pulitzer Prize for war [reporting] and author of the book War Is a Force That
+      Gives Us Meaning and I always thought, Chris, that’s one of your greatest books
+      because it really cuts deep into the self-respect, or lack of, by citizens around
+      the country who have allowed themselves to lose their government, have it be taken
+      over by corporations into a military corporatist plutocracy. Chris Hedges Great,
+      thanks Ralph. That’s Civic Self-Respect . I want to thank Diego [Ramos], Max [Jones],
+      Sofia [Menemenlis], Thomas [Hedges], and Victor [Padilla], who produced the show.
+      You can find me at ChrisHedges.Substack.com . Editor’s Note : A t a moment when
+      the once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Chris Hedges Chris
+      Hedges is a Pulitzer Prize–winning journalist who was a foreign correspondent
+      for fifteen years for The New York Times, where he served as the Middle East Bureau
+      Chief and Balkan Bureau Chief for the paper. He previously worked overseas for
+      The Dallas Morning News , The Christian Science Monitor , and NPR. He is the host
+      of show The Chris Hedges Report. He was a member of the team that won the 2002
+      Pulitzer Prize for Explanatory Reporting for The New York Times coverage of global
+      terrorism, and he received the 2002 Amnesty International Global Award for Human
+      Rights Journalism. Hedges, who holds a Master of Divinity from Harvard Divinity
+      School, is the author of the bestsellers American Fascists: The Christian Right
+      and the War on America , Empire of Illusion: The End of Literacy and the Triumph
+      of Spectacle and was a National Book Critics Circle finalist for his book War
+      Is a Force That Gives Us Meaning . He writes an online column for the website
+      ScheerPost . He has taught at Columbia University, New York University, Princeton
+      University and the University of Toronto. Author Site'
+    one_sentence_summary: In an interview, consumer advocate Ralph Nader emphasizes
+      that Americans undermine their own significance and power by perceiving themselves
+      as "nobodies," which leads to their mistreatment and disenfranchisement by corrupt
+      systems.
+    paragraph_summary: In an interview on The Chris Hedges Report, consumer advocate
+      Ralph Nader emphasizes the importance of recognizing one’s value and power as
+      a citizen, challenging the notion of being a "nobody." He argues that Americans
+      must acknowledge their roles as workers, consumers, taxpayers, and voters to avoid
+      being marginalized and disrespected by corrupt politicians and corporate interests.
+      With the rise of authoritarianism under Donald Trump and the threat of a government
+      shutdown, Nader presents a roadmap for resistance in his latest book, "Citizen
+      Self-Respect," urging citizens to actively combat the consolidation of power by
+      elites rather than passively accepting their fate.
+    published: '2025-09-30T03:56:36+00:00'
+  - title: Do UN ‘Snapback’ Sanctions Really Matter to the Iranian Economy and Its Nuclear
+      Program?
+    url: https://scheerpost.com/2025/09/29/do-un-snapback-sanctions-really-matter-to-the-iranian-economy-and-its-nuclear-program/
+    text: 'President Donald J. Trump addresses the 73rd session of the U.N. General
+      Assembly Tuesday, Sept. 25, 2018, at the United Nations Headquarters in New York.
+      (Official White House Photo by Joyce N. Boghosian) In one of the scariest moments
+      in modern history, we''re doing our best at ScheerPost to pierce the fog of lies
+      that conceal it but we need some help to pay our writers and staff. Please consider
+      a tax-deductible donation . By Juan Cole / Informed Comment Ann Arbor (Informed
+      Comment) – The E3 — France, Britain and Germany — successfully led a bid at the
+      UN Security Council Friday to reimpose UNSC economic sanctions on Iran, which
+      had been in place 2007-2015 but were lifted because of the 2015 Iran nuclear deal.
+      That deal is now dead as a door nail. The move caused the anemic Iranian currency,
+      the rial, to fall further on the black market, to 1.12 million to the dollar.
+      The problem with these US and UN sanctions is that it is unclear what they are
+      supposed to accomplish. Is it just a bid to keep Iran weak forever, what I call
+      “negative imperialism”? Is it hoped that Iranians will feel the economic pain
+      so much that they will rise up and overthrow the ayatollahs? But if you deprive
+      the middle classes of resources, how will they accomplish that? Are they intended
+      to make Iran give up its enrichment program? The first of these goals is foolish,
+      and the other two show no evidence of being practical. These new sanctions no
+      doubt further constrain the Iranian economy, but despite the UNSC imprimatur they
+      are destined to be widely ignored. China accounts for about a third of Iranian
+      trade, and that is likely to continue. China has so far found ways around US sanctions
+      on Iran, accepting wildcat shipments of oil at Qingdao south of Shanghai, bought
+      by domestic Chinese refineries or “teapots” for Chinese use, avoiding the use
+      of dollars or international banking networks. Even so, the US has found ways of
+      imposing Treasury Department sanctions even on some of these companies, forcing
+      Iran to discount its oil by as much as $6 per barrel to recompense the buyers.
+      Iran secretly sends its tankers to Malaysia, where the tankers are rebranded as
+      Malaysian and reported as such by China. That trade will likely find a way to
+      continue, though a dark cloud for Iran has arisen on the horizon in the form of
+      the burgeoning Chinese EV industry, which is beginning to cut into Chinese petroleum
+      imports and over the next decade could substantially reduce them. Still, even
+      non-oil bilateral trade between Iran and China amounted to $34 billion last year.
+      Iran’s annual bilateral trade with Europe, which will take a hit, was less than
+      $5 billion and it fell by nearly a fifth from 2023. Turkiye is another big trading
+      partner of Iran (accounting for 9%), and the Turkish government will likely defy
+      the restoration of UNSC sanctions, as well. Iraq has no choice but to do substantial
+      trade with Iran, even buying some electricity from Tehran. For both Turkiye and
+      and Iraq, a lot of Iranian trade is conducted via the black market. That way of
+      proceeding imposes costs on Iran, but it is substantially better than nothing.
+      India and Brazil are also important markets for non-oil Iranian products and will
+      continue to be. Iran is doing about $2 billion a year in non-oil trade with India,
+      as New Delhi has backed off purchasing Iranian petroleum under Washington’s threats.
+      Now, though, that Trump has put heavy sanctions on India for importing Russian
+      oil, India may decide it has nothing to lose from renewing Iranian purchases in
+      the short term. Iran does a lot of business with Brazil through intermediaries,
+      exporting petrochemicals, fertilizer, even pistachios. I saw one estimate of $8
+      billion bilateral trade annually but that seems high to me. The total is anyway
+      in the billions. With Trump’s 50% tariffs on Brazil, Lula could well replace some
+      imports from the US with Iranian ones, which is kind of poetic justice. Iran only
+      made the 2015 nuclear deal, mothballing 80% of its civilian enrichment program,
+      in hopes of receiving sanctions relief. It never received that relief, because
+      the US Republican Party would not legislate an end to US sanctions, which include
+      third-party sanctions. So although I think France, Britain and German sincerely
+      signed on to the deal, their corporations were prevented from doing business in
+      Iran by the US Treasury Department. Iran nevertheless faithfully adhered to its
+      terms, as certified by the International Atomic Energy Agency. Then in May 2018
+      Trump tore up the Joint Plan of Collective Action and imposed the most severe
+      sanctions ever applied by one county to another in peace time. Iran went on abiding
+      by the JCPOA for another year, but then decided it had been released from its
+      terms de facto, given that it received no sanctions relief. No quo, no quid. The
+      E3 is being completely hypocritical. Renault, TotalEnergies, BMW etc. never invested
+      in Iran as they had promised to do. Iran got taken for a ride, giving up most
+      of its enrichment (which was intended to keep it from being attacked) and receiving
+      nothing in return. And now Iran is one of the most sanctioned countries in the
+      world and its civilian nuclear enrichment program has been bombed by Israel and
+      the United States. Meanwhile, Israel, which has an arsenal of several hundred
+      nuclear warheads and routinely threatens neighbors with them, has never been sanctioned
+      for its nuclear enrichment but instead has been given all sorts of aid and market
+      access by the US and Europe. Please share this story and help us grow our network!
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Juan Cole Juan Cole, a TomDispatch regular , is the Richard P. Mitchell
+      collegiate professor of history at the University of Michigan. He is the author
+      of The Rubaiyat of Omar Khayyam: A New Translation From the Persian and Muhammad:
+      Prophet of Peace Amid the Clash of Empires . His latest book is Peace Movements
+      in Islam . His award-winning blog is Informed Comment . He is also a non-resident
+      Fellow of the Center for Conflict and Humanitarian Studies in Doha and of Democracy
+      for the Arab World Now (DAWN). Author Site'
+    one_sentence_summary: The E3 countries—France, Britain, and Germany—successfully
+      pushed for the reimposition of UN economic sanctions on Iran, exacerbating the
+      country's economic crisis and raising questions about the sanctions' intended
+      goals following the collapse of the 2015 nuclear deal.
+    paragraph_summary: In a recent article, Juan Cole discusses the reimposition of
+      economic sanctions on Iran by the E3 (France, Britain, and Germany) at the UN
+      Security Council, following the collapse of the 2015 Iran nuclear deal. The sanctions
+      have led to a significant decline in the value of the Iranian rial, raising questions
+      about their effectiveness and objectives. Cole critiques the sanctions as potentially
+      aimed at perpetuating Iran's weakness, inciting internal upheaval, or forcing
+      the country to abandon its nuclear enrichment program, but argues that these goals
+      lack practicality and evidence of success. He notes that despite the sanctions,
+      Iran's trade with China continues, as Chinese entities find ways to circumvent
+      US restrictions, suggesting that the sanctions may ultimately be ineffective.
+    published: '2025-09-29T09:45:00+00:00'
+  - title: '‘No Doubt They Will Attack’: Max Blumenthal Meets Iran’s President In NYC'
+    url: https://scheerpost.com/2025/09/29/no-doubt-they-will-attack-max-blumenthal-meets-irans-president-in-nyc/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Max
+      Blumenthal / The Grayzone Iranian President Masoud Pezeshkian arrived late to
+      a September 24, 2025 meeting with American antiwar figures on the sidelines of
+      the UN General Assembly. He had come from a fateful tete-a-tete with Emmanuel
+      Macron, where he attempted to cajole his French counterpart into delaying expiration
+      of the JCPOA nuclear deal rather than instituting snapback sanctions. Pezeshkian’s
+      lobbying was fruitless; the Europeans had already decided to ratchet up the economic
+      war on Tehran. Meanwhile, Israel was preparing for another attack on Iran with
+      American support practically guaranteed. “No doubt they will attack Iran. And
+      we will defend ourselves vigorously,” Pezeshkian declared to his audience of about
+      25 antiwar journalists, activists and think tank analysts gathered inside a conference
+      hall in a Midtown Manhattan hotel. A camouflaged bomb squad stood watch outside
+      the room, while grim-looking federal agents paced the halls. The session consisted
+      of two rounds of questioning and comments from participants, with two rounds of
+      responses from Pezeshkian. The format lent itself to generalized answers, with
+      some of the more pointed questions seemingly lost in translation. I opened the
+      first round by referencing a speech delivered a day before by Iran’s Supreme Leader,
+      Ayatollah Ali Khamenei, in which he branded negotiations with the US as something
+      “no honorable nation would ever do, and no wise statesman would ever endorse.”
+      “Accepting negotiations under such threats would mean that the Islamic Republic
+      of Iran is susceptible to intimidation. If we were to negotiate under such threats,
+      it would mean that we tremble and surrender whenever threatened,” Khamenei proclaimed.
+      I asked Pezeshkian if these statements were reflective of his administration’s
+      view, and if he believed that Trump had exploited the last round of nuclear negotiations
+      to lure Iran’s leadership into a false sense of security that made it vulnerable
+      to Israel’s unprovoked attack. Following a battery of questions from other participants,
+      the Iranian president blasted Trump’s diplomatic tactics: “This was not negotiation,
+      it was dictation,” he said. “Someone should have recorded what [Trump’s Middle
+      East envoy] Steve Witkoff said,” Pezeshkian continued. “He says one thing to us
+      and all of the sudden he returns to Washington and says something else. How can
+      we negotiate with someone like that?” Pezeshkian referenced a book which he believed
+      articulated the fundamentally destructive nature of US foreign policy. Called
+      “Making Endless War,” the volume is a compilation of essays analyzing the Vietnam
+      war and Arab-Israeli conflicts which argue that wars for resources and geopolitical
+      control have become a permanent component of post-war American diplomacy. Seated
+      beside Pezeshkian was his Foreign Minister, Abbas Aragchi. Visibly tired from
+      days of wrangling on snapback sanctions, Aragchi recalled how Israel detonated
+      an explosive inside the Natanz Nuclear Facility in 2018, destroying some 4000
+      centrifuges. While Iran increased its enrichment levels in retaliation, he emphasized
+      that it continued the negotiations which Israel had sought to sabotage. Even today,
+      Aragchi said, “We are willing to be flexible if we can get appropriate action
+      in return.” Yet the Foreign Minister and his team would leave New York without
+      any concessions from the Europeans. Snapback sanctions were “a done deal,” according
+      to Macron. For Iran’s leadership, the West’s intransigence had given Israel the
+      green light for another attack. But Pezeshkian noted that Iranian society was
+      stronger following the 12-day war last June. “The last attack brought unity,”
+      he insisted. “Iranians opposed regime change even if they disagreed with the revolution.
+      Even people who criticize us, those people supported our military.” Pointing to
+      Israel’s brazen assault inside Qatar this September, where it tried and failed
+      to assassinate the entire Hamas negotiating team, Pezeshkian predicted, “Cohesion
+      will increase across the region because our neighbors recognize that nobody is
+      safe now.” During Israel’s assault on Iran, the president narrowly escaped an
+      attempt on his life. “There are plans that if they take me out” when Israel attacks
+      again, “we have prepared five to six steps down the line. Vowing that Islamic
+      Republic was ready for all contingencies, Pezeshkian sounded a confident note:
+      “Iran is not Gaza. Iran is not Lebanon. Iran is not Syria. Iran is something different.”
+      Please share this story and help us grow our network! Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Max Blumenthal
+      The editor-in-chief of The Grayzone, Max Blumenthal is an award-winning journalist
+      and the author of several books, including best-selling Republican Gomorrah ,
+      Goliath , The Fifty One Day War , and The Management of Savagery . He has produced
+      print articles for an array of publications, many video reports, and several documentaries,
+      including Killing Gaza . Blumenthal founded The Grayzone in 2015 to shine a journalistic
+      light on America’s state of perpetual war and its dangerous domestic repercussions.
+      Author Site'
+    one_sentence_summary: Iranian President Masoud Pezeshkian, after fruitless negotiations
+      with Emmanuel Macron to extend the JCPOA nuclear deal, warned antiwar figures
+      at a UN meeting that Israel is likely to attack Iran with U.S. support, prompting
+      Iran to prepare for a vigorous defense.
+    paragraph_summary: In a recent meeting on the sidelines of the UN General Assembly,
+      Iranian President Masoud Pezeshkian expressed his concerns about the deteriorating
+      situation regarding the Joint Comprehensive Plan of Action (JCPOA) nuclear deal,
+      following an unsuccessful attempt to persuade French President Emmanuel Macron
+      to delay the implementation of snapback sanctions against Iran. As tensions rise,
+      with Israel reportedly preparing for military action against Iran and the U.S.
+      likely to support it, Pezeshkian assured a group of antiwar journalists and activists
+      that Iran would defend itself vigorously. The meeting, which took place under
+      heightened security, included discussions about the implications of Iran's Supreme
+      Leader Ayatollah Ali Khamenei's recent remarks condemning negotiations with the
+      U.S. under threats, reflecting a broader sentiment of defiance against perceived
+      intimidation.
+    published: '2025-09-29T09:45:00+00:00'
+  - title: Do UN ‘Snapback’ Sanctions Really Matter to the Iranian Economy and Its Nuclear
+      Program?
+    url: https://scheerpost.com/2025/09/29/do-un-snapback-sanctions-really-matter-to-the-iranian-economy-and-its-nuclear-program/
+    text: 'President Donald J. Trump addresses the 73rd session of the U.N. General
+      Assembly Tuesday, Sept. 25, 2018, at the United Nations Headquarters in New York.
+      (Official White House Photo by Joyce N. Boghosian) In one of the scariest moments
+      in modern history, we''re doing our best at ScheerPost to pierce the fog of lies
+      that conceal it but we need some help to pay our writers and staff. Please consider
+      a tax-deductible donation . By Juan Cole / Informed Comment Ann Arbor (Informed
+      Comment) – The E3 — France, Britain and Germany — successfully led a bid at the
+      UN Security Council Friday to reimpose UNSC economic sanctions on Iran, which
+      had been in place 2007-2015 but were lifted because of the 2015 Iran nuclear deal.
+      That deal is now dead as a door nail. The move caused the anemic Iranian currency,
+      the rial, to fall further on the black market, to 1.12 million to the dollar.
+      The problem with these US and UN sanctions is that it is unclear what they are
+      supposed to accomplish. Is it just a bid to keep Iran weak forever, what I call
+      “negative imperialism”? Is it hoped that Iranians will feel the economic pain
+      so much that they will rise up and overthrow the ayatollahs? But if you deprive
+      the middle classes of resources, how will they accomplish that? Are they intended
+      to make Iran give up its enrichment program? The first of these goals is foolish,
+      and the other two show no evidence of being practical. These new sanctions no
+      doubt further constrain the Iranian economy, but despite the UNSC imprimatur they
+      are destined to be widely ignored. China accounts for about a third of Iranian
+      trade, and that is likely to continue. China has so far found ways around US sanctions
+      on Iran, accepting wildcat shipments of oil at Qingdao south of Shanghai, bought
+      by domestic Chinese refineries or “teapots” for Chinese use, avoiding the use
+      of dollars or international banking networks. Even so, the US has found ways of
+      imposing Treasury Department sanctions even on some of these companies, forcing
+      Iran to discount its oil by as much as $6 per barrel to recompense the buyers.
+      Iran secretly sends its tankers to Malaysia, where the tankers are rebranded as
+      Malaysian and reported as such by China. That trade will likely find a way to
+      continue, though a dark cloud for Iran has arisen on the horizon in the form of
+      the burgeoning Chinese EV industry, which is beginning to cut into Chinese petroleum
+      imports and over the next decade could substantially reduce them. Still, even
+      non-oil bilateral trade between Iran and China amounted to $34 billion last year.
+      Iran’s annual bilateral trade with Europe, which will take a hit, was less than
+      $5 billion and it fell by nearly a fifth from 2023. Turkiye is another big trading
+      partner of Iran (accounting for 9%), and the Turkish government will likely defy
+      the restoration of UNSC sanctions, as well. Iraq has no choice but to do substantial
+      trade with Iran, even buying some electricity from Tehran. For both Turkiye and
+      and Iraq, a lot of Iranian trade is conducted via the black market. That way of
+      proceeding imposes costs on Iran, but it is substantially better than nothing.
+      India and Brazil are also important markets for non-oil Iranian products and will
+      continue to be. Iran is doing about $2 billion a year in non-oil trade with India,
+      as New Delhi has backed off purchasing Iranian petroleum under Washington’s threats.
+      Now, though, that Trump has put heavy sanctions on India for importing Russian
+      oil, India may decide it has nothing to lose from renewing Iranian purchases in
+      the short term. Iran does a lot of business with Brazil through intermediaries,
+      exporting petrochemicals, fertilizer, even pistachios. I saw one estimate of $8
+      billion bilateral trade annually but that seems high to me. The total is anyway
+      in the billions. With Trump’s 50% tariffs on Brazil, Lula could well replace some
+      imports from the US with Iranian ones, which is kind of poetic justice. Iran only
+      made the 2015 nuclear deal, mothballing 80% of its civilian enrichment program,
+      in hopes of receiving sanctions relief. It never received that relief, because
+      the US Republican Party would not legislate an end to US sanctions, which include
+      third-party sanctions. So although I think France, Britain and German sincerely
+      signed on to the deal, their corporations were prevented from doing business in
+      Iran by the US Treasury Department. Iran nevertheless faithfully adhered to its
+      terms, as certified by the International Atomic Energy Agency. Then in May 2018
+      Trump tore up the Joint Plan of Collective Action and imposed the most severe
+      sanctions ever applied by one county to another in peace time. Iran went on abiding
+      by the JCPOA for another year, but then decided it had been released from its
+      terms de facto, given that it received no sanctions relief. No quo, no quid. The
+      E3 is being completely hypocritical. Renault, TotalEnergies, BMW etc. never invested
+      in Iran as they had promised to do. Iran got taken for a ride, giving up most
+      of its enrichment (which was intended to keep it from being attacked) and receiving
+      nothing in return. And now Iran is one of the most sanctioned countries in the
+      world and its civilian nuclear enrichment program has been bombed by Israel and
+      the United States. Meanwhile, Israel, which has an arsenal of several hundred
+      nuclear warheads and routinely threatens neighbors with them, has never been sanctioned
+      for its nuclear enrichment but instead has been given all sorts of aid and market
+      access by the US and Europe. Please share this story and help us grow our network!
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Juan Cole Juan Cole, a TomDispatch regular , is the Richard P. Mitchell
+      collegiate professor of history at the University of Michigan. He is the author
+      of The Rubaiyat of Omar Khayyam: A New Translation From the Persian and Muhammad:
+      Prophet of Peace Amid the Clash of Empires . His latest book is Peace Movements
+      in Islam . His award-winning blog is Informed Comment . He is also a non-resident
+      Fellow of the Center for Conflict and Humanitarian Studies in Doha and of Democracy
+      for the Arab World Now (DAWN). Author Site'
+    one_sentence_summary: The E3 countries—France, Britain, and Germany—successfully
+      pushed for the reimposition of UN economic sanctions on Iran, exacerbating the
+      country's economic crisis and raising questions about the sanctions' intended
+      goals following the collapse of the 2015 nuclear deal.
+    paragraph_summary: In a recent article, Juan Cole discusses the reimposition of
+      economic sanctions on Iran by the E3 (France, Britain, and Germany) at the UN
+      Security Council, following the collapse of the 2015 Iran nuclear deal. The sanctions
+      have led to a significant decline in the value of the Iranian rial, raising questions
+      about their effectiveness and objectives. Cole critiques the sanctions as potentially
+      aimed at perpetuating Iran's weakness, inciting internal upheaval, or forcing
+      the country to abandon its nuclear enrichment program, but argues that these goals
+      lack practicality and evidence of success. He notes that despite the sanctions,
+      Iran's trade with China continues, as Chinese entities find ways to circumvent
+      US restrictions, suggesting that the sanctions may ultimately be ineffective.
+    published: '2025-09-29T09:45:00+00:00'
+  - title: '‘No Doubt They Will Attack’: Max Blumenthal Meets Iran’s President In NYC'
+    url: https://scheerpost.com/2025/09/29/no-doubt-they-will-attack-max-blumenthal-meets-irans-president-in-nyc/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Max
+      Blumenthal / The Grayzone Iranian President Masoud Pezeshkian arrived late to
+      a September 24, 2025 meeting with American antiwar figures on the sidelines of
+      the UN General Assembly. He had come from a fateful tete-a-tete with Emmanuel
+      Macron, where he attempted to cajole his French counterpart into delaying expiration
+      of the JCPOA nuclear deal rather than instituting snapback sanctions. Pezeshkian’s
+      lobbying was fruitless; the Europeans had already decided to ratchet up the economic
+      war on Tehran. Meanwhile, Israel was preparing for another attack on Iran with
+      American support practically guaranteed. “No doubt they will attack Iran. And
+      we will defend ourselves vigorously,” Pezeshkian declared to his audience of about
+      25 antiwar journalists, activists and think tank analysts gathered inside a conference
+      hall in a Midtown Manhattan hotel. A camouflaged bomb squad stood watch outside
+      the room, while grim-looking federal agents paced the halls. The session consisted
+      of two rounds of questioning and comments from participants, with two rounds of
+      responses from Pezeshkian. The format lent itself to generalized answers, with
+      some of the more pointed questions seemingly lost in translation. I opened the
+      first round by referencing a speech delivered a day before by Iran’s Supreme Leader,
+      Ayatollah Ali Khamenei, in which he branded negotiations with the US as something
+      “no honorable nation would ever do, and no wise statesman would ever endorse.”
+      “Accepting negotiations under such threats would mean that the Islamic Republic
+      of Iran is susceptible to intimidation. If we were to negotiate under such threats,
+      it would mean that we tremble and surrender whenever threatened,” Khamenei proclaimed.
+      I asked Pezeshkian if these statements were reflective of his administration’s
+      view, and if he believed that Trump had exploited the last round of nuclear negotiations
+      to lure Iran’s leadership into a false sense of security that made it vulnerable
+      to Israel’s unprovoked attack. Following a battery of questions from other participants,
+      the Iranian president blasted Trump’s diplomatic tactics: “This was not negotiation,
+      it was dictation,” he said. “Someone should have recorded what [Trump’s Middle
+      East envoy] Steve Witkoff said,” Pezeshkian continued. “He says one thing to us
+      and all of the sudden he returns to Washington and says something else. How can
+      we negotiate with someone like that?” Pezeshkian referenced a book which he believed
+      articulated the fundamentally destructive nature of US foreign policy. Called
+      “Making Endless War,” the volume is a compilation of essays analyzing the Vietnam
+      war and Arab-Israeli conflicts which argue that wars for resources and geopolitical
+      control have become a permanent component of post-war American diplomacy. Seated
+      beside Pezeshkian was his Foreign Minister, Abbas Aragchi. Visibly tired from
+      days of wrangling on snapback sanctions, Aragchi recalled how Israel detonated
+      an explosive inside the Natanz Nuclear Facility in 2018, destroying some 4000
+      centrifuges. While Iran increased its enrichment levels in retaliation, he emphasized
+      that it continued the negotiations which Israel had sought to sabotage. Even today,
+      Aragchi said, “We are willing to be flexible if we can get appropriate action
+      in return.” Yet the Foreign Minister and his team would leave New York without
+      any concessions from the Europeans. Snapback sanctions were “a done deal,” according
+      to Macron. For Iran’s leadership, the West’s intransigence had given Israel the
+      green light for another attack. But Pezeshkian noted that Iranian society was
+      stronger following the 12-day war last June. “The last attack brought unity,”
+      he insisted. “Iranians opposed regime change even if they disagreed with the revolution.
+      Even people who criticize us, those people supported our military.” Pointing to
+      Israel’s brazen assault inside Qatar this September, where it tried and failed
+      to assassinate the entire Hamas negotiating team, Pezeshkian predicted, “Cohesion
+      will increase across the region because our neighbors recognize that nobody is
+      safe now.” During Israel’s assault on Iran, the president narrowly escaped an
+      attempt on his life. “There are plans that if they take me out” when Israel attacks
+      again, “we have prepared five to six steps down the line. Vowing that Islamic
+      Republic was ready for all contingencies, Pezeshkian sounded a confident note:
+      “Iran is not Gaza. Iran is not Lebanon. Iran is not Syria. Iran is something different.”
+      Please share this story and help us grow our network! Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Max Blumenthal
+      The editor-in-chief of The Grayzone, Max Blumenthal is an award-winning journalist
+      and the author of several books, including best-selling Republican Gomorrah ,
+      Goliath , The Fifty One Day War , and The Management of Savagery . He has produced
+      print articles for an array of publications, many video reports, and several documentaries,
+      including Killing Gaza . Blumenthal founded The Grayzone in 2015 to shine a journalistic
+      light on America’s state of perpetual war and its dangerous domestic repercussions.
+      Author Site'
+    one_sentence_summary: Iranian President Masoud Pezeshkian, after fruitless negotiations
+      with Emmanuel Macron to extend the JCPOA nuclear deal, warned antiwar figures
+      at a UN meeting that Israel is likely to attack Iran with U.S. support, prompting
+      Iran to prepare for a vigorous defense.
+    paragraph_summary: In a recent meeting on the sidelines of the UN General Assembly,
+      Iranian President Masoud Pezeshkian expressed his concerns about the deteriorating
+      situation regarding the Joint Comprehensive Plan of Action (JCPOA) nuclear deal,
+      following an unsuccessful attempt to persuade French President Emmanuel Macron
+      to delay the implementation of snapback sanctions against Iran. As tensions rise,
+      with Israel reportedly preparing for military action against Iran and the U.S.
+      likely to support it, Pezeshkian assured a group of antiwar journalists and activists
+      that Iran would defend itself vigorously. The meeting, which took place under
+      heightened security, included discussions about the implications of Iran's Supreme
+      Leader Ayatollah Ali Khamenei's recent remarks condemning negotiations with the
+      U.S. under threats, reflecting a broader sentiment of defiance against perceived
+      intimidation.
+    published: '2025-09-29T09:45:00+00:00'
+  - title: It’s No Longer Biden’s War
+    url: https://scheerpost.com/2025/09/29/its-no-longer-bidens-war/
+    text: 'By George Galloway / MOATS I’ve never seen a performance like Donald Trump’s
+      at the UN. He toes Biden line on Ukraine. Please share this story and help us
+      grow our network! Editor’s Note : A t a moment when the once vaunted model of
+      responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . George Galloway George Galloway (born 16
+      August 1954) is a British politician, broadcaster, and writer. He has been leader
+      of the Workers Party of Britain since he founded it in 2019, and is a former leader
+      of the Respect Party . Until 2003, he was a member of the Labour Party . From
+      1987 to 2010, from 2012 to 2015, and briefly in 2024, Galloway served as Member
+      of Parliament (MP) for five different constituencies. Author Site'
+    one_sentence_summary: George Galloway critiques Donald Trump's performance at the
+      UN, noting that he aligns with Biden's stance on Ukraine, while also highlighting
+      the need for independent journalism amidst corporate influence.
+    paragraph_summary: In his commentary on Donald Trump's recent performance at the
+      UN, George Galloway expresses surprise at Trump's alignment with President Biden's
+      stance on Ukraine, highlighting the significance of this moment in the context
+      of current political dynamics. Galloway emphasizes the need for independent journalism
+      amidst a landscape dominated by corporate interests, urging readers to support
+      platforms like ScheerPost that prioritize integrity in reporting. He also reflects
+      on his own political journey, noting his leadership of the Workers Party of Britain
+      and his past affiliations with the Labour Party and the Respect Party.
+    published: '2025-09-29T09:30:00+00:00'
+  - title: It’s No Longer Biden’s War
+    url: https://scheerpost.com/2025/09/29/its-no-longer-bidens-war/
+    text: 'By George Galloway / MOATS I’ve never seen a performance like Donald Trump’s
+      at the UN. He toes Biden line on Ukraine. Please share this story and help us
+      grow our network! Editor’s Note : A t a moment when the once vaunted model of
+      responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . George Galloway George Galloway (born 16
+      August 1954) is a British politician, broadcaster, and writer. He has been leader
+      of the Workers Party of Britain since he founded it in 2019, and is a former leader
+      of the Respect Party . Until 2003, he was a member of the Labour Party . From
+      1987 to 2010, from 2012 to 2015, and briefly in 2024, Galloway served as Member
+      of Parliament (MP) for five different constituencies. Author Site'
+    one_sentence_summary: George Galloway critiques Donald Trump's performance at the
+      UN, noting that he aligns with Biden's stance on Ukraine, while also highlighting
+      the need for independent journalism amidst corporate influence.
+    paragraph_summary: In his commentary on Donald Trump's recent performance at the
+      UN, George Galloway expresses surprise at Trump's alignment with President Biden's
+      stance on Ukraine, highlighting the significance of this moment in the context
+      of current political dynamics. Galloway emphasizes the need for independent journalism
+      amidst a landscape dominated by corporate interests, urging readers to support
+      platforms like ScheerPost that prioritize integrity in reporting. He also reflects
+      on his own political journey, noting his leadership of the Workers Party of Britain
+      and his past affiliations with the Labour Party and the Respect Party.
+    published: '2025-09-29T09:30:00+00:00'
+  - title: 'Poll: Majority of Americans Oppose Using Military Force for Regime Change
+      in Venezuela'
+    url: https://scheerpost.com/2025/09/29/poll-majority-of-americans-oppose-using-military-force-for-regime-change-in-venezuela-2/
+    text: 'Nicolas Maduro (by Fabio Rodrigues Pozzebom) | Wikimedia Commons In one of
+      the scariest moments in modern history, we''re doing our best at ScheerPost to
+      pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Dave DeCamp / Antiwar.com
+      The majority of Americans oppose using the US military to carry out regime change
+      in Venezuela, according to a poll from YouGov that was conducted in early September.
+      The poll asked if the respondents would support or oppose the US using military
+      force to overthrow Venezuelan President Nicolas Maduro, and 53% said they opposed,
+      29% said they weren’t sure, and just 18% supported the idea. The opposition was
+      stronger among Democrats, with 67% opposing the use of military force to carry
+      out regime change. More Republicans opposed the idea (38%) than supported it (34%).
+      When asked if they thought Venezuela would be better off if Maduro were overthrown,
+      the majority (68%) said they weren’t sure. Opposition was even stronger when the
+      respondents were asked about the possibility of invading Venezuela, with 62% saying
+      they oppose the idea and just 16% supporting it. The poll found 74% of Democrats
+      and 48% of Republicans opposed an invasion. When asked if they would support providing
+      military aid for a Venezuelan effort to overthrow Maduro, 39% opposed the idea,
+      29% were unsure, and 32% supported it. The poll also found that Americans were
+      divided over sending US Navy warships near Venezuela, with slightly more opposing
+      (38%) than supporting (36%). But there was a significant partisan divide over
+      the deployment of warships, with 68% of Republicans supporting it and 62% of Democrats
+      opposing it. The Trump administration has deployed a significant number of warships
+      to the Caribbean in the name of combating drug trafficking, but US officials have
+      told The New York Times that the real purpose of the deployment was to oust Maduro.
+      Please share this story and help us grow our network! Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Dave DeCamp Dave
+      DeCamp is the news editor of Antiwar.com, follow him on Twitter @decampdave. Author
+      Site'
+    one_sentence_summary: A recent YouGov poll reveals that a majority of Americans
+      (53%) oppose the use of US military force to overthrow Venezuelan President Nicolas
+      Maduro, with stronger opposition among Democrats (67%) compared to Republicans.
+    paragraph_summary: A recent YouGov poll indicates that a majority of Americans oppose
+      the use of military force by the US to enact regime change in Venezuela, with
+      53% against the idea of overthrowing President Nicolas Maduro. The opposition
+      is particularly strong among Democrats, with 67% opposing military intervention,
+      while 38% of Republicans also share this view. The poll reveals that 68% of respondents
+      are uncertain about whether Venezuela would be better off without Maduro, and
+      a significant 62% oppose the idea of invading the country. Additionally, opinions
+      are divided on providing military aid for efforts to remove Maduro, with 39% opposing
+      such support. The poll also highlights a partisan divide regarding the deployment
+      of US Navy warships near Venezuela, with 68% of Republicans in favor and 62% of
+      Democrats opposed. The Trump administration's deployment of warships in the Caribbean,
+      ostensibly for drug trafficking control, has been suggested to have the underlying
+      goal of ousting Maduro.
+    published: '2025-09-29T09:20:00+00:00'
+  - title: UN Imposes ‘Snapback’ Sanctions on Iran
+    url: https://scheerpost.com/2025/09/29/un-imposes-snapback-sanctions-on-iran/
+    text: 'Masoud Pezeshkian | Wikimedia Commons In one of the scariest moments in modern
+      history, we''re doing our best at ScheerPost to pierce the fog of lies that conceal
+      it but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Dave DeCamp / Antiwar.com On Saturday, UN Security Council sanctions
+      were reimposed on Iran under the so-called “snapback” mechanism of the 2015 nuclear
+      deal, known as the JCPOA, a step triggered by the UK, France, and Germany. Iranian
+      President Masoud Pezeshkian has called the move “unfair, unjust, and illegal”
+      as Tehran argues that the three European countries, known as the E3, didn’t have
+      the right to trigger the sanctions since the US was the party that withdrew from
+      the JCPOA in 2018. Iranians are bracing for the impact the sanctions will have
+      on the Iranian economy, which is already reeling under pre-existing US sanctions.
+      The E3 took the step to trigger the sanctions before the mechanism to reimpose
+      them expired in October. Russia and China attempted to halt the sanctions, but
+      the efforts failed at the UN Security Council. Russia has slammed the move by
+      the Western countries as “illegal,” signaling Moscow may not follow the sanctions,
+      which include an arms embargo. The E3 likely triggered the sanctions on behalf
+      of the US, which welcomed the news on Saturday . Secretary of State Marco Rubio
+      said the reactivation of the sanctions was “an act of decisive global leadership
+      on the part of France, Germany, and the United Kingdom.” The E3 refused to delay
+      the sanctions despite Iran signing a deal to restart cooperation with the International
+      Atomic Energy Agency (IAEA), which had been suspended in the wake of the 12-day
+      US-Israeli war on Iran due to the IAEA’s role in providing a pretext for the attacks
+      and refusing to condemn the bombing of nuclear facilities. Iran also suspects
+      that Israel obtained the names of the nuclear scientists it killed from the IAEA.
+      The E3 was also demanding that Iran restart nuclear negotiations with the US.
+      Iranian officials had said they needed assurances that their country wouldn’t
+      be attacked again since previous talks were used as a cover to launch a war .
+      Tehran also made clear that talks wouldn’t go anywhere if the US continued to
+      demand that it eliminate its nuclear enrichment program. Pezeshkian said on Saturday
+      that the US was also demanding that Iran hand over its stockpile of enriched uranium
+      in exchange for temporary sanctions relief, which he called “unacceptable.” The
+      Iranian leader also said that Tehran didn’t plan to withdraw from the Non-Proliferation
+      Treaty (NPT) in response to the snapback sanctions, although Iran is vowing to
+      respond in some manner . Other Iranian officials have previously said that Tehran
+      may leave the NPT as a response to snapback sanctions, a step that the US and
+      Israel a step that could be used by Israel and the US as a pretext to launch another
+      war, even though Israel is not a signatory to the NPT and has a secret nuclear
+      stockpile and weapons program. During his address to the UN General Assembly last
+      week, Pezeshkian reiterated that Tehran doesn’t seek nuclear weapons. “I hereby
+      declare once before this assembly that Iran has never sought and will never seek
+      to build a nuclear bomb,” he said. “We do not seek nuclear weapons. This is our
+      belief based on the edict issued by the supreme leader and religious authorities.”
+      Please share this story and help us grow our network! Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Dave DeCamp Dave
+      DeCamp is the news editor of Antiwar.com, follow him on Twitter @decampdave. Author
+      Site'
+    one_sentence_summary: The UN Security Council has reimposed sanctions on Iran using
+      the "snapback" mechanism of the 2015 nuclear deal, a move criticized by Iranian
+      President Masoud Pezeshkian as unfair and illegal, as it was initiated by the
+      UK, France, and Germany despite the US being the original party to withdraw from
+      the agreement.
+    paragraph_summary: On Saturday, the UN Security Council reinstated sanctions on
+      Iran through the "snapback" mechanism of the 2015 nuclear deal (JCPOA), a move
+      initiated by the UK, France, and Germany (E3) that Iranian President Masoud Pezeshkian
+      condemned as "unfair, unjust, and illegal." Iran argues that the E3 lacked the
+      authority to trigger these sanctions since the US withdrew from the agreement
+      in 2018. The Iranian economy, already suffering from existing US sanctions, is
+      bracing for further impact. Despite attempts by Russia and China to block the
+      sanctions, they were implemented before the expiration of the reimposition mechanism.
+      The E3's actions were seen as aligning with US interests, with Secretary of State
+      Marco Rubio praising their decision. The E3 proceeded with the sanctions despite
+      Iran's recent agreement to resume cooperation with the International Atomic Energy
+      Agency (IAEA), which has been controversial due to its perceived role in the US-Israeli
+      conflict against Iran.
+    published: '2025-09-29T09:20:00+00:00'
+  - title: 'Poll: Majority of Americans Oppose Using Military Force for Regime Change
+      in Venezuela'
+    url: https://scheerpost.com/2025/09/29/poll-majority-of-americans-oppose-using-military-force-for-regime-change-in-venezuela-2/
+    text: 'Nicolas Maduro (by Fabio Rodrigues Pozzebom) | Wikimedia Commons In one of
+      the scariest moments in modern history, we''re doing our best at ScheerPost to
+      pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Dave DeCamp / Antiwar.com
+      The majority of Americans oppose using the US military to carry out regime change
+      in Venezuela, according to a poll from YouGov that was conducted in early September.
+      The poll asked if the respondents would support or oppose the US using military
+      force to overthrow Venezuelan President Nicolas Maduro, and 53% said they opposed,
+      29% said they weren’t sure, and just 18% supported the idea. The opposition was
+      stronger among Democrats, with 67% opposing the use of military force to carry
+      out regime change. More Republicans opposed the idea (38%) than supported it (34%).
+      When asked if they thought Venezuela would be better off if Maduro were overthrown,
+      the majority (68%) said they weren’t sure. Opposition was even stronger when the
+      respondents were asked about the possibility of invading Venezuela, with 62% saying
+      they oppose the idea and just 16% supporting it. The poll found 74% of Democrats
+      and 48% of Republicans opposed an invasion. When asked if they would support providing
+      military aid for a Venezuelan effort to overthrow Maduro, 39% opposed the idea,
+      29% were unsure, and 32% supported it. The poll also found that Americans were
+      divided over sending US Navy warships near Venezuela, with slightly more opposing
+      (38%) than supporting (36%). But there was a significant partisan divide over
+      the deployment of warships, with 68% of Republicans supporting it and 62% of Democrats
+      opposing it. The Trump administration has deployed a significant number of warships
+      to the Caribbean in the name of combating drug trafficking, but US officials have
+      told The New York Times that the real purpose of the deployment was to oust Maduro.
+      Please share this story and help us grow our network! Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Dave DeCamp Dave
+      DeCamp is the news editor of Antiwar.com, follow him on Twitter @decampdave. Author
+      Site'
+    one_sentence_summary: A recent YouGov poll reveals that a majority of Americans
+      (53%) oppose the use of US military force to overthrow Venezuelan President Nicolas
+      Maduro, with stronger opposition among Democrats (67%) compared to Republicans.
+    paragraph_summary: A recent YouGov poll indicates that a majority of Americans oppose
+      the use of military force by the US to enact regime change in Venezuela, with
+      53% against the idea of overthrowing President Nicolas Maduro. The opposition
+      is particularly strong among Democrats, with 67% opposing military intervention,
+      while 38% of Republicans also share this view. The poll reveals that 68% of respondents
+      are uncertain about whether Venezuela would be better off without Maduro, and
+      a significant 62% oppose the idea of invading the country. Additionally, opinions
+      are divided on providing military aid for efforts to remove Maduro, with 39% opposing
+      such support. The poll also highlights a partisan divide regarding the deployment
+      of US Navy warships near Venezuela, with 68% of Republicans in favor and 62% of
+      Democrats opposed. The Trump administration's deployment of warships in the Caribbean,
+      ostensibly for drug trafficking control, has been suggested to have the underlying
+      goal of ousting Maduro.
+    published: '2025-09-29T09:20:00+00:00'
+  - title: UN Imposes ‘Snapback’ Sanctions on Iran
+    url: https://scheerpost.com/2025/09/29/un-imposes-snapback-sanctions-on-iran/
+    text: 'Masoud Pezeshkian | Wikimedia Commons In one of the scariest moments in modern
+      history, we''re doing our best at ScheerPost to pierce the fog of lies that conceal
+      it but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Dave DeCamp / Antiwar.com On Saturday, UN Security Council sanctions
+      were reimposed on Iran under the so-called “snapback” mechanism of the 2015 nuclear
+      deal, known as the JCPOA, a step triggered by the UK, France, and Germany. Iranian
+      President Masoud Pezeshkian has called the move “unfair, unjust, and illegal”
+      as Tehran argues that the three European countries, known as the E3, didn’t have
+      the right to trigger the sanctions since the US was the party that withdrew from
+      the JCPOA in 2018. Iranians are bracing for the impact the sanctions will have
+      on the Iranian economy, which is already reeling under pre-existing US sanctions.
+      The E3 took the step to trigger the sanctions before the mechanism to reimpose
+      them expired in October. Russia and China attempted to halt the sanctions, but
+      the efforts failed at the UN Security Council. Russia has slammed the move by
+      the Western countries as “illegal,” signaling Moscow may not follow the sanctions,
+      which include an arms embargo. The E3 likely triggered the sanctions on behalf
+      of the US, which welcomed the news on Saturday . Secretary of State Marco Rubio
+      said the reactivation of the sanctions was “an act of decisive global leadership
+      on the part of France, Germany, and the United Kingdom.” The E3 refused to delay
+      the sanctions despite Iran signing a deal to restart cooperation with the International
+      Atomic Energy Agency (IAEA), which had been suspended in the wake of the 12-day
+      US-Israeli war on Iran due to the IAEA’s role in providing a pretext for the attacks
+      and refusing to condemn the bombing of nuclear facilities. Iran also suspects
+      that Israel obtained the names of the nuclear scientists it killed from the IAEA.
+      The E3 was also demanding that Iran restart nuclear negotiations with the US.
+      Iranian officials had said they needed assurances that their country wouldn’t
+      be attacked again since previous talks were used as a cover to launch a war .
+      Tehran also made clear that talks wouldn’t go anywhere if the US continued to
+      demand that it eliminate its nuclear enrichment program. Pezeshkian said on Saturday
+      that the US was also demanding that Iran hand over its stockpile of enriched uranium
+      in exchange for temporary sanctions relief, which he called “unacceptable.” The
+      Iranian leader also said that Tehran didn’t plan to withdraw from the Non-Proliferation
+      Treaty (NPT) in response to the snapback sanctions, although Iran is vowing to
+      respond in some manner . Other Iranian officials have previously said that Tehran
+      may leave the NPT as a response to snapback sanctions, a step that the US and
+      Israel a step that could be used by Israel and the US as a pretext to launch another
+      war, even though Israel is not a signatory to the NPT and has a secret nuclear
+      stockpile and weapons program. During his address to the UN General Assembly last
+      week, Pezeshkian reiterated that Tehran doesn’t seek nuclear weapons. “I hereby
+      declare once before this assembly that Iran has never sought and will never seek
+      to build a nuclear bomb,” he said. “We do not seek nuclear weapons. This is our
+      belief based on the edict issued by the supreme leader and religious authorities.”
+      Please share this story and help us grow our network! Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Dave DeCamp Dave
+      DeCamp is the news editor of Antiwar.com, follow him on Twitter @decampdave. Author
+      Site'
+    one_sentence_summary: The UN Security Council has reimposed sanctions on Iran using
+      the "snapback" mechanism of the 2015 nuclear deal, a move criticized by Iranian
+      President Masoud Pezeshkian as unfair and illegal, as it was initiated by the
+      UK, France, and Germany despite the US being the original party to withdraw from
+      the agreement.
+    paragraph_summary: On Saturday, the UN Security Council reinstated sanctions on
+      Iran through the "snapback" mechanism of the 2015 nuclear deal (JCPOA), a move
+      initiated by the UK, France, and Germany (E3) that Iranian President Masoud Pezeshkian
+      condemned as "unfair, unjust, and illegal." Iran argues that the E3 lacked the
+      authority to trigger these sanctions since the US withdrew from the agreement
+      in 2018. The Iranian economy, already suffering from existing US sanctions, is
+      bracing for further impact. Despite attempts by Russia and China to block the
+      sanctions, they were implemented before the expiration of the reimposition mechanism.
+      The E3's actions were seen as aligning with US interests, with Secretary of State
+      Marco Rubio praising their decision. The E3 proceeded with the sanctions despite
+      Iran's recent agreement to resume cooperation with the International Atomic Energy
+      Agency (IAEA), which has been controversial due to its perceived role in the US-Israeli
+      conflict against Iran.
+    published: '2025-09-29T09:20:00+00:00'
+  - title: Israel Launches Major Airstrikes on Yemeni Capital, Killing at Least Nine
+    url: https://scheerpost.com/2025/09/28/israel-launches-major-airstrikes-on-yemeni-capital-killing-at-least-nine/
+    text: 'Aftermath of Israeli airstrikes in Sanaa, Yemen, on September 25, 2025 (photo
+      via Al Masirah TV) In one of the scariest moments in modern history, we''re doing
+      our best at ScheerPost to pierce the fog of lies that conceal it but we need some
+      help to pay our writers and staff. Please consider a tax-deductible donation .
+      By Dave DeCamp / Antiwar.com The Israeli military launched major airstrikes on
+      the Yemeni capital of Sanaa on Thursday, an assault that came after a Yemeni drone
+      struck the Israeli city of Eilat, as the Houthis have vowed their attacks on Israel
+      won’t stop until there’s an end to Israel’s genocidal war on Gaza. Yemeni Health
+      Ministry spokesman Anis al-Asbahi said the Israeli attacks targeted “civilian,
+      service, and residential facilities, causing damage to a number of homes.” He
+      said that at least nine people were killed and 174 were wounded, but it’s a preliminary
+      death toll that’s expected to rise. Among those killed were four children and
+      two women. Footage and photos from Yemen’s Al Masirah TV show significant damage
+      to a residential area of Sanaa and Yemenis, including children, being treated
+      at a hospital.” The Israeli military said the strikes on Sanaa involved 20 warplanes
+      that dropped 65 munitions on several targets it claimed belonged to the Houthis’
+      “security and intelligence apparatus.” Israeli media described the attack as Israel’s
+      largest yet on Yemen, though the IDF recently killed 31 people at newspaper offices
+      in Sanaa, marking the worst massacre of journalists since 2009, according to the
+      Committee to Protect Journalists. Israeli Defense Minister Israel Katz said that
+      Thursday’s attack was the fulfillment of a threat he made a day earlier after
+      the Yemeni drone attack hit Eilat , which wounded over 20 Israelis. Katz, who
+      has been threatening Yemen with Biblical plagues , claimed that the strikes “eliminated
+      dozens of Houthi terror operatives, and destroyed stockpiles of UAVs and weaponry.”
+      The Houthis, officially known as Ansar Allah, have maintained a defiant tone in
+      the face of ramped-up Israeli attacks. According to Yemen’s SABA news agency ,
+      the Foreign Ministry of the Sanaa-based government said after the latest Israeli
+      airstrikes that Yemen will “continue to respond to the blatant Zionist aggression
+      and will continue to teach the Zionist entity the harshest lessons.” The Houthis
+      are known for their resilience and did not back down in the face of a very heavy
+      US bombing campaign that the Trump administration conducted from March 15 to May
+      6, which killed more than 250 civilians . The US gave up on trying to get the
+      Houthis to stop their attacks on Israel and blockade of Israeli shipping and agreed
+      to a ceasefire with the group. Please share this story and help us grow our network!
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Dave DeCamp Dave DeCamp is the news editor of Antiwar.com, follow
+      him on Twitter @decampdave. Author Site'
+    one_sentence_summary: Israeli airstrikes on Sanaa, Yemen, on September 25, 2025,
+      targeted civilian areas in response to a Yemeni drone attack on Eilat, resulting
+      in at least nine deaths, including four children, and numerous injuries amid ongoing
+      tensions related to the conflict in Gaza.
+    paragraph_summary: On September 25, 2025, the Israeli military conducted significant
+      airstrikes on the Yemeni capital of Sanaa, following a drone attack from Yemen
+      that targeted the Israeli city of Eilat. The strikes, which involved 20 warplanes
+      and dropped 65 munitions, reportedly aimed at Houthi military targets but resulted
+      in substantial civilian casualties, with at least nine people killed, including
+      four children and two women, and 174 injured. The Yemeni Health Ministry described
+      the damage to civilian infrastructure, while Israeli officials claimed the operation
+      was necessary to counter Houthi threats and eliminate their military capabilities.
+      This attack is noted as one of Israel's largest on Yemen, amidst ongoing tensions
+      related to the conflict in Gaza and the Houthis' commitment to retaliate against
+      Israel.
+    published: '2025-09-28T21:45:00+00:00'
+  - title: Israel Launches Major Airstrikes on Yemeni Capital, Killing at Least Nine
+    url: https://scheerpost.com/2025/09/28/israel-launches-major-airstrikes-on-yemeni-capital-killing-at-least-nine/
+    text: 'Aftermath of Israeli airstrikes in Sanaa, Yemen, on September 25, 2025 (photo
+      via Al Masirah TV) In one of the scariest moments in modern history, we''re doing
+      our best at ScheerPost to pierce the fog of lies that conceal it but we need some
+      help to pay our writers and staff. Please consider a tax-deductible donation .
+      By Dave DeCamp / Antiwar.com The Israeli military launched major airstrikes on
+      the Yemeni capital of Sanaa on Thursday, an assault that came after a Yemeni drone
+      struck the Israeli city of Eilat, as the Houthis have vowed their attacks on Israel
+      won’t stop until there’s an end to Israel’s genocidal war on Gaza. Yemeni Health
+      Ministry spokesman Anis al-Asbahi said the Israeli attacks targeted “civilian,
+      service, and residential facilities, causing damage to a number of homes.” He
+      said that at least nine people were killed and 174 were wounded, but it’s a preliminary
+      death toll that’s expected to rise. Among those killed were four children and
+      two women. Footage and photos from Yemen’s Al Masirah TV show significant damage
+      to a residential area of Sanaa and Yemenis, including children, being treated
+      at a hospital.” The Israeli military said the strikes on Sanaa involved 20 warplanes
+      that dropped 65 munitions on several targets it claimed belonged to the Houthis’
+      “security and intelligence apparatus.” Israeli media described the attack as Israel’s
+      largest yet on Yemen, though the IDF recently killed 31 people at newspaper offices
+      in Sanaa, marking the worst massacre of journalists since 2009, according to the
+      Committee to Protect Journalists. Israeli Defense Minister Israel Katz said that
+      Thursday’s attack was the fulfillment of a threat he made a day earlier after
+      the Yemeni drone attack hit Eilat , which wounded over 20 Israelis. Katz, who
+      has been threatening Yemen with Biblical plagues , claimed that the strikes “eliminated
+      dozens of Houthi terror operatives, and destroyed stockpiles of UAVs and weaponry.”
+      The Houthis, officially known as Ansar Allah, have maintained a defiant tone in
+      the face of ramped-up Israeli attacks. According to Yemen’s SABA news agency ,
+      the Foreign Ministry of the Sanaa-based government said after the latest Israeli
+      airstrikes that Yemen will “continue to respond to the blatant Zionist aggression
+      and will continue to teach the Zionist entity the harshest lessons.” The Houthis
+      are known for their resilience and did not back down in the face of a very heavy
+      US bombing campaign that the Trump administration conducted from March 15 to May
+      6, which killed more than 250 civilians . The US gave up on trying to get the
+      Houthis to stop their attacks on Israel and blockade of Israeli shipping and agreed
+      to a ceasefire with the group. Please share this story and help us grow our network!
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Dave DeCamp Dave DeCamp is the news editor of Antiwar.com, follow
+      him on Twitter @decampdave. Author Site'
+    one_sentence_summary: Israeli airstrikes on Sanaa, Yemen, on September 25, 2025,
+      targeted civilian areas in response to a Yemeni drone attack on Eilat, resulting
+      in at least nine deaths, including four children, and numerous injuries amid ongoing
+      tensions related to the conflict in Gaza.
+    paragraph_summary: On September 25, 2025, the Israeli military conducted significant
+      airstrikes on the Yemeni capital of Sanaa, following a drone attack from Yemen
+      that targeted the Israeli city of Eilat. The strikes, which involved 20 warplanes
+      and dropped 65 munitions, reportedly aimed at Houthi military targets but resulted
+      in substantial civilian casualties, with at least nine people killed, including
+      four children and two women, and 174 injured. The Yemeni Health Ministry described
+      the damage to civilian infrastructure, while Israeli officials claimed the operation
+      was necessary to counter Houthi threats and eliminate their military capabilities.
+      This attack is noted as one of Israel's largest on Yemen, amidst ongoing tensions
+      related to the conflict in Gaza and the Houthis' commitment to retaliate against
+      Israel.
+    published: '2025-09-28T21:45:00+00:00'
+  - title: Netanyahu Tells UN Israel Will ‘Finish the Job’ in Gaza
+    url: https://scheerpost.com/2025/09/28/netanyahu-tells-un-israel-will-finish-the-job-in-gaza/
+    text: 'Benjamin Netanyahu, Prime Minister of Israel, addresses the general debate
+      of the General Assembly’s seventieth session. (UN photo) | Flickr In one of the
+      scariest moments in modern history, we''re doing our best at ScheerPost to pierce
+      the fog of lies that conceal it but we need some help to pay our writers and staff.
+      Please consider a tax-deductible donation . By Kyle Anzalone / Antiwar.com Prime
+      Minister Benjamin Netanyahu spoke to a mostly empty room at the UN as delegates
+      engaged in a mass walkout before the Israeli leader began speaking. Netanyahu
+      claimed Israel had eliminated leadership in Yemen, Gaza, Lebanon, and Syria. He
+      went on to say Israel would “finish the job” in Gaza. Dozens of delegates from
+      multiple nations walked out of the U.N. General Assembly Hall as Israeli Prime
+      Minister Benjamin Netanyahu began to speak. Netanyahu told fellow world leaders
+      on Friday that his nation “must finish the job” against Hamas in Gaza. pic.twitter.com/GVfUdZAf8M
+      — The Associated Press (@AP) September 26, 2025 “The final remnants of Hamas are
+      holed up in Gaza City. They vow to repeat the atrocities of Oct. 7,” Netanyahu
+      said on Friday . “That is why Israel must finish the job. That is why we want
+      to do so.” He demanded the release of the remaining 48 Israeli hostages held by
+      Hamas in Gaza. The family members of the captives released a statement following
+      Netanyahu’s speech, saying his calls to finish the job endangered their loved
+      ones. “Netanyahu’s call to ‘finish the job’ and continue fighting endangers the
+      very people we’re fighting to save,” their statement explains. “Every day of continued
+      war puts the living hostages at greater risk.” The father of one hostage attempted
+      to disrupt Netanyahu’s speech. Tel Aviv has undermined the diplomatic process
+      to free the Israeli captives and end the onslaught in Gaza. In March, Israel broke
+      a deal that would have led to the release of all hostages. Earlier this month,
+      Israel attempted to assassinate Hamas leadership as they were meeting to discuss
+      a proposal made by Donald Trump that would have seen the release of all the Israeli
+      hostages before a ceasefire was implemented. The Israeli leader asserted in 2024
+      that Israel was close to “finishing the job” by eliminating the remnants of Hamas
+      in Gaza. While the IDF completely destroyed Rafah last year, Hamas continues to
+      have tens of thousands of fighters in Gaza and holds Israeli hostages. “We are
+      advancing to the end of the stage of eliminating the Hamas terrorist army; we
+      will continue striking its remnants,” Netanyahu said last July. Several top Israeli
+      officials have said the goal in Gaza goes beyond returning the hostages, and the
+      actual objective is to ethnically cleanse Palestine from the Strip. Additionally,
+      the Israeli leader’s remarks put him at odds with the American President. Trump
+      told reporters on Friday before Netanyahu’s address that a deal to end the war
+      was “close.” Trump and Netanyahu also appear divided on the future of the West
+      Bank. The President held a meeting with Arab leaders on the sidelines of the UN
+      summit and said that he would not allow Israel to annex the West Bank. Netanyahu
+      asserted that Israel would never allow the creation of a Palestinian state, calling
+      the idea “sheer madness.” He added, It would be like “giving Al-Qaida a state
+      one mile from New York City after September 11.” Tel Aviv’s refusal to allow the
+      two-state solution to materialize has put the US out of line with its European
+      and Arab allies, who voted to recognize the state of Palestine earlier this week.
+      During his address, Netanyahu claimed Israel has waged multiple successful wars
+      across the Middle East over the past two years. He asserted that half of Ansar
+      Allah’s leadership in Yemen had been killed. While Israeli forces assassinated
+      the Prime Minister of Yemen, Ansar Allah continues its blockade of Israeli shipping
+      in the Red Sea, and a drone launched from Yemen injured 22 people at a hotel in
+      southern Israel on Wednesday. He went on to say Israel had eliminated the leadership
+      of Hamas, Hezbollah, and the Syrian government led by Bashar al-Assad. Netanyahu
+      then threatened to attack Shia militias in Iraq and restart Israel’s aggressive
+      war against Iran. While most UN delegates left the General Assembly hall as Netanyahu
+      began to speak, the Israeli leader said the IDF was broadcasting his speech to
+      Gaza via loudspeakers and by livestreaming it through Palestinians’ phones. Please
+      share this story and help us grow our network! Editor’s Note : A t a moment when
+      the once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Kyle Anzalone Kyle
+      Anzalone is the opinion editor of Antiwar.com, news editor of the Libertarian
+      Institute , and co-host of Conflicts of Interest . Author link'
+    one_sentence_summary: During a largely attended walkout by delegates, Israeli Prime
+      Minister Benjamin Netanyahu addressed the UN General Assembly, asserting that
+      Israel would "finish the job" against Hamas in Gaza while claiming to have eliminated
+      leadership in Yemen, Gaza, Lebanon, and Syria.
+    paragraph_summary: During a recent speech at the UN General Assembly, Israeli Prime
+      Minister Benjamin Netanyahu faced significant backlash as numerous delegates walked
+      out before he began speaking. In his address, Netanyahu asserted that Israel had
+      successfully eliminated leadership in several regions and emphasized the need
+      to "finish the job" against Hamas in Gaza, claiming that the remaining members
+      were plotting further attacks. He also called for the release of 48 Israeli hostages
+      held by Hamas, prompting concern from their families, who argued that his rhetoric
+      endangered their loved ones. The speech highlighted Israel's ongoing military
+      actions and its controversial approach to negotiations regarding the hostages,
+      including a previous breakdown of a deal meant to secure their release.
+    published: '2025-09-28T09:45:00+00:00'
+  - title: Netanyahu Tells UN Israel Will ‘Finish the Job’ in Gaza
+    url: https://scheerpost.com/2025/09/28/netanyahu-tells-un-israel-will-finish-the-job-in-gaza/
+    text: 'Benjamin Netanyahu, Prime Minister of Israel, addresses the general debate
+      of the General Assembly’s seventieth session. (UN photo) | Flickr In one of the
+      scariest moments in modern history, we''re doing our best at ScheerPost to pierce
+      the fog of lies that conceal it but we need some help to pay our writers and staff.
+      Please consider a tax-deductible donation . By Kyle Anzalone / Antiwar.com Prime
+      Minister Benjamin Netanyahu spoke to a mostly empty room at the UN as delegates
+      engaged in a mass walkout before the Israeli leader began speaking. Netanyahu
+      claimed Israel had eliminated leadership in Yemen, Gaza, Lebanon, and Syria. He
+      went on to say Israel would “finish the job” in Gaza. Dozens of delegates from
+      multiple nations walked out of the U.N. General Assembly Hall as Israeli Prime
+      Minister Benjamin Netanyahu began to speak. Netanyahu told fellow world leaders
+      on Friday that his nation “must finish the job” against Hamas in Gaza. pic.twitter.com/GVfUdZAf8M
+      — The Associated Press (@AP) September 26, 2025 “The final remnants of Hamas are
+      holed up in Gaza City. They vow to repeat the atrocities of Oct. 7,” Netanyahu
+      said on Friday . “That is why Israel must finish the job. That is why we want
+      to do so.” He demanded the release of the remaining 48 Israeli hostages held by
+      Hamas in Gaza. The family members of the captives released a statement following
+      Netanyahu’s speech, saying his calls to finish the job endangered their loved
+      ones. “Netanyahu’s call to ‘finish the job’ and continue fighting endangers the
+      very people we’re fighting to save,” their statement explains. “Every day of continued
+      war puts the living hostages at greater risk.” The father of one hostage attempted
+      to disrupt Netanyahu’s speech. Tel Aviv has undermined the diplomatic process
+      to free the Israeli captives and end the onslaught in Gaza. In March, Israel broke
+      a deal that would have led to the release of all hostages. Earlier this month,
+      Israel attempted to assassinate Hamas leadership as they were meeting to discuss
+      a proposal made by Donald Trump that would have seen the release of all the Israeli
+      hostages before a ceasefire was implemented. The Israeli leader asserted in 2024
+      that Israel was close to “finishing the job” by eliminating the remnants of Hamas
+      in Gaza. While the IDF completely destroyed Rafah last year, Hamas continues to
+      have tens of thousands of fighters in Gaza and holds Israeli hostages. “We are
+      advancing to the end of the stage of eliminating the Hamas terrorist army; we
+      will continue striking its remnants,” Netanyahu said last July. Several top Israeli
+      officials have said the goal in Gaza goes beyond returning the hostages, and the
+      actual objective is to ethnically cleanse Palestine from the Strip. Additionally,
+      the Israeli leader’s remarks put him at odds with the American President. Trump
+      told reporters on Friday before Netanyahu’s address that a deal to end the war
+      was “close.” Trump and Netanyahu also appear divided on the future of the West
+      Bank. The President held a meeting with Arab leaders on the sidelines of the UN
+      summit and said that he would not allow Israel to annex the West Bank. Netanyahu
+      asserted that Israel would never allow the creation of a Palestinian state, calling
+      the idea “sheer madness.” He added, It would be like “giving Al-Qaida a state
+      one mile from New York City after September 11.” Tel Aviv’s refusal to allow the
+      two-state solution to materialize has put the US out of line with its European
+      and Arab allies, who voted to recognize the state of Palestine earlier this week.
+      During his address, Netanyahu claimed Israel has waged multiple successful wars
+      across the Middle East over the past two years. He asserted that half of Ansar
+      Allah’s leadership in Yemen had been killed. While Israeli forces assassinated
+      the Prime Minister of Yemen, Ansar Allah continues its blockade of Israeli shipping
+      in the Red Sea, and a drone launched from Yemen injured 22 people at a hotel in
+      southern Israel on Wednesday. He went on to say Israel had eliminated the leadership
+      of Hamas, Hezbollah, and the Syrian government led by Bashar al-Assad. Netanyahu
+      then threatened to attack Shia militias in Iraq and restart Israel’s aggressive
+      war against Iran. While most UN delegates left the General Assembly hall as Netanyahu
+      began to speak, the Israeli leader said the IDF was broadcasting his speech to
+      Gaza via loudspeakers and by livestreaming it through Palestinians’ phones. Please
+      share this story and help us grow our network! Editor’s Note : A t a moment when
+      the once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Kyle Anzalone Kyle
+      Anzalone is the opinion editor of Antiwar.com, news editor of the Libertarian
+      Institute , and co-host of Conflicts of Interest . Author link'
+    one_sentence_summary: During a largely attended walkout by delegates, Israeli Prime
+      Minister Benjamin Netanyahu addressed the UN General Assembly, asserting that
+      Israel would "finish the job" against Hamas in Gaza while claiming to have eliminated
+      leadership in Yemen, Gaza, Lebanon, and Syria.
+    paragraph_summary: During a recent speech at the UN General Assembly, Israeli Prime
+      Minister Benjamin Netanyahu faced significant backlash as numerous delegates walked
+      out before he began speaking. In his address, Netanyahu asserted that Israel had
+      successfully eliminated leadership in several regions and emphasized the need
+      to "finish the job" against Hamas in Gaza, claiming that the remaining members
+      were plotting further attacks. He also called for the release of 48 Israeli hostages
+      held by Hamas, prompting concern from their families, who argued that his rhetoric
+      endangered their loved ones. The speech highlighted Israel's ongoing military
+      actions and its controversial approach to negotiations regarding the hostages,
+      including a previous breakdown of a deal meant to secure their release.
+    published: '2025-09-28T09:45:00+00:00'
+  - title: Are Israel’s Gaza Aid Sites Collecting Biometric Data For Assassinations?
+      (w/ Col. Anthony Aguilar)
+    url: https://scheerpost.com/2025/09/28/are-israels-gaza-aid-sites-collecting-biometric-data-for-assassinations-w-col-anthony-aguilar/
+    text: 'By Chris Hedges / The Chris Hedges YouTube Channel Please share this story
+      and help us grow our network! Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Chris Hedges Chris Hedges is a Pulitzer
+      Prize–winning journalist who was a foreign correspondent for fifteen years for
+      The New York Times, where he served as the Middle East Bureau Chief and Balkan
+      Bureau Chief for the paper. He previously worked overseas for The Dallas Morning
+      News , The Christian Science Monitor , and NPR. He is the host of show The Chris
+      Hedges Report. He was a member of the team that won the 2002 Pulitzer Prize for
+      Explanatory Reporting for The New York Times coverage of global terrorism, and
+      he received the 2002 Amnesty International Global Award for Human Rights Journalism.
+      Hedges, who holds a Master of Divinity from Harvard Divinity School, is the author
+      of the bestsellers American Fascists: The Christian Right and the War on America
+      , Empire of Illusion: The End of Literacy and the Triumph of Spectacle and was
+      a National Book Critics Circle finalist for his book War Is a Force That Gives
+      Us Meaning . He writes an online column for the website ScheerPost . He has taught
+      at Columbia University, New York University, Princeton University and the University
+      of Toronto. Author Site'
+    one_sentence_summary: Chris Hedges emphasizes the urgent need for independent journalism,
+      like ScheerPost, in an era where traditional journalism is dominated by corporate
+      interests and billionaires.
+    paragraph_summary: The article highlights the importance of independent journalism
+      in an era where traditional media is increasingly influenced by wealthy owners
+      and corporate interests. Chris Hedges, a Pulitzer Prize-winning journalist and
+      host of "The Chris Hedges Report," emphasizes the need for alternatives like ScheerPost,
+      which aims to provide integrity-driven news. Hedges, who has a distinguished career
+      in journalism and academia, encourages readers to support independent outlets
+      through donations to ensure the continuation of vital reporting.
+    published: '2025-09-28T09:30:00+00:00'
+  - title: Israel’s Netanyahu addresses Empty UN Chamber with Genocidal Claims after
+      Mass Walkout
+    url: https://scheerpost.com/2025/09/28/israels-netanyahu-addresses-empty-un-chamber-with-genocidal-claims-after-mass-walkout-2/
+    text: 'File photo of Benjamin Netanyahu from 2015. Public domain. Via Picryl. In
+      one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . Ann Arbor (Informed Comment)
+      – Even the tiniest detail is litigated in newspaper headlines when it comes to
+      the Israeli government. Many news outlets reported that “some” or “dozens” of
+      delegates walked out of the UN hall where the General Assembly had gathered as
+      Israeli PM Benjamin Netanyahu prepared to address them. The truth is, almost everyone
+      left, so that Netanyahu addressed mostly empty chairs. I don’t know why the editors
+      who write these silly headlines think they can pull the wool over peoples’ eyes.
+      We have video: He was heckled in the chamber, and then heckled by New Yorkers
+      outside. If Zohran Mamdani wins the mayoral contest in New York, Netanyahu won’t
+      be able to come to the UN because he will be arrested as a war criminal by NYPD.
+      Moreover, although the press reports what Netanyahu says, no one on the diplomatic
+      circuit seems to take it seriously. He full-throatedly rejected any attempt at
+      a two-state solution, saying that establishing a Palestinian state would be “suicide”
+      for Israel. The implication for Netanyahu, whose family is from Poland, is that
+      a recognized Palestinian state would somehow destroy Israel. But how? Not by military
+      action, surely. The Israelis have made short work of their military rivals in
+      the region. With extensive American help they forced countries much larger than
+      themselves, such as Egypt, to conclude a peace treaty. They are constantly bombing
+      Lebanon, Syria, Yemen, and have hit Iraq and Iran and Qatar in the past year.
+      They bomb whomever they wish whenever they wish. Why would a Palestinian state
+      be more formidable than Egypt or Iran? I cannot know for sure, but I think what
+      Netanyahu means by the phrase is that a recognized Palestinian state would rob
+      Israel of its legitimacy. Again, I can’t see how that would work. International
+      legitimacy is bestowed by the United Nations and the great powers. The establishment
+      of a Palestinian state would not cause Israel to be kicked out of the UN. Actually,
+      what might cause such an expulsion to happen is Netanyahu’s course of genocide
+      against the Palestinians. Legitimacy is at least somewhat a matter of public opinion,
+      and the vast walk-out of delegates at the UN General Assembly demonstrates that
+      it is Netanyahu’s atrocities, not a Palestinian state, that has robbed Israel
+      of legitimacy in the eyes of many. But if we granted Netanyahu’s premise, then
+      what? It implies that 14 million Palestinians must remain stateless . US Supreme
+      Court justice Earl Warren defined citizenship as the “right to have rights.” Without
+      citizenship in a state, people have no real human rights, as we easily can see
+      in Gaza for the past two years, and in the West Bank if we look. If you’re stateless,
+      you don’t really own your house. Other people can kick you out of it and move
+      in. Or it can be arbitrarily bombed. The Israeli Right might say that someone
+      else should give the Palestinians citizenship. But who? Lebanon will not, since
+      most Palestinians are Sunni Arabs while 10 percent or so are Christians, and giving
+      them Lebanese citizenship would throw the demographic balance of religious denominations
+      in the country — Sunni, Shiite, Maronite Christian, Eastern Orthodox, and Druze
+      — out of kilter. Since voting, marriage, burial and various sorts of rights are
+      apportioned by religious denomination, such a new and dramatic imbalance would
+      destabilize the country. The same principle applies to Jordan. Syria never gave
+      the Palestinians citizenship and won’t now. Egypt? Surely you jest. There is an
+      Israeli meme that they are all just “Arabs” and Palestinians should melt away
+      into their neighbors. But Palestinians have come to have a national identity,
+      as have the others, and they aren’t just “Arabs.” Only 50% of Egyptians in polling
+      even consider themselves “Arabs.” Ironically, Israeli propaganda parrots the pan-Arabism
+      of Gamal Abdel Nasser in the 1950s, which is now passé and never showed an ability
+      to roll back national identities. Abdel Nasser’s attempt to establish a union
+      of Egypt and Syria crashed and burned in only 3 years. Arabic is a language, not
+      a nation, and many different nations and ethnicities speak it. Just because the
+      British and Americans both speak English does not mean that the British would
+      be happy about a hypothetical influx of millions of American refugees. So Netanyahu’s
+      point of view is impractical, and his stance implies permanent statelessness for
+      Palestinians. After tens of millions of people were made stateless in the interwar
+      period of the twentieth century, the United Nations has worked to ensure that
+      no one should be without citizenship in a state. I believe the UN estimates the
+      number of stateless at 12 million worldwide, and that Palestinians make up the
+      largest single group. The number of Palestinian children between the Jordan River
+      and the Mediterranean equals the number of Israeli Jewish children. So why should
+      the latter grow up to have the right to have rights but the former should not?
+      If the only way Israel can exist is to make the Palestinians stateless forever,
+      to wipe out a people, then it raises questions about whether Israel in this form,
+      as a militant Jewish ethno-state, is worth it. Is Netanyahu saying the quiet part
+      out loud and admitting that Israel’s existence requires a genocide of the Palestinians?
+      Please share this story and help us grow our network! Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Juan Cole Juan
+      Cole, a TomDispatch regular , is the Richard P. Mitchell collegiate professor
+      of history at the University of Michigan. He is the author of The Rubaiyat of
+      Omar Khayyam: A New Translation From the Persian and Muhammad: Prophet of Peace
+      Amid the Clash of Empires . His latest book is Peace Movements in Islam . His
+      award-winning blog is Informed Comment . He is also a non-resident Fellow of the
+      Center for Conflict and Humanitarian Studies in Doha and of Democracy for the
+      Arab World Now (DAWN). Author Site'
+    one_sentence_summary: Israeli PM Benjamin Netanyahu faced significant walkouts and
+      heckling during his UN address, with reports downplaying the extent of the exodus,
+      as most delegates left the hall, leaving him to speak to mostly empty chairs.
+    paragraph_summary: In a recent analysis, the article critiques media coverage surrounding
+      Israeli Prime Minister Benjamin Netanyahu's address at the UN General Assembly,
+      highlighting that most delegates walked out, leaving him to speak to mostly empty
+      chairs. The piece emphasizes that reports often downplay the extent of this exodus
+      and notes that Netanyahu faced heckling both inside and outside the venue. It
+      also discusses Netanyahu's rejection of a two-state solution, which he claims
+      would be "suicide" for Israel, questioning the rationale behind his assertion
+      that a Palestinian state poses a greater threat than established military rivals
+      like Egypt or Iran. The article suggests that Netanyahu's stance reflects deeper
+      fears about the legitimacy and recognition of Palestinian statehood rather than
+      military concerns.
+    published: '2025-09-28T09:30:00+00:00'
+  - title: Are Israel’s Gaza Aid Sites Collecting Biometric Data For Assassinations?
+      (w/ Col. Anthony Aguilar)
+    url: https://scheerpost.com/2025/09/28/are-israels-gaza-aid-sites-collecting-biometric-data-for-assassinations-w-col-anthony-aguilar/
+    text: 'By Chris Hedges / The Chris Hedges YouTube Channel Please share this story
+      and help us grow our network! Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Chris Hedges Chris Hedges is a Pulitzer
+      Prize–winning journalist who was a foreign correspondent for fifteen years for
+      The New York Times, where he served as the Middle East Bureau Chief and Balkan
+      Bureau Chief for the paper. He previously worked overseas for The Dallas Morning
+      News , The Christian Science Monitor , and NPR. He is the host of show The Chris
+      Hedges Report. He was a member of the team that won the 2002 Pulitzer Prize for
+      Explanatory Reporting for The New York Times coverage of global terrorism, and
+      he received the 2002 Amnesty International Global Award for Human Rights Journalism.
+      Hedges, who holds a Master of Divinity from Harvard Divinity School, is the author
+      of the bestsellers American Fascists: The Christian Right and the War on America
+      , Empire of Illusion: The End of Literacy and the Triumph of Spectacle and was
+      a National Book Critics Circle finalist for his book War Is a Force That Gives
+      Us Meaning . He writes an online column for the website ScheerPost . He has taught
+      at Columbia University, New York University, Princeton University and the University
+      of Toronto. Author Site'
+    one_sentence_summary: Chris Hedges emphasizes the urgent need for independent journalism,
+      like ScheerPost, in an era where traditional journalism is dominated by corporate
+      interests and billionaires.
+    paragraph_summary: The article highlights the importance of independent journalism
+      in an era where traditional media is increasingly influenced by wealthy owners
+      and corporate interests. Chris Hedges, a Pulitzer Prize-winning journalist and
+      host of "The Chris Hedges Report," emphasizes the need for alternatives like ScheerPost,
+      which aims to provide integrity-driven news. Hedges, who has a distinguished career
+      in journalism and academia, encourages readers to support independent outlets
+      through donations to ensure the continuation of vital reporting.
+    published: '2025-09-28T09:30:00+00:00'
+  - title: Israel’s Netanyahu addresses Empty UN Chamber with Genocidal Claims after
+      Mass Walkout
+    url: https://scheerpost.com/2025/09/28/israels-netanyahu-addresses-empty-un-chamber-with-genocidal-claims-after-mass-walkout-2/
+    text: 'File photo of Benjamin Netanyahu from 2015. Public domain. Via Picryl. In
+      one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . Ann Arbor (Informed Comment)
+      – Even the tiniest detail is litigated in newspaper headlines when it comes to
+      the Israeli government. Many news outlets reported that “some” or “dozens” of
+      delegates walked out of the UN hall where the General Assembly had gathered as
+      Israeli PM Benjamin Netanyahu prepared to address them. The truth is, almost everyone
+      left, so that Netanyahu addressed mostly empty chairs. I don’t know why the editors
+      who write these silly headlines think they can pull the wool over peoples’ eyes.
+      We have video: He was heckled in the chamber, and then heckled by New Yorkers
+      outside. If Zohran Mamdani wins the mayoral contest in New York, Netanyahu won’t
+      be able to come to the UN because he will be arrested as a war criminal by NYPD.
+      Moreover, although the press reports what Netanyahu says, no one on the diplomatic
+      circuit seems to take it seriously. He full-throatedly rejected any attempt at
+      a two-state solution, saying that establishing a Palestinian state would be “suicide”
+      for Israel. The implication for Netanyahu, whose family is from Poland, is that
+      a recognized Palestinian state would somehow destroy Israel. But how? Not by military
+      action, surely. The Israelis have made short work of their military rivals in
+      the region. With extensive American help they forced countries much larger than
+      themselves, such as Egypt, to conclude a peace treaty. They are constantly bombing
+      Lebanon, Syria, Yemen, and have hit Iraq and Iran and Qatar in the past year.
+      They bomb whomever they wish whenever they wish. Why would a Palestinian state
+      be more formidable than Egypt or Iran? I cannot know for sure, but I think what
+      Netanyahu means by the phrase is that a recognized Palestinian state would rob
+      Israel of its legitimacy. Again, I can’t see how that would work. International
+      legitimacy is bestowed by the United Nations and the great powers. The establishment
+      of a Palestinian state would not cause Israel to be kicked out of the UN. Actually,
+      what might cause such an expulsion to happen is Netanyahu’s course of genocide
+      against the Palestinians. Legitimacy is at least somewhat a matter of public opinion,
+      and the vast walk-out of delegates at the UN General Assembly demonstrates that
+      it is Netanyahu’s atrocities, not a Palestinian state, that has robbed Israel
+      of legitimacy in the eyes of many. But if we granted Netanyahu’s premise, then
+      what? It implies that 14 million Palestinians must remain stateless . US Supreme
+      Court justice Earl Warren defined citizenship as the “right to have rights.” Without
+      citizenship in a state, people have no real human rights, as we easily can see
+      in Gaza for the past two years, and in the West Bank if we look. If you’re stateless,
+      you don’t really own your house. Other people can kick you out of it and move
+      in. Or it can be arbitrarily bombed. The Israeli Right might say that someone
+      else should give the Palestinians citizenship. But who? Lebanon will not, since
+      most Palestinians are Sunni Arabs while 10 percent or so are Christians, and giving
+      them Lebanese citizenship would throw the demographic balance of religious denominations
+      in the country — Sunni, Shiite, Maronite Christian, Eastern Orthodox, and Druze
+      — out of kilter. Since voting, marriage, burial and various sorts of rights are
+      apportioned by religious denomination, such a new and dramatic imbalance would
+      destabilize the country. The same principle applies to Jordan. Syria never gave
+      the Palestinians citizenship and won’t now. Egypt? Surely you jest. There is an
+      Israeli meme that they are all just “Arabs” and Palestinians should melt away
+      into their neighbors. But Palestinians have come to have a national identity,
+      as have the others, and they aren’t just “Arabs.” Only 50% of Egyptians in polling
+      even consider themselves “Arabs.” Ironically, Israeli propaganda parrots the pan-Arabism
+      of Gamal Abdel Nasser in the 1950s, which is now passé and never showed an ability
+      to roll back national identities. Abdel Nasser’s attempt to establish a union
+      of Egypt and Syria crashed and burned in only 3 years. Arabic is a language, not
+      a nation, and many different nations and ethnicities speak it. Just because the
+      British and Americans both speak English does not mean that the British would
+      be happy about a hypothetical influx of millions of American refugees. So Netanyahu’s
+      point of view is impractical, and his stance implies permanent statelessness for
+      Palestinians. After tens of millions of people were made stateless in the interwar
+      period of the twentieth century, the United Nations has worked to ensure that
+      no one should be without citizenship in a state. I believe the UN estimates the
+      number of stateless at 12 million worldwide, and that Palestinians make up the
+      largest single group. The number of Palestinian children between the Jordan River
+      and the Mediterranean equals the number of Israeli Jewish children. So why should
+      the latter grow up to have the right to have rights but the former should not?
+      If the only way Israel can exist is to make the Palestinians stateless forever,
+      to wipe out a people, then it raises questions about whether Israel in this form,
+      as a militant Jewish ethno-state, is worth it. Is Netanyahu saying the quiet part
+      out loud and admitting that Israel’s existence requires a genocide of the Palestinians?
+      Please share this story and help us grow our network! Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Juan Cole Juan
+      Cole, a TomDispatch regular , is the Richard P. Mitchell collegiate professor
+      of history at the University of Michigan. He is the author of The Rubaiyat of
+      Omar Khayyam: A New Translation From the Persian and Muhammad: Prophet of Peace
+      Amid the Clash of Empires . His latest book is Peace Movements in Islam . His
+      award-winning blog is Informed Comment . He is also a non-resident Fellow of the
+      Center for Conflict and Humanitarian Studies in Doha and of Democracy for the
+      Arab World Now (DAWN). Author Site'
+    one_sentence_summary: Israeli PM Benjamin Netanyahu faced significant walkouts and
+      heckling during his UN address, with reports downplaying the extent of the exodus,
+      as most delegates left the hall, leaving him to speak to mostly empty chairs.
+    paragraph_summary: In a recent analysis, the article critiques media coverage surrounding
+      Israeli Prime Minister Benjamin Netanyahu's address at the UN General Assembly,
+      highlighting that most delegates walked out, leaving him to speak to mostly empty
+      chairs. The piece emphasizes that reports often downplay the extent of this exodus
+      and notes that Netanyahu faced heckling both inside and outside the venue. It
+      also discusses Netanyahu's rejection of a two-state solution, which he claims
+      would be "suicide" for Israel, questioning the rationale behind his assertion
+      that a Palestinian state poses a greater threat than established military rivals
+      like Egypt or Iran. The article suggests that Netanyahu's stance reflects deeper
+      fears about the legitimacy and recognition of Palestinian statehood rather than
+      military concerns.
+    published: '2025-09-28T09:30:00+00:00'
+  - title: Glenn Greenwald Reacts to Netanyahu’s UN Speech
+    url: https://scheerpost.com/2025/09/28/glenn-reacts-to-netanyahus-un-speech/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Glenn
+      Greenwald / System Update Please share this story and help us grow our network!
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Glenn Greenwald Glenn Greenwald is a journalist, constitutional
+      lawyer, and author of four New York Times best-selling books on politics and law.
+      He broke the Snowden leaks in 2013. Greenwald currently hosts a political commentary
+      show for Rumble called “System Update.” Author Site'
+    one_sentence_summary: ScheerPost is seeking financial support to sustain its independent
+      journalism amidst a landscape dominated by corporate interests, emphasizing the
+      need for alternatives that uphold integrity.
+    paragraph_summary: In a call to action, Glenn Greenwald emphasizes the urgent need
+      for independent journalism amidst a landscape dominated by corporate interests
+      and billionaires. He highlights ScheerPost as a vital alternative that strives
+      to provide truthful reporting, urging readers to support their work through tax-deductible
+      donations. Greenwald, a prominent journalist known for his role in the Snowden
+      leaks and current host of "System Update," appeals for financial contributions
+      to sustain their efforts in delivering essential news and maintaining journalistic
+      integrity.
+    published: '2025-09-28T09:10:00+00:00'
+  - title: Glenn Greenwald Reacts to Netanyahu’s UN Speech
+    url: https://scheerpost.com/2025/09/28/glenn-reacts-to-netanyahus-un-speech/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Glenn
+      Greenwald / System Update Please share this story and help us grow our network!
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Glenn Greenwald Glenn Greenwald is a journalist, constitutional
+      lawyer, and author of four New York Times best-selling books on politics and law.
+      He broke the Snowden leaks in 2013. Greenwald currently hosts a political commentary
+      show for Rumble called “System Update.” Author Site'
+    one_sentence_summary: ScheerPost is seeking financial support to sustain its independent
+      journalism amidst a landscape dominated by corporate interests, emphasizing the
+      need for alternatives that uphold integrity.
+    paragraph_summary: In a call to action, Glenn Greenwald emphasizes the urgent need
+      for independent journalism amidst a landscape dominated by corporate interests
+      and billionaires. He highlights ScheerPost as a vital alternative that strives
+      to provide truthful reporting, urging readers to support their work through tax-deductible
+      donations. Greenwald, a prominent journalist known for his role in the Snowden
+      leaks and current host of "System Update," appeals for financial contributions
+      to sustain their efforts in delivering essential news and maintaining journalistic
+      integrity.
+    published: '2025-09-28T09:10:00+00:00'
+  - title: '‘An Egregious Abuse of Power’: Trump Orders Troops to Portland, Ore; OKs
+      ‘Full Force’'
+    url: https://scheerpost.com/2025/09/28/an-egregious-abuse-of-power-trump-orders-troops-to-portland-ore-oks-full-force/
+    text: 'For the 7th night in a row, thousands of people marched in Portland to protest
+      the murder of George Floyd, Breonna Taylor, Ahmaud Arbery, and many others at
+      the hands of police. (by Matthew Roth) | Flickr In one of the scariest moments
+      in modern history, we''re doing our best at ScheerPost to pierce the fog of lies
+      that conceal it but we need some help to pay our writers and staff. Please consider
+      a tax-deductible donation . By Olivia Rosane / Common Dreams In his latest attempt
+      to turn the US military on an American city, President Donald Trump said on Saturday
+      that he was sending troops to Portland, Oregon and had authorized them to use
+      “Full Force, if necessary.” “At the request of Secretary of Homeland Security,
+      Kristi Noem, I am directing Secretary of War, Pete Hegseth, to provide all necessary
+      Troops to protect War ravaged Portland, and any of our ICE Facilities under siege
+      from attack by Antifa, and other domestic terrorists,” Trump wrote on Truth Social.
+      Trump’s announcement follows his deployment of the National Guard in Los Angeles
+      and Washington, DC , as well as his threats to send the military to Chicago and
+      Memphis . These deployments have been widely condemned and legally challenged
+      as a massive overreach of executive authority. Portland and Oregon leaders were
+      no less vehement in their opposition to Trump’s order for their city. “Trump is
+      plunging further into authoritarianism every single day.” “President Trump has
+      directed ‘all necessary Troops’ to Portland, Oregon. The number of necessary troops
+      is zero, in Portland and any other American city,” Portland Mayor Keith Wilson
+      said in a statement on Saturday. “Our nation has a long memory for acts of oppression,
+      and the president will not find lawlessness or violence here unless he plans to
+      perpetrate it.” Democratic Oregon Gov. Tina Kotek said that she had not been informed
+      ahead of time of any reason for the deployment of federal troops. “In my conversations
+      directly with President Trump and Secretary Noem, I have been abundantly clear
+      that Portland and the State of Oregon believe in the rule of law and can manage
+      our own local public safety needs,” she wrote on social media. “There is no insurrection.
+      There is no threat to national security.” Rep. Maxine Dexter (D-Ore.) said in
+      a statement: “The President of the United States is directing his self-proclaimed
+      ‘Secretary of War’ to unleash militarized federal forces in an American city he
+      disagrees with. This is an egregious abuse of power and a betrayal of our most
+      basic American values.” “Authoritarians rely on fear to divide us,” she continued.
+      “Portland will not give them that. We will not be intimidated. We have prepared
+      for this moment since Trump first took office, and we will meet it with every
+      tool available to us: litigation, legislation, and the power of peaceful public
+      pressure.” Dexter also posted a photograph of a tranquil park on social media,
+      mocking the idea that Portland was a war zone. Scenes from ‘war ravaged’ Portland
+      today. My message to Trump’s troops: You are not needed. You are not wanted. Go
+      home. pic.twitter.com/0LBvrEnFY0 — Congresswoman Maxine Dexter (@RepDexterOR)
+      September 27, 2025 Sen. Ron Wyden (D-Ore.) adopted a similar strategy, posting
+      videos of downtown Portland and of an Immigration and Customs Enforcement (ICE)
+      facility that has been the site of protests Trump has characterized as out-of-control.
+      Every single one of these clips was taken today in downtown Portland. Portland
+      doesn’t want or need a federal takeover. If Trump insists on sending federal “resources”
+      he can start with funding health care, bridges, affordable housing, and wildfire
+      protection to name a few. pic.twitter.com/J1Hd1cqruK — Ron Wyden (@RonWyden) September
+      27, 2025 Dexter and Wyden were among the seven members of Oregon’s congressional
+      delegation who sent a letter to Trump, Noem, and Hegseth on Saturday urging them
+      to reconsider. “Portland is a vibrant and peaceful city, and does not require
+      any deployment of federal troops or additional federal agents to keep our community
+      safe,” the lawmakers wrote . “This unilateral action represents an abuse of executive
+      authority, seeks to incite violence, and undermines the constitutional balance
+      of power between the federal government and states. We urge you to rescind this
+      decision, and withdraw any military personnel and federal agents you have recently
+      sought to deploy.” As of Saturday, Oregon National Guard spokesperson Lt. Col.
+      Stephen Bomar told The Associated Press in an email that “no official requests
+      have been received at this time.” However, Oregon officials noted an uptick in
+      the presence of federal agents and armored vehicles in Portland on Friday. In
+      a press conference Friday evening, Mayor Wilson suggested that the deployment
+      was a “distraction” from the looming GOP-driven government shutdown. “Imagine
+      if the federal government sent instead 100 teachers or 100 engineers or 100 addiction
+      specialists,” Wilson said. Earlier in the week, Trump also smeered Portland protesters
+      as “professional agitators and anarchists,” according to the Portland Tribune.
+      “We’re going to get out there and we’re going to do a pretty big number on those
+      people in Portland,” Trump said. The federal deployment threatens to reopen wounds
+      from 2020, when Portland was the site of massive protests sparked by the police
+      killing of George Floyd and the first Trump administration sent federal and border
+      agents to the city. As the Oregon lawmakers wrote: Portland residents experienced
+      the consequences of an unnecessary and outrageous federal deployment five years
+      ago. In summer of 2020, the White House unleashed federal agents on Portland like
+      an occupying army, complete with military-grade equipment and violent tactics
+      that were utterly unacceptable on American soil. A federal agent shot a peaceful
+      protester in the head with a crowd-control munition, sending the man to the hospital
+      with a fractured skull. Federal agents were captured on video jumping out of unmarked
+      vans and grabbing people off the streets without explanation. A county commissioner
+      was tear gassed along with other non-violent protestors. A Navy veteran was filmed
+      being beaten by federal agents after he questioned them about their actions. These
+      examples, and many more that occurred in Portland, demonstrate that the federal
+      agents who were parachuted into Portland incited violence and trampled over the
+      constitutional rights of Americans. There is no question that another deployment
+      by your administration will result in similar abuses. However, the risks of abuses
+      are perhaps even higher as the second Trump administration has designated “antifa,”
+      which is not an actual, coherent group, as a domestic terrorist organization,
+      a dubious legal move that experts warn is an attempt to restrict the First Amendment
+      rights of leftists and others critical of the administration. “If ever there was
+      a time not to normalize Trump’s authoritarian fever dreams, this is it,” said
+      journalist Mehdi Hasan on social media. “This should be impeachable. ‘War ravaged’
+      Portland? He’s insane—& insanely power hungry. The script is set—call an imaginary
+      group a terror group and then send in the troops.” Sen. Jeff Merkley (D-Ore.)
+      urged his constituents not to give Trump the confrontation he is clearly seeking.
+      “Trump is sending troops to Portland with the goal of ‘doing a number’ on the
+      city. We know what this means. He wants to stoke fear and chaos and trigger violent
+      interactions and riots to justify expanded authoritarian control,” he said in
+      a video posted on social media. “Let’s not take the bait! Portland is peaceful
+      and strong and we will take care of each other.” Trump is sending troops to Portland
+      with the goal of “doing a number” on the city. We know what this means. He wants
+      to stoke fear and chaos and trigger violent interactions and riots to justify
+      expanded authoritarian control. Let’s not take the bait! Portland is peaceful…
+      pic.twitter.com/xIA7JRX1f2 — Senator Jeff Merkley (@SenJeffMerkley) September
+      27, 2025 Other advocates and lawmakers also took issue with Trump’s characterization
+      of Portland. Human Rights lawyer Qasim Rashid pointed out that Portland had actually
+      experienced the most dramatic drop in homicides among all US cities during the
+      first half of 2025. Portland sees the steepest DROP in homicides in major cities
+      and Trump wants to send troops to do what exactly? ￼More performative nonsense
+      wasting taxpayer dollars from a weak dictator. pic.twitter.com/q7mN2hDO3o — Qasim
+      Rashid, Esq. (@QasimRashid) September 27, 2025 Sen. Elizabeth Warren (D-Mass.)
+      said the description of Portland as “war ravaged” was “delusional and dangerous.”
+      “Sending troops into American cities doesn’t make our communities safer—it just
+      stokes fear and stirs up chaos,” she wrote on social media. “Trump is plunging
+      further into authoritarianism every single day.” Civil rights lawyer and author
+      Alec Karakatsanis said that the mainstream media needed to reflect on how its
+      reporting had enabled Trump’s false narrative about Portland. “This kind of outrageous
+      misinformation would not be possible without the culture of fear spread for years
+      by the mainstream media,” Karakatsanis wrote on social media. “He is playing on
+      the prodigious ignorance and irrational fear cultivated by the way the news media
+      distorts our sense of safety.” “Portland, needless to say, is nothing remotely
+      like what Trump describes,” he continued. “But the mass media has created an entirely
+      delusional public perception of what threats we face and from whom.” Please share
+      this story and help us grow our network! Editor’s Note : A t a moment when the
+      once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Olivia Rosane Olivia
+      Rosane is a staff writer for Common Dreams. Author Site'
+    one_sentence_summary: Thousands of protesters in Portland continued to demonstrate
+      against police violence for the seventh consecutive night, prompting President
+      Trump to announce the deployment of troops to the city to address the unrest.
+    paragraph_summary: For the seventh consecutive night, thousands protested in Portland
+      against police violence following the murders of George Floyd, Breonna Taylor,
+      and Ahmaud Arbery. In response, President Trump announced he would send troops
+      to Portland, authorizing them to use "Full Force" if necessary, citing a request
+      from Homeland Security. This move, part of a broader deployment of National Guard
+      troops in various cities, has faced significant backlash and legal challenges,
+      with local leaders, including Portland Mayor Keith Wilson and Oregon Governor
+      Tina Kotek, condemning the action as an authoritarian overreach and asserting
+      that no troops are needed in Portland.
+    published: '2025-09-28T09:00:00+00:00'
+  - title: '‘An Egregious Abuse of Power’: Trump Orders Troops to Portland, Ore; OKs
+      ‘Full Force’'
+    url: https://scheerpost.com/2025/09/28/an-egregious-abuse-of-power-trump-orders-troops-to-portland-ore-oks-full-force/
+    text: 'For the 7th night in a row, thousands of people marched in Portland to protest
+      the murder of George Floyd, Breonna Taylor, Ahmaud Arbery, and many others at
+      the hands of police. (by Matthew Roth) | Flickr In one of the scariest moments
+      in modern history, we''re doing our best at ScheerPost to pierce the fog of lies
+      that conceal it but we need some help to pay our writers and staff. Please consider
+      a tax-deductible donation . By Olivia Rosane / Common Dreams In his latest attempt
+      to turn the US military on an American city, President Donald Trump said on Saturday
+      that he was sending troops to Portland, Oregon and had authorized them to use
+      “Full Force, if necessary.” “At the request of Secretary of Homeland Security,
+      Kristi Noem, I am directing Secretary of War, Pete Hegseth, to provide all necessary
+      Troops to protect War ravaged Portland, and any of our ICE Facilities under siege
+      from attack by Antifa, and other domestic terrorists,” Trump wrote on Truth Social.
+      Trump’s announcement follows his deployment of the National Guard in Los Angeles
+      and Washington, DC , as well as his threats to send the military to Chicago and
+      Memphis . These deployments have been widely condemned and legally challenged
+      as a massive overreach of executive authority. Portland and Oregon leaders were
+      no less vehement in their opposition to Trump’s order for their city. “Trump is
+      plunging further into authoritarianism every single day.” “President Trump has
+      directed ‘all necessary Troops’ to Portland, Oregon. The number of necessary troops
+      is zero, in Portland and any other American city,” Portland Mayor Keith Wilson
+      said in a statement on Saturday. “Our nation has a long memory for acts of oppression,
+      and the president will not find lawlessness or violence here unless he plans to
+      perpetrate it.” Democratic Oregon Gov. Tina Kotek said that she had not been informed
+      ahead of time of any reason for the deployment of federal troops. “In my conversations
+      directly with President Trump and Secretary Noem, I have been abundantly clear
+      that Portland and the State of Oregon believe in the rule of law and can manage
+      our own local public safety needs,” she wrote on social media. “There is no insurrection.
+      There is no threat to national security.” Rep. Maxine Dexter (D-Ore.) said in
+      a statement: “The President of the United States is directing his self-proclaimed
+      ‘Secretary of War’ to unleash militarized federal forces in an American city he
+      disagrees with. This is an egregious abuse of power and a betrayal of our most
+      basic American values.” “Authoritarians rely on fear to divide us,” she continued.
+      “Portland will not give them that. We will not be intimidated. We have prepared
+      for this moment since Trump first took office, and we will meet it with every
+      tool available to us: litigation, legislation, and the power of peaceful public
+      pressure.” Dexter also posted a photograph of a tranquil park on social media,
+      mocking the idea that Portland was a war zone. Scenes from ‘war ravaged’ Portland
+      today. My message to Trump’s troops: You are not needed. You are not wanted. Go
+      home. pic.twitter.com/0LBvrEnFY0 — Congresswoman Maxine Dexter (@RepDexterOR)
+      September 27, 2025 Sen. Ron Wyden (D-Ore.) adopted a similar strategy, posting
+      videos of downtown Portland and of an Immigration and Customs Enforcement (ICE)
+      facility that has been the site of protests Trump has characterized as out-of-control.
+      Every single one of these clips was taken today in downtown Portland. Portland
+      doesn’t want or need a federal takeover. If Trump insists on sending federal “resources”
+      he can start with funding health care, bridges, affordable housing, and wildfire
+      protection to name a few. pic.twitter.com/J1Hd1cqruK — Ron Wyden (@RonWyden) September
+      27, 2025 Dexter and Wyden were among the seven members of Oregon’s congressional
+      delegation who sent a letter to Trump, Noem, and Hegseth on Saturday urging them
+      to reconsider. “Portland is a vibrant and peaceful city, and does not require
+      any deployment of federal troops or additional federal agents to keep our community
+      safe,” the lawmakers wrote . “This unilateral action represents an abuse of executive
+      authority, seeks to incite violence, and undermines the constitutional balance
+      of power between the federal government and states. We urge you to rescind this
+      decision, and withdraw any military personnel and federal agents you have recently
+      sought to deploy.” As of Saturday, Oregon National Guard spokesperson Lt. Col.
+      Stephen Bomar told The Associated Press in an email that “no official requests
+      have been received at this time.” However, Oregon officials noted an uptick in
+      the presence of federal agents and armored vehicles in Portland on Friday. In
+      a press conference Friday evening, Mayor Wilson suggested that the deployment
+      was a “distraction” from the looming GOP-driven government shutdown. “Imagine
+      if the federal government sent instead 100 teachers or 100 engineers or 100 addiction
+      specialists,” Wilson said. Earlier in the week, Trump also smeered Portland protesters
+      as “professional agitators and anarchists,” according to the Portland Tribune.
+      “We’re going to get out there and we’re going to do a pretty big number on those
+      people in Portland,” Trump said. The federal deployment threatens to reopen wounds
+      from 2020, when Portland was the site of massive protests sparked by the police
+      killing of George Floyd and the first Trump administration sent federal and border
+      agents to the city. As the Oregon lawmakers wrote: Portland residents experienced
+      the consequences of an unnecessary and outrageous federal deployment five years
+      ago. In summer of 2020, the White House unleashed federal agents on Portland like
+      an occupying army, complete with military-grade equipment and violent tactics
+      that were utterly unacceptable on American soil. A federal agent shot a peaceful
+      protester in the head with a crowd-control munition, sending the man to the hospital
+      with a fractured skull. Federal agents were captured on video jumping out of unmarked
+      vans and grabbing people off the streets without explanation. A county commissioner
+      was tear gassed along with other non-violent protestors. A Navy veteran was filmed
+      being beaten by federal agents after he questioned them about their actions. These
+      examples, and many more that occurred in Portland, demonstrate that the federal
+      agents who were parachuted into Portland incited violence and trampled over the
+      constitutional rights of Americans. There is no question that another deployment
+      by your administration will result in similar abuses. However, the risks of abuses
+      are perhaps even higher as the second Trump administration has designated “antifa,”
+      which is not an actual, coherent group, as a domestic terrorist organization,
+      a dubious legal move that experts warn is an attempt to restrict the First Amendment
+      rights of leftists and others critical of the administration. “If ever there was
+      a time not to normalize Trump’s authoritarian fever dreams, this is it,” said
+      journalist Mehdi Hasan on social media. “This should be impeachable. ‘War ravaged’
+      Portland? He’s insane—& insanely power hungry. The script is set—call an imaginary
+      group a terror group and then send in the troops.” Sen. Jeff Merkley (D-Ore.)
+      urged his constituents not to give Trump the confrontation he is clearly seeking.
+      “Trump is sending troops to Portland with the goal of ‘doing a number’ on the
+      city. We know what this means. He wants to stoke fear and chaos and trigger violent
+      interactions and riots to justify expanded authoritarian control,” he said in
+      a video posted on social media. “Let’s not take the bait! Portland is peaceful
+      and strong and we will take care of each other.” Trump is sending troops to Portland
+      with the goal of “doing a number” on the city. We know what this means. He wants
+      to stoke fear and chaos and trigger violent interactions and riots to justify
+      expanded authoritarian control. Let’s not take the bait! Portland is peaceful…
+      pic.twitter.com/xIA7JRX1f2 — Senator Jeff Merkley (@SenJeffMerkley) September
+      27, 2025 Other advocates and lawmakers also took issue with Trump’s characterization
+      of Portland. Human Rights lawyer Qasim Rashid pointed out that Portland had actually
+      experienced the most dramatic drop in homicides among all US cities during the
+      first half of 2025. Portland sees the steepest DROP in homicides in major cities
+      and Trump wants to send troops to do what exactly? ￼More performative nonsense
+      wasting taxpayer dollars from a weak dictator. pic.twitter.com/q7mN2hDO3o — Qasim
+      Rashid, Esq. (@QasimRashid) September 27, 2025 Sen. Elizabeth Warren (D-Mass.)
+      said the description of Portland as “war ravaged” was “delusional and dangerous.”
+      “Sending troops into American cities doesn’t make our communities safer—it just
+      stokes fear and stirs up chaos,” she wrote on social media. “Trump is plunging
+      further into authoritarianism every single day.” Civil rights lawyer and author
+      Alec Karakatsanis said that the mainstream media needed to reflect on how its
+      reporting had enabled Trump’s false narrative about Portland. “This kind of outrageous
+      misinformation would not be possible without the culture of fear spread for years
+      by the mainstream media,” Karakatsanis wrote on social media. “He is playing on
+      the prodigious ignorance and irrational fear cultivated by the way the news media
+      distorts our sense of safety.” “Portland, needless to say, is nothing remotely
+      like what Trump describes,” he continued. “But the mass media has created an entirely
+      delusional public perception of what threats we face and from whom.” Please share
+      this story and help us grow our network! Editor’s Note : A t a moment when the
+      once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Olivia Rosane Olivia
+      Rosane is a staff writer for Common Dreams. Author Site'
+    one_sentence_summary: Thousands of protesters in Portland continued to demonstrate
+      against police violence for the seventh consecutive night, prompting President
+      Trump to announce the deployment of troops to the city to address the unrest.
+    paragraph_summary: For the seventh consecutive night, thousands protested in Portland
+      against police violence following the murders of George Floyd, Breonna Taylor,
+      and Ahmaud Arbery. In response, President Trump announced he would send troops
+      to Portland, authorizing them to use "Full Force" if necessary, citing a request
+      from Homeland Security. This move, part of a broader deployment of National Guard
+      troops in various cities, has faced significant backlash and legal challenges,
+      with local leaders, including Portland Mayor Keith Wilson and Oregon Governor
+      Tina Kotek, condemning the action as an authoritarian overreach and asserting
+      that no troops are needed in Portland.
+    published: '2025-09-28T09:00:00+00:00'
+  - title: 'Poll: Majority of Americans Oppose Using Military Force for Regime Change
+      in Venezuela'
+    url: https://scheerpost.com/2025/09/27/poll-majority-of-americans-oppose-using-military-force-for-regime-change-in-venezuela/
+    text: 'Venezuela. Marcello Casal Jr./ABr, CC BY 3.0 BR https://creativecommons.org/licenses/by/3.0/br/deed.en
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Dave DeCamp / Antiwar.com The majority of Americans oppose using
+      the US military to carry out regime change in Venezuela, according to a poll from
+      YouGov that was conducted in early September. The poll asked if the respondents
+      would support or oppose the US using military force to overthrow Venezuelan President
+      Nicolas Maduro, and 53% said they opposed, 29% said they weren’t sure, and just
+      18% supported the idea. The opposition was stronger among Democrats, with 67%
+      opposing the use of military force to carry out regime change. More Republicans
+      opposed the idea (38%) than supported it (34%). When asked if they thought Venezuela
+      would be better off if Maduro were overthrown, the majority (68%) said they weren’t
+      sure. Opposition was even stronger when the respondents were asked about the possibility
+      of invading Venezuela, with 62% saying they oppose the idea and just 16% supporting
+      it. The poll found 74% of Democrats and 48% of Republicans opposed an invasion.
+      When asked if they would support providing military aid for a Venezuelan effort
+      to overthrow Maduro, 39% opposed the idea, 29% were unsure, and 32% supported
+      it. The poll also found that Americans were divided over sending US Navy warships
+      near Venezuela, with slightly more opposing (38%) than supporting (36%). But there
+      was a significant partisan divide over the deployment of warships, with 68% of
+      Republicans supporting it and 62% of Democrats opposing it. The Trump administration
+      has deployed a significant number of warships to the Caribbean in the name of
+      combating drug trafficking, but US officials have told The New York Times that
+      the real purpose of the deployment was to oust Maduro. Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Dave DeCamp Dave
+      DeCamp is the news editor of Antiwar.com, follow him on Twitter @decampdave. Author
+      Site Please share this story and help us grow our network!'
+    one_sentence_summary: A recent YouGov poll reveals that a majority of Americans,
+      particularly Democrats, oppose the use of US military force for regime change
+      in Venezuela, with 53% against and only 18% in support.
+    paragraph_summary: A recent YouGov poll reveals that a majority of Americans oppose
+      the use of military force by the US to enact regime change in Venezuela, with
+      53% against such actions and only 18% in support. The opposition is particularly
+      strong among Democrats, with 67% opposing military intervention, while Republican
+      views are more divided. When asked about the potential benefits of overthrowing
+      President Nicolas Maduro, 68% of respondents were unsure. Additionally, 62% opposed
+      the idea of invading Venezuela, and there was significant resistance to providing
+      military aid for efforts to oust Maduro. The poll also indicated a split over
+      the deployment of US Navy warships near Venezuela, with more Republicans supporting
+      it than Democrats. Overall, the findings suggest a general reluctance among the
+      American public to engage militarily in Venezuela.
+    published: '2025-09-27T13:09:46+00:00'
+  - title: 'Poll: Majority of Americans Oppose Using Military Force for Regime Change
+      in Venezuela'
+    url: https://scheerpost.com/2025/09/27/poll-majority-of-americans-oppose-using-military-force-for-regime-change-in-venezuela/
+    text: 'Venezuela. Marcello Casal Jr./ABr, CC BY 3.0 BR https://creativecommons.org/licenses/by/3.0/br/deed.en
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Dave DeCamp / Antiwar.com The majority of Americans oppose using
+      the US military to carry out regime change in Venezuela, according to a poll from
+      YouGov that was conducted in early September. The poll asked if the respondents
+      would support or oppose the US using military force to overthrow Venezuelan President
+      Nicolas Maduro, and 53% said they opposed, 29% said they weren’t sure, and just
+      18% supported the idea. The opposition was stronger among Democrats, with 67%
+      opposing the use of military force to carry out regime change. More Republicans
+      opposed the idea (38%) than supported it (34%). When asked if they thought Venezuela
+      would be better off if Maduro were overthrown, the majority (68%) said they weren’t
+      sure. Opposition was even stronger when the respondents were asked about the possibility
+      of invading Venezuela, with 62% saying they oppose the idea and just 16% supporting
+      it. The poll found 74% of Democrats and 48% of Republicans opposed an invasion.
+      When asked if they would support providing military aid for a Venezuelan effort
+      to overthrow Maduro, 39% opposed the idea, 29% were unsure, and 32% supported
+      it. The poll also found that Americans were divided over sending US Navy warships
+      near Venezuela, with slightly more opposing (38%) than supporting (36%). But there
+      was a significant partisan divide over the deployment of warships, with 68% of
+      Republicans supporting it and 62% of Democrats opposing it. The Trump administration
+      has deployed a significant number of warships to the Caribbean in the name of
+      combating drug trafficking, but US officials have told The New York Times that
+      the real purpose of the deployment was to oust Maduro. Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Dave DeCamp Dave
+      DeCamp is the news editor of Antiwar.com, follow him on Twitter @decampdave. Author
+      Site Please share this story and help us grow our network!'
+    one_sentence_summary: A recent YouGov poll reveals that a majority of Americans,
+      particularly Democrats, oppose the use of US military force for regime change
+      in Venezuela, with 53% against and only 18% in support.
+    paragraph_summary: A recent YouGov poll reveals that a majority of Americans oppose
+      the use of military force by the US to enact regime change in Venezuela, with
+      53% against such actions and only 18% in support. The opposition is particularly
+      strong among Democrats, with 67% opposing military intervention, while Republican
+      views are more divided. When asked about the potential benefits of overthrowing
+      President Nicolas Maduro, 68% of respondents were unsure. Additionally, 62% opposed
+      the idea of invading Venezuela, and there was significant resistance to providing
+      military aid for efforts to oust Maduro. The poll also indicated a split over
+      the deployment of US Navy warships near Venezuela, with more Republicans supporting
+      it than Democrats. Overall, the findings suggest a general reluctance among the
+      American public to engage militarily in Venezuela.
+    published: '2025-09-27T13:09:46+00:00'
+  - title: Over a Billion People in the World Suffer from Mental Health Ailments
+    url: https://scheerpost.com/2025/09/27/over-a-billion-people-in-the-world-suffer-from-mental-health-ailments/
+    text: 'Mental Health Protest. Sinn Féin, CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Vijay Prashad / Tricontinental: Institute for Social Research I
+      first heard the word ‘depression’ when I was about sixteen. My mother took me
+      to the National Institute of Mental Health and Neurosciences (NIMHANS) in Bengaluru,
+      India, to be seen by a professional for what I had just considered to be nightmares
+      and difficult afternoons. I was lucky. Today, only 9% of people in the world receive
+      treatment for depression. The doctor spoke to me for a long time, and I spent
+      several days at NIMHANS being treated by this and other doctors. It was clear
+      to me that my problems largely stemmed from a traumatic incident that took place
+      a few years earlier, when I was raped in my school. My parents held me through
+      the process, giving me the courage to get through the aftermath and shielding
+      me from what they thought would be the absolute humiliation of a public display
+      of the violence. I remain grateful to them for being so kind and conciliatory,
+      allowing me to take the time I needed before I was ready to talk openly about
+      something that makes no sense, and should not make sense, to a child. In fact,
+      the experience of depression and the impact this has on self-esteem continues
+      throughout one’s life. Medication helps, and so does the love of friends, but
+      there is no ‘cure’ that enables the complexity of hurt to be overcome. Over the
+      years, I have had to privately deal with the immense shame that comes with such
+      experiences and the lack of certainty about the facts of the incident ( did I
+      encourage it? ). This shame is commonplace for those who have faced such acts,
+      and it is something that marks people from the time a traumatic incident takes
+      place until the moment they die, as evidenced by the significantly higher rate
+      of death by suicide among people who have experienced such violence in their youth.
+      For good reason, the importance of medication and therapeutic intervention cannot
+      be minimised. But, in a world that pays more attention to debt repayments and
+      arms purchases, with healthcare spending in decline, support for mental health
+      is at a ferocious low. One of the reasons why I am a staunch advocate of the United
+      Nations agencies, and particularly the World Health Organisation (WHO), is that
+      these institutions keep a close eye on the problems of mental health and on the
+      outrageous underfunding of support structures for those who face these challenges.
+      Two reports in particular – Mental Health Atlas 2024 and World Mental Health Today
+      (both published in 2025) – found that over one billion people live with a mental
+      disorder. Contrary to received wisdom, most of those who suffer these maladies
+      live in low- and middle-income countries. The most common ailments are anxiety
+      and depression, with women disproportionately impacted. Women also experience
+      higher rates of violence in the home, which leads to increased mental stress,
+      and women with severe mental health challenges are more likely to face sexual
+      and other forms of violence. Yet, strikingly, the WHO studies find that women
+      are less able to access therapeutic treatment for a range of reasons. One study
+      from India, cited by the WHO , shows ‘that women with depression were three times
+      more likely than other women to spend more than half their monthly household expenditure
+      on out-of-pocket healthcare costs’. Three factors – cost, stigma, and fear – obstruct
+      the process of healthcare and legal redress for those struggling with mental health
+      diseases. The data is horrifying. Median government spending on mental healthcare
+      accounts for about 2% of health budgets, which has remained unchanged since 2017.
+      A mere 9.89% of the global GDP was spent on healthcare in 2022, though world healthcare
+      spending figures are utterly misleading since a large volume is spent in the Global
+      North on insurance companies and on expensive interventions that skew the data.
+      Average public healthcare spending in the Global South is 1.2% of GDP as of 2022,
+      with 141 governments spending less than the WHO’s healthcare spending benchmark
+      of 5% of GDP (a similar figure to a 2010 report suggested that a 6% threshold
+      would prevent high out-of-pocket expenses). While high-income countries spend
+      $65 per person on mental healthcare, low-income countries spend $.04 per person.
+      At a time when the poorer nations are spending about 6.5% of export revenues to
+      service external debt while world military and police spending skyrockets, it
+      is unlikely that most countries will have the political will to shift their priorities
+      from social destruction to social care. What is the impact of the failure to build
+      a strong healthcare system, including a mental healthcare system? The number of
+      people who are lost to suicide is scandalously high. It is reported that over
+      720,000 people take their lives every year, about 8 per 100,000 people. Youth
+      suicide rates are either stable or rising, depending on the country (the last
+      reliable data on this is from 2021). Nearly three-fourths of global suicides took
+      place in low- and middle-income countries. In African countries, for instance,
+      these numbers are on the rise, currently at 11.5 per 100,000 people. A new report
+      from the WHO finds that a hundred people die of loneliness every hour, totalling
+      871,000 deaths per year. Among the drivers of loneliness or social isolation,
+      the report explains, are ‘poor physical or mental health (especially depression),
+      personality traits such as neuroticism, being without a partner or unmarried,
+      living alone and features of the built environment such as poor access to public
+      transportation’. Most of these drivers can be overcome by increased social connection
+      through such simple reforms as better public transportation, cultural centres,
+      and community care centres. Mental health workers are themselves prone to mental
+      and physical challenges due to overwork and lack of support. There are merely
+      13 mental health workers for every 100,000 people, with low-income countries only
+      able to marshal one mental health worker for 100,000 people. Two-thirds of the
+      countries in the world, mostly poorer nations, have only one psychiatrist per
+      200,000 people. The stress that this places on the kind-hearted people who enter
+      this profession is immense. The only low-income country where I have met genuinely
+      happy mental health professionals is Cuba, where the system provides as much support
+      as possible for those who work at the community level against all odds with a
+      population neurologically battered by the impact of sanctions. Scholarship on
+      care shows clearly that it is far better to treat people with severe mental health
+      issues through community-based care centres located near the patients’ family
+      homes rather than in psychiatric hospitals that are often far too large and sterile.
+      Yet less than one in ten countries have moved from psychiatric hospital systems
+      to community-based care systems (if they have these systems in place at all),
+      and many of those that have are socialist. Local community-based care centres
+      allow for all people to be better integrated into society and for mental health
+      workers to better understand the full psychosocial history of their patients and
+      the communities from which they come. The treatment is then both social and medical.
+      We must spend more of our social wealth on care and less on death and debt . When
+      I discovered Pink Floyd’s The Dark Side of the Moon (1973) in my teenage years,
+      it was a revelation. I would sit in our apartment in the afternoon, as the Kolkata
+      light filtered through the large trees outside and the sound of the tram drifted
+      into the room, and listen to the album over and over again. It is difficult to
+      explain what it meant to me to close my eyes and fly into the world of ‘Breathe
+      (In the Air)’: Breathe, breathe in the air. Don’t be afraid to care. Leave, but
+      don’t leave me. Look around and choose your own ground. Long you live and high
+      you fly And smiles you’ll give and tears you’ll cry And all you touch and all
+      you see Is all your life will ever be. Run, rabbit, run. Dig that hole, forget
+      the sun, And when at last the work is done Don’t sit down It’s time to dig another
+      one. Long you live and high you fly But only if you ride the tide And balanced
+      on the biggest wave You race towards an early grave. I have often felt that it
+      is this song that kept me alive, alongside the love of my parents, Rosy Samuel,
+      and my family and comrades. Slow down, rabbit, look at the sun. Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Vijay Prashad
+      Vijay Prashad is an Indian historian, editor and journalist. He is a writing fellow
+      and chief correspondent at Globetrotter. He is an editor of LeftWord Books and
+      the director of Tricontinental: Institute for Social Research . He is a senior
+      non-resident fellow at Chongyang Institute for Financial Studies , Renmin University
+      of China. He has written more than 20 books, including The Darker Nations and
+      The Poorer Nations . His latest books are Struggle Makes Us Human: Learning from
+      Movements for Socialism and (with Noam Chomsky) The Withdrawal: Iraq, Libya, Afghanistan,
+      and the Fragility of U.S. Power . Author Site Please share this story and help
+      us grow our network!'
+    one_sentence_summary: In a personal reflection, Vijay Prashad discusses his early
+      experiences with depression and the importance of mental health treatment, highlighting
+      that only 9% of people globally receive the necessary care for such conditions.
+    paragraph_summary: In a reflective piece, Vijay Prashad shares his personal journey
+      with depression, which began at the age of sixteen after experiencing a traumatic
+      event of sexual violence. He recounts his experience seeking help at the National
+      Institute of Mental Health and Neurosciences in India, where he received treatment
+      and support from his family. Prashad emphasizes that despite the availability
+      of medication and the support of friends, there is no definitive cure for the
+      complex emotional scars left by trauma. He highlights the pervasive shame and
+      uncertainty that often accompany such experiences, illustrating the long-lasting
+      impact of trauma on mental health and self-esteem.
+    published: '2025-09-27T13:03:55+00:00'
+  - title: Over a Billion People in the World Suffer from Mental Health Ailments
+    url: https://scheerpost.com/2025/09/27/over-a-billion-people-in-the-world-suffer-from-mental-health-ailments/
+    text: 'Mental Health Protest. Sinn Féin, CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Vijay Prashad / Tricontinental: Institute for Social Research I
+      first heard the word ‘depression’ when I was about sixteen. My mother took me
+      to the National Institute of Mental Health and Neurosciences (NIMHANS) in Bengaluru,
+      India, to be seen by a professional for what I had just considered to be nightmares
+      and difficult afternoons. I was lucky. Today, only 9% of people in the world receive
+      treatment for depression. The doctor spoke to me for a long time, and I spent
+      several days at NIMHANS being treated by this and other doctors. It was clear
+      to me that my problems largely stemmed from a traumatic incident that took place
+      a few years earlier, when I was raped in my school. My parents held me through
+      the process, giving me the courage to get through the aftermath and shielding
+      me from what they thought would be the absolute humiliation of a public display
+      of the violence. I remain grateful to them for being so kind and conciliatory,
+      allowing me to take the time I needed before I was ready to talk openly about
+      something that makes no sense, and should not make sense, to a child. In fact,
+      the experience of depression and the impact this has on self-esteem continues
+      throughout one’s life. Medication helps, and so does the love of friends, but
+      there is no ‘cure’ that enables the complexity of hurt to be overcome. Over the
+      years, I have had to privately deal with the immense shame that comes with such
+      experiences and the lack of certainty about the facts of the incident ( did I
+      encourage it? ). This shame is commonplace for those who have faced such acts,
+      and it is something that marks people from the time a traumatic incident takes
+      place until the moment they die, as evidenced by the significantly higher rate
+      of death by suicide among people who have experienced such violence in their youth.
+      For good reason, the importance of medication and therapeutic intervention cannot
+      be minimised. But, in a world that pays more attention to debt repayments and
+      arms purchases, with healthcare spending in decline, support for mental health
+      is at a ferocious low. One of the reasons why I am a staunch advocate of the United
+      Nations agencies, and particularly the World Health Organisation (WHO), is that
+      these institutions keep a close eye on the problems of mental health and on the
+      outrageous underfunding of support structures for those who face these challenges.
+      Two reports in particular – Mental Health Atlas 2024 and World Mental Health Today
+      (both published in 2025) – found that over one billion people live with a mental
+      disorder. Contrary to received wisdom, most of those who suffer these maladies
+      live in low- and middle-income countries. The most common ailments are anxiety
+      and depression, with women disproportionately impacted. Women also experience
+      higher rates of violence in the home, which leads to increased mental stress,
+      and women with severe mental health challenges are more likely to face sexual
+      and other forms of violence. Yet, strikingly, the WHO studies find that women
+      are less able to access therapeutic treatment for a range of reasons. One study
+      from India, cited by the WHO , shows ‘that women with depression were three times
+      more likely than other women to spend more than half their monthly household expenditure
+      on out-of-pocket healthcare costs’. Three factors – cost, stigma, and fear – obstruct
+      the process of healthcare and legal redress for those struggling with mental health
+      diseases. The data is horrifying. Median government spending on mental healthcare
+      accounts for about 2% of health budgets, which has remained unchanged since 2017.
+      A mere 9.89% of the global GDP was spent on healthcare in 2022, though world healthcare
+      spending figures are utterly misleading since a large volume is spent in the Global
+      North on insurance companies and on expensive interventions that skew the data.
+      Average public healthcare spending in the Global South is 1.2% of GDP as of 2022,
+      with 141 governments spending less than the WHO’s healthcare spending benchmark
+      of 5% of GDP (a similar figure to a 2010 report suggested that a 6% threshold
+      would prevent high out-of-pocket expenses). While high-income countries spend
+      $65 per person on mental healthcare, low-income countries spend $.04 per person.
+      At a time when the poorer nations are spending about 6.5% of export revenues to
+      service external debt while world military and police spending skyrockets, it
+      is unlikely that most countries will have the political will to shift their priorities
+      from social destruction to social care. What is the impact of the failure to build
+      a strong healthcare system, including a mental healthcare system? The number of
+      people who are lost to suicide is scandalously high. It is reported that over
+      720,000 people take their lives every year, about 8 per 100,000 people. Youth
+      suicide rates are either stable or rising, depending on the country (the last
+      reliable data on this is from 2021). Nearly three-fourths of global suicides took
+      place in low- and middle-income countries. In African countries, for instance,
+      these numbers are on the rise, currently at 11.5 per 100,000 people. A new report
+      from the WHO finds that a hundred people die of loneliness every hour, totalling
+      871,000 deaths per year. Among the drivers of loneliness or social isolation,
+      the report explains, are ‘poor physical or mental health (especially depression),
+      personality traits such as neuroticism, being without a partner or unmarried,
+      living alone and features of the built environment such as poor access to public
+      transportation’. Most of these drivers can be overcome by increased social connection
+      through such simple reforms as better public transportation, cultural centres,
+      and community care centres. Mental health workers are themselves prone to mental
+      and physical challenges due to overwork and lack of support. There are merely
+      13 mental health workers for every 100,000 people, with low-income countries only
+      able to marshal one mental health worker for 100,000 people. Two-thirds of the
+      countries in the world, mostly poorer nations, have only one psychiatrist per
+      200,000 people. The stress that this places on the kind-hearted people who enter
+      this profession is immense. The only low-income country where I have met genuinely
+      happy mental health professionals is Cuba, where the system provides as much support
+      as possible for those who work at the community level against all odds with a
+      population neurologically battered by the impact of sanctions. Scholarship on
+      care shows clearly that it is far better to treat people with severe mental health
+      issues through community-based care centres located near the patients’ family
+      homes rather than in psychiatric hospitals that are often far too large and sterile.
+      Yet less than one in ten countries have moved from psychiatric hospital systems
+      to community-based care systems (if they have these systems in place at all),
+      and many of those that have are socialist. Local community-based care centres
+      allow for all people to be better integrated into society and for mental health
+      workers to better understand the full psychosocial history of their patients and
+      the communities from which they come. The treatment is then both social and medical.
+      We must spend more of our social wealth on care and less on death and debt . When
+      I discovered Pink Floyd’s The Dark Side of the Moon (1973) in my teenage years,
+      it was a revelation. I would sit in our apartment in the afternoon, as the Kolkata
+      light filtered through the large trees outside and the sound of the tram drifted
+      into the room, and listen to the album over and over again. It is difficult to
+      explain what it meant to me to close my eyes and fly into the world of ‘Breathe
+      (In the Air)’: Breathe, breathe in the air. Don’t be afraid to care. Leave, but
+      don’t leave me. Look around and choose your own ground. Long you live and high
+      you fly And smiles you’ll give and tears you’ll cry And all you touch and all
+      you see Is all your life will ever be. Run, rabbit, run. Dig that hole, forget
+      the sun, And when at last the work is done Don’t sit down It’s time to dig another
+      one. Long you live and high you fly But only if you ride the tide And balanced
+      on the biggest wave You race towards an early grave. I have often felt that it
+      is this song that kept me alive, alongside the love of my parents, Rosy Samuel,
+      and my family and comrades. Slow down, rabbit, look at the sun. Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Vijay Prashad
+      Vijay Prashad is an Indian historian, editor and journalist. He is a writing fellow
+      and chief correspondent at Globetrotter. He is an editor of LeftWord Books and
+      the director of Tricontinental: Institute for Social Research . He is a senior
+      non-resident fellow at Chongyang Institute for Financial Studies , Renmin University
+      of China. He has written more than 20 books, including The Darker Nations and
+      The Poorer Nations . His latest books are Struggle Makes Us Human: Learning from
+      Movements for Socialism and (with Noam Chomsky) The Withdrawal: Iraq, Libya, Afghanistan,
+      and the Fragility of U.S. Power . Author Site Please share this story and help
+      us grow our network!'
+    one_sentence_summary: In a personal reflection, Vijay Prashad discusses his early
+      experiences with depression and the importance of mental health treatment, highlighting
+      that only 9% of people globally receive the necessary care for such conditions.
+    paragraph_summary: In a reflective piece, Vijay Prashad shares his personal journey
+      with depression, which began at the age of sixteen after experiencing a traumatic
+      event of sexual violence. He recounts his experience seeking help at the National
+      Institute of Mental Health and Neurosciences in India, where he received treatment
+      and support from his family. Prashad emphasizes that despite the availability
+      of medication and the support of friends, there is no definitive cure for the
+      complex emotional scars left by trauma. He highlights the pervasive shame and
+      uncertainty that often accompany such experiences, illustrating the long-lasting
+      impact of trauma on mental health and self-esteem.
+    published: '2025-09-27T13:03:55+00:00'
+  - title: Israel’s Netanyahu Addresses Empty UN Chamber With Genocidal Claims After
+      Mass Walkout
+    url: https://scheerpost.com/2025/09/27/israels-netanyahu-addresses-empty-un-chamber-with-genocidal-claims-after-mass-walkout/
+    text: 'Benjamin Netanyahu. U.S. Embassy Jerusalem, CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Juan Cole / Informed Comment Ann Arbor (Informed Comment) – Even
+      the tiniest detail is litigated in newspaper headlines when it comes to the Israeli
+      government. Many news outlets reported that “some” or “dozens” of delegates walked
+      out of the UN hall where the General Assembly had gathered as Israeli PM Benjamin
+      Netanyahu prepared to address them. The truth is, almost everyone left, so that
+      Netanyahu addressed mostly empty chairs. I don’t know why the editors who write
+      these silly headlines think they can pull the wool over peoples’ eyes. We have
+      video: He was heckled in the chamber, and then heckled by New Yorkers outside.
+      If Zohran Mamdani wins the mayoral contest in New York, Netanyahu won’t be able
+      to come to the UN because he will be arrested as a war criminal by NYPD. Moreover,
+      although the press reports what Netanyahu says, no one on the diplomatic circuit
+      seems to take it seriously. He full-throatedly rejected any attempt at a two-state
+      solution, saying that establishing a Palestinian state would be “suicide” for
+      Israel. The implication for Netanyahu, whose family is from Poland, is that a
+      recognized Palestinian state would somehow destroy Israel. But how? Not by military
+      action, surely. The Israelis have made short work of their military rivals in
+      the region. With extensive American help they forced countries much larger than
+      themselves, such as Egypt, to conclude a peace treaty. They are constantly bombing
+      Lebanon, Syria, Yemen, and have hit Iraq and Iran and Qatar in the past year.
+      They bomb whomever they wish whenever they wish. Why would a Palestinian state
+      be more formidable than Egypt or Iran? I cannot know for sure, but I think what
+      Netanyahu means by the phrase is that a recognized Palestinian state would rob
+      Israel of its legitimacy. Again, I can’t see how that would work. International
+      legitimacy is bestowed by the United Nations and the great powers. The establishment
+      of a Palestinian state would not cause Israel to be kicked out of the UN. Actually,
+      what might cause such an expulsion to happen is Netanyahu’s course of genocide
+      against the Palestinians. Legitimacy is at least somewhat a matter of public opinion,
+      and the vast walk-out of delegates at the UN General Assembly demonstrates that
+      it is Netanyahu’s atrocities, not a Palestinian state, that has robbed Israel
+      of legitimacy in the eyes of many. But if we granted Netanyahu’s premise, then
+      what? It implies that 14 million Palestinians must remain stateless . US Supreme
+      Court justice Earl Warren defined citizenship as the “right to have rights.” Without
+      citizenship in a state, people have no real human rights, as we easily can see
+      in Gaza for the past two years, and in the West Bank if we look. If you’re stateless,
+      you don’t really own your house. Other people can kick you out of it and move
+      in. Or it can be arbitrarily bombed. The Israeli Right might say that someone
+      else should give the Palestinians citizenship. But who? Lebanon will not, since
+      most Palestinians are Sunni Arabs while 10 percent or so are Christians, and giving
+      them Lebanese citizenship would throw the demographic balance of religious denominations
+      in the country — Sunni, Shiite, Maronite Christian, Eastern Orthodox, Druze &
+      etc. — out of kilter. Since voting, marriage, burial and various sorts of rights
+      are apportioned by religious denomination, such a new and dramatic imbalance would
+      destabilize the country. The same principle applies to Jordan. Syria never gave
+      the Palestinians citizenship and won’t now. Egypt? Surely you jest. There is an
+      Israeli meme that they are all just “Arabs” and Palestinians should melt away
+      into their neighbors. But Palestinians have come to have a national identity,
+      as have the others, and they aren’t just “Arabs.” Only 50% of Egyptians in polling
+      even consider themselves “Arabs.” Ironically, Israeli propaganda parrots the pan-Arabism
+      of Gamal Abdel Nasser in the 1950s, which is now passé and never showed an ability
+      to roll back national identities. Abdel Nasser’s attempt to establish a union
+      of Egypt and Syria crashed and burned in only 3 years. Arabic is a language, not
+      a nation, and many different nations and ethnicities speak it. Just because the
+      British and Americans both speak English does not mean that the British would
+      be happy about a hypothetical influx of millions of American refugees. So Netanyahu’s
+      point of view is impractical, and his stance implies permanent statelessness for
+      Palestinians. After tens of millions of people were made stateless in the interwar
+      period of the twentieth century, the United Nations has worked to ensure that
+      no one should be without citizenship in a state. I believe the UN estimates the
+      number of stateless at 12 million worldwide, and that Palestinians make up the
+      largest single group. The number of Palestinian children between the Jordan River
+      and the Mediterranean equals the number of Israeli Jewish children. So why should
+      the latter grow up to have the right to have rights but the former should not?
+      If the only way Israel can exist is to make the Palestinians stateless forever,
+      to wipe out a people, then it raises questions about whether Israel in this form,
+      as a militant Jewish ethno-state, is worth it. Is Netanyahu saying the quiet part
+      out loud and admitting that Israel’s existence requires a genocide of the Palestinians?
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Juan Cole Juan Cole, a TomDispatch regular , is the Richard P. Mitchell
+      collegiate professor of history at the University of Michigan. He is the author
+      of The Rubaiyat of Omar Khayyam: A New Translation From the Persian and Muhammad:
+      Prophet of Peace Amid the Clash of Empires . His latest book is Peace Movements
+      in Islam . His award-winning blog is Informed Comment . He is also a non-resident
+      Fellow of the Center for Conflict and Humanitarian Studies in Doha and of Democracy
+      for the Arab World Now (DAWN). Author Site Please share this story and help us
+      grow our network!'
+    one_sentence_summary: The article discusses how media coverage of Israeli Prime
+      Minister Benjamin Netanyahu's UN address downplayed the significant walkout of
+      delegates, emphasizing that he spoke to mostly empty chairs amidst heckling both
+      inside and outside the chamber.
+    paragraph_summary: In a recent article by Juan Cole on ScheerPost, he critiques
+      media coverage of Israeli Prime Minister Benjamin Netanyahu's address at the UN
+      General Assembly, highlighting that most delegates walked out, leaving him to
+      speak to mostly empty chairs. Cole argues that the media downplays the significant
+      disapproval of Netanyahu's stance, which includes a firm rejection of a two-state
+      solution, labeling it as "suicide" for Israel. He questions the rationale behind
+      Netanyahu's fears regarding a Palestinian state, noting that Israel has successfully
+      managed military confrontations with much larger nations and has a history of
+      aggressive military actions in the region. Cole suggests that the diplomatic community
+      largely dismisses Netanyahu's rhetoric, and he raises concerns about the implications
+      of Netanyahu's policies for future Israeli-Palestinian relations.
+    published: '2025-09-27T12:57:29+00:00'
+  - title: Israel’s Netanyahu Addresses Empty UN Chamber With Genocidal Claims After
+      Mass Walkout
+    url: https://scheerpost.com/2025/09/27/israels-netanyahu-addresses-empty-un-chamber-with-genocidal-claims-after-mass-walkout/
+    text: 'Benjamin Netanyahu. U.S. Embassy Jerusalem, CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Juan Cole / Informed Comment Ann Arbor (Informed Comment) – Even
+      the tiniest detail is litigated in newspaper headlines when it comes to the Israeli
+      government. Many news outlets reported that “some” or “dozens” of delegates walked
+      out of the UN hall where the General Assembly had gathered as Israeli PM Benjamin
+      Netanyahu prepared to address them. The truth is, almost everyone left, so that
+      Netanyahu addressed mostly empty chairs. I don’t know why the editors who write
+      these silly headlines think they can pull the wool over peoples’ eyes. We have
+      video: He was heckled in the chamber, and then heckled by New Yorkers outside.
+      If Zohran Mamdani wins the mayoral contest in New York, Netanyahu won’t be able
+      to come to the UN because he will be arrested as a war criminal by NYPD. Moreover,
+      although the press reports what Netanyahu says, no one on the diplomatic circuit
+      seems to take it seriously. He full-throatedly rejected any attempt at a two-state
+      solution, saying that establishing a Palestinian state would be “suicide” for
+      Israel. The implication for Netanyahu, whose family is from Poland, is that a
+      recognized Palestinian state would somehow destroy Israel. But how? Not by military
+      action, surely. The Israelis have made short work of their military rivals in
+      the region. With extensive American help they forced countries much larger than
+      themselves, such as Egypt, to conclude a peace treaty. They are constantly bombing
+      Lebanon, Syria, Yemen, and have hit Iraq and Iran and Qatar in the past year.
+      They bomb whomever they wish whenever they wish. Why would a Palestinian state
+      be more formidable than Egypt or Iran? I cannot know for sure, but I think what
+      Netanyahu means by the phrase is that a recognized Palestinian state would rob
+      Israel of its legitimacy. Again, I can’t see how that would work. International
+      legitimacy is bestowed by the United Nations and the great powers. The establishment
+      of a Palestinian state would not cause Israel to be kicked out of the UN. Actually,
+      what might cause such an expulsion to happen is Netanyahu’s course of genocide
+      against the Palestinians. Legitimacy is at least somewhat a matter of public opinion,
+      and the vast walk-out of delegates at the UN General Assembly demonstrates that
+      it is Netanyahu’s atrocities, not a Palestinian state, that has robbed Israel
+      of legitimacy in the eyes of many. But if we granted Netanyahu’s premise, then
+      what? It implies that 14 million Palestinians must remain stateless . US Supreme
+      Court justice Earl Warren defined citizenship as the “right to have rights.” Without
+      citizenship in a state, people have no real human rights, as we easily can see
+      in Gaza for the past two years, and in the West Bank if we look. If you’re stateless,
+      you don’t really own your house. Other people can kick you out of it and move
+      in. Or it can be arbitrarily bombed. The Israeli Right might say that someone
+      else should give the Palestinians citizenship. But who? Lebanon will not, since
+      most Palestinians are Sunni Arabs while 10 percent or so are Christians, and giving
+      them Lebanese citizenship would throw the demographic balance of religious denominations
+      in the country — Sunni, Shiite, Maronite Christian, Eastern Orthodox, Druze &
+      etc. — out of kilter. Since voting, marriage, burial and various sorts of rights
+      are apportioned by religious denomination, such a new and dramatic imbalance would
+      destabilize the country. The same principle applies to Jordan. Syria never gave
+      the Palestinians citizenship and won’t now. Egypt? Surely you jest. There is an
+      Israeli meme that they are all just “Arabs” and Palestinians should melt away
+      into their neighbors. But Palestinians have come to have a national identity,
+      as have the others, and they aren’t just “Arabs.” Only 50% of Egyptians in polling
+      even consider themselves “Arabs.” Ironically, Israeli propaganda parrots the pan-Arabism
+      of Gamal Abdel Nasser in the 1950s, which is now passé and never showed an ability
+      to roll back national identities. Abdel Nasser’s attempt to establish a union
+      of Egypt and Syria crashed and burned in only 3 years. Arabic is a language, not
+      a nation, and many different nations and ethnicities speak it. Just because the
+      British and Americans both speak English does not mean that the British would
+      be happy about a hypothetical influx of millions of American refugees. So Netanyahu’s
+      point of view is impractical, and his stance implies permanent statelessness for
+      Palestinians. After tens of millions of people were made stateless in the interwar
+      period of the twentieth century, the United Nations has worked to ensure that
+      no one should be without citizenship in a state. I believe the UN estimates the
+      number of stateless at 12 million worldwide, and that Palestinians make up the
+      largest single group. The number of Palestinian children between the Jordan River
+      and the Mediterranean equals the number of Israeli Jewish children. So why should
+      the latter grow up to have the right to have rights but the former should not?
+      If the only way Israel can exist is to make the Palestinians stateless forever,
+      to wipe out a people, then it raises questions about whether Israel in this form,
+      as a militant Jewish ethno-state, is worth it. Is Netanyahu saying the quiet part
+      out loud and admitting that Israel’s existence requires a genocide of the Palestinians?
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Juan Cole Juan Cole, a TomDispatch regular , is the Richard P. Mitchell
+      collegiate professor of history at the University of Michigan. He is the author
+      of The Rubaiyat of Omar Khayyam: A New Translation From the Persian and Muhammad:
+      Prophet of Peace Amid the Clash of Empires . His latest book is Peace Movements
+      in Islam . His award-winning blog is Informed Comment . He is also a non-resident
+      Fellow of the Center for Conflict and Humanitarian Studies in Doha and of Democracy
+      for the Arab World Now (DAWN). Author Site Please share this story and help us
+      grow our network!'
+    one_sentence_summary: The article discusses how media coverage of Israeli Prime
+      Minister Benjamin Netanyahu's UN address downplayed the significant walkout of
+      delegates, emphasizing that he spoke to mostly empty chairs amidst heckling both
+      inside and outside the chamber.
+    paragraph_summary: In a recent article by Juan Cole on ScheerPost, he critiques
+      media coverage of Israeli Prime Minister Benjamin Netanyahu's address at the UN
+      General Assembly, highlighting that most delegates walked out, leaving him to
+      speak to mostly empty chairs. Cole argues that the media downplays the significant
+      disapproval of Netanyahu's stance, which includes a firm rejection of a two-state
+      solution, labeling it as "suicide" for Israel. He questions the rationale behind
+      Netanyahu's fears regarding a Palestinian state, noting that Israel has successfully
+      managed military confrontations with much larger nations and has a history of
+      aggressive military actions in the region. Cole suggests that the diplomatic community
+      largely dismisses Netanyahu's rhetoric, and he raises concerns about the implications
+      of Netanyahu's policies for future Israeli-Palestinian relations.
+    published: '2025-09-27T12:57:29+00:00'
+  - title: Black Liberation Activist Assata Shakur, 78, Dies in Cuba After Decades in
+      Exile
+    url: https://scheerpost.com/2025/09/27/black-liberation-activist-assata-shakur-78-dies-in-cuba-after-decades-in-exile/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By DemocracyNow!
+      The Cuban government has announced that Assata Shakur died in Havana on Thursday
+      at the age of 78. Shakur was a legendary figure within the Black Panther Party
+      and the Black Liberation Army. Shakur was convicted in the May 2, 1973, killing
+      of a New Jersey state trooper during a shootout that left one of her fellow activists
+      dead. She was shot twice by police during the incident. In 1979, she managed to
+      escape from jail and later fled to Cuba, where she received political asylum.
+      She long proclaimed her innocence. In her autobiography, Shakur wrote: “It is
+      our duty to fight for our freedom. It is our duty to win. We must love each other
+      and support each other. We have nothing to lose but our chains.” In 1998, Democracy
+      Now! aired her reading an open letter to Pope John Paul II during his trip to
+      Cuba. She wrote the message after New Jersey state troopers sent the pope a letter
+      asking him to call for her extradition. ASSATA SHAKUR : My name is Assata Shakur,
+      and I was born and raised in the United States. I am a descendant of Africans
+      who were kidnapped and brought to the Americas as slaves. I spent my early childhood
+      in the racist segregated South. I later moved to the northern part of the country,
+      where I realized that Black people were equally victimized by racism and oppression.
+      I grew up and became a political activist, participating in student struggles,
+      the anti-war movement, and, most of all, in the movement for the liberation of
+      African Americans in the United States. I later joined the Black Panther Party,
+      an organization that was targeted by the COINTELPRO program, a program that was
+      set up by the Federal Bureau of Investigation to eliminate all political opposition
+      to the U.S. government’s policies, to destroy the Black Liberation Movement in
+      the United States, to discredit activists and to eliminate potential leaders.
+      Under the COINTELPRO program, many political activists were harassed, imprisoned,
+      murdered or otherwise neutralized. As a result of being targeted by COINTELPRO,
+      I, like many other young people, was faced with the threat of prison, underground,
+      exile or death. The FBI, with the help of local police agencies, systematically
+      fed false accusations and fake news articles to the press accusing me and other
+      activists of crimes we did not commit. Although in my case the charges were eventually
+      dropped or I was eventually acquitted, the national and local police agencies
+      created a situation where, based on their false accusations against me, any police
+      officer could shoot me on sight. It was not until the Freedom of Information Act
+      was passed in the mid-’70s that we began to see the scope of the United States
+      government’s persecution of political activists. At this point, I think that it
+      is important to make one thing very clear. I have advocated and I still advocate
+      revolutionary changes in the structure and in the principles that govern the United
+      States. I advocate self-determination for my people and for all oppressed inside
+      the United States. I advocate an end to capitalist exploitation, the abolition
+      of racist policies, the eradication of sexism, and the elimination of political
+      repression. If that is a crime, then I am totally guilty. To make a long story
+      short, I was captured in New Jersey in 1973, after being shot with both arms held
+      in the air, and then shot again from the back. I was left on the ground to die,
+      and when I did not, I was taken to a local hospital where I was threatened, beaten
+      and tortured. In 1977 I was convicted in a trial that can only be described as
+      a legal lynching. In 1979 I was able to escape with the aid of some of my fellow
+      comrades. I saw this as a necessary step, not only because I was innocent of the
+      charges against me, but because I knew that in the racist legal system in the
+      United States I would receive no justice. I was also afraid that I would be murdered
+      in prison. I later arrived in Cuba where I am currently living in exile as a political
+      refugee. The New Jersey State Police and other law enforcement officials say they
+      want to see me brought to “justice.” But I would like to know what they mean by
+      “justice.” Is torture justice? I was kept in solitary confinement for more than
+      two years, mostly in men’s prisons. Is that justice? My lawyers were threatened
+      with imprisonment and imprisoned. Is that justice? I was tried by an all-white
+      jury, without even the pretext of impartiality, and then sentenced to life in
+      prison plus 33 years. Is that justice? Let me emphasize that justice for me is
+      not the issue I am addressing here; it is justice for my people that is at stake.
+      When my people receive justice, I am sure that I will receive it, too. Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . DemocracyNow!
+      Democracy Now! produces a daily, global, independent news hour hosted by award-winning
+      journalists Amy Goodman and Juan González. Our reporting includes breaking daily
+      news headlines and in-depth interviews with people on the front lines of the world’s
+      most pressing issues. On Democracy Now!, you’ll hear a diversity of voices speaking
+      for themselves, providing a unique and sometimes provocative perspective on global
+      events. Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: Assata Shakur, a prominent figure in the Black Panther Party
+      and Black Liberation Army who escaped to Cuba after being convicted of killing
+      a New Jersey state trooper, has died at the age of 78, as announced by the Cuban
+      government.
+    paragraph_summary: Assata Shakur, a prominent figure in the Black Panther Party
+      and the Black Liberation Army, passed away in Havana at the age of 78, as announced
+      by the Cuban government. Convicted for the 1973 killing of a New Jersey state
+      trooper during a violent confrontation, Shakur escaped from prison in 1979 and
+      sought political asylum in Cuba, where she maintained her innocence throughout
+      her life. In her autobiography, she emphasized the importance of fighting for
+      freedom and supporting one another in the struggle against oppression. Shakur's
+      legacy includes her activism against racism and her experiences with systemic
+      injustice, as well as her notable correspondence with Pope John Paul II regarding
+      her extradition.
+    published: '2025-09-27T12:53:21+00:00'
+  - title: Black Liberation Activist Assata Shakur, 78, Dies in Cuba After Decades in
+      Exile
+    url: https://scheerpost.com/2025/09/27/black-liberation-activist-assata-shakur-78-dies-in-cuba-after-decades-in-exile/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By DemocracyNow!
+      The Cuban government has announced that Assata Shakur died in Havana on Thursday
+      at the age of 78. Shakur was a legendary figure within the Black Panther Party
+      and the Black Liberation Army. Shakur was convicted in the May 2, 1973, killing
+      of a New Jersey state trooper during a shootout that left one of her fellow activists
+      dead. She was shot twice by police during the incident. In 1979, she managed to
+      escape from jail and later fled to Cuba, where she received political asylum.
+      She long proclaimed her innocence. In her autobiography, Shakur wrote: “It is
+      our duty to fight for our freedom. It is our duty to win. We must love each other
+      and support each other. We have nothing to lose but our chains.” In 1998, Democracy
+      Now! aired her reading an open letter to Pope John Paul II during his trip to
+      Cuba. She wrote the message after New Jersey state troopers sent the pope a letter
+      asking him to call for her extradition. ASSATA SHAKUR : My name is Assata Shakur,
+      and I was born and raised in the United States. I am a descendant of Africans
+      who were kidnapped and brought to the Americas as slaves. I spent my early childhood
+      in the racist segregated South. I later moved to the northern part of the country,
+      where I realized that Black people were equally victimized by racism and oppression.
+      I grew up and became a political activist, participating in student struggles,
+      the anti-war movement, and, most of all, in the movement for the liberation of
+      African Americans in the United States. I later joined the Black Panther Party,
+      an organization that was targeted by the COINTELPRO program, a program that was
+      set up by the Federal Bureau of Investigation to eliminate all political opposition
+      to the U.S. government’s policies, to destroy the Black Liberation Movement in
+      the United States, to discredit activists and to eliminate potential leaders.
+      Under the COINTELPRO program, many political activists were harassed, imprisoned,
+      murdered or otherwise neutralized. As a result of being targeted by COINTELPRO,
+      I, like many other young people, was faced with the threat of prison, underground,
+      exile or death. The FBI, with the help of local police agencies, systematically
+      fed false accusations and fake news articles to the press accusing me and other
+      activists of crimes we did not commit. Although in my case the charges were eventually
+      dropped or I was eventually acquitted, the national and local police agencies
+      created a situation where, based on their false accusations against me, any police
+      officer could shoot me on sight. It was not until the Freedom of Information Act
+      was passed in the mid-’70s that we began to see the scope of the United States
+      government’s persecution of political activists. At this point, I think that it
+      is important to make one thing very clear. I have advocated and I still advocate
+      revolutionary changes in the structure and in the principles that govern the United
+      States. I advocate self-determination for my people and for all oppressed inside
+      the United States. I advocate an end to capitalist exploitation, the abolition
+      of racist policies, the eradication of sexism, and the elimination of political
+      repression. If that is a crime, then I am totally guilty. To make a long story
+      short, I was captured in New Jersey in 1973, after being shot with both arms held
+      in the air, and then shot again from the back. I was left on the ground to die,
+      and when I did not, I was taken to a local hospital where I was threatened, beaten
+      and tortured. In 1977 I was convicted in a trial that can only be described as
+      a legal lynching. In 1979 I was able to escape with the aid of some of my fellow
+      comrades. I saw this as a necessary step, not only because I was innocent of the
+      charges against me, but because I knew that in the racist legal system in the
+      United States I would receive no justice. I was also afraid that I would be murdered
+      in prison. I later arrived in Cuba where I am currently living in exile as a political
+      refugee. The New Jersey State Police and other law enforcement officials say they
+      want to see me brought to “justice.” But I would like to know what they mean by
+      “justice.” Is torture justice? I was kept in solitary confinement for more than
+      two years, mostly in men’s prisons. Is that justice? My lawyers were threatened
+      with imprisonment and imprisoned. Is that justice? I was tried by an all-white
+      jury, without even the pretext of impartiality, and then sentenced to life in
+      prison plus 33 years. Is that justice? Let me emphasize that justice for me is
+      not the issue I am addressing here; it is justice for my people that is at stake.
+      When my people receive justice, I am sure that I will receive it, too. Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . DemocracyNow!
+      Democracy Now! produces a daily, global, independent news hour hosted by award-winning
+      journalists Amy Goodman and Juan González. Our reporting includes breaking daily
+      news headlines and in-depth interviews with people on the front lines of the world’s
+      most pressing issues. On Democracy Now!, you’ll hear a diversity of voices speaking
+      for themselves, providing a unique and sometimes provocative perspective on global
+      events. Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: Assata Shakur, a prominent figure in the Black Panther Party
+      and Black Liberation Army who escaped to Cuba after being convicted of killing
+      a New Jersey state trooper, has died at the age of 78, as announced by the Cuban
+      government.
+    paragraph_summary: Assata Shakur, a prominent figure in the Black Panther Party
+      and the Black Liberation Army, passed away in Havana at the age of 78, as announced
+      by the Cuban government. Convicted for the 1973 killing of a New Jersey state
+      trooper during a violent confrontation, Shakur escaped from prison in 1979 and
+      sought political asylum in Cuba, where she maintained her innocence throughout
+      her life. In her autobiography, she emphasized the importance of fighting for
+      freedom and supporting one another in the struggle against oppression. Shakur's
+      legacy includes her activism against racism and her experiences with systemic
+      injustice, as well as her notable correspondence with Pope John Paul II regarding
+      her extradition.
+    published: '2025-09-27T12:53:21+00:00'
+  - title: Sweeping ICE Raid Shakes Small New York Town as Dozens Remain ‘Disappeared’
+    url: https://scheerpost.com/2025/09/27/sweeping-ice-raid-shakes-small-new-york-town-as-dozens-remain-disappeared/
+    text: 'U.S. Immigration and Customs Enforcement (ICE). usicegov, Public domain,
+      via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Derek Seidman / Truthout On the morning of September 4, dozens of
+      masked federal agents raided a snack bar factory in the small town of Cato, New
+      York. They claimed there was a “violent felon” in the plant, but proceeded to
+      siphon off and hold anyone who looked Latinx. At least 69 workers were initially
+      detained, with 57 still in custody or deported, though some say that could be
+      an undercount. There are multiple reports of aggression — knees on necks, blows
+      to heads — used during the raid. The workers were mostly from Central America,
+      especially Guatemala. Some had lived in the region for decades. Many are parents.
+      Even those who presented valid working permits were taken. Sources tell Truthout
+      that around a dozen workers have been deported while others linger in detention
+      facilities across the U.S. The raid in Cato has garnered national attention and
+      shaken the immigrant community of central New York. While targeting and raids
+      against immigrant workers and communities in the region are not new , some organizers
+      told Truthout that the scale and the brazen racism, as well as the lack of transparency,
+      on display in the Cato raid reflect an escalation in the federal government’s
+      assault on immigrants in the state. “I believe one goal of this operation was
+      to push the boundaries of what’s acceptable,” Jessica Maxwell, executive director
+      of the Workers Center of Central New York, told Truthout . At the same time, the
+      community is responding: holding rallies, ramping up efforts at family preparedness,
+      raising funds for legal support, and reemphasizing the need for state legislation
+      to prohibit local police from collaborating with federal immigration authorities.
+      “We hope this generates the opposite reaction of what federal officials wanted,”
+      said Maxwell. “This might be a real turning point in communities coming together
+      to say, ‘No, we’re not going to tolerate this anymore.’” “The Backbone of Our
+      Economic Success” Central New York is a region dotted with small post-industrial
+      towns and agricultural fields. Syracuse is its main urban hub. The Finger Lakes
+      are nearby. Small manufacturers and apple and dairy farms are key employers. Immigrant
+      workers, overwhelmingly Latinx, make up a chunk of the region’s labor force, especially
+      on the farms. These workers, some of whom have lived in the area for decades,
+      have planted roots and built communities. There are many mixed-status families.
+      “The immigrant community is the backbone of our economic success,” Kayla Kelechian,
+      senior manager of organizing and strategy in central New York for the New York
+      Immigration Coalition, told Truthout . The small town of Cato is a 30-minute drive
+      northwest from Syracuse. It’s home to the Nutrition Bar Confectioners plant, which
+      produces tens of millions of snack bars annually. The company is a big employer
+      of immigrant workers, particularly from Central America. News outlets reported
+      that federal agents showed up on the morning of September 4 and told the owners
+      that they had a search warrant for a “violent felon” in the plant, but what ensued
+      was an hours-long raid that detained dozens of workers, many with valid work permits.
+      In a statement, a DHS spokesperson told Truthout : “Any allegation that ICE did
+      not have a criminal arrest warrant during the operation at Nutrition Bar Confectioners
+      on September 4 is FALSE. This operation involved a criminal search warrant and
+      is a part of an ongoing investigation.” They added: “During the court authorized
+      worksite enforcement operation at Nutrition Bar Confectioners, ICE arrested 57
+      illegal aliens. Some had prior criminal convictions or pending charges including
+      child endangerment, DUI, and multiple illegal re-entries. The investigation is
+      ongoing.” “They Were There to Humiliate People” Ana Mendez, the Western New York
+      regional coordinator with Rural & Migrant Ministry, has close ties to the community.
+      As the raid began, she received an influx of texts from friends and family members
+      inside the plant and rushed to Cato to bear witness and offer support. I asked
+      Mendez what is not getting enough attention in the media coverage around the raid,
+      and she was quick to reply: the aggression of the raid, and the way that federal
+      agents dehumanized the workers they detained. She said that federal agents brought
+      dogs, ATVs and dune buggies to the plant, had marked and unmarked cars, and were
+      all “very armed.” Officers were aggressively grabbing and zip-tying workers, Mendez
+      said. “They were there to humiliate people and strip away their dignity,” she
+      said. One worker who was deported later told Mendez that an agent wedged his knee
+      on another worker’s neck. Mendez observed officers laughing during the raid. One
+      worker was reportedly hit in the back of the head. Maxwell told Truthout that
+      workers with valid working papers were “bullied” by officers and told their papers
+      were “fake.” The Syracuse Post-Standard reported that workers were told their
+      work permits were “not enough.” One Customs and Border Protection officer gloated
+      : “We found their sanctuary.” Maxwell added that many single mothers were detained,
+      along with mothers who were still nursing small children. She said the scale of
+      the raid is the biggest she’s seen in 10 years of organizing. “It’s sending shockwaves
+      through the community,” said Maxwell. “It feels like everyone is being targeted.”
+      The raid in Cato came the same day as ICE also conducted a mass raid at a Hyundai
+      plant in Georgia, detaining nearly 500 workers, most of them from South Korea.
+      “A Lot of These People Have Been Disappeared” Mendez said the workers were taken
+      to the U.S. Customs and Border Protection’s Oswego Station nearby and then soon
+      transferred to different detention facilities, from Buffalo and Niagara Falls
+      to Texas and Louisiana. “It was horrible news when we heard that people were already
+      in Texas,” said Mendez. “We knew some of these people were going to be deported.”
+      The detention process was very disorganized, said Mendez, with peoples’ identities
+      and personal data inaccurately logged by federal agents, creating difficulties
+      for families and attorneys. Many were not allowed to gather personal belongings
+      and received no legal representation. Maxwell said some people were transferred
+      to as many as three different Customs and Border Patrol stations before landing
+      in a detention center. “A lot of these people have been disappeared,” said Mendez.
+      Federal agents wore masks during the raid and only presented an administrative
+      rather than a criminal warrant. No “violent criminal” was found. Just five workers
+      were charged with reentry. Many workers who were detained had valid working papers
+      or cases in progress and are married to U.S. citizens or have children who are
+      citizens. “None of that mattered,” said Mendez. “You never imagined these things,
+      just the violation of human rights and due process.” Organizers say around a dozen
+      workers have been deported so far. Mendez has remained in touch with some of them.
+      “They’re Terrorizing Kids” Locally, the raid’s biggest impacts have been on families.
+      Parents and breadwinners have been detained and deported . Some extended families
+      had multiple members who were taken. “It’s a community-wide impact that has really
+      shaken people’s sense of safety and security,” said Maxwell. Maxwell says the
+      raid has inflicted intense trauma on children who don’t know when they will see
+      their parents again. Multiple students in the same school had family members taken.
+      Some children fear going outside. Kelechian says it “kills her” to tell families
+      that she doesn’t know when they will see their loved ones again. “They’re terrorizing
+      kids,” said Kelechian. “What is the goal of taking all of these families and ripping
+      them apart other than cruelty?” New York Gov. Kathy Hochul said in an early statement
+      that “parents of at least a dozen children” were detained. Maxwell told Truthout
+      that at least 21 cases of people still being detained or deported involve separation
+      from children. Three babies, a seven-month old and two 15-month olds, are still
+      without their parents. She said least two pregnant people are still in detention.
+      Maxwell said some parents who are breastfeeding have been released. Mendez also
+      stressed the economic impact of the raid. “These families contribute money to
+      the area,” she said. “It’s definitely going to hit hard, because this is a rural
+      economy.” “It’s About People’s Skin Color” While raids are not wholly new to the
+      region, the scale of the Cato raid feels “overwhelming,” says Maxwell. “It feels
+      like an invasion of our community and a huge overreach of federal authority,”
+      she said. During the raid, workers were sorted by race , with Latino workers targeted
+      while white workers could leave. Federal agents have been emboldened by the U.S.
+      Supreme Court’s recent ruling that Immigration and Customs Enforcement (ICE) could
+      racially profile Latinx people in Los Angeles. Multiple people told Truthout that
+      county police have been collaborating with federal authorities and have escalated
+      their surveillance and profiling people since Donald Trump was elected. Maxwell
+      says sheriff’s officers have been racially profiling people in Oswego County “for
+      months” and “demanding that anybody who looks Latino prove their right to be here.”
+      Kelechian said police are monitoring specific traffic routes to stop people and
+      following them from grocery stores. “The big shift since Trump took office is
+      the county police forces taking this opportunity to ravage communities and racially
+      profile,” she said. “I’m a Brown woman, and I fear driving to Oswego,” said Kelechian.
+      “It’s total racial profiling.” The New York attorney general is currently pursuing
+      a civil rights investigation into the Oswego County Sheriff’s Office over its
+      immigration enforcement in cooperation with federal agencies amid accusations
+      of racial profiling of Latinos; Oswego County borders Cayuga County, where Cato
+      is located. Oswego County Sheriff Don Hilton once joined a pro-Trump flotilla
+      using a county patrol boat that flew a “Make America Great Again” flag. In response
+      to a request for comment, Lieutenant Andrew J. Bucher of the Oswego County Sheriff’s
+      Office told Truthout that “[w]e are absolutely not racially profiling and any
+      interaction we have had with members of the public, Latino or otherwise, was initiated
+      by unlawful activity, traffic infractions, or any other type of police function.”
+      “An Outpouring of Support” While the community is rattled, organizers are heartened
+      by the local response. “The only bright spot here is we’ve had an outpouring of
+      support,” said Maxwell. “It seems like every sector of the community is outraged
+      and shocked by what happened.” Maxwell said the Greater Syracuse Labor Council
+      has been sending donations and churches and food pantries have been offering help.
+      School districts are trying to support students, and some elected officials have
+      been reaching out. Local organizations and community members have been holding
+      rallies . Local organizers and supporters are focused on a few things to support
+      the community. One is strengthening family preparation by connecting people to
+      legal consults and immigration attorneys, and helping families develop back-up
+      plans, especially for children, if further raids or arrests happen. They’re also
+      launching fundraisers and accepting donations to provide direct support for families
+      and pay for legal fees. Kelechian said more state funding is needed for immigrant
+      legal services. “There are not enough immigration attorneys, especially in upstate
+      New York,” she said. Kelechian also stressed the need for New York State lawmakers
+      to pass the New York For All Act , which would end the collusion of local and
+      state law enforcement with ICE. Maxwell says that supporters need to put pressure
+      on elected officials, like Senators Chuck Schumer and Kirsten Gillibrand, to do
+      more. “It’s time for people to really call them out and push them to stand up
+      for us,” she said. Maxwell also emphasized that employers need to be ready for
+      the possibility of raids. “We’re nine months into this administration,” she said.
+      “I think any employer with a significant population of immigrant workers needs
+      to be 150 percent prepared for this kind of thing to happen. It doesn’t feel like
+      this employer was prepared.” More broadly, local organizers stressed the need
+      for transparency and accountability following the raid. Mendez suggested people
+      meet with local leaders and law enforcement and try “to get a feel of how they’re
+      going about” immigration enforcement and to hold them to account. Weeks later,
+      organizers still note the brazen assault on basic rights during the raid. “You
+      just throw out the word ‘criminal’ and you can racially profile and violate human
+      rights and violate due process? Where’s the accountability? Where’s the transparency?
+      It’s like there are no rules anymore,” Mendez said. Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Derek Seidman
+      Derek Seidman is a writer, researcher and historian living in Buffalo, New York.
+      He is a regular contributor for Truthout and a contributing writer for LittleSis.
+      Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: On September 4, federal agents conducted a controversial raid
+      at a snack bar factory in Cato, New York, detaining at least 69 mostly Latinx
+      workers, with reports of aggressive tactics used during the operation, despite
+      some having valid work permits.
+    paragraph_summary: On September 4, federal agents conducted a raid at a snack bar
+      factory in Cato, New York, claiming to search for a "violent felon" but primarily
+      detaining workers who appeared Latinx, resulting in at least 69 initial detentions,
+      with 57 still in custody or deported. Reports indicate aggressive tactics were
+      used during the raid, affecting mostly Central American workers, many of whom
+      had lived in the area for years and possessed valid work permits. The incident
+      has sparked national attention and heightened fears within the local immigrant
+      community, prompting organizers to express concerns about escalating federal actions
+      against immigrants and to mobilize community support through rallies and legal
+      aid efforts. Jessica Maxwell, director of the Workers Center of Central New York,
+      suggested that the raid aimed to test the limits of acceptable government conduct
+      regarding immigration enforcement.
+    published: '2025-09-27T12:49:04+00:00'
+  - title: Sweeping ICE Raid Shakes Small New York Town as Dozens Remain ‘Disappeared’
+    url: https://scheerpost.com/2025/09/27/sweeping-ice-raid-shakes-small-new-york-town-as-dozens-remain-disappeared/
+    text: 'U.S. Immigration and Customs Enforcement (ICE). usicegov, Public domain,
+      via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Derek Seidman / Truthout On the morning of September 4, dozens of
+      masked federal agents raided a snack bar factory in the small town of Cato, New
+      York. They claimed there was a “violent felon” in the plant, but proceeded to
+      siphon off and hold anyone who looked Latinx. At least 69 workers were initially
+      detained, with 57 still in custody or deported, though some say that could be
+      an undercount. There are multiple reports of aggression — knees on necks, blows
+      to heads — used during the raid. The workers were mostly from Central America,
+      especially Guatemala. Some had lived in the region for decades. Many are parents.
+      Even those who presented valid working permits were taken. Sources tell Truthout
+      that around a dozen workers have been deported while others linger in detention
+      facilities across the U.S. The raid in Cato has garnered national attention and
+      shaken the immigrant community of central New York. While targeting and raids
+      against immigrant workers and communities in the region are not new , some organizers
+      told Truthout that the scale and the brazen racism, as well as the lack of transparency,
+      on display in the Cato raid reflect an escalation in the federal government’s
+      assault on immigrants in the state. “I believe one goal of this operation was
+      to push the boundaries of what’s acceptable,” Jessica Maxwell, executive director
+      of the Workers Center of Central New York, told Truthout . At the same time, the
+      community is responding: holding rallies, ramping up efforts at family preparedness,
+      raising funds for legal support, and reemphasizing the need for state legislation
+      to prohibit local police from collaborating with federal immigration authorities.
+      “We hope this generates the opposite reaction of what federal officials wanted,”
+      said Maxwell. “This might be a real turning point in communities coming together
+      to say, ‘No, we’re not going to tolerate this anymore.’” “The Backbone of Our
+      Economic Success” Central New York is a region dotted with small post-industrial
+      towns and agricultural fields. Syracuse is its main urban hub. The Finger Lakes
+      are nearby. Small manufacturers and apple and dairy farms are key employers. Immigrant
+      workers, overwhelmingly Latinx, make up a chunk of the region’s labor force, especially
+      on the farms. These workers, some of whom have lived in the area for decades,
+      have planted roots and built communities. There are many mixed-status families.
+      “The immigrant community is the backbone of our economic success,” Kayla Kelechian,
+      senior manager of organizing and strategy in central New York for the New York
+      Immigration Coalition, told Truthout . The small town of Cato is a 30-minute drive
+      northwest from Syracuse. It’s home to the Nutrition Bar Confectioners plant, which
+      produces tens of millions of snack bars annually. The company is a big employer
+      of immigrant workers, particularly from Central America. News outlets reported
+      that federal agents showed up on the morning of September 4 and told the owners
+      that they had a search warrant for a “violent felon” in the plant, but what ensued
+      was an hours-long raid that detained dozens of workers, many with valid work permits.
+      In a statement, a DHS spokesperson told Truthout : “Any allegation that ICE did
+      not have a criminal arrest warrant during the operation at Nutrition Bar Confectioners
+      on September 4 is FALSE. This operation involved a criminal search warrant and
+      is a part of an ongoing investigation.” They added: “During the court authorized
+      worksite enforcement operation at Nutrition Bar Confectioners, ICE arrested 57
+      illegal aliens. Some had prior criminal convictions or pending charges including
+      child endangerment, DUI, and multiple illegal re-entries. The investigation is
+      ongoing.” “They Were There to Humiliate People” Ana Mendez, the Western New York
+      regional coordinator with Rural & Migrant Ministry, has close ties to the community.
+      As the raid began, she received an influx of texts from friends and family members
+      inside the plant and rushed to Cato to bear witness and offer support. I asked
+      Mendez what is not getting enough attention in the media coverage around the raid,
+      and she was quick to reply: the aggression of the raid, and the way that federal
+      agents dehumanized the workers they detained. She said that federal agents brought
+      dogs, ATVs and dune buggies to the plant, had marked and unmarked cars, and were
+      all “very armed.” Officers were aggressively grabbing and zip-tying workers, Mendez
+      said. “They were there to humiliate people and strip away their dignity,” she
+      said. One worker who was deported later told Mendez that an agent wedged his knee
+      on another worker’s neck. Mendez observed officers laughing during the raid. One
+      worker was reportedly hit in the back of the head. Maxwell told Truthout that
+      workers with valid working papers were “bullied” by officers and told their papers
+      were “fake.” The Syracuse Post-Standard reported that workers were told their
+      work permits were “not enough.” One Customs and Border Protection officer gloated
+      : “We found their sanctuary.” Maxwell added that many single mothers were detained,
+      along with mothers who were still nursing small children. She said the scale of
+      the raid is the biggest she’s seen in 10 years of organizing. “It’s sending shockwaves
+      through the community,” said Maxwell. “It feels like everyone is being targeted.”
+      The raid in Cato came the same day as ICE also conducted a mass raid at a Hyundai
+      plant in Georgia, detaining nearly 500 workers, most of them from South Korea.
+      “A Lot of These People Have Been Disappeared” Mendez said the workers were taken
+      to the U.S. Customs and Border Protection’s Oswego Station nearby and then soon
+      transferred to different detention facilities, from Buffalo and Niagara Falls
+      to Texas and Louisiana. “It was horrible news when we heard that people were already
+      in Texas,” said Mendez. “We knew some of these people were going to be deported.”
+      The detention process was very disorganized, said Mendez, with peoples’ identities
+      and personal data inaccurately logged by federal agents, creating difficulties
+      for families and attorneys. Many were not allowed to gather personal belongings
+      and received no legal representation. Maxwell said some people were transferred
+      to as many as three different Customs and Border Patrol stations before landing
+      in a detention center. “A lot of these people have been disappeared,” said Mendez.
+      Federal agents wore masks during the raid and only presented an administrative
+      rather than a criminal warrant. No “violent criminal” was found. Just five workers
+      were charged with reentry. Many workers who were detained had valid working papers
+      or cases in progress and are married to U.S. citizens or have children who are
+      citizens. “None of that mattered,” said Mendez. “You never imagined these things,
+      just the violation of human rights and due process.” Organizers say around a dozen
+      workers have been deported so far. Mendez has remained in touch with some of them.
+      “They’re Terrorizing Kids” Locally, the raid’s biggest impacts have been on families.
+      Parents and breadwinners have been detained and deported . Some extended families
+      had multiple members who were taken. “It’s a community-wide impact that has really
+      shaken people’s sense of safety and security,” said Maxwell. Maxwell says the
+      raid has inflicted intense trauma on children who don’t know when they will see
+      their parents again. Multiple students in the same school had family members taken.
+      Some children fear going outside. Kelechian says it “kills her” to tell families
+      that she doesn’t know when they will see their loved ones again. “They’re terrorizing
+      kids,” said Kelechian. “What is the goal of taking all of these families and ripping
+      them apart other than cruelty?” New York Gov. Kathy Hochul said in an early statement
+      that “parents of at least a dozen children” were detained. Maxwell told Truthout
+      that at least 21 cases of people still being detained or deported involve separation
+      from children. Three babies, a seven-month old and two 15-month olds, are still
+      without their parents. She said least two pregnant people are still in detention.
+      Maxwell said some parents who are breastfeeding have been released. Mendez also
+      stressed the economic impact of the raid. “These families contribute money to
+      the area,” she said. “It’s definitely going to hit hard, because this is a rural
+      economy.” “It’s About People’s Skin Color” While raids are not wholly new to the
+      region, the scale of the Cato raid feels “overwhelming,” says Maxwell. “It feels
+      like an invasion of our community and a huge overreach of federal authority,”
+      she said. During the raid, workers were sorted by race , with Latino workers targeted
+      while white workers could leave. Federal agents have been emboldened by the U.S.
+      Supreme Court’s recent ruling that Immigration and Customs Enforcement (ICE) could
+      racially profile Latinx people in Los Angeles. Multiple people told Truthout that
+      county police have been collaborating with federal authorities and have escalated
+      their surveillance and profiling people since Donald Trump was elected. Maxwell
+      says sheriff’s officers have been racially profiling people in Oswego County “for
+      months” and “demanding that anybody who looks Latino prove their right to be here.”
+      Kelechian said police are monitoring specific traffic routes to stop people and
+      following them from grocery stores. “The big shift since Trump took office is
+      the county police forces taking this opportunity to ravage communities and racially
+      profile,” she said. “I’m a Brown woman, and I fear driving to Oswego,” said Kelechian.
+      “It’s total racial profiling.” The New York attorney general is currently pursuing
+      a civil rights investigation into the Oswego County Sheriff’s Office over its
+      immigration enforcement in cooperation with federal agencies amid accusations
+      of racial profiling of Latinos; Oswego County borders Cayuga County, where Cato
+      is located. Oswego County Sheriff Don Hilton once joined a pro-Trump flotilla
+      using a county patrol boat that flew a “Make America Great Again” flag. In response
+      to a request for comment, Lieutenant Andrew J. Bucher of the Oswego County Sheriff’s
+      Office told Truthout that “[w]e are absolutely not racially profiling and any
+      interaction we have had with members of the public, Latino or otherwise, was initiated
+      by unlawful activity, traffic infractions, or any other type of police function.”
+      “An Outpouring of Support” While the community is rattled, organizers are heartened
+      by the local response. “The only bright spot here is we’ve had an outpouring of
+      support,” said Maxwell. “It seems like every sector of the community is outraged
+      and shocked by what happened.” Maxwell said the Greater Syracuse Labor Council
+      has been sending donations and churches and food pantries have been offering help.
+      School districts are trying to support students, and some elected officials have
+      been reaching out. Local organizations and community members have been holding
+      rallies . Local organizers and supporters are focused on a few things to support
+      the community. One is strengthening family preparation by connecting people to
+      legal consults and immigration attorneys, and helping families develop back-up
+      plans, especially for children, if further raids or arrests happen. They’re also
+      launching fundraisers and accepting donations to provide direct support for families
+      and pay for legal fees. Kelechian said more state funding is needed for immigrant
+      legal services. “There are not enough immigration attorneys, especially in upstate
+      New York,” she said. Kelechian also stressed the need for New York State lawmakers
+      to pass the New York For All Act , which would end the collusion of local and
+      state law enforcement with ICE. Maxwell says that supporters need to put pressure
+      on elected officials, like Senators Chuck Schumer and Kirsten Gillibrand, to do
+      more. “It’s time for people to really call them out and push them to stand up
+      for us,” she said. Maxwell also emphasized that employers need to be ready for
+      the possibility of raids. “We’re nine months into this administration,” she said.
+      “I think any employer with a significant population of immigrant workers needs
+      to be 150 percent prepared for this kind of thing to happen. It doesn’t feel like
+      this employer was prepared.” More broadly, local organizers stressed the need
+      for transparency and accountability following the raid. Mendez suggested people
+      meet with local leaders and law enforcement and try “to get a feel of how they’re
+      going about” immigration enforcement and to hold them to account. Weeks later,
+      organizers still note the brazen assault on basic rights during the raid. “You
+      just throw out the word ‘criminal’ and you can racially profile and violate human
+      rights and violate due process? Where’s the accountability? Where’s the transparency?
+      It’s like there are no rules anymore,” Mendez said. Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Derek Seidman
+      Derek Seidman is a writer, researcher and historian living in Buffalo, New York.
+      He is a regular contributor for Truthout and a contributing writer for LittleSis.
+      Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: On September 4, federal agents conducted a controversial raid
+      at a snack bar factory in Cato, New York, detaining at least 69 mostly Latinx
+      workers, with reports of aggressive tactics used during the operation, despite
+      some having valid work permits.
+    paragraph_summary: On September 4, federal agents conducted a raid at a snack bar
+      factory in Cato, New York, claiming to search for a "violent felon" but primarily
+      detaining workers who appeared Latinx, resulting in at least 69 initial detentions,
+      with 57 still in custody or deported. Reports indicate aggressive tactics were
+      used during the raid, affecting mostly Central American workers, many of whom
+      had lived in the area for years and possessed valid work permits. The incident
+      has sparked national attention and heightened fears within the local immigrant
+      community, prompting organizers to express concerns about escalating federal actions
+      against immigrants and to mobilize community support through rallies and legal
+      aid efforts. Jessica Maxwell, director of the Workers Center of Central New York,
+      suggested that the raid aimed to test the limits of acceptable government conduct
+      regarding immigration enforcement.
+    published: '2025-09-27T12:49:04+00:00'
+  - title: In Move That Could Bring In NATO, Spain Joins Italy in Sending Rescue Ship
+      for Sumud Gaza Aid Flotilla
+    url: https://scheerpost.com/2025/09/26/in-move-that-could-bring-in-nato-spain-joins-italy-in-sending-rescue-ship-for-sumud-gaza-aid-flotilla/
+    text: 'Global Sumud Flotilla. Brahim Guedich, CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Juan Cole / Informed Comment Ann Arbor (Informed Comment) – On Wednesday,
+      the socialist government of Pedro Sánchez in Spain announced that it would dispatch
+      a rescue ship to be in the vicinity of the 50 ships that make up the Sumud (steadfastness)
+      flotilla aiming to provide humanitarian relief to the Gaza Strip. It joins Italy
+      in this endeavor. This according to Carlos E. Cué and Miguel González at El Pais
+      . The Sumud has come under repeated Israeli drone fire. On Wednesday, Israeli
+      drones dropped explosives in the vicinity of the ships moored off the island of
+      Crete, but caused no damage or injuries. Prime Minister Sánchez said from the
+      UN General Assembly meeting in New York, “The government of Spain requires that
+      international law be observed and that the right of our citizens to navigate the
+      Mediterranean in conditions of security be respected. For this reason, tomorrow
+      a Maritime Action vessel will depart [the base in Cartagena] with all the means
+      of assisting the flotilla or of carrying out any rescue, if necessary.” Israel
+      has routinely violated the law of the seas by attacking ships in international
+      waters. Spanish citizens are taking part in the Sumud flotilla, and Spain is saying
+      they have the right to do so. Some 82% of Spaniards categorize what Israel is
+      doing in Gaza as a genocide, a massive proportion that demonstrates that Israel’s
+      actions are condemned by large numbers of people on both the left and the right.
+      But note that 85% of centrists and 97% of Spaniards on the left view the Gaza
+      campaign as genocidal. The Maritime Action ship is not intended to shoot down
+      attacking Israeli drones or to defend the Sumud ships from being boarded by the
+      Israeli military. It will, however, rescue any passengers that end up in the sea
+      because of Israeli actions. It should be underlined, however, that it is entirely
+      possible that the Maritime Action vessel will come under Israeli fire, which would
+      spark an enormous diplomatic and military crisis. Spain and Italy are both NATO
+      members, and Article 5 says that “an attack on one is an attack on all.” NATO
+      invoked this principle after the September 11, 2001, al-Qaida attacks on New York
+      City and Washington, D. C., which is why there were NATO troops in Afghanistan
+      but not in Iraq, which the rest of NATO did not view as a belligerent. Thus, if
+      Israel attacks the Spanish escort ship, it could stir up a strong European reaction,
+      and would put the Trump administration on the spot, since Trump will side with
+      Israel against NATO. Spain’s maritime action vessels can accommodate 80 passengers.
+      They are also armed with a 76-millimeter gun, two machine guns, and a surveillance
+      drone of their own. This one will have a crew of 50 and 8 medical staff. Sanchez’s
+      government reached out to Italy for coordination, and sought to add another country
+      to the escort, such as Ireland. For her part, Italian PM Giorgia Meloni, from
+      a far right party, faced a national strike involving 500,000 people on Monday
+      over her refusal to recognize a Palestinian state alongside France and Britain.
+      She said Tuesday that she’d recognize Palestine if Hamas releases Israeli hostages
+      and if the organization is excluded from any Palestinian government going forward.
+      This position was the one taken by British Prime Minister Keir Starmer until Sunday,
+      when he folded before the weight of sentiment among his back-benchers. Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Juan Cole Juan
+      Cole, a TomDispatch regular , is the Richard P. Mitchell collegiate professor
+      of history at the University of Michigan. He is the author of The Rubaiyat of
+      Omar Khayyam: A New Translation From the Persian and Muhammad: Prophet of Peace
+      Amid the Clash of Empires . His latest book is Peace Movements in Islam . His
+      award-winning blog is Informed Comment . He is also a non-resident Fellow of the
+      Center for Conflict and Humanitarian Studies in Doha and of Democracy for the
+      Arab World Now (DAWN). Author Site Please share this story and help us grow our
+      network!'
+    one_sentence_summary: Spain's socialist government, led by Prime Minister Pedro
+      Sánchez, announced the deployment of a rescue ship to support the humanitarian
+      efforts of the Sumud flotilla near Gaza, which has faced Israeli drone attacks.
+    paragraph_summary: The Spanish government, led by socialist Prime Minister Pedro
+      Sánchez, has announced plans to send a rescue ship to support the Sumud flotilla,
+      which is providing humanitarian aid to the Gaza Strip and has faced Israeli drone
+      attacks. This initiative follows Italy's similar commitment and comes amid widespread
+      condemnation of Israel's actions in Gaza, with a significant majority of Spaniards,
+      including 97% of those on the left, labeling Israel's campaign as genocidal. The
+      Maritime Action vessel, departing from Cartagena, aims to ensure the safety of
+      the flotilla and assist if necessary, while emphasizing the importance of adhering
+      to international law and the right of citizens to navigate the Mediterranean securely.
+    published: '2025-09-26T09:30:00+00:00'
+  - title: In Move That Could Bring In NATO, Spain Joins Italy in Sending Rescue Ship
+      for Sumud Gaza Aid Flotilla
+    url: https://scheerpost.com/2025/09/26/in-move-that-could-bring-in-nato-spain-joins-italy-in-sending-rescue-ship-for-sumud-gaza-aid-flotilla/
+    text: 'Global Sumud Flotilla. Brahim Guedich, CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Juan Cole / Informed Comment Ann Arbor (Informed Comment) – On Wednesday,
+      the socialist government of Pedro Sánchez in Spain announced that it would dispatch
+      a rescue ship to be in the vicinity of the 50 ships that make up the Sumud (steadfastness)
+      flotilla aiming to provide humanitarian relief to the Gaza Strip. It joins Italy
+      in this endeavor. This according to Carlos E. Cué and Miguel González at El Pais
+      . The Sumud has come under repeated Israeli drone fire. On Wednesday, Israeli
+      drones dropped explosives in the vicinity of the ships moored off the island of
+      Crete, but caused no damage or injuries. Prime Minister Sánchez said from the
+      UN General Assembly meeting in New York, “The government of Spain requires that
+      international law be observed and that the right of our citizens to navigate the
+      Mediterranean in conditions of security be respected. For this reason, tomorrow
+      a Maritime Action vessel will depart [the base in Cartagena] with all the means
+      of assisting the flotilla or of carrying out any rescue, if necessary.” Israel
+      has routinely violated the law of the seas by attacking ships in international
+      waters. Spanish citizens are taking part in the Sumud flotilla, and Spain is saying
+      they have the right to do so. Some 82% of Spaniards categorize what Israel is
+      doing in Gaza as a genocide, a massive proportion that demonstrates that Israel’s
+      actions are condemned by large numbers of people on both the left and the right.
+      But note that 85% of centrists and 97% of Spaniards on the left view the Gaza
+      campaign as genocidal. The Maritime Action ship is not intended to shoot down
+      attacking Israeli drones or to defend the Sumud ships from being boarded by the
+      Israeli military. It will, however, rescue any passengers that end up in the sea
+      because of Israeli actions. It should be underlined, however, that it is entirely
+      possible that the Maritime Action vessel will come under Israeli fire, which would
+      spark an enormous diplomatic and military crisis. Spain and Italy are both NATO
+      members, and Article 5 says that “an attack on one is an attack on all.” NATO
+      invoked this principle after the September 11, 2001, al-Qaida attacks on New York
+      City and Washington, D. C., which is why there were NATO troops in Afghanistan
+      but not in Iraq, which the rest of NATO did not view as a belligerent. Thus, if
+      Israel attacks the Spanish escort ship, it could stir up a strong European reaction,
+      and would put the Trump administration on the spot, since Trump will side with
+      Israel against NATO. Spain’s maritime action vessels can accommodate 80 passengers.
+      They are also armed with a 76-millimeter gun, two machine guns, and a surveillance
+      drone of their own. This one will have a crew of 50 and 8 medical staff. Sanchez’s
+      government reached out to Italy for coordination, and sought to add another country
+      to the escort, such as Ireland. For her part, Italian PM Giorgia Meloni, from
+      a far right party, faced a national strike involving 500,000 people on Monday
+      over her refusal to recognize a Palestinian state alongside France and Britain.
+      She said Tuesday that she’d recognize Palestine if Hamas releases Israeli hostages
+      and if the organization is excluded from any Palestinian government going forward.
+      This position was the one taken by British Prime Minister Keir Starmer until Sunday,
+      when he folded before the weight of sentiment among his back-benchers. Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Juan Cole Juan
+      Cole, a TomDispatch regular , is the Richard P. Mitchell collegiate professor
+      of history at the University of Michigan. He is the author of The Rubaiyat of
+      Omar Khayyam: A New Translation From the Persian and Muhammad: Prophet of Peace
+      Amid the Clash of Empires . His latest book is Peace Movements in Islam . His
+      award-winning blog is Informed Comment . He is also a non-resident Fellow of the
+      Center for Conflict and Humanitarian Studies in Doha and of Democracy for the
+      Arab World Now (DAWN). Author Site Please share this story and help us grow our
+      network!'
+    one_sentence_summary: Spain's socialist government, led by Prime Minister Pedro
+      Sánchez, announced the deployment of a rescue ship to support the humanitarian
+      efforts of the Sumud flotilla near Gaza, which has faced Israeli drone attacks.
+    paragraph_summary: The Spanish government, led by socialist Prime Minister Pedro
+      Sánchez, has announced plans to send a rescue ship to support the Sumud flotilla,
+      which is providing humanitarian aid to the Gaza Strip and has faced Israeli drone
+      attacks. This initiative follows Italy's similar commitment and comes amid widespread
+      condemnation of Israel's actions in Gaza, with a significant majority of Spaniards,
+      including 97% of those on the left, labeling Israel's campaign as genocidal. The
+      Maritime Action vessel, departing from Cartagena, aims to ensure the safety of
+      the flotilla and assist if necessary, while emphasizing the importance of adhering
+      to international law and the right of citizens to navigate the Mediterranean securely.
+    published: '2025-09-26T09:30:00+00:00'
+  - title: '‘Drop in the Bucket’: Lina Khan Rips Trump FTC for Giving Amazon a Wrist-Slap
+      Settlement'
+    url: https://scheerpost.com/2025/09/26/drop-in-the-bucket-lina-khan-rips-trump-ftc-for-giving-amazon-a-wrist-slap-settlement/
+    text: 'Amazon Truck. TaurusEmerald, CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Brad Reed / Common Dreams The Federal Trade Commission announced
+      on Thursday it had reached a settlement with Amazon over allegations that the
+      online retailer had tricked consumers into subscribing to its Prime service—but
+      the woman who led the FTC under former President Joe Biden was not impressed.
+      According to the FTC, Amazon has agreed to pay $2.5 billion to settle claims that
+      it deceived customers into subscribing to Prime and then deliberately made it
+      difficult for them to cancel. In all, Amazon will pay a $1 billion civil penalty,
+      as well as $1.5 billion in refunds to consumers who unwittingly subscribed to
+      Prime. FTC Chairman Andrew Ferguson framed the settlement as a victory for the
+      Trump administration and touted the deal as “a record-breaking, monumental win
+      for the millions of Americans who are tired of deceptive subscriptions that feel
+      impossible to cancel.” Ferguson also said the settlement would ensure “Amazon
+      never does this again.” Amazon, for its part, said in a statement that it didn’t
+      break any laws despite agreeing to pay out billions. “Amazon and our executives
+      have always followed the law and this settlement allows us to move forward and
+      focus on innovating for customers,” the company said . “We work incredibly hard
+      to make it clear and simple for customers to both sign up or cancel their Prime
+      membership, and to offer substantial value for our many millions of loyal Prime
+      members around the world.” However, former FTC Chairwoman Lina Khan accused the
+      agency of letting Amazon off easy, while describing the $2.5 billion settlement
+      as a “drop in the bucket” for the tech giant. “In 2023, we sued Amazon and several
+      top executives for tricking people into Prime subscriptions and then making it
+      absurdly difficult to cancel,” she explained in a post on X. “This week marked
+      the start of a historic jury trial, where American citizens would hear details
+      of Amazon’s business practices and determine if it had broken the law. A couple
+      of days into trial, FTC announces it has settled all charges, rescuing Amazon
+      from likely being found liable for having violated the law and allowing it to
+      pay its way out.” Khan added that the settlement was “no doubt, a big relief for
+      the executives who knowingly harmed their customers.” Amazon currently has a market
+      cap of over $2.3 trillion, meaning the $2.5 billion settlement represents a little
+      more than one-tenth of 1% of its total worth. Its billionaire founder, Jeff Bezos,
+      is among the richest people on Earth, with an estimated net worth of nearly $240
+      billion. Matthew Stoller, an antitrust advocate and researcher at the American
+      Economic Liberties Project, faulted the FTC for letting Amazon settle without
+      any admission of wrongdoing. “A judge already ruled in summary judgment they violated
+      the law,” Stoller observed . Amazon may not be completely out of the woods legally,
+      however. As NPR noted on Thursday, Amazon “still faces another, bigger federal
+      lawsuit, in which the FTC has accused the company of functioning as a monopoly.”
+      That trial is currently projected to begin in early 2027, NPR added. Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Brad Reed Brad
+      Reed is a staff writer for Common Dreams. Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: The Federal Trade Commission has settled with Amazon for $2.5
+      billion over allegations of misleading consumers into subscribing to its Prime
+      service and complicating the cancellation process, although the former FTC chair
+      under President Biden expressed dissatisfaction with the outcome.
+    paragraph_summary: The Federal Trade Commission (FTC) has reached a $2.5 billion
+      settlement with Amazon over allegations that the company misled consumers into
+      subscribing to its Prime service and made cancellation difficult. The settlement
+      includes a $1 billion civil penalty and $1.5 billion in refunds to affected customers.
+      FTC Chairman Andrew Ferguson hailed the agreement as a significant victory for
+      consumers, while Amazon maintained that it did not violate any laws and emphasized
+      its commitment to customer clarity regarding subscriptions. However, former FTC
+      Chairwoman Lina Khan criticized the settlement as insufficient, arguing that it
+      represents only a small fraction of Amazon's financial resources.
+    published: '2025-09-26T09:20:00+00:00'
+  - title: '‘Drop in the Bucket’: Lina Khan Rips Trump FTC for Giving Amazon a Wrist-Slap
+      Settlement'
+    url: https://scheerpost.com/2025/09/26/drop-in-the-bucket-lina-khan-rips-trump-ftc-for-giving-amazon-a-wrist-slap-settlement/
+    text: 'Amazon Truck. TaurusEmerald, CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Brad Reed / Common Dreams The Federal Trade Commission announced
+      on Thursday it had reached a settlement with Amazon over allegations that the
+      online retailer had tricked consumers into subscribing to its Prime service—but
+      the woman who led the FTC under former President Joe Biden was not impressed.
+      According to the FTC, Amazon has agreed to pay $2.5 billion to settle claims that
+      it deceived customers into subscribing to Prime and then deliberately made it
+      difficult for them to cancel. In all, Amazon will pay a $1 billion civil penalty,
+      as well as $1.5 billion in refunds to consumers who unwittingly subscribed to
+      Prime. FTC Chairman Andrew Ferguson framed the settlement as a victory for the
+      Trump administration and touted the deal as “a record-breaking, monumental win
+      for the millions of Americans who are tired of deceptive subscriptions that feel
+      impossible to cancel.” Ferguson also said the settlement would ensure “Amazon
+      never does this again.” Amazon, for its part, said in a statement that it didn’t
+      break any laws despite agreeing to pay out billions. “Amazon and our executives
+      have always followed the law and this settlement allows us to move forward and
+      focus on innovating for customers,” the company said . “We work incredibly hard
+      to make it clear and simple for customers to both sign up or cancel their Prime
+      membership, and to offer substantial value for our many millions of loyal Prime
+      members around the world.” However, former FTC Chairwoman Lina Khan accused the
+      agency of letting Amazon off easy, while describing the $2.5 billion settlement
+      as a “drop in the bucket” for the tech giant. “In 2023, we sued Amazon and several
+      top executives for tricking people into Prime subscriptions and then making it
+      absurdly difficult to cancel,” she explained in a post on X. “This week marked
+      the start of a historic jury trial, where American citizens would hear details
+      of Amazon’s business practices and determine if it had broken the law. A couple
+      of days into trial, FTC announces it has settled all charges, rescuing Amazon
+      from likely being found liable for having violated the law and allowing it to
+      pay its way out.” Khan added that the settlement was “no doubt, a big relief for
+      the executives who knowingly harmed their customers.” Amazon currently has a market
+      cap of over $2.3 trillion, meaning the $2.5 billion settlement represents a little
+      more than one-tenth of 1% of its total worth. Its billionaire founder, Jeff Bezos,
+      is among the richest people on Earth, with an estimated net worth of nearly $240
+      billion. Matthew Stoller, an antitrust advocate and researcher at the American
+      Economic Liberties Project, faulted the FTC for letting Amazon settle without
+      any admission of wrongdoing. “A judge already ruled in summary judgment they violated
+      the law,” Stoller observed . Amazon may not be completely out of the woods legally,
+      however. As NPR noted on Thursday, Amazon “still faces another, bigger federal
+      lawsuit, in which the FTC has accused the company of functioning as a monopoly.”
+      That trial is currently projected to begin in early 2027, NPR added. Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Brad Reed Brad
+      Reed is a staff writer for Common Dreams. Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: The Federal Trade Commission has settled with Amazon for $2.5
+      billion over allegations of misleading consumers into subscribing to its Prime
+      service and complicating the cancellation process, although the former FTC chair
+      under President Biden expressed dissatisfaction with the outcome.
+    paragraph_summary: The Federal Trade Commission (FTC) has reached a $2.5 billion
+      settlement with Amazon over allegations that the company misled consumers into
+      subscribing to its Prime service and made cancellation difficult. The settlement
+      includes a $1 billion civil penalty and $1.5 billion in refunds to affected customers.
+      FTC Chairman Andrew Ferguson hailed the agreement as a significant victory for
+      consumers, while Amazon maintained that it did not violate any laws and emphasized
+      its commitment to customer clarity regarding subscriptions. However, former FTC
+      Chairwoman Lina Khan criticized the settlement as insufficient, arguing that it
+      represents only a small fraction of Amazon's financial resources.
+    published: '2025-09-26T09:20:00+00:00'
+  - title: When Workers Unite, Even Disney Has to Listen
+    url: https://scheerpost.com/2025/09/26/when-workers-unite-even-disney-has-to-listen/
+    text: 'Sleeping Beauty Castle Disneyland Anaheim 2013. Tuxyso / Wikimedia Commons
+      In one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Mark Kreidler / Capital
+      & Main It’s difficult to overstate the significance of last week’s final approval
+      of a $233 million settlement between the Walt Disney Co. and the tens of thousands
+      of Disneyland employees whom the company has underpaid for years. This is a battle
+      that dates to 2018, when Anaheim voters passed a measure — backed by a coalition
+      of unions — that was squarely intended to force the House of Mouse to pay workers
+      something approaching a living wage. Instead, Disney resisted the law for years
+      before finally being held accountable. The settlement certainly matters at the
+      top line. Most of that money will be going to more than 50,000 Disneyland workers
+      who for several years were paid less than they should have been — in some cases,
+      far less. The court’s approval of the settlement also marks the final, official
+      repudiation of Disney’s tactics in skirting the wage law, known in Anaheim as
+      Measure L. The company’s strategy — to deny that the law applied to Disneyland,
+      thus prompting a 2019 class action against it that dragged on for six years —
+      cost the workers heartache and much-needed raises. Now, though, the workers are
+      getting what they’re owed in back pay, plus interest and penalties accruing from
+      the stall tactics. Even their retirement accounts get a boost. But the most important
+      takeaway from this case may well lie at the level of organization. It was through
+      the coordinated efforts of multiple labor groups that the Anaheim wage law got
+      passed in the first place — a grass-roots campaign by Disneyland workers aligned
+      with several different unions, all of which were struggling to achieve reasonable
+      wage gains in their separate negotiations with Disney. The unions operate independently,
+      and their negotiating strategies on behalf of their own members certainly can
+      vary. But in this case, combining forces on the ground enabled them to blanket
+      Anaheim, first gathering enough petition signatures to put the measure on the
+      ballot and then convincing enough voters to support it. In the process, the unions
+      began comparing notes on their respective negotiations, a practice that has since
+      been put into play in a number of labor situations around the Los Angeles area.
+      It’s the smart strategy when it comes to dealing with ever-larger corporate heavyweights.
+      *   *   * The final settlement itself was made official by Orange County Superior
+      Court Judge William Claster. The case was decided in late 2023, when the California
+      Supreme Court refused to hear Disney’s last-ditch appeal after an appellate court
+      determined that Measure L indeed applied to Disneyland. But Claster’s approval
+      was nevertheless momentous; it set in motion the payouts to Disney employees who
+      in some cases have gone years without the money that was rightfully theirs. The
+      ballot materials for Measure L, which were presented as evidence during the class-action
+      suit, make it clear that the law was always aimed at Disney. They state that a
+      yes vote “would require specific hospitality employers in the Disneyland or Anaheim
+      Resort” zones to pay a minimum wage of $15 an hour beginning in 2019. In this
+      case, “specific” meant that the law would apply only to those businesses that
+      received tax breaks from the city. (The state’s minimum wage in 2019 was $12.)
+      Disney contended that it didn’t receive any tax breaks from the city and wasn’t
+      bound by the new wage law, so it was not required to pay the higher minimum wage.
+      But a California appellate court disagreed , ruling that a 1996 agreement between
+      Disneyland and Anaheim included a deal in which the city would repay Disney if
+      the corporation had to cover bond payments that funded its expansion. The state
+      Supreme Court’s denial of appeal was the end of the road for Disney legally, prompting
+      settlement talks. “That 1996 agreement is very complex, and maybe they were banking
+      on no one really being able to unwind it,” said Cornelia Dai, one of the attorneys
+      who represented Disneyland workers in the class action. “This case was a gamble,
+      in that we knew it would be hard to explain the complex financial arrangements.”
+      Disney did not respond to multiple requests for comment. Speaking to the Los Angeles
+      Times last week, Disneyland Resort spokesperson Jessica Jakary said , “Disney
+      cares deeply about our cast members,” using Disneyland’s term for its employees.
+      The spokesperson added that most workers in Disney’s Resort District now earn
+      more than $22 an hour, higher than the $20.42 minimum that is currently required
+      under Measure L. *   *   * The settlement payout is life-changing for some who’ve
+      worked at Disneyland for years. Nathan Delgadillo, a server at a Disneyland Resort
+      hotel for the past seven years, said he’s in line to receive $35,000 in back pay,
+      interest and penalties. “There’s a couple of people who are getting $100,000,”
+      said Delgadillo, 31. “For all the workers, this will have a profoundly positive
+      impact. And as a union, this is our whole program — it’s like having a vision
+      and seeing that vision come true.” Delgadillo is a member of UNITE HERE Local
+      11, one of the primary drivers of the Measure L initiative along with the United
+      Food and Commercial Workers Union, SEIU-United Service Workers West, the Teamsters
+      and others. The unions coordinated their efforts to gain petition signatures to
+      get the measure on the 2018 ballot, then went door to door to rally voter support.
+      (Disclosure: UNITE HERE, SEIU and UFCW are financial supporters of Capital & Main.)
+      “They were able to really galvanize the workers to focus on this,” said Dai, who
+      said she has never represented a union in a legal matter. “They were at the heart
+      of this case from the beginning. It really shows the power and strength and the
+      importance of unions.” That message has resonated with the broader labor movement.
+      During 2023’s “hot labor summer,” for example, members of the Writers Guild of
+      America and the actors’ union SAG-AFTRA walked side by side with Teamsters, hotel
+      workers, teachers and others to demand better pay and working conditions. Those
+      workers’ unions in turn supported the writers and actors during arduous negotiations
+      with the mega-corporations that own Hollywood’s major studios. And union leaders
+      told Capital & Main they’ve begun comparing notes when multiple labor groups are
+      negotiating individual contracts with the same corporate entity. They’ve even
+      begun attending each other’s bargaining sessions. It took a coordinated campaign
+      to bring a living wage to fruition in Anaheim, one that is finally about to give
+      Disneyland workers the money they’ve been deprived of for years. It was, ultimately,
+      a strength-in-numbers success story. And it has awakened even long-tenured unions
+      to the idea that in an era of giant corporate ownership of business, it may take
+      this kind of group effort to get workers the wages they need to survive. Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Mark Kreidler
+      Mark Kreidler is a California-based writer and broadcaster, and the author of
+      three books, including Four Days to Glory. Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: A $233 million settlement has been approved between the Walt
+      Disney Co. and over 50,000 underpaid Disneyland employees, resolving a long-standing
+      dispute that began after a 2018 voter-approved measure aimed at ensuring fair
+      wages for workers.
+    paragraph_summary: The recent approval of a $233 million settlement between the
+      Walt Disney Co. and over 50,000 underpaid Disneyland employees marks a significant
+      victory for labor rights, stemming from a long-standing battle that began in 2018
+      when Anaheim voters passed Measure L to ensure a living wage for workers. Disney's
+      prolonged resistance to the law, which included denying its applicability to Disneyland
+      and engaging in a lengthy class action lawsuit, ultimately led to the court's
+      repudiation of the company's tactics. The settlement will provide back pay, interest,
+      and penalties to the affected workers, as well as enhance their retirement accounts.
+      This case highlights the power of organized labor, as it was the collective efforts
+      of various unions that enabled the passage of the wage law and ultimately secured
+      fair compensation for the workers.
+    published: '2025-09-26T09:15:00+00:00'
+  - title: When Workers Unite, Even Disney Has to Listen
+    url: https://scheerpost.com/2025/09/26/when-workers-unite-even-disney-has-to-listen/
+    text: 'Sleeping Beauty Castle Disneyland Anaheim 2013. Tuxyso / Wikimedia Commons
+      In one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Mark Kreidler / Capital
+      & Main It’s difficult to overstate the significance of last week’s final approval
+      of a $233 million settlement between the Walt Disney Co. and the tens of thousands
+      of Disneyland employees whom the company has underpaid for years. This is a battle
+      that dates to 2018, when Anaheim voters passed a measure — backed by a coalition
+      of unions — that was squarely intended to force the House of Mouse to pay workers
+      something approaching a living wage. Instead, Disney resisted the law for years
+      before finally being held accountable. The settlement certainly matters at the
+      top line. Most of that money will be going to more than 50,000 Disneyland workers
+      who for several years were paid less than they should have been — in some cases,
+      far less. The court’s approval of the settlement also marks the final, official
+      repudiation of Disney’s tactics in skirting the wage law, known in Anaheim as
+      Measure L. The company’s strategy — to deny that the law applied to Disneyland,
+      thus prompting a 2019 class action against it that dragged on for six years —
+      cost the workers heartache and much-needed raises. Now, though, the workers are
+      getting what they’re owed in back pay, plus interest and penalties accruing from
+      the stall tactics. Even their retirement accounts get a boost. But the most important
+      takeaway from this case may well lie at the level of organization. It was through
+      the coordinated efforts of multiple labor groups that the Anaheim wage law got
+      passed in the first place — a grass-roots campaign by Disneyland workers aligned
+      with several different unions, all of which were struggling to achieve reasonable
+      wage gains in their separate negotiations with Disney. The unions operate independently,
+      and their negotiating strategies on behalf of their own members certainly can
+      vary. But in this case, combining forces on the ground enabled them to blanket
+      Anaheim, first gathering enough petition signatures to put the measure on the
+      ballot and then convincing enough voters to support it. In the process, the unions
+      began comparing notes on their respective negotiations, a practice that has since
+      been put into play in a number of labor situations around the Los Angeles area.
+      It’s the smart strategy when it comes to dealing with ever-larger corporate heavyweights.
+      *   *   * The final settlement itself was made official by Orange County Superior
+      Court Judge William Claster. The case was decided in late 2023, when the California
+      Supreme Court refused to hear Disney’s last-ditch appeal after an appellate court
+      determined that Measure L indeed applied to Disneyland. But Claster’s approval
+      was nevertheless momentous; it set in motion the payouts to Disney employees who
+      in some cases have gone years without the money that was rightfully theirs. The
+      ballot materials for Measure L, which were presented as evidence during the class-action
+      suit, make it clear that the law was always aimed at Disney. They state that a
+      yes vote “would require specific hospitality employers in the Disneyland or Anaheim
+      Resort” zones to pay a minimum wage of $15 an hour beginning in 2019. In this
+      case, “specific” meant that the law would apply only to those businesses that
+      received tax breaks from the city. (The state’s minimum wage in 2019 was $12.)
+      Disney contended that it didn’t receive any tax breaks from the city and wasn’t
+      bound by the new wage law, so it was not required to pay the higher minimum wage.
+      But a California appellate court disagreed , ruling that a 1996 agreement between
+      Disneyland and Anaheim included a deal in which the city would repay Disney if
+      the corporation had to cover bond payments that funded its expansion. The state
+      Supreme Court’s denial of appeal was the end of the road for Disney legally, prompting
+      settlement talks. “That 1996 agreement is very complex, and maybe they were banking
+      on no one really being able to unwind it,” said Cornelia Dai, one of the attorneys
+      who represented Disneyland workers in the class action. “This case was a gamble,
+      in that we knew it would be hard to explain the complex financial arrangements.”
+      Disney did not respond to multiple requests for comment. Speaking to the Los Angeles
+      Times last week, Disneyland Resort spokesperson Jessica Jakary said , “Disney
+      cares deeply about our cast members,” using Disneyland’s term for its employees.
+      The spokesperson added that most workers in Disney’s Resort District now earn
+      more than $22 an hour, higher than the $20.42 minimum that is currently required
+      under Measure L. *   *   * The settlement payout is life-changing for some who’ve
+      worked at Disneyland for years. Nathan Delgadillo, a server at a Disneyland Resort
+      hotel for the past seven years, said he’s in line to receive $35,000 in back pay,
+      interest and penalties. “There’s a couple of people who are getting $100,000,”
+      said Delgadillo, 31. “For all the workers, this will have a profoundly positive
+      impact. And as a union, this is our whole program — it’s like having a vision
+      and seeing that vision come true.” Delgadillo is a member of UNITE HERE Local
+      11, one of the primary drivers of the Measure L initiative along with the United
+      Food and Commercial Workers Union, SEIU-United Service Workers West, the Teamsters
+      and others. The unions coordinated their efforts to gain petition signatures to
+      get the measure on the 2018 ballot, then went door to door to rally voter support.
+      (Disclosure: UNITE HERE, SEIU and UFCW are financial supporters of Capital & Main.)
+      “They were able to really galvanize the workers to focus on this,” said Dai, who
+      said she has never represented a union in a legal matter. “They were at the heart
+      of this case from the beginning. It really shows the power and strength and the
+      importance of unions.” That message has resonated with the broader labor movement.
+      During 2023’s “hot labor summer,” for example, members of the Writers Guild of
+      America and the actors’ union SAG-AFTRA walked side by side with Teamsters, hotel
+      workers, teachers and others to demand better pay and working conditions. Those
+      workers’ unions in turn supported the writers and actors during arduous negotiations
+      with the mega-corporations that own Hollywood’s major studios. And union leaders
+      told Capital & Main they’ve begun comparing notes when multiple labor groups are
+      negotiating individual contracts with the same corporate entity. They’ve even
+      begun attending each other’s bargaining sessions. It took a coordinated campaign
+      to bring a living wage to fruition in Anaheim, one that is finally about to give
+      Disneyland workers the money they’ve been deprived of for years. It was, ultimately,
+      a strength-in-numbers success story. And it has awakened even long-tenured unions
+      to the idea that in an era of giant corporate ownership of business, it may take
+      this kind of group effort to get workers the wages they need to survive. Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Mark Kreidler
+      Mark Kreidler is a California-based writer and broadcaster, and the author of
+      three books, including Four Days to Glory. Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: A $233 million settlement has been approved between the Walt
+      Disney Co. and over 50,000 underpaid Disneyland employees, resolving a long-standing
+      dispute that began after a 2018 voter-approved measure aimed at ensuring fair
+      wages for workers.
+    paragraph_summary: The recent approval of a $233 million settlement between the
+      Walt Disney Co. and over 50,000 underpaid Disneyland employees marks a significant
+      victory for labor rights, stemming from a long-standing battle that began in 2018
+      when Anaheim voters passed Measure L to ensure a living wage for workers. Disney's
+      prolonged resistance to the law, which included denying its applicability to Disneyland
+      and engaging in a lengthy class action lawsuit, ultimately led to the court's
+      repudiation of the company's tactics. The settlement will provide back pay, interest,
+      and penalties to the affected workers, as well as enhance their retirement accounts.
+      This case highlights the power of organized labor, as it was the collective efforts
+      of various unions that enabled the passage of the wage law and ultimately secured
+      fair compensation for the workers.
+    published: '2025-09-26T09:15:00+00:00'
+  - title: 'Palestinian Kids’ Author: New York Times ‘Put a Target on My Back’ With
+      Grayzone Smear'
+    url: https://scheerpost.com/2025/09/26/palestinian-kids-author-new-york-times-put-a-target-on-my-back-with-grayzone-smear/
+    text: 'Photo Credit: The Grayzone In one of the scariest moments in modern history,
+      we''re doing our best at ScheerPost to pierce the fog of lies that conceal it
+      but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Wyatt Reed / The Grayzone Palestinian children’s author Jenan Matari
+      says she believes The New York Times “was trying to put a target on [her] back”
+      when it publicized the fact that she recently posted a screenshot of a factual
+      article by The Grayzone on social media. Matari was featured in a recent report
+      by the Times about the cancellation of a book event following a deluge of calls
+      and emails from Zionist activists, who accused New Jersey-based Watchung Booksellers
+      of antisemitism and threatened to boycott the establishment if they didn’t withdraw
+      her invitation. It was the second store in the past month to scrap a planned event
+      for Matari’s newly-published children’s book , “Everything Grows in Jiddo’s Garden,”
+      following a mass harassment campaign by local Jewish communal leaders. In justifying
+      the cancellation, the Times relied heavily on baseless accusations from those
+      pro-Israel factions. Among the complaints reported by the Times was that Matari
+      reposted the headline of The Grayzone’s recent article, “Charlie Kirk refused
+      Netanyahu funding offer, was ‘frightened’ by pro-Israel forces before death, friend
+      reveals.” The Times described the article as one which “members of the Jewish
+      community” regarded as “hateful, divisive and antisemitic.” Yet the Times neglected
+      to mention that The Grayzone report in question wasn’t published until Sept. 12
+      – a full week after the bookstore, Watchung Booksellers, announced on Sept. 5
+      that the event would no longer go forward. What’s more, it did not address the
+      factual nature of the investigative article, which detailed Charlie Kirk’s growing
+      rift with pro-Israel forces in the months before his death. As Matari noted in
+      a video posted to Instagram, the impossible timeline proposed by the Times related
+      to a Grayzone piece which had “nothing to do with my book or me as an author,
+      and actually nothing to do with the story itself.” She called the screenshot “a
+      weird thing to include,” noting that the Times was likely “intentionally trying
+      to cause harm” to her by mentioning it. “Your sources lied, just like they lied
+      to get my book tour cancelled, and you didn’t fact check them,” she added. The
+      Times also neglected to include any portion of Ms. Matari’s response to their
+      request for comment, which slammed the publication for its “complicity and active
+      role in manufacturing consent for the genocide of Palestinians.” From “every author’s
+      dream” to a mock trial for antisemitism Speaking to The Grayzone, Matari said
+      that she had been persistently contacted by various reporters at the Times, who
+      approached her deceptively from the outset. “They framed it initially as, ‘hey,
+      we would love to come and do a portrait session with you, and talk to you about
+      your book and your book tour,’” which, she said, is “like every author’s dream.” But
+      the correspondence quickly devolved into attempts by the Times’ staff to harangue
+      her into responding to a series of regurgitated accusations of antisemitism, which
+      were initially manufactured by pro-Israel activists. Matari noted that the Times
+      effectively laundered a smear by a New Jersey-based Zionist advocacy group which
+      accused Matari of attempting to “smear the Montclair Jewish community as bigots
+      and bullies,” citing “other communities who have cancelled [her] book tour events.”
+      That was a clear reference to an incident in late August in which a self-described
+      indie bookstore in Los Angeles, Chevalier’s Books , also pulled the plug on a
+      promotional event for Matari’s new book. Following the cancellation, Chevalier’s
+      fired the employee responsible for booking the event, and another staff member
+      subsequently resigned in solidarity. The business was subjected to repeated protests
+      by community members who sought to shame the book retailer for caving to pro-Israel
+      forces and silencing both a Palestinian author and their own workers. In its retelling
+      of that part of the story, The Times relied heavily on an LA community outlet
+      named ‘The Larchmont Buzz,’ which quoted one of Chevalier’s owners who suggested
+      Matari was not a “responsible author” and blamed the cancellation on her “vitriolic
+      social media messages.” That owner, Bert Deixler, attempted to flaunt his pro-Palestine
+      credentials by telling protesters he was recently “accused of being an anti-Semite
+      by members of Temple Israel of Hollywood… because they thought we had too many
+      books on Palestinian subjects.” But as Matari points out, both Chevalier’s Books
+      and Larchmont Buzz clearly maintain a hidden pro-Israel agenda. As she explained
+      to The Grayzone, the Times never disclosed that the publisher of the Larchmont
+      Buzz is also a hiring manager at Chevalier’s Books, which cancelled her event.
+      The email address of that woman, Patricia Lombard, is listed as one of two suggested
+      recipients in a recent posting on Glassdoor soliciting applicants for a Bookstore
+      Manager position at Chevalier’s. According to Matari, protesters relayed to her
+      that Lombard attended the demonstration undercover and feigned solidarity with
+      its participants. She was “sitting or standing outside talking to people and asking
+      questions, pretending to seem like she was there in support,” The other email
+      address listed on the job posting belongs to Rony Rosenbaum, a self-described
+      “human resources consultant” who worked for nine years as the Vice President of
+      Personnel at the Temple Israel of Hollywood — the very same temple which her current
+      boss at Chevalier’s claimed to have been targeted by when attempting to portray
+      his neutrality. The synagogue’s congregants include vociferous anti-Palestinian
+      actors Gal Gadot and Sacha Baron Cohen, according to its Wikipedia page . None
+      of this obviously prejudicial information was relayed by the Times, which instead
+      framed Chevalier’s decision to drop Matari as a rational business decision. Despite
+      depending on multiple clearly unreliable sources, “they still insisted on running
+      with this piece,” Matari explained. “They still used it to basically flame those
+      accusations of antisemitism against me.” But if the intention was to target Matari
+      financially and isolate her from mainstream society, the campaign appears to have
+      had the opposite effect. Following the cancellation of her New Jersey event, the
+      Palestinian author says she quickly sold out of copies of “Everything Grows in
+      Jiddo’s Garden,” prompting her publisher to order more copies. One day before
+      the book was officially released on Sept. 16, Interlink Publishing “pulled the
+      trigger on a second printing of it,” Matari told The Grayzone. Still, even by
+      focusing public attention on the Zionist harassment campaign – instead of Israel’s
+      ongoing genocidal siege of Gaza – the Times is contributing to the anti-Palestinian
+      crusade, she says. “I want to emphasize how disinterested I am in having conversations
+      that distract from what’s happening in Gaza,” Matari stated, adding, “this conversation
+      around antisemitism is so exhausted and boring… it does nothing but take people’s
+      attention away from children being slaughtered on live TV.” Editor’s Note : A
+      t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Wyatt Reed Wyatt
+      Reed is a correspondent and managing editor of The Grayzone. Follow him on Twitter
+      at @wyattreed13. Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: Palestinian children's author Jenan Matari claims that The
+      New York Times endangered her safety by highlighting her social media post about
+      a factual article from The Grayzone, which followed a campaign by Zionist activists
+      that led to the cancellation of her book events due to accusations of antisemitism.
+    paragraph_summary: Palestinian children's author Jenan Matari has expressed concerns
+      that The New York Times aimed to target her after she shared a factual article
+      from The Grayzone on social media. The Times recently reported on the cancellation
+      of her book event at Watchung Booksellers, which was prompted by a harassment
+      campaign from Zionist activists accusing the store of antisemitism. This marked
+      the second event cancellation for Matari's new book, "Everything Grows in Jiddo’s
+      Garden," due to pressure from local Jewish leaders. The Times's justification
+      for the cancellation heavily relied on unfounded claims from these pro-Israel
+      factions, including criticism of Matari's social media activity. However, Matari
+      pointed out that the article in question was published after the event was already
+      canceled, raising questions about the accuracy and timing of the Times's reporting.
+    published: '2025-09-26T09:10:00+00:00'
+  - title: 'Palestinian Kids’ Author: New York Times ‘Put a Target on My Back’ With
+      Grayzone Smear'
+    url: https://scheerpost.com/2025/09/26/palestinian-kids-author-new-york-times-put-a-target-on-my-back-with-grayzone-smear/
+    text: 'Photo Credit: The Grayzone In one of the scariest moments in modern history,
+      we''re doing our best at ScheerPost to pierce the fog of lies that conceal it
+      but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Wyatt Reed / The Grayzone Palestinian children’s author Jenan Matari
+      says she believes The New York Times “was trying to put a target on [her] back”
+      when it publicized the fact that she recently posted a screenshot of a factual
+      article by The Grayzone on social media. Matari was featured in a recent report
+      by the Times about the cancellation of a book event following a deluge of calls
+      and emails from Zionist activists, who accused New Jersey-based Watchung Booksellers
+      of antisemitism and threatened to boycott the establishment if they didn’t withdraw
+      her invitation. It was the second store in the past month to scrap a planned event
+      for Matari’s newly-published children’s book , “Everything Grows in Jiddo’s Garden,”
+      following a mass harassment campaign by local Jewish communal leaders. In justifying
+      the cancellation, the Times relied heavily on baseless accusations from those
+      pro-Israel factions. Among the complaints reported by the Times was that Matari
+      reposted the headline of The Grayzone’s recent article, “Charlie Kirk refused
+      Netanyahu funding offer, was ‘frightened’ by pro-Israel forces before death, friend
+      reveals.” The Times described the article as one which “members of the Jewish
+      community” regarded as “hateful, divisive and antisemitic.” Yet the Times neglected
+      to mention that The Grayzone report in question wasn’t published until Sept. 12
+      – a full week after the bookstore, Watchung Booksellers, announced on Sept. 5
+      that the event would no longer go forward. What’s more, it did not address the
+      factual nature of the investigative article, which detailed Charlie Kirk’s growing
+      rift with pro-Israel forces in the months before his death. As Matari noted in
+      a video posted to Instagram, the impossible timeline proposed by the Times related
+      to a Grayzone piece which had “nothing to do with my book or me as an author,
+      and actually nothing to do with the story itself.” She called the screenshot “a
+      weird thing to include,” noting that the Times was likely “intentionally trying
+      to cause harm” to her by mentioning it. “Your sources lied, just like they lied
+      to get my book tour cancelled, and you didn’t fact check them,” she added. The
+      Times also neglected to include any portion of Ms. Matari’s response to their
+      request for comment, which slammed the publication for its “complicity and active
+      role in manufacturing consent for the genocide of Palestinians.” From “every author’s
+      dream” to a mock trial for antisemitism Speaking to The Grayzone, Matari said
+      that she had been persistently contacted by various reporters at the Times, who
+      approached her deceptively from the outset. “They framed it initially as, ‘hey,
+      we would love to come and do a portrait session with you, and talk to you about
+      your book and your book tour,’” which, she said, is “like every author’s dream.” But
+      the correspondence quickly devolved into attempts by the Times’ staff to harangue
+      her into responding to a series of regurgitated accusations of antisemitism, which
+      were initially manufactured by pro-Israel activists. Matari noted that the Times
+      effectively laundered a smear by a New Jersey-based Zionist advocacy group which
+      accused Matari of attempting to “smear the Montclair Jewish community as bigots
+      and bullies,” citing “other communities who have cancelled [her] book tour events.”
+      That was a clear reference to an incident in late August in which a self-described
+      indie bookstore in Los Angeles, Chevalier’s Books , also pulled the plug on a
+      promotional event for Matari’s new book. Following the cancellation, Chevalier’s
+      fired the employee responsible for booking the event, and another staff member
+      subsequently resigned in solidarity. The business was subjected to repeated protests
+      by community members who sought to shame the book retailer for caving to pro-Israel
+      forces and silencing both a Palestinian author and their own workers. In its retelling
+      of that part of the story, The Times relied heavily on an LA community outlet
+      named ‘The Larchmont Buzz,’ which quoted one of Chevalier’s owners who suggested
+      Matari was not a “responsible author” and blamed the cancellation on her “vitriolic
+      social media messages.” That owner, Bert Deixler, attempted to flaunt his pro-Palestine
+      credentials by telling protesters he was recently “accused of being an anti-Semite
+      by members of Temple Israel of Hollywood… because they thought we had too many
+      books on Palestinian subjects.” But as Matari points out, both Chevalier’s Books
+      and Larchmont Buzz clearly maintain a hidden pro-Israel agenda. As she explained
+      to The Grayzone, the Times never disclosed that the publisher of the Larchmont
+      Buzz is also a hiring manager at Chevalier’s Books, which cancelled her event.
+      The email address of that woman, Patricia Lombard, is listed as one of two suggested
+      recipients in a recent posting on Glassdoor soliciting applicants for a Bookstore
+      Manager position at Chevalier’s. According to Matari, protesters relayed to her
+      that Lombard attended the demonstration undercover and feigned solidarity with
+      its participants. She was “sitting or standing outside talking to people and asking
+      questions, pretending to seem like she was there in support,” The other email
+      address listed on the job posting belongs to Rony Rosenbaum, a self-described
+      “human resources consultant” who worked for nine years as the Vice President of
+      Personnel at the Temple Israel of Hollywood — the very same temple which her current
+      boss at Chevalier’s claimed to have been targeted by when attempting to portray
+      his neutrality. The synagogue’s congregants include vociferous anti-Palestinian
+      actors Gal Gadot and Sacha Baron Cohen, according to its Wikipedia page . None
+      of this obviously prejudicial information was relayed by the Times, which instead
+      framed Chevalier’s decision to drop Matari as a rational business decision. Despite
+      depending on multiple clearly unreliable sources, “they still insisted on running
+      with this piece,” Matari explained. “They still used it to basically flame those
+      accusations of antisemitism against me.” But if the intention was to target Matari
+      financially and isolate her from mainstream society, the campaign appears to have
+      had the opposite effect. Following the cancellation of her New Jersey event, the
+      Palestinian author says she quickly sold out of copies of “Everything Grows in
+      Jiddo’s Garden,” prompting her publisher to order more copies. One day before
+      the book was officially released on Sept. 16, Interlink Publishing “pulled the
+      trigger on a second printing of it,” Matari told The Grayzone. Still, even by
+      focusing public attention on the Zionist harassment campaign – instead of Israel’s
+      ongoing genocidal siege of Gaza – the Times is contributing to the anti-Palestinian
+      crusade, she says. “I want to emphasize how disinterested I am in having conversations
+      that distract from what’s happening in Gaza,” Matari stated, adding, “this conversation
+      around antisemitism is so exhausted and boring… it does nothing but take people’s
+      attention away from children being slaughtered on live TV.” Editor’s Note : A
+      t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Wyatt Reed Wyatt
+      Reed is a correspondent and managing editor of The Grayzone. Follow him on Twitter
+      at @wyattreed13. Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: Palestinian children's author Jenan Matari claims that The
+      New York Times endangered her safety by highlighting her social media post about
+      a factual article from The Grayzone, which followed a campaign by Zionist activists
+      that led to the cancellation of her book events due to accusations of antisemitism.
+    paragraph_summary: Palestinian children's author Jenan Matari has expressed concerns
+      that The New York Times aimed to target her after she shared a factual article
+      from The Grayzone on social media. The Times recently reported on the cancellation
+      of her book event at Watchung Booksellers, which was prompted by a harassment
+      campaign from Zionist activists accusing the store of antisemitism. This marked
+      the second event cancellation for Matari's new book, "Everything Grows in Jiddo’s
+      Garden," due to pressure from local Jewish leaders. The Times's justification
+      for the cancellation heavily relied on unfounded claims from these pro-Israel
+      factions, including criticism of Matari's social media activity. However, Matari
+      pointed out that the article in question was published after the event was already
+      canceled, raising questions about the accuracy and timing of the Times's reporting.
+    published: '2025-09-26T09:10:00+00:00'
+  - title: DOJ Appears to Have Violated Luigi Mangione’s Right to a Fair Trial, Judge
+      Says
+    url: https://scheerpost.com/2025/09/26/doj-appears-to-have-violated-luigi-mangiones-right-to-a-fair-trial-judge-says/
+    text: 'Department of Justice. CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1907019
+      In one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Elizabeth Weill-Greenberg
+      / Truthout Afederal judge has ordered prosecutors to respond to a letter from
+      Luigi Mangione’s legal team alleging that Trump administration officials’ recent
+      social media posts about the case appear to have violated his right to a fair
+      trial. “It appears … that multiple employees at the Department of Justice may
+      have violated Local Criminal Rule 23.1, and this Court’s order of April 25, 2025
+      specifically identifying the strictures of this rule,” U.S. District Judge Margaret
+      M. Garnett wrote in her order on September 24 in response to the letter. The rule
+      stipulates that “non-lawyer personnel employed by a lawyer’s office or subject
+      to a lawyer’s supervision” in a criminal case have a duty not to release an “opinion
+      that a reasonable person would expect to be disseminated by means of public communication”
+      if there is a chance that the opinion will “interfere with a fair trial or otherwise
+      prejudice the due administration of justice.” This includes any opinion as to
+      the guilt or innocence of the accused, Garnett pointed out. “The statements referenced
+      in the [letter from Mangione’s legal team] by two high-ranking staff members of
+      the Department of Justice, including within the Office of the Attorney General,
+      appear to be in direct violation of this Rule and the Court’s April 25 Order,”
+      the judge continued. On September 19, the deputy director of the Department of
+      Justice Office of Public Affairs reposted a clip of President Donald Trump saying
+      that Mangione “shot someone in the back as clear as you’re looking at me…he shot
+      him right in the middle of the back – instantly dead…” The DOJ staffer wrote,
+      “@POTUS is absolutely right.” The chief of staff and associate deputy attorney
+      general retweeted the same post. The original post was later deleted. Future violations
+      may result in sanctions, including “relief specific to the prosecution of this
+      matter,” Garnett wrote. The letter to the court from Mangione’s lawyers includes
+      numerous examples of Trump administration officials speaking about Mangione’s
+      alleged guilt in the fatal shooting of UnitedHealthcare CEO Brian Thompson in
+      New York City last year. Mangione has pleaded not guilty to all charges. During
+      a White House press briefing on September 22, the White House press secretary
+      said Mangione was a “left-wing assassin [who] shot UnitedHealthcare CEO Brian
+      Thompson right in the back in New York City.” The following day, White House Deputy
+      Chief of Staff for Policy Stephen Miller said on Fox News that “of course the
+      healthcare CEO was brutally gunned down by another self-described so-called anti-fascist
+      that was then celebrated by other self-described anti-fascists, so of course,
+      really communist revolutionaries.” The White House deputy chief of staff for policy
+      reposted the clip on X. Mangione’s attorneys wrote that the government “knows
+      this statement to be false.” “The Government has indelibly prejudiced Mr. Mangione
+      by baselessly linking him to unrelated violent events, and left-wing extremist
+      groups, despite there being no connection or affiliation,” the attorneys wrote.
+      “A recent, tragic, high-profile murder has only increased this prejudicial rhetoric,”
+      the lawyers continued, referencing the fatal shooting of right-wing commentator
+      Charlie Kirk. “The attempts to connect Mr. Mangione with these incidents and paint
+      him as a ‘left wing’ violent extremist are false, prejudicial, and part of a greater
+      political narrative that has no place in any criminal case, especially one where
+      the death penalty is at stake.” Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Elizabeth Weill-Greenberg Elizabeth
+      Weill-Greenberg is a reporter based in New Jersey. Follow her on Twitter: @elizabethweill
+      . Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: A federal judge has instructed prosecutors to address allegations
+      from Luigi Mangione's legal team that social media posts by Trump administration
+      officials may have compromised his right to a fair trial, potentially violating
+      local criminal rules.
+    paragraph_summary: A federal judge has directed prosecutors to address allegations
+      from Luigi Mangione's legal team that social media posts by Trump administration
+      officials may have infringed on his right to a fair trial. U.S. District Judge
+      Margaret M. Garnett highlighted potential violations of Local Criminal Rule 23.1,
+      which prohibits non-lawyer personnel from making public statements that could
+      prejudice a fair trial. The judge's order follows a specific incident where a
+      deputy director at the Department of Justice Office of Public Affairs shared a
+      clip of President Trump making a statement about Mangione's alleged actions, which
+      the judge indicated could be in direct violation of legal rules regarding public
+      commentary on ongoing cases.
+    published: '2025-09-26T09:05:00+00:00'
+  - title: DOJ Appears to Have Violated Luigi Mangione’s Right to a Fair Trial, Judge
+      Says
+    url: https://scheerpost.com/2025/09/26/doj-appears-to-have-violated-luigi-mangiones-right-to-a-fair-trial-judge-says/
+    text: 'Department of Justice. CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1907019
+      In one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Elizabeth Weill-Greenberg
+      / Truthout Afederal judge has ordered prosecutors to respond to a letter from
+      Luigi Mangione’s legal team alleging that Trump administration officials’ recent
+      social media posts about the case appear to have violated his right to a fair
+      trial. “It appears … that multiple employees at the Department of Justice may
+      have violated Local Criminal Rule 23.1, and this Court’s order of April 25, 2025
+      specifically identifying the strictures of this rule,” U.S. District Judge Margaret
+      M. Garnett wrote in her order on September 24 in response to the letter. The rule
+      stipulates that “non-lawyer personnel employed by a lawyer’s office or subject
+      to a lawyer’s supervision” in a criminal case have a duty not to release an “opinion
+      that a reasonable person would expect to be disseminated by means of public communication”
+      if there is a chance that the opinion will “interfere with a fair trial or otherwise
+      prejudice the due administration of justice.” This includes any opinion as to
+      the guilt or innocence of the accused, Garnett pointed out. “The statements referenced
+      in the [letter from Mangione’s legal team] by two high-ranking staff members of
+      the Department of Justice, including within the Office of the Attorney General,
+      appear to be in direct violation of this Rule and the Court’s April 25 Order,”
+      the judge continued. On September 19, the deputy director of the Department of
+      Justice Office of Public Affairs reposted a clip of President Donald Trump saying
+      that Mangione “shot someone in the back as clear as you’re looking at me…he shot
+      him right in the middle of the back – instantly dead…” The DOJ staffer wrote,
+      “@POTUS is absolutely right.” The chief of staff and associate deputy attorney
+      general retweeted the same post. The original post was later deleted. Future violations
+      may result in sanctions, including “relief specific to the prosecution of this
+      matter,” Garnett wrote. The letter to the court from Mangione’s lawyers includes
+      numerous examples of Trump administration officials speaking about Mangione’s
+      alleged guilt in the fatal shooting of UnitedHealthcare CEO Brian Thompson in
+      New York City last year. Mangione has pleaded not guilty to all charges. During
+      a White House press briefing on September 22, the White House press secretary
+      said Mangione was a “left-wing assassin [who] shot UnitedHealthcare CEO Brian
+      Thompson right in the back in New York City.” The following day, White House Deputy
+      Chief of Staff for Policy Stephen Miller said on Fox News that “of course the
+      healthcare CEO was brutally gunned down by another self-described so-called anti-fascist
+      that was then celebrated by other self-described anti-fascists, so of course,
+      really communist revolutionaries.” The White House deputy chief of staff for policy
+      reposted the clip on X. Mangione’s attorneys wrote that the government “knows
+      this statement to be false.” “The Government has indelibly prejudiced Mr. Mangione
+      by baselessly linking him to unrelated violent events, and left-wing extremist
+      groups, despite there being no connection or affiliation,” the attorneys wrote.
+      “A recent, tragic, high-profile murder has only increased this prejudicial rhetoric,”
+      the lawyers continued, referencing the fatal shooting of right-wing commentator
+      Charlie Kirk. “The attempts to connect Mr. Mangione with these incidents and paint
+      him as a ‘left wing’ violent extremist are false, prejudicial, and part of a greater
+      political narrative that has no place in any criminal case, especially one where
+      the death penalty is at stake.” Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Elizabeth Weill-Greenberg Elizabeth
+      Weill-Greenberg is a reporter based in New Jersey. Follow her on Twitter: @elizabethweill
+      . Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: A federal judge has instructed prosecutors to address allegations
+      from Luigi Mangione's legal team that social media posts by Trump administration
+      officials may have compromised his right to a fair trial, potentially violating
+      local criminal rules.
+    paragraph_summary: A federal judge has directed prosecutors to address allegations
+      from Luigi Mangione's legal team that social media posts by Trump administration
+      officials may have infringed on his right to a fair trial. U.S. District Judge
+      Margaret M. Garnett highlighted potential violations of Local Criminal Rule 23.1,
+      which prohibits non-lawyer personnel from making public statements that could
+      prejudice a fair trial. The judge's order follows a specific incident where a
+      deputy director at the Department of Justice Office of Public Affairs shared a
+      clip of President Trump making a statement about Mangione's alleged actions, which
+      the judge indicated could be in direct violation of legal rules regarding public
+      commentary on ongoing cases.
+    published: '2025-09-26T09:05:00+00:00'
+  - title: Where Are the Detainees? Hundreds of ‘Alligator Alcatraz’ Prisoners Disappear
+      from ICE Database
+    url: https://scheerpost.com/2025/09/26/where-are-the-detainees-hundreds-of-alligator-alcatraz-prisoners-disappear-from-ice-database/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By DemocracyNow!
+      Hundreds of people who were once detained at the troubled immigration jail in
+      the Florida Everglades, dubbed “Alligator Alcatraz,” have disappeared. Democracy
+      Now! speaks with Shirsho Dasgupta, a Miami Herald reporter who found that, as
+      of late August, about two-thirds of the 1,800 immigrants who were held there in
+      July have gone missing from ICE’s online database, with their families and attorneys
+      unable to locate them. Earlier this month, a federal appeals court ruled the jail
+      could continue to operate despite reports of abuse. “What we’re seeing at Alligator
+      Alcatraz is basically a new model of immigration detention, where a state-run
+      facility is operating as an extrajudicial black site, completely outside of the
+      previous models of immigration detention in this country. And it’s making what
+      was already a terrible system somehow even worse,” says Thomas Kennedy, policy
+      analyst at the Florida Immigrant Coalition. Transcript This is a rush transcript.
+      Copy may not be in its final form. NERMEEN SHAIKH: Hundreds of people who were
+      once detained at the troubled immigration jail in the Florida Everglades, dubbed
+      “Alligator Alcatraz,” have disappeared. The Miami Herald reports about two-thirds
+      of the 1,800 immigrants who were held there in July have gone missing from ICE’s
+      online database, with their families unable to locate them. Earlier this month,
+      a federal appeals court ruled the jail could continue to operate despite reports
+      of abuse. Trump welcomed the news. PRESIDENT DONALD TRUMP: I think Florida has
+      done a great job by building it. And whether it’s Alligator Alcatraz or anything
+      else you want to call it, it’s an amazing facility for what it is. It’s not a
+      hotel. It’s not supposed to be a hotel. But they’ve done a great job with it.
+      AMY GOODMAN: For more, we’re joined by two guests. In Miami, Thomas Kennedy is
+      a policy analyst with the Florida Immigrant Coalition. And in Washington, D.C.,
+      Shirsho Dasgupta is a reporter with the Miami Herald who co-wrote the new report
+      headlined “Hundreds of Alligator Alcatraz detainees drop off the grid after leaving
+      site.” We welcome you both to Democracy Now! Shirsho, let’s begin with you. You
+      broke this story. Talk about how you got this information, what documents are
+      available, how many people are missing or disappeared. SHIRSHO DASGUPTA: So, my
+      former colleague Ana Ceballos obtained two rosters of Alligator Alcatraz detainees
+      in July, and those rosters accounted for a total of a little more than 1,800 men
+      who were held at the facility. After a month, around end August, when the facility
+      was winding down its operations, we matched the detainees in the rosters to ICE’s
+      online locator system, and we found that around 800 of them had no records, and
+      roughly 450 of them had a result called “Call ICE for details,” which is a pretty
+      vague notation. We spoke to attorneys who said that that notation can mean anything.
+      It could mean that someone is being processed for intake into a facility. It could
+      mean that someone is being transferred from one site to another, or it could also
+      mean that a person is about to be deported. NERMEEN SHAIKH: And, Shirsho, can
+      you tell us whether anyone has indeed contacted ICE to find out what’s happening
+      with these detainees? SHIRSHO DASGUPTA: Yes, we spoke to the attorney and family
+      members of one person who was held at Alligator Alcatraz. He’s a Cuban national
+      named Michael Borrego Fernandez. He was at the site for around a month, and in
+      early August he was shifted to Krome Detention Center in Miami, which is a federal
+      detention center, unlike Alligator Alcatraz. Then, around Labor Day, his family
+      realized that he has been — he has been sent to a federal detention facility in
+      San Diego County in California, and they got this information through the online
+      locator system. But he stopped calling them, and when his lawyer tried to contact
+      him in the California facility, the staffers there kept telling him that “We don’t
+      have anyone by that name. You should call ICE.” And then the lawyer went to ICE,
+      and ICE would just refer him back to the California site. And this went on for
+      around a week, until they finally heard from him. But by that point, he had already
+      been deported to Mexico. NERMEEN SHAIKH: And, Shirsho, talk about the significance
+      of this. I mean, what is the distinction, in practical terms, in other words,
+      in the ways in which detainees are kept track of and processed through the immigration
+      system, in a federal agency versus a state-run facility? SHIRSHO DASGUPTA: So,
+      if a detainee is in a federal facility, they will appear in some form in the ICE case
+      locator, and attorneys will have access to them. It is a very complex process,
+      but attorneys know how to navigate this process. They know who to call. They know
+      how to set up interviews with these people. They know how to have private calls
+      with their clients. But because this was a state-run facility, there were jurisdictional
+      issues, because it was a very rushed process in which the site was set up. There
+      was a — issues surrounding legal access between attorneys and clients. And, you
+      know, even when they were transferred out of this facility, I’ve spoken to attorneys
+      who’ve said that, you know, “We don’t know who to call. Sometimes we call a person
+      who’s listed as the contact person or is the contact person at, like, a site where
+      he’s supposed to be kept, but we don’t even know whether that person is the right
+      individual to call to set up a discussion with my client.” AMY GOODMAN: And what
+      is the state saying to you, Shirsho? What is Florida — explaining that difference
+      between federal and state, and what DeSantis, the governor of Florida, the deals
+      he has made, the contracts, with the money flowing in, ICE getting more money
+      now than they ever had? SHIRSHO DASGUPTA: So, Florida — per our last estimate,
+      Florida has spent more than $200 million setting up Alligator Alcatraz. And obviously,
+      it was ordered to be — you know, operations to be winded down, which they did.
+      But then an appeals court issued a stay on that order, so it’s a bit unclear about
+      what’s happening at the site now. In general, the DeSantis administration has
+      taken a very hard stance on immigration, and he has made Florida among — a leader
+      in the states which are cracking down on violators of immigration laws. But in
+      terms of, you know, our story about people sort of falling off the grid after
+      being moved out of Alligator Alcatraz, his office did not comment. They referred
+      us to ICE, and ICE did not issue any comment either, despite multiple requests.
+      AMY GOODMAN: Thomas Kennedy, you work with the Florida Immigrant Coalition. Can
+      you talk about the panic of families right now when they can’t find their loved
+      ones? We’re talking about Alligator Alcatraz, which is the term that Republicans
+      dubbed this Everglades detention jail, and also what they also have dubbed “Deportation
+      Depot,” another jail in Florida. But talk about both and what the families are
+      doing. THOMAS KENNEDY: Sure. So, you know, we actually connected and worked with
+      the family of Michael Borrego, who was just mentioned. And, you know, basically,
+      this is what I call the administrative disappearances. Because Alligator Alcatraz
+      is a completely state-run facility, and the state of Florida is trying to avoid
+      a NEPA process, a National Environmental Protection Act environmental study, because
+      this facility sits in ecologically protected land that actually has a dark-sky
+      designation, they neglected to sign federal legal agreements that give the state
+      the authority to detain immigrants. And because of that, it’s one of the reasons
+      why the people detained there don’t show up in public databases, as previously
+      mentioned. And that creates a host of problems for the family members and those
+      detained there, right? By not showing up in these public databases, it is easy
+      to deny them due process and legal recourse. People are deported promptly, before
+      scheduled bond hearings. People are hospitalized often. This guy, Michael Borrego,
+      you know, we connected with his mother, Yaneisy, both of Cuban descent. He actually
+      had to endure a hemorrhoid-related surgery while detained at Alligator Alcatraz
+      and was transferred over to Kendall Hospital, where most of the hospitalizations
+      that take place in that facility end up. And he was there for three days after
+      his surgery and was immediately transferred over to Alligator Alcatraz again,
+      where he did not receive adequate medical care for his recovery and was denied
+      even the most basic medicine to alleviate pain, for example. And these hospitalizations,
+      which, you know, also have included cardiac incidents, you know, follow-up — there
+      was a guy that we met whose fiancée told us that he had exploratory heart surgery
+      just a week before being detained and was suffering from a ruptured kidney while
+      in this facility. These hospitalizations are not recorded nor acknowledged by
+      the state of Florida, the Florida Department of Emergency Management, which administers
+      the facility, nor by the hospital itself, even though we saw and we recorded and
+      documented ambulances going in and out of the facility constantly, upwards of
+      a dozen sometimes a day, because of the terrible conditions that have been outlined
+      in this program and many others, right? So, again, it creates an environment where
+      due process is denied, legal recourse is denied, accountability is denied, transparency
+      is denied. Medical incidents are not recorded, which puts the detainees under
+      further medical exposure and threat. And right now things are so bad. I mean,
+      the Miami Herald did a great job obtaining this list of people detained there
+      — right? — and cross-referencing people to the ICE locator to show up — to show
+      what we advocates have been arguing for weeks — right? — that this is a systemic
+      issue and that people actually do not show up in these databases, which creates
+      all of these problems, right? But, yeah, I mean, what we are seeing at Alligator
+      Alcatraz is basically a new model of immigration detention, where a state-run
+      facility is operating as an extrajudicial black site, completely outside of the
+      previous models of immigration detention in this country. And it’s grabbing — making
+      what was already a terrible system somehow even worse. AMY GOODMAN: Thomas Kennedy,
+      we want to thank you for being with us. We hope you can stay with us for a post-show
+      in Spanish for our Spanish website to talk about this crisis of immigrants disappearing.
+      Where are they? Florida Immigrant Coalition. Shirsho Dasgupta is with the Miami
+      Herald . He broke the story , “Hundreds of Alligator Alcatraz detainees drop off
+      the grid after leaving site.” Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . DemocracyNow! Democracy Now! produces
+      a daily, global, independent news hour hosted by award-winning journalists Amy
+      Goodman and Juan González. Our reporting includes breaking daily news headlines
+      and in-depth interviews with people on the front lines of the world’s most pressing
+      issues. On Democracy Now!, you’ll hear a diversity of voices speaking for themselves,
+      providing a unique and sometimes provocative perspective on global events. Author
+      Site Please share this story and help us grow our network!'
+    one_sentence_summary: Hundreds of immigrants detained at the controversial "Alligator
+      Alcatraz" jail in Florida have disappeared from ICE's records, raising concerns
+      about the facility's operation as an extrajudicial black site amidst reports of
+      abuse, even as a federal appeals court allows it to continue functioning.
+    paragraph_summary: A troubling situation has emerged at the immigration detention
+      facility in the Florida Everglades, known as "Alligator Alcatraz," where hundreds
+      of detainees have reportedly disappeared. According to a report by the Miami Herald,
+      as of late August, approximately two-thirds of the 1,800 immigrants held there
+      in July are missing from ICE's online database, leaving families and attorneys
+      unable to find them. Despite ongoing reports of abuse, a federal appeals court
+      has allowed the facility to continue operating. Thomas Kennedy from the Florida
+      Immigrant Coalition describes the facility as a new model of immigration detention
+      functioning as an extrajudicial black site, exacerbating an already problematic
+      system. President Trump has praised the facility, asserting that it serves its
+      purpose effectively.
+    published: '2025-09-26T09:00:00+00:00'
+  - title: Where Are the Detainees? Hundreds of ‘Alligator Alcatraz’ Prisoners Disappear
+      from ICE Database
+    url: https://scheerpost.com/2025/09/26/where-are-the-detainees-hundreds-of-alligator-alcatraz-prisoners-disappear-from-ice-database/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By DemocracyNow!
+      Hundreds of people who were once detained at the troubled immigration jail in
+      the Florida Everglades, dubbed “Alligator Alcatraz,” have disappeared. Democracy
+      Now! speaks with Shirsho Dasgupta, a Miami Herald reporter who found that, as
+      of late August, about two-thirds of the 1,800 immigrants who were held there in
+      July have gone missing from ICE’s online database, with their families and attorneys
+      unable to locate them. Earlier this month, a federal appeals court ruled the jail
+      could continue to operate despite reports of abuse. “What we’re seeing at Alligator
+      Alcatraz is basically a new model of immigration detention, where a state-run
+      facility is operating as an extrajudicial black site, completely outside of the
+      previous models of immigration detention in this country. And it’s making what
+      was already a terrible system somehow even worse,” says Thomas Kennedy, policy
+      analyst at the Florida Immigrant Coalition. Transcript This is a rush transcript.
+      Copy may not be in its final form. NERMEEN SHAIKH: Hundreds of people who were
+      once detained at the troubled immigration jail in the Florida Everglades, dubbed
+      “Alligator Alcatraz,” have disappeared. The Miami Herald reports about two-thirds
+      of the 1,800 immigrants who were held there in July have gone missing from ICE’s
+      online database, with their families unable to locate them. Earlier this month,
+      a federal appeals court ruled the jail could continue to operate despite reports
+      of abuse. Trump welcomed the news. PRESIDENT DONALD TRUMP: I think Florida has
+      done a great job by building it. And whether it’s Alligator Alcatraz or anything
+      else you want to call it, it’s an amazing facility for what it is. It’s not a
+      hotel. It’s not supposed to be a hotel. But they’ve done a great job with it.
+      AMY GOODMAN: For more, we’re joined by two guests. In Miami, Thomas Kennedy is
+      a policy analyst with the Florida Immigrant Coalition. And in Washington, D.C.,
+      Shirsho Dasgupta is a reporter with the Miami Herald who co-wrote the new report
+      headlined “Hundreds of Alligator Alcatraz detainees drop off the grid after leaving
+      site.” We welcome you both to Democracy Now! Shirsho, let’s begin with you. You
+      broke this story. Talk about how you got this information, what documents are
+      available, how many people are missing or disappeared. SHIRSHO DASGUPTA: So, my
+      former colleague Ana Ceballos obtained two rosters of Alligator Alcatraz detainees
+      in July, and those rosters accounted for a total of a little more than 1,800 men
+      who were held at the facility. After a month, around end August, when the facility
+      was winding down its operations, we matched the detainees in the rosters to ICE’s
+      online locator system, and we found that around 800 of them had no records, and
+      roughly 450 of them had a result called “Call ICE for details,” which is a pretty
+      vague notation. We spoke to attorneys who said that that notation can mean anything.
+      It could mean that someone is being processed for intake into a facility. It could
+      mean that someone is being transferred from one site to another, or it could also
+      mean that a person is about to be deported. NERMEEN SHAIKH: And, Shirsho, can
+      you tell us whether anyone has indeed contacted ICE to find out what’s happening
+      with these detainees? SHIRSHO DASGUPTA: Yes, we spoke to the attorney and family
+      members of one person who was held at Alligator Alcatraz. He’s a Cuban national
+      named Michael Borrego Fernandez. He was at the site for around a month, and in
+      early August he was shifted to Krome Detention Center in Miami, which is a federal
+      detention center, unlike Alligator Alcatraz. Then, around Labor Day, his family
+      realized that he has been — he has been sent to a federal detention facility in
+      San Diego County in California, and they got this information through the online
+      locator system. But he stopped calling them, and when his lawyer tried to contact
+      him in the California facility, the staffers there kept telling him that “We don’t
+      have anyone by that name. You should call ICE.” And then the lawyer went to ICE,
+      and ICE would just refer him back to the California site. And this went on for
+      around a week, until they finally heard from him. But by that point, he had already
+      been deported to Mexico. NERMEEN SHAIKH: And, Shirsho, talk about the significance
+      of this. I mean, what is the distinction, in practical terms, in other words,
+      in the ways in which detainees are kept track of and processed through the immigration
+      system, in a federal agency versus a state-run facility? SHIRSHO DASGUPTA: So,
+      if a detainee is in a federal facility, they will appear in some form in the ICE case
+      locator, and attorneys will have access to them. It is a very complex process,
+      but attorneys know how to navigate this process. They know who to call. They know
+      how to set up interviews with these people. They know how to have private calls
+      with their clients. But because this was a state-run facility, there were jurisdictional
+      issues, because it was a very rushed process in which the site was set up. There
+      was a — issues surrounding legal access between attorneys and clients. And, you
+      know, even when they were transferred out of this facility, I’ve spoken to attorneys
+      who’ve said that, you know, “We don’t know who to call. Sometimes we call a person
+      who’s listed as the contact person or is the contact person at, like, a site where
+      he’s supposed to be kept, but we don’t even know whether that person is the right
+      individual to call to set up a discussion with my client.” AMY GOODMAN: And what
+      is the state saying to you, Shirsho? What is Florida — explaining that difference
+      between federal and state, and what DeSantis, the governor of Florida, the deals
+      he has made, the contracts, with the money flowing in, ICE getting more money
+      now than they ever had? SHIRSHO DASGUPTA: So, Florida — per our last estimate,
+      Florida has spent more than $200 million setting up Alligator Alcatraz. And obviously,
+      it was ordered to be — you know, operations to be winded down, which they did.
+      But then an appeals court issued a stay on that order, so it’s a bit unclear about
+      what’s happening at the site now. In general, the DeSantis administration has
+      taken a very hard stance on immigration, and he has made Florida among — a leader
+      in the states which are cracking down on violators of immigration laws. But in
+      terms of, you know, our story about people sort of falling off the grid after
+      being moved out of Alligator Alcatraz, his office did not comment. They referred
+      us to ICE, and ICE did not issue any comment either, despite multiple requests.
+      AMY GOODMAN: Thomas Kennedy, you work with the Florida Immigrant Coalition. Can
+      you talk about the panic of families right now when they can’t find their loved
+      ones? We’re talking about Alligator Alcatraz, which is the term that Republicans
+      dubbed this Everglades detention jail, and also what they also have dubbed “Deportation
+      Depot,” another jail in Florida. But talk about both and what the families are
+      doing. THOMAS KENNEDY: Sure. So, you know, we actually connected and worked with
+      the family of Michael Borrego, who was just mentioned. And, you know, basically,
+      this is what I call the administrative disappearances. Because Alligator Alcatraz
+      is a completely state-run facility, and the state of Florida is trying to avoid
+      a NEPA process, a National Environmental Protection Act environmental study, because
+      this facility sits in ecologically protected land that actually has a dark-sky
+      designation, they neglected to sign federal legal agreements that give the state
+      the authority to detain immigrants. And because of that, it’s one of the reasons
+      why the people detained there don’t show up in public databases, as previously
+      mentioned. And that creates a host of problems for the family members and those
+      detained there, right? By not showing up in these public databases, it is easy
+      to deny them due process and legal recourse. People are deported promptly, before
+      scheduled bond hearings. People are hospitalized often. This guy, Michael Borrego,
+      you know, we connected with his mother, Yaneisy, both of Cuban descent. He actually
+      had to endure a hemorrhoid-related surgery while detained at Alligator Alcatraz
+      and was transferred over to Kendall Hospital, where most of the hospitalizations
+      that take place in that facility end up. And he was there for three days after
+      his surgery and was immediately transferred over to Alligator Alcatraz again,
+      where he did not receive adequate medical care for his recovery and was denied
+      even the most basic medicine to alleviate pain, for example. And these hospitalizations,
+      which, you know, also have included cardiac incidents, you know, follow-up — there
+      was a guy that we met whose fiancée told us that he had exploratory heart surgery
+      just a week before being detained and was suffering from a ruptured kidney while
+      in this facility. These hospitalizations are not recorded nor acknowledged by
+      the state of Florida, the Florida Department of Emergency Management, which administers
+      the facility, nor by the hospital itself, even though we saw and we recorded and
+      documented ambulances going in and out of the facility constantly, upwards of
+      a dozen sometimes a day, because of the terrible conditions that have been outlined
+      in this program and many others, right? So, again, it creates an environment where
+      due process is denied, legal recourse is denied, accountability is denied, transparency
+      is denied. Medical incidents are not recorded, which puts the detainees under
+      further medical exposure and threat. And right now things are so bad. I mean,
+      the Miami Herald did a great job obtaining this list of people detained there
+      — right? — and cross-referencing people to the ICE locator to show up — to show
+      what we advocates have been arguing for weeks — right? — that this is a systemic
+      issue and that people actually do not show up in these databases, which creates
+      all of these problems, right? But, yeah, I mean, what we are seeing at Alligator
+      Alcatraz is basically a new model of immigration detention, where a state-run
+      facility is operating as an extrajudicial black site, completely outside of the
+      previous models of immigration detention in this country. And it’s grabbing — making
+      what was already a terrible system somehow even worse. AMY GOODMAN: Thomas Kennedy,
+      we want to thank you for being with us. We hope you can stay with us for a post-show
+      in Spanish for our Spanish website to talk about this crisis of immigrants disappearing.
+      Where are they? Florida Immigrant Coalition. Shirsho Dasgupta is with the Miami
+      Herald . He broke the story , “Hundreds of Alligator Alcatraz detainees drop off
+      the grid after leaving site.” Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . DemocracyNow! Democracy Now! produces
+      a daily, global, independent news hour hosted by award-winning journalists Amy
+      Goodman and Juan González. Our reporting includes breaking daily news headlines
+      and in-depth interviews with people on the front lines of the world’s most pressing
+      issues. On Democracy Now!, you’ll hear a diversity of voices speaking for themselves,
+      providing a unique and sometimes provocative perspective on global events. Author
+      Site Please share this story and help us grow our network!'
+    one_sentence_summary: Hundreds of immigrants detained at the controversial "Alligator
+      Alcatraz" jail in Florida have disappeared from ICE's records, raising concerns
+      about the facility's operation as an extrajudicial black site amidst reports of
+      abuse, even as a federal appeals court allows it to continue functioning.
+    paragraph_summary: A troubling situation has emerged at the immigration detention
+      facility in the Florida Everglades, known as "Alligator Alcatraz," where hundreds
+      of detainees have reportedly disappeared. According to a report by the Miami Herald,
+      as of late August, approximately two-thirds of the 1,800 immigrants held there
+      in July are missing from ICE's online database, leaving families and attorneys
+      unable to find them. Despite ongoing reports of abuse, a federal appeals court
+      has allowed the facility to continue operating. Thomas Kennedy from the Florida
+      Immigrant Coalition describes the facility as a new model of immigration detention
+      functioning as an extrajudicial black site, exacerbating an already problematic
+      system. President Trump has praised the facility, asserting that it serves its
+      purpose effectively.
+    published: '2025-09-26T09:00:00+00:00'
+  - title: Don’t Let Wall Street Gamble with Your Golden Years
+    url: https://scheerpost.com/2025/09/25/dont-let-wall-street-gamble-with-your-golden-years/
+    text: 'Photo by Aditya Vyas on Unsplash In one of the scariest moments in modern
+      history, we''re doing our best at ScheerPost to pierce the fog of lies that conceal
+      it but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Chloe Rogers / OtherWords Your retirement savings are supposed to
+      be the safest money you’ll ever have — not a roll of the dice. The whole point
+      of a 401(k) and other retirement plans is to let you gradually build wealth that
+      brings economic security in your golden years. But private equity firms are itching
+      to lure retirement savers into Wall Street’s casino. Anyone who wants a secure
+      retirement should recall what Las Vegas tourists inevitably learn: the house always
+      wins. Private equity is a business model built on raising money from big, sophisticated
+      institutional investors like pension funds, endowments, and insurance companies
+      — then buying companies to flip them for profit. It works out well for Wall Street
+      executives who pocket enormous fees, but it often leaves companies and workers
+      in ruins. Toys “R” Us was driven into bankruptcy after being loaded with debt
+      by its private equity owners. So were hospital chains Steward Healthcare and Prospect
+      Medical Holdings , craft powerhouse Joann Fabrics , the TGI Fridays restaurant
+      chain , Payless ShoeSource , and Sears . These companies were all gutted by private
+      equity deals that prioritized quick payouts over long-term stability. But now,
+      the big investors these Wall Street firms once relied on — like Yale University,
+      which oversees a staggering $41.4 billion endowment — are walking away after years
+      of high fees, murky accounting, and disappointing results. If the pros are stepping
+      away, who’s left? Ordinary savers, who hold $12.4 trillion in retirement accounts.
+      Private equity firms want to bring the workers holding this cash to the table,
+      where the game is stacked against them. And the Trump administration is helping
+      them , pressuring the Department of Labor and the Securities and Exchange Commission,
+      the very agencies meant to safeguard retirement savers, to open the door for private
+      equity firms to enter 401(k) plans. Private equity firms see you as easy prey.
+      Your retirement account is a steady pot of money, and they’d love to siphon off
+      fat fees while locking you into risky, opaque investments you can’t escape. They
+      get rich whether you win or lose — and you get stuck with the bill. While a standard
+      index fund charges less than half a percent in annual fees, private equity takes
+      2 percent off the top every year plus 20 percent of whatever gains the investments
+      make . There are “transaction fees,” “monitoring fees,” and other made-up charges
+      that guarantee the casino wins — and your golden years pay for someone else’s
+      yacht. If you invest your money in the stock market, you can see what’s going
+      on: up or down, it’s very transparent. Private equity funds set their own valuations,
+      meaning your account balance could look fine on paper even as long-term losses
+      pile up. Plus, your money could be tied up for five or ten years. Need cash for
+      an emergency? Too bad. No one saving for retirement ever asked, “Can you make
+      my 401(k) riskier, less transparent and more expensive?” Instead, this push is
+      coming straight from Wall Street, which has spent years buying political influence
+      in Washington. The Trump administration welcomed private equity executives into
+      its ranks and has been eager to deliver on their agenda, weakening the rules that
+      kept retirement funds safe for decades and clearing the way for Wall Street to
+      raid ordinary people’s savings. Retirement saving should be boring. Boring means
+      low fees, broad diversification, steady growth, and money that will be there when
+      you need it. But in the private equity casino, Wall Street never risks its own
+      chips. They rake in the pot while you’re left holding the losses. The lure of
+      gambling is insidious. Wall Street will play on that as it pushes the Trump administration
+      for finance-friendly changes. If private equity is allowed into 401(k)s, the only
+      ones guaranteed to come out ahead are the billionaires. And your golden years?
+      You’ll be cleaned out. Editor’s Note : A t a moment when the once vaunted model
+      of responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Chloe Rogers Chloe Rogers is a communications
+      intern at Americans for Financial Reform. Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: The article warns that private equity firms are attempting
+      to attract retirement savings into high-risk investments, jeopardizing the financial
+      security that 401(k) plans are meant to provide.
+    paragraph_summary: The article by Chloe Rogers highlights the growing concern over
+      private equity firms targeting retirement savings, which are traditionally seen
+      as secure investments meant to ensure financial stability in retirement. It warns
+      that these firms, known for profiting at the expense of companies and employees,
+      are now attempting to lure ordinary savers into risky investments reminiscent
+      of gambling, despite the historical failures of companies like Toys “R” Us and
+      Sears under private equity ownership. As institutional investors like Yale University
+      withdraw due to high fees and poor performance, the burden shifts to individual
+      savers, who collectively hold $12.4 trillion in retirement accounts. The article
+      also notes that the Trump administration is facilitating this trend by pressuring
+      the Department of Labor, raising alarms about the potential risks to everyday
+      workers' financial futures.
+    published: '2025-09-25T09:20:00+00:00'
+  - title: Don’t Let Wall Street Gamble with Your Golden Years
+    url: https://scheerpost.com/2025/09/25/dont-let-wall-street-gamble-with-your-golden-years/
+    text: 'Photo by Aditya Vyas on Unsplash In one of the scariest moments in modern
+      history, we''re doing our best at ScheerPost to pierce the fog of lies that conceal
+      it but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Chloe Rogers / OtherWords Your retirement savings are supposed to
+      be the safest money you’ll ever have — not a roll of the dice. The whole point
+      of a 401(k) and other retirement plans is to let you gradually build wealth that
+      brings economic security in your golden years. But private equity firms are itching
+      to lure retirement savers into Wall Street’s casino. Anyone who wants a secure
+      retirement should recall what Las Vegas tourists inevitably learn: the house always
+      wins. Private equity is a business model built on raising money from big, sophisticated
+      institutional investors like pension funds, endowments, and insurance companies
+      — then buying companies to flip them for profit. It works out well for Wall Street
+      executives who pocket enormous fees, but it often leaves companies and workers
+      in ruins. Toys “R” Us was driven into bankruptcy after being loaded with debt
+      by its private equity owners. So were hospital chains Steward Healthcare and Prospect
+      Medical Holdings , craft powerhouse Joann Fabrics , the TGI Fridays restaurant
+      chain , Payless ShoeSource , and Sears . These companies were all gutted by private
+      equity deals that prioritized quick payouts over long-term stability. But now,
+      the big investors these Wall Street firms once relied on — like Yale University,
+      which oversees a staggering $41.4 billion endowment — are walking away after years
+      of high fees, murky accounting, and disappointing results. If the pros are stepping
+      away, who’s left? Ordinary savers, who hold $12.4 trillion in retirement accounts.
+      Private equity firms want to bring the workers holding this cash to the table,
+      where the game is stacked against them. And the Trump administration is helping
+      them , pressuring the Department of Labor and the Securities and Exchange Commission,
+      the very agencies meant to safeguard retirement savers, to open the door for private
+      equity firms to enter 401(k) plans. Private equity firms see you as easy prey.
+      Your retirement account is a steady pot of money, and they’d love to siphon off
+      fat fees while locking you into risky, opaque investments you can’t escape. They
+      get rich whether you win or lose — and you get stuck with the bill. While a standard
+      index fund charges less than half a percent in annual fees, private equity takes
+      2 percent off the top every year plus 20 percent of whatever gains the investments
+      make . There are “transaction fees,” “monitoring fees,” and other made-up charges
+      that guarantee the casino wins — and your golden years pay for someone else’s
+      yacht. If you invest your money in the stock market, you can see what’s going
+      on: up or down, it’s very transparent. Private equity funds set their own valuations,
+      meaning your account balance could look fine on paper even as long-term losses
+      pile up. Plus, your money could be tied up for five or ten years. Need cash for
+      an emergency? Too bad. No one saving for retirement ever asked, “Can you make
+      my 401(k) riskier, less transparent and more expensive?” Instead, this push is
+      coming straight from Wall Street, which has spent years buying political influence
+      in Washington. The Trump administration welcomed private equity executives into
+      its ranks and has been eager to deliver on their agenda, weakening the rules that
+      kept retirement funds safe for decades and clearing the way for Wall Street to
+      raid ordinary people’s savings. Retirement saving should be boring. Boring means
+      low fees, broad diversification, steady growth, and money that will be there when
+      you need it. But in the private equity casino, Wall Street never risks its own
+      chips. They rake in the pot while you’re left holding the losses. The lure of
+      gambling is insidious. Wall Street will play on that as it pushes the Trump administration
+      for finance-friendly changes. If private equity is allowed into 401(k)s, the only
+      ones guaranteed to come out ahead are the billionaires. And your golden years?
+      You’ll be cleaned out. Editor’s Note : A t a moment when the once vaunted model
+      of responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Chloe Rogers Chloe Rogers is a communications
+      intern at Americans for Financial Reform. Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: The article warns that private equity firms are attempting
+      to attract retirement savings into high-risk investments, jeopardizing the financial
+      security that 401(k) plans are meant to provide.
+    paragraph_summary: The article by Chloe Rogers highlights the growing concern over
+      private equity firms targeting retirement savings, which are traditionally seen
+      as secure investments meant to ensure financial stability in retirement. It warns
+      that these firms, known for profiting at the expense of companies and employees,
+      are now attempting to lure ordinary savers into risky investments reminiscent
+      of gambling, despite the historical failures of companies like Toys “R” Us and
+      Sears under private equity ownership. As institutional investors like Yale University
+      withdraw due to high fees and poor performance, the burden shifts to individual
+      savers, who collectively hold $12.4 trillion in retirement accounts. The article
+      also notes that the Trump administration is facilitating this trend by pressuring
+      the Department of Labor, raising alarms about the potential risks to everyday
+      workers' financial futures.
+    published: '2025-09-25T09:20:00+00:00'
+  - title: Preparing for Scarcity
+    url: https://scheerpost.com/2025/09/25/preparing-for-scarcity/
+    text: 'Drought by Oregon Department of Agriculture is licensed under CC BY-NC-ND
+      2.0 / Flickr In one of the scariest moments in modern history, we''re doing our
+      best at ScheerPost to pierce the fog of lies that conceal it but we need some
+      help to pay our writers and staff. Please consider a tax-deductible donation .
+      By Frida Berrigan / TomDispatch The truck wheel’s inner tube was right in front
+      of me, no longer half-submerged in the pond’s late summer muck. After so many
+      hot weeks without rain, the water had dried up and the garbage was completely
+      exposed. My feet barely sank into the mud as I pulled the inner tube free. It
+      was heavier than I expected, full of leftover pond water. I tipped it to drain
+      the water, so I could carry it away. But that water just kept dribbling out. It
+      was dark and smelled of rotten leaves. As I shook the tube, I tried to keep the
+      muck from getting on my shoes. There must have been three or four gallons of it.
+      Contorted in an uncomfortable crouch and harassed by bugs as the water glugged
+      slowly out of the little hole, I felt impatient. I was ready to share my grubby
+      prize with my friends, but the hole was so small and I was still far from the
+      road. So, I waited, watching the water continue to trickle out. But I couldn’t
+      just wait. Instead, my mind drifted to catastrophe, and I began imagining a near
+      future where I could no longer take water for granted. Such a thought was in my
+      head not just because I’m prone to binge on dystopian novels but because I read
+      the newspaper and watch the TV news at night. So, there I was, crouching at the
+      no-longer-pond’s edge, cradling that huge inner tube, and wondering how long it
+      would be in our overheating future before the dark, fetid water I was pouring
+      onto the ground would seem like a precious resource for my family and me. Extended
+      drought? The collapse of our water infrastructure? War? None of those nightmare
+      scenarios is remote enough anymore that I can simply dismiss them as figments
+      of my overactive imagination. Meanwhile, I continued to think about that gross
+      water. How would I clean it if I needed to? I recalled my survival-skills training
+      between 8th and 9th grade and decided I would first have to filter it, then boil
+      it, and finally treat it with iodine. And no, it wouldn’t be delicious or refreshing,
+      but it probably wouldn’t kill us either. Then I thought about how it might have
+      been inside that inner tube for years and realized that life would have to be
+      brutish indeed before I considered such a last resort water source. Is our water
+      infrastructure here in New London, Connecticut, old? It sure is. Sometimes there
+      are even black flecks in the water that pours out of our faucets. But no worries
+      now. After all, I had a big bottle of fleckless water in my backpack, and I certainly
+      wouldn’t need to drink that ancient inner-tube pond water. Not today, anyway.
+      Better yet, rain was forecast for later in the weekend! And so, the moment passed
+      — but not completely because I suddenly remembered some water I drank 30 years
+      ago that had been boiled over a wood fire in a small town in Guatemala when I
+      was part of a peace delegation there. All these years later, my tongue could still
+      feel the eerie dryness, the woodiness of that water, and suddenly I wondered whether
+      that feeling would be in my future, too. Water Wars — For Real The kids in New
+      London had gathered in this park just a few weeks earlier for “Water Wars,” a
+      beloved community institution where, on a hot summer morning, kids and grown-ups
+      arm themselves with water guns and soak one another. That day, there was also
+      a dunk tank, a deejay, and dozens of people running around with big, brightly
+      colored Super Soakers. In truth, I’ve never liked the event, perhaps because I’m
+      a grumpy old person who just doesn’t care for guns of any sort, even play ones.
+      And now, contemplating the future loss of water and the violence that could come
+      with it, those Water Wars suddenly seemed like fin de siècle madness to me. As
+      I — excuse the image — immerse myself ever more deeply in the current and impending
+      water crises, I find myself increasingly troubled by the very real water wars
+      to come. The Pacific Institute , which has tracked water-related conflicts for
+      three decades, never counted more of them than the 347 in 2023 (the last year
+      for which it had complete data). Its report distinguished between water as a trigger
+      for war, a weapon of war, and a casualty of war. In Burkina Faso, Mexico, Ukraine,
+      and elsewhere globally, civilians now all too often find themselves going without
+      water, as its sources and treatment facilities are destroyed, while groups fight
+      over who controls what water remains. Dr. Peter Gleick, cofounder of the Pacific
+      Institute, wrote The Third Age of Water in which he argues that everyone deserves
+      the “human right to water.” And at this moment, nowhere on earth is water more
+      a cause for and casualty of war than in Palestine. As he notes, that is “partly
+      a reflection on the scarcity of water in the region. It’s partly a reflection
+      on disputes over control of land in the West Bank. And it’s partly a reflection
+      of the massive destruction of Gaza after the Hamas attack in October, where infrastructure
+      of all kinds has been targeted — civilian infrastructure, schools, hospitals,
+      water systems, energy systems. It’s a reflection of the broad violence in the
+      region.” In short, there is no longer any human right to water in Gaza or parts
+      of the West Bank either. And believe it or not, even as such realities came to
+      my mind, the water was still dribbling out of that inner tube, while my arms hurt
+      ever more from holding it up. Still, when I placed my minuscule discomfort alongside
+      that of all those people in Gaza, waiting in vain for both water and food in a
+      manmade famine of genocidal proportions, I felt ashamed. All Wars Are Resource
+      Wars Even before the complete leveling of all infrastructure there in an almost
+      two-year massive bombardment, the lives of Palestinians were violently controlled
+      and curtailed by the Israeli Defense Forces (IDF). An IDF Military Order had long
+      forbidden Palestinians from building any new water installations without a permit
+      from the Israeli army. Since that order was issued in 1967, almost no one has
+      gotten such a permit. So, Palestinians weren’t able to drill new water wells,
+      install pumps, or even deepen existing wells. And now, many of them don’t have
+      access to fresh water springs at all and are cut off from the Jordan River. In
+      a Big Brother twist that boggles the mind, they aren’t even allowed to collect
+      rainwater in cisterns. As writer Ta-Nehisi Coates observed in his book The Message
+      , “Israel had advanced beyond the Jim Crow South and segregated not just the pools
+      and fountains but the water itself.” And if anyone is still on the fence about
+      that one-sided war of dominion, such a piece of information should knock you to
+      the side of the suffering, starving, thirsty, dying Palestinians. Of course, on
+      some level, all wars are resource wars. Military scholar Michael Klare made exactly
+      that point as early as 2001 . For nearly two years, Israel has used Hamas’s brutal
+      October 7, 2023, attack on civilian and military targets as its excuse to destroy
+      as much of Gaza as possible — mission (almost) complete. Trump’s “ Riviera of
+      the Middle East ” fever dream of Gaza as a casino-state built to Atlantic City
+      levels of gaudiness might never be realized, but Israel’s long game certainly
+      includes complete control over Palestinian natural resources , including oil and
+      gas . Americans are propagandized to think of the “poor Palestinians” (if we think
+      of them at all), even though Palestine is rich in natural resources. Trump Doesn’t
+      Drink Water The rumor is that Donald Trump drinks 12 Diet Cokes a day (the best
+      argument against “Just for the Taste of It” I’ve ever heard). His aversion to
+      drinking water is well known; and his antipathy toward the basic building blocks
+      of life seems to come right out of a Mad Max movie, but it’s consistent with his
+      administration’s assault on the water system infrastructure in the United States.
+      The 2024 Report Card of the American Society of Civil Engineers gives our water
+      infrastructure a C-. Worse yet, they project a $309 billion chasm in funding between
+      the drinking-water-infrastructure needs of this country and what the federal government
+      is allocating in investments. And that chasm is expected to grow into a gulf of
+      $620 billion by 2043. In short, we’re losing the equivalent of 50 million Olympic-sized
+      swimming pools of water through leaks and cracks every year, more than enough
+      to meet the needs of the 2.2 million Americans who don’t have running water or
+      basic indoor plumbing, according to Dig Deep , a water access organization. That’s
+      one hell of a lot of people in the richest nation on earth, even if not that many
+      in a population of 340 million. While you might imagine that it’s just back-to-the-landers
+      and old White hippies who like to chop wood and haul water, more than 44 million
+      of us are served by inadequate water systems that recently had Safe Drinking Water
+      Act violations — one of every seven Americans. My black-flecked water might be
+      among that number. President Trump, of course, is hardly bending over backwards
+      to address such a gulf in water access. For him, undoubtedly, the problem doesn’t
+      even register, not like railing against apocalyptic city hellscapes, deputizing
+      brutes to muscle immigrants out of the country, or selectively mourning some victims
+      of gun violence and not others . Rain Barrel Resistance I collect rainwater in
+      three big olive barrels with spigots drilled into the bottom and mesh stretched
+      over the top to try to keep mosquitoes from setting up residence there. Earlier
+      this year, I even bought a dozen goldfish after the Internet assured me they would
+      eat mosquito larvae. I freed them into those barrels and encouraged my kids to
+      name them. Within a week, unfortunately, they turned up dead at the top of the
+      barrels. I use the water to keep my weedy garden alive and give it to my chickens
+      (assumedly with tasty mosquito larvae for extra protein). I got the rain barrels
+      after reading that unchlorinated, untreated rainwater is better for plants. In
+      light of everything, can I now see those barrels as an act of resistance on this
+      distinctly overheating planet of ours? How long before someone tries to regulate
+      rainwater collection? How long before the tech bros figure out a way to put a
+      price tag on what falls from the sky? (That’s anything but far-fetched if you
+      consider how everything else is being privatized.) How long can I depend on the
+      relatively clean water from my tap? It flows in a big underground pipe from a
+      reservoir less than 10 miles from my home and is filtered by my local water company.
+      That system has provided New London, a town established in the 1600s, with water
+      for a good long time, but will it keep doing so for the foreseeable, ever hotter
+      future? In fact, is there a foreseeable future? Sometimes, I pay my water bill
+      in person. I asked once if there was anything I could do to be more efficient
+      and steward my water resources better. The woman behind the counter looked at
+      my bill and then said, “For a single person, you’re doing pretty good.” “Oh,”
+      I replied, “I’m actually a family of five.” (I wondered then if I looked like
+      a single lady or if she was just basing her statement on my water consumption.)
+      “What!?” she exclaimed and added, “You are not a very good water customer then.
+      You should get a pool or wash your car more or something!” I realized that she
+      was joking and we laughed together. Then, she commended me on my family’s good
+      water savings. And it’s true that here in the northeast, I might still be able
+      to lull myself into complacency. It’s raining, in fact, as I write this. But I
+      can’t act so naively when we’re clearly heading off a weather cliff. A recent
+      headline in my local newspaper still haunts me. “Scientists tap ‘secret’ fresh
+      water under the ocean, raising hopes for a thirsty world.” What could go wrong?
+      After all, there’s evidently a vast freshwater aquifer beneath the ocean floor
+      off the eastern coast of the United States and, amid a massive and growing water
+      crisis , the world needs water . However, Woods Hole geophysicist Rob Evans offers
+      caution: “If we were to go out and start pumping these waters, there would almost
+      certainly be unforeseen consequences.” Will that aquifer and others like it become
+      the United States’ strategic reserves, alongside oil reserves and the nuclear
+      weapons we keep in “reserve” to protect our wealth? Might countries like ours
+      someday go to war to defend any edge they might have in dwindling water reserves?
+      Trump’s saber-rattling at our neighbor to the north was at least partially water-related,
+      wasn’t it? In his usual fantasy-filled fashion, he imagined a “large faucet” directing
+      Canadian water to California’s needy orchards and fields. Preparing for — Responding
+      to — All the Bads Which will get us first? Forest fires or fascism? Misogyny or
+      microplastics ? Global warming or the paramilitary/ ICE take over? Obviously,
+      we’re in an age of polycrisis, of multi-headed, interconnected catastrophes that
+      we need to confront all at once. Talk about drinking from a fire hose! But at
+      least we have to keep trying. I suffer from brief spells of wanting to just sink
+      into the leftover muck in the park where I found that old inner tube and let all
+      the change — the good and bad, but mostly the bad — just wash over me. Instead,
+      I shouldered that still heavy (but by now empty) inner tube, put one small foot
+      in front of another, and hauled it out of the pond bed. As I dragged it along
+      the path, I toggled between despair, hopelessness, and a steadfast grind of resolute,
+      teeth-gritting effort to do good. I can’t change the gutting of federal institutions
+      or the assault on science. But I can pick up trash in a public park. I can’t end
+      the Israel Defense Forces assault on Gaza, but I do boycott ( no SodaStream for
+      me). I have divested (my paltry nest egg) and I still support sanctions . I can’t
+      keep Donald Trump from building up ICE as a paramilitary goon squad or stop the
+      polar ice caps from melting, but I can smile at my neighbors, network with friends
+      into rapid response whenever ICE shows up, and do my best not to use too much
+      water. It’s all so small, given everything we face, that it’s almost not worth
+      mentioning. Still, that drying pond bed is at least a little cleaner, my community a
+      little friendlier, and I am at least witnessing (and trying to alleviate) the
+      suffering in Palestine. Shouldn’t that matter at least a little? Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Frida Berrigan
+      Frida Berrigan is the author of It Runs In The Family: On Being Raised by Radicals
+      and Growing into Rebellious Motherhood . She is a T omDispatch regular and writes
+      the Little Insurrections column for WagingNonviolence.Org . She has three children
+      and lives in New London, Connecticut, where she is a gardener and community organizer.
+      Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: In a vivid and unsettling scene, the author describes the
+      experience of retrieving a truck wheel's inner tube from a dried-up pond, highlighting
+      the environmental impact of prolonged drought and the unsettling remnants it leaves
+      behind.
+    paragraph_summary: In a reflective piece by Frida Berrigan for TomDispatch, the
+      author recounts a moment of personal confrontation with the realities of drought
+      while retrieving a truck wheel's inner tube from a dried-up pond. As she struggles
+      with the heavy, foul-smelling water trapped inside the tube, her thoughts drift
+      to a future where water scarcity could become a dire reality due to climate change,
+      infrastructure collapse, or conflict. This experience serves as a metaphor for
+      the broader anxieties surrounding environmental degradation and the potential
+      loss of essential resources, highlighting the urgency of addressing these looming
+      crises.
+    published: '2025-09-25T09:15:00+00:00'
+  - title: Preparing for Scarcity
+    url: https://scheerpost.com/2025/09/25/preparing-for-scarcity/
+    text: 'Drought by Oregon Department of Agriculture is licensed under CC BY-NC-ND
+      2.0 / Flickr In one of the scariest moments in modern history, we''re doing our
+      best at ScheerPost to pierce the fog of lies that conceal it but we need some
+      help to pay our writers and staff. Please consider a tax-deductible donation .
+      By Frida Berrigan / TomDispatch The truck wheel’s inner tube was right in front
+      of me, no longer half-submerged in the pond’s late summer muck. After so many
+      hot weeks without rain, the water had dried up and the garbage was completely
+      exposed. My feet barely sank into the mud as I pulled the inner tube free. It
+      was heavier than I expected, full of leftover pond water. I tipped it to drain
+      the water, so I could carry it away. But that water just kept dribbling out. It
+      was dark and smelled of rotten leaves. As I shook the tube, I tried to keep the
+      muck from getting on my shoes. There must have been three or four gallons of it.
+      Contorted in an uncomfortable crouch and harassed by bugs as the water glugged
+      slowly out of the little hole, I felt impatient. I was ready to share my grubby
+      prize with my friends, but the hole was so small and I was still far from the
+      road. So, I waited, watching the water continue to trickle out. But I couldn’t
+      just wait. Instead, my mind drifted to catastrophe, and I began imagining a near
+      future where I could no longer take water for granted. Such a thought was in my
+      head not just because I’m prone to binge on dystopian novels but because I read
+      the newspaper and watch the TV news at night. So, there I was, crouching at the
+      no-longer-pond’s edge, cradling that huge inner tube, and wondering how long it
+      would be in our overheating future before the dark, fetid water I was pouring
+      onto the ground would seem like a precious resource for my family and me. Extended
+      drought? The collapse of our water infrastructure? War? None of those nightmare
+      scenarios is remote enough anymore that I can simply dismiss them as figments
+      of my overactive imagination. Meanwhile, I continued to think about that gross
+      water. How would I clean it if I needed to? I recalled my survival-skills training
+      between 8th and 9th grade and decided I would first have to filter it, then boil
+      it, and finally treat it with iodine. And no, it wouldn’t be delicious or refreshing,
+      but it probably wouldn’t kill us either. Then I thought about how it might have
+      been inside that inner tube for years and realized that life would have to be
+      brutish indeed before I considered such a last resort water source. Is our water
+      infrastructure here in New London, Connecticut, old? It sure is. Sometimes there
+      are even black flecks in the water that pours out of our faucets. But no worries
+      now. After all, I had a big bottle of fleckless water in my backpack, and I certainly
+      wouldn’t need to drink that ancient inner-tube pond water. Not today, anyway.
+      Better yet, rain was forecast for later in the weekend! And so, the moment passed
+      — but not completely because I suddenly remembered some water I drank 30 years
+      ago that had been boiled over a wood fire in a small town in Guatemala when I
+      was part of a peace delegation there. All these years later, my tongue could still
+      feel the eerie dryness, the woodiness of that water, and suddenly I wondered whether
+      that feeling would be in my future, too. Water Wars — For Real The kids in New
+      London had gathered in this park just a few weeks earlier for “Water Wars,” a
+      beloved community institution where, on a hot summer morning, kids and grown-ups
+      arm themselves with water guns and soak one another. That day, there was also
+      a dunk tank, a deejay, and dozens of people running around with big, brightly
+      colored Super Soakers. In truth, I’ve never liked the event, perhaps because I’m
+      a grumpy old person who just doesn’t care for guns of any sort, even play ones.
+      And now, contemplating the future loss of water and the violence that could come
+      with it, those Water Wars suddenly seemed like fin de siècle madness to me. As
+      I — excuse the image — immerse myself ever more deeply in the current and impending
+      water crises, I find myself increasingly troubled by the very real water wars
+      to come. The Pacific Institute , which has tracked water-related conflicts for
+      three decades, never counted more of them than the 347 in 2023 (the last year
+      for which it had complete data). Its report distinguished between water as a trigger
+      for war, a weapon of war, and a casualty of war. In Burkina Faso, Mexico, Ukraine,
+      and elsewhere globally, civilians now all too often find themselves going without
+      water, as its sources and treatment facilities are destroyed, while groups fight
+      over who controls what water remains. Dr. Peter Gleick, cofounder of the Pacific
+      Institute, wrote The Third Age of Water in which he argues that everyone deserves
+      the “human right to water.” And at this moment, nowhere on earth is water more
+      a cause for and casualty of war than in Palestine. As he notes, that is “partly
+      a reflection on the scarcity of water in the region. It’s partly a reflection
+      on disputes over control of land in the West Bank. And it’s partly a reflection
+      of the massive destruction of Gaza after the Hamas attack in October, where infrastructure
+      of all kinds has been targeted — civilian infrastructure, schools, hospitals,
+      water systems, energy systems. It’s a reflection of the broad violence in the
+      region.” In short, there is no longer any human right to water in Gaza or parts
+      of the West Bank either. And believe it or not, even as such realities came to
+      my mind, the water was still dribbling out of that inner tube, while my arms hurt
+      ever more from holding it up. Still, when I placed my minuscule discomfort alongside
+      that of all those people in Gaza, waiting in vain for both water and food in a
+      manmade famine of genocidal proportions, I felt ashamed. All Wars Are Resource
+      Wars Even before the complete leveling of all infrastructure there in an almost
+      two-year massive bombardment, the lives of Palestinians were violently controlled
+      and curtailed by the Israeli Defense Forces (IDF). An IDF Military Order had long
+      forbidden Palestinians from building any new water installations without a permit
+      from the Israeli army. Since that order was issued in 1967, almost no one has
+      gotten such a permit. So, Palestinians weren’t able to drill new water wells,
+      install pumps, or even deepen existing wells. And now, many of them don’t have
+      access to fresh water springs at all and are cut off from the Jordan River. In
+      a Big Brother twist that boggles the mind, they aren’t even allowed to collect
+      rainwater in cisterns. As writer Ta-Nehisi Coates observed in his book The Message
+      , “Israel had advanced beyond the Jim Crow South and segregated not just the pools
+      and fountains but the water itself.” And if anyone is still on the fence about
+      that one-sided war of dominion, such a piece of information should knock you to
+      the side of the suffering, starving, thirsty, dying Palestinians. Of course, on
+      some level, all wars are resource wars. Military scholar Michael Klare made exactly
+      that point as early as 2001 . For nearly two years, Israel has used Hamas’s brutal
+      October 7, 2023, attack on civilian and military targets as its excuse to destroy
+      as much of Gaza as possible — mission (almost) complete. Trump’s “ Riviera of
+      the Middle East ” fever dream of Gaza as a casino-state built to Atlantic City
+      levels of gaudiness might never be realized, but Israel’s long game certainly
+      includes complete control over Palestinian natural resources , including oil and
+      gas . Americans are propagandized to think of the “poor Palestinians” (if we think
+      of them at all), even though Palestine is rich in natural resources. Trump Doesn’t
+      Drink Water The rumor is that Donald Trump drinks 12 Diet Cokes a day (the best
+      argument against “Just for the Taste of It” I’ve ever heard). His aversion to
+      drinking water is well known; and his antipathy toward the basic building blocks
+      of life seems to come right out of a Mad Max movie, but it’s consistent with his
+      administration’s assault on the water system infrastructure in the United States.
+      The 2024 Report Card of the American Society of Civil Engineers gives our water
+      infrastructure a C-. Worse yet, they project a $309 billion chasm in funding between
+      the drinking-water-infrastructure needs of this country and what the federal government
+      is allocating in investments. And that chasm is expected to grow into a gulf of
+      $620 billion by 2043. In short, we’re losing the equivalent of 50 million Olympic-sized
+      swimming pools of water through leaks and cracks every year, more than enough
+      to meet the needs of the 2.2 million Americans who don’t have running water or
+      basic indoor plumbing, according to Dig Deep , a water access organization. That’s
+      one hell of a lot of people in the richest nation on earth, even if not that many
+      in a population of 340 million. While you might imagine that it’s just back-to-the-landers
+      and old White hippies who like to chop wood and haul water, more than 44 million
+      of us are served by inadequate water systems that recently had Safe Drinking Water
+      Act violations — one of every seven Americans. My black-flecked water might be
+      among that number. President Trump, of course, is hardly bending over backwards
+      to address such a gulf in water access. For him, undoubtedly, the problem doesn’t
+      even register, not like railing against apocalyptic city hellscapes, deputizing
+      brutes to muscle immigrants out of the country, or selectively mourning some victims
+      of gun violence and not others . Rain Barrel Resistance I collect rainwater in
+      three big olive barrels with spigots drilled into the bottom and mesh stretched
+      over the top to try to keep mosquitoes from setting up residence there. Earlier
+      this year, I even bought a dozen goldfish after the Internet assured me they would
+      eat mosquito larvae. I freed them into those barrels and encouraged my kids to
+      name them. Within a week, unfortunately, they turned up dead at the top of the
+      barrels. I use the water to keep my weedy garden alive and give it to my chickens
+      (assumedly with tasty mosquito larvae for extra protein). I got the rain barrels
+      after reading that unchlorinated, untreated rainwater is better for plants. In
+      light of everything, can I now see those barrels as an act of resistance on this
+      distinctly overheating planet of ours? How long before someone tries to regulate
+      rainwater collection? How long before the tech bros figure out a way to put a
+      price tag on what falls from the sky? (That’s anything but far-fetched if you
+      consider how everything else is being privatized.) How long can I depend on the
+      relatively clean water from my tap? It flows in a big underground pipe from a
+      reservoir less than 10 miles from my home and is filtered by my local water company.
+      That system has provided New London, a town established in the 1600s, with water
+      for a good long time, but will it keep doing so for the foreseeable, ever hotter
+      future? In fact, is there a foreseeable future? Sometimes, I pay my water bill
+      in person. I asked once if there was anything I could do to be more efficient
+      and steward my water resources better. The woman behind the counter looked at
+      my bill and then said, “For a single person, you’re doing pretty good.” “Oh,”
+      I replied, “I’m actually a family of five.” (I wondered then if I looked like
+      a single lady or if she was just basing her statement on my water consumption.)
+      “What!?” she exclaimed and added, “You are not a very good water customer then.
+      You should get a pool or wash your car more or something!” I realized that she
+      was joking and we laughed together. Then, she commended me on my family’s good
+      water savings. And it’s true that here in the northeast, I might still be able
+      to lull myself into complacency. It’s raining, in fact, as I write this. But I
+      can’t act so naively when we’re clearly heading off a weather cliff. A recent
+      headline in my local newspaper still haunts me. “Scientists tap ‘secret’ fresh
+      water under the ocean, raising hopes for a thirsty world.” What could go wrong?
+      After all, there’s evidently a vast freshwater aquifer beneath the ocean floor
+      off the eastern coast of the United States and, amid a massive and growing water
+      crisis , the world needs water . However, Woods Hole geophysicist Rob Evans offers
+      caution: “If we were to go out and start pumping these waters, there would almost
+      certainly be unforeseen consequences.” Will that aquifer and others like it become
+      the United States’ strategic reserves, alongside oil reserves and the nuclear
+      weapons we keep in “reserve” to protect our wealth? Might countries like ours
+      someday go to war to defend any edge they might have in dwindling water reserves?
+      Trump’s saber-rattling at our neighbor to the north was at least partially water-related,
+      wasn’t it? In his usual fantasy-filled fashion, he imagined a “large faucet” directing
+      Canadian water to California’s needy orchards and fields. Preparing for — Responding
+      to — All the Bads Which will get us first? Forest fires or fascism? Misogyny or
+      microplastics ? Global warming or the paramilitary/ ICE take over? Obviously,
+      we’re in an age of polycrisis, of multi-headed, interconnected catastrophes that
+      we need to confront all at once. Talk about drinking from a fire hose! But at
+      least we have to keep trying. I suffer from brief spells of wanting to just sink
+      into the leftover muck in the park where I found that old inner tube and let all
+      the change — the good and bad, but mostly the bad — just wash over me. Instead,
+      I shouldered that still heavy (but by now empty) inner tube, put one small foot
+      in front of another, and hauled it out of the pond bed. As I dragged it along
+      the path, I toggled between despair, hopelessness, and a steadfast grind of resolute,
+      teeth-gritting effort to do good. I can’t change the gutting of federal institutions
+      or the assault on science. But I can pick up trash in a public park. I can’t end
+      the Israel Defense Forces assault on Gaza, but I do boycott ( no SodaStream for
+      me). I have divested (my paltry nest egg) and I still support sanctions . I can’t
+      keep Donald Trump from building up ICE as a paramilitary goon squad or stop the
+      polar ice caps from melting, but I can smile at my neighbors, network with friends
+      into rapid response whenever ICE shows up, and do my best not to use too much
+      water. It’s all so small, given everything we face, that it’s almost not worth
+      mentioning. Still, that drying pond bed is at least a little cleaner, my community a
+      little friendlier, and I am at least witnessing (and trying to alleviate) the
+      suffering in Palestine. Shouldn’t that matter at least a little? Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Frida Berrigan
+      Frida Berrigan is the author of It Runs In The Family: On Being Raised by Radicals
+      and Growing into Rebellious Motherhood . She is a T omDispatch regular and writes
+      the Little Insurrections column for WagingNonviolence.Org . She has three children
+      and lives in New London, Connecticut, where she is a gardener and community organizer.
+      Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: In a vivid and unsettling scene, the author describes the
+      experience of retrieving a truck wheel's inner tube from a dried-up pond, highlighting
+      the environmental impact of prolonged drought and the unsettling remnants it leaves
+      behind.
+    paragraph_summary: In a reflective piece by Frida Berrigan for TomDispatch, the
+      author recounts a moment of personal confrontation with the realities of drought
+      while retrieving a truck wheel's inner tube from a dried-up pond. As she struggles
+      with the heavy, foul-smelling water trapped inside the tube, her thoughts drift
+      to a future where water scarcity could become a dire reality due to climate change,
+      infrastructure collapse, or conflict. This experience serves as a metaphor for
+      the broader anxieties surrounding environmental degradation and the potential
+      loss of essential resources, highlighting the urgency of addressing these looming
+      crises.
+    published: '2025-09-25T09:15:00+00:00'
+  - title: Italy Deploys Naval Ship to Aid Sumud Flotilla Following Drone Attack
+    url: https://scheerpost.com/2025/09/25/italy-deploys-naval-ship-to-aid-sumud-flotilla-following-drone-attack/
+    text: 'The Italian Naval frigate Virginio Fasan, which has been deployed to protect
+      the Sumud Flotilla after it was attacked by drones en route to Gaza. Piergiuliano
+      Chesi, CC BY 3.0 https://creativecommons.org/licenses/by/3.0 , via Wikimedia Commons
+      In one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Stephen Prager / Common
+      Dreams The Italian government says it has sent a naval ship to assist the Global
+      Sumud Flotilla after it was attacked by several drones. Organizers of the flotilla
+      said that the boats, which are carrying humanitarian aid for the starving people
+      of Gaza , were attacked by a swarm of 15 drones early Wednesday morning, with
+      the convoy in the Mediterranean Sea about 600 nautical miles from the enclave.
+      According to Drop Site News , at least eight attacks and six explosions were reported
+      as flash bang grenades hit at least six of the boats. One person has been injured,
+      and two of the boats have been damaged. They also reported that an “unidentified
+      chemical device” was dropped onto one of the boats before falling off into the
+      water. View this post on Instagram A post shared by Global Sumud Flotilla (@globalsumudflotilla)
+      In a statement issued Wednesday, Italy’s defense minister Guido Crosetto said
+      : “Regarding the attack suffered in recent hours by the Sumud Flotilla vessels,
+      which also include Italian citizens, carried out using drones by currently unidentified
+      perpetrators, we can only express the strongest condemnation. In a democracy,
+      even demonstrations and protests must be protected when they are conducted in
+      compliance with international law and without resorting to violence.” “To ensure
+      assistance to the Italian citizens on the flotilla,” Crosetto said that he had
+      “authorized the immediate intervention of the Italian Navy’s multi-purpose frigate
+      Fasan ,” which he said was “already en route to the area for possible rescue operations.”
+      The deployment comes after labor unions in Italy led a nationwide strike in solidarity
+      with Gaza on Monday, with hundreds of thousands of people in 75 cities and towns
+      rallying to support Palestinians as well as the Global Sumud Flotilla. Hundreds
+      of other elected representatives to the European Union also issued calls on Wednesday
+      for their own governments to provide protection to the flotilla. BREAKING Hundreds
+      of elected EU representatives demand immediate protection for the @gbsumudflotilla
+      after last night’s attacks in European waters. The letter comes as the Italian
+      government deploys a naval vessel off the coast of Crete to safeguard their nationals
+      at sea. pic.twitter.com/AbVm7gIc0Y — Progressive International (@ProgIntl) September
+      24, 2025 While the perpetrator of the attack is not yet known, the flotilla organizers
+      have suggested that ” Israel and its allies” were responsible. Israel blocked
+      two other efforts by activists to reach Gaza earlier this summer. The flotilla’s
+      roughly 350 participants —which include humanitarians, doctors, journalists, lawyers,
+      and other activists from at least 44 countries around the world—have repeatedly
+      insisted that they are unarmed and that their goal is to peacefully protest Israel’s
+      siege of Gaza and deliver about 250 tons of food and medical aid to the people
+      of Gaza, who are starving en masse under a near-total blockade by Israel. On Tuesday,
+      Israel’s foreign ministry threatened to take “the necessary measures” to prevent
+      what it described as the “Hamas flotilla” from breaking what it called a “lawful”
+      blockade of Gaza. In a statement posted to Instagram , the flotilla organizers
+      said, “We welcome the recognition by Minister Crosetto of the democratic and non-violent
+      nature of our mission, and his condemnation of the recent attacks on our vessels.”
+      The group called on other UN member states, “in particular those whose nationals
+      are aboard our ships—to ensure and facilitate effective protection, including
+      maritime escorts, accredited diplomatic observers, and an overt protective state
+      presence.” The group emphasized that “such measures must remain protective and
+      facilitative in nature, consistent with the principles of non-interference and
+      the humanitarian purpose of our mission.” Israel ordered the group to turn over
+      its humanitarian aid to Israel for it to be distributed in the strip. Organizers
+      have refused to do this, arguing that Israel’s blockade of aid, which has allowed
+      only small amounts of aid into the strip, is illegal under international law.
+      Update: There have been at least 9 attacks, and at least 6 explosions over the
+      past hour and a half, organizers tell Drop Site. Video report by Brazilian activist
+      Thiago Ávila pic.twitter.com/LcdpX89X9v — Drop Site (@DropSiteNews) September
+      23, 2025 Brazilian organizer Thiago Ávila, has said there is no reason to believe
+      Israel’s promises to distribute aid. “We can never believe an occupying force
+      who is committing genocide that they will deliver aid–it’s not in their interests,”
+      Ávila said on his Instagram. Last week, a commission of independent experts at
+      the United Nations released an extensive report concluding that Israel was committing
+      genocide in Gaza. This has included its blockade of aid entering the strip, which
+      has resulted in the deaths of more than 400 people, including at least 145 children,
+      with many dying in recent months. At least 65,419 Palestinians have also been
+      killed in Israeli attacks on Gaza since October 2023, and at least 167,160 have
+      been wounded. Activists on board on the Gaza-bound Sumud flotilla carrying aid
+      reported explosions and multiple drone attacks against their boats while sailing
+      in international waters off Greece on the way to carry out a peaceful mission,
+      in solidarity with Palestinians facing genocide, by… pic.twitter.com/FK2uZakzW4
+      — Amnesty International (@amnesty) September 24, 2025 In a statement Wednesday
+      morning, Amnesty International condemned the attacks on the flotilla and Israel’s
+      “threatening and dehumanizing statements” against its organizers, which it described
+      as “a shameless attempt to intimidate them and their supporters.” “States have
+      a responsibility to ensure the safe passage of the flotilla, especially as they
+      have repeatedly failed to get Israel to comply with its most basic obligations
+      to ensure Palestinians in Gaza have adequate access to food, water, medicine,
+      and other supplies indispensable to their survival,” Amnesty said. “They must
+      step up pressure on Israel to ensure safe passage for the flotilla and to lift
+      the blockade once for all.” Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Stephen Prager Stephen Prager is a
+      staff writer for Common Dreams. Author Site Please share this story and help us
+      grow our network!'
+    one_sentence_summary: The Italian Navy has deployed the frigate Virginio Fasan to
+      protect the Global Sumud Flotilla, which was attacked by drones while carrying
+      humanitarian aid to Gaza.
+    paragraph_summary: The Italian government has dispatched the naval frigate Virginio
+      Fasan to assist the Global Sumud Flotilla after it was attacked by drones while
+      en route to deliver humanitarian aid to Gaza. The flotilla, located approximately
+      600 nautical miles from Gaza, faced a swarm of 15 drones that resulted in at least
+      eight attacks, six explosions, and injuries to one person, along with damage to
+      two boats. Italy's Defense Minister Guido Crosetto condemned the drone attacks,
+      emphasizing the need for protection of peaceful demonstrations in accordance with
+      international law. The intervention of the Italian Navy aims to ensure the safety
+      of the Italian citizens aboard the flotilla.
+    published: '2025-09-25T09:10:00+00:00'
+  - title: Italy Deploys Naval Ship to Aid Sumud Flotilla Following Drone Attack
+    url: https://scheerpost.com/2025/09/25/italy-deploys-naval-ship-to-aid-sumud-flotilla-following-drone-attack/
+    text: 'The Italian Naval frigate Virginio Fasan, which has been deployed to protect
+      the Sumud Flotilla after it was attacked by drones en route to Gaza. Piergiuliano
+      Chesi, CC BY 3.0 https://creativecommons.org/licenses/by/3.0 , via Wikimedia Commons
+      In one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Stephen Prager / Common
+      Dreams The Italian government says it has sent a naval ship to assist the Global
+      Sumud Flotilla after it was attacked by several drones. Organizers of the flotilla
+      said that the boats, which are carrying humanitarian aid for the starving people
+      of Gaza , were attacked by a swarm of 15 drones early Wednesday morning, with
+      the convoy in the Mediterranean Sea about 600 nautical miles from the enclave.
+      According to Drop Site News , at least eight attacks and six explosions were reported
+      as flash bang grenades hit at least six of the boats. One person has been injured,
+      and two of the boats have been damaged. They also reported that an “unidentified
+      chemical device” was dropped onto one of the boats before falling off into the
+      water. View this post on Instagram A post shared by Global Sumud Flotilla (@globalsumudflotilla)
+      In a statement issued Wednesday, Italy’s defense minister Guido Crosetto said
+      : “Regarding the attack suffered in recent hours by the Sumud Flotilla vessels,
+      which also include Italian citizens, carried out using drones by currently unidentified
+      perpetrators, we can only express the strongest condemnation. In a democracy,
+      even demonstrations and protests must be protected when they are conducted in
+      compliance with international law and without resorting to violence.” “To ensure
+      assistance to the Italian citizens on the flotilla,” Crosetto said that he had
+      “authorized the immediate intervention of the Italian Navy’s multi-purpose frigate
+      Fasan ,” which he said was “already en route to the area for possible rescue operations.”
+      The deployment comes after labor unions in Italy led a nationwide strike in solidarity
+      with Gaza on Monday, with hundreds of thousands of people in 75 cities and towns
+      rallying to support Palestinians as well as the Global Sumud Flotilla. Hundreds
+      of other elected representatives to the European Union also issued calls on Wednesday
+      for their own governments to provide protection to the flotilla. BREAKING Hundreds
+      of elected EU representatives demand immediate protection for the @gbsumudflotilla
+      after last night’s attacks in European waters. The letter comes as the Italian
+      government deploys a naval vessel off the coast of Crete to safeguard their nationals
+      at sea. pic.twitter.com/AbVm7gIc0Y — Progressive International (@ProgIntl) September
+      24, 2025 While the perpetrator of the attack is not yet known, the flotilla organizers
+      have suggested that ” Israel and its allies” were responsible. Israel blocked
+      two other efforts by activists to reach Gaza earlier this summer. The flotilla’s
+      roughly 350 participants —which include humanitarians, doctors, journalists, lawyers,
+      and other activists from at least 44 countries around the world—have repeatedly
+      insisted that they are unarmed and that their goal is to peacefully protest Israel’s
+      siege of Gaza and deliver about 250 tons of food and medical aid to the people
+      of Gaza, who are starving en masse under a near-total blockade by Israel. On Tuesday,
+      Israel’s foreign ministry threatened to take “the necessary measures” to prevent
+      what it described as the “Hamas flotilla” from breaking what it called a “lawful”
+      blockade of Gaza. In a statement posted to Instagram , the flotilla organizers
+      said, “We welcome the recognition by Minister Crosetto of the democratic and non-violent
+      nature of our mission, and his condemnation of the recent attacks on our vessels.”
+      The group called on other UN member states, “in particular those whose nationals
+      are aboard our ships—to ensure and facilitate effective protection, including
+      maritime escorts, accredited diplomatic observers, and an overt protective state
+      presence.” The group emphasized that “such measures must remain protective and
+      facilitative in nature, consistent with the principles of non-interference and
+      the humanitarian purpose of our mission.” Israel ordered the group to turn over
+      its humanitarian aid to Israel for it to be distributed in the strip. Organizers
+      have refused to do this, arguing that Israel’s blockade of aid, which has allowed
+      only small amounts of aid into the strip, is illegal under international law.
+      Update: There have been at least 9 attacks, and at least 6 explosions over the
+      past hour and a half, organizers tell Drop Site. Video report by Brazilian activist
+      Thiago Ávila pic.twitter.com/LcdpX89X9v — Drop Site (@DropSiteNews) September
+      23, 2025 Brazilian organizer Thiago Ávila, has said there is no reason to believe
+      Israel’s promises to distribute aid. “We can never believe an occupying force
+      who is committing genocide that they will deliver aid–it’s not in their interests,”
+      Ávila said on his Instagram. Last week, a commission of independent experts at
+      the United Nations released an extensive report concluding that Israel was committing
+      genocide in Gaza. This has included its blockade of aid entering the strip, which
+      has resulted in the deaths of more than 400 people, including at least 145 children,
+      with many dying in recent months. At least 65,419 Palestinians have also been
+      killed in Israeli attacks on Gaza since October 2023, and at least 167,160 have
+      been wounded. Activists on board on the Gaza-bound Sumud flotilla carrying aid
+      reported explosions and multiple drone attacks against their boats while sailing
+      in international waters off Greece on the way to carry out a peaceful mission,
+      in solidarity with Palestinians facing genocide, by… pic.twitter.com/FK2uZakzW4
+      — Amnesty International (@amnesty) September 24, 2025 In a statement Wednesday
+      morning, Amnesty International condemned the attacks on the flotilla and Israel’s
+      “threatening and dehumanizing statements” against its organizers, which it described
+      as “a shameless attempt to intimidate them and their supporters.” “States have
+      a responsibility to ensure the safe passage of the flotilla, especially as they
+      have repeatedly failed to get Israel to comply with its most basic obligations
+      to ensure Palestinians in Gaza have adequate access to food, water, medicine,
+      and other supplies indispensable to their survival,” Amnesty said. “They must
+      step up pressure on Israel to ensure safe passage for the flotilla and to lift
+      the blockade once for all.” Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Stephen Prager Stephen Prager is a
+      staff writer for Common Dreams. Author Site Please share this story and help us
+      grow our network!'
+    one_sentence_summary: The Italian Navy has deployed the frigate Virginio Fasan to
+      protect the Global Sumud Flotilla, which was attacked by drones while carrying
+      humanitarian aid to Gaza.
+    paragraph_summary: The Italian government has dispatched the naval frigate Virginio
+      Fasan to assist the Global Sumud Flotilla after it was attacked by drones while
+      en route to deliver humanitarian aid to Gaza. The flotilla, located approximately
+      600 nautical miles from Gaza, faced a swarm of 15 drones that resulted in at least
+      eight attacks, six explosions, and injuries to one person, along with damage to
+      two boats. Italy's Defense Minister Guido Crosetto condemned the drone attacks,
+      emphasizing the need for protection of peaceful demonstrations in accordance with
+      international law. The intervention of the Italian Navy aims to ensure the safety
+      of the Italian citizens aboard the flotilla.
+    published: '2025-09-25T09:10:00+00:00'
+  - title: Israel Is Trying To Collapse the Palestinian Authority. The First Step Is
+      Destroying the Palestinian Economy
+    url: https://scheerpost.com/2025/09/25/israel-is-trying-to-collapse-the-palestinian-authority-the-first-step-is-destroying-the-palestinian-economy/
+    text: 'Pro-Palestine and Anti-Capitalist Sticker in East Croydon. Doyle of London,
+      CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0 , via Wikimedia Commons
+      In one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Qassam Muaddi and Mondoweiss
+      Palestine Bureau / Mondoweiss Following the wave of global recognitions of the
+      State of Palestine from key Western and European nations, Israel has been stepping
+      up its plans to render these gestures moot by implementing measures meant to cripple
+      and delegitimize the Palestinian Authority (PA). Earlier this month, Israel approved
+      a massive settlement plan that would split the West Bank in two. Since October
+      7, 2023, it has plunged the PA into an economic crisis by withholding nearly 7
+      billion shekels (around $2 billion) in Palestinian customs money. And in recent
+      months, the Israeli army has launched repeated invasions into the heart of Palestinian
+      cities in the West Bank, ostensibly under PA control. But Israel still hasn’t
+      used its most important trump card in responding to the recent Western and global
+      recognitions of a Palestinian state. It involves a piece of paper, and the person
+      holding it is Israel’s hardline Finance Minister, Bezalel Smotrich. Every year,
+      the Finance Minister renews an indemnity letter allowing Israeli banks to accept
+      money transfers from Palestinians in the West Bank, shielding Israeli banks from
+      anti-terrorism laws they might be at risk of breaking by dealing with Palestinian
+      banks. Smotrich has repeatedly threatened to revoke this letter in response to
+      global sanctions against hardline Ministers like himself and Itamar Ben-Gvir,
+      which could cause the collapse of the Palestinian banking sector — and possibly,
+      the Palestinian Authority. Smotrich has recently been periodically renewing the
+      letter in four-month stretches, using the intervals as pressure points to threaten
+      the PA. This is the spearhead of Israel’s campaign of economic warfare against
+      Palestinians in the West Bank. Here’s why it could hasten the collapse of the
+      PA and formally bring about a one-state apartheid reality. Israel’s financial
+      warfare against the Palestinian Authority The Palestinian Authority’s stand-in
+      for a central bank is the Palestinian Monetary Authority (PMA), which is prohibited
+      from printing money or having its own currency under the economic agreements the
+      PA signed with Israel during the Oslo Accords. This means that nearly every economic
+      transaction Palestinians make has to go through Israel. Mondoweiss reached out
+      to an economic expert and former financial consultant for the PMA, who advised
+      the body on the risk of Israel blocking transfers from Palestinian to Israeli
+      banks, or what’s known as “corresponding banking relations.” The consultant spoke
+      with Mondoweiss on the condition of anonymity to be able to comment freely on
+      the matter. He believes that the PMA is poorly prepared to withstand the economic
+      firestorm that might be coming. If Israel goes ahead with severing banking relations,
+      he says, it might even lead to the collapse of the PA as a political entity. Here’s
+      his explanation. The majority of Palestinian trade comes from or through Israel.
+      That is where the banks come in: all payments to any merchant happen when a Palestinian
+      bank sends money to its Israeli counterpart. “That transfer happens electronically,
+      in Shekels,” the consultant says. “There are only two main methods of getting
+      merchandise into Palestine: Israel, which is the predominant way, and Jordan.
+      If you want to import essential goods like gasoline, you have to pay the Israeli
+      supplier directly to their bank account.” In essence, this means that if Smotrich
+      prevents Israeli banks from receiving these payments, it would effectively heavily
+      curtail the ability of Palestinian merchants to bring products into the West Bank
+      through Israel, as they’d have no way of paying for them. The money they have
+      would be useless. Smotrich has already threatened to revoke this letter several
+      times, most recently in June, when he announced that he would cancel the indemnity
+      in response to sanctions placed on himself and fellow hardline minister Itamar
+      Ben-Gvir by the UK, Australia, New Zealand, Canada, and Norway — even though the
+      PA was not involved in the sanctions. For weeks, Palestinians in the West Bank
+      started feeling the impact. “Smotrich’s announcement meant two things,” the consultant
+      says. “Israeli banks would stop accepting cash shipments from Palestinian banks,
+      and they wouldn’t accept electronic transfers either.” That last part is what
+      threatened to unravel the Palestinian economy. Israeli banks were already being
+      directed to refuse cash payments from Palestinian banks before Smotrich made his
+      announcement, but were still able to receive electronic transfers. While merchants
+      were able to pay their Israeli suppliers, the Israeli unwillingness to accept
+      cash from Palestinians created its own kind of crisis. The consultant says that,
+      for one, it created a surplus of cash in the Palestinian market without allowing
+      it to be used. “There was a massive amount of cash built up in Palestinian banks,
+      reaching as high as 14 billion Shekels [nearly $5 billion], and it wasn’t being
+      converted into electronic money,” he says, explaining that the way the cash is
+      converted into electronic money is by sending it to Israeli banks as a shipment,
+      after which that amount would be added to the Palestinian bank’s books. Israeli
+      banks weren’t accepting these shipments. “This has already happened multiple times,”
+      the consultant adds. “It was happening well before Smotrich threatened to cancel
+      the waiver, which would have seen the cutoff of all banking relations, not just
+      cash shipments.” So what did the Palestinian banks do? They stopped letting people
+      deposit more than a certain amount of cash into their own accounts, so that the
+      banks didn’t accumulate even more surplus cash in their vaults. For some banks,
+      it was a 20,000 Shekel ($5978) cap, for others as low as 10,000 Shekels ($2,989).
+      “The PMA was unable to control the situation,” the consultant says. This created
+      a whole new host of problems for Palestinians whose accounts were slowly being
+      depleted of money through scheduled online payments and postdated checks that
+      started bouncing. This is especially true for the sizable portion of people who
+      receive their livelihood in cash rather than direct deposits, who themselves must
+      make regular deposits so that their payments go through. But the biggest impact
+      of the cap imposed by Palestinian banks was the inability of merchants to sell
+      key resources like gasoline, because they couldn’t pay Israeli fuel suppliers
+      anymore. “The problem with gas stations is that people overwhelmingly pay them
+      in cash,” the economic consultant explains. “But the gas station owners need electronic
+      money in their account so that they can pay their suppliers in Israel, yet the
+      Palestinian banks won’t let them deposit the cash they have.” In mid-June, as
+      Israel’s war on Iran was reaching its peak, the sudden increase in demand for
+      gasoline — people wanted to fill up their cars in case of later shortages — led
+      to a shortage of fuel in the West Bank after gas stations were unable to pay their
+      Israeli suppliers past a certain amount. “Israel used to do this all the time
+      as a negotiating tactic when it wanted something from the PA,” the consultant
+      says. “But this time might be different. This is the worst the crisis has ever
+      gotten.” These measures have brought the Palestinian economy to its knees, the
+      consultant says. “We’re talking about billions of Shekels sitting in Palestinian
+      vaults.” And this is only half of the problem. When asked what would happen if
+      Smotrich went through with cutting off all banking relations, including electronic
+      transactions, the financial consultant said that things would start getting worse
+      fast. “You could have hyperinflation, because all the trade would have to go through
+      Jordan,” he says. “Since the supply chains aren’t there, everything would become
+      more expensive.” Another possibility is that the banks might try to go through
+      an intermediary, the consultant says. “An intermediary bank might help them get
+      around the Anti-Money Laundering and Countering the Financing of Terrorism measures,
+      which the Israeli banks claim as the reason they can’t transact with Palestinian
+      banks,” he explains. “But that would also be expensive, as there would be extra
+      fees for each transaction.” Absent these avenues, the consultant says there would
+      likely be a growth in the black market. “But that also incurs its own fees,” he
+      added. “The Palestinian economy is already exhausted, and the strain is starting
+      to show. The economy shrank by 30% in 2024, and likely further in 2025.” The severing
+      of corresponding banking relations would also impede Palestinians from importing
+      vital goods like fuel, leading to extreme shortages. “How are you going to pay
+      for all the merchandise and all the trade with Israel?” the consultant says. “You
+      basically wouldn’t be able to trade with Israel. The Palestinian economy will
+      be at a standstill.” In late June, Smotrich eventually backed off on his threat
+      of all-out financial siege, extending the bank waiver by four months in a deal
+      with the Israeli cabinet. The cabinet had agreed to punish the PA for its efforts
+      to take Israel to the Hague over its genocide in Gaza, and it also appeased Smotrich
+      by approving five illegal Israeli outposts in the West Bank and committing to
+      building thousands of new housing units for settlers. But despite the signing
+      of the indemnity, the problem of cash buildup has largely remained. For a time,
+      the Israeli banks loosened some restrictions over the summer on accepting cash
+      shipments, but Palestinian banks started placing caps on how much people were
+      allowed to deposit in their accounts — as a preemptive measure, since the banks
+      weren’t sure how long their Israeli counterparts would continue to accept cash
+      shipments. As it turned out, not very long — Israeli banks have continued to periodically
+      tighten their restrictions since then, throwing the Palestinian economy into a
+      state of chronic disarray. ‘The economy is getting broken’ Palestinian business
+      owners first started to feel the impact of the cash buildup over the summer, which
+      was compounded by the outbreak of the Israeli war on Iran. Anton Ghanem, a family
+      business owner in his thirties, runs a cardboard factory just north of Ramallah
+      with a legacy going back to 1985. “We made the first cardboard boxes for most
+      local products, including Palestinian food and medicine factories,” Ghanem said.
+      “Today we provide for restaurants, trade companies, and basically any business
+      that uses cardboard boxes.” The way Ghanem’s company runs its business is that
+      it imports raw cardboard sheets through an Israeli trade company. “We have always
+      made our payments quite easily to the Israeli company’s bank account,” Ghanem
+      explains. “Now it’s more complicated. I have many payments that I make in postdated
+      checks, especially to Palestinian service providers, and I need to have enough
+      money in the bank so the checks don’t bounce. But since the bank is not taking
+      shekels, and since I am paid in shekels — all in cash — I have to convert them
+      to dollars first, and then deposit those in my bank account, because the bank
+      is accepting U.S. dollars.” But the problem, Ghanem explains, is that the bank’s
+      exchange rate is below the regular exchange rate. “I will always lose money to
+      the bank this way,” he says. That wasn’t all. Ghanem also had to make payments
+      to Israeli providers through digital transfers, and for this, he needed to deposit
+      even more shekels by converting them into dollars. “I’d lose even more money this
+      way,” Ghanem noted. “This creates an extra cost.” So far, Ghanem has been able
+      to absorb the cost without raising the price of his products, but the only reason
+      he’s able to shoulder the losses is that he’s waiting for the crisis to end. “If
+      the crisis continues, it will be more difficult.” Some prices have already increased
+      for the average Palestinian, and for some products, they increased so much earlier
+      in the summer that they became unavailable on the market. Jeries Mashriqi, a grocery
+      store owner in the east Ramallah villages region, told Mondoweiss that tobacco
+      wholesalers raised prices so much in early June that he stopped selling them.
+      “The prices were being jacked up for electronic payments specifically, because
+      more and more retailers were trying to pay electronically to adapt to the new
+      situation,” Mashriqi explained. “But I had to pay 10 Shekels more for each box
+      of ten packs when I bought them electronically, yet the price for the customer
+      remains the same.” That’s because Mashriqi couldn’t raise the price of the packs
+      he sold, since the wholesalers sold the packs, too, hence setting the market price.
+      “So it wasn’t worth selling cigarettes anymore,” Mashriqi says. “I didn’t make
+      any money from it.” “Wholesalers of other products didn’t raise the prices for
+      electronic payments, but they’ve started insisting more frequently on being paid
+      electronically,” Mashriqi adds. “It pushed me as a retailer to ask customers to
+      pay with their Visa cards instead of cash. This is just not sustainable in Palestine.”
+      For a global economy built on card payments and digital transactions, Mashriqi’s
+      statement might seem odd. But daily transactions in the West Bank are overwhelmingly
+      done with cash. Tradespeople, for instance, get most of their money in cash. According
+      to the financial consultant who spoke to Mondoweiss , only about half of Palestinians
+      in the West Bank have a bank account. The financial consultant tells Mondoweiss
+      that there were ways of getting around the issue of surplus cash, but now that
+      the crisis has already started, there’s little that can be done. “They could have
+      encouraged more electronic transactions and imposed extra fees on Shekel cash
+      payments,” he says. “It’s something that should have been invested in to make
+      us less vulnerable to Israeli banking whims.” “The e-payments would still be subject
+      to going through Israeli banks,” he clarifies. “But it would solve the issue of
+      cash buildup.” “The Palestinian Monetary Authority and the government did invest
+      in the infrastructure side of it,” the consultant adds. “But they have always
+      been very afraid to try to incentivize it.” The consultant explains that one of
+      the governors of the PMA tried to implement some incentives to switch over to
+      electronic payments, “but he was blocked by the government because it would entail
+      a significant cultural shift,” he says. “And the government just wasn’t willing
+      to make it.” “It’s just not in people’s culture,” Jiries Mashriqi agrees. “I own
+      a large store on a main street, and my customers come from all over the East Ramallah
+      villages. But there are many other small businesses that barely make 50 shekels
+      a day. They depend entirely on local customers, and if everything goes electronic,
+      they will simply go out of business.” Even if the PA rushes to implement an electronic
+      payment system to address the surplus cash crisis, the consultant says it is “too
+      little, too late.” “If this crisis gets resolved, then yes, we’ll have time and
+      space to invest more into electronic payments,” he said. “We’d be able to solve
+      the issue six months from now. But right now, the economy is getting broken.”
+      And now, following the global wave of recognition of a Palestinian state, Netanyahu
+      has vowed that he would announce what Israel’s retaliation would be after he meets
+      with U.S. President Trump on September 29. That’s just before Smotrich’s indemnity
+      letter is set to expire, leaving the Palestinian Authority facing an uncertain
+      future. Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . Qassam Muaddi Qassam Muaddi is the Palestine Staff
+      Writer for Mondoweiss. Follow him on Twitter/X at @QassaMMuaddi . Author Site
+      Mondoweiss Mondoweiss is an independent website devoted to informing readers about
+      developments in Israel/Palestine and related US foreign policy. We provide news
+      and analysis unavailable through the mainstream media regarding the struggle for
+      Palestinian human rights. Author Site Please share this story and help us grow
+      our network!'
+    one_sentence_summary: Israel is intensifying efforts to undermine the Palestinian
+      Authority and its legitimacy by implementing aggressive settlement plans and withholding
+      significant funds, amidst a backdrop of increasing global recognition of Palestinian
+      statehood.
+    paragraph_summary: In response to increasing global recognition of the State of
+      Palestine, Israel is intensifying efforts to undermine the Palestinian Authority
+      (PA) through various aggressive measures. These include a significant settlement
+      plan that would divide the West Bank, withholding approximately $2 billion in
+      Palestinian customs revenue, and conducting military invasions in areas under
+      PA control. A critical tool in Israel's strategy is an indemnity letter issued
+      by Finance Minister Bezalel Smotrich, which allows Israeli banks to process transactions
+      with Palestinian banks without facing anti-terrorism legal risks. Smotrich has
+      threatened to revoke this letter, which could lead to the collapse of the Palestinian
+      banking sector and further destabilize the PA, thereby countering the recent international
+      support for Palestinian statehood.
+    published: '2025-09-25T09:05:00+00:00'
+  - title: Israel Is Trying To Collapse the Palestinian Authority. The First Step Is
+      Destroying the Palestinian Economy
+    url: https://scheerpost.com/2025/09/25/israel-is-trying-to-collapse-the-palestinian-authority-the-first-step-is-destroying-the-palestinian-economy/
+    text: 'Pro-Palestine and Anti-Capitalist Sticker in East Croydon. Doyle of London,
+      CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0 , via Wikimedia Commons
+      In one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Qassam Muaddi and Mondoweiss
+      Palestine Bureau / Mondoweiss Following the wave of global recognitions of the
+      State of Palestine from key Western and European nations, Israel has been stepping
+      up its plans to render these gestures moot by implementing measures meant to cripple
+      and delegitimize the Palestinian Authority (PA). Earlier this month, Israel approved
+      a massive settlement plan that would split the West Bank in two. Since October
+      7, 2023, it has plunged the PA into an economic crisis by withholding nearly 7
+      billion shekels (around $2 billion) in Palestinian customs money. And in recent
+      months, the Israeli army has launched repeated invasions into the heart of Palestinian
+      cities in the West Bank, ostensibly under PA control. But Israel still hasn’t
+      used its most important trump card in responding to the recent Western and global
+      recognitions of a Palestinian state. It involves a piece of paper, and the person
+      holding it is Israel’s hardline Finance Minister, Bezalel Smotrich. Every year,
+      the Finance Minister renews an indemnity letter allowing Israeli banks to accept
+      money transfers from Palestinians in the West Bank, shielding Israeli banks from
+      anti-terrorism laws they might be at risk of breaking by dealing with Palestinian
+      banks. Smotrich has repeatedly threatened to revoke this letter in response to
+      global sanctions against hardline Ministers like himself and Itamar Ben-Gvir,
+      which could cause the collapse of the Palestinian banking sector — and possibly,
+      the Palestinian Authority. Smotrich has recently been periodically renewing the
+      letter in four-month stretches, using the intervals as pressure points to threaten
+      the PA. This is the spearhead of Israel’s campaign of economic warfare against
+      Palestinians in the West Bank. Here’s why it could hasten the collapse of the
+      PA and formally bring about a one-state apartheid reality. Israel’s financial
+      warfare against the Palestinian Authority The Palestinian Authority’s stand-in
+      for a central bank is the Palestinian Monetary Authority (PMA), which is prohibited
+      from printing money or having its own currency under the economic agreements the
+      PA signed with Israel during the Oslo Accords. This means that nearly every economic
+      transaction Palestinians make has to go through Israel. Mondoweiss reached out
+      to an economic expert and former financial consultant for the PMA, who advised
+      the body on the risk of Israel blocking transfers from Palestinian to Israeli
+      banks, or what’s known as “corresponding banking relations.” The consultant spoke
+      with Mondoweiss on the condition of anonymity to be able to comment freely on
+      the matter. He believes that the PMA is poorly prepared to withstand the economic
+      firestorm that might be coming. If Israel goes ahead with severing banking relations,
+      he says, it might even lead to the collapse of the PA as a political entity. Here’s
+      his explanation. The majority of Palestinian trade comes from or through Israel.
+      That is where the banks come in: all payments to any merchant happen when a Palestinian
+      bank sends money to its Israeli counterpart. “That transfer happens electronically,
+      in Shekels,” the consultant says. “There are only two main methods of getting
+      merchandise into Palestine: Israel, which is the predominant way, and Jordan.
+      If you want to import essential goods like gasoline, you have to pay the Israeli
+      supplier directly to their bank account.” In essence, this means that if Smotrich
+      prevents Israeli banks from receiving these payments, it would effectively heavily
+      curtail the ability of Palestinian merchants to bring products into the West Bank
+      through Israel, as they’d have no way of paying for them. The money they have
+      would be useless. Smotrich has already threatened to revoke this letter several
+      times, most recently in June, when he announced that he would cancel the indemnity
+      in response to sanctions placed on himself and fellow hardline minister Itamar
+      Ben-Gvir by the UK, Australia, New Zealand, Canada, and Norway — even though the
+      PA was not involved in the sanctions. For weeks, Palestinians in the West Bank
+      started feeling the impact. “Smotrich’s announcement meant two things,” the consultant
+      says. “Israeli banks would stop accepting cash shipments from Palestinian banks,
+      and they wouldn’t accept electronic transfers either.” That last part is what
+      threatened to unravel the Palestinian economy. Israeli banks were already being
+      directed to refuse cash payments from Palestinian banks before Smotrich made his
+      announcement, but were still able to receive electronic transfers. While merchants
+      were able to pay their Israeli suppliers, the Israeli unwillingness to accept
+      cash from Palestinians created its own kind of crisis. The consultant says that,
+      for one, it created a surplus of cash in the Palestinian market without allowing
+      it to be used. “There was a massive amount of cash built up in Palestinian banks,
+      reaching as high as 14 billion Shekels [nearly $5 billion], and it wasn’t being
+      converted into electronic money,” he says, explaining that the way the cash is
+      converted into electronic money is by sending it to Israeli banks as a shipment,
+      after which that amount would be added to the Palestinian bank’s books. Israeli
+      banks weren’t accepting these shipments. “This has already happened multiple times,”
+      the consultant adds. “It was happening well before Smotrich threatened to cancel
+      the waiver, which would have seen the cutoff of all banking relations, not just
+      cash shipments.” So what did the Palestinian banks do? They stopped letting people
+      deposit more than a certain amount of cash into their own accounts, so that the
+      banks didn’t accumulate even more surplus cash in their vaults. For some banks,
+      it was a 20,000 Shekel ($5978) cap, for others as low as 10,000 Shekels ($2,989).
+      “The PMA was unable to control the situation,” the consultant says. This created
+      a whole new host of problems for Palestinians whose accounts were slowly being
+      depleted of money through scheduled online payments and postdated checks that
+      started bouncing. This is especially true for the sizable portion of people who
+      receive their livelihood in cash rather than direct deposits, who themselves must
+      make regular deposits so that their payments go through. But the biggest impact
+      of the cap imposed by Palestinian banks was the inability of merchants to sell
+      key resources like gasoline, because they couldn’t pay Israeli fuel suppliers
+      anymore. “The problem with gas stations is that people overwhelmingly pay them
+      in cash,” the economic consultant explains. “But the gas station owners need electronic
+      money in their account so that they can pay their suppliers in Israel, yet the
+      Palestinian banks won’t let them deposit the cash they have.” In mid-June, as
+      Israel’s war on Iran was reaching its peak, the sudden increase in demand for
+      gasoline — people wanted to fill up their cars in case of later shortages — led
+      to a shortage of fuel in the West Bank after gas stations were unable to pay their
+      Israeli suppliers past a certain amount. “Israel used to do this all the time
+      as a negotiating tactic when it wanted something from the PA,” the consultant
+      says. “But this time might be different. This is the worst the crisis has ever
+      gotten.” These measures have brought the Palestinian economy to its knees, the
+      consultant says. “We’re talking about billions of Shekels sitting in Palestinian
+      vaults.” And this is only half of the problem. When asked what would happen if
+      Smotrich went through with cutting off all banking relations, including electronic
+      transactions, the financial consultant said that things would start getting worse
+      fast. “You could have hyperinflation, because all the trade would have to go through
+      Jordan,” he says. “Since the supply chains aren’t there, everything would become
+      more expensive.” Another possibility is that the banks might try to go through
+      an intermediary, the consultant says. “An intermediary bank might help them get
+      around the Anti-Money Laundering and Countering the Financing of Terrorism measures,
+      which the Israeli banks claim as the reason they can’t transact with Palestinian
+      banks,” he explains. “But that would also be expensive, as there would be extra
+      fees for each transaction.” Absent these avenues, the consultant says there would
+      likely be a growth in the black market. “But that also incurs its own fees,” he
+      added. “The Palestinian economy is already exhausted, and the strain is starting
+      to show. The economy shrank by 30% in 2024, and likely further in 2025.” The severing
+      of corresponding banking relations would also impede Palestinians from importing
+      vital goods like fuel, leading to extreme shortages. “How are you going to pay
+      for all the merchandise and all the trade with Israel?” the consultant says. “You
+      basically wouldn’t be able to trade with Israel. The Palestinian economy will
+      be at a standstill.” In late June, Smotrich eventually backed off on his threat
+      of all-out financial siege, extending the bank waiver by four months in a deal
+      with the Israeli cabinet. The cabinet had agreed to punish the PA for its efforts
+      to take Israel to the Hague over its genocide in Gaza, and it also appeased Smotrich
+      by approving five illegal Israeli outposts in the West Bank and committing to
+      building thousands of new housing units for settlers. But despite the signing
+      of the indemnity, the problem of cash buildup has largely remained. For a time,
+      the Israeli banks loosened some restrictions over the summer on accepting cash
+      shipments, but Palestinian banks started placing caps on how much people were
+      allowed to deposit in their accounts — as a preemptive measure, since the banks
+      weren’t sure how long their Israeli counterparts would continue to accept cash
+      shipments. As it turned out, not very long — Israeli banks have continued to periodically
+      tighten their restrictions since then, throwing the Palestinian economy into a
+      state of chronic disarray. ‘The economy is getting broken’ Palestinian business
+      owners first started to feel the impact of the cash buildup over the summer, which
+      was compounded by the outbreak of the Israeli war on Iran. Anton Ghanem, a family
+      business owner in his thirties, runs a cardboard factory just north of Ramallah
+      with a legacy going back to 1985. “We made the first cardboard boxes for most
+      local products, including Palestinian food and medicine factories,” Ghanem said.
+      “Today we provide for restaurants, trade companies, and basically any business
+      that uses cardboard boxes.” The way Ghanem’s company runs its business is that
+      it imports raw cardboard sheets through an Israeli trade company. “We have always
+      made our payments quite easily to the Israeli company’s bank account,” Ghanem
+      explains. “Now it’s more complicated. I have many payments that I make in postdated
+      checks, especially to Palestinian service providers, and I need to have enough
+      money in the bank so the checks don’t bounce. But since the bank is not taking
+      shekels, and since I am paid in shekels — all in cash — I have to convert them
+      to dollars first, and then deposit those in my bank account, because the bank
+      is accepting U.S. dollars.” But the problem, Ghanem explains, is that the bank’s
+      exchange rate is below the regular exchange rate. “I will always lose money to
+      the bank this way,” he says. That wasn’t all. Ghanem also had to make payments
+      to Israeli providers through digital transfers, and for this, he needed to deposit
+      even more shekels by converting them into dollars. “I’d lose even more money this
+      way,” Ghanem noted. “This creates an extra cost.” So far, Ghanem has been able
+      to absorb the cost without raising the price of his products, but the only reason
+      he’s able to shoulder the losses is that he’s waiting for the crisis to end. “If
+      the crisis continues, it will be more difficult.” Some prices have already increased
+      for the average Palestinian, and for some products, they increased so much earlier
+      in the summer that they became unavailable on the market. Jeries Mashriqi, a grocery
+      store owner in the east Ramallah villages region, told Mondoweiss that tobacco
+      wholesalers raised prices so much in early June that he stopped selling them.
+      “The prices were being jacked up for electronic payments specifically, because
+      more and more retailers were trying to pay electronically to adapt to the new
+      situation,” Mashriqi explained. “But I had to pay 10 Shekels more for each box
+      of ten packs when I bought them electronically, yet the price for the customer
+      remains the same.” That’s because Mashriqi couldn’t raise the price of the packs
+      he sold, since the wholesalers sold the packs, too, hence setting the market price.
+      “So it wasn’t worth selling cigarettes anymore,” Mashriqi says. “I didn’t make
+      any money from it.” “Wholesalers of other products didn’t raise the prices for
+      electronic payments, but they’ve started insisting more frequently on being paid
+      electronically,” Mashriqi adds. “It pushed me as a retailer to ask customers to
+      pay with their Visa cards instead of cash. This is just not sustainable in Palestine.”
+      For a global economy built on card payments and digital transactions, Mashriqi’s
+      statement might seem odd. But daily transactions in the West Bank are overwhelmingly
+      done with cash. Tradespeople, for instance, get most of their money in cash. According
+      to the financial consultant who spoke to Mondoweiss , only about half of Palestinians
+      in the West Bank have a bank account. The financial consultant tells Mondoweiss
+      that there were ways of getting around the issue of surplus cash, but now that
+      the crisis has already started, there’s little that can be done. “They could have
+      encouraged more electronic transactions and imposed extra fees on Shekel cash
+      payments,” he says. “It’s something that should have been invested in to make
+      us less vulnerable to Israeli banking whims.” “The e-payments would still be subject
+      to going through Israeli banks,” he clarifies. “But it would solve the issue of
+      cash buildup.” “The Palestinian Monetary Authority and the government did invest
+      in the infrastructure side of it,” the consultant adds. “But they have always
+      been very afraid to try to incentivize it.” The consultant explains that one of
+      the governors of the PMA tried to implement some incentives to switch over to
+      electronic payments, “but he was blocked by the government because it would entail
+      a significant cultural shift,” he says. “And the government just wasn’t willing
+      to make it.” “It’s just not in people’s culture,” Jiries Mashriqi agrees. “I own
+      a large store on a main street, and my customers come from all over the East Ramallah
+      villages. But there are many other small businesses that barely make 50 shekels
+      a day. They depend entirely on local customers, and if everything goes electronic,
+      they will simply go out of business.” Even if the PA rushes to implement an electronic
+      payment system to address the surplus cash crisis, the consultant says it is “too
+      little, too late.” “If this crisis gets resolved, then yes, we’ll have time and
+      space to invest more into electronic payments,” he said. “We’d be able to solve
+      the issue six months from now. But right now, the economy is getting broken.”
+      And now, following the global wave of recognition of a Palestinian state, Netanyahu
+      has vowed that he would announce what Israel’s retaliation would be after he meets
+      with U.S. President Trump on September 29. That’s just before Smotrich’s indemnity
+      letter is set to expire, leaving the Palestinian Authority facing an uncertain
+      future. Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . Qassam Muaddi Qassam Muaddi is the Palestine Staff
+      Writer for Mondoweiss. Follow him on Twitter/X at @QassaMMuaddi . Author Site
+      Mondoweiss Mondoweiss is an independent website devoted to informing readers about
+      developments in Israel/Palestine and related US foreign policy. We provide news
+      and analysis unavailable through the mainstream media regarding the struggle for
+      Palestinian human rights. Author Site Please share this story and help us grow
+      our network!'
+    one_sentence_summary: Israel is intensifying efforts to undermine the Palestinian
+      Authority and its legitimacy by implementing aggressive settlement plans and withholding
+      significant funds, amidst a backdrop of increasing global recognition of Palestinian
+      statehood.
+    paragraph_summary: In response to increasing global recognition of the State of
+      Palestine, Israel is intensifying efforts to undermine the Palestinian Authority
+      (PA) through various aggressive measures. These include a significant settlement
+      plan that would divide the West Bank, withholding approximately $2 billion in
+      Palestinian customs revenue, and conducting military invasions in areas under
+      PA control. A critical tool in Israel's strategy is an indemnity letter issued
+      by Finance Minister Bezalel Smotrich, which allows Israeli banks to process transactions
+      with Palestinian banks without facing anti-terrorism legal risks. Smotrich has
+      threatened to revoke this letter, which could lead to the collapse of the Palestinian
+      banking sector and further destabilize the PA, thereby countering the recent international
+      support for Palestinian statehood.
+    published: '2025-09-25T09:05:00+00:00'
+  - title: West’s Grip Slips With Saudi–Pakistan Security Deal
+    url: https://scheerpost.com/2025/09/25/wests-grip-slips-with-saudi-pakistan-security-deal/
+    text: 'Photo Credit: The Cradle In one of the scariest moments in modern history,
+      we''re doing our best at ScheerPost to pierce the fog of lies that conceal it
+      but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By F.M. Shakil / The Cradle On 17 September, Riyadh rolled out the
+      rare royal purple carpet for Pakistani Prime Minister Shehbaz Sharif – an honor
+      previously reserved for global power players like US President Donald Trump. Accompanying
+      him on the trip was Pakistan’s Army Chief, Field Marshal Asim Munir. His presence
+      highlighted that Riyadh values its defense pact with a nuclear power that, despite
+      economic challenges, remains militarily strong. Nuclear umbrella over Riyadh The
+      centerpiece of their visit was the signing of a “Strategic Mutual Defense Agreement”
+      ( SMDA ), which declares that an attack on either country will be considered an
+      attack on both. Described by a senior Saudi official to Reuters as covering “all
+      military means,” the pact has triggered speculation that it includes a nuclear
+      umbrella, which would be a game-changing development in the military balance of
+      West Asia. With 81 percent of Pakistan’s weapon imports coming from China, the
+      agreement implicitly aligns Saudi Arabia with the Chinese military-industrial
+      orbit, whether by design or default. The kingdom has long been reliant on US arms,
+      training, and security guarantees. The pact was signed just two days after an
+      extraordinary joint session between the Arab League and the Organisation of Islamic
+      Cooperation (OIC) was called, following the 9 September Israeli airstrikes on
+      Qatar – a major non-NATO ally and Gulf neighbor – with no substantial response
+      from Washington, reinforcing perceptions that western security commitments are
+      both selective and expendable. Mushahid Hussain Syed, a former information minister
+      and chairman of Pakistan’s Senate Defense Committee, tells The Cradle that the
+      US has pivoted away from Arab allies toward Tel Aviv, leaving the region disillusioned
+      and increasingly leaning toward alternatives. “The strategy of ‘Greater Israel,’
+      spearheaded by Netanyahu, has involved military actions against five more Muslim
+      nations. Pakistan’s recent triumph against India has demonstrated its capacity
+      to contest Israel’s significant ally, India, and establish itself as a strategic
+      alternative for Gulf nations.” Toward an Islamic NATO? Iraqi Prime Minister Mohammed
+      Shia al-Sudani recently called for an Islamic military alliance, akin to NATO,
+      in response to Israel’s airstrike on Doha. His proposal echoed Egypt’s earlier
+      attempt to revive a joint Arab defense force under the 1950 treaty – an initiative
+      blocked by Qatar and the UAE , reportedly under US pressure. A similar proposal
+      has also come from Islamabad when Pakistan’s Defense Minister, Khawaja Asif ,
+      urged Muslim countries to band together in a NATO-like military alliance in light
+      of the Israeli aggression in Doha. During an appearance on Geo TV last week, Asif
+      drove home the point that a united Muslim military front is essential to tackle
+      common security issues and fend off outside dangers. Asif invoked the wider role
+      of the west in instigating instability in West Asia, emphasizing the intricate
+      network of US support for Al-Qaeda and the CIA’s covert actions that led to Osama
+      bin Laden’s relocation to Sudan or the regime change war in Syria. Is nuclear
+      deterrence a part of the Pact? The nuclear dimension of the Riyadh–Islamabad pact
+      remains opaque, but highly significant. While no official statement from either
+      side confirms the presence of a nuclear component, Asif hinted that Pakistan’s
+      nuclear capabilities could be shared with Saudi Arabia as part of the agreement.
+      Syed, however, clarifies to The Cradle that Pakistan’s nuclear doctrine is India-centric
+      and that its deterrence posture is South Asia-specific and does not extend to
+      the Persian Gulf. “A novel security framework for the region appears to be taking
+      shape, focusing on Global South nations such as Pakistan and Saudi Arabia, whereas
+      the Indo-Israeli Axis, previously supported by the US, now finds itself significantly
+      diminished.” The defense agreement between Pakistan and Saudi Arabia, he says,
+      represents a notable achievement for Pakistan, establishing it as a pivotal entity
+      within the geopolitical framework of West Asia, particularly among Muslim countries.
+      “The agreement is shaped by three significant elements: the perceived neglect
+      of Arab allies by the United States, Israel’s proactive maneuvers in areas such
+      as Iran, Qatar, Lebanon, Syria, and Yemen, and Pakistan’s recent triumph over
+      India in May.” New Delhi, Tel Aviv on alert Foreign media and analysts are already
+      warning that the pact may have unintended consequences for India and Israel ,
+      despite claims that it targets neither. Others predict that this pact is really
+      about Riyadh’s ambitions to counter Iran and Yemen’s Ansarallah-led government
+      in the region. Dr Abdul Rauf Iqbal, a senior research scholar at the Institute
+      for Strategic Studies, Research and Analysis (ISSRA) at Islamabad’s National Defence
+      University (NDU), tells The Cradle that New Delhi views the pact with unease as
+      it formalizes Saudi–Pakistani security ties that could entangle Riyadh in South
+      Asian rivalries, especially the India–Pakistan border tensions over Jammu and
+      Kashmir: “It represents a setback for Prime Minister Modi’s foreign policy, potentially
+      leading to Saudi involvement in a prospective Indo–Pak conflict. Furthermore,
+      future Saudi investments in Pakistan’s Gwadar port and economic corridors would
+      challenge India’s regional influence and initiatives such as the India-Middle
+      East-Europe Corridor (IMEC).” He adds that Saudi Arabia’s pivot toward Pakistan
+      reflects a broader alignment of Muslim powers and could push Tel Aviv to recalibrate
+      its war on Gaza. It also pressures Tel Aviv by placing Pakistan – a vocal opponent
+      of Israeli expansionism – into West Asian affairs. “This agreement is not meant
+      to counterbalance Iran’s regional influence, but rather to promote the Saudi Iranian
+      reconciliation, as Pakistan maintains friendly relations with both nations. By
+      formalizing ties with nuclear-armed Pakistan, Riyadh secures a credible deterrent
+      as US security guarantees weaken. While western think tanks view it as an effort
+      to contain Iran, the Arab world emphasizes it as strengthening Gulf deterrence
+      independently of Washington.” Indian concerns also stem from fears that the pact’s
+      NATO-style clause could complicate ongoing operations like Sindoor , which remains
+      active in a limited capacity following the skirmish between the two nuclear powers
+      in May, especially given that the Gulf states’ swift mediation to resolve the
+      crisis reflects their own interests with India and makes any military action against
+      it unlikely. Secondly, India is strategically analyzing Pakistan’s nuclear capability,
+      which could see a boost if Saudi Arabia, having no such capacity, begins channeling
+      funds to share Pakistan’s nuclear assets. A post-western Gulf order? While Tel
+      Aviv and New Delhi remain publicly silent, both capitals are undoubtedly scrutinizing
+      the fallout. Israel’s failed assassination attempt on Hamas leaders in Qatar,
+      and India’s pressure campaign along the Line of Control, suggest that the axis
+      is nervous about the consequences of a Saudi–Pakistani alliance. Israeli media
+      downplayed the Saudi–Pakistan defense deal, seeing it as a show of force after
+      Riyadh failed to influence Trump or West Asian policy. As Syed notes, “The traditional
+      ‘Oil for Security’ framework, which once defined US relations with the Middle
+      East [West Asia], now serves as a remnant of a bygone era. As Saudi economic power
+      increasingly reinforces China’s backing of Pakistan, India may feel vulnerable
+      and isolated.” Mark Kinra, an Indian geopolitical analyst with a focus on Pakistan
+      and Balochistan, tells The Cradle that this development holds particular significance
+      for India. New Delhi, he argues, has sustained robust economic and diplomatic
+      ties with Saudi Arabia for many years, and the influx of Saudi investments in
+      India continues to expand: “India will be meticulously observing the progression
+      of this agreement, particularly given that its specific terms are not publicly
+      available. Any alteration in the regional security equilibrium may influence India’s
+      strategic assessments, energy security, and diplomatic relations.” As Washington’s
+      selective security guarantees falter and Israel escalates unchecked, Persian Gulf
+      states like Saudi Arabia are looking eastward for credible deterrents and strategic
+      autonomy. By aligning with nuclear-armed Pakistan, Riyadh is asserting greater
+      independence from the western military order. It also signals the emergence of
+      a multipolar Persian Gulf security architecture –one increasingly shaped by Global
+      South coordination, not western diktats. Editor’s Note : A t a moment when the
+      once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . F.M. Shakil F.M. Shakil
+      is a Pakistani writer covering political, environmental, and economic issues,
+      and is a regular contributor at Akhbar Al-Aan in Dubai and Asia Times in Hong
+      Kong. He writes extensively about China-Pakistan strategic relations, particularly
+      Beijing’s trillion-dollar Belt and Road Initiative (BRI). Author Site Please share
+      this story and help us grow our network!'
+    one_sentence_summary: On September 17, Saudi Arabia honored Pakistani Prime Minister
+      Shehbaz Sharif with a rare royal welcome, highlighting the significance of their
+      newly signed Strategic Mutual Defense Agreement, which commits both nations to
+      mutual defense in the event of an attack.
+    paragraph_summary: On September 17, Saudi Arabia honored Pakistani Prime Minister
+      Shehbaz Sharif with a rare royal welcome, underscoring the importance of the newly
+      signed "Strategic Mutual Defense Agreement" (SMDA) between the two nations, which
+      asserts that an attack on either country will be viewed as an attack on both.
+      This pact, which may include a nuclear umbrella, signifies a shift in military
+      alliances, particularly as Pakistan's defense imports predominantly come from
+      China, potentially aligning Saudi Arabia more closely with Chinese military interests.
+      The agreement was reached shortly after a joint session of the Arab League and
+      the Organisation of Islamic Cooperation was convened in response to Israeli airstrikes
+      on Qatar, highlighting a perceived decline in U.S. security commitments to its
+      Arab allies in favor of support for Israel.
+    published: '2025-09-25T09:00:00+00:00'
+  - title: West’s Grip Slips With Saudi–Pakistan Security Deal
+    url: https://scheerpost.com/2025/09/25/wests-grip-slips-with-saudi-pakistan-security-deal/
+    text: 'Photo Credit: The Cradle In one of the scariest moments in modern history,
+      we''re doing our best at ScheerPost to pierce the fog of lies that conceal it
+      but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By F.M. Shakil / The Cradle On 17 September, Riyadh rolled out the
+      rare royal purple carpet for Pakistani Prime Minister Shehbaz Sharif – an honor
+      previously reserved for global power players like US President Donald Trump. Accompanying
+      him on the trip was Pakistan’s Army Chief, Field Marshal Asim Munir. His presence
+      highlighted that Riyadh values its defense pact with a nuclear power that, despite
+      economic challenges, remains militarily strong. Nuclear umbrella over Riyadh The
+      centerpiece of their visit was the signing of a “Strategic Mutual Defense Agreement”
+      ( SMDA ), which declares that an attack on either country will be considered an
+      attack on both. Described by a senior Saudi official to Reuters as covering “all
+      military means,” the pact has triggered speculation that it includes a nuclear
+      umbrella, which would be a game-changing development in the military balance of
+      West Asia. With 81 percent of Pakistan’s weapon imports coming from China, the
+      agreement implicitly aligns Saudi Arabia with the Chinese military-industrial
+      orbit, whether by design or default. The kingdom has long been reliant on US arms,
+      training, and security guarantees. The pact was signed just two days after an
+      extraordinary joint session between the Arab League and the Organisation of Islamic
+      Cooperation (OIC) was called, following the 9 September Israeli airstrikes on
+      Qatar – a major non-NATO ally and Gulf neighbor – with no substantial response
+      from Washington, reinforcing perceptions that western security commitments are
+      both selective and expendable. Mushahid Hussain Syed, a former information minister
+      and chairman of Pakistan’s Senate Defense Committee, tells The Cradle that the
+      US has pivoted away from Arab allies toward Tel Aviv, leaving the region disillusioned
+      and increasingly leaning toward alternatives. “The strategy of ‘Greater Israel,’
+      spearheaded by Netanyahu, has involved military actions against five more Muslim
+      nations. Pakistan’s recent triumph against India has demonstrated its capacity
+      to contest Israel’s significant ally, India, and establish itself as a strategic
+      alternative for Gulf nations.” Toward an Islamic NATO? Iraqi Prime Minister Mohammed
+      Shia al-Sudani recently called for an Islamic military alliance, akin to NATO,
+      in response to Israel’s airstrike on Doha. His proposal echoed Egypt’s earlier
+      attempt to revive a joint Arab defense force under the 1950 treaty – an initiative
+      blocked by Qatar and the UAE , reportedly under US pressure. A similar proposal
+      has also come from Islamabad when Pakistan’s Defense Minister, Khawaja Asif ,
+      urged Muslim countries to band together in a NATO-like military alliance in light
+      of the Israeli aggression in Doha. During an appearance on Geo TV last week, Asif
+      drove home the point that a united Muslim military front is essential to tackle
+      common security issues and fend off outside dangers. Asif invoked the wider role
+      of the west in instigating instability in West Asia, emphasizing the intricate
+      network of US support for Al-Qaeda and the CIA’s covert actions that led to Osama
+      bin Laden’s relocation to Sudan or the regime change war in Syria. Is nuclear
+      deterrence a part of the Pact? The nuclear dimension of the Riyadh–Islamabad pact
+      remains opaque, but highly significant. While no official statement from either
+      side confirms the presence of a nuclear component, Asif hinted that Pakistan’s
+      nuclear capabilities could be shared with Saudi Arabia as part of the agreement.
+      Syed, however, clarifies to The Cradle that Pakistan’s nuclear doctrine is India-centric
+      and that its deterrence posture is South Asia-specific and does not extend to
+      the Persian Gulf. “A novel security framework for the region appears to be taking
+      shape, focusing on Global South nations such as Pakistan and Saudi Arabia, whereas
+      the Indo-Israeli Axis, previously supported by the US, now finds itself significantly
+      diminished.” The defense agreement between Pakistan and Saudi Arabia, he says,
+      represents a notable achievement for Pakistan, establishing it as a pivotal entity
+      within the geopolitical framework of West Asia, particularly among Muslim countries.
+      “The agreement is shaped by three significant elements: the perceived neglect
+      of Arab allies by the United States, Israel’s proactive maneuvers in areas such
+      as Iran, Qatar, Lebanon, Syria, and Yemen, and Pakistan’s recent triumph over
+      India in May.” New Delhi, Tel Aviv on alert Foreign media and analysts are already
+      warning that the pact may have unintended consequences for India and Israel ,
+      despite claims that it targets neither. Others predict that this pact is really
+      about Riyadh’s ambitions to counter Iran and Yemen’s Ansarallah-led government
+      in the region. Dr Abdul Rauf Iqbal, a senior research scholar at the Institute
+      for Strategic Studies, Research and Analysis (ISSRA) at Islamabad’s National Defence
+      University (NDU), tells The Cradle that New Delhi views the pact with unease as
+      it formalizes Saudi–Pakistani security ties that could entangle Riyadh in South
+      Asian rivalries, especially the India–Pakistan border tensions over Jammu and
+      Kashmir: “It represents a setback for Prime Minister Modi’s foreign policy, potentially
+      leading to Saudi involvement in a prospective Indo–Pak conflict. Furthermore,
+      future Saudi investments in Pakistan’s Gwadar port and economic corridors would
+      challenge India’s regional influence and initiatives such as the India-Middle
+      East-Europe Corridor (IMEC).” He adds that Saudi Arabia’s pivot toward Pakistan
+      reflects a broader alignment of Muslim powers and could push Tel Aviv to recalibrate
+      its war on Gaza. It also pressures Tel Aviv by placing Pakistan – a vocal opponent
+      of Israeli expansionism – into West Asian affairs. “This agreement is not meant
+      to counterbalance Iran’s regional influence, but rather to promote the Saudi Iranian
+      reconciliation, as Pakistan maintains friendly relations with both nations. By
+      formalizing ties with nuclear-armed Pakistan, Riyadh secures a credible deterrent
+      as US security guarantees weaken. While western think tanks view it as an effort
+      to contain Iran, the Arab world emphasizes it as strengthening Gulf deterrence
+      independently of Washington.” Indian concerns also stem from fears that the pact’s
+      NATO-style clause could complicate ongoing operations like Sindoor , which remains
+      active in a limited capacity following the skirmish between the two nuclear powers
+      in May, especially given that the Gulf states’ swift mediation to resolve the
+      crisis reflects their own interests with India and makes any military action against
+      it unlikely. Secondly, India is strategically analyzing Pakistan’s nuclear capability,
+      which could see a boost if Saudi Arabia, having no such capacity, begins channeling
+      funds to share Pakistan’s nuclear assets. A post-western Gulf order? While Tel
+      Aviv and New Delhi remain publicly silent, both capitals are undoubtedly scrutinizing
+      the fallout. Israel’s failed assassination attempt on Hamas leaders in Qatar,
+      and India’s pressure campaign along the Line of Control, suggest that the axis
+      is nervous about the consequences of a Saudi–Pakistani alliance. Israeli media
+      downplayed the Saudi–Pakistan defense deal, seeing it as a show of force after
+      Riyadh failed to influence Trump or West Asian policy. As Syed notes, “The traditional
+      ‘Oil for Security’ framework, which once defined US relations with the Middle
+      East [West Asia], now serves as a remnant of a bygone era. As Saudi economic power
+      increasingly reinforces China’s backing of Pakistan, India may feel vulnerable
+      and isolated.” Mark Kinra, an Indian geopolitical analyst with a focus on Pakistan
+      and Balochistan, tells The Cradle that this development holds particular significance
+      for India. New Delhi, he argues, has sustained robust economic and diplomatic
+      ties with Saudi Arabia for many years, and the influx of Saudi investments in
+      India continues to expand: “India will be meticulously observing the progression
+      of this agreement, particularly given that its specific terms are not publicly
+      available. Any alteration in the regional security equilibrium may influence India’s
+      strategic assessments, energy security, and diplomatic relations.” As Washington’s
+      selective security guarantees falter and Israel escalates unchecked, Persian Gulf
+      states like Saudi Arabia are looking eastward for credible deterrents and strategic
+      autonomy. By aligning with nuclear-armed Pakistan, Riyadh is asserting greater
+      independence from the western military order. It also signals the emergence of
+      a multipolar Persian Gulf security architecture –one increasingly shaped by Global
+      South coordination, not western diktats. Editor’s Note : A t a moment when the
+      once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . F.M. Shakil F.M. Shakil
+      is a Pakistani writer covering political, environmental, and economic issues,
+      and is a regular contributor at Akhbar Al-Aan in Dubai and Asia Times in Hong
+      Kong. He writes extensively about China-Pakistan strategic relations, particularly
+      Beijing’s trillion-dollar Belt and Road Initiative (BRI). Author Site Please share
+      this story and help us grow our network!'
+    one_sentence_summary: On September 17, Saudi Arabia honored Pakistani Prime Minister
+      Shehbaz Sharif with a rare royal welcome, highlighting the significance of their
+      newly signed Strategic Mutual Defense Agreement, which commits both nations to
+      mutual defense in the event of an attack.
+    paragraph_summary: On September 17, Saudi Arabia honored Pakistani Prime Minister
+      Shehbaz Sharif with a rare royal welcome, underscoring the importance of the newly
+      signed "Strategic Mutual Defense Agreement" (SMDA) between the two nations, which
+      asserts that an attack on either country will be viewed as an attack on both.
+      This pact, which may include a nuclear umbrella, signifies a shift in military
+      alliances, particularly as Pakistan's defense imports predominantly come from
+      China, potentially aligning Saudi Arabia more closely with Chinese military interests.
+      The agreement was reached shortly after a joint session of the Arab League and
+      the Organisation of Islamic Cooperation was convened in response to Israeli airstrikes
+      on Qatar, highlighting a perceived decline in U.S. security commitments to its
+      Arab allies in favor of support for Israel.
+    published: '2025-09-25T09:00:00+00:00'
+  - title: Trump’s Crackdown on Anti-War Activists (w/ CODEPINK’s Medea Benjamin)
+    url: https://scheerpost.com/2025/09/24/trumps-crackdown-on-anti-war-activists-w-codepinks-medea-benjamin/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Chris
+      Hedges / The Chris Hedges Report This interview is also available on podcast platforms
+      and Rumble . Medea Benjamin and CODEPINK , the organization she cofounded, are
+      synonymous with accosting power in the United States. Their fearless confrontations
+      with the nation’s most prominent and powerful politicians in the halls of Congress,
+      often seen through viral videos, are a stark embodiment of the First Amendment.
+      Despite over 20 years of activism and consistent critique of America’s representatives
+      over their subservience to the military industrial complex and other big money
+      interests, their ability to have these conversations is beginning to dwindle.
+      Benjamin joins host Chris Hedges on this episode of The Chris Hedges Report to
+      discuss the current moment in American politics, which sees free speech sitting
+      on a knife’s edge following the assassination of Charlie Kirk and the American
+      political class’s continued support of Israel’s genocide in Gaza. Benjamin was
+      recently arrested after questioning Rep. Darrell Issa about Israel’s recent airstrike
+      targeting Hamas negotiators in Qatar. Despite police saying she did nothing wrong,
+      Issa continued with lodging a complaint against her, a move she believes is also
+      in line with the suppression of activists and free speech. Furthermore, after
+      CODEPINK activists confronted Donald Trump and his cabinet at a restaurant and
+      chanted at the president, “Free DC, free Palestine, Trump is the Hitler of our
+      time,” Trump told reporters that he is looking into having US Attorney General
+      Pam Bondi bring RICO charges against the protestors “because they should be put
+      in jail.” /NOTE TO SCHEERPOST READERS FROM CHRIS HEDGES: There is now no way left
+      for me to continue to write a weekly column for ScheerPost and produce my weekly
+      television show without your help. The walls are closing in, with startling rapidity,
+      on independent journalism , with the elites, including the Democratic Party elites,
+      clamoring for more and more censorship. Bob Scheer, who runs ScheerPost on a shoestring
+      budget, and I will not waver in our commitment to independent and honest journalism,
+      and we will never put ScheerPost behind a paywall, charge a subscription for it,
+      sell your data or accept advertising. Please, if you can, sign up at chrishedges.substack.com
+      so I can continue to post my now weekly Monday column on ScheerPost and produce
+      my weekly television show, The Chris Hedges Report. Please share this story and
+      help us grow our network! Host Chris Hedges Producer: Max Jones Intro: Diego Ramos
+      Crew: Diego Ramos, Sofia Menemenlis and Thomas Hedges Transcript: Diego Ramos
+      Transcript: Chris Hedges Earlier this month activists from the nonviolent anti-war
+      group CODEPINK confronted Donald Trump and his cabinet, including JD Vance, Marco
+      Rubio and Pete Hegseth at a Washington, D.C. restaurant. They shouted, “Free DC,
+      free Palestine, Trump is the Hitler of our time.” Trump angrily ordered his security
+      to “get them out of here.” Trump issued threats against the activists. He claimed
+      one of the activists was a “paid agitator,” and said he is looking into having
+      US Attorney General Pam Bondi bring RICO charges against the protesters “because
+      they should be put in jail.” “What they are doing to this country is really subversive,”
+      Trump said. RICO charges, or charges under the Racketeer Influenced and Corrupt
+      Organizations Act, were originally designed to combat organized crime. The campaign
+      against dissidents, or those whom Trump refers to as “the radical left,” has intensified
+      since the assassination of Charlie Kirk, elevated immediately after his death
+      to the status of a martyr. Deputy Attorney General Todd Blanche told CNN that
+      the Department of Justice may investigate groups that have protested Trump, also
+      referencing the protesters who interrupted the dinner. “Is it, again, sheer happenstance
+      that individuals show up at a restaurant where the president is trying to enjoy
+      dinner in Washington, D.C., and accost him with vile words and vile anger?” Blanche
+      said on CNN. “Does it mean it’s just completely random that they showed up? Maybe,
+      maybe, but to the extent that it’s part of an organized effort to inflict harm
+      and terror and damage to the United States, there’s potential, potential investigations
+      there.” Abigail Jackson, a White House spokeswoman, told Axios in an email: “Left-wing
+      organizations have fueled violent riots, organized attacks against law enforcement
+      officers, coordinated illegal doxing campaigns, arranged drop points for weapons
+      and riot materials, and more.” ‘The Trump Administration will get to the bottom
+      of this vast network inciting violence in American communities,” she went on.
+      “This effort will target those committing criminal acts and hold them accountable.”
+      Joining me to discuss the drive to silence all dissent is the activist and CODEPINK
+      cofounder Medea Benjamin. Medea, who has protested with CODEPINK against wars
+      whether waged by Democratic and or Republican political leaders, was arrested
+      inside the U.S. Capitol a few days ago when she asked Rep. Darrell Issa about
+      Israel’s attack on Qatar. Issa refused to answer. His staff attempted to seize
+      her phone and called police. She was charged with “impeding a congressperson.”
+      As a veteran anti-war activist, we’re now talking decades, how does this moment
+      compare with other moments of resistance? Medea Benjamin Well, thank you for having
+      me on, Chris. It’s always good to be on with you. This moment is a very dark moment,
+      a very scary moment. We’ve certainly had moments in my lifetime where people that
+      went up against administrations were charged with all kinds of ridiculous lawsuits
+      and during the Iraq War, we received a lot of threats as CODEPINK when it was
+      U.S. soldiers who were fighting and dying there. But this is a much more wholesale
+      attack on free speech, much more than I have seen before. Chris Hedges Well it’s
+      not hypothetical. So we have seen a series of measures, I mean law firms, for
+      instance, that defended people who were critical of Trump or Trump opponents.
+      Of course, the assault on universities, the purging of comedians such as [Stephen]
+      Colbert and [Jimmy] Kimmel. There’s a kind of institutional dismantling that perhaps
+      is unlike anything we’ve seen since, I don’t know, maybe the 1960s with the rise
+      of the anti-war movement? Medea Benjamin We certainly haven’t seen this level
+      of attack on us as CODEPINK, and we’re part of a much larger constellation of
+      organizations that have been the victim of lawfare with all kinds of ridiculous
+      lawsuits against us. In the case of CODEPINK, that we are somehow connected to
+      Hamas, which is crazy, but it takes a lot of time and resources to fight these
+      lawsuits. And then we’ve had a series of members of Congress and high-level members
+      of Congress like Tom Cotton, who is the head of the Senate Intelligence Committee,
+      say before a hearing of all of the heads of the intelligence communities in the
+      country that CODEPINK was funded by the Chinese Communist Party. We’ve had the
+      head of the Judiciary Committee, Senator [Chuck] Grassley, say that the FBI and
+      the Department of Justice should investigate us for violations of Foreign Agent
+      Registration Act, as if we were some foreign agent. We’ve been accused of being
+      foreign agents of Iran, of being foreign agents of China. We’ve had members of
+      Congress say that we should be barred from coming into Congress. We have had members
+      of Congress, one of my favorites was the in the Natural Resources Committee, a
+      letter that included as proof that we were representing the Chinese government
+      was that we wanted the Pentagon to have to measure its carbon emissions. And who
+      but the Chinese government would want to see that happen. So all kinds of attacks.
+      As I said, we are one of many, many organizations. And it’s harassment. It’s sapping
+      of our time and energy. And it certainly does make people feel very nervous about
+      standing up to this administration. But I must say, Chris, that we have found
+      more and more volunteers coming with us in Congress as we go around every single
+      day trying to get our members of Congress to represent us and not Israel. Chris
+      Hedges I want to ask about Antifa. So Trump sent out on Truth Social that he was
+      declaring Antifa to be a terrorist organization. Antifa is an amorphous group
+      with no hierarchy or real organizational structure. And then of course in the
+      same breath he’s talking about going after funders of groups that he doesn’t like,
+      like George Soros. Did you see that declaration that Antifa was a terrorist group
+      as a way essentially to tar all resistance groups by tying them, I mean, however
+      absurdly, to Antifa? I mean I read that quote from [Deputy Attorney General Todd]
+      Blanche, which talked about stockpiling weapons and I mean, just complete fantasy.
+      But I just wondered what your reaction was to declaring Antifa a terrorist organization.
+      Medea Benjamin Well, luckily I was able to read your column very quickly after
+      and I felt very much reassured in my own thinking because over the years I too
+      have been the victim of attacks by groups related to Antifa like the Black Bloc
+      . In fact, I got a pie in my face one time that might sound funny but it felt
+      very aggressive and I was followed around as I toured the country on a book tour
+      by people who said that I was a, I think they called it a part of the NGO industrial
+      complex that was trying to destroy the revolution. So like you, I have had my
+      run-ins with groups like Antifa and yet when I see that that kind of designation
+      to a group, as you well know, that is so amorphous, it is the beginnings of saying,
+      if you can go after this group and nobody stands up, then you can go after the
+      next one and the next one. What I really have been heartened by is seeing how
+      the reaction has been in the UK to the designation of Palestine Action as a proscribed
+      group, as they call it there. Here, I guess it would be a terrorist group. And
+      it has really been heartening to see the hundreds and hundreds of people who have
+      been arrested standing up to Palestine Action and showing how ridiculous the state
+      is when it arrests people in their 80s, people who are blind, professors, merely
+      for wearing a shirt that says, “I oppose genocide, I support Palestine Action.”
+      So I think we have to be ready in the US to do that kind of collective support
+      as this administration takes swipes at group after group, person after person,
+      whether it’s Mahmoud Khalil and we see the tremendous support that he has gotten
+      or groups that we might not like. Chris Hedges Before we talk about your rest,
+      let’s talk a little bit about what CODEPINK does. I love your confrontations.
+      I don’t actually do them myself. I let you do them and then I watch them. But
+      talk about CODEPINK’s tactics, what you do. You call people out in committee hearings
+      and I don’t know how many committee hearings you’ve been dragged out of. But let’s
+      talk about what you do, what CODEPINK does and why you do it. And perhaps we can
+      talk about your recent arrest. Medea Benjamin Well, first let me say the things
+      that people don’t see because it’s more behind the scenes. And that is all the
+      chapters that we have across the United States that are doing work both on boycott,
+      divestment, and sanctions campaigns, that are doing work to try to stop bad laws
+      from being passed in their state level or their city level or get good ones passed,
+      calling for an end to weapon sales, or putting pressure on their local officials
+      as well as their representative in Congress. And those of us who are in DC and
+      go around week after week inside Congress, we’re also doing that kind of day-to-day
+      less visible work of going to offices. Remember, there’s 435 members of the House
+      and 100 in the Senate. That’s a lot of offices that we visit on a regular basis,
+      including all of the Republican offices, because we’re just waiting for the dike
+      to break there and for it not to just be Marjorie Taylor Green and Tom Massie
+      and the Republicans, but for a new flood of Republicans who start seeing the light
+      in terms of where their base is. So we go around from office to office and what
+      we have been focusing on lately is this piece of legislation called Block the
+      Bombs because it’s a specific bill that allows us to focus on one member of Congress
+      after another and pressure them both in their constituency and in DC to sign on
+      to that. And we’ve been doing that methodically so that now there are 50 members
+      of Congress who’ve signed on to that and every week we get a few more and we do
+      a similar kind of thing in the Senate. Now what you see is when I go in and bird
+      dog, or other members of CODEPINK, what we call bird dogging , members of the
+      House and the Senate as they’re walking through the halls or in the hearings or
+      when they’re coming in or out of a hearing or when they’re walking outside over
+      to the Capitol. That’s our time for one-on-one with them. And if there people
+      that we like, we don’t video them, we talk to them, we have good conversations
+      and we say, what else can we do to stop this genocide, to get the food in, to
+      stop the slaughter. And when there are people we know that continue to support
+      sending weapons to Israel, continue to say things like there is no starvation
+      in Gaza, which is something that we hear quite often, or the only reason that
+      food is not getting in is because Hamas steals it all, then we record those and
+      we put them out for everyone to see. And I think it’s been quite revelatory to
+      people not only in this country but in other places because as I’ve traveled around
+      in other countries they said, wow, I didn’t know how undemocratic your country
+      was until I started started seeing those videos and seeing how these members of
+      Congress don’t represent the people. They just represent their donors, whether
+      it’s the AIPAC [American Israel Public Affairs Committee] donors or the weapons
+      industry, and certainly don’t represent what’s in the national security interests
+      even of the United States, much less showing that they have some heart for the
+      people who are suffering so much in Gaza. So that’s really been a very important
+      thing, I think, that we’ve gotten out to show people exactly who some of these
+      members of Congress are. Chris Hedges Well, you call out their hypocrisy. There
+      was a video of you at, it was some kind of Republican Christian convention, where
+      you asked people the simple question, will you pray for the children of Gaza?
+      And they ran from you as if you had leprosy. And then of course dragged you out.
+      Medea Benjamin Yes, I often go to these Christian gatherings and say, let’s hold
+      hands together and pray for the children of Gaza. And when I say, let’s hold hands
+      and pray, they take my hand, they’re ready to pray. And then when I say for the
+      children of Gaza, they’re like, oh no, we can’t possibly do that. So yes, calling
+      out their hypocrisy in so many different ways. And also when we put out the videos,
+      we often put a tag of how much money they are getting from AIPAC because that’s
+      important for people to know as well. Chris Hedges You’ve been a staunch foe of
+      AIPAC, that’s consumed a lot of your time and energy. When AIPAC meets, I’ve attended
+      some, you’ve held kind of rival gatherings. Talk a little bit about the AIPAC
+      lobby, its power in the genocide. Medea Benjamin It’s funny, Chris, because if
+      you remember in past years, AIPAC used to have these enormous conferences with
+      like 10,000 people would come and they’d take over the whole convention center
+      and the members of Congress and the administration, they would fight with each
+      other over who would get top billing. They all wanted to be seen and heard there.
+      And that has changed tremendously. I mean, since October 7th and the genocide,
+      many of them are embarrassed to be seen at these AIPAC gatherings. The AIPAC gatherings
+      are a lot smaller. What’s really interesting to me, Chris, is that we’re now seeing
+      people who are not necessarily progressive Democrats, very middle of the road,
+      two of them from North Carolina, Valerie Foushee and Deborah Ross, recently coming
+      out and saying publicly they wouldn’t take money from AIPAC, as well as [Morgan
+      McGarvey] from Kentucky who said he wouldn’t take money from AIPAC. So I’m not
+      saying AIPAC is not a tremendous force and has so skewed the policies of our government,
+      but I’m saying that there are starting to be cracks and that there are members
+      of Congress who are starting to be embarrassed by their affiliation with AIPAC,
+      embarrassed that the public knows how much money they’ve taken from AIPAC. And
+      Chris, I think it’s important for your viewers to understand it’s not just the
+      money that AIPAC gives to them. It really is the fear they have of being targeted
+      by AIPAC because when we put out these videos and show the amounts of money, sometimes
+      it’s a huge amount of money. You know, some have taken a million dollars over
+      the course of their career, but some have only gotten about $30,000 and yet they
+      tow the AIPAC line. Maybe because they’re Christian Zionists and they have some
+      misguided belief that God told them to support Israel, but oftentimes it’s because
+      they don’t want to be on AIPAC’s hit list. We have seen through the years not
+      just the recent way that AIPAC has taken out Cori Bush and Jamaal Bowman, but
+      it goes back and it goes back even to Jewish members of Congress like Andy Levin
+      who is taken out by AIPAC. So they want to keep their heads down. They don’t want
+      to be targeted by AIPAC, but yet as more and more constituents are confronting
+      their members of Congress in the town halls and their local offices, we are seeing
+      more members saying that they don’t want to be affiliated or seen as AIPAC puppets.
+      Chris Hedges Can you juxtapose, and you’ve been outspoken about this, the proxy
+      war in Ukraine and what’s happening in Gaza and the US response? Medea Benjamin
+      Well, it was so interesting during the war in Ukraine how we were pushing members
+      of Congress to come out and call for negotiations. And you probably recall, Chris,
+      the 18 members of Congress, the progressive Democrats, who soon after the war
+      began came out with that letter that said, thank you [Joe] Biden, for all the
+      money that you’re giving to Ukraine, and we’ve got to support Ukraine in this
+      war. But negotiations might be a good thing. And they were so pilloried by their
+      own Democrats, by the higher-ups in the party, that within 24 hours they withdrew
+      that letter. And ever since then, they don’t talk about it. And so it’s only been
+      the Republicans who have said, why are we fueling a foreign war when the American
+      people don’t want that? And I mentioned Marjorie Taylor Greene, that’s how we
+      first began a relationship with her because she was so outspoken about that. So
+      we see that there are still members of the Republican Party who say we don’t want
+      to keep spending our money on foreign wars. But when they say foreign wars, they’re
+      talking about Ukraine. They’re not talking about Israel. And when we use the same
+      logic to say, well, what about Israel? And you call yourselves America first,
+      but are you America first when you are allocating all of this money to Israel
+      that could be used here in America? And they don’t want to hear that. But that’s
+      why I say the dike is about to break because as you well know, Chris, there are
+      so many influencers in the Republican Party who have changed their position on
+      Israel that I am just waiting to see some more consistency among the Republicans
+      when they say we don’t want to fuel foreign wars, they’re not just talking about
+      Ukraine. Chris Hedges Let’s talk about your arrest. Was that the first time that
+      you were attempting to converse with a member of Congress, I think you were just
+      in the hallway, right? Was that the first time that you were arrested for that
+      activity? Medea Benjamin Yes, we’ve been arrested many times in the hearings and
+      we know when we speak up in the hearings that we’re at risk of arrest. And there
+      are many groups that come to the Capitol that stage beautiful acts of nonviolent
+      civil disobedience. We’ve seen Jewish Voice for Peace , we’ve seen Christians
+      for a Ceasefire, wonderful actions that the Mennonites have done and they know
+      they will be arrested. But in this case, I was doing what I do on a regular basis,
+      which is walk down the halls, I find a member of Congress and I run after them
+      and ask them will they comment on some issue of the day. This was the day after
+      the Israelis had attacked the Hamas negotiators in Qatar and I thought it was
+      important. You know there are journalists all over Congress who are constantly
+      putting their microphones in the faces of members of Congress. I wasn’t even near
+      [Darrell Issa]. I was following behind him or aside him and I asked him what he
+      thought of Israel’s attack on Qatar. And he was so nasty and went into his office
+      and I just gently touched the door opening a public place in the office. I mean
+      anybody can walk into his office. And he immediately told his staff person to
+      grab my phone and he said that I was violating the law by entering his office.
+      First, I wasn’t in his office and second, it’s no violation to enter a congressperson’s
+      office. Well, I just thought, I said, you’re out of your mind and you’re nasty
+      and if you touch me, it’s an assault. And I went away thinking, what a nasty guy.
+      And then about 15 minutes later, these very nice police officers came up and said
+      that Darrell Issa had lodged a complaint against me and wanted me arrested . I
+      showed them the video and they looked at the video and they said, there’s nothing
+      there. You didn’t do anything wrong. And so I was there for a long time while
+      they were debating whether to let me go, which I thought would happen, or to arrest
+      me. But it turns out, the Inspector General got involved, Issa wouldn’t drop it,
+      and so he had me arrested. And I have to go back to court on October 9th. And
+      I think this is part of an attempt by members of Congress to give me a stay-away
+      order, which means a judge in the interim, between your case coming up and being
+      adjudicated, they can tell you you can’t go back into Congress. And given that
+      there are members of Congress like this very right-wing woman, Anna Paulina Luna,
+      who has asked the speaker to keep CODEPINK out of Congress, I think this is part
+      of that activity. I am hoping that the judge will see how ridiculous it is and
+      will drop the case, but you never know. Chris Hedges Let’s talk about Trump and
+      RICO and his statements in the Oval Office about CODEPINK. Medea Benjamin Yes,
+      there were a group of CODEPINK women, four women, who had gone into a restaurant
+      where Trump ended up having dinner. And they were able to be very close to him
+      and shouted out their opposition to U.S. troops, the National Guard troops in
+      Washington, D.C., as well as the occupation of Palestine. And they were told to
+      leave. They were escorted out and it was all very civil actually. And then after
+      that we hear him talking about these horrible people, he calls these leftist lunatics
+      and maybe they should be arrested for RICO. I mean I think that’s just him mouthing
+      off just like he said Soros should be arrested and everybody should be arrested
+      because really it was just a prime example of the use of our First Amendment rights.
+      Chris Hedges And why is that activity important, you know, confronting figures
+      in power, which is of course one of the primary activities of CODEPINK. Medea
+      Benjamin CODEPINK, since our founding, and it’s over 20 years now, we’ve confronted
+      every single president in power. We’ve confronted the vice presidents. We’ve confronted
+      the secretaries of state, just like we confront the members of Congress in Congress,
+      because we think they need to hear from us. And so often they isolate themselves.
+      They have press conferences, but oftentimes it’s very selective who gets to ask
+      a question and how they’re asked. We think that they need to be confronted when
+      they are doing horrible things like making wars and every single one of our presidents
+      has made war. Whether it’s [George] Bush during the terrible invasion of Iraq
+      or it was [Barack] Obama and when we confronted him about the use of drones for
+      killing anybody he wanted to anywhere he wanted to and the continuation of holding
+      people in Guantanamo [Bay]. It’s up to us and I feel that it’s a duty of citizens
+      to confront our officials when they are doing such horrible things — war, torture,
+      extrajudicial killings, we have to speak up. Chris Hedges Do you think that direct
+      confrontation has an effect on power? Medea Benjamin I think it does. I remember
+      when I confronted Barack Obama and it was actually kind of a conversation that
+      we were having and they were trying to arrest me and I remember saying to the
+      officer, shh, you better not arrest me, I’m having a conversation with the president,
+      which gave me more time and we had a back and forth. And when I was finally dragged
+      out he said the issues that that woman brings up — it’s funny he said young woman
+      because I’m 10 years old older than him — are issues that are worth listening
+      to. And those were the issues of how can we be holding people in Guantanamo that
+      never had a trial, that never were convicted of anything? How can we be killing
+      U.S. citizens like Abdulrahman al-Awlaki, a 16-year-old U.S. citizen killed by
+      a U.S. drone strike? And also about the U.S. involvement in war that we shouldn’t
+      be in. So I think, yes, that was an example where we did have a real conversation.
+      And we see how those kinds of interactions, those kinds of interruptions of power
+      also inspire other people. And it might not inspire them to do that kind of direct
+      confrontation of somebody like a president, but it does inspire them to directly
+      confront their member of Congress. And I don’t know if you saw during the August
+      recess, Chris, all the different people who confronted their members of Congress
+      at the town hall meetings. It was just beautiful to see. And so I think those
+      direct confrontations do have an impact. Chris Hedges But I can’t see Trump or
+      [White House Deputy Chief of Staff] Stephen Miller or JD Vance having a conversation
+      with you. Medea Benjamin Well, you never know. I think you have to try it. I mean,
+      we have had conversations with Marco Rubio when he was a senator. And yes, sometimes
+      it’s just yelling back and forth. But I think we need to try to have, whether
+      it’s a conversation or whether it’s a what we call strategic interruption, we
+      have to keep doing that. And that’s part of defending our right to free speech.
+      You know better than anyone, Chris, how it’s being assaulted in so many different
+      ways. But if we don’t keep using it and keep pushing it, we will definitely see
+      it taken away. Chris Hedges Where do you see us going, especially after the kind
+      of deification of Charlie Kirk as a martyr? I mean I listened to the rally in
+      Arizona. I mean, especially [Stephen] Miller was kind of full on fascism. Where
+      are we headed? What do you see coming? Medea Benjamin I see that we’re in for
+      very, very dangerous times. I think this administration is using everything that
+      it has, including the courts, to take away our basic rights. I think whether it’s
+      going after immigrants, the way that ICE is just acting like [Nazi secret police]
+      Gestapos on our streets and kidnapping our neighbors. I live in Washington, D.C.,
+      and it pains me when I walk out of my house around the block and I see armed National
+      Guard in my community. It is horrific. And then to see the way that our free speech
+      rights are being violated on a daily basis. The way the police have cracked down
+      so much on the poor university students who were the moral center of this movement
+      against genocide and have been so harassed and intimidated. We see it on all sides
+      and the way that our universities are so attacked, you know, this is basic core
+      issues that we will be dealing with for decades to come when they take away our
+      right to study certain issues or they impose the way that even in our elementary
+      and high schools we are allowed to talk about things like what is a genocide and
+      is it only a genocide when it relates to something that the Jewish community wants
+      us to talk about. This is stuff that’s going to take decades to unravel but I
+      think it’s cyclical, we’ve got to hold on to our seats and go through a very,
+      very hellish period ahead, but we’re going to come out on the other side. Chris
+      Hedges Let’s talk about the weaponization of anti-Semitism that, of course, was
+      used by the Trump administration to go after the universities, which capitulated
+      and from the beginning acknowledged, I think with no basis in fact, that these
+      campuses had a problem with anti-Semitism. I have taught at Columbia, went to
+      Harvard, I’ve taught at Princeton, the idea, not that anti-Semitism doesn’t exist,
+      but the idea that these institutions fomented anti-Semitism was nuts. Then, of
+      course, the demonization of undocumented workers or migrants to justify this explosion
+      of ICE and the building of detention centers. And now of course the idea that
+      there was an organized group responsible for the assassination of Charlie Kirk,
+      which is called the radical left. I mean all of these things are completely fictitious,
+      but they’ve been used very effectively to close the iron doors, to shut down what’s
+      left of our very anemic open society. Medea Benjamin Yes, and I see that it is
+      also happening so much on the local and state-wide levels. I see that the last
+      week there were about 250 members of locally elected officials who were in Israel
+      during a time of a genocide and they were being indoctrinated so that they would
+      go home and reinforce or impose new legislation against boycott, divestment and
+      sanctions, that they would impose new restrictions on what can be taught in the
+      schools. This has seeped into so many areas of our lives that it is very hard
+      to see how we can move forward as the noose keeps tightening. On the other hand,
+      when I am in Congress, you know, I’ve seen 14 hearings already on anti-Semitism.
+      And so many of them are just ridiculous, as you say, you know, somebody had a
+      poster in their room that offended somebody or things that are like, I’m sorry,
+      you could have just asked somebody to apologize for a comment that they made and
+      it would be over. But instead, they’re making it out like this is more important
+      than the genocide that is actually going on. And it, of course, is a distraction
+      from the genocide that’s going on. And one of my hopes is that the younger generation
+      is not falling into this trap, that the younger generation is a generation that
+      is opposed to U.S. policy in Israel, that they have during things like the encampments
+      — I mean, you saw, the beauty of these encampments when they were Muslims and
+      Jewish students praying together, and it was like a vision of the society we want
+      to see in the future. Well these students are not going to let go of that. That’s
+      going to be with them as they move forward. There’s a new generation of young
+      people. We see it when we go into Congress and you see these Congress people that
+      hold on to their vision of Israel that they’re going to keep giving our money
+      to and the staff people nodding in support of us when we go in or running after
+      us in the hallways to say thank you for coming in, we’re working hard to try to
+      change our bosses’ mind. There is a huge generational gap and that generational
+      gap is what will save us. Chris Hedges Well you see it with [New York City mayoral
+      candidate Zohran] Mamdani. Medea Benjamin Absolutely, I mean how beautiful is
+      that? I mean I’m in New York City right now and it just feels so good being here
+      knowing that he will be the next mayor. I’m pretty sure he will be the next mayor
+      and that will change things and it has already changed things. You see people
+      around the country who are now excited about running for office who know exactly
+      how they should portray themselves as they went for office because he’s such a
+      wonderful role model of that. So yes, that is so hopeful. Chris Hedges Although
+      not endorsed by [Chuck] Schumer or [Hakeem] Jeffries, and I just want to close
+      by having you reflect a little bit on the Democratic Party. I mean, in many ways,
+      the Democratic Party transformed itself into the War Party. But talk a little
+      bit about the Democratic Party and whether you believe it’s reformable from within.
+      Medea Benjamin It’s pathetic, it’s disgusting. It was disgusting under Biden,
+      it’s disgusting under Trump. When you think now would be the time for them to
+      be the party of opposition and really be out there, it’s irredeemable. You and
+      I have been supporters of third parties for a long time, both worked on Ralph
+      Nader’s campaign, been always trying to get a strong third party going because
+      I don’t see any way that the Democratic Party can lead us into the kind of future
+      we want. On the other hand, as we are trying to build and look for leaders of
+      a new third party, we have to move and support those Democrats who are trying
+      to change the party from within. I support groups like Progressive Democrats of
+      America. I support the progressive Democrats like Rashida Tlaib and Delia Ramirez
+      and Ilhan Omar and you know there are a number of good ones. So we work with what
+      we have but we build for something much better in the future. Chris Hedges Great,
+      thanks, Medea. And I want to thank Diego [Ramos] and Victor [Padilla], Thomas
+      [Hedges], Sofia [Menemenlis], and Max [Jones], who produced the show. You can
+      find me at ChrisHedges.Substack.com . US-IRAN-ISRAEL-CONFLICT-TRUMP US President
+      Donald Trump addresses the nation, alongside US Vice President JD Vance (L), US
+      Secretary of State Marco Rubio (2nd R) and US Secretary of Defense Pete Hegseth
+      (R), from the White House in Washington, DC on June 21, 2025, following the announcement
+      that the US bombed nuclear sites in Iran. (Photo by CARLOS BARRIA / POOL / AFP)
+      (Photo by CARLOS BARRIA/POOL/AFP via Getty Images) Attorney General Pam Bondi
+      Testifies In Senate Hearing WASHINGTON, DC – JUNE 25: U.S. Attorney General Pam
+      Bondi testifies before the Senate Appropriations Committee Subcommittee on Commerce,
+      Justice, Science, and Related Agencies in the Dirksen Senate Office Building on
+      June 25, 2025 in Washington, DC. (Photo by Chip Somodevilla/Getty Images) Political
+      Activist Charlie Kirk Shot Dead At Utah Valley University OREM, UTAH – SEPTEMBER
+      10: Charlie Kirk throws hats to the crowd after arriving at Utah Valley University
+      on September 10, 2025 in Orem, Utah. Kirk, founder of Turning Point USA, was speaking
+      at his “American Comeback Tour” when he was shot in the neck and killed. (Photo
+      by Trent Nelson/The Salt Lake Tribune/Getty Images) Former President Donald Trump’s
+      Hush Money Trial Continues In New York NEW YORK, NEW YORK – MAY 13: Attorney Todd
+      Blanche sits in court during the trial of former President Donald Trump for allegedly
+      covering up hush money payments at Manhattan Criminal Court on May 13, 2024 in
+      New York City. Former U.S. President Donald Trump faces 34 felony counts of falsifying
+      business records in the first of his criminal cases to go to trial. (Photo by
+      Sarah Yenesel-Pool/Getty Images) Opening Statements Begin In Former President
+      Donald Trump’s New York Hush Money Trial NEW YORK, NEW YORK – APRIL 22: Former
+      U.S. President Donald Trump speaks to the media, flanked by lawyer Todd Blanche
+      (R), after arriving for his trial for allegedly covering up hush money payments
+      at Manhattan Criminal Court on April 22, 2024 in New York City. (Photo by Victor
+      J. Blue – Pool/Getty Images) Senate Armed Services Committee Holds From Top Military
+      Leaders On ISIL Threat WASHINGTON, DC – SEPTEMBER 16: Code Pink for Peace organizer
+      Medea Benjamin (C) protests against U.S. military action in Iraq as Defense Secretary
+      Chuck Hagel (L) and Chairman of the Joint Chiefs of Staff Army Gen. Martin Dempsey
+      testify before the Senate Armed Services Committee in the Hart Senate Office Building
+      on Capitol Hill September 16, 2014 in Washington, DC. (Photo by Chip Somodevilla/Getty
+      Images) GOP House Members Meet For Caucus Meeting On Capitol Hill WASHINGTON,
+      DC – NOVEMBER 19: U.S. Rep. Darrell Issa (R-CA) arrives for a House Republican
+      caucus meeting at the U.S. Capitol on November 19, 2024 in Washington, DC. The
+      House Republicans are working to come to an agreement on a government funding
+      bill before the end of the year. (Photo by Kevin Dietsch/Getty Images) 71st Emmy
+      Awards – Show LOS ANGELES, CALIFORNIA – SEPTEMBER 22: (L-R) Stephen Colbert and
+      Jimmy Kimmel speak onstage during the 71st Emmy Awards at Microsoft Theater on
+      September 22, 2019 in Los Angeles, California. (Photo by Kevin Winter/Getty Images)
+      Congressional Gold Medals Awarded To 13 Service Members Killed In Afghanistan
+      WASHINGTON, DC – SEPTEMBER 10: Sen. John Cornyn (R-TX) (L) speaks with Sen. Tom
+      Cotton (R-AR) (R) during a Congressional Gold Medal Ceremony for the 13 American
+      service members who died in the suicide bombing at Hamid Karzai International
+      Airport in Afghanistan in the U.S. Capitol Rotunda on September 10, 2024 in Washington,
+      DC. (Photo by Anna Moneymaker/Getty Images) US-POLITICS-COURT-ASSAULT-VOTE Senate
+      Judiciary Committee Chairman Senator Chuck Grassley (R-IA) speaks to reporters
+      about Judge Brett Kavanaugh on Capitol Hill September 26, 2018 in Washington,
+      DC. – The US Senate Judiciary Committee has scheduled for Friday a preliminary
+      vote on the nomination of Supreme Court pick Brett Kavanaugh, who is under fire
+      over claims of sexual assault in his youth. (Photo by Brendan Smialowski / AFP)
+      (Photo credit should read BRENDAN SMIALOWSKI/AFP via Getty Images) May Day Demonstrations
+      BERLIN – MAY 01: A demonstrator throws a bottle at riot police during clashes
+      during a May Day march by left-wing protesters in Kreuzberg on May 1, 2009 in
+      Berlin, Germany. Over 5,000 police officers are in Berlin to maintain order during
+      the myriad of May 1, Workers Day, demonstrations that in years past have traditionally
+      led to street battles between drunken demonstrators and police. (Photo by Sean
+      Gallup/Getty Images) TOPSHOT-BRITAIN-POLITICS-PROTEST-ISRAEL-PALESTINIAN-CONFLICT
+      TOPSHOT – Police officers arrest an 89-year-old protester at a “Lift The Ban”
+      demonstration in support of the proscribed group Palestine Action, calling for
+      the recently imposed ban to be lifted, in Parliament Square, central London, on
+      August 9, 2025. Organisers expect at least 500 people to turn up to a new demonstration
+      in support of Palestine Action today, and police have warned all demonstrators
+      could face arrest. Palestine Action was proscribed under the 2000 Terrorism Act.
+      (Photo by Chris J Ratcliffe / AFP) (Photo by CHRIS J RATCLIFFE/AFP via Getty Images)
+      TOPSHOT-US-POLITICS-MIGRANTS-KHALIL-EDUCATION-MIGRATION TOPSHOT – Former Columbia
+      Univrsity student Mahmoud Khalil reacts as he arrives to Newark airport in Newark,
+      New Jersey, on June 21, 2025. (Photo by kena betancur / AFP) (Photo by KENA BETANCUR/AFP
+      via Getty Images) Confirmation Hearing Held For Secretary Of Defense Nominee Pete
+      Hegseth WASHINGTON, DC – JANUARY 14: Protesters with the group CodePink demonstrate
+      at the start of the Senate Armed Services confirmation hearing for President-elect
+      Donald Trump’s nominee for Secretary of Defense Pete Hegseth on Capitol Hill on
+      January 14, 2025 in Washington, DC. (Photo by Andrew Harnik/Getty Images) Rep.
+      Greene Expected To Trigger Motion To Vacate Speaker Johnson This Week WASHINGTON,
+      DC – MAY 7: Rep. Marjorie Taylor Greene (R-GA) and Rep. Thomas Massie (R-KY) speak
+      to members of the press on the steps of the House of Representatives after a meeting
+      with Speaker of the House Mike Johnson (R-LA) at the U.S. Capitol on May 7, 2024
+      in Washington, DC. Last week Greene threatened to move forward with a ‘motion
+      to vacate’ over her dissatisfaction with the Speaker’s handling of the government
+      funding legislation. (Photo by Kent Nishimura/Getty Images) Hot meal distributed
+      to Palestinians struggling with hunger in Gaza DEIR AL-BALAH, GAZA – SEPTEMBER
+      24: Palestinians, including children, try to receive hot meal, distributed by
+      charity organizations, as people struggle with hunger due to Israeli food blockade
+      at Nuseirat Refugee Camp in Deir al-Balah, Gaza on September 24, 2025. (Photo
+      by Hassan Jedi/Anadolu via Getty Images) House Democrats Retreat BALTIMORE – MARCH
+      2: Rep. Valerie Foushee, D-N.C., speaks during House Minority Whip Katherine Clarks
+      news conference with freshman women of the 118th Congress at the House Democrats
+      2023 Issues Conference in Baltimore, Md., on Thursday, March 2, 2023. (Bill Clark/CQ-Roll
+      Call, Inc via Getty Images) NC Democratic Senate Candidate Deborah Ross Holds
+      Election Night Event RALEIGH, NC – NOVEMBER 8: U.S. Democratic Senate nominee
+      Deborah Ross speaks to a crowd at the North Carolina Democrats Watch Party on
+      November 8, 2016 in Raleigh, North Carolina. Ross conceded the election to Republican
+      incumbent Richard Burr. (Photo by Sara D. Davis/Getty Images) GE Appliances Makes
+      Historic $3 Billion Investment To Expand American Manufacturing LOUISVILLE, KENTUCKY
+      – AUGUST 13: Congressman Morgan McGarvey celebrates $3 billion investment announcement
+      by GE Appliances on August 13, 2025. (Photo by Michael Hickey/Getty Images for
+      GE Appliances, a Haier company) Missourians Head To The Polls For State’s Primary
+      Election ST LOUIS, MISSOURI – AUGUST 6: U.S. Rep. Cori Bush (D-MO) delivers her
+      concession speech during a primary election watch party at Chevre Events on August
+      6, 2024 in St Louis, Missouri. Bush lost Tuesday’s Democratic primary to St. Louis
+      County Prosecutor Wesley Bell. (Photo by Michael B. Thomas/Getty Images) Biden
+      Impeachment Resolution UNITED STATES – JUNE 22: Rep. Jamaal Bowman, D-N.Y., arrives
+      to the U.S. Capitol before the House voted to send an articles of impeachment
+      resolution against President Joe Biden to committees on Thursday, June 22, 2023.
+      (Tom Williams/CQ-Roll Call, Inc via Getty Images) Capitol Hill WASHINGTON, DC
+      – JULY 19: Rep. Andy Levin (D-MI) raises his fist in the air, as he was released
+      from being detained after participating in a sit-in outside the Supreme Court
+      of the United States during a sit-in protesting the high court overturning Roe
+      v. Wade with activists from Center for Popular Democracy Action (CPDA) on Capitol
+      Hill on Tuesday, July 19, 2022 in Washington, DC. (Kent Nishimura / Los Angeles
+      Times via Getty Images) Republican House Members Attend Party Conference Meeting
+      WASHINGTON, DC – MARCH 25: Rep. Marjorie Taylor Greene (R-Ga.) speaks to reporters
+      while arriving at the Capitol Hill Club for a meeting of the House Republican
+      Conference on March 25, 2025 in Washington, DC. Republicans are meeting as the
+      Trump administration faces blowback after defense plans were posted to a group
+      chat that accidentally included a prominent journalist. (Photo by Al Drago/Getty
+      Images) House GOP 9/3/25 UNITED STATES – SEPTEMBER 3: Rep. Anna Paulina Luna,
+      R-Fla., talks with reporters before a meeting of the House Republican Conference
+      in the U.S. Capitol on Wednesday, September 3, 2025. (Tom Williams/CQ-Roll Call,
+      Inc via Getty Images) WASHINGTON, DC – SEPTEMBER 20: Members of the Ohio National
+      Gua WASHINGTON, DC – SEPTEMBER 20: Members of the Ohio National Guard stand outside
+      the Jefferson Memorial on September 20, 2025 in Washington, DC. (Photo by Craig
+      Hudson For The Washington Post via Getty Images) Bush Addresses Nation On 9/11
+      Anniversary WASHINGTON – SEPTEMBER 11: (AFP OUT) U.S. President George W. Bush
+      sits at his desk in the Oval Office of the White House after addressing the nation
+      on the anniversary of the 2001 terrorist attacks September 11, 2006 in Washington,
+      DC. It’s been five years since terrorists seized four airliners in flight, crashing
+      two in the World Trade Center in New York, one into the Pentagon in Arlington,
+      Virginia and one into a field in Shanksville, Pennsylvania. (Photo by Roger L.
+      Wollenberg-Pool/Getty Images) Barack Obama Speaks At His Foundation’s Democracy
+      Forum In New York City NEW YORK, NEW YORK – NOVEMBER 17: Former U.S. President
+      Barack Obama speaks at a Democracy Forum event held by the Obama Foundation at
+      the Javits Center on November 17, 2022 in New York City. The all day event featured
+      speakers from a variety of backgrounds conversing on the state of global democracy
+      and opportunities for the next generation of global leaders. (Photo by Spencer
+      Platt/Getty Images) Former President Trump Addresses The Turning Points Action
+      Conference In West Palm Beach, California WEST PALM BEACH, FLORIDA – JULY 15:
+      Founder and executive director of Turning Point USA Charlie Kirk speaks at the
+      opening of the Turning Point Action conference on July 15, 2023 in West Palm Beach,
+      Florida. Former President Donald Trump is scheduled to speak at the event held
+      in the Palm Beach County Convention Center. (Photo by Joe Raedle/Getty Images)
+      US-POLITICS-SHOOTING-KIRK White House deputy chief of staff for policy and US
+      homeland security advisor Stephen Miller approaches the podium to speak during
+      the public memorial service for right-wing activist Charlie Kirk at State Farm
+      Stadium in Glendale, Arizona, on September 21, 2025. (Photo by CHARLY TRIBALLEAU
+      / AFP) (Photo by CHARLY TRIBALLEAU/AFP via Getty Images) Police Arrest UCLA Protesters
+      And Clear Encampment LOS ANGELES, CA – MAY 02: The police officers detain pro-Palestinian
+      protestors as they clear a pro-Palestinian encampment after a dispersal order
+      was given at an encampment at the University of California Los Angeles (UCLA)
+      on May 2, 2024 in Los Angeles, California. Police had cleared UCLA’s student encampment
+      in a late-night operation, and arrested more than 100 pro-Palestine demonstrators
+      early on Thursday morning, according to multiple sources. (Photo by Qian Weizhong/VCG
+      via Getty Images) Student Protests Continue At George Washington University WASHINGTON,
+      DC – APRIL 29: A man holds up a Palestinian flag as Activists and students chant,
+      surrounding piled barricades at an encampment at University Yard at George Washington
+      University on April 29, 2024 in Washington, DC. (Photo by Kent Nishimura/Getty
+      Images) New York Mayoral Candidate Zohran Mamdani Celebrates Democratic Primary
+      Win NEW YORK, NEW YORK – JULY 02: New York Mayoral Candidate Zohran Mamdani speaks
+      during a press conference at the Hotel & Gaming Trades Council building on July
+      02, 2025 in New York City. Mamdani celebrated his mayoral primary victory with
+      leaders and members of the city’s labor unions, including the Hotel and Gaming
+      Trades Council, 32BJ SEIU, New York State Nurses Association, and NY City Central
+      Labor Council, and received the endorsements of these unions. (Photo by Michael
+      M. Santiago/Getty Images) Congressional Democrat Appropriation Leaders Hold Press
+      Conference WASHINGTON, DC – JULY 22: Senate Minority Leader Chuck Schumer (D-NY)
+      and House Minority Leader Hakeem Jeffries (D-NY) speak to reporters alongside
+      other House and Senate Appropriation Democratic committee members in the Ohio
+      Clock Corridor of the U.S. Capitol Building on July 22, 2025 in Washington, DC.
+      The lawmakers held the media availability to discuss their views of government
+      funding and upcoming spending bills. (Photo by Anna Moneymaker/Getty Images) US-POLITICS-IMMIGRATION-DACA
+      US Representative Delia Ramirez, Democrat from Illinois speaks during a news conference
+      with immigration experts, DACA recipients, and Dreamers to mark the 13th anniversary
+      of the Deferred Action for Childhood Arrivals (DACA) program in Washington, DC
+      on June 11, 2025. (Photo by ANDREW CABALLERO-REYNOLDS / AFP) (Photo by ANDREW
+      CABALLERO-REYNOLDS/AFP via Getty Images) Democratic House Reps. Rashida Tlaib,
+      Cori Bush, And Summer Lee Call For Cease Fire In Gaza WASHINGTON, DC – NOVEMBER
+      13: U.S. Rep. Ilhan Omar (D-MN) speaks during a news conference calling for a
+      ceasefire in Gaza outside the U.S. Capitol building on November 13, 2023 in Washington,
+      DC. House Democrats held the news conference alongside rabbis with the activist
+      group Jewish Voices for Peace. (Photo by Anna Moneymaker/Getty Images) TOPSHOT-BRITAIN-POLITICS-PROTEST-ISRAEL-PALESTINIAN-CONFLICT
+      TOPSHOT – An elderly protester is taken away by police officers at a “Lift The
+      Ban” demonstration in support of the proscribed group Palestine Action, calling
+      for the recently imposed ban to be lifted, in Parliament Square, central London,
+      on September 6, 2025. (Photo by JUSTIN TALLIS / AFP) (Photo by JUSTIN TALLIS/AFP
+      via Getty Images) Editor’s Note : A t a moment when the once vaunted model of
+      responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Chris Hedges Chris Hedges is a Pulitzer Prize–winning
+      journalist who was a foreign correspondent for fifteen years for The New York
+      Times, where he served as the Middle East Bureau Chief and Balkan Bureau Chief
+      for the paper. He previously worked overseas for The Dallas Morning News , The
+      Christian Science Monitor , and NPR. He is the host of show The Chris Hedges Report.
+      He was a member of the team that won the 2002 Pulitzer Prize for Explanatory Reporting
+      for The New York Times coverage of global terrorism, and he received the 2002
+      Amnesty International Global Award for Human Rights Journalism. Hedges, who holds
+      a Master of Divinity from Harvard Divinity School, is the author of the bestsellers
+      American Fascists: The Christian Right and the War on America , Empire of Illusion:
+      The End of Literacy and the Triumph of Spectacle and was a National Book Critics
+      Circle finalist for his book War Is a Force That Gives Us Meaning . He writes
+      an online column for the website ScheerPost . He has taught at Columbia University,
+      New York University, Princeton University and the University of Toronto. Author
+      Site'
+    one_sentence_summary: In a recent episode of The Chris Hedges Report, Medea Benjamin
+      of CODEPINK discusses the diminishing opportunities for activism and dialogue
+      with U.S. politicians regarding their ties to the military-industrial complex,
+      highlighting the challenges faced by those confronting power in today's political
+      climate.
+    paragraph_summary: In a recent episode of The Chris Hedges Report, host Chris Hedges
+      interviews Medea Benjamin, co-founder of CODEPINK, an organization known for its
+      bold activism against U.S. political power and military interests. Benjamin discusses
+      the current precarious state of free speech in America, particularly in light
+      of recent violent events and the political class's unwavering support for Israel
+      amidst the ongoing conflict in Gaza. She shares her recent experience of being
+      arrested after confronting Congressman Darrell Issa about an Israeli airstrike,
+      highlighting the increasing suppression of activist voices. The conversation also
+      touches on CODEPINK's confrontations with former President Trump, who has suggested
+      legal repercussions for protestors, underscoring the challenges faced by those
+      advocating for change in a climate of hostility towards dissent.
+    published: '2025-09-24T23:44:22+00:00'
+  - title: Trump’s Crackdown on Anti-War Activists (w/ CODEPINK’s Medea Benjamin)
+    url: https://scheerpost.com/2025/09/24/trumps-crackdown-on-anti-war-activists-w-codepinks-medea-benjamin/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Chris
+      Hedges / The Chris Hedges Report This interview is also available on podcast platforms
+      and Rumble . Medea Benjamin and CODEPINK , the organization she cofounded, are
+      synonymous with accosting power in the United States. Their fearless confrontations
+      with the nation’s most prominent and powerful politicians in the halls of Congress,
+      often seen through viral videos, are a stark embodiment of the First Amendment.
+      Despite over 20 years of activism and consistent critique of America’s representatives
+      over their subservience to the military industrial complex and other big money
+      interests, their ability to have these conversations is beginning to dwindle.
+      Benjamin joins host Chris Hedges on this episode of The Chris Hedges Report to
+      discuss the current moment in American politics, which sees free speech sitting
+      on a knife’s edge following the assassination of Charlie Kirk and the American
+      political class’s continued support of Israel’s genocide in Gaza. Benjamin was
+      recently arrested after questioning Rep. Darrell Issa about Israel’s recent airstrike
+      targeting Hamas negotiators in Qatar. Despite police saying she did nothing wrong,
+      Issa continued with lodging a complaint against her, a move she believes is also
+      in line with the suppression of activists and free speech. Furthermore, after
+      CODEPINK activists confronted Donald Trump and his cabinet at a restaurant and
+      chanted at the president, “Free DC, free Palestine, Trump is the Hitler of our
+      time,” Trump told reporters that he is looking into having US Attorney General
+      Pam Bondi bring RICO charges against the protestors “because they should be put
+      in jail.” /NOTE TO SCHEERPOST READERS FROM CHRIS HEDGES: There is now no way left
+      for me to continue to write a weekly column for ScheerPost and produce my weekly
+      television show without your help. The walls are closing in, with startling rapidity,
+      on independent journalism , with the elites, including the Democratic Party elites,
+      clamoring for more and more censorship. Bob Scheer, who runs ScheerPost on a shoestring
+      budget, and I will not waver in our commitment to independent and honest journalism,
+      and we will never put ScheerPost behind a paywall, charge a subscription for it,
+      sell your data or accept advertising. Please, if you can, sign up at chrishedges.substack.com
+      so I can continue to post my now weekly Monday column on ScheerPost and produce
+      my weekly television show, The Chris Hedges Report. Please share this story and
+      help us grow our network! Host Chris Hedges Producer: Max Jones Intro: Diego Ramos
+      Crew: Diego Ramos, Sofia Menemenlis and Thomas Hedges Transcript: Diego Ramos
+      Transcript: Chris Hedges Earlier this month activists from the nonviolent anti-war
+      group CODEPINK confronted Donald Trump and his cabinet, including JD Vance, Marco
+      Rubio and Pete Hegseth at a Washington, D.C. restaurant. They shouted, “Free DC,
+      free Palestine, Trump is the Hitler of our time.” Trump angrily ordered his security
+      to “get them out of here.” Trump issued threats against the activists. He claimed
+      one of the activists was a “paid agitator,” and said he is looking into having
+      US Attorney General Pam Bondi bring RICO charges against the protesters “because
+      they should be put in jail.” “What they are doing to this country is really subversive,”
+      Trump said. RICO charges, or charges under the Racketeer Influenced and Corrupt
+      Organizations Act, were originally designed to combat organized crime. The campaign
+      against dissidents, or those whom Trump refers to as “the radical left,” has intensified
+      since the assassination of Charlie Kirk, elevated immediately after his death
+      to the status of a martyr. Deputy Attorney General Todd Blanche told CNN that
+      the Department of Justice may investigate groups that have protested Trump, also
+      referencing the protesters who interrupted the dinner. “Is it, again, sheer happenstance
+      that individuals show up at a restaurant where the president is trying to enjoy
+      dinner in Washington, D.C., and accost him with vile words and vile anger?” Blanche
+      said on CNN. “Does it mean it’s just completely random that they showed up? Maybe,
+      maybe, but to the extent that it’s part of an organized effort to inflict harm
+      and terror and damage to the United States, there’s potential, potential investigations
+      there.” Abigail Jackson, a White House spokeswoman, told Axios in an email: “Left-wing
+      organizations have fueled violent riots, organized attacks against law enforcement
+      officers, coordinated illegal doxing campaigns, arranged drop points for weapons
+      and riot materials, and more.” ‘The Trump Administration will get to the bottom
+      of this vast network inciting violence in American communities,” she went on.
+      “This effort will target those committing criminal acts and hold them accountable.”
+      Joining me to discuss the drive to silence all dissent is the activist and CODEPINK
+      cofounder Medea Benjamin. Medea, who has protested with CODEPINK against wars
+      whether waged by Democratic and or Republican political leaders, was arrested
+      inside the U.S. Capitol a few days ago when she asked Rep. Darrell Issa about
+      Israel’s attack on Qatar. Issa refused to answer. His staff attempted to seize
+      her phone and called police. She was charged with “impeding a congressperson.”
+      As a veteran anti-war activist, we’re now talking decades, how does this moment
+      compare with other moments of resistance? Medea Benjamin Well, thank you for having
+      me on, Chris. It’s always good to be on with you. This moment is a very dark moment,
+      a very scary moment. We’ve certainly had moments in my lifetime where people that
+      went up against administrations were charged with all kinds of ridiculous lawsuits
+      and during the Iraq War, we received a lot of threats as CODEPINK when it was
+      U.S. soldiers who were fighting and dying there. But this is a much more wholesale
+      attack on free speech, much more than I have seen before. Chris Hedges Well it’s
+      not hypothetical. So we have seen a series of measures, I mean law firms, for
+      instance, that defended people who were critical of Trump or Trump opponents.
+      Of course, the assault on universities, the purging of comedians such as [Stephen]
+      Colbert and [Jimmy] Kimmel. There’s a kind of institutional dismantling that perhaps
+      is unlike anything we’ve seen since, I don’t know, maybe the 1960s with the rise
+      of the anti-war movement? Medea Benjamin We certainly haven’t seen this level
+      of attack on us as CODEPINK, and we’re part of a much larger constellation of
+      organizations that have been the victim of lawfare with all kinds of ridiculous
+      lawsuits against us. In the case of CODEPINK, that we are somehow connected to
+      Hamas, which is crazy, but it takes a lot of time and resources to fight these
+      lawsuits. And then we’ve had a series of members of Congress and high-level members
+      of Congress like Tom Cotton, who is the head of the Senate Intelligence Committee,
+      say before a hearing of all of the heads of the intelligence communities in the
+      country that CODEPINK was funded by the Chinese Communist Party. We’ve had the
+      head of the Judiciary Committee, Senator [Chuck] Grassley, say that the FBI and
+      the Department of Justice should investigate us for violations of Foreign Agent
+      Registration Act, as if we were some foreign agent. We’ve been accused of being
+      foreign agents of Iran, of being foreign agents of China. We’ve had members of
+      Congress say that we should be barred from coming into Congress. We have had members
+      of Congress, one of my favorites was the in the Natural Resources Committee, a
+      letter that included as proof that we were representing the Chinese government
+      was that we wanted the Pentagon to have to measure its carbon emissions. And who
+      but the Chinese government would want to see that happen. So all kinds of attacks.
+      As I said, we are one of many, many organizations. And it’s harassment. It’s sapping
+      of our time and energy. And it certainly does make people feel very nervous about
+      standing up to this administration. But I must say, Chris, that we have found
+      more and more volunteers coming with us in Congress as we go around every single
+      day trying to get our members of Congress to represent us and not Israel. Chris
+      Hedges I want to ask about Antifa. So Trump sent out on Truth Social that he was
+      declaring Antifa to be a terrorist organization. Antifa is an amorphous group
+      with no hierarchy or real organizational structure. And then of course in the
+      same breath he’s talking about going after funders of groups that he doesn’t like,
+      like George Soros. Did you see that declaration that Antifa was a terrorist group
+      as a way essentially to tar all resistance groups by tying them, I mean, however
+      absurdly, to Antifa? I mean I read that quote from [Deputy Attorney General Todd]
+      Blanche, which talked about stockpiling weapons and I mean, just complete fantasy.
+      But I just wondered what your reaction was to declaring Antifa a terrorist organization.
+      Medea Benjamin Well, luckily I was able to read your column very quickly after
+      and I felt very much reassured in my own thinking because over the years I too
+      have been the victim of attacks by groups related to Antifa like the Black Bloc
+      . In fact, I got a pie in my face one time that might sound funny but it felt
+      very aggressive and I was followed around as I toured the country on a book tour
+      by people who said that I was a, I think they called it a part of the NGO industrial
+      complex that was trying to destroy the revolution. So like you, I have had my
+      run-ins with groups like Antifa and yet when I see that that kind of designation
+      to a group, as you well know, that is so amorphous, it is the beginnings of saying,
+      if you can go after this group and nobody stands up, then you can go after the
+      next one and the next one. What I really have been heartened by is seeing how
+      the reaction has been in the UK to the designation of Palestine Action as a proscribed
+      group, as they call it there. Here, I guess it would be a terrorist group. And
+      it has really been heartening to see the hundreds and hundreds of people who have
+      been arrested standing up to Palestine Action and showing how ridiculous the state
+      is when it arrests people in their 80s, people who are blind, professors, merely
+      for wearing a shirt that says, “I oppose genocide, I support Palestine Action.”
+      So I think we have to be ready in the US to do that kind of collective support
+      as this administration takes swipes at group after group, person after person,
+      whether it’s Mahmoud Khalil and we see the tremendous support that he has gotten
+      or groups that we might not like. Chris Hedges Before we talk about your rest,
+      let’s talk a little bit about what CODEPINK does. I love your confrontations.
+      I don’t actually do them myself. I let you do them and then I watch them. But
+      talk about CODEPINK’s tactics, what you do. You call people out in committee hearings
+      and I don’t know how many committee hearings you’ve been dragged out of. But let’s
+      talk about what you do, what CODEPINK does and why you do it. And perhaps we can
+      talk about your recent arrest. Medea Benjamin Well, first let me say the things
+      that people don’t see because it’s more behind the scenes. And that is all the
+      chapters that we have across the United States that are doing work both on boycott,
+      divestment, and sanctions campaigns, that are doing work to try to stop bad laws
+      from being passed in their state level or their city level or get good ones passed,
+      calling for an end to weapon sales, or putting pressure on their local officials
+      as well as their representative in Congress. And those of us who are in DC and
+      go around week after week inside Congress, we’re also doing that kind of day-to-day
+      less visible work of going to offices. Remember, there’s 435 members of the House
+      and 100 in the Senate. That’s a lot of offices that we visit on a regular basis,
+      including all of the Republican offices, because we’re just waiting for the dike
+      to break there and for it not to just be Marjorie Taylor Green and Tom Massie
+      and the Republicans, but for a new flood of Republicans who start seeing the light
+      in terms of where their base is. So we go around from office to office and what
+      we have been focusing on lately is this piece of legislation called Block the
+      Bombs because it’s a specific bill that allows us to focus on one member of Congress
+      after another and pressure them both in their constituency and in DC to sign on
+      to that. And we’ve been doing that methodically so that now there are 50 members
+      of Congress who’ve signed on to that and every week we get a few more and we do
+      a similar kind of thing in the Senate. Now what you see is when I go in and bird
+      dog, or other members of CODEPINK, what we call bird dogging , members of the
+      House and the Senate as they’re walking through the halls or in the hearings or
+      when they’re coming in or out of a hearing or when they’re walking outside over
+      to the Capitol. That’s our time for one-on-one with them. And if there people
+      that we like, we don’t video them, we talk to them, we have good conversations
+      and we say, what else can we do to stop this genocide, to get the food in, to
+      stop the slaughter. And when there are people we know that continue to support
+      sending weapons to Israel, continue to say things like there is no starvation
+      in Gaza, which is something that we hear quite often, or the only reason that
+      food is not getting in is because Hamas steals it all, then we record those and
+      we put them out for everyone to see. And I think it’s been quite revelatory to
+      people not only in this country but in other places because as I’ve traveled around
+      in other countries they said, wow, I didn’t know how undemocratic your country
+      was until I started started seeing those videos and seeing how these members of
+      Congress don’t represent the people. They just represent their donors, whether
+      it’s the AIPAC [American Israel Public Affairs Committee] donors or the weapons
+      industry, and certainly don’t represent what’s in the national security interests
+      even of the United States, much less showing that they have some heart for the
+      people who are suffering so much in Gaza. So that’s really been a very important
+      thing, I think, that we’ve gotten out to show people exactly who some of these
+      members of Congress are. Chris Hedges Well, you call out their hypocrisy. There
+      was a video of you at, it was some kind of Republican Christian convention, where
+      you asked people the simple question, will you pray for the children of Gaza?
+      And they ran from you as if you had leprosy. And then of course dragged you out.
+      Medea Benjamin Yes, I often go to these Christian gatherings and say, let’s hold
+      hands together and pray for the children of Gaza. And when I say, let’s hold hands
+      and pray, they take my hand, they’re ready to pray. And then when I say for the
+      children of Gaza, they’re like, oh no, we can’t possibly do that. So yes, calling
+      out their hypocrisy in so many different ways. And also when we put out the videos,
+      we often put a tag of how much money they are getting from AIPAC because that’s
+      important for people to know as well. Chris Hedges You’ve been a staunch foe of
+      AIPAC, that’s consumed a lot of your time and energy. When AIPAC meets, I’ve attended
+      some, you’ve held kind of rival gatherings. Talk a little bit about the AIPAC
+      lobby, its power in the genocide. Medea Benjamin It’s funny, Chris, because if
+      you remember in past years, AIPAC used to have these enormous conferences with
+      like 10,000 people would come and they’d take over the whole convention center
+      and the members of Congress and the administration, they would fight with each
+      other over who would get top billing. They all wanted to be seen and heard there.
+      And that has changed tremendously. I mean, since October 7th and the genocide,
+      many of them are embarrassed to be seen at these AIPAC gatherings. The AIPAC gatherings
+      are a lot smaller. What’s really interesting to me, Chris, is that we’re now seeing
+      people who are not necessarily progressive Democrats, very middle of the road,
+      two of them from North Carolina, Valerie Foushee and Deborah Ross, recently coming
+      out and saying publicly they wouldn’t take money from AIPAC, as well as [Morgan
+      McGarvey] from Kentucky who said he wouldn’t take money from AIPAC. So I’m not
+      saying AIPAC is not a tremendous force and has so skewed the policies of our government,
+      but I’m saying that there are starting to be cracks and that there are members
+      of Congress who are starting to be embarrassed by their affiliation with AIPAC,
+      embarrassed that the public knows how much money they’ve taken from AIPAC. And
+      Chris, I think it’s important for your viewers to understand it’s not just the
+      money that AIPAC gives to them. It really is the fear they have of being targeted
+      by AIPAC because when we put out these videos and show the amounts of money, sometimes
+      it’s a huge amount of money. You know, some have taken a million dollars over
+      the course of their career, but some have only gotten about $30,000 and yet they
+      tow the AIPAC line. Maybe because they’re Christian Zionists and they have some
+      misguided belief that God told them to support Israel, but oftentimes it’s because
+      they don’t want to be on AIPAC’s hit list. We have seen through the years not
+      just the recent way that AIPAC has taken out Cori Bush and Jamaal Bowman, but
+      it goes back and it goes back even to Jewish members of Congress like Andy Levin
+      who is taken out by AIPAC. So they want to keep their heads down. They don’t want
+      to be targeted by AIPAC, but yet as more and more constituents are confronting
+      their members of Congress in the town halls and their local offices, we are seeing
+      more members saying that they don’t want to be affiliated or seen as AIPAC puppets.
+      Chris Hedges Can you juxtapose, and you’ve been outspoken about this, the proxy
+      war in Ukraine and what’s happening in Gaza and the US response? Medea Benjamin
+      Well, it was so interesting during the war in Ukraine how we were pushing members
+      of Congress to come out and call for negotiations. And you probably recall, Chris,
+      the 18 members of Congress, the progressive Democrats, who soon after the war
+      began came out with that letter that said, thank you [Joe] Biden, for all the
+      money that you’re giving to Ukraine, and we’ve got to support Ukraine in this
+      war. But negotiations might be a good thing. And they were so pilloried by their
+      own Democrats, by the higher-ups in the party, that within 24 hours they withdrew
+      that letter. And ever since then, they don’t talk about it. And so it’s only been
+      the Republicans who have said, why are we fueling a foreign war when the American
+      people don’t want that? And I mentioned Marjorie Taylor Greene, that’s how we
+      first began a relationship with her because she was so outspoken about that. So
+      we see that there are still members of the Republican Party who say we don’t want
+      to keep spending our money on foreign wars. But when they say foreign wars, they’re
+      talking about Ukraine. They’re not talking about Israel. And when we use the same
+      logic to say, well, what about Israel? And you call yourselves America first,
+      but are you America first when you are allocating all of this money to Israel
+      that could be used here in America? And they don’t want to hear that. But that’s
+      why I say the dike is about to break because as you well know, Chris, there are
+      so many influencers in the Republican Party who have changed their position on
+      Israel that I am just waiting to see some more consistency among the Republicans
+      when they say we don’t want to fuel foreign wars, they’re not just talking about
+      Ukraine. Chris Hedges Let’s talk about your arrest. Was that the first time that
+      you were attempting to converse with a member of Congress, I think you were just
+      in the hallway, right? Was that the first time that you were arrested for that
+      activity? Medea Benjamin Yes, we’ve been arrested many times in the hearings and
+      we know when we speak up in the hearings that we’re at risk of arrest. And there
+      are many groups that come to the Capitol that stage beautiful acts of nonviolent
+      civil disobedience. We’ve seen Jewish Voice for Peace , we’ve seen Christians
+      for a Ceasefire, wonderful actions that the Mennonites have done and they know
+      they will be arrested. But in this case, I was doing what I do on a regular basis,
+      which is walk down the halls, I find a member of Congress and I run after them
+      and ask them will they comment on some issue of the day. This was the day after
+      the Israelis had attacked the Hamas negotiators in Qatar and I thought it was
+      important. You know there are journalists all over Congress who are constantly
+      putting their microphones in the faces of members of Congress. I wasn’t even near
+      [Darrell Issa]. I was following behind him or aside him and I asked him what he
+      thought of Israel’s attack on Qatar. And he was so nasty and went into his office
+      and I just gently touched the door opening a public place in the office. I mean
+      anybody can walk into his office. And he immediately told his staff person to
+      grab my phone and he said that I was violating the law by entering his office.
+      First, I wasn’t in his office and second, it’s no violation to enter a congressperson’s
+      office. Well, I just thought, I said, you’re out of your mind and you’re nasty
+      and if you touch me, it’s an assault. And I went away thinking, what a nasty guy.
+      And then about 15 minutes later, these very nice police officers came up and said
+      that Darrell Issa had lodged a complaint against me and wanted me arrested . I
+      showed them the video and they looked at the video and they said, there’s nothing
+      there. You didn’t do anything wrong. And so I was there for a long time while
+      they were debating whether to let me go, which I thought would happen, or to arrest
+      me. But it turns out, the Inspector General got involved, Issa wouldn’t drop it,
+      and so he had me arrested. And I have to go back to court on October 9th. And
+      I think this is part of an attempt by members of Congress to give me a stay-away
+      order, which means a judge in the interim, between your case coming up and being
+      adjudicated, they can tell you you can’t go back into Congress. And given that
+      there are members of Congress like this very right-wing woman, Anna Paulina Luna,
+      who has asked the speaker to keep CODEPINK out of Congress, I think this is part
+      of that activity. I am hoping that the judge will see how ridiculous it is and
+      will drop the case, but you never know. Chris Hedges Let’s talk about Trump and
+      RICO and his statements in the Oval Office about CODEPINK. Medea Benjamin Yes,
+      there were a group of CODEPINK women, four women, who had gone into a restaurant
+      where Trump ended up having dinner. And they were able to be very close to him
+      and shouted out their opposition to U.S. troops, the National Guard troops in
+      Washington, D.C., as well as the occupation of Palestine. And they were told to
+      leave. They were escorted out and it was all very civil actually. And then after
+      that we hear him talking about these horrible people, he calls these leftist lunatics
+      and maybe they should be arrested for RICO. I mean I think that’s just him mouthing
+      off just like he said Soros should be arrested and everybody should be arrested
+      because really it was just a prime example of the use of our First Amendment rights.
+      Chris Hedges And why is that activity important, you know, confronting figures
+      in power, which is of course one of the primary activities of CODEPINK. Medea
+      Benjamin CODEPINK, since our founding, and it’s over 20 years now, we’ve confronted
+      every single president in power. We’ve confronted the vice presidents. We’ve confronted
+      the secretaries of state, just like we confront the members of Congress in Congress,
+      because we think they need to hear from us. And so often they isolate themselves.
+      They have press conferences, but oftentimes it’s very selective who gets to ask
+      a question and how they’re asked. We think that they need to be confronted when
+      they are doing horrible things like making wars and every single one of our presidents
+      has made war. Whether it’s [George] Bush during the terrible invasion of Iraq
+      or it was [Barack] Obama and when we confronted him about the use of drones for
+      killing anybody he wanted to anywhere he wanted to and the continuation of holding
+      people in Guantanamo [Bay]. It’s up to us and I feel that it’s a duty of citizens
+      to confront our officials when they are doing such horrible things — war, torture,
+      extrajudicial killings, we have to speak up. Chris Hedges Do you think that direct
+      confrontation has an effect on power? Medea Benjamin I think it does. I remember
+      when I confronted Barack Obama and it was actually kind of a conversation that
+      we were having and they were trying to arrest me and I remember saying to the
+      officer, shh, you better not arrest me, I’m having a conversation with the president,
+      which gave me more time and we had a back and forth. And when I was finally dragged
+      out he said the issues that that woman brings up — it’s funny he said young woman
+      because I’m 10 years old older than him — are issues that are worth listening
+      to. And those were the issues of how can we be holding people in Guantanamo that
+      never had a trial, that never were convicted of anything? How can we be killing
+      U.S. citizens like Abdulrahman al-Awlaki, a 16-year-old U.S. citizen killed by
+      a U.S. drone strike? And also about the U.S. involvement in war that we shouldn’t
+      be in. So I think, yes, that was an example where we did have a real conversation.
+      And we see how those kinds of interactions, those kinds of interruptions of power
+      also inspire other people. And it might not inspire them to do that kind of direct
+      confrontation of somebody like a president, but it does inspire them to directly
+      confront their member of Congress. And I don’t know if you saw during the August
+      recess, Chris, all the different people who confronted their members of Congress
+      at the town hall meetings. It was just beautiful to see. And so I think those
+      direct confrontations do have an impact. Chris Hedges But I can’t see Trump or
+      [White House Deputy Chief of Staff] Stephen Miller or JD Vance having a conversation
+      with you. Medea Benjamin Well, you never know. I think you have to try it. I mean,
+      we have had conversations with Marco Rubio when he was a senator. And yes, sometimes
+      it’s just yelling back and forth. But I think we need to try to have, whether
+      it’s a conversation or whether it’s a what we call strategic interruption, we
+      have to keep doing that. And that’s part of defending our right to free speech.
+      You know better than anyone, Chris, how it’s being assaulted in so many different
+      ways. But if we don’t keep using it and keep pushing it, we will definitely see
+      it taken away. Chris Hedges Where do you see us going, especially after the kind
+      of deification of Charlie Kirk as a martyr? I mean I listened to the rally in
+      Arizona. I mean, especially [Stephen] Miller was kind of full on fascism. Where
+      are we headed? What do you see coming? Medea Benjamin I see that we’re in for
+      very, very dangerous times. I think this administration is using everything that
+      it has, including the courts, to take away our basic rights. I think whether it’s
+      going after immigrants, the way that ICE is just acting like [Nazi secret police]
+      Gestapos on our streets and kidnapping our neighbors. I live in Washington, D.C.,
+      and it pains me when I walk out of my house around the block and I see armed National
+      Guard in my community. It is horrific. And then to see the way that our free speech
+      rights are being violated on a daily basis. The way the police have cracked down
+      so much on the poor university students who were the moral center of this movement
+      against genocide and have been so harassed and intimidated. We see it on all sides
+      and the way that our universities are so attacked, you know, this is basic core
+      issues that we will be dealing with for decades to come when they take away our
+      right to study certain issues or they impose the way that even in our elementary
+      and high schools we are allowed to talk about things like what is a genocide and
+      is it only a genocide when it relates to something that the Jewish community wants
+      us to talk about. This is stuff that’s going to take decades to unravel but I
+      think it’s cyclical, we’ve got to hold on to our seats and go through a very,
+      very hellish period ahead, but we’re going to come out on the other side. Chris
+      Hedges Let’s talk about the weaponization of anti-Semitism that, of course, was
+      used by the Trump administration to go after the universities, which capitulated
+      and from the beginning acknowledged, I think with no basis in fact, that these
+      campuses had a problem with anti-Semitism. I have taught at Columbia, went to
+      Harvard, I’ve taught at Princeton, the idea, not that anti-Semitism doesn’t exist,
+      but the idea that these institutions fomented anti-Semitism was nuts. Then, of
+      course, the demonization of undocumented workers or migrants to justify this explosion
+      of ICE and the building of detention centers. And now of course the idea that
+      there was an organized group responsible for the assassination of Charlie Kirk,
+      which is called the radical left. I mean all of these things are completely fictitious,
+      but they’ve been used very effectively to close the iron doors, to shut down what’s
+      left of our very anemic open society. Medea Benjamin Yes, and I see that it is
+      also happening so much on the local and state-wide levels. I see that the last
+      week there were about 250 members of locally elected officials who were in Israel
+      during a time of a genocide and they were being indoctrinated so that they would
+      go home and reinforce or impose new legislation against boycott, divestment and
+      sanctions, that they would impose new restrictions on what can be taught in the
+      schools. This has seeped into so many areas of our lives that it is very hard
+      to see how we can move forward as the noose keeps tightening. On the other hand,
+      when I am in Congress, you know, I’ve seen 14 hearings already on anti-Semitism.
+      And so many of them are just ridiculous, as you say, you know, somebody had a
+      poster in their room that offended somebody or things that are like, I’m sorry,
+      you could have just asked somebody to apologize for a comment that they made and
+      it would be over. But instead, they’re making it out like this is more important
+      than the genocide that is actually going on. And it, of course, is a distraction
+      from the genocide that’s going on. And one of my hopes is that the younger generation
+      is not falling into this trap, that the younger generation is a generation that
+      is opposed to U.S. policy in Israel, that they have during things like the encampments
+      — I mean, you saw, the beauty of these encampments when they were Muslims and
+      Jewish students praying together, and it was like a vision of the society we want
+      to see in the future. Well these students are not going to let go of that. That’s
+      going to be with them as they move forward. There’s a new generation of young
+      people. We see it when we go into Congress and you see these Congress people that
+      hold on to their vision of Israel that they’re going to keep giving our money
+      to and the staff people nodding in support of us when we go in or running after
+      us in the hallways to say thank you for coming in, we’re working hard to try to
+      change our bosses’ mind. There is a huge generational gap and that generational
+      gap is what will save us. Chris Hedges Well you see it with [New York City mayoral
+      candidate Zohran] Mamdani. Medea Benjamin Absolutely, I mean how beautiful is
+      that? I mean I’m in New York City right now and it just feels so good being here
+      knowing that he will be the next mayor. I’m pretty sure he will be the next mayor
+      and that will change things and it has already changed things. You see people
+      around the country who are now excited about running for office who know exactly
+      how they should portray themselves as they went for office because he’s such a
+      wonderful role model of that. So yes, that is so hopeful. Chris Hedges Although
+      not endorsed by [Chuck] Schumer or [Hakeem] Jeffries, and I just want to close
+      by having you reflect a little bit on the Democratic Party. I mean, in many ways,
+      the Democratic Party transformed itself into the War Party. But talk a little
+      bit about the Democratic Party and whether you believe it’s reformable from within.
+      Medea Benjamin It’s pathetic, it’s disgusting. It was disgusting under Biden,
+      it’s disgusting under Trump. When you think now would be the time for them to
+      be the party of opposition and really be out there, it’s irredeemable. You and
+      I have been supporters of third parties for a long time, both worked on Ralph
+      Nader’s campaign, been always trying to get a strong third party going because
+      I don’t see any way that the Democratic Party can lead us into the kind of future
+      we want. On the other hand, as we are trying to build and look for leaders of
+      a new third party, we have to move and support those Democrats who are trying
+      to change the party from within. I support groups like Progressive Democrats of
+      America. I support the progressive Democrats like Rashida Tlaib and Delia Ramirez
+      and Ilhan Omar and you know there are a number of good ones. So we work with what
+      we have but we build for something much better in the future. Chris Hedges Great,
+      thanks, Medea. And I want to thank Diego [Ramos] and Victor [Padilla], Thomas
+      [Hedges], Sofia [Menemenlis], and Max [Jones], who produced the show. You can
+      find me at ChrisHedges.Substack.com . US-IRAN-ISRAEL-CONFLICT-TRUMP US President
+      Donald Trump addresses the nation, alongside US Vice President JD Vance (L), US
+      Secretary of State Marco Rubio (2nd R) and US Secretary of Defense Pete Hegseth
+      (R), from the White House in Washington, DC on June 21, 2025, following the announcement
+      that the US bombed nuclear sites in Iran. (Photo by CARLOS BARRIA / POOL / AFP)
+      (Photo by CARLOS BARRIA/POOL/AFP via Getty Images) Attorney General Pam Bondi
+      Testifies In Senate Hearing WASHINGTON, DC – JUNE 25: U.S. Attorney General Pam
+      Bondi testifies before the Senate Appropriations Committee Subcommittee on Commerce,
+      Justice, Science, and Related Agencies in the Dirksen Senate Office Building on
+      June 25, 2025 in Washington, DC. (Photo by Chip Somodevilla/Getty Images) Political
+      Activist Charlie Kirk Shot Dead At Utah Valley University OREM, UTAH – SEPTEMBER
+      10: Charlie Kirk throws hats to the crowd after arriving at Utah Valley University
+      on September 10, 2025 in Orem, Utah. Kirk, founder of Turning Point USA, was speaking
+      at his “American Comeback Tour” when he was shot in the neck and killed. (Photo
+      by Trent Nelson/The Salt Lake Tribune/Getty Images) Former President Donald Trump’s
+      Hush Money Trial Continues In New York NEW YORK, NEW YORK – MAY 13: Attorney Todd
+      Blanche sits in court during the trial of former President Donald Trump for allegedly
+      covering up hush money payments at Manhattan Criminal Court on May 13, 2024 in
+      New York City. Former U.S. President Donald Trump faces 34 felony counts of falsifying
+      business records in the first of his criminal cases to go to trial. (Photo by
+      Sarah Yenesel-Pool/Getty Images) Opening Statements Begin In Former President
+      Donald Trump’s New York Hush Money Trial NEW YORK, NEW YORK – APRIL 22: Former
+      U.S. President Donald Trump speaks to the media, flanked by lawyer Todd Blanche
+      (R), after arriving for his trial for allegedly covering up hush money payments
+      at Manhattan Criminal Court on April 22, 2024 in New York City. (Photo by Victor
+      J. Blue – Pool/Getty Images) Senate Armed Services Committee Holds From Top Military
+      Leaders On ISIL Threat WASHINGTON, DC – SEPTEMBER 16: Code Pink for Peace organizer
+      Medea Benjamin (C) protests against U.S. military action in Iraq as Defense Secretary
+      Chuck Hagel (L) and Chairman of the Joint Chiefs of Staff Army Gen. Martin Dempsey
+      testify before the Senate Armed Services Committee in the Hart Senate Office Building
+      on Capitol Hill September 16, 2014 in Washington, DC. (Photo by Chip Somodevilla/Getty
+      Images) GOP House Members Meet For Caucus Meeting On Capitol Hill WASHINGTON,
+      DC – NOVEMBER 19: U.S. Rep. Darrell Issa (R-CA) arrives for a House Republican
+      caucus meeting at the U.S. Capitol on November 19, 2024 in Washington, DC. The
+      House Republicans are working to come to an agreement on a government funding
+      bill before the end of the year. (Photo by Kevin Dietsch/Getty Images) 71st Emmy
+      Awards – Show LOS ANGELES, CALIFORNIA – SEPTEMBER 22: (L-R) Stephen Colbert and
+      Jimmy Kimmel speak onstage during the 71st Emmy Awards at Microsoft Theater on
+      September 22, 2019 in Los Angeles, California. (Photo by Kevin Winter/Getty Images)
+      Congressional Gold Medals Awarded To 13 Service Members Killed In Afghanistan
+      WASHINGTON, DC – SEPTEMBER 10: Sen. John Cornyn (R-TX) (L) speaks with Sen. Tom
+      Cotton (R-AR) (R) during a Congressional Gold Medal Ceremony for the 13 American
+      service members who died in the suicide bombing at Hamid Karzai International
+      Airport in Afghanistan in the U.S. Capitol Rotunda on September 10, 2024 in Washington,
+      DC. (Photo by Anna Moneymaker/Getty Images) US-POLITICS-COURT-ASSAULT-VOTE Senate
+      Judiciary Committee Chairman Senator Chuck Grassley (R-IA) speaks to reporters
+      about Judge Brett Kavanaugh on Capitol Hill September 26, 2018 in Washington,
+      DC. – The US Senate Judiciary Committee has scheduled for Friday a preliminary
+      vote on the nomination of Supreme Court pick Brett Kavanaugh, who is under fire
+      over claims of sexual assault in his youth. (Photo by Brendan Smialowski / AFP)
+      (Photo credit should read BRENDAN SMIALOWSKI/AFP via Getty Images) May Day Demonstrations
+      BERLIN – MAY 01: A demonstrator throws a bottle at riot police during clashes
+      during a May Day march by left-wing protesters in Kreuzberg on May 1, 2009 in
+      Berlin, Germany. Over 5,000 police officers are in Berlin to maintain order during
+      the myriad of May 1, Workers Day, demonstrations that in years past have traditionally
+      led to street battles between drunken demonstrators and police. (Photo by Sean
+      Gallup/Getty Images) TOPSHOT-BRITAIN-POLITICS-PROTEST-ISRAEL-PALESTINIAN-CONFLICT
+      TOPSHOT – Police officers arrest an 89-year-old protester at a “Lift The Ban”
+      demonstration in support of the proscribed group Palestine Action, calling for
+      the recently imposed ban to be lifted, in Parliament Square, central London, on
+      August 9, 2025. Organisers expect at least 500 people to turn up to a new demonstration
+      in support of Palestine Action today, and police have warned all demonstrators
+      could face arrest. Palestine Action was proscribed under the 2000 Terrorism Act.
+      (Photo by Chris J Ratcliffe / AFP) (Photo by CHRIS J RATCLIFFE/AFP via Getty Images)
+      TOPSHOT-US-POLITICS-MIGRANTS-KHALIL-EDUCATION-MIGRATION TOPSHOT – Former Columbia
+      Univrsity student Mahmoud Khalil reacts as he arrives to Newark airport in Newark,
+      New Jersey, on June 21, 2025. (Photo by kena betancur / AFP) (Photo by KENA BETANCUR/AFP
+      via Getty Images) Confirmation Hearing Held For Secretary Of Defense Nominee Pete
+      Hegseth WASHINGTON, DC – JANUARY 14: Protesters with the group CodePink demonstrate
+      at the start of the Senate Armed Services confirmation hearing for President-elect
+      Donald Trump’s nominee for Secretary of Defense Pete Hegseth on Capitol Hill on
+      January 14, 2025 in Washington, DC. (Photo by Andrew Harnik/Getty Images) Rep.
+      Greene Expected To Trigger Motion To Vacate Speaker Johnson This Week WASHINGTON,
+      DC – MAY 7: Rep. Marjorie Taylor Greene (R-GA) and Rep. Thomas Massie (R-KY) speak
+      to members of the press on the steps of the House of Representatives after a meeting
+      with Speaker of the House Mike Johnson (R-LA) at the U.S. Capitol on May 7, 2024
+      in Washington, DC. Last week Greene threatened to move forward with a ‘motion
+      to vacate’ over her dissatisfaction with the Speaker’s handling of the government
+      funding legislation. (Photo by Kent Nishimura/Getty Images) Hot meal distributed
+      to Palestinians struggling with hunger in Gaza DEIR AL-BALAH, GAZA – SEPTEMBER
+      24: Palestinians, including children, try to receive hot meal, distributed by
+      charity organizations, as people struggle with hunger due to Israeli food blockade
+      at Nuseirat Refugee Camp in Deir al-Balah, Gaza on September 24, 2025. (Photo
+      by Hassan Jedi/Anadolu via Getty Images) House Democrats Retreat BALTIMORE – MARCH
+      2: Rep. Valerie Foushee, D-N.C., speaks during House Minority Whip Katherine Clarks
+      news conference with freshman women of the 118th Congress at the House Democrats
+      2023 Issues Conference in Baltimore, Md., on Thursday, March 2, 2023. (Bill Clark/CQ-Roll
+      Call, Inc via Getty Images) NC Democratic Senate Candidate Deborah Ross Holds
+      Election Night Event RALEIGH, NC – NOVEMBER 8: U.S. Democratic Senate nominee
+      Deborah Ross speaks to a crowd at the North Carolina Democrats Watch Party on
+      November 8, 2016 in Raleigh, North Carolina. Ross conceded the election to Republican
+      incumbent Richard Burr. (Photo by Sara D. Davis/Getty Images) GE Appliances Makes
+      Historic $3 Billion Investment To Expand American Manufacturing LOUISVILLE, KENTUCKY
+      – AUGUST 13: Congressman Morgan McGarvey celebrates $3 billion investment announcement
+      by GE Appliances on August 13, 2025. (Photo by Michael Hickey/Getty Images for
+      GE Appliances, a Haier company) Missourians Head To The Polls For State’s Primary
+      Election ST LOUIS, MISSOURI – AUGUST 6: U.S. Rep. Cori Bush (D-MO) delivers her
+      concession speech during a primary election watch party at Chevre Events on August
+      6, 2024 in St Louis, Missouri. Bush lost Tuesday’s Democratic primary to St. Louis
+      County Prosecutor Wesley Bell. (Photo by Michael B. Thomas/Getty Images) Biden
+      Impeachment Resolution UNITED STATES – JUNE 22: Rep. Jamaal Bowman, D-N.Y., arrives
+      to the U.S. Capitol before the House voted to send an articles of impeachment
+      resolution against President Joe Biden to committees on Thursday, June 22, 2023.
+      (Tom Williams/CQ-Roll Call, Inc via Getty Images) Capitol Hill WASHINGTON, DC
+      – JULY 19: Rep. Andy Levin (D-MI) raises his fist in the air, as he was released
+      from being detained after participating in a sit-in outside the Supreme Court
+      of the United States during a sit-in protesting the high court overturning Roe
+      v. Wade with activists from Center for Popular Democracy Action (CPDA) on Capitol
+      Hill on Tuesday, July 19, 2022 in Washington, DC. (Kent Nishimura / Los Angeles
+      Times via Getty Images) Republican House Members Attend Party Conference Meeting
+      WASHINGTON, DC – MARCH 25: Rep. Marjorie Taylor Greene (R-Ga.) speaks to reporters
+      while arriving at the Capitol Hill Club for a meeting of the House Republican
+      Conference on March 25, 2025 in Washington, DC. Republicans are meeting as the
+      Trump administration faces blowback after defense plans were posted to a group
+      chat that accidentally included a prominent journalist. (Photo by Al Drago/Getty
+      Images) House GOP 9/3/25 UNITED STATES – SEPTEMBER 3: Rep. Anna Paulina Luna,
+      R-Fla., talks with reporters before a meeting of the House Republican Conference
+      in the U.S. Capitol on Wednesday, September 3, 2025. (Tom Williams/CQ-Roll Call,
+      Inc via Getty Images) WASHINGTON, DC – SEPTEMBER 20: Members of the Ohio National
+      Gua WASHINGTON, DC – SEPTEMBER 20: Members of the Ohio National Guard stand outside
+      the Jefferson Memorial on September 20, 2025 in Washington, DC. (Photo by Craig
+      Hudson For The Washington Post via Getty Images) Bush Addresses Nation On 9/11
+      Anniversary WASHINGTON – SEPTEMBER 11: (AFP OUT) U.S. President George W. Bush
+      sits at his desk in the Oval Office of the White House after addressing the nation
+      on the anniversary of the 2001 terrorist attacks September 11, 2006 in Washington,
+      DC. It’s been five years since terrorists seized four airliners in flight, crashing
+      two in the World Trade Center in New York, one into the Pentagon in Arlington,
+      Virginia and one into a field in Shanksville, Pennsylvania. (Photo by Roger L.
+      Wollenberg-Pool/Getty Images) Barack Obama Speaks At His Foundation’s Democracy
+      Forum In New York City NEW YORK, NEW YORK – NOVEMBER 17: Former U.S. President
+      Barack Obama speaks at a Democracy Forum event held by the Obama Foundation at
+      the Javits Center on November 17, 2022 in New York City. The all day event featured
+      speakers from a variety of backgrounds conversing on the state of global democracy
+      and opportunities for the next generation of global leaders. (Photo by Spencer
+      Platt/Getty Images) Former President Trump Addresses The Turning Points Action
+      Conference In West Palm Beach, California WEST PALM BEACH, FLORIDA – JULY 15:
+      Founder and executive director of Turning Point USA Charlie Kirk speaks at the
+      opening of the Turning Point Action conference on July 15, 2023 in West Palm Beach,
+      Florida. Former President Donald Trump is scheduled to speak at the event held
+      in the Palm Beach County Convention Center. (Photo by Joe Raedle/Getty Images)
+      US-POLITICS-SHOOTING-KIRK White House deputy chief of staff for policy and US
+      homeland security advisor Stephen Miller approaches the podium to speak during
+      the public memorial service for right-wing activist Charlie Kirk at State Farm
+      Stadium in Glendale, Arizona, on September 21, 2025. (Photo by CHARLY TRIBALLEAU
+      / AFP) (Photo by CHARLY TRIBALLEAU/AFP via Getty Images) Police Arrest UCLA Protesters
+      And Clear Encampment LOS ANGELES, CA – MAY 02: The police officers detain pro-Palestinian
+      protestors as they clear a pro-Palestinian encampment after a dispersal order
+      was given at an encampment at the University of California Los Angeles (UCLA)
+      on May 2, 2024 in Los Angeles, California. Police had cleared UCLA’s student encampment
+      in a late-night operation, and arrested more than 100 pro-Palestine demonstrators
+      early on Thursday morning, according to multiple sources. (Photo by Qian Weizhong/VCG
+      via Getty Images) Student Protests Continue At George Washington University WASHINGTON,
+      DC – APRIL 29: A man holds up a Palestinian flag as Activists and students chant,
+      surrounding piled barricades at an encampment at University Yard at George Washington
+      University on April 29, 2024 in Washington, DC. (Photo by Kent Nishimura/Getty
+      Images) New York Mayoral Candidate Zohran Mamdani Celebrates Democratic Primary
+      Win NEW YORK, NEW YORK – JULY 02: New York Mayoral Candidate Zohran Mamdani speaks
+      during a press conference at the Hotel & Gaming Trades Council building on July
+      02, 2025 in New York City. Mamdani celebrated his mayoral primary victory with
+      leaders and members of the city’s labor unions, including the Hotel and Gaming
+      Trades Council, 32BJ SEIU, New York State Nurses Association, and NY City Central
+      Labor Council, and received the endorsements of these unions. (Photo by Michael
+      M. Santiago/Getty Images) Congressional Democrat Appropriation Leaders Hold Press
+      Conference WASHINGTON, DC – JULY 22: Senate Minority Leader Chuck Schumer (D-NY)
+      and House Minority Leader Hakeem Jeffries (D-NY) speak to reporters alongside
+      other House and Senate Appropriation Democratic committee members in the Ohio
+      Clock Corridor of the U.S. Capitol Building on July 22, 2025 in Washington, DC.
+      The lawmakers held the media availability to discuss their views of government
+      funding and upcoming spending bills. (Photo by Anna Moneymaker/Getty Images) US-POLITICS-IMMIGRATION-DACA
+      US Representative Delia Ramirez, Democrat from Illinois speaks during a news conference
+      with immigration experts, DACA recipients, and Dreamers to mark the 13th anniversary
+      of the Deferred Action for Childhood Arrivals (DACA) program in Washington, DC
+      on June 11, 2025. (Photo by ANDREW CABALLERO-REYNOLDS / AFP) (Photo by ANDREW
+      CABALLERO-REYNOLDS/AFP via Getty Images) Democratic House Reps. Rashida Tlaib,
+      Cori Bush, And Summer Lee Call For Cease Fire In Gaza WASHINGTON, DC – NOVEMBER
+      13: U.S. Rep. Ilhan Omar (D-MN) speaks during a news conference calling for a
+      ceasefire in Gaza outside the U.S. Capitol building on November 13, 2023 in Washington,
+      DC. House Democrats held the news conference alongside rabbis with the activist
+      group Jewish Voices for Peace. (Photo by Anna Moneymaker/Getty Images) TOPSHOT-BRITAIN-POLITICS-PROTEST-ISRAEL-PALESTINIAN-CONFLICT
+      TOPSHOT – An elderly protester is taken away by police officers at a “Lift The
+      Ban” demonstration in support of the proscribed group Palestine Action, calling
+      for the recently imposed ban to be lifted, in Parliament Square, central London,
+      on September 6, 2025. (Photo by JUSTIN TALLIS / AFP) (Photo by JUSTIN TALLIS/AFP
+      via Getty Images) Editor’s Note : A t a moment when the once vaunted model of
+      responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Chris Hedges Chris Hedges is a Pulitzer Prize–winning
+      journalist who was a foreign correspondent for fifteen years for The New York
+      Times, where he served as the Middle East Bureau Chief and Balkan Bureau Chief
+      for the paper. He previously worked overseas for The Dallas Morning News , The
+      Christian Science Monitor , and NPR. He is the host of show The Chris Hedges Report.
+      He was a member of the team that won the 2002 Pulitzer Prize for Explanatory Reporting
+      for The New York Times coverage of global terrorism, and he received the 2002
+      Amnesty International Global Award for Human Rights Journalism. Hedges, who holds
+      a Master of Divinity from Harvard Divinity School, is the author of the bestsellers
+      American Fascists: The Christian Right and the War on America , Empire of Illusion:
+      The End of Literacy and the Triumph of Spectacle and was a National Book Critics
+      Circle finalist for his book War Is a Force That Gives Us Meaning . He writes
+      an online column for the website ScheerPost . He has taught at Columbia University,
+      New York University, Princeton University and the University of Toronto. Author
+      Site'
+    one_sentence_summary: In a recent episode of The Chris Hedges Report, Medea Benjamin
+      of CODEPINK discusses the diminishing opportunities for activism and dialogue
+      with U.S. politicians regarding their ties to the military-industrial complex,
+      highlighting the challenges faced by those confronting power in today's political
+      climate.
+    paragraph_summary: In a recent episode of The Chris Hedges Report, host Chris Hedges
+      interviews Medea Benjamin, co-founder of CODEPINK, an organization known for its
+      bold activism against U.S. political power and military interests. Benjamin discusses
+      the current precarious state of free speech in America, particularly in light
+      of recent violent events and the political class's unwavering support for Israel
+      amidst the ongoing conflict in Gaza. She shares her recent experience of being
+      arrested after confronting Congressman Darrell Issa about an Israeli airstrike,
+      highlighting the increasing suppression of activist voices. The conversation also
+      touches on CODEPINK's confrontations with former President Trump, who has suggested
+      legal repercussions for protestors, underscoring the challenges faced by those
+      advocating for change in a climate of hostility towards dissent.
+    published: '2025-09-24T23:44:22+00:00'
+  - title: This Ridiculous, Dangerous Antifa Order Is McCarthyism All Over Again—Possibly
+      Worse
+    url: https://scheerpost.com/2025/09/24/this-ridiculous-dangerous-antifa-order-is-mccarthyism-all-over-again-possibly-worse/
+    text: 'Bart Everson from New Orleans, Louisiana, USA, CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By C.J. Polychroniou / Common Dreams Free speech stole the show last
+      week during the joint press conference between US President Donald Trump and UK
+      Prime Minister Keir Starmer after a British reporter asked point-blank the Yankee
+      wannabe dictator whether free speech is more under attack in Britain or in America,
+      following Jimmy Kimmel’s suspension over Charlie Kirk comments. At this historical
+      juncture, both Britain and America are at a new low when it comes to freedom of
+      expression. In fact, free speech is under serious attack in most Western societies.
+      Britain has no equivalent to the First Amendment, but the current draconian speech
+      laws are so outrageous that even traditional liberties are vanishing. British
+      police are arresting people for offensive online speech at record numbers while
+      the right to protest has been severely curtailed. In Germany, the situation is
+      just as bad, if not worse. Long before recent efforts to stifle pro-Palestinian
+      voices, the country’s laws on freedom of expression stood on tenuous grounds.
+      As the late German jurist Weinfried Brugger noted nearly a quarter of a century
+      ago in a study comparing German and American law on hate speech, if a protester
+      was to shout on the steps of the US Capitol “our President is a pig” and even
+      held painted pictures of the president as a pig “engaged in sexual conduct with
+      another pig in a judge’s robe;” or that “all our soldiers are murders;” or that
+      “the Holocaust never happened,” none of these allegations would lead to criminal
+      prosecution as the First Amendment would protect them. However, criminal law would
+      apply to all of the above messages if the protester made the speech on the steps
+      of the German Bundestag. As further elucidated by Brugger, freedom of speech in
+      Germany is not a “preferred right” and does not deserve “absolute protection.”
+      In this sense, conservatives in the US, like Vice President JD Vance, are not
+      totally wrong when they criticize Europe over free speech, even though they are
+      complete hypocrites. Indeed, the problem with Vance and the rest of the MAGA Republicans
+      who are seemingly disturbed by the backsliding of free expression in Europe is
+      that they are not interested in free speech as such; they are interested in controlling
+      it. They only want to protect speech that is aligned with their own ideological
+      beliefs and values. Thus, in his speech to the Munich Security Conference in February,
+      where he scolded Europeans for their failings on free speech, Vance not only spread
+      a lie when he claimed that the Scottish government had sent letters to citizens
+      instructing them that “even private prayer within their own homes may amount to
+      breaking the law” but kept silent about UK government anti-protest legislation
+      , which, as British academic Eric Heinze astutely noted, targets exactly the kind
+      or protests that Trump fears. Trump returned to the White House with a promise
+      to protect free speech from government censorship. Indeed, just a few hours after
+      his second inauguration, Trump signed Executive Order 14149, titled “ Restoring
+      Freedom of Speech and Ending Federal Censorship .” But Trump is a master of doublespeak.
+      His administration has, in turn, carried out a wide-ranging crackdown on universities,
+      student protesters, journalists, lawyers, and the press. The wannabe dictator
+      has accused the press on multiple occasions of being “the enemy of the American
+      people” and has filed personal lawsuits against several news organizations . Under
+      his administration, we are also witnessing the intrusion of the military into
+      civilian life. This type of government action is tantamount to dictatorship, as
+      it constitutes an all-out assault on democracy and the rule of law. The Trump
+      administration is abusing federal power to silence dissenting voices in a manner
+      that has not been seen since the McCarthy era. Democrats and Republicans alike
+      played the Red Card back in the 1940s and throughout the 1950s in order to silence
+      critics and quash dissent. Trump is doing the same thing by trying to create a
+      climate of fear and suspicion across the country with the boogeyman of the so-called
+      “far left,” especially in the aftermath of Charlie Kirk’s killing. To be sure,
+      there should be no illusions about the evolution of free speech in the United
+      States. The current situation is by no means unique, and the First Amendment has
+      never been as sacred as people seem to think. Despite its exalted status, the
+      First Amendment has been “ a dead letter for much of American history ” and did
+      not come to life until the early 20th century. And when it did, freedom of expression
+      suffered some major blows, thanks to World War I, which created a wave of jingoism,
+      and the Bolshevik Revolution in Russia, which gave rise in turn to an anti-communist
+      alarm known as the Red Scare. In Debs v United States , the Supreme Court upheld
+      Deb’s conviction under the Espionage Act of 1917 . Eugene Debs , a leading member
+      of the Socialist Party of America, was convicted for his outspoken opposition
+      to US involvement in World War I and sentenced to ten years in federal prison.
+      Throughout the 1940s and the 1950s, the First Amendment was censored in the shadows
+      as the suppression of political and social views became a widespread occurrence,
+      spearheaded by a second Red Scare and the rise of McCarthyism. The Smith Act,
+      which was passed by Congress and signed by President Roosevelt on June 28, 1940,
+      was used to monitor immigrants and prosecute members of the Communist Party. In
+      1951, in a 6-2 decision, the Supreme Court delivered a massive blow to the First
+      Amendment by upholding the constitutionality of the Smith Act in Dennis v United
+      States . In 1947, the Truman administration initiated a loyalty program aimed
+      at rooting out “ subversives ” and getting rid of homosexuals . Such programs
+      were also established for employment in the private sector as well. It was only
+      in the 1960s, thanks to growing opposition to the Vietnam War and government attempts
+      to curb protests, that the First Amendment entered mass public consciousness in
+      the United States. When a group of students in Des Moines, Iowa, was suspended
+      for wearing black armbands to school in protest of the Vietnam War and in support
+      of a Christmas truce, the students’ parents challenged the suspensions as a violation
+      of free speech. In a landmark victory for student rights and the First Amendment,
+      in a 7-2 decision, the Supreme Court ruled in Tinker v Des Moines (1969) that
+      schools are not “enclaves of totalitarianism” and that “neither students nor teachers
+      shed their constitutional rights to freedom of speech at the schoolhouse gate.”
+      The Pentagon Papers case defended further the right of free speech, although subsequent
+      US administrations, from Ronald Reagan and Barack Obama to Donald Trump, indicted
+      scores of people “for leaking secrets to the press,” as Lincoln Caplan has underscored
+      in an essay for the Harvard Law Bulletin. We are not exactly sure who made the
+      remark that “while history doesn’t repeat itself, it often rhymes,” but it surely
+      applies to the free speech case in the United States. We are now in the midst
+      of a new McCarthy era, and possibly worse. In forcing a comedian and television
+      host like Jimmy Kimmel off the airwaves (Disney reinstated his show after five
+      days of suspension), Trump and his goon FCC Chairman Brendan Carr are following
+      in the footsteps of Nazi minister of propaganda Joseph Goebbels who, in 1939,
+      as the New York Times reported, banned five German entertainers because they “made
+      witticisms about the Nazi regime.” Thus, for the duration of Trump 2.0, we must
+      be prepared for a barrage of further anti-democratic actions taking aim at any
+      individual, group, or organization whose ideas, beliefs, and actions threaten
+      the ego of the “beloved leader” or simply irritate his idiotic whims. The so-called
+      “radical left” will surely be the main target. In the wake of Charlie Kirk’s killing,
+      Trump described the left-wing activist group Antifa a “sick, dangerous, radical
+      left disaster” and signed an executive order designating it a “domestic terrorist
+      organization.” Antifa (shorthand for “antifascist”) exists around the world but
+      is not a unified organization and has no leader. As such, it is not clear how
+      the US government plans to prosecute Antifa activists. Either way, this is yet
+      another orchestrated attack on political dissent and freedom of speech by the
+      emerging dictatorial regime in Washington, D.C., under the reign of Donald J.
+      Trump. The democratic left has stood up for free speech rights throughout its
+      history. It should remain steadfast in its commitment to freedom of expression
+      and fully and unconditionally reject “cancel culture.” Censorship of speech is
+      the first step toward political repression, which is precisely why Trump and his
+      goons are now threatening to punish anyone who speaks ill of their newfound martyr,
+      Charlie Kirk. Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . C.J. Polychroniou C.J. Polychroniou is a political
+      economist/political scientist who has taught and worked in numerous universities
+      and research centers in Europe and the United States. His latest books are The
+      Precipice: Neoliberalism, the Pandemic and the Urgent Need for Social Change (A
+      collection of interviews with Noam Chomsky; Haymarket Books, 2021), and Economics
+      and the Left: Interviews with Progressive Economists (Verso, 2021). Author Site
+      Please share this story and help us grow our network!'
+    one_sentence_summary: The article discusses a joint press conference between US
+      President Donald Trump and UK Prime Minister Keir Starmer, highlighting concerns
+      over the state of free speech in both Britain and America, particularly in light
+      of recent events that suggest increasing restrictions on expression in Western
+      societies.
+    paragraph_summary: In a recent joint press conference, US President Donald Trump
+      and UK Prime Minister Keir Starmer addressed the pressing issue of free speech,
+      particularly in light of rising concerns over its suppression in both the US and
+      UK. A British reporter's question highlighted the deteriorating state of freedom
+      of expression, especially following incidents like Jimmy Kimmel's suspension over
+      comments related to Charlie Kirk. The article emphasizes that while the US has
+      the First Amendment protecting free speech, the UK lacks similar protections,
+      leading to alarming arrests for online speech and restrictions on protests. The
+      situation in Germany is equally concerning, with laws that severely limit freedom
+      of expression, particularly against dissenting views. Overall, the article underscores
+      a troubling trend of diminishing liberties across Western societies.
+    published: '2025-09-24T12:02:18+00:00'
+  - title: This Ridiculous, Dangerous Antifa Order Is McCarthyism All Over Again—Possibly
+      Worse
+    url: https://scheerpost.com/2025/09/24/this-ridiculous-dangerous-antifa-order-is-mccarthyism-all-over-again-possibly-worse/
+    text: 'Bart Everson from New Orleans, Louisiana, USA, CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By C.J. Polychroniou / Common Dreams Free speech stole the show last
+      week during the joint press conference between US President Donald Trump and UK
+      Prime Minister Keir Starmer after a British reporter asked point-blank the Yankee
+      wannabe dictator whether free speech is more under attack in Britain or in America,
+      following Jimmy Kimmel’s suspension over Charlie Kirk comments. At this historical
+      juncture, both Britain and America are at a new low when it comes to freedom of
+      expression. In fact, free speech is under serious attack in most Western societies.
+      Britain has no equivalent to the First Amendment, but the current draconian speech
+      laws are so outrageous that even traditional liberties are vanishing. British
+      police are arresting people for offensive online speech at record numbers while
+      the right to protest has been severely curtailed. In Germany, the situation is
+      just as bad, if not worse. Long before recent efforts to stifle pro-Palestinian
+      voices, the country’s laws on freedom of expression stood on tenuous grounds.
+      As the late German jurist Weinfried Brugger noted nearly a quarter of a century
+      ago in a study comparing German and American law on hate speech, if a protester
+      was to shout on the steps of the US Capitol “our President is a pig” and even
+      held painted pictures of the president as a pig “engaged in sexual conduct with
+      another pig in a judge’s robe;” or that “all our soldiers are murders;” or that
+      “the Holocaust never happened,” none of these allegations would lead to criminal
+      prosecution as the First Amendment would protect them. However, criminal law would
+      apply to all of the above messages if the protester made the speech on the steps
+      of the German Bundestag. As further elucidated by Brugger, freedom of speech in
+      Germany is not a “preferred right” and does not deserve “absolute protection.”
+      In this sense, conservatives in the US, like Vice President JD Vance, are not
+      totally wrong when they criticize Europe over free speech, even though they are
+      complete hypocrites. Indeed, the problem with Vance and the rest of the MAGA Republicans
+      who are seemingly disturbed by the backsliding of free expression in Europe is
+      that they are not interested in free speech as such; they are interested in controlling
+      it. They only want to protect speech that is aligned with their own ideological
+      beliefs and values. Thus, in his speech to the Munich Security Conference in February,
+      where he scolded Europeans for their failings on free speech, Vance not only spread
+      a lie when he claimed that the Scottish government had sent letters to citizens
+      instructing them that “even private prayer within their own homes may amount to
+      breaking the law” but kept silent about UK government anti-protest legislation
+      , which, as British academic Eric Heinze astutely noted, targets exactly the kind
+      or protests that Trump fears. Trump returned to the White House with a promise
+      to protect free speech from government censorship. Indeed, just a few hours after
+      his second inauguration, Trump signed Executive Order 14149, titled “ Restoring
+      Freedom of Speech and Ending Federal Censorship .” But Trump is a master of doublespeak.
+      His administration has, in turn, carried out a wide-ranging crackdown on universities,
+      student protesters, journalists, lawyers, and the press. The wannabe dictator
+      has accused the press on multiple occasions of being “the enemy of the American
+      people” and has filed personal lawsuits against several news organizations . Under
+      his administration, we are also witnessing the intrusion of the military into
+      civilian life. This type of government action is tantamount to dictatorship, as
+      it constitutes an all-out assault on democracy and the rule of law. The Trump
+      administration is abusing federal power to silence dissenting voices in a manner
+      that has not been seen since the McCarthy era. Democrats and Republicans alike
+      played the Red Card back in the 1940s and throughout the 1950s in order to silence
+      critics and quash dissent. Trump is doing the same thing by trying to create a
+      climate of fear and suspicion across the country with the boogeyman of the so-called
+      “far left,” especially in the aftermath of Charlie Kirk’s killing. To be sure,
+      there should be no illusions about the evolution of free speech in the United
+      States. The current situation is by no means unique, and the First Amendment has
+      never been as sacred as people seem to think. Despite its exalted status, the
+      First Amendment has been “ a dead letter for much of American history ” and did
+      not come to life until the early 20th century. And when it did, freedom of expression
+      suffered some major blows, thanks to World War I, which created a wave of jingoism,
+      and the Bolshevik Revolution in Russia, which gave rise in turn to an anti-communist
+      alarm known as the Red Scare. In Debs v United States , the Supreme Court upheld
+      Deb’s conviction under the Espionage Act of 1917 . Eugene Debs , a leading member
+      of the Socialist Party of America, was convicted for his outspoken opposition
+      to US involvement in World War I and sentenced to ten years in federal prison.
+      Throughout the 1940s and the 1950s, the First Amendment was censored in the shadows
+      as the suppression of political and social views became a widespread occurrence,
+      spearheaded by a second Red Scare and the rise of McCarthyism. The Smith Act,
+      which was passed by Congress and signed by President Roosevelt on June 28, 1940,
+      was used to monitor immigrants and prosecute members of the Communist Party. In
+      1951, in a 6-2 decision, the Supreme Court delivered a massive blow to the First
+      Amendment by upholding the constitutionality of the Smith Act in Dennis v United
+      States . In 1947, the Truman administration initiated a loyalty program aimed
+      at rooting out “ subversives ” and getting rid of homosexuals . Such programs
+      were also established for employment in the private sector as well. It was only
+      in the 1960s, thanks to growing opposition to the Vietnam War and government attempts
+      to curb protests, that the First Amendment entered mass public consciousness in
+      the United States. When a group of students in Des Moines, Iowa, was suspended
+      for wearing black armbands to school in protest of the Vietnam War and in support
+      of a Christmas truce, the students’ parents challenged the suspensions as a violation
+      of free speech. In a landmark victory for student rights and the First Amendment,
+      in a 7-2 decision, the Supreme Court ruled in Tinker v Des Moines (1969) that
+      schools are not “enclaves of totalitarianism” and that “neither students nor teachers
+      shed their constitutional rights to freedom of speech at the schoolhouse gate.”
+      The Pentagon Papers case defended further the right of free speech, although subsequent
+      US administrations, from Ronald Reagan and Barack Obama to Donald Trump, indicted
+      scores of people “for leaking secrets to the press,” as Lincoln Caplan has underscored
+      in an essay for the Harvard Law Bulletin. We are not exactly sure who made the
+      remark that “while history doesn’t repeat itself, it often rhymes,” but it surely
+      applies to the free speech case in the United States. We are now in the midst
+      of a new McCarthy era, and possibly worse. In forcing a comedian and television
+      host like Jimmy Kimmel off the airwaves (Disney reinstated his show after five
+      days of suspension), Trump and his goon FCC Chairman Brendan Carr are following
+      in the footsteps of Nazi minister of propaganda Joseph Goebbels who, in 1939,
+      as the New York Times reported, banned five German entertainers because they “made
+      witticisms about the Nazi regime.” Thus, for the duration of Trump 2.0, we must
+      be prepared for a barrage of further anti-democratic actions taking aim at any
+      individual, group, or organization whose ideas, beliefs, and actions threaten
+      the ego of the “beloved leader” or simply irritate his idiotic whims. The so-called
+      “radical left” will surely be the main target. In the wake of Charlie Kirk’s killing,
+      Trump described the left-wing activist group Antifa a “sick, dangerous, radical
+      left disaster” and signed an executive order designating it a “domestic terrorist
+      organization.” Antifa (shorthand for “antifascist”) exists around the world but
+      is not a unified organization and has no leader. As such, it is not clear how
+      the US government plans to prosecute Antifa activists. Either way, this is yet
+      another orchestrated attack on political dissent and freedom of speech by the
+      emerging dictatorial regime in Washington, D.C., under the reign of Donald J.
+      Trump. The democratic left has stood up for free speech rights throughout its
+      history. It should remain steadfast in its commitment to freedom of expression
+      and fully and unconditionally reject “cancel culture.” Censorship of speech is
+      the first step toward political repression, which is precisely why Trump and his
+      goons are now threatening to punish anyone who speaks ill of their newfound martyr,
+      Charlie Kirk. Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . C.J. Polychroniou C.J. Polychroniou is a political
+      economist/political scientist who has taught and worked in numerous universities
+      and research centers in Europe and the United States. His latest books are The
+      Precipice: Neoliberalism, the Pandemic and the Urgent Need for Social Change (A
+      collection of interviews with Noam Chomsky; Haymarket Books, 2021), and Economics
+      and the Left: Interviews with Progressive Economists (Verso, 2021). Author Site
+      Please share this story and help us grow our network!'
+    one_sentence_summary: The article discusses a joint press conference between US
+      President Donald Trump and UK Prime Minister Keir Starmer, highlighting concerns
+      over the state of free speech in both Britain and America, particularly in light
+      of recent events that suggest increasing restrictions on expression in Western
+      societies.
+    paragraph_summary: In a recent joint press conference, US President Donald Trump
+      and UK Prime Minister Keir Starmer addressed the pressing issue of free speech,
+      particularly in light of rising concerns over its suppression in both the US and
+      UK. A British reporter's question highlighted the deteriorating state of freedom
+      of expression, especially following incidents like Jimmy Kimmel's suspension over
+      comments related to Charlie Kirk. The article emphasizes that while the US has
+      the First Amendment protecting free speech, the UK lacks similar protections,
+      leading to alarming arrests for online speech and restrictions on protests. The
+      situation in Germany is equally concerning, with laws that severely limit freedom
+      of expression, particularly against dissenting views. Overall, the article underscores
+      a troubling trend of diminishing liberties across Western societies.
+    published: '2025-09-24T12:02:18+00:00'
+  - title: 'No Secret Police Act: CA Gov. Signs Law Against Masked ICE Agents; Feds
+      Say They Won’t Comply'
+    url: https://scheerpost.com/2025/09/24/no-secret-police-act-ca-gov-signs-law-against-masked-ice-agents-feds-say-they-wont-comply/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By DemocracyNow!
+      California Governor Gavin Newsom signed the No Secret Police Act into law this
+      week, banning all law enforcement — including federal immigration agents — from
+      covering their faces while conducting raids in the state. “What this law is trying
+      to do is to take us back from the era of routine masking based on completely foundationless
+      officer claims of fear,” says Eva Bitran, the director of immigrants’ rights at
+      the ACLU of Southern California. Trump administration officials have already vowed
+      to ignore the California law, “and this is why we need to have a federal solution
+      that will apply nationwide,” says New York Congressmember Nydia Velázquez, who
+      has introduced the No Masks for ICE Act in Congress. “This administration is out
+      of control, and it’s affecting everyone.” Transcript This is a rush transcript.
+      Copy may not be in its final form. AMY GOODMAN: This is Democracy Now! , democracynow.org,
+      The War and Peace Report . I’m Amy Goodman, with Juan González. We turn now to
+      California, where Governor Gavin Newsom has signed into law the No Secret Police
+      Act, banning all law enforcement, including ICE agents, from covering their faces
+      while conducting raids. The ban is a response to recent immigration raids in Los
+      Angeles and other areas where ICE officials made mass arrests while heavily masked.
+      This is Governor Newsom speaking before signing the legislation. GOV. GAVIN NEWSOM:
+      The impact of these policies, all across this city, our state and nation, are
+      terrifying. It’s like a dystopian sci-fi movie — unmarked cars, people in masks,
+      people quite literally disappearing, no due process, no rights, no rights in a
+      democracy where we have rights. Immigrants have rights. And we have the right
+      to stand up and push back. AMY GOODMAN: The new California law was quickly denounced
+      by Trump administration officials, including Tricia McLaughlin, assistant secretary
+      for public affairs at Homeland Security. She said, quote, “A sanctuary politician
+      is trying to outlaw officers wearing masks to protect themselves from being doxxed
+      and targeted by known and suspected terrorist sympathizers,” unquote. The acting
+      U.S. attorney for the Central District of California, Bill Essayli, didn’t just
+      denounce the law, but said ICE agents should not follow it. This is U.S. Attorney
+      Essayli during an interview with KCAL News. BILL ESSAYLI: We’re not going to follow
+      it. The law has no force or effect on federal agencies. The state of California
+      has no jurisdiction to regulate anything that we do in the federal government.
+      And I’ve instructed our agents to disregard it. So we will continue doing our
+      operations as we have been doing them. The reason the officers wear face masks…
+      AMY GOODMAN: We’re now joined by two guests. Eva Bitran is the director of immigrants’
+      rights at the ACLU of Southern California, joining us from Riverside, California.
+      And in Harlem, we’re joined by New York Congressmember Nydia Velázquez, who introduced
+      the No Masks for ICE Act in Congress, which would bar agents nationally from wearing
+      facial coverings during enforcement actions and require them to wear clothing
+      displaying their name and affiliation with iCE. We welcome you both to Democracy
+      Now! Eva Bitran, let’s begin with you in California. The significance of the No
+      Secret Agents Act being signed into law, and yet Trump officials saying, “Do not
+      follow the law,” to ICE agents? Talk about where this law came from. EVA BITRAN:
+      This law came from the enormous siege of our immigrant people here in Southern
+      California that we have seen the federal government, beginning in June, carry
+      out all the way until now. What we saw were bands of masked, powerfully armed
+      and really swiftly moving federal agents kidnapping our community members. And
+      that’s what prompted California to react, to say this is not how we handle our
+      immigrant people. For us, it is important that due process prevail, that transparency
+      prevail, and that we free our people from the kind of siege of kidnappers that’s
+      come out to Southern California. JUAN GONZÁLEZ: But, Eva, some people have criticized
+      this law because it has loopholes, that it allows mask exceptions for SWAT teams
+      and undercover operations. How do you respond to those concerns? EVA BITRAN: My
+      understanding is that what this law is trying to do is to take us back from the
+      era of routine sort of masking based on completely foundationless officer claims
+      of fear, and back to sort of the technical necessities that officers would claim
+      in previous years or previous administrations. And the loopholes are designed
+      to sort of protect for that. JUAN GONZÁLEZ: Yeah, I’d like to bring in U.S. Congressmember
+      Nydia Velázquez. Welcome back to Democracy Now! I wanted to ask you about the
+      legislation that you’ve introduced. What are the specifics of the legislation,
+      and also your hopes, your expectations of whether it can pass or not? REP. NYDIA VELÁZQUEZ:
+      Good morning, and thank you for having me, Amy and Juan. So, as you can — as you
+      see, the Trump administration is already saying that they are not going to comply
+      with the law passed by California. And this is why we need to have a federal solution,
+      that it will apply nationwide, and it will ban the use of masks, and it will require
+      for any ICE agent to wear a uniform that clearly has their names and badge numbers,
+      so that there is transparency and accountability. AMY GOODMAN: Eva Bitran, I just
+      wanted to ask you: What does this mean? As Congressmember Velázquez tries to introduce
+      a federal solution, which would require these federal agents, on the ground, what
+      is this now going to look like? First of all, it doesn’t go into force, the No
+      Secret Police Act, for — until next year. Is that right? And how do you get ICE agents
+      to comply, if the No Masks bill is not passed in Congress? EVA BITRAN: So, that’s
+      right that the bill does not go into effect until next year, but what we are really
+      seeing is our communities coming out to demand an end altogether, masked or unmasked,
+      to the lawless and unconstitutional raids that we have seen ICE carrying out here.
+      We’ve seen people in the streets peacefully asking for ICE to leave our community
+      neighbors alone. We’ve seen Rapid Response Networks. We’ve seen community defense
+      initiatives to keep people safe. And we know that’s the path forward, whether
+      or not legislation is in effect. JUAN GONZÁLEZ: Yeah, and I’d like to go back
+      to Representative Velázquez. The ICE data shows, for instance, in New York, that
+      there’s been nearly a sixfold increase in immigration detentions, going from 500
+      last year to almost 2,800 in the first seven months of this year. What is — what
+      has been your experience as these ICE dragnets have spread across the country
+      and even in your state? REP. NYDIA VELÁZQUEZ: Well, people are terrorized. Families
+      do not want to — parents do not want to go to bring their children to school,
+      to take the subway, to even be — appear before an immigration judge, because they
+      know that they could be ambushed by ICE agents in those federal courts. People
+      are terrorized. And this is the whole purpose of this mass deportation. It’s just
+      to terrorize, to instill fear. And my message to America is that we live in a
+      country with laws. And everyone, every person, whether you are undocumented or
+      not, you have a right to due process. And this is — this use of police tactics,
+      of agents wearing masks, of ambushing people in the streets in front of school
+      children, is undermining safety and security in our communities. And we have to
+      have a federal response. This administration is out of control, and it’s affecting
+      everyone, not only — not only undocumented, bystanders, who sometimes when they
+      witness on masked — not only masked agents, but cars that are not identified,
+      they think that a kidnap is taking place, but also it incentivizes criminals to
+      wear masks so that they could commit crimes and assault immigrants in this country.
+      AMY GOODMAN: I wanted to ask you about Federal Plaza, 26 Federal Plaza, Congressmember
+      Velázquez. A federal judge has granted a preliminary injunction to improve the
+      conditions at this notorious ICE jail inside this federal building in Manhattan.
+      Immigrants have described being imprisoned for days or weeks at a time in overcrowded
+      cells, without access to medication or proper sanitation, forced to sleep on the
+      concrete floor, left hungry, without outside contact. In the last week, something
+      like 11 of your fellow Democratic elected officials were arrested. Does ICE’s
+      use of masks, do you think, directly connect to their refusal to allow transparency
+      in these facilities, that now a federal judge is saying must be scrutinized? You
+      just — most recently, City Comptroller Brad Lander, who is campaigning around
+      the city with Zohran Mandani, and Public Advocate Jumaane Williams were among
+      those arrested. Lander was arrested again. REP. NYDIA VELÁZQUEZ: Yes. You know,
+      I have attempted three times — two times, twice, with Jerry Nadler, Goldman and
+      Adriano Espaillat, to enter 26 Federal Plaza. And every time, they have not allowed
+      us to go into the 10th floor. Adriano Espaillat and myself, we forced ourselves
+      to get into the 10th floor, but not into the detention facility itself, because
+      they prevented us. They keep lying. They’re saying that there is not a detention
+      facility, that it’s a processing center. Yet we have seen videos that shows how
+      crowded they are, and it is, and the unsanitary conditions, the lack of meals,
+      showers and so on. So, the judge instructed them to improve the conditions. But
+      not only do they lie, they are in violation of the statute, because we are within
+      our legal right as members of Congress to go there and inspect the conditions
+      of those facilities, and time and again, they prevent us from exercising our oversight
+      responsibility. JUAN GONZÁLEZ: Yeah, I just have one more question for — REP. NYDIA VELÁZQUEZ:
+      And so, again, this is — JUAN GONZÁLEZ: Yeah, I’m sorry, I just have one more
+      question for Eva before we break. There have been — REP. NYDIA VELÁZQUEZ: Sure.
+      JUAN GONZÁLEZ: As the congresswoman said, there’s been numerous arrests, up to
+      more than 80 arrests, of people who have been trying to assist these migrants
+      when they’re being rounded up by ICE. What is the ACLU’s recommendation to people
+      who are trying to support immigrants in these crises? EVA BITRAN: Yeah, we are
+      really thankful to community members, immigrant and otherwise, who are coming
+      out to give real testimony and witness to what’s happening here. We continue to
+      recommend that community members, if it is safe to do so, show up and record with
+      their phones the interactions that are happening around them, to really give witness
+      and also to force some transparency on what have been incredibly secretive operations.
+      We also know that it’s important for people to have Know Your Rights information.
+      And we’ve seen our community members, Rapid Response Network members shouting
+      out Know Your Rights information to people as they are being detained, which has
+      also been really powerful. At the ACLU, we have litigation that’s been defending
+      the rights of protesters who have been outraged about what’s happening to immigrant
+      neighbors here in L.A., as well as litigation both about the conditions at the
+      short-term holding facilities and as well as at the sort of conduct of these unconstitutional
+      operations. So, we are watching. Community is watching. Our neighbors are looking
+      out for one another. We know that what happens in L.A. becomes the blueprint for
+      the rest of the country with these enforcement operations, and we’re also trying
+      to model how to mount a proper civil response. AMY GOODMAN: Eva Bitran, I want
+      to thank you for being with us, director of immigrant rights at the ACLU of Southern
+      California. And thank you to Congressmember Nydia Velázquez, who introduced the
+      No Mask for ICE Act in Congress. We just mentioned Brad Lander and Zohran Mamdani.
+      She has endorsed Zohran Mamdani. We’re hoping to have the New York City mayoral
+      candidate on Democracy Now! tomorrow. Editor’s Note : A t a moment when the once
+      vaunted model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . DemocracyNow! Democracy Now! produces
+      a daily, global, independent news hour hosted by award-winning journalists Amy
+      Goodman and Juan González. Our reporting includes breaking daily news headlines
+      and in-depth interviews with people on the front lines of the world’s most pressing
+      issues. On Democracy Now!, you’ll hear a diversity of voices speaking for themselves,
+      providing a unique and sometimes provocative perspective on global events. Author
+      Site Please share this story and help us grow our network!'
+    one_sentence_summary: California Governor Gavin Newsom has enacted the No Secret
+      Police Act, prohibiting law enforcement from masking their identities during raids,
+      a move supported by advocates for immigrants' rights but opposed by Trump administration
+      officials who plan to disregard the law.
+    paragraph_summary: California Governor Gavin Newsom has enacted the No Secret Police
+      Act, which prohibits law enforcement, including federal immigration agents, from
+      wearing masks during raids. This legislation aims to counteract the fear and lack
+      of transparency associated with masked officers, particularly in light of recent
+      immigration raids in Los Angeles. ACLU of Southern California's Eva Bitran emphasized
+      the need to move away from unsubstantiated claims of fear that justify such practices.
+      In response to the law, Trump administration officials have indicated they will
+      not comply, prompting Congressmember Nydia Velázquez to advocate for a nationwide
+      solution through her proposed No Masks for ICE Act, highlighting the urgent need
+      for federal oversight in light of perceived overreach by the current administration.
+    published: '2025-09-24T11:54:58+00:00'
+  - title: 'No Secret Police Act: CA Gov. Signs Law Against Masked ICE Agents; Feds
+      Say They Won’t Comply'
+    url: https://scheerpost.com/2025/09/24/no-secret-police-act-ca-gov-signs-law-against-masked-ice-agents-feds-say-they-wont-comply/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By DemocracyNow!
+      California Governor Gavin Newsom signed the No Secret Police Act into law this
+      week, banning all law enforcement — including federal immigration agents — from
+      covering their faces while conducting raids in the state. “What this law is trying
+      to do is to take us back from the era of routine masking based on completely foundationless
+      officer claims of fear,” says Eva Bitran, the director of immigrants’ rights at
+      the ACLU of Southern California. Trump administration officials have already vowed
+      to ignore the California law, “and this is why we need to have a federal solution
+      that will apply nationwide,” says New York Congressmember Nydia Velázquez, who
+      has introduced the No Masks for ICE Act in Congress. “This administration is out
+      of control, and it’s affecting everyone.” Transcript This is a rush transcript.
+      Copy may not be in its final form. AMY GOODMAN: This is Democracy Now! , democracynow.org,
+      The War and Peace Report . I’m Amy Goodman, with Juan González. We turn now to
+      California, where Governor Gavin Newsom has signed into law the No Secret Police
+      Act, banning all law enforcement, including ICE agents, from covering their faces
+      while conducting raids. The ban is a response to recent immigration raids in Los
+      Angeles and other areas where ICE officials made mass arrests while heavily masked.
+      This is Governor Newsom speaking before signing the legislation. GOV. GAVIN NEWSOM:
+      The impact of these policies, all across this city, our state and nation, are
+      terrifying. It’s like a dystopian sci-fi movie — unmarked cars, people in masks,
+      people quite literally disappearing, no due process, no rights, no rights in a
+      democracy where we have rights. Immigrants have rights. And we have the right
+      to stand up and push back. AMY GOODMAN: The new California law was quickly denounced
+      by Trump administration officials, including Tricia McLaughlin, assistant secretary
+      for public affairs at Homeland Security. She said, quote, “A sanctuary politician
+      is trying to outlaw officers wearing masks to protect themselves from being doxxed
+      and targeted by known and suspected terrorist sympathizers,” unquote. The acting
+      U.S. attorney for the Central District of California, Bill Essayli, didn’t just
+      denounce the law, but said ICE agents should not follow it. This is U.S. Attorney
+      Essayli during an interview with KCAL News. BILL ESSAYLI: We’re not going to follow
+      it. The law has no force or effect on federal agencies. The state of California
+      has no jurisdiction to regulate anything that we do in the federal government.
+      And I’ve instructed our agents to disregard it. So we will continue doing our
+      operations as we have been doing them. The reason the officers wear face masks…
+      AMY GOODMAN: We’re now joined by two guests. Eva Bitran is the director of immigrants’
+      rights at the ACLU of Southern California, joining us from Riverside, California.
+      And in Harlem, we’re joined by New York Congressmember Nydia Velázquez, who introduced
+      the No Masks for ICE Act in Congress, which would bar agents nationally from wearing
+      facial coverings during enforcement actions and require them to wear clothing
+      displaying their name and affiliation with iCE. We welcome you both to Democracy
+      Now! Eva Bitran, let’s begin with you in California. The significance of the No
+      Secret Agents Act being signed into law, and yet Trump officials saying, “Do not
+      follow the law,” to ICE agents? Talk about where this law came from. EVA BITRAN:
+      This law came from the enormous siege of our immigrant people here in Southern
+      California that we have seen the federal government, beginning in June, carry
+      out all the way until now. What we saw were bands of masked, powerfully armed
+      and really swiftly moving federal agents kidnapping our community members. And
+      that’s what prompted California to react, to say this is not how we handle our
+      immigrant people. For us, it is important that due process prevail, that transparency
+      prevail, and that we free our people from the kind of siege of kidnappers that’s
+      come out to Southern California. JUAN GONZÁLEZ: But, Eva, some people have criticized
+      this law because it has loopholes, that it allows mask exceptions for SWAT teams
+      and undercover operations. How do you respond to those concerns? EVA BITRAN: My
+      understanding is that what this law is trying to do is to take us back from the
+      era of routine sort of masking based on completely foundationless officer claims
+      of fear, and back to sort of the technical necessities that officers would claim
+      in previous years or previous administrations. And the loopholes are designed
+      to sort of protect for that. JUAN GONZÁLEZ: Yeah, I’d like to bring in U.S. Congressmember
+      Nydia Velázquez. Welcome back to Democracy Now! I wanted to ask you about the
+      legislation that you’ve introduced. What are the specifics of the legislation,
+      and also your hopes, your expectations of whether it can pass or not? REP. NYDIA VELÁZQUEZ:
+      Good morning, and thank you for having me, Amy and Juan. So, as you can — as you
+      see, the Trump administration is already saying that they are not going to comply
+      with the law passed by California. And this is why we need to have a federal solution,
+      that it will apply nationwide, and it will ban the use of masks, and it will require
+      for any ICE agent to wear a uniform that clearly has their names and badge numbers,
+      so that there is transparency and accountability. AMY GOODMAN: Eva Bitran, I just
+      wanted to ask you: What does this mean? As Congressmember Velázquez tries to introduce
+      a federal solution, which would require these federal agents, on the ground, what
+      is this now going to look like? First of all, it doesn’t go into force, the No
+      Secret Police Act, for — until next year. Is that right? And how do you get ICE agents
+      to comply, if the No Masks bill is not passed in Congress? EVA BITRAN: So, that’s
+      right that the bill does not go into effect until next year, but what we are really
+      seeing is our communities coming out to demand an end altogether, masked or unmasked,
+      to the lawless and unconstitutional raids that we have seen ICE carrying out here.
+      We’ve seen people in the streets peacefully asking for ICE to leave our community
+      neighbors alone. We’ve seen Rapid Response Networks. We’ve seen community defense
+      initiatives to keep people safe. And we know that’s the path forward, whether
+      or not legislation is in effect. JUAN GONZÁLEZ: Yeah, and I’d like to go back
+      to Representative Velázquez. The ICE data shows, for instance, in New York, that
+      there’s been nearly a sixfold increase in immigration detentions, going from 500
+      last year to almost 2,800 in the first seven months of this year. What is — what
+      has been your experience as these ICE dragnets have spread across the country
+      and even in your state? REP. NYDIA VELÁZQUEZ: Well, people are terrorized. Families
+      do not want to — parents do not want to go to bring their children to school,
+      to take the subway, to even be — appear before an immigration judge, because they
+      know that they could be ambushed by ICE agents in those federal courts. People
+      are terrorized. And this is the whole purpose of this mass deportation. It’s just
+      to terrorize, to instill fear. And my message to America is that we live in a
+      country with laws. And everyone, every person, whether you are undocumented or
+      not, you have a right to due process. And this is — this use of police tactics,
+      of agents wearing masks, of ambushing people in the streets in front of school
+      children, is undermining safety and security in our communities. And we have to
+      have a federal response. This administration is out of control, and it’s affecting
+      everyone, not only — not only undocumented, bystanders, who sometimes when they
+      witness on masked — not only masked agents, but cars that are not identified,
+      they think that a kidnap is taking place, but also it incentivizes criminals to
+      wear masks so that they could commit crimes and assault immigrants in this country.
+      AMY GOODMAN: I wanted to ask you about Federal Plaza, 26 Federal Plaza, Congressmember
+      Velázquez. A federal judge has granted a preliminary injunction to improve the
+      conditions at this notorious ICE jail inside this federal building in Manhattan.
+      Immigrants have described being imprisoned for days or weeks at a time in overcrowded
+      cells, without access to medication or proper sanitation, forced to sleep on the
+      concrete floor, left hungry, without outside contact. In the last week, something
+      like 11 of your fellow Democratic elected officials were arrested. Does ICE’s
+      use of masks, do you think, directly connect to their refusal to allow transparency
+      in these facilities, that now a federal judge is saying must be scrutinized? You
+      just — most recently, City Comptroller Brad Lander, who is campaigning around
+      the city with Zohran Mandani, and Public Advocate Jumaane Williams were among
+      those arrested. Lander was arrested again. REP. NYDIA VELÁZQUEZ: Yes. You know,
+      I have attempted three times — two times, twice, with Jerry Nadler, Goldman and
+      Adriano Espaillat, to enter 26 Federal Plaza. And every time, they have not allowed
+      us to go into the 10th floor. Adriano Espaillat and myself, we forced ourselves
+      to get into the 10th floor, but not into the detention facility itself, because
+      they prevented us. They keep lying. They’re saying that there is not a detention
+      facility, that it’s a processing center. Yet we have seen videos that shows how
+      crowded they are, and it is, and the unsanitary conditions, the lack of meals,
+      showers and so on. So, the judge instructed them to improve the conditions. But
+      not only do they lie, they are in violation of the statute, because we are within
+      our legal right as members of Congress to go there and inspect the conditions
+      of those facilities, and time and again, they prevent us from exercising our oversight
+      responsibility. JUAN GONZÁLEZ: Yeah, I just have one more question for — REP. NYDIA VELÁZQUEZ:
+      And so, again, this is — JUAN GONZÁLEZ: Yeah, I’m sorry, I just have one more
+      question for Eva before we break. There have been — REP. NYDIA VELÁZQUEZ: Sure.
+      JUAN GONZÁLEZ: As the congresswoman said, there’s been numerous arrests, up to
+      more than 80 arrests, of people who have been trying to assist these migrants
+      when they’re being rounded up by ICE. What is the ACLU’s recommendation to people
+      who are trying to support immigrants in these crises? EVA BITRAN: Yeah, we are
+      really thankful to community members, immigrant and otherwise, who are coming
+      out to give real testimony and witness to what’s happening here. We continue to
+      recommend that community members, if it is safe to do so, show up and record with
+      their phones the interactions that are happening around them, to really give witness
+      and also to force some transparency on what have been incredibly secretive operations.
+      We also know that it’s important for people to have Know Your Rights information.
+      And we’ve seen our community members, Rapid Response Network members shouting
+      out Know Your Rights information to people as they are being detained, which has
+      also been really powerful. At the ACLU, we have litigation that’s been defending
+      the rights of protesters who have been outraged about what’s happening to immigrant
+      neighbors here in L.A., as well as litigation both about the conditions at the
+      short-term holding facilities and as well as at the sort of conduct of these unconstitutional
+      operations. So, we are watching. Community is watching. Our neighbors are looking
+      out for one another. We know that what happens in L.A. becomes the blueprint for
+      the rest of the country with these enforcement operations, and we’re also trying
+      to model how to mount a proper civil response. AMY GOODMAN: Eva Bitran, I want
+      to thank you for being with us, director of immigrant rights at the ACLU of Southern
+      California. And thank you to Congressmember Nydia Velázquez, who introduced the
+      No Mask for ICE Act in Congress. We just mentioned Brad Lander and Zohran Mamdani.
+      She has endorsed Zohran Mamdani. We’re hoping to have the New York City mayoral
+      candidate on Democracy Now! tomorrow. Editor’s Note : A t a moment when the once
+      vaunted model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . DemocracyNow! Democracy Now! produces
+      a daily, global, independent news hour hosted by award-winning journalists Amy
+      Goodman and Juan González. Our reporting includes breaking daily news headlines
+      and in-depth interviews with people on the front lines of the world’s most pressing
+      issues. On Democracy Now!, you’ll hear a diversity of voices speaking for themselves,
+      providing a unique and sometimes provocative perspective on global events. Author
+      Site Please share this story and help us grow our network!'
+    one_sentence_summary: California Governor Gavin Newsom has enacted the No Secret
+      Police Act, prohibiting law enforcement from masking their identities during raids,
+      a move supported by advocates for immigrants' rights but opposed by Trump administration
+      officials who plan to disregard the law.
+    paragraph_summary: California Governor Gavin Newsom has enacted the No Secret Police
+      Act, which prohibits law enforcement, including federal immigration agents, from
+      wearing masks during raids. This legislation aims to counteract the fear and lack
+      of transparency associated with masked officers, particularly in light of recent
+      immigration raids in Los Angeles. ACLU of Southern California's Eva Bitran emphasized
+      the need to move away from unsubstantiated claims of fear that justify such practices.
+      In response to the law, Trump administration officials have indicated they will
+      not comply, prompting Congressmember Nydia Velázquez to advocate for a nationwide
+      solution through her proposed No Masks for ICE Act, highlighting the urgent need
+      for federal oversight in light of perceived overreach by the current administration.
+    published: '2025-09-24T11:54:58+00:00'
+  - title: HUD Whistleblowers Say Trump Admin Is Gutting Enforcement of Fair Housing
+      Laws
+    url: https://scheerpost.com/2025/09/24/hud-whistleblowers-say-trump-admin-is-gutting-enforcement-of-fair-housing-laws/
+    text: 'Department of Housing and Urban Development. Photo: Kjetil ReeArchitect:
+      Marcel Breuer, CC BY-SA 2.5 https://creativecommons.org/licenses/by-sa/2.5 , via
+      Wikimedia Commons In one of the scariest moments in modern history, we''re doing
+      our best at ScheerPost to pierce the fog of lies that conceal it but we need some
+      help to pay our writers and staff. Please consider a tax-deductible donation .
+      By Elizabeth Weill-Greenberg / Truthout Agroup of whistleblowers from the Department
+      of Housing and Urban Development (HUD) alleges that the agency is abdicating its
+      duty to enforce federal civil rights and fair housing laws. On Monday, Sen. Elizabeth
+      Warren (D-Massachusetts) sent a letter to Brian Harrison, the acting inspector
+      general for HUD, urging him to investigate the allegations. “Right now, if you’re
+      a mom protecting your kids from living with an abusive father, or if you’re getting
+      denied a mortgage because of the color of your skin, you have civil rights protection
+      under U.S. law,” Warren said in a video posted to X on Monday. She continued:
+      “But the Trump administration has been systematically destroying these federal
+      protections for renters and homeowners, and now new internal documents shared
+      with my office from whistleblowers inside the Department of Housing and Urban
+      Development show the extent of the Trump administration’s attack on civil rights
+      and show how the administration appears to be ignoring the law.” Warren’s letter
+      to Harrison quotes extensively from a “Letter by Named and Anonymous OFH [Office
+      of Fair Housing] Attorneys” sent to the senator. HUD leadership, they wrote, has
+      “placed the Department on an unalterable course towards violating its statutory
+      and regulatory obligations to safeguard the equal distribution of federal funds,
+      to combat housing discrimination in the public and private sectors, and to protect
+      the lives of countless survivors of domestic violence.” The attorneys allege that
+      HUD staff were told that “fair housing was ‘not a priority’ of the administration,
+      that less civil rights work would be performed under this administration, and
+      that there was an ‘optics problem’ with [OFH] being as large as it was,” as per
+      Warren’s letter. Warren condemned the idea that “optics” should have an effect
+      on the enforcement of federal civil rights laws. “Imagine thinking that defending
+      Black families from being denied a mortgage because they’re Black, or protecting
+      a mom and her kids from living with an abusive father is a quote, optics problem,”
+      Warren said in the video. “Imagine thinking that it’s an optics problem to help
+      the dad with a bad knee whose landlord refuses to install a handrail on the stairs.”
+      A New York Times investigation , published on Monday, found that “internal communications,
+      memos and other documents …. show efforts by the Trump administration to limit
+      enforcement of the Fair Housing Act, the landmark civil rights law that has prohibited
+      discrimination in housing for nearly six decades.” The Times reports that since
+      Trump’s second presidential term began, “hundreds of pending fair housing cases
+      were frozen, and some settlements revoked, even when accusations of discrimination
+      had been substantiated.” In addition to enforcing anti-discrimination laws, HUD
+      is tasked with implementing the housing provisions in the Violence Against Women
+      Act (VAWA.) “In its 2022 reauthorization of VAWA, Congress expanded HUD’s role
+      in implementing VAWA, and OFH became ‘instrumental in ensuring that survivors
+      [of domestic violence, dating violence, sexual assault, stalking, and/or human
+      trafficking] are provided with emergency transfers to safe housing and that they
+      are not retraumatized by being evicted because of an assault,’” Warren wrote.
+      But HUD leadership has reassigned 75 percent of the VAWA team, including its supervisors,
+      which would leave just two attorneys in the unit, according to the whistleblowers.
+      “These are life and death requests,” HUD attorney Paul Osadebe told the Times
+      . “These women are legitimately in mortal danger, and often without the government
+      stepping in, nothing will be done.” The Times reports that Osadebe and other HUD
+      attorneys filed a federal lawsuit on Monday seeking to halt their reassignments.
+      “This is a deliberate plan, and it’s about shutting down fair housing,” said Osadebe,
+      who is also an organizer with the Federal Unionists Network , a coalition of federal
+      workers fighting the Trump administration’s mass layoffs and budget cuts. Before
+      Trump took office, HUD’s Office of Fair Housing employed 31 people, according
+      to Warren’s letter. There are now just 11 staff members, including six staff attorneys.
+      The whistleblowers allege that HUD officials told OFH attorneys “they could go
+      to almost any other office [within the agency]; they must simply abandon fair
+      housing work,” according to Warren’s letter. “The Trump administration is firing
+      and reassigning as many people from the Civil Rights Office as they possibly can,
+      and why?” the senator said in the video posted on X. “To make it impossible for
+      the few staff that remain to actually do their jobs and help people the way the
+      law says.” Before becoming president, Donald Trump was a real estate developer
+      and property owner. In the 1970s, the Department of Justice sued Trump and his
+      father for refusing to rent to prospective Black tenants in violation of the Fair
+      Housing Act. Trump hired Roy Cohn, a virulent anti-communist, to defend him. The
+      Trumps eventually settled the case, but the Justice Department later accused them
+      of violating the terms of the settlement. Editor’s Note : A t a moment when the
+      once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Elizabeth Weill-Greenberg
+      Elizabeth Weill-Greenberg is a reporter based in New Jersey. Follow her on Twitter:
+      @elizabethweill . Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: Whistleblowers from the Department of Housing and Urban Development
+      claim the agency is failing to enforce federal civil rights and fair housing laws,
+      prompting Senator Elizabeth Warren to call for an investigation into these allegations.
+    paragraph_summary: Whistleblowers from the Department of Housing and Urban Development
+      (HUD) have accused the agency of neglecting its responsibilities to enforce federal
+      civil rights and fair housing laws, prompting Senator Elizabeth Warren to call
+      for an investigation. In a letter to HUD's acting inspector general, Warren highlighted
+      the detrimental impact of the Trump administration's policies on civil rights
+      protections for renters and homeowners, citing internal documents from HUD attorneys
+      that reveal a systematic dismantling of these protections. The attorneys assert
+      that HUD leadership has deprioritized fair housing, jeopardizing the agency's
+      legal obligations to combat housing discrimination and protect vulnerable individuals,
+      including survivors of domestic violence.
+    published: '2025-09-24T11:51:27+00:00'
+  - title: HUD Whistleblowers Say Trump Admin Is Gutting Enforcement of Fair Housing
+      Laws
+    url: https://scheerpost.com/2025/09/24/hud-whistleblowers-say-trump-admin-is-gutting-enforcement-of-fair-housing-laws/
+    text: 'Department of Housing and Urban Development. Photo: Kjetil ReeArchitect:
+      Marcel Breuer, CC BY-SA 2.5 https://creativecommons.org/licenses/by-sa/2.5 , via
+      Wikimedia Commons In one of the scariest moments in modern history, we''re doing
+      our best at ScheerPost to pierce the fog of lies that conceal it but we need some
+      help to pay our writers and staff. Please consider a tax-deductible donation .
+      By Elizabeth Weill-Greenberg / Truthout Agroup of whistleblowers from the Department
+      of Housing and Urban Development (HUD) alleges that the agency is abdicating its
+      duty to enforce federal civil rights and fair housing laws. On Monday, Sen. Elizabeth
+      Warren (D-Massachusetts) sent a letter to Brian Harrison, the acting inspector
+      general for HUD, urging him to investigate the allegations. “Right now, if you’re
+      a mom protecting your kids from living with an abusive father, or if you’re getting
+      denied a mortgage because of the color of your skin, you have civil rights protection
+      under U.S. law,” Warren said in a video posted to X on Monday. She continued:
+      “But the Trump administration has been systematically destroying these federal
+      protections for renters and homeowners, and now new internal documents shared
+      with my office from whistleblowers inside the Department of Housing and Urban
+      Development show the extent of the Trump administration’s attack on civil rights
+      and show how the administration appears to be ignoring the law.” Warren’s letter
+      to Harrison quotes extensively from a “Letter by Named and Anonymous OFH [Office
+      of Fair Housing] Attorneys” sent to the senator. HUD leadership, they wrote, has
+      “placed the Department on an unalterable course towards violating its statutory
+      and regulatory obligations to safeguard the equal distribution of federal funds,
+      to combat housing discrimination in the public and private sectors, and to protect
+      the lives of countless survivors of domestic violence.” The attorneys allege that
+      HUD staff were told that “fair housing was ‘not a priority’ of the administration,
+      that less civil rights work would be performed under this administration, and
+      that there was an ‘optics problem’ with [OFH] being as large as it was,” as per
+      Warren’s letter. Warren condemned the idea that “optics” should have an effect
+      on the enforcement of federal civil rights laws. “Imagine thinking that defending
+      Black families from being denied a mortgage because they’re Black, or protecting
+      a mom and her kids from living with an abusive father is a quote, optics problem,”
+      Warren said in the video. “Imagine thinking that it’s an optics problem to help
+      the dad with a bad knee whose landlord refuses to install a handrail on the stairs.”
+      A New York Times investigation , published on Monday, found that “internal communications,
+      memos and other documents …. show efforts by the Trump administration to limit
+      enforcement of the Fair Housing Act, the landmark civil rights law that has prohibited
+      discrimination in housing for nearly six decades.” The Times reports that since
+      Trump’s second presidential term began, “hundreds of pending fair housing cases
+      were frozen, and some settlements revoked, even when accusations of discrimination
+      had been substantiated.” In addition to enforcing anti-discrimination laws, HUD
+      is tasked with implementing the housing provisions in the Violence Against Women
+      Act (VAWA.) “In its 2022 reauthorization of VAWA, Congress expanded HUD’s role
+      in implementing VAWA, and OFH became ‘instrumental in ensuring that survivors
+      [of domestic violence, dating violence, sexual assault, stalking, and/or human
+      trafficking] are provided with emergency transfers to safe housing and that they
+      are not retraumatized by being evicted because of an assault,’” Warren wrote.
+      But HUD leadership has reassigned 75 percent of the VAWA team, including its supervisors,
+      which would leave just two attorneys in the unit, according to the whistleblowers.
+      “These are life and death requests,” HUD attorney Paul Osadebe told the Times
+      . “These women are legitimately in mortal danger, and often without the government
+      stepping in, nothing will be done.” The Times reports that Osadebe and other HUD
+      attorneys filed a federal lawsuit on Monday seeking to halt their reassignments.
+      “This is a deliberate plan, and it’s about shutting down fair housing,” said Osadebe,
+      who is also an organizer with the Federal Unionists Network , a coalition of federal
+      workers fighting the Trump administration’s mass layoffs and budget cuts. Before
+      Trump took office, HUD’s Office of Fair Housing employed 31 people, according
+      to Warren’s letter. There are now just 11 staff members, including six staff attorneys.
+      The whistleblowers allege that HUD officials told OFH attorneys “they could go
+      to almost any other office [within the agency]; they must simply abandon fair
+      housing work,” according to Warren’s letter. “The Trump administration is firing
+      and reassigning as many people from the Civil Rights Office as they possibly can,
+      and why?” the senator said in the video posted on X. “To make it impossible for
+      the few staff that remain to actually do their jobs and help people the way the
+      law says.” Before becoming president, Donald Trump was a real estate developer
+      and property owner. In the 1970s, the Department of Justice sued Trump and his
+      father for refusing to rent to prospective Black tenants in violation of the Fair
+      Housing Act. Trump hired Roy Cohn, a virulent anti-communist, to defend him. The
+      Trumps eventually settled the case, but the Justice Department later accused them
+      of violating the terms of the settlement. Editor’s Note : A t a moment when the
+      once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Elizabeth Weill-Greenberg
+      Elizabeth Weill-Greenberg is a reporter based in New Jersey. Follow her on Twitter:
+      @elizabethweill . Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: Whistleblowers from the Department of Housing and Urban Development
+      claim the agency is failing to enforce federal civil rights and fair housing laws,
+      prompting Senator Elizabeth Warren to call for an investigation into these allegations.
+    paragraph_summary: Whistleblowers from the Department of Housing and Urban Development
+      (HUD) have accused the agency of neglecting its responsibilities to enforce federal
+      civil rights and fair housing laws, prompting Senator Elizabeth Warren to call
+      for an investigation. In a letter to HUD's acting inspector general, Warren highlighted
+      the detrimental impact of the Trump administration's policies on civil rights
+      protections for renters and homeowners, citing internal documents from HUD attorneys
+      that reveal a systematic dismantling of these protections. The attorneys assert
+      that HUD leadership has deprioritized fair housing, jeopardizing the agency's
+      legal obligations to combat housing discrimination and protect vulnerable individuals,
+      including survivors of domestic violence.
+    published: '2025-09-24T11:51:27+00:00'
+  - title: Top Pro-Israel TPUSA Donor Terminated Support for Kirk in Days Before Death,
+      Sources Say
+    url: https://scheerpost.com/2025/09/24/top-pro-israel-tpusa-donor-terminated-support-for-kirk-in-days-before-death-sources-say/
+    text: 'Charlie Kirk speaking with attendees at the Purdue University tour stop of
+      the “American Comeback Tour” at Krach Lawn in West Lafayette, Indiana. Gage Skidmore,
+      CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0 , via Wikimedia Commons
+      In one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Max Blumenthal / The
+      Grayzone The Turning Point USA campus in Phoenix, Arizona is the house that Charlie
+      Kirk built. Consisting of six sterile, two-floor office buildings, the campus
+      is itself a tribute to the ultra-wealthy donors who placed the 31-year-old Kirk
+      at the helm of a political empire whose combined annual assets exceeded the municipal
+      budget of a typical small American city. At the front of the TPUSA complex is
+      the Bill and Rebecca Dunn Freedom Center , named for the late commodity trader
+      Bill Dunn. Adjacent buildings feature plaques commemorating the mega-donors who
+      have fueled the rise of the conservative movement, from the Uhline family to the
+      Koch Brothers to evangelical Christian asset manager Foster Friess. Catty-corner
+      from the Freedom Center is the Pearson Building. According to a TPUSA insider,
+      this structure was to be emblazoned with the name of one of Kirk’s largest and
+      most committed backers, the tech mogul Robert Shillman. A pre-eminent funder of
+      right-wing Zionist and anti-Muslim causes across the Atlantic, Shillman’s millions
+      helped transform Kirk from a young age into one of Israel’s most effective gentile
+      assets. However, as Kirk drifted from the official, Netanyahu-enforced line on
+      Israel in the past year, expressing frustration with onerous demands from Zionist
+      donors and hosting the leading conservative critics of Israel at his TPUSA events,
+      Shillman apparently grew resentful. A TPUSA insider has told The Grayzone that
+      Shillman recently cancelled plans to erect the plaque bearing his name inside
+      the conservative organization’s office complex. Those who contribute $1 million
+      or more to TPUSA become eligible for an honorary plaque, but Shillman’s donations
+      were said to be considerably higher. Few donors have done more than Shillman to
+      fuel the influence of the Zionist movement’s anti-Muslim, pro-Likud wing inside
+      the US. “With this pen, and a checkbook, I provide ammunition!” the billionaire
+      proclaimed during a gala of the right-wing Zionist Organization of America in
+      2021. This gentleman, Robert Shillman, directly funded Tommy Robinson. Here he
+      is, being honoured at the Zionist Organisation of America (an org he also funds),
+      comparing his pen to a weapon. He also funded the Friends of the IDF and orgs
+      that build illegal settlements in West Bank. pic.twitter.com/gyagA4tOoM — Lowkey
+      (@Lowkey0nline) July 25, 2021 Besides nurturing the career of Kirk, Shillman has
+      sponsored the David Horowitz Freedom Center, named for the neocon operative who
+      Kirk described as his “mentor.” Anti-Islam activists from Frank Gaffney to the
+      English hooligan Tommy Robinson , to Dutch politician Geert Wilders and Canada’s
+      Rebel Media have benefitted from Shillman’s support as well. Shillman has also
+      invested substantially in the career of Laura Loomer, a former Rebel Media personality
+      and fanatically anti-Palestinian provocateur who enjoys direct access to Trump
+      and members of his inner circle, shaping personnel and policy decisions while
+      lashing out at insufficiently pro-Israel staffers. Weeks before the TPUSA founder’s
+      killing, Loomer blasted Kirk for his inconsistent support for Israel. She was
+      especially piqued by Kirk’s platforming of Tucker Carlson, whom she branded “an
+      uppity Waspy snob” who serves as a “mouthpiece for Iran and Qatar.” “Charlie speaks
+      out of both sides of his mouth… [his] messaging is all over the place and some
+      of us just want to know where he stands,” Loomer tweeted on July 12, 2025. She
+      went on to call Kirk “a political opportunist” and a “charlatan” who “stab[bed]
+      Trump in the back” by hosting Dave Smith, an anti-Zionist podcaster and comedian,
+      at a TPUSA summit. Loomer did not deny Shillman had cut off funding to TPUSA,
+      pleading ignorance in response to a direct question from this reporter about her
+      longtime benefactor’s decision. The Grayzone was informed that Shillman announced
+      his termination of contributions to TPUSA during a private dinner of another organization
+      he funds, the American Freedom Alliance (AFA). According to an attendee of the
+      event, which was held in Los Angeles on September 6, Shillman stated that he would
+      be ending his donations to Kirk, diverting them instead to reliably pro-Likud,
+      anti-Islam groups like AFA. The AFA’s homepage is currently promoting a $250,000
+      matching fund donation from an unnamed donor directly below a tribute to Kirk.
+      A photo shows Kirk speaking from the dais of a past AFA event. The tribute links
+      to a eulogy which blames “The Left’s consistent drumbeat of hate, of misrepresentation,
+      of fomenting violence against us” for the TPUSA founder’s death. Reached by phone,
+      Shillman hung up as soon as this reporter asked him about his alleged statement
+      announcing his termination of support for TPUSA. The Grayzone also contacted AFA
+      President Karen Siegemund by phone and asked her about Shillman’s alleged comments
+      regarding Kirk during her organization’s gala. “The only part I remember is about
+      his generosity to us,” a seemingly irritated Siegemund commented before hanging
+      up abruptly. Bill Whittle, a conservative pundit who emceed the September 6 AFA
+      dinner, told The Grayzone he could “neither confirm nor deny” that Shillman had
+      declared his intention to cut off funding to Kirk’s organization. “It was a private
+      event,” he emphasized. AFA has published several videos on its YouTube channel
+      containing speeches from the gala, but Shillman’s address is absent. Andrew Kolvet,
+      the executive producer and spokesman for TPUSA, did not respond to a request for
+      comment delivered by direct message to his personal Twitter/X account, where he
+      follows this reporter. Mike Cernovich, a conservative activist and longtime ally
+      of Kirk, may have been alluding to the break-up allegedly initiated by Shillman
+      when he tweeted on September 13, 2025, “Charlie was about to lose his last major
+      donor because he refused to ban Tucker Carlson from events. There are A LOT of
+      people shedding crocodile tears. The billionaires must be exposed for the cretins
+      that they are.” Charlie was about to lose his last major donor because he refused
+      to ban Tucker Carlson from events. There are A LOT of people shedding crocodile
+      tears. The billionaires must be exposed for the cretins that they are. — Cernovich
+      (@Cernovich) September 13, 2025 Along with the apparent rift between Shillman
+      and Kirk, The Grayzone has learned that Netanyahu’s US allies intensified their
+      campaign to manage the late TPUSA founder as his fateful first campus tour date
+      approached. Netanyahu’s functionaries managed Kirk “on an almost daily basis”
+      Shillman’s apparent break with Kirk capped a months-long pressure campaign from
+      Zionist bigwigs, media operatives, and Israeli Prime Minister Benjamin Netanyahu
+      himself to bring the late conservative activist back into line with the self-proclaimed
+      Jewish state’s agenda. As The Grayzone reported , citing one of Kirk’s longtime
+      friends, the TPUSA founder refused an offer by Netanyahu to arrange a new infusion
+      of funding into his organization from his stable of Zionist millionaires and billionaires
+      in the US. This reporter also revealed that Kirk and pro-Israel billionaire Bill
+      Ackman convened a secretive Hamptons retreat in August where Kirk faced sustained
+      cajoling and a bout of angry hectoring from Zionist attendees for his perceived
+      disobedience. An attendee of the covert Hamptons gathering told The Grayzone that
+      each of the influencers on hand were invited on an all-expenses paid propaganda
+      tour of Israel. The trip took place later that August under the auspices of Newsmax,
+      a right-wing outlet which now receives funding from the Israeli Foreign Ministry.
+      I’ve been informed by an attendee of the covert Bill Ackman-engineered Hamptons
+      influencer summit that all participants were invited on an Israel propaganda tour
+      The tour was managed by Newsmax Newsmax is now sponsored by Israel’s Foreign Ministry
+      Was this a FARA violation? pic.twitter.com/nmbnY4qaVx — Max Blumenthal (@MaxBlumenthal)
+      September 22, 2025 Back at TPUSA, the mounting pressure from Zionist bigwigs left
+      Kirk angry and perturbed in the weeks leading up to his death. The day after the
+      Hamptons summit, he publicly vented about Jewish “stakeholders” seeking to control
+      his message. Among the demands Kirk received in his final days was to rescind
+      an invitation to Tucker Carlson, an outspoken critic of Netanyahu, to deliver
+      the keynote address at TPUSA’s upcoming America Fest. Kirk not only resisted the
+      demand, he invited the leading Republican critic of Israel in Congress, Rep. Marjorie
+      Taylor-Greene, to appear at the event as well. The Grayzone has since learned
+      of a series of Zoom calls between Kirk and Zionist operatives seeking to prevent
+      him from going off-message. The calls illustrate the mounting pressure the late
+      conservative activist had been subjected to in the weeks before his death. One
+      call, held just 24 hours before Kirk’s killing, included Joshua Hammer, a Newsweek
+      editor-at-large who is a leading Israel lobbyist within the US media. “We were
+      kind of talking him through talking points, and strategy and how to deal with
+      these expected hostile questions,” Hammer recounted . Another participant in a
+      recent Zoom call with Kirk, ultra-Zionist venture capitalist Shaun Maguire of
+      Sequoia Capital, took to Twitter/X to rebuke podcaster and former TPUSA communications
+      director Candace Owens for her claim that Ackman had subjected Kirk to unwanted
+      lobbying over his shifting views on Israel. “I was in a 10 person chat with @BillAckman
+      and Charlie on this topic. We did a few zooms over the last quarter talking about
+      Israel, antisemitism, and how the West wins… Your story is off,” Maguire protested.
+      Minutes after publishing his tweet, Maguire deleted it for unknown reasons. The
+      Grayzone has managed to preserve a portion of the post. Pesach Wolicki, a right-wing
+      Israel-based rabbi who oversees Israeli propaganda tours for American youth through
+      his Israel365 Action organization, had positioned himself as Kirk’s personal Zionist
+      handler in the months leading up to his death. The Grayzone has obtained a private
+      email from Wolicki’s Israel356 Action to a conservative activist offering to junket
+      them to Israel this October. Reaching out on behalf of “the anti-woke movement,”
+      Israel 365 offered to take the activist on a delegation to “explore more about
+      Israel’s biblical history, visit the October 7 sites, and…check out some operations
+      from the Gaza border.” Wolikci’s board of advisors includes Tila Falic Levy, heiress
+      to the Duty Free America fortune she and her family have channeled into Israel’s
+      illegal settlement enterprise in the occupied West Bank, and into the political
+      campaigns of both Netanyahu and Donald Trump. Frank Gaffney, a prolific anti-Muslim
+      activist who has been supported by Shillman, is also on Israel365’s board. In
+      a September 17 interview with Israel’s ILTV, Wolicki said he was “in touch with
+      Charlie on an almost daily basis for months,” leveraging his access to counteract
+      Kirk’s “disagreements with Israeli policy.” “He sometimes believed things, like
+      a lot of people do, that are out there in the media. And that was really the substance
+      of our relationship, was checking on things, and finding out the truth.” Wolicki
+      complained that “there were a lot of people around [Kirk] in the America First
+      movement, who were actively working to try to get him to turn on Israel.” Anxiety
+      was building within the Zionist movement about Kirk’s upcoming campus tour in
+      September. As his first date approached at Utah Valley University, Wolicki said
+      that Kirk had “ended up in a position where he was defending Israel all the time,
+      and it drove him crazy because he wanted to talk about America.” Wolicki told
+      the New York Post that Kirk “was in a combative mood” during the final discussion,
+      just hours before his death. The rabbi said Kirk had agreed to join a Whatsapp
+      group where he would apparently receive a constant stream of pro-Israel talking
+      points throughout his campus tour. But the Whatsapp exchanges were never to be.
+      Moments after his Utah Valley University event was underway on September 10, Kirk
+      was killed by what appeared to be an assassin’s single bullet. On September 17,
+      Benjamin Netanyahu released a video from the social media account of the Israeli
+      Prime Minister’s office fervently denying that he played any role in the assassination
+      of Charlie Kirk. It was the second time he had denied responsibility for the shooting
+      since Kirk’s death. Editor’s Note : A t a moment when the once vaunted model of
+      responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Max Blumenthal The editor-in-chief of The
+      Grayzone, Max Blumenthal is an award-winning journalist and the author of several
+      books, including best-selling Republican Gomorrah , Goliath , The Fifty One Day
+      War , and The Management of Savagery . He has produced print articles for an array
+      of publications, many video reports, and several documentaries, including Killing
+      Gaza . Blumenthal founded The Grayzone in 2015 to shine a journalistic light on
+      America’s state of perpetual war and its dangerous domestic repercussions. Author
+      Site Please share this story and help us grow our network!'
+    one_sentence_summary: Charlie Kirk's Turning Point USA campus in Phoenix, Arizona,
+      symbolizes the influence of wealthy donors in shaping a significant political
+      organization, reflecting its substantial financial resources and infrastructure.
+    paragraph_summary: Charlie Kirk, founder of Turning Point USA (TPUSA), has built
+      a significant political empire supported by wealthy donors, with the TPUSA campus
+      in Phoenix serving as a testament to this influence. The campus features buildings
+      named after major donors, including the Bill and Rebecca Dunn Freedom Center and
+      the Pearson Building, which was intended to honor tech mogul Robert Shillman,
+      a prominent supporter of right-wing causes. However, tensions have arisen as Kirk
+      has recently diverged from the traditional pro-Israel stance favored by some of
+      his donors, leading Shillman to reportedly cancel plans for the plaque commemorating
+      his support. This shift highlights the complexities and challenges within the
+      conservative movement regarding funding and ideological alignment.
+    published: '2025-09-24T11:44:40+00:00'
+  - title: Top Pro-Israel TPUSA Donor Terminated Support for Kirk in Days Before Death,
+      Sources Say
+    url: https://scheerpost.com/2025/09/24/top-pro-israel-tpusa-donor-terminated-support-for-kirk-in-days-before-death-sources-say/
+    text: 'Charlie Kirk speaking with attendees at the Purdue University tour stop of
+      the “American Comeback Tour” at Krach Lawn in West Lafayette, Indiana. Gage Skidmore,
+      CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0 , via Wikimedia Commons
+      In one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Max Blumenthal / The
+      Grayzone The Turning Point USA campus in Phoenix, Arizona is the house that Charlie
+      Kirk built. Consisting of six sterile, two-floor office buildings, the campus
+      is itself a tribute to the ultra-wealthy donors who placed the 31-year-old Kirk
+      at the helm of a political empire whose combined annual assets exceeded the municipal
+      budget of a typical small American city. At the front of the TPUSA complex is
+      the Bill and Rebecca Dunn Freedom Center , named for the late commodity trader
+      Bill Dunn. Adjacent buildings feature plaques commemorating the mega-donors who
+      have fueled the rise of the conservative movement, from the Uhline family to the
+      Koch Brothers to evangelical Christian asset manager Foster Friess. Catty-corner
+      from the Freedom Center is the Pearson Building. According to a TPUSA insider,
+      this structure was to be emblazoned with the name of one of Kirk’s largest and
+      most committed backers, the tech mogul Robert Shillman. A pre-eminent funder of
+      right-wing Zionist and anti-Muslim causes across the Atlantic, Shillman’s millions
+      helped transform Kirk from a young age into one of Israel’s most effective gentile
+      assets. However, as Kirk drifted from the official, Netanyahu-enforced line on
+      Israel in the past year, expressing frustration with onerous demands from Zionist
+      donors and hosting the leading conservative critics of Israel at his TPUSA events,
+      Shillman apparently grew resentful. A TPUSA insider has told The Grayzone that
+      Shillman recently cancelled plans to erect the plaque bearing his name inside
+      the conservative organization’s office complex. Those who contribute $1 million
+      or more to TPUSA become eligible for an honorary plaque, but Shillman’s donations
+      were said to be considerably higher. Few donors have done more than Shillman to
+      fuel the influence of the Zionist movement’s anti-Muslim, pro-Likud wing inside
+      the US. “With this pen, and a checkbook, I provide ammunition!” the billionaire
+      proclaimed during a gala of the right-wing Zionist Organization of America in
+      2021. This gentleman, Robert Shillman, directly funded Tommy Robinson. Here he
+      is, being honoured at the Zionist Organisation of America (an org he also funds),
+      comparing his pen to a weapon. He also funded the Friends of the IDF and orgs
+      that build illegal settlements in West Bank. pic.twitter.com/gyagA4tOoM — Lowkey
+      (@Lowkey0nline) July 25, 2021 Besides nurturing the career of Kirk, Shillman has
+      sponsored the David Horowitz Freedom Center, named for the neocon operative who
+      Kirk described as his “mentor.” Anti-Islam activists from Frank Gaffney to the
+      English hooligan Tommy Robinson , to Dutch politician Geert Wilders and Canada’s
+      Rebel Media have benefitted from Shillman’s support as well. Shillman has also
+      invested substantially in the career of Laura Loomer, a former Rebel Media personality
+      and fanatically anti-Palestinian provocateur who enjoys direct access to Trump
+      and members of his inner circle, shaping personnel and policy decisions while
+      lashing out at insufficiently pro-Israel staffers. Weeks before the TPUSA founder’s
+      killing, Loomer blasted Kirk for his inconsistent support for Israel. She was
+      especially piqued by Kirk’s platforming of Tucker Carlson, whom she branded “an
+      uppity Waspy snob” who serves as a “mouthpiece for Iran and Qatar.” “Charlie speaks
+      out of both sides of his mouth… [his] messaging is all over the place and some
+      of us just want to know where he stands,” Loomer tweeted on July 12, 2025. She
+      went on to call Kirk “a political opportunist” and a “charlatan” who “stab[bed]
+      Trump in the back” by hosting Dave Smith, an anti-Zionist podcaster and comedian,
+      at a TPUSA summit. Loomer did not deny Shillman had cut off funding to TPUSA,
+      pleading ignorance in response to a direct question from this reporter about her
+      longtime benefactor’s decision. The Grayzone was informed that Shillman announced
+      his termination of contributions to TPUSA during a private dinner of another organization
+      he funds, the American Freedom Alliance (AFA). According to an attendee of the
+      event, which was held in Los Angeles on September 6, Shillman stated that he would
+      be ending his donations to Kirk, diverting them instead to reliably pro-Likud,
+      anti-Islam groups like AFA. The AFA’s homepage is currently promoting a $250,000
+      matching fund donation from an unnamed donor directly below a tribute to Kirk.
+      A photo shows Kirk speaking from the dais of a past AFA event. The tribute links
+      to a eulogy which blames “The Left’s consistent drumbeat of hate, of misrepresentation,
+      of fomenting violence against us” for the TPUSA founder’s death. Reached by phone,
+      Shillman hung up as soon as this reporter asked him about his alleged statement
+      announcing his termination of support for TPUSA. The Grayzone also contacted AFA
+      President Karen Siegemund by phone and asked her about Shillman’s alleged comments
+      regarding Kirk during her organization’s gala. “The only part I remember is about
+      his generosity to us,” a seemingly irritated Siegemund commented before hanging
+      up abruptly. Bill Whittle, a conservative pundit who emceed the September 6 AFA
+      dinner, told The Grayzone he could “neither confirm nor deny” that Shillman had
+      declared his intention to cut off funding to Kirk’s organization. “It was a private
+      event,” he emphasized. AFA has published several videos on its YouTube channel
+      containing speeches from the gala, but Shillman’s address is absent. Andrew Kolvet,
+      the executive producer and spokesman for TPUSA, did not respond to a request for
+      comment delivered by direct message to his personal Twitter/X account, where he
+      follows this reporter. Mike Cernovich, a conservative activist and longtime ally
+      of Kirk, may have been alluding to the break-up allegedly initiated by Shillman
+      when he tweeted on September 13, 2025, “Charlie was about to lose his last major
+      donor because he refused to ban Tucker Carlson from events. There are A LOT of
+      people shedding crocodile tears. The billionaires must be exposed for the cretins
+      that they are.” Charlie was about to lose his last major donor because he refused
+      to ban Tucker Carlson from events. There are A LOT of people shedding crocodile
+      tears. The billionaires must be exposed for the cretins that they are. — Cernovich
+      (@Cernovich) September 13, 2025 Along with the apparent rift between Shillman
+      and Kirk, The Grayzone has learned that Netanyahu’s US allies intensified their
+      campaign to manage the late TPUSA founder as his fateful first campus tour date
+      approached. Netanyahu’s functionaries managed Kirk “on an almost daily basis”
+      Shillman’s apparent break with Kirk capped a months-long pressure campaign from
+      Zionist bigwigs, media operatives, and Israeli Prime Minister Benjamin Netanyahu
+      himself to bring the late conservative activist back into line with the self-proclaimed
+      Jewish state’s agenda. As The Grayzone reported , citing one of Kirk’s longtime
+      friends, the TPUSA founder refused an offer by Netanyahu to arrange a new infusion
+      of funding into his organization from his stable of Zionist millionaires and billionaires
+      in the US. This reporter also revealed that Kirk and pro-Israel billionaire Bill
+      Ackman convened a secretive Hamptons retreat in August where Kirk faced sustained
+      cajoling and a bout of angry hectoring from Zionist attendees for his perceived
+      disobedience. An attendee of the covert Hamptons gathering told The Grayzone that
+      each of the influencers on hand were invited on an all-expenses paid propaganda
+      tour of Israel. The trip took place later that August under the auspices of Newsmax,
+      a right-wing outlet which now receives funding from the Israeli Foreign Ministry.
+      I’ve been informed by an attendee of the covert Bill Ackman-engineered Hamptons
+      influencer summit that all participants were invited on an Israel propaganda tour
+      The tour was managed by Newsmax Newsmax is now sponsored by Israel’s Foreign Ministry
+      Was this a FARA violation? pic.twitter.com/nmbnY4qaVx — Max Blumenthal (@MaxBlumenthal)
+      September 22, 2025 Back at TPUSA, the mounting pressure from Zionist bigwigs left
+      Kirk angry and perturbed in the weeks leading up to his death. The day after the
+      Hamptons summit, he publicly vented about Jewish “stakeholders” seeking to control
+      his message. Among the demands Kirk received in his final days was to rescind
+      an invitation to Tucker Carlson, an outspoken critic of Netanyahu, to deliver
+      the keynote address at TPUSA’s upcoming America Fest. Kirk not only resisted the
+      demand, he invited the leading Republican critic of Israel in Congress, Rep. Marjorie
+      Taylor-Greene, to appear at the event as well. The Grayzone has since learned
+      of a series of Zoom calls between Kirk and Zionist operatives seeking to prevent
+      him from going off-message. The calls illustrate the mounting pressure the late
+      conservative activist had been subjected to in the weeks before his death. One
+      call, held just 24 hours before Kirk’s killing, included Joshua Hammer, a Newsweek
+      editor-at-large who is a leading Israel lobbyist within the US media. “We were
+      kind of talking him through talking points, and strategy and how to deal with
+      these expected hostile questions,” Hammer recounted . Another participant in a
+      recent Zoom call with Kirk, ultra-Zionist venture capitalist Shaun Maguire of
+      Sequoia Capital, took to Twitter/X to rebuke podcaster and former TPUSA communications
+      director Candace Owens for her claim that Ackman had subjected Kirk to unwanted
+      lobbying over his shifting views on Israel. “I was in a 10 person chat with @BillAckman
+      and Charlie on this topic. We did a few zooms over the last quarter talking about
+      Israel, antisemitism, and how the West wins… Your story is off,” Maguire protested.
+      Minutes after publishing his tweet, Maguire deleted it for unknown reasons. The
+      Grayzone has managed to preserve a portion of the post. Pesach Wolicki, a right-wing
+      Israel-based rabbi who oversees Israeli propaganda tours for American youth through
+      his Israel365 Action organization, had positioned himself as Kirk’s personal Zionist
+      handler in the months leading up to his death. The Grayzone has obtained a private
+      email from Wolicki’s Israel356 Action to a conservative activist offering to junket
+      them to Israel this October. Reaching out on behalf of “the anti-woke movement,”
+      Israel 365 offered to take the activist on a delegation to “explore more about
+      Israel’s biblical history, visit the October 7 sites, and…check out some operations
+      from the Gaza border.” Wolikci’s board of advisors includes Tila Falic Levy, heiress
+      to the Duty Free America fortune she and her family have channeled into Israel’s
+      illegal settlement enterprise in the occupied West Bank, and into the political
+      campaigns of both Netanyahu and Donald Trump. Frank Gaffney, a prolific anti-Muslim
+      activist who has been supported by Shillman, is also on Israel365’s board. In
+      a September 17 interview with Israel’s ILTV, Wolicki said he was “in touch with
+      Charlie on an almost daily basis for months,” leveraging his access to counteract
+      Kirk’s “disagreements with Israeli policy.” “He sometimes believed things, like
+      a lot of people do, that are out there in the media. And that was really the substance
+      of our relationship, was checking on things, and finding out the truth.” Wolicki
+      complained that “there were a lot of people around [Kirk] in the America First
+      movement, who were actively working to try to get him to turn on Israel.” Anxiety
+      was building within the Zionist movement about Kirk’s upcoming campus tour in
+      September. As his first date approached at Utah Valley University, Wolicki said
+      that Kirk had “ended up in a position where he was defending Israel all the time,
+      and it drove him crazy because he wanted to talk about America.” Wolicki told
+      the New York Post that Kirk “was in a combative mood” during the final discussion,
+      just hours before his death. The rabbi said Kirk had agreed to join a Whatsapp
+      group where he would apparently receive a constant stream of pro-Israel talking
+      points throughout his campus tour. But the Whatsapp exchanges were never to be.
+      Moments after his Utah Valley University event was underway on September 10, Kirk
+      was killed by what appeared to be an assassin’s single bullet. On September 17,
+      Benjamin Netanyahu released a video from the social media account of the Israeli
+      Prime Minister’s office fervently denying that he played any role in the assassination
+      of Charlie Kirk. It was the second time he had denied responsibility for the shooting
+      since Kirk’s death. Editor’s Note : A t a moment when the once vaunted model of
+      responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Max Blumenthal The editor-in-chief of The
+      Grayzone, Max Blumenthal is an award-winning journalist and the author of several
+      books, including best-selling Republican Gomorrah , Goliath , The Fifty One Day
+      War , and The Management of Savagery . He has produced print articles for an array
+      of publications, many video reports, and several documentaries, including Killing
+      Gaza . Blumenthal founded The Grayzone in 2015 to shine a journalistic light on
+      America’s state of perpetual war and its dangerous domestic repercussions. Author
+      Site Please share this story and help us grow our network!'
+    one_sentence_summary: Charlie Kirk's Turning Point USA campus in Phoenix, Arizona,
+      symbolizes the influence of wealthy donors in shaping a significant political
+      organization, reflecting its substantial financial resources and infrastructure.
+    paragraph_summary: Charlie Kirk, founder of Turning Point USA (TPUSA), has built
+      a significant political empire supported by wealthy donors, with the TPUSA campus
+      in Phoenix serving as a testament to this influence. The campus features buildings
+      named after major donors, including the Bill and Rebecca Dunn Freedom Center and
+      the Pearson Building, which was intended to honor tech mogul Robert Shillman,
+      a prominent supporter of right-wing causes. However, tensions have arisen as Kirk
+      has recently diverged from the traditional pro-Israel stance favored by some of
+      his donors, leading Shillman to reportedly cancel plans for the plaque commemorating
+      his support. This shift highlights the complexities and challenges within the
+      conservative movement regarding funding and ideological alignment.
+    published: '2025-09-24T11:44:40+00:00'
+  - title: Trump Claims Ukraine Can Retake All Territory Captured by Russia, May Be
+      Able to ‘Go Further’
+    url: https://scheerpost.com/2025/09/24/trump-claims-ukraine-can-retake-all-territory-captured-by-russia-may-be-able-to-go-further/
+    text: 'President Donald Trump delivers remarks at the American Cornerstone Institute
+      Founders’ Dinner, Saturday, September 20, 2025, at Mount Vernon, Virginia. (Official
+      White House Photo by Joyce N. Boghosian) In one of the scariest moments in modern
+      history, we''re doing our best at ScheerPost to pierce the fog of lies that conceal
+      it but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Dave DeCamp / Antiwar.com President Trump claimed on Tuesday that
+      Ukraine could retake all of the territory Russian forces have captured since the
+      February 2022 invasion and may be able to “go further,” suggesting he’s willing
+      to back the idea of a Ukrainian invasion of Russia. “After getting to know and
+      fully understand the Ukraine/Russia Military and Economic situation and, after
+      seeing the Economic trouble it is causing Russia, I think Ukraine, with the support
+      of the European Union, is in a position to fight and WIN all of Ukraine back in
+      its original form,” the president said in a long post on Truth Social. “With time,
+      patience, and the financial support of Europe and, in particular, NATO, the original
+      Borders from where this War started, is very much an option. Why not? Russia has
+      been fighting aimlessly for three and a half years a War that should have taken
+      a Real Military Power less than a week to win,” the president added. Trump said
+      that Russia looked like a “paper tiger” and that Ukraine was “getting better.”
+      His comments reflect the opinion of his special envoy for Ukraine, Keith Kellogg,
+      who recently claimed the US could “kick Russia’s ass” and insisted Ukraine could
+      win the war despite Russia’s continued gains in eastern Ukraine and its clear
+      manpower advantage. Trump said in his post that Ukraine could “be able to take
+      back their Country in its original form and, who knows, maybe even go further
+      than that!” The president also claimed that Russia and Putin were in “big” economic
+      trouble, though there’s no sign that threats of new US sanctions or tariffs will
+      have any impact on the war. “In any event, I wish both Countries well. We will
+      continue to supply weapons to NATO for NATO to do what they want with them. Good
+      luck to all!” the president said at the conclusion of his post. Trump’s comment
+      that the US will continue to supply “weapons to NATO” refers to the new initiative
+      under which US allies are providing the funds for US weapons that will be shipped
+      to Ukraine. Reuters reported last week that the Trump administration approved
+      the first weapons packages that will be drawn from US military stockpiles under
+      the initiative, known as the Prioritized Ukraine Requirements List (PURL). Trump
+      has justified his continued support for the proxy war, which he pledged to end
+      while on the campaign, by pointing to the fact that NATO countries are now funding
+      US weapons shipments. But the US recently approved a cruise missile deal for Ukraine
+      that will be partially funded by the US, and the Trump administration has continued
+      arms shipments that were previously approved by President Biden. Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Dave DeCamp Dave
+      DeCamp is the news editor of Antiwar.com, follow him on Twitter @decampdave. Author
+      Site Please share this story and help us grow our network!'
+    one_sentence_summary: President Trump expressed confidence that Ukraine could reclaim
+      all territory lost to Russia since the 2022 invasion and suggested the possibility
+      of a Ukrainian offensive into Russia, citing economic pressures on Russia as a
+      factor.
+    paragraph_summary: In a recent statement on Truth Social, President Donald Trump
+      expressed confidence in Ukraine's ability to reclaim all territory lost to Russian
+      forces since the February 2022 invasion, suggesting they might even advance into
+      Russia. He emphasized that with support from the European Union and NATO, Ukraine
+      could restore its original borders, criticizing Russia's prolonged military efforts
+      as ineffective. Trump characterized Russia as a "paper tiger" and noted that Ukraine
+      is improving militarily, echoing sentiments from his special envoy for Ukraine,
+      Keith Kellogg, who asserted that the U.S. could decisively defeat Russia. Despite
+      ongoing challenges in the conflict, Trump maintained that Russia is facing significant
+      economic difficulties.
+    published: '2025-09-24T11:38:00+00:00'
+  - title: Trump Claims Ukraine Can Retake All Territory Captured by Russia, May Be
+      Able to ‘Go Further’
+    url: https://scheerpost.com/2025/09/24/trump-claims-ukraine-can-retake-all-territory-captured-by-russia-may-be-able-to-go-further/
+    text: 'President Donald Trump delivers remarks at the American Cornerstone Institute
+      Founders’ Dinner, Saturday, September 20, 2025, at Mount Vernon, Virginia. (Official
+      White House Photo by Joyce N. Boghosian) In one of the scariest moments in modern
+      history, we''re doing our best at ScheerPost to pierce the fog of lies that conceal
+      it but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Dave DeCamp / Antiwar.com President Trump claimed on Tuesday that
+      Ukraine could retake all of the territory Russian forces have captured since the
+      February 2022 invasion and may be able to “go further,” suggesting he’s willing
+      to back the idea of a Ukrainian invasion of Russia. “After getting to know and
+      fully understand the Ukraine/Russia Military and Economic situation and, after
+      seeing the Economic trouble it is causing Russia, I think Ukraine, with the support
+      of the European Union, is in a position to fight and WIN all of Ukraine back in
+      its original form,” the president said in a long post on Truth Social. “With time,
+      patience, and the financial support of Europe and, in particular, NATO, the original
+      Borders from where this War started, is very much an option. Why not? Russia has
+      been fighting aimlessly for three and a half years a War that should have taken
+      a Real Military Power less than a week to win,” the president added. Trump said
+      that Russia looked like a “paper tiger” and that Ukraine was “getting better.”
+      His comments reflect the opinion of his special envoy for Ukraine, Keith Kellogg,
+      who recently claimed the US could “kick Russia’s ass” and insisted Ukraine could
+      win the war despite Russia’s continued gains in eastern Ukraine and its clear
+      manpower advantage. Trump said in his post that Ukraine could “be able to take
+      back their Country in its original form and, who knows, maybe even go further
+      than that!” The president also claimed that Russia and Putin were in “big” economic
+      trouble, though there’s no sign that threats of new US sanctions or tariffs will
+      have any impact on the war. “In any event, I wish both Countries well. We will
+      continue to supply weapons to NATO for NATO to do what they want with them. Good
+      luck to all!” the president said at the conclusion of his post. Trump’s comment
+      that the US will continue to supply “weapons to NATO” refers to the new initiative
+      under which US allies are providing the funds for US weapons that will be shipped
+      to Ukraine. Reuters reported last week that the Trump administration approved
+      the first weapons packages that will be drawn from US military stockpiles under
+      the initiative, known as the Prioritized Ukraine Requirements List (PURL). Trump
+      has justified his continued support for the proxy war, which he pledged to end
+      while on the campaign, by pointing to the fact that NATO countries are now funding
+      US weapons shipments. But the US recently approved a cruise missile deal for Ukraine
+      that will be partially funded by the US, and the Trump administration has continued
+      arms shipments that were previously approved by President Biden. Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Dave DeCamp Dave
+      DeCamp is the news editor of Antiwar.com, follow him on Twitter @decampdave. Author
+      Site Please share this story and help us grow our network!'
+    one_sentence_summary: President Trump expressed confidence that Ukraine could reclaim
+      all territory lost to Russia since the 2022 invasion and suggested the possibility
+      of a Ukrainian offensive into Russia, citing economic pressures on Russia as a
+      factor.
+    paragraph_summary: In a recent statement on Truth Social, President Donald Trump
+      expressed confidence in Ukraine's ability to reclaim all territory lost to Russian
+      forces since the February 2022 invasion, suggesting they might even advance into
+      Russia. He emphasized that with support from the European Union and NATO, Ukraine
+      could restore its original borders, criticizing Russia's prolonged military efforts
+      as ineffective. Trump characterized Russia as a "paper tiger" and noted that Ukraine
+      is improving militarily, echoing sentiments from his special envoy for Ukraine,
+      Keith Kellogg, who asserted that the U.S. could decisively defeat Russia. Despite
+      ongoing challenges in the conflict, Trump maintained that Russia is facing significant
+      economic difficulties.
+    published: '2025-09-24T11:38:00+00:00'
+  - title: Million-Strong General Strike Blocks Italy for Palestine
+    url: https://scheerpost.com/2025/09/24/million-strong-general-strike-blocks-italy-for-palestine/
+    text: 'September 2025 Italy general strike for Gaza RSM. Ukrain4Pal, CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Ana Vračar / Peoples Dispatch On September 22, approximately one
+      million people across Italy staged a general strike in support of Palestine and
+      the Global Sumud Flotilla, offering a vision of solidarity sharply at odds with
+      the one displayed by European leaders at the United Nations these days. Ports,
+      train stations, and major junctions were shut down as workers, many of whom members
+      of the grassroots union Unione Sindacale di Base (USB), brought the country to
+      a halt. In Rome alone, 300,000 demonstrators occupied the city’s main railway
+      hub before marching through the streets. “The call came from Genoa’s dockworkers,
+      and here we are: we’ve blocked everything,” the protesters proclaimed. Among those
+      leading the crowd were firefighters’ union representatives, who told il manifesto
+      : “First responders will never be complicit in genocide, and we are protesting
+      a government that is entrapping us in rearmament.” Port cities against arms trade
+      and genocide Earlier this month, as the Global Sumud Flotilla prepared to launch,
+      members of the dockworkers’ collective CALP in Genoa vowed to halt port operations
+      if Israel attacked or blocked the fleet. Weeks later, following continuous local
+      mobilizations and public assemblies, they made good on their promise. Thousands
+      shut down Genoa’s port from the early morning hours, joined by workers in the
+      strategic harbors of Trieste , Venice, and Livorno . Rallies erupted in Bologna,
+      Milan, Turin, Naples, across Sicily and Sardinia, and in dozens of other localities,
+      where teachers, parents, and students walked out of schools together, chanting
+      for a free Palestine. Speaking from the Genoa blockade, Marta Collot of the left
+      party Potere al Popolo stressed that the strike demonstrated concrete solidarity
+      with Palestinians, affirmed support for their legitimate resistance, and denounced
+      European complicity in genocide. “Embargo and sanctions: these must be our priorities,”
+      Collot said. Authorities responded to the massive mobilization with violence .
+      Police forces used water cannons against protesters demanding an end to Italy’s
+      arms trade with Israel and calling for severing all political and economic ties.
+      Despite growing public pressure, Giorgia Meloni’s government has refused to act
+      against Israel, instead continuing communications with Israeli officials and arms
+      deliveries through the state-linked company Leonardo . Only days before the strike,
+      Infrastructure and Transport Minister Matteo Salvini, leader of the far-right
+      Lega, appeared in an interview with Israeli media, in which he supported Israel’s
+      “right to build itself a serene future” as occupation forces inflicted even more
+      destruction upon Gaza City. In its campaign “to build a serene future,” Israel
+      has killed at least 65,000 Palestinians in Gaza, including over 1,000 health workers
+      and hundreds of journalists. While some government figures signaled mild unease
+      about recent attacks, Salvini set out his allegiance in very clear terms: “Defending
+      Israel’s right to exist is complicated right now, but friends are revealed in
+      the most difficult moments.” In some strike locations, protesters singled out
+      Salvini’s statements in their speeches. In Venice, they sent what they termed
+      a special message to “a special enemy,” insisting that their loyalty was with
+      Palestinians under attack and their energy committed to building international
+      solidarity. International solidarity is “alive and kicking” The mass character
+      of Monday’s strike likely shook much of Italy’s political class. In recent years,
+      the government had passed measures to restrict demonstrations and downplayed the
+      organizing capacity of trade unions and the left. Yet weeks of continuous protests
+      culminating in the general strike undermined these efforts. “Workers have returned
+      to center stage and are calling on citizens, all citizens, to stand up. They are
+      not doing so for a contract renewal but to demand justice for a distant and tormented
+      people,” USB declared on the day of the strike. “In this age of selfishness and
+      individualism, this seems unthinkable. But no, solidarity between peoples and
+      brotherhood beyond borders are not dead and buried values; on the contrary, they
+      are alive and kicking.” For Potere al Popolo’s Giuliano Granato, the strike also
+      captured broader anger. “Palestine has given a name to our discontent,” he told
+      Peoples Dispatch . “The outrage, protest, and anger over the massacre of the Palestinian
+      people has intersected with years of oppression, repression, and deteriorating
+      material conditions. For young people in particular, there is the absence of a
+      future, fear, and the awareness of living in societies where only the horrendously
+      rich and powerful have a say.” The momentum built by the strike is set to continue.
+      Italian dockworkers will host an international sectoral meeting on September 26–27,
+      bringing together trade unions capable of disrupting Europe’s arms flows to Israel.
+      National demonstrations in solidarity with Palestine are also planned for October
+      4, as eyes remain fixed on the Global Sumud Flotilla. If Israel attempts to stop
+      it, Italian workers have already shown they are ready to block the country – sending
+      a signal that could inspire others to organize along the same lines. Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Ana Vračar Ana
+      Vračar is an author at Peoples Dispatch. Author Site Please share this story and
+      help us grow our network!'
+    one_sentence_summary: On September 22, 2025, around one million people in Italy
+      participated in a general strike to support Palestine and the Global Sumud Flotilla,
+      significantly disrupting transportation and demonstrating solidarity in stark
+      contrast to the positions of European leaders at the UN.
+    paragraph_summary: On September 22, 2025, around one million people in Italy participated
+      in a general strike to support Palestine and the Global Sumud Flotilla, contrasting
+      sharply with the stance of European leaders at the UN. The strike, largely organized
+      by the grassroots union Unione Sindacale di Base (USB), resulted in the shutdown
+      of ports, train stations, and major transport hubs, with significant demonstrations
+      in cities like Rome, where 300,000 people gathered. The movement was initiated
+      by dockworkers in Genoa, who pledged to halt operations in response to potential
+      Israeli aggression against the flotilla. The protests included a diverse coalition
+      of workers, including firefighters, teachers, and students, all united in their
+      demand for a free Palestine and opposition to arms trade and genocide.
+    published: '2025-09-24T11:34:26+00:00'
+  - title: Million-Strong General Strike Blocks Italy for Palestine
+    url: https://scheerpost.com/2025/09/24/million-strong-general-strike-blocks-italy-for-palestine/
+    text: 'September 2025 Italy general strike for Gaza RSM. Ukrain4Pal, CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Ana Vračar / Peoples Dispatch On September 22, approximately one
+      million people across Italy staged a general strike in support of Palestine and
+      the Global Sumud Flotilla, offering a vision of solidarity sharply at odds with
+      the one displayed by European leaders at the United Nations these days. Ports,
+      train stations, and major junctions were shut down as workers, many of whom members
+      of the grassroots union Unione Sindacale di Base (USB), brought the country to
+      a halt. In Rome alone, 300,000 demonstrators occupied the city’s main railway
+      hub before marching through the streets. “The call came from Genoa’s dockworkers,
+      and here we are: we’ve blocked everything,” the protesters proclaimed. Among those
+      leading the crowd were firefighters’ union representatives, who told il manifesto
+      : “First responders will never be complicit in genocide, and we are protesting
+      a government that is entrapping us in rearmament.” Port cities against arms trade
+      and genocide Earlier this month, as the Global Sumud Flotilla prepared to launch,
+      members of the dockworkers’ collective CALP in Genoa vowed to halt port operations
+      if Israel attacked or blocked the fleet. Weeks later, following continuous local
+      mobilizations and public assemblies, they made good on their promise. Thousands
+      shut down Genoa’s port from the early morning hours, joined by workers in the
+      strategic harbors of Trieste , Venice, and Livorno . Rallies erupted in Bologna,
+      Milan, Turin, Naples, across Sicily and Sardinia, and in dozens of other localities,
+      where teachers, parents, and students walked out of schools together, chanting
+      for a free Palestine. Speaking from the Genoa blockade, Marta Collot of the left
+      party Potere al Popolo stressed that the strike demonstrated concrete solidarity
+      with Palestinians, affirmed support for their legitimate resistance, and denounced
+      European complicity in genocide. “Embargo and sanctions: these must be our priorities,”
+      Collot said. Authorities responded to the massive mobilization with violence .
+      Police forces used water cannons against protesters demanding an end to Italy’s
+      arms trade with Israel and calling for severing all political and economic ties.
+      Despite growing public pressure, Giorgia Meloni’s government has refused to act
+      against Israel, instead continuing communications with Israeli officials and arms
+      deliveries through the state-linked company Leonardo . Only days before the strike,
+      Infrastructure and Transport Minister Matteo Salvini, leader of the far-right
+      Lega, appeared in an interview with Israeli media, in which he supported Israel’s
+      “right to build itself a serene future” as occupation forces inflicted even more
+      destruction upon Gaza City. In its campaign “to build a serene future,” Israel
+      has killed at least 65,000 Palestinians in Gaza, including over 1,000 health workers
+      and hundreds of journalists. While some government figures signaled mild unease
+      about recent attacks, Salvini set out his allegiance in very clear terms: “Defending
+      Israel’s right to exist is complicated right now, but friends are revealed in
+      the most difficult moments.” In some strike locations, protesters singled out
+      Salvini’s statements in their speeches. In Venice, they sent what they termed
+      a special message to “a special enemy,” insisting that their loyalty was with
+      Palestinians under attack and their energy committed to building international
+      solidarity. International solidarity is “alive and kicking” The mass character
+      of Monday’s strike likely shook much of Italy’s political class. In recent years,
+      the government had passed measures to restrict demonstrations and downplayed the
+      organizing capacity of trade unions and the left. Yet weeks of continuous protests
+      culminating in the general strike undermined these efforts. “Workers have returned
+      to center stage and are calling on citizens, all citizens, to stand up. They are
+      not doing so for a contract renewal but to demand justice for a distant and tormented
+      people,” USB declared on the day of the strike. “In this age of selfishness and
+      individualism, this seems unthinkable. But no, solidarity between peoples and
+      brotherhood beyond borders are not dead and buried values; on the contrary, they
+      are alive and kicking.” For Potere al Popolo’s Giuliano Granato, the strike also
+      captured broader anger. “Palestine has given a name to our discontent,” he told
+      Peoples Dispatch . “The outrage, protest, and anger over the massacre of the Palestinian
+      people has intersected with years of oppression, repression, and deteriorating
+      material conditions. For young people in particular, there is the absence of a
+      future, fear, and the awareness of living in societies where only the horrendously
+      rich and powerful have a say.” The momentum built by the strike is set to continue.
+      Italian dockworkers will host an international sectoral meeting on September 26–27,
+      bringing together trade unions capable of disrupting Europe’s arms flows to Israel.
+      National demonstrations in solidarity with Palestine are also planned for October
+      4, as eyes remain fixed on the Global Sumud Flotilla. If Israel attempts to stop
+      it, Italian workers have already shown they are ready to block the country – sending
+      a signal that could inspire others to organize along the same lines. Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Ana Vračar Ana
+      Vračar is an author at Peoples Dispatch. Author Site Please share this story and
+      help us grow our network!'
+    one_sentence_summary: On September 22, 2025, around one million people in Italy
+      participated in a general strike to support Palestine and the Global Sumud Flotilla,
+      significantly disrupting transportation and demonstrating solidarity in stark
+      contrast to the positions of European leaders at the UN.
+    paragraph_summary: On September 22, 2025, around one million people in Italy participated
+      in a general strike to support Palestine and the Global Sumud Flotilla, contrasting
+      sharply with the stance of European leaders at the UN. The strike, largely organized
+      by the grassroots union Unione Sindacale di Base (USB), resulted in the shutdown
+      of ports, train stations, and major transport hubs, with significant demonstrations
+      in cities like Rome, where 300,000 people gathered. The movement was initiated
+      by dockworkers in Genoa, who pledged to halt operations in response to potential
+      Israeli aggression against the flotilla. The protests included a diverse coalition
+      of workers, including firefighters, teachers, and students, all united in their
+      demand for a free Palestine and opposition to arms trade and genocide.
+    published: '2025-09-24T11:34:26+00:00'
   - title: 'Trump Expands ‘Authoritarian’ Free Speech Crackdown, Calls Negative Media
       ‘Illegal’: Jameel Jaffer'
     url: https://scheerpost.com/2025/09/23/trump-expands-authoritarian-free-speech-crackdown-calls-negative-media-illegal-jameel-jaffer/

@@ -8,16 +8,1076 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  The global geopolitical landscape continues to be shaped by the intensifying economic and strategic contest between the United States and the emerging multipolar bloc led by China and Russia. Recent developments underscore a deepening rift, with U.S. policies under the Trump administration accelerating both internal economic challenges and external realignments.
+  The global geopolitical landscape continues to shift rapidly as the multipolar order consolidates, with the U.S. facing diminishing leverage over both adversaries and traditional allies. This trend is underscored by recent developments in economic policy, alliance realignment, and the deepening crisis within the U.S. domestic economy.
   
-  The latest reports highlight the fallout from the so-called "Great Soybean Divorce," as **Michael Hudson** details how Trump's trade wars, tariffs, and tax cuts are undermining key sectors of the U.S. economy—particularly agriculture and manufacturing. The imposition of tariffs has not only driven up consumer prices but also prompted China to decisively shift away from U.S. agricultural imports, especially soybeans. This move, according to Hudson, is emblematic of a broader trend: "Trump's economic policies are creating a crisis across multiple sectors," with American farmers and manufacturers bearing the brunt.
+  The most recent analyses highlight that the U.S. strategy of economic coercion—long the cornerstone of its global dominance—is losing effectiveness. As **Michael Hudson** notes, "countries now have more options to diversify their economic partnerships away from the US, reducing its leverage over allies and neutral states." This is evident in the growing willingness of states in Europe and Asia to seek alternatives, particularly through closer ties with BRICS and the Shanghai Cooperation Organization (SCO).
   
-  Simultaneously, the U.S. is doubling down on aggressive trade measures against traditional allies. As outlined in Hudson's recent analysis, Washington is compelling Japan, South Korea, and European nations to invest in the U.S. economy, often at the expense of their own industries. This strategy, while designed to bolster U.S. industrial capacity, is alienating these allies and pushing them closer to the BRICS and Shanghai Cooperation Organization (SCO) frameworks. These blocs are rapidly consolidating an alternative economic system centered on mutual cooperation and reduced dependence on the U.S. dollar.
+  On the economic front, the consequences of the Trump administration’s aggressive tariffs and protectionist measures are becoming increasingly apparent. **Michael Hudson** argues that these policies are "undermining U.S. agriculture, manufacturing, consumer prices, and affordable housing, creating a crisis across multiple sectors." The imposition of tariffs on allies such as Japan, South Korea, and Europe has not only strained diplomatic relations but is also compelling these nations to invest in the U.S. under unfavorable terms, further alienating them and accelerating their pivot towards multipolar institutions.
   
-  The broader context is one of accelerating multipolarity. The SCO and BRICS meetings over the past weeks have signaled a clear intent among Global Majority countries to establish independent trade, monetary, and military systems. This realignment is not merely reactive but strategic, as nations seek to insulate themselves from what they perceive as U.S. economic aggression.
+  Meanwhile, the recent SCO and BRICS meetings have reinforced the emergence of a robust alternative to U.S.-led systems. Major powers like China, Russia, and India are actively building new frameworks for trade, investment, and security cooperation, which are increasingly attractive to countries seeking to reduce their dependency on the U.S. dollar and American markets.
   
-  Looking forward, the trends are clear. There is a high chance—indeed, I guarantee—that the U.S. will continue to experience economic strain from its current policy trajectory, with further erosion of its traditional alliances. At the same time, the alternative bloc led by China and Russia will most definitely strengthen its internal economic ties and expand its influence, accelerating the transition to a multipolar world order. The coming months are likely to see further decoupling between the U.S. and its former partners, with global economic governance increasingly contested between two rival systems.
+  Looking ahead, the prevailing consensus among analysts is that the multipolar trend will intensify. There is high confidence that U.S. efforts to maintain dominance through economic pressure will continue to backfire, driving more states into the orbit of alternative blocs. As **Michael Hudson** concludes, "the shift from a unipolar to a multipolar world has altered the dynamics of US economic coercion," and this realignment is most definitely set to accelerate in the coming months.
 articles:
+  - title: 'The Fascist Protection Racket: Tribute States'
+    url: https://michael-hudson.com/2025/09/the-fascist-protection-racket-tribute-states/
+    text: '⁣GLENN DIESEN: Hi everyone and welcome back. I’m very pleased today to be
+      joined again by Michael Hudson, professor of political economy, to discuss US
+      economic coercion against allies. So welcome back to the program. ⁣MICHAEL HUDSON:
+      It’s good to be back Glenn. ⁣GLENN DIESEN: So there is this interesting development.
+      I mean my thesis is that in the unipolar era, states that followed the US would
+      be rewarded, and those who did not could be punished – because there were no alternatives.
+      Now in the multipolar order, the game appears to change – at least the rules of
+      the game. That is, opponents of the United States, and also neutral states who
+      don’t want to ally too closely, have the option of diversifying their economic
+      partnerships, and thus any effort to pressure them simply results in an incentive
+      to diversify more – away from the United States. In other words the US doesn’t
+      really have that much advantage as we see vis-à-vis China or Russia. In contrast,
+      I think we see allies of the US who are worried about the rise of other great
+      powers and have hitched their wagons completely to the US. They seem more prepared
+      to sacrifice even their own economic interests to preserve the US’s leading position,
+      but also their own ties and connections with the US. This puts the US in a very
+      favorable position. It can take advantage of this subordination of allies. The
+      US can then also sever them from other centers of powers to extract – be it political
+      security or economic concessions. So, I guess my point is: it seems that the U.S.
+      has an advantage in having an economic war against allies. And it’s through this
+      that I found an article of yours I recently read very interesting. You compare
+      some of the things the United States is doing today to the policies of Britain
+      and France in the 19th century. I was wondering if you could flesh out your arguments.
+      ⁣MICHAEL HUDSON: Well, I want to take issue from the start with your use of the
+      word opponents of the United States. I guess you’re referring to the BRICS, China,
+      Russia, Iran, and the other countries that are meeting. In all of their announcements
+      that their presidents and representatives made at these meetings, there wasn’t
+      a word about the United States as an opponent, or in fact, there was no mention
+      of the United States at all. They look at themselves as being under attack by
+      the United States, much as the United States is indeed treating Europe. They’re
+      not trying to retaliate against the United States; they’re trying to defend themselves
+      against Trump’s demands that he’s making on these countries. And the demands he’s
+      making are the same for the BRICS as they are for Britain, for the European countries,
+      for Japan. And in fact, right now, in Korea, you have discussions. Even Korea,
+      one of the U.S. allies that the United States would like to drain, is standing
+      up. The United States threatened Korea, like Japan, saying, if you don’t lend
+      $350 billion to the United States to be handled by me, President Trump, to decide
+      how to spend it (and you’ll get 10% of the earnings, if there are any, and we
+      get 90%) – If you don’t do that, we’re going to raise tariffs on you and create
+      a crisis. And you’ll have unemployment, and that’ll lead voters to vote against
+      you. And, you know, we’ll create a crisis. Just the other day, the U.S. Commerce
+      Secretary, Howard Lutnik, told the Koreans bluntly, quoted in yesterday’s Financial
+      Times: “The Japanese signed a contract, $350 billion. The Koreans either accept
+      the deal or pay the tariffs, black and white. Pay the tariffs or accept the deal.”
+      Well, that’s just what he’s told Europe. The question is, what makes Europe different
+      from the BRICS countries that are trying to make an alternative, saying, “Well,
+      all right; Trump is threatening to deprive our export industries of access to
+      the United States market. If we agree to his demands, it’s going to cost us more
+      money to just pay tribute to the United States in what’s really a protection racket.
+      ‘Either pay us money and accept our import duties and our demands for you to dismantle
+      your industry and invest here, or we’ll raise tariffs and cause a crisis for you.’”
+      Same demand is made all over. And you asked, why is the United States making,
+      you know, this demand on Europe specifically? The demand’s exactly the same. Europe
+      is giving up –  won’t say Europe, certainly not its voters, but the European leaders,
+      basically NATO leaders. In the EU, foreign ministers have made a decision that
+      they’d rather live in the short run, like politicians do, and not have destruction
+      of their industry than live in the long run. They have a choice. The choice was
+      made before 2022 when they essentially agreed to blow up the North Sea pipeline
+      – or let the United States blow it up– and depend completely on the U.S. for oil.
+      They said, “Well, at least we can depend on the United States”. That’s what Ursula
+      von der Leyen said. “We can depend on the United States.” And yet Trump has made
+      it clear, most recently yesterday in Britain, when he said: If you do any move
+      that is at the cost of American industry, for instance, in information technology,
+      imposing minimum taxes against U.S. information technology companies, like Europe’s
+      doing, I, we, will simply raise tariffs on you. Trump can raise tariffs, and of
+      course, Europe has already tried to stand up  to this, but von der Leyen, who
+      was doing the negotiation, never even tried to fight back. She said: Well, at
+      least we can depend on Trump never to change his mind or change the deal. At least
+      we have certainty. Well, that’s crazy. There was no certainty at all. And so Europe
+      doesn’t have it. Europe had two choices. The choice before 2022 was to have a
+      balanced and basically independent economy as long as its industrial economy was
+      symbiotic with Russia as a raw material supplier of oil, gas, fertilizer, and
+      other basic materials. The advantage of this for Europe was that Europe, Russia,
+      and China and the BRICS are the growing part of the world economy. The U.S. is
+      a shrinking part of the EU economy. Trump’s policies are actually destroying U.S.
+      agriculture, U.S. industry. It’s making the United States uninvestable. Companies
+      are closing down now. The profits are going down because of the [cost of]  imports,
+      especially on steel and aluminum. So you think, why on earth would Europe agree
+      to tie its long-term fortunes to the United States and lose its domestic self-sufficiency
+      and self-reliance (that it had as long as it had free access, open access, to
+      Russian raw materials and energy) to energy that costs five or six times as much.
+      Once this independence is lost, it loses the option that the BRICS countries have
+      taken by saying, “Well, we’re willing to lose the U.S. market because that’s a
+      shrinking market over time. There will be a cost in the short term, but that cost
+      is less than having to pay $350 billion in the shakedown fee to the United States
+      just to keep our short-term market open. The U.S. market is not worth $350 billion,
+      either to Japan or Korea. Each of these countries could have paid $350,000 to
+      subsidize their own exporters so that they could afford to cope with the tariffs.
+      They didn’t do it. Japan just surrendered. Korea right now is refusing to surrender.
+      And yesterday, its foreign minister team was in China trying to say: “Isn’t there
+      some way that we could… Suppose we lose the American market. We’re  faced with
+      a demand that we can’t possibly meet. We may walk away from them. What deal could
+      we make with you and your Asian neighbors in order for us to have our own self-reliant,
+      individual geographic system of self-sufficiency so that we’re immune from the
+      kind of threats that the United States is making? Well, Europe has not made itself
+      immune from these threats. Part of this is military. Again and again, the leaders
+      of Germany and France, as well as Britain, have said, well, we need America’s
+      support in case Russia mounts a land invasion and is willing to sacrifice 20 million
+      of its soldiers trying to march across Europe to the British Isles. Well, this
+      is crazy. This is a parallel universe threat. It has no basis in reality because
+      no country, no industrial country in today’s world, can afford a military infantry
+      invasion of any other country. Because not only would masses of soldiers die,
+      but such a country, if it tried to impose a draft, would be thrown out of office
+      right away. So you have Europe’s policymakers essentially acting on behalf of
+      NATO, which is controlled by the United States instead of on behalf of their own
+      voters. And you have the public relations polls showing that the voters don’t
+      want war in Ukraine. The voters don’t want their social spending in Europe to
+      be cut back in order to spend the limited budgets on military instead of on domestic
+      things. So it’s not a question of the United States focusing its demands on the
+      BRICS. Its demands are across the board. They’re the same for every country. Either
+      we’ll close off our markets or you have to pay us money not to disrupt your economy
+      and cause at least temporary short-term chaos. Other countries are protecting
+      themselves from chaos. Britain is not protecting itself from chaos. That’s the
+      basic problem that I see. ⁣GLENN DIESEN: Well, I think a lot of it is tied, as
+      you suggested, to the war in Ukraine, because when the Cold War came to an end,
+      the Europeans became less dependent on the U.S. as a security provider (given
+      that the Cold War was finished). We saw that the main objectives in Europe were
+      that of autonomy. They were speaking of using collective bargaining power to have
+      an economic position that would make them an equal to the United States. The Europeans,
+      even immediately in 1992, as the Soviet Union had just collapsed a month or two
+      thereafter, began to discuss how we can develop our own military. Obviously, there
+      was no threat, but this was also an effort to have more autonomy. They wanted
+      their own foreign policy and to pursue this as well; that is, a collective EU
+      foreign policy. So this is what you can do when the dominant state can’t convert
+      security dependence into economic loyalty. But what you’ve seen since the Ukraine
+      war, though, when the external threats appear and the security dependence becomes
+      evident, it’s quite predictable that the dominant power, the security provider,
+      will then seek to extract economic and political concessions from its vassals
+      or protectorates. And so I don’t know, from my perspective, this has been a key
+      argument of mine since NATO started the conflict in Ukraine with the coup in 2014:
+      Europe is putting itself in a very vulnerable position because the US, you know,
+      it keeps saying friends and allies, which is nice and well. I mean, we are close
+      and we should be close, but states behave like states. And when you make yourself
+      excessively dependent on another state, it will seek to have some material benefits
+      from this. But you mentioned that the conquest of Europe as it is… ⁣MICHAEL HUDSON:
+      Before you go on, you used the word security provider. That’s quite a euphemism.
+      The United States is imposing unparalleled insecurity on Europe because you have
+      Germany and France and Britain offering to provide long-range missiles to Ukraine
+      in order to use against Russia and to launch against Russia, especially Moscow
+      and St. (And the U.S., the European leaders, say, like Starmer yesterday, they
+      want to bomb Russia) Petersburg – that are in range of these missiles that are
+      to be sent. Well, both President Putin and Foreign Minister Lavrov have said:
+      if a foreign missile is launched by Ukraine against Russia, we realize that our
+      fight is not against Ukraine. Our fight is against NATO. This is a war between
+      NATO and Russia. And if a bomb comes from a German manufactory, then we’re going
+      to bomb the source. We’re going to bomb Germany, at least the factory in Germany,
+      maybe the power plants that supply energy to this factory. Same thing in France,
+      same thing in Britain. Now, the question is: once you have intercontinental missiles
+      flying from Russia, Russia doesn’t need atomic weapons. It has a much broader
+      range of weapons than NATO countries have. And these weapons are not atomic. And
+      the NATO countries themselves are pretty much out of weaponry. They’ve given them
+      all to Ukraine and to Israel. And any thought of actually engaging in war, it
+      is such a fantasy that it would be like Bambi meets Goliath. Russia would respond
+      very quickly. And the result is because of the belligerence of von der Leyen and
+      the Estonian assistant Kellas, this is putting Europe in insecurity and in great
+      military danger. There’s no danger at all from an armed military infantry invasion.
+      And without a military invasion, you can’t control and gain control over another
+      country. That’s what Russia is doing now in Ukraine. And you see the enormous
+      problems that it has, even in Ukraine. What countries can do in the democratic
+      form of war is by missiles, simply to destroy the other countries. Wars, the modern
+      post-World War II, a modern type of war, is mutual destruction by missile, by
+      air, whether it’s from submarines or land-based missiles. That’s the kind of war
+      and hence insecurity that Europe is going to have. So not only is Europe’s plan
+      to sort of have a bastardized Keynesianism and military Keynesianism of, well,
+      let’s spend our money on military industry, and that will maybe create the employment
+      that we’ve lost in our civilian industry as a result of having to depend on American
+      gas and oil instead of Russian gas and oil. But it’s going to threaten the actual
+      existence of the European countries. Russia has made it clear that it has no interest
+      in taking over Europe. It wants to be simply left alone. And Europe is obeying
+      the United States, not simply in these tariff demands and the givebacks that Trump
+      is making, but in a much deeper connection of following the U.S. Cold War, now
+      increasingly hot war, leadership. That’s what’s essentially bankrupting Europe.
+      It’s joined a new military axis that is in no way militarily capable of taking
+      on Russia. And I think your military guests on your show have made this very clear
+      over the last few months. And the question is: why is it that Europe’s leaders,
+      political leaders who are in charge of committing Europe, able to make this choice
+      on behalf of their whole nations in the face of the public’s voters saying, you
+      know, we want Europe to stand up for itself, to be more nationalistic. And if
+      the social democratic and Christian parties are the pro-war military parties that
+      are basically accepting our dependence on the United States and are giving up
+      our hopes for growth by trade with Asia, Central Asia, South Asia, North Asia,
+      East Asia, then we’re going to support a nationalistic opposition when there are
+      elections. Well, unfortunately, there are no full national elections coming up,
+      either for Germany or for France shortly or for England. And so you see the problem
+      that Europe is stuck with – a U.S. client leadership, not its own leadership.
+      And this U.S.centered leadership is backed by a U.S. centered neoliberal mass
+      media, the press, the television. The whole context, the whole narrative of economic
+      development is twisted in Europe. They actually think that Ukraine has a chance
+      to win, according to Starmer and Mertz and Macron. And there’s no chance of it
+      winning. They think that the war is somehow leading to a Russian collapse. But
+      Russia is self-sufficient. There’s no way that Russia can collapse from foreign
+      sanctions any more than China or its allies can collapse from American sanctions
+      because they’re self-sufficient. Europe had this self-sufficiency before. It’s
+      given it all up in exchange for dependency, not realizing that the cost of dependency,
+      when you have an American leader such as Donald Trump acting on behalf of American
+      large businesses and monopolies, and most of all, the military-industrial complex,
+      is going to make demands that basically bankrupt Europe and reverse its GDP growth,
+      reverse its living standards and impose austerity on it. ⁣GLENN DIESEN: Well,
+      the problem though is that when political leadership doesn’t pursue its basic
+      economic national interests and subordinates itself in the way the Europeans are,
+      you would expect a vacuum to emerge that is being filled by actors who would actually
+      pursue national interest. And this is the problem because if you have leaders
+      subordinating themselves, they might actually end up killing democracy as well
+      because they will want to seek to prevent that vacuum to be filled by people who
+      actually respond to public interest. So in Germany you have IFD, which is now
+      the most popular political party, and they want to restore the peace with Russia.
+      But they label them an extremist organization. They’re discussing banning it.
+      In France, I guess the closest you would have would be Le Pen, but she was arrested.
+      As everyone knows, the presidential election in Romania went the wrong way, so
+      they just cancelled the result. And I was reading Politico today, actually;  they’re
+      having an election in the Czech Republic, and they might get a new prime minister.
+      But Andrei Bavi is the one who is leading the polls. They might block him from
+      being allowed to be prime minister because, and Politico cites one of the two
+      major reasons is, he has an ambiguous relationship with NATO. He is not clearly
+      supportive. But we did this to Ukraine too. When Zelensky won on that peace platform
+      back in 2019, which 73% of Ukrainians voted for, many of the NATO countries’ financed
+      NGOs drew a red line and essentially threatened Zelensky to abandon this idea.
+      He wasn’t allowed to talk peace with Russia without having NATO in the room. So
+      you have this when you have a political elite which doesn’t pursue national interest
+      and they prevent anyone from filling the vacuum left behind by their incompetence.
+      You’re going to kill democracy at some point, though. ⁣MICHAEL HUDSON: That’s
+      what has happened not only regarding Russia, but regarding Israel. If you make
+      the claim that you’re against Nazism; if you make the claim that you’re against
+      treating any national ethnic religion as being physically subhuman and a different
+      species; if you say that everybody’s a human being; we’re the same species, you
+      can’t have genocide, that’s a crime in Germany because you’re saying that the
+      Palestinians are human beings. That’s a crime in Germany because the Palestinians,
+      well, I don’t have to explain that. If you say in Ukraine that the Slavs, the
+      Russian speakers, are not subhumans, that’s a crime. You’re having a resurgence
+      of Nazism sweeping across Europe, centered in Germany as it was before. And the
+      result is that all of Europe has joined with Germany to say, let’s refight World
+      War II in the belief that they can win this time. And I think part of this illusion
+      is a whole generation of Europeans has grown up not only on American movies, but
+      on a false idea of who fought World War II. The two main fighters of World War
+      II were Russia, which lost 22 million people, and China, which lost 18 million
+      people. This is far more than the Westerners, the Europeans and Americans, lost.
+      It was the Russians who broke the Wehrmacht strength, and it was China that broke
+      Japan’s strength that began in 1931 with Japan’s takeover of Manchuria. The Europeans
+      imagine that somehow they, really the Americans won World War II. And all the
+      Americans did was pretty much put them on rations. It charged for the effort.
+      They came in at the end. They very quickly ended World War II in Japan by using
+      the atom bomb in Japan before the Russians had a chance to drive the Japanese
+      out and lead to a communist domination of Japan. The same thing happened in Western
+      Europe. The Americans delayed and delayed and delayed. The Americans wanted the
+      European war to continue as long as it could, as long as it was killing Russians
+      and Japanese. This is how the Russian historians see the war. It’s how Chinese
+      historians see the war. That’s not how the Europeans see the war. They think,
+      well, we beat Russia before with American help. We can do it again with American
+      help. In this way, just as we carved up the Near East after World War II and Africa
+      between France, Germany, France, England, and the United States, we can do it
+      all again. There’s this myth that has somehow created a false narrative guiding
+      how Europeans think about what they can achieve in the future. And it’s a false
+      narrative that is almost suicidally self-deceptive. ⁣GLENN DIESEN: Well, on that
+      fact, and it has to be stressed, is a fact that the Russians and the Chinese,
+      or more correctly, the Soviets and the Chinese, were the ones who did the heavy
+      burden, carried the heavy burden in terms of defeating fascism. But recently you
+      have Kaja Kalas, the EU foreign policy chief, mocking it, saying, “Oh, these Chinese
+      and Russians, they’re claiming that they defeated fascism. Oh, they don’t read
+      books over there.” I’m not sure, I think she watches a lot of movies, perhaps,
+      as well, thinking maybe World War II was won by Tom Hanks. I’m not sure where
+      her information comes from, but she even mocked the idea in front of the camera
+      that this was the case. ⁣MICHAEL HUDSON: In our minds, there’s a different set
+      of books. There’s one set of books for the majority of the world population. The
+      German history books, the French history books, and the American, the English
+      history books have all been rewritten in a more and more extreme distortion of
+      what actually happened. ⁣GLENN DIESEN: But there’s been polls over the decades
+      since World War II from France and other countries where they ask, you know: who
+      cared the greatest? Well, who more or less did the most to liberate France and
+      save Europe from fascism? Immediately after World War II in France, I think it’s
+      like 85, 90% who said, well, obviously it was the Soviets. Then you see through
+      the decades of powerful propaganda, it ends up now, the most recent one, with
+      a tiny minority. I think it’s like 18 or 21% who believed it’s the Soviet Union
+      who did the most to defeat Nazi Germany. So propaganda works. You just tell the
+      same stories over and over again, and after a while, people buy it. And now we’re
+      told that, well, World War II was actually caused by both the fascist and the
+      Soviet Union. And it was the freedom and loving states of the West that beat fascism.
+      I mean, it’s quite an extraordinary tale. ⁣MICHAEL HUDSON: Well, that’s a false
+      way of framing it. Was Europe saved from fascism? If you look at Europe today,
+      it was not saved from fascism. If Europe was saved; it was for Fascism. Fascism
+      was rescued by the United States almost immediately. The United States immediately
+      hired the main Nazi bureaucracy and put them to work fighting the left wing. You
+      had Operation Galatio in Italy. You have the terrorism organized by the CIA and
+      American foreign policy. And the United States hired the Ukrainian fascists, the
+      Nazis, to organize a  Ukrainian nationalist movement. The United States saved
+      fascism from being defeated by Europe. Fascism was America’s response to socialism
+      and a working class movement. Aldo Morrow was killed in Italy. European politicians
+      were killed, just as Lumumba was killed in Africa, and Pinochet killed Allende
+      in Chile. You had political assassination. You have a whole extension through
+      America’s National Endowment for Democracy of creating non-governmental organizations
+      that have acted as funding processes to bring what you can only call fascist leaders
+      to Europe. Mertz is a fascist. There’s no other word for it. And you could say,
+      the same as Kallas; you could say, the same as von der Leyen with her Nazi background
+      family. Was Europe saved for fascism? And if so, why is there a resurgence of
+      fascism today – of supporting ethnic genocide in countries that the United States
+      declares is necessary for its control of various regions of the world? This is
+      really the fight. You’re quite right in pointing to the crackdown on civil rights,
+      on free speech. That’s fascism. You’re seeing the same kind of takeover in the
+      United States in the last week or so, just by Donald Trump – imposing a new epoch
+      of McCarthyism, like the 1950s – attacking what he calls the left as if somehow
+      the left was in charge of assassinating Charlie Kirk. You’re having something
+      political occur from Europe to the United States that I don’t think anyone at
+      the end of World War II, in the whole optimism of that time, was believing – that
+      because they defeated Germany and Italy, they defeated fascism. The fact is that
+      this brought back the class war between American dominance and oligarchy – and
+      socialism, to put labels on it. And that fight has gone on. There’s this ongoing
+      fight against socialism and against democracy. The movement of Europe has not
+      been towards democracy. It’s been away from it. It’s been towards dependence on
+      an increasingly undemocratic imperialism and even dictatorship by U.S. neocons
+      and neoliberals that are trying to push for a refight of World War II – against
+      Russia and China this time. And just as they (Russia and China) won, they were
+      able to end up defeating fascism, whether it’s German or Japanese, in World War
+      II. The same thing would happen today, but the fight is going to be much more
+      violent and fought by missiles, not by infantry. ⁣GLENN DIESEN: Yeah, this idea
+      that the U.S. wouldn’t have worked or supported fascists, that this was only an
+      anti fascist alliance, is kind of interesting because – I just looked it up here–
+      a quote by Harry Truman before he took the presidency said, “If we see that Germany
+      is winning, we ought to help Russia. And if Russia is winning, we ought to help
+      Germany.” In that way, let them kill as many as possible. And towards the end
+      of the Second World War, we also had the British who then developed this plan
+      called Operation Unthinkable, developed in May of 1945 when the war was coming
+      to an end, which entailed not just the US and Britain, but also using what remained
+      of the fascist army to attack, do a surprise attack on the Soviet Union immediately
+      after the common victory. But you know, give this 80 years of Hollywood, and we
+      have a very different story. I did want to shift a bit back towards the economic
+      conquest, if you will, of allies, because we mentioned the Europeans, but the
+      U.S. also has some, I guess, loyal allies in East Asia. I’m thinking of Korea,
+      Japan, and Taiwan, each of them also have strong, well, let’s call it security
+      dependence on the United States. How is the US trying to, I guess, put a squeeze
+      on these, well, two countries and one island, let’s say? ⁣MICHAEL HUDSON: Well,
+      again, the word “security dependence” is a euphemism. It’s Orwellian doublethink.
+      Japan has talked about rearming, and it’s even talking about perhaps becoming
+      an atomic power again. If Japan rearms, this is going to immediately lead China
+      to defend itself. Japan’s already met a devastating loss in World War II. There’s
+      no way in which Japan can be a real military threat to anyone. Certainly, the
+      North Koreans, like the South Koreans, have no love for Japan at all because of
+      its brutal occupation of Korea for so many generations. There’s almost a hatred
+      of Japan there via the Liberal Democratic Party being installed by the United
+      States as America’s compact with the Japanese Yakuzas, the criminals. MacArthur
+      in Japan and the U.S. State Department made deals with the criminals to go and
+      beat up, attack the socialist demonstrations. There was a chance of socialism
+      in Japan after World War II, a reaction by the Japanese. The American alternative
+      was to make Japan basically a largely criminalized mafia-like oligarchy controlled
+      by the LDP. Well, the recent elections now are for the first time threatening
+      to dethrone the pro-U.S. Liberal Democratic Party and put in a more nationalist
+      party. All nationalism means, it doesn’t mean the Japanese nationalism of the
+      1930s, military style. It means independence from the United States. The aim is
+      not to put Japan at risk of any kind of war again. Well, again, Japan is host
+      of the U.S. military bases. A few weeks ago, you had China’s great military demonstration
+      very explicitly showing missiles that they pointed out: This missile can hit Guam,
+      America’s military outpost in the West, the Pacific. It can hit the other Japanese
+      military outposts. So it’s not that Japan’s risking its security. The same thing
+      with Taiwan. There’s a very heavy Taiwanese investment in mainland China. There
+      already is a kind of economic symbiosis between the two countries, but the United
+      States is trying to drive a wedge in that. The Chinese have said, you know, if
+      for any reason you’re able to co-opt the Taiwanese leaders in the way that you’ve
+      co-opted, say, the European leaders, we’re going to hit down very hard. And it’ll
+      be no contest. Your naval fleet are just sitting ducks. Your naval power that
+      helped win World War II is no longer an active military tool because we can wipe
+      them out in one day. The entire Navy. Navies are obsolete as the tool for control
+      which they were for so many centuries when Britain had the greatest Navy in the
+      world. The whole idea of navies for Britain was to deal with economic development
+      around the seacoast. That was because Britain was promoting foreign trade and
+      inter-commercial interdependence among countries. Well, China has tried to counteract
+      this whole McKinley type strategy of controlling the periphery of continents by
+      trade. China is developing internal connections through the Belt and Road Initiative
+      with railways, pipelines, highways, all sorts of interconnections. So the whole
+      vehicles of foreign trade are now becoming more inland and domestic. What that
+      does is create domestic regional spheres of influence and self-dependency to become
+      independent. The effects of the United States demands, that it’s made on everyone
+      from Europe to Asia to Latin America, are so overreaching that they’ve created
+      a reaction against the whole last two centuries of liberalism that saw foreign
+      trade and interconnections as a, I won’t say a rules-based order, but an economic
+      order of stability. You have these interconnections now being weaponized. Trump
+      has weaponized foreign trade, both foreign access to the U.S. market for European
+      and other exporters, and the ability to import basic needs that the United States
+      controls, headed by oil and also agriculture, and now by high technology electronics,
+      trying to create, trying to weaponize all this trade to create a form of dependency
+      that the United States can use as a demand: We will destabilize your economy if
+      you don’t give in to our demands. The real reason, going back to your first question
+      again – why is the United States treating Europe that way and trying to treat
+      the BRICS countries the same way? That’s because the United States is no longer
+      industrialized. It’s deindustrialized. It’s made all this growth of wealth since
+      2008, the junk mortgage crisis, the stock, bond, and real estate markets. It’s
+      financial wealth. It’s not the wealth of real production. It’s not the wealth
+      of living standards. Living standards have not risen for more than half of Americans
+      since 2008. It’s all been so concentrated in the wealthiest 10% that the wealthiest
+      10% of Americans are responsible for 50% of all the growth in consumption goods.
+      But of course, the consumption goods of the wealthy, wealthiest 10%, are not the
+      same kind of consumer goods that the bottom 90% buy– food and basic needs. They’re
+      luxuries, they’re Andy Warhol etchings, and they’re trophies and Italian fashions.
+      All of this was, way back in the 17th century, 18th century, was being debated
+      and realizing that the financial sector does not really behave like an industrial
+      sector. We’re seeing a whole transformation in the dynamics of what capitalism
+      is all about, what economies are all about. Well, you and I have talked about
+      that before – all of that has a political dimension. The political dimension means
+      that if America is to avoid an even deeper squeeze on its living standards today,
+      it has to get support from other countries – to get from them the wealth and the
+      imports and the money and the subsidies to keep its economy going that its domestic
+      economy can no longer provide. So the United States has lost its ability to be
+      self-sufficient, and its response to Europe is to destroy Europe’s ability to
+      be economically and commercially and financially self-sufficient. While the BRICS,
+      Asia, now in conjunction with the Global South, Africa, parts of Latin America,
+      are putting their own self-sufficiency as a chief economic aim so that they will
+      not become subject to the U.S. browbeating and extortion and the threats of disrupting
+      their economies. If you insulate your economy from the United States, there’s
+      nothing it can do to you to impose sanctions or to raise tariffs or to weaponize
+      its import and export trade and financial trade. ⁣GLENN DIESEN: Well, this is
+      why the whole U.S. led alliance system has changed so fundamentally. Because after
+      World War II, the United States actually had some extremely generous trade agreements
+      with frontline states, be it Germany or all the Europeans for that sake, or South
+      Korea, Taiwan, Japan. So it’s just in this era… All countries are now faced with
+      a dilemma as the US is seeking to extract concessions. That is, either they fall
+      into the demands, but by doing so, of course, they have to sever themselves off
+      from other countries and then isolate themselves more, make themselves more dependent
+      on the US, or they seek full autonomy by actually diversifying. But then they
+      have to lean more into BRICS, SEA and similar institutions. But there’s not that
+      many middle grounds anymore. I think that’s why the US overreach with India was
+      so spectacular, because the assumption was they could make Europeans out of them
+      in terms of their cutting themselves off from all other centers of power, subordinating
+      themselves to the US and signing whatever they put in front of them. It turned
+      out that they had to go the other way. But the fact that Modi had to go to China
+      kind of pointed out, from my perspective, this dilemma that there is no middle
+      ground anymore. Either you have to subordinate yourself or you have to protect
+      yourself by diversifying, but then you have to lean into the multipolar institutions.
+      So it’s a fascinating time. It’s an interesting social experiment as well for
+      that sake. I’m not sure if you have any final thoughts before we wrap up. ⁣MICHAEL
+      HUDSON: Only the countries that America defeated in World War II have turned into
+      surrender monkeys. Japan has become an abject victim of the Stockholm Syndrome.
+      And of course, Germany. They’re the two countries that have given in. And the
+      other great opponent of the United States in World War II was, of course, Britain.
+      The British loan of 1944 and the trade agreements that you just mentioned that
+      were favorable to other countries were aimed specifically at breaking up the British
+      Empire. By opening international markets, they ended British imperial preference.
+      That meant that all of the foreign exchange, the earnings made by India and Argentina
+      and other global south raw materials exporters, were no longer required to be
+      spent within the British Empire, but could be spent anywhere. Well, Britain’s
+      economy was destroyed, and so that meant free to be spent in the United States.
+      Trade agreements were made, it’s true, with Germany, with European countries.
+      Of course, the United States favored the trade there because the European companies
+      were being bought out by American multinational firms. What was supported above
+      all in Europe were the international firms. That’s exactly what the fight is this
+      week, in the last month, by Trump against England and the EU. Today’s Financial
+      Times has a whole wonderful article: Britain must stand up to U.S. pressure on
+      tech rules. This is about the digital services tax of Europe. Europe at least
+      is trying to impose a digital services tax on American technology firms because
+      they’ve been able to use Hollywood accounting to avoid having to pay income taxes
+      there. And Trump has told England, Britain, if you try to stand up to us and impose
+      your digital services tax on American companies or try to limit what my contributors
+      in Silicon Valley want to do, we’re going to raise tariffs on you again, despite
+      the agreement we made last spring. Well, if he can say it to Britain, he can certainly
+      say it to the EU. He made it very clear to the EU that if anything the EU does
+      that is at the cost of American firms, as long as these multinationals contribute
+      to Trump’s Republican campaign and his personal campaign and invest personally
+      in his cryptocurrency scams and the other scams, he’ll just squeeze these, tighten
+      the screws onbthese countries. So that’s basically what’s been happening there.
+      I guess that’s my final thought. Europe has succumbed to giving all of the diplomatic,
+      trade, commercial, and financial initiative to U.S. planners who are not making
+      open-ended trade and financial agreements that benefit all countries. But as Trump
+      said, the United States has to be the winner in any deal that it’s making with
+      foreign countries. And that’s why the United States is not making international
+      deals anymore. Trump says, we’re going to make deals on a country-by-country basis.
+      We’re going to divide and conquer. It worked for Britain for a couple of centuries.
+      It’ll work for us. And as long as we can play different countries against each
+      other, and it’s us, the U.S. economy versus much smaller individual economies,
+      they’d rather hang separately. As long as we can make them willing to hang separately
+      instead of hanging together, then we’ve won the diplomatic fight for control.
+      ⁣GLENN DIESEN: Yeah, well, I think the fault of the Europeans is that they think
+      they should just wait out Trump as if this is only about Trump. I mean, I think
+      he’s quite extreme and radical in his approach in terms of recognizing a problem
+      and seeking to solve it. But I think the alternatives, well, the Bidens of the
+      world, wouldn’t necessarily go in a very different direction. Of course, it might
+      be a bit milder, but the overarching problem isn’t, I mean, we tend to focus on
+      personalities, but what is the end stage? I mean, how else is this ex-capitalist
+      system, being so exhausted – what else is it going to do? I mean the U.S.– if
+      it can’t compete anymore. It’s losing the technological lead; it’s drowning in
+      debt; there are massive economic inequalities fueling social and political problems.
+      I mean, one sees that this has reached the end of the line. There are no more
+      ways to deal with the coming financial crisis. You can’t put the interest rate
+      down or up. As either it’s going to collapse the dollar or it’s going to make
+      the debt repayment unmanageable. So, it is a brick wall, it seems. I think Trump
+      deals with this in a, let’s say, a very authoritarian way. But the idea that we
+      can just go back to the way things were, I think this is quite delusional. It’s
+      wishful thinking. ⁣MICHAEL HUDSON: Well, that’s the whole problem, Glenn. You
+      put your finger on it. The way things were, the way things are today is not how
+      they were in 1945. There was still an active left wing in Europe. There was a
+      chance of Europe going socialist in a mixed economy. And certainly, the British
+      Labour Party in the 1940s was progressive like that. There were progressive movements
+      throughout Europe. All of that was counteracted by the United States to prevent
+      that. And you had the old European moneyed aristocracy fighting against this,
+      pushing essentially for neoliberalism, for a dismantling of government strong
+      enough to regulate the financial oligarchies that were emerging and making fortunes
+      on a mutual interdependency with American multinational firms and multinational
+      investments. And the whole world economy was restructured in U.S.-centric lines
+      that have led to this problem. So in order for Europe to prosper again, it needs
+      to rethink the whole direction of history. And of course, that’s what you and
+      I have been talking about for the last few months. They have to reinvent the economic
+      wheel to analyze: how do we create a mixed economy that’s going to promote growth,
+      rising living standards, and industry instead of creating financial fortunes American
+      style that’s leading to our deindustrialization, just as it’s led to America’s
+      deindustrialization. How do we end up avoiding looking like the United States?
+      What is China doing right in its takeoff that really is following the very policies
+      that made Britain and Germany and the United States industrial powers in the late
+      19th century? ⁣GLENN DIESEN: Well, that’s an interesting part when they, the way
+      that China’s capitalism is defined as managed capitalism, all these strange words,
+      which, but if you look at it, it’s very, very similar to the industrial capitalism
+      of the U.S. itself in the 19th century. But yes, Michael Hudson, as always, thank
+      you so much for sharing your insights. And I will leave a link to your blog in
+      the description as well. So thank you again. ⁣MICHAEL HUDSON: Thank you very much,
+      Glenn, for the compliments. Transcription and Diarization: hudsearch Editing:
+      Roslyn Bologh Review: ced Photo by Barbara Burgess on Unsplash The post The Fascist
+      Protection Racket: Tribute States first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion between Glenn Diesen and Michael Hudson, they
+      explore how the shift from a unipolar to a multipolar world has altered the dynamics
+      of US economic coercion, suggesting that countries now have more options to diversify
+      their economic partnerships away from the US, reducing its leverage over allies
+      and neutral states.
+    paragraph_summary: In a discussion between Glenn Diesen and Michael Hudson, the
+      focus is on the shifting dynamics of U.S. economic coercion in a multipolar world.
+      Diesen argues that while the U.S. previously rewarded allies and punished non-compliant
+      states in a unipolar era, the current landscape allows countries to diversify
+      their economic partnerships, diminishing U.S. leverage. He notes that U.S. allies,
+      concerned about the rise of powers like China and Russia, may prioritize their
+      ties with the U.S. over their own economic interests, which could benefit the
+      U.S. in extracting concessions. Hudson challenges the framing of states as "opponents"
+      of the U.S. and suggests that the U.S. is employing tactics reminiscent of 19th-century
+      British and French policies to maintain its dominance and influence over allies
+      and neutral states alike.
+    published: '2025-09-24T21:25:17+00:00'
+  - title: 'The Fascist Protection Racket: Tribute States'
+    url: https://michael-hudson.com/2025/09/the-fascist-protection-racket-tribute-states/
+    text: '⁣GLENN DIESEN: Hi everyone and welcome back. I’m very pleased today to be
+      joined again by Michael Hudson, professor of political economy, to discuss US
+      economic coercion against allies. So welcome back to the program. ⁣MICHAEL HUDSON:
+      It’s good to be back Glenn. ⁣GLENN DIESEN: So there is this interesting development.
+      I mean my thesis is that in the unipolar era, states that followed the US would
+      be rewarded, and those who did not could be punished – because there were no alternatives.
+      Now in the multipolar order, the game appears to change – at least the rules of
+      the game. That is, opponents of the United States, and also neutral states who
+      don’t want to ally too closely, have the option of diversifying their economic
+      partnerships, and thus any effort to pressure them simply results in an incentive
+      to diversify more – away from the United States. In other words the US doesn’t
+      really have that much advantage as we see vis-à-vis China or Russia. In contrast,
+      I think we see allies of the US who are worried about the rise of other great
+      powers and have hitched their wagons completely to the US. They seem more prepared
+      to sacrifice even their own economic interests to preserve the US’s leading position,
+      but also their own ties and connections with the US. This puts the US in a very
+      favorable position. It can take advantage of this subordination of allies. The
+      US can then also sever them from other centers of powers to extract – be it political
+      security or economic concessions. So, I guess my point is: it seems that the U.S.
+      has an advantage in having an economic war against allies. And it’s through this
+      that I found an article of yours I recently read very interesting. You compare
+      some of the things the United States is doing today to the policies of Britain
+      and France in the 19th century. I was wondering if you could flesh out your arguments.
+      ⁣MICHAEL HUDSON: Well, I want to take issue from the start with your use of the
+      word opponents of the United States. I guess you’re referring to the BRICS, China,
+      Russia, Iran, and the other countries that are meeting. In all of their announcements
+      that their presidents and representatives made at these meetings, there wasn’t
+      a word about the United States as an opponent, or in fact, there was no mention
+      of the United States at all. They look at themselves as being under attack by
+      the United States, much as the United States is indeed treating Europe. They’re
+      not trying to retaliate against the United States; they’re trying to defend themselves
+      against Trump’s demands that he’s making on these countries. And the demands he’s
+      making are the same for the BRICS as they are for Britain, for the European countries,
+      for Japan. And in fact, right now, in Korea, you have discussions. Even Korea,
+      one of the U.S. allies that the United States would like to drain, is standing
+      up. The United States threatened Korea, like Japan, saying, if you don’t lend
+      $350 billion to the United States to be handled by me, President Trump, to decide
+      how to spend it (and you’ll get 10% of the earnings, if there are any, and we
+      get 90%) – If you don’t do that, we’re going to raise tariffs on you and create
+      a crisis. And you’ll have unemployment, and that’ll lead voters to vote against
+      you. And, you know, we’ll create a crisis. Just the other day, the U.S. Commerce
+      Secretary, Howard Lutnik, told the Koreans bluntly, quoted in yesterday’s Financial
+      Times: “The Japanese signed a contract, $350 billion. The Koreans either accept
+      the deal or pay the tariffs, black and white. Pay the tariffs or accept the deal.”
+      Well, that’s just what he’s told Europe. The question is, what makes Europe different
+      from the BRICS countries that are trying to make an alternative, saying, “Well,
+      all right; Trump is threatening to deprive our export industries of access to
+      the United States market. If we agree to his demands, it’s going to cost us more
+      money to just pay tribute to the United States in what’s really a protection racket.
+      ‘Either pay us money and accept our import duties and our demands for you to dismantle
+      your industry and invest here, or we’ll raise tariffs and cause a crisis for you.’”
+      Same demand is made all over. And you asked, why is the United States making,
+      you know, this demand on Europe specifically? The demand’s exactly the same. Europe
+      is giving up –  won’t say Europe, certainly not its voters, but the European leaders,
+      basically NATO leaders. In the EU, foreign ministers have made a decision that
+      they’d rather live in the short run, like politicians do, and not have destruction
+      of their industry than live in the long run. They have a choice. The choice was
+      made before 2022 when they essentially agreed to blow up the North Sea pipeline
+      – or let the United States blow it up– and depend completely on the U.S. for oil.
+      They said, “Well, at least we can depend on the United States”. That’s what Ursula
+      von der Leyen said. “We can depend on the United States.” And yet Trump has made
+      it clear, most recently yesterday in Britain, when he said: If you do any move
+      that is at the cost of American industry, for instance, in information technology,
+      imposing minimum taxes against U.S. information technology companies, like Europe’s
+      doing, I, we, will simply raise tariffs on you. Trump can raise tariffs, and of
+      course, Europe has already tried to stand up  to this, but von der Leyen, who
+      was doing the negotiation, never even tried to fight back. She said: Well, at
+      least we can depend on Trump never to change his mind or change the deal. At least
+      we have certainty. Well, that’s crazy. There was no certainty at all. And so Europe
+      doesn’t have it. Europe had two choices. The choice before 2022 was to have a
+      balanced and basically independent economy as long as its industrial economy was
+      symbiotic with Russia as a raw material supplier of oil, gas, fertilizer, and
+      other basic materials. The advantage of this for Europe was that Europe, Russia,
+      and China and the BRICS are the growing part of the world economy. The U.S. is
+      a shrinking part of the EU economy. Trump’s policies are actually destroying U.S.
+      agriculture, U.S. industry. It’s making the United States uninvestable. Companies
+      are closing down now. The profits are going down because of the [cost of]  imports,
+      especially on steel and aluminum. So you think, why on earth would Europe agree
+      to tie its long-term fortunes to the United States and lose its domestic self-sufficiency
+      and self-reliance (that it had as long as it had free access, open access, to
+      Russian raw materials and energy) to energy that costs five or six times as much.
+      Once this independence is lost, it loses the option that the BRICS countries have
+      taken by saying, “Well, we’re willing to lose the U.S. market because that’s a
+      shrinking market over time. There will be a cost in the short term, but that cost
+      is less than having to pay $350 billion in the shakedown fee to the United States
+      just to keep our short-term market open. The U.S. market is not worth $350 billion,
+      either to Japan or Korea. Each of these countries could have paid $350,000 to
+      subsidize their own exporters so that they could afford to cope with the tariffs.
+      They didn’t do it. Japan just surrendered. Korea right now is refusing to surrender.
+      And yesterday, its foreign minister team was in China trying to say: “Isn’t there
+      some way that we could… Suppose we lose the American market. We’re  faced with
+      a demand that we can’t possibly meet. We may walk away from them. What deal could
+      we make with you and your Asian neighbors in order for us to have our own self-reliant,
+      individual geographic system of self-sufficiency so that we’re immune from the
+      kind of threats that the United States is making? Well, Europe has not made itself
+      immune from these threats. Part of this is military. Again and again, the leaders
+      of Germany and France, as well as Britain, have said, well, we need America’s
+      support in case Russia mounts a land invasion and is willing to sacrifice 20 million
+      of its soldiers trying to march across Europe to the British Isles. Well, this
+      is crazy. This is a parallel universe threat. It has no basis in reality because
+      no country, no industrial country in today’s world, can afford a military infantry
+      invasion of any other country. Because not only would masses of soldiers die,
+      but such a country, if it tried to impose a draft, would be thrown out of office
+      right away. So you have Europe’s policymakers essentially acting on behalf of
+      NATO, which is controlled by the United States instead of on behalf of their own
+      voters. And you have the public relations polls showing that the voters don’t
+      want war in Ukraine. The voters don’t want their social spending in Europe to
+      be cut back in order to spend the limited budgets on military instead of on domestic
+      things. So it’s not a question of the United States focusing its demands on the
+      BRICS. Its demands are across the board. They’re the same for every country. Either
+      we’ll close off our markets or you have to pay us money not to disrupt your economy
+      and cause at least temporary short-term chaos. Other countries are protecting
+      themselves from chaos. Britain is not protecting itself from chaos. That’s the
+      basic problem that I see. ⁣GLENN DIESEN: Well, I think a lot of it is tied, as
+      you suggested, to the war in Ukraine, because when the Cold War came to an end,
+      the Europeans became less dependent on the U.S. as a security provider (given
+      that the Cold War was finished). We saw that the main objectives in Europe were
+      that of autonomy. They were speaking of using collective bargaining power to have
+      an economic position that would make them an equal to the United States. The Europeans,
+      even immediately in 1992, as the Soviet Union had just collapsed a month or two
+      thereafter, began to discuss how we can develop our own military. Obviously, there
+      was no threat, but this was also an effort to have more autonomy. They wanted
+      their own foreign policy and to pursue this as well; that is, a collective EU
+      foreign policy. So this is what you can do when the dominant state can’t convert
+      security dependence into economic loyalty. But what you’ve seen since the Ukraine
+      war, though, when the external threats appear and the security dependence becomes
+      evident, it’s quite predictable that the dominant power, the security provider,
+      will then seek to extract economic and political concessions from its vassals
+      or protectorates. And so I don’t know, from my perspective, this has been a key
+      argument of mine since NATO started the conflict in Ukraine with the coup in 2014:
+      Europe is putting itself in a very vulnerable position because the US, you know,
+      it keeps saying friends and allies, which is nice and well. I mean, we are close
+      and we should be close, but states behave like states. And when you make yourself
+      excessively dependent on another state, it will seek to have some material benefits
+      from this. But you mentioned that the conquest of Europe as it is… ⁣MICHAEL HUDSON:
+      Before you go on, you used the word security provider. That’s quite a euphemism.
+      The United States is imposing unparalleled insecurity on Europe because you have
+      Germany and France and Britain offering to provide long-range missiles to Ukraine
+      in order to use against Russia and to launch against Russia, especially Moscow
+      and St. (And the U.S., the European leaders, say, like Starmer yesterday, they
+      want to bomb Russia) Petersburg – that are in range of these missiles that are
+      to be sent. Well, both President Putin and Foreign Minister Lavrov have said:
+      if a foreign missile is launched by Ukraine against Russia, we realize that our
+      fight is not against Ukraine. Our fight is against NATO. This is a war between
+      NATO and Russia. And if a bomb comes from a German manufactory, then we’re going
+      to bomb the source. We’re going to bomb Germany, at least the factory in Germany,
+      maybe the power plants that supply energy to this factory. Same thing in France,
+      same thing in Britain. Now, the question is: once you have intercontinental missiles
+      flying from Russia, Russia doesn’t need atomic weapons. It has a much broader
+      range of weapons than NATO countries have. And these weapons are not atomic. And
+      the NATO countries themselves are pretty much out of weaponry. They’ve given them
+      all to Ukraine and to Israel. And any thought of actually engaging in war, it
+      is such a fantasy that it would be like Bambi meets Goliath. Russia would respond
+      very quickly. And the result is because of the belligerence of von der Leyen and
+      the Estonian assistant Kellas, this is putting Europe in insecurity and in great
+      military danger. There’s no danger at all from an armed military infantry invasion.
+      And without a military invasion, you can’t control and gain control over another
+      country. That’s what Russia is doing now in Ukraine. And you see the enormous
+      problems that it has, even in Ukraine. What countries can do in the democratic
+      form of war is by missiles, simply to destroy the other countries. Wars, the modern
+      post-World War II, a modern type of war, is mutual destruction by missile, by
+      air, whether it’s from submarines or land-based missiles. That’s the kind of war
+      and hence insecurity that Europe is going to have. So not only is Europe’s plan
+      to sort of have a bastardized Keynesianism and military Keynesianism of, well,
+      let’s spend our money on military industry, and that will maybe create the employment
+      that we’ve lost in our civilian industry as a result of having to depend on American
+      gas and oil instead of Russian gas and oil. But it’s going to threaten the actual
+      existence of the European countries. Russia has made it clear that it has no interest
+      in taking over Europe. It wants to be simply left alone. And Europe is obeying
+      the United States, not simply in these tariff demands and the givebacks that Trump
+      is making, but in a much deeper connection of following the U.S. Cold War, now
+      increasingly hot war, leadership. That’s what’s essentially bankrupting Europe.
+      It’s joined a new military axis that is in no way militarily capable of taking
+      on Russia. And I think your military guests on your show have made this very clear
+      over the last few months. And the question is: why is it that Europe’s leaders,
+      political leaders who are in charge of committing Europe, able to make this choice
+      on behalf of their whole nations in the face of the public’s voters saying, you
+      know, we want Europe to stand up for itself, to be more nationalistic. And if
+      the social democratic and Christian parties are the pro-war military parties that
+      are basically accepting our dependence on the United States and are giving up
+      our hopes for growth by trade with Asia, Central Asia, South Asia, North Asia,
+      East Asia, then we’re going to support a nationalistic opposition when there are
+      elections. Well, unfortunately, there are no full national elections coming up,
+      either for Germany or for France shortly or for England. And so you see the problem
+      that Europe is stuck with – a U.S. client leadership, not its own leadership.
+      And this U.S.centered leadership is backed by a U.S. centered neoliberal mass
+      media, the press, the television. The whole context, the whole narrative of economic
+      development is twisted in Europe. They actually think that Ukraine has a chance
+      to win, according to Starmer and Mertz and Macron. And there’s no chance of it
+      winning. They think that the war is somehow leading to a Russian collapse. But
+      Russia is self-sufficient. There’s no way that Russia can collapse from foreign
+      sanctions any more than China or its allies can collapse from American sanctions
+      because they’re self-sufficient. Europe had this self-sufficiency before. It’s
+      given it all up in exchange for dependency, not realizing that the cost of dependency,
+      when you have an American leader such as Donald Trump acting on behalf of American
+      large businesses and monopolies, and most of all, the military-industrial complex,
+      is going to make demands that basically bankrupt Europe and reverse its GDP growth,
+      reverse its living standards and impose austerity on it. ⁣GLENN DIESEN: Well,
+      the problem though is that when political leadership doesn’t pursue its basic
+      economic national interests and subordinates itself in the way the Europeans are,
+      you would expect a vacuum to emerge that is being filled by actors who would actually
+      pursue national interest. And this is the problem because if you have leaders
+      subordinating themselves, they might actually end up killing democracy as well
+      because they will want to seek to prevent that vacuum to be filled by people who
+      actually respond to public interest. So in Germany you have IFD, which is now
+      the most popular political party, and they want to restore the peace with Russia.
+      But they label them an extremist organization. They’re discussing banning it.
+      In France, I guess the closest you would have would be Le Pen, but she was arrested.
+      As everyone knows, the presidential election in Romania went the wrong way, so
+      they just cancelled the result. And I was reading Politico today, actually;  they’re
+      having an election in the Czech Republic, and they might get a new prime minister.
+      But Andrei Bavi is the one who is leading the polls. They might block him from
+      being allowed to be prime minister because, and Politico cites one of the two
+      major reasons is, he has an ambiguous relationship with NATO. He is not clearly
+      supportive. But we did this to Ukraine too. When Zelensky won on that peace platform
+      back in 2019, which 73% of Ukrainians voted for, many of the NATO countries’ financed
+      NGOs drew a red line and essentially threatened Zelensky to abandon this idea.
+      He wasn’t allowed to talk peace with Russia without having NATO in the room. So
+      you have this when you have a political elite which doesn’t pursue national interest
+      and they prevent anyone from filling the vacuum left behind by their incompetence.
+      You’re going to kill democracy at some point, though. ⁣MICHAEL HUDSON: That’s
+      what has happened not only regarding Russia, but regarding Israel. If you make
+      the claim that you’re against Nazism; if you make the claim that you’re against
+      treating any national ethnic religion as being physically subhuman and a different
+      species; if you say that everybody’s a human being; we’re the same species, you
+      can’t have genocide, that’s a crime in Germany because you’re saying that the
+      Palestinians are human beings. That’s a crime in Germany because the Palestinians,
+      well, I don’t have to explain that. If you say in Ukraine that the Slavs, the
+      Russian speakers, are not subhumans, that’s a crime. You’re having a resurgence
+      of Nazism sweeping across Europe, centered in Germany as it was before. And the
+      result is that all of Europe has joined with Germany to say, let’s refight World
+      War II in the belief that they can win this time. And I think part of this illusion
+      is a whole generation of Europeans has grown up not only on American movies, but
+      on a false idea of who fought World War II. The two main fighters of World War
+      II were Russia, which lost 22 million people, and China, which lost 18 million
+      people. This is far more than the Westerners, the Europeans and Americans, lost.
+      It was the Russians who broke the Wehrmacht strength, and it was China that broke
+      Japan’s strength that began in 1931 with Japan’s takeover of Manchuria. The Europeans
+      imagine that somehow they, really the Americans won World War II. And all the
+      Americans did was pretty much put them on rations. It charged for the effort.
+      They came in at the end. They very quickly ended World War II in Japan by using
+      the atom bomb in Japan before the Russians had a chance to drive the Japanese
+      out and lead to a communist domination of Japan. The same thing happened in Western
+      Europe. The Americans delayed and delayed and delayed. The Americans wanted the
+      European war to continue as long as it could, as long as it was killing Russians
+      and Japanese. This is how the Russian historians see the war. It’s how Chinese
+      historians see the war. That’s not how the Europeans see the war. They think,
+      well, we beat Russia before with American help. We can do it again with American
+      help. In this way, just as we carved up the Near East after World War II and Africa
+      between France, Germany, France, England, and the United States, we can do it
+      all again. There’s this myth that has somehow created a false narrative guiding
+      how Europeans think about what they can achieve in the future. And it’s a false
+      narrative that is almost suicidally self-deceptive. ⁣GLENN DIESEN: Well, on that
+      fact, and it has to be stressed, is a fact that the Russians and the Chinese,
+      or more correctly, the Soviets and the Chinese, were the ones who did the heavy
+      burden, carried the heavy burden in terms of defeating fascism. But recently you
+      have Kaja Kalas, the EU foreign policy chief, mocking it, saying, “Oh, these Chinese
+      and Russians, they’re claiming that they defeated fascism. Oh, they don’t read
+      books over there.” I’m not sure, I think she watches a lot of movies, perhaps,
+      as well, thinking maybe World War II was won by Tom Hanks. I’m not sure where
+      her information comes from, but she even mocked the idea in front of the camera
+      that this was the case. ⁣MICHAEL HUDSON: In our minds, there’s a different set
+      of books. There’s one set of books for the majority of the world population. The
+      German history books, the French history books, and the American, the English
+      history books have all been rewritten in a more and more extreme distortion of
+      what actually happened. ⁣GLENN DIESEN: But there’s been polls over the decades
+      since World War II from France and other countries where they ask, you know: who
+      cared the greatest? Well, who more or less did the most to liberate France and
+      save Europe from fascism? Immediately after World War II in France, I think it’s
+      like 85, 90% who said, well, obviously it was the Soviets. Then you see through
+      the decades of powerful propaganda, it ends up now, the most recent one, with
+      a tiny minority. I think it’s like 18 or 21% who believed it’s the Soviet Union
+      who did the most to defeat Nazi Germany. So propaganda works. You just tell the
+      same stories over and over again, and after a while, people buy it. And now we’re
+      told that, well, World War II was actually caused by both the fascist and the
+      Soviet Union. And it was the freedom and loving states of the West that beat fascism.
+      I mean, it’s quite an extraordinary tale. ⁣MICHAEL HUDSON: Well, that’s a false
+      way of framing it. Was Europe saved from fascism? If you look at Europe today,
+      it was not saved from fascism. If Europe was saved; it was for Fascism. Fascism
+      was rescued by the United States almost immediately. The United States immediately
+      hired the main Nazi bureaucracy and put them to work fighting the left wing. You
+      had Operation Galatio in Italy. You have the terrorism organized by the CIA and
+      American foreign policy. And the United States hired the Ukrainian fascists, the
+      Nazis, to organize a  Ukrainian nationalist movement. The United States saved
+      fascism from being defeated by Europe. Fascism was America’s response to socialism
+      and a working class movement. Aldo Morrow was killed in Italy. European politicians
+      were killed, just as Lumumba was killed in Africa, and Pinochet killed Allende
+      in Chile. You had political assassination. You have a whole extension through
+      America’s National Endowment for Democracy of creating non-governmental organizations
+      that have acted as funding processes to bring what you can only call fascist leaders
+      to Europe. Mertz is a fascist. There’s no other word for it. And you could say,
+      the same as Kallas; you could say, the same as von der Leyen with her Nazi background
+      family. Was Europe saved for fascism? And if so, why is there a resurgence of
+      fascism today – of supporting ethnic genocide in countries that the United States
+      declares is necessary for its control of various regions of the world? This is
+      really the fight. You’re quite right in pointing to the crackdown on civil rights,
+      on free speech. That’s fascism. You’re seeing the same kind of takeover in the
+      United States in the last week or so, just by Donald Trump – imposing a new epoch
+      of McCarthyism, like the 1950s – attacking what he calls the left as if somehow
+      the left was in charge of assassinating Charlie Kirk. You’re having something
+      political occur from Europe to the United States that I don’t think anyone at
+      the end of World War II, in the whole optimism of that time, was believing – that
+      because they defeated Germany and Italy, they defeated fascism. The fact is that
+      this brought back the class war between American dominance and oligarchy – and
+      socialism, to put labels on it. And that fight has gone on. There’s this ongoing
+      fight against socialism and against democracy. The movement of Europe has not
+      been towards democracy. It’s been away from it. It’s been towards dependence on
+      an increasingly undemocratic imperialism and even dictatorship by U.S. neocons
+      and neoliberals that are trying to push for a refight of World War II – against
+      Russia and China this time. And just as they (Russia and China) won, they were
+      able to end up defeating fascism, whether it’s German or Japanese, in World War
+      II. The same thing would happen today, but the fight is going to be much more
+      violent and fought by missiles, not by infantry. ⁣GLENN DIESEN: Yeah, this idea
+      that the U.S. wouldn’t have worked or supported fascists, that this was only an
+      anti fascist alliance, is kind of interesting because – I just looked it up here–
+      a quote by Harry Truman before he took the presidency said, “If we see that Germany
+      is winning, we ought to help Russia. And if Russia is winning, we ought to help
+      Germany.” In that way, let them kill as many as possible. And towards the end
+      of the Second World War, we also had the British who then developed this plan
+      called Operation Unthinkable, developed in May of 1945 when the war was coming
+      to an end, which entailed not just the US and Britain, but also using what remained
+      of the fascist army to attack, do a surprise attack on the Soviet Union immediately
+      after the common victory. But you know, give this 80 years of Hollywood, and we
+      have a very different story. I did want to shift a bit back towards the economic
+      conquest, if you will, of allies, because we mentioned the Europeans, but the
+      U.S. also has some, I guess, loyal allies in East Asia. I’m thinking of Korea,
+      Japan, and Taiwan, each of them also have strong, well, let’s call it security
+      dependence on the United States. How is the US trying to, I guess, put a squeeze
+      on these, well, two countries and one island, let’s say? ⁣MICHAEL HUDSON: Well,
+      again, the word “security dependence” is a euphemism. It’s Orwellian doublethink.
+      Japan has talked about rearming, and it’s even talking about perhaps becoming
+      an atomic power again. If Japan rearms, this is going to immediately lead China
+      to defend itself. Japan’s already met a devastating loss in World War II. There’s
+      no way in which Japan can be a real military threat to anyone. Certainly, the
+      North Koreans, like the South Koreans, have no love for Japan at all because of
+      its brutal occupation of Korea for so many generations. There’s almost a hatred
+      of Japan there via the Liberal Democratic Party being installed by the United
+      States as America’s compact with the Japanese Yakuzas, the criminals. MacArthur
+      in Japan and the U.S. State Department made deals with the criminals to go and
+      beat up, attack the socialist demonstrations. There was a chance of socialism
+      in Japan after World War II, a reaction by the Japanese. The American alternative
+      was to make Japan basically a largely criminalized mafia-like oligarchy controlled
+      by the LDP. Well, the recent elections now are for the first time threatening
+      to dethrone the pro-U.S. Liberal Democratic Party and put in a more nationalist
+      party. All nationalism means, it doesn’t mean the Japanese nationalism of the
+      1930s, military style. It means independence from the United States. The aim is
+      not to put Japan at risk of any kind of war again. Well, again, Japan is host
+      of the U.S. military bases. A few weeks ago, you had China’s great military demonstration
+      very explicitly showing missiles that they pointed out: This missile can hit Guam,
+      America’s military outpost in the West, the Pacific. It can hit the other Japanese
+      military outposts. So it’s not that Japan’s risking its security. The same thing
+      with Taiwan. There’s a very heavy Taiwanese investment in mainland China. There
+      already is a kind of economic symbiosis between the two countries, but the United
+      States is trying to drive a wedge in that. The Chinese have said, you know, if
+      for any reason you’re able to co-opt the Taiwanese leaders in the way that you’ve
+      co-opted, say, the European leaders, we’re going to hit down very hard. And it’ll
+      be no contest. Your naval fleet are just sitting ducks. Your naval power that
+      helped win World War II is no longer an active military tool because we can wipe
+      them out in one day. The entire Navy. Navies are obsolete as the tool for control
+      which they were for so many centuries when Britain had the greatest Navy in the
+      world. The whole idea of navies for Britain was to deal with economic development
+      around the seacoast. That was because Britain was promoting foreign trade and
+      inter-commercial interdependence among countries. Well, China has tried to counteract
+      this whole McKinley type strategy of controlling the periphery of continents by
+      trade. China is developing internal connections through the Belt and Road Initiative
+      with railways, pipelines, highways, all sorts of interconnections. So the whole
+      vehicles of foreign trade are now becoming more inland and domestic. What that
+      does is create domestic regional spheres of influence and self-dependency to become
+      independent. The effects of the United States demands, that it’s made on everyone
+      from Europe to Asia to Latin America, are so overreaching that they’ve created
+      a reaction against the whole last two centuries of liberalism that saw foreign
+      trade and interconnections as a, I won’t say a rules-based order, but an economic
+      order of stability. You have these interconnections now being weaponized. Trump
+      has weaponized foreign trade, both foreign access to the U.S. market for European
+      and other exporters, and the ability to import basic needs that the United States
+      controls, headed by oil and also agriculture, and now by high technology electronics,
+      trying to create, trying to weaponize all this trade to create a form of dependency
+      that the United States can use as a demand: We will destabilize your economy if
+      you don’t give in to our demands. The real reason, going back to your first question
+      again – why is the United States treating Europe that way and trying to treat
+      the BRICS countries the same way? That’s because the United States is no longer
+      industrialized. It’s deindustrialized. It’s made all this growth of wealth since
+      2008, the junk mortgage crisis, the stock, bond, and real estate markets. It’s
+      financial wealth. It’s not the wealth of real production. It’s not the wealth
+      of living standards. Living standards have not risen for more than half of Americans
+      since 2008. It’s all been so concentrated in the wealthiest 10% that the wealthiest
+      10% of Americans are responsible for 50% of all the growth in consumption goods.
+      But of course, the consumption goods of the wealthy, wealthiest 10%, are not the
+      same kind of consumer goods that the bottom 90% buy– food and basic needs. They’re
+      luxuries, they’re Andy Warhol etchings, and they’re trophies and Italian fashions.
+      All of this was, way back in the 17th century, 18th century, was being debated
+      and realizing that the financial sector does not really behave like an industrial
+      sector. We’re seeing a whole transformation in the dynamics of what capitalism
+      is all about, what economies are all about. Well, you and I have talked about
+      that before – all of that has a political dimension. The political dimension means
+      that if America is to avoid an even deeper squeeze on its living standards today,
+      it has to get support from other countries – to get from them the wealth and the
+      imports and the money and the subsidies to keep its economy going that its domestic
+      economy can no longer provide. So the United States has lost its ability to be
+      self-sufficient, and its response to Europe is to destroy Europe’s ability to
+      be economically and commercially and financially self-sufficient. While the BRICS,
+      Asia, now in conjunction with the Global South, Africa, parts of Latin America,
+      are putting their own self-sufficiency as a chief economic aim so that they will
+      not become subject to the U.S. browbeating and extortion and the threats of disrupting
+      their economies. If you insulate your economy from the United States, there’s
+      nothing it can do to you to impose sanctions or to raise tariffs or to weaponize
+      its import and export trade and financial trade. ⁣GLENN DIESEN: Well, this is
+      why the whole U.S. led alliance system has changed so fundamentally. Because after
+      World War II, the United States actually had some extremely generous trade agreements
+      with frontline states, be it Germany or all the Europeans for that sake, or South
+      Korea, Taiwan, Japan. So it’s just in this era… All countries are now faced with
+      a dilemma as the US is seeking to extract concessions. That is, either they fall
+      into the demands, but by doing so, of course, they have to sever themselves off
+      from other countries and then isolate themselves more, make themselves more dependent
+      on the US, or they seek full autonomy by actually diversifying. But then they
+      have to lean more into BRICS, SEA and similar institutions. But there’s not that
+      many middle grounds anymore. I think that’s why the US overreach with India was
+      so spectacular, because the assumption was they could make Europeans out of them
+      in terms of their cutting themselves off from all other centers of power, subordinating
+      themselves to the US and signing whatever they put in front of them. It turned
+      out that they had to go the other way. But the fact that Modi had to go to China
+      kind of pointed out, from my perspective, this dilemma that there is no middle
+      ground anymore. Either you have to subordinate yourself or you have to protect
+      yourself by diversifying, but then you have to lean into the multipolar institutions.
+      So it’s a fascinating time. It’s an interesting social experiment as well for
+      that sake. I’m not sure if you have any final thoughts before we wrap up. ⁣MICHAEL
+      HUDSON: Only the countries that America defeated in World War II have turned into
+      surrender monkeys. Japan has become an abject victim of the Stockholm Syndrome.
+      And of course, Germany. They’re the two countries that have given in. And the
+      other great opponent of the United States in World War II was, of course, Britain.
+      The British loan of 1944 and the trade agreements that you just mentioned that
+      were favorable to other countries were aimed specifically at breaking up the British
+      Empire. By opening international markets, they ended British imperial preference.
+      That meant that all of the foreign exchange, the earnings made by India and Argentina
+      and other global south raw materials exporters, were no longer required to be
+      spent within the British Empire, but could be spent anywhere. Well, Britain’s
+      economy was destroyed, and so that meant free to be spent in the United States.
+      Trade agreements were made, it’s true, with Germany, with European countries.
+      Of course, the United States favored the trade there because the European companies
+      were being bought out by American multinational firms. What was supported above
+      all in Europe were the international firms. That’s exactly what the fight is this
+      week, in the last month, by Trump against England and the EU. Today’s Financial
+      Times has a whole wonderful article: Britain must stand up to U.S. pressure on
+      tech rules. This is about the digital services tax of Europe. Europe at least
+      is trying to impose a digital services tax on American technology firms because
+      they’ve been able to use Hollywood accounting to avoid having to pay income taxes
+      there. And Trump has told England, Britain, if you try to stand up to us and impose
+      your digital services tax on American companies or try to limit what my contributors
+      in Silicon Valley want to do, we’re going to raise tariffs on you again, despite
+      the agreement we made last spring. Well, if he can say it to Britain, he can certainly
+      say it to the EU. He made it very clear to the EU that if anything the EU does
+      that is at the cost of American firms, as long as these multinationals contribute
+      to Trump’s Republican campaign and his personal campaign and invest personally
+      in his cryptocurrency scams and the other scams, he’ll just squeeze these, tighten
+      the screws onbthese countries. So that’s basically what’s been happening there.
+      I guess that’s my final thought. Europe has succumbed to giving all of the diplomatic,
+      trade, commercial, and financial initiative to U.S. planners who are not making
+      open-ended trade and financial agreements that benefit all countries. But as Trump
+      said, the United States has to be the winner in any deal that it’s making with
+      foreign countries. And that’s why the United States is not making international
+      deals anymore. Trump says, we’re going to make deals on a country-by-country basis.
+      We’re going to divide and conquer. It worked for Britain for a couple of centuries.
+      It’ll work for us. And as long as we can play different countries against each
+      other, and it’s us, the U.S. economy versus much smaller individual economies,
+      they’d rather hang separately. As long as we can make them willing to hang separately
+      instead of hanging together, then we’ve won the diplomatic fight for control.
+      ⁣GLENN DIESEN: Yeah, well, I think the fault of the Europeans is that they think
+      they should just wait out Trump as if this is only about Trump. I mean, I think
+      he’s quite extreme and radical in his approach in terms of recognizing a problem
+      and seeking to solve it. But I think the alternatives, well, the Bidens of the
+      world, wouldn’t necessarily go in a very different direction. Of course, it might
+      be a bit milder, but the overarching problem isn’t, I mean, we tend to focus on
+      personalities, but what is the end stage? I mean, how else is this ex-capitalist
+      system, being so exhausted – what else is it going to do? I mean the U.S.– if
+      it can’t compete anymore. It’s losing the technological lead; it’s drowning in
+      debt; there are massive economic inequalities fueling social and political problems.
+      I mean, one sees that this has reached the end of the line. There are no more
+      ways to deal with the coming financial crisis. You can’t put the interest rate
+      down or up. As either it’s going to collapse the dollar or it’s going to make
+      the debt repayment unmanageable. So, it is a brick wall, it seems. I think Trump
+      deals with this in a, let’s say, a very authoritarian way. But the idea that we
+      can just go back to the way things were, I think this is quite delusional. It’s
+      wishful thinking. ⁣MICHAEL HUDSON: Well, that’s the whole problem, Glenn. You
+      put your finger on it. The way things were, the way things are today is not how
+      they were in 1945. There was still an active left wing in Europe. There was a
+      chance of Europe going socialist in a mixed economy. And certainly, the British
+      Labour Party in the 1940s was progressive like that. There were progressive movements
+      throughout Europe. All of that was counteracted by the United States to prevent
+      that. And you had the old European moneyed aristocracy fighting against this,
+      pushing essentially for neoliberalism, for a dismantling of government strong
+      enough to regulate the financial oligarchies that were emerging and making fortunes
+      on a mutual interdependency with American multinational firms and multinational
+      investments. And the whole world economy was restructured in U.S.-centric lines
+      that have led to this problem. So in order for Europe to prosper again, it needs
+      to rethink the whole direction of history. And of course, that’s what you and
+      I have been talking about for the last few months. They have to reinvent the economic
+      wheel to analyze: how do we create a mixed economy that’s going to promote growth,
+      rising living standards, and industry instead of creating financial fortunes American
+      style that’s leading to our deindustrialization, just as it’s led to America’s
+      deindustrialization. How do we end up avoiding looking like the United States?
+      What is China doing right in its takeoff that really is following the very policies
+      that made Britain and Germany and the United States industrial powers in the late
+      19th century? ⁣GLENN DIESEN: Well, that’s an interesting part when they, the way
+      that China’s capitalism is defined as managed capitalism, all these strange words,
+      which, but if you look at it, it’s very, very similar to the industrial capitalism
+      of the U.S. itself in the 19th century. But yes, Michael Hudson, as always, thank
+      you so much for sharing your insights. And I will leave a link to your blog in
+      the description as well. So thank you again. ⁣MICHAEL HUDSON: Thank you very much,
+      Glenn, for the compliments. Transcription and Diarization: hudsearch Editing:
+      Roslyn Bologh Review: ced Photo by Barbara Burgess on Unsplash The post The Fascist
+      Protection Racket: Tribute States first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion between Glenn Diesen and Michael Hudson, they
+      explore how the shift from a unipolar to a multipolar world has altered the dynamics
+      of US economic coercion, suggesting that countries now have more options to diversify
+      their economic partnerships away from the US, reducing its leverage over allies
+      and neutral states.
+    paragraph_summary: In a discussion between Glenn Diesen and Michael Hudson, the
+      focus is on the shifting dynamics of U.S. economic coercion in a multipolar world.
+      Diesen argues that while the U.S. previously rewarded allies and punished non-compliant
+      states in a unipolar era, the current landscape allows countries to diversify
+      their economic partnerships, diminishing U.S. leverage. He notes that U.S. allies,
+      concerned about the rise of powers like China and Russia, may prioritize their
+      ties with the U.S. over their own economic interests, which could benefit the
+      U.S. in extracting concessions. Hudson challenges the framing of states as "opponents"
+      of the U.S. and suggests that the U.S. is employing tactics reminiscent of 19th-century
+      British and French policies to maintain its dominance and influence over allies
+      and neutral states alike.
+    published: '2025-09-24T21:25:17+00:00'
   - title: 'The Great Soybean Divorce: How China Moved On from America'
     url: https://michael-hudson.com/2025/09/the-great-soybean-divorce-how-china-moved-on-from-america/
     text: 'Trump’s policies are destroying key elements of U.S. economic prosperity

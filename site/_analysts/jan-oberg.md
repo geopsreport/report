@@ -7,14 +7,226 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  The geopolitical landscape remains tense as humanitarian crises and diplomatic standoffs dominate international headlines. The ongoing conflict in Gaza has escalated to a critical point, with the United Nations officially declaring a famine in the region. **Jan Oberg** highlights the urgency of the situation, calling on citizens worldwide to pressure their governments for immediate intervention to prevent further starvation. This marks a significant deterioration in conditions, underscoring the failure of both regional actors and the broader international community to secure a ceasefire or meaningful humanitarian access.
+  As the world marks the 80th anniversary of the United Nations, tensions between the United States and its traditional allies have come into sharper focus. The latest development is President Trump’s controversial address at the UN General Assembly, which, according to **Jan Oberg**, was “insulting and demeaning” and has reignited calls within the European Union to assert greater independence from U.S. foreign policy. Oberg argues that the speech’s tone and content “should serve as a wake-up call” for Europe to reconsider its reliance on Washington, especially in the context of mounting global instability.
   
-  Meanwhile, the opening of the UN General Assembly in New York has been overshadowed by the US visa ban on Palestinian delegates, forcing the Special GA Segment on Palestine to convene in Geneva instead. According to **Jan Oberg**, this move exemplifies the ongoing marginalization of Palestinian voices at critical diplomatic forums and raises questions about the impartiality and effectiveness of international institutions in addressing the crisis.
+  Meanwhile, security concerns in Northern Europe are intensifying following a series of drone incursions over Nordic airports. Contrary to prevailing narratives that point the finger at Russia, **Jan Oberg** cautions against jumping to conclusions, suggesting that “others could have more interest in sending drones to the Nordic countries than Russia,” and specifically naming Ukraine as a possible actor. This perspective challenges the dominant discourse and underscores the complexity of attribution in hybrid warfare scenarios.
   
-  On the diplomatic front, the EU Troika’s recent decision to trigger snapback sanctions on Iran over alleged nuclear deal violations has drawn sharp criticism. **Jan Oberg** describes the move as a “dangerous misstep,” warning that it risks further destabilizing the region and undermining any remaining trust in the nuclear agreement framework. The majority view among analysts is that these sanctions are likely to provoke retaliatory measures from Tehran, increasing the risk of escalation in the Gulf.
+  On the cultural front, Oberg highlights a worrying trend within the United States itself, noting that the country’s increasing militarism is accompanied by a reduction in artistic and academic freedoms. He warns that “when empires fall and militarism arrives, cultural freedom must be reduced,” linking the erosion of dissent and creativity to broader patterns of societal decline and reduced capacity for peacebuilding.
   
-  Looking ahead, the prevailing trend is one of deepening polarization and institutional paralysis. There is a high chance that, absent significant shifts in policy or leadership, humanitarian conditions in Gaza will worsen and diplomatic solutions will remain elusive. The confidence level is high that public pressure in Europe and beyond will continue to mount, potentially forcing some governments—such as Britain—to formally recognize a Palestinian state in the coming months. However, without coordinated international action, the prospects for peace and justice remain bleak.
+  Looking ahead, the majority of independent analysts cited by Oberg predict with high confidence that the rift between the U.S. and the EU will deepen unless substantive policy changes occur in Washington. There is also a high chance that the debate over the true origins of the Nordic drone incidents will intensify, with more actors being scrutinized as potential culprits. Domestically, the U.S. is quite likely to see further constraints on cultural freedoms as militaristic policies take precedence.
+  
+  In summary, the current geopolitical landscape is marked by growing transatlantic tensions, ambiguous security threats in Europe, and a contraction of cultural space in the U.S.—all trends that, if left unchecked, most definitely signal a more fragmented and unstable international order.
 articles:
+  - title: President Trump’s insulting and demeaning speech at the UNGA
+    url: https://transnational.live/2025/09/30/president-trumps-insulting-and-demeaning-speech-at-the-unga/
+    text: And why the world, especially the EU, must now declare itself independent
+      of the United States. Farhang Jahanpour September 30, 2025 UN’s 80th anniversary
+      This year, the United Nations celebrates the 80th anniversary of its founding.
+      The UN was formed after the scourge of the Second World War, in which 70 to 85
+      million people were killed […] The post President Trump’s insulting and demeaning
+      speech at the UNGA appeared first on The Transnational .
+    one_sentence_summary: The article argues that the world, particularly the EU, should
+      assert its independence from the United States in light of President Trump's disrespectful
+      speech at the UN General Assembly during the UN's 80th anniversary.
+    paragraph_summary: In his article marking the 80th anniversary of the United Nations,
+      Farhang Jahanpour argues that the world, particularly the European Union, needs
+      to assert its independence from the United States. He reflects on the UN's founding
+      in the aftermath of World War II, which resulted in the deaths of millions, and
+      critiques former President Trump's disrespectful speech at the UN General Assembly.
+      Jahanpour suggests that the current geopolitical climate necessitates a reevaluation
+      of global alliances and a move towards greater autonomy for international bodies
+      like the EU.
+    published: '2025-09-30T21:29:14+00:00'
+  - title: President Trump’s insulting and demeaning speech at the UNGA
+    url: https://transnational.live/2025/09/30/president-trumps-insulting-and-demeaning-speech-at-the-unga/
+    text: And why the world, especially the EU, must now declare itself independent
+      of the United States. Farhang Jahanpour September 30, 2025 UN’s 80th anniversary
+      This year, the United Nations celebrates the 80th anniversary of its founding.
+      The UN was formed after the scourge of the Second World War, in which 70 to 85
+      million people were killed […] The post President Trump’s insulting and demeaning
+      speech at the UNGA appeared first on The Transnational .
+    one_sentence_summary: The article argues that the world, particularly the EU, should
+      assert its independence from the United States in light of President Trump's disrespectful
+      speech at the UN General Assembly during the UN's 80th anniversary.
+    paragraph_summary: In his article marking the 80th anniversary of the United Nations,
+      Farhang Jahanpour argues that the world, particularly the European Union, needs
+      to assert its independence from the United States. He reflects on the UN's founding
+      in the aftermath of World War II, which resulted in the deaths of millions, and
+      critiques former President Trump's disrespectful speech at the UN General Assembly.
+      Jahanpour suggests that the current geopolitical climate necessitates a reevaluation
+      of global alliances and a move towards greater autonomy for international bodies
+      like the EU.
+    published: '2025-09-30T21:29:14+00:00'
+  - title: 'Don’t be fooled: Others Could Have More Interest in Sending Drones to the
+      Nordic Countries than Russia'
+    url: https://transnational.live/2025/09/29/dont-be-fooled-others-could-have-more-interest-in-sending-drones-to-the-nordic-countries-than-russia/
+    text: 'Drones over Nordic airports. No damage. No trace. No answers. Most assume
+      Russia—but what if that’s not so? Why is there so much we are not told? This article
+      explores the strategic ambiguity behind recent drone incursions and asks: Who
+      else might benefit from sending drones into NATO airspace? From Ukraine’s surprising
+      drone supremacy to […] The post Don’t be fooled: Others Could Have More Interest
+      in Sending Drones to the Nordic Countries than Russia appeared first on The Transnational
+      .'
+    one_sentence_summary: The article examines the recent drone incursions over Nordic
+      airports, questioning the assumption that Russia is behind them and suggesting
+      that other parties, including Ukraine, may have motives for sending drones into
+      NATO airspace.
+    paragraph_summary: The article discusses recent drone incursions over Nordic airports,
+      which have raised suspicions primarily directed at Russia, yet it questions whether
+      this assumption is accurate. It highlights the strategic ambiguity surrounding
+      these incidents and suggests that other entities, including Ukraine, might have
+      motives for deploying drones into NATO airspace. The piece emphasizes the need
+      for a broader examination of potential actors involved in these drone activities,
+      urging readers not to overlook other possible interests beyond Russia.
+    published: '2025-09-29T16:27:29+00:00'
+  - title: 'Don’t be fooled: Others Could Have More Interest in Sending Drones to the
+      Nordic Countries than Russia'
+    url: https://transnational.live/2025/09/29/dont-be-fooled-others-could-have-more-interest-in-sending-drones-to-the-nordic-countries-than-russia/
+    text: 'Drones over Nordic airports. No damage. No trace. No answers. Most assume
+      Russia—but what if that’s not so? Why is there so much we are not told? This article
+      explores the strategic ambiguity behind recent drone incursions and asks: Who
+      else might benefit from sending drones into NATO airspace? From Ukraine’s surprising
+      drone supremacy to […] The post Don’t be fooled: Others Could Have More Interest
+      in Sending Drones to the Nordic Countries than Russia appeared first on The Transnational
+      .'
+    one_sentence_summary: The article examines the recent drone incursions over Nordic
+      airports, questioning the assumption that Russia is behind them and suggesting
+      that other parties, including Ukraine, may have motives for sending drones into
+      NATO airspace.
+    paragraph_summary: The article discusses recent drone incursions over Nordic airports,
+      which have raised suspicions primarily directed at Russia, yet it questions whether
+      this assumption is accurate. It highlights the strategic ambiguity surrounding
+      these incidents and suggests that other entities, including Ukraine, might have
+      motives for deploying drones into NATO airspace. The piece emphasizes the need
+      for a broader examination of potential actors involved in these drone activities,
+      urging readers not to overlook other possible interests beyond Russia.
+    published: '2025-09-29T16:27:29+00:00'
+  - title: ✅ TFF Share Blog, News & Notes from 2021 till today
+    url: https://transnational.live/2025/09/29/%f0%9f%94%97-tff-in-the-news-notes-2021/
+    text: Below are TFF-related media mentions, comments, videos and social media posts
+      published elsewhere but not on this homepage. We happen to catch and list only
+      a fraction. Regarding video comments and debates, we recommend that you go to
+      the TFF Video Channel on Substack where many of them are reproduced. Jan Oberg
+      is a contributor […] The post ✅ TFF Share Blog, News & Notes from 2021 till today
+      appeared first on The Transnational .
+    one_sentence_summary: The article provides a summary of various media mentions,
+      comments, videos, and social media posts related to TFF, highlighting that only
+      a fraction is listed and directing readers to the TFF Video Channel on Substack
+      for more content.
+    paragraph_summary: The article provides a compilation of media mentions, comments,
+      videos, and social media posts related to TFF (Transnational Foundation for Peace
+      and Future Research) that are not featured on the homepage, highlighting that
+      only a small portion is captured. It suggests visiting the TFF Video Channel on
+      Substack for a broader range of video comments and discussions. Jan Oberg is noted
+      as a contributor, and the post serves as a summary of TFF-related updates from
+      2021 to the present.
+    published: '2025-09-29T15:20:00+00:00'
+  - title: ✅ TFF Share Blog, News & Notes from 2021 till today
+    url: https://transnational.live/2025/09/29/%f0%9f%94%97-tff-in-the-news-notes-2021/
+    text: Below are TFF-related media mentions, comments, videos and social media posts
+      published elsewhere but not on this homepage. We happen to catch and list only
+      a fraction. Regarding video comments and debates, we recommend that you go to
+      the TFF Video Channel on Substack where many of them are reproduced. Jan Oberg
+      is a contributor […] The post ✅ TFF Share Blog, News & Notes from 2021 till today
+      appeared first on The Transnational .
+    one_sentence_summary: The article provides a summary of various media mentions,
+      comments, videos, and social media posts related to TFF, highlighting that only
+      a fraction is listed and directing readers to the TFF Video Channel on Substack
+      for more content.
+    paragraph_summary: The article provides a compilation of media mentions, comments,
+      videos, and social media posts related to TFF (Transnational Foundation for Peace
+      and Future Research) that are not featured on the homepage, highlighting that
+      only a small portion is captured. It suggests visiting the TFF Video Channel on
+      Substack for a broader range of video comments and discussions. Jan Oberg is noted
+      as a contributor, and the post serves as a summary of TFF-related updates from
+      2021 to the present.
+    published: '2025-09-29T15:20:00+00:00'
+  - title: When Empires Fall and Militarism Arrives, Cultural Freedom Must Be Reduced
+    url: https://transnational.live/2025/09/29/when-empires-fall-and-militarism-arrives-cultural-freedom-must-be-reduced/
+    text: America’s Strategic Assault on Art, Academia, and the Imagination That Sustains
+      Peace Jan Oberg September 29, 2025 The United States once stood as a beacon of
+      cultural audacity—a place where dissent could be beautiful, and beauty and innovation
+      could challenge the present order of things. Its museums, universities, and artists
+      helped inspire a worldwide imagination […] The post When Empires Fall and Militarism
+      Arrives, Cultural Freedom Must Be Reduced appeared first on The Transnational
+      .
+    one_sentence_summary: The article discusses how the U.S., once a hub of cultural
+      innovation and dissent, is now undermining artistic and academic freedoms, which
+      are essential for fostering peace and imagination in society.
+    paragraph_summary: In "America’s Strategic Assault on Art, Academia, and the Imagination
+      That Sustains Peace," Jan Oberg argues that the United States, once a symbol of
+      cultural innovation and dissent, is now undermining its own artistic and academic
+      freedoms. Oberg contends that as militarism rises and empires decline, there is
+      a corresponding reduction in cultural freedom, which stifles creativity and the
+      ability to challenge the status quo. The article reflects on how museums, universities,
+      and artists, which once inspired global imagination, are now facing pressures
+      that threaten their roles in promoting peace and critical thought.
+    published: '2025-09-29T10:23:54+00:00'
+  - title: When Empires Fall and Militarism Arrives, Cultural Freedom Must Be Reduced
+    url: https://transnational.live/2025/09/29/when-empires-fall-and-militarism-arrives-cultural-freedom-must-be-reduced/
+    text: America’s Strategic Assault on Art, Academia, and the Imagination That Sustains
+      Peace Jan Oberg September 29, 2025 The United States once stood as a beacon of
+      cultural audacity—a place where dissent could be beautiful, and beauty and innovation
+      could challenge the present order of things. Its museums, universities, and artists
+      helped inspire a worldwide imagination […] The post When Empires Fall and Militarism
+      Arrives, Cultural Freedom Must Be Reduced appeared first on The Transnational
+      .
+    one_sentence_summary: The article discusses how the U.S., once a hub of cultural
+      innovation and dissent, is now undermining artistic and academic freedoms, which
+      are essential for fostering peace and imagination in society.
+    paragraph_summary: In "America’s Strategic Assault on Art, Academia, and the Imagination
+      That Sustains Peace," Jan Oberg argues that the United States, once a symbol of
+      cultural innovation and dissent, is now undermining its own artistic and academic
+      freedoms. Oberg contends that as militarism rises and empires decline, there is
+      a corresponding reduction in cultural freedom, which stifles creativity and the
+      ability to challenge the status quo. The article reflects on how museums, universities,
+      and artists, which once inspired global imagination, are now facing pressures
+      that threaten their roles in promoting peace and critical thought.
+    published: '2025-09-29T10:23:54+00:00'
+  - title: 'TFF PressInfo # 776: 40 years on, TFF still asks the only question that
+      matters: How do we build peace when others only prepare for war?'
+    url: https://transnational.live/2025/09/25/tff-pressinfo-776-40-years-on-tff-still-asks-the-only-question-that-matters-how-do-we-build-peace-when-others-only-prepare-for-war/
+    text: '“The future belongs to those who imagine it — not those who declare it doomed.”
+      Silence is unusual for us. But even a foundation devoted to peace and ideas needs
+      a pit stop now and then — a moment to refuel, re‑engineer, and prepare for the
+      road ahead. Because the road ahead matters. On January […] The post TFF PressInfo
+      # 776: 40 years on, TFF still asks the only question that matters: How do we build
+      peace when others only prepare for war? appeared first on The Transnational .'
+    one_sentence_summary: The Transnational Foundation for Peace and Future Research
+      reflects on its 40-year mission of promoting peace and innovation, emphasizing
+      the importance of imagination in shaping a hopeful future amidst ongoing global
+      conflicts.
+    paragraph_summary: The article reflects on the importance of imagination and proactive
+      thinking in shaping the future, emphasizing that silence can be a necessary pause
+      for reflection and preparation, even for organizations dedicated to peace. It
+      highlights the ongoing mission of the Transnational Foundation for Peace and Future
+      Research (TFF) over its 40-year history, which continues to focus on the critical
+      question of how to foster peace in a world where many are inclined towards conflict.
+      The piece underscores the foundation's commitment to exploring innovative solutions
+      for building a more peaceful future.
+    published: '2025-09-25T09:59:24+00:00'
+  - title: 'TFF PressInfo # 776: 40 years on, TFF still asks the only question that
+      matters: How do we build peace when others only prepare for war?'
+    url: https://transnational.live/2025/09/25/tff-pressinfo-776-40-years-on-tff-still-asks-the-only-question-that-matters-how-do-we-build-peace-when-others-only-prepare-for-war/
+    text: '“The future belongs to those who imagine it — not those who declare it doomed.”
+      Silence is unusual for us. But even a foundation devoted to peace and ideas needs
+      a pit stop now and then — a moment to refuel, re‑engineer, and prepare for the
+      road ahead. Because the road ahead matters. On January […] The post TFF PressInfo
+      # 776: 40 years on, TFF still asks the only question that matters: How do we build
+      peace when others only prepare for war? appeared first on The Transnational .'
+    one_sentence_summary: The Transnational Foundation for Peace and Future Research
+      reflects on its 40-year mission of promoting peace and innovation, emphasizing
+      the importance of imagination in shaping a hopeful future amidst ongoing global
+      conflicts.
+    paragraph_summary: The article reflects on the importance of imagination and proactive
+      thinking in shaping the future, emphasizing that silence can be a necessary pause
+      for reflection and preparation, even for organizations dedicated to peace. It
+      highlights the ongoing mission of the Transnational Foundation for Peace and Future
+      Research (TFF) over its 40-year history, which continues to focus on the critical
+      question of how to foster peace in a world where many are inclined towards conflict.
+      The piece underscores the foundation's commitment to exploring innovative solutions
+      for building a more peaceful future.
+    published: '2025-09-25T09:59:24+00:00'
   - title: 'Gaza: Write a Letter to Your Government NOW – Part 3/3'
     url: https://transnational.live/2025/09/11/gaza-write-a-letter-to-your-government-now-part-3-3/
     text: 'Annette Schiffman TFF Board member September 11, 2025 This is the third appeal

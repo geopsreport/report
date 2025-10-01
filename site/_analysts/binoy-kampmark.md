@@ -7,14 +7,375 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  The geopolitical landscape remains volatile as new developments continue to reshape diplomatic, humanitarian, and domestic policy debates. In the UK, the fallout from Peter Mandelson’s brief tenure as ambassador to the US has deepened, following his dismissal after revelations of close ties to Jeffrey Epstein. **Binoy Kampmark** notes that this episode has not only embarrassed Prime Minister Keir Starmer’s government but also exposed vulnerabilities in the vetting process for high-level diplomatic appointments. The majority view among analysts is that the scandal will have lingering effects on UK-US relations and further erode public trust in political leadership. There is a high chance that future appointments will face intensified scrutiny, and I guarantee this episode will be referenced in parliamentary debates on government transparency.
+  The geopolitical landscape remains tense as Israel’s actions in Gaza and its international posture continue to dominate headlines. In his September 26 address to the UN General Assembly, Israeli Prime Minister Benjamin Netanyahu doubled down on Israel’s narrative as a bulwark against terrorism, dismissing Palestinian statehood and justifying ongoing military operations in Gaza. This rhetoric, as **Binoy Kampmark** notes, triggered a significant walkout by delegates, underlining the growing diplomatic isolation Israel faces due to its hardline stance.
   
-  On the international front, the United Nations’ recent commission report finding Israel responsible for genocide in Gaza has intensified calls for accountability. **Binoy Kampmark** emphasizes that the commission found Israel guilty of four out of five elements of the 1948 Genocide Convention, a conclusion that has triggered renewed demands for an immediate end to hostilities and legal action against Israeli officials. The consensus among commentators is that this report will most definitely increase pressure on Western governments, particularly the US and UK, to reconsider their support for Israel. There is a high chance that international legal proceedings will be initiated, though the effectiveness of such measures remains uncertain.
+  Meanwhile, scrutiny has intensified over the role of technology in the conflict. The Guardian’s revelations that the Israeli Defense Forces have leveraged Microsoft’s Azure cloud platform for mass surveillance in Gaza and the West Bank have placed both Microsoft and Israel under international examination. According to **Kampmark**, Microsoft has since moved to limit certain services, though it maintains its broader relationship with Israel, highlighting the complexities of corporate complicity and the challenges of enforcing ethical standards in conflict zones.
   
-  Meanwhile, in Australia, domestic policy is under scrutiny following the University of Technology Sydney’s controversial Operational Sustainability Initiative. **Binoy Kampmark** reports that the initiative has caused significant psychological harm to staff, prioritizing financial cuts and outsourcing over genuine consultation. This has sparked a broader debate about the corporatization of higher education and the role of external consultants like KPMG. The majority opinion is that similar austerity measures will face increasing resistance from academic staff and unions, and there is a high chance of further industrial action if current trends persist.
+  On the intelligence front, the UK’s MI6 is adapting to the digital era by launching “Silent Courier,” a dark web platform inspired by WikiLeaks for agent recruitment and intelligence gathering. **Kampmark** observes that this marks a significant shift in intelligence methodology, embracing the risks and opportunities of technological innovation in espionage.
   
-  In summary, the dominant trends point to growing demands for accountability—whether in diplomatic appointments, international humanitarian law, or domestic policy management. The prediction with high confidence is that scrutiny of leadership decisions and institutional practices will intensify across these domains, with significant political and legal ramifications in the coming months.
+  Looking ahead, the trends point to further polarization around Israel’s policies, with increasing calls for accountability following the UN’s recent genocide findings. The use of advanced surveillance technologies in occupied territories is likely to fuel further debate on digital rights and corporate responsibility. The intelligence community’s embrace of digital platforms is quite likely to become the norm, despite inherent security risks. Given the current trajectory, I guarantee that diplomatic tensions and scrutiny over Israel’s actions will only intensify in the coming weeks.
 articles:
+  - title: 'Attempts to Delegitimize: Netanyahu at the UN General Assembly'
+    url: https://www.counterpunch.org/2025/09/30/attempts-to-delegitimize-netanyahu-at-the-un-general-assembly/
+    text: 'It takes a lot to make UN delegates walk out from an address to the General
+      Assembly. But this was precisely what Israel’s Prime Minister, Benjamin Netanyahu,
+      managed to achieve in his September 26 speech. His address began by attempting
+      to show his country as a guardian of law and civilisation, fighting a lonely,
+      unsupported war against fiendish barbarians. “Last year I stood at this podium
+      and I showed this map. It shows the curse of Iran’s terror axis.” Such an axis
+      threatened “the peace of the entire world. It threatened the stability of our
+      region and the very existence of my country, Israel. They were meant also to threaten
+      the United States and blackmail nations everywhere.”
+
+
+      The speech then moved into a triumphant register. Hezbollah had been cowed. The
+      Houthis had been “hammered”. The “bulk of Hamas’s terror machine” had been “crushed”.
+      The armaments of Bashir al-Assad had been destroyed, Iran’s Shiite militias in
+      Iraq deterred. “And most importantly, and above everything else that I could say
+      to you or that we did in this past year, in this past decade, we devastated Iran’s
+      atomic weapons and ballistic missile programs.” Israel’s assassination program
+      – the slaying of Iranian nuclear scientists, the killing of Hamas and Hezbollah
+      leaders, the slaughter of half of the Houthi leadership – were also points of
+      celebration. Regarding Hamas, Netanyahu offered the following: “The final remnants
+      of Hamas are holed up in Gaza City. They vow to repeat the atrocities of 7 October
+      again and again. That is why Israeli must finish the job.”
+
+
+      Anyone familiar with Netanyahu’s streaky command of Disney cartography or predictive
+      assessments on the military power of other states already knows the strained performance
+      here. Vital to his argument is delegitimizing the cause of Palestinian statehood,
+      treating it as an annex of a foreign power and a foreign movement. He goes on
+      to link with little effort Iran’s “massive nuclear weapons program and massive
+      ballistic program” to the late Yahya Sinwar’s “dispatched” terrorists of Hamas
+      as they made their way into Israel on October 7, 2023, to Hezbollah’s missiles
+      and rockets in Lebanon, to Syria’s now deposed Assad regime, which “hosted Iran’s
+      forces, tightening the noose of death around our throats.” For good measure, the
+      Houthis in Yemen were also thrown in.
+
+
+      This shoddy reasoning shares the strain of paranoia US strategists demonstrated
+      with feverish intensity during the Cold War. There was a stubborn refusal, at
+      least till the Nixon administration, to see Communist insurgencies as the product
+      of indigenous conditions rather than directed movements from Moscow and Peking.
+      Assistance and aid to North Vietnam, for instance, was misconstrued as command
+      and control.
+
+
+      Similarly, Netanyahu sees radical Islam as a monolithic bloc of obscurantism that
+      has absorbed the Palestinian cause. Iran, Hamas, Hezbollah and the Houthis all
+      shout “Death to America”. All had “murdered Americans and Europeans in cold blood.”
+      Israel’s enemies were enemies of the West. “They want to drag the modern world
+      back to the past… to a dark age of violence, fanaticism, and terror.” With demagogic
+      purpose, he also pointed to “the radical Islamist surge” in the societies of Israel’s
+      allies. Thank Israel, he declared, for having the capacity to supply the intelligence
+      of five Central Intelligence Agencies, for doing, to quote German Chancellor Friedrich
+      Merz, “the dirty work for all of us.”
+
+
+      The Israeli PM represents a country whose magistrates and representatives sneer
+      and mock international law, treasuring an exceptionalism that have given it an
+      increasingly roguish character. He is contemptuous of accusations that the IDF
+      is not minimising harm to civilians, claiming that the ratio of non-combatant
+      to combatant casualties is “less than two to one”, one much “lower than NATO’s
+      wars in Afghanistan and Iraq”. This is an astonishing view, given that Israel’s
+      own military data, as revealed by The Guardian, +972 magazine and Local Call,
+      shows that 83 percent of those killed in Gaza have been civilians.
+
+
+      Besides, even where civilians were killed, they only did so under coercion from
+      Hamas. The oft repeated claim was made that the organisation “implants itself
+      in mosques, schools, hospitals, apartment buildings and tries to force these civilians
+      not to leave, to stay in harm’s way”. This is a convenient spread, justifying
+      the destruction of critical infrastructure and the essential features of a functioning
+      society. Unfortunately, evidence from the IDF on many of these claims has been
+      skimpy.
+
+
+      The allegations of genocide, firmed up by the findings of an independent UN commission
+      of inquiry, the International Association of Genocide Scholars, and numerous human
+      rights groups including Israel’s own B’Tselem, were also swatted away as blood
+      libels. Those wishing to commit genocide would never “plead with the civilian
+      population it is supposedly targeting to get out of harm’s way.” The Nazis were
+      never good enough to tell Jews to “kindly leave”.
+
+
+      As for the starvation policy, this was yet another lie. “There’s one ton of aid
+      for every man, woman and child in Gaza” with each person receiving 3,000 calories
+      per day. “Some starvation policy!” It takes some gumption to embrace such mendacity
+      and self-imposed delusion, denying the militarisation of the aid model in the
+      Strip, with necessaries drip-fed through a limited number of delivery points defended
+      by private contractors and trigger-happy IDF personnel.
+
+
+      Regarding the latest round of countries recognising Palestinian statehood, Netanyahu
+      could only hector. “Murdering jews pays off.” The forces of antisemitism had been
+      rewarded by France, Britain, Australia and Canada, along with other states. “Your
+      disgraceful decision will encourage terrorism against Jews and against innocent
+      people everywhere.”
+
+
+      On the issue of the two-state solution, the argument was slyly inverted. Israel
+      did believe in the formula. It was those nasty, ungrateful Palestinians who never
+      did. They were “given territory” only to then attack Israel in “totally unprovoked”
+      circumstances. Absurdly, Netanyahu even called Gaza a proto-Palestinian state,
+      a gift from the Jewish state. Never mind that it became the world’s largest open
+      air prison, its residents the convenient lab rats of Israeli surveillance, technology
+      and military experimentation.
+
+
+      As long as Palestinians exist in Gaza and the West Bank, they are unsettling reminders
+      of the colonial project, the thefts, the dispossessions, the habitual violence.
+      As long as they have political representatives of any stripe, or any voice uttered
+      through any form – literature, media, the podium, and even the gun – they are
+      exercising the very same rights to self-determination that saw the creation of
+      Israel. It is those rights that Netanyahu showed such withering contempt for in
+      this indignant address.'
+    one_sentence_summary: In his September 26 speech to the UN General Assembly, Israeli
+      Prime Minister Benjamin Netanyahu portrayed Israel as a defender against global
+      terrorism while dismissing Palestinian statehood and justifying military actions
+      in Gaza, leading to a walkout by delegates due to his controversial claims and
+      rhetoric.
+    paragraph_summary: In his September 26 speech to the UN General Assembly, Israeli
+      Prime Minister Benjamin Netanyahu provoked a walkout from delegates by portraying
+      Israel as a lone defender against a global terror axis led by Iran, Hezbollah,
+      and Hamas, while celebrating military successes against these groups. He dismissed
+      the Palestinian cause as a foreign movement, equating it with radical Islam and
+      asserting that Israel's actions were justified in the face of threats to its existence.
+      Netanyahu's claims included minimizing civilian casualties in Gaza, which contradicts
+      reports indicating that a significant majority of those killed are civilians,
+      and he rejected accusations of genocide and starvation policies as fabrications.
+      He framed the recognition of Palestinian statehood by various countries as rewarding
+      antisemitism and inverted the narrative around the two-state solution, blaming
+      Palestinians for violence despite Israel's military control over the territories.
+      Overall, his address reflected a deep-seated contempt for Palestinian rights and
+      self-determination, reinforcing Israel's exceptionalism and militaristic stance.
+    published: '2025-09-30T05:54:28+00:00'
+  - title: 'Violating the Terms of Service: Microsoft, Azure and the IDF'
+    url: https://www.counterpunch.org/2025/09/29/violating-the-terms-of-service-microsoft-azure-and-the-idf/
+    text: 'On August 6, The Guardian reported that “multiple individuals have asserted
+      that the IDF [Israeli Defense Forces] is using Azure for the storage of files
+      of phone calls obtained through broad or mass surveillance of civilians in Gaza
+      and the West Bank.” The tale began in 2021, when Microsoft, the company responsible
+      for the Azure cloud platform that promises endless wells of data storage, endorsed
+      a plan that would enable Unit 8200, Israel’s famed cyberwarfare agency, customised
+      access.
+
+
+      The agreement, reached between the unit’s commander Yossi Sariel and Microsoft’s
+      chief executive, Satya Nadella, was a boon for mass surveillance enthusiasts.
+      The Guardian report, a co-investigative effort with Hebrew-language outlet Local
+      Call and Israeli-Palestinian publication +972 Magazine, drew from leaked documents
+      and 11 interviews from the corporation and the Israeli intelligence services.
+
+
+      Nadella offered the fool’s defence, claiming ignorance at what Unit 8200 was hoping
+      to store. A cursory look at the profile of Sariel’s outfit would have dispelled
+      any doubts, suggesting that the chief executive was telling a massive fib. Three
+      Unit 8200 sources, for instance, noted that Azure was used to facilitate “the
+      preparation of deadly airstrikes and has shaped military operations in Gaza and
+      the West Bank.” While Israel has long exercised control over the telecommunications
+      infrastructure of the Palestinians, the cloud platform offered an indiscriminate
+      netting of cellular calls.
+
+
+      The company’s thick links to Israel has drawn much attention from employees within
+      the organisation and activists associated with the No Azure for Apartheid group.
+      Microsoft is not shy in admitting, as it did in an updated statement on August
+      15, that it “provides IMOD with software, professional services, Azure cloud services,
+      and Azure AI services, including language translation. As with many governments
+      around the world, we also work with the Israeli government to protect its cyberspace
+      against external threats.” Nor is the tech behemoth shy in punishing employees
+      who have dared exercise a conscience on the matter. Last month, Anna Hattle, Riki
+      Fameli, Nisreen Jaradat and Julius Shan, were sacked for participating in protests
+      on company premises regarding the company’s ongoing association with Israel. These
+      demonstrations had apparently, in the eyes of the company goons, “created significant
+      safety concerns”.
+
+
+      The company had also conducted a previous undisclosed review into the findings
+      of an investigation by The Associated Press that noted the use of Azure by the
+      Israeli Defense Ministry and its insatiable appetite for commercial artificial
+      intelligence (AI) products in the aftermath of the October 7, 2023 attack by Hamas.
+      On May 15, the company declared with implausible confidence that its internal
+      assessments and external review had “found no evidence” that the Azure platform
+      and AI technologies “or any other software, have been used to harm people or that
+      IMOD has failed to comply with our terms of service or our AI Code of Conduct.”
+
+
+      The dark publicity prompted by The Guardian and its co-investigators was enough
+      to push Microsoft on August 15 to revisit the allegations, using the services
+      of the law firm Covington & Burling LLP and the technical expertise of a consulting
+      firm. On the morning of September 25, Brad Smith, Vice Chair and President, sent
+      a message to Microsoft employees claiming that the ongoing review had “found evidence
+      that support’s elements of The Guardian’s reporting. This evidence includes information
+      relating to IMOD (Israel Ministry of Defense) consumption of Azure storage capacity
+      in the Netherlands and the use of AI services.”
+
+
+      The Ministry had duly been informed of the company’s decision to cease and disable
+      bespoke subscriptions and their services “including their use of specific cloud
+      storage and AI services and technologies.” The decision had been reviewed with
+      the IMOD and steps taken “to ensure compliance with our terms of service, focusing
+      on ensuring our services are not used for mass surveillance of civilians.”
+
+
+      In keeping with the company’s vigorous spirit of having its cake and eating it
+      too, Smith goes on to inform recipients of the message that the move did nothing
+      to end or impair “the important work that Microsoft continues to do to protect
+      the cybersecurity of Israel and other countries in the Middle East, including
+      under the Abraham Accords.” And why would it? Israel is a reliable, valuable client,
+      and had merely tripped in failing to abide by the terms of service. That such
+      tripping played, as it continues to do, a vital role in the systematic destruction
+      of Palestinian lives, infrastructure and cultural existence, was a minor matter.
+      Palestinians, as the exhaustive work of Anthony Loewenstein shows, remain test
+      subjects for new weapons, novel forms of targeting, and surveillance, an endeavour
+      that has spawned a global cyber-military-industrial complex.
+
+
+      This explains why the move by Microsoft did not precipitate the usual accusations
+      of discrimination and antisemitism Israeli officials foamingly issue when their
+      conduct is found wanting. This was framed as a commercial matter, a crease that
+      could be ironed out with solicitude. “There is no damage to the operational capabilities
+      of the IDF,” stated one military official to the Times of Israel. Having been
+      forewarned about the measure, Unit 8200 had backed up the data it had stored before
+      the access to the cloud services was terminated. Both the IDF and Microsoft can
+      now continue their working relationship, as long as those tepid terms of service
+      are observed, even if it entails the continued program of extermination in Gaza
+      and apartheid in the West Bank.'
+    one_sentence_summary: The Guardian reported that the Israeli Defense Forces have
+      been using Microsoft's Azure cloud platform for mass surveillance of civilians
+      in Gaza and the West Bank, leading to scrutiny of Microsoft's collaboration with
+      Israeli military agencies and subsequent actions to limit their services while
+      maintaining their relationship with Israel.
+    paragraph_summary: On August 6, The Guardian reported allegations that the Israeli
+      Defense Forces (IDF) were using Microsoft's Azure cloud platform to store files
+      from mass surveillance of civilians in Gaza and the West Bank, following a 2021
+      agreement between Microsoft CEO Satya Nadella and Unit 8200, Israel's cyberwarfare
+      agency. Despite Nadella's claims of ignorance regarding the nature of the data
+      being stored, leaked documents and interviews indicated that Azure facilitated
+      military operations, including airstrikes. Microsoft acknowledged its partnership
+      with the Israeli government for cybersecurity but faced backlash from employees
+      and activists, leading to the dismissal of several protestors. Following the revelations,
+      Microsoft conducted a review that confirmed some of The Guardian's findings, prompting
+      the company to cease certain services to the Israeli Ministry of Defense while
+      maintaining its broader relationship with Israel. The situation highlights the
+      complexities of corporate ethics in conflict zones, as Microsoft balances its
+      business interests with the implications of its technology on civilian lives.
+    published: '2025-09-29T05:55:55+00:00'
+  - title: 'Launching Silent Courier: MI6 Goes WikiLeaks'
+    url: https://www.counterpunch.org/2025/09/26/launching-silent-courier-mi6-goes-wikileaks/
+    text: 'There is night and day between an entity such as WikiLeaks, a daring publisher
+      of classified government documents extraordinaire, and the dour, secretive intelligence
+      service of any country. But it seems that, just as the owl of Minerva takes flight
+      at dusk, some of them are learning a few lessons. For one thing, the British foreign
+      intelligence service, M16, has decided to take to the World Wide Web, especially
+      its dark version, to lure recruits and secrets. How close, then, to the practices
+      of Julian Assange and the publishing organisation that made him infamous and the
+      subject of much abomination in intelligence circles.
+
+
+      The intended platform is to have the name Silent Courier. “As the world changes
+      and threats multiply, we must stay ahead of our adversaries,” stated Foreign Secretary
+      Yvette Cooper. “Our intelligence agencies work tirelessly to keep British people
+      safe, and this cutting-edge technology will help M16 recruit new agents, including
+      in Russia and beyond.” Given the extensive historical record of deep penetration
+      of the British intelligence services by Russians, this is bound to have induced
+      a bored yawn.
+
+
+      The official announcement came from Sir Richard Moore, the outgoing M16 chief
+      who decided to use Istanbul as the place to make it. “Today, we’re asking those
+      with sensitive information on global instability, international terrorism, or
+      hostile state activity to contact MI6 securely online.” With paternal assurance,
+      he promised that, “Our virtual door is open to you.”
+
+
+      The recruitment approach is not dissimilar to the campaigns used by the US Central
+      Intelligence Agency. In 2022 and 2023, the organisation employed such platforms
+      as Telegram, Facebook, X (previously X) and Instagram to net potential recruits
+      from Russia. Instructions were also released on how to contact the agency on the
+      dark web. The CIA, being convinced of the efficacy of these moves, released a
+      video last year on Telegram titled “Why I contacted the CIA: the motherland” urging
+      Russians to target Russia’s real enemies: the country’s leadership. “Our leaders
+      sell out the country,” moralises the fictional officer of Russia’s military intelligence
+      agency, the GRU, “for palaces and yachts while our soldiers chew rotten potatoes
+      and fire ancient weapons.”
+
+
+      An uncharitable reading of such moves suggest that the US spy outfit, being incapable
+      of building human networks with human agents in Russia, requires the services
+      of social media to secure contacts. While we are not sure about the extent of
+      how successful these moves have been, the standard of efficacy, if we are to believe
+      a CIA spokesperson, is taken to be the number of viewings of the various posts.
+      Troubling, if true.
+
+
+      This month, a partnership with Google Cloud between the UK and US was minted,
+      an agreement that again shows the insatiable appetite on the part of governments
+      to secure the services of Big Tech. “The partnership,” states the September 12
+      press release from the Ministry of Defence, “means that the latest technology
+      developed by Google Cloud, including AI, data analytics, and cyber security, will
+      be used by defence intelligence and national security specialists to share secure
+      information between our partners and outcompete our adversaries.”
+
+
+      These agencies, it would seem, have been seduced by the very world hated by government
+      bureaucrats and the secrecy mongers: the use of the dark web, the incitement to
+      steal information, and using an encrypted platform that echoes the WikiLeaks model
+      for securing information from leakers and whistleblowers.
+
+
+      For some, the world of clandestine meetings and the exchange of envelopes has
+      become a bit fusty and mothballed, though there is something more profound about
+      those personal ties in the recruitment process. The use of technology, however,
+      has become irresistible, even a fetish, and agencies have come to realise that
+      secure platforms enabling foreign agents or those in foreign employ to communicate
+      classified material is a worthwhile endeavour.
+
+
+      The MI6 platform makes use of the Tor network, a facility that, while strong,
+      is not impervious. The agency advises that potential contacts resort to VPNs to
+      access the platform, supplying a dedicated email address for communications. Also
+      encouraged is the use of private browsing with devices equipped with updated security
+      and eschewing the use of credit cards.
+
+
+      The dark web, while attractive, is not an impenetrable jungle. The resourceful
+      and persistent will find a way. Beijing’s Ministry of State Security has, for
+      instance, previously succeeded in penetrating encrypted CIA platforms with spectacular
+      success. Between 2010 and 2012, according to the New York Times, some 20 CIA informants
+      were either killed or imprisoned by the Chinese authorities. The theories offered
+      are conventional: traditional, old-school exposure of the sources by virtue of
+      a well-placed mole within the American agency, or the ability of the country’s
+      cyber platoons to break the channels of secure communication. And never, of course,
+      rule out simple negligence.
+
+
+      M16, in going WikiLeaks, has acknowledged, at the very least, the value of having
+      avenues of disclosure that do cast light on rough, inscrutable terrain drawn from
+      sources of value. The legacy of WikiLeaks speaks to exposing the secretive information
+      that should be known to the public, exposing those venal types in power to withering
+      scrutiny. MI6 intends to perform the same function, with one crucial difference:
+      those secrets will be intended for minimal circulation among the anointed elite
+      in order to advance the agenda of His Majesty’s Government. That, at least, is
+      the intention.'
+    one_sentence_summary: MI6 is adopting a WikiLeaks-inspired approach by launching
+      a dark web platform called Silent Courier to recruit agents and gather sensitive
+      information, reflecting a shift towards utilizing technology and social media
+      in intelligence operations, despite the inherent risks and challenges associated
+      with such methods.
+    paragraph_summary: The British foreign intelligence service, MI6, is adopting modern
+      technology and methods reminiscent of WikiLeaks to recruit agents and gather sensitive
+      information, particularly from Russia, through a new platform called Silent Courier.
+      This initiative, announced by outgoing MI6 chief Sir Richard Moore, aims to leverage
+      the dark web and secure online communications to encourage whistleblowers and
+      informants to share intelligence on global threats. This approach mirrors tactics
+      used by the CIA, which has utilized social media to attract potential recruits
+      and informants from Russia. Despite the risks associated with using the dark web,
+      such as vulnerability to cyber infiltration, MI6's strategy reflects a shift towards
+      embracing technology to enhance intelligence operations, albeit with the intent
+      of maintaining secrecy for governmental agendas rather than public transparency.
+    published: '2025-09-26T05:54:23+00:00'
   - title: Lord Mandelson’s Epstein Problem
     url: https://www.counterpunch.org/2025/09/22/lord-mandelsons-epstein-problem/
     text: 'It was so startlingly obvious it seemed to snuff out any comment. Lord Peter

@@ -7,14 +7,694 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  The ongoing Israeli-Palestinian conflict has reached a critical humanitarian and political juncture. Over the past week, Israeli military operations in Gaza have intensified, with government leaders in Tel Aviv consistently framing their actions as essential for national security. However, as **Elijah J. Magnier** reports, the reality on the ground is marked by repeated displacement of Palestinians, widespread destruction of infrastructure, and irreversible harm to civilian life. The Israeli leadership’s rhetoric, according to Magnier, masks a cycle of devastation that condemns not only Palestinians but also future generations of Israelis to continued insecurity and trauma.
+  The geopolitical landscape remains tense as the U.S. maintains a hardline stance against Iran, while Israel faces growing international isolation over its actions in Palestine. According to **Elijah J. Magnier**, despite shifts in Iranian leadership and diplomatic tone, Washington’s core objective has not changed: “The U.S. has consistently aimed to compel Iran to relinquish its strategic capabilities and regional influence, employing a range of aggressive tactics while framing these actions as part of a diplomatic strategy.” This approach, presented as diplomacy, in reality seeks to integrate Iran into a U.S.-dominated regional order by reducing its autonomy and deterrence.
   
-  Recent developments highlight the deepening crisis: Israeli bombardments have forced hundreds of thousands of Palestinians into overcrowded, unsafe areas, dramatically worsening the humanitarian situation. The death toll continues to rise daily, and the prospects for meaningful relief remain bleak. **Magnier** emphasizes that families are compelled to rebuild their lives amid relentless destruction, with no end in sight to the violence.
+  Europe, meanwhile, emerges as the principal casualty of these policies. As **Magnier** notes, European states are caught between U.S. demands and the economic consequences of sanctions, losing access to Iranian markets and energy while gaining little leverage in return. This dynamic has led to increasing frustration within the EU, which finds itself unable to influence outcomes or protect its own interests.
   
-  On the political front, Israeli Prime Minister Benjamin Netanyahu has reiterated his commitment to targeting Hamas leadership, even as the military campaign endangers the lives of Israeli hostages held in Gaza. The majority of analysts, including **Magnier**, agree that the impending ground invasion will almost certainly place these hostages at even greater risk, with Netanyahu’s public statements seen as an attempt to preemptively shift blame for any tragic outcomes.
+  On the Israeli-Palestinian front, recent weeks have seen Prime Minister Netanyahu’s rhetoric at the United Nations further widen the gap between Israel and much of the international community. **Magnier** highlights that Netanyahu’s “familiar justifications for Israel’s actions” underscore a growing disconnect: Israel’s leadership continues to invoke national security to justify military operations, while the humanitarian toll on Palestinians deepens and global criticism mounts.
   
-  Looking ahead, the prevailing trend is one of escalating violence and deepening humanitarian catastrophe. Based on the current trajectory and the positions of both Israeli and Palestinian leadership, I most definitely guarantee that the cycle of destruction and retaliation will persist in the near term. The likelihood of a negotiated settlement or significant de-escalation remains extremely low, and the region is set to endure further instability, with generational consequences for both peoples.
+  Looking ahead, the trends are clear. The U.S. is most definitely expected to maintain pressure on Iran, regardless of changes in Tehran or European objections. There is a high chance that Europe’s marginalization will persist, with little prospect of regaining influence in the near term. In the Israeli-Palestinian context, the international community’s distancing from Israel’s narrative is quite likely to intensify, increasing Israel’s diplomatic isolation but not fundamentally altering its policies on the ground.
 articles:
+  - title: 'Iran under UN Sanctions: What are the US conditions – and how is Europe
+      the Biggest Loser'
+    url: https://ejmagnier.com/2025/09/29/iran-under-un-sanctions-what-are-the-us-conditions-and-how-is-europe-the-biggest-loser/
+    text: 'Tweet By Elijah J. Magnier – When it comes to Iran, Washington’s objectives
+      have remained remarkably consistent across administrations, regardless of the
+      Iranian government’s identity, either conservative or pragmatic. Behind the diplomatic
+      language and the talk of “non-proliferation” and “regional stability,” the goal
+      has been the same for decades: Iran must submit, surrender its strategic capabilities,
+      dismantle its regional alliances, and ultimately accept a subordinate place in
+      a US-led order. That objective has been pursued under Democratic and Republican
+      presidents alike, through sanctions, sabotage, cyberattacks, diplomatic isolation,
+      and military threats. Even as these measures intensify, Western officials continue
+      to frame their actions as part of a broader diplomatic strategy. EU foreign policy
+      chief Kaya Kallas, for instance, insisted that the return of UN sanctions “does
+      not mark the end of diplomacy” but rather a necessary step toward renewed negotiations.
+      In Washington, senior figures echoed this dual message: Secretary of State Marco
+      Rubio described the snapback as a “clear signal” that the world would not tolerate
+      Iranian “half-measures,” while maintaining that a diplomatic solution remains
+      “the best outcome.” Yet Tehran sees such language as deeply disingenuous — a way
+      to justify coercion while shifting blame for the breakdown of dialogue onto Iran – and
+      that the US conditions are impossible and unacceptable. For Tehran, this reality
+      is no longer in question. What has become equally clear over the past decade is
+      that Europe – which has often presented itself as a moderating force and an advocate
+      of dialogue – lacks both the political will and the strategic autonomy to act
+      independently of Washington. And as a result, it is Europe, more than the United
+      States, that stands to lose most from the deepening confrontation. Pragmatists
+      or Hardliners: It Makes No Difference In the West, political commentary often
+      divides Iran’s leadership into “hardliners” and “moderates,” portraying the country’s
+      foreign policy posture as a function of which faction is in power. The Rouhani-Zarif
+      administration, which negotiated the 2015 Joint Comprehensive Plan of Action (JCPOA)
+      with the P5+1, was widely described as pragmatic, centrist, even reformist. Yet
+      this government – not the so-called hardliners – was targeted with the most punishing
+      sanctions in the Islamic Republic’s history when Donald Trump unilaterally withdrew
+      from the JCPOA in 2018 and launched his “maximum pressure” campaign. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: The article argues that despite changes in Iranian leadership
+      and diplomatic rhetoric, the U.S. has consistently aimed to compel Iran to relinquish
+      its strategic capabilities and regional influence, employing a range of aggressive
+      tactics while framing these actions as part of a diplomatic strategy.
+    paragraph_summary: Elijah J. Magnier's article discusses the consistent objectives
+      of the United States towards Iran, which have remained unchanged across different
+      administrations, regardless of the Iranian government's political stance. The
+      U.S. aims for Iran to relinquish its strategic capabilities and regional alliances,
+      thereby accepting a subordinate role within a U.S.-led global order. This goal
+      has been pursued through various means, including sanctions and military threats,
+      while being framed as part of a diplomatic strategy. Despite claims of seeking
+      dialogue, Iran perceives these actions as coercive and disingenuous. The article
+      also highlights that Europe, often seen as a potential mediator, lacks the political
+      will to act independently of the U.S. and may suffer the most from the escalating
+      tensions. Ultimately, the internal divisions within Iran's leadership—between
+      pragmatists and hardliners—are deemed irrelevant to the West's overarching strategy.
+    published: '2025-09-29T18:13:56+00:00'
+  - title: 'Iran under UN Sanctions: What are the US conditions – and how is Europe
+      the Biggest Loser'
+    url: https://ejmagnier.com/2025/09/29/iran-under-un-sanctions-what-are-the-us-conditions-and-how-is-europe-the-biggest-loser/
+    text: 'Tweet By Elijah J. Magnier – When it comes to Iran, Washington’s objectives
+      have remained remarkably consistent across administrations, regardless of the
+      Iranian government’s identity, either conservative or pragmatic. Behind the diplomatic
+      language and the talk of “non-proliferation” and “regional stability,” the goal
+      has been the same for decades: Iran must submit, surrender its strategic capabilities,
+      dismantle its regional alliances, and ultimately accept a subordinate place in
+      a US-led order. That objective has been pursued under Democratic and Republican
+      presidents alike, through sanctions, sabotage, cyberattacks, diplomatic isolation,
+      and military threats. Even as these measures intensify, Western officials continue
+      to frame their actions as part of a broader diplomatic strategy. EU foreign policy
+      chief Kaya Kallas, for instance, insisted that the return of UN sanctions “does
+      not mark the end of diplomacy” but rather a necessary step toward renewed negotiations.
+      In Washington, senior figures echoed this dual message: Secretary of State Marco
+      Rubio described the snapback as a “clear signal” that the world would not tolerate
+      Iranian “half-measures,” while maintaining that a diplomatic solution remains
+      “the best outcome.” Yet Tehran sees such language as deeply disingenuous — a way
+      to justify coercion while shifting blame for the breakdown of dialogue onto Iran – and
+      that the US conditions are impossible and unacceptable. For Tehran, this reality
+      is no longer in question. What has become equally clear over the past decade is
+      that Europe – which has often presented itself as a moderating force and an advocate
+      of dialogue – lacks both the political will and the strategic autonomy to act
+      independently of Washington. And as a result, it is Europe, more than the United
+      States, that stands to lose most from the deepening confrontation. Pragmatists
+      or Hardliners: It Makes No Difference In the West, political commentary often
+      divides Iran’s leadership into “hardliners” and “moderates,” portraying the country’s
+      foreign policy posture as a function of which faction is in power. The Rouhani-Zarif
+      administration, which negotiated the 2015 Joint Comprehensive Plan of Action (JCPOA)
+      with the P5+1, was widely described as pragmatic, centrist, even reformist. Yet
+      this government – not the so-called hardliners – was targeted with the most punishing
+      sanctions in the Islamic Republic’s history when Donald Trump unilaterally withdrew
+      from the JCPOA in 2018 and launched his “maximum pressure” campaign. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: The article argues that despite changes in Iranian leadership
+      and diplomatic rhetoric, the U.S. has consistently aimed to compel Iran to relinquish
+      its strategic capabilities and regional influence, employing a range of aggressive
+      tactics while framing these actions as part of a diplomatic strategy.
+    paragraph_summary: Elijah J. Magnier's article discusses the consistent objectives
+      of the United States towards Iran, which have remained unchanged across different
+      administrations, regardless of the Iranian government's political stance. The
+      U.S. aims for Iran to relinquish its strategic capabilities and regional alliances,
+      thereby accepting a subordinate role within a U.S.-led global order. This goal
+      has been pursued through various means, including sanctions and military threats,
+      while being framed as part of a diplomatic strategy. Despite claims of seeking
+      dialogue, Iran perceives these actions as coercive and disingenuous. The article
+      also highlights that Europe, often seen as a potential mediator, lacks the political
+      will to act independently of the U.S. and may suffer the most from the escalating
+      tensions. Ultimately, the internal divisions within Iran's leadership—between
+      pragmatists and hardliners—are deemed irrelevant to the West's overarching strategy.
+    published: '2025-09-29T18:13:56+00:00'
+  - title: 'L’Iran sous sanctions de l’ONU : Quelles sont les conditions américaines
+      – et pourquoi l’Europe est la grande perdante'
+    url: https://ejmagnier.com/2025/09/29/liran-sous-sanctions-de-lonu-quelles-sont-les-conditions-americaines-et-pourquoi-leurope-est-la-grande-perdante/
+    text: 'Tweet Par Elijah J. Magnier – S’agissant de l’Iran, les objectifs de Washington
+      sont restés remarquablement constants d’une administration à l’autre, quel que
+      soit le gouvernement iranien en place, qu’il soit conservateur ou pragmatique.
+      Derrière le langage diplomatique et les discours sur la « non-prolifération »
+      et la « stabilité régionale », le but poursuivi depuis des décennies demeure le
+      même : amener l’Iran à se soumettre, à renoncer à ses capacités stratégiques,
+      à démanteler ses alliances régionales et, en fin de compte, à accepter une place
+      subordonnée dans un ordre dirigé par les États-Unis. Cet objectif a été poursuivi
+      aussi bien par les présidents démocrates que républicains, par le biais de sanctions,
+      de sabotages, d’attaques cybernétiques, d’isolement diplomatique et de menaces
+      militaires. Même si ces mesures s’intensifient, les responsables occidentaux continuent
+      de présenter leurs actions comme faisant partie d’une stratégie diplomatique plus
+      large. La cheffe de la diplomatie européenne, Kaya Kallas, a ainsi affirmé que
+      le retour des sanctions onusiennes « ne signifie pas la fin de la diplomatie »
+      mais constitue « une étape nécessaire » vers de nouvelles négociations. À Washington,
+      de hauts responsables ont tenu un double discours similaire : le secrétaire d’État
+      Marco Rubio a décrit le rétablissement automatique des sanctions comme un « signal
+      clair » indiquant que le monde ne tolérerait pas de « demi-mesures » iraniennes,
+      tout en maintenant qu’une solution négociée reste « la meilleure issue ». Téhéran
+      considère toutefois ce langage comme profondément hypocrite – une manière de justifier
+      la coercition tout en rejetant sur l’Iran la responsabilité de l’échec du dialogue
+      – et souligne que les conditions américaines sont irréalisables et inacceptables.
+      Pour Téhéran, cette réalité n’est plus sujette à débat. Ce qui est devenu tout
+      aussi évident au cours de la dernière décennie, c’est que l’Europe – qui a souvent
+      tenté de se présenter comme une force modératrice et un défenseur du dialogue
+      – n’a ni la volonté politique ni l’autonomie stratégique nécessaires pour agir
+      indépendamment de Washington. Et, en conséquence, c’est l’Europe, plus encore
+      que les États-Unis, qui risque de sortir perdante de cette confrontation qui s’intensifie.
+      Pragmatistes ou radicaux : aucune différence En Occident, les commentateurs politiques
+      ont tendance à diviser la direction iranienne entre « durs » et « modérés », comme
+      si l’orientation de sa politique étrangère dépendait de la faction au pouvoir.
+      L’administration Rouhani-Zarif, qui avait négocié en 2015 le Plan d’action global
+      commun (JCPOA) avec le P5+1, était largement décrite comme pragmatique, centriste,
+      voire réformiste. Pourtant, c’est ce gouvernement – et non les soi-disant « durs
+      » – qui a été frappé par les sanctions les plus sévères de l’histoire de la République
+      islamique lorsque Donald Trump s’est unilatéralement retiré de l’accord en 2018
+      et a lancé sa campagne de « pression maximale ». Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: L'article souligne que, malgré les changements de gouvernement
+      en Iran, les États-Unis ont constamment cherché à soumettre le pays et à réduire
+      ses capacités stratégiques à travers diverses mesures, tout en prétendant agir
+      dans un cadre diplomatique.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne la constance des objectifs
+      de Washington envers l'Iran, indépendamment des changements de gouvernement en
+      Iran, qu'il soit conservateur ou pragmatique. Malgré un discours diplomatique
+      axé sur la "non-prolifération" et la "stabilité régionale", l'objectif reste de
+      forcer l'Iran à renoncer à ses capacités stratégiques et à ses alliances, tout
+      en l'amenant à accepter un rôle subordonné dans un ordre dominé par les États-Unis.
+      Cette stratégie, mise en œuvre par diverses administrations à travers des sanctions,
+      des cyberattaques et des menaces militaires, est souvent présentée comme une démarche
+      diplomatique, bien que Téhéran considère cette approche comme hypocrite et inacceptable.
+      L'article note également que l'Europe, tout en tentant de jouer un rôle modérateur,
+      se trouve dans une position délicate face à cette dynamique.
+    published: '2025-09-29T18:12:55+00:00'
+  - title: 'L’Iran sous sanctions de l’ONU : Quelles sont les conditions américaines
+      – et pourquoi l’Europe est la grande perdante'
+    url: https://ejmagnier.com/2025/09/29/liran-sous-sanctions-de-lonu-quelles-sont-les-conditions-americaines-et-pourquoi-leurope-est-la-grande-perdante/
+    text: 'Tweet Par Elijah J. Magnier – S’agissant de l’Iran, les objectifs de Washington
+      sont restés remarquablement constants d’une administration à l’autre, quel que
+      soit le gouvernement iranien en place, qu’il soit conservateur ou pragmatique.
+      Derrière le langage diplomatique et les discours sur la « non-prolifération »
+      et la « stabilité régionale », le but poursuivi depuis des décennies demeure le
+      même : amener l’Iran à se soumettre, à renoncer à ses capacités stratégiques,
+      à démanteler ses alliances régionales et, en fin de compte, à accepter une place
+      subordonnée dans un ordre dirigé par les États-Unis. Cet objectif a été poursuivi
+      aussi bien par les présidents démocrates que républicains, par le biais de sanctions,
+      de sabotages, d’attaques cybernétiques, d’isolement diplomatique et de menaces
+      militaires. Même si ces mesures s’intensifient, les responsables occidentaux continuent
+      de présenter leurs actions comme faisant partie d’une stratégie diplomatique plus
+      large. La cheffe de la diplomatie européenne, Kaya Kallas, a ainsi affirmé que
+      le retour des sanctions onusiennes « ne signifie pas la fin de la diplomatie »
+      mais constitue « une étape nécessaire » vers de nouvelles négociations. À Washington,
+      de hauts responsables ont tenu un double discours similaire : le secrétaire d’État
+      Marco Rubio a décrit le rétablissement automatique des sanctions comme un « signal
+      clair » indiquant que le monde ne tolérerait pas de « demi-mesures » iraniennes,
+      tout en maintenant qu’une solution négociée reste « la meilleure issue ». Téhéran
+      considère toutefois ce langage comme profondément hypocrite – une manière de justifier
+      la coercition tout en rejetant sur l’Iran la responsabilité de l’échec du dialogue
+      – et souligne que les conditions américaines sont irréalisables et inacceptables.
+      Pour Téhéran, cette réalité n’est plus sujette à débat. Ce qui est devenu tout
+      aussi évident au cours de la dernière décennie, c’est que l’Europe – qui a souvent
+      tenté de se présenter comme une force modératrice et un défenseur du dialogue
+      – n’a ni la volonté politique ni l’autonomie stratégique nécessaires pour agir
+      indépendamment de Washington. Et, en conséquence, c’est l’Europe, plus encore
+      que les États-Unis, qui risque de sortir perdante de cette confrontation qui s’intensifie.
+      Pragmatistes ou radicaux : aucune différence En Occident, les commentateurs politiques
+      ont tendance à diviser la direction iranienne entre « durs » et « modérés », comme
+      si l’orientation de sa politique étrangère dépendait de la faction au pouvoir.
+      L’administration Rouhani-Zarif, qui avait négocié en 2015 le Plan d’action global
+      commun (JCPOA) avec le P5+1, était largement décrite comme pragmatique, centriste,
+      voire réformiste. Pourtant, c’est ce gouvernement – et non les soi-disant « durs
+      » – qui a été frappé par les sanctions les plus sévères de l’histoire de la République
+      islamique lorsque Donald Trump s’est unilatéralement retiré de l’accord en 2018
+      et a lancé sa campagne de « pression maximale ». Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: L'article souligne que, malgré les changements de gouvernement
+      en Iran, les États-Unis ont constamment cherché à soumettre le pays et à réduire
+      ses capacités stratégiques à travers diverses mesures, tout en prétendant agir
+      dans un cadre diplomatique.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne la constance des objectifs
+      de Washington envers l'Iran, indépendamment des changements de gouvernement en
+      Iran, qu'il soit conservateur ou pragmatique. Malgré un discours diplomatique
+      axé sur la "non-prolifération" et la "stabilité régionale", l'objectif reste de
+      forcer l'Iran à renoncer à ses capacités stratégiques et à ses alliances, tout
+      en l'amenant à accepter un rôle subordonné dans un ordre dominé par les États-Unis.
+      Cette stratégie, mise en œuvre par diverses administrations à travers des sanctions,
+      des cyberattaques et des menaces militaires, est souvent présentée comme une démarche
+      diplomatique, bien que Téhéran considère cette approche comme hypocrite et inacceptable.
+      L'article note également que l'Europe, tout en tentant de jouer un rôle modérateur,
+      se trouve dans une position délicate face à cette dynamique.
+    published: '2025-09-29T18:12:55+00:00'
+  - title: 'Iran unter UN-Sanktionen: Was sind die Bedingungen der USA – und warum ist
+      Europa der größte Verlierer?'
+    url: https://ejmagnier.com/2025/09/29/iran-unter-un-sanktionen-was-sind-die-bedingungen-der-usa-und-warum-ist-europa-der-groste-verlierer/
+    text: 'Tweet Von Elijah J. Magnier – Was den Iran betrifft, so sind die Ziele Washingtons
+      über alle Regierungen hinweg bemerkenswert konsistent geblieben, unabhängig davon,
+      ob die iranische Regierung konservativ oder pragmatisch ist. Hinter der diplomatischen
+      Sprache und dem Gerede von „Nichtverbreitung“ und „regionaler Stabilität“ ist
+      das Ziel seit Jahrzehnten dasselbe: Der Iran muss sich unterwerfen, seine strategischen
+      Fähigkeiten aufgeben, seine regionalen Allianzen auflösen und letztendlich eine
+      untergeordnete Rolle in einer von den USA geführten Ordnung akzeptieren. Dieses
+      Ziel wurde sowohl unter demokratischen als auch unter republikanischen Präsidenten
+      verfolgt, durch Sanktionen, Sabotage, Cyberangriffe, diplomatische Isolation und
+      militärische Drohungen. Auch wenn diese Maßnahmen immer intensiver werden, stellen
+      westliche Politiker ihre Aktionen weiterhin als Teil einer umfassenderen diplomatischen
+      Strategie dar. So betonte beispielsweise der EU-Außenbeauftragte Kaya Kallas,
+      dass die Wiedereinführung der UN-Sanktionen „nicht das Ende der Diplomatie“ bedeute,
+      sondern vielmehr ein notwendiger Schritt in Richtung neuer Verhandlungen sei.
+      In Washington wiederholten hochrangige Politiker diese doppelte Botschaft: Außenminister
+      Marco Rubio bezeichnete die Wiedereinsetzung der Sanktionen als „klares Signal“,
+      dass die Welt keine „Halbheiten“ des Iran tolerieren werde, während er gleichzeitig
+      betonte, dass eine diplomatische Lösung nach wie vor „das beste Ergebnis“ sei.
+      Teheran hält solche Äußerungen jedoch für zutiefst unaufrichtig – als einen Versuch,
+      Zwangsmaßnahmen zu rechtfertigen und gleichzeitig die Schuld für das Scheitern
+      des Dialogs auf den Iran abzuwälzen – und hält die Bedingungen der USA für unmöglich
+      und inakzeptabel. Für Teheran steht diese Realität außer Frage. Ebenso klar geworden
+      ist in den letzten zehn Jahren, dass Europa – das sich oft als mäßigende Kraft
+      und Verfechter des Dialogs zu präsentieren versucht hat – weder den politischen
+      Willen noch die strategische Autonomie besitzt, um unabhängig von Washington zu
+      handeln. Infolgedessen ist es Europa mehr als die Vereinigten Staaten, das durch
+      die sich verschärfende Konfrontation am meisten zu verlieren hat. Pragmatiker
+      oder Hardliner: Es macht keinen Unterschied In westlichen politischen Kommentaren
+      wird die iranische Führung oft in „Hardliner“ und „Moderate“ unterteilt, wobei
+      die außenpolitische Haltung des Landes als Funktion der jeweils an der Macht befindlichen
+      Fraktion dargestellt wird. Die Regierung Rouhani-Zarif, die 2015 mit den P5+1
+      den Gemeinsamen Umfassenden Aktionsplan (JCPOA) ausgehandelt hatte, wurde weithin
+      als pragmatisch, zentristisch, ja sogar reformistisch beschrieben. Doch diese
+      Regierung – und nicht die sogenannten Hardliner – wurde mit den härtesten Sanktionen
+      in der Geschichte der Islamischen Republik belegt, als Donald Trump 2018 einseitig
+      aus dem JCPOA austrat und seine „Maximaldruck“-Kampagne startete. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Die US-amerikanische Politik gegenüber dem Iran bleibt über
+      verschiedene Regierungen hinweg konstant, mit dem Ziel, den Iran zu unterwerfen,
+      seine strategischen Fähigkeiten zu reduzieren und ihn in eine von den USA dominierte
+      Ordnung zu integrieren, während diese Maßnahmen oft als diplomatische Strategien
+      maskiert werden.
+    paragraph_summary: Der Artikel von Elijah J. Magnier thematisiert die konsistenten
+      Ziele der USA gegenüber dem Iran, die unabhängig von der jeweiligen iranischen
+      Regierung sind. Washington strebt danach, den Iran zu unterwerfen, seine strategischen
+      Fähigkeiten zu reduzieren und seine regionalen Allianzen aufzulösen, um eine untergeordnete
+      Rolle in einer von den USA dominierten Ordnung zu erreichen. Diese Strategie wird
+      durch Sanktionen, Sabotage, Cyberangriffe und militärische Drohungen verfolgt,
+      während westliche Politiker diese Maßnahmen als Teil einer diplomatischen Strategie
+      darstellen. Teheran hingegen sieht diese Äußerungen als unaufrichtig an und betrachtet
+      die Bedingungen der USA als inakzeptabel, während Europa, das sich als Vermittler
+      positioniert, als nicht in der Lage erachtet wird, einen echten Dialog zu fördern.
+    published: '2025-09-29T18:11:52+00:00'
+  - title: 'Iran unter UN-Sanktionen: Was sind die Bedingungen der USA – und warum ist
+      Europa der größte Verlierer?'
+    url: https://ejmagnier.com/2025/09/29/iran-unter-un-sanktionen-was-sind-die-bedingungen-der-usa-und-warum-ist-europa-der-groste-verlierer/
+    text: 'Tweet Von Elijah J. Magnier – Was den Iran betrifft, so sind die Ziele Washingtons
+      über alle Regierungen hinweg bemerkenswert konsistent geblieben, unabhängig davon,
+      ob die iranische Regierung konservativ oder pragmatisch ist. Hinter der diplomatischen
+      Sprache und dem Gerede von „Nichtverbreitung“ und „regionaler Stabilität“ ist
+      das Ziel seit Jahrzehnten dasselbe: Der Iran muss sich unterwerfen, seine strategischen
+      Fähigkeiten aufgeben, seine regionalen Allianzen auflösen und letztendlich eine
+      untergeordnete Rolle in einer von den USA geführten Ordnung akzeptieren. Dieses
+      Ziel wurde sowohl unter demokratischen als auch unter republikanischen Präsidenten
+      verfolgt, durch Sanktionen, Sabotage, Cyberangriffe, diplomatische Isolation und
+      militärische Drohungen. Auch wenn diese Maßnahmen immer intensiver werden, stellen
+      westliche Politiker ihre Aktionen weiterhin als Teil einer umfassenderen diplomatischen
+      Strategie dar. So betonte beispielsweise der EU-Außenbeauftragte Kaya Kallas,
+      dass die Wiedereinführung der UN-Sanktionen „nicht das Ende der Diplomatie“ bedeute,
+      sondern vielmehr ein notwendiger Schritt in Richtung neuer Verhandlungen sei.
+      In Washington wiederholten hochrangige Politiker diese doppelte Botschaft: Außenminister
+      Marco Rubio bezeichnete die Wiedereinsetzung der Sanktionen als „klares Signal“,
+      dass die Welt keine „Halbheiten“ des Iran tolerieren werde, während er gleichzeitig
+      betonte, dass eine diplomatische Lösung nach wie vor „das beste Ergebnis“ sei.
+      Teheran hält solche Äußerungen jedoch für zutiefst unaufrichtig – als einen Versuch,
+      Zwangsmaßnahmen zu rechtfertigen und gleichzeitig die Schuld für das Scheitern
+      des Dialogs auf den Iran abzuwälzen – und hält die Bedingungen der USA für unmöglich
+      und inakzeptabel. Für Teheran steht diese Realität außer Frage. Ebenso klar geworden
+      ist in den letzten zehn Jahren, dass Europa – das sich oft als mäßigende Kraft
+      und Verfechter des Dialogs zu präsentieren versucht hat – weder den politischen
+      Willen noch die strategische Autonomie besitzt, um unabhängig von Washington zu
+      handeln. Infolgedessen ist es Europa mehr als die Vereinigten Staaten, das durch
+      die sich verschärfende Konfrontation am meisten zu verlieren hat. Pragmatiker
+      oder Hardliner: Es macht keinen Unterschied In westlichen politischen Kommentaren
+      wird die iranische Führung oft in „Hardliner“ und „Moderate“ unterteilt, wobei
+      die außenpolitische Haltung des Landes als Funktion der jeweils an der Macht befindlichen
+      Fraktion dargestellt wird. Die Regierung Rouhani-Zarif, die 2015 mit den P5+1
+      den Gemeinsamen Umfassenden Aktionsplan (JCPOA) ausgehandelt hatte, wurde weithin
+      als pragmatisch, zentristisch, ja sogar reformistisch beschrieben. Doch diese
+      Regierung – und nicht die sogenannten Hardliner – wurde mit den härtesten Sanktionen
+      in der Geschichte der Islamischen Republik belegt, als Donald Trump 2018 einseitig
+      aus dem JCPOA austrat und seine „Maximaldruck“-Kampagne startete. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Die US-amerikanische Politik gegenüber dem Iran bleibt über
+      verschiedene Regierungen hinweg konstant, mit dem Ziel, den Iran zu unterwerfen,
+      seine strategischen Fähigkeiten zu reduzieren und ihn in eine von den USA dominierte
+      Ordnung zu integrieren, während diese Maßnahmen oft als diplomatische Strategien
+      maskiert werden.
+    paragraph_summary: Der Artikel von Elijah J. Magnier thematisiert die konsistenten
+      Ziele der USA gegenüber dem Iran, die unabhängig von der jeweiligen iranischen
+      Regierung sind. Washington strebt danach, den Iran zu unterwerfen, seine strategischen
+      Fähigkeiten zu reduzieren und seine regionalen Allianzen aufzulösen, um eine untergeordnete
+      Rolle in einer von den USA dominierten Ordnung zu erreichen. Diese Strategie wird
+      durch Sanktionen, Sabotage, Cyberangriffe und militärische Drohungen verfolgt,
+      während westliche Politiker diese Maßnahmen als Teil einer diplomatischen Strategie
+      darstellen. Teheran hingegen sieht diese Äußerungen als unaufrichtig an und betrachtet
+      die Bedingungen der USA als inakzeptabel, während Europa, das sich als Vermittler
+      positioniert, als nicht in der Lage erachtet wird, einen echten Dialog zu fördern.
+    published: '2025-09-29T18:11:52+00:00'
+  - title: 'Le déni de Netanyahu et le réveil de l’Europe : quand le récit de guerre
+      israélien se heurte à la réalité'
+    url: https://ejmagnier.com/2025/09/27/le-deni-de-netanyahu-et-le-reveil-de-leurope-quand-le-recit-de-guerre-israelien-se-heurte-a-la-realite/
+    text: 'Tweet Par Elijah J. Magnier – L’apparition de Benjamin Netanyahu à l’ONU
+      cette semaine a été aussi creuse que familière. Il est monté à la tribune avec
+      son mélange habituel de défi et d’autojustification, recyclant des éléments de
+      langage qui ont depuis longtemps perdu toute force : qu’Israël lutte contre le
+      « terrorisme », que sa conduite militaire est « défensive », et que le monde ne
+      comprend tout simplement pas les menaces auxquelles il est confronté. Mais ce
+      discours — prononcé dans une salle presque vide, longtemps après le départ de
+      la plupart des dirigeants mondiaux — a été remarquable pour des raisons qui vont
+      bien au-delà des apparences. Il a illustré la profondeur du déni israélien, l’arrogance
+      de sa direction et le fossé croissant entre l’image qu’elle tente de projeter
+      et la réalité qui se déroule à Gaza, en Cisjordanie et au-delà. Les médias israéliens
+      ont réagi avec fureur, déclarant que la majorité des États membres de l’ONU avaient
+      « craché non seulement au visage de Benjamin Netanyahu, mais aussi à celui d’Israël
+      », avertissant que le pays est désormais plus isolé que jamais sur la scène internationale.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: L'apparition de Benjamin Netanyahu à l'ONU a révélé le déni
+      et l'arrogance de la direction israélienne, soulignant l'écart entre leur discours
+      sur le terrorisme et la réalité des événements à Gaza et en Cisjordanie, tout
+      en suscitant une réaction furieuse des médias israéliens face à l'indifférence
+      des États membres de l'ONU.
+    paragraph_summary: Elijah J. Magnier critiques Benjamin Netanyahu's recent speech
+      at the UN, describing it as familiar yet hollow, characterized by his usual rhetoric
+      of defiance and self-justification regarding Israel's military actions and its
+      fight against terrorism. The speech, delivered to a nearly empty hall after most
+      world leaders had departed, highlights Israel's deep denial and the growing disconnect
+      between its leadership's narrative and the harsh realities in Gaza and the West
+      Bank. Israeli media reacted strongly, claiming that the majority of UN member
+      states have turned against Netanyahu and Israel, indicating the country's increasing
+      isolation on the international stage.
+    published: '2025-09-27T18:41:23+00:00'
+  - title: 'Le déni de Netanyahu et le réveil de l’Europe : quand le récit de guerre
+      israélien se heurte à la réalité'
+    url: https://ejmagnier.com/2025/09/27/le-deni-de-netanyahu-et-le-reveil-de-leurope-quand-le-recit-de-guerre-israelien-se-heurte-a-la-realite/
+    text: 'Tweet Par Elijah J. Magnier – L’apparition de Benjamin Netanyahu à l’ONU
+      cette semaine a été aussi creuse que familière. Il est monté à la tribune avec
+      son mélange habituel de défi et d’autojustification, recyclant des éléments de
+      langage qui ont depuis longtemps perdu toute force : qu’Israël lutte contre le
+      « terrorisme », que sa conduite militaire est « défensive », et que le monde ne
+      comprend tout simplement pas les menaces auxquelles il est confronté. Mais ce
+      discours — prononcé dans une salle presque vide, longtemps après le départ de
+      la plupart des dirigeants mondiaux — a été remarquable pour des raisons qui vont
+      bien au-delà des apparences. Il a illustré la profondeur du déni israélien, l’arrogance
+      de sa direction et le fossé croissant entre l’image qu’elle tente de projeter
+      et la réalité qui se déroule à Gaza, en Cisjordanie et au-delà. Les médias israéliens
+      ont réagi avec fureur, déclarant que la majorité des États membres de l’ONU avaient
+      « craché non seulement au visage de Benjamin Netanyahu, mais aussi à celui d’Israël
+      », avertissant que le pays est désormais plus isolé que jamais sur la scène internationale.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: L'apparition de Benjamin Netanyahu à l'ONU a révélé le déni
+      et l'arrogance de la direction israélienne, soulignant l'écart entre leur discours
+      sur le terrorisme et la réalité des événements à Gaza et en Cisjordanie, tout
+      en suscitant une réaction furieuse des médias israéliens face à l'indifférence
+      des États membres de l'ONU.
+    paragraph_summary: Elijah J. Magnier critiques Benjamin Netanyahu's recent speech
+      at the UN, describing it as familiar yet hollow, characterized by his usual rhetoric
+      of defiance and self-justification regarding Israel's military actions and its
+      fight against terrorism. The speech, delivered to a nearly empty hall after most
+      world leaders had departed, highlights Israel's deep denial and the growing disconnect
+      between its leadership's narrative and the harsh realities in Gaza and the West
+      Bank. Israeli media reacted strongly, claiming that the majority of UN member
+      states have turned against Netanyahu and Israel, indicating the country's increasing
+      isolation on the international stage.
+    published: '2025-09-27T18:41:23+00:00'
+  - title: 'Netanyahu’s ontkenning en Europa’s afrekening: hoe Israëls oorlogsverhaal
+      botst met de realiteit'
+    url: https://ejmagnier.com/2025/09/27/netanyahus-ontkenning-en-europas-afrekening-hoe-israels-oorlogsverhaal-botst-met-de-realiteit/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Benjamin
+      Netanyahu’s optreden bij de Verenigde Naties deze week was even hol als vertrouwd.
+      Hij betrad het podium met zijn gebruikelijke mix van uitdagendheid en zelfrechtvaardiging,
+      en herhaalde praatpunten die al lang hun kracht hebben verloren: dat Israël tegen
+      “terreur” vecht, dat zijn militaire optreden “defensief” is en dat de wereld simpelweg
+      niet begrijpt met welke bedreigingen het wordt geconfronteerd. Maar de toespraak
+      – gehouden in een bijna lege zaal lang nadat de meeste wereldleiders New York
+      hadden verlaten – was opmerkelijk om redenen die verder gaan dan de optiek. Ze
+      vatte de diepte van Israëls ontkenning, de hoogmoed van zijn leiders en de groeiende
+      kloof tussen het beeld dat het probeert te projecteren en de realiteit in Gaza,
+      de Westelijke Jordaanoever en daarbuiten samen. Netanyahu’s retoriek is verstarren
+      tot een ritueel van ontkenning. De premier ging niet in op de toenemende beschuldigingen
+      van oorlogsmisdaden, misdaden tegen de menselijkheid en zelfs genocide die tegen
+      Israël zijn ingebracht bij het Internationaal Strafhof (ICC) en het Internationaal
+      Gerechtshof (ICJ). In plaats daarvan sprak hij alsof de verwoesting in Gaza –
+      volgens cijfers van de VN zijn meer dan 65.000 Palestijnen omgekomen, waaronder
+      tienduizenden vrouwen en kinderen – niet had plaatsgevonden, om de coalitie van
+      zijn regering te beschermen. Israëlische functionarissen hebben de burgerslachtoffers
+      herhaaldelijk omschreven als ‘betreurenswaardig maar onvermijdelijk in een verhouding
+      van twee op één (twee burgers voor één Hamas-lid)’, waarbij ze deze afschilderden
+      als de onvermijdelijke prijs van een onverantwoordelijke oorlog. Hij vermeldde
+      nergens dat de acties van Israël meer dan 2 miljoen mensen op de vlucht hebben
+      gedreven, de civiele infrastructuur hebben vernietigd en het gebied op de rand
+      van hongersnood hebben gebracht. Subscribe Subscribe to get access Read more of
+      this content when you subscribe today. Subscribe Submitting form Log in Make a
+      one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Benjamin Netanyahu's recent speech at the United Nations was
+      characterized by a familiar mix of defiance and self-justification, reflecting
+      Israel's deep denial and disconnect from the realities in Gaza and the West Bank,
+      as he reiterated outdated talking points about fighting "terror" without addressing
+      growing criticisms.
+    paragraph_summary: In his recent speech at the United Nations, Israeli Prime Minister
+      Benjamin Netanyahu presented a familiar narrative of defiance and self-justification,
+      reiterating long-standing claims that Israel is fighting against "terror" and
+      conducting "defensive" military operations. However, the address, delivered in
+      a nearly empty hall after most world leaders had departed, highlighted the stark
+      disconnect between Israel's projected image and the harsh realities in Gaza and
+      the West Bank. Netanyahu's rhetoric has devolved into a ritual of denial, as he
+      ignored mounting accusations of war crimes and humanitarian violations against
+      Israel, including the staggering death toll of over 65,000 Palestinians, many
+      of whom are women and children. Instead, he framed civilian casualties as an unfortunate
+      but necessary consequence of war, while failing to acknowledge the widespread
+      destruction and humanitarian crisis affecting over two million people in the region.
+    published: '2025-09-27T18:36:55+00:00'
+  - title: 'Netanyahu’s ontkenning en Europa’s afrekening: hoe Israëls oorlogsverhaal
+      botst met de realiteit'
+    url: https://ejmagnier.com/2025/09/27/netanyahus-ontkenning-en-europas-afrekening-hoe-israels-oorlogsverhaal-botst-met-de-realiteit/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Benjamin
+      Netanyahu’s optreden bij de Verenigde Naties deze week was even hol als vertrouwd.
+      Hij betrad het podium met zijn gebruikelijke mix van uitdagendheid en zelfrechtvaardiging,
+      en herhaalde praatpunten die al lang hun kracht hebben verloren: dat Israël tegen
+      “terreur” vecht, dat zijn militaire optreden “defensief” is en dat de wereld simpelweg
+      niet begrijpt met welke bedreigingen het wordt geconfronteerd. Maar de toespraak
+      – gehouden in een bijna lege zaal lang nadat de meeste wereldleiders New York
+      hadden verlaten – was opmerkelijk om redenen die verder gaan dan de optiek. Ze
+      vatte de diepte van Israëls ontkenning, de hoogmoed van zijn leiders en de groeiende
+      kloof tussen het beeld dat het probeert te projecteren en de realiteit in Gaza,
+      de Westelijke Jordaanoever en daarbuiten samen. Netanyahu’s retoriek is verstarren
+      tot een ritueel van ontkenning. De premier ging niet in op de toenemende beschuldigingen
+      van oorlogsmisdaden, misdaden tegen de menselijkheid en zelfs genocide die tegen
+      Israël zijn ingebracht bij het Internationaal Strafhof (ICC) en het Internationaal
+      Gerechtshof (ICJ). In plaats daarvan sprak hij alsof de verwoesting in Gaza –
+      volgens cijfers van de VN zijn meer dan 65.000 Palestijnen omgekomen, waaronder
+      tienduizenden vrouwen en kinderen – niet had plaatsgevonden, om de coalitie van
+      zijn regering te beschermen. Israëlische functionarissen hebben de burgerslachtoffers
+      herhaaldelijk omschreven als ‘betreurenswaardig maar onvermijdelijk in een verhouding
+      van twee op één (twee burgers voor één Hamas-lid)’, waarbij ze deze afschilderden
+      als de onvermijdelijke prijs van een onverantwoordelijke oorlog. Hij vermeldde
+      nergens dat de acties van Israël meer dan 2 miljoen mensen op de vlucht hebben
+      gedreven, de civiele infrastructuur hebben vernietigd en het gebied op de rand
+      van hongersnood hebben gebracht. Subscribe Subscribe to get access Read more of
+      this content when you subscribe today. Subscribe Submitting form Log in Make a
+      one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Benjamin Netanyahu's recent speech at the United Nations was
+      characterized by a familiar mix of defiance and self-justification, reflecting
+      Israel's deep denial and disconnect from the realities in Gaza and the West Bank,
+      as he reiterated outdated talking points about fighting "terror" without addressing
+      growing criticisms.
+    paragraph_summary: In his recent speech at the United Nations, Israeli Prime Minister
+      Benjamin Netanyahu presented a familiar narrative of defiance and self-justification,
+      reiterating long-standing claims that Israel is fighting against "terror" and
+      conducting "defensive" military operations. However, the address, delivered in
+      a nearly empty hall after most world leaders had departed, highlighted the stark
+      disconnect between Israel's projected image and the harsh realities in Gaza and
+      the West Bank. Netanyahu's rhetoric has devolved into a ritual of denial, as he
+      ignored mounting accusations of war crimes and humanitarian violations against
+      Israel, including the staggering death toll of over 65,000 Palestinians, many
+      of whom are women and children. Instead, he framed civilian casualties as an unfortunate
+      but necessary consequence of war, while failing to acknowledge the widespread
+      destruction and humanitarian crisis affecting over two million people in the region.
+    published: '2025-09-27T18:36:55+00:00'
+  - title: 'Netanyahus Leugnung und Europas Abrechnung: Wie Israels Kriegsnarrativ mit
+      der Realität kollidiert'
+    url: https://ejmagnier.com/2025/09/27/netanyahus-leugnung-und-europas-abrechnung-wie-israels-kriegsnarrativ-mit-der-realitat-kollidiert/
+    text: 'Tweet Von Elijah J. Magnier – Benjamin Netanjahus Auftritt vor den Vereinten
+      Nationen in dieser Woche war ebenso hohl wie vertraut. Er betrat das Podium mit
+      seiner üblichen Mischung aus Trotz und Selbstrechtfertigung und wiederholte Argumente,
+      die längst ihre Kraft verloren haben: dass Israel gegen den „Terror“ kämpft, dass
+      sein militärisches Vorgehen „defensiv“ ist und dass die Welt einfach nicht versteht,
+      welchen Bedrohungen es ausgesetzt ist. Aber die Rede – gehalten in einem fast
+      leeren Saal, lange nachdem die meisten Staats- und Regierungschefs New York verlassen
+      hatten – war aus Gründen bemerkenswert, die über das Optische hinausgehen. Sie
+      fasste die Tiefe der Verleugnung Israels, die Hybris seiner Führung und die wachsende
+      Kluft zwischen dem Bild, das es zu vermitteln versucht, und der Realität in Gaza,
+      im Westjordanland und darüber hinaus zusammen.Netanjahus Rhetorik ist zu einem
+      Ritual der Verleugnung erstarrt. Der Premierminister ging mit keinem Wort auf
+      die zunehmenden Vorwürfe von Kriegsverbrechen, Verbrechen gegen die Menschlichkeit
+      und sogar Völkermord ein, die vor dem Internationalen Strafgerichtshof (ICC) und
+      dem Internationalen Gerichtshof (ICJ) gegen Israel erhoben werden. Stattdessen
+      sprach er so, als ob die Verwüstung in Gaza – laut UN-Angaben wurden mehr als
+      65.000 Palästinenser getötet, darunter Zehntausende Frauen und Kinder – nicht
+      stattgefunden hätte, um die Koalition seiner Regierung zu schützen. Israelische
+      Beamte haben die zivilen Opfer wiederholt als „bedauerlich, aber unvermeidbar
+      im Verhältnis zwei zu eins (zwei Zivilisten für einen Hamas-Angehörigen)“ beschrieben
+      und sie als unvermeidliche Kosten eines unverantwortlichen Krieges dargestellt.
+      Er erwähnte mit keinem Wort, dass Israels Aktionen über 2 Millionen Menschen gewaltsam
+      vertrieben, die zivile Infrastruktur zerstört und das Gebiet an den Rand einer
+      Hungersnot gebracht haben. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Benjamin Netanjahus Rede vor den Vereinten Nationen war geprägt
+      von hohlen, vertrauten Argumenten und einer tiefen Verleugnung der Realität, während
+      er die wachsende Kluft zwischen Israels Selbstbild und der Situation in Gaza und
+      dem Westjordanland ignorierte.
+    paragraph_summary: Elijah J. Magnier kritizes Benjamin Netanyahu's recent speech
+      at the United Nations, describing it as hollow and familiar, marked by defiance
+      and self-justification. Netanyahu reiterated outdated arguments about Israel's
+      fight against "terror" and its "defensive" military actions, failing to address
+      the growing accusations of war crimes and human rights violations against Israel.
+      The speech, delivered to a nearly empty room, highlighted the disconnect between
+      Israel's narrative and the harsh realities in Gaza and the West Bank, where significant
+      civilian casualties and humanitarian crises have occurred. Magnier emphasizes
+      that Netanyahu's rhetoric has become a ritual of denial, ignoring the devastating
+      impact of Israeli actions on Palestinian civilians and the broader implications
+      of the conflict.
+    published: '2025-09-27T18:34:24+00:00'
+  - title: 'Netanyahus Leugnung und Europas Abrechnung: Wie Israels Kriegsnarrativ mit
+      der Realität kollidiert'
+    url: https://ejmagnier.com/2025/09/27/netanyahus-leugnung-und-europas-abrechnung-wie-israels-kriegsnarrativ-mit-der-realitat-kollidiert/
+    text: 'Tweet Von Elijah J. Magnier – Benjamin Netanjahus Auftritt vor den Vereinten
+      Nationen in dieser Woche war ebenso hohl wie vertraut. Er betrat das Podium mit
+      seiner üblichen Mischung aus Trotz und Selbstrechtfertigung und wiederholte Argumente,
+      die längst ihre Kraft verloren haben: dass Israel gegen den „Terror“ kämpft, dass
+      sein militärisches Vorgehen „defensiv“ ist und dass die Welt einfach nicht versteht,
+      welchen Bedrohungen es ausgesetzt ist. Aber die Rede – gehalten in einem fast
+      leeren Saal, lange nachdem die meisten Staats- und Regierungschefs New York verlassen
+      hatten – war aus Gründen bemerkenswert, die über das Optische hinausgehen. Sie
+      fasste die Tiefe der Verleugnung Israels, die Hybris seiner Führung und die wachsende
+      Kluft zwischen dem Bild, das es zu vermitteln versucht, und der Realität in Gaza,
+      im Westjordanland und darüber hinaus zusammen.Netanjahus Rhetorik ist zu einem
+      Ritual der Verleugnung erstarrt. Der Premierminister ging mit keinem Wort auf
+      die zunehmenden Vorwürfe von Kriegsverbrechen, Verbrechen gegen die Menschlichkeit
+      und sogar Völkermord ein, die vor dem Internationalen Strafgerichtshof (ICC) und
+      dem Internationalen Gerichtshof (ICJ) gegen Israel erhoben werden. Stattdessen
+      sprach er so, als ob die Verwüstung in Gaza – laut UN-Angaben wurden mehr als
+      65.000 Palästinenser getötet, darunter Zehntausende Frauen und Kinder – nicht
+      stattgefunden hätte, um die Koalition seiner Regierung zu schützen. Israelische
+      Beamte haben die zivilen Opfer wiederholt als „bedauerlich, aber unvermeidbar
+      im Verhältnis zwei zu eins (zwei Zivilisten für einen Hamas-Angehörigen)“ beschrieben
+      und sie als unvermeidliche Kosten eines unverantwortlichen Krieges dargestellt.
+      Er erwähnte mit keinem Wort, dass Israels Aktionen über 2 Millionen Menschen gewaltsam
+      vertrieben, die zivile Infrastruktur zerstört und das Gebiet an den Rand einer
+      Hungersnot gebracht haben. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Benjamin Netanjahus Rede vor den Vereinten Nationen war geprägt
+      von hohlen, vertrauten Argumenten und einer tiefen Verleugnung der Realität, während
+      er die wachsende Kluft zwischen Israels Selbstbild und der Situation in Gaza und
+      dem Westjordanland ignorierte.
+    paragraph_summary: Elijah J. Magnier kritizes Benjamin Netanyahu's recent speech
+      at the United Nations, describing it as hollow and familiar, marked by defiance
+      and self-justification. Netanyahu reiterated outdated arguments about Israel's
+      fight against "terror" and its "defensive" military actions, failing to address
+      the growing accusations of war crimes and human rights violations against Israel.
+      The speech, delivered to a nearly empty room, highlighted the disconnect between
+      Israel's narrative and the harsh realities in Gaza and the West Bank, where significant
+      civilian casualties and humanitarian crises have occurred. Magnier emphasizes
+      that Netanyahu's rhetoric has become a ritual of denial, ignoring the devastating
+      impact of Israeli actions on Palestinian civilians and the broader implications
+      of the conflict.
+    published: '2025-09-27T18:34:24+00:00'
+  - title: 'Netanyahu’s Denial and Europe’s Reckoning: How Israel’s War Narrative Collides
+      with Reality'
+    url: https://ejmagnier.com/2025/09/27/netanyahus-denial-and-europes-reckoning-how-israels-war-narrative-collides-with-reality/
+    text: 'Tweet By Elijah J. Magnier – Benjamin Netanyahu’s appearance at the United
+      Nations this week was as hollow as it was familiar. He took the podium with his
+      usual mixture of defiance and self-justification, recycling talking points that
+      have long lost their force: that Israel is fighting “terror,” that its military
+      conduct is “defensive,” and that the world simply does not understand the threats
+      it faces. But the speech — delivered in a near-empty hall long after most world
+      leaders had left New York — was remarkable for reasons that go beyond the optics.
+      It encapsulated the depth of Israel’s denial, the hubris of its leadership, and
+      the widening gulf between the image it tries to project and the reality unfolding
+      in Gaza, the West Bank, and beyond. Israeli media reacted with fury, declaring
+      that most UN member states had “spat not only in Benjamin Netanyahu’s face but
+      in Israel’s,” warning that the country now stands more isolated than ever on the
+      international stage. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Benjamin Netanyahu's recent speech at the United Nations was
+      characterized by familiar justifications for Israel's actions, highlighting the
+      disconnect between the country's leadership and the international community, which
+      has increasingly distanced itself from Israel's position.
+    paragraph_summary: In his recent speech at the United Nations, Benjamin Netanyahu
+      presented a familiar narrative of Israel's struggle against "terror" and its defensive
+      military actions, despite the speech occurring in a nearly empty hall after most
+      world leaders had departed. This appearance highlighted Israel's denial and the
+      disconnect between its leadership's portrayal of the situation and the realities
+      in Gaza and the West Bank. Israeli media expressed outrage, noting that many UN
+      member states had shown significant disapproval, indicating that Israel is becoming
+      increasingly isolated on the global stage.
+    published: '2025-09-27T18:29:09+00:00'
+  - title: 'Netanyahu’s Denial and Europe’s Reckoning: How Israel’s War Narrative Collides
+      with Reality'
+    url: https://ejmagnier.com/2025/09/27/netanyahus-denial-and-europes-reckoning-how-israels-war-narrative-collides-with-reality/
+    text: 'Tweet By Elijah J. Magnier – Benjamin Netanyahu’s appearance at the United
+      Nations this week was as hollow as it was familiar. He took the podium with his
+      usual mixture of defiance and self-justification, recycling talking points that
+      have long lost their force: that Israel is fighting “terror,” that its military
+      conduct is “defensive,” and that the world simply does not understand the threats
+      it faces. But the speech — delivered in a near-empty hall long after most world
+      leaders had left New York — was remarkable for reasons that go beyond the optics.
+      It encapsulated the depth of Israel’s denial, the hubris of its leadership, and
+      the widening gulf between the image it tries to project and the reality unfolding
+      in Gaza, the West Bank, and beyond. Israeli media reacted with fury, declaring
+      that most UN member states had “spat not only in Benjamin Netanyahu’s face but
+      in Israel’s,” warning that the country now stands more isolated than ever on the
+      international stage. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Benjamin Netanyahu's recent speech at the United Nations was
+      characterized by familiar justifications for Israel's actions, highlighting the
+      disconnect between the country's leadership and the international community, which
+      has increasingly distanced itself from Israel's position.
+    paragraph_summary: In his recent speech at the United Nations, Benjamin Netanyahu
+      presented a familiar narrative of Israel's struggle against "terror" and its defensive
+      military actions, despite the speech occurring in a nearly empty hall after most
+      world leaders had departed. This appearance highlighted Israel's denial and the
+      disconnect between its leadership's portrayal of the situation and the realities
+      in Gaza and the West Bank. Israeli media expressed outrage, noting that many UN
+      member states had shown significant disapproval, indicating that Israel is becoming
+      increasingly isolated on the global stage.
+    published: '2025-09-27T18:29:09+00:00'
   - title: 'Israël vernietigt Palestina — en zichzelf: leiders veroordelen generaties
       aan beide kanten'
     url: https://ejmagnier.com/2025/09/21/israel-vernietigt-palestina-en-zichzelf-leiders-veroordelen-generaties-aan-beide-kanten/

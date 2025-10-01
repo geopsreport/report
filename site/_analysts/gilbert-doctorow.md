@@ -7,15 +7,1914 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  As Europe continues to grapple with the unraveling of its post-World War II order, recent commentary by **Dr. Gilbert Doctorow** highlights a growing consensus among independent analysts: the continent is entering a period of profound transformation, with traditional models of governance and integration coming under increasing strain. Hungarian Prime Minister Viktor Orban’s call to acknowledge the decline of the old European model is gaining traction, as Doctorow notes, “admitting this reality is crucial for progress.”
+  As the Russia-Ukraine conflict grinds on into its third year, Western political rhetoric remains at odds with developments on the ground. Despite Russia’s continued military advances, Western leaders are doubling down on their support for Kyiv, even as domestic political dynamics shift.
   
-  Meanwhile, the debate over sanctions on Iran has intensified. The UN Security Council’s recent rejection of Iran’s request for sanctions relief—driven by France, the UK, and Germany—signals a hardening European stance. According to Doctorow’s analysis of the Press TV panel, this move is widely condemned by Iran as a “hypocritical violation of international law,” while China and Russia continue to oppose such measures. The discussion also underscores the complex interplay of U.S. and Israeli influence on European decisions, with Doctorow observing that the debate now centers on “the influence of Israel versus the U.S. on European decisions,” reflecting deeper fractures within the Western alliance.
+  The most recent statements from UK Defence Minister John Healey, delivered at the Labour Party gathering, underscore this disconnect. Healey reaffirmed Britain’s “unwavering support for Ukraine” and called for Russian President Vladimir Putin to capitulate. However, as **Gilbert Doctorow** notes, these declarations come “despite the reality of Russia’s military successes in the ongoing conflict.” The Labour Party’s stance appears increasingly out of step with public sentiment, as support for Nigel Farage’s Reform UK party rises, reflecting growing skepticism toward continued military engagement in Ukraine.
   
-  On the broader historical stage, Doctorow’s recent conversations draw parallels between China’s “century of humiliation” and what he describes as Europe’s own looming era of diminished influence. In dialogue with historian Glenn Diesen, Doctorow suggests that Europe may be facing its own period of humiliation, with the decline of its traditional powers—France, Germany, and Britain—casting doubt on the continent’s ability to shape global outcomes, particularly in the context of the ongoing Russia-Ukraine war.
+  Meanwhile, the tone of Western discourse is intensifying. In a recent interview with historian **Glenn Diesen**, Doctorow highlighted the “escalating rhetoric” in Washington and London, drawing parallels between past U.S. threats under Trump and current claims of imminent Ukrainian victory. Diesen and Doctorow both caution that such narratives risk further entrenching the conflict, as Western leaders publicly call for more aggressive actions against Russia.
   
-  **Trends and Predictions:**  
-  The majority view among independent analysts, as synthesized from Doctorow’s recent work, is that Europe’s institutional and geopolitical crisis will deepen in the coming months. There is a high chance that the EU will face further internal divisions, especially as sanctions policies and external pressures mount. I guarantee that the debate over sovereignty versus federalism will intensify, with member states increasingly challenging Brussels’ authority. Regarding the Iran sanctions issue, there is a high chance that renewed international sanctions will further polarize the Security Council, with China and Russia continuing to resist Western initiatives. Most definitely, Europe’s global influence will continue to wane, setting the stage for a protracted period of adjustment and potential instability.
+  On the battlefield, Russia’s tactical innovations have shifted the momentum. Reports confirm that Russian forces executed a surprise subterranean ambush in Kupyansk, utilizing Soviet-era underground networks to trap approximately 700 Ukrainian soldiers. This operation, discussed in detail by **Doctorow** on WION, resulted in significant Ukrainian casualties and demonstrates Moscow’s ability to leverage legacy infrastructure for strategic gains.
+  
+  Looking ahead, the prevailing analysis suggests that Western political leaders will continue to project confidence in Ukraine’s prospects, even as the military situation deteriorates for Kyiv. Given the current trajectory, **Doctorow** asserts with high confidence that “Western governments are unlikely to alter course in the near term, despite mounting evidence of Russian advances and shifting domestic opinion.” The gap between official rhetoric and battlefield realities is likely to widen, fueling further political polarization within Western societies.
 articles:
+  - title: UK Defence Minister John Healey Reaffirms Support For Ukraine | NewsX World
+    url: https://gilbertdoctorow.com/2025/09/29/uk-defence-minister-john-healey-reaffirms-support-for-ukraine-newsx-world/
+    text: 'This morning’s brief interview focused on the latest statements by the British
+      Defense Minister at the Labour Party gathering in Liverpool assertjng Britain’s
+      unswerving support for Ukraine and demanding that Vladimir Putin sue for peace,
+      meaning capitulate. This demand is, of course, utterly nonsensical since the Russians
+      are winning the war, a fact confirmed by the daily reports on their decimation
+      of Ukrainian armed forces on the front lines in Donbas and in other oblasts of
+      Ukraine. Healey is speaking on behalf of a prime minister who is under attack
+      within his own party for failing to realize the election promises that brought
+      him to power. More significantly, Labour’s popularity ratings have been tumbling,
+      so that latest poll results show Nigel Farage’s Reform UK party is now well ahead
+      of Labour while also several times stronger than the Conservatives. See an article
+      in The Independent carrying information that also appeared in The Financial Times:
+      “Reform on brink of outright majority at next election.”  Normally that election
+      would take place in 2029, but considering the ongoing fight within Labour being
+      led by its Left radical members, an early removal of Starmer and call for new
+      elections is not to be dismissed. Let us remember that Farage stands rather close
+      to his friend Donald Trump in seeking normalization of relations with Russia,
+      as opposed to anti-Russian policies of both Labour and the Conservatives.'
+    one_sentence_summary: The British Defense Minister's recent statements at the Labour
+      Party gathering emphasized unwavering support for Ukraine and called for Putin
+      to capitulate, despite the reality of Russia's military successes in the ongoing
+      conflict and Labour's declining popularity in the face of rising support for Nigel
+      Farage's Reform UK party.
+    paragraph_summary: In a recent interview, the British Defense Minister emphasized
+      the UK's unwavering support for Ukraine and called for Vladimir Putin to capitulate,
+      a stance that critics argue is unrealistic given Russia's apparent military successes
+      in the ongoing conflict. This statement comes amid internal strife within the
+      Labour Party, where Prime Minister Keir Starmer faces pressure for not fulfilling
+      campaign promises, leading to a decline in Labour's popularity. Recent polls indicate
+      that Nigel Farage's Reform UK party is gaining traction, potentially positioning
+      itself for a significant electoral advantage, while Labour struggles against both
+      the Conservatives and its own radical left faction. The possibility of an early
+      election looms as tensions within Labour escalate, with Farage's pro-Russian sentiments
+      contrasting sharply with the current anti-Russian stance of both major parties.
+    published: '2025-09-29T18:07:08+00:00'
+  - title: UK Defence Minister John Healey Reaffirms Support For Ukraine | NewsX World
+    url: https://gilbertdoctorow.com/2025/09/29/uk-defence-minister-john-healey-reaffirms-support-for-ukraine-newsx-world/
+    text: 'This morning’s brief interview focused on the latest statements by the British
+      Defense Minister at the Labour Party gathering in Liverpool assertjng Britain’s
+      unswerving support for Ukraine and demanding that Vladimir Putin sue for peace,
+      meaning capitulate. This demand is, of course, utterly nonsensical since the Russians
+      are winning the war, a fact confirmed by the daily reports on their decimation
+      of Ukrainian armed forces on the front lines in Donbas and in other oblasts of
+      Ukraine. Healey is speaking on behalf of a prime minister who is under attack
+      within his own party for failing to realize the election promises that brought
+      him to power. More significantly, Labour’s popularity ratings have been tumbling,
+      so that latest poll results show Nigel Farage’s Reform UK party is now well ahead
+      of Labour while also several times stronger than the Conservatives. See an article
+      in The Independent carrying information that also appeared in The Financial Times:
+      “Reform on brink of outright majority at next election.”  Normally that election
+      would take place in 2029, but considering the ongoing fight within Labour being
+      led by its Left radical members, an early removal of Starmer and call for new
+      elections is not to be dismissed. Let us remember that Farage stands rather close
+      to his friend Donald Trump in seeking normalization of relations with Russia,
+      as opposed to anti-Russian policies of both Labour and the Conservatives.'
+    one_sentence_summary: The British Defense Minister's recent statements at the Labour
+      Party gathering emphasized unwavering support for Ukraine and called for Putin
+      to capitulate, despite the reality of Russia's military successes in the ongoing
+      conflict and Labour's declining popularity in the face of rising support for Nigel
+      Farage's Reform UK party.
+    paragraph_summary: In a recent interview, the British Defense Minister emphasized
+      the UK's unwavering support for Ukraine and called for Vladimir Putin to capitulate,
+      a stance that critics argue is unrealistic given Russia's apparent military successes
+      in the ongoing conflict. This statement comes amid internal strife within the
+      Labour Party, where Prime Minister Keir Starmer faces pressure for not fulfilling
+      campaign promises, leading to a decline in Labour's popularity. Recent polls indicate
+      that Nigel Farage's Reform UK party is gaining traction, potentially positioning
+      itself for a significant electoral advantage, while Labour struggles against both
+      the Conservatives and its own radical left faction. The possibility of an early
+      election looms as tensions within Labour escalate, with Farage's pro-Russian sentiments
+      contrasting sharply with the current anti-Russian stance of both major parties.
+    published: '2025-09-29T18:07:08+00:00'
+  - title: Transcript of Conversation with Glenn Diesen, edition of 27 September
+    url: https://gilbertdoctorow.com/2025/09/28/transcript-of-conversation-with-glenn-diesen-edition-of-27-september/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=SDsIswiAREs
+      Diesen: 0:00 Welcome back to the program. We are joined today by Gilbert Doktorow,
+      an historian, international affairs analyst and author of _War Diaries – the Russian-Ukraine
+      War_. So I remember the last time Trump was ramping up the pressure and rhetoric
+      against the Russians. He gave them 12 days to accept an unconditional ceasefire.
+      Otherwise the response would be crushing. This of course, the prospect of America
+      going, if not to war with Russia, but at least putting its might behind the attempt
+      of crushing Russia created a lot of excitement. And then the 12 days expired,
+      they met in Alaska and Trump took the unconditional ceasefire off the table. I
+      was wondering now we’ve seen this display at United Nations. We see the same rhetoric,
+      the Russians are losing, Ukraine is winning, will get back all its territory.
+      And while you’re at it, why not take some Russian territory and shoot the Russian
+      jets out of the sky. 1:11 And yet again, the Europeans are very excited. Finally,
+      America is joining, becoming more directly involved at least, already quite involved.
+      How are you assessing this development? Doctorow: Well, before I begin, I’d like
+      to congratulate you for putting on air very divergent opinions coming from different
+      experts or people who are being watched on alternative media. An hour ago, I caught
+      the first part of your interview this morning with Jeffrey Sachs. And what I’m
+      about to say sharply diverges with his interpretation of it. The general position
+      within alternative media of Sachs is very well known, and with good reason, and
+      has a very wide following with good reason. I am much less known with good reason,
+      and my views could be described as an outlier on what we’re about to discuss.
+      I think it would be very informative for viewers to juxtapose, to watch these
+      two different interpretations when each of us has been asked this question by
+      yourself. 2:32 Jeffrey Sachs said that the performance of Mr. Trump at the United
+      Nations was a colossal failure of leadership. I disagree entirely. But behind
+      this is not just my opinion on that one issue and his opinion on that one issue,
+      but where we both stand on everything about Mr. Trump, since it is not widely
+      discussed that Mr. Sachs is a globalist by definition, given his position at Columbia
+      University. He is a Green movement supporter, since his whole career the last
+      30 years has been support of sustainability. And Mr. Trump in his speeches at
+      the UN trashed both positions, both globalism, particularly the aspect of it relating
+      to open borders, and very specifically trashed the Green movement. So we’re coming
+      from very different positions on Mr. Trump in general. 3:21 But let’s look at
+      what happened this week in his speech and in Trump’s answer to reporters regarding
+      the shoot-down of Russian jets violating airspace; and the likelihood that Mr.
+      Zelensky will succeed in recapturing his territory, thanks to, with the help he’ll
+      be receiving from the European Union. Now, Jeffrey Sachs was denouncing Trump
+      for his lack of candor and for his not explaining to the American people the basis
+      of his policy and for being duplicitous. My position is that if Mr. Trump did
+      any of those things, he’d be impeached and removed from office within a few weeks.
+      His policy on Russia, unlike his policy on the Green movement or open borders,
+      has little or no support within MAGA. It has still less support, in fact is vehemently
+      opposed by the majority of congressmen and by the majority of the American political
+      establishment. For that reason, there is no candor in his speech. There is duplicity,
+      double talk, and he’s leading people on. This was my first conclusion regarding
+      his remarks [in] respect of the likelihood of Mr. Zelensky winning the war against
+      Russia. There was an initial reaction among European leaders of glee. It was not
+      just Lindsey Graham in the States who was taken in by this. It was all of the
+      European top leadership, whether it’s Merz or Starmer or Macron. Macron was sitting
+      next to Trump, and looked very pleased to hear Trump say that he really thinks
+      Zelensky can succeed. 5:42 Well, that was the initial reaction. After a bit of
+      time and reflection and after people like the _Financial Times_ came out and said,
+      Hey by the way, it could be that Mr. Trump’s word shouldn’t be taken at face value
+      and that in fact he is setting the stage for an American off-ramp and for Europe
+      to be blamed, because there will be a blame game for the eventual defeat, capitulation
+      of Ukraine. Well that has now become a consensus view within the spokespeople
+      for the European Union, like Kaja Kallas, who came out and said precisely that.
+      That– well, not precisely. What she said was that Ukraine cannot succeed with
+      the help of the European Union alone. 6:32 That is a hint, hint, that the United
+      States should be part of the party, of the group. But it suggests that they now
+      understand that they have been taken for fools or as one reader of my recent essay
+      said, that Mr. Trump was trolling them, which is indeed my view of the situation.
+      If he said openly that he expects Mr. Zelensky to be defeated and so on, he would
+      find enormous resistance within all of Congress. So that’s the game he’s playing.
+      Also the question of the “paper tiger” remark, an insult to the Russians. Indeed,
+      some Russian readers of my interviews as they’re translated into Russian by one
+      or another Russian internet platform have said that this was an insult to Putin.
+      Well, let me give my brief explanation. Mr. Trump wants to be a peacemaker. He
+      wants the war to end. And he’s been told by all sides that he must pressure Mr.
+      Putin. I believe he is pressuring Mr. Putin. And this taunt of Russia being a
+      paper tiger was part of the pressure techniques of Donald Trump on Mr. Putin,
+      but not in the sense that the European leaders and many in Congress would like
+      it to be. The taunt is, “Vladimir, get it over with now. Crush Ukraine now.” 8:25
+      Now, I said in a recent interview that it could be done if Mr. Putin took out
+      the Oreshniks and destroyed Bankovskaya Ulitsa, the street in downtown Kiev, where
+      most of the government offices are. A Russian, one Russian reader and commentator
+      said, you’re 100% right. At first, for a Russian to write that is rather brave.
+      That’s to be taken to be a Putin critic or an Eno agent. But that is the message
+      that Mr. Trump is delivering. Diesen: 9:11 It is interesting though that the peacemaker
+      is not always able to make peace because it’s a fear of being a sign of weakness.
+      So for example, you saw toward the end of the Cold War when Reagan wanted to open
+      up talks with the Soviets and discuss how to improve relations and have more peace.
+      It would have been very difficult for a dove to get away with this, but he was
+      the hardliner and no one could accuse him of being soft on the Russians. So given
+      that he had that reputation for being a bit of a hawk, he had the political capital
+      to go and actually talk and try to make peace. I mean, you could say the same
+      with the way the Russians gave territorial concessions to the Chinese. For Yeltsin,
+      that would have been impossible because he was seen as weak, he would have been
+      almost treasonous. No one saw Putin as weak. So he was able to make a lot of agreements
+      which laid the foundation for more stable and stronger relations with the Chinese.
+      10:21 I guess my point is you might be onto something there because you do have
+      to, it’s very difficult to make peace if you’re seen as peacemakers given that
+      they’re seen as weak. It could be good as playing the hawk at times. I must say
+      though, there is some dishonesty. It’s not [exclusive] to Trump either though.
+      The whole idea that when he says yes, Ukraine can win, nobody really believes
+      this. And given that their reaction was wait, he’s just trying to blame us for
+      the Ukraine failure. So obviously the Europeans don’t think that Ukraine is winning
+      either. It’s just one of these things you have to say to pledge loyalty to the
+      narrative that keeps the war going. So we’re all chanting, yes, the war was unprovoked,
+      the Ukraine is winning, they’re having low casualties, Russia has these human
+      waves, Zelensky is just super democratic. I mean, this is what you have to say
+      to give support for prolonging the war. 11:20 But the thing is that there’s no
+      honesty anywhere though. Everyone is just lying to support the narrative which
+      makes it impossible to come up with a peace agreement and instead to keep the
+      war going. How do you assess though Starmer, Macron, von der Leyen and Merz? What
+      are their positions? Because I saw Mr. Tusk, the Prime Minister of Poland, take
+      to Twitter that he realized, wait, we might be getting played here. That is Trump
+      is trying to hand over responsibility for the Ukraine war to us. I mean, I guess
+      they wouldn’t panic in such a way if they actually thought that the war was going
+      their way. I mean, why would you want to take responsibility if you actually think
+      you’re winning? 12:15 Well, they are so heavily invested in all of this tripe,
+      all of this nonsense, that it’s very difficult for them, particularly since they
+      moved locked arms. And they are very critical of any member of the 27 countries
+      that breaks ranks as Fico in Slovakia and Urbán in Hungary have done. So they
+      will make a move, but they’re putting it off and putting it off, a move towards
+      reality, to get out of the bubble. Let me be very precise about duplicitousness
+      and lying to the public or false words that Mr. Trump is spreading. That is in
+      one area, maybe in a few other areas, but the area that is of note is his policy
+      on Ukraine, the Ukraine-Russia war, and on what he expects American relations
+      with Russia to be after the war. 13:20 He doesn’t dare set that out in a straightforward,
+      honest, candid way. For the reason I just said, he would lose all of his political
+      support and become a lame-duck president instantly, if not impeached, if that’s
+      what he did. At the same time, his speech to the UN was perfectly candid and honest
+      and showed leadership. Whether you like the direction of his leadership is another
+      question; that’s a personal choice of anyone who’s listening. But he was perfectly
+      candid in expressing his heartfelt thoughts about open borders, about the renewables
+      as a substitute for traditional fossil fuels. And he was perfectly honest and
+      candid, if anyone bothered to listen to the end of his speech about a multipolar
+      world. Why do I say that? He established that it is the obligation of heads of
+      state and heads of government to look after the prosperity of their peoples and
+      to give support to the traditions, the national traditions of each country, which
+      established the uniqueness and the sovereignty of those countries. My goodness,
+      that is a complete break with the underlying principles of the neocons and of
+      globalism. And that was speaking from the heart. Oh, he does have a heart, and
+      he just speak from it, but not on Ukraine and Russia. Diesen: 15:11 But I hear
+      what you’re saying. John Mersheimer, he’s also, he interpreted it in the same
+      way that this was this statement, which was very belligerent on paper and rhetoric.
+      What it effectively did was to wash Trump’s hands of the Ukraine war. And I thought
+      this was convincing because when he said, well go shoot down Russian jets, but
+      you know, America won’t participate and you can put crushing sanctions on Russia
+      and secondary sanctions, which will also crush Europe. But you know, you go first
+      and then we’ll join later. Yeah, we’ll send all the weapons, they can retake all
+      the territory, but you know, You have to buy them from us. And they don’t really
+      have the money. America don’t have the weapons and the Ukrainians don’t have the
+      soldiers. So one, one, I guess I found your argument in your article quite convincing
+      in this sense. But I do have to say though that words, they do matter though,
+      and the rhetoric can be quite dangerous. 16:22 This whole argument of striking
+      deeper inside Russia, they’re going to send more weapons. That’s one of the things
+      that made Lindsey Graham just giddy like a little schoolgirl that now America
+      wouldn’t put any limits on weapons. So you’re going to have this long- range missile
+      striking deep inside Russia, which is effectively then an American attack on Russia,
+      and with the Russian jets as well. I mean, once those words have been uttered,
+      they have to be taken into account by Russia. And again, they made it very clear
+      if anyone in Europe thinks about firing upon a Russian jet, then it’s war. There’s
+      no other path. So it seems that the rhetoric nonetheless is intensifying, though.
+      Doctorow: 17:08 It would be troublesome if there were anything true, the claims
+      and the demands and the … fists in the air from European leaders. What Trump was
+      doing was calling their bluff, and it is a bluff because he knows and they know
+      that they don’t have the wherewithal to do anything without the United States.
+      And it also is calling the bluff of the Americans, the people under him who are
+      saying to him and he then repeats, oh we will ship 3,000 missiles to Ukraine,
+      so that they can strike deep. Well, that issue has been taken up by Russian analysts
+      on air, on state television, and they insist: these weapons haven’t been produced
+      yet. We’re speaking about something two years, three years from now. When Trump
+      said he’s going to ship them, he didn’t say when. Oh, he said when, but it wasn’t
+      serious. It is not going to be in three weeks. 18:11 Therefore, this belligerency
+      that seemed apparent and that could have made people like Lindsey Graham delighted
+      is also a bluff, and empty talk. In the meantime, Mr. Putin, the lawyer– He is
+      a trained lawyer after all, who doesn’t want to take an action that is no longer
+      a military, special military operation, but in fact an act of war. He doesn’t
+      want to do that without the authorization, specific authorization of his parliament.
+      That man, the lawyer, is working at odds with the man who is the supreme commander-in-chief
+      of the Russian armed forces, which also was named Vladimir Vladimirovich Putin.
+      So we have this contradiction at the top of Russia, and it should be resolved.
+      It has been lingering and lingering. Diesen: 19:15 Yeah, well, Zelensky was making
+      some comments that he might hit, I’m not sure if he was going to hit Moscow with
+      Tomahawks, something along those lines. But I saw a report, I haven’t had it verified,
+      but I read that the Tomahawks are not forthcoming. So again, this would also be
+      something that would cause a direct war between NATO and Russia. So I guess there
+      is some, behind the wild rhetoric, there seems still to be some common sense.
+      But on the issue of common sense, what do you see actually happening now at the
+      moment? I mean, you followed the war very carefully with your war diaries And
+      there’s been, you know, gradual unraveling over time. We tried to patch up the
+      holes with new weapons, more aggressive recruitment strategies in Ukraine. But
+      at the moment, there’s some, a lot of regions now which are being encircled, not
+      just Pokrovsk or Konstantinivka, but Kupiansk, that might be the most critical
+      one. There’s a lot of problems building up, Also the Zaporizhzhya front, which
+      is now being closed off both from the West and the East. But once countries get
+      desperate, and you did say the Europeans, they committed themselves fully to this.
+      And if there is no diplomatic path, I’m always worried that desperation translates
+      into stupidity, and there doesn’t seem to be a shortage of that at this moment
+      in Europe. So what do you see happening? I ask because I see the Russians now
+      shipping Oreshniks to Belarus. So I’m not sure if they will know something we
+      don’t know yet. Doctorow: 21:15 Well, to a couple of things. First, to ease the
+      difficulty of listeners to this. Kopyansk is what has been described as a major
+      fortified outpost of Ukraine. It is a logistical hub, yes, but it is also a city
+      protecting Kharkov. It’s part of the Russian strategy of taking Kharkov without
+      a ground assault on Kharkov that could be very costly in civilian deaths. And
+      after all, Kharkov is not just the second-largest city in Ukraine, but it is essentially
+      a Russian-speaking city. So they would be killing their own people if they came
+      in and stormed the city. So they are going to encircle Kharkov and taking Kupyansk
+      is a big part of it. They do this very dramatically by using underground pipelines
+      from the Soviet era, gas pipelines, to again bring in secretly their own troops.
+      Some of them, these pipes are pretty big because I was told that some of the Russian
+      forces were riding motorcycles or scooters through these pipes. Anyway, It was
+      a very dramatic event. They already have their troops in the center of Kupyansk
+      and they’re cleaning it out. 22:40 This is an important development for the Northeast
+      because this area, Kharkov, was a staging ground for the attacks on the Russian
+      frontier or border provinces, oblasts, Belgorad and Kursk. Moreover, very specifically,
+      the 700 soldiers whom the Russians are said to have encircled inside Kopyansk,
+      Ukrainian soldiers, a large number of them were what was called, or is called,
+      the Russian Volunteer Army, or Corps, which were precisely the people, defectors
+      from Russia, who were armed and sent in by the Ukrainians to commit acts of terror
+      and murder civilians in the first Ukrainian incursion on border areas, which was
+      approximately one year ago, and before the Kursk action, Belgorod. So the Russians
+      are very keen to murder all of them. I think they’ve taken out 250 out of division,
+      750. 23:51 But that is not the main front. The main front, as you said, is in
+      the Donetsk oblast, and that is where the Russians are advancing and are likely
+      to do in the city of Pakrovsk, which is known in Russian as Krasnoyarmesk, are
+      something similar to what they’re doing now in Kupyansk. And yet there are other
+      things afoot. You’ve mentioned Zaporozhzhye, yes, but there’s something more,
+      I think, more important for us to understand how this war will end, that’s now
+      being discussed on Russian television. And that is the need to take Odessa, because
+      Odessa is rather close. If you look at the map, in maritime terms, it is that
+      close to Crimea. 24:40 And the British and French have looked at Odessa as a key
+      base for precisely that. So the Russians now are also turning their attention
+      to Odessa to be captured. And if they capture it, then this tells you a lot about
+      how the war will end, because once the rump Ukraine does not have Odessa, it loses
+      much of its interest for Britain and France. So this is the way the war is going.
+      But all of this is going terribly slowly and the world doesn’t stand still. This
+      is why I believe Mr. Trump is pushing Putin to get it over with by some stunning
+      act, like an Oreshnik attack on Kiev that that decapitates the Kiev regime. Diesen:
+      25:42 So you think the decapitation strike could be forthcoming; that is, as the
+      frontlines are falling apart to add to the confusion, just go directly after Kiev.
+      Because, well, so far the Russians, well, I wouldn’t say they haven’t touched
+      Kiev because they have increased a lot, especially lately. But it wouldn’t be
+      so popular even within Russia given the historical role of Kiev in Russian history
+      as the origin from Kievan Rus. But do you think such a decapitation strike could
+      come in the foreseeable future? Doctorow: 26:26 Well, first of all, for one thing,
+      having the Oreshnik takes away a big objection to attacking Kiev. They’re not
+      going to wipe out the Lavada, the very famous and important Russian Orthodox Church-history
+      monastery and repository of the holy relics and remains of Russian saints. They
+      don’t have to do much damage to Kiev as a whole. They just have to wipe out and
+      go deep to get to the safekeeping places of underground of Mr. Zelensky and his
+      close circle on Bankovskaya Urizen and one or two other locations. So the material
+      damage to Kiev would be minimal. Is it capitation? I think that much depends on
+      Mr. Trump. If he were, for example, to really step up sanctions, do something
+      that severely interrupts the Russian economy, which is within his power, so he
+      can do some nasty things. That might just push Putin to do what he otherwise should
+      be doing, which is to go from this war of attrition, which can go on much too
+      long, to finishing up the Zelensky regime. We’ll see. Diesen: 27:55 I thought
+      there was a big chance of something like this happening after the attack on Russia’s
+      nuclear forces, that this was something that they couldn’t, yeah, something that
+      would put an end to the attrition warfare. But yet, they seem to continue the
+      same approach. My last question, though, I just wanted to ask about this recent
+      tensions between the Europeans and Russia. Because I had on also two days ago,
+      I did an interview with Colonel Douglas Macgregor, who was previously an advisor
+      to the US Secretary of Defense. And he argued that in conversation with different
+      people from US intelligence that they kind of dismissed this as being a European
+      hoax. They were exaggerating. The Estonians especially were not credible. They
+      argued that Poland, you know, they more or less, not more or less, they did very
+      openly admit that there was no warheads on this. Of course, the Russians, they
+      go further. They say, of course, there’s no warheads, but also these weren’t ours.
+      They were sent by Ukraine. Again, I don’t sit on any evidence here, so it’s not
+      for me to say. But what do you make of these tensions though? Because even if
+      it is Russia doing it to perhaps send a signal that we can also bring the war
+      to you. Even if this is the case, I’m a bit not perplexed, but I take note of
+      the European excitement in this that they can almost show the smoking gun coming
+      from Russia that now we have some legitimacy to step this up or pull the Americans
+      in. I’m not really sure. Yeah, even in this country there, because I’m in Norway,
+      and Oslo, they thought they saw drones. It’s like, oh, Russia, Russia. 29:52 And
+      at the end of the day, they’re not sure if it was a drone. And the next day they
+      arrested someone on a different drone, but you know, he’s a Norwegian. So it doesn’t
+      make any sense. But this impulse always to run into this almost excitement that
+      now finally the Russians have attacked us, now we can do something. It is very
+      strange to me. Doctorow: Well, none of us knows for sure, and I doubt that the
+      truth behind this will be known for decades, but we come at it from our own conceptualizations.
+      And my conceptualization is that this fits in line with a typical false-flag operation
+      designed and partly executed by the British, by MI6. I look at timing. Timing
+      is important. In the case of Estonia, Kaja Kallas herself said a week ago, you
+      know the Russians have made these incursions four times this year. Okay. Why didn’t
+      you say anything before? Why is it coming up now? Why suddenly out of nowhere
+      is Norway coming? Why suddenly is Denmark and the Prime Minister, by the way,
+      not the military, the military are much more cautious in Denmark. They say they
+      have no idea where this is coming from, and it could come from a ship in the Baltic
+      Sea. It could be anybody’s ship. But it’s the real Russophobe prime minister of
+      Denmark who said, oh, we can’t rule out Russia. OK. I believe MI6 is behind this,
+      because it fits the pattern. If you go back over the last decade, every time there
+      is some kind of big false-flag operation, whether it was in Syria or in Russia,
+      relating to Russia, it coincides with something. Well, the murder, death, of Alexei
+      Navalny. It came what, a week before the Munich Security Conference, when his
+      widow had already been prepared to come to speak. Well, that’s interesting. But
+      it was a setup. Who had access to him in the far north? Well, the Brits have a
+      very extensive system of espionage and activities across Russia, particularly
+      with the assistance of people who can pass for Russians, Russians speaking Ukrainians
+      who worked with them, as well as Ukrainian intelligence. And I said at the time
+      that Navani was killed by the Brits. I say at this time that what we’ve seen is
+      a British plot; aided and supported by the Ukrainians, who are fully in on this,
+      because it brought to the attention of Europeans how useful Ukraine can be in
+      supplying them with its unique technology and hardware to intercept, to destroy
+      cheaply, not at $50,000 a missile, a $20,000 drone coming from Russia. That was
+      very convenient for Mr. Zelensky. 33:01 But more broadly, and then the whole idea
+      of a drone wall, which was one of the results of this whole operation. A drone
+      wall for all of Europe with the Ukrainians as part of this. That’s one result.
+      But the timing, again, for me is a big indicator. This came, this whole story
+      about the supposedly Russian drones attacking Poland and Romania, then the Russian
+      military jets in incursion in over Estonian airspace, all of that comes at the
+      tail end and just after Zapad 25. This joint exercises of Belarus and Russia held
+      every four years. That just was ending with 100,000 Russian soldiers with 25 foreign
+      delegations, many of them quite important and obviously prospective customers
+      for Russian military gear and for security arrangements with Russia, for money
+      of course. And it is very convenient to start this new “Russia Russia Russia”
+      chant to direct attention away from that big Russian success in Zapad 25. Diesen:
+      34:18 It’s, yeah, behind the empty rhetoric slogans in the media, there is a more
+      complex reality, I guess. So thank you so much for taking time out of your Saturday
+      to speak. I always very much appreciate your perspectives. Doctorow: Well, I very
+      much appreciate your exposing the audience to divergent views, which they have
+      a right and a need to get.'
+    one_sentence_summary: In an interview with historian Gilbert Doktorow, the discussion
+      centers on the escalating rhetoric surrounding the Russia-Ukraine conflict, comparing
+      past U.S. threats under Trump to current claims of Ukrainian victory and calls
+      for aggressive actions against Russia.
+    paragraph_summary: In a recent interview, historian and analyst Gilbert Doktorow
+      discussed the evolving dynamics of the Russian-Ukraine conflict, particularly
+      in light of U.S. involvement and rhetoric. He reflected on past instances, such
+      as Trump's ultimatum to Russia for an unconditional ceasefire, and noted the current
+      narrative at the United Nations, which portrays Russia as losing and Ukraine as
+      gaining ground. Doktorow emphasized the excitement in Europe regarding America's
+      increasing engagement in the conflict, while also acknowledging the divergence
+      of opinions within alternative media, particularly contrasting his views with
+      those of Jeffrey Sachs, who holds a more widely accepted perspective. He encouraged
+      viewers to consider these differing interpretations to gain a broader understanding
+      of the situation.
+    published: '2025-09-28T05:01:42+00:00'
+  - title: Transcript of Conversation with Glenn Diesen, edition of 27 September
+    url: https://gilbertdoctorow.com/2025/09/28/transcript-of-conversation-with-glenn-diesen-edition-of-27-september/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=SDsIswiAREs
+      Diesen: 0:00 Welcome back to the program. We are joined today by Gilbert Doktorow,
+      an historian, international affairs analyst and author of _War Diaries – the Russian-Ukraine
+      War_. So I remember the last time Trump was ramping up the pressure and rhetoric
+      against the Russians. He gave them 12 days to accept an unconditional ceasefire.
+      Otherwise the response would be crushing. This of course, the prospect of America
+      going, if not to war with Russia, but at least putting its might behind the attempt
+      of crushing Russia created a lot of excitement. And then the 12 days expired,
+      they met in Alaska and Trump took the unconditional ceasefire off the table. I
+      was wondering now we’ve seen this display at United Nations. We see the same rhetoric,
+      the Russians are losing, Ukraine is winning, will get back all its territory.
+      And while you’re at it, why not take some Russian territory and shoot the Russian
+      jets out of the sky. 1:11 And yet again, the Europeans are very excited. Finally,
+      America is joining, becoming more directly involved at least, already quite involved.
+      How are you assessing this development? Doctorow: Well, before I begin, I’d like
+      to congratulate you for putting on air very divergent opinions coming from different
+      experts or people who are being watched on alternative media. An hour ago, I caught
+      the first part of your interview this morning with Jeffrey Sachs. And what I’m
+      about to say sharply diverges with his interpretation of it. The general position
+      within alternative media of Sachs is very well known, and with good reason, and
+      has a very wide following with good reason. I am much less known with good reason,
+      and my views could be described as an outlier on what we’re about to discuss.
+      I think it would be very informative for viewers to juxtapose, to watch these
+      two different interpretations when each of us has been asked this question by
+      yourself. 2:32 Jeffrey Sachs said that the performance of Mr. Trump at the United
+      Nations was a colossal failure of leadership. I disagree entirely. But behind
+      this is not just my opinion on that one issue and his opinion on that one issue,
+      but where we both stand on everything about Mr. Trump, since it is not widely
+      discussed that Mr. Sachs is a globalist by definition, given his position at Columbia
+      University. He is a Green movement supporter, since his whole career the last
+      30 years has been support of sustainability. And Mr. Trump in his speeches at
+      the UN trashed both positions, both globalism, particularly the aspect of it relating
+      to open borders, and very specifically trashed the Green movement. So we’re coming
+      from very different positions on Mr. Trump in general. 3:21 But let’s look at
+      what happened this week in his speech and in Trump’s answer to reporters regarding
+      the shoot-down of Russian jets violating airspace; and the likelihood that Mr.
+      Zelensky will succeed in recapturing his territory, thanks to, with the help he’ll
+      be receiving from the European Union. Now, Jeffrey Sachs was denouncing Trump
+      for his lack of candor and for his not explaining to the American people the basis
+      of his policy and for being duplicitous. My position is that if Mr. Trump did
+      any of those things, he’d be impeached and removed from office within a few weeks.
+      His policy on Russia, unlike his policy on the Green movement or open borders,
+      has little or no support within MAGA. It has still less support, in fact is vehemently
+      opposed by the majority of congressmen and by the majority of the American political
+      establishment. For that reason, there is no candor in his speech. There is duplicity,
+      double talk, and he’s leading people on. This was my first conclusion regarding
+      his remarks [in] respect of the likelihood of Mr. Zelensky winning the war against
+      Russia. There was an initial reaction among European leaders of glee. It was not
+      just Lindsey Graham in the States who was taken in by this. It was all of the
+      European top leadership, whether it’s Merz or Starmer or Macron. Macron was sitting
+      next to Trump, and looked very pleased to hear Trump say that he really thinks
+      Zelensky can succeed. 5:42 Well, that was the initial reaction. After a bit of
+      time and reflection and after people like the _Financial Times_ came out and said,
+      Hey by the way, it could be that Mr. Trump’s word shouldn’t be taken at face value
+      and that in fact he is setting the stage for an American off-ramp and for Europe
+      to be blamed, because there will be a blame game for the eventual defeat, capitulation
+      of Ukraine. Well that has now become a consensus view within the spokespeople
+      for the European Union, like Kaja Kallas, who came out and said precisely that.
+      That– well, not precisely. What she said was that Ukraine cannot succeed with
+      the help of the European Union alone. 6:32 That is a hint, hint, that the United
+      States should be part of the party, of the group. But it suggests that they now
+      understand that they have been taken for fools or as one reader of my recent essay
+      said, that Mr. Trump was trolling them, which is indeed my view of the situation.
+      If he said openly that he expects Mr. Zelensky to be defeated and so on, he would
+      find enormous resistance within all of Congress. So that’s the game he’s playing.
+      Also the question of the “paper tiger” remark, an insult to the Russians. Indeed,
+      some Russian readers of my interviews as they’re translated into Russian by one
+      or another Russian internet platform have said that this was an insult to Putin.
+      Well, let me give my brief explanation. Mr. Trump wants to be a peacemaker. He
+      wants the war to end. And he’s been told by all sides that he must pressure Mr.
+      Putin. I believe he is pressuring Mr. Putin. And this taunt of Russia being a
+      paper tiger was part of the pressure techniques of Donald Trump on Mr. Putin,
+      but not in the sense that the European leaders and many in Congress would like
+      it to be. The taunt is, “Vladimir, get it over with now. Crush Ukraine now.” 8:25
+      Now, I said in a recent interview that it could be done if Mr. Putin took out
+      the Oreshniks and destroyed Bankovskaya Ulitsa, the street in downtown Kiev, where
+      most of the government offices are. A Russian, one Russian reader and commentator
+      said, you’re 100% right. At first, for a Russian to write that is rather brave.
+      That’s to be taken to be a Putin critic or an Eno agent. But that is the message
+      that Mr. Trump is delivering. Diesen: 9:11 It is interesting though that the peacemaker
+      is not always able to make peace because it’s a fear of being a sign of weakness.
+      So for example, you saw toward the end of the Cold War when Reagan wanted to open
+      up talks with the Soviets and discuss how to improve relations and have more peace.
+      It would have been very difficult for a dove to get away with this, but he was
+      the hardliner and no one could accuse him of being soft on the Russians. So given
+      that he had that reputation for being a bit of a hawk, he had the political capital
+      to go and actually talk and try to make peace. I mean, you could say the same
+      with the way the Russians gave territorial concessions to the Chinese. For Yeltsin,
+      that would have been impossible because he was seen as weak, he would have been
+      almost treasonous. No one saw Putin as weak. So he was able to make a lot of agreements
+      which laid the foundation for more stable and stronger relations with the Chinese.
+      10:21 I guess my point is you might be onto something there because you do have
+      to, it’s very difficult to make peace if you’re seen as peacemakers given that
+      they’re seen as weak. It could be good as playing the hawk at times. I must say
+      though, there is some dishonesty. It’s not [exclusive] to Trump either though.
+      The whole idea that when he says yes, Ukraine can win, nobody really believes
+      this. And given that their reaction was wait, he’s just trying to blame us for
+      the Ukraine failure. So obviously the Europeans don’t think that Ukraine is winning
+      either. It’s just one of these things you have to say to pledge loyalty to the
+      narrative that keeps the war going. So we’re all chanting, yes, the war was unprovoked,
+      the Ukraine is winning, they’re having low casualties, Russia has these human
+      waves, Zelensky is just super democratic. I mean, this is what you have to say
+      to give support for prolonging the war. 11:20 But the thing is that there’s no
+      honesty anywhere though. Everyone is just lying to support the narrative which
+      makes it impossible to come up with a peace agreement and instead to keep the
+      war going. How do you assess though Starmer, Macron, von der Leyen and Merz? What
+      are their positions? Because I saw Mr. Tusk, the Prime Minister of Poland, take
+      to Twitter that he realized, wait, we might be getting played here. That is Trump
+      is trying to hand over responsibility for the Ukraine war to us. I mean, I guess
+      they wouldn’t panic in such a way if they actually thought that the war was going
+      their way. I mean, why would you want to take responsibility if you actually think
+      you’re winning? 12:15 Well, they are so heavily invested in all of this tripe,
+      all of this nonsense, that it’s very difficult for them, particularly since they
+      moved locked arms. And they are very critical of any member of the 27 countries
+      that breaks ranks as Fico in Slovakia and Urbán in Hungary have done. So they
+      will make a move, but they’re putting it off and putting it off, a move towards
+      reality, to get out of the bubble. Let me be very precise about duplicitousness
+      and lying to the public or false words that Mr. Trump is spreading. That is in
+      one area, maybe in a few other areas, but the area that is of note is his policy
+      on Ukraine, the Ukraine-Russia war, and on what he expects American relations
+      with Russia to be after the war. 13:20 He doesn’t dare set that out in a straightforward,
+      honest, candid way. For the reason I just said, he would lose all of his political
+      support and become a lame-duck president instantly, if not impeached, if that’s
+      what he did. At the same time, his speech to the UN was perfectly candid and honest
+      and showed leadership. Whether you like the direction of his leadership is another
+      question; that’s a personal choice of anyone who’s listening. But he was perfectly
+      candid in expressing his heartfelt thoughts about open borders, about the renewables
+      as a substitute for traditional fossil fuels. And he was perfectly honest and
+      candid, if anyone bothered to listen to the end of his speech about a multipolar
+      world. Why do I say that? He established that it is the obligation of heads of
+      state and heads of government to look after the prosperity of their peoples and
+      to give support to the traditions, the national traditions of each country, which
+      established the uniqueness and the sovereignty of those countries. My goodness,
+      that is a complete break with the underlying principles of the neocons and of
+      globalism. And that was speaking from the heart. Oh, he does have a heart, and
+      he just speak from it, but not on Ukraine and Russia. Diesen: 15:11 But I hear
+      what you’re saying. John Mersheimer, he’s also, he interpreted it in the same
+      way that this was this statement, which was very belligerent on paper and rhetoric.
+      What it effectively did was to wash Trump’s hands of the Ukraine war. And I thought
+      this was convincing because when he said, well go shoot down Russian jets, but
+      you know, America won’t participate and you can put crushing sanctions on Russia
+      and secondary sanctions, which will also crush Europe. But you know, you go first
+      and then we’ll join later. Yeah, we’ll send all the weapons, they can retake all
+      the territory, but you know, You have to buy them from us. And they don’t really
+      have the money. America don’t have the weapons and the Ukrainians don’t have the
+      soldiers. So one, one, I guess I found your argument in your article quite convincing
+      in this sense. But I do have to say though that words, they do matter though,
+      and the rhetoric can be quite dangerous. 16:22 This whole argument of striking
+      deeper inside Russia, they’re going to send more weapons. That’s one of the things
+      that made Lindsey Graham just giddy like a little schoolgirl that now America
+      wouldn’t put any limits on weapons. So you’re going to have this long- range missile
+      striking deep inside Russia, which is effectively then an American attack on Russia,
+      and with the Russian jets as well. I mean, once those words have been uttered,
+      they have to be taken into account by Russia. And again, they made it very clear
+      if anyone in Europe thinks about firing upon a Russian jet, then it’s war. There’s
+      no other path. So it seems that the rhetoric nonetheless is intensifying, though.
+      Doctorow: 17:08 It would be troublesome if there were anything true, the claims
+      and the demands and the … fists in the air from European leaders. What Trump was
+      doing was calling their bluff, and it is a bluff because he knows and they know
+      that they don’t have the wherewithal to do anything without the United States.
+      And it also is calling the bluff of the Americans, the people under him who are
+      saying to him and he then repeats, oh we will ship 3,000 missiles to Ukraine,
+      so that they can strike deep. Well, that issue has been taken up by Russian analysts
+      on air, on state television, and they insist: these weapons haven’t been produced
+      yet. We’re speaking about something two years, three years from now. When Trump
+      said he’s going to ship them, he didn’t say when. Oh, he said when, but it wasn’t
+      serious. It is not going to be in three weeks. 18:11 Therefore, this belligerency
+      that seemed apparent and that could have made people like Lindsey Graham delighted
+      is also a bluff, and empty talk. In the meantime, Mr. Putin, the lawyer– He is
+      a trained lawyer after all, who doesn’t want to take an action that is no longer
+      a military, special military operation, but in fact an act of war. He doesn’t
+      want to do that without the authorization, specific authorization of his parliament.
+      That man, the lawyer, is working at odds with the man who is the supreme commander-in-chief
+      of the Russian armed forces, which also was named Vladimir Vladimirovich Putin.
+      So we have this contradiction at the top of Russia, and it should be resolved.
+      It has been lingering and lingering. Diesen: 19:15 Yeah, well, Zelensky was making
+      some comments that he might hit, I’m not sure if he was going to hit Moscow with
+      Tomahawks, something along those lines. But I saw a report, I haven’t had it verified,
+      but I read that the Tomahawks are not forthcoming. So again, this would also be
+      something that would cause a direct war between NATO and Russia. So I guess there
+      is some, behind the wild rhetoric, there seems still to be some common sense.
+      But on the issue of common sense, what do you see actually happening now at the
+      moment? I mean, you followed the war very carefully with your war diaries And
+      there’s been, you know, gradual unraveling over time. We tried to patch up the
+      holes with new weapons, more aggressive recruitment strategies in Ukraine. But
+      at the moment, there’s some, a lot of regions now which are being encircled, not
+      just Pokrovsk or Konstantinivka, but Kupiansk, that might be the most critical
+      one. There’s a lot of problems building up, Also the Zaporizhzhya front, which
+      is now being closed off both from the West and the East. But once countries get
+      desperate, and you did say the Europeans, they committed themselves fully to this.
+      And if there is no diplomatic path, I’m always worried that desperation translates
+      into stupidity, and there doesn’t seem to be a shortage of that at this moment
+      in Europe. So what do you see happening? I ask because I see the Russians now
+      shipping Oreshniks to Belarus. So I’m not sure if they will know something we
+      don’t know yet. Doctorow: 21:15 Well, to a couple of things. First, to ease the
+      difficulty of listeners to this. Kopyansk is what has been described as a major
+      fortified outpost of Ukraine. It is a logistical hub, yes, but it is also a city
+      protecting Kharkov. It’s part of the Russian strategy of taking Kharkov without
+      a ground assault on Kharkov that could be very costly in civilian deaths. And
+      after all, Kharkov is not just the second-largest city in Ukraine, but it is essentially
+      a Russian-speaking city. So they would be killing their own people if they came
+      in and stormed the city. So they are going to encircle Kharkov and taking Kupyansk
+      is a big part of it. They do this very dramatically by using underground pipelines
+      from the Soviet era, gas pipelines, to again bring in secretly their own troops.
+      Some of them, these pipes are pretty big because I was told that some of the Russian
+      forces were riding motorcycles or scooters through these pipes. Anyway, It was
+      a very dramatic event. They already have their troops in the center of Kupyansk
+      and they’re cleaning it out. 22:40 This is an important development for the Northeast
+      because this area, Kharkov, was a staging ground for the attacks on the Russian
+      frontier or border provinces, oblasts, Belgorad and Kursk. Moreover, very specifically,
+      the 700 soldiers whom the Russians are said to have encircled inside Kopyansk,
+      Ukrainian soldiers, a large number of them were what was called, or is called,
+      the Russian Volunteer Army, or Corps, which were precisely the people, defectors
+      from Russia, who were armed and sent in by the Ukrainians to commit acts of terror
+      and murder civilians in the first Ukrainian incursion on border areas, which was
+      approximately one year ago, and before the Kursk action, Belgorod. So the Russians
+      are very keen to murder all of them. I think they’ve taken out 250 out of division,
+      750. 23:51 But that is not the main front. The main front, as you said, is in
+      the Donetsk oblast, and that is where the Russians are advancing and are likely
+      to do in the city of Pakrovsk, which is known in Russian as Krasnoyarmesk, are
+      something similar to what they’re doing now in Kupyansk. And yet there are other
+      things afoot. You’ve mentioned Zaporozhzhye, yes, but there’s something more,
+      I think, more important for us to understand how this war will end, that’s now
+      being discussed on Russian television. And that is the need to take Odessa, because
+      Odessa is rather close. If you look at the map, in maritime terms, it is that
+      close to Crimea. 24:40 And the British and French have looked at Odessa as a key
+      base for precisely that. So the Russians now are also turning their attention
+      to Odessa to be captured. And if they capture it, then this tells you a lot about
+      how the war will end, because once the rump Ukraine does not have Odessa, it loses
+      much of its interest for Britain and France. So this is the way the war is going.
+      But all of this is going terribly slowly and the world doesn’t stand still. This
+      is why I believe Mr. Trump is pushing Putin to get it over with by some stunning
+      act, like an Oreshnik attack on Kiev that that decapitates the Kiev regime. Diesen:
+      25:42 So you think the decapitation strike could be forthcoming; that is, as the
+      frontlines are falling apart to add to the confusion, just go directly after Kiev.
+      Because, well, so far the Russians, well, I wouldn’t say they haven’t touched
+      Kiev because they have increased a lot, especially lately. But it wouldn’t be
+      so popular even within Russia given the historical role of Kiev in Russian history
+      as the origin from Kievan Rus. But do you think such a decapitation strike could
+      come in the foreseeable future? Doctorow: 26:26 Well, first of all, for one thing,
+      having the Oreshnik takes away a big objection to attacking Kiev. They’re not
+      going to wipe out the Lavada, the very famous and important Russian Orthodox Church-history
+      monastery and repository of the holy relics and remains of Russian saints. They
+      don’t have to do much damage to Kiev as a whole. They just have to wipe out and
+      go deep to get to the safekeeping places of underground of Mr. Zelensky and his
+      close circle on Bankovskaya Urizen and one or two other locations. So the material
+      damage to Kiev would be minimal. Is it capitation? I think that much depends on
+      Mr. Trump. If he were, for example, to really step up sanctions, do something
+      that severely interrupts the Russian economy, which is within his power, so he
+      can do some nasty things. That might just push Putin to do what he otherwise should
+      be doing, which is to go from this war of attrition, which can go on much too
+      long, to finishing up the Zelensky regime. We’ll see. Diesen: 27:55 I thought
+      there was a big chance of something like this happening after the attack on Russia’s
+      nuclear forces, that this was something that they couldn’t, yeah, something that
+      would put an end to the attrition warfare. But yet, they seem to continue the
+      same approach. My last question, though, I just wanted to ask about this recent
+      tensions between the Europeans and Russia. Because I had on also two days ago,
+      I did an interview with Colonel Douglas Macgregor, who was previously an advisor
+      to the US Secretary of Defense. And he argued that in conversation with different
+      people from US intelligence that they kind of dismissed this as being a European
+      hoax. They were exaggerating. The Estonians especially were not credible. They
+      argued that Poland, you know, they more or less, not more or less, they did very
+      openly admit that there was no warheads on this. Of course, the Russians, they
+      go further. They say, of course, there’s no warheads, but also these weren’t ours.
+      They were sent by Ukraine. Again, I don’t sit on any evidence here, so it’s not
+      for me to say. But what do you make of these tensions though? Because even if
+      it is Russia doing it to perhaps send a signal that we can also bring the war
+      to you. Even if this is the case, I’m a bit not perplexed, but I take note of
+      the European excitement in this that they can almost show the smoking gun coming
+      from Russia that now we have some legitimacy to step this up or pull the Americans
+      in. I’m not really sure. Yeah, even in this country there, because I’m in Norway,
+      and Oslo, they thought they saw drones. It’s like, oh, Russia, Russia. 29:52 And
+      at the end of the day, they’re not sure if it was a drone. And the next day they
+      arrested someone on a different drone, but you know, he’s a Norwegian. So it doesn’t
+      make any sense. But this impulse always to run into this almost excitement that
+      now finally the Russians have attacked us, now we can do something. It is very
+      strange to me. Doctorow: Well, none of us knows for sure, and I doubt that the
+      truth behind this will be known for decades, but we come at it from our own conceptualizations.
+      And my conceptualization is that this fits in line with a typical false-flag operation
+      designed and partly executed by the British, by MI6. I look at timing. Timing
+      is important. In the case of Estonia, Kaja Kallas herself said a week ago, you
+      know the Russians have made these incursions four times this year. Okay. Why didn’t
+      you say anything before? Why is it coming up now? Why suddenly out of nowhere
+      is Norway coming? Why suddenly is Denmark and the Prime Minister, by the way,
+      not the military, the military are much more cautious in Denmark. They say they
+      have no idea where this is coming from, and it could come from a ship in the Baltic
+      Sea. It could be anybody’s ship. But it’s the real Russophobe prime minister of
+      Denmark who said, oh, we can’t rule out Russia. OK. I believe MI6 is behind this,
+      because it fits the pattern. If you go back over the last decade, every time there
+      is some kind of big false-flag operation, whether it was in Syria or in Russia,
+      relating to Russia, it coincides with something. Well, the murder, death, of Alexei
+      Navalny. It came what, a week before the Munich Security Conference, when his
+      widow had already been prepared to come to speak. Well, that’s interesting. But
+      it was a setup. Who had access to him in the far north? Well, the Brits have a
+      very extensive system of espionage and activities across Russia, particularly
+      with the assistance of people who can pass for Russians, Russians speaking Ukrainians
+      who worked with them, as well as Ukrainian intelligence. And I said at the time
+      that Navani was killed by the Brits. I say at this time that what we’ve seen is
+      a British plot; aided and supported by the Ukrainians, who are fully in on this,
+      because it brought to the attention of Europeans how useful Ukraine can be in
+      supplying them with its unique technology and hardware to intercept, to destroy
+      cheaply, not at $50,000 a missile, a $20,000 drone coming from Russia. That was
+      very convenient for Mr. Zelensky. 33:01 But more broadly, and then the whole idea
+      of a drone wall, which was one of the results of this whole operation. A drone
+      wall for all of Europe with the Ukrainians as part of this. That’s one result.
+      But the timing, again, for me is a big indicator. This came, this whole story
+      about the supposedly Russian drones attacking Poland and Romania, then the Russian
+      military jets in incursion in over Estonian airspace, all of that comes at the
+      tail end and just after Zapad 25. This joint exercises of Belarus and Russia held
+      every four years. That just was ending with 100,000 Russian soldiers with 25 foreign
+      delegations, many of them quite important and obviously prospective customers
+      for Russian military gear and for security arrangements with Russia, for money
+      of course. And it is very convenient to start this new “Russia Russia Russia”
+      chant to direct attention away from that big Russian success in Zapad 25. Diesen:
+      34:18 It’s, yeah, behind the empty rhetoric slogans in the media, there is a more
+      complex reality, I guess. So thank you so much for taking time out of your Saturday
+      to speak. I always very much appreciate your perspectives. Doctorow: Well, I very
+      much appreciate your exposing the audience to divergent views, which they have
+      a right and a need to get.'
+    one_sentence_summary: In an interview with historian Gilbert Doktorow, the discussion
+      centers on the escalating rhetoric surrounding the Russia-Ukraine conflict, comparing
+      past U.S. threats under Trump to current claims of Ukrainian victory and calls
+      for aggressive actions against Russia.
+    paragraph_summary: In a recent interview, historian and analyst Gilbert Doktorow
+      discussed the evolving dynamics of the Russian-Ukraine conflict, particularly
+      in light of U.S. involvement and rhetoric. He reflected on past instances, such
+      as Trump's ultimatum to Russia for an unconditional ceasefire, and noted the current
+      narrative at the United Nations, which portrays Russia as losing and Ukraine as
+      gaining ground. Doktorow emphasized the excitement in Europe regarding America's
+      increasing engagement in the conflict, while also acknowledging the divergence
+      of opinions within alternative media, particularly contrasting his views with
+      those of Jeffrey Sachs, who holds a more widely accepted perspective. He encouraged
+      viewers to consider these differing interpretations to gain a broader understanding
+      of the situation.
+    published: '2025-09-28T05:01:42+00:00'
+  - title: 'Conversation with Professor Glenn Diesen: Trump washing his hands of the
+      Ukraine war'
+    url: https://gilbertdoctorow.com/2025/09/27/conversation-with-professor-glenn-diesen-trump-washing-his-hands-of-the-ukraine-war/
+    text: 'I am particularly grateful to Professor Diesen for providing his audience
+      with commentators offering divergent interpretations of the key international
+      developments. Today in separate interviews he asked both me and Jeffrey Sachs
+      the same questions regarding Trump’s speech to the General Assembly gathering,
+      his statements on Truth Social that Ukraine can win the war against Russia and
+      recover its occupied territory with help from the European Union and his answer
+      to a journalist’s question about possible U.S. support should the Europeans shoot
+      down Russian military jets violating their air space, per his recommendations.
+      I invite the Community to watch not only my interview with Glenn today but also
+      the one with Jeffrey Sachs which you can easily find via the youtube search box.
+      My point is that Sachs’ derision of Trump and his accusation that Trump has shown
+      ‘a colossal failure of leadership’ by not being transparent with the American
+      public over his intention to end American participation in the Ukraine war must
+      be placed in the context of Sach’s being a champion of globalism and of the Green
+      Agenda in his capacity of director of the Columbia University center for sustainability.
+      It was precisely these core beliefs of Sachs that Trump trashed during a speech
+      to the GA which was definitely not a ‘disjointed rant’ per Sachs but a programmatic
+      statement from Trump. My further point is that in his remarks on Open Borders
+      (a key aspect of Globalism) and on the futility of Renewable Energy Trump was
+      saying what his MAGA supporters want to hear and so he could allow himself to
+      be candid with the audience and with the American public.  On the other hand,
+      Trump’s views on ending the war on Russia’s terms, on normalization of relations
+      with Russia do not find much support within MAGA and are positively hated by a
+      majority of Congressmen and by the American political establishment, hence his
+      duplicity, his espousing the positions of his opponents while in effect trolling
+      them. Enjoy the show! ©Gilbert Doctorow, 2025 Conversation with Professor Glenn
+      Diesen: Trump washing his hands of the Ukraine war I am particularly grateful
+      to Professor Diesen for providing his audience with commentators offering divergent
+      interpretations of the key international developments. Today in separate interviews
+      he asked both me and Jeffrey Sachs the same questions regarding Trump’s speech
+      to the General Assembly gathering, his statements on Truth Social that Ukraine
+      can win the war against Russia and recover its occupied territory with help from
+      the European Union and his answer to a journalist’s question about possible U.S.
+      support should the Europeans shoot down Russian military jets violating their
+      air space, per his recommendations. I invite the Community to watch not only my
+      interview with Glenn today but also the one with Jeffrey Sachs which you can easily
+      find via the youtube search box. My point is that Sachs’ derision of Trump and
+      his accusation that Trump has shown ‘a colossal failure of leadership’ by not
+      being transparent with the American public over his intention to end American
+      participation in the Ukraine war must be placed in the context of Sach’s being
+      a champion of globalism and of the Green Agenda in his capacity of director of
+      the Columbia University center for sustainability. It was precisely these core
+      beliefs of Sachs that Trump trashed during a speech to the GA which was definitely
+      not a ‘disjointed rant’ per Sachs but a programmatic statement from Trump. My
+      further point is that in his remarks on Open Borders (a key aspect of Globalism)
+      and on the futility of Renewable Energy Trump was saying what his MAGA supporters
+      want to hear and so he could allow himself to be candid with the audience and
+      with the American public.  On the other hand, Trump’s views on ending the war
+      on Russia’s terms, on normalization of relations with Russia do not find much
+      support within MAGA and are positively hated by a majority of Congressmen and
+      by the American political establishment, hence his duplicity, his espousing the
+      positions of his opponents while in effect trolling them. Enjoy the show! ©Gilbert
+      Doctorow, 2025'
+    one_sentence_summary: The author expresses gratitude to Professor Diesen for facilitating
+      a discussion featuring contrasting views on Trump's recent statements regarding
+      international relations, particularly his comments on Ukraine and U.S. military
+      support, and encourages the community to watch both their interview and Jeffrey
+      Sachs' for a broader perspective.
+    paragraph_summary: The article discusses Professor Diesen's interviews with commentators,
+      including the author and Jeffrey Sachs, regarding Donald Trump's recent speech
+      at the General Assembly and his views on the Ukraine-Russia conflict. The author
+      highlights Sachs' criticism of Trump as a failure of leadership for lacking transparency
+      about U.S. involvement in the war, framing it within Sachs' globalist and environmentalist
+      perspectives. In contrast, the author argues that Trump's speech, which criticized
+      globalism and renewable energy, resonated with his MAGA supporters, allowing him
+      to express candid opinions. However, Trump's stance on negotiating with Russia
+      is portrayed as controversial and unpopular among his base and the broader political
+      establishment, suggesting a complex and potentially contradictory approach to
+      his foreign policy.
+    published: '2025-09-27T18:28:54+00:00'
+  - title: 'Conversation with Professor Glenn Diesen: Trump washing his hands of the
+      Ukraine war'
+    url: https://gilbertdoctorow.com/2025/09/27/conversation-with-professor-glenn-diesen-trump-washing-his-hands-of-the-ukraine-war/
+    text: 'I am particularly grateful to Professor Diesen for providing his audience
+      with commentators offering divergent interpretations of the key international
+      developments. Today in separate interviews he asked both me and Jeffrey Sachs
+      the same questions regarding Trump’s speech to the General Assembly gathering,
+      his statements on Truth Social that Ukraine can win the war against Russia and
+      recover its occupied territory with help from the European Union and his answer
+      to a journalist’s question about possible U.S. support should the Europeans shoot
+      down Russian military jets violating their air space, per his recommendations.
+      I invite the Community to watch not only my interview with Glenn today but also
+      the one with Jeffrey Sachs which you can easily find via the youtube search box.
+      My point is that Sachs’ derision of Trump and his accusation that Trump has shown
+      ‘a colossal failure of leadership’ by not being transparent with the American
+      public over his intention to end American participation in the Ukraine war must
+      be placed in the context of Sach’s being a champion of globalism and of the Green
+      Agenda in his capacity of director of the Columbia University center for sustainability.
+      It was precisely these core beliefs of Sachs that Trump trashed during a speech
+      to the GA which was definitely not a ‘disjointed rant’ per Sachs but a programmatic
+      statement from Trump. My further point is that in his remarks on Open Borders
+      (a key aspect of Globalism) and on the futility of Renewable Energy Trump was
+      saying what his MAGA supporters want to hear and so he could allow himself to
+      be candid with the audience and with the American public.  On the other hand,
+      Trump’s views on ending the war on Russia’s terms, on normalization of relations
+      with Russia do not find much support within MAGA and are positively hated by a
+      majority of Congressmen and by the American political establishment, hence his
+      duplicity, his espousing the positions of his opponents while in effect trolling
+      them. Enjoy the show! ©Gilbert Doctorow, 2025 Conversation with Professor Glenn
+      Diesen: Trump washing his hands of the Ukraine war I am particularly grateful
+      to Professor Diesen for providing his audience with commentators offering divergent
+      interpretations of the key international developments. Today in separate interviews
+      he asked both me and Jeffrey Sachs the same questions regarding Trump’s speech
+      to the General Assembly gathering, his statements on Truth Social that Ukraine
+      can win the war against Russia and recover its occupied territory with help from
+      the European Union and his answer to a journalist’s question about possible U.S.
+      support should the Europeans shoot down Russian military jets violating their
+      air space, per his recommendations. I invite the Community to watch not only my
+      interview with Glenn today but also the one with Jeffrey Sachs which you can easily
+      find via the youtube search box. My point is that Sachs’ derision of Trump and
+      his accusation that Trump has shown ‘a colossal failure of leadership’ by not
+      being transparent with the American public over his intention to end American
+      participation in the Ukraine war must be placed in the context of Sach’s being
+      a champion of globalism and of the Green Agenda in his capacity of director of
+      the Columbia University center for sustainability. It was precisely these core
+      beliefs of Sachs that Trump trashed during a speech to the GA which was definitely
+      not a ‘disjointed rant’ per Sachs but a programmatic statement from Trump. My
+      further point is that in his remarks on Open Borders (a key aspect of Globalism)
+      and on the futility of Renewable Energy Trump was saying what his MAGA supporters
+      want to hear and so he could allow himself to be candid with the audience and
+      with the American public.  On the other hand, Trump’s views on ending the war
+      on Russia’s terms, on normalization of relations with Russia do not find much
+      support within MAGA and are positively hated by a majority of Congressmen and
+      by the American political establishment, hence his duplicity, his espousing the
+      positions of his opponents while in effect trolling them. Enjoy the show! ©Gilbert
+      Doctorow, 2025'
+    one_sentence_summary: The author expresses gratitude to Professor Diesen for facilitating
+      a discussion featuring contrasting views on Trump's recent statements regarding
+      international relations, particularly his comments on Ukraine and U.S. military
+      support, and encourages the community to watch both their interview and Jeffrey
+      Sachs' for a broader perspective.
+    paragraph_summary: The article discusses Professor Diesen's interviews with commentators,
+      including the author and Jeffrey Sachs, regarding Donald Trump's recent speech
+      at the General Assembly and his views on the Ukraine-Russia conflict. The author
+      highlights Sachs' criticism of Trump as a failure of leadership for lacking transparency
+      about U.S. involvement in the war, framing it within Sachs' globalist and environmentalist
+      perspectives. In contrast, the author argues that Trump's speech, which criticized
+      globalism and renewable energy, resonated with his MAGA supporters, allowing him
+      to express candid opinions. However, Trump's stance on negotiating with Russia
+      is portrayed as controversial and unpopular among his base and the broader political
+      establishment, suggesting a complex and potentially contradictory approach to
+      his foreign policy.
+    published: '2025-09-27T18:28:54+00:00'
+  - title: Transcript of WION ‘Game Plan,’ 24 September 2025
+    url: https://gilbertdoctorow.com/2025/09/25/transcript-of-wion-game-plan-24-september-2025/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=5ZXVX6xRatk
+      WION: 0:00 Welcome to Game Plan, I’m Shivan Chanana. While Europe has been busy
+      dealing with unknown drones flying into NATO airspace in various countries, Russia
+      planned and executed a subterranean ambush in the eastern Ukrainian city of Kupyansk,
+      just across the Oskil river beyond Luhansk. Now this is a key artery for supplies
+      for the Ukrainian army. Kupyansk was turned into a heavily fortified zone by Kiev
+      as Ukraine established fire control over the approaches to the city. That is essentially
+      what Ukraine prepared Kupyansk for. 0:31 But Russian troops reportedly used carts
+      and scooters to travel 13 kilometers under the Oskil River, navigating through
+      extensive Soviet-era underground networks of pipelines to ambush Ukrainian troops
+      who were stationed in Kupiansk. And they were totally caught unaware. Russian
+      troops have now sealed off a large Ukrainian group north and west of Kupyansk,
+      trapping some 700 Ukrainian troops, out of which 250 are reported to have been
+      eliminated by the Russian defense ministry. So how did Russia do it? Why was Ukraine
+      caught off guard? How do they navigate in these Soviet-era pipelines which exist
+      even now? How important is Kupyansk for Russia? What is Russia’s game plan? On
+      this episode of Game Plan, I’m being joined by Dr. Gilbert Doctorow from Berlin.
+      He’s an international affairs analyst, author and historian. Dr. Doctorow, always
+      a pleasure speaking with you. Is the fall of Kupyansk imminent now? Doctorow:
+      1:27 According to the latest Russian reports, which were broadcast last night
+      on state television, the Russians are occupying a part of central Kupiansk and
+      are cleaning it out. What that means is they have mine sweepers to eliminate the
+      weapons left by Ukraine in those parts of the city which they abandoned for the
+      sake of causing havoc to the invaders. But let’s take a step back, as you mentioned
+      a moment ago. Why is Kopyansk important? Aside from its logistical aspect, which
+      you have mentioned, it is a defending point for the city of Kharkov. The city
+      of Kharkov, or Kharkiv, as it’s called in Ukrainian, was and is the second-largest
+      Ukrainian city in an area that is Russian-speaking. 2:14 So it is more than that.
+      The Kharkov area, being close to the Russian border, has been a staging ground
+      for the incursions into Belgorod and Kursk oblasts, or region of the Russian Federation.
+      Moreover, the troops, those 750 troops, now 500 troops, who are they? And why
+      would they be of particular interest to the Russians? Because a part of them are
+      what’s called the Russian Volunteer Corps, which is a group of Russian defectors,
+      Russians who joined the Ukrainian side and who were celebrated by the Ukrainian
+      government when it staged its violent terrorist operations inside Belgorod about
+      a year ago. WION: 3:02 I understand. And when you say clearing out Kupyansk, that
+      is essentially what the report suggests so far. Now, is Kupyansk going to fall
+      to Russian forces eventually? Is that now a certainty? Doctorow: Oh, it’s a certainty.
+      What is happening is the slow evacuation, to the extent possible, from the area.
+      The Ukrainians have more or less given it up. They will leave those who are trapped
+      to be killed. That is the way that they have behaved so far in each similar Russian
+      capture of a fortified city. So those fellows are goners unless they can manage
+      to surrender. The city of Kupyansk will fall. Kharkov is really the target of
+      this operation. Here again, the Russians are not storming the city of Kharkov.
+      It has a large Russian-speaking population. They are not intent on causing civilian
+      casualties. But they will surround and starve out Kharkov. The surrender of Kharkov
+      will be inevitable, and that is an important part of the Russian game plan for
+      the end of the war. WION: 4:13 I hear your point. And Dr. Doctorow, what kind
+      of loss is this going to cause to Ukraine? As Kupyansk, was a fully fortified
+      town. It was guarding Kharkiv, Kharkiv being the second largest city. What kind
+      of loss will this be for the Ukrainian government as far as the infiltration is
+      concerned? And also going forward, what’s next for the Russian forces after that?
+      Doctorow: Well, let’s be honest, the main area of activity is not around Kharkov.
+      That is a secondary front for the Russians. The main area of activity, of course,
+      is in the Donetsk oblast, which is the key oblast, region of the Donbas. And it
+      is there you have the Ukrainian forces collapsing in front of our eyes, withdrawing
+      and leaving the path open for the Russian capture of Slovyansk and Kramatorsk
+      in the center. The city that gets the most attention, which I believe you mentioned
+      is Pakrovsk, which is known in Russian as Krasnoyarsk, is in a similar position
+      to what is happening in Kupyansk. That is to say, the Russians have avoided storming
+      any of these cities in the most obvious way by sending in massive troops from
+      outside and running over the barbed wire, whatever else the Ukrainians have established
+      to protect them. Instead, they are doing the bombardment of these towns to soften
+      them up and using special methods as were using Kupyansk, the underground tunnels.
+      WION: 5:49 And Dr. Doctorow, let me also get your thoughts on the latest statement
+      which came in from Donald Trump after talking to Zelensky, saying that Ukraine
+      can regain all territories lost to Russia. And this is– earlier he was talking
+      about ceding territory, and now he’s giving Ukrainians hope that they can regain
+      all that territory which has been lost to Russia. Is this yet another U-turn from
+      Trump, which it seems like, which will eventually also get U-turned later, or
+      is there any kind of hope now which Ukraine is gaining? And how will that translate
+      into the battlefield? Doctorow: 6:25 This news is prime news on this morning’s
+      BBC. And it’s being described as a statement of fact that has to be dealt with.
+      It means that Mr. Trump has been turned, that he has now sided with the Ukrainians
+      against the Russians. This is all nonsense. Mr. Trump is a master of deception.
+      He is a master of spreading confusion. And he is a master at playing the British,
+      the EU countries, for fools, which is not particularly difficult because they
+      are fools. The point is that the United States has stopped supplying arms that
+      it paid for. It will not renew that. Mr. Trump made no such promises. 7:11 What
+      is clear is that he wanted to shut up Mr. Zelensky in a very polite and seemingly
+      gracious way and to silence his opponents in Europe, to make them think, or at
+      least be able to say, as the BBC did as the voice of Mr. Starmer, that Mr. Trump
+      has turned. He hasn’t turned at all. But he’s gained some time. He’s gained some
+      weeks. On the other hand, his message yesterday, during his General Assembly speech,
+      made clear what I have seen in him for some time. His message was to Mr. Putin
+      when he said how disappointed he was that the war wasn’t ended in one week, and
+      his taunt to Mr. Putin that the Russians look like a paper tiger. That is the
+      message of Mr. Trump to Putin: get it over with, finish this war quickly, so that
+      we can move on to real business like the arms limitation talks that have to be
+      renewed at the start and so forth. WION: 8:16 All right, Dr. Gilbert Doctorow,
+      thanks so much for joining me here on “Game Plan”. As always, never holding back
+      your views or your thoughts or your feelings regarding the UK, at least at this
+      point and the Ukrainians. But as far as your comments on Trump are concerned,
+      you’ve maintained earlier as well that he’s not to be considered as someone who
+      doesn’t know what he’s talking about. He knows very well what he’s doing. So his
+      statements right now which suggest that he is back with the Ukrainians, it’s perhaps
+      also a message to Russia but eventually he wants to get this done with as he’s
+      mentioned enough times in the past as well. We need to wait and watch how this
+      one unfolds, but as of now this is what the Russian game plan seems like as of
+      now. They are definitely going after Kupyansk, but perhaps not after the entire
+      city of Kharkiv. How this eventually plays out we need to wait and watch. 8:58
+      That was Dr. Gilbert Doctorow joining me here on “Game Plan”. Thanks so much,
+      doctor. Doctorow: My pleasure.'
+    one_sentence_summary: Russia executed a surprise subterranean ambush on Ukrainian
+      troops in Kupyansk, utilizing Soviet-era underground networks to catch them off
+      guard and trap around 700 soldiers.
+    paragraph_summary: In a recent episode of WION's "Game Plan," host Shivan Chanana
+      discusses Russia's strategic ambush in Kupyansk, Ukraine, a critical supply route
+      for Ukrainian forces. Utilizing Soviet-era underground pipelines, Russian troops
+      executed a surprise attack, effectively trapping around 700 Ukrainian soldiers
+      and reportedly eliminating 250 of them. The episode features insights from international
+      affairs analyst Dr. Gilbert Doctorow, who highlights the significance of Kupyansk
+      and the implications of its potential fall for both sides in the ongoing conflict.
+      The discussion raises questions about Ukraine's preparedness and Russia's tactical
+      maneuvers in the region.
+    published: '2025-09-25T04:52:35+00:00'
+  - title: Transcript of WION ‘Game Plan,’ 24 September 2025
+    url: https://gilbertdoctorow.com/2025/09/25/transcript-of-wion-game-plan-24-september-2025/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=5ZXVX6xRatk
+      WION: 0:00 Welcome to Game Plan, I’m Shivan Chanana. While Europe has been busy
+      dealing with unknown drones flying into NATO airspace in various countries, Russia
+      planned and executed a subterranean ambush in the eastern Ukrainian city of Kupyansk,
+      just across the Oskil river beyond Luhansk. Now this is a key artery for supplies
+      for the Ukrainian army. Kupyansk was turned into a heavily fortified zone by Kiev
+      as Ukraine established fire control over the approaches to the city. That is essentially
+      what Ukraine prepared Kupyansk for. 0:31 But Russian troops reportedly used carts
+      and scooters to travel 13 kilometers under the Oskil River, navigating through
+      extensive Soviet-era underground networks of pipelines to ambush Ukrainian troops
+      who were stationed in Kupiansk. And they were totally caught unaware. Russian
+      troops have now sealed off a large Ukrainian group north and west of Kupyansk,
+      trapping some 700 Ukrainian troops, out of which 250 are reported to have been
+      eliminated by the Russian defense ministry. So how did Russia do it? Why was Ukraine
+      caught off guard? How do they navigate in these Soviet-era pipelines which exist
+      even now? How important is Kupyansk for Russia? What is Russia’s game plan? On
+      this episode of Game Plan, I’m being joined by Dr. Gilbert Doctorow from Berlin.
+      He’s an international affairs analyst, author and historian. Dr. Doctorow, always
+      a pleasure speaking with you. Is the fall of Kupyansk imminent now? Doctorow:
+      1:27 According to the latest Russian reports, which were broadcast last night
+      on state television, the Russians are occupying a part of central Kupiansk and
+      are cleaning it out. What that means is they have mine sweepers to eliminate the
+      weapons left by Ukraine in those parts of the city which they abandoned for the
+      sake of causing havoc to the invaders. But let’s take a step back, as you mentioned
+      a moment ago. Why is Kopyansk important? Aside from its logistical aspect, which
+      you have mentioned, it is a defending point for the city of Kharkov. The city
+      of Kharkov, or Kharkiv, as it’s called in Ukrainian, was and is the second-largest
+      Ukrainian city in an area that is Russian-speaking. 2:14 So it is more than that.
+      The Kharkov area, being close to the Russian border, has been a staging ground
+      for the incursions into Belgorod and Kursk oblasts, or region of the Russian Federation.
+      Moreover, the troops, those 750 troops, now 500 troops, who are they? And why
+      would they be of particular interest to the Russians? Because a part of them are
+      what’s called the Russian Volunteer Corps, which is a group of Russian defectors,
+      Russians who joined the Ukrainian side and who were celebrated by the Ukrainian
+      government when it staged its violent terrorist operations inside Belgorod about
+      a year ago. WION: 3:02 I understand. And when you say clearing out Kupyansk, that
+      is essentially what the report suggests so far. Now, is Kupyansk going to fall
+      to Russian forces eventually? Is that now a certainty? Doctorow: Oh, it’s a certainty.
+      What is happening is the slow evacuation, to the extent possible, from the area.
+      The Ukrainians have more or less given it up. They will leave those who are trapped
+      to be killed. That is the way that they have behaved so far in each similar Russian
+      capture of a fortified city. So those fellows are goners unless they can manage
+      to surrender. The city of Kupyansk will fall. Kharkov is really the target of
+      this operation. Here again, the Russians are not storming the city of Kharkov.
+      It has a large Russian-speaking population. They are not intent on causing civilian
+      casualties. But they will surround and starve out Kharkov. The surrender of Kharkov
+      will be inevitable, and that is an important part of the Russian game plan for
+      the end of the war. WION: 4:13 I hear your point. And Dr. Doctorow, what kind
+      of loss is this going to cause to Ukraine? As Kupyansk, was a fully fortified
+      town. It was guarding Kharkiv, Kharkiv being the second largest city. What kind
+      of loss will this be for the Ukrainian government as far as the infiltration is
+      concerned? And also going forward, what’s next for the Russian forces after that?
+      Doctorow: Well, let’s be honest, the main area of activity is not around Kharkov.
+      That is a secondary front for the Russians. The main area of activity, of course,
+      is in the Donetsk oblast, which is the key oblast, region of the Donbas. And it
+      is there you have the Ukrainian forces collapsing in front of our eyes, withdrawing
+      and leaving the path open for the Russian capture of Slovyansk and Kramatorsk
+      in the center. The city that gets the most attention, which I believe you mentioned
+      is Pakrovsk, which is known in Russian as Krasnoyarsk, is in a similar position
+      to what is happening in Kupyansk. That is to say, the Russians have avoided storming
+      any of these cities in the most obvious way by sending in massive troops from
+      outside and running over the barbed wire, whatever else the Ukrainians have established
+      to protect them. Instead, they are doing the bombardment of these towns to soften
+      them up and using special methods as were using Kupyansk, the underground tunnels.
+      WION: 5:49 And Dr. Doctorow, let me also get your thoughts on the latest statement
+      which came in from Donald Trump after talking to Zelensky, saying that Ukraine
+      can regain all territories lost to Russia. And this is– earlier he was talking
+      about ceding territory, and now he’s giving Ukrainians hope that they can regain
+      all that territory which has been lost to Russia. Is this yet another U-turn from
+      Trump, which it seems like, which will eventually also get U-turned later, or
+      is there any kind of hope now which Ukraine is gaining? And how will that translate
+      into the battlefield? Doctorow: 6:25 This news is prime news on this morning’s
+      BBC. And it’s being described as a statement of fact that has to be dealt with.
+      It means that Mr. Trump has been turned, that he has now sided with the Ukrainians
+      against the Russians. This is all nonsense. Mr. Trump is a master of deception.
+      He is a master of spreading confusion. And he is a master at playing the British,
+      the EU countries, for fools, which is not particularly difficult because they
+      are fools. The point is that the United States has stopped supplying arms that
+      it paid for. It will not renew that. Mr. Trump made no such promises. 7:11 What
+      is clear is that he wanted to shut up Mr. Zelensky in a very polite and seemingly
+      gracious way and to silence his opponents in Europe, to make them think, or at
+      least be able to say, as the BBC did as the voice of Mr. Starmer, that Mr. Trump
+      has turned. He hasn’t turned at all. But he’s gained some time. He’s gained some
+      weeks. On the other hand, his message yesterday, during his General Assembly speech,
+      made clear what I have seen in him for some time. His message was to Mr. Putin
+      when he said how disappointed he was that the war wasn’t ended in one week, and
+      his taunt to Mr. Putin that the Russians look like a paper tiger. That is the
+      message of Mr. Trump to Putin: get it over with, finish this war quickly, so that
+      we can move on to real business like the arms limitation talks that have to be
+      renewed at the start and so forth. WION: 8:16 All right, Dr. Gilbert Doctorow,
+      thanks so much for joining me here on “Game Plan”. As always, never holding back
+      your views or your thoughts or your feelings regarding the UK, at least at this
+      point and the Ukrainians. But as far as your comments on Trump are concerned,
+      you’ve maintained earlier as well that he’s not to be considered as someone who
+      doesn’t know what he’s talking about. He knows very well what he’s doing. So his
+      statements right now which suggest that he is back with the Ukrainians, it’s perhaps
+      also a message to Russia but eventually he wants to get this done with as he’s
+      mentioned enough times in the past as well. We need to wait and watch how this
+      one unfolds, but as of now this is what the Russian game plan seems like as of
+      now. They are definitely going after Kupyansk, but perhaps not after the entire
+      city of Kharkiv. How this eventually plays out we need to wait and watch. 8:58
+      That was Dr. Gilbert Doctorow joining me here on “Game Plan”. Thanks so much,
+      doctor. Doctorow: My pleasure.'
+    one_sentence_summary: Russia executed a surprise subterranean ambush on Ukrainian
+      troops in Kupyansk, utilizing Soviet-era underground networks to catch them off
+      guard and trap around 700 soldiers.
+    paragraph_summary: In a recent episode of WION's "Game Plan," host Shivan Chanana
+      discusses Russia's strategic ambush in Kupyansk, Ukraine, a critical supply route
+      for Ukrainian forces. Utilizing Soviet-era underground pipelines, Russian troops
+      executed a surprise attack, effectively trapping around 700 Ukrainian soldiers
+      and reportedly eliminating 250 of them. The episode features insights from international
+      affairs analyst Dr. Gilbert Doctorow, who highlights the significance of Kupyansk
+      and the implications of its potential fall for both sides in the ongoing conflict.
+      The discussion raises questions about Ukraine's preparedness and Russia's tactical
+      maneuvers in the region.
+    published: '2025-09-25T04:52:35+00:00'
+  - title: 'WION ‘Game Plan’: Russians use Soviet gas pipelines to infiltrate Kupyansk
+      / 700 Ukrainian forces trapped'
+    url: https://gilbertdoctorow.com/2025/09/24/wion-game-plan-russians-use-soviet-gas-pipelines-to-infiltrate-kupyansk-700-ukrainian-forces-trapped/
+    text: With over 10 million subscribers worldwide, WION is by far India’s biggest
+      and most authoritative English-language broadcaster.  It is an honor to be called
+      upon by them periodically to comment on major Russia-related developments. My
+      last time with them on air was a month ago. This 9-minute interview taken this
+      morning focuses on the ongoing Russian capture of the city of Kupyansk in northeast
+      Ukraine. The novel and most newsworthy aspect of this conquest has been the use
+      by the Russians of Soviet era gas pipelines to move their troops into the city
+      stealthily and take the Ukrainian defenders by surprise, killing about one third
+      of the garrison outright and trapping the rest. With regard to those ‘rest,’ it
+      is noteworthy that among them are units from the so-called Russian Volunteer Corps
+      that staged a terrorist incursion in the RF border region of Belgorod a year ago.
+      Destroying these murderers was certainly one key objective of the Russian forces
+      entering Kupyansk now. Taking the city of Kharkov by knocking out fortified towns
+      in the vicinity and surrounding the metropolis is surely on the Russian game plan
+      for ending the war, although in fact this is a secondary front while the center
+      of Russian attention continues to be in the Donetsk region, where the main fighting
+      is around another logistics hub, Pokrovsky, known in Russian as Krasnoarmeysk.
+      That is also proceeding well for the Russians as they move ever closer to the
+      city’s outlying districts. Taking Pokrovsk will open the way for the Russians
+      to take the last two heavily defended cities in central Donetsk, Kramatorsk and
+      Slavyansk, after which they have a clear path to the Dnieper river that divides
+      Ukraine in two. It is worth noting, when speaking of the changing Russian military
+      objectives, that there is talk on Russian state television now of the importance
+      of taking Odessa to ensure the safety of the Crimea. The distance by sea from
+      Odessa to Crimea is rather short and the city’s port is viewed by the French and
+      British as a desirable base for their own anti-Russian operations when the war
+      ends.  If Odessa is excised from the rump Ukraine, the country will lose much
+      of its attraction to these Western allies of Zelensky.
+    one_sentence_summary: WION, India's largest English-language broadcaster, featured
+      an interview discussing Russia's strategic use of Soviet-era gas pipelines to
+      stealthily capture the city of Kupyansk in Ukraine, resulting in significant casualties
+      among Ukrainian defenders, including members of the Russian Volunteer Corps.
+    paragraph_summary: WION, India's largest English-language broadcaster with over
+      10 million subscribers, recently featured an interview discussing the ongoing
+      Russian military operations in Ukraine, particularly the capture of Kupyansk.
+      The interview highlighted the innovative use of Soviet-era gas pipelines by Russian
+      forces to stealthily deploy troops, resulting in significant casualties among
+      Ukrainian defenders, including units from the Russian Volunteer Corps. The strategic
+      aim of capturing Kupyansk is part of a broader Russian plan to encircle Kharkov
+      and ultimately dominate the Donetsk region, with key battles ongoing around logistics
+      hubs like Pokrovsky. Additionally, there are emerging discussions in Russian media
+      about the strategic importance of capturing Odessa to secure Crimea, given its
+      proximity by sea.
+    published: '2025-09-24T19:06:54+00:00'
+  - title: 'WION ‘Game Plan’: Russians use Soviet gas pipelines to infiltrate Kupyansk
+      / 700 Ukrainian forces trapped'
+    url: https://gilbertdoctorow.com/2025/09/24/wion-game-plan-russians-use-soviet-gas-pipelines-to-infiltrate-kupyansk-700-ukrainian-forces-trapped/
+    text: With over 10 million subscribers worldwide, WION is by far India’s biggest
+      and most authoritative English-language broadcaster.  It is an honor to be called
+      upon by them periodically to comment on major Russia-related developments. My
+      last time with them on air was a month ago. This 9-minute interview taken this
+      morning focuses on the ongoing Russian capture of the city of Kupyansk in northeast
+      Ukraine. The novel and most newsworthy aspect of this conquest has been the use
+      by the Russians of Soviet era gas pipelines to move their troops into the city
+      stealthily and take the Ukrainian defenders by surprise, killing about one third
+      of the garrison outright and trapping the rest. With regard to those ‘rest,’ it
+      is noteworthy that among them are units from the so-called Russian Volunteer Corps
+      that staged a terrorist incursion in the RF border region of Belgorod a year ago.
+      Destroying these murderers was certainly one key objective of the Russian forces
+      entering Kupyansk now. Taking the city of Kharkov by knocking out fortified towns
+      in the vicinity and surrounding the metropolis is surely on the Russian game plan
+      for ending the war, although in fact this is a secondary front while the center
+      of Russian attention continues to be in the Donetsk region, where the main fighting
+      is around another logistics hub, Pokrovsky, known in Russian as Krasnoarmeysk.
+      That is also proceeding well for the Russians as they move ever closer to the
+      city’s outlying districts. Taking Pokrovsk will open the way for the Russians
+      to take the last two heavily defended cities in central Donetsk, Kramatorsk and
+      Slavyansk, after which they have a clear path to the Dnieper river that divides
+      Ukraine in two. It is worth noting, when speaking of the changing Russian military
+      objectives, that there is talk on Russian state television now of the importance
+      of taking Odessa to ensure the safety of the Crimea. The distance by sea from
+      Odessa to Crimea is rather short and the city’s port is viewed by the French and
+      British as a desirable base for their own anti-Russian operations when the war
+      ends.  If Odessa is excised from the rump Ukraine, the country will lose much
+      of its attraction to these Western allies of Zelensky.
+    one_sentence_summary: WION, India's largest English-language broadcaster, featured
+      an interview discussing Russia's strategic use of Soviet-era gas pipelines to
+      stealthily capture the city of Kupyansk in Ukraine, resulting in significant casualties
+      among Ukrainian defenders, including members of the Russian Volunteer Corps.
+    paragraph_summary: WION, India's largest English-language broadcaster with over
+      10 million subscribers, recently featured an interview discussing the ongoing
+      Russian military operations in Ukraine, particularly the capture of Kupyansk.
+      The interview highlighted the innovative use of Soviet-era gas pipelines by Russian
+      forces to stealthily deploy troops, resulting in significant casualties among
+      Ukrainian defenders, including units from the Russian Volunteer Corps. The strategic
+      aim of capturing Kupyansk is part of a broader Russian plan to encircle Kharkov
+      and ultimately dominate the Donetsk region, with key battles ongoing around logistics
+      hubs like Pokrovsky. Additionally, there are emerging discussions in Russian media
+      about the strategic importance of capturing Odessa to secure Crimea, given its
+      proximity by sea.
+    published: '2025-09-24T19:06:54+00:00'
+  - title: Transcript of ‘Judging Freedom’ edition of 24 September
+    url: https://gilbertdoctorow.com/2025/09/24/transcript-of-judging-freedom-edition-of-24-september/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=HY4T88gIpdw
+      Napolitano: 0:33 Hi everyone, Judge Andrew Napolitano here for “Judging Freedom”.
+      Today is Wednesday, September 24th, 2024. Professor Gilbert Doctorow will be with
+      us in just a moment on President Trump embraces Ukraine. But first this. [ad]
+      2:02 Professor Doctorow, good morning and welcome here. Thank you for coming on
+      the show. Thank you for accommodating my schedule. Let’s get right to the hot
+      international news, at least in the West here. As the sun comes up on the East
+      coast of the United States, President Donald Trump yesterday saying that Ukraine
+      can win in all caps, W-I-N, the war against Russia, and retake Crimea and the
+      other areas now under Russian security control. What do you make of that? Doctorow:
+      Double talk. Look, my opinion has not changed. I do not say that I am certain.
+      I do not claim that others are wrong, but I think I am onto something quite important
+      when I say that Mr. Trump deceives constantly, misinforms constantly. These are
+      the tools he uses to maintain his independence and to put at arm’s length his
+      many opponents domestically and abroad. Napolitano: 3:12 Well, what do the Russians
+      think when Trump makes a statement like this? And there’s a lot more to it. “Russia
+      is a paper tiger, NATO”, which of course includes the United States, which is
+      predominantly the United States, “can help Ukraine win the war”. Do you think
+      these are just negotiating techniques? Doctorow: I think they have the intent
+      of making fools of his opponents and they very gladly fill that role. The BBC
+      today put without any question whatsoever the statement that Trump has changed
+      sides, that he now backs Ukraine, that Ukraine will retake its territory, they’ve
+      gone in for that. Why not? They are so heavily invested in this story that the
+      Ukraine will win, that Russia will be humiliated, that they will seize at any
+      opportunity, at any straw that Mr. Trump gives them to think that he has joined
+      their side. 4:16 That does not mean he joined their side. I look at the small
+      print. When he said that the Europeans can go ahead and shoot down Russian military
+      aircraft if they are violating the airspace of NATO countries over the Baltic
+      — he was then asked afterwards by a journalist whether the United States would
+      support Europe in this venture, and he said it all depends, depends on the circumstances.
+      Well, if you’re sitting in London, Paris, Berlin, and you hear him say that, you
+      understand perfectly that you will be on your own. And none of these countries
+      is likely to take his invitation to fire [on] a Russian aircraft and face the
+      wrath of Russia by themselves, which is what you– Napolitano: 5:08 You missed
+      one country in there which probably is prepared to fire at Russian aircraft and
+      bear the brunt of Putin’s wrath on its own: Poland. Doctorow: No, I don’t believe
+      so. I don’t think that Mr. Tusk is that bold or that much a risk-taker to put
+      his country on the line without a firm backing from Washington, which he does
+      not have and will not get. Napolitano: 5:40 All right, Chris, put up the full
+      screen. You had it there a moment ago. I just want to read the operative language
+      of President Trump’s statement on what he calls “Truth Social”. This is yesterday,
+      Professor Doctorow. Trump: “I think Ukraine, with the support of the European
+      Union, is in a position to fight and WIN” [in all caps] “all of Ukraine back in
+      its original form. With time, patience and the financial support of Europe and
+      in particular NATO,” [now I’m editorializing: which includes the United States.
+      Now back to reading] “the original Borders from where this war started is very
+      much an option. Why not?” Is this his negotiating, in your view, his negotiating
+      technique? And if so, with whom is he negotiating? Doctorow: 6:33 He is buying
+      time, yet again. Now I’d like to note here that– and it goes back to his remarks
+      in the General Assembly, when he said that he was disappointed that Mr. Putin
+      did not do what the Americans expected, which is to defeat Ukraine in a week.
+      And then he made this taunt that you have quoted, that Russia is possibly a paper
+      tiger. I agree with him. And so far, what is really at issue is Mr. Putin’s way
+      of conducting this war, where Mr. Putin, the lawyer, is at odds with Mr. Putin,
+      the military commander in chief. Napolitano: 7:21 But is not Mr. Putin’s goal
+      in fighting the war to eradicate a Ukrainian military so that at least for another
+      generation the Russians don’t have to put up with this again? He could send off
+      a half dozen Oreshniks tomorrow and destroy the regime. That’s not what he wants
+      to do. Doctorow: I agree with your analysis, but I say it’s a faulty policy, because
+      the world does not stand still. This has been the problem with this war from the
+      beginning, that every time it looked like the Russians were coming to victory,
+      the West came in with a new escalatory move and provided Ukraine with manpower,
+      with, I’ve got to say, advisors, and with hardware, which enabled them to fight
+      on. If the situation is now reaching a culmination point, which means that the
+      defenders of Ukraine are all the more desperate and irresponsible in their behavior,
+      [then] I think it is a big mistake if Vladimir Putin does not take that into account
+      and do what is within his power, which is to utterly destroy the Ukrainian regime
+      in one day with the Oreshniks on Bankovskaya Urytsia, whatever it’s called, the
+      one street in downtown Kiev, where all the government officers are. That would
+      be much more sparing of Russian lives and Ukrainian lives than his war of attrition
+      today. Napolitano: 8:50 I guess he doesn’t want to spare the Ukrainian lives.
+      Chris, let’s play back to back the cuts that reference what Professor Doctorow
+      has been saying. 18 and then 22, Chris. Questioner: Mr. President, do you think
+      that NATO countries should shoot down Russian aircraft if they enter their airspace?
+      Trump: Yes, I do. Questioner: Would you back up NATO allies– you said that you
+      thought that they should shoot down the Russian aircraft– would you back them
+      up, would the United States help them out in some way? Trump: Depends on the circumstances.
+      It’s been a terrible war, should have ended, and Russia should have stopped it.
+      But they’ve been three and a half years and they’ve gotten not so far. So we’ll
+      see what happens. But the other side can fight, too. And they’ve proven that.
+      Maybe it’s a – it could be that Russia is a paper tiger. I don’t know what they
+      are, but three and a half years of fighting and killing everybody, of killing
+      7,000 people a week For nothing. For nothing. So it’s a very sad situation, but
+      most of you have seen the recent statement I put out a little while ago. And I’m
+      glad you got it. But I feel that way. I really do feel that way. Let them get
+      their land back. Macron: Yep. Trump: So we’ll see how it all works out. Napolitano:
+      10:07 Let them get their land back. You know, Professor Doctorow, that that is
+      a metaphysical impossibility. Doctorow: And so does Donald Trump. He is speaking
+      with sarcasm and he is giving again the message that I have read into him going
+      back weeks: that is, Mr. Putin, get it over with. Now he didn’t say how the war
+      should end. He didn’t say what Russia will give, should give up in a settlement.
+      No, he expects Russia to take all the chips, but they should do it now so we,
+      the United States, and you Russians can get on with our real business, which starts
+      with renewal of the New Start arms limitation agreement, which expires in February
+      26, very, very soon. These are issues of much greater importance to Mr. Trump
+      than where the lines between the new Ukrainian rump state and Russia will be.
+      Napolitano: 11:09 Well, they’re certainly of great importance to the Russians.
+      I don’t know if they’re of importance to Trump. He’s the one that tears up these
+      agreements. He thinks they’re a sign of weakness when the United States is very
+      rationally restrained from expanding its nuclear arsenal. I want to play President
+      Trump and President Macron again. Watch the look on President Macron’s face. This
+      goes to your argument, Professor Doctorow. He may be saying this for the benefit
+      of the Europeans. Watch the smirking President of France. ——– Trump: It’s been
+      a terrible war that should have ended, and Russia should have stopped it. But
+      they’ve been three and a half years, and they’ve gotten not so far. So we’ll see
+      what happens. But the other side can fight, too. And they’ve proven that. Maybe
+      it’s a — it could be that Russia is a paper tiger. I don’t know what they are,
+      but three and a half years of fighting and killing everybody, of killing 7,000
+      people a week for nothing. For nothing. So it’s a very sad situation, but most
+      of you have seen the recent statement I put out a little while ago. And I’m glad
+      you got it. But I feel that way. I really do feel that way. Let them get their
+      land back. Macron: Yep: Trump: So we’ll see how it all works out. ——– Napolitano:
+      12:27 Here’s President Zelensky’s reaction, Not to that interview with President
+      Macron, but to the Truth Social posting that I read a few minutes ago, cut number
+      19. ======== “I think Ukraine, with the support of the European Union, is in a
+      position to fight and WIN all of Ukraine back in its original form. With time,
+      patience and the financial support of Europe and in particular NATO, the original
+      Borders from where this war started, is very much an option.” Are you surprised
+      to hear that? Zelensky: A little bit. A bit. I mean, this, I’m sure in my people,
+      in my army, and I’m sure in strengthening, in support of the United States. But
+      President Trump was more positive in it. And he showed that he wants to support
+      Ukraine to the very end. So we understand now that we are ready to finish this
+      war as quick as possible. And he wants, and I want, and our people want. But he
+      understand that Putin doesn’t want. And he understands that he’s not winning,
+      but he says to everybody that he will win. And I see very, it was a little bit
+      surprise for me, you’re right. I was very positive signals from the side that
+      Trump and America will be with us to the end of the war. Yes, we will see. We
+      will see. But God bless. It will be so. ======== Napollitano: 14:05 What do you
+      expect him to say? Surprised and he’s happy, but he may not believe it. He may
+      take the Doctorow view of this. Doctorow: Well, I don’t know how deeply he will
+      analyze it. So long as Trump says what he said, that Europe will save Ukraine,
+      Zelensky knows that it cannot save Ukraine. This is the key point. Mr. Trump has
+      washed his hands of American military and financial contributions to Ukraine.
+      That is decisive. Everything else is irrelevant, actually. Let Mr. Macron smirk,
+      let him feel satisfied that he has turned Mr. Trump, which he hasn’t. The man
+      is not for turning. And I believe that Mr. Putin is missing the cues. The cue
+      is Trump is buying him time to end it. And end it, he can only do with Oreshniks.
+      Otherwise, this will go on for one more year. And Lord knows what’s going to happen
+      in the global alignment of countries on this war and on Russia in one year’s time.
+      This is the time to end it. Napolitano: 15:25 Can you give me your understanding
+      of the drone issue, the claims that Russia sent drones over Poland, the counterclaims
+      that these were Russian drones on the ground in Ukraine, reassembled by the Ukrainians
+      sent over Poland as sort of a false flag. How do you read this drone controversy,
+      which candidly seems a little like old news and then it keeps coming back? Doctorow:
+      15:57 It keeps coming back because it is not a self-standing issue. The drone
+      issue is part of the Russian incursion issue. They are both being masterminded
+      by the same people, probably sitting in MI6 in London. It is because the Brits
+      are way ahead of the States in nasty, nasty tricks, especially today, when Mr.
+      Trump has pulled in the CIA and the other actors who otherwise took part in dirty
+      tricks and false flag operations in Ukraine. The situation is complex, and I’m
+      not surprised that many people have not seen this as one whole campaign by the
+      leadership in Europe, this means Britain and Germany, to nail Russia with accusations
+      that are false or which are, may be true as in the case of incursions, but are
+      true for reasons that are not coming up in the press. I have in mind specifically
+      the point that in effect, the NATO powers in Europe have created or want to create
+      an air blockade on Russia. 17:17 They are saying that Russia is crossing their
+      airspace. Well, it probably is, because if you look at the map, and if you ask
+      Google artificial intelligence this question, can any aircraft pass the length
+      of the Baltic without passing over NATO countries’ territorial waters, the answer
+      comes back: it cannot. So what we saw– Napolitano: That’s Sweden, right? Doctorow:
+      Sweden joined NATO, and that made it almost impossible for Russian aircraft to
+      cross the Baltic and not touch on one or another territorial water of a NATO state.
+      That is not being discussed in the media. It is a nasty secret because what we’re
+      talking about now is essentially an attempt to blockade in the air, which follows
+      the May events. You will recall, in May of this year. The Estonians sent cutters
+      to arrest a gray fleet tanker that was taking oil to or from St. Petersburg as
+      Russia owned. And they were driven away like scattering mice before a cat when
+      the Russians sent up fighter planes over that area. 18:39 That failed. The naval
+      blockade on the ground, on water level, failed. Now they’re trying an air blockade.
+      So the only way– what this will lead to, if it is pursued, and if they follow
+      the advice of Mr. Trump and shoot down a Russian plane, it leads us directly to
+      World War Three. Since Mr. Trump did not answer the question– you heard that he
+      didn’t answer the question, but the United States will provide support– he was
+      asked that elsewhere, in which he said it depends on the circumstances. The point
+      is that it’s very feeble to non-existent support, and no NATO country will dare
+      attack a Russian airplane if it doesn’t have US backing. Napolitano: 19:20 Does
+      Emmanuel Macron believe that Russia is a paper tiger? Doctorow: I don’t think
+      for a minute he believes that. He knows how many nuclear missiles he has. He knows
+      that the Russians have 10 times or more that number. And that he knows that the
+      Russian nuclear triad is totally updated, which the United States is not. Therefore,
+      if anyone is feeding him proper intelligence, and I assume they are, he knows
+      that that is not a paper tiger. Napolitano: 19:48 Back to the drones. Is it your
+      understanding that MI6 engineered this, that the drones were a false flag and
+      the Poles were in on the scheme? Doctorow: My first reading of the situation was
+      much more simple and direct. It seemed to me, and not just to me but to many other
+      people, that the Ukrainians had initiated this, and that the intent was to put
+      the Russians into direct conflict with Poland. If a military action took place,
+      then that would quickly broaden into a direct kinetic war, as opposed to proxy
+      war between NATO and Russia. 20:30 Then when this broadened, then Romania became
+      an issue. And then following that several days later, at the end of last week,
+      we had this Estonian claims. It became clear that this was not a one-off, the
+      drones were not a one-off act by Ukraine to engage Poland in war. It was something
+      much bigger, and it was being directed most likely from the West and most likely
+      from Britain. And the timing, let’s look at this question of incursions. The incursions,
+      even Kallas said, Kallas, the head of, the foreign policy commissioner of, the
+      vice president of the European Commission, said that there were four Russian incursions
+      over Estonia airspace this year. 21:17 Well, why wasn’t the complaint made earlier,
+      and why was it made now? The answer is Zapad-25, the military exercises that Russia
+      was conducting at the same time as the drone incursions and ended just before
+      the story of jet fighters over Estonian airspace. This was a NATO response to
+      Zapad 25 to start the 100,000 Russian soldiers in operations from Murmansk to
+      the southwest of the Russian Federation with a very big soft-power impact on the
+      25 delegations from all over the world, including Iran, who were present as witnesses.
+      Napolitano: 22:06 If MI6 orchestrates this type of dirty tricks– and I don’t mean
+      to demean it by calling it dirty tricks; it could have led to the loss of life;
+      it could have led to a a war– is CIA far behind? Don’t they work hand in glove?
+      Doctorow: 22:23 Well, I think you have other panelists who are much more capable,
+      much more experienced in judging what CIA can do. I, as an outsider looking on,
+      say that’s doubtful. After all, I think that Mr. Trump has some control over policy,
+      even in the CIA, and they would be much more cautious about something as inflammatory,
+      as escalatory as what has gone on in the last week; whereas MI6 knows no restraints.
+      Their boss is all in favor. It’s all sporting for a war. Napolitano: 22:59 Professor
+      Doctorow, a fascinating stuff. Thank you very much. Welcome back home from your
+      happy trip. And thank you very much for joining us. We’ll look forward as always
+      to seeing you next week. Doctorow: My pleasure. Napolitano: Thank you again. Coming
+      up later today at 1:30 this afternoon, Aaron Maté– do you know that General Petraeus
+      embraced somebody he once tried to kill who was the head of the Taliban when Petraeus
+      was leading the charge in Afghanistan? We’ll get into all of that. And Pepe Escobar–
+      what do President Xi and President Putin think of Trump’s latest words, which
+      I think are nonsense and Professor Doctorow says are carefully calculated? That’s
+      Pepe Escobar today at 3.30 this afternoon. 23:49 Judge Napolitano for “Judging
+      Freedom”.'
+    one_sentence_summary: In a discussion on "Judging Freedom," Judge Andrew Napolitano
+      and Professor Gilbert Doctorow analyze President Trump's assertion that Ukraine
+      can win the war against Russia and reclaim Crimea, with Doctorow labeling Trump's
+      statement as "double talk."
+    paragraph_summary: In a recent episode of "Judging Freedom," Judge Andrew Napolitano
+      discusses President Trump's assertion that Ukraine can win the war against Russia
+      and reclaim territories like Crimea. Professor Gilbert Doctorow critiques Trump's
+      statements as "double talk," suggesting that they serve to mislead both domestic
+      and international opponents. Doctorow argues that Trump's rhetoric is designed
+      to manipulate perceptions and maintain his independence, while also questioning
+      the media's portrayal of Trump as having shifted to support Ukraine. He believes
+      that the media is heavily invested in the narrative of Ukraine's potential victory,
+      eagerly seizing on Trump's comments as validation of that storyline.
+    published: '2025-09-24T17:56:53+00:00'
+  - title: Transcript of ‘Judging Freedom’ edition of 24 September
+    url: https://gilbertdoctorow.com/2025/09/24/transcript-of-judging-freedom-edition-of-24-september/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=HY4T88gIpdw
+      Napolitano: 0:33 Hi everyone, Judge Andrew Napolitano here for “Judging Freedom”.
+      Today is Wednesday, September 24th, 2024. Professor Gilbert Doctorow will be with
+      us in just a moment on President Trump embraces Ukraine. But first this. [ad]
+      2:02 Professor Doctorow, good morning and welcome here. Thank you for coming on
+      the show. Thank you for accommodating my schedule. Let’s get right to the hot
+      international news, at least in the West here. As the sun comes up on the East
+      coast of the United States, President Donald Trump yesterday saying that Ukraine
+      can win in all caps, W-I-N, the war against Russia, and retake Crimea and the
+      other areas now under Russian security control. What do you make of that? Doctorow:
+      Double talk. Look, my opinion has not changed. I do not say that I am certain.
+      I do not claim that others are wrong, but I think I am onto something quite important
+      when I say that Mr. Trump deceives constantly, misinforms constantly. These are
+      the tools he uses to maintain his independence and to put at arm’s length his
+      many opponents domestically and abroad. Napolitano: 3:12 Well, what do the Russians
+      think when Trump makes a statement like this? And there’s a lot more to it. “Russia
+      is a paper tiger, NATO”, which of course includes the United States, which is
+      predominantly the United States, “can help Ukraine win the war”. Do you think
+      these are just negotiating techniques? Doctorow: I think they have the intent
+      of making fools of his opponents and they very gladly fill that role. The BBC
+      today put without any question whatsoever the statement that Trump has changed
+      sides, that he now backs Ukraine, that Ukraine will retake its territory, they’ve
+      gone in for that. Why not? They are so heavily invested in this story that the
+      Ukraine will win, that Russia will be humiliated, that they will seize at any
+      opportunity, at any straw that Mr. Trump gives them to think that he has joined
+      their side. 4:16 That does not mean he joined their side. I look at the small
+      print. When he said that the Europeans can go ahead and shoot down Russian military
+      aircraft if they are violating the airspace of NATO countries over the Baltic
+      — he was then asked afterwards by a journalist whether the United States would
+      support Europe in this venture, and he said it all depends, depends on the circumstances.
+      Well, if you’re sitting in London, Paris, Berlin, and you hear him say that, you
+      understand perfectly that you will be on your own. And none of these countries
+      is likely to take his invitation to fire [on] a Russian aircraft and face the
+      wrath of Russia by themselves, which is what you– Napolitano: 5:08 You missed
+      one country in there which probably is prepared to fire at Russian aircraft and
+      bear the brunt of Putin’s wrath on its own: Poland. Doctorow: No, I don’t believe
+      so. I don’t think that Mr. Tusk is that bold or that much a risk-taker to put
+      his country on the line without a firm backing from Washington, which he does
+      not have and will not get. Napolitano: 5:40 All right, Chris, put up the full
+      screen. You had it there a moment ago. I just want to read the operative language
+      of President Trump’s statement on what he calls “Truth Social”. This is yesterday,
+      Professor Doctorow. Trump: “I think Ukraine, with the support of the European
+      Union, is in a position to fight and WIN” [in all caps] “all of Ukraine back in
+      its original form. With time, patience and the financial support of Europe and
+      in particular NATO,” [now I’m editorializing: which includes the United States.
+      Now back to reading] “the original Borders from where this war started is very
+      much an option. Why not?” Is this his negotiating, in your view, his negotiating
+      technique? And if so, with whom is he negotiating? Doctorow: 6:33 He is buying
+      time, yet again. Now I’d like to note here that– and it goes back to his remarks
+      in the General Assembly, when he said that he was disappointed that Mr. Putin
+      did not do what the Americans expected, which is to defeat Ukraine in a week.
+      And then he made this taunt that you have quoted, that Russia is possibly a paper
+      tiger. I agree with him. And so far, what is really at issue is Mr. Putin’s way
+      of conducting this war, where Mr. Putin, the lawyer, is at odds with Mr. Putin,
+      the military commander in chief. Napolitano: 7:21 But is not Mr. Putin’s goal
+      in fighting the war to eradicate a Ukrainian military so that at least for another
+      generation the Russians don’t have to put up with this again? He could send off
+      a half dozen Oreshniks tomorrow and destroy the regime. That’s not what he wants
+      to do. Doctorow: I agree with your analysis, but I say it’s a faulty policy, because
+      the world does not stand still. This has been the problem with this war from the
+      beginning, that every time it looked like the Russians were coming to victory,
+      the West came in with a new escalatory move and provided Ukraine with manpower,
+      with, I’ve got to say, advisors, and with hardware, which enabled them to fight
+      on. If the situation is now reaching a culmination point, which means that the
+      defenders of Ukraine are all the more desperate and irresponsible in their behavior,
+      [then] I think it is a big mistake if Vladimir Putin does not take that into account
+      and do what is within his power, which is to utterly destroy the Ukrainian regime
+      in one day with the Oreshniks on Bankovskaya Urytsia, whatever it’s called, the
+      one street in downtown Kiev, where all the government officers are. That would
+      be much more sparing of Russian lives and Ukrainian lives than his war of attrition
+      today. Napolitano: 8:50 I guess he doesn’t want to spare the Ukrainian lives.
+      Chris, let’s play back to back the cuts that reference what Professor Doctorow
+      has been saying. 18 and then 22, Chris. Questioner: Mr. President, do you think
+      that NATO countries should shoot down Russian aircraft if they enter their airspace?
+      Trump: Yes, I do. Questioner: Would you back up NATO allies– you said that you
+      thought that they should shoot down the Russian aircraft– would you back them
+      up, would the United States help them out in some way? Trump: Depends on the circumstances.
+      It’s been a terrible war, should have ended, and Russia should have stopped it.
+      But they’ve been three and a half years and they’ve gotten not so far. So we’ll
+      see what happens. But the other side can fight, too. And they’ve proven that.
+      Maybe it’s a – it could be that Russia is a paper tiger. I don’t know what they
+      are, but three and a half years of fighting and killing everybody, of killing
+      7,000 people a week For nothing. For nothing. So it’s a very sad situation, but
+      most of you have seen the recent statement I put out a little while ago. And I’m
+      glad you got it. But I feel that way. I really do feel that way. Let them get
+      their land back. Macron: Yep. Trump: So we’ll see how it all works out. Napolitano:
+      10:07 Let them get their land back. You know, Professor Doctorow, that that is
+      a metaphysical impossibility. Doctorow: And so does Donald Trump. He is speaking
+      with sarcasm and he is giving again the message that I have read into him going
+      back weeks: that is, Mr. Putin, get it over with. Now he didn’t say how the war
+      should end. He didn’t say what Russia will give, should give up in a settlement.
+      No, he expects Russia to take all the chips, but they should do it now so we,
+      the United States, and you Russians can get on with our real business, which starts
+      with renewal of the New Start arms limitation agreement, which expires in February
+      26, very, very soon. These are issues of much greater importance to Mr. Trump
+      than where the lines between the new Ukrainian rump state and Russia will be.
+      Napolitano: 11:09 Well, they’re certainly of great importance to the Russians.
+      I don’t know if they’re of importance to Trump. He’s the one that tears up these
+      agreements. He thinks they’re a sign of weakness when the United States is very
+      rationally restrained from expanding its nuclear arsenal. I want to play President
+      Trump and President Macron again. Watch the look on President Macron’s face. This
+      goes to your argument, Professor Doctorow. He may be saying this for the benefit
+      of the Europeans. Watch the smirking President of France. ——– Trump: It’s been
+      a terrible war that should have ended, and Russia should have stopped it. But
+      they’ve been three and a half years, and they’ve gotten not so far. So we’ll see
+      what happens. But the other side can fight, too. And they’ve proven that. Maybe
+      it’s a — it could be that Russia is a paper tiger. I don’t know what they are,
+      but three and a half years of fighting and killing everybody, of killing 7,000
+      people a week for nothing. For nothing. So it’s a very sad situation, but most
+      of you have seen the recent statement I put out a little while ago. And I’m glad
+      you got it. But I feel that way. I really do feel that way. Let them get their
+      land back. Macron: Yep: Trump: So we’ll see how it all works out. ——– Napolitano:
+      12:27 Here’s President Zelensky’s reaction, Not to that interview with President
+      Macron, but to the Truth Social posting that I read a few minutes ago, cut number
+      19. ======== “I think Ukraine, with the support of the European Union, is in a
+      position to fight and WIN all of Ukraine back in its original form. With time,
+      patience and the financial support of Europe and in particular NATO, the original
+      Borders from where this war started, is very much an option.” Are you surprised
+      to hear that? Zelensky: A little bit. A bit. I mean, this, I’m sure in my people,
+      in my army, and I’m sure in strengthening, in support of the United States. But
+      President Trump was more positive in it. And he showed that he wants to support
+      Ukraine to the very end. So we understand now that we are ready to finish this
+      war as quick as possible. And he wants, and I want, and our people want. But he
+      understand that Putin doesn’t want. And he understands that he’s not winning,
+      but he says to everybody that he will win. And I see very, it was a little bit
+      surprise for me, you’re right. I was very positive signals from the side that
+      Trump and America will be with us to the end of the war. Yes, we will see. We
+      will see. But God bless. It will be so. ======== Napollitano: 14:05 What do you
+      expect him to say? Surprised and he’s happy, but he may not believe it. He may
+      take the Doctorow view of this. Doctorow: Well, I don’t know how deeply he will
+      analyze it. So long as Trump says what he said, that Europe will save Ukraine,
+      Zelensky knows that it cannot save Ukraine. This is the key point. Mr. Trump has
+      washed his hands of American military and financial contributions to Ukraine.
+      That is decisive. Everything else is irrelevant, actually. Let Mr. Macron smirk,
+      let him feel satisfied that he has turned Mr. Trump, which he hasn’t. The man
+      is not for turning. And I believe that Mr. Putin is missing the cues. The cue
+      is Trump is buying him time to end it. And end it, he can only do with Oreshniks.
+      Otherwise, this will go on for one more year. And Lord knows what’s going to happen
+      in the global alignment of countries on this war and on Russia in one year’s time.
+      This is the time to end it. Napolitano: 15:25 Can you give me your understanding
+      of the drone issue, the claims that Russia sent drones over Poland, the counterclaims
+      that these were Russian drones on the ground in Ukraine, reassembled by the Ukrainians
+      sent over Poland as sort of a false flag. How do you read this drone controversy,
+      which candidly seems a little like old news and then it keeps coming back? Doctorow:
+      15:57 It keeps coming back because it is not a self-standing issue. The drone
+      issue is part of the Russian incursion issue. They are both being masterminded
+      by the same people, probably sitting in MI6 in London. It is because the Brits
+      are way ahead of the States in nasty, nasty tricks, especially today, when Mr.
+      Trump has pulled in the CIA and the other actors who otherwise took part in dirty
+      tricks and false flag operations in Ukraine. The situation is complex, and I’m
+      not surprised that many people have not seen this as one whole campaign by the
+      leadership in Europe, this means Britain and Germany, to nail Russia with accusations
+      that are false or which are, may be true as in the case of incursions, but are
+      true for reasons that are not coming up in the press. I have in mind specifically
+      the point that in effect, the NATO powers in Europe have created or want to create
+      an air blockade on Russia. 17:17 They are saying that Russia is crossing their
+      airspace. Well, it probably is, because if you look at the map, and if you ask
+      Google artificial intelligence this question, can any aircraft pass the length
+      of the Baltic without passing over NATO countries’ territorial waters, the answer
+      comes back: it cannot. So what we saw– Napolitano: That’s Sweden, right? Doctorow:
+      Sweden joined NATO, and that made it almost impossible for Russian aircraft to
+      cross the Baltic and not touch on one or another territorial water of a NATO state.
+      That is not being discussed in the media. It is a nasty secret because what we’re
+      talking about now is essentially an attempt to blockade in the air, which follows
+      the May events. You will recall, in May of this year. The Estonians sent cutters
+      to arrest a gray fleet tanker that was taking oil to or from St. Petersburg as
+      Russia owned. And they were driven away like scattering mice before a cat when
+      the Russians sent up fighter planes over that area. 18:39 That failed. The naval
+      blockade on the ground, on water level, failed. Now they’re trying an air blockade.
+      So the only way– what this will lead to, if it is pursued, and if they follow
+      the advice of Mr. Trump and shoot down a Russian plane, it leads us directly to
+      World War Three. Since Mr. Trump did not answer the question– you heard that he
+      didn’t answer the question, but the United States will provide support– he was
+      asked that elsewhere, in which he said it depends on the circumstances. The point
+      is that it’s very feeble to non-existent support, and no NATO country will dare
+      attack a Russian airplane if it doesn’t have US backing. Napolitano: 19:20 Does
+      Emmanuel Macron believe that Russia is a paper tiger? Doctorow: I don’t think
+      for a minute he believes that. He knows how many nuclear missiles he has. He knows
+      that the Russians have 10 times or more that number. And that he knows that the
+      Russian nuclear triad is totally updated, which the United States is not. Therefore,
+      if anyone is feeding him proper intelligence, and I assume they are, he knows
+      that that is not a paper tiger. Napolitano: 19:48 Back to the drones. Is it your
+      understanding that MI6 engineered this, that the drones were a false flag and
+      the Poles were in on the scheme? Doctorow: My first reading of the situation was
+      much more simple and direct. It seemed to me, and not just to me but to many other
+      people, that the Ukrainians had initiated this, and that the intent was to put
+      the Russians into direct conflict with Poland. If a military action took place,
+      then that would quickly broaden into a direct kinetic war, as opposed to proxy
+      war between NATO and Russia. 20:30 Then when this broadened, then Romania became
+      an issue. And then following that several days later, at the end of last week,
+      we had this Estonian claims. It became clear that this was not a one-off, the
+      drones were not a one-off act by Ukraine to engage Poland in war. It was something
+      much bigger, and it was being directed most likely from the West and most likely
+      from Britain. And the timing, let’s look at this question of incursions. The incursions,
+      even Kallas said, Kallas, the head of, the foreign policy commissioner of, the
+      vice president of the European Commission, said that there were four Russian incursions
+      over Estonia airspace this year. 21:17 Well, why wasn’t the complaint made earlier,
+      and why was it made now? The answer is Zapad-25, the military exercises that Russia
+      was conducting at the same time as the drone incursions and ended just before
+      the story of jet fighters over Estonian airspace. This was a NATO response to
+      Zapad 25 to start the 100,000 Russian soldiers in operations from Murmansk to
+      the southwest of the Russian Federation with a very big soft-power impact on the
+      25 delegations from all over the world, including Iran, who were present as witnesses.
+      Napolitano: 22:06 If MI6 orchestrates this type of dirty tricks– and I don’t mean
+      to demean it by calling it dirty tricks; it could have led to the loss of life;
+      it could have led to a a war– is CIA far behind? Don’t they work hand in glove?
+      Doctorow: 22:23 Well, I think you have other panelists who are much more capable,
+      much more experienced in judging what CIA can do. I, as an outsider looking on,
+      say that’s doubtful. After all, I think that Mr. Trump has some control over policy,
+      even in the CIA, and they would be much more cautious about something as inflammatory,
+      as escalatory as what has gone on in the last week; whereas MI6 knows no restraints.
+      Their boss is all in favor. It’s all sporting for a war. Napolitano: 22:59 Professor
+      Doctorow, a fascinating stuff. Thank you very much. Welcome back home from your
+      happy trip. And thank you very much for joining us. We’ll look forward as always
+      to seeing you next week. Doctorow: My pleasure. Napolitano: Thank you again. Coming
+      up later today at 1:30 this afternoon, Aaron Maté– do you know that General Petraeus
+      embraced somebody he once tried to kill who was the head of the Taliban when Petraeus
+      was leading the charge in Afghanistan? We’ll get into all of that. And Pepe Escobar–
+      what do President Xi and President Putin think of Trump’s latest words, which
+      I think are nonsense and Professor Doctorow says are carefully calculated? That’s
+      Pepe Escobar today at 3.30 this afternoon. 23:49 Judge Napolitano for “Judging
+      Freedom”.'
+    one_sentence_summary: In a discussion on "Judging Freedom," Judge Andrew Napolitano
+      and Professor Gilbert Doctorow analyze President Trump's assertion that Ukraine
+      can win the war against Russia and reclaim Crimea, with Doctorow labeling Trump's
+      statement as "double talk."
+    paragraph_summary: In a recent episode of "Judging Freedom," Judge Andrew Napolitano
+      discusses President Trump's assertion that Ukraine can win the war against Russia
+      and reclaim territories like Crimea. Professor Gilbert Doctorow critiques Trump's
+      statements as "double talk," suggesting that they serve to mislead both domestic
+      and international opponents. Doctorow argues that Trump's rhetoric is designed
+      to manipulate perceptions and maintain his independence, while also questioning
+      the media's portrayal of Trump as having shifted to support Ukraine. He believes
+      that the media is heavily invested in the narrative of Ukraine's potential victory,
+      eagerly seizing on Trump's comments as validation of that storyline.
+    published: '2025-09-24T17:56:53+00:00'
+  - title: '‘Judging Freedom’ edition of 24 September 2025: Trump embraces Ukraine!'
+    url: https://gilbertdoctorow.com/2025/09/24/judging-freedom-edition-of-24-september-2025-trump-embraces-ukraine/
+    text: In today’s discussion with Judge Andrew Napolitano, I was able to set out
+      more completely arguments that I have made over the past several days regarding
+      the linkage between the alleged Russian drone attacks on Poland and the alleged
+      incursion into Estonian air space of Russian military jets, all of which I say
+      add up to a campaign directed from NATO, most likely from Britain’s MI6 to be
+      specific, for the purpose of pressuring Donald Trump to join them in supporting
+      Ukraine and making war on Russia. We also discuss Trump’s statements in and around
+      the General Assembly meeting in New York yesterday which point to his “embracing”
+      Ukraine.  This, I firmly believe, is just more dissimulation, more disinformation
+      coming from Trump to make fools of his domestic and foreign opponents.
+    one_sentence_summary: In a discussion with Judge Andrew Napolitano, the speaker
+      argues that recent Russian drone attacks on Poland and incursions into Estonian
+      airspace are part of a NATO campaign, likely orchestrated by Britain's MI6, to
+      pressure Donald Trump into supporting Ukraine against Russia, while also critiquing
+      Trump's statements at the General Assembly as disinformation aimed at misleading
+      his opponents.
+    paragraph_summary: In a discussion with Judge Andrew Napolitano, the speaker elaborated
+      on their arguments linking alleged Russian drone attacks on Poland and incursions
+      into Estonian airspace by Russian jets, suggesting these incidents are part of
+      a NATO campaign, likely orchestrated by Britain's MI6, aimed at pressuring Donald
+      Trump to support Ukraine and confront Russia. The conversation also touched on
+      Trump's recent remarks during the General Assembly meeting in New York, which
+      the speaker interprets as a strategic maneuver to mislead both domestic and international
+      critics, portraying his stance on Ukraine as more supportive than it may actually
+      be.
+    published: '2025-09-24T12:34:17+00:00'
+  - title: '‘Judging Freedom’ edition of 24 September 2025: Trump embraces Ukraine!'
+    url: https://gilbertdoctorow.com/2025/09/24/judging-freedom-edition-of-24-september-2025-trump-embraces-ukraine/
+    text: In today’s discussion with Judge Andrew Napolitano, I was able to set out
+      more completely arguments that I have made over the past several days regarding
+      the linkage between the alleged Russian drone attacks on Poland and the alleged
+      incursion into Estonian air space of Russian military jets, all of which I say
+      add up to a campaign directed from NATO, most likely from Britain’s MI6 to be
+      specific, for the purpose of pressuring Donald Trump to join them in supporting
+      Ukraine and making war on Russia. We also discuss Trump’s statements in and around
+      the General Assembly meeting in New York yesterday which point to his “embracing”
+      Ukraine.  This, I firmly believe, is just more dissimulation, more disinformation
+      coming from Trump to make fools of his domestic and foreign opponents.
+    one_sentence_summary: In a discussion with Judge Andrew Napolitano, the speaker
+      argues that recent Russian drone attacks on Poland and incursions into Estonian
+      airspace are part of a NATO campaign, likely orchestrated by Britain's MI6, to
+      pressure Donald Trump into supporting Ukraine against Russia, while also critiquing
+      Trump's statements at the General Assembly as disinformation aimed at misleading
+      his opponents.
+    paragraph_summary: In a discussion with Judge Andrew Napolitano, the speaker elaborated
+      on their arguments linking alleged Russian drone attacks on Poland and incursions
+      into Estonian airspace by Russian jets, suggesting these incidents are part of
+      a NATO campaign, likely orchestrated by Britain's MI6, aimed at pressuring Donald
+      Trump to support Ukraine and confront Russia. The conversation also touched on
+      Trump's recent remarks during the General Assembly meeting in New York, which
+      the speaker interprets as a strategic maneuver to mislead both domestic and international
+      critics, portraying his stance on Ukraine as more supportive than it may actually
+      be.
+    published: '2025-09-24T12:34:17+00:00'
+  - title: 'More News X World (India): 3 minutes on Trump and Russia in today’s ‘World
+      Report’'
+    url: https://gilbertdoctorow.com/2025/09/24/more-news-x-world-india-3-minutes-on-trump-and-russia-in-todays-world-report/
+    text: The link to the full content of yesterday’s interviews on this Indian broadcaster
+      may not be available for reposting, but their production team hastened to send
+      me the link below to their news wrap-up this morning in which I was given 3 minutes
+      (15 – 18) to comment on Trump’s seeming return to support for Zelensky. Viewers
+      may find it informative to see what this Indian English-language broadcaster and
+      their expert panelists have to say about the other world developments as well.
+    one_sentence_summary: The article discusses an Indian broadcaster's news wrap-up
+      featuring a three-minute segment where the author comments on Trump's renewed
+      support for Zelensky, while also highlighting the broader insights from the broadcaster's
+      expert panel on global developments.
+    paragraph_summary: The article discusses an Indian broadcaster's recent interviews,
+      highlighting a segment where the author was given three minutes to comment on
+      Donald Trump's renewed support for Ukrainian President Zelensky. Although the
+      full content of the interviews isn't available for reposting, the broadcaster's
+      production team provided a link to a news wrap-up that includes the author's comments,
+      along with insights from expert panelists on various global developments.
+    published: '2025-09-24T11:00:29+00:00'
+  - title: 'More News X World (India): 3 minutes on Trump and Russia in today’s ‘World
+      Report’'
+    url: https://gilbertdoctorow.com/2025/09/24/more-news-x-world-india-3-minutes-on-trump-and-russia-in-todays-world-report/
+    text: The link to the full content of yesterday’s interviews on this Indian broadcaster
+      may not be available for reposting, but their production team hastened to send
+      me the link below to their news wrap-up this morning in which I was given 3 minutes
+      (15 – 18) to comment on Trump’s seeming return to support for Zelensky. Viewers
+      may find it informative to see what this Indian English-language broadcaster and
+      their expert panelists have to say about the other world developments as well.
+    one_sentence_summary: The article discusses an Indian broadcaster's news wrap-up
+      featuring a three-minute segment where the author comments on Trump's renewed
+      support for Zelensky, while also highlighting the broader insights from the broadcaster's
+      expert panel on global developments.
+    paragraph_summary: The article discusses an Indian broadcaster's recent interviews,
+      highlighting a segment where the author was given three minutes to comment on
+      Donald Trump's renewed support for Ukrainian President Zelensky. Although the
+      full content of the interviews isn't available for reposting, the broadcaster's
+      production team provided a link to a news wrap-up that includes the author's comments,
+      along with insights from expert panelists on various global developments.
+    published: '2025-09-24T11:00:29+00:00'
+  - title: 'News X World interview 23 September: the Indian understanding of British
+      sense of fair play is a knee to the groin'
+    url: https://gilbertdoctorow.com/2025/09/24/news-x-world-interview-23-september-the-indian-understanding-of-british-sense-of-fair-play-is-a-knee-to-the-groin/
+    text: 'News X World interview 23 September:  the Indian understanding of British
+      sense of fair play is a knee to the groin Yesterday I had two brief interviews
+      with News X World relating to the latest NATO Council accusations against Russia
+      for ‘irresponsible’ incursions into Estonian and other NATO air space over the
+      Baltic Sea. One of these interviews has been partially put on line by the broadcaster
+      You will note that the video stops just as I was about to say the following: My
+      characterization of these NATO allegations, which were picked up and disseminated
+      by the BBC and other Western major media, is that they corresponded to Western,
+      in this case specifically British, behavior in the sporting world during competitions
+      with Indian teams: the Brits use a knee to the groin. I was merely repeating what
+      I had heard some years ago from an Indian news analyst on air. The NATO story
+      line against Russia is precisely a knee to the groin. I say this because it is
+      virtually impossible for aircraft to navigate the Baltic Sea without passing over
+      the ‘territorial waters’ of one or another NATO nation given the narrowness of
+      the sea in various places and the fact that since the accession of Sweden to NATO,
+      the sea is lined by NATO member states.  What we are talking about in effect is
+      an attempt by the European NATO member states to impose an air blockade on Russia. 
+      If pursued, this can only lead to WWIII. However, I greatly doubt that it will
+      be pursued.  Even when Donald Trump said yesterday to a journalist that the Europeans
+      should shoot down any offending Russian planes, he went on to say that whether
+      the U.S. would back them up ‘depends on the circumstances.’  That faint support
+      ensures that no European country will dare to attack Russian military planes over
+      the Baltic. In one of the two News X World interview segments, I expressed my
+      surprise that NATO speaks of the Russian incursions as a violation of international
+      law!  How remarkable, given that the Collective West had abandoned the notion
+      of international law coming from the United Nations and replaced it with the ‘rules-based
+      order’ set down and changed daily by Messrs Jake Sullivan and Tony Blinken in
+      Washington. If NATO countries indeed once again are paying attention to international
+      law, then they should rise up and put an end to Israel’s genocide in Gaza. *****
+      I am told by a News X World producer that the full interview will be posted and
+      sent to me. If and when that happens, I will repost here.'
+    one_sentence_summary: In a recent interview, the speaker compared NATO's accusations
+      against Russia regarding airspace violations to unfair tactics used by British
+      teams in sports against Indian competitors, suggesting that such allegations are
+      akin to a "knee to the groin."
+    paragraph_summary: In a recent interview with News X World, the speaker discussed
+      NATO's accusations against Russia for alleged incursions into NATO airspace over
+      the Baltic Sea, likening these allegations to unfair tactics used by the British
+      in sports against Indian teams, specifically describing it as a "knee to the groin."
+      He argued that navigating the Baltic Sea inevitably involves crossing the territorial
+      waters of NATO nations, suggesting that the accusations are part of a broader
+      strategy to impose an air blockade on Russia, which could escalate tensions to
+      the brink of World War III. However, he expressed skepticism that such actions
+      would be pursued, noting that even Donald Trump indicated that European nations
+      would hesitate to engage Russian aircraft without clear U.S. backing. The speaker
+      also criticized NATO's claims of Russian violations of international law, highlighting
+      the hypocrisy of the Collective West in this context.
+    published: '2025-09-24T07:47:53+00:00'
+  - title: 'News X World interview 23 September: the Indian understanding of British
+      sense of fair play is a knee to the groin'
+    url: https://gilbertdoctorow.com/2025/09/24/news-x-world-interview-23-september-the-indian-understanding-of-british-sense-of-fair-play-is-a-knee-to-the-groin/
+    text: 'News X World interview 23 September:  the Indian understanding of British
+      sense of fair play is a knee to the groin Yesterday I had two brief interviews
+      with News X World relating to the latest NATO Council accusations against Russia
+      for ‘irresponsible’ incursions into Estonian and other NATO air space over the
+      Baltic Sea. One of these interviews has been partially put on line by the broadcaster
+      You will note that the video stops just as I was about to say the following: My
+      characterization of these NATO allegations, which were picked up and disseminated
+      by the BBC and other Western major media, is that they corresponded to Western,
+      in this case specifically British, behavior in the sporting world during competitions
+      with Indian teams: the Brits use a knee to the groin. I was merely repeating what
+      I had heard some years ago from an Indian news analyst on air. The NATO story
+      line against Russia is precisely a knee to the groin. I say this because it is
+      virtually impossible for aircraft to navigate the Baltic Sea without passing over
+      the ‘territorial waters’ of one or another NATO nation given the narrowness of
+      the sea in various places and the fact that since the accession of Sweden to NATO,
+      the sea is lined by NATO member states.  What we are talking about in effect is
+      an attempt by the European NATO member states to impose an air blockade on Russia. 
+      If pursued, this can only lead to WWIII. However, I greatly doubt that it will
+      be pursued.  Even when Donald Trump said yesterday to a journalist that the Europeans
+      should shoot down any offending Russian planes, he went on to say that whether
+      the U.S. would back them up ‘depends on the circumstances.’  That faint support
+      ensures that no European country will dare to attack Russian military planes over
+      the Baltic. In one of the two News X World interview segments, I expressed my
+      surprise that NATO speaks of the Russian incursions as a violation of international
+      law!  How remarkable, given that the Collective West had abandoned the notion
+      of international law coming from the United Nations and replaced it with the ‘rules-based
+      order’ set down and changed daily by Messrs Jake Sullivan and Tony Blinken in
+      Washington. If NATO countries indeed once again are paying attention to international
+      law, then they should rise up and put an end to Israel’s genocide in Gaza. *****
+      I am told by a News X World producer that the full interview will be posted and
+      sent to me. If and when that happens, I will repost here.'
+    one_sentence_summary: In a recent interview, the speaker compared NATO's accusations
+      against Russia regarding airspace violations to unfair tactics used by British
+      teams in sports against Indian competitors, suggesting that such allegations are
+      akin to a "knee to the groin."
+    paragraph_summary: In a recent interview with News X World, the speaker discussed
+      NATO's accusations against Russia for alleged incursions into NATO airspace over
+      the Baltic Sea, likening these allegations to unfair tactics used by the British
+      in sports against Indian teams, specifically describing it as a "knee to the groin."
+      He argued that navigating the Baltic Sea inevitably involves crossing the territorial
+      waters of NATO nations, suggesting that the accusations are part of a broader
+      strategy to impose an air blockade on Russia, which could escalate tensions to
+      the brink of World War III. However, he expressed skepticism that such actions
+      would be pursued, noting that even Donald Trump indicated that European nations
+      would hesitate to engage Russian aircraft without clear U.S. backing. The speaker
+      also criticized NATO's claims of Russian violations of international law, highlighting
+      the hypocrisy of the Collective West in this context.
+    published: '2025-09-24T07:47:53+00:00'
   - title: Transcript of ‘Sanchez Effect’ show
     url: https://gilbertdoctorow.com/2025/09/23/transcript-of-sanchez-effect-show/
     text: 'Transcript submitted by a reader https://www.mgtow.tv/watch/sanchez-effect-dr-gilbert-doctorow-trump-s-playbook-a-masterclass-in-confusion_DXPcqxRBgbjUY3z.html
