@@ -7,14 +7,564 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  Tensions remain high in the Middle East as diplomatic efforts to end the Gaza conflict continue to stall. The latest development, as reported by **Ray McGovern**, is that the White House’s revised Gaza ceasefire proposal was significantly altered at the request of Israeli Prime Minister Benjamin Netanyahu. These changes have provoked anger among Arab officials involved in the negotiations, who see the edits as undermining the prospects for a balanced agreement. The U.S. administration’s willingness to accommodate Israeli demands is seen as further evidence of Washington’s alignment with Israeli policy, despite mounting international criticism.
+  The ongoing crisis in Gaza and shifting dynamics in U.S.-Israeli relations remain at the forefront of geopolitical analysis. In recent days, attention has centered on Israel’s response to mounting international pressure, the evolving narrative around the October 7 events, and the broader implications for regional power structures.
   
-  Meanwhile, domestic sentiment in the United States is shifting. A new poll of 1,313 registered voters, highlighted by **Ray McGovern**, reveals a historic reversal: for the first time, more Americans now support Palestinians than Israelis in the context of the ongoing violence in Gaza. This marks a significant change in public opinion and could have implications for U.S. foreign policy, particularly as the 2026 election cycle approaches.
+  The latest development, as highlighted by **Ray McGovern**, is Israel’s apparent willingness to entertain a deal on Gaza. This move is widely interpreted as a calculated effort to improve Israel’s public image and reduce global condemnation, particularly from the United States. McGovern suggests that these gestures may be more about optics than substantive policy change, noting, “Israel may be engaging in a strategic maneuver to improve its public relations and mitigate global condemnation, particularly from the United States.” This follows President Trump’s recent directive for Israel to halt its bombing campaign after Hamas accepted a U.S.-brokered peace plan—raising questions about Israel’s actual compliance and intentions.
   
-  On the global stage, protests against the Gaza war have erupted in many countries, but India stands out for its lack of visible demonstrations. According to **Betwa Sharma**, this absence is attributed to increased repression of protests under the BJP government, especially those involving Muslim communities or international issues like Gaza. This trend reflects broader concerns about shrinking civic space and the suppression of dissent in the world’s largest democracy.
+  Meanwhile, the portrayal of the October 7 events continues to be contested. **Caitlin Johnstone**, as cited by McGovern, critiques the dominant narrative that casts Israel solely as a victim, arguing that this perspective omits crucial context and serves to justify ongoing military actions. This selective framing, according to Johnstone, is shaping public opinion and policy in ways that obscure the broader realities on the ground.
   
-  Looking ahead, the majority of analysts agree that the U.S.-Israel alliance remains robust, with Washington likely to continue supporting Israeli positions in negotiations. However, the growing divergence between public opinion and official policy in the U.S. could lead to increased domestic pressure for a more balanced approach. I assess with high confidence that the ceasefire process will remain deadlocked in the near term, and that international criticism of both Israeli actions and U.S. policy will intensify. The repression of protest in India is quite likely to persist, further isolating the country from global civil society movements on this issue.
+  On the international stage, **Patrick Lawrence** observes that both Trump and Netanyahu are doubling down on displays of power rather than seeking diplomatic solutions. Their recent actions at the U.N. underscore a preference for dominance over dialogue, which could further entrench divisions and complicate efforts toward lasting peace.
+  
+  In summary, the prevailing trend is one of heightened skepticism regarding Israel’s latest overtures, with most analysts viewing them as tactical rather than transformative. The majority opinion across sources is that meaningful progress toward peace remains elusive, as both Israeli and U.S. leaders prioritize strategic advantage and public relations over genuine negotiation. Looking ahead, I assess with high confidence that unless there is a significant shift in either U.S. or Israeli policy, the current cycle of maneuvering and narrative management will persist, with little immediate prospect for a durable resolution in Gaza.
 articles:
+  - title: A Treacherous Israel Toys With a Deal on Gaza
+    url: https://consortiumnews.com/2025/10/07/a-treacherous-israel-toys-with-a-deal-on-gaza/
+    text: What does Israel have to gain with what appears to be another charade? For
+      one, the potential PR win to blunt the extraordinary, worldwide condemnation Israel
+      is facing, most importantly in the United States, writes Joe Lauria. By Joe Lauria…
+      Read more →
+    one_sentence_summary: The article suggests that Israel may be engaging in a strategic
+      maneuver to improve its public relations and mitigate global condemnation, particularly
+      from the United States.
+    paragraph_summary: In his article, Joe Lauria explores Israel's motivations behind
+      what he perceives as a superficial maneuver to address the significant global
+      backlash it is experiencing, particularly from the United States. He suggests
+      that Israel may be seeking to improve its public relations image and mitigate
+      the widespread condemnation it faces, indicating that this strategy could be seen
+      as a way to deflect criticism rather than genuinely addressing the underlying
+      issues at hand.
+    published: '2025-10-08T00:48:38+00:00'
+  - title: A Treacherous Israel Toys With a Deal on Gaza
+    url: https://consortiumnews.com/2025/10/07/a-treacherous-israel-toys-with-a-deal-on-gaza/
+    text: What does Israel have to gain with what appears to be another charade? For
+      one, the potential PR win to blunt the extraordinary, worldwide condemnation Israel
+      is facing, most importantly in the United States, writes Joe Lauria. By Joe Lauria…
+      Read more →
+    one_sentence_summary: The article suggests that Israel may be engaging in a strategic
+      maneuver to improve its public relations and mitigate global condemnation, particularly
+      from the United States.
+    paragraph_summary: In his article, Joe Lauria explores Israel's motivations behind
+      what he perceives as a superficial maneuver to address the significant global
+      backlash it is experiencing, particularly from the United States. He suggests
+      that Israel may be seeking to improve its public relations image and mitigate
+      the widespread condemnation it faces, indicating that this strategy could be seen
+      as a way to deflect criticism rather than genuinely addressing the underlying
+      issues at hand.
+    published: '2025-10-08T00:48:38+00:00'
+  - title: 'Caitlin Johnstone: October 7 Explained'
+    url: https://consortiumnews.com/2025/10/07/caitlin-johnstone-october-7-explained/
+    text: They only want you looking at the parts of Oct. 7 that make Israel look like
+      an innocent little lamb who was attacked completely out of the blue and had no
+      choice but to reluctantly respond with military force. By… Read more →
+    one_sentence_summary: The article critiques the portrayal of Israel's actions on
+      October 7 as purely defensive, suggesting that it selectively highlights aspects
+      that cast Israel as an innocent victim without acknowledging the broader context.
+    paragraph_summary: The article critiques the portrayal of the events surrounding
+      the October 7 attacks on Israel, arguing that the narrative often emphasizes Israel's
+      innocence and victimhood while downplaying the complexities and context of the
+      situation. It suggests that this one-sided perspective overlooks the broader historical
+      and political factors that contributed to the conflict, ultimately calling for
+      a more nuanced understanding of the events rather than a simplistic depiction
+      of Israel as an innocent party forced into military action.
+    published: '2025-10-07T18:21:21+00:00'
+  - title: 'Caitlin Johnstone: October 7 Explained'
+    url: https://consortiumnews.com/2025/10/07/caitlin-johnstone-october-7-explained/
+    text: They only want you looking at the parts of Oct. 7 that make Israel look like
+      an innocent little lamb who was attacked completely out of the blue and had no
+      choice but to reluctantly respond with military force. By… Read more →
+    one_sentence_summary: The article critiques the portrayal of Israel's actions on
+      October 7 as purely defensive, suggesting that it selectively highlights aspects
+      that cast Israel as an innocent victim without acknowledging the broader context.
+    paragraph_summary: The article critiques the portrayal of the events surrounding
+      the October 7 attacks on Israel, arguing that the narrative often emphasizes Israel's
+      innocence and victimhood while downplaying the complexities and context of the
+      situation. It suggests that this one-sided perspective overlooks the broader historical
+      and political factors that contributed to the conflict, ultimately calling for
+      a more nuanced understanding of the events rather than a simplistic depiction
+      of Israel as an innocent party forced into military action.
+    published: '2025-10-07T18:21:21+00:00'
+  - title: 'Patrick Lawrence: Power & Justice'
+    url: https://consortiumnews.com/2025/10/06/patrick-lawrence-power-justice/
+    text: The world broke its silence at the U.N. late last month, but force alone is
+      what counts for Trump and Netanyahu, who propose to stand astride the world like
+      co-emperors. By Patrick Lawrence  ScheerPost Those were an eventful few days as…
+      Read more →
+    one_sentence_summary: The article discusses how Trump and Netanyahu are positioning
+      themselves as dominant global leaders, prioritizing power over diplomatic dialogue,
+      as highlighted by recent events at the U.N.
+    paragraph_summary: In a recent article by Patrick Lawrence on ScheerPost, the author
+      discusses the significant developments at the U.N. where global leaders voiced
+      their concerns, yet emphasizes that for figures like Trump and Netanyahu, power
+      and military strength are paramount. The piece portrays them as attempting to
+      position themselves as dominant figures on the world stage, likening their ambitions
+      to that of co-emperors, suggesting a troubling trend where force is prioritized
+      over diplomatic dialogue.
+    published: '2025-10-06T21:00:23+00:00'
+  - title: 'Patrick Lawrence: Power & Justice'
+    url: https://consortiumnews.com/2025/10/06/patrick-lawrence-power-justice/
+    text: The world broke its silence at the U.N. late last month, but force alone is
+      what counts for Trump and Netanyahu, who propose to stand astride the world like
+      co-emperors. By Patrick Lawrence  ScheerPost Those were an eventful few days as…
+      Read more →
+    one_sentence_summary: The article discusses how Trump and Netanyahu are positioning
+      themselves as dominant global leaders, prioritizing power over diplomatic dialogue,
+      as highlighted by recent events at the U.N.
+    paragraph_summary: In a recent article by Patrick Lawrence on ScheerPost, the author
+      discusses the significant developments at the U.N. where global leaders voiced
+      their concerns, yet emphasizes that for figures like Trump and Netanyahu, power
+      and military strength are paramount. The piece portrays them as attempting to
+      position themselves as dominant figures on the world stage, likening their ambitions
+      to that of co-emperors, suggesting a troubling trend where force is prioritized
+      over diplomatic dialogue.
+    published: '2025-10-06T21:00:23+00:00'
+  - title: Gaza Outrage at Trump’s ‘Governor Blair’ Plan
+    url: https://consortiumnews.com/2025/10/06/gaza-outrage-at-trumps-governor-blair-plan/
+    text: The return of this name to the scene in Gaza signals the return of the same
+      policies that set the Middle East on fire, writes Shaimaa Eid. By Shaimaa Eid
+      in Gaza Declassified UK Amid growing controversy over Donald Trump’s… Read more
+      →
+    one_sentence_summary: Shaimaa Eid argues that the resurgence of a particular name
+      in Gaza indicates the revival of divisive policies that previously ignited conflict
+      in the Middle East.
+    paragraph_summary: In her article for Declassified UK, Shaimaa Eid discusses the
+      implications of Donald Trump's return to political prominence, particularly in
+      relation to the situation in Gaza. She argues that his reemergence signals a revival
+      of the same contentious policies that have historically exacerbated tensions in
+      the Middle East. The article highlights concerns about the potential consequences
+      of these policies on the ongoing conflict and the broader geopolitical landscape
+      in the region.
+    published: '2025-10-06T18:15:41+00:00'
+  - title: Gaza Outrage at Trump’s ‘Governor Blair’ Plan
+    url: https://consortiumnews.com/2025/10/06/gaza-outrage-at-trumps-governor-blair-plan/
+    text: The return of this name to the scene in Gaza signals the return of the same
+      policies that set the Middle East on fire, writes Shaimaa Eid. By Shaimaa Eid
+      in Gaza Declassified UK Amid growing controversy over Donald Trump’s… Read more
+      →
+    one_sentence_summary: Shaimaa Eid argues that the resurgence of a particular name
+      in Gaza indicates the revival of divisive policies that previously ignited conflict
+      in the Middle East.
+    paragraph_summary: In her article for Declassified UK, Shaimaa Eid discusses the
+      implications of Donald Trump's return to political prominence, particularly in
+      relation to the situation in Gaza. She argues that his reemergence signals a revival
+      of the same contentious policies that have historically exacerbated tensions in
+      the Middle East. The article highlights concerns about the potential consequences
+      of these policies on the ongoing conflict and the broader geopolitical landscape
+      in the region.
+    published: '2025-10-06T18:15:41+00:00'
+  - title: 'Jeffrey Sachs: 20 Points Minus US-UK Colonialism'
+    url: https://consortiumnews.com/2025/10/06/jeffrey-sachs-20-points-minus-us-uk-colonialism/
+    text: Jeffrey D. Sachs and Sybil Fares offer a revised version of the Trump plan
+      for an end of the war in Gaza and the occupation of the West Bank. By Jeffrey
+      D. Sachs and Sybil Fares Common Dreams President Donald Trump’s 20-point plan…
+      Read more →
+    one_sentence_summary: Jeffrey D. Sachs and Sybil Fares present a revised proposal
+      to end the war in Gaza and the occupation of the West Bank, building on Donald
+      Trump's original 20-point plan.
+    paragraph_summary: Jeffrey D. Sachs and Sybil Fares present a revised version of
+      Donald Trump's plan aimed at resolving the conflict in Gaza and ending the occupation
+      of the West Bank. Their proposal seeks to address the complexities of the situation
+      by incorporating new perspectives and strategies to foster peace and stability
+      in the region. The article outlines key elements of the revised plan, emphasizing
+      the need for a comprehensive approach that considers the needs and rights of both
+      Israelis and Palestinians.
+    published: '2025-10-06T16:27:50+00:00'
+  - title: 'Jeffrey Sachs: 20 Points Minus US-UK Colonialism'
+    url: https://consortiumnews.com/2025/10/06/jeffrey-sachs-20-points-minus-us-uk-colonialism/
+    text: Jeffrey D. Sachs and Sybil Fares offer a revised version of the Trump plan
+      for an end of the war in Gaza and the occupation of the West Bank. By Jeffrey
+      D. Sachs and Sybil Fares Common Dreams President Donald Trump’s 20-point plan…
+      Read more →
+    one_sentence_summary: Jeffrey D. Sachs and Sybil Fares present a revised proposal
+      to end the war in Gaza and the occupation of the West Bank, building on Donald
+      Trump's original 20-point plan.
+    paragraph_summary: Jeffrey D. Sachs and Sybil Fares present a revised version of
+      Donald Trump's plan aimed at resolving the conflict in Gaza and ending the occupation
+      of the West Bank. Their proposal seeks to address the complexities of the situation
+      by incorporating new perspectives and strategies to foster peace and stability
+      in the region. The article outlines key elements of the revised plan, emphasizing
+      the need for a comprehensive approach that considers the needs and rights of both
+      Israelis and Palestinians.
+    published: '2025-10-06T16:27:50+00:00'
+  - title: Who Will Protect Us From the Protectors?
+    url: https://consortiumnews.com/2025/10/06/who-will-protect-us-from-the-protectors/
+    text: President Trump’s recent federalization of troops and Presidential National
+      Security Memorandum completely disregards the Constitution, says Judge Andrew
+      Napolitano.  By Andrew P. Napolitano In the same week in which President Donald
+      Trump announced that he was federalizing 200 Oregon National Guard… Read more
+      →
+    one_sentence_summary: Judge Andrew Napolitano argues that President Trump's federalization
+      of troops and National Security Memorandum violate the Constitution.
+    paragraph_summary: Judge Andrew Napolitano criticizes President Trump's decision
+      to federalize 200 Oregon National Guard troops and issue a Presidential National
+      Security Memorandum, arguing that these actions violate the Constitution. Napolitano
+      contends that Trump's approach undermines the legal framework governing the deployment
+      of military forces and raises concerns about executive overreach in matters of
+      national security.
+    published: '2025-10-06T16:00:38+00:00'
+  - title: Who Will Protect Us From the Protectors?
+    url: https://consortiumnews.com/2025/10/06/who-will-protect-us-from-the-protectors/
+    text: President Trump’s recent federalization of troops and Presidential National
+      Security Memorandum completely disregards the Constitution, says Judge Andrew
+      Napolitano.  By Andrew P. Napolitano In the same week in which President Donald
+      Trump announced that he was federalizing 200 Oregon National Guard… Read more
+      →
+    one_sentence_summary: Judge Andrew Napolitano argues that President Trump's federalization
+      of troops and National Security Memorandum violate the Constitution.
+    paragraph_summary: Judge Andrew Napolitano criticizes President Trump's decision
+      to federalize 200 Oregon National Guard troops and issue a Presidential National
+      Security Memorandum, arguing that these actions violate the Constitution. Napolitano
+      contends that Trump's approach undermines the legal framework governing the deployment
+      of military forces and raises concerns about executive overreach in matters of
+      national security.
+    published: '2025-10-06T16:00:38+00:00'
+  - title: Intrigue — and Confusion — Reign Over Ukraine
+    url: https://consortiumnews.com/2025/10/06/intrigue-and-confusion-reign-over-ukraine/
+    text: U.S. President Donald Trump aired frustrations that his efforts to end the
+      Ukraine war are not working with Russian President Vladimir Putin. The matrix
+      is getting complicated, writes M.K. Bhadrakumar.  By M.K. Bhadrakumar Indian Punchline
+      The Russian Foreign Minister Sergey Lavrov… Read more →
+    one_sentence_summary: U.S. President Donald Trump expressed his frustrations over
+      the lack of progress in resolving the Ukraine war with Russian President Vladimir
+      Putin, highlighting the complexities of the situation.
+    paragraph_summary: In a recent commentary, M.K. Bhadrakumar highlights U.S. President
+      Donald Trump's frustrations regarding his attempts to negotiate an end to the
+      Ukraine war with Russian President Vladimir Putin, suggesting that the situation
+      has become increasingly complex. The article notes that Russian Foreign Minister
+      Sergey Lavrov's statements reflect the intricate dynamics at play, indicating
+      that diplomatic efforts are facing significant challenges.
+    published: '2025-10-06T05:43:33+00:00'
+  - title: Intrigue — and Confusion — Reign Over Ukraine
+    url: https://consortiumnews.com/2025/10/06/intrigue-and-confusion-reign-over-ukraine/
+    text: U.S. President Donald Trump aired frustrations that his efforts to end the
+      Ukraine war are not working with Russian President Vladimir Putin. The matrix
+      is getting complicated, writes M.K. Bhadrakumar.  By M.K. Bhadrakumar Indian Punchline
+      The Russian Foreign Minister Sergey Lavrov… Read more →
+    one_sentence_summary: U.S. President Donald Trump expressed his frustrations over
+      the lack of progress in resolving the Ukraine war with Russian President Vladimir
+      Putin, highlighting the complexities of the situation.
+    paragraph_summary: In a recent commentary, M.K. Bhadrakumar highlights U.S. President
+      Donald Trump's frustrations regarding his attempts to negotiate an end to the
+      Ukraine war with Russian President Vladimir Putin, suggesting that the situation
+      has become increasingly complex. The article notes that Russian Foreign Minister
+      Sergey Lavrov's statements reflect the intricate dynamics at play, indicating
+      that diplomatic efforts are facing significant challenges.
+    published: '2025-10-06T05:43:33+00:00'
+  - title: Trump Orders Israel to Stop Bombing Gaza
+    url: https://consortiumnews.com/2025/10/03/trump-orders-israel-to-stop-bombing-gaza/
+    text: In a surprise move, Hamas has formally agreed to Trump’s peace plan and is
+      prepared to release all hostages. In response, the U.S. president ordered Israel
+      to cease fire. Will it listen? By Joe Lauria Special to Consortium News U.S.…
+      Read more →
+    one_sentence_summary: Hamas has unexpectedly accepted Trump's peace plan and is
+      willing to release all hostages, prompting the U.S. president to order Israel
+      to cease fire, raising questions about whether Israel will comply.
+    paragraph_summary: In a surprising development, Hamas has officially accepted Trump's
+      peace plan and is willing to release all hostages, prompting U.S. President Trump
+      to call for a ceasefire from Israel. The article raises questions about whether
+      Israel will comply with this request, highlighting the complexities of the ongoing
+      conflict and the implications of Hamas's agreement.
+    published: '2025-10-03T22:09:31+00:00'
+  - title: Trump Orders Israel to Stop Bombing Gaza
+    url: https://consortiumnews.com/2025/10/03/trump-orders-israel-to-stop-bombing-gaza/
+    text: In a surprise move, Hamas has formally agreed to Trump’s peace plan and is
+      prepared to release all hostages. In response, the U.S. president ordered Israel
+      to cease fire. Will it listen? By Joe Lauria Special to Consortium News U.S.…
+      Read more →
+    one_sentence_summary: Hamas has unexpectedly accepted Trump's peace plan and is
+      willing to release all hostages, prompting the U.S. president to order Israel
+      to cease fire, raising questions about whether Israel will comply.
+    paragraph_summary: In a surprising development, Hamas has officially accepted Trump's
+      peace plan and is willing to release all hostages, prompting U.S. President Trump
+      to call for a ceasefire from Israel. The article raises questions about whether
+      Israel will comply with this request, highlighting the complexities of the ongoing
+      conflict and the implications of Hamas's agreement.
+    published: '2025-10-03T22:09:31+00:00'
+  - title: 'Hedges Report: NPC Australia Caves to Israel Lobby, Cancels Talk'
+    url: https://consortiumnews.com/2025/10/03/hedges-report-national-press-club-of-australia-caves-to-israel-lobby-cancels-talk/
+    text: The National Press Club of Australia cancelled my talk on how the media, by
+      amplifying Israeli lies, have betrayed Palestinian journalists, 278 of whom have
+      been assassinated by Israel, writes Chris Hedges. By Chris Hedges The Chris Hedges
+      Report I was… Read more →
+    one_sentence_summary: Chris Hedges reports that the National Press Club of Australia
+      canceled his talk on the media's role in amplifying Israeli narratives, which
+      he argues has contributed to the assassination of Palestinian journalists.
+    paragraph_summary: In an article by Chris Hedges, he discusses the cancellation
+      of his talk at the National Press Club of Australia, which was intended to address
+      the media's role in amplifying misinformation from Israel and its impact on Palestinian
+      journalists, 278 of whom have been killed. Hedges argues that this cancellation
+      reflects a broader issue of media complicity in perpetuating narratives that undermine
+      the realities faced by Palestinian journalists and the ongoing conflict.
+    published: '2025-10-03T18:18:40+00:00'
+  - title: 'Hedges Report: NPC Australia Caves to Israel Lobby, Cancels Talk'
+    url: https://consortiumnews.com/2025/10/03/hedges-report-national-press-club-of-australia-caves-to-israel-lobby-cancels-talk/
+    text: The National Press Club of Australia cancelled my talk on how the media, by
+      amplifying Israeli lies, have betrayed Palestinian journalists, 278 of whom have
+      been assassinated by Israel, writes Chris Hedges. By Chris Hedges The Chris Hedges
+      Report I was… Read more →
+    one_sentence_summary: Chris Hedges reports that the National Press Club of Australia
+      canceled his talk on the media's role in amplifying Israeli narratives, which
+      he argues has contributed to the assassination of Palestinian journalists.
+    paragraph_summary: In an article by Chris Hedges, he discusses the cancellation
+      of his talk at the National Press Club of Australia, which was intended to address
+      the media's role in amplifying misinformation from Israel and its impact on Palestinian
+      journalists, 278 of whom have been killed. Hedges argues that this cancellation
+      reflects a broader issue of media complicity in perpetuating narratives that undermine
+      the realities faced by Palestinian journalists and the ongoing conflict.
+    published: '2025-10-03T18:18:40+00:00'
+  - title: Racial Profiling Is Anti-American
+    url: https://consortiumnews.com/2025/10/03/racial-profiling-is-anti-american/
+    text: The U.S. Constitution does not permit government agents to detain people because
+      of how they look, the language they speak, or the jobs they hold, writes Raja
+      Krishnamoorthi. By Raja Krishnamoorthi Common Dreams Earlier this month, a member
+      of my staff… Read more →
+    one_sentence_summary: Raja Krishnamoorthi asserts that the U.S. Constitution prohibits
+      government agents from detaining individuals based on their appearance, language,
+      or occupation.
+    paragraph_summary: In a recent article, Raja Krishnamoorthi emphasizes that the
+      U.S. Constitution prohibits government agents from detaining individuals based
+      on their appearance, language, or occupation. He argues that such discriminatory
+      practices undermine the fundamental rights guaranteed by the Constitution and
+      highlights the importance of upholding these principles to ensure justice and
+      equality for all citizens.
+    published: '2025-10-03T16:00:47+00:00'
+  - title: Racial Profiling Is Anti-American
+    url: https://consortiumnews.com/2025/10/03/racial-profiling-is-anti-american/
+    text: The U.S. Constitution does not permit government agents to detain people because
+      of how they look, the language they speak, or the jobs they hold, writes Raja
+      Krishnamoorthi. By Raja Krishnamoorthi Common Dreams Earlier this month, a member
+      of my staff… Read more →
+    one_sentence_summary: Raja Krishnamoorthi asserts that the U.S. Constitution prohibits
+      government agents from detaining individuals based on their appearance, language,
+      or occupation.
+    paragraph_summary: In a recent article, Raja Krishnamoorthi emphasizes that the
+      U.S. Constitution prohibits government agents from detaining individuals based
+      on their appearance, language, or occupation. He argues that such discriminatory
+      practices undermine the fundamental rights guaranteed by the Constitution and
+      highlights the importance of upholding these principles to ensure justice and
+      equality for all citizens.
+    published: '2025-10-03T16:00:47+00:00'
+  - title: 'Vijay Prashad:  Genocide Marks Two Years'
+    url: https://consortiumnews.com/2025/10/03/vijay-prashad-genocide-marks-two-years/
+    text: 'Oct. 7 will mark the second anniversary of Israel’s ongoing genocide in Gaza.
+      At least 66,000 Palestinians have been killed in Gaza during this time – 30 out
+      of every 1,000 people. By Vijay Prashad Tricontinental: Institute for Social Research
+      Ncext Tuesday… Read more →'
+    one_sentence_summary: The article highlights that October 7 marks the second anniversary
+      of the ongoing conflict in Gaza, during which at least 66,000 Palestinians have
+      been killed, equating to 30 out of every 1,000 people.
+    paragraph_summary: On October 7, the second anniversary of the ongoing conflict
+      in Gaza will be marked, during which it is reported that at least 66,000 Palestinians
+      have lost their lives, equating to 30 deaths for every 1,000 individuals in the
+      region. The article, authored by Vijay Prashad from the Tricontinental Institute
+      for Social Research, highlights the severe humanitarian impact of the situation,
+      characterizing it as a genocide.
+    published: '2025-10-03T11:00:45+00:00'
+  - title: 'Vijay Prashad:  Genocide Marks Two Years'
+    url: https://consortiumnews.com/2025/10/03/vijay-prashad-genocide-marks-two-years/
+    text: 'Oct. 7 will mark the second anniversary of Israel’s ongoing genocide in Gaza.
+      At least 66,000 Palestinians have been killed in Gaza during this time – 30 out
+      of every 1,000 people. By Vijay Prashad Tricontinental: Institute for Social Research
+      Ncext Tuesday… Read more →'
+    one_sentence_summary: The article highlights that October 7 marks the second anniversary
+      of the ongoing conflict in Gaza, during which at least 66,000 Palestinians have
+      been killed, equating to 30 out of every 1,000 people.
+    paragraph_summary: On October 7, the second anniversary of the ongoing conflict
+      in Gaza will be marked, during which it is reported that at least 66,000 Palestinians
+      have lost their lives, equating to 30 deaths for every 1,000 individuals in the
+      region. The article, authored by Vijay Prashad from the Tricontinental Institute
+      for Social Research, highlights the severe humanitarian impact of the situation,
+      characterizing it as a genocide.
+    published: '2025-10-03T11:00:45+00:00'
+  - title: 'Chris Hedges: Trump’s War on America'
+    url: https://consortiumnews.com/2025/10/02/chris-hedges-trumps-war-on-america/
+    text: The latest Presidential memo, “Countering Domestic Terrorism and Organized
+      Political Violence,” is to be a preemptive war against those individuals and institutions which
+      threaten Trump’s absolute grip on power. By Chris Hedges The Chris Hedges Report
+      Fascists, historically, are surprisingly candid about… Read more →
+    one_sentence_summary: The recent Presidential memo on "Countering Domestic Terrorism
+      and Organized Political Violence" is viewed as a strategic move to suppress threats
+      to Trump's power, according to Chris Hedges.
+    paragraph_summary: In the article, Chris Hedges discusses a recent Presidential
+      memo titled “Countering Domestic Terrorism and Organized Political Violence,”
+      which he interprets as a strategic move to suppress dissent and maintain Trump's
+      hold on power. Hedges argues that the memo targets individuals and institutions
+      perceived as threats to this authority, reflecting a broader trend of authoritarianism.
+      He highlights the historical candidness of fascist regimes about their intentions,
+      suggesting that the memo is part of a preemptive effort to stifle opposition and
+      consolidate control.
+    published: '2025-10-02T18:00:58+00:00'
+  - title: 'Chris Hedges: Trump’s War on America'
+    url: https://consortiumnews.com/2025/10/02/chris-hedges-trumps-war-on-america/
+    text: The latest Presidential memo, “Countering Domestic Terrorism and Organized
+      Political Violence,” is to be a preemptive war against those individuals and institutions which
+      threaten Trump’s absolute grip on power. By Chris Hedges The Chris Hedges Report
+      Fascists, historically, are surprisingly candid about… Read more →
+    one_sentence_summary: The recent Presidential memo on "Countering Domestic Terrorism
+      and Organized Political Violence" is viewed as a strategic move to suppress threats
+      to Trump's power, according to Chris Hedges.
+    paragraph_summary: In the article, Chris Hedges discusses a recent Presidential
+      memo titled “Countering Domestic Terrorism and Organized Political Violence,”
+      which he interprets as a strategic move to suppress dissent and maintain Trump's
+      hold on power. Hedges argues that the memo targets individuals and institutions
+      perceived as threats to this authority, reflecting a broader trend of authoritarianism.
+      He highlights the historical candidness of fascist regimes about their intentions,
+      suggesting that the memo is part of a preemptive effort to stifle opposition and
+      consolidate control.
+    published: '2025-10-02T18:00:58+00:00'
+  - title: 'Secret Cargo: Inside Australia’s Covert F-35 Parts Pipeline to Israel'
+    url: https://consortiumnews.com/2025/10/02/secret-cargo-inside-australias-covert-f-35-parts-pipeline-to-israel/
+    text: At least 68 shipments of F-35 fighter jet parts have been flown on commercial
+      passenger planes to Israel from Australia as recently as last month, leaked documents
+      reveal, reports Peter Cronau. This Declassified Australia investigation is published
+      in partnership with… Read more →
+    one_sentence_summary: Leaked documents reveal that at least 68 shipments of F-35
+      fighter jet parts were transported on commercial passenger planes from Australia
+      to Israel as recently as last month.
+    paragraph_summary: Leaked documents reveal that at least 68 shipments of F-35 fighter
+      jet parts have been transported on commercial passenger planes from Australia
+      to Israel, with some shipments occurring as recently as last month. This investigation,
+      conducted by Declassified Australia and reported by Peter Cronau, highlights the
+      ongoing military collaboration between the two nations.
+    published: '2025-10-02T16:00:13+00:00'
+  - title: 'Secret Cargo: Inside Australia’s Covert F-35 Parts Pipeline to Israel'
+    url: https://consortiumnews.com/2025/10/02/secret-cargo-inside-australias-covert-f-35-parts-pipeline-to-israel/
+    text: At least 68 shipments of F-35 fighter jet parts have been flown on commercial
+      passenger planes to Israel from Australia as recently as last month, leaked documents
+      reveal, reports Peter Cronau. This Declassified Australia investigation is published
+      in partnership with… Read more →
+    one_sentence_summary: Leaked documents reveal that at least 68 shipments of F-35
+      fighter jet parts were transported on commercial passenger planes from Australia
+      to Israel as recently as last month.
+    paragraph_summary: Leaked documents reveal that at least 68 shipments of F-35 fighter
+      jet parts have been transported on commercial passenger planes from Australia
+      to Israel, with some shipments occurring as recently as last month. This investigation,
+      conducted by Declassified Australia and reported by Peter Cronau, highlights the
+      ongoing military collaboration between the two nations.
+    published: '2025-10-02T16:00:13+00:00'
+  - title: 'WATCH: Israelis Make Illegal Arrests on Sumud Flotilla'
+    url: https://consortiumnews.com/2025/10/01/watch-live-feed-from-sumud-flotilla/
+    text: Israeli soldiers make arrests as they board the flotilla of 40 boats with
+      500 people on the high seas on its way to Gaza. Watch the feed from the flotilla
+      here. Scroll back to see arrests. See X feed for updates… Read more →
+    one_sentence_summary: Israeli soldiers arrested individuals as they intercepted
+      a flotilla of 40 boats carrying 500 people en route to Gaza.
+    paragraph_summary: Israeli soldiers have conducted arrests as they intercepted a
+      flotilla of 40 boats carrying 500 individuals en route to Gaza on the high seas.
+      Live coverage of the flotilla's activities, including the arrests, is available,
+      along with ongoing updates on social media platforms.
+    published: '2025-10-01T21:06:36+00:00'
+  - title: 'WATCH: Israelis Make Illegal Arrests on Sumud Flotilla'
+    url: https://consortiumnews.com/2025/10/01/watch-live-feed-from-sumud-flotilla/
+    text: Israeli soldiers make arrests as they board the flotilla of 40 boats with
+      500 people on the high seas on its way to Gaza. Watch the feed from the flotilla
+      here. Scroll back to see arrests. See X feed for updates… Read more →
+    one_sentence_summary: Israeli soldiers arrested individuals as they intercepted
+      a flotilla of 40 boats carrying 500 people en route to Gaza.
+    paragraph_summary: Israeli soldiers have conducted arrests as they intercepted a
+      flotilla of 40 boats carrying 500 individuals en route to Gaza on the high seas.
+      Live coverage of the flotilla's activities, including the arrests, is available,
+      along with ongoing updates on social media platforms.
+    published: '2025-10-01T21:06:36+00:00'
+  - title: 'Hedges Report: Fighting Back Against Trump’s Regime'
+    url: https://consortiumnews.com/2025/10/01/hedges-report-fighting-back-against-trumps-regime/
+    text: United States citizens must empower themselves to fight back against an increasingly
+      authoritarian Trump administration as well as the Democratic wing of the uniparty,
+      argues Ralph Nader. By Chris Hedges The Chris Hedges Report This interview is
+      also available on podcast platforms and Rumble.… Read more →
+    one_sentence_summary: Ralph Nader urges U.S. citizens to take action against the
+      authoritarian tendencies of the Trump administration and the Democratic establishment,
+      as discussed in an interview with Chris Hedges.
+    paragraph_summary: In a recent interview, Ralph Nader emphasizes the need for U.S.
+      citizens to take action against the growing authoritarianism of the Trump administration
+      and the complicity of the Democratic Party, which he views as part of a uniparty
+      system. He advocates for grassroots empowerment and collective resistance to challenge
+      the political status quo and protect democratic values. The discussion, hosted
+      by Chris Hedges, highlights the urgency for citizens to engage actively in the
+      political process to safeguard their rights and freedoms.
+    published: '2025-10-01T17:41:11+00:00'
+  - title: 'Hedges Report: Fighting Back Against Trump’s Regime'
+    url: https://consortiumnews.com/2025/10/01/hedges-report-fighting-back-against-trumps-regime/
+    text: United States citizens must empower themselves to fight back against an increasingly
+      authoritarian Trump administration as well as the Democratic wing of the uniparty,
+      argues Ralph Nader. By Chris Hedges The Chris Hedges Report This interview is
+      also available on podcast platforms and Rumble.… Read more →
+    one_sentence_summary: Ralph Nader urges U.S. citizens to take action against the
+      authoritarian tendencies of the Trump administration and the Democratic establishment,
+      as discussed in an interview with Chris Hedges.
+    paragraph_summary: In a recent interview, Ralph Nader emphasizes the need for U.S.
+      citizens to take action against the growing authoritarianism of the Trump administration
+      and the complicity of the Democratic Party, which he views as part of a uniparty
+      system. He advocates for grassroots empowerment and collective resistance to challenge
+      the political status quo and protect democratic values. The discussion, hosted
+      by Chris Hedges, highlights the urgency for citizens to engage actively in the
+      political process to safeguard their rights and freedoms.
+    published: '2025-10-01T17:41:11+00:00'
+  - title: Judge Slams Trump Admin for Targeting Pro-Palestine Protesters
+    url: https://consortiumnews.com/2025/10/01/judge-slams-trump-admin-for-targeting-pro-palestine-protesters/
+    text: Judge William Young found Trump acted illegally against Pro-Palestine students,
+      calling the decision his most important in 30 years on the bench. “In all our
+      history, we have never tolerated an armed, masked secret police,” the judge ruled.
+      By Stephen Prager… Read more →
+    one_sentence_summary: Judge William Young ruled that Trump acted illegally against
+      Pro-Palestine students, deeming it his most significant decision in three decades,
+      emphasizing that the use of armed, masked secret police is intolerable in American
+      history.
+    paragraph_summary: Judge William Young ruled that former President Trump acted illegally
+      against Pro-Palestine students, marking this decision as the most significant
+      of his 30-year judicial career. He emphasized the importance of upholding democratic
+      principles, stating that the presence of "armed, masked secret police" is intolerable
+      in American history.
+    published: '2025-10-01T16:04:57+00:00'
+  - title: Judge Slams Trump Admin for Targeting Pro-Palestine Protesters
+    url: https://consortiumnews.com/2025/10/01/judge-slams-trump-admin-for-targeting-pro-palestine-protesters/
+    text: Judge William Young found Trump acted illegally against Pro-Palestine students,
+      calling the decision his most important in 30 years on the bench. “In all our
+      history, we have never tolerated an armed, masked secret police,” the judge ruled.
+      By Stephen Prager… Read more →
+    one_sentence_summary: Judge William Young ruled that Trump acted illegally against
+      Pro-Palestine students, deeming it his most significant decision in three decades,
+      emphasizing that the use of armed, masked secret police is intolerable in American
+      history.
+    paragraph_summary: Judge William Young ruled that former President Trump acted illegally
+      against Pro-Palestine students, marking this decision as the most significant
+      of his 30-year judicial career. He emphasized the importance of upholding democratic
+      principles, stating that the presence of "armed, masked secret police" is intolerable
+      in American history.
+    published: '2025-10-01T16:04:57+00:00'
+  - title: 'AS’AD AbuKHALIL: Will the US Push Lebanon to Civil War?'
+    url: https://consortiumnews.com/2025/10/01/asad-abukhalil-will-the-us-push-lebanon-to-civil-war/
+    text: As the balance of power shifts in the Middle East, pressure from Israel and
+      Saudi Arabia may spark a Lebanese civil war.  By As`ad AbuKhalil Special to Consortium
+      News The U.S. and Saudi Arabia are pushing Lebanon toward civil war. The… Read
+      more →
+    one_sentence_summary: The article argues that increasing pressure from Israel and
+      Saudi Arabia, alongside U.S. involvement, is pushing Lebanon towards the brink
+      of civil war amid shifting power dynamics in the Middle East.
+    paragraph_summary: The article by As'ad AbuKhalil discusses the escalating tensions
+      in Lebanon, driven by external pressures from the U.S., Israel, and Saudi Arabia,
+      which could potentially ignite a new civil war. The shifting balance of power
+      in the Middle East is contributing to this volatile situation, as these nations
+      exert influence over Lebanon's political landscape, exacerbating existing divisions
+      and conflicts within the country. The author warns that the combination of foreign
+      intervention and internal strife poses a significant threat to Lebanon's stability.
+    published: '2025-10-01T13:33:26+00:00'
+  - title: 'AS’AD AbuKHALIL: Will the US Push Lebanon to Civil War?'
+    url: https://consortiumnews.com/2025/10/01/asad-abukhalil-will-the-us-push-lebanon-to-civil-war/
+    text: As the balance of power shifts in the Middle East, pressure from Israel and
+      Saudi Arabia may spark a Lebanese civil war.  By As`ad AbuKhalil Special to Consortium
+      News The U.S. and Saudi Arabia are pushing Lebanon toward civil war. The… Read
+      more →
+    one_sentence_summary: The article argues that increasing pressure from Israel and
+      Saudi Arabia, alongside U.S. involvement, is pushing Lebanon towards the brink
+      of civil war amid shifting power dynamics in the Middle East.
+    paragraph_summary: The article by As'ad AbuKhalil discusses the escalating tensions
+      in Lebanon, driven by external pressures from the U.S., Israel, and Saudi Arabia,
+      which could potentially ignite a new civil war. The shifting balance of power
+      in the Middle East is contributing to this volatile situation, as these nations
+      exert influence over Lebanon's political landscape, exacerbating existing divisions
+      and conflicts within the country. The author warns that the combination of foreign
+      intervention and internal strife poses a significant threat to Lebanon's stability.
+    published: '2025-10-01T13:33:26+00:00'
   - title: US Gaza ‘Ceasefire’ Plan Edited by Netanyahu
     url: https://consortiumnews.com/2025/09/30/us-gaza-ceasefire-plan-edited-by-netanyahu/
     text: Axios reported that the changes infuriated Arab officials involved in the

@@ -7,14 +7,133 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  The geopolitical landscape remains tense as Israel’s actions in Gaza and its international posture continue to dominate headlines. In his September 26 address to the UN General Assembly, Israeli Prime Minister Benjamin Netanyahu doubled down on Israel’s narrative as a bulwark against terrorism, dismissing Palestinian statehood and justifying ongoing military operations in Gaza. This rhetoric, as **Binoy Kampmark** notes, triggered a significant walkout by delegates, underlining the growing diplomatic isolation Israel faces due to its hardline stance.
+  Tensions in the Middle East and the shifting dynamics of Western alliances continue to dominate the geopolitical landscape, with recent developments underscoring persistent instability and growing international scrutiny.
   
-  Meanwhile, scrutiny has intensified over the role of technology in the conflict. The Guardian’s revelations that the Israeli Defense Forces have leveraged Microsoft’s Azure cloud platform for mass surveillance in Gaza and the West Bank have placed both Microsoft and Israel under international examination. According to **Kampmark**, Microsoft has since moved to limit certain services, though it maintains its broader relationship with Israel, highlighting the complexities of corporate complicity and the challenges of enforcing ethical standards in conflict zones.
+  The most significant new development is the unveiling of President Trump’s Gaza peace proposal, which, as **Binoy Kampmark** notes, “emphasizes Israeli dominance over Palestinian affairs while proposing a temporary governance structure for Gaza and a significant role for an International Stabilisation Force.” The plan has been met with skepticism from both Israeli hardliners and Palestinian factions, raising doubts about its viability. While Netanyahu has found “reasons for optimism,” the proposal’s emphasis on Israeli control and the ambiguous status of Palestinian self-determination have fueled criticism and further entrenched divisions.
   
-  On the intelligence front, the UK’s MI6 is adapting to the digital era by launching “Silent Courier,” a dark web platform inspired by WikiLeaks for agent recruitment and intelligence gathering. **Kampmark** observes that this marks a significant shift in intelligence methodology, embracing the risks and opportunities of technological innovation in espionage.
+  Meanwhile, fallout continues from the United Nations Independent International Commission of Inquiry’s recent finding that Israel is responsible for genocide in Gaza. The Commission’s report, as previously detailed, accuses Israel of violating four out of five elements of the 1948 Genocide Convention. This has intensified calls for accountability and an end to violence, with international pressure mounting on Israel to alter its military and political strategies in Gaza.
   
-  Looking ahead, the trends point to further polarization around Israel’s policies, with increasing calls for accountability following the UN’s recent genocide findings. The use of advanced surveillance technologies in occupied territories is likely to fuel further debate on digital rights and corporate responsibility. The intelligence community’s embrace of digital platforms is quite likely to become the norm, despite inherent security risks. Given the current trajectory, I guarantee that diplomatic tensions and scrutiny over Israel’s actions will only intensify in the coming weeks.
+  On the intelligence front, the United Kingdom’s MI6 has launched “Silent Courier,” a dark web platform inspired by WikiLeaks for recruiting agents and gathering sensitive information. **Binoy Kampmark** highlights this as a significant shift towards technological solutions in intelligence operations, but warns of “the inherent risks and challenges associated with such methods,” particularly regarding operational security and the potential for counterintelligence threats.
+  
+  Looking ahead, the majority of analysts agree that the Trump peace plan is unlikely to achieve a durable resolution, given entrenched opposition and the lack of trust among key stakeholders. There is a high chance that international scrutiny of Israel’s actions in Gaza will increase, especially as legal and humanitarian concerns gain traction in global forums. The adoption of new intelligence-gathering technologies is quite likely to accelerate, but will bring new vulnerabilities and ethical dilemmas for Western agencies.
+  
+  In summary, the region remains locked in a cycle of contested initiatives and international condemnation, with little sign of substantive progress toward peace. The prevailing trend is toward further polarization and technological escalation, with a high chance of continued instability in the months ahead.
 articles:
+  - title: 'Palestinian Subordination: Trump’s Gaza Peace Plan'
+    url: https://www.counterpunch.org/2025/10/03/palestinian-subordination-trumps-gaza-peace-plan/
+    text: 'He had moments of discomfort and embarrassment – pressed into calling the
+      Qatari Prime Minister by his host to apologise for striking Doha and made to pay
+      lip service to the prospect of a Palestinian state – but Israel’s Benjamin Netanyahu
+      had many reasons to be pleased. On September 29, President Donald Trump advanced
+      a peace proposal that essentially preserves Israeli pre-eminence regarding the
+      fate of Palestinians, though it entails a cessation of hostilities, an affirmation
+      that Gazans would not be expelled (those leaving would have the right to return),
+      and an injunction against Israeli annexation of the Strip. But Hamas, militarily
+      and politically, would have to surrender all claims, with the Palestinian Authority
+      shepherded and supervised by foreign powers.
+
+
+      Trump’s peace proposal comprises twenty points. They include a “deradicalized
+      terror-free zone”, Gaza’s redevelopment for the benefit of its people aided by
+      “a panel of experts who have helped birth some of the thriving miracle cities
+      in the Middle East”, and an immediate end to the war on its acceptance by the
+      parties. Israel would withdraw to an agreed upon line in anticipation of a hostage
+      release, during which all military operations would cease pending complete withdrawal.
+      All hostages, dead and alive, would be returned within 72 hours, to be followed
+      by the release of 250 Palestinian life sentence prisoners and Gazans detained
+      since October 7, 2023.
+
+
+      Hamas and militant factions will forfeit any role in governing Gaza, with any
+      offensive infrastructure and equipment destroyed, but any of its members wishing
+      to commit to “peaceful co-existence” and decommissioning of weapons will be granted
+      amnesty, with those wishing to leave given safe passage to receiving countries.
+      Compliance by the militant group will be overseen by “regional partners”. Full
+      aid would resume, with the UN and Red Crescent restored to their role as chief
+      distributors.
+
+
+      On the issue of governance, a temporary technocratic “apolitical Palestinian committee”
+      of qualified Palestinians and “international experts” would form a temporary transitional
+      body, subject to a “Board of Peace” personally chaired by Trump. Most unfortunately,
+      it is likely to include such figures as Sir Tony Blair, the Middle East’s typhoid
+      Mary when it comes to peace. The transitional authority would hold the reins till
+      reforms by the Palestinian Authority had been completed. With immediacy, however,
+      the US would work with Arab and international partners to deploy an “International
+      Stabilisation Force” to Gaza. The ISF will be responsible for training Palestinian
+      police forces and provide support in terms of vetting recruits, with assistance
+      from Jordan and Egypt.
+
+
+      The proposal clearly envisages a significant role for the ISF, though says about
+      who will comprise it. Israel will not, under the plan, occupy or annex Gaza, surrendering
+      what territory it has taken to the ISF. Even if Hamas were to delay or reject
+      the proposal, the Israeli Defense Forces would still hand over occupied territory
+      of “terror-free areas” to the stabilisation force but retain a security perimeter
+      to stem “any resurgent terror threat.”
+
+
+      The plan also envisages the establishment of an interfaith dialogue to promote
+      the values of peace between the parties, and a “credible pathway to Palestinian
+      self-determination and statehood” if the programs for Gaza’s redevelopment and
+      PA reform take place as planned. A vague US promise to “establish a dialogue”
+      between Israel and the Palestinians regarding peaceful and prosperous co-existence
+      rounds off the points.
+
+
+      There was palpable grumbling from the Israeli camp. Netanyahu undoubtedly harbours
+      ambitions of finishing “the job”, and there is little to say the war will not
+      resume once the Israeli hostages are returned. Having previously rejected any
+      governing role of the Palestinian Authority in Gaza, he now reluctantly accepts
+      the idea subject to a “radical and genuine overhaul” of the body.
+
+
+      Finance Minister Bezalel Smotrich, one of the right-wing heavies in the Israeli
+      cabinet, is threatening to withdraw his Religious Zionist Party from the coalition.
+      Agreeing with the plan had been “an act of wilful blindness that ignores every
+      lesson of October 7.” It would only “end in tears.” Fellow zealot, National Security
+      Minister Itamar Ben-Gvir, is also likely to be seething.
+
+
+      Opposition leader Yair Lapid is also suspicious of Netanyahu, who tends to say
+      “yes” when visiting Washington, “standing in front of the cameras at the White
+      house, feeling like a breakthrough statesman.” On returning to Israel, however,
+      he always seemed to add a qualifying “but”, his political base always reminding
+      him “who the boss is.”
+
+
+      In keeping with history, the Trump plan, even if it were to be implemented to
+      the letter, enshrines the essential subordination of Palestinian goals to the
+      dictates of other powers. Palestinian military presence is not only to be curtailed
+      but essentially eliminated altogether. Hamas, never consulted regarding the peace
+      terms, is to accept its own effacing. The PA is to accept its own subservience
+      and infantilisation. The Gazans are also to accept an economic and development
+      program dictated and directed from without. Statehood is to be kept in cold storage
+      till appropriate, controlled conditions for its release are approved – and certainly
+      not by the Palestinians themselves. They, it would seem, remain the considered
+      errant children of international relations, mistrusted and requiring permanent,
+      stern invigilation.'
+    one_sentence_summary: Despite moments of discomfort, Israeli Prime Minister Benjamin
+      Netanyahu found reasons for optimism in President Trump's peace proposal, which
+      emphasizes Israeli dominance over Palestinian affairs while proposing a temporary
+      governance structure for Gaza and a significant role for an International Stabilisation
+      Force, though it faces skepticism from both Israeli hardliners and Palestinian
+      factions.
+    paragraph_summary: Israeli Prime Minister Benjamin Netanyahu experienced discomfort
+      during a recent visit to Qatar, where he was pressured to apologize for his criticisms
+      of Doha and to endorse a Palestinian state. Despite these moments, Netanyahu had
+      reasons to be satisfied with President Donald Trump's peace proposal, which aims
+      to maintain Israeli dominance over Palestinian affairs while proposing a cessation
+      of hostilities and a framework for Gaza's governance. The plan includes a "deradicalized
+      terror-free zone," the establishment of a transitional Palestinian committee overseen
+      by international experts, and the involvement of an International Stabilisation
+      Force to train Palestinian police. However, the proposal has sparked dissent within
+      Israel, with right-wing officials expressing skepticism and concern over the implications
+      for Israeli security and governance in Gaza. Ultimately, the plan appears to reinforce
+      the subordination of Palestinian aspirations to external powers, with significant
+      limitations on their military presence and governance, raising questions about
+      the genuine prospects for Palestinian self-determination and statehood.
+    published: '2025-10-03T05:54:55+00:00'
   - title: 'Attempts to Delegitimize: Netanyahu at the UN General Assembly'
     url: https://www.counterpunch.org/2025/09/30/attempts-to-delegitimize-netanyahu-at-the-un-general-assembly/
     text: 'It takes a lot to make UN delegates walk out from an address to the General

@@ -8,16 +8,2108 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  The global geopolitical landscape continues to shift rapidly as the multipolar order consolidates, with the U.S. facing diminishing leverage over both adversaries and traditional allies. This trend is underscored by recent developments in economic policy, alliance realignment, and the deepening crisis within the U.S. domestic economy.
+  The global geopolitical landscape continues to be shaped by the accelerating transition from U.S.-led unipolarity to a contested multipolar order, with the latest developments highlighting deepening economic and strategic realignments.
   
-  The most recent analyses highlight that the U.S. strategy of economic coercion—long the cornerstone of its global dominance—is losing effectiveness. As **Michael Hudson** notes, "countries now have more options to diversify their economic partnerships away from the US, reducing its leverage over allies and neutral states." This is evident in the growing willingness of states in Europe and Asia to seek alternatives, particularly through closer ties with BRICS and the Shanghai Cooperation Organization (SCO).
+  The most recent and notable shift is the U.S. Federal Reserve’s decision to decrease interest rates, a move that has sparked significant controversy. As **Michael Hudson** explains, this policy is closely tied to the political climate surrounding Donald Trump, with the Fed’s actions seen as both a response to domestic economic pressures and a maneuver within ongoing political struggles. The rate cut is expected to have broad implications for global capital flows, with high confidence that it will further weaken the dollar’s appeal as the world’s reserve currency, especially as alternative monetary systems gain traction among BRICS and SCO nations.
   
-  On the economic front, the consequences of the Trump administration’s aggressive tariffs and protectionist measures are becoming increasingly apparent. **Michael Hudson** argues that these policies are "undermining U.S. agriculture, manufacturing, consumer prices, and affordable housing, creating a crisis across multiple sectors." The imposition of tariffs on allies such as Japan, South Korea, and Europe has not only strained diplomatic relations but is also compelling these nations to invest in the U.S. under unfavorable terms, further alienating them and accelerating their pivot towards multipolar institutions.
+  Meanwhile, U.S. economic coercion is facing diminishing returns. According to **Glenn Diesen** and **Michael Hudson**, the shift towards a multipolar world has enabled countries to diversify their economic partnerships, reducing U.S. leverage over both allies and neutral states. This trend is most evident as traditional U.S. partners in Europe and Asia increasingly explore closer ties with BRICS and the Shanghai Cooperation Organization, seeking alternatives to U.S.-centric trade and investment frameworks.
   
-  Meanwhile, the recent SCO and BRICS meetings have reinforced the emergence of a robust alternative to U.S.-led systems. Major powers like China, Russia, and India are actively building new frameworks for trade, investment, and security cooperation, which are increasingly attractive to countries seeking to reduce their dependency on the U.S. dollar and American markets.
+  On the domestic front, the U.S. economy is experiencing mounting strain from Trump-era policies. **Michael Hudson** points out that trade wars, tariffs, and tax cuts have undermined key sectors such as agriculture and manufacturing, fueling inflation and exacerbating affordability crises in housing and consumer goods. This internal economic turbulence is likely to persist, with a high chance that it will further erode U.S. influence abroad as allies seek more stable economic arrangements.
   
-  Looking ahead, the prevailing consensus among analysts is that the multipolar trend will intensify. There is high confidence that U.S. efforts to maintain dominance through economic pressure will continue to backfire, driving more states into the orbit of alternative blocs. As **Michael Hudson** concludes, "the shift from a unipolar to a multipolar world has altered the dynamics of US economic coercion," and this realignment is most definitely set to accelerate in the coming months.
+  Looking ahead, the majority of analysts agree that the momentum behind the multipolar bloc—anchored by China, Russia, and India—will continue to grow. I guarantee that Global Majority countries will accelerate efforts to establish independent trade, monetary, and military systems, further challenging U.S. dominance. The U.S., in turn, is expected to double down on efforts to extract economic concessions from its allies, but with diminishing effectiveness as the international system becomes increasingly dualistic.
+  
+  In summary, the prevailing trend is a steady erosion of U.S. economic and strategic leverage, matched by the rise of alternative blocs and systems. This realignment is set to define the coming period, with high confidence that the global order will become more fragmented and contested.
 articles:
+  - title: Who Plans the Economy?
+    url: https://michael-hudson.com/2025/10/who-plans-the-economy/
+    text: 'RADHIKA DESAI: Hello and welcome to a new season of Geopolitical Economy
+      Hour, the show that explores the fast-changing political and geopolitical economy
+      of our time. We are beginning this new season with our 50th episode. I’m Radhika
+      Desai, and joining me today is one of our regulars and favorites, indeed, the
+      person with whom I inaugurated this show, Professor Michael Hudson. Welcome again,
+      Michael. ⁣MICHAEL HUDSON: Good to be back here. ⁣RADHIKA DESAI: Great. Now, as
+      we record this, the Federal Open Markets Committee of the U.S. Federal Reserve,
+      whose decision set interest rates, has just finished its six-weekly meeting. And
+      as some of you may know, they have agreed to decrease interest rates, the first
+      decrease this year, by 25 basis points. Not a big move, but the fact is the Federal
+      Reserve has been the focus of a lot of controversy recently. And much of the controversy
+      comes from Donald Trump. Anyone paying the slightest attention to the news these
+      days cannot have failed to notice that Trump has a thing about the Federal Reserve,
+      an itch, shall we say, one that he can’t help scratching. He’s called Powell a
+      numbskull and too late – which is to say he’s, according to Trump, always too
+      late to lower interest rates – while demanding that Powell reduce interest rates.
+      He undertook a theatrical visit to the renovations of the Federal Reserve’s Marriner
+      Eccles building, disputing a difference of $300 million in costs in front of TV
+      cameras, as if this few million dollars were consequential in a country whose
+      debt is shooting north of 150% and 37 trillion US dollars. It’s long been clear
+      that he’s not going to renew the tenure of the current chair Jerome Powell and
+      has already used the early retirement of one governor to place a loyalist on the
+      board. And while he has recently named four candidates that he is considering
+      for the position of chair, speculation rages far wider. So some people are talking
+      about more than 10 candidates. In yet another salvo at the Federal Reserve, Trump
+      has, of course, tried to fire one of its governors, Lisa Cook, for cause he says,
+      but so far he’s been unsuccessful with the most recent legal ruling, leaving her
+      in place for today’s critical Federal Open Markets Committee meeting. So many
+      questions arise from this. While economists loyal to Trump have been publishing
+      papers and writing commentaries on the Federal Reserve’s problematic easy money
+      policies, Trump actually demands that the Federal Reserve keep monetary policy
+      easy. So is there a coherent Trump administration policy towards the Federal Reserve?
+      Secondly, while Trump wants the dollar to remain the world’s currency, he also
+      seems determined to undermine the much doubted independence of the Federal Reserve.
+      So even as the easy money he wants certainly ensures that the Federal Reserve
+      will not be able to rein in inflation, a standing threat to the dollar system.
+      Inflation raises yet another question. While general inflation remains high –
+      and it has gone up ahead of this meeting despite low energy prices – driven by
+      high food prices, undoubtedly a result of Trump’s own tariffs, and core inflation
+      – that is inflation discounting volatile food and energy prices – also remains
+      high, Trump, on the one hand, continues to insist that he has brought down living
+      costs, meanwhile ensuring that nothing that the Federal Reserve does will reduce
+      it. And then there’s the matter of cryptocurrency. With the passage of the Genius
+      Act, a whole new set of assets, very dodgy assets, namely cryptocurrency, which
+      any sane analyst would consider highly volatile, risky, and inherently speculative,
+      have been given the imprimatur of government regulation. This means that one way
+      or another, these assets will enter the financial system and become one more thing
+      in the everything bubble, taking the fragility of the U.S. financial system, which
+      is already at breaking points, even closer to it. Any crash that now occurs can
+      only consign the dollar system to the dustbin of history, as we’ve discussed so
+      many times, Michael. So Michael, what’s your favorite drive about this morass
+      of contradictions in which Trump is only further muddying with his attacks on
+      the Federal Reserve? Go with whatever is on the top of your head because there’s
+      so much to discuss. We can start anywhere. ⁣MICHAEL HUDSON: Trump’s head is full
+      of junk economics. He wants to depreciate the dollar. He wants the dollar’s exchange
+      rate to go down because he imagines that this will make U.S. exports more competitive.
+      As the dollar goes down, its price against European currencies and foreign currencies
+      gets cheaper. The problem is America has been deindustrialized over the last 30
+      years, and there’s not that much to export. And by lowering interest rates, what
+      he’s actually doing is the exact opposite of what his Secretary Treasurer Scott
+      Bessent, has done. It’s as if he wants to go back to the zero interest rate policy
+      of making money by debt leveraging, by inflating the prices of stocks and bonds
+      because you can borrow inexpensively from the banks and you can buy a stock whose
+      dividends are higher or a bond whose rates are higher. He wants to make the economy
+      safe for speculators again because they’re his constituency, after all. Well,
+      here’s the problem. The sane people on Wall Street, I guess the 1%, or people
+      like you and me, are criticizing him from the point of view of what’s the independence
+      of the Federal Reserve. If you have Donald Trump intervening in Federal Reserve
+      policy, micromanaging under his imagination of how the Federal Reserve affects
+      policy, or his pretense or cover story for serving his campaign contributors,
+      then you’re going to have instability and probably inflation. And of course, Trump
+      pretends that he’s against inflation. But as you’ve just pointed out, tariffs
+      are increasing inflation. And his vast, wonderful budget cuts (budget deficit),
+      by slashing taxes on the wealthiest 10% and raising them on the bottom 90%, are
+      going to inflate the economy. So he’s sort of overseeing instability. And the
+      question for many years – there’s been this mantra for the last century: the central
+      bank has to be independent because central banks are responsible. And we all know
+      that governments are irresponsible because they’re elected and they’re democratic
+      and they want to spend money for welfare into the economy, and that’s inflationary.
+      And they want full employment, and that’ll push up wages. Instead the Fed’s job,
+      ever since Paul Volcker, is to create enough unemployment to prevent wages from
+      going up. What’s wrong with this picture, again, as you and I have discussed,
+      is the Federal Reserve serves its member banks, the commercial banks. And if there’s
+      any sector of the economy that’s more irresponsible, it’s the banking sector,
+      because that’s what’s led to the financialization of the economy and the deindustrialization
+      and the incredible debt overhead that we have today. So there’s no reason to believe
+      that the Federal Reserve is more responsible than the government. I’m not saying
+      the government’s responsible because the same Wall Street billionaires that control
+      the banks control the government itself. So you’re going to lose either way around.
+      So the problem is: the Federal Reserve has taken over from Congress the management
+      of the whole economy. And as you and I have discussed, and I think you will today,
+      trying to manage the economy just by affecting interest rates by buying and selling
+      securities by open market operations is only one sliver of the economy and it
+      misses the whole big picture, which is all about industrialization. how you organize
+      what corporations are going to do with the revenue they get, are they going to
+      buy the stock back their stock and push up stock prices and pay out dividends,
+      or are they going to invest long term. That’s really what it’s all about, and
+      the Federal Reserve is not concerned with that at all. It’s just concerned about
+      providing money to the banks and banks don’t lend money into the real economy,
+      they lend money for stocks and bonds for financial speculation and you could look
+      at the Federal Reserve as the implementer of the Ponzi scheme into which the United
+      States economy has degenerated. ⁣RADHIKA DESAI: Well, you’ve made so many different
+      points so let’s just take them by turn. First of all, let’s take the whole issue
+      of the so-called independence of the Federal Reserve. Now you know, at one level,
+      in the post-Second World War period for the first several decades, it was actually
+      assumed that monetary policy was just one of the instruments in the hands of governments,
+      elected governments, to keep the economy going, etc., so it was not assumed that
+      that central banks would have to be independent. The independence of the central
+      banks has become a mantra and has become this rule of thumb, this principle that
+      cannot be violated, only in the age of financialization. So when you said, Michael,
+      a couple of things that already suggested this, which is that what the Federal
+      Reserve has done over the last several decades is essentially inflate asset bubbles.
+      It has essentially lent money primarily to financial institutions, not so that
+      the financial institutions will invest in the real economy. That possibility has
+      already been thrown out of the window by the Federal Reserve in its role as the
+      regulator of the financial sector, essentially because for decades, going back
+      to certainly the early 80s, if not earlier, every time there has been any kind
+      of a regulatory problem, the default position has always been to deregulate, not
+      to re-regulate. We can discuss that further, but there has been deregulation.
+      The Federal Reserve essentially lends money to banks, which then use it for asset
+      price inflation and so on. The easy money policy, particularly since the early
+      part of this century, has been instrumental; first in blowing the housing and
+      credit bubbles, which burst in 2008, and now in blowing up this everything bubble
+      we are in. So essentially the independence of the Federal Reserve, what it actually
+      amounts to, the so-called independence of the Federal Reserve effectively means
+      regulatory capture. That is to say, the regulator becomes captured by those it
+      is supposed to regulate. It’s like essentially asking the fox to defend the chicken
+      coop. It’s not going to happen. So, essentially, that’s why financial interests
+      have been in the lead. You said something else that’s really interesting, and
+      that is that in recent decades there has not been any serious fiscal policy. What
+      there has been is only monetary policy posing as the only form of management of
+      the government. And in my own writing, in my geopolitical economy, where I track
+      the financial policies and the monetary policies of the Federal Reserve, particularly
+      in relation to the dollar system but also in relation to the management of the
+      U.S. economy, what I discovered is that, certainly by the Clinton administration,
+      if not earlier, there was basically no serious fiscal policy. The only fiscal
+      policy was that Republican administrations would always reduce taxes on big corporations.
+      Then Democratic administrations would come in; they would not touch it but they
+      would engage in fiscal consolidation, essentially by cutting social services and
+      so on, which Republican administrations also did. And then the next Republican
+      administration comes in and reduces taxes further. So, essentially, what this
+      has also done, of course, is vastly increase the debt mountain of the United States.
+      Because while you are cutting social services to some extent, it’s not nearly
+      enough to account for the revenue you are foregoing by giving corporations big
+      tax cuts. So for the last many decades, what we have had in terms of economic
+      management was simply monetary policy. And this really began with Alan Greenspan,
+      and that’s why Alan Greenspan was himself called the maestro, as though he was,
+      as a kind of superstar conductor, conducting the orchestra that was the U.S. economy
+      with the slightest movements of his little baton. But of course, in reality, what
+      you had was essentially a situation in which they gave up trying to manage the
+      U.S. economy. They gave up trying to preserve the productive character of the
+      U.S. economy. They, in fact, encouraged things like outsourcing, financialization,
+      etc. So they have essentially destroyed the U.S. economy, made it an economy based
+      on consumption, etc. So, in all of these ways, what you’ve seen is that monetary
+      policy has displaced any fiscal policy and thereby hangs many other threads. ⁣MICHAEL
+      HUDSON: They’ve not only deregulated monetary policy, they’ve deregulated crime.
+      President Obama appointed Eric Holder as Attorney General, and Holder said, it’s
+      true that there was an enormous crime wave that’s led to the financial crisis;
+      junk mortgage lending, the banks have falsified mortgage statements, the appraisers
+      have falsified them, the brokers have falsified them, there have been billions
+      of dollars, and we have a choice. As a result of this financial fraud, the mortgages
+      of about 8 million American families are way overpriced beyond the ability to
+      pay. What are we going to do? Well, we have a choice: either we can write down
+      the debts, as President Obama had promised, to the reasonable, realistic value
+      of their houses and enable these families to be saved from the exploitation of
+      the banks, or we can prosecute the bankers and throw them in jail. But there’s
+      a problem with that. These bankers, most of them, are married with children, and
+      their children and wives are innocent. And it would be wrong to hurt their innocence
+      because if you look at the value of the life and the family happiness of a multi-billionaire,
+      10 billionaires are worth the 8 million Hispanic and black and other families
+      that we’re expropriating. So we’re not going to punish anybody. In fact, what
+      we’re going to do is turn to the Federal Reserve and say, make sure that, although
+      the banks are insolvent because they’ve lent much more money than the debtors
+      can pay, we’re going to create the largest financial boom in history, the largest
+      bond market boom in history, by slashing interest rates from the current highs
+      all the way down to less than 1%, which is going to enormously increase the capitalization
+      of bonds and stocks. And so Obama appointed Federal Reserve Chairman Ben Bernanke
+      as Fed chairman, and then Janet Yellen. And their job was to prevent the banks
+      from writing down the debt to what could be paid and, say, our job is to not to
+      stabilize consumer prices, but to make sure that we stabilize and prevent asset
+      prices for stocks and bonds and real estate from going down. Because if the economy
+      is so highly leveraged and banks have lent out so much money relative to their
+      capital reserves, if prices go down even a little bit, one or two percent, you’ve
+      wiped out the equity of the largest bank customers, the largest speculators, and
+      the banks themselves will go under. And so the head of the Federal Reserve Deposit
+      Insurance Corporation said, you know there’s one really crooked, incompetent bank;
+      that’s Citibank. It’s so reckless that we’ve got to foreclose on it. And Obama’s
+      Treasury Secretary, Tim Geithner, said, no, no, my job is to save Citibank. You
+      know, they’re the people who put me in power. And hey, Mr. Obama, they have put
+      you in power through Clinton’s Treasury Secretary. So you have the banks running
+      the justice system and the prosecution system, as well as the financial system.
+      And the common aim of all of them is to make sure that the banks will not lose
+      money by writing down the debt that you’ve just described as growing. If you don’t
+      write down the debt and it accrues interest and is growing and growing and growing,
+      then you have to create more and more and more money at lower and lower interest
+      rates to carry this higher debt. That’s what a Ponzi scheme is. You need new entrants
+      into the scheme to provide the money to bail out the early investors, or the whole
+      scheme fails. That’s what the United States economy has turned into, and that’s
+      what the independence of the Federal Reserve means. Don’t let anyone, or the prosecution
+      system, or laws against fraud, or even common sense, interfere with creating an
+      economy that makes money by financial speculation, not by industrial investment.
+      We’re not an industrial economy anymore. ⁣RADHIKA DESAI: Well, exactly. And you
+      know what, Michael, Look at this. We’ve shown this chart before, but this is the
+      chart of the Federal Reserve’s balance sheet. As you know, it went from under
+      a trillion dollars to about $2 trillion in the aftermath of the 2008 financial
+      crisis. And then, with a series of rounds of quantitative easing, it went up to
+      above $4 trillion. And then, with the pandemic, it went up to $9 trillion. So,
+      what is all this? This is essentially the Federal Reserve itself entering the
+      market of various speculative assets. The Federal Reserve itself has become essentially
+      an agent to preserve the value of the speculative assets of the various bankers
+      and what have you. And there’s another thing, what’s really interesting insofar
+      as the stock market is supposed to be democratic and so on – allow everybody to
+      make money. Well, another thing that’s happening, in addition to what you were
+      just saying, is that actually the number of publicly listed companies is shrinking.
+      More and more companies are owned by private equity, which is essentially elite
+      clubs of investors who have inside knowledge about what can turn a profit and
+      what can’t turn a profit. Knowledge which they refuse to make public and so that
+      they can privately, as members of this club, benefit from these lucrative investments
+      and not allow the ordinary investor, the retail investor, to come in. That’s another
+      really fascinating thing that has been happening. And now, of course, the Trump
+      administration is allowing even greater kinds of forms of club-like behavior.
+      So, the few companies that remain publicly listed, Trump has recently suggested
+      that their reporting responsibilities – they should no longer be held to quarterly
+      reports. They can go down to semi-annual reports once in six months. So this again
+      restricts the amount of information that is available for the retail investor.
+      In so many ways, the Ponzi character of this system, in which essentially there’s
+      a pecking order in which the rich continue to get rich, while ordinary people
+      have no purchase on the system. And as far as things like pension funds are concerned,
+      they are typically the bodies whose enormous amounts of money that they have forms
+      essential “throw weight” in the financial system. It is used as “throw weight.”
+      But, of course, whenever there is any gain, they gain the least, and whenever
+      there is any loss, they lose the most. ⁣MICHAEL HUDSON: Could you put that chart
+      up again? I want to show it actually shows a radical unprecedented development
+      of the Federal Reserve. You see at the very beginning of the chart that flat line.
+      Yes, that flat line goes back a century, just as flat as it is then. And that
+      flat line is how central banks all over the world have acted for a century. They
+      intervene to buy and sell government bonds overnight in the short term, simply
+      to affect interest rates up and down. There is no long-term accumulation. What
+      happened when you had the jump in 2008 that you show, and the jump that continued
+      all the way through that period, is for the first time, the Federal Reserve began
+      to be a huge investor itself. It bought enough stocks and bonds, not only government
+      bonds, but corporate bonds, not only corporate bonds, but junk bonds, to push
+      up their prices. And so you have an enormous inflow of money not to be spent on
+      goods and services, as you’re taught in school, but to buy stocks and bonds. The
+      Fed creates money to inflate asset prices. It creates money for stocks and bonds
+      and real estate purchases, not for consumer spending at all. This whole idea of
+      Fed money creation that affects consumer prices is just a fiction. When you look
+      at that chart, you realize what they really create money for. And that was revolutionary.
+      ⁣RADHIKA DESAI: Absolutely. Michael, one of the things we want to discuss, is
+      exactly what the Trump administration wants out of the Federal Reserve. Trump
+      himself has said such contradictory things. On the one hand, he says that he wants
+      the dollar to be strong and the dollar system to work, etc. And of course, it
+      was expected early on when Trump started announcing his tariffs, that tariffs
+      were going to increase the value of the dollar. But what you’ve seen here, from
+      the time Trump has taken office, the value of the dollar has gone down consistently.
+      Some say that it has lost some 10% of its value, and this is one chart which shows
+      the ups and downs. And here’s another one, which just shows essentially the broad
+      dollar index, which again reaches a peak in January 2025 and since then has been
+      in decline. So the dollar has just continued to decline. And of course, everybody
+      who doesn’t like Trump says that it is Trump’s fault. But I think that the situation
+      is much more complicated. Part of the reason the dollar is declining is because
+      of inflation. Now, mind you, tariffs have contributed to inflation, but inflation
+      was going up even before Trump took office. And at the same time, the Federal
+      Reserve finds it very difficult to deal with this inflation because the only way
+      in which the Federal Reserve will permit itself to deal with inflation is by raising
+      interest rates. But if it raises interest rates much more than it has already
+      done, then it is in serious danger of pricking all the asset bubbles, the so-called
+      everything bubble. Again, here is the chart of the federal funds rate going back
+      to 1955. This is the Volcker peak. But the Federal Reserve can’t do a Volcker
+      anymore because, back then, when Volcker increased interest rates, he didn’t have
+      to worry about asset bubbles, which would burst. Whereas what we see here, for
+      example, is a series of interest rate increases, which were essentially forced
+      on the Federal Reserve because the dollar was going down. So it had to restore
+      the value of the dollar. So they started increasing interest rates and the moment
+      they went slightly beyond 5%, that triggered all those processes that led to the
+      crash of the North Atlantic financial bubble, so to speak. So it led to the North
+      Atlantic financial crisis. And similarly, we see again here today that we are
+      already at that point of just a little over 5%, which is why, although inflation
+      remains high, the Federal Reserve daren’t raise interest rates more. Indeed, now
+      what they are doing, in fact, is they are bringing it down. Now, Trump says that
+      the Federal Reserve doesn’t want to decrease interest rates, and that Trump is
+      advocating for decreasing interest rates. But you know what? The Federal Reserve,
+      Jerome Powell, and most of the Federal Market Committee would like nothing more
+      than to decrease interest rates because they want asset inflation to continue.
+      But they have been forced to at least keep interest rates as high as they are,
+      at which they have come over the last two or three years, because inflation is
+      not going away. The Federal Reserve is caught in a bind; that’s why they are keeping
+      up this higher for longer. In a certain sense, I suppose what I’m trying to say
+      is that Trump just wants to look like the person who caused interest rates to
+      decrease and as though they care about the real economy. But, of course, what
+      Jerome Powell, as well as Trump, what they all care about merely, is the continuing
+      inflation of asset bubbles. ⁣MICHAEL HUDSON: That’s right. ⁣RADHIKA DESAI: And
+      then the other thing that I would add to that is that; the independence of the
+      Federal Reserve, which is allegedly in question – Scott Besant, the Treasury Secretary,
+      recently published this article, in which he criticizes the easy money policies
+      of the past. Now he may want to criticize it, but the fact of the matter is Trump
+      wants the continuation of these easy-money policies. I think that the real effect,
+      whether it’s intended or otherwise, of interventions like Scott Besant’s – this
+      article is being much talked about – will be essentially to establish that the
+      Federal Reserve has never been truly independent. And if today the Trump administration
+      appears as though it is infringing on the independence of the Federal Reserve,
+      this is no different from what happened in the past. In one sense, that’s true,
+      because all monetary policy is political, and the independence of the Federal
+      Reserve, as we’ve already said, is only to leave the regulation of the financial
+      sector in the hands of the financial sector. So, and that’s a silver political
+      action [Please clarify]. The point is that he is basically establishing a new
+      norm where Federal Reserve policy is political. And I think the only purpose of
+      making it political is to give Trump the credit for keeping interest rates low.
+      ⁣MICHAEL HUDSON: The article that Besson wrote is really – I’m very happy with
+      it. It’s made wonderful, wonderful points, such as we’ve made for many years.
+      And he called the title of the article: The Fed’s New Gain of Function Monetary
+      Policy. Gain of function is the term that was used for the coronavirus that’s
+      come out and a pandemic. And he’s treating Federal Reserve policy as a pandemic.
+      And the gain in function has been a mutation of Federal Reserve policy, which
+      we’ve just discussed, in saving the financial debt overhead of the economy, not
+      the economy itself. And he goes to a long discussion of how the effect of making
+      money financially, as you pointed out earlier, the leading financial sector investors
+      are multi-tens of billionaires, and their way of making money is to deindustrialize
+      the economy, not to industrialize it. And I think we’ve shown before the growth
+      of wealth in the economy. Here’s the wealth of the bottom 50%. The bottom 20%
+      has actually gone down. All of the growth in the wealth of the American economy,
+      all this growth has been in the form of stock, bond, and real estate held by the
+      10%. It’s the 10% that hold the vast majority, over 75%, of the stock market and
+      the bond market. The 90% people, except maybe via their retirement funds, don’t
+      have bonds and stocks. Only a very minimum compared to the super wealthy. And
+      the beneficiaries of this asset price inflation thus have been the very top of
+      the economic pyramid. And they’ve used this increasing financial wealth to increase
+      their control of the election process by contributing to campaigns. Now that you’ve
+      deregulated the political campaign contributions in America, as well as the banks,
+      and they’ve essentially bought control. And so the Federal Reserve celebrates
+      this as success. They said, we’ve created wealth, but almost all the wealth they’ve
+      created, 90%, has been to the wealthiest 10%, not for the economy as a whole.
+      And if most wealth takes the form of financial claims on debtors; mortgages, bank
+      loans, corporate bonds, and government bonds, then the creation of wealth on the
+      asset side of the balance sheet means the creation of debt on the liability side
+      of the balance sheet. And the wealthiest 10% have the assets; the 90% have the
+      debt. And the effect has been to polarize the economy. And I think Besant deserves
+      credit for pointing out that this has been the whole effect of the Federal Reserve
+      asset price inflation. It’s been inequality and unemployment and deindustrialization,
+      the exact opposite of what textbooks imagine; that the financial sector is only
+      an intermediary, it doesn’t have any effect on the economy. It just reflects that
+      it’s the driving shaper of the economy. And it’s been misshaping it all throughout
+      the United States and Europe and the Western economies in general. ⁣RADHIKA DESAI:
+      Let me say that all the truths that Scott Besant has spoken in his article are
+      no different from the truths that Trump had to speak in order to get elected.
+      Remember, it’s been my argument for a long time that Trump discovered one thing,
+      which is that you can no longer win elections by telling people that their economy
+      is doing very well. He told them the truth; it’s not doing well. We agree with
+      that, but, of course, Trump told them the truth only in order to get elected and,
+      of course, he thenmixed that with lies, for example the fact that he said to them
+      that the economy is not doing well because of trade and because of immigrants
+      and so on. All of those things were, of course, lies, so Trump has just a different
+      package of truth and lies. In Scott Bessent’s new package of truth and lies, I
+      think the key point you have to understand is that he is only telling the truth
+      about the inequality generated by the Federal Reserve not so that this will put
+      a stop to it, because of course he himself would favor, as his president would
+      favor, lower interest rates. What is going to be the effect of lower interest
+      rates? The effect of lower interest rates will be to further inflate asset bubbles
+      and to postpone the moment of reckoning. Let me just share a really interesting
+      chart that I found. This is a chart of the major asset markets in the United States.
+      You can see here there are equities, residential real estate, treasury securities,
+      commercial real estate, farmland, and so on. Now, what you see here on this chart
+      is the average annual growth from 1997 to 2004. They are not small but they are
+      not huge. But then you look at the growth just between 2023 Q4 to 2024 Q4. Within
+      just one year, these asset markets, some of them like the equity market and so
+      on, have been growing massively. Whereas all the other asset markets have grown
+      less. And the commercial real estate market has actually shrunk to some extent.
+      So what is really interesting here is that now, in a sense, a crash will be coming
+      because all these markets are already slowing their growth. The equity market
+      is going up without any support. It’s going up and up, but what is it climbing
+      on? It’s getting high on something else because, as we know, the entire stock
+      market is being taken up by the Magnificent 7 and a few other such stocks. And
+      most of the Magnificent Seven inflation in the prices of the equities has been
+      because of the hype around AI. And it is increasingly dawning on people that the
+      astronomical investments being made in the name of AI are not going to be lucrative.
+      They are already not yielding stuff. So a crash will be coming. But the point
+      is that, in the meantime, they want to continue to have low interest rates. So
+      Besant might complain about the easy money policy. Maybe they will not engage
+      in quantitative easing and so on. But they will keep interest rates low. The point
+      is that he wants to say that Federal Reserve policy has always been political,
+      and he wants to say, therefore, that we are going to politicize it. And once that
+      happens, then Trump will do what has been done in the past, which is to justify
+      low interest rates in the name of economic growth, when, in fact, he wants low
+      interest rates in order to keep asset prices up. ⁣MICHAEL HUDSON: I agree. That’s
+      exactly what’s been happening. People act as if the growth of wealth and the growth
+      of the 10% are what the economy is all about. And for the Federal Reserve, that’s
+      what the economy is all about, because that’s its constituency, because the wealthiest
+      10% are the customers for the bank loans. And the Federal Reserve is created to
+      be managed and run by its member banks. So you have a closed circle. And as long
+      as Congress remains inactive and is unwilling to do anything except to cut taxes
+      even more, to run an even larger budget deficit that adds to the effect, you can
+      have Trump make the argument that if we don’t lower the interest rate, imagine
+      how much of the government debt’s interest rate – the budget is going to have
+      to be spent on interest to the bondholders. And this is already almost as large
+      as our military spending. This is going to create a crisis. We’re going to have
+      to cut social security and cut Medicare, but there’s a solution to that because
+      we can privatize social security and put it all into the stock and bond market
+      to keep the Ponzi scheme going. ⁣RADHIKA DESAI: I’m just showing exactly what
+      you’re talking about Michael, which is that the yield on treasuries both one year
+      and 30 years, so very short term and very long term, has been going up and they
+      are now at fairly high rates. This is really, also quite interesting and they
+      are adding to the debt, the deficit, etc., which will continue to grow because
+      the Trump administration is committed to cutting taxes for rich people, etc. Another
+      point that I just wanted to make, but essentially what is happening now is that
+      the idea that the Federal Reserve should be independent is being buried and now
+      we will have a new type of rhetoric, which will continue the same policies of
+      inflating asset bubbles. They were not going to revive the American economy, just
+      as the tariffs are not going to revive it, nor will low interest rates revive
+      the American economy, as I’ve already said at the beginning. The insertion of
+      cryptocurrency has simply added a new asset whose value can be inflated, on the
+      basis of which a small number of rich people can make money while the rest of
+      the economy suffers. And this is going to continue. ⁣MICHAEL HUDSON: Well, the
+      real point you’re making: it’s the government that needs to be made independent
+      from the financial sector. That’s the real independence we’re talking about. And
+      that’s the problem. Under America’s two-party system, you can only have two parties.
+      There’s such a tangle of laws that there’s no way of having an alternative to
+      the Republican-Democratic duopoly. And so Congress itself is no more independent
+      than the Federal Reserve is from Wall Street. And the result has been to shift
+      economic policy, meaning economic planning, to the financial sector. Out of Washington
+      into the financial sectors, Wall Street, and also the Chicago Mercantile Exchange.
+      And so the result of all that is the financialization of the economy and a loss
+      of what used to be the whole dynamic of industrial capitalism and the whole idea
+      of industrial democracy. If Wall Street’s in control, this means not a market
+      free of government planning and centralization. Financial planning is more centralized
+      than government planning. That’s why Trump’s been firing all of the government
+      regulatory agencies. With no regulatory agencies, there’s nothing to prevent the
+      financial sector from becoming the economy’s central planner. And that’s what’s
+      happened in a nutshell to the US economy ⁣RADHIKA DESAI: So what you’re saying
+      is that we will have a centrally planned economy, except that it will not be planned
+      in the interests of ordinary people, it will be planned in the interests of a
+      small number of very rich people, the Elon Musks of this world. And this is so
+      true. I suppose what we’ve really said is that the rhetoric about the independence
+      of the Federal Reserve has always been a way of keeping Federal Reserve policy
+      away from democratic influence. The idea being that, of course, as long as you
+      have some kind of democracy then at least you can elect a government which can
+      politically try to control the Federal Reserve, to bend its policy in the direction
+      that will help ordinary people, that will create a productive economy, etc. But,
+      of course, what you’re adding to this is that, of course, the existing democratically
+      elected governments of the last many decades, and still today, are simply themselves
+      in the pockets of the financial sector. So there’s no way the elected government
+      is going to control the Federal Reserve in a way that will benefit ordinary people.
+      The point is not that the Federal Reserve is not independent, it’s not factually
+      independent anyway. The problem is that it is under the control of the wrong interests.
+      And if ordinary people in the United States want to take control over the destiny
+      of their country, they are going to have to elect a government that is not part
+      of this duopoly, that will actually represent the interests of ordinary people.
+      And then, yes, there will be no need for an independent Federal Reserve. The government
+      will essentially bend monetary policy. A popularly elected government acting in
+      the popular interest will bend monetary policy in the direction that it needs
+      to go in order to create a productive, equal, socially just economy. And, of course,
+      an ecologically sustainable economy. ⁣MICHAEL HUDSON: I think you’re quite right.
+      A democracy, unlike an oligarchy, would centralize financial management in the
+      hands of the Treasury, which is a public, elected political agency, not a central
+      bank. The United States didn’t have a central bank until 1913. The problem is
+      that the Treasury itself is mismanaging the economy because it was run by basically
+      bullionists, by gold bugs. And whenever the Treasury would raise a surplus, like
+      for tariffs, the tariffs had to be paid in bullion, gold and silver bullion, not
+      by bank credit. And there was such an antagonism towards banks in the United States
+      from colonial times, from the beginning of the Republic to the 1880s, with the
+      whole silver, gold crisis, crucified on a cross of gold, that Americans didn’t
+      want the banks to create money. And there was such a shortage of actual credit
+      that an economy needs that, in an act of desperation, the Republicans and Democrats
+      got together and said, we need bank credit. We can’t have these libertarian nuts,
+      bullionists, at the Treasury tie our hands. That was the story of how the Federal
+      Reserve was created in the first place. ⁣RADHIKA DESAI: There was that, but I
+      think there were also some other things. The fact of the matter is that the United
+      States dollar was not acceptable around the world because it didn’t have a central
+      bank, whose function it would be to stabilize the value of the dollar. And of
+      course, in the recent years, in the post-Second World War period, partly because
+      the United States government has been committed to keeping the dollar as the world’s
+      money, what you’ve actually seen is a systematic overvaluation of the U.S. dollar,
+      which has then been a disaster for American industry. It has been central to the
+      deindustrialization of the United States. But nevertheless, my point is that the
+      Federal Reserve was also necessary because otherwise your currency would never
+      be acceptable. Before the Federal Reserve was created, the international transactions
+      of the American government and other corporations were being handled via JP Morgan
+      and handled in pounds sterling, which was kind of interesting. There was another
+      thing, which is that when you had banking crises, and there was a big banking
+      crisis in 1907, there was no lender of last resort. So they had to create one.
+      So there were many reasons. But yes, the fact is that you had to create a Federal
+      Reserve in order to perform these functions. ⁣MICHAEL HUDSON: Yes, but at least
+      at that time, the lender of resort, when it did lend money to banks to avoid insolvency,
+      it charged a penalty rate. That was the essence of management. And now the Federal
+      Reserve gives a subsidized rate, just the opposite of what happened over a century
+      ago. ⁣RADHIKA DESAI: Exactly. Well, Michael, it’s been a wonderful conversation.
+      Unless you have any further things to add, maybe we should wind it up for now.
+      Okay, great. Thanks. Bye. Transcription and Diarization: hudsearch Editing: Kris
+      Liti Review: ced Photo by Mike Hindle on Unsplash The post Who Plans the Economy?
+      first appeared on Michael Hudson .'
+    one_sentence_summary: In the 50th episode of Geopolitical Economy Hour, Radhika
+      Desai and Professor Michael Hudson discuss the recent decision by the U.S. Federal
+      Reserve to decrease interest rates, highlighting the controversy surrounding the
+      Fed, particularly in relation to Donald Trump.
+    paragraph_summary: In the latest episode of "Geopolitical Economy Hour," host Radhika
+      Desai and guest Professor Michael Hudson discuss the recent decision by the U.S.
+      Federal Reserve to decrease interest rates by 25 basis points, marking the first
+      reduction of the year. They highlight the ongoing controversy surrounding the
+      Federal Reserve, particularly fueled by former President Donald Trump's criticisms
+      of Chair Jerome Powell, whom Trump has labeled as ineffective. Trump's theatrical
+      engagement with the Fed, including a public dispute over renovation costs, underscores
+      his dissatisfaction and intentions to influence its leadership, as he considers
+      multiple candidates to replace Powell. The episode reflects on the broader implications
+      of these developments within the context of the U.S. economy, which is grappling
+      with significant debt levels.
+    published: '2025-10-06T11:30:58+00:00'
+  - title: Who Plans the Economy?
+    url: https://michael-hudson.com/2025/10/who-plans-the-economy/
+    text: 'RADHIKA DESAI: Hello and welcome to a new season of Geopolitical Economy
+      Hour, the show that explores the fast-changing political and geopolitical economy
+      of our time. We are beginning this new season with our 50th episode. I’m Radhika
+      Desai, and joining me today is one of our regulars and favorites, indeed, the
+      person with whom I inaugurated this show, Professor Michael Hudson. Welcome again,
+      Michael. ⁣MICHAEL HUDSON: Good to be back here. ⁣RADHIKA DESAI: Great. Now, as
+      we record this, the Federal Open Markets Committee of the U.S. Federal Reserve,
+      whose decision set interest rates, has just finished its six-weekly meeting. And
+      as some of you may know, they have agreed to decrease interest rates, the first
+      decrease this year, by 25 basis points. Not a big move, but the fact is the Federal
+      Reserve has been the focus of a lot of controversy recently. And much of the controversy
+      comes from Donald Trump. Anyone paying the slightest attention to the news these
+      days cannot have failed to notice that Trump has a thing about the Federal Reserve,
+      an itch, shall we say, one that he can’t help scratching. He’s called Powell a
+      numbskull and too late – which is to say he’s, according to Trump, always too
+      late to lower interest rates – while demanding that Powell reduce interest rates.
+      He undertook a theatrical visit to the renovations of the Federal Reserve’s Marriner
+      Eccles building, disputing a difference of $300 million in costs in front of TV
+      cameras, as if this few million dollars were consequential in a country whose
+      debt is shooting north of 150% and 37 trillion US dollars. It’s long been clear
+      that he’s not going to renew the tenure of the current chair Jerome Powell and
+      has already used the early retirement of one governor to place a loyalist on the
+      board. And while he has recently named four candidates that he is considering
+      for the position of chair, speculation rages far wider. So some people are talking
+      about more than 10 candidates. In yet another salvo at the Federal Reserve, Trump
+      has, of course, tried to fire one of its governors, Lisa Cook, for cause he says,
+      but so far he’s been unsuccessful with the most recent legal ruling, leaving her
+      in place for today’s critical Federal Open Markets Committee meeting. So many
+      questions arise from this. While economists loyal to Trump have been publishing
+      papers and writing commentaries on the Federal Reserve’s problematic easy money
+      policies, Trump actually demands that the Federal Reserve keep monetary policy
+      easy. So is there a coherent Trump administration policy towards the Federal Reserve?
+      Secondly, while Trump wants the dollar to remain the world’s currency, he also
+      seems determined to undermine the much doubted independence of the Federal Reserve.
+      So even as the easy money he wants certainly ensures that the Federal Reserve
+      will not be able to rein in inflation, a standing threat to the dollar system.
+      Inflation raises yet another question. While general inflation remains high –
+      and it has gone up ahead of this meeting despite low energy prices – driven by
+      high food prices, undoubtedly a result of Trump’s own tariffs, and core inflation
+      – that is inflation discounting volatile food and energy prices – also remains
+      high, Trump, on the one hand, continues to insist that he has brought down living
+      costs, meanwhile ensuring that nothing that the Federal Reserve does will reduce
+      it. And then there’s the matter of cryptocurrency. With the passage of the Genius
+      Act, a whole new set of assets, very dodgy assets, namely cryptocurrency, which
+      any sane analyst would consider highly volatile, risky, and inherently speculative,
+      have been given the imprimatur of government regulation. This means that one way
+      or another, these assets will enter the financial system and become one more thing
+      in the everything bubble, taking the fragility of the U.S. financial system, which
+      is already at breaking points, even closer to it. Any crash that now occurs can
+      only consign the dollar system to the dustbin of history, as we’ve discussed so
+      many times, Michael. So Michael, what’s your favorite drive about this morass
+      of contradictions in which Trump is only further muddying with his attacks on
+      the Federal Reserve? Go with whatever is on the top of your head because there’s
+      so much to discuss. We can start anywhere. ⁣MICHAEL HUDSON: Trump’s head is full
+      of junk economics. He wants to depreciate the dollar. He wants the dollar’s exchange
+      rate to go down because he imagines that this will make U.S. exports more competitive.
+      As the dollar goes down, its price against European currencies and foreign currencies
+      gets cheaper. The problem is America has been deindustrialized over the last 30
+      years, and there’s not that much to export. And by lowering interest rates, what
+      he’s actually doing is the exact opposite of what his Secretary Treasurer Scott
+      Bessent, has done. It’s as if he wants to go back to the zero interest rate policy
+      of making money by debt leveraging, by inflating the prices of stocks and bonds
+      because you can borrow inexpensively from the banks and you can buy a stock whose
+      dividends are higher or a bond whose rates are higher. He wants to make the economy
+      safe for speculators again because they’re his constituency, after all. Well,
+      here’s the problem. The sane people on Wall Street, I guess the 1%, or people
+      like you and me, are criticizing him from the point of view of what’s the independence
+      of the Federal Reserve. If you have Donald Trump intervening in Federal Reserve
+      policy, micromanaging under his imagination of how the Federal Reserve affects
+      policy, or his pretense or cover story for serving his campaign contributors,
+      then you’re going to have instability and probably inflation. And of course, Trump
+      pretends that he’s against inflation. But as you’ve just pointed out, tariffs
+      are increasing inflation. And his vast, wonderful budget cuts (budget deficit),
+      by slashing taxes on the wealthiest 10% and raising them on the bottom 90%, are
+      going to inflate the economy. So he’s sort of overseeing instability. And the
+      question for many years – there’s been this mantra for the last century: the central
+      bank has to be independent because central banks are responsible. And we all know
+      that governments are irresponsible because they’re elected and they’re democratic
+      and they want to spend money for welfare into the economy, and that’s inflationary.
+      And they want full employment, and that’ll push up wages. Instead the Fed’s job,
+      ever since Paul Volcker, is to create enough unemployment to prevent wages from
+      going up. What’s wrong with this picture, again, as you and I have discussed,
+      is the Federal Reserve serves its member banks, the commercial banks. And if there’s
+      any sector of the economy that’s more irresponsible, it’s the banking sector,
+      because that’s what’s led to the financialization of the economy and the deindustrialization
+      and the incredible debt overhead that we have today. So there’s no reason to believe
+      that the Federal Reserve is more responsible than the government. I’m not saying
+      the government’s responsible because the same Wall Street billionaires that control
+      the banks control the government itself. So you’re going to lose either way around.
+      So the problem is: the Federal Reserve has taken over from Congress the management
+      of the whole economy. And as you and I have discussed, and I think you will today,
+      trying to manage the economy just by affecting interest rates by buying and selling
+      securities by open market operations is only one sliver of the economy and it
+      misses the whole big picture, which is all about industrialization. how you organize
+      what corporations are going to do with the revenue they get, are they going to
+      buy the stock back their stock and push up stock prices and pay out dividends,
+      or are they going to invest long term. That’s really what it’s all about, and
+      the Federal Reserve is not concerned with that at all. It’s just concerned about
+      providing money to the banks and banks don’t lend money into the real economy,
+      they lend money for stocks and bonds for financial speculation and you could look
+      at the Federal Reserve as the implementer of the Ponzi scheme into which the United
+      States economy has degenerated. ⁣RADHIKA DESAI: Well, you’ve made so many different
+      points so let’s just take them by turn. First of all, let’s take the whole issue
+      of the so-called independence of the Federal Reserve. Now you know, at one level,
+      in the post-Second World War period for the first several decades, it was actually
+      assumed that monetary policy was just one of the instruments in the hands of governments,
+      elected governments, to keep the economy going, etc., so it was not assumed that
+      that central banks would have to be independent. The independence of the central
+      banks has become a mantra and has become this rule of thumb, this principle that
+      cannot be violated, only in the age of financialization. So when you said, Michael,
+      a couple of things that already suggested this, which is that what the Federal
+      Reserve has done over the last several decades is essentially inflate asset bubbles.
+      It has essentially lent money primarily to financial institutions, not so that
+      the financial institutions will invest in the real economy. That possibility has
+      already been thrown out of the window by the Federal Reserve in its role as the
+      regulator of the financial sector, essentially because for decades, going back
+      to certainly the early 80s, if not earlier, every time there has been any kind
+      of a regulatory problem, the default position has always been to deregulate, not
+      to re-regulate. We can discuss that further, but there has been deregulation.
+      The Federal Reserve essentially lends money to banks, which then use it for asset
+      price inflation and so on. The easy money policy, particularly since the early
+      part of this century, has been instrumental; first in blowing the housing and
+      credit bubbles, which burst in 2008, and now in blowing up this everything bubble
+      we are in. So essentially the independence of the Federal Reserve, what it actually
+      amounts to, the so-called independence of the Federal Reserve effectively means
+      regulatory capture. That is to say, the regulator becomes captured by those it
+      is supposed to regulate. It’s like essentially asking the fox to defend the chicken
+      coop. It’s not going to happen. So, essentially, that’s why financial interests
+      have been in the lead. You said something else that’s really interesting, and
+      that is that in recent decades there has not been any serious fiscal policy. What
+      there has been is only monetary policy posing as the only form of management of
+      the government. And in my own writing, in my geopolitical economy, where I track
+      the financial policies and the monetary policies of the Federal Reserve, particularly
+      in relation to the dollar system but also in relation to the management of the
+      U.S. economy, what I discovered is that, certainly by the Clinton administration,
+      if not earlier, there was basically no serious fiscal policy. The only fiscal
+      policy was that Republican administrations would always reduce taxes on big corporations.
+      Then Democratic administrations would come in; they would not touch it but they
+      would engage in fiscal consolidation, essentially by cutting social services and
+      so on, which Republican administrations also did. And then the next Republican
+      administration comes in and reduces taxes further. So, essentially, what this
+      has also done, of course, is vastly increase the debt mountain of the United States.
+      Because while you are cutting social services to some extent, it’s not nearly
+      enough to account for the revenue you are foregoing by giving corporations big
+      tax cuts. So for the last many decades, what we have had in terms of economic
+      management was simply monetary policy. And this really began with Alan Greenspan,
+      and that’s why Alan Greenspan was himself called the maestro, as though he was,
+      as a kind of superstar conductor, conducting the orchestra that was the U.S. economy
+      with the slightest movements of his little baton. But of course, in reality, what
+      you had was essentially a situation in which they gave up trying to manage the
+      U.S. economy. They gave up trying to preserve the productive character of the
+      U.S. economy. They, in fact, encouraged things like outsourcing, financialization,
+      etc. So they have essentially destroyed the U.S. economy, made it an economy based
+      on consumption, etc. So, in all of these ways, what you’ve seen is that monetary
+      policy has displaced any fiscal policy and thereby hangs many other threads. ⁣MICHAEL
+      HUDSON: They’ve not only deregulated monetary policy, they’ve deregulated crime.
+      President Obama appointed Eric Holder as Attorney General, and Holder said, it’s
+      true that there was an enormous crime wave that’s led to the financial crisis;
+      junk mortgage lending, the banks have falsified mortgage statements, the appraisers
+      have falsified them, the brokers have falsified them, there have been billions
+      of dollars, and we have a choice. As a result of this financial fraud, the mortgages
+      of about 8 million American families are way overpriced beyond the ability to
+      pay. What are we going to do? Well, we have a choice: either we can write down
+      the debts, as President Obama had promised, to the reasonable, realistic value
+      of their houses and enable these families to be saved from the exploitation of
+      the banks, or we can prosecute the bankers and throw them in jail. But there’s
+      a problem with that. These bankers, most of them, are married with children, and
+      their children and wives are innocent. And it would be wrong to hurt their innocence
+      because if you look at the value of the life and the family happiness of a multi-billionaire,
+      10 billionaires are worth the 8 million Hispanic and black and other families
+      that we’re expropriating. So we’re not going to punish anybody. In fact, what
+      we’re going to do is turn to the Federal Reserve and say, make sure that, although
+      the banks are insolvent because they’ve lent much more money than the debtors
+      can pay, we’re going to create the largest financial boom in history, the largest
+      bond market boom in history, by slashing interest rates from the current highs
+      all the way down to less than 1%, which is going to enormously increase the capitalization
+      of bonds and stocks. And so Obama appointed Federal Reserve Chairman Ben Bernanke
+      as Fed chairman, and then Janet Yellen. And their job was to prevent the banks
+      from writing down the debt to what could be paid and, say, our job is to not to
+      stabilize consumer prices, but to make sure that we stabilize and prevent asset
+      prices for stocks and bonds and real estate from going down. Because if the economy
+      is so highly leveraged and banks have lent out so much money relative to their
+      capital reserves, if prices go down even a little bit, one or two percent, you’ve
+      wiped out the equity of the largest bank customers, the largest speculators, and
+      the banks themselves will go under. And so the head of the Federal Reserve Deposit
+      Insurance Corporation said, you know there’s one really crooked, incompetent bank;
+      that’s Citibank. It’s so reckless that we’ve got to foreclose on it. And Obama’s
+      Treasury Secretary, Tim Geithner, said, no, no, my job is to save Citibank. You
+      know, they’re the people who put me in power. And hey, Mr. Obama, they have put
+      you in power through Clinton’s Treasury Secretary. So you have the banks running
+      the justice system and the prosecution system, as well as the financial system.
+      And the common aim of all of them is to make sure that the banks will not lose
+      money by writing down the debt that you’ve just described as growing. If you don’t
+      write down the debt and it accrues interest and is growing and growing and growing,
+      then you have to create more and more and more money at lower and lower interest
+      rates to carry this higher debt. That’s what a Ponzi scheme is. You need new entrants
+      into the scheme to provide the money to bail out the early investors, or the whole
+      scheme fails. That’s what the United States economy has turned into, and that’s
+      what the independence of the Federal Reserve means. Don’t let anyone, or the prosecution
+      system, or laws against fraud, or even common sense, interfere with creating an
+      economy that makes money by financial speculation, not by industrial investment.
+      We’re not an industrial economy anymore. ⁣RADHIKA DESAI: Well, exactly. And you
+      know what, Michael, Look at this. We’ve shown this chart before, but this is the
+      chart of the Federal Reserve’s balance sheet. As you know, it went from under
+      a trillion dollars to about $2 trillion in the aftermath of the 2008 financial
+      crisis. And then, with a series of rounds of quantitative easing, it went up to
+      above $4 trillion. And then, with the pandemic, it went up to $9 trillion. So,
+      what is all this? This is essentially the Federal Reserve itself entering the
+      market of various speculative assets. The Federal Reserve itself has become essentially
+      an agent to preserve the value of the speculative assets of the various bankers
+      and what have you. And there’s another thing, what’s really interesting insofar
+      as the stock market is supposed to be democratic and so on – allow everybody to
+      make money. Well, another thing that’s happening, in addition to what you were
+      just saying, is that actually the number of publicly listed companies is shrinking.
+      More and more companies are owned by private equity, which is essentially elite
+      clubs of investors who have inside knowledge about what can turn a profit and
+      what can’t turn a profit. Knowledge which they refuse to make public and so that
+      they can privately, as members of this club, benefit from these lucrative investments
+      and not allow the ordinary investor, the retail investor, to come in. That’s another
+      really fascinating thing that has been happening. And now, of course, the Trump
+      administration is allowing even greater kinds of forms of club-like behavior.
+      So, the few companies that remain publicly listed, Trump has recently suggested
+      that their reporting responsibilities – they should no longer be held to quarterly
+      reports. They can go down to semi-annual reports once in six months. So this again
+      restricts the amount of information that is available for the retail investor.
+      In so many ways, the Ponzi character of this system, in which essentially there’s
+      a pecking order in which the rich continue to get rich, while ordinary people
+      have no purchase on the system. And as far as things like pension funds are concerned,
+      they are typically the bodies whose enormous amounts of money that they have forms
+      essential “throw weight” in the financial system. It is used as “throw weight.”
+      But, of course, whenever there is any gain, they gain the least, and whenever
+      there is any loss, they lose the most. ⁣MICHAEL HUDSON: Could you put that chart
+      up again? I want to show it actually shows a radical unprecedented development
+      of the Federal Reserve. You see at the very beginning of the chart that flat line.
+      Yes, that flat line goes back a century, just as flat as it is then. And that
+      flat line is how central banks all over the world have acted for a century. They
+      intervene to buy and sell government bonds overnight in the short term, simply
+      to affect interest rates up and down. There is no long-term accumulation. What
+      happened when you had the jump in 2008 that you show, and the jump that continued
+      all the way through that period, is for the first time, the Federal Reserve began
+      to be a huge investor itself. It bought enough stocks and bonds, not only government
+      bonds, but corporate bonds, not only corporate bonds, but junk bonds, to push
+      up their prices. And so you have an enormous inflow of money not to be spent on
+      goods and services, as you’re taught in school, but to buy stocks and bonds. The
+      Fed creates money to inflate asset prices. It creates money for stocks and bonds
+      and real estate purchases, not for consumer spending at all. This whole idea of
+      Fed money creation that affects consumer prices is just a fiction. When you look
+      at that chart, you realize what they really create money for. And that was revolutionary.
+      ⁣RADHIKA DESAI: Absolutely. Michael, one of the things we want to discuss, is
+      exactly what the Trump administration wants out of the Federal Reserve. Trump
+      himself has said such contradictory things. On the one hand, he says that he wants
+      the dollar to be strong and the dollar system to work, etc. And of course, it
+      was expected early on when Trump started announcing his tariffs, that tariffs
+      were going to increase the value of the dollar. But what you’ve seen here, from
+      the time Trump has taken office, the value of the dollar has gone down consistently.
+      Some say that it has lost some 10% of its value, and this is one chart which shows
+      the ups and downs. And here’s another one, which just shows essentially the broad
+      dollar index, which again reaches a peak in January 2025 and since then has been
+      in decline. So the dollar has just continued to decline. And of course, everybody
+      who doesn’t like Trump says that it is Trump’s fault. But I think that the situation
+      is much more complicated. Part of the reason the dollar is declining is because
+      of inflation. Now, mind you, tariffs have contributed to inflation, but inflation
+      was going up even before Trump took office. And at the same time, the Federal
+      Reserve finds it very difficult to deal with this inflation because the only way
+      in which the Federal Reserve will permit itself to deal with inflation is by raising
+      interest rates. But if it raises interest rates much more than it has already
+      done, then it is in serious danger of pricking all the asset bubbles, the so-called
+      everything bubble. Again, here is the chart of the federal funds rate going back
+      to 1955. This is the Volcker peak. But the Federal Reserve can’t do a Volcker
+      anymore because, back then, when Volcker increased interest rates, he didn’t have
+      to worry about asset bubbles, which would burst. Whereas what we see here, for
+      example, is a series of interest rate increases, which were essentially forced
+      on the Federal Reserve because the dollar was going down. So it had to restore
+      the value of the dollar. So they started increasing interest rates and the moment
+      they went slightly beyond 5%, that triggered all those processes that led to the
+      crash of the North Atlantic financial bubble, so to speak. So it led to the North
+      Atlantic financial crisis. And similarly, we see again here today that we are
+      already at that point of just a little over 5%, which is why, although inflation
+      remains high, the Federal Reserve daren’t raise interest rates more. Indeed, now
+      what they are doing, in fact, is they are bringing it down. Now, Trump says that
+      the Federal Reserve doesn’t want to decrease interest rates, and that Trump is
+      advocating for decreasing interest rates. But you know what? The Federal Reserve,
+      Jerome Powell, and most of the Federal Market Committee would like nothing more
+      than to decrease interest rates because they want asset inflation to continue.
+      But they have been forced to at least keep interest rates as high as they are,
+      at which they have come over the last two or three years, because inflation is
+      not going away. The Federal Reserve is caught in a bind; that’s why they are keeping
+      up this higher for longer. In a certain sense, I suppose what I’m trying to say
+      is that Trump just wants to look like the person who caused interest rates to
+      decrease and as though they care about the real economy. But, of course, what
+      Jerome Powell, as well as Trump, what they all care about merely, is the continuing
+      inflation of asset bubbles. ⁣MICHAEL HUDSON: That’s right. ⁣RADHIKA DESAI: And
+      then the other thing that I would add to that is that; the independence of the
+      Federal Reserve, which is allegedly in question – Scott Besant, the Treasury Secretary,
+      recently published this article, in which he criticizes the easy money policies
+      of the past. Now he may want to criticize it, but the fact of the matter is Trump
+      wants the continuation of these easy-money policies. I think that the real effect,
+      whether it’s intended or otherwise, of interventions like Scott Besant’s – this
+      article is being much talked about – will be essentially to establish that the
+      Federal Reserve has never been truly independent. And if today the Trump administration
+      appears as though it is infringing on the independence of the Federal Reserve,
+      this is no different from what happened in the past. In one sense, that’s true,
+      because all monetary policy is political, and the independence of the Federal
+      Reserve, as we’ve already said, is only to leave the regulation of the financial
+      sector in the hands of the financial sector. So, and that’s a silver political
+      action [Please clarify]. The point is that he is basically establishing a new
+      norm where Federal Reserve policy is political. And I think the only purpose of
+      making it political is to give Trump the credit for keeping interest rates low.
+      ⁣MICHAEL HUDSON: The article that Besson wrote is really – I’m very happy with
+      it. It’s made wonderful, wonderful points, such as we’ve made for many years.
+      And he called the title of the article: The Fed’s New Gain of Function Monetary
+      Policy. Gain of function is the term that was used for the coronavirus that’s
+      come out and a pandemic. And he’s treating Federal Reserve policy as a pandemic.
+      And the gain in function has been a mutation of Federal Reserve policy, which
+      we’ve just discussed, in saving the financial debt overhead of the economy, not
+      the economy itself. And he goes to a long discussion of how the effect of making
+      money financially, as you pointed out earlier, the leading financial sector investors
+      are multi-tens of billionaires, and their way of making money is to deindustrialize
+      the economy, not to industrialize it. And I think we’ve shown before the growth
+      of wealth in the economy. Here’s the wealth of the bottom 50%. The bottom 20%
+      has actually gone down. All of the growth in the wealth of the American economy,
+      all this growth has been in the form of stock, bond, and real estate held by the
+      10%. It’s the 10% that hold the vast majority, over 75%, of the stock market and
+      the bond market. The 90% people, except maybe via their retirement funds, don’t
+      have bonds and stocks. Only a very minimum compared to the super wealthy. And
+      the beneficiaries of this asset price inflation thus have been the very top of
+      the economic pyramid. And they’ve used this increasing financial wealth to increase
+      their control of the election process by contributing to campaigns. Now that you’ve
+      deregulated the political campaign contributions in America, as well as the banks,
+      and they’ve essentially bought control. And so the Federal Reserve celebrates
+      this as success. They said, we’ve created wealth, but almost all the wealth they’ve
+      created, 90%, has been to the wealthiest 10%, not for the economy as a whole.
+      And if most wealth takes the form of financial claims on debtors; mortgages, bank
+      loans, corporate bonds, and government bonds, then the creation of wealth on the
+      asset side of the balance sheet means the creation of debt on the liability side
+      of the balance sheet. And the wealthiest 10% have the assets; the 90% have the
+      debt. And the effect has been to polarize the economy. And I think Besant deserves
+      credit for pointing out that this has been the whole effect of the Federal Reserve
+      asset price inflation. It’s been inequality and unemployment and deindustrialization,
+      the exact opposite of what textbooks imagine; that the financial sector is only
+      an intermediary, it doesn’t have any effect on the economy. It just reflects that
+      it’s the driving shaper of the economy. And it’s been misshaping it all throughout
+      the United States and Europe and the Western economies in general. ⁣RADHIKA DESAI:
+      Let me say that all the truths that Scott Besant has spoken in his article are
+      no different from the truths that Trump had to speak in order to get elected.
+      Remember, it’s been my argument for a long time that Trump discovered one thing,
+      which is that you can no longer win elections by telling people that their economy
+      is doing very well. He told them the truth; it’s not doing well. We agree with
+      that, but, of course, Trump told them the truth only in order to get elected and,
+      of course, he thenmixed that with lies, for example the fact that he said to them
+      that the economy is not doing well because of trade and because of immigrants
+      and so on. All of those things were, of course, lies, so Trump has just a different
+      package of truth and lies. In Scott Bessent’s new package of truth and lies, I
+      think the key point you have to understand is that he is only telling the truth
+      about the inequality generated by the Federal Reserve not so that this will put
+      a stop to it, because of course he himself would favor, as his president would
+      favor, lower interest rates. What is going to be the effect of lower interest
+      rates? The effect of lower interest rates will be to further inflate asset bubbles
+      and to postpone the moment of reckoning. Let me just share a really interesting
+      chart that I found. This is a chart of the major asset markets in the United States.
+      You can see here there are equities, residential real estate, treasury securities,
+      commercial real estate, farmland, and so on. Now, what you see here on this chart
+      is the average annual growth from 1997 to 2004. They are not small but they are
+      not huge. But then you look at the growth just between 2023 Q4 to 2024 Q4. Within
+      just one year, these asset markets, some of them like the equity market and so
+      on, have been growing massively. Whereas all the other asset markets have grown
+      less. And the commercial real estate market has actually shrunk to some extent.
+      So what is really interesting here is that now, in a sense, a crash will be coming
+      because all these markets are already slowing their growth. The equity market
+      is going up without any support. It’s going up and up, but what is it climbing
+      on? It’s getting high on something else because, as we know, the entire stock
+      market is being taken up by the Magnificent 7 and a few other such stocks. And
+      most of the Magnificent Seven inflation in the prices of the equities has been
+      because of the hype around AI. And it is increasingly dawning on people that the
+      astronomical investments being made in the name of AI are not going to be lucrative.
+      They are already not yielding stuff. So a crash will be coming. But the point
+      is that, in the meantime, they want to continue to have low interest rates. So
+      Besant might complain about the easy money policy. Maybe they will not engage
+      in quantitative easing and so on. But they will keep interest rates low. The point
+      is that he wants to say that Federal Reserve policy has always been political,
+      and he wants to say, therefore, that we are going to politicize it. And once that
+      happens, then Trump will do what has been done in the past, which is to justify
+      low interest rates in the name of economic growth, when, in fact, he wants low
+      interest rates in order to keep asset prices up. ⁣MICHAEL HUDSON: I agree. That’s
+      exactly what’s been happening. People act as if the growth of wealth and the growth
+      of the 10% are what the economy is all about. And for the Federal Reserve, that’s
+      what the economy is all about, because that’s its constituency, because the wealthiest
+      10% are the customers for the bank loans. And the Federal Reserve is created to
+      be managed and run by its member banks. So you have a closed circle. And as long
+      as Congress remains inactive and is unwilling to do anything except to cut taxes
+      even more, to run an even larger budget deficit that adds to the effect, you can
+      have Trump make the argument that if we don’t lower the interest rate, imagine
+      how much of the government debt’s interest rate – the budget is going to have
+      to be spent on interest to the bondholders. And this is already almost as large
+      as our military spending. This is going to create a crisis. We’re going to have
+      to cut social security and cut Medicare, but there’s a solution to that because
+      we can privatize social security and put it all into the stock and bond market
+      to keep the Ponzi scheme going. ⁣RADHIKA DESAI: I’m just showing exactly what
+      you’re talking about Michael, which is that the yield on treasuries both one year
+      and 30 years, so very short term and very long term, has been going up and they
+      are now at fairly high rates. This is really, also quite interesting and they
+      are adding to the debt, the deficit, etc., which will continue to grow because
+      the Trump administration is committed to cutting taxes for rich people, etc. Another
+      point that I just wanted to make, but essentially what is happening now is that
+      the idea that the Federal Reserve should be independent is being buried and now
+      we will have a new type of rhetoric, which will continue the same policies of
+      inflating asset bubbles. They were not going to revive the American economy, just
+      as the tariffs are not going to revive it, nor will low interest rates revive
+      the American economy, as I’ve already said at the beginning. The insertion of
+      cryptocurrency has simply added a new asset whose value can be inflated, on the
+      basis of which a small number of rich people can make money while the rest of
+      the economy suffers. And this is going to continue. ⁣MICHAEL HUDSON: Well, the
+      real point you’re making: it’s the government that needs to be made independent
+      from the financial sector. That’s the real independence we’re talking about. And
+      that’s the problem. Under America’s two-party system, you can only have two parties.
+      There’s such a tangle of laws that there’s no way of having an alternative to
+      the Republican-Democratic duopoly. And so Congress itself is no more independent
+      than the Federal Reserve is from Wall Street. And the result has been to shift
+      economic policy, meaning economic planning, to the financial sector. Out of Washington
+      into the financial sectors, Wall Street, and also the Chicago Mercantile Exchange.
+      And so the result of all that is the financialization of the economy and a loss
+      of what used to be the whole dynamic of industrial capitalism and the whole idea
+      of industrial democracy. If Wall Street’s in control, this means not a market
+      free of government planning and centralization. Financial planning is more centralized
+      than government planning. That’s why Trump’s been firing all of the government
+      regulatory agencies. With no regulatory agencies, there’s nothing to prevent the
+      financial sector from becoming the economy’s central planner. And that’s what’s
+      happened in a nutshell to the US economy ⁣RADHIKA DESAI: So what you’re saying
+      is that we will have a centrally planned economy, except that it will not be planned
+      in the interests of ordinary people, it will be planned in the interests of a
+      small number of very rich people, the Elon Musks of this world. And this is so
+      true. I suppose what we’ve really said is that the rhetoric about the independence
+      of the Federal Reserve has always been a way of keeping Federal Reserve policy
+      away from democratic influence. The idea being that, of course, as long as you
+      have some kind of democracy then at least you can elect a government which can
+      politically try to control the Federal Reserve, to bend its policy in the direction
+      that will help ordinary people, that will create a productive economy, etc. But,
+      of course, what you’re adding to this is that, of course, the existing democratically
+      elected governments of the last many decades, and still today, are simply themselves
+      in the pockets of the financial sector. So there’s no way the elected government
+      is going to control the Federal Reserve in a way that will benefit ordinary people.
+      The point is not that the Federal Reserve is not independent, it’s not factually
+      independent anyway. The problem is that it is under the control of the wrong interests.
+      And if ordinary people in the United States want to take control over the destiny
+      of their country, they are going to have to elect a government that is not part
+      of this duopoly, that will actually represent the interests of ordinary people.
+      And then, yes, there will be no need for an independent Federal Reserve. The government
+      will essentially bend monetary policy. A popularly elected government acting in
+      the popular interest will bend monetary policy in the direction that it needs
+      to go in order to create a productive, equal, socially just economy. And, of course,
+      an ecologically sustainable economy. ⁣MICHAEL HUDSON: I think you’re quite right.
+      A democracy, unlike an oligarchy, would centralize financial management in the
+      hands of the Treasury, which is a public, elected political agency, not a central
+      bank. The United States didn’t have a central bank until 1913. The problem is
+      that the Treasury itself is mismanaging the economy because it was run by basically
+      bullionists, by gold bugs. And whenever the Treasury would raise a surplus, like
+      for tariffs, the tariffs had to be paid in bullion, gold and silver bullion, not
+      by bank credit. And there was such an antagonism towards banks in the United States
+      from colonial times, from the beginning of the Republic to the 1880s, with the
+      whole silver, gold crisis, crucified on a cross of gold, that Americans didn’t
+      want the banks to create money. And there was such a shortage of actual credit
+      that an economy needs that, in an act of desperation, the Republicans and Democrats
+      got together and said, we need bank credit. We can’t have these libertarian nuts,
+      bullionists, at the Treasury tie our hands. That was the story of how the Federal
+      Reserve was created in the first place. ⁣RADHIKA DESAI: There was that, but I
+      think there were also some other things. The fact of the matter is that the United
+      States dollar was not acceptable around the world because it didn’t have a central
+      bank, whose function it would be to stabilize the value of the dollar. And of
+      course, in the recent years, in the post-Second World War period, partly because
+      the United States government has been committed to keeping the dollar as the world’s
+      money, what you’ve actually seen is a systematic overvaluation of the U.S. dollar,
+      which has then been a disaster for American industry. It has been central to the
+      deindustrialization of the United States. But nevertheless, my point is that the
+      Federal Reserve was also necessary because otherwise your currency would never
+      be acceptable. Before the Federal Reserve was created, the international transactions
+      of the American government and other corporations were being handled via JP Morgan
+      and handled in pounds sterling, which was kind of interesting. There was another
+      thing, which is that when you had banking crises, and there was a big banking
+      crisis in 1907, there was no lender of last resort. So they had to create one.
+      So there were many reasons. But yes, the fact is that you had to create a Federal
+      Reserve in order to perform these functions. ⁣MICHAEL HUDSON: Yes, but at least
+      at that time, the lender of resort, when it did lend money to banks to avoid insolvency,
+      it charged a penalty rate. That was the essence of management. And now the Federal
+      Reserve gives a subsidized rate, just the opposite of what happened over a century
+      ago. ⁣RADHIKA DESAI: Exactly. Well, Michael, it’s been a wonderful conversation.
+      Unless you have any further things to add, maybe we should wind it up for now.
+      Okay, great. Thanks. Bye. Transcription and Diarization: hudsearch Editing: Kris
+      Liti Review: ced Photo by Mike Hindle on Unsplash The post Who Plans the Economy?
+      first appeared on Michael Hudson .'
+    one_sentence_summary: In the 50th episode of Geopolitical Economy Hour, Radhika
+      Desai and Professor Michael Hudson discuss the recent decision by the U.S. Federal
+      Reserve to decrease interest rates, highlighting the controversy surrounding the
+      Fed, particularly in relation to Donald Trump.
+    paragraph_summary: In the latest episode of "Geopolitical Economy Hour," host Radhika
+      Desai and guest Professor Michael Hudson discuss the recent decision by the U.S.
+      Federal Reserve to decrease interest rates by 25 basis points, marking the first
+      reduction of the year. They highlight the ongoing controversy surrounding the
+      Federal Reserve, particularly fueled by former President Donald Trump's criticisms
+      of Chair Jerome Powell, whom Trump has labeled as ineffective. Trump's theatrical
+      engagement with the Fed, including a public dispute over renovation costs, underscores
+      his dissatisfaction and intentions to influence its leadership, as he considers
+      multiple candidates to replace Powell. The episode reflects on the broader implications
+      of these developments within the context of the U.S. economy, which is grappling
+      with significant debt levels.
+    published: '2025-10-06T11:30:58+00:00'
+  - title: Cascading Policy Failures Undermine Empire
+    url: https://michael-hudson.com/2025/10/cascading-policy-failures-undermine-empire/
+    text: '⁣NIMA ALKHORSHID: Hi everybody. Today is Thursday, September 18, 2025, and
+      our friends Michael Hudson and Richard Wolff are back with us. Welcome back. ⁣RICHARD
+      WOLFF: Glad to be here. ⁣NIMA ALKHORSHID: Michael, you told me that you watched
+      my talk with Scott Ritter about the defense budget, and all of that. What’s your
+      point on that? ⁣MICHAEL HUDSON: Well, he picked up on my point that I’ve been
+      making fifty years ago, that there’s a great difference between the balance of
+      payments effect of America’s military spending and other countries. Ever since
+      the Korean War broke out in 1950, the entire balance of payments deficit for the
+      United States, from the 50s, 60s, and the 70s, has been military spending abroad.
+      The private sector trade and investment are exactly in balance over all these
+      years. I published all of these statistics first for Arthur Andersen and then
+      in my book Super Imperialism . And immediately, when my book Super Imperialism
+      came out, Herman Kahn hired me for the Hudson Institute and said the largest buyers
+      of the book were the State Department and the military — the CIA and the military.
+      Immediately, the military gave a contract to the Hudson Institute for me to explain
+      how going off the gold standard essentially enabled the United States to fund
+      its balance-of-payments deficit, meaning its military spending abroad, by pumping
+      dollars into the global economy and having these dollars end up in foreign central
+      banks and be recycled. Well, what that means is that America’s whole military
+      spending for the last fifty years depends upon the dollarization system in other
+      countries, using dollars as their monetary reserves in place of gold, and instead
+      of their own currencies. That means that, as they move away from the dollars,
+      there’s no way that the United States can finance its eight hundred military bases
+      abroad and its military spending. Russia doesn’t have this problem. The military
+      generals don’t study the balance of payments. And many of them are right-wingers
+      that have a sort of crude monetarist Chicago School neoliberal view of money,
+      without understanding that money is debt. And, specifically, monetary reserves
+      are not only America’s treasury debt, but the monetization of America’s military
+      spending. Now, what Scott pointed out is that Russia doesn’t have this problem.
+      China doesn’t have this problem because they’re not trying to create a foreign
+      empire. They’re not trying to put military bases in other countries where they
+      have to somehow spend their domestic currency, and buying local currencies, to
+      do whatever military operations do there. So they don’t have the constraints that
+      the United States have. And that’s what’s essentially leading the United States
+      to say: we’re not only at war with Russia and China militarily, we’re at war with
+      them financially. We don’t want the BRICS — China, Russia, Iran, and their other
+      countries — to have an alternative of not using the dollar so that the dollars
+      that we spend abroad for all these military operations are going to be somehow
+      recycled to the United States. That’s why you’re having Trump try to browbeat
+      India, Japan, Korea, and Europe into somehow promising to recycle all the dollars
+      to the United States. Why is he doing this? It’s not simply to pay tariffs so
+      that the Treasury will have more money and can cut taxes on the wealthy even more.
+      It’s so that the dollar will not be forced down so that there will be a huge inflow
+      to support the dollar, basically, despite Trump’s hope of devaluing the dollar
+      slightly, slowly downwards — as if that’s going to make American exports more
+      competitive. The whole fight over the dollar isn’t really about U.S. exports being
+      more competitive because the United States doesn’t have much industry to export.
+      It’s really about the balance of payments, which is primarily military in character
+      — not the trade deficit, not the investment deficit. The government used to realize
+      that. But again, Trump and his team just think of sort of running a protection
+      racket: Either you spend your money to the United States — $350 billion from you,
+      Japan, you promise to send here to invest — another $350 billion from you, Korea
+      — or we’re just going to raise tariffs and deny you the U.S. market. The American
+      strategy — and it’s a military strategy as well as an economic strategy — imagines
+      that other countries need the American market, and they don’t have a choice but
+      to support the dollar, and by supporting the dollar, supporting America’s ability
+      to wage war and have military operations abroad. They don’t realize that this
+      is the whole thing. And yet this protection racket has essentially overplayed
+      its hand. And last week, Korea said: Wait a minute. You just told Japan to pay
+      you $350 billion, and you get all the profits from what they spend in — you get
+      90% of the profits and give us 10% — if there are any profits at all, you know,
+      from the way you arrange it with your Hollywood-Pentagon bookkeeping. You need
+      America’s market; we can deny it, and that’s chaos for you. Well, it’s not really
+      chaos. They tried the same thing with China last week, and China protested and
+      said — I’m sorry, they tried it with Korea last week — Korea protested and they
+      said: We’re not Japan. We don’t have $350 billion. We’re much smaller. And you’re
+      blocking our automobile exports from the U.S. market. We just can’t pay. And then,
+      Howard Lutnick, the Commerce Secretary, said: The Koreans either accept the deal,
+      or pay the tariffs. Black and white: pay the tariffs, or accept the deal. Well,
+      yesterday, Korea’s foreign minister went to China. And there’s not a word in the
+      paper about what they’re discussing. But you can just imagine. Korea realizes
+      that Trump is going to insist: We need your money to continue our military spending
+      abroad and to finance our budget deficit. We’re going to close the market to you.
+      And Korea finally is saying, well — for Hyundai and for Samsung, all of its computer
+      industries — what if we don’t have the U.S. market? Do we have a Plan B? And I
+      suspect they’re talking about China. And they’re talking to China. And they’re
+      saying, well, you know, if we walk away from the U.S. market, we’ll walk away
+      from that factory in Georgia. Obviously, there’s such a reaction in Korea that
+      we can’t afford it. If we walk away, can you figure out a way that we can work
+      our industrial capacity in partnership with you as part of your Chinese new prosperity
+      sphere? And by the way, if we do that, will you help back us up when we tell the
+      Americans to leave their military bases here? We don’t want their military bases
+      if they’re going to hold us up and essentially declare: We’re treating you like
+      a defeated power. Like we defeated you in 1951. There’s never really been an end
+      to the Korean War. We’re still fighting you, just like we’re still fighting World
+      War II against Japan. You don’t have a choice. If Korea and Japan, and India all
+      make a choice to say, well, we cannot afford access to the U.S. market on these
+      terms. We can use the $350 billion — or Japan can use the same amount — we can
+      use that $350 billion to subsidize our own industry and keep our employment and
+      support our workforce, while we transition radical change, from orienting our
+      trade with the United States and Europe, to orienting it with our new Asian partners.
+      That’s what it all is. And that commercial balance-of-payments consideration is
+      a fundamental military consideration at the root. And that’s what really frightens
+      the United States. It was the Vietnam War that forced the United States off gold
+      in 1971. Its spending in Vietnam depleted the gold stock by spending so many dollars
+      abroad that General de Gaulle, in France, and Germany, just cashed them in for
+      gold. And America finally just stopped the drain. Well, now it’s other countries
+      that are preventing the United States from solving this drain problem by saying
+      we’re not going to accept any dollars that are just the monetization of your military
+      spending to surround us with military bases. We’re going to stop the financial
+      bloodstream that’s funding your whole new Cold War. And this goes beyond the investment
+      in missiles and the investment in boats. Other countries are not going to fight
+      a war by invading any other country. And America cannot control another country,
+      not even Ukraine, without troops invading it. And the cost of a military invasion,
+      an infantry invasion, is very different from the domestic cost of sending missiles.
+      China and Russia, Iran have no intention or ability to mount an army to send into
+      other countries. All they have is missiles, basically. And that’s what the next
+      few years of war are going to be all about. ⁣NIMA ALKHORSHID: Yeah. Go ahead,
+      Richard. ⁣RICHARD WOLFF: Okay, another way of saying this is that the United States
+      cannot afford the empire. The problem is, it can’t do it. In the early decades
+      after World War II, the balance of payments — correct me if I’m wrong, Michael
+      — saw export surplus from the United States, generating the capital and the money
+      with which then to finance the seven or eight hundred bases around the world.
+      And so you had the rest of the world dependent on exports from the United States,
+      having to pay for them in the money that was then used to subordinate them militarily
+      to keep this game going. By the 1970s, this game was over because the Germans,
+      the Japanese, and the Europeans had recovered from the war, as we knew they would.
+      That’s what they were doing in the decades from 1945 to 1975. In that thirty-year
+      period, the United States lost its preeminent position in the world economy as
+      an exporter. It would either have had to stop because it could no longer finance
+      its military adventures abroad by its export surplus, or it would have had to
+      do what Michael so nicely described. It would have to have found another way,
+      another way, and the dollarization making all oil contracts denominated in dollars
+      — and hyping the threat of the Soviet Union, which the Europeans are copying today
+      because they don’t know any other politics — this enabled them to then create
+      the deficit program. They would make the United States a net importer, switch
+      its own production out of the country, no longer needing these exports, no longer
+      being able to afford them (they weren’t profitable enough to produce in the United
+      States), and you replaced all the workers, either with machinery and with automation,
+      or by exporting the jobs. So, your end result was the story Michael just told.
+      You could continue to finance your global military adventures, but now you finance
+      them by means of imposing, if you like, on the world the need to hold reserves
+      for their currency because the agreed relationship among currencies was gone.
+      That’s what we had coming out of the Bretton Woods, and that’s what we ended when
+      Nixon took us off the gold standard in 1971. So then, you have Michael’s story.
+      But let me do something we don’t do enough of. Let me tell you a little bit on
+      this program about the limits to all of this. In order to sustain, now, when you
+      have no exports and when the ability of the United States to import is shrinking
+      every day, because the mass of our people is simply too poor — I mean, the statistic
+      came out this week that the top 10% (if I have it right), the top 10% of the income
+      distribution accounts for 50% of the consumer demand in our society. Alright,
+      that’s another way of saying that the bottom 90% are piss poor. They can’t afford
+      anything. Right? Well, given that we depend on imports, that’s not a good basis
+      for the future. We’re not running; we’re not going to be able to run the kinds
+      of deficits that we used to. That’s my guess, at this point. Alright, what then
+      is going to sustain the story Michael told? How are we going to pay for all of
+      those bases? We don’t have the exports to do it, and we’re not running the kinds
+      of deficits, nor is the rest of the world eager to accumulate dollars in the way
+      that they were before — and that was true before BRICS became important. The decline
+      of the dollar as a reserve currency is at least thirty years old. The Chinese
+      once had $1.2 trillion. They have $750 billion. I know these are big numbers,
+      but that’s a big decline. It’s not surprising, but it’s a big decline. So for
+      me, I’m beginning to wonder, how long can you keep this up? And when you add the
+      degree to which military payments in this country are a Keynesian support of aggregate
+      demand in our society, then you see he can’t afford a military, but he can’t afford
+      not to have the military. And I suspect that’s the reason why Mr. Trump, who comes
+      into office promising to stop the endless wars, has neither stopped them, nor
+      has he been able to avoid proliferating more war. He attacked Iran, and he’s busily
+      now provoking Venezuela, and taking extraordinary steps to do it. And giving carte
+      blanche to Mr. [Benjamin] Netanyahu is extraordinary. You know, we wonder, why
+      would the government do these extraordinary things? And in a way, Michael’s story
+      gives the beginning of an answer: that there’s more going on here than macro-management.
+      That’s important. And there’s more going on than the balance of payments. That’s
+      important. There’s also managing the military — the budget and the activity —
+      when you’re so badly out of whack, you can’t beat the Russians in Ukraine. That’s
+      what’s obvious. It’s obvious to the whole world. They can’t let go. What’s the
+      matter here? Even in Vietnam, they understood: we’ve been defeated. And the Americans
+      withdrew, and the Communist Party of Vietnam took over, and has remained the government
+      ever since. That’s thirty-five years ago, right? That is extraordinary. What is
+      it now? Maybe more than that. Fifty years ago. Then they were defeated in Afghanistan,
+      and they withdrew. Mr. Biden, in the end, did what the previous presidents couldn’t
+      dare do, which is to say: this is hopeless. And so they’re losing. You know, Harper’s
+      Magazine just came out this last week, and on the front page is the lead story
+      of the magazine, which — here’s the title: Why does the American Military Keep
+      Losing All the Wars? Wow, you’re now even able to ask, in a public way, the forbidden
+      question. And if the rest of the world is worried about the United States economically,
+      we have to remember it was also worried about it militarily, and that danger is
+      receding, as we see what’s going on in the world. The desperation inside the United
+      States, the fascistic turn that we are assaulted with every day is a reflection
+      of all of these dead ends confronting the people who run this system. ⁣MICHAEL
+      HUDSON: Richard, there’s a common denominator that links the dynamics you’ve just
+      meant, and that’s oil and foreign investment in oil. Much of the build-up of the
+      reason that there was a gold inflow to the United States from 1945 to 1950 when
+      the Korea War broke out was not simply U.S. exports, it was the sale of oil by
+      the American oil industry that was in control of the world’s oil. And for the
+      last hundred years — and I’ve made this point before on our show, Nima — the cornerstone
+      of America’s control of money, and the balance of payments and military coercion,
+      has been oil, along with food and agriculture, because if you have the ability
+      to monopolize oil, you have the ability to cut off other countries’ industrial
+      potential — just like depriving Germany and Europe of Russian oil and gas has
+      ended Germany’s and Europe’s industrial potential. Now, that explains a number
+      of things that you’ve seen recently. Not only has America continued to do everything
+      that it can to isolate foreign purchases of Russian oil — the same thing with
+      Iranian oil, it’s tightened all of the sanctions against it. And the reason that
+      Iran was overthrown in [1953] was largely because it wanted to nationalize the
+      oil and the Americans and British together — it was a British-Iranian oil company
+      at that time — felt they were losing control of the oil leverage. Well, fast forward
+      to today, you’re seeing in the nightly news, every night here has been taking
+      off with Venezuela. Why Venezuela? It’s not really drugs. Just like Israel claims
+      that all Palestinians are Hamas, the United States claims that all Venezuelans
+      — their fishermen, their population — are drug dealers. Well, the reason that
+      the news leads off with blowing up a fishing boat every night, or another boat
+      that has no seeming connection to drug dealing at all, is the United States is
+      trying to create a narrative that this fight against Venezuela is a fight against
+      drugs. It’s a fight not only to regain control of Venezuelan oil, but, more specifically,
+      to prevent China’s recent negotiations with Venezuela to invest in developing
+      Venezuela’s enormous oil reserves under Lake Maracaibo. And imagine what the United
+      States is worried about. Not only is China making itself independent of America’s
+      allies’ supply and control of the oil industry from Russia, but now China can
+      get its oil from Venezuela itself; and the fight in the Middle East, using the
+      alliance of Israel with the Wahhabi jihadists, to create a disaster, there is
+      to prepare the war for controlling Iraqi, Syrian, and, most of all, Iranian oil.
+      The United States still dreams of reestablishing its diplomatic, economic, political,
+      and military control of other countries by controlling oil and food — that’s the
+      other basic means of control: that America can impose sanctions on its food exports
+      to starve other countries into submission to its policy, as it tried to do against
+      Mao after the 1945 revolution, until Canada broke the blockade. Well, right now,
+      you’re seeing China voluntarily shift its imports for soybeans away from the United
+      States to Brazil, to buy its soybeans there. And China has, until this year, accounted
+      for 50% of all soybean production in the United States — and it’s 70% of soybean
+      production in the case of North Dakota. All of a sudden, there’s zero demand from
+      China for soybeans. And yet you have a perfect storm for American agriculture.
+      You have the corn and soybean crop — a bumper crop this year because of the extreme
+      weather — all of this crop is piling up. There’s nowhere to sell it. They don’t
+      have enough storage capacity to put the soybeans and corn in silos. There’s a
+      huge market now in big plastic bags to begin storing them in. This is a disaster,
+      and the farmers are pressuring Trump to say, you know, you’ve got to be able to
+      reestablish our market next year. We’ve been dependent on soybeans, and what can
+      we shift to? We can’t shift to corn. People are not buying our agricultural exports
+      anymore. So not only has America lost its ability to use food, like it’s used
+      oil, to starve other countries, denying them American exports, but it’s lost its
+      agricultural sector. And the result is that land prices are collapsing in North
+      Dakota and other areas. They’re falling because the farmers are not able to meet
+      their debts. For the last 150 years, all of the financial crises in America, Europe,
+      and the Northern Hemisphere have occurred in the autumn, in September and October.
+      And there’s a reason for that. It was called the autumnal drain. It’s when farmers
+      would have to borrow the money to move the crops to sell them for markets. Well,
+      right now, that autumnal drain threatened to lead to a break in the chain of payments.
+      Insolvencies, arrears, bankruptcies, and foreclosures, that’s what they’re talking
+      about now in the American Northwest and Midwest: foreclosures on agricultural
+      land that doesn’t have a customer. And there’s nothing that Trump can do about
+      this now because the shift is irreversible. Now that China is making a deal with
+      Brazil, saying we cannot rely on America’s soybean exports any longer because
+      Trump has weaponized every element of foreign trade. He’s weaponized the oil trade.
+      He’s weaponized the agricultural food trade to try to make other countries dependent
+      enough to shake them down for his protection racket. Well, we don’t need the American
+      market. Thank heavens we have you in Brazil! So, the Brazilian farmers are reorganizing,
+      replanting their agriculture, to shift into soybeans. Once they do this, if Trump
+      goes back and tells China, okay, you know, you can depend on us again for our
+      soybean exports, China is going to say, well, wait a minute, we’re not going to
+      double-cross Brazil, where we’ve just made an agreement to trade with them and
+      to trade in our own currency, not trade in dollars, but trade in our currency.
+      Once we’ve made this shift, and the whole national economy (Brazil) has been shifting
+      to dependence on our market, we’re not going to turn on a dime, like you do in
+      the United States, and just say, okay, we’re going to change and have a new market.
+      A change is irreversible. You can imagine how the threat of America losing the
+      ability to use food — soybeans, grain, wheat — and oil because of the moves by
+      China and other countries to become alternative suppliers to the United States
+      means that America’s lost the two leading elements, not only of its exports, but
+      of foreign investments in oil and farmland that American investors have controlled.
+      They’ve lost the ability to support the dollar. And by not supporting the dollar,
+      it means not providing the foreign exchange that the United States needs in order
+      to maintain its military presence abroad, that remains as heavy a drain today
+      as it was during the Vietnam War that forced the dollar off gold to begin with.
+      So, when you put the military strategy and imperial strategy in the context of
+      the balance of payments, you find the great constraint that confronts the United
+      States. And that’s what my book Super Imperialism was all about. And as I said,
+      the major audience was not foreign readers wanting to fight against imperialism.
+      It was the Defense Department, State Department, and CIA that used it as a how-to-do-it
+      book: this is how you have to look at the context of America’s military and non-military
+      diplomacy. ⁣NIMA ALKHORSHID: Richard, before going to your comment, one other
+      aspect of what Michael said is Donald Trump imposing tariffs on steel and aluminum
+      that raise industrial costs, destroy jobs, and weaken America’s manufacturing
+      capabilities. ⁣RICHARD WOLFF: Yes, and that’s a perfect segue. I want to take
+      us to a slightly different aspect of this problem. It has now become clear, with
+      each passing day — and Michael has given us the context — what the purpose is,
+      on the one hand, of raising tariffs and, on the other hand, of using them as bargaining
+      chips to get other countries to agree to invest money in the United States. For
+      example, in the last two or three days, there has been a flurry of statements
+      coming out of England because Trump is visiting England, Britain, and big boasting
+      of huge amounts of money — hundreds of billions of dollars that the British are
+      going to invest in the United States, and vice versa — okay, a very interesting
+      story. But let’s take a look at what the reality is. Number one: The purpose of
+      the tariffs was to do something that now the country is desperate to do. I want
+      to underscore this because I don’t think it’s very well understood: We are watching
+      a Republican president leading a Republican party that, for a hundred years, has
+      been the carrier of the notion that taxing is bad and the government shouldn’t
+      tax anybody, that we are in favor of private enterprise, not state enterprise,
+      and the government should not — blah, blah, blah, blah. And what is he doing?
+      Imposing an enormous tax on the American economy. That’s what tariffs are: they
+      are a tax. So, we should wonder what would make ideologically driven conservative
+      business people who hate to pay taxes, who have been supporting the Republican
+      Party for a century to keep their taxes down, and have had that work well for
+      them — why would they suddenly reverse everything and impose an enormous tax?
+      Answer: they’re desperate. They have no other way to go. Their borrowing is out
+      of control — let’s remember, in 1970, the total debts of the United States were
+      a few hundred billion dollars. Today, it’s $37 trillion. That’s an increase that
+      dwarfs production and prices — nothing goes like that. We have borrowed crazy.
+      Why? Because we had already reached difficulties, that meant the government, to
+      finance itself, couldn’t tax the rich who controlled politics and wouldn’t permit
+      it, and had pushed the tax burden onto the mass of people so much that by the
+      60s and 70s we had tax revolts: that’s what they were called — in California,
+      all over the United States. And then began the solution. When the politicians
+      cannot dare tax their donors, and can no longer tax the people, what do they do?
+      They borrow, as if it were a magic alternative. And who do they borrow from? The
+      corporations and the rich who lend the government the money they did not have
+      to pay in taxes. This is “Schweinerei,” the Germans would say. This is pure fakery.
+      But now we get to where we are today. We’ve borrowed so much playing this absurd
+      game. We got the rest of the world to get in on this, holding their wealth in
+      the form of U.S. treasuries, and so on, that we have gotten to the point which
+      was already reached under the short tenure of Elizabeth Truss in England, where
+      the capital markets say: We’re not lending to you anymore. You’re not a reliable
+      borrower. You have gone so far in your borrowing that we can see you’re getting
+      close to that political point where your own people will not allow their taxes
+      to be used to pay interest on debt, rather than to feed their children. And in
+      that game, it’s the creditor who loses. We don’t want to lose. Alright, so what
+      is the U.S. going to do? Tariff. It will, in fact, put a tax; it’ll put it on
+      businesses — because most of the tariffs are paid by businesses that import into
+      the United States — and they will say to those businesses: It’s your job, you
+      have to pay for this. It’s your job to figure out whether you can squeeze the
+      foreigners to lower their price to offset the tariff, or you squeeze the American
+      consumer via inflation, and solve the problem that way. But we, the government,
+      are no longer squeezing the masses. You (irony: you, the business community),
+      are doing it through inflation. That’s the effort. Now you understand why Mr.
+      Trump is eager to do the tariffs, but because they are resisted and because they
+      are not generating anywhere near enough money to deal with this problem, he has
+      the second half of it: He’ll bargain away the tariff that wasn’t doing the job
+      anyway if you promise to move capital into the United States. Hence, Michael is
+      quite right. It’s a protection racket: You have to help us because we are a flailing,
+      declining empire, and the only way we can continue to protect you — that’s what
+      they say to the Europeans — you’ve got to help us. You’ve got to give us all this
+      money. Keir Starmer, yesterday, in a spectacle as pathetic as any I’ve ever seen,
+      boasts that the United States has committed to investing [$]150, or maybe even
+      [$]250 — it’s a little fuzzy, [the] numbers — of money over the next ten years
+      in Britain. And he says with real pride: it’s going to produce, we hope, 7,900
+      jobs. So, I looked at the statistics. What’s the job story in England between
+      August of 2024 and August of this year? They lost 127,000 jobs. He’s boasting
+      of something that can’t offset even 10% of the decline of the British Empire —
+      and it’s coming over ten years! That’s an admission of failure that’s been dressed
+      up as an achievement. Last point. If the rest of the world — to quote Michael
+      — is being charged an entrance fee to sell their stuff in the United States —
+      and that’s what a tariff is, you got to pay this if you’re going to sell stuff
+      in the United States — that’s hurting the exporters around the world because their
+      market is going to shrink. That’s elementary. They’re screaming bloody murder
+      to their governments, who are therefore desperate to give them something to support
+      this craziness that’s hurting them. And what do they give them? They give them
+      these announcements: The United States will invest, if we invest in the United
+      States. And that’s the bigger story. Suppose that works? Suppose that these leaders
+      in Europe and beyond do, in fact, deliver hundreds of billions of dollars of capital
+      investment in the United States? Frankly, I don’t see it. I see the United States
+      becoming less attractive as a place to make investments, with [the passing of]
+      each day. But let’s assume I’m wrong; the money comes. Then, in those countries,
+      austerity is already being imposed on the people in every one of the European
+      countries. Now, only the rate of doing that is different, not the phenomenon.
+      In that country, it will be possible for the radical left opposition — and for
+      that matter, perhaps also the right opposition — to say what we would say here:
+      We have leaders who have arranged that the money that might have been invested
+      to create jobs in our country has, instead, been shipped over to that other country.
+      And why? Because it has been smacking us with tariffs. This is impossible. You
+      will not survive politically when that is the program that you are effectively
+      running. ⁣MICHAEL HUDSON: Well, Richard, let me give a particular example of the
+      point that you just made that ties that together. I think an example can sort
+      of walk the audience through. Your first point was the tariffs are a tax on consumers.
+      Quite right. Well, what does America import that affects the farmers? Let’s go
+      back to the farm example, because that’s where everything converges, more or less.
+      America imports an enormous amount of fertilizer, including from Russia, but it
+      also imports farm machinery. And one of the problems is that the collapse of the
+      soybean market means a collapse of the income and the ability to buy new farm
+      machinery for companies, like John Deere and Company — that has just laid off,
+      I think, over 1,000 or 2,000 workers because the farmers don’t have enough money
+      to buy new harvesting equipment. They’re trying to buy old harvesting equipment.
+      Much of this harvesting equipment is not only produced here by John Deere, but
+      it’s produced in Germany. And America also imports harvesting equipment from Deere’s
+      rival companies, also in Germany. Well, all of a sudden, they find their costs
+      are going way up, as a result of the inability to get energy and steel. So, they
+      are exporting, trying to supply the market here with the products that they produce
+      in Germany. And imagine the surprise that these companies suddenly have, that
+      are saying this is a threat to their making any profits at all this year on their
+      imports, because not only is the United States charging the 15% tariff on imports
+      from Europe, but it’s saying you are liable for the 50% tariffs because you’re
+      making your machinery out of steel, and out of aluminum — and we’re trying to
+      support the American steel industry, and the aluminum industry, because that’s
+      the only labor union that I can get that actually is going along with my pretense
+      that my policies for the wealthiest 10% are really the policies for labor. I need
+      to make a narrative symbolic act. And so, my symbolic act is going to sacrifice
+      an all-American industry that makes its products out of steel and aluminum. Well,
+      you can imagine what this crazy political ploy has done. It means that Deere and
+      Company, and other German exporters, all of a sudden, find that when they’re trying
+      to provide the harvesting equipment that American agriculture needs, all of a
+      sudden, the price has gone way, way up. And you pointed out, well, can they get
+      around this by investing in the United States? Well, if they invest in the United
+      States, they’re still going to have to import many of the parts that they use
+      from other countries, because America doesn’t have the supply chain that’s necessary
+      for all of the different things that go into harvesting equipment, just like automobiles.
+      All of that, these tariffs have stifled the profitability of imports by companies,
+      by raising the price so high that, as you say, either the companies absorb the
+      cost, in which case they don’t make profits, and yet having a corporation is all
+      about making a profit. So, there’s a limit to what you can do. They’ll just stop
+      producing, as Deere has stopped producing in some of its plants; or they pass
+      it on to consumers, and the consumers are squeezed. The farmers are squeezed because
+      not only is farm income going way down, as a result of Trump’s crazy weaponization
+      of agricultural exports — when there is an alternative now that did not exist
+      in the 1940s — but they’re broke and they can’t afford to borrow from the banks
+      because the banks say: Well, you know, what are you going to pledge as collateral?
+      Your collateral is your farmland, and the farmland prices are going down, and
+      you’re already fully mortgaged. By the way, Treasury Secretary [Scott] Bessent
+      earns $1 million a year in rent for one of his landed properties in North Dakota,
+      that’s used largely for producing all of this. This was accused of being a conflict
+      of interest by Congress, and he has to sell this land by mid-December into a collapsing
+      market. Well, you can imagine how happy he is. At least the Federal Reserve cut
+      its interest rates the other day. And the newspapers all said: Gee, with interest
+      rates going down half a percent, that’s going to lower the mortgage rates for
+      housing and for equipment purchases. But that’s a fantasy. Short-term rates went
+      down yesterday — yes, by a quarter percent — long-term rates went up, because
+      they said this is going to be inflationary. For the short term, you could lower
+      the interest rates, but we’re not going to buy long-term bonds because living
+      in the short run is going to lead to a huge inflation, just as you described,
+      Richard — the inflation from cutting taxes on the rich, and stifling the rest
+      of the economy by tariffs, and all of the other things that Trump’s doing — ending
+      government support of all of the social programs and the medical programs and
+      the educational programs that it’s been doing. You’re finding the American economy
+      is turning into something just like you’ve described in the German and European
+      economies. It’s almost economic suicide, except they don’t know that it’s suicide.
+      There’s a narrative that’s being created of junk economics that pretends that
+      all of this is going to work out. And it’s a cover story, trying to cover up the
+      actual dynamics at work, which we’ve been talking about for the last hour. ⁣RICHARD
+      WOLFF: I also think — you know, I don’t want to over-push it, but I do think that
+      there is a self-delusion going on here — that the top 10% of the people play the
+      stock market, they own the most of the shares, they are the CEOs, they’re related
+      to them, and all of that; and for them, they hold on to a lot of their wealth.
+      It’s the other 90%. And that’s why you get more and more of that old notion of
+      a split economy, you know, that 10% of us live in a world of fancy restaurants
+      and plenty of food, and all the rest; and the rest of us are the ones that are
+      traumatized every time we go to the grocery store by what we can no longer afford.
+      Here’s a statistic to think about. Compared to the year 2020 — so five years ago
+      — the price of beef in the United States has risen by more than 50%. You know,
+      hamburgers are like a basic part of an American diet, at least for those people
+      who can afford meat. Think about what it means that the cost of the hamburger
+      has gone up 50%, more or less, since the year 2020. You’re seeing a division,
+      which explains our politics, but it’s a division that I don’t think is sustainable
+      — neither by the ideology here, which keeps promising that this situation will
+      continue, even though the foundation of it, as we’re trying to show, is harder
+      and harder. And I see some of these policies as a kind of wild Trump-type — if
+      I can use the football metaphor — of the Hail Mary pass. You’re going to attack
+      Iran? Maybe you can win. Maybe Iran disappears. Maybe the West can snatch all
+      of the oil in Iran — and blah, blah. Until the Russians point out, you know, we
+      have a deal with the Iranians. If you really come here, we’re going to have to
+      fight with you. And one thing we can assure you, you’ll never get that oil. What
+      do we do? Well, we go and fight against Mr. [Nicolas] Maduro, who can’t defend
+      himself, at least not in the conventional sense. And we keep provoking, you know.
+      We become judge, jury, and executioner of the hapless Venezuelans who take a boat
+      ride 1,000 miles from the United States and get incinerated, with the whole thing
+      being handled by the President — with no evidence at all that these people were
+      doing something illegal for which even the punishment isn’t execution, and yet
+      they were executed for the crime for which that’s not the punishment that’s legally
+      — I mean, okay, these are fairly desperate acts. And hoping that the Israelis
+      will somehow be able to pull the rabbit out of the hat of the Middle East and
+      become an acceptable dominant power? Really, you have got to believe in lots of
+      magic to line up your policies in that way. ⁣MICHAEL HUDSON: You mentioned how
+      the American economy is being squeezed by these, and a desperate thing. Part of
+      the desperation is when you cut your policies into segments and not look at the
+      interactions. One of the big factors in rising prices that Americans have to pay,
+      in addition to the food that you’ve just mentioned, and the hamburgers, is electricity.
+      And that’s gone way up, largely because Trump is pandering to his MAGA crazies,
+      who insist that there’s no such thing as global warming. So again, Trump said:
+      If we’re going to put all of our faith in controlling the world of the oil industry,
+      I’m going to support the oil industry, and my MAGA base, by saying, stop all of
+      the investment that we’re doing in wind power and solar power. So, he’s withdrawn
+      the American government support for wind power, which had been increasing it,
+      and he’s also ending the support for solar power because China has a great scientific
+      advantage in producing solar power. And the result is that opposing — global warming
+      is a big factor in disrupting the economy, but also Trump’s support for trying
+      to increase the artificial intelligence monopoly is projected as being largely
+      responsible for an enormous increase in electrical usage. This is going to raise
+      electrical prices. And already, the electric utilities in this country are raising
+      their prices because one of the Trump policies — to please his 1% constituents,
+      which we didn’t mention — is the electric subsidies that he’s been giving. It
+      costs basically ten years to go through all of the public filings that you have
+      to do, in order to get a new electric utility built to supply the energy for not
+      only the rising computer and artificial intelligence industry, but for just the
+      normal growth in electric utility, that’s especially coming from air conditioning
+      to cope with global warming that’s increasing because Trump has withdrawn from
+      the Paris Agreement and all the other agreements to try to stop global warming.
+      Everything he’s doing is to exacerbate the cost-squeeze and the shortfall of things
+      we need. Well, electricity doesn’t play much of a role in the Consumer Price Index.
+      Neither does rent: that’s not much in the Consumer Price Index. Or health care.
+      All these things that are squeezing the budgets of the Americans that you just
+      described are excluded from the statistics that the government’s talking about
+      — thinking if you just don’t describe them, maybe we can convince people of our
+      cover story. And it’s as much of a fantasy as the American hot war against Russia,
+      saying, well, we’re really winning in Ukraine because Russia’s economy is falling
+      apart. It’s not falling apart because it’s a self-sufficient economy. It produces
+      all of its own needs, instead of becoming import-dependent, thanks largely to
+      the American sanctions that it’s imposed. By imposing sanctions on the rest of
+      the world, America has enabled other countries to respond out of the need to become
+      independent of the U.S. market. So Trump has essentially created a situation where
+      the rest of the world is independent. And as Trump copes with this, by making
+      even more demands that are unrealizable in practice, the more he’s isolating the
+      American and European NATO countries and their allies from the whole rest of the
+      world. So, we’re seeing all of the convergence of all of these bad policies to
+      support special interests — to support the oil industry, to support Wall Street,
+      to support the banking industry, to support labor unions that support Trump —
+      all of this is basically falling apart. And it’s causing the American economy
+      to fall apart, slowly — a slow crash, but a crash that cannot be reversed without
+      a radical change, not only in the economy, but in the whole Constitution, and
+      the whole way in which the legal system and political system are responsible for
+      this mess. ⁣RICHARD WOLFF: And last irony: As you can no longer blame the immigrants
+      — since you’ve effectively stopped the inflow and reversed it to an outflow —
+      you must find a new comparable scapegoat. And if you watch the internal closing-down
+      of criticism that extends even to late-night comedians, you can see that building
+      up the domestic left becomes the new scapegoat to justify why all of those things
+      done by ICE to the immigrants didn’t work. There’s no huge resurgence of investment
+      here. Not at all. There’s no resurgence of manufacturing. Not at all. It’s all
+      smoke and mirrors and scapegoating, because that’s the sum total of where his
+      first eight months have gotten him. ⁣NIMA ALKHORSHID: Yeah. Thank you so much,
+      Richard and Michael, for being with us today. Great pleasure, as always. ⁣RICHARD
+      WOLFF: Talk to you again next week. ⁣NIMA ALKHORSHID: Yeah, thank you. Transcription
+      and Diarization: https://scripthub.dev Editing: Kimberly Mims Review: ced Photo
+      by Doncoombez on Unsplash The post Cascading Policy Failures Undermine Empire
+      first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion on September 18, 2025, Michael Hudson emphasized
+      the long-standing impact of U.S. military spending on the balance of payments,
+      noting that since the Korean War, such expenditures have significantly contributed
+      to the country's balance of payments deficit, a point he has been making for decades.
+    paragraph_summary: In a discussion on September 18, 2025, Nima Alkhorshid, Michael
+      Hudson, and Richard Wolff explored the implications of U.S. military spending
+      on the balance of payments, with Hudson emphasizing that since the Korean War,
+      America's military expenditures abroad have significantly contributed to its balance
+      of payments deficit, while private sector trade and investment have remained balanced.
+      Hudson noted that his insights were recognized by military and government entities,
+      particularly through his book "Super Imperialism," which highlighted how the U.S.
+      has financed its military spending by leveraging the dollarization of foreign
+      economies. He warned that as countries move away from using the dollar as a reserve
+      currency, the U.S. may struggle to sustain its military presence globally, unlike
+      Russia, whose military strategy does not rely on balance of payments considerations.
+    published: '2025-10-01T12:59:14+00:00'
+  - title: Cascading Policy Failures Undermine Empire
+    url: https://michael-hudson.com/2025/10/cascading-policy-failures-undermine-empire/
+    text: '⁣NIMA ALKHORSHID: Hi everybody. Today is Thursday, September 18, 2025, and
+      our friends Michael Hudson and Richard Wolff are back with us. Welcome back. ⁣RICHARD
+      WOLFF: Glad to be here. ⁣NIMA ALKHORSHID: Michael, you told me that you watched
+      my talk with Scott Ritter about the defense budget, and all of that. What’s your
+      point on that? ⁣MICHAEL HUDSON: Well, he picked up on my point that I’ve been
+      making fifty years ago, that there’s a great difference between the balance of
+      payments effect of America’s military spending and other countries. Ever since
+      the Korean War broke out in 1950, the entire balance of payments deficit for the
+      United States, from the 50s, 60s, and the 70s, has been military spending abroad.
+      The private sector trade and investment are exactly in balance over all these
+      years. I published all of these statistics first for Arthur Andersen and then
+      in my book Super Imperialism . And immediately, when my book Super Imperialism
+      came out, Herman Kahn hired me for the Hudson Institute and said the largest buyers
+      of the book were the State Department and the military — the CIA and the military.
+      Immediately, the military gave a contract to the Hudson Institute for me to explain
+      how going off the gold standard essentially enabled the United States to fund
+      its balance-of-payments deficit, meaning its military spending abroad, by pumping
+      dollars into the global economy and having these dollars end up in foreign central
+      banks and be recycled. Well, what that means is that America’s whole military
+      spending for the last fifty years depends upon the dollarization system in other
+      countries, using dollars as their monetary reserves in place of gold, and instead
+      of their own currencies. That means that, as they move away from the dollars,
+      there’s no way that the United States can finance its eight hundred military bases
+      abroad and its military spending. Russia doesn’t have this problem. The military
+      generals don’t study the balance of payments. And many of them are right-wingers
+      that have a sort of crude monetarist Chicago School neoliberal view of money,
+      without understanding that money is debt. And, specifically, monetary reserves
+      are not only America’s treasury debt, but the monetization of America’s military
+      spending. Now, what Scott pointed out is that Russia doesn’t have this problem.
+      China doesn’t have this problem because they’re not trying to create a foreign
+      empire. They’re not trying to put military bases in other countries where they
+      have to somehow spend their domestic currency, and buying local currencies, to
+      do whatever military operations do there. So they don’t have the constraints that
+      the United States have. And that’s what’s essentially leading the United States
+      to say: we’re not only at war with Russia and China militarily, we’re at war with
+      them financially. We don’t want the BRICS — China, Russia, Iran, and their other
+      countries — to have an alternative of not using the dollar so that the dollars
+      that we spend abroad for all these military operations are going to be somehow
+      recycled to the United States. That’s why you’re having Trump try to browbeat
+      India, Japan, Korea, and Europe into somehow promising to recycle all the dollars
+      to the United States. Why is he doing this? It’s not simply to pay tariffs so
+      that the Treasury will have more money and can cut taxes on the wealthy even more.
+      It’s so that the dollar will not be forced down so that there will be a huge inflow
+      to support the dollar, basically, despite Trump’s hope of devaluing the dollar
+      slightly, slowly downwards — as if that’s going to make American exports more
+      competitive. The whole fight over the dollar isn’t really about U.S. exports being
+      more competitive because the United States doesn’t have much industry to export.
+      It’s really about the balance of payments, which is primarily military in character
+      — not the trade deficit, not the investment deficit. The government used to realize
+      that. But again, Trump and his team just think of sort of running a protection
+      racket: Either you spend your money to the United States — $350 billion from you,
+      Japan, you promise to send here to invest — another $350 billion from you, Korea
+      — or we’re just going to raise tariffs and deny you the U.S. market. The American
+      strategy — and it’s a military strategy as well as an economic strategy — imagines
+      that other countries need the American market, and they don’t have a choice but
+      to support the dollar, and by supporting the dollar, supporting America’s ability
+      to wage war and have military operations abroad. They don’t realize that this
+      is the whole thing. And yet this protection racket has essentially overplayed
+      its hand. And last week, Korea said: Wait a minute. You just told Japan to pay
+      you $350 billion, and you get all the profits from what they spend in — you get
+      90% of the profits and give us 10% — if there are any profits at all, you know,
+      from the way you arrange it with your Hollywood-Pentagon bookkeeping. You need
+      America’s market; we can deny it, and that’s chaos for you. Well, it’s not really
+      chaos. They tried the same thing with China last week, and China protested and
+      said — I’m sorry, they tried it with Korea last week — Korea protested and they
+      said: We’re not Japan. We don’t have $350 billion. We’re much smaller. And you’re
+      blocking our automobile exports from the U.S. market. We just can’t pay. And then,
+      Howard Lutnick, the Commerce Secretary, said: The Koreans either accept the deal,
+      or pay the tariffs. Black and white: pay the tariffs, or accept the deal. Well,
+      yesterday, Korea’s foreign minister went to China. And there’s not a word in the
+      paper about what they’re discussing. But you can just imagine. Korea realizes
+      that Trump is going to insist: We need your money to continue our military spending
+      abroad and to finance our budget deficit. We’re going to close the market to you.
+      And Korea finally is saying, well — for Hyundai and for Samsung, all of its computer
+      industries — what if we don’t have the U.S. market? Do we have a Plan B? And I
+      suspect they’re talking about China. And they’re talking to China. And they’re
+      saying, well, you know, if we walk away from the U.S. market, we’ll walk away
+      from that factory in Georgia. Obviously, there’s such a reaction in Korea that
+      we can’t afford it. If we walk away, can you figure out a way that we can work
+      our industrial capacity in partnership with you as part of your Chinese new prosperity
+      sphere? And by the way, if we do that, will you help back us up when we tell the
+      Americans to leave their military bases here? We don’t want their military bases
+      if they’re going to hold us up and essentially declare: We’re treating you like
+      a defeated power. Like we defeated you in 1951. There’s never really been an end
+      to the Korean War. We’re still fighting you, just like we’re still fighting World
+      War II against Japan. You don’t have a choice. If Korea and Japan, and India all
+      make a choice to say, well, we cannot afford access to the U.S. market on these
+      terms. We can use the $350 billion — or Japan can use the same amount — we can
+      use that $350 billion to subsidize our own industry and keep our employment and
+      support our workforce, while we transition radical change, from orienting our
+      trade with the United States and Europe, to orienting it with our new Asian partners.
+      That’s what it all is. And that commercial balance-of-payments consideration is
+      a fundamental military consideration at the root. And that’s what really frightens
+      the United States. It was the Vietnam War that forced the United States off gold
+      in 1971. Its spending in Vietnam depleted the gold stock by spending so many dollars
+      abroad that General de Gaulle, in France, and Germany, just cashed them in for
+      gold. And America finally just stopped the drain. Well, now it’s other countries
+      that are preventing the United States from solving this drain problem by saying
+      we’re not going to accept any dollars that are just the monetization of your military
+      spending to surround us with military bases. We’re going to stop the financial
+      bloodstream that’s funding your whole new Cold War. And this goes beyond the investment
+      in missiles and the investment in boats. Other countries are not going to fight
+      a war by invading any other country. And America cannot control another country,
+      not even Ukraine, without troops invading it. And the cost of a military invasion,
+      an infantry invasion, is very different from the domestic cost of sending missiles.
+      China and Russia, Iran have no intention or ability to mount an army to send into
+      other countries. All they have is missiles, basically. And that’s what the next
+      few years of war are going to be all about. ⁣NIMA ALKHORSHID: Yeah. Go ahead,
+      Richard. ⁣RICHARD WOLFF: Okay, another way of saying this is that the United States
+      cannot afford the empire. The problem is, it can’t do it. In the early decades
+      after World War II, the balance of payments — correct me if I’m wrong, Michael
+      — saw export surplus from the United States, generating the capital and the money
+      with which then to finance the seven or eight hundred bases around the world.
+      And so you had the rest of the world dependent on exports from the United States,
+      having to pay for them in the money that was then used to subordinate them militarily
+      to keep this game going. By the 1970s, this game was over because the Germans,
+      the Japanese, and the Europeans had recovered from the war, as we knew they would.
+      That’s what they were doing in the decades from 1945 to 1975. In that thirty-year
+      period, the United States lost its preeminent position in the world economy as
+      an exporter. It would either have had to stop because it could no longer finance
+      its military adventures abroad by its export surplus, or it would have had to
+      do what Michael so nicely described. It would have to have found another way,
+      another way, and the dollarization making all oil contracts denominated in dollars
+      — and hyping the threat of the Soviet Union, which the Europeans are copying today
+      because they don’t know any other politics — this enabled them to then create
+      the deficit program. They would make the United States a net importer, switch
+      its own production out of the country, no longer needing these exports, no longer
+      being able to afford them (they weren’t profitable enough to produce in the United
+      States), and you replaced all the workers, either with machinery and with automation,
+      or by exporting the jobs. So, your end result was the story Michael just told.
+      You could continue to finance your global military adventures, but now you finance
+      them by means of imposing, if you like, on the world the need to hold reserves
+      for their currency because the agreed relationship among currencies was gone.
+      That’s what we had coming out of the Bretton Woods, and that’s what we ended when
+      Nixon took us off the gold standard in 1971. So then, you have Michael’s story.
+      But let me do something we don’t do enough of. Let me tell you a little bit on
+      this program about the limits to all of this. In order to sustain, now, when you
+      have no exports and when the ability of the United States to import is shrinking
+      every day, because the mass of our people is simply too poor — I mean, the statistic
+      came out this week that the top 10% (if I have it right), the top 10% of the income
+      distribution accounts for 50% of the consumer demand in our society. Alright,
+      that’s another way of saying that the bottom 90% are piss poor. They can’t afford
+      anything. Right? Well, given that we depend on imports, that’s not a good basis
+      for the future. We’re not running; we’re not going to be able to run the kinds
+      of deficits that we used to. That’s my guess, at this point. Alright, what then
+      is going to sustain the story Michael told? How are we going to pay for all of
+      those bases? We don’t have the exports to do it, and we’re not running the kinds
+      of deficits, nor is the rest of the world eager to accumulate dollars in the way
+      that they were before — and that was true before BRICS became important. The decline
+      of the dollar as a reserve currency is at least thirty years old. The Chinese
+      once had $1.2 trillion. They have $750 billion. I know these are big numbers,
+      but that’s a big decline. It’s not surprising, but it’s a big decline. So for
+      me, I’m beginning to wonder, how long can you keep this up? And when you add the
+      degree to which military payments in this country are a Keynesian support of aggregate
+      demand in our society, then you see he can’t afford a military, but he can’t afford
+      not to have the military. And I suspect that’s the reason why Mr. Trump, who comes
+      into office promising to stop the endless wars, has neither stopped them, nor
+      has he been able to avoid proliferating more war. He attacked Iran, and he’s busily
+      now provoking Venezuela, and taking extraordinary steps to do it. And giving carte
+      blanche to Mr. [Benjamin] Netanyahu is extraordinary. You know, we wonder, why
+      would the government do these extraordinary things? And in a way, Michael’s story
+      gives the beginning of an answer: that there’s more going on here than macro-management.
+      That’s important. And there’s more going on than the balance of payments. That’s
+      important. There’s also managing the military — the budget and the activity —
+      when you’re so badly out of whack, you can’t beat the Russians in Ukraine. That’s
+      what’s obvious. It’s obvious to the whole world. They can’t let go. What’s the
+      matter here? Even in Vietnam, they understood: we’ve been defeated. And the Americans
+      withdrew, and the Communist Party of Vietnam took over, and has remained the government
+      ever since. That’s thirty-five years ago, right? That is extraordinary. What is
+      it now? Maybe more than that. Fifty years ago. Then they were defeated in Afghanistan,
+      and they withdrew. Mr. Biden, in the end, did what the previous presidents couldn’t
+      dare do, which is to say: this is hopeless. And so they’re losing. You know, Harper’s
+      Magazine just came out this last week, and on the front page is the lead story
+      of the magazine, which — here’s the title: Why does the American Military Keep
+      Losing All the Wars? Wow, you’re now even able to ask, in a public way, the forbidden
+      question. And if the rest of the world is worried about the United States economically,
+      we have to remember it was also worried about it militarily, and that danger is
+      receding, as we see what’s going on in the world. The desperation inside the United
+      States, the fascistic turn that we are assaulted with every day is a reflection
+      of all of these dead ends confronting the people who run this system. ⁣MICHAEL
+      HUDSON: Richard, there’s a common denominator that links the dynamics you’ve just
+      meant, and that’s oil and foreign investment in oil. Much of the build-up of the
+      reason that there was a gold inflow to the United States from 1945 to 1950 when
+      the Korea War broke out was not simply U.S. exports, it was the sale of oil by
+      the American oil industry that was in control of the world’s oil. And for the
+      last hundred years — and I’ve made this point before on our show, Nima — the cornerstone
+      of America’s control of money, and the balance of payments and military coercion,
+      has been oil, along with food and agriculture, because if you have the ability
+      to monopolize oil, you have the ability to cut off other countries’ industrial
+      potential — just like depriving Germany and Europe of Russian oil and gas has
+      ended Germany’s and Europe’s industrial potential. Now, that explains a number
+      of things that you’ve seen recently. Not only has America continued to do everything
+      that it can to isolate foreign purchases of Russian oil — the same thing with
+      Iranian oil, it’s tightened all of the sanctions against it. And the reason that
+      Iran was overthrown in [1953] was largely because it wanted to nationalize the
+      oil and the Americans and British together — it was a British-Iranian oil company
+      at that time — felt they were losing control of the oil leverage. Well, fast forward
+      to today, you’re seeing in the nightly news, every night here has been taking
+      off with Venezuela. Why Venezuela? It’s not really drugs. Just like Israel claims
+      that all Palestinians are Hamas, the United States claims that all Venezuelans
+      — their fishermen, their population — are drug dealers. Well, the reason that
+      the news leads off with blowing up a fishing boat every night, or another boat
+      that has no seeming connection to drug dealing at all, is the United States is
+      trying to create a narrative that this fight against Venezuela is a fight against
+      drugs. It’s a fight not only to regain control of Venezuelan oil, but, more specifically,
+      to prevent China’s recent negotiations with Venezuela to invest in developing
+      Venezuela’s enormous oil reserves under Lake Maracaibo. And imagine what the United
+      States is worried about. Not only is China making itself independent of America’s
+      allies’ supply and control of the oil industry from Russia, but now China can
+      get its oil from Venezuela itself; and the fight in the Middle East, using the
+      alliance of Israel with the Wahhabi jihadists, to create a disaster, there is
+      to prepare the war for controlling Iraqi, Syrian, and, most of all, Iranian oil.
+      The United States still dreams of reestablishing its diplomatic, economic, political,
+      and military control of other countries by controlling oil and food — that’s the
+      other basic means of control: that America can impose sanctions on its food exports
+      to starve other countries into submission to its policy, as it tried to do against
+      Mao after the 1945 revolution, until Canada broke the blockade. Well, right now,
+      you’re seeing China voluntarily shift its imports for soybeans away from the United
+      States to Brazil, to buy its soybeans there. And China has, until this year, accounted
+      for 50% of all soybean production in the United States — and it’s 70% of soybean
+      production in the case of North Dakota. All of a sudden, there’s zero demand from
+      China for soybeans. And yet you have a perfect storm for American agriculture.
+      You have the corn and soybean crop — a bumper crop this year because of the extreme
+      weather — all of this crop is piling up. There’s nowhere to sell it. They don’t
+      have enough storage capacity to put the soybeans and corn in silos. There’s a
+      huge market now in big plastic bags to begin storing them in. This is a disaster,
+      and the farmers are pressuring Trump to say, you know, you’ve got to be able to
+      reestablish our market next year. We’ve been dependent on soybeans, and what can
+      we shift to? We can’t shift to corn. People are not buying our agricultural exports
+      anymore. So not only has America lost its ability to use food, like it’s used
+      oil, to starve other countries, denying them American exports, but it’s lost its
+      agricultural sector. And the result is that land prices are collapsing in North
+      Dakota and other areas. They’re falling because the farmers are not able to meet
+      their debts. For the last 150 years, all of the financial crises in America, Europe,
+      and the Northern Hemisphere have occurred in the autumn, in September and October.
+      And there’s a reason for that. It was called the autumnal drain. It’s when farmers
+      would have to borrow the money to move the crops to sell them for markets. Well,
+      right now, that autumnal drain threatened to lead to a break in the chain of payments.
+      Insolvencies, arrears, bankruptcies, and foreclosures, that’s what they’re talking
+      about now in the American Northwest and Midwest: foreclosures on agricultural
+      land that doesn’t have a customer. And there’s nothing that Trump can do about
+      this now because the shift is irreversible. Now that China is making a deal with
+      Brazil, saying we cannot rely on America’s soybean exports any longer because
+      Trump has weaponized every element of foreign trade. He’s weaponized the oil trade.
+      He’s weaponized the agricultural food trade to try to make other countries dependent
+      enough to shake them down for his protection racket. Well, we don’t need the American
+      market. Thank heavens we have you in Brazil! So, the Brazilian farmers are reorganizing,
+      replanting their agriculture, to shift into soybeans. Once they do this, if Trump
+      goes back and tells China, okay, you know, you can depend on us again for our
+      soybean exports, China is going to say, well, wait a minute, we’re not going to
+      double-cross Brazil, where we’ve just made an agreement to trade with them and
+      to trade in our own currency, not trade in dollars, but trade in our currency.
+      Once we’ve made this shift, and the whole national economy (Brazil) has been shifting
+      to dependence on our market, we’re not going to turn on a dime, like you do in
+      the United States, and just say, okay, we’re going to change and have a new market.
+      A change is irreversible. You can imagine how the threat of America losing the
+      ability to use food — soybeans, grain, wheat — and oil because of the moves by
+      China and other countries to become alternative suppliers to the United States
+      means that America’s lost the two leading elements, not only of its exports, but
+      of foreign investments in oil and farmland that American investors have controlled.
+      They’ve lost the ability to support the dollar. And by not supporting the dollar,
+      it means not providing the foreign exchange that the United States needs in order
+      to maintain its military presence abroad, that remains as heavy a drain today
+      as it was during the Vietnam War that forced the dollar off gold to begin with.
+      So, when you put the military strategy and imperial strategy in the context of
+      the balance of payments, you find the great constraint that confronts the United
+      States. And that’s what my book Super Imperialism was all about. And as I said,
+      the major audience was not foreign readers wanting to fight against imperialism.
+      It was the Defense Department, State Department, and CIA that used it as a how-to-do-it
+      book: this is how you have to look at the context of America’s military and non-military
+      diplomacy. ⁣NIMA ALKHORSHID: Richard, before going to your comment, one other
+      aspect of what Michael said is Donald Trump imposing tariffs on steel and aluminum
+      that raise industrial costs, destroy jobs, and weaken America’s manufacturing
+      capabilities. ⁣RICHARD WOLFF: Yes, and that’s a perfect segue. I want to take
+      us to a slightly different aspect of this problem. It has now become clear, with
+      each passing day — and Michael has given us the context — what the purpose is,
+      on the one hand, of raising tariffs and, on the other hand, of using them as bargaining
+      chips to get other countries to agree to invest money in the United States. For
+      example, in the last two or three days, there has been a flurry of statements
+      coming out of England because Trump is visiting England, Britain, and big boasting
+      of huge amounts of money — hundreds of billions of dollars that the British are
+      going to invest in the United States, and vice versa — okay, a very interesting
+      story. But let’s take a look at what the reality is. Number one: The purpose of
+      the tariffs was to do something that now the country is desperate to do. I want
+      to underscore this because I don’t think it’s very well understood: We are watching
+      a Republican president leading a Republican party that, for a hundred years, has
+      been the carrier of the notion that taxing is bad and the government shouldn’t
+      tax anybody, that we are in favor of private enterprise, not state enterprise,
+      and the government should not — blah, blah, blah, blah. And what is he doing?
+      Imposing an enormous tax on the American economy. That’s what tariffs are: they
+      are a tax. So, we should wonder what would make ideologically driven conservative
+      business people who hate to pay taxes, who have been supporting the Republican
+      Party for a century to keep their taxes down, and have had that work well for
+      them — why would they suddenly reverse everything and impose an enormous tax?
+      Answer: they’re desperate. They have no other way to go. Their borrowing is out
+      of control — let’s remember, in 1970, the total debts of the United States were
+      a few hundred billion dollars. Today, it’s $37 trillion. That’s an increase that
+      dwarfs production and prices — nothing goes like that. We have borrowed crazy.
+      Why? Because we had already reached difficulties, that meant the government, to
+      finance itself, couldn’t tax the rich who controlled politics and wouldn’t permit
+      it, and had pushed the tax burden onto the mass of people so much that by the
+      60s and 70s we had tax revolts: that’s what they were called — in California,
+      all over the United States. And then began the solution. When the politicians
+      cannot dare tax their donors, and can no longer tax the people, what do they do?
+      They borrow, as if it were a magic alternative. And who do they borrow from? The
+      corporations and the rich who lend the government the money they did not have
+      to pay in taxes. This is “Schweinerei,” the Germans would say. This is pure fakery.
+      But now we get to where we are today. We’ve borrowed so much playing this absurd
+      game. We got the rest of the world to get in on this, holding their wealth in
+      the form of U.S. treasuries, and so on, that we have gotten to the point which
+      was already reached under the short tenure of Elizabeth Truss in England, where
+      the capital markets say: We’re not lending to you anymore. You’re not a reliable
+      borrower. You have gone so far in your borrowing that we can see you’re getting
+      close to that political point where your own people will not allow their taxes
+      to be used to pay interest on debt, rather than to feed their children. And in
+      that game, it’s the creditor who loses. We don’t want to lose. Alright, so what
+      is the U.S. going to do? Tariff. It will, in fact, put a tax; it’ll put it on
+      businesses — because most of the tariffs are paid by businesses that import into
+      the United States — and they will say to those businesses: It’s your job, you
+      have to pay for this. It’s your job to figure out whether you can squeeze the
+      foreigners to lower their price to offset the tariff, or you squeeze the American
+      consumer via inflation, and solve the problem that way. But we, the government,
+      are no longer squeezing the masses. You (irony: you, the business community),
+      are doing it through inflation. That’s the effort. Now you understand why Mr.
+      Trump is eager to do the tariffs, but because they are resisted and because they
+      are not generating anywhere near enough money to deal with this problem, he has
+      the second half of it: He’ll bargain away the tariff that wasn’t doing the job
+      anyway if you promise to move capital into the United States. Hence, Michael is
+      quite right. It’s a protection racket: You have to help us because we are a flailing,
+      declining empire, and the only way we can continue to protect you — that’s what
+      they say to the Europeans — you’ve got to help us. You’ve got to give us all this
+      money. Keir Starmer, yesterday, in a spectacle as pathetic as any I’ve ever seen,
+      boasts that the United States has committed to investing [$]150, or maybe even
+      [$]250 — it’s a little fuzzy, [the] numbers — of money over the next ten years
+      in Britain. And he says with real pride: it’s going to produce, we hope, 7,900
+      jobs. So, I looked at the statistics. What’s the job story in England between
+      August of 2024 and August of this year? They lost 127,000 jobs. He’s boasting
+      of something that can’t offset even 10% of the decline of the British Empire —
+      and it’s coming over ten years! That’s an admission of failure that’s been dressed
+      up as an achievement. Last point. If the rest of the world — to quote Michael
+      — is being charged an entrance fee to sell their stuff in the United States —
+      and that’s what a tariff is, you got to pay this if you’re going to sell stuff
+      in the United States — that’s hurting the exporters around the world because their
+      market is going to shrink. That’s elementary. They’re screaming bloody murder
+      to their governments, who are therefore desperate to give them something to support
+      this craziness that’s hurting them. And what do they give them? They give them
+      these announcements: The United States will invest, if we invest in the United
+      States. And that’s the bigger story. Suppose that works? Suppose that these leaders
+      in Europe and beyond do, in fact, deliver hundreds of billions of dollars of capital
+      investment in the United States? Frankly, I don’t see it. I see the United States
+      becoming less attractive as a place to make investments, with [the passing of]
+      each day. But let’s assume I’m wrong; the money comes. Then, in those countries,
+      austerity is already being imposed on the people in every one of the European
+      countries. Now, only the rate of doing that is different, not the phenomenon.
+      In that country, it will be possible for the radical left opposition — and for
+      that matter, perhaps also the right opposition — to say what we would say here:
+      We have leaders who have arranged that the money that might have been invested
+      to create jobs in our country has, instead, been shipped over to that other country.
+      And why? Because it has been smacking us with tariffs. This is impossible. You
+      will not survive politically when that is the program that you are effectively
+      running. ⁣MICHAEL HUDSON: Well, Richard, let me give a particular example of the
+      point that you just made that ties that together. I think an example can sort
+      of walk the audience through. Your first point was the tariffs are a tax on consumers.
+      Quite right. Well, what does America import that affects the farmers? Let’s go
+      back to the farm example, because that’s where everything converges, more or less.
+      America imports an enormous amount of fertilizer, including from Russia, but it
+      also imports farm machinery. And one of the problems is that the collapse of the
+      soybean market means a collapse of the income and the ability to buy new farm
+      machinery for companies, like John Deere and Company — that has just laid off,
+      I think, over 1,000 or 2,000 workers because the farmers don’t have enough money
+      to buy new harvesting equipment. They’re trying to buy old harvesting equipment.
+      Much of this harvesting equipment is not only produced here by John Deere, but
+      it’s produced in Germany. And America also imports harvesting equipment from Deere’s
+      rival companies, also in Germany. Well, all of a sudden, they find their costs
+      are going way up, as a result of the inability to get energy and steel. So, they
+      are exporting, trying to supply the market here with the products that they produce
+      in Germany. And imagine the surprise that these companies suddenly have, that
+      are saying this is a threat to their making any profits at all this year on their
+      imports, because not only is the United States charging the 15% tariff on imports
+      from Europe, but it’s saying you are liable for the 50% tariffs because you’re
+      making your machinery out of steel, and out of aluminum — and we’re trying to
+      support the American steel industry, and the aluminum industry, because that’s
+      the only labor union that I can get that actually is going along with my pretense
+      that my policies for the wealthiest 10% are really the policies for labor. I need
+      to make a narrative symbolic act. And so, my symbolic act is going to sacrifice
+      an all-American industry that makes its products out of steel and aluminum. Well,
+      you can imagine what this crazy political ploy has done. It means that Deere and
+      Company, and other German exporters, all of a sudden, find that when they’re trying
+      to provide the harvesting equipment that American agriculture needs, all of a
+      sudden, the price has gone way, way up. And you pointed out, well, can they get
+      around this by investing in the United States? Well, if they invest in the United
+      States, they’re still going to have to import many of the parts that they use
+      from other countries, because America doesn’t have the supply chain that’s necessary
+      for all of the different things that go into harvesting equipment, just like automobiles.
+      All of that, these tariffs have stifled the profitability of imports by companies,
+      by raising the price so high that, as you say, either the companies absorb the
+      cost, in which case they don’t make profits, and yet having a corporation is all
+      about making a profit. So, there’s a limit to what you can do. They’ll just stop
+      producing, as Deere has stopped producing in some of its plants; or they pass
+      it on to consumers, and the consumers are squeezed. The farmers are squeezed because
+      not only is farm income going way down, as a result of Trump’s crazy weaponization
+      of agricultural exports — when there is an alternative now that did not exist
+      in the 1940s — but they’re broke and they can’t afford to borrow from the banks
+      because the banks say: Well, you know, what are you going to pledge as collateral?
+      Your collateral is your farmland, and the farmland prices are going down, and
+      you’re already fully mortgaged. By the way, Treasury Secretary [Scott] Bessent
+      earns $1 million a year in rent for one of his landed properties in North Dakota,
+      that’s used largely for producing all of this. This was accused of being a conflict
+      of interest by Congress, and he has to sell this land by mid-December into a collapsing
+      market. Well, you can imagine how happy he is. At least the Federal Reserve cut
+      its interest rates the other day. And the newspapers all said: Gee, with interest
+      rates going down half a percent, that’s going to lower the mortgage rates for
+      housing and for equipment purchases. But that’s a fantasy. Short-term rates went
+      down yesterday — yes, by a quarter percent — long-term rates went up, because
+      they said this is going to be inflationary. For the short term, you could lower
+      the interest rates, but we’re not going to buy long-term bonds because living
+      in the short run is going to lead to a huge inflation, just as you described,
+      Richard — the inflation from cutting taxes on the rich, and stifling the rest
+      of the economy by tariffs, and all of the other things that Trump’s doing — ending
+      government support of all of the social programs and the medical programs and
+      the educational programs that it’s been doing. You’re finding the American economy
+      is turning into something just like you’ve described in the German and European
+      economies. It’s almost economic suicide, except they don’t know that it’s suicide.
+      There’s a narrative that’s being created of junk economics that pretends that
+      all of this is going to work out. And it’s a cover story, trying to cover up the
+      actual dynamics at work, which we’ve been talking about for the last hour. ⁣RICHARD
+      WOLFF: I also think — you know, I don’t want to over-push it, but I do think that
+      there is a self-delusion going on here — that the top 10% of the people play the
+      stock market, they own the most of the shares, they are the CEOs, they’re related
+      to them, and all of that; and for them, they hold on to a lot of their wealth.
+      It’s the other 90%. And that’s why you get more and more of that old notion of
+      a split economy, you know, that 10% of us live in a world of fancy restaurants
+      and plenty of food, and all the rest; and the rest of us are the ones that are
+      traumatized every time we go to the grocery store by what we can no longer afford.
+      Here’s a statistic to think about. Compared to the year 2020 — so five years ago
+      — the price of beef in the United States has risen by more than 50%. You know,
+      hamburgers are like a basic part of an American diet, at least for those people
+      who can afford meat. Think about what it means that the cost of the hamburger
+      has gone up 50%, more or less, since the year 2020. You’re seeing a division,
+      which explains our politics, but it’s a division that I don’t think is sustainable
+      — neither by the ideology here, which keeps promising that this situation will
+      continue, even though the foundation of it, as we’re trying to show, is harder
+      and harder. And I see some of these policies as a kind of wild Trump-type — if
+      I can use the football metaphor — of the Hail Mary pass. You’re going to attack
+      Iran? Maybe you can win. Maybe Iran disappears. Maybe the West can snatch all
+      of the oil in Iran — and blah, blah. Until the Russians point out, you know, we
+      have a deal with the Iranians. If you really come here, we’re going to have to
+      fight with you. And one thing we can assure you, you’ll never get that oil. What
+      do we do? Well, we go and fight against Mr. [Nicolas] Maduro, who can’t defend
+      himself, at least not in the conventional sense. And we keep provoking, you know.
+      We become judge, jury, and executioner of the hapless Venezuelans who take a boat
+      ride 1,000 miles from the United States and get incinerated, with the whole thing
+      being handled by the President — with no evidence at all that these people were
+      doing something illegal for which even the punishment isn’t execution, and yet
+      they were executed for the crime for which that’s not the punishment that’s legally
+      — I mean, okay, these are fairly desperate acts. And hoping that the Israelis
+      will somehow be able to pull the rabbit out of the hat of the Middle East and
+      become an acceptable dominant power? Really, you have got to believe in lots of
+      magic to line up your policies in that way. ⁣MICHAEL HUDSON: You mentioned how
+      the American economy is being squeezed by these, and a desperate thing. Part of
+      the desperation is when you cut your policies into segments and not look at the
+      interactions. One of the big factors in rising prices that Americans have to pay,
+      in addition to the food that you’ve just mentioned, and the hamburgers, is electricity.
+      And that’s gone way up, largely because Trump is pandering to his MAGA crazies,
+      who insist that there’s no such thing as global warming. So again, Trump said:
+      If we’re going to put all of our faith in controlling the world of the oil industry,
+      I’m going to support the oil industry, and my MAGA base, by saying, stop all of
+      the investment that we’re doing in wind power and solar power. So, he’s withdrawn
+      the American government support for wind power, which had been increasing it,
+      and he’s also ending the support for solar power because China has a great scientific
+      advantage in producing solar power. And the result is that opposing — global warming
+      is a big factor in disrupting the economy, but also Trump’s support for trying
+      to increase the artificial intelligence monopoly is projected as being largely
+      responsible for an enormous increase in electrical usage. This is going to raise
+      electrical prices. And already, the electric utilities in this country are raising
+      their prices because one of the Trump policies — to please his 1% constituents,
+      which we didn’t mention — is the electric subsidies that he’s been giving. It
+      costs basically ten years to go through all of the public filings that you have
+      to do, in order to get a new electric utility built to supply the energy for not
+      only the rising computer and artificial intelligence industry, but for just the
+      normal growth in electric utility, that’s especially coming from air conditioning
+      to cope with global warming that’s increasing because Trump has withdrawn from
+      the Paris Agreement and all the other agreements to try to stop global warming.
+      Everything he’s doing is to exacerbate the cost-squeeze and the shortfall of things
+      we need. Well, electricity doesn’t play much of a role in the Consumer Price Index.
+      Neither does rent: that’s not much in the Consumer Price Index. Or health care.
+      All these things that are squeezing the budgets of the Americans that you just
+      described are excluded from the statistics that the government’s talking about
+      — thinking if you just don’t describe them, maybe we can convince people of our
+      cover story. And it’s as much of a fantasy as the American hot war against Russia,
+      saying, well, we’re really winning in Ukraine because Russia’s economy is falling
+      apart. It’s not falling apart because it’s a self-sufficient economy. It produces
+      all of its own needs, instead of becoming import-dependent, thanks largely to
+      the American sanctions that it’s imposed. By imposing sanctions on the rest of
+      the world, America has enabled other countries to respond out of the need to become
+      independent of the U.S. market. So Trump has essentially created a situation where
+      the rest of the world is independent. And as Trump copes with this, by making
+      even more demands that are unrealizable in practice, the more he’s isolating the
+      American and European NATO countries and their allies from the whole rest of the
+      world. So, we’re seeing all of the convergence of all of these bad policies to
+      support special interests — to support the oil industry, to support Wall Street,
+      to support the banking industry, to support labor unions that support Trump —
+      all of this is basically falling apart. And it’s causing the American economy
+      to fall apart, slowly — a slow crash, but a crash that cannot be reversed without
+      a radical change, not only in the economy, but in the whole Constitution, and
+      the whole way in which the legal system and political system are responsible for
+      this mess. ⁣RICHARD WOLFF: And last irony: As you can no longer blame the immigrants
+      — since you’ve effectively stopped the inflow and reversed it to an outflow —
+      you must find a new comparable scapegoat. And if you watch the internal closing-down
+      of criticism that extends even to late-night comedians, you can see that building
+      up the domestic left becomes the new scapegoat to justify why all of those things
+      done by ICE to the immigrants didn’t work. There’s no huge resurgence of investment
+      here. Not at all. There’s no resurgence of manufacturing. Not at all. It’s all
+      smoke and mirrors and scapegoating, because that’s the sum total of where his
+      first eight months have gotten him. ⁣NIMA ALKHORSHID: Yeah. Thank you so much,
+      Richard and Michael, for being with us today. Great pleasure, as always. ⁣RICHARD
+      WOLFF: Talk to you again next week. ⁣NIMA ALKHORSHID: Yeah, thank you. Transcription
+      and Diarization: https://scripthub.dev Editing: Kimberly Mims Review: ced Photo
+      by Doncoombez on Unsplash The post Cascading Policy Failures Undermine Empire
+      first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion on September 18, 2025, Michael Hudson emphasized
+      the long-standing impact of U.S. military spending on the balance of payments,
+      noting that since the Korean War, such expenditures have significantly contributed
+      to the country's balance of payments deficit, a point he has been making for decades.
+    paragraph_summary: In a discussion on September 18, 2025, Nima Alkhorshid, Michael
+      Hudson, and Richard Wolff explored the implications of U.S. military spending
+      on the balance of payments, with Hudson emphasizing that since the Korean War,
+      America's military expenditures abroad have significantly contributed to its balance
+      of payments deficit, while private sector trade and investment have remained balanced.
+      Hudson noted that his insights were recognized by military and government entities,
+      particularly through his book "Super Imperialism," which highlighted how the U.S.
+      has financed its military spending by leveraging the dollarization of foreign
+      economies. He warned that as countries move away from using the dollar as a reserve
+      currency, the U.S. may struggle to sustain its military presence globally, unlike
+      Russia, whose military strategy does not rely on balance of payments considerations.
+    published: '2025-10-01T12:59:14+00:00'
   - title: 'The Fascist Protection Racket: Tribute States'
     url: https://michael-hudson.com/2025/09/the-fascist-protection-racket-tribute-states/
     text: '⁣GLENN DIESEN: Hi everyone and welcome back. I’m very pleased today to be

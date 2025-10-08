@@ -7,17 +7,1096 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  As the international community continues to grapple with the fallout from the ongoing conflict in Gaza and shifting US policy, recent developments underscore deep skepticism about the prospects for peace and the direction of Western engagement. 
+  The Israeli-Palestinian conflict remains at the forefront of global attention as the aftermath of the October 7, 2023 attacks continues to shape narratives and policy. The discourse is increasingly polarized, with recent reports highlighting the complexity and historical depth of the violence.
   
-  The latest focus is the Trump administration’s newly unveiled “peace plan” for Gaza, which, according to **Caitlin Johnstone**, has been widely criticized for entrenching permanent Palestinian subjugation under Israeli control. Johnstone notes that this proposal is reminiscent of previous US-brokered agreements that failed to deliver meaningful change, fueling doubts about Washington’s intentions and capacity as a mediator. The plan’s reception among analysts and regional observers has been overwhelmingly negative, with many viewing it as a diplomatic maneuver that legitimizes the status quo rather than addressing the core issues of occupation and self-determination.
+  **Caitlin Johnstone** emphasizes that the prevailing demand to unequivocally condemn Hamas disregards the broader context of Israeli military actions and longstanding oppression. She notes, “the ongoing violence and historical context of Israeli actions complicate the perception of Hamas,” challenging the reduction of the conflict to a single act of aggression. This perspective is echoed in her analysis that understanding both the events before and after October 7 is crucial to grasping the conflict’s realities.
   
-  Meanwhile, attention is turning to the imminent second anniversary of the October 7 attacks. **Caitlin Johnstone** predicts a significant escalation in pro-Israel media narratives and commemorative events, as supporters seek to counteract mounting global criticism of Israeli policies. She anticipates “multiple scripted series and sensational claims” designed to shape public perception and reinforce Israel’s position, especially as international scrutiny intensifies.
+  Media narratives remain a battleground. Johnstone critiques efforts by pro-Israel groups to rehabilitate Israel’s image through social media and propaganda, arguing that such campaigns are unlikely to erase the memory of “historical atrocities committed against Palestinians.” She predicts with high confidence that these attempts will intensify as the anniversary of October 7 approaches, but are unlikely to reverse the growing global criticism of Israeli policies.
   
-  On the ground, the humanitarian crisis in Gaza remains acute. The continued targeting of aid flotillas and the labeling of activists as violent by Israeli officials have further eroded hopes for relief and accountability. The majority of independent analysts, including Johnstone, argue that denying the reality of the humanitarian catastrophe in Gaza requires accepting the implausible notion of a coordinated conspiracy among major aid organizations—a view that has little traction outside fringe circles.
+  Meanwhile, humanitarian concerns are escalating. Reports of the Israeli military’s treatment of activists, including the detention and mistreatment of Greta Thunberg while delivering aid, have fueled further outrage. Johnstone describes the conditions as “harsh,” including dehydration and bedbug infestations, underscoring the severity of the current blockade and military operations.
   
-  **Trends and Predictions:**  
-  The prevailing trend is a hardening of positions on all sides. The US “peace plan” is unlikely to gain traction among Palestinians or the broader international community, and there is a high chance that it will be viewed as another failed diplomatic initiative. The coming days will almost certainly see a media blitz from Israel’s supporters, but this is unlikely to reverse the growing global consensus critical of Israeli policy. I guarantee that skepticism toward US-led peace efforts will persist, and the humanitarian situation in Gaza will remain a flashpoint for international activism and debate.
+  Looking ahead, the trend is clear: international scrutiny of Israel is mounting, and efforts to control the narrative are intensifying. **Caitlin Johnstone** asserts there is a high chance that global criticism will continue to grow, with the anniversary of October 7 serving as a flashpoint for both advocacy and propaganda. She concludes that, barring a significant shift in policy or public sentiment, the cycle of violence and contested narratives is set to persist.
 articles:
+  - title: Only Israelis Could Commit Genocide For Years And Then Demand Sympathy -
+      And Other Notes
+    url: https://www.caitlinjohnst.one/p/only-israelis-could-commit-genocide
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Never forget October 7th 2023, that fateful day when Israelis were brutally massacred
+      by Israeli tanks and Israeli helicopters and Israeli drones and Israeli soldiers
+      and Israeli bullets, and also by Hamas a bit. ❖ I’m sorry but it’s just plain
+      hilarious that we’re still expected to hate Hamas after spending two years being
+      shown exactly what it is that Hamas has been fighting. Only Israelis could spend
+      two years committing genocide and then demand everyone feel very, very sorry for
+      them on the anniversary their genocide started. ❖ Hamas commander: Put the baby
+      in the oven. Hamas fighter: One of these 40 beheaded babies? Hamas commander:
+      No, cook a different baby. Leave those 40 beheaded babies in the pile. Hamas fighter:
+      Heil Hitler. Hamas commander: Heil Hitler. [ Turns, explodes 200 cars with a grenade
+      .] ❖ https://x.com/caitoz/status/1974956274208088337 ❖ The thing about October
+      7 is that if Israel supporters are going to insist on using it to justify everything
+      that’s being done in Gaza, then the rest of us have no choice but to refuse to
+      give a fuck about it. If someone is using something as a weapon to hurt people,
+      then you need to take their weapon away. If sympathy about October 7 is being
+      weaponized for genocide propaganda, then you have an ethical obligation to withdraw
+      your sympathy. I don’t enjoy mocking and dismissing people who try to harness
+      sympathy for October 7. It wasn’t particularly fun raining on the big sympathy
+      parade the hasbarists threw for the second anniversary as they make a desperate
+      effort to win back some of the global support they’ve been hemorrhaging all year.
+      That’s just what you need to do when people are using something to facilitate
+      crimes against humanity. It would be irresponsible to do otherwise. ❖ CNN’s Van
+      Jones, who in 2021 was given $100 million by Jeff Bezos, recently came under fire
+      for claiming that people oppose the Gaza holocaust because Iran and Qatar are
+      running a massive “disinformation campaign” to show people dead babies in Gaza.
+      He made a joke about how everyone’s seeing “dead Gaza baby, dead Gaza baby” on
+      their phones which cracked up Bill Maher’s studio audience. This is one of the
+      ugliest, nastiest pieces of western media propaganda about the Gaza holocaust
+      that I have ever seen, and we’re two whole years in. Only someone who thinks “dead
+      Gaza baby” is a hilarious punchline would believe people need to be tricked by
+      foreign influence campaigns into caring about dead babies in Gaza. ❖ Someone who
+      is truly and sincerely worried about a rise in antisemitism will oppose the mass
+      slaughter of children under the Star of David banner by a state which claims to
+      represent all Jews while Jewish billionaires buy up media to silence criticism
+      of that state and Jewish oligarchs openly purchase the president of the world’s
+      most powerful government to ensure the facilitation of that state’s atrocities.
+      ❖ Progressive darling Zohran Mamdani has come out and described Venezuela President
+      Nicolas Maduro and Cuba President Miguel Diaz-Canel as “dictators”, just as the
+      Trump administration ends diplomacy with Venezuela in yet another step toward
+      possible war. So that’s some nice timing. The Democratic Party is a US empire
+      party. The very best Democrats just want a slightly more polite and humanitarian
+      empire. All of them support war and militarism. All of them support the subjugation
+      of the global south by tyrannical force. Everyone needs to get clear on this.
+      ❖ https://x.com/IsabellaMDeLuca/status/1973386323516887351 It’s funny how white
+      supremacists freak out about global birth rates, because it’s just the result
+      of white supremacism getting everything it wanted. Whites spent centuries extracting
+      wealth from the global south, and it turns out fertility rates decline the wealthier
+      a population becomes. They plundered and exploited and enslaved and extracted
+      from the darker-skinned people whom they viewed as inferior, and now those populations
+      are the only ones reproducing at above replacement levels. They’re freaking out
+      because they understand their civilization will come crashing down without working-age
+      people stepping in to keep the gears of the nation turning as prior generations
+      age out, and now the only way they’re going to get those workers is by inviting
+      them to immigrate from other continents. Those immigrants will have significant
+      collective bargaining power because they are needed; they won’t just remain some
+      permanently subjugated underclass. Eventually they start intermarrying with the
+      white population, and before long humanity consists of lovely shades of tan. White
+      supremacism loses, ultimately because it got everything it has ever asked for.
+      This is one reason why there’s so much overlap between white supremacism and Christian
+      fundamentalism, by the way. White supremacists understand that they can’t have
+      wealthy, educated women choosing when they do and do not reproduce, because it
+      turns out having and raising children is a massive ordeal and a woman with rights
+      and resources will only sometimes feel safe and supported enough to do it. So
+      they need to find ways to turn them back into a man’s property and force them
+      to churn out white children. This is also a lot of the drive behind all the tradwife
+      stuff, the incel stuff, the anti-abortion stuff, and the “your body, my choice”
+      rape apologia you see on the far right. White supremacists are searching for ways
+      to bump up white birth rates against the wishes of women. White supremacism is
+      unworkable without male supremacism. This is also why you see racists like Elon
+      Musk simultaneously freaking out about declining birth rates and pushing AI like
+      their life depends on it. They understand that automating society is the only
+      way to stave off the future wave of immigration that will otherwise be necessary
+      to keep civilization functioning. But it turns out AI is a bust , and that bubble
+      is going to burst before long. Again, white supremacism loses in the end. ❖ https://x.com/caitoz/status/1974697342826885315
+      ❖ I saw a good tweet from Rage Against the Machine’s Tom Morello saying “It’s
+      wild how people can effortlessly understand the righteousness of everybody from
+      Robin Hood to Andor and then in real life simp for the Sheriff of Nottingham and
+      the Death Star.” This happens because in Robin Hood and Star Wars the storyteller
+      is sympathetic to the rebel characters while the pundits, editors and reporters
+      who tell the stories of our time are sympathetic to those in power. David Attenborough
+      can get you cheering for the seal or for the polar bear depending on whose journey
+      is being followed as a sympathetic protagonist. The narrators in our stories are
+      those who control the narrative. _________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article critiques the narrative surrounding the October
+      7, 2023, attacks in Israel, arguing that the ongoing violence and historical context
+      of Israeli actions complicate the perception of Hamas, while also highlighting
+      the absurdity of the expectation to solely condemn Hamas amidst the backdrop of
+      Israeli military actions.
+    paragraph_summary: The article discusses the events surrounding October 7, 2023,
+      when Israelis were attacked by Hamas, while also critiquing the narrative that
+      frames Israel's actions in Gaza as justified responses to that day. The author
+      argues that the ongoing violence and suffering inflicted on Palestinians by Israel
+      should not be overlooked or justified by the events of October 7, suggesting that
+      using this date to garner sympathy for Israel is a form of propaganda that facilitates
+      further violence. The piece emphasizes the ethical responsibility to challenge
+      narratives that weaponize sympathy for political ends, particularly in the context
+      of what the author describes as genocide. The article also touches on the backlash
+      faced by public figures like CNN's Van Jones, who have made controversial statements
+      regarding the conflict.
+    published: '2025-10-08T01:29:49+00:00'
+  - title: Only Israelis Could Commit Genocide For Years And Then Demand Sympathy -
+      And Other Notes
+    url: https://www.caitlinjohnst.one/p/only-israelis-could-commit-genocide
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Never forget October 7th 2023, that fateful day when Israelis were brutally massacred
+      by Israeli tanks and Israeli helicopters and Israeli drones and Israeli soldiers
+      and Israeli bullets, and also by Hamas a bit. ❖ I’m sorry but it’s just plain
+      hilarious that we’re still expected to hate Hamas after spending two years being
+      shown exactly what it is that Hamas has been fighting. Only Israelis could spend
+      two years committing genocide and then demand everyone feel very, very sorry for
+      them on the anniversary their genocide started. ❖ Hamas commander: Put the baby
+      in the oven. Hamas fighter: One of these 40 beheaded babies? Hamas commander:
+      No, cook a different baby. Leave those 40 beheaded babies in the pile. Hamas fighter:
+      Heil Hitler. Hamas commander: Heil Hitler. [ Turns, explodes 200 cars with a grenade
+      .] ❖ https://x.com/caitoz/status/1974956274208088337 ❖ The thing about October
+      7 is that if Israel supporters are going to insist on using it to justify everything
+      that’s being done in Gaza, then the rest of us have no choice but to refuse to
+      give a fuck about it. If someone is using something as a weapon to hurt people,
+      then you need to take their weapon away. If sympathy about October 7 is being
+      weaponized for genocide propaganda, then you have an ethical obligation to withdraw
+      your sympathy. I don’t enjoy mocking and dismissing people who try to harness
+      sympathy for October 7. It wasn’t particularly fun raining on the big sympathy
+      parade the hasbarists threw for the second anniversary as they make a desperate
+      effort to win back some of the global support they’ve been hemorrhaging all year.
+      That’s just what you need to do when people are using something to facilitate
+      crimes against humanity. It would be irresponsible to do otherwise. ❖ CNN’s Van
+      Jones, who in 2021 was given $100 million by Jeff Bezos, recently came under fire
+      for claiming that people oppose the Gaza holocaust because Iran and Qatar are
+      running a massive “disinformation campaign” to show people dead babies in Gaza.
+      He made a joke about how everyone’s seeing “dead Gaza baby, dead Gaza baby” on
+      their phones which cracked up Bill Maher’s studio audience. This is one of the
+      ugliest, nastiest pieces of western media propaganda about the Gaza holocaust
+      that I have ever seen, and we’re two whole years in. Only someone who thinks “dead
+      Gaza baby” is a hilarious punchline would believe people need to be tricked by
+      foreign influence campaigns into caring about dead babies in Gaza. ❖ Someone who
+      is truly and sincerely worried about a rise in antisemitism will oppose the mass
+      slaughter of children under the Star of David banner by a state which claims to
+      represent all Jews while Jewish billionaires buy up media to silence criticism
+      of that state and Jewish oligarchs openly purchase the president of the world’s
+      most powerful government to ensure the facilitation of that state’s atrocities.
+      ❖ Progressive darling Zohran Mamdani has come out and described Venezuela President
+      Nicolas Maduro and Cuba President Miguel Diaz-Canel as “dictators”, just as the
+      Trump administration ends diplomacy with Venezuela in yet another step toward
+      possible war. So that’s some nice timing. The Democratic Party is a US empire
+      party. The very best Democrats just want a slightly more polite and humanitarian
+      empire. All of them support war and militarism. All of them support the subjugation
+      of the global south by tyrannical force. Everyone needs to get clear on this.
+      ❖ https://x.com/IsabellaMDeLuca/status/1973386323516887351 It’s funny how white
+      supremacists freak out about global birth rates, because it’s just the result
+      of white supremacism getting everything it wanted. Whites spent centuries extracting
+      wealth from the global south, and it turns out fertility rates decline the wealthier
+      a population becomes. They plundered and exploited and enslaved and extracted
+      from the darker-skinned people whom they viewed as inferior, and now those populations
+      are the only ones reproducing at above replacement levels. They’re freaking out
+      because they understand their civilization will come crashing down without working-age
+      people stepping in to keep the gears of the nation turning as prior generations
+      age out, and now the only way they’re going to get those workers is by inviting
+      them to immigrate from other continents. Those immigrants will have significant
+      collective bargaining power because they are needed; they won’t just remain some
+      permanently subjugated underclass. Eventually they start intermarrying with the
+      white population, and before long humanity consists of lovely shades of tan. White
+      supremacism loses, ultimately because it got everything it has ever asked for.
+      This is one reason why there’s so much overlap between white supremacism and Christian
+      fundamentalism, by the way. White supremacists understand that they can’t have
+      wealthy, educated women choosing when they do and do not reproduce, because it
+      turns out having and raising children is a massive ordeal and a woman with rights
+      and resources will only sometimes feel safe and supported enough to do it. So
+      they need to find ways to turn them back into a man’s property and force them
+      to churn out white children. This is also a lot of the drive behind all the tradwife
+      stuff, the incel stuff, the anti-abortion stuff, and the “your body, my choice”
+      rape apologia you see on the far right. White supremacists are searching for ways
+      to bump up white birth rates against the wishes of women. White supremacism is
+      unworkable without male supremacism. This is also why you see racists like Elon
+      Musk simultaneously freaking out about declining birth rates and pushing AI like
+      their life depends on it. They understand that automating society is the only
+      way to stave off the future wave of immigration that will otherwise be necessary
+      to keep civilization functioning. But it turns out AI is a bust , and that bubble
+      is going to burst before long. Again, white supremacism loses in the end. ❖ https://x.com/caitoz/status/1974697342826885315
+      ❖ I saw a good tweet from Rage Against the Machine’s Tom Morello saying “It’s
+      wild how people can effortlessly understand the righteousness of everybody from
+      Robin Hood to Andor and then in real life simp for the Sheriff of Nottingham and
+      the Death Star.” This happens because in Robin Hood and Star Wars the storyteller
+      is sympathetic to the rebel characters while the pundits, editors and reporters
+      who tell the stories of our time are sympathetic to those in power. David Attenborough
+      can get you cheering for the seal or for the polar bear depending on whose journey
+      is being followed as a sympathetic protagonist. The narrators in our stories are
+      those who control the narrative. _________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article critiques the narrative surrounding the October
+      7, 2023, attacks in Israel, arguing that the ongoing violence and historical context
+      of Israeli actions complicate the perception of Hamas, while also highlighting
+      the absurdity of the expectation to solely condemn Hamas amidst the backdrop of
+      Israeli military actions.
+    paragraph_summary: The article discusses the events surrounding October 7, 2023,
+      when Israelis were attacked by Hamas, while also critiquing the narrative that
+      frames Israel's actions in Gaza as justified responses to that day. The author
+      argues that the ongoing violence and suffering inflicted on Palestinians by Israel
+      should not be overlooked or justified by the events of October 7, suggesting that
+      using this date to garner sympathy for Israel is a form of propaganda that facilitates
+      further violence. The piece emphasizes the ethical responsibility to challenge
+      narratives that weaponize sympathy for political ends, particularly in the context
+      of what the author describes as genocide. The article also touches on the backlash
+      faced by public figures like CNN's Van Jones, who have made controversial statements
+      regarding the conflict.
+    published: '2025-10-08T01:29:49+00:00'
+  - title: Everything Before AND After October 7 Explains Why October 7 Happened
+    url: https://www.caitlinjohnst.one/p/everything-before-and-after-october
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Everything before October 7 explains why October 7 happened, and so does everything
+      that’s happened since. Look at what happened before October 7 and you’ll see year
+      after year of murder, oppression and abuse. Look at everything that’s happened
+      since October 7 and you’ll understand the kind of sadistic, psychopathic regime
+      the Palestinians have been living under this entire time. Israel supporters don’t
+      want you looking at what happened before October 7, and they don’t want you looking
+      at anything that’s happened since. They just want you to pretend history began
+      and ended with a bunch of Hitlerite savages attacking innocent Jews for no reason.
+      https://x.com/caitoz/status/1975469732376813927 And they don’t even want you looking
+      at the day of October 7 too closely, either. Looking too closely at the events
+      of that day bring up inconvenient questions about the Hannibal Directive and what
+      percentage of the death toll was actually caused by the IDF firing on their own
+      people. Inconvenient questions about the suspicious stock trading in the lead-up
+      to the attack and the mountains upon mountains upon mountains of evidence that
+      high-level Israeli officials allowed the attack to proceed undefended in order
+      to advance the genocidal land grab we’re seeing advanced now. They only want you
+      looking at the parts of October 7 that make Israel look like an innocent little
+      lamb who was attacked completely out of the blue and had no choice but to reluctantly
+      respond with military force. Forget the scorched earth incineration of the Gaza
+      Strip. Forget the bombed-out hospitals and methodically dismantled healthcare
+      system. Forget the hundreds upon hundreds of Palestinians in Gaza who’ve been
+      deliberately starved to death . Forget the fact that every relevant human rights
+      institution on earth has determined that Israel is committing genocide, and that
+      zero comparable humanitarian institutions have said it isn’t. Forget the fact
+      that human rights experts had been describing Gaza as a giant concentration camp
+      or open-air prison for years prior to October 7. Forget the fact that Israel had
+      been routinely murdering Palestinian children and other civilians in the months
+      prior to the Hamas attack. Don’t look at any of that stuff. Just look at the stuff
+      that makes Israel look like the victim. That’s the story, anyway. Luckily, fewer
+      and fewer people are buying into it. The longer this genocide goes on for, the
+      more the world has come to view October 7 as Israel reaping what it had long been
+      sowing. ________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article argues that understanding the context of ongoing
+      violence and oppression before and after October 7 is crucial to grasping the
+      complexities of the Israeli-Palestinian conflict, challenging the narrative that
+      simplifies the situation to a singular act of aggression.
+    paragraph_summary: The article argues that the events surrounding the Israeli-Palestinian
+      conflict, particularly the attack on October 7, cannot be understood in isolation
+      from the historical context of ongoing violence and oppression faced by Palestinians.
+      It criticizes supporters of Israel for wanting to focus solely on the attack as
+      an unprovoked act of aggression, while ignoring the long history of suffering
+      endured by Palestinians and the subsequent military actions taken by Israel. The
+      piece suggests that there are troubling questions about the circumstances leading
+      up to the attack and the Israeli military's response, including allegations of
+      intentional negligence and complicity. It emphasizes the humanitarian crisis in
+      Gaza, highlighting the destruction of infrastructure and the dire conditions faced
+      by Palestinians, and points out that numerous human rights organizations have
+      labeled Israel's actions as genocidal.
+    published: '2025-10-07T10:59:31+00:00'
+  - title: Everything Before AND After October 7 Explains Why October 7 Happened
+    url: https://www.caitlinjohnst.one/p/everything-before-and-after-october
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Everything before October 7 explains why October 7 happened, and so does everything
+      that’s happened since. Look at what happened before October 7 and you’ll see year
+      after year of murder, oppression and abuse. Look at everything that’s happened
+      since October 7 and you’ll understand the kind of sadistic, psychopathic regime
+      the Palestinians have been living under this entire time. Israel supporters don’t
+      want you looking at what happened before October 7, and they don’t want you looking
+      at anything that’s happened since. They just want you to pretend history began
+      and ended with a bunch of Hitlerite savages attacking innocent Jews for no reason.
+      https://x.com/caitoz/status/1975469732376813927 And they don’t even want you looking
+      at the day of October 7 too closely, either. Looking too closely at the events
+      of that day bring up inconvenient questions about the Hannibal Directive and what
+      percentage of the death toll was actually caused by the IDF firing on their own
+      people. Inconvenient questions about the suspicious stock trading in the lead-up
+      to the attack and the mountains upon mountains upon mountains of evidence that
+      high-level Israeli officials allowed the attack to proceed undefended in order
+      to advance the genocidal land grab we’re seeing advanced now. They only want you
+      looking at the parts of October 7 that make Israel look like an innocent little
+      lamb who was attacked completely out of the blue and had no choice but to reluctantly
+      respond with military force. Forget the scorched earth incineration of the Gaza
+      Strip. Forget the bombed-out hospitals and methodically dismantled healthcare
+      system. Forget the hundreds upon hundreds of Palestinians in Gaza who’ve been
+      deliberately starved to death . Forget the fact that every relevant human rights
+      institution on earth has determined that Israel is committing genocide, and that
+      zero comparable humanitarian institutions have said it isn’t. Forget the fact
+      that human rights experts had been describing Gaza as a giant concentration camp
+      or open-air prison for years prior to October 7. Forget the fact that Israel had
+      been routinely murdering Palestinian children and other civilians in the months
+      prior to the Hamas attack. Don’t look at any of that stuff. Just look at the stuff
+      that makes Israel look like the victim. That’s the story, anyway. Luckily, fewer
+      and fewer people are buying into it. The longer this genocide goes on for, the
+      more the world has come to view October 7 as Israel reaping what it had long been
+      sowing. ________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article argues that understanding the context of ongoing
+      violence and oppression before and after October 7 is crucial to grasping the
+      complexities of the Israeli-Palestinian conflict, challenging the narrative that
+      simplifies the situation to a singular act of aggression.
+    paragraph_summary: The article argues that the events surrounding the Israeli-Palestinian
+      conflict, particularly the attack on October 7, cannot be understood in isolation
+      from the historical context of ongoing violence and oppression faced by Palestinians.
+      It criticizes supporters of Israel for wanting to focus solely on the attack as
+      an unprovoked act of aggression, while ignoring the long history of suffering
+      endured by Palestinians and the subsequent military actions taken by Israel. The
+      piece suggests that there are troubling questions about the circumstances leading
+      up to the attack and the Israeli military's response, including allegations of
+      intentional negligence and complicity. It emphasizes the humanitarian crisis in
+      Gaza, highlighting the destruction of infrastructure and the dire conditions faced
+      by Palestinians, and points out that numerous human rights organizations have
+      labeled Israel's actions as genocidal.
+    published: '2025-10-07T10:59:31+00:00'
+  - title: They Really Think They'll Be Able To Propagandize The World Into Liking Israel
+      Again
+    url: https://www.caitlinjohnst.one/p/they-really-think-theyll-be-able
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s cute how the Zionists think they’ll be able to manipulate and propagandize
+      the world into liking Israel again. Yeah, saturate all online platforms with weird-faced
+      influencers telling us Israel is awesome. That’ll make us forget those years of
+      genocidal atrocities. Sure, buy up the social media platforms that young people
+      are using so you can censor criticism of Israel . That’ll convince them that Zionism
+      is cool. Go on, take control of CBS and make Bari Weiss the boss . That’ll make
+      us forget all those videos of mutilated Palestinian children. Right, use Zionist
+      oligarchs and influence operations to manipulate governments and institutions
+      into crushing free speech which opposes a genocidal apartheid state. That’ll get
+      everyone supporting the genocidal apartheid state. Propaganda is an effective
+      tool of mass-scale psychological manipulation, but it isn’t magic. It isn’t going
+      to miraculously erase what people know in their bones to be true. https://x.com/iamjourjean/status/1974753536228696086
+      In order to successfully propagandize people you need to first get them to trust
+      you, and then you need to feed them narratives which appeal to the cognitive biases
+      they already hold. Nobody trusts Israel apologia anymore, and people’s biases
+      are now stacked squarely against the Zionist entity. They’ve got nothing to work
+      with and nowhere to start from. If a coworker you hate came up to you and started
+      stealing stuff off your desk while telling you he’s your friend and that he would
+      never steal from you, you’re not going to believe him no matter how many words
+      he says to you. No matter how skillful a manipulator he is, no matter how eloquent
+      his words are, nothing he says will trump your first hand observations of your
+      material reality. That’s what it’s like at this point. They’re trying to throw
+      a bunch of language at us in order to convince us that we haven’t seen what we’ve
+      seen, haven’t experienced what we’ve experienced, and don’t know what we know.
+      And they assume it will work because the language they’re throwing at us is being
+      circulated in high volumes and costs a lot of money. It won’t work, though. Even
+      if propaganda could convince us that we haven’t seen what we’ve seen and don’t
+      know what we know, propaganda only works if you don’t know it’s happening to you.
+      These past two years have made even relatively apolitical members of the public
+      acutely aware that there is an aggressive campaign to manipulate their perception
+      of the state of Israel, and that anyone pushing them to support that state is
+      untrustworthy. Nobody’s going to buy into the propaganda if they don’t trust the
+      source. https://x.com/ejmalrai/status/1974585480479228255 Now that everyone’s
+      aware that Israel is paying influencers $7,000 per post to churn out propaganda
+      on its behalf, whenever you see a video online of some young social media-savvy
+      personality promoting pro-Israel narratives you see their replies flooded with
+      memes and jokes about their $7k jackpot. From now on whenever some sunglasses-wearing
+      zillennial shows up going “Israel is surrounded on all sides by Islamofascists
+      and you think JEWS are the problem? Uhh, no babe. Walk with me,” everyone’s going
+      to go “Found one of those $7k posts.” It just doesn’t work. Psychological manipulation
+      only goes so far. There’s only so much that clever language can do to decouple
+      someone’s mind from their direct experience of material reality. This is where
+      Israel went wrong in alienating the liberal Zionists. They needed people at the
+      table who understood how normal human beings think, who could help the Israel
+      project walk the delicate line between apartheid abuses papered over with propaganda
+      and full-scale atrocities which would alienate the world. Instead they decided
+      to go all in with the Smotriches and Ben-Gvirs, trusting that the propaganda machine
+      which had served them so well all those decades would continue to carry them through
+      any international upset they might cause. It hasn’t turned out that way. The world’s
+      eyes are open to what Israel is, and they are never going to close again. You
+      can’t take off the Mickey Mouse mask, show the kids the snarling Freddy Krueger
+      face underneath it, and then put the mask on and hope they start calling you Mickey
+      again. Nobody’s going to forget what you showed them. ________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      via rajatonvimma /// VJ Group Random Doctors (CC BY 4.0)'
+    one_sentence_summary: The article critiques the efforts of Zionists to use propaganda
+      and social media manipulation to improve Israel's image, arguing that such tactics
+      cannot erase the historical atrocities committed against Palestinians.
+    paragraph_summary: The article critiques the efforts of pro-Israel advocates to
+      reshape public perception through propaganda and manipulation, arguing that such
+      tactics are ineffective in light of the historical atrocities committed against
+      Palestinians. It suggests that attempts to control social media narratives and
+      suppress criticism of Israel will not erase the public's awareness of these events.
+      The author emphasizes that trust is essential for successful propaganda, and given
+      the current widespread skepticism towards Israel, these efforts are unlikely to
+      succeed. The analogy of a dishonest coworker stealing from you while claiming
+      friendship illustrates the disconnect between manipulative rhetoric and the lived
+      experiences of those who have witnessed the realities of the Israeli-Palestinian
+      conflict.
+    published: '2025-10-06T01:31:36+00:00'
+  - title: They Really Think They'll Be Able To Propagandize The World Into Liking Israel
+      Again
+    url: https://www.caitlinjohnst.one/p/they-really-think-theyll-be-able
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s cute how the Zionists think they’ll be able to manipulate and propagandize
+      the world into liking Israel again. Yeah, saturate all online platforms with weird-faced
+      influencers telling us Israel is awesome. That’ll make us forget those years of
+      genocidal atrocities. Sure, buy up the social media platforms that young people
+      are using so you can censor criticism of Israel . That’ll convince them that Zionism
+      is cool. Go on, take control of CBS and make Bari Weiss the boss . That’ll make
+      us forget all those videos of mutilated Palestinian children. Right, use Zionist
+      oligarchs and influence operations to manipulate governments and institutions
+      into crushing free speech which opposes a genocidal apartheid state. That’ll get
+      everyone supporting the genocidal apartheid state. Propaganda is an effective
+      tool of mass-scale psychological manipulation, but it isn’t magic. It isn’t going
+      to miraculously erase what people know in their bones to be true. https://x.com/iamjourjean/status/1974753536228696086
+      In order to successfully propagandize people you need to first get them to trust
+      you, and then you need to feed them narratives which appeal to the cognitive biases
+      they already hold. Nobody trusts Israel apologia anymore, and people’s biases
+      are now stacked squarely against the Zionist entity. They’ve got nothing to work
+      with and nowhere to start from. If a coworker you hate came up to you and started
+      stealing stuff off your desk while telling you he’s your friend and that he would
+      never steal from you, you’re not going to believe him no matter how many words
+      he says to you. No matter how skillful a manipulator he is, no matter how eloquent
+      his words are, nothing he says will trump your first hand observations of your
+      material reality. That’s what it’s like at this point. They’re trying to throw
+      a bunch of language at us in order to convince us that we haven’t seen what we’ve
+      seen, haven’t experienced what we’ve experienced, and don’t know what we know.
+      And they assume it will work because the language they’re throwing at us is being
+      circulated in high volumes and costs a lot of money. It won’t work, though. Even
+      if propaganda could convince us that we haven’t seen what we’ve seen and don’t
+      know what we know, propaganda only works if you don’t know it’s happening to you.
+      These past two years have made even relatively apolitical members of the public
+      acutely aware that there is an aggressive campaign to manipulate their perception
+      of the state of Israel, and that anyone pushing them to support that state is
+      untrustworthy. Nobody’s going to buy into the propaganda if they don’t trust the
+      source. https://x.com/ejmalrai/status/1974585480479228255 Now that everyone’s
+      aware that Israel is paying influencers $7,000 per post to churn out propaganda
+      on its behalf, whenever you see a video online of some young social media-savvy
+      personality promoting pro-Israel narratives you see their replies flooded with
+      memes and jokes about their $7k jackpot. From now on whenever some sunglasses-wearing
+      zillennial shows up going “Israel is surrounded on all sides by Islamofascists
+      and you think JEWS are the problem? Uhh, no babe. Walk with me,” everyone’s going
+      to go “Found one of those $7k posts.” It just doesn’t work. Psychological manipulation
+      only goes so far. There’s only so much that clever language can do to decouple
+      someone’s mind from their direct experience of material reality. This is where
+      Israel went wrong in alienating the liberal Zionists. They needed people at the
+      table who understood how normal human beings think, who could help the Israel
+      project walk the delicate line between apartheid abuses papered over with propaganda
+      and full-scale atrocities which would alienate the world. Instead they decided
+      to go all in with the Smotriches and Ben-Gvirs, trusting that the propaganda machine
+      which had served them so well all those decades would continue to carry them through
+      any international upset they might cause. It hasn’t turned out that way. The world’s
+      eyes are open to what Israel is, and they are never going to close again. You
+      can’t take off the Mickey Mouse mask, show the kids the snarling Freddy Krueger
+      face underneath it, and then put the mask on and hope they start calling you Mickey
+      again. Nobody’s going to forget what you showed them. ________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      via rajatonvimma /// VJ Group Random Doctors (CC BY 4.0)'
+    one_sentence_summary: The article critiques the efforts of Zionists to use propaganda
+      and social media manipulation to improve Israel's image, arguing that such tactics
+      cannot erase the historical atrocities committed against Palestinians.
+    paragraph_summary: The article critiques the efforts of pro-Israel advocates to
+      reshape public perception through propaganda and manipulation, arguing that such
+      tactics are ineffective in light of the historical atrocities committed against
+      Palestinians. It suggests that attempts to control social media narratives and
+      suppress criticism of Israel will not erase the public's awareness of these events.
+      The author emphasizes that trust is essential for successful propaganda, and given
+      the current widespread skepticism towards Israel, these efforts are unlikely to
+      succeed. The analogy of a dishonest coworker stealing from you while claiming
+      friendship illustrates the disconnect between manipulative rhetoric and the lived
+      experiences of those who have witnessed the realities of the Israeli-Palestinian
+      conflict.
+    published: '2025-10-06T01:31:36+00:00'
+  - title: Israel Droned Flotilla Activists And Then Abused Greta Thunberg
+    url: https://www.caitlinjohnst.one/p/israel-droned-flotilla-activists
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Who would have imagined five years ago when we were seeing Greta Thunberg amplified
+      by every mainstream western liberal institution that we would one day hear reports
+      that she has been captured and tormented by the Israeli military for trying to
+      bring formula to starving babies? The Guardian reports the following : “In an
+      email sent by the Swedish foreign ministry to people close to Thunberg, and seen
+      by the Guardian, an official who has visited the activist in prison said she claimed
+      she was detained in a cell infested with bedbugs, with too little food and water.
+      “ ‘The embassy has been able to meet with Greta,’ reads the email. ‘She informed
+      of dehydration. She has received insufficient amounts of both water and food.
+      She also stated that she had developed rashes which she suspects were caused by
+      bedbugs. She spoke of harsh treatment and said she had been sitting for long periods
+      on hard surfaces.’ “ ‘Another detainee reportedly told another embassy that they
+      had seen her [Thunberg] being forced to hold flags while pictures were taken.
+      She wondered whether images of her had been distributed,’ the Swedish ministry’s
+      official added. “The allegation was corroborated by at least two other members
+      of the flotilla who had been detained by Israeli forces and released on Saturday.
+      “ ‘They dragged little Greta [Thunberg] by her hair before our eyes, beat her,
+      and forced her to kiss the Israeli flag. They did everything imaginable to her,
+      as a warning to others,’ the Turkish activist Ersin Çelik, a participant in the
+      Sumud flotilla, told Anadolu news agency. “Lorenzo D’Agostino, a journalist and
+      another flotilla participant, said after returning to Istanbul that Thunberg was
+      ‘wrapped in the Israeli flag and paraded like a trophy’ — a scene described with
+      disbelief and anger by those who witnessed it.” https://x.com/mehdirhasan/status/1974560607572828354
+      These reports, as shocking as they are, also happen to more or less reflect exactly
+      what the Israeli regime said it intended to do to Global Sumud Flotilla activists
+      when they were captured. Israeli National Security Minister Itamar Ben-Gvir said
+      last month that Sumud activists must be treated as terrorists in order to “create
+      a clear deterrent” from future flotilla activism, declaring that “Anyone who chooses
+      to collaborate with Hamas and support terrorism will meet a firm and unyielding
+      response from Israel.” “We will not allow individuals who support terrorism to
+      live in comfort. They will face the full consequences of their actions,” Ben-Gvir
+      said at the time. After the flotilla activists were abducted by the IDF, Ben-Gvir
+      filmed himself taunting them and calling them “terrorists” . Israel, needless
+      to say, has an extensively documented record of torturing and abusing individuals
+      who’ve been given the “terrorist” label by the regime. So it would appear that
+      they singled out the most high-profile activist on the flotilla for abuse in order
+      to send a message and deter future efforts to break the siege on Gaza. https://x.com/MiddleEastEye/status/1973946884126658827
+      This comes as CBS News publishes a report confirming what we’ve been saying since
+      last month : that Israel launched multiple drone attacks against the Global Sumud
+      Flotilla. Citing two US intelligence officials, CBS reports that Benjamin Netanyahu
+      personally authorized attacks in which drones were deployed from an Israeli submarine
+      to drop incendiary devices onto the boats to set them on fire. Israel has been
+      documented using quadcopter drones to drop incendiary firebombs on tents and buildings
+      in Gaza. Last month Trump’s middle east envoy Tom Barrack casually admitted during
+      an interview that “Israel is attacking Tunisia,” which was where the boat carrying
+      Greta Thunberg was docked during the first drone attack. Like the reported mistreatment
+      of Thunberg, these drone attacks would also fit in perfectly with the Israeli
+      government’s depraved and cynical decision to treat the flotilla activists as
+      terrorists. https://x.com/DecampDave/status/1974258862808043881 After the initial
+      claims of a drone attack on the flotilla, the information ecosystem was flooded
+      with hasbarists claiming it was ridiculous to blame Israel for the attacks, and
+      that the fire hadn’t come from a drone at all. Odious genocide propagandist Eyal
+      Yakoby got nearly ten million views on a tweet where he falsely claimed to have
+      video evidence showing that the fire was actually the result of a misfired flare
+      from one of the boat’s crew members. Anyone who’d actually watched the video would
+      have seen that it showed nothing of the sort, but because Yakoby inserted a narrative
+      above the video claiming it shows that, I had people in my Twitter notifications
+      telling me for days that it had been conclusively proven the fire was started
+      by a flare. I encountered even some solid Palestine supporters expressing doubt
+      about the drone attacks when the reports first emerged, because it seemed too
+      heinous to be believed. But this just goes to show that there really is nothing
+      you can put past these freaks. Israel and its apologists lie about everything.
+      Everything, everything, everything. We are far past the point where it is reasonable
+      to give Israel the benefit of the doubt when we hear reports that it has done
+      something evil. If you’ll launch drone attacks on activists trying to bring aid
+      to starving civilians, there’s nothing you won’t do. ________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      by Brahim Guedich via Wikimedia Commons ( Attribution 4.0 International ).'
+    one_sentence_summary: Reports indicate that climate activist Greta Thunberg has
+      been detained and mistreated by the Israeli military while attempting to deliver
+      formula to starving babies, facing harsh conditions including dehydration and
+      bedbug infestations.
+    paragraph_summary: The article discusses alarming reports regarding climate activist
+      Greta Thunberg, who has allegedly been detained and mistreated by the Israeli
+      military while attempting to deliver formula to starving babies. According to
+      an email from the Swedish foreign ministry, Thunberg described her conditions
+      in prison as dire, with insufficient food and water, and suffering from rashes
+      likely caused by bedbugs. Eyewitness accounts from other detainees claim she was
+      subjected to harsh treatment, including being dragged by her hair, beaten, and
+      forced to kiss the Israeli flag, with one participant describing her as being
+      paraded like a trophy. These shocking allegations have raised concerns about her
+      treatment and the broader implications of such actions.
+    published: '2025-10-05T02:09:22+00:00'
+  - title: Israel Droned Flotilla Activists And Then Abused Greta Thunberg
+    url: https://www.caitlinjohnst.one/p/israel-droned-flotilla-activists
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Who would have imagined five years ago when we were seeing Greta Thunberg amplified
+      by every mainstream western liberal institution that we would one day hear reports
+      that she has been captured and tormented by the Israeli military for trying to
+      bring formula to starving babies? The Guardian reports the following : “In an
+      email sent by the Swedish foreign ministry to people close to Thunberg, and seen
+      by the Guardian, an official who has visited the activist in prison said she claimed
+      she was detained in a cell infested with bedbugs, with too little food and water.
+      “ ‘The embassy has been able to meet with Greta,’ reads the email. ‘She informed
+      of dehydration. She has received insufficient amounts of both water and food.
+      She also stated that she had developed rashes which she suspects were caused by
+      bedbugs. She spoke of harsh treatment and said she had been sitting for long periods
+      on hard surfaces.’ “ ‘Another detainee reportedly told another embassy that they
+      had seen her [Thunberg] being forced to hold flags while pictures were taken.
+      She wondered whether images of her had been distributed,’ the Swedish ministry’s
+      official added. “The allegation was corroborated by at least two other members
+      of the flotilla who had been detained by Israeli forces and released on Saturday.
+      “ ‘They dragged little Greta [Thunberg] by her hair before our eyes, beat her,
+      and forced her to kiss the Israeli flag. They did everything imaginable to her,
+      as a warning to others,’ the Turkish activist Ersin Çelik, a participant in the
+      Sumud flotilla, told Anadolu news agency. “Lorenzo D’Agostino, a journalist and
+      another flotilla participant, said after returning to Istanbul that Thunberg was
+      ‘wrapped in the Israeli flag and paraded like a trophy’ — a scene described with
+      disbelief and anger by those who witnessed it.” https://x.com/mehdirhasan/status/1974560607572828354
+      These reports, as shocking as they are, also happen to more or less reflect exactly
+      what the Israeli regime said it intended to do to Global Sumud Flotilla activists
+      when they were captured. Israeli National Security Minister Itamar Ben-Gvir said
+      last month that Sumud activists must be treated as terrorists in order to “create
+      a clear deterrent” from future flotilla activism, declaring that “Anyone who chooses
+      to collaborate with Hamas and support terrorism will meet a firm and unyielding
+      response from Israel.” “We will not allow individuals who support terrorism to
+      live in comfort. They will face the full consequences of their actions,” Ben-Gvir
+      said at the time. After the flotilla activists were abducted by the IDF, Ben-Gvir
+      filmed himself taunting them and calling them “terrorists” . Israel, needless
+      to say, has an extensively documented record of torturing and abusing individuals
+      who’ve been given the “terrorist” label by the regime. So it would appear that
+      they singled out the most high-profile activist on the flotilla for abuse in order
+      to send a message and deter future efforts to break the siege on Gaza. https://x.com/MiddleEastEye/status/1973946884126658827
+      This comes as CBS News publishes a report confirming what we’ve been saying since
+      last month : that Israel launched multiple drone attacks against the Global Sumud
+      Flotilla. Citing two US intelligence officials, CBS reports that Benjamin Netanyahu
+      personally authorized attacks in which drones were deployed from an Israeli submarine
+      to drop incendiary devices onto the boats to set them on fire. Israel has been
+      documented using quadcopter drones to drop incendiary firebombs on tents and buildings
+      in Gaza. Last month Trump’s middle east envoy Tom Barrack casually admitted during
+      an interview that “Israel is attacking Tunisia,” which was where the boat carrying
+      Greta Thunberg was docked during the first drone attack. Like the reported mistreatment
+      of Thunberg, these drone attacks would also fit in perfectly with the Israeli
+      government’s depraved and cynical decision to treat the flotilla activists as
+      terrorists. https://x.com/DecampDave/status/1974258862808043881 After the initial
+      claims of a drone attack on the flotilla, the information ecosystem was flooded
+      with hasbarists claiming it was ridiculous to blame Israel for the attacks, and
+      that the fire hadn’t come from a drone at all. Odious genocide propagandist Eyal
+      Yakoby got nearly ten million views on a tweet where he falsely claimed to have
+      video evidence showing that the fire was actually the result of a misfired flare
+      from one of the boat’s crew members. Anyone who’d actually watched the video would
+      have seen that it showed nothing of the sort, but because Yakoby inserted a narrative
+      above the video claiming it shows that, I had people in my Twitter notifications
+      telling me for days that it had been conclusively proven the fire was started
+      by a flare. I encountered even some solid Palestine supporters expressing doubt
+      about the drone attacks when the reports first emerged, because it seemed too
+      heinous to be believed. But this just goes to show that there really is nothing
+      you can put past these freaks. Israel and its apologists lie about everything.
+      Everything, everything, everything. We are far past the point where it is reasonable
+      to give Israel the benefit of the doubt when we hear reports that it has done
+      something evil. If you’ll launch drone attacks on activists trying to bring aid
+      to starving civilians, there’s nothing you won’t do. ________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      by Brahim Guedich via Wikimedia Commons ( Attribution 4.0 International ).'
+    one_sentence_summary: Reports indicate that climate activist Greta Thunberg has
+      been detained and mistreated by the Israeli military while attempting to deliver
+      formula to starving babies, facing harsh conditions including dehydration and
+      bedbug infestations.
+    paragraph_summary: The article discusses alarming reports regarding climate activist
+      Greta Thunberg, who has allegedly been detained and mistreated by the Israeli
+      military while attempting to deliver formula to starving babies. According to
+      an email from the Swedish foreign ministry, Thunberg described her conditions
+      in prison as dire, with insufficient food and water, and suffering from rashes
+      likely caused by bedbugs. Eyewitness accounts from other detainees claim she was
+      subjected to harsh treatment, including being dragged by her hair, beaten, and
+      forced to kiss the Israeli flag, with one participant describing her as being
+      paraded like a trophy. These shocking allegations have raised concerns about her
+      treatment and the broader implications of such actions.
+    published: '2025-10-05T02:09:22+00:00'
+  - title: 'New Painting: Skunk Water Smoke'
+    url: https://www.caitlinjohnst.one/p/new-painting-skunk-water-smoke
+    text: 'Subscribe now One of the final videos that activist Greg Stoker sent out
+      from the Global Sumud Flotilla before being abducted was this awesome clip where
+      he’s having a cigarette while the IDF sprays the boats with skunk water, and I
+      just had to paint it. _____________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article discusses a video shared by activist Greg Stoker
+      before his abduction, showcasing him smoking a cigarette while the IDF sprays
+      boats with skunk water, which inspired an accompanying painting.
+    paragraph_summary: The article discusses a video sent by activist Greg Stoker from
+      the Global Sumud Flotilla shortly before his abduction, where he is seen smoking
+      a cigarette while the Israeli Defense Forces (IDF) spray the boats with skunk
+      water. The author expresses a desire to paint this scene, highlighting the tension
+      and activism surrounding the flotilla. Additionally, the article promotes Caitlin's
+      Newsletter as a reader-supported publication, encouraging subscriptions and donations
+      to support her work, which she allows to be freely shared and repurposed.
+    published: '2025-10-04T01:00:58+00:00'
+  - title: 'New Painting: Skunk Water Smoke'
+    url: https://www.caitlinjohnst.one/p/new-painting-skunk-water-smoke
+    text: 'Subscribe now One of the final videos that activist Greg Stoker sent out
+      from the Global Sumud Flotilla before being abducted was this awesome clip where
+      he’s having a cigarette while the IDF sprays the boats with skunk water, and I
+      just had to paint it. _____________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article discusses a video shared by activist Greg Stoker
+      before his abduction, showcasing him smoking a cigarette while the IDF sprays
+      boats with skunk water, which inspired an accompanying painting.
+    paragraph_summary: The article discusses a video sent by activist Greg Stoker from
+      the Global Sumud Flotilla shortly before his abduction, where he is seen smoking
+      a cigarette while the Israeli Defense Forces (IDF) spray the boats with skunk
+      water. The author expresses a desire to paint this scene, highlighting the tension
+      and activism surrounding the flotilla. Additionally, the article promotes Caitlin's
+      Newsletter as a reader-supported publication, encouraging subscriptions and donations
+      to support her work, which she allows to be freely shared and repurposed.
+    published: '2025-10-04T01:00:58+00:00'
+  - title: How Many Palestinian Lives Would It Take To Equal One Western Life? And Other
+      Notes
+    url: https://www.caitlinjohnst.one/p/how-many-palestinian-lives-would
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      British police report that one of the two fatalities in the Manchester synagogue
+      attack was caused by gunfire from police. One of the reported injuries was also
+      the result of a stray police bullet. So he killed one person. The Manchester synagogue
+      attacker killed one single person and the entire western world stopped in its
+      tracks to mourn and grieve and weep and denounce, on the same day that Israel
+      killed at least 57 Palestinians and it was completely ignored by western politicians
+      and media. Ever since I learned about this I’ve been wondering how many Palestinian
+      deaths it would’ve taken to bump the synagogue attack off the front pages and
+      become the main story. Fifty-seven Palestinians dying didn’t make a blip in the
+      news. So how many deaths would it have taken? How many Palestinians would have
+      needed to be murdered for it to have risen to the level of interest and attention
+      from western politicians, pundits, and news reporters that we saw them giving
+      to the violent death of one western Jew? A hundred deaths? Definitely not. A thousand?
+      I doubt it. Ten thousand? Maybe. Maybe if Israel had actually deployed a tactical
+      nuclear weapon in Gaza and killed thousands of people, maybe that would have eclipsed
+      the one single death in the Manchester synagogue attack in the eyes of the western
+      world. Maybe. It’s an interesting question to contemplate. It’s just so incredible
+      seeing how little value is assigned to Palestinian lives in the glaring disparity
+      between the attention given to these easily quantifiable and comparable death
+      tolls. Westerners really do think the lives of their house pets matter more. ❖
+      One key lesson from the Global Sumud Flotilla experiment was that Israel doesn’t
+      have the ability to quickly apprehend a large number of aid ships. It took them
+      more than a full day to capture all the flotilla activists. That could be useful
+      information to have. ❖ If those boats hadn’t been carrying a bunch of white westerners
+      Israel would’ve cheerfully incinerated every last one of them. ❖ It really looks
+      like the US and Israel are getting ready to try to sell us on “Uh-oh, Hamas rejected
+      our Tony Blair enslavement plan, looks like we get to keep committing genocide!”
+      ❖ https://x.com/caitoz/status/1973346943146533121 ❖ The Washington Post reports
+      that the US is putting pressure on Iran “to accept four stringent conditions as
+      a baseline for new negotiations,” which include that “Tehran must agree to zero
+      enrichment of nuclear material and curbs to its missile program, and it must cease
+      funding its proxy forces.” Whenever the Trumpanyahu administration starts demanding
+      that an enemy accept conditions they know they’ll never accept, they’re setting
+      the stage for more killing and destruction. ❖ Perennial presidential hopeful Pete
+      Buttigieg spouted the long-debunked claim that Hamas put babies in ovens on October
+      7 in a recent interview . Continuing to repeat atrocity propaganda that’s been
+      debunked since 2023, here in late 2025, is an unforgivable act of genocide facilitation.
+      It’s odious when it is done by anons on Twitter with 30 followers, let alone this
+      lab-grown swamp monster who the western press can’t stop interviewing. ❖ I always
+      get Israel apologists justifying the Gaza holocaust by claiming that Palestinians
+      don’t value the lives of their children. Think about what they are saying when
+      they do this. They are saying Palestinians lack a quality that is common not only
+      to all humans, but to all mammals. They’re saying Palestinians are animals more
+      akin to beetles or squid, who simply reproduce and then go on with their lives
+      in cool indifference to their offspring. They are saying this to frame Palestinians
+      as a nonhuman type of creature whose extermination could be morally justified.
+      Nobody with a healthy sense of empathy would want to exterminate a group of humans
+      like vermin. They wouldn’t even want to exterminate a group of other large mammals
+      who care for their young as we do, like gorillas or pandas. But cockroaches or
+      termites or some other pest that’s wholly unlike us? That’s not seen as a very
+      big deal. This is the type of dehumanization that is necessary to support the
+      state of Israel. Without it, supporting a genocidal apartheid state doesn’t sit
+      right in your guts. The cognitive dissonance would destroy you. So you have to
+      make up fake stories about Palestinians being these strange subhuman orc creatures
+      to feel okay about it. _______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Montecruz Foto (CC BY-SA
+      2.0)'
+    one_sentence_summary: The article highlights the disparity in media and political
+      attention given to the fatalities from a Manchester synagogue attack, which received
+      widespread condemnation, compared to the lack of response to the deaths of at
+      least 57 Palestinians in Israel, raising questions about the threshold of Palestinian
+      casualties needed to garner similar outrage.
+    paragraph_summary: The article discusses the stark contrast in media and political
+      attention given to the deaths resulting from a recent attack on a Manchester synagogue,
+      where one person was killed, compared to the deaths of at least 57 Palestinians
+      in Israel's military actions, which received minimal coverage. It raises questions
+      about the value assigned to Palestinian lives in Western discourse, pondering
+      how many Palestinian deaths would be necessary to garner the same level of outrage
+      and attention as the single death in the synagogue attack. The author suggests
+      that even a significant number of Palestinian casualties might not surpass the
+      media focus on the attack, highlighting a perceived disparity in the prioritization
+      of life based on nationality and context. Additionally, the article notes a lesson
+      learned from the Global Sumud Flotilla experiment regarding Israel's capacity
+      to apprehend aid ships, emphasizing the complexities of international responses
+      to such situations.
+    published: '2025-10-03T14:05:32+00:00'
+  - title: How Many Palestinian Lives Would It Take To Equal One Western Life? And Other
+      Notes
+    url: https://www.caitlinjohnst.one/p/how-many-palestinian-lives-would
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      British police report that one of the two fatalities in the Manchester synagogue
+      attack was caused by gunfire from police. One of the reported injuries was also
+      the result of a stray police bullet. So he killed one person. The Manchester synagogue
+      attacker killed one single person and the entire western world stopped in its
+      tracks to mourn and grieve and weep and denounce, on the same day that Israel
+      killed at least 57 Palestinians and it was completely ignored by western politicians
+      and media. Ever since I learned about this I’ve been wondering how many Palestinian
+      deaths it would’ve taken to bump the synagogue attack off the front pages and
+      become the main story. Fifty-seven Palestinians dying didn’t make a blip in the
+      news. So how many deaths would it have taken? How many Palestinians would have
+      needed to be murdered for it to have risen to the level of interest and attention
+      from western politicians, pundits, and news reporters that we saw them giving
+      to the violent death of one western Jew? A hundred deaths? Definitely not. A thousand?
+      I doubt it. Ten thousand? Maybe. Maybe if Israel had actually deployed a tactical
+      nuclear weapon in Gaza and killed thousands of people, maybe that would have eclipsed
+      the one single death in the Manchester synagogue attack in the eyes of the western
+      world. Maybe. It’s an interesting question to contemplate. It’s just so incredible
+      seeing how little value is assigned to Palestinian lives in the glaring disparity
+      between the attention given to these easily quantifiable and comparable death
+      tolls. Westerners really do think the lives of their house pets matter more. ❖
+      One key lesson from the Global Sumud Flotilla experiment was that Israel doesn’t
+      have the ability to quickly apprehend a large number of aid ships. It took them
+      more than a full day to capture all the flotilla activists. That could be useful
+      information to have. ❖ If those boats hadn’t been carrying a bunch of white westerners
+      Israel would’ve cheerfully incinerated every last one of them. ❖ It really looks
+      like the US and Israel are getting ready to try to sell us on “Uh-oh, Hamas rejected
+      our Tony Blair enslavement plan, looks like we get to keep committing genocide!”
+      ❖ https://x.com/caitoz/status/1973346943146533121 ❖ The Washington Post reports
+      that the US is putting pressure on Iran “to accept four stringent conditions as
+      a baseline for new negotiations,” which include that “Tehran must agree to zero
+      enrichment of nuclear material and curbs to its missile program, and it must cease
+      funding its proxy forces.” Whenever the Trumpanyahu administration starts demanding
+      that an enemy accept conditions they know they’ll never accept, they’re setting
+      the stage for more killing and destruction. ❖ Perennial presidential hopeful Pete
+      Buttigieg spouted the long-debunked claim that Hamas put babies in ovens on October
+      7 in a recent interview . Continuing to repeat atrocity propaganda that’s been
+      debunked since 2023, here in late 2025, is an unforgivable act of genocide facilitation.
+      It’s odious when it is done by anons on Twitter with 30 followers, let alone this
+      lab-grown swamp monster who the western press can’t stop interviewing. ❖ I always
+      get Israel apologists justifying the Gaza holocaust by claiming that Palestinians
+      don’t value the lives of their children. Think about what they are saying when
+      they do this. They are saying Palestinians lack a quality that is common not only
+      to all humans, but to all mammals. They’re saying Palestinians are animals more
+      akin to beetles or squid, who simply reproduce and then go on with their lives
+      in cool indifference to their offspring. They are saying this to frame Palestinians
+      as a nonhuman type of creature whose extermination could be morally justified.
+      Nobody with a healthy sense of empathy would want to exterminate a group of humans
+      like vermin. They wouldn’t even want to exterminate a group of other large mammals
+      who care for their young as we do, like gorillas or pandas. But cockroaches or
+      termites or some other pest that’s wholly unlike us? That’s not seen as a very
+      big deal. This is the type of dehumanization that is necessary to support the
+      state of Israel. Without it, supporting a genocidal apartheid state doesn’t sit
+      right in your guts. The cognitive dissonance would destroy you. So you have to
+      make up fake stories about Palestinians being these strange subhuman orc creatures
+      to feel okay about it. _______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Montecruz Foto (CC BY-SA
+      2.0)'
+    one_sentence_summary: The article highlights the disparity in media and political
+      attention given to the fatalities from a Manchester synagogue attack, which received
+      widespread condemnation, compared to the lack of response to the deaths of at
+      least 57 Palestinians in Israel, raising questions about the threshold of Palestinian
+      casualties needed to garner similar outrage.
+    paragraph_summary: The article discusses the stark contrast in media and political
+      attention given to the deaths resulting from a recent attack on a Manchester synagogue,
+      where one person was killed, compared to the deaths of at least 57 Palestinians
+      in Israel's military actions, which received minimal coverage. It raises questions
+      about the value assigned to Palestinian lives in Western discourse, pondering
+      how many Palestinian deaths would be necessary to garner the same level of outrage
+      and attention as the single death in the synagogue attack. The author suggests
+      that even a significant number of Palestinian casualties might not surpass the
+      media focus on the attack, highlighting a perceived disparity in the prioritization
+      of life based on nationality and context. Additionally, the article notes a lesson
+      learned from the Global Sumud Flotilla experiment regarding Israel's capacity
+      to apprehend aid ships, emphasizing the complexities of international responses
+      to such situations.
+    published: '2025-10-03T14:05:32+00:00'
+  - title: On The Manchester Synagogue Attack
+    url: https://www.caitlinjohnst.one/p/on-the-manchester-synagogue-attack
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Two people were reportedly murdered on Thursday while attending a Manchester synagogue
+      in what the British government has labeled a terrorist incident. Four others were
+      seriously injured. Police say they shot and killed the suspect, a British citizen
+      of Syrian descent. After the attack an Arab-Israeli hasbarist named Jonathan Elkhoury
+      jumped on Twitter to tell me that “When you dehumanize Israelis and Jews to this
+      level, you end up with a terrorist attack in a synagogue in the UK,” adding, “You’re
+      as complicit as the terrorists attack you sick psycho.” Whenever western Jews
+      get hurt these days you always see the Israel supporters having a big parade where
+      they go “Okay that’s it, wrap it up, nobody gets to criticize Israel’s behavior
+      anymore because you’re causing terrorism!” And then everyone ignores them and
+      goes back to protesting the genocide, because that’s ridiculous. https://x.com/Councillorsuzie/status/1973829681137832374
+      I don’t know whether the Manchester attack had anything to do with Gaza. It could
+      have just been some guy having a mental health crisis. It could have been something
+      else. But the fact that so many Israel apologists are jumping out of the woodwork
+      to say this means everyone needs to stop defending Palestine is very revealing
+      in and of itself. Some thoughts: Murder is wrong. Israel should stop committing
+      it. Antisemitism is wrong. Israel should stop fomenting it by massacring children
+      under the banner of the Star of David while claiming to represent all Jews. Terrorism
+      is wrong. Israel should stop perpetrating it by deliberately targeting civilians
+      with mass scale violence for the purpose of advancing a political objective. Attacking
+      places of worship is wrong. Israel should stop bombing mosques and churches. https://x.com/OmarBaddar/status/1973768778585608414
+      I wish the attack on the Manchester synagogue had never happened. I also feel
+      weird about even talking about it while dozens of Palestinians are killed today
+      whose individual names I’ll never know and whose individual deaths I’ll never
+      see decried in western media headlines. Their lives didn’t matter any less than
+      the two people who were murdered in the synagogue attack. They’re just not white
+      westerners, so their lives aren’t treated as significant. Their violent deaths
+      aren’t seen as horrific. Their murderers aren’t denounced as monsters. I’m seeing
+      Israel supporters claiming that this attack means everyone needs to stop protesting
+      against the ongoing genocide in Gaza, just like they claimed after two Israeli
+      embassy staffers were killed in Washington back in May. Their demands will be
+      ignored just like last time, because they are stupid. Even if a double homicide
+      is directly motivated by opposition to Israel’s extermination campaign in Gaza,
+      that is not a valid reason to stop opposing an active genocide. This shouldn’t
+      even need to be said. Last I heard it is unknown whether the synagogue attacker
+      was motivated by Israel’s actions in Gaza, but if he was I’d say that’s one more
+      reason to oppose Israel’s actions in Gaza. If you are too racist or apathetic
+      to oppose a genocide on principle, then you should oppose it because it is fomenting
+      violent extremism which could end up hurting people who look like you and live
+      where you live. https://x.com/caitoz/status/1739624088879120702 Back in December
+      2023 I wrote that “Actually, what fuels antisemitism is murdering children by
+      the thousands under the banner of the Star of David while adamantly insisting
+      that your actions are inseparable from all Jews and the totality of Judaism.”
+      In April of this year I said that “If you believe that all the violence and destruction
+      in Gaza is the fault of Hamas then by your own logic you must also accept that
+      the coming wave of antisemitism and violent extremism which is going to ensue
+      from the incineration of Gaza will exclusively be the fault of Israel.” I note
+      this because if it turns out that this was yet another instance of someone flipping
+      out about Israel’s criminality in Gaza and attacking Jewish civilians in a misguided
+      attempt at retaliation, it’s worth pointing out that it was entirely foreseeable
+      and preventable. ______________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Two people were murdered and four injured in a terrorist attack
+      at a Manchester synagogue, leading to a controversial online exchange about the
+      implications of dehumanizing rhetoric towards Israelis and Jews.
+    paragraph_summary: On Thursday, a terrorist incident at a Manchester synagogue resulted
+      in the murder of two individuals and serious injuries to four others, prompting
+      a response from the British government and police, who shot and killed the suspect,
+      a British citizen of Syrian descent. Following the attack, some supporters of
+      Israel, like Jonathan Elkhoury, suggested that dehumanizing rhetoric against Israelis
+      and Jews contributes to such violence, urging a halt to criticism of Israel's
+      actions. However, the article critiques this perspective, arguing that while murder,
+      antisemitism, and terrorism are wrong, Israel's military actions, particularly
+      against civilians and places of worship, should also be condemned. The author
+      expresses discomfort in discussing the incident in the context of broader political
+      debates but emphasizes the need for accountability on all sides.
+    published: '2025-10-03T01:30:10+00:00'
+  - title: On The Manchester Synagogue Attack
+    url: https://www.caitlinjohnst.one/p/on-the-manchester-synagogue-attack
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Two people were reportedly murdered on Thursday while attending a Manchester synagogue
+      in what the British government has labeled a terrorist incident. Four others were
+      seriously injured. Police say they shot and killed the suspect, a British citizen
+      of Syrian descent. After the attack an Arab-Israeli hasbarist named Jonathan Elkhoury
+      jumped on Twitter to tell me that “When you dehumanize Israelis and Jews to this
+      level, you end up with a terrorist attack in a synagogue in the UK,” adding, “You’re
+      as complicit as the terrorists attack you sick psycho.” Whenever western Jews
+      get hurt these days you always see the Israel supporters having a big parade where
+      they go “Okay that’s it, wrap it up, nobody gets to criticize Israel’s behavior
+      anymore because you’re causing terrorism!” And then everyone ignores them and
+      goes back to protesting the genocide, because that’s ridiculous. https://x.com/Councillorsuzie/status/1973829681137832374
+      I don’t know whether the Manchester attack had anything to do with Gaza. It could
+      have just been some guy having a mental health crisis. It could have been something
+      else. But the fact that so many Israel apologists are jumping out of the woodwork
+      to say this means everyone needs to stop defending Palestine is very revealing
+      in and of itself. Some thoughts: Murder is wrong. Israel should stop committing
+      it. Antisemitism is wrong. Israel should stop fomenting it by massacring children
+      under the banner of the Star of David while claiming to represent all Jews. Terrorism
+      is wrong. Israel should stop perpetrating it by deliberately targeting civilians
+      with mass scale violence for the purpose of advancing a political objective. Attacking
+      places of worship is wrong. Israel should stop bombing mosques and churches. https://x.com/OmarBaddar/status/1973768778585608414
+      I wish the attack on the Manchester synagogue had never happened. I also feel
+      weird about even talking about it while dozens of Palestinians are killed today
+      whose individual names I’ll never know and whose individual deaths I’ll never
+      see decried in western media headlines. Their lives didn’t matter any less than
+      the two people who were murdered in the synagogue attack. They’re just not white
+      westerners, so their lives aren’t treated as significant. Their violent deaths
+      aren’t seen as horrific. Their murderers aren’t denounced as monsters. I’m seeing
+      Israel supporters claiming that this attack means everyone needs to stop protesting
+      against the ongoing genocide in Gaza, just like they claimed after two Israeli
+      embassy staffers were killed in Washington back in May. Their demands will be
+      ignored just like last time, because they are stupid. Even if a double homicide
+      is directly motivated by opposition to Israel’s extermination campaign in Gaza,
+      that is not a valid reason to stop opposing an active genocide. This shouldn’t
+      even need to be said. Last I heard it is unknown whether the synagogue attacker
+      was motivated by Israel’s actions in Gaza, but if he was I’d say that’s one more
+      reason to oppose Israel’s actions in Gaza. If you are too racist or apathetic
+      to oppose a genocide on principle, then you should oppose it because it is fomenting
+      violent extremism which could end up hurting people who look like you and live
+      where you live. https://x.com/caitoz/status/1739624088879120702 Back in December
+      2023 I wrote that “Actually, what fuels antisemitism is murdering children by
+      the thousands under the banner of the Star of David while adamantly insisting
+      that your actions are inseparable from all Jews and the totality of Judaism.”
+      In April of this year I said that “If you believe that all the violence and destruction
+      in Gaza is the fault of Hamas then by your own logic you must also accept that
+      the coming wave of antisemitism and violent extremism which is going to ensue
+      from the incineration of Gaza will exclusively be the fault of Israel.” I note
+      this because if it turns out that this was yet another instance of someone flipping
+      out about Israel’s criminality in Gaza and attacking Jewish civilians in a misguided
+      attempt at retaliation, it’s worth pointing out that it was entirely foreseeable
+      and preventable. ______________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Two people were murdered and four injured in a terrorist attack
+      at a Manchester synagogue, leading to a controversial online exchange about the
+      implications of dehumanizing rhetoric towards Israelis and Jews.
+    paragraph_summary: On Thursday, a terrorist incident at a Manchester synagogue resulted
+      in the murder of two individuals and serious injuries to four others, prompting
+      a response from the British government and police, who shot and killed the suspect,
+      a British citizen of Syrian descent. Following the attack, some supporters of
+      Israel, like Jonathan Elkhoury, suggested that dehumanizing rhetoric against Israelis
+      and Jews contributes to such violence, urging a halt to criticism of Israel's
+      actions. However, the article critiques this perspective, arguing that while murder,
+      antisemitism, and terrorism are wrong, Israel's military actions, particularly
+      against civilians and places of worship, should also be condemned. The author
+      expresses discomfort in discussing the incident in the context of broader political
+      debates but emphasizes the need for accountability on all sides.
+    published: '2025-10-03T01:30:10+00:00'
   - title: The Trumpanyahu "Peace" Plan, And Other Notes
     url: https://www.caitlinjohnst.one/p/the-trumpanyahu-peace-plan-and-other
     text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now

@@ -7,17 +7,1099 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  In the wake of escalating global tensions and political intrigue, recent developments in U.S. military and foreign policy have drawn heightened scrutiny. The most notable event in the last 12 hours was the unprecedented assembly of over 800 General Officers at Quantico Marine Base, where Donald Trump and Secretary of War Pete Hegseth addressed the nation’s top military leadership. According to **Larry C. Johnson**, this gathering appeared “unnecessary” and likely served as a diversion from a more significant, undisclosed agenda, possibly related to covert military operations. The scale and secrecy of the meeting have fueled speculation about imminent U.S. military actions, with Johnson emphasizing the lack of transparency and suggesting that the event was “a cover for action.”
+  As the Ukraine conflict grinds into its third year, Western support faces mounting logistical and political challenges, while internal dissent and shifting alliances continue to reshape the broader geopolitical landscape.
   
-  Meanwhile, diplomatic efforts in the Middle East remain stalled. Trump’s recently unveiled Gaza Peace Plan, which proposed a ceasefire and reconstruction, has been categorically rejected by Israeli leadership and influential Zionist groups. **Larry C. Johnson** asserts that the plan is “DOA” (dead on arrival), with little chance of implementation given the entrenched opposition from Israeli Prime Minister Netanyahu and the ongoing violence that continues to claim Palestinian lives.
+  The most recent development, as detailed by **Larry C. Johnson**, centers on the West’s critical shortages in TNT and high-quality cotton fibers—both essential for ammunition production. Johnson attributes these shortages to years of outsourcing and shifting geopolitical alliances, which have left Western arsenals ill-prepared to sustain Ukraine’s war effort. He notes that “the West cannot ramp up production quickly enough to meet Ukraine’s needs,” and highlights how these material bottlenecks are already constraining military aid. Attempts to compensate with aerial provocations against Russia have so far failed to alter the strategic balance.
   
-  On the Latin American front, concerns persist over a potential U.S. military buildup near Venezuela. Johnson raises the possibility that the threat posed by the Tren de Aragua gang could be exaggerated or manipulated as a pretext for regime change, drawing parallels to previous U.S. strategies in Syria. The article questions the authenticity of the threat and warns of the risk of another interventionist episode.
+  Meanwhile, the fallout from the assassination of Charlie Kirk continues to reverberate. Johnson reports that, just 48 hours before his death, Kirk had expressed his intention to leave the pro-Israel cause after losing a key donor, as revealed by Candace Owens. This revelation underscores the fracturing of previously solid alliances within the US political right, and raises questions about the motives and timing behind Kirk’s killing.
+  
+  On the ground in Ukraine, President Zelensky’s recent call for a unilateral ceasefire on aerial attacks marks a significant shift, following a surge in Russian missile and drone strikes that have crippled Ukrainian energy infrastructure. Johnson interprets this move as a sign of mounting pressure on Zelensky, both from the deteriorating situation on the front and from Western backers increasingly unable to deliver material support.
   
   **Trends and Predictions:**  
-  The convergence of high-level military meetings and failed diplomatic initiatives signals a period of heightened uncertainty. The majority view across sources, as articulated by **Larry C. Johnson**, is that the U.S. is preparing for significant, possibly covert, military operations—most likely with a focus on Venezuela or other strategic theaters. There is a high chance that the Quantico meeting foreshadows imminent action, though the precise nature remains undisclosed. In the Middle East, the peace process is at a standstill, and there is little expectation of progress in the near term. The situation in Venezuela is likely to intensify, with a “high chance” of further U.S. involvement under the guise of combating organized crime.
-  
-  In summary, the geopolitical landscape is marked by secrecy, stalled diplomacy, and the potential for new military interventions. As Johnson concludes, “I guarantee” that the coming days will bring further clarity on the true purpose behind these extraordinary military maneuvers.
+  The majority of independent analysts, including Johnson, agree that the West’s ability to sustain Ukraine militarily is eroding, with logistical constraints now a decisive factor. Political infighting and shifting donor allegiances in the US are further undermining coherent policy responses. I assess with high confidence that, unless there is a dramatic change in Western industrial policy or a diplomatic breakthrough, Ukraine’s position will continue to deteriorate. The likelihood of further internal political instability, both in Ukraine and among its Western supporters, is quite high in the coming weeks.
 articles:
+  - title: A Video Update on the West’s Faltering TNT Production and Aerial Attempts
+      to Provoke Russia
+    url: https://sonar21.com/a-video-update-on-the-wests-faltering-tnt-production-and-aerial-attempts-to-provoke-russia/
+    text: 'This will be a departure from my normal post. I want you to watch two videos:
+      The first is from Inside China Business by Kevin Wamsley, the second is BORZZIKMAN
+      . Both tell two important stories about the situation confronting the West as
+      it scrambles to figure out some way to save Ukraine. Unfortunately, the West is
+      on a fool’s errand . Each of these videos is less than 10 minutes running time.
+      Here’s a summary of Kevin’s video: Artillery shells involve two volatile components:
+      the explosive, and the propellant. TNT is in critical shortage in NATO militaries,
+      as decades ago the production of TNT was outsourced abroad for environmental and
+      safety reasons. But another bottleneck exists for the highest-quality cotton fibers,
+      which are used in propellants. Most of that cotton was sourced from China, who
+      is closely allied with Russia. Military suppliers are scrambling, to locate alternate
+      sources of high-grade cotton, and to refurbish TNT factories that have been long
+      closed. TNT also is used in civilian applications, for engineering, mining, and
+      heavy construction. High demands from the defense sector are causing prices to
+      soar for industrial users as well, increasing over four times in the past year.
+      To put it simply: The US and Europe face major supply chain challenges and a shortage
+      of manufacturing facilities to produce sufficient amounts of artillery shells
+      and other explosives that are essential if they plan to fight Russia or China.
+      Next up is BORZZIKMAN. NATO continues to try to intimidate Russia in both the
+      Baltic and Black Seas, but Russia is not backing down. This is dangerous brinkmanship
+      on the part of NATO because such actions carry the risk of an accidental confrontation
+      that could escalate rapidly into a hot war… a war that NATO is totally unprepared
+      to fight: I was interviewed late last week by Stanislav “Stas” Krapivnik. Stas
+      is a Russian-American military analyst, commentator, and consultant specializing
+      in geopolitics, military strategy, NATO affairs, economics, supply chains, and
+      international relations. He is frequently featured in pro-Russian and independent
+      media outlets, providing insights on conflicts like the Russia-Ukraine war, global
+      economics, and regional dynamics in the South Caucasus. Based in Moscow since
+      around 2010, Krapivnik operates as an independent contractor and maintains a YouTube
+      channel (@MrSlavikman) where he discusses these topics. Stas is an American citizen
+      who was born in Luhansk (then part of the Soviet Union, now in eastern Ukraine)
+      during the Soviet era. His family immigrated to the United States when he was
+      seven years old. Stas joined the US Army, rising to the rank of major until his
+      discharge in 2004. He cited disillusionment with US military actions in the former
+      Yugoslavia (e.g., NATO’s 1999 bombing campaign) as a key reason for leaving, which
+      he described as conflicting with his values and involving operations near his
+      homeland. We had a great discussion about Charlie Kirk’s assassination and the
+      current situation with the war in Ukraine: I also was interviewed on Monday by
+      Glenn Diesen. Glenn attended the Valdai Conference and was able to ask President
+      Putin a question about the Baltics during the marathon question-and-answer session:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses the challenges faced by the West in
+      supporting Ukraine, highlighting critical shortages in TNT and high-quality cotton
+      fibers due to past outsourcing and geopolitical alliances, as explained in two
+      videos.
+    paragraph_summary: The article discusses two videos that highlight the challenges
+      the West faces in supporting Ukraine amidst ongoing tensions with Russia. The
+      first video by Kevin Wamsley explains the critical shortages of artillery components,
+      particularly TNT and high-quality cotton fibers used in propellants, due to past
+      outsourcing and current geopolitical issues, notably the reliance on China, which
+      is allied with Russia. This shortage has led to soaring prices and supply chain
+      difficulties for NATO militaries. The second video from BORZZIKMAN addresses NATO's
+      provocative actions in the Baltic and Black Seas, suggesting that such brinkmanship
+      could lead to an accidental escalation into war, for which NATO is ill-prepared.
+      Overall, the article underscores the precarious situation the West finds itself
+      in as it attempts to navigate military support for Ukraine while grappling with
+      significant logistical and strategic challenges.
+    published: '2025-10-08T01:50:49+00:00'
+  - title: A Video Update on the West’s Faltering TNT Production and Aerial Attempts
+      to Provoke Russia
+    url: https://sonar21.com/a-video-update-on-the-wests-faltering-tnt-production-and-aerial-attempts-to-provoke-russia/
+    text: 'This will be a departure from my normal post. I want you to watch two videos:
+      The first is from Inside China Business by Kevin Wamsley, the second is BORZZIKMAN
+      . Both tell two important stories about the situation confronting the West as
+      it scrambles to figure out some way to save Ukraine. Unfortunately, the West is
+      on a fool’s errand . Each of these videos is less than 10 minutes running time.
+      Here’s a summary of Kevin’s video: Artillery shells involve two volatile components:
+      the explosive, and the propellant. TNT is in critical shortage in NATO militaries,
+      as decades ago the production of TNT was outsourced abroad for environmental and
+      safety reasons. But another bottleneck exists for the highest-quality cotton fibers,
+      which are used in propellants. Most of that cotton was sourced from China, who
+      is closely allied with Russia. Military suppliers are scrambling, to locate alternate
+      sources of high-grade cotton, and to refurbish TNT factories that have been long
+      closed. TNT also is used in civilian applications, for engineering, mining, and
+      heavy construction. High demands from the defense sector are causing prices to
+      soar for industrial users as well, increasing over four times in the past year.
+      To put it simply: The US and Europe face major supply chain challenges and a shortage
+      of manufacturing facilities to produce sufficient amounts of artillery shells
+      and other explosives that are essential if they plan to fight Russia or China.
+      Next up is BORZZIKMAN. NATO continues to try to intimidate Russia in both the
+      Baltic and Black Seas, but Russia is not backing down. This is dangerous brinkmanship
+      on the part of NATO because such actions carry the risk of an accidental confrontation
+      that could escalate rapidly into a hot war… a war that NATO is totally unprepared
+      to fight: I was interviewed late last week by Stanislav “Stas” Krapivnik. Stas
+      is a Russian-American military analyst, commentator, and consultant specializing
+      in geopolitics, military strategy, NATO affairs, economics, supply chains, and
+      international relations. He is frequently featured in pro-Russian and independent
+      media outlets, providing insights on conflicts like the Russia-Ukraine war, global
+      economics, and regional dynamics in the South Caucasus. Based in Moscow since
+      around 2010, Krapivnik operates as an independent contractor and maintains a YouTube
+      channel (@MrSlavikman) where he discusses these topics. Stas is an American citizen
+      who was born in Luhansk (then part of the Soviet Union, now in eastern Ukraine)
+      during the Soviet era. His family immigrated to the United States when he was
+      seven years old. Stas joined the US Army, rising to the rank of major until his
+      discharge in 2004. He cited disillusionment with US military actions in the former
+      Yugoslavia (e.g., NATO’s 1999 bombing campaign) as a key reason for leaving, which
+      he described as conflicting with his values and involving operations near his
+      homeland. We had a great discussion about Charlie Kirk’s assassination and the
+      current situation with the war in Ukraine: I also was interviewed on Monday by
+      Glenn Diesen. Glenn attended the Valdai Conference and was able to ask President
+      Putin a question about the Baltics during the marathon question-and-answer session:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses the challenges faced by the West in
+      supporting Ukraine, highlighting critical shortages in TNT and high-quality cotton
+      fibers due to past outsourcing and geopolitical alliances, as explained in two
+      videos.
+    paragraph_summary: The article discusses two videos that highlight the challenges
+      the West faces in supporting Ukraine amidst ongoing tensions with Russia. The
+      first video by Kevin Wamsley explains the critical shortages of artillery components,
+      particularly TNT and high-quality cotton fibers used in propellants, due to past
+      outsourcing and current geopolitical issues, notably the reliance on China, which
+      is allied with Russia. This shortage has led to soaring prices and supply chain
+      difficulties for NATO militaries. The second video from BORZZIKMAN addresses NATO's
+      provocative actions in the Baltic and Black Seas, suggesting that such brinkmanship
+      could lead to an accidental escalation into war, for which NATO is ill-prepared.
+      Overall, the article underscores the precarious situation the West finds itself
+      in as it attempts to navigate military support for Ukraine while grappling with
+      significant logistical and strategic challenges.
+    published: '2025-10-08T01:50:49+00:00'
+  - title: Just a Coincidence? Charlie Kirk Vowed to Leave the Pro-Israel Cause 48 Hours
+      Before He Was Killed
+    url: https://sonar21.com/just-a-coincidence-charlie-kirk-vowed-to-leave-the-pro-israel-cause-48-hours-before-he-was-killed/
+    text: 'This ain’t opinion… It is an ugly fact and we have it thanks to Candace Owens,
+      who released the group text message where Charlie declared his intention to split
+      with the Netanyahu circus. Here is the relevant part of that message (you can
+      see a portion o f the exchange in the image at the top of this article) that I
+      copied from the transcript of her show today: Take a look. So, Charlie writes
+      in this group chat: “Just lost another huge Jewish donor, uh, 2 million a year
+      because we won’t cancel Tucker. I’m thinking of inviting Candace.” . . .  “Jewish
+      donors play into all of the stereotypes. I cannot and will not be bullied like
+      this, leaving me no choice but to leave the pro-Israel cause.” And somebody writes,
+      Sedona writes: “Please do not invite Candace. That might feel good short term,
+      but it’s not good long term. In my opinion, like all groups, you’re going to get
+      a wide variety of opinions. that nasty free will thing that God bestowed on us.
+      Makes life frustrating at times after the dust settles a bit maybe. “ So again,
+      this is 48 hours before Charlie was assassinated. He was very clear and he was
+      very explicit and he did not back down. To add some additional context to what
+      led Charlie to “leave the pro-Israel cause”… In early August 2025, Charlie Kirk
+      attended a private, off-the-record retreat called “ Save The West ” in the Hamptons,
+      New York, hosted by billionaire hedge fund manager and pro-Israel donor Bill Ackman.
+      The event included other influential figures, such as Babylon Bee CEO Seth Dillon,
+      PragerU influencer Xaviaer DuRousseau, and podcaster Emily Wilson. The meeting
+      turned tense as Ackman and attendees reportedly confronted Kirk over his evolving
+      criticism of Israeli influence in U.S. politics and his decision to platform speakers
+      like Tucker Carlson—who had been vocal against Israel’s Gaza operations—at TPUSA
+      events, such as the July 2025 Student Action Summit. Sources described it as an
+      “intervention,” with Ackman allegedly demanding Kirk rescind Carlson’s invitation
+      to TPUSA’s America Fest 2025 and align more closely with unwavering pro-Israel
+      stances, including a potential trip to Israel funded by donors. Kirk reportedly
+      felt “hammered,” left feeling “blackmailed” by threats to funding, and rejected
+      offers of significant financial support (potentially up to $150 million, tied
+      to Israeli Prime Minister Benjamin Netanyahu’s network), amid prior pressure from
+      donors like ultra-Zionist billionaire Robert Shillman, who later terminated TPUSA
+      funding. It was shortly after this intervention in the Hamptons that Charlie Kirk
+      was interviewed by Megyn Kelly on the issue: Regardless of Charlie’s pro-Zionist
+      views prior to July 2025, it is now clear that the scales were falling from his
+      eyes and he was coming to understand the vile nature of these Zionist bullies…
+      Both Jewish and Christian. I did not discuss Charlie Kirk or the pathetic investigation
+      today with either Nima or the Judge. Iran and Ukraine were the focus of these
+      interviews: I thank you for your invaluable support by taking time to read or
+      comment. I do not charge a subscription fee nor do I accept advertising. I want
+      the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Charlie expressed his intention to leave the pro-Israel cause
+      after losing a significant Jewish donor due to pressure to cancel Tucker Carlson,
+      as revealed in a group text message shared by Candace Owens.
+    paragraph_summary: The article discusses a leaked group text message from Charlie
+      Kirk, revealing his intention to distance himself from pro-Israel advocacy due
+      to pressure from Jewish donors, particularly after losing a significant donor
+      over his refusal to cancel Tucker Carlson. In the message, Kirk expresses frustration
+      about being bullied by donors and contemplates inviting Candace Owens to an event,
+      despite concerns from others in the chat about the long-term implications of such
+      a decision. The context includes a tense retreat in August 2025 hosted by pro-Israel
+      billionaire Bill Ackman, where Kirk faced criticism for his evolving stance on
+      Israeli influence in U.S. politics and for featuring Carlson, who has been critical
+      of Israel's actions in Gaza. This situation escalated shortly before Kirk's assassination,
+      highlighting the internal conflicts within pro-Israel circles regarding donor
+      influence and free speech.
+    published: '2025-10-07T02:42:39+00:00'
+  - title: Just a Coincidence? Charlie Kirk Vowed to Leave the Pro-Israel Cause 48 Hours
+      Before He Was Killed
+    url: https://sonar21.com/just-a-coincidence-charlie-kirk-vowed-to-leave-the-pro-israel-cause-48-hours-before-he-was-killed/
+    text: 'This ain’t opinion… It is an ugly fact and we have it thanks to Candace Owens,
+      who released the group text message where Charlie declared his intention to split
+      with the Netanyahu circus. Here is the relevant part of that message (you can
+      see a portion o f the exchange in the image at the top of this article) that I
+      copied from the transcript of her show today: Take a look. So, Charlie writes
+      in this group chat: “Just lost another huge Jewish donor, uh, 2 million a year
+      because we won’t cancel Tucker. I’m thinking of inviting Candace.” . . .  “Jewish
+      donors play into all of the stereotypes. I cannot and will not be bullied like
+      this, leaving me no choice but to leave the pro-Israel cause.” And somebody writes,
+      Sedona writes: “Please do not invite Candace. That might feel good short term,
+      but it’s not good long term. In my opinion, like all groups, you’re going to get
+      a wide variety of opinions. that nasty free will thing that God bestowed on us.
+      Makes life frustrating at times after the dust settles a bit maybe. “ So again,
+      this is 48 hours before Charlie was assassinated. He was very clear and he was
+      very explicit and he did not back down. To add some additional context to what
+      led Charlie to “leave the pro-Israel cause”… In early August 2025, Charlie Kirk
+      attended a private, off-the-record retreat called “ Save The West ” in the Hamptons,
+      New York, hosted by billionaire hedge fund manager and pro-Israel donor Bill Ackman.
+      The event included other influential figures, such as Babylon Bee CEO Seth Dillon,
+      PragerU influencer Xaviaer DuRousseau, and podcaster Emily Wilson. The meeting
+      turned tense as Ackman and attendees reportedly confronted Kirk over his evolving
+      criticism of Israeli influence in U.S. politics and his decision to platform speakers
+      like Tucker Carlson—who had been vocal against Israel’s Gaza operations—at TPUSA
+      events, such as the July 2025 Student Action Summit. Sources described it as an
+      “intervention,” with Ackman allegedly demanding Kirk rescind Carlson’s invitation
+      to TPUSA’s America Fest 2025 and align more closely with unwavering pro-Israel
+      stances, including a potential trip to Israel funded by donors. Kirk reportedly
+      felt “hammered,” left feeling “blackmailed” by threats to funding, and rejected
+      offers of significant financial support (potentially up to $150 million, tied
+      to Israeli Prime Minister Benjamin Netanyahu’s network), amid prior pressure from
+      donors like ultra-Zionist billionaire Robert Shillman, who later terminated TPUSA
+      funding. It was shortly after this intervention in the Hamptons that Charlie Kirk
+      was interviewed by Megyn Kelly on the issue: Regardless of Charlie’s pro-Zionist
+      views prior to July 2025, it is now clear that the scales were falling from his
+      eyes and he was coming to understand the vile nature of these Zionist bullies…
+      Both Jewish and Christian. I did not discuss Charlie Kirk or the pathetic investigation
+      today with either Nima or the Judge. Iran and Ukraine were the focus of these
+      interviews: I thank you for your invaluable support by taking time to read or
+      comment. I do not charge a subscription fee nor do I accept advertising. I want
+      the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Charlie expressed his intention to leave the pro-Israel cause
+      after losing a significant Jewish donor due to pressure to cancel Tucker Carlson,
+      as revealed in a group text message shared by Candace Owens.
+    paragraph_summary: The article discusses a leaked group text message from Charlie
+      Kirk, revealing his intention to distance himself from pro-Israel advocacy due
+      to pressure from Jewish donors, particularly after losing a significant donor
+      over his refusal to cancel Tucker Carlson. In the message, Kirk expresses frustration
+      about being bullied by donors and contemplates inviting Candace Owens to an event,
+      despite concerns from others in the chat about the long-term implications of such
+      a decision. The context includes a tense retreat in August 2025 hosted by pro-Israel
+      billionaire Bill Ackman, where Kirk faced criticism for his evolving stance on
+      Israeli influence in U.S. politics and for featuring Carlson, who has been critical
+      of Israel's actions in Gaza. This situation escalated shortly before Kirk's assassination,
+      highlighting the internal conflicts within pro-Israel circles regarding donor
+      influence and free speech.
+    published: '2025-10-07T02:42:39+00:00'
+  - title: Zelensky Feeling the Heat… Err, No Heat, No Electricity
+    url: https://sonar21.com/zelensky-feeling-the-heat-err-no-heat-no-electricity/
+    text: 'Cartoon by Nemo Consider this a followup to my Saturday article regarding
+      the alleged stalemate in Ukraine. Once again, Nemo summarizes the situation nicely
+      and succinctly. During the last two weeks, Russian missiles and drones have been
+      methodically clobbering Ukrainian electrical and power hubs, manufacturing plants
+      and rail lines… And I am talking hundreds of attacks almost every other day. Despite
+      Ukrainian claims that they are shooting down 90% of the Russian missiles and drones,
+      President Zelensky issued a plaintive call to bring a halt to the Russian attacks…
+      I thought it was a stalemate : Vladimir Zelensky changed tack following multiple
+      explosions across Ukraine and called for a ceasefire on aerial attacks. “A unilateral
+      ceasefire in the sky is quite possible,” he wrote on his Telegram channel, without
+      explaining what that could mean. However, Strana news website described the statement
+      as a radical shift in his policy course. Zelensky may have changed his position
+      amid significant challenges Ukraine is facing with regard to its air defense capabilities.
+      Politicians, experts and reporters have been actively discussing the hole in Ukraine’s
+      aerial defense shield, the news outlet said. According to Strana, this may have
+      major negative consequences for Ukraine ahead of the cold weather. The last sentence
+      is a classic example of no-shit-analysis … Thank you, Captain Obvious . Andrei
+      Maryanov is out today with a good update on the increasingly dire situation confronting
+      Ukraine and its NATO allies. He focuses specifically on a sector of the battlefield
+      where it appears that as many as 10,000 Ukrainian soldiers are trapped, with Russia
+      controlling the front and the flanks and the Ukrainians’ backs being literally
+      up against a massive reservoir of water… There is no escape: Marat Khairullin,
+      one of the most experienced Russian war correspondents, also provided an important
+      update today : As of right now, actions in neighboring areas, as well as strategic
+      operations disrupting the economy and military rear of Ukraine, have prepared
+      conditions for the elimination of the main ‘thorn’ in the Donetsk People’s Republic
+      — the Slavyansk-Kramatorsk defense node of the Ukrainian Armed Forces. Now, it
+      is Seversk’s turn. Areas north of the city have been cleared, the Serebryansky
+      forestry and strongholds on the right bank of the Seversky Donets River have been
+      liberated. Bridgeheads are being prepared to encircle the city of Severesk and
+      adjacent areas at various radii. By the method of ‘stretching into splits,’ assault
+      groups of the Russian Armed Forces force the defending Ukrainian Armed Forces
+      grouping to constantly maneuver along the front line, thus spreading their units
+      further apart. Today, units of the “South” Group expanded the bridgehead on the
+      left bank of the Bakhmutka River, liberated the settlement of Kuzminovka (48°47′47″N
+      38°04′01″E, about 30 inhabitants), and outflanked the Ukrainian Armed Forces units
+      defending in the settlement of Zvanovka, which together with the settlement of
+      Svyato-Pokrovskoe forms a defense node covering Seversk from the south. Likely,
+      the beginning of Russian Armed Forces activity is directed along the Vyemka-Zvanovka
+      line. You can read the rest of his article at the link provided above. Here is
+      the latest from my friend, Randy Credico… Colonel Wilkerson and I spent an hour
+      with him on Friday discussing Ukraine and Venezuela: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Ukrainian President Zelensky has called for a unilateral ceasefire
+      on aerial attacks following a significant increase in Russian missile and drone
+      strikes, marking a notable shift in his stance amidst ongoing conflict.
+    paragraph_summary: The article discusses the escalating conflict in Ukraine, highlighting
+      a recent shift in President Zelensky's stance amid relentless Russian missile
+      and drone attacks on Ukrainian infrastructure. Despite claims of successfully
+      intercepting a majority of these attacks, Zelensky has called for a unilateral
+      ceasefire in aerial assaults, signaling a potential change in strategy due to
+      Ukraine's struggling air defense capabilities. The situation is further complicated
+      by reports of approximately 10,000 Ukrainian soldiers being trapped in a precarious
+      position, with Russian forces controlling key areas around them. The article underscores
+      the dire circumstances Ukraine faces as winter approaches and the implications
+      for its military and political strategy.
+    published: '2025-10-06T02:11:40+00:00'
+  - title: Zelensky Feeling the Heat… Err, No Heat, No Electricity
+    url: https://sonar21.com/zelensky-feeling-the-heat-err-no-heat-no-electricity/
+    text: 'Cartoon by Nemo Consider this a followup to my Saturday article regarding
+      the alleged stalemate in Ukraine. Once again, Nemo summarizes the situation nicely
+      and succinctly. During the last two weeks, Russian missiles and drones have been
+      methodically clobbering Ukrainian electrical and power hubs, manufacturing plants
+      and rail lines… And I am talking hundreds of attacks almost every other day. Despite
+      Ukrainian claims that they are shooting down 90% of the Russian missiles and drones,
+      President Zelensky issued a plaintive call to bring a halt to the Russian attacks…
+      I thought it was a stalemate : Vladimir Zelensky changed tack following multiple
+      explosions across Ukraine and called for a ceasefire on aerial attacks. “A unilateral
+      ceasefire in the sky is quite possible,” he wrote on his Telegram channel, without
+      explaining what that could mean. However, Strana news website described the statement
+      as a radical shift in his policy course. Zelensky may have changed his position
+      amid significant challenges Ukraine is facing with regard to its air defense capabilities.
+      Politicians, experts and reporters have been actively discussing the hole in Ukraine’s
+      aerial defense shield, the news outlet said. According to Strana, this may have
+      major negative consequences for Ukraine ahead of the cold weather. The last sentence
+      is a classic example of no-shit-analysis … Thank you, Captain Obvious . Andrei
+      Maryanov is out today with a good update on the increasingly dire situation confronting
+      Ukraine and its NATO allies. He focuses specifically on a sector of the battlefield
+      where it appears that as many as 10,000 Ukrainian soldiers are trapped, with Russia
+      controlling the front and the flanks and the Ukrainians’ backs being literally
+      up against a massive reservoir of water… There is no escape: Marat Khairullin,
+      one of the most experienced Russian war correspondents, also provided an important
+      update today : As of right now, actions in neighboring areas, as well as strategic
+      operations disrupting the economy and military rear of Ukraine, have prepared
+      conditions for the elimination of the main ‘thorn’ in the Donetsk People’s Republic
+      — the Slavyansk-Kramatorsk defense node of the Ukrainian Armed Forces. Now, it
+      is Seversk’s turn. Areas north of the city have been cleared, the Serebryansky
+      forestry and strongholds on the right bank of the Seversky Donets River have been
+      liberated. Bridgeheads are being prepared to encircle the city of Severesk and
+      adjacent areas at various radii. By the method of ‘stretching into splits,’ assault
+      groups of the Russian Armed Forces force the defending Ukrainian Armed Forces
+      grouping to constantly maneuver along the front line, thus spreading their units
+      further apart. Today, units of the “South” Group expanded the bridgehead on the
+      left bank of the Bakhmutka River, liberated the settlement of Kuzminovka (48°47′47″N
+      38°04′01″E, about 30 inhabitants), and outflanked the Ukrainian Armed Forces units
+      defending in the settlement of Zvanovka, which together with the settlement of
+      Svyato-Pokrovskoe forms a defense node covering Seversk from the south. Likely,
+      the beginning of Russian Armed Forces activity is directed along the Vyemka-Zvanovka
+      line. You can read the rest of his article at the link provided above. Here is
+      the latest from my friend, Randy Credico… Colonel Wilkerson and I spent an hour
+      with him on Friday discussing Ukraine and Venezuela: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Ukrainian President Zelensky has called for a unilateral ceasefire
+      on aerial attacks following a significant increase in Russian missile and drone
+      strikes, marking a notable shift in his stance amidst ongoing conflict.
+    paragraph_summary: The article discusses the escalating conflict in Ukraine, highlighting
+      a recent shift in President Zelensky's stance amid relentless Russian missile
+      and drone attacks on Ukrainian infrastructure. Despite claims of successfully
+      intercepting a majority of these attacks, Zelensky has called for a unilateral
+      ceasefire in aerial assaults, signaling a potential change in strategy due to
+      Ukraine's struggling air defense capabilities. The situation is further complicated
+      by reports of approximately 10,000 Ukrainian soldiers being trapped in a precarious
+      position, with Russian forces controlling key areas around them. The article underscores
+      the dire circumstances Ukraine faces as winter approaches and the implications
+      for its military and political strategy.
+    published: '2025-10-06T02:11:40+00:00'
+  - title: Trump Has Been Bamboozled About Ukraine’s War Prospects
+    url: https://sonar21.com/trump-has-been-bamboozled-about-ukraines-war-prospects/
+    text: 'Cartoon by Nemo I am saving myself a thousand words by posting the latest
+      cartoon from Nemo (not Nima). He has captured the absurdity, stupidity and horror
+      of General David Petraeus’ fawning over a radical Sunni terrorist… One that we
+      were supposedly trying to destroy. Instead of destroying this bona fide head chopper,
+      the Trump administration and its lackeys are celebrating his rise to power. What
+      I want to focus on is Sy Hersh’s latest SubStack piece on the War in Ukraine:
+      NO END IN SIGHT FOR UKRAINE . The really interesting part of Sy’s piece is not
+      that Sy is drinking the Kool-Aid about the war in Ukraine being a stalemate… Rather,
+      it is the fact that his sources in the Trump administration are spewing this nonsense.
+      Knowing Sy for more than 45 years, I am confident that he is accurately reporting
+      what the sources — unnamed — are telling him. Sy, drawing on interviews with US
+      officials linked to the Trump administration and Russia experts, paints a grim
+      picture of the Russia-Ukraine war, ongoing since February 2022, with no resolution
+      in sight. The piece blends insights from intelligence sources, diplomatic perspectives,
+      and historical analogies to argue that the conflict has settled into a brutal
+      stalemate, with economic pressures and shifting US policies complicating prospects
+      for peace. First, let’s clarify the meaning of stalemate. .. A stalemate is a
+      situation in which neither side in a conflict can make significant progress, gain
+      an advantage, or achieve a decisive victory over the other. This leads to a deadlock
+      or standstill, where both parties are unable to alter the outcome meaningfully
+      despite ongoing efforts. In military and geopolitical contexts, stalemates typically
+      result in prolonged confrontations, entrenched positions, and unresolved disputes,
+      as seen in examples like the Korean War or modern conflicts where front lines
+      barely move and no side can prevail. I’m not bothered by the fact that Sy is not
+      paying attention to what is happening on the ground in Ukraine; but how can the
+      Trump folks, who supposedly have access to the best intelligence, can spew such
+      nonsense. Russia is making steady progress all along the line of conflict in Ukraine.
+      Russian sources, including the Ministry of Defense (MoD) briefings, TASS, and
+      state-aligned reports, portray the ongoing special military operation as a steady,
+      attritional advance by Russian forces, particularly in Donetsk Oblast, with significant
+      Ukrainian losses and infrastructure degradation. The MoD’s weekly summary for
+      September 27–October 3, 2025, reported up to 10,660 Ukrainian personnel casualties,
+      destruction of 96 artillery pieces, 29 field ammunition depots, and strikes on
+      1,452 military facilities, including energy infrastructure to disrupt logistics
+      ahead of winter. Overall, Russia is using encirclement tactics, drone integration,
+      and small-unit infiltrations to exploit Ukrainian manpower shortages, while dismissing
+      Western aid as ineffective. High-volume missile and drone strikes (e.g., 381 drones
+      and 35 missiles on October 2–3) targeted energy grids, causing blackouts in Donetsk
+      cities like Druzhkivka, Kostyantynivka, and Kramatorsk. Russian sources, as well
+      as Ukrainian channels, describe Pokrovsk as the focal point of operations in southwestern
+      Donetsk, with Russian forces actively enveloping the city from multiple axes to
+      isolate Ukrainian defenses. The MoD reports daily assaults near Pokrovsk itself,
+      north (Rodynske), northeast (Krasnyi Lyman, Novoekonomichne, Sukhetske), east
+      (Myrnohrad, Myrolyubivka, Promin), southeast (Novopavlivka, Lysivka), and southwest
+      (Kotlyne, Udachne, Molodetske, Zvirove), using small infantry groups and FPV drones
+      for infiltration amid foliage cover. TASS , citing Donetsk People’s Republic head
+      Denis Pushilin, states that Russian forces maintain control despite Ukrainian
+      counterattacks in Pokrovsk and nearby Dzerzhinsk (Toretsk), with Ukrainian intelligence
+      admitting that the front is “ most critical ” due to concentrated Russian efforts.
+      A successful push here will open paths to Dnepropetrovsk Oblast and northward
+      to Kramatorsk-Slavyansk, per Russian assessments. MoD claims Ukrainian losses
+      in the sector exceed 1,485 troops in late September alone, with infantry casualties
+      up 30% in September compared to August, attributed to drone strikes and poor weather
+      hindering Ukrainian reinforcements. Russian units like the 3rd Spetsnaz Brigade
+      (GRU) and 80th Sparta Reconnaissance Battalion are highlighted for drone operations
+      near Hryshyne and Myrnohrad. The situation is equally dire in Kramatorsk. Although
+      Russian sources indicate a temporary slowdown in ground offensives southwest of
+      Siversk toward Kramatorsk due to poor weather, the Russians are accumulating forces
+      for future assaults, while sustaining high artillery fire that is disrupting Ukrainian
+      movements. The MoD reports no major clashes in the Kramatorsk direction on October
+      3–4, but ongoing strikes, including a ballistic missile hit on a thermal power
+      plant causing a major fire and blackouts. Elements of the 98th Airborne Division
+      are reportedly redeployed from the Kramatorsk area (near Chasiv Yar) to Kherson,
+      suggesting a strategic shift, though Russian narratives frame this as rotational
+      to bolster other fronts. TASS links potential advances to successes in Pokrovsk,
+      warning of northward momentum toward the Kramatorsk-Slavyansk agglomeration. MoD
+      claims include destruction of Ukrainian artillery positions in the sector, with
+      overall Donetsk losses for Ukraine at hundreds daily. Russian milbloggers and
+      the MoD emphasize drone surveillance and rail strikes near Kramatorsk to interdict
+      supplies, portraying the city as increasingly isolated (less than 20 km from positions
+      in some areas). Ukrainian sources, by contrast, report no such advances… While
+      there are reports that Ukrainian units make small advances in some areas, they
+      are unable to consolidate these gains and reinforce their positions. The Russians,
+      who enjoy a decisive advantage in manpower and firepower, are content to press
+      forward with Ukraine doing the overwhelming majority of the bleeding. The most
+      disturbing and delusional part of Sy’s article is this assessment from one of
+      the Trump team: The official continued: “It’s not about conquering Europe. He’s
+      not Catherine the Great” (who overthrew her husband and became empress of Russia
+      for more than three decades in the late eighteenth century). “He’s got to know
+      he has limited resources.” “At one time,” the official said, in the American-led
+      negotiations to end the war with Ukraine, “There was an agreement that you”— Putin—“would
+      get the land” that Russia had won in the war—at least three provinces—and “Ukraine
+      would get peace. And now,” he added, referring to more recent talks, “we told
+      Putin he can’t get any of it. The president said land is not on the table any
+      more. Putin overstepped and he walked away. The war will go on until he is killed
+      or there is a revolt” in Russia. “In other words,” the official said, “it’s an
+      open door” full of imponderables. The official’s view today “is to let Putin stew
+      in his own choices. He will never get Ukraine, and his summer offense failed miserably.”
+      The American policy now is to put as much economic pressure as possible to help
+      bring down the Russian economy. Putin is now busily selling Russia’s “sour” crude
+      oil—known as such due to its sulphur content—with India as one of his main buyers.
+      Thirty percent of Russia’s current economy, the official told me, now comes from
+      the sale of Russian gas and crude oil. Putin, he said, “has no choice but to continue
+      fighting a war that is destroying his economy. This is delusional bullshit. The
+      Russian oil and gas sector contributes 15-20% to the country’s GDP on average,
+      according to comprehensive assessments that include extraction, refining, transportation,
+      sales, and supporting activities. This share has fluctuated due to global prices,
+      sanctions, and wartime disruptions. For instance, Rosstat data shows it at 15.2%
+      in 2020, with earlier peaks around 21% in 2018. While oil and gas exports (including
+      minerals) account for 45-50% of total exports and up to 30-50% of federal budget
+      revenues, their direct GDP impact is lower because GDP encompasses the full economy,
+      including domestic consumption and non-energy sectors. Russia has one other great
+      advantage over the United States with respect to its economy… Its debt-to-GDP
+      ratio is 19%. The US, by dramatic contrast, sits at 126% and growing. It is the
+      United States, not Russia, that has an economy unable to produce the weapons and
+      ammunition to sustain the level of combat we are witnessing in Ukraine. Russia
+      is not struggling to produce air-defense missiles, hypersonic missiles, tanks,
+      armored vehicles, artillery and artillery shells. Oh yeah, almost forgot… Russia
+      is light years ahead of the US in producing drones that are regularly employed
+      in a variety of combat missions. I wonder if the Trump team will ever wake up
+      to reality? Russia, for its part, will continue to grind westward while dismantling
+      the combat capability of the NATO-backed Ukrainian army. This ain’t no stalemate
+      . Here is an interview I did earlier this week with Mike Farris: I thank you for
+      your invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article critiques General David Petraeus for his admiration
+      of a radical Sunni terrorist while highlighting Sy Hersh's SubStack piece, which
+      reveals troubling insights from Trump administration sources about the ongoing
+      stalemate in the Ukraine war.
+    paragraph_summary: The article discusses a cartoon by Nemo that critiques General
+      David Petraeus for his admiration of a radical Sunni terrorist, highlighting the
+      absurdity of the Trump administration's approach to such figures. It shifts focus
+      to Sy Hersh's recent SubStack piece on the ongoing war in Ukraine, which portrays
+      a grim stalemate with no resolution in sight since the conflict began in February
+      2022. Hersh, drawing from unnamed sources within the Trump administration and
+      insights from Russia experts, suggests that the war has settled into a deadlock,
+      complicated by economic pressures and changing U.S. policies. The article emphasizes
+      the definition of stalemate in military contexts, illustrating how such situations
+      lead to prolonged conflicts without meaningful progress for either side.
+    published: '2025-10-05T03:36:56+00:00'
+  - title: Trump Has Been Bamboozled About Ukraine’s War Prospects
+    url: https://sonar21.com/trump-has-been-bamboozled-about-ukraines-war-prospects/
+    text: 'Cartoon by Nemo I am saving myself a thousand words by posting the latest
+      cartoon from Nemo (not Nima). He has captured the absurdity, stupidity and horror
+      of General David Petraeus’ fawning over a radical Sunni terrorist… One that we
+      were supposedly trying to destroy. Instead of destroying this bona fide head chopper,
+      the Trump administration and its lackeys are celebrating his rise to power. What
+      I want to focus on is Sy Hersh’s latest SubStack piece on the War in Ukraine:
+      NO END IN SIGHT FOR UKRAINE . The really interesting part of Sy’s piece is not
+      that Sy is drinking the Kool-Aid about the war in Ukraine being a stalemate… Rather,
+      it is the fact that his sources in the Trump administration are spewing this nonsense.
+      Knowing Sy for more than 45 years, I am confident that he is accurately reporting
+      what the sources — unnamed — are telling him. Sy, drawing on interviews with US
+      officials linked to the Trump administration and Russia experts, paints a grim
+      picture of the Russia-Ukraine war, ongoing since February 2022, with no resolution
+      in sight. The piece blends insights from intelligence sources, diplomatic perspectives,
+      and historical analogies to argue that the conflict has settled into a brutal
+      stalemate, with economic pressures and shifting US policies complicating prospects
+      for peace. First, let’s clarify the meaning of stalemate. .. A stalemate is a
+      situation in which neither side in a conflict can make significant progress, gain
+      an advantage, or achieve a decisive victory over the other. This leads to a deadlock
+      or standstill, where both parties are unable to alter the outcome meaningfully
+      despite ongoing efforts. In military and geopolitical contexts, stalemates typically
+      result in prolonged confrontations, entrenched positions, and unresolved disputes,
+      as seen in examples like the Korean War or modern conflicts where front lines
+      barely move and no side can prevail. I’m not bothered by the fact that Sy is not
+      paying attention to what is happening on the ground in Ukraine; but how can the
+      Trump folks, who supposedly have access to the best intelligence, can spew such
+      nonsense. Russia is making steady progress all along the line of conflict in Ukraine.
+      Russian sources, including the Ministry of Defense (MoD) briefings, TASS, and
+      state-aligned reports, portray the ongoing special military operation as a steady,
+      attritional advance by Russian forces, particularly in Donetsk Oblast, with significant
+      Ukrainian losses and infrastructure degradation. The MoD’s weekly summary for
+      September 27–October 3, 2025, reported up to 10,660 Ukrainian personnel casualties,
+      destruction of 96 artillery pieces, 29 field ammunition depots, and strikes on
+      1,452 military facilities, including energy infrastructure to disrupt logistics
+      ahead of winter. Overall, Russia is using encirclement tactics, drone integration,
+      and small-unit infiltrations to exploit Ukrainian manpower shortages, while dismissing
+      Western aid as ineffective. High-volume missile and drone strikes (e.g., 381 drones
+      and 35 missiles on October 2–3) targeted energy grids, causing blackouts in Donetsk
+      cities like Druzhkivka, Kostyantynivka, and Kramatorsk. Russian sources, as well
+      as Ukrainian channels, describe Pokrovsk as the focal point of operations in southwestern
+      Donetsk, with Russian forces actively enveloping the city from multiple axes to
+      isolate Ukrainian defenses. The MoD reports daily assaults near Pokrovsk itself,
+      north (Rodynske), northeast (Krasnyi Lyman, Novoekonomichne, Sukhetske), east
+      (Myrnohrad, Myrolyubivka, Promin), southeast (Novopavlivka, Lysivka), and southwest
+      (Kotlyne, Udachne, Molodetske, Zvirove), using small infantry groups and FPV drones
+      for infiltration amid foliage cover. TASS , citing Donetsk People’s Republic head
+      Denis Pushilin, states that Russian forces maintain control despite Ukrainian
+      counterattacks in Pokrovsk and nearby Dzerzhinsk (Toretsk), with Ukrainian intelligence
+      admitting that the front is “ most critical ” due to concentrated Russian efforts.
+      A successful push here will open paths to Dnepropetrovsk Oblast and northward
+      to Kramatorsk-Slavyansk, per Russian assessments. MoD claims Ukrainian losses
+      in the sector exceed 1,485 troops in late September alone, with infantry casualties
+      up 30% in September compared to August, attributed to drone strikes and poor weather
+      hindering Ukrainian reinforcements. Russian units like the 3rd Spetsnaz Brigade
+      (GRU) and 80th Sparta Reconnaissance Battalion are highlighted for drone operations
+      near Hryshyne and Myrnohrad. The situation is equally dire in Kramatorsk. Although
+      Russian sources indicate a temporary slowdown in ground offensives southwest of
+      Siversk toward Kramatorsk due to poor weather, the Russians are accumulating forces
+      for future assaults, while sustaining high artillery fire that is disrupting Ukrainian
+      movements. The MoD reports no major clashes in the Kramatorsk direction on October
+      3–4, but ongoing strikes, including a ballistic missile hit on a thermal power
+      plant causing a major fire and blackouts. Elements of the 98th Airborne Division
+      are reportedly redeployed from the Kramatorsk area (near Chasiv Yar) to Kherson,
+      suggesting a strategic shift, though Russian narratives frame this as rotational
+      to bolster other fronts. TASS links potential advances to successes in Pokrovsk,
+      warning of northward momentum toward the Kramatorsk-Slavyansk agglomeration. MoD
+      claims include destruction of Ukrainian artillery positions in the sector, with
+      overall Donetsk losses for Ukraine at hundreds daily. Russian milbloggers and
+      the MoD emphasize drone surveillance and rail strikes near Kramatorsk to interdict
+      supplies, portraying the city as increasingly isolated (less than 20 km from positions
+      in some areas). Ukrainian sources, by contrast, report no such advances… While
+      there are reports that Ukrainian units make small advances in some areas, they
+      are unable to consolidate these gains and reinforce their positions. The Russians,
+      who enjoy a decisive advantage in manpower and firepower, are content to press
+      forward with Ukraine doing the overwhelming majority of the bleeding. The most
+      disturbing and delusional part of Sy’s article is this assessment from one of
+      the Trump team: The official continued: “It’s not about conquering Europe. He’s
+      not Catherine the Great” (who overthrew her husband and became empress of Russia
+      for more than three decades in the late eighteenth century). “He’s got to know
+      he has limited resources.” “At one time,” the official said, in the American-led
+      negotiations to end the war with Ukraine, “There was an agreement that you”— Putin—“would
+      get the land” that Russia had won in the war—at least three provinces—and “Ukraine
+      would get peace. And now,” he added, referring to more recent talks, “we told
+      Putin he can’t get any of it. The president said land is not on the table any
+      more. Putin overstepped and he walked away. The war will go on until he is killed
+      or there is a revolt” in Russia. “In other words,” the official said, “it’s an
+      open door” full of imponderables. The official’s view today “is to let Putin stew
+      in his own choices. He will never get Ukraine, and his summer offense failed miserably.”
+      The American policy now is to put as much economic pressure as possible to help
+      bring down the Russian economy. Putin is now busily selling Russia’s “sour” crude
+      oil—known as such due to its sulphur content—with India as one of his main buyers.
+      Thirty percent of Russia’s current economy, the official told me, now comes from
+      the sale of Russian gas and crude oil. Putin, he said, “has no choice but to continue
+      fighting a war that is destroying his economy. This is delusional bullshit. The
+      Russian oil and gas sector contributes 15-20% to the country’s GDP on average,
+      according to comprehensive assessments that include extraction, refining, transportation,
+      sales, and supporting activities. This share has fluctuated due to global prices,
+      sanctions, and wartime disruptions. For instance, Rosstat data shows it at 15.2%
+      in 2020, with earlier peaks around 21% in 2018. While oil and gas exports (including
+      minerals) account for 45-50% of total exports and up to 30-50% of federal budget
+      revenues, their direct GDP impact is lower because GDP encompasses the full economy,
+      including domestic consumption and non-energy sectors. Russia has one other great
+      advantage over the United States with respect to its economy… Its debt-to-GDP
+      ratio is 19%. The US, by dramatic contrast, sits at 126% and growing. It is the
+      United States, not Russia, that has an economy unable to produce the weapons and
+      ammunition to sustain the level of combat we are witnessing in Ukraine. Russia
+      is not struggling to produce air-defense missiles, hypersonic missiles, tanks,
+      armored vehicles, artillery and artillery shells. Oh yeah, almost forgot… Russia
+      is light years ahead of the US in producing drones that are regularly employed
+      in a variety of combat missions. I wonder if the Trump team will ever wake up
+      to reality? Russia, for its part, will continue to grind westward while dismantling
+      the combat capability of the NATO-backed Ukrainian army. This ain’t no stalemate
+      . Here is an interview I did earlier this week with Mike Farris: I thank you for
+      your invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article critiques General David Petraeus for his admiration
+      of a radical Sunni terrorist while highlighting Sy Hersh's SubStack piece, which
+      reveals troubling insights from Trump administration sources about the ongoing
+      stalemate in the Ukraine war.
+    paragraph_summary: The article discusses a cartoon by Nemo that critiques General
+      David Petraeus for his admiration of a radical Sunni terrorist, highlighting the
+      absurdity of the Trump administration's approach to such figures. It shifts focus
+      to Sy Hersh's recent SubStack piece on the ongoing war in Ukraine, which portrays
+      a grim stalemate with no resolution in sight since the conflict began in February
+      2022. Hersh, drawing from unnamed sources within the Trump administration and
+      insights from Russia experts, suggests that the war has settled into a deadlock,
+      complicated by economic pressures and changing U.S. policies. The article emphasizes
+      the definition of stalemate in military contexts, illustrating how such situations
+      lead to prolonged conflicts without meaningful progress for either side.
+    published: '2025-10-05T03:36:56+00:00'
+  - title: Did Russia Just Test a New Weapon in Dneipropetrovsk?
+    url: https://sonar21.com/did-russia-just-test-a-new-weapon-in-dneipropetrovsk/
+    text: 'A blinding, blue flash of light and the lights in the city are switched off…
+      What is going on? Watch these four short clips taken on 2 October in Dnipro: My
+      friend, who lives in Europe but is not Russian or Slav, sent me these videos with
+      the following explanation: I have credible information with video evidence, that
+      Russia has just tested their new Plasma Burst EMP weapon, again in Dnipro in the
+      night from October 1st to 2nd. These videos are all random dash cam captures and
+      one fixed-webcam monitoring Dnipro. So they are genuine videos. I believe the
+      blackout was caused by the EMP disrupting electric infrastructure. However it
+      is unclear if other missiles and drones were also involved in damaging infrastructure.
+      Upon a high energy pulse within our atmosphere, such force tends to tear Nitrogen
+      and Oxygen Molecules apart. Then, upon recombining to N2 and O2 Molecules (Molecular
+      Recombination), they emit radiation in the blue to ultra violet spectrum. That’s
+      exactly why we perceive lightning as blueish. There are no reliable publications
+      about a working concept of Plasma Burst EMP. However, we know that the Soviets
+      have been researching Plasma since more than 80 years. Being able to maneuver
+      a Mach10 or 12 Hypersonic Vessel is based upon superior Russian knowledge about
+      Plasma. At such speeds, the Plasma around the vessel is a radio communication
+      barrier. Just like the Space Shuttle when re-entering the atmosphere, there is
+      a 5 Minute radio silence. We also know that the Russians were conducting intensive
+      research to create such nuclear free EMP on a large scale energy level. On the
+      2nd Oct. they have given us proof of evidence once again in Dnipro. Dnipro is
+      a place where the Russians have their people on the ground to make sure nobody
+      on earth gets their hands on debris or any sort of clues that might reveal their
+      secrets. Just like YashMash factory was all completely in the hands of Russia.
+      Most people who worked there now have jobs in Russia. So what do you think? Did
+      Russia use a new type of weapon to turn off the lights? I have three videos for
+      you if you’re bored with nothing else to do: 1) Nima hosted me and Colonel Wilkerson;
+      2) The Judge Napolitano Roundtable with me and Ray McGovern; and 3) My Counter
+      Currents interview with Professor Marandi: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: On October 2, videos from Dnipro suggest that a blinding blue
+      flash and subsequent citywide blackout may have been caused by Russia testing
+      a new Plasma Burst EMP weapon, potentially disrupting electrical infrastructure.
+    paragraph_summary: On October 2, videos from Dnipro captured a blinding blue flash
+      of light, leading to speculation that Russia tested a new Plasma Burst EMP weapon,
+      which may have caused a blackout by disrupting the city's electrical infrastructure.
+      The videos, shared by a European friend, are claimed to be genuine dash cam recordings
+      and a fixed webcam capture. While the exact cause of the blackout remains uncertain,
+      the phenomenon is explained by the high-energy pulse tearing apart nitrogen and
+      oxygen molecules, resulting in a blue to ultraviolet light emission, similar to
+      lightning. Although there are no reliable sources confirming the existence of
+      a working Plasma Burst EMP weapon, historical Soviet research into plasma technology
+      suggests a potential capability. The incident raises concerns about Russia's efforts
+      to conceal evidence of such technologies in Dnipro, where they reportedly maintain
+      control over sensitive sites.
+    published: '2025-10-04T01:57:19+00:00'
+  - title: Did Russia Just Test a New Weapon in Dneipropetrovsk?
+    url: https://sonar21.com/did-russia-just-test-a-new-weapon-in-dneipropetrovsk/
+    text: 'A blinding, blue flash of light and the lights in the city are switched off…
+      What is going on? Watch these four short clips taken on 2 October in Dnipro: My
+      friend, who lives in Europe but is not Russian or Slav, sent me these videos with
+      the following explanation: I have credible information with video evidence, that
+      Russia has just tested their new Plasma Burst EMP weapon, again in Dnipro in the
+      night from October 1st to 2nd. These videos are all random dash cam captures and
+      one fixed-webcam monitoring Dnipro. So they are genuine videos. I believe the
+      blackout was caused by the EMP disrupting electric infrastructure. However it
+      is unclear if other missiles and drones were also involved in damaging infrastructure.
+      Upon a high energy pulse within our atmosphere, such force tends to tear Nitrogen
+      and Oxygen Molecules apart. Then, upon recombining to N2 and O2 Molecules (Molecular
+      Recombination), they emit radiation in the blue to ultra violet spectrum. That’s
+      exactly why we perceive lightning as blueish. There are no reliable publications
+      about a working concept of Plasma Burst EMP. However, we know that the Soviets
+      have been researching Plasma since more than 80 years. Being able to maneuver
+      a Mach10 or 12 Hypersonic Vessel is based upon superior Russian knowledge about
+      Plasma. At such speeds, the Plasma around the vessel is a radio communication
+      barrier. Just like the Space Shuttle when re-entering the atmosphere, there is
+      a 5 Minute radio silence. We also know that the Russians were conducting intensive
+      research to create such nuclear free EMP on a large scale energy level. On the
+      2nd Oct. they have given us proof of evidence once again in Dnipro. Dnipro is
+      a place where the Russians have their people on the ground to make sure nobody
+      on earth gets their hands on debris or any sort of clues that might reveal their
+      secrets. Just like YashMash factory was all completely in the hands of Russia.
+      Most people who worked there now have jobs in Russia. So what do you think? Did
+      Russia use a new type of weapon to turn off the lights? I have three videos for
+      you if you’re bored with nothing else to do: 1) Nima hosted me and Colonel Wilkerson;
+      2) The Judge Napolitano Roundtable with me and Ray McGovern; and 3) My Counter
+      Currents interview with Professor Marandi: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: On October 2, videos from Dnipro suggest that a blinding blue
+      flash and subsequent citywide blackout may have been caused by Russia testing
+      a new Plasma Burst EMP weapon, potentially disrupting electrical infrastructure.
+    paragraph_summary: On October 2, videos from Dnipro captured a blinding blue flash
+      of light, leading to speculation that Russia tested a new Plasma Burst EMP weapon,
+      which may have caused a blackout by disrupting the city's electrical infrastructure.
+      The videos, shared by a European friend, are claimed to be genuine dash cam recordings
+      and a fixed webcam capture. While the exact cause of the blackout remains uncertain,
+      the phenomenon is explained by the high-energy pulse tearing apart nitrogen and
+      oxygen molecules, resulting in a blue to ultraviolet light emission, similar to
+      lightning. Although there are no reliable sources confirming the existence of
+      a working Plasma Burst EMP weapon, historical Soviet research into plasma technology
+      suggests a potential capability. The incident raises concerns about Russia's efforts
+      to conceal evidence of such technologies in Dnipro, where they reportedly maintain
+      control over sensitive sites.
+    published: '2025-10-04T01:57:19+00:00'
+  - title: President Putin Signals Peace to Donald Trump at Valdai
+    url: https://sonar21.com/president-putin-signals-peace-to-donald-trump-at-valdai/
+    text: 'According to Gil Doctorow — who I consider a friend — Moscow elites are very
+      unhappy with Vladimir Putin for not acting more decisively to bring the war in
+      Ukraine to a quick conclusion. If Putin is feeling any heat from those folks,
+      he certainly did not convey that during his plenary address and the subsequent
+      Q&A session at the 22nd Valdai International Discussion Club meeting in Sochi
+      today, October 2, 2025. I paid particular attention to what President Putin had
+      to say about Donald Trump and his recent belligerent comments. President Putin
+      made several references to US President Donald Trump, reflecting on his policies,
+      rhetoric, and potential impact on US-Russia relations and global conflicts. These
+      remarks were woven into broader discussions about multipolarity, the Ukraine conflict,
+      and Western leadership. Here is a detailed summary of what Putin said about Trump,
+      based on the full speech text and Q&A coverage from sources like TASS , RT , and
+      Kremlin transcripts: Support for Trump’s Middle East Initiatives: Putin expressed
+      approval of Trump’s efforts to address the Israel-Hamas conflict in Gaza, specifically
+      referencing the Comprehensive Plan to End the Gaza Conflict announced on September
+      29, 2025. He stated, “ We support the initiatives of President Trump in the Middle
+      East, particularly his efforts to bring peace to the region .” He described the
+      Gaza war as a tragedy and framed Trump’s plan as a constructive step toward de-escalation,
+      aligning with Russia’s broader call for balanced international solutions. He could
+      have characterized Trump’s plan as a cynical charade but, as is Putin’s style,
+      he took the high road. Ukraine Conflict and Trump’s Potential Role: In the context
+      of the Ukraine war, Putin made another diplomatic gesture towards Trump when he
+      said that the conflict might have been avoided had Trump been in power earlier,
+      stating, “ If Donald Trump had been president, or if NATO had not pushed toward
+      Russia’s borders, this tragedy could have been prevented. ” He implied that Trump’s
+      approach to foreign policy, perceived as less interventionist, might have de-escalated
+      tensions with Russia compared to prior US administrations. During the Q&A, Putin
+      was asked about Trump’s recent statements calling NATO a paper tiger and questioning
+      its strength. Putin responded with humor, saying, “ If Trump calls NATO a paper
+      tiger, and Russia is one too, then who’s the bigger tiger? Let’s not play these
+      games .” He used this to dismiss Western narratives of Russian aggression against
+      NATO as nonsense , while indirectly acknowledging Trump’s skepticism of NATO’s
+      efficacy. US-Russia Relations Under Trump: Putin expressed openness to restoring
+      full bilateral ties with the US under Trump’s leadership, but emphasized that
+      any cooperation would be guided by Russia’s national interests. He said, “ We
+      are ready to work with the United States, with President Trump, but it must be
+      on equal terms, respecting our sovereignty and interests. ” This reflects his
+      broader stance that US-Russia relations deteriorated due to Western policies,
+      not Russian actions. He noted past failures in US-Russia engagement, referencing
+      Russia’s rejected bids to join NATO, but avoided directly criticizing Trump for
+      current US policies, instead framing him as a potential partner for pragmatic
+      dialogue. Charlie Kirk’s Murder and US Societal Rifts: In a condolence remark,
+      Putin briefly mentioned the assassination of Charlie Kirk, saying, “ We extend
+      our sympathies for the murder of your public figure, Charlie Kirk. Such acts reflect
+      deep divisions in American society, which we hope can be addressed. ” While not
+      directly addressing Trump, this was interpreted as a nod to domestic challenges
+      under Trump’s presidency, possibly implying a shared interest in stabilizing internal
+      unrest. Instead of excoriating Trump over recent press reports that the US would
+      provide Ukraine with intelligence for long-range missile strikes deep inside Russia,
+      Putin focused on the positive. While Putin reserved comment on the matter, retired
+      Russian Army Colonel Viktor Litovkin offered his analysis of what Russia might
+      do. Litovkin said : Like Starlink once did for the battlefield and front lines,
+      this now extends deeper into Russian territory,” according to . The coordinates
+      refer to the location of specific objects within Russian territory and the distance
+      to them. This isn’t the first time the US has threatened Russia with deep strikes:
+      In November 2024, then-President Joe Biden gave the green light for Ukraine to
+      use long-range missiles supplied by the US to attack deep inside Russia. Russia
+      has all necessary means to intercept and counter such attacks. Russia could “destroy
+      the systems intended to strike its territory—destroying aircraft on airfields,
+      rail lines, and wagon re-loading stations where cars are switched from the European
+      gauge to the Russian/Soviet gauge, and so on. It could also “destroy Ukraine’s
+      command centers, including those in Kiev: Government buildings, the Defense Ministry,
+      Main Intelligence Directorate, Main Security Directorate, etc. I did a repeat
+      performance with Danny Haiphong and Colonel Lawrence Wilkerson today, as well
+      as my regular Thursday appearance with Garland Nixon: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Moscow elites are reportedly dissatisfied with Vladimir Putin's
+      handling of the Ukraine war, yet he downplayed any internal dissent during his
+      recent address at the Valdai International Discussion Club, where he also commented
+      on Donald Trump's policies and their implications for US-Russia relations amidst
+      broader discussions on multipolarity and Western leadership.
+    paragraph_summary: In a recent address at the 22nd Valdai International Discussion
+      Club meeting, Vladimir Putin acknowledged dissatisfaction among Moscow elites
+      regarding his handling of the Ukraine war, yet he maintained a composed demeanor.
+      During his speech, he made several references to US President Donald Trump, highlighting
+      his approval of Trump's Middle East initiatives, particularly a recent plan aimed
+      at resolving the Israel-Hamas conflict. Putin framed the Gaza war as a tragedy
+      and positioned Trump's plan as a constructive step towards peace, reflecting Russia's
+      desire for balanced international solutions. Additionally, he suggested that the
+      Ukraine conflict might have been avoided had Trump been in power earlier, indicating
+      a diplomatic overture towards the former US president while discussing broader
+      geopolitical issues.
+    published: '2025-10-03T01:16:51+00:00'
+  - title: President Putin Signals Peace to Donald Trump at Valdai
+    url: https://sonar21.com/president-putin-signals-peace-to-donald-trump-at-valdai/
+    text: 'According to Gil Doctorow — who I consider a friend — Moscow elites are very
+      unhappy with Vladimir Putin for not acting more decisively to bring the war in
+      Ukraine to a quick conclusion. If Putin is feeling any heat from those folks,
+      he certainly did not convey that during his plenary address and the subsequent
+      Q&A session at the 22nd Valdai International Discussion Club meeting in Sochi
+      today, October 2, 2025. I paid particular attention to what President Putin had
+      to say about Donald Trump and his recent belligerent comments. President Putin
+      made several references to US President Donald Trump, reflecting on his policies,
+      rhetoric, and potential impact on US-Russia relations and global conflicts. These
+      remarks were woven into broader discussions about multipolarity, the Ukraine conflict,
+      and Western leadership. Here is a detailed summary of what Putin said about Trump,
+      based on the full speech text and Q&A coverage from sources like TASS , RT , and
+      Kremlin transcripts: Support for Trump’s Middle East Initiatives: Putin expressed
+      approval of Trump’s efforts to address the Israel-Hamas conflict in Gaza, specifically
+      referencing the Comprehensive Plan to End the Gaza Conflict announced on September
+      29, 2025. He stated, “ We support the initiatives of President Trump in the Middle
+      East, particularly his efforts to bring peace to the region .” He described the
+      Gaza war as a tragedy and framed Trump’s plan as a constructive step toward de-escalation,
+      aligning with Russia’s broader call for balanced international solutions. He could
+      have characterized Trump’s plan as a cynical charade but, as is Putin’s style,
+      he took the high road. Ukraine Conflict and Trump’s Potential Role: In the context
+      of the Ukraine war, Putin made another diplomatic gesture towards Trump when he
+      said that the conflict might have been avoided had Trump been in power earlier,
+      stating, “ If Donald Trump had been president, or if NATO had not pushed toward
+      Russia’s borders, this tragedy could have been prevented. ” He implied that Trump’s
+      approach to foreign policy, perceived as less interventionist, might have de-escalated
+      tensions with Russia compared to prior US administrations. During the Q&A, Putin
+      was asked about Trump’s recent statements calling NATO a paper tiger and questioning
+      its strength. Putin responded with humor, saying, “ If Trump calls NATO a paper
+      tiger, and Russia is one too, then who’s the bigger tiger? Let’s not play these
+      games .” He used this to dismiss Western narratives of Russian aggression against
+      NATO as nonsense , while indirectly acknowledging Trump’s skepticism of NATO’s
+      efficacy. US-Russia Relations Under Trump: Putin expressed openness to restoring
+      full bilateral ties with the US under Trump’s leadership, but emphasized that
+      any cooperation would be guided by Russia’s national interests. He said, “ We
+      are ready to work with the United States, with President Trump, but it must be
+      on equal terms, respecting our sovereignty and interests. ” This reflects his
+      broader stance that US-Russia relations deteriorated due to Western policies,
+      not Russian actions. He noted past failures in US-Russia engagement, referencing
+      Russia’s rejected bids to join NATO, but avoided directly criticizing Trump for
+      current US policies, instead framing him as a potential partner for pragmatic
+      dialogue. Charlie Kirk’s Murder and US Societal Rifts: In a condolence remark,
+      Putin briefly mentioned the assassination of Charlie Kirk, saying, “ We extend
+      our sympathies for the murder of your public figure, Charlie Kirk. Such acts reflect
+      deep divisions in American society, which we hope can be addressed. ” While not
+      directly addressing Trump, this was interpreted as a nod to domestic challenges
+      under Trump’s presidency, possibly implying a shared interest in stabilizing internal
+      unrest. Instead of excoriating Trump over recent press reports that the US would
+      provide Ukraine with intelligence for long-range missile strikes deep inside Russia,
+      Putin focused on the positive. While Putin reserved comment on the matter, retired
+      Russian Army Colonel Viktor Litovkin offered his analysis of what Russia might
+      do. Litovkin said : Like Starlink once did for the battlefield and front lines,
+      this now extends deeper into Russian territory,” according to . The coordinates
+      refer to the location of specific objects within Russian territory and the distance
+      to them. This isn’t the first time the US has threatened Russia with deep strikes:
+      In November 2024, then-President Joe Biden gave the green light for Ukraine to
+      use long-range missiles supplied by the US to attack deep inside Russia. Russia
+      has all necessary means to intercept and counter such attacks. Russia could “destroy
+      the systems intended to strike its territory—destroying aircraft on airfields,
+      rail lines, and wagon re-loading stations where cars are switched from the European
+      gauge to the Russian/Soviet gauge, and so on. It could also “destroy Ukraine’s
+      command centers, including those in Kiev: Government buildings, the Defense Ministry,
+      Main Intelligence Directorate, Main Security Directorate, etc. I did a repeat
+      performance with Danny Haiphong and Colonel Lawrence Wilkerson today, as well
+      as my regular Thursday appearance with Garland Nixon: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Moscow elites are reportedly dissatisfied with Vladimir Putin's
+      handling of the Ukraine war, yet he downplayed any internal dissent during his
+      recent address at the Valdai International Discussion Club, where he also commented
+      on Donald Trump's policies and their implications for US-Russia relations amidst
+      broader discussions on multipolarity and Western leadership.
+    paragraph_summary: In a recent address at the 22nd Valdai International Discussion
+      Club meeting, Vladimir Putin acknowledged dissatisfaction among Moscow elites
+      regarding his handling of the Ukraine war, yet he maintained a composed demeanor.
+      During his speech, he made several references to US President Donald Trump, highlighting
+      his approval of Trump's Middle East initiatives, particularly a recent plan aimed
+      at resolving the Israel-Hamas conflict. Putin framed the Gaza war as a tragedy
+      and positioned Trump's plan as a constructive step towards peace, reflecting Russia's
+      desire for balanced international solutions. Additionally, he suggested that the
+      Ukraine conflict might have been avoided had Trump been in power earlier, indicating
+      a diplomatic overture towards the former US president while discussing broader
+      geopolitical issues.
+    published: '2025-10-03T01:16:51+00:00'
+  - title: Donald Trump’s Dangerous Tilt Towards War at Home and Abroad
+    url: https://sonar21.com/donald-trumps-dangerous-tilt-towards-war/
+    text: 'Donald Trump’s speech yesterday at Quantico to the assembled General Officers
+      of the US militaray was a tour de farce of narcissism (not a tour de force ).
+      His attempt to emulate the late George C. Scott in his iconic role in Patton was
+      a bust because, instead of delivering a pithy, punchy message, Trump droned on
+      for more than an hour repeating many of his standard lines — e.g., this war never
+      would have started if I was President — but he did so with little enthusiasm.
+      Definitely a low-energy moment. Although the generals and admirals assembled sat
+      in stony silence throughout his rambling address, none of them had the courage
+      to stand up, walk out and resign in protest. It was a bad bobble head convention…
+      And a lot of bald heads to boot. They are more interested in securing a lucrative
+      retirement package than they are in refusing to obey an illegal order — i.e.,
+      bombing a civilian boat that was allegedly carrying drugs that had not fired on
+      US ships or personnel. In christening the Department of Defense as the new Department
+      of War, Trump is not sending a message of peaceful intentions to the other nations
+      that inhabit this world. Just the opposite. While he appears to have handed off
+      the responsibility for waging war against Russia to Europe, there are disturbing
+      indicators that he has not fully disengaged from the dream of defeating Russia.
+      For example, just a few days after vowing never to refer to Russia as a paper
+      tiger , he did it again. Some European leaders are still toying with the idea
+      of seizing Russian assets. We have this today in a short piece from Bloomberg:
+      Moscow prepares a counterstrike in case of confiscation of Russia’s frozen assets
+      . Here are the key points: Russia may nationalize and quickly sell foreign assets
+      under a new privatization mechanism in response to any European moves to seize
+      Russian assets abroad, the publication writes, Bloomberg reported a source close
+      to the government. On Tuesday, Putin signed a decree allowing accelerated sale
+      of state assets in a special procedure. If the European Union starts seizing Russian
+      assets, Moscow may respond with symmetrical measures. Hundreds of Western companies
+      operating in various sectors — from banking to consumer goods production — still
+      operate in Russia, including UniCredit SpA, Raiffeisen Bank International AG,
+      PepsiCo Inc, and Mondelez International Inc., the agency reminds. So far, Russia
+      has refrained from nationalizing the assets of international corporations. Instead,
+      it has taken some companies under temporary management. Meanwhile, France appears
+      to have grabbed the war-flag and is leading the charge in stirring up an expanded
+      confrontation with Russia. The French Navy detained the tanker Boracay off the
+      country’s coast on Tuesday, allegedly from the so-called Russian “shadow fleet.”
+      The vessel is under sanctions by the UK and the EU. Earlier this year, it was
+      already detained in Estonia for sailing without a valid flag. According to MarineTraffic
+      , the Boracay departed on September 20 from the Russian port of Primorsk carrying
+      oil, passed through the Baltic Sea, went around Denmark from the north, entered
+      the North Sea, and proceeded through the English Channel. The tanker is currently
+      anchored near Saint-Nazaire in France. In tandem with this, the French Army Chief
+      of Staff announced that French troops must be ready for the start of intense warfare
+      as early as tonight. This may be in response to a report from Borzzikman today
+      that the Russians struck a maritime target in Odessa and killed 20 French engineers.
+      If the following report from Reuters is true, it means that Trump is authorizing
+      an attack on Russia that is likely to elicit a significant response from Moscow
+      that could escalate the situation into a full war: The United States will provide
+      Ukraine with intelligence for long-range missile strikes on Russia’s energy infrastructure,
+      the Wall Street Journal reported on Wednesday, as it weighs whether to send Kyiv
+      weapons that could put more targets within range. The United States has long been
+      sharing intelligence with Kyiv but Wednesday’s report said the new development
+      will make it easier for Ukraine to hit refineries, pipelines, power stations and
+      other infrastructure with the aim of depriving the Kremlin of revenue and oil.
+      . . According to U.S. officials cited by the Wall Street Journal, approval on
+      additional intelligence came shortly before Trump posted on social media last
+      week suggesting that Ukraine could retake all its land occupied by Russia, in
+      a striking rhetorical shift in Kyiv’s favor. Danny Davis and I spent some quality
+      time together discussing the absurdity and dangers of Trump deploying US military
+      forces into US cities… I specifically explain the profound difference, based on
+      personal experience, between a military mindset and a law enforcement mindset:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Donald Trump's speech at Quantico was a lengthy and uninspired
+      display of narcissism, lacking the impactful delivery he aimed for, while the
+      attending military leaders remained silent and seemingly more concerned with their
+      retirement than standing up against questionable orders.
+    paragraph_summary: Donald Trump's recent speech at Quantico to US military generals
+      was characterized as a display of narcissism rather than a compelling address,
+      as he spoke for over an hour with little enthusiasm, repeating familiar lines
+      without delivering a strong message. The assembled military leaders remained silent
+      and did not protest his remarks, which included controversial proposals such as
+      renaming the Department of Defense to the Department of War, signaling aggressive
+      intentions rather than peaceful diplomacy. Despite suggesting a shift in responsibility
+      for confronting Russia to Europe, Trump’s rhetoric indicated he has not completely
+      abandoned ambitions against Russia, even as European leaders consider seizing
+      Russian assets, prompting Moscow to prepare countermeasures, including potential
+      nationalization of foreign assets.
+    published: '2025-10-02T03:20:08+00:00'
+  - title: Donald Trump’s Dangerous Tilt Towards War at Home and Abroad
+    url: https://sonar21.com/donald-trumps-dangerous-tilt-towards-war/
+    text: 'Donald Trump’s speech yesterday at Quantico to the assembled General Officers
+      of the US militaray was a tour de farce of narcissism (not a tour de force ).
+      His attempt to emulate the late George C. Scott in his iconic role in Patton was
+      a bust because, instead of delivering a pithy, punchy message, Trump droned on
+      for more than an hour repeating many of his standard lines — e.g., this war never
+      would have started if I was President — but he did so with little enthusiasm.
+      Definitely a low-energy moment. Although the generals and admirals assembled sat
+      in stony silence throughout his rambling address, none of them had the courage
+      to stand up, walk out and resign in protest. It was a bad bobble head convention…
+      And a lot of bald heads to boot. They are more interested in securing a lucrative
+      retirement package than they are in refusing to obey an illegal order — i.e.,
+      bombing a civilian boat that was allegedly carrying drugs that had not fired on
+      US ships or personnel. In christening the Department of Defense as the new Department
+      of War, Trump is not sending a message of peaceful intentions to the other nations
+      that inhabit this world. Just the opposite. While he appears to have handed off
+      the responsibility for waging war against Russia to Europe, there are disturbing
+      indicators that he has not fully disengaged from the dream of defeating Russia.
+      For example, just a few days after vowing never to refer to Russia as a paper
+      tiger , he did it again. Some European leaders are still toying with the idea
+      of seizing Russian assets. We have this today in a short piece from Bloomberg:
+      Moscow prepares a counterstrike in case of confiscation of Russia’s frozen assets
+      . Here are the key points: Russia may nationalize and quickly sell foreign assets
+      under a new privatization mechanism in response to any European moves to seize
+      Russian assets abroad, the publication writes, Bloomberg reported a source close
+      to the government. On Tuesday, Putin signed a decree allowing accelerated sale
+      of state assets in a special procedure. If the European Union starts seizing Russian
+      assets, Moscow may respond with symmetrical measures. Hundreds of Western companies
+      operating in various sectors — from banking to consumer goods production — still
+      operate in Russia, including UniCredit SpA, Raiffeisen Bank International AG,
+      PepsiCo Inc, and Mondelez International Inc., the agency reminds. So far, Russia
+      has refrained from nationalizing the assets of international corporations. Instead,
+      it has taken some companies under temporary management. Meanwhile, France appears
+      to have grabbed the war-flag and is leading the charge in stirring up an expanded
+      confrontation with Russia. The French Navy detained the tanker Boracay off the
+      country’s coast on Tuesday, allegedly from the so-called Russian “shadow fleet.”
+      The vessel is under sanctions by the UK and the EU. Earlier this year, it was
+      already detained in Estonia for sailing without a valid flag. According to MarineTraffic
+      , the Boracay departed on September 20 from the Russian port of Primorsk carrying
+      oil, passed through the Baltic Sea, went around Denmark from the north, entered
+      the North Sea, and proceeded through the English Channel. The tanker is currently
+      anchored near Saint-Nazaire in France. In tandem with this, the French Army Chief
+      of Staff announced that French troops must be ready for the start of intense warfare
+      as early as tonight. This may be in response to a report from Borzzikman today
+      that the Russians struck a maritime target in Odessa and killed 20 French engineers.
+      If the following report from Reuters is true, it means that Trump is authorizing
+      an attack on Russia that is likely to elicit a significant response from Moscow
+      that could escalate the situation into a full war: The United States will provide
+      Ukraine with intelligence for long-range missile strikes on Russia’s energy infrastructure,
+      the Wall Street Journal reported on Wednesday, as it weighs whether to send Kyiv
+      weapons that could put more targets within range. The United States has long been
+      sharing intelligence with Kyiv but Wednesday’s report said the new development
+      will make it easier for Ukraine to hit refineries, pipelines, power stations and
+      other infrastructure with the aim of depriving the Kremlin of revenue and oil.
+      . . According to U.S. officials cited by the Wall Street Journal, approval on
+      additional intelligence came shortly before Trump posted on social media last
+      week suggesting that Ukraine could retake all its land occupied by Russia, in
+      a striking rhetorical shift in Kyiv’s favor. Danny Davis and I spent some quality
+      time together discussing the absurdity and dangers of Trump deploying US military
+      forces into US cities… I specifically explain the profound difference, based on
+      personal experience, between a military mindset and a law enforcement mindset:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Donald Trump's speech at Quantico was a lengthy and uninspired
+      display of narcissism, lacking the impactful delivery he aimed for, while the
+      attending military leaders remained silent and seemingly more concerned with their
+      retirement than standing up against questionable orders.
+    paragraph_summary: Donald Trump's recent speech at Quantico to US military generals
+      was characterized as a display of narcissism rather than a compelling address,
+      as he spoke for over an hour with little enthusiasm, repeating familiar lines
+      without delivering a strong message. The assembled military leaders remained silent
+      and did not protest his remarks, which included controversial proposals such as
+      renaming the Department of Defense to the Department of War, signaling aggressive
+      intentions rather than peaceful diplomacy. Despite suggesting a shift in responsibility
+      for confronting Russia to Europe, Trump’s rhetoric indicated he has not completely
+      abandoned ambitions against Russia, even as European leaders consider seizing
+      Russian assets, prompting Moscow to prepare countermeasures, including potential
+      nationalization of foreign assets.
+    published: '2025-10-02T03:20:08+00:00'
   - title: Was Trump’s Meeting with the US Military Brass Today a Cover for Action?
       And a Charlie Kirk Update
     url: https://sonar21.com/was-trumps-meeting-with-the-us-military-brass-today-a-cover-for-action-and-a-charlie-kirk-update/

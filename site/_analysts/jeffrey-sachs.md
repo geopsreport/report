@@ -8,18 +8,244 @@ websites:
   - https://www.commondreams.org/author/jeffrey-d-sachs
   - https://www.jeffsachs.org/newspaper-articles
 summary: |
-  The geopolitical landscape remains dominated by the ongoing crisis in Gaza, the broader Middle East conflict, and the shifting dynamics of global alliances. Over the past months, Israel’s military campaign in Gaza has escalated into what the UN and major humanitarian organizations now officially recognize as mass starvation, with over half a million Palestinians facing catastrophic hunger and at least 132,000 children under five at acute risk, according to **Jeffrey Sachs**. The Israeli government, backed diplomatically and militarily by the United States, continues to enforce a siege that has drawn near-universal condemnation, isolating both countries on the world stage.
+  The geopolitical landscape remains dominated by the ongoing crisis in Palestine and Israel, with significant new developments regarding peace proposals and the international response to the conflict. The situation is further complicated by the broader context of US, European, and regional policies, as well as the aftermath of recent escalations across the Middle East.
   
-  Recent statements by Israeli ministers have made explicit the intent to use starvation as a weapon, reinforcing the international community’s assessment of the situation as genocidal. Despite overwhelming global support for Palestinian self-determination—172 countries voted in favor at the UN last December—the US remains the primary obstacle, wielding its Security Council veto to block both humanitarian interventions and Palestine’s admission as a full UN member.
+  In the latest development, **Jeffrey Sachs** has published a comprehensive revision of President Trump’s 20-point peace plan for Palestine and Israel. While Trump’s original proposal included a “colonial framework”—with external trusteeship over Gaza and indefinite postponement of Palestinian statehood—the revised plan eliminates these elements, placing Palestinian sovereignty and agency at the center. Sachs emphasizes that “governance rests with the Palestinians from day one,” with a fixed timeline for Israeli withdrawal by December 31, 2025, and full Palestinian sovereignty by January 1, 2026. The plan aligns with the 2024 International Court of Justice ruling and the recent UN General Assembly resolution, both of which demand an end to occupation and recognition of Palestinian statehood.
   
-  In response, **Sachs** highlights a growing movement among states to bypass US obstruction. Turkiye has already severed all economic and transport ties with Israel, and there is mounting pressure for other countries to follow suit. Additionally, calls are intensifying for the UN General Assembly to suspend Israel’s membership and to authorize a protection force for Gaza under the “Uniting for Peace” mechanism—steps that do not require US approval. The momentum for these measures is building ahead of the upcoming UN summit on Palestine.
+  This new proposal is notable for its explicit rejection of “outside viceroys” and for ensuring that economic reconstruction and governance are led by Palestinians, supported by Arab-region experts. Sachs stresses that “only practical steps that implement Palestinian sovereignty and statehood will bring lasting peace,” reflecting the overwhelming will of the international community—157 countries now recognize Palestine, and global public opinion is shifting decisively in favor of a two-state solution.
   
-  On the diplomatic front, the US under President Trump is facing unprecedented pressure to shift its policy. While Trump has made overtures toward peace in Ukraine and reengaged in nuclear talks with Iran, his administration continues to shield Israel from accountability in Gaza. However, domestic opinion in the US is shifting rapidly: a majority of Americans now support Palestinian statehood and oppose Israel’s actions, signaling potential cracks in the traditional bipartisan consensus.
+  Meanwhile, the humanitarian crisis in Gaza continues to worsen. Sachs details how Israel, with US backing, is “committing genocide in Gaza through the mass starvation of the population,” a fact confirmed by multiple international organizations. He points to growing global outrage and calls for action, including Turkey’s severing of economic ties with Israel and mounting pressure for UN General Assembly intervention. Sachs argues that the world “can act, even in the face of US intransigence,” and outlines steps such as recognizing Palestine, suspending Israel from the UNGA, and deploying a UN protection force under the “Uniting for Peace” mechanism.
   
-  In Europe, the Ukraine war and the continent’s alignment with US foreign policy have led to economic stagnation and growing strategic vulnerability. **Sachs** argues that Europe’s subservience to Washington, driven by exaggerated fears of Russian aggression, has undermined its own interests. He calls for a fundamental reorientation: direct diplomacy with Russia, a negotiated settlement in Ukraine that acknowledges Russian security concerns, and a decoupling of European foreign policy from NATO and US priorities. There is a high chance, he notes, that continued US-led militarization will only deepen Europe’s economic malaise and global isolation.
+  In the broader regional context, the collapse of Syria’s government—following years of US-Israeli covert operations and sanctions—has further destabilized the Middle East. Sachs traces this outcome to the decades-old “Clean Break” strategy, which prioritized regime change over negotiated settlements and has left a swath of destruction from Libya to Iran. The recent Israeli attacks on Syria and the annexation of the Golan Heights are seen as part of this expansionist agenda, which continues to provoke instability and humanitarian disaster.
   
-  Looking ahead, the majority of analysts agree that the international consensus is coalescing around a two-state solution as the only viable path to peace in the Middle East. The likelihood of a UN General Assembly move to recognize Palestine and suspend Israel is now quite high, especially if the US persists in blocking Security Council action. **Sachs** concludes that the US and Israel are “essentially isolated in their opposition,” and that the world is being tested as never before to uphold international law and humanitarian principles. If current trends continue, I guarantee that the pressure for a decisive break with US-Israeli policy will only intensify, with significant geopolitical and economic consequences for both countries.
+  **Trends and Predictions:**  
+  - There is high confidence that the international consensus for a two-state solution will continue to grow, with more countries recognizing Palestine and increasing diplomatic isolation for Israel and the US if they persist in blocking Palestinian statehood.
+  - The revised peace plan, if adopted, would most definitely end the war and establish Palestinian sovereignty by early 2026, as it is consistent with international law and the will of the majority of UN member states.
+  - The humanitarian situation in Gaza will remain dire unless there is immediate international intervention. There is a high chance that further steps—such as economic sanctions and UNGA action—will be taken against Israel if the siege continues.
+  - The regional trend is toward comprehensive peace negotiations, with the US under pressure to abandon its traditional role as Israel’s unconditional backer and to support a settlement based on international law.
+  
+  In summary, the momentum is shifting toward a decolonized, internationally-backed peace framework for Palestine and Israel, with growing calls for accountability and humanitarian relief. The next months will be decisive in determining whether the US and Israel adapt to these realities or face deeper isolation and instability.
 articles:
+  - title: A 20-Point Peace Plan Without US-UK Colonialism
+    url: https://www.commondreams.org/opinion/20-point-peace-plan-for-gaza
+    text: 'President Trump’s 20-point plan offers some constructive proposals on hostages,
+      humanitarian aid, and reconstruction. Yet it is marred by an unmistakable colonial
+      framework: Gaza is to be overseen by Trump himself, with Tony Blair and other
+      outsiders cast as trustees for Palestinian governance—while Palestinian statehood
+      is deferred indefinitely.
+
+
+      This logic is not new. It reprises the century-long Anglo-American approach to
+      Palestine since the Treaty of Versailles in 1919, when Britain acquired the Mandate
+      over Palestine, and through successive U.S. interventions, direct and indirect,
+      in the region since 1945.
+
+
+      A real peace plan must eliminate the colonial scaffolding. It should restore Palestinian
+      sovereignty by addressing the central issue: Palestinian statehood. The plan must
+      empower Palestinian agency by establishing that the Palestinian Authority holds
+      governance from the outset, that economic planning is exclusively in the hands
+      of Palestinians, that no external “viceroys” intervene, and that a clear and short
+      timeline is set for Israeli withdrawal and for full Palestinian sovereignty by
+      the start of 2026.
+
+
+
+
+      This is a true decolonized plan: close in substance to Trump’s, but freed from
+      the 100-year trickery of mandates, trusteeship, and other outside impositions.
+      It is also consistent with international law: in line with the 2024 ruling of
+      the International Court of Justice, the recent resolution of the United Nations
+      General Assembly, and the recognition of Palestine by 157 countries around the
+      world.
+
+
+      The Revised 20-Point Plan: the Trump Plan with No Colonial Strings Attached
+
+
+      We revise the Trump plan, preserving its core elements related to the release
+      of hostages, end of fighting, withdrawal of the Israeli army, emergency humanitarian
+      relief, and the reconstruction of war-torn Palestine, while eliminating the colonial
+      language and baggage. Readers may make a point-by-point comparison with the original
+      Trump Plan found here.
+
+
+      1. Palestine and Israel will be terror-free countries that do not pose a threat
+      to their neighbors.
+
+
+      2. Palestine will be redeveloped for the benefit of the Palestinians, who have
+      suffered more than enough.
+
+
+      3. If both sides agree to this proposal, the war will immediately end. Israeli
+      forces will withdraw to the agreed line to prepare for a hostage release. All
+      military operations will end.
+
+
+      4. Within 72 hours of both sides publicly accepting this agreement, all hostages,
+      alive and deceased, will be returned.
+
+
+      5. Once all hostages are released, Israel will release life sentence prisoners
+      plus Palestinians who were detained after 7 October 2023.
+
+
+      6. Once all hostages are returned, Hamas members who commit to peaceful co-existence
+      and to decommission their weapons will be given amnesty. Members of Hamas who
+      wish to leave Gaza will be provided safe passage to receiving countries.
+
+
+      7. Upon acceptance of this agreement, full aid will be immediately sent into the
+      Gaza Strip. At a minimum, aid quantities will be consistent with what was included
+      in the 19 January 2025 agreement regarding humanitarian aid, including rehabilitation
+      of infrastructure (water, electricity, sewage), rehabilitation of hospitals and
+      bakeries, and entry of necessary equipment to remove rubble and open roads.
+
+
+      8. Entry of distribution and aid in the Gaza Strip will proceed without interference
+      from the two parties through the United Nations and its agencies, and the Red
+      Crescent, in addition to other international institutions not associated in any
+      manner with either party. Opening the Rafah crossing in both directions will be
+      subject to the same mechanism implemented under 19 January 2025 agreement.
+
+
+      9. Palestine, and Gaza as an integral part of it, will be governed by the Palestinian
+      Authority. International advisors may support this effort, but sovereignty lies
+      with the Palestinians.
+
+
+      10. The Palestinian Authority, supported by a panel of Arab-region experts and
+      outside experts as may be chosen by the Palestinians, will develop a reconstruction
+      and development plan. Outside proposals may be considered, but economic planning
+      will be Arab-led.
+
+
+      11. A special economic zone may be established by the Palestinians, with tariffs
+      and access rates negotiated by Palestine and partner countries.
+
+
+      12. No one will be forced to leave any sovereign Palestinian territory. Those
+      who wish to leave may do so freely and return freely.
+
+
+      13. Hamas and other factions will have no role in governance. All military and
+      terror infrastructure will be dismantled and decommissioned, verified by independent
+      monitors.
+
+
+      14. Regional partners will guarantee that Hamas and other factions comply, ensuring
+      that Gaza poses no threat to its neighbours or its own people.
+
+
+      15. Arab and international partners, as per the invitation of Palestine, will
+      deploy a temporary International Stabilisation Force (ISF) beginning November
+      1, 2025, to support and train Palestinian security, in consultation with Egypt
+      and Jordan. The ISF will secure borders, protect the population, and facilitate
+      the rapid movement of goods to rebuild Palestine.
+
+
+      16. Israel will neither occupy nor annex Gaza or the West Bank. Israeli forces
+      will fully withdraw from all occupied Palestinian territories by December 31,
+      2025, as the ISF and Palestinian security establish control.
+
+
+      17. If Hamas delays or rejects the proposal, aid and reconstruction will proceed
+      in areas under ISF and PA authority.
+
+
+      18. An interfaith dialogue process will be established to promote tolerance and
+      peaceful coexistence between Palestinians and Israelis.
+
+
+      19. The State of Palestine will govern its full sovereign territories as of January
+      1, 2026, in line with the September 12 resolution of the UN General Assembly and
+      the 2024 Advisory Opinion of the International Court of Justice.
+
+
+      20. The United States will immediately recognize a sovereign State of Palestine,
+      with permanent United Nations membership, as a peaceful nation living side by
+      with the State of Israel.
+
+
+      Here are the main differences from the Trump Plan.
+
+
+      Palestinian Sovereignty and Statehood: Trump’s version deferred Palestinian statehood
+      to some indefinite future, contingent on reforms and external approval. The decolonized
+      plan sets firm dates: Israel withdraws by November 1, 2025, and Palestine assumes
+      full sovereignty by January 1, 2026. 126 years since the Versailles Treaty is
+      enough.
+
+
+      Colonial Oversight Removed: Trump’s proposal created a “Board of Peace” chaired
+      by Trump himself, with Tony Blair as a leading member. The decolonized plan eliminates
+      this, recognizing that Palestinians require no foreign viceroys. Governance rests
+      with the Palestinians from day one.
+
+
+      Economic Sovereignty: Trump’s plan announced a “Trump Economic Development Plan”
+      to remake Gaza. The decolonized plan leaves economic planning to the Palestinians
+      supported by Arab experts, with outside proposals considered only at Palestinian
+      discretion.
+
+
+      End of Anglo-American Trusteeship: Trump cast the U.S. as the guarantor and arbiter
+      of Palestinian future, with support of the U.K. The decolonized plan explicitly
+      ends this 100-year model, affirming Palestinian and Arab leadership.
+
+
+      The revised 20-point plan, in short, is not radically different in form from Trump’s.
+      It retains provisions for demilitarization, humanitarian relief, economic reconstruction,
+      and interfaith dialogue. The main difference lies with Palestinian sovereignty
+      and statehood.
+
+
+
+
+      For more than a century, Palestinians have been subjected to external colonial
+      control: British Mandate rule, U.S. diplomatic dominance, Israeli occupation,
+      and periodic schemes of trusteeship as in Trump’s new plan. From the Balfour Declaration
+      to Versailles to Oslo to Trump’s “Board of Peace,” Palestinians have not been
+      treated as sovereign actors. This plan corrects that and recognizes that the Palestinian
+      people are a nation of enormous talents, and highly educated and experienced experts.
+      They don’t need tutelage. They need sovereignty.
+
+
+
+
+      Our revised plan affirms that Palestinians, through their own authority, must
+      finally and at long last govern themselves, make their own economic choices, and
+      chart their own destiny. International actors may advise and support them, but
+      they must not impose their will. The withdrawal of Israel and the recognition
+      of Palestine’s sovereignty must be fixed and non-negotiable milestones.
+
+
+      A real peace plan must be aligned with international law including the clear-cut
+      rulings of the International Court of Justice and the United Nations resolutions.
+      A real peace plan must be aligned with the overwhelming will of the global community
+      that supports the implementation of the two-state solution. All parties to the
+      peace plan should subscribe to this framework. This is the moment for honesty,
+      global resolve, and moral clarity. Only practical steps that implement Palestinian
+      sovereignty and statehood will bring lasting peace.'
+    one_sentence_summary: The article critiques President Trump's 20-point plan for
+      Palestine, arguing that it perpetuates a colonial framework by deferring Palestinian
+      statehood and placing governance under external oversight, while proposing a revised
+      plan that emphasizes Palestinian sovereignty, agency, and adherence to international
+      law for a genuine peace solution.
+    paragraph_summary: The article critiques President Trump's 20-point plan for the
+      Israeli-Palestinian conflict, arguing that it perpetuates a colonial framework
+      by placing governance of Gaza under Trump's oversight and deferring Palestinian
+      statehood indefinitely. It suggests that a genuine peace plan must prioritize
+      Palestinian sovereignty, allowing the Palestinian Authority to govern without
+      external interference, and set a clear timeline for Israeli withdrawal and full
+      Palestinian statehood by January 1, 2026. The revised plan retains key elements
+      from Trump's proposal, such as humanitarian aid and reconstruction efforts, but
+      emphasizes the need for Palestinian agency in governance and economic planning,
+      free from foreign oversight. It calls for international support that respects
+      Palestinian self-determination and aligns with international law, ultimately advocating
+      for a two-state solution that recognizes Palestine as a sovereign nation.
+    published: '2025-10-06T14:26:47+00:00'
   - title: How to stop Israel from starving Gaza
     url: https://www.aljazeera.com/amp/opinions/2025/9/4/how-to-stop-israel-from-starving-gaza
     text: 'Washington shields Israel as it commits the darkest of crimes, but the family

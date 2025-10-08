@@ -7,14 +7,265 @@ description: "Ex-MI6 diplomat and founder of Conflicts Forum (Beirut); publishes
 websites:
   - https://www.eurasiareview.com/author/alastair-crooke/
 summary: |
-  The geopolitical landscape remains in flux as the aftershocks of Israel’s recent military assertiveness and the Trump administration’s foreign policy recalibrations continue to reverberate across the Middle East and beyond. In the wake of Israel’s strike on a Hamas negotiating team in Doha, **Alastair Crooke** notes a decisive end to Qatar’s mediating role, with the U.S. now prioritizing “escalatory dominance” and profit-driven militarism over diplomatic engagement. This shift, Crooke argues, signals not only a new phase in U.S.-Israeli relations but also a broader unraveling of established regional power dynamics.
+  As the global order continues to shift, the past 12 hours have seen further consolidation of trends already in motion, with new details emerging on the interplay between U.S. domestic politics, Israeli regional ambitions, and the recalibration of global power centers.
   
-  Domestically, the “Israel First” approach is generating growing unease among American conservatives, who are increasingly questioning the wisdom of unconditional support for Israeli policies. As Crooke observes, this discontent could erode Israel’s standing in Washington and globally, especially as its strategy pivots toward what he describes as “violent Zionism”—a model that seeks to impose control through force rather than negotiation. The implications for regional stability are profound, with the risk of escalating conflict and diminishing prospects for sustainable peace.
+  The most recent analyses, notably from **Alastair Crooke**, highlight the deepening rift within the American political establishment regarding support for Israel. Crooke notes a "growing discontent among American conservatives regarding unconditional support for Israel," reflecting a broader erosion of Israel’s standing in U.S. politics and internationally. This shift is not merely rhetorical; it is beginning to manifest in policy debates, particularly as the Trump administration signals a strategic withdrawal from direct involvement in Ukraine, placing the financial and military burden more squarely on European allies.
   
-  Meanwhile, the global balance of power continues to shift. The recent SCO Summit underscored the emergence of a multipolar order, with China and Russia asserting themselves as counterweights to Western hegemony. The U.S., beset by internal divisions and strategic missteps, faces mounting challenges in maintaining its influence. Crooke highlights the West’s struggle to adapt to these changes, suggesting that the established economic and political paradigms are increasingly untenable.
+  Simultaneously, Crooke underscores the implications of Israel’s increasingly aggressive posture in the region, describing it as a move towards "violent Zionism" that disregards international norms. The recent Israeli strike on a Hamas negotiating team in Doha, for instance, is seen as a deliberate sidelining of diplomatic channels, particularly Qatar’s mediation role, and a preference for escalatory dominance. This approach, Crooke argues, risks further destabilization and could undermine Israel’s long-term security by alienating both regional actors and traditional Western supporters.
   
-  Looking ahead, the trends point toward further polarization and instability. The U.S. is likely to double down on militarized strategies in the Middle East, while its ability to shape outcomes in Eurasia wanes. The rise of alternative power centers—anchored by China and Russia—will most definitely accelerate the erosion of Western dominance. As Crooke concludes, the genie of “Israeli First” dominance is out of the bottle, and the world is entering a period of profound and unpredictable transformation.
+  On the broader geopolitical stage, the aftermath of the Shanghai Cooperation Organization (SCO) summit continues to reverberate. The assertiveness of China and Russia, as observed by Crooke, signals a "significant shift in global power dynamics," with the West’s internal divisions and declining hegemony becoming increasingly apparent. The U.S. response remains uncertain, but the prevailing view is that Washington’s ability to dictate terms is waning, especially as alternative economic and security architectures gain traction.
+  
+  Looking ahead, the trends point to a continued fracturing of the post-Cold War order. There is high confidence that the U.S. will further reduce its direct commitments in peripheral conflicts, focusing instead on domestic consolidation and selective engagement. Meanwhile, Israel’s reliance on military solutions is likely to provoke more resistance, both regionally and within its traditional Western alliances. The rise of multipolarity, driven by the SCO and other non-Western groupings, is most definitely set to accelerate, challenging the dominance of U.S.-led institutions and the dollar-based financial system.
+  
+  In summary, the current trajectory suggests a world in which old alliances are strained, new power centers are asserting themselves, and the risks of miscalculation—particularly in the Middle East—remain acute.
 articles:
+  - title: American Juncture As Israel’s Eighth Front Ignites – OpEd
+    url: https://www.eurasiareview.com/02102025-american-juncture-as-israels-eighth-front-ignites-oped/
+    text: 'By Alastair Crooke
+
+
+      The second stage to Trump’s ‘hand-off’ of the Ukraine war to the Europeans was
+      clearly set out in his Truth Social post of 23 September. In the first phase of
+      the hand-over, Trump withdrew from being the primary supplier of armaments to
+      Kiev, and indicated that from now on Europe would have to pay for virtually everything
+      – with weapons purchased from U.S. manufacturers.
+
+
+      Of course, Trump knows that Europe is fiscally ‘bust’. It hasn’t the money to
+      fund itself, let alone a major war. He then ‘rubbed salt’ into this fiscal crisis
+      wound by challenging NATO states to be first in line to sanction all Russian fuels.
+      That won’t happen, of course either. It would be madness.
+
+
+      In this latest Truth Social post, Trump takes the Keith Kellogg line to its reductio
+      ad absurdum. “Ukraine, with the support of the EU, can take back the country [Ukraine]
+      to its original form – making Russia look like a ‘paper tiger’… and who knows,
+      maybe go even further that that!”
+
+
+      Sure – Kiev advancing to the doorstep of Moscow? Pull the other leg, Mr Trump.
+      Of course he is trolling Kellogg and the Europeans.
+
+
+      Then, following Trump’s meeting with Zelensky, France, Germany and the UK at the
+      UN, a draft UNSC resolution was proposed echoing the European and Coalition of
+      the Willing’s undiluted demand for Russian capitulation. Trump allowed U.S. officials
+      to participate actively in the Resolution discussion – but then, at the last moment,
+      had the U.S. veto it.
+
+
+      In this convoluted way, Trump thus succeeds – like Janus – to face two directions
+      at once: Facing one way, he is 100% behind Ukraine, extolling Ukraine’s ‘Great
+      Spirit’ and adopting the Kellogg line that Putin is in big trouble. But ‘facing
+      the other way’, Trump contrarily commits to “not restricting the possibility of
+      peace talks, nor having tensions escalate further”.
+
+
+      Putin can live with Trump’s ‘Janus schizophrenia’ – as Russian forces advance
+      on all key battle fronts. The bottom line is that the White House has signalled
+      that it is not interested in war with Russia. That’s obvious. There is anyway
+      a more concerning war brewing inside the U.S.
+
+
+      This war is Israel’s Eighth Front – Netanyahu recently has taken to proclaiming
+      it thus. The Eighth Front is in America. And it is there precisely because America
+      dominates the world media.
+
+
+      The so-called ‘Rules-Based Order’ blueprint (if it ever truly existed beyond narrative)
+      has been ripped up by Israel – very deliberately and cold bloodedly.
+
+
+      Tom Barrack, Trump’s long-standing friend and Envoy to the Middle East – when
+      askedwhat the U.S. endgame was for the Region – dismissed outright talk of ‘peace’:
+      “When we say peace, it’s an illusion”, Barrack said. “There’s never been peace.
+      [Some] people may say, well, they’re fighting over borders and boundaries. [But
+      that’s] not what they’re fighting over. A border or a boundary is [merely] the
+      currency of a negotiation”. He continued: “The end result is somebody wants dominance,
+      which means somebody has to submit. In that part of the world … there’s no Arabic
+      word for submit. They can’t wrap their head around submit …”.
+
+
+      War without limits; without rules; without law – and without ethical boundaries
+      more particularly – becomes the prerequisite to achieving the utter subjugation
+      of all opposition.
+
+
+      Netanyahu’s former National Security Adviser, Meir Ben-Shabbat, writing (with
+      Asher Fredman) in Foreign Affairs in September, affirmed that: “Israel no longer
+      adheres to red lines that its neighbours believed that it would never cross. Israel
+      will not grant immunity to any leaders of hostile groups, no matter their political
+      title or location”. When Ben Shabbat writes ‘hostile’, it is a pleasantry for
+      meaning ‘non-compliant’.
+
+
+      This new doctrine is about Israeli ‘dominance’ – and for that, others logically
+      must ‘submit’, Barrack insists. Israel’s Strategic Affairs Minister, Ron Dermer,
+      has suggested that a ‘submission’ sufficient to make Israel ‘feel fully safe’
+      would only emerge through the Muslim-Arab consciousness being seared by an utter
+      ‘de-radicalising’ defeat.
+
+
+      Netanyahu’s ‘Eighth Front’ notion therefore derives from the proposition that
+      full Jewish dominance (such as U.S. Envoy Barrack outlines) requires a certain
+      dominance in America too. Israel cannot accomplish this dominance alone – it needs
+      the unquestioning support from America that keeps the flow of money, armaments
+      and operational support flowing.
+
+
+      Until recently, this unreserved support was attained through ultra-rich Jewish
+      billionaires ‘buying’ American politicians and influencers – and purchasing the
+      mainstream media outright. However, the rise of alternative media as the main
+      source of news for Americans has changed the calculus and sent ripples of fear
+      through the Jewish billionaire community.
+
+
+      The Charlie Kirk assassination came in the wake of multiple pressures on Kirk
+      arising from Jewish billionaires concerned that the key American youth constituency
+      was turning against Israel, as Max Blumenthal has outlined. The conflict with
+      Kirk’s big Jewish donors exposed the wider issue of their dominance across U.S.
+      influencer politics. The ensuing controversy has led to an all-out effort by pro-Israel
+      billionaires to seize control of alternative U.S. media, particularly Tik Tok.
+      (All U.S. social platforms have an algorithmic leaning toward Israel, whereas
+      Tik Tok doesn’t. The pro-Israeli billionaires who are set to buy Tik Tok insist
+      that its algorithm must be ‘retrained’).
+
+
+      “[What Zionists] face”, Blumenthal asserts, “is a political tsunami [of political
+      realignment] in the United States, and they have no way of holding it back. And
+      that’s why, in the wake of Kirk’s death, and in the days before his death, some
+      of these Zionist Money Men have started a full-on takeover campaign of the U.S.
+      Media. It’s like a full court press in the United States. Netanyahu had been waging
+      a Seven Front War in the region, and now the United States has become the 8th
+      Front. And they want to prevent anyone from being able to express themselves anywhere
+      in the digital online ecosystem by just buying it all”.
+
+
+      Few among those billionaire donors who supported Kirk’s organisation, TPU.S.A,
+      have done more than Robert Shillman to make clear the underlying nature to the
+      8th Front war: “With this pen, and my cheque book, I provide the ammunition!”,
+      the billionaire proclaimed to applause, during a gala of the right-wing Zionist
+      Organization of America (ZoA) in 2021.
+
+
+      “I wield the pen to provide ‘ammunition’ [donations] to those organisations like
+      ZoA on the front lines of this battle confronting enemies of Israel and the Jewish
+      people – defending against Islamists who wish to destroy Israel and radical Leftist
+      Jew-haters who wish to destroy the Jewish people”.
+
+
+      How does this affair read across into pressure on Trump to persist in prosecuting
+      the Ukraine war effort against Russia? What is it that links hugely rich Jewish
+      donors, classic U.S. Russophobes and the European Establishment together in the
+      common cause of pressuring Trump to go hard on Russia? The answer is that donors
+      and U.S. and European pro-Israeli élites all have a shared interest in having
+      Russia preoccupied (and, in their view, weakened) by the conflict in Ukraine.
+      Their particular concern is the prospect of Middle East war. They do not want
+      to see Russia or China engage directly in support of Iran, were it to be attacked
+      militarily. These élites fear for the future of Israel, particularly should Iran
+      be empowered by BRICS allies. They prefer a Russia bogged down and not returning
+      as a Middle East player again – something that could crimp the ambition for Jewish/Israeli
+      supremacy across the Region.
+
+
+      Recall that in 1992, the then-Under Secretary of Defence Paul Wolfowitz, author
+      of the so-called Wolfowitz Doctrine, declared that, with the Soviets pushed out
+      from the Middle East, the U.S. had become the unchallenged sole superpower in
+      the region and could pursue its global agenda. Wolfowitz highlighted the exit
+      of Russia as the crucial factor in achieving U.S. hegemony over the Middle East.
+
+
+      Recall too that in the wake of the E3 sanctions ‘Snapback’ invocation on Iran
+      on 28 August, Russia and China jointly signed statements denouncing the E3 procedural
+      vote as “illegal and procedurally flawed”. In one sense, it provides the grounds
+      for China and Russia to ignore any subsequent sanctions imposed on Iran under
+      the snapback provision. It is the first time that Russia and China have directly
+      challenged the UN Security Council and implicitly indicated they will ignore any
+      Snapback sanctions.
+
+
+      However, viewed from a different perspective, the joint denunciation of Snapback
+      could open the door to ‘a return to the region’ by Russia (and China) through
+      providing military support to Iran – were it to be attacked by Israel, the U.S.,
+      or both.
+
+
+      With Russia presently fully engaged in Ukraine, it is less likely to want to initiate
+      direct support to Iran in the event of an attack (Russia is acutely alert to the
+      dangers of over-extension). Were the
+
+
+      Ukraine war to be over, then Russia might have fewer scruples about directly intervening
+      in support of Iran. The same would apply for China in the event of the Ukraine
+      conflict having reached some outcome.
+
+
+      The last thing that the triumvirate of Jewish Zionist influencers, the U.S. Russia
+      hawks and the European pro-Israel élites want is Russia ‘back in the Middle East’.
+      That would constitute a nightmare for them.
+
+
+      When U.S. Envoy Tom Barrack was asked if Israel felt the need for another ‘definitive
+      strike’ on Iran, he replied:
+
+
+      “It [does] seem as though they’re marching towards a resolution of the entire
+      problem – which is what Gaza is – right? I would imagine that just getting Gaza
+      under control, and Hezbollah under control and the Houthis under control is not
+      fruitful – if you don’t get the Iran regime under control. I have no information
+      as to what they’re going to do, but I wouldn’t rule that out … We need to cut
+      the heads off of those snakes and chop the flow of funds. That’s the only way
+      you’re going to stop Hezbollah”.
+
+
+      So the out-of-the-blue-shooting of Charlie Kirk has ‘unexpectedly’ occurred at
+      a key juncture in Netanyahu’s regional dominance bid – highlighting the already
+      waning support for Israel amongst a cohort of young Americans.
+
+
+      The Kirk murder inadvertently has unlocked too, the next phase of the long simmering
+      cultural war in the U.S. Kirk’s assassination has already become as significant
+      as any in recent American history.
+
+
+      If Rober Shillman’s words to his Jewish audience advocating “confronting enemies
+      of Israel and the Jewish people – defending against Islamists who wish to destroy
+      Israel and radical Leftist Jew-haters who wish to destroy the Jewish people” was
+      not a clear and broad enough declaration of war, then hear Stephen Miller, White
+      House Deputy Chief of Staff, addressing the crowd at the Charlie Kirk Memorial
+      Service – to huge applause from the 100,000 present at the service:
+
+
+      “The Light will defeat the Dark. We will prevail over forces of wickedness and
+      evil. They cannot imagine that which they have awakened. They cannot conceive
+      of the army that has arisen in all of us. Because we stand for what is good, what
+      is virtuous, what is noble. And to those trying to incite violence against us,
+      those trying to foment hatred against us: What do you have? You have nothing.
+      You are wickedness, envy, hatred. You are nothing. You can produce nothing. We
+      are the ones who build, who create, who lift up humanity”.'
+    one_sentence_summary: In a recent article, Alastair Crooke discusses Trump's strategic
+      shift regarding the Ukraine war, emphasizing his withdrawal of U.S. support and
+      financial burden on Europe, while simultaneously highlighting the complex interplay
+      of Israeli interests in the U.S. media landscape and the geopolitical implications
+      of a potential Russian resurgence in the Middle East amidst ongoing conflicts.
+    paragraph_summary: In a recent article, Alastair Crooke discusses former President
+      Trump's strategy regarding the Ukraine war and its implications for U.S. foreign
+      policy, particularly in relation to Israel and the Middle East. Trump has shifted
+      the burden of military support for Ukraine onto Europe, knowing its financial
+      constraints, while simultaneously promoting the idea that Ukraine could reclaim
+      its territory and diminish Russia's power. This dual approach allows Trump to
+      appear supportive of Ukraine while also advocating for peace talks, indicating
+      a reluctance for direct conflict with Russia. Crooke also highlights the growing
+      influence of pro-Israel billionaires in U.S. politics, particularly in light of
+      recent tensions and the assassination of Charlie Kirk, which underscores a cultural
+      war within the U.S. and a push for greater Israeli dominance. The article suggests
+      that these dynamics are interconnected, as influential Jewish donors, U.S. hawks,
+      and European elites share a vested interest in keeping Russia preoccupied in Ukraine
+      to prevent its resurgence in the Middle East, where they fear it could challenge
+      Israeli interests. Overall, Crooke portrays a complex geopolitical landscape where
+      the Ukraine conflict, Israeli ambitions, and American domestic politics intersect
+      in significant ways.
+    published: '2025-10-02T17:03:03+00:00'
   - title: The Genie Of ‘Israeli First’ Dominance Is Out Of The Bottle – OpEd
     url: https://www.eurasiareview.com/22092025-the-genie-of-israeli-first-dominance-is-out-of-the-bottle-oped/
     text: 'By Alastair Crooke

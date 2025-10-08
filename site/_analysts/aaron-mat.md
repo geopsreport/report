@@ -7,18 +7,292 @@ description: "Journalist and producer; covers US foreign policy, Russiagate, and
 websites:
   - https://www.aaronmate.net/
 summary: |
-  The geopolitical landscape remains volatile as the US, Russia, and their allies navigate shifting alliances and intensifying conflicts. In recent days, several developments have underscored the complexity of these dynamics.
+  As the humanitarian crisis in Gaza deepens, President Trump has unveiled a so-called "peace plan" that, according to **Aaron Maté**, is widely seen as a thinly veiled ultimatum for Hamas to surrender. The proposal, coming amid dire conditions for Palestinians, is not regarded by most analysts as a genuine step toward peace, but rather as a move to force Palestinian capitulation and undermine their right to self-determination. Maté notes that while Hamas may feel compelled to accept the terms due to mounting pressure, the plan's substance offers little in the way of meaningful negotiation or compromise.
   
-  The indictment of former FBI Director James Comey for alleged false statements to Congress has reignited debates over the politicization of justice in the US. While some view the move as a retaliatory act by President Trump, **Aaron Maté** notes that it also exposes the "controversial standards" set during the 2016 Trump-Russia investigation, which Comey himself oversaw. This case is emblematic of the broader struggle over accountability and political power in Washington.
+  Elsewhere, the fallout from the indictment of former FBI Director James Comey continues to reverberate. While some see the move as a politically motivated act of retribution by Trump, **Aaron Maté** points out that it also reflects the contentious standards established during the 2016 Trump-Russia investigation overseen by Comey himself. This development underscores the ongoing politicization of US intelligence and law enforcement, with implications for both domestic and foreign policy credibility.
   
-  On the international front, President Trump’s evolving position on the Ukraine war marks a significant shift. After previously advocating for negotiations, Trump now expresses confidence in Ukraine’s ability to reclaim territory with EU backing, while openly questioning Russia’s military strength. This pivot has been welcomed by Ukrainian President Zelensky, who sees it as renewed support for Kyiv’s objectives. **Aaron Maté** observes that this change "reflects the changing dynamics on the battlefield," complicating the prospects for a negotiated settlement.
+  In Ukraine, President Trump has shifted his approach, now expressing confidence in Kyiv's ability to reclaim territory from Russia with the backing of the European Union. This marks a notable departure from his earlier calls for negotiations and signals a willingness to support a prolonged conflict. Ukrainian President Zelensky has welcomed this change, while Trump's public questioning of Russian military strength has further complicated the diplomatic landscape.
   
-  Meanwhile, the Middle East remains a flashpoint. The US's hosting of Syria’s new president, Ahmed al-Sharaa (formerly Mohammed al-Jolani, a former Al Qaeda and ISIS leader), signals a dramatic realignment. The US removed al-Sharaa from its terrorism list following his role in toppling Bashar al-Assad, a move that has drawn criticism and raised questions about Washington’s long-term strategy in the region.
-  
-  Looking ahead, the trend is toward greater unpredictability. The Comey indictment is likely to deepen partisan divides in the US, with a high chance of further legal and political battles. In Ukraine, the renewed US and EU backing for Kyiv suggests the conflict will persist, with no immediate end in sight—there is high confidence that the war will continue to be a central issue in US-Russia relations. In Syria, the normalization of relations with a former jihadist leader points to a pragmatic, if controversial, shift in US policy, but the long-term stability of the region remains uncertain.
-  
-  Most definitely, these developments indicate a period of heightened tension and realignment, with major powers recalibrating their approaches in response to rapidly changing circumstances.
+  Looking ahead, the prevailing trend is one of escalating pressure on adversaries—whether through diplomatic ultimatums, legal maneuvers, or military support—rather than genuine negotiation or compromise. Given the current trajectory, I assess with high confidence that the so-called "peace plan" for Gaza will not resolve the underlying conflict, and that the war in Ukraine is likely to continue with increased Western backing. The politicization of US institutions is set to remain a significant factor in both domestic and international arenas.
 articles:
+  - title: Trump’s 'peace plan' is a repackaged demand for Palestinian surrender
+    url: https://www.aaronmate.net/p/trumps-peace-plan-is-a-repackaged
+    text: '(Photo by ANDREW CABALLERO-REYNOLDS/AFP via Getty Images) Given the scale
+      of Palestinian suffering in Gaza after two years of Israeli mass murder and starvation
+      sieges, Hamas may have no choice but to accept the ultimatum handed down by President
+      Trump. Yet whatever comes of the ceasefire talks underway in Egypt, Trump’s proposals
+      should not be seen as a “peace plan.” Instead, the Trump administration seeks
+      the full surrender not just of Hamas, but of the struggle for Palestinian self-determination.
+      If Hamas releases all remaining Israeli captives, the Trump plan says, Israeli
+      bombing will be “suspended.” Yet nothing prevents Israel from resuming its wanton
+      aggression. And while the plan asserts that “Israel will not occupy or annex Gaza,”
+      it establishes loopholes by tying Israeli withdrawal to undefined “standards,
+      milestones, and timeframes linked to demilitarization.” At best, this would mean
+      Israel handing over control to an Arab League-adjacent “temporary International
+      Stabilisation Force (ISF)”, but only in areas deemed by Israel to be “terror-free.”
+      Meanwhile, Israel will establish a “security perimeter presence” that will endure
+      “until Gaza is properly secure from any resurgent terror threat” – a condition
+      that Israel could perpetually claim is unmet. Israeli officials have repeatedly
+      defined all Palestinians in Gaza as legitimate military targets, including in
+      the ongoing destruction of Gaza City, where Defense Minister Israel Katz declared
+      that all residents “who stay... will be [treated as] terrorists and terror supporters.”
+      Accordingly, Trump’s provisions offer Palestinians no protection from continued
+      Israeli terror in the name of fighting it. To cement Israel’s monopoly on violence,
+      the plan insists that Hamas and other Palestinian factions in Gaza disarm. This
+      would leave Palestinians even more defenseless against a state that has slaughtered
+      (at minimum) tens of thousands in Gaza, carries out routine attacks in the West
+      Bank, on top of a long history of atrocities dating back to its founding in 1948.
+      The September 1982 Sabra and Shatila massacres in Lebanon remain vivid in Palestinian
+      memory. Back then, Israel’s allies in Lebanon, with the Israeli army’s protection,
+      massacred between 2,000 and 3,500 Palestinian refugees after the PLO withdrew
+      from Beirut – based on the false Israeli assurance that no civilians would face
+      harm once they left. The Trump plan does acknowledge that Israeli claims about
+      providing aid to Gaza are entirely fraudulent. “Upon acceptance of this agreement,”
+      it says, “full aid will be immediately sent into the Gaza Strip.” This is a tacit
+      admission that Israel, contrary to its debunked lies about Hamas stealing food,
+      has blocked full aid to Gaza, and could immediately end the starvation siege if
+      the US president wanted it to. The plan also calls for the eventual resumption
+      of aid via the United Nations. This is another tacit admission that Israeli-US
+      claims about a corrupted, terror-compromised UN aid system, which necessitated
+      the Israeli-US-run Gaza Humanitarian Foundation in its place, was another fabrication.
+      And all of this will be overseen by a new “transitional” authority involving former
+      UK Prime Minister Tony Blair, whose own longstanding colonial blueprint for Gaza
+      heavily inspired Trump’s plan. Fittingly, the Trump plan makes no mention of the
+      West Bank, a de-facto endorsement of continued Israeli land theft, and the geographic
+      and political separation of the Israeli-ruled Palestinian population. When it
+      comes to Palestinian self-determination, the plan offers no guarantees, just empty
+      platitudes. “While Gaza re-development advances and when the PA [Palestinian Authority]
+      reform programme is faithfully carried out,” it says, “the conditions may finally
+      be in place for a credible pathway to Palestinian self-determination and statehood,
+      which we recognise as the aspiration of the Palestinian people.” That PA “reform”
+      process is described as having been “outlined” in “President Trump’s peace plan
+      in 2020”, which instructed Palestinians to accept Israeli settlement blocs in
+      the Occupied West Bank and abandon all efforts to uphold their rights under international
+      law. Note here that “Palestinian self-determination and statehood” is described
+      as something to “recognize” as an “aspiration” – but not as a right. If one recognizes
+      an aspiration, as opposed to a legally guaranteed right, one has no obligation
+      to grant it. Secretary of State Marco Rubio has been emphatic that the US will
+      not do so. Asked on Sunday if the US now supports Palestinian statehood, Rubio
+      replied : “We’ve always said that, that if there’s going to be a two-state solution,
+      it has to be negotiated with Israel. It has to make sure that Israel’s security
+      is taken into account... I wouldn’t say this is a new policy position.” Rubio
+      is correct. When it comes to Palestinian statehood, the US is not offering a new
+      policy position, but reaffirming its longstanding opposition. In declaring that
+      potential statehood “must be negotiated with Israel”, Rubio is telling Palestinians
+      that their fate is in the hands of a military occupier whose leaders openly declare
+      that there will never be a Palestinian state. “We are going to fulfill our promise
+      that there will be no Palestinian state; this place belongs to us,” Israeli Prime
+      Minister Benjamin Netanyahu declared last month, at a ceremony marking the expansion
+      of the E1 settlement bloc. Former Israeli Defense Minister Benny Gantz, a self-described
+      critic of Netanyahu, recently observed that “opposition to... Palestinian statehood
+      stands at the heart” of the Israeli “national consensus,” which is “rooted in
+      the hard realities of our region.” Within Israel, that opposition is so deep-rooted
+      that even the Israeli leaders who pursed the so-called Oslo “peace process” used
+      it to prevent a Palestinian state from being established. In the more than thirty
+      years since Oslo was signed in 1993, the number of Israeli settlements and outposts
+      in the occupied West Bank, which carve up Palestinian land and make any future
+      state impossible, has more than doubled. Thirty years ago this month, and just
+      weeks before his assassination by an extreme-right wing Israeli, the Israeli architect
+      of the Oslo accords, Prime Minister Yitzhak Rabin, explained that Israel was seeking
+      “an entity which is less than a state, and which will independently run the lives
+      of the Palestinians under its authority.” Israel’s borders, he added, will incorporate
+      the major West Bank settlement blocks, because “we will not return” to Israel’s
+      pre-1967 lines. By granting Palestinians “less than a state,” Israeli legal advisor
+      Joel Singer later explained, Oslo “leaves us with the territory and them with
+      the populated areas... and it even leaves them with the dirty work of patrolling
+      the cities and refugee camps.” Just as Trump and Netanyahu seek to do today. Israel’s
+      famed withdrawal from Gaza in 2005, falsely described as end to its occupation
+      of the besieged enclave, was undertaken for similar reasons. Dov Weissglass, the
+      chief of staff to then Israeli Prime Minister Ariel Sharon, explained the year
+      prior that the Gaza withdrawal meant a “freezing of the political process,” whereby
+      Israel could “prevent the establishment of a Palestinian state” and a “discussion
+      about the refugees, the borders and Jerusalem.” The Israeli leader who went the
+      furthest in addressing Palestinian concerns, Ehud Olmert, was in reality offering
+      nothing that he could follow through on. As veteran US-Palestinian negotiators
+      Robert Malley and Hussein Agha recount in their new book on the post-Oslo diplomatic
+      record, Olmert’s September 2008 “offer” to Palestinian counterpart Mahmoud Abbas
+      was negated by his own legal troubles, a pending exit from power, and a cabinet
+      that privately declared his overture to be dead on arrival: The Israeli Prime
+      Minister lacked the authority to make, sell, let alone implement, his concessions.
+      His own ministerial colleagues deserted him; publicly, they continued the talks;
+      backstage, they told another story. Olmert’s foreign minister advised the Palestinians
+      not to be fooled; the prime minister’s ideas committed nobody but himself. Ehud
+      Barak, now serving as defense minister, dismissed the talks as an academic seminar.
+      In short, before the current Israeli national consensus of opposing a Palestinian
+      state, there were some leaders who preferred to pretend that one could be established.
+      Two years of Israeli genocidal warfare in Gaza, along with attacks on deterrent
+      forces in Lebanon, Syria, Iran, and Yemen, have made it easier for Israel’s government
+      to abandon the ruse. Meanwhile, the Gulf States, particularly Qatar and Saudi
+      Arabia, no longer make any effort to use the limited leverage they have. In 2002,
+      the Arab League offered Israel full normalization in return for a withdrawal from
+      all Arab territories (Syrian, Lebanese, and Palestinian) that it occupied in 1967;
+      the creation of a Palestinian state in the West Bank and Gaza, with East Jerusalem
+      as its capital; and a “just resolution” to the refugee issue. (The initiative
+      was subsequently endorsed by Iran and Hamas ). Today, these same Gulf states focus
+      on making lucrative side deals with Trump rather than championing their decades-old
+      peace plan, which itself would be a massive compromise for Palestinians, who would
+      be accepting just 22% of their stolen homeland and a Jewish supremacist state
+      in the rest of it. Like their more moderate predecessors, Trump and Netanyahu
+      are not interested in compromise. The Israeli-US plan for Palestinians has long
+      been surrender, and two years of genocide have given them a new opportunity to
+      impose it. Aaron Mate is a reader-supported publication. To receive new posts
+      and support my work, consider becoming a free or paid subscriber.'
+    one_sentence_summary: The article argues that while Hamas may feel pressured to
+      accept President Trump's ultimatum amid the dire humanitarian situation in Gaza,
+      the proposed ceasefire terms should not be viewed as a genuine peace plan, as
+      they effectively demand Hamas's surrender and undermine Palestinian self-determination.
+    paragraph_summary: The article critiques the ceasefire proposals put forth by President
+      Trump regarding the ongoing conflict in Gaza, arguing that they effectively demand
+      the complete surrender of Hamas and undermine Palestinian self-determination.
+      It highlights that while the plan suggests a suspension of Israeli bombings contingent
+      on Hamas releasing Israeli captives, it does not prevent future aggression from
+      Israel, which can resume attacks at will. The plan also claims that Israel will
+      not occupy Gaza, but it includes loopholes that allow for continued Israeli military
+      presence under the guise of security. Furthermore, it requires the disarmament
+      of Hamas and other Palestinian factions, leaving Palestinians vulnerable to Israeli
+      violence, which has already resulted in significant casualties. Overall, the article
+      portrays Trump's proposals as a means to reinforce Israeli dominance rather than
+      a genuine peace initiative.
+    published: '2025-10-07T15:42:00+00:00'
+  - title: Trump’s 'peace plan' is a repackaged demand for Palestinian surrender
+    url: https://www.aaronmate.net/p/trumps-peace-plan-is-a-repackaged
+    text: '(Photo by ANDREW CABALLERO-REYNOLDS/AFP via Getty Images) Given the scale
+      of Palestinian suffering in Gaza after two years of Israeli mass murder and starvation
+      sieges, Hamas may have no choice but to accept the ultimatum handed down by President
+      Trump. Yet whatever comes of the ceasefire talks underway in Egypt, Trump’s proposals
+      should not be seen as a “peace plan.” Instead, the Trump administration seeks
+      the full surrender not just of Hamas, but of the struggle for Palestinian self-determination.
+      If Hamas releases all remaining Israeli captives, the Trump plan says, Israeli
+      bombing will be “suspended.” Yet nothing prevents Israel from resuming its wanton
+      aggression. And while the plan asserts that “Israel will not occupy or annex Gaza,”
+      it establishes loopholes by tying Israeli withdrawal to undefined “standards,
+      milestones, and timeframes linked to demilitarization.” At best, this would mean
+      Israel handing over control to an Arab League-adjacent “temporary International
+      Stabilisation Force (ISF)”, but only in areas deemed by Israel to be “terror-free.”
+      Meanwhile, Israel will establish a “security perimeter presence” that will endure
+      “until Gaza is properly secure from any resurgent terror threat” – a condition
+      that Israel could perpetually claim is unmet. Israeli officials have repeatedly
+      defined all Palestinians in Gaza as legitimate military targets, including in
+      the ongoing destruction of Gaza City, where Defense Minister Israel Katz declared
+      that all residents “who stay... will be [treated as] terrorists and terror supporters.”
+      Accordingly, Trump’s provisions offer Palestinians no protection from continued
+      Israeli terror in the name of fighting it. To cement Israel’s monopoly on violence,
+      the plan insists that Hamas and other Palestinian factions in Gaza disarm. This
+      would leave Palestinians even more defenseless against a state that has slaughtered
+      (at minimum) tens of thousands in Gaza, carries out routine attacks in the West
+      Bank, on top of a long history of atrocities dating back to its founding in 1948.
+      The September 1982 Sabra and Shatila massacres in Lebanon remain vivid in Palestinian
+      memory. Back then, Israel’s allies in Lebanon, with the Israeli army’s protection,
+      massacred between 2,000 and 3,500 Palestinian refugees after the PLO withdrew
+      from Beirut – based on the false Israeli assurance that no civilians would face
+      harm once they left. The Trump plan does acknowledge that Israeli claims about
+      providing aid to Gaza are entirely fraudulent. “Upon acceptance of this agreement,”
+      it says, “full aid will be immediately sent into the Gaza Strip.” This is a tacit
+      admission that Israel, contrary to its debunked lies about Hamas stealing food,
+      has blocked full aid to Gaza, and could immediately end the starvation siege if
+      the US president wanted it to. The plan also calls for the eventual resumption
+      of aid via the United Nations. This is another tacit admission that Israeli-US
+      claims about a corrupted, terror-compromised UN aid system, which necessitated
+      the Israeli-US-run Gaza Humanitarian Foundation in its place, was another fabrication.
+      And all of this will be overseen by a new “transitional” authority involving former
+      UK Prime Minister Tony Blair, whose own longstanding colonial blueprint for Gaza
+      heavily inspired Trump’s plan. Fittingly, the Trump plan makes no mention of the
+      West Bank, a de-facto endorsement of continued Israeli land theft, and the geographic
+      and political separation of the Israeli-ruled Palestinian population. When it
+      comes to Palestinian self-determination, the plan offers no guarantees, just empty
+      platitudes. “While Gaza re-development advances and when the PA [Palestinian Authority]
+      reform programme is faithfully carried out,” it says, “the conditions may finally
+      be in place for a credible pathway to Palestinian self-determination and statehood,
+      which we recognise as the aspiration of the Palestinian people.” That PA “reform”
+      process is described as having been “outlined” in “President Trump’s peace plan
+      in 2020”, which instructed Palestinians to accept Israeli settlement blocs in
+      the Occupied West Bank and abandon all efforts to uphold their rights under international
+      law. Note here that “Palestinian self-determination and statehood” is described
+      as something to “recognize” as an “aspiration” – but not as a right. If one recognizes
+      an aspiration, as opposed to a legally guaranteed right, one has no obligation
+      to grant it. Secretary of State Marco Rubio has been emphatic that the US will
+      not do so. Asked on Sunday if the US now supports Palestinian statehood, Rubio
+      replied : “We’ve always said that, that if there’s going to be a two-state solution,
+      it has to be negotiated with Israel. It has to make sure that Israel’s security
+      is taken into account... I wouldn’t say this is a new policy position.” Rubio
+      is correct. When it comes to Palestinian statehood, the US is not offering a new
+      policy position, but reaffirming its longstanding opposition. In declaring that
+      potential statehood “must be negotiated with Israel”, Rubio is telling Palestinians
+      that their fate is in the hands of a military occupier whose leaders openly declare
+      that there will never be a Palestinian state. “We are going to fulfill our promise
+      that there will be no Palestinian state; this place belongs to us,” Israeli Prime
+      Minister Benjamin Netanyahu declared last month, at a ceremony marking the expansion
+      of the E1 settlement bloc. Former Israeli Defense Minister Benny Gantz, a self-described
+      critic of Netanyahu, recently observed that “opposition to... Palestinian statehood
+      stands at the heart” of the Israeli “national consensus,” which is “rooted in
+      the hard realities of our region.” Within Israel, that opposition is so deep-rooted
+      that even the Israeli leaders who pursed the so-called Oslo “peace process” used
+      it to prevent a Palestinian state from being established. In the more than thirty
+      years since Oslo was signed in 1993, the number of Israeli settlements and outposts
+      in the occupied West Bank, which carve up Palestinian land and make any future
+      state impossible, has more than doubled. Thirty years ago this month, and just
+      weeks before his assassination by an extreme-right wing Israeli, the Israeli architect
+      of the Oslo accords, Prime Minister Yitzhak Rabin, explained that Israel was seeking
+      “an entity which is less than a state, and which will independently run the lives
+      of the Palestinians under its authority.” Israel’s borders, he added, will incorporate
+      the major West Bank settlement blocks, because “we will not return” to Israel’s
+      pre-1967 lines. By granting Palestinians “less than a state,” Israeli legal advisor
+      Joel Singer later explained, Oslo “leaves us with the territory and them with
+      the populated areas... and it even leaves them with the dirty work of patrolling
+      the cities and refugee camps.” Just as Trump and Netanyahu seek to do today. Israel’s
+      famed withdrawal from Gaza in 2005, falsely described as end to its occupation
+      of the besieged enclave, was undertaken for similar reasons. Dov Weissglass, the
+      chief of staff to then Israeli Prime Minister Ariel Sharon, explained the year
+      prior that the Gaza withdrawal meant a “freezing of the political process,” whereby
+      Israel could “prevent the establishment of a Palestinian state” and a “discussion
+      about the refugees, the borders and Jerusalem.” The Israeli leader who went the
+      furthest in addressing Palestinian concerns, Ehud Olmert, was in reality offering
+      nothing that he could follow through on. As veteran US-Palestinian negotiators
+      Robert Malley and Hussein Agha recount in their new book on the post-Oslo diplomatic
+      record, Olmert’s September 2008 “offer” to Palestinian counterpart Mahmoud Abbas
+      was negated by his own legal troubles, a pending exit from power, and a cabinet
+      that privately declared his overture to be dead on arrival: The Israeli Prime
+      Minister lacked the authority to make, sell, let alone implement, his concessions.
+      His own ministerial colleagues deserted him; publicly, they continued the talks;
+      backstage, they told another story. Olmert’s foreign minister advised the Palestinians
+      not to be fooled; the prime minister’s ideas committed nobody but himself. Ehud
+      Barak, now serving as defense minister, dismissed the talks as an academic seminar.
+      In short, before the current Israeli national consensus of opposing a Palestinian
+      state, there were some leaders who preferred to pretend that one could be established.
+      Two years of Israeli genocidal warfare in Gaza, along with attacks on deterrent
+      forces in Lebanon, Syria, Iran, and Yemen, have made it easier for Israel’s government
+      to abandon the ruse. Meanwhile, the Gulf States, particularly Qatar and Saudi
+      Arabia, no longer make any effort to use the limited leverage they have. In 2002,
+      the Arab League offered Israel full normalization in return for a withdrawal from
+      all Arab territories (Syrian, Lebanese, and Palestinian) that it occupied in 1967;
+      the creation of a Palestinian state in the West Bank and Gaza, with East Jerusalem
+      as its capital; and a “just resolution” to the refugee issue. (The initiative
+      was subsequently endorsed by Iran and Hamas ). Today, these same Gulf states focus
+      on making lucrative side deals with Trump rather than championing their decades-old
+      peace plan, which itself would be a massive compromise for Palestinians, who would
+      be accepting just 22% of their stolen homeland and a Jewish supremacist state
+      in the rest of it. Like their more moderate predecessors, Trump and Netanyahu
+      are not interested in compromise. The Israeli-US plan for Palestinians has long
+      been surrender, and two years of genocide have given them a new opportunity to
+      impose it. Aaron Mate is a reader-supported publication. To receive new posts
+      and support my work, consider becoming a free or paid subscriber.'
+    one_sentence_summary: The article argues that while Hamas may feel pressured to
+      accept President Trump's ultimatum amid the dire humanitarian situation in Gaza,
+      the proposed ceasefire terms should not be viewed as a genuine peace plan, as
+      they effectively demand Hamas's surrender and undermine Palestinian self-determination.
+    paragraph_summary: The article critiques the ceasefire proposals put forth by President
+      Trump regarding the ongoing conflict in Gaza, arguing that they effectively demand
+      the complete surrender of Hamas and undermine Palestinian self-determination.
+      It highlights that while the plan suggests a suspension of Israeli bombings contingent
+      on Hamas releasing Israeli captives, it does not prevent future aggression from
+      Israel, which can resume attacks at will. The plan also claims that Israel will
+      not occupy Gaza, but it includes loopholes that allow for continued Israeli military
+      presence under the guise of security. Furthermore, it requires the disarmament
+      of Hamas and other Palestinian factions, leaving Palestinians vulnerable to Israeli
+      violence, which has already resulted in significant casualties. Overall, the article
+      portrays Trump's proposals as a means to reinforce Israeli dominance rather than
+      a genuine peace initiative.
+    published: '2025-10-07T15:42:00+00:00'
   - title: By Russiagate standards, the Comey case is a slam-dunk
     url: https://www.aaronmate.net/p/by-russiagate-standards-the-comey
     text: (Photo by Alex Wong/Getty Images) The indictment of former FBI Director James
@@ -237,6 +511,38 @@ articles:
       of Alawite and Druze civilians, raising ethical concerns about the US's alliance
       with a group that has committed such atrocities.
     published: '2025-09-22T18:30:23+00:00'
+  - title: As UN panel declares genocide in Gaza, Israel exploits Charlie Kirk's murder
+    url: https://www.aaronmate.net/p/as-un-panel-declares-genocide-in
+    text: 'Aaron Mate As UN panel declares genocide in Gaza, Israel exploits Charlie
+      Kirk''s murder 137 7 36 1× 0:00 Current time: 0:00 / Total time: -29:12 -29:12
+      Audio playback is not supported on your browser. Please upgrade. As UN panel declares
+      genocide in Gaza, Israel exploits Charlie Kirk''s murder Aaron Maté Sep 16, 2025
+      137 7 36 Share Transcript Aaron Mate is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. Subscribe
+      Discussion about this episode Comments Restacks Aaron Mate Reporting and analysis
+      by award-winning independent journalist. Reporting and analysis by award-winning
+      independent journalist. Subscribe Authors Aaron Maté Recent Episodes Netanyahu
+      confirms that Trump''s peace plan is a ruse Oct 1 • Aaron Maté Narrated version:
+      By Russiagate standards, the Comey case is a slam-dunk Sep 29 • Aaron Maté Article
+      audio: With nuclear pact in peril, Trump embraces prolonged war in Ukraine Sep
+      25 • Aaron Maté US hosts Syria''s ruling fmr. Al Qaeda leader amid sectarian violence
+      at home Sep 22 • Aaron Maté Listen to this article: In Qatar attack, Israel and
+      US again use diplomacy for aggression Sep 11 • Aaron Maté After Israeli attack
+      in Qatar, is Iran next? Sep 10 • Aaron Maté Trump terror in Venezuela; endless
+      carnage in Gaza Sep 4 • Aaron Maté'
+    one_sentence_summary: Aaron Maté discusses the UN panel's declaration of genocide
+      in Gaza and how Israel is leveraging the murder of Charlie Kirk in the context
+      of this ongoing conflict.
+    paragraph_summary: In a recent article, Aaron Maté discusses the UN panel's declaration
+      of genocide in Gaza, highlighting the ongoing humanitarian crisis and the implications
+      of this designation. He also critiques the way Israel has leveraged the murder
+      of Charlie Kirk to further its narrative and justify its actions in the region.
+      Maté, known for his independent journalism, provides a critical analysis of the
+      geopolitical dynamics at play, including the role of the US and the broader implications
+      for peace in the Middle East. The article reflects on the complexities of international
+      diplomacy amidst escalating violence and the moral responsibilities of global
+      powers.
+    published: '2025-09-16T16:30:01+00:00'
   - title: After Israeli attack in Qatar, is Iran next?
     url: https://www.aaronmate.net/p/after-israeli-attack-in-qatar-is
     text: 'Aaron Mate After Israeli attack in Qatar, is Iran next? 103 1 16 1× 0:00

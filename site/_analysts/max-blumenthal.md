@@ -7,16 +7,127 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  Tensions between Iran, Israel, and the United States remain at the forefront of geopolitical developments, as recent reports highlight escalating rhetoric and covert influence campaigns shaping the international landscape.
+  The geopolitical landscape continues to be shaped by intensifying Israeli influence operations, both within Western media and in international intelligence affairs. Recent developments underscore a deepening entanglement between powerful media ownership, intelligence agencies, and pro-Israel advocacy, with significant implications for public discourse and policy.
   
-  In a significant development, Iranian President Masoud Pezeshkian, during a meeting in New York with US antiwar activists, issued a stark warning about the likelihood of direct conflict with Israel and the United States. According to **Max Blumenthal**, Pezeshkian criticized Washington's intransigence on the JCPOA nuclear deal and signaled that, absent compromise, "there is no doubt they will attack." This statement underscores the high risk of military escalation in the region, with diplomatic avenues narrowing.
+  The most notable new revelation centers on billionaire **David Ellison**, who recently acquired control of Paramount and CBS News. According to leaked documents cited by **Max Blumenthal**, Ellison and his father were solicited by a former top Israeli general to fund digital paramilitary operations targeting pro-Palestine activists in the US. The documents detail a strategy of “increased guerrilla tactics” in the digital sphere, raising concerns about the use of major media platforms to advance pro-Israel agendas and surveil American citizens. This marks a significant escalation in the blending of private capital, media influence, and foreign intelligence objectives.
   
-  Meanwhile, fallout from the assassination of US conservative figure Charlie Kirk continues to reverberate. New revelations indicate that ultra-Zionist billionaire Robert Shillman withdrew financial support from Kirk's Turning Point USA shortly before his death, amid mounting criticism of Kirk's increasingly critical stance toward Israel. **Max Blumenthal** reports that this move coincided with intense lobbying from Israeli Prime Minister Netanyahu's allies, suggesting a coordinated effort to isolate dissenting voices within US conservative circles.
+  Meanwhile, the legacy of Israeli intelligence operations in Europe has come under renewed scrutiny. A veteran journalist revealed that Mossad had early contact with the group responsible for the kidnapping and murder of Italian Prime Minister Aldo Moro. As **Blumenthal** reports, this disclosure highlights Italy’s transformation into what he calls a US-Israeli “aircraft carrier,” suggesting a long-standing pattern of covert manipulation and alliance-building in Europe.
   
-  On the information warfare front, leaked documents have exposed the role of BBC Media Action as a covert instrument of British foreign policy. As detailed by **Max Blumenthal**, the organization, while presenting itself as a charity, has embedded staff in foreign media to shape narratives and advance UK geopolitical interests. This revelation adds to growing concerns about Western media manipulation and the use of soft power to influence political outcomes abroad.
+  These revelations come amid ongoing fallout from the assassination of US conservative activist Charlie Kirk. Previous reports detailed how Kirk’s rejection of Israeli funding offers and his outspoken criticism of Israeli influence led to his isolation and fear prior to his death, with major donors and political allies distancing themselves under pressure from pro-Israel factions.
   
-  Looking ahead, the majority of sources suggest that the risk of direct confrontation between Iran and Israel is "most definitely" rising, with US involvement almost certain should hostilities erupt. The ongoing exposure of covert influence operations—whether by Western or Israeli actors—will likely fuel further distrust and polarization in international relations. I guarantee that, unless there is a significant shift in diplomatic posture from Washington or Tel Aviv, the trajectory points toward heightened conflict and intensified information warfare in the coming months.
+  **Trends and Predictions:**  
+  The convergence of media ownership, intelligence operations, and advocacy campaigns is likely to intensify, with high confidence that major Western news outlets will face increasing scrutiny over their editorial independence and susceptibility to foreign influence. The exposure of digital paramilitary strategies signals a new phase in information warfare, targeting dissent and shaping narratives on Israel-Palestine issues. Given the historical precedents and current trajectory, I guarantee that these operations will continue to expand, particularly as geopolitical tensions in the Middle East remain high and Western governments maintain close alignment with Israeli interests.
 articles:
+  - title: New CBS owner David Ellison met with top Israeli general in scheme to spy
+      on Americans
+    url: https://thegrayzone.com/2025/10/06/cbs-owner-israeli-general-spy-americans/
+    text: Israel’s former top general sought donations from David Ellison and his father,
+      Larry, as part of a billionaire coterie to fund digital paramilitaries aimed at
+      sabotaging pro-Palestine activists. The leaked documents show one planner explaining,
+      “In the jungle, we need more guerrillas and less IDF.” With Paramount and CBS
+      News now under his control, the younger Ellison has installed self-described “Zionist
+      fanatic” Bari Weiss as editor-in-chief. The new owner of Paramount, David Ellison,
+      participated in an Israeli government-led plot to […] The post New CBS owner David
+      Ellison met with top Israeli general in scheme to spy on Americans first appeared
+      on The Grayzone . The post New CBS owner David Ellison met with top Israeli general
+      in scheme to spy on Americans appeared first on The Grayzone .
+    one_sentence_summary: Israel's former top general solicited donations from billionaire
+      David Ellison and his father to fund digital paramilitaries aimed at undermining
+      pro-Palestine activists, with leaked documents revealing a strategy for increased
+      guerrilla tactics, while Ellison's recent control of Paramount and CBS News has
+      raised concerns about his alignment with pro-Israel agendas.
+    paragraph_summary: Israel's former top general solicited funding from billionaire
+      David Ellison and his father, Larry, to support a controversial initiative aimed
+      at creating digital paramilitaries to undermine pro-Palestine activists, as revealed
+      in leaked documents. One planner emphasized the need for more guerrilla tactics
+      rather than traditional military approaches. Following his acquisition of Paramount
+      and CBS News, David Ellison appointed Bari Weiss, a self-identified "Zionist fanatic,"
+      as editor-in-chief, raising concerns about potential biases in media coverage.
+      The situation highlights Ellison's involvement in a broader Israeli government-led
+      scheme that may include surveillance of American citizens.
+    published: '2025-10-06T17:50:04+00:00'
+  - title: New CBS owner David Ellison met with top Israeli general in scheme to spy
+      on Americans
+    url: https://thegrayzone.com/2025/10/06/cbs-owner-israeli-general-spy-americans/
+    text: Israel’s former top general sought donations from David Ellison and his father,
+      Larry, as part of a billionaire coterie to fund digital paramilitaries aimed at
+      sabotaging pro-Palestine activists. The leaked documents show one planner explaining,
+      “In the jungle, we need more guerrillas and less IDF.” With Paramount and CBS
+      News now under his control, the younger Ellison has installed self-described “Zionist
+      fanatic” Bari Weiss as editor-in-chief. The new owner of Paramount, David Ellison,
+      participated in an Israeli government-led plot to […] The post New CBS owner David
+      Ellison met with top Israeli general in scheme to spy on Americans first appeared
+      on The Grayzone . The post New CBS owner David Ellison met with top Israeli general
+      in scheme to spy on Americans appeared first on The Grayzone .
+    one_sentence_summary: Israel's former top general solicited donations from billionaire
+      David Ellison and his father to fund digital paramilitaries aimed at undermining
+      pro-Palestine activists, with leaked documents revealing a strategy for increased
+      guerrilla tactics, while Ellison's recent control of Paramount and CBS News has
+      raised concerns about his alignment with pro-Israel agendas.
+    paragraph_summary: Israel's former top general solicited funding from billionaire
+      David Ellison and his father, Larry, to support a controversial initiative aimed
+      at creating digital paramilitaries to undermine pro-Palestine activists, as revealed
+      in leaked documents. One planner emphasized the need for more guerrilla tactics
+      rather than traditional military approaches. Following his acquisition of Paramount
+      and CBS News, David Ellison appointed Bari Weiss, a self-identified "Zionist fanatic,"
+      as editor-in-chief, raising concerns about potential biases in media coverage.
+      The situation highlights Ellison's involvement in a broader Israeli government-led
+      scheme that may include surveillance of American citizens.
+    published: '2025-10-06T17:50:04+00:00'
+  - title: Mossad ‘in contact from very beginning’ with killers of Italian PM, reporter
+      reveals
+    url: https://thegrayzone.com/2025/10/04/mossad-contact-italian-pm-killers/
+    text: A roving reporter who covered Italy’s top politicians explains to The Grayzone
+      how his country was reduced to a joint US-Israeli “aircraft carrier,” and raises
+      troubling questions about an Israeli role in the killing of Prime Minister Aldo
+      Moro. For years, Israel’s Mossad monitored and secretly influenced a violent communist
+      faction that carried out the March 16, 1978 kidnapping and murder of Italian statesman
+      Aldo Moro, veteran investigative journalist Eric Salerno has documented. Having
+      worked closely alongside multiple Italian heads […] The post Mossad ‘in contact
+      from very beginning’ with killers of Italian PM, reporter reveals first appeared
+      on The Grayzone . The post Mossad ‘in contact from very beginning’ with killers
+      of Italian PM, reporter reveals appeared first on The Grayzone .
+    one_sentence_summary: A veteran journalist reveals that Israel's Mossad had early
+      contact with the violent faction responsible for the kidnapping and murder of
+      Italian Prime Minister Aldo Moro, suggesting a troubling role in the incident
+      and highlighting Italy's transformation into a US-Israeli "aircraft carrier."
+    paragraph_summary: In an interview with The Grayzone, veteran investigative journalist
+      Eric Salerno discusses Italy's transformation into a US-Israeli "aircraft carrier"
+      and raises alarming questions about the Israeli intelligence agency Mossad's involvement
+      in the 1978 kidnapping and murder of Italian Prime Minister Aldo Moro. Salerno
+      reveals that Mossad had been monitoring and secretly influencing a violent communist
+      faction responsible for Moro's abduction, suggesting a deeper connection between
+      Israeli operatives and the perpetrators from the outset. His insights stem from
+      years of experience covering Italy's political landscape and interactions with
+      its leaders.
+    published: '2025-10-04T19:10:29+00:00'
+  - title: Mossad ‘in contact from very beginning’ with killers of Italian PM, reporter
+      reveals
+    url: https://thegrayzone.com/2025/10/04/mossad-contact-italian-pm-killers/
+    text: A roving reporter who covered Italy’s top politicians explains to The Grayzone
+      how his country was reduced to a joint US-Israeli “aircraft carrier,” and raises
+      troubling questions about an Israeli role in the killing of Prime Minister Aldo
+      Moro. For years, Israel’s Mossad monitored and secretly influenced a violent communist
+      faction that carried out the March 16, 1978 kidnapping and murder of Italian statesman
+      Aldo Moro, veteran investigative journalist Eric Salerno has documented. Having
+      worked closely alongside multiple Italian heads […] The post Mossad ‘in contact
+      from very beginning’ with killers of Italian PM, reporter reveals first appeared
+      on The Grayzone . The post Mossad ‘in contact from very beginning’ with killers
+      of Italian PM, reporter reveals appeared first on The Grayzone .
+    one_sentence_summary: A veteran journalist reveals that Israel's Mossad had early
+      contact with the violent faction responsible for the kidnapping and murder of
+      Italian Prime Minister Aldo Moro, suggesting a troubling role in the incident
+      and highlighting Italy's transformation into a US-Israeli "aircraft carrier."
+    paragraph_summary: In an interview with The Grayzone, veteran investigative journalist
+      Eric Salerno discusses Italy's transformation into a US-Israeli "aircraft carrier"
+      and raises alarming questions about the Israeli intelligence agency Mossad's involvement
+      in the 1978 kidnapping and murder of Italian Prime Minister Aldo Moro. Salerno
+      reveals that Mossad had been monitoring and secretly influencing a violent communist
+      faction responsible for Moro's abduction, suggesting a deeper connection between
+      Israeli operatives and the perpetrators from the outset. His insights stem from
+      years of experience covering Italy's political landscape and interactions with
+      its leaders.
+    published: '2025-10-04T19:10:29+00:00'
   - title: '‘No doubt they will attack’: Max Blumenthal meets Iran’s President in NYC'
     url: https://thegrayzone.com/2025/09/27/they-will-attack-max-blumenthal-irans-president/
     text: 'In a meeting with US antiwar figures, Iranian Pres. Masoud Pezeshkian forecasted

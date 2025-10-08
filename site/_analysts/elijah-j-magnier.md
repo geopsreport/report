@@ -7,14 +7,1380 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  The geopolitical landscape remains tense as the U.S. maintains a hardline stance against Iran, while Israel faces growing international isolation over its actions in Palestine. According to **Elijah J. Magnier**, despite shifts in Iranian leadership and diplomatic tone, Washington’s core objective has not changed: “The U.S. has consistently aimed to compel Iran to relinquish its strategic capabilities and regional influence, employing a range of aggressive tactics while framing these actions as part of a diplomatic strategy.” This approach, presented as diplomacy, in reality seeks to integrate Iran into a U.S.-dominated regional order by reducing its autonomy and deterrence.
+  Two years after the events of October 7, 2023, the Israeli-Palestinian conflict remains deeply unsettled, with the legacy of that day continuing to shape both military realities and political discourse. As **Elijah J. Magnier** notes, the initial Hamas attack exposed severe weaknesses in Israel’s security apparatus, resulting in a national trauma marked by the loss and capture of soldiers—including elite units—and the controversial use of the Hannibal Doctrine, which led to Israeli fire inadvertently targeting its own personnel.
   
-  Europe, meanwhile, emerges as the principal casualty of these policies. As **Magnier** notes, European states are caught between U.S. demands and the economic consequences of sanctions, losing access to Iranian markets and energy while gaining little leverage in return. This dynamic has led to increasing frustration within the EU, which finds itself unable to influence outcomes or protect its own interests.
+  Recent analysis underscores that, despite high-profile diplomatic initiatives such as President Trump’s 20-point ceasefire plan, the situation on the ground in Gaza remains dire. Israeli airstrikes and artillery bombardments have persisted, even as negotiations in Cairo drag on. According to **Elijah J. Magnier**, Israel’s gains from the ceasefire process have been “primarily political and strategic rather than humanitarian,” with the ongoing violence casting doubt on the sincerity and effectiveness of the proposed peace framework.
   
-  On the Israeli-Palestinian front, recent weeks have seen Prime Minister Netanyahu’s rhetoric at the United Nations further widen the gap between Israel and much of the international community. **Magnier** highlights that Netanyahu’s “familiar justifications for Israel’s actions” underscore a growing disconnect: Israel’s leadership continues to invoke national security to justify military operations, while the humanitarian toll on Palestinians deepens and global criticism mounts.
+  The so-called peace plan, jointly promoted by Trump and Netanyahu, is widely viewed by independent analysts as a blueprint for conditional surrender rather than a genuine roadmap to peace. The plan’s structure, as described by **Elijah J. Magnier**, effectively ensures continued Israeli control over Gaza under the guise of reconstruction and stabilization, leaving Hamas in a position where it can neither fully accept nor outright reject the terms.
   
-  Looking ahead, the trends are clear. The U.S. is most definitely expected to maintain pressure on Iran, regardless of changes in Tehran or European objections. There is a high chance that Europe’s marginalization will persist, with little prospect of regaining influence in the near term. In the Israeli-Palestinian context, the international community’s distancing from Israel’s narrative is quite likely to intensify, increasing Israel’s diplomatic isolation but not fundamentally altering its policies on the ground.
+  Looking ahead, the prevailing trend is one of entrenched stalemate. The majority of sources agree that Israel’s political leadership is focused on consolidating strategic advantages rather than pursuing a comprehensive peace. There is a high chance that the current pattern—sporadic negotiations overshadowed by ongoing military operations—will persist. As **Elijah J. Magnier** concludes, “the collapse of moral authority” on all sides has left the conflict locked in a cycle of violence and failed diplomacy, with little prospect for genuine resolution in the near term. I guarantee that unless there is a fundamental shift in approach from the principal actors, the status quo is most definitely set to continue.
 articles:
+  - title: 'Zwei Jahre nach dem 7. Oktober: Israels Krieg, die Asche Gazas und der Zusammenbruch
+      der moralischen Autorität'
+    url: https://ejmagnier.com/2025/10/07/zwei-jahre-nach-dem-7-oktober-israels-krieg-die-asche-gazas-und-der-zusammenbruch-der-moralischen-autoritat/
+    text: 'Tweet Von Elijah J. Magnier Vor zwei Jahren erlebte Israel den vielleicht
+      erschütterndsten Tag seiner modernen Geschichte. Die Ereignisse vom 7. Oktober
+      2023 waren nicht nur ein militärischer Misserfolg oder ein Versagen der Geheimdienste
+      – sie waren eine nationale Demütigung. Polizeistationen wurden gestürmt und überrannt.
+      Militärposten wurden eingenommen. Soldaten und Offiziere, darunter auch Angehörige
+      von Eliteeinheiten, wurden getötet oder gefangen genommen. Die Gaza-Division der
+      israelischen Armee, ein Symbol für Israels langjährige Vorherrschaft über den
+      Gazastreifen, versank im Chaos. Israel berief sich auf die Hannibal-Doktrin –
+      eine Politik, die es den Streitkräften erlaubt, die Gefangennahme von Soldaten
+      selbst unter Einsatz ihres Lebens zu verhindern, indem sie sowohl auf die Hamas
+      als auch auf die entführten Israelis das Feuer eröffnen. An diesem Tag war es
+      keine Theorie mehr – es war Realität. In der Panik richtete sich das israelische
+      Feuer gegen die eigene Bevölkerung, und die dünne Grenze zwischen dem Schutz der
+      Gesellschaft und der Opferung von Zivilisten für strategische Zwecke verschwand.
+      Aber der 7. Oktober war nur der Auftakt. Was folgte, war ein Krieg, wie ihn Israel
+      seit fünfzig Jahren nicht mehr geführt hatte – brutal, unerbittlich und verheerend
+      in seinem Ausmaß und seinen Zielen. Gaza wurde nicht nur angegriffen, es wurde
+      systematisch zerstört. Was als Vergeltungsmaßnahme begann, wurde zu etwas ganz
+      anderem: einer Auslöschung. Die Illusion militärischer Überlegenheit Zwei Jahre
+      nach Kriegsbeginn ist eine Tatsache unbestreitbar: Israel, unterstützt von einigen
+      der mächtigsten Militärbündnisse der Welt, hat es nicht geschafft, ein Gebiet
+      zu erobern, das kleiner ist als die Hälfte von New York City. 365 Quadratkilometer
+      – das ist alles, was Gaza ausmacht. Doch trotz überwältigender Streitmacht, technologischem
+      Vorsprung und politischer Rückendeckung ist es der israelischen Armee nicht gelungen,
+      es vollständig zu besetzen. Dieses Scheitern ist angesichts des Ausmaßes der Zerstörung
+      besonders eklatant. Über 200.000 Tonnen Sprengstoff wurden auf Gaza abgeworfen
+      – das entspricht 20 Atombomben ohne Strahlung . Das ist keine Metapher. Das ist
+      das Maß dafür, wie weit Israel zu gehen bereit war und noch immer bereit ist:
+      ganze Städte dem Erdboden gleichzumachen, Krankenhäuser, Schulen, Moscheen, Wohnhochhäuser,
+      Universitäten und sogar Friedhöfe in Schutt und Asche zu legen. Gaza hat seit
+      dem Zweiten Weltkrieg mehr konzentrierte Bombardierungen erlitten als jedes andere
+      Gebiet. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Am 7. Oktober 2023 erlebte Israel einen nationalen Schock,
+      als militärische und geheimdienstliche Misserfolge zu einem chaotischen Übergriff
+      auf Polizeistationen und Militärposten führten, bei dem Soldaten, einschließlich
+      Eliteeinheiten, getötet oder gefangen genommen wurden, während die Hannibal-Doktrin
+      in einer verzweifelten Situation gegen die eigene Bevölkerung angewendet wurde.
+    paragraph_summary: Am 7. Oktober 2023 erlebte Israel einen der schwersten Tage seiner
+      Geschichte, als militärische und geheimdienstliche Versagen zu einer nationalen
+      Demütigung führten, die in Chaos und Verlusten für die israelischen Streitkräfte
+      resultierte. Polizeistationen und Militärposten wurden überrannt, und die israelische
+      Armee sah sich gezwungen, die umstrittene Hannibal-Doktrin anzuwenden, was zu
+      einem verheerenden Feuer gegen die eigene Bevölkerung führte. Der darauf folgende
+      Krieg gegen Gaza, der brutal und umfassend war, führte nicht nur zu massiven Zerstörungen,
+      sondern offenbarte auch die Illusion der israelischen militärischen Überlegenheit,
+      da Israel trotz seiner überlegenen Ressourcen und internationaler Unterstützung
+      nicht in der Lage war, das kleine Gebiet von Gaza vollständig zu erobern. Zwei
+      Jahre nach Beginn des Konflikts bleibt festzustellen, dass die israelischen Streitkräfte
+      in ihrem Ziel, Gaza zu kontrollieren, gescheitert sind.
+    published: '2025-10-07T20:00:25+00:00'
+  - title: 'Zwei Jahre nach dem 7. Oktober: Israels Krieg, die Asche Gazas und der Zusammenbruch
+      der moralischen Autorität'
+    url: https://ejmagnier.com/2025/10/07/zwei-jahre-nach-dem-7-oktober-israels-krieg-die-asche-gazas-und-der-zusammenbruch-der-moralischen-autoritat/
+    text: 'Tweet Von Elijah J. Magnier Vor zwei Jahren erlebte Israel den vielleicht
+      erschütterndsten Tag seiner modernen Geschichte. Die Ereignisse vom 7. Oktober
+      2023 waren nicht nur ein militärischer Misserfolg oder ein Versagen der Geheimdienste
+      – sie waren eine nationale Demütigung. Polizeistationen wurden gestürmt und überrannt.
+      Militärposten wurden eingenommen. Soldaten und Offiziere, darunter auch Angehörige
+      von Eliteeinheiten, wurden getötet oder gefangen genommen. Die Gaza-Division der
+      israelischen Armee, ein Symbol für Israels langjährige Vorherrschaft über den
+      Gazastreifen, versank im Chaos. Israel berief sich auf die Hannibal-Doktrin –
+      eine Politik, die es den Streitkräften erlaubt, die Gefangennahme von Soldaten
+      selbst unter Einsatz ihres Lebens zu verhindern, indem sie sowohl auf die Hamas
+      als auch auf die entführten Israelis das Feuer eröffnen. An diesem Tag war es
+      keine Theorie mehr – es war Realität. In der Panik richtete sich das israelische
+      Feuer gegen die eigene Bevölkerung, und die dünne Grenze zwischen dem Schutz der
+      Gesellschaft und der Opferung von Zivilisten für strategische Zwecke verschwand.
+      Aber der 7. Oktober war nur der Auftakt. Was folgte, war ein Krieg, wie ihn Israel
+      seit fünfzig Jahren nicht mehr geführt hatte – brutal, unerbittlich und verheerend
+      in seinem Ausmaß und seinen Zielen. Gaza wurde nicht nur angegriffen, es wurde
+      systematisch zerstört. Was als Vergeltungsmaßnahme begann, wurde zu etwas ganz
+      anderem: einer Auslöschung. Die Illusion militärischer Überlegenheit Zwei Jahre
+      nach Kriegsbeginn ist eine Tatsache unbestreitbar: Israel, unterstützt von einigen
+      der mächtigsten Militärbündnisse der Welt, hat es nicht geschafft, ein Gebiet
+      zu erobern, das kleiner ist als die Hälfte von New York City. 365 Quadratkilometer
+      – das ist alles, was Gaza ausmacht. Doch trotz überwältigender Streitmacht, technologischem
+      Vorsprung und politischer Rückendeckung ist es der israelischen Armee nicht gelungen,
+      es vollständig zu besetzen. Dieses Scheitern ist angesichts des Ausmaßes der Zerstörung
+      besonders eklatant. Über 200.000 Tonnen Sprengstoff wurden auf Gaza abgeworfen
+      – das entspricht 20 Atombomben ohne Strahlung . Das ist keine Metapher. Das ist
+      das Maß dafür, wie weit Israel zu gehen bereit war und noch immer bereit ist:
+      ganze Städte dem Erdboden gleichzumachen, Krankenhäuser, Schulen, Moscheen, Wohnhochhäuser,
+      Universitäten und sogar Friedhöfe in Schutt und Asche zu legen. Gaza hat seit
+      dem Zweiten Weltkrieg mehr konzentrierte Bombardierungen erlitten als jedes andere
+      Gebiet. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Am 7. Oktober 2023 erlebte Israel einen nationalen Schock,
+      als militärische und geheimdienstliche Misserfolge zu einem chaotischen Übergriff
+      auf Polizeistationen und Militärposten führten, bei dem Soldaten, einschließlich
+      Eliteeinheiten, getötet oder gefangen genommen wurden, während die Hannibal-Doktrin
+      in einer verzweifelten Situation gegen die eigene Bevölkerung angewendet wurde.
+    paragraph_summary: Am 7. Oktober 2023 erlebte Israel einen der schwersten Tage seiner
+      Geschichte, als militärische und geheimdienstliche Versagen zu einer nationalen
+      Demütigung führten, die in Chaos und Verlusten für die israelischen Streitkräfte
+      resultierte. Polizeistationen und Militärposten wurden überrannt, und die israelische
+      Armee sah sich gezwungen, die umstrittene Hannibal-Doktrin anzuwenden, was zu
+      einem verheerenden Feuer gegen die eigene Bevölkerung führte. Der darauf folgende
+      Krieg gegen Gaza, der brutal und umfassend war, führte nicht nur zu massiven Zerstörungen,
+      sondern offenbarte auch die Illusion der israelischen militärischen Überlegenheit,
+      da Israel trotz seiner überlegenen Ressourcen und internationaler Unterstützung
+      nicht in der Lage war, das kleine Gebiet von Gaza vollständig zu erobern. Zwei
+      Jahre nach Beginn des Konflikts bleibt festzustellen, dass die israelischen Streitkräfte
+      in ihrem Ziel, Gaza zu kontrollieren, gescheitert sind.
+    published: '2025-10-07T20:00:25+00:00'
+  - title: 'Two Years After October 7: Israel’s War, Gaza’s Ashes, and the Collapse
+      of Moral Authority'
+    url: https://ejmagnier.com/2025/10/07/two-years-after-october-7-israels-war-gazas-ashes-and-the-collapse-of-moral-authority/
+    text: 'Tweet By Elijah J. Magnier Two years ago, Israel suffered what was perhaps
+      the most jarring day in its modern history. The events of October 7, 2023, weren’t
+      just a military failure or an intelligence lapse—they were a national humiliation.
+      Police stations were stormed and overrun. Military posts were taken. Soldiers
+      and officers, including from elite units, were killed or captured. The Gaza Division
+      of the Israeli army, a symbol of Israel’s long-standing dominance over the Strip,
+      fell into chaos. Israel invoked the Hannibal Doctrine—a policy that allows military
+      forces to prevent the capture of soldiers even at the cost of their lives, by
+      opening fire on both Hamas and the kidnapped Israelis. That day, it wasn’t theory—it
+      was execution. In the fog of panic, Israeli fire turned on its own, and the thin
+      line between protecting society and sacrificing civilians for strategic ends evaporated.
+      But October 7 was just the opening act. What followed was a war unlike anything
+      Israel had fought in fifty years—brutal, relentless, and devastating in scale
+      and ambition. Gaza was not merely targeted; it was systematically dismantled.
+      What began as retaliation became something else entirely: an erasure. The Illusion
+      of Military Supremacy Two years into the war, one fact is undeniable: Israel,
+      backed by some of the most powerful military alliances in the world, has failed
+      to conquer a territory smaller than half of New York City. 365 square kilometers
+      —that’s all Gaza is. Yet despite overwhelming force, technological advantage,
+      and political cover, the Israeli army has been unable to fully occupy it. This
+      failure is especially glaring given the scale of destruction. Over 200,000 tons
+      of explosives have been dropped on Gaza—the equivalent of 20 nuclear bombs without
+      radiation . That’s not metaphor. That’s the measure of how far Israel was willing
+      to go and is not willing to stop yet: flattening entire towns, turning hospitals,
+      schools, mosques, residential towers, universities, even cemeteries into rubble.
+      Gaza has endured more concentrated bombing than any territory since World War
+      II. Indeed, what Gaza has endured over the past two years dwarfs even some of
+      the most infamous wartime bombardments of the twentieth century. In February 1945,
+      Allied forces dropped roughly 3,900 tons of explosives on Dresden in a three-day
+      firestorm that killed an estimated 25,000 to 35,000 people and obliterated much
+      of the city. Where Dresden became a symbol of wartime excess, Gaza is witnessing
+      destruction on a scale so vast it makes Dresden look like a prelude. And unlike
+      Dresden, Gaza’s devastation has been broadcast live, in real time, to a world
+      that cannot claim it did not know. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: On October 7, 2023, Israel experienced a profound national
+      humiliation as its military and intelligence systems failed dramatically, leading
+      to chaos, the loss of soldiers, and the controversial implementation of the Hannibal
+      Doctrine during a subsequent war with Hamas.
+    paragraph_summary: On October 7, 2023, Israel experienced a profound national humiliation
+      as its military and intelligence capabilities failed dramatically, leading to
+      the storming of police stations, military posts, and the capture of soldiers,
+      including from elite units. In response, Israel enacted the Hannibal Doctrine,
+      resulting in chaotic friendly fire amidst efforts to prevent the capture of its
+      soldiers. This day marked the beginning of a brutal war against Gaza, characterized
+      by relentless and systematic destruction, with over 200,000 tons of explosives
+      used—equivalent to 20 nuclear bombs—yet two years later, Israel has been unable
+      to fully occupy the small territory of Gaza despite its overwhelming military
+      superiority and support from powerful allies. The conflict has revealed the stark
+      contrast between Israel's perceived military dominance and its actual inability
+      to control the situation on the ground, leading to widespread devastation without
+      achieving its strategic objectives.
+    published: '2025-10-07T16:55:31+00:00'
+  - title: 'Two Years After October 7: Israel’s War, Gaza’s Ashes, and the Collapse
+      of Moral Authority'
+    url: https://ejmagnier.com/2025/10/07/two-years-after-october-7-israels-war-gazas-ashes-and-the-collapse-of-moral-authority/
+    text: 'Tweet By Elijah J. Magnier Two years ago, Israel suffered what was perhaps
+      the most jarring day in its modern history. The events of October 7, 2023, weren’t
+      just a military failure or an intelligence lapse—they were a national humiliation.
+      Police stations were stormed and overrun. Military posts were taken. Soldiers
+      and officers, including from elite units, were killed or captured. The Gaza Division
+      of the Israeli army, a symbol of Israel’s long-standing dominance over the Strip,
+      fell into chaos. Israel invoked the Hannibal Doctrine—a policy that allows military
+      forces to prevent the capture of soldiers even at the cost of their lives, by
+      opening fire on both Hamas and the kidnapped Israelis. That day, it wasn’t theory—it
+      was execution. In the fog of panic, Israeli fire turned on its own, and the thin
+      line between protecting society and sacrificing civilians for strategic ends evaporated.
+      But October 7 was just the opening act. What followed was a war unlike anything
+      Israel had fought in fifty years—brutal, relentless, and devastating in scale
+      and ambition. Gaza was not merely targeted; it was systematically dismantled.
+      What began as retaliation became something else entirely: an erasure. The Illusion
+      of Military Supremacy Two years into the war, one fact is undeniable: Israel,
+      backed by some of the most powerful military alliances in the world, has failed
+      to conquer a territory smaller than half of New York City. 365 square kilometers
+      —that’s all Gaza is. Yet despite overwhelming force, technological advantage,
+      and political cover, the Israeli army has been unable to fully occupy it. This
+      failure is especially glaring given the scale of destruction. Over 200,000 tons
+      of explosives have been dropped on Gaza—the equivalent of 20 nuclear bombs without
+      radiation . That’s not metaphor. That’s the measure of how far Israel was willing
+      to go and is not willing to stop yet: flattening entire towns, turning hospitals,
+      schools, mosques, residential towers, universities, even cemeteries into rubble.
+      Gaza has endured more concentrated bombing than any territory since World War
+      II. Indeed, what Gaza has endured over the past two years dwarfs even some of
+      the most infamous wartime bombardments of the twentieth century. In February 1945,
+      Allied forces dropped roughly 3,900 tons of explosives on Dresden in a three-day
+      firestorm that killed an estimated 25,000 to 35,000 people and obliterated much
+      of the city. Where Dresden became a symbol of wartime excess, Gaza is witnessing
+      destruction on a scale so vast it makes Dresden look like a prelude. And unlike
+      Dresden, Gaza’s devastation has been broadcast live, in real time, to a world
+      that cannot claim it did not know. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: On October 7, 2023, Israel experienced a profound national
+      humiliation as its military and intelligence systems failed dramatically, leading
+      to chaos, the loss of soldiers, and the controversial implementation of the Hannibal
+      Doctrine during a subsequent war with Hamas.
+    paragraph_summary: On October 7, 2023, Israel experienced a profound national humiliation
+      as its military and intelligence capabilities failed dramatically, leading to
+      the storming of police stations, military posts, and the capture of soldiers,
+      including from elite units. In response, Israel enacted the Hannibal Doctrine,
+      resulting in chaotic friendly fire amidst efforts to prevent the capture of its
+      soldiers. This day marked the beginning of a brutal war against Gaza, characterized
+      by relentless and systematic destruction, with over 200,000 tons of explosives
+      used—equivalent to 20 nuclear bombs—yet two years later, Israel has been unable
+      to fully occupy the small territory of Gaza despite its overwhelming military
+      superiority and support from powerful allies. The conflict has revealed the stark
+      contrast between Israel's perceived military dominance and its actual inability
+      to control the situation on the ground, leading to widespread devastation without
+      achieving its strategic objectives.
+    published: '2025-10-07T16:55:31+00:00'
+  - title: 'Deux ans après le 7 octobre : la guerre d’Israël, les cendres de Gaza et
+      l’effondrement de l’autorité morale'
+    url: https://ejmagnier.com/2025/10/07/deux-ans-apres-le-7-octobre-la-guerre-disrael-les-cendres-de-gaza-et-leffondrement-de-lautorite-morale/
+    text: 'Tweet Par Elijah J. Magnier Il y a deux ans, Israël a subi ce qui est sans
+      doute le jour le plus traumatisant de son histoire moderne. Les événements du
+      7 octobre 2023 n’étaient pas simplement un échec militaire ou un raté du renseignement
+      : c’était une humiliation nationale. Des postes de police ont été pris d’assaut
+      et submergés. Des bases militaires ont été capturées. Des soldats et officiers,
+      y compris dans des unités d’élite, ont été tués ou faits prisonniers. La Division
+      de Gaza de l’armée israélienne, symbole de la domination d’Israël sur la bande
+      de Gaza, s’est effondrée dans le chaos. Israël a invoqué la doctrine Hannibal
+      — politique permettant aux forces armées d’empêcher la capture de soldats, même
+      au prix de leurs vies, en ouvrant le feu à la fois sur le Hamas et sur les Israéliens
+      kidnappés. Ce jour-là, ce n’était pas une théorie — c’était l’exécution. Dans
+      la brume de panique, le feu israélien s’est retourné contre ses propres troupes,
+      et la mince frontière entre protéger la société et sacrifier des civils pour des
+      motifs stratégiques s’est évaporée. Mais le 7 octobre n’était que l’acte d’ouverture.
+      Ce qui a suivi fut une guerre sans précédent depuis cinquante ans — brutale, implacable,
+      dévastatrice par l’ampleur et l’ambition. Gaza n’a pas seulement été ciblée ;
+      elle a été démantelée méthodiquement. Ce qui avait commencé en représailles est
+      devenu autre chose : une effacement. L’illusion de la suprématie militaire Deux
+      ans de guerre plus tard, un fait s’impose : Israël, soutenu par certaines des
+      alliances militaires les plus puissantes du monde, a échoué à conquérir un territoire
+      plus petit que la moitié de New York. 365 kilomètres carrés — c’est toute la bande
+      de Gaza. Et pourtant, malgré une force écrasante, des avantages technologiques,
+      et une couverture politique, l’armée israélienne n’a pu l’occuper complètement.
+      Cet échec est d’autant plus criant quand on considère l’ampleur de la destruction.
+      Plus de 200 000 tonnes d’explosifs ont été larguées sur Gaza — l’équivalent de
+      20 bombes nucléaires sans radiation . Ce n’est pas une métaphore. C’est la mesure
+      de l’étendue de ce qu’Israël était prêt à faire — et refuse pour l’instant d’arrêter
+      : niveler des villes entières, transformer hôpitaux, écoles, mosquées, immeubles
+      résidentiels, universités, même cimetières en ruines. Gaza a subi un bombardement
+      plus concentré que toute autre région depuis la Seconde Guerre mondiale. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Le 7 octobre 2023 a marqué un jour traumatisant pour Israël,
+      avec des attaques dévastatrices qui ont entraîné la capture de bases militaires,
+      la mort et l'enlèvement de soldats, et une mise en œuvre tragique de la doctrine
+      Hannibal, où des tirs israéliens ont accidentellement touché leurs propres troupes.
+    paragraph_summary: L'article d'Elijah J. Magnier retrace les événements traumatisants
+      du 7 octobre 2023, marquant un tournant dans l'histoire moderne d'Israël, où le
+      pays a subi une humiliation nationale avec des attaques sur des postes de police
+      et des bases militaires, entraînant la capture de soldats, y compris d'unités
+      d'élite. La réponse israélienne, fondée sur la doctrine Hannibal, a conduit à
+      des tirs amis, brouillant la ligne entre protection et sacrifice des civils. Ce
+      jour a ouvert la voie à une guerre dévastatrice et sans précédent contre Gaza,
+      qui a été méthodiquement démantelée. Deux ans plus tard, malgré une puissance
+      militaire écrasante et un soutien international, Israël n'a pas réussi à conquérir
+      la bande de Gaza, soulignant un échec significatif face à l'ampleur de la destruction
+      causée, avec plus de 200 000 tonnes d'explosifs utilisées.
+    published: '2025-10-07T16:54:21+00:00'
+  - title: 'Deux ans après le 7 octobre : la guerre d’Israël, les cendres de Gaza et
+      l’effondrement de l’autorité morale'
+    url: https://ejmagnier.com/2025/10/07/deux-ans-apres-le-7-octobre-la-guerre-disrael-les-cendres-de-gaza-et-leffondrement-de-lautorite-morale/
+    text: 'Tweet Par Elijah J. Magnier Il y a deux ans, Israël a subi ce qui est sans
+      doute le jour le plus traumatisant de son histoire moderne. Les événements du
+      7 octobre 2023 n’étaient pas simplement un échec militaire ou un raté du renseignement
+      : c’était une humiliation nationale. Des postes de police ont été pris d’assaut
+      et submergés. Des bases militaires ont été capturées. Des soldats et officiers,
+      y compris dans des unités d’élite, ont été tués ou faits prisonniers. La Division
+      de Gaza de l’armée israélienne, symbole de la domination d’Israël sur la bande
+      de Gaza, s’est effondrée dans le chaos. Israël a invoqué la doctrine Hannibal
+      — politique permettant aux forces armées d’empêcher la capture de soldats, même
+      au prix de leurs vies, en ouvrant le feu à la fois sur le Hamas et sur les Israéliens
+      kidnappés. Ce jour-là, ce n’était pas une théorie — c’était l’exécution. Dans
+      la brume de panique, le feu israélien s’est retourné contre ses propres troupes,
+      et la mince frontière entre protéger la société et sacrifier des civils pour des
+      motifs stratégiques s’est évaporée. Mais le 7 octobre n’était que l’acte d’ouverture.
+      Ce qui a suivi fut une guerre sans précédent depuis cinquante ans — brutale, implacable,
+      dévastatrice par l’ampleur et l’ambition. Gaza n’a pas seulement été ciblée ;
+      elle a été démantelée méthodiquement. Ce qui avait commencé en représailles est
+      devenu autre chose : une effacement. L’illusion de la suprématie militaire Deux
+      ans de guerre plus tard, un fait s’impose : Israël, soutenu par certaines des
+      alliances militaires les plus puissantes du monde, a échoué à conquérir un territoire
+      plus petit que la moitié de New York. 365 kilomètres carrés — c’est toute la bande
+      de Gaza. Et pourtant, malgré une force écrasante, des avantages technologiques,
+      et une couverture politique, l’armée israélienne n’a pu l’occuper complètement.
+      Cet échec est d’autant plus criant quand on considère l’ampleur de la destruction.
+      Plus de 200 000 tonnes d’explosifs ont été larguées sur Gaza — l’équivalent de
+      20 bombes nucléaires sans radiation . Ce n’est pas une métaphore. C’est la mesure
+      de l’étendue de ce qu’Israël était prêt à faire — et refuse pour l’instant d’arrêter
+      : niveler des villes entières, transformer hôpitaux, écoles, mosquées, immeubles
+      résidentiels, universités, même cimetières en ruines. Gaza a subi un bombardement
+      plus concentré que toute autre région depuis la Seconde Guerre mondiale. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Le 7 octobre 2023 a marqué un jour traumatisant pour Israël,
+      avec des attaques dévastatrices qui ont entraîné la capture de bases militaires,
+      la mort et l'enlèvement de soldats, et une mise en œuvre tragique de la doctrine
+      Hannibal, où des tirs israéliens ont accidentellement touché leurs propres troupes.
+    paragraph_summary: L'article d'Elijah J. Magnier retrace les événements traumatisants
+      du 7 octobre 2023, marquant un tournant dans l'histoire moderne d'Israël, où le
+      pays a subi une humiliation nationale avec des attaques sur des postes de police
+      et des bases militaires, entraînant la capture de soldats, y compris d'unités
+      d'élite. La réponse israélienne, fondée sur la doctrine Hannibal, a conduit à
+      des tirs amis, brouillant la ligne entre protection et sacrifice des civils. Ce
+      jour a ouvert la voie à une guerre dévastatrice et sans précédent contre Gaza,
+      qui a été méthodiquement démantelée. Deux ans plus tard, malgré une puissance
+      militaire écrasante et un soutien international, Israël n'a pas réussi à conquérir
+      la bande de Gaza, soulignant un échec significatif face à l'ampleur de la destruction
+      causée, avec plus de 200 000 tonnes d'explosifs utilisées.
+    published: '2025-10-07T16:54:21+00:00'
+  - title: 'Twee jaar na 7 oktober: Israëls oorlog, de as van Gaza en de ineenstorting
+      van het moreel gezag.'
+    url: https://ejmagnier.com/2025/10/07/twee-jaar-na-7-oktober-israels-oorlog-de-as-van-gaza-en-de-ineenstorting-van-het-moreel-gezag/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Twee jaar
+      geleden beleefde Geschreven door Elijah J. Magnier – Vertaald door Francis J.
+      Twee jaar geleden beleefde Israël misschien wel de meest schokkende dag in zijn
+      moderne geschiedenis. De gebeurtenissen van 7 oktober 2023 waren niet alleen een
+      militaire mislukking of een falen van de inlichtingendienst, maar ook een nationale
+      vernedering. Politiebureaus werden bestormd en ingenomen. Militaire posten werden
+      veroverd. Soldaten en officieren, ook van elite-eenheden, werden gedood of gevangengenomen.
+      De Gazadivisie van het Israëlische leger, een symbool van Israëls langdurige dominantie
+      over de Gazastrook, raakte in chaos. Israël beriep zich op de Hannibal-doctrine,
+      een beleid dat het leger toestaat om de gevangenneming van soldaten te voorkomen,
+      zelfs ten koste van hun leven, door het vuur te openen op zowel Hamas als de ontvoerde
+      Israëli’s. Die dag was het geen theorie, maar werd het in praktijk gebracht. In
+      de mist van paniek richtte het Israëlische vuur zich op zijn eigen mensen en verdween
+      de dunne grens tussen het beschermen van de samenleving en het opofferen van burgers
+      voor strategische doeleinden. Maar 7 oktober was slechts het begin. Wat volgde
+      was een oorlog zoals Israël die in vijftig jaar niet had meegemaakt: wreed, meedogenloos
+      en verwoestend in omvang en ambitie. Gaza werd niet alleen aangevallen, het werd
+      systematisch ontmanteld. Wat begon als vergelding, werd iets heel anders: een
+      vernietiging. De illusie van militaire suprematieTwee jaar na het uitbreken van
+      de oorlog is één feit onmiskenbaar: Israël, gesteund door enkele van de machtigste
+      militaire allianties ter wereld, is er niet in geslaagd een gebied te veroveren
+      dat kleiner is dan de helft van New York City. 365 vierkante kilometer – dat is
+      alles wat Gaza is. Maar ondanks zijn overweldigende macht, technologische voorsprong
+      en politieke dekking is het Israëlische leger niet in staat geweest het gebied
+      volledig te bezetten. Deze mislukking is vooral schrijnend gezien de omvang van
+      de verwoesting. Er is meer dan 200.000 ton aan explosieven op Gaza gegooid – het
+      equivalent van 20 atoombommen zonder straling. Dat is geen metafoor. Dat is de
+      maatstaf voor hoe ver Israël bereid was te gaan en nog steeds niet bereid is te
+      stoppen: hele steden met de grond gelijk maken, ziekenhuizen, scholen, moskeeën,
+      woontorens, universiteiten en zelfs begraafplaatsen in puin veranderen. Gaza heeft
+      meer geconcentreerde bombardementen ondergaan dan enig ander gebied sinds de Tweede
+      Wereldoorlog. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Op 7 oktober 2023 beleefde Israël een nationale vernedering
+      door een verrassende aanval van Hamas, die leidde tot de inname van politiebureaus
+      en militaire posten, en resulteerde in de dood of gevangenneming van soldaten,
+      inclusief elite-eenheden.
+    paragraph_summary: Op 7 oktober 2023 beleefde Israël een van de meest schokkende
+      dagen in zijn moderne geschiedenis, gekenmerkt door een militaire mislukking en
+      nationale vernedering, waarbij politie- en militaire posten werden bestormd en
+      soldaten, inclusief elite-eenheden, werden gedood of gevangen genomen. De chaos
+      binnen de Israëlische Gazadivisie leidde tot de toepassing van de controversiële
+      Hannibal-doctrine, waarbij het leger zijn eigen mensen in gevaar bracht in een
+      poging om ontvoeringen te voorkomen. Wat volgde was een ongekende oorlog die Gaza
+      systematisch verwoestte, maar twee jaar later blijkt dat Israël, ondanks zijn
+      militaire superioriteit en steun van krachtige allianties, er niet in is geslaagd
+      om het kleine gebied van Gaza volledig te veroveren.
+    published: '2025-10-07T16:49:05+00:00'
+  - title: 'Twee jaar na 7 oktober: Israëls oorlog, de as van Gaza en de ineenstorting
+      van het moreel gezag.'
+    url: https://ejmagnier.com/2025/10/07/twee-jaar-na-7-oktober-israels-oorlog-de-as-van-gaza-en-de-ineenstorting-van-het-moreel-gezag/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Twee jaar
+      geleden beleefde Geschreven door Elijah J. Magnier – Vertaald door Francis J.
+      Twee jaar geleden beleefde Israël misschien wel de meest schokkende dag in zijn
+      moderne geschiedenis. De gebeurtenissen van 7 oktober 2023 waren niet alleen een
+      militaire mislukking of een falen van de inlichtingendienst, maar ook een nationale
+      vernedering. Politiebureaus werden bestormd en ingenomen. Militaire posten werden
+      veroverd. Soldaten en officieren, ook van elite-eenheden, werden gedood of gevangengenomen.
+      De Gazadivisie van het Israëlische leger, een symbool van Israëls langdurige dominantie
+      over de Gazastrook, raakte in chaos. Israël beriep zich op de Hannibal-doctrine,
+      een beleid dat het leger toestaat om de gevangenneming van soldaten te voorkomen,
+      zelfs ten koste van hun leven, door het vuur te openen op zowel Hamas als de ontvoerde
+      Israëli’s. Die dag was het geen theorie, maar werd het in praktijk gebracht. In
+      de mist van paniek richtte het Israëlische vuur zich op zijn eigen mensen en verdween
+      de dunne grens tussen het beschermen van de samenleving en het opofferen van burgers
+      voor strategische doeleinden. Maar 7 oktober was slechts het begin. Wat volgde
+      was een oorlog zoals Israël die in vijftig jaar niet had meegemaakt: wreed, meedogenloos
+      en verwoestend in omvang en ambitie. Gaza werd niet alleen aangevallen, het werd
+      systematisch ontmanteld. Wat begon als vergelding, werd iets heel anders: een
+      vernietiging. De illusie van militaire suprematieTwee jaar na het uitbreken van
+      de oorlog is één feit onmiskenbaar: Israël, gesteund door enkele van de machtigste
+      militaire allianties ter wereld, is er niet in geslaagd een gebied te veroveren
+      dat kleiner is dan de helft van New York City. 365 vierkante kilometer – dat is
+      alles wat Gaza is. Maar ondanks zijn overweldigende macht, technologische voorsprong
+      en politieke dekking is het Israëlische leger niet in staat geweest het gebied
+      volledig te bezetten. Deze mislukking is vooral schrijnend gezien de omvang van
+      de verwoesting. Er is meer dan 200.000 ton aan explosieven op Gaza gegooid – het
+      equivalent van 20 atoombommen zonder straling. Dat is geen metafoor. Dat is de
+      maatstaf voor hoe ver Israël bereid was te gaan en nog steeds niet bereid is te
+      stoppen: hele steden met de grond gelijk maken, ziekenhuizen, scholen, moskeeën,
+      woontorens, universiteiten en zelfs begraafplaatsen in puin veranderen. Gaza heeft
+      meer geconcentreerde bombardementen ondergaan dan enig ander gebied sinds de Tweede
+      Wereldoorlog. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Op 7 oktober 2023 beleefde Israël een nationale vernedering
+      door een verrassende aanval van Hamas, die leidde tot de inname van politiebureaus
+      en militaire posten, en resulteerde in de dood of gevangenneming van soldaten,
+      inclusief elite-eenheden.
+    paragraph_summary: Op 7 oktober 2023 beleefde Israël een van de meest schokkende
+      dagen in zijn moderne geschiedenis, gekenmerkt door een militaire mislukking en
+      nationale vernedering, waarbij politie- en militaire posten werden bestormd en
+      soldaten, inclusief elite-eenheden, werden gedood of gevangen genomen. De chaos
+      binnen de Israëlische Gazadivisie leidde tot de toepassing van de controversiële
+      Hannibal-doctrine, waarbij het leger zijn eigen mensen in gevaar bracht in een
+      poging om ontvoeringen te voorkomen. Wat volgde was een ongekende oorlog die Gaza
+      systematisch verwoestte, maar twee jaar later blijkt dat Israël, ondanks zijn
+      militaire superioriteit en steun van krachtige allianties, er niet in is geslaagd
+      om het kleine gebied van Gaza volledig te veroveren.
+    published: '2025-10-07T16:49:05+00:00'
+  - title: Was hat Israel wirklich von Trumps Waffenstillstandswette gewonnen?
+    url: https://ejmagnier.com/2025/10/06/was-hat-israel-wirklich-von-trumps-waffenstillstandswette-gewonnen/
+    text: 'Tweet Von Elijah J. Magnier – Als Präsident Donald Trump einen umfassenden
+      20-Punkte-Plan zur Beendigung des Krieges im Gazastreifen vorstellte, unterstützte
+      die israelische Führung den Vorschlag umgehend. Premierminister Benjamin Netanjahu
+      schloss sich öffentlich dem Rahmenplan an und erklärte, dieser entspreche den
+      meisten seiner strategischen Ziele. Aber was hat Israel tatsächlich von diesem
+      Waffenstillstandsmanöver gewonnen? Und was verbirgt sich hinter den Kulissen?
+      Auch wenn Israel sein Bekenntnis zu dem Abkommen bekräftigt, gehen die Luftangriffe
+      und Artilleriefeuer in Gaza weiter. Die Intensität hat zwar nachgelassen, aber
+      täglich werden immer noch Dutzende Zivilisten getötet. Die endgültigen Bedingungen
+      des Abkommens werden noch in Kairo verhandelt, wo Vermittler wie Ägypten, Katar
+      und die USA darum ringen, eine einheitliche Auslegung zu finden. Was bisher bekannt
+      geworden ist, deutet darauf hin, dass Israels Gewinne eher politischer und strategischer
+      als humanitärer Natur sind. Ein Waffenstillstand im Dienste der Macht Trump hat
+      sich als Garant des Abkommens positioniert und das Rahmenwerk an die Forderungen
+      Israels angepasst. Netanjahu begrüßte dies: ein US-Präsident, der bereit ist,
+      die diplomatische Last zu tragen und internationale Kritik zu dämpfen. Mit Trump
+      an der Spitze gewinnt Israel Legitimität für sein Vorgehen in Gaza und einen Partner,
+      der seine Sprache der „Sicherheit zuerst“ spricht. Diese Annäherung zwischen den
+      USA und Israel ermöglicht es Netanjahu, im Inland zu behaupten, dass Israel sich
+      aus eigenem Antrieb und nicht unter Druck für die Diplomatie entschieden habe.
+      Auf internationaler Ebene kann sich Israel so als konstruktiver Akteur in den
+      von den USA geführten Friedensbemühungen darstellen und nicht als aggressiver
+      Schurke. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Trotz der Unterstützung Israels für Trumps 20-Punkte-Plan
+      zur Beendigung des Gazakriegs und der Bekräftigung seines Engagements für das
+      Abkommen, setzen die Luftangriffe und Artilleriefeuer in Gaza fort, während die
+      Verhandlungen über die endgültigen Bedingungen in Kairo andauern, wobei Israels
+      Gewinne eher politischer und strategischer Natur sind.
+    paragraph_summary: In einem Tweet von Elijah J. Magnier wird berichtet, dass die
+      israelische Führung, angeführt von Premierminister Benjamin Netanjahu, Donald
+      Trumps 20-Punkte-Plan zur Beendigung des Gazakriegs sofort unterstützte, da er
+      mit vielen ihrer strategischen Ziele übereinstimmt. Trotz dieser Unterstützung
+      dauern die Luftangriffe und Artilleriefeuer in Gaza an, wobei täglich Zivilisten
+      getötet werden. Die Verhandlungen über die endgültigen Bedingungen des Abkommens
+      finden in Kairo statt, wobei Vermittler wie Ägypten, Katar und die USA beteiligt
+      sind. Israels Gewinne aus dem Waffenstillstand scheinen politischer und strategischer
+      Natur zu sein, da Trump als Garant des Abkommens auftritt und Israel dadurch internationale
+      Legitimität für sein Vorgehen in Gaza erhält. Dies ermöglicht es Netanjahu, die
+      Entscheidung für Diplomatie als eigenständig darzustellen und Israel als konstruktiven
+      Akteur in den Friedensbemühungen der USA zu positionieren.
+    published: '2025-10-06T05:06:29+00:00'
+  - title: Was hat Israel wirklich von Trumps Waffenstillstandswette gewonnen?
+    url: https://ejmagnier.com/2025/10/06/was-hat-israel-wirklich-von-trumps-waffenstillstandswette-gewonnen/
+    text: 'Tweet Von Elijah J. Magnier – Als Präsident Donald Trump einen umfassenden
+      20-Punkte-Plan zur Beendigung des Krieges im Gazastreifen vorstellte, unterstützte
+      die israelische Führung den Vorschlag umgehend. Premierminister Benjamin Netanjahu
+      schloss sich öffentlich dem Rahmenplan an und erklärte, dieser entspreche den
+      meisten seiner strategischen Ziele. Aber was hat Israel tatsächlich von diesem
+      Waffenstillstandsmanöver gewonnen? Und was verbirgt sich hinter den Kulissen?
+      Auch wenn Israel sein Bekenntnis zu dem Abkommen bekräftigt, gehen die Luftangriffe
+      und Artilleriefeuer in Gaza weiter. Die Intensität hat zwar nachgelassen, aber
+      täglich werden immer noch Dutzende Zivilisten getötet. Die endgültigen Bedingungen
+      des Abkommens werden noch in Kairo verhandelt, wo Vermittler wie Ägypten, Katar
+      und die USA darum ringen, eine einheitliche Auslegung zu finden. Was bisher bekannt
+      geworden ist, deutet darauf hin, dass Israels Gewinne eher politischer und strategischer
+      als humanitärer Natur sind. Ein Waffenstillstand im Dienste der Macht Trump hat
+      sich als Garant des Abkommens positioniert und das Rahmenwerk an die Forderungen
+      Israels angepasst. Netanjahu begrüßte dies: ein US-Präsident, der bereit ist,
+      die diplomatische Last zu tragen und internationale Kritik zu dämpfen. Mit Trump
+      an der Spitze gewinnt Israel Legitimität für sein Vorgehen in Gaza und einen Partner,
+      der seine Sprache der „Sicherheit zuerst“ spricht. Diese Annäherung zwischen den
+      USA und Israel ermöglicht es Netanjahu, im Inland zu behaupten, dass Israel sich
+      aus eigenem Antrieb und nicht unter Druck für die Diplomatie entschieden habe.
+      Auf internationaler Ebene kann sich Israel so als konstruktiver Akteur in den
+      von den USA geführten Friedensbemühungen darstellen und nicht als aggressiver
+      Schurke. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Trotz der Unterstützung Israels für Trumps 20-Punkte-Plan
+      zur Beendigung des Gazakriegs und der Bekräftigung seines Engagements für das
+      Abkommen, setzen die Luftangriffe und Artilleriefeuer in Gaza fort, während die
+      Verhandlungen über die endgültigen Bedingungen in Kairo andauern, wobei Israels
+      Gewinne eher politischer und strategischer Natur sind.
+    paragraph_summary: In einem Tweet von Elijah J. Magnier wird berichtet, dass die
+      israelische Führung, angeführt von Premierminister Benjamin Netanjahu, Donald
+      Trumps 20-Punkte-Plan zur Beendigung des Gazakriegs sofort unterstützte, da er
+      mit vielen ihrer strategischen Ziele übereinstimmt. Trotz dieser Unterstützung
+      dauern die Luftangriffe und Artilleriefeuer in Gaza an, wobei täglich Zivilisten
+      getötet werden. Die Verhandlungen über die endgültigen Bedingungen des Abkommens
+      finden in Kairo statt, wobei Vermittler wie Ägypten, Katar und die USA beteiligt
+      sind. Israels Gewinne aus dem Waffenstillstand scheinen politischer und strategischer
+      Natur zu sein, da Trump als Garant des Abkommens auftritt und Israel dadurch internationale
+      Legitimität für sein Vorgehen in Gaza erhält. Dies ermöglicht es Netanjahu, die
+      Entscheidung für Diplomatie als eigenständig darzustellen und Israel als konstruktiven
+      Akteur in den Friedensbemühungen der USA zu positionieren.
+    published: '2025-10-06T05:06:29+00:00'
+  - title: What Has Israel Really Gained from Trump’s Ceasefire Gamble?
+    url: https://ejmagnier.com/2025/10/05/what-has-israel-really-gained-from-trumps-ceasefire-gamble/
+    text: 'Tweet By Elijah J. Magnier – When President Donald Trump unveiled a sweeping
+      20-point plan to end the war in Gaza, Israel’s leadership moved quickly to back
+      the proposal. Prime Minister Benjamin Netanyahu publicly aligned with the framework,
+      claiming it addressed most of his strategic objectives. But what has Israel actually
+      gained from this ceasefire maneuver? And what lies beneath the surface? Even as
+      Israel affirms its commitment to the deal, airstrikes and artillery fire continue
+      in Gaza. The intensity has lessened, but dozens of civilians are still killed
+      daily. Final terms of the agreement are still under negotiation in Cairo, where
+      mediators including Egypt, Qatar, and the U.S. are struggling to align interpretations.
+      What has emerged so far suggests that Israel’s gains are largely political and
+      strategic, rather than humanitarian. A Ceasefire Built to Serve Power Trump has
+      positioned himself as the deal’s guarantor, bending the framework to meet Israeli
+      demands. Netanyahu welcomed this: a U.S. president ready to carry the diplomatic
+      burden and mute international condemnation. With Trump at the helm, Israel gains
+      legitimacy for its actions in Gaza and a partner who speaks its language of “security
+      first.” This U.S.-Israeli alignment allows Netanyahu to claim domestically that
+      Israel chose diplomacy on its own terms, not under pressure. Internationally,
+      it allows Israel to portray itself as a constructive actor in a U.S.-led peace
+      effort, rather than a rogue aggressor. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: President Trump's 20-point plan to end the Gaza war has received
+      backing from Israeli leadership, particularly Prime Minister Netanyahu, who claims
+      it aligns with Israel's strategic goals, but ongoing airstrikes and civilian casualties
+      indicate that the ceasefire's benefits for Israel are primarily political and
+      strategic rather than humanitarian.
+    paragraph_summary: In response to President Donald Trump's 20-point plan aimed at
+      ending the war in Gaza, Israeli Prime Minister Benjamin Netanyahu quickly endorsed
+      the proposal, asserting it aligned with Israel's strategic goals. However, despite
+      Israel's public commitment to the ceasefire, military actions in Gaza persist,
+      resulting in ongoing civilian casualties. Negotiations for the final terms of
+      the agreement are ongoing in Cairo, with mediators from Egypt, Qatar, and the
+      U.S. involved. The situation reveals that Israel's primary gains from the ceasefire
+      are political and strategic, as Trump positions himself as a guarantor of the
+      deal, allowing Israel to frame its actions as part of a legitimate diplomatic
+      effort rather than as an aggressor. This dynamic not only bolsters Netanyahu's
+      domestic narrative of choosing diplomacy but also enhances Israel's international
+      standing in the context of U.S.-led peace initiatives.
+    published: '2025-10-05T18:12:58+00:00'
+  - title: What Has Israel Really Gained from Trump’s Ceasefire Gamble?
+    url: https://ejmagnier.com/2025/10/05/what-has-israel-really-gained-from-trumps-ceasefire-gamble/
+    text: 'Tweet By Elijah J. Magnier – When President Donald Trump unveiled a sweeping
+      20-point plan to end the war in Gaza, Israel’s leadership moved quickly to back
+      the proposal. Prime Minister Benjamin Netanyahu publicly aligned with the framework,
+      claiming it addressed most of his strategic objectives. But what has Israel actually
+      gained from this ceasefire maneuver? And what lies beneath the surface? Even as
+      Israel affirms its commitment to the deal, airstrikes and artillery fire continue
+      in Gaza. The intensity has lessened, but dozens of civilians are still killed
+      daily. Final terms of the agreement are still under negotiation in Cairo, where
+      mediators including Egypt, Qatar, and the U.S. are struggling to align interpretations.
+      What has emerged so far suggests that Israel’s gains are largely political and
+      strategic, rather than humanitarian. A Ceasefire Built to Serve Power Trump has
+      positioned himself as the deal’s guarantor, bending the framework to meet Israeli
+      demands. Netanyahu welcomed this: a U.S. president ready to carry the diplomatic
+      burden and mute international condemnation. With Trump at the helm, Israel gains
+      legitimacy for its actions in Gaza and a partner who speaks its language of “security
+      first.” This U.S.-Israeli alignment allows Netanyahu to claim domestically that
+      Israel chose diplomacy on its own terms, not under pressure. Internationally,
+      it allows Israel to portray itself as a constructive actor in a U.S.-led peace
+      effort, rather than a rogue aggressor. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: President Trump's 20-point plan to end the Gaza war has received
+      backing from Israeli leadership, particularly Prime Minister Netanyahu, who claims
+      it aligns with Israel's strategic goals, but ongoing airstrikes and civilian casualties
+      indicate that the ceasefire's benefits for Israel are primarily political and
+      strategic rather than humanitarian.
+    paragraph_summary: In response to President Donald Trump's 20-point plan aimed at
+      ending the war in Gaza, Israeli Prime Minister Benjamin Netanyahu quickly endorsed
+      the proposal, asserting it aligned with Israel's strategic goals. However, despite
+      Israel's public commitment to the ceasefire, military actions in Gaza persist,
+      resulting in ongoing civilian casualties. Negotiations for the final terms of
+      the agreement are ongoing in Cairo, with mediators from Egypt, Qatar, and the
+      U.S. involved. The situation reveals that Israel's primary gains from the ceasefire
+      are political and strategic, as Trump positions himself as a guarantor of the
+      deal, allowing Israel to frame its actions as part of a legitimate diplomatic
+      effort rather than as an aggressor. This dynamic not only bolsters Netanyahu's
+      domestic narrative of choosing diplomacy but also enhances Israel's international
+      standing in the context of U.S.-led peace initiatives.
+    published: '2025-10-05T18:12:58+00:00'
+  - title: Ce Qu’Israël a Réellement Gagné du Pari de Trump sur le Cessez-le-Feu
+    url: https://ejmagnier.com/2025/10/05/ce-quisrael-a-reellement-gagne-du-pari-de-trump-sur-le-cessez-le-feu/
+    text: 'Tweet Par Elijah J. Magnier – Lorsque le président Donald Trump a dévoilé
+      un plan ambitieux en 20 points pour mettre fin à la guerre à Gaza, la direction
+      israélienne s’est empressée de soutenir la proposition. Le Premier ministre Benyamin
+      Netanyahou s’y est publiquement rallié, affirmant que le cadre répondait à la
+      plupart de ses objectifs stratégiques. Mais qu’a réellement gagné Israël avec
+      cette manœuvre de cessez-le-feu ? Et que cache cette initiative ? Même si Israël
+      affirme respecter l’accord, les frappes aériennes et les tirs d’artillerie se
+      poursuivent à Gaza. Leur intensité a diminué, mais des dizaines de civils sont
+      encore tués chaque jour. Les modalités finales de l’accord sont toujours en discussion
+      au Caire, où les médiateurs – Égypte, Qatar et États-Unis – tentent de concilier
+      des interprétations divergentes. Jusqu’à présent, il apparaît que les gains israéliens
+      sont davantage politiques et stratégiques qu’humanitaires. Un Cessez-le-Feu Taillé
+      pour le Pouvoir Trump s’est posé en garant de l’accord, en adaptant le cadre pour
+      satisfaire les exigences israéliennes. Netanyahou a salué cette posture : un président
+      américain prêt à assumer la charge diplomatique et à atténuer la condamnation
+      internationale. Avec Trump à la barre, Israël obtient une légitimité pour ses
+      actions à Gaza et un partenaire qui parle le langage du « tout sécuritaire ».
+      Cette convergence américano-israélienne permet à Netanyahou d’affirmer sur la
+      scène intérieure qu’Israël a choisi la diplomatie selon ses propres conditions,
+      sans pression extérieure. À l’international, elle lui offre l’image d’un acteur
+      constructif dans un processus de paix mené par Washington, plutôt qu’un agresseur
+      isolé. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: L'article analyse la réaction d'Israël au plan de cessez-le-feu
+      proposé par Donald Trump pour mettre fin à la guerre à Gaza, soulignant que, bien
+      que le soutien israélien soit affiché, les violences continuent et les bénéfices
+      pour Israël semblent davantage politiques que humanitaires.
+    paragraph_summary: In response to Donald Trump's ambitious 20-point plan to end
+      the war in Gaza, Israeli Prime Minister Benjamin Netanyahu quickly endorsed the
+      proposal, claiming it aligned with Israel's strategic goals. However, despite
+      Israel's assertions of compliance, airstrikes and artillery fire in Gaza continue,
+      resulting in civilian casualties. The final terms of the agreement are still being
+      negotiated in Cairo, with mediators from Egypt, Qatar, and the U.S. attempting
+      to reconcile differing interpretations. The article suggests that Israel's gains
+      from this ceasefire initiative are more political and strategic than humanitarian,
+      as Trump’s involvement provides Israel with diplomatic legitimacy and a partner
+      that prioritizes security, allowing Netanyahu to present Israel as a constructive
+      participant in peace efforts rather than an isolated aggressor.
+    published: '2025-10-05T18:09:47+00:00'
+  - title: Ce Qu’Israël a Réellement Gagné du Pari de Trump sur le Cessez-le-Feu
+    url: https://ejmagnier.com/2025/10/05/ce-quisrael-a-reellement-gagne-du-pari-de-trump-sur-le-cessez-le-feu/
+    text: 'Tweet Par Elijah J. Magnier – Lorsque le président Donald Trump a dévoilé
+      un plan ambitieux en 20 points pour mettre fin à la guerre à Gaza, la direction
+      israélienne s’est empressée de soutenir la proposition. Le Premier ministre Benyamin
+      Netanyahou s’y est publiquement rallié, affirmant que le cadre répondait à la
+      plupart de ses objectifs stratégiques. Mais qu’a réellement gagné Israël avec
+      cette manœuvre de cessez-le-feu ? Et que cache cette initiative ? Même si Israël
+      affirme respecter l’accord, les frappes aériennes et les tirs d’artillerie se
+      poursuivent à Gaza. Leur intensité a diminué, mais des dizaines de civils sont
+      encore tués chaque jour. Les modalités finales de l’accord sont toujours en discussion
+      au Caire, où les médiateurs – Égypte, Qatar et États-Unis – tentent de concilier
+      des interprétations divergentes. Jusqu’à présent, il apparaît que les gains israéliens
+      sont davantage politiques et stratégiques qu’humanitaires. Un Cessez-le-Feu Taillé
+      pour le Pouvoir Trump s’est posé en garant de l’accord, en adaptant le cadre pour
+      satisfaire les exigences israéliennes. Netanyahou a salué cette posture : un président
+      américain prêt à assumer la charge diplomatique et à atténuer la condamnation
+      internationale. Avec Trump à la barre, Israël obtient une légitimité pour ses
+      actions à Gaza et un partenaire qui parle le langage du « tout sécuritaire ».
+      Cette convergence américano-israélienne permet à Netanyahou d’affirmer sur la
+      scène intérieure qu’Israël a choisi la diplomatie selon ses propres conditions,
+      sans pression extérieure. À l’international, elle lui offre l’image d’un acteur
+      constructif dans un processus de paix mené par Washington, plutôt qu’un agresseur
+      isolé. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: L'article analyse la réaction d'Israël au plan de cessez-le-feu
+      proposé par Donald Trump pour mettre fin à la guerre à Gaza, soulignant que, bien
+      que le soutien israélien soit affiché, les violences continuent et les bénéfices
+      pour Israël semblent davantage politiques que humanitaires.
+    paragraph_summary: In response to Donald Trump's ambitious 20-point plan to end
+      the war in Gaza, Israeli Prime Minister Benjamin Netanyahu quickly endorsed the
+      proposal, claiming it aligned with Israel's strategic goals. However, despite
+      Israel's assertions of compliance, airstrikes and artillery fire in Gaza continue,
+      resulting in civilian casualties. The final terms of the agreement are still being
+      negotiated in Cairo, with mediators from Egypt, Qatar, and the U.S. attempting
+      to reconcile differing interpretations. The article suggests that Israel's gains
+      from this ceasefire initiative are more political and strategic than humanitarian,
+      as Trump’s involvement provides Israel with diplomatic legitimacy and a partner
+      that prioritizes security, allowing Netanyahu to present Israel as a constructive
+      participant in peace efforts rather than an isolated aggressor.
+    published: '2025-10-05T18:09:47+00:00'
+  - title: Wat heeft Israël werkelijk gewonnen met Trumps gok op een staakt-het-vuren
+    url: https://ejmagnier.com/2025/10/05/wat-heeft-israel-werkelijk-gewonnen-met-trumps-gok-op-een-staakt-het-vuren/
+    text: 'Tweet . Toen president Donald Trump een ingrijpend 20-puntenplan onthulde
+      om een einde te maken aan de oorlog in Gaza, reageerde het Israëlische leiderschap
+      snel om het voorstel te steunen. Premier Benjamin Netanyahu sloot zich publiekelijk
+      aan bij het kader en beweerde dat het aan de meeste van zijn strategische doelstellingen
+      tegemoet kwam. Maar wat heeft Israël werkelijk gewonnen met deze ?manoeuv ers
+      voor e en staakt-het-vuren? En wat gaat er schuil achter de scherme n erwijl Israël
+      zijn steun voor het akkoord bevestigt, gaan de luchtaanvallen en artilleriebeschietingen
+      in Gaza gewoon door. De intensiteit is weliswaar afgenomen, maar er vallen nog
+      steeds dagelijks tientallen burgerslachtoffers. Over de definitieve voorwaarden
+      van het akkoord wordt nog onderhandeld in Caïro, waar bemiddelaars uit onder meer
+      Egypte, Qatar en de VS moeite hebben om tot overeenstemming te komen over de interpretatie
+      ervan. Wat tot nu toe naar voren is gekomen, wijst erop dat Israël vooral politieke
+      en strategische voordelen heeft behaald, en niet zozeer humanitaire. Een staakt-het-vuren
+      in dienst van de macht Trump heeft zichzelf gepositioneerd als garant voor het
+      akkoord en heeft het kader aangepast aan de eisen van Israël. Netanyahu juichte
+      dit toe: een Amerikaanse president die bereid is de diplomatieke last te dragen
+      en internationale veroordelingen te temperen. Met Trump aan het roer krijgt Israël
+      legitimiteit voor zijn acties in Gaza en een partner die zijn taal van “veiligheid
+      eerst” spreekt. Door deze afstemming tussen de VS en Israël kan Netanyahu in eigen
+      land beweren dat Israël op eigen voorwaarden voor diplomatie heeft gekozen, en
+      niet onder druk. Internationaal kan Israël zich hierdoor profileren als een constructieve
+      speler in een door de VS geleide vredesinspanning, in plaats van als een schurkenstaat.
+      Subscribe Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Na de onthulling van een 20-puntenplan door Donald Trump om
+      de oorlog in Gaza te beëindigen, toonde Israël's leiderschap steun voor het voorstel,
+      terwijl de luchtaanvallen en beschietingen in Gaza doorgingen, wat vragen oproept
+      over de werkelijke voordelen voor Israël en de voortgang van de onderhandelingen
+      in Caïro.
+    paragraph_summary: President Donald Trump's announcement of a 20-point plan to end
+      the war in Gaza received swift support from Israeli leadership, particularly from
+      Prime Minister Benjamin Netanyahu, who claimed it aligned with Israel's strategic
+      goals. However, despite this endorsement, Israeli airstrikes and artillery fire
+      in Gaza continue, resulting in daily civilian casualties, albeit at a reduced
+      intensity. Negotiations regarding the plan's final terms are ongoing in Cairo,
+      with mediators from Egypt, Qatar, and the U.S. struggling to reach a consensus.
+      The emerging consensus suggests that Israel has gained primarily political and
+      strategic advantages rather than humanitarian ones. Trump's positioning as a guarantor
+      of the agreement has allowed Israel to assert its diplomatic choices as voluntary
+      rather than coerced, enhancing its international image as a constructive participant
+      in U.S.-led peace efforts rather than a rogue state.
+    published: '2025-10-05T18:05:34+00:00'
+  - title: Wat heeft Israël werkelijk gewonnen met Trumps gok op een staakt-het-vuren
+    url: https://ejmagnier.com/2025/10/05/wat-heeft-israel-werkelijk-gewonnen-met-trumps-gok-op-een-staakt-het-vuren/
+    text: 'Tweet . Toen president Donald Trump een ingrijpend 20-puntenplan onthulde
+      om een einde te maken aan de oorlog in Gaza, reageerde het Israëlische leiderschap
+      snel om het voorstel te steunen. Premier Benjamin Netanyahu sloot zich publiekelijk
+      aan bij het kader en beweerde dat het aan de meeste van zijn strategische doelstellingen
+      tegemoet kwam. Maar wat heeft Israël werkelijk gewonnen met deze ?manoeuv ers
+      voor e en staakt-het-vuren? En wat gaat er schuil achter de scherme n erwijl Israël
+      zijn steun voor het akkoord bevestigt, gaan de luchtaanvallen en artilleriebeschietingen
+      in Gaza gewoon door. De intensiteit is weliswaar afgenomen, maar er vallen nog
+      steeds dagelijks tientallen burgerslachtoffers. Over de definitieve voorwaarden
+      van het akkoord wordt nog onderhandeld in Caïro, waar bemiddelaars uit onder meer
+      Egypte, Qatar en de VS moeite hebben om tot overeenstemming te komen over de interpretatie
+      ervan. Wat tot nu toe naar voren is gekomen, wijst erop dat Israël vooral politieke
+      en strategische voordelen heeft behaald, en niet zozeer humanitaire. Een staakt-het-vuren
+      in dienst van de macht Trump heeft zichzelf gepositioneerd als garant voor het
+      akkoord en heeft het kader aangepast aan de eisen van Israël. Netanyahu juichte
+      dit toe: een Amerikaanse president die bereid is de diplomatieke last te dragen
+      en internationale veroordelingen te temperen. Met Trump aan het roer krijgt Israël
+      legitimiteit voor zijn acties in Gaza en een partner die zijn taal van “veiligheid
+      eerst” spreekt. Door deze afstemming tussen de VS en Israël kan Netanyahu in eigen
+      land beweren dat Israël op eigen voorwaarden voor diplomatie heeft gekozen, en
+      niet onder druk. Internationaal kan Israël zich hierdoor profileren als een constructieve
+      speler in een door de VS geleide vredesinspanning, in plaats van als een schurkenstaat.
+      Subscribe Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Na de onthulling van een 20-puntenplan door Donald Trump om
+      de oorlog in Gaza te beëindigen, toonde Israël's leiderschap steun voor het voorstel,
+      terwijl de luchtaanvallen en beschietingen in Gaza doorgingen, wat vragen oproept
+      over de werkelijke voordelen voor Israël en de voortgang van de onderhandelingen
+      in Caïro.
+    paragraph_summary: President Donald Trump's announcement of a 20-point plan to end
+      the war in Gaza received swift support from Israeli leadership, particularly from
+      Prime Minister Benjamin Netanyahu, who claimed it aligned with Israel's strategic
+      goals. However, despite this endorsement, Israeli airstrikes and artillery fire
+      in Gaza continue, resulting in daily civilian casualties, albeit at a reduced
+      intensity. Negotiations regarding the plan's final terms are ongoing in Cairo,
+      with mediators from Egypt, Qatar, and the U.S. struggling to reach a consensus.
+      The emerging consensus suggests that Israel has gained primarily political and
+      strategic advantages rather than humanitarian ones. Trump's positioning as a guarantor
+      of the agreement has allowed Israel to assert its diplomatic choices as voluntary
+      rather than coerced, enhancing its international image as a constructive participant
+      in U.S.-led peace efforts rather than a rogue state.
+    published: '2025-10-05T18:05:34+00:00'
+  - title: 'Een vredesplan dat er geen is: hoe Netanyahu’s voorstel voor Gaza ervoor
+      zorgt dat Hamas het niet kan accepteren – of afwijzen'
+    url: https://ejmagnier.com/2025/10/04/een-vredesplan-dat-er-geen-is-hoe-netanyahus-voorstel-voor-gaza-ervoor-zorgt-dat-hamas-het-niet-kan-accepteren-of-afwijzen/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Toen Donald
+      Trump en Benjamin Netanyahu tijdens een gezamenlijke persconferentie hun ‘Uitgebreid
+      plan om een einde te maken aan het conflict in Gaza’ onthulden, noemden ze het
+      een historische routekaart naar vrede. Ze beloofden dat twintig punten een einde
+      zouden maken aan de oorlog, Gaza zouden herbouwen, gijzelaars zouden bevrijden
+      en een nieuw tijdperk van welvaart en coëxistentie zouden inluiden. Het werd gepresenteerd
+      als pragmatisch en humanitair – een plan waar geen enkele rationele actor zich
+      tegen zou kunnen verzetten. Maar als je de tekst goed leest, komt er een heel
+      ander verhaal naar voren. De twintig punten vormen geen vredesplan in de conventionele
+      zin van het woord. Ze zijn een blauwdruk voor een voorwaardelijke overgave, een
+      bestuurlijk kader om Gaza voor onbepaalde tijd te controleren onder het mom van
+      wederopbouw en ‘stabilisatie’. De formulering is vaag waar het er het meest toe
+      doet, alleen specifiek wanneer het verplichtingen oplegt aan de Palestijnse kant,
+      en zo gestructureerd dat het voor Hamas bijna onmogelijk is om het plan te aanvaarden
+      of te verwerpen zonder zijn eigen politieke lot te bezegelen. De meeste Israëli’s,
+      uitgeput door jaren van conflict, steunen het zogenaamde vredesplan – met als
+      opvallende uitzondering de extreemrechtse religieus-nationalistische facties die
+      elk idee van compromis afwijzen. Voor hen gaat deze oorlog niet om veiligheid
+      of afschrikking, maar om het bereiken van maximalistische ideologische doelen:
+      de etnische zuivering van de bevolking van Gaza, de volledige vernietiging van
+      de infrastructuur, de gedwongen verplaatsing van de bevolking naar Egypte of elders,
+      en uiteindelijk de bouw van Joodse nederzettingen op het vrijgemaakte land. Deze
+      doelstellingen gaan veel verder dan enige defensieve redenering. Ze vertegenwoordigen
+      een langdurig koloniaal project dat nu verhuld is in de taal van “veiligheidsimperatieven”.
+      Voor Benjamin Netanyahu dient het plan echter een andere, meer berekende agenda.
+      Het sluit precies aan bij de vier strategische doelstellingen die hij stelde toen
+      hij in oktober 2023 de oorlog begon: voor eens en voor altijd een einde maken
+      aan het bewind van Hamas; een permanente bufferzone creëren in Gaza om elk toekomstig
+      gewapend verzet te neutraliseren; de vrijlating van alle Israëlische gijzelaars
+      veiligstellen en de lichamen van de doden terugkrijgen; en het bestuur van Gaza
+      uitbesteden aan een internationale instantie, waardoor Israël de enorme politieke,
+      juridische en militaire kosten van directe bezetting bespaard blijven. De herhaalde
+      uitstel van een definitieve aanval op Gaza-stad door Israël – algemeen beschouwd
+      als opzettelijke pauzes om ruimte te creëren voor diplomatieke manoeuvres – onderstreept
+      deze berekening. Zelfs de stafchef, Eyal Zamir, uitte openlijk zijn bezorgdheid
+      over het vooruitzicht van een bezetting van Gaza met zijn 2,3 miljoen inwoners,
+      wetende dat een dergelijke bezetting jaren van opstand en eindeloze Israëlische
+      slachtoffers zou betekenen. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Het 'Uitgebreid plan om een einde te maken aan het conflict
+      in Gaza', gepresenteerd door Donald Trump en Benjamin Netanyahu als een historische
+      routekaart naar vrede, blijkt in werkelijkheid een blauwdruk voor een voorwaardelijke
+      overgave en langdurige controle over Gaza te zijn, in plaats van een echt vredesplan.
+    paragraph_summary: Tijdens een gezamenlijke persconferentie onthulden Donald Trump
+      en Benjamin Netanyahu een 'uitgebreid plan' om het conflict in Gaza te beëindigen,
+      dat ze als een historische routekaart naar vrede presenteerden. Het plan, bestaande
+      uit twintig punten, werd gepresenteerd als een pragmatische en humanitaire oplossing,
+      maar bij nadere inspectie blijkt het een blauwdruk voor een voorwaardelijke overgave
+      te zijn, die de controle over Gaza onder het mom van wederopbouw en stabilisatie
+      legitimeert. De formuleringen zijn vaag waar ze het meest relevant zijn en specifiek
+      wanneer ze verplichtingen aan de Palestijnen opleggen, waardoor het voor Hamas
+      bijna onmogelijk is om het plan te accepteren of te verwerpen zonder politieke
+      gevolgen. Terwijl de meeste Israëli's, uitgeput door het conflict, het plan steunen,
+      verzetten extreemrechtse groepen zich tegen elk compromis, met als doel een maximalistisch
+      ideologisch project dat verder gaat dan defensieve overwegingen en gericht is
+      op de etnische zuivering van Gaza en de bouw van Joodse nederzettingen.
+    published: '2025-10-04T04:46:44+00:00'
+  - title: 'Een vredesplan dat er geen is: hoe Netanyahu’s voorstel voor Gaza ervoor
+      zorgt dat Hamas het niet kan accepteren – of afwijzen'
+    url: https://ejmagnier.com/2025/10/04/een-vredesplan-dat-er-geen-is-hoe-netanyahus-voorstel-voor-gaza-ervoor-zorgt-dat-hamas-het-niet-kan-accepteren-of-afwijzen/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Toen Donald
+      Trump en Benjamin Netanyahu tijdens een gezamenlijke persconferentie hun ‘Uitgebreid
+      plan om een einde te maken aan het conflict in Gaza’ onthulden, noemden ze het
+      een historische routekaart naar vrede. Ze beloofden dat twintig punten een einde
+      zouden maken aan de oorlog, Gaza zouden herbouwen, gijzelaars zouden bevrijden
+      en een nieuw tijdperk van welvaart en coëxistentie zouden inluiden. Het werd gepresenteerd
+      als pragmatisch en humanitair – een plan waar geen enkele rationele actor zich
+      tegen zou kunnen verzetten. Maar als je de tekst goed leest, komt er een heel
+      ander verhaal naar voren. De twintig punten vormen geen vredesplan in de conventionele
+      zin van het woord. Ze zijn een blauwdruk voor een voorwaardelijke overgave, een
+      bestuurlijk kader om Gaza voor onbepaalde tijd te controleren onder het mom van
+      wederopbouw en ‘stabilisatie’. De formulering is vaag waar het er het meest toe
+      doet, alleen specifiek wanneer het verplichtingen oplegt aan de Palestijnse kant,
+      en zo gestructureerd dat het voor Hamas bijna onmogelijk is om het plan te aanvaarden
+      of te verwerpen zonder zijn eigen politieke lot te bezegelen. De meeste Israëli’s,
+      uitgeput door jaren van conflict, steunen het zogenaamde vredesplan – met als
+      opvallende uitzondering de extreemrechtse religieus-nationalistische facties die
+      elk idee van compromis afwijzen. Voor hen gaat deze oorlog niet om veiligheid
+      of afschrikking, maar om het bereiken van maximalistische ideologische doelen:
+      de etnische zuivering van de bevolking van Gaza, de volledige vernietiging van
+      de infrastructuur, de gedwongen verplaatsing van de bevolking naar Egypte of elders,
+      en uiteindelijk de bouw van Joodse nederzettingen op het vrijgemaakte land. Deze
+      doelstellingen gaan veel verder dan enige defensieve redenering. Ze vertegenwoordigen
+      een langdurig koloniaal project dat nu verhuld is in de taal van “veiligheidsimperatieven”.
+      Voor Benjamin Netanyahu dient het plan echter een andere, meer berekende agenda.
+      Het sluit precies aan bij de vier strategische doelstellingen die hij stelde toen
+      hij in oktober 2023 de oorlog begon: voor eens en voor altijd een einde maken
+      aan het bewind van Hamas; een permanente bufferzone creëren in Gaza om elk toekomstig
+      gewapend verzet te neutraliseren; de vrijlating van alle Israëlische gijzelaars
+      veiligstellen en de lichamen van de doden terugkrijgen; en het bestuur van Gaza
+      uitbesteden aan een internationale instantie, waardoor Israël de enorme politieke,
+      juridische en militaire kosten van directe bezetting bespaard blijven. De herhaalde
+      uitstel van een definitieve aanval op Gaza-stad door Israël – algemeen beschouwd
+      als opzettelijke pauzes om ruimte te creëren voor diplomatieke manoeuvres – onderstreept
+      deze berekening. Zelfs de stafchef, Eyal Zamir, uitte openlijk zijn bezorgdheid
+      over het vooruitzicht van een bezetting van Gaza met zijn 2,3 miljoen inwoners,
+      wetende dat een dergelijke bezetting jaren van opstand en eindeloze Israëlische
+      slachtoffers zou betekenen. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Het 'Uitgebreid plan om een einde te maken aan het conflict
+      in Gaza', gepresenteerd door Donald Trump en Benjamin Netanyahu als een historische
+      routekaart naar vrede, blijkt in werkelijkheid een blauwdruk voor een voorwaardelijke
+      overgave en langdurige controle over Gaza te zijn, in plaats van een echt vredesplan.
+    paragraph_summary: Tijdens een gezamenlijke persconferentie onthulden Donald Trump
+      en Benjamin Netanyahu een 'uitgebreid plan' om het conflict in Gaza te beëindigen,
+      dat ze als een historische routekaart naar vrede presenteerden. Het plan, bestaande
+      uit twintig punten, werd gepresenteerd als een pragmatische en humanitaire oplossing,
+      maar bij nadere inspectie blijkt het een blauwdruk voor een voorwaardelijke overgave
+      te zijn, die de controle over Gaza onder het mom van wederopbouw en stabilisatie
+      legitimeert. De formuleringen zijn vaag waar ze het meest relevant zijn en specifiek
+      wanneer ze verplichtingen aan de Palestijnen opleggen, waardoor het voor Hamas
+      bijna onmogelijk is om het plan te accepteren of te verwerpen zonder politieke
+      gevolgen. Terwijl de meeste Israëli's, uitgeput door het conflict, het plan steunen,
+      verzetten extreemrechtse groepen zich tegen elk compromis, met als doel een maximalistisch
+      ideologisch project dat verder gaat dan defensieve overwegingen en gericht is
+      op de etnische zuivering van Gaza en de bouw van Joodse nederzettingen.
+    published: '2025-10-04T04:46:44+00:00'
+  - title: 'Un « plan de paix » qui n’en est pas un : comment la proposition de Netanyahu
+      sur Gaza empêche le Hamas de l’accepter — ou de la rejeter'
+    url: https://ejmagnier.com/2025/10/02/un-plan-de-paix-qui-nen-est-pas-un-comment-la-proposition-de-netanyahu-sur-gaza-empeche-le-hamas-de-laccepter-ou-de-la-rejeter/
+    text: 'Tweet Par Elijah J. Magnier Lorsque Donald Trump et Benyamin Netanyahu ont
+      dévoilé leur « Plan global pour mettre fin au conflit de Gaza » lors d’une conférence
+      de presse conjointe, ils l’ont présenté comme une feuille de route historique
+      vers la paix. Vingt points, promettaient-ils, mettraient fin à la guerre, reconstruiraient
+      Gaza, libéreraient les otages et inaugureraient une nouvelle ère de prospérité
+      et de coexistence. Le tout était cadré comme pragmatique et humanitaire — un plan
+      qu’aucun acteur rationnel ne pourrait refuser. Mais une lecture attentive du texte
+      raconte une histoire bien différente. Les 20 points ne constituent pas un plan
+      de paix au sens classique. Ils dessinent un schéma de reddition conditionnelle,
+      un cadre de gestion destiné à contrôler Gaza indéfiniment sous couvert de reconstruction
+      et de « stabilisation ». Leur langage est vague là où l’essentiel se joue, précis
+      uniquement lorsqu’il impose des obligations à la partie palestinienne, et structuré
+      de telle sorte qu’il devient presque impossible pour le Hamas soit d’accepter,
+      soit de rejeter, sans sceller son propre destin politique. La plupart des Israéliens,
+      épuisés par des années de conflit, soutiennent le prétendu plan de paix — à l’exception
+      notable des factions national-religieuses d’extrême droite qui rejettent toute
+      idée de compromis. Pour celles-ci, cette guerre ne concerne ni la sécurité ni
+      la dissuasion, mais la poursuite d’objectifs idéologiques maximalistes : le nettoyage
+      ethnique de la population de Gaza, la destruction complète de ses infrastructures,
+      le déplacement forcé de ses habitants vers l’Égypte ou ailleurs, et l’éventuelle
+      construction de colonies juives sur les terres vidées. Ces visées dépassent largement
+      toute justification défensive. Elles relèvent d’un projet colonial de peuplement
+      de longue date désormais drapé dans le langage des « impératifs de sécurité ».
+      Pour Benyamin Netanyahu, cependant, le plan sert une autre stratégie, plus calculée.
+      Il s’aligne précisément sur les quatre objectifs stratégiques qu’il a fixés au
+      lancement de la guerre en octobre 2023 : mettre fin une fois pour toutes au pouvoir
+      du Hamas ; créer une zone tampon permanente à l’intérieur de Gaza pour neutraliser
+      toute future résistance armée ; obtenir la libération de tous les otages israéliens
+      et la restitution des corps des morts ; et externaliser l’administration de Gaza
+      à une entité internationale afin d’épargner à Israël les coûts politiques, juridiques
+      et militaires énormes d’une occupation directe. Les reports répétés de l’assaut
+      final contre la ville de Gaza — largement présentés comme des pauses délibérées
+      afin de laisser place aux manœuvres diplomatiques — confirment ce calcul. Même
+      le chef d’état-major, Eyal Zamir, a publiquement exprimé son inquiétude face à
+      la perspective d’occuper Gaza et ses 2,3 millions d’habitants, sachant qu’une
+      telle occupation signifierait des années d’insurrection et des pertes israéliennes
+      sans fin. Le plan est aussi politiquement commode pour Netanyahu. Ses empreintes
+      sont visibles dans tout le texte, des clauses sécuritaires floues aux omissions
+      soigneusement choisies. En le présentant publiquement comme le « plan de Trump
+      », il cherche à restaurer une légitimité internationale érodée par deux ans d’accusations
+      grandissantes de crimes de guerre, crimes contre l’humanité et génocide. Ce rebranding
+      est tactique : il permet à Netanyahu de requalifier Israël non plus comme un État
+      voyou sous le feu des critiques mondiales, mais comme un partenaire d’une initiative
+      de paix menée par les États-Unis. À ses yeux, le plan pourrait inverser l’isolement
+      diplomatique d’Israël et obtenir un soutien renouvelé de capitales occidentales
+      et de partenaires régionaux qui se sont progressivement distanciés de son gouvernement.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Le plan présenté par Donald Trump et Benyamin Netanyahu pour
+      mettre fin au conflit à Gaza, bien qu'annoncé comme une feuille de route vers
+      la paix, se révèle en réalité être un schéma de reddition conditionnelle visant
+      à contrôler Gaza sous prétexte de reconstruction et de stabilisation.
+    paragraph_summary: Lors d'une conférence de presse conjointe, Donald Trump et Benyamin
+      Netanyahu ont présenté leur "Plan global pour mettre fin au conflit de Gaza" comme
+      une feuille de route historique vers la paix, promettant de mettre fin à la guerre,
+      de reconstruire Gaza et de libérer les otages. Cependant, une analyse approfondie
+      révèle que les 20 points du plan ne constituent pas un véritable accord de paix,
+      mais plutôt un schéma de reddition conditionnelle visant à contrôler Gaza sous
+      le prétexte de reconstruction et de stabilisation. Le plan impose des obligations
+      strictes à la partie palestinienne tout en laissant des zones vagues, rendant
+      difficile son acceptation ou son rejet par le Hamas sans conséquences politiques
+      graves. Bien que la majorité des Israéliens, fatigués par le conflit, soutiennent
+      ce plan, les factions national-religieuses d'extrême droite le rejettent, poursuivant
+      des objectifs idéologiques extrêmes tels que le nettoyage ethnique et la colonisation.
+      Pour Netanyahu, ce plan s'inscrit dans une stratégie plus large, masquant des
+      ambitions coloniales sous le couvert de la sécurité.
+    published: '2025-10-02T17:38:51+00:00'
+  - title: 'Un « plan de paix » qui n’en est pas un : comment la proposition de Netanyahu
+      sur Gaza empêche le Hamas de l’accepter — ou de la rejeter'
+    url: https://ejmagnier.com/2025/10/02/un-plan-de-paix-qui-nen-est-pas-un-comment-la-proposition-de-netanyahu-sur-gaza-empeche-le-hamas-de-laccepter-ou-de-la-rejeter/
+    text: 'Tweet Par Elijah J. Magnier Lorsque Donald Trump et Benyamin Netanyahu ont
+      dévoilé leur « Plan global pour mettre fin au conflit de Gaza » lors d’une conférence
+      de presse conjointe, ils l’ont présenté comme une feuille de route historique
+      vers la paix. Vingt points, promettaient-ils, mettraient fin à la guerre, reconstruiraient
+      Gaza, libéreraient les otages et inaugureraient une nouvelle ère de prospérité
+      et de coexistence. Le tout était cadré comme pragmatique et humanitaire — un plan
+      qu’aucun acteur rationnel ne pourrait refuser. Mais une lecture attentive du texte
+      raconte une histoire bien différente. Les 20 points ne constituent pas un plan
+      de paix au sens classique. Ils dessinent un schéma de reddition conditionnelle,
+      un cadre de gestion destiné à contrôler Gaza indéfiniment sous couvert de reconstruction
+      et de « stabilisation ». Leur langage est vague là où l’essentiel se joue, précis
+      uniquement lorsqu’il impose des obligations à la partie palestinienne, et structuré
+      de telle sorte qu’il devient presque impossible pour le Hamas soit d’accepter,
+      soit de rejeter, sans sceller son propre destin politique. La plupart des Israéliens,
+      épuisés par des années de conflit, soutiennent le prétendu plan de paix — à l’exception
+      notable des factions national-religieuses d’extrême droite qui rejettent toute
+      idée de compromis. Pour celles-ci, cette guerre ne concerne ni la sécurité ni
+      la dissuasion, mais la poursuite d’objectifs idéologiques maximalistes : le nettoyage
+      ethnique de la population de Gaza, la destruction complète de ses infrastructures,
+      le déplacement forcé de ses habitants vers l’Égypte ou ailleurs, et l’éventuelle
+      construction de colonies juives sur les terres vidées. Ces visées dépassent largement
+      toute justification défensive. Elles relèvent d’un projet colonial de peuplement
+      de longue date désormais drapé dans le langage des « impératifs de sécurité ».
+      Pour Benyamin Netanyahu, cependant, le plan sert une autre stratégie, plus calculée.
+      Il s’aligne précisément sur les quatre objectifs stratégiques qu’il a fixés au
+      lancement de la guerre en octobre 2023 : mettre fin une fois pour toutes au pouvoir
+      du Hamas ; créer une zone tampon permanente à l’intérieur de Gaza pour neutraliser
+      toute future résistance armée ; obtenir la libération de tous les otages israéliens
+      et la restitution des corps des morts ; et externaliser l’administration de Gaza
+      à une entité internationale afin d’épargner à Israël les coûts politiques, juridiques
+      et militaires énormes d’une occupation directe. Les reports répétés de l’assaut
+      final contre la ville de Gaza — largement présentés comme des pauses délibérées
+      afin de laisser place aux manœuvres diplomatiques — confirment ce calcul. Même
+      le chef d’état-major, Eyal Zamir, a publiquement exprimé son inquiétude face à
+      la perspective d’occuper Gaza et ses 2,3 millions d’habitants, sachant qu’une
+      telle occupation signifierait des années d’insurrection et des pertes israéliennes
+      sans fin. Le plan est aussi politiquement commode pour Netanyahu. Ses empreintes
+      sont visibles dans tout le texte, des clauses sécuritaires floues aux omissions
+      soigneusement choisies. En le présentant publiquement comme le « plan de Trump
+      », il cherche à restaurer une légitimité internationale érodée par deux ans d’accusations
+      grandissantes de crimes de guerre, crimes contre l’humanité et génocide. Ce rebranding
+      est tactique : il permet à Netanyahu de requalifier Israël non plus comme un État
+      voyou sous le feu des critiques mondiales, mais comme un partenaire d’une initiative
+      de paix menée par les États-Unis. À ses yeux, le plan pourrait inverser l’isolement
+      diplomatique d’Israël et obtenir un soutien renouvelé de capitales occidentales
+      et de partenaires régionaux qui se sont progressivement distanciés de son gouvernement.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Le plan présenté par Donald Trump et Benyamin Netanyahu pour
+      mettre fin au conflit à Gaza, bien qu'annoncé comme une feuille de route vers
+      la paix, se révèle en réalité être un schéma de reddition conditionnelle visant
+      à contrôler Gaza sous prétexte de reconstruction et de stabilisation.
+    paragraph_summary: Lors d'une conférence de presse conjointe, Donald Trump et Benyamin
+      Netanyahu ont présenté leur "Plan global pour mettre fin au conflit de Gaza" comme
+      une feuille de route historique vers la paix, promettant de mettre fin à la guerre,
+      de reconstruire Gaza et de libérer les otages. Cependant, une analyse approfondie
+      révèle que les 20 points du plan ne constituent pas un véritable accord de paix,
+      mais plutôt un schéma de reddition conditionnelle visant à contrôler Gaza sous
+      le prétexte de reconstruction et de stabilisation. Le plan impose des obligations
+      strictes à la partie palestinienne tout en laissant des zones vagues, rendant
+      difficile son acceptation ou son rejet par le Hamas sans conséquences politiques
+      graves. Bien que la majorité des Israéliens, fatigués par le conflit, soutiennent
+      ce plan, les factions national-religieuses d'extrême droite le rejettent, poursuivant
+      des objectifs idéologiques extrêmes tels que le nettoyage ethnique et la colonisation.
+      Pour Netanyahu, ce plan s'inscrit dans une stratégie plus large, masquant des
+      ambitions coloniales sous le couvert de la sécurité.
+    published: '2025-10-02T17:38:51+00:00'
+  - title: 'A Peace Plan That Isn’t: How Netanyahu’s Gaza Proposal Ensures Hamas Can’t
+      Accept — or Reject — It'
+    url: https://ejmagnier.com/2025/10/02/a-peace-plan-that-isnt-how-netanyahus-gaza-proposal-ensures-hamas-cant-accept-or-reject-it/
+    text: 'Tweet By Elijah J. Magnier – When Donald Trump and Benjamin Netanyahu unveiled
+      their “Comprehensive Plan to End the Gaza Conflict” in a joint press conference,
+      they billed it as a historic roadmap to peace. Twenty points, they promised, would
+      end the war, rebuild Gaza, release hostages, and usher in a new era of prosperity
+      and coexistence. It was framed as pragmatic and humanitarian — a plan that no
+      rational actor could oppose. But a close reading of the text tells a very different
+      story. The 20 points are not a peace plan in the conventional sense. They are
+      a blueprint for conditional surrender, a managerial framework to control Gaza
+      indefinitely under the guise of reconstruction and “stabilisation.” Their language
+      is vague where it matters most, specific only when it imposes obligations on the
+      Palestinian side, and structured in a way that makes it nearly impossible for
+      Hamas to either accept or reject without sealing its own political fate. Most
+      Israelis, exhausted by years of conflict, support the so-called peace plan — with
+      the notable exception of the far-right religious-nationalist factions who reject
+      any notion of compromise. For them, this war is not about security or deterrence
+      but about achieving maximalist ideological goals: the ethnic cleansing of Gaza’s
+      population, the complete destruction of its infrastructure, the forced displacement
+      of its people into Egypt or elsewhere, and the eventual construction of Jewish
+      settlements on the cleared land. These aims go far beyond any defensive rationale.
+      They represent a long-standing settler-colonial project now cloaked in the language
+      of “security imperatives.” For Benjamin Netanyahu, however, the plan serves a
+      different, more calculated agenda. It aligns precisely with the four strategic
+      objectives he set when launching the war in October 2023: ending Hamas rule once
+      and for all; creating a permanent buffer zone inside Gaza to neutralise any future
+      armed resistance; securing the release of all Israeli hostages and recovering
+      the bodies of the dead; and outsourcing Gaza’s administration to an international
+      body that would spare Israel the enormous political, legal, and military costs
+      of direct occupation. Israel’s repeated delays of a final assault on Gaza City
+      — widely reported as deliberate pauses to allow space for diplomatic manoeuvring
+      — underline this calculation. Even the chief of staff, Eyal Zamir, openly expressed
+      his concern about the prospect of occupying Gaza with its 2.3 million inhabitants,
+      knowing such an occupation would mean years of insurgency and unending Israeli
+      casualties. The plan is also politically convenient for Netanyahu. His fingerprints
+      are visible throughout the text, from its vague security clauses to its carefully
+      chosen omissions. By publicly presenting it as “Trump’s plan,” he aims to restore
+      the international legitimacy that has eroded over two years of mounting allegations
+      of war crimes, crimes against humanity, and genocide. The rebranding is tactical:
+      it allows Netanyahu to reframe Israel not as a rogue entity under global censure,
+      but as a partner in a US-led peace initiative. In his view, the plan could reverse
+      Israel’s diplomatic isolation and secure renewed support from Western capitals
+      and regional partners that have increasingly distanced themselves from his government.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: The "Comprehensive Plan to End the Gaza Conflict" presented
+      by Donald Trump and Benjamin Netanyahu is criticized as a deceptive framework
+      for conditional surrender rather than a genuine peace initiative, imposing obligations
+      on Palestinians while offering vague promises of reconstruction and stability.
+    paragraph_summary: In a recent joint press conference, Donald Trump and Benjamin
+      Netanyahu presented their "Comprehensive Plan to End the Gaza Conflict," which
+      they claimed would lead to peace and reconstruction in Gaza through twenty outlined
+      points. However, a closer examination reveals that the plan functions more as
+      a framework for the conditional surrender of Gaza, designed to maintain control
+      over the region while imposing strict obligations on the Palestinian side, making
+      acceptance or rejection politically perilous for Hamas. While many Israelis support
+      the plan, particularly those weary of ongoing conflict, far-right factions oppose
+      any compromise, pursuing maximalist goals that include ethnic cleansing and the
+      establishment of Jewish settlements. Netanyahu's agenda aligns with his strategic
+      objectives of eliminating Hamas, creating a buffer zone, and ensuring the release
+      of Israeli hostages, all framed under the guise of security and humanitarianism.
+    published: '2025-10-02T17:29:04+00:00'
+  - title: 'A Peace Plan That Isn’t: How Netanyahu’s Gaza Proposal Ensures Hamas Can’t
+      Accept — or Reject — It'
+    url: https://ejmagnier.com/2025/10/02/a-peace-plan-that-isnt-how-netanyahus-gaza-proposal-ensures-hamas-cant-accept-or-reject-it/
+    text: 'Tweet By Elijah J. Magnier – When Donald Trump and Benjamin Netanyahu unveiled
+      their “Comprehensive Plan to End the Gaza Conflict” in a joint press conference,
+      they billed it as a historic roadmap to peace. Twenty points, they promised, would
+      end the war, rebuild Gaza, release hostages, and usher in a new era of prosperity
+      and coexistence. It was framed as pragmatic and humanitarian — a plan that no
+      rational actor could oppose. But a close reading of the text tells a very different
+      story. The 20 points are not a peace plan in the conventional sense. They are
+      a blueprint for conditional surrender, a managerial framework to control Gaza
+      indefinitely under the guise of reconstruction and “stabilisation.” Their language
+      is vague where it matters most, specific only when it imposes obligations on the
+      Palestinian side, and structured in a way that makes it nearly impossible for
+      Hamas to either accept or reject without sealing its own political fate. Most
+      Israelis, exhausted by years of conflict, support the so-called peace plan — with
+      the notable exception of the far-right religious-nationalist factions who reject
+      any notion of compromise. For them, this war is not about security or deterrence
+      but about achieving maximalist ideological goals: the ethnic cleansing of Gaza’s
+      population, the complete destruction of its infrastructure, the forced displacement
+      of its people into Egypt or elsewhere, and the eventual construction of Jewish
+      settlements on the cleared land. These aims go far beyond any defensive rationale.
+      They represent a long-standing settler-colonial project now cloaked in the language
+      of “security imperatives.” For Benjamin Netanyahu, however, the plan serves a
+      different, more calculated agenda. It aligns precisely with the four strategic
+      objectives he set when launching the war in October 2023: ending Hamas rule once
+      and for all; creating a permanent buffer zone inside Gaza to neutralise any future
+      armed resistance; securing the release of all Israeli hostages and recovering
+      the bodies of the dead; and outsourcing Gaza’s administration to an international
+      body that would spare Israel the enormous political, legal, and military costs
+      of direct occupation. Israel’s repeated delays of a final assault on Gaza City
+      — widely reported as deliberate pauses to allow space for diplomatic manoeuvring
+      — underline this calculation. Even the chief of staff, Eyal Zamir, openly expressed
+      his concern about the prospect of occupying Gaza with its 2.3 million inhabitants,
+      knowing such an occupation would mean years of insurgency and unending Israeli
+      casualties. The plan is also politically convenient for Netanyahu. His fingerprints
+      are visible throughout the text, from its vague security clauses to its carefully
+      chosen omissions. By publicly presenting it as “Trump’s plan,” he aims to restore
+      the international legitimacy that has eroded over two years of mounting allegations
+      of war crimes, crimes against humanity, and genocide. The rebranding is tactical:
+      it allows Netanyahu to reframe Israel not as a rogue entity under global censure,
+      but as a partner in a US-led peace initiative. In his view, the plan could reverse
+      Israel’s diplomatic isolation and secure renewed support from Western capitals
+      and regional partners that have increasingly distanced themselves from his government.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: The "Comprehensive Plan to End the Gaza Conflict" presented
+      by Donald Trump and Benjamin Netanyahu is criticized as a deceptive framework
+      for conditional surrender rather than a genuine peace initiative, imposing obligations
+      on Palestinians while offering vague promises of reconstruction and stability.
+    paragraph_summary: In a recent joint press conference, Donald Trump and Benjamin
+      Netanyahu presented their "Comprehensive Plan to End the Gaza Conflict," which
+      they claimed would lead to peace and reconstruction in Gaza through twenty outlined
+      points. However, a closer examination reveals that the plan functions more as
+      a framework for the conditional surrender of Gaza, designed to maintain control
+      over the region while imposing strict obligations on the Palestinian side, making
+      acceptance or rejection politically perilous for Hamas. While many Israelis support
+      the plan, particularly those weary of ongoing conflict, far-right factions oppose
+      any compromise, pursuing maximalist goals that include ethnic cleansing and the
+      establishment of Jewish settlements. Netanyahu's agenda aligns with his strategic
+      objectives of eliminating Hamas, creating a buffer zone, and ensuring the release
+      of Israeli hostages, all framed under the guise of security and humanitarianism.
+    published: '2025-10-02T17:29:04+00:00'
+  - title: 'Ein Friedensplan, der keiner ist: Wie Netanjahus Gaza-Vorschlag sicherstellt,
+      dass die Hamas ihn weder annehmen noch ablehnen kann'
+    url: https://ejmagnier.com/2025/10/02/ein-friedensplan-der-keiner-ist-wie-netanjahus-gaza-vorschlag-sicherstellt-dass-die-hamas-ihn-weder-annehmen-noch-ablehnen-kann/
+    text: 'Tweet Von Elijah J. Magnier – Als Donald Trump und Benjamin Netanjahu ihren
+      „Umfassenden Plan zur Beendigung des Gaza-Konflikts” in einer gemeinsamen Pressekonferenz
+      vorstellten, bezeichneten sie ihn als historischen Fahrplan zum Frieden. Sie versprachen,
+      dass zwanzig Punkte den Krieg beenden, Gaza wiederaufbauen, Geiseln befreien und
+      eine neue Ära des Wohlstands und der Koexistenz einläuten würden. Der Plan wurde
+      als pragmatisch und humanitär dargestellt – ein Plan, dem kein vernünftiger Akteur
+      widersprechen könnte. Bei genauerer Betrachtung des Textes ergibt sich jedoch
+      ein ganz anderes Bild. Die 20 Punkte sind kein Friedensplan im herkömmlichen Sinne.
+      Sie sind ein Entwurf für eine bedingte Kapitulation, ein Verwaltungsrahmen, um
+      Gaza unter dem Deckmantel des Wiederaufbaus und der „Stabilisierung” auf unbestimmte
+      Zeit zu kontrollieren. Ihre Formulierungen sind dort vage, wo es am wichtigsten
+      ist, konkret nur dann, wenn sie der palästinensischen Seite Verpflichtungen auferlegen,
+      und so strukturiert, dass es für die Hamas fast unmöglich ist, sie anzunehmen
+      oder abzulehnen, ohne ihr eigenes politisches Schicksal zu besiegeln. Die meisten
+      Israelis, erschöpft von jahrelangen Konflikten, unterstützen den sogenannten Friedensplan
+      – mit der bemerkenswerten Ausnahme der rechtsextremen religiös-nationalistischen
+      Fraktionen, die jede Form von Kompromiss ablehnen. Für sie geht es in diesem Krieg
+      nicht um Sicherheit oder Abschreckung, sondern um die Verwirklichung maximalistischer
+      ideologischer Ziele: die ethnische Säuberung der Bevölkerung Gazas, die vollständige
+      Zerstörung seiner Infrastruktur, die Zwangsumsiedlung seiner Bevölkerung nach
+      Ägypten oder anderswohin und schließlich der Bau jüdischer Siedlungen auf dem
+      geräumten Land. Diese Ziele gehen weit über jede defensive Logik hinaus. Sie stehen
+      für ein seit langem bestehendes Siedlerkolonialprojekt, das nun mit dem Begriff
+      „Sicherheitsimperative” verschleiert wird. Für Benjamin Netanjahu dient der Plan
+      jedoch einer anderen, kalkulierten Agenda. Er entspricht genau den vier strategischen
+      Zielen, die er bei Beginn des Krieges im Oktober 2023 festgelegt hat: die Herrschaft
+      der Hamas ein für alle Mal zu beenden; eine permanente Pufferzone innerhalb Gazas
+      zu schaffen, um jeden zukünftigen bewaffneten Widerstand zu neutralisieren; die
+      Freilassung aller israelischen Geiseln zu erreichen und die Leichen der Toten
+      zu bergen; und die Verwaltung Gazas an eine internationale Organisation auszulagern,
+      um Israel die enormen politischen, rechtlichen und militärischen Kosten einer
+      direkten Besetzung zu ersparen. Die wiederholten Verzögerungen Israels bei einem
+      endgültigen Angriff auf Gaza-Stadt – weithin als bewusste Pausen berichtet, um
+      Raum für diplomatische Manöver zu schaffen – unterstreichen diese Kalkulation.
+      Selbst der Stabschef Eyal Zamir äußerte offen seine Besorgnis über die Aussicht
+      auf eine Besetzung des Gazastreifens mit seinen 2,3 Millionen Einwohnern, da er
+      wusste, dass eine solche Besetzung Jahre des Aufstands und endlose israelische
+      Opfer bedeuten würde. Der Plan ist für Netanjahu auch politisch günstig. Seine
+      Handschrift ist im gesamten Text erkennbar, von den vagen Sicherheitsklauseln
+      bis hin zu den sorgfältig ausgewählten Auslassungen. Indem er ihn öffentlich als
+      „Trumps Plan“ präsentiert, will er die internationale Legitimität wiederherstellen,
+      die durch zwei Jahre zunehmender Vorwürfe von Kriegsverbrechen, Verbrechen gegen
+      die Menschlichkeit und Völkermord untergraben wurde. Die Umbenennung ist taktisch:
+      Sie ermöglicht es Netanjahu, Israel nicht als eine von der Weltöffentlichkeit
+      geächtete Schurkenstaat darzustellen, sondern als Partner in einer von den USA
+      geführten Friedensinitiative. Seiner Ansicht nach könnte der Plan die diplomatische
+      Isolation Israels umkehren und die erneute Unterstützung westlicher Hauptstädte
+      und regionaler Partner sichern, die sich zunehmend von seiner Regierung distanziert
+      haben. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Der von Donald Trump und Benjamin Netanjahu präsentierte „Umfassende
+      Plan zur Beendigung des Gaza-Konflikts“ wird als vermeintlicher Friedensplan dargestellt,
+      entpuppt sich jedoch bei genauerer Betrachtung als ein Entwurf zur bedingten Kapitulation
+      und Kontrolle Gazas unter dem Vorwand des Wiederaufbaus.
+    paragraph_summary: In einer gemeinsamen Pressekonferenz präsentierten Donald Trump
+      und Benjamin Netanjahu ihren „Umfassenden Plan zur Beendigung des Gaza-Konflikts“,
+      den sie als historischen Friedensfahrplan bezeichneten, der den Krieg beenden
+      und eine neue Ära des Wohlstands einleiten sollte. Bei näherer Betrachtung entpuppt
+      sich der Plan jedoch als ein Entwurf für eine bedingte Kapitulation, der darauf
+      abzielt, Gaza unter dem Vorwand des Wiederaufbaus und der Stabilisierung langfristig
+      zu kontrollieren. Die Formulierungen sind vage, wo es wichtig wäre, und konkret,
+      wenn es um Verpflichtungen für die Palästinenser geht, was es der Hamas nahezu
+      unmöglich macht, den Plan anzunehmen oder abzulehnen, ohne ihre politische Zukunft
+      zu gefährden. Während die meisten Israelis, müde von den Konflikten, den Plan
+      unterstützen, lehnen rechtsextreme religiös-nationalistische Fraktionen Kompromisse
+      ab und verfolgen maximalistische Ziele, die über Sicherheitsinteressen hinausgehen
+      und ein koloniales Projekt zur ethnischen Säuberung und Zwangsumsiedlung der Gazabewohner
+      beinhalten.
+    published: '2025-10-02T17:25:38+00:00'
+  - title: 'Ein Friedensplan, der keiner ist: Wie Netanjahus Gaza-Vorschlag sicherstellt,
+      dass die Hamas ihn weder annehmen noch ablehnen kann'
+    url: https://ejmagnier.com/2025/10/02/ein-friedensplan-der-keiner-ist-wie-netanjahus-gaza-vorschlag-sicherstellt-dass-die-hamas-ihn-weder-annehmen-noch-ablehnen-kann/
+    text: 'Tweet Von Elijah J. Magnier – Als Donald Trump und Benjamin Netanjahu ihren
+      „Umfassenden Plan zur Beendigung des Gaza-Konflikts” in einer gemeinsamen Pressekonferenz
+      vorstellten, bezeichneten sie ihn als historischen Fahrplan zum Frieden. Sie versprachen,
+      dass zwanzig Punkte den Krieg beenden, Gaza wiederaufbauen, Geiseln befreien und
+      eine neue Ära des Wohlstands und der Koexistenz einläuten würden. Der Plan wurde
+      als pragmatisch und humanitär dargestellt – ein Plan, dem kein vernünftiger Akteur
+      widersprechen könnte. Bei genauerer Betrachtung des Textes ergibt sich jedoch
+      ein ganz anderes Bild. Die 20 Punkte sind kein Friedensplan im herkömmlichen Sinne.
+      Sie sind ein Entwurf für eine bedingte Kapitulation, ein Verwaltungsrahmen, um
+      Gaza unter dem Deckmantel des Wiederaufbaus und der „Stabilisierung” auf unbestimmte
+      Zeit zu kontrollieren. Ihre Formulierungen sind dort vage, wo es am wichtigsten
+      ist, konkret nur dann, wenn sie der palästinensischen Seite Verpflichtungen auferlegen,
+      und so strukturiert, dass es für die Hamas fast unmöglich ist, sie anzunehmen
+      oder abzulehnen, ohne ihr eigenes politisches Schicksal zu besiegeln. Die meisten
+      Israelis, erschöpft von jahrelangen Konflikten, unterstützen den sogenannten Friedensplan
+      – mit der bemerkenswerten Ausnahme der rechtsextremen religiös-nationalistischen
+      Fraktionen, die jede Form von Kompromiss ablehnen. Für sie geht es in diesem Krieg
+      nicht um Sicherheit oder Abschreckung, sondern um die Verwirklichung maximalistischer
+      ideologischer Ziele: die ethnische Säuberung der Bevölkerung Gazas, die vollständige
+      Zerstörung seiner Infrastruktur, die Zwangsumsiedlung seiner Bevölkerung nach
+      Ägypten oder anderswohin und schließlich der Bau jüdischer Siedlungen auf dem
+      geräumten Land. Diese Ziele gehen weit über jede defensive Logik hinaus. Sie stehen
+      für ein seit langem bestehendes Siedlerkolonialprojekt, das nun mit dem Begriff
+      „Sicherheitsimperative” verschleiert wird. Für Benjamin Netanjahu dient der Plan
+      jedoch einer anderen, kalkulierten Agenda. Er entspricht genau den vier strategischen
+      Zielen, die er bei Beginn des Krieges im Oktober 2023 festgelegt hat: die Herrschaft
+      der Hamas ein für alle Mal zu beenden; eine permanente Pufferzone innerhalb Gazas
+      zu schaffen, um jeden zukünftigen bewaffneten Widerstand zu neutralisieren; die
+      Freilassung aller israelischen Geiseln zu erreichen und die Leichen der Toten
+      zu bergen; und die Verwaltung Gazas an eine internationale Organisation auszulagern,
+      um Israel die enormen politischen, rechtlichen und militärischen Kosten einer
+      direkten Besetzung zu ersparen. Die wiederholten Verzögerungen Israels bei einem
+      endgültigen Angriff auf Gaza-Stadt – weithin als bewusste Pausen berichtet, um
+      Raum für diplomatische Manöver zu schaffen – unterstreichen diese Kalkulation.
+      Selbst der Stabschef Eyal Zamir äußerte offen seine Besorgnis über die Aussicht
+      auf eine Besetzung des Gazastreifens mit seinen 2,3 Millionen Einwohnern, da er
+      wusste, dass eine solche Besetzung Jahre des Aufstands und endlose israelische
+      Opfer bedeuten würde. Der Plan ist für Netanjahu auch politisch günstig. Seine
+      Handschrift ist im gesamten Text erkennbar, von den vagen Sicherheitsklauseln
+      bis hin zu den sorgfältig ausgewählten Auslassungen. Indem er ihn öffentlich als
+      „Trumps Plan“ präsentiert, will er die internationale Legitimität wiederherstellen,
+      die durch zwei Jahre zunehmender Vorwürfe von Kriegsverbrechen, Verbrechen gegen
+      die Menschlichkeit und Völkermord untergraben wurde. Die Umbenennung ist taktisch:
+      Sie ermöglicht es Netanjahu, Israel nicht als eine von der Weltöffentlichkeit
+      geächtete Schurkenstaat darzustellen, sondern als Partner in einer von den USA
+      geführten Friedensinitiative. Seiner Ansicht nach könnte der Plan die diplomatische
+      Isolation Israels umkehren und die erneute Unterstützung westlicher Hauptstädte
+      und regionaler Partner sichern, die sich zunehmend von seiner Regierung distanziert
+      haben. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Der von Donald Trump und Benjamin Netanjahu präsentierte „Umfassende
+      Plan zur Beendigung des Gaza-Konflikts“ wird als vermeintlicher Friedensplan dargestellt,
+      entpuppt sich jedoch bei genauerer Betrachtung als ein Entwurf zur bedingten Kapitulation
+      und Kontrolle Gazas unter dem Vorwand des Wiederaufbaus.
+    paragraph_summary: In einer gemeinsamen Pressekonferenz präsentierten Donald Trump
+      und Benjamin Netanjahu ihren „Umfassenden Plan zur Beendigung des Gaza-Konflikts“,
+      den sie als historischen Friedensfahrplan bezeichneten, der den Krieg beenden
+      und eine neue Ära des Wohlstands einleiten sollte. Bei näherer Betrachtung entpuppt
+      sich der Plan jedoch als ein Entwurf für eine bedingte Kapitulation, der darauf
+      abzielt, Gaza unter dem Vorwand des Wiederaufbaus und der Stabilisierung langfristig
+      zu kontrollieren. Die Formulierungen sind vage, wo es wichtig wäre, und konkret,
+      wenn es um Verpflichtungen für die Palästinenser geht, was es der Hamas nahezu
+      unmöglich macht, den Plan anzunehmen oder abzulehnen, ohne ihre politische Zukunft
+      zu gefährden. Während die meisten Israelis, müde von den Konflikten, den Plan
+      unterstützen, lehnen rechtsextreme religiös-nationalistische Fraktionen Kompromisse
+      ab und verfolgen maximalistische Ziele, die über Sicherheitsinteressen hinausgehen
+      und ein koloniales Projekt zur ethnischen Säuberung und Zwangsumsiedlung der Gazabewohner
+      beinhalten.
+    published: '2025-10-02T17:25:38+00:00'
   - title: 'Iran under UN Sanctions: What are the US conditions – and how is Europe
       the Biggest Loser'
     url: https://ejmagnier.com/2025/09/29/iran-under-un-sanctions-what-are-the-us-conditions-and-how-is-europe-the-biggest-loser/
