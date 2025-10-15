@@ -7,17 +7,166 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  The geopolitical landscape continues to be shaped by intensifying Israeli influence operations, both within Western media and in international intelligence affairs. Recent developments underscore a deepening entanglement between powerful media ownership, intelligence agencies, and pro-Israel advocacy, with significant implications for public discourse and policy.
+  Tensions in the Middle East and the ongoing fallout from high-profile political scandals continue to shape the geopolitical landscape as of October 15, 2025. The past 24 hours have seen new revelations about covert military operations, information warfare, and the deepening influence of intelligence agencies in Western politics.
   
-  The most notable new revelation centers on billionaire **David Ellison**, who recently acquired control of Paramount and CBS News. According to leaked documents cited by **Max Blumenthal**, Ellison and his father were solicited by a former top Israeli general to fund digital paramilitary operations targeting pro-Palestine activists in the US. The documents detail a strategy of “increased guerrilla tactics” in the digital sphere, raising concerns about the use of major media platforms to advance pro-Israel agendas and surveil American citizens. This marks a significant escalation in the blending of private capital, media influence, and foreign intelligence objectives.
+  The most significant development is the confirmation that a secretive U.S.-built Israeli military command center, located beneath a Tel Aviv tower, was directly struck by Iranian ballistic missiles. **Max Blumenthal** reports that Israeli authorities have imposed a media blackout around the site, underscoring the sensitivity and potential impact of the attack. This strike marks a dramatic escalation in the shadow war between Iran and Israel, with the targeting of such a high-value, previously undisclosed facility signaling Tehran’s growing intelligence capabilities and willingness to challenge Israeli and U.S. assets directly. Given the scale and precision of the attack, there is a high chance of further Iranian actions if Israeli or U.S. responses escalate, and I guarantee that regional tensions will remain elevated in the coming weeks.
   
-  Meanwhile, the legacy of Israeli intelligence operations in Europe has come under renewed scrutiny. A veteran journalist revealed that Mossad had early contact with the group responsible for the kidnapping and murder of Italian Prime Minister Aldo Moro. As **Blumenthal** reports, this disclosure highlights Italy’s transformation into what he calls a US-Israeli “aircraft carrier,” suggesting a long-standing pattern of covert manipulation and alliance-building in Europe.
+  In a separate but related arena, the information war surrounding the Ukraine conflict has taken a new turn. **Max Blumenthal** details how Pekka Kallioniemi, a prominent pro-Ukraine “disinfo expert,” has been discredited after allegedly promoting forged KGB documents to smear journalist David Pugliese as a Russian spy. This revelation has led to potential legal consequences for Kallioniemi and has further undermined the credibility of Western information operations. The exposure of such tactics is likely to fuel skepticism about official narratives and could embolden critics of the Ukraine proxy war. There is a high chance that similar scandals will emerge, further eroding trust in Western-aligned disinformation watchdogs.
   
-  These revelations come amid ongoing fallout from the assassination of US conservative activist Charlie Kirk. Previous reports detailed how Kirk’s rejection of Israeli funding offers and his outspoken criticism of Israeli influence led to his isolation and fear prior to his death, with major donors and political allies distancing themselves under pressure from pro-Israel factions.
-  
-  **Trends and Predictions:**  
-  The convergence of media ownership, intelligence operations, and advocacy campaigns is likely to intensify, with high confidence that major Western news outlets will face increasing scrutiny over their editorial independence and susceptibility to foreign influence. The exposure of digital paramilitary strategies signals a new phase in information warfare, targeting dissent and shaping narratives on Israel-Palestine issues. Given the historical precedents and current trajectory, I guarantee that these operations will continue to expand, particularly as geopolitical tensions in the Middle East remain high and Western governments maintain close alignment with Israeli interests.
+  Looking at broader trends, the intersection of intelligence operations, media influence, and political lobbying continues to be a defining feature of the current geopolitical climate. The recent Iranian strike and the ongoing information warfare both highlight the increasing use of unconventional tactics by state and non-state actors. Most definitely, these dynamics will drive further instability and unpredictability in international relations, with a high chance of more covert actions and information leaks shaping public perception and policy decisions in the near future.
 articles:
+  - title: Secret Israeli military bunker located under Tel Aviv tower struck by Iran,
+      analysis shows
+    url: https://thegrayzone.com/2025/10/13/secret-israeli-military-bunker-located-under-tel-aviv-tower-struck-by-iran-analysis-shows/
+    text: The Grayzone has geolocated the underground bunker of an important military
+      command and control center nestled within a densely populated Tel Aviv neighborhood.
+      Known as ‘Site 81,’ the U.S.-built facility houses a hyper-secretive intelligence
+      base. When Iran struck a series of targets in the heart of north Tel Aviv with
+      ballistic missiles on June 13, Israeli authorities immediately cordoned off the
+      area to prevent journalists from filming the damage. “The building on this compound
+      was just hit,” Trey Yingst of […] The post Secret Israeli military bunker located
+      under Tel Aviv tower struck by Iran, analysis shows first appeared on The Grayzone
+      . The post Secret Israeli military bunker located under Tel Aviv tower struck
+      by Iran, analysis shows appeared first on The Grayzone .
+    one_sentence_summary: The Grayzone has identified the location of a secretive U.S.-built
+      military command center in Tel Aviv, which was struck by Iranian ballistic missiles,
+      leading Israeli authorities to restrict media access to the area.
+    paragraph_summary: The Grayzone has identified the location of a covert military
+      command and control center, referred to as 'Site 81,' situated in a densely populated
+      area of Tel Aviv. This U.S.-constructed facility is known to host a highly classified
+      intelligence base. Following an Iranian missile attack on June 13 that targeted
+      northern Tel Aviv, Israeli authorities quickly restricted access to the area to
+      prevent media coverage of the damage, highlighting the strategic significance
+      of the site and the sensitive nature of the operations conducted there.
+    published: '2025-10-13T21:17:04+00:00'
+  - title: Secret Israeli military bunker located under Tel Aviv tower struck by Iran,
+      analysis shows
+    url: https://thegrayzone.com/2025/10/13/secret-israeli-military-bunker-located-under-tel-aviv-tower-struck-by-iran-analysis-shows/
+    text: The Grayzone has geolocated the underground bunker of an important military
+      command and control center nestled within a densely populated Tel Aviv neighborhood.
+      Known as ‘Site 81,’ the U.S.-built facility houses a hyper-secretive intelligence
+      base. When Iran struck a series of targets in the heart of north Tel Aviv with
+      ballistic missiles on June 13, Israeli authorities immediately cordoned off the
+      area to prevent journalists from filming the damage. “The building on this compound
+      was just hit,” Trey Yingst of […] The post Secret Israeli military bunker located
+      under Tel Aviv tower struck by Iran, analysis shows first appeared on The Grayzone
+      . The post Secret Israeli military bunker located under Tel Aviv tower struck
+      by Iran, analysis shows appeared first on The Grayzone .
+    one_sentence_summary: The Grayzone has identified the location of a secretive U.S.-built
+      military command center in Tel Aviv, which was struck by Iranian ballistic missiles,
+      leading Israeli authorities to restrict media access to the area.
+    paragraph_summary: The Grayzone has identified the location of a covert military
+      command and control center, referred to as 'Site 81,' situated in a densely populated
+      area of Tel Aviv. This U.S.-constructed facility is known to host a highly classified
+      intelligence base. Following an Iranian missile attack on June 13 that targeted
+      northern Tel Aviv, Israeli authorities quickly restricted access to the area to
+      prevent media coverage of the damage, highlighting the strategic significance
+      of the site and the sensitive nature of the operations conducted there.
+    published: '2025-10-13T21:17:04+00:00'
+  - title: 'Pekka-philia: disgraced porn profiteer turned pro-Ukraine ‘disinfo expert’
+      could face legal action'
+    url: https://thegrayzone.com/2025/10/13/pekka-child-profiteer-ukraine-disinfo/
+    text: 'Faux disinformation expert Pekka Kallioniemi gained notoriety by smearing
+      critics of the Ukraine proxy war. Since being unmasked for peddling pornographic
+      representations of minors, Kallioniemi has been caught promoting fraudulent KGB
+      documents to slander a journalist as a Russian spy. In October 2024, mainstream
+      Canadian defense journalist David Pugliese suffered “the political equivalent
+      of a drive-by shooting,” according to a local publication called The Walrus. Citing
+      alleged KGB documents, a prominent lawmaker accused Pugliese of being a longstanding
+      Soviet/Russian spy […] The post Pekka-philia: disgraced porn profiteer turned
+      pro-Ukraine ‘disinfo expert’ could face legal action first appeared on The Grayzone
+      . The post Pekka-philia: disgraced porn profiteer turned pro-Ukraine ‘disinfo
+      expert’ could face legal action appeared first on The Grayzone .'
+    one_sentence_summary: Pekka Kallioniemi, a discredited disinformation expert known
+      for attacking critics of the Ukraine proxy war, has faced backlash after being
+      exposed for promoting fraudulent KGB documents to falsely label journalist David
+      Pugliese as a Russian spy, leading to potential legal consequences.
+    paragraph_summary: Pekka Kallioniemi, a disinformation expert known for attacking
+      critics of the Ukraine proxy war, has faced backlash after being exposed for distributing
+      pornographic images of minors and promoting fake KGB documents to label journalist
+      David Pugliese as a Russian spy. In October 2024, Pugliese was publicly accused
+      by a prominent lawmaker, leading to significant damage to his reputation, described
+      by a local publication as akin to a "political drive-by shooting." Kallioniemi's
+      actions have raised concerns about potential legal repercussions as he continues
+      to operate in the realm of disinformation.
+    published: '2025-10-13T18:58:51+00:00'
+  - title: 'Pekka-philia: disgraced porn profiteer turned pro-Ukraine ‘disinfo expert’
+      could face legal action'
+    url: https://thegrayzone.com/2025/10/13/pekka-child-profiteer-ukraine-disinfo/
+    text: 'Faux disinformation expert Pekka Kallioniemi gained notoriety by smearing
+      critics of the Ukraine proxy war. Since being unmasked for peddling pornographic
+      representations of minors, Kallioniemi has been caught promoting fraudulent KGB
+      documents to slander a journalist as a Russian spy. In October 2024, mainstream
+      Canadian defense journalist David Pugliese suffered “the political equivalent
+      of a drive-by shooting,” according to a local publication called The Walrus. Citing
+      alleged KGB documents, a prominent lawmaker accused Pugliese of being a longstanding
+      Soviet/Russian spy […] The post Pekka-philia: disgraced porn profiteer turned
+      pro-Ukraine ‘disinfo expert’ could face legal action first appeared on The Grayzone
+      . The post Pekka-philia: disgraced porn profiteer turned pro-Ukraine ‘disinfo
+      expert’ could face legal action appeared first on The Grayzone .'
+    one_sentence_summary: Pekka Kallioniemi, a discredited disinformation expert known
+      for attacking critics of the Ukraine proxy war, has faced backlash after being
+      exposed for promoting fraudulent KGB documents to falsely label journalist David
+      Pugliese as a Russian spy, leading to potential legal consequences.
+    paragraph_summary: Pekka Kallioniemi, a disinformation expert known for attacking
+      critics of the Ukraine proxy war, has faced backlash after being exposed for distributing
+      pornographic images of minors and promoting fake KGB documents to label journalist
+      David Pugliese as a Russian spy. In October 2024, Pugliese was publicly accused
+      by a prominent lawmaker, leading to significant damage to his reputation, described
+      by a local publication as akin to a "political drive-by shooting." Kallioniemi's
+      actions have raised concerns about potential legal repercussions as he continues
+      to operate in the realm of disinformation.
+    published: '2025-10-13T18:58:51+00:00'
+  - title: Samantha Power secretly colluded with Israel to enhance UN role, leaked emails
+      show
+    url: https://thegrayzone.com/2025/10/09/sam-power-colluded-israel-committees/
+    text: Behind closed doors, the noted ‘humanitarian interventionist’ successfully
+      lobbied for Israel’s inclusion on important UN committees even after the Human
+      Rights Council accused it of targeting civilians in Gaza. The leaked emails also
+      reveal that Israel furnished Power with a dodgy dossier on Syrian chemical weapons
+      as she pushed regime change in Damascus. Former US ambassador to the United Nations
+      Samantha Power secretly coordinated with a top Israeli diplomat to secure Israel’s
+      access to multiple prestigious UN committees, leaked files […] The post Samantha
+      Power secretly colluded with Israel to enhance UN role, leaked emails show first
+      appeared on The Grayzone . The post Samantha Power secretly colluded with Israel
+      to enhance UN role, leaked emails show appeared first on The Grayzone .
+    one_sentence_summary: Leaked emails reveal that former US ambassador to the UN Samantha
+      Power secretly collaborated with an Israeli diplomat to secure Israel's inclusion
+      on key UN committees, despite accusations of civilian targeting in Gaza, while
+      also receiving questionable intelligence on Syrian chemical weapons.
+    paragraph_summary: Leaked emails reveal that former US ambassador to the United
+      Nations, Samantha Power, engaged in secret lobbying efforts to secure Israel's
+      inclusion on key UN committees, despite the Human Rights Council's accusations
+      of Israel targeting civilians in Gaza. The correspondence also indicates that
+      Power received questionable intelligence from Israel regarding Syrian chemical
+      weapons while advocating for regime change in Syria, highlighting her collaboration
+      with a senior Israeli diplomat to bolster Israel's standing within the UN.
+    published: '2025-10-09T20:34:59+00:00'
+  - title: Samantha Power secretly colluded with Israel to enhance UN role, leaked emails
+      show
+    url: https://thegrayzone.com/2025/10/09/sam-power-colluded-israel-committees/
+    text: Behind closed doors, the noted ‘humanitarian interventionist’ successfully
+      lobbied for Israel’s inclusion on important UN committees even after the Human
+      Rights Council accused it of targeting civilians in Gaza. The leaked emails also
+      reveal that Israel furnished Power with a dodgy dossier on Syrian chemical weapons
+      as she pushed regime change in Damascus. Former US ambassador to the United Nations
+      Samantha Power secretly coordinated with a top Israeli diplomat to secure Israel’s
+      access to multiple prestigious UN committees, leaked files […] The post Samantha
+      Power secretly colluded with Israel to enhance UN role, leaked emails show first
+      appeared on The Grayzone . The post Samantha Power secretly colluded with Israel
+      to enhance UN role, leaked emails show appeared first on The Grayzone .
+    one_sentence_summary: Leaked emails reveal that former US ambassador to the UN Samantha
+      Power secretly collaborated with an Israeli diplomat to secure Israel's inclusion
+      on key UN committees, despite accusations of civilian targeting in Gaza, while
+      also receiving questionable intelligence on Syrian chemical weapons.
+    paragraph_summary: Leaked emails reveal that former US ambassador to the United
+      Nations, Samantha Power, engaged in secret lobbying efforts to secure Israel's
+      inclusion on key UN committees, despite the Human Rights Council's accusations
+      of Israel targeting civilians in Gaza. The correspondence also indicates that
+      Power received questionable intelligence from Israel regarding Syrian chemical
+      weapons while advocating for regime change in Syria, highlighting her collaboration
+      with a senior Israeli diplomat to bolster Israel's standing within the UN.
+    published: '2025-10-09T20:34:59+00:00'
   - title: New CBS owner David Ellison met with top Israeli general in scheme to spy
       on Americans
     url: https://thegrayzone.com/2025/10/06/cbs-owner-israeli-general-spy-americans/

@@ -7,18 +7,373 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  Tensions in the Middle East and the shifting dynamics of Western alliances continue to dominate the geopolitical landscape, with recent developments underscoring persistent instability and growing international scrutiny.
+  As geopolitical tensions persist across multiple regions, recent developments highlight deepening crises in both the Middle East and the domestic politics of Western democracies. The latest independent analyses reveal a convergence of international condemnation, contested reforms, and shifting alliances.
   
-  The most significant new development is the unveiling of President Trump’s Gaza peace proposal, which, as **Binoy Kampmark** notes, “emphasizes Israeli dominance over Palestinian affairs while proposing a temporary governance structure for Gaza and a significant role for an International Stabilisation Force.” The plan has been met with skepticism from both Israeli hardliners and Palestinian factions, raising doubts about its viability. While Netanyahu has found “reasons for optimism,” the proposal’s emphasis on Israeli control and the ambiguous status of Palestinian self-determination have fueled criticism and further entrenched divisions.
+  The most significant new development is the **United Nations Independent International Commission of Inquiry’s** finding that Israel is responsible for genocide in Gaza, as detailed by **Binoy Kampmark**. The report accuses Israel of violating four out of five elements of the 1948 Genocide Convention, calling for accountability and an immediate end to violence. This finding has amplified international pressure on Israel and its allies, and is likely to intensify calls for sanctions and legal action at the International Criminal Court. According to **Kampmark**, “the clarity of the Commission’s conclusions leaves little room for diplomatic ambiguity.” There is a high chance that this will further isolate Israel diplomatically and complicate US and EU support for its actions in Gaza.
   
-  Meanwhile, fallout continues from the United Nations Independent International Commission of Inquiry’s recent finding that Israel is responsible for genocide in Gaza. The Commission’s report, as previously detailed, accuses Israel of violating four out of five elements of the 1948 Genocide Convention. This has intensified calls for accountability and an end to violence, with international pressure mounting on Israel to alter its military and political strategies in Gaza.
+  Meanwhile, in the UK, the Labour government under Sir Keir Starmer faces mounting internal dissent and public dissatisfaction, despite its landslide victory in 2024. **Kampmark** notes that Starmer’s leadership is now “marked by internal dissent, declining public support, and the rising threat of Nigel Farage’s Reform UK Party.” The prospect of a leadership challenge is quite likely, with Starmer’s position increasingly precarious as the party struggles to maintain unity and respond to public concerns.
   
-  On the intelligence front, the United Kingdom’s MI6 has launched “Silent Courier,” a dark web platform inspired by WikiLeaks for recruiting agents and gathering sensitive information. **Binoy Kampmark** highlights this as a significant shift towards technological solutions in intelligence operations, but warns of “the inherent risks and challenges associated with such methods,” particularly regarding operational security and the potential for counterintelligence threats.
+  In Australia, the governance of universities remains under scrutiny, with recent critiques focusing on the disconnect between highly paid executives and the needs of students and staff. Proposed reforms are met with skepticism regarding their ability to address systemic issues of transparency and accountability. **Kampmark** expresses doubt that these measures will result in meaningful change, suggesting that entrenched interests will likely resist substantive reform.
   
-  Looking ahead, the majority of analysts agree that the Trump peace plan is unlikely to achieve a durable resolution, given entrenched opposition and the lack of trust among key stakeholders. There is a high chance that international scrutiny of Israel’s actions in Gaza will increase, especially as legal and humanitarian concerns gain traction in global forums. The adoption of new intelligence-gathering technologies is quite likely to accelerate, but will bring new vulnerabilities and ethical dilemmas for Western agencies.
-  
-  In summary, the region remains locked in a cycle of contested initiatives and international condemnation, with little sign of substantive progress toward peace. The prevailing trend is toward further polarization and technological escalation, with a high chance of continued instability in the months ahead.
+  Looking ahead, the trend is toward increased polarization and instability in both international and domestic arenas. The UN’s findings on Gaza are most definitely set to escalate diplomatic tensions and legal battles, while the UK’s Labour government faces a high chance of internal upheaval. In Australia, institutional inertia is expected to persist, with only incremental changes likely in the near term. The majority of analysts agree that the coming months will be marked by heightened scrutiny of state actions and growing demands for accountability.
 articles:
+  - title: 'The Shock of the Obvious: Australia’s University Oligarchs'
+    url: https://www.counterpunch.org/2025/10/14/the-shock-of-the-obvious-australias-university-oligarchs/
+    text: 'It’s always comforting to hear politicians reveal wisdoms and novel notions
+      long known to those who vote for them. This tendency endears the dim rascals to
+      you, showing an ignorance that remains, for the most part, unblemished. If we
+      get democracy, as H. L. Mencken would put it, we are going to get it most deservingly
+      hard. But that hardness will be veiled in fully fledged ignorance.
+
+
+      The issue of how universities in Australia are governed is a case in point. A
+      system corrupt, riven and sundered by rapacious bureaucratic arrangements, governed
+      by a smug white collar criminal class that deserves abomination and execration,
+      finally made it to Australia’s parliament for scrutiny. Politicians were made
+      aware of a deep rot in higher education. They seemed shocked by the obvious.
+
+
+      The interim report by the Senate Education and Employment Legislation Committee
+      at least serves to point the finger at a particular administrative stratum that
+      blights university education in the country. The words of the chair, Labor Senator
+      Marielle Smith, should shock and disgust: “Universities are public institutions,
+      established for the public good. Their governance arrangements, and the remuneration
+      of their senior executives, should reflect that – yet we’ve heard that more than
+      300 university executives earn more than their state premiers.” Senator Smith
+      would seem to have been born yesterday.
+
+
+      The theme through the report follows the same beat of revelation. The committee
+      finds itself transfixed by the idea of a “gap” or “gaps” between subsidised managers
+      on the one hand, and the exploited students and work horse staff on the other.
+      (The words appear no fewer than 23 times in the report.) “The gap between universities’
+      perceptions of their governance processes and the experiences described by university
+      staff and students was striking.” Here, we have a glaring problem of terminology.
+      The first stems from the plodding administrators who have appropriated the term
+      and convinced those in Canberra that they are somehow part of an ancient lineage
+      of teaching and learning. The university staff and students are, by definition,
+      not the university. A true triumph of the marketer’s dark art.
+
+
+      There is also “a gap between policy and practice” with regards “matters of transparency
+      and the management of conflicts of interest across multiple universities.” Those
+      submitting reports to the inquiry were particularly concerned “about the transparency
+      of council decision-making and university finances (including the use of consultants),
+      as well as the handling of freedom of information (FOI) requests by universities.”
+
+
+      The submission by the University Chancellors Council, for its part, was coy. The
+      committee noted “one allusion to problems in the sector”. The words of the UCC
+      are hardly worth recounting, except to identify culpability. And the culpable
+      always claim to be credible when found out: “Robust systems of governance, while
+      an antidote to failure in process, are not infallible and UCC is committed to
+      continuous improvement in governance systems.” No sycophantic hack could have
+      said it better.
+
+
+      The problems of the Australian tertiary system are profound. The committee received
+      evidence from staff and students showing their near inconsequential role in the
+      making of decisions of the university before the autocratic whims of University
+      Councils. The corollary of such inconsequentiality lay in those 306 university
+      executives with Himalayan salaries who have proliferated like fungi in moist climes.
+      The committee specifically noted a submission by Dr. Lionel Page, who remarked
+      that the number of senior management positions at Australian universities between
+      1997 and 2017 “increased by over 110 per cent, while middle management roles grew
+      by 122 per cent.” The pool of support staff, however, dried up by 70 per cent
+      over the same period.
+
+
+      University vice-chancellors earn more money than Cabinet ministers, the Prime
+      Minister and the Premiers of state. Ditto the fat clutch of acquisitive deputy
+      executives with nebulous titles who have little to do with classrooms, teaching
+      and research. To put it into context: political representatives can send people
+      to their deaths, declare wars and emergencies and be voted out on relatively lower
+      levels of remuneration; the supposed magistrates of education can, on a fatter
+      package, enact dreadful policies with impunity and never fear a collective vote
+      of the university body that might terminate their tenure.
+
+
+      Things would not be quite so ghastly were some of the administrators capable.
+      We know this not to be the case. These tertiary education plodders are a formidable
+      example of the Peter Principle in grim action, one expounded in the book by that
+      name in 1969: those in any organisational hierarchy rise to levels of “respective
+      incompetence”. What we see in place is an oligarchy of oafs.
+
+
+      How, then, does the report address this problem? The twelve recommendations include
+      improvements to transparency and accountability (for instance, publishing the
+      minutes of all council meetings and publicly disclosing the expenses for consultants,
+      along with reasons for hiring them); greater involvement of staff and students
+      in “meaningful consultation” before the making of important decisions; ensuring
+      that governing bodies have a minimum proportion of elected representatives and
+      those with “public administration and higher education expertise”; and giving
+      the otherwise benign Tertiary Education Quality and Standards Agency (TEQSA) necessary
+      powers to investigate breaches of the Higher Education Standards Framework and
+      enforce compliance.
+
+
+      The fourth recommendation by the committee urges the Australian government to
+      work with the Remuneration Tribunal and states and territories to create a mechanism
+      that will assess the appropriate salaries for vice-chancellors and senior executives.
+      Unfortunately, the report still approves of university councils setting that remuneration
+      within the devised classification. History shows that university councils, unless
+      they are utterly reformed, cannot be trusted with such a task.
+
+
+      In her response to the interim report, the unchallenging Alison Barnes of the
+      National Tertiary Education Union, more comatose inducing than threatening to
+      university managers, approved something her organisation could do more about.
+      “We strongly welcome the committee’s recommendations to boost transparency, cap
+      vice-chancellor salaries, reform university councils, and strengthen the regulatory
+      TEQSA.”
+
+
+      The report, now written, risks suffering the lonely fate of others. The vice-chancellors
+      and senior executives will drag their feet and ensure that change will be glacially
+      slow, preferably non-existent. In the absence of regulations with true bite and
+      an anti-corruption body with specific expertise on the wily, venal nature of the
+      modern university, ideas for reform will suffer withering neglect.'
+    one_sentence_summary: The article critiques the governance of Australian universities,
+      highlighting the disconnect between high-paid executives and the needs of students
+      and staff, while expressing skepticism about the effectiveness of proposed reforms
+      to address systemic issues of transparency and accountability.
+    paragraph_summary: The article critiques the governance of Australian universities,
+      highlighting a significant disconnect between the administrative elite and the
+      students and staff they serve. It discusses a recent interim report by the Senate
+      Education and Employment Legislation Committee, which reveals alarming disparities
+      in salaries between university executives and public officials, as well as a troubling
+      lack of transparency and accountability in decision-making processes. The report
+      emphasizes the need for reforms, including greater involvement of staff and students,
+      improved governance structures, and a review of executive pay. However, the author
+      expresses skepticism about the likelihood of meaningful change, suggesting that
+      entrenched interests among university leaders will resist reform efforts, leaving
+      the systemic issues unaddressed.
+    published: '2025-10-14T05:54:07+00:00'
+  - title: 'The Factory of Perceptions: Starmer’s Woes and Media Magnification'
+    url: https://www.counterpunch.org/2025/10/13/the-factory-of-perceptions-starmers-woes-and-media-magnification/
+    text: 'Few in history can have achieved so much in a negative sense in so short
+      a time. Instead of gloatingly cresting the wave of success after securing British
+      Labour a resounding, decisive victory in July 2024, Sir Keir Starmer is schooling
+      us in precipitous decline. John Gray, that most erratic, protean of prophets,
+      was already suggesting last year that the prime minister and his party were overseeing
+      less “the rise of an all-powerful machine” than “another chapter in the story
+      of Britain’s failing state.” Not a week goes by without some sniping at the dull
+      technocrat’s limp performances from unnamed insiders or nipping from the party
+      hacks. And let’s not forget the parasitic media stable, always willing to magnify
+      matters in the factory of perceptions.
+
+
+      In fact, media magnification has done wonders to wither and sunder Starmer’s appeal,
+      which, in the scheme of things, wasn’t grand to begin with. Take this reading
+      of the situation from the BBC’s Laura Kuenssberg towards the end of last month.
+      “In the last few days I’ve spoken to 30 people across government and the party
+      – ministers, MPs, advisers – to try to work out, as the prime minister makes his
+      way to Labour’s annual party conference in Liverpool, how much trouble is he really
+      in?” In the tradition of true British journalism, not a single name is given of
+      the 30. But they all have opinions they wish to air – anonymously.
+
+
+      One source takes issue with Starmer’s judgment on people, which “has proven to
+      be flawed”, resulting in “endless staffing resets.” His judgment on policy is
+      also flawed. He can’t communicate. He remains unpopular “in the public’s eyes”
+      – whoever they are. Another “insider” offers his dollop of observation by suggesting
+      the PM is “too like a chairman, not a chief executive”. A “senior party figure”
+      damns Starmer for not thinking “like a leader”. One wonders how he has lasted
+      so far.
+
+
+      Such talk has invariably encouraged talk about a leadership challenge to Mr Stiffness.
+      The Mayor of Greater Manchester, Andy Burnham, has been as subtle as a sledgehammer
+      on his own parliamentary ambitions. (Angela Raynor had been the media’s appointed
+      potential challenger till her resignation as deputy prime minister and deputy
+      party leader over a financial scandal.) Those wishing to fill column space on
+      the theme of Starmer the Doomed also thought of another potential challenger:
+      the new home secretary Shabana Mahmood.
+
+
+      Much concern centres on Starmer’s seeming inability to douse the unruly flames
+      of nationalism sparked by Nigel Farage and his Reform UK Party. In keeping with
+      trends on the European continent, Reform is surging like a current of indignation,
+      threatening the dowdy political establishment with its often adventurous assessments
+      on crime and immigration. In May, Farage was aglow with favourable results in
+      a byelection, a mayoralty, and an electoral bag of 677 councillors from over 1,600
+      seats. On September 26, YouGov, using their multilevel regression and poststratification
+      (MRP) model, released a projection showing that Reform would net 311 seats were
+      an election to be held the next day, based on a sample of 13,000 voters. At the
+      start of October, The Guardian’s poll tracker had Reform polling at 31%, with
+      Labour languishing at 21%.
+
+
+      Certainly, such figures should be seen with alarm by the party psephologists,
+      not only in Labour, but by the Conservatives, who seemingly risk being outranked
+      as the major party of opposition. But British politics, so long caged by the First
+      Past the Post system, has a tendency to extinguish challenging upstarts and contenders,
+      leaving the less deserving establishment parties on the parliamentary benches.
+      Little is mentioned in the commentary on this fact.
+
+
+      At the Liverpool party conference, commentary from The Guardian picked up on “the
+      stony faces of cabinet ministers in the front show” as Starmer gave his speech
+      that supposedly postponed his fate (again, more media magnification). On this
+      occasion, his ailing fortunes had been given a tonic. He had delivered “a full-throated
+      defence of progressive values as the antidote to Reform, with no more equivocation.”
+      The paper rolled out the usual unnamed senior figures. “National renewal, patriotism,
+      clear dividing lines between us and the left and the right, aimed directly at
+      middle Britain,” came one assessment. A minister had noticed “an emotional connection”
+      in a speech of scrappiness and defiance, “which is always good when your back’s
+      to the wall.”
+
+
+      Starmer does have his defenders, but they have come from surprising company. There
+      is Fraser Nelson, former editor of the conservative weekly, The Spectator, who
+      has confronted Farage on spurious claims that Britain has become a lawless jungle
+      festering in rising criminal statistics. Fraser insists on something that Farage
+      and Reform UK are allergic to: cast iron evidence. The Crime Survey for England
+      and Wales is a source illuminatingly suggesting that the number of crimes has
+      fallen by four-fifths since 1995. Never mind, says Farage, it does not cover shoplifting,
+      and many people don’t bother to report crime anyway. Unfortunately for Starmer,
+      he has been put off his stroke when dealing with perceptions, which are being
+      all too readily moulded and packaged in the assembly line of fear that is Reform
+      UK. The Tories, while looking a rather sad, decrepit lot, are taking a pose they
+      have adopted at stages before: biding their time and awaiting their opponents
+      to fall.'
+    one_sentence_summary: Despite securing a significant victory for British Labour
+      in July 2024, Sir Keir Starmer's leadership is now marked by internal dissent,
+      declining public support, and the rising threat of Nigel Farage's Reform UK Party,
+      prompting speculation about potential leadership challenges and concerns over
+      Labour's future.
+    paragraph_summary: Sir Keir Starmer, the leader of the British Labour Party, is
+      facing significant challenges and declining popularity despite having secured
+      a decisive victory in July 2024. Critics, including unnamed insiders and media
+      commentators, have pointed to his flawed judgment on personnel and policy, lack
+      of effective communication, and inability to connect with the public. This has
+      led to speculation about potential leadership challenges, particularly from figures
+      like Andy Burnham and Shabana Mahmood. The rise of Nigel Farage's Reform UK Party,
+      which is gaining traction on issues like crime and immigration, poses a further
+      threat to Labour, as recent polls indicate Reform could outpace Labour in future
+      elections. While Starmer attempted to rally support at the Labour conference with
+      a passionate defense of progressive values, concerns remain about his leadership
+      effectiveness and the party's overall direction in a rapidly changing political
+      landscape.
+    published: '2025-10-13T05:54:53+00:00'
+  - title: 'Estranged Realities: Israel and the Global Sumud Flotilla'
+    url: https://www.counterpunch.org/2025/10/09/estranged-realities-israel-and-the-global-sumud-flotilla/
+    text: 'Showing that cloddishness that we have come to expect from them, Israel’s
+      detention of the activists on the Global Sumud Flotilla (GSF) was a coarse and
+      violent affair. Having been intercepted in international waters on route to Gaza
+      to break the Israeli-imposed blockade, the 470 or so activists, hailing from some
+      fifty countries travelling on 40 boats, were duly taken to the Ketziot prison
+      complex in the Negev desert in southern Israel. According to GSF, the endeavour
+      was intended to “break the illegal siege on Gaza by sea, open a humanitarian corridor,
+      and end the ongoing genocide of the Palestinian people.”
+
+
+      US activist David Adler, who was released and deported to Jordan on October 7,
+      issued an audio message shared with Al Jazeera through the advocacy group Progressive
+      International describing the events: “We were kidnapped, stripped, zip-tied, blindfolded
+      and sent to an internment camp on a police van without any access to food, to
+      water, to legal support.” His Jewishness, along with that of a fellow activist,
+      had been noted by the captors. “After interception, we were violently forced onto
+      our knees into positions of submission, where the two Jews of the flotilla were
+      taken by the ear and ripped from the group for a photo-op with [National Security
+      Minister Itamar] Ben-Gvir, staring at the flag of the State of Israel, taunted
+      by his goons.”
+
+
+      Over the course of five days, Adler endured “serial and systematic violations”
+      of basic human rights. At night, riot police accompanied by attack dogs would
+      raid the prison to strike fear into the interned activists.
+
+
+      Adler’s accounts received solid corroboration from other members of the flotilla.
+      Spanish lawyer Rafael Borrego, after arriving in Madrid, spoke of “repeated physical
+      and mental abuse”. The authorities “beat us, dragged us along the ground, blindfolded
+      us, tied our hands and feet, put us in cases and insulted us.” A statement to
+      Reuters from nine Swiss nationals referred to “inhumane detention conditions and
+      the humiliating and degrading treatment”.
+
+
+      Australians on the GSF referred to instances of kicking and slapping of detainees
+      by prison guards, the use of sleep deprivation techniques, the confiscation of
+      medication and instances of humiliation by being caged and bellowed at by “an
+      Israeli government minister” (Ben-Gvir could hardly resist the opportunity). Surya
+      McEwen recalls being “slapped, having his arm dislocated and having his head slammed
+      into the ground.”
+
+
+      Much attention was also focused on the celebrity activist, Greta Thunberg, who
+      was on her second outing. “I could talk for a very, very long time about our mistreatment
+      and abuses in our imprisonment, trust me, but that is not the story.” A report
+      from The Guardian noted her dehydration, the provision of “insufficient amounts
+      of both food and water”, the outbreak of rashes caused by bed bugs. She had also
+      been forced to hold and kiss the Israeli flag as images of her were taken.
+
+
+      Sweden’s Foreign Minister Maria Malmer Stenergard said in a statement to Swedish
+      news agency TT that she had “taken note of the reports of allegations of abusive
+      treatment. If the reports are true, this is very serious.”
+
+
+      The reaction from other countries has not been quite so explicit. Australian activists
+      on the GSF were less than impressed by the efforts of their diplomats, given the
+      relative lateness of their release and complaints of mistreatment. US activists
+      also received a cold response from their consular officials. Adler recalls being
+      told by the US general consul that, “We are not your babysitters. You’d have no
+      food, no water, no money, no phones, no planes.” US Ambassador to Israel, Mike
+      Huckabee, who gleefully accepts the distorted offerings of information from the
+      Israeli foreign affairs ministry, had a personal observation on Adler’s conduct,
+      calling him a “self-absorbed tool of Hamas”.
+
+
+      Israel, for its part, aggressively sought to denude and denigrate the merits of
+      the flotilla, both in terms of its mission and the integrity of its participants.
+      Customary libels were offered: Thunberg and her fellow activists were useful idiots,
+      and various organisers behind the effort to break the blockade were terrorist
+      sympathisers with links to Hamas. No mention needed of the humanitarian crisis
+      taking place in the hellish enclave of Gaza as, apparently, there is nothing to
+      mention.
+
+
+      As for allegations of mistreatment, the Israeli foreign ministry was brusque and
+      dismissive: “The lies they are spreading are part of their pre-planned fake news
+      campaign.” Ben-Gvir, however, spoke on October 5 of how “proud” he was of the
+      harsh conditions that the detainees were being kept in. “These are the terrorists
+      of the flotilla,” he declared. “Supporters of murderers.” On his visit to Ketziot
+      prison, he reasoned that the flotilla members, being “terror supporters”, deserved
+      “the conditions of terrorists”.
+
+
+      Israeli authorities also claimed that the flotilla carried little humanitarian
+      aid to speak of. In a sharp statement, the GSF called such accusations by Ben-Gvir
+      and other officials “verifiably false” and “obscene. The boats were meticulously
+      documented, loaded with medical supplies, food, and other life-saving goods for
+      people in Gaza being systematically starved by Israel.”
+
+
+      On arriving in Athens after being deported, Thunberg praised the “global, international
+      solidarity” of the GSF where hypocritical, mealymouthed governments had failed.
+      “This is a last resort. That this mission has to exist is a shame.” At this writing,
+      negotiations on the US proposed peace plan continues, as does slaughter and starvation
+      in the Strip. As, it would seem, the estranged reality that permits mendacity
+      to flourish.'
+    one_sentence_summary: Israel's violent detention of activists from the Global Sumud
+      Flotilla, who aimed to break the blockade on Gaza, involved severe human rights
+      violations and harsh treatment, drawing criticism from various international figures
+      and organizations.
+    paragraph_summary: The recent interception of the Global Sumud Flotilla (GSF) by
+      Israeli forces in international waters has sparked outrage due to reports of severe
+      mistreatment of the 470 activists on board, who aimed to break the blockade on
+      Gaza. Activists, including US citizen David Adler and celebrity Greta Thunberg,
+      described their detention as violent and inhumane, involving physical abuse, deprivation
+      of food and water, and psychological torment. Eyewitness accounts corroborated
+      claims of systematic violations of human rights, with detainees being subjected
+      to degrading treatment and humiliation. Israeli officials dismissed the activists'
+      allegations as "fake news," labeling them as terrorists and downplaying the humanitarian
+      mission of the flotilla, which was reportedly carrying essential supplies for
+      Gaza. The response from various governments, including the US and Australia, has
+      been criticized as inadequate, while Thunberg emphasized the necessity of the
+      GSF's mission amidst ongoing humanitarian crises in the region.
+    published: '2025-10-09T05:54:05+00:00'
   - title: 'Palestinian Subordination: Trump’s Gaza Peace Plan'
     url: https://www.counterpunch.org/2025/10/03/palestinian-subordination-trumps-gaza-peace-plan/
     text: 'He had moments of discomfort and embarrassment – pressed into calling the

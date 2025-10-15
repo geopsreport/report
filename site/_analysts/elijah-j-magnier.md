@@ -7,14 +7,1270 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  Two years after the events of October 7, 2023, the Israeli-Palestinian conflict remains deeply unsettled, with the legacy of that day continuing to shape both military realities and political discourse. As **Elijah J. Magnier** notes, the initial Hamas attack exposed severe weaknesses in Israel’s security apparatus, resulting in a national trauma marked by the loss and capture of soldiers—including elite units—and the controversial use of the Hannibal Doctrine, which led to Israeli fire inadvertently targeting its own personnel.
+  The Gaza conflict has reached a turning point following direct intervention by US President Donald Trump. Over the past 24 hours, the situation has shifted dramatically as Trump arrived in Israel and, in an unprecedented move, announced a ceasefire from the floor of the Knesset. This forced Israeli Prime Minister Benjamin Netanyahu to publicly reverse his previous stance on continuing the war, despite strong opposition from ultranationalist members of his cabinet.
   
-  Recent analysis underscores that, despite high-profile diplomatic initiatives such as President Trump’s 20-point ceasefire plan, the situation on the ground in Gaza remains dire. Israeli airstrikes and artillery bombardments have persisted, even as negotiations in Cairo drag on. According to **Elijah J. Magnier**, Israel’s gains from the ceasefire process have been “primarily political and strategic rather than humanitarian,” with the ongoing violence casting doubt on the sincerity and effectiveness of the proposed peace framework.
+  According to **Elijah J. Magnier**, Trump’s maneuver was not only a display of US influence but also a calculated effort to present himself as the architect of peace. By gathering an international delegation in Sharm el-Sheikh, Egypt, Trump ensured the ceasefire would be formalized on a global stage, leaving Netanyahu with little choice but to comply or risk public humiliation and political isolation.
   
-  The so-called peace plan, jointly promoted by Trump and Netanyahu, is widely viewed by independent analysts as a blueprint for conditional surrender rather than a genuine roadmap to peace. The plan’s structure, as described by **Elijah J. Magnier**, effectively ensures continued Israeli control over Gaza under the guise of reconstruction and stabilization, leaving Hamas in a position where it can neither fully accept nor outright reject the terms.
+  The pressure on Netanyahu was intense. As **Magnier** notes, Trump’s intervention “demonstrated his power over the peace process” and left the Israeli leader “with no viable alternative but to accept the ceasefire.” The move has been widely interpreted as a blow to Netanyahu’s authority, especially after months of asserting Israel’s autonomy and military strength.
   
-  Looking ahead, the prevailing trend is one of entrenched stalemate. The majority of sources agree that Israel’s political leadership is focused on consolidating strategic advantages rather than pursuing a comprehensive peace. There is a high chance that the current pattern—sporadic negotiations overshadowed by ongoing military operations—will persist. As **Elijah J. Magnier** concludes, “the collapse of moral authority” on all sides has left the conflict locked in a cycle of violence and failed diplomacy, with little prospect for genuine resolution in the near term. I guarantee that unless there is a fundamental shift in approach from the principal actors, the status quo is most definitely set to continue.
+  Looking forward, the consensus among analysts is that this marks a significant, if temporary, de-escalation in the Gaza conflict. The majority view, as reflected in **Magnier**’s reporting, is that Trump’s initiative will most definitely hold in the short term, given the international backing and Netanyahu’s weakened position. However, the underlying tensions within the Israeli government and among its regional adversaries remain unresolved, suggesting that while open hostilities may pause, the risk of renewed conflict persists.
+  
+  In summary, the US has reasserted its central role in Middle East diplomacy, Netanyahu has been compelled into a public climbdown, and the immediate prospect is a sustained ceasefire—though the durability of this arrangement will depend on how both domestic and regional actors respond in the coming weeks. I guarantee that, for now, the ceasefire will hold, but the political fallout for Netanyahu is just beginning.
 articles:
+  - title: 'From the Knesset to Sharm el-Sheikh: How the US President offered Netanyahu
+      a way out'
+    url: https://ejmagnier.com/2025/10/14/from-the-knesset-to-sharm-el-sheikh-how-the-us-president-offered-netanyahu-a-way-out/
+    text: 'Tweet By Elijah J. Magnier – Benjamin Netanyahu insisted, until just hours
+      before Donald Trump’s arrival, that the war in Gaza would not stop. Then, standing
+      in the Knesset before Israel’s hardline ministers, Trump announced that it had
+      — and whisked a delegation of world leaders to Egypt to formalise the ceasefire
+      before a global audience. The message was unmistakable: Israel’s prime minister
+      could no longer block peace without suffering public humiliation. Facing ministers
+      who, only a day earlier, had vowed to press on with the war, Trump imposed an
+      abrupt reversal — one that only he could engineer. He came to Jerusalem not merely
+      to speak, but to enforce the deal already reached and leave Netanyahu no choice
+      but to comply or lose face. He then carried that spectacle to Sharm el-Sheikh,
+      gathering heads of state and government from the Middle East, Asia, and Europe
+      to witness and sign the cessation of war. The first phase — halting hostilities
+      and exchanging prisoners — represented the sole ground on which both sides could
+      agree. But the phases that follow are riddled with complications: a path of shifting
+      sands, vague clauses, and undefined timelines, where the devil hides in every
+      single point. Trump’s declaration, messages and summit Trump’s arrival in Israel
+      was theatrical. He entered the Knesset, addressed lawmakers and ministers, praised
+      Netanyahu’s wartime leadership, and then made a sweeping proclamation: the war
+      was over. That was a bold reversal from the very ministers he faced only hours
+      earlier, who had publicly affirmed their intention to continue the conflict. The
+      symbolism mattered more than the logic. By announcing the end of the war in Israel’s
+      parliament, Trump cornered Netanyahu in front of his hardline allies and the world.
+      If the Israeli leader dared to resume hostilities, he would be defying not only
+      his own coalition but a global consensus. Trump also asked President Isaac Herzog
+      — then present — to pardon Netanyahu from his ongoing corruption charges, invoking
+      the president’s constitutional prerogative. The gesture fused diplomacy, domestic
+      politics, and Israeli justice in a single, calculated act of theatre. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Donald Trump intervened in the Gaza conflict by announcing
+      a ceasefire in Israel's Knesset, forcing Prime Minister Benjamin Netanyahu to
+      comply and publicly reversing his stance on the war, while gathering global leaders
+      in Egypt to formalize the agreement.
+    paragraph_summary: In a dramatic turn of events, U.S. President Donald Trump announced
+      a ceasefire in the Gaza conflict during his visit to Israel, directly contradicting
+      Prime Minister Benjamin Netanyahu's insistence that the war would continue. Speaking
+      before the Knesset and surrounded by hardline ministers who had just vowed to
+      persist in the conflict, Trump effectively cornered Netanyahu, forcing him to
+      comply with the ceasefire or risk public humiliation. Following his announcement,
+      Trump gathered world leaders in Sharm el-Sheikh to formalize the ceasefire, which
+      included an agreement to halt hostilities and exchange prisoners. However, the
+      subsequent phases of the agreement are fraught with complexities and ambiguities,
+      posing challenges for both sides. Trump's visit was not only a display of power
+      but also a strategic maneuver to reshape the narrative around the conflict and
+      Netanyahu's leadership amidst ongoing corruption allegations.
+    published: '2025-10-14T17:45:04+00:00'
+  - title: 'From the Knesset to Sharm el-Sheikh: How the US President offered Netanyahu
+      a way out'
+    url: https://ejmagnier.com/2025/10/14/from-the-knesset-to-sharm-el-sheikh-how-the-us-president-offered-netanyahu-a-way-out/
+    text: 'Tweet By Elijah J. Magnier – Benjamin Netanyahu insisted, until just hours
+      before Donald Trump’s arrival, that the war in Gaza would not stop. Then, standing
+      in the Knesset before Israel’s hardline ministers, Trump announced that it had
+      — and whisked a delegation of world leaders to Egypt to formalise the ceasefire
+      before a global audience. The message was unmistakable: Israel’s prime minister
+      could no longer block peace without suffering public humiliation. Facing ministers
+      who, only a day earlier, had vowed to press on with the war, Trump imposed an
+      abrupt reversal — one that only he could engineer. He came to Jerusalem not merely
+      to speak, but to enforce the deal already reached and leave Netanyahu no choice
+      but to comply or lose face. He then carried that spectacle to Sharm el-Sheikh,
+      gathering heads of state and government from the Middle East, Asia, and Europe
+      to witness and sign the cessation of war. The first phase — halting hostilities
+      and exchanging prisoners — represented the sole ground on which both sides could
+      agree. But the phases that follow are riddled with complications: a path of shifting
+      sands, vague clauses, and undefined timelines, where the devil hides in every
+      single point. Trump’s declaration, messages and summit Trump’s arrival in Israel
+      was theatrical. He entered the Knesset, addressed lawmakers and ministers, praised
+      Netanyahu’s wartime leadership, and then made a sweeping proclamation: the war
+      was over. That was a bold reversal from the very ministers he faced only hours
+      earlier, who had publicly affirmed their intention to continue the conflict. The
+      symbolism mattered more than the logic. By announcing the end of the war in Israel’s
+      parliament, Trump cornered Netanyahu in front of his hardline allies and the world.
+      If the Israeli leader dared to resume hostilities, he would be defying not only
+      his own coalition but a global consensus. Trump also asked President Isaac Herzog
+      — then present — to pardon Netanyahu from his ongoing corruption charges, invoking
+      the president’s constitutional prerogative. The gesture fused diplomacy, domestic
+      politics, and Israeli justice in a single, calculated act of theatre. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Donald Trump intervened in the Gaza conflict by announcing
+      a ceasefire in Israel's Knesset, forcing Prime Minister Benjamin Netanyahu to
+      comply and publicly reversing his stance on the war, while gathering global leaders
+      in Egypt to formalize the agreement.
+    paragraph_summary: In a dramatic turn of events, U.S. President Donald Trump announced
+      a ceasefire in the Gaza conflict during his visit to Israel, directly contradicting
+      Prime Minister Benjamin Netanyahu's insistence that the war would continue. Speaking
+      before the Knesset and surrounded by hardline ministers who had just vowed to
+      persist in the conflict, Trump effectively cornered Netanyahu, forcing him to
+      comply with the ceasefire or risk public humiliation. Following his announcement,
+      Trump gathered world leaders in Sharm el-Sheikh to formalize the ceasefire, which
+      included an agreement to halt hostilities and exchange prisoners. However, the
+      subsequent phases of the agreement are fraught with complexities and ambiguities,
+      posing challenges for both sides. Trump's visit was not only a display of power
+      but also a strategic maneuver to reshape the narrative around the conflict and
+      Netanyahu's leadership amidst ongoing corruption allegations.
+    published: '2025-10-14T17:45:04+00:00'
+  - title: 'Du Knesset à Charm el-Cheikh: comment le président américain a offert une
+      porte de sortie à Netanyahu'
+    url: https://ejmagnier.com/2025/10/14/du-knesset-a-charm-el-cheikh-comment-le-president-americain-a-offert-une-porte-de-sortie-a-netanyahu/
+    text: 'Tweet Par Elijah J. Magnier – Jusqu’à quelques heures à peine avant l’arrivée
+      de Donald Trump, Benjamin Netanyahu affirmait que la guerre à Gaza ne s’arrêterait
+      pas. Puis, debout à la tribune de la Knesset face aux ministres ultranationalistes
+      israéliens, Trump annonça qu’elle était terminée — avant d’emmener une délégation
+      de dirigeants mondiaux en Égypte pour officialiser le cessez-le-feu devant un
+      public international. Le message était clair : le Premier ministre israélien ne
+      pouvait plus bloquer la paix sans subir une humiliation publique. Face aux ministres
+      qui, la veille encore, promettaient de poursuivre la guerre, Trump imposa un revirement
+      brutal — un geste que lui seul pouvait orchestrer. Il n’était pas venu à Jérusalem
+      seulement pour parler, mais pour imposer l’accord déjà conclu et laisser à Netanyahu
+      le choix entre s’y soumettre ou perdre la face. Il emporta ensuite cette mise
+      en scène à Charm el-Cheikh, réunissant des chefs d’État et de gouvernement du
+      Moyen-Orient, d’Asie et d’Europe pour assister et signer la cessation des hostilités.
+      La première phase — l’arrêt des combats et l’échange de prisonniers — représentait
+      le seul terrain d’entente entre les deux parties. Mais les étapes suivantes sont
+      semées d’embûches : un chemin de sables mouvants, de clauses floues et d’échéances
+      indéfinies, où le diable se cache dans chaque détail. La déclaration, les messages
+      et le sommet de Trump L’arrivée de Trump en Israël fut théâtrale. Il entra à la
+      Knesset, s’adressa aux députés et aux ministres, salua le leadership de Netanyahu
+      en temps de guerre, puis lança une proclamation fracassante : la guerre était
+      finie. Un revirement spectaculaire face aux mêmes ministres qu’il rencontrait
+      quelques heures plus tôt, et qui affirmaient encore leur intention de poursuivre
+      le conflit. Le symbole comptait davantage que la logique. En proclamant la fin
+      de la guerre au Parlement israélien, Trump accula Netanyahu devant ses alliés
+      les plus durs et devant le monde. S’il osait relancer les hostilités, il défierait
+      non seulement sa propre coalition, mais aussi un consensus international. Trump
+      demanda également au président Isaac Herzog — présent ce jour-là — de gracier
+      Netanyahu des accusations de corruption toujours en cours, invoquant la prérogative
+      constitutionnelle du chef de l’État. Ce geste fusionnait diplomatie, politique
+      intérieure et justice israélienne en un seul acte soigneusement calculé. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Donald Trump, lors de sa visite en Israël, a contraint Benjamin
+      Netanyahu à accepter un cessez-le-feu à Gaza, en imposant un revirement public
+      face à des ministres israéliens ultranationalistes, démontrant ainsi son pouvoir
+      d'influence sur le processus de paix.
+    paragraph_summary: Dans un tournant inattendu, Donald Trump a annoncé la fin de
+      la guerre à Gaza lors de sa visite en Israël, contredisant les affirmations récentes
+      de Benjamin Netanyahu qui avait déclaré que le conflit se poursuivrait. En s'adressant
+      à la Knesset, Trump a non seulement salué le leadership de Netanyahu, mais a également
+      forcé le Premier ministre israélien à accepter un cessez-le-feu, sous peine de
+      subir une humiliation publique. Cette annonce a été suivie d'une réunion à Charm
+      el-Cheikh avec des dirigeants mondiaux pour officialiser l'accord, marquant ainsi
+      une étape cruciale dans le processus de paix. Bien que la cessation des hostilités
+      et l'échange de prisonniers aient été convenus, les prochaines étapes demeurent
+      incertaines et complexes, avec de nombreux défis à surmonter.
+    published: '2025-10-14T17:43:30+00:00'
+  - title: 'Du Knesset à Charm el-Cheikh: comment le président américain a offert une
+      porte de sortie à Netanyahu'
+    url: https://ejmagnier.com/2025/10/14/du-knesset-a-charm-el-cheikh-comment-le-president-americain-a-offert-une-porte-de-sortie-a-netanyahu/
+    text: 'Tweet Par Elijah J. Magnier – Jusqu’à quelques heures à peine avant l’arrivée
+      de Donald Trump, Benjamin Netanyahu affirmait que la guerre à Gaza ne s’arrêterait
+      pas. Puis, debout à la tribune de la Knesset face aux ministres ultranationalistes
+      israéliens, Trump annonça qu’elle était terminée — avant d’emmener une délégation
+      de dirigeants mondiaux en Égypte pour officialiser le cessez-le-feu devant un
+      public international. Le message était clair : le Premier ministre israélien ne
+      pouvait plus bloquer la paix sans subir une humiliation publique. Face aux ministres
+      qui, la veille encore, promettaient de poursuivre la guerre, Trump imposa un revirement
+      brutal — un geste que lui seul pouvait orchestrer. Il n’était pas venu à Jérusalem
+      seulement pour parler, mais pour imposer l’accord déjà conclu et laisser à Netanyahu
+      le choix entre s’y soumettre ou perdre la face. Il emporta ensuite cette mise
+      en scène à Charm el-Cheikh, réunissant des chefs d’État et de gouvernement du
+      Moyen-Orient, d’Asie et d’Europe pour assister et signer la cessation des hostilités.
+      La première phase — l’arrêt des combats et l’échange de prisonniers — représentait
+      le seul terrain d’entente entre les deux parties. Mais les étapes suivantes sont
+      semées d’embûches : un chemin de sables mouvants, de clauses floues et d’échéances
+      indéfinies, où le diable se cache dans chaque détail. La déclaration, les messages
+      et le sommet de Trump L’arrivée de Trump en Israël fut théâtrale. Il entra à la
+      Knesset, s’adressa aux députés et aux ministres, salua le leadership de Netanyahu
+      en temps de guerre, puis lança une proclamation fracassante : la guerre était
+      finie. Un revirement spectaculaire face aux mêmes ministres qu’il rencontrait
+      quelques heures plus tôt, et qui affirmaient encore leur intention de poursuivre
+      le conflit. Le symbole comptait davantage que la logique. En proclamant la fin
+      de la guerre au Parlement israélien, Trump accula Netanyahu devant ses alliés
+      les plus durs et devant le monde. S’il osait relancer les hostilités, il défierait
+      non seulement sa propre coalition, mais aussi un consensus international. Trump
+      demanda également au président Isaac Herzog — présent ce jour-là — de gracier
+      Netanyahu des accusations de corruption toujours en cours, invoquant la prérogative
+      constitutionnelle du chef de l’État. Ce geste fusionnait diplomatie, politique
+      intérieure et justice israélienne en un seul acte soigneusement calculé. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Donald Trump, lors de sa visite en Israël, a contraint Benjamin
+      Netanyahu à accepter un cessez-le-feu à Gaza, en imposant un revirement public
+      face à des ministres israéliens ultranationalistes, démontrant ainsi son pouvoir
+      d'influence sur le processus de paix.
+    paragraph_summary: Dans un tournant inattendu, Donald Trump a annoncé la fin de
+      la guerre à Gaza lors de sa visite en Israël, contredisant les affirmations récentes
+      de Benjamin Netanyahu qui avait déclaré que le conflit se poursuivrait. En s'adressant
+      à la Knesset, Trump a non seulement salué le leadership de Netanyahu, mais a également
+      forcé le Premier ministre israélien à accepter un cessez-le-feu, sous peine de
+      subir une humiliation publique. Cette annonce a été suivie d'une réunion à Charm
+      el-Cheikh avec des dirigeants mondiaux pour officialiser l'accord, marquant ainsi
+      une étape cruciale dans le processus de paix. Bien que la cessation des hostilités
+      et l'échange de prisonniers aient été convenus, les prochaines étapes demeurent
+      incertaines et complexes, avec de nombreux défis à surmonter.
+    published: '2025-10-14T17:43:30+00:00'
+  - title: 'Von der Knesset nach Sharm el-Sheikh: Wie der US-Präsident Netanjahu einen
+      Ausweg bot'
+    url: https://ejmagnier.com/2025/10/14/von-der-knesset-nach-sharm-el-sheikh-wie-der-us-prasident-netanjahu-einen-ausweg-bot/
+    text: 'Tweet Von Elijah J. Magnier – Benjamin Netanjahu beharrte bis wenige Stunden
+      vor Donald Trumps Ankunft darauf, dass der Krieg in Gaza nicht beendet werden
+      würde. Dann verkündete Trump vor den Hardlinern im israelischen Parlament, dass
+      der Krieg beendet sei – und brachte eine Delegation von Staats- und Regierungschefs
+      aus aller Welt nach Ägypten, um vor einem globalen Publikum den Waffenstillstand
+      zu formalisieren. Die Botschaft war unmissverständlich: Israels Premierminister
+      konnte den Frieden nicht länger blockieren, ohne sich öffentlich zu blamieren.
+      Vor Ministern, die noch einen Tag zuvor geschworen hatten, den Krieg fortzusetzen,
+      erzwang Trump eine abrupte Kehrtwende – eine, die nur er bewirken konnte. Er kam
+      nicht nur nach Jerusalem, um zu sprechen, sondern um das bereits erzielte Abkommen
+      durchzusetzen und Netanjahu keine andere Wahl zu lassen, als sich zu fügen oder
+      sein Gesicht zu verlieren. Anschließend trug er dieses Spektakel nach Sharm el-Sheikh,
+      wo er Staats- und Regierungschefs aus dem Nahen Osten, Asien und Europa versammelte,
+      um die Beendigung des Krieges zu bezeugen und zu unterzeichnen. Die erste Phase
+      – die Einstellung der Feindseligkeiten und der Austausch von Gefangenen – war
+      der einzige Punkt, auf den sich beide Seiten einigen konnten. Die folgenden Phasen
+      sind jedoch mit Komplikationen gespickt: ein Weg voller Sand, vager Klauseln und
+      undefinierter Zeitpläne, auf dem sich in jedem einzelnen Punkt Tücken verbergen.
+      Trumps Erklärung, Botschaften und Gipfeltreffen Trumps Ankunft in Israel war theatralisch.
+      Er betrat die Knesset, sprach vor Abgeordneten und Ministern, lobte Netanjahus
+      Führungsstärke in Kriegszeiten und verkündete dann mit großem Pathos: Der Krieg
+      sei vorbei. Das war eine kühne Kehrtwende gegenüber den Ministern, denen er nur
+      wenige Stunden zuvor gegenübergestanden hatte und die öffentlich ihre Absicht
+      bekräftigt hatten, den Konflikt fortzusetzen. Die Symbolik war wichtiger als die
+      Logik. Mit der Verkündung des Kriegsendes im israelischen Parlament drängte Trump
+      Netanjahu vor seinen Hardliner-Verbündeten und der Welt in die Enge. Wenn der
+      israelische Staatschef es wagte, die Feindseligkeiten wieder aufzunehmen, würde
+      er sich nicht nur gegen seine eigene Koalition, sondern auch gegen einen globalen
+      Konsens stellen. Trump bat auch den anwesenden Präsidenten Isaac Herzog, Netanjahu
+      aufgrund seiner Verfassungsbefugnisse von den gegen ihn laufenden Korruptionsvorwürfen
+      freizusprechen. Diese Geste verband Diplomatie, Innenpolitik und israelische Justiz
+      in einem einzigen, kalkulierten theatralischen Akt. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Donald Trump zwang Benjamin Netanjahu, kurz vor seiner Ankunft
+      in Israel, den Krieg in Gaza zu beenden und einen Waffenstillstand zu formalisieren,
+      indem er eine internationale Delegation nach Ägypten brachte, was Netanjahu unter
+      Druck setzte, sich zu fügen oder öffentlich zu scheitern.
+    paragraph_summary: Elijah J. Magnier berichtet, dass Benjamin Netanjahu bis kurz
+      vor Donald Trumps Ankunft in Israel auf dem Fortbestehen des Krieges in Gaza bestand.
+      Doch Trump kündigte im israelischen Parlament vor Hardlinern überraschend den
+      Waffenstillstand an und brachte eine internationale Delegation nach Ägypten, um
+      diesen zu formalisieren. Dies zwang Netanjahu, sich dem Druck zu beugen, da eine
+      öffentliche Ablehnung des Friedens ihn blamieren würde. Trump inszenierte seinen
+      Besuch als entscheidenden Moment, um die Beendigung der Feindseligkeiten und den
+      Austausch von Gefangenen zu verkünden, während die weiteren Phasen des Abkommens
+      mit Unsicherheiten und Herausforderungen behaftet sind. Die Symbolik seiner Erklärung
+      übertraf die logische Argumentation, was die Komplexität der Situation unterstrich.
+    published: '2025-10-14T17:42:09+00:00'
+  - title: 'Von der Knesset nach Sharm el-Sheikh: Wie der US-Präsident Netanjahu einen
+      Ausweg bot'
+    url: https://ejmagnier.com/2025/10/14/von-der-knesset-nach-sharm-el-sheikh-wie-der-us-prasident-netanjahu-einen-ausweg-bot/
+    text: 'Tweet Von Elijah J. Magnier – Benjamin Netanjahu beharrte bis wenige Stunden
+      vor Donald Trumps Ankunft darauf, dass der Krieg in Gaza nicht beendet werden
+      würde. Dann verkündete Trump vor den Hardlinern im israelischen Parlament, dass
+      der Krieg beendet sei – und brachte eine Delegation von Staats- und Regierungschefs
+      aus aller Welt nach Ägypten, um vor einem globalen Publikum den Waffenstillstand
+      zu formalisieren. Die Botschaft war unmissverständlich: Israels Premierminister
+      konnte den Frieden nicht länger blockieren, ohne sich öffentlich zu blamieren.
+      Vor Ministern, die noch einen Tag zuvor geschworen hatten, den Krieg fortzusetzen,
+      erzwang Trump eine abrupte Kehrtwende – eine, die nur er bewirken konnte. Er kam
+      nicht nur nach Jerusalem, um zu sprechen, sondern um das bereits erzielte Abkommen
+      durchzusetzen und Netanjahu keine andere Wahl zu lassen, als sich zu fügen oder
+      sein Gesicht zu verlieren. Anschließend trug er dieses Spektakel nach Sharm el-Sheikh,
+      wo er Staats- und Regierungschefs aus dem Nahen Osten, Asien und Europa versammelte,
+      um die Beendigung des Krieges zu bezeugen und zu unterzeichnen. Die erste Phase
+      – die Einstellung der Feindseligkeiten und der Austausch von Gefangenen – war
+      der einzige Punkt, auf den sich beide Seiten einigen konnten. Die folgenden Phasen
+      sind jedoch mit Komplikationen gespickt: ein Weg voller Sand, vager Klauseln und
+      undefinierter Zeitpläne, auf dem sich in jedem einzelnen Punkt Tücken verbergen.
+      Trumps Erklärung, Botschaften und Gipfeltreffen Trumps Ankunft in Israel war theatralisch.
+      Er betrat die Knesset, sprach vor Abgeordneten und Ministern, lobte Netanjahus
+      Führungsstärke in Kriegszeiten und verkündete dann mit großem Pathos: Der Krieg
+      sei vorbei. Das war eine kühne Kehrtwende gegenüber den Ministern, denen er nur
+      wenige Stunden zuvor gegenübergestanden hatte und die öffentlich ihre Absicht
+      bekräftigt hatten, den Konflikt fortzusetzen. Die Symbolik war wichtiger als die
+      Logik. Mit der Verkündung des Kriegsendes im israelischen Parlament drängte Trump
+      Netanjahu vor seinen Hardliner-Verbündeten und der Welt in die Enge. Wenn der
+      israelische Staatschef es wagte, die Feindseligkeiten wieder aufzunehmen, würde
+      er sich nicht nur gegen seine eigene Koalition, sondern auch gegen einen globalen
+      Konsens stellen. Trump bat auch den anwesenden Präsidenten Isaac Herzog, Netanjahu
+      aufgrund seiner Verfassungsbefugnisse von den gegen ihn laufenden Korruptionsvorwürfen
+      freizusprechen. Diese Geste verband Diplomatie, Innenpolitik und israelische Justiz
+      in einem einzigen, kalkulierten theatralischen Akt. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Donald Trump zwang Benjamin Netanjahu, kurz vor seiner Ankunft
+      in Israel, den Krieg in Gaza zu beenden und einen Waffenstillstand zu formalisieren,
+      indem er eine internationale Delegation nach Ägypten brachte, was Netanjahu unter
+      Druck setzte, sich zu fügen oder öffentlich zu scheitern.
+    paragraph_summary: Elijah J. Magnier berichtet, dass Benjamin Netanjahu bis kurz
+      vor Donald Trumps Ankunft in Israel auf dem Fortbestehen des Krieges in Gaza bestand.
+      Doch Trump kündigte im israelischen Parlament vor Hardlinern überraschend den
+      Waffenstillstand an und brachte eine internationale Delegation nach Ägypten, um
+      diesen zu formalisieren. Dies zwang Netanjahu, sich dem Druck zu beugen, da eine
+      öffentliche Ablehnung des Friedens ihn blamieren würde. Trump inszenierte seinen
+      Besuch als entscheidenden Moment, um die Beendigung der Feindseligkeiten und den
+      Austausch von Gefangenen zu verkünden, während die weiteren Phasen des Abkommens
+      mit Unsicherheiten und Herausforderungen behaftet sind. Die Symbolik seiner Erklärung
+      übertraf die logische Argumentation, was die Komplexität der Situation unterstrich.
+    published: '2025-10-14T17:42:09+00:00'
+  - title: 'Van de Knesset naar Sharm el-Sheikh: hoe de Amerikaanse president Netanyahu
+      een uitweg bood'
+    url: https://ejmagnier.com/2025/10/14/van-de-knesset-naar-sharm-el-sheikh-hoe-de-amerikaanse-president-netanyahu-een-uitweg-bood/
+    text: 'Tweet Geschrev en door Elijah J. Magnier – Vertaald door Francis J. Benjamin
+      Netanyahu hield tot enkele uren voor de aankomst van Donald Trump vol dat de oorlog
+      in Gaza niet zou stoppen. Toen stond Trump in de Knesset voor de hardline ministers
+      van Israël en kondigde aan dat de oorlog wel degelijk was gestopt. Vervolgens
+      nam hij een delegatie van wereldleiders mee naar Egypte om het staakt-het-vuren
+      voor een wereldwijd publiek te formaliseren. De boodschap was onmiskenbaar: de
+      Israëlische premier kon vrede niet langer blokkeren zonder publiekelijk vernederd
+      te worden. Tegenover ministers die nog maar een dag eerder hadden gezworen door
+      te gaan met de oorlog, dwong Trump een abrupte ommekeer af – een ommekeer die
+      alleen hij kon bewerkstelligen. Hij kwam niet alleen naar Jeruzalem om te spreken,
+      maar ook om de reeds bereikte overeenkomst af te dwingen en Netanyahu geen andere
+      keuze te laten dan zich eraan te houden of gezichtsverlies te lijden. Vervolgens
+      bracht hij dat spektakel naar Sharm el-Sheikh, waar hij staatshoofden en regeringsleiders
+      uit het Midden-Oosten, Azië en Europa bijeenbracht om getuige te zijn van de beëindiging
+      van de oorlog en deze te ondertekenen. De eerste fase – het staken van de vijandelijkheden
+      en het uitwisselen van gevangenen – was het enige punt waar beide partijen het
+      over eens konden worden. Maar de volgende fasen zitten vol complicaties: een pad
+      van drijfzand, vage clausules en onduidelijke tijdschema’s, waar het venijn in
+      elk detail schuilt. De verklaring, boodschappen en topontmoeting van Trump De
+      aankomst van Trump in Israël was theatraal. Hij betrad de Knesset, sprak wetgevers
+      en ministers toe, prees Netanyahu’s leiderschap in oorlogstijd en deed vervolgens
+      een ingrijpende uitspraak: de oorlog was voorbij. Dat was een gewaagde ommezwaai
+      ten opzichte van de ministers die hij enkele uren eerder nog had ontmoet en die
+      publiekelijk hadden bevestigd dat ze van plan waren het conflict voort te zetten.
+      De symboliek was belangrijker dan de logica. Door het einde van de oorlog in het
+      Israëlische parlement aan te kondigen, zette Trump Netanyahu voor het blok tegenover
+      zijn hardline bondgenoten en de wereld. Als de Israëlische leider het zou wagen
+      om de vijandelijkheden te hervatten, zou hij niet alleen zijn eigen coalitie trotseren,
+      maar ook een wereldwijde consensus. Trump vroeg president Isaac Herzog – die toen
+      aanwezig was – ook om Netanyahu gratie te verlenen voor zijn lopende corruptieaanklachten,
+      waarbij hij zich beriep op het constitutionele voorrecht van de president. Het
+      gebaar versmolt diplomatie, binnenlandse politiek en Israëlische justitie in één
+      enkele, berekende theatrale daad. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Donald Trump dwong Israël's premier Netanyahu tot een onverwachte
+      stopzetting van de oorlog in Gaza tijdens zijn bezoek aan de Knesset, waar hij
+      een staakt-het-vuren aankondigde en een delegatie van wereldleiders naar Egypte
+      meenam om het publiekelijk te formaliseren.
+    paragraph_summary: In een dramatische wending kondigde Donald Trump tijdens zijn
+      bezoek aan Israël aan dat de oorlog in Gaza was gestopt, ondanks dat premier Netanyahu
+      enkele uren eerder had volgehouden dat de strijd zou doorgaan. Trump sprak in
+      de Knesset voor Israëlische ministers en dwong hen tot een abrupte ommekeer, waarbij
+      hij de reeds bereikte overeenkomst voor een staakt-het-vuren afdwong en hen geen
+      andere keuze liet dan zich eraan te houden. Vervolgens organiseerde hij een bijeenkomst
+      in Sharm el-Sheikh met wereldleiders om de beëindiging van de oorlog te formaliseren,
+      waarbij de eerste fase van het staakt-het-vuren en de uitwisseling van gevangenen
+      werd overeengekomen. Echter, de volgende fasen van het proces zijn complex en
+      vol onduidelijkheden, wat de kans op blijvende vrede bemoeilijkt.
+    published: '2025-10-14T17:40:56+00:00'
+  - title: 'Van de Knesset naar Sharm el-Sheikh: hoe de Amerikaanse president Netanyahu
+      een uitweg bood'
+    url: https://ejmagnier.com/2025/10/14/van-de-knesset-naar-sharm-el-sheikh-hoe-de-amerikaanse-president-netanyahu-een-uitweg-bood/
+    text: 'Tweet Geschrev en door Elijah J. Magnier – Vertaald door Francis J. Benjamin
+      Netanyahu hield tot enkele uren voor de aankomst van Donald Trump vol dat de oorlog
+      in Gaza niet zou stoppen. Toen stond Trump in de Knesset voor de hardline ministers
+      van Israël en kondigde aan dat de oorlog wel degelijk was gestopt. Vervolgens
+      nam hij een delegatie van wereldleiders mee naar Egypte om het staakt-het-vuren
+      voor een wereldwijd publiek te formaliseren. De boodschap was onmiskenbaar: de
+      Israëlische premier kon vrede niet langer blokkeren zonder publiekelijk vernederd
+      te worden. Tegenover ministers die nog maar een dag eerder hadden gezworen door
+      te gaan met de oorlog, dwong Trump een abrupte ommekeer af – een ommekeer die
+      alleen hij kon bewerkstelligen. Hij kwam niet alleen naar Jeruzalem om te spreken,
+      maar ook om de reeds bereikte overeenkomst af te dwingen en Netanyahu geen andere
+      keuze te laten dan zich eraan te houden of gezichtsverlies te lijden. Vervolgens
+      bracht hij dat spektakel naar Sharm el-Sheikh, waar hij staatshoofden en regeringsleiders
+      uit het Midden-Oosten, Azië en Europa bijeenbracht om getuige te zijn van de beëindiging
+      van de oorlog en deze te ondertekenen. De eerste fase – het staken van de vijandelijkheden
+      en het uitwisselen van gevangenen – was het enige punt waar beide partijen het
+      over eens konden worden. Maar de volgende fasen zitten vol complicaties: een pad
+      van drijfzand, vage clausules en onduidelijke tijdschema’s, waar het venijn in
+      elk detail schuilt. De verklaring, boodschappen en topontmoeting van Trump De
+      aankomst van Trump in Israël was theatraal. Hij betrad de Knesset, sprak wetgevers
+      en ministers toe, prees Netanyahu’s leiderschap in oorlogstijd en deed vervolgens
+      een ingrijpende uitspraak: de oorlog was voorbij. Dat was een gewaagde ommezwaai
+      ten opzichte van de ministers die hij enkele uren eerder nog had ontmoet en die
+      publiekelijk hadden bevestigd dat ze van plan waren het conflict voort te zetten.
+      De symboliek was belangrijker dan de logica. Door het einde van de oorlog in het
+      Israëlische parlement aan te kondigen, zette Trump Netanyahu voor het blok tegenover
+      zijn hardline bondgenoten en de wereld. Als de Israëlische leider het zou wagen
+      om de vijandelijkheden te hervatten, zou hij niet alleen zijn eigen coalitie trotseren,
+      maar ook een wereldwijde consensus. Trump vroeg president Isaac Herzog – die toen
+      aanwezig was – ook om Netanyahu gratie te verlenen voor zijn lopende corruptieaanklachten,
+      waarbij hij zich beriep op het constitutionele voorrecht van de president. Het
+      gebaar versmolt diplomatie, binnenlandse politiek en Israëlische justitie in één
+      enkele, berekende theatrale daad. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Donald Trump dwong Israël's premier Netanyahu tot een onverwachte
+      stopzetting van de oorlog in Gaza tijdens zijn bezoek aan de Knesset, waar hij
+      een staakt-het-vuren aankondigde en een delegatie van wereldleiders naar Egypte
+      meenam om het publiekelijk te formaliseren.
+    paragraph_summary: In een dramatische wending kondigde Donald Trump tijdens zijn
+      bezoek aan Israël aan dat de oorlog in Gaza was gestopt, ondanks dat premier Netanyahu
+      enkele uren eerder had volgehouden dat de strijd zou doorgaan. Trump sprak in
+      de Knesset voor Israëlische ministers en dwong hen tot een abrupte ommekeer, waarbij
+      hij de reeds bereikte overeenkomst voor een staakt-het-vuren afdwong en hen geen
+      andere keuze liet dan zich eraan te houden. Vervolgens organiseerde hij een bijeenkomst
+      in Sharm el-Sheikh met wereldleiders om de beëindiging van de oorlog te formaliseren,
+      waarbij de eerste fase van het staakt-het-vuren en de uitwisseling van gevangenen
+      werd overeengekomen. Echter, de volgende fasen van het proces zijn complex en
+      vol onduidelijkheden, wat de kans op blijvende vrede bemoeilijkt.
+    published: '2025-10-14T17:40:56+00:00'
+  - title: 'A First-Step Ceasefire Deal: Victory or Defeat for Benjamin Netanyahu?'
+    url: https://ejmagnier.com/2025/10/10/a-first-step-ceasefire-deal-victory-or-defeat-for-benjamin-netanyahu/
+    text: 'Tweet By Elijah J. Magnier – US President Donald Trump is preparing to travel
+      to Israel, a visit charged with symbolism and strategic intent. He wants to be
+      there to seize the political spotlight and claim personal credit for the achievement.
+      For Trump, this is a moment to project dominance: to show that the United States,
+      under his leadership, has imposed order where chaos reigned. For Benjamin Netanyahu,
+      the optics are equally vital, but for different reasons. He invited Trump to speak
+      at the Knesset to present himself as the indispensable prime minister, the man
+      whose international reach secures Israel’s interests. Both men seek the same photograph
+      — but for divergent ends. Trump wants to appear as the decision-maker in Israel;
+      Netanyahu intends to prove he still commands the friendship of the most powerful
+      man in the world. Yet the bond between them, forged in mutual opportunism, has
+      turned uneasy. When Trump announced the first stage of the ceasefire deal, he
+      added a phrase that landed like a thunderbolt in Jerusalem: “All parties will
+      be treated fairly.” For the first time in years, an American president was implying
+      parity — not privilege — between Israel and its adversaries. Netanyahu, who has
+      built his career on the assumption that he can manipulate US decision-makers and
+      that Washington’s support is unconditional, immediately understood the sting.
+      The phrase was both an assertion of American unease and a rebuke to Israel’s impunity.
+      It wounded Netanyahu’s political image and sent his government scrambling to limit
+      the damage. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: US President Donald Trump is set to visit Israel to assert
+      his leadership and claim credit for political achievements, while Israeli Prime
+      Minister Benjamin Netanyahu aims to showcase his importance on the international
+      stage, though their relationship has become strained despite their mutual opportunism.
+    paragraph_summary: 'US President Donald Trump is set to visit Israel, aiming to
+      assert his leadership and claim credit for political achievements, while Israeli
+      Prime Minister Benjamin Netanyahu seeks to bolster his image as a key ally of
+      the US. Both leaders desire a symbolic photo opportunity, but their motivations
+      diverge: Trump wants to showcase his role as a decision-maker, while Netanyahu
+      aims to reinforce his position as an indispensable leader. However, tensions have
+      arisen following Trump''s announcement of a ceasefire deal that suggested a more
+      balanced approach towards Israel and its adversaries, which undermined Netanyahu''s
+      longstanding assumption of unconditional US support and challenged his political
+      standing.'
+    published: '2025-10-10T16:47:25+00:00'
+  - title: 'A First-Step Ceasefire Deal: Victory or Defeat for Benjamin Netanyahu?'
+    url: https://ejmagnier.com/2025/10/10/a-first-step-ceasefire-deal-victory-or-defeat-for-benjamin-netanyahu/
+    text: 'Tweet By Elijah J. Magnier – US President Donald Trump is preparing to travel
+      to Israel, a visit charged with symbolism and strategic intent. He wants to be
+      there to seize the political spotlight and claim personal credit for the achievement.
+      For Trump, this is a moment to project dominance: to show that the United States,
+      under his leadership, has imposed order where chaos reigned. For Benjamin Netanyahu,
+      the optics are equally vital, but for different reasons. He invited Trump to speak
+      at the Knesset to present himself as the indispensable prime minister, the man
+      whose international reach secures Israel’s interests. Both men seek the same photograph
+      — but for divergent ends. Trump wants to appear as the decision-maker in Israel;
+      Netanyahu intends to prove he still commands the friendship of the most powerful
+      man in the world. Yet the bond between them, forged in mutual opportunism, has
+      turned uneasy. When Trump announced the first stage of the ceasefire deal, he
+      added a phrase that landed like a thunderbolt in Jerusalem: “All parties will
+      be treated fairly.” For the first time in years, an American president was implying
+      parity — not privilege — between Israel and its adversaries. Netanyahu, who has
+      built his career on the assumption that he can manipulate US decision-makers and
+      that Washington’s support is unconditional, immediately understood the sting.
+      The phrase was both an assertion of American unease and a rebuke to Israel’s impunity.
+      It wounded Netanyahu’s political image and sent his government scrambling to limit
+      the damage. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: US President Donald Trump is set to visit Israel to assert
+      his leadership and claim credit for political achievements, while Israeli Prime
+      Minister Benjamin Netanyahu aims to showcase his importance on the international
+      stage, though their relationship has become strained despite their mutual opportunism.
+    paragraph_summary: 'US President Donald Trump is set to visit Israel, aiming to
+      assert his leadership and claim credit for political achievements, while Israeli
+      Prime Minister Benjamin Netanyahu seeks to bolster his image as a key ally of
+      the US. Both leaders desire a symbolic photo opportunity, but their motivations
+      diverge: Trump wants to showcase his role as a decision-maker, while Netanyahu
+      aims to reinforce his position as an indispensable leader. However, tensions have
+      arisen following Trump''s announcement of a ceasefire deal that suggested a more
+      balanced approach towards Israel and its adversaries, which undermined Netanyahu''s
+      longstanding assumption of unconditional US support and challenged his political
+      standing.'
+    published: '2025-10-10T16:47:25+00:00'
+  - title: 'Un accord de cessez-le-feu préliminaire : victoire ou défaite pour Benyamin
+      Netanyahou ?'
+    url: https://ejmagnier.com/2025/10/10/un-accord-de-cessez-le-feu-preliminaire-victoire-ou-defaite-pour-benyamin-netanyahou/
+    text: Tweet Par Elijah J. Magnier Subscribe Subscribe to get access Read more of
+      this content when you subscribe today. Subscribe Submitting form Log in Make a
+      one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet
+    one_sentence_summary: The article discusses subscription options for accessing content
+      from Elijah J. Magnier, including one-time, monthly, and yearly donation opportunities.
+    paragraph_summary: The article discusses a tweet by Elijah J. Magnier, highlighting
+      the importance of subscribing to access more content. It encourages readers to
+      consider making one-time or recurring donations to support the platform, emphasizing
+      the appreciation for contributions.
+    published: '2025-10-10T16:46:13+00:00'
+  - title: 'Un accord de cessez-le-feu préliminaire : victoire ou défaite pour Benyamin
+      Netanyahou ?'
+    url: https://ejmagnier.com/2025/10/10/un-accord-de-cessez-le-feu-preliminaire-victoire-ou-defaite-pour-benyamin-netanyahou/
+    text: Tweet Par Elijah J. Magnier Subscribe Subscribe to get access Read more of
+      this content when you subscribe today. Subscribe Submitting form Log in Make a
+      one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet
+    one_sentence_summary: The article discusses subscription options for accessing content
+      from Elijah J. Magnier, including one-time, monthly, and yearly donation opportunities.
+    paragraph_summary: The article discusses a tweet by Elijah J. Magnier, highlighting
+      the importance of subscribing to access more content. It encourages readers to
+      consider making one-time or recurring donations to support the platform, emphasizing
+      the appreciation for contributions.
+    published: '2025-10-10T16:46:13+00:00'
+  - title: 'Ein erster Waffenstillstand: Sieg oder Niederlage für Benjamin Netanjahu?'
+    url: https://ejmagnier.com/2025/10/10/ein-erster-waffenstillstand-sieg-oder-niederlage-fur-benjamin-netanjahu/
+    text: 'Tweet Von Elijah J. Magnier – US-Präsident Donald Trump bereitet sich auf
+      eine Reise nach Israel vor, einen Besuch voller Symbolik und strategischer Absichten.
+      Er möchte dort im politischen Rampenlicht stehen und sich persönlich für den Erfolg
+      verantwortlich zeigen. Für Trump ist dies ein Moment, um seine Dominanz zu demonstrieren:
+      zu zeigen, dass die Vereinigten Staaten unter seiner Führung dort Ordnung geschaffen
+      haben, wo zuvor Chaos herrschte. Für Benjamin Netanjahu ist die Optik ebenso wichtig,
+      aber aus anderen Gründen. Er lud Trump ein, vor der Knesset zu sprechen, um sich
+      als unverzichtbarer Premierminister zu präsentieren, als der Mann, dessen internationale
+      Reichweite die Interessen Israels sichert. Beide Männer streben dasselbe Foto
+      an – aber aus unterschiedlichen Gründen. Trump möchte als Entscheidungsträger
+      in Israel auftreten; Netanjahu will beweisen, dass er immer noch die Freundschaft
+      des mächtigsten Mannes der Welt genießt. Doch die Verbindung zwischen ihnen, die
+      auf gegenseitigem Opportunismus beruht, ist mittlerweile angespannt. Als Trump
+      die erste Phase des Waffenstillstandsabkommens verkündete, fügte er einen Satz
+      hinzu, der in Jerusalem wie ein Donnerschlag einschlug: „Alle Parteien werden
+      fair behandelt werden.“ Zum ersten Mal seit Jahren deutete ein amerikanischer
+      Präsident Parität – und nicht Privilegien – zwischen Israel und seinen Gegnern
+      an. Netanjahu, der seine Karriere auf der Annahme aufgebaut hat, dass er die Entscheidungsträger
+      in den USA manipulieren kann und dass die Unterstützung Washingtons bedingungslos
+      ist, verstand sofort, was das bedeutete. Der Satz war sowohl ein Ausdruck der
+      amerikanischen Unruhe als auch eine Zurechtweisung der Straffreiheit Israels.
+      Er schadete Netanjahus politischem Image und veranlasste seine Regierung, sich
+      zu bemühen, den Schaden zu begrenzen. Netanjahu weiß, wie man mit einem narzisstischen
+      Präsidenten umgeht. Er hat längst verstanden, dass Schmeichelei, theatralische
+      Dankbarkeit und ständige Bestätigung der Schlüssel sind, um Trump auf Linie mit
+      den israelischen Interessen zu halten. Aber dieses Mal reicht Schmeichelei möglicherweise
+      nicht aus. Für Israel ist die Aussage, dass die Vereinigten Staaten „alle Parteien
+      fair behandeln“ werden, nicht nur enttäuschend, sondern auch ein Bruch mit dem
+      Mythos der Ausnahmestellung, der jahrzehntelang die militärische Politik ohne
+      Einschränkungen untermauert hat. Subscribe Subscribe to get access Read more of
+      this content when you subscribe today. Subscribe Submitting form Log in Make a
+      one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: US-Präsident Donald Trump plant einen symbolträchtigen Besuch
+      in Israel, um seine politische Dominanz zu demonstrieren und sich als entscheidender
+      Akteur in der Region zu positionieren, während Premierminister Benjamin Netanjahu
+      versucht, seine eigene Unverzichtbarkeit und die enge Beziehung zu den USA zu
+      betonen.
+    paragraph_summary: 'US-Präsident Donald Trump plant einen symbolträchtigen Besuch
+      in Israel, um seine politische Dominanz zu demonstrieren und sich als entscheidender
+      Akteur in der Region zu positionieren. Benjamin Netanjahu, der israelische Premierminister,
+      sieht in Trumps Besuch eine Gelegenheit, seine eigene Bedeutung zu unterstreichen
+      und die enge Beziehung zu den USA zu betonen. Beide Politiker verfolgen ähnliche
+      Ziele, jedoch aus unterschiedlichen Motiven: Trump möchte als derjenige erscheinen,
+      der Ordnung in eine chaotische Situation bringt, während Netanjahu seine Rolle
+      als unverzichtbarer Führer Israels festigen will. Die Beziehung zwischen den beiden
+      ist jedoch angespannt, insbesondere nach Trumps Bemerkung über die faire Behandlung
+      aller Parteien im Rahmen eines Waffenstillstands, was Netanjahu als Bedrohung
+      für seine politische Position empfindet und ihn zwingt, den entstandenen Schaden
+      zu begrenzen.'
+    published: '2025-10-10T16:44:46+00:00'
+  - title: 'Ein erster Waffenstillstand: Sieg oder Niederlage für Benjamin Netanjahu?'
+    url: https://ejmagnier.com/2025/10/10/ein-erster-waffenstillstand-sieg-oder-niederlage-fur-benjamin-netanjahu/
+    text: 'Tweet Von Elijah J. Magnier – US-Präsident Donald Trump bereitet sich auf
+      eine Reise nach Israel vor, einen Besuch voller Symbolik und strategischer Absichten.
+      Er möchte dort im politischen Rampenlicht stehen und sich persönlich für den Erfolg
+      verantwortlich zeigen. Für Trump ist dies ein Moment, um seine Dominanz zu demonstrieren:
+      zu zeigen, dass die Vereinigten Staaten unter seiner Führung dort Ordnung geschaffen
+      haben, wo zuvor Chaos herrschte. Für Benjamin Netanjahu ist die Optik ebenso wichtig,
+      aber aus anderen Gründen. Er lud Trump ein, vor der Knesset zu sprechen, um sich
+      als unverzichtbarer Premierminister zu präsentieren, als der Mann, dessen internationale
+      Reichweite die Interessen Israels sichert. Beide Männer streben dasselbe Foto
+      an – aber aus unterschiedlichen Gründen. Trump möchte als Entscheidungsträger
+      in Israel auftreten; Netanjahu will beweisen, dass er immer noch die Freundschaft
+      des mächtigsten Mannes der Welt genießt. Doch die Verbindung zwischen ihnen, die
+      auf gegenseitigem Opportunismus beruht, ist mittlerweile angespannt. Als Trump
+      die erste Phase des Waffenstillstandsabkommens verkündete, fügte er einen Satz
+      hinzu, der in Jerusalem wie ein Donnerschlag einschlug: „Alle Parteien werden
+      fair behandelt werden.“ Zum ersten Mal seit Jahren deutete ein amerikanischer
+      Präsident Parität – und nicht Privilegien – zwischen Israel und seinen Gegnern
+      an. Netanjahu, der seine Karriere auf der Annahme aufgebaut hat, dass er die Entscheidungsträger
+      in den USA manipulieren kann und dass die Unterstützung Washingtons bedingungslos
+      ist, verstand sofort, was das bedeutete. Der Satz war sowohl ein Ausdruck der
+      amerikanischen Unruhe als auch eine Zurechtweisung der Straffreiheit Israels.
+      Er schadete Netanjahus politischem Image und veranlasste seine Regierung, sich
+      zu bemühen, den Schaden zu begrenzen. Netanjahu weiß, wie man mit einem narzisstischen
+      Präsidenten umgeht. Er hat längst verstanden, dass Schmeichelei, theatralische
+      Dankbarkeit und ständige Bestätigung der Schlüssel sind, um Trump auf Linie mit
+      den israelischen Interessen zu halten. Aber dieses Mal reicht Schmeichelei möglicherweise
+      nicht aus. Für Israel ist die Aussage, dass die Vereinigten Staaten „alle Parteien
+      fair behandeln“ werden, nicht nur enttäuschend, sondern auch ein Bruch mit dem
+      Mythos der Ausnahmestellung, der jahrzehntelang die militärische Politik ohne
+      Einschränkungen untermauert hat. Subscribe Subscribe to get access Read more of
+      this content when you subscribe today. Subscribe Submitting form Log in Make a
+      one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: US-Präsident Donald Trump plant einen symbolträchtigen Besuch
+      in Israel, um seine politische Dominanz zu demonstrieren und sich als entscheidender
+      Akteur in der Region zu positionieren, während Premierminister Benjamin Netanjahu
+      versucht, seine eigene Unverzichtbarkeit und die enge Beziehung zu den USA zu
+      betonen.
+    paragraph_summary: 'US-Präsident Donald Trump plant einen symbolträchtigen Besuch
+      in Israel, um seine politische Dominanz zu demonstrieren und sich als entscheidender
+      Akteur in der Region zu positionieren. Benjamin Netanjahu, der israelische Premierminister,
+      sieht in Trumps Besuch eine Gelegenheit, seine eigene Bedeutung zu unterstreichen
+      und die enge Beziehung zu den USA zu betonen. Beide Politiker verfolgen ähnliche
+      Ziele, jedoch aus unterschiedlichen Motiven: Trump möchte als derjenige erscheinen,
+      der Ordnung in eine chaotische Situation bringt, während Netanjahu seine Rolle
+      als unverzichtbarer Führer Israels festigen will. Die Beziehung zwischen den beiden
+      ist jedoch angespannt, insbesondere nach Trumps Bemerkung über die faire Behandlung
+      aller Parteien im Rahmen eines Waffenstillstands, was Netanjahu als Bedrohung
+      für seine politische Position empfindet und ihn zwingt, den entstandenen Schaden
+      zu begrenzen.'
+    published: '2025-10-10T16:44:46+00:00'
+  - title: 'Een eerste stap in een staakt-het-vuren-akkoord: overwinning of nederlaag
+      voor Benjamin Netanyahu?'
+    url: https://ejmagnier.com/2025/10/10/een-eerste-stap-in-een-staakt-het-vuren-akkoord-overwinning-of-nederlaag-voor-benjamin-netanyahu/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. De Amerikaanse
+      president Donald Trump bereidt zich voor op een reis naar Israël, een bezoek dat
+      bol staat van symboliek en strategische bedoelingen. Hij wil daar zijn om de politieke
+      schijnwerpers te pakken en persoonlijke eer te claimen voor deze prestatie. Voor
+      Trump is dit een moment om zijn dominantie te tonen: om te laten zien dat de Verenigde
+      Staten onder zijn leiding orde hebben gebracht waar chaos heerste. Voor Benjamin
+      Netanyahu is de beeldvorming eveneens van cruciaal belang, maar om andere redenen.
+      Hij heeft Trump uitgenodigd om in de Knesset te spreken om zichzelf te presenteren
+      als de onmisbare premier, de man wiens internationale invloed de belangen van
+      Israël veiligstelt. Beide mannen streven naar dezelfde foto, maar met verschillende
+      doelen. Trump wil zich profileren als de beslisser in Israël; Netanyahu wil bewijzen
+      dat hij nog steeds de vriendschap geniet van de machtigste man ter wereld. Maar
+      de band tussen hen, gesmeed in wederzijds opportunisme, is ongemakkelijk geworden.
+      Toen Trump de eerste fase van het staakt-het-vuren-akkoord aankondigde, voegde
+      hij een zin toe die als een donderslag bij heldere hemel in Jeruzalem insloeg:
+      “Alle partijen zullen eerlijk worden behandeld.” Voor het eerst in jaren suggereerde
+      een Amerikaanse president gelijkheid – en geen voorrecht – tussen Israël en zijn
+      tegenstanders. Netanyahu, die zijn carrière heeft opgebouwd op de veronderstelling
+      dat hij Amerikaanse besluitvormers kan manipuleren en dat de steun van Washington
+      onvoorwaardelijk is, begreep onmiddellijk de angel van deze uitspraak. De zin
+      was zowel een bevestiging van het Amerikaanse onbehagen als een berisping van
+      de straffeloosheid van Israël. Het beschadigde het politieke imago van Netanyahu
+      en zorgde ervoor dat zijn regering zich haastte om de schade te beperken. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Netanyahu weet hoe hij met een narcistische president moet
+      omgaan. Hij begrijpt al lang dat vleierij, theatrale dankbaarheid en voortdurende
+      bevestiging de sleutels zijn om Trump op één lijn te houden met de Israëlische
+      belangen. Maar deze keer is vleierij misschien niet genoeg. Voor Israël is het
+      niet alleen teleurstellend om te horen dat de Verenigde Staten “alle partijen
+      eerlijk zullen behandelen”; het is een breuk in de mythe van uitzonderlijkheid
+      die decennialang ten grondslag lag aan een carte blanche militair beleid. De Israëlische
+      premier haastte zich niettemin om de eerste fase van de overeenkomst als een overwinning
+      te presenteren: de terugkeer van gijzelaars, de impliciete belofte om de autoriteit
+      van Hamas te ontmantelen en de verzekering dat de onderhandelingen over de resterende
+      negentien punten zullen worden voortgezet terwijl de Israëlische troepen in Gaza
+      blijven. Netanyahu’s boodschap aan het publiek is dat hij alles wat essentieel
+      is – controle over de terugtrekkingslijnen, de timing en het tempo van de operaties
+      – heeft veiliggesteld en dat Israël zal handelen in overeenstemming met zijn “veiligheidsbehoeften”,
+      niet onder Amerikaanse druk. Maar de door Netanyahu zelf uitgeroepen overwinning
+      is op zijn best gedeeltelijk. Trump, die in januari 2025 aantrad, had hem aanvankelijk
+      alles gegeven wat hij wilde. Hij hief de door de regering-Biden opgelegde beperkingen
+      op, gaf achtergehouden munitie vrij en steunde de hervatting van de volledige
+      oorlog door Israël. Hij steunde “Operatie Gideon 2”, de aanval op Gaza-stad, en
+      beschermde Israël diplomatiek door zijn veto uit te spreken over elke VN-resolutie
+      die zijn acties veroordeelde. Hij sloeg een oogje dicht voor de hongersnood die
+      door de Israëlische blokkade was veroorzaakt en sloot zich zelfs aan bij plannen
+      voor de zogenaamde “Gaza Riviera”, een visie op de wederopbouw die gebaseerd was
+      op de verdrijving van de Palestijnen. Netanyahu interpreteerde dit alles als een
+      vrijbrief om de oorlog voor onbepaalde tijd voort te zetten. Hij geloofde dat
+      hij op Trumps toegeeflijkheid kon rekenen zolang Israël de illusie van vooruitgang
+      tegen Hamas in stand hield. Die illusie stortte in toen het Israëlische leger
+      er niet in slaagde de doelstellingen van de regering te verwezenlijken in 730
+      dagen, nadat het 76.000 Palestijnen had gedood, meer dan 210.000 had verwond en
+      meer dan 80% van de Gazastrook had verwoest. Trump besefte dat hij en Netanyahu
+      steeds meer geïsoleerd raakten – twee mannen die zich verzetten tegen de wereldwijde
+      opinie en beschuldigd werden van het voortzetten van een oorlog die de wereld
+      nu beschouwt als een morele en politieke catastrofe. Zowel in westerse hoofdsteden
+      als in Arabische straten heeft de publieke verontwaardiging over de verwoesting
+      van Gaza Israël veranderd van een symbool van westerse veerkracht in een paria-staat.
+      In het meest recente rapport van de VN wordt de situatie in Gaza omschreven als
+      genocide. Voor Trump veranderde de situatie: het voortzetten van de oorlog was
+      niet langer een blijk van kracht, maar een last die zijn internationale legitimiteit
+      en binnenlandse positie ondermijnde. Het beëindigen van de oorlog werd noodzakelijk
+      om zijn kansen op het winnen van de Nobelprijs, die hij zo graag wil, te vergroten.
+      Voor de Palestijnen betekent het eerste staakt-het-vuren het einde van het plan
+      van de VS en Israël om Gaza te ontvolken. De beoogde langdurige bezetting van
+      de Gazastrook is, althans voorlopig, van de baan. Netanyahu kan niet langer de
+      grootschalige campagne voortzetten die hij zijn extreemrechtse coalitie had beloofd.
+      De droom van een “Gaza Riviera” waarin de Palestijnen verdwenen zouden zijn, is
+      in rook opgegaan. Maar voor Netanyahu is dit niet het einde van het manoeuvreren,
+      maar het begin van een nieuw spel. Het bezoek van Trump zal Netanyahu’s instinct
+      voor politiek overleven op de proef stellen. Als de vrijlating van de gijzelaars
+      een tijdelijke stijging van de populariteit van Israël teweegbrengt, zou Netanyahu
+      vervroegde verkiezingen kunnen uitschrijven om zijn macht te consolideren en zijn
+      extremistische coalitiepartners te omzeilen. Het zou een berekende zet zijn om
+      zijn autoriteit te herstellen, de eer voor de terugkeer van de gijzelaars op te
+      eisen en zichzelf neer te zetten als de enige leider die de belangen van Israël
+      kan veiligstellen. Maar als dit in plaats daarvan leidt tot publieke woede – over
+      het falen van de oorlog, de dood van gijzelaars die een jaar eerder hadden kunnen
+      worden vrijgelaten toen Hamas instemde met een soortgelijk voorstel, en de groeiende
+      roep om verantwoording – zal Netanyahu zich terugtrekken in een alliantie met
+      zijn meest radicale ministers. In dat geval zal hij zijn tijd afwachten en verkiezingen
+      vermijden totdat hij een nieuwe crisis kan creëren: een confrontatie op de Westelijke
+      Jordaanoever, een provocatie in Libanon, een aanval op Iran of een schending van
+      het akkoord over Gaza om eindeloze redenen die hij de komende weken zou kunnen
+      aanvoeren. Wat dit moment ongekend maakt, is dat het staakt-het-vuren-akkoord
+      – hoewel nog fragiel en beperkt tot de beginfase – Netanyahu’s illusie van totale
+      controle heeft doorbroken. De verklaring van Trump dat hij “alle partijen eerlijk”
+      zal behandelen, heeft het idee van de onaantastbare status van Israël ondermijnd.
+      De Amerikaanse president die Netanyahu ooit bewapende en beschermde, eist nu terughoudendheid
+      en wederkerigheid. Die verschuiving legt Netanyahu’s diepste angst bloot: het
+      aan het wankelen brengen van de speciale status die hem in staat heeft gesteld
+      de wereld te trotseren terwijl hij de Amerikaanse zegen claimde en zag hoe de
+      Arabische landen erin geslaagd zijn Trumps beslissing om de oorlog te beëindigen
+      te beïnvloeden. Het is cruciaal om te onthouden dat het huidige staakt-het-vuren
+      slechts de eerste stap is in een bredere overeenkomst. De resterende fasen – materiaal
+      voor de wederopbouw, gevangenenruil, humanitaire hulp, bestuursregelingen, grensgaranties
+      en bovenal het tijdschema voor de totale terugtrekking – zullen zich in de loop
+      van de tijd ontvouwen, en tijd kan voor beide partijen in het voordeel werken.
+      Voor Israël biedt uitstel kansen om te herinterpreteren en opnieuw te onderhandelen.
+      Voor de Palestijnen in Gaza betekent tijd de langzame, pijnlijke taak om geliefden
+      uit het puin te graven, verspreide families te herenigen en de restanten van een
+      verbrijzelde samenleving weer bij elkaar te brengen. De wereld is niet in totale
+      vrede, maar slechts tijdelijk in een pauze. De wapens zijn tot zwijgen gebracht,
+      maar de architectuur van geweld blijft intact, wachtend op de volgende vonk. Netanyahu’s
+      politieke instincten zijn die van overleven en confrontatie; hij heeft nooit een
+      einde geaccepteerd waarover hij geen controle had. Als het staakt-het-vuren standhoudt,
+      zal dat ondanks hem zijn, niet dankzij hem. En als het mislukt, zal dat zijn excuus
+      zijn om het vuur opnieuw aan te wakkeren en – zoals hij al zo vaak heeft gedaan
+      – een nieuwe golf van vernietiging te ontketenen onder het mom van nationale veiligheid.
+      Voor Gaza komt de wederopbouw op de eerste plaats en is het likken van diepe fysieke
+      en psychologische wonden de prioriteit om de verwoeste samenleving weer op te
+      bouwen na 733 dagen van verwoestende oorlog, vernietiging, lijden en vernedering.
+      Voorlopig is het doden gestopt. Maar de vrede is nog steeds kwetsbaar en staat
+      voor vele uitdagingen. Netanyahu is al op zoek naar zijn volgende illusie – de
+      volgende crisis die hij kan oproepen, het volgende konijn dat hij uit zijn hoed
+      kan toveren, de volgende vijand, de volgende crisis, het volgende excuus om terug
+      te vorderen wat hij Israëls recht op zelfverdediging noemt, om zijn macht nog
+      iets langer in stand te houden. De eerste stap van het staakt-het-vuren lijkt
+      misschien een overwinning. In werkelijkheid kan het het begin zijn van zijn politieke
+      nederlaag of een stap om zijn sabotagevaardigheden te tonen. Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Donald Trump is preparing for a symbolic and strategically
+      significant visit to Israel, aiming to showcase U.S. dominance and claim personal
+      credit, while Israeli Prime Minister Benjamin Netanyahu seeks to reinforce his
+      image as an indispensable leader by inviting Trump to speak in the Knesset.
+    paragraph_summary: In a highly symbolic visit to Israel, President Donald Trump
+      aims to assert his dominance and claim personal credit for his administration's
+      achievements, while Israeli Prime Minister Benjamin Netanyahu seeks to reinforce
+      his image as an indispensable leader safeguarding Israel's interests. Both leaders
+      desire a shared photo opportunity, yet their motivations diverge; Trump wants
+      to position himself as a key decision-maker in the region, whereas Netanyahu aims
+      to demonstrate his continued close ties with the U.S. However, the relationship
+      has become strained, particularly after Trump suggested a shift towards treating
+      all parties in the Israeli-Palestinian conflict equally, which undermined Netanyahu's
+      longstanding assumption of unconditional American support and damaged his political
+      standing.
+    published: '2025-10-10T16:43:17+00:00'
+  - title: 'Een eerste stap in een staakt-het-vuren-akkoord: overwinning of nederlaag
+      voor Benjamin Netanyahu?'
+    url: https://ejmagnier.com/2025/10/10/een-eerste-stap-in-een-staakt-het-vuren-akkoord-overwinning-of-nederlaag-voor-benjamin-netanyahu/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. De Amerikaanse
+      president Donald Trump bereidt zich voor op een reis naar Israël, een bezoek dat
+      bol staat van symboliek en strategische bedoelingen. Hij wil daar zijn om de politieke
+      schijnwerpers te pakken en persoonlijke eer te claimen voor deze prestatie. Voor
+      Trump is dit een moment om zijn dominantie te tonen: om te laten zien dat de Verenigde
+      Staten onder zijn leiding orde hebben gebracht waar chaos heerste. Voor Benjamin
+      Netanyahu is de beeldvorming eveneens van cruciaal belang, maar om andere redenen.
+      Hij heeft Trump uitgenodigd om in de Knesset te spreken om zichzelf te presenteren
+      als de onmisbare premier, de man wiens internationale invloed de belangen van
+      Israël veiligstelt. Beide mannen streven naar dezelfde foto, maar met verschillende
+      doelen. Trump wil zich profileren als de beslisser in Israël; Netanyahu wil bewijzen
+      dat hij nog steeds de vriendschap geniet van de machtigste man ter wereld. Maar
+      de band tussen hen, gesmeed in wederzijds opportunisme, is ongemakkelijk geworden.
+      Toen Trump de eerste fase van het staakt-het-vuren-akkoord aankondigde, voegde
+      hij een zin toe die als een donderslag bij heldere hemel in Jeruzalem insloeg:
+      “Alle partijen zullen eerlijk worden behandeld.” Voor het eerst in jaren suggereerde
+      een Amerikaanse president gelijkheid – en geen voorrecht – tussen Israël en zijn
+      tegenstanders. Netanyahu, die zijn carrière heeft opgebouwd op de veronderstelling
+      dat hij Amerikaanse besluitvormers kan manipuleren en dat de steun van Washington
+      onvoorwaardelijk is, begreep onmiddellijk de angel van deze uitspraak. De zin
+      was zowel een bevestiging van het Amerikaanse onbehagen als een berisping van
+      de straffeloosheid van Israël. Het beschadigde het politieke imago van Netanyahu
+      en zorgde ervoor dat zijn regering zich haastte om de schade te beperken. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Netanyahu weet hoe hij met een narcistische president moet
+      omgaan. Hij begrijpt al lang dat vleierij, theatrale dankbaarheid en voortdurende
+      bevestiging de sleutels zijn om Trump op één lijn te houden met de Israëlische
+      belangen. Maar deze keer is vleierij misschien niet genoeg. Voor Israël is het
+      niet alleen teleurstellend om te horen dat de Verenigde Staten “alle partijen
+      eerlijk zullen behandelen”; het is een breuk in de mythe van uitzonderlijkheid
+      die decennialang ten grondslag lag aan een carte blanche militair beleid. De Israëlische
+      premier haastte zich niettemin om de eerste fase van de overeenkomst als een overwinning
+      te presenteren: de terugkeer van gijzelaars, de impliciete belofte om de autoriteit
+      van Hamas te ontmantelen en de verzekering dat de onderhandelingen over de resterende
+      negentien punten zullen worden voortgezet terwijl de Israëlische troepen in Gaza
+      blijven. Netanyahu’s boodschap aan het publiek is dat hij alles wat essentieel
+      is – controle over de terugtrekkingslijnen, de timing en het tempo van de operaties
+      – heeft veiliggesteld en dat Israël zal handelen in overeenstemming met zijn “veiligheidsbehoeften”,
+      niet onder Amerikaanse druk. Maar de door Netanyahu zelf uitgeroepen overwinning
+      is op zijn best gedeeltelijk. Trump, die in januari 2025 aantrad, had hem aanvankelijk
+      alles gegeven wat hij wilde. Hij hief de door de regering-Biden opgelegde beperkingen
+      op, gaf achtergehouden munitie vrij en steunde de hervatting van de volledige
+      oorlog door Israël. Hij steunde “Operatie Gideon 2”, de aanval op Gaza-stad, en
+      beschermde Israël diplomatiek door zijn veto uit te spreken over elke VN-resolutie
+      die zijn acties veroordeelde. Hij sloeg een oogje dicht voor de hongersnood die
+      door de Israëlische blokkade was veroorzaakt en sloot zich zelfs aan bij plannen
+      voor de zogenaamde “Gaza Riviera”, een visie op de wederopbouw die gebaseerd was
+      op de verdrijving van de Palestijnen. Netanyahu interpreteerde dit alles als een
+      vrijbrief om de oorlog voor onbepaalde tijd voort te zetten. Hij geloofde dat
+      hij op Trumps toegeeflijkheid kon rekenen zolang Israël de illusie van vooruitgang
+      tegen Hamas in stand hield. Die illusie stortte in toen het Israëlische leger
+      er niet in slaagde de doelstellingen van de regering te verwezenlijken in 730
+      dagen, nadat het 76.000 Palestijnen had gedood, meer dan 210.000 had verwond en
+      meer dan 80% van de Gazastrook had verwoest. Trump besefte dat hij en Netanyahu
+      steeds meer geïsoleerd raakten – twee mannen die zich verzetten tegen de wereldwijde
+      opinie en beschuldigd werden van het voortzetten van een oorlog die de wereld
+      nu beschouwt als een morele en politieke catastrofe. Zowel in westerse hoofdsteden
+      als in Arabische straten heeft de publieke verontwaardiging over de verwoesting
+      van Gaza Israël veranderd van een symbool van westerse veerkracht in een paria-staat.
+      In het meest recente rapport van de VN wordt de situatie in Gaza omschreven als
+      genocide. Voor Trump veranderde de situatie: het voortzetten van de oorlog was
+      niet langer een blijk van kracht, maar een last die zijn internationale legitimiteit
+      en binnenlandse positie ondermijnde. Het beëindigen van de oorlog werd noodzakelijk
+      om zijn kansen op het winnen van de Nobelprijs, die hij zo graag wil, te vergroten.
+      Voor de Palestijnen betekent het eerste staakt-het-vuren het einde van het plan
+      van de VS en Israël om Gaza te ontvolken. De beoogde langdurige bezetting van
+      de Gazastrook is, althans voorlopig, van de baan. Netanyahu kan niet langer de
+      grootschalige campagne voortzetten die hij zijn extreemrechtse coalitie had beloofd.
+      De droom van een “Gaza Riviera” waarin de Palestijnen verdwenen zouden zijn, is
+      in rook opgegaan. Maar voor Netanyahu is dit niet het einde van het manoeuvreren,
+      maar het begin van een nieuw spel. Het bezoek van Trump zal Netanyahu’s instinct
+      voor politiek overleven op de proef stellen. Als de vrijlating van de gijzelaars
+      een tijdelijke stijging van de populariteit van Israël teweegbrengt, zou Netanyahu
+      vervroegde verkiezingen kunnen uitschrijven om zijn macht te consolideren en zijn
+      extremistische coalitiepartners te omzeilen. Het zou een berekende zet zijn om
+      zijn autoriteit te herstellen, de eer voor de terugkeer van de gijzelaars op te
+      eisen en zichzelf neer te zetten als de enige leider die de belangen van Israël
+      kan veiligstellen. Maar als dit in plaats daarvan leidt tot publieke woede – over
+      het falen van de oorlog, de dood van gijzelaars die een jaar eerder hadden kunnen
+      worden vrijgelaten toen Hamas instemde met een soortgelijk voorstel, en de groeiende
+      roep om verantwoording – zal Netanyahu zich terugtrekken in een alliantie met
+      zijn meest radicale ministers. In dat geval zal hij zijn tijd afwachten en verkiezingen
+      vermijden totdat hij een nieuwe crisis kan creëren: een confrontatie op de Westelijke
+      Jordaanoever, een provocatie in Libanon, een aanval op Iran of een schending van
+      het akkoord over Gaza om eindeloze redenen die hij de komende weken zou kunnen
+      aanvoeren. Wat dit moment ongekend maakt, is dat het staakt-het-vuren-akkoord
+      – hoewel nog fragiel en beperkt tot de beginfase – Netanyahu’s illusie van totale
+      controle heeft doorbroken. De verklaring van Trump dat hij “alle partijen eerlijk”
+      zal behandelen, heeft het idee van de onaantastbare status van Israël ondermijnd.
+      De Amerikaanse president die Netanyahu ooit bewapende en beschermde, eist nu terughoudendheid
+      en wederkerigheid. Die verschuiving legt Netanyahu’s diepste angst bloot: het
+      aan het wankelen brengen van de speciale status die hem in staat heeft gesteld
+      de wereld te trotseren terwijl hij de Amerikaanse zegen claimde en zag hoe de
+      Arabische landen erin geslaagd zijn Trumps beslissing om de oorlog te beëindigen
+      te beïnvloeden. Het is cruciaal om te onthouden dat het huidige staakt-het-vuren
+      slechts de eerste stap is in een bredere overeenkomst. De resterende fasen – materiaal
+      voor de wederopbouw, gevangenenruil, humanitaire hulp, bestuursregelingen, grensgaranties
+      en bovenal het tijdschema voor de totale terugtrekking – zullen zich in de loop
+      van de tijd ontvouwen, en tijd kan voor beide partijen in het voordeel werken.
+      Voor Israël biedt uitstel kansen om te herinterpreteren en opnieuw te onderhandelen.
+      Voor de Palestijnen in Gaza betekent tijd de langzame, pijnlijke taak om geliefden
+      uit het puin te graven, verspreide families te herenigen en de restanten van een
+      verbrijzelde samenleving weer bij elkaar te brengen. De wereld is niet in totale
+      vrede, maar slechts tijdelijk in een pauze. De wapens zijn tot zwijgen gebracht,
+      maar de architectuur van geweld blijft intact, wachtend op de volgende vonk. Netanyahu’s
+      politieke instincten zijn die van overleven en confrontatie; hij heeft nooit een
+      einde geaccepteerd waarover hij geen controle had. Als het staakt-het-vuren standhoudt,
+      zal dat ondanks hem zijn, niet dankzij hem. En als het mislukt, zal dat zijn excuus
+      zijn om het vuur opnieuw aan te wakkeren en – zoals hij al zo vaak heeft gedaan
+      – een nieuwe golf van vernietiging te ontketenen onder het mom van nationale veiligheid.
+      Voor Gaza komt de wederopbouw op de eerste plaats en is het likken van diepe fysieke
+      en psychologische wonden de prioriteit om de verwoeste samenleving weer op te
+      bouwen na 733 dagen van verwoestende oorlog, vernietiging, lijden en vernedering.
+      Voorlopig is het doden gestopt. Maar de vrede is nog steeds kwetsbaar en staat
+      voor vele uitdagingen. Netanyahu is al op zoek naar zijn volgende illusie – de
+      volgende crisis die hij kan oproepen, het volgende konijn dat hij uit zijn hoed
+      kan toveren, de volgende vijand, de volgende crisis, het volgende excuus om terug
+      te vorderen wat hij Israëls recht op zelfverdediging noemt, om zijn macht nog
+      iets langer in stand te houden. De eerste stap van het staakt-het-vuren lijkt
+      misschien een overwinning. In werkelijkheid kan het het begin zijn van zijn politieke
+      nederlaag of een stap om zijn sabotagevaardigheden te tonen. Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Donald Trump is preparing for a symbolic and strategically
+      significant visit to Israel, aiming to showcase U.S. dominance and claim personal
+      credit, while Israeli Prime Minister Benjamin Netanyahu seeks to reinforce his
+      image as an indispensable leader by inviting Trump to speak in the Knesset.
+    paragraph_summary: In a highly symbolic visit to Israel, President Donald Trump
+      aims to assert his dominance and claim personal credit for his administration's
+      achievements, while Israeli Prime Minister Benjamin Netanyahu seeks to reinforce
+      his image as an indispensable leader safeguarding Israel's interests. Both leaders
+      desire a shared photo opportunity, yet their motivations diverge; Trump wants
+      to position himself as a key decision-maker in the region, whereas Netanyahu aims
+      to demonstrate his continued close ties with the U.S. However, the relationship
+      has become strained, particularly after Trump suggested a shift towards treating
+      all parties in the Israeli-Palestinian conflict equally, which undermined Netanyahu's
+      longstanding assumption of unconditional American support and damaged his political
+      standing.
+    published: '2025-10-10T16:43:17+00:00'
+  - title: Benjamin Netanyahu, acculé à mettre fin à la guerre de Gaza, prépare déjà
+      la sortie
+    url: https://ejmagnier.com/2025/10/09/benjamin-netanyahu-accule-a-mettre-fin-a-la-guerre-de-gaza-prepare-deja-la-sortie/
+    text: 'Tweet Par Elijah J. Magnier Le Premier ministre israélien Benjamin Netanyahu
+      envoie un message clair : Israël est désormais suffisamment puissant, armé et
+      autonome pour défier même les États-Unis. Dans une récente interview, il s’est
+      vanté du fait qu’Israël était « en train de devenir totalement autosuffisant »
+      et qu’il « continuerait à partager sa technologie avancée avec son meilleur allié,
+      les États-Unis ». La formulation était volontairement ambiguë, mais le sens ne
+      laissait aucun doute : Netanyahu voulait signifier qu’Israël ne dépendait plus
+      du soutien de Washington pour mener ses guerres ni pour assurer son avenir — et
+      qu’il était prêt à agir selon ses propres termes. Ce n’est pas de la simple rhétorique.
+      Au cours de la guerre de Gaza, Israël a reçu plus de 21,7 milliards de dollars
+      d’aide américaine — une somme colossale qui lui a permis de mener l’une des campagnes
+      militaires les plus destructrices de l’histoire contemporaine. Grâce à cet argent,
+      Netanyahu a reconstitué son arsenal de munitions de précision, réalimenté son
+      système d’interception multicouche et obtenu des composants militaires essentiels
+      auprès de l’Allemagne et du Royaume-Uni. Plus de 200 000 tonnes d’explosifs ont
+      rasé environ 80 % des infrastructures de Gaza. Des quartiers entiers ont disparu.
+      La machine de guerre est désormais entièrement réapprovisionnée, solidement installée
+      et prête pour une guerre prolongée — ou une nouvelle. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Le Premier ministre israélien Benjamin Netanyahu affirme qu'Israël
+      est désormais suffisamment autonome et puissant pour agir indépendamment des États-Unis,
+      tout en continuant à partager sa technologie avancée avec son principal allié.
+    paragraph_summary: Israeli Prime Minister Benjamin Netanyahu has asserted that Israel
+      has become sufficiently powerful, armed, and autonomous to challenge even the
+      United States, indicating a shift towards self-sufficiency in military capabilities.
+      In a recent interview, he emphasized Israel's ability to conduct its own military
+      operations without relying on American support, while still promising to share
+      advanced technology with the U.S. This statement comes in the context of Israel
+      receiving over $21.7 billion in American aid during the Gaza conflict, which has
+      enabled it to significantly enhance its military arsenal and conduct extensive
+      military campaigns. The result has been a devastating impact on Gaza, with substantial
+      destruction of infrastructure and a military readiness for potential future conflicts.
+    published: '2025-10-09T17:30:33+00:00'
+  - title: Benjamin Netanyahu, acculé à mettre fin à la guerre de Gaza, prépare déjà
+      la sortie
+    url: https://ejmagnier.com/2025/10/09/benjamin-netanyahu-accule-a-mettre-fin-a-la-guerre-de-gaza-prepare-deja-la-sortie/
+    text: 'Tweet Par Elijah J. Magnier Le Premier ministre israélien Benjamin Netanyahu
+      envoie un message clair : Israël est désormais suffisamment puissant, armé et
+      autonome pour défier même les États-Unis. Dans une récente interview, il s’est
+      vanté du fait qu’Israël était « en train de devenir totalement autosuffisant »
+      et qu’il « continuerait à partager sa technologie avancée avec son meilleur allié,
+      les États-Unis ». La formulation était volontairement ambiguë, mais le sens ne
+      laissait aucun doute : Netanyahu voulait signifier qu’Israël ne dépendait plus
+      du soutien de Washington pour mener ses guerres ni pour assurer son avenir — et
+      qu’il était prêt à agir selon ses propres termes. Ce n’est pas de la simple rhétorique.
+      Au cours de la guerre de Gaza, Israël a reçu plus de 21,7 milliards de dollars
+      d’aide américaine — une somme colossale qui lui a permis de mener l’une des campagnes
+      militaires les plus destructrices de l’histoire contemporaine. Grâce à cet argent,
+      Netanyahu a reconstitué son arsenal de munitions de précision, réalimenté son
+      système d’interception multicouche et obtenu des composants militaires essentiels
+      auprès de l’Allemagne et du Royaume-Uni. Plus de 200 000 tonnes d’explosifs ont
+      rasé environ 80 % des infrastructures de Gaza. Des quartiers entiers ont disparu.
+      La machine de guerre est désormais entièrement réapprovisionnée, solidement installée
+      et prête pour une guerre prolongée — ou une nouvelle. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Le Premier ministre israélien Benjamin Netanyahu affirme qu'Israël
+      est désormais suffisamment autonome et puissant pour agir indépendamment des États-Unis,
+      tout en continuant à partager sa technologie avancée avec son principal allié.
+    paragraph_summary: Israeli Prime Minister Benjamin Netanyahu has asserted that Israel
+      has become sufficiently powerful, armed, and autonomous to challenge even the
+      United States, indicating a shift towards self-sufficiency in military capabilities.
+      In a recent interview, he emphasized Israel's ability to conduct its own military
+      operations without relying on American support, while still promising to share
+      advanced technology with the U.S. This statement comes in the context of Israel
+      receiving over $21.7 billion in American aid during the Gaza conflict, which has
+      enabled it to significantly enhance its military arsenal and conduct extensive
+      military campaigns. The result has been a devastating impact on Gaza, with substantial
+      destruction of infrastructure and a military readiness for potential future conflicts.
+    published: '2025-10-09T17:30:33+00:00'
+  - title: Benjamin Netanjahu, der in die Enge getrieben wurde, um den Krieg in Gaza
+      zu beenden, bereitet den Boden für einen Ausweg vor
+    url: https://ejmagnier.com/2025/10/09/benjamin-netanjahu-der-in-die-enge-getrieben-wurde-um-den-krieg-in-gaza-zu-beenden-bereitet-den-boden-fur-einen-ausweg-vor/
+    text: 'Tweet Von Elijah J. Magnier Der israelische Ministerpräsident Benjamin Netanjahu
+      sendet eine klare Botschaft: Israel ist jetzt mächtig genug, bewaffnet genug und
+      autark genug, um sich sogar den Vereinigten Staaten zu widersetzen. In einem kürzlich
+      geführten Interview prahlte er, dass Israel „auf dem Weg zur völligen Selbstversorgung“
+      sei und „seine fortschrittliche Technologie weiterhin mit seinem besten Verbündeten,
+      den Vereinigten Staaten, teilen werde“. Die Formulierung war bewusst mehrdeutig,
+      aber die Bedeutung war unmissverständlich. Netanjahu signalisierte damit, dass
+      Israel nicht mehr auf die Unterstützung Washingtons angewiesen ist, um seine Kriege
+      zu führen oder seine Zukunft zu sichern – und dass es bereit ist, nach seinen
+      eigenen Bedingungen zu handeln. Das ist nicht nur Rhetorik. Im Laufe des Gaza-Krieges
+      hat Israel mehr als 21,7 Milliarden Dollar an amerikanischer Hilfe erhalten, eine
+      enorme Summe, die es ihm ermöglicht hat, eine der zerstörerischsten Militäraktionen
+      der modernen Geschichte zu führen. Mit diesem Geld hat Netanjahu sein Arsenal
+      an Präzisionsmunition aufgefüllt, das mehrschichtige Raketenabwehrsystem neu bestückt
+      und wichtige militärische Komponenten aus Deutschland und Großbritannien gesichert.
+      Mehr als 200.000 Tonnen Sprengstoff haben etwa 80 Prozent der Infrastruktur Gazas
+      zerstört. Ganze Stadtteile wurden ausgelöscht. Die Kriegsmaschinerie ist nun vollständig
+      wiederaufgestockt, fest verankert und bereit für einen langen Konflikt – oder
+      einen neuen. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Israels Ministerpräsident Benjamin Netanjahu betont, dass
+      Israel nun stark und autark genug ist, um unabhängig von den USA zu agieren, während
+      es gleichzeitig seine fortschrittliche Technologie mit Washington teilt.
+    paragraph_summary: Israeli Prime Minister Benjamin Netanyahu has conveyed a bold
+      message indicating that Israel has become powerful and self-sufficient enough
+      to act independently, even in opposition to the United States. In a recent interview,
+      he claimed that Israel is on the path to complete self-sufficiency while still
+      sharing advanced technology with its primary ally, the U.S. This statement underscores
+      Israel's diminishing reliance on American support for its military operations
+      and future security. During the ongoing Gaza conflict, Israel has received over
+      $21.7 billion in U.S. aid, which has significantly bolstered its military capabilities,
+      allowing for extensive destruction in Gaza, including the obliteration of entire
+      neighborhoods. With its military resources fully replenished, Israel appears prepared
+      for prolonged conflict or potential new engagements.
+    published: '2025-10-09T17:27:49+00:00'
+  - title: Benjamin Netanjahu, der in die Enge getrieben wurde, um den Krieg in Gaza
+      zu beenden, bereitet den Boden für einen Ausweg vor
+    url: https://ejmagnier.com/2025/10/09/benjamin-netanjahu-der-in-die-enge-getrieben-wurde-um-den-krieg-in-gaza-zu-beenden-bereitet-den-boden-fur-einen-ausweg-vor/
+    text: 'Tweet Von Elijah J. Magnier Der israelische Ministerpräsident Benjamin Netanjahu
+      sendet eine klare Botschaft: Israel ist jetzt mächtig genug, bewaffnet genug und
+      autark genug, um sich sogar den Vereinigten Staaten zu widersetzen. In einem kürzlich
+      geführten Interview prahlte er, dass Israel „auf dem Weg zur völligen Selbstversorgung“
+      sei und „seine fortschrittliche Technologie weiterhin mit seinem besten Verbündeten,
+      den Vereinigten Staaten, teilen werde“. Die Formulierung war bewusst mehrdeutig,
+      aber die Bedeutung war unmissverständlich. Netanjahu signalisierte damit, dass
+      Israel nicht mehr auf die Unterstützung Washingtons angewiesen ist, um seine Kriege
+      zu führen oder seine Zukunft zu sichern – und dass es bereit ist, nach seinen
+      eigenen Bedingungen zu handeln. Das ist nicht nur Rhetorik. Im Laufe des Gaza-Krieges
+      hat Israel mehr als 21,7 Milliarden Dollar an amerikanischer Hilfe erhalten, eine
+      enorme Summe, die es ihm ermöglicht hat, eine der zerstörerischsten Militäraktionen
+      der modernen Geschichte zu führen. Mit diesem Geld hat Netanjahu sein Arsenal
+      an Präzisionsmunition aufgefüllt, das mehrschichtige Raketenabwehrsystem neu bestückt
+      und wichtige militärische Komponenten aus Deutschland und Großbritannien gesichert.
+      Mehr als 200.000 Tonnen Sprengstoff haben etwa 80 Prozent der Infrastruktur Gazas
+      zerstört. Ganze Stadtteile wurden ausgelöscht. Die Kriegsmaschinerie ist nun vollständig
+      wiederaufgestockt, fest verankert und bereit für einen langen Konflikt – oder
+      einen neuen. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Israels Ministerpräsident Benjamin Netanjahu betont, dass
+      Israel nun stark und autark genug ist, um unabhängig von den USA zu agieren, während
+      es gleichzeitig seine fortschrittliche Technologie mit Washington teilt.
+    paragraph_summary: Israeli Prime Minister Benjamin Netanyahu has conveyed a bold
+      message indicating that Israel has become powerful and self-sufficient enough
+      to act independently, even in opposition to the United States. In a recent interview,
+      he claimed that Israel is on the path to complete self-sufficiency while still
+      sharing advanced technology with its primary ally, the U.S. This statement underscores
+      Israel's diminishing reliance on American support for its military operations
+      and future security. During the ongoing Gaza conflict, Israel has received over
+      $21.7 billion in U.S. aid, which has significantly bolstered its military capabilities,
+      allowing for extensive destruction in Gaza, including the obliteration of entire
+      neighborhoods. With its military resources fully replenished, Israel appears prepared
+      for prolonged conflict or potential new engagements.
+    published: '2025-10-09T17:27:49+00:00'
+  - title: Benjamin Netanyahu, die in het nauw gedreven is om de oorlog in Gaza te beëindigen,
+      bereidt de weg voor een uitweg
+    url: https://ejmagnier.com/2025/10/09/benjamin-netanyahu-die-in-het-nauw-gedreven-is-om-de-oorlog-in-gaza-te-beeindigen-bereidt-de-weg-voor-een-uitweg/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. De Israëlische
+      premier Benjamin Netanyahu geeft een duidelijke boodschap af: Israël is nu krachtig
+      genoeg, voldoende bewapend en zelfvoorzienend genoeg om zelfs de Verenigde Staten
+      te trotseren. In een recent interview pochte hij dat Israël “op weg is naar totale
+      zelfvoorziening” en “zijn geavanceerde technologie zal blijven delen met zijn
+      beste bondgenoot, de Verenigde Staten”. De bewoording was opzettelijk dubbelzinnig,
+      maar de betekenis was onmiskenbaar. Netanyahu gaf aan dat Israël niet langer afhankelijk
+      is van de steun van Washington om zijn oorlogen te voeren of zijn toekomst veilig
+      te stellen – en dat het klaar is om op eigen voorwaarden te handelen. Dit is niet
+      louter retoriek. Tijdens de oorlog in Gaza heeft Israël meer dan 21,7 miljard
+      dollar aan Amerikaanse hulp ontvangen, een enorm bedrag dat het in staat heeft
+      gesteld een van de meest verwoestende militaire campagnes in de moderne geschiedenis
+      te voeren. Met dat geld heeft Netanyahu zijn arsenaal aan precisiewapens aangevuld,
+      het meerlaagse raketafweersysteem opnieuw geladen en cruciale militaire onderdelen
+      uit Duitsland en het Verenigd Koninkrijk veiliggesteld. Meer dan 200.000 ton explosieven
+      hebben ongeveer 80 procent van de infrastructuur van Gaza met de grond gelijk
+      gemaakt. Hele wijken zijn van de kaart geveegd. De oorlogsmachine is nu volledig
+      bevoorraad, versterkt en voorbereid op een langdurig conflict – of een nieuw conflict.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Israëlische premier Benjamin Netanyahu heeft verklaard dat
+      Israël nu voldoende zelfvoorzienend en krachtig is om de Verenigde Staten te trotseren,
+      en dat het klaar is om op eigen voorwaarden te handelen, ondanks de aanzienlijke
+      Amerikaanse militaire steun die het ontvangt.
+    paragraph_summary: Israeli Prime Minister Benjamin Netanyahu has asserted that Israel
+      has reached a level of military strength and self-sufficiency that allows it to
+      operate independently of U.S. support, emphasizing that the country is "on the
+      path to total self-sufficiency." In a recent interview, he indicated that Israel
+      will continue to share its advanced technology with the U.S. while implying that
+      it is now capable of conducting its military operations on its own terms. This
+      statement comes in the context of Israel receiving over $21.7 billion in U.S.
+      aid during the ongoing conflict in Gaza, which has enabled it to conduct extensive
+      military campaigns, including the destruction of significant infrastructure in
+      Gaza. Netanyahu's remarks suggest that Israel is well-prepared for prolonged or
+      future conflicts, having fortified its military capabilities with advanced weaponry
+      and resources.
+    published: '2025-10-09T17:25:06+00:00'
+  - title: Benjamin Netanyahu, die in het nauw gedreven is om de oorlog in Gaza te beëindigen,
+      bereidt de weg voor een uitweg
+    url: https://ejmagnier.com/2025/10/09/benjamin-netanyahu-die-in-het-nauw-gedreven-is-om-de-oorlog-in-gaza-te-beeindigen-bereidt-de-weg-voor-een-uitweg/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. De Israëlische
+      premier Benjamin Netanyahu geeft een duidelijke boodschap af: Israël is nu krachtig
+      genoeg, voldoende bewapend en zelfvoorzienend genoeg om zelfs de Verenigde Staten
+      te trotseren. In een recent interview pochte hij dat Israël “op weg is naar totale
+      zelfvoorziening” en “zijn geavanceerde technologie zal blijven delen met zijn
+      beste bondgenoot, de Verenigde Staten”. De bewoording was opzettelijk dubbelzinnig,
+      maar de betekenis was onmiskenbaar. Netanyahu gaf aan dat Israël niet langer afhankelijk
+      is van de steun van Washington om zijn oorlogen te voeren of zijn toekomst veilig
+      te stellen – en dat het klaar is om op eigen voorwaarden te handelen. Dit is niet
+      louter retoriek. Tijdens de oorlog in Gaza heeft Israël meer dan 21,7 miljard
+      dollar aan Amerikaanse hulp ontvangen, een enorm bedrag dat het in staat heeft
+      gesteld een van de meest verwoestende militaire campagnes in de moderne geschiedenis
+      te voeren. Met dat geld heeft Netanyahu zijn arsenaal aan precisiewapens aangevuld,
+      het meerlaagse raketafweersysteem opnieuw geladen en cruciale militaire onderdelen
+      uit Duitsland en het Verenigd Koninkrijk veiliggesteld. Meer dan 200.000 ton explosieven
+      hebben ongeveer 80 procent van de infrastructuur van Gaza met de grond gelijk
+      gemaakt. Hele wijken zijn van de kaart geveegd. De oorlogsmachine is nu volledig
+      bevoorraad, versterkt en voorbereid op een langdurig conflict – of een nieuw conflict.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Israëlische premier Benjamin Netanyahu heeft verklaard dat
+      Israël nu voldoende zelfvoorzienend en krachtig is om de Verenigde Staten te trotseren,
+      en dat het klaar is om op eigen voorwaarden te handelen, ondanks de aanzienlijke
+      Amerikaanse militaire steun die het ontvangt.
+    paragraph_summary: Israeli Prime Minister Benjamin Netanyahu has asserted that Israel
+      has reached a level of military strength and self-sufficiency that allows it to
+      operate independently of U.S. support, emphasizing that the country is "on the
+      path to total self-sufficiency." In a recent interview, he indicated that Israel
+      will continue to share its advanced technology with the U.S. while implying that
+      it is now capable of conducting its military operations on its own terms. This
+      statement comes in the context of Israel receiving over $21.7 billion in U.S.
+      aid during the ongoing conflict in Gaza, which has enabled it to conduct extensive
+      military campaigns, including the destruction of significant infrastructure in
+      Gaza. Netanyahu's remarks suggest that Israel is well-prepared for prolonged or
+      future conflicts, having fortified its military capabilities with advanced weaponry
+      and resources.
+    published: '2025-10-09T17:25:06+00:00'
+  - title: Benjamin Netanyahu cornered to stop the war in Gaza is preparing the ground
+      for a way out
+    url: https://ejmagnier.com/2025/10/09/benjamin-netanyahu-cornered-to-stop-the-war-in-gaza-is-preparing-the-ground-for-a-way-out/
+    text: 'Tweet By Elijah J. Magnier Israel’s prime minister Benjamin Netanyahu is
+      sending a clear message: Israel is now powerful enough, armed enough, and self-sufficient
+      enough to defy even the United States. In a recent interview, he boasted that
+      Israel was “moving toward total self-sufficiency” and would “continue sharing
+      its advanced technology with its best ally, the United States.” The phrasing was
+      deliberately ambiguous, but the meaning was unmistakable. Netanyahu was signalling
+      that Israel no longer depends on Washington’s support to conduct its wars or secure
+      its future — and that it is ready to act on its own terms. This is not mere rhetoric.
+      Over the course of the Gaza war, Israel has received more than $21.7 billion in
+      American aid, an enormous sum that has allowed it to wage one of the most destructive
+      military campaigns in modern history. With that money, Netanyahu has replenished
+      his arsenal of precision munitions, reloaded the multi-layered missile interception
+      system, and secured critical military components from Germany and the United Kingdom.
+      More than 200,000 tonnes of explosives have flattened roughly 80 per cent of Gaza’s
+      infrastructure. Entire neighbourhoods have been erased. The war machine is now
+      fully resupplied, entrenched, and prepared for a long conflict — or a new one.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Israeli Prime Minister Benjamin Netanyahu asserts that Israel
+      has achieved significant military self-sufficiency and is prepared to operate
+      independently of U.S. support, despite receiving substantial American aid during
+      the Gaza war.
+    paragraph_summary: In a recent interview, Israeli Prime Minister Benjamin Netanyahu
+      asserted that Israel has achieved a level of military self-sufficiency that allows
+      it to operate independently of U.S. support, signaling a shift in its defense
+      posture. He emphasized Israel's progress towards total self-sufficiency and its
+      commitment to sharing advanced technology with the U.S., while also highlighting
+      the significant American aid of over $21.7 billion received during the Gaza war,
+      which has enabled Israel to conduct extensive military operations. This funding
+      has been used to replenish military resources and conduct a destructive campaign
+      that has devastated much of Gaza's infrastructure, positioning Israel for potential
+      future conflicts.
+    published: '2025-10-09T17:15:40+00:00'
+  - title: Benjamin Netanyahu cornered to stop the war in Gaza is preparing the ground
+      for a way out
+    url: https://ejmagnier.com/2025/10/09/benjamin-netanyahu-cornered-to-stop-the-war-in-gaza-is-preparing-the-ground-for-a-way-out/
+    text: 'Tweet By Elijah J. Magnier Israel’s prime minister Benjamin Netanyahu is
+      sending a clear message: Israel is now powerful enough, armed enough, and self-sufficient
+      enough to defy even the United States. In a recent interview, he boasted that
+      Israel was “moving toward total self-sufficiency” and would “continue sharing
+      its advanced technology with its best ally, the United States.” The phrasing was
+      deliberately ambiguous, but the meaning was unmistakable. Netanyahu was signalling
+      that Israel no longer depends on Washington’s support to conduct its wars or secure
+      its future — and that it is ready to act on its own terms. This is not mere rhetoric.
+      Over the course of the Gaza war, Israel has received more than $21.7 billion in
+      American aid, an enormous sum that has allowed it to wage one of the most destructive
+      military campaigns in modern history. With that money, Netanyahu has replenished
+      his arsenal of precision munitions, reloaded the multi-layered missile interception
+      system, and secured critical military components from Germany and the United Kingdom.
+      More than 200,000 tonnes of explosives have flattened roughly 80 per cent of Gaza’s
+      infrastructure. Entire neighbourhoods have been erased. The war machine is now
+      fully resupplied, entrenched, and prepared for a long conflict — or a new one.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Israeli Prime Minister Benjamin Netanyahu asserts that Israel
+      has achieved significant military self-sufficiency and is prepared to operate
+      independently of U.S. support, despite receiving substantial American aid during
+      the Gaza war.
+    paragraph_summary: In a recent interview, Israeli Prime Minister Benjamin Netanyahu
+      asserted that Israel has achieved a level of military self-sufficiency that allows
+      it to operate independently of U.S. support, signaling a shift in its defense
+      posture. He emphasized Israel's progress towards total self-sufficiency and its
+      commitment to sharing advanced technology with the U.S., while also highlighting
+      the significant American aid of over $21.7 billion received during the Gaza war,
+      which has enabled Israel to conduct extensive military operations. This funding
+      has been used to replenish military resources and conduct a destructive campaign
+      that has devastated much of Gaza's infrastructure, positioning Israel for potential
+      future conflicts.
+    published: '2025-10-09T17:15:40+00:00'
   - title: 'Zwei Jahre nach dem 7. Oktober: Israels Krieg, die Asche Gazas und der Zusammenbruch
       der moralischen Autorität'
     url: https://ejmagnier.com/2025/10/07/zwei-jahre-nach-dem-7-oktober-israels-krieg-die-asche-gazas-und-der-zusammenbruch-der-moralischen-autoritat/

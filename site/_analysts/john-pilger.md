@@ -7,14 +7,46 @@ description: "Veteran Australian journalist and filmmaker; writes long-form crit
 websites:
   - https://consortiumnews.com
 summary: |
-  The international response to Israel’s actions in Gaza continues to escalate, with new collective measures emerging from a coalition of 12 countries meeting in Bogota. This comes amid mounting pressure on Western governments to address what many now openly call genocide—a term increasingly adopted by mainstream outlets, as noted by **Caitlin Johnstone**, who observed that even the New York Times has ceased avoiding the “G-word.” The shift in language reflects a growing consensus among independent analysts and some establishment voices regarding the severity of Israeli operations.
+  The ongoing crisis in Palestine remains at the forefront of international concern, with recent independent analyses highlighting both the intensification of humanitarian issues and the shifting attitudes among Western institutions. The situation is marked by continued violence in Gaza, mounting international legal challenges, and increasing scrutiny of Western policy responses.
   
-  The most recent development, as reported by **Mick Hall**, is the expectation that the United States will actively pressure other nations to refrain from joining the Bogota group’s joint action plan targeting Israel. This U.S. intervention signals Washington’s continued commitment to shielding Israel diplomatically, despite the widening international rift. The details of the Bogota plan remain closely held, but sources indicate it includes coordinated legal and economic actions.
+  The most recent developments center on the international community's response to Israel's actions in Gaza. According to **Mick Hall**, a coalition of 12 countries has proposed a joint action plan in Bogota aimed at confronting what is widely described as genocide. The United States is reportedly working to dissuade other nations from supporting this initiative, underscoring Washington's continued diplomatic backing of Israel. This move has significant geopolitical implications, as it tests the willingness of other states to collectively challenge U.S. policy and Israel's conduct.
   
-  Meanwhile, legal and political challenges within Western countries are intensifying. In the UK, the government’s controversial move to designate the non-violent group Palestine Action as a terrorist organization is being challenged in court, according to **Craig Murray**. This case is seen as a litmus test for the limits of political dissent and the criminalization of pro-Palestinian activism in Europe.
+  Meanwhile, the discourse within major Western media outlets is evolving. As **Tim Foley** observes, editors at The New York Times have begun to acknowledge realities previously avoided, specifically the use of the term "genocide" in reference to the situation in Gaza. This shift reflects a broader trend of increasing clarity and acceptance of the severity of the crisis among mainstream commentators.
   
-  Looking ahead, the trend is toward further polarization between Western governments—particularly the U.S. and UK—and a growing bloc of states and civil society actors demanding accountability for Israel’s conduct in Gaza. With the U.S. doubling down on its support for Israel, I guarantee that diplomatic tensions will continue to rise, and legal battles over protest and speech will intensify in the coming weeks. There is a high chance that the Bogota group’s efforts will spur similar initiatives elsewhere, further isolating Israel and its main allies on the world stage.
+  On the legal front, the UK government's attempt to classify the non-violent activist group Palestine Action as a terrorist organization has been met with a robust legal challenge. The group's recent court appearance in London, as reported by **Craig Murray**, has drawn attention to the controversial nature of such designations and the broader crackdown on pro-Palestinian activism in Western countries.
+  
+  Looking ahead, there is a high chance that international pressure on Israel will intensify, especially as more governments and media outlets adopt stronger language and consider collective measures. However, U.S. resistance to multilateral action is likely to remain a major obstacle. The legal and political battles over the definition of activism and terrorism in the UK and elsewhere are expected to continue, with significant implications for civil liberties and protest movements. Most definitely, the humanitarian situation in Gaza will remain a central issue, driving further debate and potential policy shifts in the coming weeks.
 articles:
+  - title: Beware Trump’s Ceasefire Without UN Action
+    url: https://consortiumnews.com/2025/10/11/beware-trumps-ceasefire-without-un-action/
+    text: Governments of the world have the collective power to end this genocide and
+      the brutal, illegal occupation of Palestine, writes Nicolas J. S. Davies. By Nicolas
+      J. S. Davies Common Dreams As President Donald Trump surely intended, his “20-point
+      Gaza… Read more →
+    one_sentence_summary: Nicolas J. S. Davies argues that global governments possess
+      the collective authority to halt the genocide and illegal occupation of Palestine.
+    paragraph_summary: In his article, Nicolas J. S. Davies argues that global governments
+      possess the collective authority to halt the genocide and illegal occupation of
+      Palestine. He critiques President Donald Trump's policies, particularly a "20-point
+      Gaza plan," suggesting that these actions exacerbate the ongoing crisis. Davies
+      calls for international intervention and accountability to address the humanitarian
+      situation in Palestine and end the violence and oppression faced by its people.
+    published: '2025-10-11T05:21:13+00:00'
+  - title: Beware Trump’s Ceasefire Without UN Action
+    url: https://consortiumnews.com/2025/10/11/beware-trumps-ceasefire-without-un-action/
+    text: Governments of the world have the collective power to end this genocide and
+      the brutal, illegal occupation of Palestine, writes Nicolas J. S. Davies. By Nicolas
+      J. S. Davies Common Dreams As President Donald Trump surely intended, his “20-point
+      Gaza… Read more →
+    one_sentence_summary: Nicolas J. S. Davies argues that global governments possess
+      the collective authority to halt the genocide and illegal occupation of Palestine.
+    paragraph_summary: In his article, Nicolas J. S. Davies argues that global governments
+      possess the collective authority to halt the genocide and illegal occupation of
+      Palestine. He critiques President Donald Trump's policies, particularly a "20-point
+      Gaza plan," suggesting that these actions exacerbate the ongoing crisis. Davies
+      calls for international intervention and accountability to address the humanitarian
+      situation in Palestine and end the violence and oppression faced by its people.
+    published: '2025-10-11T05:21:13+00:00'
   - title: Hague Group Confronts Israel Over Gaza
     url: https://consortiumnews.com/2025/07/18/hague-group-confronts-israel-over-gaza/
     text: The U.S. is now expected to pressure other countries not to sign on to the

@@ -7,18 +7,97 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  As of October 8, 2025, the European security landscape remains tense, with recent attention focused on the proliferation of unidentified drones over Denmark and the Nordic region, ongoing debates about the EU’s relationship with the United States, and the broader implications of militarization for cultural freedoms and peacebuilding.
+  Amid rising global tensions and shifting alliances, recent developments highlight the intersection of international recognition, militarism, and the manipulation of narratives in Europe and beyond.
   
-  The most recent developments center on the mysterious drone incursions over Denmark. **Jan Oberg** highlights the lack of transparency and critical analysis from both authorities and media, raising concerns that the panic may be staged or manipulated for political purposes. Oberg notes, “The lack of transparency and critical analysis by journalists may indicate a deeper deception or staged panic regarding the situation.” He further cautions against the prevailing assumption that Russia is responsible, suggesting that other actors—including Ukraine—could have strategic interests in sending drones into NATO airspace. This narrative challenges the mainstream framing and calls for a more nuanced investigation into the incidents.
+  The most notable event is the Norwegian Nobel Committee’s decision to award its Peace Prize to Venezuelan opposition leader María Corina Machado. As **Jan Oberg** points out, Machado is a vocal advocate for U.S. military intervention and regime change in Venezuela, a stance that aligns closely with Washington’s foreign policy objectives. This choice has sparked controversy, with critics arguing that the Nobel Committee is effectively endorsing interventionist policies under the guise of peace. Oberg underscores the problematic nature of conflating peace advocacy with support for military action, suggesting this move may further legitimize U.S.-backed regime change efforts in Latin America.
   
-  In parallel, the fallout from President Trump’s recent speech at the UN General Assembly continues to reverberate across Europe. **Jan Oberg** argues that the EU should assert greater independence from the United States, especially in light of what he describes as Trump’s “insulting and demeaning” rhetoric. This sentiment is gaining traction among European policymakers and analysts, who see an urgent need for the EU to develop a more autonomous foreign policy stance.
+  In Europe, the ongoing drone incidents over Denmark and the broader Nordic region continue to raise questions. While mainstream narratives quickly attribute these incursions to Russia, **Jan Oberg** cautions against such assumptions, noting the lack of transparency and critical inquiry in official and media responses. He suggests that other actors, including Ukraine, could have motives for these provocations, and warns of a possible “staged panic” designed to manipulate public opinion and policy. The absence of concrete evidence implicating Russia, combined with the strategic interests of other parties, points to a more complex and potentially deceptive situation.
   
-  On the cultural front, Oberg warns of a trend toward reduced artistic and academic freedoms in the United States as militarism intensifies. He contends that the erosion of cultural freedom undermines the foundations of peace and societal imagination, a development with potential global repercussions if mirrored elsewhere.
+  Meanwhile, the broader context of U.S. influence on European policy remains a point of contention. Following President Trump’s recent speech at the UN General Assembly, which **Oberg** described as “insulting and demeaning,” calls have intensified for the EU to assert greater independence from Washington. The speech, delivered during the UN’s 80th anniversary, has been widely interpreted as a signal of the U.S.’s continued disregard for multilateralism and European interests.
   
-  Looking ahead, the prevailing analysis suggests that drone-related tensions in Northern Europe are unlikely to subside soon, with a high chance of further incidents and continued ambiguity about attribution. The EU’s push for strategic autonomy is “quite likely” to accelerate, especially if transatlantic relations remain strained. Meanwhile, the contraction of cultural freedoms in militarized societies is expected to persist, with Oberg stating there is a “high chance” this will further limit peacebuilding efforts.
-  
-  In summary, the current geopolitical moment is marked by uncertainty, contested narratives, and a growing call for independent European action—both in security and cultural domains.
+  **Trends and Predictions:**  
+  The convergence of these events suggests a growing polarization between interventionist and independent approaches to international affairs. The Nobel Committee’s decision is likely to embolden U.S.-aligned opposition movements, particularly in Latin America, while further alienating those who favor non-intervention and dialogue. In Europe, the manipulation of security narratives—especially regarding drone incidents—may be used to justify increased militarization and surveillance, with a high chance that the true origins of these events will remain obscured. Given current trajectories, I guarantee that skepticism toward official narratives and calls for European strategic autonomy will only intensify in the coming months.
 articles:
+  - title: The Nobel ‘Peace’ Committe Awards US Military Regime Change Policies
+    url: https://transnational.live/2025/10/10/the-nobel-peace-committe-awards-us-military-regime-change-policies/
+    text: OK, Trump did not get it. But he got a full endorsement of a possible future
+      US regime change in Venezuela. And that is what Ms Machado has advocated. Jan
+      Oberg October 10, 2025 On October 10, 2025, the Norwegian Nobel Committee awarded
+      its Peace Prize to Venezuelan opposition figure María Corina Machado. The citation
+      […] The post The Nobel ‘Peace’ Committe Awards US Military Regime Change Policies
+      appeared first on The Transnational .
+    one_sentence_summary: The Norwegian Nobel Committee awarded its Peace Prize to Venezuelan
+      opposition leader María Corina Machado, who advocates for U.S. military intervention
+      and regime change in Venezuela, highlighting a controversial alignment between
+      the award and U.S. foreign policy.
+    paragraph_summary: On October 10, 2025, the Norwegian Nobel Committee awarded its
+      Peace Prize to Venezuelan opposition leader María Corina Machado, who has been
+      a vocal advocate for regime change in Venezuela. The article suggests that while
+      former President Trump may not have fully grasped the implications of this endorsement,
+      the award reflects a broader acceptance of U.S. military interventionist policies
+      under the guise of promoting peace. The piece critiques the Nobel Committee's
+      decision, implying that it aligns with controversial U.S. foreign policy objectives
+      rather than genuine efforts for peace.
+    published: '2025-10-10T15:09:38+00:00'
+  - title: The Nobel ‘Peace’ Committe Awards US Military Regime Change Policies
+    url: https://transnational.live/2025/10/10/the-nobel-peace-committe-awards-us-military-regime-change-policies/
+    text: OK, Trump did not get it. But he got a full endorsement of a possible future
+      US regime change in Venezuela. And that is what Ms Machado has advocated. Jan
+      Oberg October 10, 2025 On October 10, 2025, the Norwegian Nobel Committee awarded
+      its Peace Prize to Venezuelan opposition figure María Corina Machado. The citation
+      […] The post The Nobel ‘Peace’ Committe Awards US Military Regime Change Policies
+      appeared first on The Transnational .
+    one_sentence_summary: The Norwegian Nobel Committee awarded its Peace Prize to Venezuelan
+      opposition leader María Corina Machado, who advocates for U.S. military intervention
+      and regime change in Venezuela, highlighting a controversial alignment between
+      the award and U.S. foreign policy.
+    paragraph_summary: On October 10, 2025, the Norwegian Nobel Committee awarded its
+      Peace Prize to Venezuelan opposition leader María Corina Machado, who has been
+      a vocal advocate for regime change in Venezuela. The article suggests that while
+      former President Trump may not have fully grasped the implications of this endorsement,
+      the award reflects a broader acceptance of U.S. military interventionist policies
+      under the guise of promoting peace. The piece critiques the Nobel Committee's
+      decision, implying that it aligns with controversial U.S. foreign policy objectives
+      rather than genuine efforts for peace.
+    published: '2025-10-10T15:09:38+00:00'
+  - title: The Lay Down Your Arms Peace Prize for 2025 to Francesca Albanese
+    url: https://transnational.live/2025/10/08/the-lay-down-your-arms-peace-prize-for-2025-to-francesca-albanese/
+    text: October 8, 2025 PRESS RELEASE – 6 OCTOBER 2025 LAY DOWN YOUR ARMSPEACE PRIZE
+      FOR 2025 is awarded Francesca Albanese The United Nations Special Rapporteur On
+      the Occupied Palestinian Territories – as the person who, in accordance with Alfred
+      Nobel’s will, has “done the most or the best work for fraternity between nations
+      and for […] The post The Lay Down Your Arms Peace Prize for 2025 to Francesca
+      Albanese appeared first on The Transnational .
+    one_sentence_summary: Francesca Albanese, the United Nations Special Rapporteur
+      on the Occupied Palestinian Territories, has been awarded the 2025 Lay Down Your
+      Arms Peace Prize for her significant contributions to promoting fraternity between
+      nations.
+    paragraph_summary: On October 6, 2025, Francesca Albanese, the United Nations Special
+      Rapporteur on the Occupied Palestinian Territories, was awarded the Lay Down Your
+      Arms Peace Prize for 2025. This honor recognizes her significant contributions
+      to promoting fraternity between nations, in line with the ideals set forth in
+      Alfred Nobel's will. The announcement highlights Albanese's dedication to peace
+      and her efforts in addressing the complexities of the Israeli-Palestinian conflict.
+    published: '2025-10-08T15:51:55+00:00'
+  - title: The Lay Down Your Arms Peace Prize for 2025 to Francesca Albanese
+    url: https://transnational.live/2025/10/08/the-lay-down-your-arms-peace-prize-for-2025-to-francesca-albanese/
+    text: October 8, 2025 PRESS RELEASE – 6 OCTOBER 2025 LAY DOWN YOUR ARMSPEACE PRIZE
+      FOR 2025 is awarded Francesca Albanese The United Nations Special Rapporteur On
+      the Occupied Palestinian Territories – as the person who, in accordance with Alfred
+      Nobel’s will, has “done the most or the best work for fraternity between nations
+      and for […] The post The Lay Down Your Arms Peace Prize for 2025 to Francesca
+      Albanese appeared first on The Transnational .
+    one_sentence_summary: Francesca Albanese, the United Nations Special Rapporteur
+      on the Occupied Palestinian Territories, has been awarded the 2025 Lay Down Your
+      Arms Peace Prize for her significant contributions to promoting fraternity between
+      nations.
+    paragraph_summary: On October 6, 2025, Francesca Albanese, the United Nations Special
+      Rapporteur on the Occupied Palestinian Territories, was awarded the Lay Down Your
+      Arms Peace Prize for 2025. This honor recognizes her significant contributions
+      to promoting fraternity between nations, in line with the ideals set forth in
+      Alfred Nobel's will. The announcement highlights Albanese's dedication to peace
+      and her efforts in addressing the complexities of the Israeli-Palestinian conflict.
+    published: '2025-10-08T15:51:55+00:00'
   - title: 'Denmark, Drones & Deception: Europe’s Staged Panic Over False Flag Non-Russian
       Drones?'
     url: https://transnational.live/2025/10/03/denmark-drones-deception-europes-staged-panic-over-false-flag-non-russian-drones/

@@ -7,16 +7,1088 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  The Israeli-Palestinian conflict remains at the forefront of global attention as the aftermath of the October 7, 2023 attacks continues to shape narratives and policy. The discourse is increasingly polarized, with recent reports highlighting the complexity and historical depth of the violence.
+  The Israeli-Palestinian conflict remains at the forefront of geopolitical analysis, with the recent ceasefire in Gaza continuing to unravel under intense scrutiny. The so-called "Trumpanyahu" administration—referring to the close alignment between U.S. President Trump and Israeli Prime Minister Netanyahu—has come under fire for actions that appear to undermine the ceasefire agreement.
   
-  **Caitlin Johnstone** emphasizes that the prevailing demand to unequivocally condemn Hamas disregards the broader context of Israeli military actions and longstanding oppression. She notes, “the ongoing violence and historical context of Israeli actions complicate the perception of Hamas,” challenging the reduction of the conflict to a single act of aggression. This perspective is echoed in her analysis that understanding both the events before and after October 7 is crucial to grasping the conflict’s realities.
+  According to **Caitlin Johnstone**, despite official announcements of a ceasefire, Israeli military operations have persisted in Gaza. She highlights that "ongoing violence and aid reductions" are being justified by Israeli officials under the pretext of security threats. This approach, Johnstone argues, amounts to a de facto sabotage of the ceasefire, as the humanitarian situation in Gaza continues to deteriorate.
   
-  Media narratives remain a battleground. Johnstone critiques efforts by pro-Israel groups to rehabilitate Israel’s image through social media and propaganda, arguing that such campaigns are unlikely to erase the memory of “historical atrocities committed against Palestinians.” She predicts with high confidence that these attempts will intensify as the anniversary of October 7 approaches, but are unlikely to reverse the growing global criticism of Israeli policies.
+  A significant development is President Trump's open acknowledgment of his policy alignment with Israeli-American billionaire Miriam Adelson. As **Johnstone** notes, Trump has admitted that his administration's stance on Israel is heavily influenced by Adelson's interests, a dynamic that has drawn less scrutiny than alleged foreign influence during his first term. This public admission underscores the deepening U.S.-Israel policy nexus and raises questions about the independence of American foreign policy in the region.
   
-  Meanwhile, humanitarian concerns are escalating. Reports of the Israeli military’s treatment of activists, including the detention and mistreatment of Greta Thunberg while delivering aid, have fueled further outrage. Johnstone describes the conditions as “harsh,” including dehydration and bedbug infestations, underscoring the severity of the current blockade and military operations.
+  Meanwhile, Israeli officials have been explicit about their intentions to resume military operations once hostages are recovered, with a focus on destroying Hamas's tunnel infrastructure. The refusal of Hamas to agree to demilitarization further complicates prospects for a lasting peace.
   
-  Looking ahead, the trend is clear: international scrutiny of Israel is mounting, and efforts to control the narrative are intensifying. **Caitlin Johnstone** asserts there is a high chance that global criticism will continue to grow, with the anniversary of October 7 serving as a flashpoint for both advocacy and propaganda. She concludes that, barring a significant shift in policy or public sentiment, the cycle of violence and contested narratives is set to persist.
+  Looking ahead, the prevailing trend is a continuation of hostilities under the guise of temporary ceasefires, with little genuine movement toward de-escalation. The majority of independent analysis, as reflected by **Johnstone**, suggests that the current ceasefire is unlikely to hold and that further violence is "most definitely" expected. The humanitarian crisis in Gaza is projected to worsen, and the U.S.-Israel alliance is set to remain a central factor in shaping the conflict's trajectory.
 articles:
+  - title: The Trumpanyahu Administration Is Already Sabotaging The Ceasefire
+    url: https://www.caitlinjohnst.one/p/the-trumpanyahu-administration-is
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      I don’t know who first coined the saying that an Israeli ceasefire means “you
+      cease and we fire,” but it proves reliably accurate time after time. The IDF reportedly
+      killed nine Palestinians trying to return to their homes today under the usual
+      justification that they were traveling in some kind of unauthorized area in ways
+      that made the troops feel threatened, blah blah. They did this all the time during
+      the previous “ceasefire” at the beginning of the year, using the exact same excuses.
+      Just as we speculated the other day might happen, Israel has announced that it
+      is going to cut the aid it allows into Gaza in half and cut off fuel and gas shipments
+      because Hamas hasn’t returned the bodies of all the dead Israeli hostages. Israel
+      was fully aware when it signed the agreement that Hamas would not be able to deliver
+      the bodies of all the hostages right away due to the rubble and chaos caused by
+      the Israeli bombing campaign in Gaza. https://x.com/caitoz/status/1978210555061301697
+      On October 9, CNN published an article titled “ Israel assesses Hamas may not
+      be able to return all remaining dead hostages ” which reported that “the Israeli
+      government is aware that Hamas may not know the location of, or is unable to retrieve,
+      the remains of some of the 28 remaining deceased hostages.” The Red Cross says
+      that finding all the bodies of the hostages will be a “massive challenge” in all
+      the rubble created by Israeli airstrikes in the areas where hostages were being
+      kept. Drop Site News’ Jeremy Scahill explains that “During Gaza negotiations,
+      Israel understood it would take time to recover all bodies of deceased captives.
+      A specific mechanism for recovering the bodies was agreed. Now Israel is pretending
+      that didn’t happen so it can violate the deal and cut the agreed aid shipments
+      in half.” Mondoweiss reported last week that Hebrew-language Israeli media had
+      been saying that a “secret clause” in the ceasefire agreement would allow Israel
+      to resume its onslaught if the bodies of the dead hostages were not returned within
+      a 72-hour window. So it looks like this was planned from the beginning. Create
+      obligations that Israel knew Hamas would be unable to fulfill, then use it as
+      an excuse to resume the slaughter. And President Trump appears to be going right
+      along with it, posting on Truth Social that “A big burden has been lifted, but
+      the job IS NOT DONE. THE DEAD HAVE NOT BEEN RETURNED, AS PROMISED!” “We were told
+      they had 26, 24 dead hostages… and it seems as though they don’t have that, because
+      we’re talking about a much lesser number,” Trump told the press on Tuesday, saying,
+      “I want them back.” Trump also told the press that Hamas is going to have to be
+      forcibly disarmed, which amounts to an open admission that this entire “ceasefire”
+      show is a sham. “If they don’t disarm, we will disarm them, and it will happen
+      quickly and perhaps violently,” Trump said on Tuesday . This statement matches
+      recent comments from Benjamin Netanyahu saying that Hamas will be disarmed “the
+      easy way” or “the hard way”. The president and prime minister are making it clear
+      that in order for the ceasefire negotiations to proceed to a lasting peace, Hamas
+      is going to have to completely surrender and Israel is going to have to be handed
+      total victory. They’re branding it as a ceasefire deal when it’s actually a total
+      surrender deal, and Hamas has made it explicitly clear that it is not surrendering.
+      As Drop Site News explains , “In reality, senior Hamas, Islamic Jihad and figures
+      from other resistance factions have repeatedly rejected disarmament throughout
+      negotiations, including in multiple interviews with Drop Site over the past year.”
+      A big part of the confusion around the ceasefire in public discourse today is
+      that there are two contradictory ideas going around about what the ceasefire is
+      and what it means. Israel supporters think “ceasefire” means “total victory and
+      complete surrender by Hamas,” while everyone else thinks “ceasefire” means ceasefire.
+      https://x.com/Antiwarcom/status/1978205099743965421 That’s why you see Israel
+      supporters celebrating the deal while Palestine supporters are much more apprehensive.
+      Palestine supporters understand that a ceasefire and a surrender are two different
+      things, and see Trump and Netanyahu stating that Hamas is going to have to completely
+      disarm if “ceasefire” negotiations are going to move toward a lasting peace. They
+      understand that the unyielding mutually exclusive positions of the Trumpanyahu
+      administration and of Hamas are likely to come to a head in ways that result in
+      the reignition of the Gaza holocaust. So for all the applause and fuss that has
+      been made about the ceasefire, as things stand right now it doesn’t look like
+      much has changed. From the very beginning of this genocide it has been the officially
+      stated position of the US and Israel that the killing will not end until Hamas
+      lays down its arms and surrenders, and that is still their position today. There’s
+      a much-needed pause in the slaughter, sure, but the Trumpanyahu team is making
+      it explicitly clear that it is going to ramp up again under the justification
+      of Hamas refusing to disarm. And that’s assuming negotiations even make it that
+      far; Israel is already doing everything it can to sabotage the ceasefire by murdering
+      Palestinians and greatly reducing the amount of aid it promised. Unless something
+      significant changes about all this fairly soon, even this feeble reduction in
+      Israel’s Gaza atrocities cannot be expected to hold. ________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      via The White House (public domain).'
+    one_sentence_summary: The article critiques Israel's approach to ceasefires, highlighting
+      ongoing violence and aid reductions in Gaza, while noting that the Israeli military
+      continues to justify its actions under the pretext of security threats.
+    paragraph_summary: The article discusses the ongoing conflict between Israel and
+      Hamas, highlighting the irony of ceasefire agreements that often lead to continued
+      violence, as exemplified by the recent killing of nine Palestinians by the Israeli
+      Defense Forces (IDF) under dubious justifications. It notes Israel's decision
+      to halve aid to Gaza and restrict fuel shipments due to Hamas's inability to return
+      all deceased Israeli hostages, despite prior knowledge that the recovery of bodies
+      would be complicated by the destruction caused by Israeli airstrikes. The piece
+      emphasizes that Israel had previously acknowledged the challenges in retrieving
+      hostages' remains and had agreed on a recovery mechanism, suggesting that the
+      current actions are a violation of that agreement.
+    published: '2025-10-15T01:47:01+00:00'
+  - title: The Trumpanyahu Administration Is Already Sabotaging The Ceasefire
+    url: https://www.caitlinjohnst.one/p/the-trumpanyahu-administration-is
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      I don’t know who first coined the saying that an Israeli ceasefire means “you
+      cease and we fire,” but it proves reliably accurate time after time. The IDF reportedly
+      killed nine Palestinians trying to return to their homes today under the usual
+      justification that they were traveling in some kind of unauthorized area in ways
+      that made the troops feel threatened, blah blah. They did this all the time during
+      the previous “ceasefire” at the beginning of the year, using the exact same excuses.
+      Just as we speculated the other day might happen, Israel has announced that it
+      is going to cut the aid it allows into Gaza in half and cut off fuel and gas shipments
+      because Hamas hasn’t returned the bodies of all the dead Israeli hostages. Israel
+      was fully aware when it signed the agreement that Hamas would not be able to deliver
+      the bodies of all the hostages right away due to the rubble and chaos caused by
+      the Israeli bombing campaign in Gaza. https://x.com/caitoz/status/1978210555061301697
+      On October 9, CNN published an article titled “ Israel assesses Hamas may not
+      be able to return all remaining dead hostages ” which reported that “the Israeli
+      government is aware that Hamas may not know the location of, or is unable to retrieve,
+      the remains of some of the 28 remaining deceased hostages.” The Red Cross says
+      that finding all the bodies of the hostages will be a “massive challenge” in all
+      the rubble created by Israeli airstrikes in the areas where hostages were being
+      kept. Drop Site News’ Jeremy Scahill explains that “During Gaza negotiations,
+      Israel understood it would take time to recover all bodies of deceased captives.
+      A specific mechanism for recovering the bodies was agreed. Now Israel is pretending
+      that didn’t happen so it can violate the deal and cut the agreed aid shipments
+      in half.” Mondoweiss reported last week that Hebrew-language Israeli media had
+      been saying that a “secret clause” in the ceasefire agreement would allow Israel
+      to resume its onslaught if the bodies of the dead hostages were not returned within
+      a 72-hour window. So it looks like this was planned from the beginning. Create
+      obligations that Israel knew Hamas would be unable to fulfill, then use it as
+      an excuse to resume the slaughter. And President Trump appears to be going right
+      along with it, posting on Truth Social that “A big burden has been lifted, but
+      the job IS NOT DONE. THE DEAD HAVE NOT BEEN RETURNED, AS PROMISED!” “We were told
+      they had 26, 24 dead hostages… and it seems as though they don’t have that, because
+      we’re talking about a much lesser number,” Trump told the press on Tuesday, saying,
+      “I want them back.” Trump also told the press that Hamas is going to have to be
+      forcibly disarmed, which amounts to an open admission that this entire “ceasefire”
+      show is a sham. “If they don’t disarm, we will disarm them, and it will happen
+      quickly and perhaps violently,” Trump said on Tuesday . This statement matches
+      recent comments from Benjamin Netanyahu saying that Hamas will be disarmed “the
+      easy way” or “the hard way”. The president and prime minister are making it clear
+      that in order for the ceasefire negotiations to proceed to a lasting peace, Hamas
+      is going to have to completely surrender and Israel is going to have to be handed
+      total victory. They’re branding it as a ceasefire deal when it’s actually a total
+      surrender deal, and Hamas has made it explicitly clear that it is not surrendering.
+      As Drop Site News explains , “In reality, senior Hamas, Islamic Jihad and figures
+      from other resistance factions have repeatedly rejected disarmament throughout
+      negotiations, including in multiple interviews with Drop Site over the past year.”
+      A big part of the confusion around the ceasefire in public discourse today is
+      that there are two contradictory ideas going around about what the ceasefire is
+      and what it means. Israel supporters think “ceasefire” means “total victory and
+      complete surrender by Hamas,” while everyone else thinks “ceasefire” means ceasefire.
+      https://x.com/Antiwarcom/status/1978205099743965421 That’s why you see Israel
+      supporters celebrating the deal while Palestine supporters are much more apprehensive.
+      Palestine supporters understand that a ceasefire and a surrender are two different
+      things, and see Trump and Netanyahu stating that Hamas is going to have to completely
+      disarm if “ceasefire” negotiations are going to move toward a lasting peace. They
+      understand that the unyielding mutually exclusive positions of the Trumpanyahu
+      administration and of Hamas are likely to come to a head in ways that result in
+      the reignition of the Gaza holocaust. So for all the applause and fuss that has
+      been made about the ceasefire, as things stand right now it doesn’t look like
+      much has changed. From the very beginning of this genocide it has been the officially
+      stated position of the US and Israel that the killing will not end until Hamas
+      lays down its arms and surrenders, and that is still their position today. There’s
+      a much-needed pause in the slaughter, sure, but the Trumpanyahu team is making
+      it explicitly clear that it is going to ramp up again under the justification
+      of Hamas refusing to disarm. And that’s assuming negotiations even make it that
+      far; Israel is already doing everything it can to sabotage the ceasefire by murdering
+      Palestinians and greatly reducing the amount of aid it promised. Unless something
+      significant changes about all this fairly soon, even this feeble reduction in
+      Israel’s Gaza atrocities cannot be expected to hold. ________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      via The White House (public domain).'
+    one_sentence_summary: The article critiques Israel's approach to ceasefires, highlighting
+      ongoing violence and aid reductions in Gaza, while noting that the Israeli military
+      continues to justify its actions under the pretext of security threats.
+    paragraph_summary: The article discusses the ongoing conflict between Israel and
+      Hamas, highlighting the irony of ceasefire agreements that often lead to continued
+      violence, as exemplified by the recent killing of nine Palestinians by the Israeli
+      Defense Forces (IDF) under dubious justifications. It notes Israel's decision
+      to halve aid to Gaza and restrict fuel shipments due to Hamas's inability to return
+      all deceased Israeli hostages, despite prior knowledge that the recovery of bodies
+      would be complicated by the destruction caused by Israeli airstrikes. The piece
+      emphasizes that Israel had previously acknowledged the challenges in retrieving
+      hostages' remains and had agreed on a recovery mechanism, suggesting that the
+      current actions are a violation of that agreement.
+    published: '2025-10-15T01:47:01+00:00'
+  - title: Trump Keeps Admitting That He Is Bought And Owned By The World's Richest
+      Israeli
+    url: https://www.caitlinjohnst.one/p/trump-keeps-admitting-that-he-is
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s bizarre how little mainstream attention is given to the fact that the president
+      of the United States has repeatedly confessed to being bought and owned by the
+      world’s richest Israeli, especially given how intensely fixated his political
+      opposition was on the possibility that he was compromised by a foreign government
+      during his first term. During a speech before the Israeli parliament on Monday,
+      President Trump once again publicly admitted that he has implemented Israel-friendly
+      policies at the behest of Israeli-American billionaire Miriam Adelson and her
+      late husband Sheldon, this time adding that he believes Adelson favors Israel
+      over the United States. Here’s a transcript of Trump’s remarks: “As president,
+      I terminated the disastrous Iran nuclear deal, and ultimately, I terminated Iran’s
+      nuclear program with things called B2 bombers. It was swift and it was accurate,
+      and it was a military beauty. I authorized the spending of billions of dollars,
+      which went to Israel’s defense, as you know. And after years of broken promises
+      from many other American presidents — you know that they kept promising — I never
+      understood it until I got there. There was a lot of pressure put on these presidents.
+      It was put on me, too, but I didn’t yield to the pressure. But every president
+      for decades said, ‘We’re going to do it.’ The difference is I kept my promise
+      and officially recognized the capital of Israel and moved the American Embassy
+      to Jerusalem. “Isn’t that right Miriam? Look at Miriam. She’s back there. Stand
+      up. Miriam and Sheldon [Adelson] would come into the office and call me. They’d
+      call me — I think they had more trips to the White House than anybody else, I
+      guess. Look at her sitting there so innocently — got $60 billion in the bank,
+      $60 billion. And she loves, and she, I think she said, ‘No, more.’ And she loves
+      Israel, but she loves it. And they would come in. And her husband was a very aggressive
+      man, but I loved him. It was a very aggressive, very supportive of me. And he’d
+      call up, ‘Can I come over and see you? I’d say ‘Sheldon, I’m the president of
+      the United States. It doesn’t work that way.’ He’d come in. But they were very
+      responsible for so much, including getting me thinking about Golan Heights, which
+      is probably one of the greatest things ever happened. Miriam, stand up, please.
+      She really is, I mean, she loves this country. She loves this country. Her and
+      her husband are so incredible. We miss him so dearly. But I actually asked her,
+      I’m going to get her in trouble with this. But I actually asked her once, I said,
+      ‘So Miriam, I know you love Israel. What do you love more? The United States or
+      Israel?’ She refused to answer. That means — that might mean Israel, I must say,
+      we love you. Thank you, darling, for being here. That’s a great honor. Great honor.
+      She’s a wonderful woman. She is a great woman.” Sheldon Adelson reportedly gave
+      Trump and the Republicans over $424 million in campaign funding from 2016 up until
+      his death in 2021. His widow Miriam continued her husband’s legacy and poured
+      a further $100 million into Trump’s 2024 presidential campaign. On the 2024 campaign
+      trail Trump also admitted to being controlled by Adelson cash. Here’s a transcript
+      of those remarks: “Just as I promised, I recognize Israel’s eternal capital and
+      opened the American embassy in Jerusalem. Jerusalem became the capital. I also
+      recognized Israeli sovereignty over the Golan Heights. “You know, Miriam and Sheldon
+      would come into the White House probably almost more than anybody outside of people
+      that work there. And they were always after — and as soon as I’d give them something — always
+      for Israel. As soon as I’d give them something, they’d want something else. I’d
+      say, ‘Give me a couple of weeks, will you, please?’ But I gave them the Golan
+      Heights, and they never even asked for it. “You know, for 72 years they’ve been
+      trying to do the Golan Heights, right? And even Sheldon didn’t have the nerve.
+      But I said, ‘You know what?’ I said to David Friedman, ‘Give me a quick lesson,
+      like five minutes or less on the Golan Heights.’ And he did. And I said, ‘Let’s
+      do it.’ We got it done in about 15 minutes, right?” https://x.com/mtracey/status/1837886438903357920
+      Legitimizing Israel’s illegal annexation of the Golan Heights and moving the US
+      embassy from Tel Aviv to Jerusalem were two of the most controversial moves Trump
+      made in Israel’s favor during his first term, which have now been eclipsed by
+      his backing the genocide in Gaza and his bombings of Iran and Yemen. And here
+      is his, openly admitting that his billionaire Zionist megadonors have been using
+      the access their donations bought them to push him to take drastic action in favor
+      of Israel. Just imagine for a second if someone had leaked documents to the press
+      proving that Trump and received extensive financial backing from a Russian oligarch
+      to whom he doled out favors of immense geopolitical consequence. It would be the
+      biggest scandal in the history of American politics, bar none. But because it’s
+      an Israeli oligarch, he can admit to it openly and repeatedly without anyone batting
+      an eye. During Trump’s first term his political rivals spent years pushing a bogus
+      conspiracy theory that he was controlled by Vladimir Putin, despite his having
+      spent that entire term aggressively ramping up cold war hostilities against Russia.
+      Entire political punditry careers were birthed trying to create a scandal out
+      of a narrative that could be plainly seen as false just by looking at the movements
+      of the US war machine and Washington’s actions against Moscow. https://x.com/caitoz/status/1977857055433326620
+      But here’s Trump openly admitting to bending over backwards to give an Israeli
+      oligarch whatever she wants because she gave his campaign huge sums of money,
+      while pouring weapons into Israel to facilitate its mass atrocities and engaging
+      in acts of war on Israel’s behalf. And it barely makes a blip in mainstream western
+      politics or media. This is because mainstream western politics and media understand
+      that we are living in an unofficial oligarchic empire to which both the US and
+      Israel belong. They never acknowledge it, they never talk about it, but all high-level
+      politicians, pundits and operatives in the western world understand that they
+      serve a globe-spanning power structure run by a loose alliance of plutocrats and
+      empire managers. They understand that states like Israel are a part of said power
+      structure, while states like Russia, China and Iran are not. So they spend their
+      time normalizing the corruption and abuses of imperial member states while facilitating
+      the empire’s efforts to attack and undermine the states which have successfully
+      resisted being absorbed into the imperial power umbrella. I’ve said it before
+      and I’ll say it again, the only thing I like about Donald Trump is his infantile
+      tendency to say the quiet part out loud. He advances the same kinds of abuses
+      as his predecessors who were no less corrupt and controlled, but he exposes the
+      underlying mechanics of those abuses in ways that more refined presidents never
+      would. __________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Trump White House (Public Domain).'
+    one_sentence_summary: President Trump openly acknowledged his alignment with Israeli-American
+      billionaire Miriam Adelson's interests in shaping U.S. policy towards Israel,
+      highlighting a stark contrast to the scrutiny he faced regarding foreign influence
+      during his first term.
+    paragraph_summary: In a recent speech to the Israeli parliament, President Trump
+      openly acknowledged his close ties to Israeli-American billionaire Miriam Adelson
+      and her late husband, Sheldon Adelson, admitting that he has enacted pro-Israel
+      policies under their influence. He highlighted his actions, such as terminating
+      the Iran nuclear deal and moving the U.S. Embassy to Jerusalem, as fulfilling
+      long-standing promises that previous presidents failed to keep. Trump's remarks
+      suggest a strong alignment with Adelson's interests, emphasizing her significant
+      financial support for Israel and her frequent visits to the White House, raising
+      questions about the implications of such relationships on U.S. foreign policy.
+    published: '2025-10-14T01:19:19+00:00'
+  - title: Trump Keeps Admitting That He Is Bought And Owned By The World's Richest
+      Israeli
+    url: https://www.caitlinjohnst.one/p/trump-keeps-admitting-that-he-is
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s bizarre how little mainstream attention is given to the fact that the president
+      of the United States has repeatedly confessed to being bought and owned by the
+      world’s richest Israeli, especially given how intensely fixated his political
+      opposition was on the possibility that he was compromised by a foreign government
+      during his first term. During a speech before the Israeli parliament on Monday,
+      President Trump once again publicly admitted that he has implemented Israel-friendly
+      policies at the behest of Israeli-American billionaire Miriam Adelson and her
+      late husband Sheldon, this time adding that he believes Adelson favors Israel
+      over the United States. Here’s a transcript of Trump’s remarks: “As president,
+      I terminated the disastrous Iran nuclear deal, and ultimately, I terminated Iran’s
+      nuclear program with things called B2 bombers. It was swift and it was accurate,
+      and it was a military beauty. I authorized the spending of billions of dollars,
+      which went to Israel’s defense, as you know. And after years of broken promises
+      from many other American presidents — you know that they kept promising — I never
+      understood it until I got there. There was a lot of pressure put on these presidents.
+      It was put on me, too, but I didn’t yield to the pressure. But every president
+      for decades said, ‘We’re going to do it.’ The difference is I kept my promise
+      and officially recognized the capital of Israel and moved the American Embassy
+      to Jerusalem. “Isn’t that right Miriam? Look at Miriam. She’s back there. Stand
+      up. Miriam and Sheldon [Adelson] would come into the office and call me. They’d
+      call me — I think they had more trips to the White House than anybody else, I
+      guess. Look at her sitting there so innocently — got $60 billion in the bank,
+      $60 billion. And she loves, and she, I think she said, ‘No, more.’ And she loves
+      Israel, but she loves it. And they would come in. And her husband was a very aggressive
+      man, but I loved him. It was a very aggressive, very supportive of me. And he’d
+      call up, ‘Can I come over and see you? I’d say ‘Sheldon, I’m the president of
+      the United States. It doesn’t work that way.’ He’d come in. But they were very
+      responsible for so much, including getting me thinking about Golan Heights, which
+      is probably one of the greatest things ever happened. Miriam, stand up, please.
+      She really is, I mean, she loves this country. She loves this country. Her and
+      her husband are so incredible. We miss him so dearly. But I actually asked her,
+      I’m going to get her in trouble with this. But I actually asked her once, I said,
+      ‘So Miriam, I know you love Israel. What do you love more? The United States or
+      Israel?’ She refused to answer. That means — that might mean Israel, I must say,
+      we love you. Thank you, darling, for being here. That’s a great honor. Great honor.
+      She’s a wonderful woman. She is a great woman.” Sheldon Adelson reportedly gave
+      Trump and the Republicans over $424 million in campaign funding from 2016 up until
+      his death in 2021. His widow Miriam continued her husband’s legacy and poured
+      a further $100 million into Trump’s 2024 presidential campaign. On the 2024 campaign
+      trail Trump also admitted to being controlled by Adelson cash. Here’s a transcript
+      of those remarks: “Just as I promised, I recognize Israel’s eternal capital and
+      opened the American embassy in Jerusalem. Jerusalem became the capital. I also
+      recognized Israeli sovereignty over the Golan Heights. “You know, Miriam and Sheldon
+      would come into the White House probably almost more than anybody outside of people
+      that work there. And they were always after — and as soon as I’d give them something — always
+      for Israel. As soon as I’d give them something, they’d want something else. I’d
+      say, ‘Give me a couple of weeks, will you, please?’ But I gave them the Golan
+      Heights, and they never even asked for it. “You know, for 72 years they’ve been
+      trying to do the Golan Heights, right? And even Sheldon didn’t have the nerve.
+      But I said, ‘You know what?’ I said to David Friedman, ‘Give me a quick lesson,
+      like five minutes or less on the Golan Heights.’ And he did. And I said, ‘Let’s
+      do it.’ We got it done in about 15 minutes, right?” https://x.com/mtracey/status/1837886438903357920
+      Legitimizing Israel’s illegal annexation of the Golan Heights and moving the US
+      embassy from Tel Aviv to Jerusalem were two of the most controversial moves Trump
+      made in Israel’s favor during his first term, which have now been eclipsed by
+      his backing the genocide in Gaza and his bombings of Iran and Yemen. And here
+      is his, openly admitting that his billionaire Zionist megadonors have been using
+      the access their donations bought them to push him to take drastic action in favor
+      of Israel. Just imagine for a second if someone had leaked documents to the press
+      proving that Trump and received extensive financial backing from a Russian oligarch
+      to whom he doled out favors of immense geopolitical consequence. It would be the
+      biggest scandal in the history of American politics, bar none. But because it’s
+      an Israeli oligarch, he can admit to it openly and repeatedly without anyone batting
+      an eye. During Trump’s first term his political rivals spent years pushing a bogus
+      conspiracy theory that he was controlled by Vladimir Putin, despite his having
+      spent that entire term aggressively ramping up cold war hostilities against Russia.
+      Entire political punditry careers were birthed trying to create a scandal out
+      of a narrative that could be plainly seen as false just by looking at the movements
+      of the US war machine and Washington’s actions against Moscow. https://x.com/caitoz/status/1977857055433326620
+      But here’s Trump openly admitting to bending over backwards to give an Israeli
+      oligarch whatever she wants because she gave his campaign huge sums of money,
+      while pouring weapons into Israel to facilitate its mass atrocities and engaging
+      in acts of war on Israel’s behalf. And it barely makes a blip in mainstream western
+      politics or media. This is because mainstream western politics and media understand
+      that we are living in an unofficial oligarchic empire to which both the US and
+      Israel belong. They never acknowledge it, they never talk about it, but all high-level
+      politicians, pundits and operatives in the western world understand that they
+      serve a globe-spanning power structure run by a loose alliance of plutocrats and
+      empire managers. They understand that states like Israel are a part of said power
+      structure, while states like Russia, China and Iran are not. So they spend their
+      time normalizing the corruption and abuses of imperial member states while facilitating
+      the empire’s efforts to attack and undermine the states which have successfully
+      resisted being absorbed into the imperial power umbrella. I’ve said it before
+      and I’ll say it again, the only thing I like about Donald Trump is his infantile
+      tendency to say the quiet part out loud. He advances the same kinds of abuses
+      as his predecessors who were no less corrupt and controlled, but he exposes the
+      underlying mechanics of those abuses in ways that more refined presidents never
+      would. __________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Trump White House (Public Domain).'
+    one_sentence_summary: President Trump openly acknowledged his alignment with Israeli-American
+      billionaire Miriam Adelson's interests in shaping U.S. policy towards Israel,
+      highlighting a stark contrast to the scrutiny he faced regarding foreign influence
+      during his first term.
+    paragraph_summary: In a recent speech to the Israeli parliament, President Trump
+      openly acknowledged his close ties to Israeli-American billionaire Miriam Adelson
+      and her late husband, Sheldon Adelson, admitting that he has enacted pro-Israel
+      policies under their influence. He highlighted his actions, such as terminating
+      the Iran nuclear deal and moving the U.S. Embassy to Jerusalem, as fulfilling
+      long-standing promises that previous presidents failed to keep. Trump's remarks
+      suggest a strong alignment with Adelson's interests, emphasizing her significant
+      financial support for Israel and her frequent visits to the White House, raising
+      questions about the implications of such relationships on U.S. foreign policy.
+    published: '2025-10-14T01:19:19+00:00'
+  - title: They Seriously Expected Parades And Trophies For Pausing A Genocide — And
+      Other Notes
+    url: https://www.caitlinjohnst.one/p/they-seriously-expected-parades-and
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      I’ve seen a lot of empire loyalists going “Why aren’t the Free Palestine people
+      cheering about the ceasefire?” If you saw a man beating a child into a coma, would
+      you cheer after the beating stopped? No, your first reaction would be horror at
+      what happened and your second would be fear that he’ll attack the kid again. And
+      then at some point you’d start wondering why the guy isn’t in jail. They actually
+      expected a bunch of parades and trophies for pausing a genocide. They thought
+      they’d get applause and adoration and then everything would go back to how it
+      was pre-2023. That’s adorable. That’s precious. Not gonna happen, but it’s cute
+      that they thought it would. ❖ Drop Site News reports that after the ceasefire
+      was announced Israeli troops went on an arson spree and torched food, homes and
+      critical infrastructure to ensure that Palestinians would have nothing to return
+      to. I keep thinking the Israeli military has run out of ways to shock me, but
+      they somehow keep finding new ones. ❖ TYT’s Ana Kasparian was in hot water last
+      week for rubbing her hands together while talking about how creepy and evil Jewish
+      oligarch Larry Ellison is, with critics hastening to compare her depiction of
+      Ellison to the antisemitic “Happy Merchant” meme. Online Zionists eager to stoke
+      the antisemitism hysteria actually went out of their way to digitally insert the
+      Happy Merchant meme into the actual footage of Kasparian’s portrayal, which was
+      probably done to show the similarities between the portrayal and the meme but
+      in practice made it look as though TYT had displayed an antisemitic graphic during
+      their show. https://x.com/just_whatever/status/1975964332967272473 There is no
+      reason to believe Kasparian was being antisemitic with her portrayal of Ellison,
+      who is indeed creepy and evil . Ask a small child to imitate someone who is wicked
+      and sneaky and they’ll rub their hands together looking sinister in the exact
+      way Kasparian did without knowing anything about Jews or Judaism. The only reason
+      anyone felt the need to insert the Happy Merchant meme into the footage in the
+      first place was because hardly anyone knows what the fuck that is. This has gotten
+      so fucking stupid. You can’t even talk like a normal person in real time without
+      getting accused of doing an antisemitic trope. Nobody can keep track of every
+      little thing on the ADL no-no list. These freaks were accusing Greta Thunberg
+      of being a Nazi for taking a pro-Palestine photo with an octopus plushie, because
+      apparently octopuses are somewhere on the no-no list. You’re expected to tip toe
+      around and avoid any reference to money, noses, blood, and who knows whatever
+      the fuck else. Penguins? Poodles? IKEA furniture? No one knows. Nobody can keep
+      track of all that shit, especially when speaking in a real-time format and you
+      don’t have time to pause and research whether a certain normal hand gesture is
+      on the antisemitic trope list. It’s an absurd dynamic designed to stagnate all
+      conversation around criticisms of genocide, empire, and oligarchy. ❖ I got into
+      an interaction with someone online who told me I should hate Hamas because they
+      are a proscribed terrorist group. I said “Oh well if the GOVERNMENT says we have
+      to hate Hamas then I stand corrected.” He said it had nothing to do with the government,
+      arguing that it was just “common sense,” after literally just having cited the
+      proscription of Hamas by his government. It’s amazing how common this viewpoint
+      is. Westerners actually think “terrorist” is some kind of innate quality that
+      certain groups have, instead of a completely made-up designation imposed by specific
+      governments. They don’t understand that it’s a government-applied label; they
+      think it’s something that those groups actually ARE. They’re so herd-like in their
+      thinking that they actually allow their rulers to interpret reality on their behalf.
+      And they don’t even know they’re doing it. The overwhelming majority of the world’s
+      governments do not consider Hamas a terrorist group. It’s a label that’s only
+      applied by the Five Eyes states, the EU, Japan, a couple of the empire’s Latin
+      American client states, and Israel. For everyone else it’s just a Palestinian
+      armed resistance group. In the US-centralized empire, “terrorist” just means “a
+      population which poses an inconvenience to the interests of the empire”. It’s
+      not a real thing. The UK designated Palestine Action a terrorist group because
+      its activists put paint on some war planes to protest a genocide, while an actual,
+      literal Al Qaeda leader has been warmly embraced by western states because he
+      facilitated their regime change objectives in Syria. There are no consistent standards
+      by which Iran’s IRGC should be considered a terrorist group while Israel’s IDF
+      and Mossad should not. Anyone who regurgitates the word “terrorist” is just telling
+      you they’re a mindless and compliant empire drone. ❖ The Gaza holocaust will be
+      a litmus test for high-profile figures for decades. Everyone’s comments or lack
+      thereof on Israel’s genocidal atrocities will be looked up and amplified whenever
+      their name rises to public attention. It will be the first step in determining
+      whether anyone deserves to be listened to, taken seriously, or voted for. Their
+      comments on Gaza in the mid-2020s will be the first gate through which they must
+      pass to be considered worthy of attention by normal people. ❖ Someone asked me,
+      “Why do you care so much about Palestine?” I told them ultimately it’s not even
+      especially about Palestine. I care about humanity. I don’t want my kids and grandkids
+      living in the kind of world that would watch civilians get ripped to shreds in
+      full view of the entire planet with the support of my government and its allies.
+      I think that’s pretty reasonable. _____________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article critiques the expectation that those advocating
+      for Palestinian rights would celebrate a ceasefire, comparing it to cheering for
+      an abuser who has merely paused their violence, while highlighting ongoing destruction
+      by Israeli troops even after the ceasefire announcement.
+    paragraph_summary: The article critiques the expectation of celebration from pro-Israel
+      supporters following a ceasefire in the ongoing conflict, comparing it to cheering
+      for a man who has just stopped beating a child, emphasizing the horror of the
+      violence that preceded it. It highlights the continued aggression from Israeli
+      forces, including acts of arson against Palestinian infrastructure, raising concerns
+      about the future for those affected. Additionally, it discusses a controversy
+      involving TYT's Ana Kasparian, who faced backlash for her portrayal of Jewish
+      oligarch Larry Ellison, with critics accusing her of antisemitism by linking her
+      actions to a harmful stereotype, although the article defends her intent and suggests
+      that her behavior was not inherently antisemitic.
+    published: '2025-10-13T11:21:10+00:00'
+  - title: They Seriously Expected Parades And Trophies For Pausing A Genocide — And
+      Other Notes
+    url: https://www.caitlinjohnst.one/p/they-seriously-expected-parades-and
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      I’ve seen a lot of empire loyalists going “Why aren’t the Free Palestine people
+      cheering about the ceasefire?” If you saw a man beating a child into a coma, would
+      you cheer after the beating stopped? No, your first reaction would be horror at
+      what happened and your second would be fear that he’ll attack the kid again. And
+      then at some point you’d start wondering why the guy isn’t in jail. They actually
+      expected a bunch of parades and trophies for pausing a genocide. They thought
+      they’d get applause and adoration and then everything would go back to how it
+      was pre-2023. That’s adorable. That’s precious. Not gonna happen, but it’s cute
+      that they thought it would. ❖ Drop Site News reports that after the ceasefire
+      was announced Israeli troops went on an arson spree and torched food, homes and
+      critical infrastructure to ensure that Palestinians would have nothing to return
+      to. I keep thinking the Israeli military has run out of ways to shock me, but
+      they somehow keep finding new ones. ❖ TYT’s Ana Kasparian was in hot water last
+      week for rubbing her hands together while talking about how creepy and evil Jewish
+      oligarch Larry Ellison is, with critics hastening to compare her depiction of
+      Ellison to the antisemitic “Happy Merchant” meme. Online Zionists eager to stoke
+      the antisemitism hysteria actually went out of their way to digitally insert the
+      Happy Merchant meme into the actual footage of Kasparian’s portrayal, which was
+      probably done to show the similarities between the portrayal and the meme but
+      in practice made it look as though TYT had displayed an antisemitic graphic during
+      their show. https://x.com/just_whatever/status/1975964332967272473 There is no
+      reason to believe Kasparian was being antisemitic with her portrayal of Ellison,
+      who is indeed creepy and evil . Ask a small child to imitate someone who is wicked
+      and sneaky and they’ll rub their hands together looking sinister in the exact
+      way Kasparian did without knowing anything about Jews or Judaism. The only reason
+      anyone felt the need to insert the Happy Merchant meme into the footage in the
+      first place was because hardly anyone knows what the fuck that is. This has gotten
+      so fucking stupid. You can’t even talk like a normal person in real time without
+      getting accused of doing an antisemitic trope. Nobody can keep track of every
+      little thing on the ADL no-no list. These freaks were accusing Greta Thunberg
+      of being a Nazi for taking a pro-Palestine photo with an octopus plushie, because
+      apparently octopuses are somewhere on the no-no list. You’re expected to tip toe
+      around and avoid any reference to money, noses, blood, and who knows whatever
+      the fuck else. Penguins? Poodles? IKEA furniture? No one knows. Nobody can keep
+      track of all that shit, especially when speaking in a real-time format and you
+      don’t have time to pause and research whether a certain normal hand gesture is
+      on the antisemitic trope list. It’s an absurd dynamic designed to stagnate all
+      conversation around criticisms of genocide, empire, and oligarchy. ❖ I got into
+      an interaction with someone online who told me I should hate Hamas because they
+      are a proscribed terrorist group. I said “Oh well if the GOVERNMENT says we have
+      to hate Hamas then I stand corrected.” He said it had nothing to do with the government,
+      arguing that it was just “common sense,” after literally just having cited the
+      proscription of Hamas by his government. It’s amazing how common this viewpoint
+      is. Westerners actually think “terrorist” is some kind of innate quality that
+      certain groups have, instead of a completely made-up designation imposed by specific
+      governments. They don’t understand that it’s a government-applied label; they
+      think it’s something that those groups actually ARE. They’re so herd-like in their
+      thinking that they actually allow their rulers to interpret reality on their behalf.
+      And they don’t even know they’re doing it. The overwhelming majority of the world’s
+      governments do not consider Hamas a terrorist group. It’s a label that’s only
+      applied by the Five Eyes states, the EU, Japan, a couple of the empire’s Latin
+      American client states, and Israel. For everyone else it’s just a Palestinian
+      armed resistance group. In the US-centralized empire, “terrorist” just means “a
+      population which poses an inconvenience to the interests of the empire”. It’s
+      not a real thing. The UK designated Palestine Action a terrorist group because
+      its activists put paint on some war planes to protest a genocide, while an actual,
+      literal Al Qaeda leader has been warmly embraced by western states because he
+      facilitated their regime change objectives in Syria. There are no consistent standards
+      by which Iran’s IRGC should be considered a terrorist group while Israel’s IDF
+      and Mossad should not. Anyone who regurgitates the word “terrorist” is just telling
+      you they’re a mindless and compliant empire drone. ❖ The Gaza holocaust will be
+      a litmus test for high-profile figures for decades. Everyone’s comments or lack
+      thereof on Israel’s genocidal atrocities will be looked up and amplified whenever
+      their name rises to public attention. It will be the first step in determining
+      whether anyone deserves to be listened to, taken seriously, or voted for. Their
+      comments on Gaza in the mid-2020s will be the first gate through which they must
+      pass to be considered worthy of attention by normal people. ❖ Someone asked me,
+      “Why do you care so much about Palestine?” I told them ultimately it’s not even
+      especially about Palestine. I care about humanity. I don’t want my kids and grandkids
+      living in the kind of world that would watch civilians get ripped to shreds in
+      full view of the entire planet with the support of my government and its allies.
+      I think that’s pretty reasonable. _____________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article critiques the expectation that those advocating
+      for Palestinian rights would celebrate a ceasefire, comparing it to cheering for
+      an abuser who has merely paused their violence, while highlighting ongoing destruction
+      by Israeli troops even after the ceasefire announcement.
+    paragraph_summary: The article critiques the expectation of celebration from pro-Israel
+      supporters following a ceasefire in the ongoing conflict, comparing it to cheering
+      for a man who has just stopped beating a child, emphasizing the horror of the
+      violence that preceded it. It highlights the continued aggression from Israeli
+      forces, including acts of arson against Palestinian infrastructure, raising concerns
+      about the future for those affected. Additionally, it discusses a controversy
+      involving TYT's Ana Kasparian, who faced backlash for her portrayal of Jewish
+      oligarch Larry Ellison, with critics accusing her of antisemitism by linking her
+      actions to a harmful stereotype, although the article defends her intent and suggests
+      that her behavior was not inherently antisemitic.
+    published: '2025-10-13T11:21:10+00:00'
+  - title: Israeli Officials Are Openly Saying They Plan To Resume Attacks On Gaza
+    url: https://www.caitlinjohnst.one/p/israeli-officials-are-openly-saying
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Israel’s top officials are openly declaring that they intend to terminate the
+      Gaza ceasefire after they get their hostages back. Defense Minister Israel Katz
+      has posted a tweet in Hebrew which machine translates as follows: “Israel’s great
+      challenge after the phase of returning the hostages will be the destruction of
+      all of Hamas’s terror tunnels in Gaza, directly by the IDF and through the international
+      mechanism to be established under the leadership and supervision of the United
+      States. This is the primary significance of implementing the agreed-upon principle
+      of demilitarizing Gaza and neutralizing Hamas of its weapons. I have instructed
+      the IDF to prepare for carrying out the mission.” Hamas has not agreed to any
+      demilitarization or destruction of its tunnels. There is no way to demilitarize
+      Gaza and neutralize Hamas of its weapons against their will without continued
+      warfare, something Israel has demonstrated it cannot do without killing shocking
+      numbers of civilians . https://x.com/owenjonesjourno/status/1977450200215224606
+      Katz’s comments echo the public statements of Prime Minister Netanyahu, who said
+      in a televised speech on Friday that “Hamas will be disarmed and Gaza will be
+      demilitarized,” and that if Hamas doesn’t disarm voluntarily then “it will be
+      achieved the hard way.” In another statement Netanyahu said, “We have achieved
+      tremendous victories but the campaign is not over; part of our enemies are trying
+      to recover.” Israeli outlet YNet reports that Israel is planning to resume its
+      blockade and prevent reconstruction if all the bodies of the deceased captives
+      are not returned, when Israel already knows that Hamas probably won’t be able
+      to locate all the bodies of deceased Israeli captives due to the intensity of
+      the Israeli bombing campaign over the last two years. “If Hamas does not cooperate
+      with the return process, and Israel suspects that it is deliberately hiding the
+      bodies in order to preserve them as a bargaining chip, it is expected to impose
+      a series of sanctions on it — including preventing the reconstruction of the Strip,
+      the entry of caravans, the opening of bakeries and the entry of civilian equipment,”
+      Ynet reports. In a recent article titled “ Israel assesses Hamas may not be able
+      to return all remaining dead hostages ,” CNN reports that “Sources say the Israeli
+      government is aware that Hamas may not know the location of, or is unable to retrieve,
+      the remains of some of the 28 remaining deceased hostages.” As noted by Shaiel
+      Ben-Ephraim, these two pieces of information would seem to indicate that Israel
+      is planning to use the unreturned bodies as a pretext to break the ceasefire.
+      https://x.com/clashreport/status/1977480476911611949 It is perhaps somewhat noteworthy
+      that Israel’s open preparations to resume the onslaught in Gaza directly contradict
+      the statements of the president of the United States. Asked by the press about
+      Netanyahu’s refusal to say that the “war” in Gaza is over, Trump forcefully stated,
+      “The war is over. The war is over, okay? You understand that?” Trump suggested
+      (without stating outright) that he has received “verbal guarantees” from Israel
+      that the violence will not resume. So here we have Israeli officials openly and
+      explicitly saying that the attacks on Gaza have not ended, and the US president
+      saying that they have. It’s not often you see these two governments directly contradicting
+      each other with mutually exclusive positions in ways that will necessarily be
+      proven or disproven by the events which follow. So I guess we’re about to find
+      out who has ultimately been in charge of the Gaza genocide this whole time. ______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image by Österreichisches Außenministerium via Wikimedia Commons ( Attribution
+      2.0 Generic ).'
+    one_sentence_summary: Israel's top officials plan to end the Gaza ceasefire after
+      recovering hostages, focusing on destroying Hamas's terror tunnels, despite Hamas's
+      refusal to agree to demilitarization.
+    paragraph_summary: Israeli officials, including Defense Minister Israel Katz and
+      Prime Minister Benjamin Netanyahu, have announced plans to end the Gaza ceasefire
+      once hostages are returned, with a focus on destroying Hamas's terror tunnels
+      and demilitarizing Gaza. Katz emphasized the need for military action, supported
+      by an international mechanism led by the U.S., to achieve these goals, despite
+      Hamas's refusal to disarm. Netanyahu echoed this sentiment, stating that if Hamas
+      does not disarm voluntarily, it will be forced to do so. Additionally, Israel
+      plans to resume its blockade and hinder reconstruction efforts if all deceased
+      captives' bodies are not returned, despite the likelihood that Hamas may not be
+      able to locate them due to extensive Israeli bombing.
+    published: '2025-10-13T01:41:01+00:00'
+  - title: Israeli Officials Are Openly Saying They Plan To Resume Attacks On Gaza
+    url: https://www.caitlinjohnst.one/p/israeli-officials-are-openly-saying
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Israel’s top officials are openly declaring that they intend to terminate the
+      Gaza ceasefire after they get their hostages back. Defense Minister Israel Katz
+      has posted a tweet in Hebrew which machine translates as follows: “Israel’s great
+      challenge after the phase of returning the hostages will be the destruction of
+      all of Hamas’s terror tunnels in Gaza, directly by the IDF and through the international
+      mechanism to be established under the leadership and supervision of the United
+      States. This is the primary significance of implementing the agreed-upon principle
+      of demilitarizing Gaza and neutralizing Hamas of its weapons. I have instructed
+      the IDF to prepare for carrying out the mission.” Hamas has not agreed to any
+      demilitarization or destruction of its tunnels. There is no way to demilitarize
+      Gaza and neutralize Hamas of its weapons against their will without continued
+      warfare, something Israel has demonstrated it cannot do without killing shocking
+      numbers of civilians . https://x.com/owenjonesjourno/status/1977450200215224606
+      Katz’s comments echo the public statements of Prime Minister Netanyahu, who said
+      in a televised speech on Friday that “Hamas will be disarmed and Gaza will be
+      demilitarized,” and that if Hamas doesn’t disarm voluntarily then “it will be
+      achieved the hard way.” In another statement Netanyahu said, “We have achieved
+      tremendous victories but the campaign is not over; part of our enemies are trying
+      to recover.” Israeli outlet YNet reports that Israel is planning to resume its
+      blockade and prevent reconstruction if all the bodies of the deceased captives
+      are not returned, when Israel already knows that Hamas probably won’t be able
+      to locate all the bodies of deceased Israeli captives due to the intensity of
+      the Israeli bombing campaign over the last two years. “If Hamas does not cooperate
+      with the return process, and Israel suspects that it is deliberately hiding the
+      bodies in order to preserve them as a bargaining chip, it is expected to impose
+      a series of sanctions on it — including preventing the reconstruction of the Strip,
+      the entry of caravans, the opening of bakeries and the entry of civilian equipment,”
+      Ynet reports. In a recent article titled “ Israel assesses Hamas may not be able
+      to return all remaining dead hostages ,” CNN reports that “Sources say the Israeli
+      government is aware that Hamas may not know the location of, or is unable to retrieve,
+      the remains of some of the 28 remaining deceased hostages.” As noted by Shaiel
+      Ben-Ephraim, these two pieces of information would seem to indicate that Israel
+      is planning to use the unreturned bodies as a pretext to break the ceasefire.
+      https://x.com/clashreport/status/1977480476911611949 It is perhaps somewhat noteworthy
+      that Israel’s open preparations to resume the onslaught in Gaza directly contradict
+      the statements of the president of the United States. Asked by the press about
+      Netanyahu’s refusal to say that the “war” in Gaza is over, Trump forcefully stated,
+      “The war is over. The war is over, okay? You understand that?” Trump suggested
+      (without stating outright) that he has received “verbal guarantees” from Israel
+      that the violence will not resume. So here we have Israeli officials openly and
+      explicitly saying that the attacks on Gaza have not ended, and the US president
+      saying that they have. It’s not often you see these two governments directly contradicting
+      each other with mutually exclusive positions in ways that will necessarily be
+      proven or disproven by the events which follow. So I guess we’re about to find
+      out who has ultimately been in charge of the Gaza genocide this whole time. ______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image by Österreichisches Außenministerium via Wikimedia Commons ( Attribution
+      2.0 Generic ).'
+    one_sentence_summary: Israel's top officials plan to end the Gaza ceasefire after
+      recovering hostages, focusing on destroying Hamas's terror tunnels, despite Hamas's
+      refusal to agree to demilitarization.
+    paragraph_summary: Israeli officials, including Defense Minister Israel Katz and
+      Prime Minister Benjamin Netanyahu, have announced plans to end the Gaza ceasefire
+      once hostages are returned, with a focus on destroying Hamas's terror tunnels
+      and demilitarizing Gaza. Katz emphasized the need for military action, supported
+      by an international mechanism led by the U.S., to achieve these goals, despite
+      Hamas's refusal to disarm. Netanyahu echoed this sentiment, stating that if Hamas
+      does not disarm voluntarily, it will be forced to do so. Additionally, Israel
+      plans to resume its blockade and hinder reconstruction efforts if all deceased
+      captives' bodies are not returned, despite the likelihood that Hamas may not be
+      able to locate them due to extensive Israeli bombing.
+    published: '2025-10-13T01:41:01+00:00'
+  - title: Thoughts On The Ceasefire News
+    url: https://www.caitlinjohnst.one/p/thoughts-on-the-ceasefire-news
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Israel continued to hammer Gaza with military explosives on Thursday despite the
+      announcement of the first stages of a ceasefire agreement with Hamas. Israel always
+      does this. When normal people get a ceasefire agreement they think “Good, this
+      means we can finally stop fighting and killing.” Whenever Israelis get a ceasefire
+      agreement they go, “This means we have to hurry up and kill as many people as
+      possible before it takes effect.” But it does appear that the killing and abuse
+      will at least diminish for a time, which is an objectively good thing no matter
+      how you slice it. The first stages of the agreement reportedly entail a partial
+      withdrawal of IDF troops, Israel’s starvation blockade officially ending, humanitarian
+      aid being allowed into the enclave, and both Israel and Hamas releasing captives
+      and stopping the fighting. Drop Site News reports that according to Hamas sources,
+      subsequent ceasefire phases will entail “No surrender, no disarming, no mass exile,
+      but most of all a permanent end to the war.” https://x.com/gilicohen10/status/1976388647793410258
+      It remains to be seen if there will be any movement toward a lasting ceasefire
+      beyond the first stage. When an agreement was reached late last year it never
+      made it beyond the first phase and then the Trumpanyahu administration declared
+      a siege and resumed the killing. The far right members of the Netanyahu regime
+      certainly seem like they don’t expect the ceasefire to hold. Israeli Finance Minister
+      Bezalel Smotrich said in a statement that Israel has a “tremendous responsibility
+      to ensure that this is not, God forbid, a deal of ‘hostages in exchange for stopping
+      the war,’ as Hamas thinks and boasts,” and that “immediately after the hostages
+      return home, the State of Israel will continue to strive with all its might for
+      the true eradication of Hamas and the genuine disarmament of Gaza.” Israel’s National
+      Security Minister Itamar Ben-Gvir issued similar remarks , saying that he and
+      his Jewish Power party will use their leverage to dismantle the Netanyahu government
+      if it “allows the continued existence of Hamas rule in Gaza.” Netanyahu himself
+      has been studiously avoiding any talk of commitment to a lasting ceasefire, mostly
+      limiting his public statements to the significance of freeing Israeli hostages.
+      https://x.com/AssalRad/status/1976415750207439017 So there’s not a whole lot to
+      feel optimistic about here. If the killing does stop on a lasting basis, it will
+      be a pleasant surprise. If it does, we can only surmise that the US and Israel
+      calculated that the worldwide PR crisis created by the genocide was getting too
+      severe to sustain, which would be a win for all of us. Trump has gone on record
+      to say that “Bibi took it very far and Israel lost a lot of support in the world.
+      Now I am gonna get all that support back.” Either that, or they calculated that
+      they’re going to need all their firepower for a planned war with Iran. Which would
+      of course be terrible for everyone. We shall see. For now at least it will be
+      nice for everyone to have a breather. If things really do calm down I’m going
+      to do something I’ve never done in my entire writing career and try to take a
+      full weekend off work to decompress. Focusing on a live-streamed genocide for
+      two years takes a toll on the mind and body. Here’s hoping for a better future.
+      _____________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: Despite the announcement of a ceasefire agreement with Hamas,
+      Israel continued its military operations in Gaza, although the agreement is expected
+      to lead to a temporary reduction in violence and the easing of humanitarian conditions.
+    paragraph_summary: Despite the announcement of the first stages of a ceasefire agreement
+      with Hamas, Israel continued its military operations in Gaza, reflecting a pattern
+      where ceasefire announcements prompt intensified attacks rather than a cessation
+      of hostilities. The initial stages of the agreement include a partial withdrawal
+      of Israeli Defense Forces, the end of the blockade, and the allowance of humanitarian
+      aid, alongside the release of captives by both sides. However, skepticism remains
+      regarding the durability of the ceasefire, as past agreements have failed to progress
+      beyond initial phases. Israeli officials, particularly from the far-right, express
+      doubts about the ceasefire's longevity, emphasizing a commitment to continue military
+      actions against Hamas even after hostages are returned.
+    published: '2025-10-10T01:13:49+00:00'
+  - title: Thoughts On The Ceasefire News
+    url: https://www.caitlinjohnst.one/p/thoughts-on-the-ceasefire-news
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Israel continued to hammer Gaza with military explosives on Thursday despite the
+      announcement of the first stages of a ceasefire agreement with Hamas. Israel always
+      does this. When normal people get a ceasefire agreement they think “Good, this
+      means we can finally stop fighting and killing.” Whenever Israelis get a ceasefire
+      agreement they go, “This means we have to hurry up and kill as many people as
+      possible before it takes effect.” But it does appear that the killing and abuse
+      will at least diminish for a time, which is an objectively good thing no matter
+      how you slice it. The first stages of the agreement reportedly entail a partial
+      withdrawal of IDF troops, Israel’s starvation blockade officially ending, humanitarian
+      aid being allowed into the enclave, and both Israel and Hamas releasing captives
+      and stopping the fighting. Drop Site News reports that according to Hamas sources,
+      subsequent ceasefire phases will entail “No surrender, no disarming, no mass exile,
+      but most of all a permanent end to the war.” https://x.com/gilicohen10/status/1976388647793410258
+      It remains to be seen if there will be any movement toward a lasting ceasefire
+      beyond the first stage. When an agreement was reached late last year it never
+      made it beyond the first phase and then the Trumpanyahu administration declared
+      a siege and resumed the killing. The far right members of the Netanyahu regime
+      certainly seem like they don’t expect the ceasefire to hold. Israeli Finance Minister
+      Bezalel Smotrich said in a statement that Israel has a “tremendous responsibility
+      to ensure that this is not, God forbid, a deal of ‘hostages in exchange for stopping
+      the war,’ as Hamas thinks and boasts,” and that “immediately after the hostages
+      return home, the State of Israel will continue to strive with all its might for
+      the true eradication of Hamas and the genuine disarmament of Gaza.” Israel’s National
+      Security Minister Itamar Ben-Gvir issued similar remarks , saying that he and
+      his Jewish Power party will use their leverage to dismantle the Netanyahu government
+      if it “allows the continued existence of Hamas rule in Gaza.” Netanyahu himself
+      has been studiously avoiding any talk of commitment to a lasting ceasefire, mostly
+      limiting his public statements to the significance of freeing Israeli hostages.
+      https://x.com/AssalRad/status/1976415750207439017 So there’s not a whole lot to
+      feel optimistic about here. If the killing does stop on a lasting basis, it will
+      be a pleasant surprise. If it does, we can only surmise that the US and Israel
+      calculated that the worldwide PR crisis created by the genocide was getting too
+      severe to sustain, which would be a win for all of us. Trump has gone on record
+      to say that “Bibi took it very far and Israel lost a lot of support in the world.
+      Now I am gonna get all that support back.” Either that, or they calculated that
+      they’re going to need all their firepower for a planned war with Iran. Which would
+      of course be terrible for everyone. We shall see. For now at least it will be
+      nice for everyone to have a breather. If things really do calm down I’m going
+      to do something I’ve never done in my entire writing career and try to take a
+      full weekend off work to decompress. Focusing on a live-streamed genocide for
+      two years takes a toll on the mind and body. Here’s hoping for a better future.
+      _____________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: Despite the announcement of a ceasefire agreement with Hamas,
+      Israel continued its military operations in Gaza, although the agreement is expected
+      to lead to a temporary reduction in violence and the easing of humanitarian conditions.
+    paragraph_summary: Despite the announcement of the first stages of a ceasefire agreement
+      with Hamas, Israel continued its military operations in Gaza, reflecting a pattern
+      where ceasefire announcements prompt intensified attacks rather than a cessation
+      of hostilities. The initial stages of the agreement include a partial withdrawal
+      of Israeli Defense Forces, the end of the blockade, and the allowance of humanitarian
+      aid, alongside the release of captives by both sides. However, skepticism remains
+      regarding the durability of the ceasefire, as past agreements have failed to progress
+      beyond initial phases. Israeli officials, particularly from the far-right, express
+      doubts about the ceasefire's longevity, emphasizing a commitment to continue military
+      actions against Hamas even after hostages are returned.
+    published: '2025-10-10T01:13:49+00:00'
+  - title: 'New Issue Of JOHNSTONE: They Can''t Arrest Us All'
+    url: https://www.caitlinjohnst.one/p/new-issue-of-johnstone-they-cant
+    text: 'Subscribe now The new edition of JOHNSTONE is now available to order in print
+      or download as a pay-what-you-want e-book version . This month’s issue features
+      a painting of Global Sumud Flotilla activist Greg Stoker calmly enjoying a smoke
+      while the IDF was spraying the boats with skunk water in preparation to kidnap
+      them. My favorite thing about the Gaza flotilla activism we’ve been seeing is
+      that it’s a glaring reminder that ordinary people really can just go up against
+      the machine, and that the more there are the harder it is to stop them. It took
+      Israel more than a day to abduct all the activists on the largest wave of boats
+      because there were so many of them. A significantly greater number would probably
+      have seen some ships land on the Gaza shore. Everything about our society is geared
+      toward stopping us from noticing this dynamic. Our education systems, our political
+      systems, our media, our online information. Religions that have been around for
+      thousands of years because the powerful endorsed and promulgated them are full
+      of passages extolling the virtues of obedience, poverty, meekness, and rendering
+      unto Caesar what is Caesar’s. From the moment we are born our heads are filled
+      with stories about why it’s good and right to consent to the status quo and why
+      it would be wrong to take back what has been stolen from us by a predatory ruling
+      class. This is why we’re always inundated with messaging about the importance
+      of civility and politeness any time people realize that they can simply confront
+      corrupt officials in restaurants or at their homes to push for what they want.
+      The managers of the oligarchic empire which rules over us are terrified that we
+      will one day notice that there are a whole lot more of us than there are of them,
+      and that there’s really nothing they could do to stop us if we decided to replace
+      them with a system which benefits ordinary people instead of an elite few. Sorry
+      this issue is late getting out; we tried to publish one with a painting of Charlie
+      Kirk on the cover under the title “All Mainstream American Pundits Are Evil Scumbags”,
+      but Kindle Direct Publishing blocked it and suspended our account because it was
+      deemed offensive. I like this one better anyway. You can get a paperback copy
+      of this issue by clicking here , or a pay-what-you-feel digital copy by clicking
+      here . Other paperback editions of JOHNSTONE can be purchased by clicking here
+      . Other digital editions can be downloaded by clicking here . You can also get
+      a subscription to the digital versions which will be sent to your inbox every
+      month by clicking here . CONTENTS: Israel Droned Flotilla Activists And Then Abused
+      Greta Thunberg … 3 Secretary Of War … 5 Thoughts On The Assassination Of Charlie
+      Kirk … 6 Opposing An Ongoing Genocide Requires No Justification … 7 The Word “Terrorist”
+      Becomes More And More Of A Joke By The Day … 8 They Just Bombed Greta Thunberg’s
+      Boat … 10 Westerners Have A Moral Responsibility To Help Curb The Empire’s Abuses
+      … 12 Some Days There’s Just Too Much Israeli Psychopathy To Write About … 14 ALL
+      Mainstream American Political Pundits Are Evil Scumbags … 17 They Lowered The
+      McDonald’s Flag Half-Mast At Guantanamo … 20 Trump Promotes A “Charlie Kirk Act”
+      To Establish A Ministry Of Truth … 22 Celebrities Should Have Been Calling Out
+      The Gaza Holocaust This Entire Time … 24 Trump Administration Rushes To Kill Free
+      Speech In Response To Kirk Assassination … 26 Israel Is Committing Genocide. This
+      Is A Fact, Not An Opinion. … 29 Assaults On Free Speech Go Into Hyperdrive After
+      Charlie Kirk Killing … 31 Bernie Sanders Is A Ghoulish Zionist … 33 Netanyahu
+      Keeps Making Statements Saying Israel Didn’t Kill Charlie Kirk … 35 Imagine There
+      Was A Violent Cult Committing Atrocities With Impunity … 37 “Recognizing” The
+      Rubble Of Palestine … 38 More Attacks On The Gaza Aid Flotilla, And Other Notes
+      From The Edge Of The Narrative Matrix … 40 The Two-State Solution Is A Western
+      Liberal Fairy Tale … 42 The Real Violent Extremists Are The Freaks Who Run The
+      US Empire … 43 The World Doesn’t Hate Jews, The World Hates Israel … 44 Trump
+      Tyranny, Digital IDs, And Other Notes From The Edge Of The Narrative Matrix …
+      46 The Single Dumbest Conspiracy Theory In The Entire World … 48 Expect A Huge
+      Fuss About The October 7 Anniversary As The World Turns Against Israel … 50 The
+      Trumpanyahu “Peace” Plan, And Other Notes … 51 On The Manchester Synagogue Attack
+      … 54 How Many Palestinian Lives Would It Take To Equal One Western Life? And Other
+      Notes … 56 Again, you can get a paperback copy of this issue by clicking here
+      , or click here for a digital pay-what-you-feel copy. ________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The latest edition of JOHNSTONE highlights the resilience
+      of Gaza flotilla activists, exemplified by a painting of Greg Stoker, and emphasizes
+      how collective action can challenge oppressive systems, despite societal efforts
+      to obscure this dynamic.
+    paragraph_summary: The latest edition of JOHNSTONE is now available for order, featuring
+      a striking image of Global Sumud Flotilla activist Greg Stoker amidst a confrontation
+      with the IDF, highlighting the resilience of ordinary people against oppressive
+      systems. The article reflects on the recent Gaza flotilla activism, emphasizing
+      that collective action can challenge powerful entities, as evidenced by the difficulty
+      Israel faced in detaining a large number of activists. It critiques societal structures—education,
+      politics, media, and religion—that promote obedience and discourage dissent, arguing
+      that these systems are designed to maintain the status quo and suppress awareness
+      of the potential for collective power. The piece suggests that the ruling elite
+      fear the day when the masses recognize their strength and seek to establish a
+      system that serves the interests of the many rather than the few.
+    published: '2025-10-09T00:05:12+00:00'
+  - title: 'New Issue Of JOHNSTONE: They Can''t Arrest Us All'
+    url: https://www.caitlinjohnst.one/p/new-issue-of-johnstone-they-cant
+    text: 'Subscribe now The new edition of JOHNSTONE is now available to order in print
+      or download as a pay-what-you-want e-book version . This month’s issue features
+      a painting of Global Sumud Flotilla activist Greg Stoker calmly enjoying a smoke
+      while the IDF was spraying the boats with skunk water in preparation to kidnap
+      them. My favorite thing about the Gaza flotilla activism we’ve been seeing is
+      that it’s a glaring reminder that ordinary people really can just go up against
+      the machine, and that the more there are the harder it is to stop them. It took
+      Israel more than a day to abduct all the activists on the largest wave of boats
+      because there were so many of them. A significantly greater number would probably
+      have seen some ships land on the Gaza shore. Everything about our society is geared
+      toward stopping us from noticing this dynamic. Our education systems, our political
+      systems, our media, our online information. Religions that have been around for
+      thousands of years because the powerful endorsed and promulgated them are full
+      of passages extolling the virtues of obedience, poverty, meekness, and rendering
+      unto Caesar what is Caesar’s. From the moment we are born our heads are filled
+      with stories about why it’s good and right to consent to the status quo and why
+      it would be wrong to take back what has been stolen from us by a predatory ruling
+      class. This is why we’re always inundated with messaging about the importance
+      of civility and politeness any time people realize that they can simply confront
+      corrupt officials in restaurants or at their homes to push for what they want.
+      The managers of the oligarchic empire which rules over us are terrified that we
+      will one day notice that there are a whole lot more of us than there are of them,
+      and that there’s really nothing they could do to stop us if we decided to replace
+      them with a system which benefits ordinary people instead of an elite few. Sorry
+      this issue is late getting out; we tried to publish one with a painting of Charlie
+      Kirk on the cover under the title “All Mainstream American Pundits Are Evil Scumbags”,
+      but Kindle Direct Publishing blocked it and suspended our account because it was
+      deemed offensive. I like this one better anyway. You can get a paperback copy
+      of this issue by clicking here , or a pay-what-you-feel digital copy by clicking
+      here . Other paperback editions of JOHNSTONE can be purchased by clicking here
+      . Other digital editions can be downloaded by clicking here . You can also get
+      a subscription to the digital versions which will be sent to your inbox every
+      month by clicking here . CONTENTS: Israel Droned Flotilla Activists And Then Abused
+      Greta Thunberg … 3 Secretary Of War … 5 Thoughts On The Assassination Of Charlie
+      Kirk … 6 Opposing An Ongoing Genocide Requires No Justification … 7 The Word “Terrorist”
+      Becomes More And More Of A Joke By The Day … 8 They Just Bombed Greta Thunberg’s
+      Boat … 10 Westerners Have A Moral Responsibility To Help Curb The Empire’s Abuses
+      … 12 Some Days There’s Just Too Much Israeli Psychopathy To Write About … 14 ALL
+      Mainstream American Political Pundits Are Evil Scumbags … 17 They Lowered The
+      McDonald’s Flag Half-Mast At Guantanamo … 20 Trump Promotes A “Charlie Kirk Act”
+      To Establish A Ministry Of Truth … 22 Celebrities Should Have Been Calling Out
+      The Gaza Holocaust This Entire Time … 24 Trump Administration Rushes To Kill Free
+      Speech In Response To Kirk Assassination … 26 Israel Is Committing Genocide. This
+      Is A Fact, Not An Opinion. … 29 Assaults On Free Speech Go Into Hyperdrive After
+      Charlie Kirk Killing … 31 Bernie Sanders Is A Ghoulish Zionist … 33 Netanyahu
+      Keeps Making Statements Saying Israel Didn’t Kill Charlie Kirk … 35 Imagine There
+      Was A Violent Cult Committing Atrocities With Impunity … 37 “Recognizing” The
+      Rubble Of Palestine … 38 More Attacks On The Gaza Aid Flotilla, And Other Notes
+      From The Edge Of The Narrative Matrix … 40 The Two-State Solution Is A Western
+      Liberal Fairy Tale … 42 The Real Violent Extremists Are The Freaks Who Run The
+      US Empire … 43 The World Doesn’t Hate Jews, The World Hates Israel … 44 Trump
+      Tyranny, Digital IDs, And Other Notes From The Edge Of The Narrative Matrix …
+      46 The Single Dumbest Conspiracy Theory In The Entire World … 48 Expect A Huge
+      Fuss About The October 7 Anniversary As The World Turns Against Israel … 50 The
+      Trumpanyahu “Peace” Plan, And Other Notes … 51 On The Manchester Synagogue Attack
+      … 54 How Many Palestinian Lives Would It Take To Equal One Western Life? And Other
+      Notes … 56 Again, you can get a paperback copy of this issue by clicking here
+      , or click here for a digital pay-what-you-feel copy. ________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The latest edition of JOHNSTONE highlights the resilience
+      of Gaza flotilla activists, exemplified by a painting of Greg Stoker, and emphasizes
+      how collective action can challenge oppressive systems, despite societal efforts
+      to obscure this dynamic.
+    paragraph_summary: The latest edition of JOHNSTONE is now available for order, featuring
+      a striking image of Global Sumud Flotilla activist Greg Stoker amidst a confrontation
+      with the IDF, highlighting the resilience of ordinary people against oppressive
+      systems. The article reflects on the recent Gaza flotilla activism, emphasizing
+      that collective action can challenge powerful entities, as evidenced by the difficulty
+      Israel faced in detaining a large number of activists. It critiques societal structures—education,
+      politics, media, and religion—that promote obedience and discourage dissent, arguing
+      that these systems are designed to maintain the status quo and suppress awareness
+      of the potential for collective power. The piece suggests that the ruling elite
+      fear the day when the masses recognize their strength and seek to establish a
+      system that serves the interests of the many rather than the few.
+    published: '2025-10-09T00:05:12+00:00'
   - title: Only Israelis Could Commit Genocide For Years And Then Demand Sympathy -
       And Other Notes
     url: https://www.caitlinjohnst.one/p/only-israelis-could-commit-genocide

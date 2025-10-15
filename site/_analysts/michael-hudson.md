@@ -8,18 +8,4770 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  The global geopolitical landscape continues to be shaped by the accelerating transition from U.S.-led unipolarity to a contested multipolar order, with the latest developments highlighting deepening economic and strategic realignments.
+  Amid escalating global tensions, the latest analyses highlight the deepening complexity of the Gaza conflict, the shifting economic landscape in the West, and the ongoing transformation of the international order.
   
-  The most recent and notable shift is the U.S. Federal Reserve’s decision to decrease interest rates, a move that has sparked significant controversy. As **Michael Hudson** explains, this policy is closely tied to the political climate surrounding Donald Trump, with the Fed’s actions seen as both a response to domestic economic pressures and a maneuver within ongoing political struggles. The rate cut is expected to have broad implications for global capital flows, with high confidence that it will further weaken the dollar’s appeal as the world’s reserve currency, especially as alternative monetary systems gain traction among BRICS and SCO nations.
+  The most recent commentary by **Michael Hudson** underscores that the war in Gaza is not merely a regional struggle but is increasingly framed as a NATO-backed operation, with the United States and its allies deeply implicated. Hudson stresses that this broader framing is essential for understanding the geopolitical stakes, arguing, “This is not just Israel’s war; it is a NATO conflict.” He contends that the American public and policymakers must reorient their perceptions, recognizing the conflict as part of a larger contest over global influence and security architecture.
   
-  Meanwhile, U.S. economic coercion is facing diminishing returns. According to **Glenn Diesen** and **Michael Hudson**, the shift towards a multipolar world has enabled countries to diversify their economic partnerships, reducing U.S. leverage over both allies and neutral states. This trend is most evident as traditional U.S. partners in Europe and Asia increasingly explore closer ties with BRICS and the Shanghai Cooperation Organization, seeking alternatives to U.S.-centric trade and investment frameworks.
+  On the economic front, Hudson draws attention to the persistent neglect of balance of payments theory in U.S. economic education, which he sees as a critical blind spot. He argues that without a proper grasp of how military spending and foreign policy decisions impact the U.S. balance of payments, policymakers are ill-equipped to address the country’s structural economic weaknesses. This critique is particularly salient as the U.S. continues to finance extensive overseas military operations, further exacerbating its deficits.
   
-  On the domestic front, the U.S. economy is experiencing mounting strain from Trump-era policies. **Michael Hudson** points out that trade wars, tariffs, and tax cuts have undermined key sectors such as agriculture and manufacturing, fueling inflation and exacerbating affordability crises in housing and consumer goods. This internal economic turbulence is likely to persist, with a high chance that it will further erode U.S. influence abroad as allies seek more stable economic arrangements.
+  Meanwhile, the broader trend toward multipolarity continues to gain momentum. As discussed in recent interviews, the shift away from a unipolar U.S.-dominated system is enabling countries to diversify economic and strategic partnerships. This reduces Washington’s leverage, especially as BRICS and the Shanghai Cooperation Organization offer alternative frameworks for cooperation. Hudson notes that “countries now have more options to diversify their economic partnerships away from the US, reducing its leverage over allies and neutral states.”
   
-  Looking ahead, the majority of analysts agree that the momentum behind the multipolar bloc—anchored by China, Russia, and India—will continue to grow. I guarantee that Global Majority countries will accelerate efforts to establish independent trade, monetary, and military systems, further challenging U.S. dominance. The U.S., in turn, is expected to double down on efforts to extract economic concessions from its allies, but with diminishing effectiveness as the international system becomes increasingly dualistic.
+  Looking ahead, the majority of analysts cited by Hudson anticipate that the U.S. will face mounting challenges in sustaining its global dominance, both militarily and economically. There is high confidence that the trend toward multipolarity will accelerate, with more states seeking alternatives to U.S.-centric institutions. On the Gaza front, unless there is a significant policy shift in Washington or among its NATO partners, the conflict is likely to persist, with broader regional and global repercussions.
   
-  In summary, the prevailing trend is a steady erosion of U.S. economic and strategic leverage, matched by the rise of alternative blocs and systems. This realignment is set to define the coming period, with high confidence that the global order will become more fragmented and contested.
+  In summary, the latest developments point to a world in flux: the Gaza conflict is emblematic of deeper geopolitical realignments, U.S. economic vulnerabilities are increasingly exposed, and the multipolar order is no longer a distant prospect but an emerging reality. I guarantee that these trends will continue to shape international relations in the months ahead.
 articles:
+  - title: The Narrative Battlefield
+    url: https://michael-hudson.com/2025/10/the-narrative-battlefield/
+    text: 'NIMA ALKHORSHID: Hi, everybody. Today is Thursday, October 9th, 2025, and
+      our dear friends, Michael Hudson and Richard Wolff, join us. Welcome back. ⁣RICHARD
+      WOLFF & MICHAEL HUDSON: Glad to be here. ⁣NIMA ALKHORSHID: Since everybody’s talking
+      about the Trump peace plan, I want to start with that. Michael, what’s your take
+      on what is happening? You’ve sent me an email. You’ve mentioned that what has
+      happened in Gaza is not Israel’s war, it’s NATO’s war. What’s your point in that?
+      ⁣MICHAEL HUDSON: Well, Trump told Fox News last night: The important thing is
+      for people to love Israel again. I told Bibi that Israel cannot fight against
+      the whole world. And Netanyahu has been saying that this war goes far beyond simply
+      between Gaza and Israel. It’s really a fight, a ninth front. And that ninth front
+      is: Who is going to control how Americans view international relations, the geopolitics
+      of what’s happening? And I think if the military confrontation stopped, at least
+      temporarily, then this conflict has now shifted to the political and the cultural
+      battlefield. And I think we have to look at that. This is turning out to be a
+      much deeper and long-lasting conflict, and it goes beyond Palestine and Israel.
+      To answer your question, the war in Gaza and the West Bank isn’t simply a military
+      conflict between Israel and the Palestinians. Just like Russia isn’t simply in
+      a military conflict with Ukraine, the Palestinians are not in a war with Israel,
+      but with NATO led by the United States, and Britain, and Germany. And Israel’s
+      strategy is — well, how do we keep the loyalty of the U.S., now that the opinion
+      polls show that younger people are taking the side of the Palestinians, not Israel?
+      What does that bode for continued American support for Israel? Well, this is a
+      much longer lasting fight, and it goes beyond the military battlefield, and it’s
+      how the world frames the thinking about what’s happening to it. And this is the
+      deepest, and it’s even the most threatening battlefield over control of the narrative
+      — the narrative of how to frame the issue — and what’s being taught in the schools,
+      in the universities, and spread to the internet platforms and the mass media —
+      that is now already come under the control of extremist Zionist hardliners. And
+      that’s what the whole fight, over the last week, has been over TikTok. President
+      Netanyahu has explained that Israel is at war with what he calls this ninth front:
+      to control the United States. That’s the real war that’s happening. And this control
+      isn’t to be established militarily, but by controlling the U.S. public opinion
+      through, essentially, extremist Zionist billionaires, the Silicon Valley billionaires,
+      who control the mass media. You’ve seen them take control of automatic intelligence
+      to buy out TikTok, and redesign the algorithms of TikTok to replace the pictures
+      that TikTok was showing about murdered Palestinian babies, all sorts of horrendous
+      genocidal attacks. All this is going to be out. And the new algorithm is blocking
+      any discussion or any exposé of what Israel has been doing to Gaza and to the
+      West Bank. And just like Israel has concentrated — the army has concentrated —
+      on killing two groups of people: journalists — they must destroy any attempt to
+      let the world know what they are doing — and doctors — the doctors must not heal
+      the injured, especially the children who can grow up — and growing up with a memory
+      of what’s happening to them. And Israel says, if these children live, it is a
+      threat to Judaism, because Israel is a Judaic state — meaning, as Alistair Crooke
+      says — meaning a theocracy; and a theocracy has no room for anyone who is not
+      a member of the Judaic state. So, you’re having this war extending to the churches.
+      You know, what are the churches going to say? Are they going to say this war of
+      Israel against the Palestinians is part of the Bible — of the Lord backing Israel,
+      as America’s ambassador to Israel has claimed, that he has to follow the Bible?
+      There’s a whole attempt to create this, not only a false, narrative, but by using
+      the algorithms for all the main internet platforms — Facebook, Google, even X
+      — if you try to use these platforms — and you can now expurgate or censor any
+      discussion that is not reflecting an Israeli opinion — then you’re shaping public
+      opinion. And if you can take over the news, like CBS News was just taken over
+      by an ardent Zionist — You’re turning the universities, who are preventing any
+      student demonstrations in favor of peace — they say: If you want peace, and not
+      fighting, then you’re antisemitic, we are expelling you — and if you’re a professor,
+      who describes this ‘we will expel you,’ as Columbia University has done, other
+      universities are doing — This is a cultural war, and that’s what is being overshadowed
+      by all of this military discussion. And since neither Richard nor I are military
+      specialists, I think that that’s really what needs to be discussed on your site,
+      because you have enough military people who are explaining the brutality of what’s
+      happening. ⁣NIMA ALKHORSHID: [muted, addressing Richard Wolff] … from a different
+      angle, but you have your point. We talked about it before. Go ahead. Your take?
+      ⁣RICHARD WOLFF: Let me frame it slightly differently, but, I think, in a way that
+      is complementary to what Michael has just said. Here’s my interpretation of what 
+      — translation should be a better word — translation of what Trump said on Fox
+      News, that Michael cited. Here’s my translation. This is not what the president
+      said, but here’s what I think lies behind the words he said: that he has come
+      to the conclusion, with his advisors, that the tide has changed in the world;
+      that Israel is now losing the hearts-and-minds campaign that it launched, and
+      that it did, in that area, too little, and too late; and that it could not overwhelm
+      what the reality was, of what they were doing to the Palestinians in Gaza for
+      the last two years. Okay. It’s too late. Whether you want to give the credit to
+      the global critical media, whether we pin another medal on Greta Thunberg, I don’t
+      know — but he’s losing. And I don’t think President Trump cares about it anyway.
+      But what his advisors have told him is that the tide is turning inside the United
+      States. It is becoming politically impossible for him to continue the policies
+      of Biden and Trump, of being 100% pro-Israel — more than half the people of Israel
+      are, in terms of the war policy. It’s becoming dangerous. AIPAC, for all the money
+      it spends, and all the influence it has, has not prevailed. And he is telling
+      Bibi: Listen, Jack, I can’t keep supporting you if, in my country, the opinion
+      is shifting away from you. I’ve done as much as I can do. I’m bailing. You’ve
+      got to now do — and then he says something which is ridiculous: You’ve got to
+      make the world love you. Well, I know what he means. He means that AIPAC has to
+      do something to change the direction of American political opinion. And there,
+      again, I would remind everyone: We are now a very few weeks away from an election,
+      which the polls suggest is going to bring an anti-Israeli Muslim socialist into
+      being the mayor of the largest city in the country. This is an extremely powerful
+      message being sent. Even if he were to lose the election — it doesn’t look like
+      that, but even if he were — look how far he has already come! And if you follow
+      it — which I’ve been doing, from the beginning of his effort, long before he became
+      well-known — one of his key supporters was an organization called the Jewish Voice
+      for Peace, which is a pro-Palestinian, anti-Israeli war, Jewish organization —
+      in the city that has more Jews than any other in the United States. I mean, wow!
+      What? And I think they’re learning, and they’re very worried. Marjorie Taylor
+      Greene has announced she’s voting with the Democrats because she can’t go along
+      with the policy of undercutting Medicaid for poor people. Mr. [Thomas] Massie
+      is relentlessly trying to get the Epstein files opened up. There’s serious speculation
+      that the real reason they shut the government down had nothing to do with Medicaid,
+      or anything else: it had to do with postponing the denouement of the Epstein files.
+      Okay, I don’t know whether these things are true or not, but if you put them all
+      together, they suggest that Michael is right; that there’s a turning point here;
+      that this issue, even the Israelis and the Americans now understand that the military
+      action in Gaza has to stop — because it’s counterproductive, it is damaging. The
+      whole point was to give them more security, and as the critics have told them,
+      for years now: that’s not going to work. You’re making your situation more difficult.
+      And you’re seeing around the world, even among comedians — Jon Stewart, explaining
+      to his audience that Netanyahu is the one threatening a global wave of antisemitism.
+      What did he mean? Because of what you’re doing in Gaza, you crazy people, you
+      are, in the name of preserving yourself, you’re killing yourself. And that allows
+      me to say — and bear with me: Nothing — nothing — is more typical of declining
+      empires than having their leaders do things which everyone shouts at them: Don’t
+      do that! That makes your decline worse. But they can’t hear it. They’re stuck
+      in these ways of doing things. And I don’t know whether Netanyahu can hear any
+      of this (either), but that’s my suspicion. Mr. Trump is realizing he’s going to
+      have to choose, and it’s very clear who’s going to be sacrificed. You know, the
+      Germans did a Holocaust — they did a genocide — and they are suffering, to this
+      day, with the reputation they have around the world for that. How it has all played
+      out in a million people’s minds — you know, you don’t undo this quickly. Hitler
+      is dead in 1945: Here we are, eighty years later, and we can still see — Germany
+      inside the European Union. I mean, my family is part-French and part-German. I
+      have lived the lifelong effects of all of this all my life. Even though I’m born
+      in the United States — I’m an American, and all of that — I’m fully aware that
+      that is alive and, well, in a thousand ways, Israel will take a very long time,
+      if ever, to crawl out from under what it has done. And Mr. Trump is now telling
+      them: You’re going to lose me too, because I’m not going to sacrifice my political
+      life — because AIPAC is not able to buy and control the narrative, the way Michael
+      laid out. It used to — it was very good at it. We all admired, in our way, how
+      it did it. But we all knew — if you think about it — it wouldn’t last forever.
+      Well, ironically, the most aggressive effort to hold on to it — the Gaza destruction
+      — is also the end of it. ⁣MICHAEL HUDSON: Richard, a few months ago, Netanyahu
+      said that the greatest enemy of Israel are the assimilationist Jews. This is relevant
+      to [Zohran] Mamdani’s running for election. He said, because the assimilationist
+      Jews want to be part of their own society, want to be part of their own economy,
+      they don’t look to Israel — they don’t put Israel first. And if the American Jews
+      will put America first, European Jews will put Europeans first — they are the
+      enemy. Well, one friend of mine the other day commented that it’s as if Netanyahu
+      has read [George] Orwell’s 1984 , and he took to heart his statement that those
+      who control the present control the past, and those who control the past control
+      the future. And so what Israel is trying to do is to reframe the whole past, and
+      the whole history, of the settlement of Israel, from the very beginning — the
+      Israeli Holocaust, the Nakba, the mass assassinations, the whole military history.
+      Well, as I mentioned: To establish all of this, you have to control the narrative.
+      And it’s a historical narrative, it’s an ongoing news narrative — and it’s capped
+      by what students are taught. I want to discuss the economics of how this narrative
+      came about — and I have some personal experience in this. Back in the 1970s, more
+      than seven decades ago, I saw how the groundwork was being laid for the cultural
+      war that was being prepared. I was a Wall Street economist, and some of my oldest
+      friends were working for Drexel Burnham — that was the investment banking firm
+      for corporate-raiding junk-bond takeovers. I often met with them, and I addressed
+      their board meetings sometimes, and a number of their managers told me that the
+      most important thing to them in their life was Zionism. And Drexel [Burnham] was
+      the investment banking firm that developed the junk bonds to take over companies,
+      and turned them into financial vehicles to make capital gains. It was part of
+      the whole transition from America’s industrial capitalism to predatory finance
+      capitalism — by making buyout offers to take companies, to make them into financial
+      vehicles. And the main organizer, Michael Milken, went to jail for organizing
+      insider-dealing with Drexel’s investors. And the important thing — it was spelled
+      out to me — was that these investors were all Jewish, and they were more than
+      Jewish — they were Zionists. The financial details have been widely reported about
+      all of this, but what is not recognized is that there was sort of a personal compact
+      among all of these investors — that they were going to be made very rich by playing
+      by new rules — that the “white-shoe” law firms, and investment companies, wouldn’t
+      do — of making hostile takeovers, instead of friendly merger proposals. And the
+      deal was, they were all expected to give a substantial portion of their earnings
+      to the Zionist cause — and that went beyond AIPAC: it meant supporting the Zionist
+      cause in many, many dimensions. And a few decades later, I met with some of the
+      former Drexel strategists who’d gone on to create firms of their own. And they
+      applied this principle — that in order to join this corporate raiding — and we’re
+      talking about these investors were the ones who took over Silicon Valley, and
+      the internet stocks, and the information technology stocks — they focused on that
+      from the beginning. They became multi-billionaires and, in the case of Larry Ellison,
+      a trillionaire now — they were able to operate with a freedom of attacking the
+      economy-at-large, that the traditional investment banks and companies, and law
+      firms, didn’t. Well, fast forward to the last decade or so: You have the largest
+      investment firms, those of Silicon Valley — and these firms are all led by Zionists,
+      working together with Israel and the Likud Party, as well as with AIPAC. They’re
+      active in U.S. political campaigns. They’re using some of their billions of dollars
+      to promote the Zionist cause. And this attempt to shape American public opinion
+      is centered in the financial sector, and, specifically, the financial control
+      of the information technology sector, the main platforms for internet communication
+      — everything that I was discussing earlier, where the information war is being
+      fought, including the takeover of CBS News to promote Zionist positions; the takeover
+      of networks here; the takeover of mass media publications; and the huge propaganda
+      within the churches; especially the fundamentalist churches, to give this fake
+      Christianity, based on the Scofield Bible and the idea that God told Israel: Kill
+      all the non-Jews — so that you’ll have the end of history — and Jesus can come
+      back and send all of us up to heaven, and everyone else to hell — This is the
+      craziness that has been sponsored, essentially, by the Israelis, pushing the gullible
+      Christian churches to transform — you know, what people think of America as a
+      Christian country is not something that either the traditional Catholics or most
+      Protestant churches, as they existed before 1900, would even recognize today.
+      So, this is why Trump made the deal with China, forcing the sale of TikTok as
+      part of this campaign — along with Facebook and X, and other platforms and media
+      — to create the Zionist perspective. And, you remember, Hitler created a fake
+      history: As the world was wrecked by the debt problems of the 1920s and the 1930s,
+      Hitler tried to blame it all on Jewish bankers. Well, the fact is that American
+      banking and European banking was pretty antisemitic. And the origin of these international
+      bankers — they were created by the Catholic Church, in the 13th century, to raise
+      war loans to the kings who were loyal to the church and fighting religious wars
+      and the crusades on its behalf — so there was this fake history. And the fact
+      is that the Jewish financial presence in the United States was not in banking.
+      When I began to work for banks in the 1960s, there was a marked antisemitism there.
+      They wouldn’t hire Jewish people. And one bank I worked for even hired a black
+      employee before they would hire a Jew. Well, how do you explain the Jewish presence?
+      They were in the brokerage industry. They were in the stock industry, the investment
+      banking industry — such as Drexel Burnham — not in banking at all. And it’s this
+      reshaping of the investment banking industry that has cost billions, and I guess
+      you could say trillions, of dollars. Part of this has been to make themselves
+      tax-exempt, from paying anywhere near as high an income or wealth tax as 90% of
+      the population has. So, I think it’s appropriate to explain how the economic powerhouse
+      of this propaganda attempt, that is not only shaping how Americans think of Israel,
+      but [also] because the American internet companies and the associated Silicon
+      Valley companies control the large firms that are active in Europe and Asia. What
+      you’re having are these companies using algorithms and automatic intelligence
+      to essentially act as a censorship that goes way beyond the United States, but
+      over the entire world economy that uses Facebook and X, and all of these other
+      internet — TikTok, now. You’re having something that — it’s a fight, a global
+      fight, to reshape history in a biased, extremist, Zionist way, a Cold War way,
+      a neocon way, a right-wing, oligarchic way. You’re having the whole narrative
+      become oligarchic, neocon, and Zionist. That’s really what is the context for
+      the fight that we’re going to be seeing unfolding, probably for the next few years.
+      ⁣RICHARD WOLFF: It’s very, very useful to have this kind of history. Michael is
+      exceptional in that, and he has been for a long time. The books he writes, the
+      articles he writes, the take-back, they answer the question. Other people notice
+      something. Michael asked the question: Why is it like that? Why, for example,
+      would Jewish people be prominent in a particular industry, not in another industry?
+      And, then, how does that help you explain why Silicon Valley should be peopled
+      by the people that are there now, rather than the conventional banking? And he
+      explains: because Jews were excluded from the historical banking, so they went
+      somewhere else — and that that becomes part of the history. Well, I want to do
+      the same thing. Jews have been split — for as long as I’ve heard about any of
+      this — between those who thought that there ought to be a homeland, quote, for
+      Jews — a Zion, a place for them — and we all know what part of the reason must
+      have been: that they were excluded almost everywhere else. Antisemitism, one way
+      or another, could lead people to have the fantastic idea: Gee! If we were in a
+      country that we controlled, maybe, finally, we wouldn’t be vulnerable to what
+      has happened to us  — in Spain with the Inquisition, in Germany with the Holocaust,
+      and on and on and on;  or in America, with the more polite forms of antisemitism
+      that have long been here, and still remain. And I want to remind people: Why did
+      Jewish people go into financial issues? It used to be a critique, that finance
+      — [Friedrich] Engels once wrote: Socialism can take a stupid form — his word —
+      “stupid.” That’s when you think that the problem isn’t the capitalist, but the
+      Jew. Antisemitism is the stupid-person socialism, was the way he articulated it.
+      Well, Jews were not allowed to be part of feudal Europe. They were not acceptable
+      — neither as serf, nor as vassal, nor as lord. So, how are they going to live?
+      They can’t live on the land, the way everybody else did in what was a rural economic
+      system. So, they became the go-between. They became the merchant who didn’t have
+      a piece of land, who moved from one place to another, buying cheap and selling
+      dear — because that’s how you live if you’re a tradesperson. Okay, so they become
+      tradespeople, but there’s no mystery here. You don’t need the Bible to understand
+      any of this. You need a little economic history to know exactly how it evolves.
+      But that takes me to the point — and perhaps, here, Michael and I disagree. I
+      think he’s right in laying it out, but I think one side is now clearly losing,
+      and it’s the side that used to be winning. In other words, we’re at a point where
+      the former winners, the people who made the deal, the Zionist wing of the Jewish
+      community — which was, by the way, always a minority, but an important one, but
+      they had a lot of resources — they got their little country, they built it up
+      — with the help of Jews outside, of course, and with the help of allies like the
+      United States and Britain. But it’s over. It’s over — not because this one or
+      that one failed — because they’re part of the losers in the world economy today.
+      That’s their problem. That’s Mr. Trump’s problem. If he didn’t have six other
+      crises crashing down on him, he could give Mr. Bibi more. He can’t do it anymore.
+      He just can’t. It’s too costly. And it has now turned into being costly to him
+      politically. And since that’s all he has — He brought three hundred generals and
+      admirals to Washington a couple of weeks ago. He insulted them. He had a numbnuts
+      defense minister tell them that they were fat, and not up-to-snuff. It’s outrageous
+      what he did. You know, he’s so tone-deaf to do such a thing — Trump, likewise.
+      They’re in trouble. That’s why they did that crazy thing, and then messed it up.
+      You know, if you have too many of these, it’s no longer the failure of this or
+      that plan, or the mistaken strategic — no, no, you have to put it together. What
+      is happening here? And he’s telling Mr. Netanyahu: Look. You’ve got to change
+      the position of Israel in the world — That’s going to be very hard for Israel.
+      Why would you ask that of a country? Right? You’re asking, I mean, the moon —
+      you can’t. Why would you be in a position to do that? And he’s clearly pointing
+      out whose job it is, this impossible job: It’s them, not me — I’m back. It’s a
+      little bit like what he’s been telling the Europeans: You know, I’m not in this
+      war in Ukraine, the way I was. You can do it. You better do it. But I’m not going
+      to help you do it anymore, except peripherally. That’s what he’s telling everybody.
+      It’s because the United States cannot play the role it did. We are in this — pardon
+      me — ass-backwards way, trying to tell the world, and ourselves, the empire is
+      over, and we have to figure out a whole new narrative, strategy, system of alliances,
+      security framework — whatever language you want. It’s over, and we’re in a new
+      place. And we can’t militarize our way out of it. ⁣MICHAEL HUDSON: Well, there
+      goes Richard again. He’s being reasonable. I don’t think Israel is reasonable.
+      I’ve known these people. They are fanatics. I’ve worked with Netanyahu’s head
+      of Mossad, his advisors — there is no way they will change. They are not going
+      to be reasonable with the Palestinians. They are committed to exterminating them.
+      The American Christians are committed to genocide. You’ve seen in the whole decision
+      to get rid of Mr. [Charlie] Kirk, a month ago — he wanted to try to be a little
+      more reasonable and reflect just exactly what Richard’s been saying — he was killed.
+      Any refusal to go whole-hog with their program is met in the same way that Republican
+      congressmen here in America are treated — expelled from the insider group, if
+      they don’t go 100% with the extremism. I think we’re dealing with an extremist
+      ideology, with a religious fundamentalist conviction, that is not amenable to
+      listening to reason. And Trump loves to make promises, and to say: Here’s a promise
+      of peace. Trump has no intention whatsoever of living up to his promise. Just
+      in today’s news, the Argentine peso is collapsing because Trump had promised $20
+      billion to [Javier]  Milei in Argentina, and he hasn’t really done anything —
+      just as he made promises to Russia to try to, at least, stabilize diplomacy. And
+      in the last two days, you’ve had a Russian spokesman saying Trump has not followed
+      through on a single promise he’s making. What you are seeing today is the euphoria
+      of a promise that is going to be broken, just as soon as Israel goes to war with
+      Iran. And you can imagine the aftermath of that. But I want to continue the logic
+      that I’m saying: What do you do if you’re an extremist? You have to be totalitarian
+      when it comes to knowledge. And Trump has declared war in the universities in
+      the United States, to treat student protesters opposing genocide — to expel them.
+      And he’s following the example of the Zionist university donors who said they’re
+      going to cut off all the funding, to Harvard and other prestige universities who
+      don’t support a Zionist, specifically anti-Palestinian, position. And I think
+      the trauma that the Zionist strategists have in mind are the protests against
+      the Vietnam War by American students — the Kent State killings, that killed the
+      student protesters against the war. And that’s what led President Johnson to resign
+      in 1968, and said he wasn’t going to run again because he couldn’t go anywhere
+      in the United States without escaping through the service entrance of hotels,
+      where nobody would yell: Hey, hey, LBJ, how many kids did you kill today? All
+      of this is in the mind when you think you don’t want the universities and the
+      young people to take a position of supporting peace — because peace is assimilationism.
+      To want peace is to deny that both the joint U.S. and Israeli control of Near
+      Eastern oil and the whole Near/Middle East is at issue. Well, last December, you
+      had U.S. Senator Tom Cotton introduce a Senate bill that seeks to eliminate any
+      federal use of the term “West Bank” — and instead substitute “Judea and Samaria.”
+      And in Florida, you’ve had the governor try to insist that the textbooks used
+      in the Florida schools rewrite history to use this different terminology. The
+      terminology is sort of an identification as to whose/what language you’re going
+      to use. And the House of Representatives has a bill saying that the government
+      is going to remove all references to the West Bank from U.S. government discussions.
+      The fighting with Gaza may continue. So Israeli settlers are now redoubling their
+      murder rampage against [Palestinians] on the West Bank. They’re burning their
+      olive trees. They’re destroying their houses. They’re bombing all of their houses
+      to drive them out. The war in the West Bank is now just as vicious as it was in
+      Gaza, but there’s no military protection. And it is symptomatic of the control
+      of the news that this has not been discussed anywhere, except on the internet.
+      Richard said at the beginning of the show that he doesn’t have the information,
+      we don’t have access to the information. Richard, you and I have better information
+      than President Trump has. We read the internet. We read the newspaper. We know
+      what’s happening. Trump is surrounded by neocon Zionists, and despite the fact
+      that he has the public relations perspective that you described, he has no understanding
+      of the big picture that you and I, and I think most people who follow Nima’s channel,
+      have. That’s what’s so striking in all of this. ⁣RICHARD WOLFF: I think time will
+      tell us how this is going to play out. I could be wrong. I could be wrong that
+      it’s shifting against Israel and that this is symptomatic of that. But let me
+      give you some more evidence that it might be shifting. The British political system
+      is now in a state of collapse. I mean, almost all points of view about Britain,
+      inside and outside Britain, would agree. The Labour Party has lost pretty much
+      all of the momentum it got from winning the last election, and putting [Keir]
+      Starmer in the position of prime minister. The Conservative Party that ran Britain
+      for most of the last thirty years is in its final death throes. It may disappear,
+      it is so weak at this point in its existence. The polls are against it. Its leadership
+      is fighting each other. It’s really a shadow. And an extreme right-wing reform
+      party is probably the best positioned right now, if there were to be an election.
+      And it is a minority party, with very little of a history, and a very strange
+      man at the head. But what’s clear is that the program of getting rid of a very
+      popular Labour leader, Jeremy Corbyn, which was accomplished by Mr. Starmer, the
+      guy who’s now in office, by pillorying Corbyn — by blaming him for being insufficiently
+      vigilant against antisemitism, where the evidence was support of Palestine — that’s
+      over. That’s a game you can play once, but you can never play it twice. It’s like
+      the threat to commit suicide. You can play it really well once, but by the second
+      time, it doesn’t have the punch it did before. I want to remind everyone that
+      a week ago there was a general strike in Italy. The whole country stopped — because
+      the whole country went out, stopped working in solidarity with the dock workers’
+      union there, which had refused to load, or offload, Israeli cargo from any ship
+      docking in the ports of Italy. And a few days before that, you had mass movements
+      across France on the 18th of September, on the 2nd of October, on the 10th of
+      September — those three dates — and among all the flags of the millions who went
+      into the streets of France were the Palestinian flags, that were obvious everywhere.
+      It’s not just Mamdani in New York. There is a global turning against — Look. It’s
+      remarkable that it took this long, given how long the Israelis have done what
+      they’ve done in Gaza, and the West Bank; and given the way they treated the Arabs,
+      who, let’s remember, are half the population roughly of the country of Israel
+      — so you have this split in the country, and all of that — it’s taken a god-awful
+      long time! But I do believe we now have signs. Britain has recognized Palestine
+      as a state. So have most of the other Europeans. Ireland did it long ago, but
+      Spain, Italy — Germany, I believe, is about to do it, — France has done it. I
+      mean, Israel’s isolation is virtually total. You know, you even have conservatives
+      running around the United States trying to explain to the American people that
+      we’re pretty soon going to have ten billion people as the population of the earth.
+      Half of them — five billion — are Muslim. You’ve got a problem here. And it’s
+      becoming impossible to pretend otherwise. And all the money of the billionaires
+      in Silicon Valley, and all the expertise that AIPAC has shown, are not enough.
+      You can’t go against a historical shift — when its time is here. Michael may be
+      right — it may not be here yet. I may be seeing things which, even in their aggregate,
+      are not enough. But, I haven’t thought so before, but I think so now. The communications
+      I got over the last month, from both France and Italy, and also a little bit from
+      Germany, show the Israeli issue — which in Germany has been very important because
+      of their collective guilt and all of that — it doesn’t work anymore. The Alternativ
+      für Deutschland [AfD], which is the right-wing inheritor of the Nazi past, is
+      able to be what it is now, which is the largest single party eclipsing the Christian
+      Democrats in Germany for the first time — and their position is unmistakable.
+      It’s not being held back, as it used to be, by the legacy of their Holocaust.
+      For the Israelis, this is all unspeakably bad news. ⁣MICHAEL HUDSON: You’ve put
+      your finger on the really important thing: What is the rest of the world going
+      to do? And some of my friends that are still associated with the Democratic Party
+      have suggested imposing a litmus test–pledge on political candidates not to accept
+      any campaign contributions from AIPAC, or other Zionist organization. And if they
+      accept such funding, then the Democratic voters are called upon to reject them;
+      and if they win the primaries, to refrain from voting for them — even if this
+      perpetuates the Republican domination of Congress. You’ve got to get rid of the
+      AIPAC-funded candidates reflecting Zionist interests. And beyond electoral politics,
+      you have the whole looming threat of the Supreme Court’s Citizens United ruling.
+      And that is the modern travesty — this is as destructive as the Dred Scott ruling
+      that led up to the Civil War. Congress has to pass an act prohibiting private
+      contributions to political campaigns beyond some circumscribed limit, with penalties
+      for bribery and corruption brought against such violators. That’s the only way
+      that you can cut off the money that is supporting this rotten congressional neocon,
+      pro-war, oligarchic, anti-labor position. And without such legislation, the United
+      States and its political system are going to continue to be that of an oligarchy,
+      not a democracy. And it’ll be an oligarchy controlled by an extremist minority
+      of wealthy financial institutions, and the international neocons who are supported
+      with them. So ultimately, it’s going to be up to the U.S. And the same thing applies
+      to Europe and other countries. It’s up to these other countries — outside of Israel
+      — to lead the opposition to the genocide that’s occurring, and to the whole idea
+      of ethnic nationalism and ethnic cleansing that you have in Ukraine against Russian
+      speakers; in the Middle East by the American-supported al-Qaeda and ISIS head-chopper
+      that is the head of it now; and by Israel itself in Gaza and the West Bank. And
+      if you recognize that Israel’s war against Gaza and Hamas is against the broadest
+      principles of civilization, that have spent centuries developing the laws of war,
+      the laws of international diplomacy, the laws of, basically, international relations,
+      then you realize the travesty that’s occurring in overturning this whole century-long
+      momentum of trying to establish basic civilized — ⁣RICHARD WOLFF: Michael seems
+      to have frozen. Let me pick up while we wait for him to come back. ⁣NIMA ALKHORSHID:
+      Richard. Since you’ve mentioned the case of Germany, here is the poll that they
+      had in Germany. Three out of five voters believe that Israel’s action in Gaza
+      can be called genocide. This is meaningful, as you’ve mentioned. Go ahead. ⁣RICHARD
+      WOLFF: Yes. But I want to underscore the notion of seeing as a symptom of a larger
+      decline, a rejection, an active rejection of what used to be — at least official
+      — norms of acceptable behavior. I understand. Secretly, those norms are violated
+      by the secret services of many countries, all the time — I understand that, I’m
+      not questioning that. And that’s a serious problem. But it is another step when
+      you do that openly and publicly. And I think I want to point to something which
+      might even be an argument against what I’m saying. I have watched, and I’m sure
+      you have all seen it, over the last month, on at least four occasions that I’m
+      aware of, the United States has decided to bomb and destroy boats in the Caribbean
+      that are moving in the water near Venezuela. Each time we were told by the president
+      that these boats were involved in the drug traffic and that persons on these boats
+      were killed — and thereby prevented from completing whatever they were doing with
+      the drugs. Okay, so we killed eleven, in one case, four, in another, and I forget
+      the number of people on the other two boats. Alright, in this situation, the president,
+      who announced and authorized these acts, is functioning as the police, he’s functioning
+      as the jury, he’s functioning as the judge, and he’s functioning as the executioner.
+      In the United States, participation in drug traffic is not a capital crime. You
+      don’t get killed for that, if you’re found guilty. You have to have a chance to
+      see the evidence presented against you. You have to have a lawyer. You have to
+      be able to question and challenge the evidence. Then it goes to a jury, and only
+      if the jury decides unanimously to find you guilty, will you then be punished
+      with the punishment, 99% of the time, being some sort of imprisonment. We don’t
+      kill those people. We kill in America — it’s bad enough — but we kill people,
+      usually, if they have killed somebody. And there is no evidence — not even offered
+      by the president, who showed no evidence of anything, but he didn’t show any evidence
+      — that these people had killed anyone. This is extra — and no one in the official
+      positions of the United States government — to my knowledge, I’m no expert — but
+      I haven’t heard any outcry — after he did it the first time, he did it a second,
+      third, and fourth time. This is, I mean, this is unbelievable. This the official
+      murdering of people with no evidence required, no procedure, no due process, no
+      presumption of innocence until proven guilty. Nothing. And the ultimate penalty,
+      execution? Am I the only one here finding this bizarre? Why would you do this?
+      Forget whether it’s correct or not that these people were involved in drugs —
+      I don’t know — but whether or not they were, why would you do this? Why would
+      it be important not to have your Navy, which is down there, arrest these people?
+      Okay. Board them. Check out, you know, bring them back and subject them to — Why
+      wouldn’t you do that? Why would you kill them first? And here is my answer, again.
+      I am seeing — and I would love [it] to be argued that I’m wrong — I am seeing
+      desperation. I see people getting together in a room. They have to do something.
+      They have that mentality: We are losing something, we must act in a way that will,
+      hopefully, gather support — And you know, going to war, at least for a few weeks
+      and months, does that for you. It’s awful, then, how it falls away, after a few
+      months — and that’s been the American experience in Vietnam, in Afghanistan. Those
+      wars were lost, in part, because the American people no longer supported them,
+      the way they had in the beginning. Same is true in Iraq. But for a short time,
+      you get a boost. And you are now behaving? Look. All the laws of the world don’t
+      allow one country to kill people in the boats of another country, and claim that
+      they were involved in some transaction we don’t like — which we don’t even punish
+      by capital punishment. It is extraordinary behavior, on the end of an extraordinary-behaving
+      regime. So, I see a level of desperation, and I bring it up because I think it
+      should be factored into how we look at all these other questions — because that
+      hysteria, that desperation, is operative across the board. ⁣NIMA ALKHORSHID: It
+      seems that Michael has some sort of problem with his internet connection. Thank
+      you so much, Richard, for being with us today. Great pleasure, as always. ⁣RICHARD
+      WOLFF: As always, and I look forward to talking with you again next week. ⁣NIMA
+      ALKHORSHID: See you. Bye-bye. Transcription and Diarization: https://scripthub.dev
+      Editing: Kimberly Mims Review: ced Photo by Aliaksei Lepik on Unsplash The post
+      The Narrative Battlefield first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion about the Trump peace plan and the ongoing
+      conflict in Gaza, Michael Hudson argues that the situation is not just Israel's
+      war but rather a NATO conflict, emphasizing the broader geopolitical implications
+      and the need for a shift in American perceptions of international relations.
+    paragraph_summary: In a discussion on October 9, 2025, Nima Alkhorshid, along with
+      guests Michael Hudson and Richard Wolff, delves into the implications of the Trump
+      peace plan amidst ongoing conflicts in Gaza. Hudson argues that the situation
+      is not merely a war between Israel and the Palestinians but rather a broader geopolitical
+      struggle involving NATO, particularly the U.S., Britain, and Germany. He emphasizes
+      that the conflict has shifted from military confrontations to a political and
+      cultural battlefield, where the focus is on shaping public perception and loyalty,
+      especially among younger Americans who increasingly sympathize with the Palestinian
+      cause. Hudson warns that this deeper, more enduring conflict challenges traditional
+      narratives and could significantly impact future American support for Israel.
+    published: '2025-10-14T11:13:42+00:00'
+  - title: The Narrative Battlefield
+    url: https://michael-hudson.com/2025/10/the-narrative-battlefield/
+    text: 'NIMA ALKHORSHID: Hi, everybody. Today is Thursday, October 9th, 2025, and
+      our dear friends, Michael Hudson and Richard Wolff, join us. Welcome back. ⁣RICHARD
+      WOLFF & MICHAEL HUDSON: Glad to be here. ⁣NIMA ALKHORSHID: Since everybody’s talking
+      about the Trump peace plan, I want to start with that. Michael, what’s your take
+      on what is happening? You’ve sent me an email. You’ve mentioned that what has
+      happened in Gaza is not Israel’s war, it’s NATO’s war. What’s your point in that?
+      ⁣MICHAEL HUDSON: Well, Trump told Fox News last night: The important thing is
+      for people to love Israel again. I told Bibi that Israel cannot fight against
+      the whole world. And Netanyahu has been saying that this war goes far beyond simply
+      between Gaza and Israel. It’s really a fight, a ninth front. And that ninth front
+      is: Who is going to control how Americans view international relations, the geopolitics
+      of what’s happening? And I think if the military confrontation stopped, at least
+      temporarily, then this conflict has now shifted to the political and the cultural
+      battlefield. And I think we have to look at that. This is turning out to be a
+      much deeper and long-lasting conflict, and it goes beyond Palestine and Israel.
+      To answer your question, the war in Gaza and the West Bank isn’t simply a military
+      conflict between Israel and the Palestinians. Just like Russia isn’t simply in
+      a military conflict with Ukraine, the Palestinians are not in a war with Israel,
+      but with NATO led by the United States, and Britain, and Germany. And Israel’s
+      strategy is — well, how do we keep the loyalty of the U.S., now that the opinion
+      polls show that younger people are taking the side of the Palestinians, not Israel?
+      What does that bode for continued American support for Israel? Well, this is a
+      much longer lasting fight, and it goes beyond the military battlefield, and it’s
+      how the world frames the thinking about what’s happening to it. And this is the
+      deepest, and it’s even the most threatening battlefield over control of the narrative
+      — the narrative of how to frame the issue — and what’s being taught in the schools,
+      in the universities, and spread to the internet platforms and the mass media —
+      that is now already come under the control of extremist Zionist hardliners. And
+      that’s what the whole fight, over the last week, has been over TikTok. President
+      Netanyahu has explained that Israel is at war with what he calls this ninth front:
+      to control the United States. That’s the real war that’s happening. And this control
+      isn’t to be established militarily, but by controlling the U.S. public opinion
+      through, essentially, extremist Zionist billionaires, the Silicon Valley billionaires,
+      who control the mass media. You’ve seen them take control of automatic intelligence
+      to buy out TikTok, and redesign the algorithms of TikTok to replace the pictures
+      that TikTok was showing about murdered Palestinian babies, all sorts of horrendous
+      genocidal attacks. All this is going to be out. And the new algorithm is blocking
+      any discussion or any exposé of what Israel has been doing to Gaza and to the
+      West Bank. And just like Israel has concentrated — the army has concentrated —
+      on killing two groups of people: journalists — they must destroy any attempt to
+      let the world know what they are doing — and doctors — the doctors must not heal
+      the injured, especially the children who can grow up — and growing up with a memory
+      of what’s happening to them. And Israel says, if these children live, it is a
+      threat to Judaism, because Israel is a Judaic state — meaning, as Alistair Crooke
+      says — meaning a theocracy; and a theocracy has no room for anyone who is not
+      a member of the Judaic state. So, you’re having this war extending to the churches.
+      You know, what are the churches going to say? Are they going to say this war of
+      Israel against the Palestinians is part of the Bible — of the Lord backing Israel,
+      as America’s ambassador to Israel has claimed, that he has to follow the Bible?
+      There’s a whole attempt to create this, not only a false, narrative, but by using
+      the algorithms for all the main internet platforms — Facebook, Google, even X
+      — if you try to use these platforms — and you can now expurgate or censor any
+      discussion that is not reflecting an Israeli opinion — then you’re shaping public
+      opinion. And if you can take over the news, like CBS News was just taken over
+      by an ardent Zionist — You’re turning the universities, who are preventing any
+      student demonstrations in favor of peace — they say: If you want peace, and not
+      fighting, then you’re antisemitic, we are expelling you — and if you’re a professor,
+      who describes this ‘we will expel you,’ as Columbia University has done, other
+      universities are doing — This is a cultural war, and that’s what is being overshadowed
+      by all of this military discussion. And since neither Richard nor I are military
+      specialists, I think that that’s really what needs to be discussed on your site,
+      because you have enough military people who are explaining the brutality of what’s
+      happening. ⁣NIMA ALKHORSHID: [muted, addressing Richard Wolff] … from a different
+      angle, but you have your point. We talked about it before. Go ahead. Your take?
+      ⁣RICHARD WOLFF: Let me frame it slightly differently, but, I think, in a way that
+      is complementary to what Michael has just said. Here’s my interpretation of what 
+      — translation should be a better word — translation of what Trump said on Fox
+      News, that Michael cited. Here’s my translation. This is not what the president
+      said, but here’s what I think lies behind the words he said: that he has come
+      to the conclusion, with his advisors, that the tide has changed in the world;
+      that Israel is now losing the hearts-and-minds campaign that it launched, and
+      that it did, in that area, too little, and too late; and that it could not overwhelm
+      what the reality was, of what they were doing to the Palestinians in Gaza for
+      the last two years. Okay. It’s too late. Whether you want to give the credit to
+      the global critical media, whether we pin another medal on Greta Thunberg, I don’t
+      know — but he’s losing. And I don’t think President Trump cares about it anyway.
+      But what his advisors have told him is that the tide is turning inside the United
+      States. It is becoming politically impossible for him to continue the policies
+      of Biden and Trump, of being 100% pro-Israel — more than half the people of Israel
+      are, in terms of the war policy. It’s becoming dangerous. AIPAC, for all the money
+      it spends, and all the influence it has, has not prevailed. And he is telling
+      Bibi: Listen, Jack, I can’t keep supporting you if, in my country, the opinion
+      is shifting away from you. I’ve done as much as I can do. I’m bailing. You’ve
+      got to now do — and then he says something which is ridiculous: You’ve got to
+      make the world love you. Well, I know what he means. He means that AIPAC has to
+      do something to change the direction of American political opinion. And there,
+      again, I would remind everyone: We are now a very few weeks away from an election,
+      which the polls suggest is going to bring an anti-Israeli Muslim socialist into
+      being the mayor of the largest city in the country. This is an extremely powerful
+      message being sent. Even if he were to lose the election — it doesn’t look like
+      that, but even if he were — look how far he has already come! And if you follow
+      it — which I’ve been doing, from the beginning of his effort, long before he became
+      well-known — one of his key supporters was an organization called the Jewish Voice
+      for Peace, which is a pro-Palestinian, anti-Israeli war, Jewish organization —
+      in the city that has more Jews than any other in the United States. I mean, wow!
+      What? And I think they’re learning, and they’re very worried. Marjorie Taylor
+      Greene has announced she’s voting with the Democrats because she can’t go along
+      with the policy of undercutting Medicaid for poor people. Mr. [Thomas] Massie
+      is relentlessly trying to get the Epstein files opened up. There’s serious speculation
+      that the real reason they shut the government down had nothing to do with Medicaid,
+      or anything else: it had to do with postponing the denouement of the Epstein files.
+      Okay, I don’t know whether these things are true or not, but if you put them all
+      together, they suggest that Michael is right; that there’s a turning point here;
+      that this issue, even the Israelis and the Americans now understand that the military
+      action in Gaza has to stop — because it’s counterproductive, it is damaging. The
+      whole point was to give them more security, and as the critics have told them,
+      for years now: that’s not going to work. You’re making your situation more difficult.
+      And you’re seeing around the world, even among comedians — Jon Stewart, explaining
+      to his audience that Netanyahu is the one threatening a global wave of antisemitism.
+      What did he mean? Because of what you’re doing in Gaza, you crazy people, you
+      are, in the name of preserving yourself, you’re killing yourself. And that allows
+      me to say — and bear with me: Nothing — nothing — is more typical of declining
+      empires than having their leaders do things which everyone shouts at them: Don’t
+      do that! That makes your decline worse. But they can’t hear it. They’re stuck
+      in these ways of doing things. And I don’t know whether Netanyahu can hear any
+      of this (either), but that’s my suspicion. Mr. Trump is realizing he’s going to
+      have to choose, and it’s very clear who’s going to be sacrificed. You know, the
+      Germans did a Holocaust — they did a genocide — and they are suffering, to this
+      day, with the reputation they have around the world for that. How it has all played
+      out in a million people’s minds — you know, you don’t undo this quickly. Hitler
+      is dead in 1945: Here we are, eighty years later, and we can still see — Germany
+      inside the European Union. I mean, my family is part-French and part-German. I
+      have lived the lifelong effects of all of this all my life. Even though I’m born
+      in the United States — I’m an American, and all of that — I’m fully aware that
+      that is alive and, well, in a thousand ways, Israel will take a very long time,
+      if ever, to crawl out from under what it has done. And Mr. Trump is now telling
+      them: You’re going to lose me too, because I’m not going to sacrifice my political
+      life — because AIPAC is not able to buy and control the narrative, the way Michael
+      laid out. It used to — it was very good at it. We all admired, in our way, how
+      it did it. But we all knew — if you think about it — it wouldn’t last forever.
+      Well, ironically, the most aggressive effort to hold on to it — the Gaza destruction
+      — is also the end of it. ⁣MICHAEL HUDSON: Richard, a few months ago, Netanyahu
+      said that the greatest enemy of Israel are the assimilationist Jews. This is relevant
+      to [Zohran] Mamdani’s running for election. He said, because the assimilationist
+      Jews want to be part of their own society, want to be part of their own economy,
+      they don’t look to Israel — they don’t put Israel first. And if the American Jews
+      will put America first, European Jews will put Europeans first — they are the
+      enemy. Well, one friend of mine the other day commented that it’s as if Netanyahu
+      has read [George] Orwell’s 1984 , and he took to heart his statement that those
+      who control the present control the past, and those who control the past control
+      the future. And so what Israel is trying to do is to reframe the whole past, and
+      the whole history, of the settlement of Israel, from the very beginning — the
+      Israeli Holocaust, the Nakba, the mass assassinations, the whole military history.
+      Well, as I mentioned: To establish all of this, you have to control the narrative.
+      And it’s a historical narrative, it’s an ongoing news narrative — and it’s capped
+      by what students are taught. I want to discuss the economics of how this narrative
+      came about — and I have some personal experience in this. Back in the 1970s, more
+      than seven decades ago, I saw how the groundwork was being laid for the cultural
+      war that was being prepared. I was a Wall Street economist, and some of my oldest
+      friends were working for Drexel Burnham — that was the investment banking firm
+      for corporate-raiding junk-bond takeovers. I often met with them, and I addressed
+      their board meetings sometimes, and a number of their managers told me that the
+      most important thing to them in their life was Zionism. And Drexel [Burnham] was
+      the investment banking firm that developed the junk bonds to take over companies,
+      and turned them into financial vehicles to make capital gains. It was part of
+      the whole transition from America’s industrial capitalism to predatory finance
+      capitalism — by making buyout offers to take companies, to make them into financial
+      vehicles. And the main organizer, Michael Milken, went to jail for organizing
+      insider-dealing with Drexel’s investors. And the important thing — it was spelled
+      out to me — was that these investors were all Jewish, and they were more than
+      Jewish — they were Zionists. The financial details have been widely reported about
+      all of this, but what is not recognized is that there was sort of a personal compact
+      among all of these investors — that they were going to be made very rich by playing
+      by new rules — that the “white-shoe” law firms, and investment companies, wouldn’t
+      do — of making hostile takeovers, instead of friendly merger proposals. And the
+      deal was, they were all expected to give a substantial portion of their earnings
+      to the Zionist cause — and that went beyond AIPAC: it meant supporting the Zionist
+      cause in many, many dimensions. And a few decades later, I met with some of the
+      former Drexel strategists who’d gone on to create firms of their own. And they
+      applied this principle — that in order to join this corporate raiding — and we’re
+      talking about these investors were the ones who took over Silicon Valley, and
+      the internet stocks, and the information technology stocks — they focused on that
+      from the beginning. They became multi-billionaires and, in the case of Larry Ellison,
+      a trillionaire now — they were able to operate with a freedom of attacking the
+      economy-at-large, that the traditional investment banks and companies, and law
+      firms, didn’t. Well, fast forward to the last decade or so: You have the largest
+      investment firms, those of Silicon Valley — and these firms are all led by Zionists,
+      working together with Israel and the Likud Party, as well as with AIPAC. They’re
+      active in U.S. political campaigns. They’re using some of their billions of dollars
+      to promote the Zionist cause. And this attempt to shape American public opinion
+      is centered in the financial sector, and, specifically, the financial control
+      of the information technology sector, the main platforms for internet communication
+      — everything that I was discussing earlier, where the information war is being
+      fought, including the takeover of CBS News to promote Zionist positions; the takeover
+      of networks here; the takeover of mass media publications; and the huge propaganda
+      within the churches; especially the fundamentalist churches, to give this fake
+      Christianity, based on the Scofield Bible and the idea that God told Israel: Kill
+      all the non-Jews — so that you’ll have the end of history — and Jesus can come
+      back and send all of us up to heaven, and everyone else to hell — This is the
+      craziness that has been sponsored, essentially, by the Israelis, pushing the gullible
+      Christian churches to transform — you know, what people think of America as a
+      Christian country is not something that either the traditional Catholics or most
+      Protestant churches, as they existed before 1900, would even recognize today.
+      So, this is why Trump made the deal with China, forcing the sale of TikTok as
+      part of this campaign — along with Facebook and X, and other platforms and media
+      — to create the Zionist perspective. And, you remember, Hitler created a fake
+      history: As the world was wrecked by the debt problems of the 1920s and the 1930s,
+      Hitler tried to blame it all on Jewish bankers. Well, the fact is that American
+      banking and European banking was pretty antisemitic. And the origin of these international
+      bankers — they were created by the Catholic Church, in the 13th century, to raise
+      war loans to the kings who were loyal to the church and fighting religious wars
+      and the crusades on its behalf — so there was this fake history. And the fact
+      is that the Jewish financial presence in the United States was not in banking.
+      When I began to work for banks in the 1960s, there was a marked antisemitism there.
+      They wouldn’t hire Jewish people. And one bank I worked for even hired a black
+      employee before they would hire a Jew. Well, how do you explain the Jewish presence?
+      They were in the brokerage industry. They were in the stock industry, the investment
+      banking industry — such as Drexel Burnham — not in banking at all. And it’s this
+      reshaping of the investment banking industry that has cost billions, and I guess
+      you could say trillions, of dollars. Part of this has been to make themselves
+      tax-exempt, from paying anywhere near as high an income or wealth tax as 90% of
+      the population has. So, I think it’s appropriate to explain how the economic powerhouse
+      of this propaganda attempt, that is not only shaping how Americans think of Israel,
+      but [also] because the American internet companies and the associated Silicon
+      Valley companies control the large firms that are active in Europe and Asia. What
+      you’re having are these companies using algorithms and automatic intelligence
+      to essentially act as a censorship that goes way beyond the United States, but
+      over the entire world economy that uses Facebook and X, and all of these other
+      internet — TikTok, now. You’re having something that — it’s a fight, a global
+      fight, to reshape history in a biased, extremist, Zionist way, a Cold War way,
+      a neocon way, a right-wing, oligarchic way. You’re having the whole narrative
+      become oligarchic, neocon, and Zionist. That’s really what is the context for
+      the fight that we’re going to be seeing unfolding, probably for the next few years.
+      ⁣RICHARD WOLFF: It’s very, very useful to have this kind of history. Michael is
+      exceptional in that, and he has been for a long time. The books he writes, the
+      articles he writes, the take-back, they answer the question. Other people notice
+      something. Michael asked the question: Why is it like that? Why, for example,
+      would Jewish people be prominent in a particular industry, not in another industry?
+      And, then, how does that help you explain why Silicon Valley should be peopled
+      by the people that are there now, rather than the conventional banking? And he
+      explains: because Jews were excluded from the historical banking, so they went
+      somewhere else — and that that becomes part of the history. Well, I want to do
+      the same thing. Jews have been split — for as long as I’ve heard about any of
+      this — between those who thought that there ought to be a homeland, quote, for
+      Jews — a Zion, a place for them — and we all know what part of the reason must
+      have been: that they were excluded almost everywhere else. Antisemitism, one way
+      or another, could lead people to have the fantastic idea: Gee! If we were in a
+      country that we controlled, maybe, finally, we wouldn’t be vulnerable to what
+      has happened to us  — in Spain with the Inquisition, in Germany with the Holocaust,
+      and on and on and on;  or in America, with the more polite forms of antisemitism
+      that have long been here, and still remain. And I want to remind people: Why did
+      Jewish people go into financial issues? It used to be a critique, that finance
+      — [Friedrich] Engels once wrote: Socialism can take a stupid form — his word —
+      “stupid.” That’s when you think that the problem isn’t the capitalist, but the
+      Jew. Antisemitism is the stupid-person socialism, was the way he articulated it.
+      Well, Jews were not allowed to be part of feudal Europe. They were not acceptable
+      — neither as serf, nor as vassal, nor as lord. So, how are they going to live?
+      They can’t live on the land, the way everybody else did in what was a rural economic
+      system. So, they became the go-between. They became the merchant who didn’t have
+      a piece of land, who moved from one place to another, buying cheap and selling
+      dear — because that’s how you live if you’re a tradesperson. Okay, so they become
+      tradespeople, but there’s no mystery here. You don’t need the Bible to understand
+      any of this. You need a little economic history to know exactly how it evolves.
+      But that takes me to the point — and perhaps, here, Michael and I disagree. I
+      think he’s right in laying it out, but I think one side is now clearly losing,
+      and it’s the side that used to be winning. In other words, we’re at a point where
+      the former winners, the people who made the deal, the Zionist wing of the Jewish
+      community — which was, by the way, always a minority, but an important one, but
+      they had a lot of resources — they got their little country, they built it up
+      — with the help of Jews outside, of course, and with the help of allies like the
+      United States and Britain. But it’s over. It’s over — not because this one or
+      that one failed — because they’re part of the losers in the world economy today.
+      That’s their problem. That’s Mr. Trump’s problem. If he didn’t have six other
+      crises crashing down on him, he could give Mr. Bibi more. He can’t do it anymore.
+      He just can’t. It’s too costly. And it has now turned into being costly to him
+      politically. And since that’s all he has — He brought three hundred generals and
+      admirals to Washington a couple of weeks ago. He insulted them. He had a numbnuts
+      defense minister tell them that they were fat, and not up-to-snuff. It’s outrageous
+      what he did. You know, he’s so tone-deaf to do such a thing — Trump, likewise.
+      They’re in trouble. That’s why they did that crazy thing, and then messed it up.
+      You know, if you have too many of these, it’s no longer the failure of this or
+      that plan, or the mistaken strategic — no, no, you have to put it together. What
+      is happening here? And he’s telling Mr. Netanyahu: Look. You’ve got to change
+      the position of Israel in the world — That’s going to be very hard for Israel.
+      Why would you ask that of a country? Right? You’re asking, I mean, the moon —
+      you can’t. Why would you be in a position to do that? And he’s clearly pointing
+      out whose job it is, this impossible job: It’s them, not me — I’m back. It’s a
+      little bit like what he’s been telling the Europeans: You know, I’m not in this
+      war in Ukraine, the way I was. You can do it. You better do it. But I’m not going
+      to help you do it anymore, except peripherally. That’s what he’s telling everybody.
+      It’s because the United States cannot play the role it did. We are in this — pardon
+      me — ass-backwards way, trying to tell the world, and ourselves, the empire is
+      over, and we have to figure out a whole new narrative, strategy, system of alliances,
+      security framework — whatever language you want. It’s over, and we’re in a new
+      place. And we can’t militarize our way out of it. ⁣MICHAEL HUDSON: Well, there
+      goes Richard again. He’s being reasonable. I don’t think Israel is reasonable.
+      I’ve known these people. They are fanatics. I’ve worked with Netanyahu’s head
+      of Mossad, his advisors — there is no way they will change. They are not going
+      to be reasonable with the Palestinians. They are committed to exterminating them.
+      The American Christians are committed to genocide. You’ve seen in the whole decision
+      to get rid of Mr. [Charlie] Kirk, a month ago — he wanted to try to be a little
+      more reasonable and reflect just exactly what Richard’s been saying — he was killed.
+      Any refusal to go whole-hog with their program is met in the same way that Republican
+      congressmen here in America are treated — expelled from the insider group, if
+      they don’t go 100% with the extremism. I think we’re dealing with an extremist
+      ideology, with a religious fundamentalist conviction, that is not amenable to
+      listening to reason. And Trump loves to make promises, and to say: Here’s a promise
+      of peace. Trump has no intention whatsoever of living up to his promise. Just
+      in today’s news, the Argentine peso is collapsing because Trump had promised $20
+      billion to [Javier]  Milei in Argentina, and he hasn’t really done anything —
+      just as he made promises to Russia to try to, at least, stabilize diplomacy. And
+      in the last two days, you’ve had a Russian spokesman saying Trump has not followed
+      through on a single promise he’s making. What you are seeing today is the euphoria
+      of a promise that is going to be broken, just as soon as Israel goes to war with
+      Iran. And you can imagine the aftermath of that. But I want to continue the logic
+      that I’m saying: What do you do if you’re an extremist? You have to be totalitarian
+      when it comes to knowledge. And Trump has declared war in the universities in
+      the United States, to treat student protesters opposing genocide — to expel them.
+      And he’s following the example of the Zionist university donors who said they’re
+      going to cut off all the funding, to Harvard and other prestige universities who
+      don’t support a Zionist, specifically anti-Palestinian, position. And I think
+      the trauma that the Zionist strategists have in mind are the protests against
+      the Vietnam War by American students — the Kent State killings, that killed the
+      student protesters against the war. And that’s what led President Johnson to resign
+      in 1968, and said he wasn’t going to run again because he couldn’t go anywhere
+      in the United States without escaping through the service entrance of hotels,
+      where nobody would yell: Hey, hey, LBJ, how many kids did you kill today? All
+      of this is in the mind when you think you don’t want the universities and the
+      young people to take a position of supporting peace — because peace is assimilationism.
+      To want peace is to deny that both the joint U.S. and Israeli control of Near
+      Eastern oil and the whole Near/Middle East is at issue. Well, last December, you
+      had U.S. Senator Tom Cotton introduce a Senate bill that seeks to eliminate any
+      federal use of the term “West Bank” — and instead substitute “Judea and Samaria.”
+      And in Florida, you’ve had the governor try to insist that the textbooks used
+      in the Florida schools rewrite history to use this different terminology. The
+      terminology is sort of an identification as to whose/what language you’re going
+      to use. And the House of Representatives has a bill saying that the government
+      is going to remove all references to the West Bank from U.S. government discussions.
+      The fighting with Gaza may continue. So Israeli settlers are now redoubling their
+      murder rampage against [Palestinians] on the West Bank. They’re burning their
+      olive trees. They’re destroying their houses. They’re bombing all of their houses
+      to drive them out. The war in the West Bank is now just as vicious as it was in
+      Gaza, but there’s no military protection. And it is symptomatic of the control
+      of the news that this has not been discussed anywhere, except on the internet.
+      Richard said at the beginning of the show that he doesn’t have the information,
+      we don’t have access to the information. Richard, you and I have better information
+      than President Trump has. We read the internet. We read the newspaper. We know
+      what’s happening. Trump is surrounded by neocon Zionists, and despite the fact
+      that he has the public relations perspective that you described, he has no understanding
+      of the big picture that you and I, and I think most people who follow Nima’s channel,
+      have. That’s what’s so striking in all of this. ⁣RICHARD WOLFF: I think time will
+      tell us how this is going to play out. I could be wrong. I could be wrong that
+      it’s shifting against Israel and that this is symptomatic of that. But let me
+      give you some more evidence that it might be shifting. The British political system
+      is now in a state of collapse. I mean, almost all points of view about Britain,
+      inside and outside Britain, would agree. The Labour Party has lost pretty much
+      all of the momentum it got from winning the last election, and putting [Keir]
+      Starmer in the position of prime minister. The Conservative Party that ran Britain
+      for most of the last thirty years is in its final death throes. It may disappear,
+      it is so weak at this point in its existence. The polls are against it. Its leadership
+      is fighting each other. It’s really a shadow. And an extreme right-wing reform
+      party is probably the best positioned right now, if there were to be an election.
+      And it is a minority party, with very little of a history, and a very strange
+      man at the head. But what’s clear is that the program of getting rid of a very
+      popular Labour leader, Jeremy Corbyn, which was accomplished by Mr. Starmer, the
+      guy who’s now in office, by pillorying Corbyn — by blaming him for being insufficiently
+      vigilant against antisemitism, where the evidence was support of Palestine — that’s
+      over. That’s a game you can play once, but you can never play it twice. It’s like
+      the threat to commit suicide. You can play it really well once, but by the second
+      time, it doesn’t have the punch it did before. I want to remind everyone that
+      a week ago there was a general strike in Italy. The whole country stopped — because
+      the whole country went out, stopped working in solidarity with the dock workers’
+      union there, which had refused to load, or offload, Israeli cargo from any ship
+      docking in the ports of Italy. And a few days before that, you had mass movements
+      across France on the 18th of September, on the 2nd of October, on the 10th of
+      September — those three dates — and among all the flags of the millions who went
+      into the streets of France were the Palestinian flags, that were obvious everywhere.
+      It’s not just Mamdani in New York. There is a global turning against — Look. It’s
+      remarkable that it took this long, given how long the Israelis have done what
+      they’ve done in Gaza, and the West Bank; and given the way they treated the Arabs,
+      who, let’s remember, are half the population roughly of the country of Israel
+      — so you have this split in the country, and all of that — it’s taken a god-awful
+      long time! But I do believe we now have signs. Britain has recognized Palestine
+      as a state. So have most of the other Europeans. Ireland did it long ago, but
+      Spain, Italy — Germany, I believe, is about to do it, — France has done it. I
+      mean, Israel’s isolation is virtually total. You know, you even have conservatives
+      running around the United States trying to explain to the American people that
+      we’re pretty soon going to have ten billion people as the population of the earth.
+      Half of them — five billion — are Muslim. You’ve got a problem here. And it’s
+      becoming impossible to pretend otherwise. And all the money of the billionaires
+      in Silicon Valley, and all the expertise that AIPAC has shown, are not enough.
+      You can’t go against a historical shift — when its time is here. Michael may be
+      right — it may not be here yet. I may be seeing things which, even in their aggregate,
+      are not enough. But, I haven’t thought so before, but I think so now. The communications
+      I got over the last month, from both France and Italy, and also a little bit from
+      Germany, show the Israeli issue — which in Germany has been very important because
+      of their collective guilt and all of that — it doesn’t work anymore. The Alternativ
+      für Deutschland [AfD], which is the right-wing inheritor of the Nazi past, is
+      able to be what it is now, which is the largest single party eclipsing the Christian
+      Democrats in Germany for the first time — and their position is unmistakable.
+      It’s not being held back, as it used to be, by the legacy of their Holocaust.
+      For the Israelis, this is all unspeakably bad news. ⁣MICHAEL HUDSON: You’ve put
+      your finger on the really important thing: What is the rest of the world going
+      to do? And some of my friends that are still associated with the Democratic Party
+      have suggested imposing a litmus test–pledge on political candidates not to accept
+      any campaign contributions from AIPAC, or other Zionist organization. And if they
+      accept such funding, then the Democratic voters are called upon to reject them;
+      and if they win the primaries, to refrain from voting for them — even if this
+      perpetuates the Republican domination of Congress. You’ve got to get rid of the
+      AIPAC-funded candidates reflecting Zionist interests. And beyond electoral politics,
+      you have the whole looming threat of the Supreme Court’s Citizens United ruling.
+      And that is the modern travesty — this is as destructive as the Dred Scott ruling
+      that led up to the Civil War. Congress has to pass an act prohibiting private
+      contributions to political campaigns beyond some circumscribed limit, with penalties
+      for bribery and corruption brought against such violators. That’s the only way
+      that you can cut off the money that is supporting this rotten congressional neocon,
+      pro-war, oligarchic, anti-labor position. And without such legislation, the United
+      States and its political system are going to continue to be that of an oligarchy,
+      not a democracy. And it’ll be an oligarchy controlled by an extremist minority
+      of wealthy financial institutions, and the international neocons who are supported
+      with them. So ultimately, it’s going to be up to the U.S. And the same thing applies
+      to Europe and other countries. It’s up to these other countries — outside of Israel
+      — to lead the opposition to the genocide that’s occurring, and to the whole idea
+      of ethnic nationalism and ethnic cleansing that you have in Ukraine against Russian
+      speakers; in the Middle East by the American-supported al-Qaeda and ISIS head-chopper
+      that is the head of it now; and by Israel itself in Gaza and the West Bank. And
+      if you recognize that Israel’s war against Gaza and Hamas is against the broadest
+      principles of civilization, that have spent centuries developing the laws of war,
+      the laws of international diplomacy, the laws of, basically, international relations,
+      then you realize the travesty that’s occurring in overturning this whole century-long
+      momentum of trying to establish basic civilized — ⁣RICHARD WOLFF: Michael seems
+      to have frozen. Let me pick up while we wait for him to come back. ⁣NIMA ALKHORSHID:
+      Richard. Since you’ve mentioned the case of Germany, here is the poll that they
+      had in Germany. Three out of five voters believe that Israel’s action in Gaza
+      can be called genocide. This is meaningful, as you’ve mentioned. Go ahead. ⁣RICHARD
+      WOLFF: Yes. But I want to underscore the notion of seeing as a symptom of a larger
+      decline, a rejection, an active rejection of what used to be — at least official
+      — norms of acceptable behavior. I understand. Secretly, those norms are violated
+      by the secret services of many countries, all the time — I understand that, I’m
+      not questioning that. And that’s a serious problem. But it is another step when
+      you do that openly and publicly. And I think I want to point to something which
+      might even be an argument against what I’m saying. I have watched, and I’m sure
+      you have all seen it, over the last month, on at least four occasions that I’m
+      aware of, the United States has decided to bomb and destroy boats in the Caribbean
+      that are moving in the water near Venezuela. Each time we were told by the president
+      that these boats were involved in the drug traffic and that persons on these boats
+      were killed — and thereby prevented from completing whatever they were doing with
+      the drugs. Okay, so we killed eleven, in one case, four, in another, and I forget
+      the number of people on the other two boats. Alright, in this situation, the president,
+      who announced and authorized these acts, is functioning as the police, he’s functioning
+      as the jury, he’s functioning as the judge, and he’s functioning as the executioner.
+      In the United States, participation in drug traffic is not a capital crime. You
+      don’t get killed for that, if you’re found guilty. You have to have a chance to
+      see the evidence presented against you. You have to have a lawyer. You have to
+      be able to question and challenge the evidence. Then it goes to a jury, and only
+      if the jury decides unanimously to find you guilty, will you then be punished
+      with the punishment, 99% of the time, being some sort of imprisonment. We don’t
+      kill those people. We kill in America — it’s bad enough — but we kill people,
+      usually, if they have killed somebody. And there is no evidence — not even offered
+      by the president, who showed no evidence of anything, but he didn’t show any evidence
+      — that these people had killed anyone. This is extra — and no one in the official
+      positions of the United States government — to my knowledge, I’m no expert — but
+      I haven’t heard any outcry — after he did it the first time, he did it a second,
+      third, and fourth time. This is, I mean, this is unbelievable. This the official
+      murdering of people with no evidence required, no procedure, no due process, no
+      presumption of innocence until proven guilty. Nothing. And the ultimate penalty,
+      execution? Am I the only one here finding this bizarre? Why would you do this?
+      Forget whether it’s correct or not that these people were involved in drugs —
+      I don’t know — but whether or not they were, why would you do this? Why would
+      it be important not to have your Navy, which is down there, arrest these people?
+      Okay. Board them. Check out, you know, bring them back and subject them to — Why
+      wouldn’t you do that? Why would you kill them first? And here is my answer, again.
+      I am seeing — and I would love [it] to be argued that I’m wrong — I am seeing
+      desperation. I see people getting together in a room. They have to do something.
+      They have that mentality: We are losing something, we must act in a way that will,
+      hopefully, gather support — And you know, going to war, at least for a few weeks
+      and months, does that for you. It’s awful, then, how it falls away, after a few
+      months — and that’s been the American experience in Vietnam, in Afghanistan. Those
+      wars were lost, in part, because the American people no longer supported them,
+      the way they had in the beginning. Same is true in Iraq. But for a short time,
+      you get a boost. And you are now behaving? Look. All the laws of the world don’t
+      allow one country to kill people in the boats of another country, and claim that
+      they were involved in some transaction we don’t like — which we don’t even punish
+      by capital punishment. It is extraordinary behavior, on the end of an extraordinary-behaving
+      regime. So, I see a level of desperation, and I bring it up because I think it
+      should be factored into how we look at all these other questions — because that
+      hysteria, that desperation, is operative across the board. ⁣NIMA ALKHORSHID: It
+      seems that Michael has some sort of problem with his internet connection. Thank
+      you so much, Richard, for being with us today. Great pleasure, as always. ⁣RICHARD
+      WOLFF: As always, and I look forward to talking with you again next week. ⁣NIMA
+      ALKHORSHID: See you. Bye-bye. Transcription and Diarization: https://scripthub.dev
+      Editing: Kimberly Mims Review: ced Photo by Aliaksei Lepik on Unsplash The post
+      The Narrative Battlefield first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion about the Trump peace plan and the ongoing
+      conflict in Gaza, Michael Hudson argues that the situation is not just Israel's
+      war but rather a NATO conflict, emphasizing the broader geopolitical implications
+      and the need for a shift in American perceptions of international relations.
+    paragraph_summary: In a discussion on October 9, 2025, Nima Alkhorshid, along with
+      guests Michael Hudson and Richard Wolff, delves into the implications of the Trump
+      peace plan amidst ongoing conflicts in Gaza. Hudson argues that the situation
+      is not merely a war between Israel and the Palestinians but rather a broader geopolitical
+      struggle involving NATO, particularly the U.S., Britain, and Germany. He emphasizes
+      that the conflict has shifted from military confrontations to a political and
+      cultural battlefield, where the focus is on shaping public perception and loyalty,
+      especially among younger Americans who increasingly sympathize with the Palestinian
+      cause. Hudson warns that this deeper, more enduring conflict challenges traditional
+      narratives and could significantly impact future American support for Israel.
+    published: '2025-10-14T11:13:42+00:00'
+  - title: How A Nation Makes Money in Their Sleep
+    url: https://michael-hudson.com/2025/10/how-a-nation-makes-money-in-their-sleep/
+    text: '*** To understand the topic of this discussion, please read Michael’s Trade,
+      Development and Foreign Debt. 2025.09.04 ⁣KARL FITZGERALD : All right. Welcome
+      everyone, to another Patreon Q&A gathering with Michael Hudson, the Hudson Roundtable,
+      where we’re lucky to be joined by Professor Michael Hudson, the world’s leading
+      critic of neoliberalism, debt, and the need for a better finance system. So, Michael,
+      welcome to the chat and welcome to all our Patreon supporters. ⁣MICHAEL HUDSON:
+      I like these meetings, and thank you for your support. ⁣KARL FITZGERALD: And when
+      we look at economics, you’ve been very critical of the fact that the balance of
+      payments theory is barely taught at university. Could you give us an overview
+      on why the balance of payments and a strong understanding of it is so important
+      and perhaps how it’s been corrupted? ⁣MICHAEL HUDSON: Well, I never said any such
+      thing, Karl. There’s no balance of payments course that’s taught in any American
+      university. And there hasn’t been since I taught in 1969. There’s no discussion
+      of how the statistics are put to work. This discussion today will talk about how
+      the trade statistics that you read about in the paper don’t have anything to do
+      with the actual balance of trade as settled in money. So, I want to tell you how
+      I came to understand what’s wrong with the statistics and where it went wrong
+      and why it went wrong. The first balance of payments study I did was with the
+      Chase Manhattan Bank in 1965. And they asked me to look at the balance of payments
+      of Argentina, Brazil, and Chile – and especially Chile – because that was where
+      one of Chase’s clients, Anaconda, was nationalizing the copper mine that it had,
+      Chuquicamata. And Citibank was the banker for Kennecott. They were turning their
+      mines over to the Chilean government. And the question I was asked was, how does
+      this affect the balance of payments? The way to find out was to go to Chile’s
+      National Bank and its balance of payments, the Balanzo reports in Spanish. And
+      what I found was something wonderful. They had the nominal dollar volume of exports
+      of copper to the United States. They then divided that into two categories: value
+      retained abroad and what Chile got actually out of these exports. And I found
+      out that what was retained abroad – Anaconda, Kennecott, and Cerro Copper was
+      the third company – [they] would buy the copper from their mines owned and operated
+      by the government, not by themselves. Chile would get the entire payment, presumably
+      at the “producers price” for long-term contracts – the key was that the U.S. companies
+      would be the designated buyers. Chile would not be in charge of WHO bought the
+      copper. But the [US companies] wouldn’t pay when they imported the copper. All
+      of these transactions were held in dollars. And they did not reimburse Chile for
+      the costs of production. These costs of production included the interest rate
+      charges that they had, the exports of U.S. capital equipment to the mines to help
+      them operate, the management fees that they had, and the cost of transportation.
+      And I realized Chile only got a small proportion of the actual copper. So the
+      figure that was reported in the U.S. balance of payments of imports of copper
+      didn’t actually mean that the United States paid in dollars for the copper. Very
+      shortly thereafter, I was asked to do a study of the balance of payments of the
+      oil industry. I had to design an accounting format for all the major oil companies
+      to send me their classified information about how they filled out the government
+      statistics and to answer a couple of questions. What I found out was that, let’s
+      say, for every $100 reported as U.S. oil imports, and this was one of the major
+      features in the American trade deficit, only about 10 cents actually was paid
+      abroad. That’s because the companies that were doing the importing, Exxon, Mobile,
+      the usual companies, and all U.S. imports of oil were from U.S. affiliates. So
+      all of the accounting was done in the head office of these affiliates. And the
+      treasurer for Standard Oil of New Jersey walked me through all of the statistics.
+      He said when we import from Saudi Arabia or other countries, we subtract from
+      the price that they get, our profits. We subtract all of the oil equipment that
+      we send to Aramco, the local oil company. That oil equipment obviously is a charge
+      against what they’re paid. We subtract the interest charges on this. We subtract
+      the transportation charges. We subtract the management fees that we charge. And
+      after all of these fees are taken, including our profits, then there’s really
+      not much that Saudi Arabia or the oil-exporting countries actually get because
+      almost all of the oil that’s imported, 100%, is from foreign branches of the U.S.
+      oil majors. And I say branches, not affiliates, because Aramco and the oil companies,
+      branches abroad, were consolidated into the parent company’s balance sheet. They
+      weren’t foreign affiliates. They were just literally consolidated, and it was
+      all done in the accounting. And I said I’ve got the statistics that all these
+      companies supply for how much equipment they send abroad. What are their payments
+      to American engineers – that they pay in dollars to the Americans that they send
+      over there to supervise production. I see the interest payments. Where are the
+      profits? And I don’t find them in any country. I looked in the Near East and they
+      said the profits are at the very end. Here’s Europe, Asia, other countries, Africa.
+      Here’s something called “International”. And I said, I thought everything is international?
+      And they explained to me, international means it’s not really a country. It’s
+      just a pretend state like Liberia or Panama. A real state has its own currency
+      and its own taxation, but these are countries that use the dollar. So we don’t
+      have to worry at all about any exchange rate risk. I think, on my website, there’s
+      a photocopy of the balance of payments of the U.S. oil industry in detail . And
+      copies of this were put on the desk of every senator and every representative
+      to get them exempt from President Johnson’s balance of payments controls that
+      he imposed to help finance the Vietnam War. Well, from that study, I turned to:
+      let’s talk about the Vietnam War. And there were a number of things that I immediately
+      saw in the balance of payments. First of all, you think of the balance of payments
+      as being the capital account and the trade account. Well, that’s not really the
+      whole picture. Where is the government in all of this? I found that when you separated
+      the government sector from the private sector, which you had to do, I was able
+      to actually find out what are the balance of payments costs of military spending
+      abroad and also of foreign aid. And the first study I did was the study of the
+      statistics on foreign aid. And in my book, Super Imperialism , you’ll find my
+      chart on foreign aid. And you may have heard politicians talk about, I think Trump
+      said, ‘we’re not going to send any more of our dollars abroad to foreign countries.
+      We’re just going to cut that outflow. We’re going to stop foreign aid; it’s a
+      drain’. And politicians have been saying that for 50 years. What I found out was
+      in the 1960s and early 70; not a single penny of foreign aid actually was paid
+      in dollars abroad. Zero was paid abroad because Congress had passed a law saying
+      that all foreign aid had to be spent in the United States. Foreign aid is not
+      to aid foreign countries; it’s to aid the United States, but using foreign countries
+      as a vehicle. So there will be foreign aid in food, sending food exports. All
+      of this grain is bought in the United States for dollars and then sent to the
+      foreign countries. The government will make foreign aid to countries that owe
+      dollar debts to the United States. It will lend them ostensibly the dollars to
+      be credited to pay interest to the U.S. bankers and bondholders that these countries
+      couldn’t otherwise afford. So foreign aid goes to the U.S. banks and the U.S.
+      bondholders. All of this remains in the United States, probably administered via
+      the New York Federal Reserve. And I went right down the line. Every kind of subscription
+      to the IMF and the World Bank, all of these items in foreign aid were all spent
+      in the U.S. But it’s actually worse than that, because when the United States
+      would give foreign aid to Egypt or other Middle Eastern countries, they would
+      have to get a give back. It wasn’t Trump who invented this. And the give back
+      was, we’ve given you dollar credits to meet payments to American suppliers, bankers
+      and farmers. But you have to give us an equal amount of your own domestic currency
+      so that we can use it to support our spending locally in your country. We can
+      use it for any nefarious purpose we want. And so the United States actually made
+      money on its foreign aid. Then finally I went to work for Arthur Anderson, and
+      I said, I want to do what I’ve done for the U.S. oil industry and do a study for
+      the whole U.S. economy. Let’s say how much of the U.S. trade and U.S. foreign
+      investment actually involves payments and how much is simply imputed as if it
+      were paid for. There’s a basic fiction underlying all of the U.S. balance of payments
+      data and that of every other country and this fiction was to make it dovetail
+      into the GDP statistics. It’s divided into the trade balance and the foreign investment
+      balance. So in the trade balance, you’ll have, for instance for oil, the entire
+      cost of foreign nominal cost of the oil that the United States oil companies import
+      from abroad as if this import money were paid to a foreign country. And then you
+      go elsewhere in the balance sheet and you have the offsets for all of this. So
+      the offsets that explain why there’s a zero net balance, which economists call
+      a wash transaction. For instance, on the investment account, there will be disinvestment
+      or investment of money in the oil industry. On the export account, you’ll have
+      the exports of machinery used in the mining of oil abroad. You’ll have payments
+      to American labor that’s a service transaction, foreigners to the U.S. All of
+      these payments that offset 100% of the oil imports are counted as if it was a
+      cost. Same thing with foreign aid. Foreign aid is treated in the government’s
+      account as if it were all going out. And then the government used to publish something
+      called Table 5 in the balance of payments reports that it did annually or quarterly
+      in the survey of current business by the Commerce Department. And they would break
+      out actual money paid abroad. And that’s where I got the statistics for how much
+      money was actually spent abroad in foreign aid and how much money stayed in the
+      United States, 100% of all of that. It took me a year to separate the trade account,
+      and I found out that America didn’t spend anywhere near the cost of its imports
+      that it reported, but also the cost of its exports. Of course, most of its grain
+      exports were paid in dollars, but a lot of its grain exports – other countries
+      didn’t really pay dollars for them because there was a foreign aid outflow on
+      the government account. That led me to say let’s separate the government account
+      and foreign aid as opposed to military spending. What I found out was on the actual
+      payments involved in exports and imports, the U.S. balance of payments in terms
+      of dollars and foreign currency back and forth was just exactly in balance from
+      1950 when I began the statistics right through 1964, or maybe could have been
+      68 when the statistics ended. The entire balance of payments deficit in terms
+      of dollar outflows was on military accounts; not foreign aid, not trade account,
+      not foreign investment abroad, as President Johnson had imagined erroneously.
+      So we were about to publish this. Arthur Anderson’s art department made very nice
+      charts. And then my boss came to my office and he said we just got a very upsetting
+      phone call. I’m afraid we’ve got to terminate your employment here. And I said,
+      what happened? What did I do wrong? Well, you didn’t do anything wrong, but Mr.
+      McNamara – I think when he was head of the World Bank – he called the head of
+      our company and said, if you publish this report, you will never get another contract
+      from the U.S. government again. And we need the U.S. government contracts. He
+      said, I feel very bad about that. We’ll give you a present, you can take all of
+      the slides, all of the pictures and the charts, and you can do whatever you want
+      with them. So, I took the chart to the NYU Business School, and they published
+      a regular bulletin. It’s an academic publication, and they were overjoyed to get
+      it. They published it as a triple issue of their bulletin, and it got quite a
+      bit of notice in Wall Street financial circles; hardly any notice in the left-wing
+      press or in the popular press, generally. A few months later, the Federal Reserve
+      Bulletin – there was a major review and I forget what publication it was – the
+      Federal Reserve published a study of – I think it was in the American Economic
+      Journal of American Economic Literature or something like that. It was saying,
+      let’s look at all these publications by the NYU Business School. And it reviewed
+      them all, and then it got to my report. It said the fact that Dr. Hudson finds
+      that military spending is the root of the balance of payments deficit does not
+      give confidence in his study. And I thought, I’m using all the government figures.
+      What happened? I talked to my class – one of my students worked for the Federal
+      Reserve as one of their staff economists. He said let me give you a copy of an
+      internal memo that we got. The internal memo said my figures were all right, but
+      that we must not publicize it because that would spur the anti-war movement and
+      that was against American foreign policy. So that was yet another reason why I’m
+      the name that must not be spoken in government statistics. It was against the
+      U.S. interest to actually do a financial analysis of what are the actual effects
+      on the dollar’s exchange rate in terms of the foreign exchange market, the demand
+      for dollars versus the demand for foreign currencies to cover exports, foreign
+      investment, trade, government transactions, and military. The government did not
+      want to highlight the fact that the weakness of the dollar and what had forced
+      the dollar off gold, as I describe in Superimperialism , was because of military
+      spending abroad. That was the only drain. There was no drain on the trade account,
+      no drain on foreign investment account, and no drain on foreign aid. The entire
+      downward pressure of the United States; the balance of payments deficit started
+      with the Vietnam War – I’m sorry, with the Korean War – in 1950-1951, and got
+      worse and worse and worse from there. Later, one of the Wall Street firms asked
+      me whether I could try to redo the study. And I thought, it took me an entire
+      year of my life to do the study of the U.S. balance of payments. That’s how I
+      ended up learning about the actual statistics. And if you wouldn’t actually do
+      the actual statistics and see how they’re put together proverbially, how a sausage
+      is made, you’ll see it’s not what you would expect. I wouldn’t have understood
+      the difference between a financial analysis and an imputed analysis, something
+      as if it were there. And the idea of separating the trade account and investment
+      account was to dovetail into the gross national product categories that were developed
+      as part of the GDP that won the Nobel Prize. And I can understand the logic of
+      the GDP, but they should have had two measures. Before the GDP, the government
+      actually recorded the specific foreign exchange effect of U.S. exports and imports.
+      All that was changed in order to fit into this hypothetical GDP account. And the
+      problem with the GDP is not only wash transactions like this, there are all sorts
+      of transactions in the national income account that don’t involve income at all.
+      For instance, one of the big contributors to GDP and national income in the United
+      States is imputed homeowners’ rent. As many of you have seen rent charges going
+      up and up and up very sharply in the United States, as you’ve had computerized
+      advice to landlords as to how to raise prices – they all act as a monopoly to
+      really squeeze the renters. When the Bureau of Labor Statistics will go to the
+      various households that it does as their test study – they’re in miniature to
+      sort of blow up these statistics to a national level. And one of the questions
+      they ask the household: if you’re a homeowner and if you had to pay rent to yourself,
+      if you were the landlord and had to pay rent to yourself, how much would you rent
+      out your home for? As you can imagine, more and more homeowners say we’re sure
+      glad we bought our home, because if we wouldn’t have bought our home, we’d be
+      paying this much more and this much more and this much more for rent every month.
+      The GDP says we’re counting rent as actual product. And so the GDP as a product
+      has the increasing rental charge of paying for your home, or presumably a commercial
+      property, as if it’s an actual product helping GDP grow instead of stifling GDP
+      growth; deindustrializing the economy by charging so much that the homeowners
+      and renters cannot afford to use their income to buy actual goods and services,
+      as we’ve talked about before. ⁣KARL FITZGERALD: Let’s head back towards balance
+      of payments theory. Maybe we can do a special on GDP sometime because I know you’ve
+      got a lot to say there. But what you’re essentially saying is that it is crucial
+      that developing nations understand the balance of payment theory, particularly
+      when the IMF and World Bank use current account deficits as a pressure point.
+      ⁣MICHAEL HUDSON: If they’re a raw materials exporter, then, of course, they understand
+      this. And as I said, the model report that I found of all of the central banks
+      that I looked at, and I’d walk the 50 feet to Chase Manhattan’s library, where
+      they had the central bank reports of every country for every year, and, of course,
+      Chile had to calculate for itself ‘what is our balance of payments actual situation?’
+      How much money do we actually get from our copper exports and our guano exports?
+      Gold exports were a result of copper refining; electrolytically, the gold falls
+      to the bottom and you have the anode electrically collecting all of the copper.
+      So countries that export raw materials have to make this calculation. They know
+      about it. I don’t know whether the financial people who actually compile the balance
+      of payments try to interact with the GDP people and say, wait a minute, how do
+      we dovetail what we’re doing with a reality-based payments account for actual
+      payments instead of imputed payments? But they certainly know what they’re doing
+      and they know that they don’t get all of the money from the raw materials that
+      they make. So the problem is really in the industrialized nations, and especially
+      the United States, which is on the opposite end of the spectrum, that doesn’t
+      want to make it clear to foreign countries that you think that you’re getting
+      rich exporting your copper and your cocoa and your oil and other raw materials.
+      But you’re not anywhere near as rich as you think you’re getting because you only
+      get a little bit of this money for you, thanks to the fact that American companies
+      own your natural resources, or English and Dutch and other European countries
+      own your natural resources and you’re really not getting as rich as you think.
+      If the United States actually published, or sponsored the publication, of a realistic
+      financial analysis, this would show how many of the Global South countries are
+      not developing. The aim of the World Bank and the IMF is to prevent them from
+      developing. You could say they’re malstructured or stifled, but certainly not
+      developing. The purpose is to show that you can’t afford to pay your existing
+      foreign debt to bondholders and bankers – unless you borrow the money to pay your
+      debts. In other words the foreign debt – Global south foreign debt scheme – is
+      a Ponzi scheme. The United States and other governments, especially the IMF, will
+      lend them the money. The International Monetary Fund just lent Argentina an enormous
+      amount of money to pay its foreign bondholders because they said, you’re a Fascist
+      country, you’re a Zionist country, of course, we’ll give you the money to pay
+      the bondholders. And by the way, tell your bondholders that we can’t do this forever.
+      Let them use this money we’re lending you to get out of the Argentine economy
+      and put their money in dollars or gold or hard currency. Our job is to subsidize
+      capital flight by the client oligarchies in Argentina or other countries. To get
+      their money out and to empty out their countries so that once Milei’s right-wing
+      government is replaced by, presumably, a left-wing government, the left-wing government
+      will be absolutely strapped for cash and will have to prevent devaluation by going
+      to the IMF and say, if we devalue, then we’re going to have to lower the standard
+      of living of our labor because our workers are going to have to pay much more
+      for all of their imports, just like in the United States. And the IMF will say
+      if you, left-wing government, will act as a right-wing client dictatorship, of
+      course we’ll lend you the money. That’s the international financial game. And
+      that’s what you see if you do an actual financial analysis instead of the as-if
+      hypothetical analysis. Wouldn’t it be nice if they actually earned all the money
+      that they report on their export accounts? ⁣KARL FITZGERALD: Danny Wheel writes
+      in the comments: ‘We see the same thing here in Ecuador. Rubio got here last night,
+      but the mines are being subsidized by the state, while people have to bring their
+      own medicines to filthy public hospitals left to rot for privatization between
+      the IMF and export economy, meaning we have no industry except extraction. Poverty
+      is beyond comprehension, and violence is the biggest in the world. This is real.
+      The things Michael is talking about affect real people. It’s a casino scam backed
+      by the military of the U.S., but this is predominant all around the world, isn’t
+      it? And nations need to understand what is happening.’ ⁣FRANK MOELLER: [I’ve been]
+      listening [to] and read several books by Professor Hudson. He talked about surplus
+      balance of payments in a recent podcast and I was wondering about surplus balance
+      of payments and how they use that for housing, education, human capital development,
+      healthcare. And if so, can we put a dollar value on that, per person or per capita,
+      over there and how that’s distributed for those utilizations? ⁣MICHAEL HUDSON:
+      Well, you wouldn’t get that material from the balance of payments accounts. If
+      you talk about medicine, I guess there would be medical supplies to foreign countries
+      as an outflow of government foreign aid. And on the export credit side, you’d
+      have exports of U.S. pharmaceuticals and also on transfer payments, payments to
+      U.S. doctors or U.S. embassy personnel, or State Department personnel, or other
+      individuals doing all these payments that are defrayed in the United States. But
+      they certainly don’t give these other countries dollars to spend. They only give
+      dollars to Ukraine or Argentina or client dictatorships. They have a very tight-fisted
+      control to make sure that other countries don’t actually receive dollars from
+      the United States, but only U.S. firms and suppliers and creditors get these dollars.
+      You can do the per capita, but that’s something else. It’s not something I’ve
+      got into. That’s all domestic statistics you’d have to use. ⁣KARL FITZGERALD:
+      And Danny Wheel has a few questions coming through as well. Danny, do you want
+      to come on screen and ask Michael some questions? It’s great to see some of our
+      transcription team here; Ced and Kimberly do a great job for Michael. ⁣ And they’re
+      there, don’t you worry. So Danny’s microphone is down. He’s asking about Social
+      Security payments here somewhere. During the 60s, Social Security funds, we were
+      told could never be touched for anything but Social Security. These funds were
+      used for the war, as far as I know, and want to know if Michael can verify. ⁣MICHAEL
+      HUDSON: Of course, the fact is there are no funds there. As George W. Bush said,
+      there’s no money there. All there is, is a promise by the United States government
+      to pay for the Social Security contracts that they’ve signed. Social Security
+      has run a surplus for many years. The role of this surplus was to finance military
+      spending and to finance the budget deficit. The budget deficit was financed not
+      only by tax payments by the U.S., but by using Social Security as a tax. That
+      money was paid to the government and the government used it for operations. And
+      against this government’s use of it for operations, the government had a future
+      liability, the liability to be paid to the Social Security recipients. So, right
+      now, the talk of the Republicans in Congress, which was really initiated by President
+      Obama; Obama set out to work with the Republicans to mobilize the Democratic Party
+      to abolish Social Security and have the Social Security funds available to be
+      invested in the stock market. I think, in 2007, I wrote a cover story for Harper’s
+      magazine tracing this. This was the plan that Obama had when he was trying to
+      work with the Republicans to do just that. There’s zero money in the Social Security
+      account. There is a liability of the U.S. government to pay Social Security. But
+      what the Republicans say was: if we pay Social Security, we can’t cut the taxes
+      on the rich. Our economies run – industry and employment are just an overhead.
+      The purpose of the U.S. economy is to generate money for the rentier 10%. It’s
+      to generate money for the banks and the landlord. Forget the people. Let’s just
+      take all the money away from them and give all to the 10%. Let’s just speed up
+      where the whole economy is going over the long-term trend. Obviously, I’m very
+      annoyed at this, as you can tell, but the Republicans and Democrat leadership
+      have agreed: let’s not pay American labor as much, this is the problem. Because
+      the Americans are doing something that is very unpatriotic; they’re living longer.
+      And the government says you’re living longer than we’d calculated. You’re supposed
+      to die when you’re 75 years old, maybe 78 years old, and you’re not dying on schedule.
+      And that means that we have to pay much more money. And if we pay you, we can’t
+      pay our campaign contributors; the banks, the financial sector, the landlords,
+      the monopolists, and the rentiers. And that’s not good for the stock and bond
+      market, which is really what the U.S. produces. You can see the hypocrisy here.
+      And there’s so little discussion of the monetary and fiscal policy in this country,
+      because once you look at it, you realize how totally biased and unfair the whole
+      system is constructed to benefit the wealthiest; the creditors and rentier interests,
+      not the actual wage earners. It’s terrible. ⁣KARL FITZGERALD: Is there such a
+      thing as a good current account deficit, where it’s funding something productive?
+      ⁣MICHAEL HUDSON: No, there’s no attempt at all to make any such calculation. I
+      mean, what is productive? And even what is the current account? The current account
+      surplus or deficit is, in principle, if you study trade theory, is supposed to
+      be balanced by the capital account. So if you’re running an export surplus, that
+      enables you to, on investment accounts and capital accounts, invest money abroad.
+      Or if you invest money abroad, that provides dollars for foreign countries to
+      run a trade deficit with you. There’s this hypothetical balance between current
+      and capital account. But where are the gunboats? Where does the military fit into
+      all this? Is it a current account? Is it a capital account? This is fictitious
+      to oversimplify and assume that the capital and the current accounts simply offset
+      each other and the result is zero. It does work that way for the private sector,
+      I found. That’s what my statistics showed. But the wildcard is the government
+      military spending abroad. ⁣KARL FITZGERALD: Diana DiRienzo asks, ‘does social
+      security add to the deficit? When government spends domestically, they get more
+      back in tax revenue than originally spent within a short time, don’t they? Also,
+      can we see the data on how Social Security is running out of money? Reagan doubled
+      the FECA to cover the baby boom requirements. And why can’t the government just
+      pay Social Security without requiring FECA payments?’ ⁣MICHAEL HUDSON: Well, it’s
+      not running out of money at all because there’s zero money there to begin with.
+      There is no money there. And again, George W. Bush recognized that fact when he
+      said it’s really just all hypothetical. When people say Social Security is running
+      out of money, they say, we’re not able to give the tax cuts if we also pay social
+      Security and health care to American workers. Something has to give, and what’s
+      going to give is Social Security so that we can cut the taxes. How are you going
+      to use the government revenues compared to the government spending? And as we,
+      MMTers have pointed out, and Stephanie Kelton has written about in a recent book,
+      what’s left out of the account is not just government revenues and expenditure,
+      it’s government money creation. The Federal Reserve only creates money to give
+      to banks to lend out to invest in stocks and bonds and real estate and gambling
+      – such as derivatives. The Federal Reserve does not create money to be spent into
+      the economy. That’s what the Treasury could do and what the Treasury did in the
+      Civil War with greenbacks and other times. It’s how governments finance war. But
+      all of this is a pretense of seeming to come up with a plausible way of thinking
+      to create a narrative that makes you think, according to that narrative, gee,
+      the government doesn’t have enough money to pay Social Security if it cuts the
+      taxes on the rich, if it goes to war and spends its money on the military. You’re
+      seeing this very clearly in Europe right now. That’s what the whole political
+      fight is with Merz and Germany and the others. They say we’re limited by the rules
+      of the Euro and the European Union as to how much of a deficit we can run. The
+      U.S. is not subject to any limit on the deficit; the Europeans can’t. And so if
+      the Europeans – the entire growth in European GDP is spent on military spending
+      that’s now promised, as a contractual promise by the German and other European
+      governments – if all of the equivalent of the growth of GDP is paid on the military,
+      they say we’re going to have to cut back the subsidies we’re giving for consumers.
+      And this is what’s causing so many political problems in Britain for Starmer,
+      for instance, saying, now the government says, since we’re spending so much money,
+      giving to the Ukrainians to fight Russia, we’re not going to be able to give you
+      the electricity subsidies that we were giving you before because we’re not any
+      longer getting gas. We have to pay much more for our gas and oil than we had to
+      before we broke off relations with Russia. You’re having Europe cut back social
+      spending in order to become a militarized economy to sort of try to re-fight World
+      War II, hoping for a different outcome this time around. ⁣KARL FITZGERALD: It
+      seems that over the arc of time since we’ve moved into the dollar hegemony era,
+      the post-gold standard, that balance of payment theory and understanding has become
+      even less understood, less important. Would you like to describe how that has
+      played out? ⁣MICHAEL HUDSON: Well, I think I just did. The problem began with
+      trying to dovetail it into GDP. Nobody really expected government military spending
+      to play such a major role in the balance of payments and to create such a deficit.
+      But certainly, I think, as I’ve mentioned many times before, including in this
+      group, in the 1960s, every day around noon, we’d get together, the Federal Reserve
+      would report on the Treasury’s holding of gold, and we’d watch how far the gold
+      has gone down. Every U.S. paper currency, the dollar bills you have in your pocket,
+      and all the denominations had to be backed 25% by gold. And as the currency went
+      up, as the economy expanded or inflated, the gold supply was going down. And we
+      could see that, at some point, the government was going to run out of gold. And
+      the newspapers would be denouncing General de Gaulle for making a big thing about
+      saying, we don’t like American military spending. We’re going to cash in all these
+      dollars that America spends in Vietnam and Cambodia and Laos and Southeast Asia.
+      These are French territories, and the French banks there send their dollars to
+      Paris, and we cash them in for gold right away. Well, Germany actually was cashing
+      in even more dollars for gold than France was. If you talk about economic reality,
+      it’s going to be different from the reality that people are told in the mainstream
+      press. And it’s very difficult to maintain this fictitious narrative that people
+      are being taught. ⁣KARL FITZGERALD: So what about the classic twin deficits periods
+      in the 1980s and how that contributed to sustained deficits? ⁣MICHAEL HUDSON:
+      What in the 1980s? ⁣KARL FITZGERALD: The twin deficits period, the large fiscal
+      gaps plus the strong dollar. How did that influence U.S. fiscal policy? ⁣MICHAEL
+      HUDSON: Well, once countries no longer could cash in the dollars that were being
+      pumped into the economy for gold, the only choice that they had was to buy U.S.
+      government securities. They had to; these were safe. This was before the government
+      began to grab Russian money and Venezuelan money and any money of countries that
+      it didn’t like. It was the deficit spending from the military in the 1980s that
+      pumped dollars into the economy that ended up in the hands of foreign central
+      banks that invested this money in U.S. Treasury bonds and bills and notes to finance
+      the budget deficit. So Americans didn’t have to – the government didn’t have to
+      tax Americans. They just had to spend more military money abroad and let the foreign
+      central banks buy the securities. Circular flow. ⁣KARL FITZGERALD: Goodness me,
+      it makes it so simple when you say it like that. ⁣MICHAEL HUDSON: That’s why people
+      don’t discuss it. It is simple. But how do you really make it so complicated that
+      nobody’s going to discuss it? You get a whole different set of unrealistic categories.
+      That’s what economics and the role of economists is for. ⁣KARL FITZGERALD: And
+      so Bernanke’s global saving glut view was built on that play that occurred through
+      the 90s. Is it the same thing there? ⁣MICHAEL HUDSON: Sure. The global savings
+      glut was neoliberalism. They stopped regulating economies. They permitted monopolization.
+      The savings, you could say it was a money creation glut. What were these savings?
+      The banks would lend money to their major customers, homeowners and real estate
+      sector, 80%. So the more money that the banks would create, it would push up real
+      estate prices or corporate bond and stock prices. You had the economy flooded
+      with Federal Reserve money, and that created the biggest bond rally in history
+      from the time of Paul Volcker in 1979 that brought down the Carter administration
+      right down to just a few years ago with the zero interest rate policy. So it’s
+      not a saving. The pretense, and this has gone back to the fictions of the late
+      19th century. The idea that if you’re a billionaire, you’ve saved up your money.
+      And the way that Böhm-Bawerk, Eugen von Bawerk, and the Austrian school said was,
+      we have to realize that there’s a reason that interest charges are really a product,
+      and the creditors play a very productive role in the economy. They make a sacrifice.
+      Their sacrifice is abstinence. And by not spending their money on consumer goods
+      and gratification, they defer their gratification to later. And that’s how you
+      measure the interest rates. And so all this money that the billionaires have is
+      saved up by not consuming. Well, that led Marx to quip, gee, ‘I guess the Rothschilds
+      must be the most abstinent family in Europe’. And do you think Donald Trump got
+      his additional $5 billion that he made in the last few weeks through junk crypto
+      currency? He didn’t save that money. That money was just sort of – it’s all created.
+      So the very idea of referring to savings, the vocabulary is all a euphemistic
+      vocabulary to make it appear as if creditors and landlords and monopolists pay
+      a productive role instead of the rent that they get being in the character of
+      transfer payments, zero sum. What the landlords and bankers and monopolists get
+      is a transfer of income from the consumers or the renters or the debtors to the
+      creditors with no quid pro quo. And as John Stuart Mill said, and I’ve repeated
+      often enough, landlords make their rent in their sleep. There’s nothing they do
+      in providing a productive service. So of course, you want to create an economic
+      vocabulary that makes it appear as if the wealthy people get their fortunes by
+      being productive instead of being parasitic. That’s what my book, J is for Junk
+      Economics , is all about. Going over the vocabulary and that’s used, trying to
+      demystify it. ⁣KARL FITZGERALD: What about the U.S.’s exorbitant privilege? It’s
+      almost as if a nation state has set up a system to create money in their sleep
+      . And over the decades, the U.S. has earned higher returns on its foreign assets
+      than it pays on its liabilities, as you spelled out in Super Imperialism . So
+      is that really what this whole balance of payments interplay is all about with
+      the dollar exchange? ⁣MICHAEL HUDSON: Yes, in one word. You’ve expressed it very
+      concisely, Karl. ⁣KARL FITZGERALD: Okay. Well, I thought you’d have a rant to
+      go on that one for us. ⁣MICHAEL HUDSON: Well, you said it clearly; you don’t have
+      to rant when it’s all so clear. ⁣KARL FITZGERALD: Okay, can we get anyone to come
+      on screen and ask some questions? I know this is all complicated material, but
+      often it helps as we are all trying to grasp it. ⁣MICHAEL HUDSON: Anything. ⁣MICHAEL
+      HUDSON: You know, we have a half hour to go. ⁣MATT CONNORS: I have a question
+      if no one else does. ⁣KARL FITZGERALD: Go on, come on through. ⁣MATT CONNORS:
+      I’ll start by just expressing gratitude to Professor Hudson for his work. Immensely,
+      immensely thankful. He has a way of pointing us in a direction that we’re not
+      looking. I remember reading an essay shortly after the beginning of the recent
+      Russia-Ukraine conflict, where he called it the third war against Germany by the
+      U.S. And I thought I was so confused until I wasn’t. And you know, that’s extremely
+      helpful. Similarly, when people started getting so excited about the emergence
+      of BRICS a couple years back, Professor Hudson was consistent in also sharing
+      a little bit of enthusiasm, but pointing to the fact that they hadn’t come up
+      with a system that really was going to let them leave the dollar behind. And I’d
+      be interested in hearing his analysis of whether they’ve gotten better at that,
+      whether that’s on the horizon. You know, it’s basically a specific question that’s
+      within my bigger question of how much of this rigged system is still going to
+      be standing after all the mistakes or missteps that current leaders in the West
+      have been making. ⁣MICHAEL HUDSON: Well, I did two shows on this week. In today’s
+      Naked Capitalism, and on my website, I have my discussion with Glenn Diesen on
+      this . And I just did an 11 o’clock a.m. interview today with Nima on Dialogue
+      Works on this very topic. They have not yet put together a system of how they’re
+      going to restructure their economies to make it something different. All that
+      the countries have been doing really since 1955 has been to complain ever since
+      the Bandung Conference. Isn’t the world unfair? But you have to go beyond saying,
+      yes, the world’s unfair. What are we going to do about it? And the solution has
+      to be to change the whole tax policy around. That’s really what they have to do.
+      Number one, they’re unable to pay their foreign dollar debts and foreign currency
+      debts, without sacrificing their own economic growth. Number two, the BRICS countries
+      and the Global South are faced with a problem. Foreign investors from the United
+      States, England, and Europe own their raw materials, their oil, their mining,
+      their forests, their plantations, and they extract rent. And these foreign companies
+      that own raw materials extract raw material rents from the Global South countries
+      and other countries today. They’re playing the same role that landlords played
+      in Britain and France and Europe in the early 19th century, charging ground rent
+      for everybody. It’s a deadweight charge. It’s a transfer payment that classical
+      economics set out to free economies from, to create a market that there was no
+      economic rent that ended up in private hands. And Ricardo described value and
+      price and rent theory in chapter 2 of his principles of political economy. He
+      said land rent includes natural resource rents. He didn’t say monopoly rents,
+      and he didn’t say financial returns, but at least he said raw materials. He said
+      it’s price without cost value. And his labor theory of value was designed to say:
+      what part of the price system that we pay is not value? What price is it that
+      is not really a necessary cost of production? If all the costs ultimately are
+      resolvable into labor; land is provided by nature, raw monopolies are created
+      by legal systems, and bank extraction of interest and financial charges is also
+      an institutional creation, not part of necessary labor. The whole doctrine of
+      classical rent theory, from the Physiocrats to Adam Smith to John Stuart Mill
+      to Marx, to Thorstein Veblen, was all about how do we bring the actual price structure
+      in line with the actual cost of production so we don’t have any zero-sum transactions,
+      any more free lunches, any more payments to a rentier class that makes money in
+      its sleep. That was what was so revolutionary about industrial capitalism. It
+      was evolving into socialism by freeing economies from the rent-extracting classes.
+      Well, then there was a whole anti-classical reaction, early 20th century. By World
+      War I, you had the rentiers fight back. The banks and real estate interests join
+      hands, saying there’s no such thing as economic rent. Everybody earns whatever
+      they make and they have earned whatever fortunes that they have been able to accumulate.
+      We’ll call it saved up. Even though it wasn’t saved up, it was made in their sleep
+      without their playing any role in saving at all. So you had the whole economic
+      vocabulary designed to create a fictitious narrative of how economies work, and
+      that fictitious narrative required negating the whole century of classical value,
+      price, and rent theory that was designed to minimize rent. That’s a long answer
+      to your question, but I’ve tried to provide the context for it. ⁣MATT CONNORS:
+      Thank you very much. I’m sorry. I have more questions, but I don’t want to hog
+      air time here, so I’ll let other people go. ⁣MICHAEL HUDSON: The questions are
+      all a good question. I’m always glad to have it. I’ll let Karl decide what to
+      do. ⁣FRANK MOELLER: Okay. My question is: how does China subsidize education,
+      healthcare, transportation, and communication so that they have competitive wages
+      for their employees? Whereas in this country, we have exorbitant costs for insurance
+      and education. There’s a $1.7 trillion student debt. It’s all financed through
+      loans. How does China finance their education process and all these other attributes
+      that society partakes in? ⁣MICHAEL HUDSON: They have taken finance, money creation,
+      and debt creation out of the private sector and made it a public utility. And
+      instead of banks creating money just on their computer keyboards, the People’s
+      Bank of China, the central bank, creates money. It’s as if the U.S. Treasury were
+      simply printing banknotes to spend into the economy. So if you’re creating your
+      own money, then the government creates the money and decides, what are we going
+      to spend our money on? We want to spend it on providing free education. We don’t
+      want people to have to pay so much. We want to make sure that we can lower the
+      cost of production. And we want to do just what an industrial capitalist economy
+      would want to do. We want to minimize the cost of production to make our economy
+      more competitive with other economies. And we make it more competitive by minimizing
+      the cost of living that employers have to pay their wage earners. And we don’t
+      want the employers in China, whether they’re public sector or private sector employers,
+      to have to pay their wage earners money to just pay for education. So China provides
+      education freely. We don’t want the employees to have to spend their money on
+      Obamacare to pay the big medical insurance conglomerates and the pharmaceutical
+      companies. So we’ll provide medical care. This was good conservative economic
+      policy in Britain in the 19th century when Benjamin Disraeli said, “Health and
+      health care are all.” And that was what the Conservative Party was all about,
+      making British labor more competitive by having public health minimize the cost
+      that labor had to pay. Well, the same thing with housing. China has not really
+      followed through treating housing like it’s treated education and health care.
+      And that’s been a problem that it’s now coming to realize is a problem. But it’s
+      trying to do it. China does not have a banking sector that lends money to Chinese
+      companies to buy out other Chinese companies and then borrow more money, once
+      they bought out the company, to buy the company and then pay it out as a capital
+      dividend to the stockholders or to buy its own stocks. None of these financial
+      shenanigans that make money by purely financial engineering in the United States
+      are done in China. Their economy is designed as if by engineers, and most of the
+      Central Committee has either an engineering background or a public administration
+      background so that they can avoid treating their economy in the financialized,
+      privatized way that the United States economy works. ⁣MATT CONNORS: Thank you.
+      ⁣MICHAEL HUDSON: Does that make it clear? ⁣FRANK MOELLER: Yes, it does. Thank
+      you. ⁣MICHELLE ROMINE: I just want to ask him, if the BRICS countries can arrange
+      another alternative system at some point in time, will they then declare odious
+      debt and nationalize their own resources back? ⁣MICHAEL HUDSON: Well, they have
+      to act together to do that. They can’t do it one by one because they could all
+      be picked off and their foreign holdings could be grabbed just like Paul Singer
+      tried to grab Argentina’s assets to pay bondholders. So it has to be done all
+      together. And they have the perfect excuse to repudiate their debts now because
+      Donald Trump’s tariffs have prevented them from earning the dollars to pay their
+      bondholders. He’s closed the U.S. market to them. And if they can’t export to
+      the U.S. market, there’s no way they can get the dollars to pay the foreign debts.
+      So they can join together and say, this is the Donald Trump debt holiday . This
+      is it. He’s made it impossible. He’s destroyed the ability to pay the debts. We’re
+      not going to sacrifice our growth and let the United States destroy it. Donald
+      Trump’s policy is to say, we will create chaos for your economy, declare war on
+      Russia and China and do to you what has happened in Ukraine. They can say, we’ve
+      chosen the path of civilization. And so you have a fight between civilization
+      and what’s called, now, late stage barbarism. ⁣MATT CONNORS: I’m going to jump
+      in with a quick question. Michael started out talking about Chile in 1965, if
+      my memory is working for a one and a half hour stretch here. Any thoughts on Chile’s
+      ability to come back to the question of getting out from under the Pinochet constitution
+      that they tried to rewrite and it failed? Did they learn from that? Or did other
+      countries watching them learn from it? The idea that a foreign country can own
+      all their raw material, their mines, and all that kind of thing was my understanding
+      of what they were trying to do. Was that a one and done? And now they’re in even
+      a weaker position to try something like that? ⁣MICHAEL HUDSON: It’s a total mess
+      down there. Pinochet introduced this rip-off system of pensions so that companies
+      could simply invest – they’d pay pension money to the workers to be paid in their
+      own stock, and then they’d organize the company that employed the workers as a
+      subsidiary of the bank holding company. Companies were organized as what they
+      called “grupos,” a holding company and the private company. So that the Chilean
+      company would go on and on, and then it would say, one day, we’ve just paid all
+      the money in the treasury to ourselves. We’re broke. I’m sorry, we’ve wiped out
+      all the pension debt. We have to go under. We’ve sent it all to our grupo, our
+      bank head, and they’ve wiped out all the pensions. So I’ve been appalled at Chilean
+      politics. I cannot understand why they’ve been so bad ever since I began to follow
+      it in the 1960s. We were all watching President Frey and how he was mismanaging
+      the economy. Then Allende mismanaged the economy by this sort of vulgar Marxism
+      that ignored the land question. Chile has the most serious land reform problem
+      in Latin America. Vast plantations and the lowest farm productivity, yet it has
+      the highest natural fertilizer resources in all of Latin America. Guano, that’s
+      one of its major exports. It’s just an example as to how not to run an economy.
+      And we’re all using that as, you know – Chile is the self-destructive, just utterly
+      mishandled economy in Latin America. I don’t understand how they can flounder
+      so badly. So, there’s no answer to half of your question. How do you explain why
+      people are so incompetent? ⁣KARL FITZGERALD: Okay, thanks, Matthew. We’re going
+      to move on to Wendell, who has put his hand up. So, Wendell, do you want to come
+      in? ⁣WENDELL FITZGERALD: My favorite economist, which Michael knows about, is
+      Henry George, who suggested that a full 100% tax be levied against unearned income
+      from ownership of land and other monopolies. ⁣MICHAEL HUDSON: Why do you say Henry
+      – why not say Adam Smith? Why not say John Stuart Mill? You could run down the
+      line with the economists. They were all saying that. ⁣WENDELL FITZGERALD: Let’s
+      have an actual free market. The way you get a free market in land is that you
+      don’t let people keep the rent of land that they don’t actually create. The community
+      creates that value. So let’s pay it to the people who actually create it. Marx,
+      and I mean, Adam Smith and Ricardo, yeah, absolutely. Henry George. ⁣MICHAEL HUDSON:
+      Here’s the problem: George was a journalist 150 years ago. And now, all this rent
+      is privatized not to a hereditary landlord class anymore, not to the class that
+      he described, that George described so well in the Irish land question. The rent
+      is paid to the banks. And I don’t think neither George nor any other economist
+      of his time anticipated that. Yes, you have the free market mentioned in housing
+      and real estate. Anybody can buy a home or building by themselves. But almost
+      everybody, in order to buy this property, has to borrow from a bank. And they
+      compete with other borrowers to get the mortgage loan, to buy the home or the
+      commercial building. They agree to pay the interest to the bank. And so most of
+      the interest and the land rent in the American economy is paid to the banking
+      system. There’s no successor to George that is saying these things today. It ended
+      up, it turned out, that the bankers threw all of their weight behind the real
+      estate interests, realizing that whatever the government cut in taxes against
+      the land would be free to pay the economic rent as interest to the banks. So the
+      real question in every economy today is not whether the landlords or homeowners
+      or the government will get the land rent. It’s whether the banks or the private
+      landlords will get the rent. The government obviously has not taxed the rent,
+      and whatever the government has failed to collect ends up being paid to the banks.
+      That’s the problem. That’s what financialization is. And that’s why the finance
+      capitalism that’s occurred in the last century is so different from the outlook
+      for industrial capitalism, as it seemed to Adam Smith, John Stuart Mill, and Henry
+      George in 1879. ⁣WENDELL FITZGERALD: So what’s the solution? I’m not disagreeing
+      with you. What’s the solution that you propose? Is there a tax solution? ⁣MICHAEL
+      HUDSON: Yes, of course you have to tax the land. But today, if you tried to tax
+      the land, it’s much more difficult than it was in George’s day, because if you
+      tax the land, the land’s rent, the rent is already pledged to the banks to pay
+      mortgage interest. The banking system will go under. Well, I’m all for that, quite
+      frankly. Yes, the banking system has to go under. You have to, in order to have
+      the land tax that Henry George and Adam Smith and John Stuart Mill and Karl Marx
+      all supported, you have to deprivatize banking and you have to wipe out all of
+      the banking and creditor claims that are already, for 30 years in advance, claims
+      on this land rent to be paid to them, not paid to the tax collector. ⁣KARL FITZGERALD:
+      Yeah. Can we, we’re trying to specialize on the balance of payments in this discussion.
+      We often cover this topic. And we’ve only got a little bit of time. So Wendell,
+      I hope you don’t mind if we move off our favorite topic. But yes, I’m interested,
+      Michael, Frank’s question earlier about China. Is there a country anywhere where,
+      in terms of trade theory, comparative advantage still rules? Where they do pursue…
+      ⁣MICHAEL HUDSON: Trick question. It never held. It was alway s my whole theory
+      of trade development and foreign debt. The whole theory of comparative advantage
+      was, if you read my book, it was all fictitious. It never worked. It never held.
+      ⁣KARL FITZGERALD: But China has had this huge trade surplus because they’ve had
+      a comparative advantage in manufacturing. So, you know, how does trade policy
+      work for them? They have this conundrum of having all these treasury bills, what
+      are they going to actually do with them? ⁣MICHAEL HUDSON: It doesn’t have a comparative
+      advantage at all. It has an absolute advantage. There are certain costs in America
+      and the world economy that are common. Every country, except the United States
+      now, has to pay the same price for its copper, steel, and oil, and this makes
+      absolute cost structures the key. Ricardo’s theory of comparative advantage, to
+      make a long story short, was to show that Portugal was the winner in trading with
+      England and that the solution was that other countries should provide raw materials
+      and depend on English manufacturers and monopolies. This was garbage, garbage
+      from the beginning. And I go over that in my trade theory book. But China does
+      – of course, it has an advantage because it’s followed the original plan of the
+      classical economists. You minimize economic rent overhead and you streamline the
+      economy. So there’s no parasitic private financial sector, no parasitic rentier
+      class. And at least President Xi has said that housing is to live in, not to treat
+      as an investment good. And I think they’re beginning to try to move in that direction
+      these days. What China has done is follow the logic of industrial capitalism.
+      They call it socialism with Chinese characteristics. They could call it industrial
+      capitalism with Chinese characteristics because it’s exactly what they’re following;
+      the same path by which Britain and Germany and the United States organized their
+      industrial takeoff. ⁣KARL FITZGERALD: Well, until the last 10 or 15 years, where
+      the FIRE sector, particularly the real estate sector, got power, got in control,
+      and now we have all these ghost cities in China. So it’s sad to see that, even
+      there, they’ve fallen victim to the rentier economy. We’re talking balance of
+      payments, and I’m not sure we’ve talked about it today, but transfer pricing.
+      What role does that play with multinationals using transfer pricing to write down
+      their tax obligations in various nations? ⁣MICHAEL HUDSON: It’s fictitious pricing.
+      They organized a series of multinational shells and they made sure that – here’s
+      how the oil industry did transfer pricing: all of the oil that was produced in
+      the Middle East and other countries would be sold to a corporation in Liberia
+      or Panama that had zero taxation. The Liberian and Panamanian affiliate of Standard
+      Oil or Saccone or any other oil company would then resell this oil at a very high
+      price to the refineries in the United States or in Europe. And the price of the
+      affiliate in this offshore banking enclave, these sorts of fictitious corporations,
+      all of the profits would be made there; there was no profit given [due to ] the
+      price they charged at the downstream end in countries that had an income tax.
+      There was no income tax in Liberia or Panama. And under the tax treaty, a corporation
+      can basically follow the tax rules of the conglomerate and can follow the tax
+      rules of wherever its big trading company is located. That’s why, when I asked
+      the treasurer of Standard Oil, where are the profits made? And he answered, they’re
+      made right here in my office. And he said, and I declare them to be made in Liberia
+      or Panama because there’s no tax there. And so we get the entire profit – and
+      he could have said economic rent but that’s not how he thought – from oil, it
+      was all paid to the parent company in New Jersey. And because it was all made
+      in a fictitious country using the dollar currency that had no income tax, an offshore
+      banking enclave, then they didn’t owe any profit tax to the United States. So
+      that’s what transfer pricing was. The price that the trading affiliate in the
+      offshore banking center sold its oil for, was so high that there were no profits
+      to be made downstream in the refining and gas station distribution sector. Does
+      that answer your question? ⁣KARL FITZGERALD: It does. And it brings to mind, if
+      there’s any one nation that has turned the balance of payments theory and understanding
+      of economic rents to their advantage, it would be Singapore. Do you know much
+      about Singapore and their Temasek holdings and how they use their capital account
+      surplus to invest in other national utilities? ⁣MICHAEL HUDSON: I really haven’t
+      followed it. I haven’t had an occasion to follow it. ⁣KARL FITZGERALD: So I must
+      get you to look into it. Kimberly Mims, our friend, do you want to come on screen?
+      We’re getting close to the end of today. Yes, she’s one of our backroom team here
+      with the Michael Hudson crew. She’s asking about multinationals. Could you come
+      on in, Kimberly. ⁣KIMBERLY MIMS: I was interested in that issue of how this kind
+      of circulation of the benefits, let’s say, stay within the U.S. frame and never
+      really go out in some sort of fair and equitable way, right? That’s what you’re
+      kind of talking about. And you also briefly mentioned private-public partnerships,
+      and that’s just a thing I see in this country as being without regulation all
+      over the place. I mean, I see this in Chicago all over. It’s just out of control.
+      And I don’t know what they are, quite frankly. Sometimes they call themselves
+      centers. You don’t even know what they are literally as business models. So it
+      seems to be this way of prying open a kind of non-regulated space that is domestic
+      as well as potentially international. And I’m wondering, does that have any play
+      or do you see any way of looking at that, that would be profitable and constructive
+      in terms of talking about balance of payments? ⁣MICHAEL HUDSON: Well, the whole
+      financial sector is highly exploitative. And as you point out, these private-public
+      partnerships were really developed under Thatcher and even more so Tony Blair.
+      And the idea is that all the profits go to the private owner and all the losses
+      are absorbed by government. And the effect is to transfer money from the government.
+      The government subsidizes a company to ostensibly make losses and the losses take
+      the form of high interest payments, managerial payments, and other largely fictitious
+      financial charges and transfer payments to the financial managers. So again, we’re
+      dealing with a fictitious economy. And most of the economy today, I guess you
+      could say, is based on economic fictions with a fictitious cover story, a narrative
+      to make it all appear as if all of this is earned and everybody has earned what
+      they take and end up with by being productive or unproductive if you’re a laborer.
+      ⁣KARL FITZGERALD: Well, I’m trying to think of a way to wrap this up, Michael,
+      because it’s been a complex conversation and one that we all need to study in
+      further detail. I suppose with BRICS coming through, where do you think the future
+      of balance of payments theory is going? And are these nations actually picking
+      up on what you’re teaching about, or are they going to fall down the same hole,
+      do you think? ⁣MICHAEL HUDSON: There really isn’t any balance of payments theory
+      because the whole discussion and the economic categories are as if all transactions
+      involved actual monetary payments. And as I said, homeowners’ rent does not involve
+      a payment. Imports of oil from American affiliates do not involve actual foreign
+      exchange payments. So people really don’t discuss it. The whole terminology and
+      the categories that the economies use, such as GDP, I think, are not very helpful.
+      What I’ve been writing about in the articles that I’ve done with Dirk Bezemer
+      is recreating the GDP. Let’s net out of GDP. How much is the actual product and
+      how much is the economic rent? Not a product, but a transfer payment. And you
+      find that all the growth in America’s GDP is economic rent. It’s not a product.
+      The product, the productive sector, is declining. That’s why America’s deindustrializing,
+      that we’re in a rentier economy. Well, you’re never going to have the Western
+      economies lead in recreating the statistics for GDP in this way. They want to
+      say, well, look at how powerful America is, look at our GDP. But that’s like you’re
+      saying, look at how much this little kid weighs. He outweighs the others, but
+      it’s all a tumor on his back. And so you could look at the GDP in America as a
+      financial tumor. The aim, I hope, that I would like to see in the BRICS countries
+      is they avoid the financial tumor, the economic rent tumor, the landlord tumor,
+      and the monopoly tumor. They avoid the whole thing, just as China said it was
+      going to do at the very outset, and just as Adam Smith and the whole classical
+      school of economists hoped that that would be what industrial capitalism would
+      be. But to do that, they have to go back to study the classical economists of
+      the 19th century. I’m writing a book on that now, and it’s probably going to take
+      another half year for me to finish it. But that’s exactly what I’m spending all
+      of my efforts on at present. ⁣KARL FITZGERALD: Well, thank you, Michael. This
+      work is invaluable, and it’s so good to have some of our Patreon supporters here.
+      They make… ⁣MICHAEL HUDSON: I’m really grateful to you all for joining. I mean,
+      this is why I’m writing. The whole idea is not just to sit and write my own ideas,
+      but to have them spread out. And I hope you can do everything you can to keep
+      continuing the ideas and somehow radiating them. That’s the only way that you’re
+      going to have these ideas spread because it’s not going to spread through the
+      New York Times. ⁣MATT CONNORS: That’s for sure. ⁣KARL FITZGERALD: All right. Well,
+      thank you, Michael. Thanks, everyone. We look forward to seeing you back here
+      in three months’ time. We’ll see if anything at all has changed or whether these
+      same trends of greed and rentierism continue. So let’s hope…. ⁣MICHAEL HUDSON:
+      Spoiler alert, it’s going to be the same trend. There are always new twists and
+      turns. And I guess we had to today take a step back. It’s good that Karl asked
+      me to focus on the balance of payments because that brought up all of how important
+      the categories and the structure and the accounting format is and, ultimately,
+      the tax and fiscal policy format. ⁣KARL FITZGERALD: Well done, buddy. Excellent.
+      All right. We’ll see you in a few months. ⁣MATT CONNORS: Thank you, everyone.
+      ⁣MICHAEL HUDSON: Thank you. ⁣KARL FITZGERALD: There’s cheers all around. Well
+      done, buddy. Okay. See you all. Bye. Transcription and Diarization: hudsearch
+      Editing: Kris Liti Review: ced Photo by Jonny Gios on Unsplash The post How A
+      Nation Makes Money in Their Sleep first appeared on Michael Hudson .'
+    one_sentence_summary: In a recent Patreon Q&A, economist Michael Hudson discussed
+      the lack of education on balance of payments theory in American universities and
+      emphasized its importance in understanding economic systems, while critiquing
+      the current financial framework.
+    paragraph_summary: In a recent Patreon Q&A, economist Michael Hudson discussed the
+      critical importance of understanding the balance of payments in economics, highlighting
+      its absence from university curricula in the U.S. since 1969. He criticized the
+      lack of education on how trade statistics are manipulated and misrepresented,
+      emphasizing that the figures reported in the media do not accurately reflect the
+      true balance of trade as settled in monetary terms. Hudson shared insights from
+      his early work with the Chase Manhattan Bank in 1965, where he analyzed the balance
+      of payments for countries like Chile during a time of significant economic transition,
+      illustrating the complexities and inaccuracies in the current understanding of
+      trade statistics.
+    published: '2025-10-10T23:17:28+00:00'
+  - title: How A Nation Makes Money in Their Sleep
+    url: https://michael-hudson.com/2025/10/how-a-nation-makes-money-in-their-sleep/
+    text: '*** To understand the topic of this discussion, please read Michael’s Trade,
+      Development and Foreign Debt. 2025.09.04 ⁣KARL FITZGERALD : All right. Welcome
+      everyone, to another Patreon Q&A gathering with Michael Hudson, the Hudson Roundtable,
+      where we’re lucky to be joined by Professor Michael Hudson, the world’s leading
+      critic of neoliberalism, debt, and the need for a better finance system. So, Michael,
+      welcome to the chat and welcome to all our Patreon supporters. ⁣MICHAEL HUDSON:
+      I like these meetings, and thank you for your support. ⁣KARL FITZGERALD: And when
+      we look at economics, you’ve been very critical of the fact that the balance of
+      payments theory is barely taught at university. Could you give us an overview
+      on why the balance of payments and a strong understanding of it is so important
+      and perhaps how it’s been corrupted? ⁣MICHAEL HUDSON: Well, I never said any such
+      thing, Karl. There’s no balance of payments course that’s taught in any American
+      university. And there hasn’t been since I taught in 1969. There’s no discussion
+      of how the statistics are put to work. This discussion today will talk about how
+      the trade statistics that you read about in the paper don’t have anything to do
+      with the actual balance of trade as settled in money. So, I want to tell you how
+      I came to understand what’s wrong with the statistics and where it went wrong
+      and why it went wrong. The first balance of payments study I did was with the
+      Chase Manhattan Bank in 1965. And they asked me to look at the balance of payments
+      of Argentina, Brazil, and Chile – and especially Chile – because that was where
+      one of Chase’s clients, Anaconda, was nationalizing the copper mine that it had,
+      Chuquicamata. And Citibank was the banker for Kennecott. They were turning their
+      mines over to the Chilean government. And the question I was asked was, how does
+      this affect the balance of payments? The way to find out was to go to Chile’s
+      National Bank and its balance of payments, the Balanzo reports in Spanish. And
+      what I found was something wonderful. They had the nominal dollar volume of exports
+      of copper to the United States. They then divided that into two categories: value
+      retained abroad and what Chile got actually out of these exports. And I found
+      out that what was retained abroad – Anaconda, Kennecott, and Cerro Copper was
+      the third company – [they] would buy the copper from their mines owned and operated
+      by the government, not by themselves. Chile would get the entire payment, presumably
+      at the “producers price” for long-term contracts – the key was that the U.S. companies
+      would be the designated buyers. Chile would not be in charge of WHO bought the
+      copper. But the [US companies] wouldn’t pay when they imported the copper. All
+      of these transactions were held in dollars. And they did not reimburse Chile for
+      the costs of production. These costs of production included the interest rate
+      charges that they had, the exports of U.S. capital equipment to the mines to help
+      them operate, the management fees that they had, and the cost of transportation.
+      And I realized Chile only got a small proportion of the actual copper. So the
+      figure that was reported in the U.S. balance of payments of imports of copper
+      didn’t actually mean that the United States paid in dollars for the copper. Very
+      shortly thereafter, I was asked to do a study of the balance of payments of the
+      oil industry. I had to design an accounting format for all the major oil companies
+      to send me their classified information about how they filled out the government
+      statistics and to answer a couple of questions. What I found out was that, let’s
+      say, for every $100 reported as U.S. oil imports, and this was one of the major
+      features in the American trade deficit, only about 10 cents actually was paid
+      abroad. That’s because the companies that were doing the importing, Exxon, Mobile,
+      the usual companies, and all U.S. imports of oil were from U.S. affiliates. So
+      all of the accounting was done in the head office of these affiliates. And the
+      treasurer for Standard Oil of New Jersey walked me through all of the statistics.
+      He said when we import from Saudi Arabia or other countries, we subtract from
+      the price that they get, our profits. We subtract all of the oil equipment that
+      we send to Aramco, the local oil company. That oil equipment obviously is a charge
+      against what they’re paid. We subtract the interest charges on this. We subtract
+      the transportation charges. We subtract the management fees that we charge. And
+      after all of these fees are taken, including our profits, then there’s really
+      not much that Saudi Arabia or the oil-exporting countries actually get because
+      almost all of the oil that’s imported, 100%, is from foreign branches of the U.S.
+      oil majors. And I say branches, not affiliates, because Aramco and the oil companies,
+      branches abroad, were consolidated into the parent company’s balance sheet. They
+      weren’t foreign affiliates. They were just literally consolidated, and it was
+      all done in the accounting. And I said I’ve got the statistics that all these
+      companies supply for how much equipment they send abroad. What are their payments
+      to American engineers – that they pay in dollars to the Americans that they send
+      over there to supervise production. I see the interest payments. Where are the
+      profits? And I don’t find them in any country. I looked in the Near East and they
+      said the profits are at the very end. Here’s Europe, Asia, other countries, Africa.
+      Here’s something called “International”. And I said, I thought everything is international?
+      And they explained to me, international means it’s not really a country. It’s
+      just a pretend state like Liberia or Panama. A real state has its own currency
+      and its own taxation, but these are countries that use the dollar. So we don’t
+      have to worry at all about any exchange rate risk. I think, on my website, there’s
+      a photocopy of the balance of payments of the U.S. oil industry in detail . And
+      copies of this were put on the desk of every senator and every representative
+      to get them exempt from President Johnson’s balance of payments controls that
+      he imposed to help finance the Vietnam War. Well, from that study, I turned to:
+      let’s talk about the Vietnam War. And there were a number of things that I immediately
+      saw in the balance of payments. First of all, you think of the balance of payments
+      as being the capital account and the trade account. Well, that’s not really the
+      whole picture. Where is the government in all of this? I found that when you separated
+      the government sector from the private sector, which you had to do, I was able
+      to actually find out what are the balance of payments costs of military spending
+      abroad and also of foreign aid. And the first study I did was the study of the
+      statistics on foreign aid. And in my book, Super Imperialism , you’ll find my
+      chart on foreign aid. And you may have heard politicians talk about, I think Trump
+      said, ‘we’re not going to send any more of our dollars abroad to foreign countries.
+      We’re just going to cut that outflow. We’re going to stop foreign aid; it’s a
+      drain’. And politicians have been saying that for 50 years. What I found out was
+      in the 1960s and early 70; not a single penny of foreign aid actually was paid
+      in dollars abroad. Zero was paid abroad because Congress had passed a law saying
+      that all foreign aid had to be spent in the United States. Foreign aid is not
+      to aid foreign countries; it’s to aid the United States, but using foreign countries
+      as a vehicle. So there will be foreign aid in food, sending food exports. All
+      of this grain is bought in the United States for dollars and then sent to the
+      foreign countries. The government will make foreign aid to countries that owe
+      dollar debts to the United States. It will lend them ostensibly the dollars to
+      be credited to pay interest to the U.S. bankers and bondholders that these countries
+      couldn’t otherwise afford. So foreign aid goes to the U.S. banks and the U.S.
+      bondholders. All of this remains in the United States, probably administered via
+      the New York Federal Reserve. And I went right down the line. Every kind of subscription
+      to the IMF and the World Bank, all of these items in foreign aid were all spent
+      in the U.S. But it’s actually worse than that, because when the United States
+      would give foreign aid to Egypt or other Middle Eastern countries, they would
+      have to get a give back. It wasn’t Trump who invented this. And the give back
+      was, we’ve given you dollar credits to meet payments to American suppliers, bankers
+      and farmers. But you have to give us an equal amount of your own domestic currency
+      so that we can use it to support our spending locally in your country. We can
+      use it for any nefarious purpose we want. And so the United States actually made
+      money on its foreign aid. Then finally I went to work for Arthur Anderson, and
+      I said, I want to do what I’ve done for the U.S. oil industry and do a study for
+      the whole U.S. economy. Let’s say how much of the U.S. trade and U.S. foreign
+      investment actually involves payments and how much is simply imputed as if it
+      were paid for. There’s a basic fiction underlying all of the U.S. balance of payments
+      data and that of every other country and this fiction was to make it dovetail
+      into the GDP statistics. It’s divided into the trade balance and the foreign investment
+      balance. So in the trade balance, you’ll have, for instance for oil, the entire
+      cost of foreign nominal cost of the oil that the United States oil companies import
+      from abroad as if this import money were paid to a foreign country. And then you
+      go elsewhere in the balance sheet and you have the offsets for all of this. So
+      the offsets that explain why there’s a zero net balance, which economists call
+      a wash transaction. For instance, on the investment account, there will be disinvestment
+      or investment of money in the oil industry. On the export account, you’ll have
+      the exports of machinery used in the mining of oil abroad. You’ll have payments
+      to American labor that’s a service transaction, foreigners to the U.S. All of
+      these payments that offset 100% of the oil imports are counted as if it was a
+      cost. Same thing with foreign aid. Foreign aid is treated in the government’s
+      account as if it were all going out. And then the government used to publish something
+      called Table 5 in the balance of payments reports that it did annually or quarterly
+      in the survey of current business by the Commerce Department. And they would break
+      out actual money paid abroad. And that’s where I got the statistics for how much
+      money was actually spent abroad in foreign aid and how much money stayed in the
+      United States, 100% of all of that. It took me a year to separate the trade account,
+      and I found out that America didn’t spend anywhere near the cost of its imports
+      that it reported, but also the cost of its exports. Of course, most of its grain
+      exports were paid in dollars, but a lot of its grain exports – other countries
+      didn’t really pay dollars for them because there was a foreign aid outflow on
+      the government account. That led me to say let’s separate the government account
+      and foreign aid as opposed to military spending. What I found out was on the actual
+      payments involved in exports and imports, the U.S. balance of payments in terms
+      of dollars and foreign currency back and forth was just exactly in balance from
+      1950 when I began the statistics right through 1964, or maybe could have been
+      68 when the statistics ended. The entire balance of payments deficit in terms
+      of dollar outflows was on military accounts; not foreign aid, not trade account,
+      not foreign investment abroad, as President Johnson had imagined erroneously.
+      So we were about to publish this. Arthur Anderson’s art department made very nice
+      charts. And then my boss came to my office and he said we just got a very upsetting
+      phone call. I’m afraid we’ve got to terminate your employment here. And I said,
+      what happened? What did I do wrong? Well, you didn’t do anything wrong, but Mr.
+      McNamara – I think when he was head of the World Bank – he called the head of
+      our company and said, if you publish this report, you will never get another contract
+      from the U.S. government again. And we need the U.S. government contracts. He
+      said, I feel very bad about that. We’ll give you a present, you can take all of
+      the slides, all of the pictures and the charts, and you can do whatever you want
+      with them. So, I took the chart to the NYU Business School, and they published
+      a regular bulletin. It’s an academic publication, and they were overjoyed to get
+      it. They published it as a triple issue of their bulletin, and it got quite a
+      bit of notice in Wall Street financial circles; hardly any notice in the left-wing
+      press or in the popular press, generally. A few months later, the Federal Reserve
+      Bulletin – there was a major review and I forget what publication it was – the
+      Federal Reserve published a study of – I think it was in the American Economic
+      Journal of American Economic Literature or something like that. It was saying,
+      let’s look at all these publications by the NYU Business School. And it reviewed
+      them all, and then it got to my report. It said the fact that Dr. Hudson finds
+      that military spending is the root of the balance of payments deficit does not
+      give confidence in his study. And I thought, I’m using all the government figures.
+      What happened? I talked to my class – one of my students worked for the Federal
+      Reserve as one of their staff economists. He said let me give you a copy of an
+      internal memo that we got. The internal memo said my figures were all right, but
+      that we must not publicize it because that would spur the anti-war movement and
+      that was against American foreign policy. So that was yet another reason why I’m
+      the name that must not be spoken in government statistics. It was against the
+      U.S. interest to actually do a financial analysis of what are the actual effects
+      on the dollar’s exchange rate in terms of the foreign exchange market, the demand
+      for dollars versus the demand for foreign currencies to cover exports, foreign
+      investment, trade, government transactions, and military. The government did not
+      want to highlight the fact that the weakness of the dollar and what had forced
+      the dollar off gold, as I describe in Superimperialism , was because of military
+      spending abroad. That was the only drain. There was no drain on the trade account,
+      no drain on foreign investment account, and no drain on foreign aid. The entire
+      downward pressure of the United States; the balance of payments deficit started
+      with the Vietnam War – I’m sorry, with the Korean War – in 1950-1951, and got
+      worse and worse and worse from there. Later, one of the Wall Street firms asked
+      me whether I could try to redo the study. And I thought, it took me an entire
+      year of my life to do the study of the U.S. balance of payments. That’s how I
+      ended up learning about the actual statistics. And if you wouldn’t actually do
+      the actual statistics and see how they’re put together proverbially, how a sausage
+      is made, you’ll see it’s not what you would expect. I wouldn’t have understood
+      the difference between a financial analysis and an imputed analysis, something
+      as if it were there. And the idea of separating the trade account and investment
+      account was to dovetail into the gross national product categories that were developed
+      as part of the GDP that won the Nobel Prize. And I can understand the logic of
+      the GDP, but they should have had two measures. Before the GDP, the government
+      actually recorded the specific foreign exchange effect of U.S. exports and imports.
+      All that was changed in order to fit into this hypothetical GDP account. And the
+      problem with the GDP is not only wash transactions like this, there are all sorts
+      of transactions in the national income account that don’t involve income at all.
+      For instance, one of the big contributors to GDP and national income in the United
+      States is imputed homeowners’ rent. As many of you have seen rent charges going
+      up and up and up very sharply in the United States, as you’ve had computerized
+      advice to landlords as to how to raise prices – they all act as a monopoly to
+      really squeeze the renters. When the Bureau of Labor Statistics will go to the
+      various households that it does as their test study – they’re in miniature to
+      sort of blow up these statistics to a national level. And one of the questions
+      they ask the household: if you’re a homeowner and if you had to pay rent to yourself,
+      if you were the landlord and had to pay rent to yourself, how much would you rent
+      out your home for? As you can imagine, more and more homeowners say we’re sure
+      glad we bought our home, because if we wouldn’t have bought our home, we’d be
+      paying this much more and this much more and this much more for rent every month.
+      The GDP says we’re counting rent as actual product. And so the GDP as a product
+      has the increasing rental charge of paying for your home, or presumably a commercial
+      property, as if it’s an actual product helping GDP grow instead of stifling GDP
+      growth; deindustrializing the economy by charging so much that the homeowners
+      and renters cannot afford to use their income to buy actual goods and services,
+      as we’ve talked about before. ⁣KARL FITZGERALD: Let’s head back towards balance
+      of payments theory. Maybe we can do a special on GDP sometime because I know you’ve
+      got a lot to say there. But what you’re essentially saying is that it is crucial
+      that developing nations understand the balance of payment theory, particularly
+      when the IMF and World Bank use current account deficits as a pressure point.
+      ⁣MICHAEL HUDSON: If they’re a raw materials exporter, then, of course, they understand
+      this. And as I said, the model report that I found of all of the central banks
+      that I looked at, and I’d walk the 50 feet to Chase Manhattan’s library, where
+      they had the central bank reports of every country for every year, and, of course,
+      Chile had to calculate for itself ‘what is our balance of payments actual situation?’
+      How much money do we actually get from our copper exports and our guano exports?
+      Gold exports were a result of copper refining; electrolytically, the gold falls
+      to the bottom and you have the anode electrically collecting all of the copper.
+      So countries that export raw materials have to make this calculation. They know
+      about it. I don’t know whether the financial people who actually compile the balance
+      of payments try to interact with the GDP people and say, wait a minute, how do
+      we dovetail what we’re doing with a reality-based payments account for actual
+      payments instead of imputed payments? But they certainly know what they’re doing
+      and they know that they don’t get all of the money from the raw materials that
+      they make. So the problem is really in the industrialized nations, and especially
+      the United States, which is on the opposite end of the spectrum, that doesn’t
+      want to make it clear to foreign countries that you think that you’re getting
+      rich exporting your copper and your cocoa and your oil and other raw materials.
+      But you’re not anywhere near as rich as you think you’re getting because you only
+      get a little bit of this money for you, thanks to the fact that American companies
+      own your natural resources, or English and Dutch and other European countries
+      own your natural resources and you’re really not getting as rich as you think.
+      If the United States actually published, or sponsored the publication, of a realistic
+      financial analysis, this would show how many of the Global South countries are
+      not developing. The aim of the World Bank and the IMF is to prevent them from
+      developing. You could say they’re malstructured or stifled, but certainly not
+      developing. The purpose is to show that you can’t afford to pay your existing
+      foreign debt to bondholders and bankers – unless you borrow the money to pay your
+      debts. In other words the foreign debt – Global south foreign debt scheme – is
+      a Ponzi scheme. The United States and other governments, especially the IMF, will
+      lend them the money. The International Monetary Fund just lent Argentina an enormous
+      amount of money to pay its foreign bondholders because they said, you’re a Fascist
+      country, you’re a Zionist country, of course, we’ll give you the money to pay
+      the bondholders. And by the way, tell your bondholders that we can’t do this forever.
+      Let them use this money we’re lending you to get out of the Argentine economy
+      and put their money in dollars or gold or hard currency. Our job is to subsidize
+      capital flight by the client oligarchies in Argentina or other countries. To get
+      their money out and to empty out their countries so that once Milei’s right-wing
+      government is replaced by, presumably, a left-wing government, the left-wing government
+      will be absolutely strapped for cash and will have to prevent devaluation by going
+      to the IMF and say, if we devalue, then we’re going to have to lower the standard
+      of living of our labor because our workers are going to have to pay much more
+      for all of their imports, just like in the United States. And the IMF will say
+      if you, left-wing government, will act as a right-wing client dictatorship, of
+      course we’ll lend you the money. That’s the international financial game. And
+      that’s what you see if you do an actual financial analysis instead of the as-if
+      hypothetical analysis. Wouldn’t it be nice if they actually earned all the money
+      that they report on their export accounts? ⁣KARL FITZGERALD: Danny Wheel writes
+      in the comments: ‘We see the same thing here in Ecuador. Rubio got here last night,
+      but the mines are being subsidized by the state, while people have to bring their
+      own medicines to filthy public hospitals left to rot for privatization between
+      the IMF and export economy, meaning we have no industry except extraction. Poverty
+      is beyond comprehension, and violence is the biggest in the world. This is real.
+      The things Michael is talking about affect real people. It’s a casino scam backed
+      by the military of the U.S., but this is predominant all around the world, isn’t
+      it? And nations need to understand what is happening.’ ⁣FRANK MOELLER: [I’ve been]
+      listening [to] and read several books by Professor Hudson. He talked about surplus
+      balance of payments in a recent podcast and I was wondering about surplus balance
+      of payments and how they use that for housing, education, human capital development,
+      healthcare. And if so, can we put a dollar value on that, per person or per capita,
+      over there and how that’s distributed for those utilizations? ⁣MICHAEL HUDSON:
+      Well, you wouldn’t get that material from the balance of payments accounts. If
+      you talk about medicine, I guess there would be medical supplies to foreign countries
+      as an outflow of government foreign aid. And on the export credit side, you’d
+      have exports of U.S. pharmaceuticals and also on transfer payments, payments to
+      U.S. doctors or U.S. embassy personnel, or State Department personnel, or other
+      individuals doing all these payments that are defrayed in the United States. But
+      they certainly don’t give these other countries dollars to spend. They only give
+      dollars to Ukraine or Argentina or client dictatorships. They have a very tight-fisted
+      control to make sure that other countries don’t actually receive dollars from
+      the United States, but only U.S. firms and suppliers and creditors get these dollars.
+      You can do the per capita, but that’s something else. It’s not something I’ve
+      got into. That’s all domestic statistics you’d have to use. ⁣KARL FITZGERALD:
+      And Danny Wheel has a few questions coming through as well. Danny, do you want
+      to come on screen and ask Michael some questions? It’s great to see some of our
+      transcription team here; Ced and Kimberly do a great job for Michael. ⁣ And they’re
+      there, don’t you worry. So Danny’s microphone is down. He’s asking about Social
+      Security payments here somewhere. During the 60s, Social Security funds, we were
+      told could never be touched for anything but Social Security. These funds were
+      used for the war, as far as I know, and want to know if Michael can verify. ⁣MICHAEL
+      HUDSON: Of course, the fact is there are no funds there. As George W. Bush said,
+      there’s no money there. All there is, is a promise by the United States government
+      to pay for the Social Security contracts that they’ve signed. Social Security
+      has run a surplus for many years. The role of this surplus was to finance military
+      spending and to finance the budget deficit. The budget deficit was financed not
+      only by tax payments by the U.S., but by using Social Security as a tax. That
+      money was paid to the government and the government used it for operations. And
+      against this government’s use of it for operations, the government had a future
+      liability, the liability to be paid to the Social Security recipients. So, right
+      now, the talk of the Republicans in Congress, which was really initiated by President
+      Obama; Obama set out to work with the Republicans to mobilize the Democratic Party
+      to abolish Social Security and have the Social Security funds available to be
+      invested in the stock market. I think, in 2007, I wrote a cover story for Harper’s
+      magazine tracing this. This was the plan that Obama had when he was trying to
+      work with the Republicans to do just that. There’s zero money in the Social Security
+      account. There is a liability of the U.S. government to pay Social Security. But
+      what the Republicans say was: if we pay Social Security, we can’t cut the taxes
+      on the rich. Our economies run – industry and employment are just an overhead.
+      The purpose of the U.S. economy is to generate money for the rentier 10%. It’s
+      to generate money for the banks and the landlord. Forget the people. Let’s just
+      take all the money away from them and give all to the 10%. Let’s just speed up
+      where the whole economy is going over the long-term trend. Obviously, I’m very
+      annoyed at this, as you can tell, but the Republicans and Democrat leadership
+      have agreed: let’s not pay American labor as much, this is the problem. Because
+      the Americans are doing something that is very unpatriotic; they’re living longer.
+      And the government says you’re living longer than we’d calculated. You’re supposed
+      to die when you’re 75 years old, maybe 78 years old, and you’re not dying on schedule.
+      And that means that we have to pay much more money. And if we pay you, we can’t
+      pay our campaign contributors; the banks, the financial sector, the landlords,
+      the monopolists, and the rentiers. And that’s not good for the stock and bond
+      market, which is really what the U.S. produces. You can see the hypocrisy here.
+      And there’s so little discussion of the monetary and fiscal policy in this country,
+      because once you look at it, you realize how totally biased and unfair the whole
+      system is constructed to benefit the wealthiest; the creditors and rentier interests,
+      not the actual wage earners. It’s terrible. ⁣KARL FITZGERALD: Is there such a
+      thing as a good current account deficit, where it’s funding something productive?
+      ⁣MICHAEL HUDSON: No, there’s no attempt at all to make any such calculation. I
+      mean, what is productive? And even what is the current account? The current account
+      surplus or deficit is, in principle, if you study trade theory, is supposed to
+      be balanced by the capital account. So if you’re running an export surplus, that
+      enables you to, on investment accounts and capital accounts, invest money abroad.
+      Or if you invest money abroad, that provides dollars for foreign countries to
+      run a trade deficit with you. There’s this hypothetical balance between current
+      and capital account. But where are the gunboats? Where does the military fit into
+      all this? Is it a current account? Is it a capital account? This is fictitious
+      to oversimplify and assume that the capital and the current accounts simply offset
+      each other and the result is zero. It does work that way for the private sector,
+      I found. That’s what my statistics showed. But the wildcard is the government
+      military spending abroad. ⁣KARL FITZGERALD: Diana DiRienzo asks, ‘does social
+      security add to the deficit? When government spends domestically, they get more
+      back in tax revenue than originally spent within a short time, don’t they? Also,
+      can we see the data on how Social Security is running out of money? Reagan doubled
+      the FECA to cover the baby boom requirements. And why can’t the government just
+      pay Social Security without requiring FECA payments?’ ⁣MICHAEL HUDSON: Well, it’s
+      not running out of money at all because there’s zero money there to begin with.
+      There is no money there. And again, George W. Bush recognized that fact when he
+      said it’s really just all hypothetical. When people say Social Security is running
+      out of money, they say, we’re not able to give the tax cuts if we also pay social
+      Security and health care to American workers. Something has to give, and what’s
+      going to give is Social Security so that we can cut the taxes. How are you going
+      to use the government revenues compared to the government spending? And as we,
+      MMTers have pointed out, and Stephanie Kelton has written about in a recent book,
+      what’s left out of the account is not just government revenues and expenditure,
+      it’s government money creation. The Federal Reserve only creates money to give
+      to banks to lend out to invest in stocks and bonds and real estate and gambling
+      – such as derivatives. The Federal Reserve does not create money to be spent into
+      the economy. That’s what the Treasury could do and what the Treasury did in the
+      Civil War with greenbacks and other times. It’s how governments finance war. But
+      all of this is a pretense of seeming to come up with a plausible way of thinking
+      to create a narrative that makes you think, according to that narrative, gee,
+      the government doesn’t have enough money to pay Social Security if it cuts the
+      taxes on the rich, if it goes to war and spends its money on the military. You’re
+      seeing this very clearly in Europe right now. That’s what the whole political
+      fight is with Merz and Germany and the others. They say we’re limited by the rules
+      of the Euro and the European Union as to how much of a deficit we can run. The
+      U.S. is not subject to any limit on the deficit; the Europeans can’t. And so if
+      the Europeans – the entire growth in European GDP is spent on military spending
+      that’s now promised, as a contractual promise by the German and other European
+      governments – if all of the equivalent of the growth of GDP is paid on the military,
+      they say we’re going to have to cut back the subsidies we’re giving for consumers.
+      And this is what’s causing so many political problems in Britain for Starmer,
+      for instance, saying, now the government says, since we’re spending so much money,
+      giving to the Ukrainians to fight Russia, we’re not going to be able to give you
+      the electricity subsidies that we were giving you before because we’re not any
+      longer getting gas. We have to pay much more for our gas and oil than we had to
+      before we broke off relations with Russia. You’re having Europe cut back social
+      spending in order to become a militarized economy to sort of try to re-fight World
+      War II, hoping for a different outcome this time around. ⁣KARL FITZGERALD: It
+      seems that over the arc of time since we’ve moved into the dollar hegemony era,
+      the post-gold standard, that balance of payment theory and understanding has become
+      even less understood, less important. Would you like to describe how that has
+      played out? ⁣MICHAEL HUDSON: Well, I think I just did. The problem began with
+      trying to dovetail it into GDP. Nobody really expected government military spending
+      to play such a major role in the balance of payments and to create such a deficit.
+      But certainly, I think, as I’ve mentioned many times before, including in this
+      group, in the 1960s, every day around noon, we’d get together, the Federal Reserve
+      would report on the Treasury’s holding of gold, and we’d watch how far the gold
+      has gone down. Every U.S. paper currency, the dollar bills you have in your pocket,
+      and all the denominations had to be backed 25% by gold. And as the currency went
+      up, as the economy expanded or inflated, the gold supply was going down. And we
+      could see that, at some point, the government was going to run out of gold. And
+      the newspapers would be denouncing General de Gaulle for making a big thing about
+      saying, we don’t like American military spending. We’re going to cash in all these
+      dollars that America spends in Vietnam and Cambodia and Laos and Southeast Asia.
+      These are French territories, and the French banks there send their dollars to
+      Paris, and we cash them in for gold right away. Well, Germany actually was cashing
+      in even more dollars for gold than France was. If you talk about economic reality,
+      it’s going to be different from the reality that people are told in the mainstream
+      press. And it’s very difficult to maintain this fictitious narrative that people
+      are being taught. ⁣KARL FITZGERALD: So what about the classic twin deficits periods
+      in the 1980s and how that contributed to sustained deficits? ⁣MICHAEL HUDSON:
+      What in the 1980s? ⁣KARL FITZGERALD: The twin deficits period, the large fiscal
+      gaps plus the strong dollar. How did that influence U.S. fiscal policy? ⁣MICHAEL
+      HUDSON: Well, once countries no longer could cash in the dollars that were being
+      pumped into the economy for gold, the only choice that they had was to buy U.S.
+      government securities. They had to; these were safe. This was before the government
+      began to grab Russian money and Venezuelan money and any money of countries that
+      it didn’t like. It was the deficit spending from the military in the 1980s that
+      pumped dollars into the economy that ended up in the hands of foreign central
+      banks that invested this money in U.S. Treasury bonds and bills and notes to finance
+      the budget deficit. So Americans didn’t have to – the government didn’t have to
+      tax Americans. They just had to spend more military money abroad and let the foreign
+      central banks buy the securities. Circular flow. ⁣KARL FITZGERALD: Goodness me,
+      it makes it so simple when you say it like that. ⁣MICHAEL HUDSON: That’s why people
+      don’t discuss it. It is simple. But how do you really make it so complicated that
+      nobody’s going to discuss it? You get a whole different set of unrealistic categories.
+      That’s what economics and the role of economists is for. ⁣KARL FITZGERALD: And
+      so Bernanke’s global saving glut view was built on that play that occurred through
+      the 90s. Is it the same thing there? ⁣MICHAEL HUDSON: Sure. The global savings
+      glut was neoliberalism. They stopped regulating economies. They permitted monopolization.
+      The savings, you could say it was a money creation glut. What were these savings?
+      The banks would lend money to their major customers, homeowners and real estate
+      sector, 80%. So the more money that the banks would create, it would push up real
+      estate prices or corporate bond and stock prices. You had the economy flooded
+      with Federal Reserve money, and that created the biggest bond rally in history
+      from the time of Paul Volcker in 1979 that brought down the Carter administration
+      right down to just a few years ago with the zero interest rate policy. So it’s
+      not a saving. The pretense, and this has gone back to the fictions of the late
+      19th century. The idea that if you’re a billionaire, you’ve saved up your money.
+      And the way that Böhm-Bawerk, Eugen von Bawerk, and the Austrian school said was,
+      we have to realize that there’s a reason that interest charges are really a product,
+      and the creditors play a very productive role in the economy. They make a sacrifice.
+      Their sacrifice is abstinence. And by not spending their money on consumer goods
+      and gratification, they defer their gratification to later. And that’s how you
+      measure the interest rates. And so all this money that the billionaires have is
+      saved up by not consuming. Well, that led Marx to quip, gee, ‘I guess the Rothschilds
+      must be the most abstinent family in Europe’. And do you think Donald Trump got
+      his additional $5 billion that he made in the last few weeks through junk crypto
+      currency? He didn’t save that money. That money was just sort of – it’s all created.
+      So the very idea of referring to savings, the vocabulary is all a euphemistic
+      vocabulary to make it appear as if creditors and landlords and monopolists pay
+      a productive role instead of the rent that they get being in the character of
+      transfer payments, zero sum. What the landlords and bankers and monopolists get
+      is a transfer of income from the consumers or the renters or the debtors to the
+      creditors with no quid pro quo. And as John Stuart Mill said, and I’ve repeated
+      often enough, landlords make their rent in their sleep. There’s nothing they do
+      in providing a productive service. So of course, you want to create an economic
+      vocabulary that makes it appear as if the wealthy people get their fortunes by
+      being productive instead of being parasitic. That’s what my book, J is for Junk
+      Economics , is all about. Going over the vocabulary and that’s used, trying to
+      demystify it. ⁣KARL FITZGERALD: What about the U.S.’s exorbitant privilege? It’s
+      almost as if a nation state has set up a system to create money in their sleep
+      . And over the decades, the U.S. has earned higher returns on its foreign assets
+      than it pays on its liabilities, as you spelled out in Super Imperialism . So
+      is that really what this whole balance of payments interplay is all about with
+      the dollar exchange? ⁣MICHAEL HUDSON: Yes, in one word. You’ve expressed it very
+      concisely, Karl. ⁣KARL FITZGERALD: Okay. Well, I thought you’d have a rant to
+      go on that one for us. ⁣MICHAEL HUDSON: Well, you said it clearly; you don’t have
+      to rant when it’s all so clear. ⁣KARL FITZGERALD: Okay, can we get anyone to come
+      on screen and ask some questions? I know this is all complicated material, but
+      often it helps as we are all trying to grasp it. ⁣MICHAEL HUDSON: Anything. ⁣MICHAEL
+      HUDSON: You know, we have a half hour to go. ⁣MATT CONNORS: I have a question
+      if no one else does. ⁣KARL FITZGERALD: Go on, come on through. ⁣MATT CONNORS:
+      I’ll start by just expressing gratitude to Professor Hudson for his work. Immensely,
+      immensely thankful. He has a way of pointing us in a direction that we’re not
+      looking. I remember reading an essay shortly after the beginning of the recent
+      Russia-Ukraine conflict, where he called it the third war against Germany by the
+      U.S. And I thought I was so confused until I wasn’t. And you know, that’s extremely
+      helpful. Similarly, when people started getting so excited about the emergence
+      of BRICS a couple years back, Professor Hudson was consistent in also sharing
+      a little bit of enthusiasm, but pointing to the fact that they hadn’t come up
+      with a system that really was going to let them leave the dollar behind. And I’d
+      be interested in hearing his analysis of whether they’ve gotten better at that,
+      whether that’s on the horizon. You know, it’s basically a specific question that’s
+      within my bigger question of how much of this rigged system is still going to
+      be standing after all the mistakes or missteps that current leaders in the West
+      have been making. ⁣MICHAEL HUDSON: Well, I did two shows on this week. In today’s
+      Naked Capitalism, and on my website, I have my discussion with Glenn Diesen on
+      this . And I just did an 11 o’clock a.m. interview today with Nima on Dialogue
+      Works on this very topic. They have not yet put together a system of how they’re
+      going to restructure their economies to make it something different. All that
+      the countries have been doing really since 1955 has been to complain ever since
+      the Bandung Conference. Isn’t the world unfair? But you have to go beyond saying,
+      yes, the world’s unfair. What are we going to do about it? And the solution has
+      to be to change the whole tax policy around. That’s really what they have to do.
+      Number one, they’re unable to pay their foreign dollar debts and foreign currency
+      debts, without sacrificing their own economic growth. Number two, the BRICS countries
+      and the Global South are faced with a problem. Foreign investors from the United
+      States, England, and Europe own their raw materials, their oil, their mining,
+      their forests, their plantations, and they extract rent. And these foreign companies
+      that own raw materials extract raw material rents from the Global South countries
+      and other countries today. They’re playing the same role that landlords played
+      in Britain and France and Europe in the early 19th century, charging ground rent
+      for everybody. It’s a deadweight charge. It’s a transfer payment that classical
+      economics set out to free economies from, to create a market that there was no
+      economic rent that ended up in private hands. And Ricardo described value and
+      price and rent theory in chapter 2 of his principles of political economy. He
+      said land rent includes natural resource rents. He didn’t say monopoly rents,
+      and he didn’t say financial returns, but at least he said raw materials. He said
+      it’s price without cost value. And his labor theory of value was designed to say:
+      what part of the price system that we pay is not value? What price is it that
+      is not really a necessary cost of production? If all the costs ultimately are
+      resolvable into labor; land is provided by nature, raw monopolies are created
+      by legal systems, and bank extraction of interest and financial charges is also
+      an institutional creation, not part of necessary labor. The whole doctrine of
+      classical rent theory, from the Physiocrats to Adam Smith to John Stuart Mill
+      to Marx, to Thorstein Veblen, was all about how do we bring the actual price structure
+      in line with the actual cost of production so we don’t have any zero-sum transactions,
+      any more free lunches, any more payments to a rentier class that makes money in
+      its sleep. That was what was so revolutionary about industrial capitalism. It
+      was evolving into socialism by freeing economies from the rent-extracting classes.
+      Well, then there was a whole anti-classical reaction, early 20th century. By World
+      War I, you had the rentiers fight back. The banks and real estate interests join
+      hands, saying there’s no such thing as economic rent. Everybody earns whatever
+      they make and they have earned whatever fortunes that they have been able to accumulate.
+      We’ll call it saved up. Even though it wasn’t saved up, it was made in their sleep
+      without their playing any role in saving at all. So you had the whole economic
+      vocabulary designed to create a fictitious narrative of how economies work, and
+      that fictitious narrative required negating the whole century of classical value,
+      price, and rent theory that was designed to minimize rent. That’s a long answer
+      to your question, but I’ve tried to provide the context for it. ⁣MATT CONNORS:
+      Thank you very much. I’m sorry. I have more questions, but I don’t want to hog
+      air time here, so I’ll let other people go. ⁣MICHAEL HUDSON: The questions are
+      all a good question. I’m always glad to have it. I’ll let Karl decide what to
+      do. ⁣FRANK MOELLER: Okay. My question is: how does China subsidize education,
+      healthcare, transportation, and communication so that they have competitive wages
+      for their employees? Whereas in this country, we have exorbitant costs for insurance
+      and education. There’s a $1.7 trillion student debt. It’s all financed through
+      loans. How does China finance their education process and all these other attributes
+      that society partakes in? ⁣MICHAEL HUDSON: They have taken finance, money creation,
+      and debt creation out of the private sector and made it a public utility. And
+      instead of banks creating money just on their computer keyboards, the People’s
+      Bank of China, the central bank, creates money. It’s as if the U.S. Treasury were
+      simply printing banknotes to spend into the economy. So if you’re creating your
+      own money, then the government creates the money and decides, what are we going
+      to spend our money on? We want to spend it on providing free education. We don’t
+      want people to have to pay so much. We want to make sure that we can lower the
+      cost of production. And we want to do just what an industrial capitalist economy
+      would want to do. We want to minimize the cost of production to make our economy
+      more competitive with other economies. And we make it more competitive by minimizing
+      the cost of living that employers have to pay their wage earners. And we don’t
+      want the employers in China, whether they’re public sector or private sector employers,
+      to have to pay their wage earners money to just pay for education. So China provides
+      education freely. We don’t want the employees to have to spend their money on
+      Obamacare to pay the big medical insurance conglomerates and the pharmaceutical
+      companies. So we’ll provide medical care. This was good conservative economic
+      policy in Britain in the 19th century when Benjamin Disraeli said, “Health and
+      health care are all.” And that was what the Conservative Party was all about,
+      making British labor more competitive by having public health minimize the cost
+      that labor had to pay. Well, the same thing with housing. China has not really
+      followed through treating housing like it’s treated education and health care.
+      And that’s been a problem that it’s now coming to realize is a problem. But it’s
+      trying to do it. China does not have a banking sector that lends money to Chinese
+      companies to buy out other Chinese companies and then borrow more money, once
+      they bought out the company, to buy the company and then pay it out as a capital
+      dividend to the stockholders or to buy its own stocks. None of these financial
+      shenanigans that make money by purely financial engineering in the United States
+      are done in China. Their economy is designed as if by engineers, and most of the
+      Central Committee has either an engineering background or a public administration
+      background so that they can avoid treating their economy in the financialized,
+      privatized way that the United States economy works. ⁣MATT CONNORS: Thank you.
+      ⁣MICHAEL HUDSON: Does that make it clear? ⁣FRANK MOELLER: Yes, it does. Thank
+      you. ⁣MICHELLE ROMINE: I just want to ask him, if the BRICS countries can arrange
+      another alternative system at some point in time, will they then declare odious
+      debt and nationalize their own resources back? ⁣MICHAEL HUDSON: Well, they have
+      to act together to do that. They can’t do it one by one because they could all
+      be picked off and their foreign holdings could be grabbed just like Paul Singer
+      tried to grab Argentina’s assets to pay bondholders. So it has to be done all
+      together. And they have the perfect excuse to repudiate their debts now because
+      Donald Trump’s tariffs have prevented them from earning the dollars to pay their
+      bondholders. He’s closed the U.S. market to them. And if they can’t export to
+      the U.S. market, there’s no way they can get the dollars to pay the foreign debts.
+      So they can join together and say, this is the Donald Trump debt holiday . This
+      is it. He’s made it impossible. He’s destroyed the ability to pay the debts. We’re
+      not going to sacrifice our growth and let the United States destroy it. Donald
+      Trump’s policy is to say, we will create chaos for your economy, declare war on
+      Russia and China and do to you what has happened in Ukraine. They can say, we’ve
+      chosen the path of civilization. And so you have a fight between civilization
+      and what’s called, now, late stage barbarism. ⁣MATT CONNORS: I’m going to jump
+      in with a quick question. Michael started out talking about Chile in 1965, if
+      my memory is working for a one and a half hour stretch here. Any thoughts on Chile’s
+      ability to come back to the question of getting out from under the Pinochet constitution
+      that they tried to rewrite and it failed? Did they learn from that? Or did other
+      countries watching them learn from it? The idea that a foreign country can own
+      all their raw material, their mines, and all that kind of thing was my understanding
+      of what they were trying to do. Was that a one and done? And now they’re in even
+      a weaker position to try something like that? ⁣MICHAEL HUDSON: It’s a total mess
+      down there. Pinochet introduced this rip-off system of pensions so that companies
+      could simply invest – they’d pay pension money to the workers to be paid in their
+      own stock, and then they’d organize the company that employed the workers as a
+      subsidiary of the bank holding company. Companies were organized as what they
+      called “grupos,” a holding company and the private company. So that the Chilean
+      company would go on and on, and then it would say, one day, we’ve just paid all
+      the money in the treasury to ourselves. We’re broke. I’m sorry, we’ve wiped out
+      all the pension debt. We have to go under. We’ve sent it all to our grupo, our
+      bank head, and they’ve wiped out all the pensions. So I’ve been appalled at Chilean
+      politics. I cannot understand why they’ve been so bad ever since I began to follow
+      it in the 1960s. We were all watching President Frey and how he was mismanaging
+      the economy. Then Allende mismanaged the economy by this sort of vulgar Marxism
+      that ignored the land question. Chile has the most serious land reform problem
+      in Latin America. Vast plantations and the lowest farm productivity, yet it has
+      the highest natural fertilizer resources in all of Latin America. Guano, that’s
+      one of its major exports. It’s just an example as to how not to run an economy.
+      And we’re all using that as, you know – Chile is the self-destructive, just utterly
+      mishandled economy in Latin America. I don’t understand how they can flounder
+      so badly. So, there’s no answer to half of your question. How do you explain why
+      people are so incompetent? ⁣KARL FITZGERALD: Okay, thanks, Matthew. We’re going
+      to move on to Wendell, who has put his hand up. So, Wendell, do you want to come
+      in? ⁣WENDELL FITZGERALD: My favorite economist, which Michael knows about, is
+      Henry George, who suggested that a full 100% tax be levied against unearned income
+      from ownership of land and other monopolies. ⁣MICHAEL HUDSON: Why do you say Henry
+      – why not say Adam Smith? Why not say John Stuart Mill? You could run down the
+      line with the economists. They were all saying that. ⁣WENDELL FITZGERALD: Let’s
+      have an actual free market. The way you get a free market in land is that you
+      don’t let people keep the rent of land that they don’t actually create. The community
+      creates that value. So let’s pay it to the people who actually create it. Marx,
+      and I mean, Adam Smith and Ricardo, yeah, absolutely. Henry George. ⁣MICHAEL HUDSON:
+      Here’s the problem: George was a journalist 150 years ago. And now, all this rent
+      is privatized not to a hereditary landlord class anymore, not to the class that
+      he described, that George described so well in the Irish land question. The rent
+      is paid to the banks. And I don’t think neither George nor any other economist
+      of his time anticipated that. Yes, you have the free market mentioned in housing
+      and real estate. Anybody can buy a home or building by themselves. But almost
+      everybody, in order to buy this property, has to borrow from a bank. And they
+      compete with other borrowers to get the mortgage loan, to buy the home or the
+      commercial building. They agree to pay the interest to the bank. And so most of
+      the interest and the land rent in the American economy is paid to the banking
+      system. There’s no successor to George that is saying these things today. It ended
+      up, it turned out, that the bankers threw all of their weight behind the real
+      estate interests, realizing that whatever the government cut in taxes against
+      the land would be free to pay the economic rent as interest to the banks. So the
+      real question in every economy today is not whether the landlords or homeowners
+      or the government will get the land rent. It’s whether the banks or the private
+      landlords will get the rent. The government obviously has not taxed the rent,
+      and whatever the government has failed to collect ends up being paid to the banks.
+      That’s the problem. That’s what financialization is. And that’s why the finance
+      capitalism that’s occurred in the last century is so different from the outlook
+      for industrial capitalism, as it seemed to Adam Smith, John Stuart Mill, and Henry
+      George in 1879. ⁣WENDELL FITZGERALD: So what’s the solution? I’m not disagreeing
+      with you. What’s the solution that you propose? Is there a tax solution? ⁣MICHAEL
+      HUDSON: Yes, of course you have to tax the land. But today, if you tried to tax
+      the land, it’s much more difficult than it was in George’s day, because if you
+      tax the land, the land’s rent, the rent is already pledged to the banks to pay
+      mortgage interest. The banking system will go under. Well, I’m all for that, quite
+      frankly. Yes, the banking system has to go under. You have to, in order to have
+      the land tax that Henry George and Adam Smith and John Stuart Mill and Karl Marx
+      all supported, you have to deprivatize banking and you have to wipe out all of
+      the banking and creditor claims that are already, for 30 years in advance, claims
+      on this land rent to be paid to them, not paid to the tax collector. ⁣KARL FITZGERALD:
+      Yeah. Can we, we’re trying to specialize on the balance of payments in this discussion.
+      We often cover this topic. And we’ve only got a little bit of time. So Wendell,
+      I hope you don’t mind if we move off our favorite topic. But yes, I’m interested,
+      Michael, Frank’s question earlier about China. Is there a country anywhere where,
+      in terms of trade theory, comparative advantage still rules? Where they do pursue…
+      ⁣MICHAEL HUDSON: Trick question. It never held. It was alway s my whole theory
+      of trade development and foreign debt. The whole theory of comparative advantage
+      was, if you read my book, it was all fictitious. It never worked. It never held.
+      ⁣KARL FITZGERALD: But China has had this huge trade surplus because they’ve had
+      a comparative advantage in manufacturing. So, you know, how does trade policy
+      work for them? They have this conundrum of having all these treasury bills, what
+      are they going to actually do with them? ⁣MICHAEL HUDSON: It doesn’t have a comparative
+      advantage at all. It has an absolute advantage. There are certain costs in America
+      and the world economy that are common. Every country, except the United States
+      now, has to pay the same price for its copper, steel, and oil, and this makes
+      absolute cost structures the key. Ricardo’s theory of comparative advantage, to
+      make a long story short, was to show that Portugal was the winner in trading with
+      England and that the solution was that other countries should provide raw materials
+      and depend on English manufacturers and monopolies. This was garbage, garbage
+      from the beginning. And I go over that in my trade theory book. But China does
+      – of course, it has an advantage because it’s followed the original plan of the
+      classical economists. You minimize economic rent overhead and you streamline the
+      economy. So there’s no parasitic private financial sector, no parasitic rentier
+      class. And at least President Xi has said that housing is to live in, not to treat
+      as an investment good. And I think they’re beginning to try to move in that direction
+      these days. What China has done is follow the logic of industrial capitalism.
+      They call it socialism with Chinese characteristics. They could call it industrial
+      capitalism with Chinese characteristics because it’s exactly what they’re following;
+      the same path by which Britain and Germany and the United States organized their
+      industrial takeoff. ⁣KARL FITZGERALD: Well, until the last 10 or 15 years, where
+      the FIRE sector, particularly the real estate sector, got power, got in control,
+      and now we have all these ghost cities in China. So it’s sad to see that, even
+      there, they’ve fallen victim to the rentier economy. We’re talking balance of
+      payments, and I’m not sure we’ve talked about it today, but transfer pricing.
+      What role does that play with multinationals using transfer pricing to write down
+      their tax obligations in various nations? ⁣MICHAEL HUDSON: It’s fictitious pricing.
+      They organized a series of multinational shells and they made sure that – here’s
+      how the oil industry did transfer pricing: all of the oil that was produced in
+      the Middle East and other countries would be sold to a corporation in Liberia
+      or Panama that had zero taxation. The Liberian and Panamanian affiliate of Standard
+      Oil or Saccone or any other oil company would then resell this oil at a very high
+      price to the refineries in the United States or in Europe. And the price of the
+      affiliate in this offshore banking enclave, these sorts of fictitious corporations,
+      all of the profits would be made there; there was no profit given [due to ] the
+      price they charged at the downstream end in countries that had an income tax.
+      There was no income tax in Liberia or Panama. And under the tax treaty, a corporation
+      can basically follow the tax rules of the conglomerate and can follow the tax
+      rules of wherever its big trading company is located. That’s why, when I asked
+      the treasurer of Standard Oil, where are the profits made? And he answered, they’re
+      made right here in my office. And he said, and I declare them to be made in Liberia
+      or Panama because there’s no tax there. And so we get the entire profit – and
+      he could have said economic rent but that’s not how he thought – from oil, it
+      was all paid to the parent company in New Jersey. And because it was all made
+      in a fictitious country using the dollar currency that had no income tax, an offshore
+      banking enclave, then they didn’t owe any profit tax to the United States. So
+      that’s what transfer pricing was. The price that the trading affiliate in the
+      offshore banking center sold its oil for, was so high that there were no profits
+      to be made downstream in the refining and gas station distribution sector. Does
+      that answer your question? ⁣KARL FITZGERALD: It does. And it brings to mind, if
+      there’s any one nation that has turned the balance of payments theory and understanding
+      of economic rents to their advantage, it would be Singapore. Do you know much
+      about Singapore and their Temasek holdings and how they use their capital account
+      surplus to invest in other national utilities? ⁣MICHAEL HUDSON: I really haven’t
+      followed it. I haven’t had an occasion to follow it. ⁣KARL FITZGERALD: So I must
+      get you to look into it. Kimberly Mims, our friend, do you want to come on screen?
+      We’re getting close to the end of today. Yes, she’s one of our backroom team here
+      with the Michael Hudson crew. She’s asking about multinationals. Could you come
+      on in, Kimberly. ⁣KIMBERLY MIMS: I was interested in that issue of how this kind
+      of circulation of the benefits, let’s say, stay within the U.S. frame and never
+      really go out in some sort of fair and equitable way, right? That’s what you’re
+      kind of talking about. And you also briefly mentioned private-public partnerships,
+      and that’s just a thing I see in this country as being without regulation all
+      over the place. I mean, I see this in Chicago all over. It’s just out of control.
+      And I don’t know what they are, quite frankly. Sometimes they call themselves
+      centers. You don’t even know what they are literally as business models. So it
+      seems to be this way of prying open a kind of non-regulated space that is domestic
+      as well as potentially international. And I’m wondering, does that have any play
+      or do you see any way of looking at that, that would be profitable and constructive
+      in terms of talking about balance of payments? ⁣MICHAEL HUDSON: Well, the whole
+      financial sector is highly exploitative. And as you point out, these private-public
+      partnerships were really developed under Thatcher and even more so Tony Blair.
+      And the idea is that all the profits go to the private owner and all the losses
+      are absorbed by government. And the effect is to transfer money from the government.
+      The government subsidizes a company to ostensibly make losses and the losses take
+      the form of high interest payments, managerial payments, and other largely fictitious
+      financial charges and transfer payments to the financial managers. So again, we’re
+      dealing with a fictitious economy. And most of the economy today, I guess you
+      could say, is based on economic fictions with a fictitious cover story, a narrative
+      to make it all appear as if all of this is earned and everybody has earned what
+      they take and end up with by being productive or unproductive if you’re a laborer.
+      ⁣KARL FITZGERALD: Well, I’m trying to think of a way to wrap this up, Michael,
+      because it’s been a complex conversation and one that we all need to study in
+      further detail. I suppose with BRICS coming through, where do you think the future
+      of balance of payments theory is going? And are these nations actually picking
+      up on what you’re teaching about, or are they going to fall down the same hole,
+      do you think? ⁣MICHAEL HUDSON: There really isn’t any balance of payments theory
+      because the whole discussion and the economic categories are as if all transactions
+      involved actual monetary payments. And as I said, homeowners’ rent does not involve
+      a payment. Imports of oil from American affiliates do not involve actual foreign
+      exchange payments. So people really don’t discuss it. The whole terminology and
+      the categories that the economies use, such as GDP, I think, are not very helpful.
+      What I’ve been writing about in the articles that I’ve done with Dirk Bezemer
+      is recreating the GDP. Let’s net out of GDP. How much is the actual product and
+      how much is the economic rent? Not a product, but a transfer payment. And you
+      find that all the growth in America’s GDP is economic rent. It’s not a product.
+      The product, the productive sector, is declining. That’s why America’s deindustrializing,
+      that we’re in a rentier economy. Well, you’re never going to have the Western
+      economies lead in recreating the statistics for GDP in this way. They want to
+      say, well, look at how powerful America is, look at our GDP. But that’s like you’re
+      saying, look at how much this little kid weighs. He outweighs the others, but
+      it’s all a tumor on his back. And so you could look at the GDP in America as a
+      financial tumor. The aim, I hope, that I would like to see in the BRICS countries
+      is they avoid the financial tumor, the economic rent tumor, the landlord tumor,
+      and the monopoly tumor. They avoid the whole thing, just as China said it was
+      going to do at the very outset, and just as Adam Smith and the whole classical
+      school of economists hoped that that would be what industrial capitalism would
+      be. But to do that, they have to go back to study the classical economists of
+      the 19th century. I’m writing a book on that now, and it’s probably going to take
+      another half year for me to finish it. But that’s exactly what I’m spending all
+      of my efforts on at present. ⁣KARL FITZGERALD: Well, thank you, Michael. This
+      work is invaluable, and it’s so good to have some of our Patreon supporters here.
+      They make… ⁣MICHAEL HUDSON: I’m really grateful to you all for joining. I mean,
+      this is why I’m writing. The whole idea is not just to sit and write my own ideas,
+      but to have them spread out. And I hope you can do everything you can to keep
+      continuing the ideas and somehow radiating them. That’s the only way that you’re
+      going to have these ideas spread because it’s not going to spread through the
+      New York Times. ⁣MATT CONNORS: That’s for sure. ⁣KARL FITZGERALD: All right. Well,
+      thank you, Michael. Thanks, everyone. We look forward to seeing you back here
+      in three months’ time. We’ll see if anything at all has changed or whether these
+      same trends of greed and rentierism continue. So let’s hope…. ⁣MICHAEL HUDSON:
+      Spoiler alert, it’s going to be the same trend. There are always new twists and
+      turns. And I guess we had to today take a step back. It’s good that Karl asked
+      me to focus on the balance of payments because that brought up all of how important
+      the categories and the structure and the accounting format is and, ultimately,
+      the tax and fiscal policy format. ⁣KARL FITZGERALD: Well done, buddy. Excellent.
+      All right. We’ll see you in a few months. ⁣MATT CONNORS: Thank you, everyone.
+      ⁣MICHAEL HUDSON: Thank you. ⁣KARL FITZGERALD: There’s cheers all around. Well
+      done, buddy. Okay. See you all. Bye. Transcription and Diarization: hudsearch
+      Editing: Kris Liti Review: ced Photo by Jonny Gios on Unsplash The post How A
+      Nation Makes Money in Their Sleep first appeared on Michael Hudson .'
+    one_sentence_summary: In a recent Patreon Q&A, economist Michael Hudson discussed
+      the lack of education on balance of payments theory in American universities and
+      emphasized its importance in understanding economic systems, while critiquing
+      the current financial framework.
+    paragraph_summary: In a recent Patreon Q&A, economist Michael Hudson discussed the
+      critical importance of understanding the balance of payments in economics, highlighting
+      its absence from university curricula in the U.S. since 1969. He criticized the
+      lack of education on how trade statistics are manipulated and misrepresented,
+      emphasizing that the figures reported in the media do not accurately reflect the
+      true balance of trade as settled in monetary terms. Hudson shared insights from
+      his early work with the Chase Manhattan Bank in 1965, where he analyzed the balance
+      of payments for countries like Chile during a time of significant economic transition,
+      illustrating the complexities and inaccuracies in the current understanding of
+      trade statistics.
+    published: '2025-10-10T23:17:28+00:00'
+  - title: Libertarian Fantasy, Police State Reality
+    url: https://michael-hudson.com/2025/10/libertarian-fantasy-police-state-reality/
+    text: '⁣NIMA ALKHORSHID: Hi everybody. Today is Thursday, October 2nd, 2025, and
+      our friends, Richard Wolff and Michael Hudson, join us today. Welcome, Richard
+      and Michael. ⁣MICHAEL HUDSON: It’s good to be back. ⁣NIMA ALKHORSHID: Michael,
+      let’s start with you. You were talking about that urgent meeting that Pete Hegseth
+      had with generals and admirals. And they were talking about many issues, you know,
+      foreign policy, domestic policy. But the main issue right now is the way that
+      the United States sees the conflicts in Ukraine and in the Middle East. Donald
+      Trump — two times he said that Russia is a paper tiger. Then he came out and said:
+      No, I didn’t mean that. And again, you know, repeating the same sort of rhetoric,
+      that Russia is a paper tiger. Do you think that we are getting closer to a nuclear
+      war with this sort of attitude, because these countries don’t know what is in
+      the mind of Donald Trump? ⁣MICHAEL HUDSON: I think Trump and the deep state have
+      already decided on nuclear war, because last week we described all the economic
+      reasons why Trump is desperate. He’s desperate to maintain the U.S. and NATO control
+      of the world — and it’s all backfiring. Just in the last day or two, you’ve had
+      Korea saying: We’re not going to even begin to talk about investing in the United
+      States. We can’t afford it. It would mean destruction of the Korean economy. The
+      Japanese said: Alright. We can’t talk about that either. In Europe, even, they’re
+      refusing to go along with it. So, I think that Trump, and the U.S., is saying:
+      How are we going to lock in our control? Well, you mentioned Ukraine. I think
+      that Europe, and Ukraine — now that they’re bombing Russian refineries and bombing
+      Russian energy generation, just like Russia had been bombing that of Ukraine —
+      they’re going to say: We’re going to keep upping the scale, upping the scale,
+      upping the scale, until finally you won’t have any choice but to resist. Your
+      guests, and commentators all over the internet, say that the Russian population,
+      and what’s called the right wing — meaning the nationalistic wing — are saying:
+      We’ve got to respond because, at some point, we’re going to have to respond. And
+      we might as well respond earlier, instead of later, after they’ve blown up more
+      of our refineries, and more of our energy production. So, I think the point is
+      coming very near, especially now that Estonia has seized the Russian oil tanker:
+      this means essentially one escalation after another. And I think they’ve decided:
+      We’re going to keep upping the rate, the destabilization, until there’s war —
+      especially because the army believes, and Trump believes, that if they can tie
+      up Russia in Ukraine, then Russia will be unable to help Iran defend it against,
+      what is a week or two away, Israel’s attack, America’s attack on Iran — which
+      is going to result in just the conflagration of the Near East. And I made a list,
+      that we talked about earlier of, you know, what America is trying to do to lock
+      in its position: oil and the dollar. But it occurs to me that Trump and his advisors
+      must know that none of these are going to work. And I think that Trump has his
+      own agenda, and you and I talked about that earlier: his narcissistic drive to
+      make himself famous. I think he’s seen there’s one way in which he can be the
+      most famous person in history: He can be the man who blew up civilization! That’s
+      more important than Jesus, more important than Moses. All he has to do is start
+      an atomic war, and when the dust settles, and evolution starts all over again,
+      the surviving humanity — wherever it is — is going to write a history and say:
+      How did all this begin? How did the world blow up? And they’ll say, somebody named
+      “Donald Trump.” That’s his dream. A narcissist cannot resist the temptation to
+      be the most important famous person in all of history. And who’s to stop him?
+      Historians are going to marvel at how he’s been able to rule with such an iron
+      hand. Before we get into the economics, I want to say a lot of people have mentioned
+      Trump’s desire to be a Roman [emperor], like Caligula. Caligula got famous for
+      having such control over the Senate, that he nominated his horse, Incitatus, to
+      be a senator. The word “incitatus” [Latin adjective meaning “swift, at full gallop”]
+      — the English word means: incite, to goad on. Today, you could say that what Trump
+      has done is appoint more than a horse. He’s appointed a whole stable of cabinet
+      ministers, and the people who are running the country, that are the human equivalent
+      of Caligula’s horse. You’ve seen Hegseth’s speech before the army yesterday, and
+      what that did. You could go right down the line to the beauty-contest winners
+      and Fox news broadcasters, appointed administrators. It’s the embodiment of total
+      “yes-men,” people totally under his control. Nobody can stop him. And he’ll have
+      people — the military advisors, such as Keith Kellogg, Netanyahu’s advisors —
+      you can go right down the line — the neocons. It’s the whole — whatever we’re
+      going to talk about for the rest of this hour is going to be. There’s nothing
+      that the United States can do to reverse the loss, the fact that the U.S. century
+      — let’s say, 1925 to 2025 — is over, and the West’s dominance is over. The reaction
+      of Trump is not only chaos, but ‘just bring the whole thing down.’ ⁣NIMA ALKHORSHID:
+      Go ahead, Richard. ⁣RICHARD WOLFF: Okay, well, maybe this time Michael and I can
+      disagree a little bit, and see how that evolves as a program. I understand what
+      Michael is saying. Is that a possible place where we are? Is that a possible direction
+      that we could take? Absolutely. I’m not going to argue that it isn’t. But I am
+      going to argue that when societies find themselves in the kind of dead-end that
+      I think we are now in, and pretty much the same reasoning gets me to that, that
+      Michael has, and that we’ve discussed on this program for quite a while now. Another
+      trajectory out of it, besides the one that Michael just outlined, is a recognition
+      that the game is over and that what has to happen now is a sane negotiation for
+      the least difficult accommodation of what is happening, and is going to happen,
+      no matter what we do. Precisely because the alternative is what Michael just laid
+      out. And that alternative is so horrible, and so self-destructive, that we’ll
+      avoid it. And I take a certain comfort from knowing that whatever was in the mind
+      of Adolf Hitler, or Benito Mussolini or Francesco Franco, that didn’t come to
+      pass either: those projects collapsed. And they mostly collapsed because they
+      overreached what they thought they could achieve and, thereby, produced the backlash
+      that eventually overwhelmed them, and erased them, at least for a while, from
+      history. Okay, so let me spell out very briefly what I think. The contradictions
+      of Mr. Trump’s economic policy are now reaching a level of absurdity — not that
+      they weren’t there already before, but they are now coming to the foreground of
+      people’s awareness. Even the media that support Trump are reporting, what? Well,
+      let’s see. The fundamental rationale economically of Mr. Trump’s every economic
+      policy has been the idea that he’s going to make America great again by bringing
+      back jobs. And he’s made it quite clear that he’s going, you know — the tariff,
+      right? Because you have to pay a fee to access selling into the U.S. market. We
+      hope to see companies coming back inside the United States because that will be
+      a way for them to escape the tariff. They won’t have to pay a tariff. If they
+      sell in Chicago what they make in New Jersey, there’s no tariff. If they sell
+      in Chicago what they make in China, there is a tariff. Et cetera, et cetera, et
+      cetera. So we’re going to make America great again by reindustrialization. They
+      even have a word they like, those people, “reshoring:” bringing back to our shore
+      what was taken to the other shore. Okay. Now let’s take a look at that, how that’s
+      working. Here we go. Number one: Is there a flood of jobs coming back? Absolutely
+      not. There’s no such statistic. Are there some companies coming back? Yes, of
+      course, but most of them have to do with high-tech. They’re going to California,
+      Silicon Valley, and the one thing they don’t have is a lot of jobs because they
+      are capital intensive: they’re full of computers, they’re full of all of that
+      material that they need. And the number of people are highly educated, highly
+      trained, and few in number. That’s not a solution to the unemployment problem.
+      And how do we know that? Because if you look at the last year, all of the original
+      numbers of jobs have been adjusted, in subsequent months, downward, culminating
+      in the latest numbers, which indicate no growth at all — in fact, a decline of
+      32,000 jobs in the latest reporting period. So, no jobs. Okay. Why? Well, here
+      come the contradictions. Because almost everything else Mr. Trump is doing is
+      an encouragement for CEOs around the world not to come here. I mean, let’s go.
+      The government is shut down. Hello? That’s a clue. Don’t go there. If you’re a
+      business person, you don’t locate, you don’t spend millions of dollars moving
+      a factory or an office, lose a year in the whole adjustment, in order to go to
+      a place where the two major parties can’t keep the government functioning. Their
+      divisions and their hostilities are so deep. As if that weren’t enough. The military
+      are discussing invading their own country. The vice-president looks forward to
+      all the major cities being occupied. Well, why would you move to a country contemplating
+      that? That’s eight hundred ways you could make a big, big mistake. You’re not
+      going to do that. You’re not going to be the vice-president in charge of location
+      who will go down in history as having been moronic enough, in the face of what
+      I just said, to move into the United States. But I’m not done. According to the
+      financial press, we’re on the precipice of a stagflationary period: a mixture
+      of low-level economics, which the unemployment numbers I just mentioned reinforce,
+      and an untamed inflation. The current inflation rate is 3%. If we’re in a great
+      struggle with China — let me let everyone know, the official inflation rate in
+      China now is minus 0.4%. They don’t have any inflation. They have a deflation.
+      The United States has an inflation of 3% — that alone will enable the Chinese
+      to outcompete the United States, each year that it continues. Forget tariffs,
+      forget even exchange rates. Before you even look at those, look at the disparity.
+      By the way, this is not new. The Chinese have not — in case you’re not familiar
+      with the statistics — it’s not recent, that they’ve had no inflation. They’ve
+      kept inflation under control in a remarkable way. That’s why you haven’t heard
+      about inflation in China — because it’s not a bad number that the media can talk
+      about. Keep that in mind when you read that Russia is on its knees, its economy
+      — If you cherry-pick statistics in any country, including the United States —
+      if I want to make a case, the United States is in good shape, I can pick six statistics
+      that make that happen. If I want to show the United States is in trouble, I can
+      pick six different statistics and make that case. Any analyst who has a brain
+      knows that the trick of analysis is not the cherry-picking, which an infant can
+      do, it’s the balancing: How do you reach a judgment that takes into account the
+      different statistics, some of which are always pointing up, and others of which
+      are pointing down? Really, it’s like a doctor measuring your body, and all of
+      its functions as well. Alright, the Chinese are — what? They’re not just winning
+      the economic race. It isn’t enough anymore to simply say, look at the GDP. China
+      and the BRICS now are a much larger economic unit than the United States and the
+      G7. And that’s a real issue. But we’re now beginning to see the chickens coming
+      home: We’re seeing the effects, the consequences. Over the last twenty years,
+      twenty-five years, the Chinese have made a series of very important investments
+      in — Venezuela. They are not in a position, neither in Venezuela, nor in any of
+      the other countries that they have invested, to permit the United States to willy-nilly
+      overthrow a government in order then to — what? Wipe out the Chinese? No, no,
+      that isn’t going to happen anymore. That’s what used to happen in the old colonial
+      world, yes. But not now. So when the United States, in violation of everything
+      I understand to be the law, wantonly kills, I don’t know, twenty-five people —
+      by now — in several boats on the outskirts of Venezuela — no arrest, no investigation,
+      no trial, no jury, no judge, no appeal, murder on the spot, with statements about
+      Venezuela being punished for its drug activities. Everyone who knows anything
+      about the drug trade knows that the bulk of the drug trade happens on the Pacific
+      Ocean side of the Western Hemisphere, not on the Atlantic side. What comes from
+      the Atlantic through the Caribbean is small potatoes. If you’re interested in
+      inhibiting drugs, Venezuela isn’t your target. And so, the Chinese — here we go
+      now — the Chinese Navy is big time in Venezuela. What does that mean? It means
+      exactly what you think it means. You’re not going to do there. You can bravado
+      all you want. You can assemble your generals in a sweaty room. Doesn’t change.
+      Is the United States — if Michael is right —is it about to work with Israel to
+      attack Iran — and Venezuela — while the Gaza thing is unresolved? And the Ukraine
+      war is being won by Russia? Really? You know what that would be? Overreach. It
+      would be exactly what brought to an end Hitler, Mussolini, and Francisco Franco.
+      And I bet you, despite their clownishness, among Mr. Trump’s advisors, there are
+      those who may tell him that as well. And if not, well, we can do it. ⁣NIMA ALKHORSHID:
+      Go ahead, Michael. ⁣MICHAEL HUDSON: I think that, to Trump, the drive for U.S.
+      unipolar control can’t be over in his mind. He can’t acknowledge it because that
+      would mean he’s a loser. And that is what makes him so desperate. He’s desperately
+      lashing out, in a strategy that, both Richard and I have described in the last
+      few weeks, can’t work, for reasons that we’ve described. Richard used the word
+      overreach. His tariffs were an overreach. His military expansion on a multifront
+      war is overreach. Richard started by saying he hopes that this is going to frame
+      Trump’s creating of a more realistic resolution of how America can accept its
+      lost place in the world, now that the American century is over, and how he can,
+      realistically, act in a way that is not going to self-destructively just drive
+      other countries further away and consolidate America’s self-isolation economically.
+      Well, we discussed before how Trump can’t reshore industry because his tariffs
+      have prevented that. The tariffs have made America too high-cost — on steel and
+      aluminum, on so many things that America has been importing. So, what is Trump
+      going to do to try to compensate for the fact that other countries have already,
+      in the last few days, rejected the idea of relocating their industry in the United
+      States? They can’t afford it. And Trump is insisting that the United States gets
+      to keep the profits on this industry. It means any foreign investment in the U.S.
+      industry is in danger of being lost. So, what’s the problem? Well, I’ve emphasized
+      before: Oil and the U.S. dollar are the key to the U.S. hegemony. And oil is,
+      I think, absolutely key. Trump’s attack on Venezuela is to grab its oil and —
+      not only grab its oil to make money for the American companies that would take
+      over, but to be able to prevent other countries from importing oil from Venezuela,
+      or refining Venezuelan oil to sell. Same thing with Argentina. Why did Trump make
+      the $20 billion loan to Argentina (that there is zero chance of Argentina being
+      able to repay, for reasons that I’ll get into)? America wants two things in Argentina.
+      Number one: control of its still state-owned oil industry — same thing as Venezuela
+      — take over its oil industry; and to make a military base in Tierra del Fuego,
+      the south tip of South America, that controls not only the route around South
+      America from the Atlantic to the Pacific and back, but control over Antarctica.
+      And the [Javier] Milei government yesterday gave America permission to start the
+      military bases there, bypassing all congressional approval in Argentina, and that’s
+      created a crisis. So, you can see what’s happened. Yesterday, the Financial Times
+      had a very clear article on the fact that, how will America ever get this $20
+      billion back? The only way that it can do it is if the IMF makes yet another loan
+      to Argentina — a losing loan, because the $20 billion is going to be spent right
+      away by Milei to support the Argentine peso, so that the wealthiest classes in
+      Argentina can move their money out of Argentine pesos into the dollar, or gold,
+      or something else, without the current price ratio, not a devaluation price that
+      they’d have to get less dollars or less gold for. So this money is going to be
+      spent right away. And when Milei loses the elections in the next week or two,
+      then Argentina is going to have this $20 billion additional debt. I think Trump
+      knows that the debt can’t be repaid. And like many creditors throughout history,
+      he doesn’t want the debt to be repaid. He said: You don’t have the money to repay?
+      Give us your oil industry. Give us your land in the south. Give us that. Finance
+      is, in Trump’s idea, still a hope for the new colonialism. You’re also having
+      Trump break with the whole rest of the world on global warming. What is he trying
+      to do? Well, much as he’s trying to prevent other countries from meeting their
+      energy needs from oil that the U.S. doesn’t control, he’s trying to prevent other
+      countries from meeting their energy needs by solar power, not to mention wind
+      power, or atomic power. He’s insisting that other countries rely entirely on oil.
+      And yesterday, Trump increased subsidies for, and the sell-off of, huge coal lands,
+      saying not only is oil the fuel of America’s future, but coal is the fuel of America’s
+      future. This increases the greatest threat to all the rest of the world’s economy,
+      in the form of global warming that, along with the military threat, is an existential
+      threat. And other countries, I think, have to realize that, you know, why is Trump
+      refusing to acknowledge global warming? It’s because global warming is a threat
+      to America’s ability to turn off their energy, turn off their electricity, to
+      deny them power, just for the same reason that it blew up Russia’s North Sea pipeline
+      to Europe. So, all this comes down to the support for the dollar. And that’s why
+      Trump has also announced in the last week or so, he wants to increase cryptocurrency,
+      especially the stablecoin, that all of the stablecoin proceeds — crypto, stablecoin
+      — are going to be invested in U.S. Treasury securities. So, this is somehow going
+      to — he believes that this fad for stablecoins is going to — be able to finance
+      the Treasury’s deficit caused by his tax cuts for the wealthy classes — his donor
+      class — and for the shrinking economy, that’s continuing to shrink. So, all of
+      these policies that Trump is trying to do, to say, yes, we can live with the existing
+      world situation, and we can still maintain our unipolar control by reshoring our
+      industry, by controlling oil, controlling agricultural exports, the food supply
+      — well, that hasn’t worked, as you see with the soybean market. All of the ideas
+      of how to somehow hold on to America’s ability to make other countries pay tribute
+      to the United States — by investing here and reshoring their own industry out
+      of their countries into the United States; by depending on U.S. liquefied natural
+      gas, instead of oil; by not obtaining oil from Venezuela, Argentina, Russia, or
+      Iran — all of these are absolutely destined to fail. And the only way that I can
+      see him ultimately responding is by war, to say that, if I can’t have it my way
+      — it’s my way, or no way. That’s my worry of the mindset of Trump, and the neocons
+      behind him. ⁣RICHARD WOLFF: Again, I understand the direction Michael is pointing
+      to. I understand the logic. It’s a compelling logic. It’s clear. Let me only comment
+      by talking about an alternative direction these same developments might lead to.
+      And here’s what I focus on. I’m noticing, and I’m sure you guys have too, but
+      I’m noticing something very interesting happening pretty much at the same time
+      in the United States as in Central and Western Europe. And here’s what I notice:
+      an emphasis on cutting back government social programs, a recognition that whatever
+      the 20th century required in the way of providing education, and medical care,
+      and old-age pensions, and social infrastructure — all of that — is a luxury we
+      can — “We,” the royal “We” — can no longer afford. Why? Well, the bullshit is,
+      ‘we’re threatened by Russia.’ That’s one part of the story. Or, now, ‘we’re threatened
+      by China.’ Okay, that’s very useful. We are in danger. And so this is something
+      endangering all of us, and therefore we must all of us sacrifice. And you know
+      that when the people who run these societies talk about all of us sacrificing,
+      they always exempt — from the “all of us” — the rich and the powerful, who will
+      not be hurt. Well, if you’re going to rearm, if you’re going to spend a fortune
+      — and let’s remember, if you look at the American budget, everything is being
+      cut back, except the military and the new army called ICE. Alright. Now let’s
+      take a look at Europe. Same thing. The leaders — [Emmanuel] Macron, [Keir] Starmer,
+      [Friedrich] Merz — are all telling their people — Mr. Merz — remarkable, if you
+      read his speeches — he simply says: We are in danger. The Russians are threatening.
+      We are going to build up our military, and other things will no longer be available.
+      So, no mystery, for Mr. Merz — by the way, his popularity is dropping like a stone,
+      and I’m going to come back to that. Mr. Starmer and Mr. Macron, their popularity
+      isn’t dropping like a stone because it’s already at the bottom of the barrel,
+      because of what they’ve said. And they haven’t hardly gotten going. So, last piece
+      of evidence. You’ll notice bizarre recognition by these leaders — given what their
+      plan is — that there’s going to be popular resistance. They see it in their polling
+      numbers, which are awful. They see it in the collapse of the political middle
+      in their countries, as left-wing and right-wing extremes become relatively stronger.
+      And then we have Mr. Starmer, who’s literally circling the bowl — and you know
+      which bowl I speak of — in his political career, which has been a descent from
+      unbelievable heights, the last election, to a spectacular crash. You know what
+      his new idea is? He wants to run on identification cards for all British citizens,
+      so that the government can keep better track of — in the middle of this turmoil,
+      he’s going to spend a fortune of money to be able to control, and supervise, and
+      surveil his own people. The French already have had, for many years, a carte d’identité
+      [ID card], which functions that way in France. And Germany is, you know, busily
+      banning the extreme political right as a preface to trying to pull the same stunt,
+      if the left gets going in Germany the way it already has in France — if the Germans
+      copy the French in the unification of their left parties and in their street actions.
+      So, what are we seeing? We’re seeing this system aware of the very conversations
+      in their language, parallel to what we’re doing here, getting ready to have the
+      fight, getting ready to squash what is the real danger. Because they don’t want
+      that war that Michael is talking about. They understand what it might cost them.
+      So, they would hope that maybe they can finesse this crisis moment in the way
+      that a capitalist society would be expected to try to do it  — by squashing its
+      own working class, by taking away enough wealth that they can accommodate the
+      rising Chinese. What option do they have, other than nuclear war? They could accommodate
+      the Chinese because they could save their own privilege and their own wealth,
+      by ripping off their own people. Knowing them, knowing the courage they don’t
+      have, I think there’s a good bet that that’s what they’re going to try to do.
+      And then the issue is — which is always the issue, right? Will the working class
+      of this country, and of Europe, permit this to be done? Will they permit their
+      standard of living to be eroded, as is happening here? Will they admit the army
+      of their own country — that their taxes pay for — be used to occupy the cities
+      that provide most of the taxes to pay for it? Or will the absurdity of this enable
+      a different politics? ⁣MICHAEL HUDSON: Richard, what you’re describing, by the
+      U.S and Europe — the class war — it’s really taking the shape of a fight against
+      civilization, at least the fight against where all of us have defined the trajectory
+      that we thought civilization was moving in: rising productivity that would be
+      more widely spread to uplift living standards and, in the process, productivity
+      in overall growth. And all of that is being sacrificed with the precise class
+      war that you’ve just mentioned. When this morning’s newspapers reported where
+      Trump’s budget cuts were, the largest budget cuts were going to be in education,
+      followed by medical care. Well, these are the two things that civilization was
+      supposed to provide, by the state — by a state that was created by taking it out
+      of the hands of a hereditary landlord and aristocracy, and putting it in the hands
+      of an economy — presumably democratic, or, at least, administered socialist state
+      — that would increase education, productivity, health care, and have rising growth.
+      All of that is being countered by Starmer — with his new Inquisition, is what
+      you’ve described — Merz and Macron. And the result is that, I think, you’re having
+      two things that are going together right now. And that’s very suggestive, what
+      you’ve said. Tomorrow, President Putin of Russia is going to address the Valdai
+      Club, and that’s where he outlines: What is Russia going to do with all of this
+      confrontation that’s taking place? Well, at last year’s meeting, he called NATO
+      a blatant anachronism. Well, that’s true. But the United States, at least under
+      Trump and the neocons, are trying to say, well, it may be an anachronism, but
+      we’re going to restore the past to make the anachronism great again, perpetual,
+      permanent, never-ending. And so this has created two crises. We’ve been talking
+      so far about the geopolitical isolation of the West — the United States and Europe
+      — from the rest of the world that is not engaging in this militarist, financialized,
+      replacing industrial socialism and industrial capitalism with finance capitalism.
+      It’s breaking away from colonialism, but also from the residue of colonialism:
+      foreign debt, and client oligarchies that the Western rent-extraction governments
+      have installed. But all of this is a crisis of finance capitalism, and capitalism
+      itself is a distortion of what people thought would be industrial capitalism evolving
+      into socialism, and just what you described as what we’re all for — so that America
+      and Europe could be just as successful as China, for instance. And you have a
+      rentier economy here that is using a kind of Ponzi financial scheme, led by the
+      Federal Reserve: Let’s just give banks enough money to give the population an
+      ability to buy real estate on credit, buy stocks and bonds and credit. We’re going
+      to continue to enrich the stockholders, the bondholders — and this is the 10%
+      of the population — against the rest of the population, and then somehow we’ll
+      be able to move all our money somewhere. Well, this is part of the libertarian
+      attack on government, and whatever authority government loses under this attack
+      [winds up in the control of Wall Street] — not only has Trump dismantled social
+      spending, he’s dismantled the departments of the government that are regulating
+      and protecting consumers, abolishing the Consumer Financial Protection Agency,
+      abolishing the Environmental Protection Agency. All of the checks and balances
+      that were put in place to prevent a predatory corporate industry from impoverishing
+      society are being dismantled. And so this breakaway from the Western way of doing
+      things is not only a breakaway from this neoliberal financialization and rentier
+      capitalism, it also has to involve a breakaway from the class war that’s the residue
+      of an anti-labor oligarchy — in Argentina, for instance, and the places that we’re
+      describing throughout the world, just as the United States. This is why it’s a
+      civilizational crisis that we’re going through right now. Not only a military
+      crisis — will there be a world war? Not only an environmental crisis of global
+      warming — but, really, what is going to be the structure of government? Is it
+      going to rule for the 1%, or for the economy as a whole? The 1% wants to get rich
+      by indebting and impoverishing the economy with austerity — paid to itself. That’s
+      the U.S. and European alternative to what used to be the definition of civilization.
+      And the question is: Will the BRICS countries be able to recognize this class
+      war, class relationship aspect to the international break that’s occurring? ⁣RICHARD
+      WOLFF: Well, again, I think the contradiction is becoming very painful for libertarians
+      — not that I care. In other words, what you’re watching is a consolidation of
+      government power used in the civil society on a scale that must make a good number
+      of them quit. I mean, are you kidding? You champion Mr. Trump, and he is consolidating
+      a destructive government power, the likes of which you imagined, as some of them
+      are saying, only existed in your caricature of socialism. I mean, let’s be really
+      clear. In the recent speech Mr. Trump gave to the U.N., I believe it was there,
+      or if not to some other audience, he equated three things as being the three goals
+      he has: to defeat those that are anti-American, anti-capitalist, and anti-Christian.
+      Those are the enemies within, that he then asked the military to go deal with.
+      Okay. For a libertarian, that’s not an appropriate thing for a government to be
+      doing — any of those things — because that requires — if you mean it — it requires
+      things like sending troops into cities, not typically a big item on libertarian
+      agendas. I never saw it there. You’d have to attribute it to them as either unconscious,
+      or that they are all, you know, congenital liars. So, it turns out that for Mr.
+      Trump to try to do what we’re talking about here, he has to violate the libertarian
+      commitments. Okay, that is called an internal contradiction to what he’s trying
+      to do. Look: You can use the government that way, but you’re going to lose a lot
+      of libertarians. Now, that may not matter, but there’s other people you’re going
+      to lose. To attack the cities that they keep mentioning, is to attack Democrats,
+      and that wasn’t the libertarian idea either — that the way you do the Republican
+      versus Democrat is you send troops, if you have the presidency, into the cities
+      controlled by the other party — a precedent which, in the event of a Democratic
+      president, is going to come home to roost in very painful ways in this society.
+      I don’t think they have a clue in the world. When Mr. Trump says, I won’t let
+      [Zohran] Mamdani run New York City, in the event that Mamdani wins, he [Trump]
+      is, in his usual way — with bluster — recognizing half of the contradiction: Mamdani’s
+      victory depends on Mr. Trump. It is an effect of Mr. Trump. I don’t want to take
+      away in any way from the really brilliant campaign that Mamdani has run, to his
+      credit — very smart, very careful, very effective — but I’m sure, if he were sitting
+      here, he would admit — and whether he does or not, I’m going to assert — that
+      his campaign is running against Trump, as I would advise him to do. I live here
+      in New York City. I can assure you, the City of New York is overwhelmingly hostile
+      to Mr. Trump. And one of the reasons Eric Adams had to drop out — the sitting
+      mayor comes in fourth in every poll, out of four — he doesn’t do as well as the
+      Republican Mr. [Curtis] Sliwa, and he has the same chance of becoming mayor that
+      Michael and I do — that is to say, none. So what do we have? We have Mr. [Andrew]
+      Cuomo as the Trump stand-in. And things are going so badly that Cuomo, who wanted
+      to run against Trump, is now half-running with him because it’s so hopeless for
+      him. Look: He [Trump] could try, in the first few months. It’s all inherited.
+      Now? That’s over. The horrible employment number? That’s Mr. Trump. Your great
+      program to bring jobs back is an enormous failure. Of course, he’ll blame everything
+      he can think of on somebody else. But we have the easy game. It’s his fault. Mamdani
+      is his fault. The growing socialist presence in many cities across the country?
+      That’s his fault. The extreme right wing? That’s his fault. He’s enabling all
+      of that. He is producing civil conflict, which may explode, and if it does, I
+      am very confident that an enormous number of voters in the United States — if
+      it comes to that in the next six months — will blame him. And if he doesn’t understand
+      that? Oh boy, is he going to be in trouble! ⁣MICHAEL HUDSON: Richard, my definition,
+      my understanding, of libertarianism is the diametric opposite of yours. Libertarianism
+      was created as a centralized police state, basically, a centralized power. It
+      began with the Austrian School of individualism, as an attack on classical economics,
+      and essentially on socialism. and the fights going on — armed fights — in Vienna.
+      Libertarianism wants to get rid of government. It has created a narrative of economic
+      history, of how all of economic civilization could have existed without any role
+      for government, regulatory agencies, without any ability of the government to
+      interfere with private enterprise. And if you dismantle the power of government,
+      who is going to be doing the planning and resource allocation of the economy?
+      Wall Street. Libertarianism has always been a defense of Wall Street, not the
+      government. Control of wealth and the rich, not government. Absolute blockage
+      of any attempts by government to interfere with the market, by taxing the rich
+      more, interfering by providing free medical care and education and not leaving
+      this to the free market to make people go into a lifetime of debt to get an education
+      or medical care. Libertarianism is, in a word, fascism. From the very outset,
+      that was what it is, and that requires a police state to enforce. Libertarianism
+      is the doctrine of the police state to free the market from the socialists. And
+      I’m glad you mentioned Mamdani in New York. Yesterday again (maybe the day before),
+      Trump says, now that there’s a government shutdown that occurred yesterday to
+      begin with, he said: We’re going to begin firing government employees, and I’m
+      going to concentrate on states that have voted Democratic. We’re going to fire
+      Democratic state employees in New York, Massachusetts, California, Illinois. He’s
+      singled out where he’s going to dismantle government. Well, you can imagine what
+      this is going to do. This is going to increase poverty, crime, distress, foreclosures,
+      ICE. So that’s why he’s moving, not only ICE, but as you were pointing out, the
+      army into these cities — an army, not to engage in police work to prevent crime,
+      but an army to fight it in the ways that armies do. And the first point you made
+      was mentioning Christianity. And I’m glad you mentioned it because we haven’t
+      been discussing it before, but it’s very important to President Putin. For President
+      Putin, and for much of the world, their idea of Christianity is what’s left of
+      the original Christianity: Eastern Orthodoxy, the Greek and Russian Orthodox Church.
+      Putin and the Russian speakers continually talk about the attack by Roman Catholicism,
+      starting in the 11th century, to create the Crusades to destroy Byzantium — the
+      Byzantine Empire — to destroy the Eastern Orthodox Church; to mount the Crusades,
+      to fight and weaken and loot Constantinople, and prevent it from having the resources
+      to defend itself against the Turkish invasions that have followed. All of this
+      history of the Crusades, and the intolerance of the Roman Catholic religion in
+      comparison to the tolerance of Eastern Orthodox religion at the time, all of this
+      is a living history to Russia, and the rest. And it’s that the Crusades and the
+      fight of the Western Christian Church to destroy what’s left of the original Christianity
+      and the Orthodox Church is the dress rehearsal for all of the current, and the
+      narrative context for all of the fight between the Western decadence —  to Putin
+      — and the survival of a more, I won’t say socialist society, but his idea of a
+      Christian society of mutual aid, of support, of tolerance. You could call it a
+      unipolar domestic society as well as a unipolar international society. All of
+      that has a religious foundation in Russia — very similar to China’s foundation
+      in socialism and, before that, in Confucianism. We’re really dealing with, not
+      only a predatory economic mentality of the West — these are the global majority
+      — but a religious and ethical and social mentality that’s at stake here. And America
+      is not going to talk about the Crusades, and intolerance, and the characteristics
+      of this cultural shift. But, believe me, in Russia and China, that’s what they’re
+      talking about. ⁣RICHARD WOLFF: I want to — if I could, if there’s time, Nima —
+      say a few words about the libertarianism. Think of it this way, with the irony:
+      The libertarians have been so frustrated for most of the last century, particularly
+      with the rise of Keynesian economics, when they had to confront a social movement
+      — largely successful — that said that if you leave capitalism to the private enterprise,
+      you get the Great Depression. And so you need government intervention. The government
+      needs to have a fiscal policy. The government needs to have a monetary policy.
+      It has to make up for the demand that is insufficient in the private economy by
+      spending deficits. If it needs to, it has to manipulate the monetary system —
+      quantity of money, interest rate, and so on — in order to manage a capitalism,
+      which, if you don’t manage it, will destroy itself. The great fear of the Great
+      Depression is that the working class rises up, and says: We’ve had it with this
+      system. It’s too unstable. The crises are increasing. Screw it! Keynes saves the
+      system, but at the price of the government having a major role. The libertarians
+      are horrified. They represent that part of capitalism that hated the government,
+      remembering the absolute monarchies of feudalism, out of which capitalism came,
+      and against which it coined the phrase, ‘leave us alone,’ i.e. Laissez-faire:
+      let us do on our own. So, they have this deep commitment to not having a government.
+      How ironic, how painful, that they have to bring the government in to save their
+      system! So they then indulge a fantasy. That’s what libertarianism means to me:
+      the fantasy that they ever could, or ever would, be able to function without the
+      government. And so they become — in the bad sense of the term — religious: They
+      indulge a fantasy utopianism about no government. And then, here, now they’re
+      confronted, again, with the same frustration, because the only way to move towards
+      no government is to have a massive government power move against all of the accumulated
+      institutions. And then, of course, the poor libertarian will notice that that
+      power of the government grows, and grows, and grows. They’re having the same spectacle
+      unleashed by Mr. Trump that they used to hate in Franklin Roosevelt. There is
+      no escape, you poor, poor, misled folks. The government is part of a society,
+      unless, of course, you take the Marxist approach and see the government as the
+      expression of a class-divided society. If you think like that, then you might
+      have the idea: If we can develop an economy without opposing classes, we remove
+      the need for a government as a mediator. Aha! Oh, but for people who want to keep
+      away from Marxism, don’t think for one minute about what I just said: Stay pure,
+      stay clean, avoid that Marxist tradition, and just go to church on Sunday. ⁣MICHAEL
+      HUDSON: Well, Richard, of course, you’re right, that libertarianism, and much
+      Christianity, is a fantasy. I prefer to think of it as a cover story. It’s always
+      been a cover story saying: We’re ethical, we’re for freedom, we’re for prosperity.
+      But what are they really for? The church, once it was romanized in the Roman Empire,
+      and taken out of the hands of the early Christians, it was always, religion was
+      a tool for — the opium of the people, you could say.  It’s a fantasy, it’s opium
+      of the people. It’s to claim to be progressive, and caring about people, and protecting
+      the poor. It hates the poor! Rather, it loves the rich. It doesn’t love the poor.
+      It loves the rich, and that includes, loving them includes, sharing their antagonism,
+      antipathy towards the poor, and their class hatred of labor, in fact. So, that’s
+      really the problem. Christianity and libertarianism go together. I think it’s
+      hypocritical. It’s a fantasy by most of the followers. It’s designed to be a fantasy
+      by a small core at the top — the bishops (in Christianity), the cardinals, the
+      leadership. And the followers: the sheep at the bottom. The shepherd and the sheep.
+      That’s not the socialist idea of the kind of reform that we’re talking about.
+      So, I’m more politically critical and suspicious of just how are we going to enlighten
+      these would-be Christians, these would-be libertarians? How do we say: If you
+      want your ideals — they’re just what you’ve been talking about, Richard. ⁣RICHARD
+      WOLFF: Let me just end by reminding everyone of [Karl] Marx’s teacher [Georg Wilhelm
+      Friedrich] Hegel. Marx writes, yes, religion is the opiate of the masses. But
+      he also writes, right there, it’s also a haven in a heartless world. He understood
+      why people embrace religion, what it is they’re searching for, and the need —
+      for those of us who are critics — never to forget the real function it serves,
+      the real needs it responds to. Even if we don’t like how that response works,
+      we better understand what it is the response to, so that we understand our task
+      as, partly, to create the alternative response — which is in a sense, if you allow
+      me, what these conversations every week are about. ⁣NIMA ALKHORSHID: Yeah, exactly.
+      Thank you so much, Richard and Michael. Great pleasure, as always. ⁣RICHARD WOLFF:
+      Take care. Thank you. ⁣NIMA ALKHORSHID: Take care. See you. Bye-bye. Transcription
+      and Diarization: https://scripthub.dev Editing: Kimberly Mims Review: ced Photo
+      by Koshu Kunii on Unsplash The post Libertarian Fantasy, Police State Reality
+      first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion on October 2, 2025, Nima Alkhorchid, Richard
+      Wolff, and Michael Hudson address the implications of Donald Trump's rhetoric
+      regarding Russia and its potential to escalate tensions towards nuclear conflict.
+    paragraph_summary: In a discussion on October 2, 2025, Nima Alkhorchid, Richard
+      Wolff, and Michael Hudson addressed the escalating tensions surrounding U.S. foreign
+      policy, particularly regarding conflicts in Ukraine and the Middle East. Michael
+      Hudson highlighted a recent urgent meeting involving Pete Hegseth and military
+      leaders, emphasizing that Donald Trump's rhetoric, which includes labeling Russia
+      as a "paper tiger," could contribute to a dangerous escalation towards nuclear
+      war. He argued that Trump's desperation to maintain U.S. and NATO dominance is
+      backfiring, as countries like Korea and Japan are distancing themselves from U.S.
+      investments. Hudson warned that the ongoing military actions in Ukraine, including
+      attacks on Russian energy infrastructure, could lead to an increased cycle of
+      violence, ultimately forcing a confrontation that threatens global stability.
+    published: '2025-10-09T23:07:44+00:00'
+  - title: Libertarian Fantasy, Police State Reality
+    url: https://michael-hudson.com/2025/10/libertarian-fantasy-police-state-reality/
+    text: '⁣NIMA ALKHORSHID: Hi everybody. Today is Thursday, October 2nd, 2025, and
+      our friends, Richard Wolff and Michael Hudson, join us today. Welcome, Richard
+      and Michael. ⁣MICHAEL HUDSON: It’s good to be back. ⁣NIMA ALKHORSHID: Michael,
+      let’s start with you. You were talking about that urgent meeting that Pete Hegseth
+      had with generals and admirals. And they were talking about many issues, you know,
+      foreign policy, domestic policy. But the main issue right now is the way that
+      the United States sees the conflicts in Ukraine and in the Middle East. Donald
+      Trump — two times he said that Russia is a paper tiger. Then he came out and said:
+      No, I didn’t mean that. And again, you know, repeating the same sort of rhetoric,
+      that Russia is a paper tiger. Do you think that we are getting closer to a nuclear
+      war with this sort of attitude, because these countries don’t know what is in
+      the mind of Donald Trump? ⁣MICHAEL HUDSON: I think Trump and the deep state have
+      already decided on nuclear war, because last week we described all the economic
+      reasons why Trump is desperate. He’s desperate to maintain the U.S. and NATO control
+      of the world — and it’s all backfiring. Just in the last day or two, you’ve had
+      Korea saying: We’re not going to even begin to talk about investing in the United
+      States. We can’t afford it. It would mean destruction of the Korean economy. The
+      Japanese said: Alright. We can’t talk about that either. In Europe, even, they’re
+      refusing to go along with it. So, I think that Trump, and the U.S., is saying:
+      How are we going to lock in our control? Well, you mentioned Ukraine. I think
+      that Europe, and Ukraine — now that they’re bombing Russian refineries and bombing
+      Russian energy generation, just like Russia had been bombing that of Ukraine —
+      they’re going to say: We’re going to keep upping the scale, upping the scale,
+      upping the scale, until finally you won’t have any choice but to resist. Your
+      guests, and commentators all over the internet, say that the Russian population,
+      and what’s called the right wing — meaning the nationalistic wing — are saying:
+      We’ve got to respond because, at some point, we’re going to have to respond. And
+      we might as well respond earlier, instead of later, after they’ve blown up more
+      of our refineries, and more of our energy production. So, I think the point is
+      coming very near, especially now that Estonia has seized the Russian oil tanker:
+      this means essentially one escalation after another. And I think they’ve decided:
+      We’re going to keep upping the rate, the destabilization, until there’s war —
+      especially because the army believes, and Trump believes, that if they can tie
+      up Russia in Ukraine, then Russia will be unable to help Iran defend it against,
+      what is a week or two away, Israel’s attack, America’s attack on Iran — which
+      is going to result in just the conflagration of the Near East. And I made a list,
+      that we talked about earlier of, you know, what America is trying to do to lock
+      in its position: oil and the dollar. But it occurs to me that Trump and his advisors
+      must know that none of these are going to work. And I think that Trump has his
+      own agenda, and you and I talked about that earlier: his narcissistic drive to
+      make himself famous. I think he’s seen there’s one way in which he can be the
+      most famous person in history: He can be the man who blew up civilization! That’s
+      more important than Jesus, more important than Moses. All he has to do is start
+      an atomic war, and when the dust settles, and evolution starts all over again,
+      the surviving humanity — wherever it is — is going to write a history and say:
+      How did all this begin? How did the world blow up? And they’ll say, somebody named
+      “Donald Trump.” That’s his dream. A narcissist cannot resist the temptation to
+      be the most important famous person in all of history. And who’s to stop him?
+      Historians are going to marvel at how he’s been able to rule with such an iron
+      hand. Before we get into the economics, I want to say a lot of people have mentioned
+      Trump’s desire to be a Roman [emperor], like Caligula. Caligula got famous for
+      having such control over the Senate, that he nominated his horse, Incitatus, to
+      be a senator. The word “incitatus” [Latin adjective meaning “swift, at full gallop”]
+      — the English word means: incite, to goad on. Today, you could say that what Trump
+      has done is appoint more than a horse. He’s appointed a whole stable of cabinet
+      ministers, and the people who are running the country, that are the human equivalent
+      of Caligula’s horse. You’ve seen Hegseth’s speech before the army yesterday, and
+      what that did. You could go right down the line to the beauty-contest winners
+      and Fox news broadcasters, appointed administrators. It’s the embodiment of total
+      “yes-men,” people totally under his control. Nobody can stop him. And he’ll have
+      people — the military advisors, such as Keith Kellogg, Netanyahu’s advisors —
+      you can go right down the line — the neocons. It’s the whole — whatever we’re
+      going to talk about for the rest of this hour is going to be. There’s nothing
+      that the United States can do to reverse the loss, the fact that the U.S. century
+      — let’s say, 1925 to 2025 — is over, and the West’s dominance is over. The reaction
+      of Trump is not only chaos, but ‘just bring the whole thing down.’ ⁣NIMA ALKHORSHID:
+      Go ahead, Richard. ⁣RICHARD WOLFF: Okay, well, maybe this time Michael and I can
+      disagree a little bit, and see how that evolves as a program. I understand what
+      Michael is saying. Is that a possible place where we are? Is that a possible direction
+      that we could take? Absolutely. I’m not going to argue that it isn’t. But I am
+      going to argue that when societies find themselves in the kind of dead-end that
+      I think we are now in, and pretty much the same reasoning gets me to that, that
+      Michael has, and that we’ve discussed on this program for quite a while now. Another
+      trajectory out of it, besides the one that Michael just outlined, is a recognition
+      that the game is over and that what has to happen now is a sane negotiation for
+      the least difficult accommodation of what is happening, and is going to happen,
+      no matter what we do. Precisely because the alternative is what Michael just laid
+      out. And that alternative is so horrible, and so self-destructive, that we’ll
+      avoid it. And I take a certain comfort from knowing that whatever was in the mind
+      of Adolf Hitler, or Benito Mussolini or Francesco Franco, that didn’t come to
+      pass either: those projects collapsed. And they mostly collapsed because they
+      overreached what they thought they could achieve and, thereby, produced the backlash
+      that eventually overwhelmed them, and erased them, at least for a while, from
+      history. Okay, so let me spell out very briefly what I think. The contradictions
+      of Mr. Trump’s economic policy are now reaching a level of absurdity — not that
+      they weren’t there already before, but they are now coming to the foreground of
+      people’s awareness. Even the media that support Trump are reporting, what? Well,
+      let’s see. The fundamental rationale economically of Mr. Trump’s every economic
+      policy has been the idea that he’s going to make America great again by bringing
+      back jobs. And he’s made it quite clear that he’s going, you know — the tariff,
+      right? Because you have to pay a fee to access selling into the U.S. market. We
+      hope to see companies coming back inside the United States because that will be
+      a way for them to escape the tariff. They won’t have to pay a tariff. If they
+      sell in Chicago what they make in New Jersey, there’s no tariff. If they sell
+      in Chicago what they make in China, there is a tariff. Et cetera, et cetera, et
+      cetera. So we’re going to make America great again by reindustrialization. They
+      even have a word they like, those people, “reshoring:” bringing back to our shore
+      what was taken to the other shore. Okay. Now let’s take a look at that, how that’s
+      working. Here we go. Number one: Is there a flood of jobs coming back? Absolutely
+      not. There’s no such statistic. Are there some companies coming back? Yes, of
+      course, but most of them have to do with high-tech. They’re going to California,
+      Silicon Valley, and the one thing they don’t have is a lot of jobs because they
+      are capital intensive: they’re full of computers, they’re full of all of that
+      material that they need. And the number of people are highly educated, highly
+      trained, and few in number. That’s not a solution to the unemployment problem.
+      And how do we know that? Because if you look at the last year, all of the original
+      numbers of jobs have been adjusted, in subsequent months, downward, culminating
+      in the latest numbers, which indicate no growth at all — in fact, a decline of
+      32,000 jobs in the latest reporting period. So, no jobs. Okay. Why? Well, here
+      come the contradictions. Because almost everything else Mr. Trump is doing is
+      an encouragement for CEOs around the world not to come here. I mean, let’s go.
+      The government is shut down. Hello? That’s a clue. Don’t go there. If you’re a
+      business person, you don’t locate, you don’t spend millions of dollars moving
+      a factory or an office, lose a year in the whole adjustment, in order to go to
+      a place where the two major parties can’t keep the government functioning. Their
+      divisions and their hostilities are so deep. As if that weren’t enough. The military
+      are discussing invading their own country. The vice-president looks forward to
+      all the major cities being occupied. Well, why would you move to a country contemplating
+      that? That’s eight hundred ways you could make a big, big mistake. You’re not
+      going to do that. You’re not going to be the vice-president in charge of location
+      who will go down in history as having been moronic enough, in the face of what
+      I just said, to move into the United States. But I’m not done. According to the
+      financial press, we’re on the precipice of a stagflationary period: a mixture
+      of low-level economics, which the unemployment numbers I just mentioned reinforce,
+      and an untamed inflation. The current inflation rate is 3%. If we’re in a great
+      struggle with China — let me let everyone know, the official inflation rate in
+      China now is minus 0.4%. They don’t have any inflation. They have a deflation.
+      The United States has an inflation of 3% — that alone will enable the Chinese
+      to outcompete the United States, each year that it continues. Forget tariffs,
+      forget even exchange rates. Before you even look at those, look at the disparity.
+      By the way, this is not new. The Chinese have not — in case you’re not familiar
+      with the statistics — it’s not recent, that they’ve had no inflation. They’ve
+      kept inflation under control in a remarkable way. That’s why you haven’t heard
+      about inflation in China — because it’s not a bad number that the media can talk
+      about. Keep that in mind when you read that Russia is on its knees, its economy
+      — If you cherry-pick statistics in any country, including the United States —
+      if I want to make a case, the United States is in good shape, I can pick six statistics
+      that make that happen. If I want to show the United States is in trouble, I can
+      pick six different statistics and make that case. Any analyst who has a brain
+      knows that the trick of analysis is not the cherry-picking, which an infant can
+      do, it’s the balancing: How do you reach a judgment that takes into account the
+      different statistics, some of which are always pointing up, and others of which
+      are pointing down? Really, it’s like a doctor measuring your body, and all of
+      its functions as well. Alright, the Chinese are — what? They’re not just winning
+      the economic race. It isn’t enough anymore to simply say, look at the GDP. China
+      and the BRICS now are a much larger economic unit than the United States and the
+      G7. And that’s a real issue. But we’re now beginning to see the chickens coming
+      home: We’re seeing the effects, the consequences. Over the last twenty years,
+      twenty-five years, the Chinese have made a series of very important investments
+      in — Venezuela. They are not in a position, neither in Venezuela, nor in any of
+      the other countries that they have invested, to permit the United States to willy-nilly
+      overthrow a government in order then to — what? Wipe out the Chinese? No, no,
+      that isn’t going to happen anymore. That’s what used to happen in the old colonial
+      world, yes. But not now. So when the United States, in violation of everything
+      I understand to be the law, wantonly kills, I don’t know, twenty-five people —
+      by now — in several boats on the outskirts of Venezuela — no arrest, no investigation,
+      no trial, no jury, no judge, no appeal, murder on the spot, with statements about
+      Venezuela being punished for its drug activities. Everyone who knows anything
+      about the drug trade knows that the bulk of the drug trade happens on the Pacific
+      Ocean side of the Western Hemisphere, not on the Atlantic side. What comes from
+      the Atlantic through the Caribbean is small potatoes. If you’re interested in
+      inhibiting drugs, Venezuela isn’t your target. And so, the Chinese — here we go
+      now — the Chinese Navy is big time in Venezuela. What does that mean? It means
+      exactly what you think it means. You’re not going to do there. You can bravado
+      all you want. You can assemble your generals in a sweaty room. Doesn’t change.
+      Is the United States — if Michael is right —is it about to work with Israel to
+      attack Iran — and Venezuela — while the Gaza thing is unresolved? And the Ukraine
+      war is being won by Russia? Really? You know what that would be? Overreach. It
+      would be exactly what brought to an end Hitler, Mussolini, and Francisco Franco.
+      And I bet you, despite their clownishness, among Mr. Trump’s advisors, there are
+      those who may tell him that as well. And if not, well, we can do it. ⁣NIMA ALKHORSHID:
+      Go ahead, Michael. ⁣MICHAEL HUDSON: I think that, to Trump, the drive for U.S.
+      unipolar control can’t be over in his mind. He can’t acknowledge it because that
+      would mean he’s a loser. And that is what makes him so desperate. He’s desperately
+      lashing out, in a strategy that, both Richard and I have described in the last
+      few weeks, can’t work, for reasons that we’ve described. Richard used the word
+      overreach. His tariffs were an overreach. His military expansion on a multifront
+      war is overreach. Richard started by saying he hopes that this is going to frame
+      Trump’s creating of a more realistic resolution of how America can accept its
+      lost place in the world, now that the American century is over, and how he can,
+      realistically, act in a way that is not going to self-destructively just drive
+      other countries further away and consolidate America’s self-isolation economically.
+      Well, we discussed before how Trump can’t reshore industry because his tariffs
+      have prevented that. The tariffs have made America too high-cost — on steel and
+      aluminum, on so many things that America has been importing. So, what is Trump
+      going to do to try to compensate for the fact that other countries have already,
+      in the last few days, rejected the idea of relocating their industry in the United
+      States? They can’t afford it. And Trump is insisting that the United States gets
+      to keep the profits on this industry. It means any foreign investment in the U.S.
+      industry is in danger of being lost. So, what’s the problem? Well, I’ve emphasized
+      before: Oil and the U.S. dollar are the key to the U.S. hegemony. And oil is,
+      I think, absolutely key. Trump’s attack on Venezuela is to grab its oil and —
+      not only grab its oil to make money for the American companies that would take
+      over, but to be able to prevent other countries from importing oil from Venezuela,
+      or refining Venezuelan oil to sell. Same thing with Argentina. Why did Trump make
+      the $20 billion loan to Argentina (that there is zero chance of Argentina being
+      able to repay, for reasons that I’ll get into)? America wants two things in Argentina.
+      Number one: control of its still state-owned oil industry — same thing as Venezuela
+      — take over its oil industry; and to make a military base in Tierra del Fuego,
+      the south tip of South America, that controls not only the route around South
+      America from the Atlantic to the Pacific and back, but control over Antarctica.
+      And the [Javier] Milei government yesterday gave America permission to start the
+      military bases there, bypassing all congressional approval in Argentina, and that’s
+      created a crisis. So, you can see what’s happened. Yesterday, the Financial Times
+      had a very clear article on the fact that, how will America ever get this $20
+      billion back? The only way that it can do it is if the IMF makes yet another loan
+      to Argentina — a losing loan, because the $20 billion is going to be spent right
+      away by Milei to support the Argentine peso, so that the wealthiest classes in
+      Argentina can move their money out of Argentine pesos into the dollar, or gold,
+      or something else, without the current price ratio, not a devaluation price that
+      they’d have to get less dollars or less gold for. So this money is going to be
+      spent right away. And when Milei loses the elections in the next week or two,
+      then Argentina is going to have this $20 billion additional debt. I think Trump
+      knows that the debt can’t be repaid. And like many creditors throughout history,
+      he doesn’t want the debt to be repaid. He said: You don’t have the money to repay?
+      Give us your oil industry. Give us your land in the south. Give us that. Finance
+      is, in Trump’s idea, still a hope for the new colonialism. You’re also having
+      Trump break with the whole rest of the world on global warming. What is he trying
+      to do? Well, much as he’s trying to prevent other countries from meeting their
+      energy needs from oil that the U.S. doesn’t control, he’s trying to prevent other
+      countries from meeting their energy needs by solar power, not to mention wind
+      power, or atomic power. He’s insisting that other countries rely entirely on oil.
+      And yesterday, Trump increased subsidies for, and the sell-off of, huge coal lands,
+      saying not only is oil the fuel of America’s future, but coal is the fuel of America’s
+      future. This increases the greatest threat to all the rest of the world’s economy,
+      in the form of global warming that, along with the military threat, is an existential
+      threat. And other countries, I think, have to realize that, you know, why is Trump
+      refusing to acknowledge global warming? It’s because global warming is a threat
+      to America’s ability to turn off their energy, turn off their electricity, to
+      deny them power, just for the same reason that it blew up Russia’s North Sea pipeline
+      to Europe. So, all this comes down to the support for the dollar. And that’s why
+      Trump has also announced in the last week or so, he wants to increase cryptocurrency,
+      especially the stablecoin, that all of the stablecoin proceeds — crypto, stablecoin
+      — are going to be invested in U.S. Treasury securities. So, this is somehow going
+      to — he believes that this fad for stablecoins is going to — be able to finance
+      the Treasury’s deficit caused by his tax cuts for the wealthy classes — his donor
+      class — and for the shrinking economy, that’s continuing to shrink. So, all of
+      these policies that Trump is trying to do, to say, yes, we can live with the existing
+      world situation, and we can still maintain our unipolar control by reshoring our
+      industry, by controlling oil, controlling agricultural exports, the food supply
+      — well, that hasn’t worked, as you see with the soybean market. All of the ideas
+      of how to somehow hold on to America’s ability to make other countries pay tribute
+      to the United States — by investing here and reshoring their own industry out
+      of their countries into the United States; by depending on U.S. liquefied natural
+      gas, instead of oil; by not obtaining oil from Venezuela, Argentina, Russia, or
+      Iran — all of these are absolutely destined to fail. And the only way that I can
+      see him ultimately responding is by war, to say that, if I can’t have it my way
+      — it’s my way, or no way. That’s my worry of the mindset of Trump, and the neocons
+      behind him. ⁣RICHARD WOLFF: Again, I understand the direction Michael is pointing
+      to. I understand the logic. It’s a compelling logic. It’s clear. Let me only comment
+      by talking about an alternative direction these same developments might lead to.
+      And here’s what I focus on. I’m noticing, and I’m sure you guys have too, but
+      I’m noticing something very interesting happening pretty much at the same time
+      in the United States as in Central and Western Europe. And here’s what I notice:
+      an emphasis on cutting back government social programs, a recognition that whatever
+      the 20th century required in the way of providing education, and medical care,
+      and old-age pensions, and social infrastructure — all of that — is a luxury we
+      can — “We,” the royal “We” — can no longer afford. Why? Well, the bullshit is,
+      ‘we’re threatened by Russia.’ That’s one part of the story. Or, now, ‘we’re threatened
+      by China.’ Okay, that’s very useful. We are in danger. And so this is something
+      endangering all of us, and therefore we must all of us sacrifice. And you know
+      that when the people who run these societies talk about all of us sacrificing,
+      they always exempt — from the “all of us” — the rich and the powerful, who will
+      not be hurt. Well, if you’re going to rearm, if you’re going to spend a fortune
+      — and let’s remember, if you look at the American budget, everything is being
+      cut back, except the military and the new army called ICE. Alright. Now let’s
+      take a look at Europe. Same thing. The leaders — [Emmanuel] Macron, [Keir] Starmer,
+      [Friedrich] Merz — are all telling their people — Mr. Merz — remarkable, if you
+      read his speeches — he simply says: We are in danger. The Russians are threatening.
+      We are going to build up our military, and other things will no longer be available.
+      So, no mystery, for Mr. Merz — by the way, his popularity is dropping like a stone,
+      and I’m going to come back to that. Mr. Starmer and Mr. Macron, their popularity
+      isn’t dropping like a stone because it’s already at the bottom of the barrel,
+      because of what they’ve said. And they haven’t hardly gotten going. So, last piece
+      of evidence. You’ll notice bizarre recognition by these leaders — given what their
+      plan is — that there’s going to be popular resistance. They see it in their polling
+      numbers, which are awful. They see it in the collapse of the political middle
+      in their countries, as left-wing and right-wing extremes become relatively stronger.
+      And then we have Mr. Starmer, who’s literally circling the bowl — and you know
+      which bowl I speak of — in his political career, which has been a descent from
+      unbelievable heights, the last election, to a spectacular crash. You know what
+      his new idea is? He wants to run on identification cards for all British citizens,
+      so that the government can keep better track of — in the middle of this turmoil,
+      he’s going to spend a fortune of money to be able to control, and supervise, and
+      surveil his own people. The French already have had, for many years, a carte d’identité
+      [ID card], which functions that way in France. And Germany is, you know, busily
+      banning the extreme political right as a preface to trying to pull the same stunt,
+      if the left gets going in Germany the way it already has in France — if the Germans
+      copy the French in the unification of their left parties and in their street actions.
+      So, what are we seeing? We’re seeing this system aware of the very conversations
+      in their language, parallel to what we’re doing here, getting ready to have the
+      fight, getting ready to squash what is the real danger. Because they don’t want
+      that war that Michael is talking about. They understand what it might cost them.
+      So, they would hope that maybe they can finesse this crisis moment in the way
+      that a capitalist society would be expected to try to do it  — by squashing its
+      own working class, by taking away enough wealth that they can accommodate the
+      rising Chinese. What option do they have, other than nuclear war? They could accommodate
+      the Chinese because they could save their own privilege and their own wealth,
+      by ripping off their own people. Knowing them, knowing the courage they don’t
+      have, I think there’s a good bet that that’s what they’re going to try to do.
+      And then the issue is — which is always the issue, right? Will the working class
+      of this country, and of Europe, permit this to be done? Will they permit their
+      standard of living to be eroded, as is happening here? Will they admit the army
+      of their own country — that their taxes pay for — be used to occupy the cities
+      that provide most of the taxes to pay for it? Or will the absurdity of this enable
+      a different politics? ⁣MICHAEL HUDSON: Richard, what you’re describing, by the
+      U.S and Europe — the class war — it’s really taking the shape of a fight against
+      civilization, at least the fight against where all of us have defined the trajectory
+      that we thought civilization was moving in: rising productivity that would be
+      more widely spread to uplift living standards and, in the process, productivity
+      in overall growth. And all of that is being sacrificed with the precise class
+      war that you’ve just mentioned. When this morning’s newspapers reported where
+      Trump’s budget cuts were, the largest budget cuts were going to be in education,
+      followed by medical care. Well, these are the two things that civilization was
+      supposed to provide, by the state — by a state that was created by taking it out
+      of the hands of a hereditary landlord and aristocracy, and putting it in the hands
+      of an economy — presumably democratic, or, at least, administered socialist state
+      — that would increase education, productivity, health care, and have rising growth.
+      All of that is being countered by Starmer — with his new Inquisition, is what
+      you’ve described — Merz and Macron. And the result is that, I think, you’re having
+      two things that are going together right now. And that’s very suggestive, what
+      you’ve said. Tomorrow, President Putin of Russia is going to address the Valdai
+      Club, and that’s where he outlines: What is Russia going to do with all of this
+      confrontation that’s taking place? Well, at last year’s meeting, he called NATO
+      a blatant anachronism. Well, that’s true. But the United States, at least under
+      Trump and the neocons, are trying to say, well, it may be an anachronism, but
+      we’re going to restore the past to make the anachronism great again, perpetual,
+      permanent, never-ending. And so this has created two crises. We’ve been talking
+      so far about the geopolitical isolation of the West — the United States and Europe
+      — from the rest of the world that is not engaging in this militarist, financialized,
+      replacing industrial socialism and industrial capitalism with finance capitalism.
+      It’s breaking away from colonialism, but also from the residue of colonialism:
+      foreign debt, and client oligarchies that the Western rent-extraction governments
+      have installed. But all of this is a crisis of finance capitalism, and capitalism
+      itself is a distortion of what people thought would be industrial capitalism evolving
+      into socialism, and just what you described as what we’re all for — so that America
+      and Europe could be just as successful as China, for instance. And you have a
+      rentier economy here that is using a kind of Ponzi financial scheme, led by the
+      Federal Reserve: Let’s just give banks enough money to give the population an
+      ability to buy real estate on credit, buy stocks and bonds and credit. We’re going
+      to continue to enrich the stockholders, the bondholders — and this is the 10%
+      of the population — against the rest of the population, and then somehow we’ll
+      be able to move all our money somewhere. Well, this is part of the libertarian
+      attack on government, and whatever authority government loses under this attack
+      [winds up in the control of Wall Street] — not only has Trump dismantled social
+      spending, he’s dismantled the departments of the government that are regulating
+      and protecting consumers, abolishing the Consumer Financial Protection Agency,
+      abolishing the Environmental Protection Agency. All of the checks and balances
+      that were put in place to prevent a predatory corporate industry from impoverishing
+      society are being dismantled. And so this breakaway from the Western way of doing
+      things is not only a breakaway from this neoliberal financialization and rentier
+      capitalism, it also has to involve a breakaway from the class war that’s the residue
+      of an anti-labor oligarchy — in Argentina, for instance, and the places that we’re
+      describing throughout the world, just as the United States. This is why it’s a
+      civilizational crisis that we’re going through right now. Not only a military
+      crisis — will there be a world war? Not only an environmental crisis of global
+      warming — but, really, what is going to be the structure of government? Is it
+      going to rule for the 1%, or for the economy as a whole? The 1% wants to get rich
+      by indebting and impoverishing the economy with austerity — paid to itself. That’s
+      the U.S. and European alternative to what used to be the definition of civilization.
+      And the question is: Will the BRICS countries be able to recognize this class
+      war, class relationship aspect to the international break that’s occurring? ⁣RICHARD
+      WOLFF: Well, again, I think the contradiction is becoming very painful for libertarians
+      — not that I care. In other words, what you’re watching is a consolidation of
+      government power used in the civil society on a scale that must make a good number
+      of them quit. I mean, are you kidding? You champion Mr. Trump, and he is consolidating
+      a destructive government power, the likes of which you imagined, as some of them
+      are saying, only existed in your caricature of socialism. I mean, let’s be really
+      clear. In the recent speech Mr. Trump gave to the U.N., I believe it was there,
+      or if not to some other audience, he equated three things as being the three goals
+      he has: to defeat those that are anti-American, anti-capitalist, and anti-Christian.
+      Those are the enemies within, that he then asked the military to go deal with.
+      Okay. For a libertarian, that’s not an appropriate thing for a government to be
+      doing — any of those things — because that requires — if you mean it — it requires
+      things like sending troops into cities, not typically a big item on libertarian
+      agendas. I never saw it there. You’d have to attribute it to them as either unconscious,
+      or that they are all, you know, congenital liars. So, it turns out that for Mr.
+      Trump to try to do what we’re talking about here, he has to violate the libertarian
+      commitments. Okay, that is called an internal contradiction to what he’s trying
+      to do. Look: You can use the government that way, but you’re going to lose a lot
+      of libertarians. Now, that may not matter, but there’s other people you’re going
+      to lose. To attack the cities that they keep mentioning, is to attack Democrats,
+      and that wasn’t the libertarian idea either — that the way you do the Republican
+      versus Democrat is you send troops, if you have the presidency, into the cities
+      controlled by the other party — a precedent which, in the event of a Democratic
+      president, is going to come home to roost in very painful ways in this society.
+      I don’t think they have a clue in the world. When Mr. Trump says, I won’t let
+      [Zohran] Mamdani run New York City, in the event that Mamdani wins, he [Trump]
+      is, in his usual way — with bluster — recognizing half of the contradiction: Mamdani’s
+      victory depends on Mr. Trump. It is an effect of Mr. Trump. I don’t want to take
+      away in any way from the really brilliant campaign that Mamdani has run, to his
+      credit — very smart, very careful, very effective — but I’m sure, if he were sitting
+      here, he would admit — and whether he does or not, I’m going to assert — that
+      his campaign is running against Trump, as I would advise him to do. I live here
+      in New York City. I can assure you, the City of New York is overwhelmingly hostile
+      to Mr. Trump. And one of the reasons Eric Adams had to drop out — the sitting
+      mayor comes in fourth in every poll, out of four — he doesn’t do as well as the
+      Republican Mr. [Curtis] Sliwa, and he has the same chance of becoming mayor that
+      Michael and I do — that is to say, none. So what do we have? We have Mr. [Andrew]
+      Cuomo as the Trump stand-in. And things are going so badly that Cuomo, who wanted
+      to run against Trump, is now half-running with him because it’s so hopeless for
+      him. Look: He [Trump] could try, in the first few months. It’s all inherited.
+      Now? That’s over. The horrible employment number? That’s Mr. Trump. Your great
+      program to bring jobs back is an enormous failure. Of course, he’ll blame everything
+      he can think of on somebody else. But we have the easy game. It’s his fault. Mamdani
+      is his fault. The growing socialist presence in many cities across the country?
+      That’s his fault. The extreme right wing? That’s his fault. He’s enabling all
+      of that. He is producing civil conflict, which may explode, and if it does, I
+      am very confident that an enormous number of voters in the United States — if
+      it comes to that in the next six months — will blame him. And if he doesn’t understand
+      that? Oh boy, is he going to be in trouble! ⁣MICHAEL HUDSON: Richard, my definition,
+      my understanding, of libertarianism is the diametric opposite of yours. Libertarianism
+      was created as a centralized police state, basically, a centralized power. It
+      began with the Austrian School of individualism, as an attack on classical economics,
+      and essentially on socialism. and the fights going on — armed fights — in Vienna.
+      Libertarianism wants to get rid of government. It has created a narrative of economic
+      history, of how all of economic civilization could have existed without any role
+      for government, regulatory agencies, without any ability of the government to
+      interfere with private enterprise. And if you dismantle the power of government,
+      who is going to be doing the planning and resource allocation of the economy?
+      Wall Street. Libertarianism has always been a defense of Wall Street, not the
+      government. Control of wealth and the rich, not government. Absolute blockage
+      of any attempts by government to interfere with the market, by taxing the rich
+      more, interfering by providing free medical care and education and not leaving
+      this to the free market to make people go into a lifetime of debt to get an education
+      or medical care. Libertarianism is, in a word, fascism. From the very outset,
+      that was what it is, and that requires a police state to enforce. Libertarianism
+      is the doctrine of the police state to free the market from the socialists. And
+      I’m glad you mentioned Mamdani in New York. Yesterday again (maybe the day before),
+      Trump says, now that there’s a government shutdown that occurred yesterday to
+      begin with, he said: We’re going to begin firing government employees, and I’m
+      going to concentrate on states that have voted Democratic. We’re going to fire
+      Democratic state employees in New York, Massachusetts, California, Illinois. He’s
+      singled out where he’s going to dismantle government. Well, you can imagine what
+      this is going to do. This is going to increase poverty, crime, distress, foreclosures,
+      ICE. So that’s why he’s moving, not only ICE, but as you were pointing out, the
+      army into these cities — an army, not to engage in police work to prevent crime,
+      but an army to fight it in the ways that armies do. And the first point you made
+      was mentioning Christianity. And I’m glad you mentioned it because we haven’t
+      been discussing it before, but it’s very important to President Putin. For President
+      Putin, and for much of the world, their idea of Christianity is what’s left of
+      the original Christianity: Eastern Orthodoxy, the Greek and Russian Orthodox Church.
+      Putin and the Russian speakers continually talk about the attack by Roman Catholicism,
+      starting in the 11th century, to create the Crusades to destroy Byzantium — the
+      Byzantine Empire — to destroy the Eastern Orthodox Church; to mount the Crusades,
+      to fight and weaken and loot Constantinople, and prevent it from having the resources
+      to defend itself against the Turkish invasions that have followed. All of this
+      history of the Crusades, and the intolerance of the Roman Catholic religion in
+      comparison to the tolerance of Eastern Orthodox religion at the time, all of this
+      is a living history to Russia, and the rest. And it’s that the Crusades and the
+      fight of the Western Christian Church to destroy what’s left of the original Christianity
+      and the Orthodox Church is the dress rehearsal for all of the current, and the
+      narrative context for all of the fight between the Western decadence —  to Putin
+      — and the survival of a more, I won’t say socialist society, but his idea of a
+      Christian society of mutual aid, of support, of tolerance. You could call it a
+      unipolar domestic society as well as a unipolar international society. All of
+      that has a religious foundation in Russia — very similar to China’s foundation
+      in socialism and, before that, in Confucianism. We’re really dealing with, not
+      only a predatory economic mentality of the West — these are the global majority
+      — but a religious and ethical and social mentality that’s at stake here. And America
+      is not going to talk about the Crusades, and intolerance, and the characteristics
+      of this cultural shift. But, believe me, in Russia and China, that’s what they’re
+      talking about. ⁣RICHARD WOLFF: I want to — if I could, if there’s time, Nima —
+      say a few words about the libertarianism. Think of it this way, with the irony:
+      The libertarians have been so frustrated for most of the last century, particularly
+      with the rise of Keynesian economics, when they had to confront a social movement
+      — largely successful — that said that if you leave capitalism to the private enterprise,
+      you get the Great Depression. And so you need government intervention. The government
+      needs to have a fiscal policy. The government needs to have a monetary policy.
+      It has to make up for the demand that is insufficient in the private economy by
+      spending deficits. If it needs to, it has to manipulate the monetary system —
+      quantity of money, interest rate, and so on — in order to manage a capitalism,
+      which, if you don’t manage it, will destroy itself. The great fear of the Great
+      Depression is that the working class rises up, and says: We’ve had it with this
+      system. It’s too unstable. The crises are increasing. Screw it! Keynes saves the
+      system, but at the price of the government having a major role. The libertarians
+      are horrified. They represent that part of capitalism that hated the government,
+      remembering the absolute monarchies of feudalism, out of which capitalism came,
+      and against which it coined the phrase, ‘leave us alone,’ i.e. Laissez-faire:
+      let us do on our own. So, they have this deep commitment to not having a government.
+      How ironic, how painful, that they have to bring the government in to save their
+      system! So they then indulge a fantasy. That’s what libertarianism means to me:
+      the fantasy that they ever could, or ever would, be able to function without the
+      government. And so they become — in the bad sense of the term — religious: They
+      indulge a fantasy utopianism about no government. And then, here, now they’re
+      confronted, again, with the same frustration, because the only way to move towards
+      no government is to have a massive government power move against all of the accumulated
+      institutions. And then, of course, the poor libertarian will notice that that
+      power of the government grows, and grows, and grows. They’re having the same spectacle
+      unleashed by Mr. Trump that they used to hate in Franklin Roosevelt. There is
+      no escape, you poor, poor, misled folks. The government is part of a society,
+      unless, of course, you take the Marxist approach and see the government as the
+      expression of a class-divided society. If you think like that, then you might
+      have the idea: If we can develop an economy without opposing classes, we remove
+      the need for a government as a mediator. Aha! Oh, but for people who want to keep
+      away from Marxism, don’t think for one minute about what I just said: Stay pure,
+      stay clean, avoid that Marxist tradition, and just go to church on Sunday. ⁣MICHAEL
+      HUDSON: Well, Richard, of course, you’re right, that libertarianism, and much
+      Christianity, is a fantasy. I prefer to think of it as a cover story. It’s always
+      been a cover story saying: We’re ethical, we’re for freedom, we’re for prosperity.
+      But what are they really for? The church, once it was romanized in the Roman Empire,
+      and taken out of the hands of the early Christians, it was always, religion was
+      a tool for — the opium of the people, you could say.  It’s a fantasy, it’s opium
+      of the people. It’s to claim to be progressive, and caring about people, and protecting
+      the poor. It hates the poor! Rather, it loves the rich. It doesn’t love the poor.
+      It loves the rich, and that includes, loving them includes, sharing their antagonism,
+      antipathy towards the poor, and their class hatred of labor, in fact. So, that’s
+      really the problem. Christianity and libertarianism go together. I think it’s
+      hypocritical. It’s a fantasy by most of the followers. It’s designed to be a fantasy
+      by a small core at the top — the bishops (in Christianity), the cardinals, the
+      leadership. And the followers: the sheep at the bottom. The shepherd and the sheep.
+      That’s not the socialist idea of the kind of reform that we’re talking about.
+      So, I’m more politically critical and suspicious of just how are we going to enlighten
+      these would-be Christians, these would-be libertarians? How do we say: If you
+      want your ideals — they’re just what you’ve been talking about, Richard. ⁣RICHARD
+      WOLFF: Let me just end by reminding everyone of [Karl] Marx’s teacher [Georg Wilhelm
+      Friedrich] Hegel. Marx writes, yes, religion is the opiate of the masses. But
+      he also writes, right there, it’s also a haven in a heartless world. He understood
+      why people embrace religion, what it is they’re searching for, and the need —
+      for those of us who are critics — never to forget the real function it serves,
+      the real needs it responds to. Even if we don’t like how that response works,
+      we better understand what it is the response to, so that we understand our task
+      as, partly, to create the alternative response — which is in a sense, if you allow
+      me, what these conversations every week are about. ⁣NIMA ALKHORSHID: Yeah, exactly.
+      Thank you so much, Richard and Michael. Great pleasure, as always. ⁣RICHARD WOLFF:
+      Take care. Thank you. ⁣NIMA ALKHORSHID: Take care. See you. Bye-bye. Transcription
+      and Diarization: https://scripthub.dev Editing: Kimberly Mims Review: ced Photo
+      by Koshu Kunii on Unsplash The post Libertarian Fantasy, Police State Reality
+      first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion on October 2, 2025, Nima Alkhorchid, Richard
+      Wolff, and Michael Hudson address the implications of Donald Trump's rhetoric
+      regarding Russia and its potential to escalate tensions towards nuclear conflict.
+    paragraph_summary: In a discussion on October 2, 2025, Nima Alkhorchid, Richard
+      Wolff, and Michael Hudson addressed the escalating tensions surrounding U.S. foreign
+      policy, particularly regarding conflicts in Ukraine and the Middle East. Michael
+      Hudson highlighted a recent urgent meeting involving Pete Hegseth and military
+      leaders, emphasizing that Donald Trump's rhetoric, which includes labeling Russia
+      as a "paper tiger," could contribute to a dangerous escalation towards nuclear
+      war. He argued that Trump's desperation to maintain U.S. and NATO dominance is
+      backfiring, as countries like Korea and Japan are distancing themselves from U.S.
+      investments. Hudson warned that the ongoing military actions in Ukraine, including
+      attacks on Russian energy infrastructure, could lead to an increased cycle of
+      violence, ultimately forcing a confrontation that threatens global stability.
+    published: '2025-10-09T23:07:44+00:00'
+  - title: Stability for Whom?
+    url: https://michael-hudson.com/2025/10/stability-for-whom/
+    text: 'Inspire Us Podcast – S6 EP5 Broadcast Date: Wednesday, August 20 This transcript
+      is from the Inspire Us Podcast S6 EP5 , recorded with Professor Michael Hudson.
+      We are two Master’s students in Development Economics based in London, and through
+      our podcast we explore global political economy, development, and critical perspectives
+      on pressing issues. The episode was broadcast on August 20, and in this conversation
+      we spoke with Professor Hudson about rentier capitalism, financialization, debt,
+      and the structural challenges facing Britain, Europe, and the global economy today.
+      What follows is the official transcript of that discussion. ALEX: So, yeah. How
+      did you meet Steve Keen? MICHAEL HUDSON: Well, how did I meet him? ALEX: Yeah.
+      MICHAEL HUDSON: A group of Georgists, of all people, brought me to Australia.
+      I had been given a round-trip ticket to China that I was able to stop off in Australia
+      and the man who became my webmaster, Karl Fitzgerald, brought me to Sydney and
+      arranged for a meeting, a joint talk with Steve Keen. And that must have been
+      maybe 15 years ago. And ever since Steve and I have gone around the world giving
+      lectures — Germany, Washington, D.C., Chicago, just about everywhere. So we became
+      very good friends because essentially we have the same approaches, although he’s
+      much more mathematical than I am and I’m historical. So what he’s covering in
+      the mathematical field, I’m covering in the history of economic thought, which
+      he also covers. Basically, my focus is much more on classical theory of value,
+      price, and rent. And I’m focusing on rent, which is why the Georgists brought
+      me there, trying to deal with Australia’s awful financialization of real estate
+      that’s been bidding up real housing prices in Australia at enormously high prices
+      that prevent Australians from spending much on the domestic market for anything
+      besides the rent. Where are you located by the way? ALEX: What does economic history
+      help us understand when looking at rent and financialization? MICHAEL HUDSON:
+      Well, I guess you’d read about Ricardo and the whole development of rent theory
+      in the Corn Law debates in 1815, when at that time Ricardo said if we don’t prevent
+      the landlords from getting all the rent, this rent is going to absorb all of the
+      income over and above the subsistence wage and there won’t be any profits. What
+      he did not recognize — and nobody of his era imagined — that once you ended the
+      hereditary landlord class, there was still going to be economic rent. But it was
+      all going to be paid to the banks. And 80% of bank lending is to real estate in
+      the form of real estate mortgages. So the whole financial system is based on rent.
+      And naturally that means that the bankers have thrown their interest behind the
+      real estate interests, because they know that whatever the government does not
+      collect in land taxes is going to be available to be paid in interest. So instead
+      of — in 1815 the financial interests supported Ricardo, because the banks were
+      interested mainly in foreign trade financing. And they said if you make Britain
+      the workshop of the world, then it’s going to be exporting its manufactures and
+      it’s going to be importing raw materials and food from other countries. And that’s
+      going to increase international trade. And that will create increase in the market,
+      first of all for our letters of credit to finance this trade, and our foreign
+      exchange dealings. And second, it’ll enable the stock market to begin buying into
+      foreign transportation facilities — canals, transport and everything to serve
+      the foreign trade. They had no particular interest in industry at all at the beginning.
+      So when James Watt developed the steam engine, there were no banks around to finance
+      industrial investment. It was only much later that they began to finance industrial
+      investment, and they’ve really never cared. They want to focus bank lending on
+      money that you don’t have to work hard to earn. They want money for economic rent,
+      for land rent, for monopoly rent, and for financial speculation. But I asked before,
+      where are you calling from, where are you located? ALEX: London — close to, because
+      back when we had Steve Keen on the podcast the first time, he had mentioned that
+      he was staying at your place. MICHAEL HUDSON: Yeah. Where Steve was staying, right?
+      ALEX: Yeah. He was just right around the corner. So, yeah. MICHAEL HUDSON: Okay,
+      now I get it. What are you studying? ALEX: Development economics, both of us master’s.
+      MICHAEL HUDSON: Do you find that helpful? DARA: I think so, personally. MICHAEL
+      HUDSON: I mean, what’s interesting about development economics and rent is that
+      while the classical economists and industrial capitalism wanted to get rid of
+      economic rent in their own countries — in Britain, Germany, France — they wanted
+      to minimize economic rent so that the industrial employers would not have to pay
+      their labor enough money to buy high-priced food and, in time, high-priced housing.
+      But they were all for economic rent abroad. When they made their foreign investments
+      — Britain, France — they wanted to buy mining properties, infrastructure monopolies,
+      transport monopolies, communication monopolies. So there was, from the very beginning,
+      from 1815 on, this idea: western and industrial capitalist countries will prevent
+      other countries from industrializing by essentially making them rentier economies.
+      That’s the big trend — what has shaped the last two centuries of the Western economies.
+      DARA: And for you that’s very intentional? MICHAEL HUDSON: It’s not only intentional,
+      yeah, it’s a direct opposition. The whole — for me, the classical distinction
+      between earned and unearned income, that price is the excess over cost, rent is
+      the excess of price over intrinsic cost value. And industrial capitalist countries
+      want to minimize this difference. Without rent, they want the economic surplus
+      to be paid to them as profits. But financialization, essentially, to the extent
+      that it supports real estate and monopolies and financialization, it polarizes
+      the economy. It shrinks the amount of income available to pay profits, because
+      the labor force — the workers, like in the United States and England — have to
+      pay so much more money for their rent. They have to pay monopolies like Thames
+      Water, you know, for the water, instead of low-cost public water like they used
+      to have. Uh there’s no way that England can be an industrial country since Margaret
+      Thatcher and Tony Blair turned it into a rentier economy. DARA: Because I mean,
+      that time is heavily debated here. Lots of— Sorry, Michael. Can you hear me? ALEX:
+      Maybe let’s turn up — we can turn up the mic. DARA: Yeah. Shall we turn up the
+      mic? MICHAEL HUDSON: Yeah. DARA: No. So obviously the Thatcher period— Oh, you
+      can hear? Okay, great. So the Thatcher period is heavily contested and very contentious
+      topic. And, you know, some people say it took us from the dark ages — you know,
+      the ’70s we had strikes, the government were really at the helm of the unions.
+      And that Thatcherite period, that Big Bank period, many people here in this country
+      really revere. Would you not say there’s any advantages to Thatcherism? For you,
+      is it just a net negative? MICHAEL HUDSON: Yeah. Yes. DARA: That’s my question.
+      So for you, is it just a net negative? You don’t see any advantages to Thatcherism
+      and how it took us from the dark ages of the ’70s? MICHAEL HUDSON: But England
+      — Britain — has been left as a rentier economy. I think the reason that so many
+      voters voted for Brexit was they knew that it was all about the City of London
+      and the financial sector. And they thought that they wanted to get rid of the
+      financial sector that was sponsoring all this awful right-wing politics that was
+      making life so awful. They did not reverse all of the giveaways that Thatcher
+      and Blair had made to the financial sector by privatizing the public utilities,
+      by dismantling council housing, essentially creating a real estate bubble that’s
+      made the banks rich, as they’ve got rich off financing Thames Water and all the
+      other public utilities, and this is what’s de-industrialized Britain. Is there
+      any consciousness of that there? Do we get into any of that in your development
+      financing? DARA: Um, no, not really. That doesn’t get discussed very often, but
+      I guess in political discourse Thatcher’s era is very often discussed. MICHAEL
+      HUDSON: I mean, I studied, needless to say, development financing in the 1960s,
+      and it was really about how other countries are supposed to somehow industrialize.
+      But there was no recognition that they couldn’t industrialize as long as they
+      remained financialized, and as long as the World Bank blocked them from producing
+      their own food supply to feed themselves, so that they would rely on America’s
+      grain imports and food imports, and essentially finance backwardness instead of
+      development. And that’s what I wrote about in Superimperialism . DARA: Do you
+      think it’s possible for the US or the UK to re-industrialize, or is it a bit of
+      a pipe dream? MICHAEL HUDSON: It would take a— a political revolution, and they’re
+      not ready to do that. It’s not possible to industrialize without realizing why
+      Britain de-industrialized— de-industrialized by being financialized. It had been
+      a mixed economy before Thatcher, public and private. And the role of the public
+      sector was to minimize the cost of living for British labor— low-priced housing,
+      low-priced medical care, low-priced education, and low-priced public services—
+      so that you could have a living wage and not pay monopolies and landlords and
+      the banks as much of your income as they now do. So essentially most British income
+      is now paid for the various forms of economic rent— land rent, monopoly rent,
+      and financial speculation— and without undoing this, without wiping out this debt
+      that’s mounted up, without de-privatizing the public monopolies— I think Thames
+      Water should simply be taken out without any payment at all to the bondholders
+      and the stockholders; they’ve already looted the company. There is nothing left.
+      And after a company’s been looted, you don’t then pay them for the price of what
+      it would cost to remake the company before it was looted. You should think of
+      finance in Britain as a looting operation. That’s what it is to Britain. DARA:
+      Yeah. And I think many people here do see it like that. But the counterargument
+      is we’re so strapped for cash in this country, the budget deficit keeps on growing.
+      And I’m not sure if you’ve followed British politics, but I’m sure you’ve seen
+      Rachel Reeves crying in the House of Commons and the reversal of the welfare reforms.
+      So we’re quite encumbered by the financial situation. The argument is: how can
+      we possibly nationalize our water systems? Where’s the money going to come from?
+      Do you think it’s possible— is it paramount that they get even more indebted?
+      MICHAEL HUDSON: You don’t need money to— you don’t need money for any of this.
+      You don’t need money to wipe out debts. You don’t— you don’t need money to enable
+      the labor force and British companies to pay the debts they owe. You just write
+      down the debts to the ability to be paid. You can say, “if Thames Water is unable
+      to pay the debts after putting so much investment in,” it turns out they didn’t
+      put in the investment at all— they paid it all out. It’s all been a fraud. They’re
+      gangsters. There is no need to pay them. You have to realize what is more important
+      to Britain: to create a living wage in an economy that can afford to employ industrial
+      labor, or to pay all of the financialized interest, the real-estate interests,
+      the monopolists that have taken over the government and added to the economic
+      overhead. Does the government want to wipe out the economic overhead or not? DARA:
+      And I guess because of our education, we’ve had many talks about debt forgiveness,
+      but more in the context of Global North forgiving debt in the Global South— less
+      so at the national level or at the individual level. But when you say “debt forgiveness,”
+      people just look at you like you’re a crazy commie. MICHAEL HUDSON: I don’t like
+      the term forgiveness — that’s like a Catholic word. There’s a sin of Adam that
+      we’re all holding and you have to be forgiven for by paying the Church to absolve
+      you. That’s— you’re not forgiving— these are bad debts. You wipe out, you clear
+      away the bad debts. It’s not debts you’re cancelling; it’s the bad loans. You’re
+      clearing off the bad loans. The banking system has made bad loans. There’s no
+      way you can shift to— If Britain did what it tried to do in 1909 and 1910 and
+      enact a land tax, which is what caused the constitutional crisis of that year,
+      then the increase in the rent of location would be the tax base. You wouldn’t
+      have to tax labor; you wouldn’t have to tax industry. That was the whole logic
+      that was spelled out in 1910. But instead that wasn’t done. Instead, real estate
+      has been untaxed. Finance has been untaxed. And monopolies, as long as they can
+      multinationalize themselves, can avoid taxes. Real estate isn’t taxed if you simply
+      register your ownership in the Jersey Isles or offshore and say, “Oh, it’s foreign-owned,
+      I don’t have to pay any British income tax,” and then Jersey will have an account
+      in the Cayman Islands— a whole corporate shell game that’s taking place. So the
+      fact is that the existing banking system cannot survive if you wipe out the debts
+      that are the collateral behind the banks’ liabilities to their depositors and
+      other crossparties— then they’re going to go under. And that’s why I don’t see
+      the British willing to do more than something marginal. There’s a certain character
+      of thought among Englishmen that I found— it was called muddling through back
+      in the 1960s, “if we can somehow make a little tactical change and get by it”.
+      A tactical change won’t work anymore. It has to be a systemic change, and Britain
+      is generations away from making that— as is the whole West of Europe and the United
+      States. So the problem that Britain has is the problem of all the Western economies.
+      They’re in the same boat. And again, classical economics— the value, price, and
+      rent theory— gave a way to look at all this, but Britain’s so bamboozled that
+      when it talks about GDP growth, it includes in GDP all of the interest payments
+      made to banks— that’s called providing financial services — as are late fees “services”;
+      paying rents to landlords— that’s called providing housing services ; paying monopoly
+      prices— that’s just the cost of living. None of these would have been considered
+      to be GDP by economists from Adam Smith, John Stuart Mill, Marx, and the whole
+      19th century. They would have said this is not an intrinsic cost of production
+      and not value. GDP— because it’s gross national product — is the value. What is
+      the value of a product? It’s the actual socially necessary cost of production.
+      Paying rising rents is not a cost of production, because this is mainly the site
+      value of the land— the rent of location. It’s the monopoly rent. And when a monopolist
+      raises its prices, when a landlord raises its prices, when a bank increases the
+      interest rates, that’s not creating more of a product. That’s just— it’s a transfer
+      payment, a zero-sum payment, not a product. So the whole way in which the economic
+      curriculum depicts an economy as working is unrealistic in terms of the classical
+      economists. That’s why when I went to school in the 1960s at least they still
+      taught the history of economic thought, so that when one read Ricardo and Smith
+      and one understood the whole idea, the whole concept, of economic rent. That’s
+      what volumes two and three of Marx’s Capital were all about—rent and financial
+      returns and interest. All of that has been stripped away from the curriculum,
+      as if somehow this treatment of all income is being earned. There’s no such thing
+      as unearned income, no such thing as unearned wealth. The billionaires actually
+      earned their wealth by producing a profit. So that the owners, stockholders, and
+      bondholders of Thames Water have actually earned the money that they paid themselves
+      from Thames Water. And all the landlords— the Duke of— the Duke that owns most
+      of the land under, is it Westminster, the whole area there— actually earns all
+      the rents, the ground rent that he receives, that goes up and up. And the whole
+      concept of earned income and unearned income has been wiped away from the teaching
+      of how economies work. DARA: Yeah, I think it’s sort of been merged into one.
+      And I also read that even our productivity numbers prior to the global financial
+      crisis— it was a big fugazi— those numbers were heavily linked to the financial
+      sector and it wasn’t actual productivity. But yeah, on this topic of the rentier
+      class—or the “rentier” class, however you want to pronounce it— how do we dismantle
+      it? Because we’ve had like, what, 20 or 30 years of really low interest rates
+      and people said, or in theory, that should be the euthanasia of the rentier— really
+      low interest rates— but that didn’t seem to happen. So how do we dismantle this
+      system? MICHAEL HUDSON: I can see how Britain’s going to dismantle it. You have
+      to cut the wages in half. You have to have half the population starve and leave
+      the country. Then wait another generation, and there will be almost nobody left
+      in Britain. Then you can restructure the economy, because the banks and— nobody
+      will make any more money left in England, and it’ll be ripe for a restructuring.
+      But you’re going to have to have 75% of your population disappear. And that’s
+      going to take a few generations. ALEX: Is that what we’re leading to? Because
+      the thing is, in England we come across this a lot where everyone outside of London
+      feels left behind, feels forgotten. It’s all about London. It’s all about the
+      finance in London. But is that where we’re headed with this continued financialization?
+      MICHAEL HUDSON: That’s where we’re headed, yeah. Financialization is going to
+      bring about the shrinkage of the British economy. It sucks all the revenue, all
+      the income— via real estate, via bank loans, via financial takeover of more and
+      more natural monopolies and the rest of industry— and it sucks it out. There will
+      be no more direct investment. The cost of schooling, of housing, of healthcare
+      will continue to go up. I think that Starmer has the solution. He says if we wreck
+      the National Health Service then England will die off quicker. If we continue
+      our current policies, people can’t afford to live in London anymore and they’re
+      going to have to move out. And his other policies will wreck English industry
+      and speed the parting guest. So stick with Starmer and just continue the destruction,
+      and that will pave the way for people thinking there must be an alternative, and
+      then they’re going to begin looking at history and they’ll find out there are
+      plenty of alternatives. It doesn’t have to be this way. Starmer is running on
+      the principle it does have to be this way— “There is no alternative,” as Margaret
+      Thatcher said. So he’s sort of like the super-Thatcherite— I should say Blairite—
+      because Blair and Starmer have gone further than Thatcher was politically able
+      to do. They’ve perfected her financialization system. ALEX: But how did this happen?
+      Because you mentioned that before, you know, these countries knew to industrialize,
+      that they didn’t want rent economies, and they were just doing that outside. How
+      did this happen where now it consumed their whole economy? MICHAEL HUDSON: It
+      was necessary for the economics curriculum to be transformed— to transform the
+      way in which people viewed how the world worked— and to get rid of thinking of
+      economies in terms of earned and unearned income. To get rid of thinking in terms
+      of rent as unearned income— the excess of price without value, empty pricing.
+      They had to strip away the whole concept that financial wealth, rent-yielding
+      wealth, monopoly wealth, was not wealth at all— it was predatory and parasitic.
+      I’ve written about that in Killing the Host , and historically, politically, in
+      Superimperialism . Those are the two main works where I’ve explained all of this.
+      DARA: Didn’t you say that it was linked back to ancient times, where people would
+      be in debt because of agricultural produce? And because of that— well, sometimes
+      the crops would fail— but you don’t want these people to be overly indebted because
+      that will lead to the downfall of your economy. So that’s where this practice
+      started from, with debt cancellation. So it has been common practice for years
+      and years— but now, today, it seems to not be discussed whatsoever. I mean, I
+      don’t think in the House of Commons they’re even talking about debt cancellation.
+      It’s been completely lost within public discourse, which is a shame. MICHAEL HUDSON:
+      Well, first of all, the Western countries, including Britain, have financialized
+      politics. So you’ve turned politics over to the major donors to the political
+      class. This is most nakedly apparent in the United States. But also Britain has
+      always pretty much been run by the upper class, except to the extent after 1815
+      when the rising industrial bourgeois class overthrew the landlord class that had
+      dominated British politics since the origins— since the war— the warlords, Norman
+      warlords, conquered it on behalf of the Church and pledged loyalty and fealty
+      to the popes. So, all of this— there was a class consciousness very strong after
+      World War II. And also in World War II, so many British men were killed that the
+      women took much more of an administrative position, and they were more supportive
+      of the mixed-economy idea that everybody needed to be able to make a living wage—
+      to break even. And you had this whole flowering of British public investment and
+      public utilities and public service. All of that’s been privatized and taken over
+      and parasitized, largely under foreign influence. And largely, in order to do
+      all of this, you had to erase the consciousness, you could call it. It’s not only
+      the class consciousness you had to erase; it’s the consciousness of the distinction
+      between value and price, the distinction between earned and unearned income— the
+      awareness of the fact that if you want an economy to survive and be resilient,
+      you want to prevent unearned income from crowding out all of the earned income—
+      the profits and other earnings that are used to build more factories, to hire
+      more labor, to produce more goods and services, building more houses, etc. All
+      of this is— Britain has sort of been maneuvered and steered into a blind alley,
+      but so have all the rest of the British, or the European countries. They’re all
+      in a blind alley now. Just look at Germany. And look at the United States. It’s
+      a way of thinking. Western civilization never had the idea of general debt cancellations.
+      That was universal in the Middle East—what’s now called West Asia. From one end
+      of Asia to another there was the idea of keeping the economy in balance and not
+      ensurfing the free agricultural class. None of that was built into Western civilization
+      from the 8th century BC onwards. I’ve discussed this in The Collapse of Antiquity
+      . By the way, you’re recording this, right? ALEX: I can double check, but yeah.
+      Yeah, we’re recording? MICHAEL HUDSON: And you’ll transcribe it? ALEX: Yeah. MICHAEL
+      HUDSON: Okay, just wanted to make sure of that. Anyway, I’m sure your questions
+      have sort of prompted me to take what seems to be an extreme answer, but we’re
+      in an extreme situation. There is no solution within the current way in which
+      the British tax system has been structured, and within the huge amount of debt
+      that wage earners, that companies, that real estate has all taken on. The debts
+      cannot be paid without sacrificing all hope for economic growth. So what’s more
+      important to Britain—paying the existing creditors who’ve created this diversion
+      of income to pay themselves, or the 90% of the population that wants to grow?
+      The population of England agrees: all the money to the creditors. Don’t spend
+      it on us, spend it on the creditors. That’s their morality. “Debts must be paid.”
+      That was a problem that Britain had after World War I and after World War II.
+      Well, the debts don’t have to be paid. And if you try to pay them, then you’re
+      going to sacrifice your opportunities and the revenue that you would otherwise
+      need for economic growth, because you’re paying it all to the banks. DARA: So
+      since we’re talking about Britain, would you advise Rachel Reeves to implement
+      a wealth tax? MICHAEL HUDSON: Absolutely. Absolutely. Of course. In the United
+      States, it imposed the income tax in 1913. It was very high. You didn’t have to
+      begin to pay the tax until you reached a certain income level. And the income
+      level at which you began to be taxed was so high that only 2% of the American
+      population had to file an income tax return. That’s wonderful. In Britain today
+      it would be certainly the top 20% I’d say that should be taxed. The bottom 80%
+      of Britain should not pay an income tax. There’s no way that your labor force
+      can pay an income tax and also pay their rents and the cost of their hitherto
+      public services that have been privatized. Something has to give. DARA: I guess
+      the counterargument to that is, you’re scaring away all the wealth. And we need
+      more ingenuity and innovation, and that’s something that the UK and many other
+      European countries lack. I think Europe does look to America admiringly, because
+      their tech sector is thriving, they have better productivity numbers. So the argument
+      here is that with this wealth tax, are we sure we want to do this? This will be
+      the end of the Labour government. No one will vote for them again. MICHAEL HUDSON:
+      It should be the end of the Labour government. Put it this way: Britain doesn’t
+      have a wealth tax. What they want to do is to say, “Give taxes to the wealthiest
+      20%, not to us.” If the voters vote that they don’t want the income—“Give it to
+      our betters”—that’s the English thing to do. Well, who am I to interfere with
+      them committing suicide? ALEX: Yeah. Are you familiar with Gary’s Economics? This
+      ex-banker in London who is now advocating for a wealth tax—basically made a name
+      for recognizing that there was this rent-seeking going on, and the divide between
+      rich and poor is growing, and all the wealthy people are just owning all the land.
+      They have so much money they don’t know what to do with it. They’re just buying
+      more and more things, more assets, and the economy is just becoming more divided.
+      And you were talking about how we need a political revolution in order to implement
+      this. He’s quite small, but he is, I guess, leading that revolution. MICHAEL HUDSON:
+      The only way you can stop the current trend is by what you call a revolution,
+      which is really a structural change. A structural change either requires a revolution
+      or a public awareness that the economy has to be transformed to work in a different
+      way than it’s working now. And right now the economy is leading towards more and
+      more poverty and more and more concentration of wealth at the top of the pyramid.
+      British incomes of wage earners are stagnant, maybe going slightly down. The wealth
+      of the upper 20% is going up and up and up—in the stock market, the bond market,
+      the real estate market, the financial markets, they’re all going up. And the reason
+      this is happening is because that’s the way the economy is structured. Unless
+      you restructure the economy, that trend is not going to change. ALEX: Do you think
+      it’s human tendency, that with financialization they’ve found an easy way to make
+      money, and so why not just continue? MICHAEL HUDSON: It is certainly the logic
+      of people who are making money in financial ways. They think, “I’m getting richer
+      and richer and richer, and more important—something I really enjoy: the rest of
+      the economy is getting poorer.” The wealthy people love to see the rest of the
+      economy getting poorer. That’s their ego. They think, “Boy, I’m getting richer,
+      they’re getting poorer. Of course I want this to go on. Hey, what’s the change?”
+      But the problem is, why do the 80%—the rest of the people—go along with this?
+      ALEX: Yeah. I guess it is an education problem. Not many people are even aware
+      this is going on. I think even our generation now, we’re brought up in this world
+      where we don’t know the world before financialization. This is what we think normal
+      is, right? The banks, Visa, all these things—that’s just how it is. So I guess
+      it is an education… MICHAEL HUDSON: You put your finger on it. There’s this idea
+      of social Darwinism: all of history has been moving forward through the survival
+      of the fittest, to get to today’s optimum position. We’re the peak of history.
+      It’s all been moving to today’s position where the wealthiest 20% get all the
+      wealth, 10% get all the wealth, and the 1% get most of that wealth of the 20%—the
+      1%. That’s where history’s been moving towards, thanks to our wonderful management
+      and our way of doing things. And this idea that it’s a natural part of evolution
+      and not completely unnatural—there’s been an intellectual counterrevolution against
+      classical economic thought, and the idea of rentier income of being unearned,
+      and the idea that finance should be privatised instead of being a public utility.
+      I guess the best way to put it in England is: why did China’s economy go forward
+      and not ours? Well, when China had a revolution, the financial class and landowning
+      class all fled to Taiwan. There wasn’t any financial class, so China had to do
+      what the American colonies did before the Revolution: they printed their own money.
+      And they just printed. Government doesn’t need a wealthy financial class to lend
+      it money to operate it. The government can print the money. That’s what America
+      did in the Civil War with the greenbacks. That’s what every European government—including
+      Britain—did in World War I. Everyone said World War I was going to end in six
+      weeks, six months, because the governments would run out of money. They all began
+      printing the money. That’s what you could do today. The government doesn’t need
+      a wealthy financial class to say, “Give us all the money and let us become the
+      central planners.” Britain has become a centrally planned economy. But the central
+      planning has been taken out of the hands of the government, out of the hands of
+      Parliament, and turned over to the banks. So you have to realize that the banks
+      centrally planned the economy to make rentier gains for themselves at the expense
+      of the economy at large. Is that so hard to understand? How can you politically
+      make that clear enough for the voters to understand? I thought just saying it
+      would be clear, but there’s immediate resistance. DARA: Yeah, I guess there’s
+      no real political appetite for change there [unclear audio] MICHAEL HUDSON: I
+      can’t hear you. DARA: Oh, sorry. I just said, I guess there’s no political appetite
+      for wanting to bring about this change, wanting to spread the message. MICHAEL
+      HUDSON: Of course not at the top. Because if you try to get to the top, they do
+      to you what they did to Starmer’s predecessor. DARA: Don’t you think part of it
+      is that revolving door, or just how connected finance is to politics? MICHAEL
+      HUDSON: Just look at— I mean, America is a case study where the political campaigns
+      for the primaries to decide what candidates are going to be listed on the two
+      parties’ tickets— there are only two parties that legally can function in practice
+      in America— and the campaign for all the primaries, the financial and real estate
+      and monopoly interests give the money to candidates who are running to represent
+      themselves as their lobbyists. So essentially the politicians who were elected
+      as a result of receiving enough campaign contributions to mount a television public-relations
+      campaign ended up making the laws on behalf of the donor class— their campaign
+      contributors. It’s not quite as naked outside of the United States, but you can
+      be sure that in England Mr. Starmer has received a lot of support from Americans.
+      Almost all the European politicians have been nurtured by the Americans over the
+      decades through non-governmental organizations, liberal organizations’ support,
+      and they’re chosen for opportunists who are able to use a populist rhetoric to
+      attract voters on the one hand and then do the exact opposite in practice. A whole
+      generation of Mr. Starmers. ALEX: Yeah mentioned China. What can China tell us
+      about this? Because on one side they’re a manufacturing powerhouse, but on the
+      other side we started hearing about all these problems they had with their real
+      estate market and the banking. What can we learn from China? What’s going on?
+      MICHAEL HUDSON: I’m disappointed in China’s not preventing the housing prices
+      from going up by imposing a land tax. And the reason it hasn’t is— it’s part of
+      Beijing’s letting the localities all be responsible for their own growth. How
+      are the localities going to raise money to operate and expand their economies?
+      They’ve leased their land to building contractors. The building contractors have
+      got loans from banks, and China has followed the American model in financializing
+      its real estate and letting more and more real estate be bought on credit. And
+      the increase in the land market price has been bid up by the banks— land is worth
+      whatever a bank will lend against it— and banks lend more and more, as you see
+      in Australia, the housing prices go up. And China has not made an attempt to change
+      its relations between the central government in Beijing and the localities so
+      that there’s revenue sharing with the localities, so they don’t have to make their
+      money by selling off land— tenure rights, meaning rent-extraction rights— to contractors.
+      There’s not much— I haven’t seen much discussion in China of what’s causing this
+      rent increase. I’ve tried to do it and I have not got much of a response there.
+      DARA: And I also wanted to ask you, you said central banks are one of the worst
+      developments in financial history. MICHAEL HUDSON: Yes. The central bank— the
+      role of central banks is to take money creation and financial regulation out of
+      the hands of the national treasury, and run the regulation and money-creation
+      policy on behalf of the commercial banks that are members of the central banks.
+      Central banks work for the member banks, not for the treasury, and hence not for
+      the purposes that a national government would hold to increase the prosperity
+      of the overall country. You’re right, central banks are the problem. I had an
+      article on that— on America’s central bank— and I’m writing a book that’ll be
+      published in January on exactly how this has occurred. ALEX: But so what’s the
+      logic behind having central banks? Why did they originally want to get it out
+      of the hands of the treasury? MICHAEL HUDSON: Simple. The logic is to impoverish
+      the population on behalf of the financial class. That’s the logic: “We can get
+      rich if we take power away from the government. We can gain control of fiscal
+      policy, of financial policy, and we can make ourselves rich at the economy’s expense.”
+      That’s the logic— and it’s worked. DARA: So when people say it’s about monetary
+      stability and price— that’s all bollocks? MICHAEL HUDSON: Don’t default on the
+      debts, keep paying the debts. Stability means keep polarizing, keep starving yourself—
+      that’s stability. Stability will be reached when 80%— 75%— of Britain’s population
+      disappears. That’s stability. ALEX: Right. And so would you think it’s the same
+      also for the European Union and the euro? MICHAEL HUDSON: Yes, absolutely. The
+      euro is even worse. Just look at Germany. ALEX: Really? MICHAEL HUDSON: Yes. DARA:
+      Why? Why is Germany a bad example? MICHAEL HUDSON: What’s the first stability
+      that European leaders want? Stability and support from the United States. The
+      European Union is subordinate to NATO. So essentially the European Union is a
+      NATO Cold War policy. Its role is to fight Russia, and now China as well— to be
+      an aggressive force. So the stability is preventing democracy. The stability is:
+      if there is a reform policy that’s against the Cold War— like the AfD, the Alternative
+      für Deutschland— ban it. If the voters support and elect a politician against
+      war with Russia, as Romania did— cancel the elections. That’s stability. Stability
+      is maintaining the race to the bottom. Don’t interrupt the race to the bottom.
+      Don’t interrupt the polarizations, because that is where the trends are all leading.
+      Don’t interrupt these trends— that’s where history is moving. It’s part of nature.
+      It’s the survival of the fittest. That’s the rhetoric that shapes the consciousness
+      of voters. ALEX: It’s interesting that you say that the European Union is almost
+      an attachment of NATO, because here in Europe they really try to tell us that
+      these two entities are completely different. MICHAEL HUDSON: Of course— if they
+      can make you believe that, you won’t see what the problem is. ALEX: Well, one
+      of my professors— I’m not sure if you’ve heard of him— have you heard of Costas
+      Lapavitsas? MICHAEL HUDSON: Yes. DARA: Yeah. Well, I’m sure you’ve read his book
+      The Left Case Against the EU , and he goes on to say that this is a neoliberal
+      plot— also talks about very similar things to what you just did— and that the
+      whole idea that it was meant to unite Europe for cooperation and to prevent wars
+      is just a lie. And this was just to make the rich richer and the poor poorer.
+      It’s quite paradoxical because a lot of people on the left are the biggest advocates
+      for the EU. They don’t see it as this neoliberal plot, whereas the right are the
+      ones arguing— well, in the UK the right do not want to be a part of the EU. And
+      I think in Europe in general the right are the ones who are typically against
+      the EU. So it’s a bit paradoxical how those on the left, who would side with the
+      working class and the ones who are exploited, seem to be the ones who love the
+      Union the most. MICHAEL HUDSON: It’s not only the working class that’s exploited.
+      Industry is exploited; the capital, the industrialists are exploited; everybody’s
+      exploited— industrial capital as well as labor is exploited. That’s why— if you
+      can exploit both together— then you’ve de-industrialized the country and made
+      all of the income growth available to the rent extractors. DARA: Very, very interesting.
+      I just… so for you it’s very important to dismantle the EU as well. MICHAEL HUDSON:
+      Yes. It’s dismantling itself. DARA: More countries should copy us and have Brexit.
+      MICHAEL HUDSON: It’s dismantling itself. DARA: And they would be more prosperous
+      if they got away from the EU. MICHAEL HUDSON: Unfortunately, that’s the case.
+      DARA: But even countries like Eastern Europe? MICHAEL HUDSON: There’s no way Germany
+      can be more prosperous as long as it’s supporting the Wehrmacht— the old Nazi
+      party— any Germany led by Mr. Merz is going to attack Russia and will end up ultimately
+      being— if it gives missiles to Ukraine or sends missiles into Russia or sabotages
+      Russia— Russia’s essentially going to attack Germany at some point. DARA: Well,
+      I was also going to ask you, because I think in your book Killing the Host you
+      said you didn’t even want to get into economics and that your passion was music
+      and the history of culture. MICHAEL HUDSON: Yeah. DARA: I just wanted to ask you,
+      do you have any regrets? Is there a part of you that wished you still— MICHAEL
+      HUDSON: No. Because I could do in writing about economics what I couldn’t do as
+      a composer. I can write books in a way that— the organization— it’s like modulation
+      of one idea to another. I’m able to express the aesthetics that I developed in
+      music toward my writing style. And the whole approach I have to history is something
+      unfolding toward an end— toward, you could say, a central tonality— and the modulation
+      that I’ve developed. No. So I’m very glad that I’ve found I’m much better in this
+      than I was in music. These are not the times for music, anyway. These have to
+      be the times for economic history— and for a revolution. ALEX: Well, Michael,
+      thank you so much for speaking with us. It was a real pleasure. MICHAEL HUDSON:
+      Pleasure. Thank you. ALEX: Thank you. MICHAEL HUDSON: I can understand you clearly.
+      Photo by Buddy AN on Unsplash The post Stability for Whom? first appeared on Michael
+      Hudson .'
+    one_sentence_summary: In the latest episode of the Inspire Us Podcast, hosts interview
+      Professor Michael Hudson about topics such as rentier capitalism, financialization,
+      and the economic challenges facing Britain and Europe, reflecting on his experiences
+      and insights in the field of Development Economics.
+    paragraph_summary: In the fifth episode of Season 6 of the Inspire Us Podcast, recorded
+      on August 20, hosts, who are Master's students in Development Economics, engage
+      in a discussion with Professor Michael Hudson about key topics such as rentier
+      capitalism, financialization, and the structural challenges currently facing Britain,
+      Europe, and the global economy. Hudson shares insights from his experiences, including
+      his collaboration with economist Steve Keen, highlighting their complementary
+      approaches to economic theory—Hudson's focus on historical perspectives and classical
+      theories of value, price, and rent, contrasted with Keen's mathematical analysis.
+      The conversation also touches on the impact of financialization on housing markets,
+      particularly in Australia, where rising real estate prices hinder domestic spending.
+    published: '2025-10-08T22:43:56+00:00'
+  - title: Stability for Whom?
+    url: https://michael-hudson.com/2025/10/stability-for-whom/
+    text: 'Inspire Us Podcast – S6 EP5 Broadcast Date: Wednesday, August 20 This transcript
+      is from the Inspire Us Podcast S6 EP5 , recorded with Professor Michael Hudson.
+      We are two Master’s students in Development Economics based in London, and through
+      our podcast we explore global political economy, development, and critical perspectives
+      on pressing issues. The episode was broadcast on August 20, and in this conversation
+      we spoke with Professor Hudson about rentier capitalism, financialization, debt,
+      and the structural challenges facing Britain, Europe, and the global economy today.
+      What follows is the official transcript of that discussion. ALEX: So, yeah. How
+      did you meet Steve Keen? MICHAEL HUDSON: Well, how did I meet him? ALEX: Yeah.
+      MICHAEL HUDSON: A group of Georgists, of all people, brought me to Australia.
+      I had been given a round-trip ticket to China that I was able to stop off in Australia
+      and the man who became my webmaster, Karl Fitzgerald, brought me to Sydney and
+      arranged for a meeting, a joint talk with Steve Keen. And that must have been
+      maybe 15 years ago. And ever since Steve and I have gone around the world giving
+      lectures — Germany, Washington, D.C., Chicago, just about everywhere. So we became
+      very good friends because essentially we have the same approaches, although he’s
+      much more mathematical than I am and I’m historical. So what he’s covering in
+      the mathematical field, I’m covering in the history of economic thought, which
+      he also covers. Basically, my focus is much more on classical theory of value,
+      price, and rent. And I’m focusing on rent, which is why the Georgists brought
+      me there, trying to deal with Australia’s awful financialization of real estate
+      that’s been bidding up real housing prices in Australia at enormously high prices
+      that prevent Australians from spending much on the domestic market for anything
+      besides the rent. Where are you located by the way? ALEX: What does economic history
+      help us understand when looking at rent and financialization? MICHAEL HUDSON:
+      Well, I guess you’d read about Ricardo and the whole development of rent theory
+      in the Corn Law debates in 1815, when at that time Ricardo said if we don’t prevent
+      the landlords from getting all the rent, this rent is going to absorb all of the
+      income over and above the subsistence wage and there won’t be any profits. What
+      he did not recognize — and nobody of his era imagined — that once you ended the
+      hereditary landlord class, there was still going to be economic rent. But it was
+      all going to be paid to the banks. And 80% of bank lending is to real estate in
+      the form of real estate mortgages. So the whole financial system is based on rent.
+      And naturally that means that the bankers have thrown their interest behind the
+      real estate interests, because they know that whatever the government does not
+      collect in land taxes is going to be available to be paid in interest. So instead
+      of — in 1815 the financial interests supported Ricardo, because the banks were
+      interested mainly in foreign trade financing. And they said if you make Britain
+      the workshop of the world, then it’s going to be exporting its manufactures and
+      it’s going to be importing raw materials and food from other countries. And that’s
+      going to increase international trade. And that will create increase in the market,
+      first of all for our letters of credit to finance this trade, and our foreign
+      exchange dealings. And second, it’ll enable the stock market to begin buying into
+      foreign transportation facilities — canals, transport and everything to serve
+      the foreign trade. They had no particular interest in industry at all at the beginning.
+      So when James Watt developed the steam engine, there were no banks around to finance
+      industrial investment. It was only much later that they began to finance industrial
+      investment, and they’ve really never cared. They want to focus bank lending on
+      money that you don’t have to work hard to earn. They want money for economic rent,
+      for land rent, for monopoly rent, and for financial speculation. But I asked before,
+      where are you calling from, where are you located? ALEX: London — close to, because
+      back when we had Steve Keen on the podcast the first time, he had mentioned that
+      he was staying at your place. MICHAEL HUDSON: Yeah. Where Steve was staying, right?
+      ALEX: Yeah. He was just right around the corner. So, yeah. MICHAEL HUDSON: Okay,
+      now I get it. What are you studying? ALEX: Development economics, both of us master’s.
+      MICHAEL HUDSON: Do you find that helpful? DARA: I think so, personally. MICHAEL
+      HUDSON: I mean, what’s interesting about development economics and rent is that
+      while the classical economists and industrial capitalism wanted to get rid of
+      economic rent in their own countries — in Britain, Germany, France — they wanted
+      to minimize economic rent so that the industrial employers would not have to pay
+      their labor enough money to buy high-priced food and, in time, high-priced housing.
+      But they were all for economic rent abroad. When they made their foreign investments
+      — Britain, France — they wanted to buy mining properties, infrastructure monopolies,
+      transport monopolies, communication monopolies. So there was, from the very beginning,
+      from 1815 on, this idea: western and industrial capitalist countries will prevent
+      other countries from industrializing by essentially making them rentier economies.
+      That’s the big trend — what has shaped the last two centuries of the Western economies.
+      DARA: And for you that’s very intentional? MICHAEL HUDSON: It’s not only intentional,
+      yeah, it’s a direct opposition. The whole — for me, the classical distinction
+      between earned and unearned income, that price is the excess over cost, rent is
+      the excess of price over intrinsic cost value. And industrial capitalist countries
+      want to minimize this difference. Without rent, they want the economic surplus
+      to be paid to them as profits. But financialization, essentially, to the extent
+      that it supports real estate and monopolies and financialization, it polarizes
+      the economy. It shrinks the amount of income available to pay profits, because
+      the labor force — the workers, like in the United States and England — have to
+      pay so much more money for their rent. They have to pay monopolies like Thames
+      Water, you know, for the water, instead of low-cost public water like they used
+      to have. Uh there’s no way that England can be an industrial country since Margaret
+      Thatcher and Tony Blair turned it into a rentier economy. DARA: Because I mean,
+      that time is heavily debated here. Lots of— Sorry, Michael. Can you hear me? ALEX:
+      Maybe let’s turn up — we can turn up the mic. DARA: Yeah. Shall we turn up the
+      mic? MICHAEL HUDSON: Yeah. DARA: No. So obviously the Thatcher period— Oh, you
+      can hear? Okay, great. So the Thatcher period is heavily contested and very contentious
+      topic. And, you know, some people say it took us from the dark ages — you know,
+      the ’70s we had strikes, the government were really at the helm of the unions.
+      And that Thatcherite period, that Big Bank period, many people here in this country
+      really revere. Would you not say there’s any advantages to Thatcherism? For you,
+      is it just a net negative? MICHAEL HUDSON: Yeah. Yes. DARA: That’s my question.
+      So for you, is it just a net negative? You don’t see any advantages to Thatcherism
+      and how it took us from the dark ages of the ’70s? MICHAEL HUDSON: But England
+      — Britain — has been left as a rentier economy. I think the reason that so many
+      voters voted for Brexit was they knew that it was all about the City of London
+      and the financial sector. And they thought that they wanted to get rid of the
+      financial sector that was sponsoring all this awful right-wing politics that was
+      making life so awful. They did not reverse all of the giveaways that Thatcher
+      and Blair had made to the financial sector by privatizing the public utilities,
+      by dismantling council housing, essentially creating a real estate bubble that’s
+      made the banks rich, as they’ve got rich off financing Thames Water and all the
+      other public utilities, and this is what’s de-industrialized Britain. Is there
+      any consciousness of that there? Do we get into any of that in your development
+      financing? DARA: Um, no, not really. That doesn’t get discussed very often, but
+      I guess in political discourse Thatcher’s era is very often discussed. MICHAEL
+      HUDSON: I mean, I studied, needless to say, development financing in the 1960s,
+      and it was really about how other countries are supposed to somehow industrialize.
+      But there was no recognition that they couldn’t industrialize as long as they
+      remained financialized, and as long as the World Bank blocked them from producing
+      their own food supply to feed themselves, so that they would rely on America’s
+      grain imports and food imports, and essentially finance backwardness instead of
+      development. And that’s what I wrote about in Superimperialism . DARA: Do you
+      think it’s possible for the US or the UK to re-industrialize, or is it a bit of
+      a pipe dream? MICHAEL HUDSON: It would take a— a political revolution, and they’re
+      not ready to do that. It’s not possible to industrialize without realizing why
+      Britain de-industrialized— de-industrialized by being financialized. It had been
+      a mixed economy before Thatcher, public and private. And the role of the public
+      sector was to minimize the cost of living for British labor— low-priced housing,
+      low-priced medical care, low-priced education, and low-priced public services—
+      so that you could have a living wage and not pay monopolies and landlords and
+      the banks as much of your income as they now do. So essentially most British income
+      is now paid for the various forms of economic rent— land rent, monopoly rent,
+      and financial speculation— and without undoing this, without wiping out this debt
+      that’s mounted up, without de-privatizing the public monopolies— I think Thames
+      Water should simply be taken out without any payment at all to the bondholders
+      and the stockholders; they’ve already looted the company. There is nothing left.
+      And after a company’s been looted, you don’t then pay them for the price of what
+      it would cost to remake the company before it was looted. You should think of
+      finance in Britain as a looting operation. That’s what it is to Britain. DARA:
+      Yeah. And I think many people here do see it like that. But the counterargument
+      is we’re so strapped for cash in this country, the budget deficit keeps on growing.
+      And I’m not sure if you’ve followed British politics, but I’m sure you’ve seen
+      Rachel Reeves crying in the House of Commons and the reversal of the welfare reforms.
+      So we’re quite encumbered by the financial situation. The argument is: how can
+      we possibly nationalize our water systems? Where’s the money going to come from?
+      Do you think it’s possible— is it paramount that they get even more indebted?
+      MICHAEL HUDSON: You don’t need money to— you don’t need money for any of this.
+      You don’t need money to wipe out debts. You don’t— you don’t need money to enable
+      the labor force and British companies to pay the debts they owe. You just write
+      down the debts to the ability to be paid. You can say, “if Thames Water is unable
+      to pay the debts after putting so much investment in,” it turns out they didn’t
+      put in the investment at all— they paid it all out. It’s all been a fraud. They’re
+      gangsters. There is no need to pay them. You have to realize what is more important
+      to Britain: to create a living wage in an economy that can afford to employ industrial
+      labor, or to pay all of the financialized interest, the real-estate interests,
+      the monopolists that have taken over the government and added to the economic
+      overhead. Does the government want to wipe out the economic overhead or not? DARA:
+      And I guess because of our education, we’ve had many talks about debt forgiveness,
+      but more in the context of Global North forgiving debt in the Global South— less
+      so at the national level or at the individual level. But when you say “debt forgiveness,”
+      people just look at you like you’re a crazy commie. MICHAEL HUDSON: I don’t like
+      the term forgiveness — that’s like a Catholic word. There’s a sin of Adam that
+      we’re all holding and you have to be forgiven for by paying the Church to absolve
+      you. That’s— you’re not forgiving— these are bad debts. You wipe out, you clear
+      away the bad debts. It’s not debts you’re cancelling; it’s the bad loans. You’re
+      clearing off the bad loans. The banking system has made bad loans. There’s no
+      way you can shift to— If Britain did what it tried to do in 1909 and 1910 and
+      enact a land tax, which is what caused the constitutional crisis of that year,
+      then the increase in the rent of location would be the tax base. You wouldn’t
+      have to tax labor; you wouldn’t have to tax industry. That was the whole logic
+      that was spelled out in 1910. But instead that wasn’t done. Instead, real estate
+      has been untaxed. Finance has been untaxed. And monopolies, as long as they can
+      multinationalize themselves, can avoid taxes. Real estate isn’t taxed if you simply
+      register your ownership in the Jersey Isles or offshore and say, “Oh, it’s foreign-owned,
+      I don’t have to pay any British income tax,” and then Jersey will have an account
+      in the Cayman Islands— a whole corporate shell game that’s taking place. So the
+      fact is that the existing banking system cannot survive if you wipe out the debts
+      that are the collateral behind the banks’ liabilities to their depositors and
+      other crossparties— then they’re going to go under. And that’s why I don’t see
+      the British willing to do more than something marginal. There’s a certain character
+      of thought among Englishmen that I found— it was called muddling through back
+      in the 1960s, “if we can somehow make a little tactical change and get by it”.
+      A tactical change won’t work anymore. It has to be a systemic change, and Britain
+      is generations away from making that— as is the whole West of Europe and the United
+      States. So the problem that Britain has is the problem of all the Western economies.
+      They’re in the same boat. And again, classical economics— the value, price, and
+      rent theory— gave a way to look at all this, but Britain’s so bamboozled that
+      when it talks about GDP growth, it includes in GDP all of the interest payments
+      made to banks— that’s called providing financial services — as are late fees “services”;
+      paying rents to landlords— that’s called providing housing services ; paying monopoly
+      prices— that’s just the cost of living. None of these would have been considered
+      to be GDP by economists from Adam Smith, John Stuart Mill, Marx, and the whole
+      19th century. They would have said this is not an intrinsic cost of production
+      and not value. GDP— because it’s gross national product — is the value. What is
+      the value of a product? It’s the actual socially necessary cost of production.
+      Paying rising rents is not a cost of production, because this is mainly the site
+      value of the land— the rent of location. It’s the monopoly rent. And when a monopolist
+      raises its prices, when a landlord raises its prices, when a bank increases the
+      interest rates, that’s not creating more of a product. That’s just— it’s a transfer
+      payment, a zero-sum payment, not a product. So the whole way in which the economic
+      curriculum depicts an economy as working is unrealistic in terms of the classical
+      economists. That’s why when I went to school in the 1960s at least they still
+      taught the history of economic thought, so that when one read Ricardo and Smith
+      and one understood the whole idea, the whole concept, of economic rent. That’s
+      what volumes two and three of Marx’s Capital were all about—rent and financial
+      returns and interest. All of that has been stripped away from the curriculum,
+      as if somehow this treatment of all income is being earned. There’s no such thing
+      as unearned income, no such thing as unearned wealth. The billionaires actually
+      earned their wealth by producing a profit. So that the owners, stockholders, and
+      bondholders of Thames Water have actually earned the money that they paid themselves
+      from Thames Water. And all the landlords— the Duke of— the Duke that owns most
+      of the land under, is it Westminster, the whole area there— actually earns all
+      the rents, the ground rent that he receives, that goes up and up. And the whole
+      concept of earned income and unearned income has been wiped away from the teaching
+      of how economies work. DARA: Yeah, I think it’s sort of been merged into one.
+      And I also read that even our productivity numbers prior to the global financial
+      crisis— it was a big fugazi— those numbers were heavily linked to the financial
+      sector and it wasn’t actual productivity. But yeah, on this topic of the rentier
+      class—or the “rentier” class, however you want to pronounce it— how do we dismantle
+      it? Because we’ve had like, what, 20 or 30 years of really low interest rates
+      and people said, or in theory, that should be the euthanasia of the rentier— really
+      low interest rates— but that didn’t seem to happen. So how do we dismantle this
+      system? MICHAEL HUDSON: I can see how Britain’s going to dismantle it. You have
+      to cut the wages in half. You have to have half the population starve and leave
+      the country. Then wait another generation, and there will be almost nobody left
+      in Britain. Then you can restructure the economy, because the banks and— nobody
+      will make any more money left in England, and it’ll be ripe for a restructuring.
+      But you’re going to have to have 75% of your population disappear. And that’s
+      going to take a few generations. ALEX: Is that what we’re leading to? Because
+      the thing is, in England we come across this a lot where everyone outside of London
+      feels left behind, feels forgotten. It’s all about London. It’s all about the
+      finance in London. But is that where we’re headed with this continued financialization?
+      MICHAEL HUDSON: That’s where we’re headed, yeah. Financialization is going to
+      bring about the shrinkage of the British economy. It sucks all the revenue, all
+      the income— via real estate, via bank loans, via financial takeover of more and
+      more natural monopolies and the rest of industry— and it sucks it out. There will
+      be no more direct investment. The cost of schooling, of housing, of healthcare
+      will continue to go up. I think that Starmer has the solution. He says if we wreck
+      the National Health Service then England will die off quicker. If we continue
+      our current policies, people can’t afford to live in London anymore and they’re
+      going to have to move out. And his other policies will wreck English industry
+      and speed the parting guest. So stick with Starmer and just continue the destruction,
+      and that will pave the way for people thinking there must be an alternative, and
+      then they’re going to begin looking at history and they’ll find out there are
+      plenty of alternatives. It doesn’t have to be this way. Starmer is running on
+      the principle it does have to be this way— “There is no alternative,” as Margaret
+      Thatcher said. So he’s sort of like the super-Thatcherite— I should say Blairite—
+      because Blair and Starmer have gone further than Thatcher was politically able
+      to do. They’ve perfected her financialization system. ALEX: But how did this happen?
+      Because you mentioned that before, you know, these countries knew to industrialize,
+      that they didn’t want rent economies, and they were just doing that outside. How
+      did this happen where now it consumed their whole economy? MICHAEL HUDSON: It
+      was necessary for the economics curriculum to be transformed— to transform the
+      way in which people viewed how the world worked— and to get rid of thinking of
+      economies in terms of earned and unearned income. To get rid of thinking in terms
+      of rent as unearned income— the excess of price without value, empty pricing.
+      They had to strip away the whole concept that financial wealth, rent-yielding
+      wealth, monopoly wealth, was not wealth at all— it was predatory and parasitic.
+      I’ve written about that in Killing the Host , and historically, politically, in
+      Superimperialism . Those are the two main works where I’ve explained all of this.
+      DARA: Didn’t you say that it was linked back to ancient times, where people would
+      be in debt because of agricultural produce? And because of that— well, sometimes
+      the crops would fail— but you don’t want these people to be overly indebted because
+      that will lead to the downfall of your economy. So that’s where this practice
+      started from, with debt cancellation. So it has been common practice for years
+      and years— but now, today, it seems to not be discussed whatsoever. I mean, I
+      don’t think in the House of Commons they’re even talking about debt cancellation.
+      It’s been completely lost within public discourse, which is a shame. MICHAEL HUDSON:
+      Well, first of all, the Western countries, including Britain, have financialized
+      politics. So you’ve turned politics over to the major donors to the political
+      class. This is most nakedly apparent in the United States. But also Britain has
+      always pretty much been run by the upper class, except to the extent after 1815
+      when the rising industrial bourgeois class overthrew the landlord class that had
+      dominated British politics since the origins— since the war— the warlords, Norman
+      warlords, conquered it on behalf of the Church and pledged loyalty and fealty
+      to the popes. So, all of this— there was a class consciousness very strong after
+      World War II. And also in World War II, so many British men were killed that the
+      women took much more of an administrative position, and they were more supportive
+      of the mixed-economy idea that everybody needed to be able to make a living wage—
+      to break even. And you had this whole flowering of British public investment and
+      public utilities and public service. All of that’s been privatized and taken over
+      and parasitized, largely under foreign influence. And largely, in order to do
+      all of this, you had to erase the consciousness, you could call it. It’s not only
+      the class consciousness you had to erase; it’s the consciousness of the distinction
+      between value and price, the distinction between earned and unearned income— the
+      awareness of the fact that if you want an economy to survive and be resilient,
+      you want to prevent unearned income from crowding out all of the earned income—
+      the profits and other earnings that are used to build more factories, to hire
+      more labor, to produce more goods and services, building more houses, etc. All
+      of this is— Britain has sort of been maneuvered and steered into a blind alley,
+      but so have all the rest of the British, or the European countries. They’re all
+      in a blind alley now. Just look at Germany. And look at the United States. It’s
+      a way of thinking. Western civilization never had the idea of general debt cancellations.
+      That was universal in the Middle East—what’s now called West Asia. From one end
+      of Asia to another there was the idea of keeping the economy in balance and not
+      ensurfing the free agricultural class. None of that was built into Western civilization
+      from the 8th century BC onwards. I’ve discussed this in The Collapse of Antiquity
+      . By the way, you’re recording this, right? ALEX: I can double check, but yeah.
+      Yeah, we’re recording? MICHAEL HUDSON: And you’ll transcribe it? ALEX: Yeah. MICHAEL
+      HUDSON: Okay, just wanted to make sure of that. Anyway, I’m sure your questions
+      have sort of prompted me to take what seems to be an extreme answer, but we’re
+      in an extreme situation. There is no solution within the current way in which
+      the British tax system has been structured, and within the huge amount of debt
+      that wage earners, that companies, that real estate has all taken on. The debts
+      cannot be paid without sacrificing all hope for economic growth. So what’s more
+      important to Britain—paying the existing creditors who’ve created this diversion
+      of income to pay themselves, or the 90% of the population that wants to grow?
+      The population of England agrees: all the money to the creditors. Don’t spend
+      it on us, spend it on the creditors. That’s their morality. “Debts must be paid.”
+      That was a problem that Britain had after World War I and after World War II.
+      Well, the debts don’t have to be paid. And if you try to pay them, then you’re
+      going to sacrifice your opportunities and the revenue that you would otherwise
+      need for economic growth, because you’re paying it all to the banks. DARA: So
+      since we’re talking about Britain, would you advise Rachel Reeves to implement
+      a wealth tax? MICHAEL HUDSON: Absolutely. Absolutely. Of course. In the United
+      States, it imposed the income tax in 1913. It was very high. You didn’t have to
+      begin to pay the tax until you reached a certain income level. And the income
+      level at which you began to be taxed was so high that only 2% of the American
+      population had to file an income tax return. That’s wonderful. In Britain today
+      it would be certainly the top 20% I’d say that should be taxed. The bottom 80%
+      of Britain should not pay an income tax. There’s no way that your labor force
+      can pay an income tax and also pay their rents and the cost of their hitherto
+      public services that have been privatized. Something has to give. DARA: I guess
+      the counterargument to that is, you’re scaring away all the wealth. And we need
+      more ingenuity and innovation, and that’s something that the UK and many other
+      European countries lack. I think Europe does look to America admiringly, because
+      their tech sector is thriving, they have better productivity numbers. So the argument
+      here is that with this wealth tax, are we sure we want to do this? This will be
+      the end of the Labour government. No one will vote for them again. MICHAEL HUDSON:
+      It should be the end of the Labour government. Put it this way: Britain doesn’t
+      have a wealth tax. What they want to do is to say, “Give taxes to the wealthiest
+      20%, not to us.” If the voters vote that they don’t want the income—“Give it to
+      our betters”—that’s the English thing to do. Well, who am I to interfere with
+      them committing suicide? ALEX: Yeah. Are you familiar with Gary’s Economics? This
+      ex-banker in London who is now advocating for a wealth tax—basically made a name
+      for recognizing that there was this rent-seeking going on, and the divide between
+      rich and poor is growing, and all the wealthy people are just owning all the land.
+      They have so much money they don’t know what to do with it. They’re just buying
+      more and more things, more assets, and the economy is just becoming more divided.
+      And you were talking about how we need a political revolution in order to implement
+      this. He’s quite small, but he is, I guess, leading that revolution. MICHAEL HUDSON:
+      The only way you can stop the current trend is by what you call a revolution,
+      which is really a structural change. A structural change either requires a revolution
+      or a public awareness that the economy has to be transformed to work in a different
+      way than it’s working now. And right now the economy is leading towards more and
+      more poverty and more and more concentration of wealth at the top of the pyramid.
+      British incomes of wage earners are stagnant, maybe going slightly down. The wealth
+      of the upper 20% is going up and up and up—in the stock market, the bond market,
+      the real estate market, the financial markets, they’re all going up. And the reason
+      this is happening is because that’s the way the economy is structured. Unless
+      you restructure the economy, that trend is not going to change. ALEX: Do you think
+      it’s human tendency, that with financialization they’ve found an easy way to make
+      money, and so why not just continue? MICHAEL HUDSON: It is certainly the logic
+      of people who are making money in financial ways. They think, “I’m getting richer
+      and richer and richer, and more important—something I really enjoy: the rest of
+      the economy is getting poorer.” The wealthy people love to see the rest of the
+      economy getting poorer. That’s their ego. They think, “Boy, I’m getting richer,
+      they’re getting poorer. Of course I want this to go on. Hey, what’s the change?”
+      But the problem is, why do the 80%—the rest of the people—go along with this?
+      ALEX: Yeah. I guess it is an education problem. Not many people are even aware
+      this is going on. I think even our generation now, we’re brought up in this world
+      where we don’t know the world before financialization. This is what we think normal
+      is, right? The banks, Visa, all these things—that’s just how it is. So I guess
+      it is an education… MICHAEL HUDSON: You put your finger on it. There’s this idea
+      of social Darwinism: all of history has been moving forward through the survival
+      of the fittest, to get to today’s optimum position. We’re the peak of history.
+      It’s all been moving to today’s position where the wealthiest 20% get all the
+      wealth, 10% get all the wealth, and the 1% get most of that wealth of the 20%—the
+      1%. That’s where history’s been moving towards, thanks to our wonderful management
+      and our way of doing things. And this idea that it’s a natural part of evolution
+      and not completely unnatural—there’s been an intellectual counterrevolution against
+      classical economic thought, and the idea of rentier income of being unearned,
+      and the idea that finance should be privatised instead of being a public utility.
+      I guess the best way to put it in England is: why did China’s economy go forward
+      and not ours? Well, when China had a revolution, the financial class and landowning
+      class all fled to Taiwan. There wasn’t any financial class, so China had to do
+      what the American colonies did before the Revolution: they printed their own money.
+      And they just printed. Government doesn’t need a wealthy financial class to lend
+      it money to operate it. The government can print the money. That’s what America
+      did in the Civil War with the greenbacks. That’s what every European government—including
+      Britain—did in World War I. Everyone said World War I was going to end in six
+      weeks, six months, because the governments would run out of money. They all began
+      printing the money. That’s what you could do today. The government doesn’t need
+      a wealthy financial class to say, “Give us all the money and let us become the
+      central planners.” Britain has become a centrally planned economy. But the central
+      planning has been taken out of the hands of the government, out of the hands of
+      Parliament, and turned over to the banks. So you have to realize that the banks
+      centrally planned the economy to make rentier gains for themselves at the expense
+      of the economy at large. Is that so hard to understand? How can you politically
+      make that clear enough for the voters to understand? I thought just saying it
+      would be clear, but there’s immediate resistance. DARA: Yeah, I guess there’s
+      no real political appetite for change there [unclear audio] MICHAEL HUDSON: I
+      can’t hear you. DARA: Oh, sorry. I just said, I guess there’s no political appetite
+      for wanting to bring about this change, wanting to spread the message. MICHAEL
+      HUDSON: Of course not at the top. Because if you try to get to the top, they do
+      to you what they did to Starmer’s predecessor. DARA: Don’t you think part of it
+      is that revolving door, or just how connected finance is to politics? MICHAEL
+      HUDSON: Just look at— I mean, America is a case study where the political campaigns
+      for the primaries to decide what candidates are going to be listed on the two
+      parties’ tickets— there are only two parties that legally can function in practice
+      in America— and the campaign for all the primaries, the financial and real estate
+      and monopoly interests give the money to candidates who are running to represent
+      themselves as their lobbyists. So essentially the politicians who were elected
+      as a result of receiving enough campaign contributions to mount a television public-relations
+      campaign ended up making the laws on behalf of the donor class— their campaign
+      contributors. It’s not quite as naked outside of the United States, but you can
+      be sure that in England Mr. Starmer has received a lot of support from Americans.
+      Almost all the European politicians have been nurtured by the Americans over the
+      decades through non-governmental organizations, liberal organizations’ support,
+      and they’re chosen for opportunists who are able to use a populist rhetoric to
+      attract voters on the one hand and then do the exact opposite in practice. A whole
+      generation of Mr. Starmers. ALEX: Yeah mentioned China. What can China tell us
+      about this? Because on one side they’re a manufacturing powerhouse, but on the
+      other side we started hearing about all these problems they had with their real
+      estate market and the banking. What can we learn from China? What’s going on?
+      MICHAEL HUDSON: I’m disappointed in China’s not preventing the housing prices
+      from going up by imposing a land tax. And the reason it hasn’t is— it’s part of
+      Beijing’s letting the localities all be responsible for their own growth. How
+      are the localities going to raise money to operate and expand their economies?
+      They’ve leased their land to building contractors. The building contractors have
+      got loans from banks, and China has followed the American model in financializing
+      its real estate and letting more and more real estate be bought on credit. And
+      the increase in the land market price has been bid up by the banks— land is worth
+      whatever a bank will lend against it— and banks lend more and more, as you see
+      in Australia, the housing prices go up. And China has not made an attempt to change
+      its relations between the central government in Beijing and the localities so
+      that there’s revenue sharing with the localities, so they don’t have to make their
+      money by selling off land— tenure rights, meaning rent-extraction rights— to contractors.
+      There’s not much— I haven’t seen much discussion in China of what’s causing this
+      rent increase. I’ve tried to do it and I have not got much of a response there.
+      DARA: And I also wanted to ask you, you said central banks are one of the worst
+      developments in financial history. MICHAEL HUDSON: Yes. The central bank— the
+      role of central banks is to take money creation and financial regulation out of
+      the hands of the national treasury, and run the regulation and money-creation
+      policy on behalf of the commercial banks that are members of the central banks.
+      Central banks work for the member banks, not for the treasury, and hence not for
+      the purposes that a national government would hold to increase the prosperity
+      of the overall country. You’re right, central banks are the problem. I had an
+      article on that— on America’s central bank— and I’m writing a book that’ll be
+      published in January on exactly how this has occurred. ALEX: But so what’s the
+      logic behind having central banks? Why did they originally want to get it out
+      of the hands of the treasury? MICHAEL HUDSON: Simple. The logic is to impoverish
+      the population on behalf of the financial class. That’s the logic: “We can get
+      rich if we take power away from the government. We can gain control of fiscal
+      policy, of financial policy, and we can make ourselves rich at the economy’s expense.”
+      That’s the logic— and it’s worked. DARA: So when people say it’s about monetary
+      stability and price— that’s all bollocks? MICHAEL HUDSON: Don’t default on the
+      debts, keep paying the debts. Stability means keep polarizing, keep starving yourself—
+      that’s stability. Stability will be reached when 80%— 75%— of Britain’s population
+      disappears. That’s stability. ALEX: Right. And so would you think it’s the same
+      also for the European Union and the euro? MICHAEL HUDSON: Yes, absolutely. The
+      euro is even worse. Just look at Germany. ALEX: Really? MICHAEL HUDSON: Yes. DARA:
+      Why? Why is Germany a bad example? MICHAEL HUDSON: What’s the first stability
+      that European leaders want? Stability and support from the United States. The
+      European Union is subordinate to NATO. So essentially the European Union is a
+      NATO Cold War policy. Its role is to fight Russia, and now China as well— to be
+      an aggressive force. So the stability is preventing democracy. The stability is:
+      if there is a reform policy that’s against the Cold War— like the AfD, the Alternative
+      für Deutschland— ban it. If the voters support and elect a politician against
+      war with Russia, as Romania did— cancel the elections. That’s stability. Stability
+      is maintaining the race to the bottom. Don’t interrupt the race to the bottom.
+      Don’t interrupt the polarizations, because that is where the trends are all leading.
+      Don’t interrupt these trends— that’s where history is moving. It’s part of nature.
+      It’s the survival of the fittest. That’s the rhetoric that shapes the consciousness
+      of voters. ALEX: It’s interesting that you say that the European Union is almost
+      an attachment of NATO, because here in Europe they really try to tell us that
+      these two entities are completely different. MICHAEL HUDSON: Of course— if they
+      can make you believe that, you won’t see what the problem is. ALEX: Well, one
+      of my professors— I’m not sure if you’ve heard of him— have you heard of Costas
+      Lapavitsas? MICHAEL HUDSON: Yes. DARA: Yeah. Well, I’m sure you’ve read his book
+      The Left Case Against the EU , and he goes on to say that this is a neoliberal
+      plot— also talks about very similar things to what you just did— and that the
+      whole idea that it was meant to unite Europe for cooperation and to prevent wars
+      is just a lie. And this was just to make the rich richer and the poor poorer.
+      It’s quite paradoxical because a lot of people on the left are the biggest advocates
+      for the EU. They don’t see it as this neoliberal plot, whereas the right are the
+      ones arguing— well, in the UK the right do not want to be a part of the EU. And
+      I think in Europe in general the right are the ones who are typically against
+      the EU. So it’s a bit paradoxical how those on the left, who would side with the
+      working class and the ones who are exploited, seem to be the ones who love the
+      Union the most. MICHAEL HUDSON: It’s not only the working class that’s exploited.
+      Industry is exploited; the capital, the industrialists are exploited; everybody’s
+      exploited— industrial capital as well as labor is exploited. That’s why— if you
+      can exploit both together— then you’ve de-industrialized the country and made
+      all of the income growth available to the rent extractors. DARA: Very, very interesting.
+      I just… so for you it’s very important to dismantle the EU as well. MICHAEL HUDSON:
+      Yes. It’s dismantling itself. DARA: More countries should copy us and have Brexit.
+      MICHAEL HUDSON: It’s dismantling itself. DARA: And they would be more prosperous
+      if they got away from the EU. MICHAEL HUDSON: Unfortunately, that’s the case.
+      DARA: But even countries like Eastern Europe? MICHAEL HUDSON: There’s no way Germany
+      can be more prosperous as long as it’s supporting the Wehrmacht— the old Nazi
+      party— any Germany led by Mr. Merz is going to attack Russia and will end up ultimately
+      being— if it gives missiles to Ukraine or sends missiles into Russia or sabotages
+      Russia— Russia’s essentially going to attack Germany at some point. DARA: Well,
+      I was also going to ask you, because I think in your book Killing the Host you
+      said you didn’t even want to get into economics and that your passion was music
+      and the history of culture. MICHAEL HUDSON: Yeah. DARA: I just wanted to ask you,
+      do you have any regrets? Is there a part of you that wished you still— MICHAEL
+      HUDSON: No. Because I could do in writing about economics what I couldn’t do as
+      a composer. I can write books in a way that— the organization— it’s like modulation
+      of one idea to another. I’m able to express the aesthetics that I developed in
+      music toward my writing style. And the whole approach I have to history is something
+      unfolding toward an end— toward, you could say, a central tonality— and the modulation
+      that I’ve developed. No. So I’m very glad that I’ve found I’m much better in this
+      than I was in music. These are not the times for music, anyway. These have to
+      be the times for economic history— and for a revolution. ALEX: Well, Michael,
+      thank you so much for speaking with us. It was a real pleasure. MICHAEL HUDSON:
+      Pleasure. Thank you. ALEX: Thank you. MICHAEL HUDSON: I can understand you clearly.
+      Photo by Buddy AN on Unsplash The post Stability for Whom? first appeared on Michael
+      Hudson .'
+    one_sentence_summary: In the latest episode of the Inspire Us Podcast, hosts interview
+      Professor Michael Hudson about topics such as rentier capitalism, financialization,
+      and the economic challenges facing Britain and Europe, reflecting on his experiences
+      and insights in the field of Development Economics.
+    paragraph_summary: In the fifth episode of Season 6 of the Inspire Us Podcast, recorded
+      on August 20, hosts, who are Master's students in Development Economics, engage
+      in a discussion with Professor Michael Hudson about key topics such as rentier
+      capitalism, financialization, and the structural challenges currently facing Britain,
+      Europe, and the global economy. Hudson shares insights from his experiences, including
+      his collaboration with economist Steve Keen, highlighting their complementary
+      approaches to economic theory—Hudson's focus on historical perspectives and classical
+      theories of value, price, and rent, contrasted with Keen's mathematical analysis.
+      The conversation also touches on the impact of financialization on housing markets,
+      particularly in Australia, where rising real estate prices hinder domestic spending.
+    published: '2025-10-08T22:43:56+00:00'
   - title: Who Plans the Economy?
     url: https://michael-hudson.com/2025/10/who-plans-the-economy/
     text: 'RADHIKA DESAI: Hello and welcome to a new season of Geopolitical Economy

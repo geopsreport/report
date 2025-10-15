@@ -7,16 +7,695 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  The ongoing crisis in Gaza and shifting dynamics in U.S.-Israeli relations remain at the forefront of geopolitical analysis. In recent days, attention has centered on Israel’s response to mounting international pressure, the evolving narrative around the October 7 events, and the broader implications for regional power structures.
+  The geopolitical landscape remains tense as Western governments intensify measures to suppress dissent related to the ongoing conflict in Gaza. Since the escalation of violence in October 2023, there has been a marked increase in restrictions on pro-Palestinian activism across Europe and the United States.
   
-  The latest development, as highlighted by **Ray McGovern**, is Israel’s apparent willingness to entertain a deal on Gaza. This move is widely interpreted as a calculated effort to improve Israel’s public image and reduce global condemnation, particularly from the United States. McGovern suggests that these gestures may be more about optics than substantive policy change, noting, “Israel may be engaging in a strategic maneuver to improve its public relations and mitigate global condemnation, particularly from the United States.” This follows President Trump’s recent directive for Israel to halt its bombing campaign after Hamas accepted a U.S.-brokered peace plan—raising questions about Israel’s actual compliance and intentions.
+  **Jonathan Cook** highlights that the British government under Keir Starmer is moving to further curtail protest rights, specifically targeting demonstrations critical of Israel. These legislative changes are widely interpreted as an effort to stifle public opposition to the UK’s foreign policy alignment. This development aligns with broader trends documented by the International Federation for Human Rights, which, as reported by **Ray McGovern**, notes a coordinated crackdown on Palestinian solidarity movements in France, Germany, the UK, and the US. The Federation’s findings suggest that authorities are using legal and administrative tools to limit freedom of assembly and expression, particularly where criticism of Israel is involved.
   
-  Meanwhile, the portrayal of the October 7 events continues to be contested. **Caitlin Johnstone**, as cited by McGovern, critiques the dominant narrative that casts Israel solely as a victim, arguing that this perspective omits crucial context and serves to justify ongoing military actions. This selective framing, according to Johnstone, is shaping public opinion and policy in ways that obscure the broader realities on the ground.
+  Meanwhile, scrutiny of US foreign policy continues. **Caitlin Johnstone** draws attention to President Trump’s recent speech in the Israeli parliament, where he openly acknowledged the influence of billionaire Zionist donors on his administration’s policies. This admission has fueled further debate about the transparency and motivations behind US support for Israel, especially as the administration faces criticism for its role in shaping the ceasefire terms in Gaza.
   
-  On the international stage, **Patrick Lawrence** observes that both Trump and Netanyahu are doubling down on displays of power rather than seeking diplomatic solutions. Their recent actions at the U.N. underscore a preference for dominance over dialogue, which could further entrench divisions and complicate efforts toward lasting peace.
+  Looking at historical context, newly declassified documents reveal that British complicity in mass violence is not unprecedented. As reported by **Ray McGovern**, files show that Harold Wilson’s Labour government secretly aided the Indonesian military during the mass killings of the mid-1960s, underscoring a pattern of Western governments supporting controversial foreign operations while suppressing domestic dissent.
   
-  In summary, the prevailing trend is one of heightened skepticism regarding Israel’s latest overtures, with most analysts viewing them as tactical rather than transformative. The majority opinion across sources is that meaningful progress toward peace remains elusive, as both Israeli and U.S. leaders prioritize strategic advantage and public relations over genuine negotiation. Looking ahead, I assess with high confidence that unless there is a significant shift in either U.S. or Israeli policy, the current cycle of maneuvering and narrative management will persist, with little immediate prospect for a durable resolution in Gaza.
+  **Trends and Predictions:**  
+  The majority of analysts agree that the tightening of protest laws and increased surveillance of pro-Palestinian activism in Western countries is likely to continue in the near term. There is high confidence that these measures will provoke further public backlash and legal challenges, but most definitely, governments will prioritize maintaining their current foreign policy alignments over civil liberties. The revelations about historical and ongoing foreign policy decisions suggest that Western governments are willing to accept reputational risks to preserve strategic alliances, particularly with Israel. This trend is expected to persist, with a high chance of further erosion of protest rights and increased polarization within Western societies.
 articles:
+  - title: 'Jonathan Cook: Freedoms We Took for Granted in Britain'
+    url: https://consortiumnews.com/2025/10/15/jonathan-cook-freedoms-we-took-for-granted-in-britain/
+    text: Now that we have proved to be too defiant and rebellious, Keir Starmer’s government
+      is ripping up the rulebook on protest to protect Israel. By Jonathan Cook Jonathan-Cook.net
+      In interviews and a comment article over the weekend, the U.K. Education… Read
+      more →
+    one_sentence_summary: Keir Starmer's government is changing protest laws to suppress
+      dissent in support of Israel, according to Jonathan Cook.
+    paragraph_summary: The article by Jonathan Cook discusses how Keir Starmer's government
+      in the U.K. is changing regulations on protests in response to public dissent
+      regarding Israel. Cook argues that these measures are aimed at suppressing opposition
+      and controlling the narrative surrounding the Israeli-Palestinian conflict, reflecting
+      a broader trend of governmental overreach in curtailing civil liberties under
+      the guise of maintaining order and protecting national interests.
+    published: '2025-10-15T04:29:42+00:00'
+  - title: 'Jonathan Cook: Freedoms We Took for Granted in Britain'
+    url: https://consortiumnews.com/2025/10/15/jonathan-cook-freedoms-we-took-for-granted-in-britain/
+    text: Now that we have proved to be too defiant and rebellious, Keir Starmer’s government
+      is ripping up the rulebook on protest to protect Israel. By Jonathan Cook Jonathan-Cook.net
+      In interviews and a comment article over the weekend, the U.K. Education… Read
+      more →
+    one_sentence_summary: Keir Starmer's government is changing protest laws to suppress
+      dissent in support of Israel, according to Jonathan Cook.
+    paragraph_summary: The article by Jonathan Cook discusses how Keir Starmer's government
+      in the U.K. is changing regulations on protests in response to public dissent
+      regarding Israel. Cook argues that these measures are aimed at suppressing opposition
+      and controlling the narrative surrounding the Israeli-Palestinian conflict, reflecting
+      a broader trend of governmental overreach in curtailing civil liberties under
+      the guise of maintaining order and protecting national interests.
+    published: '2025-10-15T04:29:42+00:00'
+  - title: New Report Details Western Repression of Anti-Genocide Dissent
+    url: https://consortiumnews.com/2025/10/14/new-report-details-western-repression-of-anti-genocide-dissent/
+    text: The Paris-based International Federation for Human Rights documents the crackdown
+      on the Palestinian solidarity movement in France, Germany, the U.K. and U.S. since
+      Oct. 7, 2023. By Jessica Corbett Common Dreams “From Paris to Washington, Berlin
+      to London, support for… Read more →
+    one_sentence_summary: The International Federation for Human Rights reports on the
+      increasing repression of the Palestinian solidarity movement across France, Germany,
+      the U.K., and the U.S. since October 7, 2023.
+    paragraph_summary: The International Federation for Human Rights, based in Paris,
+      has reported on the increasing repression of the Palestinian solidarity movement
+      across several countries, including France, Germany, the U.K., and the U.S., following
+      the events of October 7, 2023. The organization highlights a trend of heightened
+      scrutiny and crackdowns on activists and demonstrations advocating for Palestinian
+      rights, reflecting a broader climate of intolerance towards such expressions of
+      solidarity in these nations.
+    published: '2025-10-14T21:26:08+00:00'
+  - title: New Report Details Western Repression of Anti-Genocide Dissent
+    url: https://consortiumnews.com/2025/10/14/new-report-details-western-repression-of-anti-genocide-dissent/
+    text: The Paris-based International Federation for Human Rights documents the crackdown
+      on the Palestinian solidarity movement in France, Germany, the U.K. and U.S. since
+      Oct. 7, 2023. By Jessica Corbett Common Dreams “From Paris to Washington, Berlin
+      to London, support for… Read more →
+    one_sentence_summary: The International Federation for Human Rights reports on the
+      increasing repression of the Palestinian solidarity movement across France, Germany,
+      the U.K., and the U.S. since October 7, 2023.
+    paragraph_summary: The International Federation for Human Rights, based in Paris,
+      has reported on the increasing repression of the Palestinian solidarity movement
+      across several countries, including France, Germany, the U.K., and the U.S., following
+      the events of October 7, 2023. The organization highlights a trend of heightened
+      scrutiny and crackdowns on activists and demonstrations advocating for Palestinian
+      rights, reflecting a broader climate of intolerance towards such expressions of
+      solidarity in these nations.
+    published: '2025-10-14T21:26:08+00:00'
+  - title: Trump Admits Graft From Israeli Oligarch
+    url: https://consortiumnews.com/2025/10/14/caitlin-johnstone-trump-admits-graft-from-israeli-oligarch/
+    text: Here is the U.S. president on Monday in the Israeli parliament, once again
+      openly admitting the influence that billionaire Zionists have on him, writes Caitlin
+      Johnstone. By Caitlin Johnstone CaitlinJohnstone.com.au Listen to Tim Foley reading
+      this article. It’s bizarre how… Read more →
+    one_sentence_summary: Caitlin Johnstone critiques the U.S. president's acknowledgment
+      of the significant influence billionaire Zionists have on his policies during
+      a speech in the Israeli parliament.
+    paragraph_summary: In a recent article, Caitlin Johnstone discusses a speech by
+      the U.S. president in the Israeli parliament, where he candidly acknowledged the
+      significant influence of billionaire Zionists on his administration. Johnstone
+      expresses concern over this admission, highlighting the implications of such financial
+      and political ties on U.S. foreign policy and governance. The article critiques
+      the relationship between political leaders and wealthy donors, suggesting it raises
+      questions about the integrity of democratic processes.
+    published: '2025-10-14T18:00:36+00:00'
+  - title: Trump Admits Graft From Israeli Oligarch
+    url: https://consortiumnews.com/2025/10/14/caitlin-johnstone-trump-admits-graft-from-israeli-oligarch/
+    text: Here is the U.S. president on Monday in the Israeli parliament, once again
+      openly admitting the influence that billionaire Zionists have on him, writes Caitlin
+      Johnstone. By Caitlin Johnstone CaitlinJohnstone.com.au Listen to Tim Foley reading
+      this article. It’s bizarre how… Read more →
+    one_sentence_summary: Caitlin Johnstone critiques the U.S. president's acknowledgment
+      of the significant influence billionaire Zionists have on his policies during
+      a speech in the Israeli parliament.
+    paragraph_summary: In a recent article, Caitlin Johnstone discusses a speech by
+      the U.S. president in the Israeli parliament, where he candidly acknowledged the
+      significant influence of billionaire Zionists on his administration. Johnstone
+      expresses concern over this admission, highlighting the implications of such financial
+      and political ties on U.S. foreign policy and governance. The article critiques
+      the relationship between political leaders and wealthy donors, suggesting it raises
+      questions about the integrity of democratic processes.
+    published: '2025-10-14T18:00:36+00:00'
+  - title: 'Not Only Gaza: When Britain Aided Genocide in Indonesia'
+    url: https://consortiumnews.com/2025/10/14/when-britain-aided-genocide-in-indonesia/
+    text: Sixty years ago, Harold Wilson’s Labour government secretly conspired with
+      the Indonesian military as it conducted one of the postwar world’s worst bloodbaths.
+      By Mark Curtis Declassified UK British declassified files show how Harold Wilson’s
+      Labour government, together with the U.S.… Read more →
+    one_sentence_summary: Declassified files reveal that Harold Wilson's Labour government
+      secretly collaborated with the Indonesian military during one of the worst mass
+      killings in postwar history.
+    paragraph_summary: Sixty years ago, Harold Wilson's Labour government in the UK
+      secretly collaborated with the Indonesian military during a period marked by one
+      of the most severe bloodbaths in postwar history. Declassified British files reveal
+      that this partnership was part of a broader strategy involving the United States,
+      highlighting the extent of political maneuvering and complicity in the violent
+      events that unfolded in Indonesia during that time.
+    published: '2025-10-14T16:00:07+00:00'
+  - title: 'Not Only Gaza: When Britain Aided Genocide in Indonesia'
+    url: https://consortiumnews.com/2025/10/14/when-britain-aided-genocide-in-indonesia/
+    text: Sixty years ago, Harold Wilson’s Labour government secretly conspired with
+      the Indonesian military as it conducted one of the postwar world’s worst bloodbaths.
+      By Mark Curtis Declassified UK British declassified files show how Harold Wilson’s
+      Labour government, together with the U.S.… Read more →
+    one_sentence_summary: Declassified files reveal that Harold Wilson's Labour government
+      secretly collaborated with the Indonesian military during one of the worst mass
+      killings in postwar history.
+    paragraph_summary: Sixty years ago, Harold Wilson's Labour government in the UK
+      secretly collaborated with the Indonesian military during a period marked by one
+      of the most severe bloodbaths in postwar history. Declassified British files reveal
+      that this partnership was part of a broader strategy involving the United States,
+      highlighting the extent of political maneuvering and complicity in the violent
+      events that unfolded in Indonesia during that time.
+    published: '2025-10-14T16:00:07+00:00'
+  - title: 'JOE LAURIA:  ‘The Easy Way, or the Hard Way’'
+    url: https://consortiumnews.com/2025/10/14/gaza-takeover-the-easy-way-or-the-hard-way/
+    text: All Trump’s deal does is hand total victory to Israel. Arab states are key
+      to whether Hamas capitulates. By Joe Lauria Special to Consortium News Speaking
+      to the Israeli nation about the ceasefire agreement in Gaza, Prime Minister Benjamin
+      Netanyahu… Read more →
+    one_sentence_summary: The article argues that Trump's ceasefire agreement primarily
+      benefits Israel and emphasizes the importance of Arab states in influencing Hamas's
+      response.
+    paragraph_summary: In his address regarding the ceasefire agreement in Gaza, Israeli
+      Prime Minister Benjamin Netanyahu emphasized that the deal primarily benefits
+      Israel, securing a significant victory for the nation. The article, written by
+      Joe Lauria for Consortium News, argues that the involvement of Arab states is
+      crucial in determining whether Hamas will concede, highlighting the complex dynamics
+      at play in the region and suggesting that the agreement may not lead to a lasting
+      resolution without broader Arab engagement.
+    published: '2025-10-14T06:27:03+00:00'
+  - title: 'JOE LAURIA:  ‘The Easy Way, or the Hard Way’'
+    url: https://consortiumnews.com/2025/10/14/gaza-takeover-the-easy-way-or-the-hard-way/
+    text: All Trump’s deal does is hand total victory to Israel. Arab states are key
+      to whether Hamas capitulates. By Joe Lauria Special to Consortium News Speaking
+      to the Israeli nation about the ceasefire agreement in Gaza, Prime Minister Benjamin
+      Netanyahu… Read more →
+    one_sentence_summary: The article argues that Trump's ceasefire agreement primarily
+      benefits Israel and emphasizes the importance of Arab states in influencing Hamas's
+      response.
+    paragraph_summary: In his address regarding the ceasefire agreement in Gaza, Israeli
+      Prime Minister Benjamin Netanyahu emphasized that the deal primarily benefits
+      Israel, securing a significant victory for the nation. The article, written by
+      Joe Lauria for Consortium News, argues that the involvement of Arab states is
+      crucial in determining whether Hamas will concede, highlighting the complex dynamics
+      at play in the region and suggesting that the agreement may not lead to a lasting
+      resolution without broader Arab engagement.
+    published: '2025-10-14T06:27:03+00:00'
+  - title: 'Chris Hedges: Trump’s Sham Peace Plan'
+    url: https://consortiumnews.com/2025/10/13/chris-hedges-trumps-sham-peace-plan/
+    text: There will be no peace in Gaza. Only the temporary absence of war as the history
+      of Israel’s “peace agreements” shows. By Chris Hedges ScheerPost  There is no
+      shortage of failed peace plans in occupied Palestine, all of them incorporating
+      detailed… Read more →
+    one_sentence_summary: The article by Chris Hedges argues that lasting peace in Gaza
+      is unattainable, as historical peace agreements between Israel and Palestine have
+      repeatedly failed, resulting only in temporary pauses in conflict.
+    paragraph_summary: In his article for ScheerPost, Chris Hedges argues that lasting
+      peace in Gaza is unattainable, citing a history of ineffective peace agreements
+      between Israel and Palestine. He emphasizes that previous attempts at peace have
+      merely resulted in temporary lulls in violence rather than genuine resolutions,
+      highlighting the complexities and failures of these negotiations. Hedges suggests
+      that the cycle of conflict will continue as long as the underlying issues remain
+      unaddressed.
+    published: '2025-10-13T22:53:23+00:00'
+  - title: 'Chris Hedges: Trump’s Sham Peace Plan'
+    url: https://consortiumnews.com/2025/10/13/chris-hedges-trumps-sham-peace-plan/
+    text: There will be no peace in Gaza. Only the temporary absence of war as the history
+      of Israel’s “peace agreements” shows. By Chris Hedges ScheerPost  There is no
+      shortage of failed peace plans in occupied Palestine, all of them incorporating
+      detailed… Read more →
+    one_sentence_summary: The article by Chris Hedges argues that lasting peace in Gaza
+      is unattainable, as historical peace agreements between Israel and Palestine have
+      repeatedly failed, resulting only in temporary pauses in conflict.
+    paragraph_summary: In his article for ScheerPost, Chris Hedges argues that lasting
+      peace in Gaza is unattainable, citing a history of ineffective peace agreements
+      between Israel and Palestine. He emphasizes that previous attempts at peace have
+      merely resulted in temporary lulls in violence rather than genuine resolutions,
+      highlighting the complexities and failures of these negotiations. Hedges suggests
+      that the cycle of conflict will continue as long as the underlying issues remain
+      unaddressed.
+    published: '2025-10-13T22:53:23+00:00'
+  - title: 'PATRICK LAWRENCE: Let Us Now Bury the Truth (Again)'
+    url: https://consortiumnews.com/2025/10/13/patrick-lawrence-let-us-now-bury-the-truth-again/
+    text: What is going around now is another cover up, another denial of what a lot
+      of people on both sides call “the second Nakba,” the sin atop the original sin.
+      By Patrick Lawrence Special to Consortium News Headline in the Sunday… Read more
+      →
+    one_sentence_summary: The article discusses the ongoing denial and cover-up surrounding
+      what many refer to as "the second Nakba," highlighting the complexities and historical
+      grievances related to this issue.
+    paragraph_summary: The article by Patrick Lawrence discusses the ongoing denial
+      and cover-up surrounding what many are referring to as "the second Nakba," a term
+      that evokes the historical displacement of Palestinians during the establishment
+      of Israel. Lawrence argues that this contemporary crisis is being overlooked or
+      misrepresented by various parties, perpetuating a cycle of injustice and suffering.
+      He emphasizes the need for acknowledgment and accountability regarding these events,
+      framing them as a continuation of the original injustices faced by the Palestinian
+      people.
+    published: '2025-10-13T18:00:17+00:00'
+  - title: 'PATRICK LAWRENCE: Let Us Now Bury the Truth (Again)'
+    url: https://consortiumnews.com/2025/10/13/patrick-lawrence-let-us-now-bury-the-truth-again/
+    text: What is going around now is another cover up, another denial of what a lot
+      of people on both sides call “the second Nakba,” the sin atop the original sin.
+      By Patrick Lawrence Special to Consortium News Headline in the Sunday… Read more
+      →
+    one_sentence_summary: The article discusses the ongoing denial and cover-up surrounding
+      what many refer to as "the second Nakba," highlighting the complexities and historical
+      grievances related to this issue.
+    paragraph_summary: The article by Patrick Lawrence discusses the ongoing denial
+      and cover-up surrounding what many are referring to as "the second Nakba," a term
+      that evokes the historical displacement of Palestinians during the establishment
+      of Israel. Lawrence argues that this contemporary crisis is being overlooked or
+      misrepresented by various parties, perpetuating a cycle of injustice and suffering.
+      He emphasizes the need for acknowledgment and accountability regarding these events,
+      framing them as a continuation of the original injustices faced by the Palestinian
+      people.
+    published: '2025-10-13T18:00:17+00:00'
+  - title: 'Caitlin Johnstone: Israelis Openly Plan to Resume Attacks on Gaza'
+    url: https://consortiumnews.com/2025/10/13/caitlin-johnstone-israelis-openly-plan-to-resume-attacks-on-gaza/
+    text: While Trump is declaring “war over” in Gaza, top Israeli officials are directly
+      contradicting him with statements about resuming the onslaught. By Caitlin Johnstone
+      CaitlinJohnstone.com.au Listen to Tim Foley reading this article. Israel’s top
+      officials are openly declaring that they… Read more →
+    one_sentence_summary: Despite Trump's claim that the "war is over" in Gaza, Israeli
+      officials are contradicting him by announcing plans to continue military actions.
+    paragraph_summary: In an article by Caitlin Johnstone, it is highlighted that while
+      former President Trump is proclaiming that the "war is over" in Gaza, senior Israeli
+      officials are contradicting this assertion by indicating that military operations
+      will continue. This discrepancy underscores the ongoing tensions and differing
+      narratives surrounding the conflict, as Israeli leadership expresses intentions
+      to resume their offensive actions despite Trump's claims of a cessation.
+    published: '2025-10-13T15:46:28+00:00'
+  - title: 'Caitlin Johnstone: Israelis Openly Plan to Resume Attacks on Gaza'
+    url: https://consortiumnews.com/2025/10/13/caitlin-johnstone-israelis-openly-plan-to-resume-attacks-on-gaza/
+    text: While Trump is declaring “war over” in Gaza, top Israeli officials are directly
+      contradicting him with statements about resuming the onslaught. By Caitlin Johnstone
+      CaitlinJohnstone.com.au Listen to Tim Foley reading this article. Israel’s top
+      officials are openly declaring that they… Read more →
+    one_sentence_summary: Despite Trump's claim that the "war is over" in Gaza, Israeli
+      officials are contradicting him by announcing plans to continue military actions.
+    paragraph_summary: In an article by Caitlin Johnstone, it is highlighted that while
+      former President Trump is proclaiming that the "war is over" in Gaza, senior Israeli
+      officials are contradicting this assertion by indicating that military operations
+      will continue. This discrepancy underscores the ongoing tensions and differing
+      narratives surrounding the conflict, as Israeli leadership expresses intentions
+      to resume their offensive actions despite Trump's claims of a cessation.
+    published: '2025-10-13T15:46:28+00:00'
+  - title: 'WATCH: A Time of Grave Peril'
+    url: https://consortiumnews.com/2025/10/12/watch-a-time-of-grave-peril/
+    text: 'Israel-U.S. relationship examined: Ex-C.I.A. officer John Kiriakou, former
+      U.S. Green Party V.P. candidate Ajamu Baraka and CN Editor Joe Lauria joined host
+      Danny Haiphong on his webcast Sunday. The Israel-US Relationship Under the Microscope
+      The guests discussed the U.S.-Israeli relationship,… Read more →'
+    one_sentence_summary: In a recent webcast, former CIA officer John Kiriakou, ex-Green
+      Party VP candidate Ajamu Baraka, and CN Editor Joe Lauria analyzed the complexities
+      of the U.S.-Israeli relationship with host Danny Haiphong.
+    paragraph_summary: In a recent webcast hosted by Danny Haiphong, former CIA officer
+      John Kiriakou, ex-Green Party vice presidential candidate Ajamu Baraka, and CN
+      Editor Joe Lauria analyzed the complexities of the U.S.-Israeli relationship.
+      The discussion delved into various aspects of this alliance, exploring its historical
+      context, political implications, and the influence it has on both domestic and
+      international affairs. The guests provided insights into how this relationship
+      shapes U.S. foreign policy and the broader geopolitical landscape.
+    published: '2025-10-12T19:57:18+00:00'
+  - title: 'WATCH: A Time of Grave Peril'
+    url: https://consortiumnews.com/2025/10/12/watch-a-time-of-grave-peril/
+    text: 'Israel-U.S. relationship examined: Ex-C.I.A. officer John Kiriakou, former
+      U.S. Green Party V.P. candidate Ajamu Baraka and CN Editor Joe Lauria joined host
+      Danny Haiphong on his webcast Sunday. The Israel-US Relationship Under the Microscope
+      The guests discussed the U.S.-Israeli relationship,… Read more →'
+    one_sentence_summary: In a recent webcast, former CIA officer John Kiriakou, ex-Green
+      Party VP candidate Ajamu Baraka, and CN Editor Joe Lauria analyzed the complexities
+      of the U.S.-Israeli relationship with host Danny Haiphong.
+    paragraph_summary: In a recent webcast hosted by Danny Haiphong, former CIA officer
+      John Kiriakou, ex-Green Party vice presidential candidate Ajamu Baraka, and CN
+      Editor Joe Lauria analyzed the complexities of the U.S.-Israeli relationship.
+      The discussion delved into various aspects of this alliance, exploring its historical
+      context, political implications, and the influence it has on both domestic and
+      international affairs. The guests provided insights into how this relationship
+      shapes U.S. foreign policy and the broader geopolitical landscape.
+    published: '2025-10-12T19:57:18+00:00'
+  - title: 'WATCH: Another Unjust US Extradition'
+    url: https://consortiumnews.com/2025/10/12/watch-another-unjust-us-extradition/
+    text: 'After its failed attempt to extradite WikiLeaks founder Julian Assange, the
+      U.S. is trying to extradite another Australian on the grounds that he trained
+      Chinese pilots. Guest: Saffrine Duggan. Interviewers: Cathy Vogan and Elizabeth
+      Vos. Time: 22:39. Producer: Cathy Vogan.… Read more →'
+    one_sentence_summary: The U.S. is pursuing the extradition of an Australian accused
+      of training Chinese pilots following its unsuccessful attempt to extradite WikiLeaks
+      founder Julian Assange.
+    paragraph_summary: The article discusses the U.S. government's efforts to extradite
+      an Australian individual accused of training Chinese pilots, following its unsuccessful
+      attempt to extradite WikiLeaks founder Julian Assange. The interview features
+      Saffrine Duggan, with Cathy Vogan and Elizabeth Vos as interviewers, exploring
+      the implications of this extradition case and its context.
+    published: '2025-10-12T18:55:34+00:00'
+  - title: 'WATCH: Another Unjust US Extradition'
+    url: https://consortiumnews.com/2025/10/12/watch-another-unjust-us-extradition/
+    text: 'After its failed attempt to extradite WikiLeaks founder Julian Assange, the
+      U.S. is trying to extradite another Australian on the grounds that he trained
+      Chinese pilots. Guest: Saffrine Duggan. Interviewers: Cathy Vogan and Elizabeth
+      Vos. Time: 22:39. Producer: Cathy Vogan.… Read more →'
+    one_sentence_summary: The U.S. is pursuing the extradition of an Australian accused
+      of training Chinese pilots following its unsuccessful attempt to extradite WikiLeaks
+      founder Julian Assange.
+    paragraph_summary: The article discusses the U.S. government's efforts to extradite
+      an Australian individual accused of training Chinese pilots, following its unsuccessful
+      attempt to extradite WikiLeaks founder Julian Assange. The interview features
+      Saffrine Duggan, with Cathy Vogan and Elizabeth Vos as interviewers, exploring
+      the implications of this extradition case and its context.
+    published: '2025-10-12T18:55:34+00:00'
+  - title: 'Hedges Report: Inside America’s Academic Gulags'
+    url: https://consortiumnews.com/2025/10/10/hedges-report-inside-americas-academic-gulags/
+    text: It is now impossible, says historian Rashid Khalidi, to teach about Israel,
+      Palestine and the ongoing genocide in elite American education institutions. By Chris
+      Hedges The Chris Hedges Report This interview is also available on podcast platforms
+      and Rumble. Historian Rashid… Read more →
+    one_sentence_summary: Historian Rashid Khalidi argues that elite American educational
+      institutions have made it impossible to teach about Israel, Palestine, and the
+      ongoing genocide in the region.
+    paragraph_summary: Historian Rashid Khalidi asserts that discussing Israel, Palestine,
+      and the ongoing genocide in these regions has become increasingly difficult within
+      elite American educational institutions. In an interview with Chris Hedges, Khalidi
+      highlights the challenges faced by educators in addressing these complex and contentious
+      topics, suggesting that academic freedom is being stifled in the context of this
+      critical discourse.
+    published: '2025-10-10T18:00:26+00:00'
+  - title: 'Hedges Report: Inside America’s Academic Gulags'
+    url: https://consortiumnews.com/2025/10/10/hedges-report-inside-americas-academic-gulags/
+    text: It is now impossible, says historian Rashid Khalidi, to teach about Israel,
+      Palestine and the ongoing genocide in elite American education institutions. By Chris
+      Hedges The Chris Hedges Report This interview is also available on podcast platforms
+      and Rumble. Historian Rashid… Read more →
+    one_sentence_summary: Historian Rashid Khalidi argues that elite American educational
+      institutions have made it impossible to teach about Israel, Palestine, and the
+      ongoing genocide in the region.
+    paragraph_summary: Historian Rashid Khalidi asserts that discussing Israel, Palestine,
+      and the ongoing genocide in these regions has become increasingly difficult within
+      elite American educational institutions. In an interview with Chris Hedges, Khalidi
+      highlights the challenges faced by educators in addressing these complex and contentious
+      topics, suggesting that academic freedom is being stifled in the context of this
+      critical discourse.
+    published: '2025-10-10T18:00:26+00:00'
+  - title: 'Caitlin Johnstone: On the ‘Ceasefire’'
+    url: https://consortiumnews.com/2025/10/10/caitlin-johnstone-on-the-ceasefire/
+    text: There’s not a lot to feel optimistic about here. If the killing does stop
+      on a lasting basis, it will be a pleasant surprise. By Caitlin Johnstone Caitlin’s
+      Newsletter Listen to Tim Foley reading this article Israel continued to hammer…
+      Read more →
+    one_sentence_summary: The article expresses a bleak outlook on the ongoing violence
+      in Israel, suggesting that any lasting cessation of hostilities would be unexpectedly
+      positive.
+    paragraph_summary: The article by Caitlin Johnstone expresses a bleak outlook on
+      the ongoing violence, suggesting that any cessation of killing would be unexpected
+      and welcomed as a pleasant surprise. The piece reflects on the grim situation
+      in Israel, highlighting the persistent conflict and the challenges in achieving
+      lasting peace.
+    published: '2025-10-10T17:32:44+00:00'
+  - title: 'Caitlin Johnstone: On the ‘Ceasefire’'
+    url: https://consortiumnews.com/2025/10/10/caitlin-johnstone-on-the-ceasefire/
+    text: There’s not a lot to feel optimistic about here. If the killing does stop
+      on a lasting basis, it will be a pleasant surprise. By Caitlin Johnstone Caitlin’s
+      Newsletter Listen to Tim Foley reading this article Israel continued to hammer…
+      Read more →
+    one_sentence_summary: The article expresses a bleak outlook on the ongoing violence
+      in Israel, suggesting that any lasting cessation of hostilities would be unexpectedly
+      positive.
+    paragraph_summary: The article by Caitlin Johnstone expresses a bleak outlook on
+      the ongoing violence, suggesting that any cessation of killing would be unexpected
+      and welcomed as a pleasant surprise. The piece reflects on the grim situation
+      in Israel, highlighting the persistent conflict and the challenges in achieving
+      lasting peace.
+    published: '2025-10-10T17:32:44+00:00'
+  - title: 'Patrick Lawrence: Keep the Champagne Corked'
+    url: https://consortiumnews.com/2025/10/10/patrick-lawrence-keep-the-champagne-corked/
+    text: We must allow for the possibility of success of Trump’s 20-point peace plan
+      in Gaza, of course. But at writing I simply cannot see it. By Patrick Lawrence
+      The Floutist As I read of the ceasefire Israel and the Hamas government… Read
+      more →
+    one_sentence_summary: The author expresses skepticism about the potential success
+      of Trump's 20-point peace plan for Gaza, despite acknowledging that it should
+      be considered.
+    paragraph_summary: In the article, Patrick Lawrence expresses skepticism about the
+      viability of Trump's 20-point peace plan for Gaza, despite acknowledging the need
+      to consider its potential for success. He reflects on the recent ceasefire between
+      Israel and Hamas, suggesting that, at the moment, he finds it difficult to envision
+      how the proposed plan could effectively address the complex issues at play in
+      the region.
+    published: '2025-10-10T16:46:45+00:00'
+  - title: 'Patrick Lawrence: Keep the Champagne Corked'
+    url: https://consortiumnews.com/2025/10/10/patrick-lawrence-keep-the-champagne-corked/
+    text: We must allow for the possibility of success of Trump’s 20-point peace plan
+      in Gaza, of course. But at writing I simply cannot see it. By Patrick Lawrence
+      The Floutist As I read of the ceasefire Israel and the Hamas government… Read
+      more →
+    one_sentence_summary: The author expresses skepticism about the potential success
+      of Trump's 20-point peace plan for Gaza, despite acknowledging that it should
+      be considered.
+    paragraph_summary: In the article, Patrick Lawrence expresses skepticism about the
+      viability of Trump's 20-point peace plan for Gaza, despite acknowledging the need
+      to consider its potential for success. He reflects on the recent ceasefire between
+      Israel and Hamas, suggesting that, at the moment, he finds it difficult to envision
+      how the proposed plan could effectively address the complex issues at play in
+      the region.
+    published: '2025-10-10T16:46:45+00:00'
+  - title: 'JOHN KIRIAKOU: Militarized Police'
+    url: https://consortiumnews.com/2025/10/10/john-kiriakou-militarized-police/
+    text: The time to transfer funding away from hardware and to counseling training
+      is now.  By John Kiriakou Special to Consortium News With Zoran Mamdani poised
+      to win the New York mayor’s race, the red herring of “defunding the police” is…
+      Read more →
+    one_sentence_summary: John Kiriakou argues that funding should shift from hardware
+      to counseling training, especially with Zoran Mamdani likely to win the New York
+      mayoral race, as the debate around "defunding the police" continues.
+    paragraph_summary: In his article for Consortium News, John Kiriakou argues that
+      the current political climate, particularly with Zoran Mamdani's anticipated victory
+      in the New York mayoral race, presents an opportune moment to shift funding priorities
+      from police hardware to counseling and mental health training. He suggests that
+      this transition is essential for addressing underlying social issues and improving
+      community safety, rather than relying solely on traditional law enforcement measures.
+    published: '2025-10-10T16:00:26+00:00'
+  - title: 'JOHN KIRIAKOU: Militarized Police'
+    url: https://consortiumnews.com/2025/10/10/john-kiriakou-militarized-police/
+    text: The time to transfer funding away from hardware and to counseling training
+      is now.  By John Kiriakou Special to Consortium News With Zoran Mamdani poised
+      to win the New York mayor’s race, the red herring of “defunding the police” is…
+      Read more →
+    one_sentence_summary: John Kiriakou argues that funding should shift from hardware
+      to counseling training, especially with Zoran Mamdani likely to win the New York
+      mayoral race, as the debate around "defunding the police" continues.
+    paragraph_summary: In his article for Consortium News, John Kiriakou argues that
+      the current political climate, particularly with Zoran Mamdani's anticipated victory
+      in the New York mayoral race, presents an opportune moment to shift funding priorities
+      from police hardware to counseling and mental health training. He suggests that
+      this transition is essential for addressing underlying social issues and improving
+      community safety, rather than relying solely on traditional law enforcement measures.
+    published: '2025-10-10T16:00:26+00:00'
+  - title: 'Jonathan Cook: I Grieve'
+    url: https://consortiumnews.com/2025/10/09/jonathan-cook-i-grieve/
+    text: Politicians, the police and the media want millions of us to imagine we are
+      alone in grieving the slaughter of Gaza’s children — and that our grief is shameful.
+      They need us to succumb to their lies. By Jonathan Cook… Read more →
+    one_sentence_summary: The article by Jonathan Cook argues that politicians, police,
+      and media are attempting to isolate and shame those grieving the deaths of children
+      in Gaza, urging the public to reject these narratives and recognize their shared
+      sorrow.
+    paragraph_summary: In his article, Jonathan Cook argues that politicians, law enforcement,
+      and the media are attempting to isolate individuals in their grief over the deaths
+      of children in Gaza, framing this sorrow as something to be ashamed of. He contends
+      that this narrative is a manipulation designed to suppress public empathy and
+      dissent, urging readers to resist these misleading portrayals and acknowledge
+      the collective mourning for the victims of violence.
+    published: '2025-10-09T20:13:16+00:00'
+  - title: 'Jonathan Cook: I Grieve'
+    url: https://consortiumnews.com/2025/10/09/jonathan-cook-i-grieve/
+    text: Politicians, the police and the media want millions of us to imagine we are
+      alone in grieving the slaughter of Gaza’s children — and that our grief is shameful.
+      They need us to succumb to their lies. By Jonathan Cook… Read more →
+    one_sentence_summary: The article by Jonathan Cook argues that politicians, police,
+      and media are attempting to isolate and shame those grieving the deaths of children
+      in Gaza, urging the public to reject these narratives and recognize their shared
+      sorrow.
+    paragraph_summary: In his article, Jonathan Cook argues that politicians, law enforcement,
+      and the media are attempting to isolate individuals in their grief over the deaths
+      of children in Gaza, framing this sorrow as something to be ashamed of. He contends
+      that this narrative is a manipulation designed to suppress public empathy and
+      dissent, urging readers to resist these misleading portrayals and acknowledge
+      the collective mourning for the victims of violence.
+    published: '2025-10-09T20:13:16+00:00'
+  - title: Francesca Albanese Wins ‘Lay Down Your Arms’ Award
+    url: https://consortiumnews.com/2025/10/09/francesca-albanese-wins-lay-down-your-arms-award/
+    text: On the eve of the Nobel Peace Prize announcement, the Scandinavian organisation
+      Lay Down Your Arms awarded the U.N. special rapporteur on occupied Palestine to
+      highlight a peace champion working in line with the will of Alfred Nobel. From
+      the TFF… Read more →
+    one_sentence_summary: Lay Down Your Arms honored the U.N. special rapporteur on
+      occupied Palestine with an award on the eve of the Nobel Peace Prize announcement,
+      recognizing their efforts in promoting peace in alignment with Alfred Nobel's
+      vision.
+    paragraph_summary: On the eve of the Nobel Peace Prize announcement, the Scandinavian
+      organization Lay Down Your Arms honored the U.N. special rapporteur on occupied
+      Palestine for their efforts in promoting peace, aligning with the ideals of Alfred
+      Nobel. This recognition emphasizes the importance of individuals advocating for
+      peace in conflict zones, reflecting the organization's commitment to supporting
+      those who work towards peaceful resolutions.
+    published: '2025-10-09T19:48:31+00:00'
+  - title: Francesca Albanese Wins ‘Lay Down Your Arms’ Award
+    url: https://consortiumnews.com/2025/10/09/francesca-albanese-wins-lay-down-your-arms-award/
+    text: On the eve of the Nobel Peace Prize announcement, the Scandinavian organisation
+      Lay Down Your Arms awarded the U.N. special rapporteur on occupied Palestine to
+      highlight a peace champion working in line with the will of Alfred Nobel. From
+      the TFF… Read more →
+    one_sentence_summary: Lay Down Your Arms honored the U.N. special rapporteur on
+      occupied Palestine with an award on the eve of the Nobel Peace Prize announcement,
+      recognizing their efforts in promoting peace in alignment with Alfred Nobel's
+      vision.
+    paragraph_summary: On the eve of the Nobel Peace Prize announcement, the Scandinavian
+      organization Lay Down Your Arms honored the U.N. special rapporteur on occupied
+      Palestine for their efforts in promoting peace, aligning with the ideals of Alfred
+      Nobel. This recognition emphasizes the importance of individuals advocating for
+      peace in conflict zones, reflecting the organization's commitment to supporting
+      those who work towards peaceful resolutions.
+    published: '2025-10-09T19:48:31+00:00'
+  - title: When Presidents Kill
+    url: https://consortiumnews.com/2025/10/09/when-presidents-kill-2/
+    text: No law permits — and prevailing U.S. judicial jurisprudence absolutely prohibits
+      — summary murders of people not engaged in violence, at sea or anywhere else,
+      writes Andrew P. Napolitano. By Andrew P. Napolitano During the past six weeks,
+      President Donald Trump… Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that U.S. law and judicial precedent
+      categorically forbid summary executions of individuals not involved in violence,
+      regardless of the setting.
+    paragraph_summary: In his article, Andrew P. Napolitano argues that there is no
+      legal justification for summary executions of individuals not actively engaged
+      in violence, whether at sea or elsewhere, emphasizing that U.S. judicial principles
+      categorically prohibit such actions. He critiques recent actions taken by President
+      Donald Trump, suggesting they violate fundamental legal standards and principles
+      of justice.
+    published: '2025-10-09T18:00:27+00:00'
+  - title: When Presidents Kill
+    url: https://consortiumnews.com/2025/10/09/when-presidents-kill-2/
+    text: No law permits — and prevailing U.S. judicial jurisprudence absolutely prohibits
+      — summary murders of people not engaged in violence, at sea or anywhere else,
+      writes Andrew P. Napolitano. By Andrew P. Napolitano During the past six weeks,
+      President Donald Trump… Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that U.S. law and judicial precedent
+      categorically forbid summary executions of individuals not involved in violence,
+      regardless of the setting.
+    paragraph_summary: In his article, Andrew P. Napolitano argues that there is no
+      legal justification for summary executions of individuals not actively engaged
+      in violence, whether at sea or elsewhere, emphasizing that U.S. judicial principles
+      categorically prohibit such actions. He critiques recent actions taken by President
+      Donald Trump, suggesting they violate fundamental legal standards and principles
+      of justice.
+    published: '2025-10-09T18:00:27+00:00'
+  - title: 'The Geopolitics of Algorithms: TikTok, Oracle & Israel'
+    url: https://consortiumnews.com/2025/10/09/the-geopolitics-of-algorithms-tiktok-oracle-israel/
+    text: Miguel Ruíz on the union of technology, geopolitics and the military in the
+      interests of Israel. By Miguel Ruíz Peoples Dispatch Lee en español aquí Launched
+      in 2017 by the private Chinese company ByteDance, TikTok quickly became one of
+      the… Read more →
+    one_sentence_summary: Miguel Ruíz discusses the intersection of technology, geopolitics,
+      and military interests in Israel, highlighting the implications of platforms like
+      TikTok in this context.
+    paragraph_summary: The article by Miguel Ruíz discusses the intersection of technology,
+      geopolitics, and military interests in relation to Israel, highlighting how platforms
+      like TikTok, launched by the Chinese company ByteDance in 2017, play a role in
+      these dynamics. It examines the implications of social media and technology in
+      shaping public perception and political narratives, particularly in the context
+      of Israel's strategic interests. The piece emphasizes the complexities of global
+      power relations and the influence of digital platforms on geopolitical landscapes.
+    published: '2025-10-09T16:00:23+00:00'
+  - title: 'The Geopolitics of Algorithms: TikTok, Oracle & Israel'
+    url: https://consortiumnews.com/2025/10/09/the-geopolitics-of-algorithms-tiktok-oracle-israel/
+    text: Miguel Ruíz on the union of technology, geopolitics and the military in the
+      interests of Israel. By Miguel Ruíz Peoples Dispatch Lee en español aquí Launched
+      in 2017 by the private Chinese company ByteDance, TikTok quickly became one of
+      the… Read more →
+    one_sentence_summary: Miguel Ruíz discusses the intersection of technology, geopolitics,
+      and military interests in Israel, highlighting the implications of platforms like
+      TikTok in this context.
+    paragraph_summary: The article by Miguel Ruíz discusses the intersection of technology,
+      geopolitics, and military interests in relation to Israel, highlighting how platforms
+      like TikTok, launched by the Chinese company ByteDance in 2017, play a role in
+      these dynamics. It examines the implications of social media and technology in
+      shaping public perception and political narratives, particularly in the context
+      of Israel's strategic interests. The piece emphasizes the complexities of global
+      power relations and the influence of digital platforms on geopolitical landscapes.
+    published: '2025-10-09T16:00:23+00:00'
+  - title: Judge Allows Kostakidis ‘Anti-Semitism’ Case to Go Forward
+    url: https://consortiumnews.com/2025/10/09/judge-allows-kostakidis-anti-semitism-case-to-go-forward/
+    text: Judge Stephen McDonald told the court in the course of a six-minute hearing
+      Thursday that the contention the Zionist Federation of Australia had no case against
+      journalist Mary Kostakidis had to be determined at trial, reports Joe Lauria.
+      By Joe… Read more →
+    one_sentence_summary: Judge Stephen McDonald stated that the argument regarding
+      the lack of a case against journalist Mary Kostakidis by the Zionist Federation
+      of Australia must be resolved in court during a brief hearing.
+    paragraph_summary: During a brief six-minute hearing, Judge Stephen McDonald stated
+      that the argument presented by the Zionist Federation of Australia, claiming there
+      was no case against journalist Mary Kostakidis, must be resolved in a trial.
+    published: '2025-10-09T06:13:52+00:00'
+  - title: Judge Allows Kostakidis ‘Anti-Semitism’ Case to Go Forward
+    url: https://consortiumnews.com/2025/10/09/judge-allows-kostakidis-anti-semitism-case-to-go-forward/
+    text: Judge Stephen McDonald told the court in the course of a six-minute hearing
+      Thursday that the contention the Zionist Federation of Australia had no case against
+      journalist Mary Kostakidis had to be determined at trial, reports Joe Lauria.
+      By Joe… Read more →
+    one_sentence_summary: Judge Stephen McDonald stated that the argument regarding
+      the lack of a case against journalist Mary Kostakidis by the Zionist Federation
+      of Australia must be resolved in court during a brief hearing.
+    paragraph_summary: During a brief six-minute hearing, Judge Stephen McDonald stated
+      that the argument presented by the Zionist Federation of Australia, claiming there
+      was no case against journalist Mary Kostakidis, must be resolved in a trial.
+    published: '2025-10-09T06:13:52+00:00'
+  - title: 'NUCLEAR WAR — Scott Ritter: The Missiles of October'
+    url: https://consortiumnews.com/2025/10/08/nuclear-war-scott-ritter-the-missiles-of-october/
+    text: Nuclear arms control teeters on the brink of extinction and with it all of
+      humanity. By Scott Ritter Real Scott Ritter The last remaining nuclear arms control
+      treaty between the United States and Russia — New START — is set… Read more →
+    one_sentence_summary: The article highlights the precarious state of nuclear arms
+      control, emphasizing that the impending expiration of the New START treaty between
+      the U.S. and Russia poses a significant threat to global safety and humanity's
+      future.
+    paragraph_summary: The article by Scott Ritter highlights the precarious state of
+      nuclear arms control, emphasizing that the New START treaty, the last significant
+      nuclear arms control agreement between the United States and Russia, is at risk
+      of collapse. This situation poses a grave threat to global security and humanity
+      as a whole, as the deterioration of such treaties could lead to an escalation
+      in nuclear arms competition and undermine efforts to prevent nuclear proliferation.
+      The author calls attention to the urgent need for renewed dialogue and cooperation
+      to avert a potential crisis in nuclear stability.
+    published: '2025-10-08T18:00:50+00:00'
+  - title: 'NUCLEAR WAR — Scott Ritter: The Missiles of October'
+    url: https://consortiumnews.com/2025/10/08/nuclear-war-scott-ritter-the-missiles-of-october/
+    text: Nuclear arms control teeters on the brink of extinction and with it all of
+      humanity. By Scott Ritter Real Scott Ritter The last remaining nuclear arms control
+      treaty between the United States and Russia — New START — is set… Read more →
+    one_sentence_summary: The article highlights the precarious state of nuclear arms
+      control, emphasizing that the impending expiration of the New START treaty between
+      the U.S. and Russia poses a significant threat to global safety and humanity's
+      future.
+    paragraph_summary: The article by Scott Ritter highlights the precarious state of
+      nuclear arms control, emphasizing that the New START treaty, the last significant
+      nuclear arms control agreement between the United States and Russia, is at risk
+      of collapse. This situation poses a grave threat to global security and humanity
+      as a whole, as the deterioration of such treaties could lead to an escalation
+      in nuclear arms competition and undermine efforts to prevent nuclear proliferation.
+      The author calls attention to the urgent need for renewed dialogue and cooperation
+      to avert a potential crisis in nuclear stability.
+    published: '2025-10-08T18:00:50+00:00'
+  - title: NUCLEAR WAR  — Diplomacy to Stave Off Annihilation
+    url: https://consortiumnews.com/2025/10/08/nuclear-war-diplomacy-to-stave-off-annihilation/
+    text: With the last remaining U.S.-Russia missile treaty expiring in February, Chris
+      Wright calls for diplomacy between the two countries to prevent a massive arms
+      race. By Chris Wright Common Dreams In the grim competition between environmental
+      destruction and nuclear war… Read more →
+    one_sentence_summary: Chris Wright urges for renewed diplomatic efforts between
+      the U.S. and Russia to avert a potential arms race as the last remaining missile
+      treaty between the two nations is set to expire in February.
+    paragraph_summary: In light of the impending expiration of the last U.S.-Russia
+      missile treaty in February, Chris Wright emphasizes the urgent need for diplomacy
+      between the two nations to avert a potential arms race. He highlights the critical
+      intersection of environmental degradation and nuclear conflict, advocating for
+      dialogue to foster stability and prevent escalation in military tensions.
+    published: '2025-10-08T16:00:04+00:00'
+  - title: NUCLEAR WAR  — Diplomacy to Stave Off Annihilation
+    url: https://consortiumnews.com/2025/10/08/nuclear-war-diplomacy-to-stave-off-annihilation/
+    text: With the last remaining U.S.-Russia missile treaty expiring in February, Chris
+      Wright calls for diplomacy between the two countries to prevent a massive arms
+      race. By Chris Wright Common Dreams In the grim competition between environmental
+      destruction and nuclear war… Read more →
+    one_sentence_summary: Chris Wright urges for renewed diplomatic efforts between
+      the U.S. and Russia to avert a potential arms race as the last remaining missile
+      treaty between the two nations is set to expire in February.
+    paragraph_summary: In light of the impending expiration of the last U.S.-Russia
+      missile treaty in February, Chris Wright emphasizes the urgent need for diplomacy
+      between the two nations to avert a potential arms race. He highlights the critical
+      intersection of environmental degradation and nuclear conflict, advocating for
+      dialogue to foster stability and prevent escalation in military tensions.
+    published: '2025-10-08T16:00:04+00:00'
   - title: A Treacherous Israel Toys With a Deal on Gaza
     url: https://consortiumnews.com/2025/10/07/a-treacherous-israel-toys-with-a-deal-on-gaza/
     text: What does Israel have to gain with what appears to be another charade? For

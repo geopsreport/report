@@ -7,18 +7,474 @@ description: "Ex-MI6 diplomat and founder of Conflicts Forum (Beirut); publishes
 websites:
   - https://www.eurasiareview.com/author/alastair-crooke/
 summary: |
-  As the global order continues to shift, the past 12 hours have seen further consolidation of trends already in motion, with new details emerging on the interplay between U.S. domestic politics, Israeli regional ambitions, and the recalibration of global power centers.
+  As the U.S. faces mounting challenges to its global standing, recent developments underscore a deepening crisis of confidence in Western leadership and strategy. The latest analysis by **Alastair Crooke** highlights a growing sense of decline within the U.S., exacerbated by the Trump administration’s reliance on militaristic rhetoric and a doctrine of coerced dominance. This shift, Crooke notes, is not only evident in U.S. policy but also in Israel’s increasingly aggressive posture in the Middle East.
   
-  The most recent analyses, notably from **Alastair Crooke**, highlight the deepening rift within the American political establishment regarding support for Israel. Crooke notes a "growing discontent among American conservatives regarding unconditional support for Israel," reflecting a broader erosion of Israel’s standing in U.S. politics and internationally. This shift is not merely rhetorical; it is beginning to manifest in policy debates, particularly as the Trump administration signals a strategic withdrawal from direct involvement in Ukraine, placing the financial and military burden more squarely on European allies.
+  Most recently, Trump’s public assertions that the U.S. could have “easily won” wars in Vietnam and Afghanistan—if not for political correctness—reflect a nostalgia for unrestrained military power that is out of step with current geopolitical realities. According to **Crooke**, this rhetoric masks the underlying reality: “the U.S. is in a state of decline and grappling with the consequences of its foreign policy and military ambitions.” The administration’s approach, characterized by a rejection of established norms and a preference for escalatory dominance, has failed to produce the decisive victories or images of submission it seeks.
   
-  Simultaneously, Crooke underscores the implications of Israel’s increasingly aggressive posture in the region, describing it as a move towards "violent Zionism" that disregards international norms. The recent Israeli strike on a Hamas negotiating team in Doha, for instance, is seen as a deliberate sidelining of diplomatic channels, particularly Qatar’s mediation role, and a preference for escalatory dominance. This approach, Crooke argues, risks further destabilization and could undermine Israel’s long-term security by alienating both regional actors and traditional Western supporters.
+  Meanwhile, Israel’s strategy continues to mirror this doctrine. The pursuit of dominance through military and financial coercion, as seen in recent actions against Iran and Palestinian actors, signals a broader crisis in the Western liberal order. Crooke points out that this “new, aggressive political doctrine” is symptomatic of a shift towards radical populism and anarchic governance, both in the U.S. and Israel.
   
-  On the broader geopolitical stage, the aftermath of the Shanghai Cooperation Organization (SCO) summit continues to reverberate. The assertiveness of China and Russia, as observed by Crooke, signals a "significant shift in global power dynamics," with the West’s internal divisions and declining hegemony becoming increasingly apparent. The U.S. response remains uncertain, but the prevailing view is that Washington’s ability to dictate terms is waning, especially as alternative economic and security architectures gain traction.
-  
-  Looking ahead, the trends point to a continued fracturing of the post-Cold War order. There is high confidence that the U.S. will further reduce its direct commitments in peripheral conflicts, focusing instead on domestic consolidation and selective engagement. Meanwhile, Israel’s reliance on military solutions is likely to provoke more resistance, both regionally and within its traditional Western alliances. The rise of multipolarity, driven by the SCO and other non-Western groupings, is most definitely set to accelerate, challenging the dominance of U.S.-led institutions and the dollar-based financial system.
-  
-  In summary, the current trajectory suggests a world in which old alliances are strained, new power centers are asserting themselves, and the risks of miscalculation—particularly in the Middle East—remain acute.
+  Looking ahead, the prevailing trend is one of fragmentation and uncertainty. The West’s internal divisions and declining influence are likely to persist, with Crooke expressing high confidence that “the U.S. will continue to struggle to maintain its geopolitical dominance amidst escalating tensions and failed strategies.” The expectation is for further erosion of Western authority, with the potential for more aggressive, yet ultimately ineffective, displays of power. The underlying prediction: the era of easy victories and unchallenged dominance is over, and the consequences of past miscalculations are only beginning to unfold.
 articles:
+  - title: Waiting On Images Of Abject Submission That Don’t Appear – OpEd
+    url: https://www.eurasiareview.com/14102025-waiting-on-images-of-abject-submission-that-dont-appear-oped/
+    text: 'By Alastair Crooke
+
+
+      Trump: “This problem with Vietnam … We stopped fighting to win. We would have
+      won easy. We would have won Afghanistan easy. Would have won every war easy. But
+      we got politically correct: ‘Ah, let’s take it easy!’. It’s that we’re not politically
+      correct anymore. Just so you understand: We win. Now we win”. All these would
+      have been easy – along with Afghanistan.
+
+
+      What was the meaning to Trump’s reference to Vietnam? ‘What he was saying is that
+      ‘we’ would have won Vietnam easily, if we hadn’t been woke and DEI’. Some veterans
+      might amplify, ‘You know: we had enough firepower: We could have killed everyone’.
+
+
+      “No matter where you go”, Trump adds, “no matter what you even think about, there’s
+      nothing like the fighting force that we have [including] Rome … No one should
+      ever want to start a fight with the USA”.
+
+
+      The point is that in today’s Trump circles, not only is there no fear of war,
+      but there is this unsubstantiated delusion of American military power. Hegseth
+      said: “We are the most powerful military on the history of the planet, bar none.
+      Nobody else can even come close to it”. To which Trump adds, “Our market [too],
+      is the greatest in the world – no one can live without it”.
+
+
+      The Anglo-U.S. ‘Empire’ is backing itself into the corner of ‘terminal decline’,
+      as French philosopher Emmanual Todd puts it. Trump is attempting, on the one hand,
+      to coerce into being a new ‘Bretton Woods’ in order to re-create dollar hegemony
+      through threat, bluster and tariffs – or war, if needs be.
+
+
+      Todd believes that as the Anglo-U.S. Empire falls apart, the U.S. is lashing out
+      at the world in fury – and is devouring itself through the attempt to re-colonise
+      its own colonies (i.e. Europe) for quick financial shakedowns.
+
+
+      Trump’s vision of U.S. unstoppable military force amounts to a doctrine of domination
+      and submission. One that runs counter to all the former narrative-talk of western
+      values. What is clear is that this policy shift is ‘joined at the hip’ with Jewish
+      and Evangelical eschatological creeds. It shares with Jewish nationalists the
+      conviction that they too, in alliance with Trump, verge on quasi universal domination:
+
+
+      “We crushed Iran’s nuclear and ballistic projects – they are still there, but
+      we took them back with the help of President Trump”, Netanyahu boasts. “We had
+      a precise alliance, within the framework of which we shared the burden [with the
+      U.S.] and achieved the neutralization of Iran”. According to Netanyahu, “Israel
+      emerged from this event as the dominant power in the Middle East, but we still
+      have something to do – what started in Gaza will be ended in Gaza”.
+
+
+      “We need to ‘deradicalise’ Gaza – as was done in Germany after World War II or
+      in Japan”. Netanyahu insisted to Euronews. Submission however, is proving elusive.
+
+
+      Continued U.S. ‘dominance’, however, requires striking out in multiple directions,
+      because the unidirectional war on Russia – which was supposed to provide the world
+      with an object lesson in the ‘craft’ of Anglo-Zionist domination unexpectedly
+      has failed. And now time is running out on America’s deficit and debt crisis.
+
+
+      This – whilst articulated as the Trumpian desire for domination – is also throwing
+      out nihilistic impulses for war and at the same time fracturing western structures.
+      Bitter tensions are arising across the globe. The big picture is that Russia has
+      seen the writing on the wall: The Alaska summit has born no fruit; Trump is not
+      serious about wanting to recast relations with Moscow.
+
+
+      The expectation in Moscow is now leaning toward the expectation of U.S. escalation
+      in Ukraine; a more devastating strike on Iran; or some punitive, performative
+      action in Venezuela – or both. The Trump team seem to be talking themselves up
+      into a state psychic excitement.
+
+
+      The Jewish Oligarchs and the right-wing of the Cabinet in Israel, in this emerging
+      picture, existentially need America to remain as a feared military hegemon (just
+      as Trump promises). Without the American ‘unstoppable’ military cudgel and absent
+      the centrality of dollar use in trade, Jewish Supremacy becomes nothing more than
+      an eschatological chimaera.
+
+
+      A crisis of de-dollarisation, or a bond market blow up – juxtaposed with the rise
+      of China and Russia and BRICS – becomes an existential threat to the supremacist
+      ‘fantasy’.
+
+
+      In July 2025, Trump told his cabinet, “BRICS was set up to hurt us; BRICS was
+      set up to degenerate our dollar and take our dollar … off as the standard”.
+
+
+      So what comes next? Plainly the U.S. and Israeli initial goal is to ‘sear’ Hamas’
+      psyche with defeat; and if there is no visible expression of utter submission,
+      the overarching aim likely will be to drive out all Palestinians from Gaza and
+      to install Jewish settlers in their place.
+
+
+      Israeli Minister Smotrich – a few years ago – argued that complete displacement
+      of the Palestinian and Arab non-submissive population would only be finally achieved
+      during ‘a major crisis or big war’ – such as occurred in 1948, when 800,000 Palestinians
+      were expelled from their homes. But today, despite the two years’ of massacres,
+      Palestinians have not fled, nor submitted.
+
+
+      So Israel, for all Netanyahu’ boasts of having crushed Hamas, has yet to defeat
+      Palestinians in Gaza – and some in the Hebrew media are calling the Sharm el-Sheik
+      aAccord “a defeat for Israel”.
+
+
+      Netanyahu and the Israeli Right’s ambitions are not circumscribed by Gaza.They
+      extend much further – they seek to establish a State on the full ‘Land of Israel’,
+      which is to say, Greater Israel. Their definition of this colonial project is
+      ambiguous, but likely they want southern Lebanon up to the Litani River; probably
+      most of southern Syria (up to Damascus); parts of the Sinai; and maybe parts of
+      the East Bank, which now belong to Jordan.
+
+
+      So – despite two years of war – what Israel still wants, Professor Mearsheimer
+      opines, is a Palestinian-free Greater Israel.
+
+
+      “Furthermore”, Professor Mearsheimer adds:
+
+
+      “you have to think about what they want with regard to their neighbours. They
+      want weak neighbours. They want to break their neighbours apart. They want to
+      do to Iran what they did in Syria. It’s very important to understand that [while]
+      the nuclear issue is of central importance to the Israelis in Iran, they have
+      broader goals – which is to wreck Iran, turn it into a series of small states”.
+
+
+      “And then the states that they don’t break apart – like Egypt and Jordan – they
+      want them to be economically dependent on Uncle Sam, so that Uncle Sam has huge
+      coercive leverage over them. So, they’re thinking seriously about how to deal
+      with all their neighbours and make sure that they’re weak and don’t pose any kind
+      of threat to Israel”.
+
+
+      Israel clearly seeks the collapse and neutralisation of Iran – as Netanyahu outlined:
+
+
+      “We crushed Iran’s nuclear and ballistic projects – they are still there, but
+      we took them back with the help of President Trump … Iran [now] is developing
+      intercontinental ballistic missiles with an 8,000 km range. Add another 3,000
+      and they can target New York City, Washington, Boston, Miami, Mar-a-Lago”.
+
+
+      As a possible ceasefire deal begins to take shape in Egypt, the wider regional
+      picture is that the U.S. and Israel to seem intent on provoking a Sunni–Shia confrontation
+      to encircle and weaken Iran. The last days’ EU–GCC joint statement on the UAE’s
+      claims to own sovereignty over Abu Musa and the Tunb Islands reflects a growing
+      analysis in Tehran that Western powers are once again using Gulf monarchies as
+      instruments to stir regional instability.
+
+
+      In short, this is not about the islands or oil – it is about manufacturing a new
+      front to weaken Iran.
+
+
+      And with all such projects for the re-ordering of the Region to acquiesce to Israel’s
+      hegemony, the big Jewish donors want to ensure a situation whereby the U.S. supports
+      Israel unconditionally – hence the large funding directed at the MSM and social
+      media to ensure an across all society support for Israel in America.
+
+
+      The two-year anniversary of 7 October poses a question: How does the balance sheet
+      stand? The U.S.-Israel partnership has succeeded in destroying Syria, turning
+      it into a hell of internecine killings; Russia has lost its foothold in the region;
+      ISIS has been revived; sectarianism is on the upsurge. Hizbullah was decapitated
+      but not destroyed. The region is being Balkanised, fragmented and brutalised.
+
+
+      JCPOA Snapback for Iran has been triggered and on 18 October, the JCPOA itself
+      expires. Trump then is left with a ‘blank sheet’ on which he can write an ultimatum
+      demanding Iranian capitulation, or military action (if he so chooses).
+
+
+      On the other side of the account, were we to look back to the Resistance’s initial
+      objectives of exhausting Israel militarily; creating internecine warfare within
+      Israel; and putting into moral and practical question the principle of Zionism
+      that confers special rights for one population group over another, then it might
+      be said that the Resistance – at a heavy, heavy cost – has had some success.
+
+
+      More significantly, Israel’s bloody wars have already lost it a generation of
+      young Americans, who are not coming back. Whatever the circumstances to the killing
+      of Charlie Kirk, his death has let the genie of ‘Israeli First’ dominance in Republican
+      politics escape free from the bottle.
+
+
+      Israel has already lost much of Europe, and in the U.S., the Trump and Israeli
+      Firsters’ intolerant insistence on fealty to Israel and its actions has triggered
+      intense First Amendment push-back.
+
+
+      That puts Israel on track to ‘loose’ America. And that could be existential for
+      Israel, who may need to fundamentally re-assess the nature of Zionism (which was,
+      of course, Seyed Nasrallah’s stated objective).
+
+
+      How would that look? Accelerating migration – leaving a patchwork of Zionist holdouts
+      surviving amidst a stagnant economy and global isolation. Is that sustainable?
+
+
+      What will be the future that heralds for Israel’s grandchildren?'
+    one_sentence_summary: The article discusses Trump's assertion that the U.S. could
+      have easily won wars like Vietnam and Afghanistan if not for political correctness,
+      while analyzing the implications of his militaristic rhetoric and the broader
+      geopolitical dynamics involving the U.S., Israel, and Iran, suggesting that the
+      U.S. is in a state of decline and grappling with the consequences of its foreign
+      policy and military ambitions.
+    paragraph_summary: In a recent article, Alastair Crooke discusses Donald Trump's
+      assertions about American military power, particularly his belief that the U.S.
+      could have easily won conflicts like Vietnam and Afghanistan if not for political
+      correctness. Crooke argues that Trump's rhetoric reflects a dangerous delusion
+      of American dominance, as he seeks to re-establish dollar hegemony through aggressive
+      tactics, including potential military actions. The article also highlights the
+      intertwining of U.S. and Israeli interests, particularly regarding Iran and the
+      broader Middle East, where both nations aim to assert dominance while facing challenges
+      from rising powers like China and Russia. Crooke warns that the ongoing U.S.-Israel
+      partnership has led to regional instability and fragmentation, raising questions
+      about the sustainability of Israel's ambitions and its relationship with America,
+      especially as younger generations in the U.S. increasingly push back against unconditional
+      support for Israel. Ultimately, he suggests that Israel may need to reassess its
+      approach to Zionism in light of these shifting dynamics.
+    published: '2025-10-13T23:42:23+00:00'
+  - title: 'Moving Fast; Breaking Things’: A New Doctrine Takes Root; A New Era Of Coerced
+      Dominance – OpEd'
+    url: https://www.eurasiareview.com/08102025-moving-fast-breaking-things-a-new-doctrine-takes-root-a-new-era-of-coerced-dominance-oped/
+    text: 'By Alastair Crooke
+
+
+      Creeping, thunderous changes are underway in the West. A new political doctrine
+      has taken root: Western Conservative (and younger) populist thinking is being
+      rebuilt as something rougher, meaner, and far less sentimental, or tolerant.
+
+
+      It aspires to emerge too, as ‘dominant’, deliberately coercive, and radical. Throwing
+      components of the exiting order into the air to see if they can be landed in a
+      beneficial way (i.e. greater rent revenues) for the U.S.
+
+
+      The so-called Rules-Based Order blueprint (if it ever truly existed beyond narrative)
+      has been ripped up. Today it is war without limits – without rules; without law;
+      and in complete disdain for the UN Charter. Ethical boundaries, more particularly,
+      are dismissed in parts of the West as ‘weak’ ‘moral relativism’. The point is
+      to leave opponents stunned and frozen stick figures.
+
+
+      In parallel, something profound has re-shaped Israeli and U.S. foreign policy:
+      Ignoring rules purposively to shock. Moving fast and breaking things. Over recent
+      months, Israel has struck with military force in the West Bank, Iran, Syria, Lebanon,
+      Yemen, Qatar and Tunisia – besides Gaza. In June, these two nuclear states bombed
+      the nuclear facilities of a signatory to the Nuclear Non-Proliferation Treaty
+      under IAEA protection – Iran.
+
+
+      This ‘moving fast; breaking things’ phenomenon was clearly evident when Israel,
+      with U.S. support, launched its sneak attack on Iran on 12 June. It was also evident
+      secondly, in the bureaucratic speed which took many by surprise, as the ‘European
+      3’ members of the JCPOA – effected the ‘Snapback’ of all JCPOA-mandated sanctions
+      on Iran. Iranian attempts at diplomacy were swept aside remorselessly.
+
+
+      The invocation of sanctions Snapback was clearly rushed through to pre-empt the
+      imminent ‘sunset’ of the entire JCPOA framework on 18 October – after which the
+      JCPOA will be ‘no more’.
+
+
+      Whilst Russia and China view the U.S.-orchestrated snapback ploy as illegal, procedurally
+      flawed and, in their perspective, an ‘act’ that legally never took place – the
+      reality is chilling. It funnels Iran inexorably toward an U.S.-Israeli ultimatum
+      that it either capitulates fully to the U.S., or faces an overwhelming military
+      onslaught.
+
+
+      This new power doctrine has emerged from a West in financial crisis – but being
+      born of desperation, it may well fail. The wider western crisis of opposition
+      to the establishment, however, is not as many Progressives or bureaucratic Technocrats
+      think – simply resulting from an upsurge of regrettable ‘white’ pushback.
+
+
+      As Giuliano da Empoli has written in the FT:
+
+
+      “Until recently economic elites, financiers, entrepreneurs and managers of large
+      companies relied on a political class of technocrats — or aspiring technocrats
+      — from the right and left, moderate, reasonable, more or less indistinguishable
+      from each other … who governed their countries on the basis of liberal democratic
+      principles, in accordance with market rules, sometimes tempered by social considerations.
+      That was the Davos consensus”.
+
+
+      The collapse of global liberalism and its illusions, together with its technocratic
+      structure of governance, has – in the eyes of the new élites – simply confirmed
+      that the technocratic ‘expert’ sphere was neither competent, nor grounded in reality.
+
+
+      So the ‘umbrella strategy’ of the Rules-Based International Order is over. The
+      new era is one of coerced dominance – whether by Israel or the U.S. This doctrine
+      is centred on Israeli ‘dominance’ – to which others logically must ‘submit’. This
+      is to be achieved either by financial or military pressure. And is symbolised
+      in the shift of nomenclature in the U.S. from Department of Defence to the ‘Department
+      of War’.
+
+
+      “The new American technological élites, the Musks, the Zuckerbergs and Sam Altmans
+      of this world, have nothing in common with the technocrats of Davos. Their philosophy
+      of life is not based on the competent management of the existing order but, on
+      the contrary, on an irrepressible desire to throw everything up in the air. Order,
+      prudence and respect for the rules – are anathema to those who have made a name
+      for themselves by moving fast and breaking things”, da Empoli elaborates.
+
+
+      By their very nature and background, the Tech overlords are more akin to nationalist-populist
+      leaders (the Trumps, the Netanyahus, the Ben Gavirs and Smotrichs), and in a different
+      way to the Evangelical faction (from which Charlie Kirk emerged), rather than
+      to the moderate political classes of Davos whom they (collectively) despise.
+
+
+      Kirk believed that his calling from God was to be a fighter, a combatant in the
+      culture wars. “Some people are called to heal the sick,” he once said. “Some people
+      are called to mend broken marriages.” Kirk declared that his call was “to fight
+      evil and proclaim truth. That’s it”. One commentator called it the politicisation
+      of Evangelism to secure the domination of Jesus.
+
+
+      Stephen Miller, the White House deputy chief of staff, has said that “the day
+      that Charlie died, the angels wept, but those tears have been turned into fire
+      in our hearts. And that fire burns with a righteous fury that our enemies cannot
+      comprehend or understand”.
+
+
+      What is the common vision to these seemingly disparate western factions now embracing
+      this rougher, meaner, and far less sentimental, or consensual political doctrine?
+
+
+      What is the aim of tossing all the Middle East pieces up into the air with such
+      brutalised effect, as is evident to the world from Gaza? Israeli regional hegemony
+      and U.S. control over the region’s energy resources. Is that the aim? Certainly
+      – yet it is more than that —
+
+
+      The new doctrine of Team Trump, the Israeli Right, and the Jewish billionaires
+      supporting him, nevertheless have an overriding ‘war aim’. This is not just about
+      Israeli ‘dominance’ and others having to ‘submit’, as U.S. Envoy Tom Barrack insists.
+      It means “getting Iran under control” too – hence the Snapback is preparation
+      for the ‘big war’ to subjugate Iran.
+
+
+      One U.S. Jewish billionaire, speaking earlier at a Zionists of America conference,
+      was picturing a wider war extending to inside America: Rober Shillman’s said his
+      ample funding of ZoA was intended for “confronting enemies of Israel and the Jewish
+      people [wherever] – defending against Islamists who wish to destroy Israel – and
+      radical Leftist Jew-haters who wish to destroy the Jewish people”.
+
+
+      Does this maelstrom across the Middle East nevertheless tie in with Trump’s apparently
+      separate and distinct bellicosity towards Venezuela (and the coincidental sweetheart
+      deal with Argentina)? Yes—the point is to bring the shale fields of Argentina
+      and the huge oil reserves of Venezuela under U.S. control – to give U.S. global
+      energy dominance with which to mitigate the threat from growing U.S. deficits
+      overwhelming the U.S. government.
+
+
+      The Venezuela standoff connects to the Middle East project through being another
+      aspect of a wider hegemonic project – consolidating the western hemisphere into
+      America’s domain of interest, alongside the Middle East.
+
+
+      How did the West reach this bellicose, dominance-seeking point? The key underlying
+      metaphysics of the shift towards anarchic radicalism (seemingly) owes to a period
+      of American thinking about greed, fairness, liberty, and dominance. As Evan Osnos
+      arguesin The Haves and Have Yachts, over the past five decades, the Oligarchs
+      and Tech overlords have increasingly rejected constraints on their ability to
+      accrue wealth, disavowing the notion that their great resources entail any special
+      responsibility towards their fellow citizens.
+
+
+      They have embraced a libertarian ethos which casts them simply as private individuals,
+      responsible for their own fate, and entitled to enjoy their riches as they see
+      fit. More significantly, they have not, however, forgone the prerogative of using
+      their money to shape government and society to their techno-autarkic vision. The
+      resulting pattern, traced in Osnos’ book, has been a “simple arithmetic — of money
+      making money”.
+
+
+      The lesson the Tech overlords have assimilated is: when a state or any other entity
+      becomes incompetent, the only historical cure for such political sclerosis is
+      not dialogue, nor compromise; It is what the Romans called proscriptio – a formalized
+      purge. Sulla knew this. Caesar perfected it. Augustus institutionalized it. Take
+      the élite interests, deny them resources, strip them of property, and compel obedience
+      … or else!
+
+
+      The Trumpian and Tech élites of today are enamoured by the ancient notion of ‘greatness’
+      – individual greatness – and the contribution that greatness can ‘offer’ to civilization.
+      Typically, in this concept there is always a strong element of the ‘outsider’
+      being some kind of anarchic transgressor, who brings a new measure of energy into
+      play which ‘expert’ insiders just cannot provide.
+
+
+      We all think ‘Trump’ as we read those words. There is clearly a not-so-secret
+      affinity between today’s populist conservatism and anarchic radicalism. Which
+      begs the question: Wild policy swings, constant uncertainty, erratic posts on
+      Truth Social – is this in fact desperation as U.S. greatness visibly ebbs? Or
+      are we being prepped for something yet more contrarian, more radical still – some
+      attempt at a global financial makeover?
+
+
+      “From this moment forward, the only mission of the newly-restored Department of
+      War is this: War fighting; preparing for war and preparing to win – unrelenting
+      – and uncompromising – in that pursuit”, the U.S. Secretary of War told his gathering
+      of Generals in Washington on Tuesday.
+
+
+      The world is on fire, and fear is being ramped up in Europe to high volume. It
+      is ‘Russia, Russia’ everywhere, ‘under every bed’. Are we being truly ‘prepped’,
+      or is this simply European scare brinkmanship intent on enlisting the U.S. in
+      a project to weaken and dissolve Russia into distinct parts?
+
+
+      The collapse of the Soviet Union gave ‘old’ Europe – the great European nations
+      – the huge markets of Eastern Europe, the Balkans, and of the former USSR – and
+      also gave Europe resources and cheap energy too. The EU project per se, effectively
+      was bought with the smell of money – the enticement of easy affluence.
+
+
+      As that affluence pops (and Trump just markedly accelerated the bust), and without
+      Russia’s market dismemberment, what price France, Germany or Italy retaining their
+      former political clout or global influence? More to the point, European leaders
+      are asking, ‘however can I get re-elected now’.
+
+
+      The Russia ‘threat’ brinkmanship is being pushed into the ‘red zone’ by Europe.
+      But neither Europe nor the U.S. seemingly possesses the mettle for real war. And
+      certainly, neither do their publics.'
+    one_sentence_summary: The article discusses the emergence of a new, aggressive political
+      doctrine in the West characterized by a rejection of established norms and rules,
+      particularly in U.S. and Israeli foreign policy, which aims for dominance through
+      military and financial coercion, reflecting a broader crisis of liberalism and
+      a shift towards radical populism and anarchic governance.
+    paragraph_summary: In his article, Alastair Crooke discusses a significant shift
+      in Western political doctrine, characterized by a more aggressive and coercive
+      form of populism that dismisses established norms and ethical boundaries in favor
+      of a radical approach to foreign policy. This new doctrine, emerging amid financial
+      crises, seeks to assert dominance through military and financial pressure, particularly
+      in the Middle East, with a focus on Israeli hegemony and U.S. control over energy
+      resources. The author highlights a departure from the so-called Rules-Based Order,
+      as exemplified by recent military actions and the rapid imposition of sanctions
+      against Iran, which are seen as preparations for a larger conflict. Crooke argues
+      that this shift reflects a broader rejection of traditional governance and a rise
+      in anarchic radicalism, driven by a new elite that prioritizes individual greatness
+      and wealth accumulation over collective responsibility. The article concludes
+      by questioning whether this aggressive posture is a desperate response to declining
+      U.S. influence or a precursor to a more radical global financial transformation.
+    published: '2025-10-08T16:32:22+00:00'
   - title: American Juncture As Israel’s Eighth Front Ignites – OpEd
     url: https://www.eurasiareview.com/02102025-american-juncture-as-israels-eighth-front-ignites-oped/
     text: 'By Alastair Crooke

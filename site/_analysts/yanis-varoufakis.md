@@ -8,21 +8,256 @@ websites:
   - https://www.yanisvaroufakis.eu/
   - https://www.project-syndicate.org/columnist/yanis-varoufakis
 summary: |
-  As the global order continues to fracture along political, economic, and ethical lines, recent developments underscore the intensifying crisis of Western institutions and the emergence of new alliances and financial risks. The launch of the Global Alliance for Palestine in London on July 26, 2025, marks a significant attempt to consolidate international support for Palestinian rights into coordinated political action. **Yanis Varoufakis**, a steering committee member, sharply criticized Western governments and corporations for "perpetuating violence against Palestinians while claiming to support a Two State Solution," highlighting the disconnect between rhetoric and policy.
+  The past week has seen a convergence of economic, political, and social crises, each exposing the fragility of current global systems and the urgent need for structural change. The most recent development is the proposal for a "Monetary Commons," a public digital platform leveraging blockchain technology to provide a universal basic income without resorting to new taxes or debt. As **Yanis Varoufakis** argues, this initiative stands in stark contrast to the current exploitation of stablecoins by powerful private interests, offering a path toward equitable wealth distribution and monetary sovereignty.
   
-  This move comes amid growing scrutiny of Western complicity in the ongoing crisis in Palestine. In a recent open letter, a coalition of economists, including **Thomas Piketty** and **Yanis Varoufakis**, defended UN special rapporteur Francesca Albanese against political attacks, emphasizing the "historical link between economic interests and colonialism," particularly regarding Israel's actions in the occupied territories. The majority view among independent analysts is that Western economic and political interests remain deeply entwined with the perpetuation of conflict, despite public commitments to peace.
+  Meanwhile, the Palestinian issue remains at the forefront of international activism. The launch of the Global Alliance for Palestine in London on July 26, 2025, marks a significant step in unifying global support for Palestinian rights. **Varoufakis**, a member of the alliance's steering committee, sharply criticizes Western governments and corporations for perpetuating violence against Palestinians while publicly endorsing a two-state solution. This coordinated political action signals a shift from fragmented advocacy to a more organized, potentially impactful movement.
   
-  Meanwhile, the specter of financial instability looms larger. In his analysis for Project Syndicate, **Varoufakis** warns that the proliferation of stablecoins—digital currencies pegged to traditional assets—poses a "time bomb" for the global financial system. With banks facing liquidity crises and the US poised to pass the Genius Act, which would further entrench Big Tech's role in currency issuance, there is a high chance of disruptive shifts in global monetary dynamics. The consensus is that stablecoins offer efficiency and accessibility but risk undermining regulatory oversight and exacerbating systemic vulnerabilities.
+  On the economic front, concerns over the proliferation of stablecoins and their destabilizing potential continue to mount. Recent articles highlight the risk of a looming financial crisis as banks lose liquidity and stablecoins become more entrenched in everyday transactions. The so-called "stablecoin time bomb" is exacerbated by legislative moves such as the U.S. Genius Act, which could further empower Big Tech and undermine traditional monetary authorities.
   
-  In Europe, the transformation of the EU from a "Peace Project to a War Project" is accelerating, according to **Varoufakis**'s June speech at the European Parliament. He argues that military Keynesianism is driving increased insecurity and inequality, with the bloc facing potential bankruptcy if current trends persist. The prevailing opinion is that the EU's leadership is failing to address the root causes of its decline, instead doubling down on militarization and austerity.
-  
-  **Trends and Predictions:**  
-  - The Global Alliance for Palestine is most definitely set to intensify international pressure on Western governments, but without a fundamental shift in policy, material change remains unlikely in the short term.
-  - There is a high chance that the expansion of stablecoins will trigger regulatory crackdowns or financial disruptions, especially as US policy shifts under the Genius Act.
-  - The EU's continued embrace of militarization and austerity will, I guarantee, deepen internal divisions and economic fragility, making it less capable of responding to external crises or advocating for its own interests on the world stage.
-  
-  Overall, the majority of analysts foresee a period of mounting instability, as established powers struggle to adapt to new geopolitical and economic realities.
+  Looking ahead, the trends are clear: there is a high chance that grassroots movements for economic and social justice will intensify, particularly as digital technologies offer new tools for collective action. The risk of financial instability linked to the unchecked growth of stablecoins remains acute—most definitely, unless regulatory frameworks are reimagined, a major crisis is likely. At the same time, the momentum behind transnational solidarity campaigns, such as the Global Alliance for Palestine, is quite likely to grow, challenging the status quo and demanding accountability from established powers.
 articles:
+  - title: 'A Trust Fund for Everyone: How to create a Monetary Commons that socialises
+      money and funds a basic dividend without new taxes or debt'
+    url: https://www.yanisvaroufakis.eu/2025/10/10/25876/
+    text: 'At a time Donald Trump, Big Tech and Wall Street deploy stablecoins to privatise
+      the dollar, usurping the decentralising power of blockchain to enrich themselves
+      at everyone else’s expense, here is an alternative use of blockchain that harnesses
+      its decentralising powers to benefit everyone equally – to pay everyone a substantial,
+      non-inflationary, basic dividend – without the need to tax or borrow. Here is
+      an idea that can make a real, urgently needed, difference to our awfully divided
+      societies. Imagine a trust fund for everyone paying a personal dividend to each.
+      Now imagine a common, a public digital platform, let’s call it a Monetary Commons,
+      that harnesses our collective capacity to create the money needed to fund this
+      personal dividend for all. The idea of a personal or basic income is not new,
+      of course. People have sung its praises for decades. But they were stifled. The
+      majority doesn’t want to pay higher taxes, or the higher interest rates more public
+      debt would bring, to deliver a personal payment to others, including to the already
+      stinking rich. But what if it is now possible to pay a decent personal dividend
+      without new taxes or new public debt. How? Not by magic or hocus pocus economics
+      but by reclaiming from private bankers our society’s power to create money. Today,
+      we have the digital tools to take back the power to create money, use that power
+      to create a common trust fund, and pay each a personal dividend. These tools are
+      here already. And if we do not use them for benefitting everyone, the bankers
+      and Big Tech will use them to print more money for themselves. So, let’s get cracking!
+      Let’s build a new Monetary Commons to pay a personal dividend to each! How would
+      it work? Technically, it is ever so simple. You download an app, let’s call it
+      Monetary Commons Pay (or MCPay). MCPay is provided by your central bank (the Fed
+      in the US, the ECB in Europe, the Bank of England in Britain etc.). Essentially,
+      the central bank has opened a digital account for you which you can use to receive
+      and pay money, the way you use your normal bank account app. How is this MCPay
+      app helpful? In three fabulous ways, which I shall present in ascending order
+      of importance. First, because with MCPay you can send and receive money for free,
+      avoiding the terrible, inexcusable, fees charged by private banks – even the ‘fuel
+      fees’ of crypto. The second, even greater, benefit is that the money you keep
+      in your MCPay grows at the central bank interest rate – which is always higher
+      than the measly rate private banks pay for your savings. Free transactions and
+      higher interest on your savings would be good enough reasons to have the MCPay
+      app. But, the truly mesmerising, hugely exciting benefit is the third one: The
+      new app makes it possible for the Central Bank to pay you, and everyone else,
+      a substantial personal dividend. Pay attention to see where this money will come
+      from, why it is not inflationary, why it requires no new taxes, no new debt and
+      no magic: You have heard of how private banks create loans from thin air, right?
+      How they can turn, on average, $3 of new deposits into a new $100 loan? [Yes,
+      lest we forget, only 3% of the money in our advanced economies come from the central
+      bank – the rest is conjured up by private banks.] But this works in reverse as
+      well! If bankers turn $3 into $100, were you to transfer $3 from your normal bank
+      to your MCPay, to take advantage of free transactions and the higher interest
+      rate, you will have annulled your banker’s opportunity to create $100. In other
+      words, as you transfer $3 from your bank to your new MCPay account, the total
+      quantity of money in the economy would fall by, $100 minus $3, $97. Would this
+      not be bad for the economy? It sure would be if nothing was done about it. But
+      wait. Suppose the central bank were to create $97 for every $3 transferred to
+      someone’s MCPay and credit that extra $97, equally, to everyone’s MCPay account.
+      Bingo! Do you see now how a personal dividend was made possible without new taxes,
+      new debt or potentially inflationary increases in the quantity of money? Now,
+      please do not think that this a theoretical discussion. Yes, our governments,
+      in the pockets of financiers as they are, are not interested in giving you the
+      option of an MCPay app. But, with Donald Trump at the helm and his GENIUS Act
+      on the statutes, they are busily handing over this incredible power to create
+      money not to society, not to a Monetary Commons, but to Big Tech and Wall Street.
+      How? By shunning the MCPay app that would benefit you, everyone, equally, and
+      pushing instead for so-called stablecoins issued by privateers, mainly Big Tech
+      and Wall Street, for their benefit. But how much money could we expect to receive
+      as a personal dividend if we were to create a monetary commons? The answer is:
+      a lot! The US Treasury recently predicted that around worth $6.6 trillion of US
+      bank deposits will be transferred to stablecoins – the private version of MCPay
+      from which you will benefit not at all. Yes, $6.6 trillion, that is more than
+      six thousand billion dollars. If such a sum were to be transferred to the monetary
+      commons, to our MCPay accounts, keeping the quantity of money in the US constant
+      would require that the Fed credits $213 trillion to everyone’s MCPay accounts.
+      That’s considerably more than $600 thousand for each woman, man and child resident
+      in the US! And similarly in Britain, Europe, Japan etc. A sizeable trust fund
+      for everyone. This is a remarkable opportunity for making a difference to our
+      awfully divided societies. We must seize it. For the benefit of the many, not
+      the few. Of course, the few – beginning with the bankers – will scream blue murder.
+      They will do their utmost to stop this from happening. They will fearmonger like
+      crazy, eager as they are to usurp the lion’s share of the money that society generates
+      collectively. They will try to terrorise you with tales of calamities that will
+      befall you if this Monetary Commons were to be created. They will prognosticate
+      cataclysmic inflation – even though the whole point of the personal dividend is
+      to keep the money supply constant. They will terrorise you with the prospect of
+      new taxation and new public debt – even though they understand that there is no
+      need for new taxes or new public debt to pay you a substantial personal dividend.
+      To appeal to your social conscience, they will tell you that a Monetary Commons
+      is Elon Musk’s and the libertarians’ way to dismantle social security – even though
+      there is no reason to cut social security in any way to fund everyone’s personal
+      dividend. They will bombard you with the spectre of Big Brother, likening the
+      Monetary Commons to a Chinese Communist Party ploy to have the central bank follow
+      your every transaction – even though they know that MCPay can easily be built
+      on distributed ledger technology that guarantees privacy to each while preventing
+      the authorities from manipulating the money supply without the public noticing.
+      As they scream and shout and terrorise you, you will know: Bankers just hate the
+      idea of going back to the role of intermediaries, of borrowing from Jack to lend
+      to Jill. They are only interested in maintaining their monopoly over the money
+      system – and to extend it now that digital money enhances society’s capacity to
+      create even more new money, a capacity that they want to privatise when we should
+      want to share equally. So, let us ignore the shrieks of the moneymen and let us
+      use new tech to share better the benefits from our collective capacity to create
+      money. Let’s make building a Monetary Commons our common goal. It won’t cure all
+      of our deeply exploitative society’s ills. But it will go a long way to cure many
+      and, perhaps more importantly, it will give the many a sense of their power. FOR
+      MORE ON THE MONETARY COMMONS (including FAQ and simulations0 VISIT https://monetarycommons.com/
+      The post A Trust Fund for Everyone: How to create a Monetary Commons that socialises
+      money and funds a basic dividend without new taxes or debt appeared first on Yanis
+      Varoufakis .'
+    one_sentence_summary: The article proposes using blockchain technology to create
+      a public digital platform, or "Monetary Commons," that could provide a substantial,
+      non-inflationary basic income for everyone without the need for taxation or borrowing,
+      contrasting this equitable approach with the current exploitation of stablecoins
+      by powerful entities.
+    paragraph_summary: The article advocates for a transformative use of blockchain
+      technology to create a decentralized financial system that provides a substantial,
+      non-inflationary basic dividend to everyone, without the need for increased taxes
+      or public debt. It proposes the establishment of a "Monetary Commons," a public
+      digital platform that allows society to reclaim its power to create money, thereby
+      funding personal dividends for all citizens. This concept aims to address societal
+      divisions by ensuring equitable financial benefits, contrasting with the current
+      trend where private entities like Big Tech and Wall Street leverage stablecoins
+      for their own gain. The article emphasizes the urgency of implementing this idea
+      using existing digital tools to prevent further concentration of wealth and power
+      among the elite.
+    published: '2025-10-10T06:39:04+00:00'
+  - title: 'A Trust Fund for Everyone: How to create a Monetary Commons that socialises
+      money and funds a basic dividend without new taxes or debt'
+    url: https://www.yanisvaroufakis.eu/2025/10/10/25876/
+    text: 'At a time Donald Trump, Big Tech and Wall Street deploy stablecoins to privatise
+      the dollar, usurping the decentralising power of blockchain to enrich themselves
+      at everyone else’s expense, here is an alternative use of blockchain that harnesses
+      its decentralising powers to benefit everyone equally – to pay everyone a substantial,
+      non-inflationary, basic dividend – without the need to tax or borrow. Here is
+      an idea that can make a real, urgently needed, difference to our awfully divided
+      societies. Imagine a trust fund for everyone paying a personal dividend to each.
+      Now imagine a common, a public digital platform, let’s call it a Monetary Commons,
+      that harnesses our collective capacity to create the money needed to fund this
+      personal dividend for all. The idea of a personal or basic income is not new,
+      of course. People have sung its praises for decades. But they were stifled. The
+      majority doesn’t want to pay higher taxes, or the higher interest rates more public
+      debt would bring, to deliver a personal payment to others, including to the already
+      stinking rich. But what if it is now possible to pay a decent personal dividend
+      without new taxes or new public debt. How? Not by magic or hocus pocus economics
+      but by reclaiming from private bankers our society’s power to create money. Today,
+      we have the digital tools to take back the power to create money, use that power
+      to create a common trust fund, and pay each a personal dividend. These tools are
+      here already. And if we do not use them for benefitting everyone, the bankers
+      and Big Tech will use them to print more money for themselves. So, let’s get cracking!
+      Let’s build a new Monetary Commons to pay a personal dividend to each! How would
+      it work? Technically, it is ever so simple. You download an app, let’s call it
+      Monetary Commons Pay (or MCPay). MCPay is provided by your central bank (the Fed
+      in the US, the ECB in Europe, the Bank of England in Britain etc.). Essentially,
+      the central bank has opened a digital account for you which you can use to receive
+      and pay money, the way you use your normal bank account app. How is this MCPay
+      app helpful? In three fabulous ways, which I shall present in ascending order
+      of importance. First, because with MCPay you can send and receive money for free,
+      avoiding the terrible, inexcusable, fees charged by private banks – even the ‘fuel
+      fees’ of crypto. The second, even greater, benefit is that the money you keep
+      in your MCPay grows at the central bank interest rate – which is always higher
+      than the measly rate private banks pay for your savings. Free transactions and
+      higher interest on your savings would be good enough reasons to have the MCPay
+      app. But, the truly mesmerising, hugely exciting benefit is the third one: The
+      new app makes it possible for the Central Bank to pay you, and everyone else,
+      a substantial personal dividend. Pay attention to see where this money will come
+      from, why it is not inflationary, why it requires no new taxes, no new debt and
+      no magic: You have heard of how private banks create loans from thin air, right?
+      How they can turn, on average, $3 of new deposits into a new $100 loan? [Yes,
+      lest we forget, only 3% of the money in our advanced economies come from the central
+      bank – the rest is conjured up by private banks.] But this works in reverse as
+      well! If bankers turn $3 into $100, were you to transfer $3 from your normal bank
+      to your MCPay, to take advantage of free transactions and the higher interest
+      rate, you will have annulled your banker’s opportunity to create $100. In other
+      words, as you transfer $3 from your bank to your new MCPay account, the total
+      quantity of money in the economy would fall by, $100 minus $3, $97. Would this
+      not be bad for the economy? It sure would be if nothing was done about it. But
+      wait. Suppose the central bank were to create $97 for every $3 transferred to
+      someone’s MCPay and credit that extra $97, equally, to everyone’s MCPay account.
+      Bingo! Do you see now how a personal dividend was made possible without new taxes,
+      new debt or potentially inflationary increases in the quantity of money? Now,
+      please do not think that this a theoretical discussion. Yes, our governments,
+      in the pockets of financiers as they are, are not interested in giving you the
+      option of an MCPay app. But, with Donald Trump at the helm and his GENIUS Act
+      on the statutes, they are busily handing over this incredible power to create
+      money not to society, not to a Monetary Commons, but to Big Tech and Wall Street.
+      How? By shunning the MCPay app that would benefit you, everyone, equally, and
+      pushing instead for so-called stablecoins issued by privateers, mainly Big Tech
+      and Wall Street, for their benefit. But how much money could we expect to receive
+      as a personal dividend if we were to create a monetary commons? The answer is:
+      a lot! The US Treasury recently predicted that around worth $6.6 trillion of US
+      bank deposits will be transferred to stablecoins – the private version of MCPay
+      from which you will benefit not at all. Yes, $6.6 trillion, that is more than
+      six thousand billion dollars. If such a sum were to be transferred to the monetary
+      commons, to our MCPay accounts, keeping the quantity of money in the US constant
+      would require that the Fed credits $213 trillion to everyone’s MCPay accounts.
+      That’s considerably more than $600 thousand for each woman, man and child resident
+      in the US! And similarly in Britain, Europe, Japan etc. A sizeable trust fund
+      for everyone. This is a remarkable opportunity for making a difference to our
+      awfully divided societies. We must seize it. For the benefit of the many, not
+      the few. Of course, the few – beginning with the bankers – will scream blue murder.
+      They will do their utmost to stop this from happening. They will fearmonger like
+      crazy, eager as they are to usurp the lion’s share of the money that society generates
+      collectively. They will try to terrorise you with tales of calamities that will
+      befall you if this Monetary Commons were to be created. They will prognosticate
+      cataclysmic inflation – even though the whole point of the personal dividend is
+      to keep the money supply constant. They will terrorise you with the prospect of
+      new taxation and new public debt – even though they understand that there is no
+      need for new taxes or new public debt to pay you a substantial personal dividend.
+      To appeal to your social conscience, they will tell you that a Monetary Commons
+      is Elon Musk’s and the libertarians’ way to dismantle social security – even though
+      there is no reason to cut social security in any way to fund everyone’s personal
+      dividend. They will bombard you with the spectre of Big Brother, likening the
+      Monetary Commons to a Chinese Communist Party ploy to have the central bank follow
+      your every transaction – even though they know that MCPay can easily be built
+      on distributed ledger technology that guarantees privacy to each while preventing
+      the authorities from manipulating the money supply without the public noticing.
+      As they scream and shout and terrorise you, you will know: Bankers just hate the
+      idea of going back to the role of intermediaries, of borrowing from Jack to lend
+      to Jill. They are only interested in maintaining their monopoly over the money
+      system – and to extend it now that digital money enhances society’s capacity to
+      create even more new money, a capacity that they want to privatise when we should
+      want to share equally. So, let us ignore the shrieks of the moneymen and let us
+      use new tech to share better the benefits from our collective capacity to create
+      money. Let’s make building a Monetary Commons our common goal. It won’t cure all
+      of our deeply exploitative society’s ills. But it will go a long way to cure many
+      and, perhaps more importantly, it will give the many a sense of their power. FOR
+      MORE ON THE MONETARY COMMONS (including FAQ and simulations0 VISIT https://monetarycommons.com/
+      The post A Trust Fund for Everyone: How to create a Monetary Commons that socialises
+      money and funds a basic dividend without new taxes or debt appeared first on Yanis
+      Varoufakis .'
+    one_sentence_summary: The article proposes using blockchain technology to create
+      a public digital platform, or "Monetary Commons," that could provide a substantial,
+      non-inflationary basic income for everyone without the need for taxation or borrowing,
+      contrasting this equitable approach with the current exploitation of stablecoins
+      by powerful entities.
+    paragraph_summary: The article advocates for a transformative use of blockchain
+      technology to create a decentralized financial system that provides a substantial,
+      non-inflationary basic dividend to everyone, without the need for increased taxes
+      or public debt. It proposes the establishment of a "Monetary Commons," a public
+      digital platform that allows society to reclaim its power to create money, thereby
+      funding personal dividends for all citizens. This concept aims to address societal
+      divisions by ensuring equitable financial benefits, contrasting with the current
+      trend where private entities like Big Tech and Wall Street leverage stablecoins
+      for their own gain. The article emphasizes the urgency of implementing this idea
+      using existing digital tools to prevent further concentration of wealth and power
+      among the elite.
+    published: '2025-10-10T06:39:04+00:00'
   - title: Global Alliance for Palestine – my message on why we need it
     url: https://www.yanisvaroufakis.eu/2025/07/28/25867/
     text: On 26th July 2025, delegates from over 25 countries convened in London for

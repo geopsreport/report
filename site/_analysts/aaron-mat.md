@@ -7,14 +7,74 @@ description: "Journalist and producer; covers US foreign policy, Russiagate, and
 websites:
   - https://www.aaronmate.net/
 summary: |
-  As the humanitarian crisis in Gaza deepens, President Trump has unveiled a so-called "peace plan" that, according to **Aaron Maté**, is widely seen as a thinly veiled ultimatum for Hamas to surrender. The proposal, coming amid dire conditions for Palestinians, is not regarded by most analysts as a genuine step toward peace, but rather as a move to force Palestinian capitulation and undermine their right to self-determination. Maté notes that while Hamas may feel compelled to accept the terms due to mounting pressure, the plan's substance offers little in the way of meaningful negotiation or compromise.
+  The latest developments in the Middle East and Eastern Europe continue to underscore the fragility of recent diplomatic efforts and the persistence of underlying geopolitical tensions.
   
-  Elsewhere, the fallout from the indictment of former FBI Director James Comey continues to reverberate. While some see the move as a politically motivated act of retribution by Trump, **Aaron Maté** points out that it also reflects the contentious standards established during the 2016 Trump-Russia investigation overseen by Comey himself. This development underscores the ongoing politicization of US intelligence and law enforcement, with implications for both domestic and foreign policy credibility.
+  President Trump’s recently brokered ceasefire between Israel and Hamas has temporarily halted large-scale violence in Gaza. However, as **Aaron Maté** reports, the deal “fails to address the underlying issues of Israeli occupation and Palestinian self-determination,” with Israel already restricting aid and continuing attacks in violation of the agreement’s terms. This pattern suggests the ceasefire is unlikely to yield lasting peace, as the core grievances remain unaddressed. There is a high chance that, absent meaningful negotiations on Palestinian rights, the ceasefire will unravel or be punctuated by further escalations.
   
-  In Ukraine, President Trump has shifted his approach, now expressing confidence in Kyiv's ability to reclaim territory from Russia with the backing of the European Union. This marks a notable departure from his earlier calls for negotiations and signals a willingness to support a prolonged conflict. Ukrainian President Zelensky has welcomed this change, while Trump's public questioning of Russian military strength has further complicated the diplomatic landscape.
+  In Ukraine, President Trump has shifted from advocating new sanctions against Russia to expressing confidence in Ukraine’s ability to reclaim territory with EU support, while openly questioning Russia’s military strength. This new stance, welcomed by Ukrainian President Zelensky, marks a notable change in US policy. **Aaron Maté** notes that this reflects “the changing dynamics on the battlefield,” but also complicates prospects for a negotiated settlement. The majority view among analysts is that the conflict is set to continue, with a high chance of prolonged hostilities as both sides remain entrenched.
   
-  Looking ahead, the prevailing trend is one of escalating pressure on adversaries—whether through diplomatic ultimatums, legal maneuvers, or military support—rather than genuine negotiation or compromise. Given the current trajectory, I assess with high confidence that the so-called "peace plan" for Gaza will not resolve the underlying conflict, and that the war in Ukraine is likely to continue with increased Western backing. The politicization of US institutions is set to remain a significant factor in both domestic and international arenas.
+  Meanwhile, Syria has entered a new phase in its international relations. The US recently hosted Ahmed al-Sharaa (Mohammed al-Jolani), Syria’s new president and former Al Qaeda leader, following his removal from the US terrorism list after his role in the overthrow of Bashar al-Assad. This historic visit signals a dramatic realignment in US-Syrian relations, though it has sparked controversy given al-Sharaa’s militant background. The majority opinion is that this move is likely to further destabilize the region and deepen sectarian divides within Syria, with a high chance of increased internal violence in the near term.
+  
+  In summary, while headline-grabbing deals and diplomatic overtures continue, the underlying causes of conflict in Gaza, Ukraine, and Syria remain unresolved. The prevailing trend is one of temporary fixes rather than durable solutions. There is a high chance that, without addressing root causes, these crises will persist or escalate in the coming months.
 articles:
+  - title: Gaza deal takes effect, with underlying causes unchanged
+    url: https://www.aaronmate.net/p/gaza-deal-takes-effect-with-underlying
+    text: '(Photo by BASHAR TALEB/AFP via Getty Images) After two years of Israeli mass
+      murder in Gaza, President Trump has done what his predecessor Joe Biden refused
+      to do: use decisive US leverage to stop the bloodshed. While an end to genocide
+      is by definition a welcome development, the Trump-brokered agreement between Israel-Hamas
+      does not address any of the issues that drive the crisis in the first place: namely,
+      the Israeli military occupation of Palestinians and denial of their right to self-determination.
+      In line with a long record, Israel is already violating the ceasefire terms by
+      restricting the entry of aid to Gaza and carrying out continued attacks. On Monday,
+      as the deal came into effect, I appeared on “Piers Morgan Uncensored” to discuss
+      the genocide and its unresolved causes. On sabotaged peace opportunities, before
+      and after Oct. 7: On Bill Clinton’s fateful lie and the radicalization of Israeli
+      society: Aaron Mate is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber.'
+    one_sentence_summary: President Trump has brokered a ceasefire agreement between
+      Israel and Hamas to halt the violence in Gaza, but the deal fails to address the
+      underlying issues of Israeli occupation and Palestinian self-determination, with
+      Israel already violating the terms by restricting aid and continuing attacks.
+    paragraph_summary: In response to two years of violence in Gaza, President Trump
+      has brokered a ceasefire agreement between Israel and Hamas, a move that contrasts
+      with President Biden's inaction. While the cessation of hostilities is a positive
+      step, the agreement fails to tackle the root causes of the conflict, such as the
+      Israeli military occupation and the denial of Palestinian self-determination.
+      Despite the ceasefire, Israel has already begun violating its terms by limiting
+      aid to Gaza and continuing military actions. The article discusses these ongoing
+      issues and the historical context of failed peace efforts, emphasizing the need
+      for a more comprehensive resolution to the crisis.
+    published: '2025-10-14T15:46:41+00:00'
+  - title: Gaza deal takes effect, with underlying causes unchanged
+    url: https://www.aaronmate.net/p/gaza-deal-takes-effect-with-underlying
+    text: '(Photo by BASHAR TALEB/AFP via Getty Images) After two years of Israeli mass
+      murder in Gaza, President Trump has done what his predecessor Joe Biden refused
+      to do: use decisive US leverage to stop the bloodshed. While an end to genocide
+      is by definition a welcome development, the Trump-brokered agreement between Israel-Hamas
+      does not address any of the issues that drive the crisis in the first place: namely,
+      the Israeli military occupation of Palestinians and denial of their right to self-determination.
+      In line with a long record, Israel is already violating the ceasefire terms by
+      restricting the entry of aid to Gaza and carrying out continued attacks. On Monday,
+      as the deal came into effect, I appeared on “Piers Morgan Uncensored” to discuss
+      the genocide and its unresolved causes. On sabotaged peace opportunities, before
+      and after Oct. 7: On Bill Clinton’s fateful lie and the radicalization of Israeli
+      society: Aaron Mate is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber.'
+    one_sentence_summary: President Trump has brokered a ceasefire agreement between
+      Israel and Hamas to halt the violence in Gaza, but the deal fails to address the
+      underlying issues of Israeli occupation and Palestinian self-determination, with
+      Israel already violating the terms by restricting aid and continuing attacks.
+    paragraph_summary: In response to two years of violence in Gaza, President Trump
+      has brokered a ceasefire agreement between Israel and Hamas, a move that contrasts
+      with President Biden's inaction. While the cessation of hostilities is a positive
+      step, the agreement fails to tackle the root causes of the conflict, such as the
+      Israeli military occupation and the denial of Palestinian self-determination.
+      Despite the ceasefire, Israel has already begun violating its terms by limiting
+      aid to Gaza and continuing military actions. The article discusses these ongoing
+      issues and the historical context of failed peace efforts, emphasizing the need
+      for a more comprehensive resolution to the crisis.
+    published: '2025-10-14T15:46:41+00:00'
   - title: Trump’s 'peace plan' is a repackaged demand for Palestinian surrender
     url: https://www.aaronmate.net/p/trumps-peace-plan-is-a-repackaged
     text: '(Photo by ANDREW CABALLERO-REYNOLDS/AFP via Getty Images) Given the scale

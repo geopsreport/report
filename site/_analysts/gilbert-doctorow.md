@@ -7,17 +7,1871 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  The ongoing conflict in Ukraine continues to evolve rapidly, with a notable escalation in both the sophistication and frequency of Russian missile and drone attacks. Over the past 48 hours, Ukrainian forces have faced mounting challenges in intercepting Russian ballistic missiles, despite the recent deployment of additional US Patriot missile systems. According to **Gilbert Doctorow**, Russian advancements in missile technology are outpacing Ukraine’s current air defense capabilities, a development that has left key Ukrainian cities increasingly vulnerable.
+  As the Ukraine conflict enters a critical phase in mid-October 2025, the geopolitical landscape is marked by intensifying military exchanges, shifting Western engagement, and growing questions over Russian leadership. Recent days have seen notable developments in both diplomatic and military spheres, with significant implications for the trajectory of the war.
   
-  Simultaneously, Russia claims to have successfully neutralized a significant number of Ukrainian drones targeting Moscow, underscoring the intensification of drone warfare on both sides. The shift from traditional artillery exchanges to drone-centric tactics marks a significant transformation in the operational landscape, as highlighted in Doctorow’s latest interviews.
+  The most recent reports highlight a direct conversation between Ukrainian President Zelensky and former US President Trump regarding enhanced air defenses and long-range strike capabilities. **Gilbert Doctorow** interprets Trump’s willingness to consider increased military support for Ukraine as a pointed warning to Moscow, suggesting that Washington’s posture could harden if the conflict persists. Doctorow draws a parallel to Gorbachev’s miscalculations in the late Soviet era, warning that Putin’s seemingly relaxed response may reflect a dangerous underestimation of Western resolve.
   
-  On the international front, there is growing speculation about the potential impact of US Tomahawk missile deliveries to Ukraine. While these deliveries are expected to bolster Ukraine’s long-range strike capacity, **Doctorow** notes that the effectiveness of such systems remains uncertain given Russia’s demonstrated ability to adapt and counter Western-supplied weaponry.
+  Meanwhile, Russian forces have escalated their campaign against Ukrainian energy infrastructure, prompting Kyiv to seek a 30% boost in natural gas imports from Europe. This development comes as Ukraine’s own counterattacks on Russian refineries—often using Western-supplied weaponry—remain underreported in Russian media. Doctorow notes the reciprocal nature of these strikes, but also points out the lack of clarity in Western narratives about who initiates these escalations.
   
-  Meanwhile, the broader geopolitical environment remains tense. Russia’s response to Western actions—particularly sanctions targeting its oil fleet—remains measured for now, but Doctorow raises questions about how long this restraint will last if pressure intensifies. Additionally, the continued militarization of Europe and the deepening proxy conflict between NATO and Russia are fueling concerns about further escalation.
+  On the leadership front, there is growing debate about President Putin’s capacity to navigate Russia through mounting external pressures. In a recent discussion, Doctorow suggests that Putin may soon recognize his limitations in countering Western threats, particularly as European states move to seize Russian assets in support of Ukraine. The consensus among analysts is that a transition to a younger, more decisive Russian leadership is increasingly likely, with Doctorow stating there is a “high chance” this will occur if the current trajectory continues.
   
   **Trends and Predictions:**  
-  The majority of sources agree that the technological gap in missile and drone warfare is widening in Russia’s favor, and this is likely to persist in the near term. There is a high chance that Ukrainian air defenses will remain under severe strain, even with ongoing Western support. The likelihood of a significant Russian response to further Western escalation—such as the deployment of long-range US missiles—is quite high, though the exact form remains uncertain. The conflict is most definitely entering a phase where technological innovation and rapid adaptation will determine the operational balance, with both sides racing to outpace the other in the evolving drone and missile arms race.
+  The conflict is poised to intensify, with both sides escalating attacks on critical infrastructure and Western involvement potentially deepening. The likelihood of a significant shift in Russian leadership is rising, as internal and external pressures converge. Based on the majority of expert assessments, there is a high chance that the coming weeks will see further escalation and a possible recalibration of Russia’s strategic approach—either through leadership change or a more aggressive military posture. I guarantee that Western military and financial support for Ukraine will remain a decisive factor shaping the conflict’s outcome.
 articles:
+  - title: 'NewsX World: Zelensky Speaks With Trump Over Air Defenses And Long-Range
+      Strike Capabilities'
+    url: https://gilbertdoctorow.com/2025/10/13/newsx-world-zelensky-speaks-with-trump-over-air-defenses-and-long-range-strike-capabilities/
+    text: 'I am pleased and not a little surprised that day after day this Indian global
+      broadcaster invites my commentary on the Ukraine war when they know very well
+      that my observations are at variance not only with Mainstream, but also at variance
+      with a goodly number of celebrities in the Alternative Media. I am being very
+      discreet in my remarks in this interview. Allow me to spell out more clearly what
+      my present thinking is: President Trump’s engagement with Vladimir Zelensky over
+      sending him Tomahawks is yet again a signal to Vladimir Putin to get the damned
+      war in Ukraine over with now by smashing Kiev to bits. He is saying, in essence
+      that  ‘If you fail to do that and the war drags on, I may be obliged to give the
+      Tomahawks to Kiev to apply further pressure on you.’ Putin’s blasé response to
+      the threat of major escalation by Washington, which dispatch of Tomahawks signifies,
+      regrettably positions him as Gorbachev-2.  Mikhail Gorbachev was played for a
+      fool by his talking partners in the Bush Sr. administration.  No expansion of
+      NATO one inch to the East, etc.   Now Putin is presenting himself as a similar
+      fool by ignoring the ongoing and very damaging Ukrainian drone attacks on Russian
+      refineries and energy infrastructure, all of it guided by US intel, as even the
+      Financial Times details in its latest reporting.  The only dignified response
+      to this American aggression would be for Putin to threaten to declare war on the
+      USA if it continues one more day. Hegseth, Rubio, not to mention Senator Lindsey
+      Graham must all be sniggering over Putin’s lack of cojones. Super weapons such
+      as Russia possesses are no better than the will of leaders to use them in self-defense.'
+    one_sentence_summary: The author expresses surprise at being invited to comment
+      on the Ukraine war by an Indian broadcaster, asserting that President Trump's
+      potential military support for Ukraine signals a warning to Putin to end the conflict,
+      while suggesting that Putin's nonchalant response mirrors Gorbachev's past naivety
+      in negotiations.
+    paragraph_summary: The author expresses surprise at being invited to comment on
+      the Ukraine war by an Indian global broadcaster, given their divergent views from
+      mainstream and alternative media perspectives. They suggest that President Trump's
+      discussions with Ukrainian President Zelensky about sending Tomahawk missiles
+      signal to Vladimir Putin the urgency to end the war by decisively attacking Kiev.
+      The author likens Putin's complacency to that of Mikhail Gorbachev, who was misled
+      by U.S. promises during the Cold War, arguing that Putin's inaction in the face
+      of ongoing Ukrainian attacks, supported by U.S. intelligence, undermines his position.
+      They contend that Putin should respond to U.S. aggression with a declaration of
+      war, criticizing him for appearing weak and suggesting that Russia's advanced
+      weaponry is ineffective without the political will to use it.
+    published: '2025-10-13T18:03:13+00:00'
+  - title: 'NewsX World: Zelensky Speaks With Trump Over Air Defenses And Long-Range
+      Strike Capabilities'
+    url: https://gilbertdoctorow.com/2025/10/13/newsx-world-zelensky-speaks-with-trump-over-air-defenses-and-long-range-strike-capabilities/
+    text: 'I am pleased and not a little surprised that day after day this Indian global
+      broadcaster invites my commentary on the Ukraine war when they know very well
+      that my observations are at variance not only with Mainstream, but also at variance
+      with a goodly number of celebrities in the Alternative Media. I am being very
+      discreet in my remarks in this interview. Allow me to spell out more clearly what
+      my present thinking is: President Trump’s engagement with Vladimir Zelensky over
+      sending him Tomahawks is yet again a signal to Vladimir Putin to get the damned
+      war in Ukraine over with now by smashing Kiev to bits. He is saying, in essence
+      that  ‘If you fail to do that and the war drags on, I may be obliged to give the
+      Tomahawks to Kiev to apply further pressure on you.’ Putin’s blasé response to
+      the threat of major escalation by Washington, which dispatch of Tomahawks signifies,
+      regrettably positions him as Gorbachev-2.  Mikhail Gorbachev was played for a
+      fool by his talking partners in the Bush Sr. administration.  No expansion of
+      NATO one inch to the East, etc.   Now Putin is presenting himself as a similar
+      fool by ignoring the ongoing and very damaging Ukrainian drone attacks on Russian
+      refineries and energy infrastructure, all of it guided by US intel, as even the
+      Financial Times details in its latest reporting.  The only dignified response
+      to this American aggression would be for Putin to threaten to declare war on the
+      USA if it continues one more day. Hegseth, Rubio, not to mention Senator Lindsey
+      Graham must all be sniggering over Putin’s lack of cojones. Super weapons such
+      as Russia possesses are no better than the will of leaders to use them in self-defense.'
+    one_sentence_summary: The author expresses surprise at being invited to comment
+      on the Ukraine war by an Indian broadcaster, asserting that President Trump's
+      potential military support for Ukraine signals a warning to Putin to end the conflict,
+      while suggesting that Putin's nonchalant response mirrors Gorbachev's past naivety
+      in negotiations.
+    paragraph_summary: The author expresses surprise at being invited to comment on
+      the Ukraine war by an Indian global broadcaster, given their divergent views from
+      mainstream and alternative media perspectives. They suggest that President Trump's
+      discussions with Ukrainian President Zelensky about sending Tomahawk missiles
+      signal to Vladimir Putin the urgency to end the war by decisively attacking Kiev.
+      The author likens Putin's complacency to that of Mikhail Gorbachev, who was misled
+      by U.S. promises during the Cold War, arguing that Putin's inaction in the face
+      of ongoing Ukrainian attacks, supported by U.S. intelligence, undermines his position.
+      They contend that Putin should respond to U.S. aggression with a declaration of
+      war, criticizing him for appearing weak and suggesting that Russia's advanced
+      weaponry is ineffective without the political will to use it.
+    published: '2025-10-13T18:03:13+00:00'
+  - title: NewsX World news bulletin, 11 October
+    url: https://gilbertdoctorow.com/2025/10/12/newsx-world-news-bulletin-11-october/
+    text: In this interview which begins roughly half way through the video at minute
+      10, I am asked about the latest Russian attacks on the Ukraine energy infrastructure,
+      about Melania Trump’s statements about her communications with Vladimir Putin
+      with respect to Ukrainian children allegedly kidnapped by Russian forces, and
+      about Russian strikes against foreign mercenaries in Ukraine.
+    one_sentence_summary: The interview discusses recent Russian attacks on Ukraine's
+      energy infrastructure, Melania Trump's comments on her communications with Putin
+      regarding kidnapped Ukrainian children, and Russian strikes targeting foreign
+      mercenaries in Ukraine.
+    paragraph_summary: In the interview starting at the 10-minute mark, the discussion
+      focuses on recent Russian attacks on Ukraine's energy infrastructure, Melania
+      Trump's comments regarding her communications with Vladimir Putin about the alleged
+      kidnapping of Ukrainian children by Russian forces, and the Russian strikes targeting
+      foreign mercenaries in Ukraine.
+    published: '2025-10-12T20:25:12+00:00'
+  - title: NewsX World news bulletin, 11 October
+    url: https://gilbertdoctorow.com/2025/10/12/newsx-world-news-bulletin-11-october/
+    text: In this interview which begins roughly half way through the video at minute
+      10, I am asked about the latest Russian attacks on the Ukraine energy infrastructure,
+      about Melania Trump’s statements about her communications with Vladimir Putin
+      with respect to Ukrainian children allegedly kidnapped by Russian forces, and
+      about Russian strikes against foreign mercenaries in Ukraine.
+    one_sentence_summary: The interview discusses recent Russian attacks on Ukraine's
+      energy infrastructure, Melania Trump's comments on her communications with Putin
+      regarding kidnapped Ukrainian children, and Russian strikes targeting foreign
+      mercenaries in Ukraine.
+    paragraph_summary: In the interview starting at the 10-minute mark, the discussion
+      focuses on recent Russian attacks on Ukraine's energy infrastructure, Melania
+      Trump's comments regarding her communications with Vladimir Putin about the alleged
+      kidnapping of Ukrainian children by Russian forces, and the Russian strikes targeting
+      foreign mercenaries in Ukraine.
+    published: '2025-10-12T20:25:12+00:00'
+  - title: Transcript of NewsX World interview, 8 October
+    url: https://gilbertdoctorow.com/2025/10/09/transcript-of-newsx-world-interview-8-october/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=zKx-eUpYDoM
+      NewsX World: 20:31 Now for this discussion, we’re joined by Gilbert Doctorow.
+      He’s an international relations and Russian affairs expert, joins us live from
+      Brussels. Thank you very much for joining us again. Good to see you. Gilbert,
+      now in response to Ukraine’s increased reliance on gas imports, how might Russia
+      adjust its energy policies as well? Doctorow: What we’re talking about is the
+      consequence of exchange of strikes by Russia and Ukraine against the energy infrastructure
+      of the other side. In our news, Western news, they speak only about Ukraine’s
+      strikes on the Russian infrastructure. In the Russian news, they speak only about
+      their own strikes on Ukrainian infrastructure. 21:22 And it’s understandable that
+      the broad public does not have any sense of the sequence here. Who did what to
+      whom when, and what was an action, and what was proactive, and what was reactive?
+      From my following this, I would like to call out that the latest Ukrainian remarks
+      on what they have to import, or on how Russia has now lost its refinery capacity,
+      30, 50 percent or more of Russian production and refining has been stopped. The
+      Russians are importing gasoline and so forth. As typically, the Ukrainians are
+      projecting onto the Russians what is happening in Ukraine. Ukraine is importing,
+      Russia is not importing anything in this regard. 22:15 However, the Russians have
+      had serious losses of refining capacity and of other energy infrastructure due
+      to Ukrainian strikes. And some of those strikes were directed by Americans. Let’s
+      be quite open about this. It isn’t discussed in media, but it is known that the
+      most recent strikes by Ukraine on Russian gas and oil infrastructure [were] using
+      HIMARS, and it was Americans who were directing those HIMARS. This is a very serious
+      escalation. The damage was considerable. In Russian news you hear nothing about
+      the extensive destruction of their energy infrastructure by Ukrainian attacks.
+      What you do here, and this is mostly in social media, is in this region or that
+      region there is a shortage of fuel. Now, when this comes to a discussion, public
+      discussion, the Russian patriots will tell you, “Ah, this is the season of the
+      harvest. The diesel fuel and other fuel is in short supply for that reason.” 23:28
+      Rubbish. It’s in short supply because refineries were struck. The issue is very
+      serious. And the Russian response was also serious. They’ve had in the last few
+      days massive attacks by missiles and drones on Ukraine’s energy infrastructure
+      across the country. And the results were devastating, but not in the sense that
+      they were put an end to the war. NewsX World: And Gilbert, can you tell us more
+      about the involvement of US in these strikes that you say that it’s not covered
+      enough or it’s not covered at all in media? Doctorow: 24:11 It’s covered in the
+      alternative media. The question of US firing HIMARS was discussed yesterday on
+      one of the leading YouTube platforms, with highly responsible people, both as
+      panelists and as hosts. So I take that quite seriously. I assume that the information
+      was coming from inside Russia by people who are, who have some relationship with
+      the panelists who are speaking in the West. Nonetheless, the fact is that Russia
+      is, as is understandable in a state of war, holding back a lot of information
+      about the damage that it is experiencing, and is trumpeting its successes in blowing
+      up everything it can on the Ukrainian side. NewsX World: 25:01 And do you think
+      that after all this, the US can still act as a mediator? Why do you think the
+      US is leaning towards Ukraine now? Doctorow: The US’s role as mediator was rather
+      peculiar from the very start. The United States effectively, the Russians wanted
+      to call it out. They would say what we all know, that the United States has been,
+      is, and for the foreseeable future, even under Donald Trump, a co-belligerent
+      with the Ukrainians against Russia. Russia has not pressed that point, because
+      if you press it, what you have is a war, a war with the United States, which they
+      would prefer to avoid. I think we would be happy if they avoided it, because it
+      probably would be the end of civilization on Earth. 25:45 For that reason, they
+      haven’t done what they have a right to do, which is name the United States as
+      a co-belligerent. Now they’re doing that, or intending to do that, if Europeans
+      follow the United States through the open door of supplying long-range missiles,
+      which they will control, to attack Russian infrastructure, energy infrastructure
+      and otherwise. That they will control it is a blessing in a way, because if these
+      missiles could be operated by the Ukrainians, you could be sure they would not
+      be directed against refineries. They would be directed against Moscow’s and Petersburg’s
+      presidential neighborhoods as a terrorist attack to create havoc in Russian society.
+      But neither the Germans nor the Americans are very likely to give the Ukrainians
+      free control of where these missiles, which they may supply, which they may deploy,
+      will be used against Russia. It’s not a pretty situation. NewsX World: 26:49 Yes,
+      indeed, we stay in a very sensitive place now. And also, Gilbert, I’m sure you
+      saw the news yesterday with the confirmation that Ukraine has used domestically
+      made missiles in recent strikes on Russian infrastructures. How does this reflect
+      Ukraine’s growing self-reliance in defense, and what impact might this have on
+      the conflict’s strategic dynamics? Doctorow: If there are serious weapons being
+      manufactured in Ukraine, they won’t be manufactured for long, because intelligence
+      will reveal to the Russians where these are, and they’ll be bombed out of existence.
+      They opened an important manufacturing center, Neil Loth, a couple of days ago.
+      The day after it was opened, it was obliterated by Russian bombing attack. So
+      I don’t take this question of the Ukrainians’ ability or technical ability to
+      produce serious weapons as having any determinant in the way the war goes, simply
+      because the Russians can bomb anything they want out of existence on Ukrainian
+      territory. That such weapons might be supplied from the West, that’s another story.
+      27:58 I do believe that the terrorist missiles that Mr. Scholz was talking about
+      at the end of last year before the elections and the the entry of the still more
+      aggressive Mr. Merz into the chancellorship, I believe that there are Taurus missiles
+      in Ukraine presently. The question is how long before the Germans allow them to
+      be used, and as I say a lot, how long before the Germans themselves use them from
+      the Ukrainian bases against Russia, an act which will probably bring retribution.
+      The Russians are unlikely to do anything about Tomahawks supplied by the United
+      States, because that is a nuclear war to end civilization. But if the Germans
+      try it, you can be sure that the Taurus factory will be bombed the next day. NewsX
+      World: Thank you very much, Gilbert Doctorow, for joining us and sharing that
+      insight.'
+    one_sentence_summary: In a discussion about the ongoing conflict between Russia
+      and Ukraine, expert Gilbert Doctorow highlights the reciprocal nature of strikes
+      on each other's energy infrastructures, emphasizing the lack of clarity in Western
+      narratives regarding the sequence of actions taken by both sides.
+    paragraph_summary: In a discussion on the impact of the ongoing conflict between
+      Russia and Ukraine on energy policies, international relations expert Gilbert
+      Doctorow highlighted the reciprocal nature of strikes targeting each other's energy
+      infrastructure. He pointed out that while Western media often focuses on Ukraine's
+      attacks on Russian facilities, Russian media emphasizes their own strikes on Ukraine.
+      Doctorow noted that Ukraine is currently reliant on gas imports, while Russia
+      has experienced significant losses in refining capacity due to Ukrainian strikes,
+      some of which were reportedly directed by American forces using HIMARS systems.
+      He criticized the lack of comprehensive media coverage regarding the extensive
+      damage to Russian energy infrastructure, suggesting that the narrative often overlooks
+      the complexities of the situation.
+    published: '2025-10-09T15:44:35+00:00'
+  - title: Transcript of NewsX World interview, 8 October
+    url: https://gilbertdoctorow.com/2025/10/09/transcript-of-newsx-world-interview-8-october/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=zKx-eUpYDoM
+      NewsX World: 20:31 Now for this discussion, we’re joined by Gilbert Doctorow.
+      He’s an international relations and Russian affairs expert, joins us live from
+      Brussels. Thank you very much for joining us again. Good to see you. Gilbert,
+      now in response to Ukraine’s increased reliance on gas imports, how might Russia
+      adjust its energy policies as well? Doctorow: What we’re talking about is the
+      consequence of exchange of strikes by Russia and Ukraine against the energy infrastructure
+      of the other side. In our news, Western news, they speak only about Ukraine’s
+      strikes on the Russian infrastructure. In the Russian news, they speak only about
+      their own strikes on Ukrainian infrastructure. 21:22 And it’s understandable that
+      the broad public does not have any sense of the sequence here. Who did what to
+      whom when, and what was an action, and what was proactive, and what was reactive?
+      From my following this, I would like to call out that the latest Ukrainian remarks
+      on what they have to import, or on how Russia has now lost its refinery capacity,
+      30, 50 percent or more of Russian production and refining has been stopped. The
+      Russians are importing gasoline and so forth. As typically, the Ukrainians are
+      projecting onto the Russians what is happening in Ukraine. Ukraine is importing,
+      Russia is not importing anything in this regard. 22:15 However, the Russians have
+      had serious losses of refining capacity and of other energy infrastructure due
+      to Ukrainian strikes. And some of those strikes were directed by Americans. Let’s
+      be quite open about this. It isn’t discussed in media, but it is known that the
+      most recent strikes by Ukraine on Russian gas and oil infrastructure [were] using
+      HIMARS, and it was Americans who were directing those HIMARS. This is a very serious
+      escalation. The damage was considerable. In Russian news you hear nothing about
+      the extensive destruction of their energy infrastructure by Ukrainian attacks.
+      What you do here, and this is mostly in social media, is in this region or that
+      region there is a shortage of fuel. Now, when this comes to a discussion, public
+      discussion, the Russian patriots will tell you, “Ah, this is the season of the
+      harvest. The diesel fuel and other fuel is in short supply for that reason.” 23:28
+      Rubbish. It’s in short supply because refineries were struck. The issue is very
+      serious. And the Russian response was also serious. They’ve had in the last few
+      days massive attacks by missiles and drones on Ukraine’s energy infrastructure
+      across the country. And the results were devastating, but not in the sense that
+      they were put an end to the war. NewsX World: And Gilbert, can you tell us more
+      about the involvement of US in these strikes that you say that it’s not covered
+      enough or it’s not covered at all in media? Doctorow: 24:11 It’s covered in the
+      alternative media. The question of US firing HIMARS was discussed yesterday on
+      one of the leading YouTube platforms, with highly responsible people, both as
+      panelists and as hosts. So I take that quite seriously. I assume that the information
+      was coming from inside Russia by people who are, who have some relationship with
+      the panelists who are speaking in the West. Nonetheless, the fact is that Russia
+      is, as is understandable in a state of war, holding back a lot of information
+      about the damage that it is experiencing, and is trumpeting its successes in blowing
+      up everything it can on the Ukrainian side. NewsX World: 25:01 And do you think
+      that after all this, the US can still act as a mediator? Why do you think the
+      US is leaning towards Ukraine now? Doctorow: The US’s role as mediator was rather
+      peculiar from the very start. The United States effectively, the Russians wanted
+      to call it out. They would say what we all know, that the United States has been,
+      is, and for the foreseeable future, even under Donald Trump, a co-belligerent
+      with the Ukrainians against Russia. Russia has not pressed that point, because
+      if you press it, what you have is a war, a war with the United States, which they
+      would prefer to avoid. I think we would be happy if they avoided it, because it
+      probably would be the end of civilization on Earth. 25:45 For that reason, they
+      haven’t done what they have a right to do, which is name the United States as
+      a co-belligerent. Now they’re doing that, or intending to do that, if Europeans
+      follow the United States through the open door of supplying long-range missiles,
+      which they will control, to attack Russian infrastructure, energy infrastructure
+      and otherwise. That they will control it is a blessing in a way, because if these
+      missiles could be operated by the Ukrainians, you could be sure they would not
+      be directed against refineries. They would be directed against Moscow’s and Petersburg’s
+      presidential neighborhoods as a terrorist attack to create havoc in Russian society.
+      But neither the Germans nor the Americans are very likely to give the Ukrainians
+      free control of where these missiles, which they may supply, which they may deploy,
+      will be used against Russia. It’s not a pretty situation. NewsX World: 26:49 Yes,
+      indeed, we stay in a very sensitive place now. And also, Gilbert, I’m sure you
+      saw the news yesterday with the confirmation that Ukraine has used domestically
+      made missiles in recent strikes on Russian infrastructures. How does this reflect
+      Ukraine’s growing self-reliance in defense, and what impact might this have on
+      the conflict’s strategic dynamics? Doctorow: If there are serious weapons being
+      manufactured in Ukraine, they won’t be manufactured for long, because intelligence
+      will reveal to the Russians where these are, and they’ll be bombed out of existence.
+      They opened an important manufacturing center, Neil Loth, a couple of days ago.
+      The day after it was opened, it was obliterated by Russian bombing attack. So
+      I don’t take this question of the Ukrainians’ ability or technical ability to
+      produce serious weapons as having any determinant in the way the war goes, simply
+      because the Russians can bomb anything they want out of existence on Ukrainian
+      territory. That such weapons might be supplied from the West, that’s another story.
+      27:58 I do believe that the terrorist missiles that Mr. Scholz was talking about
+      at the end of last year before the elections and the the entry of the still more
+      aggressive Mr. Merz into the chancellorship, I believe that there are Taurus missiles
+      in Ukraine presently. The question is how long before the Germans allow them to
+      be used, and as I say a lot, how long before the Germans themselves use them from
+      the Ukrainian bases against Russia, an act which will probably bring retribution.
+      The Russians are unlikely to do anything about Tomahawks supplied by the United
+      States, because that is a nuclear war to end civilization. But if the Germans
+      try it, you can be sure that the Taurus factory will be bombed the next day. NewsX
+      World: Thank you very much, Gilbert Doctorow, for joining us and sharing that
+      insight.'
+    one_sentence_summary: In a discussion about the ongoing conflict between Russia
+      and Ukraine, expert Gilbert Doctorow highlights the reciprocal nature of strikes
+      on each other's energy infrastructures, emphasizing the lack of clarity in Western
+      narratives regarding the sequence of actions taken by both sides.
+    paragraph_summary: In a discussion on the impact of the ongoing conflict between
+      Russia and Ukraine on energy policies, international relations expert Gilbert
+      Doctorow highlighted the reciprocal nature of strikes targeting each other's energy
+      infrastructure. He pointed out that while Western media often focuses on Ukraine's
+      attacks on Russian facilities, Russian media emphasizes their own strikes on Ukraine.
+      Doctorow noted that Ukraine is currently reliant on gas imports, while Russia
+      has experienced significant losses in refining capacity due to Ukrainian strikes,
+      some of which were reportedly directed by American forces using HIMARS systems.
+      He criticized the lack of comprehensive media coverage regarding the extensive
+      damage to Russian energy infrastructure, suggesting that the narrative often overlooks
+      the complexities of the situation.
+    published: '2025-10-09T15:44:35+00:00'
+  - title: 'NewsX World 8 October news bulletin: destruction of Ukrainian energy infrastructure'
+    url: https://gilbertdoctorow.com/2025/10/09/newsx-world-8-october-news-bulletin-destruction-of-ukrainian-energy-infrastructure/
+    text: This hourly news summary has a segment dealing with Russia’ latest heavy attack
+      on Ukrainian energy infrastructure which has sent Ukrainian officials begging
+      in Europe for a 30% rise in gas supplies to compensate for their loss of production
+      and storage facilities.  I link this with the generally underreported Ukrainian
+      attacks on Russian refineries using American Himas and other US controlled weapons. 
+      My segment begins from minute 20.
+    one_sentence_summary: The article discusses Russia's recent heavy assault on Ukrainian
+      energy infrastructure, prompting Ukrainian officials to request a 30% increase
+      in gas supplies from Europe, while also highlighting Ukraine's underreported counterattacks
+      on Russian refineries using American-supplied weapons.
+    paragraph_summary: The article discusses a recent heavy attack by Russia on Ukraine's
+      energy infrastructure, prompting Ukrainian officials to appeal to Europe for a
+      30% increase in gas supplies to offset the damage to their production and storage
+      capabilities. It also highlights the often-overlooked Ukrainian counterattacks
+      on Russian refineries, utilizing American-supplied HIMARS and other US-controlled
+      weaponry. The segment begins at the 20-minute mark.
+    published: '2025-10-09T11:02:07+00:00'
+  - title: 'NewsX World 8 October news bulletin: destruction of Ukrainian energy infrastructure'
+    url: https://gilbertdoctorow.com/2025/10/09/newsx-world-8-october-news-bulletin-destruction-of-ukrainian-energy-infrastructure/
+    text: This hourly news summary has a segment dealing with Russia’ latest heavy attack
+      on Ukrainian energy infrastructure which has sent Ukrainian officials begging
+      in Europe for a 30% rise in gas supplies to compensate for their loss of production
+      and storage facilities.  I link this with the generally underreported Ukrainian
+      attacks on Russian refineries using American Himas and other US controlled weapons. 
+      My segment begins from minute 20.
+    one_sentence_summary: The article discusses Russia's recent heavy assault on Ukrainian
+      energy infrastructure, prompting Ukrainian officials to request a 30% increase
+      in gas supplies from Europe, while also highlighting Ukraine's underreported counterattacks
+      on Russian refineries using American-supplied weapons.
+    paragraph_summary: The article discusses a recent heavy attack by Russia on Ukraine's
+      energy infrastructure, prompting Ukrainian officials to appeal to Europe for a
+      30% increase in gas supplies to offset the damage to their production and storage
+      capabilities. It also highlights the often-overlooked Ukrainian counterattacks
+      on Russian refineries, utilizing American-supplied HIMARS and other US-controlled
+      weaponry. The segment begins at the 20-minute mark.
+    published: '2025-10-09T11:02:07+00:00'
+  - title: Transcript of chat with Lt Colonel Daniel Davis, 8 October
+    url: https://gilbertdoctorow.com/2025/10/09/transcript-of-chat-with-lt-colonel-daniel-davis-8-october/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=855xgceYwv4
+      Davis: 0:01 In the very vexing opportunity and effort to try and find an end to
+      the Russian-Ukraine war, there are problems really all around. Russian ones, American
+      ones, European ones, and definitely your Ukrainian ones. But we’re trying to find
+      out here where is the contours of any possible peace? Where are the fault lines
+      of potential opportunities to get rid of the peace and to cause problems that
+      could keep the war going on? And really, just where is all this headed? We have
+      with us today, I guess we’ve had him with us once before, many of you know him
+      well, Dr. Gilbert Doctorow, historian and international affairs analyst, coming
+      to us live from Brussels in in Europe. Doctor, welcome back to the show. Doctorow:
+      0:44 Well, good to speak to you again. Davis: Well, listen, I wanted to– we were
+      talking about some of the shifting red lines and where some in the West have claimed
+      that various things are Russian red lines, even if the Russians didn’t say them
+      like early on with a lot of the claims were that Russia set– the Western claims
+      were that Russia set red lines with tanks and with artillery, and then with HIMARS
+      and then with a ATACMS, etc., the F-16s. And every time the red line was brought
+      up to, the West passed it and nothing ever happened. There’s some debate over
+      whether Russia actually had red lines on those issues, but now the latest one
+      that’s up for debate right now is this issue of the Tomahawk cruise missile. And
+      some are suggesting that the Russians are actually putting a red line on this
+      one where they haven’t on the previous one. Here is Deputy Foreign Minister Sergei
+      Ryabkov from earlier today talking first of all that a lot of momentum that appeared
+      to be on the table for the talks between Russia and the United States in Anchorage,
+      Alaska has now been lost. But then he directly interacts the Tomahawk issue. Ryabkov:
+      1:51 [Russian, English subtitles] Unfortunately it must be stated that the powerful
+      momentum from Anchorage in favor of agreements has largely been exhausted. This
+      is the result of destructive activity, primarily by Europeans. As for the Tomahawks
+      themselves, as you understand, without software, without launchers, the rockets
+      on their own are, let’s say, inert objects. Hypothetical use of such systems is
+      possible only with direct involvement of American personnel. I hope that those
+      pushing Washington towards such a decision fully understand the depth and gravity
+      of the consequences of the decisions. Davis: 2:34 Other news coming out of Reuters
+      today said that some of the Russian members of parliament, of the Duma, said basically
+      if you use these things we are going to destroy the launchers and the launch sites
+      which would almost certainly mean destroy American troops. Do you think that this
+      represents a real red line for Russia, or is this just more rhetoric? Doctorow:
+      Look, this issue came up more than a year ago, and Mr. Putin then issued a red
+      line. He was asked by Pavel Zarubin, who is a journalist with Russian state television,
+      what this meant, when it’s discussed that the United States could be sending long-range
+      missiles to Ukraine. This was about June, July of last year. And Putin said, this
+      was on the spot, outdoors, he answered the question saying that the Tomahawk can
+      only, or didn’t name the Tomahawk, but long-range missiles of this variety could
+      only be operated by the Americans, that all the programming would be American.
+      And the only thing that would be Ukraine would be the finger on the button. 3:47
+      And in that case, if this happened, that Russia would respond militarily to that
+      attack by any such missile from the source, where it came from, where it originally
+      came from, not where it was launched from. So it’s a bit more, it was a bit more
+      severe back then than even what you mentioned now, because you were describing
+      a Russian attack on the launcher, presumably the launcher being somewhere in Ukraine,
+      when Putin was speaking a year ago about attacking essentially the United States.
+      4:18 Now, what happened on Thursday when he spoke at the Valdai Discussion Club
+      meeting in the city of Sochi in the south of Russia, he was asked about the Tomahawks
+      and his response then was, his first response was this: the delivery of Tomahawks
+      to Ukraine would spoil the relations between the United States and Russia. That
+      seemed to be having a light-at-the-end-of the-tunnel characteristic now. When
+      he was leaving the stage, and after this four-hour session, he was quite relaxed,
+      And he was stopped by Pavel Zerubin, that’s very same journalist whom I mentioned
+      had asked him this question in June or July of last year. He said that the delivery
+      of these Tomahawks to Ukraine would destroy American-Russian relations. Well,
+      destroying relations more or less means you’re at war. 5:29 Then a moment later,
+      he drew that back and he said, I meant to say: it would damage them. Well, Mr.
+      Putin, which is it, damage or destroy? When you’re speaking about an essential
+      matter of Russian national security, this is not a small detail. And it makes
+      you wonder whether he is really in control of the responses that Russia should
+      give to red lines being violated. Davis: Well, and let’s just stick on the topic
+      of red lines for a minute. Are there any red lines? Are there actually any red
+      lines that Russia has, whether they were self-imposed or attributed to Russia,
+      there hasn’t been any so far because the war has stayed, thank God, contained
+      within the borders of Ukraine and hasn’t escalated beyond that. But there … there’s
+      a very difficult dynamic that any country would have to face, especially in Russia’s
+      position, that they may not want any outside power to do anything, but if they
+      take some action in there that could spawn drawing that other country in full
+      on, not just with support, but like their armed forces, et cetera, that would
+      be very high level. But to not do it, to not actually ever strike anything in
+      there, is to encourage other sides to take even more action against them. How
+      difficult is it for Russia to actually have a red line that they might enforce?
+      Doctorow: 6:57 Depends on whom they’re supposed to enforce these red lines against.
+      And you can understand that they are very hesitant to set and then to defend red
+      lines against the United States. The other nuclear power, their peer, which if
+      it enters into a direct conflict, could lead to a nuclear war. That does not mean
+      that Russia has no red lines that it would act upon. And let’s go back to the
+      Tomahawk issue. I see it as misleading and a distraction from the real issue before
+      us. Let us remember that going back from even before his election, Friedrich Merz,
+      the current chancellor of Germany, had been in favor of delivering, activating
+      Taurus missiles. Unlike the Tomahawk, that is not a 30- or 40- year-old missile.
+      It’s a rather current missile, which has a great deal of capability and which
+      has never been encountered by the Russians. The Russians say that they have well-developed
+      missiles, defense missiles against precisely the Tomahawk, knowing all of its
+      characteristics. They don’t have defenses against the German Taurus. And the German
+      Taurus could be quite damaging, not the same range, it’s not going to be Moscow
+      or Petersburg, but could do a lot of damage in, I think it’s a 500 kilometer range,
+      which isn’t bad. Now, the situation was that first, Scholz and then Merz have
+      been restrained. They didn’t want to be the first one going against Russia with
+      long-range missiles. The logic was, they were waiting for the United States to
+      go through the door first. 8:55 And what Mr. Trump is doing is walking through
+      the door first. Whether he actually delivers a single Tomahawk or not is almost
+      irrelevant. This opens the door for Merz to use Tomahawks. Now the red lines,
+      the Russians surely will attack Germany. They will bomb the factory that makes
+      the Taurus if they are deployed and directed against Russian targets. That is
+      a red line you can be sure that they will exercise, because Germany is not the
+      United States. Davis: Wow that’s a pretty bold statement there and pretty alarming
+      as well, because they may not be the United States, but they are an Article 5-
+      wielding member of NATO. What would be the thought process for the Russian side
+      to take that kind of an action? Because that would … potentially draw in a lot
+      of fighting against them, not just against the Ukraine side. Doctorow: 9:52 Potentially
+      but unlikely. Their calculation is the Germans would never get Article 5 support
+      from other NATO members. If they are violating essentially violating international
+      law which is what directing a Taurus against Russia would be, they become co-belligerents.
+      And they, Germans, not NATO but Germans, would be subject to retribution from
+      the Russians — which would be all the more logical if it were not directed against
+      Berlin but were destroying the factory producing those missiles. That is the Russian
+      calculation. Davis: 10:26 Wow, that would be a pretty big issue, which hopefully
+      explains why the Germans haven’t given the Taurus missiles, and hopefully that
+      continues on. Doctorow: I’m not sure I agree with you. I think they have given
+      the missiles. I think they went in before Scholz left the chancellorship. They
+      just haven’t been opened to inspection. They haven’t been advertised. When they
+      said under Scholz that in a few weeks we will send them, that is, by the way the
+      whole war has evolved over the last three years, that means they were sent already.
+      Davis: 10:58 So, but they haven’t been deployed at least as far as we know. Doctorow:
+      Exactly right. Davis: And one would hope that that permission isn’t given. And
+      correct me if I’m wrong, but that’s not a unilateral decision that Kiev could
+      make. They could only do it with the participation of the German military, is
+      that correct? Doctorow: That was the issue in Germany when several, I think it
+      was Air Force generals, complained that deploying the Taurus in Ukraine was only
+      possible with the technical assistance of German personnel. Davis: So then that
+      is correct. As long as it hasn’t– in order for it to be deployed, it would have
+      to have authorization, one would imagine, from the very top in Berlin, right?
+      Doctorow: Correct. Davis: 11:50 Well, let’s … hope that doesn’t happen then, because
+      that … would be bad for a lot of cases others. We don’t want to risk any escalation
+      of this. Going back to Trump for a second, when … he was talking about, or the
+      possibility of using the … long range missiles, which … we were under here with
+      the Tomahawk, the question is what is he going to do and what does he want to
+      accomplish? Now, he had come into office obviously saying that he was going to
+      end the war in 24 hours. He knew Putin; he knew Volodymyr Zelensky. It would be
+      easy. He would know how to do it. 12:24 Well since then he’s kind of backed off
+      of that a lot, saying well okay, it was harder than I thought. But he thought
+      going into Anchorage, Alaska that he might be able to make something happen. But
+      as Sergey Rybkov mentioned here, nothing did happen. And there’s not really any
+      difference today than there was before that meeting back in August that took place.
+      And yesterday in the Oval Office, President Trump was asked about that situation
+      now, when he was visiting with Canadian Prime Minister Carney. Trump: 12:50 Things
+      are happening with respect to Russia-Ukraine. That’s one that last week marked
+      7,812 people were killed. Soldiers, mostly soldiers. But 7,000, more than 7,000,
+      almost 8,000 soldiers were killed. It’s a crazy, it’s a crazy thing. I thought
+      that would have been one of the easy ones. I get along very well with Putin and
+      I thought that would have been– I’m very disappointed in him, because I thought
+      this would have been an easy one to settle, but it’s turned out to be maybe tougher
+      than the Middle East. We’ll see what happens with the Middle East. Davis: 13:25
+      Yeah, who would have thought that ending one role would be harder than the Middle
+      East, but who would have thought either one of them were actually simple. But
+      this seems to be an issue to come back to. I know that you’ve written some things,
+      but you seem to be having challenges or differences of opinion, maybe a better
+      way to put it, that Putin seems to be putting too much deference in trying to
+      reach out to Trump. What do you mean by that? Doctorow: 13:47 Well, his performance
+      last Thursday at the plenary session of this Valdai Discussion Club was very puzzling
+      and disturbing. He, they spent time talking about, Charlie Kirk. They spent time
+      talking about the … American son of a CIA director and a head of a firm, a subcontractor
+      to the US military, who died in Donbass, having volunteered to serve the Russians,
+      because he believed in their Russian traditional values. That was a lot of time
+      spent flattering the United States, meaning flattering Trump. They also made remarks
+      about what a good conversationalist, interlocutor Donald Trump is. He also talked
+      about the Trump peace plan, the 20-point peace plan for Gaza, saying that he supported
+      it. And he also mentioned in a complimentary way, Tony Blair’s appointment to
+      be on this peace board that Donald Trump would head in the interim period after
+      Hamas left and before the Palestinians were deemed suitable for self-governance.
+      15:08 This was a lot of flattery for Donald Trump. And it was surprising, and
+      I think it was overdone, because it compromised Russia’s sovereignty. The whole
+      message of Putin the last several years has been sovereignty. And here he was
+      doing his best to ingratiate himself with Donald Trump, not quite calling him
+      Papa, like the Secretary General of NATO did, but it didn’t look good. The countries
+      are at odds, very seriously at odds, and this was not appropriate. Davis: 15:47
+      How is that being viewed in the Russian media, in the Russian landscape? Doctorow:
+      Well, that particular side of it has not been discussed on Russian state television,
+      for example. But it has blown hot and cold about Donald Trump. The most serious
+      commentary about Trump is, he’s a good guy, but he can’t deliver, because the
+      political balance in Washington is against accommodation with us. And this was
+      what Putin was overlooking. He seemed to be placing too much trust in the personal
+      relationship with Trump that was so much in evidence in Alaska. And it doesn’t
+      look good for for Russia’s defending its interests. But let’s come back to what
+      Trump is trying to say. And here I have a take on Trump’s message which is different
+      from most of my peers, and I’m ready to defend it. Trump’s been buying time. He
+      has been buying time almost since he took the Oval Office. Buying time for what?
+      Buying time for Putin to finish up the war, to get it over with. And Putin doesn’t
+      get that message. Trump goes this way and that way. He is pivoting to Zelensky.
+      Then he’s turning back towards Putin and it’s all buying time with Congress not
+      to impose these tough secondary sanctions. A lot of the difficulty that he would
+      have in dealing in a straight way with Congress and the political establishment
+      of the states, he is avoiding by attacking this way and attacking that way. And
+      Putin doesn’t get it. When Trump said last week, repeated, that he was disappointed
+      in Putin because he thought he would get it over with in the first week of the
+      war. Let’s go back to the start of this special military operation. Most people
+      like yourself were assuming that Russia would go in, in the American fashion of
+      shock and awe, and would finish off Ukraine in a week. 18:08 Everyone knew that
+      the Russian military operation was being done in a backwards way. When you have
+      an attack, you want to take the country, you go in with three times their forces.
+      Instead, Putin would end with one third of their forces. Now that explains why
+      the special military operation got off to such a poor start. And Trump was revisiting
+      that issue today. Trump is not saying it, but he knows and we know that Putin
+      can end this war tomorrow if he wants to. He has Oreshniks, they know where the
+      government offices are on Bankovskaya Street in downtown Kiev. Well, in one day,
+      they can decapitate Ukraine. And they should do it, but it’s not happening. Davis:
+      19:04 And what do you suppose it is? With the capacity to do so, why do you think
+      Russia hasn’t done it? Doctorow: One is the indecisiveness of Putin and his unwillingness
+      to take risks. But the risks in … striking against Kiev are much smaller than
+      the risks of this ongoing conflict with the West, where the leaders in Europe
+      have gotten to understand that Ukraine is losing badly, and they are moving from
+      one provocation to another, ever steeper and ever more risky and dangerous, that
+      can lead us into World War III. And Putin does not get it. Davis: 19:49 –was looking
+      for something here to see if we could pull this up. Gary, if you could possibly
+      pull up the Ursula von der Leyen that we used earlier today, that would be great
+      from her comments this morning. Because I want to kind of go down that path. You
+      say that the delay, and I know I’ve had some conversations with a number of folks
+      that have some contacts on the Russian side themselves, and they have in one hand
+      voiced a lot of frustration because of Leyen. Same thing, because they see people
+      like Emmanuel Macron, who continues to mock Russia as he did last month by saying
+      they’ve only taken 1% in the last two years because that’s all they can, the implication
+      being, the counterclaim being that Russia can take more than that, but they are
+      not using their forces in that regard. One of the arguments is, well, they’re
+      doing that because they perceive that there could be a war with NATO one of these
+      days. 20:41 And so they are, with all of this industrial capacity, they are stockpiling
+      all the key aspects that was necessary for war, training up additional men, so
+      that in the event that that comes in the future, they’re ready for it later on,
+      which apparently they aren’t right now. First of all, just on that aspect of it,
+      what is your understanding of that argument? Doctorow: That was good. The war
+      has evolved. The war has changed dramatically over the course of the first three
+      years. When the war started, Russia had a ten-time advantage over Ukraine in artillery
+      shells and artillery tubes. They were waging, from the beginning, an artillery
+      war. That was their war of attrition. Today, the artillery advantage is less important.
+      I don’t mean to say it’s not important, but it’s much less a factor in the way
+      the war is proceeding. It is now basically a drone war. My peers who appear on
+      programs like yours, they assume because they never name their sources, but I
+      assume that they’re speaking to people in the military or military experts in
+      Russia and are delivering their information on air from that source. They never
+      stop to think whether anybody in the military in Russia would ever dare to give
+      them something confidential, because they’ll be taken to court and they’ll spend
+      the rest of their lives in prison for betraying national secrets. But somehow
+      this little detail doesn’t enter into the minds of my peers. 22:12 What I’m listening
+      to is Russian television. “Oh yes,” people say, “yes, Doctorow only watches television.”
+      But my goodness, the whole of Sovietology in the Cold War was based on that type
+      of expertise. People read Provda and it’s Izvestia. And you might say, why are
+      they reading that junk? Because in that junk, they found clues as to what comes
+      next. Now, Russian television is much more honest than anybody imagines. I don’t
+      mean RT. RT isn’t Russian television. It’s a special product, devised for the
+      American public, to hold up a mirror to America’s ills. 22:45 That is not Russian
+      television. Russian television interviews– is war correspondents on the front.
+      I watch them every day, and it is extremely interesting and informative. The Russians
+      are now talking about the birdies. The birdies are the attack drones. Now the
+      Ukrainians are not stupid people. They are very much like Russians in their skills,
+      strengths and weaknesses. They’re very good at computers. They’re very good at
+      video games and they’re very good at operating drones. This is a very big threat.
+      And it means that the Russians are operating on the field completely differently
+      from what you would expect when the war opened and they had such an advantage
+      in heavy tanks and all of the hardware. No, that’s not what– the tanks are being
+      used as artillery today, just movable artillery, that’s all they are. There are
+      no tank battles in Ukraine. The real issue today is one where the Ukrainians have
+      a much more balanced stand against Russia than they did when the war started and
+      they were a 10-time disadvantage in artillery shells. Davis; 23:53 And so what
+      is the net-net for that? What does that result in on the battlefield, those dynamics?
+      Doctorow: Small movements. However, I disagree with what Macron said. It’s not
+      a 1% increase. That’s nonsense. When the war started, Russia had– maybe 70% of
+      Lugansk was under Russian control and perhaps 50% of Donetsk. Now it’s 99% of
+      Lugansk under Russian control and 70% of Donetsk under Russian control. That isn’t
+      1%. So Mr. Macron doesn’t know what he’s talking about. Or he’s just giving propaganda.
+      They’re moving. But if it could continue to move at this pace, it’ll be a 10-year
+      war. Davis: So is Russia moving at this pace because that’s all they can do, or
+      are they moving at this pace because they’re risk-averse and they’re not using
+      all their capacity? Doctorow: 24:45 That is true, but that is not the only factor.
+      A bigger factor is how they conceive of this war. They conceive of it in a manner
+      that the German classics of warfare would approve of. Warfare is about knocking
+      out the military force of your opponent. They are killing Ukrainian soldiers at
+      a ratio perhaps of 10 times their own losses. And it is known that when they advance
+      in this place or that, instead of proceeding and marching on and pushing the Ukrainians
+      back further, they are retreating slightly to draw the Ukrainians into a trap
+      and murder still more Ukrainians. The problem is that Ukraine is still, though
+      it’s dropped from 40 million to maybe 25 million, and though it has several hundred
+      thousand deserters, it still has a military. And my peers who are speaking as
+      if Ukraine is going to roll over and die tomorrow are dreaming. That is wish,
+      that is not fact. And the move that the Russians are taking will bring them maybe
+      in a few months at this pace to the Dnieper, but that’s not the whole of Ukraine.
+      And the Russians have no interest in crossing into really Ukrainian territory
+      where they will be invading, occupying army. 26:08 So the war’s end on the battlefield
+      is questionable. I’ve said for some time the war would end in a political collapse
+      of Ukraine. But if Europe rushes in with a hundred and forty five billion euros
+      of assistance, there will be no political collapse of Ukraine. And there’s the
+      problem. Davis: 26:30 Well, and in fact, that’s exactly what I wanted to discuss
+      next, because with this delay, if Russia’s military is capable of going much faster
+      pace and achieving a military victory by destroying the units and then taking
+      the territory as well — by going in this slower pace, it may be whittling down
+      slowly at the capacity of the Ukrainian armed forces, but as you say, it keeps
+      alive the possibility that no, we can hold out for a lot longer than this. That
+      was reinforced by Ursula von der Leyen earlier today, when she seems to go down
+      here continuing path that this is a war, that we are actually in a war with Russia
+      and maybe one we can win. von der Leyen: 27:10 Something new and dangerous is
+      happening in our skies. In just the past two weeks MIG fighters have violated
+      Estonia’s airspace and drones have flown over critical sites in Belgium, Poland,
+      Romania, Denmark, and Germany. Flights have been grounded, jets scrambled, and
+      countermeasures deployed to ensure the safety of our citizens. Make no mistake,
+      this is part of a worrisome pattern of growing threats. Across our Union, undersea
+      cables have been cut, airports and logistic hubs paralyzed by cyber attacks, and
+      elections targeted by malign influence campaign. These incidents are calculated
+      to linger in the twilight of deniability. This is not random harassment. It is
+      a coherent and escalating campaign to unsettle our citizens, test our resolve,
+      divide our union, and weaken our support for Ukraine. And it is time to call it
+      by its name, this is hybrid warfare. Davis: And so what do you make of that? Is
+      her characterization accurate, or is the Russian view that they’re not trying
+      to escalate into Europe? What do you think is the case? Doctorow: 28:37 I think
+      it’s a pile of lies. Von der Leyen is a hawk. She is a warrior. She wants to grab–
+      she’s also virtually a dictator. She has seized as much authority within the European
+      institutions as she could, which was not so difficult, because she’s surrounded
+      by 27 cowards who all have linked arms and are afraid to rein her in. She may
+      be reined in. She may lose a confidence vote in the next few weeks. But the point
+      is: everything that she’s saying is to make the point that Europe is threatened
+      and it needs a strong leader who makes defense federalized under her watch. And
+      it’s all self-serving. Now these attacks, the incursion on Estonian airspace,
+      I ask you to look at the map. When you look at the overlapping territories that
+      are sovereign territories of the countries bordering the Baltic Sea, which are
+      now all– with the exception of Kaliningrad of Russia, all of the bordering lands
+      of the Baltic Sea are NATO countries. When you extend out into the sea, their
+      territorial rights leave you with almost nil international waters. So this whole
+      claim of Russian infringement is in fact not a Russian aggression, it is a European-NATO
+      aggression against Russia, to create an air and sea blockade on Russia in the
+      Baltic. As they said very nicely, when Finland and Sweden joined NATO, it turns
+      the Baltic into a NATO lake. Well my friends, if that’s how you feel, we will
+      have World War Three, because the Russians will not be barred from using the Baltic
+      Sea. That is a casus belli. And it takes more than a few cutters from Estonia
+      to stop a Russian oil tanker or Mr. Macron’s little police boats stopping a suspected
+      gray-fleet Russian tanker somewhere off the coast of France. They proceed with
+      this and we have World War III. There’s nothing to talk about. They won’t proceed
+      with it, because the Russians will not allow them to do it. 31:25 However, this
+      “drone attacks” is even more preposterous. All over the place and in everybody’s
+      back yard is a drone attack, all done by the Russians. This is as nonsensical,
+      as absurd as all of the “Russia, Russia, Russia” stories to prevent Trump’s election
+      in 2016 and to impeach him after his election. This, I would be sure, is all launched
+      and coordinated by MI6 in London who are the main practitioners of dirty tricks,
+      and von der Layen finds this very convenient, a story to establish and justify
+      her stranglehold on power in the European Union. Davis: Yeah, I’m not sure what
+      good it is going to be to have power if you end up with, some of your actions
+      end up spawning a global war. Hopefully that will just stay in the rhetoric realm.
+      I mean, you mentioned something a second ago that potentially that Russia could
+      go all the way up to the Dnieper River and that that might still might not end
+      it. That kind of lines up with something that Putin did say a couple of days ago
+      when he talked about what their objectives were right now in the SMO. Putin: 32:37
+      [English voice over] I address the soldiers and officers, the real heroes of our
+      time, with a special feeling. I thank you for your loyalty to your motherland,
+      for your military valor and courage, for every day of your hard combat work. I
+      am sure that, thanks to you, the security of Russia will be reliably ensured,
+      and the long-awaited and strong world will return to the heroic land of Donbas
+      and Novorossia. We are together and this means that all our plans will be realized.
+      Davis: So he says all of his plans will be realized, all of Novorossia, which
+      is we talked about on this channel a lot, that’s four additional oblasts besides
+      just the four that are allegedly on the table right now and you’re saying, suggesting
+      though, that that still might not be enough. Doctorow: 33:25 Well there’s one
+      thing missing in that Novorossia story, and that is Odessa. The French and British
+      interest in Ukraine focuses on Odessa. Odessa, if you look at the map closely,
+      it is very, it is in an easy strike range to Crimea. It is Ukraine’s major port.
+      It’s what prevents Ukraine from being landlocked and is essential to the Ukrainian
+      economy. It is important militarily, for the reason I just mentioned, because
+      it would be a wonderful naval port for the French and the British. 34:10 The Russians
+      understand that. And Russian television– which again I explain I use fairly regularly
+      as a source– they are now calling out Odessa as one more objective before they
+      end their military activities in Ukraine. Davis: So where do you see this going,
+      let’s just say by the first quarter, by the spring of next year, so within roughly
+      six months from now? Will this war just keep going on for years, or do you think
+      Russia will finally just put the gas genuinely on the floor and try to achieve
+      a military victory. What is your assessment? Doctorow: 34:52 As I said, the political
+      victory would be done in one day if Mr. Putin finds the guts to do it. And that
+      is to bomb the hell out of the administrative buildings and use Oreshnik to go
+      down to whatever depth is needed to wipe out Mr. Zalensky and his team in their
+      underground hideouts. They have the missiles to do it, and that would end the
+      war. Europe will stand and do nothing about it. The Americans, Mr. Trump, will
+      express regrets. That’s what war is all about. And then he’ll go about doing business
+      with Mr. Putin that he’d like to do but cannot do while the war is raging. [It’s]
+      beside my understanding that Putin does not end the war. Davis: 35:51 And so if
+      he doesn’t do that version where you say it could be over really quickly, what
+      does it look like six months from now, the first quarter of 2026? Doctorow: Nothing.
+      It looks like, well, if you want to see what it looks like, you have to go out
+      four years. This bridging loan, which the Europeans want to give to Ukraine, what
+      is it all about? It’s to keep the Ukrainians in play for three years, or four
+      years. Why three or four years? Look at the rest of the program. They are spending
+      now hundreds of billions of euros to build up, to bulk up Europe’s military production.
+      Germany is a leader in this with a one trillion euro debt that’s taking out mostly
+      for the purpose of building out its armed forces and for, as Mr Merz said openly,
+      to make Germany the biggest defender he calls it, let’s call it by the real name,
+      the biggest military force in Western Europe. That will be ready for when? For
+      2029. Merz has said that the Russians will attack in 2029. 37:07 Let’s speak not
+      more Orwellian language, but real language. He means that he will attack Russia
+      in 2029. And if he builds out the army as he plans, you know, Europe could just
+      win. This is not my opinion, but again, experts on Russian state television are
+      saying, not that the Germans will win, but they’re saying that German industry
+      should not be disparaged. German industry is quite serious, and if money is put
+      into it, you know, they can build good arms. So the situation is not a six-month
+      perspective. The situation that Europe is looking at is a four-year perspective.
+      And you know something? It can work like that. And that is precisely why I’ve
+      changed my mind about the wisdom of the “go slow, don’t rock the boat, don’t challenge
+      the West too much” policy of Putin. It’s reached the end of its practical life.
+      Davis: 38:08 Well, it does seem that there’s going to be a decision to make on
+      a number of different parties here, not the least of which is in Moscow. And I
+      guess we’ll have to wait and see how that’s going to work out. Because the capacity
+      is there to just a matter of whether the political will is and what the West would
+      do in response. And all of that is, you know, something that’s very, very bad
+      for global stability and global security, because anything that expands this war
+      is bad for everybody. And I pray to God we never see it, but we appreciate you
+      coming on today giving us this different perspective than what we get from a lot
+      of other places, and we really appreciate it. Doctorow: Well, thanks for having
+      me. Davis: And we appreciate you guys to be sure, and like and subscribe if you
+      haven’t done that on your way out. And we’ll thank you very much for watching
+      our show today. 38:51 We’ll see you tomorrow on the “Daniel Davis Deep Dive”.'
+    one_sentence_summary: In a discussion about the complexities of achieving peace
+      in the ongoing Russian-Ukraine war, host Davis and guest Dr. Gilbert Doctorow
+      explore the various challenges and potential opportunities for resolution amid
+      shifting geopolitical dynamics.
+    paragraph_summary: In a discussion about the ongoing Russian-Ukraine war, host Davis
+      and international affairs analyst Dr. Gilbert Doctorow explore the complexities
+      surrounding potential peace negotiations, highlighting the various challenges
+      faced by Russia, the U.S., Europe, and Ukraine. They examine the concept of "red
+      lines" that have been claimed by the West regarding military support to Ukraine,
+      noting that these lines have often been crossed without significant repercussions
+      from Russia. The conversation shifts to the current debate over the Tomahawk cruise
+      missile, with Russian Deputy Foreign Minister Sergei Ryabkov indicating that this
+      may be a genuine red line for Russia, contrasting with previous claims about other
+      military support. The dialogue reflects on the lost momentum in U.S.-Russia talks
+      and the uncertain trajectory of the conflict.
+    published: '2025-10-09T09:58:37+00:00'
+  - title: Transcript of chat with Lt Colonel Daniel Davis, 8 October
+    url: https://gilbertdoctorow.com/2025/10/09/transcript-of-chat-with-lt-colonel-daniel-davis-8-october/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=855xgceYwv4
+      Davis: 0:01 In the very vexing opportunity and effort to try and find an end to
+      the Russian-Ukraine war, there are problems really all around. Russian ones, American
+      ones, European ones, and definitely your Ukrainian ones. But we’re trying to find
+      out here where is the contours of any possible peace? Where are the fault lines
+      of potential opportunities to get rid of the peace and to cause problems that
+      could keep the war going on? And really, just where is all this headed? We have
+      with us today, I guess we’ve had him with us once before, many of you know him
+      well, Dr. Gilbert Doctorow, historian and international affairs analyst, coming
+      to us live from Brussels in in Europe. Doctor, welcome back to the show. Doctorow:
+      0:44 Well, good to speak to you again. Davis: Well, listen, I wanted to– we were
+      talking about some of the shifting red lines and where some in the West have claimed
+      that various things are Russian red lines, even if the Russians didn’t say them
+      like early on with a lot of the claims were that Russia set– the Western claims
+      were that Russia set red lines with tanks and with artillery, and then with HIMARS
+      and then with a ATACMS, etc., the F-16s. And every time the red line was brought
+      up to, the West passed it and nothing ever happened. There’s some debate over
+      whether Russia actually had red lines on those issues, but now the latest one
+      that’s up for debate right now is this issue of the Tomahawk cruise missile. And
+      some are suggesting that the Russians are actually putting a red line on this
+      one where they haven’t on the previous one. Here is Deputy Foreign Minister Sergei
+      Ryabkov from earlier today talking first of all that a lot of momentum that appeared
+      to be on the table for the talks between Russia and the United States in Anchorage,
+      Alaska has now been lost. But then he directly interacts the Tomahawk issue. Ryabkov:
+      1:51 [Russian, English subtitles] Unfortunately it must be stated that the powerful
+      momentum from Anchorage in favor of agreements has largely been exhausted. This
+      is the result of destructive activity, primarily by Europeans. As for the Tomahawks
+      themselves, as you understand, without software, without launchers, the rockets
+      on their own are, let’s say, inert objects. Hypothetical use of such systems is
+      possible only with direct involvement of American personnel. I hope that those
+      pushing Washington towards such a decision fully understand the depth and gravity
+      of the consequences of the decisions. Davis: 2:34 Other news coming out of Reuters
+      today said that some of the Russian members of parliament, of the Duma, said basically
+      if you use these things we are going to destroy the launchers and the launch sites
+      which would almost certainly mean destroy American troops. Do you think that this
+      represents a real red line for Russia, or is this just more rhetoric? Doctorow:
+      Look, this issue came up more than a year ago, and Mr. Putin then issued a red
+      line. He was asked by Pavel Zarubin, who is a journalist with Russian state television,
+      what this meant, when it’s discussed that the United States could be sending long-range
+      missiles to Ukraine. This was about June, July of last year. And Putin said, this
+      was on the spot, outdoors, he answered the question saying that the Tomahawk can
+      only, or didn’t name the Tomahawk, but long-range missiles of this variety could
+      only be operated by the Americans, that all the programming would be American.
+      And the only thing that would be Ukraine would be the finger on the button. 3:47
+      And in that case, if this happened, that Russia would respond militarily to that
+      attack by any such missile from the source, where it came from, where it originally
+      came from, not where it was launched from. So it’s a bit more, it was a bit more
+      severe back then than even what you mentioned now, because you were describing
+      a Russian attack on the launcher, presumably the launcher being somewhere in Ukraine,
+      when Putin was speaking a year ago about attacking essentially the United States.
+      4:18 Now, what happened on Thursday when he spoke at the Valdai Discussion Club
+      meeting in the city of Sochi in the south of Russia, he was asked about the Tomahawks
+      and his response then was, his first response was this: the delivery of Tomahawks
+      to Ukraine would spoil the relations between the United States and Russia. That
+      seemed to be having a light-at-the-end-of the-tunnel characteristic now. When
+      he was leaving the stage, and after this four-hour session, he was quite relaxed,
+      And he was stopped by Pavel Zerubin, that’s very same journalist whom I mentioned
+      had asked him this question in June or July of last year. He said that the delivery
+      of these Tomahawks to Ukraine would destroy American-Russian relations. Well,
+      destroying relations more or less means you’re at war. 5:29 Then a moment later,
+      he drew that back and he said, I meant to say: it would damage them. Well, Mr.
+      Putin, which is it, damage or destroy? When you’re speaking about an essential
+      matter of Russian national security, this is not a small detail. And it makes
+      you wonder whether he is really in control of the responses that Russia should
+      give to red lines being violated. Davis: Well, and let’s just stick on the topic
+      of red lines for a minute. Are there any red lines? Are there actually any red
+      lines that Russia has, whether they were self-imposed or attributed to Russia,
+      there hasn’t been any so far because the war has stayed, thank God, contained
+      within the borders of Ukraine and hasn’t escalated beyond that. But there … there’s
+      a very difficult dynamic that any country would have to face, especially in Russia’s
+      position, that they may not want any outside power to do anything, but if they
+      take some action in there that could spawn drawing that other country in full
+      on, not just with support, but like their armed forces, et cetera, that would
+      be very high level. But to not do it, to not actually ever strike anything in
+      there, is to encourage other sides to take even more action against them. How
+      difficult is it for Russia to actually have a red line that they might enforce?
+      Doctorow: 6:57 Depends on whom they’re supposed to enforce these red lines against.
+      And you can understand that they are very hesitant to set and then to defend red
+      lines against the United States. The other nuclear power, their peer, which if
+      it enters into a direct conflict, could lead to a nuclear war. That does not mean
+      that Russia has no red lines that it would act upon. And let’s go back to the
+      Tomahawk issue. I see it as misleading and a distraction from the real issue before
+      us. Let us remember that going back from even before his election, Friedrich Merz,
+      the current chancellor of Germany, had been in favor of delivering, activating
+      Taurus missiles. Unlike the Tomahawk, that is not a 30- or 40- year-old missile.
+      It’s a rather current missile, which has a great deal of capability and which
+      has never been encountered by the Russians. The Russians say that they have well-developed
+      missiles, defense missiles against precisely the Tomahawk, knowing all of its
+      characteristics. They don’t have defenses against the German Taurus. And the German
+      Taurus could be quite damaging, not the same range, it’s not going to be Moscow
+      or Petersburg, but could do a lot of damage in, I think it’s a 500 kilometer range,
+      which isn’t bad. Now, the situation was that first, Scholz and then Merz have
+      been restrained. They didn’t want to be the first one going against Russia with
+      long-range missiles. The logic was, they were waiting for the United States to
+      go through the door first. 8:55 And what Mr. Trump is doing is walking through
+      the door first. Whether he actually delivers a single Tomahawk or not is almost
+      irrelevant. This opens the door for Merz to use Tomahawks. Now the red lines,
+      the Russians surely will attack Germany. They will bomb the factory that makes
+      the Taurus if they are deployed and directed against Russian targets. That is
+      a red line you can be sure that they will exercise, because Germany is not the
+      United States. Davis: Wow that’s a pretty bold statement there and pretty alarming
+      as well, because they may not be the United States, but they are an Article 5-
+      wielding member of NATO. What would be the thought process for the Russian side
+      to take that kind of an action? Because that would … potentially draw in a lot
+      of fighting against them, not just against the Ukraine side. Doctorow: 9:52 Potentially
+      but unlikely. Their calculation is the Germans would never get Article 5 support
+      from other NATO members. If they are violating essentially violating international
+      law which is what directing a Taurus against Russia would be, they become co-belligerents.
+      And they, Germans, not NATO but Germans, would be subject to retribution from
+      the Russians — which would be all the more logical if it were not directed against
+      Berlin but were destroying the factory producing those missiles. That is the Russian
+      calculation. Davis: 10:26 Wow, that would be a pretty big issue, which hopefully
+      explains why the Germans haven’t given the Taurus missiles, and hopefully that
+      continues on. Doctorow: I’m not sure I agree with you. I think they have given
+      the missiles. I think they went in before Scholz left the chancellorship. They
+      just haven’t been opened to inspection. They haven’t been advertised. When they
+      said under Scholz that in a few weeks we will send them, that is, by the way the
+      whole war has evolved over the last three years, that means they were sent already.
+      Davis: 10:58 So, but they haven’t been deployed at least as far as we know. Doctorow:
+      Exactly right. Davis: And one would hope that that permission isn’t given. And
+      correct me if I’m wrong, but that’s not a unilateral decision that Kiev could
+      make. They could only do it with the participation of the German military, is
+      that correct? Doctorow: That was the issue in Germany when several, I think it
+      was Air Force generals, complained that deploying the Taurus in Ukraine was only
+      possible with the technical assistance of German personnel. Davis: So then that
+      is correct. As long as it hasn’t– in order for it to be deployed, it would have
+      to have authorization, one would imagine, from the very top in Berlin, right?
+      Doctorow: Correct. Davis: 11:50 Well, let’s … hope that doesn’t happen then, because
+      that … would be bad for a lot of cases others. We don’t want to risk any escalation
+      of this. Going back to Trump for a second, when … he was talking about, or the
+      possibility of using the … long range missiles, which … we were under here with
+      the Tomahawk, the question is what is he going to do and what does he want to
+      accomplish? Now, he had come into office obviously saying that he was going to
+      end the war in 24 hours. He knew Putin; he knew Volodymyr Zelensky. It would be
+      easy. He would know how to do it. 12:24 Well since then he’s kind of backed off
+      of that a lot, saying well okay, it was harder than I thought. But he thought
+      going into Anchorage, Alaska that he might be able to make something happen. But
+      as Sergey Rybkov mentioned here, nothing did happen. And there’s not really any
+      difference today than there was before that meeting back in August that took place.
+      And yesterday in the Oval Office, President Trump was asked about that situation
+      now, when he was visiting with Canadian Prime Minister Carney. Trump: 12:50 Things
+      are happening with respect to Russia-Ukraine. That’s one that last week marked
+      7,812 people were killed. Soldiers, mostly soldiers. But 7,000, more than 7,000,
+      almost 8,000 soldiers were killed. It’s a crazy, it’s a crazy thing. I thought
+      that would have been one of the easy ones. I get along very well with Putin and
+      I thought that would have been– I’m very disappointed in him, because I thought
+      this would have been an easy one to settle, but it’s turned out to be maybe tougher
+      than the Middle East. We’ll see what happens with the Middle East. Davis: 13:25
+      Yeah, who would have thought that ending one role would be harder than the Middle
+      East, but who would have thought either one of them were actually simple. But
+      this seems to be an issue to come back to. I know that you’ve written some things,
+      but you seem to be having challenges or differences of opinion, maybe a better
+      way to put it, that Putin seems to be putting too much deference in trying to
+      reach out to Trump. What do you mean by that? Doctorow: 13:47 Well, his performance
+      last Thursday at the plenary session of this Valdai Discussion Club was very puzzling
+      and disturbing. He, they spent time talking about, Charlie Kirk. They spent time
+      talking about the … American son of a CIA director and a head of a firm, a subcontractor
+      to the US military, who died in Donbass, having volunteered to serve the Russians,
+      because he believed in their Russian traditional values. That was a lot of time
+      spent flattering the United States, meaning flattering Trump. They also made remarks
+      about what a good conversationalist, interlocutor Donald Trump is. He also talked
+      about the Trump peace plan, the 20-point peace plan for Gaza, saying that he supported
+      it. And he also mentioned in a complimentary way, Tony Blair’s appointment to
+      be on this peace board that Donald Trump would head in the interim period after
+      Hamas left and before the Palestinians were deemed suitable for self-governance.
+      15:08 This was a lot of flattery for Donald Trump. And it was surprising, and
+      I think it was overdone, because it compromised Russia’s sovereignty. The whole
+      message of Putin the last several years has been sovereignty. And here he was
+      doing his best to ingratiate himself with Donald Trump, not quite calling him
+      Papa, like the Secretary General of NATO did, but it didn’t look good. The countries
+      are at odds, very seriously at odds, and this was not appropriate. Davis: 15:47
+      How is that being viewed in the Russian media, in the Russian landscape? Doctorow:
+      Well, that particular side of it has not been discussed on Russian state television,
+      for example. But it has blown hot and cold about Donald Trump. The most serious
+      commentary about Trump is, he’s a good guy, but he can’t deliver, because the
+      political balance in Washington is against accommodation with us. And this was
+      what Putin was overlooking. He seemed to be placing too much trust in the personal
+      relationship with Trump that was so much in evidence in Alaska. And it doesn’t
+      look good for for Russia’s defending its interests. But let’s come back to what
+      Trump is trying to say. And here I have a take on Trump’s message which is different
+      from most of my peers, and I’m ready to defend it. Trump’s been buying time. He
+      has been buying time almost since he took the Oval Office. Buying time for what?
+      Buying time for Putin to finish up the war, to get it over with. And Putin doesn’t
+      get that message. Trump goes this way and that way. He is pivoting to Zelensky.
+      Then he’s turning back towards Putin and it’s all buying time with Congress not
+      to impose these tough secondary sanctions. A lot of the difficulty that he would
+      have in dealing in a straight way with Congress and the political establishment
+      of the states, he is avoiding by attacking this way and attacking that way. And
+      Putin doesn’t get it. When Trump said last week, repeated, that he was disappointed
+      in Putin because he thought he would get it over with in the first week of the
+      war. Let’s go back to the start of this special military operation. Most people
+      like yourself were assuming that Russia would go in, in the American fashion of
+      shock and awe, and would finish off Ukraine in a week. 18:08 Everyone knew that
+      the Russian military operation was being done in a backwards way. When you have
+      an attack, you want to take the country, you go in with three times their forces.
+      Instead, Putin would end with one third of their forces. Now that explains why
+      the special military operation got off to such a poor start. And Trump was revisiting
+      that issue today. Trump is not saying it, but he knows and we know that Putin
+      can end this war tomorrow if he wants to. He has Oreshniks, they know where the
+      government offices are on Bankovskaya Street in downtown Kiev. Well, in one day,
+      they can decapitate Ukraine. And they should do it, but it’s not happening. Davis:
+      19:04 And what do you suppose it is? With the capacity to do so, why do you think
+      Russia hasn’t done it? Doctorow: One is the indecisiveness of Putin and his unwillingness
+      to take risks. But the risks in … striking against Kiev are much smaller than
+      the risks of this ongoing conflict with the West, where the leaders in Europe
+      have gotten to understand that Ukraine is losing badly, and they are moving from
+      one provocation to another, ever steeper and ever more risky and dangerous, that
+      can lead us into World War III. And Putin does not get it. Davis: 19:49 –was looking
+      for something here to see if we could pull this up. Gary, if you could possibly
+      pull up the Ursula von der Leyen that we used earlier today, that would be great
+      from her comments this morning. Because I want to kind of go down that path. You
+      say that the delay, and I know I’ve had some conversations with a number of folks
+      that have some contacts on the Russian side themselves, and they have in one hand
+      voiced a lot of frustration because of Leyen. Same thing, because they see people
+      like Emmanuel Macron, who continues to mock Russia as he did last month by saying
+      they’ve only taken 1% in the last two years because that’s all they can, the implication
+      being, the counterclaim being that Russia can take more than that, but they are
+      not using their forces in that regard. One of the arguments is, well, they’re
+      doing that because they perceive that there could be a war with NATO one of these
+      days. 20:41 And so they are, with all of this industrial capacity, they are stockpiling
+      all the key aspects that was necessary for war, training up additional men, so
+      that in the event that that comes in the future, they’re ready for it later on,
+      which apparently they aren’t right now. First of all, just on that aspect of it,
+      what is your understanding of that argument? Doctorow: That was good. The war
+      has evolved. The war has changed dramatically over the course of the first three
+      years. When the war started, Russia had a ten-time advantage over Ukraine in artillery
+      shells and artillery tubes. They were waging, from the beginning, an artillery
+      war. That was their war of attrition. Today, the artillery advantage is less important.
+      I don’t mean to say it’s not important, but it’s much less a factor in the way
+      the war is proceeding. It is now basically a drone war. My peers who appear on
+      programs like yours, they assume because they never name their sources, but I
+      assume that they’re speaking to people in the military or military experts in
+      Russia and are delivering their information on air from that source. They never
+      stop to think whether anybody in the military in Russia would ever dare to give
+      them something confidential, because they’ll be taken to court and they’ll spend
+      the rest of their lives in prison for betraying national secrets. But somehow
+      this little detail doesn’t enter into the minds of my peers. 22:12 What I’m listening
+      to is Russian television. “Oh yes,” people say, “yes, Doctorow only watches television.”
+      But my goodness, the whole of Sovietology in the Cold War was based on that type
+      of expertise. People read Provda and it’s Izvestia. And you might say, why are
+      they reading that junk? Because in that junk, they found clues as to what comes
+      next. Now, Russian television is much more honest than anybody imagines. I don’t
+      mean RT. RT isn’t Russian television. It’s a special product, devised for the
+      American public, to hold up a mirror to America’s ills. 22:45 That is not Russian
+      television. Russian television interviews– is war correspondents on the front.
+      I watch them every day, and it is extremely interesting and informative. The Russians
+      are now talking about the birdies. The birdies are the attack drones. Now the
+      Ukrainians are not stupid people. They are very much like Russians in their skills,
+      strengths and weaknesses. They’re very good at computers. They’re very good at
+      video games and they’re very good at operating drones. This is a very big threat.
+      And it means that the Russians are operating on the field completely differently
+      from what you would expect when the war opened and they had such an advantage
+      in heavy tanks and all of the hardware. No, that’s not what– the tanks are being
+      used as artillery today, just movable artillery, that’s all they are. There are
+      no tank battles in Ukraine. The real issue today is one where the Ukrainians have
+      a much more balanced stand against Russia than they did when the war started and
+      they were a 10-time disadvantage in artillery shells. Davis; 23:53 And so what
+      is the net-net for that? What does that result in on the battlefield, those dynamics?
+      Doctorow: Small movements. However, I disagree with what Macron said. It’s not
+      a 1% increase. That’s nonsense. When the war started, Russia had– maybe 70% of
+      Lugansk was under Russian control and perhaps 50% of Donetsk. Now it’s 99% of
+      Lugansk under Russian control and 70% of Donetsk under Russian control. That isn’t
+      1%. So Mr. Macron doesn’t know what he’s talking about. Or he’s just giving propaganda.
+      They’re moving. But if it could continue to move at this pace, it’ll be a 10-year
+      war. Davis: So is Russia moving at this pace because that’s all they can do, or
+      are they moving at this pace because they’re risk-averse and they’re not using
+      all their capacity? Doctorow: 24:45 That is true, but that is not the only factor.
+      A bigger factor is how they conceive of this war. They conceive of it in a manner
+      that the German classics of warfare would approve of. Warfare is about knocking
+      out the military force of your opponent. They are killing Ukrainian soldiers at
+      a ratio perhaps of 10 times their own losses. And it is known that when they advance
+      in this place or that, instead of proceeding and marching on and pushing the Ukrainians
+      back further, they are retreating slightly to draw the Ukrainians into a trap
+      and murder still more Ukrainians. The problem is that Ukraine is still, though
+      it’s dropped from 40 million to maybe 25 million, and though it has several hundred
+      thousand deserters, it still has a military. And my peers who are speaking as
+      if Ukraine is going to roll over and die tomorrow are dreaming. That is wish,
+      that is not fact. And the move that the Russians are taking will bring them maybe
+      in a few months at this pace to the Dnieper, but that’s not the whole of Ukraine.
+      And the Russians have no interest in crossing into really Ukrainian territory
+      where they will be invading, occupying army. 26:08 So the war’s end on the battlefield
+      is questionable. I’ve said for some time the war would end in a political collapse
+      of Ukraine. But if Europe rushes in with a hundred and forty five billion euros
+      of assistance, there will be no political collapse of Ukraine. And there’s the
+      problem. Davis: 26:30 Well, and in fact, that’s exactly what I wanted to discuss
+      next, because with this delay, if Russia’s military is capable of going much faster
+      pace and achieving a military victory by destroying the units and then taking
+      the territory as well — by going in this slower pace, it may be whittling down
+      slowly at the capacity of the Ukrainian armed forces, but as you say, it keeps
+      alive the possibility that no, we can hold out for a lot longer than this. That
+      was reinforced by Ursula von der Leyen earlier today, when she seems to go down
+      here continuing path that this is a war, that we are actually in a war with Russia
+      and maybe one we can win. von der Leyen: 27:10 Something new and dangerous is
+      happening in our skies. In just the past two weeks MIG fighters have violated
+      Estonia’s airspace and drones have flown over critical sites in Belgium, Poland,
+      Romania, Denmark, and Germany. Flights have been grounded, jets scrambled, and
+      countermeasures deployed to ensure the safety of our citizens. Make no mistake,
+      this is part of a worrisome pattern of growing threats. Across our Union, undersea
+      cables have been cut, airports and logistic hubs paralyzed by cyber attacks, and
+      elections targeted by malign influence campaign. These incidents are calculated
+      to linger in the twilight of deniability. This is not random harassment. It is
+      a coherent and escalating campaign to unsettle our citizens, test our resolve,
+      divide our union, and weaken our support for Ukraine. And it is time to call it
+      by its name, this is hybrid warfare. Davis: And so what do you make of that? Is
+      her characterization accurate, or is the Russian view that they’re not trying
+      to escalate into Europe? What do you think is the case? Doctorow: 28:37 I think
+      it’s a pile of lies. Von der Leyen is a hawk. She is a warrior. She wants to grab–
+      she’s also virtually a dictator. She has seized as much authority within the European
+      institutions as she could, which was not so difficult, because she’s surrounded
+      by 27 cowards who all have linked arms and are afraid to rein her in. She may
+      be reined in. She may lose a confidence vote in the next few weeks. But the point
+      is: everything that she’s saying is to make the point that Europe is threatened
+      and it needs a strong leader who makes defense federalized under her watch. And
+      it’s all self-serving. Now these attacks, the incursion on Estonian airspace,
+      I ask you to look at the map. When you look at the overlapping territories that
+      are sovereign territories of the countries bordering the Baltic Sea, which are
+      now all– with the exception of Kaliningrad of Russia, all of the bordering lands
+      of the Baltic Sea are NATO countries. When you extend out into the sea, their
+      territorial rights leave you with almost nil international waters. So this whole
+      claim of Russian infringement is in fact not a Russian aggression, it is a European-NATO
+      aggression against Russia, to create an air and sea blockade on Russia in the
+      Baltic. As they said very nicely, when Finland and Sweden joined NATO, it turns
+      the Baltic into a NATO lake. Well my friends, if that’s how you feel, we will
+      have World War Three, because the Russians will not be barred from using the Baltic
+      Sea. That is a casus belli. And it takes more than a few cutters from Estonia
+      to stop a Russian oil tanker or Mr. Macron’s little police boats stopping a suspected
+      gray-fleet Russian tanker somewhere off the coast of France. They proceed with
+      this and we have World War III. There’s nothing to talk about. They won’t proceed
+      with it, because the Russians will not allow them to do it. 31:25 However, this
+      “drone attacks” is even more preposterous. All over the place and in everybody’s
+      back yard is a drone attack, all done by the Russians. This is as nonsensical,
+      as absurd as all of the “Russia, Russia, Russia” stories to prevent Trump’s election
+      in 2016 and to impeach him after his election. This, I would be sure, is all launched
+      and coordinated by MI6 in London who are the main practitioners of dirty tricks,
+      and von der Layen finds this very convenient, a story to establish and justify
+      her stranglehold on power in the European Union. Davis: Yeah, I’m not sure what
+      good it is going to be to have power if you end up with, some of your actions
+      end up spawning a global war. Hopefully that will just stay in the rhetoric realm.
+      I mean, you mentioned something a second ago that potentially that Russia could
+      go all the way up to the Dnieper River and that that might still might not end
+      it. That kind of lines up with something that Putin did say a couple of days ago
+      when he talked about what their objectives were right now in the SMO. Putin: 32:37
+      [English voice over] I address the soldiers and officers, the real heroes of our
+      time, with a special feeling. I thank you for your loyalty to your motherland,
+      for your military valor and courage, for every day of your hard combat work. I
+      am sure that, thanks to you, the security of Russia will be reliably ensured,
+      and the long-awaited and strong world will return to the heroic land of Donbas
+      and Novorossia. We are together and this means that all our plans will be realized.
+      Davis: So he says all of his plans will be realized, all of Novorossia, which
+      is we talked about on this channel a lot, that’s four additional oblasts besides
+      just the four that are allegedly on the table right now and you’re saying, suggesting
+      though, that that still might not be enough. Doctorow: 33:25 Well there’s one
+      thing missing in that Novorossia story, and that is Odessa. The French and British
+      interest in Ukraine focuses on Odessa. Odessa, if you look at the map closely,
+      it is very, it is in an easy strike range to Crimea. It is Ukraine’s major port.
+      It’s what prevents Ukraine from being landlocked and is essential to the Ukrainian
+      economy. It is important militarily, for the reason I just mentioned, because
+      it would be a wonderful naval port for the French and the British. 34:10 The Russians
+      understand that. And Russian television– which again I explain I use fairly regularly
+      as a source– they are now calling out Odessa as one more objective before they
+      end their military activities in Ukraine. Davis: So where do you see this going,
+      let’s just say by the first quarter, by the spring of next year, so within roughly
+      six months from now? Will this war just keep going on for years, or do you think
+      Russia will finally just put the gas genuinely on the floor and try to achieve
+      a military victory. What is your assessment? Doctorow: 34:52 As I said, the political
+      victory would be done in one day if Mr. Putin finds the guts to do it. And that
+      is to bomb the hell out of the administrative buildings and use Oreshnik to go
+      down to whatever depth is needed to wipe out Mr. Zalensky and his team in their
+      underground hideouts. They have the missiles to do it, and that would end the
+      war. Europe will stand and do nothing about it. The Americans, Mr. Trump, will
+      express regrets. That’s what war is all about. And then he’ll go about doing business
+      with Mr. Putin that he’d like to do but cannot do while the war is raging. [It’s]
+      beside my understanding that Putin does not end the war. Davis: 35:51 And so if
+      he doesn’t do that version where you say it could be over really quickly, what
+      does it look like six months from now, the first quarter of 2026? Doctorow: Nothing.
+      It looks like, well, if you want to see what it looks like, you have to go out
+      four years. This bridging loan, which the Europeans want to give to Ukraine, what
+      is it all about? It’s to keep the Ukrainians in play for three years, or four
+      years. Why three or four years? Look at the rest of the program. They are spending
+      now hundreds of billions of euros to build up, to bulk up Europe’s military production.
+      Germany is a leader in this with a one trillion euro debt that’s taking out mostly
+      for the purpose of building out its armed forces and for, as Mr Merz said openly,
+      to make Germany the biggest defender he calls it, let’s call it by the real name,
+      the biggest military force in Western Europe. That will be ready for when? For
+      2029. Merz has said that the Russians will attack in 2029. 37:07 Let’s speak not
+      more Orwellian language, but real language. He means that he will attack Russia
+      in 2029. And if he builds out the army as he plans, you know, Europe could just
+      win. This is not my opinion, but again, experts on Russian state television are
+      saying, not that the Germans will win, but they’re saying that German industry
+      should not be disparaged. German industry is quite serious, and if money is put
+      into it, you know, they can build good arms. So the situation is not a six-month
+      perspective. The situation that Europe is looking at is a four-year perspective.
+      And you know something? It can work like that. And that is precisely why I’ve
+      changed my mind about the wisdom of the “go slow, don’t rock the boat, don’t challenge
+      the West too much” policy of Putin. It’s reached the end of its practical life.
+      Davis: 38:08 Well, it does seem that there’s going to be a decision to make on
+      a number of different parties here, not the least of which is in Moscow. And I
+      guess we’ll have to wait and see how that’s going to work out. Because the capacity
+      is there to just a matter of whether the political will is and what the West would
+      do in response. And all of that is, you know, something that’s very, very bad
+      for global stability and global security, because anything that expands this war
+      is bad for everybody. And I pray to God we never see it, but we appreciate you
+      coming on today giving us this different perspective than what we get from a lot
+      of other places, and we really appreciate it. Doctorow: Well, thanks for having
+      me. Davis: And we appreciate you guys to be sure, and like and subscribe if you
+      haven’t done that on your way out. And we’ll thank you very much for watching
+      our show today. 38:51 We’ll see you tomorrow on the “Daniel Davis Deep Dive”.'
+    one_sentence_summary: In a discussion about the complexities of achieving peace
+      in the ongoing Russian-Ukraine war, host Davis and guest Dr. Gilbert Doctorow
+      explore the various challenges and potential opportunities for resolution amid
+      shifting geopolitical dynamics.
+    paragraph_summary: In a discussion about the ongoing Russian-Ukraine war, host Davis
+      and international affairs analyst Dr. Gilbert Doctorow explore the complexities
+      surrounding potential peace negotiations, highlighting the various challenges
+      faced by Russia, the U.S., Europe, and Ukraine. They examine the concept of "red
+      lines" that have been claimed by the West regarding military support to Ukraine,
+      noting that these lines have often been crossed without significant repercussions
+      from Russia. The conversation shifts to the current debate over the Tomahawk cruise
+      missile, with Russian Deputy Foreign Minister Sergei Ryabkov indicating that this
+      may be a genuine red line for Russia, contrasting with previous claims about other
+      military support. The dialogue reflects on the lost momentum in U.S.-Russia talks
+      and the uncertain trajectory of the conflict.
+    published: '2025-10-09T09:58:37+00:00'
+  - title: 'Chat with Lt. Colonel Daniel Davis on ‘Deep Dive’: Putin Shifting Russia’s
+      Red Lines'
+    url: https://gilbertdoctorow.com/2025/10/08/chat-with-lt-colonel-daniel-davis-on-deep-dive-putin-shifting-russias-red-lines/
+    text: This 40 minute interview goes into the corners of my arguments about Putin’s
+      scandalous performance at the plenary session of the Valdai Discussion Club last
+      Thursday, into the reasons why Putin should bomb the hell out of Kiev right now
+      and put an end to this war by decapitating the Zelensky regime, into the evident
+      emerging plan of European hawks to “lend” 145 billion euros of frozen Russian
+      assets to Kiev for the sake of keeping the Ukrainian forces in the war for the
+      next 4 years while Germany and others bulk up their armed forces and prepare to
+      attack Russia in 2029. You will note that I have parted company with many of the
+      loudest voices in Alternative Media who are saying that Ukraine has already lost
+      the war, that the front is collapsing and capitulation is just around the corner.
+      I set out very clearly the open sources, namely Russian state television, which
+      inform my changing understanding of the threats to Russia from prolonging the
+      war. This is the modern-day equivalent of reading Izvestiya and Pravda for clues
+      to Soviet policies back in the days of the Cold War; when done properly that yielded
+      very valuable information. Today’s Russian electronic media are far richer in
+      content. I question the value of the unnamed sources, presumably Russian military,
+      who my peers say informs their views of how the war is going:  it seems to me
+      to be irresponsibly naïve to believe that any chums in Russia will divulge military
+      secrets to their nice buddy in the States; the penalty is life in the prison camps
+      if not worse. The Deep Dive audience may have a fair number of trolls among them
+      judging by the vicious remarks in the Comments section.  However, the Likes are
+      8 times greater in number, which I find encouraging. Enjoy the show!
+    one_sentence_summary: In a 40-minute interview, the speaker critiques Putin's recent
+      performance at the Valdai Discussion Club, argues for aggressive military action
+      against Ukraine, and discusses the implications of European financial support
+      for Ukraine, while diverging from mainstream Alternative Media narratives about
+      the war's status.
+    paragraph_summary: In a recent 40-minute interview, the speaker critiques Vladimir
+      Putin's performance at the Valdai Discussion Club and argues for a decisive military
+      action against Ukraine, specifically advocating for the bombing of Kiev to eliminate
+      the Zelensky regime and end the war. The discussion highlights a perceived strategy
+      among European hawks to utilize 145 billion euros of frozen Russian assets to
+      support Ukraine over the next four years while preparing for a potential attack
+      on Russia by 2029. The speaker expresses a divergence from mainstream Alternative
+      Media narratives that claim Ukraine has already lost the war, emphasizing the
+      importance of analyzing Russian state media for insights into the conflict. They
+      caution against relying on unnamed Russian military sources for information, suggesting
+      that such trust is misplaced given the risks involved. Despite facing criticism
+      in the comments section, the speaker finds encouragement in the positive feedback
+      received from viewers.
+    published: '2025-10-08T21:48:00+00:00'
+  - title: 'Chat with Lt. Colonel Daniel Davis on ‘Deep Dive’: Putin Shifting Russia’s
+      Red Lines'
+    url: https://gilbertdoctorow.com/2025/10/08/chat-with-lt-colonel-daniel-davis-on-deep-dive-putin-shifting-russias-red-lines/
+    text: This 40 minute interview goes into the corners of my arguments about Putin’s
+      scandalous performance at the plenary session of the Valdai Discussion Club last
+      Thursday, into the reasons why Putin should bomb the hell out of Kiev right now
+      and put an end to this war by decapitating the Zelensky regime, into the evident
+      emerging plan of European hawks to “lend” 145 billion euros of frozen Russian
+      assets to Kiev for the sake of keeping the Ukrainian forces in the war for the
+      next 4 years while Germany and others bulk up their armed forces and prepare to
+      attack Russia in 2029. You will note that I have parted company with many of the
+      loudest voices in Alternative Media who are saying that Ukraine has already lost
+      the war, that the front is collapsing and capitulation is just around the corner.
+      I set out very clearly the open sources, namely Russian state television, which
+      inform my changing understanding of the threats to Russia from prolonging the
+      war. This is the modern-day equivalent of reading Izvestiya and Pravda for clues
+      to Soviet policies back in the days of the Cold War; when done properly that yielded
+      very valuable information. Today’s Russian electronic media are far richer in
+      content. I question the value of the unnamed sources, presumably Russian military,
+      who my peers say informs their views of how the war is going:  it seems to me
+      to be irresponsibly naïve to believe that any chums in Russia will divulge military
+      secrets to their nice buddy in the States; the penalty is life in the prison camps
+      if not worse. The Deep Dive audience may have a fair number of trolls among them
+      judging by the vicious remarks in the Comments section.  However, the Likes are
+      8 times greater in number, which I find encouraging. Enjoy the show!
+    one_sentence_summary: In a 40-minute interview, the speaker critiques Putin's recent
+      performance at the Valdai Discussion Club, argues for aggressive military action
+      against Ukraine, and discusses the implications of European financial support
+      for Ukraine, while diverging from mainstream Alternative Media narratives about
+      the war's status.
+    paragraph_summary: In a recent 40-minute interview, the speaker critiques Vladimir
+      Putin's performance at the Valdai Discussion Club and argues for a decisive military
+      action against Ukraine, specifically advocating for the bombing of Kiev to eliminate
+      the Zelensky regime and end the war. The discussion highlights a perceived strategy
+      among European hawks to utilize 145 billion euros of frozen Russian assets to
+      support Ukraine over the next four years while preparing for a potential attack
+      on Russia by 2029. The speaker expresses a divergence from mainstream Alternative
+      Media narratives that claim Ukraine has already lost the war, emphasizing the
+      importance of analyzing Russian state media for insights into the conflict. They
+      caution against relying on unnamed Russian military sources for information, suggesting
+      that such trust is misplaced given the risks involved. Despite facing criticism
+      in the comments section, the speaker finds encouragement in the positive feedback
+      received from viewers.
+    published: '2025-10-08T21:48:00+00:00'
+  - title: Transcript of ‘Judging Freedom’ edition of 8 October 2025
+    url: https://gilbertdoctorow.com/2025/10/08/transcript-of-judging-freedom-edition-of-8-october-2025/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=3jqr9PzL1gY
+      Napolitano: 0:05 All right, thank you, everyone, for your patience. Professor
+      Doctorow, thank you for your understanding. These gremlins happen from time to
+      time. You were giving your opinion about whether or not President Putin will voluntarily
+      leave office before the end of his term, and if so, why? Doctorow: Well, I think
+      he will come to the realization that his inability to respond appropriately to
+      the threats that are rising daily from the West, and his inability to exercise
+      deterrence and to keep it in place, make his position untenable. He has been 25
+      years in service. The SS Putin has grown a lot of barnacles which slow its navigation
+      through troubled waters and it is likely the moment has arrived, or will soon
+      arrive, for him to pass the baton to a younger generation. The younger generation
+      is not going to be in 30s or 40s, but they’ll be in their 50s, and they are not
+      hidden. They are visible. There are very capable people to replace him in the
+      management of domestic affairs. 1:24 His prime minister, Mishustin, the mayor
+      of Moscow, Sobyanin, they are world class managers and government people who travel
+      widely, who meet extensively throughout Russia and in the near abroad, the Russia-friendly
+      abroad. In the foreign ministry, Mr. Lavrov has an immediate replacement by somebody
+      much more vigorous and appropriate to the age we live in. And that is Mr. Ryabkov,
+      whose name, of course, will be familiar to you. Napolitano: 1:56 Let me stop you
+      here. Is there widespread talk about this, or is this view unique to a small number
+      of people? As you know from other people who appear on this show who respect you,
+      nobody else is saying this. Doctorow: Well, truth is not a popularity contest.
+      Napolitano: Understood, but I just want to know if it’s a widely held view. Doctorow:
+      No, I cannot say yes or no, because it’s the kind of question that is not publicly
+      discussed. That doesn’t mean that the question doesn’t exist and that people aren’t
+      talking about it over the kitchen table. I don’t mean the man in the street, but
+      I mean the political classes. They’re not stupid. They’re aware of the risks,
+      and I think they are nervous. Let me just say that I’m not drawing this conclusion,
+      which just took a long time to mature, out of thin air. As your program, one or
+      two other programs that I appear in that have large audiences are now being dubbed
+      into Russian. Each of these programs, like the last one that we had a week ago,
+      had twice as many Russian viewers as the English original. We’re speaking of 150,000
+      people. Now, when you speak about a poll, a number like 75,000, 100,000, 150,000,
+      that is an unusually large audience for polling. And I look at two issues that
+      tell me which way the wind is blowing. One is the comments, I’m speaking now of
+      the Russian version of “Judging Freedom”, which you don’t produce, but there is
+      a group called In Russian which produces it very well using artificial intelligence.
+      And I look at two indices. One is the comments, which are almost, I’d say, three
+      quarters negative. 3:56 They are by, I’d say, simple people, judging by the grammatical
+      mistakes and the language used. They are by simple patriots who reject out of
+      hand and without even listening to more than a few minutes of your program, they
+      decide that we Westerners are idiots, will never understand Russian, that only
+      Russians can understand Russian, and so forth. Then I look at the other index,
+      which is the thumbs up. The thumbs up is systematically two times or three times
+      bigger than these comments by redneck patriots. That tells me something. People
+      who are watching your program in Russian, they are, I’d call them, they’re politically
+      active, politically interested. And people who bother to give any kind of response,
+      whether a thumbs up down or a comment, are more active bodies. So we’re speaking
+      of several percent. It’s never 10%, it’s less, who actually bother to comment.
+      Well, when I see that, these numbers– Napolitano: There’s a conversation about
+      President Putin’s tenure in office while he’s experiencing an 80% approval rating
+      is not a general public one. It may be whispered in, as you say, at kitchen tables.
+      Doctorow: Yeah. The 80%, I’m sure, is accurate, but they’re not asking the right
+      question. They’re asking, is he doing a good job? Well, if you are looking at
+      your paycheck and you’re getting three times now a salary, what you got before
+      the start of the war, if you’re employed now in a small town that was once an
+      industrial town and became laid waste in the 1990s and has revived since the start
+      of the war because of industrial production being subcontracted to local factories,
+      then you’re pretty happy. 5:44 When you have money in the bank and you’re getting
+      20% interest annually, you don’t mind the 8% inflation. So for this reason, if
+      you ask the average guy in the street about his [glitch] about [do you] approve
+      of Putin, he’ll say yes. Now, if you ask the politically active class, that’s
+      a different story. They’re interested in Russia’s prestige and they’re interested
+      in the risk factor of is this tenable? And they are the ones who are giving two-to-
+      one approval of a conversation that you and I have in which I’m questioning Mr.
+      Putin’s speech at the Valdai conference. What was wrong with the speech was he
+      put Russia’s fate in the hands of Mr. Trump, which is a very foolish thing to
+      do. Napolitano: Let me read what you wrote about this. This is a rather profound
+      statement. Forgive me for looking down. I want to read it precisely. This is what
+      you sent me the other day. [Doctorow]: “If Mr. Putin continues to put Russia’s
+      fate in the hands of Donald Trump by accepting each further escalation from the
+      West, including those enabled by the American president himself, such as secondary
+      sanctions and delivery of long-range missiles to Ukraine, then Russia is doomed.”
+      Napolitano: What do you mean by that? Doctorow: 7:04 I mean that the very risky
+      probing, poking at Russia is accelerating, and I see the future taking shape.
+      On this program and others, the panelists [are] generally looking at the next
+      few weeks. I was one of those. [By] trying to stand out as having been so much
+      more penetrating in my view of things than my peers, I was saying to them, “Well,
+      looking at the progress on the ground, looking at the heavy losses of the Ukrainians
+      on the front, the war will probably come to a culmination in a few weeks to months.”
+      However, in the last several weeks, the picture has changed a bit. First of all,
+      that knowledge that the war is going badly [for] Ukraine has penetrated the skulls
+      of the NATO leadership and of the biggest influencers of EU policies, the leaders
+      of France and Germany. And the result is that they are putting together something
+      that is now clear to anyone who wants to read the handwriting on the wall. And
+      so let me give the eyeglasses to read that handwriting. 8:25 That Europe is now
+      ready to essentially confiscate the 145 billion euros in Russian state assets
+      in EuroClear in Belgium for the sake of so-called collateral for a loan to Ukraine
+      that will never be repaid. This is a very refined way of getting around the question
+      of confiscation of state assets, but it comes to the same thing. And if Russia
+      were to say openly what Mr. Putin is unable to or unwilling to say, that this
+      is confiscation of assets and it is an act of war– There are a number of things
+      that are going on which in normal international relations are considered a casus
+      belli. The so-called piracy of the French had on this what they assumed to have
+      been a Russian shadow fleet tanker. That is [in] normal international relations,
+      the cause of declaring war. Napolitano: 9:25 Right. Right. Will the theft of 165
+      billion in Russian state assets in European banks– this is the $64,000 question–
+      be deemed by the Kremlin an act of war? Will the ramping up of German arms manufacturers
+      who are making weapons that will be aimed at Moscow be considered an act of war,
+      and should they be stopped before they complete their tasks? Doctorow: 9:53 This
+      is the very reason why I’m saying that Mr. Putin should reconsider his staying
+      in office, because he has aligned himself– going back to 2016 when Mr. Obama confiscated
+      Russian embassy properties in the United States in strict violation of all international
+      relations, he put up with that. And Mr. Putin has put up with a great many acts
+      of aggression against Russia, which normally could and should be declared a casus
+      belli. Even last week at Sochi, he was asked about the Tomahawks, and he said
+      on camera in front of the audience, he said, “Yes, this will seriously damage
+      our relations with the United States.” Napolitano: Yes. Doctorow: It’s a very
+      interesting thing to say, when a year ago he said, “We will respond with armed
+      force against the United States because we were talking about long-range missiles
+      in case they are used by Ukraine, supposedly used by them, but actually used by
+      Americans operating those missiles against us.” Now, after he walked off the stage
+      at Sochi, He had a little exchange with a journalist who was a hound dog. He was
+      with him all the time. A certain Popov Zarubin, who asked him that same question.
+      And first, he was relaxed. He just came off the stage. He was very happy. And
+      his answer to Zarubin was that if the United States uses those missiles, it will
+      destroy our relationship. 11:36 Then a second later, he backed up. He said, “Oh
+      no, no, it will damage….” I’m sorry, which is it, Mr. Putin? Damage or destroy?
+      They’re very different. And if on such an issue, vital to Russia’s defense, Mr.
+      Putin waffles, I think he should consider that he should leave in grace. Napolitano:
+      Yesterday, October 7th, was Vladimir Putin’s birthday. Here’s what the “Moscow
+      Times” wrote. Now I’m reading an English translation, obviously. [Moscow Times]:
+      “Under constitutional changes he pushed through in 2020, Putin could remain in
+      power until 2036 when he will be 83 years old, with no sign he wants to step down.
+      That would make him the longest-ruling leader in Russian history, surpassing Joseph
+      Stalin.” Napolitano: 12:36 All right. So obviously there is talk out there if
+      the “Moscow Times” is alluding to it. Doctorow: Look, let’s look at the picture.
+      I just said that there’s a constellation that’s formed in the last several weeks.
+      I mentioned the first part of it, but I didn’t say where it leads. It’s 145 billion
+      euros that the EU wants to take over to provide Ukraine with assistance. Napolitano:
+      It’s theft. It’s outright theft. And I would think that Putin will declare it
+      as that. The question is, will he declare it as an act of war? But go ahead. Doctorow:
+      The issue is, what will that money do? It’s enough to keep Ukraine going for three
+      years, or four years. They’re not going to just hand it to Mr. Zelensky in one
+      go. So they know very well they want to feed it to him to be sure the war keeps
+      going, until when and why? We’ve heard enough the figure 2029 is the time when
+      Mr. Merz says that Russia will attack. Well, it’s not Russia that’s going to attack.
+      It’s Mr. Merz that wants to attack Russia. And they’re the warmongers, and Merz
+      is a lead warmonger, but not the only one, that want to have a war with Russia,
+      conventional war, four years from now. 13:55 Now, if they give Mr. Zelensky this
+      money to keep his troops fighting until then, well, you see it. It’s a bridging
+      loan for Europe to keep Russia distracted with this war of attrition in Ukraine,
+      while they gear up to attack Russia. Now, some of my peers have spoken of Europe
+      very dismissively. Russian experts who are on Russian state television are not
+      so dismissive. When Mr. Merz puts up one trillion euros to raise military production
+      in Germany, and when you consider that Germany is not de-industrialized yet, and
+      has a very strong capability of using all of its automotive industry, idle factory,
+      employees and machinery, and other heavy industry that still has not gone to rust,
+      to create arms — well, the Russians who are thinking Russians and get a microphone
+      also express concern. And I think they were right. 15:05 Now, I don’t believe
+      that it will come up to that point. I think Mr. Putin will either become a changed
+      man and ready to openly set, follow his lines, red lines, and defend them, or
+      he’ll be out. Napolitano: What is the true goal of the EU warmongers? Do they
+      really want a war with the Russian military? Is this a scheme to enrich their
+      arms manufacturers? Is there some long-term NATO, Donald Trump- related goal?
+      What does Starmer, Macron– and Macron of course has his own very serious problems–
+      and Merz really want? Doctorow: 15:51 Over the last 20 years, progressively the
+      EU has turned from an economic project into a geopolitical project. This has been
+      accelerated under von der Leyen, who has virtually merged NATO with the EU institutions.
+      Consequently, the leaders of the European states collectively want to assert a
+      geopolitical role for Europe, which can be done by humbling Russia. I have peers
+      who speak about the military- industrial complex in Europe as if that is driving
+      things. I don’t agree at all. The military- industrial complex is now being raised
+      from the dead by the political leaders who are doing this for their own purposes.
+      Mr. Netanyahu is not the only person on earth who engages in military action for
+      the sake of keeping himself in power. 16:56 If you look at European leaders today,
+      that’s exactly the game they’re playing. Now, von der Leyen took it to extremes
+      by saying, “Oh, we have these great challenges. We have to keep ourselves together”,
+      means locked arms, under her stewardship. That’s being challenged by Mr. Merz.
+      But the general idea of Europe as a geopolitical force is very much the order
+      of the day among the top leaders in Europe who want to keep their positions. Napolitano:
+      Wow. What do you think will happen with respect to the remilitarization by three
+      very unpopular leaders, Merz, Starmer, and Macron? Stated differently– we only
+      have about two minutes left before I have another commitment. My apologies because
+      of the problem with the internet, which we’ve overcome thanks to Chris. Will this
+      remilitarization repopularize these leaders domestically? Doctorow: 18:01 It depends
+      how they play their hand. If they can continue to play this war hysteria, which
+      is going wild here in Europe with Russian drones in everybody’s back yard, then
+      they can instill a fear in the broad population and proceed with their militarization
+      successfully. I don’t know if they have the wisdom or the advisors at their side
+      to help them do it. And there are serious problems within EU, as we saw with the
+      victory of Mr. Babish in Slovakia, creating a triad of Hungary, Slovakia, and
+      Czech Republic. I’m sorry, I meant this Czech Republic. Those three, who are your
+      skeptics and who are a stumbling block for the warmongers led by von der Leyen.
+      So how this will play out, nobody can say with absolute certainty, but the risks
+      are very great, far greater than we had considered just weeks ago. That is what
+      caused me to change my opinion on the go-slow, reasonable, only-adult-in- the-room,
+      a description of Mr. Putin. Napolitano: 19:14 Got it. I know you’re taking a lot
+      of hits from a lot of people that I respect. I want you to know that I respect
+      your intellectual honesty. And of course, this is all very good for our viewers
+      to hear a variety of views on a variety of topics. And I look forward to seeing
+      you next week. Thank you, Professor. Doctorow: Yeah, very good, bye bye. Napolitano:
+      All the best. Coming up later today on this and all the other topics we’ve been
+      discussing all week, at 11 o’clock, Colonel Douglas Macgregor. At one o’clock,
+      Aaron Maté. At two o’clock, Professor Glenn Diesen. At three o’clock, Phil Giraldi.
+      19:51 Judge Napolitano for “Judging Freedom”.'
+    one_sentence_summary: In a discussion about President Putin's potential departure
+      from office, Professor Doctorow suggests that Putin may realize his inability
+      to effectively address rising Western threats and the need for a leadership transition
+      to a more capable younger generation.
+    paragraph_summary: In a recent discussion, Professor Doctorow shared his perspective
+      on whether President Putin might voluntarily step down before the end of his term,
+      suggesting that Putin may soon recognize the untenable nature of his position
+      due to increasing threats from the West and his inability to maintain effective
+      deterrence. Doctorow noted that after 25 years in power, Putin's administration
+      has accumulated inefficiencies, and it may be time for him to hand over leadership
+      to a younger, capable generation, including figures like Prime Minister Mishustin
+      and Moscow Mayor Sobyanin. While Doctorow acknowledged that this viewpoint is
+      not widely discussed in public discourse, he emphasized that the truth of the
+      situation is not determined by popularity.
+    published: '2025-10-08T18:18:19+00:00'
+  - title: Transcript of ‘Judging Freedom’ edition of 8 October 2025
+    url: https://gilbertdoctorow.com/2025/10/08/transcript-of-judging-freedom-edition-of-8-october-2025/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=3jqr9PzL1gY
+      Napolitano: 0:05 All right, thank you, everyone, for your patience. Professor
+      Doctorow, thank you for your understanding. These gremlins happen from time to
+      time. You were giving your opinion about whether or not President Putin will voluntarily
+      leave office before the end of his term, and if so, why? Doctorow: Well, I think
+      he will come to the realization that his inability to respond appropriately to
+      the threats that are rising daily from the West, and his inability to exercise
+      deterrence and to keep it in place, make his position untenable. He has been 25
+      years in service. The SS Putin has grown a lot of barnacles which slow its navigation
+      through troubled waters and it is likely the moment has arrived, or will soon
+      arrive, for him to pass the baton to a younger generation. The younger generation
+      is not going to be in 30s or 40s, but they’ll be in their 50s, and they are not
+      hidden. They are visible. There are very capable people to replace him in the
+      management of domestic affairs. 1:24 His prime minister, Mishustin, the mayor
+      of Moscow, Sobyanin, they are world class managers and government people who travel
+      widely, who meet extensively throughout Russia and in the near abroad, the Russia-friendly
+      abroad. In the foreign ministry, Mr. Lavrov has an immediate replacement by somebody
+      much more vigorous and appropriate to the age we live in. And that is Mr. Ryabkov,
+      whose name, of course, will be familiar to you. Napolitano: 1:56 Let me stop you
+      here. Is there widespread talk about this, or is this view unique to a small number
+      of people? As you know from other people who appear on this show who respect you,
+      nobody else is saying this. Doctorow: Well, truth is not a popularity contest.
+      Napolitano: Understood, but I just want to know if it’s a widely held view. Doctorow:
+      No, I cannot say yes or no, because it’s the kind of question that is not publicly
+      discussed. That doesn’t mean that the question doesn’t exist and that people aren’t
+      talking about it over the kitchen table. I don’t mean the man in the street, but
+      I mean the political classes. They’re not stupid. They’re aware of the risks,
+      and I think they are nervous. Let me just say that I’m not drawing this conclusion,
+      which just took a long time to mature, out of thin air. As your program, one or
+      two other programs that I appear in that have large audiences are now being dubbed
+      into Russian. Each of these programs, like the last one that we had a week ago,
+      had twice as many Russian viewers as the English original. We’re speaking of 150,000
+      people. Now, when you speak about a poll, a number like 75,000, 100,000, 150,000,
+      that is an unusually large audience for polling. And I look at two issues that
+      tell me which way the wind is blowing. One is the comments, I’m speaking now of
+      the Russian version of “Judging Freedom”, which you don’t produce, but there is
+      a group called In Russian which produces it very well using artificial intelligence.
+      And I look at two indices. One is the comments, which are almost, I’d say, three
+      quarters negative. 3:56 They are by, I’d say, simple people, judging by the grammatical
+      mistakes and the language used. They are by simple patriots who reject out of
+      hand and without even listening to more than a few minutes of your program, they
+      decide that we Westerners are idiots, will never understand Russian, that only
+      Russians can understand Russian, and so forth. Then I look at the other index,
+      which is the thumbs up. The thumbs up is systematically two times or three times
+      bigger than these comments by redneck patriots. That tells me something. People
+      who are watching your program in Russian, they are, I’d call them, they’re politically
+      active, politically interested. And people who bother to give any kind of response,
+      whether a thumbs up down or a comment, are more active bodies. So we’re speaking
+      of several percent. It’s never 10%, it’s less, who actually bother to comment.
+      Well, when I see that, these numbers– Napolitano: There’s a conversation about
+      President Putin’s tenure in office while he’s experiencing an 80% approval rating
+      is not a general public one. It may be whispered in, as you say, at kitchen tables.
+      Doctorow: Yeah. The 80%, I’m sure, is accurate, but they’re not asking the right
+      question. They’re asking, is he doing a good job? Well, if you are looking at
+      your paycheck and you’re getting three times now a salary, what you got before
+      the start of the war, if you’re employed now in a small town that was once an
+      industrial town and became laid waste in the 1990s and has revived since the start
+      of the war because of industrial production being subcontracted to local factories,
+      then you’re pretty happy. 5:44 When you have money in the bank and you’re getting
+      20% interest annually, you don’t mind the 8% inflation. So for this reason, if
+      you ask the average guy in the street about his [glitch] about [do you] approve
+      of Putin, he’ll say yes. Now, if you ask the politically active class, that’s
+      a different story. They’re interested in Russia’s prestige and they’re interested
+      in the risk factor of is this tenable? And they are the ones who are giving two-to-
+      one approval of a conversation that you and I have in which I’m questioning Mr.
+      Putin’s speech at the Valdai conference. What was wrong with the speech was he
+      put Russia’s fate in the hands of Mr. Trump, which is a very foolish thing to
+      do. Napolitano: Let me read what you wrote about this. This is a rather profound
+      statement. Forgive me for looking down. I want to read it precisely. This is what
+      you sent me the other day. [Doctorow]: “If Mr. Putin continues to put Russia’s
+      fate in the hands of Donald Trump by accepting each further escalation from the
+      West, including those enabled by the American president himself, such as secondary
+      sanctions and delivery of long-range missiles to Ukraine, then Russia is doomed.”
+      Napolitano: What do you mean by that? Doctorow: 7:04 I mean that the very risky
+      probing, poking at Russia is accelerating, and I see the future taking shape.
+      On this program and others, the panelists [are] generally looking at the next
+      few weeks. I was one of those. [By] trying to stand out as having been so much
+      more penetrating in my view of things than my peers, I was saying to them, “Well,
+      looking at the progress on the ground, looking at the heavy losses of the Ukrainians
+      on the front, the war will probably come to a culmination in a few weeks to months.”
+      However, in the last several weeks, the picture has changed a bit. First of all,
+      that knowledge that the war is going badly [for] Ukraine has penetrated the skulls
+      of the NATO leadership and of the biggest influencers of EU policies, the leaders
+      of France and Germany. And the result is that they are putting together something
+      that is now clear to anyone who wants to read the handwriting on the wall. And
+      so let me give the eyeglasses to read that handwriting. 8:25 That Europe is now
+      ready to essentially confiscate the 145 billion euros in Russian state assets
+      in EuroClear in Belgium for the sake of so-called collateral for a loan to Ukraine
+      that will never be repaid. This is a very refined way of getting around the question
+      of confiscation of state assets, but it comes to the same thing. And if Russia
+      were to say openly what Mr. Putin is unable to or unwilling to say, that this
+      is confiscation of assets and it is an act of war– There are a number of things
+      that are going on which in normal international relations are considered a casus
+      belli. The so-called piracy of the French had on this what they assumed to have
+      been a Russian shadow fleet tanker. That is [in] normal international relations,
+      the cause of declaring war. Napolitano: 9:25 Right. Right. Will the theft of 165
+      billion in Russian state assets in European banks– this is the $64,000 question–
+      be deemed by the Kremlin an act of war? Will the ramping up of German arms manufacturers
+      who are making weapons that will be aimed at Moscow be considered an act of war,
+      and should they be stopped before they complete their tasks? Doctorow: 9:53 This
+      is the very reason why I’m saying that Mr. Putin should reconsider his staying
+      in office, because he has aligned himself– going back to 2016 when Mr. Obama confiscated
+      Russian embassy properties in the United States in strict violation of all international
+      relations, he put up with that. And Mr. Putin has put up with a great many acts
+      of aggression against Russia, which normally could and should be declared a casus
+      belli. Even last week at Sochi, he was asked about the Tomahawks, and he said
+      on camera in front of the audience, he said, “Yes, this will seriously damage
+      our relations with the United States.” Napolitano: Yes. Doctorow: It’s a very
+      interesting thing to say, when a year ago he said, “We will respond with armed
+      force against the United States because we were talking about long-range missiles
+      in case they are used by Ukraine, supposedly used by them, but actually used by
+      Americans operating those missiles against us.” Now, after he walked off the stage
+      at Sochi, He had a little exchange with a journalist who was a hound dog. He was
+      with him all the time. A certain Popov Zarubin, who asked him that same question.
+      And first, he was relaxed. He just came off the stage. He was very happy. And
+      his answer to Zarubin was that if the United States uses those missiles, it will
+      destroy our relationship. 11:36 Then a second later, he backed up. He said, “Oh
+      no, no, it will damage….” I’m sorry, which is it, Mr. Putin? Damage or destroy?
+      They’re very different. And if on such an issue, vital to Russia’s defense, Mr.
+      Putin waffles, I think he should consider that he should leave in grace. Napolitano:
+      Yesterday, October 7th, was Vladimir Putin’s birthday. Here’s what the “Moscow
+      Times” wrote. Now I’m reading an English translation, obviously. [Moscow Times]:
+      “Under constitutional changes he pushed through in 2020, Putin could remain in
+      power until 2036 when he will be 83 years old, with no sign he wants to step down.
+      That would make him the longest-ruling leader in Russian history, surpassing Joseph
+      Stalin.” Napolitano: 12:36 All right. So obviously there is talk out there if
+      the “Moscow Times” is alluding to it. Doctorow: Look, let’s look at the picture.
+      I just said that there’s a constellation that’s formed in the last several weeks.
+      I mentioned the first part of it, but I didn’t say where it leads. It’s 145 billion
+      euros that the EU wants to take over to provide Ukraine with assistance. Napolitano:
+      It’s theft. It’s outright theft. And I would think that Putin will declare it
+      as that. The question is, will he declare it as an act of war? But go ahead. Doctorow:
+      The issue is, what will that money do? It’s enough to keep Ukraine going for three
+      years, or four years. They’re not going to just hand it to Mr. Zelensky in one
+      go. So they know very well they want to feed it to him to be sure the war keeps
+      going, until when and why? We’ve heard enough the figure 2029 is the time when
+      Mr. Merz says that Russia will attack. Well, it’s not Russia that’s going to attack.
+      It’s Mr. Merz that wants to attack Russia. And they’re the warmongers, and Merz
+      is a lead warmonger, but not the only one, that want to have a war with Russia,
+      conventional war, four years from now. 13:55 Now, if they give Mr. Zelensky this
+      money to keep his troops fighting until then, well, you see it. It’s a bridging
+      loan for Europe to keep Russia distracted with this war of attrition in Ukraine,
+      while they gear up to attack Russia. Now, some of my peers have spoken of Europe
+      very dismissively. Russian experts who are on Russian state television are not
+      so dismissive. When Mr. Merz puts up one trillion euros to raise military production
+      in Germany, and when you consider that Germany is not de-industrialized yet, and
+      has a very strong capability of using all of its automotive industry, idle factory,
+      employees and machinery, and other heavy industry that still has not gone to rust,
+      to create arms — well, the Russians who are thinking Russians and get a microphone
+      also express concern. And I think they were right. 15:05 Now, I don’t believe
+      that it will come up to that point. I think Mr. Putin will either become a changed
+      man and ready to openly set, follow his lines, red lines, and defend them, or
+      he’ll be out. Napolitano: What is the true goal of the EU warmongers? Do they
+      really want a war with the Russian military? Is this a scheme to enrich their
+      arms manufacturers? Is there some long-term NATO, Donald Trump- related goal?
+      What does Starmer, Macron– and Macron of course has his own very serious problems–
+      and Merz really want? Doctorow: 15:51 Over the last 20 years, progressively the
+      EU has turned from an economic project into a geopolitical project. This has been
+      accelerated under von der Leyen, who has virtually merged NATO with the EU institutions.
+      Consequently, the leaders of the European states collectively want to assert a
+      geopolitical role for Europe, which can be done by humbling Russia. I have peers
+      who speak about the military- industrial complex in Europe as if that is driving
+      things. I don’t agree at all. The military- industrial complex is now being raised
+      from the dead by the political leaders who are doing this for their own purposes.
+      Mr. Netanyahu is not the only person on earth who engages in military action for
+      the sake of keeping himself in power. 16:56 If you look at European leaders today,
+      that’s exactly the game they’re playing. Now, von der Leyen took it to extremes
+      by saying, “Oh, we have these great challenges. We have to keep ourselves together”,
+      means locked arms, under her stewardship. That’s being challenged by Mr. Merz.
+      But the general idea of Europe as a geopolitical force is very much the order
+      of the day among the top leaders in Europe who want to keep their positions. Napolitano:
+      Wow. What do you think will happen with respect to the remilitarization by three
+      very unpopular leaders, Merz, Starmer, and Macron? Stated differently– we only
+      have about two minutes left before I have another commitment. My apologies because
+      of the problem with the internet, which we’ve overcome thanks to Chris. Will this
+      remilitarization repopularize these leaders domestically? Doctorow: 18:01 It depends
+      how they play their hand. If they can continue to play this war hysteria, which
+      is going wild here in Europe with Russian drones in everybody’s back yard, then
+      they can instill a fear in the broad population and proceed with their militarization
+      successfully. I don’t know if they have the wisdom or the advisors at their side
+      to help them do it. And there are serious problems within EU, as we saw with the
+      victory of Mr. Babish in Slovakia, creating a triad of Hungary, Slovakia, and
+      Czech Republic. I’m sorry, I meant this Czech Republic. Those three, who are your
+      skeptics and who are a stumbling block for the warmongers led by von der Leyen.
+      So how this will play out, nobody can say with absolute certainty, but the risks
+      are very great, far greater than we had considered just weeks ago. That is what
+      caused me to change my opinion on the go-slow, reasonable, only-adult-in- the-room,
+      a description of Mr. Putin. Napolitano: 19:14 Got it. I know you’re taking a lot
+      of hits from a lot of people that I respect. I want you to know that I respect
+      your intellectual honesty. And of course, this is all very good for our viewers
+      to hear a variety of views on a variety of topics. And I look forward to seeing
+      you next week. Thank you, Professor. Doctorow: Yeah, very good, bye bye. Napolitano:
+      All the best. Coming up later today on this and all the other topics we’ve been
+      discussing all week, at 11 o’clock, Colonel Douglas Macgregor. At one o’clock,
+      Aaron Maté. At two o’clock, Professor Glenn Diesen. At three o’clock, Phil Giraldi.
+      19:51 Judge Napolitano for “Judging Freedom”.'
+    one_sentence_summary: In a discussion about President Putin's potential departure
+      from office, Professor Doctorow suggests that Putin may realize his inability
+      to effectively address rising Western threats and the need for a leadership transition
+      to a more capable younger generation.
+    paragraph_summary: In a recent discussion, Professor Doctorow shared his perspective
+      on whether President Putin might voluntarily step down before the end of his term,
+      suggesting that Putin may soon recognize the untenable nature of his position
+      due to increasing threats from the West and his inability to maintain effective
+      deterrence. Doctorow noted that after 25 years in power, Putin's administration
+      has accumulated inefficiencies, and it may be time for him to hand over leadership
+      to a younger, capable generation, including figures like Prime Minister Mishustin
+      and Moscow Mayor Sobyanin. While Doctorow acknowledged that this viewpoint is
+      not widely discussed in public discourse, he emphasized that the truth of the
+      situation is not determined by popularity.
+    published: '2025-10-08T18:18:19+00:00'
+  - title: '‘Judging Freedom’ edition of 8 October 2025: Is Putin stable?'
+    url: https://gilbertdoctorow.com/2025/10/08/judging-freedom-edition-of-8-october-2025-is-putin-stable/
+    text: '‘Judging Freedom’ edition of 8 October 2025: Is Putin stable? I recommend
+      this interview to the Community because Judge Andrew Napolitano and I discuss
+      openly and in a focused way the reasons why Vladimir Putin should resign and pass
+      the baton to a younger generation of experienced, talented, patriotic and decisive
+      officials who have proven their worth in office these past several years and who
+      surely will be more decisive than he appears to be in defending Russia’s deterrence
+      to Western aggression I have reached this conclusion after much reflection upon
+      seeing the formation of a constellation of threats to Russia, now that European
+      leaders seem determined to confiscate the 145 billion euros in Russian state assets
+      for the sake of keeping Ukraine in the fight through 2029 when the Europeans expect
+      that their current massive rearmament programs will enable them to impose a strategic
+      defeat on Russia using conventional weapons and without U.S. participation.'
+    one_sentence_summary: In the 'Judging Freedom' edition of 8 October 2025, the discussion
+      between Judge Andrew Napolitano and the author emphasizes the need for Vladimir
+      Putin to resign in favor of a younger, more decisive leadership to effectively
+      address the growing threats to Russia, particularly in light of European efforts
+      to seize Russian assets to support Ukraine.
+    paragraph_summary: In the October 8, 2025 edition of 'Judging Freedom,' Judge Andrew
+      Napolitano and the author discuss the pressing need for Vladimir Putin to resign
+      in favor of a younger, more capable leadership that can effectively address the
+      growing threats to Russia. The conversation highlights concerns over European
+      leaders' intentions to seize 145 billion euros in Russian state assets to support
+      Ukraine until 2029, as they anticipate that their rearmament efforts will allow
+      them to achieve a strategic victory over Russia without U.S. involvement. The
+      author argues that a new generation of experienced and decisive officials would
+      be better equipped to defend Russia's interests against Western aggression.
+    published: '2025-10-08T13:02:25+00:00'
+  - title: '‘Judging Freedom’ edition of 8 October 2025: Is Putin stable?'
+    url: https://gilbertdoctorow.com/2025/10/08/judging-freedom-edition-of-8-october-2025-is-putin-stable/
+    text: '‘Judging Freedom’ edition of 8 October 2025: Is Putin stable? I recommend
+      this interview to the Community because Judge Andrew Napolitano and I discuss
+      openly and in a focused way the reasons why Vladimir Putin should resign and pass
+      the baton to a younger generation of experienced, talented, patriotic and decisive
+      officials who have proven their worth in office these past several years and who
+      surely will be more decisive than he appears to be in defending Russia’s deterrence
+      to Western aggression I have reached this conclusion after much reflection upon
+      seeing the formation of a constellation of threats to Russia, now that European
+      leaders seem determined to confiscate the 145 billion euros in Russian state assets
+      for the sake of keeping Ukraine in the fight through 2029 when the Europeans expect
+      that their current massive rearmament programs will enable them to impose a strategic
+      defeat on Russia using conventional weapons and without U.S. participation.'
+    one_sentence_summary: In the 'Judging Freedom' edition of 8 October 2025, the discussion
+      between Judge Andrew Napolitano and the author emphasizes the need for Vladimir
+      Putin to resign in favor of a younger, more decisive leadership to effectively
+      address the growing threats to Russia, particularly in light of European efforts
+      to seize Russian assets to support Ukraine.
+    paragraph_summary: In the October 8, 2025 edition of 'Judging Freedom,' Judge Andrew
+      Napolitano and the author discuss the pressing need for Vladimir Putin to resign
+      in favor of a younger, more capable leadership that can effectively address the
+      growing threats to Russia. The conversation highlights concerns over European
+      leaders' intentions to seize 145 billion euros in Russian state assets to support
+      Ukraine until 2029, as they anticipate that their rearmament efforts will allow
+      them to achieve a strategic victory over Russia without U.S. involvement. The
+      author argues that a new generation of experienced and decisive officials would
+      be better equipped to defend Russia's interests against Western aggression.
+    published: '2025-10-08T13:02:25+00:00'
+  - title: 'Ukraine to Boost Natural Gas Imports by 30% Amid Escalating Russian Airstrikes:
+      NewsX World, 7 October'
+    url: https://gilbertdoctorow.com/2025/10/08/ukraine-to-boost-natural-gas-imports-by-30-amid-escalating-russian-airstrikes-newsx-world-7-october/
+    text: We heard about devastating Russian airstrikes against Ukrainian energy infrastructure
+      a day ago. The Ukrainians meanwhile claim that their drone and missile attacks
+      have crippled Russia’s refineries and forced Moscow to import gasoline! In this
+      8 minute interview I bring the two stories together and comment on what is true,
+      what is false. However, I emphasize here that the Russian side has been very sparing
+      in its discussion of the Ukrainian strikes on refineries and other energy infrastructure
+      inside the RF.  They do not talk about the likely US-guided Himars strike on a
+      refinery. The only open discussion relating to the subject of Ukrainian attacks
+      has been the message from Moscow that the refiners, which are private, not government
+      legal entities, should now put up the cash to protect their assets from Ukrainian
+      drone attacks. In short, the subject under discussion here bears on the question
+      of whether Russia is really winning the war, not to say whether it has won the
+      war as certain loudmouths interviewed by authoritative youtube channel hosts are
+      saying day after day.
+    one_sentence_summary: The article discusses the contrasting narratives of Russian
+      airstrikes on Ukrainian energy infrastructure and Ukrainian drone attacks on Russian
+      refineries, highlighting the limited Russian acknowledgment of the latter and
+      questioning the overall perception of Russia's success in the war.
+    paragraph_summary: The article discusses the recent escalation in the conflict between
+      Russia and Ukraine, highlighting devastating Russian airstrikes on Ukrainian energy
+      infrastructure and Ukraine's claims of successful drone and missile attacks on
+      Russian refineries, which have allegedly forced Russia to import gasoline. The
+      author analyzes the narratives from both sides, noting that Russia has been reticent
+      about acknowledging the impact of Ukrainian strikes on its energy facilities,
+      particularly regarding a US-guided Himars strike on a refinery. Instead, Moscow
+      has suggested that private refinery owners should invest in protecting their assets
+      from Ukrainian attacks. The discussion raises questions about the true state of
+      the war, challenging assertions from some commentators that Russia is winning
+      or has already won the conflict.
+    published: '2025-10-08T06:45:26+00:00'
+  - title: 'Ukraine to Boost Natural Gas Imports by 30% Amid Escalating Russian Airstrikes:
+      NewsX World, 7 October'
+    url: https://gilbertdoctorow.com/2025/10/08/ukraine-to-boost-natural-gas-imports-by-30-amid-escalating-russian-airstrikes-newsx-world-7-october/
+    text: We heard about devastating Russian airstrikes against Ukrainian energy infrastructure
+      a day ago. The Ukrainians meanwhile claim that their drone and missile attacks
+      have crippled Russia’s refineries and forced Moscow to import gasoline! In this
+      8 minute interview I bring the two stories together and comment on what is true,
+      what is false. However, I emphasize here that the Russian side has been very sparing
+      in its discussion of the Ukrainian strikes on refineries and other energy infrastructure
+      inside the RF.  They do not talk about the likely US-guided Himars strike on a
+      refinery. The only open discussion relating to the subject of Ukrainian attacks
+      has been the message from Moscow that the refiners, which are private, not government
+      legal entities, should now put up the cash to protect their assets from Ukrainian
+      drone attacks. In short, the subject under discussion here bears on the question
+      of whether Russia is really winning the war, not to say whether it has won the
+      war as certain loudmouths interviewed by authoritative youtube channel hosts are
+      saying day after day.
+    one_sentence_summary: The article discusses the contrasting narratives of Russian
+      airstrikes on Ukrainian energy infrastructure and Ukrainian drone attacks on Russian
+      refineries, highlighting the limited Russian acknowledgment of the latter and
+      questioning the overall perception of Russia's success in the war.
+    paragraph_summary: The article discusses the recent escalation in the conflict between
+      Russia and Ukraine, highlighting devastating Russian airstrikes on Ukrainian energy
+      infrastructure and Ukraine's claims of successful drone and missile attacks on
+      Russian refineries, which have allegedly forced Russia to import gasoline. The
+      author analyzes the narratives from both sides, noting that Russia has been reticent
+      about acknowledging the impact of Ukrainian strikes on its energy facilities,
+      particularly regarding a US-guided Himars strike on a refinery. Instead, Moscow
+      has suggested that private refinery owners should invest in protecting their assets
+      from Ukrainian attacks. The discussion raises questions about the true state of
+      the war, challenging assertions from some commentators that Russia is winning
+      or has already won the conflict.
+    published: '2025-10-08T06:45:26+00:00'
   - title: Transcript of NewsX World interview, 6 October
     url: https://gilbertdoctorow.com/2025/10/08/transcript-of-newsx-world-interview-6-october/
     text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=zLoEkNyU4vw
