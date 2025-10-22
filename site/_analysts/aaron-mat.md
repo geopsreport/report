@@ -7,16 +7,88 @@ description: "Journalist and producer; covers US foreign policy, Russiagate, and
 websites:
   - https://www.aaronmate.net/
 summary: |
-  The latest developments in the Middle East and Eastern Europe continue to underscore the fragility of recent diplomatic efforts and the persistence of underlying geopolitical tensions.
+  The geopolitical landscape remains volatile as the Trump administration continues to recalibrate US foreign policy in several conflict zones. The latest developments center on Ukraine, Gaza, and the shifting alliances in the Middle East.
   
-  President Trump’s recently brokered ceasefire between Israel and Hamas has temporarily halted large-scale violence in Gaza. However, as **Aaron Maté** reports, the deal “fails to address the underlying issues of Israeli occupation and Palestinian self-determination,” with Israel already restricting aid and continuing attacks in violation of the agreement’s terms. This pattern suggests the ceasefire is unlikely to yield lasting peace, as the core grievances remain unaddressed. There is a high chance that, absent meaningful negotiations on Palestinian rights, the ceasefire will unravel or be punctuated by further escalations.
+  President Trump has firmly rejected Ukrainian President Zelensky's request for long-range US Tomahawk missiles, instead urging Kyiv to consider ceding the Donbas region to Russia in pursuit of a diplomatic resolution. **Aaron Maté** notes that this move signals a clear US pivot away from direct military escalation, despite persistent pressure from Washington’s "war lobby" to avoid any perception of defeat. This stance is likely to deepen divisions within the US establishment, but it reflects growing skepticism about the viability of continued large-scale support for Ukraine.
   
-  In Ukraine, President Trump has shifted from advocating new sanctions against Russia to expressing confidence in Ukraine’s ability to reclaim territory with EU support, while openly questioning Russia’s military strength. This new stance, welcomed by Ukrainian President Zelensky, marks a notable change in US policy. **Aaron Maté** notes that this reflects “the changing dynamics on the battlefield,” but also complicates prospects for a negotiated settlement. The majority view among analysts is that the conflict is set to continue, with a high chance of prolonged hostilities as both sides remain entrenched.
+  In Gaza, the ceasefire brokered by President Trump remains fragile. While violence has temporarily subsided, **Aaron Maté** emphasizes that the deal fails to address the core issues of Israeli occupation and Palestinian self-determination. Israeli authorities have already been accused of violating the agreement by restricting humanitarian aid and continuing military operations. The majority view among analysts is that this ceasefire is unlikely to bring lasting peace, as the fundamental grievances remain unaddressed.
   
-  Meanwhile, Syria has entered a new phase in its international relations. The US recently hosted Ahmed al-Sharaa (Mohammed al-Jolani), Syria’s new president and former Al Qaeda leader, following his removal from the US terrorism list after his role in the overthrow of Bashar al-Assad. This historic visit signals a dramatic realignment in US-Syrian relations, though it has sparked controversy given al-Sharaa’s militant background. The majority opinion is that this move is likely to further destabilize the region and deepen sectarian divides within Syria, with a high chance of increased internal violence in the near term.
+  Meanwhile, the US’s engagement with Syria has entered uncharted territory. The historic visit of Syrian President Ahmed al-Sharaa (formerly Mohammed al-Jolani) to Washington, following his removal from the US terrorism list, marks a dramatic shift in US policy. This move, as previously reported, underscores the transactional nature of current alliances, with the US prioritizing short-term strategic gains over longstanding principles.
   
-  In summary, while headline-grabbing deals and diplomatic overtures continue, the underlying causes of conflict in Gaza, Ukraine, and Syria remain unresolved. The prevailing trend is one of temporary fixes rather than durable solutions. There is a high chance that, without addressing root causes, these crises will persist or escalate in the coming months.
+  Looking ahead, the trends point to a high likelihood of continued instability in both Ukraine and Gaza, with diplomatic solutions hampered by unresolved core disputes. The US is expected to maintain a pragmatic, deal-oriented approach, with **Aaron Maté** predicting with high confidence that “the underlying causes of these conflicts will remain unaddressed, guaranteeing further cycles of crisis.” The realignment of US policy in Syria suggests further unpredictability in the region, as new power dynamics take shape.
 articles:
+  - title: Trump rejects Zelensky on Tomahawks, but Washington's war lobby refuses to
+      "lose"
+    url: https://www.aaronmate.net/p/trump-rejects-zelensky-on-tomahawks
+    text: (Photo by Win McNamee/Getty Images) Ukrainian president Volodymyr Zelensky
+      was hoping to leave the White House on Friday with a commitment for long-range
+      US Tomahawk missiles that can strike Russia. Instead, Zelensky once again found
+      himself on the losing end of his strained relationship with President Trump. After
+      musing about providing Tomahawks and even declaring that Ukraine was positioned
+      to recapture all of its territory, Trump rejected Zelensky’s request and urged
+      him to cede the Donbas region to Moscow. “[Trump] said Putin will destroy you
+      if you don’t agree now,” a source told the Washington Post . “It was pretty much
+      like ‘no, look guys, you can’t possibly win back any territory. … There is nothing
+      we can do to save you. You should try to give diplomacy another chance.’” According
+      to a European official, Trump is now “saying the U.S. needs Tomahawks, and doesn’t
+      want to escalate.” Trump’s renewed aversion to escalation followed a phone call
+      with Russian President Vladimir Putin, who initiated the conversation to lobby
+      against Zelensky’s request. Putin likely conveyed a stark warning. For Ukraine
+      to fire Tomahawks at Russia, the US military would have to do the job inside Ukrainian
+      territory. And because the Tomahawks are technically nuclear-capable, Russia,
+      by its own military doctrine and the logic of basic deterrence, would have to
+      fire back beyond Ukraine. Given the abundance of US military assets near its borders,
+      Russia would have no shortage of targets. Read more
+    one_sentence_summary: Ukrainian President Volodymyr Zelensky's request for long-range
+      US Tomahawk missiles was rejected by President Trump, who instead suggested that
+      Zelensky cede the Donbas region to Russia, emphasizing a need for diplomacy and
+      expressing concerns about escalating tensions.
+    paragraph_summary: Ukrainian President Volodymyr Zelensky's visit to the White House
+      aimed to secure a commitment for long-range US Tomahawk missiles to aid Ukraine
+      in its conflict with Russia, but he faced rejection from President Trump, who
+      advised him to consider ceding the Donbas region to Moscow. Trump warned Zelensky
+      that without a diplomatic agreement, Russia would likely destroy Ukraine, emphasizing
+      that the US could not provide the military support needed to reclaim lost territory.
+      This shift in Trump's stance followed a conversation with Russian President Vladimir
+      Putin, who opposed the missile request and highlighted the potential escalation
+      of conflict that could arise from Ukraine using Tomahawks against Russia.
+    published: '2025-10-20T22:39:07+00:00'
+  - title: Trump rejects Zelensky on Tomahawks, but Washington's war lobby refuses to
+      "lose"
+    url: https://www.aaronmate.net/p/trump-rejects-zelensky-on-tomahawks
+    text: (Photo by Win McNamee/Getty Images) Ukrainian president Volodymyr Zelensky
+      was hoping to leave the White House on Friday with a commitment for long-range
+      US Tomahawk missiles that can strike Russia. Instead, Zelensky once again found
+      himself on the losing end of his strained relationship with President Trump. After
+      musing about providing Tomahawks and even declaring that Ukraine was positioned
+      to recapture all of its territory, Trump rejected Zelensky’s request and urged
+      him to cede the Donbas region to Moscow. “[Trump] said Putin will destroy you
+      if you don’t agree now,” a source told the Washington Post . “It was pretty much
+      like ‘no, look guys, you can’t possibly win back any territory. … There is nothing
+      we can do to save you. You should try to give diplomacy another chance.’” According
+      to a European official, Trump is now “saying the U.S. needs Tomahawks, and doesn’t
+      want to escalate.” Trump’s renewed aversion to escalation followed a phone call
+      with Russian President Vladimir Putin, who initiated the conversation to lobby
+      against Zelensky’s request. Putin likely conveyed a stark warning. For Ukraine
+      to fire Tomahawks at Russia, the US military would have to do the job inside Ukrainian
+      territory. And because the Tomahawks are technically nuclear-capable, Russia,
+      by its own military doctrine and the logic of basic deterrence, would have to
+      fire back beyond Ukraine. Given the abundance of US military assets near its borders,
+      Russia would have no shortage of targets. Read more
+    one_sentence_summary: Ukrainian President Volodymyr Zelensky's request for long-range
+      US Tomahawk missiles was rejected by President Trump, who instead suggested that
+      Zelensky cede the Donbas region to Russia, emphasizing a need for diplomacy and
+      expressing concerns about escalating tensions.
+    paragraph_summary: Ukrainian President Volodymyr Zelensky's visit to the White House
+      aimed to secure a commitment for long-range US Tomahawk missiles to aid Ukraine
+      in its conflict with Russia, but he faced rejection from President Trump, who
+      advised him to consider ceding the Donbas region to Moscow. Trump warned Zelensky
+      that without a diplomatic agreement, Russia would likely destroy Ukraine, emphasizing
+      that the US could not provide the military support needed to reclaim lost territory.
+      This shift in Trump's stance followed a conversation with Russian President Vladimir
+      Putin, who opposed the missile request and highlighted the potential escalation
+      of conflict that could arise from Ukraine using Tomahawks against Russia.
+    published: '2025-10-20T22:39:07+00:00'
   - title: Gaza deal takes effect, with underlying causes unchanged
     url: https://www.aaronmate.net/p/gaza-deal-takes-effect-with-underlying
     text: '(Photo by BASHAR TALEB/AFP via Getty Images) After two years of Israeli mass

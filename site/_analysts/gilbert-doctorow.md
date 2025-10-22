@@ -7,17 +7,2354 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  As the Ukraine conflict enters a critical phase in mid-October 2025, the geopolitical landscape is marked by intensifying military exchanges, shifting Western engagement, and growing questions over Russian leadership. Recent days have seen notable developments in both diplomatic and military spheres, with significant implications for the trajectory of the war.
+  The Ukraine conflict remains the central focus of geopolitical analysis, with recent discussions intensifying around the risk of escalation and the broader implications for global security. Over the past 24 hours, independent analyst **Gilbert Doctorow** has highlighted several key developments and strategic assessments.
   
-  The most recent reports highlight a direct conversation between Ukrainian President Zelensky and former US President Trump regarding enhanced air defenses and long-range strike capabilities. **Gilbert Doctorow** interprets Trump’s willingness to consider increased military support for Ukraine as a pointed warning to Moscow, suggesting that Washington’s posture could harden if the conflict persists. Doctorow draws a parallel to Gorbachev’s miscalculations in the late Soviet era, warning that Putin’s seemingly relaxed response may reflect a dangerous underestimation of Western resolve.
+  Most notably, in his latest interview with IranTalks, **Doctorow** underscores the persistent ineffectiveness of Western strategies against Russia, warning that the conflict’s current trajectory risks spiraling into a wider war. He points to the failure of hybrid warfare and sanctions to alter Russian behavior, suggesting that Western policymakers have underestimated both Russia’s resilience and its willingness to escalate if pressured further. “The potential escalation of the Ukraine conflict into World War III must be taken seriously,” he states, emphasizing that the underlying factors prolonging the war—such as entrenched positions and external support—show no signs of abating.
   
-  Meanwhile, Russian forces have escalated their campaign against Ukrainian energy infrastructure, prompting Kyiv to seek a 30% boost in natural gas imports from Europe. This development comes as Ukraine’s own counterattacks on Russian refineries—often using Western-supplied weaponry—remain underreported in Russian media. Doctorow notes the reciprocal nature of these strikes, but also points out the lack of clarity in Western narratives about who initiates these escalations.
+  Additionally, **Doctorow**’s recent commentary explores the evolving role of Iran in the emerging world order. He notes that Iran’s alignment with Russia and its growing influence in regional security arrangements are reshaping the balance of power, particularly as Western leverage in the region diminishes. This trend is seen as a direct consequence of the West’s focus on Ukraine and its inability to contain the broader realignment among non-Western states.
   
-  On the leadership front, there is growing debate about President Putin’s capacity to navigate Russia through mounting external pressures. In a recent discussion, Doctorow suggests that Putin may soon recognize his limitations in countering Western threats, particularly as European states move to seize Russian assets in support of Ukraine. The consensus among analysts is that a transition to a younger, more decisive Russian leadership is increasingly likely, with Doctorow stating there is a “high chance” this will occur if the current trajectory continues.
+  On the information front, **Doctorow** also addresses the shifting landscape of media consumption in Russia and beyond. He observes that while state television remains influential among older audiences, younger generations are increasingly turning to social media and alternative platforms for news, complicating efforts to gauge public sentiment and official policy directions.
   
-  **Trends and Predictions:**  
-  The conflict is poised to intensify, with both sides escalating attacks on critical infrastructure and Western involvement potentially deepening. The likelihood of a significant shift in Russian leadership is rising, as internal and external pressures converge. Based on the majority of expert assessments, there is a high chance that the coming weeks will see further escalation and a possible recalibration of Russia’s strategic approach—either through leadership change or a more aggressive military posture. I guarantee that Western military and financial support for Ukraine will remain a decisive factor shaping the conflict’s outcome.
+  Looking ahead, the majority view among analysts, as reflected in **Doctorow**’s assessments, is that the Ukraine war is set to continue with high risk of further escalation. There is a high chance that diplomatic efforts will stall unless there is a significant shift in U.S. or Russian policy. “I guarantee that absent a major change in strategy, the conflict will persist and the risk of a broader confrontation will only grow,” **Doctorow** concludes.
+  
+  In summary, the latest developments point to a protracted and increasingly dangerous standoff, with little optimism for a negotiated settlement in the near term. The alignment of Russia and Iran, coupled with the West’s strategic missteps, is likely to further destabilize the international order in the months ahead.
 articles:
+  - title: Transcript of the IranTalks interview
+    url: https://gilbertdoctorow.com/2025/10/21/transcript-of-the-irantalks-interview/
+    text: 'Transcript submitted by a reader https://youtu.be/GNQZk8toMwE?si=ZrszoNr84clVgPbx
+      Doctorow: 0:00 The Russians will flatten anything above two bricks tall. They
+      haven’t done that because it’s not a war. We are, frankly, at a dire moment, possibly
+      about to see an escalation that could lead us very quickly to World War III. Mr.
+      Trump, his attempt to bully Russia has not yet yielded results. You stand up to
+      a bully by hitting him first and not waiting for him to attack. All that can happen
+      from applying further pressure to the Russians is that they will declare war on
+      Ukraine and they may do that in a week or two. Samer Hakim: Hello and welcome
+      to Iran Talks. My name is Samer Hakim, your host for the program. In this episode,
+      we are going to delve into factors that define hybrid warfare today, especially
+      in relation to the Ukraine war and more importantly, ask if this war is just really
+      a conflict between Moscow and Kiev. What factors are contributing to the war from
+      dragging on? We also look into NATO and its role in the war as well as how Iran,
+      along with China and Russia, could potentially form a new deterrence to counter
+      American hegemony. Dr. Gilbert Doctorow, a geopolitical analyst, Russia expert
+      and author is joining us today to discuss this matter further. Dr. Gilbert, welcome
+      to the program. Doctorow: 1:15 Good to be with you. Thanks for the invitation.
+      Hakim: Thank you. Pleasure to have you. The first question for you, I suppose,
+      is to help us understand the issue of hybrid warfare. Explain to us what that
+      means. Doctorow: Well the first thing to understand is it’s separate from what
+      we call kinetic warfare. That is, it’s not the use of arms. It is waged in different
+      domains, information war, disinformation, so it is a subset of information war.
+      It is economic pressure, sanctions, it is tariffs, These are elements. It may
+      be surveillance, open surveillance, as for example, this question of drones, that
+      is, intelligence drones that are used on the territory of the adversary. These
+      are various examples of what is meant by hybrid warfare. It’s a very loose term,
+      and I would like to explain that it’s a term that was invented and is most widely
+      used in Western Europe and the United States to describe or to attribute to Russia
+      malevolent behavior. Hakim: 2:47 Right. Are they claiming that they don’t use?
+      I mean propaganda is considered part of the hybrid warfare, wouldn’t it? Doctorow:
+      I’m saying that accusations coming from the West that Russia is using a hybrid
+      warfare. These are accusations by people like Ursula von der Leyen. They are directed
+      against Russia. You see very little or nothing coming from Russia saying that
+      the West is using hybrid warfare against Russia. What they speak about is specifically
+      information warfare, for example. And all of this should be separated from, as
+      I said, from kinetic warfare. And from– a subset of kinetic warfare is proxy warfare.
+      That is warfare that is carried on not with your own servicemen but by the servicemen
+      of third parties, allied parties who have their own interest in fighting with
+      your adversary. Hakim: 3:51 Okay, so let’s hone in on the war that’s ongoing at
+      the moment between Russia and Ukraine. Is it correct to say that this is a war
+      between these two capitals, between [Kiev] and Moscow, or is it more a war between
+      Moscow and the allied nations or the US-led NATO military alliance? Docroorow:
+      Well, the relative mix of these two elements, that is direct Ukrainian warfare
+      against Russia and the use of Ukraine as a proxy by West Europe and the United
+      States to carry out acts of war against Russia. These are different things. I’ll
+      leave it at that. Hakim: 4:43 Right. Okay. With regards to NATO and the way that
+      it’s acting with regards to air operations, is it changing the rules of engagement
+      with air operations when it is operating against Russian threats? Doctorow: The
+      nature of the war has evolved steadily, or steadily would be mistaken way, in
+      spurts, in rounds of escalation. The war started initially as strictly a Russian-Ukraine
+      conflict. It wasn’t called a war. It still isn’t called a war by the Russians,
+      although I think in the next week or two it may become an openly declared war.
+      Nonetheless, for the last three years what has been going on has been called,
+      by the Russian side, a special military operation, which means that Ukraine was
+      never identified as the enemy. It is the regime, as they call it, of Volodymyr
+      Zelensky and the nationalists, the xenophobic anti-Russian nationalists who support
+      him and who have supported the government ever since a new anti-Russian government
+      was installed in Ukraine in February 2014 in what we know as a coup d’etat. 6:13
+      So that group is the target of the Russian campaign. It is to neutralize them.
+      It is to eliminate the military forces that they command, particularly the most
+      rabid anti-Russian forces, the Azov Battalion and similar, who have energized
+      the Ukrainian army over time and turned it into an effective battering ram against
+      Russia. So demilitarization, denazification, by that they mean removal of the
+      most rabid nationalists who find as their inspiration the anti-Soviet forces that
+      were acting in cooperation with the Nazis during World War II. And so to remove
+      those people, those factions, from Ukrainian public life, that has been the starting
+      point of this special military operation. It has moved on step by step in a series
+      of escalations whereby the involvement of the United States in particular and
+      its allies, the secondary role, have increased and the war steadily became, over
+      time became essentially a Russia-NATO war fought on the territory of Ukraine.
+      That’s where we are today. Hakim: 7:50 Okay. What about the nuclear powers that,
+      weapon heads, the warheads that Russia has? That was considered to be a deterrent
+      beforehand. Is it still a deterrent or is something else acting as a deterrent
+      now? Is there a deterrent even? Doctorow: 9:07 Well deterrence is a very complicated
+      notion among political scientists. It has various components to it. Do you have
+      the wherewithal? Do you have the armaments to dissuade your opponent or enemy
+      from doing something or other? And do you have the will to use that wherewithal,
+      that determination which you demonstrate, which convinces them that they shouldn’t
+      do this or that or something very unpleasant will happen to them. So these are
+      the elements in dissuasion and deterrence. And this is the number one question
+      in Russia today, in its domestic politics, whether or not Mr. Putin’s go-slow
+      approach and his prosecution of a special military operation with a number of
+      limited, defined targets, versus all-out war, has been productive and is increasing
+      security or reducing security of Russia. Hakim: And would you consider this, the
+      deterrences that they use, part of psychological welfare or are they actual real
+      strategies? Doctorow: 9:23 Well, Russia has invested enormously over the last
+      20 years to develop armaments of advanced nature. Some of them are a generation
+      ahead of anything that the United States has, for example. This is unprecedented.
+      Russia since 1945 was always playing catchup to the United States, first in atomic
+      weapons, then hydrogen bombs, and then whatever you could think of in terms of
+      armaments, the Russians were always one step behind and were wanting to catch
+      up. For the first time in its history, in its modern history, Russia has arms
+      that are arguably much more advanced than those in the arsenals of Western Europe
+      and the United States. So on the standpoint of wherewithal, Russia has it to be,
+      to effectively deter aggression against itself by the United States or Europe.
+      However, its very moderate and very unusual approach to dealing with Ukraine has
+      raised questions from the start of this war in the minds of European and American
+      leaders, whether Mr. Putin has the determination and will to defend Russia’s interests
+      and defend the red lines that it has declared as being a threat to its security
+      by using military force. So in that respect, The strength coming out of the arms
+      wherewithal is weakened by the seeming lack of determination to defend interests
+      using those arms. Hakim: 11:13 Okay, it’s interesting we’re speaking about interests.
+      I’ll get to that in a minute. But some of the viewers might have this question
+      about Russia acting as a peacemaker or the role that it’s playing in the international
+      global community with regards to trying to roll out peace across some regions,
+      yet itself is in the midst of war. How can you explain that, or how can the Russians
+      explain that contradiction or paradox? Doctorow: Well, I don’t see it as being
+      unique. We have in the United States Mr. Trump looking to receive the Nobel Prize
+      for peace while he’s waging wars on a number of fronts– Hakim: Trump is in a class
+      of his own, I think. Doctorow: Yes and no. The point is that throughout history,
+      the creation of great artifacts of civilization, whether it be music or drama,
+      any of the higher … of human beings on earth [has] taken place in times of war
+      and slaughter and inhumanity. So contradictions are unfortunately a part of human
+      existence. And that Russia would be a peacemaker in some areas, would be a war
+      maker in others, is not to be, confuse us. We have to look at where the major
+      weight is. The major weight is: Russia is trying, together with China, with Iran,
+      and with members of BRICS, to create a new parallel structure of world governance
+      that will overtake and replace eventually the US hegemony, which we have today,
+      with the United States bullying the rest of the world under Mr. Trump. Hakim:
+      13:05 Indeed. What role does the American military complex have to play in the
+      war that is ongoing right now? Doctorow: Well, the threat of using America’s most
+      advanced offensive weapons against Russia is there. People point to the Tomahawks,
+      which may not be the most advanced, most recent. It’s 40 years old, but still
+      is quite a serious weapon of war, which Mr. Trump may or may not agree to give
+      to Kiev when he meets with Zelensky tomorrow in Washington. The American military,
+      of course, has enormous strength and positions in its several hundred different
+      bases across the world. The Russians are fully aware of the strength of power
+      and the general willingness of the United States to use its arms to smash anything
+      in its path. However, we’re speaking essentially about a bully, a bully who succeeds
+      when his rules are accepted by NATO. They have accepted them. Mr. Trump’s bullying
+      of the allies in NATO has been totally successful. His bullying of Middle Eastern
+      powers has been reasonably successful when he assembled almost all of the Gulf
+      states in lining up like so many ducks to back his 20-point peace plan for Gaza.
+      His attempt to bully Russia has not yet yielded results. And my projection is
+      that it will yield exactly the opposite results to those that Mr. Trump expects.
+      15:09 He is ignoring statements by Vladimir Putin going back a few years ago that
+      he grew up as a kind of skinny kid in the courtyards of Leningrad, today St. Petersburg,
+      and where there always were some guys hanging out in corners who we would describe
+      as bullies. And he understood as a very young fellow that you stand up to a bully
+      by hitting him first and not waiting for him to attack you. So whether or not
+      Mr. Putin retains that lesson and decides to act on it today remains to be seen.
+      But I think Mr. Trump is overplaying his hand by threatening Russia, not only
+      with Tamahawks, but also by taking a cudgel against India and Brazil, striking
+      against BRICS and trying to show that he is more powerful than BRICS’ rulers.
+      Most recently, his statement yesterday that he forced a promise from Modi to stop
+      buying Russian oil. All of these events or non-events which Mr. Trump reports
+      on his social platform, they indicate that he is heady with success from what
+      looks like an end to the Gaza war, but how real that is we’ll see in a few weeks.
+      16:43 But he is heady from success in his belief that by using maximum force against
+      both sides in a conflict, he can, by diktat, get them to compromise and end a
+      conflict in a way that gives credit to him. I don’t believe that what he learned
+      from his Gaza expedition, his visit to the Knesset and delivering his wonderful
+      speeches, I don’t believe that those lessons have any application whatsoever to
+      solving the Russia-Ukraine war and on the contrary, are more likely to lead us
+      into World War III if he proceeds by extending them to the Russian-Ukraine war.
+      Hakim: 17:28 Okay, and this bully, as you put it, they are making financial gains
+      in prolonging this war. I mean they seem to be in a position, if the bully is
+      the one that wants everyone to yield to their rules, but if they don’t they will
+      prolong the war in order to make financial gain, in their eyes they’re winners
+      either way. Are they making financial profits by prolonging the war? Doctorow:
+      Well, state policy in many countries is determined by intellectuals and by business
+      people. You were addressing the second part, the business people, and where’s
+      the profit. And many analysts, of course, pay attention to the military-industrial
+      complex and its interest everywhere in wars, extending wars. But intellectuals
+      are not motivated by money for the most part. They are motivated by power, power
+      considerations. 18:24 And so they’re even more dangerous than the military- industrial
+      complex. And I think on the standpoint of intellectuals driving this war, you’ve
+      got the whole foreign policy establishment in the United States is pro-war. And
+      that is a bigger factor, I think, in what is happening, or what has happened for
+      the last three, four years than what the military-industrial complex by itself
+      does to influence US foreign policy. Hakim: Okay. So if we were to move to Iran,
+      What role does Iran’s drones and cyber capabilities have in the, sort of the regional
+      global hybrid warfare that is going on? Doctorow: Well, Iran has had a very big
+      impact on the Russia-Ukraine war. There is no defense, mutual defense agreement
+      between Russia and Iran. There’s a long-term strategic cooperation agreement,
+      but that does not include in it a mutual-defense pact. Nonetheless, even without
+      this, Iran gave to Russia a major contribution to enter the new world of warfare.
+      At the start of this war in February 2022, Russia had minimal experience with
+      drones. It had minimal production experience with drones. Thanks to the intervention
+      of Iran, which first sold some drones to Russia and then facilitated the construction
+      of drone production within Russia, including the single drone that is one of the
+      most effective that Russia was and is using. They call it GERAD. In prosecuting
+      the war against Ukraine, Iran made a major contribution to Russia’s entry into
+      the new world of drone warfare. And drone warfare, let me just explain that this
+      war started as an artillery war. 20:38 And Russia had, shall we say, a 10-times
+      advantage over Ukraine in artillery pieces, the troops, and in the missiles themselves,
+      the projectiles themselves. That gave them, almost from the start, a 10-to-1 kill
+      ratio over the Ukrainian armies. Nobody talked about it in those terms, but that
+      was effectively what has happened. As the drones became more important, and particularly
+      over the last year, year and a half, the nature of the war changed. It became
+      more balanced. I don’t want to say equally balanced. Today, it would be fair to
+      say that the Russians have a 2 to 1 advantage over the Ukrainians in drone capacity
+      and drone capability. The 2 to 1 is quite different from 10 to 1. And so it was
+      extremely important that with Iranian assistance, because Iran had a rather developed
+      drone program, that Russia climbed the scale. For their part, the Ukrainians got
+      assistance from Turkey. 21:51 They received, I’m not sure about production, but
+      certainly they received, they purchased drones from Turkey, which they used to
+      fire against the Russians. Today it’s difficult to say exactly where the Ukrainian
+      drones are coming from. Some of them are self-produced in an artisanal way in
+      small shops, which are hard to identify and destroy for the Russians. But a lot
+      of it is coming in large quantities, pieces to be assembled or maybe even fully
+      assembled drones which are being supplied from Western Europe. The Russian side,
+      I think, is maybe getting something from North Korea. I’m not sure whether they
+      get anything further from Iran, but they are producing themselves in massive quantities.
+      Hakim: All right, any comments on the cyber capabilities of Iran’s contribution?
+      Doctorow: Sorry? Hakim: The cyber capabilities. Doctorow: I can’t really comment
+      on that. I haven’t followed it closely. Cyber, I agree with you. Cyber attacks
+      have long been considered an integral part of what is called this special warfare.
+      But I have not watched that closely. Hakim: 23:06 Okay. What are the relationship
+      and the cooperation that Iran, Russia and China are forming with regards to security?
+      That’s clearly changing the balance of power. How do you see that panning out?
+      Doctorow: Well, it has many dimensions, a geopolitical dimension in the neighborhood.
+      The neighborhood includes Central Asia. Iran is a big contributor, a potential
+      contributor, to consolidation of the whole larger region through its logistical
+      situation as the North-South Corridor. The North-South Corridor will integrate
+      Central Asia and central Russia in a unified and very speedy transportation line
+      to Mumbai, to India, and to the greater world. 24:00 So in that sense, the cooperation
+      of– the role that Iran will play as this project develops will be very significant
+      for the entire region. As regards security, we saw at the meeting earlier this
+      year of the Shanghai Cooperation Organization in Tianjin that the organization
+      is developing a very important military dimension, and economic dimension. It
+      is a kind of regional BRICS. For the founders of BRICS, the inconvenience in making
+      progress on its integration and development has been the relative disinterest
+      of Brazil, in particular, in what is going on in Eurasia. And that relates also
+      to Brazil’s rejection of various nominee countries to join greater BRICS or the
+      central controlling membership of BRICS. In the Shanghai Cooperation Organization,
+      this disinterest doesn’t exist. All the parties are interested in this very extended
+      regional organization, extending from Belarus and the West all the way out to
+      the Sea of Japan and the South China Sea. And of course, Iran is a major part,
+      an integral part of this development. Hakim: 25:51 Okay, I want to move over to
+      Syria now. The self-appointed Syrian president visited Moscow recently and he
+      met with Putin. They were all sort of happy to meet each other. Sort of he said,
+      I’ll respect all the past security deals. How do you see this panning out? What
+      initially Russia was doing was protecting the previous president of Syria al-Bashar
+      from terrorists, including Ahmad al-Julani, who is now known as al-Sharkh. So
+      how do you see this panning out? Doctorow: Well, there are a lot of curious developments
+      around Syria. You mentioned the position of Russia with respect to Assad. But
+      what about the position of the United States and other Western countries for whom
+      he was a terrorist? And his arriving in New York to speak to the UN General Assembly,
+      that met many different questions among the American media. So it’s not just Russia
+      that has changed. There was a lot of glee, a lot of exulting in Berlin, in Paris,
+      in London, in Washington. When Assad fell, it was assumed that the Russians would
+      be chased out of their bases, Latakia, air base, Tartus, naval base, when the
+      new government took over, precisely because [they] had been so closely associated
+      with the defense of President Assad. We have this visit, I think it was the first
+      foreign visit of the Syrian president after his General assembly trip, and it’s
+      to Moscow. 27:48 Now, this suggests that all of the glee over Russia’s loss of
+      its bases in the Mediterranean and in the Arab world was premature. And I think
+      what made it premature was the aggression by Israel against Syria ever since the
+      new government came into power in Damascus and up to the present day. Now, and
+      this aggression is made possible by backing from the United States and the NATO
+      countries. As Syria is not oblivious to it. The Israelis have taken not only the
+      entire Golan Heights, but also the lowlands, so they’re in very close artillery
+      range of Damascus. And there’s no end in sight. The greater-Israel project is
+      not achieved and completed. In the face of this extreme threat, not just to his
+      regime, but to the nation of Syria, it is understandable that the Syrian president
+      would reconsider relations with Russia as a central counterbalance to Israel and
+      Europe slash the United States. And that’s exactly what we’re seeing. There was
+      no discussion in public about the military defense cooperation that may yet be
+      between Syria and Russia. 29:30 Certainly that is not in the public domain. All
+      they talked about were commercial issues, but primarily energy issues. It’s curious,
+      just as an example of the kind of quality of news reporting that you see in major
+      media: BBC today was reporting on this very meeting in Moscow and saying, “Yes,
+      the Syrians, the Syrian president, the Russian president agreed not to look back,
+      but only to look forward.” That’s not what they agreed, not at all. The BBC was
+      either tone-deaf or is just engaging as usual in blatant propaganda. The salutation
+      that Mr. Putin made to the Syrian president was, you know, we are in 2025, You’re
+      celebrating the 80th anniversary of the opening of diplomatic relations between
+      the Soviet Union and Syria, 80 years. And during that time, we did a lot of things
+      together. And they put up on Russian television pictures of what they did. 30:31
+      Among them, a large part of the electric energy in Syria is coming from hydroelectric
+      plants that were built by the Russians. So the extent of cooperation- Hakim: That’s
+      all fine. But you’re more explaining the Syrian side. It needs Russia. Doctorow:
+      Yes. Hakim: I mean, one of the things that they did in the last eight years was
+      that they were fighting terrorists, and Jolani was a terrorist. He was in the
+      leadership of the terrorist organization, as you said yourself, the West considers
+      him a terrorist, the CIA had a $10 million bounty on his head. They turned around
+      and are now accepting him as this new president and freedom fighter, or whatever
+      they want to call him, that’s fine. But that doesn’t mean Russia or Putin should
+      buckle to that. How is it that they’re now so cozy together? Doctorow: 31:27 They’re
+      pragmatists. You deal with what is, not what you want. The Russians were fighting
+      the terrorists, but the terrorists not by themselves. They were fighting people
+      who were being supported actively with arms and intelligence and propaganda systems,
+      false-flag operations coming out of Britain and the United States. And so they
+      really were fighting those two major powers. And it was a kind of proxy war. And
+      the Syrian, the various Syrian rebel groups or terrorist groups were supported
+      by one or the other. The Russians sent, when they moved on the ground in Syria
+      to support Assad, they sent mediation groups out into the countryside to deal
+      with the various oppositions and to separate the good terrorists from the bad
+      terrorists, so to speak. And that’s how they settled disputes locally around Syrian
+      countryside, wherever they moved. So they had to deal with rather subtle distinctions
+      during the Syrian Civil war. 32:45 So it’s not so surprising that after the war
+      is over, they would again reaccommodate themselves to the realities on the ground.
+      Hakim: Preserving self-interest perhaps? Doctorow: Of course. They don’t want
+      to lose those bases. And particularly, Tartus is an important repair center and
+      resupply center for Russian naval vessels operating in the Mediterranean. Let’s
+      remember that Russia’s powerful Black Sea fleet has to pass through the Dardanels.
+      It is subject really to Turkish control. And so Russia has to have a substantial
+      part of that fleet operational in the Mediterranean. And for that, you’d have
+      to have repair services and resupply services for which Tartus was an important
+      source. 33:44 Now, it’s not the only place. There are other countries in North
+      Africa which Russia could turn to in a pinch to replace Tartus, and that was discussed
+      immediately after the collapse of the Assad regime. But it is preferable to stay
+      where you are. And for the Syrians, for the reason I mentioned above, it is important
+      that they have Russians to use against, as a lever against the Israelis if necessary.
+      Hakim: 34:17 Final question for you with regards to how you see the future playing
+      out for the world order and what factors might help in preventing a World War
+      Three between the West and the East rivalries that we see. Doctorow: Well, I’m
+      very sad to say that the usual optimistic or prognosis that I deliver on these
+      various interview programs is no longer workable. We are frankly at a dire moment
+      when we are possibly about to see an escalation that could lead us very quickly
+      into World War III. The ball is in the Russians court. Mr. Trump has, it’s gone–
+      his seeming success in Gaza with Israel, with the Arab states has gone to his
+      head, of course, very early, because as I say, it would surprise no one if full-blown
+      war between Hamas and Israel breaks out again in two or three weeks. 35:26 But
+      Mr. Trump is satisfied that he’s been the peacemaker, and he thinks that this
+      applies to the Russian war, and he has to apply maximum pressure to Russia economically
+      with super weapons like the Tomahawks. And then Mr. Putin will line up, he’ll
+      sign up, and he can really get that Nobel Peace Prize. It’s utter nonsense. All
+      that can happen from applying further pressure to the Russians is that they will
+      declare war on Ukraine. And they may do that in a week or two. My prediction is
+      that if Mr. Putin sees Trump giving Tomahawks to Kiev, that in a matter of a week
+      he’ll declare war on Ukraine and there will be nothing left in Kiev to talk to
+      or about, because the Russians will flatten anything above two bricks tall. It’ll
+      look like Gaza. They haven’t done that because it’s not a war. It is a special
+      military operation. 36:27 But they will declare war, and as they said on Russian
+      television last night, they will be humane after they’ve completely defeated Ukraine,
+      not before. So that is where we’re headed. If Mr. Putin does not do that, then
+      I think we are certain to head for World War III, because the Trump group will
+      go still further in delivering blows against Russia, economic blows, military
+      attacks, which are nominally done by Ukrainians, were actually done by American
+      military. And Mr. Putin will be removed from office and replaced by somebody who
+      can respond appropriately. And who that somebody is, we don’t want to know, because
+      they’re not going to be nice guys. So this is the situation. The best that we
+      can hope for is that Putin himself declares war, does what has to be done, keeps
+      the Russian state organized presently, which is quite powerful. And since they
+      are facing a bully, bullies will retreat in the face of decisive action. 37:44
+      I don’t think anybody among the loudmouths in Washington wants to be in a nuclear
+      war with Russia. So they will, if Russia shows determination, if Putin shows determination,
+      then the bully will back away. Hakim: Dr. Gilbert, it’s been a pleasure talking
+      to you. Some very interesting predictions. I’d love to have you back on the show
+      maybe in a few weeks’ time, maybe when some new developments happen, we’ll have
+      a new conversation on that topic. Thank you so much once again for joining us.
+      Doctorow: My pleasure. Hakim: Goodbye. Interesting predictions by our guest today.
+      If the US gives Tomahawks to Ukraine, Putin will declare war, flatten Kiev, World
+      War III will start, Trump will be replaced by God knows who, something bleak indeed.
+      38:34 What are your thoughts? We hope you did enjoy today’s episode. Please do
+      comment, like and don’t forget to subscribe. See you next time'
+    one_sentence_summary: The article discusses the potential escalation of the Ukraine
+      conflict into World War III, emphasizing the ineffectiveness of current strategies
+      against Russia and exploring the broader factors contributing to the prolonged
+      war.
+    paragraph_summary: In a discussion on hybrid warfare and its implications for the
+      ongoing Ukraine conflict, geopolitical analyst Dr. Gilbert Doctorow emphasizes
+      the precarious situation that could escalate into World War III if tensions with
+      Russia continue to rise. He critiques former President Trump's approach to dealing
+      with Russia, suggesting that further pressure could provoke a declaration of war
+      against Ukraine. The conversation, hosted by Samer Hakim on "Iran Talks," explores
+      the multifaceted nature of hybrid warfare, which includes not only military actions
+      but also information warfare, economic sanctions, and surveillance. The dialogue
+      also touches on the roles of NATO and the potential for an alliance between Iran,
+      China, and Russia to challenge American dominance.
+    published: '2025-10-21T20:01:54+00:00'
+  - title: Transcript of the IranTalks interview
+    url: https://gilbertdoctorow.com/2025/10/21/transcript-of-the-irantalks-interview/
+    text: 'Transcript submitted by a reader https://youtu.be/GNQZk8toMwE?si=ZrszoNr84clVgPbx
+      Doctorow: 0:00 The Russians will flatten anything above two bricks tall. They
+      haven’t done that because it’s not a war. We are, frankly, at a dire moment, possibly
+      about to see an escalation that could lead us very quickly to World War III. Mr.
+      Trump, his attempt to bully Russia has not yet yielded results. You stand up to
+      a bully by hitting him first and not waiting for him to attack. All that can happen
+      from applying further pressure to the Russians is that they will declare war on
+      Ukraine and they may do that in a week or two. Samer Hakim: Hello and welcome
+      to Iran Talks. My name is Samer Hakim, your host for the program. In this episode,
+      we are going to delve into factors that define hybrid warfare today, especially
+      in relation to the Ukraine war and more importantly, ask if this war is just really
+      a conflict between Moscow and Kiev. What factors are contributing to the war from
+      dragging on? We also look into NATO and its role in the war as well as how Iran,
+      along with China and Russia, could potentially form a new deterrence to counter
+      American hegemony. Dr. Gilbert Doctorow, a geopolitical analyst, Russia expert
+      and author is joining us today to discuss this matter further. Dr. Gilbert, welcome
+      to the program. Doctorow: 1:15 Good to be with you. Thanks for the invitation.
+      Hakim: Thank you. Pleasure to have you. The first question for you, I suppose,
+      is to help us understand the issue of hybrid warfare. Explain to us what that
+      means. Doctorow: Well the first thing to understand is it’s separate from what
+      we call kinetic warfare. That is, it’s not the use of arms. It is waged in different
+      domains, information war, disinformation, so it is a subset of information war.
+      It is economic pressure, sanctions, it is tariffs, These are elements. It may
+      be surveillance, open surveillance, as for example, this question of drones, that
+      is, intelligence drones that are used on the territory of the adversary. These
+      are various examples of what is meant by hybrid warfare. It’s a very loose term,
+      and I would like to explain that it’s a term that was invented and is most widely
+      used in Western Europe and the United States to describe or to attribute to Russia
+      malevolent behavior. Hakim: 2:47 Right. Are they claiming that they don’t use?
+      I mean propaganda is considered part of the hybrid warfare, wouldn’t it? Doctorow:
+      I’m saying that accusations coming from the West that Russia is using a hybrid
+      warfare. These are accusations by people like Ursula von der Leyen. They are directed
+      against Russia. You see very little or nothing coming from Russia saying that
+      the West is using hybrid warfare against Russia. What they speak about is specifically
+      information warfare, for example. And all of this should be separated from, as
+      I said, from kinetic warfare. And from– a subset of kinetic warfare is proxy warfare.
+      That is warfare that is carried on not with your own servicemen but by the servicemen
+      of third parties, allied parties who have their own interest in fighting with
+      your adversary. Hakim: 3:51 Okay, so let’s hone in on the war that’s ongoing at
+      the moment between Russia and Ukraine. Is it correct to say that this is a war
+      between these two capitals, between [Kiev] and Moscow, or is it more a war between
+      Moscow and the allied nations or the US-led NATO military alliance? Docroorow:
+      Well, the relative mix of these two elements, that is direct Ukrainian warfare
+      against Russia and the use of Ukraine as a proxy by West Europe and the United
+      States to carry out acts of war against Russia. These are different things. I’ll
+      leave it at that. Hakim: 4:43 Right. Okay. With regards to NATO and the way that
+      it’s acting with regards to air operations, is it changing the rules of engagement
+      with air operations when it is operating against Russian threats? Doctorow: The
+      nature of the war has evolved steadily, or steadily would be mistaken way, in
+      spurts, in rounds of escalation. The war started initially as strictly a Russian-Ukraine
+      conflict. It wasn’t called a war. It still isn’t called a war by the Russians,
+      although I think in the next week or two it may become an openly declared war.
+      Nonetheless, for the last three years what has been going on has been called,
+      by the Russian side, a special military operation, which means that Ukraine was
+      never identified as the enemy. It is the regime, as they call it, of Volodymyr
+      Zelensky and the nationalists, the xenophobic anti-Russian nationalists who support
+      him and who have supported the government ever since a new anti-Russian government
+      was installed in Ukraine in February 2014 in what we know as a coup d’etat. 6:13
+      So that group is the target of the Russian campaign. It is to neutralize them.
+      It is to eliminate the military forces that they command, particularly the most
+      rabid anti-Russian forces, the Azov Battalion and similar, who have energized
+      the Ukrainian army over time and turned it into an effective battering ram against
+      Russia. So demilitarization, denazification, by that they mean removal of the
+      most rabid nationalists who find as their inspiration the anti-Soviet forces that
+      were acting in cooperation with the Nazis during World War II. And so to remove
+      those people, those factions, from Ukrainian public life, that has been the starting
+      point of this special military operation. It has moved on step by step in a series
+      of escalations whereby the involvement of the United States in particular and
+      its allies, the secondary role, have increased and the war steadily became, over
+      time became essentially a Russia-NATO war fought on the territory of Ukraine.
+      That’s where we are today. Hakim: 7:50 Okay. What about the nuclear powers that,
+      weapon heads, the warheads that Russia has? That was considered to be a deterrent
+      beforehand. Is it still a deterrent or is something else acting as a deterrent
+      now? Is there a deterrent even? Doctorow: 9:07 Well deterrence is a very complicated
+      notion among political scientists. It has various components to it. Do you have
+      the wherewithal? Do you have the armaments to dissuade your opponent or enemy
+      from doing something or other? And do you have the will to use that wherewithal,
+      that determination which you demonstrate, which convinces them that they shouldn’t
+      do this or that or something very unpleasant will happen to them. So these are
+      the elements in dissuasion and deterrence. And this is the number one question
+      in Russia today, in its domestic politics, whether or not Mr. Putin’s go-slow
+      approach and his prosecution of a special military operation with a number of
+      limited, defined targets, versus all-out war, has been productive and is increasing
+      security or reducing security of Russia. Hakim: And would you consider this, the
+      deterrences that they use, part of psychological welfare or are they actual real
+      strategies? Doctorow: 9:23 Well, Russia has invested enormously over the last
+      20 years to develop armaments of advanced nature. Some of them are a generation
+      ahead of anything that the United States has, for example. This is unprecedented.
+      Russia since 1945 was always playing catchup to the United States, first in atomic
+      weapons, then hydrogen bombs, and then whatever you could think of in terms of
+      armaments, the Russians were always one step behind and were wanting to catch
+      up. For the first time in its history, in its modern history, Russia has arms
+      that are arguably much more advanced than those in the arsenals of Western Europe
+      and the United States. So on the standpoint of wherewithal, Russia has it to be,
+      to effectively deter aggression against itself by the United States or Europe.
+      However, its very moderate and very unusual approach to dealing with Ukraine has
+      raised questions from the start of this war in the minds of European and American
+      leaders, whether Mr. Putin has the determination and will to defend Russia’s interests
+      and defend the red lines that it has declared as being a threat to its security
+      by using military force. So in that respect, The strength coming out of the arms
+      wherewithal is weakened by the seeming lack of determination to defend interests
+      using those arms. Hakim: 11:13 Okay, it’s interesting we’re speaking about interests.
+      I’ll get to that in a minute. But some of the viewers might have this question
+      about Russia acting as a peacemaker or the role that it’s playing in the international
+      global community with regards to trying to roll out peace across some regions,
+      yet itself is in the midst of war. How can you explain that, or how can the Russians
+      explain that contradiction or paradox? Doctorow: Well, I don’t see it as being
+      unique. We have in the United States Mr. Trump looking to receive the Nobel Prize
+      for peace while he’s waging wars on a number of fronts– Hakim: Trump is in a class
+      of his own, I think. Doctorow: Yes and no. The point is that throughout history,
+      the creation of great artifacts of civilization, whether it be music or drama,
+      any of the higher … of human beings on earth [has] taken place in times of war
+      and slaughter and inhumanity. So contradictions are unfortunately a part of human
+      existence. And that Russia would be a peacemaker in some areas, would be a war
+      maker in others, is not to be, confuse us. We have to look at where the major
+      weight is. The major weight is: Russia is trying, together with China, with Iran,
+      and with members of BRICS, to create a new parallel structure of world governance
+      that will overtake and replace eventually the US hegemony, which we have today,
+      with the United States bullying the rest of the world under Mr. Trump. Hakim:
+      13:05 Indeed. What role does the American military complex have to play in the
+      war that is ongoing right now? Doctorow: Well, the threat of using America’s most
+      advanced offensive weapons against Russia is there. People point to the Tomahawks,
+      which may not be the most advanced, most recent. It’s 40 years old, but still
+      is quite a serious weapon of war, which Mr. Trump may or may not agree to give
+      to Kiev when he meets with Zelensky tomorrow in Washington. The American military,
+      of course, has enormous strength and positions in its several hundred different
+      bases across the world. The Russians are fully aware of the strength of power
+      and the general willingness of the United States to use its arms to smash anything
+      in its path. However, we’re speaking essentially about a bully, a bully who succeeds
+      when his rules are accepted by NATO. They have accepted them. Mr. Trump’s bullying
+      of the allies in NATO has been totally successful. His bullying of Middle Eastern
+      powers has been reasonably successful when he assembled almost all of the Gulf
+      states in lining up like so many ducks to back his 20-point peace plan for Gaza.
+      His attempt to bully Russia has not yet yielded results. And my projection is
+      that it will yield exactly the opposite results to those that Mr. Trump expects.
+      15:09 He is ignoring statements by Vladimir Putin going back a few years ago that
+      he grew up as a kind of skinny kid in the courtyards of Leningrad, today St. Petersburg,
+      and where there always were some guys hanging out in corners who we would describe
+      as bullies. And he understood as a very young fellow that you stand up to a bully
+      by hitting him first and not waiting for him to attack you. So whether or not
+      Mr. Putin retains that lesson and decides to act on it today remains to be seen.
+      But I think Mr. Trump is overplaying his hand by threatening Russia, not only
+      with Tamahawks, but also by taking a cudgel against India and Brazil, striking
+      against BRICS and trying to show that he is more powerful than BRICS’ rulers.
+      Most recently, his statement yesterday that he forced a promise from Modi to stop
+      buying Russian oil. All of these events or non-events which Mr. Trump reports
+      on his social platform, they indicate that he is heady with success from what
+      looks like an end to the Gaza war, but how real that is we’ll see in a few weeks.
+      16:43 But he is heady from success in his belief that by using maximum force against
+      both sides in a conflict, he can, by diktat, get them to compromise and end a
+      conflict in a way that gives credit to him. I don’t believe that what he learned
+      from his Gaza expedition, his visit to the Knesset and delivering his wonderful
+      speeches, I don’t believe that those lessons have any application whatsoever to
+      solving the Russia-Ukraine war and on the contrary, are more likely to lead us
+      into World War III if he proceeds by extending them to the Russian-Ukraine war.
+      Hakim: 17:28 Okay, and this bully, as you put it, they are making financial gains
+      in prolonging this war. I mean they seem to be in a position, if the bully is
+      the one that wants everyone to yield to their rules, but if they don’t they will
+      prolong the war in order to make financial gain, in their eyes they’re winners
+      either way. Are they making financial profits by prolonging the war? Doctorow:
+      Well, state policy in many countries is determined by intellectuals and by business
+      people. You were addressing the second part, the business people, and where’s
+      the profit. And many analysts, of course, pay attention to the military-industrial
+      complex and its interest everywhere in wars, extending wars. But intellectuals
+      are not motivated by money for the most part. They are motivated by power, power
+      considerations. 18:24 And so they’re even more dangerous than the military- industrial
+      complex. And I think on the standpoint of intellectuals driving this war, you’ve
+      got the whole foreign policy establishment in the United States is pro-war. And
+      that is a bigger factor, I think, in what is happening, or what has happened for
+      the last three, four years than what the military-industrial complex by itself
+      does to influence US foreign policy. Hakim: Okay. So if we were to move to Iran,
+      What role does Iran’s drones and cyber capabilities have in the, sort of the regional
+      global hybrid warfare that is going on? Doctorow: Well, Iran has had a very big
+      impact on the Russia-Ukraine war. There is no defense, mutual defense agreement
+      between Russia and Iran. There’s a long-term strategic cooperation agreement,
+      but that does not include in it a mutual-defense pact. Nonetheless, even without
+      this, Iran gave to Russia a major contribution to enter the new world of warfare.
+      At the start of this war in February 2022, Russia had minimal experience with
+      drones. It had minimal production experience with drones. Thanks to the intervention
+      of Iran, which first sold some drones to Russia and then facilitated the construction
+      of drone production within Russia, including the single drone that is one of the
+      most effective that Russia was and is using. They call it GERAD. In prosecuting
+      the war against Ukraine, Iran made a major contribution to Russia’s entry into
+      the new world of drone warfare. And drone warfare, let me just explain that this
+      war started as an artillery war. 20:38 And Russia had, shall we say, a 10-times
+      advantage over Ukraine in artillery pieces, the troops, and in the missiles themselves,
+      the projectiles themselves. That gave them, almost from the start, a 10-to-1 kill
+      ratio over the Ukrainian armies. Nobody talked about it in those terms, but that
+      was effectively what has happened. As the drones became more important, and particularly
+      over the last year, year and a half, the nature of the war changed. It became
+      more balanced. I don’t want to say equally balanced. Today, it would be fair to
+      say that the Russians have a 2 to 1 advantage over the Ukrainians in drone capacity
+      and drone capability. The 2 to 1 is quite different from 10 to 1. And so it was
+      extremely important that with Iranian assistance, because Iran had a rather developed
+      drone program, that Russia climbed the scale. For their part, the Ukrainians got
+      assistance from Turkey. 21:51 They received, I’m not sure about production, but
+      certainly they received, they purchased drones from Turkey, which they used to
+      fire against the Russians. Today it’s difficult to say exactly where the Ukrainian
+      drones are coming from. Some of them are self-produced in an artisanal way in
+      small shops, which are hard to identify and destroy for the Russians. But a lot
+      of it is coming in large quantities, pieces to be assembled or maybe even fully
+      assembled drones which are being supplied from Western Europe. The Russian side,
+      I think, is maybe getting something from North Korea. I’m not sure whether they
+      get anything further from Iran, but they are producing themselves in massive quantities.
+      Hakim: All right, any comments on the cyber capabilities of Iran’s contribution?
+      Doctorow: Sorry? Hakim: The cyber capabilities. Doctorow: I can’t really comment
+      on that. I haven’t followed it closely. Cyber, I agree with you. Cyber attacks
+      have long been considered an integral part of what is called this special warfare.
+      But I have not watched that closely. Hakim: 23:06 Okay. What are the relationship
+      and the cooperation that Iran, Russia and China are forming with regards to security?
+      That’s clearly changing the balance of power. How do you see that panning out?
+      Doctorow: Well, it has many dimensions, a geopolitical dimension in the neighborhood.
+      The neighborhood includes Central Asia. Iran is a big contributor, a potential
+      contributor, to consolidation of the whole larger region through its logistical
+      situation as the North-South Corridor. The North-South Corridor will integrate
+      Central Asia and central Russia in a unified and very speedy transportation line
+      to Mumbai, to India, and to the greater world. 24:00 So in that sense, the cooperation
+      of– the role that Iran will play as this project develops will be very significant
+      for the entire region. As regards security, we saw at the meeting earlier this
+      year of the Shanghai Cooperation Organization in Tianjin that the organization
+      is developing a very important military dimension, and economic dimension. It
+      is a kind of regional BRICS. For the founders of BRICS, the inconvenience in making
+      progress on its integration and development has been the relative disinterest
+      of Brazil, in particular, in what is going on in Eurasia. And that relates also
+      to Brazil’s rejection of various nominee countries to join greater BRICS or the
+      central controlling membership of BRICS. In the Shanghai Cooperation Organization,
+      this disinterest doesn’t exist. All the parties are interested in this very extended
+      regional organization, extending from Belarus and the West all the way out to
+      the Sea of Japan and the South China Sea. And of course, Iran is a major part,
+      an integral part of this development. Hakim: 25:51 Okay, I want to move over to
+      Syria now. The self-appointed Syrian president visited Moscow recently and he
+      met with Putin. They were all sort of happy to meet each other. Sort of he said,
+      I’ll respect all the past security deals. How do you see this panning out? What
+      initially Russia was doing was protecting the previous president of Syria al-Bashar
+      from terrorists, including Ahmad al-Julani, who is now known as al-Sharkh. So
+      how do you see this panning out? Doctorow: Well, there are a lot of curious developments
+      around Syria. You mentioned the position of Russia with respect to Assad. But
+      what about the position of the United States and other Western countries for whom
+      he was a terrorist? And his arriving in New York to speak to the UN General Assembly,
+      that met many different questions among the American media. So it’s not just Russia
+      that has changed. There was a lot of glee, a lot of exulting in Berlin, in Paris,
+      in London, in Washington. When Assad fell, it was assumed that the Russians would
+      be chased out of their bases, Latakia, air base, Tartus, naval base, when the
+      new government took over, precisely because [they] had been so closely associated
+      with the defense of President Assad. We have this visit, I think it was the first
+      foreign visit of the Syrian president after his General assembly trip, and it’s
+      to Moscow. 27:48 Now, this suggests that all of the glee over Russia’s loss of
+      its bases in the Mediterranean and in the Arab world was premature. And I think
+      what made it premature was the aggression by Israel against Syria ever since the
+      new government came into power in Damascus and up to the present day. Now, and
+      this aggression is made possible by backing from the United States and the NATO
+      countries. As Syria is not oblivious to it. The Israelis have taken not only the
+      entire Golan Heights, but also the lowlands, so they’re in very close artillery
+      range of Damascus. And there’s no end in sight. The greater-Israel project is
+      not achieved and completed. In the face of this extreme threat, not just to his
+      regime, but to the nation of Syria, it is understandable that the Syrian president
+      would reconsider relations with Russia as a central counterbalance to Israel and
+      Europe slash the United States. And that’s exactly what we’re seeing. There was
+      no discussion in public about the military defense cooperation that may yet be
+      between Syria and Russia. 29:30 Certainly that is not in the public domain. All
+      they talked about were commercial issues, but primarily energy issues. It’s curious,
+      just as an example of the kind of quality of news reporting that you see in major
+      media: BBC today was reporting on this very meeting in Moscow and saying, “Yes,
+      the Syrians, the Syrian president, the Russian president agreed not to look back,
+      but only to look forward.” That’s not what they agreed, not at all. The BBC was
+      either tone-deaf or is just engaging as usual in blatant propaganda. The salutation
+      that Mr. Putin made to the Syrian president was, you know, we are in 2025, You’re
+      celebrating the 80th anniversary of the opening of diplomatic relations between
+      the Soviet Union and Syria, 80 years. And during that time, we did a lot of things
+      together. And they put up on Russian television pictures of what they did. 30:31
+      Among them, a large part of the electric energy in Syria is coming from hydroelectric
+      plants that were built by the Russians. So the extent of cooperation- Hakim: That’s
+      all fine. But you’re more explaining the Syrian side. It needs Russia. Doctorow:
+      Yes. Hakim: I mean, one of the things that they did in the last eight years was
+      that they were fighting terrorists, and Jolani was a terrorist. He was in the
+      leadership of the terrorist organization, as you said yourself, the West considers
+      him a terrorist, the CIA had a $10 million bounty on his head. They turned around
+      and are now accepting him as this new president and freedom fighter, or whatever
+      they want to call him, that’s fine. But that doesn’t mean Russia or Putin should
+      buckle to that. How is it that they’re now so cozy together? Doctorow: 31:27 They’re
+      pragmatists. You deal with what is, not what you want. The Russians were fighting
+      the terrorists, but the terrorists not by themselves. They were fighting people
+      who were being supported actively with arms and intelligence and propaganda systems,
+      false-flag operations coming out of Britain and the United States. And so they
+      really were fighting those two major powers. And it was a kind of proxy war. And
+      the Syrian, the various Syrian rebel groups or terrorist groups were supported
+      by one or the other. The Russians sent, when they moved on the ground in Syria
+      to support Assad, they sent mediation groups out into the countryside to deal
+      with the various oppositions and to separate the good terrorists from the bad
+      terrorists, so to speak. And that’s how they settled disputes locally around Syrian
+      countryside, wherever they moved. So they had to deal with rather subtle distinctions
+      during the Syrian Civil war. 32:45 So it’s not so surprising that after the war
+      is over, they would again reaccommodate themselves to the realities on the ground.
+      Hakim: Preserving self-interest perhaps? Doctorow: Of course. They don’t want
+      to lose those bases. And particularly, Tartus is an important repair center and
+      resupply center for Russian naval vessels operating in the Mediterranean. Let’s
+      remember that Russia’s powerful Black Sea fleet has to pass through the Dardanels.
+      It is subject really to Turkish control. And so Russia has to have a substantial
+      part of that fleet operational in the Mediterranean. And for that, you’d have
+      to have repair services and resupply services for which Tartus was an important
+      source. 33:44 Now, it’s not the only place. There are other countries in North
+      Africa which Russia could turn to in a pinch to replace Tartus, and that was discussed
+      immediately after the collapse of the Assad regime. But it is preferable to stay
+      where you are. And for the Syrians, for the reason I mentioned above, it is important
+      that they have Russians to use against, as a lever against the Israelis if necessary.
+      Hakim: 34:17 Final question for you with regards to how you see the future playing
+      out for the world order and what factors might help in preventing a World War
+      Three between the West and the East rivalries that we see. Doctorow: Well, I’m
+      very sad to say that the usual optimistic or prognosis that I deliver on these
+      various interview programs is no longer workable. We are frankly at a dire moment
+      when we are possibly about to see an escalation that could lead us very quickly
+      into World War III. The ball is in the Russians court. Mr. Trump has, it’s gone–
+      his seeming success in Gaza with Israel, with the Arab states has gone to his
+      head, of course, very early, because as I say, it would surprise no one if full-blown
+      war between Hamas and Israel breaks out again in two or three weeks. 35:26 But
+      Mr. Trump is satisfied that he’s been the peacemaker, and he thinks that this
+      applies to the Russian war, and he has to apply maximum pressure to Russia economically
+      with super weapons like the Tomahawks. And then Mr. Putin will line up, he’ll
+      sign up, and he can really get that Nobel Peace Prize. It’s utter nonsense. All
+      that can happen from applying further pressure to the Russians is that they will
+      declare war on Ukraine. And they may do that in a week or two. My prediction is
+      that if Mr. Putin sees Trump giving Tomahawks to Kiev, that in a matter of a week
+      he’ll declare war on Ukraine and there will be nothing left in Kiev to talk to
+      or about, because the Russians will flatten anything above two bricks tall. It’ll
+      look like Gaza. They haven’t done that because it’s not a war. It is a special
+      military operation. 36:27 But they will declare war, and as they said on Russian
+      television last night, they will be humane after they’ve completely defeated Ukraine,
+      not before. So that is where we’re headed. If Mr. Putin does not do that, then
+      I think we are certain to head for World War III, because the Trump group will
+      go still further in delivering blows against Russia, economic blows, military
+      attacks, which are nominally done by Ukrainians, were actually done by American
+      military. And Mr. Putin will be removed from office and replaced by somebody who
+      can respond appropriately. And who that somebody is, we don’t want to know, because
+      they’re not going to be nice guys. So this is the situation. The best that we
+      can hope for is that Putin himself declares war, does what has to be done, keeps
+      the Russian state organized presently, which is quite powerful. And since they
+      are facing a bully, bullies will retreat in the face of decisive action. 37:44
+      I don’t think anybody among the loudmouths in Washington wants to be in a nuclear
+      war with Russia. So they will, if Russia shows determination, if Putin shows determination,
+      then the bully will back away. Hakim: Dr. Gilbert, it’s been a pleasure talking
+      to you. Some very interesting predictions. I’d love to have you back on the show
+      maybe in a few weeks’ time, maybe when some new developments happen, we’ll have
+      a new conversation on that topic. Thank you so much once again for joining us.
+      Doctorow: My pleasure. Hakim: Goodbye. Interesting predictions by our guest today.
+      If the US gives Tomahawks to Ukraine, Putin will declare war, flatten Kiev, World
+      War III will start, Trump will be replaced by God knows who, something bleak indeed.
+      38:34 What are your thoughts? We hope you did enjoy today’s episode. Please do
+      comment, like and don’t forget to subscribe. See you next time'
+    one_sentence_summary: The article discusses the potential escalation of the Ukraine
+      conflict into World War III, emphasizing the ineffectiveness of current strategies
+      against Russia and exploring the broader factors contributing to the prolonged
+      war.
+    paragraph_summary: In a discussion on hybrid warfare and its implications for the
+      ongoing Ukraine conflict, geopolitical analyst Dr. Gilbert Doctorow emphasizes
+      the precarious situation that could escalate into World War III if tensions with
+      Russia continue to rise. He critiques former President Trump's approach to dealing
+      with Russia, suggesting that further pressure could provoke a declaration of war
+      against Ukraine. The conversation, hosted by Samer Hakim on "Iran Talks," explores
+      the multifaceted nature of hybrid warfare, which includes not only military actions
+      but also information warfare, economic sanctions, and surveillance. The dialogue
+      also touches on the roles of NATO and the potential for an alliance between Iran,
+      China, and Russia to challenge American dominance.
+    published: '2025-10-21T20:01:54+00:00'
+  - title: 'TheIrantalks: an interview'
+    url: https://gilbertdoctorow.com/2025/10/21/theirantalks-an-interview/
+    text: 'TheIrantalks: an interview Several days ago I accepted an invitation from
+      a producer to podcast interviews that was new to me, theirantalks, who have a
+      youtube channel of their own and a very professional appearance. The agreed subjects
+      would be hybrid war, who is carrying it out today; Russia’s perceived deterrence;
+      and Iran’s role in the new emerging world order I just received the link to the
+      posted interview this morning and here in St Petersburg youtube.com is inaccessible.
+      Hence I offer this to the Community sight-unseen, but I was pleased with the level
+      of discussion when it took place and look forward to any comments which you may
+      wish to submit ( https://youtu.be/GNQZk8toMwE?si=ZrszoNr84clVgPbx )'
+    one_sentence_summary: The author participated in a podcast interview with TheIrantalks,
+      discussing topics such as hybrid warfare, Russia's deterrence, and Iran's role
+      in the emerging world order, but is unable to access the posted interview on YouTube
+      due to regional restrictions.
+    paragraph_summary: The article discusses an interview the author participated in
+      with a podcast producer from TheIrantalks, which features a professional YouTube
+      channel. The interview covered topics such as hybrid warfare, Russia's deterrence
+      strategies, and Iran's role in the evolving global landscape. Although the author
+      is unable to access the interview link due to restrictions in St. Petersburg,
+      they express satisfaction with the discussion and invite community feedback on
+      the content.
+    published: '2025-10-21T12:00:38+00:00'
+  - title: 'TheIrantalks: an interview'
+    url: https://gilbertdoctorow.com/2025/10/21/theirantalks-an-interview/
+    text: 'TheIrantalks: an interview Several days ago I accepted an invitation from
+      a producer to podcast interviews that was new to me, theirantalks, who have a
+      youtube channel of their own and a very professional appearance. The agreed subjects
+      would be hybrid war, who is carrying it out today; Russia’s perceived deterrence;
+      and Iran’s role in the new emerging world order I just received the link to the
+      posted interview this morning and here in St Petersburg youtube.com is inaccessible.
+      Hence I offer this to the Community sight-unseen, but I was pleased with the level
+      of discussion when it took place and look forward to any comments which you may
+      wish to submit ( https://youtu.be/GNQZk8toMwE?si=ZrszoNr84clVgPbx )'
+    one_sentence_summary: The author participated in a podcast interview with TheIrantalks,
+      discussing topics such as hybrid warfare, Russia's deterrence, and Iran's role
+      in the emerging world order, but is unable to access the posted interview on YouTube
+      due to regional restrictions.
+    paragraph_summary: The article discusses an interview the author participated in
+      with a podcast producer from TheIrantalks, which features a professional YouTube
+      channel. The interview covered topics such as hybrid warfare, Russia's deterrence
+      strategies, and Iran's role in the evolving global landscape. Although the author
+      is unable to access the interview link due to restrictions in St. Petersburg,
+      they express satisfaction with the discussion and invite community feedback on
+      the content.
+    published: '2025-10-21T12:00:38+00:00'
+  - title: Does the Vladimir Solovyov talk show speak for President Putin?
+    url: https://gilbertdoctorow.com/2025/10/20/does-the-vladimir-solovyov-talk-show-speak-for-president-putin/
+    text: '20 October 2025 The question of the value of using Russian state television
+      as a means of divining which way the Kremlin is headed on key foreign policy issues
+      has been highly contentious in the Alternative Media community. Some peers mock
+      the idea, saying that the talking heads are irrelevant and that their own personal
+      contacts with some Russian General or presidential advisor in retirement is the
+      real way to understand what is going on behind the closed doors of Vladimir Putin’s
+      offices. Others think they get in from the source from having a private audience
+      with Russian Foreign Minister Sergei Lavrov. Then among the trolls who send in
+      Comments to the Russian-dubbed versions of ‘Judging Freedom’ or the Glenn Diesen
+      channel you see claims that state television no longer is watched by the majority
+      of the population, especially the young, who get their news from social media.
+      That may be noteworthy if the purpose of any given broadcast is to influence the
+      broad public, but it entirely misses the point if the purpose of the broadcast
+      is to send a message to Washington. To all these dissenters on the proper methodology
+      to be used by Russia watchers, I submit that the proof is in the pudding. Last
+      night’s news in The Financial Times, backed up by coverage in this morning’s BBC
+      provides irrefutable evidence that Mr. Solovyov’s program is backed by the Putin
+      government not only as a safety valve for Opposition criticism but at times as
+      an unofficial channel for setting out the strident nationalist positions that
+      the President himself will not say publicly. “Trump urged Zelensky to accept Putin’s
+      terms or ‘be destroyed.’ This article in the FT explains in detail how in their
+      closed-door meeting in the White House President Trump raged at Zelensky, insisting
+      that his country’s survival depends on submitting to Vladimir Putin’s terms for
+      peace, beginning with the surrender of all of the Donbas, including the territory
+      not yet overrun by Russian troops. I call special attention to the words ‘be destroyed.’
+      I quote from the article: “According to a European official with knowledge of
+      the meeting, Trump told Zelensky that Putin had told him the conflict was a ‘special
+      operation, not even a war, adding that the Ukrainian leader needed to cut a deal
+      or face destruction.” This is precisely what Solovyov was saying on air in his
+      program of 14 October, three days before the Trump-Zelensky meeting. Per Solovyov,
+      Russia should stop pussy-footing and face the reality that it was at war with
+      Ukraine, that the Ukrainians were doing all in their power to inflict harm on
+      the Russian Federation and Russia should now respond in kind, raising Ukrainian
+      cities to the ground. Humane solicitude for the Ukrainian population could be
+      shown only after Russian military and political victory was completed. In parallel,
+      we may assume that a similar message was being delivered directly to Team Trump
+      via the backchannels that Russian diplomat to the UN Dmitry Polyansky told Glenn
+      Diesen in an interview a couple of days ago, are working just fine. Solovyov went
+      on to say that in Kiev and other cities, the population should be warned to evacuate
+      the city ahead of Russia’s bombing them flat. He also extended the same advice
+      to the populations of cities in Western Europe, like Brussels, where there are
+      factories manufacturing weapons and munitions that are being supplied to Ukraine.
+      So far, that additional warning appears not to have been passed to European leaders,
+      though here in Brussels I am told by a Flemish insider journalist that Prime Minister
+      Bart De Wever is shaking in his boots. The role of the Solovyov show as communicator
+      of Kremlin thinking does not end there, as was evident on last night’s show. In
+      a discussion with a frequent guest panelist on the show, Lt. General Yevgeny Buzhinsky,
+      Solovyov listened to the general’s account of how in the last week Russian drone,
+      missile and glide bomb attacks all across Ukraine had reached the highest level
+      of intensity in the Special Military Operation to date, destroying vast swathes
+      of the Ukrainian electricity infrastructure. Solovyov then asked him wouldn’t
+      it make more sense to concentrate this firepower on a very limited geographical
+      space like the urban centers Kramatorsk and Slavyansk, heavily fortified centers
+      in the middle of Donetsk oblast that stand in the way of a Russian army sweep
+      across the plain to the Dnieper River? Wouldn’t it make more sense to heavily
+      bomb central Kiev, after which the greater part of the population would flee the
+      city, creating total chaos for the Zelensky regime and for the Western countries
+      where these unwelcome refugees would arrive? Buzhinsky is a professional Russian
+      officer who feels very uncomfortable agreeing to ideas like these which contain
+      a sharp reprimand to the General Staff and to the Supreme Commander (Putin), but
+      nevertheless he agreed with Solovyov. It can be easily imagined that this kind
+      of change in execution of the SMO was communicated to Team Trump in the past week
+      ahead of the Trump-Zelensky meeting in the White House. For all of these reasons,
+      there is reason to hope for a productive summit in Budapest and for an end to
+      the war on Russia’s terms in the near future. A corollary to all the foregoing
+      is that President Putin himself has cardinally changed his position on how to
+      deal with Trump and with the Europeans. Yes, as my peers will say, this was arrived
+      at in a collegial way. BUT the point is not collegiality in decision making. It
+      is that discontent in the political establishment outside the Kremlin with the
+      go-slow, softly-softly approach to the war of President Putin and its prospects
+      for dragging on for years while Europe reindustrialized and rearmed had reached
+      a critical point threatening the stability of the Putin presidency. ©Gilbert Doctorow,
+      2025'
+    one_sentence_summary: The article discusses the debate within the Alternative Media
+      community regarding the relevance of Russian state television as a source for
+      understanding Kremlin foreign policy, with some dismissing it in favor of personal
+      contacts and others noting a shift in news consumption among younger audiences
+      towards social media.
+    paragraph_summary: The article discusses the debate within the Alternative Media
+      community regarding the relevance of Russian state television as a tool for understanding
+      Kremlin foreign policy. Some critics dismiss state media as irrelevant, preferring
+      personal contacts with insiders, while others argue that younger audiences are
+      turning to social media for news. However, the author contends that state television
+      serves a crucial role in conveying messages to Washington, as evidenced by recent
+      reports from The Financial Times and BBC highlighting how programs like that of
+      host Vladimir Solovyov act as unofficial channels for the Kremlin's nationalist
+      rhetoric. The article emphasizes that these broadcasts are not merely aimed at
+      influencing public opinion but also function as a means for the government to
+      communicate its positions indirectly, particularly in the context of international
+      relations and negotiations involving figures like Trump and Zelensky.
+    published: '2025-10-20T07:16:58+00:00'
+  - title: Does the Vladimir Solovyov talk show speak for President Putin?
+    url: https://gilbertdoctorow.com/2025/10/20/does-the-vladimir-solovyov-talk-show-speak-for-president-putin/
+    text: '20 October 2025 The question of the value of using Russian state television
+      as a means of divining which way the Kremlin is headed on key foreign policy issues
+      has been highly contentious in the Alternative Media community. Some peers mock
+      the idea, saying that the talking heads are irrelevant and that their own personal
+      contacts with some Russian General or presidential advisor in retirement is the
+      real way to understand what is going on behind the closed doors of Vladimir Putin’s
+      offices. Others think they get in from the source from having a private audience
+      with Russian Foreign Minister Sergei Lavrov. Then among the trolls who send in
+      Comments to the Russian-dubbed versions of ‘Judging Freedom’ or the Glenn Diesen
+      channel you see claims that state television no longer is watched by the majority
+      of the population, especially the young, who get their news from social media.
+      That may be noteworthy if the purpose of any given broadcast is to influence the
+      broad public, but it entirely misses the point if the purpose of the broadcast
+      is to send a message to Washington. To all these dissenters on the proper methodology
+      to be used by Russia watchers, I submit that the proof is in the pudding. Last
+      night’s news in The Financial Times, backed up by coverage in this morning’s BBC
+      provides irrefutable evidence that Mr. Solovyov’s program is backed by the Putin
+      government not only as a safety valve for Opposition criticism but at times as
+      an unofficial channel for setting out the strident nationalist positions that
+      the President himself will not say publicly. “Trump urged Zelensky to accept Putin’s
+      terms or ‘be destroyed.’ This article in the FT explains in detail how in their
+      closed-door meeting in the White House President Trump raged at Zelensky, insisting
+      that his country’s survival depends on submitting to Vladimir Putin’s terms for
+      peace, beginning with the surrender of all of the Donbas, including the territory
+      not yet overrun by Russian troops. I call special attention to the words ‘be destroyed.’
+      I quote from the article: “According to a European official with knowledge of
+      the meeting, Trump told Zelensky that Putin had told him the conflict was a ‘special
+      operation, not even a war, adding that the Ukrainian leader needed to cut a deal
+      or face destruction.” This is precisely what Solovyov was saying on air in his
+      program of 14 October, three days before the Trump-Zelensky meeting. Per Solovyov,
+      Russia should stop pussy-footing and face the reality that it was at war with
+      Ukraine, that the Ukrainians were doing all in their power to inflict harm on
+      the Russian Federation and Russia should now respond in kind, raising Ukrainian
+      cities to the ground. Humane solicitude for the Ukrainian population could be
+      shown only after Russian military and political victory was completed. In parallel,
+      we may assume that a similar message was being delivered directly to Team Trump
+      via the backchannels that Russian diplomat to the UN Dmitry Polyansky told Glenn
+      Diesen in an interview a couple of days ago, are working just fine. Solovyov went
+      on to say that in Kiev and other cities, the population should be warned to evacuate
+      the city ahead of Russia’s bombing them flat. He also extended the same advice
+      to the populations of cities in Western Europe, like Brussels, where there are
+      factories manufacturing weapons and munitions that are being supplied to Ukraine.
+      So far, that additional warning appears not to have been passed to European leaders,
+      though here in Brussels I am told by a Flemish insider journalist that Prime Minister
+      Bart De Wever is shaking in his boots. The role of the Solovyov show as communicator
+      of Kremlin thinking does not end there, as was evident on last night’s show. In
+      a discussion with a frequent guest panelist on the show, Lt. General Yevgeny Buzhinsky,
+      Solovyov listened to the general’s account of how in the last week Russian drone,
+      missile and glide bomb attacks all across Ukraine had reached the highest level
+      of intensity in the Special Military Operation to date, destroying vast swathes
+      of the Ukrainian electricity infrastructure. Solovyov then asked him wouldn’t
+      it make more sense to concentrate this firepower on a very limited geographical
+      space like the urban centers Kramatorsk and Slavyansk, heavily fortified centers
+      in the middle of Donetsk oblast that stand in the way of a Russian army sweep
+      across the plain to the Dnieper River? Wouldn’t it make more sense to heavily
+      bomb central Kiev, after which the greater part of the population would flee the
+      city, creating total chaos for the Zelensky regime and for the Western countries
+      where these unwelcome refugees would arrive? Buzhinsky is a professional Russian
+      officer who feels very uncomfortable agreeing to ideas like these which contain
+      a sharp reprimand to the General Staff and to the Supreme Commander (Putin), but
+      nevertheless he agreed with Solovyov. It can be easily imagined that this kind
+      of change in execution of the SMO was communicated to Team Trump in the past week
+      ahead of the Trump-Zelensky meeting in the White House. For all of these reasons,
+      there is reason to hope for a productive summit in Budapest and for an end to
+      the war on Russia’s terms in the near future. A corollary to all the foregoing
+      is that President Putin himself has cardinally changed his position on how to
+      deal with Trump and with the Europeans. Yes, as my peers will say, this was arrived
+      at in a collegial way. BUT the point is not collegiality in decision making. It
+      is that discontent in the political establishment outside the Kremlin with the
+      go-slow, softly-softly approach to the war of President Putin and its prospects
+      for dragging on for years while Europe reindustrialized and rearmed had reached
+      a critical point threatening the stability of the Putin presidency. ©Gilbert Doctorow,
+      2025'
+    one_sentence_summary: The article discusses the debate within the Alternative Media
+      community regarding the relevance of Russian state television as a source for
+      understanding Kremlin foreign policy, with some dismissing it in favor of personal
+      contacts and others noting a shift in news consumption among younger audiences
+      towards social media.
+    paragraph_summary: The article discusses the debate within the Alternative Media
+      community regarding the relevance of Russian state television as a tool for understanding
+      Kremlin foreign policy. Some critics dismiss state media as irrelevant, preferring
+      personal contacts with insiders, while others argue that younger audiences are
+      turning to social media for news. However, the author contends that state television
+      serves a crucial role in conveying messages to Washington, as evidenced by recent
+      reports from The Financial Times and BBC highlighting how programs like that of
+      host Vladimir Solovyov act as unofficial channels for the Kremlin's nationalist
+      rhetoric. The article emphasizes that these broadcasts are not merely aimed at
+      influencing public opinion but also function as a means for the government to
+      communicate its positions indirectly, particularly in the context of international
+      relations and negotiations involving figures like Trump and Zelensky.
+    published: '2025-10-20T07:16:58+00:00'
+  - title: Transcript of Firstpost ‘Spotlight’ interview
+    url: https://gilbertdoctorow.com/2025/10/19/transcript-of-firstpost-spotlight-interview/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=JJ_NDwd-GIg
+      Spotlight: 0:00 –the two leaders of Ukraine and of Russia. Of course, Donald Trump
+      announcing this meeting with Putin, a meeting with Zelensky, expected later today.
+      Who do you think Donald Trump trusts? Doctorow: I don’t think he trusts anybody.
+      He is tilting this way and pivoting that way; these are just his negotiating tactics,
+      and they don’t tell you anything about where he really stands. What I’d like to
+      take issue with is the notion that Mr. Trump is in charge, fully in charge, that
+      everything that’s going on is because of decisions that he is making. It’s not
+      that simple. In the case of this meeting that will take place in Budapest, I think
+      that is a last chance for the Russians to find some common grounds with Trump
+      on ending the war. In a sense, Mr. Zarensky was right in saying that the prospect
+      of Tomahawks being delivered to Ukraine has forced the hand of Mr. Putin. He had
+      been under severe criticism by colleagues and by members of the political establishment
+      in Moscow for having been weak, for having looked weak by his go-slow, moderate,
+      turn-the-other cheek, and by his allowing Russia’s red lines to be crossed without
+      any penalty over the last several years, resulting in the most insulting, derogatory
+      remarks about Russia from someone like Mark Rutte, the head of NATO, who spoke
+      within the past week in terms that are unthinkable when you’re talking about one
+      of the world’s biggest and most powerful military establishments, which is Russia.
+      2:03 So the coming to a head, the issue of the Tomahawks forced the hand of Putin.
+      And I believe that there were remarks by back channels in the week preceding the
+      telephone call, in which the Russians made it clear to Donald Trump that if the
+      Tomahawks are delivered, then Russia will declare war on Ukraine, and there will
+      not be one brick left standing on second brick in Kiev. So that was the message,
+      and I think was well received in Washington, and they decided in that case there
+      will be no Tomahawks, and in that case we should prepare for final negotiation
+      to put an end to this war. That’s where we are today. Spotlight: 2:51 Gilbert,
+      building on that, of course, talks that took place between Donald Trump and President
+      Putin in Alaska led to optimism, but a lack of concrete action towards ending
+      this conflict, which has raged on for multiple years now. Why could these talks
+      in Hungary be different? Doctorow: Well, first they’re taking place in Hungary,
+      which all by itself is a political statement. The reason for– there was a dispute
+      in Moscow one week ago, which was very important. The general public, your general
+      audience, would not appreciate what this was, but we experts in Russian affairs
+      who followed it for decades saw a dispute between the designated successor, eventual
+      successor to Lavrov as the head of the Russian Foreign Ministry. He is a deputy
+      minister, Mr. Ryabkov, very important man. And he had come out saying that the
+      delivery of Tomahawks meant the destruction of relations with the United States,
+      which is another way of saying war. He was reprimanded publicly by an adviser
+      to President Putin, Mr. Ushakov, by the press secretary to Mr. Putin, Peskov,
+      and eventually by Mr. Putin himself. And that doesn’t happen. The number two man
+      in the foreign ministry is never publicly rebuked. He was. And now it’s clear
+      what was going on. The tactic of Mr. Putin has been to make sure that the United
+      States remains separate from Europe, that Mr. Trump does not make common cause
+      with the European war hawks. And for that reason, he has humored Mr. Trump. He
+      has said that, well, if you send the Tomahawks, it will damage our relations,
+      when in fact from a Russian standpoint it would ruin the relations. 4:54 He didn’t
+      say that. He doesn’t want to humiliate or seem to force his will on Trump, which
+      would be a very bad idea given the man’s vanity. And so he said it will damage
+      our relations. But behind the scenes you can be sure the message went out to Washington
+      that it will ruin the relations, and there will be total destruction of Ukraine
+      to follow. As a result, we have this meeting in Budapest. And why Budapest? Because
+      Mr. Orban is the closest to the Russians in the European Union and has called
+      for a peace and wanted to be a peacemaker for some time. You can be sure that
+      the war hawks in Europe, Von der Leyen, Rutte, Kaja Kallas, the foreign minister
+      of the EU, will not be present. If I am wrong and they are present, then nothing
+      will be achieved in Budapest. 5:50 But let’s assume that I’m right and they’re
+      not present. That will let the whole world know that Europe has no geopolitical
+      power and counts for nothing. It will also let the world know that Europe is deeply
+      divided between those who want a war, which I mentioned them, and those who want
+      a peaceful settlement and resumption of normal relations with the big neighbor
+      to the east, which is now three member states of the European Union. It is Slovakia,
+      Czechia and Hungary. It’s not just Mr Urbán by himself. So it’s a very big political
+      statement that this is taking place not in Saudi Arabia, not in some neutral third
+      country, but in the heart of Europe where it will drive a knife between those
+      who want peace and those who want war in the European Union. Spotlight: 6:41 Yes,
+      absolutely. Of course, lots of questions still remaining, but looking towards
+      now those meetings, of course, later today with Vlodymyr Zelensky and Donald Trump,
+      and then President Vladimir Putin and President Trump. Gilbert Doctorow thank
+      you ever so much for joining us. Doctorow: Well thanks for inviting me. [closing]
+      Want the facts? The latest developments? News that gets straight to the point.
+      Well, we’ve got all three just for you. This is Firstpost live, a brand new show,
+      your window into what really matters. Don’t miss it.'
+    one_sentence_summary: In a discussion about Donald Trump's upcoming meetings with
+      Ukrainian President Zelensky and Russian President Putin, analyst Doctorow suggests
+      that Trump's negotiating tactics indicate a lack of trust in anyone and that the
+      meeting in Budapest may be a final opportunity for Russia to negotiate an end
+      to the war, influenced by the prospect of U.S. military support for Ukraine.
+    paragraph_summary: The article discusses the complex dynamics surrounding a meeting
+      between Donald Trump, Ukrainian President Volodymyr Zelensky, and Russian President
+      Vladimir Putin, emphasizing Trump's negotiating tactics and lack of trust in anyone.
+      The speaker, Doctorow, argues that Trump is not fully in control of the situation,
+      suggesting that the meeting in Budapest represents a crucial opportunity for Russia
+      to negotiate an end to the war. He highlights that the potential delivery of Tomahawk
+      missiles to Ukraine has pressured Putin, who has faced criticism for appearing
+      weak, and indicates that Russia has warned Trump that such deliveries could lead
+      to a declaration of war against Ukraine, threatening severe consequences for Kiev.
+    published: '2025-10-19T05:32:07+00:00'
+  - title: Transcript of Firstpost ‘Spotlight’ interview
+    url: https://gilbertdoctorow.com/2025/10/19/transcript-of-firstpost-spotlight-interview/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=JJ_NDwd-GIg
+      Spotlight: 0:00 –the two leaders of Ukraine and of Russia. Of course, Donald Trump
+      announcing this meeting with Putin, a meeting with Zelensky, expected later today.
+      Who do you think Donald Trump trusts? Doctorow: I don’t think he trusts anybody.
+      He is tilting this way and pivoting that way; these are just his negotiating tactics,
+      and they don’t tell you anything about where he really stands. What I’d like to
+      take issue with is the notion that Mr. Trump is in charge, fully in charge, that
+      everything that’s going on is because of decisions that he is making. It’s not
+      that simple. In the case of this meeting that will take place in Budapest, I think
+      that is a last chance for the Russians to find some common grounds with Trump
+      on ending the war. In a sense, Mr. Zarensky was right in saying that the prospect
+      of Tomahawks being delivered to Ukraine has forced the hand of Mr. Putin. He had
+      been under severe criticism by colleagues and by members of the political establishment
+      in Moscow for having been weak, for having looked weak by his go-slow, moderate,
+      turn-the-other cheek, and by his allowing Russia’s red lines to be crossed without
+      any penalty over the last several years, resulting in the most insulting, derogatory
+      remarks about Russia from someone like Mark Rutte, the head of NATO, who spoke
+      within the past week in terms that are unthinkable when you’re talking about one
+      of the world’s biggest and most powerful military establishments, which is Russia.
+      2:03 So the coming to a head, the issue of the Tomahawks forced the hand of Putin.
+      And I believe that there were remarks by back channels in the week preceding the
+      telephone call, in which the Russians made it clear to Donald Trump that if the
+      Tomahawks are delivered, then Russia will declare war on Ukraine, and there will
+      not be one brick left standing on second brick in Kiev. So that was the message,
+      and I think was well received in Washington, and they decided in that case there
+      will be no Tomahawks, and in that case we should prepare for final negotiation
+      to put an end to this war. That’s where we are today. Spotlight: 2:51 Gilbert,
+      building on that, of course, talks that took place between Donald Trump and President
+      Putin in Alaska led to optimism, but a lack of concrete action towards ending
+      this conflict, which has raged on for multiple years now. Why could these talks
+      in Hungary be different? Doctorow: Well, first they’re taking place in Hungary,
+      which all by itself is a political statement. The reason for– there was a dispute
+      in Moscow one week ago, which was very important. The general public, your general
+      audience, would not appreciate what this was, but we experts in Russian affairs
+      who followed it for decades saw a dispute between the designated successor, eventual
+      successor to Lavrov as the head of the Russian Foreign Ministry. He is a deputy
+      minister, Mr. Ryabkov, very important man. And he had come out saying that the
+      delivery of Tomahawks meant the destruction of relations with the United States,
+      which is another way of saying war. He was reprimanded publicly by an adviser
+      to President Putin, Mr. Ushakov, by the press secretary to Mr. Putin, Peskov,
+      and eventually by Mr. Putin himself. And that doesn’t happen. The number two man
+      in the foreign ministry is never publicly rebuked. He was. And now it’s clear
+      what was going on. The tactic of Mr. Putin has been to make sure that the United
+      States remains separate from Europe, that Mr. Trump does not make common cause
+      with the European war hawks. And for that reason, he has humored Mr. Trump. He
+      has said that, well, if you send the Tomahawks, it will damage our relations,
+      when in fact from a Russian standpoint it would ruin the relations. 4:54 He didn’t
+      say that. He doesn’t want to humiliate or seem to force his will on Trump, which
+      would be a very bad idea given the man’s vanity. And so he said it will damage
+      our relations. But behind the scenes you can be sure the message went out to Washington
+      that it will ruin the relations, and there will be total destruction of Ukraine
+      to follow. As a result, we have this meeting in Budapest. And why Budapest? Because
+      Mr. Orban is the closest to the Russians in the European Union and has called
+      for a peace and wanted to be a peacemaker for some time. You can be sure that
+      the war hawks in Europe, Von der Leyen, Rutte, Kaja Kallas, the foreign minister
+      of the EU, will not be present. If I am wrong and they are present, then nothing
+      will be achieved in Budapest. 5:50 But let’s assume that I’m right and they’re
+      not present. That will let the whole world know that Europe has no geopolitical
+      power and counts for nothing. It will also let the world know that Europe is deeply
+      divided between those who want a war, which I mentioned them, and those who want
+      a peaceful settlement and resumption of normal relations with the big neighbor
+      to the east, which is now three member states of the European Union. It is Slovakia,
+      Czechia and Hungary. It’s not just Mr Urbán by himself. So it’s a very big political
+      statement that this is taking place not in Saudi Arabia, not in some neutral third
+      country, but in the heart of Europe where it will drive a knife between those
+      who want peace and those who want war in the European Union. Spotlight: 6:41 Yes,
+      absolutely. Of course, lots of questions still remaining, but looking towards
+      now those meetings, of course, later today with Vlodymyr Zelensky and Donald Trump,
+      and then President Vladimir Putin and President Trump. Gilbert Doctorow thank
+      you ever so much for joining us. Doctorow: Well thanks for inviting me. [closing]
+      Want the facts? The latest developments? News that gets straight to the point.
+      Well, we’ve got all three just for you. This is Firstpost live, a brand new show,
+      your window into what really matters. Don’t miss it.'
+    one_sentence_summary: In a discussion about Donald Trump's upcoming meetings with
+      Ukrainian President Zelensky and Russian President Putin, analyst Doctorow suggests
+      that Trump's negotiating tactics indicate a lack of trust in anyone and that the
+      meeting in Budapest may be a final opportunity for Russia to negotiate an end
+      to the war, influenced by the prospect of U.S. military support for Ukraine.
+    paragraph_summary: The article discusses the complex dynamics surrounding a meeting
+      between Donald Trump, Ukrainian President Volodymyr Zelensky, and Russian President
+      Vladimir Putin, emphasizing Trump's negotiating tactics and lack of trust in anyone.
+      The speaker, Doctorow, argues that Trump is not fully in control of the situation,
+      suggesting that the meeting in Budapest represents a crucial opportunity for Russia
+      to negotiate an end to the war. He highlights that the potential delivery of Tomahawk
+      missiles to Ukraine has pressured Putin, who has faced criticism for appearing
+      weak, and indicates that Russia has warned Trump that such deliveries could lead
+      to a declaration of war against Ukraine, threatening severe consequences for Kiev.
+    published: '2025-10-19T05:32:07+00:00'
+  - title: 'Firstpost ‘Spotlight’: Putin Vs Zelensky: Who Does Trump Trust on Ending
+      Russia-Ukraine War?'
+    url: https://gilbertdoctorow.com/2025/10/17/firstpost-spotlight-putin-vs-zelensky-who-does-trump-trust-on-ending-russia-ukraine-war/
+    text: I recommend this 9- minute interview to the Community because the argumentation
+      is very focused. I may be proven wrong in my expectations for the Budapest summit,
+      but based on the information available to us the logic is taut. The joker in the
+      deck is what information is being withheld by the statesmen on all sides. Firstpost
+      is a major Indian broadcaster based in Mumbai. The host is Joshua Barnes.
+    one_sentence_summary: The article recommends a focused 9-minute interview hosted
+      by Joshua Barnes on Firstpost, highlighting the uncertainty surrounding the Budapest
+      summit due to potentially withheld information from various statesmen.
+    paragraph_summary: The article recommends a concise 9-minute interview featuring
+      host Joshua Barnes from Firstpost, a prominent Indian broadcaster, highlighting
+      its focused argumentation regarding expectations for the upcoming Budapest summit.
+      While the author acknowledges the possibility of being proven wrong, they assert
+      that the logic presented is sound, though they note the uncertainty stemming from
+      potentially withheld information by various statesmen involved.
+    published: '2025-10-17T18:31:39+00:00'
+  - title: 'Firstpost ‘Spotlight’: Putin Vs Zelensky: Who Does Trump Trust on Ending
+      Russia-Ukraine War?'
+    url: https://gilbertdoctorow.com/2025/10/17/firstpost-spotlight-putin-vs-zelensky-who-does-trump-trust-on-ending-russia-ukraine-war/
+    text: I recommend this 9- minute interview to the Community because the argumentation
+      is very focused. I may be proven wrong in my expectations for the Budapest summit,
+      but based on the information available to us the logic is taut. The joker in the
+      deck is what information is being withheld by the statesmen on all sides. Firstpost
+      is a major Indian broadcaster based in Mumbai. The host is Joshua Barnes.
+    one_sentence_summary: The article recommends a focused 9-minute interview hosted
+      by Joshua Barnes on Firstpost, highlighting the uncertainty surrounding the Budapest
+      summit due to potentially withheld information from various statesmen.
+    paragraph_summary: The article recommends a concise 9-minute interview featuring
+      host Joshua Barnes from Firstpost, a prominent Indian broadcaster, highlighting
+      its focused argumentation regarding expectations for the upcoming Budapest summit.
+      While the author acknowledges the possibility of being proven wrong, they assert
+      that the logic presented is sound, though they note the uncertainty stemming from
+      potentially withheld information by various statesmen involved.
+    published: '2025-10-17T18:31:39+00:00'
+  - title: Transcript of Conversation with Professor Glenn Diesen, 16 October
+    url: https://gilbertdoctorow.com/2025/10/17/transcript-of-conversation-with-professor-glenn-diesen-16-october/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=6pUbyemlm6s
+      Diesen: 0:00 Welcome back to the program. We are joined today by Gilbert Doctorow,
+      historian and international affairs analyst, to discuss the growing pressure on
+      President Putin, I guess, to give up on some of his restraints and even react
+      more forcefully towards NATO. So thank you for coming on. Doctorow: Well, it’s
+      a pleasure, except that I will not be bringing good tidings to the show. Diesen:
+      Well, it does appear that we’re moving somewhere quite dangerous. That is, only
+      over the past few days, we’ve seen articles such as the one in “Financial Times”
+      where it’s very open that the US is participating in attacks on Russian refineries.
+      Again, hasn’t been denied by the White House. Even Trump seems to be gloating
+      as he speaks and, well, I would say largely exaggerates the gasoline queues in
+      Russia. We have Hegseth talking about imposing costs on Russia and Trump of course
+      working overtime to sabotage the Russian economy, pressuring countries like India
+      to stop trade. 1:11 But also under Trump’s rule, we see that the nuclear deterrent
+      of Russia was attacked back in June. I saw a report yesterday by FSB, which suggested
+      that the British were directly involved in this attack on Russia’s nuclear deterrent.
+      Trump now openly talking about sending Tomahawks, which again could carry nuclear
+      warheads. We, the Russians, would also not be able to know. And again, if Russia
+      sees a Tomahawk launch towards Russia, They can’t really know if there’s a nuclear
+      warhead, if there’s a first strike. So this must be taken into consideration in
+      terms of how they retaliate and respond. So I guess for all of these reasons,
+      we now see some more louder voices in Moscow, both from politicians as well as
+      the media, which more or less sees this restraint as appeasement that will only
+      produce a more dangerous situation as we now take further steps towards a direct
+      war. And yeah, no one really has escalation control here. So it doesn’t take that
+      much imagination to see how such an escalation could lead to a nuclear exchange.
+      So I don’t know, I tend to agree with this assessment though, that we’re heading
+      towards a possible direct war, again, with unthinkable consequences. And escalation
+      control is an illusion that may essentially kill us all. 2:44 So on that very
+      dark, pessimistic start, I wanted to address an article you recently wrote on
+      this topic as well, where you discussed the dilemma in terms of how Russia could
+      respond to NATO’s escalations. What are, the way you see it, the arguments for
+      and against restraints on Russia’s part? Doctorow: 3:08 Well, I will approach
+      this question, shall I say, from a layman’s standpoint, because you are the political
+      scientist who looks at the theoretical considerations around deterrence, and that’s
+      a widely discussed issue. That’s not my metier. But speaking as a layman, I see
+      that Mr. Putin is willy nilly undermining Russia’s deterrence by his restraint.
+      Showing off latest generation missiles and other armaments, where Russia is years
+      ahead of the West and the United States in particular — that isn’t deterrence.
+      Deterrence, finally, is a question of political will to use that arsenal. And
+      it is not at all apparent that Mr. Putin has that will. His actions, his words
+      in the last few months have spoken exactly the opposite. And in that sense, I
+      say he has weakened Russia’s deterrence. Now, where do I get this notion that
+      there is opposition to Mr. Putin? Who is it? Is it the military? Are they plotting
+      against him? Is the KGB plotting against him? I don’t know. Nobody knows. 4:28
+      But I can say the issue is not undercover. It is very much in people’s eyes. And
+      when I make reference now to Russian state television, I want to be sure that
+      people understand that this, when I say talk show, I don’t mean a talk show that
+      you have coming out of NBC. This does not “Meet the Nation”. This is the voice
+      of the Kremlin without being the Kremlin. Now, when people think about the tough
+      voice coming out of Russia, they think about Mr. Medvedev, who was a weakling
+      president and has been very busy the last three years trying to make up for it
+      by super patriotism. Not the only one, there are a number of outstanding Russian
+      political scientists and statesmen who have done the same thing, who are making
+      up for their cuddly behavior towards the West by being overtly xenophobic today.
+      But what am I talking about? I’m talking about Vladimir Solovyov and his show,
+      “The Evening with Solovyov”. 5:32 Who is he? Yes, he’s the host of a talk show,
+      but that doesn’t tell you who he is. He is a close associate of Kiselev, who is
+      the director of all Russian state news on television. He is the protector of the
+      hound dog who follows Putin everywhere, Zarubin. He has been favored by the Russian
+      Defense Ministry to go to the front and to see things that nobody else sees and
+      to get into tanks and to present interviews with people he considers to be special
+      heroes from the front on his television program. So this is not just a chat show.
+      This is a man who is very closely connected to Putin’s circle, who is part of
+      the circle. And he’s been saying, and I think about, you can find on YouTube,
+      but bizarrely, it appeared yesterday on YouTube. I don’t recall the kind of anonymous
+      sponsor who put it on for Russian television, because Russian television by itself
+      is banned from YouTube. The program of the 14th, it is labeled the program of
+      the 15th, the 15th is when it was posted by this intermediary program of Vladimir
+      Solovyov. 7:01 And what he says will shock you out of your skin. He’s saying that
+      Russia is prepared. Russia has allowed red lines to be crossed. It has not stood
+      for its defense, that it has behaved weakly, and that this has to stop. That,
+      well, let me go on. That this is not, we’re no longer in a special military operation.
+      Let’s face the fact, we are now at war. At war. In that case, we don’t care about
+      humane behavior towards the enemy. The Ukrainians are our enemy. They’re trying
+      to do everything to destroy us, and we should respond the same way. We should
+      now bomb all of the decision-making centers in Kiev during the daytime to make
+      sure that all the staff goes down with the buildings. Got it? We should also warn
+      European countries, whoever has factories building weapons that are going to Ukraine,
+      to evacuate their cities. Because well, it’s clear, there’s an open threat to
+      destroy European capitals. I’m in Brussels. We have in downtown Brussels, one
+      such factory. It was formerly a car factory. It’s now making the various types
+      of armaments for Ukraine. So this is a very direct warning. 8:30 The most important
+      thing I’ve considered here was the mention of we are now, let’s stop talking about
+      it, in SMO, we are at war. I’m waiting for Putin to declare war. And I think it
+      will happen as soon as either the Tomahawks are delivered to Ukraine or something
+      similar. That will be the provocation that allows him to do what people like Solovyov
+      are demanding. And once you’re at war, everything goes. At the same time, I’m
+      sitting here in Brussels where I can tell you from an inside source from Flemish
+      newspaper that our Prime Minister de Wever is shaking in his boots over this business
+      of Euroclear’s 145 billion in Russian state assets being turned into collateral.
+      Because he’s afraid, with good reason, that Brussels will be destroyed. So this
+      is why I do not bring my usual note of encouragement to the audience, but I am
+      as alarmed as you appear to be from your opening remarks. We are at a very serious
+      stage. Diesen: 9:45 Yeah, just I don’t see how a direct war now can be avoided
+      because again, if Russia shows restraint, then they will see this as a weakness
+      in NATO and the Tomahawks will be delivered, which the Russians would then have
+      to react to in the most fierce way. And if they do respond, then of course, look
+      at the language we have in Europe. We have some few drones over an airport. And
+      even after we found out that there are Europeans who have been flying them and
+      arrested, we still talk about how this is a hybrid war by Russia. Like we seem
+      so eager to pick a fight. I mean, once the Oreshniks begin to rain upon our production
+      facilities and in logistic centers in Europe, I mean, this is going to be impossible
+      to avoid war. This is, yeah, it seems like we’ve hit the end of the line. 10:40
+      Otherwise, you mentioned the theories on deterrence. I mean, in deterrence, well,
+      at least when I used to teach it, we focused on the three C’s. You have to have
+      the CAPABILITIES to deter. It has to be, well, obvious. You also need it to be,
+      and the Russians do have this with the, especially the Oreshniks, which allows
+      them to climb up the escalation ladder in a very aggressive way without going
+      nuclear. The second is that it has to be CREDIBLE that you’re willing to use this
+      weapon, that once you cross a red line, they will be used. And all of this has
+      to be COMMUNICATED. So this kind of three C’s all has to be present if you want
+      a proper deterrent. But as you said, the desire to kind of hope that you can get
+      along with Trump, it’s undermining the credibility. And this is very, I guess,
+      dangerous communication. I know, you know, in the media, journalists will then
+      hear this and say, well, then you’re supporting the Russians. But this is the
+      problem. It’s not supporting this side or that side. It’s once we go down this
+      road, This is the war. The war becomes the main enemy. 11:48 This is what would
+      possibly destroy everyone. But still, it’s not as if Putin is all naive either.
+      What do you see as being the arguments then for and against these restraints?
+      Because there are reasons why one should also be cautious. Doctorow: Cautious
+      he always has been. That has been his byword in almost any policy that you look
+      at. I’d like to just explain that people may be wondering why I am changing my
+      opinion, not just about Mr. Putin, for whom I have great admiration in all he’s
+      achieved in saving Russia from ruin and giving a Phoenix-like rise to a great-power
+      status again. I don’t deny any of that. But his behavior and the conduct of this
+      war leaves many open questions over whether he still has the nerve to and the
+      willingness to take risk that is imposed on you. 12:49 You don’t have a choice;
+      the risk is on all sides. The question is, which risk do you choose to respond
+      to? And what your calculations are. His calculations, I think, at this point are
+      dead wrong, based on his reading of Trump, which I think is wrong. And then the
+      second thing they’ll say is, why am I now turning against Mr. Trump? Because first
+      I was considered to be a dupe of Putin, and then I was considered by people who
+      don’t like what I say or write, to be a dupe of Trump. Well, my answer to those
+      points is very relevant to our discussion. It is that I am one of the few, unfortunately,
+      who changes my views according to what I see in front of me. If the objective
+      facts change, then my opinion changes, and the objective facts have changed. Mr.
+      Trump with this much-heralded Gaza war solution, heralded by whom? Mostly by the
+      wrong people, meaning the whole EU and all of the other sycophants around him.
+      It is a phony peace settlement. It’s a fraud. But unfortunately, he has been lionized,
+      he’s been, well, he wasn’t given a Nobel Prize, but he came close to that. And
+      he believes that his method of solving these crises by using maximum American
+      force to compel the warring sides to find, to strike a compromise, he believes
+      that he succeeded. I think he’s dead wrong on that. We’ll find out in the next
+      few weeks when the war breaks out again. But he thinks that worked, and he thinks
+      it’s applicable to the Russia-Ukraine war. That is why he’s maximizing pressure
+      on Russia now by saying, falsely by the way, yesterday that he Mr. Modi had promised
+      to stop buying Russian oil. They haven’t. They will scale it back somewhat, and
+      that was what the meeting today with the Saudis is all about. They’re going to
+      try and raise their purchase of Saudi oil and also of US oil, but that doesn’t
+      mean they’re going to stop buying Russian oil. Anyway, he believes that he has
+      everybody in his hands, that he is the almighty ruler of the universe and that
+      everyone will follow his dictates. 15:07 Well, up to a point, andhe has reached
+      that point. Russia is not a small patch of desert next to the Mediterranean Sea
+      called Gaza. Russia is not a small Jewish state surrounded by a hundred million
+      Muslims or more, but fighting them off because of superior military capability.
+      Russia is a world super, is a not super power, but a major international power
+      with the world’s largest stock of nuclear weapons and many other defense feats
+      that are ahead of its peers and competitors by 10 years or more. And he cannot
+      compel them to do his bidding or to sacrifice the reasons why they have lost 150,000
+      dead in this war for the sake of appeasing the vanity of one Donald Trump. That
+      is not going to work. And instead, it may lead to a war that we will all suffer
+      from. So I think everyone should be following this closely. I go to this prestigious
+      social club here in Brussels which brings together– the main purpose of the club
+      is to celebrate how important we all are and to have a good meal. That’s, well,
+      maybe it’s a good reason for a club. But among these people who are very successful
+      professionals in all areas, there’s no awareness at all of what is going on, none.
+      They pick up and read the newspapers and they know as much as anyone reading “New
+      York Times”. And that frightens me very much. Diesen: 16:54 Yeah, it’s, no, I
+      often feel incompetence has reached a dangerous level as well. But this restraint,
+      it’s very openly now, this denounced by the Europeans as a weakness. That is,
+      I saw Mark Rutte, the NATO secretary general, standing on stage, more or less
+      beginning to emulate the kind of language and talk that Trump does. So he argues,
+      you know, the Russians, they can’t even fly their jets, their ships are useless.
+      So the Russians are weak, they’re pointless, their economy is, you know, smaller
+      than Spain or, you know, the usual talking points. So in other words, you know,
+      with Trump, of course, being one of the key people this message is intended for.
+      And at the same time, Trump is powerful, he’s strong. And if he only treats the
+      Russians like he did with the Palestinians, then they will fall in line. I mean,
+      this is, you can almost see why Trump has abandoned this position he previously
+      had. Keep in mind back in February, he was condemning Zelensky for playing with
+      World War III. Now this Trump will seemingly trigger this. And also the Dutch
+      foreign minister, sorry, defense minister arguing that, well, yeah, let’s send
+      the Tomahawks. No one’s discussing anymore any of the consequences. 18:21 What
+      do you mean when a Tomahawk, possibly carrying a nuclear warhead from the Russian
+      perspective, heads inwards towards Russian borders? I mean, how are they expected
+      to respond? The only thing we have to respond is to say, well, you know, they
+      should have thought about this. They should get out of Ukraine. It’s all this.
+      It’s so empty and ridiculous. So I just don’t see how it’s possible to negotiate
+      out of this any more. Doctorow: 18:50 It’s manifestly obvious that Mr. Trump is
+      a bully. It’s less manifestly obvious that most members of the US Congress are
+      also bullies. It is incomprehensible to me that Vladimir Putin doesn’t see this
+      and notice and act the way he said that he did, as a scrappy kid in Leningrad
+      in the courtyards when confronted with bullies. He said, you don’t wait for them
+      to hit you, you hit them first. Where is he now? I hope that he comes to his senses.
+      I hope for all of us that he comes to his senses because he doesn’t, he will be
+      removed and replaced by people who we really do not want to see in power in Russia
+      because they will be very aggressive, very xenophobic, and very ready to go into
+      nuclear war. So it is to all of our advantage that Mr. Putin looks closely at
+      what he’s facing in Trump, which is a bully who will back down when his bluff
+      is called. Nobody in the US government wants to die from Russian missiles. Nobody.
+      They just don’t believe that there’s such a threat. They have to be reminded one
+      way or another that the threat is there and will be operated. And I think they
+      will all back down. Diesen: 20:09 Again, I think that’s the reason why Putin’s
+      been restrained. It’s a big gamble. But other reasons for the restraints possibly
+      being temporary though, because of course one of the reasons in NATO why we would
+      like to do a temporary ceasefire is because all the Ukrainians have to be able
+      to mobilize more men, they have to prepare defensive lines. NATO needs time to
+      ramp up its industrial production. There’s a lot of reasons. But on the Russian
+      side as well, they’re also, I’m assuming now, preparing for a possible direct
+      clash with Europe as the Europeans are preparing to enter this war. Now, I’m assuming
+      that during this time of restraint, the Russians have been building up plenty
+      of Oreshniks and other weaponry, which is not intended for Ukraine. I mean, there’s
+      been a lot of, a few months ago, there’s a lot of reports in the Western media
+      as well that you had– that the Russians were pumping out a lot of armored vehicles,
+      but few of them were sent to the front, like they’re all building up in the back.
+      I mean, there looks like there are many indications that there are now preparations
+      for what seems increasingly unavoidable, which is now a direct war between NATO
+      and Russia. Doctorow: 21:28 Well, let’s look at the timeline. The last week I
+      made the remark that the conversion or the application of Russia’s frozen assets
+      into collateral for loans to Ukraine that will never be repaid, that this was
+      connected with the bigger issue of when Europe is ready to go to war with Russia.
+      And this was confirmed. I was very pleased is the wrong word because what we’re
+      talking about couldn’t please anybody. But the fact of the matter is that the
+      foreign minister of Poland, Sikorski Adego, said that with these funds from the
+      frozen assets, Ukraine will be able to fight the war for three more years. This
+      is exactly what I was saying. These two things are perfectly linked. This is a
+      bridging loan to keep Russia distracted with Ukraine, the war in Ukraine, while
+      Europe prepares for 2028 or 2029 launch of a war against Russia, because it had
+      bulked up sufficiently. These– I really regret that the intimate linkage here
+      is kept out of sight. But Mr. Sikorsky, he told it all yesterday. They are linked.
+      Diesen: 22:53 So what is the way here though? I mean, how can World War III now
+      be avoided? I mean, well, of course, if I would give advice to NATO, I would say,
+      you know, de-escalate if you’re European, pick up a phone and talk to Putin. But
+      you know, we can’t talk to the Russians. We seem determined to continue to escalate.
+      But on the Russian side, what can they do at this point? I know the rhetoric in
+      Europe is that, oh, they should just leave Ukraine, but that doesn’t really solve
+      the war because then NATO moves into Ukraine and all the same problems. The war
+      wouldn’t be over. So what are possible pathways out of this? Because this is pretty
+      much the most pessimistic I’ve been in terms of avoiding another world war since
+      this whole thing began. Doctorow: 23:53 I think it’s all in Putin’s hands. Let
+      me put this in perspective. I detected a week ago when there was this open conflict
+      between Deputy Foreign Minister Ryabkov and Oshakov, the advisor to President
+      Putin and Pieskov, the press secretary of Putin, over whether the spirit, the
+      impulse of Anchorage Alaska’s summit still is in effect or whether it’s been dissipated.
+      Ryabkov said it’s over, meaning the diplomatic path towards normalization with
+      the United States is not viable. He was overruled publicly and unusually by these
+      two gentlemen. And then by Putin himself. That never happens. For casual visitors
+      to this show or to Russian affairs, they would have no sense of this. But those
+      of us who are Russia watchers know this never happens. That the number two man
+      in foreign ministry is put in his place, or man who is supposed to succeed Lavrov,
+      is put in his place in a very undecorous way, indecorous way. That was a tip off,
+      that there’s a big conflict going on at the top in Russia, and in the center of
+      the government. But then I want to put into perspective what I said about Solovyov
+      and his denunciation of the Go Slow approach and of these SMO, the Special Military
+      Operation approach, as opposed to open war. I don’t see that as the cat’s paw
+      of an opposition to Putin within the government or outside the government. I’ve
+      already explained how Mr. Solovyov is so very close to Putin and to Putin’s immediate
+      spokespeople, not just his press secretary, but the man who oversees all of Russia’s
+      television programs on the news. So I believe that Putin himself is preparing
+      to make this transition from the SMO to open the declaration of war on Ukraine,
+      which will change dramatically their behavior. They will destroy everything that
+      exists. 26:25 They will turn Kiev into rubble, not just the downtown Bankovaya,
+      where the government offices are. And they will not look back. As Solovyov said,
+      we will show humane consideration after we’ve won the war, not before. So I think
+      the ball is in Putin’s court. I don’t look for any big change here in the West
+      or here in Europe. I think it will come only after Putin declares war on Ukraine,
+      which could be, as I said, could follow immediately on delivery or rumored delivery
+      of Tomahawks. And that will change in a cardinal fashion the way the war is being
+      prosecuted. That will save us all. Diesen: It looks like one of the reasons why
+      Russia’s been more constrained in terms of, as you say, going to an all-out war
+      as opposed to a special military operation is both its, yeah, the domestic situation
+      as well as its partner states. That is, domestically it was assumed that the public
+      would be very critical if this amount of violence was used against Ukraine. But
+      now, of course, with these last rounds of escalation from NATO, it looks like
+      it would be the contrary that the public would expect or if not demand a harder
+      stance. But you also see some indication from our allies but less common partners
+      that is China, India, I guess, going softer, you know, maintaining only a special
+      military operation was also seen, I think, as not appearing too aggressive and
+      violent in the eyes of the Chinese and the Indians. However, now with again the
+      escalations of NATO, they have a different consideration. Now looking weak in
+      front of their partners is also not ideal because no matter how close partner
+      you are, at some point states will often bet on the winning horse and if it looks
+      that you’re too weak then your partners will turn away from you anyway. So it
+      does seem like, again, all the indicators suggest that we’re heading again towards
+      this very dark place. 28:53 But I guess when the Russian retaliation comes, what
+      do you expect them to go after though? Is it political, military target, the infrastructure
+      inside Ukraine, outside? How do you see the possible climbing up the escalation
+      ladder? Doctorow: Well let’s differentiate between what the Russians will do to
+      Ukraine and what the Russians will do to Western Europe or the United States and
+      you differentiate between the last two, of course. Attacking the United States
+      is the last thing that Russia will do as it prepares for World War III. They have
+      uncertainty about the competence of military and political judgment in Washington,
+      and they know that the two countries can destroy life on earth, so they would
+      prefer any conflict with the United States to be the very last stage in escalation.
+      If the Tomahawks are shipped, I don’t think they’re going to attack if they’re
+      producer is in the United States or any United States military assets outside
+      of the United States. I think the attack will be on the intermediate country,
+      whether it’s Norway or Denmark, whoever decides to carry the water for Washington
+      and be the deliverer of Tomahawks, they will get hit. But as for Ukraine, I think
+      the moment that Mr. Putin declares war on them, which is the first step that he
+      takes, there will be total destruction then. 30:28 All at a conventional level,
+      all using the Oreshnik and all the other means at their disposal to lay waste
+      to Ukraine so it starts to look like Gaza. That’s in their power. And I think
+      the feeling of enmity, of hatred for Ukraine, has reached that point. So as I
+      say, there are three different levels of destruction here, of response. The most
+      severe will be against Ukraine. That will be immediate, leveling it to the extent
+      that they can or want to. The second will be hitting European military assets
+      in Europe, starting with those directly associated with the Tomahawk or other,
+      because it’s not necessarily a Tomahawk. The United States has a few other long
+      range missiles that it can deliver to Ukraine to do the job quite nicely. So whatever
+      is the country that is cooperating with the States, with NATO and acting as NATO
+      to deliver these to Ukraine they will be struck in one way or another probably
+      in a military way, not civilian centers. And until and unless NATO declares war
+      on Russia. In that case, watch out, because everything will be subject to attack,
+      and it will be subject to nuclear attack. 31:50 That’s another, I didn’t mention
+      that in detail, that Russia has made it plain that any war with NATO will be a
+      nuclear war. They are not going to go into tank formations against Poland or anybody
+      else. They will use their nuclear strength to eradicate the military forces and
+      if necessary, civilian populations of Western Europe. Diesen: 32:16 So if we enter,
+      I guess, game theory, this would be a bet essentially on a game of chicken, that
+      is, Russia would strike targets. It seems as if Germany would be kind of high
+      on the list in terms of its potential industrial production, as well as its role
+      as a logistics center, also its mere posture in all this. But once this strike
+      comes, it would then, given that Germany is a non-nuclear state, then it would
+      essentially be a clear signal to the rest of the NATO alliance that the Russians
+      will be, you know, they’re prepared to go all the way. And this is when NATO has
+      the dilemma of either responding in a big way, which would then probably lead
+      to a nuclear exchange or back down. I know if NATO would ever back down, I guess
+      under Trump’s leadership would be the best bet on the Russian side, given that
+      he doesn’t seem to have much problem in terms of flipping his position back and
+      forth. Doctorow: 33:26 Well, the Article 5, he’s already trashed Article 5. So
+      I don’t think any European defense planners can reckon on the United States automatically
+      coming to their aid if Russia attacks with nuclear or without nuclear. I don’t
+      think that the United States is going to risk New York, Los Angeles, Washington
+      for the sake of Munich or Lyon. This is a given and I think most people here in
+      Europe and Brussels understand that. As I say, the ball really is in Putin’s court
+      to find a proper answer to what you described in the opening, which is complete
+      condescension and disregard for Russia as a power. That cannot go on. It only
+      can lead to disaster. Diesen: 34:22 I often make the point how awful the political
+      leadership and media now is. I mean, Imagine during the Cold War, if someone would
+      have done this, say, let’s openly attack key commercial targets, deep inside Russia,
+      military, political targets, again, directly by NATO countries, and any opposition
+      would be dismissed as being pro-Soviet or something along those lines. I mean,
+      the kind of irresponsibility would be unthinkable. But now it’s the only response
+      it seems. I mean, this is the, it just feels like this is really the dumbest way
+      one could possibly stumble into a third world war. But I guess just as a final
+      question, do you think tomorrow, on Friday, this is when Trump said he would make
+      a decision on the Tomahawks. I guess that’s really a good indication when we know
+      whether or not, yeah, we’re going down this path or not. Doctorow: 35:28 Well,
+      irrespective of the Tomahawks, the situation is becoming critical. And I think
+      the fact that this Solovyov program is so open as it was, this corresponds to
+      the situation that we see in the massive pressure that Trump is applying to cut,
+      to hurt severely as possible Russia’s economy, the secondary sanctions, the assault
+      he’s made on Brazil, the assault he’s made on the Indians. This is not supportable
+      for a long time by Russia. You mentioned that the close allies in BRICS can move
+      away from Russia if they feel they’re not winning. I think they also can move
+      away if they fear that the losses that the United States is imposing on them are
+      unsustainable for their economies, too harmful for their population, for them
+      to stand by Russia and then take this beating. And I think that this also figures
+      in to the calculation by Putin’s advisors of when we have to go from an SMO to
+      war. Can we last this out? Can we watch our base, our closest friends abandon
+      us under pressure from Trump? That would have enormous psychological impact on
+      the Russian population. And it wouldn’t be favorable to the governments in power.
+      So I think that Trump is overplaying his hand. I think you mentioned that on one
+      of the– whether with me or another program in the last week or so, the pressure
+      applied and pressure applied and then the spring releases itself in an unexpected
+      and violent way. And I think that’s what we’re about to see, that Trump has overdone
+      it and has misunderstood the limits to his power vis-a-vis Russia. Diesen: 37:40
+      I don’t think he recognized the difference between the large powers and the small
+      power, because a small power can be, like the Palestinians can be forced to stand
+      down or any other, but the large powers, if you’re China, Russia, standing down,
+      it would be the first step towards your destruction. This interesting point that
+      Professor John Mersheimer has. He argues that one of the most fundamental things
+      or dangerous things in the West is the refusal to recognize that Russia sees this
+      war as being an existential threat, including NATO expansion on its borders. But
+      this is quite important, I think, because if you don’t recognize that Russia sees
+      this as existential, then that results in a massive miscalculation and what happens
+      when you mount this much pressure on it, because the assumption or language you
+      hear always from the Americans and Europeans is, “Oh, we just need to put more
+      pressure on Putin. Then he’ll back down.” But again, for the Russians backing
+      down here is an existential threat that would result in their eventual destruction.
+      So there is only escalation here. And again, it looks as if that’s where we’re
+      heading now with, as you said, an actual war. Do you have any final thoughts before
+      we finish off? Doctorow: 39:01 No, the outlook is not good. But the only comfort
+      I can offer is that the first stage in a Russian escalation will be to annihilate
+      Ukraine. No government in Kiev is not an ideal solution, and the people have written
+      to me saying, oh, that’s not the end of the war. Well, it avoids anything dire
+      coming Russia’s way out of whoever is running Ukraine. The chaos that will follow
+      in Ukraine after the decapitation is not only of Mr. Zelensky and his immediate
+      entourage, they were saying, they being Mr. Soloviev, to use the Oreshniks and
+      destroy Bankovaia, and well, the parliament with it, it’s the whole political
+      class in Kiev that they will annihilate. So there’ll be chaos after that happens,
+      and there’ll be no opportunity for whatever is left to strike a blow of any consequence
+      against Russia. So that is a comfort not for those who are living in Kiev or for
+      Ukrainians in general, who we’ll probably find here in the streets of Brussels
+      very soon, if any of this happens, but it is a comfort to the rest of us that
+      it’s not [proceeding] to bombing Western Europe, not to mention the United States.
+      I think we’ll end, the whole thing will end with a show of force that destroys
+      Ukraine. End of subject. Diesen; 40:35 I want to get your opinion on one more
+      thing, which I’ve thought about a lot before. That is, I’m wondering if another
+      miscalculation for us in the West is that we have assumptions about the way Russia
+      escalates. Because when we believe that it doesn’t uphold its red lines, perhaps
+      the Russians just escalate differently. I mean, often we do this gradual incrementalism
+      where we escalate a little bit, a little bit down based on the extent to which,
+      the responses we get. But with the Russians, you see often that they hold back
+      for a while and then they go really, well, not, well, let’s say overboard, that
+      they react in a big way. So they don’t do the incrementalism that NATO is renowned
+      for. So I often think about the speech, last speech Putin gave around the time
+      they annexed Crimea in 2014. And he used this analogy, he referred to pushing
+      a spring further and further back until it finally shoots out. 41:35 And essentially
+      this was a reference to 20 years of warning, stop expanding NATO on our borders.
+      So we will have to take action at some point. And then he said, this was the spring
+      idea. And then of course, from 2014, we kind of gradually developed a Ukrainian
+      army, almost make it a defacto NATO member, ignore everything that comes out of
+      Moscow. And then again, eight years later, they come with this reaction where
+      they again, launch this invasion where they send in their military. And again,
+      you can put this with after we began sending the weapons, we didn’t do it, They
+      didn’t do anything. And suddenly they go in and annex four regions. I mean, maybe
+      it’s just, we don’t know. Maybe we escalate. We go up and down the escalation
+      ladder in a very different way than the Russians. 42:26 So, but this is a problem
+      with NATO’s incrementalism as well. The reason why I do small steps forward is
+      because the reason why you started with tanks, then you did HIMARS, then you did
+      F-16s, things which we ourselves recognize could trigger World War III, because
+      once you do another step, it’s so small, it doesn’t really matter. But once the
+      response actually comes, it seems very disproportionate. But I mean, are we fooling
+      ourselves, I guess, is what I’m asking with this incrementalism. Doctorow: 42:56
+      Well, I would explain Russian incrementalism. It’s been variable over this 10-year
+      period. But one thing I want to dismiss is the notion that Russia was had by Minsk
+      II, but they were deceived by Merkel and by Hollande, who had no intention of
+      implementing this properly, and Putin more or less agreeing with that. I don’t
+      believe that for a moment on the Russian side. What people pay very little attention
+      to is that Russia, which could have destroyed entirely the Ukrainian armed forces
+      in 2014, didn’t dare do that because it knew what would follow: an attack that
+      didn’t have to be a kinetic war, it could be just an economic attack on Russia,
+      which it was totally unprepared to sustain. 43:47 It took Russia 10 years to prepare
+      for that eventuality and to survive the sanctions from hell. So Russia, maybe
+      Ukraine was preparing its army the whole time, and Russia was preparing its economy
+      the whole time and its army as well. So there was a reason, there was a reason
+      for this restraint because it was busy doing something that it couldn’t talk about.
+      I think the reason for that restraint ended in 2018, 2019 when they were satisfied
+      that their latest offensive weapons and their rearming, their nuclear triad had
+      reached the point where they were superior and ahead of the United States for
+      the first time ever in strategic weapons. And then they were prepared to make
+      a move. So I would put their restraint in that it is without calculating or other
+      crafty restraints wasn’t a naive and stupid restraint. But what we have seen for
+      the last few years looks more like a stupid restraint. Now I may be missing something.
+      Perhaps they don’t have more than three Oreshniks when you actually count the
+      noses here. There could be a reason for this, that they were lying about the production
+      facility and they don’t have sufficient arms to match their words. That could
+      be. But if that’s not the case, if they really have been building, as you were
+      suggesting a few minutes ago, a real cache of hardware to be used when needed,
+      then the restraint doesn’t make much sense. Use it or lose it. And if they fail
+      to defend their interests, then they will lose it. So that’s my answer to this
+      question. It’s not a simple question that you were asking. Diesen: 45:42 Well,
+      no one from Moscow is giving me the facts of what’s happening behind the scenes.
+      But again, it is an hypothesis though that, again, as you suggested, between 2014
+      and 2022, Russia was making its economy sanctions-proof and also preparing enough
+      military force in case there would be a larger war. And after 2022 to 2025, they
+      similarly went very slow and showed restraint as they do, I guess, perhaps recognize
+      that if Ukraine loses or not if but when Ukraine lose the war that NATO might
+      join in and that appears to be what’s happening now. So having had three and a
+      half years to prepare, I’m guessing that, again, I don’t know what’s happening
+      inside the weapon depots or what kind of hypersonic missiles or Oreshniks they
+      have been building up, but I’m assuming that they are quite aware that NATO would
+      join in on the fight after Russia had exhausted itself a bit on the Ukrainians.
+      46:49 Anyways, thank you for taking the time. This is a very dark topic, but I’ll
+      be very curious to see what happens tomorrow because is Trump just bluffing, or
+      is he actually going to go through with this, the Tomahawks that is, which can
+      only be interpreted as a declaration of war? So thanks again. Doctorow: 47:11
+      All right. Thank you.'
+    one_sentence_summary: In a discussion with historian Gilbert Doctorow, the conversation
+      highlights the increasing pressure on President Putin to adopt a more aggressive
+      stance towards NATO amidst reports of U.S. involvement in attacks on Russian infrastructure,
+      suggesting a dangerous escalation in tensions.
+    paragraph_summary: In a recent discussion, historian and international affairs analyst
+      Gilbert Doctorow highlighted the escalating tensions between Russia and NATO,
+      particularly under the influence of U.S. actions and rhetoric. He noted that recent
+      reports indicate U.S. involvement in attacks on Russian refineries, which has
+      not been denied by the White House, and pointed out that former President Trump
+      is exacerbating the situation by undermining the Russian economy and discussing
+      military options, including the potential use of Tomahawk missiles. Doctorow emphasized
+      that these developments are leading to a perception in Moscow that restraint is
+      being viewed as weakness, prompting calls for a more aggressive response from
+      Russian officials and media. He warned that the lack of control over escalation
+      could result in a dangerous direct conflict.
+    published: '2025-10-17T11:23:02+00:00'
+  - title: Transcript of Conversation with Professor Glenn Diesen, 16 October
+    url: https://gilbertdoctorow.com/2025/10/17/transcript-of-conversation-with-professor-glenn-diesen-16-october/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=6pUbyemlm6s
+      Diesen: 0:00 Welcome back to the program. We are joined today by Gilbert Doctorow,
+      historian and international affairs analyst, to discuss the growing pressure on
+      President Putin, I guess, to give up on some of his restraints and even react
+      more forcefully towards NATO. So thank you for coming on. Doctorow: Well, it’s
+      a pleasure, except that I will not be bringing good tidings to the show. Diesen:
+      Well, it does appear that we’re moving somewhere quite dangerous. That is, only
+      over the past few days, we’ve seen articles such as the one in “Financial Times”
+      where it’s very open that the US is participating in attacks on Russian refineries.
+      Again, hasn’t been denied by the White House. Even Trump seems to be gloating
+      as he speaks and, well, I would say largely exaggerates the gasoline queues in
+      Russia. We have Hegseth talking about imposing costs on Russia and Trump of course
+      working overtime to sabotage the Russian economy, pressuring countries like India
+      to stop trade. 1:11 But also under Trump’s rule, we see that the nuclear deterrent
+      of Russia was attacked back in June. I saw a report yesterday by FSB, which suggested
+      that the British were directly involved in this attack on Russia’s nuclear deterrent.
+      Trump now openly talking about sending Tomahawks, which again could carry nuclear
+      warheads. We, the Russians, would also not be able to know. And again, if Russia
+      sees a Tomahawk launch towards Russia, They can’t really know if there’s a nuclear
+      warhead, if there’s a first strike. So this must be taken into consideration in
+      terms of how they retaliate and respond. So I guess for all of these reasons,
+      we now see some more louder voices in Moscow, both from politicians as well as
+      the media, which more or less sees this restraint as appeasement that will only
+      produce a more dangerous situation as we now take further steps towards a direct
+      war. And yeah, no one really has escalation control here. So it doesn’t take that
+      much imagination to see how such an escalation could lead to a nuclear exchange.
+      So I don’t know, I tend to agree with this assessment though, that we’re heading
+      towards a possible direct war, again, with unthinkable consequences. And escalation
+      control is an illusion that may essentially kill us all. 2:44 So on that very
+      dark, pessimistic start, I wanted to address an article you recently wrote on
+      this topic as well, where you discussed the dilemma in terms of how Russia could
+      respond to NATO’s escalations. What are, the way you see it, the arguments for
+      and against restraints on Russia’s part? Doctorow: 3:08 Well, I will approach
+      this question, shall I say, from a layman’s standpoint, because you are the political
+      scientist who looks at the theoretical considerations around deterrence, and that’s
+      a widely discussed issue. That’s not my metier. But speaking as a layman, I see
+      that Mr. Putin is willy nilly undermining Russia’s deterrence by his restraint.
+      Showing off latest generation missiles and other armaments, where Russia is years
+      ahead of the West and the United States in particular — that isn’t deterrence.
+      Deterrence, finally, is a question of political will to use that arsenal. And
+      it is not at all apparent that Mr. Putin has that will. His actions, his words
+      in the last few months have spoken exactly the opposite. And in that sense, I
+      say he has weakened Russia’s deterrence. Now, where do I get this notion that
+      there is opposition to Mr. Putin? Who is it? Is it the military? Are they plotting
+      against him? Is the KGB plotting against him? I don’t know. Nobody knows. 4:28
+      But I can say the issue is not undercover. It is very much in people’s eyes. And
+      when I make reference now to Russian state television, I want to be sure that
+      people understand that this, when I say talk show, I don’t mean a talk show that
+      you have coming out of NBC. This does not “Meet the Nation”. This is the voice
+      of the Kremlin without being the Kremlin. Now, when people think about the tough
+      voice coming out of Russia, they think about Mr. Medvedev, who was a weakling
+      president and has been very busy the last three years trying to make up for it
+      by super patriotism. Not the only one, there are a number of outstanding Russian
+      political scientists and statesmen who have done the same thing, who are making
+      up for their cuddly behavior towards the West by being overtly xenophobic today.
+      But what am I talking about? I’m talking about Vladimir Solovyov and his show,
+      “The Evening with Solovyov”. 5:32 Who is he? Yes, he’s the host of a talk show,
+      but that doesn’t tell you who he is. He is a close associate of Kiselev, who is
+      the director of all Russian state news on television. He is the protector of the
+      hound dog who follows Putin everywhere, Zarubin. He has been favored by the Russian
+      Defense Ministry to go to the front and to see things that nobody else sees and
+      to get into tanks and to present interviews with people he considers to be special
+      heroes from the front on his television program. So this is not just a chat show.
+      This is a man who is very closely connected to Putin’s circle, who is part of
+      the circle. And he’s been saying, and I think about, you can find on YouTube,
+      but bizarrely, it appeared yesterday on YouTube. I don’t recall the kind of anonymous
+      sponsor who put it on for Russian television, because Russian television by itself
+      is banned from YouTube. The program of the 14th, it is labeled the program of
+      the 15th, the 15th is when it was posted by this intermediary program of Vladimir
+      Solovyov. 7:01 And what he says will shock you out of your skin. He’s saying that
+      Russia is prepared. Russia has allowed red lines to be crossed. It has not stood
+      for its defense, that it has behaved weakly, and that this has to stop. That,
+      well, let me go on. That this is not, we’re no longer in a special military operation.
+      Let’s face the fact, we are now at war. At war. In that case, we don’t care about
+      humane behavior towards the enemy. The Ukrainians are our enemy. They’re trying
+      to do everything to destroy us, and we should respond the same way. We should
+      now bomb all of the decision-making centers in Kiev during the daytime to make
+      sure that all the staff goes down with the buildings. Got it? We should also warn
+      European countries, whoever has factories building weapons that are going to Ukraine,
+      to evacuate their cities. Because well, it’s clear, there’s an open threat to
+      destroy European capitals. I’m in Brussels. We have in downtown Brussels, one
+      such factory. It was formerly a car factory. It’s now making the various types
+      of armaments for Ukraine. So this is a very direct warning. 8:30 The most important
+      thing I’ve considered here was the mention of we are now, let’s stop talking about
+      it, in SMO, we are at war. I’m waiting for Putin to declare war. And I think it
+      will happen as soon as either the Tomahawks are delivered to Ukraine or something
+      similar. That will be the provocation that allows him to do what people like Solovyov
+      are demanding. And once you’re at war, everything goes. At the same time, I’m
+      sitting here in Brussels where I can tell you from an inside source from Flemish
+      newspaper that our Prime Minister de Wever is shaking in his boots over this business
+      of Euroclear’s 145 billion in Russian state assets being turned into collateral.
+      Because he’s afraid, with good reason, that Brussels will be destroyed. So this
+      is why I do not bring my usual note of encouragement to the audience, but I am
+      as alarmed as you appear to be from your opening remarks. We are at a very serious
+      stage. Diesen: 9:45 Yeah, just I don’t see how a direct war now can be avoided
+      because again, if Russia shows restraint, then they will see this as a weakness
+      in NATO and the Tomahawks will be delivered, which the Russians would then have
+      to react to in the most fierce way. And if they do respond, then of course, look
+      at the language we have in Europe. We have some few drones over an airport. And
+      even after we found out that there are Europeans who have been flying them and
+      arrested, we still talk about how this is a hybrid war by Russia. Like we seem
+      so eager to pick a fight. I mean, once the Oreshniks begin to rain upon our production
+      facilities and in logistic centers in Europe, I mean, this is going to be impossible
+      to avoid war. This is, yeah, it seems like we’ve hit the end of the line. 10:40
+      Otherwise, you mentioned the theories on deterrence. I mean, in deterrence, well,
+      at least when I used to teach it, we focused on the three C’s. You have to have
+      the CAPABILITIES to deter. It has to be, well, obvious. You also need it to be,
+      and the Russians do have this with the, especially the Oreshniks, which allows
+      them to climb up the escalation ladder in a very aggressive way without going
+      nuclear. The second is that it has to be CREDIBLE that you’re willing to use this
+      weapon, that once you cross a red line, they will be used. And all of this has
+      to be COMMUNICATED. So this kind of three C’s all has to be present if you want
+      a proper deterrent. But as you said, the desire to kind of hope that you can get
+      along with Trump, it’s undermining the credibility. And this is very, I guess,
+      dangerous communication. I know, you know, in the media, journalists will then
+      hear this and say, well, then you’re supporting the Russians. But this is the
+      problem. It’s not supporting this side or that side. It’s once we go down this
+      road, This is the war. The war becomes the main enemy. 11:48 This is what would
+      possibly destroy everyone. But still, it’s not as if Putin is all naive either.
+      What do you see as being the arguments then for and against these restraints?
+      Because there are reasons why one should also be cautious. Doctorow: Cautious
+      he always has been. That has been his byword in almost any policy that you look
+      at. I’d like to just explain that people may be wondering why I am changing my
+      opinion, not just about Mr. Putin, for whom I have great admiration in all he’s
+      achieved in saving Russia from ruin and giving a Phoenix-like rise to a great-power
+      status again. I don’t deny any of that. But his behavior and the conduct of this
+      war leaves many open questions over whether he still has the nerve to and the
+      willingness to take risk that is imposed on you. 12:49 You don’t have a choice;
+      the risk is on all sides. The question is, which risk do you choose to respond
+      to? And what your calculations are. His calculations, I think, at this point are
+      dead wrong, based on his reading of Trump, which I think is wrong. And then the
+      second thing they’ll say is, why am I now turning against Mr. Trump? Because first
+      I was considered to be a dupe of Putin, and then I was considered by people who
+      don’t like what I say or write, to be a dupe of Trump. Well, my answer to those
+      points is very relevant to our discussion. It is that I am one of the few, unfortunately,
+      who changes my views according to what I see in front of me. If the objective
+      facts change, then my opinion changes, and the objective facts have changed. Mr.
+      Trump with this much-heralded Gaza war solution, heralded by whom? Mostly by the
+      wrong people, meaning the whole EU and all of the other sycophants around him.
+      It is a phony peace settlement. It’s a fraud. But unfortunately, he has been lionized,
+      he’s been, well, he wasn’t given a Nobel Prize, but he came close to that. And
+      he believes that his method of solving these crises by using maximum American
+      force to compel the warring sides to find, to strike a compromise, he believes
+      that he succeeded. I think he’s dead wrong on that. We’ll find out in the next
+      few weeks when the war breaks out again. But he thinks that worked, and he thinks
+      it’s applicable to the Russia-Ukraine war. That is why he’s maximizing pressure
+      on Russia now by saying, falsely by the way, yesterday that he Mr. Modi had promised
+      to stop buying Russian oil. They haven’t. They will scale it back somewhat, and
+      that was what the meeting today with the Saudis is all about. They’re going to
+      try and raise their purchase of Saudi oil and also of US oil, but that doesn’t
+      mean they’re going to stop buying Russian oil. Anyway, he believes that he has
+      everybody in his hands, that he is the almighty ruler of the universe and that
+      everyone will follow his dictates. 15:07 Well, up to a point, andhe has reached
+      that point. Russia is not a small patch of desert next to the Mediterranean Sea
+      called Gaza. Russia is not a small Jewish state surrounded by a hundred million
+      Muslims or more, but fighting them off because of superior military capability.
+      Russia is a world super, is a not super power, but a major international power
+      with the world’s largest stock of nuclear weapons and many other defense feats
+      that are ahead of its peers and competitors by 10 years or more. And he cannot
+      compel them to do his bidding or to sacrifice the reasons why they have lost 150,000
+      dead in this war for the sake of appeasing the vanity of one Donald Trump. That
+      is not going to work. And instead, it may lead to a war that we will all suffer
+      from. So I think everyone should be following this closely. I go to this prestigious
+      social club here in Brussels which brings together– the main purpose of the club
+      is to celebrate how important we all are and to have a good meal. That’s, well,
+      maybe it’s a good reason for a club. But among these people who are very successful
+      professionals in all areas, there’s no awareness at all of what is going on, none.
+      They pick up and read the newspapers and they know as much as anyone reading “New
+      York Times”. And that frightens me very much. Diesen: 16:54 Yeah, it’s, no, I
+      often feel incompetence has reached a dangerous level as well. But this restraint,
+      it’s very openly now, this denounced by the Europeans as a weakness. That is,
+      I saw Mark Rutte, the NATO secretary general, standing on stage, more or less
+      beginning to emulate the kind of language and talk that Trump does. So he argues,
+      you know, the Russians, they can’t even fly their jets, their ships are useless.
+      So the Russians are weak, they’re pointless, their economy is, you know, smaller
+      than Spain or, you know, the usual talking points. So in other words, you know,
+      with Trump, of course, being one of the key people this message is intended for.
+      And at the same time, Trump is powerful, he’s strong. And if he only treats the
+      Russians like he did with the Palestinians, then they will fall in line. I mean,
+      this is, you can almost see why Trump has abandoned this position he previously
+      had. Keep in mind back in February, he was condemning Zelensky for playing with
+      World War III. Now this Trump will seemingly trigger this. And also the Dutch
+      foreign minister, sorry, defense minister arguing that, well, yeah, let’s send
+      the Tomahawks. No one’s discussing anymore any of the consequences. 18:21 What
+      do you mean when a Tomahawk, possibly carrying a nuclear warhead from the Russian
+      perspective, heads inwards towards Russian borders? I mean, how are they expected
+      to respond? The only thing we have to respond is to say, well, you know, they
+      should have thought about this. They should get out of Ukraine. It’s all this.
+      It’s so empty and ridiculous. So I just don’t see how it’s possible to negotiate
+      out of this any more. Doctorow: 18:50 It’s manifestly obvious that Mr. Trump is
+      a bully. It’s less manifestly obvious that most members of the US Congress are
+      also bullies. It is incomprehensible to me that Vladimir Putin doesn’t see this
+      and notice and act the way he said that he did, as a scrappy kid in Leningrad
+      in the courtyards when confronted with bullies. He said, you don’t wait for them
+      to hit you, you hit them first. Where is he now? I hope that he comes to his senses.
+      I hope for all of us that he comes to his senses because he doesn’t, he will be
+      removed and replaced by people who we really do not want to see in power in Russia
+      because they will be very aggressive, very xenophobic, and very ready to go into
+      nuclear war. So it is to all of our advantage that Mr. Putin looks closely at
+      what he’s facing in Trump, which is a bully who will back down when his bluff
+      is called. Nobody in the US government wants to die from Russian missiles. Nobody.
+      They just don’t believe that there’s such a threat. They have to be reminded one
+      way or another that the threat is there and will be operated. And I think they
+      will all back down. Diesen: 20:09 Again, I think that’s the reason why Putin’s
+      been restrained. It’s a big gamble. But other reasons for the restraints possibly
+      being temporary though, because of course one of the reasons in NATO why we would
+      like to do a temporary ceasefire is because all the Ukrainians have to be able
+      to mobilize more men, they have to prepare defensive lines. NATO needs time to
+      ramp up its industrial production. There’s a lot of reasons. But on the Russian
+      side as well, they’re also, I’m assuming now, preparing for a possible direct
+      clash with Europe as the Europeans are preparing to enter this war. Now, I’m assuming
+      that during this time of restraint, the Russians have been building up plenty
+      of Oreshniks and other weaponry, which is not intended for Ukraine. I mean, there’s
+      been a lot of, a few months ago, there’s a lot of reports in the Western media
+      as well that you had– that the Russians were pumping out a lot of armored vehicles,
+      but few of them were sent to the front, like they’re all building up in the back.
+      I mean, there looks like there are many indications that there are now preparations
+      for what seems increasingly unavoidable, which is now a direct war between NATO
+      and Russia. Doctorow: 21:28 Well, let’s look at the timeline. The last week I
+      made the remark that the conversion or the application of Russia’s frozen assets
+      into collateral for loans to Ukraine that will never be repaid, that this was
+      connected with the bigger issue of when Europe is ready to go to war with Russia.
+      And this was confirmed. I was very pleased is the wrong word because what we’re
+      talking about couldn’t please anybody. But the fact of the matter is that the
+      foreign minister of Poland, Sikorski Adego, said that with these funds from the
+      frozen assets, Ukraine will be able to fight the war for three more years. This
+      is exactly what I was saying. These two things are perfectly linked. This is a
+      bridging loan to keep Russia distracted with Ukraine, the war in Ukraine, while
+      Europe prepares for 2028 or 2029 launch of a war against Russia, because it had
+      bulked up sufficiently. These– I really regret that the intimate linkage here
+      is kept out of sight. But Mr. Sikorsky, he told it all yesterday. They are linked.
+      Diesen: 22:53 So what is the way here though? I mean, how can World War III now
+      be avoided? I mean, well, of course, if I would give advice to NATO, I would say,
+      you know, de-escalate if you’re European, pick up a phone and talk to Putin. But
+      you know, we can’t talk to the Russians. We seem determined to continue to escalate.
+      But on the Russian side, what can they do at this point? I know the rhetoric in
+      Europe is that, oh, they should just leave Ukraine, but that doesn’t really solve
+      the war because then NATO moves into Ukraine and all the same problems. The war
+      wouldn’t be over. So what are possible pathways out of this? Because this is pretty
+      much the most pessimistic I’ve been in terms of avoiding another world war since
+      this whole thing began. Doctorow: 23:53 I think it’s all in Putin’s hands. Let
+      me put this in perspective. I detected a week ago when there was this open conflict
+      between Deputy Foreign Minister Ryabkov and Oshakov, the advisor to President
+      Putin and Pieskov, the press secretary of Putin, over whether the spirit, the
+      impulse of Anchorage Alaska’s summit still is in effect or whether it’s been dissipated.
+      Ryabkov said it’s over, meaning the diplomatic path towards normalization with
+      the United States is not viable. He was overruled publicly and unusually by these
+      two gentlemen. And then by Putin himself. That never happens. For casual visitors
+      to this show or to Russian affairs, they would have no sense of this. But those
+      of us who are Russia watchers know this never happens. That the number two man
+      in foreign ministry is put in his place, or man who is supposed to succeed Lavrov,
+      is put in his place in a very undecorous way, indecorous way. That was a tip off,
+      that there’s a big conflict going on at the top in Russia, and in the center of
+      the government. But then I want to put into perspective what I said about Solovyov
+      and his denunciation of the Go Slow approach and of these SMO, the Special Military
+      Operation approach, as opposed to open war. I don’t see that as the cat’s paw
+      of an opposition to Putin within the government or outside the government. I’ve
+      already explained how Mr. Solovyov is so very close to Putin and to Putin’s immediate
+      spokespeople, not just his press secretary, but the man who oversees all of Russia’s
+      television programs on the news. So I believe that Putin himself is preparing
+      to make this transition from the SMO to open the declaration of war on Ukraine,
+      which will change dramatically their behavior. They will destroy everything that
+      exists. 26:25 They will turn Kiev into rubble, not just the downtown Bankovaya,
+      where the government offices are. And they will not look back. As Solovyov said,
+      we will show humane consideration after we’ve won the war, not before. So I think
+      the ball is in Putin’s court. I don’t look for any big change here in the West
+      or here in Europe. I think it will come only after Putin declares war on Ukraine,
+      which could be, as I said, could follow immediately on delivery or rumored delivery
+      of Tomahawks. And that will change in a cardinal fashion the way the war is being
+      prosecuted. That will save us all. Diesen: It looks like one of the reasons why
+      Russia’s been more constrained in terms of, as you say, going to an all-out war
+      as opposed to a special military operation is both its, yeah, the domestic situation
+      as well as its partner states. That is, domestically it was assumed that the public
+      would be very critical if this amount of violence was used against Ukraine. But
+      now, of course, with these last rounds of escalation from NATO, it looks like
+      it would be the contrary that the public would expect or if not demand a harder
+      stance. But you also see some indication from our allies but less common partners
+      that is China, India, I guess, going softer, you know, maintaining only a special
+      military operation was also seen, I think, as not appearing too aggressive and
+      violent in the eyes of the Chinese and the Indians. However, now with again the
+      escalations of NATO, they have a different consideration. Now looking weak in
+      front of their partners is also not ideal because no matter how close partner
+      you are, at some point states will often bet on the winning horse and if it looks
+      that you’re too weak then your partners will turn away from you anyway. So it
+      does seem like, again, all the indicators suggest that we’re heading again towards
+      this very dark place. 28:53 But I guess when the Russian retaliation comes, what
+      do you expect them to go after though? Is it political, military target, the infrastructure
+      inside Ukraine, outside? How do you see the possible climbing up the escalation
+      ladder? Doctorow: Well let’s differentiate between what the Russians will do to
+      Ukraine and what the Russians will do to Western Europe or the United States and
+      you differentiate between the last two, of course. Attacking the United States
+      is the last thing that Russia will do as it prepares for World War III. They have
+      uncertainty about the competence of military and political judgment in Washington,
+      and they know that the two countries can destroy life on earth, so they would
+      prefer any conflict with the United States to be the very last stage in escalation.
+      If the Tomahawks are shipped, I don’t think they’re going to attack if they’re
+      producer is in the United States or any United States military assets outside
+      of the United States. I think the attack will be on the intermediate country,
+      whether it’s Norway or Denmark, whoever decides to carry the water for Washington
+      and be the deliverer of Tomahawks, they will get hit. But as for Ukraine, I think
+      the moment that Mr. Putin declares war on them, which is the first step that he
+      takes, there will be total destruction then. 30:28 All at a conventional level,
+      all using the Oreshnik and all the other means at their disposal to lay waste
+      to Ukraine so it starts to look like Gaza. That’s in their power. And I think
+      the feeling of enmity, of hatred for Ukraine, has reached that point. So as I
+      say, there are three different levels of destruction here, of response. The most
+      severe will be against Ukraine. That will be immediate, leveling it to the extent
+      that they can or want to. The second will be hitting European military assets
+      in Europe, starting with those directly associated with the Tomahawk or other,
+      because it’s not necessarily a Tomahawk. The United States has a few other long
+      range missiles that it can deliver to Ukraine to do the job quite nicely. So whatever
+      is the country that is cooperating with the States, with NATO and acting as NATO
+      to deliver these to Ukraine they will be struck in one way or another probably
+      in a military way, not civilian centers. And until and unless NATO declares war
+      on Russia. In that case, watch out, because everything will be subject to attack,
+      and it will be subject to nuclear attack. 31:50 That’s another, I didn’t mention
+      that in detail, that Russia has made it plain that any war with NATO will be a
+      nuclear war. They are not going to go into tank formations against Poland or anybody
+      else. They will use their nuclear strength to eradicate the military forces and
+      if necessary, civilian populations of Western Europe. Diesen: 32:16 So if we enter,
+      I guess, game theory, this would be a bet essentially on a game of chicken, that
+      is, Russia would strike targets. It seems as if Germany would be kind of high
+      on the list in terms of its potential industrial production, as well as its role
+      as a logistics center, also its mere posture in all this. But once this strike
+      comes, it would then, given that Germany is a non-nuclear state, then it would
+      essentially be a clear signal to the rest of the NATO alliance that the Russians
+      will be, you know, they’re prepared to go all the way. And this is when NATO has
+      the dilemma of either responding in a big way, which would then probably lead
+      to a nuclear exchange or back down. I know if NATO would ever back down, I guess
+      under Trump’s leadership would be the best bet on the Russian side, given that
+      he doesn’t seem to have much problem in terms of flipping his position back and
+      forth. Doctorow: 33:26 Well, the Article 5, he’s already trashed Article 5. So
+      I don’t think any European defense planners can reckon on the United States automatically
+      coming to their aid if Russia attacks with nuclear or without nuclear. I don’t
+      think that the United States is going to risk New York, Los Angeles, Washington
+      for the sake of Munich or Lyon. This is a given and I think most people here in
+      Europe and Brussels understand that. As I say, the ball really is in Putin’s court
+      to find a proper answer to what you described in the opening, which is complete
+      condescension and disregard for Russia as a power. That cannot go on. It only
+      can lead to disaster. Diesen: 34:22 I often make the point how awful the political
+      leadership and media now is. I mean, Imagine during the Cold War, if someone would
+      have done this, say, let’s openly attack key commercial targets, deep inside Russia,
+      military, political targets, again, directly by NATO countries, and any opposition
+      would be dismissed as being pro-Soviet or something along those lines. I mean,
+      the kind of irresponsibility would be unthinkable. But now it’s the only response
+      it seems. I mean, this is the, it just feels like this is really the dumbest way
+      one could possibly stumble into a third world war. But I guess just as a final
+      question, do you think tomorrow, on Friday, this is when Trump said he would make
+      a decision on the Tomahawks. I guess that’s really a good indication when we know
+      whether or not, yeah, we’re going down this path or not. Doctorow: 35:28 Well,
+      irrespective of the Tomahawks, the situation is becoming critical. And I think
+      the fact that this Solovyov program is so open as it was, this corresponds to
+      the situation that we see in the massive pressure that Trump is applying to cut,
+      to hurt severely as possible Russia’s economy, the secondary sanctions, the assault
+      he’s made on Brazil, the assault he’s made on the Indians. This is not supportable
+      for a long time by Russia. You mentioned that the close allies in BRICS can move
+      away from Russia if they feel they’re not winning. I think they also can move
+      away if they fear that the losses that the United States is imposing on them are
+      unsustainable for their economies, too harmful for their population, for them
+      to stand by Russia and then take this beating. And I think that this also figures
+      in to the calculation by Putin’s advisors of when we have to go from an SMO to
+      war. Can we last this out? Can we watch our base, our closest friends abandon
+      us under pressure from Trump? That would have enormous psychological impact on
+      the Russian population. And it wouldn’t be favorable to the governments in power.
+      So I think that Trump is overplaying his hand. I think you mentioned that on one
+      of the– whether with me or another program in the last week or so, the pressure
+      applied and pressure applied and then the spring releases itself in an unexpected
+      and violent way. And I think that’s what we’re about to see, that Trump has overdone
+      it and has misunderstood the limits to his power vis-a-vis Russia. Diesen: 37:40
+      I don’t think he recognized the difference between the large powers and the small
+      power, because a small power can be, like the Palestinians can be forced to stand
+      down or any other, but the large powers, if you’re China, Russia, standing down,
+      it would be the first step towards your destruction. This interesting point that
+      Professor John Mersheimer has. He argues that one of the most fundamental things
+      or dangerous things in the West is the refusal to recognize that Russia sees this
+      war as being an existential threat, including NATO expansion on its borders. But
+      this is quite important, I think, because if you don’t recognize that Russia sees
+      this as existential, then that results in a massive miscalculation and what happens
+      when you mount this much pressure on it, because the assumption or language you
+      hear always from the Americans and Europeans is, “Oh, we just need to put more
+      pressure on Putin. Then he’ll back down.” But again, for the Russians backing
+      down here is an existential threat that would result in their eventual destruction.
+      So there is only escalation here. And again, it looks as if that’s where we’re
+      heading now with, as you said, an actual war. Do you have any final thoughts before
+      we finish off? Doctorow: 39:01 No, the outlook is not good. But the only comfort
+      I can offer is that the first stage in a Russian escalation will be to annihilate
+      Ukraine. No government in Kiev is not an ideal solution, and the people have written
+      to me saying, oh, that’s not the end of the war. Well, it avoids anything dire
+      coming Russia’s way out of whoever is running Ukraine. The chaos that will follow
+      in Ukraine after the decapitation is not only of Mr. Zelensky and his immediate
+      entourage, they were saying, they being Mr. Soloviev, to use the Oreshniks and
+      destroy Bankovaia, and well, the parliament with it, it’s the whole political
+      class in Kiev that they will annihilate. So there’ll be chaos after that happens,
+      and there’ll be no opportunity for whatever is left to strike a blow of any consequence
+      against Russia. So that is a comfort not for those who are living in Kiev or for
+      Ukrainians in general, who we’ll probably find here in the streets of Brussels
+      very soon, if any of this happens, but it is a comfort to the rest of us that
+      it’s not [proceeding] to bombing Western Europe, not to mention the United States.
+      I think we’ll end, the whole thing will end with a show of force that destroys
+      Ukraine. End of subject. Diesen; 40:35 I want to get your opinion on one more
+      thing, which I’ve thought about a lot before. That is, I’m wondering if another
+      miscalculation for us in the West is that we have assumptions about the way Russia
+      escalates. Because when we believe that it doesn’t uphold its red lines, perhaps
+      the Russians just escalate differently. I mean, often we do this gradual incrementalism
+      where we escalate a little bit, a little bit down based on the extent to which,
+      the responses we get. But with the Russians, you see often that they hold back
+      for a while and then they go really, well, not, well, let’s say overboard, that
+      they react in a big way. So they don’t do the incrementalism that NATO is renowned
+      for. So I often think about the speech, last speech Putin gave around the time
+      they annexed Crimea in 2014. And he used this analogy, he referred to pushing
+      a spring further and further back until it finally shoots out. 41:35 And essentially
+      this was a reference to 20 years of warning, stop expanding NATO on our borders.
+      So we will have to take action at some point. And then he said, this was the spring
+      idea. And then of course, from 2014, we kind of gradually developed a Ukrainian
+      army, almost make it a defacto NATO member, ignore everything that comes out of
+      Moscow. And then again, eight years later, they come with this reaction where
+      they again, launch this invasion where they send in their military. And again,
+      you can put this with after we began sending the weapons, we didn’t do it, They
+      didn’t do anything. And suddenly they go in and annex four regions. I mean, maybe
+      it’s just, we don’t know. Maybe we escalate. We go up and down the escalation
+      ladder in a very different way than the Russians. 42:26 So, but this is a problem
+      with NATO’s incrementalism as well. The reason why I do small steps forward is
+      because the reason why you started with tanks, then you did HIMARS, then you did
+      F-16s, things which we ourselves recognize could trigger World War III, because
+      once you do another step, it’s so small, it doesn’t really matter. But once the
+      response actually comes, it seems very disproportionate. But I mean, are we fooling
+      ourselves, I guess, is what I’m asking with this incrementalism. Doctorow: 42:56
+      Well, I would explain Russian incrementalism. It’s been variable over this 10-year
+      period. But one thing I want to dismiss is the notion that Russia was had by Minsk
+      II, but they were deceived by Merkel and by Hollande, who had no intention of
+      implementing this properly, and Putin more or less agreeing with that. I don’t
+      believe that for a moment on the Russian side. What people pay very little attention
+      to is that Russia, which could have destroyed entirely the Ukrainian armed forces
+      in 2014, didn’t dare do that because it knew what would follow: an attack that
+      didn’t have to be a kinetic war, it could be just an economic attack on Russia,
+      which it was totally unprepared to sustain. 43:47 It took Russia 10 years to prepare
+      for that eventuality and to survive the sanctions from hell. So Russia, maybe
+      Ukraine was preparing its army the whole time, and Russia was preparing its economy
+      the whole time and its army as well. So there was a reason, there was a reason
+      for this restraint because it was busy doing something that it couldn’t talk about.
+      I think the reason for that restraint ended in 2018, 2019 when they were satisfied
+      that their latest offensive weapons and their rearming, their nuclear triad had
+      reached the point where they were superior and ahead of the United States for
+      the first time ever in strategic weapons. And then they were prepared to make
+      a move. So I would put their restraint in that it is without calculating or other
+      crafty restraints wasn’t a naive and stupid restraint. But what we have seen for
+      the last few years looks more like a stupid restraint. Now I may be missing something.
+      Perhaps they don’t have more than three Oreshniks when you actually count the
+      noses here. There could be a reason for this, that they were lying about the production
+      facility and they don’t have sufficient arms to match their words. That could
+      be. But if that’s not the case, if they really have been building, as you were
+      suggesting a few minutes ago, a real cache of hardware to be used when needed,
+      then the restraint doesn’t make much sense. Use it or lose it. And if they fail
+      to defend their interests, then they will lose it. So that’s my answer to this
+      question. It’s not a simple question that you were asking. Diesen: 45:42 Well,
+      no one from Moscow is giving me the facts of what’s happening behind the scenes.
+      But again, it is an hypothesis though that, again, as you suggested, between 2014
+      and 2022, Russia was making its economy sanctions-proof and also preparing enough
+      military force in case there would be a larger war. And after 2022 to 2025, they
+      similarly went very slow and showed restraint as they do, I guess, perhaps recognize
+      that if Ukraine loses or not if but when Ukraine lose the war that NATO might
+      join in and that appears to be what’s happening now. So having had three and a
+      half years to prepare, I’m guessing that, again, I don’t know what’s happening
+      inside the weapon depots or what kind of hypersonic missiles or Oreshniks they
+      have been building up, but I’m assuming that they are quite aware that NATO would
+      join in on the fight after Russia had exhausted itself a bit on the Ukrainians.
+      46:49 Anyways, thank you for taking the time. This is a very dark topic, but I’ll
+      be very curious to see what happens tomorrow because is Trump just bluffing, or
+      is he actually going to go through with this, the Tomahawks that is, which can
+      only be interpreted as a declaration of war? So thanks again. Doctorow: 47:11
+      All right. Thank you.'
+    one_sentence_summary: In a discussion with historian Gilbert Doctorow, the conversation
+      highlights the increasing pressure on President Putin to adopt a more aggressive
+      stance towards NATO amidst reports of U.S. involvement in attacks on Russian infrastructure,
+      suggesting a dangerous escalation in tensions.
+    paragraph_summary: In a recent discussion, historian and international affairs analyst
+      Gilbert Doctorow highlighted the escalating tensions between Russia and NATO,
+      particularly under the influence of U.S. actions and rhetoric. He noted that recent
+      reports indicate U.S. involvement in attacks on Russian refineries, which has
+      not been denied by the White House, and pointed out that former President Trump
+      is exacerbating the situation by undermining the Russian economy and discussing
+      military options, including the potential use of Tomahawk missiles. Doctorow emphasized
+      that these developments are leading to a perception in Moscow that restraint is
+      being viewed as weakness, prompting calls for a more aggressive response from
+      Russian officials and media. He warned that the lack of control over escalation
+      could result in a dangerous direct conflict.
+    published: '2025-10-17T11:23:02+00:00'
+  - title: 'NewsX World: Donald Trump Announces Upcoming Meeting With Putin in Hungary'
+    url: https://gilbertdoctorow.com/2025/10/17/newsx-world-donald-trump-announces-upcoming-meeting-with-putin-in-hungary/
+    text: I come on at 3.30 minutes The points made here are in line with the texts
+      I published late last night and this morning in which I tried to make sense of
+      Trump’s latest change of heart about sending Tomahawks to Ukraine and his agreeing
+      to a meeting with Putin in Budapest at which they may jointly define the terms
+      of the peace with Ukraine that Mr. Zelensky will be obliged to accept or face
+      total destruction of his country and likely loss of his own life. The link below
+      is a continuation of the same discussion
+    one_sentence_summary: The article discusses Trump's recent shift in stance regarding
+      military support for Ukraine and his potential meeting with Putin to negotiate
+      peace terms that could jeopardize Ukraine's sovereignty and Zelensky's safety.
+    paragraph_summary: The article discusses former President Trump's recent shift in
+      stance regarding military support for Ukraine, specifically his willingness to
+      send Tomahawk missiles and his agreement to meet with Putin in Budapest. This
+      meeting could lead to a joint definition of peace terms for Ukraine, which President
+      Zelensky may have to accept to avoid severe consequences for his country and personal
+      safety. The author connects these developments to their earlier writings, suggesting
+      a consistent analysis of the geopolitical situation.
+    published: '2025-10-17T11:16:30+00:00'
+  - title: 'NewsX World: Donald Trump Announces Upcoming Meeting With Putin in Hungary'
+    url: https://gilbertdoctorow.com/2025/10/17/newsx-world-donald-trump-announces-upcoming-meeting-with-putin-in-hungary/
+    text: I come on at 3.30 minutes The points made here are in line with the texts
+      I published late last night and this morning in which I tried to make sense of
+      Trump’s latest change of heart about sending Tomahawks to Ukraine and his agreeing
+      to a meeting with Putin in Budapest at which they may jointly define the terms
+      of the peace with Ukraine that Mr. Zelensky will be obliged to accept or face
+      total destruction of his country and likely loss of his own life. The link below
+      is a continuation of the same discussion
+    one_sentence_summary: The article discusses Trump's recent shift in stance regarding
+      military support for Ukraine and his potential meeting with Putin to negotiate
+      peace terms that could jeopardize Ukraine's sovereignty and Zelensky's safety.
+    paragraph_summary: The article discusses former President Trump's recent shift in
+      stance regarding military support for Ukraine, specifically his willingness to
+      send Tomahawk missiles and his agreement to meet with Putin in Budapest. This
+      meeting could lead to a joint definition of peace terms for Ukraine, which President
+      Zelensky may have to accept to avoid severe consequences for his country and personal
+      safety. The author connects these developments to their earlier writings, suggesting
+      a consistent analysis of the geopolitical situation.
+    published: '2025-10-17T11:16:30+00:00'
+  - title: 'Conversation with Professor Glenn Diesen, 16 October: NATO-Russia War May
+      Now Be Unavoidable'
+    url: https://gilbertdoctorow.com/2025/10/16/conversation-with-professor-glenn-diesen-16-october-nato-russia-war-may-now-be-unavoidable/
+    text: 'As they say, it is always darkest before the dawn.  Though this discussion
+      was recorded at noon, Brussels time today, figuratively speaking it took place
+      before the “dawn” that arrived at 8pm when the Kremlin released a lengthy summary
+      of the just completed two-and-a-half-hour phone call between Presidents Putin
+      and Trump.  To all appearances, that phone call draws us back from a pending crisis
+      that would open a clear path to a NATO-Russia war, as the title that Glenn Diesen
+      assigned to our video reads. When we spoke at noon, we knew that Trump would be
+      receiving a visit from Volodymyr Zelensky in the White House tomorrow at which
+      he was expected to announce his decision to dispatch Tomahawk cruise missiles
+      to Ukraine. We also had reason to believe that the Russian reaction to such news
+      could be a dramatic escalation in the conflict. As I mention in this video, two
+      days ago, on 14 October, talk show host Vladimir Solovyov said on Russian state
+      television that it was time to respond appropriately to the rising threat to Russian
+      security and in particular to the delivery of Tomahawks by declaring war on Ukraine
+      and proceeding to beat the hell out of Kiev by missile strikes on all the decision-making
+      centers in the capital. This decapitation would extend well beyond Zelensky and
+      his circle to virtually the entire political class of Ukraine, while the country
+      would be bombed into ruins. And as I explain, Solovyov is not just a talking head:
+      for reasons I set out here it is fair to say that his threats were cleared with
+      Putin for delivery in this unofficial way.  The fact that this show of the 14
+      th was posted on youtube, as virtually never happens, suggests that it was meant
+      as a direct warning to the United States. If that is so, then today’s phone call
+      indicates that the message was received by the intended audience and Washington
+      is taking a step back from the disaster that was otherwise pending. We must be
+      grateful for small favors and hope that reason will prevail at the foreseen summit
+      between Putin and Trump at a date still to be announced. In the meantime, I recommend
+      this conversation with Glenn Diesen to see where we were headed, and may yet be
+      headed, if the summit in Budapest does not result in a breakthrough in the deadlock
+      between Russia and NATO over a conclusion to the Special Military Operation that
+      addresses and resolves the root causes of the conflict as stated by Moscow. ©Gilbert
+      Doctorow, 2025'
+    one_sentence_summary: A recent phone call between Presidents Putin and Trump appears
+      to have averted a potential NATO-Russia conflict, coinciding with Trump's upcoming
+      meeting with Ukrainian President Zelensky, amid rising tensions over military
+      support for Ukraine.
+    paragraph_summary: The article discusses a significant phone call between Presidents
+      Putin and Trump, which seemingly averted a potential NATO-Russia conflict that
+      was escalating due to the impending delivery of Tomahawk missiles to Ukraine.
+      Prior to the call, there were fears of a dramatic Russian response, particularly
+      after Russian talk show host Vladimir Solovyov suggested a military escalation
+      against Ukraine, indicating a possible declaration of war and severe attacks on
+      Ukrainian leadership. The timing and public nature of Solovyov's threats hinted
+      at a message intended for the U.S., and the subsequent phone call appears to have
+      calmed tensions, suggesting that Washington recognized the seriousness of the
+      situation and chose to de-escalate. The article expresses cautious optimism that
+      reason may prevail in this volatile scenario.
+    published: '2025-10-16T19:16:10+00:00'
+  - title: 'Conversation with Professor Glenn Diesen, 16 October: NATO-Russia War May
+      Now Be Unavoidable'
+    url: https://gilbertdoctorow.com/2025/10/16/conversation-with-professor-glenn-diesen-16-october-nato-russia-war-may-now-be-unavoidable/
+    text: 'As they say, it is always darkest before the dawn.  Though this discussion
+      was recorded at noon, Brussels time today, figuratively speaking it took place
+      before the “dawn” that arrived at 8pm when the Kremlin released a lengthy summary
+      of the just completed two-and-a-half-hour phone call between Presidents Putin
+      and Trump.  To all appearances, that phone call draws us back from a pending crisis
+      that would open a clear path to a NATO-Russia war, as the title that Glenn Diesen
+      assigned to our video reads. When we spoke at noon, we knew that Trump would be
+      receiving a visit from Volodymyr Zelensky in the White House tomorrow at which
+      he was expected to announce his decision to dispatch Tomahawk cruise missiles
+      to Ukraine. We also had reason to believe that the Russian reaction to such news
+      could be a dramatic escalation in the conflict. As I mention in this video, two
+      days ago, on 14 October, talk show host Vladimir Solovyov said on Russian state
+      television that it was time to respond appropriately to the rising threat to Russian
+      security and in particular to the delivery of Tomahawks by declaring war on Ukraine
+      and proceeding to beat the hell out of Kiev by missile strikes on all the decision-making
+      centers in the capital. This decapitation would extend well beyond Zelensky and
+      his circle to virtually the entire political class of Ukraine, while the country
+      would be bombed into ruins. And as I explain, Solovyov is not just a talking head:
+      for reasons I set out here it is fair to say that his threats were cleared with
+      Putin for delivery in this unofficial way.  The fact that this show of the 14
+      th was posted on youtube, as virtually never happens, suggests that it was meant
+      as a direct warning to the United States. If that is so, then today’s phone call
+      indicates that the message was received by the intended audience and Washington
+      is taking a step back from the disaster that was otherwise pending. We must be
+      grateful for small favors and hope that reason will prevail at the foreseen summit
+      between Putin and Trump at a date still to be announced. In the meantime, I recommend
+      this conversation with Glenn Diesen to see where we were headed, and may yet be
+      headed, if the summit in Budapest does not result in a breakthrough in the deadlock
+      between Russia and NATO over a conclusion to the Special Military Operation that
+      addresses and resolves the root causes of the conflict as stated by Moscow. ©Gilbert
+      Doctorow, 2025'
+    one_sentence_summary: A recent phone call between Presidents Putin and Trump appears
+      to have averted a potential NATO-Russia conflict, coinciding with Trump's upcoming
+      meeting with Ukrainian President Zelensky, amid rising tensions over military
+      support for Ukraine.
+    paragraph_summary: The article discusses a significant phone call between Presidents
+      Putin and Trump, which seemingly averted a potential NATO-Russia conflict that
+      was escalating due to the impending delivery of Tomahawk missiles to Ukraine.
+      Prior to the call, there were fears of a dramatic Russian response, particularly
+      after Russian talk show host Vladimir Solovyov suggested a military escalation
+      against Ukraine, indicating a possible declaration of war and severe attacks on
+      Ukrainian leadership. The timing and public nature of Solovyov's threats hinted
+      at a message intended for the U.S., and the subsequent phone call appears to have
+      calmed tensions, suggesting that Washington recognized the seriousness of the
+      situation and chose to de-escalate. The article expresses cautious optimism that
+      reason may prevail in this volatile scenario.
+    published: '2025-10-16T19:16:10+00:00'
+  - title: 'NewsX World: Putin Meets Syrian President'
+    url: https://gilbertdoctorow.com/2025/10/16/newsx-world-putin-meets-syrian-president/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a distinctive perspective on the conflict through his firsthand
+      accounts from Russia during a time when Western journalists were largely absent,
+      complementing his earlier work on the expatriate community in Moscow during the
+      1990s.
+    paragraph_summary: Gilbert Doctorow's book, "War Diaries. The Russia-Ukraine War,
+      2022-2023," offers a distinctive perspective on the ongoing conflict through his
+      firsthand accounts from the Russian home front during a time when Western journalists
+      were largely absent due to visa restrictions. This work builds on his previous
+      two-volume memoir, "Memoirs of a Russianist," which features diary entries reflecting
+      on his experiences in Russia, particularly focusing on the expatriate community
+      in Moscow during the 1990s. With a rich background as a professional observer
+      of Russian affairs since 1965, Doctorow holds degrees from Harvard and Columbia
+      and has had a diverse career in business and academia, including leadership roles
+      in literary and scholarly institutions. He currently resides in Brussels.
+    published: '2025-10-16T11:14:40+00:00'
   - title: 'NewsX World: Zelensky Speaks With Trump Over Air Defenses And Long-Range
       Strike Capabilities'
     url: https://gilbertdoctorow.com/2025/10/13/newsx-world-zelensky-speaks-with-trump-over-air-defenses-and-long-range-strike-capabilities/

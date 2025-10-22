@@ -8,18 +8,2360 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  Amid escalating global tensions, the latest analyses highlight the deepening complexity of the Gaza conflict, the shifting economic landscape in the West, and the ongoing transformation of the international order.
+  As of October 22, 2025, the global geopolitical landscape remains volatile, with U.S. foreign policy under the Trump administration continuing to drive significant developments across multiple regions. Analysts highlight ongoing covert operations, shifting alliances, and economic turbulence as key factors shaping current events.
   
-  The most recent commentary by **Michael Hudson** underscores that the war in Gaza is not merely a regional struggle but is increasingly framed as a NATO-backed operation, with the United States and its allies deeply implicated. Hudson stresses that this broader framing is essential for understanding the geopolitical stakes, arguing, “This is not just Israel’s war; it is a NATO conflict.” He contends that the American public and policymakers must reorient their perceptions, recognizing the conflict as part of a larger contest over global influence and security architecture.
+  **Escalation in Venezuela**
+  The most recent reports indicate a renewed focus on Venezuela, where the Trump administration has reportedly authorized CIA covert operations aimed at destabilizing President Nicolás Maduro’s government. **Michael Hudson** notes that Republican Senator Rick Scott’s public remarks underscore the precariousness of Maduro’s position, suggesting that U.S. efforts to engineer regime change are intensifying. This development is seen as part of a broader strategy to reassert U.S. influence in Latin America, though the risks of backlash and regional instability remain high.
   
-  On the economic front, Hudson draws attention to the persistent neglect of balance of payments theory in U.S. economic education, which he sees as a critical blind spot. He argues that without a proper grasp of how military spending and foreign policy decisions impact the U.S. balance of payments, policymakers are ill-equipped to address the country’s structural economic weaknesses. This critique is particularly salient as the U.S. continues to finance extensive overseas military operations, further exacerbating its deficits.
+  **Heightened Nuclear Tensions**
+  Concerns are mounting over the Trump administration’s approach to Russia and the Middle East. **Michael Hudson** warns that the U.S. government’s perception of these foreign conflicts could “lead to a heightened risk of nuclear war,” especially as rhetoric and military posturing escalate. The majority of analysts agree that the current U.S. posture is increasing the probability of miscalculation, with a high chance of further deterioration in U.S.-Russia relations.
   
-  Meanwhile, the broader trend toward multipolarity continues to gain momentum. As discussed in recent interviews, the shift away from a unipolar U.S.-dominated system is enabling countries to diversify economic and strategic partnerships. This reduces Washington’s leverage, especially as BRICS and the Shanghai Cooperation Organization offer alternative frameworks for cooperation. Hudson notes that “countries now have more options to diversify their economic partnerships away from the US, reducing its leverage over allies and neutral states.”
+  **Economic and Financial Strains**
+  On the economic front, the U.S. Federal Reserve’s recent decision to decrease interest rates has sparked controversy. **Radhika Desai** and **Michael Hudson** discuss how this move, influenced by political pressures from the Trump administration, reflects deeper structural challenges in the U.S. financial system. There is a consensus that ongoing military spending, trade wars, and policy missteps are exacerbating the U.S. balance of payments deficit, with negative repercussions for both domestic and global markets.
   
-  Looking ahead, the majority of analysts cited by Hudson anticipate that the U.S. will face mounting challenges in sustaining its global dominance, both militarily and economically. There is high confidence that the trend toward multipolarity will accelerate, with more states seeking alternatives to U.S.-centric institutions. On the Gaza front, unless there is a significant policy shift in Washington or among its NATO partners, the conflict is likely to persist, with broader regional and global repercussions.
-  
-  In summary, the latest developments point to a world in flux: the Gaza conflict is emblematic of deeper geopolitical realignments, U.S. economic vulnerabilities are increasingly exposed, and the multipolar order is no longer a distant prospect but an emerging reality. I guarantee that these trends will continue to shape international relations in the months ahead.
+  **Trends and Predictions**
+  The prevailing trend is one of increasing polarization and instability, both regionally and globally. The U.S. is doubling down on interventionist policies, particularly in Latin America and the Middle East, while economic pressures at home and abroad are mounting. Given the current trajectory, I guarantee that geopolitical tensions—especially with Russia and in the Western Hemisphere—will continue to escalate in the coming months. The risk of unintended conflict remains high, and the likelihood of significant economic disruptions is most definite if current policies persist.
 articles:
+  - title: Managed Democracy?
+    url: https://michael-hudson.com/2025/10/managed-democracy/
+    text: 'NIMA ALKHORSHID: Hi, everybody. Today is Thursday, October 16, 2025, and
+      our friends, Richard Wolff and Michael Hudson, join us today. Welcome, Richard
+      and Michael. ⁣MICHAEL HUDSON: Good to be here. ⁣RICHARD WOLFF: Hello. ⁣NIMA ALKHORSHID:
+      Richard, let’s start with you, and with the reports we had in the New York Times
+      that Donald Trump and his administration have authorized the CIA to do some sort
+      of covert operation in Venezuela to overthrow [President Nicolás] Maduro. And
+      here is what we’ve learned from Republican Senator Rick Scott on Fox News: RICK
+      SCOTT, U.S. Senator, R-FL, Senate Armed Services Committee (CLIP): I think if
+      Maduro’s smart he’s going to go ahead and move to Russia, or China, some place
+      like that, because his days are numbered. You know, the public of Venezuela don’t
+      want him. They rejected him in the last election. He stole the election. He’s
+      a dictator, a drug cartel leader. So, his days are numbered. However they do it,
+      I look forward to the day that he is no longer in Venezuela. It’ll be great for
+      the world. ⁣NIMA ALKHORSHID: What do you expect, Richard, from what’s going on?
+      ⁣RICHARD WOLFF: Well, the only interesting thing about Rick Scott — and let me
+      tell you, it takes a lot of work to find an interesting thing about Rick Scott
+      — but the only interesting thing about his remark was that little remark at the
+      end: whatever it takes. Because that’s where we are. And also, I like the way
+      the television station juxtaposed the camera on him making the statement and,
+      likewise, on the boat, somewhere in the Caribbean, that is being targeted by the
+      missile. I want to say here for the record: The United States is, therefore, engaged,
+      by the president, with the approval of people like Mr. Scott, in being the police,
+      the army, the judge, the jury, and the lawyer, for people it is executing. Those
+      people were not arrested. Those people never had a chance to have a lawyer explain
+      who they were, what they are. By the way, it’s not just Venezuelans. Today’s newspaper
+      indicates that Colombians have also been killed in boats. So, who knows how widespread
+      this is? Who knows how much we’re being told? I want to also stress to people
+      that being in the drug trade is not treated as a capital crime inside the United
+      States. People are arrested for the drug traffic in this country every day. They
+      are not executed. Those that are found guilty are subject to various kinds of
+      imprisonment and punishment, but they are not executed. So, we arrest people in
+      this country; we give them a lawyer; they have their day in court; they get a
+      judgment; and they are not killed. What are we doing in the rest of the world?
+      We are showing the rest of the world a little bit — a junior version — of what
+      the Israelis have done in Gaza. We’re killing people. We’re killing people who
+      are alleged to be involved in a crime that we don’t kill people for in our own
+      country. You know, I’ve been around a while. I don’t recall anyone being executed
+      in the United States for drug traffic, ever. I may be wrong, there may be somebody
+      who once was, but it is hardly ever done. So, what are we doing here? We’re showing
+      the world that we’re a tough guy. You know, that’s what the tariffs were: a big
+      piece of theater, but it didn’t cost anyone’s life. Now, we’re saying we’re prepared
+      — and we’re not only prepared to kill people — with no judge, no jury, no lawyer,
+      no due process, none of the guarantees that we say we revere as intrinsic to the
+      Constitution and the values of the United States — all out the window — that is
+      a remarkable statement to make. And we don’t like Mr. — Everybody who studies
+      the drug traffic knows that the major problem of drugs comes from the Pacific
+      side of the continent, not the Atlantic side; that there are loads of people involved
+      who seem to be able to continue, with very little interference. Nor has the United
+      States ever acknowledged, or admitted, that the problem begins with the fact that
+      the United States is the world’s richest market for the drugs — the endpoint of
+      the trade is mostly here — and that we could do a lot more here without violating
+      our Constitution to deal with it, if we were — we’re not. It’s another message
+      to the rest of the world that the United States is going it alone, that the United
+      States is isolated, that the United States is relying on military power because
+      its economic and political reach is now so weak. You know, we start — at this
+      point, when you behave like this, then things have to be called by their proper
+      name, not by their polite name. The people, the immigrants, who came to this country
+      for a chance to do what immigrants have always come to this country for a chance
+      to do, are now being hounded by a special police force, and detained in concentration
+      camps — that’s what they are. Let’s be clear. Let’s stop playing these silly games.
+      We are killing people. We’re promising to overthrow governments in the worst replay
+      of the ancient activity of the United States in Latin America, which is as old
+      as the Monroe Doctrine — and let me remind you, that’s from the 1830s. What in
+      the world do you expect, now? What are the countries in the BRICS going to think,
+      given what Mr. Trump has said about them? Are they being overthrown by the CIA?
+      Are we really back in that world? Well, if we are, if we are using the CIA to
+      go after the serious enemies, you know, enemies who can do something to the United
+      States — Venezuela can’t. It’s too far away. It’s too poor. It’s too small. You’re
+      picking on somebody — you know, it’s a little bit like the British fighting in
+      Grenada, or the Falkland Islands — it’s a joke. So, assumedly, they’re going to
+      go after the big guns, you know, Russia, China. So, the message to them is, that’s
+      what the United States is now reduced to. Get ready for that. And let me make
+      a message to my fellow Americans. You are messing with an enemy now that is much
+      richer, and much stronger, than they have ever been. Be very careful because you
+      will likely not prevail. Let me remind you: The CIA was busy in Vietnam, before
+      that war — it failed. And the war that came after it, after the failure of the
+      CIA? That failed too. Ditto for Afghanistan. Ditto for Iraq. Ditto, now, for the
+      Ukraine. Wow. Be careful. Be very careful what you are doing. There is an alternative
+      — whether it’s in the drug war, or any other conflict — and that is, you sit down
+      with whomever else is involved — other countries, other enterprises — and you
+      work something out: a deal that allows you not to be engaged in killing people
+      and overthrowing them, because that is a game everyone can play. And now, more
+      than ever in the history of the United States, the enemies that you are making
+      by this behavior are strong, very strong. So, this is now more dangerous than
+      it has ever been, and it was never a good policy in the first place. ⁣MICHAEL
+      HUDSON: Well, Richard, if you try to work something out, then you’re treating
+      other countries as equals. And the United States has rejected that very concept.
+      The reason that it’s doing these assassinations and killings is for control. So,
+      Trump has called Venezuela a narco-state, as if every Venezuelan is a drug dealer.
+      And this is like [Benjamin] Netanyahu, as you pointed out, saying that every Gazan
+      is a Hamas terrorist. So, the whole Caribbean belongs to the United States. It’s
+      not really about drugs at all. It’s about control. And I think — you’ve been describing
+      — the United States has turned into a terrorist state. And it has been a terrorist
+      state, since 1945, as a deliberate arm of foreign and domestic policy for what
+      it calls “promoting democracy.” The former head of the CIA, [Mike] Pompeo, has
+      said the CIA is like Murder, Inc.: He found out that they’ve been killing people
+      all over the world, beginning with Patrice Lumumba in Africa; Aldo Moro in Italy,
+      when Moro tried to achieve a rapprochement with Soviet Russia. You know what happened
+      to Libya with [Muammar] Gaddafi. You know what happened in Chile with Salvador
+      Allende, and the whole terrorist actions throughout Latin America that the CIA
+      began. So, this is already official U.S. policy — long before Trump. And I think
+      that on a larger scale, the U.S. is backing terrorist groups, like ISIS and al-Qaeda,
+      throughout the Middle East, in order to maintain control of Near Eastern oil;
+      and at home, you have the FBI assassinating Martin Luther King [Jr.], Malcolm
+      X, and many others. This is called “managed democracy.” You need assassinations
+      to make sure that “democracy” works. That is, it works for the aim of enabling
+      the United States to meddle, not only in foreign countries’ elections — to make
+      sure that they don’t allow elections of leaders who follow policies adverse to
+      those of the United States and its desire to control — but in the United States
+      itself, the meddling [in] elections here. These killings are merely the tip of
+      the iceberg of America’s attempt to control foreign policy and politics, and domestic
+      policy; and it does not accept the United Nations rules of non-interference in
+      other nations’ affairs. That’s been the rule of international law ever since the
+      1648 Peace of Westphalia, saying you have to agree [that] every country and every
+      state has its sovereign power. The United States rejects that. The United States
+      says: We alone have the sovereign power; and we use that sovereign power not only
+      to control who will be the rulers and the ruling parties of these states, but
+      what countries various states can deal with, and in what commodities they can
+      deal with. We have the power, not only to impose sanctions on other countries,
+      but to confiscate companies that are following trade policies that interfere with
+      the United States demand for unipolar control. This is being done under the slogan
+      of “national security.” The United States government, the neocons specifically,
+      feel insecure if they cannot control other governments, and international trade,
+      and foreign investment, to make sure that the United States can decide who gets
+      what, who trades what, and who owns what. It feels that if it doesn’t control
+      this, it will no longer have the unipolar ability to decide what countries do.
+      And that control is at the center of U.S. foreign policy. I think you have to
+      begin with that, and realize that these killings are simply — well, in the case
+      of Venezuela, it’s killing the chickens to frighten the monkeys. What the United
+      States is doing in shooting these Venezuelan fishermen (and also, I’m told, from
+      Trinidad, fishermen), is saying: The Mediterranean is an American lake. We control
+      the seas. We have no boundaries to what constitutes U.S. authority to control
+      the world’s geography. All of this is simply a reflection of a larger picture
+      that the press, and many observers are just too embarrassed to come right out
+      and say; but the neocons have already spelled it all out, that that’s the plan
+      of U.S. diplomacy. You can use U.S. statements themselves for all of the evidence
+      you need for that. ⁣NIMA ALKHORSHID: Two citizens were killed from Trinidad and
+      Tobago, Richard, in addition to what the Colombians were talking about. Let me
+      play a clip of the former director of the CIA talking about meddling in the elections
+      in other countries. ⁣LAURA INGRAHAM (CLIP): [Have we ever tried to] meddle in
+      other countries’ elections? ⁣JAMES WOOLSEY (CLIP): Oh, probably. But it was for
+      the good of the system, in order to avoid the communists from taking over. For
+      example, in Europe in ‘47, ‘48, ‘49, the Greeks and the Italians, we — CIA — LAURA
+      INGRAHAM (CLIP): We don’t do that now, though? We don’t mess around in other people’s
+      elections, Jim? ⁣JAMES WOOLSEY (CLIP): Well, [indeterminate vocalization]. Only
+      for a very good cause. ⁣LAURA INGRAHAM (CLIP): [Laughing] Can you do that? Do
+      a Vine video on this former CIA director [vocalizing]  — ⁣JAMES WOOLSEY (CLIP):
+      Only for a very good cause, in the interest of democracy. LAURA INGRAHAM (CLIP):
+      Alright. Thanks for being here. ⁣NIMA ALKHORSHID: “ Only for a very good cause.”
+      [Laughing] ⁣RICHARD WOLFF: Yeah, you know, it is very naive — and it’s no longer
+      working. You know, the United States, when I was growing up here, going to the
+      schools in the United States, where I’m born, and lived and worked all my life,
+      we were told stories about what the United States stood for, and what it was.
+      And all of that had to be kept secret — that’s why we have a secret CIA — because
+      it clashes (what they do), with what we are told as a people. And that’s why it
+      has to be kept secret. But when things get difficult, it becomes harder and harder
+      to keep a secret. Part of what we’re observing is that the secrets, you know,
+      the word is out. Those fishermen who went out are now dead. They’re not coming
+      home. And their widows and their children are talking. We’re in a connected world,
+      and we hear about it. The world is different from what it was. Let me give you
+      another example. You don’t have a clip, perhaps, but the President of the United
+      States, if I heard him correctly, has told one of the largest countries in Latin
+      America — namely Argentina — that he will give their government $20 billion to
+      stave off the collapse of their currency — if they vote for Mr. [Javier] Milei
+      in the election coming up there. Okay. You know what that’s called? Interference
+      in the election of another country. It’s literally — because the United States
+      is wealthy and Argentina is not — it’s a bribe. It’s an attempt to say to the
+      Argentinian voter: Look. If you vote for the one you don’t want, you’ll get all
+      this money; and if you vote for someone else, because you prefer the other person,
+      well, then I won’t give you this money. What? You know, legally, we don’t allow
+      that in this country; although I understand Mr. [Elon] Musk was running around
+      last November giving money to people in various states for voting, or something
+      pretty close to it. We are becoming desperate. It’s a word you hear me using on
+      this program, elsewhere, when I talk. I believe you’re watching a government that
+      is becoming desperate. These things that it is doing are not new. But what is
+      new is that they’re being exposed almost — almost — as fast as they’re happening.
+      More and more people around the world, more and more governments, are speaking
+      up about it. Mr. Maduro isn’t the only one. There are plenty of others. If you
+      talk to anyone from Cuba, you will hear a story of, I don’t know, I think twenty-five
+      CIA efforts to either kill him [Fidel Castro] or overthrow his government, over
+      the period of the Cuban Revolution, since 1959. You know, it’s all now more and
+      more — and, given Latin America, it will circulate. This information, and all
+      of this, will be known everywhere in Latin America, if it isn’t already. ⁣MICHAEL
+      HUDSON: I want to interject here. Trump just doubled the $20 billion and said
+      he’s trying to round up private capital at $20 billion. After he made the statement
+      that you quoted, he said, quote, if he [Milei] loses, we are not going to be generous
+      with Argentina. The $20 million was spent to support Argentina’s exchange rate,
+      and this has two purposes. Number one: It helps the flight capitalists, the wealthiest
+      Argentinians — it’s an oligarchy in Argentina. Supporting the exchange rate enables
+      them to move their money out of Argentina into foreign currencies. And they’ve
+      run up a huge debt. And Trump says: If you do not vote for the oligarchic candidate
+      to continue doing this, now we’re going to insist, with the International Monetary
+      Fund, that you repay this $20 billion (or $40 billion), plus the few hundred billion
+      that the IMF has lent. Well, suppose that a non-right-wing dictatorship comes
+      into power in Argentina? That’s when the IMF will say: We’ll clamp down and withdraw
+      all the support for the capital flight — and, of course, the currency will plunge.
+      It could be a 50%, 60%. Enormous plunge. That’s what the IMF does. [Number two:]
+      And so, when what it calls a left-wing dictatorship, meaning a country that elects
+      a government that is not backed by the United States, its currency plunges and
+      the inflation goes up, unemployment spreads, and the United States and the United
+      Nations and the West say: You see? Socialism doesn’t work. Only the right-wing
+      works. They [Argentina’s oligarchs] get the loans; they [the working tax-paying
+      population] get the debt. And of course, this debt is simply to enable the United
+      States and the IMF and Europe to pull the plug and make sure, financially, as
+      much as on war, that other countries cannot survive — unless they are subordinate
+      to the United States. ⁣RICHARD WOLFF: I also want to point out, just as a matter
+      of history, that Argentina has an oligarchy that is among the greatest players
+      of this game in the world. Argentina has borrowed money like almost no other country.
+      The last infusion that this extreme-right-wing government — which is the government
+      of the oligarchs, who are in power, even when you had [Juan] Peron and you had
+      [Néstor and Cristina] Kirchner, and the others — this government’s last infusion
+      of cash to keep itself going — was $20 billion, in April of this year! So, we’re
+      looking at, a few months later, another $20 billion, and yet another $20 — The
+      Argentinian oligarchs are laughing all the way to the bank, as America uses the
+      taxpayer money of American citizens to enable them to convert their worthless
+      (or about to be worthless)  currency into dollars, to join the rest of the world
+      in buying gold — because they haven’t the confidence in the dollar they used to
+      have, either? So, they’re going to do a one-two jump: Get rid of the Argentinian
+      [peso], get the dollar, use the dollar, buy the gold, and hold it somewhere in
+      Europe — that’s what they’re going to do. It’s a farce, what we’re watching! An
+      extreme-right-wing government, which has managed, in a very short number of months,
+      to make itself hated — that’s why Mr. Trump is stepping in — because that right-wing
+      government has shot itself in the foot and is about to be kicked out by the Argentinian
+      people. ⁣MICHAEL HUDSON: This is all part of the broader fight that’s happening
+      in the world economy, to isolate, not only Argentina, but China, Russia, and the
+      other countries. It’s part of a much bigger picture. ⁣RICHARD WOLFF: But it shows
+      you the level of desperation that is now governing all of this kind of behavior.
+      I would like to believe (I mean that) that even the CIA director, giggling on
+      the right-wing show that he appears on — that’s a right-wing woman, person, I
+      forget her name right now, the clip that you just showed us — I’d like to believe
+      that they, too, don’t really want to kill fishermen, or whatever those people
+      were, in the boats. We obviously don’t know because there’s not a shred of evidence
+      provided by the President who has now authorized at least five — if I’m keeping
+      score correctly, five — such attacks. If they had some evidence — right? — they
+      would show it because they don’t want to appear to be doing what they are clearly
+      doing. But when you’re desperate, you can’t afford it anymore. They have to have
+      some “show.” They have to show how tough they are. That’s why we had the other
+      bizarre (and maybe we can discuss it, the other bizarre) — the President of the
+      United States tells us, yesterday, that India has agreed to stop buying Russian
+      oil. He said that! And this morning, the Indian news reports coming out of India
+      are that the government knows no such thing. There’s been no such conversation,
+      and no such commitment. I don’t know who to believe — and by the way, that’s what’s
+      happening to most people: they don’t know who to believe anymore. It is so chaotic.
+      But you’re not in good control. That’s not a sign that the United States — Michael
+      is right: that’s what they want. But I’m right: it’s what they want, but don’t
+      have anymore — and that makes you desperate. ⁣NIMA ALKHORSHID: Yeah. Michael,
+      the other point that Donald Trump was talking about is the case of India. He said
+      that India promised him not to buy Russian oil, which was rejected later on by
+      Indian officials. And not only that, Scott Bessent said that the Congress and
+      the administration is ready to impose 500% tariffs on China, in case they decide
+      to import Russian oil, and gas. Where are we going with the case of Russia, in
+      your opinion? ⁣MICHAEL HUDSON: Well, the real problem is not only isolating Russia,
+      but isolating China. And that’s where all of the action has been recently. The
+      United States is trying to decide just which countries are permitted to deal with
+      other countries, and what they’re allowed to buy, and sell to these countries.
+      And that’s an extension of the control that we’ve been talking about. This is
+      the neocon strategy. If you can’t have a U.S.-based “democracy” — a “democracy”
+      means a country that has agreed to become a satellite of the United States (has
+      nothing to do with the political system) — you can’t have a “democracy” (meaning
+      a unipolar world), without the ability to make sure that you can control other
+      countries’ elections and who they trade with. Now, much more than the U.S. and
+      Trump’s demands on India — that essentially means you’re going to try to block
+      India’s foreign trade with the enormous 50% tariff that’s already put on — or
+      the huge tariffs that you just mentioned on China (that means you block all trade
+      with China) — this is going to essentially ensure, if it were applied, the most
+      serious depression that you’ve had yet in the United States. The kind of confrontation
+      we’re talking about began a month ago with TikTok. Trump used the “national security”
+      claim, that somehow TikTok is looking at what Americans like to watch; and if
+      you discover that, then you can control the way they think, with the narrative.
+      And TikTok further violated the United States’ ban on free speech: it became a
+      site for public discussion of politics. So, you had many political people, views,
+      treating it almost like X, or the other social media — and that included a criticism
+      of genocide, and an insistence that the mass-killing was wrong. And that infuriated
+      the United States. So Trump said: You have to sell TikTok to a group of billionaire
+      Zionists — who will change the algorithm to prevent any discussion of the Middle
+      East that is not in favor of Israel. There can be no use of the terms “Gaza” or
+      the “Left Bank.” It’s “Judea and Samara” now. You have to control the dialogue
+      and the discussion in order to shape what people think so that they will elect
+      governments that are “democratic,” meaning governments that are controlled by
+      the right-wing alliance between the neocons and the financial sector (the 1%,
+      the deep state, the Americans). So, you have that again: you have the neocons
+      feeling insecure, if you could have TikTok permit personal opinions and analyses
+      — and, especially, they were having photographs of the children that were killed
+      in Gaza. They were having photographs — Israel has done [its] very best — targeted
+      photographers and reporters for assassination — precisely to prevent this. They
+      were targeting doctors for assassination, so that there would be no photographs
+      of the destruction of the hospitals, the destruction of the babies. Now, if the
+      TikTok deal is permitted to go through, the United States will control all of
+      the social media and prevent any discovery of this. That will enable the United
+      States to shape “democratic” opinion to vote in the way that “managed democracies”
+      are supposed to do. I know you have a tape that is a wonderful tape that I want
+      you to show, Nima, but I’d like to talk about what happened two days ago when
+      Holland was the first country outside the United States to confiscate a Chinese
+      company, on the grounds that China — it was producing computer chips for automobiles,
+      in Holland, [in] what had been a subsidiary of Philips — and the United States
+      said any company — passed a rule — any [company] with more than 50% Chinese ownership
+      must be confiscated if it in any way affects “national security” — if it makes
+      batteries, if it makes computer chips, if it does anything that we consider “national
+      security.” I can go into that in detail if you want, but you probably want to
+      shape the discussion first. ⁣NIMA ALKHORSHID: Yeah, let me play the clip, Richard,
+      that Michael mentioned. Scott Bessent talking about China: ⁣SCOTT BESSENT (CLIP):
+      No mistake. This is China versus the world. They have put these unacceptable export
+      controls on the entire world. China is a command and control economy, and we and
+      our allies will neither be commanded nor controlled. They are a state economy,
+      and we are not going to let a group of bureaucrats in Beijing try to manage the
+      global supply chain. ⁣MICHAEL HUDSON: This is wonderful. Well, Trump said that,
+      for the first time in history, nothing like this has ever occurred. And of course,
+      it has occurred! It’s what the United States — What China has done is, [it] passed
+      a series of rules that were almost word for word the same rules that the United
+      States had imposed on other countries dealing with China — for “national security.”
+      China is finally doing to the United States exactly what the United States did
+      to China. The difference is that China doesn’t really need the United States,
+      in the sense it doesn’t need U.S. exports, because the United States isn’t exporting
+      anything that China really needs. And if it does need something, like replacement
+      parts for Boeing airlines, then it’s going to avoid the fact that the United States
+      has weaponized its foreign trade — so that it can stop the export of replacement
+      parts for Boeing airlines, in the hope that the Boeing planes won’t be able to
+      fly anymore and [that] China will have a problem — because China has indeed developed
+      its own commercial airliner. But the United States has told foreign countries,
+      and the international transportation licensing authority: Don’t approve China.
+      Only approve airplanes made by the United States and its satellites, like Airbus.
+      Do not let any Chinese-made airplane land, because it doesn’t have official U.S.
+      approval. This matches with the United States intention that we must control all
+      of the airplane, and other, essentials. I want to talk about what happened last
+      week in Holland, when the Dutch confiscated the Chinese ownership of a company
+      called Nexperia. The Financial Times has been focusing on this by saying, for
+      the first time, Europe has, and especially Holland has, moved away from the whole
+      idea of open investment, free trade, free investment, to say: All domestic investment
+      is now controlled by the United States. Any foreign-owned firm, specifically a
+      Chinese-owned firm, should be confiscated; and any Chinese firm that uses American
+      exports as part of its products, its trade must be banned. Well, the company that
+      China bought was a company specializing in making batteries for automobiles because
+      China has become the world leader in making batteries. The United States wants
+      to prevent China’s leadership in batteries so that the United States can supply
+      batteries that cost approximately ten times as much. The intention is to prevent
+      Europe from using low-priced batteries designed by China, so that it cannot compete
+      with American cars using American batteries. So, you have this semiconductor company
+      and battery company — with 12,500 employees all over the world, not only in Holland
+      — and all of that has just been confiscated. It was sold to a Chinese conglomerate
+      in 2017, and it was bought by a Chinese group, Wingtech, in 2019. And everything
+      has been going fine, until the last few months when the U.S. State Department
+      told Holland: You have to close down this Chinese company. We want to make sure
+      that China cannot make any money in Europe, or any other “democracy” which we
+      control. So, the words that were used in your wonderful clip — a [command and]
+      control economy — that’s what the United States is: that’s “democracy.” If you
+      do not centralize control (and, essentially, be a police state) then you are not
+      assuring the U.S. unipolar control of the world. And China has fought back. But
+      if you go into the details, I mean, this is an escalation, this confiscation of
+      Chinese companies. The Financial Times wrote that “Wingtech is a landmark moment
+      in Europe’s evolution, from one of the world’s most open trading blocks to increasingly
+      preoccupied with economic security.” And the “economic security” is dominated,
+      is defined, by the United States. And just as the United States forced TikTok
+      to be sold — either you sell at a giveaway price to the Americans, or we’re just
+      going to close you down — it’s now using the same policy towards Europe. And China
+      [has] essentially decided to fight back against all this. The court documents
+      in the case that the Financial Times have been quoting is that The Hague (the
+      government in Holland) was acting under pressure from the U.S. to back the control.
+      Well, look at what’s happening. Lenin had made a quip once; that capitalist countries
+      would sell [the U.S.S.R.] the rope from which to hang them [attributed to Lenin],
+      metaphorically speaking — meaning the arms. Well, China has no intention of selling
+      the United States the military materials — rare earth metals, and other metals,
+      and other tools — to destroy it in missiles. The United States said: We expect
+      war with China as our existential enemy in the next two or three years. We must
+      destroy China. Again and again, from Biden to Trump, and to Congress, there is
+      an announcement: We intend to go to war. We’re preparing the way. Well, of course,
+      China’s blocked what you need to make the missiles, the rare earth magnets to
+      make the missiles. China blocked what you need to make the computers to guide
+      the missiles, and to spread your control of the internet, control of the public
+      media platforms, really, to control the direction that the world’s moving in.
+      And China has watched what the United States did to Japan, with the Plaza Accords
+      and the Louvre Accords that insisted that Japan raise its exchange rates, and
+      essentially [brought] on its depression. And it’s watched America’s demands that
+      Japan pay tribute of $350 billion to the United States, in order to have access
+      to the U.S. market, even subject to the high U.S. tariffs. And China [has] watched
+      the demand on Korea to pay just as large a $350 billion “choice.” China has no
+      intention of surrendering on these terms, and it has no intention of letting the
+      United States have, what it says is, the new equivalent of controlling the world’s
+      oil reserves; controlling the world’s food; controlling the world’s information
+      technology; controlling the world’s computer technology (computer chip technology,
+      the programming technology, the engraving of computer chips — the blocking of
+      Dutch companies from selling computer chip engraving machinery to China). China
+      has realized that if the United States has a monopoly on computers, on missiles,
+      on automotives, on military technology, it’s going to use this to attack China.
+      And it’s taking moves to stop it. And Trump has said he’s willing to create a
+      depression that will be like the 1930s in America. His threat to impose these
+      multi-hundred-percent tariffs on Chinese goods means we are blocking all trade
+      with China — that means with China technology. Well, China has what the United
+      States needs for its military domination. The United States doesn’t have anything
+      that China needs. China will grow. The United States will move into a crisis.
+      And, as Richard said, this is an act of desperation; but it’s a desperation that’s
+      worth following, because 90% of the Americans are going to be downgraded in their
+      standard of living, their wages, what they can afford; but the 1% of Americans,
+      the Silicon Valley billionaires and the financial banks, will make a profit. And
+      what’s so amazing is that [on] today’s New York Times first page: “U.S. Banks
+      Score Big Helping China Firms Go Global” — Well, you can imagine what’s going
+      to happen. Who is going to win? Will American foreign policy be what the banks
+      want — which is usually what foreign policy is all about for the United States?
+      Or will it be what the neocons want? [Neocons:] We want war. We cannot have another
+      country being independent from the United States. We cannot have a country of
+      equals. So, we’re back at what we talked about with Venezuela: You cannot negotiate
+      with other countries and make a reasonable deal because that would be to treat
+      them as equals; that would be to treat them as sovereign countries. There is only
+      one sovereign nation: the United States. All other nations are to be treated as,
+      or turned into, satellites for the United States. And  I think that’s why Richard
+      brought up what was happening in Argentina — to make sure that it’s locked into
+      a satellite controlled by a client oligarchy in Argentina; just as you could say
+      the same thing is happening in Europe. ⁣RICHARD WOLFF: Let me comment a little
+      bit about Scott Bessent (and I don’t mean to pick on him, although I’m not opposed
+      to doing that either, but that’s not what I’m doing). Watch the fuzziness of the
+      way he speaks. So: We’re not going to allow bureaucrats in Beijing because they
+      are a state economy — This is a minister of finance whose boss just did the following:
+      took a 10% ownership of the Intel Corporation; imposed a partnership of the U.S.
+      government on AMD and NVIDIA; is busy taking other positions in American corporate
+      governance — ownership. I mean, we are more of a state economy than we have ever
+      been! Tariffs are the biggest imposition of taxes any government of the United
+      States has ever done. We are taxing everybody. The whole world is being affected
+      by us because if you choose tariffs, it’s international. You’re taxing your own
+      people, hugely. Look how proud Mr. Bessent was a few days ago, telling us that
+      the tariffs have raised $60 billion already in their first x months. He’s proudly
+      telling you what previous Republicans would have been horrified — they’re a party
+      against taxes! No, now they’re a party for taxes. Every government that has ever
+      taken a bigger and bigger share of the economy has used “national security” as
+      its rationale. That’s not new. That’s what Republicans used to make fun of. It’s
+      really, it’s remarkable. He’s denouncing China for wanting to control the world.
+      As Michael correctly says, China is demanding what the United States has always
+      fought for, has acquired, and is now desperate because it’s losing it. It’s angry
+      at China — for what? For wanting pretty much the same thing, if Mr. Bessent is
+      right. It used to be the argument, here in the United States, that a free-trade
+      regime was the best protection against war, against hostility. People used to
+      talk about the competing empires — British, French, German, Russian — before World
+      War I, as the reason they destroyed each other. The League of Nations after World
+      War I, and the United Nations after World War II, were created because countries
+      that used “national security” to shape their economic policy ended up in war against
+      each other. The whole point of these international organizations was to not have
+      that happen again. The United States’ withdrawal from the United Nations — which
+      has been going on for twenty years — is also, as we should have seen before, a
+      withdrawal from that whole project; and a return to being a national security
+      state, in which the state and the leaders — the oligarchs of business — are becoming
+      the same people. Remember who was sitting behind Mr. Trump when he was inaugurated?
+      The ten billionaires from the leading few industries the country has. It was an
+      advertisement for the merger of oligarchs and government, which is a hallmark
+      of fascism — Italian fascism, German fascism, Japanese fascism, Spanish fascism
+      — come on! We know these things. The difference is that the United States is now
+      not the dominant country. The G7 is not the dominant player in the world economy.
+      And all the pretense, and all the fuzzy ideology of Mr. Bessent, who conveniently
+      forgets that his government is now becoming more “statist” with each passing week,
+      and therefore not different from “China,” but indeed rather more like “it” — China
+      is also not — because he should know better — it’s not a state economy. Half of
+      it is private enterprise. People are critical of China’s claim that socialism
+      has developed faster and further in the last forty years in China than any other
+      system has developed; and they like to criticize that by saying, yes, yes, yes
+      — but that’s because of the “private” sector. Okay, if you want to make that argument
+      (I think it’s stupid but, okay, if you want to make that argument), then you can’t
+      turn around the next morning and refer to them as a “statist” economy. You’ve
+      just explained that they are a “private” economy — and that’s why they’re so rich
+      and big and powerful — richer than you are. And let me remind you: In the contest
+      before World War I of competing “national security” — economic nationalisms built
+      around Europe and its colonies — nobody had an outstanding advantage of population.
+      But that’s not true, folks. The United States has 4.5% of the world’s people.
+      China and the BRICS have 60% of the world’s people. What kind of a conflict are
+      you imagining you’re going to be able to have? What are your chances? This is
+      very stupid. You ought to be working your rear-end off, trying to come up with
+      a revived United Nations to work out a way for the G7 to function, and for the
+      Chinese and their BRICS allies to function. The planet is big enough for both
+      of them. Or, are we going to descend into another world war, even knowing the
+      disasters of the first two? And in case you’ve forgotten, World War I ended up
+      with the Soviet Union. World War II ended up with the Soviet Union — plus China.
+      You notice something? You know where World War III will likely end up? Yeah, yeah.
+      It ought to make you stop, and think a little bit about what you are doing. ⁣NIMA
+      ALKHORSHID: Michael, go ahead. ⁣MICHAEL HUDSON: Today’s international conflict
+      between the NATO West and China is being fought over what kind of strategy the
+      world will have. Given the inequality of population and size, the United States
+      wants to be the only country that is able to wage war with the best armaments.
+      It wants to be the only sovereign nation. All the other countries are to be turned
+      into dependencies: trade dependencies, by weaponizing foreign trade; financial
+      dependencies, by dollarization; and military dependencies. [It] is a precondition
+      for their very survival. That’s the only way in which the United States can possibly
+      achieve the strategy that you say can’t work. Well, of course, it can’t work in
+      the end because other countries are going to retaliate. But the essence of U.S.
+      foreign policy is to cripple other countries’ ability to retaliate by things like
+      controlling their oil supply, so they can’t survive, if they retaliate; by denying
+      them ownership of and production of information technology — computer chips, basic
+      electronic technology — and monopoly of the internet, if they don’t comply. The
+      United States says: Yes, of course, we know that there’s this inequality of population
+      and productive power. We’ve deindustrialized, they have not deindustrialized,
+      but we can win anyway — by the policies (that I’ve just developed) of total control,
+      and the narrative that is needed to impose that control. And I think the policy
+      of targeted assassination, of killings — like you’ve seen, from Venezuela to Gaza
+      — are all part of this demonstration of America’s willingness for total control,
+      even to the point of preparing for the Near Eastern war against Iran, that many
+      of Nima’s guests believe is imminent. ⁣NIMA ALKHORSHID: Richard, you mentioned
+      G7 and compared it to BRICS. And once (we know, once), Donald Trump said that
+      Spain is part of BRICS. He was trying to lecture the reporters in the room, and
+      he said Spain is part of BRICS. Here is his latest comment on BRICS: ⁣TRUMP (CLIP):
+      I told anybody who wants to be in BRICS, that’s fine, but we’re going to put tariffs
+      on your nation. Everybody dropped out. They’re all dropping out of BRICS. BRICS
+      was an attack on the dollar. And I said, You want to play that game? I’m going
+      to put tariffs on all of your product coming into the U.S. They said like I said,
+      we’re dropping out of BRICS. And BRICS is, like, they don’t even talk about it
+      anymore. ⁣NIMA ALKHORSHID: Dropping out of BRICS? [Laughs] ⁣RICHARD WOLFF: But,
+      you know, it’s it is important to understand that if you have a leader who forever
+      makes things up like this — everybody’s dropping out of BRICS — You know, I pay
+      a lot of attention to BRICS. I’d be very interested. Could that happen? Yes. By
+      the way, Argentina is the only example I know of. They did withdraw — with this
+      fellow, Milei, who’s on his way out. He withdrew. They [Argentina] actually joined,
+      and then they withdrew — because it happened in a very short period of time, between
+      when they joined, and when Milei took them out — and that was an act of him, as
+      an extreme-right-wing neoliberal person, which he proudly says of himself. It’s
+      not a label I’m putting on him. But when you have a president, like we do, who
+      makes these casual comments — India has decided not to buy Russian oil — and turns
+      out, no. And the BRICS are falling apart — no. Or I will put tariffs on them —
+      as if that’s the end of the whole story. This is becoming pathological, sure,
+      but it’s a pathology that has a place. It has an origin. It has a set of supports.
+      It is to be taken seriously — he isn’t; but the fact that he has to talk like
+      that is an interesting phenomenon, right? Most leaders don’t do that. Why is it
+      important for him to do it? It’s like asking the question that should have been
+      asked when he first ran for office — and he descended the escalator in one of
+      his buildings in New York City; and he made the famous comment that the Mexicans
+      here are all rapists and killers, and which he had, of course — you have to ask:
+      Why would a personality aspiring to be a politician say such crazy stuff? Because
+      in our environment, there’s a need for it. He’s meeting a need. His instincts
+      tell him — and he was right. Politically, there was a constituent out there that
+      needed to beat up on immigrants. Mostly from Mexico, they come. So, it was important.
+      He’s meeting a need, and he discovered that there’s a whole community of people
+      whose peculiar experience in the last thirty years has been to be — what? They
+      are white male Christian union members who lost their jobs because corporations
+      wanted to replace white Christian male union people — because they were the highest
+      paid part of the working class. So they were the targets: Replace them, either
+      with automation, or by moving your production to China. And so they were left
+      to die in their cities across the Midwest and the South, to become MAGA, his support.
+      He understood without — you know, he doesn’t have the capacity, or the vocabulary,
+      or the education, but he understood, instinctually, that there was a need out
+      there to demonize Mexicans as immigrants. That’s why you now have this Christian
+      fundamentalist community cheering on the concentration camps for immigrant children
+      — which violates their Christian commitments. And somewhere they know that. But
+      they’re so needy — I want to get that across. Mr. Trump is needy for saying this.
+      We should understand, because it’s important, what the need is, that this dismissal
+      of the BRICS is about. And the need? The BRICS is overwhelming. The BRICS is the
+      biggest danger he faces economically because it’s the option for China to behave
+      in the way Michael has laid out. Because they have the BRICS, and all that that
+      means, they can now afford, finally, to be taking steps, like what they did in
+      response to the action of Holland. If I were to make a guess about the decision
+      to hold back the rare earths? Michael is right. The precipitate act was not the
+      fees charged to the boats that are made in China, which the United States is doing,
+      or the slippage here or there — it was that: that act of trying to literally organize
+      the whole world economy to be focused against China; to take Chinese property,
+      the way they took the $300 billion of Russian assets at the beginning of the Ukraine
+      war. Okay, now is the time. And my guess is it took a difficult, long debate inside
+      China as to whether this was the moment to move. And it should be taken seriously
+      because the Chinese are responding to a deep need they have in taking their action,
+      just like Mr. Trump is responding to a deep need that comes out of the dilemmas
+      of the United States. ⁣MICHAEL HUDSON: Well, what Richards brought up is the fact
+      that this international trade war finds its counterpart in the U.S. and international
+      class war. It’s a war, not only of the U.S. to dominate other countries; but for
+      the rentier class — the elites — to dominate labor, as its policies — by making
+      revenue and wealth for itself, in the form of creditor claims, monopoly claims,
+      and the capture, the privatization of government to prevent public social spending
+      — all of this is going to impoverish the population. All of that goes hand in
+      hand with the international class war to promote Thatcherism, privatization, financialization,
+      and the whole economic philosophy that we’ve discussed so much in earlier episodes.
+      ⁣RICHARD WOLFF: And let me — a concluding thing: When you hear Mr. Trump and some
+      of his lieutenants — as you are already hearing, and you will be hearing more
+      — talk about how, even if it takes a depression, even if it takes mass suffering,
+      this is a matter of the “national survival” and our “security” — you know what
+      they’re gearing up for? It probably means they are getting the advice that the
+      tariff game is leading us into a stagflationary situation, one way or another:
+      a very troubling combination of 3% or more inflation, with a decline in our employment
+      situation. Jamie Dimon was quoted everywhere yesterday, talking about the collapse
+      of two automobile companies, and saying, where there’s a few “cockroaches” — his
+      word, not mine — there’s always lots more. What is that? That’s a statement that
+      a credit crash is underway, or likely, or possible, with all that that has meant.
+      Let me remind you of how the 2008 crisis got going. That, too, was a credit problem.
+      That’s why it’s called the subprime mortgage crisis. So, they’re getting ready
+      to even carry their craziness to the point of a mass depressive recessionary onslaught,
+      because they are convinced it’s the necessary price to pay — of course, always
+      for the working class — to get them through the crisis they face, which is one
+      of a world no longer willing to be the colonial territory; because that’s really
+      what this is about: it’s a resurgence of colonialism. It’s not an accident that
+      Mr. Trump meanders about Greenland, or Canada, or Panama or, now, Venezuela. These
+      are all imaginaries; but they’re logical, if the whole world is going to be controlled,
+      because that’s the control that a metropolitan country used to have over its colonies.
+      It’s the United States rehashing the end of the British Empire, hoping to reverse
+      the flow of history. Well, I am one of the masses of the world saying to the Americans:
+      too little, too late, not available. It’s like explaining to Israelis that settler
+      colonialism was something that worked two centuries ago, but now? Doesn’t work
+      anymore; puts you in an impossible situation. ⁣MICHAEL HUDSON: Well, Richard,
+      unemployment and economic collapse is not a price to be paid by the ruling elite.
+      It’s easier to make money and get wealth in a crash, than it is in slow growth.
+      The crash is going to lead, as I think you pointed out, to many mortgage foreclosures.
+      People are going to lose their homes, as they did after [President Barack] Obama’s
+      bailouts in 2009. All of this led to a huge asset grab by the 1%. While home ownership
+      declined in the United States, and GDP and wage levels for the 90% remained pretty
+      stable, all of this wealth grew for the [1%]. Same thing in the world. Well, when
+      Trump withdrew support for the Agency for International Development [USAID], withdrew
+      support for the United Nations health agencies and cultural and social-spending
+      agencies, the intention was to create mass starvation and famine in the rest of
+      the world — just like Trump’s attack on global warming to maintain the oil supremacy
+      is causing rising sea levels — it’s going to create mass destruction. All of this
+      is viewed [by] the United States as a collateral benefit, not a collateral [damage].
+      You have to realize that when something like this happens, not everybody loses.
+      It will be a negative-sum game for the economy of nations, and the world as a
+      whole, but very positive as a wealth grab by the 1%. And the United States is
+      trying to make that the American 1%, not foreign 1%. ⁣NIMA ALKHORSHID: Thank you
+      so much, Richard and Michael. Bye-bye. Great pleasure, as always, talking to you.
+      ⁣RICHARD WOLFF: Talk to you again next week. ⁣NIMA ALKHORSHID: Talk to you next
+      week. Transcription and Diarization: https://scripthub.dev Editing: Kimberly Mims
+      Review: ced Photo by Quiet Studio on Unsplash The post Managed Democracy? first
+      appeared on Michael Hudson .'
+    one_sentence_summary: The article discusses a conversation with Richard Wolff and
+      Michael Hudson about reports of the CIA's covert operations authorized by the
+      Trump administration to overthrow Venezuelan President Nicolás Maduro, highlighted
+      by Republican Senator Rick Scott's comments on Maduro's precarious position.
+    paragraph_summary: In a discussion on October 16, 2025, Nima Alkhorshid, Richard
+      Wolff, and Michael Hudson addressed reports of the CIA's covert operations authorized
+      by the Trump administration to overthrow Venezuelan President Nicolás Maduro.
+      Republican Senator Rick Scott expressed confidence that Maduro's days are numbered,
+      suggesting he should flee to Russia or China due to his unpopularity and accusations
+      of election fraud. Wolff critiqued Scott's remarks, emphasizing the troubling
+      implications of the U.S. acting as judge and executioner without due process,
+      highlighting a broader concern about U.S. interventionism and its consequences
+      for both Venezuelans and other affected populations.
+    published: '2025-10-20T20:17:03+00:00'
+  - title: Managed Democracy?
+    url: https://michael-hudson.com/2025/10/managed-democracy/
+    text: 'NIMA ALKHORSHID: Hi, everybody. Today is Thursday, October 16, 2025, and
+      our friends, Richard Wolff and Michael Hudson, join us today. Welcome, Richard
+      and Michael. ⁣MICHAEL HUDSON: Good to be here. ⁣RICHARD WOLFF: Hello. ⁣NIMA ALKHORSHID:
+      Richard, let’s start with you, and with the reports we had in the New York Times
+      that Donald Trump and his administration have authorized the CIA to do some sort
+      of covert operation in Venezuela to overthrow [President Nicolás] Maduro. And
+      here is what we’ve learned from Republican Senator Rick Scott on Fox News: RICK
+      SCOTT, U.S. Senator, R-FL, Senate Armed Services Committee (CLIP): I think if
+      Maduro’s smart he’s going to go ahead and move to Russia, or China, some place
+      like that, because his days are numbered. You know, the public of Venezuela don’t
+      want him. They rejected him in the last election. He stole the election. He’s
+      a dictator, a drug cartel leader. So, his days are numbered. However they do it,
+      I look forward to the day that he is no longer in Venezuela. It’ll be great for
+      the world. ⁣NIMA ALKHORSHID: What do you expect, Richard, from what’s going on?
+      ⁣RICHARD WOLFF: Well, the only interesting thing about Rick Scott — and let me
+      tell you, it takes a lot of work to find an interesting thing about Rick Scott
+      — but the only interesting thing about his remark was that little remark at the
+      end: whatever it takes. Because that’s where we are. And also, I like the way
+      the television station juxtaposed the camera on him making the statement and,
+      likewise, on the boat, somewhere in the Caribbean, that is being targeted by the
+      missile. I want to say here for the record: The United States is, therefore, engaged,
+      by the president, with the approval of people like Mr. Scott, in being the police,
+      the army, the judge, the jury, and the lawyer, for people it is executing. Those
+      people were not arrested. Those people never had a chance to have a lawyer explain
+      who they were, what they are. By the way, it’s not just Venezuelans. Today’s newspaper
+      indicates that Colombians have also been killed in boats. So, who knows how widespread
+      this is? Who knows how much we’re being told? I want to also stress to people
+      that being in the drug trade is not treated as a capital crime inside the United
+      States. People are arrested for the drug traffic in this country every day. They
+      are not executed. Those that are found guilty are subject to various kinds of
+      imprisonment and punishment, but they are not executed. So, we arrest people in
+      this country; we give them a lawyer; they have their day in court; they get a
+      judgment; and they are not killed. What are we doing in the rest of the world?
+      We are showing the rest of the world a little bit — a junior version — of what
+      the Israelis have done in Gaza. We’re killing people. We’re killing people who
+      are alleged to be involved in a crime that we don’t kill people for in our own
+      country. You know, I’ve been around a while. I don’t recall anyone being executed
+      in the United States for drug traffic, ever. I may be wrong, there may be somebody
+      who once was, but it is hardly ever done. So, what are we doing here? We’re showing
+      the world that we’re a tough guy. You know, that’s what the tariffs were: a big
+      piece of theater, but it didn’t cost anyone’s life. Now, we’re saying we’re prepared
+      — and we’re not only prepared to kill people — with no judge, no jury, no lawyer,
+      no due process, none of the guarantees that we say we revere as intrinsic to the
+      Constitution and the values of the United States — all out the window — that is
+      a remarkable statement to make. And we don’t like Mr. — Everybody who studies
+      the drug traffic knows that the major problem of drugs comes from the Pacific
+      side of the continent, not the Atlantic side; that there are loads of people involved
+      who seem to be able to continue, with very little interference. Nor has the United
+      States ever acknowledged, or admitted, that the problem begins with the fact that
+      the United States is the world’s richest market for the drugs — the endpoint of
+      the trade is mostly here — and that we could do a lot more here without violating
+      our Constitution to deal with it, if we were — we’re not. It’s another message
+      to the rest of the world that the United States is going it alone, that the United
+      States is isolated, that the United States is relying on military power because
+      its economic and political reach is now so weak. You know, we start — at this
+      point, when you behave like this, then things have to be called by their proper
+      name, not by their polite name. The people, the immigrants, who came to this country
+      for a chance to do what immigrants have always come to this country for a chance
+      to do, are now being hounded by a special police force, and detained in concentration
+      camps — that’s what they are. Let’s be clear. Let’s stop playing these silly games.
+      We are killing people. We’re promising to overthrow governments in the worst replay
+      of the ancient activity of the United States in Latin America, which is as old
+      as the Monroe Doctrine — and let me remind you, that’s from the 1830s. What in
+      the world do you expect, now? What are the countries in the BRICS going to think,
+      given what Mr. Trump has said about them? Are they being overthrown by the CIA?
+      Are we really back in that world? Well, if we are, if we are using the CIA to
+      go after the serious enemies, you know, enemies who can do something to the United
+      States — Venezuela can’t. It’s too far away. It’s too poor. It’s too small. You’re
+      picking on somebody — you know, it’s a little bit like the British fighting in
+      Grenada, or the Falkland Islands — it’s a joke. So, assumedly, they’re going to
+      go after the big guns, you know, Russia, China. So, the message to them is, that’s
+      what the United States is now reduced to. Get ready for that. And let me make
+      a message to my fellow Americans. You are messing with an enemy now that is much
+      richer, and much stronger, than they have ever been. Be very careful because you
+      will likely not prevail. Let me remind you: The CIA was busy in Vietnam, before
+      that war — it failed. And the war that came after it, after the failure of the
+      CIA? That failed too. Ditto for Afghanistan. Ditto for Iraq. Ditto, now, for the
+      Ukraine. Wow. Be careful. Be very careful what you are doing. There is an alternative
+      — whether it’s in the drug war, or any other conflict — and that is, you sit down
+      with whomever else is involved — other countries, other enterprises — and you
+      work something out: a deal that allows you not to be engaged in killing people
+      and overthrowing them, because that is a game everyone can play. And now, more
+      than ever in the history of the United States, the enemies that you are making
+      by this behavior are strong, very strong. So, this is now more dangerous than
+      it has ever been, and it was never a good policy in the first place. ⁣MICHAEL
+      HUDSON: Well, Richard, if you try to work something out, then you’re treating
+      other countries as equals. And the United States has rejected that very concept.
+      The reason that it’s doing these assassinations and killings is for control. So,
+      Trump has called Venezuela a narco-state, as if every Venezuelan is a drug dealer.
+      And this is like [Benjamin] Netanyahu, as you pointed out, saying that every Gazan
+      is a Hamas terrorist. So, the whole Caribbean belongs to the United States. It’s
+      not really about drugs at all. It’s about control. And I think — you’ve been describing
+      — the United States has turned into a terrorist state. And it has been a terrorist
+      state, since 1945, as a deliberate arm of foreign and domestic policy for what
+      it calls “promoting democracy.” The former head of the CIA, [Mike] Pompeo, has
+      said the CIA is like Murder, Inc.: He found out that they’ve been killing people
+      all over the world, beginning with Patrice Lumumba in Africa; Aldo Moro in Italy,
+      when Moro tried to achieve a rapprochement with Soviet Russia. You know what happened
+      to Libya with [Muammar] Gaddafi. You know what happened in Chile with Salvador
+      Allende, and the whole terrorist actions throughout Latin America that the CIA
+      began. So, this is already official U.S. policy — long before Trump. And I think
+      that on a larger scale, the U.S. is backing terrorist groups, like ISIS and al-Qaeda,
+      throughout the Middle East, in order to maintain control of Near Eastern oil;
+      and at home, you have the FBI assassinating Martin Luther King [Jr.], Malcolm
+      X, and many others. This is called “managed democracy.” You need assassinations
+      to make sure that “democracy” works. That is, it works for the aim of enabling
+      the United States to meddle, not only in foreign countries’ elections — to make
+      sure that they don’t allow elections of leaders who follow policies adverse to
+      those of the United States and its desire to control — but in the United States
+      itself, the meddling [in] elections here. These killings are merely the tip of
+      the iceberg of America’s attempt to control foreign policy and politics, and domestic
+      policy; and it does not accept the United Nations rules of non-interference in
+      other nations’ affairs. That’s been the rule of international law ever since the
+      1648 Peace of Westphalia, saying you have to agree [that] every country and every
+      state has its sovereign power. The United States rejects that. The United States
+      says: We alone have the sovereign power; and we use that sovereign power not only
+      to control who will be the rulers and the ruling parties of these states, but
+      what countries various states can deal with, and in what commodities they can
+      deal with. We have the power, not only to impose sanctions on other countries,
+      but to confiscate companies that are following trade policies that interfere with
+      the United States demand for unipolar control. This is being done under the slogan
+      of “national security.” The United States government, the neocons specifically,
+      feel insecure if they cannot control other governments, and international trade,
+      and foreign investment, to make sure that the United States can decide who gets
+      what, who trades what, and who owns what. It feels that if it doesn’t control
+      this, it will no longer have the unipolar ability to decide what countries do.
+      And that control is at the center of U.S. foreign policy. I think you have to
+      begin with that, and realize that these killings are simply — well, in the case
+      of Venezuela, it’s killing the chickens to frighten the monkeys. What the United
+      States is doing in shooting these Venezuelan fishermen (and also, I’m told, from
+      Trinidad, fishermen), is saying: The Mediterranean is an American lake. We control
+      the seas. We have no boundaries to what constitutes U.S. authority to control
+      the world’s geography. All of this is simply a reflection of a larger picture
+      that the press, and many observers are just too embarrassed to come right out
+      and say; but the neocons have already spelled it all out, that that’s the plan
+      of U.S. diplomacy. You can use U.S. statements themselves for all of the evidence
+      you need for that. ⁣NIMA ALKHORSHID: Two citizens were killed from Trinidad and
+      Tobago, Richard, in addition to what the Colombians were talking about. Let me
+      play a clip of the former director of the CIA talking about meddling in the elections
+      in other countries. ⁣LAURA INGRAHAM (CLIP): [Have we ever tried to] meddle in
+      other countries’ elections? ⁣JAMES WOOLSEY (CLIP): Oh, probably. But it was for
+      the good of the system, in order to avoid the communists from taking over. For
+      example, in Europe in ‘47, ‘48, ‘49, the Greeks and the Italians, we — CIA — LAURA
+      INGRAHAM (CLIP): We don’t do that now, though? We don’t mess around in other people’s
+      elections, Jim? ⁣JAMES WOOLSEY (CLIP): Well, [indeterminate vocalization]. Only
+      for a very good cause. ⁣LAURA INGRAHAM (CLIP): [Laughing] Can you do that? Do
+      a Vine video on this former CIA director [vocalizing]  — ⁣JAMES WOOLSEY (CLIP):
+      Only for a very good cause, in the interest of democracy. LAURA INGRAHAM (CLIP):
+      Alright. Thanks for being here. ⁣NIMA ALKHORSHID: “ Only for a very good cause.”
+      [Laughing] ⁣RICHARD WOLFF: Yeah, you know, it is very naive — and it’s no longer
+      working. You know, the United States, when I was growing up here, going to the
+      schools in the United States, where I’m born, and lived and worked all my life,
+      we were told stories about what the United States stood for, and what it was.
+      And all of that had to be kept secret — that’s why we have a secret CIA — because
+      it clashes (what they do), with what we are told as a people. And that’s why it
+      has to be kept secret. But when things get difficult, it becomes harder and harder
+      to keep a secret. Part of what we’re observing is that the secrets, you know,
+      the word is out. Those fishermen who went out are now dead. They’re not coming
+      home. And their widows and their children are talking. We’re in a connected world,
+      and we hear about it. The world is different from what it was. Let me give you
+      another example. You don’t have a clip, perhaps, but the President of the United
+      States, if I heard him correctly, has told one of the largest countries in Latin
+      America — namely Argentina — that he will give their government $20 billion to
+      stave off the collapse of their currency — if they vote for Mr. [Javier] Milei
+      in the election coming up there. Okay. You know what that’s called? Interference
+      in the election of another country. It’s literally — because the United States
+      is wealthy and Argentina is not — it’s a bribe. It’s an attempt to say to the
+      Argentinian voter: Look. If you vote for the one you don’t want, you’ll get all
+      this money; and if you vote for someone else, because you prefer the other person,
+      well, then I won’t give you this money. What? You know, legally, we don’t allow
+      that in this country; although I understand Mr. [Elon] Musk was running around
+      last November giving money to people in various states for voting, or something
+      pretty close to it. We are becoming desperate. It’s a word you hear me using on
+      this program, elsewhere, when I talk. I believe you’re watching a government that
+      is becoming desperate. These things that it is doing are not new. But what is
+      new is that they’re being exposed almost — almost — as fast as they’re happening.
+      More and more people around the world, more and more governments, are speaking
+      up about it. Mr. Maduro isn’t the only one. There are plenty of others. If you
+      talk to anyone from Cuba, you will hear a story of, I don’t know, I think twenty-five
+      CIA efforts to either kill him [Fidel Castro] or overthrow his government, over
+      the period of the Cuban Revolution, since 1959. You know, it’s all now more and
+      more — and, given Latin America, it will circulate. This information, and all
+      of this, will be known everywhere in Latin America, if it isn’t already. ⁣MICHAEL
+      HUDSON: I want to interject here. Trump just doubled the $20 billion and said
+      he’s trying to round up private capital at $20 billion. After he made the statement
+      that you quoted, he said, quote, if he [Milei] loses, we are not going to be generous
+      with Argentina. The $20 million was spent to support Argentina’s exchange rate,
+      and this has two purposes. Number one: It helps the flight capitalists, the wealthiest
+      Argentinians — it’s an oligarchy in Argentina. Supporting the exchange rate enables
+      them to move their money out of Argentina into foreign currencies. And they’ve
+      run up a huge debt. And Trump says: If you do not vote for the oligarchic candidate
+      to continue doing this, now we’re going to insist, with the International Monetary
+      Fund, that you repay this $20 billion (or $40 billion), plus the few hundred billion
+      that the IMF has lent. Well, suppose that a non-right-wing dictatorship comes
+      into power in Argentina? That’s when the IMF will say: We’ll clamp down and withdraw
+      all the support for the capital flight — and, of course, the currency will plunge.
+      It could be a 50%, 60%. Enormous plunge. That’s what the IMF does. [Number two:]
+      And so, when what it calls a left-wing dictatorship, meaning a country that elects
+      a government that is not backed by the United States, its currency plunges and
+      the inflation goes up, unemployment spreads, and the United States and the United
+      Nations and the West say: You see? Socialism doesn’t work. Only the right-wing
+      works. They [Argentina’s oligarchs] get the loans; they [the working tax-paying
+      population] get the debt. And of course, this debt is simply to enable the United
+      States and the IMF and Europe to pull the plug and make sure, financially, as
+      much as on war, that other countries cannot survive — unless they are subordinate
+      to the United States. ⁣RICHARD WOLFF: I also want to point out, just as a matter
+      of history, that Argentina has an oligarchy that is among the greatest players
+      of this game in the world. Argentina has borrowed money like almost no other country.
+      The last infusion that this extreme-right-wing government — which is the government
+      of the oligarchs, who are in power, even when you had [Juan] Peron and you had
+      [Néstor and Cristina] Kirchner, and the others — this government’s last infusion
+      of cash to keep itself going — was $20 billion, in April of this year! So, we’re
+      looking at, a few months later, another $20 billion, and yet another $20 — The
+      Argentinian oligarchs are laughing all the way to the bank, as America uses the
+      taxpayer money of American citizens to enable them to convert their worthless
+      (or about to be worthless)  currency into dollars, to join the rest of the world
+      in buying gold — because they haven’t the confidence in the dollar they used to
+      have, either? So, they’re going to do a one-two jump: Get rid of the Argentinian
+      [peso], get the dollar, use the dollar, buy the gold, and hold it somewhere in
+      Europe — that’s what they’re going to do. It’s a farce, what we’re watching! An
+      extreme-right-wing government, which has managed, in a very short number of months,
+      to make itself hated — that’s why Mr. Trump is stepping in — because that right-wing
+      government has shot itself in the foot and is about to be kicked out by the Argentinian
+      people. ⁣MICHAEL HUDSON: This is all part of the broader fight that’s happening
+      in the world economy, to isolate, not only Argentina, but China, Russia, and the
+      other countries. It’s part of a much bigger picture. ⁣RICHARD WOLFF: But it shows
+      you the level of desperation that is now governing all of this kind of behavior.
+      I would like to believe (I mean that) that even the CIA director, giggling on
+      the right-wing show that he appears on — that’s a right-wing woman, person, I
+      forget her name right now, the clip that you just showed us — I’d like to believe
+      that they, too, don’t really want to kill fishermen, or whatever those people
+      were, in the boats. We obviously don’t know because there’s not a shred of evidence
+      provided by the President who has now authorized at least five — if I’m keeping
+      score correctly, five — such attacks. If they had some evidence — right? — they
+      would show it because they don’t want to appear to be doing what they are clearly
+      doing. But when you’re desperate, you can’t afford it anymore. They have to have
+      some “show.” They have to show how tough they are. That’s why we had the other
+      bizarre (and maybe we can discuss it, the other bizarre) — the President of the
+      United States tells us, yesterday, that India has agreed to stop buying Russian
+      oil. He said that! And this morning, the Indian news reports coming out of India
+      are that the government knows no such thing. There’s been no such conversation,
+      and no such commitment. I don’t know who to believe — and by the way, that’s what’s
+      happening to most people: they don’t know who to believe anymore. It is so chaotic.
+      But you’re not in good control. That’s not a sign that the United States — Michael
+      is right: that’s what they want. But I’m right: it’s what they want, but don’t
+      have anymore — and that makes you desperate. ⁣NIMA ALKHORSHID: Yeah. Michael,
+      the other point that Donald Trump was talking about is the case of India. He said
+      that India promised him not to buy Russian oil, which was rejected later on by
+      Indian officials. And not only that, Scott Bessent said that the Congress and
+      the administration is ready to impose 500% tariffs on China, in case they decide
+      to import Russian oil, and gas. Where are we going with the case of Russia, in
+      your opinion? ⁣MICHAEL HUDSON: Well, the real problem is not only isolating Russia,
+      but isolating China. And that’s where all of the action has been recently. The
+      United States is trying to decide just which countries are permitted to deal with
+      other countries, and what they’re allowed to buy, and sell to these countries.
+      And that’s an extension of the control that we’ve been talking about. This is
+      the neocon strategy. If you can’t have a U.S.-based “democracy” — a “democracy”
+      means a country that has agreed to become a satellite of the United States (has
+      nothing to do with the political system) — you can’t have a “democracy” (meaning
+      a unipolar world), without the ability to make sure that you can control other
+      countries’ elections and who they trade with. Now, much more than the U.S. and
+      Trump’s demands on India — that essentially means you’re going to try to block
+      India’s foreign trade with the enormous 50% tariff that’s already put on — or
+      the huge tariffs that you just mentioned on China (that means you block all trade
+      with China) — this is going to essentially ensure, if it were applied, the most
+      serious depression that you’ve had yet in the United States. The kind of confrontation
+      we’re talking about began a month ago with TikTok. Trump used the “national security”
+      claim, that somehow TikTok is looking at what Americans like to watch; and if
+      you discover that, then you can control the way they think, with the narrative.
+      And TikTok further violated the United States’ ban on free speech: it became a
+      site for public discussion of politics. So, you had many political people, views,
+      treating it almost like X, or the other social media — and that included a criticism
+      of genocide, and an insistence that the mass-killing was wrong. And that infuriated
+      the United States. So Trump said: You have to sell TikTok to a group of billionaire
+      Zionists — who will change the algorithm to prevent any discussion of the Middle
+      East that is not in favor of Israel. There can be no use of the terms “Gaza” or
+      the “Left Bank.” It’s “Judea and Samara” now. You have to control the dialogue
+      and the discussion in order to shape what people think so that they will elect
+      governments that are “democratic,” meaning governments that are controlled by
+      the right-wing alliance between the neocons and the financial sector (the 1%,
+      the deep state, the Americans). So, you have that again: you have the neocons
+      feeling insecure, if you could have TikTok permit personal opinions and analyses
+      — and, especially, they were having photographs of the children that were killed
+      in Gaza. They were having photographs — Israel has done [its] very best — targeted
+      photographers and reporters for assassination — precisely to prevent this. They
+      were targeting doctors for assassination, so that there would be no photographs
+      of the destruction of the hospitals, the destruction of the babies. Now, if the
+      TikTok deal is permitted to go through, the United States will control all of
+      the social media and prevent any discovery of this. That will enable the United
+      States to shape “democratic” opinion to vote in the way that “managed democracies”
+      are supposed to do. I know you have a tape that is a wonderful tape that I want
+      you to show, Nima, but I’d like to talk about what happened two days ago when
+      Holland was the first country outside the United States to confiscate a Chinese
+      company, on the grounds that China — it was producing computer chips for automobiles,
+      in Holland, [in] what had been a subsidiary of Philips — and the United States
+      said any company — passed a rule — any [company] with more than 50% Chinese ownership
+      must be confiscated if it in any way affects “national security” — if it makes
+      batteries, if it makes computer chips, if it does anything that we consider “national
+      security.” I can go into that in detail if you want, but you probably want to
+      shape the discussion first. ⁣NIMA ALKHORSHID: Yeah, let me play the clip, Richard,
+      that Michael mentioned. Scott Bessent talking about China: ⁣SCOTT BESSENT (CLIP):
+      No mistake. This is China versus the world. They have put these unacceptable export
+      controls on the entire world. China is a command and control economy, and we and
+      our allies will neither be commanded nor controlled. They are a state economy,
+      and we are not going to let a group of bureaucrats in Beijing try to manage the
+      global supply chain. ⁣MICHAEL HUDSON: This is wonderful. Well, Trump said that,
+      for the first time in history, nothing like this has ever occurred. And of course,
+      it has occurred! It’s what the United States — What China has done is, [it] passed
+      a series of rules that were almost word for word the same rules that the United
+      States had imposed on other countries dealing with China — for “national security.”
+      China is finally doing to the United States exactly what the United States did
+      to China. The difference is that China doesn’t really need the United States,
+      in the sense it doesn’t need U.S. exports, because the United States isn’t exporting
+      anything that China really needs. And if it does need something, like replacement
+      parts for Boeing airlines, then it’s going to avoid the fact that the United States
+      has weaponized its foreign trade — so that it can stop the export of replacement
+      parts for Boeing airlines, in the hope that the Boeing planes won’t be able to
+      fly anymore and [that] China will have a problem — because China has indeed developed
+      its own commercial airliner. But the United States has told foreign countries,
+      and the international transportation licensing authority: Don’t approve China.
+      Only approve airplanes made by the United States and its satellites, like Airbus.
+      Do not let any Chinese-made airplane land, because it doesn’t have official U.S.
+      approval. This matches with the United States intention that we must control all
+      of the airplane, and other, essentials. I want to talk about what happened last
+      week in Holland, when the Dutch confiscated the Chinese ownership of a company
+      called Nexperia. The Financial Times has been focusing on this by saying, for
+      the first time, Europe has, and especially Holland has, moved away from the whole
+      idea of open investment, free trade, free investment, to say: All domestic investment
+      is now controlled by the United States. Any foreign-owned firm, specifically a
+      Chinese-owned firm, should be confiscated; and any Chinese firm that uses American
+      exports as part of its products, its trade must be banned. Well, the company that
+      China bought was a company specializing in making batteries for automobiles because
+      China has become the world leader in making batteries. The United States wants
+      to prevent China’s leadership in batteries so that the United States can supply
+      batteries that cost approximately ten times as much. The intention is to prevent
+      Europe from using low-priced batteries designed by China, so that it cannot compete
+      with American cars using American batteries. So, you have this semiconductor company
+      and battery company — with 12,500 employees all over the world, not only in Holland
+      — and all of that has just been confiscated. It was sold to a Chinese conglomerate
+      in 2017, and it was bought by a Chinese group, Wingtech, in 2019. And everything
+      has been going fine, until the last few months when the U.S. State Department
+      told Holland: You have to close down this Chinese company. We want to make sure
+      that China cannot make any money in Europe, or any other “democracy” which we
+      control. So, the words that were used in your wonderful clip — a [command and]
+      control economy — that’s what the United States is: that’s “democracy.” If you
+      do not centralize control (and, essentially, be a police state) then you are not
+      assuring the U.S. unipolar control of the world. And China has fought back. But
+      if you go into the details, I mean, this is an escalation, this confiscation of
+      Chinese companies. The Financial Times wrote that “Wingtech is a landmark moment
+      in Europe’s evolution, from one of the world’s most open trading blocks to increasingly
+      preoccupied with economic security.” And the “economic security” is dominated,
+      is defined, by the United States. And just as the United States forced TikTok
+      to be sold — either you sell at a giveaway price to the Americans, or we’re just
+      going to close you down — it’s now using the same policy towards Europe. And China
+      [has] essentially decided to fight back against all this. The court documents
+      in the case that the Financial Times have been quoting is that The Hague (the
+      government in Holland) was acting under pressure from the U.S. to back the control.
+      Well, look at what’s happening. Lenin had made a quip once; that capitalist countries
+      would sell [the U.S.S.R.] the rope from which to hang them [attributed to Lenin],
+      metaphorically speaking — meaning the arms. Well, China has no intention of selling
+      the United States the military materials — rare earth metals, and other metals,
+      and other tools — to destroy it in missiles. The United States said: We expect
+      war with China as our existential enemy in the next two or three years. We must
+      destroy China. Again and again, from Biden to Trump, and to Congress, there is
+      an announcement: We intend to go to war. We’re preparing the way. Well, of course,
+      China’s blocked what you need to make the missiles, the rare earth magnets to
+      make the missiles. China blocked what you need to make the computers to guide
+      the missiles, and to spread your control of the internet, control of the public
+      media platforms, really, to control the direction that the world’s moving in.
+      And China has watched what the United States did to Japan, with the Plaza Accords
+      and the Louvre Accords that insisted that Japan raise its exchange rates, and
+      essentially [brought] on its depression. And it’s watched America’s demands that
+      Japan pay tribute of $350 billion to the United States, in order to have access
+      to the U.S. market, even subject to the high U.S. tariffs. And China [has] watched
+      the demand on Korea to pay just as large a $350 billion “choice.” China has no
+      intention of surrendering on these terms, and it has no intention of letting the
+      United States have, what it says is, the new equivalent of controlling the world’s
+      oil reserves; controlling the world’s food; controlling the world’s information
+      technology; controlling the world’s computer technology (computer chip technology,
+      the programming technology, the engraving of computer chips — the blocking of
+      Dutch companies from selling computer chip engraving machinery to China). China
+      has realized that if the United States has a monopoly on computers, on missiles,
+      on automotives, on military technology, it’s going to use this to attack China.
+      And it’s taking moves to stop it. And Trump has said he’s willing to create a
+      depression that will be like the 1930s in America. His threat to impose these
+      multi-hundred-percent tariffs on Chinese goods means we are blocking all trade
+      with China — that means with China technology. Well, China has what the United
+      States needs for its military domination. The United States doesn’t have anything
+      that China needs. China will grow. The United States will move into a crisis.
+      And, as Richard said, this is an act of desperation; but it’s a desperation that’s
+      worth following, because 90% of the Americans are going to be downgraded in their
+      standard of living, their wages, what they can afford; but the 1% of Americans,
+      the Silicon Valley billionaires and the financial banks, will make a profit. And
+      what’s so amazing is that [on] today’s New York Times first page: “U.S. Banks
+      Score Big Helping China Firms Go Global” — Well, you can imagine what’s going
+      to happen. Who is going to win? Will American foreign policy be what the banks
+      want — which is usually what foreign policy is all about for the United States?
+      Or will it be what the neocons want? [Neocons:] We want war. We cannot have another
+      country being independent from the United States. We cannot have a country of
+      equals. So, we’re back at what we talked about with Venezuela: You cannot negotiate
+      with other countries and make a reasonable deal because that would be to treat
+      them as equals; that would be to treat them as sovereign countries. There is only
+      one sovereign nation: the United States. All other nations are to be treated as,
+      or turned into, satellites for the United States. And  I think that’s why Richard
+      brought up what was happening in Argentina — to make sure that it’s locked into
+      a satellite controlled by a client oligarchy in Argentina; just as you could say
+      the same thing is happening in Europe. ⁣RICHARD WOLFF: Let me comment a little
+      bit about Scott Bessent (and I don’t mean to pick on him, although I’m not opposed
+      to doing that either, but that’s not what I’m doing). Watch the fuzziness of the
+      way he speaks. So: We’re not going to allow bureaucrats in Beijing because they
+      are a state economy — This is a minister of finance whose boss just did the following:
+      took a 10% ownership of the Intel Corporation; imposed a partnership of the U.S.
+      government on AMD and NVIDIA; is busy taking other positions in American corporate
+      governance — ownership. I mean, we are more of a state economy than we have ever
+      been! Tariffs are the biggest imposition of taxes any government of the United
+      States has ever done. We are taxing everybody. The whole world is being affected
+      by us because if you choose tariffs, it’s international. You’re taxing your own
+      people, hugely. Look how proud Mr. Bessent was a few days ago, telling us that
+      the tariffs have raised $60 billion already in their first x months. He’s proudly
+      telling you what previous Republicans would have been horrified — they’re a party
+      against taxes! No, now they’re a party for taxes. Every government that has ever
+      taken a bigger and bigger share of the economy has used “national security” as
+      its rationale. That’s not new. That’s what Republicans used to make fun of. It’s
+      really, it’s remarkable. He’s denouncing China for wanting to control the world.
+      As Michael correctly says, China is demanding what the United States has always
+      fought for, has acquired, and is now desperate because it’s losing it. It’s angry
+      at China — for what? For wanting pretty much the same thing, if Mr. Bessent is
+      right. It used to be the argument, here in the United States, that a free-trade
+      regime was the best protection against war, against hostility. People used to
+      talk about the competing empires — British, French, German, Russian — before World
+      War I, as the reason they destroyed each other. The League of Nations after World
+      War I, and the United Nations after World War II, were created because countries
+      that used “national security” to shape their economic policy ended up in war against
+      each other. The whole point of these international organizations was to not have
+      that happen again. The United States’ withdrawal from the United Nations — which
+      has been going on for twenty years — is also, as we should have seen before, a
+      withdrawal from that whole project; and a return to being a national security
+      state, in which the state and the leaders — the oligarchs of business — are becoming
+      the same people. Remember who was sitting behind Mr. Trump when he was inaugurated?
+      The ten billionaires from the leading few industries the country has. It was an
+      advertisement for the merger of oligarchs and government, which is a hallmark
+      of fascism — Italian fascism, German fascism, Japanese fascism, Spanish fascism
+      — come on! We know these things. The difference is that the United States is now
+      not the dominant country. The G7 is not the dominant player in the world economy.
+      And all the pretense, and all the fuzzy ideology of Mr. Bessent, who conveniently
+      forgets that his government is now becoming more “statist” with each passing week,
+      and therefore not different from “China,” but indeed rather more like “it” — China
+      is also not — because he should know better — it’s not a state economy. Half of
+      it is private enterprise. People are critical of China’s claim that socialism
+      has developed faster and further in the last forty years in China than any other
+      system has developed; and they like to criticize that by saying, yes, yes, yes
+      — but that’s because of the “private” sector. Okay, if you want to make that argument
+      (I think it’s stupid but, okay, if you want to make that argument), then you can’t
+      turn around the next morning and refer to them as a “statist” economy. You’ve
+      just explained that they are a “private” economy — and that’s why they’re so rich
+      and big and powerful — richer than you are. And let me remind you: In the contest
+      before World War I of competing “national security” — economic nationalisms built
+      around Europe and its colonies — nobody had an outstanding advantage of population.
+      But that’s not true, folks. The United States has 4.5% of the world’s people.
+      China and the BRICS have 60% of the world’s people. What kind of a conflict are
+      you imagining you’re going to be able to have? What are your chances? This is
+      very stupid. You ought to be working your rear-end off, trying to come up with
+      a revived United Nations to work out a way for the G7 to function, and for the
+      Chinese and their BRICS allies to function. The planet is big enough for both
+      of them. Or, are we going to descend into another world war, even knowing the
+      disasters of the first two? And in case you’ve forgotten, World War I ended up
+      with the Soviet Union. World War II ended up with the Soviet Union — plus China.
+      You notice something? You know where World War III will likely end up? Yeah, yeah.
+      It ought to make you stop, and think a little bit about what you are doing. ⁣NIMA
+      ALKHORSHID: Michael, go ahead. ⁣MICHAEL HUDSON: Today’s international conflict
+      between the NATO West and China is being fought over what kind of strategy the
+      world will have. Given the inequality of population and size, the United States
+      wants to be the only country that is able to wage war with the best armaments.
+      It wants to be the only sovereign nation. All the other countries are to be turned
+      into dependencies: trade dependencies, by weaponizing foreign trade; financial
+      dependencies, by dollarization; and military dependencies. [It] is a precondition
+      for their very survival. That’s the only way in which the United States can possibly
+      achieve the strategy that you say can’t work. Well, of course, it can’t work in
+      the end because other countries are going to retaliate. But the essence of U.S.
+      foreign policy is to cripple other countries’ ability to retaliate by things like
+      controlling their oil supply, so they can’t survive, if they retaliate; by denying
+      them ownership of and production of information technology — computer chips, basic
+      electronic technology — and monopoly of the internet, if they don’t comply. The
+      United States says: Yes, of course, we know that there’s this inequality of population
+      and productive power. We’ve deindustrialized, they have not deindustrialized,
+      but we can win anyway — by the policies (that I’ve just developed) of total control,
+      and the narrative that is needed to impose that control. And I think the policy
+      of targeted assassination, of killings — like you’ve seen, from Venezuela to Gaza
+      — are all part of this demonstration of America’s willingness for total control,
+      even to the point of preparing for the Near Eastern war against Iran, that many
+      of Nima’s guests believe is imminent. ⁣NIMA ALKHORSHID: Richard, you mentioned
+      G7 and compared it to BRICS. And once (we know, once), Donald Trump said that
+      Spain is part of BRICS. He was trying to lecture the reporters in the room, and
+      he said Spain is part of BRICS. Here is his latest comment on BRICS: ⁣TRUMP (CLIP):
+      I told anybody who wants to be in BRICS, that’s fine, but we’re going to put tariffs
+      on your nation. Everybody dropped out. They’re all dropping out of BRICS. BRICS
+      was an attack on the dollar. And I said, You want to play that game? I’m going
+      to put tariffs on all of your product coming into the U.S. They said like I said,
+      we’re dropping out of BRICS. And BRICS is, like, they don’t even talk about it
+      anymore. ⁣NIMA ALKHORSHID: Dropping out of BRICS? [Laughs] ⁣RICHARD WOLFF: But,
+      you know, it’s it is important to understand that if you have a leader who forever
+      makes things up like this — everybody’s dropping out of BRICS — You know, I pay
+      a lot of attention to BRICS. I’d be very interested. Could that happen? Yes. By
+      the way, Argentina is the only example I know of. They did withdraw — with this
+      fellow, Milei, who’s on his way out. He withdrew. They [Argentina] actually joined,
+      and then they withdrew — because it happened in a very short period of time, between
+      when they joined, and when Milei took them out — and that was an act of him, as
+      an extreme-right-wing neoliberal person, which he proudly says of himself. It’s
+      not a label I’m putting on him. But when you have a president, like we do, who
+      makes these casual comments — India has decided not to buy Russian oil — and turns
+      out, no. And the BRICS are falling apart — no. Or I will put tariffs on them —
+      as if that’s the end of the whole story. This is becoming pathological, sure,
+      but it’s a pathology that has a place. It has an origin. It has a set of supports.
+      It is to be taken seriously — he isn’t; but the fact that he has to talk like
+      that is an interesting phenomenon, right? Most leaders don’t do that. Why is it
+      important for him to do it? It’s like asking the question that should have been
+      asked when he first ran for office — and he descended the escalator in one of
+      his buildings in New York City; and he made the famous comment that the Mexicans
+      here are all rapists and killers, and which he had, of course — you have to ask:
+      Why would a personality aspiring to be a politician say such crazy stuff? Because
+      in our environment, there’s a need for it. He’s meeting a need. His instincts
+      tell him — and he was right. Politically, there was a constituent out there that
+      needed to beat up on immigrants. Mostly from Mexico, they come. So, it was important.
+      He’s meeting a need, and he discovered that there’s a whole community of people
+      whose peculiar experience in the last thirty years has been to be — what? They
+      are white male Christian union members who lost their jobs because corporations
+      wanted to replace white Christian male union people — because they were the highest
+      paid part of the working class. So they were the targets: Replace them, either
+      with automation, or by moving your production to China. And so they were left
+      to die in their cities across the Midwest and the South, to become MAGA, his support.
+      He understood without — you know, he doesn’t have the capacity, or the vocabulary,
+      or the education, but he understood, instinctually, that there was a need out
+      there to demonize Mexicans as immigrants. That’s why you now have this Christian
+      fundamentalist community cheering on the concentration camps for immigrant children
+      — which violates their Christian commitments. And somewhere they know that. But
+      they’re so needy — I want to get that across. Mr. Trump is needy for saying this.
+      We should understand, because it’s important, what the need is, that this dismissal
+      of the BRICS is about. And the need? The BRICS is overwhelming. The BRICS is the
+      biggest danger he faces economically because it’s the option for China to behave
+      in the way Michael has laid out. Because they have the BRICS, and all that that
+      means, they can now afford, finally, to be taking steps, like what they did in
+      response to the action of Holland. If I were to make a guess about the decision
+      to hold back the rare earths? Michael is right. The precipitate act was not the
+      fees charged to the boats that are made in China, which the United States is doing,
+      or the slippage here or there — it was that: that act of trying to literally organize
+      the whole world economy to be focused against China; to take Chinese property,
+      the way they took the $300 billion of Russian assets at the beginning of the Ukraine
+      war. Okay, now is the time. And my guess is it took a difficult, long debate inside
+      China as to whether this was the moment to move. And it should be taken seriously
+      because the Chinese are responding to a deep need they have in taking their action,
+      just like Mr. Trump is responding to a deep need that comes out of the dilemmas
+      of the United States. ⁣MICHAEL HUDSON: Well, what Richards brought up is the fact
+      that this international trade war finds its counterpart in the U.S. and international
+      class war. It’s a war, not only of the U.S. to dominate other countries; but for
+      the rentier class — the elites — to dominate labor, as its policies — by making
+      revenue and wealth for itself, in the form of creditor claims, monopoly claims,
+      and the capture, the privatization of government to prevent public social spending
+      — all of this is going to impoverish the population. All of that goes hand in
+      hand with the international class war to promote Thatcherism, privatization, financialization,
+      and the whole economic philosophy that we’ve discussed so much in earlier episodes.
+      ⁣RICHARD WOLFF: And let me — a concluding thing: When you hear Mr. Trump and some
+      of his lieutenants — as you are already hearing, and you will be hearing more
+      — talk about how, even if it takes a depression, even if it takes mass suffering,
+      this is a matter of the “national survival” and our “security” — you know what
+      they’re gearing up for? It probably means they are getting the advice that the
+      tariff game is leading us into a stagflationary situation, one way or another:
+      a very troubling combination of 3% or more inflation, with a decline in our employment
+      situation. Jamie Dimon was quoted everywhere yesterday, talking about the collapse
+      of two automobile companies, and saying, where there’s a few “cockroaches” — his
+      word, not mine — there’s always lots more. What is that? That’s a statement that
+      a credit crash is underway, or likely, or possible, with all that that has meant.
+      Let me remind you of how the 2008 crisis got going. That, too, was a credit problem.
+      That’s why it’s called the subprime mortgage crisis. So, they’re getting ready
+      to even carry their craziness to the point of a mass depressive recessionary onslaught,
+      because they are convinced it’s the necessary price to pay — of course, always
+      for the working class — to get them through the crisis they face, which is one
+      of a world no longer willing to be the colonial territory; because that’s really
+      what this is about: it’s a resurgence of colonialism. It’s not an accident that
+      Mr. Trump meanders about Greenland, or Canada, or Panama or, now, Venezuela. These
+      are all imaginaries; but they’re logical, if the whole world is going to be controlled,
+      because that’s the control that a metropolitan country used to have over its colonies.
+      It’s the United States rehashing the end of the British Empire, hoping to reverse
+      the flow of history. Well, I am one of the masses of the world saying to the Americans:
+      too little, too late, not available. It’s like explaining to Israelis that settler
+      colonialism was something that worked two centuries ago, but now? Doesn’t work
+      anymore; puts you in an impossible situation. ⁣MICHAEL HUDSON: Well, Richard,
+      unemployment and economic collapse is not a price to be paid by the ruling elite.
+      It’s easier to make money and get wealth in a crash, than it is in slow growth.
+      The crash is going to lead, as I think you pointed out, to many mortgage foreclosures.
+      People are going to lose their homes, as they did after [President Barack] Obama’s
+      bailouts in 2009. All of this led to a huge asset grab by the 1%. While home ownership
+      declined in the United States, and GDP and wage levels for the 90% remained pretty
+      stable, all of this wealth grew for the [1%]. Same thing in the world. Well, when
+      Trump withdrew support for the Agency for International Development [USAID], withdrew
+      support for the United Nations health agencies and cultural and social-spending
+      agencies, the intention was to create mass starvation and famine in the rest of
+      the world — just like Trump’s attack on global warming to maintain the oil supremacy
+      is causing rising sea levels — it’s going to create mass destruction. All of this
+      is viewed [by] the United States as a collateral benefit, not a collateral [damage].
+      You have to realize that when something like this happens, not everybody loses.
+      It will be a negative-sum game for the economy of nations, and the world as a
+      whole, but very positive as a wealth grab by the 1%. And the United States is
+      trying to make that the American 1%, not foreign 1%. ⁣NIMA ALKHORSHID: Thank you
+      so much, Richard and Michael. Bye-bye. Great pleasure, as always, talking to you.
+      ⁣RICHARD WOLFF: Talk to you again next week. ⁣NIMA ALKHORSHID: Talk to you next
+      week. Transcription and Diarization: https://scripthub.dev Editing: Kimberly Mims
+      Review: ced Photo by Quiet Studio on Unsplash The post Managed Democracy? first
+      appeared on Michael Hudson .'
+    one_sentence_summary: The article discusses a conversation with Richard Wolff and
+      Michael Hudson about reports of the CIA's covert operations authorized by the
+      Trump administration to overthrow Venezuelan President Nicolás Maduro, highlighted
+      by Republican Senator Rick Scott's comments on Maduro's precarious position.
+    paragraph_summary: In a discussion on October 16, 2025, Nima Alkhorshid, Richard
+      Wolff, and Michael Hudson addressed reports of the CIA's covert operations authorized
+      by the Trump administration to overthrow Venezuelan President Nicolás Maduro.
+      Republican Senator Rick Scott expressed confidence that Maduro's days are numbered,
+      suggesting he should flee to Russia or China due to his unpopularity and accusations
+      of election fraud. Wolff critiqued Scott's remarks, emphasizing the troubling
+      implications of the U.S. acting as judge and executioner without due process,
+      highlighting a broader concern about U.S. interventionism and its consequences
+      for both Venezuelans and other affected populations.
+    published: '2025-10-20T20:17:03+00:00'
+  - title: Hegemony’s Last Stand
+    url: https://michael-hudson.com/2025/10/hegemonys-last-stand/
+    text: 'NIMA ALKHORSHID: Hi everybody. Today is Thursday, October 2, 2025, and our
+      friends, Richard Wolff and Michael Hudson, join us today. Welcome, Richard and
+      Michael. ⁣MICHAEL HUDSON: It’s good to be back. ⁣NIMA ALKHORSHID: Michael, let’s
+      start with you. You were talking about that urgent meeting that Pete Hegseth had
+      with generals and admirals. And they were talking about many issues, you know,
+      foreign policy, domestic policy. But the main issue right now is the way that
+      the United States sees the conflicts in Ukraine and in the Middle East. Donald
+      Trump — two times he said that Russia is a paper tiger. Then he came out and said:
+      No, I didn’t mean that. And again, you know, repeating the same sort of rhetoric
+      that Russia is a paper tiger. Do you think that we are getting closer to a nuclear
+      war with this sort of attitude, because these countries don’t know what is in
+      the mind of Donald Trump? ⁣MICHAEL HUDSON: I think Trump and the deep state have
+      already decided on nuclear war, because last week we described all the economic
+      reasons why Trump is desperate. He’s desperate to maintain the U.S. and NATO control
+      of the world — and it’s all backfiring. Just in the last day or two, you’ve had
+      Korea saying: We’re not going to even begin to talk about investing in the United
+      States. We can’t afford it. It would mean destruction of the Korean economy. The
+      Japanese said: Alright. We can’t talk about that either. In Europe, even, they’re
+      refusing to go along with it. So, I think that Trump, and the U.S., is saying:
+      How are we going to lock in our control? Well, you mentioned Ukraine. I think
+      that Europe and Ukraine — now that they’re bombing Russian refineries and bombing
+      Russian energy generation, just like Russia had been bombing that of Ukraine —
+      they’re going to say: We’re going to keep upping the scale, upping the scale,
+      upping the scale, until finally you won’t have any choice but to resist. Your
+      guests, and commentators all over the internet, say that the Russian population,
+      and what’s called the right wing — meaning the nationalistic wing — are saying:
+      We’ve got to respond because, at some point, we’re going to have to respond. And
+      we might as well respond earlier, instead of later, after they’ve blown up more
+      of our refineries and more of our energy production. So, I think the point is
+      coming very near, especially now that Estonia has seized the Russian oil tanker:
+      this means essentially one escalation after another. And I think they’ve decided:
+      We’re going to keep upping the rate, the destabilization, until there’s war —
+      especially because the army believes, and Trump believes, that if they can tie
+      up Russia in Ukraine, then Russia will be unable to help Iran defend it against,
+      what is a week or two away, Israel’s attack, America’s attack on Iran — which
+      is going to result in just the conflagration of the Near East. And I made a list
+      that we talked about earlier of, you know, what America is trying to do to lock
+      in its position: oil and the dollar. But it occurs to me that Trump and his advisors
+      must know that none of these are going to work. And I think that Trump has his
+      own agenda, and you and I talked about that earlier: his narcissistic drive to
+      make himself famous. I think he’s seen there’s one way in which he can be the
+      most famous person in history: He can be the man who blew up civilization! That’s
+      more important than Jesus, more important than Moses. All he has to do is start
+      an atomic war, and when the dust settles, and evolution starts all over again,
+      the surviving humanity — wherever it is — is going to write a history and say:
+      How did all this begin? How did the world blow up? And they’ll say, somebody named
+      “Donald Trump.” That’s his dream. A narcissist cannot resist the temptation to
+      be the most important famous person in all of history. And who’s to stop him?
+      Historians are going to marvel at how he’s been able to rule with such an iron
+      hand. Before we get into the economics, I want to say a lot of people have mentioned
+      Trump’s desire to be a Roman [emperor], like Caligula. Caligula got famous for
+      having such control over the Senate that he nominated his horse, Incitatus, to
+      be a senator. The word “incitatus” [Latin adjective meaning “swift, at full gallop”]
+      — the English word means: incite, to goad on. Today, you could say that what Trump
+      has done is appoint more than a horse. He’s appointed a whole stable of cabinet
+      ministers, and the people who are running the country, which are the human equivalent
+      of Caligula’s horse. You’ve seen Hegseth’s speech before the army yesterday, and
+      what that did. You could go right down the line to the beauty-contest winners
+      and Fox news broadcasters, appointed administrators. It’s the embodiment of total
+      “yes-men,” people totally under his control. Nobody can stop him. And he’ll have
+      people — the military advisors, such as Keith Kellogg, Netanyahu’s advisors —
+      you can go right down the line — the neocons. It’s the whole — whatever we’re
+      going to talk about for the rest of this hour is going to be. There’s nothing
+      that the United States can do to reverse the loss, the fact that the U.S. century
+      — let’s say, 1925 to 2025 — is over, and the West’s dominance is over. The reaction
+      of Trump is not only chaos, but ‘just bring the whole thing down.’ ⁣NIMA ALKHORSHID:
+      Go ahead, Richard. ⁣RICHARD WOLFF: Okay, well, maybe this time Michael and I can
+      disagree a little bit, and see how that evolves as a program. I understand what
+      Michael is saying. Is that a possible place where we are? Is that a possible direction
+      that we could take? Absolutely. I’m not going to argue that it isn’t. But I am
+      going to argue that when societies find themselves in the kind of dead-end that
+      I think we are now in, and pretty much the same reasoning gets me to that, that
+      Michael has, and that we’ve discussed on this program for quite a while now. Another
+      trajectory out of it, besides the one that Michael just outlined, is a recognition
+      that the game is over and that what has to happen now is a sane negotiation for
+      the least difficult accommodation of what is happening, and is going to happen,
+      no matter what we do. Precisely because the alternative is what Michael just laid
+      out. And that alternative is so horrible, and so self-destructive, that we’ll
+      avoid it. And I take a certain comfort from knowing that whatever was in the mind
+      of Adolf Hitler, or Benito Mussolini or Francesco Franco, that didn’t come to
+      pass either: those projects collapsed. And they mostly collapsed because they
+      overreached what they thought they could achieve and, thereby, produced the backlash
+      that eventually overwhelmed them, and erased them, at least for a while, from
+      history. Okay, so let me spell out very briefly what I think. The contradictions
+      of Mr. Trump’s economic policy are now reaching a level of absurdity — not that
+      they weren’t there already before, but they are now coming to the foreground of
+      people’s awareness. Even the media that support Trump are reporting, what? Well,
+      let’s see. The fundamental rationale economically of Mr. Trump’s every economic
+      policy has been the idea that he’s going to make America great again by bringing
+      back jobs. And he’s made it quite clear that he’s going, you know — the tariff,
+      right? Because you have to pay a fee to access selling into the U.S. market. We
+      hope to see companies coming back inside the United States because that will be
+      a way for them to escape the tariff. They won’t have to pay a tariff. If they
+      sell in Chicago what they make in New Jersey, there’s no tariff. If they sell
+      in Chicago what they make in China, there is a tariff. Et cetera, et cetera, et
+      cetera. So we’re going to make America great again by reindustrialization. They
+      even have a word they like, those people, “reshoring”: bringing back to our shore
+      what was taken to the other shore. Okay. Now let’s take a look at that, how that’s
+      working. Here we go. Number one: Is there a flood of jobs coming back? Absolutely
+      not. There’s no such statistic. Are there some companies coming back? Yes, of
+      course, but most of them have to do with high-tech. They’re going to California
+      and Silicon Valley, and the one thing they don’t have is a lot of jobs because
+      they are capital intensive: they’re full of computers, they’re full of all of
+      that material that they need. And the number of people is highly educated, highly
+      trained, and few in number. That’s not a solution to the unemployment problem.
+      And how do we know that? Because if you look at the last year, all of the original
+      numbers of jobs have been adjusted, in subsequent months, downward, culminating
+      in the latest numbers, which indicate no growth at all — in fact, a decline of
+      32,000 jobs in the latest reporting period. So, no jobs. Okay. Why? Well, here
+      come the contradictions. Because almost everything else Mr. Trump is doing is
+      encouragement for CEOs around the world not to come here. I mean, let’s go. The
+      government is shut down. Hello? That’s a clue. Don’t go there. If you’re a business
+      person, you don’t locate, you don’t spend millions of dollars moving a factory
+      or an office, lose a year in the whole adjustment in order to go to a place where
+      the two major parties can’t keep the government functioning. Their divisions and
+      their hostilities are so deep. As if that weren’t enough. The military is discussing
+      invading their own country. The vice-president looks forward to all the major
+      cities being occupied. Well, why would you move to a country contemplating that?
+      That’s eight hundred ways you could make a big, big mistake. You’re not going
+      to do that. You’re not going to be the vice-president in charge of location who
+      will go down in history as having been moronic enough, in the face of what I just
+      said, to move into the United States. But I’m not done. According to the financial
+      press, we’re on the precipice of a stagflationary period: a mixture of low-level
+      economics, which the unemployment numbers I just mentioned reinforce, and an untamed
+      inflation. The current inflation rate is 3%. If we’re in a great struggle with
+      China — let me let everyone know, the official inflation rate in China now is
+      minus 0.4%. They don’t have any inflation. They have deflation. The United States
+      has inflation of 3% — that alone will enable the Chinese to out compete the United
+      States, each year that it continues. Forget tariffs, forget even exchange rates.
+      Before you even look at those, look at the disparity. By the way, this is not
+      new. The Chinese have not — in case you’re not familiar with the statistics —
+      it’s not recent, that they’ve had no inflation. They’ve kept inflation under control
+      in a remarkable way. That’s why you haven’t heard about inflation in China — because
+      it’s not a bad number that the media can talk about. Keep that in mind when you
+      read that Russia is on its knees, its economy — If you cherry-pick statistics
+      in any country, including the United States — if I want to make a case, the United
+      States is in good shape, I can pick six statistics that make that happen. If I
+      want to show the United States is in trouble, I can pick six different statistics
+      and make that case. Any analyst who has a brain knows that the trick of analysis
+      is not cherry-picking, which an infant can do; it’s the balancing: How do you
+      reach a judgment that takes into account the different statistics, some of which
+      are always pointing up, and others of which are pointing down? Really, it’s like
+      a doctor measuring your body, and all of its functions as well. Alright, the Chinese
+      are — what? They’re not just winning the economic race. It isn’t enough anymore
+      to simply say, look at the GDP. China and the BRICS now are a much larger economic
+      unit than the United States and the G7. And that’s a real issue. But we’re now
+      beginning to see the chickens coming home: We’re seeing the effects and the consequences.
+      Over the last twenty years, twenty-five years, the Chinese have made a series
+      of very important investments in — Venezuela. They are not in a position, neither
+      in Venezuela, nor in any of the other countries that they have invested, to permit
+      the United States to willy-nilly overthrow a government in order then to — what?
+      Wipe out the Chinese? No, no, that isn’t going to happen anymore. That’s what
+      used to happen in the old colonial world, yes. But not now. So when the United
+      States, in violation of everything I understand to be the law, wantonly kills,
+      I don’t know, twenty-five people — by now — in several boats on the outskirts
+      of Venezuela — no arrest, no investigation, no trial, no jury, no judge, no appeal,
+      murder on the spot, with statements about Venezuela being punished for its drug
+      activities. Everyone who knows anything about the drug trade knows that the bulk
+      of the drug trade happens on the Pacific Ocean side of the Western Hemisphere,
+      not on the Atlantic side. What comes from the Atlantic through the Caribbean is
+      small potatoes. If you’re interested in inhibiting drugs, Venezuela isn’t your
+      target. And so, the Chinese — here we go now — the Chinese Navy is big time in
+      Venezuela. What does that mean? It means exactly what you think it means. You’re
+      not going to do it there. You can bravado all you want. You can assemble your
+      generals in a sweaty room. Doesn’t change. Is the United States — if Michael is
+      right —is it about to work with Israel to attack Iran — and Venezuela — while
+      the Gaza thing is unresolved? And the Ukraine war is being won by Russia? Really?
+      You know what that would be? Overreach. It would be exactly what brought to an
+      end Hitler, Mussolini, and Francisco Franco. And I bet you, despite their clownishness,
+      among Mr. Trump’s advisors, there are those who may tell him that as well. And
+      if not, well, we can do it. ⁣NIMA ALKHORSHID: Go ahead, Michael. ⁣MICHAEL HUDSON:
+      I think that, to Trump, the drive for U.S. unipolar control can’t be over in his
+      mind. He can’t acknowledge it because that would mean he’s a loser. And that is
+      what makes him so desperate. He’s desperately lashing out, in a strategy that
+      both Richard and I have described in the last few weeks can’t work, for reasons
+      that we’ve described. Richard used the word overreach. His tariffs were an overreach.
+      His military expansion on a multifront war is overreach. Richard started by saying
+      he hopes that this is going to frame Trump’s creating of a more realistic resolution
+      of how America can accept its lost place in the world, now that the American Century
+      is over, and how he can, realistically, act in a way that is not going to self-destructively
+      just drive other countries further away and consolidate America’s self-isolation
+      economically. Well, we discussed before how Trump can’t reshore industry because
+      his tariffs have prevented that. The tariffs have made America too high-cost —
+      on steel and aluminum, on so many things that America has been importing. So,
+      what is Trump going to do to try to compensate for the fact that other countries
+      have already, in the last few days, rejected the idea of relocating their industry
+      in the United States? They can’t afford it. And Trump is insisting that the United
+      States gets to keep the profits on this industry. It means any foreign investment
+      in the U.S. industry is in danger of being lost. So, what’s the problem? Well,
+      I’ve emphasized before: Oil and the U.S. dollar are the key to the U.S. hegemony.
+      And oil is, I think, absolutely key. Trump’s attack on Venezuela is to grab its
+      oil and — not only grab its oil to make money for the American companies that
+      would take over, but to be able to prevent other countries from importing oil
+      from Venezuela, or refining Venezuelan oil to sell. Same thing with Argentina.
+      Why did Trump make the $20 billion loan to Argentina (that there is zero chance
+      of Argentina being able to repay, for reasons that I’ll get into)? America wants
+      two things in Argentina. Number one: control of its still state-owned oil industry
+      — the same thing as Venezuela — take over its oil industry; and to make a military
+      base in Tierra del Fuego, the south tip of South America, that controls not only
+      the route around South America from the Atlantic to the Pacific and back, but
+      control over Antarctica. And the [Javier] Milei government yesterday gave America
+      permission to start the military bases there, bypassing all congressional approval
+      in Argentina, and that’s created a crisis. So, you can see what’s happened. Yesterday,
+      the Financial Times had a very clear article on the fact that, how will America
+      ever get this $20 billion back? The only way that it can do it is if the IMF makes
+      yet another loan to Argentina — a losing loan because the $20 billion is going
+      to be spent right away by Milei to support the Argentine peso, so that the wealthiest
+      classes in Argentina can move their money out of Argentine pesos into the dollar,
+      or gold, or something else, without the current price ratio, not a devaluation
+      price that they’d have to get fewer dollars or less gold for. So this money is
+      going to be spent right away. And when Milei loses the elections in the next week
+      or two, then Argentina is going to have this $20 billion additional debt. I think
+      Trump knows that the debt can’t be repaid. And like many creditors throughout
+      history, he doesn’t want the debt to be repaid. He said: You don’t have the money
+      to repay? Give us your oil industry. Give us your land in the south. Give us that.
+      Finance is, in Trump’s idea, still a hope for the new colonialism. You’re also
+      having Trump break with the whole rest of the world on global warming. What is
+      he trying to do? Well, much as he’s trying to prevent other countries from meeting
+      their energy needs from oil that the U.S. doesn’t control, he’s trying to prevent
+      other countries from meeting their energy needs by solar power, not to mention
+      wind power, or atomic power. He’s insisting that other countries rely entirely
+      on oil. Yesterday, Trump increased subsidies for, and the sell-off of, huge coal
+      lands, saying not only is oil the fuel of America’s future, but coal is the fuel
+      of America’s future. This increases the greatest threat to all the rest of the
+      world’s economy, in the form of global warming that, along with the military threat,
+      is an existential threat. Other countries, I think, have to realize that, you
+      know, why is Trump refusing to acknowledge global warming? It’s because global
+      warming is a threat to America’s ability to turn off their energy, turn off their
+      electricity, to deny them power, just for the same reason that it blew up Russia’s
+      North Sea pipeline to Europe. So, all this comes down to the support for the dollar.
+      And that’s why Trump has also announced, in the last week or so, he wants to increase
+      cryptocurrency, especially the stablecoin, that all of the stablecoin proceeds
+      — crypto, stablecoin — are going to be invested in U.S. Treasury securities. So,
+      this is somehow going to — he believes that this fad for stablecoins is going
+      to — be able to finance the Treasury’s deficit caused by his tax cuts for the
+      wealthy classes — his donor class — and for the shrinking economy, that’s continuing
+      to shrink. So, all of these policies that Trump is trying to do, to say, yes,
+      we can live with the existing world situation, and we can still maintain our unipolar
+      control by reshoring our industry, by controlling oil, controlling agricultural
+      exports, the food supply — well, that hasn’t worked, as you see with the soybean
+      market. All of the ideas of how to somehow hold on to America’s ability to make
+      other countries pay tribute to the United States — by investing here and reshoring
+      their own industry out of their countries into the United States; by depending
+      on U.S. liquefied natural gas, instead of oil; by not obtaining oil from Venezuela,
+      Argentina, Russia, or Iran — all of these are absolutely destined to fail. And
+      the only way that I can see him ultimately responding is by war to say that, if
+      I can’t have it my way — it’s my way, or no way. That’s my worry of the mindset
+      of Trump and the neocons behind him. ⁣RICHARD WOLFF: Again, I understand the direction
+      Michael is pointing to. I understand the logic. It’s a compelling logic. It’s
+      clear. Let me only comment by talking about an alternative direction these same
+      developments might lead to. And here’s what I focus on. I’m noticing, and I’m
+      sure you guys have too, but I’m noticing something very interesting happening
+      pretty much at the same time in the United States as in Central and Western Europe.
+      And here’s what I notice: an emphasis on cutting back government social programs,
+      a recognition that whatever the 20th century required in the way of providing
+      education and medical care, and old-age pensions, and social infrastructure —
+      all of that — is a luxury we can — “We,” the royal “We” — can no longer afford.
+      Why? Well, the bullshit is, ‘We’re threatened by Russia.’ That’s one part of the
+      story. Or, now, ‘We’re threatened by China.’ Okay, that’s very useful. We are
+      in danger. And so this is something endangering all of us, and therefore we must
+      all of us sacrifice. And you know that when the people who run these societies
+      talk about all of us sacrificing, they are always exempt — from the “all of us”
+      — the rich and the powerful, who will not be hurt. Well, if you’re going to rearm,
+      if you’re going to spend a fortune — and let’s remember, if you look at the American
+      budget, everything is being cut back, except the military and the new army, called
+      ICE. Alright. Now let’s take a look at Europe. Same thing. The leaders — [Emmanuel]
+      Macron, [Keir] Starmer, [Friedrich] Merz — are all telling their people — Mr.
+      Merz — remarkable, if you read his speeches — he simply says: We are in danger.
+      The Russians are threatening. We are going to build up our military, and other
+      things will no longer be available. So, no mystery, for Mr. Merz — by the way,
+      his popularity is dropping like a stone, and I’m going to come back to that. Mr.
+      Starmer and Mr. Macron, their popularity isn’t dropping like a stone because it’s
+      already at the bottom of the barrel, because of what they’ve said. And they have
+      hardly gotten going. So, last piece of evidence. You’ll notice bizarre recognition
+      by these leaders — given what their plan is — that there’s going to be popular
+      resistance. They see it in their polling numbers, which are awful. They see it
+      in the collapse of the political middle in their countries, as left-wing and right-wing
+      extremes become relatively stronger. And then we have Mr. Starmer, who’s literally
+      circling the bowl — and you know which bowl I speak of — in his political career,
+      which has been a descent from unbelievable heights, the last election, to a spectacular
+      crash. You know what his new idea is? He wants to run on identification cards
+      for all British citizens so that the government can keep better track of — in
+      the middle of this turmoil, he’s going to spend a fortune of money to be able
+      to control, and supervise, and surveil his own people. The French already have
+      had, for many years, a carte d’identité [ID card], which functions that way in
+      France. And Germany is, you know, busily banning the extreme political right as
+      a preface to trying to pull the same stunt if the left gets going in Germany the
+      way it already has in France — if the Germans copy the French in the unification
+      of their left parties and in their street actions. So, what are we seeing? We’re
+      seeing this system aware of the very conversations in their language, parallel
+      to what we’re doing here, getting ready to have the fight, getting ready to squash
+      what is the real danger. Because they don’t want that war that Michael is talking
+      about. They understand what it might cost them. So, they would hope that maybe
+      they can finesse this crisis moment in the way that a capitalist society would
+      be expected to try to do it  — by squashing its own working class, by taking away
+      enough wealth that they can accommodate the rising Chinese. What option do they
+      have, other than nuclear war? They could accommodate the Chinese because they
+      could save their own privilege and their own wealth by ripping off their own people.
+      Knowing them, knowing the courage they don’t have, I think there’s a good bet
+      that that’s what they’re going to try to do. And then the issue is — which is
+      always the issue, right? Will the working class of this country, and of Europe,
+      permit this to be done? Will they permit their standard of living to be eroded,
+      as is happening here? Will they admit the army of their own country — that their
+      taxes pay for — be used to occupy the cities that provide most of the taxes to
+      pay for it? Or will the absurdity of this enable a different politics? ⁣MICHAEL
+      HUDSON: Richard, what you’re describing, by the U.S. and Europe — the class war
+      — it’s really taking the shape of a fight against civilization, at least the fight
+      against where all of us have defined the trajectory that we thought civilization
+      was moving in: rising productivity that would be more widely spread to uplift
+      living standards and, in the process, productivity in overall growth. And all
+      of that is being sacrificed with the precise class war that you’ve just mentioned.
+      When this morning’s newspapers reported where Trump’s budget cuts were, the largest
+      budget cuts were going to be in education, followed by medical care. Well, these
+      are the two things that civilization was supposed to provide, by the state — by
+      a state that was created by taking it out of the hands of a hereditary landlord
+      and aristocracy, and putting it in the hands of an economy — presumably a democratic,
+      or, at least, administered socialist state — that would increase education, productivity,
+      health care, and have rising growth. All of that is being countered by Starmer
+      — with his new Inquisition, is what you’ve described — Merz and Macron. And the
+      result is that, I think, you’re having two things that are going together right
+      now. And that’s very suggestive, what you’ve said. Tomorrow, President Putin of
+      Russia is going to address the Valdai Club, and that’s where he outlines: What
+      is Russia going to do with all of this confrontation that’s taking place? Well,
+      at last year’s meeting, he called NATO a blatant anachronism. Well, that’s true.
+      But the United States, at least under Trump and the neocons, are trying to say,
+      well, it may be an anachronism, but we’re going to restore the past to make the
+      anachronism great again, perpetual, permanent, never-ending. And so this has created
+      two crises. We’ve been talking so far about the geopolitical isolation of the
+      West — the United States and Europe — from the rest of the world that is not engaging
+      in this militarist, financialized, replacing industrial socialism and industrial
+      capitalism with finance capitalism. It’s breaking away from colonialism, but also
+      from the residue of colonialism: foreign debt and client oligarchies that the
+      Western rent-extraction governments have installed. But all of this is a crisis
+      of finance capitalism, and capitalism itself is a distortion of what people thought
+      would be industrial capitalism evolving into socialism, and just what you described
+      as what we’re all for — so that America and Europe could be just as successful
+      as China, for instance. And you have a rentier economy here that uses a kind of
+      Ponzi financial scheme, led by the Federal Reserve: Let’s just give banks enough
+      money to give the population an ability to buy real estate on credit, buy stocks
+      and bonds and credit. We’re going to continue to enrich the stockholders, the
+      bondholders — and this is the 10% of the population — against the rest of the
+      population, and then somehow we’ll be able to move all our money somewhere. Well,
+      this is part of the libertarian attack on government, and whatever authority government
+      loses under this attack [winds up in the control of Wall Street] — not only has
+      Trump dismantled social spending, he’s dismantled the departments of the government
+      that are regulating and protecting consumers, abolishing the Consumer Financial
+      Protection Agency, abolishing the Environmental Protection Agency. All of the
+      checks and balances that were put in place to prevent a predatory corporate industry
+      from impoverishing society are being dismantled. And so this breakaway from the
+      Western way of doing things is not only a breakaway from this neoliberal financialization
+      and rentier capitalism, it also has to involve a breakaway from the class war
+      that’s the residue of an anti-labor oligarchy — in Argentina, for instance, and
+      the places that we’re describing throughout the world, just as the United States.
+      This is why it’s a civilizational crisis that we’re going through right now. Not
+      only a military crisis — will there be a world war? Not only an environmental
+      crisis of global warming — but, really, what is going to be the structure of government?
+      Is it going to rule for the 1%, or for the economy as a whole? The 1% wants to
+      get rich by indebting and impoverishing the economy with austerity — paid to itself.
+      That’s the U.S. and European alternative to what used to be the definition of
+      civilization. And the question is: Will the BRICS countries be able to recognize
+      this class war, class relationship aspect to the international break that’s occurring?
+      ⁣RICHARD WOLFF: Well, again, I think the contradiction is becoming very painful
+      for libertarians — not that I care. In other words, what you’re watching is a
+      consolidation of government power used in civil society on a scale that must make
+      a good number of them quit. I mean, are you kidding? You champion Mr. Trump, and
+      he is consolidating a destructive government power, the likes of which you imagined,
+      as some of them are saying, only existed in your caricature of socialism. I mean,
+      let’s be really clear. In the recent speech Mr. Trump gave to the UN, I believe
+      it was there, or if not to some other audience, he equated three things as being
+      the three goals he has: to defeat those that are anti-American, anti-capitalist,
+      and anti-Christian. Those are the enemies within, which he then asked the military
+      to go deal with. Okay. For a libertarian, that’s not an appropriate thing for
+      a government to be doing — any of those things — because that requires — if you
+      mean it — it requires things like sending troops into cities, not typically a
+      big item on libertarian agendas. I never saw it there. You’d have to attribute
+      it to them as either unconscious, or that they are all, you know, congenital liars.
+      So, it turns out that for Mr. Trump to try to do what we’re talking about here,
+      he has to violate the libertarian commitments. Okay, that is called an internal
+      contradiction to what he’s trying to do. Look: You can use the government that
+      way, but you’re going to lose a lot of libertarians. Now, that may not matter,
+      but there are other people you’re going to lose. To attack the cities that they
+      keep mentioning is to attack Democrats, and that wasn’t the libertarian idea either
+      — that the way you do the Republican versus Democrat is you send troops, if you
+      have the presidency, into the cities controlled by the other party — a precedent
+      which, in the event of a Democratic president, is going to come home to roost
+      in very painful ways in this society. I don’t think they have a clue in the world.
+      When Mr. Trump says, I won’t let [Zohran] Mamdani run New York City, in the event
+      that Mamdani wins, he [Trump] is, in his usual way — with bluster — recognizing
+      half of the contradiction: Mamdani’s victory depends on Mr. Trump. It is an effect
+      of Mr. Trump. I don’t want to take away in any way from the really brilliant campaign
+      that Mamdani has run, to his credit — very smart, very careful, very effective
+      — but I’m sure, if he were sitting here, he would admit — and whether he does
+      or not, I’m going to assert — that his campaign is running against Trump, as I
+      would advise him to do. I live here in New York City. I can assure you, the City
+      of New York is overwhelmingly hostile to Mr. Trump. And one of the reasons Eric
+      Adams had to drop out — the sitting mayor comes in fourth in every poll, out of
+      four — he doesn’t do as well as the Republican Mr. [Curtis] Sliwa, and he has
+      the same chance of becoming mayor that Michael and I do — that is to say, none.
+      So what do we have? We have Mr. [Andrew] Cuomo as the Trump stand-in. And things
+      are going so badly that Cuomo, who wanted to run against Trump, is now half-running
+      with him because it’s so hopeless for him. Look: He [Trump] could try in the first
+      few months. It’s all inherited. Now? That’s over. The horrible employment number?
+      That’s Mr. Trump. Your great program to bring jobs back is an enormous failure.
+      Of course, he’ll blame everything he can think of on somebody else. But we have
+      the easy game. It’s his fault. Mamdani is his fault. The growing socialist presence
+      in many cities across the country? That’s his fault. The extreme right wing? That’s
+      his fault. He’s enabling all of that. He is producing civil conflict, which may
+      explode, and if it does, I am very confident that an enormous number of voters
+      in the United States — if it comes to that in the next six months — will blame
+      him. And if he doesn’t understand that? Oh boy, is he going to be in trouble!
+      ⁣MICHAEL HUDSON: Richard, my definition, my understanding, of libertarianism is
+      the diametric opposite of yours. Libertarianism was created as a centralized police
+      state, basically, a centralized power. It began with the Austrian School of individualism,
+      as an attack on classical economics and essentially on socialism. And the fights
+      are going on — armed fights — in Vienna. Libertarianism wants to get rid of government.
+      It has created a narrative of economic history, of how all of economic civilization
+      could have existed without any role for government and regulatory agencies, without
+      any ability of the government to interfere with private enterprise. And if you
+      dismantle the power of government, who is going to be doing the planning and resource
+      allocation of the economy? Wall Street. Libertarianism has always been a defense
+      of Wall Street, not the government. Control of wealth and the rich, not government.
+      Absolute blockage of any attempts by government to interfere with the market,
+      by taxing the rich more, interfering by providing free medical care and education
+      and not leaving this to the free market to make people go into a lifetime of debt
+      to get an education or medical care. Libertarianism is, in a word, fascism. From
+      the very outset, that was what it is, and that requires a police state to enforce.
+      Libertarianism is the doctrine of the police state to free the market from the
+      socialists. And I’m glad you mentioned Mamdani in New York. Yesterday again (maybe
+      the day before), Trump says, now that there’s a government shutdown that occurred
+      yesterday to begin with, he said: We’re going to begin firing government employees,
+      and I’m going to concentrate on states that have voted Democratic. We’re going
+      to fire Democratic state employees in New York, Massachusetts, California, and
+      Illinois. He’s singled out where he’s going to dismantle government. Well, you
+      can imagine what this is going to do. This is going to increase poverty, crime,
+      distress, foreclosures, and ICE. So that’s why he’s moving, not only ICE, but
+      as you were pointing out, the army into these cities — an army, not to engage
+      in police work to prevent crime, but an army to fight it in the ways that armies
+      do. And the first point you made was mentioning Christianity. And I’m glad you
+      mentioned it because we haven’t been discussing it before, but it’s very important
+      to President Putin. For President Putin, and for much of the world, their idea
+      of Christianity is what’s left of the original Christianity: Eastern Orthodoxy,
+      the Greek and Russian Orthodox Church. Putin and the Russian speakers continually
+      talk about the attack by Roman Catholicism, starting in the 11th century, to create
+      the Crusades to destroy Byzantium — the Byzantine Empire — to destroy the Eastern
+      Orthodox Church; to mount the Crusades, to fight and weaken and loot Constantinople,
+      and prevent it from having the resources to defend itself against the Turkish
+      invasions that have followed. All of this history of the Crusades, and the intolerance
+      of the Roman Catholic religion in comparison to the tolerance of Eastern Orthodox
+      religion at the time, all of this is a living history to Russia and the rest.
+      And it’s that the Crusades and the fight of the Western Christian Church to destroy
+      what’s left of the original Christianity and the Orthodox Church are the dress
+      rehearsal for all of the current, and the narrative context for all of the fight
+      between the Western decadence —  to Putin — and the survival of a more, I won’t
+      say socialist society, but his idea of a Christian society of mutual aid, of support,
+      of tolerance. You could call it a unipolar domestic society as well as a unipolar
+      international society. All of that has a religious foundation in Russia — very
+      similar to China’s foundation in socialism and, before that, in Confucianism.
+      We’re really dealing with not only a predatory economic mentality of the West
+      — these are the global majority — but a religious and ethical and social mentality
+      that’s at stake here. And America is not going to talk about the Crusades and
+      intolerance and the characteristics of this cultural shift. But, believe me, in
+      Russia and China, that’s what they’re talking about. ⁣RICHARD WOLFF: I want to
+      — if I could, if there’s time, Nima — say a few words about libertarianism. Think
+      of it this way, with the irony: The libertarians have been so frustrated for most
+      of the last century, particularly with the rise of Keynesian economics, when they
+      had to confront a social movement — largely successful — that said that if you
+      leave capitalism to the private enterprise, you get the Great Depression. And
+      so you need government intervention. The government needs to have a fiscal policy.
+      The government needs to have a monetary policy. It has to make up for the demand
+      that is insufficient in the private economy by spending deficits. If it needs
+      to, it has to manipulate the monetary system — quantity of money, interest rates,
+      and so on — in order to manage a capitalism, which, if you don’t manage it, will
+      destroy itself. The great fear of the Great Depression is that the working class
+      rises up, and says: We’ve had it with this system. It’s too unstable. The crises
+      are increasing. Screw it! Keynes saves the system, but at the price of the government
+      having a major role. The libertarians are horrified. They represent that part
+      of capitalism that hated the government, remembering the absolute monarchies of
+      feudalism, out of which capitalism came, and against which it coined the phrase,
+      ‘leave us alone,’ i.e., Laissez-faire: let us do on our own. So, they have this
+      deep commitment to not having a government. How ironic, how painful, that they
+      have to bring the government in to save their system! So they then indulge a fantasy.
+      That’s what libertarianism means to me: the fantasy that they ever could, or ever
+      would, be able to function without the government. And so they become — in the
+      bad sense of the term — religious: They indulge a fantasy utopianism about no
+      government. And then, here, now they’re confronted, again, with the same frustration
+      because the only way to move towards no government is to have a massive government
+      power move against all of the accumulated institutions. And then, of course, the
+      poor libertarian will notice that that power of the government grows, and grows,
+      and grows. They’re having the same spectacle unleashed by Mr. Trump that they
+      used to hate in Franklin Roosevelt. There is no escape, you poor, poor, misled
+      folks. The government is part of a society, unless, of course, you take the Marxist
+      approach and see the government as the expression of a class-divided society.
+      If you think like that, then you might have the idea: If we can develop an economy
+      without opposing classes, we remove the need for a government as a mediator. Aha!
+      Oh, but for people who want to keep away from Marxism, don’t think for one minute
+      about what I just said: Stay pure, stay clean, avoid that Marxist tradition, and
+      just go to church on Sunday. ⁣MICHAEL HUDSON: Well, Richard, of course, you’re
+      right that libertarianism, and much Christianity, is a fantasy. I prefer to think
+      of it as a cover story. It’s always been a cover story saying: We’re ethical,
+      we’re for freedom, we’re for prosperity. But what are they really for? The church,
+      once it was romanized in the Roman Empire, and taken out of the hands of the early
+      Christians, it was always religion was a tool for — the opium of the people, you
+      could say.  It’s a fantasy; it’s opium of the people. It’s to claim to be progressive
+      and caring about people and to protect the poor. It hates the poor! Rather, it
+      loves the rich. It doesn’t love the poor. It loves the rich, and that includes,
+      loving them includes, sharing their antagonism, antipathy towards the poor, and
+      their class hatred of labor, in fact. So, that’s really the problem. Christianity
+      and libertarianism go together. I think it’s hypocritical. It’s a fantasy by most
+      of the followers. It’s designed to be a fantasy by a small core at the top — the
+      bishops (in Christianity), the cardinals, the leadership. And the followers: the
+      sheep at the bottom. The shepherd and the sheep. That’s not the socialist idea
+      of the kind of reform that we’re talking about. So, I’m more politically critical
+      and suspicious of just how are we going to enlighten these would-be Christians,
+      these would-be libertarians? How do we say: If you want your ideals — they’re
+      just what you’ve been talking about, Richard. ⁣RICHARD WOLFF: Let me just end
+      by reminding everyone of [Karl] Marx’s teacher [Georg Wilhelm Friedrich] Hegel.
+      Marx writes, yes, religion is the opiate of the masses. But he also writes, right
+      there, it’s also a haven in a heartless world. He understood why people embrace
+      religion, what it is they’re searching for, and the need — for those of us who
+      are critics — never to forget the real function it serves, the real needs it responds
+      to. Even if we don’t like how that response works, we better understand what it
+      is the response to, so that we understand our task as, partly, to create the alternative
+      response — which is in a sense, if you allow me, what these conversations every
+      week are about. ⁣NIMA ALKHORSHID: Yeah, exactly. Thank you so much, Richard and
+      Michael. Great pleasure, as always. ⁣RICHARD WOLFF: Take care. Thank you. ⁣NIMA
+      ALKHORSHID: Take care. See you. Bye-bye. Transcription and Diarization: https://scripthub.dev
+      Editing: Kimberly Mims Review: ced Photo by Evgeni Tcherkasski on Unsplash The
+      post Hegemony’s Last Stand first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion on October 2, 2025, Michael Hudson expressed
+      concerns that the U.S. government's perception of foreign conflicts, particularly
+      regarding Russia and the Middle East, under Donald Trump's leadership could lead
+      to a heightened risk of nuclear war.
+    paragraph_summary: In a discussion on October 2, 2025, Nima Alkhorchid, Richard
+      Wolff, and Michael Hudson addressed the escalating tensions surrounding U.S. foreign
+      policy, particularly regarding Ukraine and the Middle East. Michael Hudson expressed
+      concern that the rhetoric from Donald Trump, who has referred to Russia as a "paper
+      tiger," could lead to a dangerous miscalculation, potentially bringing the U.S.
+      closer to nuclear conflict. He argued that Trump and the U.S. establishment are
+      desperate to maintain control over global affairs, but their strategies are failing,
+      as evidenced by countries like Korea and Japan distancing themselves from U.S.
+      investments. Hudson warned that the ongoing military actions in Ukraine, including
+      attacks on Russian infrastructure, could escalate further, forcing a response
+      that might spiral into broader conflict.
+    published: '2025-10-17T22:27:42+00:00'
+  - title: Hegemony’s Last Stand
+    url: https://michael-hudson.com/2025/10/hegemonys-last-stand/
+    text: 'NIMA ALKHORSHID: Hi everybody. Today is Thursday, October 2, 2025, and our
+      friends, Richard Wolff and Michael Hudson, join us today. Welcome, Richard and
+      Michael. ⁣MICHAEL HUDSON: It’s good to be back. ⁣NIMA ALKHORSHID: Michael, let’s
+      start with you. You were talking about that urgent meeting that Pete Hegseth had
+      with generals and admirals. And they were talking about many issues, you know,
+      foreign policy, domestic policy. But the main issue right now is the way that
+      the United States sees the conflicts in Ukraine and in the Middle East. Donald
+      Trump — two times he said that Russia is a paper tiger. Then he came out and said:
+      No, I didn’t mean that. And again, you know, repeating the same sort of rhetoric
+      that Russia is a paper tiger. Do you think that we are getting closer to a nuclear
+      war with this sort of attitude, because these countries don’t know what is in
+      the mind of Donald Trump? ⁣MICHAEL HUDSON: I think Trump and the deep state have
+      already decided on nuclear war, because last week we described all the economic
+      reasons why Trump is desperate. He’s desperate to maintain the U.S. and NATO control
+      of the world — and it’s all backfiring. Just in the last day or two, you’ve had
+      Korea saying: We’re not going to even begin to talk about investing in the United
+      States. We can’t afford it. It would mean destruction of the Korean economy. The
+      Japanese said: Alright. We can’t talk about that either. In Europe, even, they’re
+      refusing to go along with it. So, I think that Trump, and the U.S., is saying:
+      How are we going to lock in our control? Well, you mentioned Ukraine. I think
+      that Europe and Ukraine — now that they’re bombing Russian refineries and bombing
+      Russian energy generation, just like Russia had been bombing that of Ukraine —
+      they’re going to say: We’re going to keep upping the scale, upping the scale,
+      upping the scale, until finally you won’t have any choice but to resist. Your
+      guests, and commentators all over the internet, say that the Russian population,
+      and what’s called the right wing — meaning the nationalistic wing — are saying:
+      We’ve got to respond because, at some point, we’re going to have to respond. And
+      we might as well respond earlier, instead of later, after they’ve blown up more
+      of our refineries and more of our energy production. So, I think the point is
+      coming very near, especially now that Estonia has seized the Russian oil tanker:
+      this means essentially one escalation after another. And I think they’ve decided:
+      We’re going to keep upping the rate, the destabilization, until there’s war —
+      especially because the army believes, and Trump believes, that if they can tie
+      up Russia in Ukraine, then Russia will be unable to help Iran defend it against,
+      what is a week or two away, Israel’s attack, America’s attack on Iran — which
+      is going to result in just the conflagration of the Near East. And I made a list
+      that we talked about earlier of, you know, what America is trying to do to lock
+      in its position: oil and the dollar. But it occurs to me that Trump and his advisors
+      must know that none of these are going to work. And I think that Trump has his
+      own agenda, and you and I talked about that earlier: his narcissistic drive to
+      make himself famous. I think he’s seen there’s one way in which he can be the
+      most famous person in history: He can be the man who blew up civilization! That’s
+      more important than Jesus, more important than Moses. All he has to do is start
+      an atomic war, and when the dust settles, and evolution starts all over again,
+      the surviving humanity — wherever it is — is going to write a history and say:
+      How did all this begin? How did the world blow up? And they’ll say, somebody named
+      “Donald Trump.” That’s his dream. A narcissist cannot resist the temptation to
+      be the most important famous person in all of history. And who’s to stop him?
+      Historians are going to marvel at how he’s been able to rule with such an iron
+      hand. Before we get into the economics, I want to say a lot of people have mentioned
+      Trump’s desire to be a Roman [emperor], like Caligula. Caligula got famous for
+      having such control over the Senate that he nominated his horse, Incitatus, to
+      be a senator. The word “incitatus” [Latin adjective meaning “swift, at full gallop”]
+      — the English word means: incite, to goad on. Today, you could say that what Trump
+      has done is appoint more than a horse. He’s appointed a whole stable of cabinet
+      ministers, and the people who are running the country, which are the human equivalent
+      of Caligula’s horse. You’ve seen Hegseth’s speech before the army yesterday, and
+      what that did. You could go right down the line to the beauty-contest winners
+      and Fox news broadcasters, appointed administrators. It’s the embodiment of total
+      “yes-men,” people totally under his control. Nobody can stop him. And he’ll have
+      people — the military advisors, such as Keith Kellogg, Netanyahu’s advisors —
+      you can go right down the line — the neocons. It’s the whole — whatever we’re
+      going to talk about for the rest of this hour is going to be. There’s nothing
+      that the United States can do to reverse the loss, the fact that the U.S. century
+      — let’s say, 1925 to 2025 — is over, and the West’s dominance is over. The reaction
+      of Trump is not only chaos, but ‘just bring the whole thing down.’ ⁣NIMA ALKHORSHID:
+      Go ahead, Richard. ⁣RICHARD WOLFF: Okay, well, maybe this time Michael and I can
+      disagree a little bit, and see how that evolves as a program. I understand what
+      Michael is saying. Is that a possible place where we are? Is that a possible direction
+      that we could take? Absolutely. I’m not going to argue that it isn’t. But I am
+      going to argue that when societies find themselves in the kind of dead-end that
+      I think we are now in, and pretty much the same reasoning gets me to that, that
+      Michael has, and that we’ve discussed on this program for quite a while now. Another
+      trajectory out of it, besides the one that Michael just outlined, is a recognition
+      that the game is over and that what has to happen now is a sane negotiation for
+      the least difficult accommodation of what is happening, and is going to happen,
+      no matter what we do. Precisely because the alternative is what Michael just laid
+      out. And that alternative is so horrible, and so self-destructive, that we’ll
+      avoid it. And I take a certain comfort from knowing that whatever was in the mind
+      of Adolf Hitler, or Benito Mussolini or Francesco Franco, that didn’t come to
+      pass either: those projects collapsed. And they mostly collapsed because they
+      overreached what they thought they could achieve and, thereby, produced the backlash
+      that eventually overwhelmed them, and erased them, at least for a while, from
+      history. Okay, so let me spell out very briefly what I think. The contradictions
+      of Mr. Trump’s economic policy are now reaching a level of absurdity — not that
+      they weren’t there already before, but they are now coming to the foreground of
+      people’s awareness. Even the media that support Trump are reporting, what? Well,
+      let’s see. The fundamental rationale economically of Mr. Trump’s every economic
+      policy has been the idea that he’s going to make America great again by bringing
+      back jobs. And he’s made it quite clear that he’s going, you know — the tariff,
+      right? Because you have to pay a fee to access selling into the U.S. market. We
+      hope to see companies coming back inside the United States because that will be
+      a way for them to escape the tariff. They won’t have to pay a tariff. If they
+      sell in Chicago what they make in New Jersey, there’s no tariff. If they sell
+      in Chicago what they make in China, there is a tariff. Et cetera, et cetera, et
+      cetera. So we’re going to make America great again by reindustrialization. They
+      even have a word they like, those people, “reshoring”: bringing back to our shore
+      what was taken to the other shore. Okay. Now let’s take a look at that, how that’s
+      working. Here we go. Number one: Is there a flood of jobs coming back? Absolutely
+      not. There’s no such statistic. Are there some companies coming back? Yes, of
+      course, but most of them have to do with high-tech. They’re going to California
+      and Silicon Valley, and the one thing they don’t have is a lot of jobs because
+      they are capital intensive: they’re full of computers, they’re full of all of
+      that material that they need. And the number of people is highly educated, highly
+      trained, and few in number. That’s not a solution to the unemployment problem.
+      And how do we know that? Because if you look at the last year, all of the original
+      numbers of jobs have been adjusted, in subsequent months, downward, culminating
+      in the latest numbers, which indicate no growth at all — in fact, a decline of
+      32,000 jobs in the latest reporting period. So, no jobs. Okay. Why? Well, here
+      come the contradictions. Because almost everything else Mr. Trump is doing is
+      encouragement for CEOs around the world not to come here. I mean, let’s go. The
+      government is shut down. Hello? That’s a clue. Don’t go there. If you’re a business
+      person, you don’t locate, you don’t spend millions of dollars moving a factory
+      or an office, lose a year in the whole adjustment in order to go to a place where
+      the two major parties can’t keep the government functioning. Their divisions and
+      their hostilities are so deep. As if that weren’t enough. The military is discussing
+      invading their own country. The vice-president looks forward to all the major
+      cities being occupied. Well, why would you move to a country contemplating that?
+      That’s eight hundred ways you could make a big, big mistake. You’re not going
+      to do that. You’re not going to be the vice-president in charge of location who
+      will go down in history as having been moronic enough, in the face of what I just
+      said, to move into the United States. But I’m not done. According to the financial
+      press, we’re on the precipice of a stagflationary period: a mixture of low-level
+      economics, which the unemployment numbers I just mentioned reinforce, and an untamed
+      inflation. The current inflation rate is 3%. If we’re in a great struggle with
+      China — let me let everyone know, the official inflation rate in China now is
+      minus 0.4%. They don’t have any inflation. They have deflation. The United States
+      has inflation of 3% — that alone will enable the Chinese to out compete the United
+      States, each year that it continues. Forget tariffs, forget even exchange rates.
+      Before you even look at those, look at the disparity. By the way, this is not
+      new. The Chinese have not — in case you’re not familiar with the statistics —
+      it’s not recent, that they’ve had no inflation. They’ve kept inflation under control
+      in a remarkable way. That’s why you haven’t heard about inflation in China — because
+      it’s not a bad number that the media can talk about. Keep that in mind when you
+      read that Russia is on its knees, its economy — If you cherry-pick statistics
+      in any country, including the United States — if I want to make a case, the United
+      States is in good shape, I can pick six statistics that make that happen. If I
+      want to show the United States is in trouble, I can pick six different statistics
+      and make that case. Any analyst who has a brain knows that the trick of analysis
+      is not cherry-picking, which an infant can do; it’s the balancing: How do you
+      reach a judgment that takes into account the different statistics, some of which
+      are always pointing up, and others of which are pointing down? Really, it’s like
+      a doctor measuring your body, and all of its functions as well. Alright, the Chinese
+      are — what? They’re not just winning the economic race. It isn’t enough anymore
+      to simply say, look at the GDP. China and the BRICS now are a much larger economic
+      unit than the United States and the G7. And that’s a real issue. But we’re now
+      beginning to see the chickens coming home: We’re seeing the effects and the consequences.
+      Over the last twenty years, twenty-five years, the Chinese have made a series
+      of very important investments in — Venezuela. They are not in a position, neither
+      in Venezuela, nor in any of the other countries that they have invested, to permit
+      the United States to willy-nilly overthrow a government in order then to — what?
+      Wipe out the Chinese? No, no, that isn’t going to happen anymore. That’s what
+      used to happen in the old colonial world, yes. But not now. So when the United
+      States, in violation of everything I understand to be the law, wantonly kills,
+      I don’t know, twenty-five people — by now — in several boats on the outskirts
+      of Venezuela — no arrest, no investigation, no trial, no jury, no judge, no appeal,
+      murder on the spot, with statements about Venezuela being punished for its drug
+      activities. Everyone who knows anything about the drug trade knows that the bulk
+      of the drug trade happens on the Pacific Ocean side of the Western Hemisphere,
+      not on the Atlantic side. What comes from the Atlantic through the Caribbean is
+      small potatoes. If you’re interested in inhibiting drugs, Venezuela isn’t your
+      target. And so, the Chinese — here we go now — the Chinese Navy is big time in
+      Venezuela. What does that mean? It means exactly what you think it means. You’re
+      not going to do it there. You can bravado all you want. You can assemble your
+      generals in a sweaty room. Doesn’t change. Is the United States — if Michael is
+      right —is it about to work with Israel to attack Iran — and Venezuela — while
+      the Gaza thing is unresolved? And the Ukraine war is being won by Russia? Really?
+      You know what that would be? Overreach. It would be exactly what brought to an
+      end Hitler, Mussolini, and Francisco Franco. And I bet you, despite their clownishness,
+      among Mr. Trump’s advisors, there are those who may tell him that as well. And
+      if not, well, we can do it. ⁣NIMA ALKHORSHID: Go ahead, Michael. ⁣MICHAEL HUDSON:
+      I think that, to Trump, the drive for U.S. unipolar control can’t be over in his
+      mind. He can’t acknowledge it because that would mean he’s a loser. And that is
+      what makes him so desperate. He’s desperately lashing out, in a strategy that
+      both Richard and I have described in the last few weeks can’t work, for reasons
+      that we’ve described. Richard used the word overreach. His tariffs were an overreach.
+      His military expansion on a multifront war is overreach. Richard started by saying
+      he hopes that this is going to frame Trump’s creating of a more realistic resolution
+      of how America can accept its lost place in the world, now that the American Century
+      is over, and how he can, realistically, act in a way that is not going to self-destructively
+      just drive other countries further away and consolidate America’s self-isolation
+      economically. Well, we discussed before how Trump can’t reshore industry because
+      his tariffs have prevented that. The tariffs have made America too high-cost —
+      on steel and aluminum, on so many things that America has been importing. So,
+      what is Trump going to do to try to compensate for the fact that other countries
+      have already, in the last few days, rejected the idea of relocating their industry
+      in the United States? They can’t afford it. And Trump is insisting that the United
+      States gets to keep the profits on this industry. It means any foreign investment
+      in the U.S. industry is in danger of being lost. So, what’s the problem? Well,
+      I’ve emphasized before: Oil and the U.S. dollar are the key to the U.S. hegemony.
+      And oil is, I think, absolutely key. Trump’s attack on Venezuela is to grab its
+      oil and — not only grab its oil to make money for the American companies that
+      would take over, but to be able to prevent other countries from importing oil
+      from Venezuela, or refining Venezuelan oil to sell. Same thing with Argentina.
+      Why did Trump make the $20 billion loan to Argentina (that there is zero chance
+      of Argentina being able to repay, for reasons that I’ll get into)? America wants
+      two things in Argentina. Number one: control of its still state-owned oil industry
+      — the same thing as Venezuela — take over its oil industry; and to make a military
+      base in Tierra del Fuego, the south tip of South America, that controls not only
+      the route around South America from the Atlantic to the Pacific and back, but
+      control over Antarctica. And the [Javier] Milei government yesterday gave America
+      permission to start the military bases there, bypassing all congressional approval
+      in Argentina, and that’s created a crisis. So, you can see what’s happened. Yesterday,
+      the Financial Times had a very clear article on the fact that, how will America
+      ever get this $20 billion back? The only way that it can do it is if the IMF makes
+      yet another loan to Argentina — a losing loan because the $20 billion is going
+      to be spent right away by Milei to support the Argentine peso, so that the wealthiest
+      classes in Argentina can move their money out of Argentine pesos into the dollar,
+      or gold, or something else, without the current price ratio, not a devaluation
+      price that they’d have to get fewer dollars or less gold for. So this money is
+      going to be spent right away. And when Milei loses the elections in the next week
+      or two, then Argentina is going to have this $20 billion additional debt. I think
+      Trump knows that the debt can’t be repaid. And like many creditors throughout
+      history, he doesn’t want the debt to be repaid. He said: You don’t have the money
+      to repay? Give us your oil industry. Give us your land in the south. Give us that.
+      Finance is, in Trump’s idea, still a hope for the new colonialism. You’re also
+      having Trump break with the whole rest of the world on global warming. What is
+      he trying to do? Well, much as he’s trying to prevent other countries from meeting
+      their energy needs from oil that the U.S. doesn’t control, he’s trying to prevent
+      other countries from meeting their energy needs by solar power, not to mention
+      wind power, or atomic power. He’s insisting that other countries rely entirely
+      on oil. Yesterday, Trump increased subsidies for, and the sell-off of, huge coal
+      lands, saying not only is oil the fuel of America’s future, but coal is the fuel
+      of America’s future. This increases the greatest threat to all the rest of the
+      world’s economy, in the form of global warming that, along with the military threat,
+      is an existential threat. Other countries, I think, have to realize that, you
+      know, why is Trump refusing to acknowledge global warming? It’s because global
+      warming is a threat to America’s ability to turn off their energy, turn off their
+      electricity, to deny them power, just for the same reason that it blew up Russia’s
+      North Sea pipeline to Europe. So, all this comes down to the support for the dollar.
+      And that’s why Trump has also announced, in the last week or so, he wants to increase
+      cryptocurrency, especially the stablecoin, that all of the stablecoin proceeds
+      — crypto, stablecoin — are going to be invested in U.S. Treasury securities. So,
+      this is somehow going to — he believes that this fad for stablecoins is going
+      to — be able to finance the Treasury’s deficit caused by his tax cuts for the
+      wealthy classes — his donor class — and for the shrinking economy, that’s continuing
+      to shrink. So, all of these policies that Trump is trying to do, to say, yes,
+      we can live with the existing world situation, and we can still maintain our unipolar
+      control by reshoring our industry, by controlling oil, controlling agricultural
+      exports, the food supply — well, that hasn’t worked, as you see with the soybean
+      market. All of the ideas of how to somehow hold on to America’s ability to make
+      other countries pay tribute to the United States — by investing here and reshoring
+      their own industry out of their countries into the United States; by depending
+      on U.S. liquefied natural gas, instead of oil; by not obtaining oil from Venezuela,
+      Argentina, Russia, or Iran — all of these are absolutely destined to fail. And
+      the only way that I can see him ultimately responding is by war to say that, if
+      I can’t have it my way — it’s my way, or no way. That’s my worry of the mindset
+      of Trump and the neocons behind him. ⁣RICHARD WOLFF: Again, I understand the direction
+      Michael is pointing to. I understand the logic. It’s a compelling logic. It’s
+      clear. Let me only comment by talking about an alternative direction these same
+      developments might lead to. And here’s what I focus on. I’m noticing, and I’m
+      sure you guys have too, but I’m noticing something very interesting happening
+      pretty much at the same time in the United States as in Central and Western Europe.
+      And here’s what I notice: an emphasis on cutting back government social programs,
+      a recognition that whatever the 20th century required in the way of providing
+      education and medical care, and old-age pensions, and social infrastructure —
+      all of that — is a luxury we can — “We,” the royal “We” — can no longer afford.
+      Why? Well, the bullshit is, ‘We’re threatened by Russia.’ That’s one part of the
+      story. Or, now, ‘We’re threatened by China.’ Okay, that’s very useful. We are
+      in danger. And so this is something endangering all of us, and therefore we must
+      all of us sacrifice. And you know that when the people who run these societies
+      talk about all of us sacrificing, they are always exempt — from the “all of us”
+      — the rich and the powerful, who will not be hurt. Well, if you’re going to rearm,
+      if you’re going to spend a fortune — and let’s remember, if you look at the American
+      budget, everything is being cut back, except the military and the new army, called
+      ICE. Alright. Now let’s take a look at Europe. Same thing. The leaders — [Emmanuel]
+      Macron, [Keir] Starmer, [Friedrich] Merz — are all telling their people — Mr.
+      Merz — remarkable, if you read his speeches — he simply says: We are in danger.
+      The Russians are threatening. We are going to build up our military, and other
+      things will no longer be available. So, no mystery, for Mr. Merz — by the way,
+      his popularity is dropping like a stone, and I’m going to come back to that. Mr.
+      Starmer and Mr. Macron, their popularity isn’t dropping like a stone because it’s
+      already at the bottom of the barrel, because of what they’ve said. And they have
+      hardly gotten going. So, last piece of evidence. You’ll notice bizarre recognition
+      by these leaders — given what their plan is — that there’s going to be popular
+      resistance. They see it in their polling numbers, which are awful. They see it
+      in the collapse of the political middle in their countries, as left-wing and right-wing
+      extremes become relatively stronger. And then we have Mr. Starmer, who’s literally
+      circling the bowl — and you know which bowl I speak of — in his political career,
+      which has been a descent from unbelievable heights, the last election, to a spectacular
+      crash. You know what his new idea is? He wants to run on identification cards
+      for all British citizens so that the government can keep better track of — in
+      the middle of this turmoil, he’s going to spend a fortune of money to be able
+      to control, and supervise, and surveil his own people. The French already have
+      had, for many years, a carte d’identité [ID card], which functions that way in
+      France. And Germany is, you know, busily banning the extreme political right as
+      a preface to trying to pull the same stunt if the left gets going in Germany the
+      way it already has in France — if the Germans copy the French in the unification
+      of their left parties and in their street actions. So, what are we seeing? We’re
+      seeing this system aware of the very conversations in their language, parallel
+      to what we’re doing here, getting ready to have the fight, getting ready to squash
+      what is the real danger. Because they don’t want that war that Michael is talking
+      about. They understand what it might cost them. So, they would hope that maybe
+      they can finesse this crisis moment in the way that a capitalist society would
+      be expected to try to do it  — by squashing its own working class, by taking away
+      enough wealth that they can accommodate the rising Chinese. What option do they
+      have, other than nuclear war? They could accommodate the Chinese because they
+      could save their own privilege and their own wealth by ripping off their own people.
+      Knowing them, knowing the courage they don’t have, I think there’s a good bet
+      that that’s what they’re going to try to do. And then the issue is — which is
+      always the issue, right? Will the working class of this country, and of Europe,
+      permit this to be done? Will they permit their standard of living to be eroded,
+      as is happening here? Will they admit the army of their own country — that their
+      taxes pay for — be used to occupy the cities that provide most of the taxes to
+      pay for it? Or will the absurdity of this enable a different politics? ⁣MICHAEL
+      HUDSON: Richard, what you’re describing, by the U.S. and Europe — the class war
+      — it’s really taking the shape of a fight against civilization, at least the fight
+      against where all of us have defined the trajectory that we thought civilization
+      was moving in: rising productivity that would be more widely spread to uplift
+      living standards and, in the process, productivity in overall growth. And all
+      of that is being sacrificed with the precise class war that you’ve just mentioned.
+      When this morning’s newspapers reported where Trump’s budget cuts were, the largest
+      budget cuts were going to be in education, followed by medical care. Well, these
+      are the two things that civilization was supposed to provide, by the state — by
+      a state that was created by taking it out of the hands of a hereditary landlord
+      and aristocracy, and putting it in the hands of an economy — presumably a democratic,
+      or, at least, administered socialist state — that would increase education, productivity,
+      health care, and have rising growth. All of that is being countered by Starmer
+      — with his new Inquisition, is what you’ve described — Merz and Macron. And the
+      result is that, I think, you’re having two things that are going together right
+      now. And that’s very suggestive, what you’ve said. Tomorrow, President Putin of
+      Russia is going to address the Valdai Club, and that’s where he outlines: What
+      is Russia going to do with all of this confrontation that’s taking place? Well,
+      at last year’s meeting, he called NATO a blatant anachronism. Well, that’s true.
+      But the United States, at least under Trump and the neocons, are trying to say,
+      well, it may be an anachronism, but we’re going to restore the past to make the
+      anachronism great again, perpetual, permanent, never-ending. And so this has created
+      two crises. We’ve been talking so far about the geopolitical isolation of the
+      West — the United States and Europe — from the rest of the world that is not engaging
+      in this militarist, financialized, replacing industrial socialism and industrial
+      capitalism with finance capitalism. It’s breaking away from colonialism, but also
+      from the residue of colonialism: foreign debt and client oligarchies that the
+      Western rent-extraction governments have installed. But all of this is a crisis
+      of finance capitalism, and capitalism itself is a distortion of what people thought
+      would be industrial capitalism evolving into socialism, and just what you described
+      as what we’re all for — so that America and Europe could be just as successful
+      as China, for instance. And you have a rentier economy here that uses a kind of
+      Ponzi financial scheme, led by the Federal Reserve: Let’s just give banks enough
+      money to give the population an ability to buy real estate on credit, buy stocks
+      and bonds and credit. We’re going to continue to enrich the stockholders, the
+      bondholders — and this is the 10% of the population — against the rest of the
+      population, and then somehow we’ll be able to move all our money somewhere. Well,
+      this is part of the libertarian attack on government, and whatever authority government
+      loses under this attack [winds up in the control of Wall Street] — not only has
+      Trump dismantled social spending, he’s dismantled the departments of the government
+      that are regulating and protecting consumers, abolishing the Consumer Financial
+      Protection Agency, abolishing the Environmental Protection Agency. All of the
+      checks and balances that were put in place to prevent a predatory corporate industry
+      from impoverishing society are being dismantled. And so this breakaway from the
+      Western way of doing things is not only a breakaway from this neoliberal financialization
+      and rentier capitalism, it also has to involve a breakaway from the class war
+      that’s the residue of an anti-labor oligarchy — in Argentina, for instance, and
+      the places that we’re describing throughout the world, just as the United States.
+      This is why it’s a civilizational crisis that we’re going through right now. Not
+      only a military crisis — will there be a world war? Not only an environmental
+      crisis of global warming — but, really, what is going to be the structure of government?
+      Is it going to rule for the 1%, or for the economy as a whole? The 1% wants to
+      get rich by indebting and impoverishing the economy with austerity — paid to itself.
+      That’s the U.S. and European alternative to what used to be the definition of
+      civilization. And the question is: Will the BRICS countries be able to recognize
+      this class war, class relationship aspect to the international break that’s occurring?
+      ⁣RICHARD WOLFF: Well, again, I think the contradiction is becoming very painful
+      for libertarians — not that I care. In other words, what you’re watching is a
+      consolidation of government power used in civil society on a scale that must make
+      a good number of them quit. I mean, are you kidding? You champion Mr. Trump, and
+      he is consolidating a destructive government power, the likes of which you imagined,
+      as some of them are saying, only existed in your caricature of socialism. I mean,
+      let’s be really clear. In the recent speech Mr. Trump gave to the UN, I believe
+      it was there, or if not to some other audience, he equated three things as being
+      the three goals he has: to defeat those that are anti-American, anti-capitalist,
+      and anti-Christian. Those are the enemies within, which he then asked the military
+      to go deal with. Okay. For a libertarian, that’s not an appropriate thing for
+      a government to be doing — any of those things — because that requires — if you
+      mean it — it requires things like sending troops into cities, not typically a
+      big item on libertarian agendas. I never saw it there. You’d have to attribute
+      it to them as either unconscious, or that they are all, you know, congenital liars.
+      So, it turns out that for Mr. Trump to try to do what we’re talking about here,
+      he has to violate the libertarian commitments. Okay, that is called an internal
+      contradiction to what he’s trying to do. Look: You can use the government that
+      way, but you’re going to lose a lot of libertarians. Now, that may not matter,
+      but there are other people you’re going to lose. To attack the cities that they
+      keep mentioning is to attack Democrats, and that wasn’t the libertarian idea either
+      — that the way you do the Republican versus Democrat is you send troops, if you
+      have the presidency, into the cities controlled by the other party — a precedent
+      which, in the event of a Democratic president, is going to come home to roost
+      in very painful ways in this society. I don’t think they have a clue in the world.
+      When Mr. Trump says, I won’t let [Zohran] Mamdani run New York City, in the event
+      that Mamdani wins, he [Trump] is, in his usual way — with bluster — recognizing
+      half of the contradiction: Mamdani’s victory depends on Mr. Trump. It is an effect
+      of Mr. Trump. I don’t want to take away in any way from the really brilliant campaign
+      that Mamdani has run, to his credit — very smart, very careful, very effective
+      — but I’m sure, if he were sitting here, he would admit — and whether he does
+      or not, I’m going to assert — that his campaign is running against Trump, as I
+      would advise him to do. I live here in New York City. I can assure you, the City
+      of New York is overwhelmingly hostile to Mr. Trump. And one of the reasons Eric
+      Adams had to drop out — the sitting mayor comes in fourth in every poll, out of
+      four — he doesn’t do as well as the Republican Mr. [Curtis] Sliwa, and he has
+      the same chance of becoming mayor that Michael and I do — that is to say, none.
+      So what do we have? We have Mr. [Andrew] Cuomo as the Trump stand-in. And things
+      are going so badly that Cuomo, who wanted to run against Trump, is now half-running
+      with him because it’s so hopeless for him. Look: He [Trump] could try in the first
+      few months. It’s all inherited. Now? That’s over. The horrible employment number?
+      That’s Mr. Trump. Your great program to bring jobs back is an enormous failure.
+      Of course, he’ll blame everything he can think of on somebody else. But we have
+      the easy game. It’s his fault. Mamdani is his fault. The growing socialist presence
+      in many cities across the country? That’s his fault. The extreme right wing? That’s
+      his fault. He’s enabling all of that. He is producing civil conflict, which may
+      explode, and if it does, I am very confident that an enormous number of voters
+      in the United States — if it comes to that in the next six months — will blame
+      him. And if he doesn’t understand that? Oh boy, is he going to be in trouble!
+      ⁣MICHAEL HUDSON: Richard, my definition, my understanding, of libertarianism is
+      the diametric opposite of yours. Libertarianism was created as a centralized police
+      state, basically, a centralized power. It began with the Austrian School of individualism,
+      as an attack on classical economics and essentially on socialism. And the fights
+      are going on — armed fights — in Vienna. Libertarianism wants to get rid of government.
+      It has created a narrative of economic history, of how all of economic civilization
+      could have existed without any role for government and regulatory agencies, without
+      any ability of the government to interfere with private enterprise. And if you
+      dismantle the power of government, who is going to be doing the planning and resource
+      allocation of the economy? Wall Street. Libertarianism has always been a defense
+      of Wall Street, not the government. Control of wealth and the rich, not government.
+      Absolute blockage of any attempts by government to interfere with the market,
+      by taxing the rich more, interfering by providing free medical care and education
+      and not leaving this to the free market to make people go into a lifetime of debt
+      to get an education or medical care. Libertarianism is, in a word, fascism. From
+      the very outset, that was what it is, and that requires a police state to enforce.
+      Libertarianism is the doctrine of the police state to free the market from the
+      socialists. And I’m glad you mentioned Mamdani in New York. Yesterday again (maybe
+      the day before), Trump says, now that there’s a government shutdown that occurred
+      yesterday to begin with, he said: We’re going to begin firing government employees,
+      and I’m going to concentrate on states that have voted Democratic. We’re going
+      to fire Democratic state employees in New York, Massachusetts, California, and
+      Illinois. He’s singled out where he’s going to dismantle government. Well, you
+      can imagine what this is going to do. This is going to increase poverty, crime,
+      distress, foreclosures, and ICE. So that’s why he’s moving, not only ICE, but
+      as you were pointing out, the army into these cities — an army, not to engage
+      in police work to prevent crime, but an army to fight it in the ways that armies
+      do. And the first point you made was mentioning Christianity. And I’m glad you
+      mentioned it because we haven’t been discussing it before, but it’s very important
+      to President Putin. For President Putin, and for much of the world, their idea
+      of Christianity is what’s left of the original Christianity: Eastern Orthodoxy,
+      the Greek and Russian Orthodox Church. Putin and the Russian speakers continually
+      talk about the attack by Roman Catholicism, starting in the 11th century, to create
+      the Crusades to destroy Byzantium — the Byzantine Empire — to destroy the Eastern
+      Orthodox Church; to mount the Crusades, to fight and weaken and loot Constantinople,
+      and prevent it from having the resources to defend itself against the Turkish
+      invasions that have followed. All of this history of the Crusades, and the intolerance
+      of the Roman Catholic religion in comparison to the tolerance of Eastern Orthodox
+      religion at the time, all of this is a living history to Russia and the rest.
+      And it’s that the Crusades and the fight of the Western Christian Church to destroy
+      what’s left of the original Christianity and the Orthodox Church are the dress
+      rehearsal for all of the current, and the narrative context for all of the fight
+      between the Western decadence —  to Putin — and the survival of a more, I won’t
+      say socialist society, but his idea of a Christian society of mutual aid, of support,
+      of tolerance. You could call it a unipolar domestic society as well as a unipolar
+      international society. All of that has a religious foundation in Russia — very
+      similar to China’s foundation in socialism and, before that, in Confucianism.
+      We’re really dealing with not only a predatory economic mentality of the West
+      — these are the global majority — but a religious and ethical and social mentality
+      that’s at stake here. And America is not going to talk about the Crusades and
+      intolerance and the characteristics of this cultural shift. But, believe me, in
+      Russia and China, that’s what they’re talking about. ⁣RICHARD WOLFF: I want to
+      — if I could, if there’s time, Nima — say a few words about libertarianism. Think
+      of it this way, with the irony: The libertarians have been so frustrated for most
+      of the last century, particularly with the rise of Keynesian economics, when they
+      had to confront a social movement — largely successful — that said that if you
+      leave capitalism to the private enterprise, you get the Great Depression. And
+      so you need government intervention. The government needs to have a fiscal policy.
+      The government needs to have a monetary policy. It has to make up for the demand
+      that is insufficient in the private economy by spending deficits. If it needs
+      to, it has to manipulate the monetary system — quantity of money, interest rates,
+      and so on — in order to manage a capitalism, which, if you don’t manage it, will
+      destroy itself. The great fear of the Great Depression is that the working class
+      rises up, and says: We’ve had it with this system. It’s too unstable. The crises
+      are increasing. Screw it! Keynes saves the system, but at the price of the government
+      having a major role. The libertarians are horrified. They represent that part
+      of capitalism that hated the government, remembering the absolute monarchies of
+      feudalism, out of which capitalism came, and against which it coined the phrase,
+      ‘leave us alone,’ i.e., Laissez-faire: let us do on our own. So, they have this
+      deep commitment to not having a government. How ironic, how painful, that they
+      have to bring the government in to save their system! So they then indulge a fantasy.
+      That’s what libertarianism means to me: the fantasy that they ever could, or ever
+      would, be able to function without the government. And so they become — in the
+      bad sense of the term — religious: They indulge a fantasy utopianism about no
+      government. And then, here, now they’re confronted, again, with the same frustration
+      because the only way to move towards no government is to have a massive government
+      power move against all of the accumulated institutions. And then, of course, the
+      poor libertarian will notice that that power of the government grows, and grows,
+      and grows. They’re having the same spectacle unleashed by Mr. Trump that they
+      used to hate in Franklin Roosevelt. There is no escape, you poor, poor, misled
+      folks. The government is part of a society, unless, of course, you take the Marxist
+      approach and see the government as the expression of a class-divided society.
+      If you think like that, then you might have the idea: If we can develop an economy
+      without opposing classes, we remove the need for a government as a mediator. Aha!
+      Oh, but for people who want to keep away from Marxism, don’t think for one minute
+      about what I just said: Stay pure, stay clean, avoid that Marxist tradition, and
+      just go to church on Sunday. ⁣MICHAEL HUDSON: Well, Richard, of course, you’re
+      right that libertarianism, and much Christianity, is a fantasy. I prefer to think
+      of it as a cover story. It’s always been a cover story saying: We’re ethical,
+      we’re for freedom, we’re for prosperity. But what are they really for? The church,
+      once it was romanized in the Roman Empire, and taken out of the hands of the early
+      Christians, it was always religion was a tool for — the opium of the people, you
+      could say.  It’s a fantasy; it’s opium of the people. It’s to claim to be progressive
+      and caring about people and to protect the poor. It hates the poor! Rather, it
+      loves the rich. It doesn’t love the poor. It loves the rich, and that includes,
+      loving them includes, sharing their antagonism, antipathy towards the poor, and
+      their class hatred of labor, in fact. So, that’s really the problem. Christianity
+      and libertarianism go together. I think it’s hypocritical. It’s a fantasy by most
+      of the followers. It’s designed to be a fantasy by a small core at the top — the
+      bishops (in Christianity), the cardinals, the leadership. And the followers: the
+      sheep at the bottom. The shepherd and the sheep. That’s not the socialist idea
+      of the kind of reform that we’re talking about. So, I’m more politically critical
+      and suspicious of just how are we going to enlighten these would-be Christians,
+      these would-be libertarians? How do we say: If you want your ideals — they’re
+      just what you’ve been talking about, Richard. ⁣RICHARD WOLFF: Let me just end
+      by reminding everyone of [Karl] Marx’s teacher [Georg Wilhelm Friedrich] Hegel.
+      Marx writes, yes, religion is the opiate of the masses. But he also writes, right
+      there, it’s also a haven in a heartless world. He understood why people embrace
+      religion, what it is they’re searching for, and the need — for those of us who
+      are critics — never to forget the real function it serves, the real needs it responds
+      to. Even if we don’t like how that response works, we better understand what it
+      is the response to, so that we understand our task as, partly, to create the alternative
+      response — which is in a sense, if you allow me, what these conversations every
+      week are about. ⁣NIMA ALKHORSHID: Yeah, exactly. Thank you so much, Richard and
+      Michael. Great pleasure, as always. ⁣RICHARD WOLFF: Take care. Thank you. ⁣NIMA
+      ALKHORSHID: Take care. See you. Bye-bye. Transcription and Diarization: https://scripthub.dev
+      Editing: Kimberly Mims Review: ced Photo by Evgeni Tcherkasski on Unsplash The
+      post Hegemony’s Last Stand first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion on October 2, 2025, Michael Hudson expressed
+      concerns that the U.S. government's perception of foreign conflicts, particularly
+      regarding Russia and the Middle East, under Donald Trump's leadership could lead
+      to a heightened risk of nuclear war.
+    paragraph_summary: In a discussion on October 2, 2025, Nima Alkhorchid, Richard
+      Wolff, and Michael Hudson addressed the escalating tensions surrounding U.S. foreign
+      policy, particularly regarding Ukraine and the Middle East. Michael Hudson expressed
+      concern that the rhetoric from Donald Trump, who has referred to Russia as a "paper
+      tiger," could lead to a dangerous miscalculation, potentially bringing the U.S.
+      closer to nuclear conflict. He argued that Trump and the U.S. establishment are
+      desperate to maintain control over global affairs, but their strategies are failing,
+      as evidenced by countries like Korea and Japan distancing themselves from U.S.
+      investments. Hudson warned that the ongoing military actions in Ukraine, including
+      attacks on Russian infrastructure, could escalate further, forcing a response
+      that might spiral into broader conflict.
+    published: '2025-10-17T22:27:42+00:00'
   - title: The Narrative Battlefield
     url: https://michael-hudson.com/2025/10/the-narrative-battlefield/
     text: 'NIMA ALKHORSHID: Hi, everybody. Today is Thursday, October 9th, 2025, and

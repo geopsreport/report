@@ -7,16 +7,624 @@ description: "Richard Falk is an international law and international relations s
 websites:
   - https://richardfalk.org/
 summary: |
-  The ongoing crisis in Gaza and the broader Israeli-Palestinian conflict remains at the forefront of international concern, with recent developments underscoring the persistent obstacles to peace and self-determination for Palestinians. Despite a wave of diplomatic recognition for Palestinian statehood in recent weeks, the path to genuine sovereignty remains fraught with setbacks.
+  The ongoing crisis in Gaza remains at the forefront of international concern, with recent developments underscoring both the persistence of violence and the growing mobilization of civil society in pursuit of accountability. The upcoming final session of the Gaza Peoples’ Tribunal in Istanbul, as highlighted by **Richard Falk**, represents a significant civil society response to what is widely described as the erasure of the Palestinian people and the failure of international mechanisms to deliver justice. The Tribunal seeks to document and address alleged acts of genocide, aiming to fill the void left by governmental inaction.
   
-  **Richard Falk** highlights that the failures of the Oslo Accords continue to haunt the peace process, with Israeli settlement expansion and the absence of meaningful political will from both Israel and the United States impeding substantive progress. The international community’s recognition of Palestinian statehood, while symbolically significant, has yet to translate into concrete changes on the ground.
+  This initiative comes amid a backdrop of continued diplomatic stagnation. Previous attempts at negotiation, such as those disrupted by Israel’s missile strike on a Hamas negotiating team in Doha, have not only undermined ceasefire prospects but also raised serious questions about respect for international law and regional stability. The lack of effective mediation has further entrenched the humanitarian crisis in Gaza, with Western media and political discourse still largely focused on Israeli security concerns, often at the expense of Palestinian suffering.
   
-  Meanwhile, the aftermath of Israel’s missile strike on a Hamas negotiating team in Doha has further destabilized diplomatic efforts. According to **Richard Falk**, this act not only violated Qatari sovereignty but also “jeopardized ongoing diplomatic efforts for a ceasefire and hostage exchange,” raising serious questions about adherence to international law and the prospects for regional stability.
+  Civil society efforts, including the Tribunal and critical publications like Francesca Albanese’s "A Moon Will Rise from the Darkness," signal a shift in the narrative, challenging the prevailing international complicity and demanding a reevaluation of Western policies. As **Falk** notes, the Tribunal’s proceedings are a direct response to the “perceived genocide in Gaza” and the broader pattern of Palestinian erasure.
   
-  On the information front, the targeting of Palestinian journalists and the manipulation of media narratives have drawn increasing scrutiny. **Falk** points to the “weaponization of information” by both U.S. and Israeli authorities, which has suppressed dissent and limited independent reporting from Gaza, complicating efforts to hold parties accountable and inform global public opinion.
-  
-  Looking ahead, the majority of analysts cited by **Falk** agree that without a decisive shift in international policy—particularly from the U.S. and EU—toward imposing meaningful pressure and sanctions on Israel, the humanitarian crisis in Gaza will persist. There is a high chance that diplomatic recognition alone will not alter the status quo. I guarantee that, barring a dramatic change in external pressure, the prospects for a viable two-state solution will remain remote, and the cycle of violence and impunity is most definitely set to continue.
+  Looking ahead, the trend is toward increased pressure from non-state actors and segments of the international community for accountability and policy change. However, absent a decisive shift in U.S. and EU positions, the likelihood of immediate substantive change remains low. There is a high chance that civil society initiatives will continue to gain prominence, but I assess with medium confidence that these alone will not be sufficient to alter the current trajectory without broader governmental engagement. The humanitarian situation in Gaza is most definitely set to remain dire in the near term, with the international system’s inertia persisting unless catalyzed by significant external pressure or a major political realignment.
 articles:
+  - title: 'The Gaza Peoples’ Tribunal: Exploring Palestinian Erasure'
+    url: https://richardfalk.org/2025/10/21/4995/
+    text: 'Richard Falk 20 October 2025 21:02 BST | Last update: 11 hours 21 mins ago
+      By rewarding impunity for genocide, Trump’s ceasefire proves why a civil society-led
+      tribunal is needed to uphold accountability and document Palestine’s fight for
+      justice Protesters hold signs calling for the arrest of Israeli Prime Minister
+      Benjamin Netanyahu during a Palestine solidarity protest in Sarajevo, Bosnia and
+      Herzegovina, on 12 October 2025 (Amel Emric/Reuters) The Gaza Tribunal , a people’s
+      tribunal, was formed a year ago in response to the failure of the established
+      world order of sovereign states and international institutions to stop what experts
+      and ordinary people increasingly recognised as genocide in Gaza . The Gaza Tribunal
+      will hold its final session from 23-26 October 2025 at Istanbul University. Our
+      initiative was inspired by an earlier civil society effort during the Vietnam
+      War, when leading public intellectuals Bertrand Russell and Jean-Paul Sartre established
+      the Russell Tribunal, which held hearings in 1966 and 1967. Its mission was to
+      report on the international crimes of the United States and to legitimise growing
+      anti-war sentiment in the West. The underlying premise was that when the state
+      system fails to uphold international law or to ensure accountability for grave
+      crimes that affect global peace and security, people possess a residual authority
+      and responsibility to act. New MEE newsletter: Jerusalem Dispatch Sign up to get
+      the latest insights and analysis on Israel-Palestine, alongside Turkey Unpacked
+      and other MEE newsletters In the half-century since, many similar tribunals have
+      emerged around the world. Their shared purpose is to speak truth to power and
+      legitimise solidarity initiatives that seek to mount pressure on governments and
+      institutions to take action. Such people’s tribunals are also intended to encourage
+      civil society activism, such as the Boycott, Divestment and Sanctions (BDS) movement
+      launched by Palestinian NGOs in 2005. Unlike national or international courts,
+      people’s tribunals do not claim legal authority. They are overtly partisan, driven
+      by moral conscience rather than formal procedure. They provide a platform for
+      survivor testimony and expert analysis, with the aim of mobilising global activism
+      in pursuit of justice. Their focus extends beyond legal culpability to encompass
+      broader moral and political responsibility. The tribunal embodies these principles
+      through its Jury of Conscience – individuals of diverse backgrounds and nationalities
+      who share a commitment to moral integrity and to exposing the Palestinian ordeal
+      in Gaza. Seeking truth In certain respects, the tribunal’s work resembles that
+      of United Nations truth-seeking mechanisms, such as the reports of the special
+      rapporteur on the situation of human rights in the Palestinian territories. These
+      have persuasively documented evidence of genocidal intent by Israel and its complicit
+      allies. Yet unlike the tribunal, UN rapporteurs operate as neutral experts, professionally
+      bound to follow evidence wherever it leads. In an unprecedented act of retaliation,
+      the current UN special rapporteur, Francesca Albanese , was personally sanctioned
+      by the US government, denied entry to the country despite her credentials and
+      had her American assets frozen. The punitive response to UN truth-telling underscores
+      the need for independent civil society efforts to expose the reality of human
+      suffering caused by Israel’s unlawful and immoral policies This punitive response
+      to UN truth-telling underscores the need for independent civil society efforts
+      to expose the reality of human suffering caused by Israel’s unlawful and immoral
+      policies. From its inception, the tribunal has pledged complete independence from
+      government interference, with no active politicians or officials involved in its
+      work. It is against this background that some may argue that recent developments,
+      particularly US President Donald Trump ‘s much-publicised diplomacy and the resulting
+      fragile ceasefire in Gaza, render the tribunal redundant. They may see the tribunal
+      as an unhelpful distraction from the supposed work of peacebuilding, or from the
+      UN’s paralysis in the face of two years of genocide in an occupied territory where
+      it bears a special institutional responsibility. The reality, however, is that
+      such developments make the tribunal more essential than ever. When governments
+      and international institutions abandon justice, it falls to ordinary people to
+      uphold it. Illusions of peace The attention devoted in recent days to the so-called
+      Trump ultimatum to Hamas, whose acceptance led to the return of all Israeli hostages
+      within 72 hours, reflected the coercive nature of the process. Hamas was told
+      to comply or face a US-backed Israeli resumption of the genocide that Trump, in
+      his fiery language, forecast as the “opening of the gates of hell”. Follow Middle
+      East Eye’s live coverage of Israel’s genocide in Gaza Hamas dutifully delivered
+      all of the living hostages and as many of the remains of the dead as it managed
+      to recover. In response, Israel released nearly 2,000 Palestinians imprisoned
+      without charge since 7 October 2023 – effectively hostages themselves. This prisoner
+      exchange produced a ceasefire in Gaza, accompanied by celebrations in Israel limited
+      to the return of the hostages, and in Gaza, expressing joy about the ceasefire,
+      the release of detained Palestinians, and the partial withdrawal of Israeli forces.
+      At the same time, there were many flaws in the arrangements when viewed from a
+      Palestinian perspective. Trump’s plan for Gaza rewards Israel’s genocide and punishes
+      its victims Read More » The proposed transition to a peaceful future, outlined
+      in the 20-point plan and boasted about by Trump in grandiose terms, seems at best
+      premature and, more likely, never to be realised. Recent statements and behaviour
+      by Israel’s leaders and public appear as determined as ever to pursue a dehumanising
+      and punitive approach towards the still unwelcome Palestinian presence in Gaza
+      and the West Bank. Israeli ceasefire violations in the first few days resulted
+      in at least 10 Palestinian deaths and the blocking of half of the agreed humanitarian
+      deliveries to a population that is starving, disease-ridden, lacking potable water,
+      and deprived of health services and medicines. The Palestinian population, stunned
+      and devastated by two years of genocide that deliberately destroyed health and
+      sanitation facilities as well as more than 90 percent of residential structures,
+      continues to suffer under catastrophic conditions. To live without bombs, even
+      temporarily, is surely a blessing. Yet to exist in primitive tent communities
+      without toilets or kitchens, amid rubble containing the missing bodies of friends,
+      neighbours and relatives, should be regarded as a slowdown of the genocidal assault
+      but hardly its end – or even its replacement by a post-genocide phase resembling
+      the pre-7 October 2023 apartheid-style occupation . A broken process In this atmosphere,
+      it remains imperative to expose Israel’s harsh policies and practices that continue
+      to impose emergency, dehumanising conditions and vulnerabilities upon the entrapped
+      population of Gaza. Israel is reported to have given material support to anti-Hamas
+      clans and gangs to aggravate the grave conditions that persist. While the ceasefire
+      and the prospect of a peaceful future may be welcomed, it is notable that the
+      positive results were achieved through reliance on an unlawful ultimatum threatening
+      intensified violence. Beyond this, the entire process was guided by and weighted
+      in favour of Israel and the United States – the two states most closely identified
+      with the perpetration of two years of unremitting genocide. In effect, the political
+      actors guilty of genocide were rewarded by being entrusted with controlling the
+      peace process for their own benefit. This is a perversion of justice. Imagine
+      the outrage if surviving Nazi leaders had been authorised to preside over the
+      post-World War Two peace process. The ‘legitimacy war’ The tribunal does not claim
+      historic importance, but its relevance remains undiminished . It exists to validate
+      the charge of genocide and to reaffirm the Palestinian struggle for self-determination
+      and statehood . Both dimensions of the present Gaza reality are airbrushed out
+      of existence by the self-congratulatory bombast of Trump’s diplomacy. Amid fragile
+      ceasefire, the Gaza tribunal on genocide will bring us closer to justice Richard
+      Falk Read More » Those who perpetrated genocide have so far not only evaded any
+      kind of formal accountability for their crimes but have also benefited, except
+      to the extent that Israel is now experiencing eroded legitimacy as a sovereign
+      state and is widely viewed as a pariah. This dynamic of delegitimation has occurred
+      despite the international community’s complete failure to apply standards of accountability
+      in the form of reparations or a reconciliation process that exchanges acknowledgement
+      of past crimes for amnesty. That others, rather than the perpetrators and their
+      enablers, are expected to bear the costs of Gaza’s reconstruction is an assault
+      on the very notion of moral and legal responsibility. What the tribunal seeks
+      to achieve is the sharpening of a populist tool that constructs an accurate archive
+      and narrative of past and present. Its assessments contribute to the relevance
+      of voices of conscience in civil society – a form of symbolic politics that influences
+      questions of legitimacy. In this respect, the side that won the “ legitimacy war
+      ” for control of moral and legal discourse generally determined the political
+      outcome of the anti-colonial struggles of the last half-century, despite being
+      militarily inferior. These are lessons the US should have learned in Vietnam,
+      and Israel in its long encounter with the Palestinian people. There is little
+      doubt that the Palestinians have won the legitimacy war Although the future is
+      highly uncertain, there is little doubt that, as of now, the Palestinians have
+      won the legitimacy war – an outcome that will be certified by the proceedings
+      of the Gaza Tribunal. In their struggle against Zionist settler colonialism, Palestinians
+      have achieved a notable symbolic victory since 7 October 2023, and Israel a corresponding
+      defeat. To record and document this outcome in Gaza is, by itself, enough to justify
+      holding the Gaza Tribunal’s final session in the days ahead. The views expressed
+      in this article belong to the author and do not necessarily reflect the editorial
+      policy of Middle East Eye. Richard Falk is an international law and international
+      relations scholar who taught at Princeton University for forty years. In 2008
+      he was also appointed by the UN to serve a six-year term as the Special Rapporteur
+      on Palestinian human rights. Middle East Eye delivers independent and unrivalled
+      coverage and analysis of the Middle East, North Africa and beyond. To learn more
+      about republishing this content and the associated fees, please fill out this
+      form . More about MEE can be found here . About us Privacy Terms and conditions
+      Careers Contact us Copyright © 2014 – 2025 . Middle East Eye. All rights reserved. Only
+      England and Wales jurisdiction apply in all legal matters. Middle East Eye          ISSN
+      2634-2456 https://consentcdn.cookiebot.com/sdk/bc-'
+    one_sentence_summary: The Gaza Tribunal, a civil society-led initiative formed in
+      response to perceived genocide in Gaza, is set to hold its final session in Istanbul,
+      highlighting the need for accountability and justice in the face of international
+      inaction.
+    paragraph_summary: The Gaza Tribunal, a civil society initiative established in
+      response to the perceived genocide in Gaza, is set to hold its final session from
+      October 23-26, 2025, at Istanbul University. Inspired by the Russell Tribunal
+      during the Vietnam War, this people's tribunal aims to address the failures of
+      established international institutions to uphold accountability and international
+      law. It seeks to document and legitimize the Palestinian struggle for justice,
+      echoing the broader movement of similar tribunals that have emerged globally to
+      challenge state inaction and promote civil society activism, such as the Boycott,
+      Divestment and Sanctions (BDS) movement. The tribunal underscores the belief that
+      when state systems fail, individuals and communities have a responsibility to
+      act in pursuit of justice.
+    published: '2025-10-21T07:29:25+00:00'
+  - title: 'The Gaza Peoples’ Tribunal: Exploring Palestinian Erasure'
+    url: https://richardfalk.org/2025/10/21/4995/
+    text: 'Richard Falk 20 October 2025 21:02 BST | Last update: 11 hours 21 mins ago
+      By rewarding impunity for genocide, Trump’s ceasefire proves why a civil society-led
+      tribunal is needed to uphold accountability and document Palestine’s fight for
+      justice Protesters hold signs calling for the arrest of Israeli Prime Minister
+      Benjamin Netanyahu during a Palestine solidarity protest in Sarajevo, Bosnia and
+      Herzegovina, on 12 October 2025 (Amel Emric/Reuters) The Gaza Tribunal , a people’s
+      tribunal, was formed a year ago in response to the failure of the established
+      world order of sovereign states and international institutions to stop what experts
+      and ordinary people increasingly recognised as genocide in Gaza . The Gaza Tribunal
+      will hold its final session from 23-26 October 2025 at Istanbul University. Our
+      initiative was inspired by an earlier civil society effort during the Vietnam
+      War, when leading public intellectuals Bertrand Russell and Jean-Paul Sartre established
+      the Russell Tribunal, which held hearings in 1966 and 1967. Its mission was to
+      report on the international crimes of the United States and to legitimise growing
+      anti-war sentiment in the West. The underlying premise was that when the state
+      system fails to uphold international law or to ensure accountability for grave
+      crimes that affect global peace and security, people possess a residual authority
+      and responsibility to act. New MEE newsletter: Jerusalem Dispatch Sign up to get
+      the latest insights and analysis on Israel-Palestine, alongside Turkey Unpacked
+      and other MEE newsletters In the half-century since, many similar tribunals have
+      emerged around the world. Their shared purpose is to speak truth to power and
+      legitimise solidarity initiatives that seek to mount pressure on governments and
+      institutions to take action. Such people’s tribunals are also intended to encourage
+      civil society activism, such as the Boycott, Divestment and Sanctions (BDS) movement
+      launched by Palestinian NGOs in 2005. Unlike national or international courts,
+      people’s tribunals do not claim legal authority. They are overtly partisan, driven
+      by moral conscience rather than formal procedure. They provide a platform for
+      survivor testimony and expert analysis, with the aim of mobilising global activism
+      in pursuit of justice. Their focus extends beyond legal culpability to encompass
+      broader moral and political responsibility. The tribunal embodies these principles
+      through its Jury of Conscience – individuals of diverse backgrounds and nationalities
+      who share a commitment to moral integrity and to exposing the Palestinian ordeal
+      in Gaza. Seeking truth In certain respects, the tribunal’s work resembles that
+      of United Nations truth-seeking mechanisms, such as the reports of the special
+      rapporteur on the situation of human rights in the Palestinian territories. These
+      have persuasively documented evidence of genocidal intent by Israel and its complicit
+      allies. Yet unlike the tribunal, UN rapporteurs operate as neutral experts, professionally
+      bound to follow evidence wherever it leads. In an unprecedented act of retaliation,
+      the current UN special rapporteur, Francesca Albanese , was personally sanctioned
+      by the US government, denied entry to the country despite her credentials and
+      had her American assets frozen. The punitive response to UN truth-telling underscores
+      the need for independent civil society efforts to expose the reality of human
+      suffering caused by Israel’s unlawful and immoral policies This punitive response
+      to UN truth-telling underscores the need for independent civil society efforts
+      to expose the reality of human suffering caused by Israel’s unlawful and immoral
+      policies. From its inception, the tribunal has pledged complete independence from
+      government interference, with no active politicians or officials involved in its
+      work. It is against this background that some may argue that recent developments,
+      particularly US President Donald Trump ‘s much-publicised diplomacy and the resulting
+      fragile ceasefire in Gaza, render the tribunal redundant. They may see the tribunal
+      as an unhelpful distraction from the supposed work of peacebuilding, or from the
+      UN’s paralysis in the face of two years of genocide in an occupied territory where
+      it bears a special institutional responsibility. The reality, however, is that
+      such developments make the tribunal more essential than ever. When governments
+      and international institutions abandon justice, it falls to ordinary people to
+      uphold it. Illusions of peace The attention devoted in recent days to the so-called
+      Trump ultimatum to Hamas, whose acceptance led to the return of all Israeli hostages
+      within 72 hours, reflected the coercive nature of the process. Hamas was told
+      to comply or face a US-backed Israeli resumption of the genocide that Trump, in
+      his fiery language, forecast as the “opening of the gates of hell”. Follow Middle
+      East Eye’s live coverage of Israel’s genocide in Gaza Hamas dutifully delivered
+      all of the living hostages and as many of the remains of the dead as it managed
+      to recover. In response, Israel released nearly 2,000 Palestinians imprisoned
+      without charge since 7 October 2023 – effectively hostages themselves. This prisoner
+      exchange produced a ceasefire in Gaza, accompanied by celebrations in Israel limited
+      to the return of the hostages, and in Gaza, expressing joy about the ceasefire,
+      the release of detained Palestinians, and the partial withdrawal of Israeli forces.
+      At the same time, there were many flaws in the arrangements when viewed from a
+      Palestinian perspective. Trump’s plan for Gaza rewards Israel’s genocide and punishes
+      its victims Read More » The proposed transition to a peaceful future, outlined
+      in the 20-point plan and boasted about by Trump in grandiose terms, seems at best
+      premature and, more likely, never to be realised. Recent statements and behaviour
+      by Israel’s leaders and public appear as determined as ever to pursue a dehumanising
+      and punitive approach towards the still unwelcome Palestinian presence in Gaza
+      and the West Bank. Israeli ceasefire violations in the first few days resulted
+      in at least 10 Palestinian deaths and the blocking of half of the agreed humanitarian
+      deliveries to a population that is starving, disease-ridden, lacking potable water,
+      and deprived of health services and medicines. The Palestinian population, stunned
+      and devastated by two years of genocide that deliberately destroyed health and
+      sanitation facilities as well as more than 90 percent of residential structures,
+      continues to suffer under catastrophic conditions. To live without bombs, even
+      temporarily, is surely a blessing. Yet to exist in primitive tent communities
+      without toilets or kitchens, amid rubble containing the missing bodies of friends,
+      neighbours and relatives, should be regarded as a slowdown of the genocidal assault
+      but hardly its end – or even its replacement by a post-genocide phase resembling
+      the pre-7 October 2023 apartheid-style occupation . A broken process In this atmosphere,
+      it remains imperative to expose Israel’s harsh policies and practices that continue
+      to impose emergency, dehumanising conditions and vulnerabilities upon the entrapped
+      population of Gaza. Israel is reported to have given material support to anti-Hamas
+      clans and gangs to aggravate the grave conditions that persist. While the ceasefire
+      and the prospect of a peaceful future may be welcomed, it is notable that the
+      positive results were achieved through reliance on an unlawful ultimatum threatening
+      intensified violence. Beyond this, the entire process was guided by and weighted
+      in favour of Israel and the United States – the two states most closely identified
+      with the perpetration of two years of unremitting genocide. In effect, the political
+      actors guilty of genocide were rewarded by being entrusted with controlling the
+      peace process for their own benefit. This is a perversion of justice. Imagine
+      the outrage if surviving Nazi leaders had been authorised to preside over the
+      post-World War Two peace process. The ‘legitimacy war’ The tribunal does not claim
+      historic importance, but its relevance remains undiminished . It exists to validate
+      the charge of genocide and to reaffirm the Palestinian struggle for self-determination
+      and statehood . Both dimensions of the present Gaza reality are airbrushed out
+      of existence by the self-congratulatory bombast of Trump’s diplomacy. Amid fragile
+      ceasefire, the Gaza tribunal on genocide will bring us closer to justice Richard
+      Falk Read More » Those who perpetrated genocide have so far not only evaded any
+      kind of formal accountability for their crimes but have also benefited, except
+      to the extent that Israel is now experiencing eroded legitimacy as a sovereign
+      state and is widely viewed as a pariah. This dynamic of delegitimation has occurred
+      despite the international community’s complete failure to apply standards of accountability
+      in the form of reparations or a reconciliation process that exchanges acknowledgement
+      of past crimes for amnesty. That others, rather than the perpetrators and their
+      enablers, are expected to bear the costs of Gaza’s reconstruction is an assault
+      on the very notion of moral and legal responsibility. What the tribunal seeks
+      to achieve is the sharpening of a populist tool that constructs an accurate archive
+      and narrative of past and present. Its assessments contribute to the relevance
+      of voices of conscience in civil society – a form of symbolic politics that influences
+      questions of legitimacy. In this respect, the side that won the “ legitimacy war
+      ” for control of moral and legal discourse generally determined the political
+      outcome of the anti-colonial struggles of the last half-century, despite being
+      militarily inferior. These are lessons the US should have learned in Vietnam,
+      and Israel in its long encounter with the Palestinian people. There is little
+      doubt that the Palestinians have won the legitimacy war Although the future is
+      highly uncertain, there is little doubt that, as of now, the Palestinians have
+      won the legitimacy war – an outcome that will be certified by the proceedings
+      of the Gaza Tribunal. In their struggle against Zionist settler colonialism, Palestinians
+      have achieved a notable symbolic victory since 7 October 2023, and Israel a corresponding
+      defeat. To record and document this outcome in Gaza is, by itself, enough to justify
+      holding the Gaza Tribunal’s final session in the days ahead. The views expressed
+      in this article belong to the author and do not necessarily reflect the editorial
+      policy of Middle East Eye. Richard Falk is an international law and international
+      relations scholar who taught at Princeton University for forty years. In 2008
+      he was also appointed by the UN to serve a six-year term as the Special Rapporteur
+      on Palestinian human rights. Middle East Eye delivers independent and unrivalled
+      coverage and analysis of the Middle East, North Africa and beyond. To learn more
+      about republishing this content and the associated fees, please fill out this
+      form . More about MEE can be found here . About us Privacy Terms and conditions
+      Careers Contact us Copyright © 2014 – 2025 . Middle East Eye. All rights reserved. Only
+      England and Wales jurisdiction apply in all legal matters. Middle East Eye          ISSN
+      2634-2456 https://consentcdn.cookiebot.com/sdk/bc-'
+    one_sentence_summary: The Gaza Tribunal, a civil society-led initiative formed in
+      response to perceived genocide in Gaza, is set to hold its final session in Istanbul,
+      highlighting the need for accountability and justice in the face of international
+      inaction.
+    paragraph_summary: The Gaza Tribunal, a civil society initiative established in
+      response to the perceived genocide in Gaza, is set to hold its final session from
+      October 23-26, 2025, at Istanbul University. Inspired by the Russell Tribunal
+      during the Vietnam War, this people's tribunal aims to address the failures of
+      established international institutions to uphold accountability and international
+      law. It seeks to document and legitimize the Palestinian struggle for justice,
+      echoing the broader movement of similar tribunals that have emerged globally to
+      challenge state inaction and promote civil society activism, such as the Boycott,
+      Divestment and Sanctions (BDS) movement. The tribunal underscores the belief that
+      when state systems fail, individuals and communities have a responsibility to
+      act in pursuit of justice.
+    published: '2025-10-21T07:29:25+00:00'
+  - title: 'Trump’s Dipomatic Initiative: A New Dawn or Just Another Dusk?'
+    url: https://richardfalk.org/2025/10/17/trumps-dipomatic-initiative-a-new-dawn-or-just-another-dusk/
+    text: 'Prefatory Note : The post below is based on modified responses to questions
+      addressed to me by Rodrigo Craveiro, a Brazilian journalist. The focus is what
+      to expect in the weeks ahead to follow from the Trump dipomatic offensive to bring
+      an Israeli crafted peace to fruition in Gaza, and broader stability to the entire
+      Middle East} There is a sense of joy but also of fury due to the fact all the
+      bodies didn´t return to Israel. How do you see this? Given the overall experience
+      of the past two years, the attention accorded to the hostages by the Western media
+      is misleadingly disproportionate, and as usual Israel-biased. And now the pain
+      of those Israelis who seek the agreed return of the bodies of non-surviving hostages
+      is an extension of this distortion that shifts global concerns away from the terrible
+      carnage and ccontinuing suffering in Gaza, and the totally ravaged homeland of
+      the Palestinians that is being subject to day after arrangements made by its tormentors
+      without Palestinian participation, much less authentic representation selected
+      by the Palestinian people. Legitimate Palestinian leadership does not presently
+      exist even if there existed a commitment to identify and endow such individuals
+      with appropriate roles. For sustainable progress toward a just future peace to
+      be achieved the Palestinians must participate and be representative of their own
+      choosing. Such a reality can only be decided by the Palestinians themselves, most
+      obviously, in an internationally monitored competitive election among rival claimants
+      to Palestinian leadership throughout Occupied Palestine. Hamas evidently agreed
+      to return the bodies of dead hostages in their possession, but given the difficulty
+      of locating the bodies and collecting the remains, unless there is a genuine repudiation
+      by Hamas of this underlying duty associated with the ceasefire, their good will
+      deserves the benefit of the doubt. The disappointment of the families in Israel
+      that suffered from this human loss is understandable, but it should be interpreted
+      in ways that are subordinate to more relevant issues such as ceasefire violations.
+      It was reported two days after the ceasefire went into effect that Israel killed
+      by gunfire and missiles 7 Palestinians seeking to visit their destroyed home in
+      Gaza City, a disturbing incident which seemed received scant, if any, coverage
+      in international media or mainstream international commentary, and yet could be
+      seen as evidence of the fragility of the ceasefire arrangements or an indication
+      that Israel is ready to risk or is even seeking the collapse of the ceasefire
+      by testing its limits. A carefree attitude toward the renewal of the violent encounter
+      that rests on implied, or even secret, assurances of unwavering US support. Trump
+      addressed the Israeli Knesset, where he said that his peace plan marks the “historic
+      dawn of a new Middle East”. Do you believe this is something real or is he exaggerating?
+      My best guess is that historians looking back at those words will conclude that
+      Trump had confused dawn with dusk. There is no prospect of a brightening of the
+      dark skies casting a shadow on the countries of Middle East until Palestinian
+      rights arerespected, and that includes honoring the international right of return
+      of the seven million Palestinian refugees. There must be a campaign to obtain
+      proper accountability for the Gaza Genocide. Until the costs of Gaza reconstruction
+      are borne by the perpetrators of the devastation, accompanied by some process
+      of reconciliation that does not whitewash the crimes of Israel and its enablers
+      it will be impossible to create a peaceful future for the region. At the very
+      least the vast devastation caused by the genocide must be physically overcome
+      by a process of reconstruction funded by adequate reparations. The scope of reconstruction
+      must include health, heritage and religious sites, educational and cultural institutions,
+      residential neighborhoods, UNRWA facilities, and much else. The most painful losses
+      of loved ones and body parts can never be compensated by material means and are
+      an enduring negative legacy of the Gaza Genocide. Even recognizing pragmatic constraints
+      on peacemaking given political conditions a ‘peace’ crafted to please the perpetrator
+      of genocide and its most complicit supporter, is highly unlikely to proceed very
+      far. The Trump 20 Point Plan is not a break with the past, but an effort to induce
+      forgetfulness necessary to attain credibility in proposing post-conflict arrangements.
+      To grasp the ironies of this Trump Plan we should imagine our reactions if the
+      Nazi survivors of World War II had been put in charge of designing the future
+      of the international order, or even of just post-war Germany. It would not have
+      seemed like a step toward a peaceful future regardless of the language used to
+      obscure the perverse underlying reality. 3- Trump and the three mediating governments
+      signed the peace plan for Gaza at the Sharm el-Sheik Summit. Given this development,
+      what can we expect to happen in the future? It is almost universally believed
+      that the ceasefire should remain operative even if violations of the underlying
+      plan occur or its further implementation stalls. Beyond this it is a matter of
+      how much leverage is exerted by the US to advance the governance proposals in
+      Part II of Trump‘s Plan. Whether Hamas and Palestinian resistance forces are subject
+      to being coerced by further threats of Israeli renewal of its genocidal assault
+      is unclear. It is also uncertain if the US would go along with an Israeli unilateral
+      departure from the Trump Plan. Israel is quite capable of fabricating claims that
+      Hamas is violating the ceasefire and related obligations leaving it no choice
+      but to resume its military operations. It would appear at this time that Trump
+      would allow Israel to exercise such an option. At the same time, Trump is so mercurial
+      and narcissistic that it possible he would regard Israel’s action as undermining
+      his claims as peacemaker, and repudiate the Israeli resumption of large-scale
+      violence in Gaza. In an odd way Israel and Trump may turn out to have different
+      goals. Israel has not given up its quest for ‘Greater Israel,’ which means absorbing
+      not only East Jerusalem, but Gaza and the West Bank within its sovereign territory.
+      Trump may still strangely believe he can obtain the Nobel Peace Prize if his Plan
+      is operationalized in Gaza and the two conflicting parties accept the arrangements.
+      Overall, it is clear that peace and stability will not be the future of the Middle
+      East until Israel respects Palestinian rights, drastically redefines or repudiate
+      Zionism and apartheid in a manner consistent with international law, and agrees
+      to the establishment of a Peace & Reconciliation Commission to acknowledge Israel’s
+      past criminal violations of Palestinian rights and to announce a new dedication
+      to the creation of an independent commission that assists the Palestinian/Israeli
+      leadership to build future relations between Jews and Arabs on the basis of equality,
+      dignity, and rights as the foundation for sustainable patterns of peaceful coexistence.
+      For a truly new and stable Middle East Israel  must agree to the establishment
+      of a nuclear free zone, including itself and Iran. 4- What are Risks of Clashes
+      between Hamas and Gaza Clans and Factions? These issues are murky, with contending
+      interpretations and explanations of their recent prominence in the midst of this
+      most ambitious effort to develop the current ceasefire pause into a framework
+      for long-term conflict resolution by implementing, perhaps with modifications,
+      the advanced phases of the Trump 20 Point Plan. In this context, Israel seems
+      to welcome these tensions within Gaza, by various means including subsidies, to
+      allow them an option to exit from this series of developments that might challenge
+      their annexation plans in the West Bank as well as Gaza. It is possible that the
+      Netanyahu government agreed to the ceasefire only to secure the return of the
+      hostages, and never assented to any wider interference with its militarist approach,
+      and may have had assurances of Trump’s support no matter what.  If this plays
+      out Israel would actually welcome the collapse of the conflict-resolution part
+      of the framework in a manner that would find tacit acceptance, if not outright
+      approval in Washington. Such a manipulation of reality requires pinning the blame
+      on Hamas that is currently taking the form of criticizing Hamas for seeking to
+      destroy those armed groups in Gaza that collaborated with the Israeli military
+      operations. Such a line of interpretation is reinforced by Israeli unreasonably
+      shrill complaints about the Hamas failure to return all of the bodies of the dead
+      hostages. On its part Hamas claims it has returned all the remains it could discover
+      with its existing equipment, given that some dead hostages remain trapped far
+      beneath the rubble. This seems a reasonable explanation as Hamas has little incentive
+      to retain the remains of dead Israeli hostages or of taking steps that provide
+      an excuse for Israel to resume bombardment and other forms of violence in Gaza.
+      Such a line of interpretation is also consistent with Israel’s pattern of lethal
+      violence killing Palestinians in several instances that have the clear appearance
+      of being deliberate violations of the ceasefire agreement. Additionally, Israeli
+      interference with the delivery of humanitarian aid by reducing the entry of relief
+      goods by 50% is another expression of Israel’s unwillingness to allow even a conflict-resolving
+      process weighted in its favor to go forward.  These are serious provocations by
+      Israel, causing sharp criticism from some governments that had previously endorsed
+      the Trump approach, but not yet even a whimper of disapproval from the US. The
+      gathering evidence suggests that Israel is accumulating grounds for repudiating
+      the ‘peace’ process and resuming its military operations accompanied by a renewed
+      clampdown on the further delivery of humanitarian aid, despite widespread hunger,
+      disease, and trauma among the civilian population of Gaza.  The next week or so
+      shall determine whether this pessimistic assessment dooms the ceasefire as well
+      as the prospects for conflict-resolution by diplomacy rather than through further
+      recourse to genocide. Israel since the return of the living hostages in Gaza holds
+      all the cards and Hamas has none except for its incredible capacity of resilience.
+      As yet there is no signs pointing to a new dawn.'
+    one_sentence_summary: The article discusses the complexities surrounding the Israeli
+      diplomatic efforts for peace in Gaza, highlighting the emotional responses to
+      the hostage situation and criticizing the Western media's focus on Israeli concerns
+      while neglecting the ongoing suffering of Palestinians.
+    paragraph_summary: The article discusses the complex emotional landscape following
+      the Israeli diplomatic efforts to secure peace in Gaza, particularly in light
+      of the ongoing suffering and devastation experienced by Palestinians. It highlights
+      the disproportionate media focus on the hostages held by Hamas, which the author
+      argues distracts from the broader humanitarian crisis in Gaza and the lack of
+      legitimate Palestinian leadership. The author emphasizes that any sustainable
+      peace must involve authentic Palestinian representation, ideally through internationally
+      monitored elections, and notes that while Hamas has agreed to return the bodies
+      of deceased hostages, the challenges in doing so raise questions about their commitment
+      to the ceasefire. Ultimately, the article reflects on the deep disappointment
+      felt by Israeli families while calling for a more balanced understanding of the
+      situation that includes Palestinian voices.
+    published: '2025-10-17T18:06:57+00:00'
+  - title: 'Trump’s Dipomatic Initiative: A New Dawn or Just Another Dusk?'
+    url: https://richardfalk.org/2025/10/17/trumps-dipomatic-initiative-a-new-dawn-or-just-another-dusk/
+    text: 'Prefatory Note : The post below is based on modified responses to questions
+      addressed to me by Rodrigo Craveiro, a Brazilian journalist. The focus is what
+      to expect in the weeks ahead to follow from the Trump dipomatic offensive to bring
+      an Israeli crafted peace to fruition in Gaza, and broader stability to the entire
+      Middle East} There is a sense of joy but also of fury due to the fact all the
+      bodies didn´t return to Israel. How do you see this? Given the overall experience
+      of the past two years, the attention accorded to the hostages by the Western media
+      is misleadingly disproportionate, and as usual Israel-biased. And now the pain
+      of those Israelis who seek the agreed return of the bodies of non-surviving hostages
+      is an extension of this distortion that shifts global concerns away from the terrible
+      carnage and ccontinuing suffering in Gaza, and the totally ravaged homeland of
+      the Palestinians that is being subject to day after arrangements made by its tormentors
+      without Palestinian participation, much less authentic representation selected
+      by the Palestinian people. Legitimate Palestinian leadership does not presently
+      exist even if there existed a commitment to identify and endow such individuals
+      with appropriate roles. For sustainable progress toward a just future peace to
+      be achieved the Palestinians must participate and be representative of their own
+      choosing. Such a reality can only be decided by the Palestinians themselves, most
+      obviously, in an internationally monitored competitive election among rival claimants
+      to Palestinian leadership throughout Occupied Palestine. Hamas evidently agreed
+      to return the bodies of dead hostages in their possession, but given the difficulty
+      of locating the bodies and collecting the remains, unless there is a genuine repudiation
+      by Hamas of this underlying duty associated with the ceasefire, their good will
+      deserves the benefit of the doubt. The disappointment of the families in Israel
+      that suffered from this human loss is understandable, but it should be interpreted
+      in ways that are subordinate to more relevant issues such as ceasefire violations.
+      It was reported two days after the ceasefire went into effect that Israel killed
+      by gunfire and missiles 7 Palestinians seeking to visit their destroyed home in
+      Gaza City, a disturbing incident which seemed received scant, if any, coverage
+      in international media or mainstream international commentary, and yet could be
+      seen as evidence of the fragility of the ceasefire arrangements or an indication
+      that Israel is ready to risk or is even seeking the collapse of the ceasefire
+      by testing its limits. A carefree attitude toward the renewal of the violent encounter
+      that rests on implied, or even secret, assurances of unwavering US support. Trump
+      addressed the Israeli Knesset, where he said that his peace plan marks the “historic
+      dawn of a new Middle East”. Do you believe this is something real or is he exaggerating?
+      My best guess is that historians looking back at those words will conclude that
+      Trump had confused dawn with dusk. There is no prospect of a brightening of the
+      dark skies casting a shadow on the countries of Middle East until Palestinian
+      rights arerespected, and that includes honoring the international right of return
+      of the seven million Palestinian refugees. There must be a campaign to obtain
+      proper accountability for the Gaza Genocide. Until the costs of Gaza reconstruction
+      are borne by the perpetrators of the devastation, accompanied by some process
+      of reconciliation that does not whitewash the crimes of Israel and its enablers
+      it will be impossible to create a peaceful future for the region. At the very
+      least the vast devastation caused by the genocide must be physically overcome
+      by a process of reconstruction funded by adequate reparations. The scope of reconstruction
+      must include health, heritage and religious sites, educational and cultural institutions,
+      residential neighborhoods, UNRWA facilities, and much else. The most painful losses
+      of loved ones and body parts can never be compensated by material means and are
+      an enduring negative legacy of the Gaza Genocide. Even recognizing pragmatic constraints
+      on peacemaking given political conditions a ‘peace’ crafted to please the perpetrator
+      of genocide and its most complicit supporter, is highly unlikely to proceed very
+      far. The Trump 20 Point Plan is not a break with the past, but an effort to induce
+      forgetfulness necessary to attain credibility in proposing post-conflict arrangements.
+      To grasp the ironies of this Trump Plan we should imagine our reactions if the
+      Nazi survivors of World War II had been put in charge of designing the future
+      of the international order, or even of just post-war Germany. It would not have
+      seemed like a step toward a peaceful future regardless of the language used to
+      obscure the perverse underlying reality. 3- Trump and the three mediating governments
+      signed the peace plan for Gaza at the Sharm el-Sheik Summit. Given this development,
+      what can we expect to happen in the future? It is almost universally believed
+      that the ceasefire should remain operative even if violations of the underlying
+      plan occur or its further implementation stalls. Beyond this it is a matter of
+      how much leverage is exerted by the US to advance the governance proposals in
+      Part II of Trump‘s Plan. Whether Hamas and Palestinian resistance forces are subject
+      to being coerced by further threats of Israeli renewal of its genocidal assault
+      is unclear. It is also uncertain if the US would go along with an Israeli unilateral
+      departure from the Trump Plan. Israel is quite capable of fabricating claims that
+      Hamas is violating the ceasefire and related obligations leaving it no choice
+      but to resume its military operations. It would appear at this time that Trump
+      would allow Israel to exercise such an option. At the same time, Trump is so mercurial
+      and narcissistic that it possible he would regard Israel’s action as undermining
+      his claims as peacemaker, and repudiate the Israeli resumption of large-scale
+      violence in Gaza. In an odd way Israel and Trump may turn out to have different
+      goals. Israel has not given up its quest for ‘Greater Israel,’ which means absorbing
+      not only East Jerusalem, but Gaza and the West Bank within its sovereign territory.
+      Trump may still strangely believe he can obtain the Nobel Peace Prize if his Plan
+      is operationalized in Gaza and the two conflicting parties accept the arrangements.
+      Overall, it is clear that peace and stability will not be the future of the Middle
+      East until Israel respects Palestinian rights, drastically redefines or repudiate
+      Zionism and apartheid in a manner consistent with international law, and agrees
+      to the establishment of a Peace & Reconciliation Commission to acknowledge Israel’s
+      past criminal violations of Palestinian rights and to announce a new dedication
+      to the creation of an independent commission that assists the Palestinian/Israeli
+      leadership to build future relations between Jews and Arabs on the basis of equality,
+      dignity, and rights as the foundation for sustainable patterns of peaceful coexistence.
+      For a truly new and stable Middle East Israel  must agree to the establishment
+      of a nuclear free zone, including itself and Iran. 4- What are Risks of Clashes
+      between Hamas and Gaza Clans and Factions? These issues are murky, with contending
+      interpretations and explanations of their recent prominence in the midst of this
+      most ambitious effort to develop the current ceasefire pause into a framework
+      for long-term conflict resolution by implementing, perhaps with modifications,
+      the advanced phases of the Trump 20 Point Plan. In this context, Israel seems
+      to welcome these tensions within Gaza, by various means including subsidies, to
+      allow them an option to exit from this series of developments that might challenge
+      their annexation plans in the West Bank as well as Gaza. It is possible that the
+      Netanyahu government agreed to the ceasefire only to secure the return of the
+      hostages, and never assented to any wider interference with its militarist approach,
+      and may have had assurances of Trump’s support no matter what.  If this plays
+      out Israel would actually welcome the collapse of the conflict-resolution part
+      of the framework in a manner that would find tacit acceptance, if not outright
+      approval in Washington. Such a manipulation of reality requires pinning the blame
+      on Hamas that is currently taking the form of criticizing Hamas for seeking to
+      destroy those armed groups in Gaza that collaborated with the Israeli military
+      operations. Such a line of interpretation is reinforced by Israeli unreasonably
+      shrill complaints about the Hamas failure to return all of the bodies of the dead
+      hostages. On its part Hamas claims it has returned all the remains it could discover
+      with its existing equipment, given that some dead hostages remain trapped far
+      beneath the rubble. This seems a reasonable explanation as Hamas has little incentive
+      to retain the remains of dead Israeli hostages or of taking steps that provide
+      an excuse for Israel to resume bombardment and other forms of violence in Gaza.
+      Such a line of interpretation is also consistent with Israel’s pattern of lethal
+      violence killing Palestinians in several instances that have the clear appearance
+      of being deliberate violations of the ceasefire agreement. Additionally, Israeli
+      interference with the delivery of humanitarian aid by reducing the entry of relief
+      goods by 50% is another expression of Israel’s unwillingness to allow even a conflict-resolving
+      process weighted in its favor to go forward.  These are serious provocations by
+      Israel, causing sharp criticism from some governments that had previously endorsed
+      the Trump approach, but not yet even a whimper of disapproval from the US. The
+      gathering evidence suggests that Israel is accumulating grounds for repudiating
+      the ‘peace’ process and resuming its military operations accompanied by a renewed
+      clampdown on the further delivery of humanitarian aid, despite widespread hunger,
+      disease, and trauma among the civilian population of Gaza.  The next week or so
+      shall determine whether this pessimistic assessment dooms the ceasefire as well
+      as the prospects for conflict-resolution by diplomacy rather than through further
+      recourse to genocide. Israel since the return of the living hostages in Gaza holds
+      all the cards and Hamas has none except for its incredible capacity of resilience.
+      As yet there is no signs pointing to a new dawn.'
+    one_sentence_summary: The article discusses the complexities surrounding the Israeli
+      diplomatic efforts for peace in Gaza, highlighting the emotional responses to
+      the hostage situation and criticizing the Western media's focus on Israeli concerns
+      while neglecting the ongoing suffering of Palestinians.
+    paragraph_summary: The article discusses the complex emotional landscape following
+      the Israeli diplomatic efforts to secure peace in Gaza, particularly in light
+      of the ongoing suffering and devastation experienced by Palestinians. It highlights
+      the disproportionate media focus on the hostages held by Hamas, which the author
+      argues distracts from the broader humanitarian crisis in Gaza and the lack of
+      legitimate Palestinian leadership. The author emphasizes that any sustainable
+      peace must involve authentic Palestinian representation, ideally through internationally
+      monitored elections, and notes that while Hamas has agreed to return the bodies
+      of deceased hostages, the challenges in doing so raise questions about their commitment
+      to the ceasefire. Ultimately, the article reflects on the deep disappointment
+      felt by Israeli families while calling for a more balanced understanding of the
+      situation that includes Palestinian voices.
+    published: '2025-10-17T18:06:57+00:00'
   - title: Palestinian Statehood and the Winding Road to Palestinian Self-Determination
     url: https://richardfalk.org/2025/09/29/palestinian-statehood-and-the-winding-road-to-palestinian-self-determination/
     text: '[ Prefatory Comments] This post consists of my responses to a Brazilian journalist

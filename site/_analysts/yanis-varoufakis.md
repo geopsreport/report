@@ -8,14 +8,318 @@ websites:
   - https://www.yanisvaroufakis.eu/
   - https://www.project-syndicate.org/columnist/yanis-varoufakis
 summary: |
-  The past week has seen a convergence of economic, political, and social crises, each exposing the fragility of current global systems and the urgent need for structural change. The most recent development is the proposal for a "Monetary Commons," a public digital platform leveraging blockchain technology to provide a universal basic income without resorting to new taxes or debt. As **Yanis Varoufakis** argues, this initiative stands in stark contrast to the current exploitation of stablecoins by powerful private interests, offering a path toward equitable wealth distribution and monetary sovereignty.
+  As of October 22, 2025, the global geopolitical landscape remains shaped by mounting economic, political, and social tensions, with new developments underscoring the fragility of established systems and the urgency for coordinated action.
   
-  Meanwhile, the Palestinian issue remains at the forefront of international activism. The launch of the Global Alliance for Palestine in London on July 26, 2025, marks a significant step in unifying global support for Palestinian rights. **Varoufakis**, a member of the alliance's steering committee, sharply criticizes Western governments and corporations for perpetuating violence against Palestinians while publicly endorsing a two-state solution. This coordinated political action signals a shift from fragmented advocacy to a more organized, potentially impactful movement.
+  The most recent focus comes from **Yanis Varoufakis**’s launch of "RAISE YOUR SOUL!", a book chronicling a century of resistance against fascism and chauvinism through the lives of five women. While not a direct policy intervention, the work is emblematic of a broader intellectual and activist push to draw lessons from past struggles for justice and apply them to today’s crises. Varoufakis frames this as a source of hope and guidance amid contemporary societal challenges, reflecting a growing sentiment that historical memory is essential for navigating present dangers.
   
-  On the economic front, concerns over the proliferation of stablecoins and their destabilizing potential continue to mount. Recent articles highlight the risk of a looming financial crisis as banks lose liquidity and stablecoins become more entrenched in everyday transactions. The so-called "stablecoin time bomb" is exacerbated by legislative moves such as the U.S. Genius Act, which could further empower Big Tech and undermine traditional monetary authorities.
+  On the economic front, Varoufakis continues to advocate for radical reform of the global monetary system. In his October 10 article, he proposes a "Monetary Commons" leveraging blockchain technology to provide a universal basic dividend, bypassing the need for new taxes or debt. This vision stands in stark contrast to the current dominance of stablecoins by powerful private actors, which he warns could exacerbate inequality and systemic risk. The majority of independent analysts cited agree that the unchecked rise of private digital currencies—especially in the wake of the U.S. Genius Act—poses a significant threat to financial stability. There is a high chance that, without intervention, the next financial crisis will be triggered by instability in the stablecoin sector.
   
-  Looking ahead, the trends are clear: there is a high chance that grassroots movements for economic and social justice will intensify, particularly as digital technologies offer new tools for collective action. The risk of financial instability linked to the unchecked growth of stablecoins remains acute—most definitely, unless regulatory frameworks are reimagined, a major crisis is likely. At the same time, the momentum behind transnational solidarity campaigns, such as the Global Alliance for Palestine, is quite likely to grow, challenging the status quo and demanding accountability from established powers.
+  Geopolitically, the formation of the Global Alliance for Palestine in July 2025 signals a new phase of international mobilization. As Varoufakis, a steering committee member, argues, Western governments and businesses are complicit in perpetuating violence against Palestinians while publicly supporting a Two State Solution. This coordinated alliance aims to unify disparate pro-Palestinian efforts into effective political action. Given the momentum and breadth of support, I guarantee that the Palestinian issue will remain at the forefront of global civil society campaigns into 2026, with a high chance of increased pressure on Western policymakers.
+  
+  In summary, the current period is marked by a convergence of grassroots activism, economic innovation, and geopolitical realignment. The trends point toward intensifying demands for systemic change, both in the financial sector and in international solidarity movements. The confidence is high that unless established powers respond with substantive reforms, instability—both economic and political—will deepen in the coming year.
 articles:
+  - title: RAISE YOUR SOUL! My new book telling the story of the last 100 years through
+      the voices of 5 remarkable women
+    url: https://www.yanisvaroufakis.eu/2025/10/15/raise-your-soul-my-new-book-telling-the-story-of-the-last-100-years-through-the-voices-of-5-remarkable-women/
+    text: 'Hello everyone. RAISE YOUR SOUL! is my new book which I am taking the liberty
+      of presenting to you. It is unlike anything I have written before. Setting aside
+      high theory, it is the story of five women who, over of a hundred years, resisted
+      fascism, authoritarianism and chauvinism. It is, I believe, a universal story
+      of five remarkable women who taught me how to resist bullies, bigots and chauvinists,
+      as well as the sense of futility that threatens to overwhelm us. Why should you
+      want to hear the voices of these five women? Because, at a time when the air stinks,
+      again, of fascism and war; chauvinism and xenophobia, their voices, are the best
+      remedy for hopelessness. So, allow me to read you the preface of the new book
+      and the first few pages of the introductory chapter, which features the first
+      of the five women who has much to teach us on how to raise our souls. TO THE FEARLESS
+      WOMEN WHO TURN WHISPERS INTO SOUL-RAISING ROARS PROLOGUE The year 2024 was marked
+      by an unrelenting personal slump. The darkness didn’t just loom – it consumed
+      . It stretched endlessly across my horizon, not a gentle twilight that comes with
+      the setting sun, but a deeper, more insidious gloom that seeped into the very
+      fabric of existence. Fascism was in the air – a sour, metallic taste that clung
+      to the back of my throat. Somewhere to the north of our island home, the killing
+      fields of Ukraine devoured lives with a ruthless, mechanical precision. Woman,
+      Life, Freedom, the campaign by Kurdish heroines, had been trampled by the manosphere’s
+      unyielding juggernaut, lost, as though the three little words had never been whispered
+      at all. And from Palestine, the acrid stench of genocide drifted on the wind across
+      the eastern Mediterranean, which grimly confirmed to me the fragility of humanity’s
+      most solemn promises to itself. Authoritarianism was entrenching itself as the
+      new world order. My political struggles against it had met with three consecutive
+      electoral defeats in the space of one year, making me feel like a doomed character
+      in some twisted simulation. And then came the violence, the thugs who broke my
+      face in front of my wife and friends. It was the anguish in their eyes that haunted
+      me, their expressions of pained helplessness that cut far deeper than the ringleader’s
+      iron fist ever could. For the first time, I felt my age, the gravity of my sixty-plus
+      years a remorseless force that weighed me down like a stone, cold, heavy and inevitable.
+      I was in injury time now and, all around, the world seemed to shudder, the grapes
+      of wrath swelling, heavy and black, ready for yet another cruel harvest. It was
+      then that I turned to the five women who had shaped me, whose incredible stories
+      I carried like a secret flame. I would write them down, I decided, not to escape
+      the darkness but to confront it, to let their strength, their love, lift me as
+      my mother used to. She had always known how to find the light even in the deepest
+      dark. And so, I would save their stories from oblivion, not for glory or for gain,
+      but for the simple, stubborn hope of rising again. It proved one of my better
+      decisions. Recording their lives opened a portal to something far greater: it
+      revealed the origins of our current predicament, and it linked Europe and America
+      to north Africa and the Near East. Every word I wrote raised my soul a little.
+      This book belongs to the tradition of fictionalised history, an earnest attempt
+      to bridge the gaps between the available facts and what I remember, while keeping
+      at bay the urge to colonise the past with my myths. In writing it, I had an advantage:
+      unlike historians studying distant subjects, I was deeply involved in the lives
+      of the protagonists. Besides my vivid memories of them, I was also aided by the
+      sources that had been lying around the house I was born and raised in: letters,
+      diaries, photo albums, one of them dating to 1920s Egypt, as well as thirty-seven
+      8mm home movies made by my father, which I keep in an orange box by my desk. Throughout,
+      every time I put words into someone’s mouth, it is because I’ve been told it is
+      something they said, or because it is something they could plausibly have said,
+      judging by conversations I witnessed over the years. And whenever there is dialogue,
+      I have tried to capture the essence of the person I knew – their voice, their
+      spirit. Two younger women appear fleetingly in these pages – my sister and my
+      daughter – yet it is for them too that I wrote this book, hoping that they will
+      see themselves in its marrow, that they too will recognise their heritage. It
+      is also my solemn hope that in immersing yourself in the worlds of Eleni, Anna,
+      Trisevgeni, Georgia and Danaë, you too, dear reader, might rediscover your resolve
+      to resist authoritarianism, fascism and chauvinism, and feel your soul growing
+      lighter, even if just a little. Yanis Varoufakis, April 2025 THE FIVE WOMEN FEATURED
+      IN THIS BOOK’S FIVE PARTS (And listen to me talk about them on BBC Radio 4’s START
+      THE WEEK here ) PART 1 – ELENI (1929-2008) PART 2 – ANNA (1905-1953) PART 3 –
+      TRISEVGENI (1899-1983) PART 4 – GEORGIA (1923-2011) PART 5 – DANAË (1964-) PART
+      ONE – Eleni Chapter 1 – Hotel Pefkakia Eleni’s lips stiffened as the taxi set
+      us down at the entrance of the boutique hotel in Drosia, a leafy northern suburb
+      of Athens. Before we got out, she put her arm around me and whispered, ‘Raise
+      your soul, my son,’ into my ear. The shuttered windows and lifeless façade were
+      the first signal that something was amiss. The second was the two fierce men standing
+      on the pavement, adorned in military police uniforms emblazoned with the logo
+      of ESA, our version of the Gestapo. It was early September 1969. Hotel Pefkakia
+      had been commandeered by ESA and converted into a temporary holding gaol for the
+      regime’s most embarrassing political prisoners. One of them was Panayis – Eleni’s
+      older brother, my favourite uncle, whom we had come to visit. Heavily pregnant
+      with my sister, Eleni struggled out of the taxi and swayed unsteadily towards
+      the entrance. I still treasure the memory of her leaning on me for support. Sat
+      down in front of what used to be the quaint reception, we waited, dread and expectation
+      drawn on Eleni’s face. Before long, a rigid man in a dusty brown suit arrived
+      with a gang of uniformed henchmen in tow. As he passed us, he stopped and expressionlessly
+      peered down, first at me, then at Eleni. Furious that she would not make eye contact,
+      he grabbed her jaw violently, forcing her gaze, and slapped her across the face
+      yelling: ‘When I look at you, you look at me. Got it, whore?’ Satisfied, he turned
+      towards me, grinned widely and, with the same hand, patted my head saying, ‘That’s
+      a good boy,’ before receding into the hotel’s interior. Eleni looked at me. ‘Remember
+      what I said?’ she said, squeezing my left hand. ‘Keep your soul up high, let it
+      soar above the filth.’ I cannot remember how long we waited before we were eventually
+      ushered by one of the guards into the room in which Panayis was being held. Even
+      though it was morning, the closed shutters kept the room dark, concealing his
+      state after weeks of relentless interrogation and torture. Long before my eyes
+      had adjusted to make out his features, I heard his distinctive voice, and felt
+      his gentle embrace. He showered me with questions about school, jokes about Eleni
+      and lashes of almost grotesque exuberance which, nonetheless, made me giggle.
+      Eleni looked on while her brother and her son pretended to be somewhere else.
+      Panayis then said: ‘I’ve got something for you, to make amends for being such
+      a terrible godfather.’ He reached under his bed and pulled out a model aeroplane,
+      which, thanks to his considerable engineering skills, he had fashioned out of
+      matchsticks, cigarette paper and carton. As Eleni and Panayis chatted in muted
+      voices, I sat on the bed, mesmerised by the plane which, courtesy of the countless
+      war movies I had watched, I recognised instantly. It was a Stuka, a Junker Ju-87
+      to be precise, with black iron crosses and Swastikas that Panayis had somehow
+      painted on its wings and tail, eerily resembling the infamous Luftwaffe dive bomber
+      that had terrorised populations across Europe and north Africa. When the guard
+      terminated our brief reunion, Panayis hugged us and made sure I did not leave
+      my gift behind. ‘A Nazi plane? Really?’ Eleni asked disapprovingly. ‘Of course,
+      this they may let him keep – as good Nazis, they ought to appreciate it,’ he replied,
+      smiling mischievously. He was not wrong. Once we were out in corridor, a passing
+      petty officer spotted my Stuka and smirked with approval. At reception, where
+      Eleni was frisked before collecting her identity card, a couple of ESA nasties
+      spotted my plane. ‘What’s this?’ the taller of the two asked in a menacing voice
+      feigning intrigue. ‘He made you a Stuka, did he now? Let me see. Does it fly?’
+      Before I could protest, he snatched it from me and launched it violently against
+      the wall. It was his way of provoking Eleni, seeking a confrontation. But Eleni
+      did not bite. She quietly picked up the broken Stuka from the carpeted floor,
+      took my hand and, looking straight ahead, led me to the fresh air outside. We
+      walked for what felt like ages, never looking back, until Eleni hailed a taxi.
+      Despite its crash, my Stuka was in relatively good nick. Nothing a little glue
+      couldn’t fix. I could not wait to show my dad, Yorgo, my new toy at home. It all
+      looked promising, at first. Yorgo welcomed us at the front door with a generous
+      smile and the three of us strolled into the kitchen. Eleni took my Stuka and gave
+      it to Yorgo, who placed it on the kitchen table, without either of them exchanging
+      a word, leading me to believe that they had telepathically communicated with one
+      another about how to fix it. But to my horror, instead of mending it, they cut
+      its fuselage in half, and carefully retrieved a tiny piece of paper, on which
+      Panayis had written a message to his comrades on how to coordinate their testimonies
+      during their forthcoming court martial. My model plane was a ruse. Nevertheless,
+      once lovingly repaired, it remained a prized possession, until sometime in the
+      late 1990s when its fragile materials succumbed to the sands of time. To this
+      day, when I think of my little Stuka, my heart fills with unalloyed delight. ****
+      To order the book from Bookshop.org click here , for the Waterstone’s site here,
+      and here for the AUDIOBOOK (which I have read out myself!). Oh, and here is Penguin’s
+      official site. The post RAISE YOUR SOUL! My new book telling the story of the
+      last 100 years through the voices of 5 remarkable women appeared first on Yanis
+      Varoufakis .'
+    one_sentence_summary: The article introduces the author's new book, "RAISE YOUR
+      SOUL!", which tells the inspiring stories of five women who resisted fascism and
+      chauvinism over a century, aiming to provide hope and guidance in the face of
+      contemporary societal challenges.
+    paragraph_summary: In the introduction to her new book, "RAISE YOUR SOUL!", the
+      author presents a narrative that diverges from her previous works by focusing
+      on the stories of five women who resisted fascism, authoritarianism, and chauvinism
+      over the past century. She emphasizes the relevance of their voices in today's
+      climate, which is rife with similar threats, and suggests that their experiences
+      can inspire resilience against despair and oppression. The prologue reflects her
+      personal struggles during a bleak 2024, marked by the pervasive presence of fascism
+      and the ongoing crises in Ukraine and Palestine, highlighting the fragility of
+      humanity's commitments to justice and freedom. The author aims to share these
+      women's lessons on empowerment and resistance, urging readers to find hope and
+      strength in their stories.
+    published: '2025-10-15T09:14:19+00:00'
+  - title: RAISE YOUR SOUL! My new book telling the story of the last 100 years through
+      the voices of 5 remarkable women
+    url: https://www.yanisvaroufakis.eu/2025/10/15/raise-your-soul-my-new-book-telling-the-story-of-the-last-100-years-through-the-voices-of-5-remarkable-women/
+    text: 'Hello everyone. RAISE YOUR SOUL! is my new book which I am taking the liberty
+      of presenting to you. It is unlike anything I have written before. Setting aside
+      high theory, it is the story of five women who, over of a hundred years, resisted
+      fascism, authoritarianism and chauvinism. It is, I believe, a universal story
+      of five remarkable women who taught me how to resist bullies, bigots and chauvinists,
+      as well as the sense of futility that threatens to overwhelm us. Why should you
+      want to hear the voices of these five women? Because, at a time when the air stinks,
+      again, of fascism and war; chauvinism and xenophobia, their voices, are the best
+      remedy for hopelessness. So, allow me to read you the preface of the new book
+      and the first few pages of the introductory chapter, which features the first
+      of the five women who has much to teach us on how to raise our souls. TO THE FEARLESS
+      WOMEN WHO TURN WHISPERS INTO SOUL-RAISING ROARS PROLOGUE The year 2024 was marked
+      by an unrelenting personal slump. The darkness didn’t just loom – it consumed
+      . It stretched endlessly across my horizon, not a gentle twilight that comes with
+      the setting sun, but a deeper, more insidious gloom that seeped into the very
+      fabric of existence. Fascism was in the air – a sour, metallic taste that clung
+      to the back of my throat. Somewhere to the north of our island home, the killing
+      fields of Ukraine devoured lives with a ruthless, mechanical precision. Woman,
+      Life, Freedom, the campaign by Kurdish heroines, had been trampled by the manosphere’s
+      unyielding juggernaut, lost, as though the three little words had never been whispered
+      at all. And from Palestine, the acrid stench of genocide drifted on the wind across
+      the eastern Mediterranean, which grimly confirmed to me the fragility of humanity’s
+      most solemn promises to itself. Authoritarianism was entrenching itself as the
+      new world order. My political struggles against it had met with three consecutive
+      electoral defeats in the space of one year, making me feel like a doomed character
+      in some twisted simulation. And then came the violence, the thugs who broke my
+      face in front of my wife and friends. It was the anguish in their eyes that haunted
+      me, their expressions of pained helplessness that cut far deeper than the ringleader’s
+      iron fist ever could. For the first time, I felt my age, the gravity of my sixty-plus
+      years a remorseless force that weighed me down like a stone, cold, heavy and inevitable.
+      I was in injury time now and, all around, the world seemed to shudder, the grapes
+      of wrath swelling, heavy and black, ready for yet another cruel harvest. It was
+      then that I turned to the five women who had shaped me, whose incredible stories
+      I carried like a secret flame. I would write them down, I decided, not to escape
+      the darkness but to confront it, to let their strength, their love, lift me as
+      my mother used to. She had always known how to find the light even in the deepest
+      dark. And so, I would save their stories from oblivion, not for glory or for gain,
+      but for the simple, stubborn hope of rising again. It proved one of my better
+      decisions. Recording their lives opened a portal to something far greater: it
+      revealed the origins of our current predicament, and it linked Europe and America
+      to north Africa and the Near East. Every word I wrote raised my soul a little.
+      This book belongs to the tradition of fictionalised history, an earnest attempt
+      to bridge the gaps between the available facts and what I remember, while keeping
+      at bay the urge to colonise the past with my myths. In writing it, I had an advantage:
+      unlike historians studying distant subjects, I was deeply involved in the lives
+      of the protagonists. Besides my vivid memories of them, I was also aided by the
+      sources that had been lying around the house I was born and raised in: letters,
+      diaries, photo albums, one of them dating to 1920s Egypt, as well as thirty-seven
+      8mm home movies made by my father, which I keep in an orange box by my desk. Throughout,
+      every time I put words into someone’s mouth, it is because I’ve been told it is
+      something they said, or because it is something they could plausibly have said,
+      judging by conversations I witnessed over the years. And whenever there is dialogue,
+      I have tried to capture the essence of the person I knew – their voice, their
+      spirit. Two younger women appear fleetingly in these pages – my sister and my
+      daughter – yet it is for them too that I wrote this book, hoping that they will
+      see themselves in its marrow, that they too will recognise their heritage. It
+      is also my solemn hope that in immersing yourself in the worlds of Eleni, Anna,
+      Trisevgeni, Georgia and Danaë, you too, dear reader, might rediscover your resolve
+      to resist authoritarianism, fascism and chauvinism, and feel your soul growing
+      lighter, even if just a little. Yanis Varoufakis, April 2025 THE FIVE WOMEN FEATURED
+      IN THIS BOOK’S FIVE PARTS (And listen to me talk about them on BBC Radio 4’s START
+      THE WEEK here ) PART 1 – ELENI (1929-2008) PART 2 – ANNA (1905-1953) PART 3 –
+      TRISEVGENI (1899-1983) PART 4 – GEORGIA (1923-2011) PART 5 – DANAË (1964-) PART
+      ONE – Eleni Chapter 1 – Hotel Pefkakia Eleni’s lips stiffened as the taxi set
+      us down at the entrance of the boutique hotel in Drosia, a leafy northern suburb
+      of Athens. Before we got out, she put her arm around me and whispered, ‘Raise
+      your soul, my son,’ into my ear. The shuttered windows and lifeless façade were
+      the first signal that something was amiss. The second was the two fierce men standing
+      on the pavement, adorned in military police uniforms emblazoned with the logo
+      of ESA, our version of the Gestapo. It was early September 1969. Hotel Pefkakia
+      had been commandeered by ESA and converted into a temporary holding gaol for the
+      regime’s most embarrassing political prisoners. One of them was Panayis – Eleni’s
+      older brother, my favourite uncle, whom we had come to visit. Heavily pregnant
+      with my sister, Eleni struggled out of the taxi and swayed unsteadily towards
+      the entrance. I still treasure the memory of her leaning on me for support. Sat
+      down in front of what used to be the quaint reception, we waited, dread and expectation
+      drawn on Eleni’s face. Before long, a rigid man in a dusty brown suit arrived
+      with a gang of uniformed henchmen in tow. As he passed us, he stopped and expressionlessly
+      peered down, first at me, then at Eleni. Furious that she would not make eye contact,
+      he grabbed her jaw violently, forcing her gaze, and slapped her across the face
+      yelling: ‘When I look at you, you look at me. Got it, whore?’ Satisfied, he turned
+      towards me, grinned widely and, with the same hand, patted my head saying, ‘That’s
+      a good boy,’ before receding into the hotel’s interior. Eleni looked at me. ‘Remember
+      what I said?’ she said, squeezing my left hand. ‘Keep your soul up high, let it
+      soar above the filth.’ I cannot remember how long we waited before we were eventually
+      ushered by one of the guards into the room in which Panayis was being held. Even
+      though it was morning, the closed shutters kept the room dark, concealing his
+      state after weeks of relentless interrogation and torture. Long before my eyes
+      had adjusted to make out his features, I heard his distinctive voice, and felt
+      his gentle embrace. He showered me with questions about school, jokes about Eleni
+      and lashes of almost grotesque exuberance which, nonetheless, made me giggle.
+      Eleni looked on while her brother and her son pretended to be somewhere else.
+      Panayis then said: ‘I’ve got something for you, to make amends for being such
+      a terrible godfather.’ He reached under his bed and pulled out a model aeroplane,
+      which, thanks to his considerable engineering skills, he had fashioned out of
+      matchsticks, cigarette paper and carton. As Eleni and Panayis chatted in muted
+      voices, I sat on the bed, mesmerised by the plane which, courtesy of the countless
+      war movies I had watched, I recognised instantly. It was a Stuka, a Junker Ju-87
+      to be precise, with black iron crosses and Swastikas that Panayis had somehow
+      painted on its wings and tail, eerily resembling the infamous Luftwaffe dive bomber
+      that had terrorised populations across Europe and north Africa. When the guard
+      terminated our brief reunion, Panayis hugged us and made sure I did not leave
+      my gift behind. ‘A Nazi plane? Really?’ Eleni asked disapprovingly. ‘Of course,
+      this they may let him keep – as good Nazis, they ought to appreciate it,’ he replied,
+      smiling mischievously. He was not wrong. Once we were out in corridor, a passing
+      petty officer spotted my Stuka and smirked with approval. At reception, where
+      Eleni was frisked before collecting her identity card, a couple of ESA nasties
+      spotted my plane. ‘What’s this?’ the taller of the two asked in a menacing voice
+      feigning intrigue. ‘He made you a Stuka, did he now? Let me see. Does it fly?’
+      Before I could protest, he snatched it from me and launched it violently against
+      the wall. It was his way of provoking Eleni, seeking a confrontation. But Eleni
+      did not bite. She quietly picked up the broken Stuka from the carpeted floor,
+      took my hand and, looking straight ahead, led me to the fresh air outside. We
+      walked for what felt like ages, never looking back, until Eleni hailed a taxi.
+      Despite its crash, my Stuka was in relatively good nick. Nothing a little glue
+      couldn’t fix. I could not wait to show my dad, Yorgo, my new toy at home. It all
+      looked promising, at first. Yorgo welcomed us at the front door with a generous
+      smile and the three of us strolled into the kitchen. Eleni took my Stuka and gave
+      it to Yorgo, who placed it on the kitchen table, without either of them exchanging
+      a word, leading me to believe that they had telepathically communicated with one
+      another about how to fix it. But to my horror, instead of mending it, they cut
+      its fuselage in half, and carefully retrieved a tiny piece of paper, on which
+      Panayis had written a message to his comrades on how to coordinate their testimonies
+      during their forthcoming court martial. My model plane was a ruse. Nevertheless,
+      once lovingly repaired, it remained a prized possession, until sometime in the
+      late 1990s when its fragile materials succumbed to the sands of time. To this
+      day, when I think of my little Stuka, my heart fills with unalloyed delight. ****
+      To order the book from Bookshop.org click here , for the Waterstone’s site here,
+      and here for the AUDIOBOOK (which I have read out myself!). Oh, and here is Penguin’s
+      official site. The post RAISE YOUR SOUL! My new book telling the story of the
+      last 100 years through the voices of 5 remarkable women appeared first on Yanis
+      Varoufakis .'
+    one_sentence_summary: The article introduces the author's new book, "RAISE YOUR
+      SOUL!", which tells the inspiring stories of five women who resisted fascism and
+      chauvinism over a century, aiming to provide hope and guidance in the face of
+      contemporary societal challenges.
+    paragraph_summary: In the introduction to her new book, "RAISE YOUR SOUL!", the
+      author presents a narrative that diverges from her previous works by focusing
+      on the stories of five women who resisted fascism, authoritarianism, and chauvinism
+      over the past century. She emphasizes the relevance of their voices in today's
+      climate, which is rife with similar threats, and suggests that their experiences
+      can inspire resilience against despair and oppression. The prologue reflects her
+      personal struggles during a bleak 2024, marked by the pervasive presence of fascism
+      and the ongoing crises in Ukraine and Palestine, highlighting the fragility of
+      humanity's commitments to justice and freedom. The author aims to share these
+      women's lessons on empowerment and resistance, urging readers to find hope and
+      strength in their stories.
+    published: '2025-10-15T09:14:19+00:00'
   - title: 'A Trust Fund for Everyone: How to create a Monetary Commons that socialises
       money and funds a basic dividend without new taxes or debt'
     url: https://www.yanisvaroufakis.eu/2025/10/10/25876/

@@ -7,19 +7,1104 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  Amid ongoing turmoil in the Middle East and Eastern Europe, recent developments highlight persistent challenges in diplomatic legitimacy, Western policymaking, and the influence of financial interests on conflict dynamics.
+  The geopolitical landscape remains volatile as diplomatic efforts between the United States and Russia face renewed uncertainty. In the latest development, the anticipated meeting between Donald Trump and Vladimir Putin in Budapest has been abruptly canceled. According to **Larry C. Johnson**, a White House official attributed the cancellation to a "productive call" between Secretary of State Marco Rubio and Russian Foreign Minister Sergey Lavrov, but skepticism persists regarding the effectiveness of Trump's attempts to broker a ceasefire in Ukraine.
   
-  The latest reports focus on the fallout from Donald Trump’s recently announced Gaza Peace Plan. **Larry C. Johnson** sharply criticizes the event as a “wedding without a bride and groom,” noting that while international dignitaries were present, both Israeli and Palestinian representatives were conspicuously absent. This, Johnson argues, renders the agreement “a farcical event that lacks legitimacy and meaningful engagement.” The absence of the key stakeholders underscores the continued lack of substantive progress toward a durable solution in the Israel-Palestine conflict.
+  This cancellation comes amid ongoing revelations about the complexity of back-channel communications. Recent reports indicate that Trump has engaged in more extensive private conversations with Putin than previously disclosed, suggesting a nuanced and possibly fragmented approach to resolving the Ukraine conflict. Despite these efforts, Putin remains firm on his territorial demands, and there is little indication of flexibility from the Russian side.
   
-  In parallel, Johnson addresses the problematic nature of Western discourse on these issues, particularly the “delusional thinking” among some Western Zionists. He contends that financial success and academic credentials do not necessarily translate into sound geopolitical judgment, especially when it comes to complex crises like those in Gaza and Ukraine. Johnson’s critique suggests a broader disconnect between elite opinion and on-the-ground realities, a theme increasingly echoed in independent analysis.
+  On the ground, Russian military operations continue to shape the conflict's trajectory. **Lt. General Apti Alaudinov** recently discussed his leadership in retaking the town of Sudzha in the Kursk region from Ukrainian forces, highlighting the strategic use of infrastructure such as gas pipelines in military operations. These developments underscore the ongoing intensity and complexity of the conflict, with both sides employing a mix of conventional and unconventional tactics.
   
-  Meanwhile, scrutiny of Western involvement in Ukraine intensifies. Johnson highlights the case of former UK Prime Minister Boris Johnson, who received a $1 million donation from political donor Christopher Harborne—an individual with vested interests in prolonging the Ukraine conflict. The timing of the donation, coupled with Boris Johnson’s recent visit to Ukraine alongside Harborne, raises questions about the influence of private money on foreign policy decisions. This revelation adds to growing concerns about the motivations behind continued Western support for Ukraine, especially as the conflict drags on with no clear resolution in sight.
+  Meanwhile, Western narratives about Russia and its leadership remain a point of contention. **Larry C. Johnson** critiques the persistent focus on Vladimir Putin's personality in Western media, arguing that this oversimplification leads to widespread misconceptions about Russia's motives and the broader geopolitical stakes.
   
-  **Trends and Predictions:**  
-  The majority of independent analysis now views Western diplomatic efforts in the Middle East as largely performative, with little expectation of near-term breakthroughs. The influence of private interests on Ukraine policy is likely to face increased scrutiny, potentially undermining public support for further engagement. As Johnson notes, “the lack of legitimacy and meaningful engagement” in peace initiatives suggests that both the Israel-Palestine and Ukraine conflicts will remain unresolved for the foreseeable future.
-  
-  With high confidence, it is most definitely expected that absent genuine participation from the primary parties, diplomatic efforts like Trump’s Gaza plan will fail to produce lasting outcomes. There is also a high chance that revelations about financial influence in Ukraine policy will fuel further skepticism about Western motives and the sustainability of current strategies.
+  Looking ahead, the cancellation of the Trump-Putin summit signals a period of diplomatic stagnation, with "high chance" that substantive progress on a Ukraine ceasefire will remain elusive in the near term. The entrenched positions of both Moscow and Washington, combined with ongoing military operations, suggest that the conflict is set to persist, with only incremental shifts likely barring a major external shock. The prevailing trend is one of continued stalemate, with diplomatic gestures overshadowed by hard realities on the ground.
 articles:
+  - title: Donald Trump’s Russia Policy… In Tatters or Just Playing?
+    url: https://sonar21.com/donald-trumps-russia-policy-in-tatters-or-just-playing/
+    text: 'News broke tonight in Moscow, courtesy of the White House, that this week’s
+      meeting between Donald Trump and Vladimir Putin was off. The initial press reports
+      intimated that this was because the two sides are at odds… However, a report from
+      MSN provides a different slant : President Donald Trump and Russian President
+      Vladimir Putin are no longer meeting in Budapest as previously planned , casting
+      doubt over Trump’s latest attempt to secure a ceasefire to stop Russia’s fighting
+      in Ukraine. A White House official confirmed the summit is off, telling USA TODAY
+      that a “productive call” between Secretary of State Marco Rubio and Russian Foreign
+      Minister Sergey Lavrov made the meeting unnecessary. The official said Trump and
+      Putin have no plans to meet in the immediate future. With the White House describing
+      the call between Rubio and Lavrov as “productive,” the diplomatic track remains
+      open. However, this does not mean that Russia is prepared to make concessions
+      or accept a ceasefire in place… Just the opposite. The Russian position is firm
+      and unyielding, i.e., international recognition of Russia’s sovereignty over the
+      Crimea, Zaporhyzhia, Kherson, Donetsk and Luhansk; withdrawal of Ukrainian troops
+      from Russian territory; and NATO withdrawal from Ukraine. I think the elaborate
+      kabuki dance I described in my recent piece on the now cancelled summit in Budapest
+      still applies, i.e., Trump and Putin are regularly communicating in an effort
+      to de-escalate tensions between the two nations, while Trump is making public
+      statements or engaging in public actions that are intended to disarm or mislead
+      the war hawks in his Administration who are eager to expand the war with Russia.
+      I gleaned some new insights into the Ukrainian motivation to continue the war
+      from former Prime Minister Nikolai Azarov (2010 – 2014) and Vasily Vakarov, a
+      former Ukrainian prosecutor responsible for anti-corruption investigations. Both
+      men commented on the role that corrupt Ukrainian oligarchs are playing in keeping
+      the war going because they are profiting from it to the tune of billions of dollars…
+      It ain’t Zelensky who is calling the shots. Ukraine’s President Zelensky appears
+      to be the highest paid actor in the world, if not in history. To summarize, I
+      think Trump has decided to sit on the sidelines and watch Russia finish off Ukraine.
+      He will continue to pretend to be willing to help, but will look to Europe and
+      Ukraine to do the heavy lifting, which he knows they can’t. The ball is in Putin’s
+      court to finish the Ukrainians. I will provided a full update tomorrow on my meetings
+      today. I figured out a way to copy and past the link to two of my recent YouTube
+      interviews… The first is from Friday with Nima and the second was recorded tonight,
+      Moscow time. https://www.youtube.com/live/VCz7FOMtb58?si=1ACSqWLNPjenX0Da Here’s
+      the link for the second video. https://www.youtube.com/live/VCz7FOMtb58?si=1ACSqWLNPjenX0Da
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The planned meeting between Donald Trump and Vladimir Putin
+      in Budapest has been canceled, with a White House official citing a productive
+      call between Secretary of State Marco Rubio and Russian Foreign Minister Sergey
+      Lavrov as the reason, while casting doubt on Trump's efforts to secure a ceasefire
+      in Ukraine.
+    paragraph_summary: The White House announced that the planned meeting between President
+      Donald Trump and Russian President Vladimir Putin in Budapest has been canceled,
+      raising concerns about Trump's efforts to negotiate a ceasefire in the ongoing
+      conflict in Ukraine. While a "productive" call between Secretary of State Marco
+      Rubio and Russian Foreign Minister Sergey Lavrov was cited as the reason for the
+      cancellation, it does not indicate any willingness from Russia to make concessions
+      regarding its demands for international recognition of its sovereignty over occupied
+      territories and the withdrawal of Ukrainian and NATO forces. The article suggests
+      that Trump and Putin continue to communicate to manage tensions, while Trump publicly
+      navigates the pressures from more hawkish elements within his administration.
+      Insights from former Ukrainian officials highlight the influence of corrupt oligarchs
+      on Ukraine's ongoing resistance in the war.
+    published: '2025-10-21T21:07:25+00:00'
+  - title: Donald Trump’s Russia Policy… In Tatters or Just Playing?
+    url: https://sonar21.com/donald-trumps-russia-policy-in-tatters-or-just-playing/
+    text: 'News broke tonight in Moscow, courtesy of the White House, that this week’s
+      meeting between Donald Trump and Vladimir Putin was off. The initial press reports
+      intimated that this was because the two sides are at odds… However, a report from
+      MSN provides a different slant : President Donald Trump and Russian President
+      Vladimir Putin are no longer meeting in Budapest as previously planned , casting
+      doubt over Trump’s latest attempt to secure a ceasefire to stop Russia’s fighting
+      in Ukraine. A White House official confirmed the summit is off, telling USA TODAY
+      that a “productive call” between Secretary of State Marco Rubio and Russian Foreign
+      Minister Sergey Lavrov made the meeting unnecessary. The official said Trump and
+      Putin have no plans to meet in the immediate future. With the White House describing
+      the call between Rubio and Lavrov as “productive,” the diplomatic track remains
+      open. However, this does not mean that Russia is prepared to make concessions
+      or accept a ceasefire in place… Just the opposite. The Russian position is firm
+      and unyielding, i.e., international recognition of Russia’s sovereignty over the
+      Crimea, Zaporhyzhia, Kherson, Donetsk and Luhansk; withdrawal of Ukrainian troops
+      from Russian territory; and NATO withdrawal from Ukraine. I think the elaborate
+      kabuki dance I described in my recent piece on the now cancelled summit in Budapest
+      still applies, i.e., Trump and Putin are regularly communicating in an effort
+      to de-escalate tensions between the two nations, while Trump is making public
+      statements or engaging in public actions that are intended to disarm or mislead
+      the war hawks in his Administration who are eager to expand the war with Russia.
+      I gleaned some new insights into the Ukrainian motivation to continue the war
+      from former Prime Minister Nikolai Azarov (2010 – 2014) and Vasily Vakarov, a
+      former Ukrainian prosecutor responsible for anti-corruption investigations. Both
+      men commented on the role that corrupt Ukrainian oligarchs are playing in keeping
+      the war going because they are profiting from it to the tune of billions of dollars…
+      It ain’t Zelensky who is calling the shots. Ukraine’s President Zelensky appears
+      to be the highest paid actor in the world, if not in history. To summarize, I
+      think Trump has decided to sit on the sidelines and watch Russia finish off Ukraine.
+      He will continue to pretend to be willing to help, but will look to Europe and
+      Ukraine to do the heavy lifting, which he knows they can’t. The ball is in Putin’s
+      court to finish the Ukrainians. I will provided a full update tomorrow on my meetings
+      today. I figured out a way to copy and past the link to two of my recent YouTube
+      interviews… The first is from Friday with Nima and the second was recorded tonight,
+      Moscow time. https://www.youtube.com/live/VCz7FOMtb58?si=1ACSqWLNPjenX0Da Here’s
+      the link for the second video. https://www.youtube.com/live/VCz7FOMtb58?si=1ACSqWLNPjenX0Da
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The planned meeting between Donald Trump and Vladimir Putin
+      in Budapest has been canceled, with a White House official citing a productive
+      call between Secretary of State Marco Rubio and Russian Foreign Minister Sergey
+      Lavrov as the reason, while casting doubt on Trump's efforts to secure a ceasefire
+      in Ukraine.
+    paragraph_summary: The White House announced that the planned meeting between President
+      Donald Trump and Russian President Vladimir Putin in Budapest has been canceled,
+      raising concerns about Trump's efforts to negotiate a ceasefire in the ongoing
+      conflict in Ukraine. While a "productive" call between Secretary of State Marco
+      Rubio and Russian Foreign Minister Sergey Lavrov was cited as the reason for the
+      cancellation, it does not indicate any willingness from Russia to make concessions
+      regarding its demands for international recognition of its sovereignty over occupied
+      territories and the withdrawal of Ukrainian and NATO forces. The article suggests
+      that Trump and Putin continue to communicate to manage tensions, while Trump publicly
+      navigates the pressures from more hawkish elements within his administration.
+      Insights from former Ukrainian officials highlight the influence of corrupt oligarchs
+      on Ukraine's ongoing resistance in the war.
+    published: '2025-10-21T21:07:25+00:00'
+  - title: Getting to Know Russia
+    url: https://sonar21.com/getting-to-know-russia/
+    text: 'Today was fascinating and exhausting. I had six separate podcasts, where
+      I interviewed the following six gentleman. Quite a diverse group… Three are members
+      of the Duma, one is the former Prime Minister of Ukraine, one is a popular journalist
+      and one — Mr. Ionov — played basketball at an Alabama prep school and has a $10
+      million FBI bounty on his head. More about him later. All of these will eventually
+      be translated and posted into English. I will keep you posted. Let’s start with
+      Evgeny Popov: Evgeny Georgievich Popov (born September 11, 1978, Moscow) is a
+      Russian journalist, television host, correspondent, and political commentator.
+      He is the host of the programs “60 Minutes” and “Evening with Vladimir Solovyov”
+      on the Rossiya-1 TV channel. A deputy of the State Duma of the VIII convocation
+      and a member of the State Duma Committee on International Affairs, he is known
+      as one of the most prominent representatives of the state-patriotic position in
+      Russian media. Current Status in 2025: Deputy of the State Duma of the Russian
+      Federation Member of the State Duma Committee on International Affairs Host of
+      “60 Minutes” and “Evening with Vladimir Solovyov” Regular participant in key international
+      political forums As we chatted after our recorded session, I learned that Evgeny
+      has traveled to 44 of the 50 states. He actually like American and Americans even
+      though he is on the sanction list and is no longer allowed to visit the US. Yep,
+      we can’t have bona fide journalists wandering around America… He might report
+      some real news. Next up, Dmitry Nosov: Dmitry Yuryevich Nosov (born October 17,
+      1980, Irkutsk) is a Russian politician and statesman. He is a Deputy of the State
+      Duma of the Federal Assembly of the Russian Federation and a member of the State
+      Duma Committee on Physical Culture, Sports, Tourism, and Youth Affairs. A former
+      professional athlete, he holds the titles of Master of Sports in Judo and Sambo
+      and is an Honored Master of Sports of Russia. He is known for his active civic
+      stance and work in youth policy and sports development. He was the main lobbyist
+      of the anti-tobacco law and has authored 40 legislative proposals. Of the four
+      laws adopted despite the government’s opposition, two were initiated by Nosov.
+      He is one of Putin’s favorite judokas—they first met in person in 2004. Nosov
+      has also worked in television. Current Status in 2025: Deputy of the State Duma
+      of the Russian Federation Member of the State Duma Committee on Physical Culture,
+      Sports, Tourism, and Youth Affairs Member of the State Duma Commission on the
+      Development of the Far East and the Arctic Member of the Interfactional Parliamentary
+      Group for Sports Development Dimitry is a terrific young guy who is focused on
+      promoting youth sports and encouraging a healthy life style. I asked him about
+      if there was a religious influence in his life and he replied, “my parents are
+      communists and we did not focus on religion as a grew up.” However, he emphasized
+      that his parents taught him the importance of honesty and integrity, which he
+      insisted continues to guide his life. Meet the Prime Minister: Nikolai Yanovich
+      Azarov (born December 17, 1947, Kaluga) is a Russian and Ukrainian statesman,
+      scientist, and politician. He served as Prime Minister of Ukraine (2010-2014)
+      and was a People’s Deputy of Ukraine in several convocations. He holds a Doctor
+      of Geological-Mineralogical Sciences degree and is a professor. Since 2014, he
+      has resided in Russia and actively engages in socio-political activities. He is
+      the Co-chairman of the International “National Unity Club.” Current Status in
+      2025: Co-chairman of the International ” National Unity Club” Advisor on International
+      Affairs Regular expert on Russian political talk shows Author of publications
+      on Ukrainian politics and international relations Nikolai is a delightful gentleman.
+      He does carry an air of sadness given what has happened to the country he once
+      served. He reminded my that Ukraine had 57 million people as residents in 2012,
+      but it now hovering around 20,000. Meet Alexander, the political terrorist worse
+      than Al-Jawlani: This kid was a genuine delight. Alexander Viktorovich Ionov (born
+      December 12, 1989, Moscow) is a Russian political figure, President of the Anti-Globalization
+      Movement of Russia since 2011. He is accused by the United States of organizing
+      a “malicious campaign” to interfere in American elections and is on the FBI’s
+      Most Wanted list with a reward of up to $10 million for information leading to
+      his arrest. He holds two higher education degrees in economics and vocational
+      education. Current Status in 2025: President of the Anti-Globalization Movement
+      of Russia Defendant in U.S. criminal cases Former member of the Public Oversight
+      Commission (until 2021) Subject of U.S. Treasury Department sanctions lists The
+      charges against him are outrageous. Think about this… He has not killed a single
+      person or directed someone else to kill Shia, Christians or Kurds, yet the US
+      Government still has a reward for $10 million on his head while a bona fide international
+      terrorist — Al Jawlani — has the blood of thousands on his hands but gets a pass
+      by the Trump administration. A Hard Ass General: Andrey Viktorovich Gurulyov is
+      a Russian statesman and military expert. He is a Deputy of the State Duma of the
+      Federal Assembly of the Russian Federation and a member of the State Duma Committee
+      on Defense. A retired Lieutenant General and former commander of the 58th Combined
+      Arms Army, he is a combat veteran who participated in counter-terrorism operations
+      in the North Caucasus. He is known as one of the most hardline and principled
+      military experts in Russian politics. Current Status in 2025: Deputy of the State
+      Duma of the Russian Federation Member of the State Duma Committee on Defense Member
+      of the State Duma Commission on the Development of the Far East and the Arctic
+      Regular military affairs expert in federal media If a scriptwriter wanted to create
+      a character for a Hollywood movie about the battle of Stalingrad, General Gurulyov
+      is your man. He is no nonsense and very direct… But he also has a robust sense
+      of humor. He agreed with me that the Russian General Staff has now embarked on
+      a comprehensive attack designed to force the collapse of the Ukrainian military.
+      Lastly, there was Abbas Dzhuma: Abbas Dzhuma (born July 10, 1993, Moscow) is a
+      Russian international journalist, host at Radio Komsomolskaya Pravda, publicist,
+      and participant in political talk shows. He specializes in analyzing geopolitical
+      events in the Middle East and Central Asia. Fluent in Russian, Arabic, and English.
+      Of mixed Russian-Syrian heritage. Head of the press service of the charitable
+      foundation “SVOIM.” Current Status in 2025: Host at Radio Komsomolskaya Pravda
+      Head of the press service of the “SVOIM” foundation Regular expert on federal
+      television channels Board member of the “SVOIM” charitable foundation SVOIM is
+      a charity focused on providing longterm medical assistance to Russian veterans
+      who were wounded in the Special Military Operation (SMO). He is not just sitting
+      back watching things happen… He has taken up the cause of SVOIM and is making
+      a difference in the lives of people. After talking with these gentlemen for more
+      than six hours, I was exhausted but also exhilarated.. I had a better understanding
+      of Russian patriotism and Russian thinking. I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The author conducted six diverse podcast interviews, including
+      a former Ukrainian Prime Minister, Duma members, a journalist, and a man with
+      a $10 million FBI bounty, with plans to translate and share the content in English.
+    paragraph_summary: Today was both fascinating and exhausting as I conducted six
+      diverse podcast interviews with notable figures, including three members of the
+      Duma, the former Prime Minister of Ukraine, a popular journalist, and Mr. Ionov,
+      a basketball player with a $10 million FBI bounty on his head. One of the guests,
+      Evgeny Popov, is a prominent Russian journalist and television host known for
+      his state-patriotic stance, despite being on a sanctions list that prevents him
+      from visiting the U.S. He has traveled extensively across America and expresses
+      a fondness for the country and its people. Another guest, Dmitry Nosov, is a Deputy
+      of the State Duma and a former professional athlete with accolades in judo and
+      sambo. The interviews will be translated and shared in English soon.
+    published: '2025-10-20T20:39:41+00:00'
+  - title: Getting to Know Russia
+    url: https://sonar21.com/getting-to-know-russia/
+    text: 'Today was fascinating and exhausting. I had six separate podcasts, where
+      I interviewed the following six gentleman. Quite a diverse group… Three are members
+      of the Duma, one is the former Prime Minister of Ukraine, one is a popular journalist
+      and one — Mr. Ionov — played basketball at an Alabama prep school and has a $10
+      million FBI bounty on his head. More about him later. All of these will eventually
+      be translated and posted into English. I will keep you posted. Let’s start with
+      Evgeny Popov: Evgeny Georgievich Popov (born September 11, 1978, Moscow) is a
+      Russian journalist, television host, correspondent, and political commentator.
+      He is the host of the programs “60 Minutes” and “Evening with Vladimir Solovyov”
+      on the Rossiya-1 TV channel. A deputy of the State Duma of the VIII convocation
+      and a member of the State Duma Committee on International Affairs, he is known
+      as one of the most prominent representatives of the state-patriotic position in
+      Russian media. Current Status in 2025: Deputy of the State Duma of the Russian
+      Federation Member of the State Duma Committee on International Affairs Host of
+      “60 Minutes” and “Evening with Vladimir Solovyov” Regular participant in key international
+      political forums As we chatted after our recorded session, I learned that Evgeny
+      has traveled to 44 of the 50 states. He actually like American and Americans even
+      though he is on the sanction list and is no longer allowed to visit the US. Yep,
+      we can’t have bona fide journalists wandering around America… He might report
+      some real news. Next up, Dmitry Nosov: Dmitry Yuryevich Nosov (born October 17,
+      1980, Irkutsk) is a Russian politician and statesman. He is a Deputy of the State
+      Duma of the Federal Assembly of the Russian Federation and a member of the State
+      Duma Committee on Physical Culture, Sports, Tourism, and Youth Affairs. A former
+      professional athlete, he holds the titles of Master of Sports in Judo and Sambo
+      and is an Honored Master of Sports of Russia. He is known for his active civic
+      stance and work in youth policy and sports development. He was the main lobbyist
+      of the anti-tobacco law and has authored 40 legislative proposals. Of the four
+      laws adopted despite the government’s opposition, two were initiated by Nosov.
+      He is one of Putin’s favorite judokas—they first met in person in 2004. Nosov
+      has also worked in television. Current Status in 2025: Deputy of the State Duma
+      of the Russian Federation Member of the State Duma Committee on Physical Culture,
+      Sports, Tourism, and Youth Affairs Member of the State Duma Commission on the
+      Development of the Far East and the Arctic Member of the Interfactional Parliamentary
+      Group for Sports Development Dimitry is a terrific young guy who is focused on
+      promoting youth sports and encouraging a healthy life style. I asked him about
+      if there was a religious influence in his life and he replied, “my parents are
+      communists and we did not focus on religion as a grew up.” However, he emphasized
+      that his parents taught him the importance of honesty and integrity, which he
+      insisted continues to guide his life. Meet the Prime Minister: Nikolai Yanovich
+      Azarov (born December 17, 1947, Kaluga) is a Russian and Ukrainian statesman,
+      scientist, and politician. He served as Prime Minister of Ukraine (2010-2014)
+      and was a People’s Deputy of Ukraine in several convocations. He holds a Doctor
+      of Geological-Mineralogical Sciences degree and is a professor. Since 2014, he
+      has resided in Russia and actively engages in socio-political activities. He is
+      the Co-chairman of the International “National Unity Club.” Current Status in
+      2025: Co-chairman of the International ” National Unity Club” Advisor on International
+      Affairs Regular expert on Russian political talk shows Author of publications
+      on Ukrainian politics and international relations Nikolai is a delightful gentleman.
+      He does carry an air of sadness given what has happened to the country he once
+      served. He reminded my that Ukraine had 57 million people as residents in 2012,
+      but it now hovering around 20,000. Meet Alexander, the political terrorist worse
+      than Al-Jawlani: This kid was a genuine delight. Alexander Viktorovich Ionov (born
+      December 12, 1989, Moscow) is a Russian political figure, President of the Anti-Globalization
+      Movement of Russia since 2011. He is accused by the United States of organizing
+      a “malicious campaign” to interfere in American elections and is on the FBI’s
+      Most Wanted list with a reward of up to $10 million for information leading to
+      his arrest. He holds two higher education degrees in economics and vocational
+      education. Current Status in 2025: President of the Anti-Globalization Movement
+      of Russia Defendant in U.S. criminal cases Former member of the Public Oversight
+      Commission (until 2021) Subject of U.S. Treasury Department sanctions lists The
+      charges against him are outrageous. Think about this… He has not killed a single
+      person or directed someone else to kill Shia, Christians or Kurds, yet the US
+      Government still has a reward for $10 million on his head while a bona fide international
+      terrorist — Al Jawlani — has the blood of thousands on his hands but gets a pass
+      by the Trump administration. A Hard Ass General: Andrey Viktorovich Gurulyov is
+      a Russian statesman and military expert. He is a Deputy of the State Duma of the
+      Federal Assembly of the Russian Federation and a member of the State Duma Committee
+      on Defense. A retired Lieutenant General and former commander of the 58th Combined
+      Arms Army, he is a combat veteran who participated in counter-terrorism operations
+      in the North Caucasus. He is known as one of the most hardline and principled
+      military experts in Russian politics. Current Status in 2025: Deputy of the State
+      Duma of the Russian Federation Member of the State Duma Committee on Defense Member
+      of the State Duma Commission on the Development of the Far East and the Arctic
+      Regular military affairs expert in federal media If a scriptwriter wanted to create
+      a character for a Hollywood movie about the battle of Stalingrad, General Gurulyov
+      is your man. He is no nonsense and very direct… But he also has a robust sense
+      of humor. He agreed with me that the Russian General Staff has now embarked on
+      a comprehensive attack designed to force the collapse of the Ukrainian military.
+      Lastly, there was Abbas Dzhuma: Abbas Dzhuma (born July 10, 1993, Moscow) is a
+      Russian international journalist, host at Radio Komsomolskaya Pravda, publicist,
+      and participant in political talk shows. He specializes in analyzing geopolitical
+      events in the Middle East and Central Asia. Fluent in Russian, Arabic, and English.
+      Of mixed Russian-Syrian heritage. Head of the press service of the charitable
+      foundation “SVOIM.” Current Status in 2025: Host at Radio Komsomolskaya Pravda
+      Head of the press service of the “SVOIM” foundation Regular expert on federal
+      television channels Board member of the “SVOIM” charitable foundation SVOIM is
+      a charity focused on providing longterm medical assistance to Russian veterans
+      who were wounded in the Special Military Operation (SMO). He is not just sitting
+      back watching things happen… He has taken up the cause of SVOIM and is making
+      a difference in the lives of people. After talking with these gentlemen for more
+      than six hours, I was exhausted but also exhilarated.. I had a better understanding
+      of Russian patriotism and Russian thinking. I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The author conducted six diverse podcast interviews, including
+      a former Ukrainian Prime Minister, Duma members, a journalist, and a man with
+      a $10 million FBI bounty, with plans to translate and share the content in English.
+    paragraph_summary: Today was both fascinating and exhausting as I conducted six
+      diverse podcast interviews with notable figures, including three members of the
+      Duma, the former Prime Minister of Ukraine, a popular journalist, and Mr. Ionov,
+      a basketball player with a $10 million FBI bounty on his head. One of the guests,
+      Evgeny Popov, is a prominent Russian journalist and television host known for
+      his state-patriotic stance, despite being on a sanctions list that prevents him
+      from visiting the U.S. He has traveled extensively across America and expresses
+      a fondness for the country and its people. Another guest, Dmitry Nosov, is a Deputy
+      of the State Duma and a former professional athlete with accolades in judo and
+      sambo. The interviews will be translated and shared in English soon.
+    published: '2025-10-20T20:39:41+00:00'
+  - title: A Moscow Update
+    url: https://sonar21.com/a-moscow-update/
+    text: Receiving a Copy of General Apti Alaudinov’s Newest Book I have had an interesting
+      series of meetings since arriving in Moscow last Wednesday. I am getting the chance
+      to have in-depth chats with a variety of military and political leaders. I attended
+      a dinner tonight with Lt. General Apti Alaudinov, who played a major role in destroying
+      the Ukrainian force that invaded Kursk last year. The operation led by General
+      Apty Alaudinov involved Russian forces using a gas pipeline as a clandestine route
+      to recapture the town of Sudzha in the Kursk region in March 2025. The operation
+      began when Russian special forces, studying the map and the Ukrainian gas shutdown,
+      identified a strategic tunnel created by Ukraine at the gas pipeline, the main
+      route used for Russian gas transit to Europe. They then undertook a meticulous
+      plan to infiltrate the area through this pipeline, which involved digging a tunnel
+      and preparing it for an assault. The operation was launched on March 8, 2025,
+      at dawn, when several units navigated through the pipeline, emerging behind Ukrainian
+      lines. These units, including a significant force of reportedly between 600 and
+      800 men, moved stealthily through the pipeline—some traveling nearly 12-15 kilometers
+      depending on the exit point—using oxygen supplies, ammunition, and food stored
+      along the way. Under the command of Alaudinov, Russian forces marked themselves
+      with blue tape to deceive Ukrainian forces into misidentifying their units, a
+      tactic that could be considered a form of perfidy, possibly a war crime. This
+      bold, unconventional assault allowed Russian troops to penetrate deep behind Ukrainian
+      defenses, seize control of Sudzha, and begin a campaign to retake the town with
+      minimal resistance initially. The success of this operation was described by Alaudinov
+      as one of the most effective during the entire period of Russia’s special military
+      operation, with Russian forces continuing their offensive to destroy Ukrainian
+      forces in the region . In essence, General Alaudinov’s operation was a covert,
+      high-risk ingress through the gas pipeline, executing a surprise attack that turned
+      a critical supply route into a military pathway for retaking strategic territory.
+      Meeting General Alaudinov in person and having a chance to hear his story and
+      his attitude towards war was refreshing and humbling. He hates war and wants the
+      killing to stop. He takes great pride in being a muslim and a Russian patriot.
+      One thing that Russia has achieved since the collapse of Communism and the end
+      of the Chechen civil war, is religious liberty without sectarian strife. While
+      Russia is fundamentally an Orthodox Christian nation, its people embrace those
+      who practice other religions, Islam and Judaism in particular. The ten-year Chechen
+      war, that ended in 2010, was a very dark period in Russia’s modern history. Some
+      of the muslim radicals who carried out multiple terrorist attacks and tried to
+      declare Chechnya an independent country under Sharia law, had been trained by
+      Western intelligence agencies in Aghanistan. Yet in winning the war against the
+      muslim extremists, the Russian government embarked on a policy of reconciliation
+      and rebuilding. Today, the city of Grosny, which lay in ruins 15 years ago, now
+      shines as one of the most beautiful cities in Russia. I’m having trouble accessing
+      YouTube and Bitchute, so I will be unable to post my normal complement of videos.
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .
+    one_sentence_summary: The article recounts a series of meetings in Moscow, including
+      a dinner with Lt. General Apti Alaudinov, who discussed his pivotal role in a
+      successful military operation to reclaim the town of Sudzha in the Kursk region
+      from Ukrainian forces using a strategic gas pipeline.
+    paragraph_summary: The article recounts a series of meetings in Moscow, highlighting
+      a dinner with Lt. General Apti Alaudinov, who played a pivotal role in a military
+      operation that successfully reclaimed the town of Sudzha in the Kursk region from
+      Ukrainian forces in March 2025. The operation involved Russian special forces
+      utilizing a gas pipeline as a covert route to infiltrate Ukrainian defenses, marked
+      by meticulous planning and execution. On March 8, 2025, Russian troops, numbering
+      between 600 and 800, stealthily navigated through the pipeline, employing deception
+      tactics such as marking themselves with blue tape to confuse Ukrainian forces.
+      This unconventional assault led to a swift capture of Sudzha with minimal initial
+      resistance, and Alaudinov hailed it as one of the most effective operations during
+      Russia's military campaign.
+    published: '2025-10-19T22:49:28+00:00'
+  - title: A Moscow Update
+    url: https://sonar21.com/a-moscow-update/
+    text: Receiving a Copy of General Apti Alaudinov’s Newest Book I have had an interesting
+      series of meetings since arriving in Moscow last Wednesday. I am getting the chance
+      to have in-depth chats with a variety of military and political leaders. I attended
+      a dinner tonight with Lt. General Apti Alaudinov, who played a major role in destroying
+      the Ukrainian force that invaded Kursk last year. The operation led by General
+      Apty Alaudinov involved Russian forces using a gas pipeline as a clandestine route
+      to recapture the town of Sudzha in the Kursk region in March 2025. The operation
+      began when Russian special forces, studying the map and the Ukrainian gas shutdown,
+      identified a strategic tunnel created by Ukraine at the gas pipeline, the main
+      route used for Russian gas transit to Europe. They then undertook a meticulous
+      plan to infiltrate the area through this pipeline, which involved digging a tunnel
+      and preparing it for an assault. The operation was launched on March 8, 2025,
+      at dawn, when several units navigated through the pipeline, emerging behind Ukrainian
+      lines. These units, including a significant force of reportedly between 600 and
+      800 men, moved stealthily through the pipeline—some traveling nearly 12-15 kilometers
+      depending on the exit point—using oxygen supplies, ammunition, and food stored
+      along the way. Under the command of Alaudinov, Russian forces marked themselves
+      with blue tape to deceive Ukrainian forces into misidentifying their units, a
+      tactic that could be considered a form of perfidy, possibly a war crime. This
+      bold, unconventional assault allowed Russian troops to penetrate deep behind Ukrainian
+      defenses, seize control of Sudzha, and begin a campaign to retake the town with
+      minimal resistance initially. The success of this operation was described by Alaudinov
+      as one of the most effective during the entire period of Russia’s special military
+      operation, with Russian forces continuing their offensive to destroy Ukrainian
+      forces in the region . In essence, General Alaudinov’s operation was a covert,
+      high-risk ingress through the gas pipeline, executing a surprise attack that turned
+      a critical supply route into a military pathway for retaking strategic territory.
+      Meeting General Alaudinov in person and having a chance to hear his story and
+      his attitude towards war was refreshing and humbling. He hates war and wants the
+      killing to stop. He takes great pride in being a muslim and a Russian patriot.
+      One thing that Russia has achieved since the collapse of Communism and the end
+      of the Chechen civil war, is religious liberty without sectarian strife. While
+      Russia is fundamentally an Orthodox Christian nation, its people embrace those
+      who practice other religions, Islam and Judaism in particular. The ten-year Chechen
+      war, that ended in 2010, was a very dark period in Russia’s modern history. Some
+      of the muslim radicals who carried out multiple terrorist attacks and tried to
+      declare Chechnya an independent country under Sharia law, had been trained by
+      Western intelligence agencies in Aghanistan. Yet in winning the war against the
+      muslim extremists, the Russian government embarked on a policy of reconciliation
+      and rebuilding. Today, the city of Grosny, which lay in ruins 15 years ago, now
+      shines as one of the most beautiful cities in Russia. I’m having trouble accessing
+      YouTube and Bitchute, so I will be unable to post my normal complement of videos.
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .
+    one_sentence_summary: The article recounts a series of meetings in Moscow, including
+      a dinner with Lt. General Apti Alaudinov, who discussed his pivotal role in a
+      successful military operation to reclaim the town of Sudzha in the Kursk region
+      from Ukrainian forces using a strategic gas pipeline.
+    paragraph_summary: The article recounts a series of meetings in Moscow, highlighting
+      a dinner with Lt. General Apti Alaudinov, who played a pivotal role in a military
+      operation that successfully reclaimed the town of Sudzha in the Kursk region from
+      Ukrainian forces in March 2025. The operation involved Russian special forces
+      utilizing a gas pipeline as a covert route to infiltrate Ukrainian defenses, marked
+      by meticulous planning and execution. On March 8, 2025, Russian troops, numbering
+      between 600 and 800, stealthily navigated through the pipeline, employing deception
+      tactics such as marking themselves with blue tape to confuse Ukrainian forces.
+      This unconventional assault led to a swift capture of Sudzha with minimal initial
+      resistance, and Alaudinov hailed it as one of the most effective operations during
+      Russia's military campaign.
+    published: '2025-10-19T22:49:28+00:00'
+  - title: When an «Expert» Loses his Footing
+    url: https://sonar21.com/when-an-expert-loses-his-footing/
+    text: 'Gilbert Doctorow—self-proclaimed Russia expert—is maneuvering himself into
+      the sidelines with unsubstantiated and confused theories. By Peter Hanseler /
+      Andreas Mylaeus / Denis Dobrin via Forumgeopolitica.com Introduction Gilbert Doctorow,
+      who calls himself a “ Sovietologist ” and considers himself the only real Russia
+      expert in the independent media, has been peddling theories for several days that
+      leave even hardened political commentators speechless. Gilbert Doctorow on Judge
+      Napolitano – “Vanity is the shadow cast by inadequacies”. In an article published
+      in his “Armageddon Newsletter” on Substack on October 1, 2025, he went so far
+      as to claim that a palace revolution was imminent in the Kremlin in Moscow and
+      that Russian society increasingly viewed Vladimir Putin as a hated Gorbachev 2.0.
+      He also makes cheap suggestions for a successor to the Russian president, whose
+      government ship has now accumulated too much barnacle growth and become too cumbersome.
+      “Vanity is the shadow cast by inadequacies” This is so absurd that one could simply
+      dismiss it with a shake of the head. However, such statements fuel dangerous daydreams
+      among American and European warmongers who, despite all evidence to the contrary,
+      have devoted themselves to the fantasy of exploiting Russia’s imagined weakness.
+      In doing so, they are happy to rely on an American historian with years of experience
+      in the Soviet Union, who also prominently and publicly attributes to himself a
+      professorship that he does not even hold – his academic achievements are limited
+      to a Ph.D. in history. Furthermore, he has no current relevant direct sources
+      in Russia except for his beloved talk shows on Russian state television. Doctorow’s
+      confused thoughts Russian state television talk shows as a source This “expert”
+      bases his theories on what he sees as sharp criticism of President Putin on Russian
+      state television for promoting the strategy of attrition warfare in Ukraine. Usually
+      ultra-loyal pro-Putin talk shows such as “Sixty Minutes” and “Evening with Vladimir
+      Solovyov” would prepare Russian society for Putin to be replaced by a much more
+      aggressive figure on the Kremlin chessboard. He says that the majority of Russian
+      society demands—or at least deserves—a much tougher stance toward the West. The
+      long-overdue decapitation strike against the neo-Nazi regime in Kiev must finally
+      be carried out, thereby showing the West that Russia is not really a “paper tiger.”
+      Otherwise, the West would continue to escalate its actions—all the way to nuclear
+      war, which would then be upon us. Verbal and other provocations Donald Trump told
+      800 assembled generals and top officers of the US military at a base outside Washington,
+      D.C., how disappointed he was that Putin had not defeated Ukraine within a week
+      at the start of Russia’s special military operation, that US nuclear submarines
+      deployed in positions near Russia were 25 years ahead of Russian submarines in
+      terms of technology, and that Russia generally appeared to be a “paper tiger.”
+      J.D. Vance also repeated the old myth in an interview on Fox News that the Russian
+      economy is in ruins and that the Russian army’s territorial gains in Ukraine are
+      insignificant. Doctorow claims that Russia did not respond appropriately to these
+      and other provocations, thereby demonstrating its weakness and inviting further
+      escalation on the part of the West. Furthermore, Russia reacted far too hesitantly
+      and cautiously to the American escalation in arms deliveries aimed at inflicting
+      a strategic defeat on the Russians, instead resorting to a protracted war of attrition
+      and futile negotiations with the US. Doctorow describes this as a strategic misjudgment
+      on Putin’s part. The accusation of appeasement This Cassandra goes on to say that
+      Putin has not taken a clear stance on any of this, but is instead engaging in
+      a dangerous cosy relationship with Donald Trump. This began during meetings with
+      Steve Witkoff on April 25, 2025 and August 6, 2025 in Moscow, and immediately
+      afterwards with Trump in Alaska on August 15, 2025 . Such negotiation efforts
+      are grist to the mill of Western warmongers, because Russia is indulging in the
+      futile illusion that such negotiations could settle the war waged by the collective
+      West. The West, in turn, interprets this as a sign of Russia’s weakness. Doctorow
+      furher claims, that in his speech at the Valdai meeting in Sochi on October 2,
+      2025, Putin—as he had repeatedly done in the previous years—avoided the most pressing
+      issues with the West. Europe was arming itself and actively preparing for a war
+      against Russia, which was to begin in three years (sic!) . Furthermore, Europe
+      was currently attempting to impose an air and sea blockade on Russia in the Baltic
+      region and was likely to grant Ukraine a loan of $145 billion, with frozen Russian
+      assets serving as collateral so that Kiev could continue the war for several more
+      years. Finally, the United States would probably equip Kiev with nuclear-capable
+      Tomahawk cruise missiles with a long range that could reach Moscow from Ukrainian
+      territory. Instead of fawning over Donald Trump, the Russian public were demanding
+      that their leaders finally show some backbone by, for example, destroying the
+      German production facility for Taurus missiles or decapitating the Ukrainian leadership,
+      including Zelensky, with the help of the Oreschnik system, in order to finally
+      end the war before it escalated into a third world war. Alarmist scaremongering
+      „ We are headed into WWIII any which way. If Putin continues to show “restraint”
+      such as his latest ass licking to Trum he will be deposed, replaced by Russia’s
+      war hawks and there we go… If he does not show his teeth to Trump right now we
+      are all doomed. “ Gilbert Doctorow 14 Oktober 2025 Putin was already regarded
+      as “ Gorbachev 2.0 ” in Russian society. It was high time for him to be kicked
+      out. Vladimir Putin’s popularity, as confirmed by polls (recently allegedly falling
+      from 80% to 79%!), was merely based on the fact that the wrong questions were
+      being asked in these polls – if the Russian population were asked whether Putin
+      was conducting the war in Ukraine correctly, his poll ratings would be significantly
+      negative. What effect do such statements have? This adventurous so-called “Sovietological”
+      theory has no factual basis whatsoever, but springs from a dangerously hyperventilating
+      brain prone to megalomania. In Russia, such propaganda chimeras find no support;
+      they have no influence on Russian politics. If we are nevertheless addressing
+      this issue here, it is because this talk gives momentum to those forces in the
+      US and Europe who constantly claim that Russia is weak and that regime change
+      is imminent. Russophobic American and European warmongers could point to the fact
+      that even a Russia expert who is critical of them assumes that “Putin’s throne
+      is shaking” and that we just need to wait a little longer until the Russian people
+      overthrow their “king.” Reality The Russians cannot be provoked The Russians do
+      not respond to such provocations. They do not allow themselves to be baited by
+      these attacks from the arsenal of cognitive warfare . They are professionals.
+      They look at the map, they look at the numbers. Military professionals pay attention
+      to what is happening at the level of actual operations, they know their statistics
+      and understand scientific probability theory and the analysis of forces and means
+      (Correlation of Forces and Means – COFM). Russia’s strength or weakness is not
+      determined by the bombastic chatter of dishonest, corrupt Western politicians,
+      but by the facts – and these are clear. Russia did not respond appropriately to
+      the West crossing red lines? Russia has twice destroyed an entire quasi-NATO army
+      in Ukraine, equipped and financed by the West, and is currently destroying the
+      third and last such army in the course of its war of attrition against the West.
+      Russia is destroying Ukraine’s infrastructure and its arms industry. Russia is
+      winning the war. So why launch “decapitation strikes” against the Nazi regime
+      in Kiev? This would put Russia on the path to a completely different kind of warfare,
+      namely a path of significant escalation with a different outcome to the war than
+      Russia is currently seeking. Russia is not trying to physically destroy NATO or
+      occupy Europe. Russia’s territorial goals from the Ukrainian perspective Russia
+      is presumably attempting to bring the ancient Kievan Rus back into Russia in order
+      to avert the existential threat to Russian territory posed by the aggression emanating
+      from Kiev at the behest of the US, Europe, and the collective West—nothing more.
+      And Russia will achieve this goal within its own timeframe and operational plan.
+      Vladimir Putin has an approval rating of around 80% for good reason – and has
+      had for 25 years. Where in world history has there ever been a coup – even if
+      it was “only” a palace revolution – with such approval ratings? Our Cassandra
+      studied history, so she should know this too. Russia’s economic strength Russia
+      also dominates economically. Its economy is growing steadily despite considerable
+      war efforts. Doctorow is also completely wrong in his statements about the Russian
+      economy. For example, he claims that wages in Russia have multiplied and that
+      the population is thus being artificially pacified—complete nonsense: certain
+      professions (e.g., truck drivers and security personnel) have seen enormous salary
+      increases. Many of these employees were veterans. They returned to the army during
+      the war, leaving large gaps that had to be filled. This was naturally costly.
+      However, most other people did not receive double or triple salaries. In December
+      2024, the average monthly wage was 21.9% higher than the previous year, representing
+      the fastest wage increase since 2008. In January 2025, real wages rose by 6.5%
+      year-on-year, while nominal wages rose by ~17.1%. Russia’s military might Serious
+      commentators (see also here ) and military experts such as Douglas Macgregor,
+      Lawrence Wilkerson, Jacques Baud, Andrei Martyanov and Ralph Bossard (to name
+      but a few) know that Russian military technology is quantitatively (in terms of
+      production capacity) and technologically at least a generation ahead of the Western
+      alliance. Russia’s international strength There certainly is no question of Russia
+      being internationally isolated. The list of international associations with which
+      Russia is connected is impressive: BRICS, the Shanghai Cooperation Organization
+      (SCO), the Collective Security Treaty Organization (CSTO), the Eurasian Economic
+      Union (EAEU), the Commonwealth of Independent States (CIS), the Arctic Council,
+      the Organization of Islamic Cooperation (OIC – observer status), and as a dialogue
+      partner of the Economic Cooperation Organization (ECO). The Global South and all
+      of Asia are also deepening their economic and cultural ties with Russia. Misunderstood
+      internal controversy Recently, there has been talk of controversy within the Russian
+      leadership team. In his speech to the State Duma on October 8, 2025, Russian Deputy
+      Foreign Minister Sergei Ryabkov stated that the momentum created by the two heads
+      of state of Russia and the US at the summit in Anchorage, Alaska, to conclude
+      agreements had essentially been exhausted. This negative outcome was mainly due
+      to the destructive activities of the Europeans. Some commentators have interpreted
+      this statement as a sign of irreconcilable controversy within the Kremlin. This
+      is misguided. They do not understand the collective leadership style of Russian
+      government circles. Different nuances and emphases in political statements are
+      part of the internal opinion-forming process. Those who base their analysis on
+      the old Soviet sclerotic model and refer to it as “Sovietology” are imposing a
+      completely inappropriate template on modern Russia and, as a result, are fundamentally
+      mistaken in their “analysis.” Foreign policy approach toward the US: “Speak softly
+      and carry a big stick.” Of course, Russians are familiar with this old saying,
+      and they know that the US only understands its own language. Theodore Roosevelt,
+      the 26th President of the United States, first used this phrase publicly in 1901
+      in a speech at the Minnesota State Fair: “Speak softly and carry a big stick;
+      you will go far.” The phrase became a motto of his foreign policy: resolve conflicts
+      as diplomatically as possible (“speak softly”), but always have the power to enforce
+      your own position (“big stick”). It has been made clear above that Russia has
+      a clearly formidable stick at its disposal. Keep the door open for negotiations
+      From this position of strength, Russia also plays to one of its greatest strengths—its
+      ability to engage in professional diplomacy. Its basic foreign policy stance toward
+      the US is expressed in this speech by President Putin on October 2, 2025, in Sochi
+      at the Valdai Club: “As is well known, our countries have many differences of
+      opinion, and our views on many global issues clash. This is normal for major powers,
+      even to be expected. The decisive factor is how these differences of opinion can
+      be resolved and to what extent they can be resolved peacefully. (…) “Russia also
+      reserves the right to be guided by its national interests, which, incidentally,
+      include restoring comprehensive relations with the US. And regardless of our differences,
+      if we treat each other with respect, negotiations—even the toughest and most persistent
+      ones—will ultimately lead to a consensus, which will ultimately enable solutions
+      that are acceptable to both sides.” “Multipolarity and polycentrism are long-term
+      realities.” Vladimir Putin 2 Oktober 2025 in Sotschi This kind of thing cannot
+      be achieved by rushing into things, and certainly not with hot-headed bravado.
+      You have to keep an eye on the whole world. We are fortunate that the head of
+      government of the world’s strongest military power is such a level-headed, calm,
+      balanced person with a broad overview. Conclusion If one compares Doctorow’s statements
+      with verifiable facts, it becomes clear that the theories of this self-proclaimed
+      Russia expert turn out to be complete nonsense. Recent developments (Putin’s phone
+      call with Trump and Trump’s subsequent withdrawal from the plan to supply Tomahawks
+      to Ukraine) are proof to that effect. Peter Hanseler is a geopolitical analyst
+      who reports from Moscow. Peter was born in Zurich, Switzerland. He holds a J.D.
+      (lic. iur.) and Ph.D. (Dr. iur.) from Zurich University Law School and Master
+      in International Commercial Law (LL.M.) from Georgetown University Law School,
+      Washington, D.C. He has lived in the US, Spain, Switzerland, Thailand and Russia.
+      Peter is independent, his work is not supported by government or private entities.
+      Peter’s website Forumgeopolitica.com publishes its content in English, Russian,
+      German and French. Dr. Andreas Mylaeus, born 1950, earned a high school certificate
+      in North Carolina (1968/69) and Abitur (1970). He studied law in Freiburg, Cologne,
+      and Munich (1971–1976), passing both State Law Examinations with honors (1975,
+      1980). He studied psychology at the University of Zurich (1979–1984), graduating
+      as a clinical psychologist, and trained at the Zurich School of Psychology. He
+      taught at vocational schools in Zurich (1984–1995) and earned a federal teaching
+      diploma (1993). Since 2015, he has been a freelance analyst and speaker. Fluent
+      in German, Swiss German, and English. He is one of the main contributors of Forumgeopolitica.com
+      .'
+    one_sentence_summary: Gilbert Doctorow, self-identified as a leading Russia expert,
+      is criticized for promoting unfounded and perplexing theories about an impending
+      palace revolution in the Kremlin and the declining public perception of Vladimir
+      Putin, which have left even seasoned political commentators astonished.
+    paragraph_summary: Gilbert Doctorow, who labels himself a "Sovietologist" and claims
+      to be a leading Russia expert in independent media, has been criticized for promoting
+      unfounded and perplexing theories about an impending palace revolution in the
+      Kremlin and a growing disdain for Vladimir Putin among the Russian populace. His
+      recent assertions, published in his "Armageddon Newsletter," suggest that Putin
+      is becoming akin to a "hated Gorbachev 2.0," and he offers dubious recommendations
+      for potential successors. Critics argue that Doctorow's views, which rely heavily
+      on his interpretations of Russian state television talk shows, are not only absurd
+      but also dangerously fuel the fantasies of Western warmongers who wish to exploit
+      perceived weaknesses in Russia. Despite his self-proclaimed expertise, Doctorow's
+      academic credentials are limited, and he lacks direct, relevant sources within
+      Russia, raising questions about the validity of his claims.
+    published: '2025-10-19T03:20:55+00:00'
+  - title: When an «Expert» Loses his Footing
+    url: https://sonar21.com/when-an-expert-loses-his-footing/
+    text: 'Gilbert Doctorow—self-proclaimed Russia expert—is maneuvering himself into
+      the sidelines with unsubstantiated and confused theories. By Peter Hanseler /
+      Andreas Mylaeus / Denis Dobrin via Forumgeopolitica.com Introduction Gilbert Doctorow,
+      who calls himself a “ Sovietologist ” and considers himself the only real Russia
+      expert in the independent media, has been peddling theories for several days that
+      leave even hardened political commentators speechless. Gilbert Doctorow on Judge
+      Napolitano – “Vanity is the shadow cast by inadequacies”. In an article published
+      in his “Armageddon Newsletter” on Substack on October 1, 2025, he went so far
+      as to claim that a palace revolution was imminent in the Kremlin in Moscow and
+      that Russian society increasingly viewed Vladimir Putin as a hated Gorbachev 2.0.
+      He also makes cheap suggestions for a successor to the Russian president, whose
+      government ship has now accumulated too much barnacle growth and become too cumbersome.
+      “Vanity is the shadow cast by inadequacies” This is so absurd that one could simply
+      dismiss it with a shake of the head. However, such statements fuel dangerous daydreams
+      among American and European warmongers who, despite all evidence to the contrary,
+      have devoted themselves to the fantasy of exploiting Russia’s imagined weakness.
+      In doing so, they are happy to rely on an American historian with years of experience
+      in the Soviet Union, who also prominently and publicly attributes to himself a
+      professorship that he does not even hold – his academic achievements are limited
+      to a Ph.D. in history. Furthermore, he has no current relevant direct sources
+      in Russia except for his beloved talk shows on Russian state television. Doctorow’s
+      confused thoughts Russian state television talk shows as a source This “expert”
+      bases his theories on what he sees as sharp criticism of President Putin on Russian
+      state television for promoting the strategy of attrition warfare in Ukraine. Usually
+      ultra-loyal pro-Putin talk shows such as “Sixty Minutes” and “Evening with Vladimir
+      Solovyov” would prepare Russian society for Putin to be replaced by a much more
+      aggressive figure on the Kremlin chessboard. He says that the majority of Russian
+      society demands—or at least deserves—a much tougher stance toward the West. The
+      long-overdue decapitation strike against the neo-Nazi regime in Kiev must finally
+      be carried out, thereby showing the West that Russia is not really a “paper tiger.”
+      Otherwise, the West would continue to escalate its actions—all the way to nuclear
+      war, which would then be upon us. Verbal and other provocations Donald Trump told
+      800 assembled generals and top officers of the US military at a base outside Washington,
+      D.C., how disappointed he was that Putin had not defeated Ukraine within a week
+      at the start of Russia’s special military operation, that US nuclear submarines
+      deployed in positions near Russia were 25 years ahead of Russian submarines in
+      terms of technology, and that Russia generally appeared to be a “paper tiger.”
+      J.D. Vance also repeated the old myth in an interview on Fox News that the Russian
+      economy is in ruins and that the Russian army’s territorial gains in Ukraine are
+      insignificant. Doctorow claims that Russia did not respond appropriately to these
+      and other provocations, thereby demonstrating its weakness and inviting further
+      escalation on the part of the West. Furthermore, Russia reacted far too hesitantly
+      and cautiously to the American escalation in arms deliveries aimed at inflicting
+      a strategic defeat on the Russians, instead resorting to a protracted war of attrition
+      and futile negotiations with the US. Doctorow describes this as a strategic misjudgment
+      on Putin’s part. The accusation of appeasement This Cassandra goes on to say that
+      Putin has not taken a clear stance on any of this, but is instead engaging in
+      a dangerous cosy relationship with Donald Trump. This began during meetings with
+      Steve Witkoff on April 25, 2025 and August 6, 2025 in Moscow, and immediately
+      afterwards with Trump in Alaska on August 15, 2025 . Such negotiation efforts
+      are grist to the mill of Western warmongers, because Russia is indulging in the
+      futile illusion that such negotiations could settle the war waged by the collective
+      West. The West, in turn, interprets this as a sign of Russia’s weakness. Doctorow
+      furher claims, that in his speech at the Valdai meeting in Sochi on October 2,
+      2025, Putin—as he had repeatedly done in the previous years—avoided the most pressing
+      issues with the West. Europe was arming itself and actively preparing for a war
+      against Russia, which was to begin in three years (sic!) . Furthermore, Europe
+      was currently attempting to impose an air and sea blockade on Russia in the Baltic
+      region and was likely to grant Ukraine a loan of $145 billion, with frozen Russian
+      assets serving as collateral so that Kiev could continue the war for several more
+      years. Finally, the United States would probably equip Kiev with nuclear-capable
+      Tomahawk cruise missiles with a long range that could reach Moscow from Ukrainian
+      territory. Instead of fawning over Donald Trump, the Russian public were demanding
+      that their leaders finally show some backbone by, for example, destroying the
+      German production facility for Taurus missiles or decapitating the Ukrainian leadership,
+      including Zelensky, with the help of the Oreschnik system, in order to finally
+      end the war before it escalated into a third world war. Alarmist scaremongering
+      „ We are headed into WWIII any which way. If Putin continues to show “restraint”
+      such as his latest ass licking to Trum he will be deposed, replaced by Russia’s
+      war hawks and there we go… If he does not show his teeth to Trump right now we
+      are all doomed. “ Gilbert Doctorow 14 Oktober 2025 Putin was already regarded
+      as “ Gorbachev 2.0 ” in Russian society. It was high time for him to be kicked
+      out. Vladimir Putin’s popularity, as confirmed by polls (recently allegedly falling
+      from 80% to 79%!), was merely based on the fact that the wrong questions were
+      being asked in these polls – if the Russian population were asked whether Putin
+      was conducting the war in Ukraine correctly, his poll ratings would be significantly
+      negative. What effect do such statements have? This adventurous so-called “Sovietological”
+      theory has no factual basis whatsoever, but springs from a dangerously hyperventilating
+      brain prone to megalomania. In Russia, such propaganda chimeras find no support;
+      they have no influence on Russian politics. If we are nevertheless addressing
+      this issue here, it is because this talk gives momentum to those forces in the
+      US and Europe who constantly claim that Russia is weak and that regime change
+      is imminent. Russophobic American and European warmongers could point to the fact
+      that even a Russia expert who is critical of them assumes that “Putin’s throne
+      is shaking” and that we just need to wait a little longer until the Russian people
+      overthrow their “king.” Reality The Russians cannot be provoked The Russians do
+      not respond to such provocations. They do not allow themselves to be baited by
+      these attacks from the arsenal of cognitive warfare . They are professionals.
+      They look at the map, they look at the numbers. Military professionals pay attention
+      to what is happening at the level of actual operations, they know their statistics
+      and understand scientific probability theory and the analysis of forces and means
+      (Correlation of Forces and Means – COFM). Russia’s strength or weakness is not
+      determined by the bombastic chatter of dishonest, corrupt Western politicians,
+      but by the facts – and these are clear. Russia did not respond appropriately to
+      the West crossing red lines? Russia has twice destroyed an entire quasi-NATO army
+      in Ukraine, equipped and financed by the West, and is currently destroying the
+      third and last such army in the course of its war of attrition against the West.
+      Russia is destroying Ukraine’s infrastructure and its arms industry. Russia is
+      winning the war. So why launch “decapitation strikes” against the Nazi regime
+      in Kiev? This would put Russia on the path to a completely different kind of warfare,
+      namely a path of significant escalation with a different outcome to the war than
+      Russia is currently seeking. Russia is not trying to physically destroy NATO or
+      occupy Europe. Russia’s territorial goals from the Ukrainian perspective Russia
+      is presumably attempting to bring the ancient Kievan Rus back into Russia in order
+      to avert the existential threat to Russian territory posed by the aggression emanating
+      from Kiev at the behest of the US, Europe, and the collective West—nothing more.
+      And Russia will achieve this goal within its own timeframe and operational plan.
+      Vladimir Putin has an approval rating of around 80% for good reason – and has
+      had for 25 years. Where in world history has there ever been a coup – even if
+      it was “only” a palace revolution – with such approval ratings? Our Cassandra
+      studied history, so she should know this too. Russia’s economic strength Russia
+      also dominates economically. Its economy is growing steadily despite considerable
+      war efforts. Doctorow is also completely wrong in his statements about the Russian
+      economy. For example, he claims that wages in Russia have multiplied and that
+      the population is thus being artificially pacified—complete nonsense: certain
+      professions (e.g., truck drivers and security personnel) have seen enormous salary
+      increases. Many of these employees were veterans. They returned to the army during
+      the war, leaving large gaps that had to be filled. This was naturally costly.
+      However, most other people did not receive double or triple salaries. In December
+      2024, the average monthly wage was 21.9% higher than the previous year, representing
+      the fastest wage increase since 2008. In January 2025, real wages rose by 6.5%
+      year-on-year, while nominal wages rose by ~17.1%. Russia’s military might Serious
+      commentators (see also here ) and military experts such as Douglas Macgregor,
+      Lawrence Wilkerson, Jacques Baud, Andrei Martyanov and Ralph Bossard (to name
+      but a few) know that Russian military technology is quantitatively (in terms of
+      production capacity) and technologically at least a generation ahead of the Western
+      alliance. Russia’s international strength There certainly is no question of Russia
+      being internationally isolated. The list of international associations with which
+      Russia is connected is impressive: BRICS, the Shanghai Cooperation Organization
+      (SCO), the Collective Security Treaty Organization (CSTO), the Eurasian Economic
+      Union (EAEU), the Commonwealth of Independent States (CIS), the Arctic Council,
+      the Organization of Islamic Cooperation (OIC – observer status), and as a dialogue
+      partner of the Economic Cooperation Organization (ECO). The Global South and all
+      of Asia are also deepening their economic and cultural ties with Russia. Misunderstood
+      internal controversy Recently, there has been talk of controversy within the Russian
+      leadership team. In his speech to the State Duma on October 8, 2025, Russian Deputy
+      Foreign Minister Sergei Ryabkov stated that the momentum created by the two heads
+      of state of Russia and the US at the summit in Anchorage, Alaska, to conclude
+      agreements had essentially been exhausted. This negative outcome was mainly due
+      to the destructive activities of the Europeans. Some commentators have interpreted
+      this statement as a sign of irreconcilable controversy within the Kremlin. This
+      is misguided. They do not understand the collective leadership style of Russian
+      government circles. Different nuances and emphases in political statements are
+      part of the internal opinion-forming process. Those who base their analysis on
+      the old Soviet sclerotic model and refer to it as “Sovietology” are imposing a
+      completely inappropriate template on modern Russia and, as a result, are fundamentally
+      mistaken in their “analysis.” Foreign policy approach toward the US: “Speak softly
+      and carry a big stick.” Of course, Russians are familiar with this old saying,
+      and they know that the US only understands its own language. Theodore Roosevelt,
+      the 26th President of the United States, first used this phrase publicly in 1901
+      in a speech at the Minnesota State Fair: “Speak softly and carry a big stick;
+      you will go far.” The phrase became a motto of his foreign policy: resolve conflicts
+      as diplomatically as possible (“speak softly”), but always have the power to enforce
+      your own position (“big stick”). It has been made clear above that Russia has
+      a clearly formidable stick at its disposal. Keep the door open for negotiations
+      From this position of strength, Russia also plays to one of its greatest strengths—its
+      ability to engage in professional diplomacy. Its basic foreign policy stance toward
+      the US is expressed in this speech by President Putin on October 2, 2025, in Sochi
+      at the Valdai Club: “As is well known, our countries have many differences of
+      opinion, and our views on many global issues clash. This is normal for major powers,
+      even to be expected. The decisive factor is how these differences of opinion can
+      be resolved and to what extent they can be resolved peacefully. (…) “Russia also
+      reserves the right to be guided by its national interests, which, incidentally,
+      include restoring comprehensive relations with the US. And regardless of our differences,
+      if we treat each other with respect, negotiations—even the toughest and most persistent
+      ones—will ultimately lead to a consensus, which will ultimately enable solutions
+      that are acceptable to both sides.” “Multipolarity and polycentrism are long-term
+      realities.” Vladimir Putin 2 Oktober 2025 in Sotschi This kind of thing cannot
+      be achieved by rushing into things, and certainly not with hot-headed bravado.
+      You have to keep an eye on the whole world. We are fortunate that the head of
+      government of the world’s strongest military power is such a level-headed, calm,
+      balanced person with a broad overview. Conclusion If one compares Doctorow’s statements
+      with verifiable facts, it becomes clear that the theories of this self-proclaimed
+      Russia expert turn out to be complete nonsense. Recent developments (Putin’s phone
+      call with Trump and Trump’s subsequent withdrawal from the plan to supply Tomahawks
+      to Ukraine) are proof to that effect. Peter Hanseler is a geopolitical analyst
+      who reports from Moscow. Peter was born in Zurich, Switzerland. He holds a J.D.
+      (lic. iur.) and Ph.D. (Dr. iur.) from Zurich University Law School and Master
+      in International Commercial Law (LL.M.) from Georgetown University Law School,
+      Washington, D.C. He has lived in the US, Spain, Switzerland, Thailand and Russia.
+      Peter is independent, his work is not supported by government or private entities.
+      Peter’s website Forumgeopolitica.com publishes its content in English, Russian,
+      German and French. Dr. Andreas Mylaeus, born 1950, earned a high school certificate
+      in North Carolina (1968/69) and Abitur (1970). He studied law in Freiburg, Cologne,
+      and Munich (1971–1976), passing both State Law Examinations with honors (1975,
+      1980). He studied psychology at the University of Zurich (1979–1984), graduating
+      as a clinical psychologist, and trained at the Zurich School of Psychology. He
+      taught at vocational schools in Zurich (1984–1995) and earned a federal teaching
+      diploma (1993). Since 2015, he has been a freelance analyst and speaker. Fluent
+      in German, Swiss German, and English. He is one of the main contributors of Forumgeopolitica.com
+      .'
+    one_sentence_summary: Gilbert Doctorow, self-identified as a leading Russia expert,
+      is criticized for promoting unfounded and perplexing theories about an impending
+      palace revolution in the Kremlin and the declining public perception of Vladimir
+      Putin, which have left even seasoned political commentators astonished.
+    paragraph_summary: Gilbert Doctorow, who labels himself a "Sovietologist" and claims
+      to be a leading Russia expert in independent media, has been criticized for promoting
+      unfounded and perplexing theories about an impending palace revolution in the
+      Kremlin and a growing disdain for Vladimir Putin among the Russian populace. His
+      recent assertions, published in his "Armageddon Newsletter," suggest that Putin
+      is becoming akin to a "hated Gorbachev 2.0," and he offers dubious recommendations
+      for potential successors. Critics argue that Doctorow's views, which rely heavily
+      on his interpretations of Russian state television talk shows, are not only absurd
+      but also dangerously fuel the fantasies of Western warmongers who wish to exploit
+      perceived weaknesses in Russia. Despite his self-proclaimed expertise, Doctorow's
+      academic credentials are limited, and he lacks direct, relevant sources within
+      Russia, raising questions about the validity of his claims.
+    published: '2025-10-19T03:20:55+00:00'
+  - title: What Will Trump and Putin Discuss in Budapest?
+    url: https://sonar21.com/what-will-trump-and-putin-discuss-in-budapest/
+    text: 'While in Moscow I have learned that Donald Trump is having more extensive
+      conversations with Vladimir Putin than is being reported by the White House and
+      the Kremlin. For example, while it has not been publicly reported, Donald Trump
+      called the Russian President on Putin’s birthday and they talked for more than
+      40 minutes. This suggests that Trump is engaged in some fairly sophisticated acting
+      when it comes to the war in Ukraine… He is avoiding taking public positions that
+      could inflame the pro-war hawks in Washington, DC. But he continues to engage
+      Putin. For Putin’s part, his position has not changed — i.e., Crimea, Luhansk,
+      Zaporhryzhia, Kherson and Donetsk are permanent parts of Russia; no NATO presence
+      in Ukraine and a ban on NATO-backed military exercises; and new elections. He
+      is not going to compromise on these and will continue fighting until Russia has
+      secured control of all of that territory. Putin has not ruled out adding other
+      Ukrainian oblasts to the Russian Republic, such as Dneipropetrovsk, Poltava, Sumy
+      and Kharkhiv. The ball is in Trump’s court. My Moscow interlocutor raised the
+      possibility that Trump and Putin are collaborating on a mutual goal of weakening
+      the European Union. An interesting possibility. The United Kingdom and MI-6 were
+      major players in Russiagate… Is Trump thinking about revenge? In other news, the
+      current commander of US Southern Command (aka, US SOUTHCOM) has resigned reportedly
+      in part because he objected to Donald Trump’s orders authorizing the US military
+      to kill suspected drug traffickers who were not carrying crew-served weapons nor
+      were they firing weapons at US personnel or ships. I discussed the latests developments
+      earlier today (Moscow time) with Nima and with Judge Napolitano: I thank you for
+      your invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: While in Moscow, it was revealed that Donald Trump is having
+      more extensive private conversations with Vladimir Putin than publicly acknowledged,
+      indicating a complex diplomatic strategy regarding the Ukraine conflict, while
+      Putin remains steadfast in his territorial claims and demands.
+    paragraph_summary: The article reveals that Donald Trump is having more extensive
+      and private discussions with Vladimir Putin than publicly acknowledged, including
+      a lengthy phone call on Putin's birthday. This indicates Trump's strategic approach
+      to the Ukraine conflict, as he avoids inflammatory public statements while maintaining
+      dialogue with Putin, who remains steadfast in his territorial claims and demands
+      regarding Ukraine. The piece also suggests a possible collaboration between Trump
+      and Putin aimed at undermining the European Union, hinting at Trump's motivations
+      possibly tied to past grievances. Additionally, it mentions the resignation of
+      the commander of US Southern Command, reportedly due to disagreements over Trump's
+      military orders related to drug traffickers. The author emphasizes their commitment
+      to providing accessible content without subscription fees or advertising.
+    published: '2025-10-17T22:23:51+00:00'
+  - title: What Will Trump and Putin Discuss in Budapest?
+    url: https://sonar21.com/what-will-trump-and-putin-discuss-in-budapest/
+    text: 'While in Moscow I have learned that Donald Trump is having more extensive
+      conversations with Vladimir Putin than is being reported by the White House and
+      the Kremlin. For example, while it has not been publicly reported, Donald Trump
+      called the Russian President on Putin’s birthday and they talked for more than
+      40 minutes. This suggests that Trump is engaged in some fairly sophisticated acting
+      when it comes to the war in Ukraine… He is avoiding taking public positions that
+      could inflame the pro-war hawks in Washington, DC. But he continues to engage
+      Putin. For Putin’s part, his position has not changed — i.e., Crimea, Luhansk,
+      Zaporhryzhia, Kherson and Donetsk are permanent parts of Russia; no NATO presence
+      in Ukraine and a ban on NATO-backed military exercises; and new elections. He
+      is not going to compromise on these and will continue fighting until Russia has
+      secured control of all of that territory. Putin has not ruled out adding other
+      Ukrainian oblasts to the Russian Republic, such as Dneipropetrovsk, Poltava, Sumy
+      and Kharkhiv. The ball is in Trump’s court. My Moscow interlocutor raised the
+      possibility that Trump and Putin are collaborating on a mutual goal of weakening
+      the European Union. An interesting possibility. The United Kingdom and MI-6 were
+      major players in Russiagate… Is Trump thinking about revenge? In other news, the
+      current commander of US Southern Command (aka, US SOUTHCOM) has resigned reportedly
+      in part because he objected to Donald Trump’s orders authorizing the US military
+      to kill suspected drug traffickers who were not carrying crew-served weapons nor
+      were they firing weapons at US personnel or ships. I discussed the latests developments
+      earlier today (Moscow time) with Nima and with Judge Napolitano: I thank you for
+      your invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: While in Moscow, it was revealed that Donald Trump is having
+      more extensive private conversations with Vladimir Putin than publicly acknowledged,
+      indicating a complex diplomatic strategy regarding the Ukraine conflict, while
+      Putin remains steadfast in his territorial claims and demands.
+    paragraph_summary: The article reveals that Donald Trump is having more extensive
+      and private discussions with Vladimir Putin than publicly acknowledged, including
+      a lengthy phone call on Putin's birthday. This indicates Trump's strategic approach
+      to the Ukraine conflict, as he avoids inflammatory public statements while maintaining
+      dialogue with Putin, who remains steadfast in his territorial claims and demands
+      regarding Ukraine. The piece also suggests a possible collaboration between Trump
+      and Putin aimed at undermining the European Union, hinting at Trump's motivations
+      possibly tied to past grievances. Additionally, it mentions the resignation of
+      the commander of US Southern Command, reportedly due to disagreements over Trump's
+      military orders related to drug traffickers. The author emphasizes their commitment
+      to providing accessible content without subscription fees or advertising.
+    published: '2025-10-17T22:23:51+00:00'
+  - title: The West Obsession with Putin
+    url: https://sonar21.com/the-west-obsession-with-putin/
+    text: 'Most Americans’ understanding of Russia, its people, its culture and its
+      geopolitics comes via a distorted media lens that is committed to propagating
+      a narrative built around a presumed cult of personality… And that personality
+      is Vladimir Putin. Just consider these recent quotes: Mark Rutte : This is an
+      open press conference — I know Putin’s listening, so I don’t want to make him
+      too wise. Donald Trump : Trump stated that Zelensky will request Tomahawk missile
+      supplies on Friday but did not say what his response would be. According to the
+      American, Moscow does not want to end the conflict. Among other things, Trump
+      said, “Putin was supposed to win this war in one week. Now he is entering the
+      fourth year of the war. Donald Trump : Expressed being “very disappointed” that
+      Putin is unwilling to end the war, which he called “horrible.” Suggested Russia
+      has suffered heavy losses and that its economy is struggling . Inherent in these
+      comments is the ridiculous belief that the war in Ukraine is solely the work of
+      Vladimir Putin, and that Putin is a grand authoritarian dictator who is compelling
+      millions of Russians to submit to his madness. The truth is otherwise. While President
+      Putin is a consequential historical figure and is the face of Russia’s resurrection
+      as a world superpower, Russia is a complex society, blessed with strategic depth
+      in terms of minerals, natural resources, industrial capacity and, most importantly,
+      highly educated, competent people. I have been genuinely puzzled by the Western
+      attitude towards Putin — at least the current attitude, which is quite hostile
+      — and did an systematic analysis of media coverage of Putin starting in 1999.
+      Prior to March 2003, press coverage in the West about Putin was generally very
+      positive. That came to a halt in March of 2003 when Vladimir Putin came out in
+      strong opposition to the US invasion of Iraq. I think Putin’s refusal to be the
+      submissive-bitch of the West is the reason for the animus direct at him personally,
+      and Russia in general. I have only been in Moscow for less than 24 hours, and
+      I have not been able to talk with a broad swath of people. However, after watching
+      the local TV stations it is clear that the war in Ukraine continues not just because
+      Putin wants it… An overwhelming majority of the Russian people recognize they
+      are in an existential battle with the West and, if anything, want the Russian
+      government — meaning not just Putin, but the General staff — to pursue the war
+      more aggressively. I discussed this with Danny Davis. You may have to click on
+      the link to watch the video because it is not loading here with the platform I’m
+      using… Sorry for the inconvenience: https://www.youtube.com/watch?v=1YWkIkYJYno
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Most Americans' perceptions of Russia and its geopolitical
+      actions are shaped by a media narrative focused on Vladimir Putin's personality,
+      leading to misconceptions about the ongoing conflict in Ukraine and Russia's motivations.
+    paragraph_summary: The article critiques the American media's portrayal of Russia
+      and its leader, Vladimir Putin, suggesting that it fosters a distorted understanding
+      of the country and its complexities. It argues that the narrative surrounding
+      Putin as a singular authoritarian figure driving the war in Ukraine overlooks
+      the multifaceted nature of Russian society, which is rich in resources and talent.
+      The author notes that Western perceptions of Putin shifted dramatically after
+      his opposition to the U.S. invasion of Iraq in 2003, leading to a hostile attitude
+      that fails to recognize the broader context of Russia's geopolitical stance. Ultimately,
+      the piece calls for a more nuanced view of Russia that moves beyond the simplistic
+      cult of personality narrative.
+    published: '2025-10-16T04:26:23+00:00'
+  - title: The West Obsession with Putin
+    url: https://sonar21.com/the-west-obsession-with-putin/
+    text: 'Most Americans’ understanding of Russia, its people, its culture and its
+      geopolitics comes via a distorted media lens that is committed to propagating
+      a narrative built around a presumed cult of personality… And that personality
+      is Vladimir Putin. Just consider these recent quotes: Mark Rutte : This is an
+      open press conference — I know Putin’s listening, so I don’t want to make him
+      too wise. Donald Trump : Trump stated that Zelensky will request Tomahawk missile
+      supplies on Friday but did not say what his response would be. According to the
+      American, Moscow does not want to end the conflict. Among other things, Trump
+      said, “Putin was supposed to win this war in one week. Now he is entering the
+      fourth year of the war. Donald Trump : Expressed being “very disappointed” that
+      Putin is unwilling to end the war, which he called “horrible.” Suggested Russia
+      has suffered heavy losses and that its economy is struggling . Inherent in these
+      comments is the ridiculous belief that the war in Ukraine is solely the work of
+      Vladimir Putin, and that Putin is a grand authoritarian dictator who is compelling
+      millions of Russians to submit to his madness. The truth is otherwise. While President
+      Putin is a consequential historical figure and is the face of Russia’s resurrection
+      as a world superpower, Russia is a complex society, blessed with strategic depth
+      in terms of minerals, natural resources, industrial capacity and, most importantly,
+      highly educated, competent people. I have been genuinely puzzled by the Western
+      attitude towards Putin — at least the current attitude, which is quite hostile
+      — and did an systematic analysis of media coverage of Putin starting in 1999.
+      Prior to March 2003, press coverage in the West about Putin was generally very
+      positive. That came to a halt in March of 2003 when Vladimir Putin came out in
+      strong opposition to the US invasion of Iraq. I think Putin’s refusal to be the
+      submissive-bitch of the West is the reason for the animus direct at him personally,
+      and Russia in general. I have only been in Moscow for less than 24 hours, and
+      I have not been able to talk with a broad swath of people. However, after watching
+      the local TV stations it is clear that the war in Ukraine continues not just because
+      Putin wants it… An overwhelming majority of the Russian people recognize they
+      are in an existential battle with the West and, if anything, want the Russian
+      government — meaning not just Putin, but the General staff — to pursue the war
+      more aggressively. I discussed this with Danny Davis. You may have to click on
+      the link to watch the video because it is not loading here with the platform I’m
+      using… Sorry for the inconvenience: https://www.youtube.com/watch?v=1YWkIkYJYno
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Most Americans' perceptions of Russia and its geopolitical
+      actions are shaped by a media narrative focused on Vladimir Putin's personality,
+      leading to misconceptions about the ongoing conflict in Ukraine and Russia's motivations.
+    paragraph_summary: The article critiques the American media's portrayal of Russia
+      and its leader, Vladimir Putin, suggesting that it fosters a distorted understanding
+      of the country and its complexities. It argues that the narrative surrounding
+      Putin as a singular authoritarian figure driving the war in Ukraine overlooks
+      the multifaceted nature of Russian society, which is rich in resources and talent.
+      The author notes that Western perceptions of Putin shifted dramatically after
+      his opposition to the U.S. invasion of Iraq in 2003, leading to a hostile attitude
+      that fails to recognize the broader context of Russia's geopolitical stance. Ultimately,
+      the piece calls for a more nuanced view of Russia that moves beyond the simplistic
+      cult of personality narrative.
+    published: '2025-10-16T04:26:23+00:00'
   - title: More on the Delusional Thinking of Western Zionists
     url: https://sonar21.com/more-on-the-delusional-thinking-of-western-zionists/
     text: 'If you think that Donald Trump is the only one living in a fantasy land when

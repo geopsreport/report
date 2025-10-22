@@ -7,16 +7,1448 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  The Gaza conflict has reached a turning point following direct intervention by US President Donald Trump. Over the past 24 hours, the situation has shifted dramatically as Trump arrived in Israel and, in an unprecedented move, announced a ceasefire from the floor of the Knesset. This forced Israeli Prime Minister Benjamin Netanyahu to publicly reverse his previous stance on continuing the war, despite strong opposition from ultranationalist members of his cabinet.
+  The latest developments in the Gaza crisis mark a significant shift in the regional balance of power, as U.S.-Israeli relations face unprecedented strain. In recent days, Israel’s accidental bombing of Qatari territory has triggered a wave of international condemnation and forced Washington to take a more assertive stance in ending hostilities in Gaza.
   
-  According to **Elijah J. Magnier**, Trump’s maneuver was not only a display of US influence but also a calculated effort to present himself as the architect of peace. By gathering an international delegation in Sharm el-Sheikh, Egypt, Trump ensured the ceasefire would be formalized on a global stage, leaving Netanyahu with little choice but to comply or risk public humiliation and political isolation.
+  According to **Elijah J. Magnier**, this incident has “sparked international outrage and forced the U.S. to intervene in the Gaza conflict, challenging Netanyahu’s political authority.” The U.S., under President Trump, has exerted intense pressure on Israeli Prime Minister Benjamin Netanyahu to accept a ceasefire. However, Netanyahu’s government is struggling to fully implement the agreement, revealing deepening political divisions in Tel Aviv and a growing rift with Washington.
   
-  The pressure on Netanyahu was intense. As **Magnier** notes, Trump’s intervention “demonstrated his power over the peace process” and left the Israeli leader “with no viable alternative but to accept the ceasefire.” The move has been widely interpreted as a blow to Netanyahu’s authority, especially after months of asserting Israel’s autonomy and military strength.
+  The ceasefire, brokered by the U.S., is now being deliberately delayed by Israeli authorities. **Elijah J. Magnier** notes that Israel’s leadership is “obstructing efforts to end violence and restore normalcy in Gaza,” further exacerbating the humanitarian crisis. This delay is widely interpreted as an attempt by Netanyahu to maintain military leverage and political control, despite mounting U.S. and international demands for de-escalation.
   
-  Looking forward, the consensus among analysts is that this marks a significant, if temporary, de-escalation in the Gaza conflict. The majority view, as reflected in **Magnier**’s reporting, is that Trump’s initiative will most definitely hold in the short term, given the international backing and Netanyahu’s weakened position. However, the underlying tensions within the Israeli government and among its regional adversaries remain unresolved, suggesting that while open hostilities may pause, the risk of renewed conflict persists.
-  
-  In summary, the US has reasserted its central role in Middle East diplomacy, Netanyahu has been compelled into a public climbdown, and the immediate prospect is a sustained ceasefire—though the durability of this arrangement will depend on how both domestic and regional actors respond in the coming weeks. I guarantee that, for now, the ceasefire will hold, but the political fallout for Netanyahu is just beginning.
+  Looking ahead, the majority of analysts agree that the power dynamic between Washington and Tel Aviv is undergoing a fundamental transformation. There is a high chance that U.S. pressure will eventually force Israel to comply with the ceasefire terms, but the process will remain fraught with political maneuvering and potential instability within the Israeli government. I guarantee that the U.S. will not tolerate further escalation, and most definitely, Netanyahu’s political position will continue to weaken if he fails to align with American directives. The humanitarian situation in Gaza is expected to remain dire until the ceasefire is fully implemented.
 articles:
+  - title: 'À l’intérieur de la campagne de pression de Trump : comment Washington a
+      forcé Netanyahu à accepter un cessez-le-feu qu’il peine à contrôler'
+    url: https://ejmagnier.com/2025/10/21/a-linterieur-de-la-campagne-de-pression-de-trump-comment-washington-a-force-netanyahu-a-accepter-un-cessez-le-feu-quil-peine-a-controler/
+    text: 'Tweet Par Elijah J. Magnier – 21 octobre 2025 L’équilibre des pouvoirs entre
+      Washington et Tel-Aviv est en train d’être réécrit en temps réel. Ce qui avait
+      commencé comme une trêve de plus en plus précaire à Gaza s’est mué en épreuve
+      d’autorité politique que Benjamin Netanyahu peine à naviguer et cherche à tordre
+      à son avantage. Le tournant n’est pas venu du champ de bataille mais des cieux
+      de Doha, lorsque le bombardement mal avisé par Israël d’un territoire qatarien
+      a reconfiguré l’équation diplomatique et contraint les États-Unis à prendre l’initiative
+      et à stopper le génocide à Gaza. Au début d’octobre, des appareils israéliens
+      ont visé ce qu’ils présentaient comme des bureaux de liaison du Hamas en périphérie
+      de Doha. Le raid a manqué sa cible et a provoqué un tollé international. Le Qatar,
+      qui avait accueilli toutes les grandes séries de négociations de cessez-le-feu
+      depuis 2023, a retiré ses médiateurs en signe de protestation et suspendu la logistique
+      qui soutenait les couloirs humanitaires vers Gaza. En quarante-huit heures, Washington
+      a bougé pour contenir les retombées et a blâmé Israël puisque l’échec est orphelin
+      et que la faute est retombée entièrement sur Netanyahu. Israël a franchi toutes
+      les lignes et a voulu assassiner le négociateur ainsi que la médiation. Le président
+      Donald Trump a personnellement ordonné à ses collaborateurs de présenter des excuses
+      à Khalil al-Hayya, haut responsable du bureau politique du Hamas à Gaza. Le message
+      a été transmis par des intermédiaires, confirmé par des responsables qataris et
+      par l’envoyé spécial américain Steve Witkoff lui-même, en personne — un geste
+      sans précédent de la part d’une administration américaine. Pour Netanyahu, ce
+      fut une humiliation ; pour Trump, un réajustement stratégique. En reconnaissant
+      le rôle du Qatar et en s’adressant indirectement à l’aile politique du Hamas,
+      la Maison Blanche s’est posée en arbitre ultime du cadre du cessez-le-feu. L’excuse
+      a ouvert la voie à un cessez-le-feu et a été suivie par l’arrivée d’une délégation
+      américaine de haut niveau : le vice-président J. D. Vance, l’homme d’affaires-envoyé
+      Steve Witkoff et le conseiller principal Jared Kushner, chargés de faire appliquer
+      l’accord en vingt points que Netanyahu avait accepté à contrecœur sous la pression,
+      et de passer à la phase deux du plan. Il a été rédigé à Washington, amendé à Doha,
+      puis par Netanyahu lui-même pour en maintenir les points flous et, en théorie,
+      lier chaque mouvement militaire israélien à des obligations mesurables, selon
+      l’interprétation du texte : livraison vérifiée des corps et des captifs dans la
+      phase une, retrait progressif de zones spécifiées en trois étapes, accès humanitaire
+      quotidien, cessation des bombardements et reconstruction. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: L'équilibre des pouvoirs entre Washington et Tel-Aviv est
+      en train de changer suite à un raid israélien malheureux sur un territoire qatari,
+      qui a poussé les États-Unis à intervenir pour mettre fin aux hostilités à Gaza,
+      alors que Benjamin Netanyahu tente de naviguer cette crise politique.
+    paragraph_summary: L'équilibre des pouvoirs entre Washington et Tel-Aviv est en
+      train de changer suite à un incident diplomatique majeur, où un bombardement israélien
+      mal ciblé au Qatar a provoqué une réaction internationale forte et a forcé les
+      États-Unis à intervenir pour mettre fin aux hostilités à Gaza. Après que des avions
+      israéliens aient attaqué ce qu'ils pensaient être des bureaux du Hamas près de
+      Doha, le Qatar a suspendu son rôle de médiateur dans les négociations de cessez-le-feu,
+      entraînant une pression sur Washington pour qu'il prenne position. En réponse,
+      le président Trump a ordonné des excuses à un responsable du Hamas, marquant un
+      tournant dans la dynamique des négociations et renforçant le rôle des États-Unis
+      en tant qu'arbitre dans le conflit, tout en humiliant le Premier ministre israélien
+      Benjamin Netanyahu. Ce geste a ouvert la voie à un cessez-le-feu, redéfinissant
+      ainsi les relations diplomatiques dans la région.
+    published: '2025-10-21T17:12:06+00:00'
+  - title: 'À l’intérieur de la campagne de pression de Trump : comment Washington a
+      forcé Netanyahu à accepter un cessez-le-feu qu’il peine à contrôler'
+    url: https://ejmagnier.com/2025/10/21/a-linterieur-de-la-campagne-de-pression-de-trump-comment-washington-a-force-netanyahu-a-accepter-un-cessez-le-feu-quil-peine-a-controler/
+    text: 'Tweet Par Elijah J. Magnier – 21 octobre 2025 L’équilibre des pouvoirs entre
+      Washington et Tel-Aviv est en train d’être réécrit en temps réel. Ce qui avait
+      commencé comme une trêve de plus en plus précaire à Gaza s’est mué en épreuve
+      d’autorité politique que Benjamin Netanyahu peine à naviguer et cherche à tordre
+      à son avantage. Le tournant n’est pas venu du champ de bataille mais des cieux
+      de Doha, lorsque le bombardement mal avisé par Israël d’un territoire qatarien
+      a reconfiguré l’équation diplomatique et contraint les États-Unis à prendre l’initiative
+      et à stopper le génocide à Gaza. Au début d’octobre, des appareils israéliens
+      ont visé ce qu’ils présentaient comme des bureaux de liaison du Hamas en périphérie
+      de Doha. Le raid a manqué sa cible et a provoqué un tollé international. Le Qatar,
+      qui avait accueilli toutes les grandes séries de négociations de cessez-le-feu
+      depuis 2023, a retiré ses médiateurs en signe de protestation et suspendu la logistique
+      qui soutenait les couloirs humanitaires vers Gaza. En quarante-huit heures, Washington
+      a bougé pour contenir les retombées et a blâmé Israël puisque l’échec est orphelin
+      et que la faute est retombée entièrement sur Netanyahu. Israël a franchi toutes
+      les lignes et a voulu assassiner le négociateur ainsi que la médiation. Le président
+      Donald Trump a personnellement ordonné à ses collaborateurs de présenter des excuses
+      à Khalil al-Hayya, haut responsable du bureau politique du Hamas à Gaza. Le message
+      a été transmis par des intermédiaires, confirmé par des responsables qataris et
+      par l’envoyé spécial américain Steve Witkoff lui-même, en personne — un geste
+      sans précédent de la part d’une administration américaine. Pour Netanyahu, ce
+      fut une humiliation ; pour Trump, un réajustement stratégique. En reconnaissant
+      le rôle du Qatar et en s’adressant indirectement à l’aile politique du Hamas,
+      la Maison Blanche s’est posée en arbitre ultime du cadre du cessez-le-feu. L’excuse
+      a ouvert la voie à un cessez-le-feu et a été suivie par l’arrivée d’une délégation
+      américaine de haut niveau : le vice-président J. D. Vance, l’homme d’affaires-envoyé
+      Steve Witkoff et le conseiller principal Jared Kushner, chargés de faire appliquer
+      l’accord en vingt points que Netanyahu avait accepté à contrecœur sous la pression,
+      et de passer à la phase deux du plan. Il a été rédigé à Washington, amendé à Doha,
+      puis par Netanyahu lui-même pour en maintenir les points flous et, en théorie,
+      lier chaque mouvement militaire israélien à des obligations mesurables, selon
+      l’interprétation du texte : livraison vérifiée des corps et des captifs dans la
+      phase une, retrait progressif de zones spécifiées en trois étapes, accès humanitaire
+      quotidien, cessation des bombardements et reconstruction. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: L'équilibre des pouvoirs entre Washington et Tel-Aviv est
+      en train de changer suite à un raid israélien malheureux sur un territoire qatari,
+      qui a poussé les États-Unis à intervenir pour mettre fin aux hostilités à Gaza,
+      alors que Benjamin Netanyahu tente de naviguer cette crise politique.
+    paragraph_summary: L'équilibre des pouvoirs entre Washington et Tel-Aviv est en
+      train de changer suite à un incident diplomatique majeur, où un bombardement israélien
+      mal ciblé au Qatar a provoqué une réaction internationale forte et a forcé les
+      États-Unis à intervenir pour mettre fin aux hostilités à Gaza. Après que des avions
+      israéliens aient attaqué ce qu'ils pensaient être des bureaux du Hamas près de
+      Doha, le Qatar a suspendu son rôle de médiateur dans les négociations de cessez-le-feu,
+      entraînant une pression sur Washington pour qu'il prenne position. En réponse,
+      le président Trump a ordonné des excuses à un responsable du Hamas, marquant un
+      tournant dans la dynamique des négociations et renforçant le rôle des États-Unis
+      en tant qu'arbitre dans le conflit, tout en humiliant le Premier ministre israélien
+      Benjamin Netanyahu. Ce geste a ouvert la voie à un cessez-le-feu, redéfinissant
+      ainsi les relations diplomatiques dans la région.
+    published: '2025-10-21T17:12:06+00:00'
+  - title: 'Einblick in Trumps Druckkampagne: Wie Washington Netanjahu zwang, einen
+      Waffenstillstand zu akzeptieren, den er nur schwer kontrollieren kann'
+    url: https://ejmagnier.com/2025/10/21/einblick-in-trumps-druckkampagne-wie-washington-netanjahu-zwang-einen-waffenstillstand-zu-akzeptieren-den-er-nur-schwer-kontrollieren-kann/
+    text: 'Tweet Von Elijah J. Magnier – 21. Oktober 2025 Das Kräfteverhältnis zwischen
+      Washington und Tel Aviv wird gerade in Echtzeit neu geschrieben. Was als eine
+      weitere unsichere Waffenruhe in Gaza begann, hat sich zu einer Prüfung der politischen
+      Autorität entwickelt, mit der Benjamin Netanjahu zu kämpfen hat und die er zu
+      verdrehen versucht. Der Wendepunkt kam nicht auf dem Schlachtfeld, sondern am
+      Himmel über Doha, als Israels unüberlegte Bombardierung des katarischen Territoriums
+      die diplomatische Gleichung neu gestaltete und die Vereinigten Staaten zwang,
+      die Initiative zu ergreifen und den Völkermord in Gaza zu stoppen. Anfang Oktober
+      griffen israelische Flugzeuge Ziele an, die sie als Verbindungsbüros der Hamas
+      am Stadtrand von Doha bezeichneten. Der Angriff verfehlte sein Ziel und löste
+      internationaler Empörung aus. Katar, das seit 2023 alle wichtigen Verhandlungsrunden
+      zum Waffenstillstand ausgerichtet hatte, zog aus Protest seine Vermittler zurück
+      und stellte die Logistik für die humanitären Korridore nach Gaza ein. Innerhalb
+      von 48 Stunden bemühte sich Washington, die Folgen einzudämmen, und gab Israel
+      die Schuld, da Misserfolge immer allein zu verantworten sind und die Schuld vollständig
+      auf Netanjahu fiel. Israel hatte alle Grenzen überschritten und wollte den Vermittler
+      und die Vermittlung zerstören. Präsident Donald Trump wies seine Berater persönlich
+      an, sich bei Khalil al-Hay’ya, dem obersten politischen Büro der Hamas in Gaza,
+      zu entschuldigen. Die Botschaft wurde über Mittelsmänner übermittelt und von katarischen
+      Beamten sowie vom US-Sonderbeauftragten Steve Witkoff persönlich bestätigt – eine
+      beispiellose Geste seitens einer US-Regierung. Für Netanjahu war es eine Demütigung,
+      für Trump ein strategischer Neuanfang. Durch die Anerkennung der Rolle Katars
+      und die indirekte Zusammenarbeit mit dem politischen Flügel der Hamas etablierte
+      sich das Weiße Haus als oberster Schiedsrichter des Waffenstillstandsabkommens.
+      Die Entschuldigung ebnete den Weg für einen Waffenstillstand und wurde gefolgt
+      von der Ankunft einer hochrangigen amerikanischen Delegation: Vizepräsident J.D.
+      Vance, der Geschäftsmann und Gesandte Steve Witkoff und der hochrangige Berater
+      Jared Kushner, um das Zwanzig-Punkte-Abkommen durchzusetzen, das Netanjahu unter
+      Druck widerwillig akzeptiert hatte, und um zur zweiten Phase des Plans überzugehen.
+      Es wurde in Washington entworfen, in Doha geändert und dann von Netanjahu selbst,
+      um seine Punkte vage zu halten und theoretisch jede militärische Aktion Israels
+      an messbare Verpflichtungen zu knüpfen, je nach Auslegung des Textes: überprüfte
+      Übergabe von Leichen und Gefangenen in Phase eins, schrittweiser Rückzug aus bestimmten
+      Zonen in drei Schritten, täglicher humanitärer Zugang, Einstellung der Bombardierungen
+      und Wiederaufbau. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Die unüberlegte Bombardierung Israels auf katarisches Territorium
+      hat das Machtverhältnis zwischen Washington und Tel Aviv neu gestaltet und die
+      USA gezwungen, Maßnahmen zur Beendigung des Völkermords in Gaza zu ergreifen,
+      während Benjamin Netanjahu mit der Herausforderung seiner politischen Autorität
+      kämpft.
+    paragraph_summary: In einem aktuellen Tweet beschreibt Elijah J. Magnier, wie sich
+      das Kräfteverhältnis zwischen Washington und Tel Aviv verändert, insbesondere
+      nach einer israelischen Bombardierung in Katar, die internationale Empörung auslöste
+      und die diplomatische Situation neu gestaltete. Diese Aktion führte dazu, dass
+      Katar seine Vermittler zurückzog und die humanitären Korridore nach Gaza einstellte,
+      was Washington dazu zwang, die Initiative zu ergreifen und Israel für die Misserfolge
+      verantwortlich zu machen. Präsident Donald Trump wies seine Berater an, sich bei
+      der Hamas zu entschuldigen, was als strategischer Neuanfang für die USA und als
+      Demütigung für Benjamin Netanjahu angesehen wurde. Diese Entwicklung stärkte die
+      Rolle der USA als Schiedsrichter im Waffenstillstandsprozess und führte zu einer
+      indirekten Zusammenarbeit mit der Hamas.
+    published: '2025-10-21T17:11:46+00:00'
+  - title: 'Einblick in Trumps Druckkampagne: Wie Washington Netanjahu zwang, einen
+      Waffenstillstand zu akzeptieren, den er nur schwer kontrollieren kann'
+    url: https://ejmagnier.com/2025/10/21/einblick-in-trumps-druckkampagne-wie-washington-netanjahu-zwang-einen-waffenstillstand-zu-akzeptieren-den-er-nur-schwer-kontrollieren-kann/
+    text: 'Tweet Von Elijah J. Magnier – 21. Oktober 2025 Das Kräfteverhältnis zwischen
+      Washington und Tel Aviv wird gerade in Echtzeit neu geschrieben. Was als eine
+      weitere unsichere Waffenruhe in Gaza begann, hat sich zu einer Prüfung der politischen
+      Autorität entwickelt, mit der Benjamin Netanjahu zu kämpfen hat und die er zu
+      verdrehen versucht. Der Wendepunkt kam nicht auf dem Schlachtfeld, sondern am
+      Himmel über Doha, als Israels unüberlegte Bombardierung des katarischen Territoriums
+      die diplomatische Gleichung neu gestaltete und die Vereinigten Staaten zwang,
+      die Initiative zu ergreifen und den Völkermord in Gaza zu stoppen. Anfang Oktober
+      griffen israelische Flugzeuge Ziele an, die sie als Verbindungsbüros der Hamas
+      am Stadtrand von Doha bezeichneten. Der Angriff verfehlte sein Ziel und löste
+      internationaler Empörung aus. Katar, das seit 2023 alle wichtigen Verhandlungsrunden
+      zum Waffenstillstand ausgerichtet hatte, zog aus Protest seine Vermittler zurück
+      und stellte die Logistik für die humanitären Korridore nach Gaza ein. Innerhalb
+      von 48 Stunden bemühte sich Washington, die Folgen einzudämmen, und gab Israel
+      die Schuld, da Misserfolge immer allein zu verantworten sind und die Schuld vollständig
+      auf Netanjahu fiel. Israel hatte alle Grenzen überschritten und wollte den Vermittler
+      und die Vermittlung zerstören. Präsident Donald Trump wies seine Berater persönlich
+      an, sich bei Khalil al-Hay’ya, dem obersten politischen Büro der Hamas in Gaza,
+      zu entschuldigen. Die Botschaft wurde über Mittelsmänner übermittelt und von katarischen
+      Beamten sowie vom US-Sonderbeauftragten Steve Witkoff persönlich bestätigt – eine
+      beispiellose Geste seitens einer US-Regierung. Für Netanjahu war es eine Demütigung,
+      für Trump ein strategischer Neuanfang. Durch die Anerkennung der Rolle Katars
+      und die indirekte Zusammenarbeit mit dem politischen Flügel der Hamas etablierte
+      sich das Weiße Haus als oberster Schiedsrichter des Waffenstillstandsabkommens.
+      Die Entschuldigung ebnete den Weg für einen Waffenstillstand und wurde gefolgt
+      von der Ankunft einer hochrangigen amerikanischen Delegation: Vizepräsident J.D.
+      Vance, der Geschäftsmann und Gesandte Steve Witkoff und der hochrangige Berater
+      Jared Kushner, um das Zwanzig-Punkte-Abkommen durchzusetzen, das Netanjahu unter
+      Druck widerwillig akzeptiert hatte, und um zur zweiten Phase des Plans überzugehen.
+      Es wurde in Washington entworfen, in Doha geändert und dann von Netanjahu selbst,
+      um seine Punkte vage zu halten und theoretisch jede militärische Aktion Israels
+      an messbare Verpflichtungen zu knüpfen, je nach Auslegung des Textes: überprüfte
+      Übergabe von Leichen und Gefangenen in Phase eins, schrittweiser Rückzug aus bestimmten
+      Zonen in drei Schritten, täglicher humanitärer Zugang, Einstellung der Bombardierungen
+      und Wiederaufbau. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Die unüberlegte Bombardierung Israels auf katarisches Territorium
+      hat das Machtverhältnis zwischen Washington und Tel Aviv neu gestaltet und die
+      USA gezwungen, Maßnahmen zur Beendigung des Völkermords in Gaza zu ergreifen,
+      während Benjamin Netanjahu mit der Herausforderung seiner politischen Autorität
+      kämpft.
+    paragraph_summary: In einem aktuellen Tweet beschreibt Elijah J. Magnier, wie sich
+      das Kräfteverhältnis zwischen Washington und Tel Aviv verändert, insbesondere
+      nach einer israelischen Bombardierung in Katar, die internationale Empörung auslöste
+      und die diplomatische Situation neu gestaltete. Diese Aktion führte dazu, dass
+      Katar seine Vermittler zurückzog und die humanitären Korridore nach Gaza einstellte,
+      was Washington dazu zwang, die Initiative zu ergreifen und Israel für die Misserfolge
+      verantwortlich zu machen. Präsident Donald Trump wies seine Berater an, sich bei
+      der Hamas zu entschuldigen, was als strategischer Neuanfang für die USA und als
+      Demütigung für Benjamin Netanjahu angesehen wurde. Diese Entwicklung stärkte die
+      Rolle der USA als Schiedsrichter im Waffenstillstandsprozess und führte zu einer
+      indirekten Zusammenarbeit mit der Hamas.
+    published: '2025-10-21T17:11:46+00:00'
+  - title: 'Binnenin Trumps campagne van druk: hoe Washington Netanyahu dwong een staakt-het-vuren
+      te accepteren die hij met moeite onder controle kan houden'
+    url: https://ejmagnier.com/2025/10/21/binnenin-trumps-campagne-van-druk-hoe-washington-netanyahu-dwong-een-staakt-het-vuren-te-accepteren-die-hij-met-moeite-onder-controle-kan-houden/
+    text: Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. De machtsverhoudingen
+      tussen Washington en Tel Aviv worden op dit moment herschreven. Wat begon als
+      weer een ongemakkelijke wapenstilstand in Gaza, is uitgegroeid tot een test van
+      politieke autoriteit waar Benjamin Netanyahu moeite mee heeft en die hij probeert
+      te verdraaien. Het keerpunt kwam niet op het slagveld, maar in de lucht boven
+      Doha, toen Israëls ondoordachte bombardement op Qatarees grondgebied de diplomatieke
+      verhoudingen veranderde en de Verenigde Staten dwong het initiatief te nemen en
+      een einde te maken aan de genocide in Gaza. Begin oktober bombardeerden Israëlische
+      vliegtuigen wat volgens hen Hamas-verbindingskantoren waren aan de rand van Doha.
+      De aanval miste zijn beoogde doel en veroorzaakte internationale opschudding.
+      Qatar, dat sinds 2023 alle belangrijke rondes van wapenstilstandsonderhandelingen
+      had georganiseerd, trok uit protest zijn bemiddelaars terug en schortte de logistieke
+      ondersteuning van de humanitaire corridors naar Gaza op. Binnen 48 uur ondernam
+      Washington stappen om de gevolgen te beperken en gaf het Israël de schuld, aangezien
+      mislukkingen altijd een wees zijn en de schuld volledig bij Netanyahu kwam te
+      liggen. Israël overschreed alle grenzen en wilde de onderhandelaar en de bemiddeling
+      om zeep helpen. President Donald Trump gaf zijn assistenten persoonlijk opdracht
+      om excuses aan te bieden aan Khalil al-Hay’ya, het hoofd van het politieke bureau
+      van Hamas in Gaza. De boodschap werd overgebracht via tussenpersonen en bevestigd
+      door Qatarese functionarissen en door de Amerikaanse speciale gezant Steve Witkoff
+      zelf, in persoon – een ongekend gebaar van een Amerikaanse regering. Voor Netanyahu
+      was het een vernedering, voor Trump een strategische reset. Door de rol van Qatar
+      te erkennen en indirect in gesprek te gaan met de politieke vleugel van Hamas,
+      vestigde het Witte Huis zich als de ultieme scheidsrechter van het staakt-het-vuren-kader.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet
+    one_sentence_summary: De machtsverhoudingen tussen Washington en Tel Aviv veranderen
+      als gevolg van Israël's ondoordachte bombardement op Qatarees grondgebied, wat
+      leidde tot een internationale crisis en druk op de VS om een einde te maken aan
+      de genocide in Gaza.
+    paragraph_summary: Elijah J. Magnier's article, translated by Francis J., discusses
+      the shifting power dynamics between Washington and Tel Aviv, particularly in the
+      context of a fragile ceasefire in Gaza. The situation escalated when an Israeli
+      airstrike mistakenly targeted Qatari territory, leading to a diplomatic crisis
+      that forced the U.S. to intervene and address the humanitarian crisis in Gaza.
+      Following the attack, Qatar withdrew its mediators and suspended logistical support
+      for humanitarian corridors, prompting the U.S. to blame Israel and seek to mitigate
+      the fallout. In an unprecedented move, President Trump directed his aides to apologize
+      to Hamas leader Khalil al-Hay’ya, signaling a strategic shift in U.S. foreign
+      policy and acknowledging Qatar's role in negotiations. This incident marked a
+      significant humiliation for Netanyahu and positioned the U.S. as the key mediator
+      in the ceasefire discussions.
+    published: '2025-10-21T17:11:26+00:00'
+  - title: 'Binnenin Trumps campagne van druk: hoe Washington Netanyahu dwong een staakt-het-vuren
+      te accepteren die hij met moeite onder controle kan houden'
+    url: https://ejmagnier.com/2025/10/21/binnenin-trumps-campagne-van-druk-hoe-washington-netanyahu-dwong-een-staakt-het-vuren-te-accepteren-die-hij-met-moeite-onder-controle-kan-houden/
+    text: Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. De machtsverhoudingen
+      tussen Washington en Tel Aviv worden op dit moment herschreven. Wat begon als
+      weer een ongemakkelijke wapenstilstand in Gaza, is uitgegroeid tot een test van
+      politieke autoriteit waar Benjamin Netanyahu moeite mee heeft en die hij probeert
+      te verdraaien. Het keerpunt kwam niet op het slagveld, maar in de lucht boven
+      Doha, toen Israëls ondoordachte bombardement op Qatarees grondgebied de diplomatieke
+      verhoudingen veranderde en de Verenigde Staten dwong het initiatief te nemen en
+      een einde te maken aan de genocide in Gaza. Begin oktober bombardeerden Israëlische
+      vliegtuigen wat volgens hen Hamas-verbindingskantoren waren aan de rand van Doha.
+      De aanval miste zijn beoogde doel en veroorzaakte internationale opschudding.
+      Qatar, dat sinds 2023 alle belangrijke rondes van wapenstilstandsonderhandelingen
+      had georganiseerd, trok uit protest zijn bemiddelaars terug en schortte de logistieke
+      ondersteuning van de humanitaire corridors naar Gaza op. Binnen 48 uur ondernam
+      Washington stappen om de gevolgen te beperken en gaf het Israël de schuld, aangezien
+      mislukkingen altijd een wees zijn en de schuld volledig bij Netanyahu kwam te
+      liggen. Israël overschreed alle grenzen en wilde de onderhandelaar en de bemiddeling
+      om zeep helpen. President Donald Trump gaf zijn assistenten persoonlijk opdracht
+      om excuses aan te bieden aan Khalil al-Hay’ya, het hoofd van het politieke bureau
+      van Hamas in Gaza. De boodschap werd overgebracht via tussenpersonen en bevestigd
+      door Qatarese functionarissen en door de Amerikaanse speciale gezant Steve Witkoff
+      zelf, in persoon – een ongekend gebaar van een Amerikaanse regering. Voor Netanyahu
+      was het een vernedering, voor Trump een strategische reset. Door de rol van Qatar
+      te erkennen en indirect in gesprek te gaan met de politieke vleugel van Hamas,
+      vestigde het Witte Huis zich als de ultieme scheidsrechter van het staakt-het-vuren-kader.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet
+    one_sentence_summary: De machtsverhoudingen tussen Washington en Tel Aviv veranderen
+      als gevolg van Israël's ondoordachte bombardement op Qatarees grondgebied, wat
+      leidde tot een internationale crisis en druk op de VS om een einde te maken aan
+      de genocide in Gaza.
+    paragraph_summary: Elijah J. Magnier's article, translated by Francis J., discusses
+      the shifting power dynamics between Washington and Tel Aviv, particularly in the
+      context of a fragile ceasefire in Gaza. The situation escalated when an Israeli
+      airstrike mistakenly targeted Qatari territory, leading to a diplomatic crisis
+      that forced the U.S. to intervene and address the humanitarian crisis in Gaza.
+      Following the attack, Qatar withdrew its mediators and suspended logistical support
+      for humanitarian corridors, prompting the U.S. to blame Israel and seek to mitigate
+      the fallout. In an unprecedented move, President Trump directed his aides to apologize
+      to Hamas leader Khalil al-Hay’ya, signaling a strategic shift in U.S. foreign
+      policy and acknowledging Qatar's role in negotiations. This incident marked a
+      significant humiliation for Netanyahu and positioned the U.S. as the key mediator
+      in the ceasefire discussions.
+    published: '2025-10-21T17:11:26+00:00'
+  - title: 'Inside Trump’s Pressure Campaign: How Washington Forced Netanyahu to Accept
+      a Ceasefire He Struggles to Control'
+    url: https://ejmagnier.com/2025/10/21/inside-trumps-pressure-campaign-how-washington-forced-netanyahu-to-accept-a-ceasefire-he-struggles-to-control/
+    text: 'Tweet By Elijah J. Magnier – 21 October 2025 The balance of power between
+      Washington and Tel Aviv is being rewritten in real time. What began as yet another
+      uneasy truce in Gaza has turned into a test of political authority that Benjamin
+      Netanyahu is struggling to navigate and trying to twist. The turning point came
+      not on the battlefield but in the skies over Doha, when Israel’s ill-judged bombing
+      of Qatari territory reshaped the diplomatic equation and forced the United States
+      to seize the initiative and stop Gaza’s genocide. In early October, Israeli aircraft
+      targeted what they claimed were Hamas liaison offices on the outskirts of Doha.
+      The raid missed its intended goal and caused an international uproar. Qatar, which
+      had hosted every major round of ceasefire negotiations since 2023, withdrew its
+      mediators in protest and suspended the logistics that sustained humanitarian corridors
+      to Gaza. Within forty-eight hours, Washington moved to contain the fallout and
+      blamed Israel since failure is orphan and the blame fell entirely on Netanyahu.
+      Israel crossed all lines and wanted to assassinate the negotiator and the mediation.
+      President Donald Trump personally instructed his aides to issue an apology to
+      Khalil al-Hay’ya, Top Hamas’s political bureau in Gaza. The message was delivered
+      through intermediaries, confirmed by Qatari officials and by the US special envoy
+      Steve Witkoff himself, in person— an unprecedented gesture from any U.S. administration.
+      For Netanyahu, it was a humiliation; for Trump, a strategic reset. By acknowledging
+      Qatar’s role and engaging indirectly with Hamas’s political wing, the White House
+      established itself as the ultimate arbiter of the ceasefire framework. The apology
+      paved the way for a cease fire and followed by the arrival of a high-level American
+      delegation: Vice-President J.D. Vance, businessman-envoy Steve Witkoff, and senior
+      adviser Jared Kushner to enforce the twenty-point agreement that Netanyahu had
+      reluctantly accepted under pressure and move to phase two of the plan. It has
+      been drafted in Washington, amended in Doha, then by Netanyahu himself to keep
+      its points vague and, in theory, tied every Israeli military move to measurable
+      obligations, depending on the interpretation of the text: verified delivery of
+      bodies and captives in phase one, gradual withdrawal from specified zones in 3
+      steps, daily humanitarian access, the cessation of bombardment and the reconstruction.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: The balance of power between Washington and Tel Aviv is shifting,
+      as Israel's bombing of Qatari territory has sparked international outrage and
+      forced the U.S. to intervene in the Gaza conflict, challenging Netanyahu's political
+      authority.
+    paragraph_summary: The balance of power between the U.S. and Israel is shifting
+      dramatically following an Israeli airstrike on Qatari territory that targeted
+      alleged Hamas offices, which backfired and led to a diplomatic crisis. The attack
+      prompted Qatar to withdraw from its role in mediating ceasefire negotiations,
+      causing the U.S. to step in and place the blame squarely on Israeli Prime Minister
+      Benjamin Netanyahu. In an unprecedented move, President Donald Trump instructed
+      aides to apologize to a senior Hamas official, signaling a strategic realignment
+      and acknowledging Qatar's crucial role in the peace process. This apology facilitated
+      a ceasefire and led to a high-level American delegation visiting the region to
+      enforce a new agreement that Netanyahu reluctantly accepted, marking a significant
+      shift in U.S.-Israeli relations and the broader Middle Eastern diplomatic landscape.
+    published: '2025-10-21T17:11:00+00:00'
+  - title: 'Inside Trump’s Pressure Campaign: How Washington Forced Netanyahu to Accept
+      a Ceasefire He Struggles to Control'
+    url: https://ejmagnier.com/2025/10/21/inside-trumps-pressure-campaign-how-washington-forced-netanyahu-to-accept-a-ceasefire-he-struggles-to-control/
+    text: 'Tweet By Elijah J. Magnier – 21 October 2025 The balance of power between
+      Washington and Tel Aviv is being rewritten in real time. What began as yet another
+      uneasy truce in Gaza has turned into a test of political authority that Benjamin
+      Netanyahu is struggling to navigate and trying to twist. The turning point came
+      not on the battlefield but in the skies over Doha, when Israel’s ill-judged bombing
+      of Qatari territory reshaped the diplomatic equation and forced the United States
+      to seize the initiative and stop Gaza’s genocide. In early October, Israeli aircraft
+      targeted what they claimed were Hamas liaison offices on the outskirts of Doha.
+      The raid missed its intended goal and caused an international uproar. Qatar, which
+      had hosted every major round of ceasefire negotiations since 2023, withdrew its
+      mediators in protest and suspended the logistics that sustained humanitarian corridors
+      to Gaza. Within forty-eight hours, Washington moved to contain the fallout and
+      blamed Israel since failure is orphan and the blame fell entirely on Netanyahu.
+      Israel crossed all lines and wanted to assassinate the negotiator and the mediation.
+      President Donald Trump personally instructed his aides to issue an apology to
+      Khalil al-Hay’ya, Top Hamas’s political bureau in Gaza. The message was delivered
+      through intermediaries, confirmed by Qatari officials and by the US special envoy
+      Steve Witkoff himself, in person— an unprecedented gesture from any U.S. administration.
+      For Netanyahu, it was a humiliation; for Trump, a strategic reset. By acknowledging
+      Qatar’s role and engaging indirectly with Hamas’s political wing, the White House
+      established itself as the ultimate arbiter of the ceasefire framework. The apology
+      paved the way for a cease fire and followed by the arrival of a high-level American
+      delegation: Vice-President J.D. Vance, businessman-envoy Steve Witkoff, and senior
+      adviser Jared Kushner to enforce the twenty-point agreement that Netanyahu had
+      reluctantly accepted under pressure and move to phase two of the plan. It has
+      been drafted in Washington, amended in Doha, then by Netanyahu himself to keep
+      its points vague and, in theory, tied every Israeli military move to measurable
+      obligations, depending on the interpretation of the text: verified delivery of
+      bodies and captives in phase one, gradual withdrawal from specified zones in 3
+      steps, daily humanitarian access, the cessation of bombardment and the reconstruction.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: The balance of power between Washington and Tel Aviv is shifting,
+      as Israel's bombing of Qatari territory has sparked international outrage and
+      forced the U.S. to intervene in the Gaza conflict, challenging Netanyahu's political
+      authority.
+    paragraph_summary: The balance of power between the U.S. and Israel is shifting
+      dramatically following an Israeli airstrike on Qatari territory that targeted
+      alleged Hamas offices, which backfired and led to a diplomatic crisis. The attack
+      prompted Qatar to withdraw from its role in mediating ceasefire negotiations,
+      causing the U.S. to step in and place the blame squarely on Israeli Prime Minister
+      Benjamin Netanyahu. In an unprecedented move, President Donald Trump instructed
+      aides to apologize to a senior Hamas official, signaling a strategic realignment
+      and acknowledging Qatar's crucial role in the peace process. This apology facilitated
+      a ceasefire and led to a high-level American delegation visiting the region to
+      enforce a new agreement that Netanyahu reluctantly accepted, marking a significant
+      shift in U.S.-Israeli relations and the broader Middle Eastern diplomatic landscape.
+    published: '2025-10-21T17:11:00+00:00'
+  - title: 'Netanjahu trotzt Trump: Israel verzögert Umsetzung des Waffenstillstands
+      in Gaza'
+    url: https://ejmagnier.com/2025/10/21/netanjahu-trotzt-trump-israel-verzogert-umsetzung-des-waffenstillstands-in-gaza/
+    text: 'Tweet Von Elijah J. Magnier – Israel verzögert absichtlich die Umsetzung
+      des unter dem Druck der USA vereinbarten Waffenstillstands, was eine sich vertiefende
+      Kluft zwischen Premierminister Benjamin Netanjahu und Präsident Donald Trump offenbart.
+      Das Abkommen, das Trump Netanjahu nach zwei Jahren verheerenden Krieges in Gaza
+      aufgezwungen hatte, sollte das Blutvergießen beenden, die Grenzübergänge öffnen
+      und humanitäre Hilfe und Wiederaufbau ermöglichen. Doch Wochen später behindert
+      die israelische Führung jeden Schritt des Abkommens und versucht, die militärische
+      Kontrolle über mehr als die Hälfte des Gazastreifens aufrechtzuerhalten und jegliche
+      Anzeichen einer Erholung oder eines normalen Lebens in der Enklave zu verhindern.
+      Der Waffenstillstand, der vom Weißen Haus nach heftigem Widerstand von Netanjahu
+      durchgesetzt wurde, sah vor, dass Israel seine Militäroperationen einstellt, sich
+      aus mehreren besetzten Gebieten zurückzieht, den Grenzübergang Rafah wieder öffnet
+      und täglich mindestens 600 Hilfsgüter-Lkw in den Gazastreifen einfahren lässt.
+      Im Gegenzug sollte die Hamas alle verbleibenden israelischen Gefangenen freilassen
+      und die Leichen derjenigen übergeben, die während der israelischen Bombardements
+      getötet wurden. Die Hamas hat die Leichen von zehn israelischen Soldaten zurückgegeben
+      und um internationale Hilfe gebeten, um die übrigen Leichen zu bergen, die vermutlich
+      unter Tausenden Tonnen von Trümmern begraben sind. Viele dieser Überreste liegen
+      unter eingestürzten Gebäuden und Tunneln, die durch israelische Luftangriffe zerstört
+      wurden, und die Hamas hat um die Intervention von spezialisierten regionalen Teams
+      gebeten, die für solche Arbeiten ausgerüstet sind. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Eine türkische Such- und Bergungsmission, eine der wenigen, die über
+      die technischen Kapazitäten verfügt, um unter solchen Bedingungen zu arbeiten,
+      hat sich freiwillig zur Hilfe bereit erklärt. Israel hat jedoch unter Berufung
+      auf Sicherheitsbedenken ihre Einreise nach Gaza blockiert. Das eigentliche Motiv
+      scheint Israels Wunsch zu sein, die Bergung der Leichen seiner Soldaten zu verzögern
+      und diese Frage als Druckmittel zu nutzen, um die Umsetzung der Waffenstillstandsklauseln
+      hinauszuzögern. In der Praxis hat dies Israel in die Lage versetzt, etwa 53 Prozent
+      des Gazastreifens, insbesondere die zerstörten Gebiete im Süden und in der Mitte,
+      weiterhin fest unter militärischer Kontrolle zu halten. Die Lage ist dramatisch.
+      Gesandte der Vereinten Nationen vor Ort haben bestätigt, dass es an den schweren
+      Maschinen mangelt, die erforderlich sind, um die geschätzten 60.000 Tonnen Trümmer
+      zu beseitigen, die derzeit den Gazastreifen bedecken. In den letzten zwei Jahren
+      wurden mehr als 200.000 Tonnen Sprengstoff auf Gaza abgeworfen, wodurch ganze
+      Stadtteile dem Erdboden gleichgemacht wurden. Straßen sind verschwunden, Wohngebiete
+      wurden ausgelöscht, und ganze Gemeinden liegen unter den Trümmern begraben. Israel
+      hat keine Absicht gezeigt, den Wiederaufbau oder auch nur die Beseitigung der
+      Trümmer zuzulassen, sondern zieht es vor, dass die überlebende Bevölkerung weiterhin
+      in Notunterkünften oder inmitten der Trümmer ihrer zerstörten Häuser lebt. Bulldozer
+      waren monatelang im Einsatz, um die Topografie ganzer Stadtteile zu verändern,
+      die alte Stadtstruktur zu beseitigen und den Weg für neue, von Israel kontrollierte
+      Zonen zu ebnen, die später zu Siedlungen oder militärischen Sperrgebieten werden
+      könnten. Netanjahus Taktik geht über Verzögerung hinaus. In der ersten Phase des
+      Rückzugs gab Israel bekannt, dass es sich auf eine „Sicherheitslinie” zurückgezogen
+      habe, die in der Praxis kein Zivilist in Gaza lokalisieren oder erkennen kann.
+      Die Linie ist unmarkiert, undefiniert und tödlich. Jeden Tag werden palästinensische
+      Zivilisten, die versuchen, sich ihren Häusern zu nähern, von israelischen Soldaten
+      erschossen, die unsichtbare Grenzen durchsetzen. Diese absichtliche Unklarheit
+      gewährt Israel Straffreiheit, unter dem Vorwand der Selbstverteidigung zu töten
+      und ein Klima der Angst aufrechtzuerhalten, das vertriebene Familien davon abhält,
+      zu ihren Grundstücken zurückzukehren. Die US-Regierung ist sich Netanjahus Geschichte
+      der Sabotage von Abkommen voll bewusst und hat Vizepräsident J. D. Vance und die
+      Sonderbeauftragten Steve Witkoff und Jared Kushner nach Israel entsandt, um die
+      Einhaltung des Waffenstillstands zu überwachen. Ihre Mission ist es, sicherzustellen,
+      dass Israel das einhält, was Trump als eine seiner bedeutendsten außenpolitischen
+      Errungenschaften ansieht. Doch Netanjahu widersetzt sich jeder Form der Kontrolle.
+      Trotz der vereinbarten Quote von 600 Lastwagen pro Tag hat Israel in einem Zeitraum
+      von zehn Tagen nur 700 Lastwagen in den Gazastreifen einfahren lassen – ein Bruchteil
+      dessen, was versprochen wurde. Lebensmittel, Treibstoff und medizinische Versorgung
+      sind nach wie vor knapp, und Israel nutzt humanitäre Hilfe weiterhin als Druckmittel
+      gegen die belagerte Bevölkerung. Das Weiße Haus hat versucht, diplomatische Flexibilität
+      zu wahren, und erklärt, dass Israel das Recht behält, seine eingesetzten Truppen
+      zu verteidigen und auf Verstöße der Hamas zu reagieren, ohne dabei notwendigerweise
+      gegen das Abkommen zu verstoßen. Diese Formulierung hat Netanjahu jedoch Spielraum
+      gegeben, den Waffenstillstand völlig neu zu interpretieren. Für ihn wird jeder
+      sporadische Akt des Widerstands aus dem Gazastreifen zu einem Vorwand, um die
+      Luftangriffe fortzusetzen, Truppen zu stationieren und die „Einstellung der Feindseligkeiten”
+      als einseitige israelische Pause statt als gegenseitigen Waffenstillstand neu
+      zu definieren. Da der israelische Wahlkampf für Oktober 2026 bereits begonnen
+      hat, treibt Netanjahus politischer Instinkt ihn zur Trotzhaltung. Sein Image als
+      Führer, der sich niemals dem Druck von außen – insbesondere aus Washington – beugt,
+      ist zu seinem wichtigsten Wahlkampfthema geworden. Innerhalb Israels unterstützt
+      die öffentliche Meinung weitgehend eine harte Linie. Nach der Freilassung von
+      zwanzig lebenden Geiseln und zehn Leichen wandten sich viele Israelis gegen das
+      Abkommen und forderten ihre Regierung auf, den Krieg wieder aufzunehmen und die
+      Hamas vollständig zu vernichten. Diese gesellschaftliche Stimmung der Rache bestärkt
+      Netanjahu in seiner Überzeugung, dass er nichts zu verlieren hat, wenn er das
+      Leiden in Gaza verlängert oder Trumps Vermittlungsbemühungen untergräbt. Die Kalkulation
+      des Premierministers ist einfach: Je länger er zögert, desto schwächer wird die
+      Position der USA und desto mehr kann er das Nachkriegs-Gaza nach den Sicherheitsprioritäten
+      Israels gestalten. Die Hamas ihrerseits hat gefordert, dass Israel die im 20-Punkte-Waffenstillstandsabkommen
+      festgelegte Rückzugslinie einhält und seine täglichen Übergriffe einstellt. Die
+      israelischen Streitkräfte besetzen jedoch weiterhin Stellungen jenseits dieser
+      Grenzen und weigern sich, sich zurückzuziehen oder ihre genauen Koordinaten anzugeben.
+      In mehreren Fällen haben israelische Angriffe und Scharfschützenfeuer Zivilisten
+      getötet, die versuchten, in ihre Viertel zurückzukehren, was einen klaren Verstoß
+      gegen den Wortlaut und den Geist des Waffenstillstands darstellt. Gleichzeitig
+      hat Israel begonnen, in Gaza eine Strategie zu wiederholen, die zuvor im Südlibanon
+      angewendet wurde: die Schaffung lokaler Stellvertreterkräfte. In der gesamten
+      Gazastreifen sind mehrere neue bewaffnete Gruppen entstanden, die von Israel finanziert
+      und ausgerüstet werden. In Rafah wurde eine Miliz, die sich „Volkskräfte” unter
+      Yasser Abu Shabab nennt, beschuldigt, humanitäre Hilfe geplündert und Zivilisten
+      hingerichtet zu haben. Östlich von Khan Yunis führt Hosam al-Astal die sogenannte
+      „Counterterrorism Striking Force” an, während in al-Shujaiya Rami Halas eine weitere
+      pro-israelische Formation befehligt. Im Norden steht Ashraf al-Mansi an der Spitze
+      einer Gruppe namens „Volksarmee”, die in Beit Lahya und Beit Hanoun operiert.
+      Diese Milizen haben die Aufgabe, die Bevölkerung zu kontrollieren, Dissidenten
+      zu unterdrücken und im Auftrag Israels Mitglieder des Widerstands zu bekämpfen.
+      Das Modell ähnelt der Südlibanesischen Armee, die nach dem Rückzug Israels im
+      Jahr 2000 zusammenbrach. Die Geschichte zeigt, dass solche Stellvertreterstrukturen
+      letztendlich nach hinten losgehen, indem sie Ressentiments schüren und die Legitimität
+      bewaffneter Widerstandsbewegungen stärken. Dieser interne israelisch-amerikanische
+      Konflikt hat sich zu einem persönlichen Wettstreit zwischen Netanjahu und Trump
+      entwickelt. Der israelische Premierminister, der für seine politische Gerissenheit
+      bekannt ist, testet, wie weit er das Abkommen neu interpretieren kann, ohne eine
+      direkte Konfrontation mit Washington zu provozieren. Trump, der sich gerne als
+      Beendiger des Krieges profilieren möchte, ist hin- und hergerissen zwischen der
+      Durchsetzung seiner Autorität und der Vermeidung einer öffentlichen Spaltung mit
+      Israel. Netanjahus Methode besteht darin, die Waffenstillstandsbedingungen zu
+      verzögern, zu provozieren und zu manipulieren, bis er seine eigene Version der
+      „Einhaltung” präsentieren kann, während er Gaza de facto unter Besatzung hält.
+      Unterdessen verschärft sich die humanitäre Krise. Tausende vertriebene Familien
+      schlafen in provisorischen Zelten neben den Trümmern ihrer Häuser. Die Wasser-,
+      Strom- und medizinische Versorgung ist weiterhin zusammengebrochen. Das Ausbleiben
+      des Wiederaufbaus lässt eine düstere Zukunft erwarten: Eine Bevölkerung, die in
+      ihrem eigenen Land zur Obdachlosigkeit verdammt ist, ohne sichtbare Anzeichen
+      einer Erholung. Israels Weigerung, die Beseitigung der Trümmer oder den Wiederaufbau
+      zuzulassen, zielt darauf ab, Gaza unbewohnbar zu machen, die Rückkehr zu verhindern
+      und sicherzustellen, dass die palästinensische Präsenz auch in Zukunft minimal,
+      fragmentiert und von der israelischen Kontrolle abhängig bleibt. Der Ausgang dieses
+      Konflikts wird von der Ausdauer abhängen. Die Regierung Netanjahu hat bewiesen,
+      dass sie dem Druck der USA standhalten kann, indem sie sich auf die Unterstützung
+      im Inland und die militärische Kontrolle stützt, um ihre Ziele zu verfolgen. Trump
+      hingegen steht unter politischem Druck: Er braucht sichtbare Ergebnisse, bevor
+      die Welt zu dem Schluss kommt, dass der von ihm vermittelte Waffenstillstand gescheitert
+      ist. Vorerst signalisiert die Anwesenheit des US-Gesandten in Israel ein fortgesetztes
+      Engagement der USA, aber ob diese Anwesenheit echte Veränderungen bewirken kann,
+      bleibt ungewiss. Der lang anhaltende Waffenstillstand in Gaza ist eine fragile
+      Illusion – ein Krieg, der unterbrochen, aber nicht beendet ist. Netanjahu gestaltet
+      seine Bedingungen neu, um die Vorherrschaft Israels zu bewahren, während Trump
+      versucht, seine diplomatische Glaubwürdigkeit zu retten. Zwischen ihnen liegt
+      ein verwüstetes Gebiet, ein heimatloses, aber sehr entschlossenes Volk, das in
+      dem Land seiner Vorfahren bleiben will, und ein Waffenstillstand, der von der
+      Politik als Geisel genommen wird. Subscribe Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Israel delays the implementation of a U.S.-brokered ceasefire
+      agreement, revealing a growing rift between Prime Minister Benjamin Netanyahu
+      and President Donald Trump, as the Israeli leadership obstructs efforts to end
+      violence and restore normalcy in Gaza.
+    paragraph_summary: Elijah J. Magnier berichtet, dass Israel absichtlich die Umsetzung
+      eines von den USA vermittelten Waffenstillstands verzögert, was zu einer wachsenden
+      Kluft zwischen Premierminister Benjamin Netanjahu und Präsident Donald Trump führt.
+      Der Waffenstillstand, der nach zwei Jahren Krieg in Gaza vereinbart wurde, sollte
+      das Blutvergießen beenden und humanitäre Hilfe ermöglichen, wird jedoch von der
+      israelischen Führung behindert, die versucht, militärische Kontrolle über große
+      Teile des Gazastreifens zu behalten. Während die Hamas einige israelische Soldatenleichen
+      zurückgegeben hat und internationale Hilfe zur Bergung weiterer Leichname anfordert,
+      bleibt die Umsetzung des Abkommens, das unter anderem die Öffnung des Grenzübergangs
+      Rafah und die Lieferung von Hilfsgütern vorsieht, aus. Eine türkische Such- und
+      Bergungsmission hat sich bereit erklärt, bei der Bergung der Leichname zu helfen.
+    published: '2025-10-21T08:26:54+00:00'
+  - title: 'Netanjahu trotzt Trump: Israel verzögert Umsetzung des Waffenstillstands
+      in Gaza'
+    url: https://ejmagnier.com/2025/10/21/netanjahu-trotzt-trump-israel-verzogert-umsetzung-des-waffenstillstands-in-gaza/
+    text: 'Tweet Von Elijah J. Magnier – Israel verzögert absichtlich die Umsetzung
+      des unter dem Druck der USA vereinbarten Waffenstillstands, was eine sich vertiefende
+      Kluft zwischen Premierminister Benjamin Netanjahu und Präsident Donald Trump offenbart.
+      Das Abkommen, das Trump Netanjahu nach zwei Jahren verheerenden Krieges in Gaza
+      aufgezwungen hatte, sollte das Blutvergießen beenden, die Grenzübergänge öffnen
+      und humanitäre Hilfe und Wiederaufbau ermöglichen. Doch Wochen später behindert
+      die israelische Führung jeden Schritt des Abkommens und versucht, die militärische
+      Kontrolle über mehr als die Hälfte des Gazastreifens aufrechtzuerhalten und jegliche
+      Anzeichen einer Erholung oder eines normalen Lebens in der Enklave zu verhindern.
+      Der Waffenstillstand, der vom Weißen Haus nach heftigem Widerstand von Netanjahu
+      durchgesetzt wurde, sah vor, dass Israel seine Militäroperationen einstellt, sich
+      aus mehreren besetzten Gebieten zurückzieht, den Grenzübergang Rafah wieder öffnet
+      und täglich mindestens 600 Hilfsgüter-Lkw in den Gazastreifen einfahren lässt.
+      Im Gegenzug sollte die Hamas alle verbleibenden israelischen Gefangenen freilassen
+      und die Leichen derjenigen übergeben, die während der israelischen Bombardements
+      getötet wurden. Die Hamas hat die Leichen von zehn israelischen Soldaten zurückgegeben
+      und um internationale Hilfe gebeten, um die übrigen Leichen zu bergen, die vermutlich
+      unter Tausenden Tonnen von Trümmern begraben sind. Viele dieser Überreste liegen
+      unter eingestürzten Gebäuden und Tunneln, die durch israelische Luftangriffe zerstört
+      wurden, und die Hamas hat um die Intervention von spezialisierten regionalen Teams
+      gebeten, die für solche Arbeiten ausgerüstet sind. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Eine türkische Such- und Bergungsmission, eine der wenigen, die über
+      die technischen Kapazitäten verfügt, um unter solchen Bedingungen zu arbeiten,
+      hat sich freiwillig zur Hilfe bereit erklärt. Israel hat jedoch unter Berufung
+      auf Sicherheitsbedenken ihre Einreise nach Gaza blockiert. Das eigentliche Motiv
+      scheint Israels Wunsch zu sein, die Bergung der Leichen seiner Soldaten zu verzögern
+      und diese Frage als Druckmittel zu nutzen, um die Umsetzung der Waffenstillstandsklauseln
+      hinauszuzögern. In der Praxis hat dies Israel in die Lage versetzt, etwa 53 Prozent
+      des Gazastreifens, insbesondere die zerstörten Gebiete im Süden und in der Mitte,
+      weiterhin fest unter militärischer Kontrolle zu halten. Die Lage ist dramatisch.
+      Gesandte der Vereinten Nationen vor Ort haben bestätigt, dass es an den schweren
+      Maschinen mangelt, die erforderlich sind, um die geschätzten 60.000 Tonnen Trümmer
+      zu beseitigen, die derzeit den Gazastreifen bedecken. In den letzten zwei Jahren
+      wurden mehr als 200.000 Tonnen Sprengstoff auf Gaza abgeworfen, wodurch ganze
+      Stadtteile dem Erdboden gleichgemacht wurden. Straßen sind verschwunden, Wohngebiete
+      wurden ausgelöscht, und ganze Gemeinden liegen unter den Trümmern begraben. Israel
+      hat keine Absicht gezeigt, den Wiederaufbau oder auch nur die Beseitigung der
+      Trümmer zuzulassen, sondern zieht es vor, dass die überlebende Bevölkerung weiterhin
+      in Notunterkünften oder inmitten der Trümmer ihrer zerstörten Häuser lebt. Bulldozer
+      waren monatelang im Einsatz, um die Topografie ganzer Stadtteile zu verändern,
+      die alte Stadtstruktur zu beseitigen und den Weg für neue, von Israel kontrollierte
+      Zonen zu ebnen, die später zu Siedlungen oder militärischen Sperrgebieten werden
+      könnten. Netanjahus Taktik geht über Verzögerung hinaus. In der ersten Phase des
+      Rückzugs gab Israel bekannt, dass es sich auf eine „Sicherheitslinie” zurückgezogen
+      habe, die in der Praxis kein Zivilist in Gaza lokalisieren oder erkennen kann.
+      Die Linie ist unmarkiert, undefiniert und tödlich. Jeden Tag werden palästinensische
+      Zivilisten, die versuchen, sich ihren Häusern zu nähern, von israelischen Soldaten
+      erschossen, die unsichtbare Grenzen durchsetzen. Diese absichtliche Unklarheit
+      gewährt Israel Straffreiheit, unter dem Vorwand der Selbstverteidigung zu töten
+      und ein Klima der Angst aufrechtzuerhalten, das vertriebene Familien davon abhält,
+      zu ihren Grundstücken zurückzukehren. Die US-Regierung ist sich Netanjahus Geschichte
+      der Sabotage von Abkommen voll bewusst und hat Vizepräsident J. D. Vance und die
+      Sonderbeauftragten Steve Witkoff und Jared Kushner nach Israel entsandt, um die
+      Einhaltung des Waffenstillstands zu überwachen. Ihre Mission ist es, sicherzustellen,
+      dass Israel das einhält, was Trump als eine seiner bedeutendsten außenpolitischen
+      Errungenschaften ansieht. Doch Netanjahu widersetzt sich jeder Form der Kontrolle.
+      Trotz der vereinbarten Quote von 600 Lastwagen pro Tag hat Israel in einem Zeitraum
+      von zehn Tagen nur 700 Lastwagen in den Gazastreifen einfahren lassen – ein Bruchteil
+      dessen, was versprochen wurde. Lebensmittel, Treibstoff und medizinische Versorgung
+      sind nach wie vor knapp, und Israel nutzt humanitäre Hilfe weiterhin als Druckmittel
+      gegen die belagerte Bevölkerung. Das Weiße Haus hat versucht, diplomatische Flexibilität
+      zu wahren, und erklärt, dass Israel das Recht behält, seine eingesetzten Truppen
+      zu verteidigen und auf Verstöße der Hamas zu reagieren, ohne dabei notwendigerweise
+      gegen das Abkommen zu verstoßen. Diese Formulierung hat Netanjahu jedoch Spielraum
+      gegeben, den Waffenstillstand völlig neu zu interpretieren. Für ihn wird jeder
+      sporadische Akt des Widerstands aus dem Gazastreifen zu einem Vorwand, um die
+      Luftangriffe fortzusetzen, Truppen zu stationieren und die „Einstellung der Feindseligkeiten”
+      als einseitige israelische Pause statt als gegenseitigen Waffenstillstand neu
+      zu definieren. Da der israelische Wahlkampf für Oktober 2026 bereits begonnen
+      hat, treibt Netanjahus politischer Instinkt ihn zur Trotzhaltung. Sein Image als
+      Führer, der sich niemals dem Druck von außen – insbesondere aus Washington – beugt,
+      ist zu seinem wichtigsten Wahlkampfthema geworden. Innerhalb Israels unterstützt
+      die öffentliche Meinung weitgehend eine harte Linie. Nach der Freilassung von
+      zwanzig lebenden Geiseln und zehn Leichen wandten sich viele Israelis gegen das
+      Abkommen und forderten ihre Regierung auf, den Krieg wieder aufzunehmen und die
+      Hamas vollständig zu vernichten. Diese gesellschaftliche Stimmung der Rache bestärkt
+      Netanjahu in seiner Überzeugung, dass er nichts zu verlieren hat, wenn er das
+      Leiden in Gaza verlängert oder Trumps Vermittlungsbemühungen untergräbt. Die Kalkulation
+      des Premierministers ist einfach: Je länger er zögert, desto schwächer wird die
+      Position der USA und desto mehr kann er das Nachkriegs-Gaza nach den Sicherheitsprioritäten
+      Israels gestalten. Die Hamas ihrerseits hat gefordert, dass Israel die im 20-Punkte-Waffenstillstandsabkommen
+      festgelegte Rückzugslinie einhält und seine täglichen Übergriffe einstellt. Die
+      israelischen Streitkräfte besetzen jedoch weiterhin Stellungen jenseits dieser
+      Grenzen und weigern sich, sich zurückzuziehen oder ihre genauen Koordinaten anzugeben.
+      In mehreren Fällen haben israelische Angriffe und Scharfschützenfeuer Zivilisten
+      getötet, die versuchten, in ihre Viertel zurückzukehren, was einen klaren Verstoß
+      gegen den Wortlaut und den Geist des Waffenstillstands darstellt. Gleichzeitig
+      hat Israel begonnen, in Gaza eine Strategie zu wiederholen, die zuvor im Südlibanon
+      angewendet wurde: die Schaffung lokaler Stellvertreterkräfte. In der gesamten
+      Gazastreifen sind mehrere neue bewaffnete Gruppen entstanden, die von Israel finanziert
+      und ausgerüstet werden. In Rafah wurde eine Miliz, die sich „Volkskräfte” unter
+      Yasser Abu Shabab nennt, beschuldigt, humanitäre Hilfe geplündert und Zivilisten
+      hingerichtet zu haben. Östlich von Khan Yunis führt Hosam al-Astal die sogenannte
+      „Counterterrorism Striking Force” an, während in al-Shujaiya Rami Halas eine weitere
+      pro-israelische Formation befehligt. Im Norden steht Ashraf al-Mansi an der Spitze
+      einer Gruppe namens „Volksarmee”, die in Beit Lahya und Beit Hanoun operiert.
+      Diese Milizen haben die Aufgabe, die Bevölkerung zu kontrollieren, Dissidenten
+      zu unterdrücken und im Auftrag Israels Mitglieder des Widerstands zu bekämpfen.
+      Das Modell ähnelt der Südlibanesischen Armee, die nach dem Rückzug Israels im
+      Jahr 2000 zusammenbrach. Die Geschichte zeigt, dass solche Stellvertreterstrukturen
+      letztendlich nach hinten losgehen, indem sie Ressentiments schüren und die Legitimität
+      bewaffneter Widerstandsbewegungen stärken. Dieser interne israelisch-amerikanische
+      Konflikt hat sich zu einem persönlichen Wettstreit zwischen Netanjahu und Trump
+      entwickelt. Der israelische Premierminister, der für seine politische Gerissenheit
+      bekannt ist, testet, wie weit er das Abkommen neu interpretieren kann, ohne eine
+      direkte Konfrontation mit Washington zu provozieren. Trump, der sich gerne als
+      Beendiger des Krieges profilieren möchte, ist hin- und hergerissen zwischen der
+      Durchsetzung seiner Autorität und der Vermeidung einer öffentlichen Spaltung mit
+      Israel. Netanjahus Methode besteht darin, die Waffenstillstandsbedingungen zu
+      verzögern, zu provozieren und zu manipulieren, bis er seine eigene Version der
+      „Einhaltung” präsentieren kann, während er Gaza de facto unter Besatzung hält.
+      Unterdessen verschärft sich die humanitäre Krise. Tausende vertriebene Familien
+      schlafen in provisorischen Zelten neben den Trümmern ihrer Häuser. Die Wasser-,
+      Strom- und medizinische Versorgung ist weiterhin zusammengebrochen. Das Ausbleiben
+      des Wiederaufbaus lässt eine düstere Zukunft erwarten: Eine Bevölkerung, die in
+      ihrem eigenen Land zur Obdachlosigkeit verdammt ist, ohne sichtbare Anzeichen
+      einer Erholung. Israels Weigerung, die Beseitigung der Trümmer oder den Wiederaufbau
+      zuzulassen, zielt darauf ab, Gaza unbewohnbar zu machen, die Rückkehr zu verhindern
+      und sicherzustellen, dass die palästinensische Präsenz auch in Zukunft minimal,
+      fragmentiert und von der israelischen Kontrolle abhängig bleibt. Der Ausgang dieses
+      Konflikts wird von der Ausdauer abhängen. Die Regierung Netanjahu hat bewiesen,
+      dass sie dem Druck der USA standhalten kann, indem sie sich auf die Unterstützung
+      im Inland und die militärische Kontrolle stützt, um ihre Ziele zu verfolgen. Trump
+      hingegen steht unter politischem Druck: Er braucht sichtbare Ergebnisse, bevor
+      die Welt zu dem Schluss kommt, dass der von ihm vermittelte Waffenstillstand gescheitert
+      ist. Vorerst signalisiert die Anwesenheit des US-Gesandten in Israel ein fortgesetztes
+      Engagement der USA, aber ob diese Anwesenheit echte Veränderungen bewirken kann,
+      bleibt ungewiss. Der lang anhaltende Waffenstillstand in Gaza ist eine fragile
+      Illusion – ein Krieg, der unterbrochen, aber nicht beendet ist. Netanjahu gestaltet
+      seine Bedingungen neu, um die Vorherrschaft Israels zu bewahren, während Trump
+      versucht, seine diplomatische Glaubwürdigkeit zu retten. Zwischen ihnen liegt
+      ein verwüstetes Gebiet, ein heimatloses, aber sehr entschlossenes Volk, das in
+      dem Land seiner Vorfahren bleiben will, und ein Waffenstillstand, der von der
+      Politik als Geisel genommen wird. Subscribe Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Israel delays the implementation of a U.S.-brokered ceasefire
+      agreement, revealing a growing rift between Prime Minister Benjamin Netanyahu
+      and President Donald Trump, as the Israeli leadership obstructs efforts to end
+      violence and restore normalcy in Gaza.
+    paragraph_summary: Elijah J. Magnier berichtet, dass Israel absichtlich die Umsetzung
+      eines von den USA vermittelten Waffenstillstands verzögert, was zu einer wachsenden
+      Kluft zwischen Premierminister Benjamin Netanjahu und Präsident Donald Trump führt.
+      Der Waffenstillstand, der nach zwei Jahren Krieg in Gaza vereinbart wurde, sollte
+      das Blutvergießen beenden und humanitäre Hilfe ermöglichen, wird jedoch von der
+      israelischen Führung behindert, die versucht, militärische Kontrolle über große
+      Teile des Gazastreifens zu behalten. Während die Hamas einige israelische Soldatenleichen
+      zurückgegeben hat und internationale Hilfe zur Bergung weiterer Leichname anfordert,
+      bleibt die Umsetzung des Abkommens, das unter anderem die Öffnung des Grenzübergangs
+      Rafah und die Lieferung von Hilfsgütern vorsieht, aus. Eine türkische Such- und
+      Bergungsmission hat sich bereit erklärt, bei der Bergung der Leichname zu helfen.
+    published: '2025-10-21T08:26:54+00:00'
+  - title: 'Netanyahu trotseert Trump: Israël vertraagt uitvoering van staakt-het-vuren
+      in Gaza'
+    url: https://ejmagnier.com/2025/10/21/netanyahu-trotseert-trump-israel-vertraagt-uitvoering-van-staakt-het-vuren-in-gaza/
+    text: Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Israël
+      vertraagt opzettelijk de uitvoering van het staakt-het-vuren dat onder druk van
+      de VS is overeengekomen, waardoor de kloof tussen premier Benjamin Netanyahu en
+      president Donald Trump steeds groter wordt. De overeenkomst, die Trump Netanyahu
+      na twee jaar van verwoestende oorlog in Gaza heeft opgelegd, was bedoeld om een
+      einde te maken aan het bloedvergieten, de grensovergangen te openen en humanitaire
+      hulp en wederopbouw mogelijk te maken. Maar weken later belemmert het Israëlische
+      leiderschap elke stap van de overeenkomst, in een poging om de militaire controle
+      over meer dan de helft van Gaza te behouden en te voorkomen dat er enig teken
+      van herstel of normaal leven in de enclave terugkeert. Het staakt-het-vuren, dat
+      door het Witte Huis werd opgelegd na hevig verzet van Netanyahu, bepaalde dat
+      Israël zijn militaire operaties moest staken, zich uit verschillende bezette gebieden
+      moest terugtrekken, de grensovergang bij Rafah weer moest openen en dagelijks
+      minstens 600 hulpgoederenvrachtwagens Gaza moest binnenlaten. In ruil daarvoor
+      moest Hamas alle resterende Israëlische gevangenen vrijlaten en de lichamen van
+      degenen die tijdens de Israëlische bombardementen waren omgekomen, overhandigen.
+      Hamas heeft de lichamen van tien Israëlische soldaten teruggegeven en een beroep
+      gedaan op internationale hulp om de overige lichamen te bergen, die vermoedelijk
+      onder duizenden tonnen puin bedolven liggen. Veel van deze stoffelijke resten
+      liggen onder ingestorte gebouwen en tunnels die door Israëlische luchtaanvallen
+      zijn verwoest, en Hamas heeft om de hulp gevraagd van gespecialiseerde regionale
+      teams die voor dergelijk werk zijn uitgerust. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Israël vertraagt opzettelijk de uitvoering van een door de
+      VS opgelegd staakt-het-vuren, wat de kloof tussen premier Netanyahu en president
+      Trump vergroot en de humanitaire situatie in Gaza verergert.
+    paragraph_summary: Elijah J. Magnier's article, translated by Francis J. Israël,
+      discusses the intentional delay by Israel in implementing a ceasefire agreement
+      pressured by the U.S., which is widening the rift between Israeli Prime Minister
+      Benjamin Netanyahu and U.S. President Donald Trump. The ceasefire, aimed at ending
+      the violence in Gaza after two years of conflict, was supposed to facilitate humanitarian
+      aid and reconstruction. However, Israeli leadership is obstructing the agreement
+      to maintain military control over much of Gaza and prevent any signs of recovery.
+      The ceasefire required Israel to halt military operations, withdraw from occupied
+      areas, reopen the Rafah border crossing, and allow the entry of aid, while Hamas
+      was to release remaining Israeli prisoners and return the bodies of those killed.
+      Hamas has returned the remains of ten Israeli soldiers and is seeking international
+      assistance to recover other bodies believed to be trapped under rubble from Israeli
+      airstrikes.
+    published: '2025-10-21T05:33:56+00:00'
+  - title: 'Netanyahu trotseert Trump: Israël vertraagt uitvoering van staakt-het-vuren
+      in Gaza'
+    url: https://ejmagnier.com/2025/10/21/netanyahu-trotseert-trump-israel-vertraagt-uitvoering-van-staakt-het-vuren-in-gaza/
+    text: Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Israël
+      vertraagt opzettelijk de uitvoering van het staakt-het-vuren dat onder druk van
+      de VS is overeengekomen, waardoor de kloof tussen premier Benjamin Netanyahu en
+      president Donald Trump steeds groter wordt. De overeenkomst, die Trump Netanyahu
+      na twee jaar van verwoestende oorlog in Gaza heeft opgelegd, was bedoeld om een
+      einde te maken aan het bloedvergieten, de grensovergangen te openen en humanitaire
+      hulp en wederopbouw mogelijk te maken. Maar weken later belemmert het Israëlische
+      leiderschap elke stap van de overeenkomst, in een poging om de militaire controle
+      over meer dan de helft van Gaza te behouden en te voorkomen dat er enig teken
+      van herstel of normaal leven in de enclave terugkeert. Het staakt-het-vuren, dat
+      door het Witte Huis werd opgelegd na hevig verzet van Netanyahu, bepaalde dat
+      Israël zijn militaire operaties moest staken, zich uit verschillende bezette gebieden
+      moest terugtrekken, de grensovergang bij Rafah weer moest openen en dagelijks
+      minstens 600 hulpgoederenvrachtwagens Gaza moest binnenlaten. In ruil daarvoor
+      moest Hamas alle resterende Israëlische gevangenen vrijlaten en de lichamen van
+      degenen die tijdens de Israëlische bombardementen waren omgekomen, overhandigen.
+      Hamas heeft de lichamen van tien Israëlische soldaten teruggegeven en een beroep
+      gedaan op internationale hulp om de overige lichamen te bergen, die vermoedelijk
+      onder duizenden tonnen puin bedolven liggen. Veel van deze stoffelijke resten
+      liggen onder ingestorte gebouwen en tunnels die door Israëlische luchtaanvallen
+      zijn verwoest, en Hamas heeft om de hulp gevraagd van gespecialiseerde regionale
+      teams die voor dergelijk werk zijn uitgerust. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Israël vertraagt opzettelijk de uitvoering van een door de
+      VS opgelegd staakt-het-vuren, wat de kloof tussen premier Netanyahu en president
+      Trump vergroot en de humanitaire situatie in Gaza verergert.
+    paragraph_summary: Elijah J. Magnier's article, translated by Francis J. Israël,
+      discusses the intentional delay by Israel in implementing a ceasefire agreement
+      pressured by the U.S., which is widening the rift between Israeli Prime Minister
+      Benjamin Netanyahu and U.S. President Donald Trump. The ceasefire, aimed at ending
+      the violence in Gaza after two years of conflict, was supposed to facilitate humanitarian
+      aid and reconstruction. However, Israeli leadership is obstructing the agreement
+      to maintain military control over much of Gaza and prevent any signs of recovery.
+      The ceasefire required Israel to halt military operations, withdraw from occupied
+      areas, reopen the Rafah border crossing, and allow the entry of aid, while Hamas
+      was to release remaining Israeli prisoners and return the bodies of those killed.
+      Hamas has returned the remains of ten Israeli soldiers and is seeking international
+      assistance to recover other bodies believed to be trapped under rubble from Israeli
+      airstrikes.
+    published: '2025-10-21T05:33:56+00:00'
+  - title: 'Netanyahu Defies Trump’s plan: Israel Stalls Gaza Ceasefire Implementation'
+    url: https://ejmagnier.com/2025/10/20/netanyahu-defies-trumps-plan-israel-stalls-gaza-ceasefire-implementation/
+    text: Tweet By Elijah J. Magnier – Israel is deliberately delaying the implementation
+      of the cessation of hostilities agreed under U.S. pressure, revealing a widening
+      rift between Prime Minister Benjamin Netanyahu and President Donald Trump. The
+      deal, which Trump forced upon Netanyahu after two years of devastating war in
+      Gaza, was intended to end the bloodshed, open crossings, and allow humanitarian
+      relief and reconstruction. Yet, weeks later, the Israeli leadership is obstructing
+      every step of the agreement, seeking to maintain military control over more than
+      half of Gaza and prevent any sign of recovery or normal life from re-emerging
+      in the enclave. The ceasefire, imposed by the White House after strong resistance
+      from Netanyahu, stipulated that Israel halt its military operations, withdraw
+      from several occupied zones, reopen the Rafah crossing, and allow at least 600
+      aid trucks daily to enter Gaza. In return, Hamas was to release all remaining
+      Israeli prisoners and hand over the bodies of those killed during Israel’s bombing
+      campaign. Hamas has returned the corpses of ten Israeli soldiers and appealed
+      for international assistance to recover the remaining bodies believed to be trapped
+      beneath thousands of tonnes of debris. Many of these remains lie under collapsed
+      buildings and tunnels destroyed by Israeli airstrikes, and Hamas has asked for
+      the intervention of specialised regional teams equipped for such work. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Israel is intentionally stalling the implementation of a ceasefire
+      agreement pressured by the U.S., highlighting a growing divide between Prime Minister
+      Netanyahu and President Trump, as the Israeli leadership seeks to maintain military
+      control over Gaza despite the deal's terms aimed at ending hostilities and facilitating
+      humanitarian aid.
+    paragraph_summary: Elijah J. Magnier reports that Israel is intentionally stalling
+      the implementation of a ceasefire agreement brokered by the U.S. between Prime
+      Minister Benjamin Netanyahu and President Donald Trump, which aimed to end the
+      violence in Gaza and facilitate humanitarian aid. Despite the agreement's stipulations
+      for Israel to cease military operations, withdraw from occupied areas, and allow
+      aid into Gaza, Israeli leadership is obstructing these measures to maintain control
+      over the region and prevent recovery efforts. Meanwhile, Hamas has returned the
+      remains of ten Israeli soldiers and is seeking international help to recover additional
+      bodies believed to be trapped under rubble from Israeli airstrikes.
+    published: '2025-10-20T17:02:56+00:00'
+  - title: 'Netanyahu Defies Trump’s plan: Israel Stalls Gaza Ceasefire Implementation'
+    url: https://ejmagnier.com/2025/10/20/netanyahu-defies-trumps-plan-israel-stalls-gaza-ceasefire-implementation/
+    text: Tweet By Elijah J. Magnier – Israel is deliberately delaying the implementation
+      of the cessation of hostilities agreed under U.S. pressure, revealing a widening
+      rift between Prime Minister Benjamin Netanyahu and President Donald Trump. The
+      deal, which Trump forced upon Netanyahu after two years of devastating war in
+      Gaza, was intended to end the bloodshed, open crossings, and allow humanitarian
+      relief and reconstruction. Yet, weeks later, the Israeli leadership is obstructing
+      every step of the agreement, seeking to maintain military control over more than
+      half of Gaza and prevent any sign of recovery or normal life from re-emerging
+      in the enclave. The ceasefire, imposed by the White House after strong resistance
+      from Netanyahu, stipulated that Israel halt its military operations, withdraw
+      from several occupied zones, reopen the Rafah crossing, and allow at least 600
+      aid trucks daily to enter Gaza. In return, Hamas was to release all remaining
+      Israeli prisoners and hand over the bodies of those killed during Israel’s bombing
+      campaign. Hamas has returned the corpses of ten Israeli soldiers and appealed
+      for international assistance to recover the remaining bodies believed to be trapped
+      beneath thousands of tonnes of debris. Many of these remains lie under collapsed
+      buildings and tunnels destroyed by Israeli airstrikes, and Hamas has asked for
+      the intervention of specialised regional teams equipped for such work. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Israel is intentionally stalling the implementation of a ceasefire
+      agreement pressured by the U.S., highlighting a growing divide between Prime Minister
+      Netanyahu and President Trump, as the Israeli leadership seeks to maintain military
+      control over Gaza despite the deal's terms aimed at ending hostilities and facilitating
+      humanitarian aid.
+    paragraph_summary: Elijah J. Magnier reports that Israel is intentionally stalling
+      the implementation of a ceasefire agreement brokered by the U.S. between Prime
+      Minister Benjamin Netanyahu and President Donald Trump, which aimed to end the
+      violence in Gaza and facilitate humanitarian aid. Despite the agreement's stipulations
+      for Israel to cease military operations, withdraw from occupied areas, and allow
+      aid into Gaza, Israeli leadership is obstructing these measures to maintain control
+      over the region and prevent recovery efforts. Meanwhile, Hamas has returned the
+      remains of ten Israeli soldiers and is seeking international help to recover additional
+      bodies believed to be trapped under rubble from Israeli airstrikes.
+    published: '2025-10-20T17:02:56+00:00'
+  - title: 'Netanyahu défie le plan de Trump : Israël bloque la mise en œuvre du cessez-le-feu
+      à Gaza'
+    url: https://ejmagnier.com/2025/10/20/netanyahu-defie-le-plan-de-trump-israel-bloque-la-mise-en-oeuvre-du-cessez-le-feu-a-gaza/
+    text: Tweet Par Elijah J. Magnier – Israël retarde délibérément la mise en œuvre
+      de la cessation des hostilités imposée sous la pression des États-Unis, révélant
+      un fossé grandissant entre le Premier ministre Benjamin Netanyahou et le président
+      Donald Trump. L’accord, que Trump a forcé Netanyahou à accepter après deux années
+      d’une guerre dévastatrice à Gaza, visait à mettre fin à l’effusion de sang, à
+      rouvrir les points de passage et à permettre l’arrivée d’une aide humanitaire
+      ainsi que la reconstruction du territoire. Pourtant, des semaines plus tard, la
+      direction israélienne bloque chacune des étapes de l’accord, cherchant à maintenir
+      un contrôle militaire sur plus de la moitié de la bande de Gaza et à empêcher
+      tout signe de redressement ou de retour à la vie normale dans l’enclave. Le cessez-le-feu,
+      imposé par la Maison-Blanche après une vive résistance de Netanyahou, stipulait
+      qu’Israël devait cesser ses opérations militaires, se retirer de plusieurs zones
+      occupées, rouvrir le passage de Rafah et autoriser l’entrée d’au moins 600 camions
+      d’aide humanitaire par jour dans Gaza. En contrepartie, le Hamas devait libérer
+      les prisonniers israéliens restants et remettre les corps de ceux tués lors des
+      bombardements israéliens. Le mouvement a rendu les dépouilles de dix soldats israéliens
+      et a demandé une assistance internationale pour retrouver les autres corps supposés
+      ensevelis sous des milliers de tonnes de décombres. Beaucoup de ces restes se
+      trouvent sous des bâtiments effondrés et des tunnels détruits par les frappes
+      aériennes israéliennes, et le Hamas a sollicité l’intervention d’équipes régionales
+      spécialisées, dotées de l’équipement nécessaire à ce type d’opérations. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Israël retarde intentionnellement l'application d'un cessez-le-feu
+      imposé par les États-Unis, révélant un écart croissant entre le Premier ministre
+      Netanyahou et le président Trump, alors que l'accord vise à mettre fin aux hostilités
+      et à permettre l'aide humanitaire à Gaza.
+    paragraph_summary: Elijah J. Magnier's tweet highlights the deliberate delay by
+      Israel in implementing a ceasefire agreement pressured by the United States, revealing
+      a growing rift between Prime Minister Benjamin Netanyahu and President Donald
+      Trump. The agreement, reached after two years of devastating conflict in Gaza,
+      aimed to end violence, reopen border crossings, and facilitate humanitarian aid
+      and reconstruction. However, weeks later, Israeli leadership is obstructing key
+      aspects of the deal, maintaining military control over much of Gaza and hindering
+      any signs of recovery. The ceasefire required Israel to cease military operations,
+      withdraw from occupied areas, and allow significant humanitarian aid into Gaza,
+      while Hamas was to release remaining Israeli prisoners and return the bodies of
+      those killed. Hamas has returned the remains of ten Israeli soldiers and is seeking
+      international assistance to recover others believed to be buried under rubble
+      from Israeli airstrikes.
+    published: '2025-10-20T16:59:46+00:00'
+  - title: 'Netanyahu défie le plan de Trump : Israël bloque la mise en œuvre du cessez-le-feu
+      à Gaza'
+    url: https://ejmagnier.com/2025/10/20/netanyahu-defie-le-plan-de-trump-israel-bloque-la-mise-en-oeuvre-du-cessez-le-feu-a-gaza/
+    text: Tweet Par Elijah J. Magnier – Israël retarde délibérément la mise en œuvre
+      de la cessation des hostilités imposée sous la pression des États-Unis, révélant
+      un fossé grandissant entre le Premier ministre Benjamin Netanyahou et le président
+      Donald Trump. L’accord, que Trump a forcé Netanyahou à accepter après deux années
+      d’une guerre dévastatrice à Gaza, visait à mettre fin à l’effusion de sang, à
+      rouvrir les points de passage et à permettre l’arrivée d’une aide humanitaire
+      ainsi que la reconstruction du territoire. Pourtant, des semaines plus tard, la
+      direction israélienne bloque chacune des étapes de l’accord, cherchant à maintenir
+      un contrôle militaire sur plus de la moitié de la bande de Gaza et à empêcher
+      tout signe de redressement ou de retour à la vie normale dans l’enclave. Le cessez-le-feu,
+      imposé par la Maison-Blanche après une vive résistance de Netanyahou, stipulait
+      qu’Israël devait cesser ses opérations militaires, se retirer de plusieurs zones
+      occupées, rouvrir le passage de Rafah et autoriser l’entrée d’au moins 600 camions
+      d’aide humanitaire par jour dans Gaza. En contrepartie, le Hamas devait libérer
+      les prisonniers israéliens restants et remettre les corps de ceux tués lors des
+      bombardements israéliens. Le mouvement a rendu les dépouilles de dix soldats israéliens
+      et a demandé une assistance internationale pour retrouver les autres corps supposés
+      ensevelis sous des milliers de tonnes de décombres. Beaucoup de ces restes se
+      trouvent sous des bâtiments effondrés et des tunnels détruits par les frappes
+      aériennes israéliennes, et le Hamas a sollicité l’intervention d’équipes régionales
+      spécialisées, dotées de l’équipement nécessaire à ce type d’opérations. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Israël retarde intentionnellement l'application d'un cessez-le-feu
+      imposé par les États-Unis, révélant un écart croissant entre le Premier ministre
+      Netanyahou et le président Trump, alors que l'accord vise à mettre fin aux hostilités
+      et à permettre l'aide humanitaire à Gaza.
+    paragraph_summary: Elijah J. Magnier's tweet highlights the deliberate delay by
+      Israel in implementing a ceasefire agreement pressured by the United States, revealing
+      a growing rift between Prime Minister Benjamin Netanyahu and President Donald
+      Trump. The agreement, reached after two years of devastating conflict in Gaza,
+      aimed to end violence, reopen border crossings, and facilitate humanitarian aid
+      and reconstruction. However, weeks later, Israeli leadership is obstructing key
+      aspects of the deal, maintaining military control over much of Gaza and hindering
+      any signs of recovery. The ceasefire required Israel to cease military operations,
+      withdraw from occupied areas, and allow significant humanitarian aid into Gaza,
+      while Hamas was to release remaining Israeli prisoners and return the bodies of
+      those killed. Hamas has returned the remains of ten Israeli soldiers and is seeking
+      international assistance to recover others believed to be buried under rubble
+      from Israeli airstrikes.
+    published: '2025-10-20T16:59:46+00:00'
+  - title: 'Wenn Israel foltert: Die brutale Botschaft der Straflosigkeit'
+    url: https://ejmagnier.com/2025/10/18/wenn-israel-foltert-die-brutale-botschaft-der-straflosigkeit/
+    text: 'Tweet Von Elijah J. Magnier Hinter jedem verstümmelten Körper steht ein Rechtsrahmen,
+      der Gerechtigkeit verspricht – aber nur für diejenigen, die mächtig genug sind,
+      ihn durchzusetzen. Viele der palästinensischen Leichen, die kürzlich aus israelischer
+      Haft zurückgebracht wurden, weisen laut medizinischen Teams und Beamten in Gaza
+      eindeutige Spuren von Folter auf. Von den rund 9.000 Palästinensern, die seit
+      Kriegsbeginn als vermisst gemeldet wurden, wurden bisher nur etwa 120 Leichen
+      zurückgegeben. Alle kamen in einfachen weißen Leichensäcken an, ohne Dokumente
+      und nur mit Nummern gekennzeichnet. Da die forensischen und DNA-Labors in Gaza
+      – zusammen mit 38 Krankenhäusern – zerstört wurden, ist es laut Gesundheitsministerium
+      nun unmöglich, viele der Toten zu identifizieren. Die Familien müssen ihre Angehörigen
+      anhand von Kleidungsfetzen, Narben oder einem Ring am Finger identifizieren. Hinter
+      den Verbrechen selbst verbirgt sich etwas noch Dunkleres: die Arroganz der Straflosigkeit.
+      Mit der Rückgabe von Leichen, die Spuren von Folter, Strangulation und Hinrichtung
+      aufweisen, hat Israel nicht nur die Toten freigelassen, sondern auch seine Macht
+      demonstriert. Der Zustand dieser Leichen war eine Botschaft, ein Spektakel der
+      Erniedrigung, das die Palästinenser daran erinnern sollte, was diejenigen erwartet,
+      die lebend gefangen genommen werden. Es war keine Verschleierung, sondern Theater;
+      kein Schweigen, sondern Drohung. Während Donald Trump erklärte, dass „alle israelischen
+      [20 lebenden Gefangenen] bei guter Gesundheit zurückgekehrt sind”, erzählten die
+      zusammen mit ihnen freigelassenen Palästinenser eine ganz andere Geschichte: Männer
+      und Frauen mit gebrochenen Knochen, verlorenen Gliedmaßen, unbehandelten Infektionen
+      und bleibenden Behinderungen. Andere berichteten von jahrelanger Demütigung, sexuellen
+      Übergriffen und der Verweigerung von Medikamenten – Zeugenaussagen, die eine gezielte
+      Politik der Erniedrigung belegen, die die Inhaftierung selbst zu einer Waffe macht.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Der Artikel beschreibt die Rückkehr von palästinensischen
+      Leichnamen aus israelischer Haft, die Anzeichen von Folter aufweisen, und hebt
+      die Herausforderungen bei der Identifizierung der Toten sowie die damit verbundene
+      Straflosigkeit hervor.
+    paragraph_summary: Der Artikel von Elijah J. Magnier thematisiert die Rückgabe palästinensischer
+      Leichname aus israelischer Haft, die deutliche Spuren von Folter aufweisen, und
+      kritisiert die damit verbundene Straflosigkeit und Machtarroganz Israels. Von
+      den etwa 9.000 vermissten Palästinensern wurden nur rund 120 Leichname zurückgegeben,
+      die in einfachen, anonymisierten Leichensäcken transportiert wurden, was die Identifizierung
+      erschwert. Die Zerstörung forensischer Einrichtungen in Gaza macht es den Familien
+      unmöglich, ihre Angehörigen ordnungsgemäß zu identifizieren, sodass sie auf persönliche
+      Merkmale angewiesen sind. Die Berichte über die Zustände der freigelassenen Gefangenen
+      widersprechen den Aussagen führender Politiker, die von guter Gesundheit sprechen,
+      und dokumentieren stattdessen systematische Misshandlungen und eine Politik der
+      Erniedrigung, die die Inhaftierung als eine Form der Machtdemonstration nutzt.
+    published: '2025-10-18T06:01:36+00:00'
+  - title: 'Wenn Israel foltert: Die brutale Botschaft der Straflosigkeit'
+    url: https://ejmagnier.com/2025/10/18/wenn-israel-foltert-die-brutale-botschaft-der-straflosigkeit/
+    text: 'Tweet Von Elijah J. Magnier Hinter jedem verstümmelten Körper steht ein Rechtsrahmen,
+      der Gerechtigkeit verspricht – aber nur für diejenigen, die mächtig genug sind,
+      ihn durchzusetzen. Viele der palästinensischen Leichen, die kürzlich aus israelischer
+      Haft zurückgebracht wurden, weisen laut medizinischen Teams und Beamten in Gaza
+      eindeutige Spuren von Folter auf. Von den rund 9.000 Palästinensern, die seit
+      Kriegsbeginn als vermisst gemeldet wurden, wurden bisher nur etwa 120 Leichen
+      zurückgegeben. Alle kamen in einfachen weißen Leichensäcken an, ohne Dokumente
+      und nur mit Nummern gekennzeichnet. Da die forensischen und DNA-Labors in Gaza
+      – zusammen mit 38 Krankenhäusern – zerstört wurden, ist es laut Gesundheitsministerium
+      nun unmöglich, viele der Toten zu identifizieren. Die Familien müssen ihre Angehörigen
+      anhand von Kleidungsfetzen, Narben oder einem Ring am Finger identifizieren. Hinter
+      den Verbrechen selbst verbirgt sich etwas noch Dunkleres: die Arroganz der Straflosigkeit.
+      Mit der Rückgabe von Leichen, die Spuren von Folter, Strangulation und Hinrichtung
+      aufweisen, hat Israel nicht nur die Toten freigelassen, sondern auch seine Macht
+      demonstriert. Der Zustand dieser Leichen war eine Botschaft, ein Spektakel der
+      Erniedrigung, das die Palästinenser daran erinnern sollte, was diejenigen erwartet,
+      die lebend gefangen genommen werden. Es war keine Verschleierung, sondern Theater;
+      kein Schweigen, sondern Drohung. Während Donald Trump erklärte, dass „alle israelischen
+      [20 lebenden Gefangenen] bei guter Gesundheit zurückgekehrt sind”, erzählten die
+      zusammen mit ihnen freigelassenen Palästinenser eine ganz andere Geschichte: Männer
+      und Frauen mit gebrochenen Knochen, verlorenen Gliedmaßen, unbehandelten Infektionen
+      und bleibenden Behinderungen. Andere berichteten von jahrelanger Demütigung, sexuellen
+      Übergriffen und der Verweigerung von Medikamenten – Zeugenaussagen, die eine gezielte
+      Politik der Erniedrigung belegen, die die Inhaftierung selbst zu einer Waffe macht.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Der Artikel beschreibt die Rückkehr von palästinensischen
+      Leichnamen aus israelischer Haft, die Anzeichen von Folter aufweisen, und hebt
+      die Herausforderungen bei der Identifizierung der Toten sowie die damit verbundene
+      Straflosigkeit hervor.
+    paragraph_summary: Der Artikel von Elijah J. Magnier thematisiert die Rückgabe palästinensischer
+      Leichname aus israelischer Haft, die deutliche Spuren von Folter aufweisen, und
+      kritisiert die damit verbundene Straflosigkeit und Machtarroganz Israels. Von
+      den etwa 9.000 vermissten Palästinensern wurden nur rund 120 Leichname zurückgegeben,
+      die in einfachen, anonymisierten Leichensäcken transportiert wurden, was die Identifizierung
+      erschwert. Die Zerstörung forensischer Einrichtungen in Gaza macht es den Familien
+      unmöglich, ihre Angehörigen ordnungsgemäß zu identifizieren, sodass sie auf persönliche
+      Merkmale angewiesen sind. Die Berichte über die Zustände der freigelassenen Gefangenen
+      widersprechen den Aussagen führender Politiker, die von guter Gesundheit sprechen,
+      und dokumentieren stattdessen systematische Misshandlungen und eine Politik der
+      Erniedrigung, die die Inhaftierung als eine Form der Machtdemonstration nutzt.
+    published: '2025-10-18T06:01:36+00:00'
+  - title: 'Wanneer Israël martelt: de wrede boodschap van straffeloosheid'
+    url: https://ejmagnier.com/2025/10/18/wanneer-israel-martelt-de-wrede-boodschap-van-straffeloosheid/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Achter
+      elk verminkt lichaam schuilt een wettelijk kader dat gerechtigheid belooft, maar
+      alleen voor degenen die machtig genoeg zijn om die te handhaven. Veel van de Palestijnse
+      lichamen die onlangs zijn teruggekeerd uit Israëlische hechtenis vertonen onmiskenbare
+      tekenen van marteling, aldus medische teams en functionarissen in Gaza. Van de
+      ongeveer 9.000 Palestijnen die sinds het begin van de oorlog als vermist zijn
+      opgegeven, zijn tot nu toe slechts ongeveer 120 lichamen teruggebracht. Ze kwamen
+      allemaal aan in gewone witte lijkzakken, zonder documenten en alleen voorzien
+      van een nummer. Nu de forensische en DNA-laboratoria van Gaza – samen met achtendertig
+      ziekenhuizen – zijn vernietigd, zegt het ministerie van Volksgezondheid dat het
+      nu onmogelijk is om veel van de doden te identificeren. Families moeten hun familieleden
+      herkennen aan kledingstukken, littekens of een ring om een vinger. Achter de misdaden
+      zelf schuilt iets duisterders: de arrogantie van straffeloosheid. Door lichamen
+      terug te geven met sporen van marteling, wurging en executie, gaf Israël niet
+      alleen de doden vrij, maar toonde het ook zijn macht. De toestand van deze lichamen
+      was een statement, een spektakel van vernedering bedoeld om de Palestijnen eraan
+      te herinneren wat hen te wachten staat als ze levend worden gevangengenomen. Het
+      was geen verhulling, maar theater; geen stilzwijgen, maar dreiging. Terwijl Donald
+      Trump verklaarde dat “alle Israëlische [20 levende gevangenen] in goede gezondheid
+      zijn teruggekeerd”, vertelden de Palestijnen die samen met hen werden vrijgelaten
+      een heel ander verhaal: mannen en vrouwen met verbrijzelde botten, verloren ledematen,
+      onbehandelde infecties en blijvende handicaps. Anderen vertelden over jaren van
+      vernedering, seksueel misbruik en het onthouden van medicijnen – getuigenissen
+      die een beeld schetsen van een opzettelijk beleid van vernedering, waarbij detentie
+      zelf als wapen wordt gebruikt. Artsen in Khan Younis en Rafah beschrijven lichamen
+      die aankomen met hun handen op hun rug gebonden, geblinddoekt of met schotwonden
+      in het hoofd en de borst. Velen vertoonden brandwonden en kneuzingen die volgens
+      artsen waren veroorzaakt door tanks of gepantserde voertuigen die over hen heen
+      waren gereden. Aan verschillende lichamen waren nog plastic of metalen boeien
+      bevestigd, en andere vertoonden touwafdrukken rond hun nek – bewijs van wurging
+      of vastbinden vóór de executie. Subscribe Subscribe to get access Read more of
+      this content when you subscribe today. Subscribe Submitting form Log in Make a
+      one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Het artikel beschrijft hoe de terugkeer van Palestijnse lichamen
+      uit Israëlische hechtenis, vaak met tekenen van marteling, de uitdagingen van
+      identificatie en gerechtigheid blootlegt, vooral nu de forensische middelen in
+      Gaza zijn vernietigd.
+    paragraph_summary: In een recent artikel beschrijft Elijah J. Magnier de gruwelijke
+      omstandigheden rond de terugkeer van Palestijnse lichamen uit Israëlische hechtenis,
+      waarbij medische teams in Gaza tekenen van marteling en mishandeling vaststelden.
+      Van de ongeveer 9.000 vermiste Palestijnen zijn er slechts 120 lichamen teruggebracht,
+      vaak in anonieme lijkzakken zonder identificatie. De vernietiging van forensische
+      en DNA-laboratoria in Gaza maakt identificatie moeilijk, waardoor families hun
+      geliefden moeten herkennen aan persoonlijke kenmerken. De teruggegeven lichamen,
+      die sporen van marteling vertonen, dienen als een macabere demonstratie van Israël's
+      macht en straffeloosheid, en weerspiegelen een beleid van vernedering en mishandeling
+      van Palestijnen in detentie. Terwijl Israël beweert dat vrijgelaten gevangenen
+      in goede gezondheid zijn, getuigen de ervaringen van deze mensen van ernstige
+      mishandeling en langdurige trauma's.
+    published: '2025-10-18T03:56:41+00:00'
+  - title: 'Wanneer Israël martelt: de wrede boodschap van straffeloosheid'
+    url: https://ejmagnier.com/2025/10/18/wanneer-israel-martelt-de-wrede-boodschap-van-straffeloosheid/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Achter
+      elk verminkt lichaam schuilt een wettelijk kader dat gerechtigheid belooft, maar
+      alleen voor degenen die machtig genoeg zijn om die te handhaven. Veel van de Palestijnse
+      lichamen die onlangs zijn teruggekeerd uit Israëlische hechtenis vertonen onmiskenbare
+      tekenen van marteling, aldus medische teams en functionarissen in Gaza. Van de
+      ongeveer 9.000 Palestijnen die sinds het begin van de oorlog als vermist zijn
+      opgegeven, zijn tot nu toe slechts ongeveer 120 lichamen teruggebracht. Ze kwamen
+      allemaal aan in gewone witte lijkzakken, zonder documenten en alleen voorzien
+      van een nummer. Nu de forensische en DNA-laboratoria van Gaza – samen met achtendertig
+      ziekenhuizen – zijn vernietigd, zegt het ministerie van Volksgezondheid dat het
+      nu onmogelijk is om veel van de doden te identificeren. Families moeten hun familieleden
+      herkennen aan kledingstukken, littekens of een ring om een vinger. Achter de misdaden
+      zelf schuilt iets duisterders: de arrogantie van straffeloosheid. Door lichamen
+      terug te geven met sporen van marteling, wurging en executie, gaf Israël niet
+      alleen de doden vrij, maar toonde het ook zijn macht. De toestand van deze lichamen
+      was een statement, een spektakel van vernedering bedoeld om de Palestijnen eraan
+      te herinneren wat hen te wachten staat als ze levend worden gevangengenomen. Het
+      was geen verhulling, maar theater; geen stilzwijgen, maar dreiging. Terwijl Donald
+      Trump verklaarde dat “alle Israëlische [20 levende gevangenen] in goede gezondheid
+      zijn teruggekeerd”, vertelden de Palestijnen die samen met hen werden vrijgelaten
+      een heel ander verhaal: mannen en vrouwen met verbrijzelde botten, verloren ledematen,
+      onbehandelde infecties en blijvende handicaps. Anderen vertelden over jaren van
+      vernedering, seksueel misbruik en het onthouden van medicijnen – getuigenissen
+      die een beeld schetsen van een opzettelijk beleid van vernedering, waarbij detentie
+      zelf als wapen wordt gebruikt. Artsen in Khan Younis en Rafah beschrijven lichamen
+      die aankomen met hun handen op hun rug gebonden, geblinddoekt of met schotwonden
+      in het hoofd en de borst. Velen vertoonden brandwonden en kneuzingen die volgens
+      artsen waren veroorzaakt door tanks of gepantserde voertuigen die over hen heen
+      waren gereden. Aan verschillende lichamen waren nog plastic of metalen boeien
+      bevestigd, en andere vertoonden touwafdrukken rond hun nek – bewijs van wurging
+      of vastbinden vóór de executie. Subscribe Subscribe to get access Read more of
+      this content when you subscribe today. Subscribe Submitting form Log in Make a
+      one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Het artikel beschrijft hoe de terugkeer van Palestijnse lichamen
+      uit Israëlische hechtenis, vaak met tekenen van marteling, de uitdagingen van
+      identificatie en gerechtigheid blootlegt, vooral nu de forensische middelen in
+      Gaza zijn vernietigd.
+    paragraph_summary: In een recent artikel beschrijft Elijah J. Magnier de gruwelijke
+      omstandigheden rond de terugkeer van Palestijnse lichamen uit Israëlische hechtenis,
+      waarbij medische teams in Gaza tekenen van marteling en mishandeling vaststelden.
+      Van de ongeveer 9.000 vermiste Palestijnen zijn er slechts 120 lichamen teruggebracht,
+      vaak in anonieme lijkzakken zonder identificatie. De vernietiging van forensische
+      en DNA-laboratoria in Gaza maakt identificatie moeilijk, waardoor families hun
+      geliefden moeten herkennen aan persoonlijke kenmerken. De teruggegeven lichamen,
+      die sporen van marteling vertonen, dienen als een macabere demonstratie van Israël's
+      macht en straffeloosheid, en weerspiegelen een beleid van vernedering en mishandeling
+      van Palestijnen in detentie. Terwijl Israël beweert dat vrijgelaten gevangenen
+      in goede gezondheid zijn, getuigen de ervaringen van deze mensen van ernstige
+      mishandeling en langdurige trauma's.
+    published: '2025-10-18T03:56:41+00:00'
+  - title: 'When Israel Tortures: The Brutal Message of Impunity'
+    url: https://ejmagnier.com/2025/10/17/when-israel-tortures-the-brutal-message-of-impunity/
+    text: 'Tweet By Elijah J. Magnier Behind every mutilated body lies a legal framework
+      that promises justice — but only for those powerful enough to enforce it. Many
+      of the Palestinian bodies recently returned from Israeli custody show unmistakable
+      signs of torture, according to medical teams and officials in Gaza. Of the roughly
+      9,000 Palestinians reported missing since the start of the war, only about 120
+      bodies have so far been returned. All arrived in plain white body bags, stripped
+      of documents and tagged only with numbers. With Gaza’s forensic and DNA laboratories
+      obliterated — along with thirty-eight hospitals — the Health Ministry says it
+      is now impossible to identify many of the dead. Families must recognise their
+      relatives by fragments of clothing, scars, or a ring on a finger. Beyond the crimes
+      themselves lies something darker: the arrogance of impunity. By returning corpses
+      bearing signs of torture, strangulation, and execution, Israel was not merely
+      releasing the dead — it was displaying its power. The condition of these bodies
+      was a statement, a spectacle of degradation meant to remind Palestinians of what
+      awaits those captured alive. It was not concealment but theatre; not silence but
+      threat. As Donald Trump declared that “all Israeli [20 prisoners alive] returned
+      in good health,” the Palestinians released alongside them told a radically different
+      story: men and women emerging with crushed bones, lost limbs, untreated infections,
+      and permanent disabilities. Others recounted years of humiliation, sexual assault,
+      and the denial of medication — testimonies that map a deliberate policy of degradation
+      turning detention itself into a weapon. Doctors in Khan Younis and Rafah describe
+      bodies arriving with their hands tied behind their backs, blindfolded, or bearing
+      gunshot wounds to the head and chest. Many showed burns and crushing injuries
+      doctors believe were caused by tanks or armoured vehicles running over them. Several
+      remains still had plastic or metal restraints attached, and others bore rope marks
+      around their necks — evidence of strangulation or restraint before execution.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: The article discusses the return of mutilated Palestinian
+      bodies from Israeli custody, highlighting the signs of torture and the challenges
+      families face in identifying their loved ones amidst a backdrop of legal impunity
+      and the destruction of Gaza's forensic capabilities.
+    paragraph_summary: The article by Elijah J. Magnier highlights the grim reality
+      faced by Palestinians in the context of the ongoing conflict, particularly focusing
+      on the return of mutilated bodies from Israeli custody, which show clear signs
+      of torture. With around 9,000 Palestinians reported missing since the war began,
+      only about 120 bodies have been returned, often in plain white bags devoid of
+      identification, making it nearly impossible for families to recognize their loved
+      ones due to the destruction of Gaza's forensic capabilities. The condition of
+      these bodies serves as a disturbing display of power and impunity by Israel, intended
+      to instill fear among Palestinians. In stark contrast to claims of humane treatment
+      by Israeli officials, testimonies from released prisoners reveal a harrowing experience
+      of abuse, neglect, and physical trauma, underscoring a systematic policy of degradation
+      within the detention system. Medical professionals report horrific injuries on
+      the returned bodies, further emphasizing the brutality of the situation.
+    published: '2025-10-17T16:18:37+00:00'
+  - title: 'When Israel Tortures: The Brutal Message of Impunity'
+    url: https://ejmagnier.com/2025/10/17/when-israel-tortures-the-brutal-message-of-impunity/
+    text: 'Tweet By Elijah J. Magnier Behind every mutilated body lies a legal framework
+      that promises justice — but only for those powerful enough to enforce it. Many
+      of the Palestinian bodies recently returned from Israeli custody show unmistakable
+      signs of torture, according to medical teams and officials in Gaza. Of the roughly
+      9,000 Palestinians reported missing since the start of the war, only about 120
+      bodies have so far been returned. All arrived in plain white body bags, stripped
+      of documents and tagged only with numbers. With Gaza’s forensic and DNA laboratories
+      obliterated — along with thirty-eight hospitals — the Health Ministry says it
+      is now impossible to identify many of the dead. Families must recognise their
+      relatives by fragments of clothing, scars, or a ring on a finger. Beyond the crimes
+      themselves lies something darker: the arrogance of impunity. By returning corpses
+      bearing signs of torture, strangulation, and execution, Israel was not merely
+      releasing the dead — it was displaying its power. The condition of these bodies
+      was a statement, a spectacle of degradation meant to remind Palestinians of what
+      awaits those captured alive. It was not concealment but theatre; not silence but
+      threat. As Donald Trump declared that “all Israeli [20 prisoners alive] returned
+      in good health,” the Palestinians released alongside them told a radically different
+      story: men and women emerging with crushed bones, lost limbs, untreated infections,
+      and permanent disabilities. Others recounted years of humiliation, sexual assault,
+      and the denial of medication — testimonies that map a deliberate policy of degradation
+      turning detention itself into a weapon. Doctors in Khan Younis and Rafah describe
+      bodies arriving with their hands tied behind their backs, blindfolded, or bearing
+      gunshot wounds to the head and chest. Many showed burns and crushing injuries
+      doctors believe were caused by tanks or armoured vehicles running over them. Several
+      remains still had plastic or metal restraints attached, and others bore rope marks
+      around their necks — evidence of strangulation or restraint before execution.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: The article discusses the return of mutilated Palestinian
+      bodies from Israeli custody, highlighting the signs of torture and the challenges
+      families face in identifying their loved ones amidst a backdrop of legal impunity
+      and the destruction of Gaza's forensic capabilities.
+    paragraph_summary: The article by Elijah J. Magnier highlights the grim reality
+      faced by Palestinians in the context of the ongoing conflict, particularly focusing
+      on the return of mutilated bodies from Israeli custody, which show clear signs
+      of torture. With around 9,000 Palestinians reported missing since the war began,
+      only about 120 bodies have been returned, often in plain white bags devoid of
+      identification, making it nearly impossible for families to recognize their loved
+      ones due to the destruction of Gaza's forensic capabilities. The condition of
+      these bodies serves as a disturbing display of power and impunity by Israel, intended
+      to instill fear among Palestinians. In stark contrast to claims of humane treatment
+      by Israeli officials, testimonies from released prisoners reveal a harrowing experience
+      of abuse, neglect, and physical trauma, underscoring a systematic policy of degradation
+      within the detention system. Medical professionals report horrific injuries on
+      the returned bodies, further emphasizing the brutality of the situation.
+    published: '2025-10-17T16:18:37+00:00'
+  - title: 'Quand Israël torture : le message brutal de l’impunité'
+    url: https://ejmagnier.com/2025/10/17/quand-israel-torture-le-message-brutal-de-limpunite/
+    text: 'Tweet Par Elijah J. Magnier Derrière chaque corps mutilé se cache un cadre
+      juridique qui promet la justice — mais seulement à ceux qui détiennent le pouvoir
+      de l’imposer. De nombreux corps palestiniens récemment restitués par les autorités
+      israéliennes portent des signes indubitables de torture, selon des équipes médicales
+      et des responsables de Gaza. Sur les quelque 9 000 Palestiniens portés disparus
+      depuis le début de la guerre, à peine cent vingt corps ont pour l’instant été
+      rendus. Tous sont arrivés dans des sacs mortuaires blancs, dépourvus de documents
+      d’identité et simplement étiquetés par des numéros. Avec la destruction totale
+      des laboratoires médico-légaux et d’ADN de Gaza — ainsi que de trente-huit hôpitaux
+      —, le ministère de la Santé affirme qu’il est désormais impossible d’identifier
+      la plupart des morts. Les familles doivent reconnaître leurs proches à partir
+      de lambeaux de vêtements, de cicatrices ou d’une bague restée au doigt. Au-delà
+      des crimes eux-mêmes se profile quelque chose d’encore plus sombre : l’arrogance
+      de l’impunité. En restituant des cadavres marqués par la torture, la strangulation
+      et l’exécution, Israël ne se contentait pas de rendre les morts — il exhibait
+      sa puissance. L’état de ces corps constituait une déclaration, un spectacle d’humiliation
+      destiné à rappeler aux Palestiniens ce qui attend ceux qui sont faits prisonniers
+      vivants. Ce n’était pas la dissimulation, mais la mise en scène ; non le silence,
+      mais la menace. Alors que Donald Trump affirmait que « tous les Israéliens [les
+      vingt prisonniers en vie] sont revenus en bonne santé », les Palestiniens libérés
+      en même temps qu’eux racontaient une tout autre histoire : des hommes et des femmes
+      sortant avec les os broyés, des membres amputés, des infections non soignées et
+      des handicaps permanents. D’autres ont évoqué des années d’humiliation, d’agressions
+      sexuelles et de privation de médicaments — des témoignages qui tracent la carte
+      d’une politique délibérée d’abaissement transformant la détention en arme de guerre.
+      Les médecins de Khan Younis et de Rafah décrivent des corps arrivant les mains
+      liées dans le dos, les yeux bandés, ou portant des blessures par balles à la tête
+      et à la poitrine. Beaucoup présentaient des brûlures et des écrasements que les
+      médecins attribuent au passage de chars ou de véhicules blindés. Plusieurs dépouilles
+      portaient encore des attaches en plastique ou en métal, et d’autres montraient
+      des marques de corde autour du cou — des preuves de strangulation ou de contention
+      avant exécution. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: L'article souligne que de nombreux corps de Palestiniens récemment
+      restitués par Israël montrent des signes de torture, tandis que la destruction
+      des infrastructures médico-légales à Gaza rend leur identification presque impossible,
+      laissant les familles dans une situation désespérée pour retrouver leurs proches
+      disparus.
+    paragraph_summary: L'article d'Elijah J. Magnier met en lumière la situation tragique
+      des corps palestiniens récemment restitués par les autorités israéliennes, qui
+      montrent des signes de torture, selon des équipes médicales à Gaza. Sur environ
+      9 000 Palestiniens disparus depuis le début de la guerre, seulement 120 corps
+      ont été rendus, souvent sans documents d'identité, rendant leur identification
+      extrêmement difficile en raison de la destruction des infrastructures médicales
+      à Gaza. Les familles doivent se contenter de reconnaître leurs proches par des
+      éléments vestimentaires ou des cicatrices. L'article souligne également l'arrogance
+      de l'impunité israélienne, qui utilise ces restitutions de corps mutilés comme
+      un moyen d'humiliation et de menace envers les Palestiniens, contrastant avec
+      les récits de rétablissement de santé des prisonniers israéliens. Les témoignages
+      de Palestiniens libérés révèlent des abus graves, y compris des violences physiques
+      et psychologiques, illustrant une politique délibérée de déshumanisation.
+    published: '2025-10-17T16:16:25+00:00'
+  - title: 'Quand Israël torture : le message brutal de l’impunité'
+    url: https://ejmagnier.com/2025/10/17/quand-israel-torture-le-message-brutal-de-limpunite/
+    text: 'Tweet Par Elijah J. Magnier Derrière chaque corps mutilé se cache un cadre
+      juridique qui promet la justice — mais seulement à ceux qui détiennent le pouvoir
+      de l’imposer. De nombreux corps palestiniens récemment restitués par les autorités
+      israéliennes portent des signes indubitables de torture, selon des équipes médicales
+      et des responsables de Gaza. Sur les quelque 9 000 Palestiniens portés disparus
+      depuis le début de la guerre, à peine cent vingt corps ont pour l’instant été
+      rendus. Tous sont arrivés dans des sacs mortuaires blancs, dépourvus de documents
+      d’identité et simplement étiquetés par des numéros. Avec la destruction totale
+      des laboratoires médico-légaux et d’ADN de Gaza — ainsi que de trente-huit hôpitaux
+      —, le ministère de la Santé affirme qu’il est désormais impossible d’identifier
+      la plupart des morts. Les familles doivent reconnaître leurs proches à partir
+      de lambeaux de vêtements, de cicatrices ou d’une bague restée au doigt. Au-delà
+      des crimes eux-mêmes se profile quelque chose d’encore plus sombre : l’arrogance
+      de l’impunité. En restituant des cadavres marqués par la torture, la strangulation
+      et l’exécution, Israël ne se contentait pas de rendre les morts — il exhibait
+      sa puissance. L’état de ces corps constituait une déclaration, un spectacle d’humiliation
+      destiné à rappeler aux Palestiniens ce qui attend ceux qui sont faits prisonniers
+      vivants. Ce n’était pas la dissimulation, mais la mise en scène ; non le silence,
+      mais la menace. Alors que Donald Trump affirmait que « tous les Israéliens [les
+      vingt prisonniers en vie] sont revenus en bonne santé », les Palestiniens libérés
+      en même temps qu’eux racontaient une tout autre histoire : des hommes et des femmes
+      sortant avec les os broyés, des membres amputés, des infections non soignées et
+      des handicaps permanents. D’autres ont évoqué des années d’humiliation, d’agressions
+      sexuelles et de privation de médicaments — des témoignages qui tracent la carte
+      d’une politique délibérée d’abaissement transformant la détention en arme de guerre.
+      Les médecins de Khan Younis et de Rafah décrivent des corps arrivant les mains
+      liées dans le dos, les yeux bandés, ou portant des blessures par balles à la tête
+      et à la poitrine. Beaucoup présentaient des brûlures et des écrasements que les
+      médecins attribuent au passage de chars ou de véhicules blindés. Plusieurs dépouilles
+      portaient encore des attaches en plastique ou en métal, et d’autres montraient
+      des marques de corde autour du cou — des preuves de strangulation ou de contention
+      avant exécution. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: L'article souligne que de nombreux corps de Palestiniens récemment
+      restitués par Israël montrent des signes de torture, tandis que la destruction
+      des infrastructures médico-légales à Gaza rend leur identification presque impossible,
+      laissant les familles dans une situation désespérée pour retrouver leurs proches
+      disparus.
+    paragraph_summary: L'article d'Elijah J. Magnier met en lumière la situation tragique
+      des corps palestiniens récemment restitués par les autorités israéliennes, qui
+      montrent des signes de torture, selon des équipes médicales à Gaza. Sur environ
+      9 000 Palestiniens disparus depuis le début de la guerre, seulement 120 corps
+      ont été rendus, souvent sans documents d'identité, rendant leur identification
+      extrêmement difficile en raison de la destruction des infrastructures médicales
+      à Gaza. Les familles doivent se contenter de reconnaître leurs proches par des
+      éléments vestimentaires ou des cicatrices. L'article souligne également l'arrogance
+      de l'impunité israélienne, qui utilise ces restitutions de corps mutilés comme
+      un moyen d'humiliation et de menace envers les Palestiniens, contrastant avec
+      les récits de rétablissement de santé des prisonniers israéliens. Les témoignages
+      de Palestiniens libérés révèlent des abus graves, y compris des violences physiques
+      et psychologiques, illustrant une politique délibérée de déshumanisation.
+    published: '2025-10-17T16:16:25+00:00'
   - title: 'From the Knesset to Sharm el-Sheikh: How the US President offered Netanyahu
       a way out'
     url: https://ejmagnier.com/2025/10/14/from-the-knesset-to-sharm-el-sheikh-how-the-us-president-offered-netanyahu-a-way-out/

@@ -7,16 +7,60 @@ description: "Retired Indian ambassador with deep Eurasia/Middle East experience
 websites:
   - https://indianpunchline.com
 summary: |
-  The past week has seen a significant recalibration of geopolitical alignments, particularly involving the United States, India, and their respective regional interests. The most recent developments center on the fallout from Donald Trump’s political setbacks and the shifting strategies of major actors in South Asia and the Middle East.
+  Amidst ongoing global realignments, India’s foreign policy continues to be shaped by both external pressure and shifting regional dynamics. The most recent development centers on the end of India’s Russian oil purchases, a move that has drawn attention in Washington and Moscow alike.
   
-  The celebration among neoconservatives over Donald Trump’s humiliation, as described by **M. K. Bhadrakumar**, signals a deeper undercurrent of realignment within US political circles. This schadenfreude is not merely domestic; it reverberates through international corridors, especially in India, where the BJP’s narrative machinery has drawn parallels to its own political battles. The “Tukde Tukde Gang” catchphrase, once a tool for domestic consolidation, now finds echoes in the way Indian elites interpret Western political drama. This reflects a growing awareness in New Delhi that American political instability can have direct ramifications for India’s strategic calculus.
+  According to **M. K. Bhadrakumar**, US President Donald Trump publicly claimed that Prime Minister Modi has ceased all Russian oil imports, a statement that signals both American satisfaction and an attempt to showcase diplomatic leverage. While the Indian government has not officially confirmed a complete halt, Bhadrakumar notes that the US is keen to project this as a foreign policy win, especially as Trump faces domestic and international scrutiny. The underlying motivation, as Bhadrakumar suggests, is to reinforce the narrative of US influence over India’s strategic decisions—an approach that is likely to continue as Washington seeks to contain Russian revenues and assert its primacy in South Asia.
   
-  Meanwhile, the Sir Creek region, long dormant, has re-emerged as a flashpoint. Prime Minister Narendra Modi’s Diwali celebration with troops near the Indo-Pak border in Kutch, Gujarat, is more than symbolic. **Bhadrakumar** notes that this move is part of a broader strategy to project strength and revive attention to unresolved border disputes with Pakistan. The revitalization of Sir Creek is likely to complicate already fraught relations, especially as both sides seek to leverage the issue for domestic political gain.
+  Meanwhile, the regional security environment remains tense. Modi’s recent Diwali visit to military personnel near the Indo-Pak border in Kutch, Gujarat, underscores the government’s focus on border security and military readiness. The revitalization of the Sir Creek issue, dormant for years, points to renewed friction with Pakistan over maritime boundaries. Bhadrakumar highlights that such gestures are not merely symbolic but reflect deeper anxieties about stability along India’s western frontier.
   
-  On the diplomatic front, India and Pakistan’s unusual competition to promote Donald Trump’s Nobel Peace Prize candidacy—highlighted during the announcement of the Gaza Plan by Israeli Prime Minister Netanyahu and President Trump—underscores the unpredictable nature of current alliances. Both South Asian rivals see value in aligning themselves with US-led peace initiatives, even as they remain at odds elsewhere. This opportunistic approach is symptomatic of a broader trend: regional actors hedging their bets amid uncertainty in Washington.
+  On a broader scale, the US reimposition of sanctions on India’s Chabahar Port project in Iran is viewed as a calculated move to limit India’s strategic autonomy and regional connectivity. Bhadrakumar interprets this as a significant shift, with Washington leveraging economic tools to constrain New Delhi’s options in West Asia and Central Asia.
   
-  Looking ahead, the trends suggest a period of heightened volatility. The majority of sources, including **Bhadrakumar**, agree that India will continue to assert its interests more independently, especially as US influence appears less reliable. The Sir Creek issue is “quite likely” to escalate into a more prominent diplomatic standoff, while the US political scene will remain a source of both anxiety and opportunity for regional powers. The competition between India and Pakistan to curry favor with Washington is expected to intensify, though the long-term benefits remain uncertain. In sum, the coming weeks will most definitely see South Asia recalibrating its strategies in response to shifting US priorities and internal political dynamics.
+  Looking ahead, the majority of analysis suggests that India will face increasing pressure to align its policies with US interests, particularly as the American administration seeks clear wins in its foreign policy portfolio. However, India’s leadership is likely to resist overt subordination, seeking instead to balance ties with multiple powers. Bhadrakumar predicts with high confidence that “the era of easy hedging is over”—India will most definitely be compelled to make harder choices as the global order fragments further. The coming weeks are expected to see continued US-India engagement, but with persistent undercurrents of mistrust and strategic calculation.
 articles:
+  - title: India’s Russian oil saga is indeed ending
+    url: https://www.indianpunchline.com/indias-russian-oil-saga-is-indeed-ending/
+    text: Prime Minister Narendra Modi at a press conference with US President Donald
+      Trump, White House, Washington, Feb 13, 2025 (File photo) The latest US-Indian
+      fracas over Russian oil has been rather odd with Trump attributing to PM Modi
+      explicitly that India has terminated its imports of Russian oil. Why would Trump
+      bluff?  One possibility that … Continue reading "India’s Russian oil saga is indeed
+      ending" The post India’s Russian oil saga is indeed ending appeared first on Indian
+      Punchline .
+    one_sentence_summary: The article discusses the recent tensions between the US and
+      India regarding Russian oil imports, highlighting President Trump's claim that
+      Prime Minister Modi has ended India's purchases of Russian oil, and speculating
+      on the motivations behind Trump's statement.
+    paragraph_summary: In a recent press conference, US President Donald Trump claimed
+      that Indian Prime Minister Narendra Modi has ended India's imports of Russian
+      oil, a statement that has raised eyebrows and led to speculation about Trump's
+      motivations. The article suggests that this assertion may be a bluff, prompting
+      questions about the dynamics of US-India relations and the broader implications
+      for India's energy policy amidst ongoing geopolitical tensions. The piece indicates
+      that India's reliance on Russian oil may be diminishing, signaling a potential
+      shift in its foreign trade strategy.
+    published: '2025-10-17T06:24:08+00:00'
+  - title: India’s Russian oil saga is indeed ending
+    url: https://www.indianpunchline.com/indias-russian-oil-saga-is-indeed-ending/
+    text: Prime Minister Narendra Modi at a press conference with US President Donald
+      Trump, White House, Washington, Feb 13, 2025 (File photo) The latest US-Indian
+      fracas over Russian oil has been rather odd with Trump attributing to PM Modi
+      explicitly that India has terminated its imports of Russian oil. Why would Trump
+      bluff?  One possibility that … Continue reading "India’s Russian oil saga is indeed
+      ending" The post India’s Russian oil saga is indeed ending appeared first on Indian
+      Punchline .
+    one_sentence_summary: The article discusses the recent tensions between the US and
+      India regarding Russian oil imports, highlighting President Trump's claim that
+      Prime Minister Modi has ended India's purchases of Russian oil, and speculating
+      on the motivations behind Trump's statement.
+    paragraph_summary: In a recent press conference, US President Donald Trump claimed
+      that Indian Prime Minister Narendra Modi has ended India's imports of Russian
+      oil, a statement that has raised eyebrows and led to speculation about Trump's
+      motivations. The article suggests that this assertion may be a bluff, prompting
+      questions about the dynamics of US-India relations and the broader implications
+      for India's energy policy amidst ongoing geopolitical tensions. The piece indicates
+      that India's reliance on Russian oil may be diminishing, signaling a potential
+      shift in its foreign trade strategy.
+    published: '2025-10-17T06:24:08+00:00'
   - title: Neocons celebrate Donald Trump’s humiliation. Why it matters
     url: https://www.indianpunchline.com/neocons-celebrate-donald-trumps-humiliation-why-it-matters/
     text: File photo of Nobel Peace laureate Maria Corina Machado and US President Donald

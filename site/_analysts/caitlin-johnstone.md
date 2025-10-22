@@ -7,16 +7,1392 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  The Israeli-Palestinian conflict remains at the forefront of geopolitical analysis, with the recent ceasefire in Gaza continuing to unravel under intense scrutiny. The so-called "Trumpanyahu" administration—referring to the close alignment between U.S. President Trump and Israeli Prime Minister Netanyahu—has come under fire for actions that appear to undermine the ceasefire agreement.
+  As the Israeli-Palestinian conflict continues to dominate headlines, recent independent analysis highlights a series of escalating developments and shifting narratives. The situation remains volatile, with mounting scrutiny on both the conduct of military operations and the information campaigns surrounding them.
   
-  According to **Caitlin Johnstone**, despite official announcements of a ceasefire, Israeli military operations have persisted in Gaza. She highlights that "ongoing violence and aid reductions" are being justified by Israeli officials under the pretext of security threats. This approach, Johnstone argues, amounts to a de facto sabotage of the ceasefire, as the humanitarian situation in Gaza continues to deteriorate.
+  The most significant new development, as outlined by **Caitlin Johnstone**, is the apparent breakdown of traditional narrative control mechanisms. In her latest assessment, Johnstone argues that “the imperial propaganda machine is failing in unprecedented ways,” particularly in relation to Israel’s efforts to shape global perceptions through coordinated messaging, or "hasbara." Despite intensive attempts to manage the narrative, there is a growing sense that these efforts are losing traction internationally. Johnstone points to widespread skepticism and the rapid spread of counter-narratives online as evidence that public opinion is shifting, especially regarding the humanitarian crisis in Gaza.
   
-  A significant development is President Trump's open acknowledgment of his policy alignment with Israeli-American billionaire Miriam Adelson. As **Johnstone** notes, Trump has admitted that his administration's stance on Israel is heavily influenced by Adelson's interests, a dynamic that has drawn less scrutiny than alleged foreign influence during his first term. This public admission underscores the deepening U.S.-Israel policy nexus and raises questions about the independence of American foreign policy in the region.
+  This erosion of narrative control comes in the wake of renewed violence. According to Johnstone, Israeli forces recently killed 45 Palestinians in Gaza after an incident involving an Israeli vehicle triggering its own explosive device. The Western media’s framing of this event as a mere “test” of the ceasefire has drawn sharp criticism, with Johnstone highlighting the normalization of large-scale civilian casualties and the lack of accountability for such actions.
   
-  Meanwhile, Israeli officials have been explicit about their intentions to resume military operations once hostages are recovered, with a focus on destroying Hamas's tunnel infrastructure. The refusal of Hamas to agree to demilitarization further complicates prospects for a lasting peace.
+  Meanwhile, the broader context of U.S. politics remains one of performative dissent rather than substantive change. Johnstone’s recent commentary describes American protests as “nonstop fake revolutions,” suggesting that while public demonstrations may energize political bases, they rarely translate into meaningful policy shifts or challenge entrenched power structures.
   
-  Looking ahead, the prevailing trend is a continuation of hostilities under the guise of temporary ceasefires, with little genuine movement toward de-escalation. The majority of independent analysis, as reflected by **Johnstone**, suggests that the current ceasefire is unlikely to hold and that further violence is "most definitely" expected. The humanitarian crisis in Gaza is projected to worsen, and the U.S.-Israel alliance is set to remain a central factor in shaping the conflict's trajectory.
+  Looking ahead, the majority of independent analysts, including Johnstone, predict with high confidence that the loss of narrative control by Israel and its Western allies will continue. This trend is likely to fuel greater international scrutiny and pressure for accountability, though immediate policy changes remain unlikely. The humanitarian situation in Gaza is expected to deteriorate further unless there is a significant shift in international engagement or a breakthrough in ceasefire negotiations.
+  
+  In summary, the key trends are the crumbling of established propaganda frameworks, the persistence of violence despite ceasefire agreements, and the performative nature of Western political dissent. The most likely outcome, as assessed by the majority of independent voices, is a continued erosion of public trust in official narratives and a slow but steady increase in calls for accountability—though without immediate resolution to the underlying conflict.
 articles:
+  - title: 'New Painting: Larry Ellison'
+    url: https://www.caitlinjohnst.one/p/new-painting-larry-ellison
+    text: 'Subscribe now The subject of my latest painting is Larry Ellison, one of
+      the empire’s nastier oligarchs. Oil on canvas. ______________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article discusses a new painting by the author featuring
+      Larry Ellison, portraying him as a controversial figure, while also promoting
+      the author's reader-supported newsletter and various ways for readers to support
+      their work.
+    paragraph_summary: The article discusses a new painting by the author, which depicts
+      Larry Ellison, described as one of the more unsavory oligarchs. It emphasizes
+      the author's reliance on reader support for their work, inviting readers to subscribe
+      to their newsletter and consider financial contributions. Additionally, the author
+      encourages sharing and republishing their work freely, highlighting a collaborative
+      effort with their husband, Tim Foley, and providing information on various ways
+      to support their creative endeavors, including Bitcoin donations.
+    published: '2025-10-21T12:40:56+00:00'
+  - title: 'New Painting: Larry Ellison'
+    url: https://www.caitlinjohnst.one/p/new-painting-larry-ellison
+    text: 'Subscribe now The subject of my latest painting is Larry Ellison, one of
+      the empire’s nastier oligarchs. Oil on canvas. ______________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article discusses a new painting by the author featuring
+      Larry Ellison, portraying him as a controversial figure, while also promoting
+      the author's reader-supported newsletter and various ways for readers to support
+      their work.
+    paragraph_summary: The article discusses a new painting by the author, which depicts
+      Larry Ellison, described as one of the more unsavory oligarchs. It emphasizes
+      the author's reliance on reader support for their work, inviting readers to subscribe
+      to their newsletter and consider financial contributions. Additionally, the author
+      encourages sharing and republishing their work freely, highlighting a collaborative
+      effort with their husband, Tim Foley, and providing information on various ways
+      to support their creative endeavors, including Bitcoin donations.
+    published: '2025-10-21T12:40:56+00:00'
+  - title: The Imperial Propaganda Machine Is Failing In Unprecedented Ways
+    url: https://www.caitlinjohnst.one/p/the-imperial-propaganda-machine-is
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Cristina on Twitter asks, “Can you please write another of your beautiful posts
+      about hope. I am not sure I have any left. We need hope.” I don’t understand how
+      anyone can be without hope right now, personally. The imperial propaganda machine
+      is crumbling in ways we’ve never seen in our lifetime. They wouldn’t work so hard
+      on shoring up narrative control if they didn’t need it, and their narrative control
+      is falling apart. Look at Israel. This is an arm of the empire that understands
+      the importance of narrative manipulation so acutely that they’ve got their own
+      term for the practice, “ hasbara ”, with countless systems in place for influencing
+      the way westerners view the Zionist entity. But they’re losing. Israel and its
+      supporters are more keenly aware of how important it is to control the narrative
+      than maybe any other population on earth, and yet they are losing control of the
+      narrative. Worldwide support for Israel is plummeting , with more American voters
+      sympathizing with the Palestinians than the Israelis for the first time in history.
+      https://x.com/yashar/status/1976345143449153910 And Israel is panicking. They’ve
+      been ramping up spending on propaganda and influence operations while billionaire
+      Zionists like Larry Ellison use their fortunes to shore up more control over social
+      media platforms and mainstream news outlets. They wouldn’t be doing this if they
+      didn’t feel the need to, and it won’t even work . No amount of propaganda is going
+      to cause people to unsee two years of live-streamed genocide. Propaganda is a
+      powerful tool, but it isn’t magic. The Zionists in the White House are panicking
+      as well. Donald Trump has stated that his goal in securing a ceasefire was to
+      rescue Israel from the PR crisis created by the Netanyahu regime, saying, “Bibi
+      took it very far and Israel lost a lot of support in the world. Now I am gonna
+      get all that support back.” These sentiments were echoed in a recent 60 Minutes
+      interview with Trump’s son-in-law Jared Kushner, who said that the president “felt
+      like the Israelis were getting a little bit out of control” and needed to rein
+      them in, not for the sake of Israel’s victims but to “stop them from doing things
+      that he felt were not in their long-term interests.” So we’re already at a point
+      where elements of the empire are starting to change their behavior in response
+      to public perception of the empire’s actions. They are not doing this because
+      they suddenly evolved a conscience, they are doing it because they need to maintain
+      perception management. They understand that if the public turns against them past
+      a certain point, they’re in some very dangerous territory. Every time history
+      has seen the public rise up against their tyrannical rulers and lop their heads
+      off, the world’s oligarchs and empire managers have sat up and taken notice. The
+      rich and the powerful are always urgently aware that there are a whole lot more
+      of us than there are of them and that we can use those superior numbers to get
+      rid of them whenever we want to, so they have an existential interest in preventing
+      us from wanting to. That’s why Israel, the United States and their allies have
+      poured so much energy into sustaining the most sophisticated propaganda engine
+      ever created. They know that the empire they operate depends on the ability to
+      manipulate the way normal people think, speak, act and vote, continuously steering
+      us toward convenient thoughts and behaviors and away from inconvenient thoughts
+      and behaviors. This entire dystopia is sustained by mass-scale mind control, and
+      the mind control machine is getting weaker and weaker by the day. More and more
+      people are waking up to the fact that we are ruled by tyrants, that our politicians
+      and media have been deceiving us, and that everything we were taught to believe
+      about our nation, our government and our world was a lie. So while in the short
+      term things might look darker than ever before, what’s spelled out in the trends
+      we are seeing tells us that the bars of our cage are made of melting ice. We are
+      freeing our minds from the artificial delusions that have turned us into docile
+      and obedient gear-turners, and awakening the healthy animals within us. I find
+      it impossible to feel hopeless under such circumstances. I don’t feel certain
+      that everything will work out perfectly fine, but I find it impossible not to
+      have hope. They’re on the back foot. This has never happened before. We’ve got
+      a real shot at winning this thing. __________________ Caitlin’s Newsletter is
+      a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article discusses the crumbling of imperial propaganda
+      and narrative control, particularly in relation to Israel's efforts to manipulate
+      perceptions through "hasbara," suggesting that despite these efforts, there is
+      a growing loss of control over the narrative, which can be seen as a source of
+      hope.
+    paragraph_summary: The article discusses the diminishing control of narrative by
+      powerful entities, particularly focusing on Israel's struggle to maintain its
+      public image amid a global shift in sympathy towards Palestinians. The author
+      highlights the increasing awareness and concern among Israeli supporters about
+      the waning support for their cause, noting that for the first time, more American
+      voters sympathize with Palestinians than Israelis. In response to this crisis,
+      Israel has intensified its propaganda efforts, with influential figures investing
+      heavily in media control. However, the article argues that despite these efforts,
+      the impact of widespread awareness of ongoing violence cannot be easily reversed,
+      suggesting that hope remains as the narrative landscape shifts.
+    published: '2025-10-21T02:10:44+00:00'
+  - title: The Imperial Propaganda Machine Is Failing In Unprecedented Ways
+    url: https://www.caitlinjohnst.one/p/the-imperial-propaganda-machine-is
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Cristina on Twitter asks, “Can you please write another of your beautiful posts
+      about hope. I am not sure I have any left. We need hope.” I don’t understand how
+      anyone can be without hope right now, personally. The imperial propaganda machine
+      is crumbling in ways we’ve never seen in our lifetime. They wouldn’t work so hard
+      on shoring up narrative control if they didn’t need it, and their narrative control
+      is falling apart. Look at Israel. This is an arm of the empire that understands
+      the importance of narrative manipulation so acutely that they’ve got their own
+      term for the practice, “ hasbara ”, with countless systems in place for influencing
+      the way westerners view the Zionist entity. But they’re losing. Israel and its
+      supporters are more keenly aware of how important it is to control the narrative
+      than maybe any other population on earth, and yet they are losing control of the
+      narrative. Worldwide support for Israel is plummeting , with more American voters
+      sympathizing with the Palestinians than the Israelis for the first time in history.
+      https://x.com/yashar/status/1976345143449153910 And Israel is panicking. They’ve
+      been ramping up spending on propaganda and influence operations while billionaire
+      Zionists like Larry Ellison use their fortunes to shore up more control over social
+      media platforms and mainstream news outlets. They wouldn’t be doing this if they
+      didn’t feel the need to, and it won’t even work . No amount of propaganda is going
+      to cause people to unsee two years of live-streamed genocide. Propaganda is a
+      powerful tool, but it isn’t magic. The Zionists in the White House are panicking
+      as well. Donald Trump has stated that his goal in securing a ceasefire was to
+      rescue Israel from the PR crisis created by the Netanyahu regime, saying, “Bibi
+      took it very far and Israel lost a lot of support in the world. Now I am gonna
+      get all that support back.” These sentiments were echoed in a recent 60 Minutes
+      interview with Trump’s son-in-law Jared Kushner, who said that the president “felt
+      like the Israelis were getting a little bit out of control” and needed to rein
+      them in, not for the sake of Israel’s victims but to “stop them from doing things
+      that he felt were not in their long-term interests.” So we’re already at a point
+      where elements of the empire are starting to change their behavior in response
+      to public perception of the empire’s actions. They are not doing this because
+      they suddenly evolved a conscience, they are doing it because they need to maintain
+      perception management. They understand that if the public turns against them past
+      a certain point, they’re in some very dangerous territory. Every time history
+      has seen the public rise up against their tyrannical rulers and lop their heads
+      off, the world’s oligarchs and empire managers have sat up and taken notice. The
+      rich and the powerful are always urgently aware that there are a whole lot more
+      of us than there are of them and that we can use those superior numbers to get
+      rid of them whenever we want to, so they have an existential interest in preventing
+      us from wanting to. That’s why Israel, the United States and their allies have
+      poured so much energy into sustaining the most sophisticated propaganda engine
+      ever created. They know that the empire they operate depends on the ability to
+      manipulate the way normal people think, speak, act and vote, continuously steering
+      us toward convenient thoughts and behaviors and away from inconvenient thoughts
+      and behaviors. This entire dystopia is sustained by mass-scale mind control, and
+      the mind control machine is getting weaker and weaker by the day. More and more
+      people are waking up to the fact that we are ruled by tyrants, that our politicians
+      and media have been deceiving us, and that everything we were taught to believe
+      about our nation, our government and our world was a lie. So while in the short
+      term things might look darker than ever before, what’s spelled out in the trends
+      we are seeing tells us that the bars of our cage are made of melting ice. We are
+      freeing our minds from the artificial delusions that have turned us into docile
+      and obedient gear-turners, and awakening the healthy animals within us. I find
+      it impossible to feel hopeless under such circumstances. I don’t feel certain
+      that everything will work out perfectly fine, but I find it impossible not to
+      have hope. They’re on the back foot. This has never happened before. We’ve got
+      a real shot at winning this thing. __________________ Caitlin’s Newsletter is
+      a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article discusses the crumbling of imperial propaganda
+      and narrative control, particularly in relation to Israel's efforts to manipulate
+      perceptions through "hasbara," suggesting that despite these efforts, there is
+      a growing loss of control over the narrative, which can be seen as a source of
+      hope.
+    paragraph_summary: The article discusses the diminishing control of narrative by
+      powerful entities, particularly focusing on Israel's struggle to maintain its
+      public image amid a global shift in sympathy towards Palestinians. The author
+      highlights the increasing awareness and concern among Israeli supporters about
+      the waning support for their cause, noting that for the first time, more American
+      voters sympathize with Palestinians than Israelis. In response to this crisis,
+      Israel has intensified its propaganda efforts, with influential figures investing
+      heavily in media control. However, the article argues that despite these efforts,
+      the impact of widespread awareness of ongoing violence cannot be easily reversed,
+      suggesting that hope remains as the narrative landscape shifts.
+    published: '2025-10-21T02:10:44+00:00'
+  - title: 'New Painting: Medea Benjamin'
+    url: https://www.caitlinjohnst.one/p/new-painting-medea-benjamin
+    text: 'Subscribe now One of my favorite anti-war heroes. Oil on canvas. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article promotes Caitlin's Newsletter, a reader-supported
+      publication, encouraging subscriptions and donations while emphasizing the freedom
+      to share and use her work.
+    paragraph_summary: The article promotes Caitlin's Newsletter, a reader-supported
+      publication that emphasizes anti-war themes and encourages readers to subscribe
+      for updates and support her work. It highlights the author's commitment to making
+      her content accessible, allowing for free sharing and republishing, and provides
+      options for financial support, including Bitcoin donations. Additionally, it mentions
+      co-authorship with her husband, Tim Foley, and offers links to her social media,
+      books, and merchandise.
+    published: '2025-10-20T13:14:14+00:00'
+  - title: 'New Painting: Medea Benjamin'
+    url: https://www.caitlinjohnst.one/p/new-painting-medea-benjamin
+    text: 'Subscribe now One of my favorite anti-war heroes. Oil on canvas. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article promotes Caitlin's Newsletter, a reader-supported
+      publication, encouraging subscriptions and donations while emphasizing the freedom
+      to share and use her work.
+    paragraph_summary: The article promotes Caitlin's Newsletter, a reader-supported
+      publication that emphasizes anti-war themes and encourages readers to subscribe
+      for updates and support her work. It highlights the author's commitment to making
+      her content accessible, allowing for free sharing and republishing, and provides
+      options for financial support, including Bitcoin donations. Additionally, it mentions
+      co-authorship with her husband, Tim Foley, and offers links to her social media,
+      books, and merchandise.
+    published: '2025-10-20T13:14:14+00:00'
+  - title: US Politics Is Just Nonstop Fake Revolutions Now
+    url: https://www.caitlinjohnst.one/p/us-politics-is-just-nonstop-fake
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s so silly how American politics is just nonstop fake revolutions now. Millions
+      flooded the US streets for the “No Kings” protests over the weekend to oppose
+      a monarchy which does not exist without making a single tangible demand. Power
+      was not challenged in any meaningful way. The status quo wasn’t disrupted in the
+      slightest. People held up some signs saying the president is orange and that if
+      Kamala were president they would be at brunch, and then went home. The whole thing
+      was just one big pep rally for the Democratic Party, designed to accomplish nothing
+      beyond getting American liberals excited about the prospect of someday voting
+      for Gavin Newsom. A bunch of boomers showed up to dance around and hold signs
+      and feel as though they are fighting the power in their feely bits, while drumming
+      up support for the same status quo which gave rise to Trump in the first place.
+      https://x.com/ljmontello/status/1979656218580066751 You see the same fake revolutionary
+      astroturf zeitgeist on the Republican side. American rightists are constantly
+      pretending they’re fighting some kind of populist rebellion against an oppressive
+      establishment even while their party controls every branch of the US government.
+      They act like Trump is ending the wars and fighting the Deep State even as he
+      stomps out free speech on behalf of Israel, rolls out a Palantir surveillance
+      system, pours weapons into facilitating Israel’s genocidal atrocities, bombs Iran
+      and Yemen, ramps up for war with Venezuela, and perpetuates the horrific proxy
+      war in Ukraine. It’s two plutocrat-owned warmongering imperialist parties whipping
+      their respective bases into the mass delusion that they are participating in a
+      heroic act of revolutionary defiance by voting Democrat or Republican. They get
+      everyone fighting a fake revolution so that nobody thinks about fighting a real
+      one. It didn’t used to be this way, for the record. The US has been a murderous
+      and tyrannical oligarchic bloodbath for its entire existence as a nation, but
+      up until fairly recently its politics looked more or less like the politics of
+      other western nations. Politicians had campaigns where they’d try to argue that
+      they have the best policies, there’d be an election, and then they’d spend their
+      time in office philandering and pretending to make themselves useful. There wasn’t
+      this constant LARPing about how voting for one of the two mainstream parties is
+      participating some kind of a courageous insurgency against monarchy or communism
+      or the Deep State or whatever. https://x.com/gtconway3d/status/1979558416726249663
+      That’s changing because public discontent with the status quo is soaring to all-time
+      highs as Americans get poorer and everything gets shittier. The establishment
+      order is no longer accepted and people are starting to push for real change, so
+      their outrage needs to be harnessed and corralled into politically safe directions.
+      Donald Trump’s entire political career has been all about this . He introduced
+      a new WWE-style kayfabe theatrics into American politics where both Democrats
+      and Republicans feel as though they are fighting the power in a very important
+      and relevant way — Republicans because they believe Trump is a populist rebel
+      and Democrats because they believe Trump is an unprecedented threat to freedom
+      and democracy. Really his whole thing is about protecting the status quo of the
+      US empire, but both mainstream factions are duped into seeing the exact opposite.
+      Now you’ve got the two main strands of American political thought falling all
+      over themselves to be the first in line to support the establishment, all while
+      being told that they are fighting the power. They remain mollified because they
+      think they are doing something, and the powerful get to keep everything they’ve
+      stolen. It’s truly a brilliant scam. Evil, destructive and tyrannical, to be sure,
+      but you’ve got to admire the skill with which this psyop has been pulled off.
+      ______________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article critiques recent protests in the U.S. as ineffective
+      and merely performative, arguing that they serve to energize Democratic Party
+      supporters without challenging the existing political power or making any substantial
+      demands.
+    paragraph_summary: The article critiques the current state of American politics,
+      describing it as a series of "fake revolutions" where protests and political movements
+      lack tangible demands or meaningful challenges to the status quo. It highlights
+      recent protests against a non-existent monarchy, which served more as a rally
+      for the Democratic Party rather than a genuine push for change. Similarly, it
+      points out that the Republican Party engages in a similar charade, presenting
+      themselves as populist rebels while maintaining control over the government and
+      perpetuating imperialist policies. The author argues that both parties distract
+      their supporters with the illusion of revolutionary action, preventing them from
+      addressing the real issues at hand.
+    published: '2025-10-20T02:42:51+00:00'
+  - title: US Politics Is Just Nonstop Fake Revolutions Now
+    url: https://www.caitlinjohnst.one/p/us-politics-is-just-nonstop-fake
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s so silly how American politics is just nonstop fake revolutions now. Millions
+      flooded the US streets for the “No Kings” protests over the weekend to oppose
+      a monarchy which does not exist without making a single tangible demand. Power
+      was not challenged in any meaningful way. The status quo wasn’t disrupted in the
+      slightest. People held up some signs saying the president is orange and that if
+      Kamala were president they would be at brunch, and then went home. The whole thing
+      was just one big pep rally for the Democratic Party, designed to accomplish nothing
+      beyond getting American liberals excited about the prospect of someday voting
+      for Gavin Newsom. A bunch of boomers showed up to dance around and hold signs
+      and feel as though they are fighting the power in their feely bits, while drumming
+      up support for the same status quo which gave rise to Trump in the first place.
+      https://x.com/ljmontello/status/1979656218580066751 You see the same fake revolutionary
+      astroturf zeitgeist on the Republican side. American rightists are constantly
+      pretending they’re fighting some kind of populist rebellion against an oppressive
+      establishment even while their party controls every branch of the US government.
+      They act like Trump is ending the wars and fighting the Deep State even as he
+      stomps out free speech on behalf of Israel, rolls out a Palantir surveillance
+      system, pours weapons into facilitating Israel’s genocidal atrocities, bombs Iran
+      and Yemen, ramps up for war with Venezuela, and perpetuates the horrific proxy
+      war in Ukraine. It’s two plutocrat-owned warmongering imperialist parties whipping
+      their respective bases into the mass delusion that they are participating in a
+      heroic act of revolutionary defiance by voting Democrat or Republican. They get
+      everyone fighting a fake revolution so that nobody thinks about fighting a real
+      one. It didn’t used to be this way, for the record. The US has been a murderous
+      and tyrannical oligarchic bloodbath for its entire existence as a nation, but
+      up until fairly recently its politics looked more or less like the politics of
+      other western nations. Politicians had campaigns where they’d try to argue that
+      they have the best policies, there’d be an election, and then they’d spend their
+      time in office philandering and pretending to make themselves useful. There wasn’t
+      this constant LARPing about how voting for one of the two mainstream parties is
+      participating some kind of a courageous insurgency against monarchy or communism
+      or the Deep State or whatever. https://x.com/gtconway3d/status/1979558416726249663
+      That’s changing because public discontent with the status quo is soaring to all-time
+      highs as Americans get poorer and everything gets shittier. The establishment
+      order is no longer accepted and people are starting to push for real change, so
+      their outrage needs to be harnessed and corralled into politically safe directions.
+      Donald Trump’s entire political career has been all about this . He introduced
+      a new WWE-style kayfabe theatrics into American politics where both Democrats
+      and Republicans feel as though they are fighting the power in a very important
+      and relevant way — Republicans because they believe Trump is a populist rebel
+      and Democrats because they believe Trump is an unprecedented threat to freedom
+      and democracy. Really his whole thing is about protecting the status quo of the
+      US empire, but both mainstream factions are duped into seeing the exact opposite.
+      Now you’ve got the two main strands of American political thought falling all
+      over themselves to be the first in line to support the establishment, all while
+      being told that they are fighting the power. They remain mollified because they
+      think they are doing something, and the powerful get to keep everything they’ve
+      stolen. It’s truly a brilliant scam. Evil, destructive and tyrannical, to be sure,
+      but you’ve got to admire the skill with which this psyop has been pulled off.
+      ______________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article critiques recent protests in the U.S. as ineffective
+      and merely performative, arguing that they serve to energize Democratic Party
+      supporters without challenging the existing political power or making any substantial
+      demands.
+    paragraph_summary: The article critiques the current state of American politics,
+      describing it as a series of "fake revolutions" where protests and political movements
+      lack tangible demands or meaningful challenges to the status quo. It highlights
+      recent protests against a non-existent monarchy, which served more as a rally
+      for the Democratic Party rather than a genuine push for change. Similarly, it
+      points out that the Republican Party engages in a similar charade, presenting
+      themselves as populist rebels while maintaining control over the government and
+      perpetuating imperialist policies. The author argues that both parties distract
+      their supporters with the illusion of revolutionary action, preventing them from
+      addressing the real issues at hand.
+    published: '2025-10-20T02:42:51+00:00'
+  - title: Israel Flipped Out And Killed 45 Palestinians After Running Over Their Own
+      Bomb
+    url: https://www.caitlinjohnst.one/p/israel-flipped-out-and-killed-45
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      In today’s news, Israel’s stupid fucking genocidal rapists ran over an unexploded
+      ordnance from their own evil carpet bombing campaign, blamed Hamas for the explosion,
+      started bombing the fuck out of Gaza again, killed scores of civilians, said they
+      were once again cutting off aid to the enclave, and then quietly backed down on
+      urging from Washington . Rather than report that Israel violated the ceasefire
+      agreement as blatantly as any agreement could possibly be violated, the western
+      press have been referring to this as a “test” of the ceasefire. Killing Palestinians
+      is so normalized and accepted as a baseline expectation in the western press that
+      CNN called it the “first major test” of the ceasefire after Israel killed people
+      in Gaza every single day since the ceasefire agreement was signed. I hope the
+      “WHY AREN’T YOU CELEBRATING?” crowd have gotten their answer by now. We weren’t
+      celebrating because we know more than you. We’ve actually been paying attention,
+      so we know Israel is going to seek out every excuse to kill Palestinians and torch
+      this fake “ceasefire”. The Israeli government keep issuing statements making it
+      explicitly clear that Israel will not consider the “war” over until Hamas is fully
+      disarmed and Gaza is fully demilitarized, terms that the Palestinian resistance
+      has explicitly refused . These mutually contradictory positions place Gaza on
+      a collision course toward full-scale reignition of the genocide. ❖ https://x.com/caitoz/status/1979474205956837453
+      Whenever I talk about the IDF massacring civilians for inadvertently traveling
+      into zones Israel has banned them from in Gaza I’ve been getting Israel apologists
+      bleating “but they crossed the Yellow Line!” at me, which I guess is the new hasbara
+      narrative. Imagine thinking this is a good argument. Imagine thinking it’s perfectly
+      reasonable to blow up a car full of children if they cross a made-up invisible
+      line. Think about how dehumanized Palestinians would have to be in your mind to
+      believe this is a sane and reasonable position to have. To feel that deadly force
+      via heavy war machinery is a perfectly fine way of administering crowd control.
+      Imagine if that was happening in your country. If police just blew up your vehicle
+      if you accidentally turned onto a one-way street or made an unauthorized U-turn.
+      If they could send a drone to go pick you off if you were walking down a street
+      they didn’t think you should be on. You’d never stand for it. You’d demand they
+      find other ways to direct traffic besides deadly force. “How about some signs?”
+      you would say. “How about using verbal warnings and loudspeakers? How about road
+      blocks? How about just not fucking murdering a vehicle full of kids for moving
+      in an unauthorized way?” But because it’s Palestinians, it never occurs to them
+      that this should be the expectation. Palestinians deserve to be executed for the
+      slightest transgression against the most arbitrary restriction. Israel does this
+      all the time, and its defenders are fine with it. During the aid distribution
+      at GHF sites Israeli soldiers have told the Israeli press that they were ordered
+      to fire upon anyone who moved in an unauthorized way, killing starving civilians
+      every single day for seeking food. During the last “ceasefire” at the beginning
+      of the year civilians would routinely get murdered for taking a donkey cart down
+      the wrong road or whatever. That’s the sort of thing people support of they stand
+      by Israel. Supporting Israel is an innately racist and murderous position, because
+      you support murdering Palestinian civilians for reasons you would never accept
+      your own people being killed for. ❖ Israeli right wingers have been filmed literally
+      pushing their babies in front of aid trucks in order to block food from getting
+      to starving civilians. I mean, fuck. Israelis are something else. ❖ Israel cannot
+      stop murdering and abusing and sowing chaos and destruction for even one fucking
+      day and the western empire cannot stop supporting it for even an instant, but
+      if you say anything about this people start making up weird stories about you
+      hating the religion of Judaism. ❖ The Trump administration has ordered the repatriation
+      to Colombia and Ecuador of the survivors of its attack on a boat in the Caribbean
+      Sea, which punches some major plot holes in its claim that it has been blowing
+      up these boats because they are full of Venezuelan “narco-terrorists”. The US
+      isn’t generally in the habit of sending terrorists home, so it’s clear they targeted
+      innocent people and had no case against them. Anyone buying into the war propaganda
+      about Venezuela is a fucking moron. The lies are dumb even by usual US warmongering
+      standards, and US regime change interventionism is consistently disastrous. People
+      who say they want Trump to remove Maduro are admitting they never grew up. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article criticizes the portrayal of Israel's military
+      actions in Gaza as a "test" of the ceasefire, highlighting the normalization of
+      violence against Palestinians in Western media and the subsequent civilian casualties
+      resulting from renewed bombings.
+    paragraph_summary: The article discusses the ongoing violence in Gaza, highlighting
+      Israel's recent actions that have resulted in civilian casualties and the resumption
+      of bombings, which the author criticizes as a blatant violation of the ceasefire
+      agreement. The piece argues that the Western media downplays these events by framing
+      them as a "test" of the ceasefire, normalizing the killing of Palestinians. The
+      author emphasizes that Israel's government has made it clear that they will not
+      consider the conflict over until Hamas is completely disarmed, a condition that
+      the Palestinian resistance rejects, suggesting that this sets the stage for further
+      violence. The article also critiques the justification used by some Israeli supporters
+      for the military's actions against civilians, portraying it as a troubling rationale
+      for violence.
+    published: '2025-10-20T01:34:17+00:00'
+  - title: Israel Flipped Out And Killed 45 Palestinians After Running Over Their Own
+      Bomb
+    url: https://www.caitlinjohnst.one/p/israel-flipped-out-and-killed-45
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      In today’s news, Israel’s stupid fucking genocidal rapists ran over an unexploded
+      ordnance from their own evil carpet bombing campaign, blamed Hamas for the explosion,
+      started bombing the fuck out of Gaza again, killed scores of civilians, said they
+      were once again cutting off aid to the enclave, and then quietly backed down on
+      urging from Washington . Rather than report that Israel violated the ceasefire
+      agreement as blatantly as any agreement could possibly be violated, the western
+      press have been referring to this as a “test” of the ceasefire. Killing Palestinians
+      is so normalized and accepted as a baseline expectation in the western press that
+      CNN called it the “first major test” of the ceasefire after Israel killed people
+      in Gaza every single day since the ceasefire agreement was signed. I hope the
+      “WHY AREN’T YOU CELEBRATING?” crowd have gotten their answer by now. We weren’t
+      celebrating because we know more than you. We’ve actually been paying attention,
+      so we know Israel is going to seek out every excuse to kill Palestinians and torch
+      this fake “ceasefire”. The Israeli government keep issuing statements making it
+      explicitly clear that Israel will not consider the “war” over until Hamas is fully
+      disarmed and Gaza is fully demilitarized, terms that the Palestinian resistance
+      has explicitly refused . These mutually contradictory positions place Gaza on
+      a collision course toward full-scale reignition of the genocide. ❖ https://x.com/caitoz/status/1979474205956837453
+      Whenever I talk about the IDF massacring civilians for inadvertently traveling
+      into zones Israel has banned them from in Gaza I’ve been getting Israel apologists
+      bleating “but they crossed the Yellow Line!” at me, which I guess is the new hasbara
+      narrative. Imagine thinking this is a good argument. Imagine thinking it’s perfectly
+      reasonable to blow up a car full of children if they cross a made-up invisible
+      line. Think about how dehumanized Palestinians would have to be in your mind to
+      believe this is a sane and reasonable position to have. To feel that deadly force
+      via heavy war machinery is a perfectly fine way of administering crowd control.
+      Imagine if that was happening in your country. If police just blew up your vehicle
+      if you accidentally turned onto a one-way street or made an unauthorized U-turn.
+      If they could send a drone to go pick you off if you were walking down a street
+      they didn’t think you should be on. You’d never stand for it. You’d demand they
+      find other ways to direct traffic besides deadly force. “How about some signs?”
+      you would say. “How about using verbal warnings and loudspeakers? How about road
+      blocks? How about just not fucking murdering a vehicle full of kids for moving
+      in an unauthorized way?” But because it’s Palestinians, it never occurs to them
+      that this should be the expectation. Palestinians deserve to be executed for the
+      slightest transgression against the most arbitrary restriction. Israel does this
+      all the time, and its defenders are fine with it. During the aid distribution
+      at GHF sites Israeli soldiers have told the Israeli press that they were ordered
+      to fire upon anyone who moved in an unauthorized way, killing starving civilians
+      every single day for seeking food. During the last “ceasefire” at the beginning
+      of the year civilians would routinely get murdered for taking a donkey cart down
+      the wrong road or whatever. That’s the sort of thing people support of they stand
+      by Israel. Supporting Israel is an innately racist and murderous position, because
+      you support murdering Palestinian civilians for reasons you would never accept
+      your own people being killed for. ❖ Israeli right wingers have been filmed literally
+      pushing their babies in front of aid trucks in order to block food from getting
+      to starving civilians. I mean, fuck. Israelis are something else. ❖ Israel cannot
+      stop murdering and abusing and sowing chaos and destruction for even one fucking
+      day and the western empire cannot stop supporting it for even an instant, but
+      if you say anything about this people start making up weird stories about you
+      hating the religion of Judaism. ❖ The Trump administration has ordered the repatriation
+      to Colombia and Ecuador of the survivors of its attack on a boat in the Caribbean
+      Sea, which punches some major plot holes in its claim that it has been blowing
+      up these boats because they are full of Venezuelan “narco-terrorists”. The US
+      isn’t generally in the habit of sending terrorists home, so it’s clear they targeted
+      innocent people and had no case against them. Anyone buying into the war propaganda
+      about Venezuela is a fucking moron. The lies are dumb even by usual US warmongering
+      standards, and US regime change interventionism is consistently disastrous. People
+      who say they want Trump to remove Maduro are admitting they never grew up. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article criticizes the portrayal of Israel's military
+      actions in Gaza as a "test" of the ceasefire, highlighting the normalization of
+      violence against Palestinians in Western media and the subsequent civilian casualties
+      resulting from renewed bombings.
+    paragraph_summary: The article discusses the ongoing violence in Gaza, highlighting
+      Israel's recent actions that have resulted in civilian casualties and the resumption
+      of bombings, which the author criticizes as a blatant violation of the ceasefire
+      agreement. The piece argues that the Western media downplays these events by framing
+      them as a "test" of the ceasefire, normalizing the killing of Palestinians. The
+      author emphasizes that Israel's government has made it clear that they will not
+      consider the conflict over until Hamas is completely disarmed, a condition that
+      the Palestinian resistance rejects, suggesting that this sets the stage for further
+      violence. The article also critiques the justification used by some Israeli supporters
+      for the military's actions against civilians, portraying it as a troubling rationale
+      for violence.
+    published: '2025-10-20T01:34:17+00:00'
+  - title: They Said The Massacres Would Stop When The Hostages Were Released. They
+      Haven't Stopped.
+    url: https://www.caitlinjohnst.one/p/they-said-the-massacres-would-stop
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Last year I banged out an angry rant about the way Israel supporters would yell
+      “release the hostages!” at anyone who talked about the latest massacre of Palestinian
+      civilians, saying Hamas was to blame for the killing because of their refusal
+      to release the Israeli captives, and that it would all stop once the hostages
+      are free. I’m remembering that essay today because the hostages are free, but
+      the massacres are continuing. On Friday Israel reportedly blew up a vehicle carrying
+      a Palestinian family of eleven people, including seven children. The IDF gave
+      its usual excuse for the massacre: the civilians were deemed to have crossed an
+      invisible line into a forbidden zone which made the Israeli soldiers feel unsafe.
+      They did this exact same thing constantly during the last “ceasefire” as well.
+      In my polemic last year I argued that the slaughter we were seeing in Gaza plainly
+      had nothing to do with pushing for the release of Israeli hostages, and that even
+      if it did it would still be barbaric to massacre children until your enemies caved
+      in to your demands. https://x.com/caitoz/status/1827891210436198584 But two years
+      of genocide have made it clear that the Israeli military was never killing Palestinian
+      civilians in order to push for the release of hostages or force Hamas to cave
+      in to their demands. The Israeli military kills Palestinian civilians in order
+      to kill Palestinian civilians. The killing is the goal, and it always has been.
+      We see this illustrated over and over again, in all sorts of ways. Israel apologists
+      always argued that the only reason the IDF had destroyed Gaza’s healthcare system
+      with nonstop hospital attacks was because Hamas was using those hospitals as secret
+      military bases. But then multiple independent reports from western doctors in
+      Gaza confirmed that Israeli forces had been entering the hospitals after attacking
+      them and systematically destroying individual pieces of medical equipment one
+      by one in order to make them unusable. Hamas wasn’t the target in those hospital
+      attacks, the hospitals themselves were the target. And now we are seeing the “Israel
+      is killing people because Hamas has Israeli hostages” narrative debunked in exactly
+      the same way the “Israel keeps bombing hospitals because there are Hamas bases
+      in all of them” narrative was. The hostages are free, but the massacres continue.
+      None of which will surprise anyone who was paying attention these last two years.
+      Israel’s genocidal intent has been on full display every minute of every day,
+      and it continues to be even during this joke of a “ceasefire” where the genocide
+      was theoretically supposed to be on pause for a little while. __________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article reflects on the ongoing violence against Palestinian
+      civilians despite the release of Israeli hostages, criticizing the justification
+      used by the Israeli military for such actions and highlighting the disconnect
+      between the release of hostages and the continuation of massacres.
+    paragraph_summary: The article reflects on the ongoing violence in Gaza, highlighting
+      that despite the release of Israeli hostages, the Israeli military continues to
+      carry out attacks on Palestinian civilians, including a recent incident where
+      a family of eleven was killed. The author criticizes the narrative that such violence
+      is justified by the need to secure hostages, arguing instead that the killings
+      are part of a broader agenda to eliminate Palestinian civilians. The piece underscores
+      the disconnect between claims made by Israeli supporters and the reality of the
+      situation, suggesting that the destruction of Gaza's healthcare system and other
+      civilian infrastructure is not merely collateral damage but a deliberate strategy.
+    published: '2025-10-18T12:22:46+00:00'
+  - title: They Said The Massacres Would Stop When The Hostages Were Released. They
+      Haven't Stopped.
+    url: https://www.caitlinjohnst.one/p/they-said-the-massacres-would-stop
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Last year I banged out an angry rant about the way Israel supporters would yell
+      “release the hostages!” at anyone who talked about the latest massacre of Palestinian
+      civilians, saying Hamas was to blame for the killing because of their refusal
+      to release the Israeli captives, and that it would all stop once the hostages
+      are free. I’m remembering that essay today because the hostages are free, but
+      the massacres are continuing. On Friday Israel reportedly blew up a vehicle carrying
+      a Palestinian family of eleven people, including seven children. The IDF gave
+      its usual excuse for the massacre: the civilians were deemed to have crossed an
+      invisible line into a forbidden zone which made the Israeli soldiers feel unsafe.
+      They did this exact same thing constantly during the last “ceasefire” as well.
+      In my polemic last year I argued that the slaughter we were seeing in Gaza plainly
+      had nothing to do with pushing for the release of Israeli hostages, and that even
+      if it did it would still be barbaric to massacre children until your enemies caved
+      in to your demands. https://x.com/caitoz/status/1827891210436198584 But two years
+      of genocide have made it clear that the Israeli military was never killing Palestinian
+      civilians in order to push for the release of hostages or force Hamas to cave
+      in to their demands. The Israeli military kills Palestinian civilians in order
+      to kill Palestinian civilians. The killing is the goal, and it always has been.
+      We see this illustrated over and over again, in all sorts of ways. Israel apologists
+      always argued that the only reason the IDF had destroyed Gaza’s healthcare system
+      with nonstop hospital attacks was because Hamas was using those hospitals as secret
+      military bases. But then multiple independent reports from western doctors in
+      Gaza confirmed that Israeli forces had been entering the hospitals after attacking
+      them and systematically destroying individual pieces of medical equipment one
+      by one in order to make them unusable. Hamas wasn’t the target in those hospital
+      attacks, the hospitals themselves were the target. And now we are seeing the “Israel
+      is killing people because Hamas has Israeli hostages” narrative debunked in exactly
+      the same way the “Israel keeps bombing hospitals because there are Hamas bases
+      in all of them” narrative was. The hostages are free, but the massacres continue.
+      None of which will surprise anyone who was paying attention these last two years.
+      Israel’s genocidal intent has been on full display every minute of every day,
+      and it continues to be even during this joke of a “ceasefire” where the genocide
+      was theoretically supposed to be on pause for a little while. __________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article reflects on the ongoing violence against Palestinian
+      civilians despite the release of Israeli hostages, criticizing the justification
+      used by the Israeli military for such actions and highlighting the disconnect
+      between the release of hostages and the continuation of massacres.
+    paragraph_summary: The article reflects on the ongoing violence in Gaza, highlighting
+      that despite the release of Israeli hostages, the Israeli military continues to
+      carry out attacks on Palestinian civilians, including a recent incident where
+      a family of eleven was killed. The author criticizes the narrative that such violence
+      is justified by the need to secure hostages, arguing instead that the killings
+      are part of a broader agenda to eliminate Palestinian civilians. The piece underscores
+      the disconnect between claims made by Israeli supporters and the reality of the
+      situation, suggesting that the destruction of Gaza's healthcare system and other
+      civilian infrastructure is not merely collateral damage but a deliberate strategy.
+    published: '2025-10-18T12:22:46+00:00'
+  - title: Israel Foreign Ministry Falsely Claims Palestinians Tore Apart A Beached
+      Whale
+    url: https://www.caitlinjohnst.one/p/israel-foreign-ministry-falsely-claims
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      In one of the more freakish acts of genocide propaganda we’ve seen in the last
+      two years, the official Twitter account of the Israel Foreign Ministry made a
+      post smearing desperate, starving civilians as cruel savages using the false allegation
+      that they “tore apart” a “whale” that had become “stranded” on the beach. “Gazans
+      tore apart a stranded whale on the beach. This is cruelty that knows no limits.
+      But we didn’t hear anything about it from Greta PR Thunberg,” the ministry tweeted,
+      with accompanying footage of people using ropes to move the body of a sea creature
+      on the beach. There’s a lot to unpack about this one, but bear with me, because
+      while this instance of propaganda wouldn’t even make a Top Ten Thousand list of
+      the most evil things Israel has done, it says so much about the way this genocidal
+      apartheid state dehumanizes the Palestinian people. https://x.com/IsraelMFA/status/1979206428888907813
+      A quick glance shows that the animal in the video is not a “whale” at all but
+      a whale shark, easily recognizable by the distinct spots and ridges on its back
+      which no species of whale possesses. Whale sharks are not a type of whale at all,
+      but the world’s largest species of fish, so named only because of their immense
+      size. Israel’s Foreign Ministry falsely claimed the animal was a “whale” because
+      “starving civilians eat a fish” does not make for good propaganda if you’re trying
+      to frame them as loathsome barbarians. Whales, unlike fish, can survive for hours
+      or even days if they become stranded on land because they breathe air. The post
+      is crafted to convey the image of a bunch of uncivilized subhumans ripping apart
+      a sentient mammal while still alive in order to pull at the heart strings of western
+      environmentalists. There is no such thing as a “stranded” fish; there are fish
+      in the water and there are dead fish. The whale shark in the video was dead, and
+      had probably been dead for some time. To be clear, the Israeli government did
+      not innocently misidentify a species of fish as a whale. The Israeli press had
+      already reported that a whale shark had been butchered for food on the shores
+      of Gaza, after having previously reported on sightings of the animal off Israel’s
+      shores weeks earlier. They knew it was a dead shark, and they made the cold, calculated
+      decision to circulate the lie that a whale had become beached on Gaza and met
+      an agonizing end at the hands of the locals there. https://x.com/ynetnews/status/1971741587987124571
+      In a sense this is a distinction without a difference, because only a monster
+      would begrudge starving civilians feeding their children with actual whale meat
+      in desperate times anyway. There is an overwhelming and consistent consensus among
+      humanitarian aid groups that the people of Gaza are being starved by Israel. But
+      the fact that they’d go out of their way to lie about such a thing in order to
+      make Palestinians look like depraved vermin really illustrates the hateful intensity
+      with which Israel wants to exterminate these people. I mean, think about it. Firstly,
+      on its face the Israeli government is suggesting that the lives of Palestinians
+      are worth less than the life of a single whale. Just that one fact, all by itself,
+      shows you how low the Israelis rank the value of Palestinian life in the grand
+      order of things. Then they had to Israelify their position even more by lying
+      about it, falsely claiming that a beached whale was torn apart by primitive sadists
+      who should have instead helped the animal return to sea. An animal that they knew
+      was dead. Then they Israelified it even further by adding in their freakish obsession
+      with activist Greta Thunberg, who recently confirmed earlier reports that she
+      was tortured and sexually humiliated by Israeli forces after being abducted for
+      trying to bring aid to Gaza. Then they somehow managed to make it even more Israeli
+      by adding in hypocrisy, accusing the Palestinians of “cruelty that knows no limits”
+      after spending two years inflicting unfathomable suffering upon that population
+      in full view of the entire world. Imagine surviving two years of genocidal atrocities,
+      starving, watching your children starve, getting hungrier and hungrier and more
+      and more desperate, and then along comes this giant fish that could feed many
+      families. It would feel like a gift from God. Imagine the elation you would feel.
+      And then imagine learning that your tormenters had somehow found a way to spin
+      even this miraculous, life-giving moment of relief as something cruel and barbaric.
+      Israeli propagandists would have seen Palestinians sharing videos celebrating
+      their joy about the whale shark and recognized that if the footage isn’t carefully
+      framed in a cunning way, it could actually bring hope to the people of Gaza and
+      their supporters. So they made their very best effort to drop a big, steaming
+      turd on it in order to kill those hopes. Israel has done so many stunningly evil
+      things to the Palestinians that it almost feels trivial to focus on this single
+      act of social media propaganda today. But I expect this one will stick with me,
+      just because of how much it says about Israel and its abusiveness. __________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The Israel Foreign Ministry's Twitter account faced criticism
+      for posting a misleading claim that Gazans cruelly "tore apart" a stranded whale,
+      which exemplifies the dehumanization of Palestinians amid ongoing conflict.
+    paragraph_summary: The Israel Foreign Ministry's recent tweet, which accused Gazans
+      of "tearing apart" a stranded whale, has been criticized as a disturbing act of
+      genocide propaganda that dehumanizes Palestinians. The post featured footage of
+      individuals moving a whale shark, a large fish often mistaken for a whale, which
+      the ministry misidentified to evoke a more emotional response from Western audiences.
+      This misrepresentation aims to portray desperate civilians as cruel savages, despite
+      the fact that the animal was already dead, highlighting the lengths to which the
+      Israeli government will go to frame the narrative in a way that vilifies the Palestinian
+      people.
+    published: '2025-10-18T01:43:07+00:00'
+  - title: Israel Foreign Ministry Falsely Claims Palestinians Tore Apart A Beached
+      Whale
+    url: https://www.caitlinjohnst.one/p/israel-foreign-ministry-falsely-claims
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      In one of the more freakish acts of genocide propaganda we’ve seen in the last
+      two years, the official Twitter account of the Israel Foreign Ministry made a
+      post smearing desperate, starving civilians as cruel savages using the false allegation
+      that they “tore apart” a “whale” that had become “stranded” on the beach. “Gazans
+      tore apart a stranded whale on the beach. This is cruelty that knows no limits.
+      But we didn’t hear anything about it from Greta PR Thunberg,” the ministry tweeted,
+      with accompanying footage of people using ropes to move the body of a sea creature
+      on the beach. There’s a lot to unpack about this one, but bear with me, because
+      while this instance of propaganda wouldn’t even make a Top Ten Thousand list of
+      the most evil things Israel has done, it says so much about the way this genocidal
+      apartheid state dehumanizes the Palestinian people. https://x.com/IsraelMFA/status/1979206428888907813
+      A quick glance shows that the animal in the video is not a “whale” at all but
+      a whale shark, easily recognizable by the distinct spots and ridges on its back
+      which no species of whale possesses. Whale sharks are not a type of whale at all,
+      but the world’s largest species of fish, so named only because of their immense
+      size. Israel’s Foreign Ministry falsely claimed the animal was a “whale” because
+      “starving civilians eat a fish” does not make for good propaganda if you’re trying
+      to frame them as loathsome barbarians. Whales, unlike fish, can survive for hours
+      or even days if they become stranded on land because they breathe air. The post
+      is crafted to convey the image of a bunch of uncivilized subhumans ripping apart
+      a sentient mammal while still alive in order to pull at the heart strings of western
+      environmentalists. There is no such thing as a “stranded” fish; there are fish
+      in the water and there are dead fish. The whale shark in the video was dead, and
+      had probably been dead for some time. To be clear, the Israeli government did
+      not innocently misidentify a species of fish as a whale. The Israeli press had
+      already reported that a whale shark had been butchered for food on the shores
+      of Gaza, after having previously reported on sightings of the animal off Israel’s
+      shores weeks earlier. They knew it was a dead shark, and they made the cold, calculated
+      decision to circulate the lie that a whale had become beached on Gaza and met
+      an agonizing end at the hands of the locals there. https://x.com/ynetnews/status/1971741587987124571
+      In a sense this is a distinction without a difference, because only a monster
+      would begrudge starving civilians feeding their children with actual whale meat
+      in desperate times anyway. There is an overwhelming and consistent consensus among
+      humanitarian aid groups that the people of Gaza are being starved by Israel. But
+      the fact that they’d go out of their way to lie about such a thing in order to
+      make Palestinians look like depraved vermin really illustrates the hateful intensity
+      with which Israel wants to exterminate these people. I mean, think about it. Firstly,
+      on its face the Israeli government is suggesting that the lives of Palestinians
+      are worth less than the life of a single whale. Just that one fact, all by itself,
+      shows you how low the Israelis rank the value of Palestinian life in the grand
+      order of things. Then they had to Israelify their position even more by lying
+      about it, falsely claiming that a beached whale was torn apart by primitive sadists
+      who should have instead helped the animal return to sea. An animal that they knew
+      was dead. Then they Israelified it even further by adding in their freakish obsession
+      with activist Greta Thunberg, who recently confirmed earlier reports that she
+      was tortured and sexually humiliated by Israeli forces after being abducted for
+      trying to bring aid to Gaza. Then they somehow managed to make it even more Israeli
+      by adding in hypocrisy, accusing the Palestinians of “cruelty that knows no limits”
+      after spending two years inflicting unfathomable suffering upon that population
+      in full view of the entire world. Imagine surviving two years of genocidal atrocities,
+      starving, watching your children starve, getting hungrier and hungrier and more
+      and more desperate, and then along comes this giant fish that could feed many
+      families. It would feel like a gift from God. Imagine the elation you would feel.
+      And then imagine learning that your tormenters had somehow found a way to spin
+      even this miraculous, life-giving moment of relief as something cruel and barbaric.
+      Israeli propagandists would have seen Palestinians sharing videos celebrating
+      their joy about the whale shark and recognized that if the footage isn’t carefully
+      framed in a cunning way, it could actually bring hope to the people of Gaza and
+      their supporters. So they made their very best effort to drop a big, steaming
+      turd on it in order to kill those hopes. Israel has done so many stunningly evil
+      things to the Palestinians that it almost feels trivial to focus on this single
+      act of social media propaganda today. But I expect this one will stick with me,
+      just because of how much it says about Israel and its abusiveness. __________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The Israel Foreign Ministry's Twitter account faced criticism
+      for posting a misleading claim that Gazans cruelly "tore apart" a stranded whale,
+      which exemplifies the dehumanization of Palestinians amid ongoing conflict.
+    paragraph_summary: The Israel Foreign Ministry's recent tweet, which accused Gazans
+      of "tearing apart" a stranded whale, has been criticized as a disturbing act of
+      genocide propaganda that dehumanizes Palestinians. The post featured footage of
+      individuals moving a whale shark, a large fish often mistaken for a whale, which
+      the ministry misidentified to evoke a more emotional response from Western audiences.
+      This misrepresentation aims to portray desperate civilians as cruel savages, despite
+      the fact that the animal was already dead, highlighting the lengths to which the
+      Israeli government will go to frame the narrative in a way that vilifies the Palestinian
+      people.
+    published: '2025-10-18T01:43:07+00:00'
+  - title: The West's Dehumanization Of Arabs Is Completely Unforgivable
+    url: https://www.caitlinjohnst.one/p/the-wests-dehumanization-of-arabs
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      In October 2024 a Lebanese writer named Lina Mounzer wrote , “ask any Arab what
+      the most painful realization of the last year has been and it is this: that we
+      have discovered the extent of our dehumanization to such a degree that it’s impossible
+      to function in the world in the same way.” I’ve thought about that line a lot
+      over the last year. I thought about it as Israel hammered Lebanon with at least
+      20 airstrikes during a supposed “ceasefire”. I thought about it during the Gaza
+      ceasefire negotiations when the western political/media class kept calling the
+      Israelis held by Hamas “hostages” while calling the innocent Palestinians held
+      captive by Israel “prisoners”. I think about it as the IDF continues to murder
+      Palestinian civilians every day during the Gaza “ceasefire” when they are deemed
+      to be traveling into forbidden areas, because Palestinians are so dehumanized
+      that Israel sees bullets as a perfectly legitimate means of directing civilian
+      foot traffic. I think about it as these daily ceasefire violations and acts of
+      military slaughter barely make a blip in the western news media, while any time
+      anything happens that makes western Jews feel anxious or upset it dominates headlines
+      for days. I thought about it while the western political/media class solemnly
+      commemorated the second anniversary of the October 7 attack, even as the daily
+      death toll from the Gaza holocaust ticked along with its victims unnamed and unacknowledged
+      by those same institutions. I thought about it when all of western politics and
+      media stopped dead in its tracks and stood transfixed for days on the assassination
+      of Charlie Kirk while ignoring the genocide he had spent the last two years of
+      his life actively manufacturing consent for . Day after day after day we see glaring,
+      inexcusable discrepancies between the amount of attention that is given to the
+      violent death of an Arab and the attention that is given to the violent death
+      of an Israeli, a western Jew, or any westerner. These last two years have been
+      a time of unprecedented unmasking in all sorts of ways, but I think that’s the
+      one that’s going to stick with me the most. The way western civilization came
+      right out into the cold harsh light to admit, day after day after day, that they
+      don’t truly view Arabs as human beings. Ours is a profoundly sick society. One
+      of the main arguments you’ll hear from rightists about why the west needs to support
+      Israel is that Israel is helping to defend the west from the savage Muslim hoards — a
+      sentiment that Israeli pundits and politicians have been all too happy to feed
+      into of late. It’s revealing because it’s just coming right out and saying that
+      slaughtering Muslims is a virtue in and of itself, so anyone who kills Muslims
+      is an ally of the west. But any time I come across this argument all I can think
+      is, why would anyone want to defend the west if this is what the west has become?
+      Even if we pretend these delusions that Arabs and Islam pose some kind of threat
+      to western civilization are valid, why would it even matter? This civilization
+      does not deserve to be saved. Not if we’re going to be living like this. If we’ve
+      become so detached from our own humanity that we can’t even see innocent children
+      as fully human just because they live somewhere else and have a different religion,
+      then we are the monsters. We are the villains. We are everything the craziest
+      Zionist pretends the Arabs are. These last two years have shown us that western
+      civilization doesn’t need protection, it needs redemption. It needs to save its
+      soul. __________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article reflects on the deep sense of dehumanization experienced
+      by Arabs, particularly in the context of ongoing violence and political narratives
+      surrounding the Israeli-Palestinian conflict, highlighting the stark contrast
+      in how individuals are labeled and treated based on their identity.
+    paragraph_summary: In an October 2024 reflection, Lebanese writer Lina Mounzer highlights
+      the profound dehumanization experienced by Arabs, particularly in the context
+      of ongoing violence in the Israel-Palestine conflict. The article discusses the
+      stark disparities in media coverage and political attention between the suffering
+      of Palestinians and the concerns of Western Jews, emphasizing how Palestinian
+      casualties are often overlooked or minimized. It critiques the portrayal of hostages
+      versus prisoners, the normalization of violence against Palestinians during ceasefires,
+      and the lack of acknowledgment of the daily death toll in Gaza. The author expresses
+      frustration over the media's focus on certain events while ignoring the broader
+      context of violence and oppression faced by Arab communities, underscoring a troubling
+      pattern of selective empathy and representation in Western discourse.
+    published: '2025-10-17T12:41:29+00:00'
+  - title: The West's Dehumanization Of Arabs Is Completely Unforgivable
+    url: https://www.caitlinjohnst.one/p/the-wests-dehumanization-of-arabs
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      In October 2024 a Lebanese writer named Lina Mounzer wrote , “ask any Arab what
+      the most painful realization of the last year has been and it is this: that we
+      have discovered the extent of our dehumanization to such a degree that it’s impossible
+      to function in the world in the same way.” I’ve thought about that line a lot
+      over the last year. I thought about it as Israel hammered Lebanon with at least
+      20 airstrikes during a supposed “ceasefire”. I thought about it during the Gaza
+      ceasefire negotiations when the western political/media class kept calling the
+      Israelis held by Hamas “hostages” while calling the innocent Palestinians held
+      captive by Israel “prisoners”. I think about it as the IDF continues to murder
+      Palestinian civilians every day during the Gaza “ceasefire” when they are deemed
+      to be traveling into forbidden areas, because Palestinians are so dehumanized
+      that Israel sees bullets as a perfectly legitimate means of directing civilian
+      foot traffic. I think about it as these daily ceasefire violations and acts of
+      military slaughter barely make a blip in the western news media, while any time
+      anything happens that makes western Jews feel anxious or upset it dominates headlines
+      for days. I thought about it while the western political/media class solemnly
+      commemorated the second anniversary of the October 7 attack, even as the daily
+      death toll from the Gaza holocaust ticked along with its victims unnamed and unacknowledged
+      by those same institutions. I thought about it when all of western politics and
+      media stopped dead in its tracks and stood transfixed for days on the assassination
+      of Charlie Kirk while ignoring the genocide he had spent the last two years of
+      his life actively manufacturing consent for . Day after day after day we see glaring,
+      inexcusable discrepancies between the amount of attention that is given to the
+      violent death of an Arab and the attention that is given to the violent death
+      of an Israeli, a western Jew, or any westerner. These last two years have been
+      a time of unprecedented unmasking in all sorts of ways, but I think that’s the
+      one that’s going to stick with me the most. The way western civilization came
+      right out into the cold harsh light to admit, day after day after day, that they
+      don’t truly view Arabs as human beings. Ours is a profoundly sick society. One
+      of the main arguments you’ll hear from rightists about why the west needs to support
+      Israel is that Israel is helping to defend the west from the savage Muslim hoards — a
+      sentiment that Israeli pundits and politicians have been all too happy to feed
+      into of late. It’s revealing because it’s just coming right out and saying that
+      slaughtering Muslims is a virtue in and of itself, so anyone who kills Muslims
+      is an ally of the west. But any time I come across this argument all I can think
+      is, why would anyone want to defend the west if this is what the west has become?
+      Even if we pretend these delusions that Arabs and Islam pose some kind of threat
+      to western civilization are valid, why would it even matter? This civilization
+      does not deserve to be saved. Not if we’re going to be living like this. If we’ve
+      become so detached from our own humanity that we can’t even see innocent children
+      as fully human just because they live somewhere else and have a different religion,
+      then we are the monsters. We are the villains. We are everything the craziest
+      Zionist pretends the Arabs are. These last two years have shown us that western
+      civilization doesn’t need protection, it needs redemption. It needs to save its
+      soul. __________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article reflects on the deep sense of dehumanization experienced
+      by Arabs, particularly in the context of ongoing violence and political narratives
+      surrounding the Israeli-Palestinian conflict, highlighting the stark contrast
+      in how individuals are labeled and treated based on their identity.
+    paragraph_summary: In an October 2024 reflection, Lebanese writer Lina Mounzer highlights
+      the profound dehumanization experienced by Arabs, particularly in the context
+      of ongoing violence in the Israel-Palestine conflict. The article discusses the
+      stark disparities in media coverage and political attention between the suffering
+      of Palestinians and the concerns of Western Jews, emphasizing how Palestinian
+      casualties are often overlooked or minimized. It critiques the portrayal of hostages
+      versus prisoners, the normalization of violence against Palestinians during ceasefires,
+      and the lack of acknowledgment of the daily death toll in Gaza. The author expresses
+      frustration over the media's focus on certain events while ignoring the broader
+      context of violence and oppression faced by Arab communities, underscoring a troubling
+      pattern of selective empathy and representation in Western discourse.
+    published: '2025-10-17T12:41:29+00:00'
+  - title: Israel Tortured And Sexually Humiliated Greta Thunberg
+    url: https://www.caitlinjohnst.one/p/israel-tortured-and-sexually-humiliated
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      In an interview with Swedish paper Aftonbladet , Greta Thunberg has corroborated
+      earlier eyewitness reports that she and her fellow Global Sumud Flotilla activists
+      were subjected to monstrous abuses by Israeli officials after being abducted from
+      their boats carrying aid for Palestinians in Gaza. Here are some excerpts (quotes
+      from Thunberg are italicized, quotes from Aftonbladet are in bold): “They grab
+      me, pull me to the ground, and throw an Israeli flag over me.” “They dragged me
+      to the opposite side from where the others were sitting, and I had the flag around
+      me the whole time. They hit and kicked me.” “They moved me very brutally to a
+      corner that I was turned towards. ‘A special place for a special lady’, they said.
+      And then they had learned ‘Lilla hora’ (Little whore) and ‘Hora Greta’ (Whore
+      Greta) in Swedish, which they repeated all the time.” In the corner where Greta
+      was sitting, the police placed a flag. “The flag was placed so that it would touch
+      me. When it fluttered and touched me, they shouted ‘Don’t touch the flag’ and
+      kicked me in the side. After a while, my hands were tied with cable ties, very
+      tightly. A bunch of guards lined up to take selfies with me while I was sitting
+      like that.” “They were thrown to the ground and beaten. But I could only see it
+      out of the corner of my eye, because every time I lifted my head from the ground,
+      I was kicked by the guard standing next to me.” Greta was then taken into a building
+      to be searched and undressed. “The guards have no empathy or humanity, and they
+      keep taking selfies with me. There’s a lot I don’t remember. So much is happening
+      at once. You’re in shock. You’re in pain, but you go into a state of trying to
+      stay calm.” Outside, she was forced to take off her clothes again, she says. “It
+      was mockery, rough handling, and everything was filmed. Everything they do is
+      extremely violent.” “It was so hot, like 40 degrees. We begged the whole time:
+      Can we have water? Can we have water? In the end, we screamed. The guards walked
+      in front of the bars the whole time, laughing and holding up their water bottles.
+      They threw the bottles with water in them into the trash cans in front of us.”
+      “When people fainted, we banged on the cages and asked for a doctor. Then the
+      guards came and said, ‘We’re going to gas you.’ It was standard for them to say
+      that.” “This shows that if Israel, with the whole world watching, can treat a
+      well-known, white person with a Swedish passport this way, just imagine what they
+      do to Palestinians behind closed doors.” Thunberg told Aftonbladet that the Swedish
+      government greatly downplayed the abuse she and her fellow Sumud Flotilla activists
+      suffered, and wouldn’t even bring them water: “We were together and told them
+      about the treatment we received. About the lack of food, water, about the abuse.
+      The torture. We showed them the physical injuries we had — bruises and scratches.
+      We gave them all our contact details — I gave them my father’s number and the
+      number of our contact in the organization. We were clear: everything we say now
+      must be released to the media.” “They didn’t do anything, they just said: ’Our
+      job is to listen to you. We are here and you are entitled to consular support.’”
+      “We said over and over again: we need water. And they saw that the guards had
+      water bottles. The embassy staff said: ’We’ll make a note of that.’ One of us,
+      Vincent, said: ’Next time we meet you, you must bring water.’” Then it took two
+      days before the embassy staff showed up again. “They didn’t bring any water, except
+      for a small bottle of their own that was half empty. Vincent, who was in the worst
+      shape, got to drink it. We kept asking the guards, ‘Can we have some water?’ but
+      they just walked around with their water bottles and didn’t answer.” “I said,
+      ‘Are you going to leave us like this? If you leave now, they will beat us up.’
+      But they just kept walking.” When Aftonbladet compares emails sent by the Ministry
+      of Foreign Affairs to relatives, with what the captives describe telling embassy
+      staff, it becomes clear that the seriousness of the situation has been downplayed.
+      The Ministry of Foreign Affairs describes the scene at the port, where Greta Thunberg
+      was beaten for hours, as follows: “She told us about harsh treatment and that
+      she had been sitting on a hard surface for a long time.” On Saturday, several
+      media outlets published testimonies that Greta had been subjected to torture.
+      Aftonbladet has spoken to three other members of the flotilla who largely confirm
+      what Greta Thunberg says and who have all experienced various types of abuse and
+      humiliation. We have also spoken to relatives. Everyone is highly critical of
+      how the Swedish embassy staff acted. https://x.com/yung_coxey/status/1978493992477106417
+      Thunberg’s statements are not just in alignment with eyewitnesses who said these
+      things were done to her , but with statements from the Israeli government itself.
+      Israeli National Security Minister Itamar Ben-Gvir said last month that Sumud
+      activists must be treated as terrorists in order to “create a clear deterrent”
+      from future flotilla activism, declaring that “Anyone who chooses to collaborate
+      with Hamas and support terrorism will meet a firm and unyielding response from
+      Israel.” “We will not allow individuals who support terrorism to live in comfort.
+      They will face the full consequences of their actions,” Ben-Gvir said at the time.
+      After the flotilla activists were abducted by the IDF, Ben-Gvir filmed himself
+      taunting them and calling them “terrorists” and said he “was proud that we treat
+      ‘flotilla activists’ as terror supporters.” Israel, needless to say, has an extensively
+      documented record of torturing and raping individuals who’ve been given the “terrorist”
+      label by the regime. So what Thunberg is describing would be Israel doing what
+      it said it was going to do in order to send a message and deter future efforts
+      to feed starving Palestinians — perhaps singling out the most high-profile activist
+      on the flotilla for special abuse in order to really drive the point home. Israel
+      is so evil it’s actually hard to wrap your mind around it. ___________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image by Kushal Das via Wikimedia Commons ( Attribution-Share Alike 4.0
+      International )'
+    one_sentence_summary: In an interview with Aftonbladet, Greta Thunberg recounted
+      her traumatic experience of being violently abused by Israeli officials after
+      being detained while delivering aid to Palestinians in Gaza, confirming previous
+      eyewitness accounts of the incident.
+    paragraph_summary: In a recent interview with Swedish newspaper Aftonbladet, Greta
+      Thunberg recounted harrowing experiences she faced while participating in the
+      Global Sumud Flotilla, which aimed to deliver aid to Palestinians in Gaza. Thunberg
+      described being violently detained by Israeli officials, who subjected her to
+      physical abuse, including being thrown to the ground, kicked, and verbally assaulted
+      with derogatory terms. She detailed being tied up with cable ties and forced to
+      endure humiliating treatment, including being photographed by guards while in
+      distress. Thunberg emphasized the brutality of the situation, noting the lack
+      of empathy from her captors and the extreme heat conditions they faced. The account
+      corroborates previous eyewitness reports of the treatment endured by her and fellow
+      activists during the incident.
+    published: '2025-10-16T02:37:07+00:00'
+  - title: Israel Tortured And Sexually Humiliated Greta Thunberg
+    url: https://www.caitlinjohnst.one/p/israel-tortured-and-sexually-humiliated
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      In an interview with Swedish paper Aftonbladet , Greta Thunberg has corroborated
+      earlier eyewitness reports that she and her fellow Global Sumud Flotilla activists
+      were subjected to monstrous abuses by Israeli officials after being abducted from
+      their boats carrying aid for Palestinians in Gaza. Here are some excerpts (quotes
+      from Thunberg are italicized, quotes from Aftonbladet are in bold): “They grab
+      me, pull me to the ground, and throw an Israeli flag over me.” “They dragged me
+      to the opposite side from where the others were sitting, and I had the flag around
+      me the whole time. They hit and kicked me.” “They moved me very brutally to a
+      corner that I was turned towards. ‘A special place for a special lady’, they said.
+      And then they had learned ‘Lilla hora’ (Little whore) and ‘Hora Greta’ (Whore
+      Greta) in Swedish, which they repeated all the time.” In the corner where Greta
+      was sitting, the police placed a flag. “The flag was placed so that it would touch
+      me. When it fluttered and touched me, they shouted ‘Don’t touch the flag’ and
+      kicked me in the side. After a while, my hands were tied with cable ties, very
+      tightly. A bunch of guards lined up to take selfies with me while I was sitting
+      like that.” “They were thrown to the ground and beaten. But I could only see it
+      out of the corner of my eye, because every time I lifted my head from the ground,
+      I was kicked by the guard standing next to me.” Greta was then taken into a building
+      to be searched and undressed. “The guards have no empathy or humanity, and they
+      keep taking selfies with me. There’s a lot I don’t remember. So much is happening
+      at once. You’re in shock. You’re in pain, but you go into a state of trying to
+      stay calm.” Outside, she was forced to take off her clothes again, she says. “It
+      was mockery, rough handling, and everything was filmed. Everything they do is
+      extremely violent.” “It was so hot, like 40 degrees. We begged the whole time:
+      Can we have water? Can we have water? In the end, we screamed. The guards walked
+      in front of the bars the whole time, laughing and holding up their water bottles.
+      They threw the bottles with water in them into the trash cans in front of us.”
+      “When people fainted, we banged on the cages and asked for a doctor. Then the
+      guards came and said, ‘We’re going to gas you.’ It was standard for them to say
+      that.” “This shows that if Israel, with the whole world watching, can treat a
+      well-known, white person with a Swedish passport this way, just imagine what they
+      do to Palestinians behind closed doors.” Thunberg told Aftonbladet that the Swedish
+      government greatly downplayed the abuse she and her fellow Sumud Flotilla activists
+      suffered, and wouldn’t even bring them water: “We were together and told them
+      about the treatment we received. About the lack of food, water, about the abuse.
+      The torture. We showed them the physical injuries we had — bruises and scratches.
+      We gave them all our contact details — I gave them my father’s number and the
+      number of our contact in the organization. We were clear: everything we say now
+      must be released to the media.” “They didn’t do anything, they just said: ’Our
+      job is to listen to you. We are here and you are entitled to consular support.’”
+      “We said over and over again: we need water. And they saw that the guards had
+      water bottles. The embassy staff said: ’We’ll make a note of that.’ One of us,
+      Vincent, said: ’Next time we meet you, you must bring water.’” Then it took two
+      days before the embassy staff showed up again. “They didn’t bring any water, except
+      for a small bottle of their own that was half empty. Vincent, who was in the worst
+      shape, got to drink it. We kept asking the guards, ‘Can we have some water?’ but
+      they just walked around with their water bottles and didn’t answer.” “I said,
+      ‘Are you going to leave us like this? If you leave now, they will beat us up.’
+      But they just kept walking.” When Aftonbladet compares emails sent by the Ministry
+      of Foreign Affairs to relatives, with what the captives describe telling embassy
+      staff, it becomes clear that the seriousness of the situation has been downplayed.
+      The Ministry of Foreign Affairs describes the scene at the port, where Greta Thunberg
+      was beaten for hours, as follows: “She told us about harsh treatment and that
+      she had been sitting on a hard surface for a long time.” On Saturday, several
+      media outlets published testimonies that Greta had been subjected to torture.
+      Aftonbladet has spoken to three other members of the flotilla who largely confirm
+      what Greta Thunberg says and who have all experienced various types of abuse and
+      humiliation. We have also spoken to relatives. Everyone is highly critical of
+      how the Swedish embassy staff acted. https://x.com/yung_coxey/status/1978493992477106417
+      Thunberg’s statements are not just in alignment with eyewitnesses who said these
+      things were done to her , but with statements from the Israeli government itself.
+      Israeli National Security Minister Itamar Ben-Gvir said last month that Sumud
+      activists must be treated as terrorists in order to “create a clear deterrent”
+      from future flotilla activism, declaring that “Anyone who chooses to collaborate
+      with Hamas and support terrorism will meet a firm and unyielding response from
+      Israel.” “We will not allow individuals who support terrorism to live in comfort.
+      They will face the full consequences of their actions,” Ben-Gvir said at the time.
+      After the flotilla activists were abducted by the IDF, Ben-Gvir filmed himself
+      taunting them and calling them “terrorists” and said he “was proud that we treat
+      ‘flotilla activists’ as terror supporters.” Israel, needless to say, has an extensively
+      documented record of torturing and raping individuals who’ve been given the “terrorist”
+      label by the regime. So what Thunberg is describing would be Israel doing what
+      it said it was going to do in order to send a message and deter future efforts
+      to feed starving Palestinians — perhaps singling out the most high-profile activist
+      on the flotilla for special abuse in order to really drive the point home. Israel
+      is so evil it’s actually hard to wrap your mind around it. ___________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image by Kushal Das via Wikimedia Commons ( Attribution-Share Alike 4.0
+      International )'
+    one_sentence_summary: In an interview with Aftonbladet, Greta Thunberg recounted
+      her traumatic experience of being violently abused by Israeli officials after
+      being detained while delivering aid to Palestinians in Gaza, confirming previous
+      eyewitness accounts of the incident.
+    paragraph_summary: In a recent interview with Swedish newspaper Aftonbladet, Greta
+      Thunberg recounted harrowing experiences she faced while participating in the
+      Global Sumud Flotilla, which aimed to deliver aid to Palestinians in Gaza. Thunberg
+      described being violently detained by Israeli officials, who subjected her to
+      physical abuse, including being thrown to the ground, kicked, and verbally assaulted
+      with derogatory terms. She detailed being tied up with cable ties and forced to
+      endure humiliating treatment, including being photographed by guards while in
+      distress. Thunberg emphasized the brutality of the situation, noting the lack
+      of empathy from her captors and the extreme heat conditions they faced. The account
+      corroborates previous eyewitness reports of the treatment endured by her and fellow
+      activists during the incident.
+    published: '2025-10-16T02:37:07+00:00'
+  - title: The Onus Is On Israel And Its Allies To End The Genocide, Not Their Victims
+    url: https://www.caitlinjohnst.one/p/the-onus-is-on-israel-and-its-allies
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s actually never legitimate to withhold aid from starving civilians. It was
+      never legitimate at any time. That’s one of the annoying things about having to
+      discuss Israel’s ridiculous claim that Hamas is hoarding hostage corpses in order
+      to achieve some kind of goal, and therefore justifies reducing aid into Gaza as
+      punishment: the conversation skates right over the fact that it has never been
+      legitimate for Israel to withhold humanitarian aid into Gaza. Debating whether
+      Israel is right or wrong to withhold aid under these specific circumstances tacitly
+      assumes that it could ever be right to withhold aid under any circumstances. Listening
+      to Israel’s justifications for why it needs to inflict monstrous abuses upon the
+      Palestinians has the effect of assuming that there are circumstances under which
+      those monstrous abuses could be acceptable. And there just aren’t. It has never
+      been legitimate to intentionally deprive civilians of humanitarian aid that they
+      need to survive. You have to give them aid. It has never been legitimate to shoot
+      noncombatants because you decided they crossed some sort of line into a forbidden
+      zone. It has never been legitimate to shoot noncombatants at all. It has never
+      been legitimate to commit genocide. Israel just needs to stop the genocide. The
+      onus for stopping a genocide is on the party committing the genocide. The onus
+      is not on the victims of the genocide to end it by meeting certain conditions.
+      This should not even need to be said. It’s so obnoxious how everyone’s getting
+      sucked into these debates about whether or not Israel might need to resume the
+      genocide because Hamas refused to disarm or they didn’t get their hostage corpses
+      back or this or that ceasefire demand wasn’t met or blah blah whatever. Israel
+      has never needed to commit genocide. It needs to stop committing genocide. The
+      world shouldn’t be bending over backwards to ensure that the state which is committing
+      genocide is happy with the terms by which the genocide is ended. The world should
+      be aggressively punishing the state that is committing genocide until it stops.
+      That would be true peace. What we are seeing now is just a bad joke. And of course
+      this true peace is not emerging because the powerful western states who’ve been
+      backing the genocide this whole time are perfectly fine with it. Their weapons
+      industries get to profit from the genocide. Their empire managers get to enjoy
+      the domination of a critical geostrategic region. They sleep like babies at night,
+      because they do not view the victims of the genocide as human beings. So we find
+      ourselves doing this ridiculous dance where we go “Okay well maybe the genocide
+      could stop if the victims of the genocide agree to terms X, Y and Z and don’t
+      make too much of a fuss about being killed in smaller numbers every day.” This
+      is madness. It’s the craziest thing you could possibly imagine. We live in a dystopian
+      madhouse. _____________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that it is never justifiable to withhold
+      humanitarian aid from starving civilians, emphasizing that Israel's claims about
+      Hamas do not legitimize the reduction of aid to Gaza.
+    paragraph_summary: The article argues that it is never legitimate to withhold humanitarian
+      aid from civilians, particularly in the context of the Israeli-Palestinian conflict.
+      It criticizes Israel's justification for reducing aid to Gaza based on claims
+      that Hamas is hoarding hostage corpses, asserting that such reasoning distracts
+      from the fundamental truth that depriving civilians of necessary aid is inherently
+      wrong. The author emphasizes that the responsibility for stopping acts of genocide
+      lies with the perpetrators, not the victims, and condemns the normalization of
+      discussions that imply there could be acceptable circumstances for inflicting
+      harm on noncombatants. Ultimately, the article calls for an end to the violence
+      and a recognition that humanitarian aid must be provided unconditionally.
+    published: '2025-10-16T01:13:23+00:00'
+  - title: The Onus Is On Israel And Its Allies To End The Genocide, Not Their Victims
+    url: https://www.caitlinjohnst.one/p/the-onus-is-on-israel-and-its-allies
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s actually never legitimate to withhold aid from starving civilians. It was
+      never legitimate at any time. That’s one of the annoying things about having to
+      discuss Israel’s ridiculous claim that Hamas is hoarding hostage corpses in order
+      to achieve some kind of goal, and therefore justifies reducing aid into Gaza as
+      punishment: the conversation skates right over the fact that it has never been
+      legitimate for Israel to withhold humanitarian aid into Gaza. Debating whether
+      Israel is right or wrong to withhold aid under these specific circumstances tacitly
+      assumes that it could ever be right to withhold aid under any circumstances. Listening
+      to Israel’s justifications for why it needs to inflict monstrous abuses upon the
+      Palestinians has the effect of assuming that there are circumstances under which
+      those monstrous abuses could be acceptable. And there just aren’t. It has never
+      been legitimate to intentionally deprive civilians of humanitarian aid that they
+      need to survive. You have to give them aid. It has never been legitimate to shoot
+      noncombatants because you decided they crossed some sort of line into a forbidden
+      zone. It has never been legitimate to shoot noncombatants at all. It has never
+      been legitimate to commit genocide. Israel just needs to stop the genocide. The
+      onus for stopping a genocide is on the party committing the genocide. The onus
+      is not on the victims of the genocide to end it by meeting certain conditions.
+      This should not even need to be said. It’s so obnoxious how everyone’s getting
+      sucked into these debates about whether or not Israel might need to resume the
+      genocide because Hamas refused to disarm or they didn’t get their hostage corpses
+      back or this or that ceasefire demand wasn’t met or blah blah whatever. Israel
+      has never needed to commit genocide. It needs to stop committing genocide. The
+      world shouldn’t be bending over backwards to ensure that the state which is committing
+      genocide is happy with the terms by which the genocide is ended. The world should
+      be aggressively punishing the state that is committing genocide until it stops.
+      That would be true peace. What we are seeing now is just a bad joke. And of course
+      this true peace is not emerging because the powerful western states who’ve been
+      backing the genocide this whole time are perfectly fine with it. Their weapons
+      industries get to profit from the genocide. Their empire managers get to enjoy
+      the domination of a critical geostrategic region. They sleep like babies at night,
+      because they do not view the victims of the genocide as human beings. So we find
+      ourselves doing this ridiculous dance where we go “Okay well maybe the genocide
+      could stop if the victims of the genocide agree to terms X, Y and Z and don’t
+      make too much of a fuss about being killed in smaller numbers every day.” This
+      is madness. It’s the craziest thing you could possibly imagine. We live in a dystopian
+      madhouse. _____________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that it is never justifiable to withhold
+      humanitarian aid from starving civilians, emphasizing that Israel's claims about
+      Hamas do not legitimize the reduction of aid to Gaza.
+    paragraph_summary: The article argues that it is never legitimate to withhold humanitarian
+      aid from civilians, particularly in the context of the Israeli-Palestinian conflict.
+      It criticizes Israel's justification for reducing aid to Gaza based on claims
+      that Hamas is hoarding hostage corpses, asserting that such reasoning distracts
+      from the fundamental truth that depriving civilians of necessary aid is inherently
+      wrong. The author emphasizes that the responsibility for stopping acts of genocide
+      lies with the perpetrators, not the victims, and condemns the normalization of
+      discussions that imply there could be acceptable circumstances for inflicting
+      harm on noncombatants. Ultimately, the article calls for an end to the violence
+      and a recognition that humanitarian aid must be provided unconditionally.
+    published: '2025-10-16T01:13:23+00:00'
   - title: The Trumpanyahu Administration Is Already Sabotaging The Ceasefire
     url: https://www.caitlinjohnst.one/p/the-trumpanyahu-administration-is
     text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now

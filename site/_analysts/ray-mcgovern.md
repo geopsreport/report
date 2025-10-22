@@ -7,17 +7,556 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  The geopolitical landscape remains tense as Western governments intensify measures to suppress dissent related to the ongoing conflict in Gaza. Since the escalation of violence in October 2023, there has been a marked increase in restrictions on pro-Palestinian activism across Europe and the United States.
+  Tensions remain high across the Middle East and Western political spheres as new revelations and public reactions emerge in the wake of ongoing violence in Gaza and increasing suppression of dissent in allied countries.
   
-  **Jonathan Cook** highlights that the British government under Keir Starmer is moving to further curtail protest rights, specifically targeting demonstrations critical of Israel. These legislative changes are widely interpreted as an effort to stifle public opposition to the UK’s foreign policy alignment. This development aligns with broader trends documented by the International Federation for Human Rights, which, as reported by **Ray McGovern**, notes a coordinated crackdown on Palestinian solidarity movements in France, Germany, the UK, and the US. The Federation’s findings suggest that authorities are using legal and administrative tools to limit freedom of assembly and expression, particularly where criticism of Israel is involved.
+  The most significant recent development centers on the controversial involvement of a U.S. Navy helicopter in an Israeli operation that resulted in the deaths of hundreds of Palestinians. As **Ray McGovern** reports, this has raised urgent questions about the extent of direct U.S. participation in the incident. The lack of transparency and official comment has fueled speculation and intensified scrutiny of U.S. military engagement in the region. The majority of analysts agree that this episode will further erode Washington’s credibility in international forums and may provoke renewed calls for accountability at the United Nations.
   
-  Meanwhile, scrutiny of US foreign policy continues. **Caitlin Johnstone** draws attention to President Trump’s recent speech in the Israeli parliament, where he openly acknowledged the influence of billionaire Zionist donors on his administration’s policies. This admission has fueled further debate about the transparency and motivations behind US support for Israel, especially as the administration faces criticism for its role in shaping the ceasefire terms in Gaza.
+  Meanwhile, the crackdown on pro-Palestinian activism in the United Kingdom has escalated. **Craig Murray** highlights the mass processing of 2,000 citizens—mainly elderly and infirm—through expedited, juryless trials for their support of Palestine Action. Murray characterizes this as a “mass injustice system” and a clear sign of the U.K.'s drift towards authoritarianism. This view is echoed by other commentators, who see the move as part of a broader pattern of democratic backsliding in Western states under pressure from the Israel-Palestine conflict.
   
-  Looking at historical context, newly declassified documents reveal that British complicity in mass violence is not unprecedented. As reported by **Ray McGovern**, files show that Harold Wilson’s Labour government secretly aided the Indonesian military during the mass killings of the mid-1960s, underscoring a pattern of Western governments supporting controversial foreign operations while suppressing domestic dissent.
+  In a related development, over 100 politicians, journalists, and campaigners have condemned the decision to block a press pass for Declassified UK. According to **Ray McGovern**, this is widely seen as a blatant attempt to suppress investigative journalism critical of the government’s Gaza policy. The incident has galvanized support for press freedom and is likely to intensify scrutiny of government-media relations in the coming weeks.
   
-  **Trends and Predictions:**  
-  The majority of analysts agree that the tightening of protest laws and increased surveillance of pro-Palestinian activism in Western countries is likely to continue in the near term. There is high confidence that these measures will provoke further public backlash and legal challenges, but most definitely, governments will prioritize maintaining their current foreign policy alignments over civil liberties. The revelations about historical and ongoing foreign policy decisions suggest that Western governments are willing to accept reputational risks to preserve strategic alliances, particularly with Israel. This trend is expected to persist, with a high chance of further erosion of protest rights and increased polarization within Western societies.
+  Looking ahead, the consensus among independent analysts is that Western governments will continue to face mounting domestic and international criticism over their handling of the Gaza crisis and related civil liberties issues. I guarantee that the controversy over U.S. involvement in Israeli military actions will remain a focal point, with high potential for diplomatic fallout. There is a high chance that the U.K.'s approach to dissent will provoke further protests and legal challenges, while efforts to curtail press freedom are quite likely to backfire, drawing broader attention to government accountability.
 articles:
+  - title: 'WATCH: All Eyes on Gaza'
+    url: https://consortiumnews.com/2025/10/21/watch-all-eyes-on-gaza/
+    text: As part of his Australia tour, Chris Hedges joined Antoinette Lattouf & Ahmed
+      Alabadla in Sydney to discuss the media, genocide and Western complicity. Chris
+      Hedges, Antoinette Lattouf, journalist who won a wrongful dismissal case against
+      the Australian Broadcasting Corporation… Read more →
+    one_sentence_summary: During his Australia tour, Chris Hedges participated in a
+      discussion in Sydney with Antoinette Lattouf and Ahmed Alabadla, focusing on the
+      media's role in genocide and the complicity of the West.
+    paragraph_summary: During his Australia tour, Chris Hedges participated in a discussion
+      in Sydney alongside journalist Antoinette Lattouf and Ahmed Alabadla, focusing
+      on critical themes such as media representation, genocide, and the complicity
+      of Western nations in these issues. Lattouf, known for her victory in a wrongful
+      dismissal case against the Australian Broadcasting Corporation, contributed her
+      insights to the conversation, emphasizing the role of media in shaping public
+      perception and accountability regarding global atrocities.
+    published: '2025-10-21T23:39:09+00:00'
+  - title: 'WATCH: All Eyes on Gaza'
+    url: https://consortiumnews.com/2025/10/21/watch-all-eyes-on-gaza/
+    text: As part of his Australia tour, Chris Hedges joined Antoinette Lattouf & Ahmed
+      Alabadla in Sydney to discuss the media, genocide and Western complicity. Chris
+      Hedges, Antoinette Lattouf, journalist who won a wrongful dismissal case against
+      the Australian Broadcasting Corporation… Read more →
+    one_sentence_summary: During his Australia tour, Chris Hedges participated in a
+      discussion in Sydney with Antoinette Lattouf and Ahmed Alabadla, focusing on the
+      media's role in genocide and the complicity of the West.
+    paragraph_summary: During his Australia tour, Chris Hedges participated in a discussion
+      in Sydney alongside journalist Antoinette Lattouf and Ahmed Alabadla, focusing
+      on critical themes such as media representation, genocide, and the complicity
+      of Western nations in these issues. Lattouf, known for her victory in a wrongful
+      dismissal case against the Australian Broadcasting Corporation, contributed her
+      insights to the conversation, emphasizing the role of media in shaping public
+      perception and accountability regarding global atrocities.
+    published: '2025-10-21T23:39:09+00:00'
+  - title: Did the US Participate in a Gaza Massacre?
+    url: https://consortiumnews.com/2025/10/21/did-us-participate-in-gaza-massacre/
+    text: The role last year of a U.S. Navy helicopter when Israeli forces killed hundreds
+      of Palestinians during a hostage rescue operation is questioned by Abdullah Farooq
+      and Griffin Mahon. By Abdullah Farooq and Griffin Mahon Declassified UK On June
+      8,… Read more →
+    one_sentence_summary: The article examines the controversial involvement of a U.S.
+      Navy helicopter in an Israeli operation that resulted in the deaths of hundreds
+      of Palestinians, raising questions about its role in the incident.
+    paragraph_summary: The article by Abdullah Farooq and Griffin Mahon discusses the
+      controversial involvement of a U.S. Navy helicopter during an Israeli operation
+      that resulted in the deaths of hundreds of Palestinians while attempting to rescue
+      hostages. The authors raise questions about the implications and accountability
+      of U.S. military support in such operations, highlighting the complexities and
+      moral dilemmas surrounding foreign military assistance in conflict situations.
+    published: '2025-10-21T22:00:02+00:00'
+  - title: Did the US Participate in a Gaza Massacre?
+    url: https://consortiumnews.com/2025/10/21/did-us-participate-in-gaza-massacre/
+    text: The role last year of a U.S. Navy helicopter when Israeli forces killed hundreds
+      of Palestinians during a hostage rescue operation is questioned by Abdullah Farooq
+      and Griffin Mahon. By Abdullah Farooq and Griffin Mahon Declassified UK On June
+      8,… Read more →
+    one_sentence_summary: The article examines the controversial involvement of a U.S.
+      Navy helicopter in an Israeli operation that resulted in the deaths of hundreds
+      of Palestinians, raising questions about its role in the incident.
+    paragraph_summary: The article by Abdullah Farooq and Griffin Mahon discusses the
+      controversial involvement of a U.S. Navy helicopter during an Israeli operation
+      that resulted in the deaths of hundreds of Palestinians while attempting to rescue
+      hostages. The authors raise questions about the implications and accountability
+      of U.S. military support in such operations, highlighting the complexities and
+      moral dilemmas surrounding foreign military assistance in conflict situations.
+    published: '2025-10-21T22:00:02+00:00'
+  - title: 'Craig Murray: 36-Minute Trials & No Jury'
+    url: https://consortiumnews.com/2025/10/21/craig-murray-36-minute-trials-no-jury/
+    text: Watching 2,000 upstanding citizens, most of them elderly and many infirm,
+      hustled through this mass-injustice process will be a defining moment in the U.K.’s
+      headlong slide into fascism. By Craig Murray CraigMurray.org.uk Those charged
+      with terrorism for supporting Palestine Action… Read more →
+    one_sentence_summary: The article by Craig Murray highlights the troubling spectacle
+      of 2,000 citizens, primarily elderly and infirm, being processed in a mass injustice
+      system for supporting Palestine Action, which he views as indicative of the U.K.'s
+      alarming shift towards fascism.
+    paragraph_summary: The article by Craig Murray highlights the troubling situation
+      in the U.K., where around 2,000 individuals, primarily elderly and many with health
+      issues, are facing charges related to terrorism for their support of Palestine
+      Action. Murray argues that this mass prosecution represents a significant moment
+      in the country’s alarming shift towards authoritarianism, suggesting that such
+      actions against citizens advocating for a cause reflect a broader trend of injustice
+      and repression.
+    published: '2025-10-21T18:00:56+00:00'
+  - title: 'Craig Murray: 36-Minute Trials & No Jury'
+    url: https://consortiumnews.com/2025/10/21/craig-murray-36-minute-trials-no-jury/
+    text: Watching 2,000 upstanding citizens, most of them elderly and many infirm,
+      hustled through this mass-injustice process will be a defining moment in the U.K.’s
+      headlong slide into fascism. By Craig Murray CraigMurray.org.uk Those charged
+      with terrorism for supporting Palestine Action… Read more →
+    one_sentence_summary: The article by Craig Murray highlights the troubling spectacle
+      of 2,000 citizens, primarily elderly and infirm, being processed in a mass injustice
+      system for supporting Palestine Action, which he views as indicative of the U.K.'s
+      alarming shift towards fascism.
+    paragraph_summary: The article by Craig Murray highlights the troubling situation
+      in the U.K., where around 2,000 individuals, primarily elderly and many with health
+      issues, are facing charges related to terrorism for their support of Palestine
+      Action. Murray argues that this mass prosecution represents a significant moment
+      in the country’s alarming shift towards authoritarianism, suggesting that such
+      actions against citizens advocating for a cause reflect a broader trend of injustice
+      and repression.
+    published: '2025-10-21T18:00:56+00:00'
+  - title: Media & MPs Condemn Westminster Attack on Press Freedom
+    url: https://consortiumnews.com/2025/10/21/westminster-attack-on-press-freedom-condemned-by-journalists-mps/
+    text: The campaign comes after officials blocked Declassified UK from holding a
+      press pass, citing its Gaza “standpoint.” By Martin Williams Declassified UK More
+      than 100 politicians, journalists and campaigners have condemned a “flagrant and
+      partisan attempt to suppress investigative journalism”… Read more →
+    one_sentence_summary: Over 100 politicians, journalists, and campaigners have criticized
+      the blocking of a press pass for Declassified UK, labeling it a blatant effort
+      to suppress investigative journalism due to the outlet's stance on Gaza.
+    paragraph_summary: A coalition of over 100 politicians, journalists, and campaigners
+      has denounced the blocking of Declassified UK from obtaining a press pass, which
+      officials justified by referencing the outlet's perspective on Gaza. This action
+      has been criticized as a blatant and biased effort to stifle investigative journalism,
+      highlighting concerns over press freedom and the importance of diverse viewpoints
+      in reporting.
+    published: '2025-10-21T16:00:11+00:00'
+  - title: Media & MPs Condemn Westminster Attack on Press Freedom
+    url: https://consortiumnews.com/2025/10/21/westminster-attack-on-press-freedom-condemned-by-journalists-mps/
+    text: The campaign comes after officials blocked Declassified UK from holding a
+      press pass, citing its Gaza “standpoint.” By Martin Williams Declassified UK More
+      than 100 politicians, journalists and campaigners have condemned a “flagrant and
+      partisan attempt to suppress investigative journalism”… Read more →
+    one_sentence_summary: Over 100 politicians, journalists, and campaigners have criticized
+      the blocking of a press pass for Declassified UK, labeling it a blatant effort
+      to suppress investigative journalism due to the outlet's stance on Gaza.
+    paragraph_summary: A coalition of over 100 politicians, journalists, and campaigners
+      has denounced the blocking of Declassified UK from obtaining a press pass, which
+      officials justified by referencing the outlet's perspective on Gaza. This action
+      has been criticized as a blatant and biased effort to stifle investigative journalism,
+      highlighting concerns over press freedom and the importance of diverse viewpoints
+      in reporting.
+    published: '2025-10-21T16:00:11+00:00'
+  - title: 'PATRICK LAWRENCE: Desperation Row'
+    url: https://consortiumnews.com/2025/10/20/patrick-lawrence-desperation-row/
+    text: Reflecting Volodymyr Zelensky’s confidence that the Trumpster would oblige
+      him, he, Zelensky, actually visited Raytheon, the Tomahawk’s maker, before his
+      session at the White House. By Patrick Lawrence Special to Consortium News What
+      a big game Volodymyr Zelensky talked before his… Read more →
+    one_sentence_summary: Volodymyr Zelensky visited Raytheon, the maker of Tomahawk
+      missiles, before meeting with Trump, showcasing his confidence in securing military
+      support.
+    paragraph_summary: The article discusses Ukrainian President Volodymyr Zelensky's
+      confidence in securing military support from the Trump administration, highlighted
+      by his visit to Raytheon, the manufacturer of Tomahawk missiles, prior to his
+      meeting at the White House. The author, Patrick Lawrence, suggests that Zelensky's
+      actions reflect a strategic approach to garner U.S. assistance amid ongoing tensions
+      in Ukraine.
+    published: '2025-10-20T21:42:20+00:00'
+  - title: 'PATRICK LAWRENCE: Desperation Row'
+    url: https://consortiumnews.com/2025/10/20/patrick-lawrence-desperation-row/
+    text: Reflecting Volodymyr Zelensky’s confidence that the Trumpster would oblige
+      him, he, Zelensky, actually visited Raytheon, the Tomahawk’s maker, before his
+      session at the White House. By Patrick Lawrence Special to Consortium News What
+      a big game Volodymyr Zelensky talked before his… Read more →
+    one_sentence_summary: Volodymyr Zelensky visited Raytheon, the maker of Tomahawk
+      missiles, before meeting with Trump, showcasing his confidence in securing military
+      support.
+    paragraph_summary: The article discusses Ukrainian President Volodymyr Zelensky's
+      confidence in securing military support from the Trump administration, highlighted
+      by his visit to Raytheon, the manufacturer of Tomahawk missiles, prior to his
+      meeting at the White House. The author, Patrick Lawrence, suggests that Zelensky's
+      actions reflect a strategic approach to garner U.S. assistance amid ongoing tensions
+      in Ukraine.
+    published: '2025-10-20T21:42:20+00:00'
+  - title: 'Chris Hedges: The Speech a Press Club Banned'
+    url: https://consortiumnews.com/2025/10/20/chris-hedges-the-speech-a-press-club-banned/
+    text: The National Press Club of Australia in Canberra canceled an engagement with
+      journalist Chris Hedges after it was announced on its website. Hedges delivered
+      the banned speech on Monday in Sydney. This is the speech Chris Hedges was to
+      have… Read more →
+    one_sentence_summary: The National Press Club of Australia canceled an event with
+      journalist Chris Hedges, who subsequently delivered his speech in Sydney despite
+      the cancellation.
+    paragraph_summary: The National Press Club of Australia in Canberra canceled an
+      event featuring journalist Chris Hedges shortly after it was announced on their
+      website. Despite the cancellation, Hedges went ahead and delivered the speech
+      in Sydney on Monday. The article discusses the implications of this cancellation
+      and the content of Hedges' speech.
+    published: '2025-10-20T18:23:31+00:00'
+  - title: 'Chris Hedges: The Speech a Press Club Banned'
+    url: https://consortiumnews.com/2025/10/20/chris-hedges-the-speech-a-press-club-banned/
+    text: The National Press Club of Australia in Canberra canceled an engagement with
+      journalist Chris Hedges after it was announced on its website. Hedges delivered
+      the banned speech on Monday in Sydney. This is the speech Chris Hedges was to
+      have… Read more →
+    one_sentence_summary: The National Press Club of Australia canceled an event with
+      journalist Chris Hedges, who subsequently delivered his speech in Sydney despite
+      the cancellation.
+    paragraph_summary: The National Press Club of Australia in Canberra canceled an
+      event featuring journalist Chris Hedges shortly after it was announced on their
+      website. Despite the cancellation, Hedges went ahead and delivered the speech
+      in Sydney on Monday. The article discusses the implications of this cancellation
+      and the content of Hedges' speech.
+    published: '2025-10-20T18:23:31+00:00'
+  - title: Israel Defies Ceasefire With Heavy Wave of Airstrikes Across Gaza
+    url: https://consortiumnews.com/2025/10/20/israel-launches-wave-of-heavy-airstrikes-across-gaza-killing-at-least-45/
+    text: Dave DeCamp reports on the deadliest day of Israeli attacks in the Strip since
+      the ceasefire went into effect on Oct. 10. It occurred after an Israeli bulldozer
+      struck an unexploded bomb. It was misrepresented as a Hamas attack. By… Read more
+      →
+    one_sentence_summary: Dave DeCamp reports that the deadliest day of Israeli attacks
+      in the Gaza Strip since the ceasefire began on October 10 was triggered by an
+      Israeli bulldozer hitting an unexploded bomb, which was inaccurately portrayed
+      as a Hamas attack.
+    paragraph_summary: Dave DeCamp reports that the deadliest day of Israeli attacks
+      in Gaza since the ceasefire began on October 10 was triggered by an incident where
+      an Israeli bulldozer hit an unexploded bomb, which was incorrectly reported as
+      a Hamas attack. This misrepresentation led to a significant escalation in violence,
+      resulting in numerous casualties.
+    published: '2025-10-20T16:15:20+00:00'
+  - title: Israel Defies Ceasefire With Heavy Wave of Airstrikes Across Gaza
+    url: https://consortiumnews.com/2025/10/20/israel-launches-wave-of-heavy-airstrikes-across-gaza-killing-at-least-45/
+    text: Dave DeCamp reports on the deadliest day of Israeli attacks in the Strip since
+      the ceasefire went into effect on Oct. 10. It occurred after an Israeli bulldozer
+      struck an unexploded bomb. It was misrepresented as a Hamas attack. By… Read more
+      →
+    one_sentence_summary: Dave DeCamp reports that the deadliest day of Israeli attacks
+      in the Gaza Strip since the ceasefire began on October 10 was triggered by an
+      Israeli bulldozer hitting an unexploded bomb, which was inaccurately portrayed
+      as a Hamas attack.
+    paragraph_summary: Dave DeCamp reports that the deadliest day of Israeli attacks
+      in Gaza since the ceasefire began on October 10 was triggered by an incident where
+      an Israeli bulldozer hit an unexploded bomb, which was incorrectly reported as
+      a Hamas attack. This misrepresentation led to a significant escalation in violence,
+      resulting in numerous casualties.
+    published: '2025-10-20T16:15:20+00:00'
+  - title: 'AS’AD AbuKHALIL: A Return to the Balfour Declaration'
+    url: https://consortiumnews.com/2025/10/20/asad-abukhalil-a-return-to-the-balfour-declaration/
+    text: Donald Trump’s twenty-point plan offers nothing political for the Palestinians.
+      It creates a joint U.S.-Israel occupation.  By As`ad AbuKhalil Special to Consortium
+      News The highly touted picture of “Middle East peace” is quite deceptive. Nobody
+      in the region truly believes that… Read more →
+    one_sentence_summary: Donald Trump's twenty-point plan for the Middle East fails
+      to address Palestinian political needs and effectively establishes a joint U.S.-Israel
+      occupation, misleadingly presenting itself as a pathway to peace.
+    paragraph_summary: Donald Trump's twenty-point plan for Middle East peace is criticized
+      for lacking any political solutions for the Palestinians and instead promoting
+      a joint U.S.-Israel occupation. As'ad AbuKhalil argues that the portrayal of the
+      plan as a pathway to peace is misleading, as it fails to address the realities
+      on the ground and is not taken seriously by those in the region. The article highlights
+      the skepticism surrounding the plan and its implications for the ongoing Israeli-Palestinian
+      conflict.
+    published: '2025-10-20T09:44:28+00:00'
+  - title: 'AS’AD AbuKHALIL: A Return to the Balfour Declaration'
+    url: https://consortiumnews.com/2025/10/20/asad-abukhalil-a-return-to-the-balfour-declaration/
+    text: Donald Trump’s twenty-point plan offers nothing political for the Palestinians.
+      It creates a joint U.S.-Israel occupation.  By As`ad AbuKhalil Special to Consortium
+      News The highly touted picture of “Middle East peace” is quite deceptive. Nobody
+      in the region truly believes that… Read more →
+    one_sentence_summary: Donald Trump's twenty-point plan for the Middle East fails
+      to address Palestinian political needs and effectively establishes a joint U.S.-Israel
+      occupation, misleadingly presenting itself as a pathway to peace.
+    paragraph_summary: Donald Trump's twenty-point plan for Middle East peace is criticized
+      for lacking any political solutions for the Palestinians and instead promoting
+      a joint U.S.-Israel occupation. As'ad AbuKhalil argues that the portrayal of the
+      plan as a pathway to peace is misleading, as it fails to address the realities
+      on the ground and is not taken seriously by those in the region. The article highlights
+      the skepticism surrounding the plan and its implications for the ongoing Israeli-Palestinian
+      conflict.
+    published: '2025-10-20T09:44:28+00:00'
+  - title: Chris Hedges — 2025 Edward Said Lecture, ‘Requiem for Gaza’
+    url: https://consortiumnews.com/2025/10/18/watch-chris-hedges-2025-edward-said-lecture/
+    text: Journalist Chris Hedges delivers the 2025 Edward Said Memorial Lecture, “Requiem
+      for Gaza” in Adelaide, Australia. Chris Hedges gives the second talk of his 2025
+      Australian tour, the Edward SaidMemorial Lecture, at the University of South Australia
+      in Adelaide on… Read more →
+    one_sentence_summary: Journalist Chris Hedges presents the "Requiem for Gaza" lecture
+      in Adelaide, Australia, as part of his 2025 Australian tour honoring Edward Said.
+    paragraph_summary: Journalist Chris Hedges presented the 2025 Edward Said Memorial
+      Lecture titled "Requiem for Gaza" in Adelaide, Australia, as part of his Australian
+      tour. During the lecture at the University of South Australia, Hedges addressed
+      the ongoing humanitarian crisis in Gaza, reflecting on the broader implications
+      of the conflict and advocating for awareness and action regarding the plight of
+      its people.
+    published: '2025-10-19T00:51:16+00:00'
+  - title: Chris Hedges — 2025 Edward Said Lecture, ‘Requiem for Gaza’
+    url: https://consortiumnews.com/2025/10/18/watch-chris-hedges-2025-edward-said-lecture/
+    text: Journalist Chris Hedges delivers the 2025 Edward Said Memorial Lecture, “Requiem
+      for Gaza” in Adelaide, Australia. Chris Hedges gives the second talk of his 2025
+      Australian tour, the Edward SaidMemorial Lecture, at the University of South Australia
+      in Adelaide on… Read more →
+    one_sentence_summary: Journalist Chris Hedges presents the "Requiem for Gaza" lecture
+      in Adelaide, Australia, as part of his 2025 Australian tour honoring Edward Said.
+    paragraph_summary: Journalist Chris Hedges presented the 2025 Edward Said Memorial
+      Lecture titled "Requiem for Gaza" in Adelaide, Australia, as part of his Australian
+      tour. During the lecture at the University of South Australia, Hedges addressed
+      the ongoing humanitarian crisis in Gaza, reflecting on the broader implications
+      of the conflict and advocating for awareness and action regarding the plight of
+      its people.
+    published: '2025-10-19T00:51:16+00:00'
+  - title: Trump Admits Complicity in Genocide
+    url: https://consortiumnews.com/2025/10/17/trump-admits-complicity-in-genocide/
+    text: 'In his speech to the Knesset, Trump told Netanyahu: “We make the best weapons
+      in the world, and we’ve got a lot of them. And we’ve given a lot to Israel … [And]
+      you used them well,” writes Marjorie Cohn. By Marjorie… Read more →'
+    one_sentence_summary: In his Knesset speech, Trump praised Israel's use of American
+      weapons, emphasizing their quality and the substantial support the U.S. has provided.
+    paragraph_summary: In her article, Marjorie Cohn highlights a speech by Donald Trump
+      to the Knesset, where he praised Israeli Prime Minister Netanyahu and emphasized
+      the strength of U.S. weaponry, stating that the U.S. produces the best weapons
+      and has provided significant military support to Israel, which he claimed has
+      been effectively utilized.
+    published: '2025-10-17T22:50:05+00:00'
+  - title: Trump Admits Complicity in Genocide
+    url: https://consortiumnews.com/2025/10/17/trump-admits-complicity-in-genocide/
+    text: 'In his speech to the Knesset, Trump told Netanyahu: “We make the best weapons
+      in the world, and we’ve got a lot of them. And we’ve given a lot to Israel … [And]
+      you used them well,” writes Marjorie Cohn. By Marjorie… Read more →'
+    one_sentence_summary: In his Knesset speech, Trump praised Israel's use of American
+      weapons, emphasizing their quality and the substantial support the U.S. has provided.
+    paragraph_summary: In her article, Marjorie Cohn highlights a speech by Donald Trump
+      to the Knesset, where he praised Israeli Prime Minister Netanyahu and emphasized
+      the strength of U.S. weaponry, stating that the U.S. produces the best weapons
+      and has provided significant military support to Israel, which he claimed has
+      been effectively utilized.
+    published: '2025-10-17T22:50:05+00:00'
+  - title: Trump’s Military Occupation of America
+    url: https://consortiumnews.com/2025/10/17/trumps-military-occupation-of-america/
+    text: Nick Turse covers the U.S. president’s push in the direction of a genuine
+      police state as he deploys armed forces in U.S. cities and proclaims he is waging
+      a “war from within.” By Nick Turse TomDispatch.com Earlier this month, President
+      Donald… Read more →
+    one_sentence_summary: Nick Turse critiques President Trump's actions to establish
+      a police state by deploying armed forces in U.S. cities and declaring a "war from
+      within."
+    paragraph_summary: In his article, Nick Turse critiques President Donald Trump's
+      actions that suggest a move towards establishing a police state in the U.S., highlighting
+      the deployment of armed forces in cities and the president's declaration of a
+      "war from within." Turse expresses concern over the implications of such measures
+      for civil liberties and the potential for increased militarization of domestic
+      law enforcement, framing these developments as a significant shift in the relationship
+      between the government and its citizens.
+    published: '2025-10-17T18:00:16+00:00'
+  - title: Trump’s Military Occupation of America
+    url: https://consortiumnews.com/2025/10/17/trumps-military-occupation-of-america/
+    text: Nick Turse covers the U.S. president’s push in the direction of a genuine
+      police state as he deploys armed forces in U.S. cities and proclaims he is waging
+      a “war from within.” By Nick Turse TomDispatch.com Earlier this month, President
+      Donald… Read more →
+    one_sentence_summary: Nick Turse critiques President Trump's actions to establish
+      a police state by deploying armed forces in U.S. cities and declaring a "war from
+      within."
+    paragraph_summary: In his article, Nick Turse critiques President Donald Trump's
+      actions that suggest a move towards establishing a police state in the U.S., highlighting
+      the deployment of armed forces in cities and the president's declaration of a
+      "war from within." Turse expresses concern over the implications of such measures
+      for civil liberties and the potential for increased militarization of domestic
+      law enforcement, framing these developments as a significant shift in the relationship
+      between the government and its citizens.
+    published: '2025-10-17T18:00:16+00:00'
+  - title: John Bolton & Abuses of the Espionage Act
+    url: https://consortiumnews.com/2025/10/17/john-bolton-abuses-of-the-espionage-act/
+    text: Chip Gibbons says the Trump administration should not be using the Espionage
+      Act against Bolton, who himself used the overly broad, archaic law as a tool for
+      political persecution.  By Chip Gibbons Defending Rights & Dissent  John Bolton
+      is an… Read more →
+    one_sentence_summary: Chip Gibbons argues that the Trump administration's use of
+      the Espionage Act against John Bolton is inappropriate, given that Bolton has
+      previously exploited this outdated law for political purposes.
+    paragraph_summary: Chip Gibbons argues that the Trump administration's use of the
+      Espionage Act against John Bolton is inappropriate, especially considering that
+      Bolton has previously wielded this outdated and overly broad law for political
+      purposes. Gibbons emphasizes that employing such a tool for persecution undermines
+      civil liberties and calls for a reevaluation of its application in political contexts.
+    published: '2025-10-17T16:09:13+00:00'
+  - title: John Bolton & Abuses of the Espionage Act
+    url: https://consortiumnews.com/2025/10/17/john-bolton-abuses-of-the-espionage-act/
+    text: Chip Gibbons says the Trump administration should not be using the Espionage
+      Act against Bolton, who himself used the overly broad, archaic law as a tool for
+      political persecution.  By Chip Gibbons Defending Rights & Dissent  John Bolton
+      is an… Read more →
+    one_sentence_summary: Chip Gibbons argues that the Trump administration's use of
+      the Espionage Act against John Bolton is inappropriate, given that Bolton has
+      previously exploited this outdated law for political purposes.
+    paragraph_summary: Chip Gibbons argues that the Trump administration's use of the
+      Espionage Act against John Bolton is inappropriate, especially considering that
+      Bolton has previously wielded this outdated and overly broad law for political
+      purposes. Gibbons emphasizes that employing such a tool for persecution undermines
+      civil liberties and calls for a reevaluation of its application in political contexts.
+    published: '2025-10-17T16:09:13+00:00'
+  - title: US Supreme Court May Grant Trump Unbridled Authority
+    url: https://consortiumnews.com/2025/10/16/us-supreme-court-may-grant-trump-unbridled-authority/
+    text: Marjorie Cohn previews some of the cases the U.S. high court will use to establish
+      the limits of executive power. By Marjorie Cohn Truthout The Supreme Court’s new
+      term, which began last week, presents the court with a monumental opportunity
+      to… Read more →
+    one_sentence_summary: Marjorie Cohn discusses the significant cases the U.S. Supreme
+      Court will address this term to define the boundaries of executive power.
+    paragraph_summary: Marjorie Cohn discusses the significant cases that the U.S. Supreme
+      Court will address in its new term, focusing on how these cases will define the
+      boundaries of executive power. The court's decisions could have far-reaching implications
+      for the balance of power within the government, as it evaluates the extent of
+      authority held by the executive branch. Cohn emphasizes the importance of these
+      upcoming rulings in shaping the future of executive actions and accountability.
+    published: '2025-10-16T22:00:56+00:00'
+  - title: US Supreme Court May Grant Trump Unbridled Authority
+    url: https://consortiumnews.com/2025/10/16/us-supreme-court-may-grant-trump-unbridled-authority/
+    text: Marjorie Cohn previews some of the cases the U.S. high court will use to establish
+      the limits of executive power. By Marjorie Cohn Truthout The Supreme Court’s new
+      term, which began last week, presents the court with a monumental opportunity
+      to… Read more →
+    one_sentence_summary: Marjorie Cohn discusses the significant cases the U.S. Supreme
+      Court will address this term to define the boundaries of executive power.
+    paragraph_summary: Marjorie Cohn discusses the significant cases that the U.S. Supreme
+      Court will address in its new term, focusing on how these cases will define the
+      boundaries of executive power. The court's decisions could have far-reaching implications
+      for the balance of power within the government, as it evaluates the extent of
+      authority held by the executive branch. Cohn emphasizes the importance of these
+      upcoming rulings in shaping the future of executive actions and accountability.
+    published: '2025-10-16T22:00:56+00:00'
+  - title: 'Israel: A Huge Airbase With a Small Country Attached'
+    url: https://consortiumnews.com/2025/10/16/israel-a-huge-airbase-with-a-small-country-attached/
+    text: What we’re now seeing is Israel’s version of air-power colonialism, writes
+      Juan Cole. By Juan Cole TomDispatch.com Donald Trump’s and Benjamin Netanyahu’s
+      nomination of former British Prime Minister Tony Blair, his hands already crimson
+      with the blood of innocent Iraqis, to… Read more →
+    one_sentence_summary: Juan Cole argues that Israel's military actions represent
+      a form of "air-power colonialism," highlighting the troubling implications of
+      political alliances, particularly the nomination of Tony Blair, who has a controversial
+      legacy in Iraq.
+    paragraph_summary: In his article, Juan Cole critiques the collaboration between
+      Donald Trump and Benjamin Netanyahu in nominating Tony Blair, highlighting Blair's
+      controversial legacy tied to the Iraq War and its consequences for innocent civilians.
+      Cole argues that this partnership exemplifies what he terms "air-power colonialism"
+      practiced by Israel, suggesting that it reflects a broader pattern of military
+      intervention and dominance in the region. The piece underscores the moral implications
+      of such alliances and the ongoing impact of past decisions on current geopolitical
+      dynamics.
+    published: '2025-10-16T18:00:57+00:00'
+  - title: 'Israel: A Huge Airbase With a Small Country Attached'
+    url: https://consortiumnews.com/2025/10/16/israel-a-huge-airbase-with-a-small-country-attached/
+    text: What we’re now seeing is Israel’s version of air-power colonialism, writes
+      Juan Cole. By Juan Cole TomDispatch.com Donald Trump’s and Benjamin Netanyahu’s
+      nomination of former British Prime Minister Tony Blair, his hands already crimson
+      with the blood of innocent Iraqis, to… Read more →
+    one_sentence_summary: Juan Cole argues that Israel's military actions represent
+      a form of "air-power colonialism," highlighting the troubling implications of
+      political alliances, particularly the nomination of Tony Blair, who has a controversial
+      legacy in Iraq.
+    paragraph_summary: In his article, Juan Cole critiques the collaboration between
+      Donald Trump and Benjamin Netanyahu in nominating Tony Blair, highlighting Blair's
+      controversial legacy tied to the Iraq War and its consequences for innocent civilians.
+      Cole argues that this partnership exemplifies what he terms "air-power colonialism"
+      practiced by Israel, suggesting that it reflects a broader pattern of military
+      intervention and dominance in the region. The piece underscores the moral implications
+      of such alliances and the ongoing impact of past decisions on current geopolitical
+      dynamics.
+    published: '2025-10-16T18:00:57+00:00'
+  - title: 'WATCH: Flotilla Activists Speak Out'
+    url: https://consortiumnews.com/2025/10/16/watch-flotilla-activists-speak-out/
+    text: 'Greta Thunberg reveals her mistreatment and Flotilla members , kidnapped
+      on the high seas by Israel as 40 boats carrying aid attempted to break the blockade,
+      spoke at a rally in Sydney, Australia. CN was there. Camera: Amanda King &… Read
+      more →'
+    one_sentence_summary: Greta Thunberg and members of a flotilla, who were kidnapped
+      by Israel while trying to deliver aid, spoke at a rally in Sydney, Australia,
+      highlighting their mistreatment.
+    paragraph_summary: Greta Thunberg spoke out about her mistreatment and the experiences
+      of Flotilla members who were kidnapped by Israel while attempting to deliver aid
+      via 40 boats breaking a blockade. This rally took place in Sydney, Australia,
+      where attendees gathered to hear their stories and advocate for humanitarian efforts.
+    published: '2025-10-16T16:00:37+00:00'
+  - title: 'WATCH: Flotilla Activists Speak Out'
+    url: https://consortiumnews.com/2025/10/16/watch-flotilla-activists-speak-out/
+    text: 'Greta Thunberg reveals her mistreatment and Flotilla members , kidnapped
+      on the high seas by Israel as 40 boats carrying aid attempted to break the blockade,
+      spoke at a rally in Sydney, Australia. CN was there. Camera: Amanda King &… Read
+      more →'
+    one_sentence_summary: Greta Thunberg and members of a flotilla, who were kidnapped
+      by Israel while trying to deliver aid, spoke at a rally in Sydney, Australia,
+      highlighting their mistreatment.
+    paragraph_summary: Greta Thunberg spoke out about her mistreatment and the experiences
+      of Flotilla members who were kidnapped by Israel while attempting to deliver aid
+      via 40 boats breaking a blockade. This rally took place in Sydney, Australia,
+      where attendees gathered to hear their stories and advocate for humanitarian efforts.
+    published: '2025-10-16T16:00:37+00:00'
+  - title: 'Craig Murray: A Warning from Lebanon'
+    url: https://consortiumnews.com/2025/10/15/craig-murray-a-warning-from-lebanon/
+    text: We know from Lebanon that in Gaza, the Israelis will break any agreement and
+      the American “guarantors” will support their continued violence as “counter-terrorism.”
+      By Craig Murray CraigMurray.org.uk In not quite one year since the ceasefire deal
+      in Lebanon, Israel… Read more →
+    one_sentence_summary: The article argues that Israel will violate agreements in
+      Gaza, with American support framing their actions as "counter-terrorism," drawing
+      parallels to past events in Lebanon.
+    paragraph_summary: In his article, Craig Murray argues that Israel has a history
+      of violating agreements, as evidenced by the situation in Gaza, and suggests that
+      American support for Israel's actions is framed as "counter-terrorism." He reflects
+      on the recent ceasefire in Lebanon, implying that similar patterns of violence
+      and disregard for agreements are likely to persist in Gaza, with the U.S. continuing
+      to back Israel's military actions.
+    published: '2025-10-15T18:00:46+00:00'
+  - title: 'Craig Murray: A Warning from Lebanon'
+    url: https://consortiumnews.com/2025/10/15/craig-murray-a-warning-from-lebanon/
+    text: We know from Lebanon that in Gaza, the Israelis will break any agreement and
+      the American “guarantors” will support their continued violence as “counter-terrorism.”
+      By Craig Murray CraigMurray.org.uk In not quite one year since the ceasefire deal
+      in Lebanon, Israel… Read more →
+    one_sentence_summary: The article argues that Israel will violate agreements in
+      Gaza, with American support framing their actions as "counter-terrorism," drawing
+      parallels to past events in Lebanon.
+    paragraph_summary: In his article, Craig Murray argues that Israel has a history
+      of violating agreements, as evidenced by the situation in Gaza, and suggests that
+      American support for Israel's actions is framed as "counter-terrorism." He reflects
+      on the recent ceasefire in Lebanon, implying that similar patterns of violence
+      and disregard for agreements are likely to persist in Gaza, with the U.S. continuing
+      to back Israel's military actions.
+    published: '2025-10-15T18:00:46+00:00'
+  - title: Israel Keeps Killing During Gaza ‘Ceasefire’
+    url: https://consortiumnews.com/2025/10/15/israel-keeps-killing-during-gaza-ceasefire/
+    text: Hamas is urging international mediators to help enforce the ceasefire agreement,
+      warning that Israel’s continued violations risked blowing up the tenuous truce.
+      By Brett Wilkins Common Dreams Israeli occupation forces have killed numerous
+      Palestinian civilians in Gaza in an apparent violation… Read more →
+    one_sentence_summary: Hamas is calling on international mediators to enforce the
+      ceasefire agreement, citing Israel's ongoing violations that threaten to destabilize
+      the fragile truce.
+    paragraph_summary: Hamas is calling on international mediators to assist in enforcing
+      a ceasefire agreement, expressing concerns that ongoing violations by Israel could
+      jeopardize the fragile truce. The group highlights that Israeli occupation forces
+      have killed several Palestinian civilians in Gaza, which they view as a clear
+      breach of the ceasefire terms.
+    published: '2025-10-15T15:49:36+00:00'
+  - title: Israel Keeps Killing During Gaza ‘Ceasefire’
+    url: https://consortiumnews.com/2025/10/15/israel-keeps-killing-during-gaza-ceasefire/
+    text: Hamas is urging international mediators to help enforce the ceasefire agreement,
+      warning that Israel’s continued violations risked blowing up the tenuous truce.
+      By Brett Wilkins Common Dreams Israeli occupation forces have killed numerous
+      Palestinian civilians in Gaza in an apparent violation… Read more →
+    one_sentence_summary: Hamas is calling on international mediators to enforce the
+      ceasefire agreement, citing Israel's ongoing violations that threaten to destabilize
+      the fragile truce.
+    paragraph_summary: Hamas is calling on international mediators to assist in enforcing
+      a ceasefire agreement, expressing concerns that ongoing violations by Israel could
+      jeopardize the fragile truce. The group highlights that Israeli occupation forces
+      have killed several Palestinian civilians in Gaza, which they view as a clear
+      breach of the ceasefire terms.
+    published: '2025-10-15T15:49:36+00:00'
   - title: 'Jonathan Cook: Freedoms We Took for Granted in Britain'
     url: https://consortiumnews.com/2025/10/15/jonathan-cook-freedoms-we-took-for-granted-in-britain/
     text: Now that we have proved to be too defiant and rebellious, Keir Starmer’s government

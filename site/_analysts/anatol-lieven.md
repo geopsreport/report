@@ -8,18 +8,180 @@ websites:
   - https://responsiblestatecraft.org/author/alieven/
   - https://quincyinst.org/author/anatol-lieven/
 summary: |
-  As of October 15, 2025, Europe’s geopolitical landscape remains shaped by the ongoing fallout from the Russia-Ukraine war, persistent internal instability across Western capitals, and the complex aspirations of countries like Georgia seeking closer ties with the European Union.
+  The ongoing conflict in Ukraine, the evolving U.S. and European strategies, and the broader implications for regional security remain at the forefront of geopolitical analysis. Recent developments signal a cautious recalibration of Western policy, particularly from the United States under President Trump, and highlight persistent instability within Europe.
   
-  The latest developments center on Georgia’s EU accession bid, which has gained renewed urgency in the wake of the Russian invasion of Ukraine. As **Anatol Lieven** notes, President Kavelashvili’s government frames EU membership as a means to “strengthen Georgia, not to weaken it,” emphasizing the country’s historical resilience and national identity. However, there are clear tensions between Georgian expectations and the EU’s requirements, especially given Georgia’s internal political divisions and the West’s concerns over creeping Russian influence. The legacy of the Ukraine war looms large, with both Brussels and Tbilisi wary of provoking Moscow while seeking deeper integration.
+  The most notable shift comes from President Trump’s administration, which, according to **Anatol Lieven**, has moved away from confrontational rhetoric and towards a more measured approach regarding Ukraine. Lieven argues that accusations of Trump bullying President Zelensky are distractions from the substantive issue: how the U.S. and NATO should manage support for Ukraine without escalating tensions with Russia. The emphasis is now on diplomatic engagement and restraint, with the Trump administration advocating for a negotiated settlement rather than open-ended military backing. This approach, Lieven notes, is intended to avoid direct confrontation with Russia while still seeking a resolution to the conflict.
   
-  Meanwhile, Western Europe continues to face significant political and economic headwinds. France, in particular, is mired in a “severe political and economic crisis,” as described by **Anatol Lieven**, with a stagnant economy, high public debt, and a fragmented parliament. This instability is mirrored in Britain, where the new National Security Strategy is criticized as “a disorganized collection of conflicting goals and unrealistic assumptions,” largely shaped by U.S. priorities but disconnected from Britain’s actual resources. These internal crises cast doubt on Europe’s ability to sustain robust support for Ukraine or to project power in the face of Russian provocations.
+  Meanwhile, the European response remains hampered by internal divisions and resource constraints. France’s political crisis and Britain’s disjointed national security strategy, as detailed by **Lieven**, undermine the credibility and effectiveness of European military commitments. The recent European summit in Paris, aimed at forming a "reassurance force" for Ukraine, was overshadowed by domestic turmoil and skepticism about the feasibility of such deployments. Lieven underscores that Britain’s new security strategy is "a disorganized collection of conflicting goals and unrealistic assumptions," reflecting a broader pattern of overpromising and underdelivering across Western Europe.
   
-  On the security front, recent Russian drone incursions into Polish airspace have underscored both the vulnerabilities of European defenses and the need for restraint. **Anatol Lieven** argues these are “likely a provocative warning rather than an attack,” and cautions against overreaction that could escalate tensions with Moscow. The consensus among analysts is that while such incidents highlight the risks of miscalculation, they do not signal imminent large-scale conflict.
+  On the eastern periphery, Georgia’s aspirations for EU membership are complicated by both internal dynamics and the shadow of the Ukraine war. President Kavelashvili’s government seeks closer ties with the EU to bolster national resilience, but, as Lieven notes, there are "contrasting expectations" between Tbilisi and Brussels. The ongoing conflict in Ukraine has heightened sensitivities around Russian influence and Western support, making Georgia’s path to accession increasingly fraught.
   
-  Looking ahead, the prevailing trend is one of uncertainty and fragility. The majority view is that, absent a comprehensive U.S.-brokered peace settlement, the Ukraine conflict will persist in a costly stalemate. European governments, distracted by domestic turmoil, are unlikely to significantly increase their support for Ukraine or take bold steps against Russia. Regarding Georgia, there is a high chance that its EU accession process will remain slow and contentious, with both internal and external pressures shaping the outcome.
-  
-  In summary, the European security order remains in flux, with domestic instability and unresolved conflicts constraining the West’s ability to respond decisively to Russian challenges. As **Anatol Lieven** concludes, “there is a high chance” that these trends will continue into the near future, barring a major diplomatic breakthrough.
+  Looking ahead, the prevailing trend is toward cautious diplomacy and managed risk. There is a high chance that the Trump administration will continue to prioritize negotiation over escalation in Ukraine, seeking a settlement that addresses both Russian and Ukrainian concerns. European instability is likely to persist, limiting the continent’s ability to act as a unified security actor. As for Georgia, its EU ambitions will remain entangled with the broader East-West standoff, with progress dependent on both internal reforms and the trajectory of the Ukraine conflict. Most definitely, absent a major shift in U.S. or Russian policy, the status quo of uneasy stalemate and incremental diplomacy will continue to define the region’s geopolitical landscape.
 articles:
+  - title: Finally, Trump takes a sensible turn on Ukraine
+    url: https://responsiblestatecraft.org/trump-ukraine-zelensky-2674216108/
+    text: 'Claims that President Trump bullied President Zelensky and urged him to withdraw
+      from the whole of the Donbas at their latest meeting in Washington will doubtless
+      cause the usual furore in the Western media and commentariat, but they cannot
+      be substantiated and are a distraction from the really important issue concerning
+      U.S. and NATO strategy, which is whether the alliance should continue support
+      to Ukraine at existing levels or seek radically to escalate.
+
+
+      Here, President Trump made the right decision by pulling back from his previous
+      suggestion that the U.S. might provide Tomahawk cruise missiles to Ukraine — presumably
+      as a result of his recent telephone discussion with President Putin.
+
+
+      On the one hand the very limited number of land-based Tomahawks that the U.S.
+      could provide would not seriously change the balance of forces between Ukraine
+      and Russia — as Putin doubtless warned Trump. But in political terms the missiles
+      would be seen in Russia as a huge escalation . They would be able to strike Moscow
+      and far deeper into Russia, and they would need the direct assistance of the U.S.
+      military both to set them up and to guide them onto their targets.
+
+
+      President Trump will hopefully exercise the same prudence and responsibility in
+      his approach to two other wildly dangerous suggestions coming out of Europe: to
+      shoot down Russian warplanes that violate NATO airspace, and to seize Russian
+      cargoes on the high seas if they enter the ports or territorial waters of NATO
+      countries. It is highly unlikely that European countries would take such steps
+      without guarantees of U.S. backing. These suggestions should be categorically
+      denied.
+
+
+      As I was told repeatedly during a visit to Russia this month, if NATO countries
+      took either of these steps, Putin would have no choice but to order immediate
+      military retaliation. NATO aircraft would be shot down. The Russian Navy would
+      attempt to convoy Russian trade, and if intercepted, would fight. If the Scandinavians
+      and Baltic States took such action in the Baltic — as they threatened to do in
+      the summer — this would be seen as a blockade of St. Petersburg and Kaliningrad
+      and therefore as an act of war.
+
+
+      At this point, a full-scale Russia-NATO conflict, possibly leading to nuclear
+      exchanges, would take a huge leap closer.
+
+
+      Apart from being hideously dangerous, no such actions on the part of NATO are
+      necessary. Of course, if Russian planes dropped bombs or fired missiles at NATO
+      territory they must be shot down; but so far nothing of the sort has happened.
+      And above all, thanks to the tremendous advantages that contemporary military
+      technology gives to the defense, the Ukrainian front is holding extremely well.
+      The Russian army is advancing, but very slowly. Thus fighting for the small town
+      of Pokrovsk in Donetsk province has now been going on for almost 15 months with
+      no Russian breakthrough.
+
+
+      Nor is there any sign of the appearance of new weaponry (like the tank and the
+      bomber aircraft in the First World War) that could allow Russia quickly to break
+      the stalemate.
+
+
+      At this rate, and if existing levels of Western support continue, then even if
+      Russia can eventually conquer the remaining 30 percent of Donetsk province held
+      by Ukraine, or if Trump can somehow pressure Ukraine into withdrawing from this
+      territory as part of a peace settlement, much greater Russian conquests will remain
+      out of sight, and Russia will have no chance to bring about a collapse the Ukrainian
+      state.
+
+
+      As to the idea of a deliberately planned and successful Russian invasion of NATO
+      itself, this is such self-evident rubbish that Western military “experts” should
+      be ashamed to peddle it. By the same token however, the idea of Ukraine reconquering
+      its lost territory from Russia has also long since been revealed to be hopeless.
+
+
+      At present therefore Ukrainian independence is secure, and will remain so even
+      if a few towns in Donetsk fall to Russia. The real danger is rather that if the
+      war continues indefinitely, domestic political change in Europe will lead to the
+      evaporation of willingness to go on supporting Ukraine, leading to a collapse
+      of Ukraine’s capacity to continue the war. Political developments in France, Germany
+      and Britain make this possibility obvious.
+
+
+      However, this development would take years to come to fruition; and in the meantime,
+      the Russian economy is also suffering, with inflation beginning to eat into living
+      standards and efforts to control inflation hurting businesses. It seems likely
+      therefore that if Russia can eventually take the whole of the Donbas, then Putin
+      would be willing to stop if Russian concerns in the wider areas of U.S.-Russian
+      relations and European security were addressed.
+
+
+      In the meantime however, the result of growing Russian military frustration has
+      been to increase demands by hardliners to bring the war to a victorious end by
+      some act of radical escalation that would terrify the West into imposing Russian
+      terms on Ukraine.
+
+
+      They seem however to have no clear idea of what this escalation should consist
+      of; and so far Putin has consistently rejected a strategy that would be both immensely
+      dangerous and would offer no sure prospect of success. This nationalist pressure
+      means that it would be even more difficult for Putin to avoid military retaliation
+      if the escalation came from the Western side.
+
+
+      This danger is increased by the truly grotesque nature of much of the present
+      security debate in Europe — though “debate” is a truly misleading term for a scene
+      that more closely resembles a hen-house spooked by a (possibly imaginary) fox.
+      Three Russian planes that deviated for 12 minutes by a maximum of five miles from
+      their legal corridor over the Gulf of Finland have been turned by parts of the
+      Western media and commentariat into a massive campaign of violations of NATO airspace.
+
+
+      Meanwhile, some unarmed drones over Poland have generated a spate of reported
+      sightings of alleged (but so far wholly unproven) Russian drones from Norway to
+      Italy, quite possibly by the same people who in peaceful times report UFOs. Some
+      fires (without casualties), many of them with no proven links to Russia at all,
+      have been turned into a supposedly massive Russian campaign of hybrid warfare.
+
+
+      As so often, this hysteria comes served with a giant helping of hypocrisy. In
+      this “reporting” and “analysis” there is rarely the slightest mention of the fact
+      that by far the greatest act of sabotage in Europe since the start of the war
+      — the destruction of the Nord Stream 2 pipeline — was directed against Russia,
+      and that the only actions that have caused deaths have been mines planted on ships
+      with Russian cargoes in the Mediterranean.
+
+
+      Instead of engaging in this kind of frenzy, responsible European establishments
+      that truly had the interests of Ukraine at heart would be helping the Trump administration
+      to craft a detailed peace proposal that would freeze the existing borders of NATO
+      and the Russian-dominated Collective Security Treaty Organization (CSTO) and place
+      limits on NATO forces on Russia’s borders and Russian forces in Belarus in return
+      for Russia moderating its demands on Ukraine.
+
+
+      They should also be developing a compromise solution to control over the western
+      Donbas involving neutralization under U.N. control. This might not work at present
+      if Putin is really determined to take the whole of the Donbas, but at least we
+      would have a viable proposal ready if the situation on the ground does shift somewhat
+      in Russia’s favor.
+
+
+      And in the meantime, we should all keep calm. The fox is nowhere near our hen
+      coop yet, and nothing is to be gained by running around squawking.'
+    one_sentence_summary: The article argues that claims of President Trump bullying
+      President Zelensky are unfounded distractions from the critical issue of U.S.
+      and NATO strategy regarding support for Ukraine, advocating for a cautious approach
+      to avoid escalating tensions with Russia while emphasizing the need for a diplomatic
+      resolution to the conflict.
+    paragraph_summary: The article discusses claims that President Trump pressured Ukrainian
+      President Zelensky to withdraw from the Donbas region during their recent meeting,
+      labeling these claims as unsubstantiated distractions from the critical issue
+      of U.S. and NATO strategy regarding support for Ukraine. It commends Trump for
+      retracting his suggestion to supply Tomahawk missiles to Ukraine, arguing that
+      while such missiles would not significantly alter the military balance, they would
+      be perceived as a major escalation by Russia. The article warns against dangerous
+      proposals from Europe, such as shooting down Russian planes or seizing Russian
+      cargo, which could provoke military retaliation from Russia and escalate into
+      a broader conflict. It asserts that, despite the slow Russian advance in Ukraine,
+      Ukrainian independence remains secure for now, although future political changes
+      in Europe could threaten ongoing support for Ukraine. The author advocates for
+      a diplomatic approach to peace negotiations, suggesting a compromise that could
+      stabilize the situation without further escalation, while criticizing the current
+      media hysteria surrounding alleged Russian violations of NATO airspace.
+    published: '2025-10-21T04:05:04+00:00'
   - title: '''We aim to join the EU to strengthen Georgia, not to weaken it'''
     url: https://responsiblestatecraft.org/georgia-kavelashvili/
     text: 'The European Union expects Georgia to change radically to accommodate the
