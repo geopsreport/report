@@ -9,20 +9,1365 @@ websites:
   - https://www.counterpunch.org/author/rwolff0998/
   - https://www.laprogressive.com/author/richard-d-wolff
 summary: |
-  As global economic and political power continues its eastward shift, the latest analyses highlight mounting contradictions within Western capitalism and the intensifying struggle over the future direction of both economic policy and democracy. The persistent decline of U.S. and European influence is now mirrored in both economic data and political outcomes, while alternative models and social movements gain traction.
+  As the U.S. approaches the 2026 mid-term elections, domestic and international tensions continue to shape the geopolitical landscape. The ongoing conflict in Gaza, the rise of authoritarianism at home, and persistent economic inequality remain central concerns, with new developments highlighting the interconnectedness of these issues.
   
-  **Military Keynesianism and Economic Contradictions**  
-  Recent developments underscore the enduring reliance of the U.S. and, increasingly, Europe on military Keynesianism to stimulate their economies. **Richard D. Wolff** notes that this approach, first adopted in response to the Great Depression, persists as a means to mask the systemic vulnerabilities of capitalism. However, he warns that such policies not only provoke external conflicts but also fuel internal social unrest, as public resources are diverted away from social needs. The contradiction, Wolff argues, is becoming more acute as economic inequality deepens and the legitimacy of the system erodes.
+  The situation in Gaza remains volatile, with **Richard D. Wolff** noting the continued use of landmines and the humanitarian crisis exacerbated by recent military actions. The U.S. political establishment, particularly the Democratic Party, faces criticism for its ambiguous stance on peace and its failure to address the root causes of the conflict. The majority of analysts agree that without significant policy shifts, the violence is likely to persist. "The broader context of violence and resistance in the region cannot be separated from U.S. foreign policy decisions," observes **Wolff**, underscoring the high chance that the status quo will continue through the election cycle.
   
-  **Deindustrialization and the Global Shift of Capital**  
-  A new wave of deindustrialization is evident as Western capital continues to relocate production in pursuit of higher profits. According to **Wolff**, this trend has hollowed out the U.S. middle class and fostered a growing sense of betrayal among workers. The resultant economic insecurity is not only fueling domestic discontent but also exacerbating political polarization, as seen in the rise of right-wing populism and the fragmentation of traditional party loyalties.
+  Domestically, the rise of fascism and the erosion of democratic norms are increasingly evident. **Wolff** highlights the impact of figures like Trump on American democracy, with ongoing debates about criminal justice reform and the politicization of the judiciary. The deployment of National Guard troops and aggressive immigration enforcement signal a hardening stance against vulnerable communities. There is a high chance these trends will intensify as political actors seek to mobilize their bases ahead of the elections.
   
-  **Democracy, Worker Power, and Social Movements**  
-  Against this backdrop, there is a growing movement advocating for systemic change through workplace democracy and new forms of socialism. **Wolff** emphasizes that the lack of democratic practices within capitalist enterprises remains a core issue, undermining both economic and political democracy. He points to the increasing popularity of worker cooperatives and calls for a transition toward worker self-directed enterprises as a means to address social inequality and restore genuine democratic participation.
+  Economic inequality and labor unrest are also at the forefront. The labor movement in California, led by figures such as Kent Wong, is adapting to new threats from the gig economy and neofascist currents. **Wolff** emphasizes the need for unions to modernize and confront exploitation, warning that "the broader implications of capitalism on society demand systemic change." Most analysts predict that unless significant reforms are enacted, economic disparities will deepen, fueling further social unrest.
   
-  **Trends and Predictions**  
-  Looking ahead, the majority of analysts agree that the decline of Western economic and political dominance is set to continue, with the BRICS nations and China poised for further growth. **Wolff** asserts with high confidence that the contradictions of military Keynesianism and the global shift of capital will deepen social and political instability in the West. He also predicts a high likelihood that movements for workplace democracy and systemic reform will gain momentum, challenging the existing order and shaping the next phase of global economic development.
+  Looking ahead, the convergence of foreign policy failures, domestic authoritarianism, and economic inequality points to a period of heightened instability. There is high confidence that these issues will dominate the political discourse through 2026, with little likelihood of resolution absent a major shift in leadership or policy direction.
 articles:
+  - title: War and Peace
+    url: https://www.laprogressive.com/war-and-peace
+    text: 'War and Peace - LA Progressive Skip to main content Topics Animal Rights
+      Climate Change Economic Equality Education Reform Elections and Campaigns Foreign
+      Policy Africa Asia Europe Latin America The Middle East Healthcare Food Policy
+      Pandemic Senior Community Immigration Reform Labor Law and the Justice System
+      LBGTQ+ Progressive Issues Video Racism The Media War and Peace Veterans Events
+      ACLU People Power Subscribe Podcast YouTube Channel GLOSSARY Site Map About Contact
+      Us Authors Privacy Policy Privacy Settings October 27, 2025 Topics Authors Linktr.ee
+      Subscribe Podcast YouTube Channel GLOSSARY Topics Authors Linktr.ee Subscribe
+      Podcast YouTube Channel GLOSSARY War and Peace Home War and Peace Veterans With
+      Better "Alpha Energy”: Can a Squad of Progressive Vets Storm Capitol Hill in 2026?
+      Fortunately, heading into the 2026 mid-term elections, there are some military
+      veterans, from working class backgrounds, trying to challenge big money in politics
+      by ousting some of its most devoted servants. By Steve Early and Suzanne Gordon
+      Oct 26, 2025 Why Have Democrats Let Republicans Become the “Peace” Party? Trump’s
+      successful diplomatic efforts have put the lie to the idea that there was nothing
+      Biden and the Democrats could have done to end the massacre in Gaza, seriously
+      undermining any claim that Democrats might make as the party of peace. By Sam
+      Rosenthal Oct 18, 2025 NATO’s Nuclear Attack Threats Continue in Europe NATO’s
+      nuclear attack threats are on parade and its leaders talk as if they are rational.
+      “Deterrence suspended rational thinking in the Nuclear Age.” By John LaForge Oct
+      16, 2025 Terror from the Skies in the Middle East Tel Aviv is now shaping governments
+      of the Middle East simply by wiping their officials off the face of the earth
+      or credibly threatening to do so. By Juan Cole Oct 14, 2025 A Real Peace Plan
+      for the Palestinian People A real peace plan must eliminate the colonial scaffolding.
+      It should restore Palestinian sovereignty by addressing the central issue: Palestinian
+      statehood. By Jeffrey Sachs and Sybil Fares Oct 6, 2025 Veterans Protest Trump’s
+      Union Busting Impact at VA The massive layoffs currently underway at the VA that
+      will see some 30,000 workers lose their jobs have already affected the department
+      in every area of operations including VHA By Phil Pasquini Oct 1, 2025 Antiwar
+      Veterans in the Age of Trump It’s little wonder that many vets keep their feelings
+      about their long years in service within a close circle of friends and other veterans.
+      By William Hartung Sep 30, 2025 Can Vets in California Rely on Private Medical
+      Care? The veterans and VA caregivers protesting weekly outside VA facilities insist
+      that that staff and funding cuts will lead to delays and even the denial of needed
+      care to veterans. By Suzanne Gordon Sep 29, 2025 Children Shouldn’t Be Casualties:
+      Gaza, Israel, and the Cruel Logic of Occupation From Gaza’s devastated neighborhoods
+      to grieving Israeli families, the truth is undeniable: all children’s lives matter,
+      yet policies of war and occupation continue to treat Palestinian lives as expendable.
+      By David A. Love Sep 28, 2025 VA Privatization: False Promises Thanks to Congress,
+      accessing health care will now be more difficult for rural veterans By Suzanne
+      Gordon and Steve Early Sep 25, 2025 The Pentagon Never Needed a License to Kill
+      If there is any hope of salvaging this country’s (not to speak of this planet’s)
+      future, then this history has to be faced, and we must recover — or perhaps discover
+      — our moral bearings. By Eric Ross Sep 18, 2025 Netanyahu Buried Peace in Gaza’s
+      Mass Graves Israel under Netanyahu never misses an opportunity to miss an opportunity.
+      The prime minister is choosing annihilation of Gaza over a UN-brokered peace plan.
+      By H. Scott Prosterman Sep 17, 2025 More War, More Misery It’s existed and continues
+      to exist as a war state in a state of constant war (or preparations for the same),
+      now stuffed to the popping point with more than a trillion dollars yearly in taxpayer
+      funds. By William J. Astore Sep 16, 2025 It Feels Like 1968 There are a lot of
+      disaffected young American people, and we have a President who, like LBJ, foments
+      a lot of hatred. By Ted Vaill Sep 13, 2025 A Barbarous Name for a Department of
+      Barbarous Acts Admitting what the Pentagon is and stamping that barbarous title
+      over its front door allows the development of a significant anti-war contingent
+      in the US. By David Swanson Sep 10, 2025 Trump, Drugs, War If the US attacks,
+      you can expect that Trump will justify it as a counter-terrorism operation when
+      in fact it will be designed to bring about regime change By Mel Gurtov Sep 7,
+      2025 Research Key to Fighting Militarism and Repression Activists pushing universities
+      to divest from companies profiting from Israel’s war in Gaza have made connections
+      with the earlier generation of researchers. By William Hartung Sep 2, 2025 A Nobel
+      Peace Prize for Trump? Inconceivable If Trump really were interested in peacemaking,
+      he would strengthen the State Department’s diplomatic initiatives rather than
+      cutting its staff and budget. By Mel Gurtov Sep 2, 2025 From Guernica to Gaza
+      The increasing American reliance on air power rather than combat troops has shifted
+      the concept of what it means to be “at war.” By Norman Solomon Aug 28, 2025 Remembering
+      Hiroshima and Nagasaki When I first visited Japan twenty-five years ago, I had
+      hoped to understand myself better, and to explore the negative feelings I carried
+      about being Japanese American. By Arlene Inouye Aug 21, 2025 On Seeing the Future
+      Too Clearly Today, there’s a consensus in this country that the Vietnam War was
+      more than a mistake; it was a decade-long exercise in overreach and overkill.
+      By Rebecca Gordon Aug 19, 2025 As Putin and Trump Choose Between Peace and Escalation
+      So Trump went to Alaska with a weak hand, but one that will get weaker still if
+      the war goes on. By Medea Benjamin and Nicolas Davies Aug 16, 2025 How Military
+      Keynesianism Works How capitalism generates war and civil conflict. By Richard
+      Wolff Aug 15, 2025 Violence Does Not Work Violent individuals or systems will
+      never deliver peace. The only path forward is to accept, collectively and without
+      compromise, that violence does not work. By David Andersson Aug 13, 2025 Loading…
+      See More © 2025 Site Map About Contact Us Authors Privacy Policy Privacy Settings
+      CLOSE CLOSE'
+    one_sentence_summary: The article discusses various perspectives on war and peace,
+      highlighting the challenges faced by military veterans and the political landscape
+      as the 2026 mid-term elections approach, while critiquing the Democratic Party's
+      stance on peace in light of recent conflicts, particularly in Gaza.
+    paragraph_summary: The article from LA Progressive discusses various perspectives
+      on war and peace, particularly in the context of the upcoming 2026 mid-term elections
+      and ongoing geopolitical tensions. It highlights the efforts of military veterans
+      from working-class backgrounds aiming to challenge entrenched political interests,
+      critiques the Democratic Party's failure to position itself as a peace party in
+      light of recent conflicts, and addresses NATO's nuclear threats and the impact
+      of military actions in the Middle East. Additionally, it emphasizes the need for
+      a genuine peace plan for Palestinians, critiques the privatization of veteran
+      healthcare, and reflects on the broader implications of militarism in American
+      society. The piece underscores the urgency of addressing these issues to foster
+      a more peaceful future.
+    published: '2025-10-27T06:00:46.663645+00:00'
+  - title: Racism
+    url: https://www.laprogressive.com/racism
+    text: 'Racism - LA Progressive Skip to main content Topics Animal Rights Climate
+      Change Economic Equality Education Reform Elections and Campaigns Foreign Policy
+      Africa Asia Europe Latin America The Middle East Healthcare Food Policy Pandemic
+      Senior Community Immigration Reform Labor Law and the Justice System LBGTQ+ Progressive
+      Issues Video Racism The Media War and Peace Veterans Events ACLU People Power
+      Subscribe Podcast YouTube Channel GLOSSARY Site Map About Contact Us Authors Privacy
+      Policy Privacy Settings October 27, 2025 Topics Authors Linktr.ee Subscribe Podcast
+      YouTube Channel GLOSSARY Topics Authors Linktr.ee Subscribe Podcast YouTube Channel
+      GLOSSARY Racism Home Racism “Diverse” Does Not Mean “Not White” When “diversity”
+      and “ethnic” become code for “non-white,” they stop being tools for inclusion
+      and start serving the very hierarchies they claim to challenge. By Sharon Kyle
+      Oct 19, 2025 Uncovering the Past to Heal the Present: The Story Behind “A Binding
+      Truth” When a Black athlete and his white classmate discover that their families
+      are bound by slavery, their journey toward truth and reconciliation exposes how
+      America’s unfinished history still shapes who we are—and who we might yet become.
+      By Sharon Kyle Oct 18, 2025 What the Dangerous Extremism in Young Republicans
+      Portends If this is how the next generation of GOP leaders talks when they think
+      nobody is listening, then the “jokes” about gas chambers today are warnings about
+      the police state tomorrow. By Thom Hartmann Oct 17, 2025 What''s Trump''s Beef
+      with Black Women? We don’t scare easily. We don’t flatter him. We operate in truth
+      - kryptonite to someone thriving on illusion. By Julianne Malveaux Oct 17, 2025
+      Power in My Voice: Black Girls, Self-Worth and Suicide Prevention Although Black
+      youth across gender and sexuality are vulnerable to adultification, criminalization,
+      colorism, and hypersexualization, these stigmas are especially acute for Black
+      girls and young women. By Sikivu Hutchinson Oct 4, 2025 The Corrosive Ideology
+      of the Trump Administration This is the corrosive ideology of this administration.
+      Lie, suppress, or deny our nation’s history. And we have years more of this corrosive
+      form of government. By Julianne Malveaux Sep 28, 2025 Defending Black Federal
+      Employees in Trump''s Age of Blatant Hate This multiracial caucus unites rank-and-file
+      unionists across trades, is defending Black federal employees and mobilizing against
+      racism and government cutbacks. By Sarah Scott Sep 26, 2025 The First Amendment
+      as a Racist Weapon Freedom of speech for the political right has everything to
+      do with advancing racist and hateful ideology under the guise of the First Amendment.
+      By Rev. Graylan Scott Hagler Sep 26, 2025 The Long History of Black Community
+      Defense Against Vigilantism The formation of community patrols can serve as a
+      visible deterrent to extremists and excessive policing. By Roger House Sep 20,
+      2025 Working While Brown Now New Living While Black The Supreme Court’s decision
+      gives federal agents license to treat Latinos like second-class citizens, condoning
+      the same racial profiling Black Americans have long faced from police. By Erin
+      Aubry Kaplan Sep 20, 2025 American History Is Black History: We Will Not Be Erased
+      To remove the histories and experiences of Black people in the US is part of the
+      educational pogrom enacted to "whitewash" America''s real history. By Rev. Graylan
+      Scott Hagler Sep 19, 2025 Racism as America’s Keystone: Why White Supremacy Blocks
+      Democracy for Everyone From climate change and inequality to gun violence and
+      housing, every major U.S. crisis is bound together by one force—white supremacy.
+      Until racism is dismantled, democracy itself will remain fragile and incomplete.
+      By Sharon Kyle Sep 14, 2025 Target Boycott Hits the Bullseye The Black-led boycott
+      of Target seems to be working, even in L.A. neighborhoods that once yearned for
+      big-box stores. By Erin Aubry Kaplan Sep 11, 2025 MAGA at the NFL Roundtable:
+      The Scariest Huddle in America A Koch-funded, Trump-approved, Jones-managed NFL
+      doesn’t just influence Sundays. It influences how millions interpret patriotism,
+      protest, race, and power. By Desi Cortez Sep 10, 2025 Confederate Guard: Trump’s
+      Blueprint to Occupy the Blue Union City by City Swap muskets for press releases,
+      sabers for executive orders, and you’ve got the same old Lost Cause—now with Wi-Fi,
+      merch, and a loyalty program. By Desi Cortez Sep 2, 2025 Lisa Cook as ''Low-Hanging
+      Fruit'' - While Jerome Powell Is a Bridge Too Far Trump Targets Lisa Cook as ‘Low-Hanging
+      Fruit’ While Jerome Powell Remains Untouchable — What This Reveals About Race,
+      Power, and the Federal Reserve By Sharon Kyle Aug 31, 2025 The Trump Administration:
+      White Supremacy in Action Clemency for violent white insurrectionists, mass deportations
+      of non-criminal brown immigrants, arrests of Black officials, and a purge of diversity
+      programs show a two-tiered system of justice. By Sharon Kyle Aug 27, 2025 Federal
+      Government Attempts Coup Against Cities with Black Leadership In 2025 it’s the
+      federal government, not white locals, enacting the takeover. The imperative to
+      purge and seize control of a Black-controlled space is the same. By Erin Aubry
+      Kaplan Aug 27, 2025 How Black Police and Soldiers Have Resisted Federal Takeovers
+      of Their Communities Black law enforcement must not abandon their obligations
+      to the Constitution and the people. By Roger House Aug 23, 2025 Jillian Michaels
+      Got Slavery Wrong on CNN—Here’s the Truth About Who Profited Celebrity spin can’t
+      erase history: slavery wasn’t a “2% problem,” it was a national enterprise that
+      enriched banks, insurers, universities, and industries across America. By Sharon
+      Kyle Aug 22, 2025 Trump Spits on Martin Luther King Jr.''s Grave Trump has failed
+      to criticize in any fashion the MAGA supporters who have been on an anti-King
+      rampage in recent years. By Clarence Lusane Aug 17, 2025 When Trump Screams "Crime!"
+      We Know What He Means He means Black people. He''s made that abundantly clear
+      over the six racism-rich decades of his adult life. By Peter Laarman Aug 17, 2025
+      Black-Balled & White-Washed: The Two-Tone Economy of Swagger If the Browns actually
+      cave and bounce Sanders, the subtext couldn’t be louder: confidence + melanin
+      = unemployment risk. By Desi Cortez Aug 11, 2025 How Trump Sacrifices Infrastructure
+      to His Anti-DEI Obsession In his first term, Trump promised to build new roads,
+      bridges, airports and railways. This time he seems more invested in tearing things
+      down. By Erin Aubry Kaplan Aug 6, 2025 Loading… See More © 2025 Site Map About
+      Contact Us Authors Privacy Policy Privacy Settings CLOSE CLOSE'
+    one_sentence_summary: The article discusses how the concept of "diversity" can be
+      misused as a code for "non-white," ultimately undermining genuine inclusion and
+      perpetuating existing hierarchies.
+    paragraph_summary: The article from LA Progressive discusses various aspects of
+      racism and its pervasive impact on American society, highlighting how terms like
+      "diversity" can be co-opted to reinforce existing hierarchies rather than promote
+      true inclusion. It addresses the historical and ongoing struggles against racism,
+      including the experiences of Black individuals and communities, the rise of extremist
+      ideologies within political groups, and the systemic inequalities perpetuated
+      by government actions. The piece emphasizes that white supremacy is a central
+      issue that underlies many societal crises, suggesting that until racism is dismantled,
+      democracy will remain fragile. Additionally, it critiques the current political
+      climate, particularly under the Trump administration, for exacerbating racial
+      tensions and undermining the rights of marginalized groups.
+    published: '2025-10-27T06:00:34.053829+00:00'
+  - title: Progressive Issues
+    url: https://www.laprogressive.com/progressive-issues
+    text: 'Progressive Issues - LA Progressive Skip to main content Topics Animal Rights
+      Climate Change Economic Equality Education Reform Elections and Campaigns Foreign
+      Policy Africa Asia Europe Latin America The Middle East Healthcare Food Policy
+      Pandemic Senior Community Immigration Reform Labor Law and the Justice System
+      LBGTQ+ Progressive Issues Video Racism The Media War and Peace Veterans Events
+      ACLU People Power Subscribe Podcast YouTube Channel GLOSSARY Site Map About Contact
+      Us Authors Privacy Policy Privacy Settings October 27, 2025 Topics Authors Linktr.ee
+      Subscribe Podcast YouTube Channel GLOSSARY Topics Authors Linktr.ee Subscribe
+      Podcast YouTube Channel GLOSSARY Progressive Issues Home Progressive Issues Video
+      Trump Really a Fascist The right also aims to whitewash American history and culture
+      in classrooms and books by further marginalizing minorities, women, immigrants,
+      and LGBTQ people. By Berry Craig Oct 26, 2025 We Need More Political Atheists
+      The political atheists however call us to be cynical, remain alert, remain in
+      the streets, protest even when so-called "Good Kings" fill the so-called "Good
+      Structures" of democracy. By Rev. Graylan Scott Hagler Oct 24, 2025 Reflections
+      on #NoKings: Of Parades and Protests Parades don’t have to be the enemy of protest,
+      just as reform doesn’t have to be the enemy of revolution. By Melina Abdullah
+      Oct 24, 2025 No Kings Day: The Diversion Circus Israel’s time appears to be running
+      out. Plummeting global support, economic collapse, and diplomatic isolation threaten
+      its survival. By Marc Wutschke Oct 23, 2025 All the Glitters Is Not Gold: The
+      Underside of the No Kings Marches When we consider the views of the Democratic
+      Party’s leaders, we should hardly be surprised that the No Kings marches only
+      address domestic issues. By Victor Rothman Oct 23, 2025 Jules Feiffer Taught Us
+      to Fail Up I found Jules at 95 a beacon of hope. Amid the rising negativity and
+      growing passivity of our increasingly endangered world, he never gave up. By Robert
+      Lipsyte Oct 23, 2025 Trump’s Versailles on the Potomac As the great German playwright
+      Berthold Brecht wrote, in order to honestly talk about fascism you have to talk
+      about capitalism from which it springs. By Michael Steven Smith Oct 22, 2025 When
+      Families Thrive, America Thrives Why paid family leave and universal child care
+      can’t wait. By Kristina Miller Oct 21, 2025 The Left Coast Forum Is This Saturday
+      Where movement builders, truth-tellers, and justice-seekers converge to chart
+      a progressive path forward for 2025 and beyond. By Sharon Kyle Oct 20, 2025 Stephen
+      Miller and the Making of the Fascist Subject Miller’s presence and voice reveal
+      more than the death of conscience; they expose the swindle of a future already
+      in motion. By Henry A. Giroux Oct 20, 2025 No Kings: That Sort of Day It reminded
+      Joan and me of an earlier march, maybe the last really big anti-war march across
+      the bay in San Francisco in the spring of 1971, a march so mellow that the cops
+      were smiling. By Dan Embree Oct 20, 2025 Why Won''t Corporate Media Recognize
+      Trump-GOP Shutdown Plan Lying in Plain Sight? The power struggles that animate
+      this shutdown are meant to outlast it, leveraging legal ambiguities, executive
+      fiat, and congressional paralysis to redefine “essential” as that which survives
+      unchallenged. By Laura Flanders Oct 19, 2025 Rekindling Hope in Dark Times Surviving
+      our dark age will require more than “resistance” — we also need hope. We can start
+      by making real connections in our own communities. By Richard Sclove Oct 17, 2025
+      Kentucky''s GOP Braces for No Kings Day: “A Hit Dog Hollers” GOP bigwigs are so
+      wigged out over Saturday that they’re again summoning their inner Joe McCarthy
+      and trotting out the Big Lie, which is Republican stock-in-trade these days. By
+      Berry Craig Oct 16, 2025 Alternative Factology for Up and Coming Politicians Democrats
+      can become better practitioners of Alternative Factology or find an Alternative
+      Ology that is effective despite being limited to what is actually true. By Julien
+      Hennefeld Oct 16, 2025 Defending Ordinary Working People Against Trump and MAGA
+      The emerging movement-based opposition aims to halt and undo the harm that has
+      been done by Trump and MAGA, but it does not aim to return to the world as it
+      existed before Trump. By Jeremy Brecher Oct 14, 2025 Beauty Is Truth; Truth Beauty
+      Trump has gone Hitler one better. Rather than creating one Big Lie, he has turned
+      all of reality into a Big Lie. By W. D. Ehrhart Oct 14, 2025 Not Your Ordinary
+      Shutdown They are holding government operations hostage because they don''t want
+      to fund policies that help people. By Julianne Malveaux Oct 12, 2025 At Least
+      Trump Won the Ignobel Conflict Medal While peacebuilders broker ceasefires and
+      rebuild nations, Trump rolls in with a selfie stick, a grudge, and a fresh batch
+      of enemies to name-check. By Desi Cortez Oct 11, 2025 Those Yankee Boo Birds Jingoistic
+      mantras and jeering the national anthem of a country that is our good neighbor
+      and one of our best friends and strongest allies on earth is beyond boorish. By
+      Berry Craig Oct 10, 2025 Which Trump? Inconsistent Models Are Both True He might
+      just seize power and stay in office until he dies, but the fact is he is already
+      failing. He won’t be around long. By John Peeler Oct 8, 2025 Just How "War-Ravaged"
+      Is Portland? This is either a pattern of inept mistakes – which is unacceptable
+      in the leaders of this nation – or it’s a pattern of intentional deception which
+      is dangerous and wrong. By Rivera Sun Oct 8, 2025 Making Sense of a World with
+      a Maniac in the Driver''s Seat If a certain prevalent strain of MAGA masculinity
+      feeds on anger and hate — just look at “he who hates his political opponents”
+      (a.k.a. our president!) and his speech at Kirk’s funeral — it’s not an easy persona
+      to sustain. By Andrea Mazzarino Oct 8, 2025 Our Right to Read: Annual Banned Books
+      Week Celebrates the Right to Read Don’t allow those in power to whitewash our
+      history or cast historic civil rights struggles down the memory hole in pursuit
+      of their authoritarian agendas. By Mickey Huff and Cameron Samuels Oct 6, 2025
+      Loading… See More © 2025 Site Map About Contact Us Authors Privacy Policy Privacy
+      Settings CLOSE CLOSE'
+    one_sentence_summary: The article discusses various progressive issues, including
+      the rise of fascism, the importance of political activism, and the need for social
+      reforms, while highlighting the challenges posed by current political dynamics
+      and the impact of figures like Trump on American democracy.
+    paragraph_summary: The LA Progressive article discusses various progressive issues
+      and critiques surrounding contemporary political dynamics, particularly focusing
+      on the rise of authoritarianism and the manipulation of history and culture by
+      right-wing factions. It highlights the marginalization of minorities, women, immigrants,
+      and LGBTQ individuals, while emphasizing the need for political vigilance and
+      grassroots activism. The piece reflects on events like the "No Kings" marches,
+      critiques the Democratic Party's focus on domestic issues, and calls for a renewed
+      sense of hope and community engagement to counteract the negative impacts of the
+      Trump administration and the GOP. The authors advocate for a more inclusive and
+      equitable society, urging readers to resist complacency and actively participate
+      in shaping a progressive future.
+    published: '2025-10-27T06:00:22.581864+00:00'
+  - title: LBGTQ+
+    url: https://www.laprogressive.com/gay-rights-rankism
+    text: 'Gay Rights - LA Progressive Skip to main content Topics Animal Rights Climate
+      Change Economic Equality Education Reform Elections and Campaigns Foreign Policy
+      Africa Asia Europe Latin America The Middle East Healthcare Food Policy Pandemic
+      Senior Community Immigration Reform Labor Law and the Justice System LBGTQ+ Progressive
+      Issues Video Racism The Media War and Peace Veterans Events ACLU People Power
+      Subscribe Podcast YouTube Channel GLOSSARY Site Map About Contact Us Authors Privacy
+      Policy Privacy Settings October 27, 2025 Topics Authors Linktr.ee Subscribe Podcast
+      YouTube Channel GLOSSARY Topics Authors Linktr.ee Subscribe Podcast YouTube Channel
+      GLOSSARY Gay Rights Home Gay Rights SOGI Violent Hate Crimes Sexual Orientation
+      and Gender Identity (SOGI) can lead to violent hate crimes By Stephanie Williams
+      May 10, 2023 Anti-Trans Legislation Spreads Across the Country The rhetoric coming
+      out of spaces like CPAC reflects the growing movement centered around transgender
+      people and their needs By david "katya" ketchum Mar 16, 2023 Why Are Republicans
+      Betting the Farm on Attacking Transgender People? Sonali Kolhatkar: Transgender
+      people, like immigrants, voters of color, and those seeking abortions, are the
+      latest scapegoats that the GOP is counting on to fuel bigotry among its base.
+      By Sonali Kolhatkar Mar 23, 2023 Pope Paying Lip Service to LGBTQ Community? Sadly,
+      Francis''s statement is not a Hallelujah moment for many LGBTQ Catholics, but
+      rather it is celebrated with cautious optimism. By Rev. Irene Monroe Oct 27, 2020
+      Attacks on Marriage Equality and Gay Rights Coming? By Andrea Germanos Oct 6,
+      2020 Do Lose Friends over Politics Johnny Townsend: If we clamor for the end of
+      someone’s career because of a mistake they made, either today or fifteen years
+      in the past, we allow no room for growth, for apologies. By Johnny Townsend Jun
+      15, 2020 Celebrating Pride During Police Brutality Crisis Rev. Irene Monroe: as
+      Pride becomes more corporate, marginal groups within the LGBT+ movement have become
+      more invisible. By Rev. Irene Monroe Jun 12, 2020 A High-Five for Glenn Burke,
+      a Baseball Pioneer Peter Dreier: "They can''t ever say now that a gay man can''t
+      play in the majors, because I''m a gay man and I made it." By Peter Dreier Jun
+      5, 2020 L.A. Trans Women Turn Tables Dick Price & Sharon Kyle: video taken by
+      bystanders shows that the drunken couple was escorted out largely untouched, while
+      the three women and their coworkers were roughly tossed out By Dick and Sharon
+      Jun 4, 2020 Stop Reporting Queen Latifah''s Sexuality! Rev. Irene Monroe: A failure
+      to contextualize the different social and cultural spheres in which Latifah orbits
+      will always render a misread like the media has done, again. By Rev. Irene Monroe
+      Apr 25, 2020 Is There Any Better Time Than Now For a General Strike? Sonali Kolhatkar:
+      Workers deemed “essential” have been forced to work in order to keep their jobs
+      but offered little recompense or even protection from the virus. By Sonali Kolhatkar
+      Apr 18, 2020 The Radical Faeries at 40: Rainbow Capitalism or Queer Liberation?
+      Don Kilhefner: A different model for gay community organizing  was put forth that
+      included issues of identity, purpose, race, and class. By Don Kilhefner Jul 31,
+      2023 LGBTQ People Understand Authoritarian Movements Scott Nakagawa: Patriarchy is
+      an anti-democratic relationship of unjust power enforced by violence, both in
+      public and in private. By Scot Nakagawa Mar 24, 2020 New Year, New Gym: Is Your
+      Gym Trans-Inclusive? Aditi Fruitwala and Jacqueline Delgadillo: Some gyms permit
+      members to use the facilities that align with their gender identity, while other
+      gyms discriminate against transgender people by requiring members to use the facilities
+      of their “biological sex”, a paradigm that is both discriminatory and unworkable.
+      By Guest Author Jan 12, 2020 Stopping Homophobic Violence in Schools Gilda L.
+      Ochoa, Enrique C. Ochoa, Sebastián Ochoa-Kaup: Blatant bullying fuels a toxic
+      campus climate and contributes to gender violence in our schools and society.
+      By Guest Author Sep 16, 2019 Black LGBTQI Family Support and Advocacy Group Sikivu
+      Hutchinson: Many queer Black youth report that there are no visible role models,
+      curricula or cultural engagement that speaks to their lived experiences. By Sikivu
+      Hutchinson Jul 30, 2019 Bleaching Stonewall Rev. Irene Monroe: "The Stonewall
+      turbulence started on the backs of working-class African American and Latinx queers
+      who patronized the bar. Those brown and black LGBTQ people are not only absent
+      from the photos of that night, but they have been bleached from its written history."
+      By Rev. Irene Monroe Jun 13, 2019 L.A. Gay Pride Betrays Stonewall 50 Don Kilhefner:
+      Pride’s actions represent a betrayal of the gay liberation social and political
+      revolution and a slap in the face to the L.A. gay community. By Don Kilhefner
+      Jul 31, 2023 Trans Deaths Are Real Deaths Rev. Irene Monroe: For this 50th anniversary
+      of Stonewall I hope images of Marsha P. Johnson and Sylvia Rivera will be on display.
+      By Rev. Irene Monroe May 28, 2019 Morehouse Will Admit Trans Male Students Rev.
+      Irene Monroe: Morehouse, however, has come a long way on GBTQ issues, because
+      the college has had its share of GBTQ-phobic incidents. By Rev. Irene Monroe May
+      1, 2019 Loving a Church That Doesn’t Love Us Irene Mornoe: The UMC continues to
+      be contradictory in its policies concerning LGBTQ worshippers, and the church’s
+      contentious views reared their ugly head at the 2016 meeting of global delegates.
+      By Rev. Irene Monroe Mar 14, 2019 Jailed Transwoman Fought for Her Dignity Irene
+      Monroe: Jane Doe recalled an incident where “male guards forced her to stand,
+      cuffed and naked for 30 minutes, in front of the open door to her cell, exposing
+      her body to at least a dozen male prisoners who gawked and made crude sexual remarks
+      about her breasts.” By Rev. Irene Monroe Feb 2, 2019 LA Is the Home of the LGBT
+      Community – and Here’s Why With the LGBT community often seen as ‘other’ by certain
+      groups, activists and business owners in LA are helping to foster a more inclusive
+      culture in the mainstream. By Guest Author Jan 28, 2019 Supreme Court Upholds
+      Transgender Military Ban with a No “Blanket Ban” Irene Monroe: If Trump had his
+      way, he would militarily eradicate transgender people from existence. Tuesday,
+      Trump’s Supreme Court delivered his wish in supporting the exclusion of transgender
+      men and women. By Rev. Irene Monroe Jan 23, 2019 Loading… See More © 2025 Site
+      Map About Contact Us Authors Privacy Policy Privacy Settings CLOSE CLOSE'
+    one_sentence_summary: The article discusses various issues surrounding LGBTQ+ rights,
+      including the rise of anti-trans legislation, the scapegoating of transgender
+      individuals by political groups, and the ongoing challenges faced by the LGBTQ+
+      community in achieving equality and visibility.
+    paragraph_summary: The article from LA Progressive discusses various aspects of
+      the ongoing struggle for gay rights, particularly focusing on the challenges faced
+      by the LGBTQ+ community, including the rise of anti-trans legislation across the
+      United States. It highlights how transgender individuals have become scapegoats
+      in political rhetoric, particularly within the GOP, which seeks to rally its base
+      through bigotry. The piece also touches on the complexities of LGBTQ representation
+      within religious contexts, the commercialization of Pride events, and the historical
+      erasure of marginalized voices in the LGBTQ+ movement. Overall, it underscores
+      the need for continued advocacy and awareness to combat discrimination and violence
+      against LGBTQ+ individuals.
+    published: '2025-10-27T06:00:12.726019+00:00'
+  - title: Law and the Justice System
+    url: https://www.laprogressive.com/law-and-the-justice-system
+    text: 'Law and the Justice System - LA Progressive Skip to main content Topics Animal
+      Rights Climate Change Economic Equality Education Reform Elections and Campaigns
+      Foreign Policy Africa Asia Europe Latin America The Middle East Healthcare Food
+      Policy Pandemic Senior Community Immigration Reform Labor Law and the Justice
+      System LBGTQ+ Progressive Issues Video Racism The Media War and Peace Veterans
+      Events ACLU People Power Subscribe Podcast YouTube Channel GLOSSARY Site Map About
+      Contact Us Authors Privacy Policy Privacy Settings October 27, 2025 Topics Authors
+      Linktr.ee Subscribe Podcast YouTube Channel GLOSSARY Topics Authors Linktr.ee
+      Subscribe Podcast YouTube Channel GLOSSARY Law and the Justice System Home Law
+      and the Justice System Juvenile Offenders Law and the Justice System Videos Prison
+      Reform It’s Time to Free Dortell Williams California Governor Gavin Newsom has
+      issued hundreds of pardons and commutations for people serving excessively long
+      prison sentences. Why is Dortell Williams still locked up? By Sonali Kolhatkar
+      Oct 18, 2025 The War Within Trump''s threat to the rule of law in the United States
+      is not just profound but historically unprecedented. By Nick Turse Oct 16, 2025
+      Trump’s Indictment of James Comey Renews the Unfinished Business of the Mueller
+      Report It is ironic that Trump is attacking Comey with a highly politicized indictment,
+      considering Comey may have been Trump’s second greatest asset in 2016, after Russia.
+      By H. Scott Prosterman Oct 8, 2025 Working Americans Against Trump''s Police State
+      60% of Americans disapprove of Trump’s immigration policies. 5 million people
+      participated in the No Kings marches. Folks are fed up with Trump’s illegal edicts
+      By Sukey Wolf Sep 27, 2025 Bang Bang Shoot Shoot Other nations don’t have to live
+      with school shootings, with the random sacrifice of their children to some vaguely
+      postulated necessary link between guns and freedom, between guns and patriotism,
+      between guns and manhood. By Chuck Yates Sep 24, 2025 Criminalizing Dissent This
+      administration is committed to criminalizing dissent, and they have dozens of
+      elected lackeys following the instructions of their mob boss. By Julianne Malveaux
+      Sep 19, 2025 Charlie Kirk and the Repression to Come On its face that might not
+      be a problem if they were going after anybody promoting political violence, but
+      they’re not doing that. They’re after the “radical left” only. By John Peeler
+      Sep 16, 2025 Charley Kirk''s True Enemies There is an air of desperation in the
+      corporate-sponsored rightwing outrage against the Charley Kirk murder. By Tom
+      Hall Sep 15, 2025 Thinking Beyond the Bars How higher education helped me develop
+      confidence in myself and rediscover my humanity By Darrell Jackson Sep 14, 2025
+      Vidnoz: The Free AI Video Generator That Brings Your Ideas to Life At its core,
+      Vidnoz is designed to save time, boost creativity, and help people tell stories
+      in unique ways. By Tiqua Jackson Sep 12, 2025 How Conservative SCOTUS Gives Trump
+      a Law-Free Zone by Abusing Its Emergency Docket: Democracies Die in the Shadows
+      The Roberts Court’s growing dependence on unsigned, unexplained orders is emboldening
+      Trump and weakening public trust in the judiciary. By Stephen Rohde Sep 3, 2025
+      Mass Shootings Never Cease! While we used to worship God, Americans now worship
+      Guns. It wasn''t this way when we sought the "Good Society." By Warner Woodworth
+      Aug 30, 2025 “I Can Do Anything I Want!" Has Our Constitution Failed? Our constitution
+      of checks and balances has thus been checkmated. When we finally emerge from this
+      dark time, we shall have to do as they did in 1787: start over. By John Peeler
+      Aug 29, 2025 Saagar Enjeti Parrots Right Wing’s Wrong, Dangerous Crime Myths Crime
+      (both violent and all offenses) stands at 55-year lows, driven by huge drops among
+      youth – exactly the opposite of Saager’s panic mode. By Mike Males Aug 28, 2025
+      How Federal Policing of DC Has Made Us Less Safe DC is a dangerous place today,
+      and it is because of DC’s occupation by federal law enforcement and troops. By
+      Rev. Graylan Scott Hagler Aug 26, 2025 Brownshirts in the Streets...And Where
+      Are the Christians? I have friends who say it''s a mistake to call attention to
+      Trump. I reply: Would it have been a mistake for righteous Germans to call attention
+      to the rise of Hitler and Hitlerism? By Peter Laarman Aug 26, 2025 You Can’t Tell
+      the Cops from the Robbers Anymore When you enable those federal agents to go masked
+      and unidentified, you are deploying the undeniably “secret police” on the streets
+      of America. By Kary Love Aug 23, 2025 Trump''s D.C. Invasion Costs Over $1 Million
+      a Day: What Could That Fund Instead? Deploying the National Guard against D.C.’s
+      unhoused population costs four times more than simply housing them. And that’s
+      true across the country. By Hanna Homestead Aug 22, 2025 What Is a Constitutional
+      Crisis? If the president can alter the meaning of a Constitutional amendment just
+      by signing his name then he can alter any other part or simply declare that it’s
+      no longer in force. By Chuck Yates Aug 13, 2025 The Collapse of Judicial Neutrality
+      How Chief Justice Roberts Enabled Trump''s Authoritarian Agenda By Bill Blum Aug
+      4, 2025 Senate Encouraged to Block Emil Bove After Second DOJ Whistleblower Comes
+      Forward "What is it going to take for Senate Republicans to oppose this unfit
+      nominee? Every Republican senator who votes to confirm Bove will be complicit
+      in undermining the rule of law and judicial independence." By Jessica Corbett
+      Jul 27, 2025 LA Grand Juries Enrage Trump Official for Refusing to Indict Anti-ICE
+      Protesters "The agent lied and said he was in hot pursuit of a person who punched
+      him," explained one local defense attorney. "The entirety of the affidavit is
+      false." By Brad Reed Jul 24, 2025 The Obama Indictment Fantasy: MAGA’s White Redemption
+      Story They don’t just want revenge. They want a racial exorcism. They want a good
+      ol fashion lynching. No? By Desi Cortez Jul 21, 2025 From King John to Trump:
+      How the Supreme Court Revived Absolute Power in America How can a president “take
+      care that the Laws be faithfully executed” if he acts in violation of those laws?
+      By Tom Hall Jul 16, 2025 Loading… See More © 2025 Site Map About Contact Us Authors
+      Privacy Policy Privacy Settings CLOSE CLOSE'
+    one_sentence_summary: The article discusses various issues related to the law and
+      justice system in the U.S., highlighting concerns about the impact of Trump's
+      presidency on the rule of law, the politicization of judicial processes, and ongoing
+      debates about criminal justice reform and public safety.
+    paragraph_summary: The article from LA Progressive discusses various issues related
+      to the law and justice system, highlighting significant topics such as the ongoing
+      challenges of prison reform, the implications of former President Trump's actions
+      on the rule of law, and the broader societal impacts of gun violence and dissent
+      criminalization. It features commentary on Governor Gavin Newsom's pardons, the
+      politicization of legal actions against figures like James Comey, and public discontent
+      with Trump's immigration policies and federal law enforcement practices. The piece
+      emphasizes concerns over judicial independence, the erosion of constitutional
+      checks and balances, and the societal consequences of a perceived authoritarian
+      shift in governance, calling for a reevaluation of the current justice system
+      and its alignment with democratic principles.
+    published: '2025-10-27T06:00:05.855663+00:00'
+  - title: Labor
+    url: https://www.laprogressive.com/rankism/labor-social-justice
+    text: 'Labor - LA Progressive Skip to main content Topics Animal Rights Climate
+      Change Economic Equality Education Reform Elections and Campaigns Foreign Policy
+      Africa Asia Europe Latin America The Middle East Healthcare Food Policy Pandemic
+      Senior Community Immigration Reform Labor Law and the Justice System LBGTQ+ Progressive
+      Issues Video Racism The Media War and Peace Veterans Events ACLU People Power
+      Subscribe Podcast YouTube Channel GLOSSARY Site Map About Contact Us Authors Privacy
+      Policy Privacy Settings October 27, 2025 Topics Authors Linktr.ee Subscribe Podcast
+      YouTube Channel GLOSSARY Topics Authors Linktr.ee Subscribe Podcast YouTube Channel
+      GLOSSARY Labor Home Labor What the Loss of Kent Wong Means for the Future of Labor
+      and Immigrant Rights in California Former colleagues hope that the organizer and
+      activist’s outsized legacy can endure. By Mark Kreidler Oct 24, 2025 Disneyland
+      Workers Unite and Even Disney Must Listen It took a coordinated campaign that
+      is finally about to give Disneyland workers the money they’ve been deprived of
+      for years. A strength-in-numbers success story. By Mark Kreidler Sep 26, 2025
+      Labor Movement in Fight for Its Life Against Neofascist Threat For unions to survive,
+      they must adopt antifascism. By Bill Fletcher Jr. Sep 12, 2025 An Impossible Dream?
+      The Once & Future Labor Left As the Black civil rights movement gathered force
+      in the early 1960s, the UAW didn''t just talk the talk; it walked the walk. By
+      Peter Laarman Sep 9, 2025 Will California Crack Down on Predatory Labor Traffickers?
+      Lawmakers poised to expand protections to hundreds of thousands of temporary migrant
+      workers. By Larry Buhl Sep 6, 2025 Labor Day Solidarity Season Opens in DC Kicking
+      off Labor Day weekend the “Solidarity Season Rally and March” demonstrated the
+      importance of workers by reminding everyone that “Workers make DC run.” By Phil
+      Pasquini Sep 2, 2025 Trump Puts Workers Last In time for Labor Day, Trump had
+      a giant banner emblazoned with Trump’s face draped over the front of his anti-labor
+      Department of Labor.  “American Workers Last” is more like it. By Berry Craig
+      Aug 31, 2025 Blood, Sweat, Stitches How overconsumption pushes garment workers
+      to the brink. By Jayden Henry Aug 30, 2025 As Unions Shrink Nationwide, Why Not
+      in California? Organizing here is holding strong, showing what’s possible even
+      as Trump 2.0 makes the fight harder. By Mark Kreidler Aug 30, 2025 Trapped in
+      a Dead-End Job: Will Trump''s FTC Lend a Hand? I worked for the Federal Trade
+      Commission when we banned employers from trapping workers with “noncompete clauses.”
+      Now that victory is in danger. By Elizabeth Wilkins Aug 28, 2025 ‘Tired of Looking
+      Over My Shoulder’ What do nurses, Waffle House servers and Uber drivers have in
+      common? Violence on the job — and a movement to end it. By Tatiana Walk-Morris
+      Aug 28, 2025 Forest Service Cuts Leave Firefighters Mowing Lawns While Cratering
+      Morale Crews say layoffs and resignations have left them stuck with duties far
+      from the fire line. By Jeremy Lindenfeld Aug 26, 2025 Building the Movement in
+      Japan with Educators, Unions and the Community I was invited to Kobe for a historic
+      meeting between the two largest teacher unions in the country- Nikkokyo and Zenkyo
+      where they are determined to work together By Arlene Inouye Aug 26, 2025 Building
+      for a General Strike Workers have the power to shut down production and the profit
+      pipeline of the billionaire class; labor and community united can stop Trump’s
+      march toward war and fascism. By Linda Averill Jul 26, 2025 How Nations Are Built
+      on the Backs of Disenfranchised Children "Carter Dillard and Zahara Nabakooza:
+      True justice begins at birth, not in systems that mask inequality with the language
+      of freedom and hide civil erasure behind institutional power.  " By Carter Dillard
+      and Zaharah Nabakooza Jul 20, 2025 Thousands at Chicago Conference Vow to Fightback
+      As an activist in the anti-Vietnam war movement,  “About Face” organizer Arti
+      Walker really hit home to me and the intensely focused crowd. By Mark Friedman
+      Jul 10, 2025 Did L.A. Businesses Use Bait and Switch Tactics to Push a Petition?
+      Hospitality unions claim a ballot-measure proposal blocking Olympics wage hikes
+      rests on fraudulently obtained signatures. By Mark Kreidler Jul 8, 2025 Winning
+      the Highest Minimum Wage It took more than two years of hard work and relentless
+      campaigning for LA’s tourism workers to win $30 an hour. Here’s how they did it.
+      By Sonali Kolhatkar Jun 6, 2025 Union and Coalition Members Have the Power to
+      Restore Democracy A coalition will succeed if members understand the economic
+      underpinnings of a democracy and the role unions play in the economic interests
+      of working people. By Andrew Moss Jun 3, 2025 Black Workers Will Suffer Under
+      Trump''s Budget The GOP reconciliation bill will widen the racial wealth divide
+      — all to make wealthy heirs richer. By LaToya B. Parker and Dedrick Asante-Muhammad
+      May 29, 2025 Mental Healthcare Workers Win: The Battle at Kaiser Continues The
+      NUHW members outlasted Kaiser. With picket lines from Modesto to San Diego, every
+      day for 196 days in an ongoing effort to improve health care for patients. By
+      Cal Winslow May 29, 2025 Uncovering Exploitation Behind an App This isn’t about
+      rejecting technology. It’s about making sure companies don’t hide exploitation
+      behind an app. Workers have a right to a wage they can live on. By Lena Simet
+      May 29, 2025 If Religious Employers Get a Free Pass, Workers Pay the Price Increasingly,
+      religious employers are claiming “religious liberty” to deny workers basic protections.
+      That’s exploiting religion, not practicing it. By A.J. Schumann May 28, 2025 Erasing
+      Memorial Day Union history also has no place in Trumpian history in which, like
+      in all else Trumpian, only Rich White Lives Matter. By Berry Craig May 25, 2025
+      Loading… See More © 2025 Site Map About Contact Us Authors Privacy Policy Privacy
+      Settings CLOSE CLOSE'
+    one_sentence_summary: The article discusses the challenges and successes within
+      the labor movement in California, highlighting the impact of key figures like
+      Kent Wong, the ongoing fight for workers' rights, and the need for unions to adapt
+      to contemporary threats, including neofascism and exploitation in the gig economy.
+    paragraph_summary: The article discusses various labor-related topics, highlighting
+      the ongoing struggles and successes within the labor movement, particularly in
+      California. It reflects on the legacy of labor organizer Kent Wong and the impact
+      of recent campaigns, such as Disneyland workers uniting for fair wages and the
+      fight against predatory labor practices affecting temporary migrant workers. The
+      piece emphasizes the importance of solidarity among workers in the face of challenges
+      posed by neofascism and political opposition, while also addressing issues like
+      workplace violence, the exploitation of workers in the gig economy, and the need
+      for unions to adapt and thrive amidst changing political landscapes. Overall,
+      it underscores the critical role of collective action in advancing labor rights
+      and social justice.
+    published: '2025-10-27T05:59:58.097524+00:00'
+  - title: Immigration Reform
+    url: https://www.laprogressive.com/immigration-reform
+    text: 'Immigration Reform - LA Progressive Skip to main content Topics Animal Rights
+      Climate Change Economic Equality Education Reform Elections and Campaigns Foreign
+      Policy Africa Asia Europe Latin America The Middle East Healthcare Food Policy
+      Pandemic Senior Community Immigration Reform Labor Law and the Justice System
+      LBGTQ+ Progressive Issues Video Racism The Media War and Peace Veterans Events
+      ACLU People Power Subscribe Podcast YouTube Channel GLOSSARY Site Map About Contact
+      Us Authors Privacy Policy Privacy Settings October 27, 2025 Topics Authors Linktr.ee
+      Subscribe Podcast YouTube Channel GLOSSARY Topics Authors Linktr.ee Subscribe
+      Podcast YouTube Channel GLOSSARY Immigration Reform Home Immigration Reform Sanctuary:
+      Why Portland & Venezuela Are In Washington''s Crosshairs The Trump administration
+      is threatening a National Guard deployment into Portland and an attack on Venezuelan
+      soil. What makes them a threat to Washington? Both places work to unify despite
+      differences and provide sanctuary to the vulnerable. By Becca Renk Oct 16, 2025
+      “Then They Came for Me . . .” We need each other – which is simply another way
+      of saying: We need to understand, and learn from, each other. By Robert Koehler
+      Oct 15, 2025 Ripped from Home: The ICE Raid That Exposed a North Country’s Divide
+      Despite having declared themselves to immigration judges, attending court dates,
+      and following the legal process, the family was flown 1,800 miles away to a detention
+      center in Texas. By George “Casey” Payne Oct 6, 2025 Seattle’s Deportation Crusade:
+      “Just Get Rid of Them” The suppression of working-class radicalism didn’t begin
+      in Seattle, but the deportations did, taking repression to a new level. By Cal
+      Winslow Sep 26, 2025 Got Border Problems? Eliminate all Borders! If the free and
+      unimpeded movement of populations works well within the U.S., why would it not
+      work globally? By Mark P. Fancher Sep 26, 2025 ICE Transferring Detainees Far
+      From Family, Lawyers One group ended up in Alaska, where prison guards pepper
+      sprayed them after one man asked for a phone call. By Kate Morrissey Sep 24, 2025
+      How the Supreme Court Just Officially Blessed Racial Profiling In another "shadow
+      docket" win for Trump, conservative justices rule suspected undocumented immigrants
+      may be detained based solely on their ethnicity, language, location and occupations.
+      By Bill Blum Sep 17, 2025 Trump’s Theater of Cruelty: Fascism’s Malignant Return
+      What he offers is not governance but the intoxication of destruction, the fetishization
+      of cruelty, and the performance of violence as ritual. By Henry A. Giroux Sep
+      8, 2025 Federal Judge Said Trump Can’t Be National Police Chief: Will That Hold?
+      A court held that Trump “willfully” violated the Posse Comitatus Act by sending
+      troops to enforce immigration law in LA. By Marjorie Cohn Sep 5, 2025 Aggressive,
+      Disruptive ICE Raids Force Workers into Hiding Trump’s policies have a chilling
+      effect on immigrants and their ability to advocate for their rights, regardless
+      of their immigration status or country of origin. By Kate Morrissey Aug 27, 2025
+      Afraid to Even Open the Door Immigration raid fears have some undocumented patients
+      avoiding medical care. One L.A. clinic is responding by sending mobile health
+      teams directly to their homes. By George B. Sánchez-Tello Aug 15, 2025 Should
+      California Exit the Gerrymandering War? You Can’t Out-Authoritarian MAGA. But
+      You Can Show the Country What Democracy Looks Like By Joe Mathews Aug 14, 2025
+      ICE Detainees Complain of Long Waits for Deportation Many say they are still in
+      immigration detention facilities months after agreeing to leave the U.S. By Kate
+      Morrissey Aug 13, 2025 Immigration and Customs Enforcement Pressures Detainees
+      to Self-Deport According to current and former detainees, Immigration and Customs
+      Enforcement officials are pressuring people in its custody to agree to deportation.
+      By Kate Morrissey Aug 8, 2025 Coming Next: Denaturalize and Deport There is ample,
+      dark historical precedent for the Trump administration’s imminent revival of mass
+      denaturalization. By Bill Blum Aug 6, 2025 Immigration Raids Have No Business
+      in Our Schools Most Americans oppose ICE raids on schools, which lead to absenteeism,
+      disruption, and long-term threats to learning for all students. By Sonia Banker
+      Aug 5, 2025 The Border War Economy If you pay into a retirement fund, attend a
+      university, or live in a major city, your money might be helping detain someone.
+      By Michelle Ellner Aug 4, 2025 What Trump''s Attacks on Latinos Is Costing California
+      If you believe the mass deportations won''t affect you because you don''t have
+      Latinos in your immediate circle, think again. By Mario Solis-Marich Jul 31, 2025
+      Trump Targets Latino Migrants: Ideology Over Humanity By escalating deportations,
+      ending humanitarian protections, and cutting remittances, Trump’s immigration
+      policy threatens to destabilize Latin American economies and exacerbate humanitarian
+      crises. Ironically, this might trigger a new wave of migration. By John Perry
+      and Roger D. Harris Jul 28, 2025 How Can We Lock Up Innocent Immigrants and Call
+      It Justice? Shackling innocent people, denying them basic medical care, and forcing
+      them to eat like animals isn’t “law and order.” It’s lawless. By Belkis Wille
+      Jul 25, 2025 California Prosecutors and Local Police Could Go After Federal Agents
+      A 50-Year-Old Case in Humboldt County Made Clear that Feds Aren’t Above State
+      Law By Joe Mathews Jul 24, 2025 Skater Kid: Behind the Viral Video and Continued
+      Fight for Justice A lone young man taunted an army of immigration cops and a street
+      erupted with the firing of tear gas and crowd-control munitions. By Jeremy Lindenfeld
+      Jul 21, 2025 Cruelty with a Purpose The final purpose is to put the rest of us,
+      we citizens, on notice that our rights, too, are subject to the whims of King
+      Donald. By John Peeler Jul 18, 2025 Trump''s Anti-immigrant Agenda Unconstitutional,
+      Unethical, Authoritarian Trump''s anti-immigrant agenda has been challenged in
+      court, and there is an exodus from the Justice Department unit responsible for
+      defending presidential actions. By Jessica Corbett Jul 16, 2025 Loading… See More
+      © 2025 Site Map About Contact Us Authors Privacy Policy Privacy Settings CLOSE
+      CLOSE'
+    one_sentence_summary: The article discusses various aspects of immigration reform,
+      highlighting the Trump administration's aggressive policies that threaten vulnerable
+      communities, including the deployment of National Guard troops, ICE raids, and
+      the impact on immigrant rights and humanitarian conditions.
+    paragraph_summary: The article from LA Progressive discusses various aspects of
+      immigration reform and the impact of the Trump administration's policies on immigrant
+      communities. It highlights the administration's aggressive tactics, such as the
+      deployment of National Guard troops to Portland and the targeting of Venezuelan
+      migrants, which are seen as efforts to suppress unity and provide sanctuary for
+      vulnerable populations. The piece also addresses the chilling effects of ICE raids
+      on immigrant rights advocacy, the legal and ethical implications of detaining
+      individuals based on their ethnicity and language, and the broader consequences
+      of these policies on both local communities and international relations. Overall,
+      it paints a picture of an immigration system under severe strain, marked by fear,
+      repression, and a call for solidarity among diverse groups.
+    published: '2025-10-27T05:59:49.763332+00:00'
+  - title: Healthcare
+    url: https://www.laprogressive.com/healthcare
+    text: 'Healthcare Issues - LA Progressive Skip to main content Topics Animal Rights
+      Climate Change Economic Equality Education Reform Elections and Campaigns Foreign
+      Policy Africa Asia Europe Latin America The Middle East Healthcare Food Policy
+      Pandemic Senior Community Immigration Reform Labor Law and the Justice System
+      LBGTQ+ Progressive Issues Video Racism The Media War and Peace Veterans Events
+      ACLU People Power Subscribe Podcast YouTube Channel GLOSSARY Site Map About Contact
+      Us Authors Privacy Policy Privacy Settings October 27, 2025 Topics Authors Linktr.ee
+      Subscribe Podcast YouTube Channel GLOSSARY Topics Authors Linktr.ee Subscribe
+      Podcast YouTube Channel GLOSSARY Healthcare Issues Home Healthcare Issues Food
+      Policy Pandemic Senior Community Who Should Live and Who Should Die? Kennedy,
+      Trump, and a “Reckless Disregard for Science and the Truth” By David Rosner and
+      Gerald Markowitz Oct 20, 2025 No to Kings, Yes to Democracy From coast to coast,
+      millions are rejecting Project 2025 and the strongman politics threatening the
+      republic—standing united for the Constitution, equality, and the rule of law.
+      By Rob Okun Oct 18, 2025 LA Care at the Left Coast Forum As California’s Medi-Cal
+      managed care ecosystem evolves, LA Care joins the Left Coast Forum to shed light
+      on the ways we will all be impacted if we don''t take action. By Sharon Kyle Oct
+      18, 2025 Government Shutdown Causing Healthcare Crisis Health care costs are about
+      to skyrocket for working Americans, but GOP lawmakers are prioritizing tax breaks
+      for the wealthy. By Karen Dolan Oct 9, 2025 Vaccines and a Century of Progress
+      Threatened by RFK Vaccines work when almost everyone is vaccinated. An act of
+      collective care that we seem to have taken for granted because children aren’t
+      dropping dead. By Sonali Kolhatkar Oct 4, 2025 American Medical Insurance Is Too
+      Complicated and Inefficient The United States, the world''s richest country, is
+      the only developed country not providing universal medical insurance. By Paul
+      deLespinasse Sep 17, 2025 Trump Gutting Federal Funding is Already Affecting American
+      Lives The Trump administration’s gutting of federal funding compromises the ability
+      to run the program, leaving the team understaffed to handle ever-greater work
+      loads. By Mark Kreidler Sep 2, 2025 Measles Coming Back — and California Isn’t
+      Immune Vaccination gaps in 16 counties leave some communities exposed as children
+      return to school. By Mark Kreidler Aug 18, 2025 Pro-Life: Seriously? I hope we’ve
+      begun to evolve to teach our children that doing right by everyone, practicing
+      nonviolent conflict transformation, is its own reward, right here, right now.
+      By Tom Hastings Aug 16, 2025 Health Is a Basic Human Right: It''s Time Our Laws,
+      Systems, and Values Reflect That We do not need more evidence to prove that the
+      system is broken. What we need is the courage to reimagine it, and the will to
+      build a broad coalition of citizens capable of pressuring government to act. By
+      Phillip Polakoff, MD and June Sargent Aug 15, 2025 Medicare for All Act-2025 Offers
+      Hope By eliminating waste and corporate profiteering in health care, Medicare
+      for All Act-2025 would save billions that could be invested in actual health care.
+      By F. Douglas Stephenson Aug 12, 2025 The Assisted Living Facilities Crisis As
+      Americans live longer, there’s a greater demand for assisted living facilities.
+      But they need to be well-regulated and well-funded. By Sonali Kolhatkar Aug 7,
+      2025 Beef vs The Planet - Every Meal an Opportunity Why are scientists saying,
+      "Every Meal: An Opportunity"? Is it because cutting meat is the fastest way to
+      reverse global warming By Patricia Hynes Aug 5, 2025 Are Red States About to Go
+      Hungry Thanks to Trump? Trump’s so-called “Big Beautiful Bill” will result in
+      the largest cut to SNAP in history, at $186 billion through 2034. By Ta’Kyla Bates
+      Jul 24, 2025 Unlocking Health: Building Better Outcomes with Smarter Daily Habits
+      As we explore the impact of daily routines on our health, we’ll uncover practical
+      strategies that can lead to transformative changes. By Britta Hedlund Jul 14,
+      2025 The Role of Urgent Care in Alleviating Health System Strain By managing less
+      critical cases, urgent care helps ensure that emergency resources are reserved
+      for true medical emergencies. By Sejal Desai Jul 8, 2025 How Trump''s Budget Will
+      Devastate Health Care for Rural Families Like Mine The so-called “Big Beautiful
+      Bill” will throw millions of Americans off Medicaid and put hundreds of rural
+      hospitals at risk of closing. By Ta’Kyla Bates Jul 3, 2025 Subverting Corporate
+      Logos to Inform, Inspire and Incite to Action Subvertisements features and interprets
+      the appropriation of commercial advertisements in protest posters. The posters
+      provoke strong responses, anger, agreement, amusement. By Lori A. Zimmerman Jul
+      2, 2025 Ambulance Chaser: Can Newsom Tap Medi-Cal to Balance Budget? Proposition
+      35 was meant to attract doctors to care for low-income Californians. Instead,
+      it’s looking like a cash cow for Sacramento. By Mark Kreidler Jun 2, 2025 Publicly
+      Funded Health Care Not a For-Profit Investment UHC is the largest for-profit health
+      insurer and “largest denier of health claims” in the US and stands accused by
+      activists of “stealing $3.7 billion from Medicare in one year”. By Phil Pasquini
+      Jun 2, 2025 Death Literacy Fosters Positive Conversations About the End The new
+      self-care movement teaches death literacy as a life-enhancing practice. By Caren
+      Martineau May 25, 2025 Hungry Californians Face Losing Their Daily Bread: The
+      Great Food Bank Robbery A new landscape of scarcity is threatening even the state’s
+      food basket regions. By Mark Kreidler May 24, 2025 Want Safer Cannabis? Put It
+      Behind Counters, Not on Streets By legalizing and regulating the licensed sale
+      of cannabis products, lawmakers are providing  consumers with safer experiences.
+      By Paul Armentano May 19, 2025 Mental Health Services at Kaiser: A Tentative Agreement
+      is Formed Kaiser’s chronic failure to provide adequate mental health services
+      cost it a $4 million fine. Four years later it reached another settlement on the
+      same issues. By Mark Kreidler May 15, 2025 Loading… See More © 2025 Site Map About
+      Contact Us Authors Privacy Policy Privacy Settings CLOSE CLOSE'
+    one_sentence_summary: The article discusses various healthcare issues, highlighting
+      the impact of political decisions on healthcare access and costs, the importance
+      of vaccination, and the need for systemic reform to ensure health as a basic human
+      right.
+    paragraph_summary: The article discusses various pressing healthcare issues in the
+      United States, highlighting the impact of political decisions on public health.
+      It emphasizes the consequences of government shutdowns and tax breaks for the
+      wealthy, which threaten to increase healthcare costs for working Americans. The
+      piece also critiques the inefficiencies of the American medical insurance system,
+      advocates for the Medicare for All Act-2025 to eliminate waste and corporate profiteering,
+      and addresses the growing demand for well-regulated assisted living facilities
+      as the population ages. Furthermore, it raises concerns about vaccination gaps
+      leading to outbreaks of diseases like measles and critiques the Trump administration's
+      cuts to healthcare funding, which disproportionately affect rural families and
+      vulnerable populations. Overall, the article calls for a reimagining of the healthcare
+      system to prioritize health as a basic human right.
+    published: '2025-10-27T05:59:42.600371+00:00'
+  - title: Foreign Policy
+    url: https://www.laprogressive.com/foreign-policy
+    text: 'Foreign Policy - LA Progressive Skip to main content Topics Animal Rights
+      Climate Change Economic Equality Education Reform Elections and Campaigns Foreign
+      Policy Africa Asia Europe Latin America The Middle East Healthcare Food Policy
+      Pandemic Senior Community Immigration Reform Labor Law and the Justice System
+      LBGTQ+ Progressive Issues Video Racism The Media War and Peace Veterans Events
+      ACLU People Power Subscribe Podcast YouTube Channel GLOSSARY Site Map About Contact
+      Us Authors Privacy Policy Privacy Settings October 27, 2025 Topics Authors Linktr.ee
+      Subscribe Podcast YouTube Channel GLOSSARY Topics Authors Linktr.ee Subscribe
+      Podcast YouTube Channel GLOSSARY Foreign Policy Home Foreign Policy Africa Asia
+      Europe Latin America The Middle East A Minefield in Gaza Although the last verified
+      use of landmines by Israel was in 2011, their actions over the past two years
+      have turned the Gaza Strip into a dense, unmapped minefield. By Ariel Gold Oct
+      26, 2025 Lessons in Resistance from the “Sword of Palestine” One answer to resisting
+      occupation lies in organizing and codifying professional rights where none exist.
+      By Saskia “Rocky” Hostetler Lippy Oct 24, 2025 A Gaza Gambit: The Art of the Doomed
+      Deal Declaring peace for headlines while violence continues undermines both moral
+      authority and practical leverage in conflict resolution. By Wim Laven Oct 22,
+      2025 Trump Admits Abetting Genocide Conspicuously absent from Trump’s remarks
+      was any reference to the ubiquitous images of the nearly 68,000 Palestinians killed
+      and possibly as many as 680,000. By Marjorie Cohn Oct 18, 2025 How Israel Used
+      My Father''s Name to Cover Up Ethnic Cleansing The awful truth dawned on him:
+      "This forest in my father''s name was not planted in the desert but on the destroyed
+      orchards of the previous inhabitants." By Jacob Boas Oct 18, 2025 Palestine’s
+      Voices and Israel’s Gaza Genocide The ideology of Zionism driving Israel’s slaughter
+      of Palestinians comes into sharper focus in the book’s second-longest essay by
+      Mary Turfah. By Seth Sandronsky Oct 18, 2025 Patio Trasero: Trump’s Backyard Bullying
+      We should not be surprised that Trump and his minions cannot understand who they’re
+      dealing with in Latin America. They represent the very worst of gringo arrogance
+      and presumption. By John Peeler Oct 17, 2025 Trump’s “Peace” Plan in Gaza a Loss
+      for Human Liberation Trump “peace” plan a bitter, imperialist pill that the region
+      is forced to swallow. The world had to watch the smiling perpetrators of genocide
+      claim victory. By Kevin Anderson Oct 16, 2025 Will Trump’s 20-Point Peace Plan
+      for Gaza Fail? Murphy’s Law, "Anything that can go wrong will go wrong." definitely
+      applies to the Trump peace plan. By Victor Rothman Oct 16, 2025 Economic Support
+      to Argentina and American Farmers Gets the Middle Finger US is extending $20 billion
+      in economic support to Argentina while that country drops soybean export taxes
+      to sell 20 shiploads of Argentine soybeans to China. By Seth Sandronsky Oct 15,
+      2025 The Other 1492: Expulsion, Conquest, and Columbus’s Real Legacy His voyages
+      were funded in a moment of religious intolerance, his landings marked the beginning
+      of conquest, and his rule brought brutality to Indigenous peoples. By Cynthia
+      McDermott Oct 15, 2025 Imperial Double Standards: Warfare for Venezuela and Welfare
+      for Argentina Venezuela embodies resistance and regional integration. Argentina,
+      under Milei, epitomizes the collapse into “narco-capitalism,” social devastation,
+      and foreign subjection. By Francisco Dominguez , Roger D. Harris and John Perry
+      Oct 15, 2025 Will US Attack Venezuela? Washington has persistently interfered
+      in the internal affairs of Venezuela, pouring millions of dollars to rig elections.
+      Yet, the perpetually divided and unpopular US-fostered opposition is more isolated
+      and discredited than ever. By Roger D. Harris Oct 13, 2025 Naming the Dead The
+      staggering toll of Palestinian deaths has broken through our collective consciousness.
+      By Rob Okun Oct 12, 2025 Global Sumud Flotilla Boats Attacked by Israeli Drones
+      in Waters off Greek Island of Crete By Ann Wright Oct 12, 2025 How Israel Reached
+      Its Mass-Murder Quota Around 1,275 Israelis died as a result of the attack on
+      October 7. Israel’s mass murder quota was therefore around 63,750 (= 50 x 1,275).
+      By Jeffrey Sachs and Sybil Fares Oct 11, 2025 Peace at Hand? Protesters Keep up
+      the Pressure Whether a real and lasting peace will result from the agreement or
+      if this will only be a cessation of the war remains to be seen. By Phil Pasquini
+      Oct 11, 2025 Palestine, My Palestine We should mourn Palestinian losses as we
+      mourn those of Israelis, as we would mourn those in our own families. By Chuck
+      Yates Oct 10, 2025 “Peace” Has Lost Its Meaning When Maria Corina Machado Wins
+      the Nobel Peace Prize As Venezuelan-American, I know exactly what Machado represents:
+      the smiling face of Washington’s regime-change machine, the polished spokesperson
+      for sanctions, privatization, and foreign intervention dressed up as democracy.
+      By Michelle Ellner Oct 10, 2025 Urgent Next Steps for Palestine at the United
+      Nations There is nothing to prevent the UN General Assembly from quickly convening
+      a new meeting of its Emergency Special Session on Palestine. By Nicolas Davies
+      Oct 10, 2025 The Ukraine-Russia War Continues The endgame remains unpredictable--dangerously
+      so By William J. Astore Oct 9, 2025 He''s No Prize Ten reasons why Trump should
+      never be awarded the Nobel Peace Prize By Clarence Lusane Oct 9, 2025 Urgent Next
+      Steps for Palestine at the UN Trump’s plan is rife with conditions that one side
+      or the other won’t agree to, and it seems unlikely to end the genocide. By Nicolas
+      Davies Oct 8, 2025 Bringing a Howitzer to a Knife Fight: US Armada Off Venezuela
+      Washington’s escalating regime-change offensive against Venezuela uses drug interdiction
+      conflated with combatting “terrorism” as a pretext for the expansion of imperial
+      militarism. By Roger D. Harris Oct 7, 2025 Loading… See More © 2025 Site Map About
+      Contact Us Authors Privacy Policy Privacy Settings CLOSE CLOSE'
+    one_sentence_summary: The article discusses various perspectives on the ongoing
+      conflict in Gaza, highlighting issues such as the use of landmines, the implications
+      of Trump's peace plan, and the broader context of violence and resistance in the
+      region.
+    paragraph_summary: The article from LA Progressive discusses various aspects of
+      foreign policy, particularly focusing on the ongoing conflict in Gaza and the
+      implications of U.S. actions in Latin America. It highlights the transformation
+      of Gaza into a minefield due to Israeli actions, critiques Trump's peace plan
+      as an imperialistic approach that undermines genuine conflict resolution, and
+      examines the devastating toll of violence on Palestinian lives. The piece also
+      addresses U.S. economic support to Argentina amidst its political turmoil, contrasting
+      it with the situation in Venezuela, where U.S. interference has led to significant
+      instability. Overall, the article underscores the complexities and moral challenges
+      of international relations in the context of conflict and imperialism.
+    published: '2025-10-27T05:59:36.223742+00:00'
+  - title: Elections and Campaigns
+    url: https://www.laprogressive.com/election-and-campaigns
+    text: 'Elections and Campaigns - LA Progressive Skip to main content Topics Animal
+      Rights Climate Change Economic Equality Education Reform Elections and Campaigns
+      Foreign Policy Africa Asia Europe Latin America The Middle East Healthcare Food
+      Policy Pandemic Senior Community Immigration Reform Labor Law and the Justice
+      System LBGTQ+ Progressive Issues Video Racism The Media War and Peace Veterans
+      Events ACLU People Power Subscribe Podcast YouTube Channel GLOSSARY Site Map About
+      Contact Us Authors Privacy Policy Privacy Settings October 27, 2025 Topics Authors
+      Linktr.ee Subscribe Podcast YouTube Channel GLOSSARY Topics Authors Linktr.ee
+      Subscribe Podcast YouTube Channel GLOSSARY Elections and Campaigns Home Elections
+      and Campaigns Video Off the Bus to the Debate Stage: Zohran Mamdani Just Locked
+      In New York At a time when most campaigns chase consultants and optics, Mamdani’s
+      launch ad grounded itself in moral clarity: a city for the people who make it
+      work. By Nadia Ahmad Oct 23, 2025 Represent This Drastic times and drastic measures
+      come to California. Many Black leaders see Proposition 50 as necessary to neutralize
+      a GOP power grab that endangers bedrock civil rights. By Erin Aubry Kaplan Oct
+      23, 2025 Big Problems Need Big Solutions Unless Democrats can really put up a
+      fight against the pseudo-populism of the rapacious and fascistic Trump regime,
+      they are unlikely to regain the support of the working-class voters who deserted
+      them in last year’s election. By Norman Solomon Oct 21, 2025 MAGA not Poisoning
+      the GOP, They''re GOP''s Oozing Toxin The Republican Party is exactly “who” and
+      “what” we always knew them to be. The MAGA movement didn’t poison the GOP; it’s
+      the toxin reaching the surface. By Desi Cortez Oct 15, 2025 Here''s How Democrats
+      Could Win in 2028 Today’s Democratic leadership—an aging, entrenched gerontocracy—is
+      out of touch. Obsessed with fundraising and self-preservation, they offer no charisma,
+      no moral courage, and no compelling vision. By William J. Astore Oct 12, 2025
+      Here Comes the New Centrist Democratic Party Same as the Old Centrist Democratic
+      Party By William J. Astore Oct 11, 2025 The Tragedy of Mayor Eric Adams and the
+      Future for Black Political Power in New York City The downfall of Mayor Adams
+      foreshadows a larger problem for the Black political class of New York and the
+      community they presume to represent. By Roger House Sep 30, 2025 Eric Adams Dropped
+      Out Today: The Establishment Is Crumbling His withdrawal represents far more than
+      one politician’s downfall, it signals the beginning of the end for New York''s
+      political establishment as we know it. By Nadia Ahmad Sep 28, 2025 The “It’s a
+      Hoax” Defense If a president with all their power and resources, can rely successfully
+      on his right to the “It’s a Hoax” defense, shouldn’t an average citizen, with
+      much more limited resources, be afforded this same right. By Julien Hennefeld
+      Sep 23, 2025 Still Resisting in Ruby Red Kentucky On Labor Day, Indivisible members
+      and groups across the country marched in Labor Day parades and joined “Workers
+      over Billionaires” protests. By Berry Craig Sep 10, 2025 Why Kshama Sawant Is
+      Running for Congress The core issues of her Seattle council campaign were a successful
+      Minimum Wage increase to $15/hour and a successful "millionaire''s tax" on wealthy
+      Seattleites. By Vincent De Stefano Sep 9, 2025 America’s Post-Democracy Crisis:
+      Why Winner-Take-All Politics Is Driving Us Off the Cliff From racialized redistricting
+      to MAGA backlash, the collapse of U.S. democracy isn’t just about gerrymandering—it’s
+      baked into our electoral system. Proportional ranked choice voting may be the
+      only way out. By Steven Hill Sep 6, 2025 The Heartache of a Progressive Democrat:
+      Betrayed by a Failing Party That Still Needs Us It’s progressives, leftists, and
+      young voters who’ve been pushing those kitchen-table fights all along. We’re the
+      ones demanding Medicare for All, a living wage, affordable housing, student debt
+      relief, and taxing the rich. By Carolina Ampudia Sep 2, 2025 SCOTUS Wonders About
+      Gutting Voting Rights Act We may well see the elimination of the 11 Black-majority
+      districts — all Democratic — in GOP-controlled Southern states. By Marjorie Cohn
+      Aug 30, 2025 Midterm Rigging Has Just Begun Trump’s war on voting rights is part
+      of a long game that aims for the eventual creation of a one-party state. By Bill
+      Blum Aug 27, 2025 How Bad Slavery Was Those who, like me, have slaveowners as
+      ancestors, share some of the responsibility for those abuses because we have literally
+      inherited the benefits of that exploitation. By John Peeler Aug 27, 2025 Map Wars:
+      Texas vs. California As partisan redistricting escalates, Los Angeles can break
+      the winner-take-all trap with multi-seat districts and proportional ranked choice
+      voting. By Steven Hill Aug 26, 2025 Maine Oyster Farmer Launches Senate Bid to
+      Oust Susan Collins: ''The Oligarchy Is the Enemy'' "I will be a senator," said
+      Graham Platner, "for all those who can''t buy senators." By Julia Conley Aug 20,
+      2025 Way Past Time It''s time — hell, way past time — to “forcefully, aggressively,
+      and relentlessly” resist the “cowardly fake bully” in Austin and the one in Washington.
+      By Berry Craig Aug 15, 2025 How the GOP Abandoned the Voting Rights Act Once the
+      party of abolition and civil rights, Republicans now lead efforts to weaken the
+      Voting Rights Act—marking a 60-year retreat from their own historic legacy. By
+      Berry Craig Aug 7, 2025 Trump’s Gerrymandering Gambit How Winner-Take-All Democracy
+      Skews the 2026 Midterms. As the GOP redraws maps and Democrats retaliate, America’s
+      “casino democracy” edges toward a cliff. By Steven Hill Aug 6, 2025 Yves Engler
+      Fights Back: Genocide Politics, Zionist Smears, and the Battle for the Left The
+      Canadian branch of B''nai B''rith has accused author, activist, and political
+      candidate Yves Engler of genocide denial. He is fighting back. By Ann Garrison
+      Aug 4, 2025 The Mamdani Win and the Losing Ethos of the Democratic Party Mamdani’s
+      defiance of the Zionist narrative is “Blowin’ in the Wind”. By Rick Chertoff Jul
+      17, 2025 Is Debbie Wasserman Schultz’s Corruption a Warning for All of Us? This
+      isn’t just about Florida. Or Washington. It’s about the kind of democracy we’re
+      building—or failing to build. By Carolina Ampudia Jul 15, 2025 Loading… See More
+      © 2025 Site Map About Contact Us Authors Privacy Policy Privacy Settings CLOSE
+      CLOSE'
+    one_sentence_summary: The article discusses various political developments and challenges
+      within the Democratic and Republican parties, highlighting the need for a more
+      engaged and progressive leadership to combat rising authoritarianism and voter
+      suppression in the U.S. electoral system.
+    paragraph_summary: The article from LA Progressive discusses various political developments
+      and challenges within the U.S. electoral landscape, focusing on the 2025 elections
+      and the Democratic Party's struggles. It highlights the campaign of Zohran Mamdani,
+      which emphasizes moral clarity and community representation, contrasting it with
+      the entrenched and out-of-touch leadership of the Democratic Party. The article
+      also addresses the implications of Proposition 50 in California, the GOP's ongoing
+      efforts to undermine voting rights, and the need for Democrats to reconnect with
+      working-class voters. Additionally, it critiques the MAGA movement as a revealing
+      aspect of the Republican Party's identity and discusses the broader issues of
+      gerrymandering and electoral fairness, suggesting that reforms like proportional
+      ranked choice voting may be necessary to address systemic problems in American
+      democracy.
+    published: '2025-10-27T05:59:30.445081+00:00'
+  - title: Education Reform
+    url: https://www.laprogressive.com/education-reform
+    text: 'Education Reform - LA Progressive Skip to main content Topics Animal Rights
+      Climate Change Economic Equality Education Reform Elections and Campaigns Foreign
+      Policy Africa Asia Europe Latin America The Middle East Healthcare Food Policy
+      Pandemic Senior Community Immigration Reform Labor Law and the Justice System
+      LBGTQ+ Progressive Issues Video Racism The Media War and Peace Veterans Events
+      ACLU People Power Subscribe Podcast YouTube Channel GLOSSARY Site Map About Contact
+      Us Authors Privacy Policy Privacy Settings October 27, 2025 Topics Authors Linktr.ee
+      Subscribe Podcast YouTube Channel GLOSSARY Topics Authors Linktr.ee Subscribe
+      Podcast YouTube Channel GLOSSARY Education Reform Home Education Reform HBCUs
+      as Sanctuaries Guarding Against White Violence: In the Name of #TreyReed “You
+      can go to any college you want, but Mama will pay for an HBCU.” By Melina Abdullah
+      Oct 14, 2025 Public Education and Paying the Cost of Freedom Public education
+      is the best way to minimize the risk of tyranny. Not only will students benefit
+      from such an education; society at large will benefit too. By Chuck Yates Oct
+      6, 2025 Will California Zionise K-12 Education? The intent of AB715 is clear:
+      to restrict factual information about an important region of the world and to
+      punish educators who present the Palestinian and anti-zionist Jewish perspective.
+      By Rick Sterling Oct 4, 2025 Twenty Years After Katrina, New Orleans'' All-Charter
+      Schools System Failing Families Despite claims by reform advocates of achieving
+      success, Black children and parents continue to endure a punitive, impersonal,
+      and undemocratic system. By Ashana Bigard and Elizabeth K. Jeffers Oct 1, 2025
+      The Freedom to Teach about Freedom: What Today’s Attacks on Professors Reveal
+      From watchlists to firings, the right-wing assault on higher education threatens
+      critical thinking, academic independence, and the very purpose of the university.
+      By Robert Jensen Sep 25, 2025 Why Is Fascism Attacking Higher Education? We are
+      witnessing a fascist attempt to establish “patriotic education” by prohibiting
+      public schools at all levels from even discussing Palestine, Black History and
+      history of all marginalized communities. By Peter Brown , Rosemary Lee and Steven
+      Miller Sep 24, 2025 As UC Campuses Prepare to Fuel Trump’s Witch Hunt, Will Teachers
+      and Unions Fight Back? A coalition of University of California faculty, students,
+      staff, and labor unions is suing the Trump administration. By Marjorie Cohn Sep
+      23, 2025 Ford, Trump and the War on Education: Pedagogies of Repression Culture
+      has increasingly become a site in the service of pedagogical tyranny. It works
+      through erasure and repression, through memory stripped of its critical force,
+      and through dissent silenced in the name of order. By Henry A. Giroux and William
+      Paul Sep 15, 2025 California Lawmakers Back Censorship Disguised as Antisemitism
+      Prevention Teachers vow to resist even if Governor signs AB 715 into law. By Marcy
+      Winograd Sep 15, 2025 California''s Attack on Ethnic Studies AB715 is the wrong
+      response and undermines the real fight against antisemitism by conflating political
+      debate with hate speech. By Arlene Inouye Sep 6, 2025 How Competing Views Shape
+      the Way We Use Language From grammar rules to everyday slang, debates over descriptivism
+      and prescriptivism reveal how we balance authority with the way people really
+      speak. By Danica Tomber Sep 4, 2025 There’s No Such Thing as Someone Else’s Children
+      What gives a glimmer of hope is the activism, particularly that of youth throughout
+      the world, protesting, organizing boycotts, risking arrest and their lives. By
+      Patricia Hynes Aug 28, 2025 Protecting Our Children From the Government As part
+      of back-to-school preparations, teachers are patrolling their schools against
+      ICE arrests of students and their families. By Sonali Kolhatkar Aug 27, 2025 Myles
+      Horton and the Pedagogy of Protest Myles Horton taught that democracy is not memorized
+      but practiced in the work of organizing together. Protest is not the breakdown
+      of democracy but its renewal. By Cynthia McDermott Aug 25, 2025 So You Think You
+      Want to Be a Teacher In MAGA America, if you want to be a teacher, you might have
+      to pass a conservative political correctness test, you might get silenced for
+      straying from the party line, you might get fired for corrupting the youth. By
+      Chuck Yates Aug 22, 2025 Community Schools and Why Democrats Should Support Them
+      By getting behind community schools, Democrats will at least align their party
+      with a proven way to ensure positive differences one community at a time. By Jeff
+      Bryant Aug 20, 2025 Trump Poked the Golden Bear, So California Strikes Back Newsom
+      summed up Trump’s motivation, which is to “silence academic freedom by attacking
+      one of the most important public institutions in the United States of America.”
+      By H. Scott Prosterman Aug 19, 2025 The Most Critical Profession on the Planet
+      I have nothing against engineers, accountants, hairdressers, or plumbers. But
+      how is it that these professions pay as well or better than “the most noble profession”?
+      By W. D. Ehrhart Aug 9, 2025 How Robert Reich Teaches — and Why Inequality Is
+      Still the Lesson Director, producer of The Last Class discuss Reich’s skill in
+      the classroom and his career-long focus on economic disparities. By Alex Demyanenko
+      Jul 25, 2025 Trump, Kennedy Throw Head Start Into Reverse How the administration
+      seeks to use the venerable children’s care program as an anti-immigrant weapon.
+      By Mark Kreidler Jul 21, 2025 Echoes of  Scopes A century ago this month, Scopes
+      was convicted of violating the Butler Act, a Volunteer State law that forbade
+      the teaching of evolution in public schools. By Berry Craig Jul 11, 2025 The Classroom
+      in a World on Fire: Reimagining Education for Liberation Governance has been replaced
+      by a loyalty cult, where ideology bends to impulse, and where the machinery of
+      the state follows the whims of televised grievance. By Peter McLaren Jun 27, 2025
+      What We Are Left to Dream Of. Disability and the Promise of Social Mobility. The
+      Case of UCR. How can a university that promises social mobility deliver that promise
+      equitably to all students—including those seeking accommodations—if, at the same
+      time, under the pretext of academic standards, it operates as an engine of economic
+      inequality? By Paula Cucurella Jun 19, 2025 Liberalism and Liberal Education Are
+      Worth Fighting For Rather than shy away when the far right spews its criticisms,
+      Democrats should proudly defend Liberalism, for its principles have defined America
+      for 250 years. By Bob Topper Jun 13, 2025 Loading… See More © 2025 Site Map About
+      Contact Us Authors Privacy Policy Privacy Settings CLOSE CLOSE'
+    one_sentence_summary: The article discusses various perspectives on education reform,
+      highlighting issues such as censorship in California's K-12 education, the challenges
+      faced by Black students in New Orleans' charter school system, and the broader
+      implications of political attacks on academic freedom and critical thinking in
+      higher education.
+    paragraph_summary: The article from LA Progressive discusses various aspects of
+      education reform, highlighting the challenges and controversies surrounding public
+      education in the U.S. It addresses issues such as the impact of legislation like
+      California's AB715, which aims to restrict discussions on Palestine and marginalized
+      histories in schools, and the ongoing struggle against censorship and the right-wing
+      assault on higher education. The piece emphasizes the importance of public education
+      as a means to promote democracy and critical thinking, while also critiquing the
+      failures of systems like New Orleans' all-charter schools, which have not served
+      Black families effectively. Additionally, it underscores the role of activism
+      in education, advocating for community schools and the need to protect academic
+      freedom amidst increasing political pressures.
+    published: '2025-10-27T05:59:23.378788+00:00'
+  - title: Economic Equality
+    url: https://www.laprogressive.com/economic-equality
+    text: 'Economic Equality - LA Progressive Skip to main content Topics Animal Rights
+      Climate Change Economic Equality Education Reform Elections and Campaigns Foreign
+      Policy Africa Asia Europe Latin America The Middle East Healthcare Food Policy
+      Pandemic Senior Community Immigration Reform Labor Law and the Justice System
+      LBGTQ+ Progressive Issues Video Racism The Media War and Peace Veterans Events
+      ACLU People Power Subscribe Podcast YouTube Channel GLOSSARY Site Map About Contact
+      Us Authors Privacy Policy Privacy Settings October 27, 2025 Topics Authors Linktr.ee
+      Subscribe Podcast YouTube Channel GLOSSARY Topics Authors Linktr.ee Subscribe
+      Podcast YouTube Channel GLOSSARY Economic Equality Home Economic Equality When
+      Law Becomes Crime: The Tyranny of Gangster Capitalism At its center lies a machinery
+      of state violence: abductions, the erosion of due process, and the weaponization
+      of government to punish critics and institutions deemed enemies of the people.
+      By Henry A. Giroux Oct 22, 2025 The Making of “Problematic People” From colonial
+      conquest to modern segregation, the ruling elite redraws the moral, civic, and
+      political boundaries of who counts as human — and silence keeps the system alive.
+      By Sharon Kyle Oct 9, 2025 Americans — Including the Pope — Are Fed Up With CEO
+      Greed Pope Leo XIV joins Americans in calling out CEO greed. Read why taxing excessive
+      executive pay could save our democracy By Sarah Anderson Sep 30, 2025 Vying for
+      Global Supremacy on a Warming, Turbulent Planet The planet as a whole could face
+      an even more perilous future if the U.S. joins Russia and Saudi Arabia in ensuring
+      that global fossil-fuel dependence will last far into the future. By Michael Klare
+      Sep 15, 2025 Watch Wall Street Gamble with Your Golden Years Private equity firms
+      want your retirement savings — and the Trump administration wants to help them.
+      By Chloe Rogers Sep 14, 2025 Choosing Life Off the Grid Going off the grid isn’t
+      just about solar power and gardens—it’s about slowing down, prioritizing what
+      matters, and creating a life rooted in self-reliance and personal freedom. By
+      Ryan Mitchell Sep 9, 2025 Donald Trump Profiteer in Chief Trump''s focus is mainly
+      how he, his family, and some other rich people who support him can become richer.
+      Caring for workers and the poor? Not really. By Walter G. Moss Sep 8, 2025 Trump''s
+      Attacks on Fed Fit Troubling Pattern By attacking the Federal Reserve’s independence,
+      President Trump is putting the economy in danger — and attacking yet another qualified
+      Black leader. By Dedrick Asante-Muhammad Sep 5, 2025 How Much Is the Pentagon
+      Spending Taxpayer Money on Alien Tech? Too over the top? Perhaps, but the Pentagon
+      is so secretive that the public is left to speculate. Congress must hold the DOD
+      accountability for how it uses its funds. By Ellen Brown/Web of Debt Sep 1, 2025
+      Trump Promised to Revive Manufacturing. Any Chance He''ll Deliver? The first months
+      of his presidency have brought uncertainty — and job losses in manufacturing.
+      By Kalena Thomhave Aug 28, 2025 Make CEOs Even Richer Despite National Opinion
+      Siphoning resources to make CEOs even richer is outrageous when so many Americans
+      are struggling with high costs for groceries, housing, and other essentials. By
+      Sarah Anderson Aug 22, 2025 We Know How to Reduce Poverty: Why Don''t We Do It?
+      As Congress rolls back food aid, California families are facing increasing hardship.
+      By Mark Kreidler Aug 22, 2025 Trump''s Tax Law Clobbering State Budgets With Trump
+      and the GOP slashing essential services to enrich the wealthy, states and cities
+      need to get creative in taking care of the rest of us. By Amy Hanauer Aug 19,
+      2025 Trump’s Tariffs Expose GOP’s Norquist Pledge Hypocrisy Republicans vowed
+      never to raise taxes, yet Trump’s tariffs hit poor and middle-class Americans
+      hardest—while shielding the wealthy and big donors. By Paul deLespinasse Aug 18,
+      2025 Moral Capitalism: Is It Likely? I have sometimes speculated about whether
+      capitalism can be moral or is doomed to put profits before people—even if it kills
+      them. By Walter G. Moss Aug 14, 2025 Economic Terror in Texas Extreme weather
+      terror, or turbochuggf*cks in the vernacular, is most recently evident in July
+      2025, in the human catastrophes caused by floods in Texas, New Mexico, and North
+      Carolina. By Danbert Nobacon Aug 6, 2025 The Recession Door Opens Multiple statistics
+      show the band-aid has been ripped off the obfuscation of the real condition of
+      the labor market that has prevailed for at least this past year, exposing the
+      long festering wound beneath. By Jack Rasmus Aug 5, 2025 Priced Out of Paradise
+      When ordinary people get shut out of extraordinary places By Sarena Neyman Jul
+      29, 2025 Linguistic Misdirection, the Price We Pay for Trump’s Rhetoric Masks
+      Real-World Harm From “Beautiful” Bills to “External” Revenues, the President’s
+      Wordplay Distracts Voters While Driving Up Debt, Cutting Services, and Gutting
+      Truth By Paul deLespinasse Jul 22, 2025 America''s Big, Beautiful Poor I am not
+      an exception in that very young, I knew some strangers, teachers, and people around
+      me thought I was a useless weight, a tax burden, a bad decision, a mistake. By
+      Arlyce Menzies Jul 18, 2025 The Global Crisis of Capitalism: Why Mass Deportations,
+      AI, and War Go Hand in Hand How capitalism’s crisis is fueling fascism, surveillance,
+      and labor’s collapse — and sparking global resistance. By William Robinson Jul
+      16, 2025 How Trump’s Tariffs Are Like Price-Gouging Restaurants If a restaurant
+      jacks up its prices it will lose its customers. Countries that slap huge tariffs
+      on imports will lose their trading partners. By Dean Baker Jul 14, 2025 Artificial
+      Intelligence and the Trumpian Deregulation Mindset Donald Trump’s main interest
+      was in making money, not furthering the common good, and his mindset about government
+      regulations that hindered his main goal never changed. By Walter G. Moss Jul 12,
+      2025 How GOP Budget Hurts Americans Trump’s “Big Beautiful Bill” represents the
+      largest transfer of wealth from the poor to the rich since chattel slavery. By
+      Sarah Anderson and Lindsay Koshgarian Jul 10, 2025 Loading… See More © 2025 Site
+      Map About Contact Us Authors Privacy Policy Privacy Settings CLOSE CLOSE'
+    one_sentence_summary: The article discusses various aspects of economic inequality,
+      highlighting issues such as CEO greed, the impact of government policies on the
+      poor, and the broader implications of capitalism on society, while emphasizing
+      the need for systemic change to address these disparities.
+    paragraph_summary: The article from LA Progressive discusses various aspects of
+      economic inequality and critiques the current capitalist system, highlighting
+      issues such as CEO greed, the erosion of due process, and the weaponization of
+      government against dissenters. It emphasizes the detrimental effects of policies
+      that prioritize wealth accumulation for the elite at the expense of the working
+      class and the poor, including the impact of Trump's administration on economic
+      conditions and social services. The piece also touches on the broader implications
+      of capitalism, including its role in fostering fascism and social injustice, and
+      calls for a reevaluation of moral capitalism in the face of ongoing economic crises
+      and environmental challenges.
+    published: '2025-10-27T05:59:15.416320+00:00'
+  - title: Climate Change
+    url: https://www.laprogressive.com/climate-change
+    text: 'Climate Change - LA Progressive Skip to main content Topics Animal Rights
+      Climate Change Economic Equality Education Reform Elections and Campaigns Foreign
+      Policy Africa Asia Europe Latin America The Middle East Healthcare Food Policy
+      Pandemic Senior Community Immigration Reform Labor Law and the Justice System
+      LBGTQ+ Progressive Issues Video Racism The Media War and Peace Veterans Events
+      ACLU People Power Subscribe Podcast YouTube Channel GLOSSARY Site Map About Contact
+      Us Authors Privacy Policy Privacy Settings October 27, 2025 Topics Authors Linktr.ee
+      Subscribe Podcast YouTube Channel GLOSSARY Topics Authors Linktr.ee Subscribe
+      Podcast YouTube Channel GLOSSARY Climate Change Home Climate Change Hazardous
+      Rail Yard Pollution Reduction Efforts Stall Under Trump Administration Just as
+      regulators were preparing to crack down on pollution from rail yards, they hit
+      a wall: a presidential administration hostile to environmental regulation. By
+      Twilight Greenaway and Maison Tran Sep 17, 2025 Solar Energy and a Very Possible
+      Vision For a Global Grid Protecting world climate will require us to rely on solar
+      energy. And to make solar available everywhere we will need a worldwide grid to
+      move the electricity. By Paul deLespinasse Aug 25, 2025 Trump & Newsom: United
+      Against Renewables From California to the White House, a bipartisan push for nuclear
+      and fossil fuels is gutting America’s solar industry and killing thousands of
+      green jobs By Harvey Wasserman Aug 8, 2025 Climate Change: What’s the Latest Bad
+      News on the Trumpian Front? Trump’s unfavorable treatment of renewable energy
+      can be contrasted to his favorable dealings with the oil and gas industry, which
+      contributed heavily to his 2024 presidential campaign. By Walter G. Moss Aug 8,
+      2025 How Big Insurance Companies Fleece Disaster Victims Local and regional insurance
+      companies beat the big guys at serving your community — and the planet. By Cathy
+      Cowan Becker Jul 30, 2025 Climate Change and Pascal''s Wager Whether or not it
+      is true that climate change is a threat, like Pascal, Trump’s going with what
+      he perceives as the safer bet for him. Namely, doing nothing. By Julien Hennefeld
+      Jul 21, 2025 Why Your Morning Brew Costs More Severe weather, shifting trade policies,
+      and a lack of support for small farmers are driving coffee prices sky high. Without
+      urgent investment, your daily brew could become a luxury. By Kate Petty Jul 18,
+      2025 Prone to Flooding But Nobody to Do Anything About it The Guadalupe River
+      is prone to flooding, but state officials have blocked efforts for years to use
+      FEMA funds to install early warning systems along it. By Chisom Okorafor Jul 18,
+      2025 How Covering Dodger Stadium with Solar Panels Can Help Save Los Angeles and
+      the World As our city burns from apocalyptic wild fires and killer heat waves,
+      it’s time to cover the Dodger Stadium pavilion and parking lots with solar panels.
+      By Harvey Wasserman Jul 16, 2025 Trump as Terrorist When it comes to climate change,
+      the fact that Donald Trump is distinctly a terrorist first-class should be a daily
+      part of the headlines in our world. By Tom Engelhardt, TomDispatch Jul 15, 2025
+      It’s the Mentality, Stupid They know better but they’d rather fight than switch.
+      By William deBuys Jun 26, 2025 Fighting for the Planet means Sovereignty for the
+      Sahel As people of the world rise against imperialism and neocolonialism, it is
+      up to us in the US climate movement to support projects of self-determination.
+      By Aaron Kirshenbaum and Ashley Gate May 27, 2025 Shut the System Goes Head on
+      Against Fossil Fuels Shut The System promises to shut down key actors in the fossil
+      fuel economy with an escalating “campaign of sabotage.” True to their word, their
+      sabotage escalates. By Adem Ay May 21, 2025 Van Nuys Airport Still Using Toxic
+      Aircraft Fuel Amidst a national effort to phase out leaded avgas, businesses at
+      Van Nuys Airport continue to import hundreds of thousands of gallons of leaded
+      fuel annually. By Chris Bibona and Shane Dimapanat May 21, 2025 LA Wildfire Aftermath
+      Reveals LA City Hall''s Loyalties Though accelerating climate change and dangerous
+      topography are certain to produce lethal wildfires, the obvious policy of rezoning
+      burn areas is not at City Hall. By Dick Platkin May 9, 2025 The Gift Economy The
+      body of Mother Earth­–water, soil, air and plants–sustains our life with plant
+      and animal food; how should we reciprocate? By Patricia Hynes Apr 30, 2025 Climate
+      Catastrophe If you can think of any way to hasten our arrival at the tipping point
+      where the world won’t be able to recover, Trump and his troops are trying it.
+      By John Peeler Apr 21, 2025 Major League Baseball  Should Stop Playing Ball with
+      Big Oil More than half of the teams have commercial tie-ins with oil companies,
+      utilities, and financial institutions that are fueling the climate crisis By Elliott
+      Negin Apr 5, 2025 Trump''s Tragic Undermining of the Climate-Change Battle As
+      with some of Trump’s other plans, many of those coming from him and his Zeldin-led
+      EPA are being challenged in the courts. By Walter G. Moss Apr 2, 2025 Huge Greenpeace
+      Verdict Attacks Entire Climate Movement: It Will Backfire It is critical for Greenpeace
+      and its allies to lean into the verdict and issue a call to action to the entire
+      environmental movement and broader civil society organizations. By Steven Donziger
+      Mar 27, 2025 Can Activists Take Back the Climate? While litigation on the federal
+      level focuses on halting rollbacks and protecting vital programs, organizers say
+      on the state and local levels, the climate movement is still looking to gain ground.
+      By Marianne Dhenin Mar 26, 2025 KBLA 1580, A Visionary Fills a Gap For Altadena
+      Fire Victims Tavis Smiley uses his media platform to ensure that we hear the stories
+      of those impacted in Altadena via KBLA Talk 1580. By Sharon Kyle Mar 15, 2025
+      States Look at Who Should Pay for Climate Disasters Some states are landing on
+      a straightforward answer: fossil fuel companies. By Sonali Kolhatkar Feb 27, 2025
+      How FireAid Sponsors Are Bankrolling the Climate Crisis Five financial institutions
+      that underwrote the FireAid benefit concert are still investing billions annually
+      in fossil fuel companies. By Elliott Negin Feb 13, 2025 Loading… See More © 2025
+      Site Map About Contact Us Authors Privacy Policy Privacy Settings CLOSE CLOSE'
+    one_sentence_summary: The article discusses various aspects of climate change, highlighting
+      the detrimental impact of the Trump administration's policies on environmental
+      regulations, the need for a global solar energy grid, and the ongoing challenges
+      faced by the climate movement in the U.S. amidst bipartisan support for fossil
+      fuels.
+    paragraph_summary: The article discusses the ongoing challenges and setbacks in
+      the fight against climate change, particularly highlighting the detrimental impact
+      of the Trump administration on environmental regulations. It notes that efforts
+      to reduce pollution from rail yards have stalled due to a lack of federal support,
+      while a bipartisan push for nuclear and fossil fuels is undermining the solar
+      industry and green job growth. The article also addresses various climate-related
+      issues, such as the rising costs of coffee due to severe weather and trade policies,
+      the need for solar energy and a global grid, and the ongoing struggles of local
+      communities facing climate disasters. Overall, it emphasizes the urgent need for
+      action and the importance of grassroots movements in combating climate change
+      amidst political resistance.
+    published: '2025-10-27T05:59:08.644005+00:00'
+  - title: Animal Rights
+    url: https://www.laprogressive.com/animal-rights
+    text: 'Animal Rights - LA Progressive Skip to main content Topics Animal Rights
+      Climate Change Economic Equality Education Reform Elections and Campaigns Foreign
+      Policy Africa Asia Europe Latin America The Middle East Healthcare Food Policy
+      Pandemic Senior Community Immigration Reform Labor Law and the Justice System
+      LBGTQ+ Progressive Issues Video Racism The Media War and Peace Veterans Events
+      ACLU People Power Subscribe Podcast YouTube Channel GLOSSARY Site Map About Contact
+      Us Authors Privacy Policy Privacy Settings October 27, 2025 Topics Authors Linktr.ee
+      Subscribe Podcast YouTube Channel GLOSSARY Topics Authors Linktr.ee Subscribe
+      Podcast YouTube Channel GLOSSARY Animal Rights Home Animal Rights Farmers Are
+      in Trouble: What Could Help? Farmers may be the proverbial “canaries in the coal
+      mine” when it comes to the effects of Trump’s grand tariff experiment. By Anthony
+      Pahnke Sep 17, 2025 When We Restore Forests, We Also Preserve Bird Habitats Lands
+      vital for climate resilience and the forestry industry are also critical habitats
+      for declining bird species, offering a rare opportunity to align conservation
+      with ecosystem services and secure a resilient future for both birds and people.
+      By Reynard Loki Sep 10, 2025 Survival of the Cutest The appearance of cuteness
+      is not arbitrary, but rather an evolutionary mechanism that promotes infant and
+      group survival. By Irina Matuzava Aug 9, 2025 Thoughts on Emotional Detachment
+      and Gaza: Cracking My Shell In its violence it connected me to the fragility of
+      life, the tragedy of indifference, the ease with which one becomes numb — and
+      how dangerous that can be. By Sarena Neyman Jun 24, 2025 Factory Farms and the
+      Next Pandemic Zoonotic diseases linked to factory farming raise pandemic risks,
+      but food tech innovations offer a safer alternative. By Alex Crisp Jun 7, 2025
+      Captive Elephants: A Harsh Reality The majestic elephant, while beloved by the
+      public, faces danger and adversity in both captivity and the wild. By Courtney
+      Scott May 17, 2025 How We''re Failing Elephants Ringling Bros. has stopped using
+      animals, but hundreds of elephants still languish at circuses and zoos By Delciannna
+      Winders Apr 23, 2025 The Connection Between Human Language and Birdsongs Listening
+      to birds benefits our mental health, leading to less stress and paranoia. By Erika
+      Schelby Feb 28, 2025 Building More Humane Future for Shelter Animals Shelters
+      are in critical need of more funding to reduce intake, administer these creative
+      community programs, and safely house the animals who will inevitably need care.
+      By S.E. Smith Dec 18, 2024 Two Octogenarians and the Suet Feeder Judy’s idea for
+      the suet feeder was to suspend it from monofilament fishing line, which would
+      be strong enough to hold the feeder but too tiny for squirrels to get a grip.
+      By John Peeler Dec 14, 2024 How Factory Farms Drain Our Freshwater Supplies Factory
+      farming has devastating environmental impacts, but there are ways we can protect
+      our vital resources. By Vicky Bond Nov 30, 2024 Australian Rabbits Warn Us: Beware
+      Geoengineering Proposals The world''s predicament is bad enough that a number
+      of people are trying to figure out how we could "geoengineer" the atmosphere.
+      By Paul deLespinasse Nov 4, 2024 Outraged Over False Claims of Pet Eating? Consider
+      Factory Farms What we do to billions of animals legally in the U.S. food system
+      is far more extensive, not to mention ghastly, than much of the animal sacrifices
+      that may occur in other people’s religious rituals. By Zoe Weil Oct 14, 2024 How
+      Psychology of Oppression Perpetuates Harm to Animals and the Environment To achieve
+      justice for all species and the environment, we must create a more relational
+      world. By Melanie Joy Sep 30, 2024 Why Are Hummingbirds in Rapid Decline? Unchecked
+      human activity is clearing the skies of flying animals and insects. By Sy Montgomery
+      Jul 19, 2024 Rewilding America''s Serengeti A tribal college internship aims to
+      train the next generation of stewards for a recovering prairie ecosystem—its land,
+      animals, and people. By Sarah Mosquera Jul 9, 2024 What Happened with the Missing
+      Apes Who Came Before Humans? The fossil record of our ape ancestors in Africa
+      is almost nonexistent for a period of about 8 or 9 million years. By Marjorie
+      Hecht Jun 28, 2024 Elephants in Conversation: This Should Change Everything What
+      do you suppose the elephants are gossiping about? Possibly about what stupid and
+      destructive creatures those so-called sapiens are! By Peter Laarman Jun 14, 2024
+      Private Equity Now Threatens Puppies and Kittens Lives Private equity has become
+      a major force driving income and wealth inequality in America. It has come for
+      the real estate market, the hospice industry, and now veterinarians. By Thom Hartmann
+      May 20, 2024 What Play Tells Us About Human Evolution? Adult play tends to be
+      social and to happen in species where social relationships are complicated and
+      require a lot of finesse to manage. By Brenna R. Hassett Jun 27, 2024 Donkey Skins
+      and Ejiao: The Cruel Fate of Millions nearly 6 million donkeys are slaughtered
+      each year for their hides to produce ejiao. Donkeys who fall victim to this industry
+      experience immense suffering By Joanna Grossman Apr 5, 2024 Biophilia and Pet
+      Craze a Major Contributor to Extinction Crisis Our biophilia is fraught. The irony
+      is that pet people are the same people the wild world needs to help get it back
+      on its feet. Pet owners care about animals. By Peter Christie Mar 14, 2024 Popular
+      Human Foods Dogs Can and Can’t Eat If you give cheese to your dog and they have
+      bad reactions, such as stomach upset, vomiting, or diarrhea, it is best to avoid
+      giving them any kind of cheese. By Britta Hedlund Mar 4, 2024 Secretarybird and
+      Raptor Populations Dangerously Decreasing Across Africa Secretarybirds are found
+      only in Africa, in the most arid habitats. They’re classified as endangered, but
+      they should be considered critically endangered. By Malavika Vyawahare Feb 26,
+      2024 Loading… See More © 2025 Site Map About Contact Us Authors Privacy Policy
+      Privacy Settings CLOSE CLOSE'
+    one_sentence_summary: The article discusses various issues related to animal rights,
+      including the impacts of factory farming, the plight of captive elephants, and
+      the need for humane treatment of shelter animals, while emphasizing the interconnectedness
+      of animal welfare, environmental conservation, and human health.
+    paragraph_summary: The article from LA Progressive discusses various issues related
+      to animal rights, highlighting the interconnectedness of environmental conservation
+      and animal welfare. It covers topics such as the impact of factory farming on
+      zoonotic diseases and freshwater supplies, the plight of captive elephants, and
+      the decline of bird populations due to human activities. The piece emphasizes
+      the need for humane treatment of shelter animals and critiques the role of private
+      equity in exacerbating animal suffering. It also touches on the psychological
+      aspects of oppression that affect both animals and the environment, advocating
+      for a more relational approach to achieve justice for all species. Overall, the
+      article calls for increased awareness and action to protect animals and their
+      habitats in the face of ongoing threats.
+    published: '2025-10-27T05:59:00.880830+00:00'
   - title: How Military Keynesianism Works
     url: https://www.laprogressive.com/author/richard-d-wolff/war-and-peace/military-keynesianism
     text: 'The defining moment of 20th-century capitalism was its great crash, 1929–1941,

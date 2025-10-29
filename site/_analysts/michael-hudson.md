@@ -8,20 +8,926 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  As of October 22, 2025, the global geopolitical landscape remains volatile, with U.S. foreign policy under the Trump administration continuing to drive significant developments across multiple regions. Analysts highlight ongoing covert operations, shifting alliances, and economic turbulence as key factors shaping current events.
+  As global economic and political tensions persist into late October 2025, the international order continues to be shaped by the interplay between U.S. policy, shifting economic paradigms, and the emergence of multipolarity. Recent analyses highlight the mounting challenges facing the neoliberal economic model, the intensification of covert geopolitical maneuvers, and the enduring risks associated with U.S. foreign policy under the Trump administration.
   
-  **Escalation in Venezuela**
-  The most recent reports indicate a renewed focus on Venezuela, where the Trump administration has reportedly authorized CIA covert operations aimed at destabilizing President Nicolás Maduro’s government. **Michael Hudson** notes that Republican Senator Rick Scott’s public remarks underscore the precariousness of Maduro’s position, suggesting that U.S. efforts to engineer regime change are intensifying. This development is seen as part of a broader strategy to reassert U.S. influence in Latin America, though the risks of backlash and regional instability remain high.
+  **Neoliberal Economics at a Crossroads**
   
-  **Heightened Nuclear Tensions**
-  Concerns are mounting over the Trump administration’s approach to Russia and the Middle East. **Michael Hudson** warns that the U.S. government’s perception of these foreign conflicts could “lead to a heightened risk of nuclear war,” especially as rhetoric and military posturing escalate. The majority of analysts agree that the current U.S. posture is increasing the probability of miscalculation, with a high chance of further deterioration in U.S.-Russia relations.
+  According to **Michael Hudson**, the neoliberal economic framework—characterized by financialization and the prioritization of rentier interests over productive investment—is showing signs of reaching its limits. In his recent discussion with Glenn Diesen, Hudson argues that the disconnect between GDP growth and real goods production has become increasingly apparent, with much of the so-called economic expansion driven by speculative finance rather than tangible output. This trend, he notes, undermines the foundations of classical political economy and signals a potential turning point: “The rentier mirage is no longer sustainable as the basis for long-term economic progress.”
   
-  **Economic and Financial Strains**
-  On the economic front, the U.S. Federal Reserve’s recent decision to decrease interest rates has sparked controversy. **Radhika Desai** and **Michael Hudson** discuss how this move, influenced by political pressures from the Trump administration, reflects deeper structural challenges in the U.S. financial system. There is a consensus that ongoing military spending, trade wars, and policy missteps are exacerbating the U.S. balance of payments deficit, with negative repercussions for both domestic and global markets.
+  **Escalation of U.S. Covert Operations**
+  
+  On the geopolitical front, revelations about ongoing CIA operations targeting Venezuela have resurfaced. **Michael Hudson** and **Richard Wolff** discuss reports that the Trump administration continues to authorize covert actions aimed at destabilizing President Nicolás Maduro’s government. Republican Senator Rick Scott’s public comments underscore the precariousness of Maduro’s position and suggest bipartisan support for regime change efforts. This development reflects a broader pattern of U.S. interventionism in Latin America, with significant implications for regional stability.
+  
+  **Nuclear Tensions and U.S. Foreign Policy**
+  
+  The risk of escalation in global conflict remains a central concern. In a recent roundtable, **Michael Hudson** warned that the Trump administration’s approach to Russia and the Middle East increases the likelihood of miscalculation and potential nuclear confrontation. The majority view among analysts is that current U.S. rhetoric and policy moves are eroding traditional diplomatic safeguards, heightening the probability of crisis. As Hudson puts it, “The perception of foreign conflicts as zero-sum games is a recipe for disaster.”
   
   **Trends and Predictions**
-  The prevailing trend is one of increasing polarization and instability, both regionally and globally. The U.S. is doubling down on interventionist policies, particularly in Latin America and the Middle East, while economic pressures at home and abroad are mounting. Given the current trajectory, I guarantee that geopolitical tensions—especially with Russia and in the Western Hemisphere—will continue to escalate in the coming months. The risk of unintended conflict remains high, and the likelihood of significant economic disruptions is most definite if current policies persist.
+  
+  The prevailing trend is a gradual erosion of U.S. hegemony, as both economic and geopolitical tools lose effectiveness in a more multipolar world. The shift away from productive investment towards financial speculation is widely seen as unsustainable, and analysts agree that a major economic adjustment is likely in the near to medium term. On the geopolitical front, the continuation of covert operations and aggressive posturing increases the risk of unintended escalation, particularly in regions like Latin America and Eastern Europe.
+  
+  Based on the majority of expert opinions, there is a high chance that the current economic model will face significant challenges in the coming year, with a quite likely scenario of increased instability in U.S. foreign relations. I guarantee that the trend towards multipolarity will continue, reducing U.S. leverage over both allies and adversaries.
 articles:
+  - title: 'GDP Without Goods: The Rentier Mirage'
+    url: https://michael-hudson.com/2025/10/gdp-without-goods-the-rentier-mirage/
+    text: 'GLENN DIESEN: Welcome back to the program. We are joined again by our good
+      friend Professor Michael Hudson to discuss neoliberal economics, its unavoidable
+      end and what comes thereafter. So welcome back to the program. MICHAEL HUDSON:
+      Good to be back, Glenn. GLENN DIESEN: So is this the end of the economic model
+      we’ve seen, I guess, at least since the 1980s? Or to maybe take a step back, how
+      would you define neoliberal economics? And why do you think it may have reached
+      its unavoidable terminal stage? MICHAEL HUDSON: I can’t talk about neoliberal
+      economics without contrasting it to the original liberal economics, which was
+      classical political economy and the whole theory of value, price, and rent. From
+      the physiocrats through Adam Smith, John Stuart Mill, Marx, and the whole rest
+      of the 19th century, the whole idea of economic policy driving an increase in
+      output more efficiently and measuring economic progress was based on value and
+      price theory. And what Ricardo called the labor theory of value was really the
+      price theory of rent. Prices were the excess of the market price over value. Rent
+      was the excess of price. In other words, commodities had a cost of production.
+      How did the market price ever become more than the cost of production? Well, land
+      rent was the main reason. And the whole fight of the early 19th century politically
+      was to free industrial capitalism from the legacy of feudalism, above all in the
+      form of a landlord class, a hereditary landlord class wanting land rent. And the
+      whole fight that led to David Ricardo’s refinement of Adam Smith’s theories and
+      the physiocratic theories of value was the fight over tariffs that occurred after
+      the Napoleonic Wars. What I’m talking about may seem to be a distraction, but
+      it’s the key to understand neoliberal economics and its GDP accounting, its idea
+      of national income accounting, all as part of a counterrevolution against the
+      concept of free markets that Adam Smith, Mill, Marx, and the whole 19th century
+      had. The problem after the Napoleonic Wars was the Napoleonic blockade of trade
+      with Britain ended. All of a sudden, Britain, which had become dependent on domestic
+      food production during the wars, found low-priced food imports coming. The landlords
+      protested. They said, this means we’re getting less rents. You have to impose
+      tariffs to block imports so that we are going to be able to keep our land rent
+      high. And Ricardo and his followers – they were called Ricardian socialists –
+      said, ‘Are we going to sacrifice the whole economy just so that landlords are
+      going to be able to make increased rent?’ The industrialists said, We have hopes
+      of making Britain the workshop of the world. In order to become the workshop of
+      the world, we have to create our industrial manufacturers at a lower price than
+      abroad. In order to have industrial capitalism rise to dominate rivals, we’re
+      in a race to cut costs to basically the minimum. And if we have to pay our employees
+      a high enough wage to cover artificially high food prices to produce land rents
+      for the landlords, then we’re not going to be able to compete with industries
+      in the United States and other countries that have lower-cost food production
+      and don’t have to pay their labor anywhere near as much.        So the whole dynamic of industrial capitalism from its takeoff in the late 18th
+      century was to rationalize economies and to get rid of unnecessary costs of production.
+      John Stuart Mill summarized this in saying land rent and the increasing price
+      of land are what landlords make in their sleep. It’s not a product. It’s what
+      we call today a transfer payment. And if we have to support an economic rentier
+      class, then we’re not going to be able to become a competitive industrial economy.
+      This concept of a free market is a market free from economic rent and free from
+      any kind of unearned income that is not a product but is simply a privilege: the
+      privilege of landlords to own land and to be able to use their wealth to control
+      parliaments, to support their rents and hence food prices, the privilege of monopolies
+      to increase the price of their products without actually reflecting increasing
+      costs. The contrast between the market price that the population had to pay for
+      their products and the actual production was supposed to be minimized by industrial
+      capitalism in order to make it more efficient. And being more efficient, the rentier-free
+      economies would become the dominant industrial economies. That was the whole guiding
+      principle of classical economics as developed in Britain and later by France,
+      Germany, and by the United States. You wanted to tax away landlords and land instead
+      of taxing labor and industry. The whole critique of the physiocrats, the critique
+      of Adam Smith, was that the landlords were a basically parasitic class that got
+      income without producing anything. And the idea was to not let the landlords’
+      control of parliament shift the tax burden onto labor through excise taxes or
+      industry through profit taxes and income taxes that didn’t distinguish between
+      earned income and unearned income. The whole idea of productive labor, productive
+      spending, and productive investment. Productive investment was investment that
+      created a product. And it wasn’t investment that created an opportunity for charging
+      rent and unearned income on this product.        So, value theory became the whole essence of classical economics. And that led
+      to parliamentary reform because the Ricardians took 30 years for the industrialists
+      in Britain to join with the population to extend the vote to labor so that they
+      would vote against the landlord interest and repeal the Corn Laws 30 years later,
+      in 1846, and then go on to try to shift the tax off labor and industry onto land.
+      By 1909 and 1910, the House of Commons in Britain actually passed a land tax,
+      and it was vetoed by the House of Lords. And that created a constitutional crisis
+      that lasted from 1909 to 1911. The result was that the British Constitution passed
+      a rule that the House of Lords, dominated by the landed interest, could never
+      again veto a revenue act passed by the House of Commons. That was the whole fight
+      of classical economics to say, we want to support productive income, which is
+      actually a necessary cost of production. We don’t want to untax and promote rent-seeking,
+      which is not a cost of production but is a charge like a tax on the rest of the
+      economy…        Anyway, by the late 19th century, as you can imagine, the landlords fought back
+      against this. They tried to argue against this, and increasingly they were supported
+      by the banking system. The bankers found that by getting rid of the hereditary
+      landed aristocracy that owned the land in Britain, you’d democratized land rent
+      and housing and commercial real estate. Anybody since the late 19th century can
+      buy their own house; anybody can buy their own commercial building. In that sense,
+      it’s a free market. But in order to buy a home, new buyers have to go into debt
+      because they don’t have enough money to pay the lump sum for a property. They
+      take out a mortgage. The result is that against classical economics – Adam Smith,
+      John Stuart Mill, the first line of the Communist Manifesto, the whole 19th-century
+      movement to tax land rent – the bankers said, well, if we can prevent this land
+      rent from being taxed, it’ll be available to be paid as interest to us. And they
+      joined the real estate sector and the monopoly sector and the oil and gas industries
+      in creating an alternative to the liberal economics and classical economics. Thorstein
+      Veblen called this neoclassical. He didn’t mean that it was a new form of classical
+      economics. It was the antithesis. And what he meant by that was that this counter-ideological
+      counter-reaction against the classical concept of free markets, a market free
+      from economic rent, turned it into the opposite: a market free for rent-seeking,
+      for rent to be untaxed and unregulated, for monopolies not to be subject to antitrust
+      and anti-monopoly regulation, and for banks to essentially be free to lobby to
+      try to get into their own hands as much of the rising price of land as a result
+      of rising prosperity, public improvements, and the growth of population. Bankers
+      knew that whatever was not paid to the tax collector was available to pay to the
+      bankers. And if you’re going to buy a house, buyers bid against each other, and
+      the winning buyer is the person who can raise the biggest mortgage from the bank.        And so the price of housing, real estate, is worth whatever a bank will lend against
+      it. So the democratization of land ownership and of economic rent went hand in
+      hand with the financialization and privatization of this rent, not with its socialization,
+      which the classical economists would’ve wanted. This may seem a diversion, but
+      it’s the victory of the anti-classicists claiming that there was no such thing
+      as economic rent, that everybody’s income was productive, that the landlord was
+      productive in providing the service of managing the property and deciding whom
+      are you going to rent to. The banker was productive in deciding who’s going to
+      be credit-worthy and a sound customer. Even the monopolist was productive in rationalizing
+      markets. So all of a sudden, the class of rent recipients, land rent, natural
+      resource rent, monopoly rent, interest and financial charges as rent: all of that
+      was deemed productive, not unproductive. The result is that in today’s national
+      income and product accounts and the GDP accounts, all of the rent-seeking by these
+      classes, landlords, monopolists, the financial sector, and the oil and gas industry,
+      all of these economic rents are counted as part of the GDP. There’s no such thing
+      as unearned income. And the productivity of, say, a banker is however much money
+      he charges for the banking service.        In 2010, the head of Goldman Sachs, the investment banking firm in America, said
+      that partners and employees of Goldman Sachs were the most productive workers
+      in the United States because they made the most money. And you can look at the
+      national income accounts, and all of their income is viewed as a cost of doing
+      business. This is the opposite of classical economics, in which it’s not a product,
+      it’s economic overhead. It’s a transfer payment. Today, for instance, probably
+      almost all of the growth or even more than all of the growth in U.S. GDP, and
+      I think much European GDP, also is not industry and agriculture and transportation
+      creating a product. It’s this rentier overhead that is not part of a production
+      process, but part of the circulation process, part of the transfer payments that
+      are achieved by the vested interests, using their political power to gain economic
+      benefits of untaxing their economic rents and doing exactly what had happened
+      under feudalism, transferring the fiscal burden off the landlords, off the monopolists,
+      off the bankers, onto labor and industry. That’s exactly why the physiocrats said
+      France and Spain and other similar countries that are strongly royalist could
+      not industrialize until they changed the tax system. When Adam Smith traveled
+      to Europe before writing the Wealth of Nations, he was convinced that this basic
+      approach was right. And he set about refining a more logical theory of value and
+      prices that was then refined by Ricardo, Malthus, socialists, Marxists, and in
+      the United States by the business schools, Thorstein Veblen, all of the industrial
+      promoters that wanted to see their economies industrialize and become the major
+      industrial nations.        Fast forward to today, you have just the opposite idea of a free market, a market
+      free for the rent seekers. As a result, in the United States much of what is counted
+      as gross national product is not a product. Can you say that charging interest
+      produces a product? One element of GDP is derived from this: the Census Department
+      or the Bureau of Labor Statistics go around interviewing households in the United
+      States and asking, if you own your own home, what if you had to rent the property
+      that you now own? How much would you charge in rent? Because you own it and, by
+      our count, all of the rent that people pay is part of the cost to the economy
+      of doing business. So we have to count the value of your increased rent and the
+      increased price of the home that you have.        Well, is this creating a profit when the banks will lend more money by increasing
+      the debt-income ratio so that borrowers can borrow more and more and more money?
+      This is what led to the 2008 real estate crisis. One hundred percent mortgages
+      and interest-only mortgages to carry the debt. All of this was counted as if it
+      were not only contributing to GDP, but making the economy more prosperous. But
+      it actually didn’t. Because, as the opportunities for rent-seeking became more
+      remunerative than tangible capital formation and building factories and employing
+      labor to produce more products, you had the United States and the European economies
+      deindustrializing. You had the financialization of the corporate sector. You had
+      corporate raiding. You had mergers and acquisitions. You had a shift in the focus
+      of what industrial development is all about, in the sense of how do you make a
+      fortune quickest. The corporate economy realized that they could make a fortune
+      faster by using the profits that they made on their business for stock buybacks
+      and to pay out as dividends. Because doing this, paying 94% of their profits for
+      the S&P 500 on stock buybacks and dividends created more capital gains in the
+      form of rising stock prices than they ever could have made by investing more and
+      making a profit on actual industrialization.        This is the motivation of the turn away from the classical focus on the idea of
+      an economy creating value, towards the neoliberal i.e., anti-liberal/anti-classical
+      idea of, well, let’s focus on just making money as if it’s all homogenized and
+      there’s no distinction between productive and unproductive investment, no distinction
+      between making a fortune by developing a new product and building factories to
+      produce, or taking over an existing factory and carving it up and increasing the
+      stock price by stopping investing in long-term capital formation, long-term research
+      and development. Let’s just live in the short run and push up the price of our
+      stocks now. Then we can use the profits we make, the capital gains we make, and
+      later. If you look at how wealth is accumulated in the United States… imagine,
+      here’s like the GDP in earnings, earnings by labor, the wages, and profits of
+      corporations. And on top of that, a much faster increase in the value of stocks,
+      bonds, and real estate. I should say the price of stocks, bonds, and real estate
+      increasing each year is larger than the whole GDP. This is a distortion of the
+      whole concept of what industrial growth is.        What does this mean for today’s economic diplomacy and the world? Almost all the
+      popular media and academic reports contrast the U.S. GDP to European GDP, to China’s
+      GDP. As if it was all the same kind of GDP. One GDP is another GDP. The difference
+      is that China has been the country that has most of all followed the same classical
+      policy of industrial capitalism that made Britain, France, Germany, and the United
+      States rich. China sort of reinvented the wheel independently of looking at the
+      history of economic thought. It figured out, let’s design an economy of engineers.
+      And that’s because most of the Central Committee of China’s Communist Party are
+      engineers. They’re not taken from Wall Street. They’re not bankers. They’re not
+      financial engineers. They’re industrial engineers or scientific engineers, not
+      financialization.        So they have real product GDP, whereas the GDP that the United States and Europe
+      are producing is largely anti-product. They’re the sphere, the rentier income,
+      which has to be paid by labor and capital. That was the whole essence of Ricardian
+      economics, of John Stuart Mill, of socialist economics, of the two volumes, volumes
+      2 and 3 of Capital that Marx wrote, and the economics taught in American business
+      schools by professors such as Simon Patten and later expressed in political terms
+      by Thorstein Veblen in the United States. We’re really dealing with two different
+      philosophies of what economic production and economic growth are all about. Is
+      it going to be industrial growth, of actual product that raises living standards
+      and productivity? Or is it going to be at the expense of labor and capital to
+      create a rentier class at the top of the economic pyramid that uses more and more
+      of its rentier income to cut taxes on itself and to buy control of the political
+      campaign process to make sure that its fiscal policies untax it, shift the taxes
+      onto industry, and endow business schools to teach a neoclassical economic curriculum
+      that denies the concept of economic rent?        You have Milton Friedman saying there is no such thing as a free lunch. But the
+      rentier economy is all about a free lunch. Getting a monopoly privilege is a free
+      lunch. Making income in your sleep, whether you’re a landlord or a banker, is
+      getting a free lunch. That’s what makes neoliberalism so destructive of the industrial
+      economy, just as was forecast by Ricardo. Ricardo wrote a wonderful chapter saying,
+      We’re headed for economic Armageddon. If we do not have free trade, if we insist
+      that Britain relies entirely on domestic farming for its food, as the population
+      increases, Ricardo thought you had to move to less and less fertile soils and
+      productivity would decline and you’d have rising food prices. He said economic
+      rent, land rent specifically, is going to absorb all of the economic surplus over
+      and above subsistence standards. Then there will be no way of making profits at
+      this point because no industrialists can afford to hire labor that has to pay
+      such high prices for food that if we pay the high prices that will be transferred
+      to the landlords in the form of higher rents, then we can’t possibly compete with
+      other countries with lower costs of food production. And his followers added,
+      or with monopolies or with the financial sector. So there was a whole perception
+      already in 1817 with Ricardo’s writing on economic rent that anticipated that
+      first land rent. By the end of the 19th century, you had the whole balance of
+      the classical economists, saying not only land rent will force up the cost of
+      doing business, wages and industry and agriculture. Monopolies will force up the
+      cost of living and doing business. Finance and debt financing and banking are
+      going to increase the cost. We’ve got to move towards what basically everybody
+      called socialism at that time. It wasn’t a bad term. Today, you have to realize
+      that if Adam Smith and John Stuart Mill were writing today, they would be called
+      Marxists. And why would they be called Marxists? Because they talk about value
+      and price. And the counter-revolution against classical economics has been so
+      intense to reject the concept of economic rent that the only political group that
+      continued to talk about rent and unearned income and exploitation were the Marxists.        But what Marx was doing was simply codifying and perfecting and extending the
+      concept of land rent and monopoly rent to the financial sector in volumes 2 and
+      3 of his capital and volumes two and three of what was the first history of economic
+      thought, Marx’s theories of surplus value, which was not published until after
+      he died when it was edited by Karl Kautsky. But Marx placed himself in the classical
+      tradition. So the rejection of classical economics became a rejection of Marxism,
+      and it was called Marxism and called socialism. The Ricardian socialists, they
+      called themselves that, were not Marxists because Marx wasn’t writing yet. The
+      whole idea of socialism was natural monopolies should be kept in the public domain,
+      as public utilities, like electricity, like communications, the BBC, like education,
+      should be a public utility. Healthcare could be a public utility. That wasn’t
+      a left-wing policy. That was the policy of Britain’s conservatives, led by Benjamin
+      Disraeli. He said, health, all is health. All of these ideas that, in order to
+      avoid monopoly rent from sectors that are naturally monopolies, the government
+      should provide these monopoly services. And unlike corporate private enterprise,
+      the objective of government investment in education, health care, transportation,
+      and communication is not to make a profit. It’s to minimize the price so that
+      you can subsidize the whole rest of the economy so that the rest of the economy
+      does not have to pay an overhead by, say, labor wanting to go to college to get
+      an education, to get a better job. You don’t want labor to be burdened with consumer
+      debt, with education debt, automobile debt, high prices for transport, privatized
+      privatization, privatized communication, transportation, and privatized health
+      care as you have in the United States.        In the United States, if you look at the GDP and national income accounts, 18%
+      of U.S. national income is for medical insurance and medical care. How can the
+      United States expect to reshore its industrialization when its labor has to pay
+      such enormous costs for health care that no other country has to pay? If you’re
+      an industrialist hiring labor here with similar technology that’s available to
+      all the other countries, how are you going to compete with an efficiently run
+      economy that has socialized these basic costs and that subsidizes the costs of
+      living? Without which, industrial employers would otherwise have to pay their
+      labor high enough wages so that they could afford to pay the privatized health
+      care, the privatized education system, and so on? We’re dealing with two different
+      economic philosophies there, and so neoliberalism is the opposite: the antithesis,
+      actually a radical revolution against classical economics. That’s one of the reasons
+      why, at American universities, there’s no longer the history of economic thought
+      being taught as a core course in the doctoral program for economic PhDs. There’s
+      not even an economic history taught. So you have a generation of economic students
+      being taught and graduating without any idea that this two-century-long ideological
+      fight occurred over the concept of value, price, rent, what is production, what
+      is a free lunch, what is earned income, what is unearned income, what is productive
+      labor versus investment versus unproductive investment. All of these core concepts
+      that guided every successful industrial nation in its takeoff have been rejected.        So it’s hardly surprising that the West has followed an opposite policy from the
+      original dynamic of industrial capitalism, and only China’s socialism with Chinese
+      characteristics follows the American, German, classical economic, and industrial
+      capitalism worldview. GLENN DIESEN: I’m very glad you mentioned the GDP because
+      the way GDP covers up for evil rising rents and monopoly income, it’s often ignored.
+      And indeed, we see GDP as a measurement over time becoming less and less reliable.
+      But there is something fascinating, though, about, as you suggest, the ideology
+      of this whole new neoliberal economics. Everyone more or less realized that neoliberal
+      economics and unfettered markets often produce this kind of monopolies and economic
+      inequalities. It offers less worker protection. We already know this. We know
+      that this can fuel social problems. When the oligarchies developed with no limits
+      on rent seekers, it created political instability when people have less vested
+      interest in the status quo, political polarization, and even less role for democracy.
+      Again, all of these things are known, but in this ideological speech we now have,
+      it’s still dismissed as communism or socialism. But this was the language of Alexander
+      Hamilton or Henry Clay or Friedrich List. So it is quite extraordinary. But after
+      this period of globalization, we have this idea from the early 90s that this would
+      deliver harmony and perpetual growth. However, at the same time, everyone realizes
+      that these unfettered market forces would create the problems which we have today.
+      Yet it’s quite extraordinary, though, as academics, we can’t really go to any
+      university across the West where you can challenge the whole role of unfettered
+      markets. It’s quite extraordinary. MICHAEL HUDSON: Before that, let me say one
+      thing: what you just used: the word market. It’s as if the market is something
+      universal and objective. Every market is shaped by laws and by the regulatory
+      system. You can have a market that has anti-monopoly laws, antitrust laws that
+      prevent monopolies, or you can have a market where either there are no laws or
+      where the antitrust legislation simply is not enforced. You can have a market
+      that keeps natural monopolies and education and healthcare, as public utilities,
+      or a privatized market. There’s no such thing as a market itself. And the word
+      capitalism is used for economies all the way. I’ve seen people call Mesopotamia
+      in the Babylonian, the third millennium, capitalist because people made money
+      off capital. The distinction between industrial capital and financial capital
+      is different. I want to make one point. Let’s say we’re looking at an economy
+      from here on in, and you’re looking at what is the structure of economic growth
+      of Europe or America or any other economy. GDP is expected to grow maybe very,
+      very little, 1% to two percent a year. But the interest rates are now, for long-term
+      interest rates, four percent a year. Well, you can imagine how much faster the
+      financial debt overhead grows than the real economy. That’s been happening since
+      1945. It’s actually been happening for over 100 years. And so the accumulation
+      of financial fortunes grows faster than the cost value of all the factories and
+      machinery and agriculture, industry, agriculture, commerce. You have this financial
+      overhead growing, and the financial overhead sector backs the real estate overhead.
+      And if you look at land prices and land valuation, that’s going much faster than
+      GDP. All of the growth in economic rent is faster than the growth in profits and
+      wages. Wages are the cost of living; the actual wages in the United States have
+      drifted down. And in Germany now, you’re seeing even the GDP shows that it’s shrinking.
+      And yet the interest rates are rising. You’re seeing an economic polarization
+      that impoverishes the economy because this polarization is not turning income
+      and wealth into the hands of producers, but into the hands of an economic overhead
+      rentier class. That’s why the missing concept in understanding neoliberalism is
+      the absence of the concept of economic rent. GLENN DIESEN: I was curious, though.
+      If this is more or less predictable, how we ended up here? What do you see as
+      happening at the end of the road of this neoliberal economic model? Because, as
+      you said, it has exhausted itself. The United States, for example, can’t compete
+      in an open free market against the Chinese economy. And the extent of concentration
+      of wealth and rent-seeking within various Western economies has become so extreme
+      that it’s suffocating the possibility of further growth. Even if you have a consumer-driven
+      economy, even the lack of consumption is causing some problems here. But what
+      is it that follows the neoliberal model? Because often you get these arguments
+      that neoliberalism would, for example, transition into fascism, or you have this
+      idea that it could restart again from scratch, but it would have to have some
+      kind of revolutionary moment… not in the communist way, but some kind of collapse
+      to reset. Because, traditionally, when you have this kind of concentration of
+      wealth, for example, when you have the world wars, it has a resetting effect.        But how do you see what comes after this? MICHAEL HUDSON: Well, I prefer to use
+      the term neo-feudalism to fascism because people don’t understand what it was
+      all about. It was essentially financialization taking over economies and large
+      corporate wealth. It was the class war. And I think when you say neo-feudalism,
+      you actually look at how banking and landowning interests control society. The
+      result you quite correctly put in the international context. Trump’s policy and
+      deep state behind him realized that America, as long as it continues to follow
+      a neoliberal financialized economy of finance capitalism and not industrial capitalism,
+      will fall further and further behind. How is it going to cope? Well, the first
+      response is exactly what Trump has done in the last six months. He says, let’s
+      exploit foreign countries and make foreign countries provide the United States
+      economy with the income and wealth that we’re no longer producing here.        This is why he convinced von der Leyen and the European Union to surrender to
+      Trump’s demands that Europe make huge concessions to the United States and be
+      willing to commit economic suicide itself to help the United States. Well, in
+      order to do this, the United States had to put in place a whole 75 years of foreign
+      diplomatic control through the National Endowment of democracy, of interference
+      and meddling in foreign European political affairs, assassinating socialists such
+      as Aldoro Moro of Italy when they threatened not to support U.S. dominance. You
+      have the United States saying, well, let’s tell Japan that they have to pay a
+      $350 billion protection racket to the United States in order for us not to wreck
+      their economy with tariffs. And the United States then saw that Japan wasn’t fighting
+      back, so it went to Korea and said, Korea has to spend $350 billion. The Korean
+      president and foreign minister said, we don’t have $350 billion. We’re not as
+      wealthy as Japan. Trump said, you have to pay us anyway, or we will wreck your
+      economy by blocking Hyundai and automobiles and other exports, and we’re going
+      to block your electronics exports if you don’t relocate here. This is the policy.
+      America is unable to strong-arm countries that are not its allies into doing this.
+      So America has said, well, what are allies for? What’s the European community
+      for? What are Japan, Korea, Australia, and New Zealand for, if not to do to us,
+      what the British Empire did to India and all of them apart from the British Empire?
+      They have to keep all their savings and economic surplus in the financial center,
+      not Britain any longer, but now it’s in the United States. The result will be
+      that there’s going to be a polarization abroad. And at some point, presumably,
+      Europe is going to say: Do we really want to impoverish German industry by spending
+      four times as much money on U.S. liquefied natural gas as we’d have to spend on
+      Russian gas? The fact is, we’ve had to close down. What is Europe going to look
+      like without an industry that can no longer afford to pay the high prices of depending
+      on the United States? It’s very much like Ricardo defined the British future.
+      What if Britain has to depend on their own landlords for higher-priced food?        Well, what if Europe has to depend on America for higher-priced energy and for
+      monopoly products such as information technology, ship-making, and all this? Well,
+      the German reaction by the Christian Democrats under Merz has been: maybe military
+      Keynesianism will work. Mainly if we cut back our spending on education, on social
+      spending, cut back the spending on labor, cut back the social services, cut back
+      the social economy and reduce everybody’s living standards by 10% by essentially
+      becoming a military economy. Maybe that’ll create prosperity. But given the fact
+      that Europe’s monetary philosophy is not as progressive as the American philosophy,
+      which is just “we can always just create the money to spend into the economy,”
+      Europe is subject to, I won’t say a balanced budget, but to almost a balanced
+      budget with the constraint of you can’t run up a debt of more than 5% of the GDP.
+      Compare that to the United States economy and raising the debt. Europe is imposing
+      monetary austerity on its economy, such as the International Monetary Fund has
+      been imposing on global south countries for the last 75 years. It’s again, this
+      is monetary and financial suicide that leads to economic suicide. And again, there
+      doesn’t seem to be any memory of the fact that there is an alternative. It’s as
+      if all Europe has gone Thatcherite and believes there’s no alternative. Of course,
+      there is an alternative. China shows there’s an alternative. Or the American industrial
+      takeoff in the 19th century shows there’s an alternative. Or Germany’s industrial
+      takeoff leading up to World War I from Bismarck shows there’s an alternative.
+      But this is no longer taught. It’s as if Bismarck was a Marxist, the Americans
+      were Marxist. It’s if all that is socialism. All of this is called Marxist, and
+      it’s almost like a religion treats the devil.        So, it’s somehow unthinkable to have an alternative where you actually focus on
+      reindustrializing the economy by doing what successful Asian economies did, what
+      the successful American economy did, and what the successful German and British
+      economy did. They avoid privatization of monopolies. They avoid privatization
+      of the land rent. Instead, you financialize them instead of socializing them.
+      So if you’re going to have an asocial, asocialist economic philosophy and social
+      philosophy, you’re going to have an anti-industrial philosophy. There has to be
+      knowledge of an economic alternative. That’s why I took this half hour at the
+      beginning to explain that there is this whole body of history and of economic
+      thought that used to be common knowledge in everybody’s textbook. They all knew
+      what Adam Smith wrote. They knew what John Stuart Mill wrote. They even knew what
+      Marx and the Socialists wrote, and Thorstein Veblen and other economists describing
+      the laws of motion of industrialization. Now all of that is set aside just for
+      doing a statistical analysis of what purports to be an empirical analysis, but
+      is based on economic categories that are not a map… they’re a map, but not a territory.
+      The economic map that’s drawn by European economists and governments of GDP and
+      national income and product account is not the territory of the real economy.
+      That’s the crisis, the intellectual and ideological crisis at the root of European
+      and U.S. stagnation and deindustrialization. GLENN DIESEN: Professor Hudson, thank
+      you so much. It does surprise me that all the writings of the industrial capitalists
+      have been reduced almost to ideological slogans. And I find the comments on GDP
+      to be especially important because they kind of buy into this themselves whenever
+      they assess the comparisons between different economies. So, for example, the
+      common slogan in Europe, because we’re now at de facto war with Russia, is that
+      the Russians have a GDP the size of Spain. But no one then seems to bridge it
+      with, how do we explain that their industrial production can outproduce all of
+      NATO combined and then some? It’s an excellent point. So, thank you so much for
+      your time. I always appreciate it. MICHAEL HUDSON: Well, I discussed these concepts
+      in Killing the Host, which is translated into German as Der Sektor. So, the books
+      are published in German and English. They’re available. And my other book, The
+      Destiny of Civilization, is all about how what we’re in today is an epoch of finance
+      capitalism antithetical to industrial capitalism. GLENN DIESEN: Yeah, I’ll leave
+      that link in the description as well, Killing the Host, how financial parasites
+      and debt bondage destroy the global economy. So, yes, go to the link and read
+      this because it seems to be extremely relevant these days. Thanks again. MICHAEL
+      HUDSON: Well, thanks for giving me an opportunity to make my points. Transcription
+      and Diarization: https://scripthub.dev Editing: ton yeh Review: ced Photo by Fadhil
+      Abhimantra on Unsplash The post GDP Without Goods: The Rentier Mirage first appeared
+      on Michael Hudson .'
+    one_sentence_summary: In a discussion between Glenn Diesen and Professor Michael
+      Hudson, they explore the concept of neoliberal economics, its historical context,
+      and argue that it may be reaching its inevitable end, contrasting it with classical
+      political economy and its foundational theories of value and economic progress.
+    paragraph_summary: In a discussion with Glenn Diesen, Professor Michael Hudson critiques
+      neoliberal economics, suggesting it may be reaching its inevitable conclusion.
+      He contrasts neoliberalism with classical political economy, which emphasized
+      the relationship between value, price, and rent, tracing its roots from the physiocrats
+      through influential thinkers like Adam Smith and Marx. Hudson argues that the
+      original liberal economic theories aimed to enhance output efficiency and measure
+      progress based on value, while neoliberalism represents a counterrevolution against
+      these principles, particularly in its approach to GDP and national income accounting.
+      He highlights the historical struggle against the feudal legacy of land rent as
+      central to understanding the evolution of economic thought and the current state
+      of neoliberalism.
+    published: '2025-10-23T19:25:05+00:00'
+  - title: 'GDP Without Goods: The Rentier Mirage'
+    url: https://michael-hudson.com/2025/10/gdp-without-goods-the-rentier-mirage/
+    text: 'GLENN DIESEN: Welcome back to the program. We are joined again by our good
+      friend Professor Michael Hudson to discuss neoliberal economics, its unavoidable
+      end and what comes thereafter. So welcome back to the program. MICHAEL HUDSON:
+      Good to be back, Glenn. GLENN DIESEN: So is this the end of the economic model
+      we’ve seen, I guess, at least since the 1980s? Or to maybe take a step back, how
+      would you define neoliberal economics? And why do you think it may have reached
+      its unavoidable terminal stage? MICHAEL HUDSON: I can’t talk about neoliberal
+      economics without contrasting it to the original liberal economics, which was
+      classical political economy and the whole theory of value, price, and rent. From
+      the physiocrats through Adam Smith, John Stuart Mill, Marx, and the whole rest
+      of the 19th century, the whole idea of economic policy driving an increase in
+      output more efficiently and measuring economic progress was based on value and
+      price theory. And what Ricardo called the labor theory of value was really the
+      price theory of rent. Prices were the excess of the market price over value. Rent
+      was the excess of price. In other words, commodities had a cost of production.
+      How did the market price ever become more than the cost of production? Well, land
+      rent was the main reason. And the whole fight of the early 19th century politically
+      was to free industrial capitalism from the legacy of feudalism, above all in the
+      form of a landlord class, a hereditary landlord class wanting land rent. And the
+      whole fight that led to David Ricardo’s refinement of Adam Smith’s theories and
+      the physiocratic theories of value was the fight over tariffs that occurred after
+      the Napoleonic Wars. What I’m talking about may seem to be a distraction, but
+      it’s the key to understand neoliberal economics and its GDP accounting, its idea
+      of national income accounting, all as part of a counterrevolution against the
+      concept of free markets that Adam Smith, Mill, Marx, and the whole 19th century
+      had. The problem after the Napoleonic Wars was the Napoleonic blockade of trade
+      with Britain ended. All of a sudden, Britain, which had become dependent on domestic
+      food production during the wars, found low-priced food imports coming. The landlords
+      protested. They said, this means we’re getting less rents. You have to impose
+      tariffs to block imports so that we are going to be able to keep our land rent
+      high. And Ricardo and his followers – they were called Ricardian socialists –
+      said, ‘Are we going to sacrifice the whole economy just so that landlords are
+      going to be able to make increased rent?’ The industrialists said, We have hopes
+      of making Britain the workshop of the world. In order to become the workshop of
+      the world, we have to create our industrial manufacturers at a lower price than
+      abroad. In order to have industrial capitalism rise to dominate rivals, we’re
+      in a race to cut costs to basically the minimum. And if we have to pay our employees
+      a high enough wage to cover artificially high food prices to produce land rents
+      for the landlords, then we’re not going to be able to compete with industries
+      in the United States and other countries that have lower-cost food production
+      and don’t have to pay their labor anywhere near as much.        So the whole dynamic of industrial capitalism from its takeoff in the late 18th
+      century was to rationalize economies and to get rid of unnecessary costs of production.
+      John Stuart Mill summarized this in saying land rent and the increasing price
+      of land are what landlords make in their sleep. It’s not a product. It’s what
+      we call today a transfer payment. And if we have to support an economic rentier
+      class, then we’re not going to be able to become a competitive industrial economy.
+      This concept of a free market is a market free from economic rent and free from
+      any kind of unearned income that is not a product but is simply a privilege: the
+      privilege of landlords to own land and to be able to use their wealth to control
+      parliaments, to support their rents and hence food prices, the privilege of monopolies
+      to increase the price of their products without actually reflecting increasing
+      costs. The contrast between the market price that the population had to pay for
+      their products and the actual production was supposed to be minimized by industrial
+      capitalism in order to make it more efficient. And being more efficient, the rentier-free
+      economies would become the dominant industrial economies. That was the whole guiding
+      principle of classical economics as developed in Britain and later by France,
+      Germany, and by the United States. You wanted to tax away landlords and land instead
+      of taxing labor and industry. The whole critique of the physiocrats, the critique
+      of Adam Smith, was that the landlords were a basically parasitic class that got
+      income without producing anything. And the idea was to not let the landlords’
+      control of parliament shift the tax burden onto labor through excise taxes or
+      industry through profit taxes and income taxes that didn’t distinguish between
+      earned income and unearned income. The whole idea of productive labor, productive
+      spending, and productive investment. Productive investment was investment that
+      created a product. And it wasn’t investment that created an opportunity for charging
+      rent and unearned income on this product.        So, value theory became the whole essence of classical economics. And that led
+      to parliamentary reform because the Ricardians took 30 years for the industrialists
+      in Britain to join with the population to extend the vote to labor so that they
+      would vote against the landlord interest and repeal the Corn Laws 30 years later,
+      in 1846, and then go on to try to shift the tax off labor and industry onto land.
+      By 1909 and 1910, the House of Commons in Britain actually passed a land tax,
+      and it was vetoed by the House of Lords. And that created a constitutional crisis
+      that lasted from 1909 to 1911. The result was that the British Constitution passed
+      a rule that the House of Lords, dominated by the landed interest, could never
+      again veto a revenue act passed by the House of Commons. That was the whole fight
+      of classical economics to say, we want to support productive income, which is
+      actually a necessary cost of production. We don’t want to untax and promote rent-seeking,
+      which is not a cost of production but is a charge like a tax on the rest of the
+      economy…        Anyway, by the late 19th century, as you can imagine, the landlords fought back
+      against this. They tried to argue against this, and increasingly they were supported
+      by the banking system. The bankers found that by getting rid of the hereditary
+      landed aristocracy that owned the land in Britain, you’d democratized land rent
+      and housing and commercial real estate. Anybody since the late 19th century can
+      buy their own house; anybody can buy their own commercial building. In that sense,
+      it’s a free market. But in order to buy a home, new buyers have to go into debt
+      because they don’t have enough money to pay the lump sum for a property. They
+      take out a mortgage. The result is that against classical economics – Adam Smith,
+      John Stuart Mill, the first line of the Communist Manifesto, the whole 19th-century
+      movement to tax land rent – the bankers said, well, if we can prevent this land
+      rent from being taxed, it’ll be available to be paid as interest to us. And they
+      joined the real estate sector and the monopoly sector and the oil and gas industries
+      in creating an alternative to the liberal economics and classical economics. Thorstein
+      Veblen called this neoclassical. He didn’t mean that it was a new form of classical
+      economics. It was the antithesis. And what he meant by that was that this counter-ideological
+      counter-reaction against the classical concept of free markets, a market free
+      from economic rent, turned it into the opposite: a market free for rent-seeking,
+      for rent to be untaxed and unregulated, for monopolies not to be subject to antitrust
+      and anti-monopoly regulation, and for banks to essentially be free to lobby to
+      try to get into their own hands as much of the rising price of land as a result
+      of rising prosperity, public improvements, and the growth of population. Bankers
+      knew that whatever was not paid to the tax collector was available to pay to the
+      bankers. And if you’re going to buy a house, buyers bid against each other, and
+      the winning buyer is the person who can raise the biggest mortgage from the bank.        And so the price of housing, real estate, is worth whatever a bank will lend against
+      it. So the democratization of land ownership and of economic rent went hand in
+      hand with the financialization and privatization of this rent, not with its socialization,
+      which the classical economists would’ve wanted. This may seem a diversion, but
+      it’s the victory of the anti-classicists claiming that there was no such thing
+      as economic rent, that everybody’s income was productive, that the landlord was
+      productive in providing the service of managing the property and deciding whom
+      are you going to rent to. The banker was productive in deciding who’s going to
+      be credit-worthy and a sound customer. Even the monopolist was productive in rationalizing
+      markets. So all of a sudden, the class of rent recipients, land rent, natural
+      resource rent, monopoly rent, interest and financial charges as rent: all of that
+      was deemed productive, not unproductive. The result is that in today’s national
+      income and product accounts and the GDP accounts, all of the rent-seeking by these
+      classes, landlords, monopolists, the financial sector, and the oil and gas industry,
+      all of these economic rents are counted as part of the GDP. There’s no such thing
+      as unearned income. And the productivity of, say, a banker is however much money
+      he charges for the banking service.        In 2010, the head of Goldman Sachs, the investment banking firm in America, said
+      that partners and employees of Goldman Sachs were the most productive workers
+      in the United States because they made the most money. And you can look at the
+      national income accounts, and all of their income is viewed as a cost of doing
+      business. This is the opposite of classical economics, in which it’s not a product,
+      it’s economic overhead. It’s a transfer payment. Today, for instance, probably
+      almost all of the growth or even more than all of the growth in U.S. GDP, and
+      I think much European GDP, also is not industry and agriculture and transportation
+      creating a product. It’s this rentier overhead that is not part of a production
+      process, but part of the circulation process, part of the transfer payments that
+      are achieved by the vested interests, using their political power to gain economic
+      benefits of untaxing their economic rents and doing exactly what had happened
+      under feudalism, transferring the fiscal burden off the landlords, off the monopolists,
+      off the bankers, onto labor and industry. That’s exactly why the physiocrats said
+      France and Spain and other similar countries that are strongly royalist could
+      not industrialize until they changed the tax system. When Adam Smith traveled
+      to Europe before writing the Wealth of Nations, he was convinced that this basic
+      approach was right. And he set about refining a more logical theory of value and
+      prices that was then refined by Ricardo, Malthus, socialists, Marxists, and in
+      the United States by the business schools, Thorstein Veblen, all of the industrial
+      promoters that wanted to see their economies industrialize and become the major
+      industrial nations.        Fast forward to today, you have just the opposite idea of a free market, a market
+      free for the rent seekers. As a result, in the United States much of what is counted
+      as gross national product is not a product. Can you say that charging interest
+      produces a product? One element of GDP is derived from this: the Census Department
+      or the Bureau of Labor Statistics go around interviewing households in the United
+      States and asking, if you own your own home, what if you had to rent the property
+      that you now own? How much would you charge in rent? Because you own it and, by
+      our count, all of the rent that people pay is part of the cost to the economy
+      of doing business. So we have to count the value of your increased rent and the
+      increased price of the home that you have.        Well, is this creating a profit when the banks will lend more money by increasing
+      the debt-income ratio so that borrowers can borrow more and more and more money?
+      This is what led to the 2008 real estate crisis. One hundred percent mortgages
+      and interest-only mortgages to carry the debt. All of this was counted as if it
+      were not only contributing to GDP, but making the economy more prosperous. But
+      it actually didn’t. Because, as the opportunities for rent-seeking became more
+      remunerative than tangible capital formation and building factories and employing
+      labor to produce more products, you had the United States and the European economies
+      deindustrializing. You had the financialization of the corporate sector. You had
+      corporate raiding. You had mergers and acquisitions. You had a shift in the focus
+      of what industrial development is all about, in the sense of how do you make a
+      fortune quickest. The corporate economy realized that they could make a fortune
+      faster by using the profits that they made on their business for stock buybacks
+      and to pay out as dividends. Because doing this, paying 94% of their profits for
+      the S&P 500 on stock buybacks and dividends created more capital gains in the
+      form of rising stock prices than they ever could have made by investing more and
+      making a profit on actual industrialization.        This is the motivation of the turn away from the classical focus on the idea of
+      an economy creating value, towards the neoliberal i.e., anti-liberal/anti-classical
+      idea of, well, let’s focus on just making money as if it’s all homogenized and
+      there’s no distinction between productive and unproductive investment, no distinction
+      between making a fortune by developing a new product and building factories to
+      produce, or taking over an existing factory and carving it up and increasing the
+      stock price by stopping investing in long-term capital formation, long-term research
+      and development. Let’s just live in the short run and push up the price of our
+      stocks now. Then we can use the profits we make, the capital gains we make, and
+      later. If you look at how wealth is accumulated in the United States… imagine,
+      here’s like the GDP in earnings, earnings by labor, the wages, and profits of
+      corporations. And on top of that, a much faster increase in the value of stocks,
+      bonds, and real estate. I should say the price of stocks, bonds, and real estate
+      increasing each year is larger than the whole GDP. This is a distortion of the
+      whole concept of what industrial growth is.        What does this mean for today’s economic diplomacy and the world? Almost all the
+      popular media and academic reports contrast the U.S. GDP to European GDP, to China’s
+      GDP. As if it was all the same kind of GDP. One GDP is another GDP. The difference
+      is that China has been the country that has most of all followed the same classical
+      policy of industrial capitalism that made Britain, France, Germany, and the United
+      States rich. China sort of reinvented the wheel independently of looking at the
+      history of economic thought. It figured out, let’s design an economy of engineers.
+      And that’s because most of the Central Committee of China’s Communist Party are
+      engineers. They’re not taken from Wall Street. They’re not bankers. They’re not
+      financial engineers. They’re industrial engineers or scientific engineers, not
+      financialization.        So they have real product GDP, whereas the GDP that the United States and Europe
+      are producing is largely anti-product. They’re the sphere, the rentier income,
+      which has to be paid by labor and capital. That was the whole essence of Ricardian
+      economics, of John Stuart Mill, of socialist economics, of the two volumes, volumes
+      2 and 3 of Capital that Marx wrote, and the economics taught in American business
+      schools by professors such as Simon Patten and later expressed in political terms
+      by Thorstein Veblen in the United States. We’re really dealing with two different
+      philosophies of what economic production and economic growth are all about. Is
+      it going to be industrial growth, of actual product that raises living standards
+      and productivity? Or is it going to be at the expense of labor and capital to
+      create a rentier class at the top of the economic pyramid that uses more and more
+      of its rentier income to cut taxes on itself and to buy control of the political
+      campaign process to make sure that its fiscal policies untax it, shift the taxes
+      onto industry, and endow business schools to teach a neoclassical economic curriculum
+      that denies the concept of economic rent?        You have Milton Friedman saying there is no such thing as a free lunch. But the
+      rentier economy is all about a free lunch. Getting a monopoly privilege is a free
+      lunch. Making income in your sleep, whether you’re a landlord or a banker, is
+      getting a free lunch. That’s what makes neoliberalism so destructive of the industrial
+      economy, just as was forecast by Ricardo. Ricardo wrote a wonderful chapter saying,
+      We’re headed for economic Armageddon. If we do not have free trade, if we insist
+      that Britain relies entirely on domestic farming for its food, as the population
+      increases, Ricardo thought you had to move to less and less fertile soils and
+      productivity would decline and you’d have rising food prices. He said economic
+      rent, land rent specifically, is going to absorb all of the economic surplus over
+      and above subsistence standards. Then there will be no way of making profits at
+      this point because no industrialists can afford to hire labor that has to pay
+      such high prices for food that if we pay the high prices that will be transferred
+      to the landlords in the form of higher rents, then we can’t possibly compete with
+      other countries with lower costs of food production. And his followers added,
+      or with monopolies or with the financial sector. So there was a whole perception
+      already in 1817 with Ricardo’s writing on economic rent that anticipated that
+      first land rent. By the end of the 19th century, you had the whole balance of
+      the classical economists, saying not only land rent will force up the cost of
+      doing business, wages and industry and agriculture. Monopolies will force up the
+      cost of living and doing business. Finance and debt financing and banking are
+      going to increase the cost. We’ve got to move towards what basically everybody
+      called socialism at that time. It wasn’t a bad term. Today, you have to realize
+      that if Adam Smith and John Stuart Mill were writing today, they would be called
+      Marxists. And why would they be called Marxists? Because they talk about value
+      and price. And the counter-revolution against classical economics has been so
+      intense to reject the concept of economic rent that the only political group that
+      continued to talk about rent and unearned income and exploitation were the Marxists.        But what Marx was doing was simply codifying and perfecting and extending the
+      concept of land rent and monopoly rent to the financial sector in volumes 2 and
+      3 of his capital and volumes two and three of what was the first history of economic
+      thought, Marx’s theories of surplus value, which was not published until after
+      he died when it was edited by Karl Kautsky. But Marx placed himself in the classical
+      tradition. So the rejection of classical economics became a rejection of Marxism,
+      and it was called Marxism and called socialism. The Ricardian socialists, they
+      called themselves that, were not Marxists because Marx wasn’t writing yet. The
+      whole idea of socialism was natural monopolies should be kept in the public domain,
+      as public utilities, like electricity, like communications, the BBC, like education,
+      should be a public utility. Healthcare could be a public utility. That wasn’t
+      a left-wing policy. That was the policy of Britain’s conservatives, led by Benjamin
+      Disraeli. He said, health, all is health. All of these ideas that, in order to
+      avoid monopoly rent from sectors that are naturally monopolies, the government
+      should provide these monopoly services. And unlike corporate private enterprise,
+      the objective of government investment in education, health care, transportation,
+      and communication is not to make a profit. It’s to minimize the price so that
+      you can subsidize the whole rest of the economy so that the rest of the economy
+      does not have to pay an overhead by, say, labor wanting to go to college to get
+      an education, to get a better job. You don’t want labor to be burdened with consumer
+      debt, with education debt, automobile debt, high prices for transport, privatized
+      privatization, privatized communication, transportation, and privatized health
+      care as you have in the United States.        In the United States, if you look at the GDP and national income accounts, 18%
+      of U.S. national income is for medical insurance and medical care. How can the
+      United States expect to reshore its industrialization when its labor has to pay
+      such enormous costs for health care that no other country has to pay? If you’re
+      an industrialist hiring labor here with similar technology that’s available to
+      all the other countries, how are you going to compete with an efficiently run
+      economy that has socialized these basic costs and that subsidizes the costs of
+      living? Without which, industrial employers would otherwise have to pay their
+      labor high enough wages so that they could afford to pay the privatized health
+      care, the privatized education system, and so on? We’re dealing with two different
+      economic philosophies there, and so neoliberalism is the opposite: the antithesis,
+      actually a radical revolution against classical economics. That’s one of the reasons
+      why, at American universities, there’s no longer the history of economic thought
+      being taught as a core course in the doctoral program for economic PhDs. There’s
+      not even an economic history taught. So you have a generation of economic students
+      being taught and graduating without any idea that this two-century-long ideological
+      fight occurred over the concept of value, price, rent, what is production, what
+      is a free lunch, what is earned income, what is unearned income, what is productive
+      labor versus investment versus unproductive investment. All of these core concepts
+      that guided every successful industrial nation in its takeoff have been rejected.        So it’s hardly surprising that the West has followed an opposite policy from the
+      original dynamic of industrial capitalism, and only China’s socialism with Chinese
+      characteristics follows the American, German, classical economic, and industrial
+      capitalism worldview. GLENN DIESEN: I’m very glad you mentioned the GDP because
+      the way GDP covers up for evil rising rents and monopoly income, it’s often ignored.
+      And indeed, we see GDP as a measurement over time becoming less and less reliable.
+      But there is something fascinating, though, about, as you suggest, the ideology
+      of this whole new neoliberal economics. Everyone more or less realized that neoliberal
+      economics and unfettered markets often produce this kind of monopolies and economic
+      inequalities. It offers less worker protection. We already know this. We know
+      that this can fuel social problems. When the oligarchies developed with no limits
+      on rent seekers, it created political instability when people have less vested
+      interest in the status quo, political polarization, and even less role for democracy.
+      Again, all of these things are known, but in this ideological speech we now have,
+      it’s still dismissed as communism or socialism. But this was the language of Alexander
+      Hamilton or Henry Clay or Friedrich List. So it is quite extraordinary. But after
+      this period of globalization, we have this idea from the early 90s that this would
+      deliver harmony and perpetual growth. However, at the same time, everyone realizes
+      that these unfettered market forces would create the problems which we have today.
+      Yet it’s quite extraordinary, though, as academics, we can’t really go to any
+      university across the West where you can challenge the whole role of unfettered
+      markets. It’s quite extraordinary. MICHAEL HUDSON: Before that, let me say one
+      thing: what you just used: the word market. It’s as if the market is something
+      universal and objective. Every market is shaped by laws and by the regulatory
+      system. You can have a market that has anti-monopoly laws, antitrust laws that
+      prevent monopolies, or you can have a market where either there are no laws or
+      where the antitrust legislation simply is not enforced. You can have a market
+      that keeps natural monopolies and education and healthcare, as public utilities,
+      or a privatized market. There’s no such thing as a market itself. And the word
+      capitalism is used for economies all the way. I’ve seen people call Mesopotamia
+      in the Babylonian, the third millennium, capitalist because people made money
+      off capital. The distinction between industrial capital and financial capital
+      is different. I want to make one point. Let’s say we’re looking at an economy
+      from here on in, and you’re looking at what is the structure of economic growth
+      of Europe or America or any other economy. GDP is expected to grow maybe very,
+      very little, 1% to two percent a year. But the interest rates are now, for long-term
+      interest rates, four percent a year. Well, you can imagine how much faster the
+      financial debt overhead grows than the real economy. That’s been happening since
+      1945. It’s actually been happening for over 100 years. And so the accumulation
+      of financial fortunes grows faster than the cost value of all the factories and
+      machinery and agriculture, industry, agriculture, commerce. You have this financial
+      overhead growing, and the financial overhead sector backs the real estate overhead.
+      And if you look at land prices and land valuation, that’s going much faster than
+      GDP. All of the growth in economic rent is faster than the growth in profits and
+      wages. Wages are the cost of living; the actual wages in the United States have
+      drifted down. And in Germany now, you’re seeing even the GDP shows that it’s shrinking.
+      And yet the interest rates are rising. You’re seeing an economic polarization
+      that impoverishes the economy because this polarization is not turning income
+      and wealth into the hands of producers, but into the hands of an economic overhead
+      rentier class. That’s why the missing concept in understanding neoliberalism is
+      the absence of the concept of economic rent. GLENN DIESEN: I was curious, though.
+      If this is more or less predictable, how we ended up here? What do you see as
+      happening at the end of the road of this neoliberal economic model? Because, as
+      you said, it has exhausted itself. The United States, for example, can’t compete
+      in an open free market against the Chinese economy. And the extent of concentration
+      of wealth and rent-seeking within various Western economies has become so extreme
+      that it’s suffocating the possibility of further growth. Even if you have a consumer-driven
+      economy, even the lack of consumption is causing some problems here. But what
+      is it that follows the neoliberal model? Because often you get these arguments
+      that neoliberalism would, for example, transition into fascism, or you have this
+      idea that it could restart again from scratch, but it would have to have some
+      kind of revolutionary moment… not in the communist way, but some kind of collapse
+      to reset. Because, traditionally, when you have this kind of concentration of
+      wealth, for example, when you have the world wars, it has a resetting effect.        But how do you see what comes after this? MICHAEL HUDSON: Well, I prefer to use
+      the term neo-feudalism to fascism because people don’t understand what it was
+      all about. It was essentially financialization taking over economies and large
+      corporate wealth. It was the class war. And I think when you say neo-feudalism,
+      you actually look at how banking and landowning interests control society. The
+      result you quite correctly put in the international context. Trump’s policy and
+      deep state behind him realized that America, as long as it continues to follow
+      a neoliberal financialized economy of finance capitalism and not industrial capitalism,
+      will fall further and further behind. How is it going to cope? Well, the first
+      response is exactly what Trump has done in the last six months. He says, let’s
+      exploit foreign countries and make foreign countries provide the United States
+      economy with the income and wealth that we’re no longer producing here.        This is why he convinced von der Leyen and the European Union to surrender to
+      Trump’s demands that Europe make huge concessions to the United States and be
+      willing to commit economic suicide itself to help the United States. Well, in
+      order to do this, the United States had to put in place a whole 75 years of foreign
+      diplomatic control through the National Endowment of democracy, of interference
+      and meddling in foreign European political affairs, assassinating socialists such
+      as Aldoro Moro of Italy when they threatened not to support U.S. dominance. You
+      have the United States saying, well, let’s tell Japan that they have to pay a
+      $350 billion protection racket to the United States in order for us not to wreck
+      their economy with tariffs. And the United States then saw that Japan wasn’t fighting
+      back, so it went to Korea and said, Korea has to spend $350 billion. The Korean
+      president and foreign minister said, we don’t have $350 billion. We’re not as
+      wealthy as Japan. Trump said, you have to pay us anyway, or we will wreck your
+      economy by blocking Hyundai and automobiles and other exports, and we’re going
+      to block your electronics exports if you don’t relocate here. This is the policy.
+      America is unable to strong-arm countries that are not its allies into doing this.
+      So America has said, well, what are allies for? What’s the European community
+      for? What are Japan, Korea, Australia, and New Zealand for, if not to do to us,
+      what the British Empire did to India and all of them apart from the British Empire?
+      They have to keep all their savings and economic surplus in the financial center,
+      not Britain any longer, but now it’s in the United States. The result will be
+      that there’s going to be a polarization abroad. And at some point, presumably,
+      Europe is going to say: Do we really want to impoverish German industry by spending
+      four times as much money on U.S. liquefied natural gas as we’d have to spend on
+      Russian gas? The fact is, we’ve had to close down. What is Europe going to look
+      like without an industry that can no longer afford to pay the high prices of depending
+      on the United States? It’s very much like Ricardo defined the British future.
+      What if Britain has to depend on their own landlords for higher-priced food?        Well, what if Europe has to depend on America for higher-priced energy and for
+      monopoly products such as information technology, ship-making, and all this? Well,
+      the German reaction by the Christian Democrats under Merz has been: maybe military
+      Keynesianism will work. Mainly if we cut back our spending on education, on social
+      spending, cut back the spending on labor, cut back the social services, cut back
+      the social economy and reduce everybody’s living standards by 10% by essentially
+      becoming a military economy. Maybe that’ll create prosperity. But given the fact
+      that Europe’s monetary philosophy is not as progressive as the American philosophy,
+      which is just “we can always just create the money to spend into the economy,”
+      Europe is subject to, I won’t say a balanced budget, but to almost a balanced
+      budget with the constraint of you can’t run up a debt of more than 5% of the GDP.
+      Compare that to the United States economy and raising the debt. Europe is imposing
+      monetary austerity on its economy, such as the International Monetary Fund has
+      been imposing on global south countries for the last 75 years. It’s again, this
+      is monetary and financial suicide that leads to economic suicide. And again, there
+      doesn’t seem to be any memory of the fact that there is an alternative. It’s as
+      if all Europe has gone Thatcherite and believes there’s no alternative. Of course,
+      there is an alternative. China shows there’s an alternative. Or the American industrial
+      takeoff in the 19th century shows there’s an alternative. Or Germany’s industrial
+      takeoff leading up to World War I from Bismarck shows there’s an alternative.
+      But this is no longer taught. It’s as if Bismarck was a Marxist, the Americans
+      were Marxist. It’s if all that is socialism. All of this is called Marxist, and
+      it’s almost like a religion treats the devil.        So, it’s somehow unthinkable to have an alternative where you actually focus on
+      reindustrializing the economy by doing what successful Asian economies did, what
+      the successful American economy did, and what the successful German and British
+      economy did. They avoid privatization of monopolies. They avoid privatization
+      of the land rent. Instead, you financialize them instead of socializing them.
+      So if you’re going to have an asocial, asocialist economic philosophy and social
+      philosophy, you’re going to have an anti-industrial philosophy. There has to be
+      knowledge of an economic alternative. That’s why I took this half hour at the
+      beginning to explain that there is this whole body of history and of economic
+      thought that used to be common knowledge in everybody’s textbook. They all knew
+      what Adam Smith wrote. They knew what John Stuart Mill wrote. They even knew what
+      Marx and the Socialists wrote, and Thorstein Veblen and other economists describing
+      the laws of motion of industrialization. Now all of that is set aside just for
+      doing a statistical analysis of what purports to be an empirical analysis, but
+      is based on economic categories that are not a map… they’re a map, but not a territory.
+      The economic map that’s drawn by European economists and governments of GDP and
+      national income and product account is not the territory of the real economy.
+      That’s the crisis, the intellectual and ideological crisis at the root of European
+      and U.S. stagnation and deindustrialization. GLENN DIESEN: Professor Hudson, thank
+      you so much. It does surprise me that all the writings of the industrial capitalists
+      have been reduced almost to ideological slogans. And I find the comments on GDP
+      to be especially important because they kind of buy into this themselves whenever
+      they assess the comparisons between different economies. So, for example, the
+      common slogan in Europe, because we’re now at de facto war with Russia, is that
+      the Russians have a GDP the size of Spain. But no one then seems to bridge it
+      with, how do we explain that their industrial production can outproduce all of
+      NATO combined and then some? It’s an excellent point. So, thank you so much for
+      your time. I always appreciate it. MICHAEL HUDSON: Well, I discussed these concepts
+      in Killing the Host, which is translated into German as Der Sektor. So, the books
+      are published in German and English. They’re available. And my other book, The
+      Destiny of Civilization, is all about how what we’re in today is an epoch of finance
+      capitalism antithetical to industrial capitalism. GLENN DIESEN: Yeah, I’ll leave
+      that link in the description as well, Killing the Host, how financial parasites
+      and debt bondage destroy the global economy. So, yes, go to the link and read
+      this because it seems to be extremely relevant these days. Thanks again. MICHAEL
+      HUDSON: Well, thanks for giving me an opportunity to make my points. Transcription
+      and Diarization: https://scripthub.dev Editing: ton yeh Review: ced Photo by Fadhil
+      Abhimantra on Unsplash The post GDP Without Goods: The Rentier Mirage first appeared
+      on Michael Hudson .'
+    one_sentence_summary: In a discussion between Glenn Diesen and Professor Michael
+      Hudson, they explore the concept of neoliberal economics, its historical context,
+      and argue that it may be reaching its inevitable end, contrasting it with classical
+      political economy and its foundational theories of value and economic progress.
+    paragraph_summary: In a discussion with Glenn Diesen, Professor Michael Hudson critiques
+      neoliberal economics, suggesting it may be reaching its inevitable conclusion.
+      He contrasts neoliberalism with classical political economy, which emphasized
+      the relationship between value, price, and rent, tracing its roots from the physiocrats
+      through influential thinkers like Adam Smith and Marx. Hudson argues that the
+      original liberal economic theories aimed to enhance output efficiency and measure
+      progress based on value, while neoliberalism represents a counterrevolution against
+      these principles, particularly in its approach to GDP and national income accounting.
+      He highlights the historical struggle against the feudal legacy of land rent as
+      central to understanding the evolution of economic thought and the current state
+      of neoliberalism.
+    published: '2025-10-23T19:25:05+00:00'
   - title: Managed Democracy?
     url: https://michael-hudson.com/2025/10/managed-democracy/
     text: 'NIMA ALKHORSHID: Hi, everybody. Today is Thursday, October 16, 2025, and

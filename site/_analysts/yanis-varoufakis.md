@@ -8,16 +8,238 @@ websites:
   - https://www.yanisvaroufakis.eu/
   - https://www.project-syndicate.org/columnist/yanis-varoufakis
 summary: |
-  As of October 22, 2025, the global geopolitical landscape remains shaped by mounting economic, political, and social tensions, with new developments underscoring the fragility of established systems and the urgency for coordinated action.
+  As of October 29, 2025, the global geopolitical landscape is increasingly shaped by the interplay between economic systems, ongoing conflicts, and the rise of new social movements. The most recent developments highlight the deepening crisis in Palestine, the persistent vulnerabilities within the global financial system, and the evolving discourse on resistance and solidarity.
   
-  The most recent focus comes from **Yanis Varoufakis**’s launch of "RAISE YOUR SOUL!", a book chronicling a century of resistance against fascism and chauvinism through the lives of five women. While not a direct policy intervention, the work is emblematic of a broader intellectual and activist push to draw lessons from past struggles for justice and apply them to today’s crises. Varoufakis frames this as a source of hope and guidance amid contemporary societal challenges, reflecting a growing sentiment that historical memory is essential for navigating present dangers.
+  The Gaza Tribunal in Istanbul has brought renewed attention to the economic underpinnings of the violence in Palestine. **Yanis Varoufakis** testified before the Jury of Conscience, arguing that "capitalist dynamics contribute to the genocide of the Palestinian people," and emphasizing that global capital continues to profit from the ongoing violence. This perspective is gaining traction among independent analysts, who broadly agree that Western governments and multinational corporations are complicit by perpetuating policies that favor profit over human rights.
   
-  On the economic front, Varoufakis continues to advocate for radical reform of the global monetary system. In his October 10 article, he proposes a "Monetary Commons" leveraging blockchain technology to provide a universal basic dividend, bypassing the need for new taxes or debt. This vision stands in stark contrast to the current dominance of stablecoins by powerful private actors, which he warns could exacerbate inequality and systemic risk. The majority of independent analysts cited agree that the unchecked rise of private digital currencies—especially in the wake of the U.S. Genius Act—poses a significant threat to financial stability. There is a high chance that, without intervention, the next financial crisis will be triggered by instability in the stablecoin sector.
+  Meanwhile, the financial sector faces mounting instability. Recent commentary by **Varoufakis** warns of a looming crisis driven by the proliferation of stablecoins and the depletion of traditional banking funds. He proposes the creation of a "Monetary Commons" using blockchain technology to provide a basic income without new taxes or debt, contrasting this with the current exploitation of digital currencies by powerful interests. This proposal, while innovative, reflects a growing consensus that the global economy is at risk of further shocks if systemic reforms are not enacted.
   
-  Geopolitically, the formation of the Global Alliance for Palestine in July 2025 signals a new phase of international mobilization. As Varoufakis, a steering committee member, argues, Western governments and businesses are complicit in perpetuating violence against Palestinians while publicly supporting a Two State Solution. This coordinated alliance aims to unify disparate pro-Palestinian efforts into effective political action. Given the momentum and breadth of support, I guarantee that the Palestinian issue will remain at the forefront of global civil society campaigns into 2026, with a high chance of increased pressure on Western policymakers.
+  On the social front, there is a notable resurgence in grassroots activism, particularly around the Palestinian cause. The launch of the Global Alliance for Palestine in London earlier this year, as described by **Varoufakis**, aims to unify international support into coordinated political action. However, he also notes a "sad disconnection" between Western campaigns for Palestinian liberation and broader anti-imperialist movements, suggesting that solidarity efforts must be more deeply integrated with historical struggles for justice.
   
-  In summary, the current period is marked by a convergence of grassroots activism, economic innovation, and geopolitical realignment. The trends point toward intensifying demands for systemic change, both in the financial sector and in international solidarity movements. The confidence is high that unless established powers respond with substantive reforms, instability—both economic and political—will deepen in the coming year.
+  Looking ahead, the trends indicate a high likelihood of continued instability in both geopolitical and financial arenas. The majority of analysts agree that unless there is a fundamental shift in the way global capital and political power are exercised, conflicts like that in Palestine will persist, and financial crises will remain a recurring threat. I guarantee that the intersection of economic interests and political violence will remain at the center of global affairs, with grassroots movements playing an increasingly critical role in shaping the discourse and demanding accountability.
 articles:
+  - title: 'Capitalism & Genocide: My testimony at the Gaza Tribunal, Istanbul 23-10-2025'
+    url: https://www.yanisvaroufakis.eu/2025/10/24/capitalism-genocide-my-testimony-at-the-gaza-tribunal-istanbul-23-10-2025/
+    text: 'On 23rd October, I testified in front of the Jury of Conscience in the context
+      of the Gaza Tribunal. My speech focused on the economic forces underpinning the
+      genocide of the Palestinian people. Here it is: My name is Yanis Varoufakis. I
+      am an economist, a politician and activist representing Greece’s MeRA25 as well
+      as the paneuropean radical movement DiEM25, and I am here in my capacity as an
+      expert on the manner in which capitalist dynamics are fuelling and reinforcing
+      the Genocide of the Palestinian people. Today, with a view to assisting the jury
+      to reach an informed verdict, I shall address the economic forces underpinning
+      the complicity of global capital in, initially, the ethnic cleansing of Palestinians
+      and, more recently, their genocide. The jury should want to keep in mind that
+      genocide pays. And, I shall be arguing later, it pays a great deal more now that
+      a new form of capital is involved in its execution To begin, the jury should want
+      to acknowledge that capitalism thrives on human misery and in sheer destruction.
+      There is, therefore, no paradox in the fact that, at a time when demand, production
+      and consumer confidence are falling precipitously in Israel, the Israeli Stock
+      Exchange not only did not fall since the Gaza genocide began but in fact it rose
+      by more than 160%. This reflects the underlying Political Economy of Occupation
+      and, in particular, the manner in which thousands of Israeli companies are intertwined
+      with US, European and Korean mega-corporations – including the world’s weightiest
+      financial conglomerates – comprising an international network that kicked into
+      overdrive after October 2023. The moment the Israeli defence budget doubled, it
+      crowded in large ‘investments’ into Israel’s killing machine. For more detailed
+      information on this, the jury should take into account the Report to the United
+      Nations published by Francesca Albanese, the UN’s Special Raporteur on the Occupied
+      Palestinian Territories entitled ‘From Economy of Occupation to Economy of Genocide’.
+      Of course, none of this is new. History teaches us that economic interests have
+      been key drivers and enablers of colonial enterprises and often of the genocides
+      they perpetrated. The corporate sector has been intrinsic to colonialism since
+      its inception, with corporations – beginning with the Dutch and British East India
+      Companies – historically contributing to the violence against, the exploitation,
+      and ultimately the dispossession of Indigenous people and lands, a mode of domination
+      known as racial colonial capitalism . Israel’s colonization of the occupied Palestinian
+      lands could not have been an exception. The jury should be aware of the manner
+      in which Palestine today demonstrates all three phases of colonial expropriation:
+      First came the phase of unsophisticated expropriation – the brutal plunder of
+      land and the conversion of indigenous people into cheap or even slave labour.
+      That phase, which led to the rise of capitalism in the 18 th Century, was evidenced
+      in Palestine since the Balfour Declaration and, much more so, during and in the
+      aftermath of the Nakba. Palestinian land was brutally expropriated and Palestinians
+      either turned into refugees or encased in Bantustans which ended up, until at
+      least the second intifada, providing cheap labour to the colonisers. The second
+      phase of modern colonialism, also known as neoimperialism, did not so much concern
+      the plunder of land as it was intended to secure markets for the surplus commodities
+      of the capitalist metropoles that the capitalist metropoles could not absorb domestically
+      due to insufficient domestic demand. This neoimperialist dimension also made its
+      appearance in Palestine in connection to the plight of the Palestinian people
+      as Israel began to absorb massive quantities of weaponry imported from the US,
+      Germany and UK, thus contributing significantly to the aggregate demand in those
+      countries. More recently still, the Israeli arms manufacturers have managed to
+      enter this game as exporters – by exporting hi-tech weaponry tried and tested
+      on the Palestinian population to foreign countries, including (shamefully) my
+      own country, Greece, but Arab countries too. The third phase of contemporary capital
+      accumulation feeding expropriation at home and colonialism abroad, is the one
+      I refer to as the technofeudal phase – a phase underpinned by the accumulation
+      of a new, radical form of capital which I have called cloud capital. The jury
+      will want to note that cloud capital is a network of machines (comprising phones,
+      tablets, servers and algorithms) which does something remarkable: we train it
+      to train us to train it to know us well and, eventually, manipulate our behaviour
+      and, therefore, giving the owners of this cloud capital exorbitant powers to do
+      things to us against our will in their interest. In this context, the jury should
+      want to take into account the fact that no country has given as much access to
+      a population’s biometric data as Israel has given to IBM. Since the Gaza genocide
+      began, Microsoft, Amazon, Alphabet and Palantir have been expanding their cloud
+      capital penetration at a breathtaking pace. Face recognition software, target
+      selection algorithms and automated execution systems are being tested in real
+      time, at will, and with fewer ethical constraints than in the case of experiments
+      on laboratory rats. America’s Big Tech could not be happier. War, ladies and gentlemen,
+      was always lucrative. Arms dealers made fortunes from supplying weapons to the
+      highest bidder. Indirectly, all sorts of capital – including capital that produced
+      consumer goods – accumulated faster at times of war and destruction. But, in this
+      technofeudal age, cloud capital accumulates new powers in the battlefields directly
+      by improving its algorithms’ capacity to understand and to manipulate humans.
+      Nothing helps cloud capital improve its efficiency than the real time experience
+      of monitoring and manipulating the behaviour of combatants, of target-selectors,
+      of the politicians that enable these target-selectors and, yes, tragically, of
+      the population targeted for annihilation. The jury should, therefore, be aware
+      of the fact that today’s AI-targeting devices that maximise death and destruction
+      in Gaza will tomorrow morning power up the Amazon or Google or Microsoft algorithms
+      which make us buy stuff we neither need nor want; which poison our conversations
+      in our social media; that drive increasingly dispossessed proletarians, drivers,
+      nurses and warehouse workers. In other words, I call upon the jury to note that
+      what is happening in Palestine, the unfolding ethnic cleansing and genocide, is
+      totally intertwined with the forms of exploitation and the toxification of our
+      social milieu in the rest of the world. In this sense, yes, our freedom in the
+      rest of the world is utterly intertwined with the liberation of Palestinians from
+      colonialism, expropriation, fear and manipulation. To conclude, I would like to
+      thank the jury for its important work and to implore its members to pay attention
+      to the manner in which capitalist dynamics, especially those underpinning the
+      reproduction of cloud capital, are fuelling and reinforcing the Genocide of the
+      Palestinian people. The post Capitalism & Genocide: My testimony at the Gaza Tribunal,
+      Istanbul 23-10-2025 appeared first on Yanis Varoufakis .'
+    one_sentence_summary: Yanis Varoufakis testified before the Jury of Conscience at
+      the Gaza Tribunal, highlighting how capitalist dynamics contribute to the genocide
+      of the Palestinian people and emphasizing that global capital profits from this
+      violence.
+    paragraph_summary: On October 23rd, Yanis Varoufakis testified before the Jury of
+      Conscience at the Gaza Tribunal, focusing on the economic factors contributing
+      to the genocide of the Palestinian people. As an economist and politician representing
+      Greece's MeRA25 and the pan-European movement DiEM25, Varoufakis argued that global
+      capitalism is complicit in the ethnic cleansing and genocide of Palestinians,
+      emphasizing that such atrocities are financially beneficial. He highlighted the
+      paradox of the Israeli Stock Exchange rising by over 160% amidst the ongoing violence,
+      illustrating how capitalism thrives on human suffering and destruction. Varoufakis
+      pointed out the connections between Israeli companies and major international
+      corporations, suggesting that increased military spending has attracted significant
+      investments into Israel's military operations, further entrenching the economic
+      dynamics of occupation. He referenced a UN report by Francesca Albanese to support
+      his claims about the economic underpinnings of the situation.
+    published: '2025-10-24T10:58:26+00:00'
+  - title: 'Capitalism & Genocide: My testimony at the Gaza Tribunal, Istanbul 23-10-2025'
+    url: https://www.yanisvaroufakis.eu/2025/10/24/capitalism-genocide-my-testimony-at-the-gaza-tribunal-istanbul-23-10-2025/
+    text: 'On 23rd October, I testified in front of the Jury of Conscience in the context
+      of the Gaza Tribunal. My speech focused on the economic forces underpinning the
+      genocide of the Palestinian people. Here it is: My name is Yanis Varoufakis. I
+      am an economist, a politician and activist representing Greece’s MeRA25 as well
+      as the paneuropean radical movement DiEM25, and I am here in my capacity as an
+      expert on the manner in which capitalist dynamics are fuelling and reinforcing
+      the Genocide of the Palestinian people. Today, with a view to assisting the jury
+      to reach an informed verdict, I shall address the economic forces underpinning
+      the complicity of global capital in, initially, the ethnic cleansing of Palestinians
+      and, more recently, their genocide. The jury should want to keep in mind that
+      genocide pays. And, I shall be arguing later, it pays a great deal more now that
+      a new form of capital is involved in its execution To begin, the jury should want
+      to acknowledge that capitalism thrives on human misery and in sheer destruction.
+      There is, therefore, no paradox in the fact that, at a time when demand, production
+      and consumer confidence are falling precipitously in Israel, the Israeli Stock
+      Exchange not only did not fall since the Gaza genocide began but in fact it rose
+      by more than 160%. This reflects the underlying Political Economy of Occupation
+      and, in particular, the manner in which thousands of Israeli companies are intertwined
+      with US, European and Korean mega-corporations – including the world’s weightiest
+      financial conglomerates – comprising an international network that kicked into
+      overdrive after October 2023. The moment the Israeli defence budget doubled, it
+      crowded in large ‘investments’ into Israel’s killing machine. For more detailed
+      information on this, the jury should take into account the Report to the United
+      Nations published by Francesca Albanese, the UN’s Special Raporteur on the Occupied
+      Palestinian Territories entitled ‘From Economy of Occupation to Economy of Genocide’.
+      Of course, none of this is new. History teaches us that economic interests have
+      been key drivers and enablers of colonial enterprises and often of the genocides
+      they perpetrated. The corporate sector has been intrinsic to colonialism since
+      its inception, with corporations – beginning with the Dutch and British East India
+      Companies – historically contributing to the violence against, the exploitation,
+      and ultimately the dispossession of Indigenous people and lands, a mode of domination
+      known as racial colonial capitalism . Israel’s colonization of the occupied Palestinian
+      lands could not have been an exception. The jury should be aware of the manner
+      in which Palestine today demonstrates all three phases of colonial expropriation:
+      First came the phase of unsophisticated expropriation – the brutal plunder of
+      land and the conversion of indigenous people into cheap or even slave labour.
+      That phase, which led to the rise of capitalism in the 18 th Century, was evidenced
+      in Palestine since the Balfour Declaration and, much more so, during and in the
+      aftermath of the Nakba. Palestinian land was brutally expropriated and Palestinians
+      either turned into refugees or encased in Bantustans which ended up, until at
+      least the second intifada, providing cheap labour to the colonisers. The second
+      phase of modern colonialism, also known as neoimperialism, did not so much concern
+      the plunder of land as it was intended to secure markets for the surplus commodities
+      of the capitalist metropoles that the capitalist metropoles could not absorb domestically
+      due to insufficient domestic demand. This neoimperialist dimension also made its
+      appearance in Palestine in connection to the plight of the Palestinian people
+      as Israel began to absorb massive quantities of weaponry imported from the US,
+      Germany and UK, thus contributing significantly to the aggregate demand in those
+      countries. More recently still, the Israeli arms manufacturers have managed to
+      enter this game as exporters – by exporting hi-tech weaponry tried and tested
+      on the Palestinian population to foreign countries, including (shamefully) my
+      own country, Greece, but Arab countries too. The third phase of contemporary capital
+      accumulation feeding expropriation at home and colonialism abroad, is the one
+      I refer to as the technofeudal phase – a phase underpinned by the accumulation
+      of a new, radical form of capital which I have called cloud capital. The jury
+      will want to note that cloud capital is a network of machines (comprising phones,
+      tablets, servers and algorithms) which does something remarkable: we train it
+      to train us to train it to know us well and, eventually, manipulate our behaviour
+      and, therefore, giving the owners of this cloud capital exorbitant powers to do
+      things to us against our will in their interest. In this context, the jury should
+      want to take into account the fact that no country has given as much access to
+      a population’s biometric data as Israel has given to IBM. Since the Gaza genocide
+      began, Microsoft, Amazon, Alphabet and Palantir have been expanding their cloud
+      capital penetration at a breathtaking pace. Face recognition software, target
+      selection algorithms and automated execution systems are being tested in real
+      time, at will, and with fewer ethical constraints than in the case of experiments
+      on laboratory rats. America’s Big Tech could not be happier. War, ladies and gentlemen,
+      was always lucrative. Arms dealers made fortunes from supplying weapons to the
+      highest bidder. Indirectly, all sorts of capital – including capital that produced
+      consumer goods – accumulated faster at times of war and destruction. But, in this
+      technofeudal age, cloud capital accumulates new powers in the battlefields directly
+      by improving its algorithms’ capacity to understand and to manipulate humans.
+      Nothing helps cloud capital improve its efficiency than the real time experience
+      of monitoring and manipulating the behaviour of combatants, of target-selectors,
+      of the politicians that enable these target-selectors and, yes, tragically, of
+      the population targeted for annihilation. The jury should, therefore, be aware
+      of the fact that today’s AI-targeting devices that maximise death and destruction
+      in Gaza will tomorrow morning power up the Amazon or Google or Microsoft algorithms
+      which make us buy stuff we neither need nor want; which poison our conversations
+      in our social media; that drive increasingly dispossessed proletarians, drivers,
+      nurses and warehouse workers. In other words, I call upon the jury to note that
+      what is happening in Palestine, the unfolding ethnic cleansing and genocide, is
+      totally intertwined with the forms of exploitation and the toxification of our
+      social milieu in the rest of the world. In this sense, yes, our freedom in the
+      rest of the world is utterly intertwined with the liberation of Palestinians from
+      colonialism, expropriation, fear and manipulation. To conclude, I would like to
+      thank the jury for its important work and to implore its members to pay attention
+      to the manner in which capitalist dynamics, especially those underpinning the
+      reproduction of cloud capital, are fuelling and reinforcing the Genocide of the
+      Palestinian people. The post Capitalism & Genocide: My testimony at the Gaza Tribunal,
+      Istanbul 23-10-2025 appeared first on Yanis Varoufakis .'
+    one_sentence_summary: Yanis Varoufakis testified before the Jury of Conscience at
+      the Gaza Tribunal, highlighting how capitalist dynamics contribute to the genocide
+      of the Palestinian people and emphasizing that global capital profits from this
+      violence.
+    paragraph_summary: On October 23rd, Yanis Varoufakis testified before the Jury of
+      Conscience at the Gaza Tribunal, focusing on the economic factors contributing
+      to the genocide of the Palestinian people. As an economist and politician representing
+      Greece's MeRA25 and the pan-European movement DiEM25, Varoufakis argued that global
+      capitalism is complicit in the ethnic cleansing and genocide of Palestinians,
+      emphasizing that such atrocities are financially beneficial. He highlighted the
+      paradox of the Israeli Stock Exchange rising by over 160% amidst the ongoing violence,
+      illustrating how capitalism thrives on human suffering and destruction. Varoufakis
+      pointed out the connections between Israeli companies and major international
+      corporations, suggesting that increased military spending has attracted significant
+      investments into Israel's military operations, further entrenching the economic
+      dynamics of occupation. He referenced a UN report by Francesca Albanese to support
+      his claims about the economic underpinnings of the situation.
+    published: '2025-10-24T10:58:26+00:00'
   - title: RAISE YOUR SOUL! My new book telling the story of the last 100 years through
       the voices of 5 remarkable women
     url: https://www.yanisvaroufakis.eu/2025/10/15/raise-your-soul-my-new-book-telling-the-story-of-the-last-100-years-through-the-voices-of-5-remarkable-women/

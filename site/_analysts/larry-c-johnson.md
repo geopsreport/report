@@ -7,16 +7,908 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  The geopolitical landscape remains volatile as diplomatic efforts between the United States and Russia face renewed uncertainty. In the latest development, the anticipated meeting between Donald Trump and Vladimir Putin in Budapest has been abruptly canceled. According to **Larry C. Johnson**, a White House official attributed the cancellation to a "productive call" between Secretary of State Marco Rubio and Russian Foreign Minister Sergey Lavrov, but skepticism persists regarding the effectiveness of Trump's attempts to broker a ceasefire in Ukraine.
+  After nearly two weeks in Moscow, the latest insights from **Larry C. Johnson**’s reporting provide a nuanced look at the Russian political and social landscape, as well as the ongoing dynamics of the Ukraine conflict and US-Russia relations.
   
-  This cancellation comes amid ongoing revelations about the complexity of back-channel communications. Recent reports indicate that Trump has engaged in more extensive private conversations with Putin than previously disclosed, suggesting a nuanced and possibly fragmented approach to resolving the Ukraine conflict. Despite these efforts, Putin remains firm on his territorial demands, and there is little indication of flexibility from the Russian side.
+  A key development is the launch of a new podcast series featuring interviews with senior Russian officials, including Alexander Babakov, Deputy Chairman of the State Duma, and Alexander Galushka, former Minister for the Development of the Far East. According to **Johnson**, these conversations will be released over the next two weeks and are expected to offer rare, candid perspectives from within the Russian establishment. This initiative follows Johnson’s recent meetings with a broad spectrum of Russian leaders and experts, which he describes as revealing “fundamental differences in worldview” between Russians and Americans—differences shaped by divergent histories of land expansion and cultural influences.
   
-  On the ground, Russian military operations continue to shape the conflict's trajectory. **Lt. General Apti Alaudinov** recently discussed his leadership in retaking the town of Sudzha in the Kursk region from Ukrainian forces, highlighting the strategic use of infrastructure such as gas pipelines in military operations. These developments underscore the ongoing intensity and complexity of the conflict, with both sides employing a mix of conventional and unconventional tactics.
+  On the domestic front, Johnson continues to challenge Western narratives about Russia’s economic stability. He reports that daily life in Moscow appears normal, with no visible signs of the economic collapse or shortages often cited in Western media. This assessment is supported by firsthand observations and interviews, suggesting that claims of widespread desperation are “exaggerated Western propaganda.”
   
-  Meanwhile, Western narratives about Russia and its leadership remain a point of contention. **Larry C. Johnson** critiques the persistent focus on Vladimir Putin's personality in Western media, arguing that this oversimplification leads to widespread misconceptions about Russia's motives and the broader geopolitical stakes.
+  Diplomatically, the cancellation of the planned Trump-Putin summit in Budapest remains a significant marker. While the White House attributed the cancellation to a “productive” call between Secretary of State Marco Rubio and Russian Foreign Minister Sergey Lavrov, there is skepticism about the effectiveness of Trump’s efforts to broker a Ukraine ceasefire. Meanwhile, Johnson notes that Putin remains unwavering in his territorial demands, and private communications between Trump and Putin may be more extensive than publicly acknowledged.
   
-  Looking ahead, the cancellation of the Trump-Putin summit signals a period of diplomatic stagnation, with "high chance" that substantive progress on a Ukraine ceasefire will remain elusive in the near term. The entrenched positions of both Moscow and Washington, combined with ongoing military operations, suggest that the conflict is set to persist, with only incremental shifts likely barring a major external shock. The prevailing trend is one of continued stalemate, with diplomatic gestures overshadowed by hard realities on the ground.
+  Looking ahead, the trend is toward continued Russian resilience in the face of Western pressure, both economically and diplomatically. Johnson states there is a “high chance” that Western analysts will continue to misread Russian capabilities and intentions, while Moscow will persist in asserting its narrative and strategic interests. The upcoming podcast series is likely to further illuminate these dynamics, providing additional context for understanding Russia’s position on the global stage. Based on the current trajectory, I guarantee that the Russian leadership will remain unified and that Western predictions of imminent instability in Moscow are unfounded.
 articles:
+  - title: Podcasts From Moscow — My Chats with Babakov and Galushka
+    url: https://sonar21.com/podcasts-from-moscow-my-chats-with-babakov-and-galushka/
+    text: I did 25 interview podcasts during my recent sojourn in Moscow. I now have
+      the full English translation and will post two per day for the next two weeks.
+      First up is Alexander Babakov, the Deputy Chairman of the State Duma, and Alexander
+      Galushka, the former Minister of the russian federation for the Development of
+      the Far East. It was an honor to have a relaxed conversation with these two distinguished
+      gentlemen. I hope you enjoy our chat as much as I did. Alexander Mikhailovich
+      Babakov (born February 8, 1963, Chisinau) is a Russian statesman and political
+      figure. Deputy Chairman of the State Duma of the 8th convocation from the “A Just
+      Russia — For Truth” party. Special Representative of the President of Russia for
+      interaction with compatriot organizations abroad. President of the Russian Table
+      Tennis Federation. Former entrepreneur, ex-chairman of the board of directors
+      of FC CSKA. Alexander Sergeevich Galushka (born December 1, 1975, Klin, Moscow
+      Region) is a Russian statesman and public figure. Minister of the Russian Federation
+      for the Development of the Far East (2013-2018). Deputy Secretary of the Public
+      Chamber of the Russian Federation. Chairman of the Coordinating Council under
+      the Public Chamber for National Projects and Population Preservation. Authorized
+      representative of Vladimir Putin in the 2024 elections. Author of strategic initiatives
+      in economics and demography. I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .
+    one_sentence_summary: The author conducted 25 interview podcasts in Moscow, starting
+      with conversations featuring Alexander Babakov, Deputy Chairman of the State Duma,
+      and Alexander Galushka, former Minister for the Development of the Far East, and
+      will post two interviews daily over the next two weeks.
+    paragraph_summary: During a recent trip to Moscow, the author conducted 25 interview
+      podcasts, with plans to release two episodes daily over the next two weeks. The
+      first episode features a conversation with Alexander Babakov, Deputy Chairman
+      of the State Duma, and Alexander Galushka, former Minister for the Development
+      of the Far East. Babakov, a prominent political figure and sports leader, and
+      Galushka, known for his strategic initiatives in economics and demographics, share
+      their insights in a relaxed discussion. The author expresses gratitude for the
+      audience's support and emphasizes the accessibility of the content, which is free
+      of charge and advertising, while also providing an option for donations.
+    published: '2025-10-29T00:39:19+00:00'
+  - title: Podcasts From Moscow — My Chats with Babakov and Galushka
+    url: https://sonar21.com/podcasts-from-moscow-my-chats-with-babakov-and-galushka/
+    text: I did 25 interview podcasts during my recent sojourn in Moscow. I now have
+      the full English translation and will post two per day for the next two weeks.
+      First up is Alexander Babakov, the Deputy Chairman of the State Duma, and Alexander
+      Galushka, the former Minister of the russian federation for the Development of
+      the Far East. It was an honor to have a relaxed conversation with these two distinguished
+      gentlemen. I hope you enjoy our chat as much as I did. Alexander Mikhailovich
+      Babakov (born February 8, 1963, Chisinau) is a Russian statesman and political
+      figure. Deputy Chairman of the State Duma of the 8th convocation from the “A Just
+      Russia — For Truth” party. Special Representative of the President of Russia for
+      interaction with compatriot organizations abroad. President of the Russian Table
+      Tennis Federation. Former entrepreneur, ex-chairman of the board of directors
+      of FC CSKA. Alexander Sergeevich Galushka (born December 1, 1975, Klin, Moscow
+      Region) is a Russian statesman and public figure. Minister of the Russian Federation
+      for the Development of the Far East (2013-2018). Deputy Secretary of the Public
+      Chamber of the Russian Federation. Chairman of the Coordinating Council under
+      the Public Chamber for National Projects and Population Preservation. Authorized
+      representative of Vladimir Putin in the 2024 elections. Author of strategic initiatives
+      in economics and demography. I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .
+    one_sentence_summary: The author conducted 25 interview podcasts in Moscow, starting
+      with conversations featuring Alexander Babakov, Deputy Chairman of the State Duma,
+      and Alexander Galushka, former Minister for the Development of the Far East, and
+      will post two interviews daily over the next two weeks.
+    paragraph_summary: During a recent trip to Moscow, the author conducted 25 interview
+      podcasts, with plans to release two episodes daily over the next two weeks. The
+      first episode features a conversation with Alexander Babakov, Deputy Chairman
+      of the State Duma, and Alexander Galushka, former Minister for the Development
+      of the Far East. Babakov, a prominent political figure and sports leader, and
+      Galushka, known for his strategic initiatives in economics and demographics, share
+      their insights in a relaxed discussion. The author expresses gratitude for the
+      audience's support and emphasizes the accessibility of the content, which is free
+      of charge and advertising, while also providing an option for donations.
+    published: '2025-10-29T00:39:19+00:00'
+  - title: My Final Moscow Report
+    url: https://sonar21.com/my-final-moscow-report/
+    text: 'It has been an amazing 12 days of conversations with a diverse group of Russian
+      political, business and military leaders. I have struggled with technical issues…
+      I can’t upload to YouTube and I can’t access BitChute from Russia. I have the
+      videos of my chats with all of these people listed below, but will have to wait
+      until I’m back in the USA to publish them. There is a fundamental difference in
+      how Russians look at the world compared to Americans. I think it is rooted in
+      the Orthodox tradition. Let me explain. The United States and Russia share a common
+      historical experience of dealing with a large, relatively unexplored mass of land.
+      In the US we called it the Wild West… In Russia it was the Wild East. In both
+      cases there were indigenous populations that inhabited portions of the land. Yet,
+      the Russian expansion to the East contrasts sharply with that of the US moving
+      to the West. The US approach focused on domination, subjugation and genocide…
+      The movie, How the West Was Won , is the best example of this mentality. Russia
+      did the opposite in dealing with their indigenous populations… they generally
+      established collaborative relationships and did not threaten the economic life
+      of the tribes and clans living in Russia’s vast eastern expanse of territory.
+      I am not suggesting that Russia is an Utopian society, but there is a fundamentally
+      different way of looking at the world. Instead of approaching people and countries
+      as a Zero-Sum Game , the Russian approach favors a Positive-Sum Game, i.e., Interactions
+      where the combined gains of all participants are greater than zero. Cooperation
+      and collaboration can create new value, making everyone better off. Here are the
+      final 14 people I interviewed last week: Marina Evgenyevna Kim (born August 11,
+      1983, Leningrad) is a Russian television presenter, journalist, and politician.
+      Member of the Presidium of the Central Council of the “A Just Russia — Patriots
+      — For Truth” party. Secretary of the Presidium for Information Policy. Authorized
+      representative of Vladimir Putin in the 2024 presidential elections. Former host
+      of “Vesti” and “Good Morning” programs. Subject to sanctions by the EU, Switzerland,
+      and Ukraine. Current Status in 2025: Member of the Presidium of the Central Council
+      of “A Just Russia — Patriots — For Truth” Secretary of the Presidium for Information
+      Policy Authorized representative of President Vladimir Putin Politician and public
+      figure Alexey Sergeevich Naumov (born March 23, 1991, Moscow) is a Russian international
+      journalist, political scientist specializing in American studies, and expert in
+      international relations. Expert at the Russian International Affairs Council (RIAC).
+      Former columnist and deputy head of the foreign policy department at Kommersant
+      Publishing House. Participant in the talk show “60 Minutes” on Russia-1 channel.
+      Recipient of the Russian Ministry of Foreign Affairs award “For Contribution to
+      Coverage of Russia’s Foreign Policy Activities.” Current Status in 2025: Expert
+      at the Russian International Affairs Council (RIAC) Columnist for the Carnegie
+      Moscow Center Participant in expert discussions on federal television channels
+      Independent international analyst Alexander Andreyevich Yushchenko (born November
+      19, 1969, Mozyr) is a Russian statesman, politician, and journalist. He is a Deputy
+      of the State Duma of the Federal Assembly of the Russian Federation of the VI,
+      VII, and VIII convocations, representing the Communist Party of the Russian Federation
+      (CPRF). A member of the CPRF faction, he has served as the First Deputy Chairman
+      of the State Duma Committee on Information Policy, Information Technologies, and
+      Communications since 2021. For over 25 years, he has been responsible for public
+      relations and media strategy for the CPRF and is the press secretary for CPRF
+      Chairman Gennady Zyuganov. Current Status (2025): Deputy of the State Duma, VIII
+      Convocation First Deputy Chairman of the State Duma Committee on Information Policy,
+      IT, and Communications Member of the CPRF faction Press Secretary for CPRF Chairman
+      Gennady Zyuganov Apti Aronovich Alaudinov (born October 5, 1973, Gorny settlement,
+      Stavropol Krai) is a Russian military and state figure. Deputy Head of the Main
+      Military-Political Directorate of the Russian Armed Forces. Lieutenant General
+      (2024). Commander of the “Akhmat” special forces unit. Hero of the Russian Federation
+      (2022). Former Deputy Minister of Internal Affairs for the Chechen Republic (2011-2021).
+      Authorized representative of Vladimir Putin in the 2024 elections. Current Status
+      in 2025: Deputy Head of the Main Military-Political Directorate of the Russian
+      Armed Forces Commander of the “Akhmat” special forces unit Secretary of the Council
+      for Economic and Public Security of the Chechen Republic Lieutenant General Alexander
+      Mikhailovich Babakov (born February 8, 1963, Chisinau) is a Russian statesman
+      and political figure. Deputy Chairman of the State Duma of the 8th convocation
+      from the “A Just Russia — For Truth” party. Special Representative of the President
+      of Russia for interaction with compatriot organizations abroad. President of the
+      Russian Table Tennis Federation. Former entrepreneur, ex-chairman of the board
+      of directors of FC CSKA. Current Status in 2025: Deputy Chairman of the State
+      Duma of the Russian Federation Special Representative of the President for work
+      with compatriots abroad President of the Russian Table Tennis Federation Member
+      of the Presidium of the Central Council of the “A Just Russia — Patriots — For
+      Truth” party Igor Olegovich Markov (born January 18, 1973, Odessa) is a Ukrainian
+      politician and entrepreneur with pro-Russian orientation. Chairman of the All-Ukrainian
+      Political Party “Rodina” (Motherland), former deputy of the Verkhovna Rada of
+      Ukraine and the Odessa City Council. Since 2014, he has been in political exile
+      in Russia. Member of the “Committee for the Salvation of Ukraine” under the leadership
+      of Nikolai Azarov. Wanted internationally by Ukraine. Current Status in 2025:
+      Political emigrant in Russia Member of the “Committee for the Salvation of Ukraine”
+      Wanted internationally by Ukraine Publicist and political analyst Vadim Rudolfovich
+      Samoilov (born October 3, 1964, Sverdlovsk) is a Russian rock musician, founder
+      and permanent leader of the band “Agata Kristi” (1985-2010). Vocalist, guitarist,
+      composer, poet, sound producer. Member of the board of the Russian Music Union,
+      participant in the public movement “For Truth.” Known for his pro-government stance
+      and support of the special military operation in Ukraine. Current Status in 2025:
+      Solo musician continuing his work after the dissolution of “Agata Kristi” Member
+      of the board of the Russian Music Union Participant in the “For Truth” public
+      movement Authorized representative of Vladimir Putin (since 2012) Lexus and Vovan
+      This was a real treat. Vovan and Lexus have perfected the art of getting politicians
+      to tell the truth. They’ve done Kamala Harris, George W Bush and Henry Kissinger.
+      This clip with the former French President Hollande is a classic: Vovan is a Russian
+      prankster known for pranking international celebrities and politicians. He is
+      a journalist and lawyer by education. Lexus is a Russian prankster working in
+      the genre of “prank journalism.” He is an economist and lawyer by education The
+      duo has been working together since 2014, specializing in political pranks. 8970214
+      23.07.2025 Международный секретарь грузинской партии “Солидарность во имя Мира”
+      Мамука Пипия участвует в международном семинаре-совещании “Георгиевский трактат:
+      исторический выбор предков” в Москве. Mamuka Pipiya is a Georgian and Russian
+      businessman known for his close ties to Russian political circles. He is the founder
+      and owner of the Pipiya Group of Companies, which implements large-scale infrastructure
+      projects in Moscow and other regions of Russia. He is one of the major contractors
+      in Moscow’s construction sector and is recognized as one of the most influential
+      entrepreneurs of Georgian origin in Russia. Current Status in 2025: President
+      of the Pipiya Group of Companies Member of the Board of the Russian-Georgian Business
+      Council Member of the Public Council under the Moscow City Government Advisor
+      on International Economic Projects Mamuka is a new, dear friend. I was able to
+      spend quite a bit of time with him during my visit. He also owns a Georgian restaurant
+      that serves incredible cuisine. I put on some weight because of him. Alexander
+      Yuryevich Kazakov (born December 6, 1965, Riga) is a Russian political philosopher,
+      television commentator, public figure, and journalist. He is a Co-Chairman of
+      the International “Club of People’s Unity,” and served as an advisor to the first
+      head of the Donetsk People’s Republic (DPR), Alexander Zakharchenko (2014-2018).
+      He is one of the leaders of the Headquarters for the Defense of Russian Schools
+      in Latvia, as well as the founder and ideologist of the United Congress of Russian
+      Communities of Latvia. He acts as a consultant for youth political movements in
+      Russia and is a political consultant specializing in ideologies. He has experience
+      in media and political consulting. Current Status as of 2025: · Co-Chairman of
+      the International “Club of People’s Unity” · Member of the Council on Foreign
+      and Defense Policy · Member of the Russian Writers’ Union · Author of the bestselling
+      book The Fox of the North: The Grand Strategy of Vladimir Putin · Regular expert
+      on Russian political TV and radio talk shows I count Alexander as a new friend
+      as well. I will be posting my interview with him and with Mamuka in the coming
+      days. i Vasily Dmitrievich Vakarov (born May 24, 1966, Iza village, Zakarpattia
+      region) is a Ukrainian lawyer, political scientist, and public figure. Former
+      high-ranking official in the Administration of the President of Ukraine, specializing
+      in anti-corruption policy. Currently a political emigrant in Russia and critic
+      of the Ukrainian government. Listed in the “Peacemaker” database and subject to
+      sanctions by Ukraine’s National Security and Defense Council. Current Status in
+      2025: Political expert on Ukrainian affairs Regular participant in Russian political
+      talk shows Author of publications on the “Voice of Truth” platform Host of a Telegram
+      channel criticizing Ukrainian authorities Eduard Aleksandrovich Basurin (born
+      June 27, 1966, Donetsk) is a military figure of the Donetsk People’s Republic.
+      Former press secretary of the DPR military command (from January 14, 2015), Colonel
+      of the DPR. Graduate of the Donetsk Higher Military-Political School (1987). Has
+      experience serving in the Soviet and Russian armies (1987-1997). Included in EU
+      sanctions lists since February 16, 2015. Current Status in 2025: Retired Colonel
+      of the DPR Former press secretary of the DPR military command Former deputy commander
+      of the DPR Ministry of Defense corps Subject of EU sanctions lists Gennady Zyuganov
+      is a veteran Russian politician who has led the Communist Party of the Russian
+      Federation (CPRF) since its foundation in 1993. Under his leadership, the CPRF
+      has maintained its status as the second most influential political party in Russia
+      and the primary opposition force in the State Duma. Zyuganov is known for his
+      consistent advocacy of socialist ideals, criticism of neoliberal economic policies,
+      and strong positions on national sovereignty. His political stance combines Soviet-era
+      ideology with contemporary patriotism, emphasizing social justice, state control
+      over key industries, and the restoration of Russia’s great-power status. Zyuganov’s
+      influence stems from his ability to mobilize protest votes while remaining within
+      the framework of the political system. He maintains a nuanced relationship with
+      the Kremlin—criticizing government policies on economic and social issues while
+      generally supporting the official line on foreign policy and national security.
+      Mikhail Yefimovich Shvydkoy is a distinguished Russian statesman, public figure,
+      art historian, and television presenter. He currently serves as the Special Representative
+      of the President of the Russian Federation for International Cultural Cooperation.
+      Former Minister of Culture of Russia (2000–2004) and former Director General of
+      the “Kultura” TV channel, he holds a doctorate in Art History and is a professor.
+      He is a recognized expert in international cultural cooperation. Current Status
+      (2025): Special Representative of the President of the Russian Federation for
+      International Cultural Cooperation Chairman of the Russian-Chinese Committee for
+      Friendship, Peace, and Development Member of the Presidential Council for Culture
+      and Art Regular participant in international cultural forums I wish every American
+      could experience what I did during my time in Moscow. Just being able to sit and
+      talk with no restrictions is a tonic the world needs. During a closing press conference
+      hosted by TASS , I compared my experience in Moscow with that of a ten year old
+      boy who asks his parents for a piece of chocolate for Christmas and wakes up on
+      Christmas morning to discover he’s been gifted a chocolate factory, a new pony
+      and a fancy sports car… I learned more from this visit than I expected. I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The author reflects on 12 days of discussions with various
+      Russian leaders, noting the fundamental differences in worldview between Russians
+      and Americans, which he attributes to their distinct historical experiences of
+      land expansion and cultural influences.
+    paragraph_summary: Over a span of 12 days, the author engaged in discussions with
+      a variety of Russian political, business, and military leaders, highlighting a
+      stark contrast in worldviews between Russians and Americans, which he attributes
+      to the Orthodox tradition. While both nations have histories of expanding into
+      largely uncharted territories—America to the West and Russia to the East—their
+      approaches differ significantly. The U.S. expansion was characterized by domination
+      and violence against indigenous populations, whereas Russia tended to foster collaborative
+      relationships with its native tribes. The author argues that this fundamental
+      difference leads to a Russian perspective that favors cooperation and mutual benefit,
+      viewing interactions as a Positive-Sum Game rather than a Zero-Sum Game. He notes
+      technical difficulties in sharing his interviews, which he plans to publish upon
+      returning to the U.S., and lists the final 14 individuals he interviewed, including
+      notable figures like Marina Evgenyevna Kim.
+    published: '2025-10-28T05:05:23+00:00'
+  - title: My Final Moscow Report
+    url: https://sonar21.com/my-final-moscow-report/
+    text: 'It has been an amazing 12 days of conversations with a diverse group of Russian
+      political, business and military leaders. I have struggled with technical issues…
+      I can’t upload to YouTube and I can’t access BitChute from Russia. I have the
+      videos of my chats with all of these people listed below, but will have to wait
+      until I’m back in the USA to publish them. There is a fundamental difference in
+      how Russians look at the world compared to Americans. I think it is rooted in
+      the Orthodox tradition. Let me explain. The United States and Russia share a common
+      historical experience of dealing with a large, relatively unexplored mass of land.
+      In the US we called it the Wild West… In Russia it was the Wild East. In both
+      cases there were indigenous populations that inhabited portions of the land. Yet,
+      the Russian expansion to the East contrasts sharply with that of the US moving
+      to the West. The US approach focused on domination, subjugation and genocide…
+      The movie, How the West Was Won , is the best example of this mentality. Russia
+      did the opposite in dealing with their indigenous populations… they generally
+      established collaborative relationships and did not threaten the economic life
+      of the tribes and clans living in Russia’s vast eastern expanse of territory.
+      I am not suggesting that Russia is an Utopian society, but there is a fundamentally
+      different way of looking at the world. Instead of approaching people and countries
+      as a Zero-Sum Game , the Russian approach favors a Positive-Sum Game, i.e., Interactions
+      where the combined gains of all participants are greater than zero. Cooperation
+      and collaboration can create new value, making everyone better off. Here are the
+      final 14 people I interviewed last week: Marina Evgenyevna Kim (born August 11,
+      1983, Leningrad) is a Russian television presenter, journalist, and politician.
+      Member of the Presidium of the Central Council of the “A Just Russia — Patriots
+      — For Truth” party. Secretary of the Presidium for Information Policy. Authorized
+      representative of Vladimir Putin in the 2024 presidential elections. Former host
+      of “Vesti” and “Good Morning” programs. Subject to sanctions by the EU, Switzerland,
+      and Ukraine. Current Status in 2025: Member of the Presidium of the Central Council
+      of “A Just Russia — Patriots — For Truth” Secretary of the Presidium for Information
+      Policy Authorized representative of President Vladimir Putin Politician and public
+      figure Alexey Sergeevich Naumov (born March 23, 1991, Moscow) is a Russian international
+      journalist, political scientist specializing in American studies, and expert in
+      international relations. Expert at the Russian International Affairs Council (RIAC).
+      Former columnist and deputy head of the foreign policy department at Kommersant
+      Publishing House. Participant in the talk show “60 Minutes” on Russia-1 channel.
+      Recipient of the Russian Ministry of Foreign Affairs award “For Contribution to
+      Coverage of Russia’s Foreign Policy Activities.” Current Status in 2025: Expert
+      at the Russian International Affairs Council (RIAC) Columnist for the Carnegie
+      Moscow Center Participant in expert discussions on federal television channels
+      Independent international analyst Alexander Andreyevich Yushchenko (born November
+      19, 1969, Mozyr) is a Russian statesman, politician, and journalist. He is a Deputy
+      of the State Duma of the Federal Assembly of the Russian Federation of the VI,
+      VII, and VIII convocations, representing the Communist Party of the Russian Federation
+      (CPRF). A member of the CPRF faction, he has served as the First Deputy Chairman
+      of the State Duma Committee on Information Policy, Information Technologies, and
+      Communications since 2021. For over 25 years, he has been responsible for public
+      relations and media strategy for the CPRF and is the press secretary for CPRF
+      Chairman Gennady Zyuganov. Current Status (2025): Deputy of the State Duma, VIII
+      Convocation First Deputy Chairman of the State Duma Committee on Information Policy,
+      IT, and Communications Member of the CPRF faction Press Secretary for CPRF Chairman
+      Gennady Zyuganov Apti Aronovich Alaudinov (born October 5, 1973, Gorny settlement,
+      Stavropol Krai) is a Russian military and state figure. Deputy Head of the Main
+      Military-Political Directorate of the Russian Armed Forces. Lieutenant General
+      (2024). Commander of the “Akhmat” special forces unit. Hero of the Russian Federation
+      (2022). Former Deputy Minister of Internal Affairs for the Chechen Republic (2011-2021).
+      Authorized representative of Vladimir Putin in the 2024 elections. Current Status
+      in 2025: Deputy Head of the Main Military-Political Directorate of the Russian
+      Armed Forces Commander of the “Akhmat” special forces unit Secretary of the Council
+      for Economic and Public Security of the Chechen Republic Lieutenant General Alexander
+      Mikhailovich Babakov (born February 8, 1963, Chisinau) is a Russian statesman
+      and political figure. Deputy Chairman of the State Duma of the 8th convocation
+      from the “A Just Russia — For Truth” party. Special Representative of the President
+      of Russia for interaction with compatriot organizations abroad. President of the
+      Russian Table Tennis Federation. Former entrepreneur, ex-chairman of the board
+      of directors of FC CSKA. Current Status in 2025: Deputy Chairman of the State
+      Duma of the Russian Federation Special Representative of the President for work
+      with compatriots abroad President of the Russian Table Tennis Federation Member
+      of the Presidium of the Central Council of the “A Just Russia — Patriots — For
+      Truth” party Igor Olegovich Markov (born January 18, 1973, Odessa) is a Ukrainian
+      politician and entrepreneur with pro-Russian orientation. Chairman of the All-Ukrainian
+      Political Party “Rodina” (Motherland), former deputy of the Verkhovna Rada of
+      Ukraine and the Odessa City Council. Since 2014, he has been in political exile
+      in Russia. Member of the “Committee for the Salvation of Ukraine” under the leadership
+      of Nikolai Azarov. Wanted internationally by Ukraine. Current Status in 2025:
+      Political emigrant in Russia Member of the “Committee for the Salvation of Ukraine”
+      Wanted internationally by Ukraine Publicist and political analyst Vadim Rudolfovich
+      Samoilov (born October 3, 1964, Sverdlovsk) is a Russian rock musician, founder
+      and permanent leader of the band “Agata Kristi” (1985-2010). Vocalist, guitarist,
+      composer, poet, sound producer. Member of the board of the Russian Music Union,
+      participant in the public movement “For Truth.” Known for his pro-government stance
+      and support of the special military operation in Ukraine. Current Status in 2025:
+      Solo musician continuing his work after the dissolution of “Agata Kristi” Member
+      of the board of the Russian Music Union Participant in the “For Truth” public
+      movement Authorized representative of Vladimir Putin (since 2012) Lexus and Vovan
+      This was a real treat. Vovan and Lexus have perfected the art of getting politicians
+      to tell the truth. They’ve done Kamala Harris, George W Bush and Henry Kissinger.
+      This clip with the former French President Hollande is a classic: Vovan is a Russian
+      prankster known for pranking international celebrities and politicians. He is
+      a journalist and lawyer by education. Lexus is a Russian prankster working in
+      the genre of “prank journalism.” He is an economist and lawyer by education The
+      duo has been working together since 2014, specializing in political pranks. 8970214
+      23.07.2025 Международный секретарь грузинской партии “Солидарность во имя Мира”
+      Мамука Пипия участвует в международном семинаре-совещании “Георгиевский трактат:
+      исторический выбор предков” в Москве. Mamuka Pipiya is a Georgian and Russian
+      businessman known for his close ties to Russian political circles. He is the founder
+      and owner of the Pipiya Group of Companies, which implements large-scale infrastructure
+      projects in Moscow and other regions of Russia. He is one of the major contractors
+      in Moscow’s construction sector and is recognized as one of the most influential
+      entrepreneurs of Georgian origin in Russia. Current Status in 2025: President
+      of the Pipiya Group of Companies Member of the Board of the Russian-Georgian Business
+      Council Member of the Public Council under the Moscow City Government Advisor
+      on International Economic Projects Mamuka is a new, dear friend. I was able to
+      spend quite a bit of time with him during my visit. He also owns a Georgian restaurant
+      that serves incredible cuisine. I put on some weight because of him. Alexander
+      Yuryevich Kazakov (born December 6, 1965, Riga) is a Russian political philosopher,
+      television commentator, public figure, and journalist. He is a Co-Chairman of
+      the International “Club of People’s Unity,” and served as an advisor to the first
+      head of the Donetsk People’s Republic (DPR), Alexander Zakharchenko (2014-2018).
+      He is one of the leaders of the Headquarters for the Defense of Russian Schools
+      in Latvia, as well as the founder and ideologist of the United Congress of Russian
+      Communities of Latvia. He acts as a consultant for youth political movements in
+      Russia and is a political consultant specializing in ideologies. He has experience
+      in media and political consulting. Current Status as of 2025: · Co-Chairman of
+      the International “Club of People’s Unity” · Member of the Council on Foreign
+      and Defense Policy · Member of the Russian Writers’ Union · Author of the bestselling
+      book The Fox of the North: The Grand Strategy of Vladimir Putin · Regular expert
+      on Russian political TV and radio talk shows I count Alexander as a new friend
+      as well. I will be posting my interview with him and with Mamuka in the coming
+      days. i Vasily Dmitrievich Vakarov (born May 24, 1966, Iza village, Zakarpattia
+      region) is a Ukrainian lawyer, political scientist, and public figure. Former
+      high-ranking official in the Administration of the President of Ukraine, specializing
+      in anti-corruption policy. Currently a political emigrant in Russia and critic
+      of the Ukrainian government. Listed in the “Peacemaker” database and subject to
+      sanctions by Ukraine’s National Security and Defense Council. Current Status in
+      2025: Political expert on Ukrainian affairs Regular participant in Russian political
+      talk shows Author of publications on the “Voice of Truth” platform Host of a Telegram
+      channel criticizing Ukrainian authorities Eduard Aleksandrovich Basurin (born
+      June 27, 1966, Donetsk) is a military figure of the Donetsk People’s Republic.
+      Former press secretary of the DPR military command (from January 14, 2015), Colonel
+      of the DPR. Graduate of the Donetsk Higher Military-Political School (1987). Has
+      experience serving in the Soviet and Russian armies (1987-1997). Included in EU
+      sanctions lists since February 16, 2015. Current Status in 2025: Retired Colonel
+      of the DPR Former press secretary of the DPR military command Former deputy commander
+      of the DPR Ministry of Defense corps Subject of EU sanctions lists Gennady Zyuganov
+      is a veteran Russian politician who has led the Communist Party of the Russian
+      Federation (CPRF) since its foundation in 1993. Under his leadership, the CPRF
+      has maintained its status as the second most influential political party in Russia
+      and the primary opposition force in the State Duma. Zyuganov is known for his
+      consistent advocacy of socialist ideals, criticism of neoliberal economic policies,
+      and strong positions on national sovereignty. His political stance combines Soviet-era
+      ideology with contemporary patriotism, emphasizing social justice, state control
+      over key industries, and the restoration of Russia’s great-power status. Zyuganov’s
+      influence stems from his ability to mobilize protest votes while remaining within
+      the framework of the political system. He maintains a nuanced relationship with
+      the Kremlin—criticizing government policies on economic and social issues while
+      generally supporting the official line on foreign policy and national security.
+      Mikhail Yefimovich Shvydkoy is a distinguished Russian statesman, public figure,
+      art historian, and television presenter. He currently serves as the Special Representative
+      of the President of the Russian Federation for International Cultural Cooperation.
+      Former Minister of Culture of Russia (2000–2004) and former Director General of
+      the “Kultura” TV channel, he holds a doctorate in Art History and is a professor.
+      He is a recognized expert in international cultural cooperation. Current Status
+      (2025): Special Representative of the President of the Russian Federation for
+      International Cultural Cooperation Chairman of the Russian-Chinese Committee for
+      Friendship, Peace, and Development Member of the Presidential Council for Culture
+      and Art Regular participant in international cultural forums I wish every American
+      could experience what I did during my time in Moscow. Just being able to sit and
+      talk with no restrictions is a tonic the world needs. During a closing press conference
+      hosted by TASS , I compared my experience in Moscow with that of a ten year old
+      boy who asks his parents for a piece of chocolate for Christmas and wakes up on
+      Christmas morning to discover he’s been gifted a chocolate factory, a new pony
+      and a fancy sports car… I learned more from this visit than I expected. I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The author reflects on 12 days of discussions with various
+      Russian leaders, noting the fundamental differences in worldview between Russians
+      and Americans, which he attributes to their distinct historical experiences of
+      land expansion and cultural influences.
+    paragraph_summary: Over a span of 12 days, the author engaged in discussions with
+      a variety of Russian political, business, and military leaders, highlighting a
+      stark contrast in worldviews between Russians and Americans, which he attributes
+      to the Orthodox tradition. While both nations have histories of expanding into
+      largely uncharted territories—America to the West and Russia to the East—their
+      approaches differ significantly. The U.S. expansion was characterized by domination
+      and violence against indigenous populations, whereas Russia tended to foster collaborative
+      relationships with its native tribes. The author argues that this fundamental
+      difference leads to a Russian perspective that favors cooperation and mutual benefit,
+      viewing interactions as a Positive-Sum Game rather than a Zero-Sum Game. He notes
+      technical difficulties in sharing his interviews, which he plans to publish upon
+      returning to the U.S., and lists the final 14 individuals he interviewed, including
+      notable figures like Marina Evgenyevna Kim.
+    published: '2025-10-28T05:05:23+00:00'
+  - title: A Video Post Card from Moscow
+    url: https://sonar21.com/a-video-post-card-from-moscow/
+    text: 'The reports of a collapsing Russian economy is unadulterated Western propaganda.
+      If a picture is worth a thousand words, then these six videos should be equivalent
+      to Tolstoy’s War and Peace . I strolled around the Arbat and tried to capture
+      the normalcy that defines life in Moscow. I also am including below four videos
+      of virtually empty gas stations in northern Moscow. You would not know that there
+      is a war on in Ukraine: You know all of the reports about shortages of gasoline
+      and lines of cars with desperate drives? Yeah, that is bullshit too. I took these
+      videos of four gas stations in the northern suburbs of Moscow the other night
+      (I was enroute to a fabulous dinner with Stas Krapivnik and his family): I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The article argues that claims of a collapsing Russian economy
+      are exaggerated Western propaganda, as evidenced by videos showing normal life
+      in Moscow and empty gas stations, contradicting reports of shortages and desperation.
+    paragraph_summary: The article argues that claims of a collapsing Russian economy
+      are merely Western propaganda, asserting that life in Moscow appears normal despite
+      the ongoing war in Ukraine. The author shares personal observations from a stroll
+      around the Arbat district and includes videos showing nearly empty gas stations
+      in northern Moscow, challenging narratives of gasoline shortages and long lines.
+      The piece emphasizes the author's intention to provide accessible content without
+      charging fees or accepting advertising, while also inviting donations for support.
+    published: '2025-10-25T16:19:37+00:00'
+  - title: A Video Post Card from Moscow
+    url: https://sonar21.com/a-video-post-card-from-moscow/
+    text: 'The reports of a collapsing Russian economy is unadulterated Western propaganda.
+      If a picture is worth a thousand words, then these six videos should be equivalent
+      to Tolstoy’s War and Peace . I strolled around the Arbat and tried to capture
+      the normalcy that defines life in Moscow. I also am including below four videos
+      of virtually empty gas stations in northern Moscow. You would not know that there
+      is a war on in Ukraine: You know all of the reports about shortages of gasoline
+      and lines of cars with desperate drives? Yeah, that is bullshit too. I took these
+      videos of four gas stations in the northern suburbs of Moscow the other night
+      (I was enroute to a fabulous dinner with Stas Krapivnik and his family): I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The article argues that claims of a collapsing Russian economy
+      are exaggerated Western propaganda, as evidenced by videos showing normal life
+      in Moscow and empty gas stations, contradicting reports of shortages and desperation.
+    paragraph_summary: The article argues that claims of a collapsing Russian economy
+      are merely Western propaganda, asserting that life in Moscow appears normal despite
+      the ongoing war in Ukraine. The author shares personal observations from a stroll
+      around the Arbat district and includes videos showing nearly empty gas stations
+      in northern Moscow, challenging narratives of gasoline shortages and long lines.
+      The piece emphasizes the author's intention to provide accessible content without
+      charging fees or accepting advertising, while also inviting donations for support.
+    published: '2025-10-25T16:19:37+00:00'
+  - title: Western Analysts Continue to Push Delusions About Russia
+    url: https://sonar21.com/western-analysts-continue-to-push-delusions-about-russia/
+    text: 'I want to flag another article that reflects a profound misunderstanding
+      of Russia and the war in Ukraine… It is from a pundit by the name of Kamran Bokhari.
+      Although Bokhari appears to be a young guy who was not an adult during the cold
+      war , he is trapped in the old style of thinking about Russia and US relations.
+      He writes : Trump must act decisively to show that he controls the rules of the
+      engagement and to counter the perception that Moscow is exploiting his desire
+      for diplomacy. Washington’s move on Wednesday to sanction Rosneft and Lukoil,
+      Russia’s largest oil companies, is evidence of the administration’s sensitivity
+      to charges of weakness…. Certainly, the war in Ukraine has shown that Russia falls
+      well short of the military and industrial might that the Soviets possessed. After
+      nearly four years of fighting, Moscow’s failures underscore the erosion of its
+      conventional power and the limits of its mobilization capacity. Russia will need
+      years to rebuild its economic base, replenish its arsenal and restore force readiness,
+      diminishing its ability to threaten Europe in the near term. In the meantime,
+      Russia will try to gain as much territory in eastern Ukraine as possible as it
+      waits for Washington to continue its withdrawal from the global stage, after which
+      it will exploit strategic opportunities in Europe as they emerge. This strategy
+      has a couple of problems that Moscow is all too aware of. First and more immediately,
+      the continued rejection of Trump’s diplomatic overtures risks escalation. The
+      US could respond by supplying additional military aid to Ukraine that could lead
+      to real battlefield reversals. The Kremlin, for its part, recognizes how Trump’s
+      political imperatives will influence his willingness to act decisively. As a result,
+      there are limits to how far Russia can delay or continue to manipulate negotiations
+      without incurring costs. First a comment about the latest sanctions the US Department
+      of the Treasury, through its Office of Foreign Assets Control (OFAC), imposed
+      on Russia’s two largest oil companies: Rosneft and Lukoil . These sanctions come
+      under Executive Order 14024 and are ostensibly part of a broader effort to weaken
+      the Kremlin’s war machine by cutting off key sources of revenue from the energy
+      sector amid Russia’s ongoing war in Ukraine. To be specific, the sanctions are
+      supposed to block Rosneft and Lukoil , as well as many of their subsidiaries and
+      any entities they own 50 percent or more, directly or indirectly, from accessing
+      the US financial system and prohibits US persons from dealing with them. Only
+      one tiny problem… Rosneft and Lukoil are doing business outside of the US financial
+      system. These sanctions will have no substantive effect on either company. This
+      is simply window dressing from Donald Trump to convince the anti-Russian Americans
+      that he is trying to play hardball with Moscow. The clowns in Washington do not
+      understand that Russia’s economy is not dependent on oil exports… And that is
+      according to Mr. Alexander Galushka, the Deputy Secretary of the Public Chamber
+      of the Russian Federation. Second, Bokhari continues to repeat the false Western
+      memes that Russia’s military operation is a failure , that the Russian economy
+      is collapsing and that its stocks of military supplies are depleted. Russia continues
+      to recruit and expand its army, which now has more than 1.5 million soldiers.
+      The cooling of the Russian economy this year is a direct result of the action
+      by Russia’s Central Bank to cool inflation… Last year’s boost in interest rates
+      has achieved the desired result and inflation in Russia is now in single-digits.
+      And Bokhari’s claim that, “ Russia will need years to rebuild its economic base,
+      replenish its arsenal and restore force readiness ,” is complete nonsense. Russia’s
+      massive industrial base is operating on all cylinders, churning out artillery
+      shells, artillery barrels, drones, tanks, armored personnel carriers and hypersonic
+      missiles. It is NATO, not Russia, that is depleted and facing an uphill challenge
+      in trying to revive a ransacked industrial base. It is NATO, not Russia, that
+      is incapable of matching Russia’s production of ammunition and weapons. Finally,
+      Bokhari displays his ignorance of military capabilities, especially with respect
+      to the United States. He asserts, “ The US could respond by supplying additional
+      military aid to Ukraine that could lead to real battlefield reversals .” What
+      weapons or aid would that be? The US can’t produce drones or artillery shells
+      in quantities needed by Ukraine, but the more important deficit is Ukraine’s lack
+      of trained military personnel. No amount of aid can fix that, especially since
+      Russia is expanding its offensive operations all along the 1400 kilometer front,
+      which is producing more Ukrainian casualties. Donald Trump wrongly believes that
+      he can pressure Russia and compel it to halt its military campaign to demilitarize
+      and denazify Ukraine. The Russians are not going to stop until those objectives
+      are achieved… Whether by force or diplomacy. Here are my latest videos: I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The article critiques Kamran Bokhari's outdated perspective
+      on Russia and the Ukraine war, arguing that he misinterprets the current geopolitical
+      dynamics and underestimates Russia's diminished military and economic capabilities.
+    paragraph_summary: The article critiques Kamran Bokhari's perspective on Russia
+      and the Ukraine war, arguing that he is stuck in outdated Cold War thinking. It
+      highlights that the recent U.S. sanctions on Russian oil companies, Rosneft and
+      Lukoil, reflect an awareness of perceived weakness in U.S. foreign policy. The
+      author notes that Russia's military capabilities have significantly diminished
+      since the Soviet era, and it will take years for the country to rebuild its economic
+      and military strength. While Russia aims to gain territory in eastern Ukraine
+      and wait for perceived U.S. withdrawal from global affairs, it faces risks, including
+      potential U.S. military support for Ukraine that could alter the battlefield dynamics.
+      The article suggests that Russia must navigate its diplomatic strategies carefully
+      to avoid escalating tensions with the U.S.
+    published: '2025-10-24T21:58:58+00:00'
+  - title: Western Analysts Continue to Push Delusions About Russia
+    url: https://sonar21.com/western-analysts-continue-to-push-delusions-about-russia/
+    text: 'I want to flag another article that reflects a profound misunderstanding
+      of Russia and the war in Ukraine… It is from a pundit by the name of Kamran Bokhari.
+      Although Bokhari appears to be a young guy who was not an adult during the cold
+      war , he is trapped in the old style of thinking about Russia and US relations.
+      He writes : Trump must act decisively to show that he controls the rules of the
+      engagement and to counter the perception that Moscow is exploiting his desire
+      for diplomacy. Washington’s move on Wednesday to sanction Rosneft and Lukoil,
+      Russia’s largest oil companies, is evidence of the administration’s sensitivity
+      to charges of weakness…. Certainly, the war in Ukraine has shown that Russia falls
+      well short of the military and industrial might that the Soviets possessed. After
+      nearly four years of fighting, Moscow’s failures underscore the erosion of its
+      conventional power and the limits of its mobilization capacity. Russia will need
+      years to rebuild its economic base, replenish its arsenal and restore force readiness,
+      diminishing its ability to threaten Europe in the near term. In the meantime,
+      Russia will try to gain as much territory in eastern Ukraine as possible as it
+      waits for Washington to continue its withdrawal from the global stage, after which
+      it will exploit strategic opportunities in Europe as they emerge. This strategy
+      has a couple of problems that Moscow is all too aware of. First and more immediately,
+      the continued rejection of Trump’s diplomatic overtures risks escalation. The
+      US could respond by supplying additional military aid to Ukraine that could lead
+      to real battlefield reversals. The Kremlin, for its part, recognizes how Trump’s
+      political imperatives will influence his willingness to act decisively. As a result,
+      there are limits to how far Russia can delay or continue to manipulate negotiations
+      without incurring costs. First a comment about the latest sanctions the US Department
+      of the Treasury, through its Office of Foreign Assets Control (OFAC), imposed
+      on Russia’s two largest oil companies: Rosneft and Lukoil . These sanctions come
+      under Executive Order 14024 and are ostensibly part of a broader effort to weaken
+      the Kremlin’s war machine by cutting off key sources of revenue from the energy
+      sector amid Russia’s ongoing war in Ukraine. To be specific, the sanctions are
+      supposed to block Rosneft and Lukoil , as well as many of their subsidiaries and
+      any entities they own 50 percent or more, directly or indirectly, from accessing
+      the US financial system and prohibits US persons from dealing with them. Only
+      one tiny problem… Rosneft and Lukoil are doing business outside of the US financial
+      system. These sanctions will have no substantive effect on either company. This
+      is simply window dressing from Donald Trump to convince the anti-Russian Americans
+      that he is trying to play hardball with Moscow. The clowns in Washington do not
+      understand that Russia’s economy is not dependent on oil exports… And that is
+      according to Mr. Alexander Galushka, the Deputy Secretary of the Public Chamber
+      of the Russian Federation. Second, Bokhari continues to repeat the false Western
+      memes that Russia’s military operation is a failure , that the Russian economy
+      is collapsing and that its stocks of military supplies are depleted. Russia continues
+      to recruit and expand its army, which now has more than 1.5 million soldiers.
+      The cooling of the Russian economy this year is a direct result of the action
+      by Russia’s Central Bank to cool inflation… Last year’s boost in interest rates
+      has achieved the desired result and inflation in Russia is now in single-digits.
+      And Bokhari’s claim that, “ Russia will need years to rebuild its economic base,
+      replenish its arsenal and restore force readiness ,” is complete nonsense. Russia’s
+      massive industrial base is operating on all cylinders, churning out artillery
+      shells, artillery barrels, drones, tanks, armored personnel carriers and hypersonic
+      missiles. It is NATO, not Russia, that is depleted and facing an uphill challenge
+      in trying to revive a ransacked industrial base. It is NATO, not Russia, that
+      is incapable of matching Russia’s production of ammunition and weapons. Finally,
+      Bokhari displays his ignorance of military capabilities, especially with respect
+      to the United States. He asserts, “ The US could respond by supplying additional
+      military aid to Ukraine that could lead to real battlefield reversals .” What
+      weapons or aid would that be? The US can’t produce drones or artillery shells
+      in quantities needed by Ukraine, but the more important deficit is Ukraine’s lack
+      of trained military personnel. No amount of aid can fix that, especially since
+      Russia is expanding its offensive operations all along the 1400 kilometer front,
+      which is producing more Ukrainian casualties. Donald Trump wrongly believes that
+      he can pressure Russia and compel it to halt its military campaign to demilitarize
+      and denazify Ukraine. The Russians are not going to stop until those objectives
+      are achieved… Whether by force or diplomacy. Here are my latest videos: I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The article critiques Kamran Bokhari's outdated perspective
+      on Russia and the Ukraine war, arguing that he misinterprets the current geopolitical
+      dynamics and underestimates Russia's diminished military and economic capabilities.
+    paragraph_summary: The article critiques Kamran Bokhari's perspective on Russia
+      and the Ukraine war, arguing that he is stuck in outdated Cold War thinking. It
+      highlights that the recent U.S. sanctions on Russian oil companies, Rosneft and
+      Lukoil, reflect an awareness of perceived weakness in U.S. foreign policy. The
+      author notes that Russia's military capabilities have significantly diminished
+      since the Soviet era, and it will take years for the country to rebuild its economic
+      and military strength. While Russia aims to gain territory in eastern Ukraine
+      and wait for perceived U.S. withdrawal from global affairs, it faces risks, including
+      potential U.S. military support for Ukraine that could alter the battlefield dynamics.
+      The article suggests that Russia must navigate its diplomatic strategies carefully
+      to avoid escalating tensions with the U.S.
+    published: '2025-10-24T21:58:58+00:00'
+  - title: Continuing to Getting to Know the Russian Perspective — Six Podcasts
+    url: https://sonar21.com/continuing-to-getting-to-know-the-russian-perspective-six-podcasts/
+    text: 'My sojourn with the International Unity Club is simply amazing in terms of
+      the variety of people I am meeting and the opportunity to have extensive, uncensored
+      chats. Once the podcasts are translated into english, I will begin posting them
+      on this blog and at my Bitchute account. Let me emphasize that I have full latitude
+      to ask these people any questions, without reservations or outside control. We
+      are simply sitting in the equivalent of a coffee house, chatting. I started the
+      day by sitting down with Ambassador Rodion Miroshnik, who carries the burden of
+      gathering evidence of crimes against civilians: Rodion Vladimirovich Miroshnik
+      is a Russian statesman and diplomat. He currently serves as the Ambassador-at-Large
+      of the Russian Ministry of Foreign Affairs on Crimes of the Kyiv Regime. Former
+      Ambassador of the Lugansk People’s Republic to Russia (2022-2023). A lawyer by
+      education, he has extensive experience in international law and diplomacy. Known
+      as one of Russia’s key representatives advocating the country’s position on Donbass
+      issues in the international arena. Current Status in 2025: Ambassador-at-Large
+      of the Russian Ministry of Foreign Affairs on Crimes of the Kyiv Regime Advisor
+      on International Legal Issues Expert on Protection of Russian-Speaking Population
+      Rights During our hour together, he reminded me that the May 2014 attack in Odessa
+      that targeted pro-Russian Ukrainians. On May 2, 2014, in the city of Odessa, Ukraine,
+      clashes broke out between pro-Ukrainian (pro-Maidan) activists and pro-Russian
+      (anti-Maidan) demonstrators. Around 300 pro-Russian separatists clashed with a
+      larger rally of about 2,000 pro-Ukrainian demonstrators, including football fans
+      from Kharkiv known for their pro-unity stance. These clashes escalated across
+      the city lasting several hours, involving the use of firearms, rocks, Molotov
+      cocktails, and resulted in around six immediate deaths in the street fights. The
+      violence extended to the Kulikovo Field area, where pro-Russian activists had
+      set up tents on Kulikovo Square. Many of these pro-Russian demonstrators then
+      barricaded themselves inside the five-story Odessa regional federation of trade
+      unions building after their protest camp was overwhelmed by pro-Ukrainian forces.
+      The building was attacked and became the site of a deadly fire, with the pro-Ukrainian
+      activists throwing petrol bombs (Molotov cocktails), which ignited a fire inside
+      the building on the third floor and led to the deaths of 48 pro-Russian activists,
+      many of whom died from carbon monoxide poisoning or by jumping from windows to
+      escape the flames. Ambassador Miroshnik said that the incident in Odessa ignited
+      the uprising in the Donbas among the pro-Russians activists. My next interview
+      introduced my to Dejan Berić: Dejan Berić (call sign “Deki”, born September 25,
+      1974) is a Serbian sniper, military instructor, volunteer, and participant in
+      combat operations in Yugoslavia and eastern Ukraine. A veteran of the Donbas conflict
+      and author of the book “ When the Dead Speak .” Currently a lecturer for the Russian
+      society “Znanie” and an instructor training snipers for the Russian armed forces.
+      Current Status in 2025: Military sniper training instructor Lecturer for the “Znanie”
+      society Author of military memoirs Expert in sniper tactics Deki now leads a veterans’
+      organization that is focused on helping soldiers transition back into civilian
+      life. The Russian military did not wait for a spate of former soldiers killing
+      themselves… They set up a program that provides immediate support to soldiers
+      battling the burden of PTSD. I then met with Dmitry Kulikov: Dmitry Evgenyevich
+      Kulikov (born November 18, 1967, Shakhtyorsk, Donetsk region) is a Russian political
+      scientist, publicist, political consultant, and television and radio host. Expert
+      of the State Duma Committee on CIS Affairs and Relations with Compatriots. Member
+      of the Public Council under the Ministry of Defense of the Russian Federation.
+      Host of the talk show “Who’s Against?” on the Rossiya-1 channel. Subject to international
+      sanctions by the EU, UK, Canada, Switzerland, and Ukraine. Current Status in 2025:
+      Host of the talk show “Who’s Against?” on Rossiya-1 State Duma expert on CIS affairs
+      Member of the Public Council under the Russian Ministry of Defense Member of the
+      Zinoviev Club of MIA “Russia Today” Mr. Kulikov, who was born in Donetsk, described
+      in detail how the persecution from those aligned with Bandera started in the 1990s,
+      but escalated dramatically after May 2014. Ruslan Ostashko is a genuine rock star,
+      who sings in a band: Ruslan Stanislavovich Ostashko (born February 18, 1979, Donetsk)
+      is a Russian TV host, blogger, musician, and public figure. Host of the program
+      “Time Will Tell” on Channel One. Creator and editor-in-chief of the “Political
+      Russia” project. Leader of the musical group “Nashi” (“Ours”). Graduate of the
+      Moscow Border Institute of the FSB of Russia with honors. Member of the board
+      of the Internet Initiatives Development Fund. Current Status in 2025: Host of
+      “Time Will Tell” on Channel One Head of the “Political Russia” project Leader
+      of the musical group “Nashi” Member of the board of the Internet Initiatives Development
+      Fund Next up was Alexander Galushka, an economic heavy hitter in Russia: Alexander
+      Sergeevich Galushka (born December 1, 1975, Klin, Moscow Region) is a Russian
+      statesman and public figure. Minister of the Russian Federation for the Development
+      of the Far East (2013-2018). Deputy Secretary of the Public Chamber of the Russian
+      Federation. Chairman of the Coordinating Council under the Public Chamber for
+      National Projects and Population Preservation. Authorized representative of Vladimir
+      Putin in the 2024 elections. Author of strategic initiatives in economics and
+      demography. Current Status in 2025: Deputy Secretary of the Public Chamber of
+      the Russian Federation Chairman of the Coordinating Council for National Projects
+      and Population Preservation Member of the Presidential Commission for Historical
+      Education Member of the Presidium of the Government Commission for Economic Development
+      and Integration I got a signed copy of his most recent book, which is the number
+      one book in Russia. He explains why the Russian economy is so strong and how Western
+      sanctions actually boosted the Russian economy. My final interview was with a
+      battle-hardened war correspondent who has had extensive prior experience working
+      with US military forces: Alexander Valeryevich Sladkov (born April 1, 1966, Monino,
+      Moscow Region) is a Russian military journalist, special correspondent for DIP
+      “Vesti” VGTRK. Reserve officer (Senior Lieutenant). Member of the Public Council
+      under the Ministry of Defense of the Russian Federation. One of Russia’s most
+      experienced war correspondents, having worked in all major conflicts across the
+      post-Soviet space and beyond. Recipient of numerous state awards and professional
+      prizes. Current Status in 2025: Special correspondent for DIP “Vesti” VGTRK Member
+      of the Public Council under the Ministry of Defense of the Russian Federation
+      Member of the mobilization working group under the President of Russia Author
+      of a Telegram channel with regular frontline reports Here is the video, in english,
+      of Judge Napolitano and I interviewing Maria Zakharova. The moderator is a great
+      new friend — Alexander Kazakov: I’m going to bed as news is breaking about Trump’s
+      decision to impose new sanctions on the Russian oil industry. I’ll have a full
+      report on Russian reaction to that tomorrow. I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The author shares their enriching experience with the International
+      Unity Club, highlighting the freedom to engage in candid discussions with diverse
+      individuals, including Ambassador Rodion Miroshnik, and plans to share these conversations
+      through translated podcasts on their blog and Bitchute account.
+    paragraph_summary: The author shares their enriching experience with the International
+      Unity Club, highlighting the diverse individuals they meet and the freedom to
+      engage in open discussions. They plan to post translated podcasts from these conversations
+      on their blog and Bitchute account. The article features a conversation with Ambassador
+      Rodion Miroshnik, a prominent Russian diplomat focused on documenting crimes against
+      civilians attributed to the Kyiv regime. Miroshnik, who has a background in international
+      law and diplomacy, reflects on the violent events of May 2, 2014, in Odessa, where
+      clashes between pro-Ukrainian and pro-Russian groups resulted in significant casualties
+      and highlighted ongoing tensions in the region.
+    published: '2025-10-22T22:16:08+00:00'
+  - title: Continuing to Getting to Know the Russian Perspective — Six Podcasts
+    url: https://sonar21.com/continuing-to-getting-to-know-the-russian-perspective-six-podcasts/
+    text: 'My sojourn with the International Unity Club is simply amazing in terms of
+      the variety of people I am meeting and the opportunity to have extensive, uncensored
+      chats. Once the podcasts are translated into english, I will begin posting them
+      on this blog and at my Bitchute account. Let me emphasize that I have full latitude
+      to ask these people any questions, without reservations or outside control. We
+      are simply sitting in the equivalent of a coffee house, chatting. I started the
+      day by sitting down with Ambassador Rodion Miroshnik, who carries the burden of
+      gathering evidence of crimes against civilians: Rodion Vladimirovich Miroshnik
+      is a Russian statesman and diplomat. He currently serves as the Ambassador-at-Large
+      of the Russian Ministry of Foreign Affairs on Crimes of the Kyiv Regime. Former
+      Ambassador of the Lugansk People’s Republic to Russia (2022-2023). A lawyer by
+      education, he has extensive experience in international law and diplomacy. Known
+      as one of Russia’s key representatives advocating the country’s position on Donbass
+      issues in the international arena. Current Status in 2025: Ambassador-at-Large
+      of the Russian Ministry of Foreign Affairs on Crimes of the Kyiv Regime Advisor
+      on International Legal Issues Expert on Protection of Russian-Speaking Population
+      Rights During our hour together, he reminded me that the May 2014 attack in Odessa
+      that targeted pro-Russian Ukrainians. On May 2, 2014, in the city of Odessa, Ukraine,
+      clashes broke out between pro-Ukrainian (pro-Maidan) activists and pro-Russian
+      (anti-Maidan) demonstrators. Around 300 pro-Russian separatists clashed with a
+      larger rally of about 2,000 pro-Ukrainian demonstrators, including football fans
+      from Kharkiv known for their pro-unity stance. These clashes escalated across
+      the city lasting several hours, involving the use of firearms, rocks, Molotov
+      cocktails, and resulted in around six immediate deaths in the street fights. The
+      violence extended to the Kulikovo Field area, where pro-Russian activists had
+      set up tents on Kulikovo Square. Many of these pro-Russian demonstrators then
+      barricaded themselves inside the five-story Odessa regional federation of trade
+      unions building after their protest camp was overwhelmed by pro-Ukrainian forces.
+      The building was attacked and became the site of a deadly fire, with the pro-Ukrainian
+      activists throwing petrol bombs (Molotov cocktails), which ignited a fire inside
+      the building on the third floor and led to the deaths of 48 pro-Russian activists,
+      many of whom died from carbon monoxide poisoning or by jumping from windows to
+      escape the flames. Ambassador Miroshnik said that the incident in Odessa ignited
+      the uprising in the Donbas among the pro-Russians activists. My next interview
+      introduced my to Dejan Berić: Dejan Berić (call sign “Deki”, born September 25,
+      1974) is a Serbian sniper, military instructor, volunteer, and participant in
+      combat operations in Yugoslavia and eastern Ukraine. A veteran of the Donbas conflict
+      and author of the book “ When the Dead Speak .” Currently a lecturer for the Russian
+      society “Znanie” and an instructor training snipers for the Russian armed forces.
+      Current Status in 2025: Military sniper training instructor Lecturer for the “Znanie”
+      society Author of military memoirs Expert in sniper tactics Deki now leads a veterans’
+      organization that is focused on helping soldiers transition back into civilian
+      life. The Russian military did not wait for a spate of former soldiers killing
+      themselves… They set up a program that provides immediate support to soldiers
+      battling the burden of PTSD. I then met with Dmitry Kulikov: Dmitry Evgenyevich
+      Kulikov (born November 18, 1967, Shakhtyorsk, Donetsk region) is a Russian political
+      scientist, publicist, political consultant, and television and radio host. Expert
+      of the State Duma Committee on CIS Affairs and Relations with Compatriots. Member
+      of the Public Council under the Ministry of Defense of the Russian Federation.
+      Host of the talk show “Who’s Against?” on the Rossiya-1 channel. Subject to international
+      sanctions by the EU, UK, Canada, Switzerland, and Ukraine. Current Status in 2025:
+      Host of the talk show “Who’s Against?” on Rossiya-1 State Duma expert on CIS affairs
+      Member of the Public Council under the Russian Ministry of Defense Member of the
+      Zinoviev Club of MIA “Russia Today” Mr. Kulikov, who was born in Donetsk, described
+      in detail how the persecution from those aligned with Bandera started in the 1990s,
+      but escalated dramatically after May 2014. Ruslan Ostashko is a genuine rock star,
+      who sings in a band: Ruslan Stanislavovich Ostashko (born February 18, 1979, Donetsk)
+      is a Russian TV host, blogger, musician, and public figure. Host of the program
+      “Time Will Tell” on Channel One. Creator and editor-in-chief of the “Political
+      Russia” project. Leader of the musical group “Nashi” (“Ours”). Graduate of the
+      Moscow Border Institute of the FSB of Russia with honors. Member of the board
+      of the Internet Initiatives Development Fund. Current Status in 2025: Host of
+      “Time Will Tell” on Channel One Head of the “Political Russia” project Leader
+      of the musical group “Nashi” Member of the board of the Internet Initiatives Development
+      Fund Next up was Alexander Galushka, an economic heavy hitter in Russia: Alexander
+      Sergeevich Galushka (born December 1, 1975, Klin, Moscow Region) is a Russian
+      statesman and public figure. Minister of the Russian Federation for the Development
+      of the Far East (2013-2018). Deputy Secretary of the Public Chamber of the Russian
+      Federation. Chairman of the Coordinating Council under the Public Chamber for
+      National Projects and Population Preservation. Authorized representative of Vladimir
+      Putin in the 2024 elections. Author of strategic initiatives in economics and
+      demography. Current Status in 2025: Deputy Secretary of the Public Chamber of
+      the Russian Federation Chairman of the Coordinating Council for National Projects
+      and Population Preservation Member of the Presidential Commission for Historical
+      Education Member of the Presidium of the Government Commission for Economic Development
+      and Integration I got a signed copy of his most recent book, which is the number
+      one book in Russia. He explains why the Russian economy is so strong and how Western
+      sanctions actually boosted the Russian economy. My final interview was with a
+      battle-hardened war correspondent who has had extensive prior experience working
+      with US military forces: Alexander Valeryevich Sladkov (born April 1, 1966, Monino,
+      Moscow Region) is a Russian military journalist, special correspondent for DIP
+      “Vesti” VGTRK. Reserve officer (Senior Lieutenant). Member of the Public Council
+      under the Ministry of Defense of the Russian Federation. One of Russia’s most
+      experienced war correspondents, having worked in all major conflicts across the
+      post-Soviet space and beyond. Recipient of numerous state awards and professional
+      prizes. Current Status in 2025: Special correspondent for DIP “Vesti” VGTRK Member
+      of the Public Council under the Ministry of Defense of the Russian Federation
+      Member of the mobilization working group under the President of Russia Author
+      of a Telegram channel with regular frontline reports Here is the video, in english,
+      of Judge Napolitano and I interviewing Maria Zakharova. The moderator is a great
+      new friend — Alexander Kazakov: I’m going to bed as news is breaking about Trump’s
+      decision to impose new sanctions on the Russian oil industry. I’ll have a full
+      report on Russian reaction to that tomorrow. I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The author shares their enriching experience with the International
+      Unity Club, highlighting the freedom to engage in candid discussions with diverse
+      individuals, including Ambassador Rodion Miroshnik, and plans to share these conversations
+      through translated podcasts on their blog and Bitchute account.
+    paragraph_summary: The author shares their enriching experience with the International
+      Unity Club, highlighting the diverse individuals they meet and the freedom to
+      engage in open discussions. They plan to post translated podcasts from these conversations
+      on their blog and Bitchute account. The article features a conversation with Ambassador
+      Rodion Miroshnik, a prominent Russian diplomat focused on documenting crimes against
+      civilians attributed to the Kyiv regime. Miroshnik, who has a background in international
+      law and diplomacy, reflects on the violent events of May 2, 2014, in Odessa, where
+      clashes between pro-Ukrainian and pro-Russian groups resulted in significant casualties
+      and highlighted ongoing tensions in the region.
+    published: '2025-10-22T22:16:08+00:00'
   - title: Donald Trump’s Russia Policy… In Tatters or Just Playing?
     url: https://sonar21.com/donald-trumps-russia-policy-in-tatters-or-just-playing/
     text: 'News broke tonight in Moscow, courtesy of the White House, that this week’s

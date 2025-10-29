@@ -7,17 +7,76 @@ description: "Jack Rasmus is an American economist, author, and radio show host 
 websites:
   - https://jackrasmus.com/
 summary: |
-  As the global geopolitical landscape continues to shift, the United States faces mounting challenges both abroad and at home. The most recent developments center on the anticipated meeting between Vladimir Putin and Donald Trump, the deepening signs of a U.S. economic downturn, and the broader implications of America’s fiscal trajectory.
+  As global tensions and economic uncertainty persist, recent independent analysis highlights several key developments shaping the geopolitical landscape as of late October 2025.
   
-  The upcoming Putin-Trump summit in Alaska, scheduled for mid-August, has drawn significant attention. While mainstream narratives frame the meeting as a potential breakthrough for peace in Ukraine, **Jack Rasmus** suggests alternative motives. He argues that Trump may use the event as a strategic opportunity to justify a U.S. military withdrawal from Ukraine, regardless of ongoing support for the conflict. Rasmus also highlights the possibility of renewed U.S.-Russia economic talks, particularly around Russian commodities, and hints that Trump could push for a ceasefire involving Ukrainian territorial concessions. This meeting, therefore, could mark a pivotal moment not just for the war in Ukraine, but for the future of U.S.-Russia relations and Washington’s broader foreign policy direction.
+  The most pressing concern is the simultaneous expansion of four major financial asset bubbles—gold, cryptocurrencies, U.S. stocks, and AI investments. According to **Jack Rasmus**, this unprecedented convergence is driven by a 10% depreciation of the U.S. dollar, fallout from U.S. sanctions, and a global economic slowdown that has investors seeking refuge in alternative assets. Notably, AI investments have fueled 80% of stock price appreciation in 2025, with the AI bubble now dwarfing past speculative manias. Rasmus warns that these bubbles are "already four times larger than the mortgage bubble of 2003-07 and 17 times the dotcom bubble of 1997-2000," raising the specter of future financial instability or even a crash.
   
-  Domestically, the U.S. economy shows increasing signs of fragility. According to **Jack Rasmus**, recent labor market data is “troubling,” with only 73,000 jobs created in July and downward revisions for previous months, resulting in a mere 50,000 jobs added over the last quarter. The preliminary GDP report for Q2 further underscores these concerns. Trump’s recent announcement of sweeping tariff hikes on over 40 countries, including major trading partners like China and Canada, is expected to exacerbate economic headwinds. The Federal Reserve’s decision to keep interest rates unchanged for at least six more weeks adds to the uncertainty, suggesting that policymakers are wary of deteriorating labor market conditions.
+  On the political front, the U.S. faces mounting economic headwinds. Recent jobs and GDP reports indicate the country is teetering on the edge of recession, contradicting official White House messaging. The July jobs report showed only 73,000 new jobs, with downward revisions for previous months, and the Federal Reserve has opted to hold interest rates steady amid deteriorating labor market conditions. Rasmus notes that President Trump's recent tariff hikes on over 40 countries, including China and Canada, are likely to exacerbate these trends. The majority view among analysts is that a U.S. recession is "quite likely" in the coming quarters.
   
-  On the fiscal front, Rasmus warns of a looming crisis driven by decades of tax cuts, surging defense spending, and ballooning interest payments on the national debt—now projected to reach $38 trillion by year’s end. Annual interest payments have already surpassed $1 trillion and could climb to $1.7 trillion by 2034. Rasmus notes that “60% of budget deficits stem from inadequate tax revenues,” a situation worsened by the latest $5 trillion in tax cuts.
+  Meanwhile, the U.S.-Ukraine relationship has shifted following the finalization of the so-called Ukraine Minerals Deal 2.0. The new agreement, a significant retreat from earlier U.S. demands, no longer requires Ukraine to use mineral revenues to repay past U.S. aid. Instead, all revenues will be reinvested in Ukraine, and a loophole allows U.S. weapons deliveries to count as reinvestment. Only one of three signed documents has been made public, raising questions about undisclosed terms, possibly including a U.S. security guarantee. This deal marks a broader pattern of U.S. retreat from prior positions, echoing similar shifts in tariff and security policy.
   
-  **Trends and Predictions:**  
-  The convergence of foreign policy recalibration and domestic economic strain signals a period of heightened volatility for the U.S. Rasmus maintains there is a “high chance” that the Alaska summit will be leveraged to justify a U.S. withdrawal from Ukraine, potentially reshaping the conflict’s trajectory. On the economic front, he expresses “high confidence” that the U.S. is on the brink of recession, with fiscal imbalances likely to intensify. The broader trend, as outlined in Rasmus’s recent work, points to an accelerating decline in U.S. global influence, with economic, political, and military challenges converging in the months ahead.
+  Looking ahead, the convergence of financial bubbles, economic slowdown, and shifting U.S. foreign policy point to a period of heightened instability. Based on current trends, there is a high chance of increased financial volatility and a "quite likely" scenario of recession in the U.S. by early 2026. The retreat in U.S. foreign policy commitments, especially in Ukraine, may further undermine American influence abroad. As **Jack Rasmus** concludes, these developments reflect an accelerating decline in U.S. global power, with the risk of sudden shocks in both economic and geopolitical spheres.
 articles:
+  - title: '4 Financial Bubbles: Gold, Cryptos, Stocks & AI'
+    url: https://jackrasmus.com/2025/10/22/4-financial-bubbles-gold-cryptos-stocks-ai/
+    text: https://alternativevisions.podbean.com/e/4-financial-bubbles-growing-gold-cryptos-us-stocks-ai/
+      Today’s Alternative Visions show addresses the four financial asset bubbles currently
+      expanding simultaneously and what does it mean for financial instability or crashes
+      on the horizon. The dimensions of each are described, as well as their potential
+      interactions. The main determinants shared are US global sanctions (depressing
+      demand for the US dollar and its depreciation already by 10% in 2025), global
+      economy’s economic slowdown (and investors’ rush to safety in gold, cryptos, alternative
+      currencies), and accelerated investment in tech especially AI. Delete AI investing
+      (data centers, etc) and US real GDP in first half 2025 was only 0.1%. How AI comprises
+      80% of stock price appreciation in 2025. AI bubble is already 4X larger than mortgage
+      bubble of 2003-07 and 17X dotcom bubble of 1997-2000. Some potential scenarios.
+    one_sentence_summary: The article discusses the simultaneous expansion of four financial
+      asset bubbles—gold, cryptocurrencies, US stocks, and AI investments—highlighting
+      their potential interactions and implications for financial instability, driven
+      by factors such as US sanctions, a global economic slowdown, and a significant
+      focus on AI, which has already reached a size far exceeding previous market bubbles.
+    paragraph_summary: The latest episode of Alternative Visions discusses the simultaneous
+      expansion of four financial asset bubbles—gold, cryptocurrencies, U.S. stocks,
+      and AI investments—and their implications for future financial instability or
+      crashes. The episode highlights key factors contributing to these bubbles, including
+      U.S. global sanctions leading to a 10% depreciation of the dollar by 2025, a global
+      economic slowdown prompting investors to seek safety in alternative currencies,
+      and a significant surge in tech investments, particularly in AI. Notably, AI has
+      been responsible for 80% of stock price appreciation in 2025 and is already four
+      times larger than the mortgage bubble of 2003-07 and 17 times the dotcom bubble
+      of 1997-2000. The discussion also considers potential scenarios arising from these
+      financial dynamics.
+    published: '2025-10-22T19:58:20+00:00'
+  - title: '4 Financial Bubbles: Gold, Cryptos, Stocks & AI'
+    url: https://jackrasmus.com/2025/10/22/4-financial-bubbles-gold-cryptos-stocks-ai/
+    text: https://alternativevisions.podbean.com/e/4-financial-bubbles-growing-gold-cryptos-us-stocks-ai/
+      Today’s Alternative Visions show addresses the four financial asset bubbles currently
+      expanding simultaneously and what does it mean for financial instability or crashes
+      on the horizon. The dimensions of each are described, as well as their potential
+      interactions. The main determinants shared are US global sanctions (depressing
+      demand for the US dollar and its depreciation already by 10% in 2025), global
+      economy’s economic slowdown (and investors’ rush to safety in gold, cryptos, alternative
+      currencies), and accelerated investment in tech especially AI. Delete AI investing
+      (data centers, etc) and US real GDP in first half 2025 was only 0.1%. How AI comprises
+      80% of stock price appreciation in 2025. AI bubble is already 4X larger than mortgage
+      bubble of 2003-07 and 17X dotcom bubble of 1997-2000. Some potential scenarios.
+    one_sentence_summary: The article discusses the simultaneous expansion of four financial
+      asset bubbles—gold, cryptocurrencies, US stocks, and AI investments—highlighting
+      their potential interactions and implications for financial instability, driven
+      by factors such as US sanctions, a global economic slowdown, and a significant
+      focus on AI, which has already reached a size far exceeding previous market bubbles.
+    paragraph_summary: The latest episode of Alternative Visions discusses the simultaneous
+      expansion of four financial asset bubbles—gold, cryptocurrencies, U.S. stocks,
+      and AI investments—and their implications for future financial instability or
+      crashes. The episode highlights key factors contributing to these bubbles, including
+      U.S. global sanctions leading to a 10% depreciation of the dollar by 2025, a global
+      economic slowdown prompting investors to seek safety in alternative currencies,
+      and a significant surge in tech investments, particularly in AI. Notably, AI has
+      been responsible for 80% of stock price appreciation in 2025 and is already four
+      times larger than the mortgage bubble of 2003-07 and 17 times the dotcom bubble
+      of 1997-2000. The discussion also considers potential scenarios arising from these
+      financial dynamics.
+    published: '2025-10-22T19:58:20+00:00'
   - title: 'Putin-Trump Meeting: Endgame or PR Event'
     url: https://jackrasmus.com/2025/08/11/putin-trump-meeting-endgame-or-pr-event/
     text: 'by Dr. Jack Rasmus August 10, 2025 Putin and Trump last week agreed to meet

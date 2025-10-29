@@ -7,18 +7,830 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  As the Israeli-Palestinian conflict continues to dominate headlines, recent independent analysis highlights a series of escalating developments and shifting narratives. The situation remains volatile, with mounting scrutiny on both the conduct of military operations and the information campaigns surrounding them.
+  As geopolitical tensions continue to escalate globally, recent independent analysis highlights the growing complexity and manipulation of public narratives, particularly in Western discourse. The latest reports emphasize the increasing use of propaganda and the shifting focus of capitalist innovation, with significant implications for international relations and domestic politics.
   
-  The most significant new development, as outlined by **Caitlin Johnstone**, is the apparent breakdown of traditional narrative control mechanisms. In her latest assessment, Johnstone argues that “the imperial propaganda machine is failing in unprecedented ways,” particularly in relation to Israel’s efforts to shape global perceptions through coordinated messaging, or "hasbara." Despite intensive attempts to manage the narrative, there is a growing sense that these efforts are losing traction internationally. Johnstone points to widespread skepticism and the rapid spread of counter-narratives online as evidence that public opinion is shifting, especially regarding the humanitarian crisis in Gaza.
+  **Caitlin Johnstone** critiques the prevailing Western tendency to frame global conflicts in simplistic terms of "Good Guys" versus "Bad Guys," warning that this narrative obscures the nuanced realities behind international disputes. According to Johnstone, this binary worldview is not only misleading but also serves to justify ongoing imperial interventions and the perpetuation of elite interests.
   
-  This erosion of narrative control comes in the wake of renewed violence. According to Johnstone, Israeli forces recently killed 45 Palestinians in Gaza after an incident involving an Israeli vehicle triggering its own explosive device. The Western media’s framing of this event as a mere “test” of the ceasefire has drawn sharp criticism, with Johnstone highlighting the normalization of large-scale civilian casualties and the lack of accountability for such actions.
+  A notable development comes from a leaked Israeli Ministry of Foreign Affairs polling report, as discussed by **Caitlin Johnstone**, which reveals that the promotion of Islamophobia is being strategically deployed to counteract mounting global opposition to Israel. The report suggests that stoking fears of "Radical Islam" and "Jihadism" is viewed as an effective means to bolster Israel's image in the West, rather than addressing criticisms directly. This approach aligns with Johnstone's broader argument that narrative control is increasingly prioritized over substantive policy changes.
   
-  Meanwhile, the broader context of U.S. politics remains one of performative dissent rather than substantive change. Johnstone’s recent commentary describes American protests as “nonstop fake revolutions,” suggesting that while public demonstrations may energize political bases, they rarely translate into meaningful policy shifts or challenge entrenched power structures.
+  On the technological front, Johnstone also addresses the intensifying push for generative AI, arguing that capitalism has shifted from providing meaningful innovations to producing technologies that are largely unnecessary and environmentally damaging. She contends that this focus on AI reflects a broader inability of the current system to meet genuine human needs, instead opting for profit-driven solutions that may exacerbate social and ecological harms.
   
-  Looking ahead, the majority of independent analysts, including Johnstone, predict with high confidence that the loss of narrative control by Israel and its Western allies will continue. This trend is likely to fuel greater international scrutiny and pressure for accountability, though immediate policy changes remain unlikely. The humanitarian situation in Gaza is expected to deteriorate further unless there is a significant shift in international engagement or a breakthrough in ceasefire negotiations.
+  Looking ahead, the trends suggest a continued erosion of traditional propaganda's effectiveness, as more people begin to question official narratives and seek alternative sources of information. As Johnstone notes, "the imperial propaganda machine is failing in unprecedented ways," indicating a potential shift in public consciousness. There is a high chance that these developments will lead to increased skepticism toward mainstream narratives and a growing demand for transparency and accountability from both governments and corporate actors.
   
-  In summary, the key trends are the crumbling of established propaganda frameworks, the persistence of violence despite ceasefire agreements, and the performative nature of Western political dissent. The most likely outcome, as assessed by the majority of independent voices, is a continued erosion of public trust in official narratives and a slow but steady increase in calls for accountability—though without immediate resolution to the underlying conflict.
+  In summary, the current geopolitical landscape is marked by intensified narrative manipulation, strategic use of fear-based messaging, and a capitalist system struggling to deliver meaningful progress. The majority of independent analysts predict that these dynamics will persist, with most definitely a continued decline in the effectiveness of traditional propaganda and a rise in public scrutiny of elite-driven agendas.
 articles:
+  - title: You Believe The Mainstream Narrative? Of Course You Do, You're Twelve
+    url: https://www.caitlinjohnst.one/p/you-believe-the-mainstream-narrative
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now The ultimate expression of “everyone is
+      twelve now” theory is in the mainstream worldview promoted by western pundits
+      and politicians which holds that the world is full of evil villains doing evil
+      things simply because they are evil, and that these Bad Guys are opposed by the
+      virtuous Good Guys of the US-led world order. You think Hamas killed Israelis
+      because they’re a bunch of monsters who hate Jews? Of course you do, you’re twelve.
+      You think Trump is trying to get rid of Maduro because Maduro is an evil dictator
+      who wants to poison Americans with fentanyl? Hell yeah homie, you’re twelve. You
+      think Putin invaded Ukraine because he hates freedom and democracy and wants to
+      conquer the world? Bless your heart my twelve year-old buddy. You think the US
+      and Israel have been attacking and eliminating rivals in Iran, Lebanon, Syria,
+      Yemen and Palestine in order to fight terrorism, stop tyranny, and protect the
+      world from nuclear weapons? Yeah, that checks out, you’re twelve. The mainstream
+      western worldview is like a children’s cartoon, with the Bad Guys doing Bad Things
+      simply because they are Bad, and the Good Guys striving heroically to stop them.
+      It sounds like a shitty PG-13 summer blockbuster starring The Rock, but it’s the
+      consensus worldview of serious professional pundits and analysts who share this
+      perspective on mainstream platforms with serious expressions on their faces, and
+      anyone who calls any part of it into question is dismissed as an extremist or
+      a deranged crackpot. Because everyone is twelve now. ❖ I said the above on Twitter
+      and I got a reply from a guy saying “Western countries like Denmark, Holland and
+      the UK, US and Israel too are objectively nicer and happier places than the third
+      world ones you mentioned. You can see by walking around, looking at people and
+      things. So we’re doing something right that they’re doing wrong.” It always fascinates
+      me when people think this is some kind of checkmate argument. Yes obviously it’s
+      nicer to be in the countries doing the bombing, sanctioning, extracting and stealing
+      than the countries being bombed, sanctioned, exploited and robbed. It’s nicer
+      to be a mugger than the person being mugged, too. It’s always more pleasant to
+      be the hammer than the nail. It’s such a self-evidently stupid argument, but you
+      see it all the time. Whenever I talk about the abusiveness of the western empire
+      I always get empire simps in my replies all “hoho, but have you considered that
+      it is nicer to live here than to live there?” Of course it is, dickflop. It’s
+      always going to be easier being the abuser than the abused. ❖ https://x.com/caitoz/status/1981498144065233038
+      ❖ Israeli National Security Minister Itamar Ben-Gvir reportedly advocated shooting
+      children who get too close to the “Yellow Line” dividing Israel-controlled parts
+      of Gaza from the parts under Hamas control. After a while you start understanding
+      why so many people refer to the Israeli regime as “demonic” and “satanic” even
+      if you’re not religious. At a certain point you just run out of strong enough
+      adjectives. It’s so weird how the western political/media class regards Ben-Gvir
+      as a fringe kook whose comments should be ignored despite the fact that he (A)
+      is Israel’s national security minister and (B) consistently ends up getting what
+      he wants. ❖ Zohran Mamdani is outside my area of political interest and it’s none
+      of my business who New Yorkers elect as their mayor, but the Islamophobic shrieking
+      I’ve been seeing online in response to his campaign has been absolutely jaw-dropping.
+      No one with mainstream political or media aspirations could ever get away with
+      talking about the religion of a Jewish politician the way Zionists have been openly
+      talking about Mamdani and his faith. From what I can tell Mamdani is a just a
+      regular guy and a fairly ordinary progressive Democrat with an extraordinarily
+      high level of campaign talent, but these freaks are claiming he’s going to impose
+      sharia law and start throwing gays off the Chrysler Building. It’s a degree of
+      mass hysteria about Islam unlike anything I’ve seen since the immediate aftermath
+      of 9/11, which any normal person will agree led to some extremely bad thinking
+      and terrible decisions. Some of it is arising from organic American racism and
+      the knee-jerk rightist impulse to throw anyone to the left of Bill Clinton out
+      of a flying helicopter, but a lot of it has nothing to do with Mamdani at all.
+      As we’ve discussed previously , Zionists have been seizing on every opportunity
+      to promote hatred of Muslims because it’s a lot easier than convincing people
+      to like Israel. To be clear, I am not speculating when I say this. Drop Site News
+      published a report last month based on leaked documents which showed that the
+      Israeli government had commissioned an American polling company to help it with
+      the PR crisis caused by its genocidal atrocities, and the report found that the
+      most effective strategy would be to foment fear of “Radical Islam” and “Jihadism”.
+      So this agenda is already in the waters of Zionist consciousness. The election
+      of a Muslim to the most high-profile mayoral position in the United States provides
+      Israel supporters with ample opportunity to stir up panic about Muslims in America
+      on the assumption that Israel will benefit from such sentiments, since Israel
+      is always killing Muslims. There is no argument to be made that Israel is a good
+      nation that is inherently deserving of support, so they’re banking on circulating
+      the belief that it’s good to drop bombs on Muslims instead. Western politics is
+      getting more and more diseased, and US politics is leading the way. It’s making
+      people dumber, crazier, and more hateful, and is preventing them from seeing that
+      the real minority that’s been causing everyone’s problems are the rich and powerful
+      oligarchs and empire managers who rule the western power alliance. Keep ordinary
+      members of the public hating each other and fighting each other, and they won’t
+      start hating and fighting their actual oppressors. _______________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article critiques the simplistic and juvenile worldview
+      held by many in the West, which frames global conflicts as battles between unequivocal
+      Good Guys and Bad Guys, ignoring the complex realities behind these situations.
+    paragraph_summary: The article critiques the simplistic and binary worldview prevalent
+      among mainstream Western pundits and politicians, which frames global conflicts
+      as a battle between unequivocally evil villains and virtuous heroes. It argues
+      that this perspective reduces complex geopolitical issues—such as the actions
+      of Hamas, Trump’s policies toward Venezuela, and U.S. interventions in the Middle
+      East—to a childish narrative where "Bad Guys" act out of pure malice and "Good
+      Guys" strive to thwart them. The author suggests that this oversimplified understanding
+      reflects a lack of maturity in political discourse, where dissenting views are
+      often dismissed as extremist. The piece highlights a response from a reader who
+      claims that Western countries are objectively better than those in the "third
+      world," further illustrating the article's point about the naivety and reductionism
+      in mainstream narratives.
+    published: '2025-10-27T23:00:52+00:00'
+  - title: You Believe The Mainstream Narrative? Of Course You Do, You're Twelve
+    url: https://www.caitlinjohnst.one/p/you-believe-the-mainstream-narrative
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now The ultimate expression of “everyone is
+      twelve now” theory is in the mainstream worldview promoted by western pundits
+      and politicians which holds that the world is full of evil villains doing evil
+      things simply because they are evil, and that these Bad Guys are opposed by the
+      virtuous Good Guys of the US-led world order. You think Hamas killed Israelis
+      because they’re a bunch of monsters who hate Jews? Of course you do, you’re twelve.
+      You think Trump is trying to get rid of Maduro because Maduro is an evil dictator
+      who wants to poison Americans with fentanyl? Hell yeah homie, you’re twelve. You
+      think Putin invaded Ukraine because he hates freedom and democracy and wants to
+      conquer the world? Bless your heart my twelve year-old buddy. You think the US
+      and Israel have been attacking and eliminating rivals in Iran, Lebanon, Syria,
+      Yemen and Palestine in order to fight terrorism, stop tyranny, and protect the
+      world from nuclear weapons? Yeah, that checks out, you’re twelve. The mainstream
+      western worldview is like a children’s cartoon, with the Bad Guys doing Bad Things
+      simply because they are Bad, and the Good Guys striving heroically to stop them.
+      It sounds like a shitty PG-13 summer blockbuster starring The Rock, but it’s the
+      consensus worldview of serious professional pundits and analysts who share this
+      perspective on mainstream platforms with serious expressions on their faces, and
+      anyone who calls any part of it into question is dismissed as an extremist or
+      a deranged crackpot. Because everyone is twelve now. ❖ I said the above on Twitter
+      and I got a reply from a guy saying “Western countries like Denmark, Holland and
+      the UK, US and Israel too are objectively nicer and happier places than the third
+      world ones you mentioned. You can see by walking around, looking at people and
+      things. So we’re doing something right that they’re doing wrong.” It always fascinates
+      me when people think this is some kind of checkmate argument. Yes obviously it’s
+      nicer to be in the countries doing the bombing, sanctioning, extracting and stealing
+      than the countries being bombed, sanctioned, exploited and robbed. It’s nicer
+      to be a mugger than the person being mugged, too. It’s always more pleasant to
+      be the hammer than the nail. It’s such a self-evidently stupid argument, but you
+      see it all the time. Whenever I talk about the abusiveness of the western empire
+      I always get empire simps in my replies all “hoho, but have you considered that
+      it is nicer to live here than to live there?” Of course it is, dickflop. It’s
+      always going to be easier being the abuser than the abused. ❖ https://x.com/caitoz/status/1981498144065233038
+      ❖ Israeli National Security Minister Itamar Ben-Gvir reportedly advocated shooting
+      children who get too close to the “Yellow Line” dividing Israel-controlled parts
+      of Gaza from the parts under Hamas control. After a while you start understanding
+      why so many people refer to the Israeli regime as “demonic” and “satanic” even
+      if you’re not religious. At a certain point you just run out of strong enough
+      adjectives. It’s so weird how the western political/media class regards Ben-Gvir
+      as a fringe kook whose comments should be ignored despite the fact that he (A)
+      is Israel’s national security minister and (B) consistently ends up getting what
+      he wants. ❖ Zohran Mamdani is outside my area of political interest and it’s none
+      of my business who New Yorkers elect as their mayor, but the Islamophobic shrieking
+      I’ve been seeing online in response to his campaign has been absolutely jaw-dropping.
+      No one with mainstream political or media aspirations could ever get away with
+      talking about the religion of a Jewish politician the way Zionists have been openly
+      talking about Mamdani and his faith. From what I can tell Mamdani is a just a
+      regular guy and a fairly ordinary progressive Democrat with an extraordinarily
+      high level of campaign talent, but these freaks are claiming he’s going to impose
+      sharia law and start throwing gays off the Chrysler Building. It’s a degree of
+      mass hysteria about Islam unlike anything I’ve seen since the immediate aftermath
+      of 9/11, which any normal person will agree led to some extremely bad thinking
+      and terrible decisions. Some of it is arising from organic American racism and
+      the knee-jerk rightist impulse to throw anyone to the left of Bill Clinton out
+      of a flying helicopter, but a lot of it has nothing to do with Mamdani at all.
+      As we’ve discussed previously , Zionists have been seizing on every opportunity
+      to promote hatred of Muslims because it’s a lot easier than convincing people
+      to like Israel. To be clear, I am not speculating when I say this. Drop Site News
+      published a report last month based on leaked documents which showed that the
+      Israeli government had commissioned an American polling company to help it with
+      the PR crisis caused by its genocidal atrocities, and the report found that the
+      most effective strategy would be to foment fear of “Radical Islam” and “Jihadism”.
+      So this agenda is already in the waters of Zionist consciousness. The election
+      of a Muslim to the most high-profile mayoral position in the United States provides
+      Israel supporters with ample opportunity to stir up panic about Muslims in America
+      on the assumption that Israel will benefit from such sentiments, since Israel
+      is always killing Muslims. There is no argument to be made that Israel is a good
+      nation that is inherently deserving of support, so they’re banking on circulating
+      the belief that it’s good to drop bombs on Muslims instead. Western politics is
+      getting more and more diseased, and US politics is leading the way. It’s making
+      people dumber, crazier, and more hateful, and is preventing them from seeing that
+      the real minority that’s been causing everyone’s problems are the rich and powerful
+      oligarchs and empire managers who rule the western power alliance. Keep ordinary
+      members of the public hating each other and fighting each other, and they won’t
+      start hating and fighting their actual oppressors. _______________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article critiques the simplistic and juvenile worldview
+      held by many in the West, which frames global conflicts as battles between unequivocal
+      Good Guys and Bad Guys, ignoring the complex realities behind these situations.
+    paragraph_summary: The article critiques the simplistic and binary worldview prevalent
+      among mainstream Western pundits and politicians, which frames global conflicts
+      as a battle between unequivocally evil villains and virtuous heroes. It argues
+      that this perspective reduces complex geopolitical issues—such as the actions
+      of Hamas, Trump’s policies toward Venezuela, and U.S. interventions in the Middle
+      East—to a childish narrative where "Bad Guys" act out of pure malice and "Good
+      Guys" strive to thwart them. The author suggests that this oversimplified understanding
+      reflects a lack of maturity in political discourse, where dissenting views are
+      often dismissed as extremist. The piece highlights a response from a reader who
+      claims that Western countries are objectively better than those in the "third
+      world," further illustrating the article's point about the naivety and reductionism
+      in mainstream narratives.
+    published: '2025-10-27T23:00:52+00:00'
+  - title: Capitalism Is Shoving AI Down Our Throats Because It Can't Give Us What We
+      Actually Want
+    url: https://www.caitlinjohnst.one/p/capitalism-is-shoving-ai-down-our
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      At some point capitalism lost the ability to give us new things that we need and
+      started giving us new things we don’t need, and now it’s giving us new things
+      we never needed and don’t even really want. Nobody needs all this generative AI
+      crap. We were doing fine with online search functions and the ability to write
+      and make art for ourselves. Only the most shallow and vapid of individuals find
+      any appeal in the idea of talking to a chatbot like a companion, consuming “art”
+      generated by a computer program, or letting the technology of some plutocratic
+      megacorporation do their thinking, researching and expressing for them. The economy
+      is now balancing on a giant bubble of a fledgeling industry that is already underperforming
+      expectations and hitting points of diminishing returns on multiple fronts, all
+      while being really bad for the environment . And it doesn’t improve anyone’s life
+      in any meaningful way. Nobody asked for this. And it’s not like people aren’t
+      asking for things; capitalism just doesn’t have the ability to give them the things
+      they are asking for. World peace. Affordable housing. Good health. Fast and efficient
+      public transportation systems. Solutions to the various environmental catastrophes
+      that status quo human behavior is driving us toward. The ability to have our needs
+      met without spending all our time at work. Care for the needful. General human
+      thriving. These are not demands that a system driven by the pursuit of profit
+      for its own sake can supply. When capitalism first showed up it delivered plenty
+      of new things which people had a need and a desire for that weren’t available
+      under previous systems like feudalism. The greatly increased material abundance
+      and explosions of scientific and technological innovation ushered in with the
+      dawn of capitalism caused human quality of life to improve by leaps and bounds.
+      But now we’re at a point where that just isn’t happening anymore. Things have
+      stagnated, and we’re starting to backslide. People are getting dumber , sicker
+      , lonelier , and more and more miserable . And the profit-driven systems we live
+      under have no answers, besides throwing increasingly shitbrained technology at
+      us so we can distract ourselves from how fucked up everything has gotten. https://x.com/fuckyouiquit/status/1981472313540514126
+      We are being driven into dystopia and annihilation by systems of our own making.
+      We’re meant to be the smartest species on earth, but we locked ourselves in our
+      invention — a self-reinforcing labor camp that makes us miserable — and then we
+      get all huffy when people dare to question if it’s the only way of doing things.
+      Literally every other species is smarter than us. Amoebas are having a better
+      time of it. This will change when humanity replaces capitalism with something
+      better, in the same way we replaced feudalism with the superior system of capitalism.
+      I don’t know what that system is going to look like, but it’s going to have to
+      involve a move from a model that is driven by competition to one that is driven
+      by collaboration. That’s the only way humanity will be able to channel all its
+      brilliance toward the immense project of overcoming all the obstacles we now face
+      as a species, along with all terrestrial organisms. Until then, all we can do
+      is try to help awaken as many of our fellow humans as possible to the reality
+      of our circumstances. Use every means at our disposal to teach people how dire
+      our plight is, how deceived we’ve been by the propaganda and indoctrination of
+      the empire we live under, how sorely change is needed, and that a better world
+      is possible. Once we get enough eyes open, we’ll have the numbers to force things
+      to change. _______________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article critiques capitalism for shifting from providing
+      essential innovations to producing unnecessary and unwanted technologies, particularly
+      generative AI, which it argues fails to enhance lives and harms the environment.
+    paragraph_summary: The article critiques contemporary capitalism for shifting its
+      focus from providing essential goods and services to generating unnecessary and
+      often unwanted products, particularly in the realm of generative AI. It argues
+      that while capitalism once thrived by meeting genuine human needs and desires,
+      it has now become mired in a cycle of producing superficial innovations that do
+      not enhance quality of life or address pressing societal issues, such as world
+      peace, affordable housing, and environmental sustainability. The author contends
+      that the current economic system is failing to deliver meaningful solutions to
+      the real challenges people face, highlighting a disconnect between what society
+      needs and what capitalism is able to provide, ultimately suggesting that the system
+      is now more concerned with profit than with human flourishing.
+    published: '2025-10-26T01:03:11+00:00'
+  - title: Capitalism Is Shoving AI Down Our Throats Because It Can't Give Us What We
+      Actually Want
+    url: https://www.caitlinjohnst.one/p/capitalism-is-shoving-ai-down-our
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      At some point capitalism lost the ability to give us new things that we need and
+      started giving us new things we don’t need, and now it’s giving us new things
+      we never needed and don’t even really want. Nobody needs all this generative AI
+      crap. We were doing fine with online search functions and the ability to write
+      and make art for ourselves. Only the most shallow and vapid of individuals find
+      any appeal in the idea of talking to a chatbot like a companion, consuming “art”
+      generated by a computer program, or letting the technology of some plutocratic
+      megacorporation do their thinking, researching and expressing for them. The economy
+      is now balancing on a giant bubble of a fledgeling industry that is already underperforming
+      expectations and hitting points of diminishing returns on multiple fronts, all
+      while being really bad for the environment . And it doesn’t improve anyone’s life
+      in any meaningful way. Nobody asked for this. And it’s not like people aren’t
+      asking for things; capitalism just doesn’t have the ability to give them the things
+      they are asking for. World peace. Affordable housing. Good health. Fast and efficient
+      public transportation systems. Solutions to the various environmental catastrophes
+      that status quo human behavior is driving us toward. The ability to have our needs
+      met without spending all our time at work. Care for the needful. General human
+      thriving. These are not demands that a system driven by the pursuit of profit
+      for its own sake can supply. When capitalism first showed up it delivered plenty
+      of new things which people had a need and a desire for that weren’t available
+      under previous systems like feudalism. The greatly increased material abundance
+      and explosions of scientific and technological innovation ushered in with the
+      dawn of capitalism caused human quality of life to improve by leaps and bounds.
+      But now we’re at a point where that just isn’t happening anymore. Things have
+      stagnated, and we’re starting to backslide. People are getting dumber , sicker
+      , lonelier , and more and more miserable . And the profit-driven systems we live
+      under have no answers, besides throwing increasingly shitbrained technology at
+      us so we can distract ourselves from how fucked up everything has gotten. https://x.com/fuckyouiquit/status/1981472313540514126
+      We are being driven into dystopia and annihilation by systems of our own making.
+      We’re meant to be the smartest species on earth, but we locked ourselves in our
+      invention — a self-reinforcing labor camp that makes us miserable — and then we
+      get all huffy when people dare to question if it’s the only way of doing things.
+      Literally every other species is smarter than us. Amoebas are having a better
+      time of it. This will change when humanity replaces capitalism with something
+      better, in the same way we replaced feudalism with the superior system of capitalism.
+      I don’t know what that system is going to look like, but it’s going to have to
+      involve a move from a model that is driven by competition to one that is driven
+      by collaboration. That’s the only way humanity will be able to channel all its
+      brilliance toward the immense project of overcoming all the obstacles we now face
+      as a species, along with all terrestrial organisms. Until then, all we can do
+      is try to help awaken as many of our fellow humans as possible to the reality
+      of our circumstances. Use every means at our disposal to teach people how dire
+      our plight is, how deceived we’ve been by the propaganda and indoctrination of
+      the empire we live under, how sorely change is needed, and that a better world
+      is possible. Once we get enough eyes open, we’ll have the numbers to force things
+      to change. _______________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article critiques capitalism for shifting from providing
+      essential innovations to producing unnecessary and unwanted technologies, particularly
+      generative AI, which it argues fails to enhance lives and harms the environment.
+    paragraph_summary: The article critiques contemporary capitalism for shifting its
+      focus from providing essential goods and services to generating unnecessary and
+      often unwanted products, particularly in the realm of generative AI. It argues
+      that while capitalism once thrived by meeting genuine human needs and desires,
+      it has now become mired in a cycle of producing superficial innovations that do
+      not enhance quality of life or address pressing societal issues, such as world
+      peace, affordable housing, and environmental sustainability. The author contends
+      that the current economic system is failing to deliver meaningful solutions to
+      the real challenges people face, highlighting a disconnect between what society
+      needs and what capitalism is able to provide, ultimately suggesting that the system
+      is now more concerned with profit than with human flourishing.
+    published: '2025-10-26T01:03:11+00:00'
+  - title: Guillotine Song
+    url: https://www.caitlinjohnst.one/p/guillotine-song
+    text: 'Listen to a reading of “Guillotine Song” by Tim Foley : Subscribe now Pentagon
+      profiteer plutocrats Genocide gigolos and Raytheon rats Build robot armies and
+      robot cops Boil our water for AI slop Poison our oceans and blacken our skies
+      Enslave our minds with hatred and lies Well hey man I know something nicer Let’s
+      put their melons in the melon slicer Steal our wages and crush dissent Buy all
+      the housing and raise the rent Buy both parties so voting won’t work Rig that
+      election with a smugly smirk Then send our children off to war Cuz they got money
+      but they want more It needs to stop so here’s the stopper: Set those melons in
+      the melon chopper Pedophile parties and private jets While working people drown
+      in debts Using the press to manufacture consent So no one asks where the money
+      went Pulling the wool up over our eyes While the ice caps melt and the planet
+      dies These Palantir princes won’t look so chipper When their melons meet the melon
+      snipper Watch those melons go snippety snip For Iraq and Yemen and the Gaza Strip
+      For the hungry and homeless and the working poor Listen to those melons hitting
+      the floor Watch those melons bounce down the stairs Getting snip snap snippied
+      in singles and pairs Luigi was an underachiever Poke those melons in the melon
+      cleaver ____________________ As usual, anyone who wants to set these words to
+      music is free to do so. ____________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The poem "Guillotine Song" by Tim Foley critiques the greed
+      and corruption of powerful elites, portraying them as exploitative figures who
+      harm society and the environment, ultimately calling for a radical response to
+      their injustices.
+    paragraph_summary: The article features a reading of "Guillotine Song" by Tim Foley,
+      a satirical piece that critiques the greed and corruption of powerful elites,
+      particularly in the context of war, economic inequality, and environmental degradation.
+      Through vivid imagery and biting humor, the lyrics condemn the actions of corporations
+      and politicians who exploit the working class, manipulate public opinion, and
+      prioritize profit over humanity and the planet. The refrain about "melons" serves
+      as a metaphor for the wealthy elite, suggesting a violent reckoning for their
+      exploitation and negligence. The piece encourages creative reinterpretation and
+      sharing, emphasizing its grassroots, reader-supported nature.
+    published: '2025-10-25T12:28:31+00:00'
+  - title: Guillotine Song
+    url: https://www.caitlinjohnst.one/p/guillotine-song
+    text: 'Listen to a reading of “Guillotine Song” by Tim Foley : Subscribe now Pentagon
+      profiteer plutocrats Genocide gigolos and Raytheon rats Build robot armies and
+      robot cops Boil our water for AI slop Poison our oceans and blacken our skies
+      Enslave our minds with hatred and lies Well hey man I know something nicer Let’s
+      put their melons in the melon slicer Steal our wages and crush dissent Buy all
+      the housing and raise the rent Buy both parties so voting won’t work Rig that
+      election with a smugly smirk Then send our children off to war Cuz they got money
+      but they want more It needs to stop so here’s the stopper: Set those melons in
+      the melon chopper Pedophile parties and private jets While working people drown
+      in debts Using the press to manufacture consent So no one asks where the money
+      went Pulling the wool up over our eyes While the ice caps melt and the planet
+      dies These Palantir princes won’t look so chipper When their melons meet the melon
+      snipper Watch those melons go snippety snip For Iraq and Yemen and the Gaza Strip
+      For the hungry and homeless and the working poor Listen to those melons hitting
+      the floor Watch those melons bounce down the stairs Getting snip snap snippied
+      in singles and pairs Luigi was an underachiever Poke those melons in the melon
+      cleaver ____________________ As usual, anyone who wants to set these words to
+      music is free to do so. ____________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The poem "Guillotine Song" by Tim Foley critiques the greed
+      and corruption of powerful elites, portraying them as exploitative figures who
+      harm society and the environment, ultimately calling for a radical response to
+      their injustices.
+    paragraph_summary: The article features a reading of "Guillotine Song" by Tim Foley,
+      a satirical piece that critiques the greed and corruption of powerful elites,
+      particularly in the context of war, economic inequality, and environmental degradation.
+      Through vivid imagery and biting humor, the lyrics condemn the actions of corporations
+      and politicians who exploit the working class, manipulate public opinion, and
+      prioritize profit over humanity and the planet. The refrain about "melons" serves
+      as a metaphor for the wealthy elite, suggesting a violent reckoning for their
+      exploitation and negligence. The piece encourages creative reinterpretation and
+      sharing, emphasizing its grassroots, reader-supported nature.
+    published: '2025-10-25T12:28:31+00:00'
+  - title: They Tell Us To Fear Muslims While The US Empire Terrorizes The World
+    url: https://www.caitlinjohnst.one/p/they-tell-us-to-fear-muslims-while
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The other day I published an essay titled “ Zionists Push Islamophobia Because
+      It’s Easier Than Getting People To Like Israel ,” based on the conspicuous overlap
+      between virulent Israel supporters and people who promote hatred of Muslims. What
+      I didn’t know at the time until readers alerted me was that Drop Site News had
+      put out an article last month about a leaked polling report commissioned by the
+      Israeli Ministry of Foreign Affairs which actually found that promoting Islamophobia
+      is the most effective way of combatting the way worldwide public opinion has been
+      turning against Israel. “Israel’s best tactic to combat this, according to the
+      study, is to foment fear of ‘Radical Islam’ and ‘Jihadism,’ which remain high,”
+      Drop Site’s Ryan Grim writes. “By highlighting Israeli support for women’s rights
+      and gay rights while elevating concerns that Hamas wants to ‘destroy all Jews
+      and spread Jihadism,’ Israeli support rebounded by an average of over 20 points
+      in each country.” So this is an actual, planned tactic. The shrieking vitriol
+      we’ve been seeing about Islam and Muslims lately is being deliberately and systematically
+      fomented as a calculated strategy. https://x.com/GenXGirl1994/status/1972419987618038168
+      One of the moronic things about this latest wave of Islamophobic hysteria is that
+      the US and Israel and their allies are vastly more murderous and tyrannical than
+      the entire Muslim world combined. The Trump administration is currently sending
+      the world’s largest aircraft carrier and a bunch of warships to the waters off
+      Latin America, where they’ve been waging a bogus new war on terror with increasingly
+      frequent attacks on boats carrying alleged “narco-terrorists”. They’re not even
+      disguising the fact that this is actually about preparing for regime change interventionism
+      in Venezuela, a government that Washington has long sought to topple because of
+      its massive oil reserves and noncompliance with the capitalist world order. The
+      US power alliance is constantly doing things like this . Waging wars, bombing
+      countries, imposing starvation sanctions, staging coups, backing proxy conflicts,
+      meddling in foreign elections — all with the goal of total planetary domination.
+      It’s accepted as the baseline norm and the western press often barely even reports
+      on its abuses (did you know Trump has bombed Somalia more than 80 times this year?),
+      but that doesn’t make it any less murderous and tyrannical. And we’re being told
+      day in and day out that we all need to be afraid of Muslims, who even with a worldwide
+      population of two billion still manage to be far, far less violent and destructive
+      than the US-centralized power alliance. https://x.com/RaniaKhalek/status/1981806987764547940
+      Hell, the most abusive Muslim states are US partners in crime like Saudi Arabia
+      and the UAE, whose genocidal butchery in Yemen was backed by the US and its allies
+      from 2015–2022. The UAE is funding genocidal atrocities in Sudan right this very
+      moment. The US-centralized empire is the most destructive power structure on earth
+      , and the most destructive Muslim states are backed by that same western power
+      structure. The empire we live under is everything we’re trained to fear. Our own
+      rulers are the murderers. Our own rulers are the terrorists. Our own rulers are
+      the tyrants. Our own rulers are the problem. Our rulers want us shaking our fists
+      at Muslims, immigrants, disobedient governments, and members of the other mainstream
+      political party so that we don’t start shaking our fists at them. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: An article discusses a leaked Israeli Ministry of Foreign
+      Affairs polling report revealing that promoting Islamophobia is seen as an effective
+      strategy to counteract growing global opposition to Israel, suggesting that fear
+      of "Radical Islam" and "Jihadism" can be leveraged to improve Israel's image.
+    paragraph_summary: The article discusses a recent essay that highlights the connection
+      between strong supporters of Israel and those who promote Islamophobia, revealing
+      a leaked polling report from the Israeli Ministry of Foreign Affairs. This report
+      indicates that fostering fear of "Radical Islam" and "Jihadism" is a strategic
+      tactic employed by Israel to counteract declining global support. By emphasizing
+      Israeli support for women's and gay rights while portraying Hamas as a threat,
+      Israel's approval ratings reportedly improved significantly. The article critiques
+      the hypocrisy of this Islamophobic narrative, noting that the U.S. and Israel
+      are responsible for far more violence than the entire Muslim world, and points
+      to ongoing military actions in Latin America as part of a broader agenda for regime
+      change, particularly in Venezuela.
+    published: '2025-10-25T01:08:58+00:00'
+  - title: They Tell Us To Fear Muslims While The US Empire Terrorizes The World
+    url: https://www.caitlinjohnst.one/p/they-tell-us-to-fear-muslims-while
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The other day I published an essay titled “ Zionists Push Islamophobia Because
+      It’s Easier Than Getting People To Like Israel ,” based on the conspicuous overlap
+      between virulent Israel supporters and people who promote hatred of Muslims. What
+      I didn’t know at the time until readers alerted me was that Drop Site News had
+      put out an article last month about a leaked polling report commissioned by the
+      Israeli Ministry of Foreign Affairs which actually found that promoting Islamophobia
+      is the most effective way of combatting the way worldwide public opinion has been
+      turning against Israel. “Israel’s best tactic to combat this, according to the
+      study, is to foment fear of ‘Radical Islam’ and ‘Jihadism,’ which remain high,”
+      Drop Site’s Ryan Grim writes. “By highlighting Israeli support for women’s rights
+      and gay rights while elevating concerns that Hamas wants to ‘destroy all Jews
+      and spread Jihadism,’ Israeli support rebounded by an average of over 20 points
+      in each country.” So this is an actual, planned tactic. The shrieking vitriol
+      we’ve been seeing about Islam and Muslims lately is being deliberately and systematically
+      fomented as a calculated strategy. https://x.com/GenXGirl1994/status/1972419987618038168
+      One of the moronic things about this latest wave of Islamophobic hysteria is that
+      the US and Israel and their allies are vastly more murderous and tyrannical than
+      the entire Muslim world combined. The Trump administration is currently sending
+      the world’s largest aircraft carrier and a bunch of warships to the waters off
+      Latin America, where they’ve been waging a bogus new war on terror with increasingly
+      frequent attacks on boats carrying alleged “narco-terrorists”. They’re not even
+      disguising the fact that this is actually about preparing for regime change interventionism
+      in Venezuela, a government that Washington has long sought to topple because of
+      its massive oil reserves and noncompliance with the capitalist world order. The
+      US power alliance is constantly doing things like this . Waging wars, bombing
+      countries, imposing starvation sanctions, staging coups, backing proxy conflicts,
+      meddling in foreign elections — all with the goal of total planetary domination.
+      It’s accepted as the baseline norm and the western press often barely even reports
+      on its abuses (did you know Trump has bombed Somalia more than 80 times this year?),
+      but that doesn’t make it any less murderous and tyrannical. And we’re being told
+      day in and day out that we all need to be afraid of Muslims, who even with a worldwide
+      population of two billion still manage to be far, far less violent and destructive
+      than the US-centralized power alliance. https://x.com/RaniaKhalek/status/1981806987764547940
+      Hell, the most abusive Muslim states are US partners in crime like Saudi Arabia
+      and the UAE, whose genocidal butchery in Yemen was backed by the US and its allies
+      from 2015–2022. The UAE is funding genocidal atrocities in Sudan right this very
+      moment. The US-centralized empire is the most destructive power structure on earth
+      , and the most destructive Muslim states are backed by that same western power
+      structure. The empire we live under is everything we’re trained to fear. Our own
+      rulers are the murderers. Our own rulers are the terrorists. Our own rulers are
+      the tyrants. Our own rulers are the problem. Our rulers want us shaking our fists
+      at Muslims, immigrants, disobedient governments, and members of the other mainstream
+      political party so that we don’t start shaking our fists at them. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: An article discusses a leaked Israeli Ministry of Foreign
+      Affairs polling report revealing that promoting Islamophobia is seen as an effective
+      strategy to counteract growing global opposition to Israel, suggesting that fear
+      of "Radical Islam" and "Jihadism" can be leveraged to improve Israel's image.
+    paragraph_summary: The article discusses a recent essay that highlights the connection
+      between strong supporters of Israel and those who promote Islamophobia, revealing
+      a leaked polling report from the Israeli Ministry of Foreign Affairs. This report
+      indicates that fostering fear of "Radical Islam" and "Jihadism" is a strategic
+      tactic employed by Israel to counteract declining global support. By emphasizing
+      Israeli support for women's and gay rights while portraying Hamas as a threat,
+      Israel's approval ratings reportedly improved significantly. The article critiques
+      the hypocrisy of this Islamophobic narrative, noting that the U.S. and Israel
+      are responsible for far more violence than the entire Muslim world, and points
+      to ongoing military actions in Latin America as part of a broader agenda for regime
+      change, particularly in Venezuela.
+    published: '2025-10-25T01:08:58+00:00'
+  - title: 'New Painting: Jeff Bezos'
+    url: https://www.caitlinjohnst.one/p/new-painting-jeff-bezos
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      While I was working on this painting of US oligarch Jeff Bezos I kept thinking
+      about a speech he gave in 2019 where he laid out his nightmarish vision for the
+      future of the human species. Bezos described a future where the overwhelming majority
+      of humans are shipped off to space to live their lives inside “O’Neill colonies” — giant
+      cylinders which rotate to simulate Earth’s gravity. Only a privileged few would
+      get to remain on humanity’s home world, where the ecosystem would be able to repair
+      and thrive now that it’s not being overburdened by more humans than it can handle.
+      One doesn’t have to stretch the imagination to guess which side of the equation
+      Bezos envisions himself and his family winding up on in this scenario. As I was
+      painting I kept thinking about how horrific it would be if Bezos’ plan for humanity
+      was ever put into place, because you know hardly anyone would leave this planet
+      voluntarily. Billions of people would be forced onto space ships bound for these
+      giant spinning space stations, their hearts breaking at the unimaginable loss
+      of their indigenous home world. It would be like a planet-wide Nakba. A Trail
+      of Tears for our entire species. The freaks who rule our world do not have a healthy
+      vision for humanity’s future. Their best ideas are a normal person’s worst nightmare.
+      Jeff Bezos envisions ecocidal capitalism being allowed to tick along completely
+      unrestricted and unhindered, with humanity rescuing itself from disaster at the
+      last minute by shipping most of itself off planet to live inside giant Amazon
+      space dildos. That’s his best and brightest plan. Our rulers are not good people.
+      They are not wise. They are not compassionate. They aren’t even particularly intelligent.
+      They just happen to be good at winning the capitalism game by moving the circumstances
+      of our society around in such a way that the numbers in their bank accounts grow
+      very large. This is not a healthy way for us to live. We cannot keep doing this.
+      __________________ Caitlin’s Newsletter is a reader-supported publication. To
+      receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article reflects on a painting of Jeff Bezos while critiquing
+      his 2019 vision for humanity's future, which involves relocating the majority
+      of people to space colonies while a privileged few remain on Earth, highlighting
+      the dystopian implications of such a scenario.
+    paragraph_summary: The article critiques Jeff Bezos' vision for humanity's future,
+      as articulated in a 2019 speech, where he imagines a dystopian scenario in which
+      most people are relocated to space colonies while a select few remain on Earth.
+      The author expresses horror at the implications of such a plan, likening it to
+      historical tragedies like the Nakba and the Trail of Tears, suggesting that it
+      would involve the forced displacement of billions from their home planet. The
+      piece argues that Bezos' perspective reflects a broader trend among the wealthy
+      elite, who prioritize profit and capitalism over compassion and wisdom, ultimately
+      proposing a future that is detrimental to the majority of humanity.
+    published: '2025-10-24T01:50:16+00:00'
+  - title: 'New Painting: Jeff Bezos'
+    url: https://www.caitlinjohnst.one/p/new-painting-jeff-bezos
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      While I was working on this painting of US oligarch Jeff Bezos I kept thinking
+      about a speech he gave in 2019 where he laid out his nightmarish vision for the
+      future of the human species. Bezos described a future where the overwhelming majority
+      of humans are shipped off to space to live their lives inside “O’Neill colonies” — giant
+      cylinders which rotate to simulate Earth’s gravity. Only a privileged few would
+      get to remain on humanity’s home world, where the ecosystem would be able to repair
+      and thrive now that it’s not being overburdened by more humans than it can handle.
+      One doesn’t have to stretch the imagination to guess which side of the equation
+      Bezos envisions himself and his family winding up on in this scenario. As I was
+      painting I kept thinking about how horrific it would be if Bezos’ plan for humanity
+      was ever put into place, because you know hardly anyone would leave this planet
+      voluntarily. Billions of people would be forced onto space ships bound for these
+      giant spinning space stations, their hearts breaking at the unimaginable loss
+      of their indigenous home world. It would be like a planet-wide Nakba. A Trail
+      of Tears for our entire species. The freaks who rule our world do not have a healthy
+      vision for humanity’s future. Their best ideas are a normal person’s worst nightmare.
+      Jeff Bezos envisions ecocidal capitalism being allowed to tick along completely
+      unrestricted and unhindered, with humanity rescuing itself from disaster at the
+      last minute by shipping most of itself off planet to live inside giant Amazon
+      space dildos. That’s his best and brightest plan. Our rulers are not good people.
+      They are not wise. They are not compassionate. They aren’t even particularly intelligent.
+      They just happen to be good at winning the capitalism game by moving the circumstances
+      of our society around in such a way that the numbers in their bank accounts grow
+      very large. This is not a healthy way for us to live. We cannot keep doing this.
+      __________________ Caitlin’s Newsletter is a reader-supported publication. To
+      receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article reflects on a painting of Jeff Bezos while critiquing
+      his 2019 vision for humanity's future, which involves relocating the majority
+      of people to space colonies while a privileged few remain on Earth, highlighting
+      the dystopian implications of such a scenario.
+    paragraph_summary: The article critiques Jeff Bezos' vision for humanity's future,
+      as articulated in a 2019 speech, where he imagines a dystopian scenario in which
+      most people are relocated to space colonies while a select few remain on Earth.
+      The author expresses horror at the implications of such a plan, likening it to
+      historical tragedies like the Nakba and the Trail of Tears, suggesting that it
+      would involve the forced displacement of billions from their home planet. The
+      piece argues that Bezos' perspective reflects a broader trend among the wealthy
+      elite, who prioritize profit and capitalism over compassion and wisdom, ultimately
+      proposing a future that is detrimental to the majority of humanity.
+    published: '2025-10-24T01:50:16+00:00'
+  - title: Zionists Push Islamophobia Because It's Easier Than Getting People To Like
+      Israel
+    url: https://www.caitlinjohnst.one/p/zionists-push-islamophobia-because
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Have you ever noticed how whenever you see someone promoting hatred toward Muslims,
+      nine times out of ten it will be someone who supports Israel? There’s a reason
+      for that. Zionists promote Islamophobia because convincing westerners to hate
+      Muslims is easier than convincing them to love Israel. Support for Israel is a
+      hard sell. On paper it’s just a shitty, evil country full of shitty, evil people,
+      and has no redeeming qualities as a state. Nobody can explain how it’s an important
+      ally in a way that makes sense; all the problems they claim it helps solve are
+      problems Israel itself creates with the help of western backing. Unless you’re
+      a devout Jewish Zionist or Christian Zionist there’s nothing about the modern
+      state of Israel you’d naturally be inclined to support. Appealing to western racism,
+      however, is much easier. We’ve got entire mainstream political factions whose
+      whole platform is just grimacing in disgust at anyone who looks and acts a bit
+      different. White supremacism runs deep, and westerners have been fighting and
+      killing Muslims for many centuries, so there’s plenty of cultural memory to draw
+      on for this specific form of hatred. So they don’t worry so much about explaining
+      the positives about the state of Israel, focusing instead on fearmongering about
+      the religion whose adherents tend to wind up on the receiving end of Israeli military
+      violence. They can’t convince us that Israel is good in and of itself, but they
+      can convince many of us that it’s good to drop military explosives on Muslims.
+      Most of the Islamophobia you see in the west comes from Israel supporters and
+      people who’ve been propagandized by Israel supporters. A small minority comes
+      from extreme fringe rightists who hate both Muslims and Jews, but the majority
+      is the product of western support for Israel and the west’s warmongering in the
+      middle east which Israel consistently plays a role in. That’s why you’ll see high-profile
+      Israeli social media accounts fearmongering about the growing Muslim populations
+      in Europe, for example. You wouldn’t think it would be any of Israel’s concern
+      if there are a lot of Muslims in Belgium or whatever, but it is in Israel’s political
+      interests to keep westerners fearful and disdainful toward members of the Islamic
+      faith. We’re seeing more and more of this as Israel increasingly alienates western
+      centrists and progressives, relying more and more heavily on support from the
+      western right. As the narrative that a poor persecuted religious minority needs
+      to have its own homeland loses traction with its intended audience, we’re seeing
+      it increasingly replaced with the narrative that them there Muslims need killin’,
+      yeehaw. Israel makes everything gross. It makes the world more violent, more sociopathic,
+      and more hateful. The entire state is sustained by nonstop violence and hatred.
+      It’s a malignant tumor on the flesh of our species. __________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      is a screen grab from Real Time with Bill Maher (Fair Use).'
+    one_sentence_summary: The article argues that Zionists promote Islamophobia as a
+      strategy to garner support for Israel, which is difficult to justify on its own
+      merits, by appealing to existing western prejudices against Muslims.
+    paragraph_summary: The article argues that there is a strong correlation between
+      support for Israel and the promotion of Islamophobia, suggesting that Zionists
+      leverage anti-Muslim sentiment to garner support for Israel, which is otherwise
+      difficult to justify due to its negative reputation and the violence it inflicts
+      on Palestinians and other Muslims. It posits that rather than highlighting Israel's
+      merits, supporters often resort to fearmongering about Muslims, tapping into deep-seated
+      Western racism and historical animosities. The piece contends that most Islamophobia
+      in the West stems from those aligned with Israeli interests, rather than from
+      fringe extremists, and emphasizes that this dynamic is a significant factor in
+      the ongoing conflict and military actions in the Middle East.
+    published: '2025-10-22T11:30:20+00:00'
+  - title: Zionists Push Islamophobia Because It's Easier Than Getting People To Like
+      Israel
+    url: https://www.caitlinjohnst.one/p/zionists-push-islamophobia-because
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Have you ever noticed how whenever you see someone promoting hatred toward Muslims,
+      nine times out of ten it will be someone who supports Israel? There’s a reason
+      for that. Zionists promote Islamophobia because convincing westerners to hate
+      Muslims is easier than convincing them to love Israel. Support for Israel is a
+      hard sell. On paper it’s just a shitty, evil country full of shitty, evil people,
+      and has no redeeming qualities as a state. Nobody can explain how it’s an important
+      ally in a way that makes sense; all the problems they claim it helps solve are
+      problems Israel itself creates with the help of western backing. Unless you’re
+      a devout Jewish Zionist or Christian Zionist there’s nothing about the modern
+      state of Israel you’d naturally be inclined to support. Appealing to western racism,
+      however, is much easier. We’ve got entire mainstream political factions whose
+      whole platform is just grimacing in disgust at anyone who looks and acts a bit
+      different. White supremacism runs deep, and westerners have been fighting and
+      killing Muslims for many centuries, so there’s plenty of cultural memory to draw
+      on for this specific form of hatred. So they don’t worry so much about explaining
+      the positives about the state of Israel, focusing instead on fearmongering about
+      the religion whose adherents tend to wind up on the receiving end of Israeli military
+      violence. They can’t convince us that Israel is good in and of itself, but they
+      can convince many of us that it’s good to drop military explosives on Muslims.
+      Most of the Islamophobia you see in the west comes from Israel supporters and
+      people who’ve been propagandized by Israel supporters. A small minority comes
+      from extreme fringe rightists who hate both Muslims and Jews, but the majority
+      is the product of western support for Israel and the west’s warmongering in the
+      middle east which Israel consistently plays a role in. That’s why you’ll see high-profile
+      Israeli social media accounts fearmongering about the growing Muslim populations
+      in Europe, for example. You wouldn’t think it would be any of Israel’s concern
+      if there are a lot of Muslims in Belgium or whatever, but it is in Israel’s political
+      interests to keep westerners fearful and disdainful toward members of the Islamic
+      faith. We’re seeing more and more of this as Israel increasingly alienates western
+      centrists and progressives, relying more and more heavily on support from the
+      western right. As the narrative that a poor persecuted religious minority needs
+      to have its own homeland loses traction with its intended audience, we’re seeing
+      it increasingly replaced with the narrative that them there Muslims need killin’,
+      yeehaw. Israel makes everything gross. It makes the world more violent, more sociopathic,
+      and more hateful. The entire state is sustained by nonstop violence and hatred.
+      It’s a malignant tumor on the flesh of our species. __________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      is a screen grab from Real Time with Bill Maher (Fair Use).'
+    one_sentence_summary: The article argues that Zionists promote Islamophobia as a
+      strategy to garner support for Israel, which is difficult to justify on its own
+      merits, by appealing to existing western prejudices against Muslims.
+    paragraph_summary: The article argues that there is a strong correlation between
+      support for Israel and the promotion of Islamophobia, suggesting that Zionists
+      leverage anti-Muslim sentiment to garner support for Israel, which is otherwise
+      difficult to justify due to its negative reputation and the violence it inflicts
+      on Palestinians and other Muslims. It posits that rather than highlighting Israel's
+      merits, supporters often resort to fearmongering about Muslims, tapping into deep-seated
+      Western racism and historical animosities. The piece contends that most Islamophobia
+      in the West stems from those aligned with Israeli interests, rather than from
+      fringe extremists, and emphasizes that this dynamic is a significant factor in
+      the ongoing conflict and military actions in the Middle East.
+    published: '2025-10-22T11:30:20+00:00'
   - title: 'New Painting: Larry Ellison'
     url: https://www.caitlinjohnst.one/p/new-painting-larry-ellison
     text: 'Subscribe now The subject of my latest painting is Larry Ellison, one of

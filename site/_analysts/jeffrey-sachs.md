@@ -8,20 +8,175 @@ websites:
   - https://www.commondreams.org/author/jeffrey-d-sachs
   - https://www.jeffsachs.org/newspaper-articles
 summary: |
-  In the wake of ongoing turmoil in the Middle East and shifting global alliances, the latest developments center on renewed diplomatic efforts for a comprehensive peace settlement, the unveiling of a revised peace plan for Palestine and Israel, and the broader implications for international law and regional stability.
+  As of October 29, 2025, the geopolitical landscape remains dominated by the unresolved crises in Gaza and Ukraine, with U.S. foreign policy and Israeli actions at the center of ongoing debate. The most recent analysis by **Jeffrey Sachs** underscores the persistent gap between ceasefires and genuine peace, particularly in the approaches advocated by former President Donald Trump.
   
-  The context remains defined by the aftermath of Israel’s military campaigns in Gaza and the wider region, the collapse of Syria’s government under sustained US-Israeli pressure, and the persistent deadlock over Palestinian statehood. The international community, led by the United Nations and supported by an overwhelming majority of member states, continues to press for a two-state solution as the only viable path to lasting peace.
+  **Trump’s Peace Initiatives Under Scrutiny**
   
-  **Jeffrey Sachs** has published a detailed revision of President Trump’s 20-point peace plan, stripping it of what he calls its “colonial scaffolding.” The revised plan sets out clear, non-negotiable milestones for Palestinian sovereignty: Israeli withdrawal from occupied territories by December 31, 2025, and full Palestinian statehood by January 1, 2026. Sachs emphasizes, “The main difference lies with Palestinian sovereignty and statehood,” rejecting the indefinite deferral and external trusteeship embedded in Trump’s original proposal. The plan aligns with the 2024 International Court of Justice ruling and the latest UN General Assembly resolution, which have both affirmed the illegality of Israel’s occupation and the necessity of a Palestinian state.
+  The latest developments focus on Trump’s proposed peace plans for Gaza and Ukraine. According to **Jeffrey Sachs**, these initiatives are criticized for conflating temporary ceasefires with lasting political solutions. Sachs argues that “Trump’s proposed peace plans lack substance, particularly regarding Palestinian statehood and the root causes of the Ukraine war, which stem from NATO’s expansion and U.S. intervention.” The report emphasizes that without addressing the underlying political grievances—such as Palestinian sovereignty and Russia’s security concerns—any peace will be illusory and short-lived.
   
-  The revised plan also proposes immediate humanitarian relief, the release of hostages and prisoners, the dismantling of militant infrastructure under international monitoring, and the deployment of a temporary International Stabilisation Force. Economic reconstruction would be led by the Palestinian Authority and Arab experts, with international support but without external control. Sachs asserts, “Only practical steps that implement Palestinian sovereignty and statehood will bring lasting peace.”
+  **Gaza: Humanitarian Crisis and Calls for Palestinian Agency**
   
-  This diplomatic push comes amid mounting evidence of mass starvation and humanitarian catastrophe in Gaza, which **Sachs** and multiple international organizations have labeled as genocide, abetted by continued US diplomatic and military support for Israel. Sachs notes that “the overwhelming voice of humanity is on the side of the people of Palestine,” with 157 countries now recognizing Palestinian statehood and growing public support for Palestinian rights even within the United States.
+  The humanitarian situation in Gaza remains dire, with over two million people facing acute food deprivation. Sachs highlights the complicity of U.S. tech companies and continued American diplomatic support for Israel, which he asserts is enabling what he terms “genocide in Gaza.” The majority of independent analysts cited by Sachs call for immediate international action, including recognition of Palestinian statehood and the deployment of a UN Protection Force. There is growing consensus that any viable peace plan must prioritize Palestinian agency and set a clear timeline for Israeli withdrawal, as opposed to indefinite foreign oversight.
   
-  Looking ahead, there is high confidence that the international consensus will continue to isolate Israel’s current government and its US backers unless a genuine two-state solution is implemented. Sachs predicts that “the withdrawal of Israel and the recognition of Palestine’s sovereignty must be fixed and non-negotiable milestones,” and that the US will most definitely face increasing diplomatic and economic pressure to end its veto on Palestinian UN membership.
+  **Europe’s Foreign Policy Crossroads**
   
-  In summary, the trend is toward a decisive break from the century-old pattern of external control and indefinite occupation. The revised peace plan, if adopted, would mark a historic shift toward Palestinian self-determination and regional stability. The global community’s resolve is clear: only a real, enforceable two-state solution, rooted in international law and free from colonial legacies, can deliver lasting peace in the Middle East.
+  On the European front, Sachs contends that the EU’s foreign policy remains overly dependent on U.S. strategic priorities, particularly regarding Russia. He argues that “Europe’s security dilemmas stem from a historical context of invasions by Western powers and the failure to respect Russia’s security concerns.” The prevailing view is that a reassessment of Europe’s approach to Russia is necessary to reduce tensions and promote mutual security.
+  
+  **Trends and Predictions**
+  
+  The majority of analysts now agree that the absence of a two-state solution is the primary threat to both Israeli and regional security. There is a high chance that international pressure will intensify for the U.S. to lift its veto on Palestinian UN membership and to push for a comprehensive peace settlement. If Trump shifts toward genuine diplomacy and confronts entrenched interests, Sachs asserts there is a high chance—though not a guarantee—of progress toward real peace in both Gaza and Ukraine.
+  
+  In summary, the trend is toward increasing international impatience with U.S. and Israeli policies in the Middle East, coupled with calls for a more autonomous and pragmatic European foreign policy. Without substantive changes, the prospects for lasting peace remain uncertain, but diplomatic openings could emerge if major powers reassess their current strategies.
 articles:
+  - title: 'From illusion to real peace: Trump’s test in Gaza and Ukraine'
+    url: https://www.aljazeera.com/opinions/2025/10/23/from-illusion-to-real-peace-trumps-test-in-gaza-and-ukraine
+    text: 'United States President Donald Trump styles himself as a peacemaker. In his
+      rhetoric, he claims credit for his efforts to end the wars in Gaza and Ukraine.
+      Yet beneath the grandstanding lies an absence of substance, at least to date.
+
+
+      The problem is not Trump’s lack of effort, but his lack of proper concepts. Trump
+      confuses “peace” with “ceasefires,” which sooner or later revert to war (typically
+      sooner). In fact, American presidents from Lyndon Johnson onward have been subservient
+      to the military-industrial complex, which profits from endless war. Trump is merely
+      following in that line by avoiding a genuine resolution to the wars in Gaza and
+      Ukraine.
+
+
+      Peace is not a ceasefire. Lasting peace is achieved by resolving the underlying
+      political disputes that led to the war. This requires grappling with history,
+      international law and political interests that fuel conflicts. Without addressing
+      the root causes of war, ceasefires are a mere intermission between rounds of slaughter.
+
+
+      Trump has proposed what he calls a “peace plan” for Gaza. However, what he outlines
+      amounts to nothing more than a ceasefire. His plan fails to address the core political
+      issue of Palestinian statehood. A true peace plan would tie together four outcomes:
+      the end of Israel’s genocide, Hamas’s disarmament, Palestine’s membership in the
+      United Nations, and the normalisation of diplomatic ties with Israel and Palestine
+      throughout the world. These foundational principles are absent from Trump’s plan,
+      which is why no country has signed off on it despite White House insinuations
+      to the contrary. At most, some countries have backed the “Declaration for Enduring
+      Peace and Prosperity,” a temporising gesture.
+
+
+      Advertisement
+
+
+      Trump’s peace plan was presented to Arab and Muslim countries to deflect attention
+      from the global momentum for Palestinian statehood. The US plan is designed to
+      undercut that momentum, allowing Israel to continue its de facto annexation of
+      the West Bank and its ongoing bombardment of Gaza and restrictions of emergency
+      relief under the ruse of security. Israel’s ambitions are to eradicate the possibility
+      of a Palestinian state, as Prime Minister Benjamin Netanyahu made explicit at
+      the UN in September. So far, Trump and his associates have simply been advancing
+      Netanyahu’s agenda.
+
+
+      Trump’s “plan” is already unravelling, much like the Oslo Accords, the Camp David
+      Summit, and every other “peace process” that treated Palestinian statehood as
+      a distant aspiration rather than the solution to the conflict. If Trump really
+      wants to end the war – a somewhat doubtful proposition – he’d have to break with
+      Big Tech and the rest of the military-industrial complex (recipients of vast arms
+      contracts funded by the US). Since October 2023, the US has spent $21.7bn on military
+      aid to Israel, much of it returning to Silicon Valley.
+
+
+      Trump would also have to break with his donor-in-chief, Miriam Adelson, and the
+      Zionist lobby. In doing so, he would at least represent the American people (who
+      support a state of Palestine) and uphold American strategic interests. The US
+      would join the overwhelming global consensus, which endorses the implementation
+      of the two-state solution, rooted in UN Security Council resolutions and ICJ opinions.
+
+
+      The same failure of Trump’s peacemaking holds in Ukraine. Trump repeatedly claimed
+      during the campaign that he could end the war “in 24 hours”. Yet what he has been
+      proposing is a ceasefire, not a political solution. The war continues.
+
+
+      The cause of the Ukraine war is no mystery – if one looks beyond the pablum of
+      the mainstream media. The casus belli was the push by the US military-industrial
+      complex for NATO’s endless expansion, including to Ukraine and Georgia, and the
+      US-backed coup in Kyiv in February 2014 to bring to power a pro-NATO regime, which
+      ignited the war. The key to peace in Ukraine, then and now, was for Ukraine to
+      maintain its neutrality as a bridge between Russia and NATO.
+
+
+      In March-April 2022, when Turkiye mediated a peace agreement in the Istanbul Process,
+      based on Ukraine’s return to neutrality, the Americans and the British pushed
+      the Ukrainians to walk out of the talks. Until the US clearly renounces NATO’s
+      expansion to Ukraine, there can be no sustainable peace. The only way forward
+      is a negotiated settlement based on Ukraine’s neutrality in the context of mutual
+      security of Russia, Ukraine, and the NATO countries.
+
+
+      Advertisement
+
+
+      Military theorist Carl von Clausewitz famously characterised war as the continuation
+      of politics with other means. He was right. Yet it is more accurate to say that
+      war is the failure of politics that leads to conflict. When political problems
+      are deferred or denied, and governments fail to negotiate over essential political
+      issues, war too often ensues. Real peace requires the courage and capacity to
+      engage in politics, and to face down the war profiteers.
+
+
+      No president since John F Kennedy has really tried to make peace. Many close observers
+      of Washington believe that it was Kennedy’s assassination that irrevocably put
+      the military-industrial complex in the seat of power. In addition, the US arrogance
+      of power already noted by J William Fulbright in the 1960s (in reference to the
+      misguided Vietnam War) is another culprit. Trump, like his predecessors, believes
+      that US bullying, misdirection, financial pressures, coercive sanctions and propaganda
+      will be enough to force Putin to submit to NATO, and the Muslim world to submit
+      to Israel’s permanent rule over Palestine.
+
+
+      Trump and the rest of the Washington political establishment, beholden to the
+      military-industrial complex, will not on their own account move beyond these ongoing
+      delusions. Despite decades of Israeli occupation of Palestine and more than a
+      decade of war in Ukraine (which started with the 2014 coup), the wars continue
+      despite the ongoing attempts by the US to assert its will. In the meantime, the
+      money pours into the coffers of the war machine.
+
+
+      Nonetheless, there is still a glimmer of hope, since reality is a stubborn thing.
+
+
+      When Trump soon arrives in Budapest to meet with Russian President Vladimir Putin,
+      his deeply knowledgeable and realistic host, Hungary’s Prime Minister Viktor Orban,
+      can help Trump to grasp a fundamental truth: NATO enlargement must end to bring
+      peace to Ukraine. Similarly, Trump’s trusted counterparts in the Islamic world
+      – Turkiye’s President Recep Tayyip Erdogan, Saudi Arabia’s Crown Prince Mohammed
+      bin Salman, Egypt’s President Abdel Fattah el-Sisi, and Indonesia’s President
+      Prabowo Subianto – can explain to Trump the utter necessity of Palestine as a
+      UN member state now, as the very precondition of Hamas’s disarmament and peace,
+      not as a vague promise for the end of history.
+
+
+      Trump can bring peace if he reverts to diplomacy. Yes, he would have to face down
+      the military-industrial complex, the Zionist lobby and the warmongers, but he
+      would have the world and the American people on his side.
+
+
+      The views expressed in this article are the authors’ own and do not necessarily
+      reflect Al Jazeera’s editorial stance.'
+    one_sentence_summary: The article critiques Donald Trump's self-proclaimed role
+      as a peacemaker in the conflicts in Gaza and Ukraine, arguing that his approach
+      merely promotes ceasefires rather than addressing the underlying political issues
+      necessary for lasting peace, while also highlighting the influence of the military-industrial
+      complex and the need for genuine diplomatic efforts.
+    paragraph_summary: The article critiques former President Donald Trump's approach
+      to peacemaking in conflicts such as those in Gaza and Ukraine, arguing that he
+      conflates ceasefires with genuine peace, which requires addressing the underlying
+      political issues. It highlights that Trump's proposed peace plans lack substance,
+      particularly regarding Palestinian statehood and the root causes of the Ukraine
+      war, which stem from NATO's expansion and U.S. intervention. The author asserts
+      that true peace necessitates a political resolution and a break from the influence
+      of the military-industrial complex and other vested interests. The article suggests
+      that if Trump were to embrace diplomacy and engage with key global leaders, he
+      could potentially foster real peace, but he must confront the entrenched interests
+      that perpetuate conflict.
+    published: '2025-10-24T05:45:52.221646+00:00'
   - title: A 20-Point Peace Plan Without US-UK Colonialism
     url: https://www.commondreams.org/opinion/20-point-peace-plan-for-gaza
     text: 'President Trump’s 20-point plan offers some constructive proposals on hostages,

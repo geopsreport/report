@@ -7,18 +7,2852 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  The Ukraine conflict remains the central focus of geopolitical analysis, with recent discussions intensifying around the risk of escalation and the broader implications for global security. Over the past 24 hours, independent analyst **Gilbert Doctorow** has highlighted several key developments and strategic assessments.
+  As the war in Ukraine grinds on and Russia faces mounting economic and diplomatic pressure, several new developments have emerged that could reshape the geopolitical landscape.
   
-  Most notably, in his latest interview with IranTalks, **Doctorow** underscores the persistent ineffectiveness of Western strategies against Russia, warning that the conflict’s current trajectory risks spiraling into a wider war. He points to the failure of hybrid warfare and sanctions to alter Russian behavior, suggesting that Western policymakers have underestimated both Russia’s resilience and its willingness to escalate if pressured further. “The potential escalation of the Ukraine conflict into World War III must be taken seriously,” he states, emphasizing that the underlying factors prolonging the war—such as entrenched positions and external support—show no signs of abating.
+  The most significant recent event is Russia’s public unveiling of the advanced Burevestnik nuclear-powered missile capability. According to **Gilbert Doctorow**, this weapon is notable not only for its technical sophistication but also for its potential to function as a space-based attack system without formally breaching international prohibitions on the militarization of space. Doctorow emphasizes that this move signals Moscow’s intent to reassert its deterrence posture, which many analysts believe has been eroding due to what they describe as President Putin’s “inadequate responses to provocations” over the past several years.
   
-  Additionally, **Doctorow**’s recent commentary explores the evolving role of Iran in the emerging world order. He notes that Iran’s alignment with Russia and its growing influence in regional security arrangements are reshaping the balance of power, particularly as Western leverage in the region diminishes. This trend is seen as a direct consequence of the West’s focus on Ukraine and its inability to contain the broader realignment among non-Western states.
+  Meanwhile, the situation on the Ukrainian front remains tense. Reports indicate that Russian forces have claimed to encircle a Ukrainian battalion near Pokrovsk, with as many as 5,000 troops potentially at risk. **Doctorow** notes that even Ukrainian officials, such as Kiev mayor Klitschko, have been unusually candid about casualties from recent Russian drone attacks, suggesting a shift toward greater transparency or perhaps an attempt to prepare the public for further losses.
   
-  On the information front, **Doctorow** also addresses the shifting landscape of media consumption in Russia and beyond. He observes that while state television remains influential among older audiences, younger generations are increasingly turning to social media and alternative platforms for news, complicating efforts to gauge public sentiment and official policy directions.
+  On the economic front, Russia continues to grapple with secondary tariffs imposed on its oil exports, a measure that is straining the country’s finances and complicating its efforts to sustain the war effort. This economic pressure is compounded by diplomatic challenges, as Russia’s traditional partners, including India, are navigating complex relationships with both Moscow and the West amid ongoing sanctions.
   
-  Looking ahead, the majority view among analysts, as reflected in **Doctorow**’s assessments, is that the Ukraine war is set to continue with high risk of further escalation. There is a high chance that diplomatic efforts will stall unless there is a significant shift in U.S. or Russian policy. “I guarantee that absent a major change in strategy, the conflict will persist and the risk of a broader confrontation will only grow,” **Doctorow** concludes.
+  **Doctorow** and his interlocutors broadly agree that the credibility of Russia’s nuclear deterrent is at a low point, with internal criticism of Putin’s leadership style becoming more pronounced. There is a high chance, they argue, that Moscow’s recent military and technological demonstrations are intended to restore deterrence and project strength both domestically and internationally.
   
-  In summary, the latest developments point to a protracted and increasingly dangerous standoff, with little optimism for a negotiated settlement in the near term. The alignment of Russia and Iran, coupled with the West’s strategic missteps, is likely to further destabilize the international order in the months ahead.
+  Looking ahead, the majority view among independent analysts is that Russia will continue to escalate its technological and military signaling, while the economic situation is likely to deteriorate further if sanctions remain in place. I guarantee that the coming weeks will see intensified efforts by Moscow to break out of diplomatic isolation, but unless there is a significant change in Western policy, the conflict and its attendant crises are set to persist.
 articles:
+  - title: 'News X World: Putin unveils advanced Burevestnik missile capability'
+    url: https://gilbertdoctorow.com/2025/10/27/news-x-world-putin-unveils-advanced-burevestnik-missile-capability/
+    text: The production team at NewsX World are hard at work today and have just sent
+      me the link to the interview we did a few hours ago. In my last brief essay on
+      applying lipstick to pigs, I addressed one of the two segments of this interview,
+      the one on Russia’s announced deal with India for expanding exports of thermal
+      and coking coal. The topic of the second segment is shown above – evaluating the
+      significance of Russia’s successful test of its nuclear powered missile that traveled
+      14,000 km to target but could in principle fly three or more times that distance.
+      To my understanding, the Burevestnik gives Russia all the benefits of a space
+      based attack missile while never actually going into orbit and never violating
+      prohibitions on use of outer space for military purposes. ( https://youtu.be/TaBpsmgK2b0?si=sC-FjRm_xf_e_r6w
+      )
+    one_sentence_summary: The article discusses an interview about Russia's recent nuclear-powered
+      missile test and its implications, highlighting how the Burevestnik missile could
+      function as a space-based attack system without violating military space use prohibitions.
+    paragraph_summary: 'The production team at NewsX World has shared a link to an interview
+      discussing two key topics: Russia''s recent deal with India to increase thermal
+      and coking coal exports, and the implications of Russia''s successful test of
+      its nuclear-powered missile, the Burevestnik. This missile, which can travel 14,000
+      km and potentially much farther, offers Russia the strategic advantages of a space-based
+      attack system without actually entering orbit, thus circumventing international
+      restrictions on military activities in outer space.'
+    published: '2025-10-27T17:21:51+00:00'
+  - title: 'News X World: Putin unveils advanced Burevestnik missile capability'
+    url: https://gilbertdoctorow.com/2025/10/27/news-x-world-putin-unveils-advanced-burevestnik-missile-capability/
+    text: The production team at NewsX World are hard at work today and have just sent
+      me the link to the interview we did a few hours ago. In my last brief essay on
+      applying lipstick to pigs, I addressed one of the two segments of this interview,
+      the one on Russia’s announced deal with India for expanding exports of thermal
+      and coking coal. The topic of the second segment is shown above – evaluating the
+      significance of Russia’s successful test of its nuclear powered missile that traveled
+      14,000 km to target but could in principle fly three or more times that distance.
+      To my understanding, the Burevestnik gives Russia all the benefits of a space
+      based attack missile while never actually going into orbit and never violating
+      prohibitions on use of outer space for military purposes. ( https://youtu.be/TaBpsmgK2b0?si=sC-FjRm_xf_e_r6w
+      )
+    one_sentence_summary: The article discusses an interview about Russia's recent nuclear-powered
+      missile test and its implications, highlighting how the Burevestnik missile could
+      function as a space-based attack system without violating military space use prohibitions.
+    paragraph_summary: 'The production team at NewsX World has shared a link to an interview
+      discussing two key topics: Russia''s recent deal with India to increase thermal
+      and coking coal exports, and the implications of Russia''s successful test of
+      its nuclear-powered missile, the Burevestnik. This missile, which can travel 14,000
+      km and potentially much farther, offers Russia the strategic advantages of a space-based
+      attack system without actually entering orbit, thus circumventing international
+      restrictions on military activities in outer space.'
+    published: '2025-10-27T17:21:51+00:00'
+  - title: Transcript of conversation with Glenn Diesen, 26 October 2025
+    url: https://gilbertdoctorow.com/2025/10/26/transcript-of-conversation-with-glenn-diesen-26-october-2025/
+    text: 'Transcript submitted by a reader https://youtube.com/watch?v=ttYcjybLWBY
+      Diesen: 0:00 Welcome back to the program. We are joined today by Gilbert Doctorow,
+      a historian, international affairs analyst, and also the author of the “War Diaries,
+      the Russia-Ukraine War”. So thank you for coming back on the program. I understand
+      that you are in St. Petersburg now. Doctorow: That’s correct. My wife and I maintain
+      an apartment here. And so it’s like living at home. Of course, when you’re away
+      from a place for five months, you forget how this apparatus or that apparatus
+      works, how do you work the dishwasher here, that sort of thing. But otherwise,
+      those little inconveniences are nothing compared to the pleasures of being here.
+      Diesen: Well, what I wanted to discuss with you was the decline of Russia’s deterrent
+      or at least the credibility of its deterrent. And this is quite an important matter,
+      that is a credible nuclear deterrent kept at peace during the Cold War as both
+      sides knew that they shouldn’t step over certain lines. Once those lines are no
+      longer respected, one risks going further and further down the line and the further
+      one waits to restore one’s deterrent, the more it risks to upset the entire balance.
+      But one of the key criticisms within Russia or concerns at least within Russia
+      has been that the Kremlin has let their deterrent become less credible. That is,
+      over time, Russia didn’t really respond forcefully to any of NATO’s escalations,
+      especially the long-range strikes deep into Russia, both military and commercial
+      targets, but also what we saw back in June, the attacks on Russia’s nuclear deterrent.
+      It appears to me that there’s some push now for a major course correction. I was
+      wondering if you were hearing the same thing. Doctorow: 2:06 Well, it’s obviously
+      being debated in the highest circles of the foreign policy establishment in Moscow.
+      And I want to make a point clear that wouldn’t be obvious to the general audience.
+      What you and I are about to discuss is a matter of very considerable importance
+      and attracts the attention of foreign policies professionals and defense professionals.
+      The general public, in light of what I’m about to say about Mr. Putin’s conduct,
+      view him differently. They speak about the man’s gentlemanly behavior, his tolerance
+      for the juvenile behavior or the insulting behavior of American presidents, I
+      use the plural here, and of European leaders. And they find this credible, they’re
+      very comfortable with that, they’re happy that we’re farther away from a war as
+      they see it. As people who are professionals, and you certainly are the most professional,
+      but that is really your your first speciality, We are of a different view, and
+      the world that we live in is “might makes right”. 3:21 And so that– I’m not making
+      a judgment, I’m making a statement of fact. In the world of geopolitics, might
+      makes right. And the meek and the timid tend to be crushed. That is not something
+      the general public likes to understand. They also don’t get the idea that when
+      people are introduced to a public event, which we are told brings together the
+      great and the good, that very distinction is foremost in the minds of the organizer
+      of those events. There is a distinction between great and good and powerful and
+      people who are decent. They are not necessarily the same people. This is what
+      we face today. And the problem that is arising now, and you’re describing it as
+      a failing deterrent value of Russia, And we discussed this last time, as you said,
+      there are the three components to it. And what Russia seems to be missing at present
+      is the demonstration that it’s willing to use the wherewithal it has and the communication
+      of that determination, both to its adversaries and to the broad public. 4:35 So
+      this seems to be going down. It didn’t just happen yesterday. I take this back,
+      when we’re speaking about Mr. Trump, to the period before he even took office
+      in his first mandate in December of 2016 when the outgoing Obama administration
+      presented him with a poison chalice when they confiscated Russian diplomatic properties
+      in the United States. And they were expecting that that would elicit a violent
+      response from Moscow and which would spoil relations from day one. Well, there
+      wasn’t any response from Moscow, any credible response. They didn’t do what they
+      should have done then. So the weakness and the failure to respond in a traditional
+      way and according to diplomatic tradition and rules of behavior was being violated
+      by Mr. Putin and his administration back then. It didn’t just start yesterday
+      and it just accumulated over time with more strategically important assets being
+      put in jeopardy, as you just described in the introduction, without Russia providing
+      an adequate response. 5:54 All that they have done is to emphasize from 2018 that
+      they had world-beating military hardware, which was being put into mid-serial
+      production and entering the armed forces. When it came to proper response to demeaning
+      acts that were wrought by Biden, nothing happened. And so there was a confidence
+      that built up in the United States and in Western Europe, which only Mr. Trump
+      recently said, when he called Russia a paper tiger. Of course, all the pundits
+      started talking about the Chinese reference, where it came from. That’s really
+      irrelevant. That exists as a term that we all understand today. It is a country
+      that projects power, but is unable or unwilling to use that power or to wield
+      a big stick when it needs to defend itself. And that’s where Russia is today.
+      I’m perplexed. I’m perplexed because Mr. Putin from the day he came [into] office
+      was praised or denounced as an alpha male. The whole feminist movement at once
+      hated his guts because he was clearly with his– bare- chested, riding horses.
+      This man was a man of great physical presence, even if he’s small in stature.
+      And he certainly, when he spoke about his childhood in Leningrad as a scrapper,
+      a guy who was in the courtyards and was challenged by bullies who were always,
+      this always happens among kids. And he stood up and struck first. 7:42 Well, where
+      is that Mr. Putin today? Gone. Now, we’ve all, all of us who’ve been watching
+      this war have been called out, have been shown to be false prophets repeatedly.
+      And we are rightly criticized by readers or viewers who point out that we have
+      been saying and saying and saying that the end of the war is around the corner
+      when each time a new level of escalation is introduced, which made irrelevant
+      and inaccurate all of our projections of a near-term end to this war if it were
+      being fought on traditional military values, where certain losses are considered
+      to be decisive and you just withdraw from the contest, pay your fees, and look
+      for another day. 8:40 That hasn’t happened. And so it is, I finally became very
+      tired of making false projections. As some of my peers are still doing, that “Oh
+      yes, the Russian economy is crumbling, the Ukrainian army is being bashed.” Well,
+      it is being bashed, but it’s been bashed from the first month of the war. For
+      the first month of the war, the Russians had a 10 to 1 artillery advantage and
+      presumably a 10 to 1 advantage in deaths and casualties. But the war didn’t stop.
+      And as I see this confiscation of 145 billion euros in frozen assets now in Belgium.
+      If this indeed is realized, which it may well be because the Europeans now are
+      desperate to continue the war at whatever costs in violation of international
+      law. And if that happens, then the war will go on for three or four more years.
+      9:36 You mentioned I wrote volume one. I expect to have volume two and three published
+      in Q1, 2026. But I don’t want a whole library shelf of these volumes. I don’t
+      think anybody wants this to go on three or four more years. And the latest statements
+      coming out of Vladimir Putin, he’s done– we speak about the flip-flops of Trump–
+      well, he has flip-flopped from the Thursday evening phone conversation he had
+      with Donald Trump on the evening before the arrival of Zelensky for his latest
+      visit to the White House, when he was stern. Oh, we were told he was stern. We,
+      of course, didn’t have a public reading of the words, but what he said was repeated
+      by Trump the next day to to to Zelensky, the words which we assume that he received
+      from Putin. Because before Putin said them, Vladimir Salovyov said those same
+      words on air. And certainly those words came to Salovyov from Putin’s people.
+      10:44 So those words were, “If you dare to provide Tomahawks to Ukraine, we will
+      destroy Ukraine.” That’s pretty strong stuff. And then a week later, Putin is
+      backtracking. And yes, he’s saying, “Oh, yes, well, we’ll no longer destroy Ukraine.”
+      It’s “Well, that will be a real dent in our relations.” So this is not serious.
+      If I were any of Mr. Putin’s enemies in the United States Senate, or elsewhere
+      in the US government, or sitting in Brussels, I would say, “My goodness, that
+      man is weak.” And weak is the opposite of deterrent force. Disen: 11:41 Yeah,
+      this, well, I can understand why, especially after Trump came to power, there
+      would be some desire to favor reducing tensions as opposed to upholding the deterrent.
+      Because in the diplomatic sphere, Russia will never see another Trump. One that
+      has spoken friendly about Russia, said he wanted to get along, recognized that
+      NATO expansion, on more than one occasion, he recognized this is the cause of
+      the war. Again, there seems to be a pathway there to peace. And well, it seemed,
+      let’s use past tense there, but also those reasonable concerns about escalation
+      and given that the war was going Russia’s way, they didn’t want to make any waves.
+      But of course, the situation today is very different. We see, as you said, the
+      pressure on Putin to do something, to retaliate is growing. I think it’s fair
+      to say that diplomacy is dead now. Trump for all his talks, everything that was
+      talked about in Alaska, about dealing with the underlying causes of the war, well,
+      now he’s back on the ceasefire again. So everything they talked about, everything
+      is now out the window. And also the sanctions on the Russian oil or, well, technically
+      secondary sanctions, because they’re going to go after Russia’s partners, India,
+      China. 13:18 And as you said, the Europeans essentially legalizing the theft of
+      Russian assets to further fund the war a few more years. This is all the indicators
+      of preventing the fall of Ukraine and keeping the war going for a few more years.
+      But not only is the pressure on Putin, and I think there’s recognition more widely
+      now that diplomacy is dead, but Russia stands on much firmer ground now if they
+      now decide to go up the escalation ladder. I’m thinking then a few months ago,
+      the Oreshnik was a, you know, a test missile. Now it’s in industrial production.
+      The Russians are in a much stronger place now it seems if they do want to start
+      to restore their deterrent. But do you think this would trigger a direct war between
+      NATO and Russia if Russia escalates or would it prevent it? Doctorow: 14:22 First,
+      let’s take one step back. You said everybody agrees that diplomacy is no longer
+      an option. Everyone except Mr. Putin. In the last day, he has repeated that, well
+      two days ago, he was speaking and saying that talking is much better than confrontation.
+      And then he sent Mr. Dmitriev to the United States on a fool’s errand that has
+      the image that the United States and Russia are still talking to one another and
+      are thinking about big business in the future. This is absolutely empty show and
+      it only demonstrates a complete lack of understanding by Mr. Putin and the people
+      who are advising him of who Mr. Trump is, what the American administration is,
+      and how do you deal with them. He is dead wrong. This Mr. Dmitriev’s mission is
+      empty of content, because everything– Dmitri is a brilliant man who is very ambitious
+      and is serving the boss of bosses with a view obviously to where his political
+      career will go in the future. 15:35 I have no objection to that. But what he’s
+      doing now is utterly stupid for the interests of Russia. He rewards the United
+      States by pretending that they’re still in talking terms and have great business
+      plans for the future, the day after the United States has slapped secondary sanctions,
+      which– this was discussed with Trump, it was discussed with Putin, what is the
+      outcome or the likely result of these sanctions? And Putin said, oh, we will get
+      along, it’s not a deal. And Trump said, we’ll see how you’re doing in six months.
+      Between the two, I agree with Trump but I disagree with Putin. What has happened–
+      I just did a little diversion here, we’re speaking about the secondary sanctions
+      on the two biggest consumers, buyers of Russian oil, that is India and China.
+      These sanctions against China are almost without effect, not just because China
+      will stop supplying rare metals to the United States and the US industry will
+      shut down the next day, but because China has most of its oil coming to it by
+      pipelines, which are really in no way affected by the sanctions that have been
+      imposed, because they are directed against seaborne oil. 16:56 India is the opposite
+      case. India does not have a stranglehold on rare metals. It has no cudgel to use
+      to beat back the Americans the way the Chinese do. And its oil, which is roughly
+      the same volume as what China’s importing, is all coming by sea. And yesterday,
+      I think it’s called Reliable. It’s a privately owned single biggest importer of
+      Russian oil into India. And they said they’re not going to buy any more oil. Now,
+      that isn’t the end of the game, of course. The Russians and the Indians are probably
+      scrambling to find workarounds for this, but there will be a loss of sales. And
+      what does that mean for the Russian budget? Mr. Trump is right. If we just say
+      that the Russians cannot bring around the Indians to maintain the same level of
+      imports, they will lose 10% of the state budget. 10%. Now they are not running
+      a deficit because the Russian government is jointly prioritizing guns and butter.
+      That is all social benefits are rising, indexation is going up, the standard of
+      living of the grandma is better than it was last month. All that’s going forward.
+      18:18 And they have a deficit in the budget. You make a 10% hole in the budget
+      and Russia is going to be suffering enormously. And Trump knows that, and Putin
+      is denying it. He also knows that. So they’ve got a big problem. He is not dealing
+      honestly with his own people and he is not making decisions that are rational
+      in light of the behavior of the Americans. The worst thing he could have done
+      was to send Dmitriev to the States just after these sanctions were introduced.
+      And the whole Dmitriev affair in general, just to back up for a moment, is total
+      nonsense. It’s only that “We, Americans and Russians, will have great business
+      together. We do big business.” Yeah okay. I’ve heard that since 1975. In 1975
+      on, I was very deeply involved in all the big business that the United States
+      and Russia would have. And frankly speaking, it was nil. Not because of bad will,
+      but because the different structures of the economy. 19:35 And they simply are
+      not, there’s nothing to harmonize, the way there was and is with Europe, where
+      the two fit together very well. Supplier of raw materials. United States doesn’t
+      really need Russian raw materials. And this project, this mega project, this again
+      shows a very poor understanding of Mr. Trump. Oh, Trump is a big real estate developer.
+      So we’ll propose to him, we’ll build an $8 billion dollar tunnel connecting Alaska
+      and the Russian Far East. To carry what? Nothing. There’s nothing to carry. So
+      they were, they thought they were being very very clever with Mr. Trump and they
+      have not been very clever. And that carries over to this question of deterrence.
+      I think that Putin has made some very bad choices. Sending Demetriev was the worst
+      thing he could have done. Making that lame speech a day ago that we still have
+      an option for diplomacy and we don’t want to confrontation. That is exactly the–
+      directly against what you were saying, what I am saying, and what people like
+      Dmitry Trenin and Dmitry Simes, who are really very well plugged into the power
+      structure on foreign affairs in Russia, are saying. So there’s a problem there.
+      Diesen: 20:52 Yeah. I don’t understand quite why the Kremlin still thinks it has
+      a peace president in the White House because I mean, when the United States approaches
+      countries, the ideal scenario it has is where it is allowed to bomb other countries
+      a little bit, like most of Middle Eastern countries. So moderate attack every
+      now and then. And with the understanding if there’s any retaliation, then it would
+      escalate dramatically. Now the only way you don’t end up in a situation like that
+      is if you have a deterrent who is, that is credible. So Iran, for example, made
+      this very clear. Any attacks on it, it will respond and they know they will respond.
+      So doesn’t mean a war isn’t coming, but nonetheless, it creates some caution.
+      But we created this strange scenario now where initially it’s kind of open that
+      the NATO countries were backing Ukraine within the war, confined within Ukraine.
+      But then came this idea that, well, why should the war be confined here? Let’s
+      bring it to Russia. Now you see, again, not only did Trump put sanctions directly
+      on Russia, which even Biden wouldn’t do, the oil, but now also having all these
+      NATO countries, because you have now Zelensky in London with the coalition of
+      the willing as they call themselves, discussing what long range missiles, how
+      NATO can assist probably using these weapons and what targets to pick. And well,
+      essentially, there’s hardly going to be any Ukrainian engagement at all. This
+      is– we’re now in direct war. And while they’re being punched in the face, they
+      are essentially saying, well, let’s let’s talk instead. I mean, the whole point
+      of the turns is if– there’s a one-way hostility here, where NATO can strike Russia
+      but Russia doesn’t respond, why would NATO talk to Russia then? 22:59 I’m just
+      saying in political theory you often assume that countries will push and push
+      and push until they’re pushed back. Once there’s a balance, then you start to
+      talk and find a way of enhancing mutual security. So it is strange indeed to see
+      that Putin hasn’t, that he still behaves as if he buys into Trump’s rhetoric,
+      that it’s not his war, he’s trying to end it. The fact that Trump hasn’t once
+      over the past few months now mentioned an end to NATO expansion, it just makes
+      the whole thing look like a fraud, especially now walking back this whole idea
+      of addressing the underlying causes. But if the Russians were to restore their
+      deterrent now though, again, it seems like a good chance we could end up in war
+      exactly because well, at the moment, the Europeans at least, they seem to be almost
+      looking for a reason to pick a fight. 24:08 Every time we have a little drone
+      near a German airport it’s defined as a hybrid war you know even though they’re
+      arresting Germans for it. But what do you think a possible conflict could arise
+      though? Because as the, as well, Keir Starmer is celebrating Trump’s sanctions
+      And he said that we will keep, we will help to take Russian oil off the market.
+      Now that we can name in many things, it could be in sanctions. It could mean start
+      seizing Russian ships. Again, it could mean assisting more with long-range strikes
+      on Russian refineries. How do you see the escalations coming forward? Because
+      it looks like NATO is preparing another round of the attacks on Russia. Doctorow:
+      24:57 Well, I think that Mr. Putin’s team understands the concept of window of
+      opportunity. The opening of the special military operation in February, 2022 was
+      precisely based on a window of opportunity, based on the technological advantage
+      in strategic weapons systems that Russia had satisfied itself, was operational,
+      and could be used at any moment. Russia for the first time in 70 years was technically,
+      strategically ahead of the United States, not three steps behind. Now that consciousness
+      of window of opportunity, which determined the timing and the manner of the special
+      up military operation, is exactly what’s missing now. In answer to your point,
+      this is the moment for Russia to strike. The Europeans acknowledge that they have
+      nothing and they are putting out and publicizing 2029 as a date when they will
+      be ready. 26:06 Why in hell do they think that Russia’s going to sit around waiting
+      to be struck by them because the Europeans are finally ready? If Mr. Putin’s team
+      has any strategic thinking, they will recognize that fact and wipe out Ukraine
+      now, before Europe can do anything. Europeans will be left wringing their hands.
+      The Americans will say, we told you so. And that’s where it will end. If Ukraine’s
+      military potential, decision-making centers are taken out now, which those Oreshniks
+      make manifestly possible, end of game, or game and match. I am dumbfounded that
+      Putin’s team has forgotten the notion of window of opportunity. Russia will never
+      have the same advantage it has over Europe militarily that it has at this particular
+      moment. Diesen: 27:13 But the whole, the ideal of a deterrent is exactly that
+      it shouldn’t have to be used. That is, if it’s credible and communicated properly
+      and these capabilities are evident. Now everyone knows that the capabilities are
+      there, but it’s not credible any more. And the communication is poor. I mean,
+      if the language would be firm to the point where NATO would read it as Russia
+      would not have, well, the Kremlin wouldn’t have an opportunity to essentially
+      walk it back if red lines would be violated, then it would be credible. But this
+      is why I’m looking, one would expect a speech where President Putin would say,
+      you know, if long range strikes with missiles operated by NATO countries strike
+      our our land or soil, then we will do A, B and C. If it’s made clear and they
+      know that the Russian public wouldn’t accept anything else or the military leadership,
+      the political leadership wouldn’t accept any walking back of very clear commitments,
+      then they wouldn’t have to use any of their deterrent. There wouldn’t have to
+      be a strike on Ukraine’s decision centers. They wouldn’t have to do this escalation,
+      but I guess my concern is, as long as they don’t communicate it, you walk further
+      and further up the escalation ladder, and when they finally do strike back, then
+      you end up in a war situation. Doctorow: 28:46 What I was suggesting was not a
+      war with NATO. I was suggesting destroying Ukraine. They’re two different things.
+      The destruction of the political elites in Kiev would be a warning. It would establish
+      or reestablish Russian’s deterrent. Let’s go back in history a little bit. There
+      was 1956, there was 1968. Russia had at the time all kinds of deterrent powers
+      in its military arsenal. But it invaded both Czechoslovakia and Hungary and it
+      hit a fly with a hammer, and it worked, and that’s what I’m saying now. I’m not
+      saying that they should– and there are Russian hotheads who are saying, well,
+      we have to bomb Germany, we have to wipe out London. I’m not saying this at all.
+      What they have to do is go to the heart of the problem, which is the antechamber
+      of the Russian-NATO war. It is not creating a Russian-NATO war. If Ukraine is
+      eliminated, by the method I’m saying, and it’s not my idea, I’m repeating what
+      is on– the words of well-respected Russian thinkers. All right, there is disputes
+      over how well-respected Mr. Karaganov is, but nonetheless, He is a major figure
+      in the political establishment of Russia. 30:19 And so at that level, and I say
+      even less than that level, because he was speaking about using a tactical nuclear
+      weapon in Western Europe to demonstrate Russia’s willingness to go all the way
+      if necessary. I think the sword is needed. Oreshniks destroying a few hundred
+      people in downtown Kiev who are the regime, could do the job and reestablish Russia’s
+      deterrence to all of the war-hungry people who happen to be the heads of government
+      in Western Europe. Diesen: 30:59 This is the risk though, when you let your deterrent
+      become weakened, if not undermined completely, suddenly you do get these proposals
+      from quite respected people who argue for use of tactical nuclear weapons against
+      European countries in order to restore the deterrent. This wouldn’t have been
+      an issue. I mean, I think if … they would have upheld it, that’s what I meant
+      at the onset, that is, I think the whole, both sides, the world in general, it
+      loses when one of the great powers lets its deterrent slip. This is when there
+      will be an overcompensation later on. It just feels like, based on the shift in
+      rhetoric and also the situation on the ground, the accessibility now of the Oreshnik
+      on a much larger scale, it looks like we’re reaching that point where the retaliation
+      will come. But if this is the case, one would expect to see a change in rhetoric
+      because if, if, President Putin stepped up the rhetoric, then perhaps, they wouldn’t
+      have to go to the extent of actually using this weapons. Doctorow: He doesn’t
+      have to personally step up the rhetoric, but he has to stop calling, rebuking
+      the person in his government who was best able to do that. I’m speaking about
+      Sergei Ryabkov. Ryabkov is the one who in December 2021 presented the ultimatum
+      or the draft agreements which were in fact an ultimatum to Washington and to NATO.
+      That either go back voluntarily, withdraw your establishment of NATO, the structures,
+      to where they were in 1997, or we will push you back. Now that’s pretty tough
+      language. And the same Ryabkov is the one who was slapped down by Putin less than
+      a week ago for saying what you just said at the start of this conversation. That
+      diplomacy has outlived its usefulness. So these people like Ryabkov, and there
+      aren’t too many like him. He’s really quite outstanding and brave because he knew
+      what he was heading into when he said that. He knew that he was putting his career
+      in jeopardy when he said that. They’re there inside the government, not on state
+      television. And the– what worries me most of all, is something that’s going to
+      sound a bit peculiar, I think, to viewers. We have been living with the neocon
+      stories about appeasement. We cannot deal with this dictator in Iraq. We cannot
+      deal with these people in Libya and so on. We cannot appease them and so forth.
+      And always with a reference back to Chamberlain and his speech of “peace in our
+      time” after his meeting with Hitler, and the surrender of the Sudetenland. All
+      of that was rubbish. It was pure propaganda. But what I heard Mr. Putin saying
+      a day and a half ago was a Chamberlain speech. And that got me very unhappy. Diesen:
+      34:41 So that’s, I guess, a final question. Do you have any predictions where
+      we’re heading now though? Because you make it sound like Putin is standing his
+      ground. I got the impression that he was making a bit of a shift, that a response
+      could be coming again. I’m not certain in this, but that’s the impression I was
+      left with. Doctorow: Well, I hope you’re right. But I’m dismayed that he sent
+      off Dmitriev, because that undermines any such notion of his move from expectation
+      of productive diplomacy to restoring Russia’s deterrent power by communications
+      and by show of grit. I don’t know. None of us knows what he’s going to do next.
+      But he has been inconsistent in the last two or three weeks, and I think you’ll
+      agree with me. As inconsistent in his own way as Trump is. One of the criticisms
+      I have from colleagues, confidentially on the side, not in a public dispute, is
+      that Putin has to behave this way because he gets reports from Russian psychologists
+      who have done readings on Trump and his volatility. And the man is unpredictable
+      and such a dangerous person has his finger on the nuclear start and therefore
+      they are playing with Trump in this way. 36:33 I don’t believe that at all. From
+      my way of thinking, Mr. Trump is a good Christian, a real believer, a family man,
+      and the last thing he wants to see is the United States, including his own family,
+      incinerated. So I wouldn’t worry for a minute about Trump rushing Hegsteth. I
+      don’t believe any of this. I think people are trying to cover their backsides
+      for being apologists for Putin. I’m not an apologist for anybody. We’ve gone through
+      this question before. I’m just trying to keep reading it as I see it. And maybe
+      you’re right, I hope you’re right, that he has definitely seen the light and will
+      be tougher and a better protector of Russia’s interests, but I’m not persuaded
+      yet. Diesen: 37:25 Well, my impression of the Trump administration was that they
+      are quite transactional but also pragmatic, that they do assess their policies
+      based on cost-benefit analysis. So previously, people like Marco Rubio was asked,
+      why don’t you push more sanctions on Russia? And his response was, well, that
+      would derail the possible possibility for diplomacy. But then the Russians removed
+      this cost. So I’m saying, no, no, no, you can sanction all our oil companies and
+      we’ll send Dmitriev the next day over to the US to discuss a peace tunnel. I mean,
+      it’s– you would think they would be communicating more costs by escalating, but
+      no, this is very, it’s very dangerous. Again, people often interpret this as Putin,
+      you know, being trying to preserve the peace or something, but as we discussed,
+      when the deterrent weakens, you know, peace becomes more fragile. It’s more likely
+      now that there would be war. One, again, everyone would lose from. But yes, let’s
+      see what happens. I get the sense now that something is shifting in Moscow, but
+      it remains to be seen. Anyways, thank you so much for taking the time. Doctorow:
+      38:51 Well, very kind of you.'
+    one_sentence_summary: In an interview, historian Gilbert Doctorow, currently in
+      St. Petersburg, discusses the decline of Russia's nuclear deterrent credibility
+      and its implications for global peace, reflecting on his experiences living in
+      Russia.
+    paragraph_summary: In a recent discussion, historian and international affairs analyst
+      Gilbert Doctorow, currently residing in St. Petersburg, addressed the declining
+      credibility of Russia's nuclear deterrent. He emphasized the importance of a credible
+      deterrent in maintaining peace, particularly during the Cold War when both sides
+      understood the boundaries not to be crossed. Doctorow noted that there are growing
+      concerns within Russia regarding the Kremlin's perceived failure to respond decisively
+      to NATO's escalations, including attacks on Russian military and commercial targets.
+      He suggested that there is an ongoing debate among Russia's foreign policy elite
+      about the need for a significant shift in strategy to restore deterrent credibility,
+      highlighting the urgency of addressing these issues to maintain the balance of
+      power.
+    published: '2025-10-26T20:30:28+00:00'
+  - title: Transcript of conversation with Glenn Diesen, 26 October 2025
+    url: https://gilbertdoctorow.com/2025/10/26/transcript-of-conversation-with-glenn-diesen-26-october-2025/
+    text: 'Transcript submitted by a reader https://youtube.com/watch?v=ttYcjybLWBY
+      Diesen: 0:00 Welcome back to the program. We are joined today by Gilbert Doctorow,
+      a historian, international affairs analyst, and also the author of the “War Diaries,
+      the Russia-Ukraine War”. So thank you for coming back on the program. I understand
+      that you are in St. Petersburg now. Doctorow: That’s correct. My wife and I maintain
+      an apartment here. And so it’s like living at home. Of course, when you’re away
+      from a place for five months, you forget how this apparatus or that apparatus
+      works, how do you work the dishwasher here, that sort of thing. But otherwise,
+      those little inconveniences are nothing compared to the pleasures of being here.
+      Diesen: Well, what I wanted to discuss with you was the decline of Russia’s deterrent
+      or at least the credibility of its deterrent. And this is quite an important matter,
+      that is a credible nuclear deterrent kept at peace during the Cold War as both
+      sides knew that they shouldn’t step over certain lines. Once those lines are no
+      longer respected, one risks going further and further down the line and the further
+      one waits to restore one’s deterrent, the more it risks to upset the entire balance.
+      But one of the key criticisms within Russia or concerns at least within Russia
+      has been that the Kremlin has let their deterrent become less credible. That is,
+      over time, Russia didn’t really respond forcefully to any of NATO’s escalations,
+      especially the long-range strikes deep into Russia, both military and commercial
+      targets, but also what we saw back in June, the attacks on Russia’s nuclear deterrent.
+      It appears to me that there’s some push now for a major course correction. I was
+      wondering if you were hearing the same thing. Doctorow: 2:06 Well, it’s obviously
+      being debated in the highest circles of the foreign policy establishment in Moscow.
+      And I want to make a point clear that wouldn’t be obvious to the general audience.
+      What you and I are about to discuss is a matter of very considerable importance
+      and attracts the attention of foreign policies professionals and defense professionals.
+      The general public, in light of what I’m about to say about Mr. Putin’s conduct,
+      view him differently. They speak about the man’s gentlemanly behavior, his tolerance
+      for the juvenile behavior or the insulting behavior of American presidents, I
+      use the plural here, and of European leaders. And they find this credible, they’re
+      very comfortable with that, they’re happy that we’re farther away from a war as
+      they see it. As people who are professionals, and you certainly are the most professional,
+      but that is really your your first speciality, We are of a different view, and
+      the world that we live in is “might makes right”. 3:21 And so that– I’m not making
+      a judgment, I’m making a statement of fact. In the world of geopolitics, might
+      makes right. And the meek and the timid tend to be crushed. That is not something
+      the general public likes to understand. They also don’t get the idea that when
+      people are introduced to a public event, which we are told brings together the
+      great and the good, that very distinction is foremost in the minds of the organizer
+      of those events. There is a distinction between great and good and powerful and
+      people who are decent. They are not necessarily the same people. This is what
+      we face today. And the problem that is arising now, and you’re describing it as
+      a failing deterrent value of Russia, And we discussed this last time, as you said,
+      there are the three components to it. And what Russia seems to be missing at present
+      is the demonstration that it’s willing to use the wherewithal it has and the communication
+      of that determination, both to its adversaries and to the broad public. 4:35 So
+      this seems to be going down. It didn’t just happen yesterday. I take this back,
+      when we’re speaking about Mr. Trump, to the period before he even took office
+      in his first mandate in December of 2016 when the outgoing Obama administration
+      presented him with a poison chalice when they confiscated Russian diplomatic properties
+      in the United States. And they were expecting that that would elicit a violent
+      response from Moscow and which would spoil relations from day one. Well, there
+      wasn’t any response from Moscow, any credible response. They didn’t do what they
+      should have done then. So the weakness and the failure to respond in a traditional
+      way and according to diplomatic tradition and rules of behavior was being violated
+      by Mr. Putin and his administration back then. It didn’t just start yesterday
+      and it just accumulated over time with more strategically important assets being
+      put in jeopardy, as you just described in the introduction, without Russia providing
+      an adequate response. 5:54 All that they have done is to emphasize from 2018 that
+      they had world-beating military hardware, which was being put into mid-serial
+      production and entering the armed forces. When it came to proper response to demeaning
+      acts that were wrought by Biden, nothing happened. And so there was a confidence
+      that built up in the United States and in Western Europe, which only Mr. Trump
+      recently said, when he called Russia a paper tiger. Of course, all the pundits
+      started talking about the Chinese reference, where it came from. That’s really
+      irrelevant. That exists as a term that we all understand today. It is a country
+      that projects power, but is unable or unwilling to use that power or to wield
+      a big stick when it needs to defend itself. And that’s where Russia is today.
+      I’m perplexed. I’m perplexed because Mr. Putin from the day he came [into] office
+      was praised or denounced as an alpha male. The whole feminist movement at once
+      hated his guts because he was clearly with his– bare- chested, riding horses.
+      This man was a man of great physical presence, even if he’s small in stature.
+      And he certainly, when he spoke about his childhood in Leningrad as a scrapper,
+      a guy who was in the courtyards and was challenged by bullies who were always,
+      this always happens among kids. And he stood up and struck first. 7:42 Well, where
+      is that Mr. Putin today? Gone. Now, we’ve all, all of us who’ve been watching
+      this war have been called out, have been shown to be false prophets repeatedly.
+      And we are rightly criticized by readers or viewers who point out that we have
+      been saying and saying and saying that the end of the war is around the corner
+      when each time a new level of escalation is introduced, which made irrelevant
+      and inaccurate all of our projections of a near-term end to this war if it were
+      being fought on traditional military values, where certain losses are considered
+      to be decisive and you just withdraw from the contest, pay your fees, and look
+      for another day. 8:40 That hasn’t happened. And so it is, I finally became very
+      tired of making false projections. As some of my peers are still doing, that “Oh
+      yes, the Russian economy is crumbling, the Ukrainian army is being bashed.” Well,
+      it is being bashed, but it’s been bashed from the first month of the war. For
+      the first month of the war, the Russians had a 10 to 1 artillery advantage and
+      presumably a 10 to 1 advantage in deaths and casualties. But the war didn’t stop.
+      And as I see this confiscation of 145 billion euros in frozen assets now in Belgium.
+      If this indeed is realized, which it may well be because the Europeans now are
+      desperate to continue the war at whatever costs in violation of international
+      law. And if that happens, then the war will go on for three or four more years.
+      9:36 You mentioned I wrote volume one. I expect to have volume two and three published
+      in Q1, 2026. But I don’t want a whole library shelf of these volumes. I don’t
+      think anybody wants this to go on three or four more years. And the latest statements
+      coming out of Vladimir Putin, he’s done– we speak about the flip-flops of Trump–
+      well, he has flip-flopped from the Thursday evening phone conversation he had
+      with Donald Trump on the evening before the arrival of Zelensky for his latest
+      visit to the White House, when he was stern. Oh, we were told he was stern. We,
+      of course, didn’t have a public reading of the words, but what he said was repeated
+      by Trump the next day to to to Zelensky, the words which we assume that he received
+      from Putin. Because before Putin said them, Vladimir Salovyov said those same
+      words on air. And certainly those words came to Salovyov from Putin’s people.
+      10:44 So those words were, “If you dare to provide Tomahawks to Ukraine, we will
+      destroy Ukraine.” That’s pretty strong stuff. And then a week later, Putin is
+      backtracking. And yes, he’s saying, “Oh, yes, well, we’ll no longer destroy Ukraine.”
+      It’s “Well, that will be a real dent in our relations.” So this is not serious.
+      If I were any of Mr. Putin’s enemies in the United States Senate, or elsewhere
+      in the US government, or sitting in Brussels, I would say, “My goodness, that
+      man is weak.” And weak is the opposite of deterrent force. Disen: 11:41 Yeah,
+      this, well, I can understand why, especially after Trump came to power, there
+      would be some desire to favor reducing tensions as opposed to upholding the deterrent.
+      Because in the diplomatic sphere, Russia will never see another Trump. One that
+      has spoken friendly about Russia, said he wanted to get along, recognized that
+      NATO expansion, on more than one occasion, he recognized this is the cause of
+      the war. Again, there seems to be a pathway there to peace. And well, it seemed,
+      let’s use past tense there, but also those reasonable concerns about escalation
+      and given that the war was going Russia’s way, they didn’t want to make any waves.
+      But of course, the situation today is very different. We see, as you said, the
+      pressure on Putin to do something, to retaliate is growing. I think it’s fair
+      to say that diplomacy is dead now. Trump for all his talks, everything that was
+      talked about in Alaska, about dealing with the underlying causes of the war, well,
+      now he’s back on the ceasefire again. So everything they talked about, everything
+      is now out the window. And also the sanctions on the Russian oil or, well, technically
+      secondary sanctions, because they’re going to go after Russia’s partners, India,
+      China. 13:18 And as you said, the Europeans essentially legalizing the theft of
+      Russian assets to further fund the war a few more years. This is all the indicators
+      of preventing the fall of Ukraine and keeping the war going for a few more years.
+      But not only is the pressure on Putin, and I think there’s recognition more widely
+      now that diplomacy is dead, but Russia stands on much firmer ground now if they
+      now decide to go up the escalation ladder. I’m thinking then a few months ago,
+      the Oreshnik was a, you know, a test missile. Now it’s in industrial production.
+      The Russians are in a much stronger place now it seems if they do want to start
+      to restore their deterrent. But do you think this would trigger a direct war between
+      NATO and Russia if Russia escalates or would it prevent it? Doctorow: 14:22 First,
+      let’s take one step back. You said everybody agrees that diplomacy is no longer
+      an option. Everyone except Mr. Putin. In the last day, he has repeated that, well
+      two days ago, he was speaking and saying that talking is much better than confrontation.
+      And then he sent Mr. Dmitriev to the United States on a fool’s errand that has
+      the image that the United States and Russia are still talking to one another and
+      are thinking about big business in the future. This is absolutely empty show and
+      it only demonstrates a complete lack of understanding by Mr. Putin and the people
+      who are advising him of who Mr. Trump is, what the American administration is,
+      and how do you deal with them. He is dead wrong. This Mr. Dmitriev’s mission is
+      empty of content, because everything– Dmitri is a brilliant man who is very ambitious
+      and is serving the boss of bosses with a view obviously to where his political
+      career will go in the future. 15:35 I have no objection to that. But what he’s
+      doing now is utterly stupid for the interests of Russia. He rewards the United
+      States by pretending that they’re still in talking terms and have great business
+      plans for the future, the day after the United States has slapped secondary sanctions,
+      which– this was discussed with Trump, it was discussed with Putin, what is the
+      outcome or the likely result of these sanctions? And Putin said, oh, we will get
+      along, it’s not a deal. And Trump said, we’ll see how you’re doing in six months.
+      Between the two, I agree with Trump but I disagree with Putin. What has happened–
+      I just did a little diversion here, we’re speaking about the secondary sanctions
+      on the two biggest consumers, buyers of Russian oil, that is India and China.
+      These sanctions against China are almost without effect, not just because China
+      will stop supplying rare metals to the United States and the US industry will
+      shut down the next day, but because China has most of its oil coming to it by
+      pipelines, which are really in no way affected by the sanctions that have been
+      imposed, because they are directed against seaborne oil. 16:56 India is the opposite
+      case. India does not have a stranglehold on rare metals. It has no cudgel to use
+      to beat back the Americans the way the Chinese do. And its oil, which is roughly
+      the same volume as what China’s importing, is all coming by sea. And yesterday,
+      I think it’s called Reliable. It’s a privately owned single biggest importer of
+      Russian oil into India. And they said they’re not going to buy any more oil. Now,
+      that isn’t the end of the game, of course. The Russians and the Indians are probably
+      scrambling to find workarounds for this, but there will be a loss of sales. And
+      what does that mean for the Russian budget? Mr. Trump is right. If we just say
+      that the Russians cannot bring around the Indians to maintain the same level of
+      imports, they will lose 10% of the state budget. 10%. Now they are not running
+      a deficit because the Russian government is jointly prioritizing guns and butter.
+      That is all social benefits are rising, indexation is going up, the standard of
+      living of the grandma is better than it was last month. All that’s going forward.
+      18:18 And they have a deficit in the budget. You make a 10% hole in the budget
+      and Russia is going to be suffering enormously. And Trump knows that, and Putin
+      is denying it. He also knows that. So they’ve got a big problem. He is not dealing
+      honestly with his own people and he is not making decisions that are rational
+      in light of the behavior of the Americans. The worst thing he could have done
+      was to send Dmitriev to the States just after these sanctions were introduced.
+      And the whole Dmitriev affair in general, just to back up for a moment, is total
+      nonsense. It’s only that “We, Americans and Russians, will have great business
+      together. We do big business.” Yeah okay. I’ve heard that since 1975. In 1975
+      on, I was very deeply involved in all the big business that the United States
+      and Russia would have. And frankly speaking, it was nil. Not because of bad will,
+      but because the different structures of the economy. 19:35 And they simply are
+      not, there’s nothing to harmonize, the way there was and is with Europe, where
+      the two fit together very well. Supplier of raw materials. United States doesn’t
+      really need Russian raw materials. And this project, this mega project, this again
+      shows a very poor understanding of Mr. Trump. Oh, Trump is a big real estate developer.
+      So we’ll propose to him, we’ll build an $8 billion dollar tunnel connecting Alaska
+      and the Russian Far East. To carry what? Nothing. There’s nothing to carry. So
+      they were, they thought they were being very very clever with Mr. Trump and they
+      have not been very clever. And that carries over to this question of deterrence.
+      I think that Putin has made some very bad choices. Sending Demetriev was the worst
+      thing he could have done. Making that lame speech a day ago that we still have
+      an option for diplomacy and we don’t want to confrontation. That is exactly the–
+      directly against what you were saying, what I am saying, and what people like
+      Dmitry Trenin and Dmitry Simes, who are really very well plugged into the power
+      structure on foreign affairs in Russia, are saying. So there’s a problem there.
+      Diesen: 20:52 Yeah. I don’t understand quite why the Kremlin still thinks it has
+      a peace president in the White House because I mean, when the United States approaches
+      countries, the ideal scenario it has is where it is allowed to bomb other countries
+      a little bit, like most of Middle Eastern countries. So moderate attack every
+      now and then. And with the understanding if there’s any retaliation, then it would
+      escalate dramatically. Now the only way you don’t end up in a situation like that
+      is if you have a deterrent who is, that is credible. So Iran, for example, made
+      this very clear. Any attacks on it, it will respond and they know they will respond.
+      So doesn’t mean a war isn’t coming, but nonetheless, it creates some caution.
+      But we created this strange scenario now where initially it’s kind of open that
+      the NATO countries were backing Ukraine within the war, confined within Ukraine.
+      But then came this idea that, well, why should the war be confined here? Let’s
+      bring it to Russia. Now you see, again, not only did Trump put sanctions directly
+      on Russia, which even Biden wouldn’t do, the oil, but now also having all these
+      NATO countries, because you have now Zelensky in London with the coalition of
+      the willing as they call themselves, discussing what long range missiles, how
+      NATO can assist probably using these weapons and what targets to pick. And well,
+      essentially, there’s hardly going to be any Ukrainian engagement at all. This
+      is– we’re now in direct war. And while they’re being punched in the face, they
+      are essentially saying, well, let’s let’s talk instead. I mean, the whole point
+      of the turns is if– there’s a one-way hostility here, where NATO can strike Russia
+      but Russia doesn’t respond, why would NATO talk to Russia then? 22:59 I’m just
+      saying in political theory you often assume that countries will push and push
+      and push until they’re pushed back. Once there’s a balance, then you start to
+      talk and find a way of enhancing mutual security. So it is strange indeed to see
+      that Putin hasn’t, that he still behaves as if he buys into Trump’s rhetoric,
+      that it’s not his war, he’s trying to end it. The fact that Trump hasn’t once
+      over the past few months now mentioned an end to NATO expansion, it just makes
+      the whole thing look like a fraud, especially now walking back this whole idea
+      of addressing the underlying causes. But if the Russians were to restore their
+      deterrent now though, again, it seems like a good chance we could end up in war
+      exactly because well, at the moment, the Europeans at least, they seem to be almost
+      looking for a reason to pick a fight. 24:08 Every time we have a little drone
+      near a German airport it’s defined as a hybrid war you know even though they’re
+      arresting Germans for it. But what do you think a possible conflict could arise
+      though? Because as the, as well, Keir Starmer is celebrating Trump’s sanctions
+      And he said that we will keep, we will help to take Russian oil off the market.
+      Now that we can name in many things, it could be in sanctions. It could mean start
+      seizing Russian ships. Again, it could mean assisting more with long-range strikes
+      on Russian refineries. How do you see the escalations coming forward? Because
+      it looks like NATO is preparing another round of the attacks on Russia. Doctorow:
+      24:57 Well, I think that Mr. Putin’s team understands the concept of window of
+      opportunity. The opening of the special military operation in February, 2022 was
+      precisely based on a window of opportunity, based on the technological advantage
+      in strategic weapons systems that Russia had satisfied itself, was operational,
+      and could be used at any moment. Russia for the first time in 70 years was technically,
+      strategically ahead of the United States, not three steps behind. Now that consciousness
+      of window of opportunity, which determined the timing and the manner of the special
+      up military operation, is exactly what’s missing now. In answer to your point,
+      this is the moment for Russia to strike. The Europeans acknowledge that they have
+      nothing and they are putting out and publicizing 2029 as a date when they will
+      be ready. 26:06 Why in hell do they think that Russia’s going to sit around waiting
+      to be struck by them because the Europeans are finally ready? If Mr. Putin’s team
+      has any strategic thinking, they will recognize that fact and wipe out Ukraine
+      now, before Europe can do anything. Europeans will be left wringing their hands.
+      The Americans will say, we told you so. And that’s where it will end. If Ukraine’s
+      military potential, decision-making centers are taken out now, which those Oreshniks
+      make manifestly possible, end of game, or game and match. I am dumbfounded that
+      Putin’s team has forgotten the notion of window of opportunity. Russia will never
+      have the same advantage it has over Europe militarily that it has at this particular
+      moment. Diesen: 27:13 But the whole, the ideal of a deterrent is exactly that
+      it shouldn’t have to be used. That is, if it’s credible and communicated properly
+      and these capabilities are evident. Now everyone knows that the capabilities are
+      there, but it’s not credible any more. And the communication is poor. I mean,
+      if the language would be firm to the point where NATO would read it as Russia
+      would not have, well, the Kremlin wouldn’t have an opportunity to essentially
+      walk it back if red lines would be violated, then it would be credible. But this
+      is why I’m looking, one would expect a speech where President Putin would say,
+      you know, if long range strikes with missiles operated by NATO countries strike
+      our our land or soil, then we will do A, B and C. If it’s made clear and they
+      know that the Russian public wouldn’t accept anything else or the military leadership,
+      the political leadership wouldn’t accept any walking back of very clear commitments,
+      then they wouldn’t have to use any of their deterrent. There wouldn’t have to
+      be a strike on Ukraine’s decision centers. They wouldn’t have to do this escalation,
+      but I guess my concern is, as long as they don’t communicate it, you walk further
+      and further up the escalation ladder, and when they finally do strike back, then
+      you end up in a war situation. Doctorow: 28:46 What I was suggesting was not a
+      war with NATO. I was suggesting destroying Ukraine. They’re two different things.
+      The destruction of the political elites in Kiev would be a warning. It would establish
+      or reestablish Russian’s deterrent. Let’s go back in history a little bit. There
+      was 1956, there was 1968. Russia had at the time all kinds of deterrent powers
+      in its military arsenal. But it invaded both Czechoslovakia and Hungary and it
+      hit a fly with a hammer, and it worked, and that’s what I’m saying now. I’m not
+      saying that they should– and there are Russian hotheads who are saying, well,
+      we have to bomb Germany, we have to wipe out London. I’m not saying this at all.
+      What they have to do is go to the heart of the problem, which is the antechamber
+      of the Russian-NATO war. It is not creating a Russian-NATO war. If Ukraine is
+      eliminated, by the method I’m saying, and it’s not my idea, I’m repeating what
+      is on– the words of well-respected Russian thinkers. All right, there is disputes
+      over how well-respected Mr. Karaganov is, but nonetheless, He is a major figure
+      in the political establishment of Russia. 30:19 And so at that level, and I say
+      even less than that level, because he was speaking about using a tactical nuclear
+      weapon in Western Europe to demonstrate Russia’s willingness to go all the way
+      if necessary. I think the sword is needed. Oreshniks destroying a few hundred
+      people in downtown Kiev who are the regime, could do the job and reestablish Russia’s
+      deterrence to all of the war-hungry people who happen to be the heads of government
+      in Western Europe. Diesen: 30:59 This is the risk though, when you let your deterrent
+      become weakened, if not undermined completely, suddenly you do get these proposals
+      from quite respected people who argue for use of tactical nuclear weapons against
+      European countries in order to restore the deterrent. This wouldn’t have been
+      an issue. I mean, I think if … they would have upheld it, that’s what I meant
+      at the onset, that is, I think the whole, both sides, the world in general, it
+      loses when one of the great powers lets its deterrent slip. This is when there
+      will be an overcompensation later on. It just feels like, based on the shift in
+      rhetoric and also the situation on the ground, the accessibility now of the Oreshnik
+      on a much larger scale, it looks like we’re reaching that point where the retaliation
+      will come. But if this is the case, one would expect to see a change in rhetoric
+      because if, if, President Putin stepped up the rhetoric, then perhaps, they wouldn’t
+      have to go to the extent of actually using this weapons. Doctorow: He doesn’t
+      have to personally step up the rhetoric, but he has to stop calling, rebuking
+      the person in his government who was best able to do that. I’m speaking about
+      Sergei Ryabkov. Ryabkov is the one who in December 2021 presented the ultimatum
+      or the draft agreements which were in fact an ultimatum to Washington and to NATO.
+      That either go back voluntarily, withdraw your establishment of NATO, the structures,
+      to where they were in 1997, or we will push you back. Now that’s pretty tough
+      language. And the same Ryabkov is the one who was slapped down by Putin less than
+      a week ago for saying what you just said at the start of this conversation. That
+      diplomacy has outlived its usefulness. So these people like Ryabkov, and there
+      aren’t too many like him. He’s really quite outstanding and brave because he knew
+      what he was heading into when he said that. He knew that he was putting his career
+      in jeopardy when he said that. They’re there inside the government, not on state
+      television. And the– what worries me most of all, is something that’s going to
+      sound a bit peculiar, I think, to viewers. We have been living with the neocon
+      stories about appeasement. We cannot deal with this dictator in Iraq. We cannot
+      deal with these people in Libya and so on. We cannot appease them and so forth.
+      And always with a reference back to Chamberlain and his speech of “peace in our
+      time” after his meeting with Hitler, and the surrender of the Sudetenland. All
+      of that was rubbish. It was pure propaganda. But what I heard Mr. Putin saying
+      a day and a half ago was a Chamberlain speech. And that got me very unhappy. Diesen:
+      34:41 So that’s, I guess, a final question. Do you have any predictions where
+      we’re heading now though? Because you make it sound like Putin is standing his
+      ground. I got the impression that he was making a bit of a shift, that a response
+      could be coming again. I’m not certain in this, but that’s the impression I was
+      left with. Doctorow: Well, I hope you’re right. But I’m dismayed that he sent
+      off Dmitriev, because that undermines any such notion of his move from expectation
+      of productive diplomacy to restoring Russia’s deterrent power by communications
+      and by show of grit. I don’t know. None of us knows what he’s going to do next.
+      But he has been inconsistent in the last two or three weeks, and I think you’ll
+      agree with me. As inconsistent in his own way as Trump is. One of the criticisms
+      I have from colleagues, confidentially on the side, not in a public dispute, is
+      that Putin has to behave this way because he gets reports from Russian psychologists
+      who have done readings on Trump and his volatility. And the man is unpredictable
+      and such a dangerous person has his finger on the nuclear start and therefore
+      they are playing with Trump in this way. 36:33 I don’t believe that at all. From
+      my way of thinking, Mr. Trump is a good Christian, a real believer, a family man,
+      and the last thing he wants to see is the United States, including his own family,
+      incinerated. So I wouldn’t worry for a minute about Trump rushing Hegsteth. I
+      don’t believe any of this. I think people are trying to cover their backsides
+      for being apologists for Putin. I’m not an apologist for anybody. We’ve gone through
+      this question before. I’m just trying to keep reading it as I see it. And maybe
+      you’re right, I hope you’re right, that he has definitely seen the light and will
+      be tougher and a better protector of Russia’s interests, but I’m not persuaded
+      yet. Diesen: 37:25 Well, my impression of the Trump administration was that they
+      are quite transactional but also pragmatic, that they do assess their policies
+      based on cost-benefit analysis. So previously, people like Marco Rubio was asked,
+      why don’t you push more sanctions on Russia? And his response was, well, that
+      would derail the possible possibility for diplomacy. But then the Russians removed
+      this cost. So I’m saying, no, no, no, you can sanction all our oil companies and
+      we’ll send Dmitriev the next day over to the US to discuss a peace tunnel. I mean,
+      it’s– you would think they would be communicating more costs by escalating, but
+      no, this is very, it’s very dangerous. Again, people often interpret this as Putin,
+      you know, being trying to preserve the peace or something, but as we discussed,
+      when the deterrent weakens, you know, peace becomes more fragile. It’s more likely
+      now that there would be war. One, again, everyone would lose from. But yes, let’s
+      see what happens. I get the sense now that something is shifting in Moscow, but
+      it remains to be seen. Anyways, thank you so much for taking the time. Doctorow:
+      38:51 Well, very kind of you.'
+    one_sentence_summary: In an interview, historian Gilbert Doctorow, currently in
+      St. Petersburg, discusses the decline of Russia's nuclear deterrent credibility
+      and its implications for global peace, reflecting on his experiences living in
+      Russia.
+    paragraph_summary: In a recent discussion, historian and international affairs analyst
+      Gilbert Doctorow, currently residing in St. Petersburg, addressed the declining
+      credibility of Russia's nuclear deterrent. He emphasized the importance of a credible
+      deterrent in maintaining peace, particularly during the Cold War when both sides
+      understood the boundaries not to be crossed. Doctorow noted that there are growing
+      concerns within Russia regarding the Kremlin's perceived failure to respond decisively
+      to NATO's escalations, including attacks on Russian military and commercial targets.
+      He suggested that there is an ongoing debate among Russia's foreign policy elite
+      about the need for a significant shift in strategy to restore deterrent credibility,
+      highlighting the urgency of addressing these issues to maintain the balance of
+      power.
+    published: '2025-10-26T20:30:28+00:00'
+  - title: Conversation with Professor Glenn Diesen, 25 October
+    url: https://gilbertdoctorow.com/2025/10/26/conversation-with-professor-glenn-diesen-25-october/
+    text: 'With some help from a diligent member of the Community, I am now able to
+      share with you the link to yesterday evening’s discussion of deterrence with Professor
+      Diesen. The proposition is that Mr Putin is damaging Russia’s deterrence by his
+      failure to respond adequately to the dangerous provocations against Russia going
+      back to the first days of Trump’s first term in 2017. Moreover, Russia’s style
+      of war from the opening days of the Special Military Operation was too original,
+      too far removed from what the West understands by war and this originality came
+      at the price of scorn for Moscow’s deterrent strength in Berlin, London and Washington.
+      This has mounted with each failure of Putin to play by the rules and strike back.
+      The latest manifestation is his behavior following the imposition of secondary
+      tariffs on Russian oil exports to India and China which may do great damage to
+      the Russian budget. And in response Putin sent Dmitriev to the States to talk
+      with business leaders about the great future for US-Russian trade. In terms of
+      traditional statecraft, this is self-defeating. ( https://m.youtube.com/watch?v=ttYcjybLWBY
+      ) Russian voice over: https://rutube.ru/video/2f681c947481e2f6f334a0a43b197c57/?ysclid=mh7qwglvwd832277132'
+    one_sentence_summary: The article discusses a recent discussion with Professor Diesen,
+      highlighting how Putin's inadequate responses to provocations since 2017 are undermining
+      Russia's deterrence, particularly in light of his unconventional military strategies
+      and recent economic challenges, such as secondary tariffs on Russian oil exports.
+    paragraph_summary: The article discusses a recent discussion led by Professor Diesen
+      regarding the impact of President Putin's actions on Russia's deterrence capabilities.
+      It argues that Putin's inadequate responses to provocations since 2017 have weakened
+      Russia's deterrent strength, particularly in the eyes of Western powers like Germany,
+      the UK, and the US. The unique approach Russia has taken in its military operations
+      has further contributed to this perception, culminating in a lack of respect for
+      its deterrent power. The situation has worsened with recent sanctions on Russian
+      oil exports to India and China, which could severely affect Russia's economy.
+      In a seemingly counterproductive move, Putin has sent Dmitriev to the US to promote
+      potential trade relations, which the article suggests undermines traditional statecraft
+      principles.
+    published: '2025-10-26T14:36:47+00:00'
+  - title: Conversation with Professor Glenn Diesen, 25 October
+    url: https://gilbertdoctorow.com/2025/10/26/conversation-with-professor-glenn-diesen-25-october/
+    text: 'With some help from a diligent member of the Community, I am now able to
+      share with you the link to yesterday evening’s discussion of deterrence with Professor
+      Diesen. The proposition is that Mr Putin is damaging Russia’s deterrence by his
+      failure to respond adequately to the dangerous provocations against Russia going
+      back to the first days of Trump’s first term in 2017. Moreover, Russia’s style
+      of war from the opening days of the Special Military Operation was too original,
+      too far removed from what the West understands by war and this originality came
+      at the price of scorn for Moscow’s deterrent strength in Berlin, London and Washington.
+      This has mounted with each failure of Putin to play by the rules and strike back.
+      The latest manifestation is his behavior following the imposition of secondary
+      tariffs on Russian oil exports to India and China which may do great damage to
+      the Russian budget. And in response Putin sent Dmitriev to the States to talk
+      with business leaders about the great future for US-Russian trade. In terms of
+      traditional statecraft, this is self-defeating. ( https://m.youtube.com/watch?v=ttYcjybLWBY
+      ) Russian voice over: https://rutube.ru/video/2f681c947481e2f6f334a0a43b197c57/?ysclid=mh7qwglvwd832277132'
+    one_sentence_summary: The article discusses a recent discussion with Professor Diesen,
+      highlighting how Putin's inadequate responses to provocations since 2017 are undermining
+      Russia's deterrence, particularly in light of his unconventional military strategies
+      and recent economic challenges, such as secondary tariffs on Russian oil exports.
+    paragraph_summary: The article discusses a recent discussion led by Professor Diesen
+      regarding the impact of President Putin's actions on Russia's deterrence capabilities.
+      It argues that Putin's inadequate responses to provocations since 2017 have weakened
+      Russia's deterrent strength, particularly in the eyes of Western powers like Germany,
+      the UK, and the US. The unique approach Russia has taken in its military operations
+      has further contributed to this perception, culminating in a lack of respect for
+      its deterrent power. The situation has worsened with recent sanctions on Russian
+      oil exports to India and China, which could severely affect Russia's economy.
+      In a seemingly counterproductive move, Putin has sent Dmitriev to the US to promote
+      potential trade relations, which the article suggests undermines traditional statecraft
+      principles.
+    published: '2025-10-26T14:36:47+00:00'
+  - title: News X World interview 26 October
+    url: https://gilbertdoctorow.com/2025/10/26/news-x-world-interview-26-october/
+    text: Happily today the producers at NewsX World were quick in getting to me the
+      link to the podcast of the interview we recorded in the morning ( https://youtu.be/6KY9ax158MQ?si=NW09xdv6wjy_ZqLo
+      ) Here we discuss the honesty of Kiev mayor Klitschko in attributing the latest
+      deaths and injuries from a Russian drone attack on the falling pieces of drones
+      downed by Ukrainian air defense rather accusing the Russians of targeting residential
+      buildings. However, as we discuss the real news of the day is Moscow’s claim to
+      have completely surrounded the Ukrainian battalion in Pokrovsk (Krasnoarmeisk
+      in Russian), meaning that perhaps 5,000 Ukrainian troops are now facing surrender
+      or slaughter. This will be the really big news in the coming days
+    one_sentence_summary: The article highlights an interview discussing Kiev mayor
+      Klitschko's honesty regarding casualties from a Russian drone attack and emphasizes
+      Moscow's claim of surrounding a Ukrainian battalion in Pokrovsk, potentially endangering
+      5,000 troops.
+    paragraph_summary: In a recent interview on NewsX World, the discussion centered
+      around Kiev mayor Vitali Klitschko's candid acknowledgment that recent casualties
+      from a Russian drone attack were due to debris from downed drones rather than
+      direct strikes on residential areas. The conversation also highlighted Moscow's
+      assertion that it has fully encircled a Ukrainian battalion in Pokrovsk, potentially
+      putting around 5,000 Ukrainian troops at risk of surrender or severe losses, which
+      is expected to be a significant development in the ongoing conflict. The podcast
+      of the interview is available for listening.
+    published: '2025-10-26T14:10:00+00:00'
+  - title: News X World interview 26 October
+    url: https://gilbertdoctorow.com/2025/10/26/news-x-world-interview-26-october/
+    text: Happily today the producers at NewsX World were quick in getting to me the
+      link to the podcast of the interview we recorded in the morning ( https://youtu.be/6KY9ax158MQ?si=NW09xdv6wjy_ZqLo
+      ) Here we discuss the honesty of Kiev mayor Klitschko in attributing the latest
+      deaths and injuries from a Russian drone attack on the falling pieces of drones
+      downed by Ukrainian air defense rather accusing the Russians of targeting residential
+      buildings. However, as we discuss the real news of the day is Moscow’s claim to
+      have completely surrounded the Ukrainian battalion in Pokrovsk (Krasnoarmeisk
+      in Russian), meaning that perhaps 5,000 Ukrainian troops are now facing surrender
+      or slaughter. This will be the really big news in the coming days
+    one_sentence_summary: The article highlights an interview discussing Kiev mayor
+      Klitschko's honesty regarding casualties from a Russian drone attack and emphasizes
+      Moscow's claim of surrounding a Ukrainian battalion in Pokrovsk, potentially endangering
+      5,000 troops.
+    paragraph_summary: In a recent interview on NewsX World, the discussion centered
+      around Kiev mayor Vitali Klitschko's candid acknowledgment that recent casualties
+      from a Russian drone attack were due to debris from downed drones rather than
+      direct strikes on residential areas. The conversation also highlighted Moscow's
+      assertion that it has fully encircled a Ukrainian battalion in Pokrovsk, potentially
+      putting around 5,000 Ukrainian troops at risk of surrender or severe losses, which
+      is expected to be a significant development in the ongoing conflict. The podcast
+      of the interview is available for listening.
+    published: '2025-10-26T14:10:00+00:00'
+  - title: Transcript of News X interview 25 October
+    url: https://gilbertdoctorow.com/2025/10/26/transcript-of-news-x-interview-25-october/
+    text: 'Yesterday I spoke of 2 interviews, the one of that morning and the one from
+      Friday. NewsX sent me two links which I assumed was for both, though I had no
+      way of checking given that youtube does not open in Russia. Now the kind gentlemen
+      who does the transcripts has informed me that the two links relate to one and
+      the same interview, probably the one from yesterday. Sad but not tragic. I believe
+      this interview is well worth a read because the hosts allowed me to speak freely
+      about highly relevant issues OTH LINKS GIVEN INCLUDE THE SAME DOCTOROW SEGMENT.
+      PROBABLY THEY SENT ONE WRONG LINK. ================================================
+      Transcript submitted by a reader https://www.youtube-nocookie.com/embed/_nJ8s5HSUEM?rel=0&autoplay=0&showinfo=0&enablejsapi=0
+      World: 0:00 –during 13 others. The strikes hit multiple locations including energy
+      and infrastructure sites. Officials have said residential buildings and a kindergarten
+      were damaged as well. These have sparked several fires across the city. Meanwhile,
+      Ukrainian Prime Minister Yulia Svydenko has posted on X saying that Russia is
+      trying to create a humanitarian catastrophe as the winter approaches. She has
+      called the attack a deliberate act of terror against civilians. Svydenko has also
+      praised emergency workers for their quick response and urged allies to provide
+      stronger air defense systems to protect Ukrainian cities. Ukraine’s Foreign Ministry
+      Andriy Sibiha said that Russian strikes also targeted the energy grid, railways
+      and homes in Dnipro, Kharkiv and Sumy. On the other hand, Russia’s defense ministry
+      has claimed the attacks were aimed at Ukraine’s military and energy facilities.
+      It also said Russian forces shot down 121 Ukrainian drones overnight, including
+      seven headed towards Moscow. 1:11 Now for this discussion, we are joined by Gilbert
+      Doctorow. He’s a Russian affairs expert, joins us live from St. Petersburg. Thank
+      you very much, Gilbert, for joining us again. Good to see you. Now today we saw
+      comments coming in from a Russian envoy, Kirill Demitriev. He said that the United
+      States, Russia and Ukraine were quite close to a diplomatic solution to end the
+      Russia-Ukraine war. But we see all these escalations from both sides as Russian
+      strikes hit Kiev, and Kiev was targeting Russia’s capital, Moscow. So how do you
+      analyze this current situation of Russia and Ukraine, and is there any chance
+      of trilateral or bilateral talks? Doctorow: 2:03 Mr. Dmitriev is in the United
+      States now on a mission to discuss trade prospects, and he is suggesting that
+      there is a path towards negotiated settlement and that there will be very big
+      business between the United States and Russia. I understand his position. It’s
+      an official government position within Russia, but I don’t believe what he says
+      for a minute. Mr. Dmitriyev is a very smart, very capable, I should say very ambitious
+      person, who is doing the bidding of the president of the Russian Federation. And
+      this trip is symbolic. Its actual content is, to my understanding, close to zero.
+      I think it is very unfortunate that this trip is proceeding just days after Mr.
+      Trump has imposed what are hoped from Washington’s perspective to be crushing
+      sanctions on Russia’s oil trade, particularly on trade in oil with India, because
+      India is, together with China, the largest consumer today of Russian oil. Whereas
+      China is fairly safeguarded from Trump’s sanctions, and whereas China receives
+      almost all of its oil from pipelines, which are untouchable by American sanctions,
+      India receives it all by ships, and it’s seaborne oil that the sanctions are going
+      to hit. So in this light of this very severe sanction, it is surprising that Mr.
+      Dmitriev is in the United States at all. I am dumbfounded. World: 3:49 Yes. Building
+      on that, why do you think, what does this timing suggest of this statement? Doctorow:
+      I think it is a very bad indication of the way the Russian administration is reading
+      Mr. Trump and what comes next. It’s surprising that they are forgetting what happened
+      in December of 2016, soon after the election of Trump to his first mandate, when
+      Mr. Obama gave a poisoned chalice to the incoming president by confiscating Russian
+      diplomatic properties in the United States. And the Russians didn’t respond. Mr.
+      Putin didn’t respond. He hoped that still then in 2016, going into 2017, that
+      good relations would be established. But we know what happened. Mr. Trump proceeded
+      to introduce a vast number of sanctions on Russia, and he proved himself in his
+      first term to be no friend of Russia. 4:55 I am dumbfounded that that lesson from
+      the past is being forgotten or ignored at the present, because the imposition
+      of these sanctions is like the confiscation of the diplomatic missions in 2016.
+      And here again, we see no proper response from Russia. Instead, it turns the other
+      cheek and sends Mr. Dmitriev on a fool’s errand to talk about big business opportunities
+      in the future. I do not understand the strange behavior of the Russian government
+      today. World: 5:34 And building on that, what are the potential implications?
+      As you have mentioned, it’s very questionable, but Russia did state that Russia
+      and the United States are maintaining dialogue on issues beyond Ukraine. What
+      could that be? Doctorow: Well, there are many issues that they have in common.
+      Their activities in the United Nations are, to a certain extent, coordinated today
+      on areas of common interest. There is of course coordination on how to deal with
+      the Gaza settlement, because Russia is also an interested party in everything
+      that happens in the Middle East. The Middle East is much closer to the Russian
+      Federation than it is to the United States. So there are subjects that they are
+      discussing, some of which will be constructive. But the major issue between the
+      United States and Russia is destructive, not constructive. 6:30 And Mr. Putin
+      in the last several days explained how it would be tough and he would give a determined
+      and shocking response if the United States sent Tomahawks to Kiev. Well, that
+      was looking brave about a situation that’s already been resolved. The United States
+      is not sending any tomahawks to Russia. But when it comes to the question of the
+      challenges that Mr. Trump has just imposed by the latest sanctions, Mr. Putin
+      is doing nothing and saying nothing. Now these sanctions– let me be very specific
+      what we’re talking about. If India does not fulfill its, or carry on its present
+      level of purchases of oil, that will create a 10% hole in the Russian state budget.
+      That is a severe loss of income. And Mr. Putin is pretending that it’s nothing.
+      He’s pretending that it doesn’t exist. That is not the way to deal with this issue.
+      World: 7:33 What do you think, should India consider providing technology or defense
+      assistance to Ukraine, or maintain a neutral position to protect its strategic
+      partnership with Russia on this matter? Doctorow: Well, if India were to put,
+      to extend defense equipment and technology to Ukraine, that would ruin BRICS.
+      Let’s just be very open about it. India has nothing like that in the plans. The
+      damage that India would do to Russia is if it decided, this is a reasonable thing
+      to do, that Mr. Trump’s sanctions and tariffs on India are too expensive to accept,
+      and that although Russian oil is being sold cheaply, it’s not being sold cheaply
+      enough to compensate India for the losses that Trump is imposing. 8:29 So there
+      you have the critical issue for India. It is not against Russia, but it is whether
+      or not India submits to the diktat of Washington and curtails or stops completely
+      its purchases of Russian oil. You know, as I know, that your single largest importer
+      of Russian oil, I think the company is called Reliance, has just stated publicly
+      that it will no longer buy Russian oil. So I imagine that the Indian government
+      representatives and Russian representatives are talking furiously now to find
+      a workaround so that some imports of Russian oil will continue despite the sanctions.
+      World: 9:18 And how– now bringing EU to the conversation, how do you analyze European
+      nations’ perspective? Do you think they are discouraging direct US Russia communication,
+      or they’re encouraging direct US Russia communication? Doctorow: Well they’re
+      working against any communications. The majority of European Union member states
+      and by majority I mean 24 out of the 27 member states because three member states
+      Slovakia, the Czech Republic and Hungary are in opposition to the others. But
+      the others all want a continuation of the war. They find it advantageous to punish
+      Russia and to keep it distracted by the Ukraine while they proceed to invest a
+      vast amount of money in remilitarization, meaning restoring and raising the production
+      levels of European arms manufacturers and allotting money for the training and
+      salaries of enlarged armies. Germany wants to expand its army by about 40% to
+      50%. That takes a lot of money, a lot of training, and it’ll take some time. So
+      they all want to keep Russia busy for the next three or four years while they
+      prepare themselves for a 2029 attack on Russia. That is where they stand. European
+      countries and the European Union are predominantly hawkish, warlike and anti-Russia.
+      That is the present leadership today. World: 11:07 Well, thank you for sharing
+      that insight, Gilbert Doctorow. Please stay with us as we come back to you for
+      our next discussion as well. Now the European Union is developing a new plan to
+      curb its reliance on Chinese critical raw materials. European Commission President
+      Ursula von der Leyen has criticized Beijing for its expanded restrictions on the
+      export of rare earths. The European Union has for years attempted to reduce its
+      dependence on China for the minerals that are needed for the transition to cleaner
+      energy, the defense sector and electric vehicle production as well. Now Ursula
+      von der Leyen has also stated that the EU would seek to speed up critical raw
+      materials partnerships with countries such as Australia, Canada, Chile, Greenland,
+      Kazakhstan, Uzbekistan and Ukraine. 12:01 The plan would also include greater
+      efforts to recycle critical raw materials in products sold in Europe. This comes
+      in response to China’s export restrictions on rare earths and battery materials
+      which were imposed on 9th October. Now for this discussion, we go back to Gilbert
+      Doctorow. He’s a Russia affairs expert, joins us live from St. Petersburg. Thank
+      you very much, Gilbert, for staying with us. Now how can EU’s efforts to reduce
+      independence on Chinese critical raw materials reshape global trade dynamics for
+      them and their strategic partnership and their strategy moving forward? And is
+      this feasible in short term? How long will it take for them to change this, to
+      replace China with other countries? Doctorow: 12:54 Well, you put your finger
+      on the critical issue. It’s time. They can make arrangements with Australia and
+      Canada and all kinds of other countries. But there is no rare-earth production
+      going on of any significant amount outside of China. Because it is a dirty business,
+      that is to say, it is a polluting business, which all of the very ecologically
+      proper nations of the Earth have avoided, China picked it up. And China became,
+      by default, not by intent, but I stress by default, the world’s largest producer
+      and almost monopoly producer and processor. You can dig this stuff up, but you
+      have to know how to refine it. And you have to do this in an ecologically acceptable
+      way, which is not easy. Accordingly, it will take years. And Von der Leyen’s statement
+      about how they intend to get around the Chinese limitations. My goodness, Europe
+      is lucky that the Chinese are selling one ounce of these metals to them altogether,
+      given the hostility of European policies towards China. 14:08 The United States,
+      of course, is more active, but look what has happened. And if we want to consider
+      the real negotiating strength of Europe in this issue, look at the United States.
+      Mr. Trump threatened China with the most drastic dire sanctions, 150 percent tariffs
+      and so on. And where is that now? Nowhere. Because the Chinese said, gentlemen,
+      you pursue this and you won’t get a gram of our metals. And if you don’t have
+      that, Western industrial production of high technology products collapses, not
+      six years from now, but next week. Therefore, the Americans learned to their regret
+      that the Chinese have leverage over the Americans. And if they have leverage over
+      the Americans, where Mr. Trump is the world’s biggest bully and biggest loudmouth,
+      then they surely have leverage over the European Union. And Madame von der Leyen
+      is whistling in the dark. World: 15:16 With that, I would like to thank Gilbert
+      Doctorow for joining us and sharing that insight and staying with us throughout
+      this news. Now we move on.'
+    one_sentence_summary: The author clarifies that two links sent by NewsX pertain
+      to the same interview, likely from yesterday, which they believe is significant
+      due to the freedom of discussion on important issues, despite the confusion regarding
+      the links.
+    paragraph_summary: In a recent update, the speaker discussed two interviews, one
+      from the morning and another from the previous Friday, which were mistakenly thought
+      to be linked by NewsX; however, it turned out they were both for the same interview
+      from yesterday. Despite the confusion, the speaker believes the interview is significant
+      as it allowed for an open discussion on important topics. In related news, Ukrainian
+      Prime Minister Yulia Svydenko condemned recent Russian strikes that damaged residential
+      buildings and infrastructure, calling them acts of terror aimed at creating a
+      humanitarian crisis as winter approaches. She urged for enhanced air defense support
+      from allies, while Russia's defense ministry claimed the strikes targeted military
+      and energy facilities, asserting that they successfully intercepted numerous Ukrainian
+      drones.
+    published: '2025-10-26T12:41:27+00:00'
+  - title: Transcript of News X interview 25 October
+    url: https://gilbertdoctorow.com/2025/10/26/transcript-of-news-x-interview-25-october/
+    text: 'Yesterday I spoke of 2 interviews, the one of that morning and the one from
+      Friday. NewsX sent me two links which I assumed was for both, though I had no
+      way of checking given that youtube does not open in Russia. Now the kind gentlemen
+      who does the transcripts has informed me that the two links relate to one and
+      the same interview, probably the one from yesterday. Sad but not tragic. I believe
+      this interview is well worth a read because the hosts allowed me to speak freely
+      about highly relevant issues OTH LINKS GIVEN INCLUDE THE SAME DOCTOROW SEGMENT.
+      PROBABLY THEY SENT ONE WRONG LINK. ================================================
+      Transcript submitted by a reader https://www.youtube-nocookie.com/embed/_nJ8s5HSUEM?rel=0&autoplay=0&showinfo=0&enablejsapi=0
+      World: 0:00 –during 13 others. The strikes hit multiple locations including energy
+      and infrastructure sites. Officials have said residential buildings and a kindergarten
+      were damaged as well. These have sparked several fires across the city. Meanwhile,
+      Ukrainian Prime Minister Yulia Svydenko has posted on X saying that Russia is
+      trying to create a humanitarian catastrophe as the winter approaches. She has
+      called the attack a deliberate act of terror against civilians. Svydenko has also
+      praised emergency workers for their quick response and urged allies to provide
+      stronger air defense systems to protect Ukrainian cities. Ukraine’s Foreign Ministry
+      Andriy Sibiha said that Russian strikes also targeted the energy grid, railways
+      and homes in Dnipro, Kharkiv and Sumy. On the other hand, Russia’s defense ministry
+      has claimed the attacks were aimed at Ukraine’s military and energy facilities.
+      It also said Russian forces shot down 121 Ukrainian drones overnight, including
+      seven headed towards Moscow. 1:11 Now for this discussion, we are joined by Gilbert
+      Doctorow. He’s a Russian affairs expert, joins us live from St. Petersburg. Thank
+      you very much, Gilbert, for joining us again. Good to see you. Now today we saw
+      comments coming in from a Russian envoy, Kirill Demitriev. He said that the United
+      States, Russia and Ukraine were quite close to a diplomatic solution to end the
+      Russia-Ukraine war. But we see all these escalations from both sides as Russian
+      strikes hit Kiev, and Kiev was targeting Russia’s capital, Moscow. So how do you
+      analyze this current situation of Russia and Ukraine, and is there any chance
+      of trilateral or bilateral talks? Doctorow: 2:03 Mr. Dmitriev is in the United
+      States now on a mission to discuss trade prospects, and he is suggesting that
+      there is a path towards negotiated settlement and that there will be very big
+      business between the United States and Russia. I understand his position. It’s
+      an official government position within Russia, but I don’t believe what he says
+      for a minute. Mr. Dmitriyev is a very smart, very capable, I should say very ambitious
+      person, who is doing the bidding of the president of the Russian Federation. And
+      this trip is symbolic. Its actual content is, to my understanding, close to zero.
+      I think it is very unfortunate that this trip is proceeding just days after Mr.
+      Trump has imposed what are hoped from Washington’s perspective to be crushing
+      sanctions on Russia’s oil trade, particularly on trade in oil with India, because
+      India is, together with China, the largest consumer today of Russian oil. Whereas
+      China is fairly safeguarded from Trump’s sanctions, and whereas China receives
+      almost all of its oil from pipelines, which are untouchable by American sanctions,
+      India receives it all by ships, and it’s seaborne oil that the sanctions are going
+      to hit. So in this light of this very severe sanction, it is surprising that Mr.
+      Dmitriev is in the United States at all. I am dumbfounded. World: 3:49 Yes. Building
+      on that, why do you think, what does this timing suggest of this statement? Doctorow:
+      I think it is a very bad indication of the way the Russian administration is reading
+      Mr. Trump and what comes next. It’s surprising that they are forgetting what happened
+      in December of 2016, soon after the election of Trump to his first mandate, when
+      Mr. Obama gave a poisoned chalice to the incoming president by confiscating Russian
+      diplomatic properties in the United States. And the Russians didn’t respond. Mr.
+      Putin didn’t respond. He hoped that still then in 2016, going into 2017, that
+      good relations would be established. But we know what happened. Mr. Trump proceeded
+      to introduce a vast number of sanctions on Russia, and he proved himself in his
+      first term to be no friend of Russia. 4:55 I am dumbfounded that that lesson from
+      the past is being forgotten or ignored at the present, because the imposition
+      of these sanctions is like the confiscation of the diplomatic missions in 2016.
+      And here again, we see no proper response from Russia. Instead, it turns the other
+      cheek and sends Mr. Dmitriev on a fool’s errand to talk about big business opportunities
+      in the future. I do not understand the strange behavior of the Russian government
+      today. World: 5:34 And building on that, what are the potential implications?
+      As you have mentioned, it’s very questionable, but Russia did state that Russia
+      and the United States are maintaining dialogue on issues beyond Ukraine. What
+      could that be? Doctorow: Well, there are many issues that they have in common.
+      Their activities in the United Nations are, to a certain extent, coordinated today
+      on areas of common interest. There is of course coordination on how to deal with
+      the Gaza settlement, because Russia is also an interested party in everything
+      that happens in the Middle East. The Middle East is much closer to the Russian
+      Federation than it is to the United States. So there are subjects that they are
+      discussing, some of which will be constructive. But the major issue between the
+      United States and Russia is destructive, not constructive. 6:30 And Mr. Putin
+      in the last several days explained how it would be tough and he would give a determined
+      and shocking response if the United States sent Tomahawks to Kiev. Well, that
+      was looking brave about a situation that’s already been resolved. The United States
+      is not sending any tomahawks to Russia. But when it comes to the question of the
+      challenges that Mr. Trump has just imposed by the latest sanctions, Mr. Putin
+      is doing nothing and saying nothing. Now these sanctions– let me be very specific
+      what we’re talking about. If India does not fulfill its, or carry on its present
+      level of purchases of oil, that will create a 10% hole in the Russian state budget.
+      That is a severe loss of income. And Mr. Putin is pretending that it’s nothing.
+      He’s pretending that it doesn’t exist. That is not the way to deal with this issue.
+      World: 7:33 What do you think, should India consider providing technology or defense
+      assistance to Ukraine, or maintain a neutral position to protect its strategic
+      partnership with Russia on this matter? Doctorow: Well, if India were to put,
+      to extend defense equipment and technology to Ukraine, that would ruin BRICS.
+      Let’s just be very open about it. India has nothing like that in the plans. The
+      damage that India would do to Russia is if it decided, this is a reasonable thing
+      to do, that Mr. Trump’s sanctions and tariffs on India are too expensive to accept,
+      and that although Russian oil is being sold cheaply, it’s not being sold cheaply
+      enough to compensate India for the losses that Trump is imposing. 8:29 So there
+      you have the critical issue for India. It is not against Russia, but it is whether
+      or not India submits to the diktat of Washington and curtails or stops completely
+      its purchases of Russian oil. You know, as I know, that your single largest importer
+      of Russian oil, I think the company is called Reliance, has just stated publicly
+      that it will no longer buy Russian oil. So I imagine that the Indian government
+      representatives and Russian representatives are talking furiously now to find
+      a workaround so that some imports of Russian oil will continue despite the sanctions.
+      World: 9:18 And how– now bringing EU to the conversation, how do you analyze European
+      nations’ perspective? Do you think they are discouraging direct US Russia communication,
+      or they’re encouraging direct US Russia communication? Doctorow: Well they’re
+      working against any communications. The majority of European Union member states
+      and by majority I mean 24 out of the 27 member states because three member states
+      Slovakia, the Czech Republic and Hungary are in opposition to the others. But
+      the others all want a continuation of the war. They find it advantageous to punish
+      Russia and to keep it distracted by the Ukraine while they proceed to invest a
+      vast amount of money in remilitarization, meaning restoring and raising the production
+      levels of European arms manufacturers and allotting money for the training and
+      salaries of enlarged armies. Germany wants to expand its army by about 40% to
+      50%. That takes a lot of money, a lot of training, and it’ll take some time. So
+      they all want to keep Russia busy for the next three or four years while they
+      prepare themselves for a 2029 attack on Russia. That is where they stand. European
+      countries and the European Union are predominantly hawkish, warlike and anti-Russia.
+      That is the present leadership today. World: 11:07 Well, thank you for sharing
+      that insight, Gilbert Doctorow. Please stay with us as we come back to you for
+      our next discussion as well. Now the European Union is developing a new plan to
+      curb its reliance on Chinese critical raw materials. European Commission President
+      Ursula von der Leyen has criticized Beijing for its expanded restrictions on the
+      export of rare earths. The European Union has for years attempted to reduce its
+      dependence on China for the minerals that are needed for the transition to cleaner
+      energy, the defense sector and electric vehicle production as well. Now Ursula
+      von der Leyen has also stated that the EU would seek to speed up critical raw
+      materials partnerships with countries such as Australia, Canada, Chile, Greenland,
+      Kazakhstan, Uzbekistan and Ukraine. 12:01 The plan would also include greater
+      efforts to recycle critical raw materials in products sold in Europe. This comes
+      in response to China’s export restrictions on rare earths and battery materials
+      which were imposed on 9th October. Now for this discussion, we go back to Gilbert
+      Doctorow. He’s a Russia affairs expert, joins us live from St. Petersburg. Thank
+      you very much, Gilbert, for staying with us. Now how can EU’s efforts to reduce
+      independence on Chinese critical raw materials reshape global trade dynamics for
+      them and their strategic partnership and their strategy moving forward? And is
+      this feasible in short term? How long will it take for them to change this, to
+      replace China with other countries? Doctorow: 12:54 Well, you put your finger
+      on the critical issue. It’s time. They can make arrangements with Australia and
+      Canada and all kinds of other countries. But there is no rare-earth production
+      going on of any significant amount outside of China. Because it is a dirty business,
+      that is to say, it is a polluting business, which all of the very ecologically
+      proper nations of the Earth have avoided, China picked it up. And China became,
+      by default, not by intent, but I stress by default, the world’s largest producer
+      and almost monopoly producer and processor. You can dig this stuff up, but you
+      have to know how to refine it. And you have to do this in an ecologically acceptable
+      way, which is not easy. Accordingly, it will take years. And Von der Leyen’s statement
+      about how they intend to get around the Chinese limitations. My goodness, Europe
+      is lucky that the Chinese are selling one ounce of these metals to them altogether,
+      given the hostility of European policies towards China. 14:08 The United States,
+      of course, is more active, but look what has happened. And if we want to consider
+      the real negotiating strength of Europe in this issue, look at the United States.
+      Mr. Trump threatened China with the most drastic dire sanctions, 150 percent tariffs
+      and so on. And where is that now? Nowhere. Because the Chinese said, gentlemen,
+      you pursue this and you won’t get a gram of our metals. And if you don’t have
+      that, Western industrial production of high technology products collapses, not
+      six years from now, but next week. Therefore, the Americans learned to their regret
+      that the Chinese have leverage over the Americans. And if they have leverage over
+      the Americans, where Mr. Trump is the world’s biggest bully and biggest loudmouth,
+      then they surely have leverage over the European Union. And Madame von der Leyen
+      is whistling in the dark. World: 15:16 With that, I would like to thank Gilbert
+      Doctorow for joining us and sharing that insight and staying with us throughout
+      this news. Now we move on.'
+    one_sentence_summary: The author clarifies that two links sent by NewsX pertain
+      to the same interview, likely from yesterday, which they believe is significant
+      due to the freedom of discussion on important issues, despite the confusion regarding
+      the links.
+    paragraph_summary: In a recent update, the speaker discussed two interviews, one
+      from the morning and another from the previous Friday, which were mistakenly thought
+      to be linked by NewsX; however, it turned out they were both for the same interview
+      from yesterday. Despite the confusion, the speaker believes the interview is significant
+      as it allowed for an open discussion on important topics. In related news, Ukrainian
+      Prime Minister Yulia Svydenko condemned recent Russian strikes that damaged residential
+      buildings and infrastructure, calling them acts of terror aimed at creating a
+      humanitarian crisis as winter approaches. She urged for enhanced air defense support
+      from allies, while Russia's defense ministry claimed the strikes targeted military
+      and energy facilities, asserting that they successfully intercepted numerous Ukrainian
+      drones.
+    published: '2025-10-26T12:41:27+00:00'
+  - title: Interviews with India’s NewsX World, yesterday and this morning
+    url: https://gilbertdoctorow.com/2025/10/25/interviews-with-indias-newsx-world-yesterday-and-this-morning/
+    text: Interviews with India’s NewsX World, yesterday and this morning Now that my
+      feet are planted firmly on the ground in Petersburg, I have acceded to the insistent
+      requests from the Indian broadcaster NewsX World to offer commentary on the daily
+      harvest of news from Russia on the war in Ukraine and developments on the diplomatic
+      front. India is caught in the U.S. secondary sanctions war over its large oil
+      imports from Russia. Accordingly it is understandable that the broadcaster and
+      its very large domestic audience are keenly interested in following the latest
+      developments and have assigned good talent to these stories. ( https://youtu.be/_nJ8s5HSUEM?si=7hWfTprid-bhyfAk
+      ) ( https://youtu.be/MGL3-Bsmn08?si=ufeeDoyOcnSsw )
+    one_sentence_summary: The author has begun providing commentary for India's NewsX
+      World on the ongoing war in Ukraine and related diplomatic issues, particularly
+      in light of India's significant oil imports from Russia amidst U.S. sanctions.
+    paragraph_summary: In recent interviews with India's NewsX World, the speaker, now
+      based in Petersburg, discussed the ongoing war in Ukraine and its diplomatic implications,
+      particularly in relation to India's significant oil imports from Russia, which
+      have placed the country in the midst of U.S. secondary sanctions. The broadcaster,
+      recognizing the importance of these developments for its large domestic audience,
+      has sought expert commentary to keep viewers informed about the evolving situation.
+    published: '2025-10-25T16:53:05+00:00'
+  - title: Interviews with India’s NewsX World, yesterday and this morning
+    url: https://gilbertdoctorow.com/2025/10/25/interviews-with-indias-newsx-world-yesterday-and-this-morning/
+    text: Interviews with India’s NewsX World, yesterday and this morning Now that my
+      feet are planted firmly on the ground in Petersburg, I have acceded to the insistent
+      requests from the Indian broadcaster NewsX World to offer commentary on the daily
+      harvest of news from Russia on the war in Ukraine and developments on the diplomatic
+      front. India is caught in the U.S. secondary sanctions war over its large oil
+      imports from Russia. Accordingly it is understandable that the broadcaster and
+      its very large domestic audience are keenly interested in following the latest
+      developments and have assigned good talent to these stories. ( https://youtu.be/_nJ8s5HSUEM?si=7hWfTprid-bhyfAk
+      ) ( https://youtu.be/MGL3-Bsmn08?si=ufeeDoyOcnSsw )
+    one_sentence_summary: The author has begun providing commentary for India's NewsX
+      World on the ongoing war in Ukraine and related diplomatic issues, particularly
+      in light of India's significant oil imports from Russia amidst U.S. sanctions.
+    paragraph_summary: In recent interviews with India's NewsX World, the speaker, now
+      based in Petersburg, discussed the ongoing war in Ukraine and its diplomatic implications,
+      particularly in relation to India's significant oil imports from Russia, which
+      have placed the country in the midst of U.S. secondary sanctions. The broadcaster,
+      recognizing the importance of these developments for its large domestic audience,
+      has sought expert commentary to keep viewers informed about the evolving situation.
+    published: '2025-10-25T16:53:05+00:00'
+  - title: Transcript of ‘Daniel Davis Deep Dive’ interview 24 October 2025
+    url: https://gilbertdoctorow.com/2025/10/25/transcript-of-daniel-davis-deep-dive-interview-24-october-2025/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=9-0AI0iDvJo
+      Gary Villapiano: Hey everybody, welcome, good to see you. “Deep Dive” here with
+      one of our best friends, Dr. Gilbert Doctorow, historian, international affairs
+      analyst, extraordinaire. Doctor, how are you? Doctorow: I’m doing very well, thanks.
+      In St. Petersburg. Villapiano: Oh, very good. I hope you don’t mind me saying
+      that you have an apartment there, right? I mean, you have a temporary residence.
+      Doctorow: Yes, we are in the apartment now. That’s where I’m speaking to you from.
+      Villapiano: Oh, that’s great. How much time do you spend there if you don’t mind
+      me asking, approximately? Doctorow: Well, much less time than I used to, because
+      it’s so difficult to get here now. We used to go, my wife and I used to come,
+      every four to six weeks for a couple of weeks. Now we’ll be lucky to do three
+      visits a year this year. Simply, it is physically very demanding to get here.
+      I mean, if you’re a backpacker in your 20s, okay, then you put up with all kinds
+      of things. Villapiano: Those days are past for you. Doctorow: 0:55 They’re past
+      for me. And even going through Istanbul Airport, “Oh, it’s a snap.” You get to
+      Russia from Europe by Istanbul airport. Nobody tells you that the gate at which
+      you arrive and the gate at which you depart are about one kilometer away from
+      one another. It’s a hell of a race to get from one [gate of] the airport to the
+      other. So yes, life is more difficult, but once you’re here, of course, after
+      a couple of days, you fit into, slot into your relationship with the old acquaintances
+      and pick up a lot of … new information. Villapiano: Oh, that’s beautiful And you
+      must speak Russian then correct? Doctorow: Yes, I was complimented by a taxi driver
+      yesterday my Russian was pretty good. I said after 60 years of practice it should
+      be. Villapiano: 1:35 Well, if you’re getting from the taxi driver, you know, that’s
+      a true true endorsement to get. Doctorow: Right. Villapiano: So listen, let’s
+      get right into it. You know what’s going on with the latest cudgel that Trump
+      is bearing upon Putin regarding the sanctions on oil. What’s curious to me is
+      how different they are both portraying it, at least in the public. Let me show
+      you what they both said just yesterday. —————- Putin: (English voice over) Regarding
+      the new sanctions. First of all, there is nothing new here. Yes, of course, they
+      are serious for us. That is clear. And they will have certain consequences, but
+      they will not significantly affect our economic well-being. Trump questioner:
+      President Putin basically said today that Russia is immune from US sanctions.
+      He said that it would not impact the Russian economy in any serious way. Is he
+      wrong? Trump: I’m glad he feels that way. That’s good. I’ll let you know about
+      it in six months from now, okay? Let’s see how it all works out. —————- Villapiano:
+      2:44 Doctor, how do you assess the difference between the two portrayals there?
+      Doctorow: Somewhere in between. I’m about to say, with respect to the bigger picture
+      on how the war is being conducted, I think that Vladimir Putin is whistling in
+      the dark. How these sanctions will affect Russia is still unclear. At the same
+      time, I also look at the financial markets, and the Russian market has taken this
+      bad news very well. There’s the– the Russian ruble even gained a little bit today
+      on the euro. It is now about 10 or 15 percent stronger than it was, say, two months
+      ago. So it has withstood this dire news fairly well, suggesting that Russian business
+      people don’t think it will be so damaging. However, nobody knows. Surprisingly,
+      the “Financial Times” had a very detailed analysis of the oil, of the structure
+      of Russian oil sales, which made clear at once where the impact will hit. And
+      I could share that now with you. The point is that Russian export of oil is 80%
+      to two countries, China and India. In the case of China, the greatest part of
+      the oil that’s going to China from Russia is via pipelines. The new sanctions
+      are significant and dangerous for seaborne oil. So as regards China, which is
+      already, as I say, about 50% of Russia’s total exports, I see no appreciable damage
+      to Russia’s exports. 4:44 India is a different question. India is much more vulnerable
+      to US tariffs and sanctions. India does not have a strong economy and unlike China,
+      it has nothing to withhold from the United States as a counter move. As we’ve
+      seen in the tariff negotiations with China so far, the United States has been
+      very careful, because if the Chinese absolutely cut off the United States and
+      its allies from rare earth, they will do enormous damage to the Western economies
+      at once, not in six months. Therefore the cudgel that Trump thinks he is using
+      against China is totally ineffective. However, the cudgel that he has against
+      India is much more problematic. And it serves the purpose, the bigger purpose
+      of Trump, to break up BRICS. Because if the Indians have to submit to these demands
+      coming from Washington, it will put a big dent in the solidarity of the founding
+      members of BRICS. Villapiano: 6:01 Within, I guess, a couple of days, Trump is
+      going to be meeting with Xi. Do you imagine much coming out of that meeting? Doctorow:
+      No, I don’t. The positions are very clear, and as I said, China is in an excellent
+      condition to withstand any pressure from the United States with respect to any
+      given aspect of trade, including their large purchases of Russian petroleum. So
+      I think they will make some very nice remarks for the press conference, how they
+      had constructive talks and it will be a totally empty exercise. Villapiano: At
+      that same press conference, Putin was quick to comment on how he viewed the bigger
+      picture of how these sanctions are playing out for Russia. Putin: (English voice
+      over) If we speak about the political part, then of course this is an unfriendly
+      act toward Russia. That is obvious. And it does not strengthen Russian-American
+      relations, which have only just begun to recover. Of course, through such actions,
+      the US Administration is harming Russian-American relations. As for the economic
+      side, I repeat once again, of course, there is nothing good or pleasant here.
+      Villapiano: 7:22 So he’s being candid there. I mean, do you see that as forthright
+      in his assessment? Doctorow: Yes and no. The sanctions are tied to the bigger
+      question of improving relations and solving the war. And in the same interview
+      or press conference that you have taken an excerpt from, Putin went on to discuss
+      precisely that, and there he was anything but candid. Or if he was candid, it’s
+      because his evaluation of the situation is far removed from reality. Villapiano:
+      Really? Doctorow: Well, this is very sad. I have been an admirer of the man and
+      how we resurrected Russia from the ruins of the late 1990s. Although I have to
+      say, actually, the resurrection began a couple of years before Putin came into
+      power when a communist prime minister was installed for about six months or eight
+      months by Yeltsin and he put Russia back on the rails economically. However, Putin
+      of course in 25 years [had] to work miracles with the Russian economy, the Russian
+      army and so forth. What I’ve seen in the last three years in his conduct of the
+      war– I was one who went along with “Well, the end of the war is just around the
+      corner.” The problem is that the corner has been moving with [the] horizon, and
+      every time we were deceived, because there was escalation. 8:55 And now what I
+      see is an enormous escalation that is about to take place and [for] which Mr.
+      Putin does not want to read the handwriting on the wall. So when you say he has
+      been candid, maybe on this minor issue of the sanctions on xxxxxxxx and Russian
+      xxxx and what that means for the Russian economy. But even there, let’s just look
+      at the downside. What the potential is, and why what Donald Trump said is not
+      unreasonable. Fifty percent of the Russian exports, let’s say, are safe because
+      they’re in Chinese hands. Fifty percent or forty percent, if you take eighty percent
+      as a total figure of Russia and China. 40% of those exports are vulnerable to
+      political decisions made in India, whether they can withstand American pressure.
+      If that is lost. And let’s also remember that the Indians were discussing with
+      the Saudis last week, precisely about finding a replacement for Russia. Villapiano:
+      [To avoid.} Doctorow: Yeah. And they were selling this to their public saying,
+      “Well, we’re dealing with the Saudis. We have a commitment that they will buy
+      more from us.” And that’s public relations. I don’t know what the Saudis are going
+      to buy in greater amounts from India than they are today. India is a country which
+      has relatively little to offer to the world at large in production, and software
+      is a major player. And most of its sales to the United States are in the software,
+      the IT domain, but commodities go– anyway, the point is that India is looking
+      for a way to somehow appease Trump without completely disrupting Russia. But what
+      does disrupting Russia mean? About 20-25% of the Russian state budget is coming
+      from taxes on petroleum. If half of that is lost, Russia has a 10% hole in its
+      budget. 10:57 That’s not a small matter. Russia’s budget is running in deficit
+      now. Compared to national debt in the West, Russia’s debt is negligible. But a
+      budget out of balance is a headache, a very big headache, and a 10% hole is unmanageable,
+      unsustainable. So in the longer run, Mr. Trump is right, and Mr. Putin was not
+      being forthright. Villapiano: He’s downplaying the impact of these. So you think
+      he recognizes the impact but yet isn’t willing to divulge that the impact that
+      he knows is there? Doctorow: Well, the numbers I gave you of this coming out,
+      they’re not my invention. They’re coming out of the “Financial Times”, and I think
+      they did their homework very well on this. There’s no big secret here. They’re
+      just compiling what was in the public domain and putting it all together very
+      neatly. Of course, this is all known to Putin, and he didn’t at all suggest what
+      kind of a hole this could open for the Russian state budget. And that’s precisely
+      what the objective of the whole punishment is. This type of economic warfare,
+      going for the jugular, is a case where economic war can very easily turn into
+      kinetic war. And I think this is being underestimated, underappreciated by the
+      Trump team. And I think when you say he’s being candid, I can’t imagine that team
+      Putin is unaware of that same reality. The Japanese entry into World War II, the
+      bombing of Pearl Harbor, was precisely the point where economic sanctions that
+      had great potential impact on the viability of the Japanese economy, prompted
+      the militarists to bomb Pearl Harbor. 12:53 Now, the issue of how Russia reacts
+      to all the pressure on it has been in public debate. And some of my peers have
+      commented, sagely, that Russia is like a spring. Well, it’s that they’re quoting,
+      I’m thinking now about how Ray McGovern was quoting Putin, who said, maybe a few
+      months ago, that the West is applying pressure, applying pressure, and at a certain
+      point, the spring releases itself in an unexpected and violent way. And that is
+      what Mr. Trump’s latest sanctions are inviting: Villapiano: Yeah, the trigger
+      release. Doc, did you think that Putin has been caused to set back on his heels
+      the way the war has transitioned from a more traditional war that we’re all more
+      familiar with and turn it into the drone war that it now has become? Doctorow:
+      The drone war is– I mean, one of the first things I found when I arrived in Petersburg
+      on Tuesday morning or in the middle of the night and in the days since is that
+      the drone war is a reality 2000 kilometers from the … the Ukrainian border. We
+      have it here. Here, and it’s not just the town that I’m in, this is suburb, an
+      outlying borough of St. Petersburg, about 15 kilometers from the city center.
+      It is particularly interesting to Ukrainian or British, whoever is steering and
+      setting targets for their drone attacks. It’s interesting because we have a helicopter
+      base, oh, just a 10 minute walk from my house, and they are ferrying wounded Russian
+      soldiers from, I suppose, from some point within Russia, to which they were brought
+      on fixed-winged aircraft, and then they’re sent out in small groups to hospitals
+      across the country for treatment. These are amputees. These are people who have
+      been seriously wounded. And we have a hospital for them, just in this neighborhood.
+      15:07 And our area has been under alert. But not just our area. I was in downtown
+      Petersburg, and the whole of Petersburg has experienced the same thing. That is,
+      curtailed mobile internet, if not completely stopped, and interference with GPS,
+      which is intended. The GPS is the guidance system for cars and for any mobile
+      objects, including drones. They interrupt it or they give false readings through
+      the GPS. Now for taxi drivers, that means he gets a call to go to address X, and
+      he actually goes to a place five kilometers away. And he wonders why his passengers
+      are standing out there waiting for him. Now, that can interrupt your taxi service
+      for sure, but it interrupts life in general. And the cutoffs of internet service
+      impact everything. Their city administration … could not register me as all foreigners
+      are supposed to be registered when they’re not in a hotel but staying in private
+      lodgings. They couldn’t do it because the whole system is down. 16:25 Not just
+      one or two posts, the whole thing is down. St. Petersburg is suffering from these
+      cuts, and they also can affect, though this time they are not affecting, the payment
+      systems, the operation of ATMs and credit card transactions. On May 9th, they
+      were all cut. I haven’t seen that happen now, but it is possible. And that does
+      tremendous damage to the economy. Villapiano: I’m curious, the helicopter activity
+      that you were speaking of, Is that profound? Is there a lot of that? Do you see
+      a lot of that in and out where there’s wounded being delivered? Doctorow: Mostly
+      it’s at night. I get my– the latest information I got was from the most reliable
+      source, a taxi driver. A lady taxi driver who lives in this town, and knows what
+      she’s talking about. And of course, the people who are light sleepers are awakened
+      by these helicopters coming in. At the local hospital for seriously injured, it’s
+      full to capacity. Villapiano: Oh, it is. Doctorow: Mr. Putin is talking about
+      saving Russian lives, how they go slow in their movements on the front so that
+      they have a favorable ratio of injured and killed to the same for the Ukrainians.
+      Originally it was a 10 to one advantage, maybe it’s a lesser one now because of
+      drone warfare, which is more of an equalizer. But as this war is proceeding, a
+      lot of people are coming back seriously injured. Yes, they’re being fitted for
+      various prosthesis for those who have been, are amputees, and they’re going for
+      extensive physical rehabilitation procedures. 18:18 I expect to hear a little
+      bit more detail of that in a week’s time when I meet with somebody who has been,
+      for other reasons, not military, in rehab and that all around him were these war-injured
+      people. Villapiano: So with this, with the front line moved, basically, into your
+      own backyard, how is that affecting your neighbors, the people that you’re talking
+      to, the chatter on the streets, or that must have changed it dramatically, yes?
+      Doctorow: 18:48 Yes and no. Again, I don’t want to be categorical about this.
+      The people I speak to, including old acquaintances, they are tired of the war.
+      And these new threats from drones and from downed drones because this is where
+      most injuries take place, not drones who are targeting the residential complex,
+      but which fell on them after being shot down. People are aware of this and it
+      gets on their nerves, but I would not say that they are turning on the government,
+      that there’s a mood change. In that sense, they’re tired and they want it to end.
+      That’s the man in the street. That is most of my acquaintances. Villapiano: 19:35
+      Gilbert, if they were turning on the government, would they have the freedom to
+      verbalize that? Doctorow: Well, people are always cautious here. People have a
+      long memory. And I think that, for example, when they stopped the video service
+      of WhatsApp, and they offered a replacement, a Russian government replacement
+      called Max, One of the first criticisms was that it doesn’t have end-to-end security.
+      And people immediately understood that all of their private lives could be now
+      subjected to FSB inspection. 20:17 So yes, of course people are aware of that.
+      But I want to make a distinction between the workaday folks who have these inconveniences
+      and are war weary — and the political establishment, it’s unkind to say the thinking
+      people, but the people who think about geopolitical issues, they are divided.
+      And my peers are not recognizing that. They’re speaking as if Mr. Putin has good
+      solidarity. Yes, he has 80% popularity. That’s true, but nobody asked people directly
+      how the war should be conducted, whether he’s conducting it right. And secondly,
+      their voices don’t count. Let’s be honest about it. I’m not saying Russian voices
+      don’t count. The voices of the people in the States don’t count. I think you’ll
+      agree that the US Congress does not accurately represent public opinion as it’s
+      changing. But let me not get critical about the States. I wanted to make the point
+      that the intellectual, the elites, particularly Moscow elites, who are quite big,
+      numerous, they’re split. And there is open criticism of Putin and the way he’s
+      conducting the war. 21:37 And I don’t mean people who are sour grapes, who are
+      discontented, maladjusted. No, no, no. Top people. People who are widely respected,
+      who have served the country well, and who are on television as major experts,
+      not talking heads in the pejorative sense, but the people who are participating,
+      members of the most important.think tanks.. Well, think tanks sounds like it’s
+      outside the government. These are government agencies discussing foreign policy
+      and military policy. Two days ago, I heard one of them, a certain Dmitry Trenin,
+      who was very well known internationally in the States, and he was saying that
+      diplomacy is finished. The war will be solved on the battlefield. And that was
+      seconded by the host who is also well known in Washington. He was the head of
+      the National Interest, formerly called the Nixon Center in Washington for 15 years.
+      22:45 So he’s known to Americans and he’s known to Russians. This is Dmitry Simes.
+      And he seconded that, that opinion. So it’s not just one fellow called Gil Doctorow
+      who’s saying this. I am conveying what top people in the Russian political establishment
+      are saying about the way the war is being conducted, and they’re not happy. Villapiano:
+      I like how you had said, diplomacy has outlived its usefulness. Doctorow: Again,
+      let’s put this in the immediate context of the last two weeks. The last two weeks
+      saw something that never happens in Russian political life. The number-two man
+      in the foreign ministry, everyone knows about Sergey Lavrov. But some of us know
+      about Sergey Ryabkov. 23:33 Ryabkov is the guy who presented to NATO and the United
+      States the demands that they draw back to the 1997 borders, “or else we will push
+      you back”. That’s what he said in December, 2021. So a man who makes remarks like
+      that, we don’t forget him. He has been the designated successor to Lavrov whenever
+      Lavrov steps down. This fellow came out and was interviewed, this was a little
+      less than two weeks ago, in which he said that the impulse towards improving relations
+      that was established in the Anchorage summit between Putin and Trump has been
+      dissipated. And that the diplomatic way out of this crisis no longer is valid.
+      He was immediately reprimanded, publicly rebuked by Ushakov, who was an advisor
+      to Putin on foreign affairs, by Dmitry Peskov, the press secretary of Putin, and
+      a little bit later by Putin himself. That type of public dispute on an essential
+      issue of foreign policy is the rarest thing you see. Now, exactly those words
+      that is as our diplomacy is no longer valid, was what Trenin was saying on air
+      and backed by the host who is on the outer fringes of Putin’s circle. He has hosted
+      the top politicians in the country, and he’s on a first-name basis and buddy-buddy
+      with all of these people. 25:22 So this is not just a journalist. This is a major
+      part of the establishment. And they were coming out against Putin. When Putin
+      made his statements about the state of relations with the United States, of which
+      part is what you just put up on the screen, he was defending himself and saying
+      that talk is better than confrontation. Villapiano: Right. Doctorow: There you
+      have it. Villapiano: I wanted to get back to just away from the oil into the weapons
+      and the things and both Trump and Putin had had things to say about that yesterday.
+      —————- Questioner: (English voice over) Yesterday, the “Washington Post” and the
+      “Wall Street Journal” reported that the US lifted a key restriction on the use
+      of this weapon. Then Trump said that Tomahawks, nevertheless, will not be supplied.
+      And just an hour ago, Zelensky again says that Ukraine will receive weapons that
+      will strike at almost 3,000 kilometers. In your view, is this still an escalation?
+      Putin: This is an attempt at escalation. But if strikes against Russian territory
+      are carried out with such weapons, the response will be very serious, if not stunning.
+      Let them think about that. —————- Villapiano: Doctor, I think you had intimated
+      that you found that to be just almost cowardice, in the sense that it was just
+      bluster and he really didn’t mean what he said, because he knows the state of
+      affairs regarding those weapons. Doctorow: Well, exactly. He was making himself
+      appear bold and decisive and brave in defending something which no longer needed
+      defense, because the latest state of deliveries on Tomahawks is it’s not going
+      to be delivered. Villapiano: Can I stop you right there? I just want to hammer
+      home this point. What I have here is a cut of President Trump making it so very,
+      very clear. And this was back last Friday is when you’ll see repetitiveness on
+      Trump’s part. —————- Trump: 27:17 We need Tomahawks and we need a lot of other
+      things that we’ve been sending over the last four years to Ukraine. It’s beyond
+      the money. You know, we need Tomahawks and we need a lot of other weapons. A lot
+      of bad things can happen. Tomahawks are a big deal. But one thing I have to say,
+      we want Tomahawks also. We don’t want to be giving away the things that we need.
+      —————- Villapiano: 27:43 Now, could he have been more clear, Doctor? Doctorow:
+      No, he is clear. And that’s why I say that the threats that Putin was making,
+      well, “if you proceed”, this was nonsense, because it’s already clear that they
+      will not be sent. And what he’s not addressing is the rest of the problem. He’s
+      not addressing the issue of the confiscation, essentially confiscation, of Russian
+      frozen assets that is still being debated in Europe, but very likely will be passed.
+      It didn’t make it into the 19th round of sanctions yesterday, because of the Belgian
+      objections that the country is not being protected sufficiently by fellow EU member
+      states from possible Russian response, angry response. But the problem is severe.
+      The problem is more than is described in the press. The problem is that the confiscation
+      of, essentially confiscation is a very subtle legal turn given to make it seem
+      as though it’s just collateral and so forth — in effect it’s confiscation. And
+      its distribution to Kiev in one way or another is intended to prolong the war
+      for three or four more years. 29:09 This was stated almost explicitly by the Polish
+      Foreign Minister Sikorski last week. The idea is that it will not be given to
+      them as one lump sum. It will be dealt out to Ukraine slowly in various forms,
+      but to keep them engaged. You can buy a lot of mercenaries with 145 billion euros.
+      So to say that they don’t have any men to fight is to miss the obvious. You can
+      buy a lot of drones. And I’ll get to the question of drones versus missiles in
+      a moment, because this also is confusing the public. And it’s intentionally done
+      by Zelensky, because he wants to get NATO into the war. If you say we need long
+      range missiles, then you’re getting NATO into the war. The reality is that the
+      Ukrainians are doing a pretty good job causing destruction in Russia using drones,
+      for which they have British, particularly British intelligence assistance. They
+      smashed up a lot of Russian refineries. 30:17 And so the need for these Tomahawks
+      is not there. It’s only to get the US and Europe into the war. But then let’s
+      go back to the money question, 145 billion. If Ukraine is kept alive for three
+      more years of fighting, it’s intended to be a big distraction to keep the Russians
+      occupied with them while Europe rebuilds its military, both manpower and hardware.
+      Of course, how wise that is, how valid it is, is also questionable. Why do I say
+      questionable? Because the Russians have stated explicitly that if there’s going
+      to be a war with NATO, it will not be a tank war, it will not be a drone war,
+      it will be a nuclear war. The Russians have said, we will not fight you in the
+      trenches, we will obliterate you. So the whole discussion in Europe is on a phony
+      basis. It’s being sold to the public on a phony basis. Maybe it’s good for Rheinmetall
+      and other German arms manufacturers, but there’s a lot of falseness in the public
+      space about who is doing what and why. And I’m trying to bring a little bit of
+      light to what I see is really going on. Villapiano: 31:40 I’d like to read to
+      the viewers something that you had written to me about Putin’s stance right now
+      and where you see him and where you’d like to see him go. And this is what you
+      wrote. You said, “It is high time for President Putin to recognize that in this
+      age when Israel and its US- European backers have been trampling on international
+      law by the genocide that’s ongoing now in Gaza, by its aggression against Lebanon
+      and Syria — that it is absurd for Russia to hold back on the violence needed to
+      end the Ukraine war without a moment’s concern about what others may think.” Doctorow:
+      32:20 I stand by those words. I am very unhappy with the way he’s conducting this
+      war. And I say, my personal opinion is not relevant here, but I listen to people
+      within Russia, of great authority, who are saying exactly that. They’re not saying
+      that he should go, and I’m not saying he should go. And it would be, I have no
+      right to say that. It’s a Russian decision. But he is showing, and I’ll use the
+      word, I call this lese majesté, but here we go: cowardice. It is pure cowardice,
+      the way he’s responding to Trump. Villapiano: 32:57 Appreciate your bluntness
+      there. Let’s just return to Putin one more time from that same news conference
+      talking about what he sees [in] the future. —————- Putin: (English voice over)
+      The President of the United States has decided to cancel or postpone this meeting.
+      Rather, he is speaking about postponing this meeting. Well, what can I say? Dialogue
+      is always better than any confrontation, than any disputes, or all the more so
+      than war. Therefore, we have always supported this, the continuation of dialogue,
+      and we support it now. —————- Villapiano: So Doctor, what’s that mean for the
+      future? Are these two going to sit down, or are Rubio and Lavrov going to sit
+      down? Where is it going, do you think? Doctorow: 33:39 Well, look, I have said
+      that Putin risks being Gorbachev Two. But let me use an historical reference.
+      Unfortunately, it’s been abused over decades by everyone calling it appeasement.
+      But if there ever was a Chamberlain speech in Russia, we heard it yesterday. That
+      was the “peace in our time” speech of Chamberlain from the mouth of Putin. It
+      was appeasement, and nothing good will come out of that. Villapiano: Does he have
+      the fortitude– he, Putin, calling it fortitude– to finish off the war on the battlefield?
+      Doctorow: I would hope so, but there’s reason to doubt it. When he made his tough-sounding
+      speech just a week ago, and then this is the night before, it’s a Thursday before
+      the Friday meeting that Trump had with Zelensky. It sounded like he had turned
+      from his go slow, utterly cautious approach of an attrition war, to something
+      more energetic and more decisive and more threatening. And now he went back on
+      himself. Yes, that’s what these, the remarks that you have put up on the screen,
+      indicate to me that in this dispute between hardliners and softliners, he has
+      stepped back among the softliners. And I see that this is very threatening for
+      Russia’s future and risky for all of us because it gives the wrong signals to
+      the war party in Europe that they can succeed and that they can push this and
+      themselves and us straight into World War III. Villapiano: 35:36 Please, you want
+      to check out the doctor’s latest book, “War Diaries, Volume 1: The Russia-Ukraine
+      War 2022-2023”. Doctorow: I expect in Q1 ’26, I will put out volume two and volume
+      three, of course, of ’24 and ’25. I would hope that it ends there. But from what
+      I’ve heard from Putin in the last week or two, I’m worried it won’t. And if this
+      goes on indeed for three more years, as it could, then Russia could easily be
+      militarily destroyed by a revived Europe. It sounds peculiar today and people
+      say, “Oh, how could it be? European youth doesn’t want to fight”. 36:28 You have
+      to consider the very intense propaganda going on in Europe. You have to consider
+      the utter foolishness of professionals, of well-educated people, who are the upper
+      classes in European countries. I know who they are. I’m a member of a prestigious
+      French-speaking — “Royal” is the name of the club, in Brussels. And I sat at a
+      dinner, or lunch, that was given a year ago, when the Minister of Defense was
+      supposed to speak to us, but he was occupied on political matters because elections
+      were coming up. And then an assistant came who was the man responsible for HR
+      decisions and so forth, and told us how Belgium has a hard time raising its military
+      because the budget is limited and 80% of the budget goes to pensions and salaries
+      and not much is left over for operations or investments. 37:31 But we all listened
+      to that, and xxxxxxxx. People at the table were concerned because they’re all
+      patriotic, and they were asking him, well, can’t we have, will we be going into
+      the call-up of young men? Will there be a draft? And he said, “Well, right now
+      we can’t afford it.” Look at what’s going on now. As Europe, including Belgium,
+      is all raising military budgets under the advice and pressure of Donald Trump,
+      the money is going to be there. And when I see the people around me, these matrons,
+      shall I call them, in a pejorative sense, sitting very comfortably situated next
+      to their husbands at the table, are saying, “Oh, a draft will be good for our
+      sons, because they need some discipline.” You know, they are just living in a
+      dream world. They don’t realize where their sons are going to be sent to be slaughtered.
+      Villapiano: 38:26 Wow. Discipline. Discipline. They see it as discipline. Wow.
+      Doctorow: Yes. Yes. Villapiano: That’s scary. Well, doctor, I want to thank you
+      so much for being with us today. It was excellent. And I just want to tell you
+      how grateful I am for your input and your research. It was wonderful. Doctorow:
+      Well, it’s very kind of you to say that. And I hope that these words are sobering.
+      I don’t want to alarm people. I’m not walking around with a sandwich board saying,
+      “The end is nigh.” But some action has to be taken by people who understand the
+      risks that are involved before they proceed too much further. Davis: 39:03 Yeah.
+      Agreed. Agreed. Everybody, thank you so much for tuning in. We’ll see you next
+      time. Remaining Unintimidated, Uncompromised.'
+    one_sentence_summary: In a conversation on "Deep Dive," historian Dr. Gilbert Doctorow
+      discusses the challenges of traveling to his apartment in St. Petersburg, noting
+      that he and his wife now visit significantly less often due to increased difficulties
+      in travel.
+    paragraph_summary: In a conversation on the "Deep Dive" show, host Gary Villapiano
+      speaks with Dr. Gilbert Doctorow, a historian and international affairs analyst,
+      who is currently in his apartment in St. Petersburg. Doctorow shares that he has
+      been visiting Russia less frequently due to the increasing difficulties of travel,
+      now managing only about three trips a year compared to his previous routine of
+      visiting every four to six weeks. He describes the challenges of navigating Istanbul
+      Airport, where the arrival and departure gates are far apart, making travel physically
+      demanding. Despite these challenges, Doctorow enjoys reconnecting with old acquaintances
+      and gathering new information during his visits, and he humorously notes his proficiency
+      in Russian, which has been honed over 60 years.
+    published: '2025-10-25T08:58:56+00:00'
+  - title: Transcript of ‘Daniel Davis Deep Dive’ interview 24 October 2025
+    url: https://gilbertdoctorow.com/2025/10/25/transcript-of-daniel-davis-deep-dive-interview-24-october-2025/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=9-0AI0iDvJo
+      Gary Villapiano: Hey everybody, welcome, good to see you. “Deep Dive” here with
+      one of our best friends, Dr. Gilbert Doctorow, historian, international affairs
+      analyst, extraordinaire. Doctor, how are you? Doctorow: I’m doing very well, thanks.
+      In St. Petersburg. Villapiano: Oh, very good. I hope you don’t mind me saying
+      that you have an apartment there, right? I mean, you have a temporary residence.
+      Doctorow: Yes, we are in the apartment now. That’s where I’m speaking to you from.
+      Villapiano: Oh, that’s great. How much time do you spend there if you don’t mind
+      me asking, approximately? Doctorow: Well, much less time than I used to, because
+      it’s so difficult to get here now. We used to go, my wife and I used to come,
+      every four to six weeks for a couple of weeks. Now we’ll be lucky to do three
+      visits a year this year. Simply, it is physically very demanding to get here.
+      I mean, if you’re a backpacker in your 20s, okay, then you put up with all kinds
+      of things. Villapiano: Those days are past for you. Doctorow: 0:55 They’re past
+      for me. And even going through Istanbul Airport, “Oh, it’s a snap.” You get to
+      Russia from Europe by Istanbul airport. Nobody tells you that the gate at which
+      you arrive and the gate at which you depart are about one kilometer away from
+      one another. It’s a hell of a race to get from one [gate of] the airport to the
+      other. So yes, life is more difficult, but once you’re here, of course, after
+      a couple of days, you fit into, slot into your relationship with the old acquaintances
+      and pick up a lot of … new information. Villapiano: Oh, that’s beautiful And you
+      must speak Russian then correct? Doctorow: Yes, I was complimented by a taxi driver
+      yesterday my Russian was pretty good. I said after 60 years of practice it should
+      be. Villapiano: 1:35 Well, if you’re getting from the taxi driver, you know, that’s
+      a true true endorsement to get. Doctorow: Right. Villapiano: So listen, let’s
+      get right into it. You know what’s going on with the latest cudgel that Trump
+      is bearing upon Putin regarding the sanctions on oil. What’s curious to me is
+      how different they are both portraying it, at least in the public. Let me show
+      you what they both said just yesterday. —————- Putin: (English voice over) Regarding
+      the new sanctions. First of all, there is nothing new here. Yes, of course, they
+      are serious for us. That is clear. And they will have certain consequences, but
+      they will not significantly affect our economic well-being. Trump questioner:
+      President Putin basically said today that Russia is immune from US sanctions.
+      He said that it would not impact the Russian economy in any serious way. Is he
+      wrong? Trump: I’m glad he feels that way. That’s good. I’ll let you know about
+      it in six months from now, okay? Let’s see how it all works out. —————- Villapiano:
+      2:44 Doctor, how do you assess the difference between the two portrayals there?
+      Doctorow: Somewhere in between. I’m about to say, with respect to the bigger picture
+      on how the war is being conducted, I think that Vladimir Putin is whistling in
+      the dark. How these sanctions will affect Russia is still unclear. At the same
+      time, I also look at the financial markets, and the Russian market has taken this
+      bad news very well. There’s the– the Russian ruble even gained a little bit today
+      on the euro. It is now about 10 or 15 percent stronger than it was, say, two months
+      ago. So it has withstood this dire news fairly well, suggesting that Russian business
+      people don’t think it will be so damaging. However, nobody knows. Surprisingly,
+      the “Financial Times” had a very detailed analysis of the oil, of the structure
+      of Russian oil sales, which made clear at once where the impact will hit. And
+      I could share that now with you. The point is that Russian export of oil is 80%
+      to two countries, China and India. In the case of China, the greatest part of
+      the oil that’s going to China from Russia is via pipelines. The new sanctions
+      are significant and dangerous for seaborne oil. So as regards China, which is
+      already, as I say, about 50% of Russia’s total exports, I see no appreciable damage
+      to Russia’s exports. 4:44 India is a different question. India is much more vulnerable
+      to US tariffs and sanctions. India does not have a strong economy and unlike China,
+      it has nothing to withhold from the United States as a counter move. As we’ve
+      seen in the tariff negotiations with China so far, the United States has been
+      very careful, because if the Chinese absolutely cut off the United States and
+      its allies from rare earth, they will do enormous damage to the Western economies
+      at once, not in six months. Therefore the cudgel that Trump thinks he is using
+      against China is totally ineffective. However, the cudgel that he has against
+      India is much more problematic. And it serves the purpose, the bigger purpose
+      of Trump, to break up BRICS. Because if the Indians have to submit to these demands
+      coming from Washington, it will put a big dent in the solidarity of the founding
+      members of BRICS. Villapiano: 6:01 Within, I guess, a couple of days, Trump is
+      going to be meeting with Xi. Do you imagine much coming out of that meeting? Doctorow:
+      No, I don’t. The positions are very clear, and as I said, China is in an excellent
+      condition to withstand any pressure from the United States with respect to any
+      given aspect of trade, including their large purchases of Russian petroleum. So
+      I think they will make some very nice remarks for the press conference, how they
+      had constructive talks and it will be a totally empty exercise. Villapiano: At
+      that same press conference, Putin was quick to comment on how he viewed the bigger
+      picture of how these sanctions are playing out for Russia. Putin: (English voice
+      over) If we speak about the political part, then of course this is an unfriendly
+      act toward Russia. That is obvious. And it does not strengthen Russian-American
+      relations, which have only just begun to recover. Of course, through such actions,
+      the US Administration is harming Russian-American relations. As for the economic
+      side, I repeat once again, of course, there is nothing good or pleasant here.
+      Villapiano: 7:22 So he’s being candid there. I mean, do you see that as forthright
+      in his assessment? Doctorow: Yes and no. The sanctions are tied to the bigger
+      question of improving relations and solving the war. And in the same interview
+      or press conference that you have taken an excerpt from, Putin went on to discuss
+      precisely that, and there he was anything but candid. Or if he was candid, it’s
+      because his evaluation of the situation is far removed from reality. Villapiano:
+      Really? Doctorow: Well, this is very sad. I have been an admirer of the man and
+      how we resurrected Russia from the ruins of the late 1990s. Although I have to
+      say, actually, the resurrection began a couple of years before Putin came into
+      power when a communist prime minister was installed for about six months or eight
+      months by Yeltsin and he put Russia back on the rails economically. However, Putin
+      of course in 25 years [had] to work miracles with the Russian economy, the Russian
+      army and so forth. What I’ve seen in the last three years in his conduct of the
+      war– I was one who went along with “Well, the end of the war is just around the
+      corner.” The problem is that the corner has been moving with [the] horizon, and
+      every time we were deceived, because there was escalation. 8:55 And now what I
+      see is an enormous escalation that is about to take place and [for] which Mr.
+      Putin does not want to read the handwriting on the wall. So when you say he has
+      been candid, maybe on this minor issue of the sanctions on xxxxxxxx and Russian
+      xxxx and what that means for the Russian economy. But even there, let’s just look
+      at the downside. What the potential is, and why what Donald Trump said is not
+      unreasonable. Fifty percent of the Russian exports, let’s say, are safe because
+      they’re in Chinese hands. Fifty percent or forty percent, if you take eighty percent
+      as a total figure of Russia and China. 40% of those exports are vulnerable to
+      political decisions made in India, whether they can withstand American pressure.
+      If that is lost. And let’s also remember that the Indians were discussing with
+      the Saudis last week, precisely about finding a replacement for Russia. Villapiano:
+      [To avoid.} Doctorow: Yeah. And they were selling this to their public saying,
+      “Well, we’re dealing with the Saudis. We have a commitment that they will buy
+      more from us.” And that’s public relations. I don’t know what the Saudis are going
+      to buy in greater amounts from India than they are today. India is a country which
+      has relatively little to offer to the world at large in production, and software
+      is a major player. And most of its sales to the United States are in the software,
+      the IT domain, but commodities go– anyway, the point is that India is looking
+      for a way to somehow appease Trump without completely disrupting Russia. But what
+      does disrupting Russia mean? About 20-25% of the Russian state budget is coming
+      from taxes on petroleum. If half of that is lost, Russia has a 10% hole in its
+      budget. 10:57 That’s not a small matter. Russia’s budget is running in deficit
+      now. Compared to national debt in the West, Russia’s debt is negligible. But a
+      budget out of balance is a headache, a very big headache, and a 10% hole is unmanageable,
+      unsustainable. So in the longer run, Mr. Trump is right, and Mr. Putin was not
+      being forthright. Villapiano: He’s downplaying the impact of these. So you think
+      he recognizes the impact but yet isn’t willing to divulge that the impact that
+      he knows is there? Doctorow: Well, the numbers I gave you of this coming out,
+      they’re not my invention. They’re coming out of the “Financial Times”, and I think
+      they did their homework very well on this. There’s no big secret here. They’re
+      just compiling what was in the public domain and putting it all together very
+      neatly. Of course, this is all known to Putin, and he didn’t at all suggest what
+      kind of a hole this could open for the Russian state budget. And that’s precisely
+      what the objective of the whole punishment is. This type of economic warfare,
+      going for the jugular, is a case where economic war can very easily turn into
+      kinetic war. And I think this is being underestimated, underappreciated by the
+      Trump team. And I think when you say he’s being candid, I can’t imagine that team
+      Putin is unaware of that same reality. The Japanese entry into World War II, the
+      bombing of Pearl Harbor, was precisely the point where economic sanctions that
+      had great potential impact on the viability of the Japanese economy, prompted
+      the militarists to bomb Pearl Harbor. 12:53 Now, the issue of how Russia reacts
+      to all the pressure on it has been in public debate. And some of my peers have
+      commented, sagely, that Russia is like a spring. Well, it’s that they’re quoting,
+      I’m thinking now about how Ray McGovern was quoting Putin, who said, maybe a few
+      months ago, that the West is applying pressure, applying pressure, and at a certain
+      point, the spring releases itself in an unexpected and violent way. And that is
+      what Mr. Trump’s latest sanctions are inviting: Villapiano: Yeah, the trigger
+      release. Doc, did you think that Putin has been caused to set back on his heels
+      the way the war has transitioned from a more traditional war that we’re all more
+      familiar with and turn it into the drone war that it now has become? Doctorow:
+      The drone war is– I mean, one of the first things I found when I arrived in Petersburg
+      on Tuesday morning or in the middle of the night and in the days since is that
+      the drone war is a reality 2000 kilometers from the … the Ukrainian border. We
+      have it here. Here, and it’s not just the town that I’m in, this is suburb, an
+      outlying borough of St. Petersburg, about 15 kilometers from the city center.
+      It is particularly interesting to Ukrainian or British, whoever is steering and
+      setting targets for their drone attacks. It’s interesting because we have a helicopter
+      base, oh, just a 10 minute walk from my house, and they are ferrying wounded Russian
+      soldiers from, I suppose, from some point within Russia, to which they were brought
+      on fixed-winged aircraft, and then they’re sent out in small groups to hospitals
+      across the country for treatment. These are amputees. These are people who have
+      been seriously wounded. And we have a hospital for them, just in this neighborhood.
+      15:07 And our area has been under alert. But not just our area. I was in downtown
+      Petersburg, and the whole of Petersburg has experienced the same thing. That is,
+      curtailed mobile internet, if not completely stopped, and interference with GPS,
+      which is intended. The GPS is the guidance system for cars and for any mobile
+      objects, including drones. They interrupt it or they give false readings through
+      the GPS. Now for taxi drivers, that means he gets a call to go to address X, and
+      he actually goes to a place five kilometers away. And he wonders why his passengers
+      are standing out there waiting for him. Now, that can interrupt your taxi service
+      for sure, but it interrupts life in general. And the cutoffs of internet service
+      impact everything. Their city administration … could not register me as all foreigners
+      are supposed to be registered when they’re not in a hotel but staying in private
+      lodgings. They couldn’t do it because the whole system is down. 16:25 Not just
+      one or two posts, the whole thing is down. St. Petersburg is suffering from these
+      cuts, and they also can affect, though this time they are not affecting, the payment
+      systems, the operation of ATMs and credit card transactions. On May 9th, they
+      were all cut. I haven’t seen that happen now, but it is possible. And that does
+      tremendous damage to the economy. Villapiano: I’m curious, the helicopter activity
+      that you were speaking of, Is that profound? Is there a lot of that? Do you see
+      a lot of that in and out where there’s wounded being delivered? Doctorow: Mostly
+      it’s at night. I get my– the latest information I got was from the most reliable
+      source, a taxi driver. A lady taxi driver who lives in this town, and knows what
+      she’s talking about. And of course, the people who are light sleepers are awakened
+      by these helicopters coming in. At the local hospital for seriously injured, it’s
+      full to capacity. Villapiano: Oh, it is. Doctorow: Mr. Putin is talking about
+      saving Russian lives, how they go slow in their movements on the front so that
+      they have a favorable ratio of injured and killed to the same for the Ukrainians.
+      Originally it was a 10 to one advantage, maybe it’s a lesser one now because of
+      drone warfare, which is more of an equalizer. But as this war is proceeding, a
+      lot of people are coming back seriously injured. Yes, they’re being fitted for
+      various prosthesis for those who have been, are amputees, and they’re going for
+      extensive physical rehabilitation procedures. 18:18 I expect to hear a little
+      bit more detail of that in a week’s time when I meet with somebody who has been,
+      for other reasons, not military, in rehab and that all around him were these war-injured
+      people. Villapiano: So with this, with the front line moved, basically, into your
+      own backyard, how is that affecting your neighbors, the people that you’re talking
+      to, the chatter on the streets, or that must have changed it dramatically, yes?
+      Doctorow: 18:48 Yes and no. Again, I don’t want to be categorical about this.
+      The people I speak to, including old acquaintances, they are tired of the war.
+      And these new threats from drones and from downed drones because this is where
+      most injuries take place, not drones who are targeting the residential complex,
+      but which fell on them after being shot down. People are aware of this and it
+      gets on their nerves, but I would not say that they are turning on the government,
+      that there’s a mood change. In that sense, they’re tired and they want it to end.
+      That’s the man in the street. That is most of my acquaintances. Villapiano: 19:35
+      Gilbert, if they were turning on the government, would they have the freedom to
+      verbalize that? Doctorow: Well, people are always cautious here. People have a
+      long memory. And I think that, for example, when they stopped the video service
+      of WhatsApp, and they offered a replacement, a Russian government replacement
+      called Max, One of the first criticisms was that it doesn’t have end-to-end security.
+      And people immediately understood that all of their private lives could be now
+      subjected to FSB inspection. 20:17 So yes, of course people are aware of that.
+      But I want to make a distinction between the workaday folks who have these inconveniences
+      and are war weary — and the political establishment, it’s unkind to say the thinking
+      people, but the people who think about geopolitical issues, they are divided.
+      And my peers are not recognizing that. They’re speaking as if Mr. Putin has good
+      solidarity. Yes, he has 80% popularity. That’s true, but nobody asked people directly
+      how the war should be conducted, whether he’s conducting it right. And secondly,
+      their voices don’t count. Let’s be honest about it. I’m not saying Russian voices
+      don’t count. The voices of the people in the States don’t count. I think you’ll
+      agree that the US Congress does not accurately represent public opinion as it’s
+      changing. But let me not get critical about the States. I wanted to make the point
+      that the intellectual, the elites, particularly Moscow elites, who are quite big,
+      numerous, they’re split. And there is open criticism of Putin and the way he’s
+      conducting the war. 21:37 And I don’t mean people who are sour grapes, who are
+      discontented, maladjusted. No, no, no. Top people. People who are widely respected,
+      who have served the country well, and who are on television as major experts,
+      not talking heads in the pejorative sense, but the people who are participating,
+      members of the most important.think tanks.. Well, think tanks sounds like it’s
+      outside the government. These are government agencies discussing foreign policy
+      and military policy. Two days ago, I heard one of them, a certain Dmitry Trenin,
+      who was very well known internationally in the States, and he was saying that
+      diplomacy is finished. The war will be solved on the battlefield. And that was
+      seconded by the host who is also well known in Washington. He was the head of
+      the National Interest, formerly called the Nixon Center in Washington for 15 years.
+      22:45 So he’s known to Americans and he’s known to Russians. This is Dmitry Simes.
+      And he seconded that, that opinion. So it’s not just one fellow called Gil Doctorow
+      who’s saying this. I am conveying what top people in the Russian political establishment
+      are saying about the way the war is being conducted, and they’re not happy. Villapiano:
+      I like how you had said, diplomacy has outlived its usefulness. Doctorow: Again,
+      let’s put this in the immediate context of the last two weeks. The last two weeks
+      saw something that never happens in Russian political life. The number-two man
+      in the foreign ministry, everyone knows about Sergey Lavrov. But some of us know
+      about Sergey Ryabkov. 23:33 Ryabkov is the guy who presented to NATO and the United
+      States the demands that they draw back to the 1997 borders, “or else we will push
+      you back”. That’s what he said in December, 2021. So a man who makes remarks like
+      that, we don’t forget him. He has been the designated successor to Lavrov whenever
+      Lavrov steps down. This fellow came out and was interviewed, this was a little
+      less than two weeks ago, in which he said that the impulse towards improving relations
+      that was established in the Anchorage summit between Putin and Trump has been
+      dissipated. And that the diplomatic way out of this crisis no longer is valid.
+      He was immediately reprimanded, publicly rebuked by Ushakov, who was an advisor
+      to Putin on foreign affairs, by Dmitry Peskov, the press secretary of Putin, and
+      a little bit later by Putin himself. That type of public dispute on an essential
+      issue of foreign policy is the rarest thing you see. Now, exactly those words
+      that is as our diplomacy is no longer valid, was what Trenin was saying on air
+      and backed by the host who is on the outer fringes of Putin’s circle. He has hosted
+      the top politicians in the country, and he’s on a first-name basis and buddy-buddy
+      with all of these people. 25:22 So this is not just a journalist. This is a major
+      part of the establishment. And they were coming out against Putin. When Putin
+      made his statements about the state of relations with the United States, of which
+      part is what you just put up on the screen, he was defending himself and saying
+      that talk is better than confrontation. Villapiano: Right. Doctorow: There you
+      have it. Villapiano: I wanted to get back to just away from the oil into the weapons
+      and the things and both Trump and Putin had had things to say about that yesterday.
+      —————- Questioner: (English voice over) Yesterday, the “Washington Post” and the
+      “Wall Street Journal” reported that the US lifted a key restriction on the use
+      of this weapon. Then Trump said that Tomahawks, nevertheless, will not be supplied.
+      And just an hour ago, Zelensky again says that Ukraine will receive weapons that
+      will strike at almost 3,000 kilometers. In your view, is this still an escalation?
+      Putin: This is an attempt at escalation. But if strikes against Russian territory
+      are carried out with such weapons, the response will be very serious, if not stunning.
+      Let them think about that. —————- Villapiano: Doctor, I think you had intimated
+      that you found that to be just almost cowardice, in the sense that it was just
+      bluster and he really didn’t mean what he said, because he knows the state of
+      affairs regarding those weapons. Doctorow: Well, exactly. He was making himself
+      appear bold and decisive and brave in defending something which no longer needed
+      defense, because the latest state of deliveries on Tomahawks is it’s not going
+      to be delivered. Villapiano: Can I stop you right there? I just want to hammer
+      home this point. What I have here is a cut of President Trump making it so very,
+      very clear. And this was back last Friday is when you’ll see repetitiveness on
+      Trump’s part. —————- Trump: 27:17 We need Tomahawks and we need a lot of other
+      things that we’ve been sending over the last four years to Ukraine. It’s beyond
+      the money. You know, we need Tomahawks and we need a lot of other weapons. A lot
+      of bad things can happen. Tomahawks are a big deal. But one thing I have to say,
+      we want Tomahawks also. We don’t want to be giving away the things that we need.
+      —————- Villapiano: 27:43 Now, could he have been more clear, Doctor? Doctorow:
+      No, he is clear. And that’s why I say that the threats that Putin was making,
+      well, “if you proceed”, this was nonsense, because it’s already clear that they
+      will not be sent. And what he’s not addressing is the rest of the problem. He’s
+      not addressing the issue of the confiscation, essentially confiscation, of Russian
+      frozen assets that is still being debated in Europe, but very likely will be passed.
+      It didn’t make it into the 19th round of sanctions yesterday, because of the Belgian
+      objections that the country is not being protected sufficiently by fellow EU member
+      states from possible Russian response, angry response. But the problem is severe.
+      The problem is more than is described in the press. The problem is that the confiscation
+      of, essentially confiscation is a very subtle legal turn given to make it seem
+      as though it’s just collateral and so forth — in effect it’s confiscation. And
+      its distribution to Kiev in one way or another is intended to prolong the war
+      for three or four more years. 29:09 This was stated almost explicitly by the Polish
+      Foreign Minister Sikorski last week. The idea is that it will not be given to
+      them as one lump sum. It will be dealt out to Ukraine slowly in various forms,
+      but to keep them engaged. You can buy a lot of mercenaries with 145 billion euros.
+      So to say that they don’t have any men to fight is to miss the obvious. You can
+      buy a lot of drones. And I’ll get to the question of drones versus missiles in
+      a moment, because this also is confusing the public. And it’s intentionally done
+      by Zelensky, because he wants to get NATO into the war. If you say we need long
+      range missiles, then you’re getting NATO into the war. The reality is that the
+      Ukrainians are doing a pretty good job causing destruction in Russia using drones,
+      for which they have British, particularly British intelligence assistance. They
+      smashed up a lot of Russian refineries. 30:17 And so the need for these Tomahawks
+      is not there. It’s only to get the US and Europe into the war. But then let’s
+      go back to the money question, 145 billion. If Ukraine is kept alive for three
+      more years of fighting, it’s intended to be a big distraction to keep the Russians
+      occupied with them while Europe rebuilds its military, both manpower and hardware.
+      Of course, how wise that is, how valid it is, is also questionable. Why do I say
+      questionable? Because the Russians have stated explicitly that if there’s going
+      to be a war with NATO, it will not be a tank war, it will not be a drone war,
+      it will be a nuclear war. The Russians have said, we will not fight you in the
+      trenches, we will obliterate you. So the whole discussion in Europe is on a phony
+      basis. It’s being sold to the public on a phony basis. Maybe it’s good for Rheinmetall
+      and other German arms manufacturers, but there’s a lot of falseness in the public
+      space about who is doing what and why. And I’m trying to bring a little bit of
+      light to what I see is really going on. Villapiano: 31:40 I’d like to read to
+      the viewers something that you had written to me about Putin’s stance right now
+      and where you see him and where you’d like to see him go. And this is what you
+      wrote. You said, “It is high time for President Putin to recognize that in this
+      age when Israel and its US- European backers have been trampling on international
+      law by the genocide that’s ongoing now in Gaza, by its aggression against Lebanon
+      and Syria — that it is absurd for Russia to hold back on the violence needed to
+      end the Ukraine war without a moment’s concern about what others may think.” Doctorow:
+      32:20 I stand by those words. I am very unhappy with the way he’s conducting this
+      war. And I say, my personal opinion is not relevant here, but I listen to people
+      within Russia, of great authority, who are saying exactly that. They’re not saying
+      that he should go, and I’m not saying he should go. And it would be, I have no
+      right to say that. It’s a Russian decision. But he is showing, and I’ll use the
+      word, I call this lese majesté, but here we go: cowardice. It is pure cowardice,
+      the way he’s responding to Trump. Villapiano: 32:57 Appreciate your bluntness
+      there. Let’s just return to Putin one more time from that same news conference
+      talking about what he sees [in] the future. —————- Putin: (English voice over)
+      The President of the United States has decided to cancel or postpone this meeting.
+      Rather, he is speaking about postponing this meeting. Well, what can I say? Dialogue
+      is always better than any confrontation, than any disputes, or all the more so
+      than war. Therefore, we have always supported this, the continuation of dialogue,
+      and we support it now. —————- Villapiano: So Doctor, what’s that mean for the
+      future? Are these two going to sit down, or are Rubio and Lavrov going to sit
+      down? Where is it going, do you think? Doctorow: 33:39 Well, look, I have said
+      that Putin risks being Gorbachev Two. But let me use an historical reference.
+      Unfortunately, it’s been abused over decades by everyone calling it appeasement.
+      But if there ever was a Chamberlain speech in Russia, we heard it yesterday. That
+      was the “peace in our time” speech of Chamberlain from the mouth of Putin. It
+      was appeasement, and nothing good will come out of that. Villapiano: Does he have
+      the fortitude– he, Putin, calling it fortitude– to finish off the war on the battlefield?
+      Doctorow: I would hope so, but there’s reason to doubt it. When he made his tough-sounding
+      speech just a week ago, and then this is the night before, it’s a Thursday before
+      the Friday meeting that Trump had with Zelensky. It sounded like he had turned
+      from his go slow, utterly cautious approach of an attrition war, to something
+      more energetic and more decisive and more threatening. And now he went back on
+      himself. Yes, that’s what these, the remarks that you have put up on the screen,
+      indicate to me that in this dispute between hardliners and softliners, he has
+      stepped back among the softliners. And I see that this is very threatening for
+      Russia’s future and risky for all of us because it gives the wrong signals to
+      the war party in Europe that they can succeed and that they can push this and
+      themselves and us straight into World War III. Villapiano: 35:36 Please, you want
+      to check out the doctor’s latest book, “War Diaries, Volume 1: The Russia-Ukraine
+      War 2022-2023”. Doctorow: I expect in Q1 ’26, I will put out volume two and volume
+      three, of course, of ’24 and ’25. I would hope that it ends there. But from what
+      I’ve heard from Putin in the last week or two, I’m worried it won’t. And if this
+      goes on indeed for three more years, as it could, then Russia could easily be
+      militarily destroyed by a revived Europe. It sounds peculiar today and people
+      say, “Oh, how could it be? European youth doesn’t want to fight”. 36:28 You have
+      to consider the very intense propaganda going on in Europe. You have to consider
+      the utter foolishness of professionals, of well-educated people, who are the upper
+      classes in European countries. I know who they are. I’m a member of a prestigious
+      French-speaking — “Royal” is the name of the club, in Brussels. And I sat at a
+      dinner, or lunch, that was given a year ago, when the Minister of Defense was
+      supposed to speak to us, but he was occupied on political matters because elections
+      were coming up. And then an assistant came who was the man responsible for HR
+      decisions and so forth, and told us how Belgium has a hard time raising its military
+      because the budget is limited and 80% of the budget goes to pensions and salaries
+      and not much is left over for operations or investments. 37:31 But we all listened
+      to that, and xxxxxxxx. People at the table were concerned because they’re all
+      patriotic, and they were asking him, well, can’t we have, will we be going into
+      the call-up of young men? Will there be a draft? And he said, “Well, right now
+      we can’t afford it.” Look at what’s going on now. As Europe, including Belgium,
+      is all raising military budgets under the advice and pressure of Donald Trump,
+      the money is going to be there. And when I see the people around me, these matrons,
+      shall I call them, in a pejorative sense, sitting very comfortably situated next
+      to their husbands at the table, are saying, “Oh, a draft will be good for our
+      sons, because they need some discipline.” You know, they are just living in a
+      dream world. They don’t realize where their sons are going to be sent to be slaughtered.
+      Villapiano: 38:26 Wow. Discipline. Discipline. They see it as discipline. Wow.
+      Doctorow: Yes. Yes. Villapiano: That’s scary. Well, doctor, I want to thank you
+      so much for being with us today. It was excellent. And I just want to tell you
+      how grateful I am for your input and your research. It was wonderful. Doctorow:
+      Well, it’s very kind of you to say that. And I hope that these words are sobering.
+      I don’t want to alarm people. I’m not walking around with a sandwich board saying,
+      “The end is nigh.” But some action has to be taken by people who understand the
+      risks that are involved before they proceed too much further. Davis: 39:03 Yeah.
+      Agreed. Agreed. Everybody, thank you so much for tuning in. We’ll see you next
+      time. Remaining Unintimidated, Uncompromised.'
+    one_sentence_summary: In a conversation on "Deep Dive," historian Dr. Gilbert Doctorow
+      discusses the challenges of traveling to his apartment in St. Petersburg, noting
+      that he and his wife now visit significantly less often due to increased difficulties
+      in travel.
+    paragraph_summary: In a conversation on the "Deep Dive" show, host Gary Villapiano
+      speaks with Dr. Gilbert Doctorow, a historian and international affairs analyst,
+      who is currently in his apartment in St. Petersburg. Doctorow shares that he has
+      been visiting Russia less frequently due to the increasing difficulties of travel,
+      now managing only about three trips a year compared to his previous routine of
+      visiting every four to six weeks. He describes the challenges of navigating Istanbul
+      Airport, where the arrival and departure gates are far apart, making travel physically
+      demanding. Despite these challenges, Doctorow enjoys reconnecting with old acquaintances
+      and gathering new information during his visits, and he humorously notes his proficiency
+      in Russian, which has been honed over 60 years.
+    published: '2025-10-25T08:58:56+00:00'
+  - title: '‘Daniel Davis Deep Dive’ conversation of 24 October: Putin’s Cowardice'
+    url: https://gilbertdoctorow.com/2025/10/24/daniel-davis-deep-dive-conversation-of-24-october-putins-cowardice/
+    text: '‘Daniel Davis Deep Dive’ conversation of 24 October: Putin’s Cowardice The
+      title which DDDD executive producer and co-host Gary Villapiano gave to our conversation
+      this evening will surely attract attention. It defies reason that the classic
+      Alpha Male Vladimir Vladimirovich Putin could even at the threshold of old age
+      find himself condemned for cowardice. However, it is self-evident from the video
+      segments provided by DDDD of Putin’s latest public statements on how diplomacy
+      is preferable to confrontation that he is on the back foot in relation to the
+      number two man in his own Ministry of Foreign Affairs Sergei Ryabko over the continued
+      viability of diplomacy and also in relation to such eminent members of the Russian
+      state deliberative bodies for foreign and military policy as Dmitry Trenin and
+      Dmitry Simes. Putin’s remarks place him in the sad company of Chamberlain and
+      his the ‘Peace in our Time’ speech following his return from talks with Hitler
+      over the fate of the Sudetenland. The handwriting is on the wall. I wait for recalcitrant
+      colleagues to put on their eyeglasses. https://www.youtube.com/watch?v=9-0AI0iDvJo'
+    one_sentence_summary: In a recent discussion, Gary Villapiano highlighted Vladimir
+      Putin's apparent cowardice as he shifts towards diplomacy over confrontation,
+      drawing parallels to historical figures like Chamberlain, suggesting that Putin
+      is losing influence even within his own government.
+    paragraph_summary: In the October 24 "Daniel Davis Deep Dive" conversation, executive
+      producer Gary Villapiano provocatively labeled Vladimir Putin as cowardly, highlighting
+      a shift in the Russian leader's stance towards diplomacy amid internal pressures.
+      Video segments showcased Putin's recent public statements advocating for diplomatic
+      solutions over confrontation, suggesting he is increasingly at odds with key figures
+      in his own government, such as Foreign Minister Sergei Ryabko and influential
+      policy makers Dmitry Trenin and Dmitry Simes. This shift has drawn parallels to
+      British Prime Minister Neville Chamberlain's infamous "Peace in our Time" speech
+      after negotiating with Hitler, indicating a potential decline in Putin's assertiveness
+      and foreshadowing significant changes in Russian foreign policy.
+    published: '2025-10-24T21:19:22+00:00'
+  - title: '‘Daniel Davis Deep Dive’ conversation of 24 October: Putin’s Cowardice'
+    url: https://gilbertdoctorow.com/2025/10/24/daniel-davis-deep-dive-conversation-of-24-october-putins-cowardice/
+    text: '‘Daniel Davis Deep Dive’ conversation of 24 October: Putin’s Cowardice The
+      title which DDDD executive producer and co-host Gary Villapiano gave to our conversation
+      this evening will surely attract attention. It defies reason that the classic
+      Alpha Male Vladimir Vladimirovich Putin could even at the threshold of old age
+      find himself condemned for cowardice. However, it is self-evident from the video
+      segments provided by DDDD of Putin’s latest public statements on how diplomacy
+      is preferable to confrontation that he is on the back foot in relation to the
+      number two man in his own Ministry of Foreign Affairs Sergei Ryabko over the continued
+      viability of diplomacy and also in relation to such eminent members of the Russian
+      state deliberative bodies for foreign and military policy as Dmitry Trenin and
+      Dmitry Simes. Putin’s remarks place him in the sad company of Chamberlain and
+      his the ‘Peace in our Time’ speech following his return from talks with Hitler
+      over the fate of the Sudetenland. The handwriting is on the wall. I wait for recalcitrant
+      colleagues to put on their eyeglasses. https://www.youtube.com/watch?v=9-0AI0iDvJo'
+    one_sentence_summary: In a recent discussion, Gary Villapiano highlighted Vladimir
+      Putin's apparent cowardice as he shifts towards diplomacy over confrontation,
+      drawing parallels to historical figures like Chamberlain, suggesting that Putin
+      is losing influence even within his own government.
+    paragraph_summary: In the October 24 "Daniel Davis Deep Dive" conversation, executive
+      producer Gary Villapiano provocatively labeled Vladimir Putin as cowardly, highlighting
+      a shift in the Russian leader's stance towards diplomacy amid internal pressures.
+      Video segments showcased Putin's recent public statements advocating for diplomatic
+      solutions over confrontation, suggesting he is increasingly at odds with key figures
+      in his own government, such as Foreign Minister Sergei Ryabko and influential
+      policy makers Dmitry Trenin and Dmitry Simes. This shift has drawn parallels to
+      British Prime Minister Neville Chamberlain's infamous "Peace in our Time" speech
+      after negotiating with Hitler, indicating a potential decline in Putin's assertiveness
+      and foreshadowing significant changes in Russian foreign policy.
+    published: '2025-10-24T21:19:22+00:00'
+  - title: Freedom of speech, of press in Russia – a proof
+    url: https://gilbertdoctorow.com/2025/10/23/freedom-of-speech-of-press-in-russia-a-proof/
+    text: 'Russia is a ruled by a cruel dictator, an authoritarian who has snuffed out
+      all civic freedoms which the population enjoyed in the 1990s Yeltsin years, right?
+      Wrong. I have been saying that Russia has more freedom of expression and of the
+      press than you will find in Western Europe today under the rule of Liberal ideologues.
+      And I submit the following as proof positive of my convictions: https://rutube.ru/video/99aab74adc1ebc53c6745f9100ee2e2c/
+      This is today’s voice over version of my interview with Judge Andrew Napolitano
+      on the ‘Judging Freedom’ channel of youtube. To those of you who watched this
+      video in the English original when I reposted it yesterday or who read the transcript
+      that I posted this morning it must have been obvious that the Judge and I were
+      discussing politically very sensitive issues about whether and how discontent
+      in the broad Russian public and/or in the Moscow elites has applied pressure on
+      Vladimir Putin to change course on Ukraine and stand ready to “destroy” the country
+      now if Zelensky does not capitulate and accept Russian terms for ending the war.
+      I also had some select words about the incompetent and corrupt governor of St
+      Petersburg Beglov. All of this talk was translated into very good Russian, nothing
+      was cut, and it is now available in Russia for review by anyone who has the time
+      and the interest. I rest my case.'
+    one_sentence_summary: The article argues that Russia, contrary to perceptions of
+      being ruled by a repressive dictator, actually offers more freedom of expression
+      and press than Western Europe, as evidenced by a discussion on politically sensitive
+      issues in an interview with Judge Andrew Napolitano.
+    paragraph_summary: The article argues against the perception that Russia is under
+      a repressive dictatorship, claiming instead that it offers more freedom of expression
+      and press than some Western European countries today. The author references a
+      recent interview with Judge Andrew Napolitano, discussing sensitive political
+      topics related to public discontent in Russia regarding Vladimir Putin's actions
+      in Ukraine and criticizing the governor of St. Petersburg, which was fully translated
+      and made available in Russia. The author believes this accessibility of politically
+      charged content serves as evidence of greater freedom in Russia than commonly
+      perceived.
+    published: '2025-10-23T12:35:51+00:00'
+  - title: Freedom of speech, of press in Russia – a proof
+    url: https://gilbertdoctorow.com/2025/10/23/freedom-of-speech-of-press-in-russia-a-proof/
+    text: 'Russia is a ruled by a cruel dictator, an authoritarian who has snuffed out
+      all civic freedoms which the population enjoyed in the 1990s Yeltsin years, right?
+      Wrong. I have been saying that Russia has more freedom of expression and of the
+      press than you will find in Western Europe today under the rule of Liberal ideologues.
+      And I submit the following as proof positive of my convictions: https://rutube.ru/video/99aab74adc1ebc53c6745f9100ee2e2c/
+      This is today’s voice over version of my interview with Judge Andrew Napolitano
+      on the ‘Judging Freedom’ channel of youtube. To those of you who watched this
+      video in the English original when I reposted it yesterday or who read the transcript
+      that I posted this morning it must have been obvious that the Judge and I were
+      discussing politically very sensitive issues about whether and how discontent
+      in the broad Russian public and/or in the Moscow elites has applied pressure on
+      Vladimir Putin to change course on Ukraine and stand ready to “destroy” the country
+      now if Zelensky does not capitulate and accept Russian terms for ending the war.
+      I also had some select words about the incompetent and corrupt governor of St
+      Petersburg Beglov. All of this talk was translated into very good Russian, nothing
+      was cut, and it is now available in Russia for review by anyone who has the time
+      and the interest. I rest my case.'
+    one_sentence_summary: The article argues that Russia, contrary to perceptions of
+      being ruled by a repressive dictator, actually offers more freedom of expression
+      and press than Western Europe, as evidenced by a discussion on politically sensitive
+      issues in an interview with Judge Andrew Napolitano.
+    paragraph_summary: The article argues against the perception that Russia is under
+      a repressive dictatorship, claiming instead that it offers more freedom of expression
+      and press than some Western European countries today. The author references a
+      recent interview with Judge Andrew Napolitano, discussing sensitive political
+      topics related to public discontent in Russia regarding Vladimir Putin's actions
+      in Ukraine and criticizing the governor of St. Petersburg, which was fully translated
+      and made available in Russia. The author believes this accessibility of politically
+      charged content serves as evidence of greater freedom in Russia than commonly
+      perceived.
+    published: '2025-10-23T12:35:51+00:00'
+  - title: Transcript of ‘Judging Freedom’ edition of 22 October
+    url: https://gilbertdoctorow.com/2025/10/22/transcript-of-judging-freedom-edition-of-22-october/
+    text: 'Transcript submitted bya reader https://www.youtube.com/watch?v=vSUnczekIfc
+      Napolitano: 0:33 Hi, everyone. Judge Andrew Napolitano here for “Judging Freedom”.
+      Today is Wednesday, October 22nd, 2025. Dr. Gilbert Doctorow joins us now. Gilbert,
+      always a pleasure, my dear friend. Thank you very much for joining us. Thank you
+      for accommodating my schedule. Is President Putin, in your view, under any pressure
+      from whatever source, elites, military, intelligence, ordinary folk, to accelerate
+      the execution or prosecution, I should say, of the war and bring it to a quick
+      end? Doctoorow: 1:11 I think he’s under considerable pressure, not from his immediate
+      colleagues, because they form a unit, but from the broader elites in Moscow for
+      certain. As to the general public, they are concerned, their lives are being disrupted
+      by the war, As I have seen since my arrival here a day and a half ago. Considering
+      what has changed since my last visit in May, it is clear that the war is impacting
+      on ordinary Russians. Napolitano: 1:44 All right. I need you to explain that,
+      because I was in Moscow for a week in March, and I was in Moscow last week, and
+      I didn’t notice any difference. I didn’t see any gas lines. The gasoline costs
+      less in Moscow than it does in Manhattan when you do the conversion from rubles
+      to dollars and from liters to gallons. I think I did it accurately. But please
+      tell me how you believe or how you have ascertained what you’ve observed as to
+      how the special military operation is negatively impacting the Russian population.
+      Napolitano: Well, I was there last in May, so it’s like five months ago. And what
+      I’ve seen since my arrival is at considerable variance with my own last visit.
+      That you wouldn’t have seen something untoward in Moscow is a result of what Moscow
+      is and represents and who runs it. Mr. Sobyanin has the best air defenses in the
+      country. He is the best city manager or general manager in the whole country.
+      Therefore, the problems which I see around me now in St. Petersburg are of a different
+      nature than what you could have or would have seen in Moscow, because of Moscow’s
+      special place and special quality of management. St. Petersburg does not have
+      quality management. Mr. Baywoff, who has been in here for 6 years, was a corrupt
+      and incompetent person. And it is again, is a black mark on the president that
+      he has tolerated this known corrupt person to hold the position of mayor or governor
+      in this second most important city in the country. But what I want to get to is
+      not a criticism of the local administration, but a statement of the facts. My
+      flight in here was late. I came on Turkish Airlines from Istanbul. It set out
+      late without any explanation but clearly because of the plane that we were on
+      which was very modern, very new, but none of the worn look that I’d had on other
+      Turkish airline planes. It wasn’t a technical problem. It was a problem on the
+      ground here in St. Petersburg that I discovered after we landed. Napolitano: So
+      you were flying Istanbul to St. Petersburg. Doctorow: Correct. And it wasn’t just
+      our plane that was delayed. I assume that all air traffic was delayed somewhat
+      because of a drone attack. And then– that was my supposition. And I wrote an essay
+      yesterday based on supposition that this, not just the plane was late, that isn’t
+      much to rely on, but what I found when I landed that our taxi driver had a hard
+      time getting out of the airport because parts of the airport administration controlling
+      access to the airport was no longer working. His GPS wasn’t working. He couldn’t
+      find his way to my town, which is a 15-minute drive away, because he doesn’t know
+      the area and his GPS, or his navigator, as they call it in Russian, was not working
+      consistently. Now, it wasn’t just his. The Russians have systematically for big
+      occasions like Victory in Europe Day, this May 9th, they have shut down GPS, or
+      they have given false information on GPS, to direct any incoming drones or other
+      projectiles in the wrong place. That means the taxi drivers heeding an online
+      directive to come to you, to come to a place five kilometers from where you are.
+      And nobody knows why you don’t meet. Well that’s one thing, GPS was not working.
+      5:37 The other thing is that the mobile internet wasn’t working. Now that doesn’t
+      sound like much to people who don’t know what that means. Having no mobile internet
+      means you have no ATMs working, You have no way for retail outlets to take credit
+      cards. Napolitano: All right, so periodically the government shuts down the internet
+      in order to frustrate the Ukrainians’ use of drones. Doctorow: Yes, that was periodic
+      and very rare. Now it’s not rare, now it’s happening every few days here. And
+      that tells you that explains why I say that the home front has become the war
+      zone, which was not the case in May. And it’s not just Petersburg that’s hit that
+      way, but many other towns when you hear occasionally, oh, this airport or that
+      airport has been closed in Russia, you can be sure the same thing is happening
+      there. And this is not a small deal. If all retail outlets can no longer accept
+      payments because the system is down, that’s a lot of lostv– Napolitano: 6:39 How
+      long was it down for? I mean, did the cab driver eventually achieve GPS coverage
+      that he could take you to your destination? Doctorow: Let’s remember, this was
+      at two o’clock in the morning, so the urgent closing had already passed, and he
+      did get his GPS and he did get us to our to our destination. It’s the whole day,
+      You know, this whole day here in Petersburg, nothing’s working. And that’s not
+      just as simple as it sounds. I was supposed to register with the authorities as
+      a foreigner. That’s a legal requirement which people staying in private homes
+      have to do. And I was down at the municipal offices, and I couldn’t do anything
+      because their system was shut down. So that is the government systems in Petersburg
+      were shut down because the unreliability of Internet service. Napolitano: I guess
+      … I was being for lack of a better word pampered because I was in Moscow. Doctorow:
+      7:43 Well, Moscow and more generally the events that you were going to were among
+      the most prestigious in this country and the authorities would take every possible
+      precaution so that you and the other hundreds if not several thousand foreigners
+      who [glitch] the level of disturbances to normal life that are now going on in
+      Russia because of the drone attacks. Napolitano: 8:16 What about inflation? Have
+      you detected that since you were last in St. Petersburg? Doctorow: No, paradoxically,
+      not at all. However, at the low end– so I did a little survey yesterday already
+      of the supermarkets of different categories, economy, middle class and upper middle
+      class. And at the lower end, and we have a lower end here in this rather prosperous
+      community where I live, because there are residential units, there are apartments,
+      for military officers. There is a cadet corps here, there always was going back
+      to Tsarist times. And so you have foreign military trainees, Russian military
+      trainees in this area, They are generally speaking economy class customers. And
+      the selection, the offering there in the supermarkets, a part of the chain that
+      serves them, has been curtailed considerably since my last visit. Fresh greens,
+      fresh dairy products, less, the variety is curtailed. Napolitano: So how are you
+      able to attribute the paucity of certain products in a grocery store to the prosecution
+      of the war? Doctorow: 9:34 I think it relates to the wallets of their basic clientele.
+      I was about to say that in the upper middle class supermarkets, there has been
+      no curtailment of the product assortment, and they’re getting everything, and
+      I don’t see any price inflation. In fact, to my surprise, I saw a price deflation.
+      I was at the fish counter in this up-market, supermarket chain, and the prices
+      of fish that you know well from the States, like dorad, I think it’s sea bream,
+      I just forget the translation, that it was 35% cheaper than my visit in May. A
+      local specialty fish which people love for the good reason, it’s salmon trout.
+      These are three-pound, four-pound fish that are farmed in Lake Lodega, the biggest
+      natural freshwater lake in Europe. It’s just near Petersburg. They were going
+      for 10, 11, 12 euros a kilogram, when they were 15 and 16 in May. So some prices
+      have come down surprisingly, but that is the wealthiest who would benefit from
+      that. So the real issue for the broader public is the security and the pricing
+      of hydrocarbons, the fuel for the car. And I haven’t gone to stations– I haven’t
+      seen any lines at stations, but I did listen to Business FM, which is a business
+      radio station based in Moscow with a subsidiary here in Petersburg, who yesterday
+      were reporting on a spike in prices for fuel on the commodities exchange in Moscow.
+      And they had the Deputy Prime Minister Novak, who was formerly the energy czar
+      in Russia for 10 years, reporting that, oh, we don’t have any imports of fuel
+      right now. Well, that isn’t comfort to people. Russia is supposed to be an exporter
+      of refined hydrocarbons, not just– Napolitano: 11:36 Have you discerned a grumbling,
+      a mumbling, a disenchantment, a center of frustration, or have you discerned a
+      collective will to sacrifice a la World War II, or have you discerned neither
+      of these in your communications with ordinary folks? Now, we’re not talking about
+      the elites. Doctorow: 11:58 No, I’m dealing with ordinary folks. When I speak
+      about taxi drivers as my source of information, you can’t get more ordinary than
+      that. Napolitano: Correct, correct. But are they disenchanted? Are they grumbling?
+      Are they angry at Putin? Do they wish the war to end quickly? Do they express
+      that to you?Does this happen all the time, or did it just happen at two in the
+      morning when you landed in St. Petersburg? Doctorow: Well, the whole day today
+      it’s been going on. I ordered a taxi this morning from Yandex, which is the main
+      taxi provider across the whole country, very sophisticated technically, and the
+      taxi went to the wrong address. They said, your taxi’s waiting for you, but that
+      wasn’t waiting in front of my house. So it wasn’t working. As to what people are
+      saying, out of the list of possibilities that you gave me, I choose one. And that
+      is people are experiencing difficulty, and they want the war to end quickly. But
+      I didn’t sense that as being criticism of Putin as such or grumbling as such.
+      But it is a feeling that the war should end soon. And that is the people. The
+      people are not the ones who Mr. Putin listens to or has to listen to. He has to
+      listen to the elites. And the elites, I think, are more direct in their analysis
+      of the connection between these daily inconveniences and the way the war is being
+      conducted. Napolitano: 13:25 Let’s talk about the way the war is being conducted.
+      My initial question to you, and you’ve given a very thorough and expansive answer,
+      was: is there any pressure on President Putin to change his military strategy?
+      Now, the West is reporting, and I think you agree with this reporting, but of
+      course, correct me if I’m wrong, that in their 90-minute telephone conversation,
+      which occurred while I was in a Russian television studio last week, President
+      Putin told President Trump, Zelensky better get realistic or Ukraine will be destroyed.
+      Now the use of that word “destroyed”, I don’t know what it is in Russian and I
+      don’t know if there’s more than one variant of it, but translated into English,
+      it’s a very harsh and meaningful word. Is that your understanding as well? That
+      President Putin said to President Trump, tell Zelensky to put up, get realistic,
+      or Ukraine, quote, “will be destroyed”, close quote, translated from the Russian
+      to the English. Doctorow: 14:35 I think that is all accurate. And it’s not just
+      my pulling this out of the thin air. As I’ve mentioned, since you know that one
+      of my points, and I want to be sure that people understand, it’s not my only point
+      of information about Russia, and the little taxi drivers also count, as well as
+      many other sources. And looking, doing supermarket tours as a method of understanding
+      the general economy that the US Embassy and intelligence officers in Moscow knew
+      very well in 1970s and 1980s. So there’s a whole combination of points to the
+      methodology. But listening to television, one week ago, Vladimir Solovyov, who
+      is not just a call show host, like people would imagine running “Meet the Press”
+      in the States, but a person who is in the inner circle of the top management of
+      all Russian news, together with Kiselyev, who is the boss of bosses, and together
+      with Putin himself, whom he has interviewed and so forth. He is at the top and
+      he’s very close to power. And he was saying on Russian television precisely that.
+      “Let’s face it, we are in a war, and this should be not in a special military
+      operation any more. And we should, since the Ukrainians are interested in doing
+      everything possible to harm us, we should not hold back. We should flatten the
+      center of Kiev. We should give a warning to the population of Kiev.” Napolitano:
+      Let me stop you. Who are you quoting or paraphrasing here? Doctoorow: 16:17 Vladimir
+      Solovyov. And the words that he used are precisely the words that you just gave
+      me coming from Trump. So what Solovyov was saying on air was exactly what Putin
+      was saying on a private conversation to Donald Trump. “We will destroy Ukraine.”
+      Napolitano: Wow. Why is Putin saying that now? Is he feeling pressure, running
+      out of patience, running out of manpower, running out of ammunition? Doctorow:
+      No, I think he’s feeling pressure. And as I said, the pressure would be coming
+      from the broader elites in Moscow. I don’t think this is, people will say, “Oh,
+      it’s the oligarchs who are doing it.” I don’t believe that at all. But I do think
+      that the thinking population of Russia is highly concentrated in the city of Moscow,
+      which is the country’s largest city. And that’s outside the narrow circle of Mr.
+      Putin, who are dealing in a collegial way with him, there are a lot of people
+      who are not in a collegial way with him and who have had enough of this war and
+      want to see it over. 17:32 So if we assume, as you do, that Vladimir Solovyev,
+      a highly regarded, serious television personality in Russia, speaks for the Kremlin
+      and says things like, “the population”, I’m quoting you now, “of Kiev should be
+      warned to evacuate the city ahead of Russia’s bombing them flat.” He’s not making
+      that up. He’s not expressing a political opinion. He’s saying what he honestly
+      believes the Kremlin wants him to say or the Kremlin is saying to him. 18:13 The
+      Kremlin wouldn’t allow him to say that if it didn’t back it. It is much too political
+      a statement for this man to be standing up on television and saying because he
+      just dreamed it up himself. No, he is doing the work of his boss, Mr. Putin. Napolitano:
+      Will the special military operation, I don’t know if I’m going to use the proper
+      word, be transformed into a war, which of course would mobilize and affect everybody
+      in Russia in some respect, but without getting into that, at least for now, do
+      you expect this transformation to occur? Doctorow: 18:54 I expected this transformation
+      to occur if– and the whole threat was made in the context of the planned transfer
+      of Tomahawks to Kiev. We don’t know the status of that now. We don’t know the
+      status. It seemed to be in abeyance. It seemed that there will be a meeting in
+      Budapest between Trump and Putin, which would agree the terms for ending the war
+      between them, which would then be imposed on Mr. Zelensky, who could or could
+      not be sitting in the next room. That meeting is now, according to “Financial
+      Times” and some American news sources canceled. According to the Russians, they’re
+      still playing, that is Russians I mean, state television, they’re still pretending
+      it will take place. Mr. Sotnikov was not pretending. Napolitano: Here’s our friend,
+      Foreign Minister Lavrov, on this very topic yesterday. Chris, cut number 14. Lavrov:
+      (English voice over) For quite some time Zelensky aspired to do that. Macron,
+      Starmer or Ursula von der Leyen had been doing that. From some point in time when
+      they stopped mentioning a strategic defeat upon Russia, they started calling for
+      an immediate ceasefire. Back in the day, Macron said that this ceasefire should
+      be unconditional without any preconditions. And among other things, he publicly
+      stated that nobody would be able to restrict the weapons supplies to the Kiev
+      regime. 20:37 That means that when it all became clear, it became clear why they
+      needed this truce. But most importantly, this would mean not only an opportunity
+      to pump the Kiev regime full of weaponry, to incentivize its terrorist attacks,
+      namely attacks against civil infrastructure and civilians in the Russian territory.
+      Napolitano: Before you respond, here’s another one from Foreign Minister Lavrov
+      yesterday, 14, Chris. Lavrov: I was surprised to read today that, according to
+      CNN, the Putin-Trump meeting might be postponed. The dishonesty of many Western
+      media outlets is well known, And CNN is no exception. I want to officially confirm
+      that Russia has not changed its positions compared to the understandings reached
+      during the lengthy negotiations between Putin and Trump in Alaska. We remain fully
+      committed to this formula. Those who are now trying to convince our American colleagues
+      to change their position simply want to stop the war without addressing its causes.
+      That would mean leaving a Nazi-like regime in control of part of Ukraine, a place
+      where the Russian language is banned and the majority population is oppressed.
+      We remain committed to what presidents Putin and Trump agreed upon in Anchorage,
+      a long-term sustainable peace, not a ceasefire that leads nowhere. Napolitano:
+      22:14 We understand that they want to address the root causes. They’ve been consistent
+      on that since day one, for two and a half years now. But do the Russians believe
+      that the Budapest conference is on or off? Doctorow: Well, that depends which
+      Russians you’re talking to. Napolitano: All right, the guy that we just heard
+      is pretty high up there, the foreign minister. Doctorow: Mr. Solovyov is not at
+      that level, but he is not to be ignored. And he went one step further, what Mr.
+      Lavrov didn’t touch upon, which I think you in particular will appreciate and
+      savor, Solovyoo named Marco Rubio as the traitor in the Trump camp who has scuttled
+      the planned summit. Napolitano: Wow. All right, I wish we could carry on, but
+      I have another commitment in a couple of minutes. Gilbert, this is a fascinating
+      conversation with you as all of our conversations have been. I’m deeply grateful
+      for them. I’m especially grateful when you’re able to come on air while you’re
+      traveling. Thank you very much. We’ll look forward to seeing you next week, my
+      friend. Doctorow: Well, my pleasure. Napolitano: Thank you, all the best to you.
+      Fascinating, fascinating stuff. And of course our other guests will be happy to
+      comment on it as the day and this week proceed. The day will proceed with Aaron
+      Maté at 11 o’clock, Phil Giraldi at 3 o’clock, and Professor Jeffrey Sachs at
+      5.30 this evening. 23:51 Judge Napolitano for “Judging Freedom”.'
+    one_sentence_summary: In a discussion on "Judging Freedom," Dr. Gilbert Doctorow
+      suggests that while President Putin faces pressure from broader Moscow elites
+      to expedite the war's resolution, his immediate colleagues remain united, and
+      the general public is increasingly concerned about the war's disruption to their
+      lives.
+    paragraph_summary: In a discussion on "Judging Freedom," Judge Andrew Napolitano
+      interviews Dr. Gilbert Doctorow about the pressures facing President Putin regarding
+      the ongoing war. Doctorow suggests that while Putin's immediate circle remains
+      united, broader elites in Moscow are exerting pressure for a quicker resolution
+      to the conflict, as ordinary Russians are increasingly affected by the war's disruptions.
+      Napolitano, who recently visited Moscow, challenges Doctorow's observations, noting
+      a lack of visible hardship during his stay, such as gas shortages or high prices.
+      Doctorow counters that the situation in Moscow has deteriorated since his last
+      visit in May, highlighting the city's effective management under Mayor Sobyanin,
+      which may mask the war's negative impact on the general population.
+    published: '2025-10-22T19:26:26+00:00'
+  - title: Transcript of ‘Judging Freedom’ edition of 22 October
+    url: https://gilbertdoctorow.com/2025/10/22/transcript-of-judging-freedom-edition-of-22-october/
+    text: 'Transcript submitted bya reader https://www.youtube.com/watch?v=vSUnczekIfc
+      Napolitano: 0:33 Hi, everyone. Judge Andrew Napolitano here for “Judging Freedom”.
+      Today is Wednesday, October 22nd, 2025. Dr. Gilbert Doctorow joins us now. Gilbert,
+      always a pleasure, my dear friend. Thank you very much for joining us. Thank you
+      for accommodating my schedule. Is President Putin, in your view, under any pressure
+      from whatever source, elites, military, intelligence, ordinary folk, to accelerate
+      the execution or prosecution, I should say, of the war and bring it to a quick
+      end? Doctoorow: 1:11 I think he’s under considerable pressure, not from his immediate
+      colleagues, because they form a unit, but from the broader elites in Moscow for
+      certain. As to the general public, they are concerned, their lives are being disrupted
+      by the war, As I have seen since my arrival here a day and a half ago. Considering
+      what has changed since my last visit in May, it is clear that the war is impacting
+      on ordinary Russians. Napolitano: 1:44 All right. I need you to explain that,
+      because I was in Moscow for a week in March, and I was in Moscow last week, and
+      I didn’t notice any difference. I didn’t see any gas lines. The gasoline costs
+      less in Moscow than it does in Manhattan when you do the conversion from rubles
+      to dollars and from liters to gallons. I think I did it accurately. But please
+      tell me how you believe or how you have ascertained what you’ve observed as to
+      how the special military operation is negatively impacting the Russian population.
+      Napolitano: Well, I was there last in May, so it’s like five months ago. And what
+      I’ve seen since my arrival is at considerable variance with my own last visit.
+      That you wouldn’t have seen something untoward in Moscow is a result of what Moscow
+      is and represents and who runs it. Mr. Sobyanin has the best air defenses in the
+      country. He is the best city manager or general manager in the whole country.
+      Therefore, the problems which I see around me now in St. Petersburg are of a different
+      nature than what you could have or would have seen in Moscow, because of Moscow’s
+      special place and special quality of management. St. Petersburg does not have
+      quality management. Mr. Baywoff, who has been in here for 6 years, was a corrupt
+      and incompetent person. And it is again, is a black mark on the president that
+      he has tolerated this known corrupt person to hold the position of mayor or governor
+      in this second most important city in the country. But what I want to get to is
+      not a criticism of the local administration, but a statement of the facts. My
+      flight in here was late. I came on Turkish Airlines from Istanbul. It set out
+      late without any explanation but clearly because of the plane that we were on
+      which was very modern, very new, but none of the worn look that I’d had on other
+      Turkish airline planes. It wasn’t a technical problem. It was a problem on the
+      ground here in St. Petersburg that I discovered after we landed. Napolitano: So
+      you were flying Istanbul to St. Petersburg. Doctorow: Correct. And it wasn’t just
+      our plane that was delayed. I assume that all air traffic was delayed somewhat
+      because of a drone attack. And then– that was my supposition. And I wrote an essay
+      yesterday based on supposition that this, not just the plane was late, that isn’t
+      much to rely on, but what I found when I landed that our taxi driver had a hard
+      time getting out of the airport because parts of the airport administration controlling
+      access to the airport was no longer working. His GPS wasn’t working. He couldn’t
+      find his way to my town, which is a 15-minute drive away, because he doesn’t know
+      the area and his GPS, or his navigator, as they call it in Russian, was not working
+      consistently. Now, it wasn’t just his. The Russians have systematically for big
+      occasions like Victory in Europe Day, this May 9th, they have shut down GPS, or
+      they have given false information on GPS, to direct any incoming drones or other
+      projectiles in the wrong place. That means the taxi drivers heeding an online
+      directive to come to you, to come to a place five kilometers from where you are.
+      And nobody knows why you don’t meet. Well that’s one thing, GPS was not working.
+      5:37 The other thing is that the mobile internet wasn’t working. Now that doesn’t
+      sound like much to people who don’t know what that means. Having no mobile internet
+      means you have no ATMs working, You have no way for retail outlets to take credit
+      cards. Napolitano: All right, so periodically the government shuts down the internet
+      in order to frustrate the Ukrainians’ use of drones. Doctorow: Yes, that was periodic
+      and very rare. Now it’s not rare, now it’s happening every few days here. And
+      that tells you that explains why I say that the home front has become the war
+      zone, which was not the case in May. And it’s not just Petersburg that’s hit that
+      way, but many other towns when you hear occasionally, oh, this airport or that
+      airport has been closed in Russia, you can be sure the same thing is happening
+      there. And this is not a small deal. If all retail outlets can no longer accept
+      payments because the system is down, that’s a lot of lostv– Napolitano: 6:39 How
+      long was it down for? I mean, did the cab driver eventually achieve GPS coverage
+      that he could take you to your destination? Doctorow: Let’s remember, this was
+      at two o’clock in the morning, so the urgent closing had already passed, and he
+      did get his GPS and he did get us to our to our destination. It’s the whole day,
+      You know, this whole day here in Petersburg, nothing’s working. And that’s not
+      just as simple as it sounds. I was supposed to register with the authorities as
+      a foreigner. That’s a legal requirement which people staying in private homes
+      have to do. And I was down at the municipal offices, and I couldn’t do anything
+      because their system was shut down. So that is the government systems in Petersburg
+      were shut down because the unreliability of Internet service. Napolitano: I guess
+      … I was being for lack of a better word pampered because I was in Moscow. Doctorow:
+      7:43 Well, Moscow and more generally the events that you were going to were among
+      the most prestigious in this country and the authorities would take every possible
+      precaution so that you and the other hundreds if not several thousand foreigners
+      who [glitch] the level of disturbances to normal life that are now going on in
+      Russia because of the drone attacks. Napolitano: 8:16 What about inflation? Have
+      you detected that since you were last in St. Petersburg? Doctorow: No, paradoxically,
+      not at all. However, at the low end– so I did a little survey yesterday already
+      of the supermarkets of different categories, economy, middle class and upper middle
+      class. And at the lower end, and we have a lower end here in this rather prosperous
+      community where I live, because there are residential units, there are apartments,
+      for military officers. There is a cadet corps here, there always was going back
+      to Tsarist times. And so you have foreign military trainees, Russian military
+      trainees in this area, They are generally speaking economy class customers. And
+      the selection, the offering there in the supermarkets, a part of the chain that
+      serves them, has been curtailed considerably since my last visit. Fresh greens,
+      fresh dairy products, less, the variety is curtailed. Napolitano: So how are you
+      able to attribute the paucity of certain products in a grocery store to the prosecution
+      of the war? Doctorow: 9:34 I think it relates to the wallets of their basic clientele.
+      I was about to say that in the upper middle class supermarkets, there has been
+      no curtailment of the product assortment, and they’re getting everything, and
+      I don’t see any price inflation. In fact, to my surprise, I saw a price deflation.
+      I was at the fish counter in this up-market, supermarket chain, and the prices
+      of fish that you know well from the States, like dorad, I think it’s sea bream,
+      I just forget the translation, that it was 35% cheaper than my visit in May. A
+      local specialty fish which people love for the good reason, it’s salmon trout.
+      These are three-pound, four-pound fish that are farmed in Lake Lodega, the biggest
+      natural freshwater lake in Europe. It’s just near Petersburg. They were going
+      for 10, 11, 12 euros a kilogram, when they were 15 and 16 in May. So some prices
+      have come down surprisingly, but that is the wealthiest who would benefit from
+      that. So the real issue for the broader public is the security and the pricing
+      of hydrocarbons, the fuel for the car. And I haven’t gone to stations– I haven’t
+      seen any lines at stations, but I did listen to Business FM, which is a business
+      radio station based in Moscow with a subsidiary here in Petersburg, who yesterday
+      were reporting on a spike in prices for fuel on the commodities exchange in Moscow.
+      And they had the Deputy Prime Minister Novak, who was formerly the energy czar
+      in Russia for 10 years, reporting that, oh, we don’t have any imports of fuel
+      right now. Well, that isn’t comfort to people. Russia is supposed to be an exporter
+      of refined hydrocarbons, not just– Napolitano: 11:36 Have you discerned a grumbling,
+      a mumbling, a disenchantment, a center of frustration, or have you discerned a
+      collective will to sacrifice a la World War II, or have you discerned neither
+      of these in your communications with ordinary folks? Now, we’re not talking about
+      the elites. Doctorow: 11:58 No, I’m dealing with ordinary folks. When I speak
+      about taxi drivers as my source of information, you can’t get more ordinary than
+      that. Napolitano: Correct, correct. But are they disenchanted? Are they grumbling?
+      Are they angry at Putin? Do they wish the war to end quickly? Do they express
+      that to you?Does this happen all the time, or did it just happen at two in the
+      morning when you landed in St. Petersburg? Doctorow: Well, the whole day today
+      it’s been going on. I ordered a taxi this morning from Yandex, which is the main
+      taxi provider across the whole country, very sophisticated technically, and the
+      taxi went to the wrong address. They said, your taxi’s waiting for you, but that
+      wasn’t waiting in front of my house. So it wasn’t working. As to what people are
+      saying, out of the list of possibilities that you gave me, I choose one. And that
+      is people are experiencing difficulty, and they want the war to end quickly. But
+      I didn’t sense that as being criticism of Putin as such or grumbling as such.
+      But it is a feeling that the war should end soon. And that is the people. The
+      people are not the ones who Mr. Putin listens to or has to listen to. He has to
+      listen to the elites. And the elites, I think, are more direct in their analysis
+      of the connection between these daily inconveniences and the way the war is being
+      conducted. Napolitano: 13:25 Let’s talk about the way the war is being conducted.
+      My initial question to you, and you’ve given a very thorough and expansive answer,
+      was: is there any pressure on President Putin to change his military strategy?
+      Now, the West is reporting, and I think you agree with this reporting, but of
+      course, correct me if I’m wrong, that in their 90-minute telephone conversation,
+      which occurred while I was in a Russian television studio last week, President
+      Putin told President Trump, Zelensky better get realistic or Ukraine will be destroyed.
+      Now the use of that word “destroyed”, I don’t know what it is in Russian and I
+      don’t know if there’s more than one variant of it, but translated into English,
+      it’s a very harsh and meaningful word. Is that your understanding as well? That
+      President Putin said to President Trump, tell Zelensky to put up, get realistic,
+      or Ukraine, quote, “will be destroyed”, close quote, translated from the Russian
+      to the English. Doctorow: 14:35 I think that is all accurate. And it’s not just
+      my pulling this out of the thin air. As I’ve mentioned, since you know that one
+      of my points, and I want to be sure that people understand, it’s not my only point
+      of information about Russia, and the little taxi drivers also count, as well as
+      many other sources. And looking, doing supermarket tours as a method of understanding
+      the general economy that the US Embassy and intelligence officers in Moscow knew
+      very well in 1970s and 1980s. So there’s a whole combination of points to the
+      methodology. But listening to television, one week ago, Vladimir Solovyov, who
+      is not just a call show host, like people would imagine running “Meet the Press”
+      in the States, but a person who is in the inner circle of the top management of
+      all Russian news, together with Kiselyev, who is the boss of bosses, and together
+      with Putin himself, whom he has interviewed and so forth. He is at the top and
+      he’s very close to power. And he was saying on Russian television precisely that.
+      “Let’s face it, we are in a war, and this should be not in a special military
+      operation any more. And we should, since the Ukrainians are interested in doing
+      everything possible to harm us, we should not hold back. We should flatten the
+      center of Kiev. We should give a warning to the population of Kiev.” Napolitano:
+      Let me stop you. Who are you quoting or paraphrasing here? Doctoorow: 16:17 Vladimir
+      Solovyov. And the words that he used are precisely the words that you just gave
+      me coming from Trump. So what Solovyov was saying on air was exactly what Putin
+      was saying on a private conversation to Donald Trump. “We will destroy Ukraine.”
+      Napolitano: Wow. Why is Putin saying that now? Is he feeling pressure, running
+      out of patience, running out of manpower, running out of ammunition? Doctorow:
+      No, I think he’s feeling pressure. And as I said, the pressure would be coming
+      from the broader elites in Moscow. I don’t think this is, people will say, “Oh,
+      it’s the oligarchs who are doing it.” I don’t believe that at all. But I do think
+      that the thinking population of Russia is highly concentrated in the city of Moscow,
+      which is the country’s largest city. And that’s outside the narrow circle of Mr.
+      Putin, who are dealing in a collegial way with him, there are a lot of people
+      who are not in a collegial way with him and who have had enough of this war and
+      want to see it over. 17:32 So if we assume, as you do, that Vladimir Solovyev,
+      a highly regarded, serious television personality in Russia, speaks for the Kremlin
+      and says things like, “the population”, I’m quoting you now, “of Kiev should be
+      warned to evacuate the city ahead of Russia’s bombing them flat.” He’s not making
+      that up. He’s not expressing a political opinion. He’s saying what he honestly
+      believes the Kremlin wants him to say or the Kremlin is saying to him. 18:13 The
+      Kremlin wouldn’t allow him to say that if it didn’t back it. It is much too political
+      a statement for this man to be standing up on television and saying because he
+      just dreamed it up himself. No, he is doing the work of his boss, Mr. Putin. Napolitano:
+      Will the special military operation, I don’t know if I’m going to use the proper
+      word, be transformed into a war, which of course would mobilize and affect everybody
+      in Russia in some respect, but without getting into that, at least for now, do
+      you expect this transformation to occur? Doctorow: 18:54 I expected this transformation
+      to occur if– and the whole threat was made in the context of the planned transfer
+      of Tomahawks to Kiev. We don’t know the status of that now. We don’t know the
+      status. It seemed to be in abeyance. It seemed that there will be a meeting in
+      Budapest between Trump and Putin, which would agree the terms for ending the war
+      between them, which would then be imposed on Mr. Zelensky, who could or could
+      not be sitting in the next room. That meeting is now, according to “Financial
+      Times” and some American news sources canceled. According to the Russians, they’re
+      still playing, that is Russians I mean, state television, they’re still pretending
+      it will take place. Mr. Sotnikov was not pretending. Napolitano: Here’s our friend,
+      Foreign Minister Lavrov, on this very topic yesterday. Chris, cut number 14. Lavrov:
+      (English voice over) For quite some time Zelensky aspired to do that. Macron,
+      Starmer or Ursula von der Leyen had been doing that. From some point in time when
+      they stopped mentioning a strategic defeat upon Russia, they started calling for
+      an immediate ceasefire. Back in the day, Macron said that this ceasefire should
+      be unconditional without any preconditions. And among other things, he publicly
+      stated that nobody would be able to restrict the weapons supplies to the Kiev
+      regime. 20:37 That means that when it all became clear, it became clear why they
+      needed this truce. But most importantly, this would mean not only an opportunity
+      to pump the Kiev regime full of weaponry, to incentivize its terrorist attacks,
+      namely attacks against civil infrastructure and civilians in the Russian territory.
+      Napolitano: Before you respond, here’s another one from Foreign Minister Lavrov
+      yesterday, 14, Chris. Lavrov: I was surprised to read today that, according to
+      CNN, the Putin-Trump meeting might be postponed. The dishonesty of many Western
+      media outlets is well known, And CNN is no exception. I want to officially confirm
+      that Russia has not changed its positions compared to the understandings reached
+      during the lengthy negotiations between Putin and Trump in Alaska. We remain fully
+      committed to this formula. Those who are now trying to convince our American colleagues
+      to change their position simply want to stop the war without addressing its causes.
+      That would mean leaving a Nazi-like regime in control of part of Ukraine, a place
+      where the Russian language is banned and the majority population is oppressed.
+      We remain committed to what presidents Putin and Trump agreed upon in Anchorage,
+      a long-term sustainable peace, not a ceasefire that leads nowhere. Napolitano:
+      22:14 We understand that they want to address the root causes. They’ve been consistent
+      on that since day one, for two and a half years now. But do the Russians believe
+      that the Budapest conference is on or off? Doctorow: Well, that depends which
+      Russians you’re talking to. Napolitano: All right, the guy that we just heard
+      is pretty high up there, the foreign minister. Doctorow: Mr. Solovyov is not at
+      that level, but he is not to be ignored. And he went one step further, what Mr.
+      Lavrov didn’t touch upon, which I think you in particular will appreciate and
+      savor, Solovyoo named Marco Rubio as the traitor in the Trump camp who has scuttled
+      the planned summit. Napolitano: Wow. All right, I wish we could carry on, but
+      I have another commitment in a couple of minutes. Gilbert, this is a fascinating
+      conversation with you as all of our conversations have been. I’m deeply grateful
+      for them. I’m especially grateful when you’re able to come on air while you’re
+      traveling. Thank you very much. We’ll look forward to seeing you next week, my
+      friend. Doctorow: Well, my pleasure. Napolitano: Thank you, all the best to you.
+      Fascinating, fascinating stuff. And of course our other guests will be happy to
+      comment on it as the day and this week proceed. The day will proceed with Aaron
+      Maté at 11 o’clock, Phil Giraldi at 3 o’clock, and Professor Jeffrey Sachs at
+      5.30 this evening. 23:51 Judge Napolitano for “Judging Freedom”.'
+    one_sentence_summary: In a discussion on "Judging Freedom," Dr. Gilbert Doctorow
+      suggests that while President Putin faces pressure from broader Moscow elites
+      to expedite the war's resolution, his immediate colleagues remain united, and
+      the general public is increasingly concerned about the war's disruption to their
+      lives.
+    paragraph_summary: In a discussion on "Judging Freedom," Judge Andrew Napolitano
+      interviews Dr. Gilbert Doctorow about the pressures facing President Putin regarding
+      the ongoing war. Doctorow suggests that while Putin's immediate circle remains
+      united, broader elites in Moscow are exerting pressure for a quicker resolution
+      to the conflict, as ordinary Russians are increasingly affected by the war's disruptions.
+      Napolitano, who recently visited Moscow, challenges Doctorow's observations, noting
+      a lack of visible hardship during his stay, such as gas shortages or high prices.
+      Doctorow counters that the situation in Moscow has deteriorated since his last
+      visit in May, highlighting the city's effective management under Mayor Sobyanin,
+      which may mask the war's negative impact on the general population.
+    published: '2025-10-22T19:26:26+00:00'
+  - title: '‘Judging Freedom’ edition of 22 October: Will Putin change tactics?'
+    url: https://gilbertdoctorow.com/2025/10/22/judging-freedom-edition-of-22-october-will-putin-change-tactics/
+    text: ( https://www.youtube.com/watch?v=vSUnczekIfc ) I am pleased to share with
+      the Community the link to the interview with Judge Andrew Napolitano that we completed
+      just a few minutes ago. Presently and until my return to Belgium on 6 November
+      I am unable to access youtube videos and therefore I present this interview to
+      you sight unseen. However; we discussed several very important issues that are
+      worthy of your time – the disruption of ordinary life here in Petersburg resulting
+      from the frequent Ukrainian drone attacks on the metropolitan area, who may be
+      pressuring Vladimir Putin to change tactics on conduct of the war and what is
+      the fate of the heralded summit in Budapest
+    one_sentence_summary: The article shares an interview with Judge Andrew Napolitano
+      discussing the impact of Ukrainian drone attacks on Petersburg, potential pressures
+      on Vladimir Putin regarding war tactics, and the future of the Budapest summit.
+    paragraph_summary: In a recent interview with Judge Andrew Napolitano, key topics
+      were discussed regarding the ongoing situation in Petersburg, where frequent Ukrainian
+      drone attacks are disrupting daily life. The conversation also touched on potential
+      pressures on Vladimir Putin to alter his military strategies and the uncertain
+      future of the anticipated summit in Budapest. The interview highlights significant
+      geopolitical issues and the impact of the conflict on local communities.
+    published: '2025-10-22T13:01:09+00:00'
+  - title: '‘Judging Freedom’ edition of 22 October: Will Putin change tactics?'
+    url: https://gilbertdoctorow.com/2025/10/22/judging-freedom-edition-of-22-october-will-putin-change-tactics/
+    text: ( https://www.youtube.com/watch?v=vSUnczekIfc ) I am pleased to share with
+      the Community the link to the interview with Judge Andrew Napolitano that we completed
+      just a few minutes ago. Presently and until my return to Belgium on 6 November
+      I am unable to access youtube videos and therefore I present this interview to
+      you sight unseen. However; we discussed several very important issues that are
+      worthy of your time – the disruption of ordinary life here in Petersburg resulting
+      from the frequent Ukrainian drone attacks on the metropolitan area, who may be
+      pressuring Vladimir Putin to change tactics on conduct of the war and what is
+      the fate of the heralded summit in Budapest
+    one_sentence_summary: The article shares an interview with Judge Andrew Napolitano
+      discussing the impact of Ukrainian drone attacks on Petersburg, potential pressures
+      on Vladimir Putin regarding war tactics, and the future of the Budapest summit.
+    paragraph_summary: In a recent interview with Judge Andrew Napolitano, key topics
+      were discussed regarding the ongoing situation in Petersburg, where frequent Ukrainian
+      drone attacks are disrupting daily life. The conversation also touched on potential
+      pressures on Vladimir Putin to alter his military strategies and the uncertain
+      future of the anticipated summit in Budapest. The interview highlights significant
+      geopolitical issues and the impact of the conflict on local communities.
+    published: '2025-10-22T13:01:09+00:00'
   - title: Transcript of the IranTalks interview
     url: https://gilbertdoctorow.com/2025/10/21/transcript-of-the-irantalks-interview/
     text: 'Transcript submitted by a reader https://youtu.be/GNQZk8toMwE?si=ZrszoNr84clVgPbx

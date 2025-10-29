@@ -7,16 +7,58 @@ description: "Retired Indian ambassador with deep Eurasia/Middle East experience
 websites:
   - https://indianpunchline.com
 summary: |
-  Amidst ongoing global realignments, India’s foreign policy continues to be shaped by both external pressure and shifting regional dynamics. The most recent development centers on the end of India’s Russian oil purchases, a move that has drawn attention in Washington and Moscow alike.
+  The geopolitical landscape remains in flux as the United States, Russia, India, and China navigate shifting alliances and strategic recalibrations. Over the past weeks, U.S. President Donald Trump’s foreign policy maneuvers—particularly regarding Russia and India—have continued to generate uncertainty, while India’s position between major powers is increasingly complex.
   
-  According to **M. K. Bhadrakumar**, US President Donald Trump publicly claimed that Prime Minister Modi has ceased all Russian oil imports, a statement that signals both American satisfaction and an attempt to showcase diplomatic leverage. While the Indian government has not officially confirmed a complete halt, Bhadrakumar notes that the US is keen to project this as a foreign policy win, especially as Trump faces domestic and international scrutiny. The underlying motivation, as Bhadrakumar suggests, is to reinforce the narrative of US influence over India’s strategic decisions—an approach that is likely to continue as Washington seeks to contain Russian revenues and assert its primacy in South Asia.
+  The latest analysis by **M. K. Bhadrakumar** highlights President Trump’s wavering stance on sanctions against Russian oil and potential military escalation in Ukraine. Despite earlier rhetoric, Trump appears hesitant to fully enforce punitive measures or commit to direct action, even as Russia consolidates its military advantage. Bhadrakumar notes, “Trump may not fully implement these measures despite Russian military advantages,” indicating a likely continuation of the current stalemate in Ukraine. This hesitancy is interpreted as a signal to Moscow that Washington’s resolve may be softening, potentially emboldening Russian strategy in the region.
   
-  Meanwhile, the regional security environment remains tense. Modi’s recent Diwali visit to military personnel near the Indo-Pak border in Kutch, Gujarat, underscores the government’s focus on border security and military readiness. The revitalization of the Sir Creek issue, dormant for years, points to renewed friction with Pakistan over maritime boundaries. Bhadrakumar highlights that such gestures are not merely symbolic but reflect deeper anxieties about stability along India’s western frontier.
+  On the India front, the saga over Russian oil imports appears to be reaching its conclusion. Trump has publicly claimed that Prime Minister Modi has ceased India’s purchases of Russian oil, a move that, according to **Bhadrakumar**, may be more about optics than substance. The underlying motivation seems to be Trump’s desire to showcase diplomatic leverage over India, while also placating domestic and international critics of his Russia policy. However, the actual impact on India-Russia energy ties remains ambiguous, with Bhadrakumar suggesting that “the motivations behind Trump’s statement are open to speculation.”
   
-  On a broader scale, the US reimposition of sanctions on India’s Chabahar Port project in Iran is viewed as a calculated move to limit India’s strategic autonomy and regional connectivity. Bhadrakumar interprets this as a significant shift, with Washington leveraging economic tools to constrain New Delhi’s options in West Asia and Central Asia.
+  Meanwhile, the broader context sees India recalibrating its foreign relations. Recent months have seen New Delhi distance itself from the so-called ‘Tianjin spirit’ with China, instead pivoting toward closer engagement with the European Union. This shift is partly a response to perceived U.S. favoritism toward China, as seen in ongoing trade discussions between U.S. Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng. India’s discomfort at multilateral forums and its search for new partnerships underscore a desire for greater strategic autonomy.
   
-  Looking ahead, the majority of analysis suggests that India will face increasing pressure to align its policies with US interests, particularly as the American administration seeks clear wins in its foreign policy portfolio. However, India’s leadership is likely to resist overt subordination, seeking instead to balance ties with multiple powers. Bhadrakumar predicts with high confidence that “the era of easy hedging is over”—India will most definitely be compelled to make harder choices as the global order fragments further. The coming weeks are expected to see continued US-India engagement, but with persistent undercurrents of mistrust and strategic calculation.
+  Looking ahead, the majority view across sources is that the U.S. is unlikely to escalate militarily in Ukraine or enforce the harshest sanctions on Russian oil—there is a high chance that Trump’s current posture will persist unless there is a dramatic change on the ground. India’s balancing act between great powers is expected to continue, with a gradual but steady tilt toward Europe and away from over-reliance on either Washington or Moscow. As Bhadrakumar concludes, “the trends point to a multipolar order in which India seeks to maximize its options rather than align too closely with any single bloc.” This scenario is quite likely to define the coming months.
 articles:
+  - title: Trump may not follow through on Russian oil or Tomahawk
+    url: https://www.indianpunchline.com/trump-may-not-follow-through-on-russian-oil-or-tomahawk/
+    text: A filling station of Rosneft, Russia’s biggest oil company, which has been
+      put under sanctions by the Trump Administration (File photo) The US President
+      Donald Trump has seemingly shifted gear in the US strategy to stop Russia on its
+      tracks from creating new facts on the ground in Ukraine. Russian forces have the
+      upper hand … Continue reading "Trump may not follow through on Russian oil or
+      Tomahawk" The post Trump may not follow through on Russian oil or Tomahawk appeared
+      first on Indian Punchline .
+    one_sentence_summary: The article discusses President Trump's potential shift in
+      U.S. strategy regarding sanctions on Russian oil and military actions in Ukraine,
+      suggesting he may not fully implement these measures despite Russian military
+      advantages.
+    paragraph_summary: The article discusses a potential shift in U.S. strategy under
+      President Donald Trump regarding Russia's actions in Ukraine, particularly in
+      light of sanctions imposed on Rosneft, Russia's largest oil company. Despite the
+      sanctions, there are indications that Trump may not fully commit to further measures
+      against Russian oil or the deployment of Tomahawk missiles, suggesting a more
+      cautious approach to countering Russian influence and military operations in the
+      region.
+    published: '2025-10-25T07:06:45+00:00'
+  - title: Trump may not follow through on Russian oil or Tomahawk
+    url: https://www.indianpunchline.com/trump-may-not-follow-through-on-russian-oil-or-tomahawk/
+    text: A filling station of Rosneft, Russia’s biggest oil company, which has been
+      put under sanctions by the Trump Administration (File photo) The US President
+      Donald Trump has seemingly shifted gear in the US strategy to stop Russia on its
+      tracks from creating new facts on the ground in Ukraine. Russian forces have the
+      upper hand … Continue reading "Trump may not follow through on Russian oil or
+      Tomahawk" The post Trump may not follow through on Russian oil or Tomahawk appeared
+      first on Indian Punchline .
+    one_sentence_summary: The article discusses President Trump's potential shift in
+      U.S. strategy regarding sanctions on Russian oil and military actions in Ukraine,
+      suggesting he may not fully implement these measures despite Russian military
+      advantages.
+    paragraph_summary: The article discusses a potential shift in U.S. strategy under
+      President Donald Trump regarding Russia's actions in Ukraine, particularly in
+      light of sanctions imposed on Rosneft, Russia's largest oil company. Despite the
+      sanctions, there are indications that Trump may not fully commit to further measures
+      against Russian oil or the deployment of Tomahawk missiles, suggesting a more
+      cautious approach to countering Russian influence and military operations in the
+      region.
+    published: '2025-10-25T07:06:45+00:00'
   - title: India’s Russian oil saga is indeed ending
     url: https://www.indianpunchline.com/indias-russian-oil-saga-is-indeed-ending/
     text: Prime Minister Narendra Modi at a press conference with US President Donald

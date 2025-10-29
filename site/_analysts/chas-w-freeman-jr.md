@@ -7,24 +7,55 @@ description: "Retired US diplomat and China/Middle East expert; realist voice on
 websites:
   - https://chasfreeman.net
 summary: |
-  As the global order continues its transformation amid what many describe as a period of Western decline, the latest analyses underscore the deepening complexity of international relations, particularly between the United States, China, and Russia. The ongoing recalibration of power is marked by persistent tensions, shifting alliances, and a growing recognition of the limitations of traditional Western strategies.
+  Amid accelerating global realignment, recent analyses highlight deepening fractures in U.S. foreign policy and the international order. As the West’s dominance wanes, the United States faces mounting challenges in its relationships with both allies and rivals, particularly in the Middle East and with China.
   
-  **Sino-American Relations and Western Decline**
+  The most recent remarks by **Chas W. Freeman, Jr.** at the Arab Center in Washington, DC, underscore growing debate within U.S. policy circles about the prioritization of Israeli interests over broader American strategic objectives. Freeman questions whether current U.S. support for Israel undermines its standing and effectiveness in the wider Arab world, advocating for a recalibrated approach that better balances regional interests. He argues, “A shift in U.S. policy could lead to more effective diplomacy and stability in the region,” suggesting that the longstanding status quo is increasingly untenable.
   
-  Ambassador **Chas W. Freeman, Jr.** highlights that the current era is defined by "Sino-American contention amid a period of Western decline," with both challenges and opportunities emerging from the evolving global landscape. He stresses the urgent need for a nuanced diplomatic approach, warning that simplistic antagonism only deepens misunderstandings and risks escalation. Freeman notes that the U.S. tendency to rely on military solutions and protectionist policies is undermining its own competitiveness and global standing, while inadvertently empowering China and its partners.
+  Turning to the global power landscape, Freeman’s July address to Chinese leaders frames the ongoing Sino-American contention as symptomatic of a broader “Western decline.” He notes that the international system is undergoing profound transformation, with China’s rise and the U.S.’s relative stagnation creating both risks and opportunities. Freeman calls for “a nuanced approach to diplomacy and cooperation,” warning that failure to adapt could exacerbate instability.
   
-  **Ukraine and the European Security Order**
+  On the Ukraine conflict, Freeman’s recent interventions reiterate that Western strategies have failed to achieve their intended goals. He contends that the war has not weakened Russia, but instead devastated Ukraine and entrenched Moscow’s influence. Without a realistic peace framework that addresses Russian security concerns, he warns, “the situation will remain dire, leading to further suffering and potential dismemberment of Ukraine.” This critique reflects a growing consensus that the West’s approach requires urgent reassessment.
   
-  On the European front, Freeman critiques the West's handling of the Ukraine conflict, arguing that the war has failed to weaken Russia and has instead devastated Ukraine. He asserts that Western objectives—isolating Russia and integrating Ukraine into a hostile alliance—remain unfulfilled. Without a realistic peace plan that addresses Russia's security concerns, Freeman warns that Ukraine faces continued suffering and potential dismemberment. He calls for a reassessment of Western strategy, advocating for a framework that includes Russia in European security discussions to achieve lasting peace.
-  
-  **Emergence of a Multi-Nodal World Order**
-  
-  Freeman also points to the rise of a "multi-nodal" world order, where power is distributed across interconnected centers rather than along simple bipolar or multipolar lines. This shift is challenging the West's traditional dominance and requires a reevaluation of global governance structures. The U.S.'s reliance on sanctions and militarization is seen as increasingly counterproductive, risking further isolation as regional powers assert themselves.
-  
-  **Trends and Predictions**
-  
-  Looking ahead, Freeman most definitely predicts that without a fundamental shift toward diplomacy and inclusive dialogue, the West risks marginalization in the emerging global order. There is a high chance that continued military posturing and exclusionary policies will lead to greater instability, both in Europe and the Asia-Pacific. The majority view across sources is that only a strategic embrace of empathy, negotiation, and realistic engagement with rivals can prevent further fragmentation and conflict in the international system.
+  **Trends and Predictions:**  
+  The overarching trend is a shift toward a more fragmented, “multi-nodal” world order, with the U.S. increasingly challenged by both adversaries and the limitations of its own policies. There is a high chance, as Freeman asserts, that unless Washington rethinks its strategies—especially regarding Israel, China, and Russia—it will continue to lose influence and face mounting instability. Most definitely, the need for renewed diplomacy and pragmatic engagement is paramount; otherwise, the risk of protracted conflict and marginalization of the West will only grow.
 articles:
+  - title: Israel or America First?
+    url: https://chasfreeman.net/2631-2/
+    text: Israel or America First? Address to the Arab Center, Washington, DC Ambassador
+      Chas W. Freeman, Jr. (USFS, Ret.) By Video, 16 October 2025 I served my country
+      for thirty years as a diplomat.  Diplomats are realists who seek to solve problems
+      and advance national interests by measures short of war.  …
+    one_sentence_summary: In his address to the Arab Center, Ambassador Chas W. Freeman,
+      Jr. emphasized the importance of prioritizing national interests and diplomatic
+      solutions over military action in U.S. foreign policy, particularly regarding
+      relations with Israel and the Arab world.
+    paragraph_summary: In his address to the Arab Center in Washington, DC, Ambassador
+      Chas W. Freeman, Jr. reflects on his thirty years of diplomatic service, emphasizing
+      the role of diplomats as realists focused on problem-solving and advancing national
+      interests through non-military means. He discusses the complex relationship between
+      the U.S. and Israel, questioning whether American foreign policy prioritizes Israel
+      over broader national interests. Freeman advocates for a more balanced approach
+      that considers the perspectives and needs of Arab nations, suggesting that a shift
+      in U.S. policy could lead to more effective diplomacy and stability in the region.
+    published: '2025-10-28T19:26:36+00:00'
+  - title: Israel or America First?
+    url: https://chasfreeman.net/2631-2/
+    text: Israel or America First? Address to the Arab Center, Washington, DC Ambassador
+      Chas W. Freeman, Jr. (USFS, Ret.) By Video, 16 October 2025 I served my country
+      for thirty years as a diplomat.  Diplomats are realists who seek to solve problems
+      and advance national interests by measures short of war.  …
+    one_sentence_summary: In his address to the Arab Center, Ambassador Chas W. Freeman,
+      Jr. emphasized the importance of prioritizing national interests and diplomatic
+      solutions over military action in U.S. foreign policy, particularly regarding
+      relations with Israel and the Arab world.
+    paragraph_summary: In his address to the Arab Center in Washington, DC, Ambassador
+      Chas W. Freeman, Jr. reflects on his thirty years of diplomatic service, emphasizing
+      the role of diplomats as realists focused on problem-solving and advancing national
+      interests through non-military means. He discusses the complex relationship between
+      the U.S. and Israel, questioning whether American foreign policy prioritizes Israel
+      over broader national interests. Freeman advocates for a more balanced approach
+      that considers the perspectives and needs of Arab nations, suggesting that a shift
+      in U.S. policy could lead to more effective diplomacy and stability in the region.
+    published: '2025-10-28T19:26:36+00:00'
   - title: Sino-American Contention in the Era of Western Decline
     url: https://chasfreeman.net/sino-american-contention-in-the-era-of-western-decline/
     text: Sino-American Contention in the Era of Western Decline Remarks to Chinese

@@ -7,16 +7,630 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  The past weeks have seen mounting scrutiny of both domestic and international governance, with Australia, the UK, and Israel each facing crises of legitimacy and accountability. Recent developments highlight the persistence of institutional opacity and the intensifying consequences of policy decisions in higher education, Middle Eastern conflict, and Western political leadership.
+  The past 24 hours have seen intensifying scrutiny of media independence and humanitarian law in the context of the ongoing Gaza conflict, as well as renewed attention to U.S. interventionism in Latin America.
   
-  Most recently, **Binoy Kampmark** draws attention to the entrenched disconnect between Australian university executives and their academic communities. Despite calls for reform, university governance remains dominated by high-paid administrators, with little meaningful progress on transparency or staff welfare. Kampmark notes, “the oligarchic tendencies of university management are unlikely to be curbed by the current round of reforms,” reflecting widespread skepticism about the effectiveness of proposed changes. This trend is expected to continue, with a high chance that staff and student grievances will persist into 2026.
+  Australia’s National Press Club has come under fire for its abrupt cancellation of a scheduled address by war correspondent Chris Hedges, who was set to discuss media coverage of the Gaza war. **Binoy Kampmark** notes that this move has “raised questions about bias and the influence of lobby groups on media narratives,” particularly regarding the risks faced by Palestinian journalists. The incident is widely viewed as symptomatic of broader pressures on Western media to align with pro-Israel positions, further marginalizing Palestinian voices and critical perspectives.
   
-  In the UK, the Labour government under Sir Keir Starmer is experiencing a rapid erosion of public support, despite its landslide victory in 2024. Internal dissent and the rise of Nigel Farage’s Reform UK Party are fueling speculation about Starmer’s leadership. According to **Kampmark**, “the media’s magnification of Starmer’s woes has emboldened rivals and deepened party fractures.” There is a high chance of a leadership challenge within Labour in the coming months, though the party’s overall dominance is not immediately threatened.
+  Meanwhile, the International Court of Justice (ICJ) continues to address the deepening humanitarian crisis in Gaza. According to **Binoy Kampmark**, the court is issuing “provisional orders and advisory opinions” that underscore Israel’s obligations as an occupying power to facilitate humanitarian aid. However, both Israeli authorities and the U.S. remain resistant to the involvement of UNRWA and the broader international community in aid distribution, fueling concerns about the politicization of humanitarian relief and the worsening conditions on the ground.
   
-  On the international stage, Israel’s actions in Gaza continue to draw condemnation. The UN’s recent finding that Israel is responsible for genocide in Gaza, as reported by **Kampmark**, has intensified calls for accountability. Meanwhile, the US-backed peace plan for Gaza proposes a temporary governance structure but is widely viewed as entrenching Israeli dominance. The majority of analysts agree that, despite international pressure, substantive change in Israeli policy is unlikely in the short term. There is high confidence that violence and humanitarian crises in Gaza will persist, with little movement toward a durable peace.
+  In Latin America, the Trump administration’s military actions against Venezuelan vessels in international waters have escalated. **Binoy Kampmark** highlights that these strikes, justified as counter-narcotics operations, are widely interpreted as a pretext for broader regime change efforts. The legality of these actions is increasingly questioned, with many analysts warning of a deliberate U.S. strategy to reassert control over the region under the guise of anti-drug operations.
   
-  In summary, the prevailing trends point to deepening institutional crises and a lack of effective reform across multiple sectors. The likelihood of significant policy shifts remains low, with most developments reinforcing existing power structures. I guarantee that, barring unforeseen shocks, these patterns of governance and resistance will persist into the near future.
+  **Trends and Predictions:**  
+  The clampdown on dissenting media voices in Western democracies is likely to intensify as the Gaza conflict drags on, with a high chance of further marginalization of critical reporting. The ICJ’s involvement in Gaza is expected to increase international pressure on Israel, but with only a medium chance of meaningful change in the short term, given U.S. backing for Israeli policies. In Latin America, there is a high chance that U.S. interventionism will escalate, particularly if the Trump administration continues to frame its actions as anti-narcotics operations, despite growing international legal concerns. Overall, the majority of analysts agree that these developments signal a period of heightened geopolitical tension and shrinking space for independent scrutiny.
 articles:
+  - title: 'Inchoate Blobs: The National Press Club Cancels Chris Hedges'
+    url: https://www.counterpunch.org/2025/10/24/inchoate-blobs-the-national-press-club-cancels-chris-hedges/
+    text: 'It seemed an odd thing to begin with. Australia’s National Press Club is
+      a rather ordinary, stuffy institution, where enlightened, let alone contentious
+      thought, rarely intrudes. For those guests of unorthodox disposition, questions
+      of establishment swinishness await to douse any fiery rebelliousness. That they
+      had invited war correspondent Chris Hedges, former Middle East Bureau Chief of
+      The New York Times, was itself a surprise. Did they not get the catalogue of his
+      recent writings and addresses, notably on how the Western media have covered the
+      war in Gaza?
+
+
+      With three weeks to go, Hedges received the news that he would not, after all,
+      be allowed to give his address. In its October 4 statement, the slippery NPC obfuscated
+      and deflected, first suggesting that the initial date had been “tentatively agreed
+      to”. The club was in the business of constantly reviewing its schedule (that’s
+      how reliable they are), and a decision was made “when more details of the address
+      were made available”. (The proposed title of the talk, “The Betrayal of Palestinian
+      Journalists” might have been a clue.) That schedule, it was suggested, had bulked
+      up with individuals conversant with the Gaza conflict and Palestinian recognition:
+      Chris Sidoti and Ben Saul (on Palestinian recognition), and UNICEF Global Spokesperson
+      James Elder and Judge Navi Pillay on the war, slated for future addresses.
+
+
+      Sidoti and Pillay are members of the United Nations Independent International
+      Commission of Inquiry on the Occupied Palestinian Territory, including East Jerusalem,
+      and Israel. In September, the Commission published their lacerating report, concluding
+      that Israel had committed genocide in the Gaza Strip. Of the five elements outlined
+      in the 1948 Genocide Convention, it had violated four. Its political and military
+      leaders had been responsible for incitement; the Israeli authorities had failed
+      to punish them; and “circumstantial evidence of genocidal intent and that genocidal
+      intent was the only reasonable inference that could be drawn from the totality
+      of the evidence.” The Israeli Ministry of Foreign Affairs was terse in response:
+      the authors, in publishing a report “distorted” and “false”, had acted as “Hamas
+      proxies, notorious for their antisemitic positions”.
+
+
+      To have Hedges address the stuffed shirts, it would seem, was a case of over-egging
+      the pudding, or, as it were, adding too much tang. But to parry suggestions of
+      bias and being compromised, the NPC went on to state with weak conviction that
+      its board and the Chief Executive Officer Maurice Reilly made “decisions on speakers
+      independently.” No “outside” pressure had been brought to bear on the board regarding
+      the war in Gaza. The inference that the decision to withdraw the offer to Hedges
+      had been the sordid result of appeasement and work of lobby groups was “false,
+      exemplified by the speakers we have had on the issue.” Reilly, in separate remarks,
+      explained that the offer had been withdrawn “in the interest of balancing out
+      our program”.
+
+
+      What was to be made about the proposal that the balancing act in question would
+      be the Israeli ambassador to Australia, Amir Maimon? “The inference that Mr Hedges
+      was being cancelled to make way for the Israeli ambassador is also false and without
+      basis.” The board could not have done a better job of hoisting themselves by their
+      own petard. And if such organisations as the Australian Broadcasting Corporation
+      can be swayed by lobby groups to remove journalists who challenge the Israeli
+      narrative on Gaza, confidence in the impartiality of the NPC can hardly be brimming.
+
+
+      The cancellation merely served to embarrass the press clubbers while adding even
+      more exposure to the Hedges train. On October 20, he delivered the address intended
+      for the NPC to the New South Wales Teachers Federation. The theme should have
+      resonated for those serious about journalism, notably war correspondents. But
+      authentic war correspondents are a rare and diminishing breed.
+
+
+      As Hedges says in his address, two types present themselves. “The first type does
+      not attend press conferences. They do not beg generals and politicians for interviews.
+      They take risks to report from combat zones. They send back to their viewers and
+      readers what they see, which is almost always diametrically opposed to official
+      narratives.” The second type, far more abundant in number, are those of the “inchoate
+      blob of self-identified war correspondents who play at war.” They tend to be barnacled
+      occupants of mahogany ridge, on the sauce and expenses, and keen to stay out of
+      harm’s way. It is that very blob, so devastatingly satirised by Evelyn Waugh in
+      Scoop, which had sought the views of officials in background briefings and press
+      conferences, willingly collaborated with appointed minders of authority “who impose
+      restrictions and rules that keep them out of combat.”
+
+
+      In the Gaza War, Palestinian journalists had proven to be the mortal enemies of
+      such frightful “poseurs”. In exposing them as “toadies and sycophants”, they had
+      drawn that blob’s ire in print and broadcast. “Palestinian reporters expose Israeli
+      atrocities and implode Israeli lies. The rest of the press does not.” For that
+      service to journalism, they had paid with their lives in the hundreds (one account
+      suggests 245, another 273).
+
+
+      These staggering numbers dwarf the scribbling dead in cumulative numbers across
+      several previous conflicts. Hedges draws from a report published in April this
+      year by the Costs of War project at the Watson Institute for International & Public
+      Affairs at Brown University. Authored by Nick Turse, it found that since October
+      7, 2023, the war in Gaza had taken the lives of more members of the fourth estate
+      than the US Civil War, both World Wars, the Korean War, the Indochina Wars, the
+      Yugoslav Wars in the 1990s and 2000s, and the post-9/11 war in Afghanistan combined.
+
+
+      Examples of shabby, disingenuous reporting – there are many to pick from – also
+      feature. Hedges points to the woeful assessments by the press stable on the August
+      slaying of Middle East Eye journalists Mohamed Salama and Ahmed Abu Aziz, Reuters
+      photojournalist Hussam al-Masri and freelancers Moaz Abu Taha and Mariam Dagga
+      in August. The “double tap” strike on Nasser Hospital not only killed the journalists
+      but 15 others, including health workers. The talking points of the Israeli authorities
+      were dutifully recorded. From CNN, we hear the IDF claim that the “hospital strike
+      was aimed at Hamas camera”. Reuters repeated the line. From AFP, “Israel army
+      says six ‘terrorists’ killed in Monday strikes on Gaza hospital”.
+
+
+      Such work was very much the poisonous fruit of Israel’s military unit known as
+      the “Legitimisation Cell”, an entity tasked with blackening the name of Palestinian
+      journalists as Hamas operatives. The libellous exercise also served to justify
+      extrajudicial murder. That revelation, Hedges notes, came from the productive
+      labours of the Tel-Aviv-based magazine +972, an outfit that knows a thing or two
+      about war journalism. With all this, the only point of curiosity is why Hedges
+      wished to address NPC in the first place? Even inchoate blobs can exert a pull.'
+    one_sentence_summary: Australia's National Press Club controversially canceled an
+      invitation for war correspondent Chris Hedges to speak about the coverage of the
+      Gaza conflict, raising questions about bias and the influence of lobby groups
+      on media narratives, particularly regarding the dangers faced by Palestinian journalists.
+    paragraph_summary: Australia's National Press Club (NPC) faced controversy after
+      canceling an invitation to war correspondent Chris Hedges, who was set to speak
+      on the media's coverage of the Gaza conflict, particularly regarding the treatment
+      of Palestinian journalists. The NPC's decision, which they attributed to a desire
+      for program balance and denied any external pressure, raised suspicions of bias,
+      especially as it coincided with the scheduling of the Israeli ambassador to Australia.
+      Hedges, who later delivered his address to the New South Wales Teachers Federation,
+      criticized mainstream media for failing to accurately report on the war and highlighted
+      the dangers faced by Palestinian journalists, noting that their deaths in the
+      current conflict surpassed those in numerous historical wars combined. He emphasized
+      the stark difference between genuine war correspondents, who report from the front
+      lines, and those who merely engage with official narratives, ultimately questioning
+      the integrity of the NPC's decision-making process and the broader media landscape.
+    published: '2025-10-24T05:53:20+00:00'
+  - title: 'Reviving UNRWA’s Remit: The ICJ, Israel and Humanitarian Aid in Gaza'
+    url: https://www.counterpunch.org/2025/10/23/reviving-unrwas-remit-the-icj-israel-and-humanitarian-aid-in-gaza/
+    text: 'Few times in its history has the International Court of Justice been this
+      busy, if ever. For anyone ignorant of the world court’s existence till now, it
+      has blanketed news coverage with provisional orders and advisory opinions on the
+      humanitarian catastrophe in Gaza. Each order is accompanied by another layering
+      of exasperation and, it must be said, hope that the situation on the ground will
+      somehow alter. The topics have been sanguinary and cruel in their consistency:
+      starvation, the restriction of humanitarian aid, policies of racial segregation
+      and apartheid, population displacements masquerading as evacuation orders and
+      the possibility (to be officially ruled upon) that Israel has committed genocide
+      in the enclave.
+
+
+      The October 22 advisory opinion is the first to be handed down after the cease
+      fire centred on the straining 20-point peace plan of President Donald Trump. The
+      view of the Court was sought by the United Nations General Assembly in December
+      on Israel’s obligations as both a UN member and an occupying power, towards the
+      body’s agencies and other relevant international entities operating in Gaza and
+      the occupied West Bank, including East Jerusalem.
+
+
+      The request was prompted by Israel’s passage of two laws on October 28, 2024 banning
+      any activity by the United Nations Relief and Works Agency for Palestine Refugees
+      in the Near East (UNRWA) on Israeli soil and areas of its control and prohibiting
+      state agencies from having contact with UNRWA. These actions effectively excluded
+      an aid body familiar with the vicissitudes and problems of supplying assistance
+      to Palestinian civilians, leaving the way open for the murderous invigilating
+      model of distribution run by the US-Israeli backed Gaza Humanitarian Foundation.
+      (The Israeli submission thought that arrangement perfectly suitable, despite the
+      mass killings of aid recipients by the IDF and woefully inadequate distribution
+      channels.)
+
+
+      The hoary contention by Israeli authorities is that the aid organisation has been
+      an active nest of Hamas militants, some of whom participated in the October 7,
+      2023 attacks. Despite the findings of the Office of International Oversight Services
+      (OIOS) that such infiltration had not taken place to any appreciable degree, or
+      the more thorough review on the neutrality of the organisation undertaken in the
+      Colonna Report, obstinacy remains. (The Colonna Report, while noting breaches
+      of neutrality in UNRWA in the expression of political opinions by staff and the
+      use of certain textbooks, identified “a significant number of mechanisms and procedures
+      to ensure compliance with humanitarian principles, with the emphasis on the principle
+      of neutrality, and that it possesses a more developed approach to neutrality than
+      other similar UN and NGO entities”.)
+
+
+      Of enormous irritation to the Israeli authorities is the continued insistence
+      on cooperation with UNRWA. Israel’s obligations, along with other Member States,
+      to cooperate with the UN “with respect to the question of Palestine is of paramount
+      importance in addressing the critical situation on the ground since October 2023,
+      in which the United Nations, together with other actors, plays a crucial role
+      in delivering and co-ordinating humanitarian aid and development assistance to
+      the Occupied Palestinian Territory, in particular through UNRWA in the Gaza Strip”.
+
+
+      While Israel was, as an occupying power, free to pick the humanitarian organisations
+      of its own choosing, Article 59 of the Fourth Geneva Convention limited “an occupying
+      Power’s discretion in so far as it requires that Power to allow and facilitate
+      sufficient relief to ensure that the population is adequately supplied.” UNRWA,
+      in that regard, has shown itself to be “an indispensable provider of humanitarian
+      relief in the Gaza Strip” thereby obligating Israel to deal with it.
+
+
+      In brutal contrast, the Gaza Humanitarian Foundation, along with the private security
+      firm Safe Reach Solutions, had overseen a constricted aid system characterised
+      by “chaotic and militarized distribution centres unable to deliver aid at the
+      scope and scale needed.” As of September 2025, over 2,100 Palestinians had been
+      killed seeking humanitarian assistance at or in proximity to the distribution
+      sites. Israel, furthermore, was prohibited from restricting and limiting the presence
+      and activities of the UN, other international organisations and third States “in
+      and in relation to the Occupied Palestinian Territory to a degree that creates,
+      or contributes to, conditions of life that would force the population to leave.”
+      But leave, they have, by the hundreds of thousands, displaced, dislocated and
+      relocated.
+
+
+      On a logistical level, the Court noted that Israel, as an occupying power, was
+      unconditionally obligated by Article 59 “to agree to and facilitate relief schemes
+      if the local population is inadequately supplied”. While States were within their
+      rights to inspect consignments of aid, this did not extend to impeding “the delivery
+      of relief consignments in a manner that undermines the performance of [their]
+      obligations as set out in Article 59.”
+
+
+      Israel could count on the dissenting view of one judge – that of Julia Sebutinde.
+      The familiar talking notes were issued: her fellow justices had given inadequate
+      consideration to the infiltration of UNRWA by Hamas. Israel retained discretion
+      to determine how humanitarian aid would be distributed and was hardly obligated
+      to do so through UN aid channels, especially those “acting contrary to the Charter’s
+      principles”.
+
+
+      In its savage response, the Israeli Foreign Ministry continued to rage about 1,400
+      Hamas operatives in UNRWA whose existence it has never confirmed, dismissing the
+      legal outcome as “yet another political attempt to impose political measures against
+      Israel under the guise of ‘International Law.’” With unequivocal solidarity, the
+      US Department of State showed contempt verging on the puerile, complaining that
+      the judges issued an opinion that “unfairly bashes Israel and gives UNRWA a free
+      pass for its deep entanglement with and material support for Hamas terrorism.”
+
+
+      When a UN member state takes issue with any injunction of international law, the
+      affirmed tendency, especially for the powerful, is to dismiss such strictures
+      as all sham and naked politics. Despite this, the body of jurisprudence directing
+      states to protect civilian populations and avoid murdering and starving them,
+      continues to swell.'
+    one_sentence_summary: The International Court of Justice is currently addressing
+      the humanitarian crisis in Gaza through a series of provisional orders and advisory
+      opinions, highlighting Israel's obligations as an occupying power to facilitate
+      humanitarian aid, while facing pushback from Israeli authorities and the U.S.
+      regarding the involvement of UNRWA and the distribution of aid.
+    paragraph_summary: The International Court of Justice (ICJ) has been actively addressing
+      the humanitarian crisis in Gaza, issuing provisional orders and advisory opinions
+      amid ongoing violence and allegations of genocide against Israel. The court's
+      recent advisory opinion, requested by the UN General Assembly, scrutinizes Israel's
+      obligations as an occupying power towards humanitarian organizations like the
+      UN Relief and Works Agency for Palestine Refugees (UNRWA), particularly after
+      Israel enacted laws that restrict UNRWA's operations. Despite Israel's claims
+      that UNRWA harbors Hamas militants, investigations have found insufficient evidence
+      to support these allegations. The ICJ emphasized that Israel must facilitate adequate
+      humanitarian relief, as mandated by international law, while criticizing the alternative
+      aid distribution managed by the Gaza Humanitarian Foundation, which has proven
+      inadequate and dangerous. The Israeli government and the U.S. have dismissed the
+      court's findings, framing them as politically motivated, yet the ICJ's rulings
+      underscore the legal responsibilities of states to protect civilian populations
+      and ensure humanitarian access amidst conflict.
+    published: '2025-10-23T05:55:28+00:00'
+  - title: 'The Great Narco Pretext: Trump Readies for Regime Change in Venezuela'
+    url: https://www.counterpunch.org/2025/10/22/the-great-narco-pretext-trump-readies-for-regime-change-in-venezuela/
+    text: 'Since the start of September, the Trump administration has busied itself
+      with striking boats in international waters stemming from Venezuelan and possibly
+      Colombian waters. Their mortal offence: allegedly carrying narcotics cargo destined
+      for consumers in the United States. A few days following the first strike on September
+      2, President Donald Trump stated in a War Powers Resolution notification to Congress
+      that the action was one of “self-defense” motivated by “the inability or unwillingness
+      of some states in the region to address the continuing threat to United States
+      persons and interests emanating from their territories”
+
+
+      In early October, a presidential notice was issued deeming those killed in such
+      strikes on suspicion of drug smuggling “unlawful combatants”. The notice to Congress
+      advanced an anaemic excuse to justify murder instead of arrest, an echo of previous,
+      elastic rationales used by administrations to justify an enlargement of executive
+      war powers: “based on the cumulative effects of these hostile acts against the
+      citizens and interests of the United States and friendly foreign nations, the
+      president determined that the United States is in a non-international armed conflict
+      with these designated terrorist organizations.” The US had “reached a critical
+      point where we must use force in self-defense and defense of others against the
+      ongoing attacks by these designated terrorist organizations.”
+
+
+      The document amounted to an arrogation of extraordinary wartime powers to combat
+      drug cartels, treating the trafficking of illicit narcotics to an armed assault
+      on US citizens. Geoffrey S. Corn, a former judge advocate general lawyer, thought
+      it a most adventurous move, given that drug cartels were not engaged in “hostilities”.
+      “This is not stretching the envelope,” he told The New York Times. “This is shredding
+      it. This is tearing it apart.”
+
+
+      In the kingdom of alternative legal realities, White House spokeswoman Anna Kelly
+      articulated the position in an email: “the president acted in line with the law
+      of armed conflict to protect our country from those trying to bring deadly poison
+      to our shores, and he is delivering on his promise to take on the cartels and
+      eliminate these national security threats from murdering more Americans.”
+
+
+      The number of possible international law violations are far from negligible. Michael
+      Schmitt lists a few in Just Security. Most obvious is the physical violation of
+      a State’s sovereignty, which can take place through interfering with its “inherently
+      governmental functions” comprising such matters as law enforcement. To also authorise
+      kinetic operations in another State’s territory can amount to wrongful intervention
+      in its international affairs. Last, though not least, is that using force in this
+      context may be unlawful, violating Article 2(4) of the United Nations Charter
+      and customary law.
+
+
+      Nothing in this cooked up scheme adds up. If the intention is to curb overdoses
+      on US soil from drug use, flow of fentanyl would be the object of the exercise.
+      But fentanyl hails from Mexico, not South America. The broader agenda is a more
+      traditional one: the assertion of the imperium’s control over countries in the
+      Americas, eliminating regimes deemed unfriendly to Washington’s interests. Narcotics
+      has become the throbbing pretext, with Trump accusing Venezuela’s President Nicolás
+      Maduro of being the leader of the drug trafficking organisation Cartel of the
+      Suns. He is also accused of using the dark offices of the Tren de Aragua prison
+      gang to conduct “irregular warfare” against the United States, despite countering
+      claims by the intelligence community that the gang is not under Maduro’s control.
+      (The reaffirmation of the initial intelligence assessment by the National Intelligence
+      Council led to the sacking of its acting director, Michael Collins.)
+
+
+      In 2020, the first Trump administration offered a reward of up to US$15 million
+      for information leading to the arrest and conviction of Maduro. Two more increases
+      to the bounty followed, the latest on August 7 being US$50 million following the
+      sanctioning of the Cartel of the Suns by the Department of Treasury as a Specially
+      Designated Global Terrorist. “As leader of Cartel of the Suns,” declares the State
+      Department in its notice of reward, “Maduro is the first target in the history
+      of the Narcotics Rewards Program with a reward offer exceeding $25 million.”
+
+
+      Trump, in one of his moments of sharp frankness, concedes that the Central Intelligence
+      Agency (CIA) has been authorised to conduct covert lethal operations on Venezuelan
+      soil and more broadly through the Caribbean in a presidential finding. “We are
+      certainly looking at land now, because we’ve got the sea well under control,”
+      he told reporters hours after the secret authorisation was revealed.
+
+
+      In explaining his shoddy reasons, Trump cited Venezuela’s emptying of its “prisons
+      into the United States of America” and the issue of drugs. “We have a lot of drugs
+      coming in from Venezuela, and a lot of the Venezuelan drugs come in through the
+      sea, so you get to see that, but we’re going to stop them by land also.”
+
+
+      To the finding can be added a bulking military presence in the region: eight surface
+      warships and a submarine in the Caribbean, 10,000 US troops, largely garrisoned
+      at bases in Puerto Rico, with a contingent of Marines equipped with amphibious
+      assault boats. In the meantime, the recent winner of the Nobel Peace Prize, the
+      Venezuelan opposition figure María Corina Machado, salivates at the prospect of
+      regime change with muscular intervention from Washington. The pieces are being
+      moved into place, and the self-proclaimed peace maker in the White House is readying
+      for war.'
+    one_sentence_summary: Since September, the Trump administration has engaged in military
+      strikes against boats in international waters allegedly carrying narcotics from
+      Venezuela, justifying these actions as self-defense against drug cartels, while
+      raising significant concerns about violations of international law and suggesting
+      a broader agenda of asserting U.S. control over the region.
+    paragraph_summary: Since early September, the Trump administration has engaged in
+      military strikes against boats in international waters allegedly transporting
+      narcotics from Venezuela and Colombia to the U.S., justifying these actions as
+      self-defense due to the perceived failure of regional states to combat threats
+      to U.S. interests. A presidential notice classified those killed in these strikes
+      as "unlawful combatants," raising concerns about the legality of such actions
+      under international law, including violations of state sovereignty and the UN
+      Charter. Critics argue that the administration's rationale for targeting drug
+      cartels is a pretext for broader geopolitical aims, particularly against Venezuela
+      and its President Nicolás Maduro, whom the U.S. has accused of leading a drug
+      trafficking organization. The administration has authorized covert CIA operations
+      in Venezuela and increased military presence in the Caribbean, suggesting a potential
+      escalation toward regime change in the region, while the U.S. continues to grapple
+      with the complexities of drug trafficking and its implications for national security.
+    published: '2025-10-22T05:54:19+00:00'
+  - title: 'Wounded Nostalgia: GQ Tips for the Modern Gentleman'
+    url: https://www.counterpunch.org/2025/10/17/wounded-nostalgia-gq-tips-for-the-modern-gentleman/
+    text: 'It reads like a lament of wounded nostalgia, cresting on a resigned sigh.
+      “Knowing how to be a gentleman used to be straightforward: There were codes that
+      were passed down, instilled, and strictly enforced. With both social mores and
+      the nature of masculinity itself wildly in flux, that’s not exactly the case anymore.”
+      That’s the claim laid with trowels of suggestion by the editors of GQ.
+
+
+      They certainly stretch it. No fewer than 125 rules are suggested, some with greater
+      sense than others. And they lack a contextual focus, misleading the reader about
+      the origins of a title with a rich, mangled history entertaining, inconsistent
+      and violent. For those fortunate enough to have a copy of Brewer’s Dictionary
+      of Phrase and Fable, this definition is offered about a gentleman: “Historically
+      a man entitled to bear arms but not of the nobility; hence one of gentle birth,
+      of some position in society, and with manners, bearing and behaviour appropriate
+      to one in such a position.”
+
+
+      This is all good as a workable definition, till you identify other forms of gentlemanly
+      behaviour that look distinctly antithetical to the popular understanding of the
+      term. Take, for instance, the definition of a “gentleman of fortune”. This, according
+      to Brewer, is a pirate, adventurer, or some such. A Francis Drake for Queen Elizabeth
+      I. A gentleman of the road is an opportunistic, gun toting highwayman (to be such
+      is to be a thief accustomed to mobility). A gentleman of the “four outs” was a
+      “vulgar upstart, without manners, without wit, without money, and without credit.”
+      If only the GQ puritans might have given us a taster of such precedents.
+
+
+      The GQ tick sheet has to account for the specific, unnerving changes that have
+      taken place since humankind decided to lose the mind and treat the phone like
+      a bank and dating centre. Rules are, in such a context, bound to be ephemeral,
+      patchy, and disturbingly streaky. This, perhaps, is inevitable in a society operating
+      in a state of, as the late sociologist Zygmunt Bauman called it, “liquid modernity”.
+      The solid order of modernism has transmuted into the liquid metaphor of constant,
+      disruptive change. Relations alter with cutting frequency; states of mind adjust
+      with the next technological push. Carlos A. Scolari goes further with the proposition
+      that we now exist in a gaseous phase “where millions of crazed molecules collide
+      and bounce off each other.” Silly as that may sound, these considerations can
+      offer a sense of clawing back some sense of solidity in the form of custom – a
+      most difficult challenge.
+
+
+      Hence our problem with the modern gentleman. There is an assumption by the GQ
+      list about what it is to be “a self-aware human”, a brave assumption in a society
+      saturated with attention sapping clips on TikTok, snatches of attention in preparing
+      for a classroom, and an almost proud acceptance that the news is not to be found
+      in papers or media outlets but some screech of digital drivel from a closeted
+      influencer. How does a gentleman cope with the cult of Narcissus, when even he
+      might be found out looking at pictures, videos and shots of himself on a phone,
+      rolling in a loop to sedate him into a state of unconscious irrelevance?
+
+
+      These nightmarish conditions expounded, the first rule a gentleman as understood
+      by GQ should behave like is to remove “your AirPods when you’re talking to someone.
+      Muting doesn’t count.” This is sweet, as few can tell these days whether a person
+      with AirPods or not makes the slightest difference to a conversation. An idiot
+      can have, or lack.
+
+
+      Certain suggestions are obviously confined to the prejudices of the GQ staff.
+      Rule 4 notes that, while everyone loves receiving floral glories, best keep the
+      number of stems to a minimum. “If not, you can’t go wrong with a few calla lilies.”
+      The cart here should be upset with the suggestion that flowers, if you decide
+      to pick them, be lasting in form. Australian natives are stunning in this regard:
+      hardy, resilient and able to transform from moist beauties at their picking to
+      sturdy, firm stems of everlasting defiance. Flowers are, as is the form, destined
+      to wither, as do most relationships. The Australian bouquet suggests lengthy endurance.
+      Just a thought.
+
+
+      Some rules are left without explanation, presumably because the gentleman of GQ’s
+      understanding fears being subject to litigation or detained by police at a moment’s
+      notice for some unwise airing. Hence Rule 106 about not flirting with flight attendants,
+      a revealing remark that says much about the staff of the publication and their
+      frequent flier miles.
+
+
+      Rule 101 admonishes those who fret about flight delays. (Those flights again.)
+      This is a nice exit for those flight operators who have become casually incompetent
+      in supplying services expected of them. “Stay composed,” GQ tells us with shamanic
+      suggestiveness, which is a lovely way of saying to the gentleman that he must
+      put up, shut up and remain stoic in not changing things. The corollary of that
+      is to avoid the displays of lethal charm, combative language and general badinage
+      that might, for instance, mock someone for not drinking or keeping up with the
+      scoffers and carousers. Hence rule 74 (“have a chic nonalcoholic beverage option
+      to toast with”) and rule 75 (“never ask why someone’s not drinking”). In these
+      circles, surely the question “Why not?” would follow.
+
+
+      There are the rules for the gentleman that hail from Boy Scout’s corner: offer
+      up your seat for the pregnant or the elderly; open passenger doors for your date;
+      be chivalrous in calling and paying for the Uber. (Clearly, public transport is
+      to be abominated in this code in favour of a criminal digital based platform.)
+
+
+      There are some rules that seem beyond reproach. Introduce people to others, even
+      if you have only just met them. “In general: Talk less.” That rule is acceptable
+      and worthy, given that many a conversation seems fuelled and fluffed by vapid
+      desperation and surfeit babble. Try (rule 88), to avoid talking about yourself.
+      “It’s very boring at parties to have a person you are speaking to want to match
+      your story with their own.” Not a bad rule, given the Code of Narcissus that smartphone
+      followers abide by.
+
+
+      To turn up to a person’s abode for dinner, make sure, as rule 91 declares, that
+      you leave anything there you brought in the first place. “I don’t care if the
+      wine went unopened or the dessert sat untouched.” But how good it was that you
+      brought the wine or dessert in the first place.'
+    one_sentence_summary: The GQ editors lament the changing nature of gentlemanly conduct
+      in a modern society marked by rapid social and technological shifts, presenting
+      a list of 125 rules that often reflect outdated notions and personal biases, while
+      failing to acknowledge the complex and historically rich definitions of what it
+      means to be a gentleman.
+    paragraph_summary: The article critiques GQ's attempt to redefine gentlemanly behavior
+      in a modern context, suggesting that their list of 125 rules reflects a nostalgic
+      longing for a bygone era when the concept of a gentleman was clearer and more
+      codified. The editors' guidelines are seen as inconsistent and lacking historical
+      context, failing to acknowledge the complex and often contradictory nature of
+      the term "gentleman." The author argues that in today's rapidly changing society,
+      characterized by technological distractions and shifting social norms, the notion
+      of being a gentleman is fraught with challenges. Many of GQ's rules, such as removing
+      AirPods during conversations or offering seats to the elderly, are presented as
+      outdated or overly simplistic, while others reflect the publication's biases.
+      Ultimately, the article suggests that the essence of gentlemanly conduct is difficult
+      to pin down in an era marked by "liquid modernity," where traditional customs
+      struggle to maintain relevance amidst constant change.
+    published: '2025-10-17T05:52:04+00:00'
+  - title: 'Worlds Extinguished: Hostage Returns, Central Casting and the Gaza Ceasefire'
+    url: https://www.counterpunch.org/2025/10/15/worlds-extinguished-hostage-returns-central-casting-and-the-gaza-ceasefire/
+    text: 'Depending on which source you consult, the twenty-point peace plan of President
+      Donald Trump for securing peace in Gaza shows much exultance and extravagant omission.
+      The exultance was initially focused on the return of the hostages. It then shifted
+      to the broader strategic goals of the various parties. Commentary on this point,
+      even as the living Israeli hostages convalescence after their exchange for Palestinian
+      detainees, sidesteps the Palestinian people, those fly in the ointment irritants
+      who never seem to exit the political scene.
+
+
+      The peace plan, in effect, is being executed to eliminate Hamas and any semblance
+      of a Palestinian militant movement in favour of an Israel-Arab-US axis of preferment
+      and normalisation. Doing so puts a firm lid on Palestinian sovereignty and statehood
+      in favour of sounder relations between Israel and the Arab states.
+
+
+      Consider, for instance, the views from the American Jewish Committee in their
+      October 10 assessment. “President Trump’s unconventional approach created new
+      diplomatic realities and forced Israel and key Arab states to align in new ways.”
+      The peace plan was “the most credible framework to date for advancing Israeli-Arab
+      peace, creating new opportunities for regional engagement, and countering Hamas’
+      ideology through a united alliance of Israel and Arab nations committed to peace,
+      security, and prosperity.” Clearly, Palestinians are, if not footnotes, then invisible
+      ink lines in such arrangements.
+
+
+      This attitude is also echoed in remarks made by the US Vice President, J.D. Vance.
+      Palestinian subservience is assumed in any new proposed arrangement which prioritises
+      Israeli security and a collective of overseeing nation states that will guard
+      against any mischief in the Strip. “The President convinced the entire Muslim
+      world really, both the Gulf Arab states, but as far as South-East Asia as Indonesia,
+      to really step up and provide ground troops so that Gaza could be secured in safety.”
+
+
+      Egyptian Foreign Minister Badr Abdelatty gave some sense of what is expected.
+      “We are going to support and commit troops within specific parameters,” he told
+      CBS. A UN Security Council mandate would be required, along with clear specifications
+      for what the mission of the troops on the ground would be, “which will be peacekeeping
+      and providing training to Palestinian police.”
+
+
+      Trump’s near cinematic appearance on October 13 in the compact, claustrophobic
+      Knesset after the handover of the hostages set the scene for Israeli grandstanding,
+      staged mawkishness and denial. Netanyahu was in typical form, accusing Israel’s
+      friends of blood libel stupidity for recognising Palestine; in doing so, they
+      had effectively committed acts of antisemitism, buying “into Hamas’s false propaganda.”
+      Massacring and starving those in the Gaza Strip warranted no mention, but disarming
+      Hamas and demilitarising the enclave did. With praise for both himself and Trump,
+      Netanyahu spoke of jointly forging “a path to bring the remaining hostages home
+      and end the war. End a war in a way that ensures the disarming of Hamas, the demilitarisation
+      of Gaza, and that Gaza would never again pose a threat to Israel.”
+
+
+      He also thanked Trump for “fully” backing the decision to make the last murderous
+      assault into Gaza City. This “military pressure” provided momentum that eventually
+      saw Hamas capitulate. The US President then “succeeded in doing something that
+      no one believed was possible. You brought most of the Arab world, you did, you
+      brought most of the world behind your proposal to free the hostages and end the
+      war.”
+
+
+      Opposition leader Yair Lapid, for his part, explicitly denied any genocide or
+      “intentional starvation” of the Palestinians, then proceeded to overlook them
+      in calling on “all the nations of the Islamic world” to engage Israel.
+
+
+      Trump’s own speech was meandering, personal and free of complex turns. He spoke
+      about his envoy Steve Witkoff as a Henry Kissinger who did not leak, an emissary
+      of singular genius. An interruption by Hadash lawmakers Ayman Odeh and Ofer Cassif,
+      both demanding that Palestine be recognised, did not faze him. And then came mention
+      of the Ukraine War, and Russian President Vladimir Putin and more adulatory remarks
+      for the US delegates who have paid homage to the US God King. They were all part
+      of “central casting”.
+
+
+      Not a sliver of reference to the Palestinian cause for sovereignty made an appearance,
+      which continues to moan under the strategic expediency of it all, the residents
+      of Gaza doomed to indefinite invigilation at the hands of Trump’s “Board of Peace”.
+      More to the point, he was happy to admit providing weapons at the request of “Bibi”
+      at a moment’s notice. The US made “the best weapons in the world, and we’ve given
+      a lot to Israel, … and you used them well.” But the slaughter could not continue,
+      and the Israeli PM would be remembered “far more” for accepting the peace agreement.
+      “The timing for this is brilliant. I said, ‘Bibi you’re going to be remembered
+      for this far more than if you kept this thing going, going, going, kill, kill,
+      kill.’”
+
+
+      The Palestinians, granted brief respite from military violence, will be desperately
+      wary. When Lapid mentioned that Trump had “saved far more than one life, and life
+      is an entire world”, it can also be assumed that killing one life kills a world.
+      Some 68,000 Palestinian worlds (a conservative estimate) were extinguished by
+      the munitions and weapons of Israel and its backers. As humanitarian workers return
+      to Gaza, they see the horrors of a lunarscape of devastation. If only Trump had
+      considered paying a visit to that particular part of earth.'
+    one_sentence_summary: President Trump's twenty-point peace plan for Gaza prioritizes
+      the elimination of Hamas and the strengthening of Israel-Arab relations, largely
+      sidelining Palestinian sovereignty and suffering, as evidenced by the rhetoric
+      of U.S. officials and Israeli leaders who focus on security and military strategies
+      rather than addressing the humanitarian crisis faced by Palestinians.
+    paragraph_summary: The article critiques President Donald Trump's twenty-point peace
+      plan for Gaza, highlighting its focus on eliminating Hamas and prioritizing Israeli
+      security over Palestinian sovereignty. It notes that while the plan has garnered
+      support from various parties, including the American Jewish Committee and US Vice
+      President J.D. Vance, it largely sidelines the Palestinian perspective and their
+      quest for statehood. The piece describes a scene in the Knesset where Israeli
+      Prime Minister Netanyahu praised Trump's military support while ignoring the humanitarian
+      crisis in Gaza, and it emphasizes the absence of any acknowledgment of Palestinian
+      suffering in Trump's rhetoric. The author argues that the plan effectively perpetuates
+      Palestinian subjugation under the guise of regional stability and peace, leaving
+      the plight of the Palestinian people unaddressed amidst the political maneuvering
+      of Israel and its allies.
+    published: '2025-10-15T05:53:11+00:00'
   - title: 'The Shock of the Obvious: Australia’s University Oligarchs'
     url: https://www.counterpunch.org/2025/10/14/the-shock-of-the-obvious-australias-university-oligarchs/
     text: 'It’s always comforting to hear politicians reveal wisdoms and novel notions

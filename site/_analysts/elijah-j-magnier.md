@@ -7,14 +7,842 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  The latest developments in the Gaza crisis mark a significant shift in the regional balance of power, as U.S.-Israeli relations face unprecedented strain. In recent days, Israel’s accidental bombing of Qatari territory has triggered a wave of international condemnation and forced Washington to take a more assertive stance in ending hostilities in Gaza.
+  The recent US-brokered ceasefire in Gaza, established under President Trump’s Twenty-Point Plan, has temporarily halted hostilities but left the region’s political future deeply uncertain. As **Elijah J. Magnier** notes, while the guns have fallen silent for now, “aucune autorité claire ne s’est établie” (no clear authority has been established) to govern Gaza, and the contest for control remains unresolved among local and regional actors.
   
-  According to **Elijah J. Magnier**, this incident has “sparked international outrage and forced the U.S. to intervene in the Gaza conflict, challenging Netanyahu’s political authority.” The U.S., under President Trump, has exerted intense pressure on Israeli Prime Minister Benjamin Netanyahu to accept a ceasefire. However, Netanyahu’s government is struggling to fully implement the agreement, revealing deepening political divisions in Tel Aviv and a growing rift with Washington.
+  Skepticism is mounting regarding Israel’s willingness or ability to adhere to the terms of the agreement. Multiple reports highlight doubts about Israeli compliance, with **Magnier** emphasizing that “twijfels over de naleving van de overeenkomst door Israël” (doubts about Israel’s compliance with the agreement) persist. This uncertainty is compounded by the lack of a concrete roadmap for Gaza’s governance, raising fears that the ceasefire could unravel or be sabotaged if underlying issues remain unaddressed.
   
-  The ceasefire, brokered by the U.S., is now being deliberately delayed by Israeli authorities. **Elijah J. Magnier** notes that Israel’s leadership is “obstructing efforts to end violence and restore normalcy in Gaza,” further exacerbating the humanitarian crisis. This delay is widely interpreted as an attempt by Netanyahu to maintain military leverage and political control, despite mounting U.S. and international demands for de-escalation.
+  The broader diplomatic context is also shifting. The US intervention, prompted by an Israeli strike on Qatari territory, has altered the balance of power between Washington and Tel Aviv. **Magnier** reports that this incident forced the US to act decisively to end the violence, while Israeli Prime Minister Netanyahu now faces a political crisis at home and diminished leverage abroad.
   
-  Looking ahead, the majority of analysts agree that the power dynamic between Washington and Tel Aviv is undergoing a fundamental transformation. There is a high chance that U.S. pressure will eventually force Israel to comply with the ceasefire terms, but the process will remain fraught with political maneuvering and potential instability within the Israeli government. I guarantee that the U.S. will not tolerate further escalation, and most definitely, Netanyahu’s political position will continue to weaken if he fails to align with American directives. The humanitarian situation in Gaza is expected to remain dire until the ceasefire is fully implemented.
+  Looking ahead, the majority of analysts agree that the current ceasefire is fragile and the absence of a clear governance solution for Gaza will likely lead to renewed instability. There is high confidence that unless a credible and inclusive authority emerges, “keine der beteiligten Parteien eine Einigung erzielen kann” (none of the involved parties can reach an agreement), making a sustainable peace elusive. Most definitely, the coming days will test the durability of the Trump-brokered arrangement and the willingness of all sides to avoid a return to conflict.
 articles:
+  - title: 'Trump’s Gaza Gamble: A Ceasefire Without a Roadmap and No Clear Future for
+      GITA'
+    url: https://ejmagnier.com/2025/10/26/trumps-gaza-gamble-a-ceasefire-without-a-roadmap-and-no-clear-future-for-gita/
+    text: 'Tweet By Elijah J. Magnier – 26 October 2025 The guns may have fallen silent
+      in Gaza, but peace has yet to find its owner. Under President Donald Trump’s much-heralded
+      Twenty-Point Plan for Middle East Renewal , the first objective — the “cessation
+      of hostilities” — has been forced and achieved. Yet the plan’s second clause and
+      beyond, introducing the concept of a Gaza International Transitional Authority
+      (GITA) , remains a diplomatic riddle. No one — not Israel, not Hamas, not Egypt,
+      not Qatar, and not even Washington — can say with precision who will actually
+      govern and control the devastated enclave, or on whose behalf. Even among Trump’s
+      closest advisers, there is an unspoken recognition that the Israeli leadership
+      is unlikely to honour the spirit of the agreement. Benjamin Netanyahu has a long
+      record of accepting U.S.-brokered deals only to reinterpret or stall them once
+      the headlines fade. Washington and its Arab partners are well aware that Israel
+      will do its utmost to sabotage or obstruct or dilute the implementation of any
+      arrangement that limits its military freedom or introduces an international framework
+      for Gaza. This political reality explains why a coherent vision for what follows
+      the war remains elusive — not because the ceasefire lacks signatures, but because
+      it lacks trust and unify objective. GITA, as outlined in the plan, was meant to
+      embody post-war reconstruction and shared administration. Instead, it has become
+      a symbol of confusion — a title in search of a policy, a diplomatic placeholder
+      masking deep divisions. Behind the rhetoric of “renewal” and “transition,” there
+      is no consensus on the fundamentals: who rules Gaza, who rebuilds it, who secures
+      it, and, most crucially, who holds Israel accountable. Until those questions are
+      answered, the war may have paused, but its logic still governs the peace. A truce
+      built on ambiguity When President Trump stood before cameras in Sharm al-Sheikh
+      Egypt to announce his peace vision, he claimed to have achieved what no one else
+      could “in 3000 years”: Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Despite a temporary cessation of hostilities in Gaza under
+      Trump's Twenty-Point Plan, the future governance of the region remains uncertain,
+      with skepticism about Israel's commitment to the agreement and concerns over its
+      potential sabotage.
+    paragraph_summary: In a recent tweet, Elijah J. Magnier discusses the aftermath
+      of the ceasefire in Gaza following President Donald Trump's Twenty-Point Plan
+      for Middle East Renewal, which successfully achieved a cessation of hostilities
+      but has struggled to define the governance of the region through the proposed
+      Gaza International Transitional Authority (GITA). The plan's second phase remains
+      unresolved, with key stakeholders—including Israel, Hamas, Egypt, Qatar, and the
+      U.S.—uncertain about who will control Gaza and how. There is skepticism regarding
+      Israel's commitment to the agreement, as past behavior suggests it may undermine
+      any limitations on its military actions. Consequently, the lack of trust and a
+      unified vision for Gaza's future has left the region in a state of confusion,
+      highlighting the absence of consensus on critical issues such as governance, reconstruction,
+      and accountability. Until these fundamental questions are addressed, the conflict's
+      underlying dynamics continue to influence the fragile peace.
+    published: '2025-10-26T16:51:45+00:00'
+  - title: 'Trump’s Gaza Gamble: A Ceasefire Without a Roadmap and No Clear Future for
+      GITA'
+    url: https://ejmagnier.com/2025/10/26/trumps-gaza-gamble-a-ceasefire-without-a-roadmap-and-no-clear-future-for-gita/
+    text: 'Tweet By Elijah J. Magnier – 26 October 2025 The guns may have fallen silent
+      in Gaza, but peace has yet to find its owner. Under President Donald Trump’s much-heralded
+      Twenty-Point Plan for Middle East Renewal , the first objective — the “cessation
+      of hostilities” — has been forced and achieved. Yet the plan’s second clause and
+      beyond, introducing the concept of a Gaza International Transitional Authority
+      (GITA) , remains a diplomatic riddle. No one — not Israel, not Hamas, not Egypt,
+      not Qatar, and not even Washington — can say with precision who will actually
+      govern and control the devastated enclave, or on whose behalf. Even among Trump’s
+      closest advisers, there is an unspoken recognition that the Israeli leadership
+      is unlikely to honour the spirit of the agreement. Benjamin Netanyahu has a long
+      record of accepting U.S.-brokered deals only to reinterpret or stall them once
+      the headlines fade. Washington and its Arab partners are well aware that Israel
+      will do its utmost to sabotage or obstruct or dilute the implementation of any
+      arrangement that limits its military freedom or introduces an international framework
+      for Gaza. This political reality explains why a coherent vision for what follows
+      the war remains elusive — not because the ceasefire lacks signatures, but because
+      it lacks trust and unify objective. GITA, as outlined in the plan, was meant to
+      embody post-war reconstruction and shared administration. Instead, it has become
+      a symbol of confusion — a title in search of a policy, a diplomatic placeholder
+      masking deep divisions. Behind the rhetoric of “renewal” and “transition,” there
+      is no consensus on the fundamentals: who rules Gaza, who rebuilds it, who secures
+      it, and, most crucially, who holds Israel accountable. Until those questions are
+      answered, the war may have paused, but its logic still governs the peace. A truce
+      built on ambiguity When President Trump stood before cameras in Sharm al-Sheikh
+      Egypt to announce his peace vision, he claimed to have achieved what no one else
+      could “in 3000 years”: Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Despite a temporary cessation of hostilities in Gaza under
+      Trump's Twenty-Point Plan, the future governance of the region remains uncertain,
+      with skepticism about Israel's commitment to the agreement and concerns over its
+      potential sabotage.
+    paragraph_summary: In a recent tweet, Elijah J. Magnier discusses the aftermath
+      of the ceasefire in Gaza following President Donald Trump's Twenty-Point Plan
+      for Middle East Renewal, which successfully achieved a cessation of hostilities
+      but has struggled to define the governance of the region through the proposed
+      Gaza International Transitional Authority (GITA). The plan's second phase remains
+      unresolved, with key stakeholders—including Israel, Hamas, Egypt, Qatar, and the
+      U.S.—uncertain about who will control Gaza and how. There is skepticism regarding
+      Israel's commitment to the agreement, as past behavior suggests it may undermine
+      any limitations on its military actions. Consequently, the lack of trust and a
+      unified vision for Gaza's future has left the region in a state of confusion,
+      highlighting the absence of consensus on critical issues such as governance, reconstruction,
+      and accountability. Until these fundamental questions are addressed, the conflict's
+      underlying dynamics continue to influence the fragile peace.
+    published: '2025-10-26T16:51:45+00:00'
+  - title: 'Trump et le pari de Gaza : un cessez-le-feu sans feuille de route et sans
+      avenir clair pour la GITA'
+    url: https://ejmagnier.com/2025/10/26/trump-et-le-pari-de-gaza-un-cessez-le-feu-sans-feuille-de-route-et-sans-avenir-clair-pour-la-gita/
+    text: 'Tweet Par Elijah J. Magnier – 26 octobre 2025 Les armes se sont peut-être
+      tues à Gaza, mais la paix n’a pas encore trouvé son propriétaire. Dans le cadre
+      du très médiatisé « Plan en vingt points pour le renouveau du Moyen-Orient » du
+      président Donald Trump, le premier objectif – la « cessation des hostilités »
+      – a été imposé et atteint. Mais les clauses suivantes, introduisant le concept
+      d’une Autorité internationale transitoire de Gaza (GITA), demeurent une énigme
+      diplomatique. Ni Israël, ni le Hamas, ni l’Égypte, ni le Qatar, ni même Washington
+      ne peuvent dire avec précision qui gouvernera et contrôlera réellement l’enclave
+      dévastée, ni au nom de qui. Même parmi les conseillers les plus proches de Trump,
+      on reconnaît tacitement que la direction israélienne est peu susceptible de respecter
+      l’esprit de l’accord. Benjamin Netanyahou a une longue histoire d’acceptation
+      d’accords négociés par les États-Unis, qu’il réinterprète ou bloque ensuite une
+      fois les projecteurs éteints. Washington et ses partenaires arabes savent pertinemment
+      qu’Israël fera tout pour saboter, entraver ou édulcorer la mise en œuvre de tout
+      arrangement limitant sa liberté militaire ou introduisant un cadre international
+      pour Gaza. Cette réalité politique explique pourquoi une vision cohérente de l’après-guerre
+      reste insaisissable — non pas parce que le cessez-le-feu manque de signatures,
+      mais parce qu’il manque de confiance et d’objectif commun. La GITA, telle qu’elle
+      a été présentée dans le plan, devait incarner la reconstruction d’après-guerre
+      et une administration partagée. Elle est devenue, au contraire, un symbole de
+      confusion — un titre à la recherche d’une politique, un substitut diplomatique
+      masquant de profondes divisions. Derrière la rhétorique du « renouveau » et de
+      la « transition », aucun consensus ne se dessine sur les fondamentaux : qui gouverne
+      Gaza, qui la reconstruit, qui la sécurise, et surtout, qui tient Israël pour responsable.
+      Tant que ces questions resteront sans réponse, la guerre pourra s’être interrompue,
+      mais sa logique continue de régir la paix. Une trêve fondée sur l’ambiguïté Lorsque
+      le président Trump s’est présenté devant les caméras à Charm el-Cheikh, en Égypte,
+      pour annoncer sa vision de la paix, il a affirmé avoir accompli ce qu’aucun autre
+      n’avait réussi « en trois mille ans » Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Bien que la cessation des hostilités à Gaza ait été atteinte
+      dans le cadre du plan de paix de Donald Trump, l'avenir de la gouvernance de la
+      région reste incertain et contesté entre plusieurs acteurs, sans qu'aucune autorité
+      claire ne se soit établie.
+    paragraph_summary: L'article d'Elijah J. Magnier aborde la situation complexe à
+      Gaza après l'instauration d'un cessez-le-feu dans le cadre du plan de paix de
+      Donald Trump, qui a atteint son premier objectif mais laisse de nombreuses incertitudes
+      quant à la gouvernance future de la région. Le concept d'une Autorité internationale
+      transitoire de Gaza (GITA) reste flou, sans qu'Israël, le Hamas, l'Égypte, le
+      Qatar ou même Washington ne puissent définir qui contrôlera réellement l'enclave.
+      La méfiance envers la volonté d'Israël de respecter les accords et les divisions
+      profondes entre les acteurs impliqués rendent difficile l'émergence d'une vision
+      cohérente pour l'après-guerre. En fin de compte, tant que des questions cruciales
+      sur la gouvernance, la reconstruction et la responsabilité d'Israël ne sont pas
+      résolues, la paix à Gaza restera insaisissable.
+    published: '2025-10-26T16:48:47+00:00'
+  - title: 'Trump et le pari de Gaza : un cessez-le-feu sans feuille de route et sans
+      avenir clair pour la GITA'
+    url: https://ejmagnier.com/2025/10/26/trump-et-le-pari-de-gaza-un-cessez-le-feu-sans-feuille-de-route-et-sans-avenir-clair-pour-la-gita/
+    text: 'Tweet Par Elijah J. Magnier – 26 octobre 2025 Les armes se sont peut-être
+      tues à Gaza, mais la paix n’a pas encore trouvé son propriétaire. Dans le cadre
+      du très médiatisé « Plan en vingt points pour le renouveau du Moyen-Orient » du
+      président Donald Trump, le premier objectif – la « cessation des hostilités »
+      – a été imposé et atteint. Mais les clauses suivantes, introduisant le concept
+      d’une Autorité internationale transitoire de Gaza (GITA), demeurent une énigme
+      diplomatique. Ni Israël, ni le Hamas, ni l’Égypte, ni le Qatar, ni même Washington
+      ne peuvent dire avec précision qui gouvernera et contrôlera réellement l’enclave
+      dévastée, ni au nom de qui. Même parmi les conseillers les plus proches de Trump,
+      on reconnaît tacitement que la direction israélienne est peu susceptible de respecter
+      l’esprit de l’accord. Benjamin Netanyahou a une longue histoire d’acceptation
+      d’accords négociés par les États-Unis, qu’il réinterprète ou bloque ensuite une
+      fois les projecteurs éteints. Washington et ses partenaires arabes savent pertinemment
+      qu’Israël fera tout pour saboter, entraver ou édulcorer la mise en œuvre de tout
+      arrangement limitant sa liberté militaire ou introduisant un cadre international
+      pour Gaza. Cette réalité politique explique pourquoi une vision cohérente de l’après-guerre
+      reste insaisissable — non pas parce que le cessez-le-feu manque de signatures,
+      mais parce qu’il manque de confiance et d’objectif commun. La GITA, telle qu’elle
+      a été présentée dans le plan, devait incarner la reconstruction d’après-guerre
+      et une administration partagée. Elle est devenue, au contraire, un symbole de
+      confusion — un titre à la recherche d’une politique, un substitut diplomatique
+      masquant de profondes divisions. Derrière la rhétorique du « renouveau » et de
+      la « transition », aucun consensus ne se dessine sur les fondamentaux : qui gouverne
+      Gaza, qui la reconstruit, qui la sécurise, et surtout, qui tient Israël pour responsable.
+      Tant que ces questions resteront sans réponse, la guerre pourra s’être interrompue,
+      mais sa logique continue de régir la paix. Une trêve fondée sur l’ambiguïté Lorsque
+      le président Trump s’est présenté devant les caméras à Charm el-Cheikh, en Égypte,
+      pour annoncer sa vision de la paix, il a affirmé avoir accompli ce qu’aucun autre
+      n’avait réussi « en trois mille ans » Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Bien que la cessation des hostilités à Gaza ait été atteinte
+      dans le cadre du plan de paix de Donald Trump, l'avenir de la gouvernance de la
+      région reste incertain et contesté entre plusieurs acteurs, sans qu'aucune autorité
+      claire ne se soit établie.
+    paragraph_summary: L'article d'Elijah J. Magnier aborde la situation complexe à
+      Gaza après l'instauration d'un cessez-le-feu dans le cadre du plan de paix de
+      Donald Trump, qui a atteint son premier objectif mais laisse de nombreuses incertitudes
+      quant à la gouvernance future de la région. Le concept d'une Autorité internationale
+      transitoire de Gaza (GITA) reste flou, sans qu'Israël, le Hamas, l'Égypte, le
+      Qatar ou même Washington ne puissent définir qui contrôlera réellement l'enclave.
+      La méfiance envers la volonté d'Israël de respecter les accords et les divisions
+      profondes entre les acteurs impliqués rendent difficile l'émergence d'une vision
+      cohérente pour l'après-guerre. En fin de compte, tant que des questions cruciales
+      sur la gouvernance, la reconstruction et la responsabilité d'Israël ne sont pas
+      résolues, la paix à Gaza restera insaisissable.
+    published: '2025-10-26T16:48:47+00:00'
+  - title: 'Trumps Gaza-Glücksspiel: Ein Waffenstillstand ohne Fahrplan und ohne klare
+      Zukunft für GITA'
+    url: https://ejmagnier.com/2025/10/26/trumps-gaza-glucksspiel-ein-waffenstillstand-ohne-fahrplan-und-ohne-klare-zukunft-fur-gita/
+    text: 'Tweet Von Elijah J. Magnier – 26. Oktober 2025 Die Waffen mögen in Gaza verstummt
+      sein, aber der Frieden hat noch keinen Besitzer gefunden. Im Rahmen des viel gepriesenen
+      Zwanzig-Punkte-Plans für die Erneuerung des Nahen Ostens von Präsident Donald
+      Trump wurde das erste Ziel – die „Einstellung der Feindseligkeiten“ – erzwungen
+      und erreicht. Doch die zweite Klausel des Plans und die folgenden, in denen das
+      Konzept einer Gaza International Transitional Authority (GITA) eingeführt wird,
+      bleiben ein diplomatisches Rätsel. Niemand – weder Israel, noch die Hamas, noch
+      Ägypten, noch Katar und nicht einmal Washington – kann mit Sicherheit sagen, wer
+      diese zerstörte Enklave tatsächlich regieren und kontrollieren wird und in wessen
+      Auftrag. Selbst unter Trumps engsten Beratern herrscht stillschweigendes Einverständnis
+      darüber, dass die israelische Führung den Geist des Abkommens wahrscheinlich nicht
+      einhalten wird. Benjamin Netanjahu hat eine lange Tradition darin, von den USA
+      vermittelte Vereinbarungen zu akzeptieren, um sie dann, sobald sie aus den Schlagzeilen
+      verschwunden sind, neu zu interpretieren oder zu verzögern. Washington und seine
+      arabischen Partner sind sich bewusst, dass Israel alles in seiner Macht Stehende
+      tun wird, um die Umsetzung jeder Vereinbarung zu sabotieren, zu behindern oder
+      zu verwässern, die seine militärische Freiheit einschränkt oder einen internationalen
+      Rahmen für den Gazastreifen einführt. Diese politische Realität erklärt, warum
+      eine kohärente Vision für die Zeit nach dem Krieg nach wie vor schwer fassbar
+      ist – nicht weil es an Unterschriften für den Waffenstillstand mangelt, sondern
+      weil es an Vertrauen und einem einheitlichen Ziel fehlt. GITA sollte, wie im Plan
+      dargelegt, den Wiederaufbau nach dem Krieg und die gemeinsame Verwaltung verkörpern.
+      Stattdessen ist es zu einem Symbol der Verwirrung geworden – ein Titel auf der
+      Suche nach einer Politik, ein diplomatischer Platzhalter, der tiefe Spaltungen
+      verschleiert. Hinter der Rhetorik von „Erneuerung” und „Übergang” gibt es keinen
+      Konsens über die Grundlagen: Wer regiert den Gazastreifen, wer baut ihn wieder
+      auf, wer sichert ihn und, was am wichtigsten ist, wer zieht Israel zur Rechenschaft?
+      Solange diese Fragen nicht beantwortet sind, mag der Krieg zwar pausieren, aber
+      seine Logik bestimmt weiterhin den Frieden. Ein Waffenstillstand, der auf Unklarheit
+      basiert Als Präsident Trump in Sharm al-Sheikh in Ägypten vor den Kameras stand,
+      um seine Friedensvision zu verkünden, behauptete er, etwas erreicht zu haben,
+      was „in 3000 Jahren” niemand sonst geschafft habe Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Obwohl die Feindseligkeiten in Gaza vorübergehend beendet
+      sind, bleibt unklar, wer die Kontrolle über das Gebiet im Rahmen von Trumps Zwanzig-Punkte-Plan
+      übernehmen wird, da keine der beteiligten Parteien eine Einigung erzielen kann.
+    paragraph_summary: In einem Tweet vom 26. Oktober 2025 beschreibt Elijah J. Magnier
+      die prekäre Situation in Gaza nach dem Waffenstillstand, der im Rahmen von Präsident
+      Donald Trumps umstrittenem Zwanzig-Punkte-Plan erreicht wurde. Während die Feindseligkeiten
+      eingestellt wurden, bleibt unklar, wer die Kontrolle über das Gebiet übernehmen
+      wird, da die Einführung einer Gaza International Transitional Authority (GITA)
+      auf diplomatische Herausforderungen stößt. Weder Israel, Hamas, Ägypten, Katar
+      noch die USA können sich auf eine klare Führungsstruktur einigen, und es gibt
+      Bedenken, dass Israel unter Benjamin Netanjahu die Vereinbarungen nicht einhalten
+      wird. Diese Unsicherheit und das Fehlen von Vertrauen und gemeinsamen Zielen behindern
+      die Schaffung einer kohärenten Vision für die Zeit nach dem Krieg, wodurch GITA
+      zu einem Symbol der Verwirrung und eines diplomatischen Platzhalters wird.
+    published: '2025-10-26T16:46:46+00:00'
+  - title: 'Trumps Gaza-Glücksspiel: Ein Waffenstillstand ohne Fahrplan und ohne klare
+      Zukunft für GITA'
+    url: https://ejmagnier.com/2025/10/26/trumps-gaza-glucksspiel-ein-waffenstillstand-ohne-fahrplan-und-ohne-klare-zukunft-fur-gita/
+    text: 'Tweet Von Elijah J. Magnier – 26. Oktober 2025 Die Waffen mögen in Gaza verstummt
+      sein, aber der Frieden hat noch keinen Besitzer gefunden. Im Rahmen des viel gepriesenen
+      Zwanzig-Punkte-Plans für die Erneuerung des Nahen Ostens von Präsident Donald
+      Trump wurde das erste Ziel – die „Einstellung der Feindseligkeiten“ – erzwungen
+      und erreicht. Doch die zweite Klausel des Plans und die folgenden, in denen das
+      Konzept einer Gaza International Transitional Authority (GITA) eingeführt wird,
+      bleiben ein diplomatisches Rätsel. Niemand – weder Israel, noch die Hamas, noch
+      Ägypten, noch Katar und nicht einmal Washington – kann mit Sicherheit sagen, wer
+      diese zerstörte Enklave tatsächlich regieren und kontrollieren wird und in wessen
+      Auftrag. Selbst unter Trumps engsten Beratern herrscht stillschweigendes Einverständnis
+      darüber, dass die israelische Führung den Geist des Abkommens wahrscheinlich nicht
+      einhalten wird. Benjamin Netanjahu hat eine lange Tradition darin, von den USA
+      vermittelte Vereinbarungen zu akzeptieren, um sie dann, sobald sie aus den Schlagzeilen
+      verschwunden sind, neu zu interpretieren oder zu verzögern. Washington und seine
+      arabischen Partner sind sich bewusst, dass Israel alles in seiner Macht Stehende
+      tun wird, um die Umsetzung jeder Vereinbarung zu sabotieren, zu behindern oder
+      zu verwässern, die seine militärische Freiheit einschränkt oder einen internationalen
+      Rahmen für den Gazastreifen einführt. Diese politische Realität erklärt, warum
+      eine kohärente Vision für die Zeit nach dem Krieg nach wie vor schwer fassbar
+      ist – nicht weil es an Unterschriften für den Waffenstillstand mangelt, sondern
+      weil es an Vertrauen und einem einheitlichen Ziel fehlt. GITA sollte, wie im Plan
+      dargelegt, den Wiederaufbau nach dem Krieg und die gemeinsame Verwaltung verkörpern.
+      Stattdessen ist es zu einem Symbol der Verwirrung geworden – ein Titel auf der
+      Suche nach einer Politik, ein diplomatischer Platzhalter, der tiefe Spaltungen
+      verschleiert. Hinter der Rhetorik von „Erneuerung” und „Übergang” gibt es keinen
+      Konsens über die Grundlagen: Wer regiert den Gazastreifen, wer baut ihn wieder
+      auf, wer sichert ihn und, was am wichtigsten ist, wer zieht Israel zur Rechenschaft?
+      Solange diese Fragen nicht beantwortet sind, mag der Krieg zwar pausieren, aber
+      seine Logik bestimmt weiterhin den Frieden. Ein Waffenstillstand, der auf Unklarheit
+      basiert Als Präsident Trump in Sharm al-Sheikh in Ägypten vor den Kameras stand,
+      um seine Friedensvision zu verkünden, behauptete er, etwas erreicht zu haben,
+      was „in 3000 Jahren” niemand sonst geschafft habe Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Obwohl die Feindseligkeiten in Gaza vorübergehend beendet
+      sind, bleibt unklar, wer die Kontrolle über das Gebiet im Rahmen von Trumps Zwanzig-Punkte-Plan
+      übernehmen wird, da keine der beteiligten Parteien eine Einigung erzielen kann.
+    paragraph_summary: In einem Tweet vom 26. Oktober 2025 beschreibt Elijah J. Magnier
+      die prekäre Situation in Gaza nach dem Waffenstillstand, der im Rahmen von Präsident
+      Donald Trumps umstrittenem Zwanzig-Punkte-Plan erreicht wurde. Während die Feindseligkeiten
+      eingestellt wurden, bleibt unklar, wer die Kontrolle über das Gebiet übernehmen
+      wird, da die Einführung einer Gaza International Transitional Authority (GITA)
+      auf diplomatische Herausforderungen stößt. Weder Israel, Hamas, Ägypten, Katar
+      noch die USA können sich auf eine klare Führungsstruktur einigen, und es gibt
+      Bedenken, dass Israel unter Benjamin Netanjahu die Vereinbarungen nicht einhalten
+      wird. Diese Unsicherheit und das Fehlen von Vertrauen und gemeinsamen Zielen behindern
+      die Schaffung einer kohärenten Vision für die Zeit nach dem Krieg, wodurch GITA
+      zu einem Symbol der Verwirrung und eines diplomatischen Platzhalters wird.
+    published: '2025-10-26T16:46:46+00:00'
+  - title: 'Trump’s gok in Gaza: een staakt-het-vuren zonder routekaart en geen duidelijke
+      toekomst voor GITA'
+    url: https://ejmagnier.com/2025/10/26/trumps-gok-in-gaza-een-staakt-het-vuren-zonder-routekaart-en-geen-duidelijke-toekomst-voor-gita/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. De wapens
+      zijn misschien tot zwijgen gebracht in Gaza, maar vrede is nog steeds ver te zoeken.
+      Onder het veelgeprezen Twintigpuntenplan voor vernieuwing in het Midden-Oosten
+      van president Donald Trump is de eerste doelstelling – het “staken van de vijandelijkheden”
+      – afgedwongen en bereikt. Maar de tweede clausule van het plan en de daaropvolgende
+      clausules, waarin het concept van een Gaza International Transitional Authority
+      (GITA) wordt geïntroduceerd, blijven een diplomatiek raadsel. Niemand – noch Israël,
+      noch Hamas, noch Egypte, noch Qatar, en zelfs Washington niet – kan met zekerheid
+      zeggen wie de verwoeste enclave daadwerkelijk zal besturen en controleren, of
+      namens wie. Zelfs onder de naaste adviseurs van Trump heerst het onuitgesproken
+      besef dat het Israëlische leiderschap de geest van de overeenkomst waarschijnlijk
+      niet zal respecteren. Benjamin Netanyahu heeft een lange geschiedenis van het
+      accepteren van door de VS bemiddelde akkoorden, om deze vervolgens te herinterpreteren
+      of te vertragen zodra de krantenkoppen verdwijnen. Washington en zijn Arabische
+      partners zijn zich er terdege van bewust dat Israël alles in het werk zal stellen
+      om de uitvoering van elke regeling die zijn militaire vrijheid beperkt of een
+      internationaal kader voor Gaza invoert, te saboteren, te belemmeren of af te zwakken.
+      Deze politieke realiteit verklaart waarom een samenhangende visie op wat er na
+      de oorlog komt, ongrijpbaar blijft – niet omdat het staakt-het-vuren niet is ondertekend,
+      maar omdat het vertrouwen en een gezamenlijk doel ontbreken. GITA, zoals uiteengezet
+      in het plan, was bedoeld om de wederopbouw na de oorlog en het gezamenlijk bestuur
+      te belichamen. In plaats daarvan is het een symbool van verwarring geworden –
+      een titel op zoek naar een beleid, een diplomatieke plaatshouder die diepe verdeeldheid
+      maskeert. Achter de retoriek van “vernieuwing” en “overgang” bestaat er geen consensus
+      over de fundamentele kwesties: wie regeert Gaza, wie herbouwt het, wie beveiligt
+      het en, het allerbelangrijkste, wie houdt Israël verantwoordelijk? Zolang die
+      vragen niet beantwoord zijn, is de oorlog misschien wel onderbroken, maar blijft
+      de logica ervan de vrede beheersen. Een wapenstilstand gebaseerd op ambiguïteit
+      Toen president Trump in Sharm al-Sheikh in Egypte voor de camera’s stond om zijn
+      vredesvisie bekend te maken, beweerde hij te hebben bereikt wat niemand anders
+      “in 3000 jaar” Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Hoewel de vijandelijkheden in Gaza zijn gestopt volgens het
+      Twintigpuntenplan van Trump, blijft de toekomst van de regio en de controle over
+      Gaza onduidelijk, met twijfels over de naleving van de overeenkomst door Israël.
+    paragraph_summary: Elijah J. Magnier's article, translated by Francis J., discusses
+      the fragile state of peace in Gaza following the cessation of hostilities, as
+      outlined in President Trump's Twintigpuntenplan for Middle Eastern renewal. While
+      the first goal of stopping the violence has been achieved, the subsequent aim
+      of establishing a Gaza International Transitional Authority (GITA) remains unresolved,
+      with no clear leadership or governance structure agreed upon by Israel, Hamas,
+      Egypt, Qatar, or the U.S. There is a prevailing skepticism among Trump's advisors
+      regarding Israel's commitment to the spirit of the agreement, given Prime Minister
+      Netanyahu's history of renegotiating U.S.-brokered deals. This lack of trust and
+      shared objectives has resulted in a muddled vision for Gaza's future, with GITA
+      becoming a symbol of confusion rather than a concrete plan for reconstruction
+      and governance, highlighting the deep divisions and absence of consensus among
+      the involved parties.
+    published: '2025-10-26T16:45:24+00:00'
+  - title: 'Trump’s gok in Gaza: een staakt-het-vuren zonder routekaart en geen duidelijke
+      toekomst voor GITA'
+    url: https://ejmagnier.com/2025/10/26/trumps-gok-in-gaza-een-staakt-het-vuren-zonder-routekaart-en-geen-duidelijke-toekomst-voor-gita/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. De wapens
+      zijn misschien tot zwijgen gebracht in Gaza, maar vrede is nog steeds ver te zoeken.
+      Onder het veelgeprezen Twintigpuntenplan voor vernieuwing in het Midden-Oosten
+      van president Donald Trump is de eerste doelstelling – het “staken van de vijandelijkheden”
+      – afgedwongen en bereikt. Maar de tweede clausule van het plan en de daaropvolgende
+      clausules, waarin het concept van een Gaza International Transitional Authority
+      (GITA) wordt geïntroduceerd, blijven een diplomatiek raadsel. Niemand – noch Israël,
+      noch Hamas, noch Egypte, noch Qatar, en zelfs Washington niet – kan met zekerheid
+      zeggen wie de verwoeste enclave daadwerkelijk zal besturen en controleren, of
+      namens wie. Zelfs onder de naaste adviseurs van Trump heerst het onuitgesproken
+      besef dat het Israëlische leiderschap de geest van de overeenkomst waarschijnlijk
+      niet zal respecteren. Benjamin Netanyahu heeft een lange geschiedenis van het
+      accepteren van door de VS bemiddelde akkoorden, om deze vervolgens te herinterpreteren
+      of te vertragen zodra de krantenkoppen verdwijnen. Washington en zijn Arabische
+      partners zijn zich er terdege van bewust dat Israël alles in het werk zal stellen
+      om de uitvoering van elke regeling die zijn militaire vrijheid beperkt of een
+      internationaal kader voor Gaza invoert, te saboteren, te belemmeren of af te zwakken.
+      Deze politieke realiteit verklaart waarom een samenhangende visie op wat er na
+      de oorlog komt, ongrijpbaar blijft – niet omdat het staakt-het-vuren niet is ondertekend,
+      maar omdat het vertrouwen en een gezamenlijk doel ontbreken. GITA, zoals uiteengezet
+      in het plan, was bedoeld om de wederopbouw na de oorlog en het gezamenlijk bestuur
+      te belichamen. In plaats daarvan is het een symbool van verwarring geworden –
+      een titel op zoek naar een beleid, een diplomatieke plaatshouder die diepe verdeeldheid
+      maskeert. Achter de retoriek van “vernieuwing” en “overgang” bestaat er geen consensus
+      over de fundamentele kwesties: wie regeert Gaza, wie herbouwt het, wie beveiligt
+      het en, het allerbelangrijkste, wie houdt Israël verantwoordelijk? Zolang die
+      vragen niet beantwoord zijn, is de oorlog misschien wel onderbroken, maar blijft
+      de logica ervan de vrede beheersen. Een wapenstilstand gebaseerd op ambiguïteit
+      Toen president Trump in Sharm al-Sheikh in Egypte voor de camera’s stond om zijn
+      vredesvisie bekend te maken, beweerde hij te hebben bereikt wat niemand anders
+      “in 3000 jaar” Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Hoewel de vijandelijkheden in Gaza zijn gestopt volgens het
+      Twintigpuntenplan van Trump, blijft de toekomst van de regio en de controle over
+      Gaza onduidelijk, met twijfels over de naleving van de overeenkomst door Israël.
+    paragraph_summary: Elijah J. Magnier's article, translated by Francis J., discusses
+      the fragile state of peace in Gaza following the cessation of hostilities, as
+      outlined in President Trump's Twintigpuntenplan for Middle Eastern renewal. While
+      the first goal of stopping the violence has been achieved, the subsequent aim
+      of establishing a Gaza International Transitional Authority (GITA) remains unresolved,
+      with no clear leadership or governance structure agreed upon by Israel, Hamas,
+      Egypt, Qatar, or the U.S. There is a prevailing skepticism among Trump's advisors
+      regarding Israel's commitment to the spirit of the agreement, given Prime Minister
+      Netanyahu's history of renegotiating U.S.-brokered deals. This lack of trust and
+      shared objectives has resulted in a muddled vision for Gaza's future, with GITA
+      becoming a symbol of confusion rather than a concrete plan for reconstruction
+      and governance, highlighting the deep divisions and absence of consensus among
+      the involved parties.
+    published: '2025-10-26T16:45:24+00:00'
+  - title: 'Barrack: Hezbollah and Iran are the obstacle and Israel at the Centre of
+      Trump’s Middle East Vision'
+    url: https://ejmagnier.com/2025/10/24/barrack-hezbollah-and-iran-are-the-obstacle-and-israel-at-the-centre-of-trumps-middle-east-vision/
+    text: 'Tweet By Elijah J. Magnier – Ambassador Tom Barrack’s latest essay, “A Personal
+      Perspective – Syria and Lebanon Are the Next Pieces for Levant Peace,” offers
+      a revealing glimpse into the mindset driving Washington’s post-Gaza diplomacy.
+      Written in the glow of the Sharm el-Sheikh peace summit, the piece presents what
+      Barrack calls “a renewed covenant” for the Middle East — a vision of prosperity
+      and reconciliation under President Donald Trump’s leadership. Yet beneath the
+      rhetoric of cooperation and regional renewal lies a striking pattern: the name
+      Israel appears nineteen times in the text, while Palestine is entirely absent.
+      Barrack’s essay revolves unmistakably around Israeli strategic interests, which
+      he explicitly invokes six times, making them the organising principle of his vision
+      for regional peace and U.S. policy. Each reference situates Israel’s safety as
+      the core measure of success: Syria’s rehabilitation is valued because it forms
+      “the first leg of Israel’s northern security framework,” while Lebanon’s disarmament
+      of Hezbollah is framed as “the second leg.” Hezbollah itself is described as “a
+      constant red flag to Israel,” and Barrack calls its dismantling “Israel’s security
+      imperative.” Even Syria’s diplomacy is praised only insofar as it contributes
+      to “securing Israel’s northern frontier,” while the threat of renewed confrontation
+      is couched as a matter of “Israel’s strength.” Across these six instances, Barrack’s
+      concern runs deep — not simply for an ally among others, but for the consolidation
+      of Israeli regional primacy. Israel’s stability and integration are presented
+      as both the condition and the justification for every initiative Trump’s plan
+      promotes. Syria’s reconstruction, Lebanon’s political reform, and the curbing
+      of Iran’s influence all appear not as independent goals but as elements of a single
+      design: the reinforcement of Tel Aviv’s dominance in the Levant. Israeli dominance
+      as the axis of peace Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Ambassador Tom Barrack's essay emphasizes a vision for Middle
+      Eastern peace centered on Israeli interests, highlighting a renewed diplomatic
+      approach under President Trump while notably omitting any mention of Palestine.
+    paragraph_summary: In his recent essay, "A Personal Perspective – Syria and Lebanon
+      Are the Next Pieces for Levant Peace," Ambassador Tom Barrack outlines a vision
+      for Middle Eastern peace that heavily prioritizes Israeli interests, reflecting
+      Washington's post-Gaza diplomatic strategy. Written following the Sharm el-Sheikh
+      peace summit, Barrack presents a framework for regional prosperity under President
+      Trump's leadership, yet notably excludes any mention of Palestine, despite referencing
+      Israel nineteen times. His argument positions Israeli security as the central
+      tenet of U.S. policy, framing initiatives such as Syria's rehabilitation and Lebanon's
+      disarmament of Hezbollah as essential to bolstering Israel's northern defenses.
+      This reveals a broader agenda where the stability and dominance of Israel are
+      seen as prerequisites for peace in the Levant, suggesting that the proposed diplomatic
+      efforts are primarily designed to reinforce Israeli regional supremacy rather
+      than to foster genuine reconciliation or address Palestinian concerns.
+    published: '2025-10-24T04:34:59+00:00'
+  - title: 'Barrack: Hezbollah and Iran are the obstacle and Israel at the Centre of
+      Trump’s Middle East Vision'
+    url: https://ejmagnier.com/2025/10/24/barrack-hezbollah-and-iran-are-the-obstacle-and-israel-at-the-centre-of-trumps-middle-east-vision/
+    text: 'Tweet By Elijah J. Magnier – Ambassador Tom Barrack’s latest essay, “A Personal
+      Perspective – Syria and Lebanon Are the Next Pieces for Levant Peace,” offers
+      a revealing glimpse into the mindset driving Washington’s post-Gaza diplomacy.
+      Written in the glow of the Sharm el-Sheikh peace summit, the piece presents what
+      Barrack calls “a renewed covenant” for the Middle East — a vision of prosperity
+      and reconciliation under President Donald Trump’s leadership. Yet beneath the
+      rhetoric of cooperation and regional renewal lies a striking pattern: the name
+      Israel appears nineteen times in the text, while Palestine is entirely absent.
+      Barrack’s essay revolves unmistakably around Israeli strategic interests, which
+      he explicitly invokes six times, making them the organising principle of his vision
+      for regional peace and U.S. policy. Each reference situates Israel’s safety as
+      the core measure of success: Syria’s rehabilitation is valued because it forms
+      “the first leg of Israel’s northern security framework,” while Lebanon’s disarmament
+      of Hezbollah is framed as “the second leg.” Hezbollah itself is described as “a
+      constant red flag to Israel,” and Barrack calls its dismantling “Israel’s security
+      imperative.” Even Syria’s diplomacy is praised only insofar as it contributes
+      to “securing Israel’s northern frontier,” while the threat of renewed confrontation
+      is couched as a matter of “Israel’s strength.” Across these six instances, Barrack’s
+      concern runs deep — not simply for an ally among others, but for the consolidation
+      of Israeli regional primacy. Israel’s stability and integration are presented
+      as both the condition and the justification for every initiative Trump’s plan
+      promotes. Syria’s reconstruction, Lebanon’s political reform, and the curbing
+      of Iran’s influence all appear not as independent goals but as elements of a single
+      design: the reinforcement of Tel Aviv’s dominance in the Levant. Israeli dominance
+      as the axis of peace Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Ambassador Tom Barrack's essay emphasizes a vision for Middle
+      Eastern peace centered on Israeli interests, highlighting a renewed diplomatic
+      approach under President Trump while notably omitting any mention of Palestine.
+    paragraph_summary: In his recent essay, "A Personal Perspective – Syria and Lebanon
+      Are the Next Pieces for Levant Peace," Ambassador Tom Barrack outlines a vision
+      for Middle Eastern peace that heavily prioritizes Israeli interests, reflecting
+      Washington's post-Gaza diplomatic strategy. Written following the Sharm el-Sheikh
+      peace summit, Barrack presents a framework for regional prosperity under President
+      Trump's leadership, yet notably excludes any mention of Palestine, despite referencing
+      Israel nineteen times. His argument positions Israeli security as the central
+      tenet of U.S. policy, framing initiatives such as Syria's rehabilitation and Lebanon's
+      disarmament of Hezbollah as essential to bolstering Israel's northern defenses.
+      This reveals a broader agenda where the stability and dominance of Israel are
+      seen as prerequisites for peace in the Levant, suggesting that the proposed diplomatic
+      efforts are primarily designed to reinforce Israeli regional supremacy rather
+      than to foster genuine reconciliation or address Palestinian concerns.
+    published: '2025-10-24T04:34:59+00:00'
+  - title: 'Barrack : le Hezbollah et l’Iran comme obstacles, et Israël au centre de
+      la vision moyen-orientale de Trump'
+    url: https://ejmagnier.com/2025/10/24/barrack-le-hezbollah-et-liran-comme-obstacles-et-israel-au-centre-de-la-vision-moyen-orientale-de-trump/
+    text: 'Tweet Par Elijah J. Magnier – Le dernier essai de l’ambassadeur Tom Barrack,
+      intitulé « A Personal Perspective – Syria and Lebanon Are the Next Pieces for
+      Levant Peace » , offre un aperçu révélateur de l’état d’esprit qui anime la diplomatie
+      américaine d’après-Gaza. Rédigé dans la foulée du sommet de la paix de Charm el-Cheikh,
+      le texte présente ce que Barrack appelle « une alliance renouvelée » pour le Moyen-Orient
+      – une vision de prospérité et de réconciliation sous la direction du président
+      Donald Trump. Mais derrière la rhétorique de la coopération et du renouveau régional
+      se dessine un constat frappant : le nom d’Israël apparaît dix-neuf fois dans le
+      texte, tandis que celui de la Palestine en est totalement absent. L’essai de Barrack
+      s’articule sans ambiguïté autour des intérêts stratégiques israéliens, qu’il invoque
+      explicitement à six reprises, en faisant le principe organisateur de sa vision
+      de la paix régionale et de la politique américaine. Chaque référence situe la
+      sécurité d’Israël comme mesure centrale du succès : la réhabilitation de la Syrie
+      est valorisée parce qu’elle constitue « la première jambe du cadre de sécurité
+      nordique d’Israël », tandis que le désarmement du Hezbollah au Liban est présenté
+      comme « la seconde jambe ». Le Hezbollah lui-même est décrit comme « un signal
+      d’alerte permanent pour Israël », et Barrack qualifie son démantèlement « d’impératif
+      de sécurité pour Israël ». Même la diplomatie syrienne n’est louée que dans la
+      mesure où elle contribue à « sécuriser la frontière nord d’Israël », tandis que
+      la menace d’une nouvelle confrontation est décrite comme une question de « force
+      d’Israël ». À travers ces six occurrences, la préoccupation de Barrack est manifeste
+      : non pas simplement protéger un allié parmi d’autres, mais consolider la primauté
+      régionale d’Israël. La stabilité et l’intégration d’Israël sont présentées à la
+      fois comme la condition et la justification de toute initiative promue par le
+      plan Trump. La reconstruction de la Syrie, la réforme politique du Liban et la
+      réduction de l’influence iranienne apparaissent non pas comme des objectifs autonomes,
+      mais comme les éléments d’un seul dessein : le renforcement de la domination de
+      Tel-Aviv au Levant. La domination israélienne comme axe de la paix Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: L'essai de Tom Barrack, "A Personal Perspective – Syria and
+      Lebanon Are the Next Pieces for Levant Peace", met en lumière la diplomatie américaine
+      post-Gaza en soulignant une "alliance renouvelée" pour le Moyen-Orient centrée
+      sur les intérêts israéliens, tout en omettant toute mention de la Palestine.
+    paragraph_summary: L'essai de Tom Barrack, intitulé « A Personal Perspective – Syria
+      and Lebanon Are the Next Pieces for Levant Peace », expose la vision de la diplomatie
+      américaine post-Gaza, centrée sur une "alliance renouvelée" au Moyen-Orient sous
+      la direction de Donald Trump. Bien que le texte prône la prospérité et la réconciliation,
+      il révèle une forte préoccupation pour les intérêts israéliens, mentionnant Israël
+      dix-neuf fois, tandis que la Palestine est totalement omise. Barrack articule
+      sa vision autour de la sécurité d'Israël, considérant la réhabilitation de la
+      Syrie et le désarmement du Hezbollah comme essentiels pour la stabilité régionale,
+      et présente la domination israélienne comme la condition sine qua non de toute
+      initiative de paix.
+    published: '2025-10-24T04:33:05+00:00'
+  - title: 'Barrack : le Hezbollah et l’Iran comme obstacles, et Israël au centre de
+      la vision moyen-orientale de Trump'
+    url: https://ejmagnier.com/2025/10/24/barrack-le-hezbollah-et-liran-comme-obstacles-et-israel-au-centre-de-la-vision-moyen-orientale-de-trump/
+    text: 'Tweet Par Elijah J. Magnier – Le dernier essai de l’ambassadeur Tom Barrack,
+      intitulé « A Personal Perspective – Syria and Lebanon Are the Next Pieces for
+      Levant Peace » , offre un aperçu révélateur de l’état d’esprit qui anime la diplomatie
+      américaine d’après-Gaza. Rédigé dans la foulée du sommet de la paix de Charm el-Cheikh,
+      le texte présente ce que Barrack appelle « une alliance renouvelée » pour le Moyen-Orient
+      – une vision de prospérité et de réconciliation sous la direction du président
+      Donald Trump. Mais derrière la rhétorique de la coopération et du renouveau régional
+      se dessine un constat frappant : le nom d’Israël apparaît dix-neuf fois dans le
+      texte, tandis que celui de la Palestine en est totalement absent. L’essai de Barrack
+      s’articule sans ambiguïté autour des intérêts stratégiques israéliens, qu’il invoque
+      explicitement à six reprises, en faisant le principe organisateur de sa vision
+      de la paix régionale et de la politique américaine. Chaque référence situe la
+      sécurité d’Israël comme mesure centrale du succès : la réhabilitation de la Syrie
+      est valorisée parce qu’elle constitue « la première jambe du cadre de sécurité
+      nordique d’Israël », tandis que le désarmement du Hezbollah au Liban est présenté
+      comme « la seconde jambe ». Le Hezbollah lui-même est décrit comme « un signal
+      d’alerte permanent pour Israël », et Barrack qualifie son démantèlement « d’impératif
+      de sécurité pour Israël ». Même la diplomatie syrienne n’est louée que dans la
+      mesure où elle contribue à « sécuriser la frontière nord d’Israël », tandis que
+      la menace d’une nouvelle confrontation est décrite comme une question de « force
+      d’Israël ». À travers ces six occurrences, la préoccupation de Barrack est manifeste
+      : non pas simplement protéger un allié parmi d’autres, mais consolider la primauté
+      régionale d’Israël. La stabilité et l’intégration d’Israël sont présentées à la
+      fois comme la condition et la justification de toute initiative promue par le
+      plan Trump. La reconstruction de la Syrie, la réforme politique du Liban et la
+      réduction de l’influence iranienne apparaissent non pas comme des objectifs autonomes,
+      mais comme les éléments d’un seul dessein : le renforcement de la domination de
+      Tel-Aviv au Levant. La domination israélienne comme axe de la paix Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: L'essai de Tom Barrack, "A Personal Perspective – Syria and
+      Lebanon Are the Next Pieces for Levant Peace", met en lumière la diplomatie américaine
+      post-Gaza en soulignant une "alliance renouvelée" pour le Moyen-Orient centrée
+      sur les intérêts israéliens, tout en omettant toute mention de la Palestine.
+    paragraph_summary: L'essai de Tom Barrack, intitulé « A Personal Perspective – Syria
+      and Lebanon Are the Next Pieces for Levant Peace », expose la vision de la diplomatie
+      américaine post-Gaza, centrée sur une "alliance renouvelée" au Moyen-Orient sous
+      la direction de Donald Trump. Bien que le texte prône la prospérité et la réconciliation,
+      il révèle une forte préoccupation pour les intérêts israéliens, mentionnant Israël
+      dix-neuf fois, tandis que la Palestine est totalement omise. Barrack articule
+      sa vision autour de la sécurité d'Israël, considérant la réhabilitation de la
+      Syrie et le désarmement du Hezbollah comme essentiels pour la stabilité régionale,
+      et présente la domination israélienne comme la condition sine qua non de toute
+      initiative de paix.
+    published: '2025-10-24T04:33:05+00:00'
+  - title: 'Barrack: Hisbollah und Iran sind das Hindernis und Israel im Zentrum von
+      Trumps Nahost-Vision'
+    url: https://ejmagnier.com/2025/10/24/barrack-hisbollah-und-iran-sind-das-hindernis-und-israel-im-zentrum-von-trumps-nahost-vision/
+    text: 'Tweet Von Elijah J. Magnier – Der jüngste Aufsatz von Botschafter Tom Barrack,
+      „Eine persönliche Perspektive – Syrien und Libanon sind die nächsten Bausteine
+      für den Frieden im Nahen Osten“, bietet einen aufschlussreichen Einblick in die
+      Denkweise, die Washingtons Diplomatie nach Gaza antreibt. Der im Glanz des Friedensgipfels
+      von Sharm el-Sheikh verfasste Artikel präsentiert das, was Barrack als „erneuten
+      Bund“ für den Nahen Osten bezeichnet – eine Vision von Wohlstand und Versöhnung
+      unter der Führung von Präsident Donald Trump. Doch hinter der Rhetorik der Zusammenarbeit
+      und der regionalen Erneuerung verbirgt sich ein auffälliges Muster: Der Name Israel
+      taucht neunzehn Mal im Text auf, während Palästina völlig fehlt. Barracks Essay
+      dreht sich unmissverständlich um die strategischen Interessen Israels, die er
+      sechs Mal ausdrücklich erwähnt und damit zum Leitprinzip seiner Vision für den
+      Frieden in der Region und die Politik der USA macht. Jede Erwähnung stellt die
+      Sicherheit Israels als zentralen Maßstab für den Erfolg dar: Die Wiederherstellung
+      Syriens wird geschätzt, weil sie „die erste Säule des nördlichen Sicherheitsrahmens
+      Israels“ bildet, während die Entwaffnung der Hisbollah im Libanon als „die zweite
+      Säule“ bezeichnet wird. Die Hisbollah selbst wird als „ständige Gefahr für Israel“
+      beschrieben, und Barrack bezeichnet ihre Zerschlagung als „unabdingbar für die
+      Sicherheit Israels“. Selbst die Diplomatie Syriens wird nur insoweit gelobt, als
+      sie zur „Sicherung der Nordgrenze Israels“ beiträgt, während die Gefahr einer
+      erneuten Konfrontation als eine Frage der „Stärke Israels“ dargestellt wird. In
+      diesen sechs Fällen zeigt sich Barracks tiefe Besorgnis – nicht nur um einen Verbündeten
+      unter vielen, sondern um die Festigung der regionalen Vorherrschaft Israels. Die
+      Stabilität und Integration Israels werden als Voraussetzung und Rechtfertigung
+      für jede Initiative dargestellt, die Trumps Plan fördert. Der Wiederaufbau Syriens,
+      die politische Reform des Libanon und die Eindämmung des Einflusses des Iran erscheinen
+      nicht als unabhängige Ziele, sondern als Elemente eines einzigen Plans: der Stärkung
+      der Dominanz Tel Avivs in der Levante. Die Dominanz Israels als Achse des Friedens
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Der Aufsatz von Botschafter Tom Barrack, der im Kontext des
+      Friedensgipfels von Sharm el-Sheikh verfasst wurde, betont die strategischen Interessen
+      Israels und präsentiert eine Vision für den Nahen Osten, die die Sicherheit Israels
+      in den Mittelpunkt stellt, während Palästina völlig ignoriert wird.
+    paragraph_summary: Der Artikel von Elijah J. Magnier analysiert den jüngsten Aufsatz
+      von Botschafter Tom Barrack, der die strategischen Interessen Israels in den Mittelpunkt
+      seiner Vision für Frieden im Nahen Osten stellt, während er Palästina ignoriert.
+      Barrack beschreibt eine „erneute Bund“ unter der Führung von Präsident Trump,
+      der Wohlstand und Versöhnung verspricht, jedoch die Sicherheit Israels als zentralen
+      Maßstab für den Erfolg der Diplomatie hervorhebt. Der Aufsatz betont die Notwendigkeit,
+      Syrien und den Libanon zu stabilisieren, um die Sicherheit Israels zu gewährleisten,
+      wobei die Hisbollah als ständige Bedrohung dargestellt wird. Barracks Argumentation
+      zeigt eine klare Prioritätensetzung, die die regionale Vorherrschaft Israels festigt
+      und als Voraussetzung für jede Initiative im Rahmen von Trumps Plan betrachtet.
+    published: '2025-10-24T04:30:10+00:00'
+  - title: 'Barrack: Hisbollah und Iran sind das Hindernis und Israel im Zentrum von
+      Trumps Nahost-Vision'
+    url: https://ejmagnier.com/2025/10/24/barrack-hisbollah-und-iran-sind-das-hindernis-und-israel-im-zentrum-von-trumps-nahost-vision/
+    text: 'Tweet Von Elijah J. Magnier – Der jüngste Aufsatz von Botschafter Tom Barrack,
+      „Eine persönliche Perspektive – Syrien und Libanon sind die nächsten Bausteine
+      für den Frieden im Nahen Osten“, bietet einen aufschlussreichen Einblick in die
+      Denkweise, die Washingtons Diplomatie nach Gaza antreibt. Der im Glanz des Friedensgipfels
+      von Sharm el-Sheikh verfasste Artikel präsentiert das, was Barrack als „erneuten
+      Bund“ für den Nahen Osten bezeichnet – eine Vision von Wohlstand und Versöhnung
+      unter der Führung von Präsident Donald Trump. Doch hinter der Rhetorik der Zusammenarbeit
+      und der regionalen Erneuerung verbirgt sich ein auffälliges Muster: Der Name Israel
+      taucht neunzehn Mal im Text auf, während Palästina völlig fehlt. Barracks Essay
+      dreht sich unmissverständlich um die strategischen Interessen Israels, die er
+      sechs Mal ausdrücklich erwähnt und damit zum Leitprinzip seiner Vision für den
+      Frieden in der Region und die Politik der USA macht. Jede Erwähnung stellt die
+      Sicherheit Israels als zentralen Maßstab für den Erfolg dar: Die Wiederherstellung
+      Syriens wird geschätzt, weil sie „die erste Säule des nördlichen Sicherheitsrahmens
+      Israels“ bildet, während die Entwaffnung der Hisbollah im Libanon als „die zweite
+      Säule“ bezeichnet wird. Die Hisbollah selbst wird als „ständige Gefahr für Israel“
+      beschrieben, und Barrack bezeichnet ihre Zerschlagung als „unabdingbar für die
+      Sicherheit Israels“. Selbst die Diplomatie Syriens wird nur insoweit gelobt, als
+      sie zur „Sicherung der Nordgrenze Israels“ beiträgt, während die Gefahr einer
+      erneuten Konfrontation als eine Frage der „Stärke Israels“ dargestellt wird. In
+      diesen sechs Fällen zeigt sich Barracks tiefe Besorgnis – nicht nur um einen Verbündeten
+      unter vielen, sondern um die Festigung der regionalen Vorherrschaft Israels. Die
+      Stabilität und Integration Israels werden als Voraussetzung und Rechtfertigung
+      für jede Initiative dargestellt, die Trumps Plan fördert. Der Wiederaufbau Syriens,
+      die politische Reform des Libanon und die Eindämmung des Einflusses des Iran erscheinen
+      nicht als unabhängige Ziele, sondern als Elemente eines einzigen Plans: der Stärkung
+      der Dominanz Tel Avivs in der Levante. Die Dominanz Israels als Achse des Friedens
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Der Aufsatz von Botschafter Tom Barrack, der im Kontext des
+      Friedensgipfels von Sharm el-Sheikh verfasst wurde, betont die strategischen Interessen
+      Israels und präsentiert eine Vision für den Nahen Osten, die die Sicherheit Israels
+      in den Mittelpunkt stellt, während Palästina völlig ignoriert wird.
+    paragraph_summary: Der Artikel von Elijah J. Magnier analysiert den jüngsten Aufsatz
+      von Botschafter Tom Barrack, der die strategischen Interessen Israels in den Mittelpunkt
+      seiner Vision für Frieden im Nahen Osten stellt, während er Palästina ignoriert.
+      Barrack beschreibt eine „erneute Bund“ unter der Führung von Präsident Trump,
+      der Wohlstand und Versöhnung verspricht, jedoch die Sicherheit Israels als zentralen
+      Maßstab für den Erfolg der Diplomatie hervorhebt. Der Aufsatz betont die Notwendigkeit,
+      Syrien und den Libanon zu stabilisieren, um die Sicherheit Israels zu gewährleisten,
+      wobei die Hisbollah als ständige Bedrohung dargestellt wird. Barracks Argumentation
+      zeigt eine klare Prioritätensetzung, die die regionale Vorherrschaft Israels festigt
+      und als Voraussetzung für jede Initiative im Rahmen von Trumps Plan betrachtet.
+    published: '2025-10-24T04:30:10+00:00'
+  - title: 'Barrack: Hezbollah en Iran zijn het obstakel en Israël staat centraal in
+      Trumps visie op het Midden-Oosten'
+    url: https://ejmagnier.com/2025/10/24/barrack-hezbollah-en-iran-zijn-het-obstakel-en-israel-staat-centraal-in-trumps-visie-op-het-midden-oosten/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Het nieuwste
+      essay van ambassadeur Tom Barrack, “A Personal Perspective – Syria and Lebanon
+      Are the Next Pieces for Levant Peace” (Een persoonlijk perspectief – Syrië en
+      Libanon zijn de volgende schakels in de vrede in de Levant), biedt een onthullende
+      blik op de denkwijze achter de diplomatie van Washington na Gaza. Het essay, geschreven
+      in de gloed van de vredestop in Sharm el-Sheikh, presenteert wat Barrack “een
+      hernieuwd verbond” voor het Midden-Oosten noemt – een visie van welvaart en verzoening
+      onder leiding van president Donald Trump. Maar onder de retoriek van samenwerking
+      en regionale vernieuwing schuilt een opvallend patroon: de naam Israël komt negentien
+      keer voor in de tekst, terwijl Palestina volledig afwezig is. Barracks essay draait
+      onmiskenbaar om de strategische belangen van Israël, die hij zes keer expliciet
+      noemt, waardoor ze het organiserende principe vormen van zijn visie op regionale
+      vrede en het beleid van de VS. Elke verwijzing plaatst de veiligheid van Israël
+      als de belangrijkste maatstaf voor succes: het herstel van Syrië wordt gewaardeerd
+      omdat het “de eerste pijler van het noordelijke veiligheidskader van Israël” vormt,
+      terwijl de ontwapening van Hezbollah in Libanon wordt gekaderd als “de tweede
+      pijler”. Hezbollah zelf wordt beschreven als “een constante rode vlag voor Israël”
+      en Barrack noemt de ontmanteling ervan “een veiligheidsimperatief voor Israël”.
+      Zelfs de diplomatie van Syrië wordt alleen geprezen voor zover deze bijdraagt
+      aan “het veiligstellen van de noordelijke grens van Israël”, terwijl de dreiging
+      van een hernieuwde confrontatie wordt geformuleerd als een kwestie van “de kracht
+      van Israël”. In deze zes gevallen is Barrack’s bezorgdheid diepgaand – niet alleen
+      voor een bondgenoot onder anderen, maar voor de consolidatie van de regionale
+      suprematie van Israël. De stabiliteit en integratie van Israël worden gepresenteerd
+      als zowel de voorwaarde als de rechtvaardiging voor elk initiatief dat in het
+      plan van Trump wordt gepromoot. De wederopbouw van Syrië, de politieke hervormingen
+      in Libanon en het beteugelen van de invloed van Iran lijken geen onafhankelijke
+      doelstellingen te zijn, maar onderdelen van één enkel plan: het versterken van
+      de dominantie van Tel Aviv in de Levant. Israëlische dominantie als as van vrede
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: In zijn nieuwste essay benadrukt ambassadeur Tom Barrack de
+      strategische belangen van Israël als de kern van een vernieuwde visie op vrede
+      en welvaart in het Midden-Oosten, terwijl hij Palestina volledig negeert.
+    paragraph_summary: In zijn nieuwste essay, "A Personal Perspective – Syria and Lebanon
+      Are the Next Pieces for Levant Peace," biedt ambassadeur Tom Barrack een inzichtelijke
+      analyse van de Amerikaanse diplomatie na de gebeurtenissen in Gaza, met een sterke
+      focus op de strategische belangen van Israël. Geschreven in de context van de
+      vredestop in Sharm el-Sheikh, pleit Barrack voor een "hernieuwd verbond" in het
+      Midden-Oosten onder leiding van president Donald Trump, waarbij de veiligheid
+      van Israël de centrale maatstaf voor succes vormt. Terwijl Israël negentien keer
+      wordt genoemd, blijft Palestina volledig afwezig, wat de nadruk legt op de prioriteit
+      van Israël's belangen in de regionale stabiliteit. Barrack beschrijft de herstelprocessen
+      in Syrië en de ontwapening van Hezbollah in Libanon als cruciale elementen voor
+      de veiligheid van Israël, waarmee hij de consolidatie van Israël's regionale suprematie
+      als een voorwaarde voor vrede presenteert.
+    published: '2025-10-24T04:27:00+00:00'
+  - title: 'Barrack: Hezbollah en Iran zijn het obstakel en Israël staat centraal in
+      Trumps visie op het Midden-Oosten'
+    url: https://ejmagnier.com/2025/10/24/barrack-hezbollah-en-iran-zijn-het-obstakel-en-israel-staat-centraal-in-trumps-visie-op-het-midden-oosten/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Het nieuwste
+      essay van ambassadeur Tom Barrack, “A Personal Perspective – Syria and Lebanon
+      Are the Next Pieces for Levant Peace” (Een persoonlijk perspectief – Syrië en
+      Libanon zijn de volgende schakels in de vrede in de Levant), biedt een onthullende
+      blik op de denkwijze achter de diplomatie van Washington na Gaza. Het essay, geschreven
+      in de gloed van de vredestop in Sharm el-Sheikh, presenteert wat Barrack “een
+      hernieuwd verbond” voor het Midden-Oosten noemt – een visie van welvaart en verzoening
+      onder leiding van president Donald Trump. Maar onder de retoriek van samenwerking
+      en regionale vernieuwing schuilt een opvallend patroon: de naam Israël komt negentien
+      keer voor in de tekst, terwijl Palestina volledig afwezig is. Barracks essay draait
+      onmiskenbaar om de strategische belangen van Israël, die hij zes keer expliciet
+      noemt, waardoor ze het organiserende principe vormen van zijn visie op regionale
+      vrede en het beleid van de VS. Elke verwijzing plaatst de veiligheid van Israël
+      als de belangrijkste maatstaf voor succes: het herstel van Syrië wordt gewaardeerd
+      omdat het “de eerste pijler van het noordelijke veiligheidskader van Israël” vormt,
+      terwijl de ontwapening van Hezbollah in Libanon wordt gekaderd als “de tweede
+      pijler”. Hezbollah zelf wordt beschreven als “een constante rode vlag voor Israël”
+      en Barrack noemt de ontmanteling ervan “een veiligheidsimperatief voor Israël”.
+      Zelfs de diplomatie van Syrië wordt alleen geprezen voor zover deze bijdraagt
+      aan “het veiligstellen van de noordelijke grens van Israël”, terwijl de dreiging
+      van een hernieuwde confrontatie wordt geformuleerd als een kwestie van “de kracht
+      van Israël”. In deze zes gevallen is Barrack’s bezorgdheid diepgaand – niet alleen
+      voor een bondgenoot onder anderen, maar voor de consolidatie van de regionale
+      suprematie van Israël. De stabiliteit en integratie van Israël worden gepresenteerd
+      als zowel de voorwaarde als de rechtvaardiging voor elk initiatief dat in het
+      plan van Trump wordt gepromoot. De wederopbouw van Syrië, de politieke hervormingen
+      in Libanon en het beteugelen van de invloed van Iran lijken geen onafhankelijke
+      doelstellingen te zijn, maar onderdelen van één enkel plan: het versterken van
+      de dominantie van Tel Aviv in de Levant. Israëlische dominantie als as van vrede
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: In zijn nieuwste essay benadrukt ambassadeur Tom Barrack de
+      strategische belangen van Israël als de kern van een vernieuwde visie op vrede
+      en welvaart in het Midden-Oosten, terwijl hij Palestina volledig negeert.
+    paragraph_summary: In zijn nieuwste essay, "A Personal Perspective – Syria and Lebanon
+      Are the Next Pieces for Levant Peace," biedt ambassadeur Tom Barrack een inzichtelijke
+      analyse van de Amerikaanse diplomatie na de gebeurtenissen in Gaza, met een sterke
+      focus op de strategische belangen van Israël. Geschreven in de context van de
+      vredestop in Sharm el-Sheikh, pleit Barrack voor een "hernieuwd verbond" in het
+      Midden-Oosten onder leiding van president Donald Trump, waarbij de veiligheid
+      van Israël de centrale maatstaf voor succes vormt. Terwijl Israël negentien keer
+      wordt genoemd, blijft Palestina volledig afwezig, wat de nadruk legt op de prioriteit
+      van Israël's belangen in de regionale stabiliteit. Barrack beschrijft de herstelprocessen
+      in Syrië en de ontwapening van Hezbollah in Libanon als cruciale elementen voor
+      de veiligheid van Israël, waarmee hij de consolidatie van Israël's regionale suprematie
+      als een voorwaarde voor vrede presenteert.
+    published: '2025-10-24T04:27:00+00:00'
   - title: 'À l’intérieur de la campagne de pression de Trump : comment Washington a
       forcé Netanyahu à accepter un cessez-le-feu qu’il peine à contrôler'
     url: https://ejmagnier.com/2025/10/21/a-linterieur-de-la-campagne-de-pression-de-trump-comment-washington-a-force-netanyahu-a-accepter-un-cessez-le-feu-quil-peine-a-controler/
