@@ -7,16 +7,486 @@ description: "Ex-MI6 diplomat and founder of Conflicts Forum (Beirut); publishes
 websites:
   - https://www.eurasiareview.com/author/alastair-crooke/
 summary: |
-  As the geopolitical landscape continues to shift rapidly, recent analyses highlight the deepening crisis of Western dominance and the emergence of new, more aggressive doctrines in U.S. and Israeli foreign policy. The context is defined by a West grappling with internal political upheaval, economic decline, and a loss of global influence, while rivals such as China, Russia, and Iran consolidate their positions.
+  As the global order continues to shift, recent analyses highlight intensifying uncertainty in U.S. foreign policy, the erosion of Western economic dominance, and the growing assertiveness of non-Western powers. The latest RAND Corporation report, as discussed by **Alastair Crooke**, challenges the entrenched U.S. view of China as a perpetual adversary, instead advocating for mutual recognition and cooperation. However, Crooke notes that "such a shift in perspective is unlikely to gain traction in Washington," given the prevailing political climate and ongoing internal divisions.
   
-  Most recently, **Alastair Crooke** underscores the U.S.'s increasing reliance on militaristic rhetoric and coercive tactics, particularly under Trump's leadership. Trump's assertion that the U.S. could have "easily won" wars like Vietnam and Afghanistan if not for political correctness reflects a broader trend: the adoption of a doctrine that prioritizes dominance through force and financial leverage, often at the expense of established norms and diplomatic engagement. Crooke notes, "The West is now moving fast, breaking things, and discarding the rules-based order in favor of raw power politics."
+  Meanwhile, the abrupt cancellation of President Trump's proposed summit with President Putin underscores the deepening rift between the U.S. and Russia. According to **Crooke**, this move reflects Washington’s failure to grasp Moscow’s rejection of a ‘frozen conflict’ status quo, and signals a period of escalating tensions. Compounding this, Japan’s recent pivot towards China could further destabilize U.S. economic influence in Asia, introducing additional volatility to the region.
   
-  On the Israeli front, Crooke points to a significant shift toward what he terms "violent Zionism," with Israel pursuing military solutions and the imposition of control as its primary strategy. This approach, he argues, is not only escalating regional tensions but also eroding Israel's standing in the U.S. and globally, as American conservatives grow increasingly uneasy with unconditional support for Israeli actions.
+  On the domestic front, the U.S. faces mounting pressure to adapt to a rapidly changing geopolitical and financial landscape. The West’s postwar economic model—rooted in debt-driven consumerism and liberal globalism—is now widely seen as unsustainable. As **Crooke** observes, “the urgent need for a fundamental transition away from outdated ideological frameworks” has become apparent, yet there is little consensus or capacity for meaningful reform.
   
-  Meanwhile, the broader Middle East is witnessing the consequences of these shifts. The sidelining of traditional mediators like Qatar following Israeli strikes, and the growing assertiveness of Iran—strengthened rather than weakened by recent U.S. and Israeli actions—signal a realignment of power in the region. The U.S.'s withdrawal from Ukraine and the expectation that Europe shoulder more of the burden further illustrate Washington's retreat from its former role as global enforcer.
-  
-  Looking ahead, the prevailing trend is clear: the West's crisis of liberalism and the rise of radical populism are fueling a new era of anarchic governance and coerced dominance. As Crooke puts it, "The genie of ‘Israeli First’ dominance is out of the bottle," and attempts to restore the previous order are unlikely to succeed. There is a high chance that the U.S. will continue to double down on coercive strategies, but with diminishing returns and increasing resistance from both allies and adversaries. I guarantee that the transition to a multipolar world will accelerate, with the West struggling to adapt to the realities of its declining hegemony.
+  **Trends and Predictions:**  
+  The majority of sources agree that the U.S. is entering a period of heightened geopolitical risk and diminished global leverage. There is a high chance that Washington will struggle to recalibrate its foreign policy, especially regarding China and Russia. The shift in Asia, particularly Japan’s alignment with China, is quite likely to accelerate the decline of U.S. economic influence in the region. I guarantee that, absent a dramatic policy rethink, the West’s internal divisions and economic vulnerabilities will continue to undermine its global position in the coming months.
 articles:
+  - title: 'U.S. Foreign Policy In Contention: Is Trump Allowed To Agree A Deal With
+      China (but Not Russia Or Iran)? – OpEd'
+    url: https://www.eurasiareview.com/03112025-u-s-foreign-policy-in-contention-is-trump-allowed-to-agree-a-deal-with-china-but-not-russia-or-iran-oped/
+    text: 'By Alastair Crooke
+
+
+      U.S. foreign policy, drenched in the hubris that the U.S. won the Cold War militarily
+      (in Afghanistan); won it economically (liberal markets); and culturally too, (Hollywood)
+      — and therefore rightly deserves, as Trump puts it, the “fun” of “running both
+      the country the world”. Well, that policy is now in contention for the first time.
+
+
+      Will this matter?
+
+
+      This month, the RAND Organisation, an institution whose shadow has long lain across
+      U.S. foreign policy matters, has challenged the Cold War hubris in respect to
+      China.
+
+
+      Though the report focuses on America’s preoccupation with the threat of China’s
+      ascendency, the implications of questioning the doctrine — that no challenger
+      to U.S. hegemony, financial or military, can be tolerated — does cut to the absolute
+      heart of U.S. foreign policy practice.
+
+
+      The key finding from RAND is that “China and the U.S. should strive to achieve
+      a modus vivendi” together through “each accepting the political legitimacy of
+      the other, constraining efforts to undermine each other, at least to a reasonable
+      degree”.
+
+
+      To propose that each side should acknowledge and accept the legitimacy of the
+      other, rather than see ‘the other’ as a malignant threat, would in itself represent
+      a small revolution.
+
+
+      Were it to apply to China, then why not to Russia or Iran too?
+
+
+      More telling: RAND prescribes that the U.S. leadership in particular should reject
+      notions of ‘absolute victory’ over China – as well as to accept the One China
+      Policy by stopping provoking China through military-minded visits to Taiwan designed
+      specifically to keep China threatened and on edge.
+
+
+      This comes on the eve of Trump’s scheduled meeting with President Xi Jinping in
+      Kuala Lumpur, in which Trump is seeking a ‘trade deal’ with China that reaffirms
+      his dominance and gives him space for his radical plans to re-structure America’s
+      financial landscape – if he can.
+
+
+      Can the pivot proposed by RAND truly be accepted in DC? RAND does possess real
+      weight in Washington – so does this report reflect a split in the structural architecture
+      of the Dark State? Other signs (in the Middle East/ West Asia) point in the opposite
+      direction.
+
+
+      The U.S. has been running the same foreign policy playbook for decades. So, is
+      the U.S. even capable of such radical cultural transformation, as advocated by
+      RAND?
+
+
+      The West is in decline – yes. But does that make it easier, or harder, for it
+      to accept some RAND servings of common sense? It does seem, in respect to China,
+      that a technical view has formed within U.S. defence circles that ‘no way’ can
+      the U.S. take on China militarily.
+
+
+      Yet any profound change takes time to fully register and can be overturned by
+      unexpected events. There are a number of potential black swans circling us, at
+      this time.
+
+
+      And who would lead such a change in national self-perception? Would real (institutional)
+      change emerge from top-down, or come from bottom up?
+
+
+      By ‘bottom up’, could this emerge as a populist ‘America First’-driven impulse
+      resulting from Trump and the GOP losing the House at the Midterms?
+
+
+      In one sense, RAND is clearly right that beyond hyping a piece of short-term theatre,
+      the U.S. no longer can win an economic or tech war – or a military conflict with
+      China – in the longer-term. An uneasy truce seems, for now, to be in prospect.
+
+
+      But for how long?
+
+
+      The Wall Street Journal has suggested a different perspective to the usual Washington
+      consensus: “During his first term, Trump often frustrated Xi Jinping – with his
+      freewheeling mix of threats and bonhomie”.
+
+
+      “This time the Chinese leader believes he has cracked the code”, the WSJ writes:
+      Xi has thrown out traditional diplomatic practice and tailored a new one specifically
+      for Trump. After long preparation, the WSJ argues, Xi has decided to hit back
+      even harder, in a bid to gain leverage over Trump, whilst projecting strength
+      and unpredictability — qualities he believes the U.S. president admires.
+
+
+      Seemingly, China is intent on asserting itself forcefully. It wants to drive the
+      dynamic, and is confident that this hardline approach will gain a resoundingly
+      positive response within China (— and in the rest of the world, the WSJ neglects
+      to acknowledge).
+
+
+      The question is how might Xi’s riposte play-out in the U.S.? Yet the big question
+      remains unanswered: Who controls U.S. foreign policy anyway?
+
+
+      One obvious answer after the Budapest (no) summit débacle is that Trump has little
+      or no agency in this corner of foreign policy. He is wholly co-opted. And was
+      sent a bunt ‘reminder’ to this effect, from the ‘powers that be’ – ‘No normalisation
+      with Moscow’.
+
+
+      Ceasefire, ‘yes’; because a frozen conflict, unencumbered by restrictions on Ukrainian
+      re-armament, would give the NATO Establishment scope to redefine the conflict
+      – from one of NATO’s strategic defeat to a ‘holding’ victory, through promulgating
+      the narrative of a Russian economy progressively weakening.
+
+
+      This contrived formulation holds out — at least in the minds of Europeans – the
+      promise of some final ceasefire at a later stage, by imposing continuing serial
+      costs on Russia that finally compel that ceasefire.
+
+
+      The ‘fly in soup’ to this scam is that Moscow absolutely will not agree to a frozen
+      conflict — and anyway sees the battlespace working towards Russian victory.
+
+
+      The reality is that the Ukraine final outcome will be whatever ‘it is’. The Europeans
+      know it, but cannot say it because they cannot orient to a world in which their
+      way of seeing it does not prevail. If this Luddism be counted as western ‘leverage’,
+      then it is ephemeral and will fade as economic realities bite in Europe.
+
+
+      What then accounts for Trump’s Russian débacle? On the one hand, it was the veto
+      of pro-Israel mega-donors, for whom a militarily hegemonic U.S. – supporting Israel
+      – must be preserved at all costs. Israel cannot exist without it. Many, if not
+      all Team Trump, have been imposed from the outside – by certain zealot donors
+      and likeminded billionaires. (Trump was surprisingly candid about this reality
+      during his address at the Knesset last month).
+
+
+      Some of these Trump donors are also part of the (separate) Wall Street faction
+      who, besides being pro-Zionist, have wider financial concerns in mind. The U.S.
+      financial system desperately requires reinforcing with collateral (i.e. assets
+      having inherent value: such as oil, natural resources, etc.) as underpinning to
+      an over-leveraged U.S. shadow banking system.
+
+
+      This Wall Street (Frankish) pro-Israel faction still harks after a reprise of
+      ‘Russia in the nineties’ (however unlikely). But they share also, with the main
+      pro-Israeli donor block, Israel’s determination to keep Russia out of the Middle
+      East; and extended by the Ukraine conflict. On 7 October this year, Netanyahu
+      begged Putin not to arm Iran, reportedlythreatening retaliation in Ukraine.
+
+
+      The China trade deal calculus – for such donors – is wholly different. Should
+      Trump agree a ‘strong’ trade agreement with China, it would be seen in the White
+      House as undercutting the ability of Canada to assemble cheap component goods
+      derived from China and elsewhere – for transhipment and sale into the U.S. market.
+      A China deal would give Trump additional leverage, heading into the 2026 USMCA
+      (CUSMA) dissolution phase.
+
+
+      The latter is important as Trump seeks to fold the whole western hemisphere –
+      from Argentina to north Antarctic — into the U.S. ‘fold’.
+
+
+      Agreement with China on rare earth export controls however, would be clearly crucial
+      to the entire U.S. tech sector. China’s grip on the rare earth supply chain is
+      not just dominant — it’s nearly unassailable. With 70% of global rare earths (a
+      100% in a few metals) and with 94% refining capacity, Beijing has prepared and
+      built a fortress around one of the most critical inputs to modern technology.
+
+
+      There is another reason – perhaps even an overriding reason – why the U.S. needs
+      a ‘rescue’ by China, urgently.
+
+
+      The legal basis for Trump’s global tariff onslaught has strayed ever further away
+      from the ‘economic emergency’ exceptionality – to the U.S. Constitution’s clarity
+      that the authority for raising of revenues, in principle, falls to Congress –
+      and is not a prerequisite of the Executive. (Tariffs, it will be argued, are revenues.)
+
+
+      Clearly, Trump has stretched the ‘economic emergency’ justification to the limit.
+      Initial tariff cases will come before the Supreme Court very shortly (1 November).
+      Were the Court to find against Trump, it could order all tariff revenues so far
+      gathered to be repaid.
+
+
+      How would this impact on the foreign policy of the United States, given that tariffs
+      have been instrumentalised to force states to pay huge sums to the U.S. (in respect
+      to inward capital investment)?
+
+
+      It is too early to tell. But in the case of China, Trump and the U.S. badly need
+      a deal. Trump’s economic policy more generally (unless reversed by the Supreme
+      Court) marks a permanent change in the economic and geopolitical landscape. There’s
+      no going back to the ex-ante as it existed before November 2024.
+
+
+      The once-prevailing globally interconnected order of things is being swept away,
+      and a new one of standalone economic blocks with their own internal alliances,
+      supply chains and technologies is taking its place.
+
+
+      In other foreign policy areas such a radical change in direction is less likely
+      – at least for now. The pro-Israeli ruling billionaires behind Trump will stop
+      at nothing in their efforts in support of Israel in its goal of imposing a Greater
+      Israel founded amidst a new Nakba.
+
+
+      But in the longer-term, pro-Israel dominance over foreign policy is less assured.
+      Support amongst young Americans for Israel is bleeding out. The Congress will
+      remain ‘bought’ by AIPAC, and Trump has irreversibly defined himself as an unwavering
+      supporter of Israel. A breach between Trump and his MAGA base has begun. And Israel
+      has begun to panic about the America First, anti-Israeli vibe shift taking place
+      amongst young Americans.
+
+
+      In spite of possible re-districting of constituencies in America’s South prompted
+      by challenges to the 1965 Voter Registration Act (that may give the GOP an extra
+      12 House seats), Trump could still lose the Midterms. This means that effectively
+      Trump’s agenda would have but one year to run – until overwhelmed by Democratic
+      obstruction, investigations or even impeachment efforts begin.
+
+
+      The reason for Trump’s rush is plain. Of course, none of this may occur, and the
+      U.S. (and European) ruling strata may sink back into their cushions, with a sigh
+      of relief that the old agenda can be revived. But complacency would be misplaced.
+      The old comfortable world is not coming back. The young – if anything – are much
+      more radical.'
+    one_sentence_summary: The article discusses a RAND Corporation report that challenges
+      U.S. foreign policy assumptions about China, advocating for mutual recognition
+      and cooperation instead of viewing China as a threat, while questioning whether
+      such a shift in perspective is feasible in Washington amidst ongoing geopolitical
+      tensions and internal political dynamics.
+    paragraph_summary: In his article, Alastair Crooke critiques U.S. foreign policy,
+      particularly its approach to China, which has been characterized by a sense of
+      superiority following the Cold War. He highlights a recent RAND Corporation report
+      advocating for a cooperative relationship between the U.S. and China, suggesting
+      that both nations should recognize each other's political legitimacy rather than
+      viewing one another as threats. This perspective challenges the longstanding U.S.
+      doctrine of maintaining absolute hegemony and raises questions about the potential
+      for a shift in U.S. foreign policy, especially in light of Trump's upcoming trade
+      negotiations with China. Crooke also discusses the complexities of U.S. foreign
+      policy influenced by various interests, including pro-Israel factions and economic
+      pressures, while noting a generational shift in American attitudes towards Israel.
+      He concludes that while significant changes in foreign policy may be difficult
+      to achieve, the current geopolitical landscape is evolving, and complacency could
+      be dangerous as younger Americans adopt more radical views.
+    published: '2025-11-03T16:43:58+00:00'
+  - title: The World Financial And Geo-Political Framework At A Time Of Imminent Disorder
+      – OpEd
+    url: https://www.eurasiareview.com/29102025-the-world-financial-and-geo-political-framework-at-a-time-of-imminent-disorder-oped/
+    text: 'By Alastair Crooke
+
+
+      Trump’s attempt to build a ‘Budapest scenario’ (i.e. a Putin-Trump summit grounded
+      on the earlier Alaska ‘understanding’) was unilaterally cancelled (by the U.S.)
+      amid acrimony. Putin had initiated the 2.5 hr Monday call. It reportedly contained
+      tough talking by Putin about the lack of U.S. preparation towards a political
+      framework – both in respect to Ukraine, but crucially also in respect to Russia’s
+      wider security needs.
+
+
+      However, when it was announced by the American side, Trump’s proposal had reverted
+      (yet again) to the Keith Kellogg (the U.S. Ukraine Envoy) doctrine of a ‘frozen
+      conflict’ on the existing Contact Line preceding any peace negotiations – not
+      vice versa.
+
+
+      Trump must have known well before the Budapest talks were mooted that this Kellogg
+      doctrine had been rejected, time after time, by Moscow. So why did he repeat the
+      demand for it again? In any event, the Budapest summit scenario had to be cancelled
+      after the pre-agreed ‘set-up’ call between Foreign Minister Sergey Lavrov and
+      Secretary of State Marco Rubio ran up against a wall. As Lavrov again insisted
+      that a Kellogg-style ceasefire in place would not fly.
+
+
+      It seems that the U.S. Administration expected that its threats to supply Ukraine
+      with Tomahawk missiles amid toughening U.S. rhetoric of deep strikes into Russia
+      would be pressure enough to have Putin agree a freeze in the here and now format,
+      with all discussion of details and a wider solution postponed, sine die.
+
+
+      Russian military analysts reportedly told Putin that Trump’s threats were bluff
+      — even if the Tomahawk supplies were made available, the quantity would be limited
+      and would not inflict any tactical or strategic defeat on Russia.
+
+
+      The course of events implies that either Trump did not grasp this Russian ‘reality’
+      – despite two years of repetition that Russia would not budge on a ‘here and now
+      freeze’. Or alternatively, that the ‘dark money’ interests came down hard on Trump,
+      telling him that a real peace process with Russia was not allowed. So Trump cancelled
+      the whole scenario, muttering to the media that a Budapest meeting would have
+      been “a waste of time” — leaving his Administration (U.S. Treasury Secretary Bessent)
+      to announce new sanctions on Russia’s largest oil companies, accompanied by a
+      call to allies to join with them.
+
+
+      Let us recall – the ‘Russian’ reality is that Putin would not want to repeat the
+      mistake of 1918, when Russia signed the humiliating Brest-Litovsk peace, under
+      pressure from Germany. Putin often repeats that it was precisely the pressures
+      to ‘let’s just stop’ in 1918 that cost Russia its status as a major power, and
+      lost it entire generations of Russians. The colossal effort of millions of people
+      was exchanged for the humiliating Brest-Litovsk peace. Chaos and collapse followed.
+
+
+      Putin remains focussed on achieving a new Europe-wide security architecture, though
+      Trump’s capriciousness and unseen constraints must put new calls by Putin or meetings
+      into question. Putin is angry — many Russian ‘red lines’ have been crossed; escalation
+      is coming – perhaps at an unprecedented level.
+
+
+      The Europeans, undaunted by the Belgrade meeting cancellation, are touting a ’new/old’
+      twelve-point plan that would rule out territorial concessions and would prescribe
+      a ceasefire along the current front lines. The western Ruling Strata are making
+      matters abundantly clear: Russia must be defeated. Escalation has already begun:
+      New EU sanctions on Russian gas imports into the EU have been announced and overnight
+      strikes on oil refineries in Hungary and Romania (the latter being a NATO state)
+      were launched. Again, the message to EU states is clear: no backsliding. Polish
+      Prime Minister Donald Tusk underlined on X the point: “All Russian targets in
+      the EU are legitimate”. The EU is clearly willing to go to any length to make
+      war on its own to compel adherence.
+
+
+      Given that the Kiev side finds it impossible to contemplate resiling from any
+      part of its territory – whilst Russia retains the preponderance of hard force
+      – it is hard to see how any negotiation is feasible at this time. Likely, Ukraine
+      will be settled by a trial of strength. The EU urgency to its attempt to win Trump
+      to its side likely reflects its fear of the accelerating and accumulating Russian
+      military victories.
+
+
+      All this Russia turmoil is occurring as Bessent heads to Kuala Lumpur to challenge
+      China’s response to the U.S.’ sudden extension (after holding apparently promising
+      trade talks) of export controls to tech products imported by China. China riposted
+      by promulgating rare earth controls in retaliation.
+
+
+      An angry Trump exploded – threatening China with 100% tariffs. The U.S. stock
+      market, following a well-worn pattern, initially crashed, but Trump quickly posted
+      an upbeat announcement in time for the opening of the ‘futures market’, and buyers
+      piled in, with stocks hitting record highs. For Americans, all was well.
+
+
+      However, last Monday, Trump’s eulogistically positive language towards China –
+      unexpectedly shot-up to volume ‘11’: “I think when we finish our meetings in South
+      Korea [with Xi], China and I will have a really fair and really great trade deal
+      together”, Trump said. He voiced hope that China would resume purchases of American
+      soybeans after imports by Beijing plunged amid the tariff standoff. He also urged
+      China “to stop with the fentanyl”, accusing the Chinese authorities of failing
+      to curb exports of the synthetic opioid and its chemical precursors
+
+
+      And just to ensure that the stock market rocketed to yet a new record high, Trump
+      added that he doesn’t think that ‘China wants to invade Taiwan’.
+
+
+      However, now that Moscow has effectively put a stop to the U.S. ‘Budapest’ scenario,
+      the question is: Will Xi too decide that continuing with Trump capriciousness
+      is worth the inevitable angst (the meeting in South Korea is unconfirmed at this
+      point). And angst seems likely to soar.
+
+
+      Perhaps however, Trump’s shift to such excessively positive language towards China
+      reflects something else: A shock development for Trump and the U.S. possibly?
+
+
+      The newly inaugurated Prime Minister of Japan, Sanae Takaishi, had widely been
+      expected, on taking office, to deliver strong anti-China rhetoric; to strengthen
+      the alliance with the U.S.; to boost Japan’s military power; and to contain Beijing.
+
+
+      Yet, the opposite happened.
+
+
+      In her first address to the nation, Takaishi said that she would not support the
+      U.S. trade war against China, and would not become an instrument of U.S. economic
+      pressure. She openly criticised Trump’s tariff policy, calling it ‘the most dangerous
+      mistake of the 21stcentury’.
+
+
+      Reuters commented that her stance was wholly unexpected in Washington. A big shock.
+      It emerged that since taking office, the new PM had held a series of meetings
+      with the largest Japanese corporations who had conveyed a unified and urgent message
+      to her: Simply – the Japanese economy would not survive another trade war.
+
+
+      Then, one week after taking office, she openly expressed support for China, executing
+      the biggest foreign policy pivot since WW2. China was no longer the ‘enemy’.
+
+
+      A new era in Asia has arrived. Trump is in shock: He accused Takaishi of betraying
+      the principles of free trade. CNN called it a ‘stab in the back’, by a close ally.
+
+
+      But worse was to come: Polls showed the PM enjoyed 60% support for her stance
+      on Japanese economic independence – and more than 50% supported her position on
+      China, too!
+
+
+      Bloomberg dropped a further bombshell: Takaishi has begun – in conjunction with
+      China and South Korea – a strategic recalibration of Asia’s monetary architecture
+      in response to Washington’s growing use of economic power as leverage. China,
+      Japan, and South Korea are building a common currency area. The proposed trilateral
+      swap would allow the three to settle trade, extend liquidity, and manage crises
+      through their own currencies – entirely independently from the West.
+
+
+      Were these projects to mature, it would chip away at the scaffolding of dollar
+      primacy by removing 15% of global trading from the dollar sphere, and would likely
+      see the entire existing (pro-western) Asian balance of power collapse.
+
+
+      It goes further: Takaishi’s vision would mesh with the SCO/BRICS unfolding of
+      its digital clearing system across all of Central Asia. Yet Trump wants the BRICS
+      dismantled, together with any other threats to U.S. dollar hegemony. Expect escalation
+      – more threats of tariffs.
+
+
+      Should China not respond sufficiently enthusiastically to the Trump charm offensive,
+      then matters likely will escalate in tandem with escalations versus Russia (Venezuela
+      and possibly Iran). Trump has already threatened Japan with sanctions, though
+      this seems likely only to push Japan closer to China where the predominance of
+      Japan’s trading interests now lies. A volatile period lies ahead, likely punctuated
+      by violent oscillations in financial markets.
+
+
+      Russia and China remain closely aligned on geo-political issues – and both may
+      have other reasons to keep talking with Trump (if only to avoid inadvertently
+      triggering a financial crisis in the West for which they will be blamed), or for
+      military de-confliction purposes. But it seems that more than for these states
+      alone, the Trump leverage tactics are backfiring – whilst the debt and credit
+      crisis in the U.S. grows ever more acute.
+
+
+      Any of these geo-political trysts could ignite into flames. Ukraine-Russia, Venezuela,
+      Iran, Syria, Lebanon, Pakistan-India and of course Gaza and West Bank, are just
+      some of the hotspots. The situation is brittle; Trump exists beyond strategic
+      analysis, and the Europeans lack any real leadership and are embarked internally
+      on war psychosis.
+
+
+      As the old Viennese saying has it: “In Vienna, the situation is desperate – but
+      not serious” (i.e. have no expectation anyone in the West will react to it with
+      any modicum of sobriety).'
+    one_sentence_summary: The article discusses the cancellation of Trump's proposed
+      summit with Putin, highlighting the U.S.'s failure to recognize Russia's rejection
+      of a 'frozen conflict' approach, the escalating tensions between the U.S. and
+      Russia, and the unexpected pivot of Japan towards China, which could destabilize
+      U.S. economic influence in Asia and lead to further geopolitical volatility.
+    paragraph_summary: In a recent article by Alastair Crooke, the failed attempt by
+      Trump to establish a "Budapest scenario" for a summit with Putin is examined,
+      highlighting the U.S.'s unilateral cancellation of the talks amid tensions over
+      Ukraine and broader security issues. Putin's insistence on a political framework
+      was met with Trump's adherence to a previously rejected "frozen conflict" doctrine,
+      leading to the summit's collapse and subsequent U.S. sanctions on Russia. The
+      article also discusses the shifting dynamics in Asia, particularly Japan's new
+      Prime Minister Sanae Takaishi's unexpected pivot towards China, which could undermine
+      U.S. economic influence and dollar dominance. As geopolitical tensions escalate,
+      particularly with Russia and China, the article suggests that Trump's unpredictable
+      approach may exacerbate existing crises, leaving the situation fragile and uncertain.
+    published: '2025-10-29T16:46:53+00:00'
   - title: Waiting On Images Of Abject Submission That Don’t Appear – OpEd
     url: https://www.eurasiareview.com/14102025-waiting-on-images-of-abject-submission-that-dont-appear-oped/
     text: 'By Alastair Crooke

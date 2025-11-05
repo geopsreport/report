@@ -7,14 +7,929 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  The recent US-brokered ceasefire in Gaza, established under President Trump’s Twenty-Point Plan, has temporarily halted hostilities but left the region’s political future deeply uncertain. As **Elijah J. Magnier** notes, while the guns have fallen silent for now, “aucune autorité claire ne s’est établie” (no clear authority has been established) to govern Gaza, and the contest for control remains unresolved among local and regional actors.
+  Lebanon remains at the center of regional instability, with its internal crisis compounded by persistent external pressure. The country's severe socio-economic collapse and governance paralysis have prompted U.S. Envoy Thomas Barrack to label Lebanon a "failed state." However, as **Elijah J. Magnier** notes, Barrack's ongoing engagement with Lebanese officials suggests a more complex agenda, raising questions about Washington's true intentions. The "failed state" designation, according to Magnier, serves as a political tool rather than a neutral assessment, especially given the U.S. role in shaping Lebanon's current predicament.
   
-  Skepticism is mounting regarding Israel’s willingness or ability to adhere to the terms of the agreement. Multiple reports highlight doubts about Israeli compliance, with **Magnier** emphasizing that “twijfels over de naleving van de overeenkomst door Israël” (doubts about Israel’s compliance with the agreement) persist. This uncertainty is compounded by the lack of a concrete roadmap for Gaza’s governance, raising fears that the ceasefire could unravel or be sabotaged if underlying issues remain unaddressed.
+  Meanwhile, the 2024 truce between Israel and Lebanon has effectively unraveled. Daily Israeli strikes, justified as self-defense, have rendered the ceasefire a mere facade. **Elijah J. Magnier** emphasizes that these operations maintain Lebanon in a state of perpetual threat, keeping the country destabilized without a formal declaration of war. This strategy allows Israel to exert continuous pressure while avoiding the diplomatic consequences of open conflict.
   
-  The broader diplomatic context is also shifting. The US intervention, prompted by an Israeli strike on Qatari territory, has altered the balance of power between Washington and Tel Aviv. **Magnier** reports that this incident forced the US to act decisively to end the violence, while Israeli Prime Minister Netanyahu now faces a political crisis at home and diminished leverage abroad.
+  On the broader regional front, U.S. policy continues to enable Israeli military actions, particularly in Gaza. The language of "revenge" endorsed by figures like Donald Trump, as highlighted by **Elijah J. Magnier**, undermines diplomatic norms and international law, granting Israel broad latitude for continued operations under the guise of self-defense.
   
-  Looking ahead, the majority of analysts agree that the current ceasefire is fragile and the absence of a clear governance solution for Gaza will likely lead to renewed instability. There is high confidence that unless a credible and inclusive authority emerges, “keine der beteiligten Parteien eine Einigung erzielen kann” (none of the involved parties can reach an agreement), making a sustainable peace elusive. Most definitely, the coming days will test the durability of the Trump-brokered arrangement and the willingness of all sides to avoid a return to conflict.
+  **Trends and Predictions:**  
+  - There is a high chance that Lebanon's internal crisis will deepen, as external actors use the "failed state" narrative to justify further intervention or pressure.
+  - The current pattern of Israeli strikes is most definitely set to continue, keeping Lebanon in a state of "no peace, no war" and preventing meaningful stabilization.
+  - U.S. support for Israeli actions, both in Lebanon and Gaza, is unlikely to waver in the near term, reinforcing the cycle of instability in the region.
+  
+  In summary, the intersection of internal collapse and external manipulation leaves Lebanon trapped in a cycle of crisis, with no clear path to recovery as regional power dynamics continue to play out at its expense.
 articles:
+  - title: Is Lebanon Really a Failed State? How Washington Made It — and Now Offers
+      the Cure, Unwittingly
+    url: https://ejmagnier.com/2025/11/03/is-lebanon-really-a-failed-state-how-washington-made-it-and-now-offers-the-cure-unwittingly/
+    text: 'Tweet By Elijah J. Magnier – In political science, a failed state is defined
+      as one that can no longer provide security, justice, or basic services to its
+      citizens, nor maintain a monopoly over legitimate violence within its territory.
+      When U.S. Envoy Thomas Barrack described Lebanon as a “failed state,” he was not
+      simply diagnosing collapse but was drawing a political line. Is he accurate to
+      define Lebanon as failed while he continues to meet its ministers, army commanders,
+      and diplomats, urging them to take actions that would overwhelm even a fragile
+      government—one still reeling from war, economic breakdown, and Israel’s unrelenting
+      bombardment? What are Barrack’s real intentions behind this definition? At first
+      glance, Barrack’s statement seems to mirror Lebanon’s misery. The economy has
+      imploded, the currency has lost more than 95 per cent of its value, electricity
+      is scarce, and citizens depend on private generators and water trucks. The state’s
+      capacity to provide education, healthcare, and welfare has been hollowed out.
+      For Washington, that profile fits the textbook definition of a failed state. Yet
+      Lebanon still possesses functioning ministries, a recognised army, an elected
+      parliament, a judiciary, and a diplomatic network. It is not Somalia in the 1990s,
+      nor Yemen in full-scale war. The label “failed” therefore oversimplifies. It erases
+      the difference between collapse and constraint : between a state that cannot act
+      and one that is not allowed to. Subscribe Subscribe to get access Read more of
+      this content when you subscribe today. Subscribe Submitting form Log in Make a
+      one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: U.S. Envoy Thomas Barrack's characterization of Lebanon as
+      a "failed state" reflects the country's severe socio-economic crisis and governance
+      challenges, but raises questions about his motives given his ongoing engagement
+      with Lebanese officials.
+    paragraph_summary: In a recent tweet, political analyst Elijah J. Magnier critiques
+      U.S. Envoy Thomas Barrack's characterization of Lebanon as a "failed state," arguing
+      that this label oversimplifies the complex situation in the country. While Lebanon
+      faces severe challenges, including a collapsing economy, rampant inflation, and
+      inadequate public services, it still maintains functioning institutions such as
+      ministries, an army, and a judiciary. Magnier suggests that Barrack's definition
+      may be politically motivated, as it contrasts with the reality of Lebanon's ongoing
+      governance structures and the distinction between a state that cannot act and
+      one that is constrained from doing so. Thus, he contends that labeling Lebanon
+      as a failed state fails to capture the nuances of its current predicament.
+    published: '2025-11-03T05:07:31+00:00'
+  - title: Is Lebanon Really a Failed State? How Washington Made It — and Now Offers
+      the Cure, Unwittingly
+    url: https://ejmagnier.com/2025/11/03/is-lebanon-really-a-failed-state-how-washington-made-it-and-now-offers-the-cure-unwittingly/
+    text: 'Tweet By Elijah J. Magnier – In political science, a failed state is defined
+      as one that can no longer provide security, justice, or basic services to its
+      citizens, nor maintain a monopoly over legitimate violence within its territory.
+      When U.S. Envoy Thomas Barrack described Lebanon as a “failed state,” he was not
+      simply diagnosing collapse but was drawing a political line. Is he accurate to
+      define Lebanon as failed while he continues to meet its ministers, army commanders,
+      and diplomats, urging them to take actions that would overwhelm even a fragile
+      government—one still reeling from war, economic breakdown, and Israel’s unrelenting
+      bombardment? What are Barrack’s real intentions behind this definition? At first
+      glance, Barrack’s statement seems to mirror Lebanon’s misery. The economy has
+      imploded, the currency has lost more than 95 per cent of its value, electricity
+      is scarce, and citizens depend on private generators and water trucks. The state’s
+      capacity to provide education, healthcare, and welfare has been hollowed out.
+      For Washington, that profile fits the textbook definition of a failed state. Yet
+      Lebanon still possesses functioning ministries, a recognised army, an elected
+      parliament, a judiciary, and a diplomatic network. It is not Somalia in the 1990s,
+      nor Yemen in full-scale war. The label “failed” therefore oversimplifies. It erases
+      the difference between collapse and constraint : between a state that cannot act
+      and one that is not allowed to. Subscribe Subscribe to get access Read more of
+      this content when you subscribe today. Subscribe Submitting form Log in Make a
+      one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: U.S. Envoy Thomas Barrack's characterization of Lebanon as
+      a "failed state" reflects the country's severe socio-economic crisis and governance
+      challenges, but raises questions about his motives given his ongoing engagement
+      with Lebanese officials.
+    paragraph_summary: In a recent tweet, political analyst Elijah J. Magnier critiques
+      U.S. Envoy Thomas Barrack's characterization of Lebanon as a "failed state," arguing
+      that this label oversimplifies the complex situation in the country. While Lebanon
+      faces severe challenges, including a collapsing economy, rampant inflation, and
+      inadequate public services, it still maintains functioning institutions such as
+      ministries, an army, and a judiciary. Magnier suggests that Barrack's definition
+      may be politically motivated, as it contrasts with the reality of Lebanon's ongoing
+      governance structures and the distinction between a state that cannot act and
+      one that is constrained from doing so. Thus, he contends that labeling Lebanon
+      as a failed state fails to capture the nuances of its current predicament.
+    published: '2025-11-03T05:07:31+00:00'
+  - title: Le Liban est-il vraiment un État failli ? Comment Washington l’a fabriqué
+      — et propose aujourd’hui le remède, sans le vouloir
+    url: https://ejmagnier.com/2025/11/03/le-liban-est-il-vraiment-un-etat-failli-comment-washington-la-fabrique-et-propose-aujourdhui-le-remede-sans-le-vouloir/
+    text: 'Tweet Par Elijah J. Magnier En science politique, un État failli est défini
+      comme un État qui n’est plus en mesure d’assurer la sécurité, la justice ou les
+      services de base à ses citoyens, ni de conserver le monopole de la violence légitime
+      sur son territoire. Lorsque l’envoyé spécial américain Thomas Barrack a qualifié
+      le Liban d’« État failli », il ne se contentait pas de constater un effondrement
+      : il traçait une ligne politique. Peut-on réellement définir le Liban comme un
+      État failli alors que Barrack continue de rencontrer ses ministres, ses commandants
+      militaires et ses diplomates, en leur demandant d’entreprendre des actions qui
+      submergeraient même un gouvernement fragile – un État encore meurtri par la guerre,
+      l’effondrement économique et les bombardements incessants d’Israël ? Quelles sont
+      les véritables intentions de Barrack derrière cette définition ? À première vue,
+      sa déclaration semble refléter la misère du Liban. L’économie s’est effondrée,
+      la monnaie a perdu plus de 95 % de sa valeur, l’électricité se fait rare et les
+      citoyens dépendent de générateurs privés et de camions-citernes. La capacité de
+      l’État à fournir éducation, santé et protection sociale a été vidée de sa substance.
+      Pour Washington, ce portrait correspond à la définition académique d’un État failli.
+      Pourtant, le Liban conserve des ministères fonctionnels, une armée reconnue, un
+      parlement élu, un système judiciaire et un réseau diplomatique. Ce n’est ni la
+      Somalie des années 1990, ni le Yémen en guerre totale. L’étiquette d’« État failli
+      » simplifie à l’excès : elle efface la différence entre l’effondrement et la contrainte
+      – entre un État qui ne peut pas agir et un État à qui l’on ne permet pas d’agir.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: L'article questionne la qualification du Liban en tant qu'État
+      failli par l'envoyé spécial américain Thomas Barrack, soulignant les contradictions
+      entre cette évaluation et ses interactions continues avec les dirigeants libanais,
+      tout en examinant les implications politiques de cette définition dans le contexte
+      d'une crise économique et sociale profonde.
+    paragraph_summary: In a recent commentary, Elijah J. Magnier discusses the implications
+      of U.S. Special Envoy Thomas Barrack labeling Lebanon as a "failed state." While
+      Barrack's statement highlights the severe challenges Lebanon faces, including
+      economic collapse, loss of public services, and ongoing violence, Magnier questions
+      the accuracy of this classification. He argues that despite its struggles, Lebanon
+      still possesses functional ministries, an army, an elected parliament, and a diplomatic
+      network, distinguishing it from more extreme cases of state failure like Somalia
+      in the 1990s or war-torn Yemen. Magnier suggests that the label of "failed state"
+      oversimplifies the situation, failing to recognize the complexities of Lebanon's
+      governance and the external constraints it faces.
+    published: '2025-11-03T05:04:46+00:00'
+  - title: Le Liban est-il vraiment un État failli ? Comment Washington l’a fabriqué
+      — et propose aujourd’hui le remède, sans le vouloir
+    url: https://ejmagnier.com/2025/11/03/le-liban-est-il-vraiment-un-etat-failli-comment-washington-la-fabrique-et-propose-aujourdhui-le-remede-sans-le-vouloir/
+    text: 'Tweet Par Elijah J. Magnier En science politique, un État failli est défini
+      comme un État qui n’est plus en mesure d’assurer la sécurité, la justice ou les
+      services de base à ses citoyens, ni de conserver le monopole de la violence légitime
+      sur son territoire. Lorsque l’envoyé spécial américain Thomas Barrack a qualifié
+      le Liban d’« État failli », il ne se contentait pas de constater un effondrement
+      : il traçait une ligne politique. Peut-on réellement définir le Liban comme un
+      État failli alors que Barrack continue de rencontrer ses ministres, ses commandants
+      militaires et ses diplomates, en leur demandant d’entreprendre des actions qui
+      submergeraient même un gouvernement fragile – un État encore meurtri par la guerre,
+      l’effondrement économique et les bombardements incessants d’Israël ? Quelles sont
+      les véritables intentions de Barrack derrière cette définition ? À première vue,
+      sa déclaration semble refléter la misère du Liban. L’économie s’est effondrée,
+      la monnaie a perdu plus de 95 % de sa valeur, l’électricité se fait rare et les
+      citoyens dépendent de générateurs privés et de camions-citernes. La capacité de
+      l’État à fournir éducation, santé et protection sociale a été vidée de sa substance.
+      Pour Washington, ce portrait correspond à la définition académique d’un État failli.
+      Pourtant, le Liban conserve des ministères fonctionnels, une armée reconnue, un
+      parlement élu, un système judiciaire et un réseau diplomatique. Ce n’est ni la
+      Somalie des années 1990, ni le Yémen en guerre totale. L’étiquette d’« État failli
+      » simplifie à l’excès : elle efface la différence entre l’effondrement et la contrainte
+      – entre un État qui ne peut pas agir et un État à qui l’on ne permet pas d’agir.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: L'article questionne la qualification du Liban en tant qu'État
+      failli par l'envoyé spécial américain Thomas Barrack, soulignant les contradictions
+      entre cette évaluation et ses interactions continues avec les dirigeants libanais,
+      tout en examinant les implications politiques de cette définition dans le contexte
+      d'une crise économique et sociale profonde.
+    paragraph_summary: In a recent commentary, Elijah J. Magnier discusses the implications
+      of U.S. Special Envoy Thomas Barrack labeling Lebanon as a "failed state." While
+      Barrack's statement highlights the severe challenges Lebanon faces, including
+      economic collapse, loss of public services, and ongoing violence, Magnier questions
+      the accuracy of this classification. He argues that despite its struggles, Lebanon
+      still possesses functional ministries, an army, an elected parliament, and a diplomatic
+      network, distinguishing it from more extreme cases of state failure like Somalia
+      in the 1990s or war-torn Yemen. Magnier suggests that the label of "failed state"
+      oversimplifies the situation, failing to recognize the complexities of Lebanon's
+      governance and the external constraints it faces.
+    published: '2025-11-03T05:04:46+00:00'
+  - title: Is Libanon echt een failliete staat? Hoe Washington het creëerde – en nu
+      onbedoeld de oplossing aanbiedt
+    url: https://ejmagnier.com/2025/11/03/is-libanon-echt-een-failliete-staat-hoe-washington-het-creeerde-en-nu-onbedoeld-de-oplossing-aanbiedt/
+    text: "Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. In de\
+      \ politieke wetenschap wordt een failliete staat\uFEFF gedefinieerd als een land\
+      \ dat haar burgers niet langer veiligheid, rechtvaardigheid of basisvoorzieningen\
+      \ kan bieden, en ook geen monopolie meer heeft op legitiem geweld binnen haar\
+      \ grondgebied. Toen de Amerikaanse gezant Thomas Barrack Libanon als een “ failliete\
+      \ staat\uFEFF” bestempelde, stelde hij hiermee een politieke grens, niet alleen\
+      \ een constatering van een instorting. Maar klopt deze omschrijving als Barrack\
+      \ blijft overleggen met ministers, legerleiders en diplomaten en hen aanspoort\
+      \ tot maatregelen die zelfs een kwetsbare regering zouden overweldigen? Wat is\
+      \ zijn werkelijke intentie? Op het eerste gezicht lijkt Barracks uitspraak te\
+      \ kloppen. De Libanese economie is ingestort, de munt is meer dan 95 procent van\
+      \ haar waarde kwijt, elektriciteit is schaars en burgers zijn afhankelijk van\
+      \ privé-generatoren en waterwagens. De staat is nauwelijks in staat om onderwijs,\
+      \ gezondheidszorg en sociale bescherming te bieden. Voor Washington voldoet dit\
+      \ aan de klassieke beschrijving van een failliete staat\uFEFF. Toch beschikt Libanon\
+      \ nog over functionerende ministeries, een erkend leger, gekozen parlement, rechterlijke\
+      \ macht en diplomatiek netwerk. Het is geen Somalië van de jaren negentig of het\
+      \ in oorlog verkerende Jemen. Het woord “ failliet\uFEFF” vereenvoudigt de werkelijkheid\
+      \ en laat het verschil zien tussen instorting en beperking: tussen een staat die\
+      \ niet kan handelen en een staat die niet mag handelen. Subscribe Subscribe to\
+      \ get access Read more of this content when you subscribe today. Subscribe Submitting\
+      \ form Log in Make a one-time donation Your contribution is appreciated. Donate\
+      \ Make a monthly donation Your contribution is appreciated. Donate monthly Make\
+      \ a yearly donation Your contribution is appreciated. Donate yearly Tweet"
+    one_sentence_summary: Thomas Barrack's characterization of Lebanon as a "failed
+      state" reflects a political boundary rather than a mere observation of its collapse,
+      raising questions about his true intentions as he engages with local leaders despite
+      the country's severe economic and infrastructural crises.
+    paragraph_summary: Elijah J. Magnier's article, translated by Francis J., discusses
+      the implications of U.S. envoy Thomas Barrack labeling Lebanon a "failed state."
+      This term suggests a complete breakdown of governance, yet the reality is more
+      nuanced. While Lebanon's economy has collapsed, with rampant inflation and inadequate
+      public services, it still possesses functioning institutions like ministries,
+      an army, and a judiciary, distinguishing it from more extreme cases like Somalia
+      in the 1990s. The article questions Barrack's motives in making such a statement
+      while engaging with Lebanese officials and highlights the difference between a
+      state that cannot act and one that is restricted from acting, suggesting that
+      the term "failed state" oversimplifies Lebanon's complex situation.
+    published: '2025-11-03T05:02:58+00:00'
+  - title: Is Libanon echt een failliete staat? Hoe Washington het creëerde – en nu
+      onbedoeld de oplossing aanbiedt
+    url: https://ejmagnier.com/2025/11/03/is-libanon-echt-een-failliete-staat-hoe-washington-het-creeerde-en-nu-onbedoeld-de-oplossing-aanbiedt/
+    text: "Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. In de\
+      \ politieke wetenschap wordt een failliete staat\uFEFF gedefinieerd als een land\
+      \ dat haar burgers niet langer veiligheid, rechtvaardigheid of basisvoorzieningen\
+      \ kan bieden, en ook geen monopolie meer heeft op legitiem geweld binnen haar\
+      \ grondgebied. Toen de Amerikaanse gezant Thomas Barrack Libanon als een “ failliete\
+      \ staat\uFEFF” bestempelde, stelde hij hiermee een politieke grens, niet alleen\
+      \ een constatering van een instorting. Maar klopt deze omschrijving als Barrack\
+      \ blijft overleggen met ministers, legerleiders en diplomaten en hen aanspoort\
+      \ tot maatregelen die zelfs een kwetsbare regering zouden overweldigen? Wat is\
+      \ zijn werkelijke intentie? Op het eerste gezicht lijkt Barracks uitspraak te\
+      \ kloppen. De Libanese economie is ingestort, de munt is meer dan 95 procent van\
+      \ haar waarde kwijt, elektriciteit is schaars en burgers zijn afhankelijk van\
+      \ privé-generatoren en waterwagens. De staat is nauwelijks in staat om onderwijs,\
+      \ gezondheidszorg en sociale bescherming te bieden. Voor Washington voldoet dit\
+      \ aan de klassieke beschrijving van een failliete staat\uFEFF. Toch beschikt Libanon\
+      \ nog over functionerende ministeries, een erkend leger, gekozen parlement, rechterlijke\
+      \ macht en diplomatiek netwerk. Het is geen Somalië van de jaren negentig of het\
+      \ in oorlog verkerende Jemen. Het woord “ failliet\uFEFF” vereenvoudigt de werkelijkheid\
+      \ en laat het verschil zien tussen instorting en beperking: tussen een staat die\
+      \ niet kan handelen en een staat die niet mag handelen. Subscribe Subscribe to\
+      \ get access Read more of this content when you subscribe today. Subscribe Submitting\
+      \ form Log in Make a one-time donation Your contribution is appreciated. Donate\
+      \ Make a monthly donation Your contribution is appreciated. Donate monthly Make\
+      \ a yearly donation Your contribution is appreciated. Donate yearly Tweet"
+    one_sentence_summary: Thomas Barrack's characterization of Lebanon as a "failed
+      state" reflects a political boundary rather than a mere observation of its collapse,
+      raising questions about his true intentions as he engages with local leaders despite
+      the country's severe economic and infrastructural crises.
+    paragraph_summary: Elijah J. Magnier's article, translated by Francis J., discusses
+      the implications of U.S. envoy Thomas Barrack labeling Lebanon a "failed state."
+      This term suggests a complete breakdown of governance, yet the reality is more
+      nuanced. While Lebanon's economy has collapsed, with rampant inflation and inadequate
+      public services, it still possesses functioning institutions like ministries,
+      an army, and a judiciary, distinguishing it from more extreme cases like Somalia
+      in the 1990s. The article questions Barrack's motives in making such a statement
+      while engaging with Lebanese officials and highlights the difference between a
+      state that cannot act and one that is restricted from acting, suggesting that
+      the term "failed state" oversimplifies Lebanon's complex situation.
+    published: '2025-11-03T05:02:58+00:00'
+  - title: 'No Peace, No War: How Israel Keeps Lebanon Under Fire'
+    url: https://ejmagnier.com/2025/11/01/no-peace-no-war-how-israel-keeps-lebanon-under-fire/
+    text: 'Tweet Thousands of ceasefire violations, daily bombardments, and unchecked
+      airspace incursions have turned the 2024 truce into fiction. Under the banner
+      of “security,” Israel wages a war it refuses to name. By Elijah J. Magnier – Lebanon
+      stands again at the crossroads of destruction. Since October, Israel has treated
+      the country as both target and testing ground, carrying out near-daily strikes
+      under the guise of self-defence. The truce declared in 2024 survives only in name.
+      Each new bombardment, each incursion across the Blue Line, pushes Lebanon deeper
+      into a condition that is neither peace nor declared war—a strategy that keeps
+      an entire nation under permanent threat while avoiding the political cost of open
+      invasion. The extension of the Gaza war northward has turned Lebanon into Israel’s
+      secondary front, exposing the same doctrine of deterrence by devastation that
+      has characterised its campaign in Gaza. Since 7 October, Lebanon has once again
+      become the focal point of Israel’s war planning. After last year’s escalation—when
+      Tel Aviv announced and then prosecuted a third campaign against Lebanon—the Israeli
+      war cabinet now treats the country as a laboratory for weakening Hezbollah’s military
+      power short of a formal declaration of war. Using the pretext that “Hezbollah
+      is rebuilding its arsenal and command structures,” Israel has pursued a strategy
+      of sustained coercion: near-daily air strikes, artillery fire, and repeated ground
+      incursions aimed at degrading the movement without crossing the formal threshold
+      into open conflict. Since the cessation of hostilities announced in October 2024,
+      Lebanese authorities and local sources report that Israel has violated the truce
+      roughly 5,000 times and that around 350 Lebanese have been killed or wounded across
+      the country. From Israel’s perspective, these actions are not breaches but expressions
+      of what it portrays as a legitimate right to maintain “security control” over
+      Lebanese territory, airspace, and coastal waters—a self-granted licence to keep
+      the country trapped in a state of no peace. The Israeli campaign’s trajectory
+      now risks sliding from intermittent bombardment into a state that is no longer
+      mere policing but just short of open war. Day after day strikes, repeated ground
+      incursions, and near-continuous artillery and aerial fire in southern Lebanon
+      and the Bekaa are eroding the boundary between limited military pressure and large-scale
+      hostilities. Even if both sides avoid declaring war, the cumulative effect of
+      thousands of ceasefire violations, hundreds of civilian deaths and repeated cross-border
+      operations produces the same outcome: destroyed infrastructure, displaced populations,
+      and a destabilised frontier that makes a wider conflagration increasingly likely.
+      What Israel calls calibrated coercion could easily become uncontrollable, each
+      new raid multiplying the risk that limited operations will spill over into a wider
+      confrontation, depending on the seize of damage Israel intends to inflict on the
+      Shia community in Lebanon. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: The 2024 truce has become a mere facade as Israel conducts
+      near-daily strikes in Lebanon under the pretext of self-defense, escalating tensions
+      and keeping the nation in a state of perpetual threat without formally declaring
+      war.
+    paragraph_summary: The article by Elijah J. Magnier highlights the ongoing conflict
+      between Israel and Lebanon, where a declared truce in 2024 has devolved into a
+      facade amid thousands of ceasefire violations and daily bombardments by Israel.
+      Under the pretext of security, Israel has intensified its military operations
+      against Lebanon, treating it as a secondary front in its broader conflict with
+      Hezbollah. Since the truce, Israeli forces have reportedly violated it approximately
+      5,000 times, resulting in around 350 casualties among the Lebanese population.
+      This strategy aims to weaken Hezbollah's military capabilities without formally
+      declaring war, maintaining a state of perpetual threat while avoiding the political
+      repercussions of an outright invasion.
+    published: '2025-11-01T17:49:56+00:00'
+  - title: 'No Peace, No War: How Israel Keeps Lebanon Under Fire'
+    url: https://ejmagnier.com/2025/11/01/no-peace-no-war-how-israel-keeps-lebanon-under-fire/
+    text: 'Tweet Thousands of ceasefire violations, daily bombardments, and unchecked
+      airspace incursions have turned the 2024 truce into fiction. Under the banner
+      of “security,” Israel wages a war it refuses to name. By Elijah J. Magnier – Lebanon
+      stands again at the crossroads of destruction. Since October, Israel has treated
+      the country as both target and testing ground, carrying out near-daily strikes
+      under the guise of self-defence. The truce declared in 2024 survives only in name.
+      Each new bombardment, each incursion across the Blue Line, pushes Lebanon deeper
+      into a condition that is neither peace nor declared war—a strategy that keeps
+      an entire nation under permanent threat while avoiding the political cost of open
+      invasion. The extension of the Gaza war northward has turned Lebanon into Israel’s
+      secondary front, exposing the same doctrine of deterrence by devastation that
+      has characterised its campaign in Gaza. Since 7 October, Lebanon has once again
+      become the focal point of Israel’s war planning. After last year’s escalation—when
+      Tel Aviv announced and then prosecuted a third campaign against Lebanon—the Israeli
+      war cabinet now treats the country as a laboratory for weakening Hezbollah’s military
+      power short of a formal declaration of war. Using the pretext that “Hezbollah
+      is rebuilding its arsenal and command structures,” Israel has pursued a strategy
+      of sustained coercion: near-daily air strikes, artillery fire, and repeated ground
+      incursions aimed at degrading the movement without crossing the formal threshold
+      into open conflict. Since the cessation of hostilities announced in October 2024,
+      Lebanese authorities and local sources report that Israel has violated the truce
+      roughly 5,000 times and that around 350 Lebanese have been killed or wounded across
+      the country. From Israel’s perspective, these actions are not breaches but expressions
+      of what it portrays as a legitimate right to maintain “security control” over
+      Lebanese territory, airspace, and coastal waters—a self-granted licence to keep
+      the country trapped in a state of no peace. The Israeli campaign’s trajectory
+      now risks sliding from intermittent bombardment into a state that is no longer
+      mere policing but just short of open war. Day after day strikes, repeated ground
+      incursions, and near-continuous artillery and aerial fire in southern Lebanon
+      and the Bekaa are eroding the boundary between limited military pressure and large-scale
+      hostilities. Even if both sides avoid declaring war, the cumulative effect of
+      thousands of ceasefire violations, hundreds of civilian deaths and repeated cross-border
+      operations produces the same outcome: destroyed infrastructure, displaced populations,
+      and a destabilised frontier that makes a wider conflagration increasingly likely.
+      What Israel calls calibrated coercion could easily become uncontrollable, each
+      new raid multiplying the risk that limited operations will spill over into a wider
+      confrontation, depending on the seize of damage Israel intends to inflict on the
+      Shia community in Lebanon. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: The 2024 truce has become a mere facade as Israel conducts
+      near-daily strikes in Lebanon under the pretext of self-defense, escalating tensions
+      and keeping the nation in a state of perpetual threat without formally declaring
+      war.
+    paragraph_summary: The article by Elijah J. Magnier highlights the ongoing conflict
+      between Israel and Lebanon, where a declared truce in 2024 has devolved into a
+      facade amid thousands of ceasefire violations and daily bombardments by Israel.
+      Under the pretext of security, Israel has intensified its military operations
+      against Lebanon, treating it as a secondary front in its broader conflict with
+      Hezbollah. Since the truce, Israeli forces have reportedly violated it approximately
+      5,000 times, resulting in around 350 casualties among the Lebanese population.
+      This strategy aims to weaken Hezbollah's military capabilities without formally
+      declaring war, maintaining a state of perpetual threat while avoiding the political
+      repercussions of an outright invasion.
+    published: '2025-11-01T17:49:56+00:00'
+  - title: 'Ni paix ni guerre : comment Israël maintient le Liban sous le feu'
+    url: https://ejmagnier.com/2025/11/01/ni-paix-ni-guerre-comment-israel-maintient-le-liban-sous-le-feu/
+    text: 'Tweet Des milliers de violations du cessez-le-feu, des bombardements quotidiens
+      et des incursions aériennes incontrôlées ont transformé la trêve de 2024 en fiction.
+      Sous le prétexte de la « sécurité », Israël mène une guerre qu’il refuse de nommer.
+      Par Elijah J. Magnier – Le Liban se retrouve une fois encore à la croisée des
+      chemins de la destruction. Depuis octobre, Israël traite le pays à la fois comme
+      une cible et comme un terrain d’expérimentation, menant des frappes quasi quotidiennes
+      sous couvert d’autodéfense. La trêve proclamée en 2024 ne survit plus que de nom.
+      Chaque nouveau bombardement, chaque incursion au-delà de la ligne bleue enfonce
+      davantage le Liban dans un état qui n’est ni la paix ni la guerre déclarée : une
+      stratégie qui maintient toute une nation sous menace permanente tout en évitant
+      le coût politique d’une invasion ouverte. L’extension de la guerre de Gaza vers
+      le nord a transformé le Liban en second front d’Israël, révélant la même doctrine
+      de dissuasion par la dévastation qui caractérise la campagne menée à Gaza. Depuis
+      le 7 octobre, le Liban est redevenu le centre de la planification militaire israélienne.
+      Après l’escalade de l’an dernier – lorsque Tel-Aviv a annoncé puis conduit une
+      troisième guerre contre le Liban – le cabinet de guerre israélien considère désormais
+      le pays comme un laboratoire destiné à affaiblir le pouvoir militaire du Hezbollah
+      sans en passer par une déclaration de guerre formelle. Sous le prétexte que «
+      le Hezbollah reconstitue son arsenal et ses structures de commandement », Israël
+      a adopté une stratégie de coercition prolongée : frappes aériennes, tirs d’artillerie
+      et incursions terrestres répétées visant à affaiblir le mouvement sans franchir
+      le seuil officiel du conflit ouvert. Depuis la cessation des hostilités annoncée
+      en octobre 2024, les autorités libanaises et plusieurs sources locales rapportent
+      qu’Israël a violé la trêve environ 5 000 fois et que quelque 350 Libanais ont
+      été tués ou blessés dans tout le pays. Du point de vue d’Israël, ces actions ne
+      constituent pas des violations, mais l’expression d’un droit autoproclamé à maintenir
+      un « contrôle sécuritaire » sur le territoire libanais, son espace aérien et ses
+      eaux territoriales – une licence qu’il s’accorde lui-même pour maintenir le pays
+      dans un état de non-paix. La trajectoire de la campagne israélienne risque désormais
+      de glisser d’un bombardement intermittent vers une situation qui n’est plus une
+      simple opération de police mais presque une guerre ouverte. Jour après jour, les
+      frappes, les incursions répétées et les tirs d’artillerie et d’aviation quasi
+      continus dans le Sud-Liban et la plaine de la Békaa érodent la frontière entre
+      pression militaire limitée et hostilités de grande ampleur. Même si les deux parties
+      évitent de déclarer la guerre, l’effet cumulatif de milliers de violations du
+      cessez-le-feu, de centaines de morts civiles et d’opérations transfrontalières
+      répétées produit le même résultat : infrastructures détruites, populations déplacées
+      et frontière déstabilisée, rendant une conflagration plus large de plus en plus
+      probable. Ce qu’Israël appelle coercition « calibrée » pourrait rapidement devenir
+      incontrôlable : chaque nouveau raid accroît le risque que ces opérations limitées
+      dégénèrent en affrontement régional, selon l’ampleur des destructions qu’Israël
+      entend infliger à la communauté chiite du Liban. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: L'article décrit comment la trêve de 2024 entre Israël et
+      le Liban est devenue illusoire en raison des violations incessantes du cessez-le-feu
+      et des bombardements israéliens, qui transforment le Liban en un champ de bataille
+      sous prétexte de sécurité, tout en évitant une guerre déclarée.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne que la trêve de 2024 entre
+      Israël et le Liban est devenue une fiction, avec des milliers de violations du
+      cessez-le-feu, des bombardements quotidiens et des incursions aériennes israéliennes
+      sous le prétexte de la sécurité. Depuis octobre, le Liban est traité comme une
+      cible par Israël, qui mène une guerre non déclarée pour affaiblir le Hezbollah
+      sans engager de conflit ouvert. Cette stratégie de coercition prolongée, qui inclut
+      des frappes aériennes et des incursions terrestres, a transformé le pays en un
+      second front de la guerre de Gaza, avec environ 5 000 violations de la trêve et
+      350 Libanais tués ou blessés depuis le début des hostilités.
+    published: '2025-11-01T17:48:47+00:00'
+  - title: 'Ni paix ni guerre : comment Israël maintient le Liban sous le feu'
+    url: https://ejmagnier.com/2025/11/01/ni-paix-ni-guerre-comment-israel-maintient-le-liban-sous-le-feu/
+    text: 'Tweet Des milliers de violations du cessez-le-feu, des bombardements quotidiens
+      et des incursions aériennes incontrôlées ont transformé la trêve de 2024 en fiction.
+      Sous le prétexte de la « sécurité », Israël mène une guerre qu’il refuse de nommer.
+      Par Elijah J. Magnier – Le Liban se retrouve une fois encore à la croisée des
+      chemins de la destruction. Depuis octobre, Israël traite le pays à la fois comme
+      une cible et comme un terrain d’expérimentation, menant des frappes quasi quotidiennes
+      sous couvert d’autodéfense. La trêve proclamée en 2024 ne survit plus que de nom.
+      Chaque nouveau bombardement, chaque incursion au-delà de la ligne bleue enfonce
+      davantage le Liban dans un état qui n’est ni la paix ni la guerre déclarée : une
+      stratégie qui maintient toute une nation sous menace permanente tout en évitant
+      le coût politique d’une invasion ouverte. L’extension de la guerre de Gaza vers
+      le nord a transformé le Liban en second front d’Israël, révélant la même doctrine
+      de dissuasion par la dévastation qui caractérise la campagne menée à Gaza. Depuis
+      le 7 octobre, le Liban est redevenu le centre de la planification militaire israélienne.
+      Après l’escalade de l’an dernier – lorsque Tel-Aviv a annoncé puis conduit une
+      troisième guerre contre le Liban – le cabinet de guerre israélien considère désormais
+      le pays comme un laboratoire destiné à affaiblir le pouvoir militaire du Hezbollah
+      sans en passer par une déclaration de guerre formelle. Sous le prétexte que «
+      le Hezbollah reconstitue son arsenal et ses structures de commandement », Israël
+      a adopté une stratégie de coercition prolongée : frappes aériennes, tirs d’artillerie
+      et incursions terrestres répétées visant à affaiblir le mouvement sans franchir
+      le seuil officiel du conflit ouvert. Depuis la cessation des hostilités annoncée
+      en octobre 2024, les autorités libanaises et plusieurs sources locales rapportent
+      qu’Israël a violé la trêve environ 5 000 fois et que quelque 350 Libanais ont
+      été tués ou blessés dans tout le pays. Du point de vue d’Israël, ces actions ne
+      constituent pas des violations, mais l’expression d’un droit autoproclamé à maintenir
+      un « contrôle sécuritaire » sur le territoire libanais, son espace aérien et ses
+      eaux territoriales – une licence qu’il s’accorde lui-même pour maintenir le pays
+      dans un état de non-paix. La trajectoire de la campagne israélienne risque désormais
+      de glisser d’un bombardement intermittent vers une situation qui n’est plus une
+      simple opération de police mais presque une guerre ouverte. Jour après jour, les
+      frappes, les incursions répétées et les tirs d’artillerie et d’aviation quasi
+      continus dans le Sud-Liban et la plaine de la Békaa érodent la frontière entre
+      pression militaire limitée et hostilités de grande ampleur. Même si les deux parties
+      évitent de déclarer la guerre, l’effet cumulatif de milliers de violations du
+      cessez-le-feu, de centaines de morts civiles et d’opérations transfrontalières
+      répétées produit le même résultat : infrastructures détruites, populations déplacées
+      et frontière déstabilisée, rendant une conflagration plus large de plus en plus
+      probable. Ce qu’Israël appelle coercition « calibrée » pourrait rapidement devenir
+      incontrôlable : chaque nouveau raid accroît le risque que ces opérations limitées
+      dégénèrent en affrontement régional, selon l’ampleur des destructions qu’Israël
+      entend infliger à la communauté chiite du Liban. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: L'article décrit comment la trêve de 2024 entre Israël et
+      le Liban est devenue illusoire en raison des violations incessantes du cessez-le-feu
+      et des bombardements israéliens, qui transforment le Liban en un champ de bataille
+      sous prétexte de sécurité, tout en évitant une guerre déclarée.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne que la trêve de 2024 entre
+      Israël et le Liban est devenue une fiction, avec des milliers de violations du
+      cessez-le-feu, des bombardements quotidiens et des incursions aériennes israéliennes
+      sous le prétexte de la sécurité. Depuis octobre, le Liban est traité comme une
+      cible par Israël, qui mène une guerre non déclarée pour affaiblir le Hezbollah
+      sans engager de conflit ouvert. Cette stratégie de coercition prolongée, qui inclut
+      des frappes aériennes et des incursions terrestres, a transformé le pays en un
+      second front de la guerre de Gaza, avec environ 5 000 violations de la trêve et
+      350 Libanais tués ou blessés depuis le début des hostilités.
+    published: '2025-11-01T17:48:47+00:00'
+  - title: 'Geen vrede, geen oorlog: hoe Israël Libanon onder vuur houdt'
+    url: https://ejmagnier.com/2025/11/01/geen-vrede-geen-oorlog-hoe-israel-libanon-onder-vuur-houdt/
+    text: 'Tweet Duizenden wapenstilstands­schendingen, dagelijkse bombardementen en
+      ongecontroleerde luchtruimschendingen hebben het bestand van 2024 tot fictie gemaakt.
+      Onder het vaandel van “veiligheid” voert Israël een oorlog die het weigert bij
+      naam te no emen. Geschreven door Elijah J. Magnier – Vertaald door Francis J.
+      Libanon staat opnieuw op het kruispunt van de vernietiging. Sinds oktober heeft
+      Israël het land behandeld als zowel doelwit als proeftuin en bijna dagelijks aanvallen
+      uitgevoerd onder het mom van zelfverdediging. Het in 2024 afgekondigde bestand
+      bestaat alleen nog op papier. Elke nieuwe bombardement, elke inbreuk over de Blauwe
+      Lijn, drijft Libanon dieper in een toestand die noch vrede noch verklaarde oorlog
+      is – een strategie die een hele natie in permanente dreiging houdt terwijl de
+      politieke kosten van een open invasie worden vermeden. De uitbreiding van de Gazaoorlog
+      naar het noorden heeft van Libanon Israëls tweede front gemaakt, waarbij dezelfde
+      doctrine van afschrikking door vernietiging wordt toegepast die zijn campagne
+      in Gaza kenmerkt. Sinds 7 oktober is Libanon opnieuw het centrum geworden van
+      Israëls oorlogsplanning. Na de escalatie van vorig jaar – toen Tel Aviv een derde
+      campagne tegen Libanon aankondigde en uitvoerde – behandelt het Israëlische oorlogskabinet
+      het land nu als een laboratorium om de militaire macht van Hezbollah te verzwakken
+      zonder formeel de oorlog te verklaren. Onder het voorwendsel dat “Hezbollah zijn
+      arsenaal en commandostructuren heropbouwt”, heeft Israël een strategie van aanhoudende
+      dwang nagestreefd: bijna dagelijkse luchtaanvallen, artillerievuur en herhaalde
+      grondinfiltraties, bedoeld om de beweging te verzwakken zonder de formele drempel
+      naar een open conflict te overschrijden. Sinds de beëindiging van de vijandelijkheden
+      in oktober 2024 melden Libanese autoriteiten en lokale bronnen dat Israël het
+      bestand ongeveer 5.000 keer heeft geschonden en dat ongeveer 350 Libanezen in
+      het hele land zijn gedood of gewond. Vanuit Israëls perspectief zijn deze acties
+      geen schendingen, maar uitingen van wat het voorstelt als een legitiem recht op
+      “veiligheidscontrole” over Libanees grondgebied, luchtruim en kustwateren – een
+      zelf toegekende vergunning om het land gevangen te houden in een toestand van
+      geen vrede. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: De wapenstilstand in 2024 is slechts schijn, terwijl Israël
+      Libanon dagelijks aanvalt onder het mom van zelfverdediging, waardoor het land
+      in een staat van voortdurende dreiging verkeert zonder formele oorlog of vrede.
+    paragraph_summary: In een artikel van Elijah J. Magnier, vertaald door Francis J.
+      Libanon, wordt de huidige situatie in Libanon onder Israëlische aanvallen belicht,
+      waarbij het wapenstilstandsakkoord van 2024 als schijnvertoning wordt beschouwd.
+      Sinds oktober heeft Israël het land systematisch aangevallen onder het mom van
+      zelfverdediging, met duizenden schendingen van het bestand en dagelijkse bombardementen
+      die Libanon in een staat van voortdurende dreiging houden zonder formele oorlogsverklaring.
+      Deze strategie, die gericht is op het verzwakken van Hezbollah, omvat bijna dagelijkse
+      luchtaanvallen en grondinfiltraties, en heeft geleid tot aanzienlijke verliezen
+      onder de Libanese bevolking. De situatie wordt gekarakteriseerd door een voortdurende
+      escalatie van geweld, waarbij Libanon fungeert als een tweede front in de bredere
+      oorlog die Israël tegen Gaza voert.
+    published: '2025-11-01T17:45:33+00:00'
+  - title: 'Geen vrede, geen oorlog: hoe Israël Libanon onder vuur houdt'
+    url: https://ejmagnier.com/2025/11/01/geen-vrede-geen-oorlog-hoe-israel-libanon-onder-vuur-houdt/
+    text: 'Tweet Duizenden wapenstilstands­schendingen, dagelijkse bombardementen en
+      ongecontroleerde luchtruimschendingen hebben het bestand van 2024 tot fictie gemaakt.
+      Onder het vaandel van “veiligheid” voert Israël een oorlog die het weigert bij
+      naam te no emen. Geschreven door Elijah J. Magnier – Vertaald door Francis J.
+      Libanon staat opnieuw op het kruispunt van de vernietiging. Sinds oktober heeft
+      Israël het land behandeld als zowel doelwit als proeftuin en bijna dagelijks aanvallen
+      uitgevoerd onder het mom van zelfverdediging. Het in 2024 afgekondigde bestand
+      bestaat alleen nog op papier. Elke nieuwe bombardement, elke inbreuk over de Blauwe
+      Lijn, drijft Libanon dieper in een toestand die noch vrede noch verklaarde oorlog
+      is – een strategie die een hele natie in permanente dreiging houdt terwijl de
+      politieke kosten van een open invasie worden vermeden. De uitbreiding van de Gazaoorlog
+      naar het noorden heeft van Libanon Israëls tweede front gemaakt, waarbij dezelfde
+      doctrine van afschrikking door vernietiging wordt toegepast die zijn campagne
+      in Gaza kenmerkt. Sinds 7 oktober is Libanon opnieuw het centrum geworden van
+      Israëls oorlogsplanning. Na de escalatie van vorig jaar – toen Tel Aviv een derde
+      campagne tegen Libanon aankondigde en uitvoerde – behandelt het Israëlische oorlogskabinet
+      het land nu als een laboratorium om de militaire macht van Hezbollah te verzwakken
+      zonder formeel de oorlog te verklaren. Onder het voorwendsel dat “Hezbollah zijn
+      arsenaal en commandostructuren heropbouwt”, heeft Israël een strategie van aanhoudende
+      dwang nagestreefd: bijna dagelijkse luchtaanvallen, artillerievuur en herhaalde
+      grondinfiltraties, bedoeld om de beweging te verzwakken zonder de formele drempel
+      naar een open conflict te overschrijden. Sinds de beëindiging van de vijandelijkheden
+      in oktober 2024 melden Libanese autoriteiten en lokale bronnen dat Israël het
+      bestand ongeveer 5.000 keer heeft geschonden en dat ongeveer 350 Libanezen in
+      het hele land zijn gedood of gewond. Vanuit Israëls perspectief zijn deze acties
+      geen schendingen, maar uitingen van wat het voorstelt als een legitiem recht op
+      “veiligheidscontrole” over Libanees grondgebied, luchtruim en kustwateren – een
+      zelf toegekende vergunning om het land gevangen te houden in een toestand van
+      geen vrede. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: De wapenstilstand in 2024 is slechts schijn, terwijl Israël
+      Libanon dagelijks aanvalt onder het mom van zelfverdediging, waardoor het land
+      in een staat van voortdurende dreiging verkeert zonder formele oorlog of vrede.
+    paragraph_summary: In een artikel van Elijah J. Magnier, vertaald door Francis J.
+      Libanon, wordt de huidige situatie in Libanon onder Israëlische aanvallen belicht,
+      waarbij het wapenstilstandsakkoord van 2024 als schijnvertoning wordt beschouwd.
+      Sinds oktober heeft Israël het land systematisch aangevallen onder het mom van
+      zelfverdediging, met duizenden schendingen van het bestand en dagelijkse bombardementen
+      die Libanon in een staat van voortdurende dreiging houden zonder formele oorlogsverklaring.
+      Deze strategie, die gericht is op het verzwakken van Hezbollah, omvat bijna dagelijkse
+      luchtaanvallen en grondinfiltraties, en heeft geleid tot aanzienlijke verliezen
+      onder de Libanese bevolking. De situatie wordt gekarakteriseerd door een voortdurende
+      escalatie van geweld, waarbij Libanon fungeert als een tweede front in de bredere
+      oorlog die Israël tegen Gaza voert.
+    published: '2025-11-01T17:45:33+00:00'
+  - title: Een staakt-het-vuren dat Israël een vrijbrief geeft om te moorden en wraak
+      te nemen, met de zegen van de VS
+    url: https://ejmagnier.com/2025/10/30/een-staakt-het-vuren-dat-israel-een-vrijbrief-geeft-om-te-moorden-en-wraak-te-nemen-met-de-zegen-van-de-vs/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. De zogenaamde
+      ‘vredespresident’ Donald Trump heeft Israël een blanco cheque gegeven om zijn
+      oorlog voort te zetten onder het valse mom van een staakt-het-vuren. In een buitengewone
+      vertoning van cynisme zegent de Verenigde Staten nu het idee dat Israël zich kan
+      ‘verdedigen’ en zelfs ‘wraak kan nemen’ voor de dood van een van zijn soldaten
+      in Rafah, een stad in het zuiden van Gaza die al maandenlang door de bezetting
+      met de grond gelijk is gemaakt. De uitdrukking ‘wraak nemen’ hoort niet thuis
+      in de diplomatieke taal of het internationaal recht; het hoort thuis in vendetta,
+      niet in gerechtigheid. Toch gebruikte Trump het terloops en gaf hij groen licht
+      aan een leger dat al het grootste deel van de infrastructuur van Gaza heeft vernietigd
+      en tienduizenden mensen heeft gedood. Zijn woorden kwamen neer op een presidentiële
+      vergunning om te doden. Dit zogenaamde ‘defensieve recht’ is niets meer dan een
+      politiek instrument – een morele vermomming voor voortdurende agressie. Het staakt-het-vuren,
+      door Washington gevierd als een triomf van de diplomatie, is een holle vertoning
+      geworden, een zorgvuldig gescripte illusie van terughoudendheid. In werkelijkheid
+      is het een eenzijdige wapenstilstand: Israël behoudt de volledige vrijheid om
+      naar believen aan te vallen, te vermoorden en binnen te vallen, terwijl van de
+      Palestijnen wordt verwacht dat ze zwijgen, passief blijven en zelfs dankbaar zijn
+      voor hun eigen onderwerping. De Israëlische minister van Defensie, Israel Katz,
+      onderstreepte deze hypocrisie met openlijke arrogantie door te verklaren dat “geen
+      enkele Hamas-leider veilig zal zijn”, een uitspraak die extraterritoriale moorden
+      in feite legitimeert. Zijn woorden waren een nauwelijks verhulde verwijzing naar
+      Israëls hernieuwde campagne van gerichte moorden in het buitenland – een campagne
+      die al is bezoedeld door een recente mislukte poging in Qatar. Volgens deze perverse
+      logica is het staakt-het-vuren geen pauze in het geweld, maar een vrijbrief voor
+      selectieve moord, een vertraagde voortzetting van de oorlog, vermomd als vrede.
+      De Verenigde Staten gaan er ondertussen prat op dat ze “rust hebben afgedwongen”,
+      maar in de praktijk hebben ze een systeem ontworpen waarin de ene partij straffeloos
+      kan moorden, terwijl de andere partij de schuld krijgt voor het feit dat er doden
+      vallen. Het is een groteske omkering van de moraal, een diplomatieke leugen die
+      is bedacht om criminaliteit te verbergen achter retoriek over vrede. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Elijah J. Magnier's article critiques Donald Trump's support
+      for Israel's military actions in Gaza, arguing that his endorsement of "revenge"
+      undermines diplomatic language and international law, effectively granting Israel
+      a license to continue its destructive campaign.
+    paragraph_summary: In a critical analysis, Elijah J. Magnier, translated by Francis
+      J., argues that Donald Trump's endorsement of Israel's military actions under
+      the guise of a ceasefire represents a troubling blend of cynicism and moral hypocrisy.
+      Magnier contends that Trump's rhetoric, which includes phrases like "taking revenge"
+      for the death of an Israeli soldier, undermines diplomatic language and international
+      law, effectively granting Israel a "presidential permit to kill." He describes
+      the proclaimed ceasefire as a façade that allows Israel to continue its aggressive
+      operations in Gaza while expecting Palestinians to remain passive. The article
+      highlights the contradiction in the U.S. stance, where Israel is free to conduct
+      military actions, including extraterritorial assassinations, while Palestinians
+      are silenced and subjugated.
+    published: '2025-10-30T05:41:47+00:00'
+  - title: Een staakt-het-vuren dat Israël een vrijbrief geeft om te moorden en wraak
+      te nemen, met de zegen van de VS
+    url: https://ejmagnier.com/2025/10/30/een-staakt-het-vuren-dat-israel-een-vrijbrief-geeft-om-te-moorden-en-wraak-te-nemen-met-de-zegen-van-de-vs/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. De zogenaamde
+      ‘vredespresident’ Donald Trump heeft Israël een blanco cheque gegeven om zijn
+      oorlog voort te zetten onder het valse mom van een staakt-het-vuren. In een buitengewone
+      vertoning van cynisme zegent de Verenigde Staten nu het idee dat Israël zich kan
+      ‘verdedigen’ en zelfs ‘wraak kan nemen’ voor de dood van een van zijn soldaten
+      in Rafah, een stad in het zuiden van Gaza die al maandenlang door de bezetting
+      met de grond gelijk is gemaakt. De uitdrukking ‘wraak nemen’ hoort niet thuis
+      in de diplomatieke taal of het internationaal recht; het hoort thuis in vendetta,
+      niet in gerechtigheid. Toch gebruikte Trump het terloops en gaf hij groen licht
+      aan een leger dat al het grootste deel van de infrastructuur van Gaza heeft vernietigd
+      en tienduizenden mensen heeft gedood. Zijn woorden kwamen neer op een presidentiële
+      vergunning om te doden. Dit zogenaamde ‘defensieve recht’ is niets meer dan een
+      politiek instrument – een morele vermomming voor voortdurende agressie. Het staakt-het-vuren,
+      door Washington gevierd als een triomf van de diplomatie, is een holle vertoning
+      geworden, een zorgvuldig gescripte illusie van terughoudendheid. In werkelijkheid
+      is het een eenzijdige wapenstilstand: Israël behoudt de volledige vrijheid om
+      naar believen aan te vallen, te vermoorden en binnen te vallen, terwijl van de
+      Palestijnen wordt verwacht dat ze zwijgen, passief blijven en zelfs dankbaar zijn
+      voor hun eigen onderwerping. De Israëlische minister van Defensie, Israel Katz,
+      onderstreepte deze hypocrisie met openlijke arrogantie door te verklaren dat “geen
+      enkele Hamas-leider veilig zal zijn”, een uitspraak die extraterritoriale moorden
+      in feite legitimeert. Zijn woorden waren een nauwelijks verhulde verwijzing naar
+      Israëls hernieuwde campagne van gerichte moorden in het buitenland – een campagne
+      die al is bezoedeld door een recente mislukte poging in Qatar. Volgens deze perverse
+      logica is het staakt-het-vuren geen pauze in het geweld, maar een vrijbrief voor
+      selectieve moord, een vertraagde voortzetting van de oorlog, vermomd als vrede.
+      De Verenigde Staten gaan er ondertussen prat op dat ze “rust hebben afgedwongen”,
+      maar in de praktijk hebben ze een systeem ontworpen waarin de ene partij straffeloos
+      kan moorden, terwijl de andere partij de schuld krijgt voor het feit dat er doden
+      vallen. Het is een groteske omkering van de moraal, een diplomatieke leugen die
+      is bedacht om criminaliteit te verbergen achter retoriek over vrede. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Elijah J. Magnier's article critiques Donald Trump's support
+      for Israel's military actions in Gaza, arguing that his endorsement of "revenge"
+      undermines diplomatic language and international law, effectively granting Israel
+      a license to continue its destructive campaign.
+    paragraph_summary: In a critical analysis, Elijah J. Magnier, translated by Francis
+      J., argues that Donald Trump's endorsement of Israel's military actions under
+      the guise of a ceasefire represents a troubling blend of cynicism and moral hypocrisy.
+      Magnier contends that Trump's rhetoric, which includes phrases like "taking revenge"
+      for the death of an Israeli soldier, undermines diplomatic language and international
+      law, effectively granting Israel a "presidential permit to kill." He describes
+      the proclaimed ceasefire as a façade that allows Israel to continue its aggressive
+      operations in Gaza while expecting Palestinians to remain passive. The article
+      highlights the contradiction in the U.S. stance, where Israel is free to conduct
+      military actions, including extraterritorial assassinations, while Palestinians
+      are silenced and subjugated.
+    published: '2025-10-30T05:41:47+00:00'
+  - title: A ceasefire that offers Israel a license to kill and seek revenge with US
+      blessing
+    url: https://ejmagnier.com/2025/10/29/a-ceasefire-that-offers-israel-a-license-to-kill-and-seek-revenge-with-us-blessing/
+    text: 'Tweet By Elijah J. Magnier The so-called “peace president” Donald Trump has
+      granted Israel a blank cheque to continue its war under the false label of a ceasefire.
+      In an extraordinary display of cynicism, the United States now blesses the idea
+      that Israel can “defend itself” and even “seek revenge” for the death of one of
+      its soldiers in Rafah, a southern Gaza city already flattened by months of occupation.
+      The phrase “seek revenge” has no place in the language of diplomacy or international
+      law; it belongs to vendetta, not justice. Yet Trump used it casually, offering
+      a green light to a military that has already destroyed most of Gaza’s infrastructure
+      and killed tens of thousands. His words amounted to a presidential licence to
+      kill. This so-called “defensive right” is nothing more than a political instrument
+      — a moral disguise for perpetual aggression. The ceasefire, celebrated by Washington
+      as a triumph of diplomacy, has become a hollow performance, a carefully scripted
+      illusion of restraint. In reality, it is a one-sided truce: Israel retains full
+      freedom to strike, assassinate, and invade at will, while Palestinians are expected
+      to remain silent, passive, and even grateful for their own subjugation. Israel’s
+      Defence Minister, Israel Katz, underlined this hypocrisy with open arrogance,
+      declaring that “no Hamas leader will be safe,” a statement that effectively legitimises
+      extraterritorial assassinations. His words were a barely veiled reference to Israel’s
+      renewed campaign of targeted killings abroad — a campaign already stained by a
+      recent botched attempt in Qatar. Under this perverse logic, the ceasefire is not
+      a pause in violence but a licence for selective murder, a slow-motion continuation
+      of war disguised as peace. The United States, meanwhile, boasts of having “imposed
+      calm,” yet in practice it has designed a system in which one side kills with impunity
+      while the other is blamed for dying. It is a grotesque inversion of morality,
+      a diplomatic lie constructed to shield criminality behind the rhetoric of peace.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Elijah J. Magnier criticizes Donald Trump's support for Israel's
+      military actions in Gaza, arguing that his endorsement of "revenge" undermines
+      diplomacy and international law, effectively granting Israel a license for continued
+      aggression under the guise of self-defense.
+    paragraph_summary: In a critical analysis, Elijah J. Magnier argues that Donald
+      Trump's support for Israel's military actions under the guise of a ceasefire represents
+      a cynical betrayal of true diplomacy and international law. He highlights Trump's
+      casual endorsement of Israel's right to "seek revenge" for the death of a soldier
+      in Gaza, framing it as a dangerous legitimization of aggression rather than a
+      legitimate defensive stance. Magnier contends that the ceasefire is merely a façade,
+      allowing Israel to continue its military operations unimpeded while expecting
+      Palestinians to accept their oppression silently. He points out the hypocrisy
+      in Israel's Defense Minister's statements, which endorse extraterritorial assassinations,
+      and criticizes the U.S. for creating a system where one side can kill without
+      consequence while the other is blamed for the violence. Ultimately, he describes
+      this situation as a grotesque distortion of morality and a diplomatic deception.
+    published: '2025-10-29T17:20:55+00:00'
+  - title: A ceasefire that offers Israel a license to kill and seek revenge with US
+      blessing
+    url: https://ejmagnier.com/2025/10/29/a-ceasefire-that-offers-israel-a-license-to-kill-and-seek-revenge-with-us-blessing/
+    text: 'Tweet By Elijah J. Magnier The so-called “peace president” Donald Trump has
+      granted Israel a blank cheque to continue its war under the false label of a ceasefire.
+      In an extraordinary display of cynicism, the United States now blesses the idea
+      that Israel can “defend itself” and even “seek revenge” for the death of one of
+      its soldiers in Rafah, a southern Gaza city already flattened by months of occupation.
+      The phrase “seek revenge” has no place in the language of diplomacy or international
+      law; it belongs to vendetta, not justice. Yet Trump used it casually, offering
+      a green light to a military that has already destroyed most of Gaza’s infrastructure
+      and killed tens of thousands. His words amounted to a presidential licence to
+      kill. This so-called “defensive right” is nothing more than a political instrument
+      — a moral disguise for perpetual aggression. The ceasefire, celebrated by Washington
+      as a triumph of diplomacy, has become a hollow performance, a carefully scripted
+      illusion of restraint. In reality, it is a one-sided truce: Israel retains full
+      freedom to strike, assassinate, and invade at will, while Palestinians are expected
+      to remain silent, passive, and even grateful for their own subjugation. Israel’s
+      Defence Minister, Israel Katz, underlined this hypocrisy with open arrogance,
+      declaring that “no Hamas leader will be safe,” a statement that effectively legitimises
+      extraterritorial assassinations. His words were a barely veiled reference to Israel’s
+      renewed campaign of targeted killings abroad — a campaign already stained by a
+      recent botched attempt in Qatar. Under this perverse logic, the ceasefire is not
+      a pause in violence but a licence for selective murder, a slow-motion continuation
+      of war disguised as peace. The United States, meanwhile, boasts of having “imposed
+      calm,” yet in practice it has designed a system in which one side kills with impunity
+      while the other is blamed for dying. It is a grotesque inversion of morality,
+      a diplomatic lie constructed to shield criminality behind the rhetoric of peace.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Elijah J. Magnier criticizes Donald Trump's support for Israel's
+      military actions in Gaza, arguing that his endorsement of "revenge" undermines
+      diplomacy and international law, effectively granting Israel a license for continued
+      aggression under the guise of self-defense.
+    paragraph_summary: In a critical analysis, Elijah J. Magnier argues that Donald
+      Trump's support for Israel's military actions under the guise of a ceasefire represents
+      a cynical betrayal of true diplomacy and international law. He highlights Trump's
+      casual endorsement of Israel's right to "seek revenge" for the death of a soldier
+      in Gaza, framing it as a dangerous legitimization of aggression rather than a
+      legitimate defensive stance. Magnier contends that the ceasefire is merely a façade,
+      allowing Israel to continue its military operations unimpeded while expecting
+      Palestinians to accept their oppression silently. He points out the hypocrisy
+      in Israel's Defense Minister's statements, which endorse extraterritorial assassinations,
+      and criticizes the U.S. for creating a system where one side can kill without
+      consequence while the other is blamed for the violence. Ultimately, he describes
+      this situation as a grotesque distortion of morality and a diplomatic deception.
+    published: '2025-10-29T17:20:55+00:00'
+  - title: Un cessez-le-feu qui offre à Israël un permis de tuer et de se venger avec
+      la bénédiction américaine
+    url: https://ejmagnier.com/2025/10/29/un-cessez-le-feu-qui-offre-a-israel-un-permis-de-tuer-et-de-se-venger-avec-la-benediction-americaine/
+    text: 'Tweet Par Elijah J. Magnier Le soi-disant « président de la paix » Donald
+      Trump a accordé à Israël un chèque en blanc pour poursuivre sa guerre sous le
+      faux label d’un cessez-le-feu. Dans une démonstration extraordinaire de cynisme,
+      les États-Unis bénissent désormais l’idée qu’Israël puisse « se défendre » et
+      même « se venger » de la mort de l’un de ses soldats à Rafah, une ville du sud
+      de Gaza déjà rasée par des mois d’occupation. L’expression « se venger » n’a aucune
+      place dans le langage de la diplomatie ou du droit international ; elle relève
+      de la vendetta, non de la justice. Pourtant, Trump l’a utilisée avec désinvolture,
+      offrant un feu vert à une armée qui a déjà détruit la majeure partie des infrastructures
+      de Gaza et tué des dizaines de milliers de personnes. Ses paroles équivalent à
+      un permis présidentiel de tuer. Ce prétendu « droit à la défense » n’est rien
+      d’autre qu’un instrument politique — un déguisement moral pour une agression perpétuelle.
+      Le cessez-le-feu, célébré à Washington comme un triomphe diplomatique, n’est qu’une
+      mise en scène creuse, une illusion de retenue soigneusement orchestrée. En réalité,
+      il s’agit d’une trêve unilatérale : Israël conserve toute liberté pour frapper,
+      assassiner et envahir à volonté, tandis que les Palestiniens sont sommés de rester
+      silencieux, passifs, et même reconnaissants de leur propre soumission. Le ministre
+      israélien de la Défense, Israël Katz, a souligné cette hypocrisie avec une arrogance
+      ouverte, déclarant qu’« aucun dirigeant du Hamas ne sera en sécurité », une phrase
+      qui légitime de fait les assassinats extraterritoriaux. Ses propos faisaient à
+      peine voilée référence à la campagne israélienne renouvelée d’éliminations ciblées
+      à l’étranger — une campagne déjà entachée par une tentative ratée récente au Qatar.
+      Selon cette logique perverse, le cessez-le-feu n’est pas une pause dans la violence,
+      mais une licence pour des meurtres sélectifs, une continuation ralentie de la
+      guerre déguisée en paix. Les États-Unis, quant à eux, se vantent d’avoir « imposé
+      le calme », mais en pratique ils ont conçu un système dans lequel une partie tue
+      en toute impunité tandis que l’autre est blâmée pour sa propre mort. C’est une
+      inversion grotesque de la morale, un mensonge diplomatique construit pour protéger
+      la criminalité derrière la rhétorique de la paix. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: L'article critique Donald Trump pour avoir donné à Israël
+      un soutien inconditionnel dans sa guerre à Gaza, en utilisant des termes comme
+      "se venger", qui sont inappropriés dans le contexte diplomatique et qui légitiment
+      une violence continue sous le prétexte de la défense.
+    paragraph_summary: Dans un tweet, Elijah J. Magnier critique la position de Donald
+      Trump, qualifié de « président de la paix », pour avoir accordé à Israël une liberté
+      d'action dans sa guerre contre Gaza sous le prétexte d'un cessez-le-feu. Magnier
+      dénonce le cynisme des États-Unis qui légitiment le droit d'Israël à « se défendre
+      » et à « se venger » après la mort d'un soldat, en utilisant un langage qui, selon
+      lui, n'a pas sa place dans la diplomatie. Il décrit le cessez-le-feu comme une
+      illusion, permettant à Israël de continuer ses attaques tout en maintenant les
+      Palestiniens dans un état de soumission. Les déclarations du ministre israélien
+      de la Défense, Israël Katz, renforcent cette idée en légitimant les assassinats
+      extraterritoriaux, transformant ainsi le cessez-le-feu en une continuation déguisée
+      de la violence.
+    published: '2025-10-29T17:13:26+00:00'
+  - title: Un cessez-le-feu qui offre à Israël un permis de tuer et de se venger avec
+      la bénédiction américaine
+    url: https://ejmagnier.com/2025/10/29/un-cessez-le-feu-qui-offre-a-israel-un-permis-de-tuer-et-de-se-venger-avec-la-benediction-americaine/
+    text: 'Tweet Par Elijah J. Magnier Le soi-disant « président de la paix » Donald
+      Trump a accordé à Israël un chèque en blanc pour poursuivre sa guerre sous le
+      faux label d’un cessez-le-feu. Dans une démonstration extraordinaire de cynisme,
+      les États-Unis bénissent désormais l’idée qu’Israël puisse « se défendre » et
+      même « se venger » de la mort de l’un de ses soldats à Rafah, une ville du sud
+      de Gaza déjà rasée par des mois d’occupation. L’expression « se venger » n’a aucune
+      place dans le langage de la diplomatie ou du droit international ; elle relève
+      de la vendetta, non de la justice. Pourtant, Trump l’a utilisée avec désinvolture,
+      offrant un feu vert à une armée qui a déjà détruit la majeure partie des infrastructures
+      de Gaza et tué des dizaines de milliers de personnes. Ses paroles équivalent à
+      un permis présidentiel de tuer. Ce prétendu « droit à la défense » n’est rien
+      d’autre qu’un instrument politique — un déguisement moral pour une agression perpétuelle.
+      Le cessez-le-feu, célébré à Washington comme un triomphe diplomatique, n’est qu’une
+      mise en scène creuse, une illusion de retenue soigneusement orchestrée. En réalité,
+      il s’agit d’une trêve unilatérale : Israël conserve toute liberté pour frapper,
+      assassiner et envahir à volonté, tandis que les Palestiniens sont sommés de rester
+      silencieux, passifs, et même reconnaissants de leur propre soumission. Le ministre
+      israélien de la Défense, Israël Katz, a souligné cette hypocrisie avec une arrogance
+      ouverte, déclarant qu’« aucun dirigeant du Hamas ne sera en sécurité », une phrase
+      qui légitime de fait les assassinats extraterritoriaux. Ses propos faisaient à
+      peine voilée référence à la campagne israélienne renouvelée d’éliminations ciblées
+      à l’étranger — une campagne déjà entachée par une tentative ratée récente au Qatar.
+      Selon cette logique perverse, le cessez-le-feu n’est pas une pause dans la violence,
+      mais une licence pour des meurtres sélectifs, une continuation ralentie de la
+      guerre déguisée en paix. Les États-Unis, quant à eux, se vantent d’avoir « imposé
+      le calme », mais en pratique ils ont conçu un système dans lequel une partie tue
+      en toute impunité tandis que l’autre est blâmée pour sa propre mort. C’est une
+      inversion grotesque de la morale, un mensonge diplomatique construit pour protéger
+      la criminalité derrière la rhétorique de la paix. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: L'article critique Donald Trump pour avoir donné à Israël
+      un soutien inconditionnel dans sa guerre à Gaza, en utilisant des termes comme
+      "se venger", qui sont inappropriés dans le contexte diplomatique et qui légitiment
+      une violence continue sous le prétexte de la défense.
+    paragraph_summary: Dans un tweet, Elijah J. Magnier critique la position de Donald
+      Trump, qualifié de « président de la paix », pour avoir accordé à Israël une liberté
+      d'action dans sa guerre contre Gaza sous le prétexte d'un cessez-le-feu. Magnier
+      dénonce le cynisme des États-Unis qui légitiment le droit d'Israël à « se défendre
+      » et à « se venger » après la mort d'un soldat, en utilisant un langage qui, selon
+      lui, n'a pas sa place dans la diplomatie. Il décrit le cessez-le-feu comme une
+      illusion, permettant à Israël de continuer ses attaques tout en maintenant les
+      Palestiniens dans un état de soumission. Les déclarations du ministre israélien
+      de la Défense, Israël Katz, renforcent cette idée en légitimant les assassinats
+      extraterritoriaux, transformant ainsi le cessez-le-feu en une continuation déguisée
+      de la violence.
+    published: '2025-10-29T17:13:26+00:00'
   - title: 'Trump’s Gaza Gamble: A Ceasefire Without a Roadmap and No Clear Future for
       GITA'
     url: https://ejmagnier.com/2025/10/26/trumps-gaza-gamble-a-ceasefire-without-a-roadmap-and-no-clear-future-for-gita/

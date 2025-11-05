@@ -7,18 +7,990 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  As the war in Ukraine grinds on and Russia faces mounting economic and diplomatic pressure, several new developments have emerged that could reshape the geopolitical landscape.
+  The ongoing conflict in eastern Ukraine continues to dominate the geopolitical landscape, with Russian forces intensifying their efforts to encircle and capture Pokrovsk (Krasnoarmeisk). For over a year, this city has been a focal point in Russia's campaign to consolidate territorial gains and push further into Ukrainian-held regions. Ukrainian President Zelensky remains vocal in condemning the destruction wrought by Russian military operations, particularly targeting energy infrastructure, while reiterating his commitment to expel Russian troops from the area.
   
-  The most significant recent event is Russia’s public unveiling of the advanced Burevestnik nuclear-powered missile capability. According to **Gilbert Doctorow**, this weapon is notable not only for its technical sophistication but also for its potential to function as a space-based attack system without formally breaching international prohibitions on the militarization of space. Doctorow emphasizes that this move signals Moscow’s intent to reassert its deterrence posture, which many analysts believe has been eroding due to what they describe as President Putin’s “inadequate responses to provocations” over the past several years.
+  According to **Gilbert Doctorow**, Russian claims now suggest that as many as 5,000 Ukrainian troops have been surrounded near Pokrovsk, signaling a potentially significant shift in the balance of power on this front. Doctorow notes that Moscow frames these advances as "liberating efforts," though this narrative is sharply contested by Kyiv and much of the international community. The humanitarian cost, especially with the targeting of critical infrastructure, remains a major concern.
   
-  Meanwhile, the situation on the Ukrainian front remains tense. Reports indicate that Russian forces have claimed to encircle a Ukrainian battalion near Pokrovsk, with as many as 5,000 troops potentially at risk. **Doctorow** notes that even Ukrainian officials, such as Kiev mayor Klitschko, have been unusually candid about casualties from recent Russian drone attacks, suggesting a shift toward greater transparency or perhaps an attempt to prepare the public for further losses.
+  Diplomatic efforts have suffered setbacks, most notably with the official cancellation of the planned Trump-Putin summit in Budapest by the U.S. side. While some observers regret the lost opportunity for dialogue, **Doctorow** asserts that this move is "beneficial to prevent Putin from compromising Russian interests amid ongoing conflict." The cancellation has also contributed to confusion and mixed messaging within Russian official circles, as highlighted in recent discussions between **Judge Andrew Napolitano** and Doctorow.
   
-  On the economic front, Russia continues to grapple with secondary tariffs imposed on its oil exports, a measure that is straining the country’s finances and complicating its efforts to sustain the war effort. This economic pressure is compounded by diplomatic challenges, as Russia’s traditional partners, including India, are navigating complex relationships with both Moscow and the West amid ongoing sanctions.
-  
-  **Doctorow** and his interlocutors broadly agree that the credibility of Russia’s nuclear deterrent is at a low point, with internal criticism of Putin’s leadership style becoming more pronounced. There is a high chance, they argue, that Moscow’s recent military and technological demonstrations are intended to restore deterrence and project strength both domestically and internationally.
-  
-  Looking ahead, the majority view among independent analysts is that Russia will continue to escalate its technological and military signaling, while the economic situation is likely to deteriorate further if sanctions remain in place. I guarantee that the coming weeks will see intensified efforts by Moscow to break out of diplomatic isolation, but unless there is a significant change in Western policy, the conflict and its attendant crises are set to persist.
+  Looking ahead, the majority of analysts cited by Doctorow anticipate continued Russian military pressure in eastern Ukraine, with a high likelihood of further territorial gains around Pokrovsk if current trends persist. Diplomatic breakthroughs appear unlikely in the short term, and the humanitarian situation is expected to deteriorate as infrastructure remains a target. Based on the current trajectory, I guarantee that the conflict will remain unresolved and highly volatile in the coming weeks, with the potential for further escalation both militarily and diplomatically.
 articles:
+  - title: Transcript of today’s NewsX World interview on Zelensky and Russia’s encirclement
+      of Pokrovsk
+    url: https://gilbertdoctorow.com/2025/11/01/transcript-of-todays-newsx-world-interview-on-zelensky-and-russias-encirclement-of-pokrovsk/
+    text: 'Transcript submitted by a reader NewsX World: 4:10 –secure supply routes
+      and push back Russian infiltration. Russian forces have been advancing towards
+      Pokrovsk in the Donetsk region for over a year, seeking to consolidate control
+      over eastern Ukraine and push into neighboring the Dnipropetrovsk region. We now
+      are joined by Gilbert Doctorow. He is a Russia affairs expert, and he joins us
+      live from St. Petersburg in Russia. Okay, let’s start with the Vlodymyr Zelensky
+      statement that we just heard, Gilbert. Of course, Zelensky describes the fighting
+      in Pokrovsk and Kuryansk and says Russia is turning Ukraine into destroyed cities.
+      Now of course Russia pitches this war as liberating the country of Ukraine. How
+      would you respond to the claim that Russia’s operations in these areas are liberating,
+      rather than coercive? Doctorow: 5:13 Well, they are very destructive, of course.
+      But the important thing to note is how this is proceeding over a long period of
+      time. They have not staged, the Russians have not staged any massive assaults
+      on major defended cities like Pokrovsk. They have encircled them. In the case
+      of the latest news, they say that they have completely encircled Pakrovsk. And
+      the remarks by Zelensky are an attempt to counter the image of a city where 5,000
+      or more soldiers are facing slaughter as they are surrounded. 5:53 The fact is
+      that the war is dominated by the move to drones. Mr. Zelensky is unable to resist
+      the Russian advances with manpower. He is short of manpower in many of the critical
+      points of the more than 1,500 kilometer long line of confrontation and Pokrovsk
+      is one of them. But what we see, or I see, watching the Russian state news reports
+      from the front and interviews with soldiers at the front is that the Ukrainians
+      are trying to prevent Russian advance not by putting soldiers on the ground, because
+      they are short of soldiers, but by using very intensive drone attacks on the advancing
+      Russian forces. 6:44 In fact, as a result of the ever-present “birdies” as they
+      call them, Russian forces are using small units, not full front lines of advance.
+      And this is the peculiarity of the present stage of the war, that there are five,
+      six, eight soldiers forming an attack unit, not a whole brigade. The effectiveness
+      of the drone counterattacks is considerable, let us not underestimate it. Nonetheless,
+      it remains true that the Ukrainian forces are surrounded and if– and that Mr.
+      Putin is satisfied that this is so and has invited Western media, Western press
+      to come and see for themselves. NewsX Wowld: 7:37 Gilbert, assuming Russia eventually
+      controls Pokrovsk, what is the vision for the area? Full integration into Russia,
+      autonomy under Russian patronage or something else possibly? Doctoorow: Well let’s
+      look at the borders. We’re speaking now of a fortified town, part of the effort
+      of the Ukrainians to have a series of retreating points as they had been pushed
+      back by the Russians. But this is not the whole of Ukraine. This is an important
+      city in the oblast or province of Donetsk. 8:19 Donetsk has been, is one of two
+      oblasts or provinces that constitute the so-called Donbass, a largely industrial
+      base that was predominantly Russian-populated when it was first incorporated into
+      Ukraine, shortly after the Russian Revolution of 1917. So this is a Russian-speaking
+      part of Ukraine which was being subjected to very harsh discrimination of the
+      Ukrainian nationalists who took power in 2014. It is not the whole of Ukraine.
+      The Russian advance from Pokrovsk will be to the next two points of fallback for
+      the Ukrainians, which are Kramatorsk and Sloviansk. These names may not mean very
+      much to the global audience, but I’d like to point out an important fact. They
+      are about halfway or two-thirds of the way towards the River Dnieper in the oblast
+      of Donetsk. And they were, in 2014, what is called the cradle of the Renaissance
+      of Russian nationalism. They stood for, I forget, 85 days, I think, these little
+      towns with just local militia. They stood up against the Ukrainian army in what
+      the Russians could describe as their version of the last stand of the Alamo. 9:53
+      This is a term that has great significance to any American viewers of this program.
+      It was a show of heroism in a hopeless cause. In fact, the objective of the Russians
+      is to return to Kramatorsk and Sloviansk from which there was a clean sweep straight
+      to the Dnieper River and to the reconquest or conquest of the entire Donbas. NewsX
+      World: Yes. Yes, Gilbert Doctorow, thank you very much for that insight and for
+      joining us and taking the time here on News X World. And of course you can follow
+      us here on the channel for all your Russia-Ukraine updates. 10:36 But next we
+      move over to North America for our next update.'
+    one_sentence_summary: Russian forces have been advancing towards Pokrovsk in eastern
+      Ukraine for over a year, aiming to consolidate control and push into neighboring
+      regions, while Ukrainian President Zelensky condemns the destruction caused by
+      Russia's military operations, which Russia claims are liberating efforts.
+    paragraph_summary: The article discusses the ongoing conflict in Ukraine, focusing
+      on the Russian advances towards Pokrovsk in the Donetsk region, where they aim
+      to consolidate control and push further into Dnipropetrovsk. Russia's military
+      strategy has involved encircling cities rather than launching large-scale assaults,
+      which has led to significant destruction, as noted by Ukrainian President Volodymyr
+      Zelensky. Gilbert Doctorow, a Russia affairs expert, comments on the situation,
+      highlighting Ukraine's struggle to counter Russian advances due to a shortage
+      of manpower. Instead of deploying ground troops, Ukraine is increasingly relying
+      on drone attacks to resist the Russian forces, which reflects a shift in warfare
+      dynamics amidst the prolonged conflict.
+    published: '2025-11-01T16:23:54+00:00'
+  - title: Transcript of today’s NewsX World interview on Zelensky and Russia’s encirclement
+      of Pokrovsk
+    url: https://gilbertdoctorow.com/2025/11/01/transcript-of-todays-newsx-world-interview-on-zelensky-and-russias-encirclement-of-pokrovsk/
+    text: 'Transcript submitted by a reader NewsX World: 4:10 –secure supply routes
+      and push back Russian infiltration. Russian forces have been advancing towards
+      Pokrovsk in the Donetsk region for over a year, seeking to consolidate control
+      over eastern Ukraine and push into neighboring the Dnipropetrovsk region. We now
+      are joined by Gilbert Doctorow. He is a Russia affairs expert, and he joins us
+      live from St. Petersburg in Russia. Okay, let’s start with the Vlodymyr Zelensky
+      statement that we just heard, Gilbert. Of course, Zelensky describes the fighting
+      in Pokrovsk and Kuryansk and says Russia is turning Ukraine into destroyed cities.
+      Now of course Russia pitches this war as liberating the country of Ukraine. How
+      would you respond to the claim that Russia’s operations in these areas are liberating,
+      rather than coercive? Doctorow: 5:13 Well, they are very destructive, of course.
+      But the important thing to note is how this is proceeding over a long period of
+      time. They have not staged, the Russians have not staged any massive assaults
+      on major defended cities like Pokrovsk. They have encircled them. In the case
+      of the latest news, they say that they have completely encircled Pakrovsk. And
+      the remarks by Zelensky are an attempt to counter the image of a city where 5,000
+      or more soldiers are facing slaughter as they are surrounded. 5:53 The fact is
+      that the war is dominated by the move to drones. Mr. Zelensky is unable to resist
+      the Russian advances with manpower. He is short of manpower in many of the critical
+      points of the more than 1,500 kilometer long line of confrontation and Pokrovsk
+      is one of them. But what we see, or I see, watching the Russian state news reports
+      from the front and interviews with soldiers at the front is that the Ukrainians
+      are trying to prevent Russian advance not by putting soldiers on the ground, because
+      they are short of soldiers, but by using very intensive drone attacks on the advancing
+      Russian forces. 6:44 In fact, as a result of the ever-present “birdies” as they
+      call them, Russian forces are using small units, not full front lines of advance.
+      And this is the peculiarity of the present stage of the war, that there are five,
+      six, eight soldiers forming an attack unit, not a whole brigade. The effectiveness
+      of the drone counterattacks is considerable, let us not underestimate it. Nonetheless,
+      it remains true that the Ukrainian forces are surrounded and if– and that Mr.
+      Putin is satisfied that this is so and has invited Western media, Western press
+      to come and see for themselves. NewsX Wowld: 7:37 Gilbert, assuming Russia eventually
+      controls Pokrovsk, what is the vision for the area? Full integration into Russia,
+      autonomy under Russian patronage or something else possibly? Doctoorow: Well let’s
+      look at the borders. We’re speaking now of a fortified town, part of the effort
+      of the Ukrainians to have a series of retreating points as they had been pushed
+      back by the Russians. But this is not the whole of Ukraine. This is an important
+      city in the oblast or province of Donetsk. 8:19 Donetsk has been, is one of two
+      oblasts or provinces that constitute the so-called Donbass, a largely industrial
+      base that was predominantly Russian-populated when it was first incorporated into
+      Ukraine, shortly after the Russian Revolution of 1917. So this is a Russian-speaking
+      part of Ukraine which was being subjected to very harsh discrimination of the
+      Ukrainian nationalists who took power in 2014. It is not the whole of Ukraine.
+      The Russian advance from Pokrovsk will be to the next two points of fallback for
+      the Ukrainians, which are Kramatorsk and Sloviansk. These names may not mean very
+      much to the global audience, but I’d like to point out an important fact. They
+      are about halfway or two-thirds of the way towards the River Dnieper in the oblast
+      of Donetsk. And they were, in 2014, what is called the cradle of the Renaissance
+      of Russian nationalism. They stood for, I forget, 85 days, I think, these little
+      towns with just local militia. They stood up against the Ukrainian army in what
+      the Russians could describe as their version of the last stand of the Alamo. 9:53
+      This is a term that has great significance to any American viewers of this program.
+      It was a show of heroism in a hopeless cause. In fact, the objective of the Russians
+      is to return to Kramatorsk and Sloviansk from which there was a clean sweep straight
+      to the Dnieper River and to the reconquest or conquest of the entire Donbas. NewsX
+      World: Yes. Yes, Gilbert Doctorow, thank you very much for that insight and for
+      joining us and taking the time here on News X World. And of course you can follow
+      us here on the channel for all your Russia-Ukraine updates. 10:36 But next we
+      move over to North America for our next update.'
+    one_sentence_summary: Russian forces have been advancing towards Pokrovsk in eastern
+      Ukraine for over a year, aiming to consolidate control and push into neighboring
+      regions, while Ukrainian President Zelensky condemns the destruction caused by
+      Russia's military operations, which Russia claims are liberating efforts.
+    paragraph_summary: The article discusses the ongoing conflict in Ukraine, focusing
+      on the Russian advances towards Pokrovsk in the Donetsk region, where they aim
+      to consolidate control and push further into Dnipropetrovsk. Russia's military
+      strategy has involved encircling cities rather than launching large-scale assaults,
+      which has led to significant destruction, as noted by Ukrainian President Volodymyr
+      Zelensky. Gilbert Doctorow, a Russia affairs expert, comments on the situation,
+      highlighting Ukraine's struggle to counter Russian advances due to a shortage
+      of manpower. Instead of deploying ground troops, Ukraine is increasingly relying
+      on drone attacks to resist the Russian forces, which reflects a shift in warfare
+      dynamics amidst the prolonged conflict.
+    published: '2025-11-01T16:23:54+00:00'
+  - title: Today’s NewsX World interview about resisting Russian capture of Pokrovsk
+      (Krasnoarmeisk)
+    url: https://gilbertdoctorow.com/2025/11/01/todays-newsx-world-interview-about-resisting-russian-capture-of-pokrovsk-krasnoarmeisk/
+    text: 'In this morning’s chat with the NewsX World presenter, attention focused
+      on Zelensky’s latest bleating about Russia’s supposedly ‘terrorist’ attacks on
+      Ukrainian energy infrastructure and his vowing to chase the Russians out of Pokrovsk,
+      where Vladimir Putin claims to have completely surrounded 5,000 Ukrainian troops
+      and has invited Western media to come and look. ( https://youtu.be/-Rkby1TzBgl?si=0lsf5z2Tfl4eOoaO
+      ) (in case this link provided by the broadcaster expires, please enter the following
+      in the youtube search box to be directed to the video “Israel Red Cross news:
+      Gaza Ceasefire strained after exchange of remain/ Hostages body/ NewsX”'
+    one_sentence_summary: The article discusses Ukrainian President Zelensky's condemnation
+      of Russia's attacks on Ukrainian energy infrastructure and his commitment to expel
+      Russian forces from Pokrovsk, amidst claims from Putin of surrounding 5,000 Ukrainian
+      troops.
+    paragraph_summary: In a recent discussion with NewsX World, Ukrainian President
+      Volodymyr Zelensky expressed strong condemnation of Russia's attacks on Ukraine's
+      energy infrastructure, labeling them as acts of terrorism. He emphasized his commitment
+      to expelling Russian forces from Pokrovsk, a location where Russian President
+      Vladimir Putin claims to have encircled 5,000 Ukrainian troops, inviting Western
+      media to witness the situation firsthand.
+    published: '2025-11-01T08:29:03+00:00'
+  - title: Today’s NewsX World interview about resisting Russian capture of Pokrovsk
+      (Krasnoarmeisk)
+    url: https://gilbertdoctorow.com/2025/11/01/todays-newsx-world-interview-about-resisting-russian-capture-of-pokrovsk-krasnoarmeisk/
+    text: 'In this morning’s chat with the NewsX World presenter, attention focused
+      on Zelensky’s latest bleating about Russia’s supposedly ‘terrorist’ attacks on
+      Ukrainian energy infrastructure and his vowing to chase the Russians out of Pokrovsk,
+      where Vladimir Putin claims to have completely surrounded 5,000 Ukrainian troops
+      and has invited Western media to come and look. ( https://youtu.be/-Rkby1TzBgl?si=0lsf5z2Tfl4eOoaO
+      ) (in case this link provided by the broadcaster expires, please enter the following
+      in the youtube search box to be directed to the video “Israel Red Cross news:
+      Gaza Ceasefire strained after exchange of remain/ Hostages body/ NewsX”'
+    one_sentence_summary: The article discusses Ukrainian President Zelensky's condemnation
+      of Russia's attacks on Ukrainian energy infrastructure and his commitment to expel
+      Russian forces from Pokrovsk, amidst claims from Putin of surrounding 5,000 Ukrainian
+      troops.
+    paragraph_summary: In a recent discussion with NewsX World, Ukrainian President
+      Volodymyr Zelensky expressed strong condemnation of Russia's attacks on Ukraine's
+      energy infrastructure, labeling them as acts of terrorism. He emphasized his commitment
+      to expelling Russian forces from Pokrovsk, a location where Russian President
+      Vladimir Putin claims to have encircled 5,000 Ukrainian troops, inviting Western
+      media to witness the situation firsthand.
+    published: '2025-11-01T08:29:03+00:00'
+  - title: Working links to the NewsX World interviews this morning
+    url: https://gilbertdoctorow.com/2025/10/31/working-links-to-the-newsx-world-interviews-this-morning/
+    text: The links which I provided earlier from the broadcaster were time limited
+      and no longer work, I am told. The following links should take you to the youtube
+      podcasts Zelenskyy condemns Russian strikes on Sloviansk power plant| Russia-Ukraine
+      War Updates| NewsX World Trump-Putin Meeting Cancelled | Trump cancels Putin meeting
+      amid Ukraine dispute | NewsX World
+    one_sentence_summary: The article informs that the previously shared time-limited
+      links are no longer functional and provides new links to YouTube podcasts covering
+      Zelenskyy's condemnation of Russian strikes and the cancellation of a Trump-Putin
+      meeting amid the Ukraine conflict.
+    paragraph_summary: The article discusses the expiration of previously shared links
+      to podcasts featuring updates on the Russia-Ukraine war, specifically highlighting
+      Ukrainian President Zelenskyy's condemnation of Russian strikes on a power plant
+      in Sloviansk. It also mentions that former President Trump has canceled a meeting
+      with Putin due to the ongoing dispute related to Ukraine. New links to the relevant
+      YouTube podcasts are provided for access to the latest updates.
+    published: '2025-10-31T17:14:11+00:00'
+  - title: Working links to the NewsX World interviews this morning
+    url: https://gilbertdoctorow.com/2025/10/31/working-links-to-the-newsx-world-interviews-this-morning/
+    text: The links which I provided earlier from the broadcaster were time limited
+      and no longer work, I am told. The following links should take you to the youtube
+      podcasts Zelenskyy condemns Russian strikes on Sloviansk power plant| Russia-Ukraine
+      War Updates| NewsX World Trump-Putin Meeting Cancelled | Trump cancels Putin meeting
+      amid Ukraine dispute | NewsX World
+    one_sentence_summary: The article informs that the previously shared time-limited
+      links are no longer functional and provides new links to YouTube podcasts covering
+      Zelenskyy's condemnation of Russian strikes and the cancellation of a Trump-Putin
+      meeting amid the Ukraine conflict.
+    paragraph_summary: The article discusses the expiration of previously shared links
+      to podcasts featuring updates on the Russia-Ukraine war, specifically highlighting
+      Ukrainian President Zelenskyy's condemnation of Russian strikes on a power plant
+      in Sloviansk. It also mentions that former President Trump has canceled a meeting
+      with Putin due to the ongoing dispute related to Ukraine. New links to the relevant
+      YouTube podcasts are provided for access to the latest updates.
+    published: '2025-10-31T17:14:11+00:00'
+  - title: This morning’s back-to-back interviews on NewsX World
+    url: https://gilbertdoctorow.com/2025/10/31/this-mornings-back-to-back-interviews-on-newsx-world/
+    text: 'It appears that I am now a daily commentator on this Indian broadcaster,
+      which keeps me on my toes since they open with breaking news that sends me rushing
+      to US, British and Russian sources to stay abreast. As you will see from these
+      two segments of their 3pm (Indian time° broadcast, their production team is well
+      prepared with pertinent questions on the most important developments in diplomacy
+      and on the field of battle. (https://youtu.be/1TBU6GO0?si=SGRTTGja4XV2vGGH ) Trump
+      stands up against Putin. Trump-Putin meeting cancelled / Trump cancels Putin meeting
+      amid Ukraine dispute Russian missiles hit Ukraine’s power site. Zelensky condemns
+      Russian strikes on Sloviansk power plant/Russia-Ukraine War Updates ( https://youtu.be/iQz0rligy3Y?si=13V37w9DOwFefNl7
+      ) POSTSCRIPT:  it may be that one or both of these links does not work.  if so,
+      please send me a note or comment here with the corrected link.  the problem is
+      that youtube sometimes changes the link an hour or two after NewsX sends it to
+      me. When in Brussels I fix this myself, but in Russia youtube is not accessible'
+    one_sentence_summary: The author is now a daily commentator for an Indian broadcaster,
+      which requires them to quickly gather information from various international sources
+      to discuss significant developments in diplomacy and the ongoing Russia-Ukraine
+      conflict.
+    paragraph_summary: The author has become a daily commentator for an Indian broadcaster,
+      which requires them to quickly gather information from various international sources
+      to stay informed on breaking news. The broadcast includes significant updates
+      on the ongoing Russia-Ukraine conflict, such as the cancellation of a meeting
+      between Trump and Putin amid tensions over Ukraine, as well as reports of Russian
+      missile strikes hitting Ukrainian power facilities. The author notes the production
+      team's preparedness with relevant questions on key diplomatic and military developments.
+      Additionally, they mention potential issues with the provided video links, as
+      YouTube sometimes alters them shortly after being sent.
+    published: '2025-10-31T09:06:06+00:00'
+  - title: This morning’s back-to-back interviews on NewsX World
+    url: https://gilbertdoctorow.com/2025/10/31/this-mornings-back-to-back-interviews-on-newsx-world/
+    text: 'It appears that I am now a daily commentator on this Indian broadcaster,
+      which keeps me on my toes since they open with breaking news that sends me rushing
+      to US, British and Russian sources to stay abreast. As you will see from these
+      two segments of their 3pm (Indian time° broadcast, their production team is well
+      prepared with pertinent questions on the most important developments in diplomacy
+      and on the field of battle. (https://youtu.be/1TBU6GO0?si=SGRTTGja4XV2vGGH ) Trump
+      stands up against Putin. Trump-Putin meeting cancelled / Trump cancels Putin meeting
+      amid Ukraine dispute Russian missiles hit Ukraine’s power site. Zelensky condemns
+      Russian strikes on Sloviansk power plant/Russia-Ukraine War Updates ( https://youtu.be/iQz0rligy3Y?si=13V37w9DOwFefNl7
+      ) POSTSCRIPT:  it may be that one or both of these links does not work.  if so,
+      please send me a note or comment here with the corrected link.  the problem is
+      that youtube sometimes changes the link an hour or two after NewsX sends it to
+      me. When in Brussels I fix this myself, but in Russia youtube is not accessible'
+    one_sentence_summary: The author is now a daily commentator for an Indian broadcaster,
+      which requires them to quickly gather information from various international sources
+      to discuss significant developments in diplomacy and the ongoing Russia-Ukraine
+      conflict.
+    paragraph_summary: The author has become a daily commentator for an Indian broadcaster,
+      which requires them to quickly gather information from various international sources
+      to stay informed on breaking news. The broadcast includes significant updates
+      on the ongoing Russia-Ukraine conflict, such as the cancellation of a meeting
+      between Trump and Putin amid tensions over Ukraine, as well as reports of Russian
+      missile strikes hitting Ukrainian power facilities. The author notes the production
+      team's preparedness with relevant questions on key diplomatic and military developments.
+      Additionally, they mention potential issues with the provided video links, as
+      YouTube sometimes alters them shortly after being sent.
+    published: '2025-10-31T09:06:06+00:00'
+  - title: Trump – Putin meeting in Budapest is now officially canceled by the U.S.
+      side
+    url: https://gilbertdoctorow.com/2025/10/31/trump-putin-meeting-in-budapest-is-now-officially-canceled-by-the-u-s-side/
+    text: Trump – Putin meeting in Budapest is now officially canceled by the U.S. side
+      Many laymen and a good many experts who are well known to the Community from their
+      regular appearances on major interview podcasts will deeply regret the news that
+      Washington has canceled, not postponed the Trump-Putin summit planned for Budapest,
+      per today’s Financial Times and carried by Reuters. I am not among them, because
+      in his present posture of subservience to Trump, it is best if President Putin
+      is not given an opportunity to sacrifice core Russian interests and to overlook
+      the loss of 150,000 Russian soldiers’ lives by accepting the ‘American conceptualization’
+      of what the end of the war will look like. That last remark on conceptualization
+      was issued by Putin just a few days ago before it was withdrawn by Sergei Lavrov
+      in a lame-looking acknowledgement that the American president has gone back on
+      his words to Putin at their Anchorage summit and now is pressing for a cease-fire
+      without addressing the root causes of the conflict. I still maintain that Trump
+      has been messaging Putin in various ways that he must end the war as soon as possible
+      and that he, Trump, does not care if this means wreaking total destruction on
+      Kiev here and now. This is what all the delays in applying secondary sections
+      on Russian oil exports were all about. The sanctions themselves will start to
+      bite very soon and that is heavy pressure on Putin to do what is needed. Sooner
+      or later this issue will be resolved at the top in Russia, either by Putin or
+      by his successor if he is pushed aside. ***** I close this essay by sharing the
+      video link from yesterday’s interview with NewsX World (India), the content of
+      which I partly discussed in an essay yesterday. https://youtu.be/wWepGQ4GJl0?si=8wlw5VH9TBPDOqBV
+    one_sentence_summary: The U.S. has officially canceled the planned Trump-Putin summit
+      in Budapest, a decision some may regret, but which is seen as beneficial to prevent
+      Putin from compromising Russian interests amid ongoing conflict.
+    paragraph_summary: The U.S. has officially canceled the planned Trump-Putin summit
+      in Budapest, a decision that some experts and commentators may regret, but which
+      the author supports, arguing that it prevents Putin from compromising Russian
+      interests and downplaying the significant loss of Russian lives in the ongoing
+      conflict. The article notes that Putin's recent remarks about the war were retracted
+      by Foreign Minister Sergei Lavrov, indicating a shift in the Kremlin's stance
+      amid pressure from the U.S. for a cease-fire without addressing the underlying
+      issues. The author suggests that Trump has been signaling to Putin to end the
+      war quickly, regardless of the consequences for Ukraine, and that impending sanctions
+      on Russian oil exports will further compel Putin to act. The resolution of the
+      conflict may ultimately depend on Putin or his successor.
+    published: '2025-10-31T08:00:39+00:00'
+  - title: Trump – Putin meeting in Budapest is now officially canceled by the U.S.
+      side
+    url: https://gilbertdoctorow.com/2025/10/31/trump-putin-meeting-in-budapest-is-now-officially-canceled-by-the-u-s-side/
+    text: Trump – Putin meeting in Budapest is now officially canceled by the U.S. side
+      Many laymen and a good many experts who are well known to the Community from their
+      regular appearances on major interview podcasts will deeply regret the news that
+      Washington has canceled, not postponed the Trump-Putin summit planned for Budapest,
+      per today’s Financial Times and carried by Reuters. I am not among them, because
+      in his present posture of subservience to Trump, it is best if President Putin
+      is not given an opportunity to sacrifice core Russian interests and to overlook
+      the loss of 150,000 Russian soldiers’ lives by accepting the ‘American conceptualization’
+      of what the end of the war will look like. That last remark on conceptualization
+      was issued by Putin just a few days ago before it was withdrawn by Sergei Lavrov
+      in a lame-looking acknowledgement that the American president has gone back on
+      his words to Putin at their Anchorage summit and now is pressing for a cease-fire
+      without addressing the root causes of the conflict. I still maintain that Trump
+      has been messaging Putin in various ways that he must end the war as soon as possible
+      and that he, Trump, does not care if this means wreaking total destruction on
+      Kiev here and now. This is what all the delays in applying secondary sections
+      on Russian oil exports were all about. The sanctions themselves will start to
+      bite very soon and that is heavy pressure on Putin to do what is needed. Sooner
+      or later this issue will be resolved at the top in Russia, either by Putin or
+      by his successor if he is pushed aside. ***** I close this essay by sharing the
+      video link from yesterday’s interview with NewsX World (India), the content of
+      which I partly discussed in an essay yesterday. https://youtu.be/wWepGQ4GJl0?si=8wlw5VH9TBPDOqBV
+    one_sentence_summary: The U.S. has officially canceled the planned Trump-Putin summit
+      in Budapest, a decision some may regret, but which is seen as beneficial to prevent
+      Putin from compromising Russian interests amid ongoing conflict.
+    paragraph_summary: The U.S. has officially canceled the planned Trump-Putin summit
+      in Budapest, a decision that some experts and commentators may regret, but which
+      the author supports, arguing that it prevents Putin from compromising Russian
+      interests and downplaying the significant loss of Russian lives in the ongoing
+      conflict. The article notes that Putin's recent remarks about the war were retracted
+      by Foreign Minister Sergei Lavrov, indicating a shift in the Kremlin's stance
+      amid pressure from the U.S. for a cease-fire without addressing the underlying
+      issues. The author suggests that Trump has been signaling to Putin to end the
+      war quickly, regardless of the consequences for Ukraine, and that impending sanctions
+      on Russian oil exports will further compel Putin to act. The resolution of the
+      conflict may ultimately depend on Putin or his successor.
+    published: '2025-10-31T08:00:39+00:00'
+  - title: Transcript of ‘Judging Freedom’ edition of 29 October
+    url: https://gilbertdoctorow.com/2025/10/29/transcript-of-judging-freedom-edition-of-29-october/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=jhLsCsqkw9E
+      Napolitano: 0:31 Hi, everyone. Judge Andrew Napolitano here for “Judging Freedom”.
+      Today is Wednesday, October 29th, 2025. Dr. Gilbert Doctorow will be with us in
+      just a moment on President Putin’s next moves. But first this. [ad] 1:59 Dr. Gilbert
+      Doctorow, welcome here, my dear friend. Thank you for accommodating my schedule
+      in the US. This is an early hour. What is the Russian view, whether it is Kremlin
+      elites or folks in the street, about the cancellation of the Trump-Putin-Bucharest
+      conference? Doctorow: There’s a lot of confusion and with good reason. The news
+      coming out of Moscow has been changing every day. And that is not good, because
+      you like to see consistency of message from a major world power. And we’re not
+      seeing that. Well, if we don’t see it from the United States, Donald Trump, it’s
+      understandable. We all know how volatile he is, but the Russians have always made
+      a very important commitment to solid, reliable positions. Now, what I’ve seen
+      in the last two days– for example, two days ago, the Russian news agencies were
+      reporting that President Putin said he agrees to Trump’s conceptualization of
+      the resolution of the conflict with Ukraine. Very interesting. 3:15 Yesterday
+      his foreign minister, Sergey Lavrov, said, “My goodness, we understand now that
+      Trump has gone back on the commitments he made in Anchorage and is looking for
+      an immediate ceasefire and not addressing the fundamental causes of the war.”
+      Well, all of this is possible, but as I said, it does not demonstrate confidence
+      in the Putin administration. It looks like confusion, and that is not good. Napolitano:
+      3:53 Well, is it fair to conclude that after– and of course you and I were not
+      flies on the wall, I wish one of us had been, probably you, because you have the
+      language skills– of the telephone call between Marco Rubio and Sergey Lavrov,
+      at the end of which Lavrov said, “What’s this nonsense?” I’m paraphrasing, he
+      doesn’t speak this harshly. “What is this nonsense about a ceasefire? Are we back
+      to that again.” Now look, we all know Rubio is a neocon. We all know Rubio is
+      in the Victoria Nuland camp when it comes to Ukraine. But of course he works for
+      Donald Trump. Is it realistic to come to the conclusion that Rubio said something
+      to Sergei Lavrov, which Lavrov interpreted to mean this is not a step forward?
+      Doctorow: Yes. And as you said, we all know that Rubio works for Donald Trump.
+      The Russians’ position now is that Rubio works against his boss. Napolitano: Yes.
+      Yes. I mean, if the Russians believe that Rubio is working against Donald Trump,
+      which by the way, Dr. Doctorow, many inside the Beltway believe that. Many of
+      your colleagues on this show remind the viewers of the public and apparently persistent
+      animosity between the two of them. Many recount the story of Mrs. Adelson, Trump’s
+      enormous donor, saying, I want Marco as the vice president and Trump saying he
+      would drive me crazy. I’ll make him the secretary of state and keep him at bay.
+      I mean, all this stuff is more than rumor. There is evidence to support all of
+      it. But isn’t it dangerous if the Russian Foreign Ministry believes that the American
+      Department of State is at odds with the President of the United States? Doctorow:
+      Well, it is. And as I was yet saying, the confusion that we see in Washington
+      has a parallel in Moscow. There is no question now, but there is open, well, actually,
+      how open it is depends on whether you believe what you hear on the talk shows,
+      but that there is definitely a dispute in the leading members of the establishment
+      in Moscow over how to handle the States and whether or not Mr. Putin’s “gently,
+      gently” approach is paying off or is reducing Russians’ deterrent image and force.
+      6:44 Was Foreign Minister Lavrov either admonished or corrected, softly as the
+      Russians can do it so nicely, by Dmitry Peskov, the president’s official spokesperson?
+      Doctorow: I didn’t sense that. Lavrov, well, that could explain why he reversed
+      himself yesterday. Napolitano: Well, that was going to be my next question, because
+      now he’s whistling a different tune. And then you mentioned this fellow that I
+      don’t even know about, but I think you watched them on our friend Dimitri Sime’s
+      show, Dmitri Trenin. So untie this knot for us, please. Doctorow: Well, every
+      which way. The Russians, the most knowledgeable, the people who give inputs to
+      Putin and represent the well-informed elites, they are also confused. I’ve watched–
+      I was very surprised even now, a few minutes before the show started, I watched
+      the afternoon edition of “The Great Game”. When you speak about Dimitry Simes,
+      you’re speaking about the evening edition of the same program, “The Great Game”.
+      Formerly, the chief of the whole thing was a certain member of parliament, the
+      member of the Duma, the grandson of the Soviet leader Molotov, who brought real
+      gravitas to the program, who was a member of, a long-standing member of the Duma,
+      and had, it was the head of Ruski Mir, which was the NGO, you could call it, Moscow-subsidized
+      NGO to look after the interests of the Russian diaspora, as some speak. And this
+      Nikonov is not there. You have Simes taking over the evening program, it’s clear
+      that he’s running the show himself. And now I was surprised to see that someone
+      else has taken over the afternoon show, someone whom I know quite well, because
+      he was the major moderator of a rival talk show called “Time Will Tell”, “Bremya
+      Pekazhet”. I was on that program in 2016 as well. So I saw him in action. He’s
+      quite good, but he is not the same rank. So I would say the program, “The Great
+      Game”, has been taken down a few notches. Simes is great, but he’s not Nikonov.
+      This one is the one I saw in the afternoon is very good, but he’s not Simes. So
+      that program which was really, I thought it was ahead of the competing program
+      of Vladimir Solovyov, whom I quote extensively. It looks like they’ve fallen behind.
+      9:29 Solovyov has been uniformly very hawkish and very critical of Putin’s policies,
+      never of Putin the man, but of Putin’s policies with respect to the gently, gently
+      approach to– Napolitano; All right, well, is this musical chairs at a Russian
+      talk show orchestrated by the government? Is it indicative of the Kremlin’s thinking
+      or is it the decision of the producers? Listen, I’ve been in the business for
+      30 years, as you know. Is it a decision of producers to get more eyeballs on the
+      screen? Doctorow: I don’t know. I think there’s a split in the producers because
+      the Simes show that you’re talking about is, like Solovyov, very critical of what
+      Putin is doing without naming Putin. The show that I just watched now was very
+      sympathetic to what Putin is doing. Napolitano; On the same network. Doctorow;
+      On the same … network, yes. Napolitano; Right, right, all right. Let’s switch
+      gears slightly. The new sanctions that President Trump has imposed on the two
+      Russian oil giants. Has there been, I can’t imagine there has been yet, but I’ll
+      ask you anyway, has there been or is there likely to be a palpable effect on the
+      Russian economy? I’m going to ask you later about the war and then later about
+      BRICS, but right now just the Russian economy, has there been an effect? Doctorow;
+      It depends on whom you’re listening to. The Putin line you’ve heard very well
+      that it’s had no effect. we’ve seen these factions come before, and so forth.
+      That is exactly what I heard 10 minutes ago on “The Great Game”. They were all
+      saying that “Oh the Russians will find a way of getting around it. We already
+      have understandings with the Indians. We will sell oil from Lucoil to a minor
+      player, minor Russian refiner, who will then be the reseller to India” and so
+      forth. That is their story. I’m very skeptical of that story. The Indians have
+      said directly that they will not buy Russian oil. 11:41 And I think it’s going
+      to be difficult for them to play this game that was just described on Russian
+      television and get away with it. The effect on the economy will be big. Is big.
+      This is not speculation. We all know the news. That Lucoil a couple of days ago
+      announced that they are trying to sell all of their overseas properties before
+      November 21st, which is the US deadline before those properties are in turn sanctioned
+      and become unsaleable. Napolitano: Well, that’ll be a fire sale if they’re trying
+      to sell it in four weeks. Doctorow: Precisely so. Look, I’ve been in business
+      development. That was my professional job title for 25 years in major corporations.
+      And I know very well what this means. How much effort and expense, was invested
+      by LucOil to build its European network, vast amounts. And now in a month, it’ll
+      be lost. Now, you tell me, is that an effect on the Russian economy? It sure as
+      hell is. Napolitano: 12:44 What about on the special military operation? Will
+      the sanctions affect that? I don’t mean politically. I mean in terms of the ability
+      of the military to get the supplies it needs in a timely manner. Doctorow: I don’t
+      think the Russian military has any problems. And there, in this point, I’m completely
+      in agreement with the Kremlin’s official line. The war will go on; the problem
+      is at what speed, and whether or not there is in the foreseeable future any conclusion.
+      The Kremlin is very vague on this. And for me, that vagueness means they expect
+      this war to go on for several more years. Napolitano: Several more years. Will
+      the Russian elites, will the intelligence services, will the senior military people
+      have the patience to endure this for several more years, or will there be pressure
+      on President Putin to level Kiev and get this over with in a week? Doctorow: Well,
+      you know, my personal position is the latter of the two scenarios. I don’t believe
+      there is the agreement. It’s splitting now. I’d say the opinions are splitting
+      over the acceptable duration of this war and bombing the hell out of Kiev now
+      and getting it over with. So it’s very hard to say which way it’s going to go.
+      Well, it’s quite possible that Mr. Putin himself will do what’s necessary and
+      will bomb hell out of Kiev. It’s quite possible that he won’t, that this war will
+      go on for a time longer before there’s some change at the top in Russia. Napolitano:
+      14:27 We had a guest on yesterday, a retired military person, whom I respect,
+      opine that the Ukrainians have only lost about 100,000 troops. Isn’t the number,
+      the true number, many, many times that, isn’t it, in excess of a million Ukrainian
+      troops killed or so disabled they cannot go back to the military? Doctorow: Well,
+      the figure goes as high as 1.7 million if you take together both killed and maimed,
+      which is what generally is done because it’s very hard to distinguish the absolute
+      identification– who was killed and so forth is not available. But it’s certainly
+      not 100,000. That’s an absurd number. Napolitano; The Russian number, of course,
+      is much lower, even though the Russian military is much larger, because the population
+      base is much larger. Do we have any idea what the Russian number is, or do they
+      hide it like the Israelis? Doctorow: No, they hide it. But let’s assume it’s 150,000.
+      This is the number that’s bandied around by my colleagues who understand these
+      questions much better than I do. So I accept their number. But let’s put this
+      in a perspective. That’s twice, more than twice what the United States lost in
+      the Vietnam War. And the American population at that time was twice what the Russian
+      population is today. So the impact on society, let’s say, is four times, in terms
+      of losses and families, of what the US experienced back then, and then it had
+      enormous political impact. I cannot believe that this will go on indefinitely
+      in Russia without it becoming a political issue. Napolitano: Well, you often send
+      us missives about your interactions with people in supermarkets and greengrocers
+      and shopping malls and public conveyances. Are Russian mamas whose boys are in
+      the military or whose boys are of draft age irritated about this or is the population
+      quiescent and patient and expecting a victory? Doctorow: 16:48 Well, I can’t speak
+      about the Russian mamas, because I haven’t met any yet, and probably will not
+      in the time that I’m here. What I can say is there’s an old expression in Russia
+      describing how the population deals with all kinds of crises and that is “lyudi
+      molchat”, “the people are silent”. Our old friend vice president Agnew would appreciate
+      it as in his term the silent majority. The sound majority of the Russian population
+      doesn’t say [much]. Napolitano: Well here’s an interesting comment from President
+      Putin just three days ago about allowing Ukrainian soldiers to surrender peacefully.
+      I wonder if in your view this is political propaganda or if the president of Russia
+      believes that the war is nearing an end and there’s going to be a lot of surrendering.
+      Chris, cut number eight. Putin: (English voice over) First of all, to minimize
+      unnecessary human casualties, I’m asking to take all necessary measures to enable
+      the surrender of Ukrainian troops, those who want to surrender. We have to treat
+      prisoners of war in accordance with international law as well as Russian law.
+      Russia’s army has historically always been merciful towards a defeated enemy.
+      Reporter Medvedenko: First of all, he was lauding the successes of the Russian
+      army in Pokrovsk and in Kupyansk. He was saying, as you’ve heard just now, that
+      basically there is a situation where Ukrainian troops are near surrender, and
+      Russia should enable that. So he’s been saying that Russian forces have encircled
+      those two cities. You will see that both Pokrovsk and Kupyansk are around 50,
+      60 percent controlled by Russian forces. Napolitano: 18:38 So why is the president
+      saying this, if you have any idea? And secondly, why did he say it wearing a military
+      uniform? Is that customary for Vladimir Putin? We’ve seen it two or three times
+      now. Doctorow: Yeah, I don’t think his wearing the uniform is a message to the
+      West in any way. I think it’s a message to his own people, to give them some comfort
+      that the man who bears the title of Supreme Commander, Commander in Chief of the
+      armed forces, is capable of wearing a military uniform, not just a business suit.
+      He couldn’t have a more civilian Minister of Defense than Mr. Beelowsof, who after
+      a few weeks in office, also put on a military uniform, though he looks very uncomfortable
+      in it. This is a message domestically. I don’t think it signifies a hardening
+      of the line by Mr. Putin in any way. But the message, this whole story about surrender,
+      we’ve heard before, because it’s not the first time when Russians have surrounded
+      Ukrainian troops. 19:43 This was a big deal about a year ago with the, in Kursk,
+      when also the Ukrainian forces that were surrounded in Kursk in the last stages
+      of the Russian North Korean liberation of the occupying forces in that Russian
+      oblast that had been invaded by Mr. Zelensky. Well, we heard, we knew where that
+      went. Mostly they were slaughtered. And I expect because Kiev refused these people
+      the right to leave. That also happened earlier, in earlier stages of this war,
+      going back to Mariupol. When what happened was those who wanted to surrender were
+      shot in the back by their comrades who were built of sterner stuff. That is unlikely
+      that Kiev is going to respond positively to this proposal. It is unlikely that
+      those who would like to desert or surrender will be allowed to do that by the
+      hardliners that Kiev has in their ranks. So it is Mr. Putin exculpating himself
+      for what could be the slaughter of 5,000 troops. Napolitano: 21:06 All right.
+      Let me go back before we end, Dr. Doctorow, about the Rosneft and Lukoil sanctions.
+      What’s the effect on BRICS of those sanctions You’ve already told us that the
+      Indians, a significant member of BRICS, are not going to buy Russian oil. Doctorow:
+      I think when the dust settles, people will find that this exact issue that you’re
+      raising now was one of the dominant factors in the construction of the sanctions
+      on Rosneft and Lukoil, not just to punish Russia, because how significant the
+      punishment will be is still totally unclear, but to drive a wedge between these
+      three founding members of BRICS, where the Chinese and the Indians would double-cross
+      Russia just to serve their own economic interests and would stop buying its oil.
+      Whether or not a workaround is achieved, we will see only in a few weeks. But
+      let’s remember that whatever is done, Russia is going to lose several months of
+      oil exports. That is unmistakable. 22:24 Any work around will take time to put
+      in place. And considering that 25% of the Russian state budget depends on those
+      exports, they will be a hit. Napolitano: But none of this will affect, in your
+      view, and if this is your view, it’s also the view of Scott Ritter, Larry Johnson,
+      and Colonel Macgregor. I haven’t spoken to Colonel Wilkerson about it yet. None
+      of this will affect the Russian troops on the ground. Doctorow: I agree with that
+      in principle, but not entirely. The nuance I would add here is that paradoxically,
+      this is a message to Putin to get it over with now. The longer he prolongs the
+      war, the bigger the impact of the deprivation of 10% of the budget will be on
+      the ability to conduct the war. In that respect, Trump is right. So it is a message
+      to Putin in a very specific way, which isn’t obvious to the public, to get the
+      damn war over with. Napolitano: Do you think he will get that message and accelerate
+      the military activity so as to bring the war to a resolution quickly and from
+      the Russian perspective amicably? Doctorow: 23:44 It may happen, but not of his
+      own free will. My colleagues have said that he works in a collegial way. Well,
+      that’s not entirely true. I ask you to go back and look at the video of Putin’s
+      statements in 22nd, 23rd of February, 2022, when he announced first the Russian
+      recognition of Donetsk and Lugansk as independent countries and then concluded
+      with them a mutual-defense pact. If you look at Shoigu, if you look at the other
+      members of the Putin cabinet, they didn’t look too happy. They looked absolutely
+      miserable. Therefore, the idea that this is all collegial is greatly exaggerated.
+      And I do believe that the situation is becoming so absurd when Putin and Lavrov
+      are contradicting their statements from day to day that he will be under pressure,
+      that he cannot resist and he will change his policy. Napolitano: Fascinating observations.
+      Thank you, Dr. Gilbert Doctorow. Always a pleasure. We look forward to seeing
+      you next week. Thank you, my friend. Doctorow: Thank you. Napolitano: 24:53 Of
+      course. And coming up later today at 11 this morning, Aaron Maté; at one this
+      afternoon, Scott Ritter; at two this afternoon, Anya Parampil with the latest
+      on Venezuela; at three this afternoon, Phil Giraldi. And if you’re looking forward
+      to a change of pace, tomorrow Thursday at nine in the morning, Jack is back. Well,
+      that’s a young picture of him. Oh my goodness. He must’ve sent that one in. Anyway,
+      Jack Devine, former head of the CIA for Latin America will be here and he will
+      do his best to try and defend what the CIA is doing in Venezuela today. That’s
+      Thursday at nine AM. 25:37 Judge Napolitano for “Judging Freedom”.'
+    one_sentence_summary: In a discussion on "Judging Freedom," Judge Andrew Napolitano
+      and Dr. Gilbert Doctorow analyze the confusion in Russia regarding the cancellation
+      of the Trump-Putin conference, highlighting the inconsistency in messaging from
+      Moscow amidst the volatile political climate.
+    paragraph_summary: In a recent episode of "Judging Freedom," Judge Andrew Napolitano
+      discusses the current state of Russian politics and perceptions regarding the
+      cancellation of the Trump-Putin conference in Bucharest with Dr. Gilbert Doctorow.
+      Doctorow highlights a sense of confusion among both Kremlin elites and the general
+      public in Russia, noting the inconsistency in messaging from the Russian government,
+      which is unusual for a major power known for its solid positions. He references
+      conflicting statements from President Putin and Foreign Minister Sergey Lavrov
+      regarding Trump's approach to the Ukraine conflict, suggesting a lack of confidence
+      in the Putin administration. The conversation underscores the complexities and
+      uncertainties in international relations, particularly concerning the U.S. and
+      Russia.
+    published: '2025-10-29T18:34:23+00:00'
+  - title: Transcript of ‘Judging Freedom’ edition of 29 October
+    url: https://gilbertdoctorow.com/2025/10/29/transcript-of-judging-freedom-edition-of-29-october/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=jhLsCsqkw9E
+      Napolitano: 0:31 Hi, everyone. Judge Andrew Napolitano here for “Judging Freedom”.
+      Today is Wednesday, October 29th, 2025. Dr. Gilbert Doctorow will be with us in
+      just a moment on President Putin’s next moves. But first this. [ad] 1:59 Dr. Gilbert
+      Doctorow, welcome here, my dear friend. Thank you for accommodating my schedule
+      in the US. This is an early hour. What is the Russian view, whether it is Kremlin
+      elites or folks in the street, about the cancellation of the Trump-Putin-Bucharest
+      conference? Doctorow: There’s a lot of confusion and with good reason. The news
+      coming out of Moscow has been changing every day. And that is not good, because
+      you like to see consistency of message from a major world power. And we’re not
+      seeing that. Well, if we don’t see it from the United States, Donald Trump, it’s
+      understandable. We all know how volatile he is, but the Russians have always made
+      a very important commitment to solid, reliable positions. Now, what I’ve seen
+      in the last two days– for example, two days ago, the Russian news agencies were
+      reporting that President Putin said he agrees to Trump’s conceptualization of
+      the resolution of the conflict with Ukraine. Very interesting. 3:15 Yesterday
+      his foreign minister, Sergey Lavrov, said, “My goodness, we understand now that
+      Trump has gone back on the commitments he made in Anchorage and is looking for
+      an immediate ceasefire and not addressing the fundamental causes of the war.”
+      Well, all of this is possible, but as I said, it does not demonstrate confidence
+      in the Putin administration. It looks like confusion, and that is not good. Napolitano:
+      3:53 Well, is it fair to conclude that after– and of course you and I were not
+      flies on the wall, I wish one of us had been, probably you, because you have the
+      language skills– of the telephone call between Marco Rubio and Sergey Lavrov,
+      at the end of which Lavrov said, “What’s this nonsense?” I’m paraphrasing, he
+      doesn’t speak this harshly. “What is this nonsense about a ceasefire? Are we back
+      to that again.” Now look, we all know Rubio is a neocon. We all know Rubio is
+      in the Victoria Nuland camp when it comes to Ukraine. But of course he works for
+      Donald Trump. Is it realistic to come to the conclusion that Rubio said something
+      to Sergei Lavrov, which Lavrov interpreted to mean this is not a step forward?
+      Doctorow: Yes. And as you said, we all know that Rubio works for Donald Trump.
+      The Russians’ position now is that Rubio works against his boss. Napolitano: Yes.
+      Yes. I mean, if the Russians believe that Rubio is working against Donald Trump,
+      which by the way, Dr. Doctorow, many inside the Beltway believe that. Many of
+      your colleagues on this show remind the viewers of the public and apparently persistent
+      animosity between the two of them. Many recount the story of Mrs. Adelson, Trump’s
+      enormous donor, saying, I want Marco as the vice president and Trump saying he
+      would drive me crazy. I’ll make him the secretary of state and keep him at bay.
+      I mean, all this stuff is more than rumor. There is evidence to support all of
+      it. But isn’t it dangerous if the Russian Foreign Ministry believes that the American
+      Department of State is at odds with the President of the United States? Doctorow:
+      Well, it is. And as I was yet saying, the confusion that we see in Washington
+      has a parallel in Moscow. There is no question now, but there is open, well, actually,
+      how open it is depends on whether you believe what you hear on the talk shows,
+      but that there is definitely a dispute in the leading members of the establishment
+      in Moscow over how to handle the States and whether or not Mr. Putin’s “gently,
+      gently” approach is paying off or is reducing Russians’ deterrent image and force.
+      6:44 Was Foreign Minister Lavrov either admonished or corrected, softly as the
+      Russians can do it so nicely, by Dmitry Peskov, the president’s official spokesperson?
+      Doctorow: I didn’t sense that. Lavrov, well, that could explain why he reversed
+      himself yesterday. Napolitano: Well, that was going to be my next question, because
+      now he’s whistling a different tune. And then you mentioned this fellow that I
+      don’t even know about, but I think you watched them on our friend Dimitri Sime’s
+      show, Dmitri Trenin. So untie this knot for us, please. Doctorow: Well, every
+      which way. The Russians, the most knowledgeable, the people who give inputs to
+      Putin and represent the well-informed elites, they are also confused. I’ve watched–
+      I was very surprised even now, a few minutes before the show started, I watched
+      the afternoon edition of “The Great Game”. When you speak about Dimitry Simes,
+      you’re speaking about the evening edition of the same program, “The Great Game”.
+      Formerly, the chief of the whole thing was a certain member of parliament, the
+      member of the Duma, the grandson of the Soviet leader Molotov, who brought real
+      gravitas to the program, who was a member of, a long-standing member of the Duma,
+      and had, it was the head of Ruski Mir, which was the NGO, you could call it, Moscow-subsidized
+      NGO to look after the interests of the Russian diaspora, as some speak. And this
+      Nikonov is not there. You have Simes taking over the evening program, it’s clear
+      that he’s running the show himself. And now I was surprised to see that someone
+      else has taken over the afternoon show, someone whom I know quite well, because
+      he was the major moderator of a rival talk show called “Time Will Tell”, “Bremya
+      Pekazhet”. I was on that program in 2016 as well. So I saw him in action. He’s
+      quite good, but he is not the same rank. So I would say the program, “The Great
+      Game”, has been taken down a few notches. Simes is great, but he’s not Nikonov.
+      This one is the one I saw in the afternoon is very good, but he’s not Simes. So
+      that program which was really, I thought it was ahead of the competing program
+      of Vladimir Solovyov, whom I quote extensively. It looks like they’ve fallen behind.
+      9:29 Solovyov has been uniformly very hawkish and very critical of Putin’s policies,
+      never of Putin the man, but of Putin’s policies with respect to the gently, gently
+      approach to– Napolitano; All right, well, is this musical chairs at a Russian
+      talk show orchestrated by the government? Is it indicative of the Kremlin’s thinking
+      or is it the decision of the producers? Listen, I’ve been in the business for
+      30 years, as you know. Is it a decision of producers to get more eyeballs on the
+      screen? Doctorow: I don’t know. I think there’s a split in the producers because
+      the Simes show that you’re talking about is, like Solovyov, very critical of what
+      Putin is doing without naming Putin. The show that I just watched now was very
+      sympathetic to what Putin is doing. Napolitano; On the same network. Doctorow;
+      On the same … network, yes. Napolitano; Right, right, all right. Let’s switch
+      gears slightly. The new sanctions that President Trump has imposed on the two
+      Russian oil giants. Has there been, I can’t imagine there has been yet, but I’ll
+      ask you anyway, has there been or is there likely to be a palpable effect on the
+      Russian economy? I’m going to ask you later about the war and then later about
+      BRICS, but right now just the Russian economy, has there been an effect? Doctorow;
+      It depends on whom you’re listening to. The Putin line you’ve heard very well
+      that it’s had no effect. we’ve seen these factions come before, and so forth.
+      That is exactly what I heard 10 minutes ago on “The Great Game”. They were all
+      saying that “Oh the Russians will find a way of getting around it. We already
+      have understandings with the Indians. We will sell oil from Lucoil to a minor
+      player, minor Russian refiner, who will then be the reseller to India” and so
+      forth. That is their story. I’m very skeptical of that story. The Indians have
+      said directly that they will not buy Russian oil. 11:41 And I think it’s going
+      to be difficult for them to play this game that was just described on Russian
+      television and get away with it. The effect on the economy will be big. Is big.
+      This is not speculation. We all know the news. That Lucoil a couple of days ago
+      announced that they are trying to sell all of their overseas properties before
+      November 21st, which is the US deadline before those properties are in turn sanctioned
+      and become unsaleable. Napolitano: Well, that’ll be a fire sale if they’re trying
+      to sell it in four weeks. Doctorow: Precisely so. Look, I’ve been in business
+      development. That was my professional job title for 25 years in major corporations.
+      And I know very well what this means. How much effort and expense, was invested
+      by LucOil to build its European network, vast amounts. And now in a month, it’ll
+      be lost. Now, you tell me, is that an effect on the Russian economy? It sure as
+      hell is. Napolitano: 12:44 What about on the special military operation? Will
+      the sanctions affect that? I don’t mean politically. I mean in terms of the ability
+      of the military to get the supplies it needs in a timely manner. Doctorow: I don’t
+      think the Russian military has any problems. And there, in this point, I’m completely
+      in agreement with the Kremlin’s official line. The war will go on; the problem
+      is at what speed, and whether or not there is in the foreseeable future any conclusion.
+      The Kremlin is very vague on this. And for me, that vagueness means they expect
+      this war to go on for several more years. Napolitano: Several more years. Will
+      the Russian elites, will the intelligence services, will the senior military people
+      have the patience to endure this for several more years, or will there be pressure
+      on President Putin to level Kiev and get this over with in a week? Doctorow: Well,
+      you know, my personal position is the latter of the two scenarios. I don’t believe
+      there is the agreement. It’s splitting now. I’d say the opinions are splitting
+      over the acceptable duration of this war and bombing the hell out of Kiev now
+      and getting it over with. So it’s very hard to say which way it’s going to go.
+      Well, it’s quite possible that Mr. Putin himself will do what’s necessary and
+      will bomb hell out of Kiev. It’s quite possible that he won’t, that this war will
+      go on for a time longer before there’s some change at the top in Russia. Napolitano:
+      14:27 We had a guest on yesterday, a retired military person, whom I respect,
+      opine that the Ukrainians have only lost about 100,000 troops. Isn’t the number,
+      the true number, many, many times that, isn’t it, in excess of a million Ukrainian
+      troops killed or so disabled they cannot go back to the military? Doctorow: Well,
+      the figure goes as high as 1.7 million if you take together both killed and maimed,
+      which is what generally is done because it’s very hard to distinguish the absolute
+      identification– who was killed and so forth is not available. But it’s certainly
+      not 100,000. That’s an absurd number. Napolitano; The Russian number, of course,
+      is much lower, even though the Russian military is much larger, because the population
+      base is much larger. Do we have any idea what the Russian number is, or do they
+      hide it like the Israelis? Doctorow: No, they hide it. But let’s assume it’s 150,000.
+      This is the number that’s bandied around by my colleagues who understand these
+      questions much better than I do. So I accept their number. But let’s put this
+      in a perspective. That’s twice, more than twice what the United States lost in
+      the Vietnam War. And the American population at that time was twice what the Russian
+      population is today. So the impact on society, let’s say, is four times, in terms
+      of losses and families, of what the US experienced back then, and then it had
+      enormous political impact. I cannot believe that this will go on indefinitely
+      in Russia without it becoming a political issue. Napolitano: Well, you often send
+      us missives about your interactions with people in supermarkets and greengrocers
+      and shopping malls and public conveyances. Are Russian mamas whose boys are in
+      the military or whose boys are of draft age irritated about this or is the population
+      quiescent and patient and expecting a victory? Doctorow: 16:48 Well, I can’t speak
+      about the Russian mamas, because I haven’t met any yet, and probably will not
+      in the time that I’m here. What I can say is there’s an old expression in Russia
+      describing how the population deals with all kinds of crises and that is “lyudi
+      molchat”, “the people are silent”. Our old friend vice president Agnew would appreciate
+      it as in his term the silent majority. The sound majority of the Russian population
+      doesn’t say [much]. Napolitano: Well here’s an interesting comment from President
+      Putin just three days ago about allowing Ukrainian soldiers to surrender peacefully.
+      I wonder if in your view this is political propaganda or if the president of Russia
+      believes that the war is nearing an end and there’s going to be a lot of surrendering.
+      Chris, cut number eight. Putin: (English voice over) First of all, to minimize
+      unnecessary human casualties, I’m asking to take all necessary measures to enable
+      the surrender of Ukrainian troops, those who want to surrender. We have to treat
+      prisoners of war in accordance with international law as well as Russian law.
+      Russia’s army has historically always been merciful towards a defeated enemy.
+      Reporter Medvedenko: First of all, he was lauding the successes of the Russian
+      army in Pokrovsk and in Kupyansk. He was saying, as you’ve heard just now, that
+      basically there is a situation where Ukrainian troops are near surrender, and
+      Russia should enable that. So he’s been saying that Russian forces have encircled
+      those two cities. You will see that both Pokrovsk and Kupyansk are around 50,
+      60 percent controlled by Russian forces. Napolitano: 18:38 So why is the president
+      saying this, if you have any idea? And secondly, why did he say it wearing a military
+      uniform? Is that customary for Vladimir Putin? We’ve seen it two or three times
+      now. Doctorow: Yeah, I don’t think his wearing the uniform is a message to the
+      West in any way. I think it’s a message to his own people, to give them some comfort
+      that the man who bears the title of Supreme Commander, Commander in Chief of the
+      armed forces, is capable of wearing a military uniform, not just a business suit.
+      He couldn’t have a more civilian Minister of Defense than Mr. Beelowsof, who after
+      a few weeks in office, also put on a military uniform, though he looks very uncomfortable
+      in it. This is a message domestically. I don’t think it signifies a hardening
+      of the line by Mr. Putin in any way. But the message, this whole story about surrender,
+      we’ve heard before, because it’s not the first time when Russians have surrounded
+      Ukrainian troops. 19:43 This was a big deal about a year ago with the, in Kursk,
+      when also the Ukrainian forces that were surrounded in Kursk in the last stages
+      of the Russian North Korean liberation of the occupying forces in that Russian
+      oblast that had been invaded by Mr. Zelensky. Well, we heard, we knew where that
+      went. Mostly they were slaughtered. And I expect because Kiev refused these people
+      the right to leave. That also happened earlier, in earlier stages of this war,
+      going back to Mariupol. When what happened was those who wanted to surrender were
+      shot in the back by their comrades who were built of sterner stuff. That is unlikely
+      that Kiev is going to respond positively to this proposal. It is unlikely that
+      those who would like to desert or surrender will be allowed to do that by the
+      hardliners that Kiev has in their ranks. So it is Mr. Putin exculpating himself
+      for what could be the slaughter of 5,000 troops. Napolitano: 21:06 All right.
+      Let me go back before we end, Dr. Doctorow, about the Rosneft and Lukoil sanctions.
+      What’s the effect on BRICS of those sanctions You’ve already told us that the
+      Indians, a significant member of BRICS, are not going to buy Russian oil. Doctorow:
+      I think when the dust settles, people will find that this exact issue that you’re
+      raising now was one of the dominant factors in the construction of the sanctions
+      on Rosneft and Lukoil, not just to punish Russia, because how significant the
+      punishment will be is still totally unclear, but to drive a wedge between these
+      three founding members of BRICS, where the Chinese and the Indians would double-cross
+      Russia just to serve their own economic interests and would stop buying its oil.
+      Whether or not a workaround is achieved, we will see only in a few weeks. But
+      let’s remember that whatever is done, Russia is going to lose several months of
+      oil exports. That is unmistakable. 22:24 Any work around will take time to put
+      in place. And considering that 25% of the Russian state budget depends on those
+      exports, they will be a hit. Napolitano: But none of this will affect, in your
+      view, and if this is your view, it’s also the view of Scott Ritter, Larry Johnson,
+      and Colonel Macgregor. I haven’t spoken to Colonel Wilkerson about it yet. None
+      of this will affect the Russian troops on the ground. Doctorow: I agree with that
+      in principle, but not entirely. The nuance I would add here is that paradoxically,
+      this is a message to Putin to get it over with now. The longer he prolongs the
+      war, the bigger the impact of the deprivation of 10% of the budget will be on
+      the ability to conduct the war. In that respect, Trump is right. So it is a message
+      to Putin in a very specific way, which isn’t obvious to the public, to get the
+      damn war over with. Napolitano: Do you think he will get that message and accelerate
+      the military activity so as to bring the war to a resolution quickly and from
+      the Russian perspective amicably? Doctorow: 23:44 It may happen, but not of his
+      own free will. My colleagues have said that he works in a collegial way. Well,
+      that’s not entirely true. I ask you to go back and look at the video of Putin’s
+      statements in 22nd, 23rd of February, 2022, when he announced first the Russian
+      recognition of Donetsk and Lugansk as independent countries and then concluded
+      with them a mutual-defense pact. If you look at Shoigu, if you look at the other
+      members of the Putin cabinet, they didn’t look too happy. They looked absolutely
+      miserable. Therefore, the idea that this is all collegial is greatly exaggerated.
+      And I do believe that the situation is becoming so absurd when Putin and Lavrov
+      are contradicting their statements from day to day that he will be under pressure,
+      that he cannot resist and he will change his policy. Napolitano: Fascinating observations.
+      Thank you, Dr. Gilbert Doctorow. Always a pleasure. We look forward to seeing
+      you next week. Thank you, my friend. Doctorow: Thank you. Napolitano: 24:53 Of
+      course. And coming up later today at 11 this morning, Aaron Maté; at one this
+      afternoon, Scott Ritter; at two this afternoon, Anya Parampil with the latest
+      on Venezuela; at three this afternoon, Phil Giraldi. And if you’re looking forward
+      to a change of pace, tomorrow Thursday at nine in the morning, Jack is back. Well,
+      that’s a young picture of him. Oh my goodness. He must’ve sent that one in. Anyway,
+      Jack Devine, former head of the CIA for Latin America will be here and he will
+      do his best to try and defend what the CIA is doing in Venezuela today. That’s
+      Thursday at nine AM. 25:37 Judge Napolitano for “Judging Freedom”.'
+    one_sentence_summary: In a discussion on "Judging Freedom," Judge Andrew Napolitano
+      and Dr. Gilbert Doctorow analyze the confusion in Russia regarding the cancellation
+      of the Trump-Putin conference, highlighting the inconsistency in messaging from
+      Moscow amidst the volatile political climate.
+    paragraph_summary: In a recent episode of "Judging Freedom," Judge Andrew Napolitano
+      discusses the current state of Russian politics and perceptions regarding the
+      cancellation of the Trump-Putin conference in Bucharest with Dr. Gilbert Doctorow.
+      Doctorow highlights a sense of confusion among both Kremlin elites and the general
+      public in Russia, noting the inconsistency in messaging from the Russian government,
+      which is unusual for a major power known for its solid positions. He references
+      conflicting statements from President Putin and Foreign Minister Sergey Lavrov
+      regarding Trump's approach to the Ukraine conflict, suggesting a lack of confidence
+      in the Putin administration. The conversation underscores the complexities and
+      uncertainties in international relations, particularly concerning the U.S. and
+      Russia.
+    published: '2025-10-29T18:34:23+00:00'
+  - title: '‘Judging Freedom’ edition of 29 October 2025: Putin’s Next Moves'
+    url: https://gilbertdoctorow.com/2025/10/29/judging-freedom-edition-of-29-october-2025-putins-next-moves/
+    text: '‘Judging Freedom’ edition of 29 October 2025: Putin’s Next Moves Today’s
+      discussion focused on the contradictions, the flip-flops in the positions of Vladimir
+      Putin and of his Foreign Minister Sergei Lavrov these past two days over whether
+      they have an understanding with Donald Trump over how the war will end or do not.
+      The latest indications are that they see how Trump has back on his words in Anchorage
+      and no longer is interested in finding a solution to the underlying causes of
+      the war, only to achieving an immediate cease-fire, which Russia officially rejects.
+      We also considered how the new sanctions on Lukoil and Rosneft are likely to play
+      out. As we know, the Indians have said they will no longer purchase Russian oil,
+      which would indeed be a serious blow to the Russian budget. Russian television
+      (today’s afternoon edition of The Great Game) is saying that the sanctions will
+      be overcome thanks to side deals with India such as delivery of the oil by minor
+      Russian oil producers acting as middlemen for the two sanctioned majors. Perhaps,
+      but not in the next few days and the longer it takes to arrange the workarounds,
+      the more damage will be done to Russian finances. Moreover, note that Lukoil have
+      just announced plans to sell off all of their foreign operations in Europe within
+      the 21 November set by Trump. If done, this surely will be achieved at fire sale
+      prices, meaning a significant economic loss for Russia. Paradoxically I say that
+      the sanctions are a message by Trump to Putin to end the war now by immediate
+      destruction of Kiev because the longer it goes on the worse will be the losses
+      from the sanctions. Finally, I note that the sanctions are a tool by Trump to
+      wreck BRICS, which is one of his prime policy objectives because it drives a wedge
+      between the founding members of BRICS. ( https://www.youtube.com/live/jhLsCsqkw9E?si=rfKchlnY3tQETFBc
+      )'
+    one_sentence_summary: The article discusses the conflicting statements from Vladimir
+      Putin and Foreign Minister Sergei Lavrov regarding their understanding with Donald
+      Trump on the war's resolution, highlighting Russia's rejection of a cease-fire
+      and the potential impact of new sanctions on Russian oil companies amid India's
+      decision to stop purchasing Russian oil.
+    paragraph_summary: The article from the 'Judging Freedom' edition discusses the
+      recent contradictory statements from Vladimir Putin and Foreign Minister Sergei
+      Lavrov regarding their understanding with Donald Trump on the resolution of the
+      war, highlighting Trump's shift from addressing the war's root causes to seeking
+      an immediate cease-fire, which Russia officially opposes. The piece also examines
+      the impact of new sanctions on Russian oil companies Lukoil and Rosneft, particularly
+      in light of India's decision to halt oil purchases from Russia, which could severely
+      affect the Russian economy. It suggests that while Russian media claims alternative
+      arrangements with minor oil producers may mitigate the sanctions' effects, the
+      delay in implementing these workarounds could exacerbate financial damage. Additionally,
+      Lukoil's plans to divest from European operations by the November deadline set
+      by Trump may result in significant losses. The article posits that these sanctions
+      serve as a message to Putin to end the conflict quickly and are part of Trump's
+      broader strategy to undermine BRICS by creating divisions among its member states.
+    published: '2025-10-29T12:35:19+00:00'
+  - title: '‘Judging Freedom’ edition of 29 October 2025: Putin’s Next Moves'
+    url: https://gilbertdoctorow.com/2025/10/29/judging-freedom-edition-of-29-october-2025-putins-next-moves/
+    text: '‘Judging Freedom’ edition of 29 October 2025: Putin’s Next Moves Today’s
+      discussion focused on the contradictions, the flip-flops in the positions of Vladimir
+      Putin and of his Foreign Minister Sergei Lavrov these past two days over whether
+      they have an understanding with Donald Trump over how the war will end or do not.
+      The latest indications are that they see how Trump has back on his words in Anchorage
+      and no longer is interested in finding a solution to the underlying causes of
+      the war, only to achieving an immediate cease-fire, which Russia officially rejects.
+      We also considered how the new sanctions on Lukoil and Rosneft are likely to play
+      out. As we know, the Indians have said they will no longer purchase Russian oil,
+      which would indeed be a serious blow to the Russian budget. Russian television
+      (today’s afternoon edition of The Great Game) is saying that the sanctions will
+      be overcome thanks to side deals with India such as delivery of the oil by minor
+      Russian oil producers acting as middlemen for the two sanctioned majors. Perhaps,
+      but not in the next few days and the longer it takes to arrange the workarounds,
+      the more damage will be done to Russian finances. Moreover, note that Lukoil have
+      just announced plans to sell off all of their foreign operations in Europe within
+      the 21 November set by Trump. If done, this surely will be achieved at fire sale
+      prices, meaning a significant economic loss for Russia. Paradoxically I say that
+      the sanctions are a message by Trump to Putin to end the war now by immediate
+      destruction of Kiev because the longer it goes on the worse will be the losses
+      from the sanctions. Finally, I note that the sanctions are a tool by Trump to
+      wreck BRICS, which is one of his prime policy objectives because it drives a wedge
+      between the founding members of BRICS. ( https://www.youtube.com/live/jhLsCsqkw9E?si=rfKchlnY3tQETFBc
+      )'
+    one_sentence_summary: The article discusses the conflicting statements from Vladimir
+      Putin and Foreign Minister Sergei Lavrov regarding their understanding with Donald
+      Trump on the war's resolution, highlighting Russia's rejection of a cease-fire
+      and the potential impact of new sanctions on Russian oil companies amid India's
+      decision to stop purchasing Russian oil.
+    paragraph_summary: The article from the 'Judging Freedom' edition discusses the
+      recent contradictory statements from Vladimir Putin and Foreign Minister Sergei
+      Lavrov regarding their understanding with Donald Trump on the resolution of the
+      war, highlighting Trump's shift from addressing the war's root causes to seeking
+      an immediate cease-fire, which Russia officially opposes. The piece also examines
+      the impact of new sanctions on Russian oil companies Lukoil and Rosneft, particularly
+      in light of India's decision to halt oil purchases from Russia, which could severely
+      affect the Russian economy. It suggests that while Russian media claims alternative
+      arrangements with minor oil producers may mitigate the sanctions' effects, the
+      delay in implementing these workarounds could exacerbate financial damage. Additionally,
+      Lukoil's plans to divest from European operations by the November deadline set
+      by Trump may result in significant losses. The article posits that these sanctions
+      serve as a message to Putin to end the conflict quickly and are part of Trump's
+      broader strategy to undermine BRICS by creating divisions among its member states.
+    published: '2025-10-29T12:35:19+00:00'
   - title: 'News X World: Putin unveils advanced Burevestnik missile capability'
     url: https://gilbertdoctorow.com/2025/10/27/news-x-world-putin-unveils-advanced-burevestnik-missile-capability/
     text: The production team at NewsX World are hard at work today and have just sent

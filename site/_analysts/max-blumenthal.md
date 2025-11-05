@@ -7,16 +7,110 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  Tensions in the Middle East and the information war surrounding Western policy continue to escalate, with new revelations highlighting covert operations, disinformation campaigns, and the deepening entanglement of media, intelligence, and political actors.
+  As tensions persist across multiple geopolitical fronts, recent independent investigations have brought new scrutiny to the intersection of military technology, civil liberties, and international influence operations.
   
-  The most significant recent development is the confirmed Iranian ballistic missile strike on a U.S.-built Israeli military command center beneath a Tel Aviv tower. **Max Blumenthal** reports that Israeli authorities have imposed strict media restrictions around the site, underscoring the sensitivity and potential fallout of the attack. This incident marks a substantial escalation in the Iran-Israel conflict, with the direct targeting of a facility tied to both Israeli and U.S. military interests. Given the scale and precision of the strike, there is a high chance of further retaliatory actions, and I guarantee that regional tensions will remain elevated in the coming weeks.
+  A significant new development involves the deployment of AI-powered reconnaissance drones, originally shipped to Israel for operations in Gaza, now being used for surveillance of protesters in American cities. **Max Blumenthal** reports that over 100 of these drones, designed for battlefield intelligence, are now monitoring domestic demonstrations, raising acute concerns among civil liberties advocates about privacy and the militarization of law enforcement. The repurposing of these drones signals a growing trend of advanced military technologies migrating into domestic policing, a shift that is “most definitely” set to expand, given the ongoing unrest and the precedent now established.
   
-  In the information domain, **Blumenthal** exposes the case of Pekka Kallioniemi, a discredited pro-Ukraine disinformation expert, who faces legal action after being revealed as the source of fraudulent KGB documents used to smear journalist David Pugliese. This episode highlights the weaponization of disinformation in the context of the Ukraine proxy war and the risks faced by independent journalists. The backlash against Kallioniemi signals a growing skepticism toward Western-aligned information operations, and it is quite likely that similar cases will surface as scrutiny intensifies.
+  Meanwhile, the credibility of Western-backed opposition movements in Eastern Europe has suffered a blow. Leaked emails reveal that the Belarusian opposition, led by Sviatlana Tsikhanouskaya and heavily supported by EU and US actors, is facing collapse due to internal corruption and infighting. According to **Blumenthal**, these revelations have “threatened the viability” of the movement, undermining Western strategies to pressure the Lukashenko government. The high chance is that Western influence in Belarus will continue to wane unless a new, more cohesive opposition emerges.
   
-  Meanwhile, newly leaked emails show that former U.S. ambassador to the UN Samantha Power secretly collaborated with Israeli diplomats to secure Israel’s placement on influential UN committees, despite ongoing accusations of civilian targeting in Gaza. **Blumenthal** notes that these communications also involved questionable intelligence regarding Syrian chemical weapons, raising further doubts about the integrity of Western diplomatic and intelligence practices. The exposure of such backchannel dealings is likely to fuel criticism of U.S. and Israeli conduct at the UN and may undermine their credibility in ongoing international negotiations.
+  In the media sphere, further evidence has surfaced of the intertwining of American media ownership and Israeli security interests. Leaked documents show that David Ellison, the new owner of CBS and Paramount, met with a former Israeli general to discuss funding digital paramilitary operations aimed at undermining pro-Palestine activism in the US. **Blumenthal** highlights concerns that Ellison’s acquisition of major news outlets could align editorial policies more closely with pro-Israel agendas, a trend that is “quite likely” to intensify as media consolidation continues.
   
-  Trends indicate a convergence of military, intelligence, and media interests, with covert operations and information warfare playing a central role in shaping public perception and policy. The majority opinion across sources suggests that these patterns will persist, and there is a high chance of further revelations implicating Western and Israeli actors in both kinetic and information-based conflicts. Most definitely, the coming period will see increased scrutiny of intelligence operations, media manipulation, and the consequences of escalating military actions in the Middle East.
+  In summary, the latest reporting points to a convergence of military, political, and media power, with advanced surveillance technologies and influence operations increasingly shaping both foreign and domestic landscapes. The majority of analysts cited by **Blumenthal** predict with high confidence that these trends—militarization of policing, fragmentation of Western-backed opposition movements, and media alignment with security interests—will deepen in the coming months, further complicating the global geopolitical environment.
 articles:
+  - title: AI drones used in Gaza now surveilling American cities
+    url: https://thegrayzone.com/2025/11/02/drones-gaza-spying-us-cities/
+    text: Immediately after October 7, a little know company shipped over 100 reconnaissance
+      drones to Israel for use in its siege of Gaza.  Having been battle-tested on Palestinian
+      civilians, the UAVs are now being used to surveil protesters across the US. This
+      article was originally published by ¡Do Not Panic! AI-powered quadcopter drones
+      used by the IDF to commit genocide in Gaza are flying over American cities, surveilling
+      protestors and automatically uploading millions of images to an evidence database.
+      The drones are […] The post AI drones used in Gaza now surveilling American cities
+      first appeared on The Grayzone . The post AI drones used in Gaza now surveilling
+      American cities appeared first on The Grayzone .
+    one_sentence_summary: A company shipped over 100 reconnaissance drones to Israel
+      for use in Gaza, which are now being deployed to surveil protesters in the U.S.,
+      raising concerns about privacy and civil liberties.
+    paragraph_summary: Following the events of October 7, a lesser-known company supplied
+      over 100 reconnaissance drones to Israel for its operations in Gaza, where they
+      have been utilized against Palestinian civilians. These AI-powered quadcopter
+      drones, previously battle-tested in conflict, are now being deployed in American
+      cities to monitor protesters, automatically uploading millions of images to an
+      evidence database. The article highlights the troubling implications of using
+      such technology for surveillance in the U.S., drawing a connection between military
+      actions abroad and domestic policing practices.
+    published: '2025-11-02T17:17:16+00:00'
+  - title: AI drones used in Gaza now surveilling American cities
+    url: https://thegrayzone.com/2025/11/02/drones-gaza-spying-us-cities/
+    text: Immediately after October 7, a little know company shipped over 100 reconnaissance
+      drones to Israel for use in its siege of Gaza.  Having been battle-tested on Palestinian
+      civilians, the UAVs are now being used to surveil protesters across the US. This
+      article was originally published by ¡Do Not Panic! AI-powered quadcopter drones
+      used by the IDF to commit genocide in Gaza are flying over American cities, surveilling
+      protestors and automatically uploading millions of images to an evidence database.
+      The drones are […] The post AI drones used in Gaza now surveilling American cities
+      first appeared on The Grayzone . The post AI drones used in Gaza now surveilling
+      American cities appeared first on The Grayzone .
+    one_sentence_summary: A company shipped over 100 reconnaissance drones to Israel
+      for use in Gaza, which are now being deployed to surveil protesters in the U.S.,
+      raising concerns about privacy and civil liberties.
+    paragraph_summary: Following the events of October 7, a lesser-known company supplied
+      over 100 reconnaissance drones to Israel for its operations in Gaza, where they
+      have been utilized against Palestinian civilians. These AI-powered quadcopter
+      drones, previously battle-tested in conflict, are now being deployed in American
+      cities to monitor protesters, automatically uploading millions of images to an
+      evidence database. The article highlights the troubling implications of using
+      such technology for surveillance in the U.S., drawing a connection between military
+      actions abroad and domestic policing practices.
+    published: '2025-11-02T17:17:16+00:00'
+  - title: Leaks expose collapse of EU/US-backed Belarusian ‘opposition’
+    url: https://thegrayzone.com/2025/10/29/leaks-eu-us-belarusian-opposition/
+    text: Sviatlana Tsikhanouskaya was hailed by Western governments and media as the
+      savior and rightful leader of Belarus. But leaked emails reveal her increasingly
+      unpopular campaign for power in Minsk nearly collapsed under the weight of corruption
+      scandals and infighting. When Belarusian opposition figure Sviatlana Tsikhanouskaya
+      declared herself “President” of an alternative government in 2020, she was enthusiastically
+      embraced – and showered with funding – by the Western governments which yearned
+      to depose the longtime leader of her country, Alexander Lukashenko, […] The post
+      Leaks expose collapse of EU/US-backed Belarusian ‘opposition’ first appeared on
+      The Grayzone . The post Leaks expose collapse of EU/US-backed Belarusian ‘opposition’
+      appeared first on The Grayzone .
+    one_sentence_summary: Leaked emails reveal that Sviatlana Tsikhanouskaya's campaign
+      for leadership in Belarus, initially supported by Western governments, faced significant
+      challenges due to corruption scandals and internal conflicts, threatening its
+      viability.
+    paragraph_summary: Sviatlana Tsikhanouskaya, once celebrated by Western governments
+      and media as the legitimate leader of Belarus following her declaration of an
+      alternative government in 2020, is now facing significant challenges as leaked
+      emails reveal her campaign's decline due to corruption scandals and internal conflicts.
+      Despite initial support and funding from the West aimed at ousting long-time leader
+      Alexander Lukashenko, her popularity has waned, raising questions about the viability
+      of the opposition movement she represents.
+    published: '2025-10-29T15:48:52+00:00'
+  - title: Leaks expose collapse of EU/US-backed Belarusian ‘opposition’
+    url: https://thegrayzone.com/2025/10/29/leaks-eu-us-belarusian-opposition/
+    text: Sviatlana Tsikhanouskaya was hailed by Western governments and media as the
+      savior and rightful leader of Belarus. But leaked emails reveal her increasingly
+      unpopular campaign for power in Minsk nearly collapsed under the weight of corruption
+      scandals and infighting. When Belarusian opposition figure Sviatlana Tsikhanouskaya
+      declared herself “President” of an alternative government in 2020, she was enthusiastically
+      embraced – and showered with funding – by the Western governments which yearned
+      to depose the longtime leader of her country, Alexander Lukashenko, […] The post
+      Leaks expose collapse of EU/US-backed Belarusian ‘opposition’ first appeared on
+      The Grayzone . The post Leaks expose collapse of EU/US-backed Belarusian ‘opposition’
+      appeared first on The Grayzone .
+    one_sentence_summary: Leaked emails reveal that Sviatlana Tsikhanouskaya's campaign
+      for leadership in Belarus, initially supported by Western governments, faced significant
+      challenges due to corruption scandals and internal conflicts, threatening its
+      viability.
+    paragraph_summary: Sviatlana Tsikhanouskaya, once celebrated by Western governments
+      and media as the legitimate leader of Belarus following her declaration of an
+      alternative government in 2020, is now facing significant challenges as leaked
+      emails reveal her campaign's decline due to corruption scandals and internal conflicts.
+      Despite initial support and funding from the West aimed at ousting long-time leader
+      Alexander Lukashenko, her popularity has waned, raising questions about the viability
+      of the opposition movement she represents.
+    published: '2025-10-29T15:48:52+00:00'
   - title: Secret Israeli military bunker located under Tel Aviv tower struck by Iran,
       analysis shows
     url: https://thegrayzone.com/2025/10/13/secret-israeli-military-bunker-located-under-tel-aviv-tower-struck-by-iran-analysis-shows/

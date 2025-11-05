@@ -7,18 +7,1548 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  As geopolitical tensions continue to escalate globally, recent independent analysis highlights the growing complexity and manipulation of public narratives, particularly in Western discourse. The latest reports emphasize the increasing use of propaganda and the shifting focus of capitalist innovation, with significant implications for international relations and domestic politics.
+  The past 24 hours have seen significant developments in the global geopolitical landscape, with the death of former U.S. Vice President Dick Cheney, ongoing violence in the West Bank, and persistent concerns about the influence of technology and media on society.
   
-  **Caitlin Johnstone** critiques the prevailing Western tendency to frame global conflicts in simplistic terms of "Good Guys" versus "Bad Guys," warning that this narrative obscures the nuanced realities behind international disputes. According to Johnstone, this binary worldview is not only misleading but also serves to justify ongoing imperial interventions and the perpetuation of elite interests.
+  The passing of Dick Cheney has reignited debate over the legacy of U.S. militarism. As **Caitlin Johnstone** notes, Cheney's death has prompted bipartisan condolences from American political leaders, a response she argues "reflects a civilization that allows such individuals to die peacefully rather than facing accountability for their actions." This reaction underscores the enduring normalization of aggressive foreign policy within the U.S. establishment, despite widespread criticism of Cheney's role in expanding wars and surveillance.
   
-  A notable development comes from a leaked Israeli Ministry of Foreign Affairs polling report, as discussed by **Caitlin Johnstone**, which reveals that the promotion of Islamophobia is being strategically deployed to counteract mounting global opposition to Israel. The report suggests that stoking fears of "Radical Islam" and "Jihadism" is viewed as an effective means to bolster Israel's image in the West, rather than addressing criticisms directly. This approach aligns with Johnstone's broader argument that narrative control is increasingly prioritized over substantive policy changes.
+  Meanwhile, the Israeli-Palestinian conflict continues to generate global outrage. New footage has emerged of Israeli settlers torturing Palestinian lambs in the West Bank, an act **Johnstone** describes as highlighting "the brutality and hatred present in the ongoing conflict." This incident adds to the mounting evidence of escalating settler violence and deepening animosity, further complicating prospects for peace.
   
-  On the technological front, Johnstone also addresses the intensifying push for generative AI, arguing that capitalism has shifted from providing meaningful innovations to producing technologies that are largely unnecessary and environmentally damaging. She contends that this focus on AI reflects a broader inability of the current system to meet genuine human needs, instead opting for profit-driven solutions that may exacerbate social and ecological harms.
+  On the societal front, the latest edition of JOHNSTONE critiques the accelerating dystopian trends under late-stage capitalism. **Johnstone** emphasizes "increasing dystopia, censorship, and the detrimental impact of generative AI on creativity," while referencing a revealing moment from Peter Thiel that exposes the ruling class's fear of public unrest. These observations point to a growing disconnect between elites and the broader population, fueled by technological change and social discontent.
   
-  Looking ahead, the trends suggest a continued erosion of traditional propaganda's effectiveness, as more people begin to question official narratives and seek alternative sources of information. As Johnstone notes, "the imperial propaganda machine is failing in unprecedented ways," indicating a potential shift in public consciousness. There is a high chance that these developments will lead to increased skepticism toward mainstream narratives and a growing demand for transparency and accountability from both governments and corporate actors.
-  
-  In summary, the current geopolitical landscape is marked by intensified narrative manipulation, strategic use of fear-based messaging, and a capitalist system struggling to deliver meaningful progress. The majority of independent analysts predict that these dynamics will persist, with most definitely a continued decline in the effectiveness of traditional propaganda and a rise in public scrutiny of elite-driven agendas.
+  Looking ahead, the majority view across these sources suggests that the normalization of militarism in Western politics is unlikely to abate in the near term—I guarantee the bipartisan consensus on foreign policy will persist. The situation in the West Bank is expected to remain volatile, with a high chance of further violence and international condemnation. Finally, societal unease over technological control and censorship is quite likely to intensify, as public skepticism toward both government and corporate power continues to grow.
 articles:
+  - title: Cheney Should Have Died Alone In A Cage
+    url: https://www.caitlinjohnst.one/p/cheney-should-have-died-alone-in
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Dick Cheney,
+      arguably the single government official most responsible for the expansion of
+      US warmongering and militarism in the 21st century, has died. The worst worst
+      war sluts of the US empire have issued statements expressing their condolences,
+      including Democrats like Joe Biden , Kamala Harris , Bill Clinton , and Nancy
+      Pelosi . Because if there’s one thing that can bring Democrats and Republicans
+      together, it’s war crimes and the slaughter of millions of middle easterners.
+      https://x.com/KamalaHarris/status/1985793039114309793 Dick Cheney died far too
+      old and far too free. The fact that such monsters get to pass away in their eighties
+      surrounded by loved ones instead of alone in a cage is an indictment of our entire
+      civilization. In a truly sane society, Richard Bruce Cheney would have lived a
+      life of relative obscurity, working as a gardener or something without ever getting
+      anywhere close to power. In a fairly sane society, people would have realized
+      what a monster Cheney was before he could do any major harm in Washington, and
+      he would have been driven out of any town he tried to enter. In a slightly sane
+      society, he would have been punished for the rape of Iraq and lived out the rest
+      of his life in a cell in The Hague. But we do not live in a truly sane society,
+      or in a fairly sane society, or even in a slightly sane society. We live in the
+      sort of society that lets a man unleash a chain of events which kills millions
+      and displaces tens of millions causing more human suffering than the mind can
+      possibly comprehend, and then live out the rest of his life in comfort and privilege,
+      with zero consequences of any kind. Dick Cheney is dead now, but his legacy lives
+      on. The damage he did is still unfolding. The hegemonic, hypermilitaristic ideology
+      he promoted has become the baseline norm. New swamp monsters have stepped in to
+      fill his shoes and advance the same murderous and tyrannical agendas he advanced,
+      confident that they too will suffer no consequences and live long and comfortable
+      lives in reward for their loyal service to the US empire. Dick Cheney left a stain
+      upon our species that we will spend the rest of our lives trying to scrub out.
+      All decent people want our world to move in the exact opposite direction he spent
+      his entire blood-spattered career working to steer us toward. All decent people
+      want to undo everything that Dick Cheney was. https://x.com/willmenaker/status/1985713274873118897
+      That said, the world actually does feel better without Dick Cheney in it. Feels
+      a bit brighter. A bit lighter. Kinder. Gentler. I don’t find comfort in the idea
+      that Cheney is burning in hell now, because I do not believe in hell. I don’t
+      find comfort in the idea that the empire will become less murderous and abusive
+      in Cheney’s absence, because it won’t. I find comfort in the fact that, after
+      all these years, I am finally walking around on a planet that I do not have to
+      share with Dick Cheney. It’s a nice experience. Give it a try. Take a few steps
+      and notice how you are at long last walking around on an earth that doesn’t have
+      Dick Cheney on it. Look up at the sky and reflect on the fact that you and Dick
+      Cheney are not living underneath that sky together anymore. Breathe deeply and
+      think, “Today is the first day of life without Dick Cheney.” It’s pretty sweet.
+      I find that something in me relaxes a bit. Something subtle in my animal body
+      is very relieved that he is gone now. That’s good enough for me. I’ll take it.
+      _________________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via George W Bush White House (Public Domain)'
+    one_sentence_summary: Dick Cheney, a key figure in the expansion of U.S. militarism
+      and warmongering, has died, prompting condolences from prominent political figures
+      across party lines, which the article criticizes as a reflection of a civilization
+      that allows such individuals to die peacefully rather than facing accountability
+      for their actions.
+    paragraph_summary: Dick Cheney, a key figure in the expansion of U.S. militarism
+      and warmongering in the 21st century, has died, prompting condolences from both
+      Democratic and Republican leaders, highlighting a troubling bipartisan agreement
+      on war crimes. The article criticizes the societal acceptance of Cheney's actions,
+      suggesting that in a just world, he would have faced severe consequences for his
+      role in the Iraq War and the resulting human suffering. Instead, he lived a long
+      life free of accountability, leaving behind a legacy of ongoing violence and instability,
+      with new leaders continuing his militaristic agenda. The author expresses disdain
+      for a society that allows such figures to thrive without repercussions, emphasizing
+      the enduring impact of Cheney's ideology on current and future conflicts.
+    published: '2025-11-05T00:19:29+00:00'
+  - title: Cheney Should Have Died Alone In A Cage
+    url: https://www.caitlinjohnst.one/p/cheney-should-have-died-alone-in
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Dick Cheney,
+      arguably the single government official most responsible for the expansion of
+      US warmongering and militarism in the 21st century, has died. The worst worst
+      war sluts of the US empire have issued statements expressing their condolences,
+      including Democrats like Joe Biden , Kamala Harris , Bill Clinton , and Nancy
+      Pelosi . Because if there’s one thing that can bring Democrats and Republicans
+      together, it’s war crimes and the slaughter of millions of middle easterners.
+      https://x.com/KamalaHarris/status/1985793039114309793 Dick Cheney died far too
+      old and far too free. The fact that such monsters get to pass away in their eighties
+      surrounded by loved ones instead of alone in a cage is an indictment of our entire
+      civilization. In a truly sane society, Richard Bruce Cheney would have lived a
+      life of relative obscurity, working as a gardener or something without ever getting
+      anywhere close to power. In a fairly sane society, people would have realized
+      what a monster Cheney was before he could do any major harm in Washington, and
+      he would have been driven out of any town he tried to enter. In a slightly sane
+      society, he would have been punished for the rape of Iraq and lived out the rest
+      of his life in a cell in The Hague. But we do not live in a truly sane society,
+      or in a fairly sane society, or even in a slightly sane society. We live in the
+      sort of society that lets a man unleash a chain of events which kills millions
+      and displaces tens of millions causing more human suffering than the mind can
+      possibly comprehend, and then live out the rest of his life in comfort and privilege,
+      with zero consequences of any kind. Dick Cheney is dead now, but his legacy lives
+      on. The damage he did is still unfolding. The hegemonic, hypermilitaristic ideology
+      he promoted has become the baseline norm. New swamp monsters have stepped in to
+      fill his shoes and advance the same murderous and tyrannical agendas he advanced,
+      confident that they too will suffer no consequences and live long and comfortable
+      lives in reward for their loyal service to the US empire. Dick Cheney left a stain
+      upon our species that we will spend the rest of our lives trying to scrub out.
+      All decent people want our world to move in the exact opposite direction he spent
+      his entire blood-spattered career working to steer us toward. All decent people
+      want to undo everything that Dick Cheney was. https://x.com/willmenaker/status/1985713274873118897
+      That said, the world actually does feel better without Dick Cheney in it. Feels
+      a bit brighter. A bit lighter. Kinder. Gentler. I don’t find comfort in the idea
+      that Cheney is burning in hell now, because I do not believe in hell. I don’t
+      find comfort in the idea that the empire will become less murderous and abusive
+      in Cheney’s absence, because it won’t. I find comfort in the fact that, after
+      all these years, I am finally walking around on a planet that I do not have to
+      share with Dick Cheney. It’s a nice experience. Give it a try. Take a few steps
+      and notice how you are at long last walking around on an earth that doesn’t have
+      Dick Cheney on it. Look up at the sky and reflect on the fact that you and Dick
+      Cheney are not living underneath that sky together anymore. Breathe deeply and
+      think, “Today is the first day of life without Dick Cheney.” It’s pretty sweet.
+      I find that something in me relaxes a bit. Something subtle in my animal body
+      is very relieved that he is gone now. That’s good enough for me. I’ll take it.
+      _________________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via George W Bush White House (Public Domain)'
+    one_sentence_summary: Dick Cheney, a key figure in the expansion of U.S. militarism
+      and warmongering, has died, prompting condolences from prominent political figures
+      across party lines, which the article criticizes as a reflection of a civilization
+      that allows such individuals to die peacefully rather than facing accountability
+      for their actions.
+    paragraph_summary: Dick Cheney, a key figure in the expansion of U.S. militarism
+      and warmongering in the 21st century, has died, prompting condolences from both
+      Democratic and Republican leaders, highlighting a troubling bipartisan agreement
+      on war crimes. The article criticizes the societal acceptance of Cheney's actions,
+      suggesting that in a just world, he would have faced severe consequences for his
+      role in the Iraq War and the resulting human suffering. Instead, he lived a long
+      life free of accountability, leaving behind a legacy of ongoing violence and instability,
+      with new leaders continuing his militaristic agenda. The author expresses disdain
+      for a society that allows such figures to thrive without repercussions, emphasizing
+      the enduring impact of Cheney's ideology on current and future conflicts.
+    published: '2025-11-05T00:19:29+00:00'
+  - title: 'New Issue Of JOHNSTONE: Tech Dystopia In The Shadow Of The Empire'
+    url: https://www.caitlinjohnst.one/p/new-issue-of-johnstone-tech-dystopia
+    text: 'Subscribe now The new edition of JOHNSTONE is now available to order in print
+      or download as a pay-what-you-want e-book version . Life under the empire is getting
+      more and more dystopian. Everyone’s getting dumber, sicker, lonelier, and less
+      happy, and our rulers are offering us no solutions besides vapid distraction while
+      our light fades and the planet dies. Capitalism has placed all its chips on generative
+      AI which is killing off our creativity and intellect while our governments salami
+      slice away our freedoms with ever increasing censorship, surveillance, and imperial
+      narrative control. This month’s issue features a painting of Peter Thiel, who
+      last year accidentally gave us a sorely-needed reminder that our rulers are terrified
+      that we might one day use the power of our numbers to overthrow their tyrannical
+      tech dystopia with the way he paused and stammered during an interview when asked
+      about members of the public using violence against the American plutocracy. Asked
+      by Piers Morgan whether he agreed with the public making a hero out of Luigi Mangione
+      for allegedly assassinating health insurance CEO Brian Thompson, Thiel paused
+      for a very, VERY long time before saying, “It’s, I don’t know what, what to say?
+      I, I think I still think you have, you should try to make an argument. And I,
+      I think this is, this is you should, you know, there may be things wrong with
+      our health care system, but you have, you have to make an argument, and you have
+      to try to find a way to convince people and and change, change it by by that,
+      and this is, you know, this is not going to work.” Our rulers are acutely aware
+      that we don’t need to put up with their rule if we don’t want to. They know we
+      can use the power of our numbers to force revolutionary change whenever we want.
+      Here’s hoping the rest of us start getting as urgently aware of this as they are.
+      You can get a paperback copy of this issue by clicking here , or a pay-what-you-feel
+      digital copy by clicking here . Other paperback editions of JOHNSTONE can be purchased
+      by clicking here . Other digital editions can be downloaded by clicking here .
+      You can also get a subscription to the digital versions which will be sent to
+      your inbox every month by clicking here . CONTENTS: They Really Think They’ll
+      Be Able To Propagandize The World Into Liking Israel Again … 3 Everything Before
+      AND After October 7 Explains Why October 7 Happened … 5 Thoughts On The Ceasefire
+      News … 6 Israeli Officials Are Openly Saying They Plan To Resume Attacks On Gaza
+      … 7 They Seriously Expected Parades And Trophies For Pausing A Genocide — And
+      Other Notes … 8 Trump Keeps Admitting That He Is Bought And Owned By The World’s
+      Richest Israeli … 10 The Trumpanyahu Administration Is Already Sabotaging The
+      Ceasefire … 13 The Onus Is On Israel And Its Allies To End The Genocide, Not Their
+      Victims … 16 Israel Tortured And Sexually Humiliated Greta Thunberg … 17 The West’s
+      Dehumanization Of Arabs Is Completely Unforgivable … 20 Israel Foreign Ministry
+      Falsely Claims Palestinians Tore Apart A Beached Whale … 21 They Said The Massacres
+      Would Stop When The Hostages Were Released. They Haven’t Stopped. … 23 Israel
+      Flipped Out And Killed 45 Palestinians After Running Over Their Own Bomb, And
+      Other Notes … 24 US Politics Is Just Nonstop Fake Revolutions Now … 26 The Imperial
+      Propaganda Machine Is Failing In Unprecedented Ways … 27 Zionists Push Islamophobia
+      Because It’s Easier Than Getting People To Like Israel … 29 They Tell Us To Fear
+      Muslims While The US Empire Terrorizes The World … 30 Guillotine Song … 31 Capitalism
+      Is Shoving AI Down Our Throats Because It Can’t Give Us What We Actually Want
+      … 32 You Believe The Mainstream Narrative? Of Course You Do, You’re Twelve … 33
+      It’s Just Wall-To-Wall News Stories About The US And Its Allies Abusing The World
+      … 36 Notice Which Genocides You Are And Are Not Allowed To Oppose … 37 Americans
+      Have No Idea Who Their Government Is Bombing, And Other Notes … 38 They Want You
+      Relying On Artificial Intelligence So That You Will Lose Your Natural Intelligence
+      … 40 How The Media Normally Report On A Mass Atrocity … 43 The Nastiest Warmongers
+      Are Trump’s Biggest Fans Now … 44 They Tortured Lambs In The West Bank … 45 Again,
+      you can get a paperback copy of this issue by clicking here , or click here for
+      a digital pay-what-you-feel copy. _______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The latest edition of JOHNSTONE critiques the deteriorating
+      state of society under capitalism, highlighting increasing dystopia, censorship,
+      and the detrimental impact of generative AI on creativity, while featuring a notable
+      moment from Peter Thiel that underscores the ruling class's fear of public uprising.
+    paragraph_summary: The latest edition of JOHNSTONE critiques the increasingly dystopian
+      state of life under capitalism, highlighting how societal issues such as declining
+      intelligence, health, and happiness are exacerbated by government censorship and
+      surveillance. It emphasizes the reliance on generative AI, which stifles creativity
+      and intellect, while rulers like Peter Thiel reveal their fear of public uprising
+      against the oppressive system. Thiel's hesitant response during an interview regarding
+      public violence against corporate leaders underscores the ruling class's awareness
+      that they could be overthrown by the collective power of the people. The article
+      calls for greater public awareness and action against the current regime. The
+      issue is available in print and as a pay-what-you-want e-book.
+    published: '2025-11-04T13:12:54+00:00'
+  - title: 'New Issue Of JOHNSTONE: Tech Dystopia In The Shadow Of The Empire'
+    url: https://www.caitlinjohnst.one/p/new-issue-of-johnstone-tech-dystopia
+    text: 'Subscribe now The new edition of JOHNSTONE is now available to order in print
+      or download as a pay-what-you-want e-book version . Life under the empire is getting
+      more and more dystopian. Everyone’s getting dumber, sicker, lonelier, and less
+      happy, and our rulers are offering us no solutions besides vapid distraction while
+      our light fades and the planet dies. Capitalism has placed all its chips on generative
+      AI which is killing off our creativity and intellect while our governments salami
+      slice away our freedoms with ever increasing censorship, surveillance, and imperial
+      narrative control. This month’s issue features a painting of Peter Thiel, who
+      last year accidentally gave us a sorely-needed reminder that our rulers are terrified
+      that we might one day use the power of our numbers to overthrow their tyrannical
+      tech dystopia with the way he paused and stammered during an interview when asked
+      about members of the public using violence against the American plutocracy. Asked
+      by Piers Morgan whether he agreed with the public making a hero out of Luigi Mangione
+      for allegedly assassinating health insurance CEO Brian Thompson, Thiel paused
+      for a very, VERY long time before saying, “It’s, I don’t know what, what to say?
+      I, I think I still think you have, you should try to make an argument. And I,
+      I think this is, this is you should, you know, there may be things wrong with
+      our health care system, but you have, you have to make an argument, and you have
+      to try to find a way to convince people and and change, change it by by that,
+      and this is, you know, this is not going to work.” Our rulers are acutely aware
+      that we don’t need to put up with their rule if we don’t want to. They know we
+      can use the power of our numbers to force revolutionary change whenever we want.
+      Here’s hoping the rest of us start getting as urgently aware of this as they are.
+      You can get a paperback copy of this issue by clicking here , or a pay-what-you-feel
+      digital copy by clicking here . Other paperback editions of JOHNSTONE can be purchased
+      by clicking here . Other digital editions can be downloaded by clicking here .
+      You can also get a subscription to the digital versions which will be sent to
+      your inbox every month by clicking here . CONTENTS: They Really Think They’ll
+      Be Able To Propagandize The World Into Liking Israel Again … 3 Everything Before
+      AND After October 7 Explains Why October 7 Happened … 5 Thoughts On The Ceasefire
+      News … 6 Israeli Officials Are Openly Saying They Plan To Resume Attacks On Gaza
+      … 7 They Seriously Expected Parades And Trophies For Pausing A Genocide — And
+      Other Notes … 8 Trump Keeps Admitting That He Is Bought And Owned By The World’s
+      Richest Israeli … 10 The Trumpanyahu Administration Is Already Sabotaging The
+      Ceasefire … 13 The Onus Is On Israel And Its Allies To End The Genocide, Not Their
+      Victims … 16 Israel Tortured And Sexually Humiliated Greta Thunberg … 17 The West’s
+      Dehumanization Of Arabs Is Completely Unforgivable … 20 Israel Foreign Ministry
+      Falsely Claims Palestinians Tore Apart A Beached Whale … 21 They Said The Massacres
+      Would Stop When The Hostages Were Released. They Haven’t Stopped. … 23 Israel
+      Flipped Out And Killed 45 Palestinians After Running Over Their Own Bomb, And
+      Other Notes … 24 US Politics Is Just Nonstop Fake Revolutions Now … 26 The Imperial
+      Propaganda Machine Is Failing In Unprecedented Ways … 27 Zionists Push Islamophobia
+      Because It’s Easier Than Getting People To Like Israel … 29 They Tell Us To Fear
+      Muslims While The US Empire Terrorizes The World … 30 Guillotine Song … 31 Capitalism
+      Is Shoving AI Down Our Throats Because It Can’t Give Us What We Actually Want
+      … 32 You Believe The Mainstream Narrative? Of Course You Do, You’re Twelve … 33
+      It’s Just Wall-To-Wall News Stories About The US And Its Allies Abusing The World
+      … 36 Notice Which Genocides You Are And Are Not Allowed To Oppose … 37 Americans
+      Have No Idea Who Their Government Is Bombing, And Other Notes … 38 They Want You
+      Relying On Artificial Intelligence So That You Will Lose Your Natural Intelligence
+      … 40 How The Media Normally Report On A Mass Atrocity … 43 The Nastiest Warmongers
+      Are Trump’s Biggest Fans Now … 44 They Tortured Lambs In The West Bank … 45 Again,
+      you can get a paperback copy of this issue by clicking here , or click here for
+      a digital pay-what-you-feel copy. _______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The latest edition of JOHNSTONE critiques the deteriorating
+      state of society under capitalism, highlighting increasing dystopia, censorship,
+      and the detrimental impact of generative AI on creativity, while featuring a notable
+      moment from Peter Thiel that underscores the ruling class's fear of public uprising.
+    paragraph_summary: The latest edition of JOHNSTONE critiques the increasingly dystopian
+      state of life under capitalism, highlighting how societal issues such as declining
+      intelligence, health, and happiness are exacerbated by government censorship and
+      surveillance. It emphasizes the reliance on generative AI, which stifles creativity
+      and intellect, while rulers like Peter Thiel reveal their fear of public uprising
+      against the oppressive system. Thiel's hesitant response during an interview regarding
+      public violence against corporate leaders underscores the ruling class's awareness
+      that they could be overthrown by the collective power of the people. The article
+      calls for greater public awareness and action against the current regime. The
+      issue is available in print and as a pay-what-you-want e-book.
+    published: '2025-11-04T13:12:54+00:00'
+  - title: They Tortured Lambs In The West Bank
+    url: https://www.caitlinjohnst.one/p/they-tortured-lambs-in-the-west-bank
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Israeli settlers were filmed torturing lambs which belonged to Palestinians in
+      the West Bank. Gouged their eyes out . Smashed them with cinder blocks. Beat them
+      to death in front of their mothers. Lambs. It’s not the most evil thing the Israelis
+      have done. Not by a long shot. Hell, all of human civilization subjects animals
+      to cruel abuses every minute of every day through the horrors of factory farming.
+      But this particular incident shines a special sort of light into exactly what’s
+      going on behind Israeli eyes over there in that sadistic society. https://x.com/haaretzcom/status/1984980799792271535
+      Think about the hatred and savagery you’d need to summon up within yourself to
+      gouge the eyes out of a living baby sheep. Think about the kind of person you’d
+      have to become to do something like that to an innocent creature. Those lambs
+      didn’t know they were Palestinian. They didn’t know anything about Hamas or October
+      7 or the Nazi Holocaust, or any of the other reasons Israelis generally cite for
+      their abuses of human beings. They were just sitting there, doing absolutely nothing
+      that could possibly be construed as harmful by even the most talented hasbarist.
+      And those settlers went in there and inflicted completely gratuitous suffering
+      upon them. This, to me anyway, just says so much about the level of vitriolic
+      hatred by which the state of Israel is sustained. It’s baked in to the way the
+      whole state is set up. https://x.com/Kahlissee/status/1823978690708976096 Israel
+      cannot be sustained without nonstop violence. The violence cannot be sustained
+      without hatred. The hatred cannot be sustained without systematic indoctrination.
+      That indoctrination teaches Jewish Israelis from birth that the victims of their
+      genocidal state are all inhuman monsters who would rape and murder them all if
+      Israel ceased its apartheid abuses, militarism, and incessant violence. It teaches
+      them that killing off their empathy and compassion is essential for their survival,
+      because only the Jews who are willing to do whatever it takes to survive are going
+      to make it. Just in case their childhood indoctrination isn’t enough to sway them,
+      Israelis are also made to serve in the military where they spend two years killing
+      off any remaining sense of human decency within themselves as they inflict acts
+      of unfathomable cruelty upon Palestinians as part of their duty to the state.
+      They are trained to believe they must have cold hearts and hard hands, because
+      that is what’s necessary to do what must be done. Those settlers who tortured
+      those lambs believed they were doing what needed to be done. They believe they
+      need to terrorize the Palestinians and make life so nightmarish for them that
+      they go somewhere else, which will allow for more Jewish settlement on Palestinian
+      territory. https://x.com/AJIunit/status/1863553707897680291 Those tortured lambs
+      were the product of everything that Israel is as a state. Which could of course
+      be said about every victim of Israeli sadism over the last eight decades, human
+      and non-human alike. This is Israel. This is Zionism. This is what it looks like
+      when Zionists get everything they want. You’re looking at it. This is it. Israel
+      can’t keep going like this. Humanity can’t keep going like this. We need better
+      systems. Better ideologies. Better motivators driving our behavior. All our systems
+      which drive cruelty and abusiveness around the world need to go the way of the
+      dinosaur. Zionism. Capitalism. Imperialism. All our competition-based systems
+      which pit us against other people, other ethnicities, other countries, and our
+      own biosphere. We need to move into collaboration-based systems which advance
+      justice, equality, and well-being for all of earth’s creatures. Because what we’ve
+      been doing clearly isn’t working. _________________ Caitlin’s Newsletter is a
+      reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Israeli settlers were filmed torturing Palestinian lambs in
+      the West Bank, highlighting the brutality and hatred present in the ongoing conflict.
+    paragraph_summary: The article discusses a disturbing incident in which Israeli
+      settlers were filmed torturing lambs belonging to Palestinians in the West Bank,
+      engaging in acts of extreme cruelty such as gouging out their eyes and beating
+      them to death. The author reflects on the deep-seated hatred and violence that
+      underpin such actions, suggesting that this behavior reveals a broader systemic
+      issue within Israeli society, where indoctrination fosters a perception of Palestinians
+      as inhuman. The piece argues that this cycle of violence and hatred is essential
+      for the sustainability of the Israeli state, highlighting the moral implications
+      of such cruelty towards innocent creatures and the societal mindset that allows
+      it to occur.
+    published: '2025-11-04T01:03:05+00:00'
+  - title: They Tortured Lambs In The West Bank
+    url: https://www.caitlinjohnst.one/p/they-tortured-lambs-in-the-west-bank
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Israeli settlers were filmed torturing lambs which belonged to Palestinians in
+      the West Bank. Gouged their eyes out . Smashed them with cinder blocks. Beat them
+      to death in front of their mothers. Lambs. It’s not the most evil thing the Israelis
+      have done. Not by a long shot. Hell, all of human civilization subjects animals
+      to cruel abuses every minute of every day through the horrors of factory farming.
+      But this particular incident shines a special sort of light into exactly what’s
+      going on behind Israeli eyes over there in that sadistic society. https://x.com/haaretzcom/status/1984980799792271535
+      Think about the hatred and savagery you’d need to summon up within yourself to
+      gouge the eyes out of a living baby sheep. Think about the kind of person you’d
+      have to become to do something like that to an innocent creature. Those lambs
+      didn’t know they were Palestinian. They didn’t know anything about Hamas or October
+      7 or the Nazi Holocaust, or any of the other reasons Israelis generally cite for
+      their abuses of human beings. They were just sitting there, doing absolutely nothing
+      that could possibly be construed as harmful by even the most talented hasbarist.
+      And those settlers went in there and inflicted completely gratuitous suffering
+      upon them. This, to me anyway, just says so much about the level of vitriolic
+      hatred by which the state of Israel is sustained. It’s baked in to the way the
+      whole state is set up. https://x.com/Kahlissee/status/1823978690708976096 Israel
+      cannot be sustained without nonstop violence. The violence cannot be sustained
+      without hatred. The hatred cannot be sustained without systematic indoctrination.
+      That indoctrination teaches Jewish Israelis from birth that the victims of their
+      genocidal state are all inhuman monsters who would rape and murder them all if
+      Israel ceased its apartheid abuses, militarism, and incessant violence. It teaches
+      them that killing off their empathy and compassion is essential for their survival,
+      because only the Jews who are willing to do whatever it takes to survive are going
+      to make it. Just in case their childhood indoctrination isn’t enough to sway them,
+      Israelis are also made to serve in the military where they spend two years killing
+      off any remaining sense of human decency within themselves as they inflict acts
+      of unfathomable cruelty upon Palestinians as part of their duty to the state.
+      They are trained to believe they must have cold hearts and hard hands, because
+      that is what’s necessary to do what must be done. Those settlers who tortured
+      those lambs believed they were doing what needed to be done. They believe they
+      need to terrorize the Palestinians and make life so nightmarish for them that
+      they go somewhere else, which will allow for more Jewish settlement on Palestinian
+      territory. https://x.com/AJIunit/status/1863553707897680291 Those tortured lambs
+      were the product of everything that Israel is as a state. Which could of course
+      be said about every victim of Israeli sadism over the last eight decades, human
+      and non-human alike. This is Israel. This is Zionism. This is what it looks like
+      when Zionists get everything they want. You’re looking at it. This is it. Israel
+      can’t keep going like this. Humanity can’t keep going like this. We need better
+      systems. Better ideologies. Better motivators driving our behavior. All our systems
+      which drive cruelty and abusiveness around the world need to go the way of the
+      dinosaur. Zionism. Capitalism. Imperialism. All our competition-based systems
+      which pit us against other people, other ethnicities, other countries, and our
+      own biosphere. We need to move into collaboration-based systems which advance
+      justice, equality, and well-being for all of earth’s creatures. Because what we’ve
+      been doing clearly isn’t working. _________________ Caitlin’s Newsletter is a
+      reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Israeli settlers were filmed torturing Palestinian lambs in
+      the West Bank, highlighting the brutality and hatred present in the ongoing conflict.
+    paragraph_summary: The article discusses a disturbing incident in which Israeli
+      settlers were filmed torturing lambs belonging to Palestinians in the West Bank,
+      engaging in acts of extreme cruelty such as gouging out their eyes and beating
+      them to death. The author reflects on the deep-seated hatred and violence that
+      underpin such actions, suggesting that this behavior reveals a broader systemic
+      issue within Israeli society, where indoctrination fosters a perception of Palestinians
+      as inhuman. The piece argues that this cycle of violence and hatred is essential
+      for the sustainability of the Israeli state, highlighting the moral implications
+      of such cruelty towards innocent creatures and the societal mindset that allows
+      it to occur.
+    published: '2025-11-04T01:03:05+00:00'
+  - title: The Nastiest Warmongers Are Trump's Biggest Fans Now
+    url: https://www.caitlinjohnst.one/p/the-nastiest-warmongers-are-trumps
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Massacre fetishist Lindsey Graham said “Trump is my favorite president” because
+      “we’re killing all the right people and we’re cutting your taxes” during a speech
+      to the Republican Jewish Coalition Annual Leadership Summit on Friday. “We’ve
+      run out of bombs; we didn’t run out of bombs in World War II,” the senator said.
+      If Lindsey Graham ever gushed about me this effusively for any reason I think
+      I would have to shave my head and join a convent or something, because it would
+      be a clear and undeniable sign that I had been living my whole entire life completely
+      wrong. https://x.com/infolibnews/status/1984804591976718464 It says a lot about
+      how much of a warmonger Trump has become that he himself actually slammed Lindsey
+      Graham repeatedly during his first crack at the presidency for being such a firebreathing
+      war slut. In 2016 Trump said of Graham , “I hear his theory for the [Iraq] war;
+      you’ll be in there forever. You’ll end up starting World War III with a guy like
+      that.” In 2017 Trump slammed Graham and his war porn circle jerk partner John
+      McCain, saying “The two senators should focus their energies on ISIS, illegal
+      immigration and border security instead of always looking to start World War III.”
+      In 2018 Trump attacked Graham for opposing the withdrawal of US troops from Syria,
+      tweeting “So hard to believe that Lindsey Graham would be against saving soldier
+      lives & billions of $$$. Why are we fighting for our enemy, Syria, by staying
+      & killing ISIS for them, Russia, Iran & other locals? Time to focus on our Country
+      & bring our youth back home where they belong!” In 2019 Trump said during a press
+      conference , “Lindsey Graham would like to stay in the Middle East for the next
+      thousand years with thousands of soldiers and fighting other people’s wars. I
+      want to get out of the Middle East.” Trump used to at least posture as an anti-interventionist
+      who didn’t get along with the warmongers of the DC swamp. Now he’s best butt buddies
+      with the most bloodthirsty swamp creatures alive. https://x.com/SabbySabs2/status/1984831909008994500
+      They love him, and why wouldn’t they? He bombed Iran. He bombed Yemen. He poured
+      genocide weapons into Israel to incinerate Gaza and to bomb Lebanon, and has been
+      aggressively stomping out free speech that is critical of Israel’s war crimes.
+      He’s been bombing Somalia at an unprecedented rate. He’s giving every sign that
+      he’s getting ready to do something truly horrible in Venezuela. He’s even threatening
+      to invade Nigeria now. Back in March, Trump’s intelligence chief Tulsi Gabbard
+      embarrassingly tweeted that “President Trump IS the President of Peace. He is
+      ending bloodshed across the world and will deliver lasting peace in the Middle
+      East.” Now she’s spending her whole career helping Trump commit mass military
+      violence around the globe. Trump duped his base into believing he’ll make peace,
+      and he turned out to be Lindsey Graham’s gooiest wet dream incarnate. Hopefully
+      some lessons are being learned here. _______________ Caitlin’s Newsletter is a
+      reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image is a screen grab from RepublicanJewishCoalition
+      (Fair Use).'
+    one_sentence_summary: During a speech at the Republican Jewish Coalition Annual
+      Leadership Summit, Lindsey Graham praised Donald Trump as his "favorite president"
+      for his military actions and tax cuts, despite Trump's previous criticisms of
+      Graham's warmongering stance.
+    paragraph_summary: During a recent speech at the Republican Jewish Coalition Annual
+      Leadership Summit, Senator Lindsey Graham expressed his admiration for former
+      President Donald Trump, stating, "Trump is my favorite president" due to their
+      shared views on military action and tax cuts. Graham's comments highlighted a
+      stark contrast to Trump's previous criticisms of him, where Trump labeled Graham
+      a "firebreathing war slut" and accused him of wanting to perpetuate endless wars
+      in the Middle East. Over the years, Trump has repeatedly condemned Graham's hawkish
+      stance on foreign policy, advocating instead for troop withdrawals and a focus
+      on domestic issues. The article reflects on the irony of Graham's enthusiastic
+      support for Trump, given Trump's earlier opposition to Graham's interventionist
+      tendencies.
+    published: '2025-11-03T12:31:20+00:00'
+  - title: The Nastiest Warmongers Are Trump's Biggest Fans Now
+    url: https://www.caitlinjohnst.one/p/the-nastiest-warmongers-are-trumps
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Massacre fetishist Lindsey Graham said “Trump is my favorite president” because
+      “we’re killing all the right people and we’re cutting your taxes” during a speech
+      to the Republican Jewish Coalition Annual Leadership Summit on Friday. “We’ve
+      run out of bombs; we didn’t run out of bombs in World War II,” the senator said.
+      If Lindsey Graham ever gushed about me this effusively for any reason I think
+      I would have to shave my head and join a convent or something, because it would
+      be a clear and undeniable sign that I had been living my whole entire life completely
+      wrong. https://x.com/infolibnews/status/1984804591976718464 It says a lot about
+      how much of a warmonger Trump has become that he himself actually slammed Lindsey
+      Graham repeatedly during his first crack at the presidency for being such a firebreathing
+      war slut. In 2016 Trump said of Graham , “I hear his theory for the [Iraq] war;
+      you’ll be in there forever. You’ll end up starting World War III with a guy like
+      that.” In 2017 Trump slammed Graham and his war porn circle jerk partner John
+      McCain, saying “The two senators should focus their energies on ISIS, illegal
+      immigration and border security instead of always looking to start World War III.”
+      In 2018 Trump attacked Graham for opposing the withdrawal of US troops from Syria,
+      tweeting “So hard to believe that Lindsey Graham would be against saving soldier
+      lives & billions of $$$. Why are we fighting for our enemy, Syria, by staying
+      & killing ISIS for them, Russia, Iran & other locals? Time to focus on our Country
+      & bring our youth back home where they belong!” In 2019 Trump said during a press
+      conference , “Lindsey Graham would like to stay in the Middle East for the next
+      thousand years with thousands of soldiers and fighting other people’s wars. I
+      want to get out of the Middle East.” Trump used to at least posture as an anti-interventionist
+      who didn’t get along with the warmongers of the DC swamp. Now he’s best butt buddies
+      with the most bloodthirsty swamp creatures alive. https://x.com/SabbySabs2/status/1984831909008994500
+      They love him, and why wouldn’t they? He bombed Iran. He bombed Yemen. He poured
+      genocide weapons into Israel to incinerate Gaza and to bomb Lebanon, and has been
+      aggressively stomping out free speech that is critical of Israel’s war crimes.
+      He’s been bombing Somalia at an unprecedented rate. He’s giving every sign that
+      he’s getting ready to do something truly horrible in Venezuela. He’s even threatening
+      to invade Nigeria now. Back in March, Trump’s intelligence chief Tulsi Gabbard
+      embarrassingly tweeted that “President Trump IS the President of Peace. He is
+      ending bloodshed across the world and will deliver lasting peace in the Middle
+      East.” Now she’s spending her whole career helping Trump commit mass military
+      violence around the globe. Trump duped his base into believing he’ll make peace,
+      and he turned out to be Lindsey Graham’s gooiest wet dream incarnate. Hopefully
+      some lessons are being learned here. _______________ Caitlin’s Newsletter is a
+      reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image is a screen grab from RepublicanJewishCoalition
+      (Fair Use).'
+    one_sentence_summary: During a speech at the Republican Jewish Coalition Annual
+      Leadership Summit, Lindsey Graham praised Donald Trump as his "favorite president"
+      for his military actions and tax cuts, despite Trump's previous criticisms of
+      Graham's warmongering stance.
+    paragraph_summary: During a recent speech at the Republican Jewish Coalition Annual
+      Leadership Summit, Senator Lindsey Graham expressed his admiration for former
+      President Donald Trump, stating, "Trump is my favorite president" due to their
+      shared views on military action and tax cuts. Graham's comments highlighted a
+      stark contrast to Trump's previous criticisms of him, where Trump labeled Graham
+      a "firebreathing war slut" and accused him of wanting to perpetuate endless wars
+      in the Middle East. Over the years, Trump has repeatedly condemned Graham's hawkish
+      stance on foreign policy, advocating instead for troop withdrawals and a focus
+      on domestic issues. The article reflects on the irony of Graham's enthusiastic
+      support for Trump, given Trump's earlier opposition to Graham's interventionist
+      tendencies.
+    published: '2025-11-03T12:31:20+00:00'
+  - title: How The Media Normally Report On A Mass Atrocity
+    url: https://www.caitlinjohnst.one/p/how-the-media-normally-report-on
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The Washington Post has published an article titled “ Families shot down, held
+      at ransom as they flee Darfur’s killing fields ,” subtitled “Sudan’s RSF paramilitary
+      and its allies have carried out mass ethnic killings and hostage taking in the
+      captured city of El Fashir, survivors told The Post.” The article opens with a
+      paragraph humanizing the victims of the El Fashir massacres: “Families gunned
+      down as they huddled for safety. Young children weeping over their mother’s body
+      in the desert. Doctors seized for ransom and executed.” It names the perpetrators,
+      “the paramilitary Rapid Support Forces,” in the second paragraph. It names the
+      backers of the perpetrators in the third paragraph, saying that “The RSF is backed
+      by the United Arab Emirates.” It mentions the word “genocide” three separate times.
+      “Ethnic killings” appears twice. The UAE is named repeatedly; even the fact that
+      it is “a key U.S. ally” is explicitly highlighted. Do you notice anything strange
+      about this reporting? Me neither. What stands out, reading this article here in
+      the year 2025, is how completely and utterly normal it is. https://x.com/caitoz/status/1985129927579255097
+      It’s not fantastic or extraordinary journalism, it’s just normal for a mainstream
+      western publication. The reporters talk to the victims, describe the massacres
+      they were told about, explain the various power dynamics at play from a mainstream
+      western perspective, name some US officials who are pushing for a halt to the
+      RSF’s atrocities, and use appropriately strong language to describe the horrors
+      they are documenting — including in the headline. They do all the normal mainstream
+      news reporter things. They cover a depraved mass atrocity the same way they’ve
+      typically covered such things for generations. None of this would stand out on
+      its own, if we hadn’t spent two years watching the mainstream western press do
+      absolutely none of these normal journalistic things in Gaza. The passive-language
+      “Gazans perish in explosion” headlines. The contortions to avoid naming the perpetrator
+      and the governments that are backing its atrocities. The adamant refusal to use
+      the word “genocide” except to frame it as a dubious claim being made by another
+      party which Israel forcefully denies. The wildly biased discrepancy between the
+      strength of language used to describe violence inflicted by Israelis versus violence
+      inflicted by Palestinians. If the western press had not been aggressively protecting
+      Israel and its interests this whole time, all their reporting on Gaza over the
+      last two years would have looked very much like the reporting we’re seeing on
+      the genocide in Sudan. There’s a discrepancy in the reporting because there’s
+      a discrepancy in the propaganda needs of the western empire. It is good that the
+      western press are doing actual journalism in Sudan and covering that genocide
+      with the normal level of urgency and emphasis. If they had been reporting on Gaza
+      in the same way these last two years, the west’s support for Israel would have
+      completely collapsed by now. Which is exactly why they haven’t been doing it.
+      ________________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The Washington Post article details the horrific violence
+      and ethnic killings perpetrated by Sudan's Rapid Support Forces in El Fashir,
+      highlighting the suffering of families and the role of the United Arab Emirates
+      as a supporter of these actions, while emphasizing the severity of the situation
+      by repeatedly referencing genocide.
+    paragraph_summary: The Washington Post article titled “Families shot down, held
+      at ransom as they flee Darfur’s killing fields” reports on the atrocities committed
+      by Sudan's Rapid Support Forces (RSF) in El Fashir, detailing horrific accounts
+      from survivors, including mass killings and hostage-taking. The piece highlights
+      the involvement of the United Arab Emirates as a supporter of the RSF and emphasizes
+      the ongoing genocide and ethnic violence in the region. The article is noted for
+      its adherence to traditional journalistic standards, such as interviewing victims
+      and providing context on the power dynamics at play, which contrasts sharply with
+      the perceived decline in similar reporting standards observed in the mainstream
+      Western media over the past two years.
+    published: '2025-11-03T01:50:41+00:00'
+  - title: How The Media Normally Report On A Mass Atrocity
+    url: https://www.caitlinjohnst.one/p/how-the-media-normally-report-on
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The Washington Post has published an article titled “ Families shot down, held
+      at ransom as they flee Darfur’s killing fields ,” subtitled “Sudan’s RSF paramilitary
+      and its allies have carried out mass ethnic killings and hostage taking in the
+      captured city of El Fashir, survivors told The Post.” The article opens with a
+      paragraph humanizing the victims of the El Fashir massacres: “Families gunned
+      down as they huddled for safety. Young children weeping over their mother’s body
+      in the desert. Doctors seized for ransom and executed.” It names the perpetrators,
+      “the paramilitary Rapid Support Forces,” in the second paragraph. It names the
+      backers of the perpetrators in the third paragraph, saying that “The RSF is backed
+      by the United Arab Emirates.” It mentions the word “genocide” three separate times.
+      “Ethnic killings” appears twice. The UAE is named repeatedly; even the fact that
+      it is “a key U.S. ally” is explicitly highlighted. Do you notice anything strange
+      about this reporting? Me neither. What stands out, reading this article here in
+      the year 2025, is how completely and utterly normal it is. https://x.com/caitoz/status/1985129927579255097
+      It’s not fantastic or extraordinary journalism, it’s just normal for a mainstream
+      western publication. The reporters talk to the victims, describe the massacres
+      they were told about, explain the various power dynamics at play from a mainstream
+      western perspective, name some US officials who are pushing for a halt to the
+      RSF’s atrocities, and use appropriately strong language to describe the horrors
+      they are documenting — including in the headline. They do all the normal mainstream
+      news reporter things. They cover a depraved mass atrocity the same way they’ve
+      typically covered such things for generations. None of this would stand out on
+      its own, if we hadn’t spent two years watching the mainstream western press do
+      absolutely none of these normal journalistic things in Gaza. The passive-language
+      “Gazans perish in explosion” headlines. The contortions to avoid naming the perpetrator
+      and the governments that are backing its atrocities. The adamant refusal to use
+      the word “genocide” except to frame it as a dubious claim being made by another
+      party which Israel forcefully denies. The wildly biased discrepancy between the
+      strength of language used to describe violence inflicted by Israelis versus violence
+      inflicted by Palestinians. If the western press had not been aggressively protecting
+      Israel and its interests this whole time, all their reporting on Gaza over the
+      last two years would have looked very much like the reporting we’re seeing on
+      the genocide in Sudan. There’s a discrepancy in the reporting because there’s
+      a discrepancy in the propaganda needs of the western empire. It is good that the
+      western press are doing actual journalism in Sudan and covering that genocide
+      with the normal level of urgency and emphasis. If they had been reporting on Gaza
+      in the same way these last two years, the west’s support for Israel would have
+      completely collapsed by now. Which is exactly why they haven’t been doing it.
+      ________________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The Washington Post article details the horrific violence
+      and ethnic killings perpetrated by Sudan's Rapid Support Forces in El Fashir,
+      highlighting the suffering of families and the role of the United Arab Emirates
+      as a supporter of these actions, while emphasizing the severity of the situation
+      by repeatedly referencing genocide.
+    paragraph_summary: The Washington Post article titled “Families shot down, held
+      at ransom as they flee Darfur’s killing fields” reports on the atrocities committed
+      by Sudan's Rapid Support Forces (RSF) in El Fashir, detailing horrific accounts
+      from survivors, including mass killings and hostage-taking. The piece highlights
+      the involvement of the United Arab Emirates as a supporter of the RSF and emphasizes
+      the ongoing genocide and ethnic violence in the region. The article is noted for
+      its adherence to traditional journalistic standards, such as interviewing victims
+      and providing context on the power dynamics at play, which contrasts sharply with
+      the perceived decline in similar reporting standards observed in the mainstream
+      Western media over the past two years.
+    published: '2025-11-03T01:50:41+00:00'
+  - title: 'New Painting: Roger Waters'
+    url: https://www.caitlinjohnst.one/p/new-painting-roger-waters
+    text: 'Subscribe now Painted Roger Waters in the middle of a furious tirade against
+      the evils of the empire. Thinking of calling it “The Most Vindicated Man On Earth”
+      or “You Shoulda Listened To Me, Thom”. Waters was aggressively smeared for his
+      peace activism and support for Palestinian rights for years before the Gaza holocaust
+      proved him right about everything, and now artists everywhere are wishing they’d
+      listened to him from the beginning. Normally vindication is supposed to taste
+      sweet, but having history prove you right in some of the worst ways imaginable
+      probably just feels cold and lonely. Oil on canvas. _________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Roger Waters reflects on his long-standing peace activism
+      and support for Palestinian rights, feeling vindicated yet sorrowful as recent
+      events in Gaza confirm his warnings about the consequences of empire.
+    paragraph_summary: The article discusses Roger Waters' recent vindication regarding
+      his long-standing peace activism and support for Palestinian rights, particularly
+      in light of the ongoing crisis in Gaza, which has led many artists to reflect
+      on the validity of his views. Titled potentially "The Most Vindicated Man On Earth"
+      or "You Shoulda Listened To Me, Thom," the piece highlights the irony of Waters'
+      vindication, suggesting that being proven right in such tragic circumstances feels
+      more like a cold and lonely experience than a sweet victory. The author, Caitlin,
+      emphasizes the reader-supported nature of her work and encourages subscriptions
+      and donations.
+    published: '2025-11-01T13:16:56+00:00'
+  - title: 'New Painting: Roger Waters'
+    url: https://www.caitlinjohnst.one/p/new-painting-roger-waters
+    text: 'Subscribe now Painted Roger Waters in the middle of a furious tirade against
+      the evils of the empire. Thinking of calling it “The Most Vindicated Man On Earth”
+      or “You Shoulda Listened To Me, Thom”. Waters was aggressively smeared for his
+      peace activism and support for Palestinian rights for years before the Gaza holocaust
+      proved him right about everything, and now artists everywhere are wishing they’d
+      listened to him from the beginning. Normally vindication is supposed to taste
+      sweet, but having history prove you right in some of the worst ways imaginable
+      probably just feels cold and lonely. Oil on canvas. _________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Roger Waters reflects on his long-standing peace activism
+      and support for Palestinian rights, feeling vindicated yet sorrowful as recent
+      events in Gaza confirm his warnings about the consequences of empire.
+    paragraph_summary: The article discusses Roger Waters' recent vindication regarding
+      his long-standing peace activism and support for Palestinian rights, particularly
+      in light of the ongoing crisis in Gaza, which has led many artists to reflect
+      on the validity of his views. Titled potentially "The Most Vindicated Man On Earth"
+      or "You Shoulda Listened To Me, Thom," the piece highlights the irony of Waters'
+      vindication, suggesting that being proven right in such tragic circumstances feels
+      more like a cold and lonely experience than a sweet victory. The author, Caitlin,
+      emphasizes the reader-supported nature of her work and encourages subscriptions
+      and donations.
+    published: '2025-11-01T13:16:56+00:00'
+  - title: They Want You Relying On Artificial Intelligence So That You Will Lose Your
+      Natural Intelligence
+    url: https://www.caitlinjohnst.one/p/they-want-you-relying-on-artificial
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Your rulers want you to depend on machines to do your thinking for you. They want
+      you relying on AI to do your reasoning, researching, analysis, and writing. They
+      want you to require easily controllable software to form your understanding of
+      the world, and to express that understanding to others. They can control the machines,
+      but they can’t control the human mind. So they want you to abandon your mind for
+      the machines. They want you relying on artificial intelligence so you stop using
+      your organic intelligence. They want your critical thinking skills to atrophy.
+      They want your ability to locate and parse inconvenient pieces of information
+      to deteriorate. They want your inspiration and intuition to decay. They want your
+      sense of morality to waste and wither away. They want you perceiving reality through
+      interpretive lenses controlled by plutocratic tech companies which are inextricably
+      intertwined with the power structure of the western empire. Generative AI is just
+      high-tech brainwashing. It’s the next level of propaganda indoctrination. It is
+      there to turn our brains into useless sludge which cannot function without technological
+      crutches controlled by the imperial plutocrats. They want us to abandon our humanity
+      for technology. They don’t want us making our own art. They don’t want us making
+      our own music. They don’t want us writing our own poetry. They don’t want us contemplating
+      philosophy for ourselves. They don’t want us turning inwards and getting in touch
+      with an authentic spirituality. They want to replace the dynamic human spirit
+      with predictable lines of code. Our brains are conditioned to select for cognitive
+      ease , and that’s what the AI merchants are selling us . The sales pitch is, “You
+      don’t have to exert all that mental effort thinking new thoughts, learning new
+      things, and expressing yourself creatively! This product will do it for you!”
+      But it comes at a cost. We have to trade in our ability to do those things for
+      ourselves. Historically when a new technology has shown up, that kind of tradeoff
+      has been worth it. Not many people know how to start a fire with a bow drill anymore,
+      but it rarely matters because modern technology has given us much more efficient
+      ways of starting fires and keeping warm. It didn’t make sense to spend all the
+      time and effort necessary to maintain our respective bow drill skills once that
+      technology showed up. But this isn’t like that. We’re not talking about some obsolete
+      skill we won’t need anymore thanks to modern technological development, we’re
+      talking about our minds. Our creative expression. Our inspiration. Our very humanness.
+      Even if AI worked well ( it doesn’t ) and even if our plutocratic overlords could
+      be trusted to interpret reality on our behalf ( they can’t ), those still wouldn’t
+      be aspects of ourselves that we should want to relinquish. In this oligarchic
+      dystopia, it is an act of defiance just to insist upon maintaining your own cognitive
+      faculties. Regularly exercising your own creativity, ingenuity and mental effort
+      is a small but meaningful rebellion. So exercise it. Don’t ask an AI to think
+      something through for you. Work it out as best you can on your own. Even if the
+      results are flawed, it’s still better than losing your ability to reason. Don’t
+      ask AI to create art or poetry for you. Make it yourself. Even if it’s crap, it’ll
+      still be better than outsourcing your artistic capacity to a machine. Don’t even
+      run to a chatbot every time you need to find information about something. See
+      if you can work your way through the old enshittified online search methods and
+      find it for yourself. Our rulers are getting better and better at hiding inconvenient
+      facts from us, so we’ve got to get better and better at finding them. Get in touch
+      with the fleshy, tactile experience of human embodiment, because they are trying
+      to get you to abandon it. Really feel your feet on the ground. The air in your
+      lungs. The wind in your hair. Teach yourself to calm your restless mind and take
+      in the beauty that’s all around you in every moment. Repair the attention span
+      that’s been shattered by smartphones and social media. Learn to meditate and focus
+      on one thing for an extended period. Don’t look at your phone so much. Read a
+      book. A paper one, that you can touch and smell and hear the pages rustle as you
+      turn them. If it’s an old one from the library or the used book store, that’s
+      even better. It doesn’t have to be a challenging book if your attention span is
+      really shot. Start simple. A kids book. A comic book. Whatever you can manage.
+      You’re putting yourself through cognitive restorative therapy. Your first steps
+      don’t have to impress anybody. Get in touch with your feelings. The ones you’ve
+      been suppressing for years. Let them come out and have their say, listening to
+      them like a loving parent to a trembling child. Learn to cherish those moments
+      in between all the highlights of your day. The time you spend at red lights, or
+      waiting for the coffee to brew. There is staggering beauty packed into every moment
+      on this earth; all you need to do is learn to notice it. Embrace your humanity.
+      Embrace your feelings. Embrace your flaws. Embrace your inefficiency. Embrace
+      everything they’re trying to get you to turn away from. What they are offering
+      you is so very, very inferior to the immense treasure trove that you are swimming
+      in just by existing as a human being on this planet. You are a miracle. This life
+      is a miracle. Don’t let them hide this from you. _______________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that rulers aim to make people dependent
+      on AI for thinking and understanding, thereby diminishing human critical thinking,
+      creativity, and moral judgment, while allowing tech companies to control perceptions
+      of reality.
+    paragraph_summary: The article argues that rulers and powerful entities want individuals
+      to become overly reliant on artificial intelligence for critical thinking, reasoning,
+      and creativity, effectively encouraging a decline in human intellect and autonomy.
+      It suggests that this dependence on technology serves as a form of control, as
+      it allows those in power to manipulate the information and perspectives that shape
+      our understanding of reality. The author warns that generative AI represents a
+      sophisticated form of brainwashing, aimed at stifling human creativity, morality,
+      and spirituality, ultimately reducing individuals to passive consumers of technology
+      rather than active thinkers and creators. The piece critiques the allure of cognitive
+      ease offered by AI, highlighting the dangers of sacrificing our humanity for convenience.
+    published: '2025-11-01T01:28:50+00:00'
+  - title: They Want You Relying On Artificial Intelligence So That You Will Lose Your
+      Natural Intelligence
+    url: https://www.caitlinjohnst.one/p/they-want-you-relying-on-artificial
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Your rulers want you to depend on machines to do your thinking for you. They want
+      you relying on AI to do your reasoning, researching, analysis, and writing. They
+      want you to require easily controllable software to form your understanding of
+      the world, and to express that understanding to others. They can control the machines,
+      but they can’t control the human mind. So they want you to abandon your mind for
+      the machines. They want you relying on artificial intelligence so you stop using
+      your organic intelligence. They want your critical thinking skills to atrophy.
+      They want your ability to locate and parse inconvenient pieces of information
+      to deteriorate. They want your inspiration and intuition to decay. They want your
+      sense of morality to waste and wither away. They want you perceiving reality through
+      interpretive lenses controlled by plutocratic tech companies which are inextricably
+      intertwined with the power structure of the western empire. Generative AI is just
+      high-tech brainwashing. It’s the next level of propaganda indoctrination. It is
+      there to turn our brains into useless sludge which cannot function without technological
+      crutches controlled by the imperial plutocrats. They want us to abandon our humanity
+      for technology. They don’t want us making our own art. They don’t want us making
+      our own music. They don’t want us writing our own poetry. They don’t want us contemplating
+      philosophy for ourselves. They don’t want us turning inwards and getting in touch
+      with an authentic spirituality. They want to replace the dynamic human spirit
+      with predictable lines of code. Our brains are conditioned to select for cognitive
+      ease , and that’s what the AI merchants are selling us . The sales pitch is, “You
+      don’t have to exert all that mental effort thinking new thoughts, learning new
+      things, and expressing yourself creatively! This product will do it for you!”
+      But it comes at a cost. We have to trade in our ability to do those things for
+      ourselves. Historically when a new technology has shown up, that kind of tradeoff
+      has been worth it. Not many people know how to start a fire with a bow drill anymore,
+      but it rarely matters because modern technology has given us much more efficient
+      ways of starting fires and keeping warm. It didn’t make sense to spend all the
+      time and effort necessary to maintain our respective bow drill skills once that
+      technology showed up. But this isn’t like that. We’re not talking about some obsolete
+      skill we won’t need anymore thanks to modern technological development, we’re
+      talking about our minds. Our creative expression. Our inspiration. Our very humanness.
+      Even if AI worked well ( it doesn’t ) and even if our plutocratic overlords could
+      be trusted to interpret reality on our behalf ( they can’t ), those still wouldn’t
+      be aspects of ourselves that we should want to relinquish. In this oligarchic
+      dystopia, it is an act of defiance just to insist upon maintaining your own cognitive
+      faculties. Regularly exercising your own creativity, ingenuity and mental effort
+      is a small but meaningful rebellion. So exercise it. Don’t ask an AI to think
+      something through for you. Work it out as best you can on your own. Even if the
+      results are flawed, it’s still better than losing your ability to reason. Don’t
+      ask AI to create art or poetry for you. Make it yourself. Even if it’s crap, it’ll
+      still be better than outsourcing your artistic capacity to a machine. Don’t even
+      run to a chatbot every time you need to find information about something. See
+      if you can work your way through the old enshittified online search methods and
+      find it for yourself. Our rulers are getting better and better at hiding inconvenient
+      facts from us, so we’ve got to get better and better at finding them. Get in touch
+      with the fleshy, tactile experience of human embodiment, because they are trying
+      to get you to abandon it. Really feel your feet on the ground. The air in your
+      lungs. The wind in your hair. Teach yourself to calm your restless mind and take
+      in the beauty that’s all around you in every moment. Repair the attention span
+      that’s been shattered by smartphones and social media. Learn to meditate and focus
+      on one thing for an extended period. Don’t look at your phone so much. Read a
+      book. A paper one, that you can touch and smell and hear the pages rustle as you
+      turn them. If it’s an old one from the library or the used book store, that’s
+      even better. It doesn’t have to be a challenging book if your attention span is
+      really shot. Start simple. A kids book. A comic book. Whatever you can manage.
+      You’re putting yourself through cognitive restorative therapy. Your first steps
+      don’t have to impress anybody. Get in touch with your feelings. The ones you’ve
+      been suppressing for years. Let them come out and have their say, listening to
+      them like a loving parent to a trembling child. Learn to cherish those moments
+      in between all the highlights of your day. The time you spend at red lights, or
+      waiting for the coffee to brew. There is staggering beauty packed into every moment
+      on this earth; all you need to do is learn to notice it. Embrace your humanity.
+      Embrace your feelings. Embrace your flaws. Embrace your inefficiency. Embrace
+      everything they’re trying to get you to turn away from. What they are offering
+      you is so very, very inferior to the immense treasure trove that you are swimming
+      in just by existing as a human being on this planet. You are a miracle. This life
+      is a miracle. Don’t let them hide this from you. _______________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that rulers aim to make people dependent
+      on AI for thinking and understanding, thereby diminishing human critical thinking,
+      creativity, and moral judgment, while allowing tech companies to control perceptions
+      of reality.
+    paragraph_summary: The article argues that rulers and powerful entities want individuals
+      to become overly reliant on artificial intelligence for critical thinking, reasoning,
+      and creativity, effectively encouraging a decline in human intellect and autonomy.
+      It suggests that this dependence on technology serves as a form of control, as
+      it allows those in power to manipulate the information and perspectives that shape
+      our understanding of reality. The author warns that generative AI represents a
+      sophisticated form of brainwashing, aimed at stifling human creativity, morality,
+      and spirituality, ultimately reducing individuals to passive consumers of technology
+      rather than active thinkers and creators. The piece critiques the allure of cognitive
+      ease offered by AI, highlighting the dangers of sacrificing our humanity for convenience.
+    published: '2025-11-01T01:28:50+00:00'
+  - title: Americans Have No Idea Who Their Government Is Bombing, And Other Notes
+    url: https://www.caitlinjohnst.one/p/americans-have-no-idea-who-their
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      An article by Antiwar’s Dave DeCamp has highlighted the widely-ignored fact that
+      according to AFRICOM the US waged a three-day bombing campaign in Somalia from
+      October 26 — October 28, bringing the total number of US airstrikes in that nation
+      this year to 89. What percentage of Americans even realize that Trump has bombed
+      Somalia nearly a hundred times this year? I doubt it’s even one percent. The mainstream
+      press barely mention it. Americans have hardly any idea who their own country
+      is bombing. In theory the press are there to create an informed electorate who
+      can then use their votes to move their government in a healthy direction. In practice
+      the press are there to keep the public too ignorant, propagandized and distracted
+      to meddle in the workings of the imperial machine. ❖ Israel keeps violating the
+      “ceasefire” and bombing Gaza whenever it wants to, then saying the ceasefire is
+      back in effect. It’s like saying you’ve quit smoking whenever you’re not currently
+      having a cigarette. NPR reports that after a mid-“ceasefire” bombing campaign
+      that killed 104 people including 46 children, Benjamin Netanyahu “ordered the
+      strikes after accusing Hamas of violating the ceasefire for handing over body
+      parts this week that Israel said were partial remains of a hostage recovered earlier
+      in the war.” Saying you massacred children because you weren’t given the correct
+      pieces of a corpse just might be the craziest justification for a war crime that
+      anyone has ever offered. ❖ Israeli UN Ambassador Danny Danon accused UN Special
+      Rapporteur Francesca Albanese of witchcraft for her report on Israel’s genocidal
+      atrocities in Gaza. That’s right. Witchcraft. “Miss Albanese, you are a witch
+      and this report is another page in your spell book,” Danon said in response to
+      Albanese’s remarks to the UN’s Third Committee on Gaza. Says a lot about the strength
+      of their arguments, really. Pro-Palestine arguments are like, “Here’s raw video
+      footage of atrocities, IDF admissions of war crimes, IDF soldiers documenting
+      their own sadism, eyewitness testimony from western doctors, and analysis from
+      every major human rights group,” while pro-Israel arguments are like, “You’re
+      a witch doing witchcraft!” ❖ Israeli media report that their government is preparing
+      to wage a “propaganda war” for when foreign journalists are able to gain access
+      to Gaza in advance of the expected PR fallout as the world learns “the human stories
+      from Gaza in the voices and faces of the residents themselves.” It’s such a trip
+      how as a state the Israelis understand the importance of perception management
+      more acutely than any nation on earth, but as individuals they still can’t resist
+      the urge to club an old woman on camera or post pictures of themselves wearing
+      stolen panties in Gaza . Really drives home how the entire state is premised on
+      the understanding that its existence depends on actively cultivating the support
+      of powerful western military forces using aggressive lobbying and propaganda campaigns,
+      but the state is also premised on extreme hatred and racism, and these two essential
+      ingredients are clashing with more and more regularity when it comes to Gaza.
+      ❖ It’s not okay to still support a two-state solution in 2025. Israel has spent
+      two years showing the world that it should not exist as a state. It needs to be
+      disarmed, dismantled, and denazified. It was still excusable to naively believe
+      a two-state solution was workable prior to 2023, but after two years of Israeli
+      officials openly saying with the overwhelming support of their citizenry that
+      there will never be a Palestinian state while committing a genocide in full view
+      of the entire world, this is no longer a tenable position to have. There is no
+      longer any excuse for still believing the state of Israel will allow the Palestinians
+      to have a fully sovereign state and leave them in peace, especially not after
+      watching it wage war on all its neighbors with the blatantly obvious goal of domination
+      and territorial expansion. The Israel experiment has been run. The results of
+      that experiment show that it is not workable. Everything we’ve seen these last
+      two years is the result of Zionists getting everything they want. This is what
+      that looks like. The world needs to terminate the experiment by any means necessary
+      and end the Zionist state forever. ❖ Groyper leader Nick Fuentes just went on
+      Infowars to join Alex Jones in endorsing regime change interventionism in Venezuela
+      by the Trump administration. The entire American right is just Dick Cheney wearing
+      various costumes. The empire doesn’t just control the opposition, it controls
+      the opposition to the opposition. _________________ Caitlin’s Newsletter is a
+      reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article discusses how the mainstream media largely ignores
+      the fact that the U.S. conducted 89 airstrikes in Somalia this year, highlighting
+      a lack of public awareness about U.S. military actions abroad and criticizing
+      the media for failing to inform the electorate.
+    paragraph_summary: An article by Antiwar's Dave DeCamp reveals that the U.S. conducted
+      a three-day bombing campaign in Somalia from October 26 to 28, raising the total
+      number of airstrikes in the country to 89 for the year, a fact largely overlooked
+      by mainstream media and the American public. The article criticizes the media
+      for failing to inform citizens about U.S. military actions abroad, suggesting
+      that this lack of awareness contributes to a disengaged electorate. Additionally,
+      it discusses Israel's ongoing violations of a ceasefire in Gaza, including a recent
+      bombing that killed 104 people, including many children, which was justified by
+      Israeli officials as a response to Hamas's alleged violations. The piece also
+      highlights the absurdity of Israeli officials' rhetoric, including an accusation
+      of witchcraft against a UN rapporteur who reported on Israel's actions in Gaza,
+      illustrating the weakness of their arguments.
+    published: '2025-10-31T11:18:58+00:00'
+  - title: Americans Have No Idea Who Their Government Is Bombing, And Other Notes
+    url: https://www.caitlinjohnst.one/p/americans-have-no-idea-who-their
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      An article by Antiwar’s Dave DeCamp has highlighted the widely-ignored fact that
+      according to AFRICOM the US waged a three-day bombing campaign in Somalia from
+      October 26 — October 28, bringing the total number of US airstrikes in that nation
+      this year to 89. What percentage of Americans even realize that Trump has bombed
+      Somalia nearly a hundred times this year? I doubt it’s even one percent. The mainstream
+      press barely mention it. Americans have hardly any idea who their own country
+      is bombing. In theory the press are there to create an informed electorate who
+      can then use their votes to move their government in a healthy direction. In practice
+      the press are there to keep the public too ignorant, propagandized and distracted
+      to meddle in the workings of the imperial machine. ❖ Israel keeps violating the
+      “ceasefire” and bombing Gaza whenever it wants to, then saying the ceasefire is
+      back in effect. It’s like saying you’ve quit smoking whenever you’re not currently
+      having a cigarette. NPR reports that after a mid-“ceasefire” bombing campaign
+      that killed 104 people including 46 children, Benjamin Netanyahu “ordered the
+      strikes after accusing Hamas of violating the ceasefire for handing over body
+      parts this week that Israel said were partial remains of a hostage recovered earlier
+      in the war.” Saying you massacred children because you weren’t given the correct
+      pieces of a corpse just might be the craziest justification for a war crime that
+      anyone has ever offered. ❖ Israeli UN Ambassador Danny Danon accused UN Special
+      Rapporteur Francesca Albanese of witchcraft for her report on Israel’s genocidal
+      atrocities in Gaza. That’s right. Witchcraft. “Miss Albanese, you are a witch
+      and this report is another page in your spell book,” Danon said in response to
+      Albanese’s remarks to the UN’s Third Committee on Gaza. Says a lot about the strength
+      of their arguments, really. Pro-Palestine arguments are like, “Here’s raw video
+      footage of atrocities, IDF admissions of war crimes, IDF soldiers documenting
+      their own sadism, eyewitness testimony from western doctors, and analysis from
+      every major human rights group,” while pro-Israel arguments are like, “You’re
+      a witch doing witchcraft!” ❖ Israeli media report that their government is preparing
+      to wage a “propaganda war” for when foreign journalists are able to gain access
+      to Gaza in advance of the expected PR fallout as the world learns “the human stories
+      from Gaza in the voices and faces of the residents themselves.” It’s such a trip
+      how as a state the Israelis understand the importance of perception management
+      more acutely than any nation on earth, but as individuals they still can’t resist
+      the urge to club an old woman on camera or post pictures of themselves wearing
+      stolen panties in Gaza . Really drives home how the entire state is premised on
+      the understanding that its existence depends on actively cultivating the support
+      of powerful western military forces using aggressive lobbying and propaganda campaigns,
+      but the state is also premised on extreme hatred and racism, and these two essential
+      ingredients are clashing with more and more regularity when it comes to Gaza.
+      ❖ It’s not okay to still support a two-state solution in 2025. Israel has spent
+      two years showing the world that it should not exist as a state. It needs to be
+      disarmed, dismantled, and denazified. It was still excusable to naively believe
+      a two-state solution was workable prior to 2023, but after two years of Israeli
+      officials openly saying with the overwhelming support of their citizenry that
+      there will never be a Palestinian state while committing a genocide in full view
+      of the entire world, this is no longer a tenable position to have. There is no
+      longer any excuse for still believing the state of Israel will allow the Palestinians
+      to have a fully sovereign state and leave them in peace, especially not after
+      watching it wage war on all its neighbors with the blatantly obvious goal of domination
+      and territorial expansion. The Israel experiment has been run. The results of
+      that experiment show that it is not workable. Everything we’ve seen these last
+      two years is the result of Zionists getting everything they want. This is what
+      that looks like. The world needs to terminate the experiment by any means necessary
+      and end the Zionist state forever. ❖ Groyper leader Nick Fuentes just went on
+      Infowars to join Alex Jones in endorsing regime change interventionism in Venezuela
+      by the Trump administration. The entire American right is just Dick Cheney wearing
+      various costumes. The empire doesn’t just control the opposition, it controls
+      the opposition to the opposition. _________________ Caitlin’s Newsletter is a
+      reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article discusses how the mainstream media largely ignores
+      the fact that the U.S. conducted 89 airstrikes in Somalia this year, highlighting
+      a lack of public awareness about U.S. military actions abroad and criticizing
+      the media for failing to inform the electorate.
+    paragraph_summary: An article by Antiwar's Dave DeCamp reveals that the U.S. conducted
+      a three-day bombing campaign in Somalia from October 26 to 28, raising the total
+      number of airstrikes in the country to 89 for the year, a fact largely overlooked
+      by mainstream media and the American public. The article criticizes the media
+      for failing to inform citizens about U.S. military actions abroad, suggesting
+      that this lack of awareness contributes to a disengaged electorate. Additionally,
+      it discusses Israel's ongoing violations of a ceasefire in Gaza, including a recent
+      bombing that killed 104 people, including many children, which was justified by
+      Israeli officials as a response to Hamas's alleged violations. The piece also
+      highlights the absurdity of Israeli officials' rhetoric, including an accusation
+      of witchcraft against a UN rapporteur who reported on Israel's actions in Gaza,
+      illustrating the weakness of their arguments.
+    published: '2025-10-31T11:18:58+00:00'
+  - title: 'New Painting: "Has Anyone Seen The Antichrist?"'
+    url: https://www.caitlinjohnst.one/p/new-painting-has-anyone-seen-the
+    text: 'Subscribe now The other day I read an article about how Peter Thiel has been
+      going around giving strange speeches in which he speculates about who the Antichrist
+      might be and what signs we should look for to spot him if he shows up, and all
+      I could think of was that I Think You Should Leave skit where Tim Robinson is
+      dressed in a hot dog costume next to a hot dog car that had just crashed through
+      someone’s wall saying “We’re all trying to find the guy who did this!” It’s like
+      the Pope going around telling everyone he’s looking for the head of the Catholic
+      Church. Peter Thiel is one of the creepiest people alive. A notoriously nasty
+      and vindictive billionaire, Thiel is a leading architect of the modern imperial
+      surveillance state. His CIA-backed company Palantir has intimate ties to both
+      the US intelligence cartel and to Israel , playing a crucial role in both the
+      US empire’s sprawling surveillance network and Israeli atrocities against Palestinians.
+      The Trump administration has alarmed even the mildest empire critics with its
+      efforts to bring the nation much further under Palantir’s information monitoring
+      umbrella. There was a very informative moment last year when Thiel was asked by
+      Piers Morgan whether he agreed with the large sector of the public who viewed
+      the shooter of United Healthcare CEO Brian Thompson as a hero. Thiel paused for
+      a long time, and then stuttered for a long time, and then eventually got out the
+      words , “It’s, I don’t know what, what to say? I, I think I still think you have,
+      you should try to make an argument. And I, I think this is, this is you should,
+      you know, there may be things wrong with our health care system, but you have,
+      you have to make an argument, and you have to try to find a way to convince people
+      and and change, change it by by that, and this is, you know, this is not going
+      to work.” They know. The plutocrats are acutely aware that we can get rid of them
+      whenever we want and end the system which empowers them. They think about it a
+      whole lot more than most of us do. It’s never too far from their thoughts. They
+      know there are a lot more of us than there are of them, and that their abuse ends
+      whenever we decide we’ve had enough. Oil on canvas. __________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Peter Thiel, a controversial billionaire known for his ties
+      to surveillance and intelligence, has been giving bizarre speeches speculating
+      about the Antichrist, prompting comparisons to a comedic skit that highlights
+      the absurdity of his search for a figure of evil while his own actions contribute
+      to significant global issues.
+    paragraph_summary: Peter Thiel, a controversial billionaire and co-founder of Palantir,
+      has been making headlines for his bizarre speeches speculating on the identity
+      of the Antichrist, which some find reminiscent of absurd comedy sketches. Known
+      for his ties to the surveillance state and his company's role in U.S. and Israeli
+      intelligence operations, Thiel's influence raises concerns about the increasing
+      reach of surveillance under the Trump administration. His recent interview with
+      Piers Morgan highlighted his discomfort with public sentiment surrounding violence
+      against corporate figures, revealing a hesitance to engage with criticisms of
+      the healthcare system. The article suggests that Thiel and other wealthy elites
+      are aware of their precarious position and the potential for public backlash against
+      their power.
+    published: '2025-10-30T12:20:23+00:00'
+  - title: 'New Painting: "Has Anyone Seen The Antichrist?"'
+    url: https://www.caitlinjohnst.one/p/new-painting-has-anyone-seen-the
+    text: 'Subscribe now The other day I read an article about how Peter Thiel has been
+      going around giving strange speeches in which he speculates about who the Antichrist
+      might be and what signs we should look for to spot him if he shows up, and all
+      I could think of was that I Think You Should Leave skit where Tim Robinson is
+      dressed in a hot dog costume next to a hot dog car that had just crashed through
+      someone’s wall saying “We’re all trying to find the guy who did this!” It’s like
+      the Pope going around telling everyone he’s looking for the head of the Catholic
+      Church. Peter Thiel is one of the creepiest people alive. A notoriously nasty
+      and vindictive billionaire, Thiel is a leading architect of the modern imperial
+      surveillance state. His CIA-backed company Palantir has intimate ties to both
+      the US intelligence cartel and to Israel , playing a crucial role in both the
+      US empire’s sprawling surveillance network and Israeli atrocities against Palestinians.
+      The Trump administration has alarmed even the mildest empire critics with its
+      efforts to bring the nation much further under Palantir’s information monitoring
+      umbrella. There was a very informative moment last year when Thiel was asked by
+      Piers Morgan whether he agreed with the large sector of the public who viewed
+      the shooter of United Healthcare CEO Brian Thompson as a hero. Thiel paused for
+      a long time, and then stuttered for a long time, and then eventually got out the
+      words , “It’s, I don’t know what, what to say? I, I think I still think you have,
+      you should try to make an argument. And I, I think this is, this is you should,
+      you know, there may be things wrong with our health care system, but you have,
+      you have to make an argument, and you have to try to find a way to convince people
+      and and change, change it by by that, and this is, you know, this is not going
+      to work.” They know. The plutocrats are acutely aware that we can get rid of them
+      whenever we want and end the system which empowers them. They think about it a
+      whole lot more than most of us do. It’s never too far from their thoughts. They
+      know there are a lot more of us than there are of them, and that their abuse ends
+      whenever we decide we’ve had enough. Oil on canvas. __________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Peter Thiel, a controversial billionaire known for his ties
+      to surveillance and intelligence, has been giving bizarre speeches speculating
+      about the Antichrist, prompting comparisons to a comedic skit that highlights
+      the absurdity of his search for a figure of evil while his own actions contribute
+      to significant global issues.
+    paragraph_summary: Peter Thiel, a controversial billionaire and co-founder of Palantir,
+      has been making headlines for his bizarre speeches speculating on the identity
+      of the Antichrist, which some find reminiscent of absurd comedy sketches. Known
+      for his ties to the surveillance state and his company's role in U.S. and Israeli
+      intelligence operations, Thiel's influence raises concerns about the increasing
+      reach of surveillance under the Trump administration. His recent interview with
+      Piers Morgan highlighted his discomfort with public sentiment surrounding violence
+      against corporate figures, revealing a hesitance to engage with criticisms of
+      the healthcare system. The article suggests that Thiel and other wealthy elites
+      are aware of their precarious position and the potential for public backlash against
+      their power.
+    published: '2025-10-30T12:20:23+00:00'
+  - title: Notice Which Genocides You Are And Are Not Allowed To Oppose
+    url: https://www.caitlinjohnst.one/p/notice-which-genocides-you-are-and
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Do you notice how nobody’s losing their jobs or getting deported for criticizing
+      the genocidal atrocities in Sudan ? How mainstream western politicians are able
+      to call out the RSF and the UAE without having their careers nuked by high-powered
+      lobby groups? How the western media aren’t churning out op-eds concern trolling
+      about the possibility that anyone who opposes the el-Fasher massacres is actually
+      a closet Nazi? https://x.com/ChrisMurphyCT/status/1983291308828418211 How opposition
+      to mass murder in Darfur isn’t being algorithmically hidden by Silicon Valley
+      plutocrats? How anyone who posts footage of an RSF war crime online isn’t being
+      swarmed by an army of full-time trolls making excuses justifying the atrocities
+      and accusing those who denounce them of being hateful bigots? How western governments
+      and institutions aren’t doing everything they can to stomp out all speech that
+      is critical of this particular humanitarian crisis? That’s the difference, right
+      there. That’s why many westerners have been paying special attention to Gaza.
+      https://x.com/caitoz/status/1876836830445809828 For the last two years anyone
+      who publicly criticized Israel’s genocidal abuses in the Gaza Strip would be confronted
+      by hasbarists saying “Why are you paying so much attention to Gaza instead of
+      Sudan? You must just HATE JEWS!!” No, dipshit, I’m paying more attention to Gaza
+      because my government isn’t trying to make it illegal for me to criticize the
+      RSF. Every major western institution isn’t dedicated to facilitating genocide
+      in Sudan and crushing all speech which opposes it. My rulers aren’t backing a
+      genocide in Sudan and commanding me to support it. The ongoing nightmare in Sudan
+      is largely a product of the abuses of the western empire. The UAE is an imperial
+      client state who the US and its allies recently supported in its years-long genocidal
+      war on Yemen in partnership with Saudi Arabia. There are all kinds of threads
+      you can trace back to western allies and partners in this genocide, as is the
+      case for most of the worst things that happen in our world these days. But it’s
+      clearly different. Clearly. The evidence for this is in the extent to which western
+      institutions have been protecting the genocide in Gaza versus the genocide in
+      Sudan. Israel’s abuses are much more intimately interwoven into the guts of the
+      imperial machine than those of the RSF, who Washington will take a blowtorch to
+      the instant it becomes geopolitically advantageous. https://x.com/sabreenaGS/status/1828526486732648661
+      Israel’s abuses are completely inseparable and indistinct from the abuses of my
+      own government. I’ve been focusing more on Gaza than on Sudan for the same reason
+      I’d be more concerned if I knew my husband was murdering hitch hikers than I would
+      be about reports of a serial killer in Brazil. It is right and good that the world
+      is turning against the UAE, opposing western backing for that malignant state,
+      and standing in firm opposition to what is happening in Sudan. But the complete
+      lack of institutional resistance we’ve been seeing to this opposition shows that
+      this genocide is much less dear to the foul little heart of the empire than the
+      genocide in Gaza. Opposing the genocide in Sudan is about saving Sudan. Opposing
+      the genocide in Gaza is about saving ourselves. Saving our free speech. Saving
+      our political systems. Saving our hearts. Saving our minds. Saving our soul. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Diane Krauthamer (CC BY-NC-SA 2.0)'
+    one_sentence_summary: The article highlights the stark contrast in how criticism
+      of the atrocities in Sudan is treated compared to other political issues, noting
+      that there is a lack of backlash against those who speak out against the violence,
+      unlike in other contexts where dissent is often suppressed.
+    paragraph_summary: The article discusses the contrasting responses to humanitarian
+      crises in Sudan and Gaza, highlighting how criticism of the atrocities in Sudan
+      is met with relative freedom, while opposing Israel's actions in Gaza often leads
+      to severe backlash and accusations of anti-Semitism. The author points out that
+      Western politicians and media can openly condemn the violence in Sudan without
+      fear of career repercussions or censorship, unlike the situation for those who
+      criticize Israel. This disparity is attributed to the influence of powerful lobby
+      groups and the complicity of Western governments in supporting genocidal actions,
+      particularly in the context of the UAE's role in the region. The author argues
+      that the ongoing crisis in Sudan is a consequence of Western imperialism, contrasting
+      it with the more contentious discourse surrounding Gaza.
+    published: '2025-10-30T00:29:00+00:00'
+  - title: Notice Which Genocides You Are And Are Not Allowed To Oppose
+    url: https://www.caitlinjohnst.one/p/notice-which-genocides-you-are-and
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Do you notice how nobody’s losing their jobs or getting deported for criticizing
+      the genocidal atrocities in Sudan ? How mainstream western politicians are able
+      to call out the RSF and the UAE without having their careers nuked by high-powered
+      lobby groups? How the western media aren’t churning out op-eds concern trolling
+      about the possibility that anyone who opposes the el-Fasher massacres is actually
+      a closet Nazi? https://x.com/ChrisMurphyCT/status/1983291308828418211 How opposition
+      to mass murder in Darfur isn’t being algorithmically hidden by Silicon Valley
+      plutocrats? How anyone who posts footage of an RSF war crime online isn’t being
+      swarmed by an army of full-time trolls making excuses justifying the atrocities
+      and accusing those who denounce them of being hateful bigots? How western governments
+      and institutions aren’t doing everything they can to stomp out all speech that
+      is critical of this particular humanitarian crisis? That’s the difference, right
+      there. That’s why many westerners have been paying special attention to Gaza.
+      https://x.com/caitoz/status/1876836830445809828 For the last two years anyone
+      who publicly criticized Israel’s genocidal abuses in the Gaza Strip would be confronted
+      by hasbarists saying “Why are you paying so much attention to Gaza instead of
+      Sudan? You must just HATE JEWS!!” No, dipshit, I’m paying more attention to Gaza
+      because my government isn’t trying to make it illegal for me to criticize the
+      RSF. Every major western institution isn’t dedicated to facilitating genocide
+      in Sudan and crushing all speech which opposes it. My rulers aren’t backing a
+      genocide in Sudan and commanding me to support it. The ongoing nightmare in Sudan
+      is largely a product of the abuses of the western empire. The UAE is an imperial
+      client state who the US and its allies recently supported in its years-long genocidal
+      war on Yemen in partnership with Saudi Arabia. There are all kinds of threads
+      you can trace back to western allies and partners in this genocide, as is the
+      case for most of the worst things that happen in our world these days. But it’s
+      clearly different. Clearly. The evidence for this is in the extent to which western
+      institutions have been protecting the genocide in Gaza versus the genocide in
+      Sudan. Israel’s abuses are much more intimately interwoven into the guts of the
+      imperial machine than those of the RSF, who Washington will take a blowtorch to
+      the instant it becomes geopolitically advantageous. https://x.com/sabreenaGS/status/1828526486732648661
+      Israel’s abuses are completely inseparable and indistinct from the abuses of my
+      own government. I’ve been focusing more on Gaza than on Sudan for the same reason
+      I’d be more concerned if I knew my husband was murdering hitch hikers than I would
+      be about reports of a serial killer in Brazil. It is right and good that the world
+      is turning against the UAE, opposing western backing for that malignant state,
+      and standing in firm opposition to what is happening in Sudan. But the complete
+      lack of institutional resistance we’ve been seeing to this opposition shows that
+      this genocide is much less dear to the foul little heart of the empire than the
+      genocide in Gaza. Opposing the genocide in Sudan is about saving Sudan. Opposing
+      the genocide in Gaza is about saving ourselves. Saving our free speech. Saving
+      our political systems. Saving our hearts. Saving our minds. Saving our soul. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Diane Krauthamer (CC BY-NC-SA 2.0)'
+    one_sentence_summary: The article highlights the stark contrast in how criticism
+      of the atrocities in Sudan is treated compared to other political issues, noting
+      that there is a lack of backlash against those who speak out against the violence,
+      unlike in other contexts where dissent is often suppressed.
+    paragraph_summary: The article discusses the contrasting responses to humanitarian
+      crises in Sudan and Gaza, highlighting how criticism of the atrocities in Sudan
+      is met with relative freedom, while opposing Israel's actions in Gaza often leads
+      to severe backlash and accusations of anti-Semitism. The author points out that
+      Western politicians and media can openly condemn the violence in Sudan without
+      fear of career repercussions or censorship, unlike the situation for those who
+      criticize Israel. This disparity is attributed to the influence of powerful lobby
+      groups and the complicity of Western governments in supporting genocidal actions,
+      particularly in the context of the UAE's role in the region. The author argues
+      that the ongoing crisis in Sudan is a consequence of Western imperialism, contrasting
+      it with the more contentious discourse surrounding Gaza.
+    published: '2025-10-30T00:29:00+00:00'
+  - title: It's Just Wall-To-Wall News Stories About The US And Its Allies Abusing The
+      World
+    url: https://www.caitlinjohnst.one/p/its-just-wall-to-wall-news-stories
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s just news story after news story about the US and its allies terrorizing
+      the world today. The Rapid Support Forces (RSF) have been filming themselves committing
+      horrific massacres in Sudan over the last couple of days, reportedly murdering
+      some two thousand civilians. You can see the bloodstains on the ground in satellite
+      images . As we discussed the other day , the RSF and its atrocities are backed
+      by the UAE, a close partner of the United States. Meanwhile Israel has committed
+      another wave of massacres of its own throughout the Gaza Strip, reportedly killing
+      104 people in a single day, including 46 children. This is as many Palestinians
+      as would typically be killed on any given day in Gaza prior to the so-called “ceasefire”.
+      CBS News’ 60 Minutes has released a cartoonishly blatant war propaganda piece
+      on “Nicolas Maduro, Venezuela’s dictator” about how poor and unhappy the people
+      of Venezuela are under their current government. The piece featured an interview
+      with Republican Senator Rick Scott, who said that “If I was Maduro I’d head to
+      Russia or China right now; his days are numbered.” The US can make threats, impose
+      sanctions and amass war machinery, but you don’t truly know they’re serious about
+      attacking a country until they start churning out Pentagon propaganda in the mainstream
+      press. https://x.com/TheGreeneBJ/status/1983185928278667419 In the same interview,
+      Scott also said that if Maduro is successfully ousted, “it’ll be the end of Cuba.”
+      “America is gonna take care of the southern hemisphere and make sure there’s freedom
+      and democracy,” he added. The senator’s statements suggest that the US is preparing
+      a push in Latin America similar to what it has been executing with Israel in the
+      middle east, eliminating any powers which refuse to bend the knee. South of the
+      US border the top two disobedient governments are the socialist states of Venezuela
+      and Cuba. In the middle east the US and Israel have spent the last two years bombing
+      Iran and Yemen, securing a regime change in Syria, and doing everything they can
+      to eliminate Hamas and Hezbollah in order to rule the region uncontested. And
+      of course we’ve still got the horrifying US proxy war in Ukraine, where men continue
+      to be dragged off against their will to fight in a nightmarish conflict that most
+      Ukrainians now oppose , but which Zelensky is saying he intends to keep fighting
+      for years against the will of the public. This whole miserable ordeal could have
+      been avoided with a little diplomacy and a few low-cost concessions, but the western
+      power alliance avoided off-ramp after off-ramp in order to ensure that Russia
+      would get sucked into another costly military quagmire. All over the world the
+      US and its allies are murdering and abusing people in order to dominate the planet
+      and ensure the survival of the capitalist system with which its power is intertwined.
+      It is a giant murder machine feeding on human blood and the life force of our
+      biosphere while providing nothing but obstacles to a healthy world. The US-centralized
+      empire is a disease that affects our entire species. We had better find a cure,
+      and fast. ______________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article highlights recent atrocities committed by the
+      Rapid Support Forces in Sudan, backed by the UAE and the US, as well as Israel's
+      ongoing violence in Gaza, while criticizing a CBS News segment portraying Venezuelan
+      leader Nicolás Maduro negatively.
+    paragraph_summary: The article discusses the ongoing violence and atrocities committed
+      by the Rapid Support Forces (RSF) in Sudan, which have reportedly killed around
+      2,000 civilians, with backing from the UAE, a US ally. It also highlights Israel's
+      recent military actions in Gaza, resulting in the deaths of 104 people in a single
+      day, including many children, amidst a backdrop of violence that has become commonplace
+      in the region. Additionally, the article critiques a CBS News segment portraying
+      Venezuelan President Nicolás Maduro negatively, featuring Republican Senator Rick
+      Scott, who suggests that the US is poised to intervene in Latin America to eliminate
+      governments like Venezuela and Cuba that resist US influence. The piece implies
+      that the US is intensifying its efforts to impose its agenda in both the Middle
+      East and Latin America, using propaganda and military threats to achieve its goals.
+    published: '2025-10-29T12:32:49+00:00'
+  - title: It's Just Wall-To-Wall News Stories About The US And Its Allies Abusing The
+      World
+    url: https://www.caitlinjohnst.one/p/its-just-wall-to-wall-news-stories
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s just news story after news story about the US and its allies terrorizing
+      the world today. The Rapid Support Forces (RSF) have been filming themselves committing
+      horrific massacres in Sudan over the last couple of days, reportedly murdering
+      some two thousand civilians. You can see the bloodstains on the ground in satellite
+      images . As we discussed the other day , the RSF and its atrocities are backed
+      by the UAE, a close partner of the United States. Meanwhile Israel has committed
+      another wave of massacres of its own throughout the Gaza Strip, reportedly killing
+      104 people in a single day, including 46 children. This is as many Palestinians
+      as would typically be killed on any given day in Gaza prior to the so-called “ceasefire”.
+      CBS News’ 60 Minutes has released a cartoonishly blatant war propaganda piece
+      on “Nicolas Maduro, Venezuela’s dictator” about how poor and unhappy the people
+      of Venezuela are under their current government. The piece featured an interview
+      with Republican Senator Rick Scott, who said that “If I was Maduro I’d head to
+      Russia or China right now; his days are numbered.” The US can make threats, impose
+      sanctions and amass war machinery, but you don’t truly know they’re serious about
+      attacking a country until they start churning out Pentagon propaganda in the mainstream
+      press. https://x.com/TheGreeneBJ/status/1983185928278667419 In the same interview,
+      Scott also said that if Maduro is successfully ousted, “it’ll be the end of Cuba.”
+      “America is gonna take care of the southern hemisphere and make sure there’s freedom
+      and democracy,” he added. The senator’s statements suggest that the US is preparing
+      a push in Latin America similar to what it has been executing with Israel in the
+      middle east, eliminating any powers which refuse to bend the knee. South of the
+      US border the top two disobedient governments are the socialist states of Venezuela
+      and Cuba. In the middle east the US and Israel have spent the last two years bombing
+      Iran and Yemen, securing a regime change in Syria, and doing everything they can
+      to eliminate Hamas and Hezbollah in order to rule the region uncontested. And
+      of course we’ve still got the horrifying US proxy war in Ukraine, where men continue
+      to be dragged off against their will to fight in a nightmarish conflict that most
+      Ukrainians now oppose , but which Zelensky is saying he intends to keep fighting
+      for years against the will of the public. This whole miserable ordeal could have
+      been avoided with a little diplomacy and a few low-cost concessions, but the western
+      power alliance avoided off-ramp after off-ramp in order to ensure that Russia
+      would get sucked into another costly military quagmire. All over the world the
+      US and its allies are murdering and abusing people in order to dominate the planet
+      and ensure the survival of the capitalist system with which its power is intertwined.
+      It is a giant murder machine feeding on human blood and the life force of our
+      biosphere while providing nothing but obstacles to a healthy world. The US-centralized
+      empire is a disease that affects our entire species. We had better find a cure,
+      and fast. ______________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article highlights recent atrocities committed by the
+      Rapid Support Forces in Sudan, backed by the UAE and the US, as well as Israel's
+      ongoing violence in Gaza, while criticizing a CBS News segment portraying Venezuelan
+      leader Nicolás Maduro negatively.
+    paragraph_summary: The article discusses the ongoing violence and atrocities committed
+      by the Rapid Support Forces (RSF) in Sudan, which have reportedly killed around
+      2,000 civilians, with backing from the UAE, a US ally. It also highlights Israel's
+      recent military actions in Gaza, resulting in the deaths of 104 people in a single
+      day, including many children, amidst a backdrop of violence that has become commonplace
+      in the region. Additionally, the article critiques a CBS News segment portraying
+      Venezuelan President Nicolás Maduro negatively, featuring Republican Senator Rick
+      Scott, who suggests that the US is poised to intervene in Latin America to eliminate
+      governments like Venezuela and Cuba that resist US influence. The piece implies
+      that the US is intensifying its efforts to impose its agenda in both the Middle
+      East and Latin America, using propaganda and military threats to achieve its goals.
+    published: '2025-10-29T12:32:49+00:00'
   - title: You Believe The Mainstream Narrative? Of Course You Do, You're Twelve
     url: https://www.caitlinjohnst.one/p/you-believe-the-mainstream-narrative
     text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article

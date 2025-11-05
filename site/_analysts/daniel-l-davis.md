@@ -7,16 +7,129 @@ description: "Retired US Army Lt. Colonel and defense fellow; contributes critic
 websites:
   - https://19fortyfive.com
 summary: |
-  As of October 29, 2025, global defense and security dynamics remain in flux, with major powers reassessing procurement strategies and facing critical capability gaps amid rising geopolitical tensions.
+  As of November 5, 2025, the global security landscape is being shaped by rapid technological advancements and shifting military strategies among major powers. Recent developments highlight Russia’s renewed focus on strategic air power, China’s evolving naval posture, and ongoing debates in Western defense procurement.
   
-  Canada’s reconsideration of its $19 billion CAD F-35 fighter jet purchase marks a significant development in North American defense cooperation. According to **Daniel L. Davis**, Ottawa is weighing alternatives such as the Saab JAS 39 Gripen due to ongoing trade tensions and persistent supply chain issues with the F-35 program. This potential shift could introduce complications for maintenance, pilot training, and, crucially, NORAD interoperability with the United States. The majority view among analysts is that any move away from the F-35 would likely weaken Canada’s integration with U.S. defense systems and could set a precedent for other allies facing similar procurement challenges.
+  Russia is making headlines with the reintroduction and modernization of its Tu-160M "Blackjack" bombers. According to **Daniel L. Davis**, these aircraft, originally designed in the 1980s, are being upgraded with new engines and avionics. While they lack stealth features, their enhanced speed and payload capacity signal Moscow’s intent to maintain a credible long-range strike capability. In parallel, Russia is advancing the MiG-41 fighter project, which **Davis** describes as aiming for "MACH 4.3 and potentially nearing MACH 5," a speed that would outpace current Western fighters like the F-22 and F-35. These moves underscore Russia’s commitment to technological parity, if not superiority, in certain domains.
   
-  Meanwhile, the U.S. Navy’s shrinking fleet continues to raise alarm. **Daniel L. Davis** notes that the Navy is projected to drop to just 280 warships by 2027, a stark contrast to China’s rapidly expanding naval capabilities. This trend, coupled with delays in critical programs such as the Columbia-class ballistic missile submarine (now not expected until 2031) and the next-generation SSN(X) attack submarine (first procurement not until 2040), points to a growing U.S. vulnerability in maritime power projection. Davis emphasizes that China is preparing for a potential major conflict, and the U.S. Navy’s readiness crisis could have far-reaching strategic consequences.
+  On the maritime front, China’s new aircraft carriers are drawing attention not just for their size but for their strategic orientation. **Daniel L. Davis** notes that these carriers may serve a primarily defensive role, aimed at safeguarding Chinese interests rather than projecting power aggressively. This assessment challenges prevailing narratives about Chinese expansionism and suggests a nuanced approach to regional security, especially in the context of a shrinking U.S. Navy, which is projected to fall to 280 warships by 2027.
   
-  On the technological front, the recent unveiling of the B-21 Raider’s engine exhaust system has drawn attention to American efforts to maintain a qualitative edge in stealth capabilities. As highlighted by **Daniel L. Davis**, the exhaust design is a pivotal component in reducing the bomber’s infrared and radar signatures, underscoring the U.S. commitment to next-generation deterrence even as quantitative gaps widen.
+  Meanwhile, in North America, Canada’s reconsideration of its F-35 procurement—prompted by trade tensions and supply chain issues—raises questions about future interoperability within NORAD. The potential shift to Saab’s JAS 39 Gripen, as reported by **Davis**, could complicate maintenance and training, further straining U.S.-Canada defense cooperation.
   
-  Looking ahead, the prevailing trend is one of increasing uncertainty for Western defense planning. There is a high chance that Canada’s fighter jet decision will reverberate across NATO, potentially encouraging other countries to reconsider U.S.-centric procurement. Simultaneously, the U.S. Navy’s shrinking fleet and delayed modernization efforts most definitely signal a relative decline in American maritime dominance, especially in the Indo-Pacific. The technological edge offered by platforms like the B-21 Raider will remain vital, but without sufficient numbers and timely procurement, the U.S. and its allies risk ceding strategic initiative to adversaries.
+  **Trends and Predictions:**  
+  The majority of sources agree that Russia’s investment in high-speed, non-stealth platforms reflects both technological ambition and resource constraints. China’s naval buildup is likely to continue, but with a focus on regional defense rather than outright power projection. The U.S. and its allies face growing challenges in maintaining technological and operational advantages, particularly as procurement and readiness issues persist. I guarantee that the next 12-24 months will see intensified competition in aerospace and naval capabilities, with a high chance of further procurement debates among Western allies.
 articles:
+  - title: Russia’s New Mach 2 Tu-160M Bomber Can Be Summed Up In Just 2 Words
+    url: https://www.19fortyfive.com/2025/11/russias-new-mach-2-tu-160m-bomber-can-be-summed-up-in-just-2-words/
+    text: In what might seem like an odd move, the Russian Aerospace Forces have been
+      reintroducing the 1980s-era Tu-160M “Blackjack” bombers into production. In 1995,
+      they ceased producing the large, non-stealthy supersonic bombers, but they reversed
+      that decision 10 years ago.  Now, the Russians are upgrading the aircraft with
+      newer, better engines, revamped avionics, updated onboard […] The post Russia’s
+      New Mach 2 Tu-160M Bomber Can Be Summed Up In Just 2 Words appeared first on 19FortyFive
+      .
+    one_sentence_summary: Russia is reintroducing and upgrading the 1980s-era Tu-160M
+      "Blackjack" bombers, enhancing them with modern engines and avionics despite their
+      non-stealthy design.
+    paragraph_summary: The Russian Aerospace Forces have resumed production of the 1980s-era
+      Tu-160M "Blackjack" bombers, which had been discontinued in 1995 but saw a revival
+      a decade ago. The updated bombers feature enhancements such as improved engines,
+      modernized avionics, and upgraded onboard systems, reflecting Russia's commitment
+      to reinvigorating its military capabilities with these non-stealthy supersonic
+      aircraft.
+    published: '2025-11-01T17:11:11+00:00'
+  - title: Russia’s New Mach 2 Tu-160M Bomber Can Be Summed Up In Just 2 Words
+    url: https://www.19fortyfive.com/2025/11/russias-new-mach-2-tu-160m-bomber-can-be-summed-up-in-just-2-words/
+    text: In what might seem like an odd move, the Russian Aerospace Forces have been
+      reintroducing the 1980s-era Tu-160M “Blackjack” bombers into production. In 1995,
+      they ceased producing the large, non-stealthy supersonic bombers, but they reversed
+      that decision 10 years ago.  Now, the Russians are upgrading the aircraft with
+      newer, better engines, revamped avionics, updated onboard […] The post Russia’s
+      New Mach 2 Tu-160M Bomber Can Be Summed Up In Just 2 Words appeared first on 19FortyFive
+      .
+    one_sentence_summary: Russia is reintroducing and upgrading the 1980s-era Tu-160M
+      "Blackjack" bombers, enhancing them with modern engines and avionics despite their
+      non-stealthy design.
+    paragraph_summary: The Russian Aerospace Forces have resumed production of the 1980s-era
+      Tu-160M "Blackjack" bombers, which had been discontinued in 1995 but saw a revival
+      a decade ago. The updated bombers feature enhancements such as improved engines,
+      modernized avionics, and upgraded onboard systems, reflecting Russia's commitment
+      to reinvigorating its military capabilities with these non-stealthy supersonic
+      aircraft.
+    published: '2025-11-01T17:11:11+00:00'
+  - title: Russia’s New Mach 4.3 MiG-41 Fighter Can Be Summed Up in 4 Words
+    url: https://www.19fortyfive.com/2025/11/russias-new-mach-4-3-mig-41-fighter-can-be-summed-up-in-4-words/
+    text: Wow, talk about a hot rod interceptor with amazing speed. The Russian MiG-41
+      is trying to outfly the F-22 and F-35 someday. The MiG-41 is advertised as having
+      a top speed of MACH 4.3 – maybe even approaching MACH 5.  That’s a blistering
+      velocity that would make it one of the fastest, if not the […] The post Russia’s
+      New Mach 4.3 MiG-41 Fighter Can Be Summed Up in 4 Words appeared first on 19FortyFive
+      .
+    one_sentence_summary: The Russian MiG-41 fighter jet, boasting a top speed of MACH
+      4.3 and potentially nearing MACH 5, aims to surpass the performance of the F-22
+      and F-35.
+    paragraph_summary: The Russian MiG-41 is a high-speed interceptor aircraft aiming
+      to surpass the capabilities of the F-22 and F-35, boasting an impressive top speed
+      of MACH 4.3, with potential to reach MACH 5. This remarkable velocity positions
+      the MiG-41 as one of the fastest fighter jets in development, highlighting its
+      advanced performance features.
+    published: '2025-11-01T17:06:30+00:00'
+  - title: Russia’s New Mach 4.3 MiG-41 Fighter Can Be Summed Up in 4 Words
+    url: https://www.19fortyfive.com/2025/11/russias-new-mach-4-3-mig-41-fighter-can-be-summed-up-in-4-words/
+    text: Wow, talk about a hot rod interceptor with amazing speed. The Russian MiG-41
+      is trying to outfly the F-22 and F-35 someday. The MiG-41 is advertised as having
+      a top speed of MACH 4.3 – maybe even approaching MACH 5.  That’s a blistering
+      velocity that would make it one of the fastest, if not the […] The post Russia’s
+      New Mach 4.3 MiG-41 Fighter Can Be Summed Up in 4 Words appeared first on 19FortyFive
+      .
+    one_sentence_summary: The Russian MiG-41 fighter jet, boasting a top speed of MACH
+      4.3 and potentially nearing MACH 5, aims to surpass the performance of the F-22
+      and F-35.
+    paragraph_summary: The Russian MiG-41 is a high-speed interceptor aircraft aiming
+      to surpass the capabilities of the F-22 and F-35, boasting an impressive top speed
+      of MACH 4.3, with potential to reach MACH 5. This remarkable velocity positions
+      the MiG-41 as one of the fastest fighter jets in development, highlighting its
+      advanced performance features.
+    published: '2025-11-01T17:06:30+00:00'
+  - title: China’s New Aircraft Carriers Have 1 Big Advantage Over the Navy
+    url: https://www.19fortyfive.com/2025/11/chinas-new-aircraft-carriers-have-1-big-advantage-over-the-navy/
+    text: Most China watchers assume that leaders in Beijing always want to go on the
+      offensive militarily, whether it is attacking Taiwan, taking more island territory,
+      or exporting its authoritarian government system to other countries in the developing
+      world.  But another way to look at it is that China is playing defense, and it
+      can accomplish […] The post China’s New Aircraft Carriers Have 1 Big Advantage
+      Over the Navy appeared first on 19FortyFive .
+    one_sentence_summary: The article suggests that rather than being purely aggressive,
+      China's military strategy, exemplified by its new aircraft carriers, may be more
+      defensive in nature, aimed at protecting its interests rather than expanding its
+      territory or influence.
+    paragraph_summary: The article challenges the common perception that China's leadership
+      is primarily aggressive in its military ambitions, such as potential actions against
+      Taiwan or territorial expansion. Instead, it suggests that China may be adopting
+      a defensive posture, leveraging its military capabilities, particularly its new
+      aircraft carriers, to protect its interests and maintain stability rather than
+      provoke conflict. This perspective highlights a strategic approach that prioritizes
+      defense while still enhancing China's naval power.
+    published: '2025-11-01T17:02:09+00:00'
+  - title: China’s New Aircraft Carriers Have 1 Big Advantage Over the Navy
+    url: https://www.19fortyfive.com/2025/11/chinas-new-aircraft-carriers-have-1-big-advantage-over-the-navy/
+    text: Most China watchers assume that leaders in Beijing always want to go on the
+      offensive militarily, whether it is attacking Taiwan, taking more island territory,
+      or exporting its authoritarian government system to other countries in the developing
+      world.  But another way to look at it is that China is playing defense, and it
+      can accomplish […] The post China’s New Aircraft Carriers Have 1 Big Advantage
+      Over the Navy appeared first on 19FortyFive .
+    one_sentence_summary: The article suggests that rather than being purely aggressive,
+      China's military strategy, exemplified by its new aircraft carriers, may be more
+      defensive in nature, aimed at protecting its interests rather than expanding its
+      territory or influence.
+    paragraph_summary: The article challenges the common perception that China's leadership
+      is primarily aggressive in its military ambitions, such as potential actions against
+      Taiwan or territorial expansion. Instead, it suggests that China may be adopting
+      a defensive posture, leveraging its military capabilities, particularly its new
+      aircraft carriers, to protect its interests and maintain stability rather than
+      provoke conflict. This perspective highlights a strategic approach that prioritizes
+      defense while still enhancing China's naval power.
+    published: '2025-11-01T17:02:09+00:00'
   - title: 'Forget the F-35: Could Canada Fly the JAS 39 Gripen?'
     url: https://www.19fortyfive.com/2025/10/forget-the-f-35-could-canada-fly-the-jas-39-gripen/
     text: 'Key Points and Summary – Ottawa is reviewing its $19B CAD F-35 purchase amid

@@ -7,17 +7,606 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  The past 24 hours have seen intensifying scrutiny of media independence and humanitarian law in the context of the ongoing Gaza conflict, as well as renewed attention to U.S. interventionism in Latin America.
+  As global tensions persist across multiple fronts, recent developments highlight the interplay between environmental accountability, nuclear brinkmanship, and shifting alliances in critical resources. These issues are unfolding against a backdrop of ongoing conflicts and contested narratives, with new information shedding light on the underlying dynamics.
   
-  Australia’s National Press Club has come under fire for its abrupt cancellation of a scheduled address by war correspondent Chris Hedges, who was set to discuss media coverage of the Gaza war. **Binoy Kampmark** notes that this move has “raised questions about bias and the influence of lobby groups on media narratives,” particularly regarding the risks faced by Palestinian journalists. The incident is widely viewed as symptomatic of broader pressures on Western media to align with pro-Israel positions, further marginalizing Palestinian voices and critical perspectives.
+  The most recent controversy centers on Amazon’s data centers and their environmental impact. Despite public commitments to sustainability, Amazon faces mounting criticism for its lack of transparency regarding water consumption as it rapidly expands operations. **Binoy Kampmark** notes that the company’s sustainability initiatives may serve to “obscure the true environmental impact of its practices,” raising questions about corporate responsibility amid growing resource scarcity. This lack of disclosure is particularly concerning given the increasing demand for water-intensive data infrastructure worldwide.
   
-  Meanwhile, the International Court of Justice (ICJ) continues to address the deepening humanitarian crisis in Gaza. According to **Binoy Kampmark**, the court is issuing “provisional orders and advisory opinions” that underscore Israel’s obligations as an occupying power to facilitate humanitarian aid. However, both Israeli authorities and the U.S. remain resistant to the involvement of UNRWA and the broader international community in aid distribution, fueling concerns about the politicization of humanitarian relief and the worsening conditions on the ground.
+  Meanwhile, nuclear policy remains a source of global anxiety. President Trump’s recent boasts about potential renewed U.S. nuclear testing have reignited fears of an accelerated arms race. **Binoy Kampmark** critiques the “unfulfilled promises of disarmament by nuclear-armed states,” warning that such rhetoric could exacerbate international tensions. Layoffs at the National Nuclear Security Administration further complicate the situation, as budget cuts undermine the very workforce tasked with maintaining the U.S. arsenal. The paradox of pushing for nuclear modernization while reducing oversight capacity is, as Kampmark observes, a “recipe for instability.”
   
-  In Latin America, the Trump administration’s military actions against Venezuelan vessels in international waters have escalated. **Binoy Kampmark** highlights that these strikes, justified as counter-narcotics operations, are widely interpreted as a pretext for broader regime change efforts. The legality of these actions is increasingly questioned, with many analysts warning of a deliberate U.S. strategy to reassert control over the region under the guise of anti-drug operations.
+  On the resource front, Australia’s deepening alignment with the United States over critical minerals and defense technology continues to draw scrutiny. The recent White House meeting between Prime Minister Albanese and President Trump produced a framework for cooperation that, according to **Binoy Kampmark**, raises “concerns about Australian sovereignty and the unequal nature of the partnership.” While media coverage has focused on diplomatic optics, the strategic implications—particularly for Australia’s autonomy—are significant.
   
   **Trends and Predictions:**  
-  The clampdown on dissenting media voices in Western democracies is likely to intensify as the Gaza conflict drags on, with a high chance of further marginalization of critical reporting. The ICJ’s involvement in Gaza is expected to increase international pressure on Israel, but with only a medium chance of meaningful change in the short term, given U.S. backing for Israeli policies. In Latin America, there is a high chance that U.S. interventionism will escalate, particularly if the Trump administration continues to frame its actions as anti-narcotics operations, despite growing international legal concerns. Overall, the majority of analysts agree that these developments signal a period of heightened geopolitical tension and shrinking space for independent scrutiny.
+  The majority of analysts agree that corporate greenwashing, especially in the tech sector, will come under increasing scrutiny as environmental crises intensify. There is a high chance that Amazon and similar firms will face regulatory pressure to disclose resource usage more transparently. On the nuclear front, there is a high chance that renewed U.S. testing rhetoric will provoke reciprocal moves from other nuclear powers, increasing the risk of escalation—though actual testing remains less certain. Regarding Australia-U.S. resource cooperation, there is a high chance that domestic opposition in Australia will grow, but the strategic partnership will most definitely deepen, given current geopolitical alignments.
+  
+  In sum, the coming weeks will likely see heightened debate over environmental transparency, nuclear policy, and resource sovereignty, with significant implications for global stability and governance.
 articles:
+  - title: 'Draining Practices: Amazon, Water Consumption and Data Centers'
+    url: https://www.counterpunch.org/2025/11/04/draining-practices-amazon-water-consumption-and-data-centers/
+    text: 'Amazon, ruthless, mean spirited, soulless and wedded to the obscene profit
+      margin, is also in the business of habitual deception. When it comes to the use
+      of water for its thirsty data centres, this is most telling. In its aggressive
+      push towards artificial intelligence, more are set for construction. When one
+      considers that, in 2021 alone, US data centres were found to be consuming approximately
+      415,000 acre-feet of water, the statistics are bound to be staggering.
+
+
+      Unlike its competitors, the tech behemoth is rather cagey on how much water is
+      used by its data centres. Statistics on absolute water consumption are simply
+      never provided. There is some speculation that water usage may be relatively less
+      in some instances, given the company’s focus on using evaporative cooling systems
+      which only turn on when temperatures reach unacceptable levels.
+
+
+      Will Hewes, who steers the water sustainability efforts for the company at Amazon
+      Web Services (AWS), gives the impression that using water is a lesser evil, as
+      it “reduces the amount of energy that we use”, which assists the company meet
+      “other sustainability goals.” In an interview with Grist in August 2024, he explains
+      that the company “could always decide not to use water for cooling, but we want
+      to, a lot, because of those energy and efficiency benefits.” To this apparent
+      nod to environmental decency, Hewes goes on to remark that “big portions of our
+      data center footprint are in places that aren’t super hot, that aren’t in super
+      water stressed regions.” Virginia and Ohio are mentioned as places where the need
+      to use water cooling is only pressing during the hot periods of summer.
+
+
+      Hewes was giving a barely good impression of verisimilitude. As with Microsoft
+      and Google, Amazon is eagerly constructing data centres in a more systematic,
+      global way, invariably focusing on areas of high aridity. Three data centres,
+      for instance, are proposed for Aragon in northern Spain, all to accompany existing
+      Amazon data centres. These will be licensed to use 755,720 cubic metres of water
+      annually, an amount sufficient to irrigate over 200 hectares (500 acres) of corn,
+      a staple of the region. According to SourceMaterial, the water usage promises
+      to be even greater, as that figure fails to consider “water used in generating
+      electricity to power the new installations”.
+
+
+      A stark, consistent tendency is evident in the company’s practices: They are trustworthy
+      on the subject of water consumption. Take, for instance, the glossy optimism of
+      its November 2022 “Water Positive” initiative, intended to apply, not to the company’s
+      entire operations, but to AWS. The intention is to return more water to communities
+      than is used by the company in AWS global operations by 2030, and direct operations
+      in all Amazon facilities in India by 2027. Last month, AWS announced that it had
+      reached 53% of its Water Positive goal.
+
+
+      One month prior to the launch of the initiative, a strategic memo titled “AWS
+      Water Positive Public Launch” circulated within the company. It was never intended
+      for public consumption, but recently, both The Guardian and SourceMaterial, managed
+      to gain access to it. The authors of the document are mindful that any increase
+      in the company’s projected water use would be detrimental to image and reputation.
+      It was therefore more prudent to avoid making reference to secondary water use,
+      as it “would double the size and budget” for the campaign while not “addressing
+      meaningful operational, regulatory or reputational risks”. The authors further
+      added that there was “no focus from customers or media” on water used for electricity
+      consumption.
+
+
+      The plan by the company was to make water efficiency savings through cutting its
+      7.7-billion-gallon primary consumption to 4.9 billion by 2030, all the while failing
+      to address the thorny issue of secondary use. Secondary data would only be released
+      if demanded by regulators. “We may decide to release water volumes in the future,”
+      the authors propose, but doing so would be “a one-way door and we should only
+      do so if the lack of data undermines the programme or is required by regulators.”
+
+
+      Those behind the strategy document were not ignorant about the consequences of
+      rationing the accuracy on water consumption. There was “reputational risk of publicly
+      committing to a goal for only a portion of Amazon’s direct water footprint.” Certain
+      potential press headlines were floated: “Amazon hides its water consumption behind
+      AWS” and “Amazon disappoints, failing to take full responsibility for water” were
+      two suggestions.
+
+
+      Already attuned to the implications of this snag, Amazon spokeswoman Margaret
+      Callahan suggested that the document was only of historical interest. It was “obsolete”
+      and, in any case “completely misrepresents Amazon’s current water usage strategy”.
+      The models referenced in the memo “were preliminary and unvetted.” In a marketplace
+      of rampant dishonesty, she also thought it good to point out that other companies
+      were just as culpable for not counting secondary water use in their figures. (Standards
+      are low in this field.) Focusing on the direct water footprint when implementing
+      “corporate water positive programs” was “in line with industry best practices
+      to ensure we’re making the most concentrated impact possible”.
+
+
+      As for accuracy or conclusiveness in such documents, best not count on them. “A
+      document’s existence doesn’t guarantee its accuracy or finality,” stated Callahan
+      with postmodern vacuity. Over the course of meetings, documents were often reshaped,
+      or flawed findings or claims exposed. Much in keeping with the conduct of governments,
+      Amazon operates with Machiavellian glee in an environment peopled by technological
+      princelings and ill-deserving brats. Its practices are not merely draining much-needed
+      water supplies but creating a system of sinister opacity and impunity.'
+    one_sentence_summary: Amazon is criticized for its lack of transparency regarding
+      water consumption in its data centers, particularly as it expands its operations
+      aggressively while promoting sustainability initiatives that may obscure the true
+      environmental impact of its practices.
+    paragraph_summary: The article critiques Amazon's approach to water usage in its
+      data centers, highlighting the company's lack of transparency regarding its water
+      consumption, particularly as it expands its operations to support artificial intelligence.
+      While Amazon claims to prioritize sustainability through initiatives like its
+      "Water Positive" goal, which aims to return more water to communities than it
+      uses, the article reveals that the company is evasive about the true extent of
+      its water usage, particularly secondary consumption related to energy generation.
+      Internal documents suggest that Amazon is aware of the reputational risks associated
+      with disclosing comprehensive water usage data and has strategically chosen to
+      focus on direct consumption to maintain a favorable public image. Overall, the
+      article portrays Amazon as operating with a lack of accountability and a tendency
+      towards deception in its environmental practices.
+    published: '2025-11-04T06:53:18+00:00'
+  - title: 'Teasing the Armageddon Fanciers: Trump’s Nuclear Testing Boast'
+    url: https://www.counterpunch.org/2025/11/03/teasing-the-armageddon-fanciers-trumps-nuclear-testing-boast/
+    text: 'Nuclear weapons have made the world safe for hypocrisy and unsafe in every
+      other respect. Astride the nonsense that is nuclear apartheid – the forced separation
+      of the states that are permitted to have nuclear weapons and those that do not
+      – sits that rumpled, crumpled creature called the Treaty on the Non-Proliferation
+      of Nuclear Weapons (NPT). For decades, the nuclear club has dangled an unfulfilled
+      promise to eventually disarm their arsenals by encouraging non-nuclear weapons
+      states to pursue peaceful uses of the atom. Preference, instead, has been given
+      to enlarging inventories and developing ever more ingenious and idiotic ways of
+      turning humans, and animal life, into ash and offal.
+
+
+      Little wonder that some countries have sought admission to the club via the backdoor,
+      avoiding the priestly strictures and promises of the NPT. The Democratic Republic
+      of North Korea is merely the unabashed example there while Israel remains even
+      less reputable for its coyness in possessing weapons it regards as both indispensable
+      and officially “absent”. Other countries, such as Iran, have been lectured, and
+      bombed into compliance. Again, more hypocrisy.
+
+
+      On such rocky terrain, the US President’s instruction to his newly named Department
+      of War to resume nuclear testing is almost prosaic, if characteristically inaccurate.
+      On social media, Donald Trump declared that, “Because of other countries testing
+      programs, I have instructed the Department of War to start testing our Nuclear
+      Weapons on an equal basis. That process will begin immediately.” Strictly speaking,
+      North Korea remains the black sheep of an otherwise unprincipled flock to consistently
+      test nuclear weapons since the late 1990s, while 187 states have added signatures
+      to the Comprehensive Test Ban Treaty (CTBT).
+
+
+      Other streaky details included the assertion that the US had a nuclear weapons
+      inventory larger than that of any other state, something “accomplished” through
+      “a complete update and renovation of existing weapons” during Trump’s first term.
+
+
+      The announcement did cause a titter among the nuclear chatting classes. “For both
+      technical and political reasons,” remarked Heather Williams, Director of the Project
+      on Nuclear Issues and a Senior Fellow in the Defense and Security Department at
+      the Center for Strategic and International Studies, “the United States is unlikely
+      to return to nuclear explosive testing any time soon”. She did concede that Trump’s
+      post pointed “to increasing nuclear competition between the United States, Russia,
+      and China.” Whatever the bluster, and however many bipartisan calls to do so,
+      the current administration had been “slow to seriously invest in this nuclear
+      competition.”
+
+
+      This line of reasoning is telling. The issue for Williams is not to decry the
+      resumption of a type of testing – the explosive, high-yield variety – less than
+      to chide the President for not taking a serious interest in joining the great
+      game of nuclear modernisation with other powers. “Nuclear testing is not the best
+      step forward in that competition, but it should raise alarm within the administration
+      about the state of the United States’ nuclear enterprise and the urgency of investing
+      in nuclear modernization.” And there you have it.
+
+
+      Rebeccah L. Heinrichs of the Hudson Institute does some speculative gardening
+      around the announcement with the same sentiment. Trump might have meant, she writes
+      in the Wall Street Journal, “conducting flight tests of delivery systems.” Maybe
+      he was referring to explosive yield-producing tests. And those naughty Russians
+      and Chinese were simply not behaving in terms of keeping their nuclear arsenals
+      splendidly inert. With the familiar nuclear hawkishness that occupies the world
+      of stubborn lunacy, Heinrichs is unequivocal about what the administration should
+      do: “Whatever Mr. Trump means by ‘testing,’ the US should work urgently to improve
+      and adapt its nuclear deterrent. To do this, Mr. Trump should let the last arms-control
+      treaty between the US and Russia – the New Strategic Arms Reduction Treaty, or
+      New Start – expire in February.” This, it seems, counts for good sense.
+
+
+      Other commentators tended to fall into the literal school of Trump interpretation.
+      There is no room for allegory, symbolism or fleeting suggestion there. Tilman
+      Ruff, affiliated with the International Physicians for the Prevention of Nuclear
+      War, among other groups, offers his concerns. “If Trump is referring to the resumption
+      of explosive nuclear testing, this would be an extremely unfortunate, regrettable
+      step by the United States,” he fears, writing in that blandest of fora, The Conversation.
+      “It would almost inevitably be followed by tit-for-tat reciprocal announcements
+      by other nuclear-armed states, particularly Russia and China, and cement an accelerating
+      arms race that puts us all in great jeopardy.”
+
+
+      Ruff points out the obvious dangers of such a resumption: the risks of global
+      radioactive fallout; the risk, even if the tests were conducted underground, of
+      “the possible release and venting of radioactive materials, as well as the potential
+      leakage into groundwater.” Gloomy stuff indeed.
+
+
+      Others did the inevitable and, in Trump’s case, inconsequential thing of trying
+      to correct America’s highest magistrate by appealing to hard boiled facts. “Nothing
+      [in the announcement] is correct,” grumbled Tom Nichols from The Atlantic. “Trump
+      did not create a larger stockpile by ‘updating’ in his first term. No nation except
+      North Korea has tested nuclear weapons since the 1990s.”
+
+
+      At The New York Times, W. J. Hennigan took some relish in pointing out that the
+      province of nuclear testing lay, not with the Pentagon, but the Energy Department.
+      But then came the jitters. “The president’s ambiguity is worrisome not only because
+      America’s public can’t know what he means, but because America’s adversaries don’t.”
+
+
+      The problem goes deeper than that, and Hennigan admits that the breaking of the
+      moratorium on nuclear testing is always something peaking around the corner. The
+      US, for instance, is constructing the means of conducting “subcritical nuclear
+      tests, or underground experiments that test nuclear components of a war head but
+      stop short of creating a nuclear chain reaction, and therefore, a full weapons
+      test.”
+
+
+      Even if the Trump announcement was to be taken seriously – and there is much to
+      suggest that it be confined to a moment of loose thinking in cerebral twilight
+      – dangers of any resumption of full testing will only marginally endanger the
+      planet more than matters stand. The nuclear club, with its Armageddon fanciers
+      and Doomsday flirters, remains snobbishly determined to keep the world in permanent
+      danger. An arms race is already taking place, however euphemised it might be.'
+    one_sentence_summary: The article critiques the hypocrisy surrounding nuclear weapons,
+      highlighting the unfulfilled promises of disarmament by nuclear-armed states and
+      the potential dangers of renewed U.S. nuclear testing under President Trump, which
+      could exacerbate global tensions and accelerate an arms race.
+    paragraph_summary: The article critiques the hypocrisy surrounding nuclear weapons,
+      highlighting the disparity between nuclear-armed states and non-nuclear states
+      under the Treaty on the Non-Proliferation of Nuclear Weapons (NPT). It discusses
+      the recent announcement by former President Donald Trump to resume nuclear testing,
+      which has sparked concern among experts about escalating nuclear competition among
+      the U.S., Russia, and China. While some commentators interpret Trump's statement
+      literally, fearing a return to explosive testing could trigger an arms race, others
+      suggest it reflects a need for the U.S. to modernize its nuclear arsenal. The
+      article emphasizes the ongoing dangers posed by nuclear weapons and the precarious
+      nature of global security, suggesting that the current state of affairs is marked
+      by a troubling blend of complacency and competition among nuclear powers.
+    published: '2025-11-03T06:53:23+00:00'
+  - title: 'Furloughing Workers for Armageddon: Trump, Nuclear Weapons and the NNSA'
+    url: https://www.counterpunch.org/2025/10/31/furloughing-workers-for-armageddon-trump-nuclear-weapons-and-the-nnsa/
+    text: 'Instead of satirising nuclear war – a possible if difficult thing to do –
+      the time has come to satirise the laying off and furlough of those who solemnly
+      monitor and maintain such machinery fit, not for preserving life so much as ending
+      it at a fiery, radiated terminus. If it’s not possible to totally disarm a nuclear
+      inventory, it might be possible to reduce the forces behind them or render some
+      idle. It turns out that this is happening in Freedom’s Land itself, the United
+      States of America.
+
+
+      Those responsible for maintaining the US nuclear weapons arsenal have not been
+      having the best of years. In February, President Donald Trump signed an executive
+      order directing the heads of agencies to “promptly undertake preparations to initiate
+      large-scale reductions in force, consistent with applicable law”. This was part
+      of the now infamous Department of Government Efficiency Workforce Optimization
+      Initiative. Within a few days, 300 employees at the National Nuclear Security
+      Administration (NNSA), located within the Department of Energy, were fired. Prior
+      to that, it had 2,000 staff and 55,000 contractors at its disposal.
+
+
+      The NNSA describes, as one of its “core missions” ensuring that the US “maintains
+      a safe, secure, and reliable nuclear stockpile through the application of unparalleled
+      science, technology, engineering, and manufacturing.” Easy to forget, on reading
+      this, that we are not talking about agricultural supplies or lifesaving medicines,
+      but over 3,000 nuclear warheads and ongoing production specific to that agency.
+      “The Office of Defense programs,” the description goes on to say, “carries out
+      NNSA’s mission to maintain and modernize the nuclear stockpile through the Stockpile
+      Stewardship and Management System.”
+
+
+      NNSA deputy division director, Rob Plonski, was understandably upset that his
+      citadel was being thinned. Ego, reputation and prowess in the nuclear field was
+      at stake. “We cannot expect to project strength, deterrence and world dominance
+      while simultaneously stripping away the federal workforce,” he moaned in a post
+      on LinkedIn. He would have taken heart by the subsequent rescinding of the termination
+      decision for all but 28 of the staff by NNSA acting director Teresa Robbins.
+
+
+      Trump, on the other hand, was having one of his more lucid moments, telling reporters
+      on February 13 that nuclear forces should not be exempt from budgetary trimming.
+      “There’s no reason for us to be building brand-new nuclear weapons. We already
+      have so many, you could destroy the world 50 times over, 100 times over.” Daryl
+      Kimball, executive director of the Arms Control Association, was having none of
+      that. DOGE employees, he charged, were storming “in with absolutely no knowledge
+      of what these departments are responsible for.” They barely realised that the
+      purge was less to do with the Department of Energy than “the department of nuclear
+      weapons”.
+
+
+      In October, the NNSA was again revisited by crisis, with the decision to furlough
+      1,400 employees due to that event distinct to US politics, the government shutdown.
+      Till that point, the shutdown had lasted almost three weeks, with the Senate failing
+      to pass a continuing resolution bill since October 1. Only 400 essential employees
+      are being retained, labouring in patriotic sweat without pay. A spokesperson for
+      the DOE explained that they would be working “to support the protection of property
+      and safety of human life.”
+
+
+      Since its creation in 2000, the agency has had few such hiccups. “This has never
+      happened before,” noted Energy Secretary Chris Wright during a news conference
+      at the Nevada National Security Site on October 20. “This should not happen.”
+      Wright, however, spoke of pursuing “creative ways” in paying the vast number of
+      contractors, at least till the end of October.
+
+
+      Particular concern centres on the Pantex plant in Texas, the assembly and disassembling
+      site for nuclear weapons, and the Y-12 National Security Complex in Tennessee,
+      responsible for, according to the DOE, the retrieval and storage of nuclear materials,
+      fuelling of naval reactors, and the performance of “complementary work for other
+      government and private-sector entities.”
+
+
+      The NNSA had tried to argue that money be made available from previously passed
+      spending bills to prevent the furlough. A DOE spokesperson proved icy in remarking
+      that, “While the administration was able to identify funds to keep NNSA weapons
+      laboratories, plants, and sites operating with our contractors, legal and budgetary
+      limitations required the administration to begin furloughing NNSA federal employees”.
+
+
+      Therein lies the problem. To maintain and reproduce an arsenal of mass death and
+      thanatotic desire, you need people of suspended moral principles. “Oversight matters,”
+      Plonski remarks. “Reducing the federal workforce means increased risk in ensuring
+      the reliability and safety of our nuclear stockpile.” With the support of 26 lawmakers,
+      Rep. Dina Titus (D-Nev.) in her October 23 letter to Wright and NNSA administrator
+      Brandon Williams similarly argued that the federal employees in question “play
+      a critical oversight role in ensuring that the work required to maintain nuclear
+      security is carried out in accordance with long-standing policy and the law.”
+      Trump has also been fuzzy on the matter of nuclear weapons, acknowledging the
+      nonsense of increasing the pile, yet simultaneously wanting tighter deadlines
+      to deliver ever more modern weapons to the Pentagon.
+
+
+      This fantastically confused state of affairs throws up an interesting question:
+      Why not turn the attention to reducing the stockpile itself and pause the euphemistically
+      named modernisation process? A slimmer, sharper workforce for a more diminished,
+      manageable arsenal of death that should never be used in any case. The National
+      Security State remains, however, a tough, insatiable customer.'
+    one_sentence_summary: The article critiques the recent layoffs and furloughs of
+      employees at the National Nuclear Security Administration, highlighting the paradox
+      of reducing the workforce responsible for maintaining the U.S. nuclear arsenal
+      while questioning the need for nuclear modernization amidst budget cuts and government
+      shutdowns.
+    paragraph_summary: The article critiques the recent layoffs and furloughs of employees
+      at the National Nuclear Security Administration (NNSA) in the United States, highlighting
+      the irony of reducing the workforce responsible for maintaining the country's
+      nuclear arsenal amid ongoing discussions about nuclear disarmament. Following
+      President Trump's executive order aimed at budget cuts, the NNSA faced significant
+      staff reductions, including the firing of 300 employees and the furlough of 1,400
+      due to a government shutdown. Critics argue that these cuts jeopardize the safety
+      and reliability of the nuclear stockpile, which consists of over 3,000 warheads.
+      The article suggests that instead of merely trimming the workforce, there should
+      be a broader conversation about reducing the nuclear stockpile itself, advocating
+      for a more manageable and ethical approach to nuclear weapons management.
+    published: '2025-10-31T05:53:22+00:00'
+  - title: 'Mr President, Take Our Critical Minerals: Albanese in the White House'
+    url: https://www.counterpunch.org/2025/10/30/mr-president-take-our-critical-minerals-albanese-in-the-white-house/
+    text: 'The October 20 performance saw few transgressions and many feats of compliance.
+      As a guest in the White House, Australian Prime Minister Anthony Albanese was
+      in no mood to be combative, and US President Donald Trump was accommodating. There
+      was, however, an odd nervous glance shot at the host at various points.
+
+
+      The latest turn of events from the perspective of those believing in Australian
+      sovereignty, pitifully withered as it is, remains dark. In an attempt to seize
+      a share of a market currently dominated by China, Albanese has willingly placed
+      Australia’s rare earths and critical minerals at the disposal of US strategic
+      interests. The framework document focusing on mining and processing of such minerals
+      is drafted with the hollow language of counterfeit equality. The objective “is
+      to assist both countries in achieving resilience and security of minerals and
+      rare earths supply chains, including mining, separation and processing”. The necessity
+      of securing such supply is explicitly noted for reasons of war or, as the document
+      notes, “necessary to support manufacturing of defense and advanced technologies”
+      for both countries.
+
+
+      The US and Australia will draw on the money bags of the private sector to supplement
+      government initiatives (guarantees, loans, equity and so forth), an incentive
+      that will cause much salivating joy in the mining industry. Within 6 months “measures
+      to provide at least $1 billion in financing to projects located in each of the
+      United States and Australia expected to generate end product for delivery to buyers
+      in the United States and Australia.”
+
+
+      The inequality of the agreement does not bother such analysts as Bryce Wakefield,
+      Chief Executive Officer of the Australian Institute of International Affairs.
+      He mysteriously thinks that Albanese did not “succumb to the routine sycophancy
+      we’ve come to expect from other leaders”, something of a “win”. With the skill
+      of a cabalist, he identified the benefits in the critical minerals framework which
+      he thinks will be “the backbone for joint investment in at least six Australian
+      projects.” The agreement would “counter China’s dominance over rare earths and
+      supply chains.”
+
+
+      Much of what was agreed between Trump and Albanese was barely covered by the sleepwalking
+      press corps, despite the details of a White House factsheet. There were more extorting
+      deals extracted from Canberra, with agreements to purchase US$1.2 billion in Anduril
+      unmanned underwater vehicles and US$2.6 billion worth of Apache helicopters. Of
+      particular significance was the agreement to push Australia’s superannuation funds
+      to increase investments in the US to US$1.44 trillion by 2035, which would increase
+      the pool by US$1 trillion. “This unprecedented investment will create tens of
+      thousands of new, high paying jobs for Americans.”
+
+
+      Back in Australia, attention was focused on other things. The mock affair known
+      as the opposition party tried to make something of the personal ribbing given
+      by Trump to Australia’s ambassador to the United States, Kevin Rudd. Small minds
+      are distracted by small matters, and instead of taking issue with the appalling
+      cost of AUKUS with its chimerical submarines, or the voluntary relinquishment
+      of various sectors of the Australian economy to US control, Sussan Ley of the
+      Liberal Party was adamant that Rudd be sacked. This was occasioned by an encounter
+      where Trump had turned to the Australian PM to ask if “an ambassador” had said
+      anything “bad about me”. Trump’s follow up remarks: “Don’t tell me, I don’t want
+      to know.” The finger was duly pointed at Rudd by Albanese. “You said bad?” inquired
+      Trump. Rudd, never one to manage the brief response, spoke of being critical of
+      the president in his pre-ambassadorial phase but that was all in the past. “I
+      don’t like you either,” shot Trump in reply. “And I probably never will.”
+
+
+      This was enough to exercise Ley, who claimed to be “surprised that the president
+      didn’t know who the Australian ambassador was”. This showed her thin sheet grasp
+      of White House realities. Freedom Land’s previous presidents have struggled with
+      names, geography and memory, the list starting with such luminaries as Ronald
+      Reagan and George W. Bush. Not knowing the name of an ambassador from an imperial
+      outpost is hardly a shock.
+
+
+      The Australian papers and broadcasters, however, drooled and saw seismic history
+      in the presence of casual utterance. Sky News host Sharri Markson was reliably
+      idiotic: “The big news of course is President Trump’s meeting with Albanese today
+      and the major news story to come out of it is Trump putting Rudd firmly in his
+      place.” Often sensible in her assessments, the political columnist Annabel Crabb
+      showed she had lost her mind, imbibing the Trump jungle juice and relaying it
+      to her unfortunate readers. “From his humble early days as a child reading Hansard
+      in the regional Sunshine State pocket of Eumundi, Kevin Rudd has been preparing
+      for this martyrdom.”
+
+
+      Having been politically martyred by the Labor Party at the hands of his own deputy
+      Julia Gillard in June 2010, who challenged him for being a mentally unstable,
+      micromanaging misfit driving down poll ratings, this was amateurish. But a wretchedly
+      bad story should not be meddled with. At the very least, Crabb blandly offered
+      a smidgen of humour, suggesting that Albanese, having gone into the meeting “with
+      the perennially open chequebook for American submarines, plus an option over our
+      continent’s considerable rare-earths reserves” was bound to come with some human
+      sacrifice hovering “in the ether.”
+
+
+      In this grand abdication of responsibility by the press and bought think tankers,
+      little in terms of detail was discussed about the next annexation of Australian
+      control over its own affairs by the US. It was all babble about the views of Trump
+      and whether, in the words of Australian Foreign Minister Penny Wong, Rudd “did
+      an extremely good job, not only in getting the meeting, but doing the work on
+      the critical minerals deal and AUKUS”. For the experts moored in antipodean isolation,
+      Rudd had either been bad by being disliked for past remarks on the US chief magistrate,
+      or good in being a representative of servile facilitation. To give him his due,
+      Wakefield was correct to note how commentators in Australia “continue to personalise
+      the alliance” equating it to “an episode of The Apprentice.”'
+    one_sentence_summary: During a recent meeting between Australian Prime Minister
+      Anthony Albanese and US President Donald Trump, the two leaders discussed a framework
+      for cooperation on critical minerals and defense technology, but the agreement
+      raised concerns about Australian sovereignty and the unequal nature of the partnership,
+      while the media focused more on personal exchanges rather than the implications
+      of the deals made.
+    paragraph_summary: During the October 20 meeting between Australian Prime Minister
+      Anthony Albanese and US President Donald Trump at the White House, the atmosphere
+      was marked by compliance rather than confrontation, despite underlying tensions
+      regarding Australian sovereignty. Albanese's government has aligned Australia’s
+      rare earths and critical minerals with US strategic interests in a bid to counter
+      China's dominance in the market, although the agreement appears skewed in favor
+      of the US. Analysts like Bryce Wakefield view this as a potential boon for Australian
+      projects, while the media largely focused on trivial interactions, such as Trump's
+      ribbing of Australian Ambassador Kevin Rudd, rather than the significant military
+      and economic agreements made, including a $1.2 billion purchase of unmanned vehicles
+      and a push for Australian superannuation funds to invest heavily in the US. The
+      Australian press's fixation on personal dynamics overshadowed the more pressing
+      implications of the agreements, reflecting a broader abdication of responsibility
+      in scrutinizing the growing US influence over Australia's economic and strategic
+      autonomy.
+    published: '2025-10-30T05:53:45+00:00'
+  - title: Fake Boats and Bogus Admirals
+    url: https://www.counterpunch.org/2025/10/28/fake-boats-and-bogus-admirals/
+    text: 'The wish to be credulous is central to the fraudulent scheme. The one playing
+      the fraud can always rely on some connivance and collaboration from the tricked
+      and the gulled. Many an art curator is bound to turn scarlet at the prospect that
+      their expertise was utterly subverted by a counterfeiter of Picasso and Matisse.
+      The Hungarian painter Elmyr de Hory, immortalised in Orson Welles’s F for Fake,
+      is but one such example. Claiming to be a dispossessed aristocrat with a lucrative
+      stash of originals, he could whip up a Matisse in a matter of minutes. The rest
+      was seduction. And you can hardly blame those who purchased his masterful forgeries
+      which were, in some cases, arguably the equal of the original masters whose style
+      was so sincerely imitated.
+
+
+      Peter Cowell is yet another one of these figures of the conjuring trick. For 25
+      years he was able to pose as an admiral of a fictional fleet. Hardly odd, given
+      that the defence forces of the world are stuffed and oiled on fantastic assumptions
+      and inaccurate assessments on threats and exaggerated notions of insecurity. In
+      the industry, people fell for “Admiral Cowell”. There was nothing off about him,
+      even when there was. A picture published by the ABC shows a uniformed buffoonish
+      character with ill-fitting spectacles on a filled out, expansive face, suggesting
+      that he might be taking his role just a bit too seriously. But that is in the
+      nature of these projects: an appreciation for the costume and the custom. Wear
+      the costume well and you might be able to get away with murder.
+
+
+      The central project of deception was the mercy fleet dubbed the IntSAR, or International
+      Sea/Air Rescue, pitched as a scheme requiring an annual contribution of A$25 million
+      from partner nations. The sheer scale of the project seemed to resist questioning:
+      in the realm of charlatanry, it makes sense to go big.
+
+
+      In 2022, Cowell found himself in the company of then Fijian opposition leader
+      Sitiveni Rabuka, the High Commissioner for Fiji Ajay Amrit, and retired Colonel
+      Sakiusa Raivoce, one of the founders of the People’s Alliance Party. The ABC news
+      report notes the agenda of the discussion: the hatching of possible plans to establish
+      a base of operations for the mercy fleet that would operate in the region. A defence
+      contractor pseudonymously named “Joel” was also in attendance. Cordial as the
+      meeting was, nothing was etched.
+
+
+      But another meeting was scheduled to take place in March 2023, this time with
+      Rabuka as Fiji’s prime minister. Interest in the IntSAR program had lingered,
+      and a letter acknowledging Cowell’s urgings to pursue the project revealed Rabuka’s
+      agreement to meet him along with the Admiralty delegation in the capital. That
+      meeting never took place, Cowell being, by that point, stranded in Thailand and
+      short of cash for a fare to Fiji. Well and truly deceived, Rabuka was terse in
+      responding to questions put to him by the ABC. “I recall attending a meeting in
+      Fiji around 2022 with a delegation from Australia regarding a proposal to establish
+      a search and rescue operation in Fiji,” he stated. “However, nothing concrete
+      resulted from that discussion – no agreement was signed, and neither were any
+      funds or land handed over, or promised.” Notice, in these words, the false note
+      of circumspection and prudence that evidently failed to manifest in 2023.
+
+
+      In 2021, Cowell sought to interest the Federal Coalition government in the IntSAR
+      project. While it is not clear if the brief outlining the proposals was received,
+      let alone taken seriously, it made grand claims of having secured A$800 million
+      in funding from 30 member states, with the ultimate goal of obtaining contributions
+      from a further 120. “We request that the Morrison Government as a cabinet fully
+      support this diplomatic initiative as the Primary Diplomatic Sponsor Nation and
+      Host to the IntSAR Commission,” it read. Were this to happen, Cowell and his team
+      would “happily support Australia taking the credit for the initiative”. In May
+      2022, we find a frustrated Cowell lamenting a lack of government interest in his
+      enterprise, a missed opportunity costing thousands of “Aussie jobs”. IntSAR would
+      therefore take “its ship building needs to Asia. Our water bombers too. [A$]3.7
+      billion per year missed from the economic recovery.”
+
+
+      The Bathurst Regional Council also confirmed that representatives of the the IntSAR
+      commission approached it in 2020 with a proposal to develop an empty parcel of
+      land at the Bathurst airport in central New South Wales. From it would spring
+      a private airport and training facility. Cowell even sought to recruit a few individuals
+      for his phantom effort. One of them, former NSW police detective Scott Rogan,
+      now claims to have detected something smelly. “There were a few things that just
+      didn’t feel quite right about it all.”
+
+
+      Even now, Cowell flashes as a poster boy for the fooled, an advertisement for
+      the deluded. On LinkedIn, that platform where the lie becomes digestible fiction,
+      he advertises himself rather grandly as the former chairman of the IntSAR Admiralty
+      Board. In his listed experience about a fantasy, we get such offcuts as “diplomatic
+      coordinator” in efforts to establish the “IntSAR Commission by Treaty”. We see
+      him promoting himself as the “original theorist of asymmetric industrial relations”,
+      thrown in with the flatulent title of “geostrategic military consultant”. This
+      is the gold gibberish that makes sense in a social media world of ennobled mediocrity
+      and marked flattery. In the end, you are almost impressed by the man, having given
+      legs to a fictional scheme that lasted for a quarter of a century with virtually
+      no demurral.'
+    one_sentence_summary: The article explores the audacity of fraudsters like Elmyr
+      de Hory and Peter Cowell, who successfully deceived experts and officials for
+      years by leveraging their charisma and the willingness of others to believe in
+      elaborate scams, such as Cowell's fictitious International Sea/Air Rescue project,
+      highlighting the ease with which deception can flourish in a credulous society.
+    paragraph_summary: 'The article explores the theme of deception through the stories
+      of two fraudsters: Elmyr de Hory, a master forger of artworks, and Peter Cowell,
+      who posed as an admiral leading a fictitious mercy fleet called IntSAR. De Hory''s
+      forgeries of famous artists like Matisse were so convincing that they seduced
+      art buyers, while Cowell managed to maintain his charade for 25 years, pitching
+      a grand scheme that required substantial funding from nations without ever producing
+      tangible results. Despite his outlandish claims, including securing A$800 million
+      in funding, Cowell''s deception ultimately unraveled, leaving him stranded and
+      unfulfilled in Thailand. The article highlights how both figures exploited the
+      credulity of their audiences, underscoring the allure of grandiose lies in a world
+      where appearances often overshadow reality.'
+    published: '2025-10-28T05:54:29+00:00'
   - title: 'Inchoate Blobs: The National Press Club Cancels Chris Hedges'
     url: https://www.counterpunch.org/2025/10/24/inchoate-blobs-the-national-press-club-cancels-chris-hedges/
     text: 'It seemed an odd thing to begin with. Australia’s National Press Club is

@@ -7,16 +7,620 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  As the global geopolitical landscape remains tense, several new developments have emerged over the past 12 hours, particularly regarding U.S.-Russia relations, the aftermath of Israeli actions in Gaza, and the role of international financial institutions in Africa.
+  As the U.S. enters a pivotal political season, recent independent analyses highlight mounting public discontent with elite influence, deepening party polarization, and the persistent legacy of intelligence manipulation in foreign policy.
   
-  Amidst escalating U.S.-Russia tensions, **M.K. Bhadrakumar** highlights the significant challenges facing President Donald Trump as he shifts to a more confrontational posture toward Moscow. This marks a notable departure from previous ambiguity, with analysts observing that increased U.S. military signaling—such as the deployment of Tomahawk missiles—could provoke unpredictable Russian responses in contested regions. The majority view among independent analysts is that this hardening stance is likely to intensify the standoff, with a high chance of further military posturing on both sides.
+  A new national poll, reported by **Ray McGovern**, reveals that a majority of Americans believe wealthy donors and corporations have disproportionate sway over elections. Notably, two-thirds of respondents disapprove of the Supreme Court's 2010 Citizens United decision, underscoring a widespread perception that democracy is being undermined by concentrated financial power. This sentiment is echoed by **Patrick Lawrence**, who argues that entrenched U.S. power elites remain unwilling to cede control, stifling prospects for genuine democratic reform.
   
-  In the Middle East, the fallout from Israel’s recent operations in Gaza continues to reverberate internationally. **Medea Benjamin and Nicolas J. S. Davies** report a growing movement within Europe demanding accountability for alleged war crimes, despite the Trump administration’s efforts to redirect attention with its Gaza peace plan. European governments and civil society actors are increasingly vocal, suggesting that the issue will remain prominent on the international agenda. There is high confidence that calls for investigations and sanctions will persist, even as Washington seeks to downplay the crisis.
+  On the domestic political front, **Chris Hedges** contends that the Democratic Party's reluctance to mobilize mass opposition against the perceived authoritarian drift under Donald Trump stems from fears of marginalization. This hesitancy, Hedges suggests, inadvertently strengthens Trump's position by limiting the scope of organized resistance.
   
-  Turning to Africa, **Vijay Prashad** draws attention to a new report from Senegal’s Court of Auditors, which accuses the IMF of endorsing irregular financial practices that undermine national sovereignty and favor multinational corporations. This revelation has sparked renewed debate over the role of international financial institutions in perpetuating economic dependency across the continent. The consensus among analysts is that such practices are quite likely to fuel further anti-IMF sentiment and bolster calls for economic reform and greater transparency in Africa.
+  Meanwhile, historical context provided by the Veteran Intelligence Professionals for Sanity (VIPS) and reported by **Ray McGovern** revisits the manipulation of intelligence in the lead-up to the Iraq War. The VIPS memo to President George W. Bush in 2003, which warned of then-Vice President Dick Cheney's misleading actions, serves as a cautionary example of how intelligence can be distorted to justify controversial foreign interventions.
   
-  In summary, the latest developments point to a hardening of U.S. foreign policy lines, persistent international scrutiny of Israeli actions, and rising resistance to external financial control in Africa. Most analysts predict continued instability in U.S.-Russia relations, ongoing European advocacy for Gaza accountability, and a strengthening of anti-IMF movements in West Africa. There is high confidence that these trends will shape the geopolitical discourse in the coming weeks.
+  Looking ahead, the convergence of elite entrenchment, public frustration with electoral influence, and party paralysis suggests a period of heightened political volatility. I guarantee that unless there is a significant shift in political mobilization or campaign finance reform, these trends will persist and likely intensify as the 2026 election cycle approaches. The legacy of intelligence manipulation also remains a live issue, with high chance of renewed scrutiny should foreign policy crises emerge.
 articles:
+  - title: 'VIPS on Dick Cheney: Intelligence Unglued'
+    url: https://consortiumnews.com/2025/11/04/vips-on-dick-cheney-intelligence-unglued/
+    text: The Veteran Intelligence Professionals for Sanity (VIPS) sent this memo to
+      George W. Bush about Dick Cheney’s deceptive role in the Iraq invasion, published
+      by Consortium News in 2003. Former U.S. Vice President Dick Cheney, who died on
+      Monday at… Read more →
+    one_sentence_summary: The Veteran Intelligence Professionals for Sanity (VIPS) sent
+      a memo to George W. Bush in 2003, highlighting Dick Cheney's misleading actions
+      regarding the Iraq invasion, as reported by Consortium News.
+    paragraph_summary: The Veteran Intelligence Professionals for Sanity (VIPS) sent
+      a memo to President George W. Bush in 2003, highlighting former Vice President
+      Dick Cheney's misleading actions regarding the Iraq invasion. The memo, published
+      by Consortium News, criticized Cheney's role in promoting the war based on questionable
+      intelligence, emphasizing concerns about the integrity of the information used
+      to justify military action. This communication has resurfaced following Cheney's
+      recent passing, prompting reflection on his controversial legacy in U.S. foreign
+      policy.
+    published: '2025-11-04T18:23:35+00:00'
+  - title: 'VIPS on Dick Cheney: Intelligence Unglued'
+    url: https://consortiumnews.com/2025/11/04/vips-on-dick-cheney-intelligence-unglued/
+    text: The Veteran Intelligence Professionals for Sanity (VIPS) sent this memo to
+      George W. Bush about Dick Cheney’s deceptive role in the Iraq invasion, published
+      by Consortium News in 2003. Former U.S. Vice President Dick Cheney, who died on
+      Monday at… Read more →
+    one_sentence_summary: The Veteran Intelligence Professionals for Sanity (VIPS) sent
+      a memo to George W. Bush in 2003, highlighting Dick Cheney's misleading actions
+      regarding the Iraq invasion, as reported by Consortium News.
+    paragraph_summary: The Veteran Intelligence Professionals for Sanity (VIPS) sent
+      a memo to President George W. Bush in 2003, highlighting former Vice President
+      Dick Cheney's misleading actions regarding the Iraq invasion. The memo, published
+      by Consortium News, criticized Cheney's role in promoting the war based on questionable
+      intelligence, emphasizing concerns about the integrity of the information used
+      to justify military action. This communication has resurfaced following Cheney's
+      recent passing, prompting reflection on his controversial legacy in U.S. foreign
+      policy.
+    published: '2025-11-04T18:23:35+00:00'
+  - title: 'Chris Hedges: Trump’s Greatest Ally is the Democratic Party'
+    url: https://consortiumnews.com/2025/11/04/chris-hedges-trumps-greatest-ally-is-the-democratic-party/
+    text: The Democratic Party and its liberal allies refuse to call for mass mobilization
+      and strikes — the only tools that can thwart Trump’s emergent authoritarianism
+      — fearing they too will be swept aside. By Chris Hedges ScheerPost The only hope
+      to… Read more →
+    one_sentence_summary: The Democratic Party and its liberal allies are hesitant to
+      advocate for mass mobilization and strikes against Trump's rising authoritarianism,
+      fearing they might be marginalized in the process.
+    paragraph_summary: In his article for ScheerPost, Chris Hedges argues that the Democratic
+      Party and its liberal supporters are hesitant to advocate for mass mobilization
+      and strikes, which he believes are essential to countering the rise of authoritarianism
+      under Donald Trump. This reluctance stems from a fear of being marginalized themselves,
+      leading to a lack of decisive action against the threats posed by Trump's political
+      agenda. Hedges emphasizes that without such collective efforts, the potential
+      for meaningful resistance diminishes, leaving the political landscape vulnerable
+      to authoritarian tendencies.
+    published: '2025-11-04T17:00:47+00:00'
+  - title: 'Chris Hedges: Trump’s Greatest Ally is the Democratic Party'
+    url: https://consortiumnews.com/2025/11/04/chris-hedges-trumps-greatest-ally-is-the-democratic-party/
+    text: The Democratic Party and its liberal allies refuse to call for mass mobilization
+      and strikes — the only tools that can thwart Trump’s emergent authoritarianism
+      — fearing they too will be swept aside. By Chris Hedges ScheerPost The only hope
+      to… Read more →
+    one_sentence_summary: The Democratic Party and its liberal allies are hesitant to
+      advocate for mass mobilization and strikes against Trump's rising authoritarianism,
+      fearing they might be marginalized in the process.
+    paragraph_summary: In his article for ScheerPost, Chris Hedges argues that the Democratic
+      Party and its liberal supporters are hesitant to advocate for mass mobilization
+      and strikes, which he believes are essential to countering the rise of authoritarianism
+      under Donald Trump. This reluctance stems from a fear of being marginalized themselves,
+      leading to a lack of decisive action against the threats posed by Trump's political
+      agenda. Hedges emphasizes that without such collective efforts, the potential
+      for meaningful resistance diminishes, leaving the political landscape vulnerable
+      to authoritarian tendencies.
+    published: '2025-11-04T17:00:47+00:00'
+  - title: Most US Voters Say Rich Have Too Much Influence in Elections
+    url: https://consortiumnews.com/2025/11/04/most-us-voters-say-rich-have-too-much-influence-in-elections/
+    text: Wealthy donors and corporations have too much power in elections, according
+      to Americans in a national poll. The Supreme Court’s 2010 Citizens United decision
+      remains unpopular with two-thirds of them. By Dave Levinthal OpenSecrets CN at
+      30 The vast majority… Read more →
+    one_sentence_summary: A national poll reveals that most Americans believe wealthy
+      donors and corporations wield excessive influence in elections, with two-thirds
+      disapproving of the Supreme Court's 2010 Citizens United decision.
+    paragraph_summary: A national poll reveals that many Americans believe wealthy donors
+      and corporations wield excessive influence in elections, with two-thirds expressing
+      disapproval of the Supreme Court's 2010 Citizens United decision. This sentiment
+      highlights widespread concern over the impact of money in politics and reflects
+      a desire for reforms to reduce the power of affluent contributors in the electoral
+      process.
+    published: '2025-11-04T16:52:59+00:00'
+  - title: Most US Voters Say Rich Have Too Much Influence in Elections
+    url: https://consortiumnews.com/2025/11/04/most-us-voters-say-rich-have-too-much-influence-in-elections/
+    text: Wealthy donors and corporations have too much power in elections, according
+      to Americans in a national poll. The Supreme Court’s 2010 Citizens United decision
+      remains unpopular with two-thirds of them. By Dave Levinthal OpenSecrets CN at
+      30 The vast majority… Read more →
+    one_sentence_summary: A national poll reveals that most Americans believe wealthy
+      donors and corporations wield excessive influence in elections, with two-thirds
+      disapproving of the Supreme Court's 2010 Citizens United decision.
+    paragraph_summary: A national poll reveals that many Americans believe wealthy donors
+      and corporations wield excessive influence in elections, with two-thirds expressing
+      disapproval of the Supreme Court's 2010 Citizens United decision. This sentiment
+      highlights widespread concern over the impact of money in politics and reflects
+      a desire for reforms to reduce the power of affluent contributors in the electoral
+      process.
+    published: '2025-11-04T16:52:59+00:00'
+  - title: 'Patrick Lawrence: Confronting Oligarchs in the NYC Vote'
+    url: https://consortiumnews.com/2025/11/04/patrick-lawrence-confronting-oligarchs-in-the-nyc-vote/
+    text: The power elites who have long controlled the United States demonstrate repeatedly
+      that they have no intention of surrendering to any reconstitution of the American
+      polity in the name of anything resembling authentic democracy.  By Patrick Lawrence 
+      ScheerPost CN at 30… Read more →
+    one_sentence_summary: The article argues that the entrenched power elites in the
+      United States are unwilling to relinquish their control in favor of genuine democratic
+      reforms.
+    paragraph_summary: In the article by Patrick Lawrence, it is argued that the entrenched
+      power elites in the United States are resistant to any genuine attempts to reform
+      the political system in favor of true democracy. The author suggests that these
+      elites are determined to maintain their control and influence, demonstrating a
+      consistent unwillingness to embrace changes that would empower the broader populace
+      and foster a more democratic political landscape.
+    published: '2025-11-04T06:04:33+00:00'
+  - title: 'Patrick Lawrence: Confronting Oligarchs in the NYC Vote'
+    url: https://consortiumnews.com/2025/11/04/patrick-lawrence-confronting-oligarchs-in-the-nyc-vote/
+    text: The power elites who have long controlled the United States demonstrate repeatedly
+      that they have no intention of surrendering to any reconstitution of the American
+      polity in the name of anything resembling authentic democracy.  By Patrick Lawrence 
+      ScheerPost CN at 30… Read more →
+    one_sentence_summary: The article argues that the entrenched power elites in the
+      United States are unwilling to relinquish their control in favor of genuine democratic
+      reforms.
+    paragraph_summary: In the article by Patrick Lawrence, it is argued that the entrenched
+      power elites in the United States are resistant to any genuine attempts to reform
+      the political system in favor of true democracy. The author suggests that these
+      elites are determined to maintain their control and influence, demonstrating a
+      consistent unwillingness to embrace changes that would empower the broader populace
+      and foster a more democratic political landscape.
+    published: '2025-11-04T06:04:33+00:00'
+  - title: Obama’s Election-Eve Call to Mamdani
+    url: https://consortiumnews.com/2025/11/03/obamas-election-eve-call-to-mamdani/
+    text: The former president had an obvious reason to favor the Democratic frontrunner
+      in the New York mayor’s race with a weekend call, writes Corinna Barnard. Mamdani
+      is winning. By Corinna G. Barnard Special to Consortium News CN at 30 Over… Read
+      more →
+    one_sentence_summary: The article discusses the former president's clear support
+      for the leading Democratic candidate in the New York mayoral race, highlighting
+      Mamdani's success.
+    paragraph_summary: The article discusses the former president's support for the
+      Democratic frontrunner in the New York mayoral race, highlighting the strategic
+      reasons behind this endorsement. Corinna Barnard notes that Mamdani, the candidate
+      in question, is currently leading in the race, suggesting that the former president's
+      backing could be influential in solidifying Mamdani's position as a strong contender.
+      The piece reflects on the implications of political endorsements and the dynamics
+      of the ongoing election.
+    published: '2025-11-03T19:07:07+00:00'
+  - title: Obama’s Election-Eve Call to Mamdani
+    url: https://consortiumnews.com/2025/11/03/obamas-election-eve-call-to-mamdani/
+    text: The former president had an obvious reason to favor the Democratic frontrunner
+      in the New York mayor’s race with a weekend call, writes Corinna Barnard. Mamdani
+      is winning. By Corinna G. Barnard Special to Consortium News CN at 30 Over… Read
+      more →
+    one_sentence_summary: The article discusses the former president's clear support
+      for the leading Democratic candidate in the New York mayoral race, highlighting
+      Mamdani's success.
+    paragraph_summary: The article discusses the former president's support for the
+      Democratic frontrunner in the New York mayoral race, highlighting the strategic
+      reasons behind this endorsement. Corinna Barnard notes that Mamdani, the candidate
+      in question, is currently leading in the race, suggesting that the former president's
+      backing could be influential in solidifying Mamdani's position as a strong contender.
+      The piece reflects on the implications of political endorsements and the dynamics
+      of the ongoing election.
+    published: '2025-11-03T19:07:07+00:00'
+  - title: 'Vijay Prashad: Gen Z Uprisings in the Global South'
+    url: https://consortiumnews.com/2025/11/03/vijay-prashad-gen-z-uprisings-in-the-global-south/
+    text: 'Here are seven theses to begin to understand the protests that young people
+      have led across the world and perhaps channel them in a progressive direction.
+      By Vijay Prashad Tricontinental: Institute for Social Research    CN at 30 The
+      walls of Santiago,… Read more →'
+    one_sentence_summary: The article presents seven theses aimed at understanding and
+      potentially guiding the global youth-led protests towards a progressive outcome,
+      as discussed by Vijay Prashad in the context of social movements.
+    paragraph_summary: In the article by Vijay Prashad, seven theses are presented to
+      help comprehend the global protests led by young people and to potentially guide
+      them towards a progressive outcome. The discussion highlights the significance
+      of these movements, emphasizing the need for understanding their underlying motivations
+      and aspirations. Prashad suggests that by recognizing the common struggles faced
+      by youth worldwide, such as economic inequality and social injustice, there can
+      be a collective effort to channel their energy into constructive change. The piece
+      reflects on the historical context of protests, particularly referencing the situation
+      in Santiago, and calls for solidarity and strategic action among young activists.
+    published: '2025-11-03T16:00:25+00:00'
+  - title: 'Vijay Prashad: Gen Z Uprisings in the Global South'
+    url: https://consortiumnews.com/2025/11/03/vijay-prashad-gen-z-uprisings-in-the-global-south/
+    text: 'Here are seven theses to begin to understand the protests that young people
+      have led across the world and perhaps channel them in a progressive direction.
+      By Vijay Prashad Tricontinental: Institute for Social Research    CN at 30 The
+      walls of Santiago,… Read more →'
+    one_sentence_summary: The article presents seven theses aimed at understanding and
+      potentially guiding the global youth-led protests towards a progressive outcome,
+      as discussed by Vijay Prashad in the context of social movements.
+    paragraph_summary: In the article by Vijay Prashad, seven theses are presented to
+      help comprehend the global protests led by young people and to potentially guide
+      them towards a progressive outcome. The discussion highlights the significance
+      of these movements, emphasizing the need for understanding their underlying motivations
+      and aspirations. Prashad suggests that by recognizing the common struggles faced
+      by youth worldwide, such as economic inequality and social injustice, there can
+      be a collective effort to channel their energy into constructive change. The piece
+      reflects on the historical context of protests, particularly referencing the situation
+      in Santiago, and calls for solidarity and strategic action among young activists.
+    published: '2025-11-03T16:00:25+00:00'
+  - title: 'NYC Election: Socialism or Barbarism'
+    url: https://consortiumnews.com/2025/11/03/nyc-election-socialism-or-barbarism/
+    text: With an eye on Zohran Mamdani’s New York mayoral vote on Tuesday, Eric Ross
+      says reviving U.S. socialism also requires recovering its history from the Red
+      Scare and Cold War. By Eric Ross TomDispatch.com More than a century ago, from…
+      Read more →
+    one_sentence_summary: Eric Ross argues that reviving U.S. socialism, as exemplified
+      by Zohran Mamdani's New York mayoral campaign, necessitates reclaiming its historical
+      narrative from the distortions of the Red Scare and Cold War.
+    paragraph_summary: In an article by Eric Ross, the author emphasizes the importance
+      of understanding the history of socialism in the U.S. as a means to revive its
+      relevance in contemporary politics, particularly in light of Zohran Mamdani's
+      New York mayoral campaign. Ross argues that the legacy of socialism has been obscured
+      by the Red Scare and Cold War narratives, which demonized leftist movements. He
+      advocates for a re-examination of this history to foster a more informed and robust
+      socialist movement today, suggesting that acknowledging past struggles and achievements
+      is crucial for future political endeavors.
+    published: '2025-11-03T07:10:09+00:00'
+  - title: 'NYC Election: Socialism or Barbarism'
+    url: https://consortiumnews.com/2025/11/03/nyc-election-socialism-or-barbarism/
+    text: With an eye on Zohran Mamdani’s New York mayoral vote on Tuesday, Eric Ross
+      says reviving U.S. socialism also requires recovering its history from the Red
+      Scare and Cold War. By Eric Ross TomDispatch.com More than a century ago, from…
+      Read more →
+    one_sentence_summary: Eric Ross argues that reviving U.S. socialism, as exemplified
+      by Zohran Mamdani's New York mayoral campaign, necessitates reclaiming its historical
+      narrative from the distortions of the Red Scare and Cold War.
+    paragraph_summary: In an article by Eric Ross, the author emphasizes the importance
+      of understanding the history of socialism in the U.S. as a means to revive its
+      relevance in contemporary politics, particularly in light of Zohran Mamdani's
+      New York mayoral campaign. Ross argues that the legacy of socialism has been obscured
+      by the Red Scare and Cold War narratives, which demonized leftist movements. He
+      advocates for a re-examination of this history to foster a more informed and robust
+      socialist movement today, suggesting that acknowledging past struggles and achievements
+      is crucial for future political endeavors.
+    published: '2025-11-03T07:10:09+00:00'
+  - title: 'CN at 30: CN Launches 30th Anniversary Fall Fund Drive'
+    url: https://consortiumnews.com/2025/11/01/cn-at-30-cn-launches-30th-anniversary-fall-fund-drive/
+    text: Consortium News was born on Nov. 15, 1995. We are celebrating three decades
+      of a strictly non-partisan, non-ideological approach to the news. It has made
+      us enemies on both the left and the right. By Joe Lauria Special to Consortium…
+      Read more →
+    one_sentence_summary: Consortium News, founded on November 15, 1995, is celebrating
+      30 years of a non-partisan and non-ideological news approach, which has garnered
+      criticism from both political sides.
+    paragraph_summary: Consortium News, founded on November 15, 1995, is celebrating
+      its 30th anniversary as a non-partisan and non-ideological news outlet. This approach
+      has led to the publication facing criticism from both the political left and right,
+      as highlighted by Joe Lauria in a special piece for the organization.
+    published: '2025-11-01T06:06:02+00:00'
+  - title: 'CN at 30: CN Launches 30th Anniversary Fall Fund Drive'
+    url: https://consortiumnews.com/2025/11/01/cn-at-30-cn-launches-30th-anniversary-fall-fund-drive/
+    text: Consortium News was born on Nov. 15, 1995. We are celebrating three decades
+      of a strictly non-partisan, non-ideological approach to the news. It has made
+      us enemies on both the left and the right. By Joe Lauria Special to Consortium…
+      Read more →
+    one_sentence_summary: Consortium News, founded on November 15, 1995, is celebrating
+      30 years of a non-partisan and non-ideological news approach, which has garnered
+      criticism from both political sides.
+    paragraph_summary: Consortium News, founded on November 15, 1995, is celebrating
+      its 30th anniversary as a non-partisan and non-ideological news outlet. This approach
+      has led to the publication facing criticism from both the political left and right,
+      as highlighted by Joe Lauria in a special piece for the organization.
+    published: '2025-11-01T06:06:02+00:00'
+  - title: 'PATRICK LAWRENCE: My Bigotry Is Better Than Yours'
+    url: https://consortiumnews.com/2025/11/01/patrick-lawrence-my-bigotry-is-better-than-yours/
+    text: Graham Platner, a combat veteran running a Democratic primary campaign for
+      a Maine seat in the U.S. Senate, is getting hit with caricatures, which is the
+      worst form of bigotry. Let’s look at him in 3-D.  By Patrick Lawrence Special
+      to… Read more →
+    one_sentence_summary: Graham Platner, a combat veteran and Democratic Senate candidate
+      in Maine, is facing derogatory caricatures that reflect a troubling form of bigotry,
+      prompting a call for a more nuanced understanding of his character and campaign.
+    paragraph_summary: Graham Platner, a combat veteran campaigning for a Democratic
+      primary seat in the U.S. Senate from Maine, is facing criticism and caricatures
+      that reflect a troubling form of bigotry. The article by Patrick Lawrence emphasizes
+      the importance of viewing Platner in a more nuanced and comprehensive manner,
+      rather than relying on simplistic and distorted representations that fail to capture
+      his true character and experiences.
+    published: '2025-11-01T04:30:34+00:00'
+  - title: 'PATRICK LAWRENCE: My Bigotry Is Better Than Yours'
+    url: https://consortiumnews.com/2025/11/01/patrick-lawrence-my-bigotry-is-better-than-yours/
+    text: Graham Platner, a combat veteran running a Democratic primary campaign for
+      a Maine seat in the U.S. Senate, is getting hit with caricatures, which is the
+      worst form of bigotry. Let’s look at him in 3-D.  By Patrick Lawrence Special
+      to… Read more →
+    one_sentence_summary: Graham Platner, a combat veteran and Democratic Senate candidate
+      in Maine, is facing derogatory caricatures that reflect a troubling form of bigotry,
+      prompting a call for a more nuanced understanding of his character and campaign.
+    paragraph_summary: Graham Platner, a combat veteran campaigning for a Democratic
+      primary seat in the U.S. Senate from Maine, is facing criticism and caricatures
+      that reflect a troubling form of bigotry. The article by Patrick Lawrence emphasizes
+      the importance of viewing Platner in a more nuanced and comprehensive manner,
+      rather than relying on simplistic and distorted representations that fail to capture
+      his true character and experiences.
+    published: '2025-11-01T04:30:34+00:00'
+  - title: 'Hedges Report: Is Israel ‘On the Brink?’'
+    url: https://consortiumnews.com/2025/10/31/hedges-report-is-israel-on-the-brink/
+    text: Ilan Pappé discusses his new book and the dynamics causing him to expect that,
+      under a  disintegrated and religious extremist Israel, the “Zionist project will
+      collapse in front of our eyes.”  By Chris Hedges The Chris Hedges Report Despite
+      the demoralization… Read more →
+    one_sentence_summary: Ilan Pappé predicts the collapse of the Zionist project due
+      to the rise of a disintegrated and religiously extremist Israel, as discussed
+      in his new book during an interview with Chris Hedges.
+    paragraph_summary: Ilan Pappé, in a discussion about his new book, expresses his
+      belief that the Zionist project is on the verge of collapse due to the internal
+      dynamics of a fragmented and religiously extremist Israel. In an interview with
+      Chris Hedges, Pappé highlights the demoralization within Israeli society and the
+      implications it has for the future of the state, suggesting that these factors
+      will lead to a significant transformation in the region.
+    published: '2025-10-31T18:00:18+00:00'
+  - title: 'Hedges Report: Is Israel ‘On the Brink?’'
+    url: https://consortiumnews.com/2025/10/31/hedges-report-is-israel-on-the-brink/
+    text: Ilan Pappé discusses his new book and the dynamics causing him to expect that,
+      under a  disintegrated and religious extremist Israel, the “Zionist project will
+      collapse in front of our eyes.”  By Chris Hedges The Chris Hedges Report Despite
+      the demoralization… Read more →
+    one_sentence_summary: Ilan Pappé predicts the collapse of the Zionist project due
+      to the rise of a disintegrated and religiously extremist Israel, as discussed
+      in his new book during an interview with Chris Hedges.
+    paragraph_summary: Ilan Pappé, in a discussion about his new book, expresses his
+      belief that the Zionist project is on the verge of collapse due to the internal
+      dynamics of a fragmented and religiously extremist Israel. In an interview with
+      Chris Hedges, Pappé highlights the demoralization within Israeli society and the
+      implications it has for the future of the state, suggesting that these factors
+      will lead to a significant transformation in the region.
+    published: '2025-10-31T18:00:18+00:00'
+  - title: 'Vijay Prashad: APEC — A Creature of Its Time'
+    url: https://consortiumnews.com/2025/10/31/vijay-prashad-apec-a-creature-of-its-time/
+    text: 'The U.S. retains at least two instruments to exercise power in the Asia-Pacific.
+      RIMPAC provides a military instrument. For economic leverage there is APEC, which
+      meets on Friday By Vijay Prashad Tricontinental: Institute for Social Research
+      On the last day of October,… Read more →'
+    one_sentence_summary: The U.S. maintains military power in the Asia-Pacific through
+      RIMPAC and economic influence via APEC, which convenes on Friday.
+    paragraph_summary: 'The article discusses the United States'' strategic tools for
+      exerting influence in the Asia-Pacific region, highlighting two key instruments:
+      the Rim of the Pacific Exercise (RIMPAC) for military power and the Asia-Pacific
+      Economic Cooperation (APEC) for economic leverage. It emphasizes the significance
+      of these platforms in maintaining U.S. presence and influence in the region, particularly
+      in light of ongoing geopolitical dynamics. The upcoming APEC meeting is noted
+      as a critical event for economic discussions and collaboration among member nations.'
+    published: '2025-10-31T15:30:21+00:00'
+  - title: 'Vijay Prashad: APEC — A Creature of Its Time'
+    url: https://consortiumnews.com/2025/10/31/vijay-prashad-apec-a-creature-of-its-time/
+    text: 'The U.S. retains at least two instruments to exercise power in the Asia-Pacific.
+      RIMPAC provides a military instrument. For economic leverage there is APEC, which
+      meets on Friday By Vijay Prashad Tricontinental: Institute for Social Research
+      On the last day of October,… Read more →'
+    one_sentence_summary: The U.S. maintains military power in the Asia-Pacific through
+      RIMPAC and economic influence via APEC, which convenes on Friday.
+    paragraph_summary: 'The article discusses the United States'' strategic tools for
+      exerting influence in the Asia-Pacific region, highlighting two key instruments:
+      the Rim of the Pacific Exercise (RIMPAC) for military power and the Asia-Pacific
+      Economic Cooperation (APEC) for economic leverage. It emphasizes the significance
+      of these platforms in maintaining U.S. presence and influence in the region, particularly
+      in light of ongoing geopolitical dynamics. The upcoming APEC meeting is noted
+      as a critical event for economic discussions and collaboration among member nations.'
+    published: '2025-10-31T15:30:21+00:00'
+  - title: Jailed in America for Free Speech
+    url: https://consortiumnews.com/2025/10/30/jailed-in-america-for-free-speech/
+    text: Andrew P. Napolitano says making up crimes where none exist and arresting
+      without investigation — as was the case with Larry Bushart — are crimes in and
+      of themselves. By Andrew P. Napolitano In the aftermath of the murder of Charlie…
+      Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that fabricating crimes and making
+      arrests without proper investigation, exemplified by the case of Larry Bushart,
+      constitute crimes themselves.
+    paragraph_summary: In his article, Andrew P. Napolitano argues that fabricating
+      crimes and making arrests without proper investigation, exemplified by the case
+      of Larry Bushart, constitute crimes themselves. He emphasizes the importance of
+      due process and the dangers of law enforcement overstepping its bounds, particularly
+      in the wake of serious incidents like the murder of Charlie. Napolitano's commentary
+      highlights the need for accountability within the justice system to prevent wrongful
+      actions against individuals.
+    published: '2025-10-30T21:00:10+00:00'
+  - title: Jailed in America for Free Speech
+    url: https://consortiumnews.com/2025/10/30/jailed-in-america-for-free-speech/
+    text: Andrew P. Napolitano says making up crimes where none exist and arresting
+      without investigation — as was the case with Larry Bushart — are crimes in and
+      of themselves. By Andrew P. Napolitano In the aftermath of the murder of Charlie…
+      Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that fabricating crimes and making
+      arrests without proper investigation, exemplified by the case of Larry Bushart,
+      constitute crimes themselves.
+    paragraph_summary: In his article, Andrew P. Napolitano argues that fabricating
+      crimes and making arrests without proper investigation, exemplified by the case
+      of Larry Bushart, constitute crimes themselves. He emphasizes the importance of
+      due process and the dangers of law enforcement overstepping its bounds, particularly
+      in the wake of serious incidents like the murder of Charlie. Napolitano's commentary
+      highlights the need for accountability within the justice system to prevent wrongful
+      actions against individuals.
+    published: '2025-10-30T21:00:10+00:00'
+  - title: 'Caitlin Johnstone: Everyone Is 12 Now'
+    url: https://consortiumnews.com/2025/10/30/caitlin-johnstone-everyone-is-12-now/
+    text: The mainstream western worldview is like a children’s cartoon, with the Bad
+      Guys doing Bad Things simply because they are Bad, and the Good Guys striving
+      heroically to stop them. By Caitlin Johnstone Caitlin’s Newsletter  Listen to
+      Tim Foley reading… Read more →
+    one_sentence_summary: Caitlin Johnstone critiques the simplistic dichotomy of good
+      versus evil in the mainstream Western worldview, likening it to a children's cartoon
+      where villains act out of inherent malice while heroes fight against them.
+    paragraph_summary: In her article, Caitlin Johnstone critiques the simplistic narrative
+      of the mainstream Western worldview, likening it to a children's cartoon where
+      villains commit evil acts purely out of malice, while heroes valiantly attempt
+      to thwart them. She argues that this oversimplified dichotomy fails to capture
+      the complexities of global conflicts and the motivations behind actions taken
+      by various actors on the world stage, suggesting that a more nuanced understanding
+      is necessary to address the underlying issues at play.
+    published: '2025-10-30T18:00:54+00:00'
+  - title: 'Caitlin Johnstone: Everyone Is 12 Now'
+    url: https://consortiumnews.com/2025/10/30/caitlin-johnstone-everyone-is-12-now/
+    text: The mainstream western worldview is like a children’s cartoon, with the Bad
+      Guys doing Bad Things simply because they are Bad, and the Good Guys striving
+      heroically to stop them. By Caitlin Johnstone Caitlin’s Newsletter  Listen to
+      Tim Foley reading… Read more →
+    one_sentence_summary: Caitlin Johnstone critiques the simplistic dichotomy of good
+      versus evil in the mainstream Western worldview, likening it to a children's cartoon
+      where villains act out of inherent malice while heroes fight against them.
+    paragraph_summary: In her article, Caitlin Johnstone critiques the simplistic narrative
+      of the mainstream Western worldview, likening it to a children's cartoon where
+      villains commit evil acts purely out of malice, while heroes valiantly attempt
+      to thwart them. She argues that this oversimplified dichotomy fails to capture
+      the complexities of global conflicts and the motivations behind actions taken
+      by various actors on the world stage, suggesting that a more nuanced understanding
+      is necessary to address the underlying issues at play.
+    published: '2025-10-30T18:00:54+00:00'
+  - title: Palestinianism & the Global Call for Disarmament
+    url: https://consortiumnews.com/2025/10/30/palestinianism-the-global-call-for-disarmament/
+    text: Dr. Ghassan Shahrour on expanding the concept of disarmament beyond arsenals
+      to dismantling the systems that arm injustice. Dr. Ghassan Shahrour Common Dreams
+      Each October, the United Nations observes Disarmament Week — a global call to
+      reduce weapons, promote peace,… Read more →
+    one_sentence_summary: Dr. Ghassan Shahrour advocates for broadening the disarmament
+      agenda to include dismantling the systemic injustices that perpetuate violence,
+      as highlighted during the United Nations' Disarmament Week.
+    paragraph_summary: Dr. Ghassan Shahrour emphasizes the need to broaden the concept
+      of disarmament beyond merely reducing weapon arsenals to include dismantling the
+      systemic injustices that perpetuate violence and conflict. In his article for
+      Common Dreams, he highlights the significance of the United Nations' Disarmament
+      Week, advocating for a comprehensive approach that addresses the root causes of
+      injustice and promotes lasting peace. By focusing on both physical disarmament
+      and the underlying systems that fuel inequality and oppression, Shahrour argues
+      for a more holistic strategy to achieve global security and harmony.
+    published: '2025-10-30T16:00:15+00:00'
+  - title: Palestinianism & the Global Call for Disarmament
+    url: https://consortiumnews.com/2025/10/30/palestinianism-the-global-call-for-disarmament/
+    text: Dr. Ghassan Shahrour on expanding the concept of disarmament beyond arsenals
+      to dismantling the systems that arm injustice. Dr. Ghassan Shahrour Common Dreams
+      Each October, the United Nations observes Disarmament Week — a global call to
+      reduce weapons, promote peace,… Read more →
+    one_sentence_summary: Dr. Ghassan Shahrour advocates for broadening the disarmament
+      agenda to include dismantling the systemic injustices that perpetuate violence,
+      as highlighted during the United Nations' Disarmament Week.
+    paragraph_summary: Dr. Ghassan Shahrour emphasizes the need to broaden the concept
+      of disarmament beyond merely reducing weapon arsenals to include dismantling the
+      systemic injustices that perpetuate violence and conflict. In his article for
+      Common Dreams, he highlights the significance of the United Nations' Disarmament
+      Week, advocating for a comprehensive approach that addresses the root causes of
+      injustice and promotes lasting peace. By focusing on both physical disarmament
+      and the underlying systems that fuel inequality and oppression, Shahrour argues
+      for a more holistic strategy to achieve global security and harmony.
+    published: '2025-10-30T16:00:15+00:00'
+  - title: 'Patrick Lawrence:  A Worldwide Anti–Israel Movement'
+    url: https://consortiumnews.com/2025/10/29/patrick-lawrence-a-worldwide-anti-israel-movement/
+    text: Catherine Connolly’s rise to the Irish presidency marks a progression in global
+      politics we ought not miss. A critical mass is gathering against the Zionist state.
+      By Patrick Lawrence The Floutist Catherine Connolly has such a sweet Irish face
+      —… Read more →
+    one_sentence_summary: Catherine Connolly's ascent to the Irish presidency signifies
+      a significant shift in global politics, reflecting a growing opposition to the
+      Zionist state.
+    paragraph_summary: Catherine Connolly's ascent to the Irish presidency signifies
+      an important shift in global politics, particularly in the context of growing
+      opposition to the Zionist state. Patrick Lawrence highlights this development,
+      suggesting that Connolly's leadership reflects a broader movement against established
+      political norms and injustices. Her election is seen as a pivotal moment that
+      could influence international perspectives on issues related to Zionism and its
+      implications.
+    published: '2025-10-29T22:38:40+00:00'
+  - title: 'Patrick Lawrence:  A Worldwide Anti–Israel Movement'
+    url: https://consortiumnews.com/2025/10/29/patrick-lawrence-a-worldwide-anti-israel-movement/
+    text: Catherine Connolly’s rise to the Irish presidency marks a progression in global
+      politics we ought not miss. A critical mass is gathering against the Zionist state.
+      By Patrick Lawrence The Floutist Catherine Connolly has such a sweet Irish face
+      —… Read more →
+    one_sentence_summary: Catherine Connolly's ascent to the Irish presidency signifies
+      a significant shift in global politics, reflecting a growing opposition to the
+      Zionist state.
+    paragraph_summary: Catherine Connolly's ascent to the Irish presidency signifies
+      an important shift in global politics, particularly in the context of growing
+      opposition to the Zionist state. Patrick Lawrence highlights this development,
+      suggesting that Connolly's leadership reflects a broader movement against established
+      political norms and injustices. Her election is seen as a pivotal moment that
+      could influence international perspectives on issues related to Zionism and its
+      implications.
+    published: '2025-10-29T22:38:40+00:00'
+  - title: Unrest in the Himalayas
+    url: https://consortiumnews.com/2025/10/29/unrest-in-the-himalayas/
+    text: Ladakh’s geography makes it crucially important to Prime Minister Narendra
+      Modi. To put it directly under his government’s control, Modi took away its statehood
+      rights. Ladakhis are now fighting to get them back, reports Betwa Sharma. By Betwa
+      Sharma in Delhi,… Read more →
+    one_sentence_summary: Prime Minister Narendra Modi's decision to revoke Ladakh's
+      statehood rights has sparked a struggle among Ladakhis to regain their autonomy,
+      highlighting the region's strategic significance to the Indian government.
+    paragraph_summary: The article by Betwa Sharma discusses how Prime Minister Narendra
+      Modi's government has strategically prioritized Ladakh's geography, leading to
+      the revocation of its statehood rights in an effort to bring the region directly
+      under central control. In response, the people of Ladakh are actively advocating
+      for the restoration of these rights, highlighting the ongoing struggle for autonomy
+      and governance in the region.
+    published: '2025-10-29T18:32:48+00:00'
+  - title: Unrest in the Himalayas
+    url: https://consortiumnews.com/2025/10/29/unrest-in-the-himalayas/
+    text: Ladakh’s geography makes it crucially important to Prime Minister Narendra
+      Modi. To put it directly under his government’s control, Modi took away its statehood
+      rights. Ladakhis are now fighting to get them back, reports Betwa Sharma. By Betwa
+      Sharma in Delhi,… Read more →
+    one_sentence_summary: Prime Minister Narendra Modi's decision to revoke Ladakh's
+      statehood rights has sparked a struggle among Ladakhis to regain their autonomy,
+      highlighting the region's strategic significance to the Indian government.
+    paragraph_summary: The article by Betwa Sharma discusses how Prime Minister Narendra
+      Modi's government has strategically prioritized Ladakh's geography, leading to
+      the revocation of its statehood rights in an effort to bring the region directly
+      under central control. In response, the people of Ladakh are actively advocating
+      for the restoration of these rights, highlighting the ongoing struggle for autonomy
+      and governance in the region.
+    published: '2025-10-29T18:32:48+00:00'
+  - title: US Arms Firm Secures UK Ban on Palestine Protests
+    url: https://consortiumnews.com/2025/10/29/us-arms-firm-secures-uk-ban-on-palestine-protests/
+    text: Court documents reveal aerospace firm Moog has obtained an injunction against
+      protesters in Britain and even consulted the police about Declassified UK, John
+      McEvoy reports. By John McEvoy Declassified UK A U.S. arms firm has launched legal
+      action against pro-Palestine activists… Read more →
+    one_sentence_summary: Aerospace firm Moog has secured an injunction against pro-Palestine
+      protesters in Britain and has sought police assistance regarding their activities,
+      as reported by John McEvoy for Declassified UK.
+    paragraph_summary: Aerospace firm Moog has secured an injunction against pro-Palestine
+      protesters in Britain, as revealed by court documents. The company has also sought
+      guidance from the police regarding the activists, indicating a legal push to limit
+      their demonstrations. This action highlights the ongoing tensions between arms
+      manufacturers and protest movements advocating for Palestinian rights.
+    published: '2025-10-29T16:00:26+00:00'
+  - title: US Arms Firm Secures UK Ban on Palestine Protests
+    url: https://consortiumnews.com/2025/10/29/us-arms-firm-secures-uk-ban-on-palestine-protests/
+    text: Court documents reveal aerospace firm Moog has obtained an injunction against
+      protesters in Britain and even consulted the police about Declassified UK, John
+      McEvoy reports. By John McEvoy Declassified UK A U.S. arms firm has launched legal
+      action against pro-Palestine activists… Read more →
+    one_sentence_summary: Aerospace firm Moog has secured an injunction against pro-Palestine
+      protesters in Britain and has sought police assistance regarding their activities,
+      as reported by John McEvoy for Declassified UK.
+    paragraph_summary: Aerospace firm Moog has secured an injunction against pro-Palestine
+      protesters in Britain, as revealed by court documents. The company has also sought
+      guidance from the police regarding the activists, indicating a legal push to limit
+      their demonstrations. This action highlights the ongoing tensions between arms
+      manufacturers and protest movements advocating for Palestinian rights.
+    published: '2025-10-29T16:00:26+00:00'
+  - title: 'Vijay Prashad: The Powerful Who Stand Behind Israel'
+    url: https://consortiumnews.com/2025/10/29/vijay-prashad-the-powerful-who-stand-behind-israel/
+    text: Based on the new U.N. special rapporteur’s report, the ICC should be obliged
+      to file arrests warrants, at a minimum, against Rishi Sunak, Keir Starmer, Olaf
+      Scholz, Friedrich Mertz, Joe Biden and Donald Trump. By Vijay Prashad PeoplesDispatch
+      Caroline Willemen… Read more →
+    one_sentence_summary: The U.N. special rapporteur's report suggests that the International
+      Criminal Court should issue arrest warrants for several political leaders, including
+      Rishi Sunak, Keir Starmer, Olaf Scholz, Friedrich Merz, Joe Biden, and Donald
+      Trump.
+    paragraph_summary: The article discusses a report by a new U.N. special rapporteur
+      suggesting that the International Criminal Court (ICC) should issue arrest warrants
+      for several prominent political leaders, including Rishi Sunak, Keir Starmer,
+      Olaf Scholz, Friedrich Merz, Joe Biden, and Donald Trump. The report implies that
+      these leaders may be implicated in actions warranting legal accountability, highlighting
+      the need for the ICC to take a more proactive stance in addressing potential war
+      crimes and violations of international law.
+    published: '2025-10-29T08:51:27+00:00'
+  - title: 'Vijay Prashad: The Powerful Who Stand Behind Israel'
+    url: https://consortiumnews.com/2025/10/29/vijay-prashad-the-powerful-who-stand-behind-israel/
+    text: Based on the new U.N. special rapporteur’s report, the ICC should be obliged
+      to file arrests warrants, at a minimum, against Rishi Sunak, Keir Starmer, Olaf
+      Scholz, Friedrich Mertz, Joe Biden and Donald Trump. By Vijay Prashad PeoplesDispatch
+      Caroline Willemen… Read more →
+    one_sentence_summary: The U.N. special rapporteur's report suggests that the International
+      Criminal Court should issue arrest warrants for several political leaders, including
+      Rishi Sunak, Keir Starmer, Olaf Scholz, Friedrich Merz, Joe Biden, and Donald
+      Trump.
+    paragraph_summary: The article discusses a report by a new U.N. special rapporteur
+      suggesting that the International Criminal Court (ICC) should issue arrest warrants
+      for several prominent political leaders, including Rishi Sunak, Keir Starmer,
+      Olaf Scholz, Friedrich Merz, Joe Biden, and Donald Trump. The report implies that
+      these leaders may be implicated in actions warranting legal accountability, highlighting
+      the need for the ICC to take a more proactive stance in addressing potential war
+      crimes and violations of international law.
+    published: '2025-10-29T08:51:27+00:00'
   - title: Trump, Russian Oil & Tomahawk Missiles
     url: https://consortiumnews.com/2025/10/28/trump-russian-oil-tomahawk-missiles/
     text: M.K. Bhadrakumar considers the possible complications for the U.S. president

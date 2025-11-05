@@ -7,16 +7,1668 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  After nearly two weeks in Moscow, the latest insights from **Larry C. Johnson**’s reporting provide a nuanced look at the Russian political and social landscape, as well as the ongoing dynamics of the Ukraine conflict and US-Russia relations.
+  As the Ukraine conflict continues to reshape the global balance, recent independent analysis points to a widening strategic gap between Russia and NATO, with broader implications for the West’s influence worldwide.
   
-  A key development is the launch of a new podcast series featuring interviews with senior Russian officials, including Alexander Babakov, Deputy Chairman of the State Duma, and Alexander Galushka, former Minister for the Development of the Far East. According to **Johnson**, these conversations will be released over the next two weeks and are expected to offer rare, candid perspectives from within the Russian establishment. This initiative follows Johnson’s recent meetings with a broad spectrum of Russian leaders and experts, which he describes as revealing “fundamental differences in worldview” between Russians and Americans—differences shaped by divergent histories of land expansion and cultural influences.
+  The most notable development, according to **Larry C. Johnson**, is the stark disparity in main battle tank production during 2024. NATO managed to produce only 56 new tanks, most of which were South Korean models destined for Poland, while Russia’s output far exceeded this figure. This production imbalance underscores NATO’s ongoing prioritization of modernization and peacetime procurement cycles, even as the Ukraine war intensifies. Johnson emphasizes that “NATO’s industrial base remains focused on upgrades rather than surge production,” a factor that could prove decisive should the conflict escalate further.
   
-  On the domestic front, Johnson continues to challenge Western narratives about Russia’s economic stability. He reports that daily life in Moscow appears normal, with no visible signs of the economic collapse or shortages often cited in Western media. This assessment is supported by firsthand observations and interviews, suggesting that claims of widespread desperation are “exaggerated Western propaganda.”
+  On the ground in Ukraine, the situation remains dire for Kyiv’s forces. Johnson details two recent high-risk helicopter missions by Ukraine’s Main Intelligence Directorate in Pokrovsk, both of which failed to achieve their objectives amid significant Russian advances. The use of US-supplied helicopters in these operations highlights both the desperation and the limits of Western military assistance at this stage of the conflict.
   
-  Diplomatically, the cancellation of the planned Trump-Putin summit in Budapest remains a significant marker. While the White House attributed the cancellation to a “productive” call between Secretary of State Marco Rubio and Russian Foreign Minister Sergey Lavrov, there is skepticism about the effectiveness of Trump’s efforts to broker a Ukraine ceasefire. Meanwhile, Johnson notes that Putin remains unwavering in his territorial demands, and private communications between Trump and Putin may be more extensive than publicly acknowledged.
+  Broader geopolitical trends also suggest a shift in global power dynamics. Johnson argues that the “Collective West is losing its dominance to the Global South,” with the multipolarity of emerging economies increasingly challenging Western economic and military primacy. This trend is reinforced by the West’s apparent underestimation of Russia’s military capabilities and self-sufficiency, as well as the ongoing inability to break Russia’s economic resilience through sanctions or military pressure.
   
-  Looking ahead, the trend is toward continued Russian resilience in the face of Western pressure, both economically and diplomatically. Johnson states there is a “high chance” that Western analysts will continue to misread Russian capabilities and intentions, while Moscow will persist in asserting its narrative and strategic interests. The upcoming podcast series is likely to further illuminate these dynamics, providing additional context for understanding Russia’s position on the global stage. Based on the current trajectory, I guarantee that the Russian leadership will remain unified and that Western predictions of imminent instability in Moscow are unfounded.
+  Looking ahead, the majority of independent analysis suggests that Russia’s military-industrial advantage over NATO will persist in the near term. As Johnson puts it, “I guarantee Russia will maintain its lead in conventional armaments production and operational tempo.” There is also a high chance that the Global South’s influence will continue to rise, further eroding Western leverage in international affairs. The situation in Ukraine is expected to remain unfavorable for Kyiv, with Russian advances likely to continue barring a significant change in Western strategy or industrial mobilization.
 articles:
+  - title: Russia vs NATO… The Strategic Imbalance
+    url: https://sonar21.com/russia-vs-nato-the-strategic-imbalance/
+    text: 'Let’s just deal with basic numbers in comparing Russia and NATO, and let’s
+      start with tanks. Who is building, from the ground up, more modern battle tanks?
+      In calculating this I am excluding deliveries of refurbished or upgraded vehicles
+      (e.g., M1A2 SEPv3 Abrams, Leopard 2A7V) and I am focusing solely on fresh builds.
+      NATO’s production of entirely new main battle tanks (MBTs)—built from the ground
+      up, not refurbished or upgraded existing hulls—was extremely limited in 2024,
+      reflecting peacetime priorities, high costs (~€10–15 million per unit), and a
+      focus on modernization programs amid the Ukraine conflict. No NATO member produced
+      significant volumes of new tanks; instead, emphasis was on exports, prototypes,
+      and future contracts. Based on 2024 data, the total new production across all
+      NATO countries was approximately 56 tanks, and these came from South Korea (a
+      NATO partner via the IP4 alliance) for Poland. Russia, not surprisingly to me,
+      built more brand new battle tanks in 2024 than all of NATO. Independent OSINT
+      (e.g., Conflict Intelligence Team/CIT) and Western intelligence (e.g., RUSI, IISS)
+      peg it at 60–80 units , contrasting higher figures (250–300) that include modernizations.
+      Modern MBTs refer primarily to the T-90M “Proryv” (Russia’s most advanced operational
+      variant, with upgraded fire control, Relikt ERA, and Sosna-U sights) and negligible
+      T-14 Armata output (prototypes only, serial production canceled). Uralvagonzavod
+      (UVZ) is the sole new-build facility. Check out the following table: NATO has
+      supplied the overwhelming majority of the tanks and armored personnel carriers/infantry
+      fighting vehicles (e.g., the Bradley ) since the start of the special military
+      operation ( SMO ) in February 2022. As you can see in the table above, Ukraine
+      has lost a total of 25,823 tanks and APCs/IFVs since the start of the SMO. NATO
+      has been unable to replace battle losses and is relying instead on South Korea
+      for new production that still lags behind what Russia is producing. To put this
+      in context, let’s look at the Battle of Kursk in World War II aka the Great Patriotic
+      War. The Battle of Kursk , which is the largest armored engagement in history,
+      inflicted significant losses on the Soviet Union due to its defensive posture
+      against the German Operation Citadel offensive, followed by successful counteroffensives
+      ( Operations Kutuzov and Rumyantsev ). Estimates vary due to Soviet archival inconsistencies
+      (e.g., some counts include evacuated/repairable vehicles), but consensus from
+      Western and Russian sources pegs totals at ~6,000 tanks and assault guns (self-propelled
+      guns like SU-76/SU-85 counted as “tank destroyers” in period records) and under
+      1,000 APCs/IFVs/armored cars. In other words, Ukraine has lost in 2025 about the
+      same number of tanks that the Soviets lost in the Battle of Kursk. However, unlike
+      the Soviets, who repaired/evacuated ~40–50% of “lost” tanks from the Battle of
+      Kursk, most of the Ukrainian losses remain on the battlefield or are captured
+      by the Russians. We see similar disparities with respect to drones. Based on available
+      reports from defense ministries, industry announcements, and analyses (e.g., SIPRI,
+      IISS, and OSINT), NATO members collectively produced an estimated 50,000–100,000
+      military drones in 2024. This includes tactical FPV/reconnaissance models, loitering
+      munitions, and larger ISR/strike systems. Russia, in sharp contrast, in 2024 produced
+      an estimated 1.5–1.8 million drones, encompassing tactical FPV (first-person view)
+      models, long-range strike drones (e.g., Shahed/Geran-136), reconnaissance types
+      (e.g., Orlan-10), and loitering munitions (e.g., Lancet). This marks a 5–10x increase
+      from 2022–2023 levels, with FPV drones comprising the bulk (~80–90%) due to their
+      low cost (~$300–$500/unit) and high attrition rate. Production was decentralized
+      across ~30 federal subjects, with key facilities like Alabuga SEZ in Tatarstan
+      scaling up Shahed output using imported labor and parts. Ditto for artillery shells.
+      In 2024, NATO (primarily the U.S. and European allies) focused on ramping up production
+      of 155mm shells—the NATO standard—to support Ukraine and replenish depleted stocks,
+      while Russia emphasized 152mm shells (its primary caliber) for sustained frontline
+      use. NATO’s output lagged significantly behind Russia’s, with estimates showing
+      a 1:3 to 1:4 ratio, highlighting Russia’s wartime industrial mobilization versus
+      NATO’s peacetime constraints and supply chain challenges. Here is your challenge…
+      Can you find one weapon system where NATO outproduced Russia in 2024 or 2025?
+      I think you will find that the answer is zero. During my time in Moscow, I was
+      interviewed by Andrey Klintsevich. Klintsevich is a prominent Russian military-political
+      analyst, political scientist, and state official based in Moscow. He speaks very
+      good English but, for the purposes of the hosts of the podcast, he spoke in Russian
+      and I had a simultaneous translator. Klintsevich serves as the head of the Center
+      for the Study of Military and Political Conflicts, a think tank focused on global
+      security issues, and holds the rank of Actual State Councilor of the Russian Federation
+      (a senior civil service grade). He is a frequent commentator on Russian state-aligned
+      media, appearing on programs like Solovyov Live (where he hosts segments such
+      as “AK-81”) and providing expert analysis on topics like the Ukraine conflict,
+      NATO equipment exhibitions in Moscow, U.S.-Russia relations under Trump, and European
+      military postures. Before Judge Napolitano caught his flight home, we were intervied
+      by Alexander Kazakov.  Kazakov is a Russian political philosopher, television
+      commentator, public figure, and journalist. He is a Co-Chairman of the International
+      “Club of People’s Unity,” and served as an advisor to the first head of the Donetsk
+      People’s Republic (DPR), Alexander Zakharchenko (2014-2018). He is one of the
+      leaders of the Headquarters for the Defense of Russian Schools in Latvia, as well
+      as the founder and ideologist of the United Congress of Russian Communities of
+      Latvia. He acts as a consultant for youth political movements in Russia and is
+      a political consultant specializing in ideologies. He has experience in media
+      and political consulting. I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: In 2024, NATO produced only about 56 new main battle tanks,
+      primarily through South Korean exports to Poland, while Russia significantly outpaced
+      NATO in the production of brand new tanks, highlighting NATO's focus on modernization
+      and peacetime priorities amidst the Ukraine conflict.
+    paragraph_summary: In 2024, NATO's production of new main battle tanks (MBTs) was
+      minimal, with only about 56 tanks built, primarily sourced from South Korea for
+      Poland, as NATO countries focused on modernization and peacetime priorities amid
+      the ongoing Ukraine conflict. In contrast, Russia reportedly produced between
+      60 to 80 new tanks, primarily the T-90M "Proryv," while the production of the
+      T-14 Armata has been halted. This disparity highlights NATO's reliance on exports
+      and future contracts rather than significant new tank production, as they have
+      supplied the majority of tanks and armored vehicles to Ukraine since the conflict
+      began in February 2022. Consequently, NATO has struggled to replace Ukraine's
+      substantial losses of 25,823 tanks and armored vehicles, further emphasizing the
+      challenges faced in maintaining military capabilities against Russia's production
+      efforts.
+    published: '2025-11-04T04:03:51+00:00'
+  - title: Russia vs NATO… The Strategic Imbalance
+    url: https://sonar21.com/russia-vs-nato-the-strategic-imbalance/
+    text: 'Let’s just deal with basic numbers in comparing Russia and NATO, and let’s
+      start with tanks. Who is building, from the ground up, more modern battle tanks?
+      In calculating this I am excluding deliveries of refurbished or upgraded vehicles
+      (e.g., M1A2 SEPv3 Abrams, Leopard 2A7V) and I am focusing solely on fresh builds.
+      NATO’s production of entirely new main battle tanks (MBTs)—built from the ground
+      up, not refurbished or upgraded existing hulls—was extremely limited in 2024,
+      reflecting peacetime priorities, high costs (~€10–15 million per unit), and a
+      focus on modernization programs amid the Ukraine conflict. No NATO member produced
+      significant volumes of new tanks; instead, emphasis was on exports, prototypes,
+      and future contracts. Based on 2024 data, the total new production across all
+      NATO countries was approximately 56 tanks, and these came from South Korea (a
+      NATO partner via the IP4 alliance) for Poland. Russia, not surprisingly to me,
+      built more brand new battle tanks in 2024 than all of NATO. Independent OSINT
+      (e.g., Conflict Intelligence Team/CIT) and Western intelligence (e.g., RUSI, IISS)
+      peg it at 60–80 units , contrasting higher figures (250–300) that include modernizations.
+      Modern MBTs refer primarily to the T-90M “Proryv” (Russia’s most advanced operational
+      variant, with upgraded fire control, Relikt ERA, and Sosna-U sights) and negligible
+      T-14 Armata output (prototypes only, serial production canceled). Uralvagonzavod
+      (UVZ) is the sole new-build facility. Check out the following table: NATO has
+      supplied the overwhelming majority of the tanks and armored personnel carriers/infantry
+      fighting vehicles (e.g., the Bradley ) since the start of the special military
+      operation ( SMO ) in February 2022. As you can see in the table above, Ukraine
+      has lost a total of 25,823 tanks and APCs/IFVs since the start of the SMO. NATO
+      has been unable to replace battle losses and is relying instead on South Korea
+      for new production that still lags behind what Russia is producing. To put this
+      in context, let’s look at the Battle of Kursk in World War II aka the Great Patriotic
+      War. The Battle of Kursk , which is the largest armored engagement in history,
+      inflicted significant losses on the Soviet Union due to its defensive posture
+      against the German Operation Citadel offensive, followed by successful counteroffensives
+      ( Operations Kutuzov and Rumyantsev ). Estimates vary due to Soviet archival inconsistencies
+      (e.g., some counts include evacuated/repairable vehicles), but consensus from
+      Western and Russian sources pegs totals at ~6,000 tanks and assault guns (self-propelled
+      guns like SU-76/SU-85 counted as “tank destroyers” in period records) and under
+      1,000 APCs/IFVs/armored cars. In other words, Ukraine has lost in 2025 about the
+      same number of tanks that the Soviets lost in the Battle of Kursk. However, unlike
+      the Soviets, who repaired/evacuated ~40–50% of “lost” tanks from the Battle of
+      Kursk, most of the Ukrainian losses remain on the battlefield or are captured
+      by the Russians. We see similar disparities with respect to drones. Based on available
+      reports from defense ministries, industry announcements, and analyses (e.g., SIPRI,
+      IISS, and OSINT), NATO members collectively produced an estimated 50,000–100,000
+      military drones in 2024. This includes tactical FPV/reconnaissance models, loitering
+      munitions, and larger ISR/strike systems. Russia, in sharp contrast, in 2024 produced
+      an estimated 1.5–1.8 million drones, encompassing tactical FPV (first-person view)
+      models, long-range strike drones (e.g., Shahed/Geran-136), reconnaissance types
+      (e.g., Orlan-10), and loitering munitions (e.g., Lancet). This marks a 5–10x increase
+      from 2022–2023 levels, with FPV drones comprising the bulk (~80–90%) due to their
+      low cost (~$300–$500/unit) and high attrition rate. Production was decentralized
+      across ~30 federal subjects, with key facilities like Alabuga SEZ in Tatarstan
+      scaling up Shahed output using imported labor and parts. Ditto for artillery shells.
+      In 2024, NATO (primarily the U.S. and European allies) focused on ramping up production
+      of 155mm shells—the NATO standard—to support Ukraine and replenish depleted stocks,
+      while Russia emphasized 152mm shells (its primary caliber) for sustained frontline
+      use. NATO’s output lagged significantly behind Russia’s, with estimates showing
+      a 1:3 to 1:4 ratio, highlighting Russia’s wartime industrial mobilization versus
+      NATO’s peacetime constraints and supply chain challenges. Here is your challenge…
+      Can you find one weapon system where NATO outproduced Russia in 2024 or 2025?
+      I think you will find that the answer is zero. During my time in Moscow, I was
+      interviewed by Andrey Klintsevich. Klintsevich is a prominent Russian military-political
+      analyst, political scientist, and state official based in Moscow. He speaks very
+      good English but, for the purposes of the hosts of the podcast, he spoke in Russian
+      and I had a simultaneous translator. Klintsevich serves as the head of the Center
+      for the Study of Military and Political Conflicts, a think tank focused on global
+      security issues, and holds the rank of Actual State Councilor of the Russian Federation
+      (a senior civil service grade). He is a frequent commentator on Russian state-aligned
+      media, appearing on programs like Solovyov Live (where he hosts segments such
+      as “AK-81”) and providing expert analysis on topics like the Ukraine conflict,
+      NATO equipment exhibitions in Moscow, U.S.-Russia relations under Trump, and European
+      military postures. Before Judge Napolitano caught his flight home, we were intervied
+      by Alexander Kazakov.  Kazakov is a Russian political philosopher, television
+      commentator, public figure, and journalist. He is a Co-Chairman of the International
+      “Club of People’s Unity,” and served as an advisor to the first head of the Donetsk
+      People’s Republic (DPR), Alexander Zakharchenko (2014-2018). He is one of the
+      leaders of the Headquarters for the Defense of Russian Schools in Latvia, as well
+      as the founder and ideologist of the United Congress of Russian Communities of
+      Latvia. He acts as a consultant for youth political movements in Russia and is
+      a political consultant specializing in ideologies. He has experience in media
+      and political consulting. I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: In 2024, NATO produced only about 56 new main battle tanks,
+      primarily through South Korean exports to Poland, while Russia significantly outpaced
+      NATO in the production of brand new tanks, highlighting NATO's focus on modernization
+      and peacetime priorities amidst the Ukraine conflict.
+    paragraph_summary: In 2024, NATO's production of new main battle tanks (MBTs) was
+      minimal, with only about 56 tanks built, primarily sourced from South Korea for
+      Poland, as NATO countries focused on modernization and peacetime priorities amid
+      the ongoing Ukraine conflict. In contrast, Russia reportedly produced between
+      60 to 80 new tanks, primarily the T-90M "Proryv," while the production of the
+      T-14 Armata has been halted. This disparity highlights NATO's reliance on exports
+      and future contracts rather than significant new tank production, as they have
+      supplied the majority of tanks and armored vehicles to Ukraine since the conflict
+      began in February 2022. Consequently, NATO has struggled to replace Ukraine's
+      substantial losses of 25,823 tanks and armored vehicles, further emphasizing the
+      challenges faced in maintaining military capabilities against Russia's production
+      efforts.
+    published: '2025-11-04T04:03:51+00:00'
+  - title: Ukraine’s Suicide Helicopter Missions… Why?
+    url: https://sonar21.com/ukraines-suicide-helicopter-missions-why/
+    text: 'Cartoon by Nemo Ukraine’s Main Intelligence Directorate (GUR) has conducted
+      two high-risk air assault operations using US-supplied UH-60A Black Hawk helicopters
+      in the Pokrovsk sector of Donetsk Oblast amid intense Russian advances. Pokrovsk,
+      a key logistics hub, has been under siege for over a year, with Russian forces
+      controlling ~80% of the city by late October 2025 and have now encircled the Ukrainian
+      forces that remain in the area. The missions, overseen by GUR chief Kyrylo Budanov,
+      tried, and failed, to insert elite special forces into contested or Russian-claimed
+      areas. The key question is why? Ukrainian sources claim the feckless operation
+      was to disrupt enemy positions, clear strongpoints, and restore supply lines,
+      but this is nonsensical. The first mission, which was launched the night of 28
+      October, dropped 11 GUR commandos in an open field northwest of Pokrovsk’s industrial
+      zone. Video showed troops disembarking and fanning out rapidly. Insertion was
+      at night/low visibility to minimize detection, but Russian reconnaissance drones
+      spotted the low-flying helicopter and destroyed the 11 commandos. The subsequent
+      mission, which was launched on the night of 30 October using two Blackhawk helicopters,
+      inserted two groups (total ~20–24 troops) in the same general area and they suffered
+      the same fate as the first group. To understand the purpose of these two failed
+      missions you need to understand the relationship between the GUR and the CIA.
+      Ukraine’s Main Directorate of Intelligence (GUR, or HUR in Ukrainian), the military
+      intelligence agency under the Ministry of Defense, has developed one of the closest
+      partnerships with the US Central Intelligence Agency (CIA) among any foreign service.
+      This relationship, forged in secrecy after the 2014 Maidan Revolution and Russia’s
+      annexation of Crimea, reportedly transformed the GUR from a Soviet-era remnant
+      infiltrated by Russian agents into a sophisticated operator renowned for audacious
+      strikes against Moscow. The CIA invested tens of millions of dollars in rebuilding
+      the GUR, providing training, equipment, and secure facilities, while sharing intelligence
+      that proved critical during Russia’s 2022 full-scale invasion. Former U.S. officials
+      describe it as a “historic opportunity” to counter Russia, with the GUR becoming
+      “our little baby.” While the Western media reports claim that this operation was
+      supported by NATO, I think the more likely explanation is that this was a joint-CIA-GUR
+      operation to extract CIA paramilitary officers who were operating with Ukrainian
+      forces in and around Pokrovsk. I don’t think we are talking about junior CIA personnel…
+      I think there are at least a couple, if not more, senior CIA paramilitary officers
+      who are now trapped in Pokrovsk. Given that Western reports emphasize that these
+      two failed missions were carried out at the direction of Budanov, the Chief of
+      the GUR, and that Budanov works with the CIA rather than the US military or NATO,
+      this has all the trappings of a CIA op. Attempting an extraction twice in three
+      days is but another indicator of the desperate situation confronting the Ukrainian
+      forces and their Western advisors in Pokrovsk. Turning away from Pokrovsk and
+      back to my interviews in Moscow, I am posting my conversations with the prankster
+      team of Vovan and Lexus and with Mikhail Shvydhoy. Vovan and Lexus ( Russian:
+      Вован и Лексус ) are the pseudonyms of Russian pranksters Vladimir Aleksandrovich
+      Kuznetsov, also known as Vladimir Krasnov or Vovan, and Aleksei Vladimirovich
+      Stolyarov, aka Lexus, who specialize in elaborate telephone and video pranks targeting
+      celebrities, politicians, and public figures. They began collaborating in 2014,
+      blending comedy with prank-journalism —i.e., impersonating high-profile individuals
+      to elicit candid or compromising statements, often on geopolitical topics like
+      Ukraine, Russia-West relations, and sanctions. I find their work wildly entertaining.
+      Vovan and Lexus Mikhail Shvydkoy Mikhail Yefimovich Shvydkoy (Russian: Михаил
+      Ефимович Швыдкой;) is a prominent Russian theater critic, art historian, media
+      executive, television host, and high-ranking cultural diplomat. He holds a doctorate
+      in art history and has been a key figure in Russian cultural policy for decades,
+      often described as a bridge between arts, media, and international relations.
+      Since 2008 he has served as the Special Representative of the President of the
+      Russian Federation for International Cultural Cooperation (Ambassador-at-Large
+      since 2023). In this role, he promotes Russian culture globally, facilitating
+      exchanges with countries like China, India, Brazil, and BRICS nations. He has
+      emphasized expanding into new markets in Asia, Africa, and Latin America, supporting
+      initiatives like “Russian Seasons” festivals and museum collaborations. Mikhail
+      is an authentic gentleman. He told me the story of the relationship between Abraham
+      Lincoln, the 16th President of the United States (1861–1865), and Tsar Alexander
+      II of Russia (1855–1881). Although they never met in person, they developed a
+      warm diplomatic relationship rooted in mutual respect, shared commitment to emancipation,
+      and strategic alignment during the American Civil War. Their bond symbolized a
+      rare period of warmth in U.S.-Russian relations, often described as a friendship
+      in spirit despite vast differences in background—Lincoln as a self-educated lawyer
+      from humble origins leading a democracy, and Alexander as a hereditary autocrat
+      reforming an empire… That story is a movie waiting to be made. I thank you for
+      your invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The Ukrainian Main Intelligence Directorate attempted two
+      high-risk air assault operations using US-supplied helicopters in the besieged
+      city of Pokrovsk to disrupt Russian positions, but both missions failed to achieve
+      their objectives amid significant Russian advances.
+    paragraph_summary: The article discusses two high-risk air assault operations conducted
+      by Ukraine's Main Intelligence Directorate (GUR) using US-supplied UH-60A Black
+      Hawk helicopters in the besieged Pokrovsk sector of Donetsk Oblast, where Russian
+      forces control approximately 80% of the city. Despite the intense Russian advances,
+      the missions, overseen by GUR chief Kyrylo Budanov, aimed to insert elite special
+      forces into contested areas but ultimately failed, resulting in the loss of troops
+      due to Russian reconnaissance and attacks. The operations were intended to disrupt
+      enemy positions and restore supply lines, but their effectiveness is questioned.
+      The article highlights the close partnership between the GUR and the CIA, which
+      has evolved since the 2014 Maidan Revolution, transforming the GUR into a more
+      sophisticated military intelligence agency capable of conducting daring operations
+      against Russian forces.
+    published: '2025-11-03T05:18:34+00:00'
+  - title: Ukraine’s Suicide Helicopter Missions… Why?
+    url: https://sonar21.com/ukraines-suicide-helicopter-missions-why/
+    text: 'Cartoon by Nemo Ukraine’s Main Intelligence Directorate (GUR) has conducted
+      two high-risk air assault operations using US-supplied UH-60A Black Hawk helicopters
+      in the Pokrovsk sector of Donetsk Oblast amid intense Russian advances. Pokrovsk,
+      a key logistics hub, has been under siege for over a year, with Russian forces
+      controlling ~80% of the city by late October 2025 and have now encircled the Ukrainian
+      forces that remain in the area. The missions, overseen by GUR chief Kyrylo Budanov,
+      tried, and failed, to insert elite special forces into contested or Russian-claimed
+      areas. The key question is why? Ukrainian sources claim the feckless operation
+      was to disrupt enemy positions, clear strongpoints, and restore supply lines,
+      but this is nonsensical. The first mission, which was launched the night of 28
+      October, dropped 11 GUR commandos in an open field northwest of Pokrovsk’s industrial
+      zone. Video showed troops disembarking and fanning out rapidly. Insertion was
+      at night/low visibility to minimize detection, but Russian reconnaissance drones
+      spotted the low-flying helicopter and destroyed the 11 commandos. The subsequent
+      mission, which was launched on the night of 30 October using two Blackhawk helicopters,
+      inserted two groups (total ~20–24 troops) in the same general area and they suffered
+      the same fate as the first group. To understand the purpose of these two failed
+      missions you need to understand the relationship between the GUR and the CIA.
+      Ukraine’s Main Directorate of Intelligence (GUR, or HUR in Ukrainian), the military
+      intelligence agency under the Ministry of Defense, has developed one of the closest
+      partnerships with the US Central Intelligence Agency (CIA) among any foreign service.
+      This relationship, forged in secrecy after the 2014 Maidan Revolution and Russia’s
+      annexation of Crimea, reportedly transformed the GUR from a Soviet-era remnant
+      infiltrated by Russian agents into a sophisticated operator renowned for audacious
+      strikes against Moscow. The CIA invested tens of millions of dollars in rebuilding
+      the GUR, providing training, equipment, and secure facilities, while sharing intelligence
+      that proved critical during Russia’s 2022 full-scale invasion. Former U.S. officials
+      describe it as a “historic opportunity” to counter Russia, with the GUR becoming
+      “our little baby.” While the Western media reports claim that this operation was
+      supported by NATO, I think the more likely explanation is that this was a joint-CIA-GUR
+      operation to extract CIA paramilitary officers who were operating with Ukrainian
+      forces in and around Pokrovsk. I don’t think we are talking about junior CIA personnel…
+      I think there are at least a couple, if not more, senior CIA paramilitary officers
+      who are now trapped in Pokrovsk. Given that Western reports emphasize that these
+      two failed missions were carried out at the direction of Budanov, the Chief of
+      the GUR, and that Budanov works with the CIA rather than the US military or NATO,
+      this has all the trappings of a CIA op. Attempting an extraction twice in three
+      days is but another indicator of the desperate situation confronting the Ukrainian
+      forces and their Western advisors in Pokrovsk. Turning away from Pokrovsk and
+      back to my interviews in Moscow, I am posting my conversations with the prankster
+      team of Vovan and Lexus and with Mikhail Shvydhoy. Vovan and Lexus ( Russian:
+      Вован и Лексус ) are the pseudonyms of Russian pranksters Vladimir Aleksandrovich
+      Kuznetsov, also known as Vladimir Krasnov or Vovan, and Aleksei Vladimirovich
+      Stolyarov, aka Lexus, who specialize in elaborate telephone and video pranks targeting
+      celebrities, politicians, and public figures. They began collaborating in 2014,
+      blending comedy with prank-journalism —i.e., impersonating high-profile individuals
+      to elicit candid or compromising statements, often on geopolitical topics like
+      Ukraine, Russia-West relations, and sanctions. I find their work wildly entertaining.
+      Vovan and Lexus Mikhail Shvydkoy Mikhail Yefimovich Shvydkoy (Russian: Михаил
+      Ефимович Швыдкой;) is a prominent Russian theater critic, art historian, media
+      executive, television host, and high-ranking cultural diplomat. He holds a doctorate
+      in art history and has been a key figure in Russian cultural policy for decades,
+      often described as a bridge between arts, media, and international relations.
+      Since 2008 he has served as the Special Representative of the President of the
+      Russian Federation for International Cultural Cooperation (Ambassador-at-Large
+      since 2023). In this role, he promotes Russian culture globally, facilitating
+      exchanges with countries like China, India, Brazil, and BRICS nations. He has
+      emphasized expanding into new markets in Asia, Africa, and Latin America, supporting
+      initiatives like “Russian Seasons” festivals and museum collaborations. Mikhail
+      is an authentic gentleman. He told me the story of the relationship between Abraham
+      Lincoln, the 16th President of the United States (1861–1865), and Tsar Alexander
+      II of Russia (1855–1881). Although they never met in person, they developed a
+      warm diplomatic relationship rooted in mutual respect, shared commitment to emancipation,
+      and strategic alignment during the American Civil War. Their bond symbolized a
+      rare period of warmth in U.S.-Russian relations, often described as a friendship
+      in spirit despite vast differences in background—Lincoln as a self-educated lawyer
+      from humble origins leading a democracy, and Alexander as a hereditary autocrat
+      reforming an empire… That story is a movie waiting to be made. I thank you for
+      your invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The Ukrainian Main Intelligence Directorate attempted two
+      high-risk air assault operations using US-supplied helicopters in the besieged
+      city of Pokrovsk to disrupt Russian positions, but both missions failed to achieve
+      their objectives amid significant Russian advances.
+    paragraph_summary: The article discusses two high-risk air assault operations conducted
+      by Ukraine's Main Intelligence Directorate (GUR) using US-supplied UH-60A Black
+      Hawk helicopters in the besieged Pokrovsk sector of Donetsk Oblast, where Russian
+      forces control approximately 80% of the city. Despite the intense Russian advances,
+      the missions, overseen by GUR chief Kyrylo Budanov, aimed to insert elite special
+      forces into contested areas but ultimately failed, resulting in the loss of troops
+      due to Russian reconnaissance and attacks. The operations were intended to disrupt
+      enemy positions and restore supply lines, but their effectiveness is questioned.
+      The article highlights the close partnership between the GUR and the CIA, which
+      has evolved since the 2014 Maidan Revolution, transforming the GUR into a more
+      sophisticated military intelligence agency capable of conducting daring operations
+      against Russian forces.
+    published: '2025-11-03T05:18:34+00:00'
+  - title: Russia’s Military Advantage Over NATO
+    url: https://sonar21.com/russias-military-advantage-over-nato/
+    text: Underestimating one’s opponent, whether it is a sporting event or a military
+      confrontation is a recipe for disaster. If you watch the mainstream media in the
+      West, you are subjected to a flood of claims by former military and intelligence
+      officers about the weakness and incompetence of the Russians. If you take time
+      to watch my interviews with Russian military correspondent Sladkov and retired
+      Russian Colonel Basurin, they eschew making such characterizations of the West…
+      The US military in particular. For them, war is serious business and requires
+      that one respect the opponent. The news that the Pentagon has approved shipping
+      Tomahawk missiles to Russia is a potential disaster for the West. One thing I
+      heard from most of the people I interviewed during my time in Russia is that the
+      deployment of this weapon to Ukraine is a red line for Russia because that missile
+      can carry a nuclear warhead. If President Trump decides to do this, and one or
+      more of those missiles are launched into Russia, then the Russian response will
+      be severe and is likely to extend beyond Ukraine. Because the Russians believe
+      that a Tomahawk can only be launched with direct participation by US military
+      personnel, I cannot rule out the possibility that Russia will retaliate by hitting
+      the continental US if the Tomahawk hits a sensitive target in Moscow or St. Petersburg…
+      Donald Trump is playing with nuclear fire. I interviewed Alexander Valeryevich
+      Sladkov, who is a seasoned Russian military reporter and currently serves as the
+      special correspondent for DIP “Vesti” VGTRK. Mr. Sladkov is a reserve officer
+      (Senior Lieutenant) in the Russian army and is one of Russia’s most experienced
+      war correspondents, having worked in all major conflicts across the post-Soviet
+      space and beyond. He is the recipient of numerous state awards and professional
+      prizes. In this interview he compliments the US military, but also acknowledges
+      that the US is now viewed as a serious adversary. I was surprised to learn that
+      during his career as a journalist he worked at the Pentagon, West Point and Bagram
+      Air Force base in Afghanistan. Following my interview with Sladkov, I interviewed
+      Eduard Aleksandrovich Basurin. I screwed up at the start by identifying him as
+      a former General, and he gently corrected my error by reminding me that he was
+      a Colonel. Retired Colonel Basurin served in the  the Donetsk People’s Republic,
+      including a stint as the press secretary of the DPR military command. He is a
+      graduate of the Donetsk Higher Military-Political School (1987) and served in
+      both the Soviet and Russian armies (1987-1997). He has been sanctioned by the
+      EU since February 16, 2015. Colonel Basurin, like Sladkov, spoke respectfully
+      of the US military. He said the biggest difference between the NATO officers and
+      Russian officers is the Russian belief that senior officers, to be effective,
+      must lead from the front. If you take time to watch this video I think you will
+      come away with an appreciation of the humanity of this military man… I believe
+      he represents the thinking of most Russian officers. Glenn Diesen and I had a
+      detailed discussion about Russian capabilities compared to those of NATO. I explained
+      what I heard from the Russian military and political leaders that I interviewed
+      while in Moscow. I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .
+    one_sentence_summary: Underestimating opponents in military conflicts can lead to
+      catastrophic outcomes, as highlighted by contrasting views between Western media
+      and Russian military experts regarding the seriousness of warfare, particularly
+      in light of the Pentagon's approval to ship Tomahawk missiles to Ukraine, which
+      Russia considers a significant threat.
+    paragraph_summary: Underestimating opponents in military confrontations can lead
+      to catastrophic outcomes, as highlighted by the contrasting perspectives of Western
+      media and Russian military officials regarding the capabilities of the Russian
+      military. While Western commentators often portray Russia as weak, Russian military
+      correspondent Sladkov and retired Colonel Basurin emphasize the importance of
+      respecting adversaries, particularly in the context of potential U.S. military
+      actions. The Pentagon's approval to send Tomahawk missiles to Ukraine is seen
+      as a significant escalation, with Russian officials considering it a "red line"
+      that could provoke a severe response, potentially even targeting the continental
+      U.S. if Russian cities are attacked. Sladkov, a seasoned war correspondent, acknowledges
+      the seriousness of the U.S. as an adversary while maintaining a level of respect
+      for its military capabilities, underscoring the high stakes involved in the current
+      geopolitical tensions.
+    published: '2025-11-02T03:16:47+00:00'
+  - title: Russia’s Military Advantage Over NATO
+    url: https://sonar21.com/russias-military-advantage-over-nato/
+    text: Underestimating one’s opponent, whether it is a sporting event or a military
+      confrontation is a recipe for disaster. If you watch the mainstream media in the
+      West, you are subjected to a flood of claims by former military and intelligence
+      officers about the weakness and incompetence of the Russians. If you take time
+      to watch my interviews with Russian military correspondent Sladkov and retired
+      Russian Colonel Basurin, they eschew making such characterizations of the West…
+      The US military in particular. For them, war is serious business and requires
+      that one respect the opponent. The news that the Pentagon has approved shipping
+      Tomahawk missiles to Russia is a potential disaster for the West. One thing I
+      heard from most of the people I interviewed during my time in Russia is that the
+      deployment of this weapon to Ukraine is a red line for Russia because that missile
+      can carry a nuclear warhead. If President Trump decides to do this, and one or
+      more of those missiles are launched into Russia, then the Russian response will
+      be severe and is likely to extend beyond Ukraine. Because the Russians believe
+      that a Tomahawk can only be launched with direct participation by US military
+      personnel, I cannot rule out the possibility that Russia will retaliate by hitting
+      the continental US if the Tomahawk hits a sensitive target in Moscow or St. Petersburg…
+      Donald Trump is playing with nuclear fire. I interviewed Alexander Valeryevich
+      Sladkov, who is a seasoned Russian military reporter and currently serves as the
+      special correspondent for DIP “Vesti” VGTRK. Mr. Sladkov is a reserve officer
+      (Senior Lieutenant) in the Russian army and is one of Russia’s most experienced
+      war correspondents, having worked in all major conflicts across the post-Soviet
+      space and beyond. He is the recipient of numerous state awards and professional
+      prizes. In this interview he compliments the US military, but also acknowledges
+      that the US is now viewed as a serious adversary. I was surprised to learn that
+      during his career as a journalist he worked at the Pentagon, West Point and Bagram
+      Air Force base in Afghanistan. Following my interview with Sladkov, I interviewed
+      Eduard Aleksandrovich Basurin. I screwed up at the start by identifying him as
+      a former General, and he gently corrected my error by reminding me that he was
+      a Colonel. Retired Colonel Basurin served in the  the Donetsk People’s Republic,
+      including a stint as the press secretary of the DPR military command. He is a
+      graduate of the Donetsk Higher Military-Political School (1987) and served in
+      both the Soviet and Russian armies (1987-1997). He has been sanctioned by the
+      EU since February 16, 2015. Colonel Basurin, like Sladkov, spoke respectfully
+      of the US military. He said the biggest difference between the NATO officers and
+      Russian officers is the Russian belief that senior officers, to be effective,
+      must lead from the front. If you take time to watch this video I think you will
+      come away with an appreciation of the humanity of this military man… I believe
+      he represents the thinking of most Russian officers. Glenn Diesen and I had a
+      detailed discussion about Russian capabilities compared to those of NATO. I explained
+      what I heard from the Russian military and political leaders that I interviewed
+      while in Moscow. I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .
+    one_sentence_summary: Underestimating opponents in military conflicts can lead to
+      catastrophic outcomes, as highlighted by contrasting views between Western media
+      and Russian military experts regarding the seriousness of warfare, particularly
+      in light of the Pentagon's approval to ship Tomahawk missiles to Ukraine, which
+      Russia considers a significant threat.
+    paragraph_summary: Underestimating opponents in military confrontations can lead
+      to catastrophic outcomes, as highlighted by the contrasting perspectives of Western
+      media and Russian military officials regarding the capabilities of the Russian
+      military. While Western commentators often portray Russia as weak, Russian military
+      correspondent Sladkov and retired Colonel Basurin emphasize the importance of
+      respecting adversaries, particularly in the context of potential U.S. military
+      actions. The Pentagon's approval to send Tomahawk missiles to Ukraine is seen
+      as a significant escalation, with Russian officials considering it a "red line"
+      that could provoke a severe response, potentially even targeting the continental
+      U.S. if Russian cities are attacked. Sladkov, a seasoned war correspondent, acknowledges
+      the seriousness of the U.S. as an adversary while maintaining a level of respect
+      for its military capabilities, underscoring the high stakes involved in the current
+      geopolitical tensions.
+    published: '2025-11-02T03:16:47+00:00'
+  - title: Will Evil Prevail?
+    url: https://sonar21.com/will-evil-prevail/
+    text: 'Rational assessments based on facts indicate that the Collective West is
+      losing the battle for supremacy against the Global South—can the boundless evil
+      of the West turn the tables? By Peter Hanseler via Forumgeopolitica.com Introduction
+      Over time, I have written several comprehensive series of articles on the outcome
+      of the great conflict between the Collective West and the Global South, most recently
+      in my series “The war between two worlds has already begun” ( Part 1 ; Part 2
+      ; Part 3 ; Part 4 ; Part 5 ). I came to the conclusion that this conflict will
+      last a very long time, but that the multipolarity of the Global South will ultimately
+      prevail. For some time now, I have been considering writing a new series that
+      would assess the individual conflict zones in sequence: the military ones (Gaza,
+      the West Bank, Syria, Lebanon, Iran, Ukraine, Greenland, and now Venezuela); the
+      economic ones (tariff and sanctions wars waged by the US against China, Russia,
+      India, Brazil, Japan, and South Korea, among others). This will be a huge undertaking
+      and will probably not be addressed until next year. However, while preparing for
+      this series, I was inspired by one of my closest friends and conversation partners—an
+      experienced and educated man from Italy—to consider the idea that evil, when recklessly
+      unleashed and used in psychopathic doses, can also overcome an opponent who is
+      rational and educated in every other way. – I (had to) consider the idea that
+      evil, when ruthlessly unleashed and used in psychopathic doses, can also overcome
+      an opponent who is superior in terms of all rational and intellectual criteria.
+      We are exploring these ideas today. Definition of evil Evil as a concept is usually
+      defined as deeply immoral behavior and is associated with actions that cause unnecessary
+      suffering and pain to others. In literature and philosophy, the concept of evil
+      is one of the main themes. Bulgakov’s Master and Margarita, Dostoyevsky, Tolstoy,
+      Socrates, and many others deal with it in a depth that my intellect simply can’t
+      keep up with. When I feel overwhelmed by abstract concepts, I regularly look for
+      examples; in this case, malice in geopolitics. If you ask the man on the street
+      about evil in history, you will be inundated with terms and names such as Nazis,
+      Hitler, Pol Pot—the popular examples of evil in recent history, names and groups
+      that are systematically kept alive by the media in the West. As always, a simple
+      and catchy worldview is served up on a silver plate to distract from what is truly
+      evil—and present. Who embodies evil in geopolitics? If you stray from the well-trodden
+      paths of Western propaganda history, you will soon come across a book that should
+      be declared a standard work on 20th-century history: “ Conjuring Hitler: How Britain
+      and America Made the Third Reich ” by Guido G. Preparata. A book whose contents
+      are concealed from the general public. Preparata not only meticulously proves
+      that Hitler was financed and made possible by American and British funding, but
+      also dispels the myth that World War I was started by the Germans rather than
+      the British. Furthermore, Preparata proves that the British not only deposed Russian
+      Tsar Nikolas II in 1917 and brought Lenin to power, but also ostensibly supported
+      the Whites in the Russian Civil War (1917-1922), only to let them bleed to death
+      in a veritable manner; Approximately 10 million people died in this British-led
+      bloodbath alone. The powerful of this world do not enjoy this magnificent book.
+      As a result, Preparata’s entry on Wikipedia has been deleted and can now be found
+      on pluspedia.org . The British lost their supremacy as a hegemonic power after
+      World War I, but definitely by World War II—at least that’s what people think.
+      This may be true in terms of Great Britain as a world power and political entity.
+      Nevertheless, the power of the British as a political unit seems to be greater
+      than would be appropriate in military terms. The British thrive on myths such
+      as the SAS, James Bond, and MI-6, because their armed forces are no longer what
+      they used to be. The arrogant islanders currently have more admirals than warships.
+      When I visited retired CIA officers and former high-ranking officers of the US
+      armed forces in the US this summer, this imbalance between actual military strength
+      and the British’s real influence was a major topic of discussion. On the one hand,
+      the British influence can be attributed to MI6, as the British secret service
+      operates without any moral constraints and is very efficient and ruthless. An
+      older colleague told me about Operation Ajax, when MI6 overthrew Mohammad Mossadegh
+      in Iran in 1953. The British had the CIA at their side, which followed along like
+      an apprentice, amazed and admiring; an attitude that the CIA still has toward
+      its colleagues from London today, according to my sources. City of London – Rothschilds
+      In connection with British power, the term “City of London” and—behind closed
+      doors—the name Rothschild come up again and again. When it comes to terms and
+      contexts that those in power want to keep under wraps, it is relatively easy to
+      get confirmation of this: my question to GROK, “ What is it with the power of
+      the City of London? ” was answered after about 15 minutes with “ No response .”
+      That is also an answer. The Rothschilds became famous, among other things, for
+      being the first to learn of the outcome of the Battle of Waterloo through the
+      use of carrier pigeons, thereby making a fabulous profit on British bonds. The
+      fact is that for centuries, the Rothschilds financed all parties involved in every
+      war and major project and always came out on top, true to the motto: the more
+      blood that is shed, the richer we become. Furthermore, the influence of the Rothschilds
+      in Western central banks is undoubtedly a fact. Mayer Amschel Rothschild (1744–1812),
+      the founder of the great dynasty, once said: “Give me control of a nation’s money,
+      and I care not who makes its laws.” Mayer Amschel Rothschild (1744–1812) The Rothschilds’
+      wealth was and remains legendary. Thus, their political influence extended not
+      only in London, but across the entire European continent. The wealth and power
+      of the Rothschilds was so enormous that even poets—such as Heinrich Heine—often
+      wrote about them, sometimes admiringly, sometimes ironically, but always aptly.
+      Heine, who knew James de Rothschild (Paris) personally, wrote in a letter in 1843:
+      “Mr. Rothschild is a man who rules Europe and feeds kings. He is the true secret
+      power of the continent. When he sneezes, the stock markets tremble.” Heinrich
+      Heine, 1843 The Rothschilds’ power was thus greater than that of kings, and it
+      was based on an ingenious information network, political power, and above all,
+      financial resources that surpassed those of all royal houses and seemed immeasurable.
+      In 1815, the Rothschilds attempted to gain a foothold in Russia at the Congress
+      of Vienna. However, their efforts were in vain, as Tsar Alexander I managed to
+      prevent this – the Rothschilds promised revenge and it is rumored that the outright
+      slaughter of the tsar’s family, including all his children, in Yekaterinburg in
+      1918 can be traced back to the Rothschilds; whether this is true, I do not know.
+      Since 1945, the Rothschilds are said to no longer exist as a power. The Rothschilds
+      themselves and all the major media outlets around the world would have the global
+      population believe that this hegemon of money and global capital has had no significant
+      influence since World War II and now confines itself to operating a few private
+      banks, collecting art, managing castles, and crafting delicious wines. There is
+      no evidence whatsoever that the Rothschilds were impoverished by World War II,
+      and it would probably be the first time in human history that a dynasty would
+      have voluntarily renounced power and money. How much power the Rothschilds really
+      wield at present is hard to say. The Rothschilds were, however, also the big financiers
+      of the richtest industrial families of the 19th century in the United States.
+      It seems likely that these power structures are still in place today and wield
+      their financial influence among others through entities like Blackrock and the
+      likes. The exact composition of these puppet masters is unknown to outsiders,
+      and when I asked questions, I was advised not to dig any deeper; it would not
+      be good for my health, and I would run the risk of being dismissed as a conspiracy
+      theorist by the bought-and-paid-for chatterboxes in the Western media. The power
+      that no one wants to acknowledge In my opinion, it is these groups that wield
+      power in the countries of the Collective West, have determined the fate of the
+      world for centuries, and will do everything in their power to continue to do so
+      in the future. These groups do not care if half of humanity perishes in a conflict
+      that makes them even richer and more powerful. These groups do not think in terms
+      of quarters, as Americans do, but in terms of decades and centuries. Law, morality,
+      and decency are not concepts that embody any value for these power brokers. They
+      never have to face the public or justify their actions before the court of humanity.
+      Instead, they keep servants, currently in the form of people such as Trump, Macron,
+      Merz, Starmer, Netanyahu, etc. These, in turn, proclaim and implement the unacceptable,
+      the unspeakable, and make taboos such as genocide socially acceptable, supported
+      by Western media whose decision-makers are blackmailed or bought – see my article
+      “ Genocide as ‘self-defense’ – Western media as accomplices in the genocide in
+      Gaza .” The tools that translate the unspeakable Do you remember the solemnly
+      sealed ceasefire and hostage exchange between the Israelis and Hamas? How many
+      days ago was that? For my part, I didn’t even think it necessary for our blog
+      to report on it, because I would have bet my farm that it was just a deceitful
+      charade by the US and the Israelis—and I was right. Representing everything that
+      is unsavory in this world, let’s hear from Ben Gwir: The Israelis have thus lost
+      the last shred of credibility—I doubt that humanity, as a whole society, can afford
+      to have such members. Nevertheless, the Western media are deliberately preparing
+      for the continuation of the genocide, as exemplified by the Swiss newspaper Neue
+      Zürcher Zeitung (NZZ) on October 29, 2025: “ Netanyahu orders attacks on Gaza
+      – Israel responds to provocations by Hamas .” Neue Zürcher Zeitung (NZZ) am 29
+      October 2025 Calls for military escalation The fact is that the Collective West
+      is actually taking positions that make no sense when you consider the balance
+      of power. With regard to the Ukraine conflict, for example, the triumvirate of
+      the willing—Merz, Starmer, and Macron—is demanding the withdrawal of Russian troops
+      or at least a freeze on the conflict at the line of contact, even though the Russians
+      could not have the slightest interest in freezing this conflict. Mr. Trump’s constant
+      flip-flopping does not make the situation any clearer, but it does at least cause
+      “Russia experts” such as Gilbert Doctorow, whom we recently discussed in “ When
+      an ‘expert’ loses his footing ,” to seem to lose their nerves. Two weeks ago,
+      he announced that, due to President Putin’s hesitant behavior, Russia’s “elites”
+      were preparing to depose him, nota bene, without defining who these “elites” might
+      be. The fact is that there are voices in Russia calling for tougher action against
+      Ukraine or even strikes against NATO facilities. However, this is nothing new;
+      it is as old as the conflict itself. The possibility of a tougher approach was
+      also lively discussed within my circle of contacts and was also mentioned in articles,
+      e.g., “ The consequences of the intercepted German Air Force conversation mean
+      war .” The Kremlin has so far refrained from such escalations. I write “Kremlin”
+      because the claim by some “experts” that President Putin makes decisions single-handedly
+      is complete fantasy. President Putin has an excellent team with whom he works,
+      who he listens to, and then makes decisions. People in both the East and West
+      should be grateful that President Putin does not allow himself to be provoked
+      by the hotheads in Brussels, Berlin, Paris, London, and New York. Evil escalates
+      to the point of downfall Those who call for military escalation regularly conceal
+      the consequences of such escalation, which, in my opinion, is irresponsible and
+      foolish given the existence of nuclear weapons. If we want to quantify evil, we
+      must also admit that those who are armed with the weapon of evil have no inhibitions
+      and are just waiting for the other side to be drawn into escalation so that they
+      can then do the unspeakable. Alternative: Economic escalation Sanctions bring
+      nothing but misery Most geopolitical analysts neglect the economic weapons that
+      are available. Although the West has been trying to bring countries to their knees
+      with sanctions for years (Cuba since 1960, Iran since 1980, Russia since 2014,
+      China more recently), this instrument has never been successful, except in causing
+      suffering among the weakest in the countries affected. For example, US sanctions
+      caused the deaths of half a million children in Iraq. When asked about this, the
+      then US Ambassador to the UN, Madeleine Albright, replied: “I think that is a
+      very hard choice, but the price, we think, the price is worth it.” US-Botschafterin
+      Madeleine Albright, CBS 60 Minutes 1996 The personification of evil: Madeleine
+      Albright When we talk about evil, I personally believe that in exceptional cases
+      it is perfectly acceptable to speak ill of the dead; Albright died in 2022. The
+      Western financial system is built on shaky ground Although the opposite is claimed
+      in the West, I am firmly convinced that the Western financial system is hanging
+      by a thread: the debt of governments, the corporate sector, and private households
+      is out of control, stock and bond valuations are at insane levels, and inflation
+      is two to three times higher than reported by government agencies. One of the
+      best indicators that everything is in disarray is the price development of precious
+      metals, especially gold and silver. Experts have told me that it would be easy
+      for China to corner the manipulated COMEX and LBMA gold and silver markets, which
+      could lead to a collapse of the Western financial markets. A financial nuclear
+      strike from the East, which has not yet been carried out, would rob the Collective
+      West of much of its freedom of action and would be a viable non-military wake-up
+      call for the West. Conclusion An opponent armed with the weapon of evil has the
+      advantage. He knows no morals, has no inhibitions, and will never have to take
+      responsibility for his terrible deeds, because evil acts in the dark. I am firmly
+      convinced that the forces I have described exist and have done so for centuries.
+      They not only survive revolutions, world wars, and genocides, but order them.
+      From time to time, their servants, whom they use, are held accountable to show
+      the world that justice exists—a wicked charade. However, skepticism in the Global
+      South is growing along with its power, and as the center of gravity shifts from
+      West to East and the hidden powers have their center of power in the West, hopefully
+      good will prevail, but only if evil remains at the doorstep of the Global South.
+      Peter Hanseler is a geopolitical analyst who reports from Moscow. Peter was born
+      in Zurich, Switzerland. He holds a J.D. (lic. iur.) and Ph.D. (Dr. iur.) from
+      Zurich University Law School and Master in International Commercial Law (LL.M.)
+      from Georgetown University Law School, Washington, D.C. He has lived in the US,
+      Spain, Switzerland, Thailand and Russia. Peter is independent, his work is not
+      supported by government or private entities. Peter’s website Forumgeopolitica.com
+      publishes its content in English, Russian, German and French.'
+    one_sentence_summary: The article argues that the Collective West is losing its
+      dominance to the Global South in an ongoing conflict characterized by military
+      and economic tensions, suggesting that the multipolarity of the Global South will
+      ultimately prevail.
+    paragraph_summary: In his article, Peter Hanseler argues that the Collective West
+      is losing its dominance over the Global South, suggesting that the latter's multipolarity
+      will ultimately prevail in the ongoing conflict between the two. He reflects on
+      the various military and economic battlegrounds, including regions like Gaza,
+      Ukraine, and Venezuela, and acknowledges the complexity of the situation. While
+      preparing for a more detailed analysis of these conflicts, he contemplates the
+      notion that extreme malevolence, when unleashed, can potentially triumph over
+      rationality and intellect, a theme explored in literature and philosophy by figures
+      such as Bulgakov and Dostoyevsky.
+    published: '2025-11-01T16:24:17+00:00'
+  - title: Will Evil Prevail?
+    url: https://sonar21.com/will-evil-prevail/
+    text: 'Rational assessments based on facts indicate that the Collective West is
+      losing the battle for supremacy against the Global South—can the boundless evil
+      of the West turn the tables? By Peter Hanseler via Forumgeopolitica.com Introduction
+      Over time, I have written several comprehensive series of articles on the outcome
+      of the great conflict between the Collective West and the Global South, most recently
+      in my series “The war between two worlds has already begun” ( Part 1 ; Part 2
+      ; Part 3 ; Part 4 ; Part 5 ). I came to the conclusion that this conflict will
+      last a very long time, but that the multipolarity of the Global South will ultimately
+      prevail. For some time now, I have been considering writing a new series that
+      would assess the individual conflict zones in sequence: the military ones (Gaza,
+      the West Bank, Syria, Lebanon, Iran, Ukraine, Greenland, and now Venezuela); the
+      economic ones (tariff and sanctions wars waged by the US against China, Russia,
+      India, Brazil, Japan, and South Korea, among others). This will be a huge undertaking
+      and will probably not be addressed until next year. However, while preparing for
+      this series, I was inspired by one of my closest friends and conversation partners—an
+      experienced and educated man from Italy—to consider the idea that evil, when recklessly
+      unleashed and used in psychopathic doses, can also overcome an opponent who is
+      rational and educated in every other way. – I (had to) consider the idea that
+      evil, when ruthlessly unleashed and used in psychopathic doses, can also overcome
+      an opponent who is superior in terms of all rational and intellectual criteria.
+      We are exploring these ideas today. Definition of evil Evil as a concept is usually
+      defined as deeply immoral behavior and is associated with actions that cause unnecessary
+      suffering and pain to others. In literature and philosophy, the concept of evil
+      is one of the main themes. Bulgakov’s Master and Margarita, Dostoyevsky, Tolstoy,
+      Socrates, and many others deal with it in a depth that my intellect simply can’t
+      keep up with. When I feel overwhelmed by abstract concepts, I regularly look for
+      examples; in this case, malice in geopolitics. If you ask the man on the street
+      about evil in history, you will be inundated with terms and names such as Nazis,
+      Hitler, Pol Pot—the popular examples of evil in recent history, names and groups
+      that are systematically kept alive by the media in the West. As always, a simple
+      and catchy worldview is served up on a silver plate to distract from what is truly
+      evil—and present. Who embodies evil in geopolitics? If you stray from the well-trodden
+      paths of Western propaganda history, you will soon come across a book that should
+      be declared a standard work on 20th-century history: “ Conjuring Hitler: How Britain
+      and America Made the Third Reich ” by Guido G. Preparata. A book whose contents
+      are concealed from the general public. Preparata not only meticulously proves
+      that Hitler was financed and made possible by American and British funding, but
+      also dispels the myth that World War I was started by the Germans rather than
+      the British. Furthermore, Preparata proves that the British not only deposed Russian
+      Tsar Nikolas II in 1917 and brought Lenin to power, but also ostensibly supported
+      the Whites in the Russian Civil War (1917-1922), only to let them bleed to death
+      in a veritable manner; Approximately 10 million people died in this British-led
+      bloodbath alone. The powerful of this world do not enjoy this magnificent book.
+      As a result, Preparata’s entry on Wikipedia has been deleted and can now be found
+      on pluspedia.org . The British lost their supremacy as a hegemonic power after
+      World War I, but definitely by World War II—at least that’s what people think.
+      This may be true in terms of Great Britain as a world power and political entity.
+      Nevertheless, the power of the British as a political unit seems to be greater
+      than would be appropriate in military terms. The British thrive on myths such
+      as the SAS, James Bond, and MI-6, because their armed forces are no longer what
+      they used to be. The arrogant islanders currently have more admirals than warships.
+      When I visited retired CIA officers and former high-ranking officers of the US
+      armed forces in the US this summer, this imbalance between actual military strength
+      and the British’s real influence was a major topic of discussion. On the one hand,
+      the British influence can be attributed to MI6, as the British secret service
+      operates without any moral constraints and is very efficient and ruthless. An
+      older colleague told me about Operation Ajax, when MI6 overthrew Mohammad Mossadegh
+      in Iran in 1953. The British had the CIA at their side, which followed along like
+      an apprentice, amazed and admiring; an attitude that the CIA still has toward
+      its colleagues from London today, according to my sources. City of London – Rothschilds
+      In connection with British power, the term “City of London” and—behind closed
+      doors—the name Rothschild come up again and again. When it comes to terms and
+      contexts that those in power want to keep under wraps, it is relatively easy to
+      get confirmation of this: my question to GROK, “ What is it with the power of
+      the City of London? ” was answered after about 15 minutes with “ No response .”
+      That is also an answer. The Rothschilds became famous, among other things, for
+      being the first to learn of the outcome of the Battle of Waterloo through the
+      use of carrier pigeons, thereby making a fabulous profit on British bonds. The
+      fact is that for centuries, the Rothschilds financed all parties involved in every
+      war and major project and always came out on top, true to the motto: the more
+      blood that is shed, the richer we become. Furthermore, the influence of the Rothschilds
+      in Western central banks is undoubtedly a fact. Mayer Amschel Rothschild (1744–1812),
+      the founder of the great dynasty, once said: “Give me control of a nation’s money,
+      and I care not who makes its laws.” Mayer Amschel Rothschild (1744–1812) The Rothschilds’
+      wealth was and remains legendary. Thus, their political influence extended not
+      only in London, but across the entire European continent. The wealth and power
+      of the Rothschilds was so enormous that even poets—such as Heinrich Heine—often
+      wrote about them, sometimes admiringly, sometimes ironically, but always aptly.
+      Heine, who knew James de Rothschild (Paris) personally, wrote in a letter in 1843:
+      “Mr. Rothschild is a man who rules Europe and feeds kings. He is the true secret
+      power of the continent. When he sneezes, the stock markets tremble.” Heinrich
+      Heine, 1843 The Rothschilds’ power was thus greater than that of kings, and it
+      was based on an ingenious information network, political power, and above all,
+      financial resources that surpassed those of all royal houses and seemed immeasurable.
+      In 1815, the Rothschilds attempted to gain a foothold in Russia at the Congress
+      of Vienna. However, their efforts were in vain, as Tsar Alexander I managed to
+      prevent this – the Rothschilds promised revenge and it is rumored that the outright
+      slaughter of the tsar’s family, including all his children, in Yekaterinburg in
+      1918 can be traced back to the Rothschilds; whether this is true, I do not know.
+      Since 1945, the Rothschilds are said to no longer exist as a power. The Rothschilds
+      themselves and all the major media outlets around the world would have the global
+      population believe that this hegemon of money and global capital has had no significant
+      influence since World War II and now confines itself to operating a few private
+      banks, collecting art, managing castles, and crafting delicious wines. There is
+      no evidence whatsoever that the Rothschilds were impoverished by World War II,
+      and it would probably be the first time in human history that a dynasty would
+      have voluntarily renounced power and money. How much power the Rothschilds really
+      wield at present is hard to say. The Rothschilds were, however, also the big financiers
+      of the richtest industrial families of the 19th century in the United States.
+      It seems likely that these power structures are still in place today and wield
+      their financial influence among others through entities like Blackrock and the
+      likes. The exact composition of these puppet masters is unknown to outsiders,
+      and when I asked questions, I was advised not to dig any deeper; it would not
+      be good for my health, and I would run the risk of being dismissed as a conspiracy
+      theorist by the bought-and-paid-for chatterboxes in the Western media. The power
+      that no one wants to acknowledge In my opinion, it is these groups that wield
+      power in the countries of the Collective West, have determined the fate of the
+      world for centuries, and will do everything in their power to continue to do so
+      in the future. These groups do not care if half of humanity perishes in a conflict
+      that makes them even richer and more powerful. These groups do not think in terms
+      of quarters, as Americans do, but in terms of decades and centuries. Law, morality,
+      and decency are not concepts that embody any value for these power brokers. They
+      never have to face the public or justify their actions before the court of humanity.
+      Instead, they keep servants, currently in the form of people such as Trump, Macron,
+      Merz, Starmer, Netanyahu, etc. These, in turn, proclaim and implement the unacceptable,
+      the unspeakable, and make taboos such as genocide socially acceptable, supported
+      by Western media whose decision-makers are blackmailed or bought – see my article
+      “ Genocide as ‘self-defense’ – Western media as accomplices in the genocide in
+      Gaza .” The tools that translate the unspeakable Do you remember the solemnly
+      sealed ceasefire and hostage exchange between the Israelis and Hamas? How many
+      days ago was that? For my part, I didn’t even think it necessary for our blog
+      to report on it, because I would have bet my farm that it was just a deceitful
+      charade by the US and the Israelis—and I was right. Representing everything that
+      is unsavory in this world, let’s hear from Ben Gwir: The Israelis have thus lost
+      the last shred of credibility—I doubt that humanity, as a whole society, can afford
+      to have such members. Nevertheless, the Western media are deliberately preparing
+      for the continuation of the genocide, as exemplified by the Swiss newspaper Neue
+      Zürcher Zeitung (NZZ) on October 29, 2025: “ Netanyahu orders attacks on Gaza
+      – Israel responds to provocations by Hamas .” Neue Zürcher Zeitung (NZZ) am 29
+      October 2025 Calls for military escalation The fact is that the Collective West
+      is actually taking positions that make no sense when you consider the balance
+      of power. With regard to the Ukraine conflict, for example, the triumvirate of
+      the willing—Merz, Starmer, and Macron—is demanding the withdrawal of Russian troops
+      or at least a freeze on the conflict at the line of contact, even though the Russians
+      could not have the slightest interest in freezing this conflict. Mr. Trump’s constant
+      flip-flopping does not make the situation any clearer, but it does at least cause
+      “Russia experts” such as Gilbert Doctorow, whom we recently discussed in “ When
+      an ‘expert’ loses his footing ,” to seem to lose their nerves. Two weeks ago,
+      he announced that, due to President Putin’s hesitant behavior, Russia’s “elites”
+      were preparing to depose him, nota bene, without defining who these “elites” might
+      be. The fact is that there are voices in Russia calling for tougher action against
+      Ukraine or even strikes against NATO facilities. However, this is nothing new;
+      it is as old as the conflict itself. The possibility of a tougher approach was
+      also lively discussed within my circle of contacts and was also mentioned in articles,
+      e.g., “ The consequences of the intercepted German Air Force conversation mean
+      war .” The Kremlin has so far refrained from such escalations. I write “Kremlin”
+      because the claim by some “experts” that President Putin makes decisions single-handedly
+      is complete fantasy. President Putin has an excellent team with whom he works,
+      who he listens to, and then makes decisions. People in both the East and West
+      should be grateful that President Putin does not allow himself to be provoked
+      by the hotheads in Brussels, Berlin, Paris, London, and New York. Evil escalates
+      to the point of downfall Those who call for military escalation regularly conceal
+      the consequences of such escalation, which, in my opinion, is irresponsible and
+      foolish given the existence of nuclear weapons. If we want to quantify evil, we
+      must also admit that those who are armed with the weapon of evil have no inhibitions
+      and are just waiting for the other side to be drawn into escalation so that they
+      can then do the unspeakable. Alternative: Economic escalation Sanctions bring
+      nothing but misery Most geopolitical analysts neglect the economic weapons that
+      are available. Although the West has been trying to bring countries to their knees
+      with sanctions for years (Cuba since 1960, Iran since 1980, Russia since 2014,
+      China more recently), this instrument has never been successful, except in causing
+      suffering among the weakest in the countries affected. For example, US sanctions
+      caused the deaths of half a million children in Iraq. When asked about this, the
+      then US Ambassador to the UN, Madeleine Albright, replied: “I think that is a
+      very hard choice, but the price, we think, the price is worth it.” US-Botschafterin
+      Madeleine Albright, CBS 60 Minutes 1996 The personification of evil: Madeleine
+      Albright When we talk about evil, I personally believe that in exceptional cases
+      it is perfectly acceptable to speak ill of the dead; Albright died in 2022. The
+      Western financial system is built on shaky ground Although the opposite is claimed
+      in the West, I am firmly convinced that the Western financial system is hanging
+      by a thread: the debt of governments, the corporate sector, and private households
+      is out of control, stock and bond valuations are at insane levels, and inflation
+      is two to three times higher than reported by government agencies. One of the
+      best indicators that everything is in disarray is the price development of precious
+      metals, especially gold and silver. Experts have told me that it would be easy
+      for China to corner the manipulated COMEX and LBMA gold and silver markets, which
+      could lead to a collapse of the Western financial markets. A financial nuclear
+      strike from the East, which has not yet been carried out, would rob the Collective
+      West of much of its freedom of action and would be a viable non-military wake-up
+      call for the West. Conclusion An opponent armed with the weapon of evil has the
+      advantage. He knows no morals, has no inhibitions, and will never have to take
+      responsibility for his terrible deeds, because evil acts in the dark. I am firmly
+      convinced that the forces I have described exist and have done so for centuries.
+      They not only survive revolutions, world wars, and genocides, but order them.
+      From time to time, their servants, whom they use, are held accountable to show
+      the world that justice exists—a wicked charade. However, skepticism in the Global
+      South is growing along with its power, and as the center of gravity shifts from
+      West to East and the hidden powers have their center of power in the West, hopefully
+      good will prevail, but only if evil remains at the doorstep of the Global South.
+      Peter Hanseler is a geopolitical analyst who reports from Moscow. Peter was born
+      in Zurich, Switzerland. He holds a J.D. (lic. iur.) and Ph.D. (Dr. iur.) from
+      Zurich University Law School and Master in International Commercial Law (LL.M.)
+      from Georgetown University Law School, Washington, D.C. He has lived in the US,
+      Spain, Switzerland, Thailand and Russia. Peter is independent, his work is not
+      supported by government or private entities. Peter’s website Forumgeopolitica.com
+      publishes its content in English, Russian, German and French.'
+    one_sentence_summary: The article argues that the Collective West is losing its
+      dominance to the Global South in an ongoing conflict characterized by military
+      and economic tensions, suggesting that the multipolarity of the Global South will
+      ultimately prevail.
+    paragraph_summary: In his article, Peter Hanseler argues that the Collective West
+      is losing its dominance over the Global South, suggesting that the latter's multipolarity
+      will ultimately prevail in the ongoing conflict between the two. He reflects on
+      the various military and economic battlegrounds, including regions like Gaza,
+      Ukraine, and Venezuela, and acknowledges the complexity of the situation. While
+      preparing for a more detailed analysis of these conflicts, he contemplates the
+      notion that extreme malevolence, when unleashed, can potentially triumph over
+      rationality and intellect, a theme explored in literature and philosophy by figures
+      such as Bulgakov and Dostoyevsky.
+    published: '2025-11-01T16:24:17+00:00'
+  - title: The Road to Maidan — My Chats with the Former Prime Minister of Ukraine and
+      Former Ukrainian Prosecutor
+    url: https://sonar21.com/the-road-to-maidan-my-chats-with-the-former-prime-minister-of-ukraine-and-former-ukrainian-prosecutor/
+    text: Nikolai Azarov Here are the videos of my podcast in Moscow with Nikolai Yanovich
+      Azarov a Russian and Ukrainian statesman, scientist, and politician who served
+      as Prime Minister of Ukraine (2010-2014) and was a People’s Deputy of Ukraine
+      in several convocations, and with Vasily Dmitrievich Vakarov , a Ukrainian lawyer,
+      political scientist, and public figure who was a high-ranking official in the
+      administration of the President of Ukraine, specializing in anti-corruption policy
+      prior to 2014. Both men make it clear that Volodymyr Zelensky is a puppet of powerful
+      Ukarinian oligarchs. Mr. Nikolai Azarov’s most alarming comment was about the
+      current population of Ukraine… It was 57 million in 2010 and now stands at 20
+      million. He explains the roots of the international intervention that created
+      the Maidan. Vasily Dmitrievich Vakarov served during the administration of Prime
+      Minister Azarov and provided me with important insights regarding the roots of
+      corruption in Ukraine… It started with the Soros Foundation and money from USAID.
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .
+    one_sentence_summary: In a podcast featuring former Ukrainian Prime Minister Nikolai
+      Azarov and political scientist Vasily Vakarov, both discuss the influence of oligarchs
+      on President Volodymyr Zelensky and highlight the drastic decline in Ukraine's
+      population from 57 million in 2010 to 20 million, while also addressing the origins
+      of corruption and international intervention in the country.
+    paragraph_summary: In a recent podcast recorded in Moscow, former Ukrainian Prime
+      Minister Nikolai Azarov and political scientist Vasily Vakarov discussed the current
+      political landscape in Ukraine, asserting that President Volodymyr Zelensky is
+      under the influence of powerful oligarchs. Azarov highlighted a concerning demographic
+      decline in Ukraine, noting that the population has dropped from 57 million in
+      2010 to just 20 million today. Both speakers traced the roots of Ukraine's corruption
+      back to international interventions, particularly citing the involvement of the
+      Soros Foundation and USAID. The podcast aims to provide accessible insights into
+      these complex issues without charging a subscription fee or accepting advertising,
+      although donations are welcomed.
+    published: '2025-11-01T05:53:45+00:00'
+  - title: The Road to Maidan — My Chats with the Former Prime Minister of Ukraine and
+      Former Ukrainian Prosecutor
+    url: https://sonar21.com/the-road-to-maidan-my-chats-with-the-former-prime-minister-of-ukraine-and-former-ukrainian-prosecutor/
+    text: Nikolai Azarov Here are the videos of my podcast in Moscow with Nikolai Yanovich
+      Azarov a Russian and Ukrainian statesman, scientist, and politician who served
+      as Prime Minister of Ukraine (2010-2014) and was a People’s Deputy of Ukraine
+      in several convocations, and with Vasily Dmitrievich Vakarov , a Ukrainian lawyer,
+      political scientist, and public figure who was a high-ranking official in the
+      administration of the President of Ukraine, specializing in anti-corruption policy
+      prior to 2014. Both men make it clear that Volodymyr Zelensky is a puppet of powerful
+      Ukarinian oligarchs. Mr. Nikolai Azarov’s most alarming comment was about the
+      current population of Ukraine… It was 57 million in 2010 and now stands at 20
+      million. He explains the roots of the international intervention that created
+      the Maidan. Vasily Dmitrievich Vakarov served during the administration of Prime
+      Minister Azarov and provided me with important insights regarding the roots of
+      corruption in Ukraine… It started with the Soros Foundation and money from USAID.
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .
+    one_sentence_summary: In a podcast featuring former Ukrainian Prime Minister Nikolai
+      Azarov and political scientist Vasily Vakarov, both discuss the influence of oligarchs
+      on President Volodymyr Zelensky and highlight the drastic decline in Ukraine's
+      population from 57 million in 2010 to 20 million, while also addressing the origins
+      of corruption and international intervention in the country.
+    paragraph_summary: In a recent podcast recorded in Moscow, former Ukrainian Prime
+      Minister Nikolai Azarov and political scientist Vasily Vakarov discussed the current
+      political landscape in Ukraine, asserting that President Volodymyr Zelensky is
+      under the influence of powerful oligarchs. Azarov highlighted a concerning demographic
+      decline in Ukraine, noting that the population has dropped from 57 million in
+      2010 to just 20 million today. Both speakers traced the roots of Ukraine's corruption
+      back to international interventions, particularly citing the involvement of the
+      Soros Foundation and USAID. The podcast aims to provide accessible insights into
+      these complex issues without charging a subscription fee or accepting advertising,
+      although donations are welcomed.
+    published: '2025-11-01T05:53:45+00:00'
+  - title: The Trump Administration’s Claims Regarding Cocaine and Fentanyl Trafficking
+      from Venezuela Doesn’t Make Sense
+    url: https://sonar21.com/the-trump-administrations-claims-regarding-cocaine-and-fentanyl-trafficking-from-venezuela-doesnt-make-sense/
+    text: 'The first boat off the coast of Venezuela that the Trump administration bombed
+      was a 60-foot cigarette boat with four outboard motors, with 11 passengers onboard
+      and allegedly carrying an unspecified amount of cocaine and/or fentanyl. That
+      story simply does not make sense because a cigarette boat with 11 passengers can
+      only safely carry a maximum of one ton of cocaine or fentanyl without jeopardizing
+      the stability of the boat in the ocean. A cigarette boat is designed for speed,
+      which is compromised when it is carrying three times the normal crew. It is true
+      that cigarette boats and fishing vessels have been used in the past to smuggle
+      cocaine into the Florida Keys in the United States using a route that follows
+      curved path to avoid detection and use island waypoints: Venezuela → Curaçao/Aruba
+      (~80–120 nm) Curaçao → Jamaica (~450 nm) Jamaica → Cayman Islands (~250 nm) Cayman
+      Islands → Key West (~300 nm) Total via island-hopping: ~1,300–1,400 nm But it
+      is also true that DEA and the US Coast Guard have intercepted such boats in the
+      past, and have arrested the crew who are then flown to the US and incarcerated
+      after a trial. I asked GROK to estimate the safe cocaine load capacity for a 60-Foot
+      Cigarette Boat with 11 Persons… Here’s the answer: A 60-foot cigarette boat (also
+      known as a “go-fast” boat) is a high-performance, V-hulled powerboat designed
+      primarily for speed (up to 60+ knots) and offshore racing, not heavy cargo hauling.
+      These vessels, popularized in the 1960s–1980s, have a slender, lightweight fiberglass
+      or composite construction optimized for agility and evasion rather than stability
+      under maximum loads. Typical dry weight: 20,000–30,000 lbs (9–14 metric tons).
+      Fuel capacity: 800–1,000 gallons (up to ~6,000–7,500 lbs or 3–3.5 tons at 6.8
+      lbs/gallon). Engine setups often include 4–6 outboards (e.g., 400–600 hp each),
+      adding 2,000–4,000 lbs. “Safety” on the ocean implies maintaining seaworthiness
+      in moderate conditions (e.g., 4–6 ft seas, Beaufort 5 winds), with factors like
+      trim, center of gravity, and handling preserved to avoid swamping, capsizing,
+      or loss of control. Overloading reduces speed, increases fuel burn, and heightens
+      risks—smugglers often push limits, but “safe” means staying below 70–80% of theoretical
+      max payload to account for waves, crew movement, and emergencies. The 11 persons
+      (assuming ~185 lbs each including gear = ~2,035 lbs or 0.92 metric tons) already
+      consume significant capacity, leaving room primarily for fuel and light cargo.
+      Estimated Maximum Safe Payload Calculation Boat capacity isn’t strictly regulated
+      for vessels >20 ft like cigarette boats, but naval architects use displacement-based
+      formulas: Max Load = (Length × Beam × Draft × Block Coefficient × Water Density)
+      – Hull/Engine Weight . For a 60 ft cigarette: Typical beam: 12–14 ft; draft: 2–3
+      ft; block coefficient: 0.4–0.5 (slender hull). Approximate lightship displacement:
+      25,000 lbs (11.3 tons). Gross displacement (fully loaded): ~40,000–50,000 lbs
+      (18–23 tons) for ocean stability. Usable payload (after hull/engines): 15,000–25,000
+      lbs (6.8–11.3 tons), but this includes fuel. Normally, a cigarette boat would
+      have a crew of three to four persons… Subtracting crew and full fuel tanks (~7
+      tons total) leaves ~3–6 tons theoretical cargo space. However, for safe ocean
+      transit (e.g., 500–1,000 nm runs in the Caribbean/Pacific) the recommended safe
+      cargo limit is 1–2 metric tons (2,200–4,400 lbs). This keeps the boat at 50–60%
+      load factor, preserving 40+ knot speeds and maneuverability. Beyond this, the
+      high center of gravity from stacked bales risks instability in beam seas. An 11-member
+      crew is high for a 60 ft cigarette. At 185 lbs/person, that’s ~10% of payload,
+      which reduces cargo to <1 ton safely. The question that US politicians and US
+      citizens should be asking is whether the President can order boats suspected of
+      ferrying illegal narcotics be destroyed without confirming they are carrying a
+      large quantity of drugs? Using military force against persons who are not shooting
+      at US military or law enforcement personnel is a clear violation of the Geneva
+      Conventions. Drug trafficking is a law enforcement and criminal matter, not an
+      act of war. As such, the Conventions do not apply to anti-drug operations, and
+      they explicitly do not authorize lethal force against suspected drug carriers
+      in peacetime or non-conflict scenarios. Although the Conventions make no mention
+      of narcotics, smuggling, or narco-terrorism , drug control falls under separate
+      treaties like the UN Convention Against Illicit Traffic in Narcotic Drugs and
+      Psychotropic Substances (1988), which emphasizes arrest, prosecution, and international
+      cooperation—not lethal action. The Conventions only govern situations of “armed
+      conflict.” Common Article 3 (applicable to non-international conflicts) and the
+      Fourth Geneva Convention (protecting civilians in wartime) focus on non-combatants,
+      wounded soldiers, and POWs. Drug suspects are civilians under IHL, protected from
+      violence unless they directly participate in hostilities (e.g., armed combat).
+      Carrying drugs does not qualify as “hostile activity” under the Conventions. While
+      Trump’s orders to destroy these boats is celebrated by the majority of US legislators,
+      it marks a descent of the US government into a realm of lawlessness. Taking a
+      human life just because you believe someone is engaged in illegal activity is
+      not only a gross, despicable violation of the Constitutional order that is supposed
+      to limit the power of the government, it also is a desecration of universal moral
+      codes. I am ashamed of my government. Here are my three most recent podcasts:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The Trump administration's bombing of a 60-foot cigarette
+      boat off the coast of Venezuela, allegedly carrying cocaine and/or fentanyl with
+      11 passengers onboard, raises questions about the feasibility of such a load given
+      the boat's design and stability limitations.
+    paragraph_summary: The article discusses the Trump administration's bombing of a
+      60-foot cigarette boat off the coast of Venezuela, which was reportedly carrying
+      cocaine or fentanyl with 11 passengers onboard. It argues that the scenario is
+      implausible, as such a boat can only safely carry a maximum of one ton of drugs
+      without compromising its stability, especially with an overloaded crew. The piece
+      highlights the design of cigarette boats, which prioritize speed and agility over
+      cargo capacity, and notes that while these vessels have been used for drug smuggling
+      in the past, they have also been intercepted by the DEA and Coast Guard. The author
+      provides technical details about the boat's specifications, emphasizing that its
+      construction is not suited for heavy loads, thus questioning the credibility of
+      the reported drug trafficking operation.
+    published: '2025-11-01T04:57:14+00:00'
+  - title: The Trump Administration’s Claims Regarding Cocaine and Fentanyl Trafficking
+      from Venezuela Doesn’t Make Sense
+    url: https://sonar21.com/the-trump-administrations-claims-regarding-cocaine-and-fentanyl-trafficking-from-venezuela-doesnt-make-sense/
+    text: 'The first boat off the coast of Venezuela that the Trump administration bombed
+      was a 60-foot cigarette boat with four outboard motors, with 11 passengers onboard
+      and allegedly carrying an unspecified amount of cocaine and/or fentanyl. That
+      story simply does not make sense because a cigarette boat with 11 passengers can
+      only safely carry a maximum of one ton of cocaine or fentanyl without jeopardizing
+      the stability of the boat in the ocean. A cigarette boat is designed for speed,
+      which is compromised when it is carrying three times the normal crew. It is true
+      that cigarette boats and fishing vessels have been used in the past to smuggle
+      cocaine into the Florida Keys in the United States using a route that follows
+      curved path to avoid detection and use island waypoints: Venezuela → Curaçao/Aruba
+      (~80–120 nm) Curaçao → Jamaica (~450 nm) Jamaica → Cayman Islands (~250 nm) Cayman
+      Islands → Key West (~300 nm) Total via island-hopping: ~1,300–1,400 nm But it
+      is also true that DEA and the US Coast Guard have intercepted such boats in the
+      past, and have arrested the crew who are then flown to the US and incarcerated
+      after a trial. I asked GROK to estimate the safe cocaine load capacity for a 60-Foot
+      Cigarette Boat with 11 Persons… Here’s the answer: A 60-foot cigarette boat (also
+      known as a “go-fast” boat) is a high-performance, V-hulled powerboat designed
+      primarily for speed (up to 60+ knots) and offshore racing, not heavy cargo hauling.
+      These vessels, popularized in the 1960s–1980s, have a slender, lightweight fiberglass
+      or composite construction optimized for agility and evasion rather than stability
+      under maximum loads. Typical dry weight: 20,000–30,000 lbs (9–14 metric tons).
+      Fuel capacity: 800–1,000 gallons (up to ~6,000–7,500 lbs or 3–3.5 tons at 6.8
+      lbs/gallon). Engine setups often include 4–6 outboards (e.g., 400–600 hp each),
+      adding 2,000–4,000 lbs. “Safety” on the ocean implies maintaining seaworthiness
+      in moderate conditions (e.g., 4–6 ft seas, Beaufort 5 winds), with factors like
+      trim, center of gravity, and handling preserved to avoid swamping, capsizing,
+      or loss of control. Overloading reduces speed, increases fuel burn, and heightens
+      risks—smugglers often push limits, but “safe” means staying below 70–80% of theoretical
+      max payload to account for waves, crew movement, and emergencies. The 11 persons
+      (assuming ~185 lbs each including gear = ~2,035 lbs or 0.92 metric tons) already
+      consume significant capacity, leaving room primarily for fuel and light cargo.
+      Estimated Maximum Safe Payload Calculation Boat capacity isn’t strictly regulated
+      for vessels >20 ft like cigarette boats, but naval architects use displacement-based
+      formulas: Max Load = (Length × Beam × Draft × Block Coefficient × Water Density)
+      – Hull/Engine Weight . For a 60 ft cigarette: Typical beam: 12–14 ft; draft: 2–3
+      ft; block coefficient: 0.4–0.5 (slender hull). Approximate lightship displacement:
+      25,000 lbs (11.3 tons). Gross displacement (fully loaded): ~40,000–50,000 lbs
+      (18–23 tons) for ocean stability. Usable payload (after hull/engines): 15,000–25,000
+      lbs (6.8–11.3 tons), but this includes fuel. Normally, a cigarette boat would
+      have a crew of three to four persons… Subtracting crew and full fuel tanks (~7
+      tons total) leaves ~3–6 tons theoretical cargo space. However, for safe ocean
+      transit (e.g., 500–1,000 nm runs in the Caribbean/Pacific) the recommended safe
+      cargo limit is 1–2 metric tons (2,200–4,400 lbs). This keeps the boat at 50–60%
+      load factor, preserving 40+ knot speeds and maneuverability. Beyond this, the
+      high center of gravity from stacked bales risks instability in beam seas. An 11-member
+      crew is high for a 60 ft cigarette. At 185 lbs/person, that’s ~10% of payload,
+      which reduces cargo to <1 ton safely. The question that US politicians and US
+      citizens should be asking is whether the President can order boats suspected of
+      ferrying illegal narcotics be destroyed without confirming they are carrying a
+      large quantity of drugs? Using military force against persons who are not shooting
+      at US military or law enforcement personnel is a clear violation of the Geneva
+      Conventions. Drug trafficking is a law enforcement and criminal matter, not an
+      act of war. As such, the Conventions do not apply to anti-drug operations, and
+      they explicitly do not authorize lethal force against suspected drug carriers
+      in peacetime or non-conflict scenarios. Although the Conventions make no mention
+      of narcotics, smuggling, or narco-terrorism , drug control falls under separate
+      treaties like the UN Convention Against Illicit Traffic in Narcotic Drugs and
+      Psychotropic Substances (1988), which emphasizes arrest, prosecution, and international
+      cooperation—not lethal action. The Conventions only govern situations of “armed
+      conflict.” Common Article 3 (applicable to non-international conflicts) and the
+      Fourth Geneva Convention (protecting civilians in wartime) focus on non-combatants,
+      wounded soldiers, and POWs. Drug suspects are civilians under IHL, protected from
+      violence unless they directly participate in hostilities (e.g., armed combat).
+      Carrying drugs does not qualify as “hostile activity” under the Conventions. While
+      Trump’s orders to destroy these boats is celebrated by the majority of US legislators,
+      it marks a descent of the US government into a realm of lawlessness. Taking a
+      human life just because you believe someone is engaged in illegal activity is
+      not only a gross, despicable violation of the Constitutional order that is supposed
+      to limit the power of the government, it also is a desecration of universal moral
+      codes. I am ashamed of my government. Here are my three most recent podcasts:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The Trump administration's bombing of a 60-foot cigarette
+      boat off the coast of Venezuela, allegedly carrying cocaine and/or fentanyl with
+      11 passengers onboard, raises questions about the feasibility of such a load given
+      the boat's design and stability limitations.
+    paragraph_summary: The article discusses the Trump administration's bombing of a
+      60-foot cigarette boat off the coast of Venezuela, which was reportedly carrying
+      cocaine or fentanyl with 11 passengers onboard. It argues that the scenario is
+      implausible, as such a boat can only safely carry a maximum of one ton of drugs
+      without compromising its stability, especially with an overloaded crew. The piece
+      highlights the design of cigarette boats, which prioritize speed and agility over
+      cargo capacity, and notes that while these vessels have been used for drug smuggling
+      in the past, they have also been intercepted by the DEA and Coast Guard. The author
+      provides technical details about the boat's specifications, emphasizing that its
+      construction is not suited for heavy loads, thus questioning the credibility of
+      the reported drug trafficking operation.
+    published: '2025-11-01T04:57:14+00:00'
+  - title: The US Can’t Break Russia
+    url: https://sonar21.com/the-us-cant-break-russia/
+    text: 'During my recent sojourn in Russia, a common theme from the people I interviewed
+      was the failure of the West to comprehend that Russia is NOT dependent on international
+      trade… Russia is self-sufficient in all critical natural resources. It looks like
+      the US intelligence community (IC) is slowly beginning to grasp this, although
+      most of the IC continues to falsely assert that Russia is suffering massive casualties
+      and facing an economic collapse. The CIA has proven itself to be the most delusional
+      of the agencies that fall under the umbrella of the IC. Earlier this year, the
+      CIA was at odds with the State Department’s Bureau of Intelligence and Research
+      (aka INR ). A report this week from NBC highlighted the rosy scenario being spun
+      by the CIA since Trump took over : CIA assessments have sometimes been optimistic
+      about the prospect of finding common ground with the Russian leadership, according
+      to two former officials. Beginning early in the administration, U.S. officials
+      requested numerous secret assessments and briefings from intelligence analysts
+      about the Ukraine issue to determine Putin’s goals in Ukraine and gauge his willingness
+      to negotiate the war’s conclusion, according to the people familiar with the issue.
+      CIA analysts, in response to the administration’s requests, produced assessments
+      concluding that Trump could find opportunities to negotiate with Putin, according
+      to several people who viewed the reports. A tip-of-the-hat to INR for getting
+      it right early on : The State Department’s internal intelligence agency cast doubt
+      earlier this year on the notion that Russian President Vladimir Putin was prepared
+      to negotiate an end to the war in Ukraine , dissenting from a more optimistic
+      Central Intelligence Agency assessment of potential talks, according to several
+      current and former officials. Analysts at the State Department’s Bureau of Intelligence
+      and Research, known as INR, expressed this opposing view in assessments and briefings
+      in the months leading up to President Trump’s August meeting with his Russian
+      counterpart in Anchorage, Alaska. The dissent also appeared in the President’s
+      Daily Brief, according to the current and former officials. And how did Trump
+      react to the dose of cold water from INR? According to a March article in the
+      Washington Post , President Trump was not happy: Some of the U.S. assessments
+      on Putin’s intransigence have appeared to irk Trump, another person familiar with
+      the matter said. Indeed, Trump and his aides in recent days have raised the prospect
+      of stiff new sanctions on Russia if it refuses to agree to end the war. They have
+      not specified what those sanctions would be, though Trump on Wednesday said they
+      “could be devastating.” As Yogi Berra once remarked, “This is deja vu all over
+      again.” I once was on the receiving end of Presidential unhappiness with intelligence
+      analysis that contradicted the White House beliefs about a favored policy, so
+      I can readily empathize with the pressure coming down on the INR analysts. RBC-Ukraine
+      provided additional details this week on INR’s attempt to swim against the conventional
+      wisdom in Washington : WSJ also reports that in the spring of 2025, the head of
+      the State Department told analysts during staff meetings that ongoing disagreements
+      were undermining INR’s credibility among administration officials. Then, in July,
+      three analysts working in the Russia–Eurasia group were dismissed, and another
+      analyst resigned. The State Department shut down the intelligence office that
+      worked with private-sector experts, as well as another one responsible for declassifying
+      intelligence for sharing with allies, former employees said. The department also
+      merged the INR groups for Europe and for Russia and Eurasia, and several Europe
+      analysts were either laid off or reassigned. There is a determined group of politicians
+      and analysts who insist that the US and NATO can apply sufficient pressure on
+      Vladimir Putin that he will be compelled to accept a ceasefire : Ukrainian officials,
+      European governments and Kyiv’s supporters in Congress have repeatedly urged Trump
+      to exert pressure on Russia through arms shipments and sanctions to push Moscow
+      to agree to a ceasefire and peace negotiations. The announcement of sanctions
+      on Russian oil companies was the first time Trump has followed through on threats
+      to introduce economic penalties against Moscow. The new sanctions on Russia, Ukraine’s
+      drone attacks on Russia’s oil and gas facilities and European efforts to provide
+      more weapons to Kyiv’s forces could alter the Kremlin’s calculations over time,
+      according to European diplomats, former U.S. intelligence officials and experts.
+      Ain’t gonna happen. It is time for President Trump and his national security team
+      to wake up and accept the fact that there is nothing the West can do to alter
+      Russia’s stated intention to de-militarize and de-nazify Ukraine… NOTHING! The
+      only deal that Russia will entertain is what Putin presented last year to the
+      Russian Foreign Ministry. On June 14, 2024, President Vladimir Putin declared
+      that Russia would end the war in Ukraine only if Kyiv ceded the entirety of four
+      regions—Donetsk, Luhansk, Kherson, and Zaporizhzhia—to Russian control and formally
+      renounced any intention to join NATO. Putin demanded that Ukraine withdraw its
+      military from these regions within their full administrative borders (including
+      areas not currently occupied by Russian forces), formalize its neutrality, and
+      accept demilitarization. He also insisted that Western countries lift sanctions
+      against Russia as part of any settlement. For some unknown reason, the CIA analysts
+      are ignoring what Putin and the rest of his government have been saying for more
+      than a year. But the deluded analysts are only part of the problem… Donald Trump
+      and his national security team continue to labor under the illusion that the the
+      United States has leverage over Russia and can force Putin to acquiesce to the
+      West. Ain’t gonna happen! I had a great chat with Danny Davis today… We discussed
+      Russia, Ukraine and the new crisis brewing with Venezuela:'
+    one_sentence_summary: The article discusses how many Russians believe the West misunderstands
+      Russia's self-sufficiency in natural resources and highlights the conflicting
+      assessments within the U.S. intelligence community regarding Russia's economic
+      stability and military casualties.
+    paragraph_summary: During a recent visit to Russia, the author found that many locals
+      believe the West misunderstands Russia's self-sufficiency in critical natural
+      resources and its independence from international trade. While the U.S. intelligence
+      community is starting to recognize this, many, particularly the CIA, continue
+      to propagate the narrative of Russia facing severe casualties and economic collapse.
+      Tensions between the CIA and the State Department's Bureau of Intelligence and
+      Research (INR) have emerged, with the CIA offering overly optimistic assessments
+      about potential negotiations with Russian President Vladimir Putin regarding the
+      Ukraine conflict. In contrast, the INR has consistently expressed skepticism about
+      Putin's willingness to negotiate, highlighting a significant divergence in U.S.
+      intelligence perspectives on the situation.
+    published: '2025-10-31T02:16:44+00:00'
+  - title: The US Can’t Break Russia
+    url: https://sonar21.com/the-us-cant-break-russia/
+    text: 'During my recent sojourn in Russia, a common theme from the people I interviewed
+      was the failure of the West to comprehend that Russia is NOT dependent on international
+      trade… Russia is self-sufficient in all critical natural resources. It looks like
+      the US intelligence community (IC) is slowly beginning to grasp this, although
+      most of the IC continues to falsely assert that Russia is suffering massive casualties
+      and facing an economic collapse. The CIA has proven itself to be the most delusional
+      of the agencies that fall under the umbrella of the IC. Earlier this year, the
+      CIA was at odds with the State Department’s Bureau of Intelligence and Research
+      (aka INR ). A report this week from NBC highlighted the rosy scenario being spun
+      by the CIA since Trump took over : CIA assessments have sometimes been optimistic
+      about the prospect of finding common ground with the Russian leadership, according
+      to two former officials. Beginning early in the administration, U.S. officials
+      requested numerous secret assessments and briefings from intelligence analysts
+      about the Ukraine issue to determine Putin’s goals in Ukraine and gauge his willingness
+      to negotiate the war’s conclusion, according to the people familiar with the issue.
+      CIA analysts, in response to the administration’s requests, produced assessments
+      concluding that Trump could find opportunities to negotiate with Putin, according
+      to several people who viewed the reports. A tip-of-the-hat to INR for getting
+      it right early on : The State Department’s internal intelligence agency cast doubt
+      earlier this year on the notion that Russian President Vladimir Putin was prepared
+      to negotiate an end to the war in Ukraine , dissenting from a more optimistic
+      Central Intelligence Agency assessment of potential talks, according to several
+      current and former officials. Analysts at the State Department’s Bureau of Intelligence
+      and Research, known as INR, expressed this opposing view in assessments and briefings
+      in the months leading up to President Trump’s August meeting with his Russian
+      counterpart in Anchorage, Alaska. The dissent also appeared in the President’s
+      Daily Brief, according to the current and former officials. And how did Trump
+      react to the dose of cold water from INR? According to a March article in the
+      Washington Post , President Trump was not happy: Some of the U.S. assessments
+      on Putin’s intransigence have appeared to irk Trump, another person familiar with
+      the matter said. Indeed, Trump and his aides in recent days have raised the prospect
+      of stiff new sanctions on Russia if it refuses to agree to end the war. They have
+      not specified what those sanctions would be, though Trump on Wednesday said they
+      “could be devastating.” As Yogi Berra once remarked, “This is deja vu all over
+      again.” I once was on the receiving end of Presidential unhappiness with intelligence
+      analysis that contradicted the White House beliefs about a favored policy, so
+      I can readily empathize with the pressure coming down on the INR analysts. RBC-Ukraine
+      provided additional details this week on INR’s attempt to swim against the conventional
+      wisdom in Washington : WSJ also reports that in the spring of 2025, the head of
+      the State Department told analysts during staff meetings that ongoing disagreements
+      were undermining INR’s credibility among administration officials. Then, in July,
+      three analysts working in the Russia–Eurasia group were dismissed, and another
+      analyst resigned. The State Department shut down the intelligence office that
+      worked with private-sector experts, as well as another one responsible for declassifying
+      intelligence for sharing with allies, former employees said. The department also
+      merged the INR groups for Europe and for Russia and Eurasia, and several Europe
+      analysts were either laid off or reassigned. There is a determined group of politicians
+      and analysts who insist that the US and NATO can apply sufficient pressure on
+      Vladimir Putin that he will be compelled to accept a ceasefire : Ukrainian officials,
+      European governments and Kyiv’s supporters in Congress have repeatedly urged Trump
+      to exert pressure on Russia through arms shipments and sanctions to push Moscow
+      to agree to a ceasefire and peace negotiations. The announcement of sanctions
+      on Russian oil companies was the first time Trump has followed through on threats
+      to introduce economic penalties against Moscow. The new sanctions on Russia, Ukraine’s
+      drone attacks on Russia’s oil and gas facilities and European efforts to provide
+      more weapons to Kyiv’s forces could alter the Kremlin’s calculations over time,
+      according to European diplomats, former U.S. intelligence officials and experts.
+      Ain’t gonna happen. It is time for President Trump and his national security team
+      to wake up and accept the fact that there is nothing the West can do to alter
+      Russia’s stated intention to de-militarize and de-nazify Ukraine… NOTHING! The
+      only deal that Russia will entertain is what Putin presented last year to the
+      Russian Foreign Ministry. On June 14, 2024, President Vladimir Putin declared
+      that Russia would end the war in Ukraine only if Kyiv ceded the entirety of four
+      regions—Donetsk, Luhansk, Kherson, and Zaporizhzhia—to Russian control and formally
+      renounced any intention to join NATO. Putin demanded that Ukraine withdraw its
+      military from these regions within their full administrative borders (including
+      areas not currently occupied by Russian forces), formalize its neutrality, and
+      accept demilitarization. He also insisted that Western countries lift sanctions
+      against Russia as part of any settlement. For some unknown reason, the CIA analysts
+      are ignoring what Putin and the rest of his government have been saying for more
+      than a year. But the deluded analysts are only part of the problem… Donald Trump
+      and his national security team continue to labor under the illusion that the the
+      United States has leverage over Russia and can force Putin to acquiesce to the
+      West. Ain’t gonna happen! I had a great chat with Danny Davis today… We discussed
+      Russia, Ukraine and the new crisis brewing with Venezuela:'
+    one_sentence_summary: The article discusses how many Russians believe the West misunderstands
+      Russia's self-sufficiency in natural resources and highlights the conflicting
+      assessments within the U.S. intelligence community regarding Russia's economic
+      stability and military casualties.
+    paragraph_summary: During a recent visit to Russia, the author found that many locals
+      believe the West misunderstands Russia's self-sufficiency in critical natural
+      resources and its independence from international trade. While the U.S. intelligence
+      community is starting to recognize this, many, particularly the CIA, continue
+      to propagate the narrative of Russia facing severe casualties and economic collapse.
+      Tensions between the CIA and the State Department's Bureau of Intelligence and
+      Research (INR) have emerged, with the CIA offering overly optimistic assessments
+      about potential negotiations with Russian President Vladimir Putin regarding the
+      Ukraine conflict. In contrast, the INR has consistently expressed skepticism about
+      Putin's willingness to negotiate, highlighting a significant divergence in U.S.
+      intelligence perspectives on the situation.
+    published: '2025-10-31T02:16:44+00:00'
+  - title: Poles Apart… Russia Ain’t a Monolith
+    url: https://sonar21.com/poles-apart-russia-aint-a-monolith/
+    text: 'I will be posting my Russian podcasts as stand-alone pieces. Tonight I want
+      to highlight the political diversity in Russia: Marina Kim and Gennady Zyuganov.
+      Kim is a Russian television presenter, journalist, and member of the Presidium
+      of the Central Council of the “A Just Russia — Patriots — For Truth” party. Zyuganov,
+      by sharp contrast, is a veteran Russian politician who has led the Communist Party
+      of the Russian Federation (CPRF) since its foundation in 1993. Under his leadership,
+      the CPRF has maintained its status as the second most influential political party
+      in Russia and the primary opposition force in the State Duma. These two politicians
+      have very different political views, but they both support the special military
+      operation in Ukraine and back Putin’s handling of the conflict. If you have the
+      time, I encourage you to watch both… You will gain an appreciation for the political
+      diversity in Russia. Marina Kim Gennady Zyuganov I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: 'The article discusses the political diversity in Russia by
+      highlighting two contrasting figures: Marina Kim, a member of the "A Just Russia"
+      party, and Gennady Zyuganov, leader of the Communist Party, both of whom, despite
+      their differing views, support Putin''s actions regarding the Ukraine conflict.'
+    paragraph_summary: 'The article discusses the political diversity in Russia by highlighting
+      two contrasting figures: Marina Kim, a journalist and member of the "A Just Russia
+      — Patriots — For Truth" party, and Gennady Zyuganov, the long-time leader of the
+      Communist Party of the Russian Federation (CPRF). Despite their differing political
+      ideologies, both politicians support Russia''s military operation in Ukraine and
+      endorse President Putin''s approach to the conflict. The author encourages listeners
+      to engage with both podcasts to better understand the spectrum of political thought
+      in Russia, while also noting that the content is freely accessible without subscription
+      fees or advertisements, although donations are welcomed.'
+    published: '2025-10-31T00:10:12+00:00'
+  - title: Poles Apart… Russia Ain’t a Monolith
+    url: https://sonar21.com/poles-apart-russia-aint-a-monolith/
+    text: 'I will be posting my Russian podcasts as stand-alone pieces. Tonight I want
+      to highlight the political diversity in Russia: Marina Kim and Gennady Zyuganov.
+      Kim is a Russian television presenter, journalist, and member of the Presidium
+      of the Central Council of the “A Just Russia — Patriots — For Truth” party. Zyuganov,
+      by sharp contrast, is a veteran Russian politician who has led the Communist Party
+      of the Russian Federation (CPRF) since its foundation in 1993. Under his leadership,
+      the CPRF has maintained its status as the second most influential political party
+      in Russia and the primary opposition force in the State Duma. These two politicians
+      have very different political views, but they both support the special military
+      operation in Ukraine and back Putin’s handling of the conflict. If you have the
+      time, I encourage you to watch both… You will gain an appreciation for the political
+      diversity in Russia. Marina Kim Gennady Zyuganov I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: 'The article discusses the political diversity in Russia by
+      highlighting two contrasting figures: Marina Kim, a member of the "A Just Russia"
+      party, and Gennady Zyuganov, leader of the Communist Party, both of whom, despite
+      their differing views, support Putin''s actions regarding the Ukraine conflict.'
+    paragraph_summary: 'The article discusses the political diversity in Russia by highlighting
+      two contrasting figures: Marina Kim, a journalist and member of the "A Just Russia
+      — Patriots — For Truth" party, and Gennady Zyuganov, the long-time leader of the
+      Communist Party of the Russian Federation (CPRF). Despite their differing political
+      ideologies, both politicians support Russia''s military operation in Ukraine and
+      endorse President Putin''s approach to the conflict. The author encourages listeners
+      to engage with both podcasts to better understand the spectrum of political thought
+      in Russia, while also noting that the content is freely accessible without subscription
+      fees or advertisements, although donations are welcomed.'
+    published: '2025-10-31T00:10:12+00:00'
+  - title: The Trump Administration is Gaslighting Regarding Russia’s Military Capabilities
+    url: https://sonar21.com/the-trump-administration-is-gaslighting-regarding-russias-military-capabilities/
+    text: 'At the end of this article you will find two videos from my recent visit
+      to Russia that features retired General Andrey Gurulyov and Lt. General Apti Alaudinov.
+      Today I want to give you some hard data regarding Russia’s decisive advantages
+      over Ukraine and NATO with respect to hypersonic missiles, artillery and drones.
+      The Trump administration, along with its NATO allies, continue to gaslight the
+      public about Russia’s military capabilities. Russia holds a commanding lead in
+      offensive firepower, especially when it comes to hypersonic missiles… The US still
+      does not have an operational hypersonic system, while Russia has five such weapons
+      that are routinely used on the battlefield. Russia has been a pioneer in hypersonic
+      weapons development, focusing on missiles that travel at speeds exceeding Mach
+      5 (five times the speed of sound, or about 6,174 km/h at sea level) while being
+      highly maneuverable. This makes them difficult to intercept with traditional missile
+      defense systems like the US Patriot or Aegis. Hypersonic missiles are categorized
+      into two main types: Hypersonic Glide Vehicles (HGVs) , which are launched by
+      a rocket booster and then glide through the atmosphere, and Hypersonic Cruise
+      Missiles (HCMs) , which use advanced air-breathing engines like scramjets. Russia’s
+      program emphasizes air-launched, sea-launched, and ground-launched variants, often
+      integrated with nuclear or conventional warheads. These systems are touted as
+      “unstoppable” by Russian officials, though experts debate their vulnerability
+      to electronic warfare and detection. Key drivers include countering NATO defenses
+      and projecting power in regions like the Black Sea and Arctic. Development accelerated
+      post-2014 Crimea annexation, with significant testing under President Vladimir
+      Putin. As of 2025, Russia has operationally deployed several types of hypersonic
+      missiles in the Ukraine conflict. Russia also employs another hypersonic missile,
+      i.e., the Isakander. The Iskander-M (export: Iskander-E) is Russia’s primary tactical-operational
+      short-range ballistic missile (SRBM) system, replacing the older OTR-21 Tochka
+      (SS-21 Scarab). Deployed since 2006, it is designed for high-precision strikes
+      against high-value, time-sensitive targets in theater conflicts, with significant
+      evasion and penetration capabilities against modern air defenses. “A poor man’s
+      hypersonic weapon” — Not as fast as Kinzhal or Avangard, but cheaper, more numerous,
+      and highly accurate . It combines ballistic speed , cruise missile precision ,
+      and active countermeasures in a mobile, rapid-strike package. Bottom Line : The
+      Iskander is Russia’s most effective conventional theater strike system , capable
+      of decapitating air defenses, logistics hubs, and command centers within 500 km
+      — often before the enemy can react. Its real-world combat record in Ukraine proves
+      both its lethality and vulnerability to prepared defenses. Russia maintains a
+      notable advantage in artillery firepower against Ukraine, particularly with 155mm
+      systems, which have become the NATO-standard caliber dominating Ukraine’s arsenal.
+      This edge stems from Russia’s massive pre-war stockpiles, wartime industrial mobilization,
+      and external supplies, allowing it to sustain higher rates of fire despite Ukrainian
+      counterstrikes on depots and production. However, Western aid surges and Ukraine’s
+      domestic production have reduced the disparity from ratios as high as 1:10 (Ukraine:Russia)
+      in early 2024 to around 1:2 by late 2025. The 155mm focus amplifies Russia’s lead
+      because Ukraine’s transition from Soviet-era 152mm guns to Western 155mm howitzers
+      (e.g., M777, CAESAR) has created compatibility challenges and heightened reliance
+      on imported shells. Sources of Russia’s Advantage Industrial Mobilization and
+      Scale: Russia’s defense industry, operating under wartime footing, produces shells
+      at a rate 2–3 times that of the US and EU combined (~250,000/month vs. ~100,000/month
+      for NATO). This includes refurbishing millions of Soviet-era shells, enabling
+      sustained barrages. In contrast, Ukraine’s pre-war 155mm production was negligible,
+      forcing a rapid (and incomplete) shift from 152mm systems. By October 2025, Russia’s
+      output remains ~4.5 million annually, bolstered by North Korean and Iranian supplies
+      (~1 million+ shells/year). Higher Fire Rates and Battlefield Impact: Russia’s
+      ability to fire 20,000+ shells daily allows suppressive fire that overwhelms Ukrainian
+      positions, supporting infantry advances (e.g., in Donetsk). This “artillery dominance”
+      has enabled incremental gains, with ratios like 1:2 forcing Ukraine into rationing—firing
+      only when targets are confirmed via drones. For 155mm specifically, Russia’s adoption
+      of compatible systems (e.g., imported or converted) gives it volume over Ukraine’s
+      precision-focused but ammo-limited Western guns. Economic and Logistical Resilience:
+      At ~$1,000/shell, Russia sustains output despite sanctions, dedicating ~20% of
+      its defense budget to munitions by 2027. Shorter supply lines and centralized
+      control minimize waste, unlike Ukraine’s dependence on transatlantic convoys.
+      Russia’s Drone Advantage Over Ukraine (as of October 2025) Russia holds a significant
+      quantitative and operational edge in drone warfare against Ukraine, particularly
+      in long-range strike drones and mass production, which enables sustained attrition
+      and overwhelming Ukrainian air defenses. This advantage has intensified since
+      mid-2024, driven by scaled manufacturing, foreign partnerships (notably with Iran
+      and China), and tactical adaptations like fiber-optic and mothership drones. While
+      Ukraine excels in innovative FPV (first-person view) and interceptor drones—often
+      outpacing Russia in quality and adaptability—Russia’s volume allows it to saturate
+      defenses, strike deep infrastructure, and support ground advances. Zelenskyy noted
+      on October 28 that Russian Shahed-type drones are now “more dangerous than ballistic
+      missiles” in some scenarios, requiring multi-system intercepts. Overall, Russia’s
+      drone superiority contributes to a 10:1 frontline ratio in some sectors, per Ukrainian
+      reports, though Ukraine’s countermeasures (e.g., 500–800 daily interceptor drones
+      by November) are narrowing the gap. The statistics regarding Ukraine are suspect,
+      especially the claim that Ukraine downs 80-90% of Russian Shaheds. Ukraine also
+      is exaggerating the number of Russian vehicles destroyed because the Zelensky
+      government is desperately trying to convince the West that it still has a chance
+      of stopping the Russian advance… But the facts on the ground tell a different
+      story. Russia continues to methodically destroy Ukrainian forces, infrastructure
+      and industrial plants. Andrey Gurulyov Lt. General Apti Alaudinov I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The article highlights Russia's significant military advantages
+      over Ukraine and NATO, particularly in hypersonic missiles, artillery, and drones,
+      emphasizing that Russia has operational hypersonic systems while the US does not.
+    paragraph_summary: The article discusses Russia's significant military advantages
+      over Ukraine and NATO, particularly in hypersonic missiles, artillery, and drones.
+      It highlights that while the U.S. lacks operational hypersonic systems, Russia
+      has developed and deployed five types of hypersonic weapons that are actively
+      used in combat, showcasing their capability to travel at speeds exceeding Mach
+      5 and evade traditional missile defense systems. The article categorizes hypersonic
+      missiles into Hypersonic Glide Vehicles and Hypersonic Cruise Missiles, emphasizing
+      Russia's focus on air, sea, and ground-launched variants, often equipped with
+      nuclear or conventional warheads. The development of these advanced weapons accelerated
+      after the annexation of Crimea in 2014, with ongoing testing and deployment under
+      President Putin, particularly in the context of the Ukraine conflict. Additionally,
+      the Iskander missile system is mentioned as part of Russia's hypersonic arsenal.
+    published: '2025-10-30T02:48:58+00:00'
+  - title: The Trump Administration is Gaslighting Regarding Russia’s Military Capabilities
+    url: https://sonar21.com/the-trump-administration-is-gaslighting-regarding-russias-military-capabilities/
+    text: 'At the end of this article you will find two videos from my recent visit
+      to Russia that features retired General Andrey Gurulyov and Lt. General Apti Alaudinov.
+      Today I want to give you some hard data regarding Russia’s decisive advantages
+      over Ukraine and NATO with respect to hypersonic missiles, artillery and drones.
+      The Trump administration, along with its NATO allies, continue to gaslight the
+      public about Russia’s military capabilities. Russia holds a commanding lead in
+      offensive firepower, especially when it comes to hypersonic missiles… The US still
+      does not have an operational hypersonic system, while Russia has five such weapons
+      that are routinely used on the battlefield. Russia has been a pioneer in hypersonic
+      weapons development, focusing on missiles that travel at speeds exceeding Mach
+      5 (five times the speed of sound, or about 6,174 km/h at sea level) while being
+      highly maneuverable. This makes them difficult to intercept with traditional missile
+      defense systems like the US Patriot or Aegis. Hypersonic missiles are categorized
+      into two main types: Hypersonic Glide Vehicles (HGVs) , which are launched by
+      a rocket booster and then glide through the atmosphere, and Hypersonic Cruise
+      Missiles (HCMs) , which use advanced air-breathing engines like scramjets. Russia’s
+      program emphasizes air-launched, sea-launched, and ground-launched variants, often
+      integrated with nuclear or conventional warheads. These systems are touted as
+      “unstoppable” by Russian officials, though experts debate their vulnerability
+      to electronic warfare and detection. Key drivers include countering NATO defenses
+      and projecting power in regions like the Black Sea and Arctic. Development accelerated
+      post-2014 Crimea annexation, with significant testing under President Vladimir
+      Putin. As of 2025, Russia has operationally deployed several types of hypersonic
+      missiles in the Ukraine conflict. Russia also employs another hypersonic missile,
+      i.e., the Isakander. The Iskander-M (export: Iskander-E) is Russia’s primary tactical-operational
+      short-range ballistic missile (SRBM) system, replacing the older OTR-21 Tochka
+      (SS-21 Scarab). Deployed since 2006, it is designed for high-precision strikes
+      against high-value, time-sensitive targets in theater conflicts, with significant
+      evasion and penetration capabilities against modern air defenses. “A poor man’s
+      hypersonic weapon” — Not as fast as Kinzhal or Avangard, but cheaper, more numerous,
+      and highly accurate . It combines ballistic speed , cruise missile precision ,
+      and active countermeasures in a mobile, rapid-strike package. Bottom Line : The
+      Iskander is Russia’s most effective conventional theater strike system , capable
+      of decapitating air defenses, logistics hubs, and command centers within 500 km
+      — often before the enemy can react. Its real-world combat record in Ukraine proves
+      both its lethality and vulnerability to prepared defenses. Russia maintains a
+      notable advantage in artillery firepower against Ukraine, particularly with 155mm
+      systems, which have become the NATO-standard caliber dominating Ukraine’s arsenal.
+      This edge stems from Russia’s massive pre-war stockpiles, wartime industrial mobilization,
+      and external supplies, allowing it to sustain higher rates of fire despite Ukrainian
+      counterstrikes on depots and production. However, Western aid surges and Ukraine’s
+      domestic production have reduced the disparity from ratios as high as 1:10 (Ukraine:Russia)
+      in early 2024 to around 1:2 by late 2025. The 155mm focus amplifies Russia’s lead
+      because Ukraine’s transition from Soviet-era 152mm guns to Western 155mm howitzers
+      (e.g., M777, CAESAR) has created compatibility challenges and heightened reliance
+      on imported shells. Sources of Russia’s Advantage Industrial Mobilization and
+      Scale: Russia’s defense industry, operating under wartime footing, produces shells
+      at a rate 2–3 times that of the US and EU combined (~250,000/month vs. ~100,000/month
+      for NATO). This includes refurbishing millions of Soviet-era shells, enabling
+      sustained barrages. In contrast, Ukraine’s pre-war 155mm production was negligible,
+      forcing a rapid (and incomplete) shift from 152mm systems. By October 2025, Russia’s
+      output remains ~4.5 million annually, bolstered by North Korean and Iranian supplies
+      (~1 million+ shells/year). Higher Fire Rates and Battlefield Impact: Russia’s
+      ability to fire 20,000+ shells daily allows suppressive fire that overwhelms Ukrainian
+      positions, supporting infantry advances (e.g., in Donetsk). This “artillery dominance”
+      has enabled incremental gains, with ratios like 1:2 forcing Ukraine into rationing—firing
+      only when targets are confirmed via drones. For 155mm specifically, Russia’s adoption
+      of compatible systems (e.g., imported or converted) gives it volume over Ukraine’s
+      precision-focused but ammo-limited Western guns. Economic and Logistical Resilience:
+      At ~$1,000/shell, Russia sustains output despite sanctions, dedicating ~20% of
+      its defense budget to munitions by 2027. Shorter supply lines and centralized
+      control minimize waste, unlike Ukraine’s dependence on transatlantic convoys.
+      Russia’s Drone Advantage Over Ukraine (as of October 2025) Russia holds a significant
+      quantitative and operational edge in drone warfare against Ukraine, particularly
+      in long-range strike drones and mass production, which enables sustained attrition
+      and overwhelming Ukrainian air defenses. This advantage has intensified since
+      mid-2024, driven by scaled manufacturing, foreign partnerships (notably with Iran
+      and China), and tactical adaptations like fiber-optic and mothership drones. While
+      Ukraine excels in innovative FPV (first-person view) and interceptor drones—often
+      outpacing Russia in quality and adaptability—Russia’s volume allows it to saturate
+      defenses, strike deep infrastructure, and support ground advances. Zelenskyy noted
+      on October 28 that Russian Shahed-type drones are now “more dangerous than ballistic
+      missiles” in some scenarios, requiring multi-system intercepts. Overall, Russia’s
+      drone superiority contributes to a 10:1 frontline ratio in some sectors, per Ukrainian
+      reports, though Ukraine’s countermeasures (e.g., 500–800 daily interceptor drones
+      by November) are narrowing the gap. The statistics regarding Ukraine are suspect,
+      especially the claim that Ukraine downs 80-90% of Russian Shaheds. Ukraine also
+      is exaggerating the number of Russian vehicles destroyed because the Zelensky
+      government is desperately trying to convince the West that it still has a chance
+      of stopping the Russian advance… But the facts on the ground tell a different
+      story. Russia continues to methodically destroy Ukrainian forces, infrastructure
+      and industrial plants. Andrey Gurulyov Lt. General Apti Alaudinov I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The article highlights Russia's significant military advantages
+      over Ukraine and NATO, particularly in hypersonic missiles, artillery, and drones,
+      emphasizing that Russia has operational hypersonic systems while the US does not.
+    paragraph_summary: The article discusses Russia's significant military advantages
+      over Ukraine and NATO, particularly in hypersonic missiles, artillery, and drones.
+      It highlights that while the U.S. lacks operational hypersonic systems, Russia
+      has developed and deployed five types of hypersonic weapons that are actively
+      used in combat, showcasing their capability to travel at speeds exceeding Mach
+      5 and evade traditional missile defense systems. The article categorizes hypersonic
+      missiles into Hypersonic Glide Vehicles and Hypersonic Cruise Missiles, emphasizing
+      Russia's focus on air, sea, and ground-launched variants, often equipped with
+      nuclear or conventional warheads. The development of these advanced weapons accelerated
+      after the annexation of Crimea in 2014, with ongoing testing and deployment under
+      President Putin, particularly in the context of the Ukraine conflict. Additionally,
+      the Iskander missile system is mentioned as part of Russia's hypersonic arsenal.
+    published: '2025-10-30T02:48:58+00:00'
   - title: Podcasts From Moscow — My Chats with Babakov and Galushka
     url: https://sonar21.com/podcasts-from-moscow-my-chats-with-babakov-and-galushka/
     text: I did 25 interview podcasts during my recent sojourn in Moscow. I now have

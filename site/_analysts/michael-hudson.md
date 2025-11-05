@@ -8,26 +8,1205 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  As global economic and political tensions persist into late October 2025, the international order continues to be shaped by the interplay between U.S. policy, shifting economic paradigms, and the emergence of multipolarity. Recent analyses highlight the mounting challenges facing the neoliberal economic model, the intensification of covert geopolitical maneuvers, and the enduring risks associated with U.S. foreign policy under the Trump administration.
+  Amid ongoing global instability, recent developments highlight growing skepticism toward Western financial and political dominance. The European Union’s consideration of seizing Russian assets to fund Ukraine, as discussed by **Michael Hudson**, has intensified concerns among non-Western states about the security of their reserves. Hudson notes that this has triggered a marked uptick in gold purchases, as nations seek alternatives to dollar- and euro-denominated holdings. This shift signals a broader loss of confidence in the Western financial system, with Hudson asserting, “countries feel insecure about their wealth under the Western financial system.”
   
-  **Neoliberal Economics at a Crossroads**
+  Meanwhile, the debate over the future of neoliberal economics is gaining traction. In a recent exchange with Glenn Diesen, **Michael Hudson** argues that the neoliberal model—characterized by financialization and rentier dominance—may be reaching its limits. He contrasts this with classical economic theories that prioritized productive investment and societal progress, suggesting that the current system’s detachment from real goods production is unsustainable. The majority view among analysts is that the era of unchecked financialization is ending, with high likelihood of policy shifts toward more tangible economic activities.
   
-  According to **Michael Hudson**, the neoliberal economic framework—characterized by financialization and the prioritization of rentier interests over productive investment—is showing signs of reaching its limits. In his recent discussion with Glenn Diesen, Hudson argues that the disconnect between GDP growth and real goods production has become increasingly apparent, with much of the so-called economic expansion driven by speculative finance rather than tangible output. This trend, he notes, undermines the foundations of classical political economy and signals a potential turning point: “The rentier mirage is no longer sustainable as the basis for long-term economic progress.”
+  On the geopolitical front, the legacy of U.S. covert operations remains under scrutiny. **Michael Hudson**, referencing comments by Senator Rick Scott, points to ongoing CIA activities aimed at destabilizing the Maduro government in Venezuela. This underscores the persistence of interventionist policies, even as global power balances shift and the effectiveness of such strategies is increasingly questioned.
   
-  **Escalation of U.S. Covert Operations**
-  
-  On the geopolitical front, revelations about ongoing CIA operations targeting Venezuela have resurfaced. **Michael Hudson** and **Richard Wolff** discuss reports that the Trump administration continues to authorize covert actions aimed at destabilizing President Nicolás Maduro’s government. Republican Senator Rick Scott’s public comments underscore the precariousness of Maduro’s position and suggest bipartisan support for regime change efforts. This development reflects a broader pattern of U.S. interventionism in Latin America, with significant implications for regional stability.
-  
-  **Nuclear Tensions and U.S. Foreign Policy**
-  
-  The risk of escalation in global conflict remains a central concern. In a recent roundtable, **Michael Hudson** warned that the Trump administration’s approach to Russia and the Middle East increases the likelihood of miscalculation and potential nuclear confrontation. The majority view among analysts is that current U.S. rhetoric and policy moves are eroding traditional diplomatic safeguards, heightening the probability of crisis. As Hudson puts it, “The perception of foreign conflicts as zero-sum games is a recipe for disaster.”
-  
-  **Trends and Predictions**
-  
-  The prevailing trend is a gradual erosion of U.S. hegemony, as both economic and geopolitical tools lose effectiveness in a more multipolar world. The shift away from productive investment towards financial speculation is widely seen as unsustainable, and analysts agree that a major economic adjustment is likely in the near to medium term. On the geopolitical front, the continuation of covert operations and aggressive posturing increases the risk of unintended escalation, particularly in regions like Latin America and Eastern Europe.
-  
-  Based on the majority of expert opinions, there is a high chance that the current economic model will face significant challenges in the coming year, with a quite likely scenario of increased instability in U.S. foreign relations. I guarantee that the trend towards multipolarity will continue, reducing U.S. leverage over both allies and adversaries.
+  **Trends and Predictions:**  
+  The prevailing trend is a gradual erosion of trust in Western-led financial and political structures. The move toward gold and alternative reserves is expected to accelerate—there is a high chance that more countries will diversify away from Western assets in the coming months. The neoliberal economic paradigm faces mounting challenges, and it is quite likely that major economies will experiment with new models emphasizing real production over speculative finance. Finally, while U.S. interventionism continues, its long-term effectiveness is in doubt, with most analysts predicting diminishing returns for such strategies.
 articles:
+  - title: From Safe Haven to Seizure Risk
+    url: https://michael-hudson.com/2025/10/from-safe-haven-to-seizure-risk/
+    text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Thursday, October 23rd, 2025, and
+      our dear friends, Michael Hudson and Richard Wolff, are back with us. Welcome
+      back, Richard and Michael. ⁣MICHAEL HUDSON: Good to be here. ⁣RICHARD WOLFF: Hi,
+      glad to be here. ⁣NIMA ALKHORSHID: Let me start with what’s going on in the European
+      Union today. They’re talking about seizing Russian assets and sending them to
+      Ukraine. The situation in Ukraine is getting critical in the minds of those countries
+      who are trying to deal with the dominance of the United States, the U.S. dollar.
+      The question is this: If the United States and EU can freeze and seize Russia’s
+      gold and dollar reserves, how safe is any country’s wealth under the Western financial
+      system? I’m going to start with you, Michael. Go ahead. ⁣MICHAEL HUDSON: Well,
+      it’s obvious that other countries do not feel safe. That’s why they’re buying
+      gold. I think the rise in gold prices and central bank gold holdings reflects
+      the inability so far of the Global Majority — China, Russia, other countries —
+      to create an alternative vehicle for keeping their international savings in London,
+      or in New York — in central bank assets loaned to the central banks of England,
+      and America by investing in U.S. Treasury securities under the dollar standard,
+      investing in European currencies. When all of this can be grabbed, all of a sudden,
+      there’s no safe holding for other countries to hold their international reserves.
+      In the past, they’ve held it in New York, partly — and their gold in London —
+      because that’s where the foreign-exchange markets were. And the purpose of holding
+      international reserves, since World War II, has been to manage the exchange rate,
+      so you can stabilize the exchange rate by borrowing and lending. And other countries,
+      under the rules that the United States set up in 1944, that created the International
+      Monetary Fund and the World Bank, were linked — all of this intervention in world
+      currency markets — to the dollar, because that was the market at that time. That
+      was where they had to operate. Well, all of a sudden, this vestigial survival,
+      from 1945, has been rendered unsafe and, hence, obsolete. So, you could say that
+      the whole surge in gold prices means that countries are trying to find some way
+      to avoid holding them in [that] form. And the risk is twofold. On the one hand,
+      the EU is still discussing how to turn this $300 billion that it’s confiscated
+      from Russia, how to give it to Ukraine’s kleptocrats, in payment for their selling
+      their population as, in effect, the mercenary army to NATO. The money that America
+      has given Ukraine isn’t to Ukraine — it’s not to the people — it’s to the kleptocrats
+      that have said: We are willing to fight to the last Ukrainian. We are willing
+      to try to drain Russia’s resources by sending Ukrainians there; and if the Ukrainian
+      army tries to flee and retreat, we’re going to shoot them in the back — that’s
+      what the Azov Battalion is for. So, all of this money has gone, not really to
+      Ukraine, but to the Lvov group — the Azov Battalion — to, really, the neo-Nazis
+      who are in charge of Ukraine. And the Ukrainians are hopeless to do anything.
+      Well, the problem’s not only, therefore, with foreign countries dealing with the
+      central banks and the government of the United States; it’s the whole international
+      court system that is going to — according to the EU — we are going to make sure
+      that we never have to pay this $300 billion, because we’re going to ask for trillions
+      of dollars of reparations for Russia defending Ukraine’s Russian-speaking population
+      — in Luhansk and Donetsk — and now Odessa, that said: We want to be part of Russia.
+      And their defense is really an attack: We, the West, are allowed to attack Ukraine,
+      to announce that the Russian speakers are subhuman. We can break the rules of
+      law, by attacking consumer areas, civilian areas; not focus on military at all,
+      but just try to destroy whatever is left for Russia to have. But, then, we’re
+      going to say that they are attacking us by fighting back. It’s like Israel accusing
+      Gaza of attacking Israel, by fighting back against the eighty-year war against
+      the Palestinians. As long as you’re having the Western financial system backed
+      by a judicial court system that, like the International Monetary Fund and EU,
+      acts as an arm of NATO, the rest of the world is trying to break away; and the
+      line of least resistance, for now, is to buy gold. Well, the problem with buying
+      gold, of course, is — in the past, countries would invest their foreign reserves
+      in gold — Venezuela invested its reserves of gold, and it kept its reserves (as
+      we’ve discussed before) in the Bank of [England], so that it could use these reserves
+      as collateral when it borrowed money to intervene in the foreign-exchange market
+      to try to stabilize its currency. That’s why countries kept their gold in either
+      London or New York, where the major international foreign-exchange markets were.
+      But now, they can’t do this anymore. The Bank of England grabbed Venezuela’s gold,
+      and it looks like the United States has grabbed Germany’s gold — and Germany’s
+      an ally! A few years ago, Germany asked for its gold reserves to be returned from
+      New York — [from] the Fed in New York’s basement — to Germany, for its central
+      bank to hold itself. The United States said: Well, you know, this gold is very
+      heavy. We’re going to have to find airplanes for that — and that’s the last that
+      (in public) we’ve heard. German reporters and journalists have been calling me
+      to say: Do you know anything about what’s ever happened to this? They tell me
+      that they’ve asked the German politicians about it. The politicians will not answer.
+      Nobody can find out whether Germany’s got any of its gold back. And the United
+      States is still holding onto this gold, and the rest of Europe’s gold. So, holding
+      gold only makes sense if you hold it in your own central banks, where the only
+      way that it can be grabbed is for NATO to invade your country, seize the government,
+      empty out your gold reserves and take it away — like they did in Libya, and other
+      Middle Eastern countries. The problem that they’re really dealing with — the gold
+      problem — is, how are we going to move beyond “gold isn’t a [practical] alternative?”
+      Well, the other line of least resistance that they’ve talked about is currency
+      swaps: We’ll hold each other’s currencies (among the Global Majority). The problem
+      with holding your currencies is, the currencies go up and down. And if you’re
+      a creditor nation, like the United States was to Europe and the world in 1945
+      — and like China is today to many of the Belt-and-Road-Initiative countries that
+      it deals with — how are you going to deal with the fact that the currency you’re
+      holding is declining? Russia has accumulated enormous holdings of Indian rupees
+      that have been declining in value. And the last few days have seen the Trump administration
+      go to Argentina, and they say: We know that you have been dealing with China very
+      heavily, and you have a currency swap, and you owe them a lot of money; but this
+      $40 billion that we’re giving you to support the peso long enough to get [Javier]
+      Milei re-elected next week? In exchange for this, and our not pulling the plug
+      on you, we want you to break all your relations to China; to not honor the currency
+      swap; just to say, well, we’re just not going to pay you, China — what are you
+      going to do about it? So, currency swaps themselves are not a solution. And the
+      BRICS currency is no solution, because in order to create a common currency among
+      BRICS countries, it has to be like the United States creating a central bank,
+      in which all of the American states and politicians are connected. For the EU,
+      all of the countries had to create a political union because, if you have your
+      own currency, who is going to get this currency? How will it be distributed? And
+      how will various countries pay? Until you have a political union among all the
+      BRICS countries — which is not on the horizon, by any stretch of the imagination
+      — you’re going to have to go back, and have the solution that John Maynard Keynes
+      came up with in 1944, as an alternative to the U.S. designs for an International
+      Monetary Fund: You create a new central bank, a collective central bank, that
+      will manage the credits and debts among its member countries, in order to denominate
+      their foreign exchange and currency swaps, to denominate these currency credits
+      and debts in a common denominator based, basically, on the prices of their collective
+      exports and relationships with each other. That’s the only logical solution. I
+      described the long debate over this in my book Super Imperialism . It took a lot
+      of political maneuvering just for Keynes to come up with that. And of course,
+      the United States said: No, we don’t want other countries to make any means of
+      settlement among themselves. Any country’s settlement with any other country has
+      to go through Washington, and the U.S. dollar. And other countries — first of
+      all, you had Britain surrendering to this; and the result was the loss of the
+      British Empire and its currency reserves. Its colonies and countries using the
+      pound were all transferred to the United States by 1950, and the pound collapsed
+      in value, and Britain began its long deindustrialization. The rest of the European
+      countries, once Britain had surrendered — well, there was nothing they could do
+      but go along with it. For the first time now, the world has gone back to 1944-1945,
+      to create a kind of mutual foreign-bank relation to handle relations among currencies
+      that is not run by NATO, the United States, and the Cold War. And the more gold
+      goes up, the more you realize the inability so far for the other countries of
+      the world to address, and solve, this problem. ⁣NIMA ALKHORSHID: Richard, jump
+      in. ⁣RICHARD WOLFF: Yeah, let me put this in a context, but also to scare you.
+      The same logic that leads the Europeans to look gleefully at the $300 billion
+      as a way to make it appear to their own people that the horrible mistake they
+      made in going into a war like this — the enormous damage the war has done to their
+      economy — to make it look as though they’re making, now, somebody else pay — which
+      is really what this is about. It’s not enough money to change the basic layout
+      of what’s going on. It sounds like an awful lot, and it’s a big chunk of money,
+      but it is not adequate to alter the basic situation. Number two: Let me scare
+      you. China has (last time I looked) $750 billion worth of U.S. Treasury bills.
+      What’s to prevent the United States from telling them that these are now toilet
+      paper? We are not going to pay you the interest, and we’re not going to pay you
+      the principal, and we’re going to deal with the rest of the world, henceforth.
+      When we have to borrow for the American government, we will borrow from the rest
+      of the world — end of conversation. Or, we’ll do it for half of the $750 billion.
+      What’s to prevent them? You know, this is crazy. Here’s what we are watching:
+      we are watching the end of the empire. These are the kinds of things that happen
+      when the empire can no longer function. The United States is facing a fundamental
+      contradiction: It cannot keep the world arrangements of the post-45 period, and
+      fight Russia and China; and be involved in a war in Ukraine; and be gearing up
+      to take the oil away from Venezuela — it can’t do it. That’s the problem. It can’t
+      do it. It doesn’t want to admit it can’t do it, so it’s coming up with crazy stuff,
+      stuff that makes no sense, other than as the end of an empire. So, one of them
+      is, we’re going to take — by the way, if I understand correctly, they’ve already
+      taken the interest income from the $300 billion, and used it for the Ukraine war.
+      Clearly, that great move didn’t change anything. And so, now, they want to take
+      the principal. Of course, they do. You know, this is the same game. And what does
+      it do? Everything that Michael just said, and a dozen more things. Everybody is
+      wondering where to keep their money now, because the empire, the emperor, is not
+      in a position to do it anymore. The United States had said to the world: You can
+      keep your money here because we are the safest place for anyone to keep any kind
+      of wealth. We are the ones who will tax it the least. We are the ones who will
+      threaten it the least. We don’t even have a socialist, or communist, party worthy
+      of the name, in terms of its political power; so you don’t have to worry about
+      that. We have a docile, unorganized labor force. You know, we offer you wonderful
+      conditions. So please take a good portion of your wealth and bring it here — which
+      gives us yet more power of an empire to give you the guarantees. You are, in fact,
+      by locating your wealth here, funding our ability to guarantee that wealth. That’s
+      what an empire is. That’s what an empire does. That’s what the British did in
+      the previous century. And now it can’t do it anymore. Let me give you, what you
+      wouldn’t perhaps see as, another sign. We are now executing people in boats on
+      either side of the Western Hemisphere. We did it for a while in the Caribbean
+      with the Venezuelans and the Caribbean [peoples]. And, now, I learned in the last
+      two days, we’ve gone on the Pacific Ocean side, and we’ve done it again. We don’t
+      arrest these people — no trial, no jury, no lawyers, no nothing. Summary execution
+      — in the name of what? Of a war on drugs? Friends, the United States has had an
+      official war on drugs for at least the last seventy-five years. It proves unable
+      to stop them. You can get all of these drugs anywhere in the United States — urban,
+      rural, east, west, north, and south. We are not able to stop it. Killing people
+      summarily is an absurd thing for the upholder of values of law and order and,
+      if I dare say so, a rules-based international order. What rule exactly is it?
+      Killing people in boats? If you arrest a person for the drug trade inside the
+      United States, you do not kill them. Even if they are found guilty, you don’t
+      kill them. We haven’t killed anybody in the drug trade for that crime in anyone’s
+      memory. Okay, so these are signs of an empire that cannot function. Of course,
+      people are running to gold. It’s one of those things which — and I don’t believe
+      it’s correct, but that’s another matter — but it’s a thing that people think is
+      safer than those other alternatives. Well, what I hope people focus on is not
+      whether it’s safer or not — In my judgment, it isn’t — but that, we can disagree.
+      The important thing is they are running away from what is now, clearly — even
+      though they dare not say so — a break in the behavior of an empire. For the Europeans
+      — look, they’ve even had a debate among themselves about it. Their lawyers are
+      telling them: You are taking an incredible step here. Are you sure that it will
+      not hurt Europe to have been the one to do it? Because wherever you’re wealthy,
+      if it’s the Europeans that are doing it, then it’s Europe you’re going to be sure
+      not to keep your wealth in. And this is something the Europeans, at a time when
+      everyone admits their economies are in serious trouble — above all, the British,
+      the French, and the Germans, and those are the major three in that part of the
+      world — You really want to, now, damage your standing as a place to hold wealth,
+      which is where wealth has been held disproportionately for the last 500 years?
+      This is bizarre. This is the end of the Western Empire. Last point, before you
+      go back [to Michael]. Part of the reason the BRICS have not developed their own
+      currency, their own ability — which, by the way, all of these developments will
+      provoke them to do, and to return to do, sooner rather than later. Michael is
+      right about that — But one of the reasons they haven’t done it, we have to keep
+      in mind, because these are important points going on in the debates inside China:
+      The spectacular growth of China in the last thirty-five years was itself, in part,
+      dependent on the empire of the dollar. It was within that context that the Chinese
+      found a way to grow faster than the United States; to become the manufacturing
+      core of the world economy. So, they are rightly worried — don’t make the transition
+      out, before you are pretty damn clear that the benefits of doing so will outweigh
+      the inevitable costs of not having what worked so well for you. There’s a joke
+      that goes around in China about, you know, not cutting off from the United States
+      while it is doing very useful things for the Chinese: in having the SWIFT system,
+      in having the dollar as the universal exchange, even to the diminished degree
+      that is now the case. In other words, it’s the old dialectic, and we should be
+      careful not to get caught on either side. And let me explain very quickly, then
+      I’ll stop. On the side of the United States is the following argument: China is
+      only a superpower because it brought in private capitalists thirty years ago.
+      After Mao died, and the end of the Cultural Revolution, you had a change, and
+      in come foreign private capitalists — Japanese, European, American — and then
+      the allowance for the Chinese themselves. So, that’s one side of the dialectic.
+      That happened — no question — and that was very important to Chinese growth —
+      no question — but, at the same time, the Chinese government held on to the absolute
+      dominant position in the Chinese economy. The government did, and the Communist
+      Party within the government kept its power. And that is just as important a part
+      of the growth and success of the Chinese economy. Otherwise, you can’t explain
+      why China did so much better than any other country in the global south under
+      the regime of American empire. Alright, so the dialectic is the interplay between
+      the public and the private sector. The reason they outperform the United States,
+      is the United States doesn’t understand the dialectic, and is so caught up in
+      its own ideology that it holds back the government from doing all kinds of things
+      it needs the government to do. [The] Chinese don’t have that problem, and the
+      Americans can’t see it. So, the dialectical process now has shifted. It’s costing
+      the West, every day. The war in Ukraine is a wonderful metaphor, despite everything.
+      Every escalation, including the new sanctions on oil companies announced over
+      the last twenty-four hours — like the F-16, like the Abrams tank, like the various
+      missiles (like the Patriot system, like the HIMARS) — all of them — they didn’t
+      work. They didn’t work. That’s why you have the escalation, at every step. And
+      if I were a betting person (I’m not, but if I were), I’d bet that all of this
+      stuff, with sanctioning the oil companies, these are just ways for Mr. Trump to
+      cut his losses. Ukraine is going down, and there will be — there already is —
+      an enormous blame-game going on between Europeans and Americans. Who’s at fault?
+      And so, yeah, sure, let’s sanction that, sure. The United States did its part.
+      It’s not us. We did our part. It’s you, Europeans. And the Europeans will say
+      exactly the opposite. And this game of blame will be yet another sign of an empire
+      dissolving. ⁣MICHAEL HUDSON: Nima, is it okay if I return to the monetary topic?
+      International finance? RICHARD WOLFF: Sure. ⁣NIMA ALKHORSHID: Go ahead, Michael.
+      ⁣MICHAEL HUDSON: And yet, despite all of these things, the U.S. dollar has been
+      going up. It’s certainly viewed as a safe haven for anybody. And why is it? How
+      can the U.S. dollar be going up, while other central banks are moving out? Obviously,
+      it’s private-sector money, and that means new credit creation. Private investors
+      are moving their money into the dollar. Well, this is exactly the strategy that
+      the United States — way beyond Trump — has tried to put in place. It’s the strategy
+      between Trump saying: Japan has to pay us $350 billion, or we will wreck their
+      economy by blocking their trade with the United States; Korea has to pay us $350
+      billion, or we will block Korean exports of automobiles and computers and steel,
+      other Korean exports, to the United States. So, the United States has tried to
+      make it a safe haven, despite the fact of all of the problems that we’ve been
+      discussing — why it’s unsafe for central banks to hold their reserves here. The
+      United States has the power of making it a safe haven, by the extent to which
+      it can wreck other countries’ economies, by blocking them off for trade with the
+      United States. But there’s another reason. There’s a more positive reason. And
+      this is what I think we really should be discussing in the time we have remaining.
+      Money has been coming into the United States because we’ve had an enormous real-estate
+      bubble. A Ponzi scheme, virtually, has been financed, first of all, by the low
+      interest rates — the Federal Reserve provides the banks with low interest, to
+      lend to its customers for spending. Well, what do central banks, and what do commercial
+      banks, lend for? They don’t lend for goods and services. They don’t lend for people
+      to buy consumer goods. And so, the effect of central bank credit isn’t on commodity
+      prices. They lend for the purchase of assets already in place as collateral. That’s
+      how banks have operated for the last thousand years. Eighty percent of the bank
+      loans, as we’ve said before, are for real estate — and the effect of this bank-lending
+      is to raise real estate prices. More and more recently, you’ve had the banks lend
+      an enormous amount of money, coupled with the Trump administration’s policies
+      to create an enormous bubble in the stock market — well, Trump went to the Silicon
+      Valley heads, and the biggest monopolies in America, and said: I want to build
+      a billion-dollar East Wing of the White House. I want to make it bigger than the
+      White House, and put in gold “Trump’s Ballroom,” so that people will look at me
+      and my name, instead of at the White House. That’s going to cost maybe $250 billion.
+      I want each of you to give me $25 billion. And in exchange, I promise I’m not
+      going to impose anti-monopoly laws against Silicon Valley, or the oil industry,
+      or all of the other monopolies. And I will promise to cut your taxes, so I’m only
+      taxing labor, industry, agriculture — but not you financial guys. And, of course,
+      they went along with it. And so, Trump has been able, in order to get the money
+      that he wants, to get other people to contribute to his political campaign, to
+      buy his cryptocurrency, to make billions of dollars for himself — and, well, you
+      can contribute to my campaign by buying my cryptocurrency, and that’ll push it
+      up; you can contribute to my ballroom, to make my name immortal. And the result
+      is that he’s made the deal of making and permitting an enormous price inflation.
+      He’s imposed tariffs on foreign imports so that this creates a price umbrella
+      for American producers of similar goods, to say: Raise your domestic prices all
+      you want, and blame it on the tariffs; and say, well, that’s pricing at the margin,
+      and the margin is what we import. So, you’ve had this enormous stock-market bubble.
+      And it’s a Ponzi scheme, because a Ponzi scheme is where you have the economy
+      borrowing so much money — to try to break even, if you’re a wage-earner — or to
+      keep current on your debts, if you’re a corporate financial manager, that you
+      lend the customers the money to pay — There are a lot of homeowners that, all
+      of a sudden, they’re finding, as a result of global warming and bad weather, that
+      there’s massive flooding. And the insurance that they have to pay on their houses
+      has gone up so much, that they cannot afford to pay their mortgage, and to pay
+      their living costs, and pay this rising insurance. So, all of a sudden, their
+      housing — in Miami and throughout Florida, and in the western states that are
+      homes of hurricane and tornado areas — all of a sudden, this has become unavailable.
+      Well, the banks have gone to them [to] say: Well, we don’t want you to lose your
+      home. Of course, you want to keep living there. Take out an equity loan — and
+      the banks will lend the money — the equity loan — so that families can be able,
+      instead of repaying their mortgage, they can simply keep on adding personal equity
+      loans to the mortgage. They can pledge, and draw down, their retirement savings
+      funds. All of this money is going to increase asset prices. So, the real inflation
+      that the United States has had, that has stabilized the dollar, is not the consumer
+      price inflation that people are talking about — it’s the asset price inflation
+      for stocks, bonds, and real estate. And many of the banks today who have lent
+      to automobile-buyers — you’re having default rates on auto loans go way up; default
+      rates on real estate, way up. Well, the banks that are heavily exposed to these
+      areas, that have said: Well, we make so much money in high-priced auto loans and
+      high-risk loans, that we’ve decided to make loans to whomever will pay the highest
+      interest — and the people who pay the highest interest are the most desperate.
+      And the result is that now these banks are insolvent — just like in 2009, most
+      of the big Wall Street banks, and the systemically-important financial institutions,
+      were insolvent. They were in negative equity: the debts that they owed to their
+      depositors and their counterparties were higher than the value of their assets.
+      Well, that’s the danger that the United States is going to fall into today. And
+      this is why so many of the professional investors — certainly the ones I know
+      — that think, we can’t explain why the stock market is going up. There [are] higher
+      profits — all of that’s true — but the whole economy is being hollowed out by
+      debt. All money creation is debt creation, because it’s credit creation. Money
+      is a form of credit. And the question is: If the credit is used to either help
+      people pay their debts, or to run into debt to buy stocks and bonds and real estate
+      that they think will go up, then at some point, all of this debt becomes increasingly
+      fragile, and has to collapse — and that’s what Hyman Minsky called the “Ponzi”
+      phase of the financial instability cycle. And the U.S. is coping with its financial
+      instability and the dependency (that we’ve talked about for the last forty-five
+      minutes), by essentially creating a Ponzi scheme that is also going to collapse.
+      So, the insecurity of central bank holdings, of their dollars in U.S. Treasury
+      securities, is nothing compared to the insecurity of private investors — foreign
+      investors, and also domestic investors — who have decided to try to participate
+      in the stock market. Well, you don’t know when it’s going to stop. The only way
+      you can know when a bubble is going to stop is when it begins to turn down. And
+      the market in U.S. stocks and bonds recently has been pushed, above all, by domestic
+      American small investors, not big institutional investors — they’ve sold out,
+      and are moving into long-term Treasuries, 10- to 30-year Treasuries, not short-term.
+      They want to lock in the gains while they can. It’s the small investors that have
+      done this, because they somehow imagine that — they don’t believe that — there’s
+      a boom, until it’s almost over. And also Canadian investors. I did a study to
+      see foreign investment in the stock and bond markets. Canadian investors don’t
+      like to buy stocks until they reach the top. They think, okay, now we see the
+      trend, now we’ll buy. Then it goes way down, and, finally — when it gets near
+      the bottom — they say, okay, we’ll sell, it looks like it’s a trend — and then
+      it begins to go up again. Well, that’s what the small investors in America do.
+      So, the American economy is becoming just as exposed to all of this instability
+      as foreign economies are. And so, the result is — I think we’ve used the word
+      “desperation” before — that’s how the United States is flailing around. And it
+      looks like, if there is a meeting between Trump and China, China is going to say:
+      You know, maybe we should just go our own way. Yes, you’re going to prevent other
+      countries, to ban any country’s exports to each other that do not use American
+      computer language, American electronics, as the basis for it. Well, this is going
+      to drive other countries to say: Well, I guess we’ve lost the U.S. market. I guess
+      we’ve lost the market of America’s satellites in Europe. I guess we’re going to
+      have to have a new computer language, in order to trade with the world’s growing
+      market — China and the rest of Asia. And so, these new sanctions that Trump’s
+      team has been describing in the last day or two, are going to be driving other
+      countries to a total break with the United States. Well, if there’s a break in
+      the United States, it’s not only a break in U.S. trade, it’s a break with their
+      mutual investments, the loans and credits they have to each other. Each country
+      will take whatever they have. It’ll be a clean slate. Nobody’s going to pay any
+      of the debts to each other. It’s all grab — China will grab the American investments
+      there; America will grab China’s, and Russia’s, investments here — That’s where
+      the Trump administration is leading, because it really believes that other countries
+      can’t afford to lose the American market. And yet, if the American market is collapsing,
+      because it’s all so debt-ridden and financialized, then why would other countries
+      worry about losing the American market, if the price of holding it is to lose
+      the Chinese, Asian, and Global-Majority market? That’s the big choice that they’re
+      having to make. And you can imagine that their choice is not that which the America-firsters
+      imagine, in their collective narcissism, that other countries cannot survive without
+      the United States’ leadership and control, at the price of absorbing all of their
+      international surplus — for us, Americans — instead of for them. That’s the blind
+      spot of this self-destructive American policy that, as Richard said at the end,
+      is catalyzing other countries to create their own alternative, as an economic
+      life and death issue. ⁣NIMA ALKHORSHID: Richard, breaking news here. The Wall
+      Street Journal reports that President Trump has pardoned Changpeng Zhou, the convicted
+      founder of the cryptocurrency exchange Binance. The decision follows months of
+      efforts by this guy to support Trump’s family cryptocurrency company. And he was
+      pardoned by Donald Trump. ⁣RICHARD WOLFF: Yeah, that part, there’s no end to —
+      and for me, by the way, that’s another sign of a declining empire — its Emperor
+      (you know, whoever it is) taking care of his cousin and his uncle; it’s the French
+      leader famous for the phrase, “après moi, le déluge” —  “after me comes the deluge:”
+      it’s all over, and I’m going to grab as much as I can, before the flood comes
+      and shakes it away. But I want to pick up on the last point Michael makes. You
+      know, he reminds us that Japan and South Korea have been told, you have to invest
+      $350 billion. Ursula von der Leyen was told that the Europeans have to buy twice
+      that much in U.S. energy in the years ahead; and invest $700 billion in the United
+      States. Well, I’ve got news. If the Europeans are willing to take the money from
+      Europe, then I can assure you that before they go down, they will turn to the
+      United States, whether Mr. Trump is president or not, and say: It’ll be a cold
+      day in hell before you ever see any of that money. You made a demand on us, and
+      we told you we’d give it to you. But the world has changed. You know, like we
+      told the Russians it was safe to keep their money in London, or Western Europe,
+      and, well, the conditions have changed. That’s what we’re talking about. All bets
+      are off. There is a small correction. The dollar has not gone up. If you look
+      at the dollar, from the time Mr. Trump becomes president (back in January) to
+      today, it is significantly lower in value — at least, against the Euro, and a
+      good bit of other currencies as well. I think Michael’s analysis stands. I think
+      the reason it didn’t go much lower is not because wealth isn’t being withdrawn
+      from the United States — it is, to gold, and to all many other things — But I
+      think the reason is the second part of what Michael said: You have a classic unsustainable
+      inflation. And he’s quite right. It’s not the inflation of goods and services
+      that they’ve kept under control; but the price of keeping that under control is
+      an uncontrolled inflation in the asset markets and, above all, in real estate
+      and the stock market. People have done very well in the stock market. People are
+      doing very well now in the stock market. That’s one of the reasons the ruling
+      class in this country — even though it doesn’t like what Mr. Trump is doing —
+      isn’t going to do anything about it because they’re the ones who own the shares,
+      and their monthly statement is telling them he’s okay for them. He may be a disaster
+      everywhere else, but he’s okay for them. You know, the mass of people? No, the
+      mass of people are going in a different direction. They’re about to elect a Muslim
+      socialist mayor of New York City. They’re about to elect Catherine Connolly in
+      Ireland as the new president of Ireland, whose perspective and whose positions
+      are quite like those of Mr. [Zohran] Mamdani in New York — sometimes right down
+      to the literal sameness. So, things are happening that are coming out of the movement
+      from below — the absurdity of the French government, which Mr. [Emmanuel] Macron
+      is no longer the real leader of; and Mr. [Keir] Starmer, likewise; and Mr. [Friedrich]
+      Merz, soon. These are signs of diminution. And the inflation in asset markets
+      is nothing new. It is a very old business. That’s why we tell people a credit
+      is good if it is used to be productive, so it produces the wealth that can justify,
+      retroactively, the debt. You get that if you borrow to produce. You don’t get
+      that if you borrow to bid up asset prices. The joke then becomes — and we’ve had
+      this in the United States, repeatedly, in the last hundred years: You have a borrowing
+      binge. It bids up the price of real estate. As the price of real estate goes up,
+      the owners of the real estate go back to the bank, and say: I have a much more
+      valuable piece of land here. Let me borrow more money because you have the collateral.
+      Oh, sure, here’s more money — which is then used to bid up the price. You understand?
+      The loan bids up the collateral, which enables a bigger loan. There’s no end of
+      this until, well, what? Those two automobile loaning companies that collapsed
+      over the last two or three weeks? And notice, not just that they collapsed, but
+      the immediate news — extraordinary! Literally like what happened at the beginning
+      of the collapse of the subprime mortgages back in 2007-2008. An immense debate
+      between a small group who says: Uh-oh, this could be the beginning of the collapse
+      — versus an army of responders saying: No, no, no, it’s different this time. That’s
+      exactly what we have each time. And, by the way, sometimes one of them is correct,
+      sometimes the other one of them is correct. The important thing is to see what
+      we are seeing: Any one of a dozen phenomena could blow this out of the water.
+      If the Russians finish in Ukraine — the battle of the city of Pokrovsk, which
+      is now in play, is the end, basically, of this war — Odessa and Kiev are all that’s
+      left to be fought over, and it’s obvious where this is going. Likewise, it’s obvious,
+      to those who watch, that the sanctions on these two oil companies [Rosneft and
+      Lukoil] is a symbolic act. It’s not a real, you know. It’s an irritant. If you
+      look at the price of oil, which it’s supposed to drive down — the price of oil
+      has been going down from the beginning of the war in Ukraine. If you look at the
+      global oil price in the early part of 2022, and you look at it today, it’s a line
+      that goes up and down; but it basically goes down, from roughly $120 a barrel,
+      to roughly $60. That’s a tremendous cut — and that has not inhibited the Russians,
+      at all. Right? So, you have sanctions, and a global cut in the oil price — should
+      have done Russia in, if you believed any of that story from the beginning — it
+      never did. And this little addition isn’t going to do it either. The joke today
+      — today — the price of oil went up two, three bucks a barrel, not down. You know,
+      it’s just extraordinary the way this is playing out, and the utter blindness of
+      the West in terms of understanding its own position. No one knows how long it
+      will take for the BRICS and the Chinese to develop their own equivalent. But I
+      think, if I had to pick the most important thing that Michael told us, it’s his
+      recognition — as he spun out the logic of his own argument just now — that the
+      end result is the United States building a wall around itself. It is this self-isolation
+      of the United States that’s underway. We have seen tariffs imposed, but we have
+      not yet seen retaliation. That’s coming. And no one knows how bad that will be.
+      And all of it — Mr. Trump is busy, desperately trying to hold on, for example,
+      to the Milei government in Argentina: giving them $20 to $40 (depending on how
+      you count) billion dollars to keep their currency going; dropping the tariff against
+      their beef, so that they can bring cheap meat into the country; freaking out the
+      beef ranchers in several states, without which he can’t be president anymore.
+      He has to screw the cattle farmers in this country by bringing in the cheap beef.
+      Why? To keep one of the few governments going that supports him. This is impossible.
+      And there’s a good chance — Mr. Milei, having gotten this total bribe — of the
+      people of their country being told that they must vote for him or else they will
+      lose all of these benefits — So, talk about interfering in other people’s elections!
+      Remember? That was Russiagate we were very upset about? That was nothing, compared
+      to — you buy that entire country here, openly, publicly, with a threat: You don’t
+      get the money, you don’t get the beef exports, unless we get a re-election of
+      this particular candidate, who, the polls in Argentina show, is like Mr. Macron
+      and Mr. Starmer: you know, hated; not loved, except by the extreme right wing
+      there, which is too small to keep him going. So, for me, again, signs of a decrepit,
+      desperate empire having a hard time holding on. ⁣MICHAEL HUDSON: I want to pick
+      up on just two topics that Richard’s brought up: Argentina and oil. Obviously,
+      after the election, Argentina cannot pay, not only the $40 million, but all of
+      the other debt that it’s taken on from the International Monetary Fund. Milei
+      will probably be voted out of power, and the IMF is going to say: We only lend
+      money to American-backed dictators. We don’t lend money to left-wing groups that
+      want to increase living standards. We only lend to our client countries. So, Argentina
+      cannot pay the debts. And the problem, that I should have mentioned before, is
+      neither can almost all of the global south countries today. They cannot afford
+      to pay the debts. If there is the break that we’ve discussed, the global south
+      countries cannot pay the foreign-dollar debts they owe — not only to the U.S.
+      and the official institutions like the IMF, but to bondholders. There are going
+      to be a lot of banks that are very heavily exposed to this break that we’re talking
+      about. And the break, of the scale that we’ve talked about, the break of international
+      trade and payments between the West and the Global Majority, is going to lead
+      to many bank failures, too. Also, Richard pointed, quite rightly, about oil. I
+      didn’t mention that the most heavily exposed countries of all are Saudi Arabia
+      and the Middle Eastern oil exporters. The deal that they made back in 1974 and
+      ‘75 — and I was at the White House sitting in on these deals — was that they can
+      charge whatever they want for their oil, but they have to invest all their oil-export
+      earnings in the U.S. stock and bond markets — not buying control of U.S. companies,
+      but stocks and bonds. Well, all of this money is just as exposed as other countries
+      are. And I think this is the explanation for why the oil prices have been going
+      down. The Americans have strong-armed OPEC countries: You must reduce oil prices
+      because we want to squeeze Russia’s foreign-exchange earnings that come very largely
+      from its exports of oil and gas. The Americans think of Russia as a gas station
+      with atom bombs, not realizing that Russia now exports agriculture, and all sorts
+      of other goods, besides oil and gas. So, Russia’s been doing just fine. It’s growing
+      much more rapidly than the West. But the U.S. has strong-armed OPEC into providing
+      such a heavy supply of Near Eastern oil that this has driven down the prices.
+      This is done largely to support America’s control of the Near East. All of that
+      is going to be called into question also. The whole political division of the
+      world between the Middle East countries — literally in the middle between the
+      East and the West — is going to be all up for grabs — all instability, all up
+      for diplomatic maneuvering between China, Russia, and the BRICS countries, on
+      the one hand; and the United States and its European satellites, on the other.
+      All of that is going to be enough to supply your show with a lot of audience for
+      the next year or two, Nima. ⁣NIMA ALKHORSHID: Yeah. Thank you so much. Richard,
+      do you want to add something before wrapping up? ⁣RICHARD WOLFF: No. No, I want
+      to apologize [to] people: I don’t mean to beat the proverbial dead horse, with
+      this “desperation” and “declining empire;” but I also want to justify that I keep
+      returning to it because it is the context that is often missing in the discussions
+      — so we don’t get lost in the weeds. Important as the details are, we need to
+      periodically remind ourselves, and our audience, of how to see the larger picture
+      within which — otherwise, we will be whipsawed by each day’s evolution. You know,
+      you take the president seriously, when he tells you that by going after Lukoil
+      and Rosneft, he’s done this major — this is all really what folks used to call
+      “smoke and mirrors” — you know, a game, a performance — that has really only to
+      do with the fact that the Europeans know that it’s over in Ukraine, and that their
+      program of demonizing Putin as the (sort of) way to cope with this loss isn’t
+      doing the job. It’s not reviving their popularity; it is not recouping their economy;
+      it is not squeezing out of the United States more support — none of it. Absolutely
+      none of it. And so, they are desperate. They really don’t know where, quite, to
+      turn. And believe me, there are people — there must be — maybe I’m wrong, Michael
+      knows this stuff better than I do — but there must be people in the White House
+      with enough economics history in their head to be able to tell Mr. Trump, and
+      the people who advise him, what the risks are of a stock market — Even the financial
+      press is full of articles — today, yesterday, last week — wondering whether the
+      overpriced stock market is going to blow at any second. It’s not just left wingers,
+      like Michael and me. People should understand, this is a widespread anxiety. When
+      we say people are rushing to gold for safety, that’s what’s happening: they’re
+      leaving the stock market — not enough yet to offset the built-in rising of the
+      borrowing, and the asset inflation. And the inflation you don’t see at the supermarket
+      is because you do see it in the stock market. And beware, if it stops in the stock
+      market, it might really take off in the goods market. And then where will the
+      mass of Americans be? ⁣NIMA ALKHORSHID: Since you’ve mentioned the situation with
+      the White House, Richard, before wrapping up, here is the situation with Trump’s
+      White House. Here is what he said about India: ⁣REPORTER (CLIP): And, you know,
+      you even mentioned that in a recent phone call with Prime Minister [Narendra]
+      Modi, and that Modi had said his country would stop purchasing the Russian oil.
+      But India said that they were not aware. ⁣DONALD TRUMP (CLIP): Well, then they’re
+      going to just keep paying a lot of tariffs. If they said that, but I don’t believe
+      they said that. No, I spoke with Prime Minister Modi of India, and he said he’s
+      not going to be doing the Russian oil thing. ⁣REPORTER (CLIP): Well, why would
+      India say that they’re not going to do that? ⁣DONALD TRUMP (CLIP): I don’t know.
+      But if they want to say that, then they’ll just continue to pay massive tariffs.
+      And they don’t want to do that. ⁣NIMA ALKHORSHID: The guy makes things up. [Laughs]
+      How can you imagine that? ⁣RICHARD WOLFF: Yeah, and he’s going to threaten the
+      whole world with tariffs. It’s his answer, half the time, and with his assistants,
+      it’s the answer all of the time. You know, this reminds me of a famous image.
+      It’s the two guys in trench coats, entering the dry cleaner in some urban area
+      of America, and explaining to the little owner of the dry-cleaning establishment:
+      We’re here to pick up our weekly $200 protection fee. And the little owner turns
+      to them and says: What are you talking about? What do I need protection from?
+      And the two of them smile, and they say to him: You need it — from us. You have
+      to pay so we don’t hurt you. It’s really what Michael said a little bit earlier:
+      You have to pay, or else we will hurt you. Goldman Sachs released this last week
+      their estimate of what the actual tariffs are that have been levied (so far) in
+      the Trump regime, and what portion of them have been absorbed by the businesses,
+      what portion passed on to consumers, and what portion hurting the original exporters.
+      Here we go. Ready? The exporters have lost under 10% — that is, only 10% of the
+      burden of the tariffs has actually fallen on the exporting country; 61% has fallen
+      (if I remember the numbers) on American businesses; and the remainder on American
+      consumers. So, American businesses and American consumers have been whacked by
+      the tariffs. The rest of the world, not so much. Not really anywhere near so much.
+      And that’s before — as the Goldman people point out, correctly — that’s before
+      we get the retaliation that is being planned, debated, and, hesitantly, brought
+      forward in the rest of the world. At which point, the balance will shift. And
+      all they can discuss among themselves at Goldman is: Which is worse for the American
+      economy? The damage to the business’s profits, or the damage to the consumer’s
+      pocketbook? What a place to be, in looking at the effect of the “liberation,”
+      as Mr. Trump called it. ⁣NIMA ALKHORSHID: Thank you so much, Richard and Michael.
+      Great pleasure, as always. ⁣RICHARD WOLFF: Bye-bye. ⁣NIMA ALKHORSHID: See you.
+      Transcription and Diarization: https://scripthub.dev Editing: Kimberly Mims Review:
+      ced Photo by Klara Kulikova on Unsplash The post From Safe Haven to Seizure Risk
+      first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion about the European Union's potential seizure
+      of Russian assets to support Ukraine, Michael Hudson highlights that this situation
+      has led other countries to feel insecure about their wealth under the Western
+      financial system, prompting increased purchases of gold.
+    paragraph_summary: In a discussion on October 23, 2025, Nima Alkhorchid, Michael
+      Hudson, and Richard Wolff addressed the European Union's consideration of seizing
+      Russian assets to support Ukraine amid escalating tensions. Hudson highlighted
+      the growing insecurity among nations regarding the safety of their wealth within
+      the Western financial system, particularly in light of the U.S. and EU's ability
+      to freeze foreign reserves. He noted that this has led countries, especially in
+      the Global Majority like China and Russia, to increasingly invest in gold as a
+      safer alternative for their international savings, reflecting a lack of trust
+      in traditional financial systems dominated by the U.S. dollar. Hudson emphasized
+      that the historical reliance on U.S. and European financial markets for managing
+      exchange rates is being challenged as countries seek more secure options for their
+      reserves.
+    published: '2025-10-28T11:07:05+00:00'
+  - title: From Safe Haven to Seizure Risk
+    url: https://michael-hudson.com/2025/10/from-safe-haven-to-seizure-risk/
+    text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Thursday, October 23rd, 2025, and
+      our dear friends, Michael Hudson and Richard Wolff, are back with us. Welcome
+      back, Richard and Michael. ⁣MICHAEL HUDSON: Good to be here. ⁣RICHARD WOLFF: Hi,
+      glad to be here. ⁣NIMA ALKHORSHID: Let me start with what’s going on in the European
+      Union today. They’re talking about seizing Russian assets and sending them to
+      Ukraine. The situation in Ukraine is getting critical in the minds of those countries
+      who are trying to deal with the dominance of the United States, the U.S. dollar.
+      The question is this: If the United States and EU can freeze and seize Russia’s
+      gold and dollar reserves, how safe is any country’s wealth under the Western financial
+      system? I’m going to start with you, Michael. Go ahead. ⁣MICHAEL HUDSON: Well,
+      it’s obvious that other countries do not feel safe. That’s why they’re buying
+      gold. I think the rise in gold prices and central bank gold holdings reflects
+      the inability so far of the Global Majority — China, Russia, other countries —
+      to create an alternative vehicle for keeping their international savings in London,
+      or in New York — in central bank assets loaned to the central banks of England,
+      and America by investing in U.S. Treasury securities under the dollar standard,
+      investing in European currencies. When all of this can be grabbed, all of a sudden,
+      there’s no safe holding for other countries to hold their international reserves.
+      In the past, they’ve held it in New York, partly — and their gold in London —
+      because that’s where the foreign-exchange markets were. And the purpose of holding
+      international reserves, since World War II, has been to manage the exchange rate,
+      so you can stabilize the exchange rate by borrowing and lending. And other countries,
+      under the rules that the United States set up in 1944, that created the International
+      Monetary Fund and the World Bank, were linked — all of this intervention in world
+      currency markets — to the dollar, because that was the market at that time. That
+      was where they had to operate. Well, all of a sudden, this vestigial survival,
+      from 1945, has been rendered unsafe and, hence, obsolete. So, you could say that
+      the whole surge in gold prices means that countries are trying to find some way
+      to avoid holding them in [that] form. And the risk is twofold. On the one hand,
+      the EU is still discussing how to turn this $300 billion that it’s confiscated
+      from Russia, how to give it to Ukraine’s kleptocrats, in payment for their selling
+      their population as, in effect, the mercenary army to NATO. The money that America
+      has given Ukraine isn’t to Ukraine — it’s not to the people — it’s to the kleptocrats
+      that have said: We are willing to fight to the last Ukrainian. We are willing
+      to try to drain Russia’s resources by sending Ukrainians there; and if the Ukrainian
+      army tries to flee and retreat, we’re going to shoot them in the back — that’s
+      what the Azov Battalion is for. So, all of this money has gone, not really to
+      Ukraine, but to the Lvov group — the Azov Battalion — to, really, the neo-Nazis
+      who are in charge of Ukraine. And the Ukrainians are hopeless to do anything.
+      Well, the problem’s not only, therefore, with foreign countries dealing with the
+      central banks and the government of the United States; it’s the whole international
+      court system that is going to — according to the EU — we are going to make sure
+      that we never have to pay this $300 billion, because we’re going to ask for trillions
+      of dollars of reparations for Russia defending Ukraine’s Russian-speaking population
+      — in Luhansk and Donetsk — and now Odessa, that said: We want to be part of Russia.
+      And their defense is really an attack: We, the West, are allowed to attack Ukraine,
+      to announce that the Russian speakers are subhuman. We can break the rules of
+      law, by attacking consumer areas, civilian areas; not focus on military at all,
+      but just try to destroy whatever is left for Russia to have. But, then, we’re
+      going to say that they are attacking us by fighting back. It’s like Israel accusing
+      Gaza of attacking Israel, by fighting back against the eighty-year war against
+      the Palestinians. As long as you’re having the Western financial system backed
+      by a judicial court system that, like the International Monetary Fund and EU,
+      acts as an arm of NATO, the rest of the world is trying to break away; and the
+      line of least resistance, for now, is to buy gold. Well, the problem with buying
+      gold, of course, is — in the past, countries would invest their foreign reserves
+      in gold — Venezuela invested its reserves of gold, and it kept its reserves (as
+      we’ve discussed before) in the Bank of [England], so that it could use these reserves
+      as collateral when it borrowed money to intervene in the foreign-exchange market
+      to try to stabilize its currency. That’s why countries kept their gold in either
+      London or New York, where the major international foreign-exchange markets were.
+      But now, they can’t do this anymore. The Bank of England grabbed Venezuela’s gold,
+      and it looks like the United States has grabbed Germany’s gold — and Germany’s
+      an ally! A few years ago, Germany asked for its gold reserves to be returned from
+      New York — [from] the Fed in New York’s basement — to Germany, for its central
+      bank to hold itself. The United States said: Well, you know, this gold is very
+      heavy. We’re going to have to find airplanes for that — and that’s the last that
+      (in public) we’ve heard. German reporters and journalists have been calling me
+      to say: Do you know anything about what’s ever happened to this? They tell me
+      that they’ve asked the German politicians about it. The politicians will not answer.
+      Nobody can find out whether Germany’s got any of its gold back. And the United
+      States is still holding onto this gold, and the rest of Europe’s gold. So, holding
+      gold only makes sense if you hold it in your own central banks, where the only
+      way that it can be grabbed is for NATO to invade your country, seize the government,
+      empty out your gold reserves and take it away — like they did in Libya, and other
+      Middle Eastern countries. The problem that they’re really dealing with — the gold
+      problem — is, how are we going to move beyond “gold isn’t a [practical] alternative?”
+      Well, the other line of least resistance that they’ve talked about is currency
+      swaps: We’ll hold each other’s currencies (among the Global Majority). The problem
+      with holding your currencies is, the currencies go up and down. And if you’re
+      a creditor nation, like the United States was to Europe and the world in 1945
+      — and like China is today to many of the Belt-and-Road-Initiative countries that
+      it deals with — how are you going to deal with the fact that the currency you’re
+      holding is declining? Russia has accumulated enormous holdings of Indian rupees
+      that have been declining in value. And the last few days have seen the Trump administration
+      go to Argentina, and they say: We know that you have been dealing with China very
+      heavily, and you have a currency swap, and you owe them a lot of money; but this
+      $40 billion that we’re giving you to support the peso long enough to get [Javier]
+      Milei re-elected next week? In exchange for this, and our not pulling the plug
+      on you, we want you to break all your relations to China; to not honor the currency
+      swap; just to say, well, we’re just not going to pay you, China — what are you
+      going to do about it? So, currency swaps themselves are not a solution. And the
+      BRICS currency is no solution, because in order to create a common currency among
+      BRICS countries, it has to be like the United States creating a central bank,
+      in which all of the American states and politicians are connected. For the EU,
+      all of the countries had to create a political union because, if you have your
+      own currency, who is going to get this currency? How will it be distributed? And
+      how will various countries pay? Until you have a political union among all the
+      BRICS countries — which is not on the horizon, by any stretch of the imagination
+      — you’re going to have to go back, and have the solution that John Maynard Keynes
+      came up with in 1944, as an alternative to the U.S. designs for an International
+      Monetary Fund: You create a new central bank, a collective central bank, that
+      will manage the credits and debts among its member countries, in order to denominate
+      their foreign exchange and currency swaps, to denominate these currency credits
+      and debts in a common denominator based, basically, on the prices of their collective
+      exports and relationships with each other. That’s the only logical solution. I
+      described the long debate over this in my book Super Imperialism . It took a lot
+      of political maneuvering just for Keynes to come up with that. And of course,
+      the United States said: No, we don’t want other countries to make any means of
+      settlement among themselves. Any country’s settlement with any other country has
+      to go through Washington, and the U.S. dollar. And other countries — first of
+      all, you had Britain surrendering to this; and the result was the loss of the
+      British Empire and its currency reserves. Its colonies and countries using the
+      pound were all transferred to the United States by 1950, and the pound collapsed
+      in value, and Britain began its long deindustrialization. The rest of the European
+      countries, once Britain had surrendered — well, there was nothing they could do
+      but go along with it. For the first time now, the world has gone back to 1944-1945,
+      to create a kind of mutual foreign-bank relation to handle relations among currencies
+      that is not run by NATO, the United States, and the Cold War. And the more gold
+      goes up, the more you realize the inability so far for the other countries of
+      the world to address, and solve, this problem. ⁣NIMA ALKHORSHID: Richard, jump
+      in. ⁣RICHARD WOLFF: Yeah, let me put this in a context, but also to scare you.
+      The same logic that leads the Europeans to look gleefully at the $300 billion
+      as a way to make it appear to their own people that the horrible mistake they
+      made in going into a war like this — the enormous damage the war has done to their
+      economy — to make it look as though they’re making, now, somebody else pay — which
+      is really what this is about. It’s not enough money to change the basic layout
+      of what’s going on. It sounds like an awful lot, and it’s a big chunk of money,
+      but it is not adequate to alter the basic situation. Number two: Let me scare
+      you. China has (last time I looked) $750 billion worth of U.S. Treasury bills.
+      What’s to prevent the United States from telling them that these are now toilet
+      paper? We are not going to pay you the interest, and we’re not going to pay you
+      the principal, and we’re going to deal with the rest of the world, henceforth.
+      When we have to borrow for the American government, we will borrow from the rest
+      of the world — end of conversation. Or, we’ll do it for half of the $750 billion.
+      What’s to prevent them? You know, this is crazy. Here’s what we are watching:
+      we are watching the end of the empire. These are the kinds of things that happen
+      when the empire can no longer function. The United States is facing a fundamental
+      contradiction: It cannot keep the world arrangements of the post-45 period, and
+      fight Russia and China; and be involved in a war in Ukraine; and be gearing up
+      to take the oil away from Venezuela — it can’t do it. That’s the problem. It can’t
+      do it. It doesn’t want to admit it can’t do it, so it’s coming up with crazy stuff,
+      stuff that makes no sense, other than as the end of an empire. So, one of them
+      is, we’re going to take — by the way, if I understand correctly, they’ve already
+      taken the interest income from the $300 billion, and used it for the Ukraine war.
+      Clearly, that great move didn’t change anything. And so, now, they want to take
+      the principal. Of course, they do. You know, this is the same game. And what does
+      it do? Everything that Michael just said, and a dozen more things. Everybody is
+      wondering where to keep their money now, because the empire, the emperor, is not
+      in a position to do it anymore. The United States had said to the world: You can
+      keep your money here because we are the safest place for anyone to keep any kind
+      of wealth. We are the ones who will tax it the least. We are the ones who will
+      threaten it the least. We don’t even have a socialist, or communist, party worthy
+      of the name, in terms of its political power; so you don’t have to worry about
+      that. We have a docile, unorganized labor force. You know, we offer you wonderful
+      conditions. So please take a good portion of your wealth and bring it here — which
+      gives us yet more power of an empire to give you the guarantees. You are, in fact,
+      by locating your wealth here, funding our ability to guarantee that wealth. That’s
+      what an empire is. That’s what an empire does. That’s what the British did in
+      the previous century. And now it can’t do it anymore. Let me give you, what you
+      wouldn’t perhaps see as, another sign. We are now executing people in boats on
+      either side of the Western Hemisphere. We did it for a while in the Caribbean
+      with the Venezuelans and the Caribbean [peoples]. And, now, I learned in the last
+      two days, we’ve gone on the Pacific Ocean side, and we’ve done it again. We don’t
+      arrest these people — no trial, no jury, no lawyers, no nothing. Summary execution
+      — in the name of what? Of a war on drugs? Friends, the United States has had an
+      official war on drugs for at least the last seventy-five years. It proves unable
+      to stop them. You can get all of these drugs anywhere in the United States — urban,
+      rural, east, west, north, and south. We are not able to stop it. Killing people
+      summarily is an absurd thing for the upholder of values of law and order and,
+      if I dare say so, a rules-based international order. What rule exactly is it?
+      Killing people in boats? If you arrest a person for the drug trade inside the
+      United States, you do not kill them. Even if they are found guilty, you don’t
+      kill them. We haven’t killed anybody in the drug trade for that crime in anyone’s
+      memory. Okay, so these are signs of an empire that cannot function. Of course,
+      people are running to gold. It’s one of those things which — and I don’t believe
+      it’s correct, but that’s another matter — but it’s a thing that people think is
+      safer than those other alternatives. Well, what I hope people focus on is not
+      whether it’s safer or not — In my judgment, it isn’t — but that, we can disagree.
+      The important thing is they are running away from what is now, clearly — even
+      though they dare not say so — a break in the behavior of an empire. For the Europeans
+      — look, they’ve even had a debate among themselves about it. Their lawyers are
+      telling them: You are taking an incredible step here. Are you sure that it will
+      not hurt Europe to have been the one to do it? Because wherever you’re wealthy,
+      if it’s the Europeans that are doing it, then it’s Europe you’re going to be sure
+      not to keep your wealth in. And this is something the Europeans, at a time when
+      everyone admits their economies are in serious trouble — above all, the British,
+      the French, and the Germans, and those are the major three in that part of the
+      world — You really want to, now, damage your standing as a place to hold wealth,
+      which is where wealth has been held disproportionately for the last 500 years?
+      This is bizarre. This is the end of the Western Empire. Last point, before you
+      go back [to Michael]. Part of the reason the BRICS have not developed their own
+      currency, their own ability — which, by the way, all of these developments will
+      provoke them to do, and to return to do, sooner rather than later. Michael is
+      right about that — But one of the reasons they haven’t done it, we have to keep
+      in mind, because these are important points going on in the debates inside China:
+      The spectacular growth of China in the last thirty-five years was itself, in part,
+      dependent on the empire of the dollar. It was within that context that the Chinese
+      found a way to grow faster than the United States; to become the manufacturing
+      core of the world economy. So, they are rightly worried — don’t make the transition
+      out, before you are pretty damn clear that the benefits of doing so will outweigh
+      the inevitable costs of not having what worked so well for you. There’s a joke
+      that goes around in China about, you know, not cutting off from the United States
+      while it is doing very useful things for the Chinese: in having the SWIFT system,
+      in having the dollar as the universal exchange, even to the diminished degree
+      that is now the case. In other words, it’s the old dialectic, and we should be
+      careful not to get caught on either side. And let me explain very quickly, then
+      I’ll stop. On the side of the United States is the following argument: China is
+      only a superpower because it brought in private capitalists thirty years ago.
+      After Mao died, and the end of the Cultural Revolution, you had a change, and
+      in come foreign private capitalists — Japanese, European, American — and then
+      the allowance for the Chinese themselves. So, that’s one side of the dialectic.
+      That happened — no question — and that was very important to Chinese growth —
+      no question — but, at the same time, the Chinese government held on to the absolute
+      dominant position in the Chinese economy. The government did, and the Communist
+      Party within the government kept its power. And that is just as important a part
+      of the growth and success of the Chinese economy. Otherwise, you can’t explain
+      why China did so much better than any other country in the global south under
+      the regime of American empire. Alright, so the dialectic is the interplay between
+      the public and the private sector. The reason they outperform the United States,
+      is the United States doesn’t understand the dialectic, and is so caught up in
+      its own ideology that it holds back the government from doing all kinds of things
+      it needs the government to do. [The] Chinese don’t have that problem, and the
+      Americans can’t see it. So, the dialectical process now has shifted. It’s costing
+      the West, every day. The war in Ukraine is a wonderful metaphor, despite everything.
+      Every escalation, including the new sanctions on oil companies announced over
+      the last twenty-four hours — like the F-16, like the Abrams tank, like the various
+      missiles (like the Patriot system, like the HIMARS) — all of them — they didn’t
+      work. They didn’t work. That’s why you have the escalation, at every step. And
+      if I were a betting person (I’m not, but if I were), I’d bet that all of this
+      stuff, with sanctioning the oil companies, these are just ways for Mr. Trump to
+      cut his losses. Ukraine is going down, and there will be — there already is —
+      an enormous blame-game going on between Europeans and Americans. Who’s at fault?
+      And so, yeah, sure, let’s sanction that, sure. The United States did its part.
+      It’s not us. We did our part. It’s you, Europeans. And the Europeans will say
+      exactly the opposite. And this game of blame will be yet another sign of an empire
+      dissolving. ⁣MICHAEL HUDSON: Nima, is it okay if I return to the monetary topic?
+      International finance? RICHARD WOLFF: Sure. ⁣NIMA ALKHORSHID: Go ahead, Michael.
+      ⁣MICHAEL HUDSON: And yet, despite all of these things, the U.S. dollar has been
+      going up. It’s certainly viewed as a safe haven for anybody. And why is it? How
+      can the U.S. dollar be going up, while other central banks are moving out? Obviously,
+      it’s private-sector money, and that means new credit creation. Private investors
+      are moving their money into the dollar. Well, this is exactly the strategy that
+      the United States — way beyond Trump — has tried to put in place. It’s the strategy
+      between Trump saying: Japan has to pay us $350 billion, or we will wreck their
+      economy by blocking their trade with the United States; Korea has to pay us $350
+      billion, or we will block Korean exports of automobiles and computers and steel,
+      other Korean exports, to the United States. So, the United States has tried to
+      make it a safe haven, despite the fact of all of the problems that we’ve been
+      discussing — why it’s unsafe for central banks to hold their reserves here. The
+      United States has the power of making it a safe haven, by the extent to which
+      it can wreck other countries’ economies, by blocking them off for trade with the
+      United States. But there’s another reason. There’s a more positive reason. And
+      this is what I think we really should be discussing in the time we have remaining.
+      Money has been coming into the United States because we’ve had an enormous real-estate
+      bubble. A Ponzi scheme, virtually, has been financed, first of all, by the low
+      interest rates — the Federal Reserve provides the banks with low interest, to
+      lend to its customers for spending. Well, what do central banks, and what do commercial
+      banks, lend for? They don’t lend for goods and services. They don’t lend for people
+      to buy consumer goods. And so, the effect of central bank credit isn’t on commodity
+      prices. They lend for the purchase of assets already in place as collateral. That’s
+      how banks have operated for the last thousand years. Eighty percent of the bank
+      loans, as we’ve said before, are for real estate — and the effect of this bank-lending
+      is to raise real estate prices. More and more recently, you’ve had the banks lend
+      an enormous amount of money, coupled with the Trump administration’s policies
+      to create an enormous bubble in the stock market — well, Trump went to the Silicon
+      Valley heads, and the biggest monopolies in America, and said: I want to build
+      a billion-dollar East Wing of the White House. I want to make it bigger than the
+      White House, and put in gold “Trump’s Ballroom,” so that people will look at me
+      and my name, instead of at the White House. That’s going to cost maybe $250 billion.
+      I want each of you to give me $25 billion. And in exchange, I promise I’m not
+      going to impose anti-monopoly laws against Silicon Valley, or the oil industry,
+      or all of the other monopolies. And I will promise to cut your taxes, so I’m only
+      taxing labor, industry, agriculture — but not you financial guys. And, of course,
+      they went along with it. And so, Trump has been able, in order to get the money
+      that he wants, to get other people to contribute to his political campaign, to
+      buy his cryptocurrency, to make billions of dollars for himself — and, well, you
+      can contribute to my campaign by buying my cryptocurrency, and that’ll push it
+      up; you can contribute to my ballroom, to make my name immortal. And the result
+      is that he’s made the deal of making and permitting an enormous price inflation.
+      He’s imposed tariffs on foreign imports so that this creates a price umbrella
+      for American producers of similar goods, to say: Raise your domestic prices all
+      you want, and blame it on the tariffs; and say, well, that’s pricing at the margin,
+      and the margin is what we import. So, you’ve had this enormous stock-market bubble.
+      And it’s a Ponzi scheme, because a Ponzi scheme is where you have the economy
+      borrowing so much money — to try to break even, if you’re a wage-earner — or to
+      keep current on your debts, if you’re a corporate financial manager, that you
+      lend the customers the money to pay — There are a lot of homeowners that, all
+      of a sudden, they’re finding, as a result of global warming and bad weather, that
+      there’s massive flooding. And the insurance that they have to pay on their houses
+      has gone up so much, that they cannot afford to pay their mortgage, and to pay
+      their living costs, and pay this rising insurance. So, all of a sudden, their
+      housing — in Miami and throughout Florida, and in the western states that are
+      homes of hurricane and tornado areas — all of a sudden, this has become unavailable.
+      Well, the banks have gone to them [to] say: Well, we don’t want you to lose your
+      home. Of course, you want to keep living there. Take out an equity loan — and
+      the banks will lend the money — the equity loan — so that families can be able,
+      instead of repaying their mortgage, they can simply keep on adding personal equity
+      loans to the mortgage. They can pledge, and draw down, their retirement savings
+      funds. All of this money is going to increase asset prices. So, the real inflation
+      that the United States has had, that has stabilized the dollar, is not the consumer
+      price inflation that people are talking about — it’s the asset price inflation
+      for stocks, bonds, and real estate. And many of the banks today who have lent
+      to automobile-buyers — you’re having default rates on auto loans go way up; default
+      rates on real estate, way up. Well, the banks that are heavily exposed to these
+      areas, that have said: Well, we make so much money in high-priced auto loans and
+      high-risk loans, that we’ve decided to make loans to whomever will pay the highest
+      interest — and the people who pay the highest interest are the most desperate.
+      And the result is that now these banks are insolvent — just like in 2009, most
+      of the big Wall Street banks, and the systemically-important financial institutions,
+      were insolvent. They were in negative equity: the debts that they owed to their
+      depositors and their counterparties were higher than the value of their assets.
+      Well, that’s the danger that the United States is going to fall into today. And
+      this is why so many of the professional investors — certainly the ones I know
+      — that think, we can’t explain why the stock market is going up. There [are] higher
+      profits — all of that’s true — but the whole economy is being hollowed out by
+      debt. All money creation is debt creation, because it’s credit creation. Money
+      is a form of credit. And the question is: If the credit is used to either help
+      people pay their debts, or to run into debt to buy stocks and bonds and real estate
+      that they think will go up, then at some point, all of this debt becomes increasingly
+      fragile, and has to collapse — and that’s what Hyman Minsky called the “Ponzi”
+      phase of the financial instability cycle. And the U.S. is coping with its financial
+      instability and the dependency (that we’ve talked about for the last forty-five
+      minutes), by essentially creating a Ponzi scheme that is also going to collapse.
+      So, the insecurity of central bank holdings, of their dollars in U.S. Treasury
+      securities, is nothing compared to the insecurity of private investors — foreign
+      investors, and also domestic investors — who have decided to try to participate
+      in the stock market. Well, you don’t know when it’s going to stop. The only way
+      you can know when a bubble is going to stop is when it begins to turn down. And
+      the market in U.S. stocks and bonds recently has been pushed, above all, by domestic
+      American small investors, not big institutional investors — they’ve sold out,
+      and are moving into long-term Treasuries, 10- to 30-year Treasuries, not short-term.
+      They want to lock in the gains while they can. It’s the small investors that have
+      done this, because they somehow imagine that — they don’t believe that — there’s
+      a boom, until it’s almost over. And also Canadian investors. I did a study to
+      see foreign investment in the stock and bond markets. Canadian investors don’t
+      like to buy stocks until they reach the top. They think, okay, now we see the
+      trend, now we’ll buy. Then it goes way down, and, finally — when it gets near
+      the bottom — they say, okay, we’ll sell, it looks like it’s a trend — and then
+      it begins to go up again. Well, that’s what the small investors in America do.
+      So, the American economy is becoming just as exposed to all of this instability
+      as foreign economies are. And so, the result is — I think we’ve used the word
+      “desperation” before — that’s how the United States is flailing around. And it
+      looks like, if there is a meeting between Trump and China, China is going to say:
+      You know, maybe we should just go our own way. Yes, you’re going to prevent other
+      countries, to ban any country’s exports to each other that do not use American
+      computer language, American electronics, as the basis for it. Well, this is going
+      to drive other countries to say: Well, I guess we’ve lost the U.S. market. I guess
+      we’ve lost the market of America’s satellites in Europe. I guess we’re going to
+      have to have a new computer language, in order to trade with the world’s growing
+      market — China and the rest of Asia. And so, these new sanctions that Trump’s
+      team has been describing in the last day or two, are going to be driving other
+      countries to a total break with the United States. Well, if there’s a break in
+      the United States, it’s not only a break in U.S. trade, it’s a break with their
+      mutual investments, the loans and credits they have to each other. Each country
+      will take whatever they have. It’ll be a clean slate. Nobody’s going to pay any
+      of the debts to each other. It’s all grab — China will grab the American investments
+      there; America will grab China’s, and Russia’s, investments here — That’s where
+      the Trump administration is leading, because it really believes that other countries
+      can’t afford to lose the American market. And yet, if the American market is collapsing,
+      because it’s all so debt-ridden and financialized, then why would other countries
+      worry about losing the American market, if the price of holding it is to lose
+      the Chinese, Asian, and Global-Majority market? That’s the big choice that they’re
+      having to make. And you can imagine that their choice is not that which the America-firsters
+      imagine, in their collective narcissism, that other countries cannot survive without
+      the United States’ leadership and control, at the price of absorbing all of their
+      international surplus — for us, Americans — instead of for them. That’s the blind
+      spot of this self-destructive American policy that, as Richard said at the end,
+      is catalyzing other countries to create their own alternative, as an economic
+      life and death issue. ⁣NIMA ALKHORSHID: Richard, breaking news here. The Wall
+      Street Journal reports that President Trump has pardoned Changpeng Zhou, the convicted
+      founder of the cryptocurrency exchange Binance. The decision follows months of
+      efforts by this guy to support Trump’s family cryptocurrency company. And he was
+      pardoned by Donald Trump. ⁣RICHARD WOLFF: Yeah, that part, there’s no end to —
+      and for me, by the way, that’s another sign of a declining empire — its Emperor
+      (you know, whoever it is) taking care of his cousin and his uncle; it’s the French
+      leader famous for the phrase, “après moi, le déluge” —  “after me comes the deluge:”
+      it’s all over, and I’m going to grab as much as I can, before the flood comes
+      and shakes it away. But I want to pick up on the last point Michael makes. You
+      know, he reminds us that Japan and South Korea have been told, you have to invest
+      $350 billion. Ursula von der Leyen was told that the Europeans have to buy twice
+      that much in U.S. energy in the years ahead; and invest $700 billion in the United
+      States. Well, I’ve got news. If the Europeans are willing to take the money from
+      Europe, then I can assure you that before they go down, they will turn to the
+      United States, whether Mr. Trump is president or not, and say: It’ll be a cold
+      day in hell before you ever see any of that money. You made a demand on us, and
+      we told you we’d give it to you. But the world has changed. You know, like we
+      told the Russians it was safe to keep their money in London, or Western Europe,
+      and, well, the conditions have changed. That’s what we’re talking about. All bets
+      are off. There is a small correction. The dollar has not gone up. If you look
+      at the dollar, from the time Mr. Trump becomes president (back in January) to
+      today, it is significantly lower in value — at least, against the Euro, and a
+      good bit of other currencies as well. I think Michael’s analysis stands. I think
+      the reason it didn’t go much lower is not because wealth isn’t being withdrawn
+      from the United States — it is, to gold, and to all many other things — But I
+      think the reason is the second part of what Michael said: You have a classic unsustainable
+      inflation. And he’s quite right. It’s not the inflation of goods and services
+      that they’ve kept under control; but the price of keeping that under control is
+      an uncontrolled inflation in the asset markets and, above all, in real estate
+      and the stock market. People have done very well in the stock market. People are
+      doing very well now in the stock market. That’s one of the reasons the ruling
+      class in this country — even though it doesn’t like what Mr. Trump is doing —
+      isn’t going to do anything about it because they’re the ones who own the shares,
+      and their monthly statement is telling them he’s okay for them. He may be a disaster
+      everywhere else, but he’s okay for them. You know, the mass of people? No, the
+      mass of people are going in a different direction. They’re about to elect a Muslim
+      socialist mayor of New York City. They’re about to elect Catherine Connolly in
+      Ireland as the new president of Ireland, whose perspective and whose positions
+      are quite like those of Mr. [Zohran] Mamdani in New York — sometimes right down
+      to the literal sameness. So, things are happening that are coming out of the movement
+      from below — the absurdity of the French government, which Mr. [Emmanuel] Macron
+      is no longer the real leader of; and Mr. [Keir] Starmer, likewise; and Mr. [Friedrich]
+      Merz, soon. These are signs of diminution. And the inflation in asset markets
+      is nothing new. It is a very old business. That’s why we tell people a credit
+      is good if it is used to be productive, so it produces the wealth that can justify,
+      retroactively, the debt. You get that if you borrow to produce. You don’t get
+      that if you borrow to bid up asset prices. The joke then becomes — and we’ve had
+      this in the United States, repeatedly, in the last hundred years: You have a borrowing
+      binge. It bids up the price of real estate. As the price of real estate goes up,
+      the owners of the real estate go back to the bank, and say: I have a much more
+      valuable piece of land here. Let me borrow more money because you have the collateral.
+      Oh, sure, here’s more money — which is then used to bid up the price. You understand?
+      The loan bids up the collateral, which enables a bigger loan. There’s no end of
+      this until, well, what? Those two automobile loaning companies that collapsed
+      over the last two or three weeks? And notice, not just that they collapsed, but
+      the immediate news — extraordinary! Literally like what happened at the beginning
+      of the collapse of the subprime mortgages back in 2007-2008. An immense debate
+      between a small group who says: Uh-oh, this could be the beginning of the collapse
+      — versus an army of responders saying: No, no, no, it’s different this time. That’s
+      exactly what we have each time. And, by the way, sometimes one of them is correct,
+      sometimes the other one of them is correct. The important thing is to see what
+      we are seeing: Any one of a dozen phenomena could blow this out of the water.
+      If the Russians finish in Ukraine — the battle of the city of Pokrovsk, which
+      is now in play, is the end, basically, of this war — Odessa and Kiev are all that’s
+      left to be fought over, and it’s obvious where this is going. Likewise, it’s obvious,
+      to those who watch, that the sanctions on these two oil companies [Rosneft and
+      Lukoil] is a symbolic act. It’s not a real, you know. It’s an irritant. If you
+      look at the price of oil, which it’s supposed to drive down — the price of oil
+      has been going down from the beginning of the war in Ukraine. If you look at the
+      global oil price in the early part of 2022, and you look at it today, it’s a line
+      that goes up and down; but it basically goes down, from roughly $120 a barrel,
+      to roughly $60. That’s a tremendous cut — and that has not inhibited the Russians,
+      at all. Right? So, you have sanctions, and a global cut in the oil price — should
+      have done Russia in, if you believed any of that story from the beginning — it
+      never did. And this little addition isn’t going to do it either. The joke today
+      — today — the price of oil went up two, three bucks a barrel, not down. You know,
+      it’s just extraordinary the way this is playing out, and the utter blindness of
+      the West in terms of understanding its own position. No one knows how long it
+      will take for the BRICS and the Chinese to develop their own equivalent. But I
+      think, if I had to pick the most important thing that Michael told us, it’s his
+      recognition — as he spun out the logic of his own argument just now — that the
+      end result is the United States building a wall around itself. It is this self-isolation
+      of the United States that’s underway. We have seen tariffs imposed, but we have
+      not yet seen retaliation. That’s coming. And no one knows how bad that will be.
+      And all of it — Mr. Trump is busy, desperately trying to hold on, for example,
+      to the Milei government in Argentina: giving them $20 to $40 (depending on how
+      you count) billion dollars to keep their currency going; dropping the tariff against
+      their beef, so that they can bring cheap meat into the country; freaking out the
+      beef ranchers in several states, without which he can’t be president anymore.
+      He has to screw the cattle farmers in this country by bringing in the cheap beef.
+      Why? To keep one of the few governments going that supports him. This is impossible.
+      And there’s a good chance — Mr. Milei, having gotten this total bribe — of the
+      people of their country being told that they must vote for him or else they will
+      lose all of these benefits — So, talk about interfering in other people’s elections!
+      Remember? That was Russiagate we were very upset about? That was nothing, compared
+      to — you buy that entire country here, openly, publicly, with a threat: You don’t
+      get the money, you don’t get the beef exports, unless we get a re-election of
+      this particular candidate, who, the polls in Argentina show, is like Mr. Macron
+      and Mr. Starmer: you know, hated; not loved, except by the extreme right wing
+      there, which is too small to keep him going. So, for me, again, signs of a decrepit,
+      desperate empire having a hard time holding on. ⁣MICHAEL HUDSON: I want to pick
+      up on just two topics that Richard’s brought up: Argentina and oil. Obviously,
+      after the election, Argentina cannot pay, not only the $40 million, but all of
+      the other debt that it’s taken on from the International Monetary Fund. Milei
+      will probably be voted out of power, and the IMF is going to say: We only lend
+      money to American-backed dictators. We don’t lend money to left-wing groups that
+      want to increase living standards. We only lend to our client countries. So, Argentina
+      cannot pay the debts. And the problem, that I should have mentioned before, is
+      neither can almost all of the global south countries today. They cannot afford
+      to pay the debts. If there is the break that we’ve discussed, the global south
+      countries cannot pay the foreign-dollar debts they owe — not only to the U.S.
+      and the official institutions like the IMF, but to bondholders. There are going
+      to be a lot of banks that are very heavily exposed to this break that we’re talking
+      about. And the break, of the scale that we’ve talked about, the break of international
+      trade and payments between the West and the Global Majority, is going to lead
+      to many bank failures, too. Also, Richard pointed, quite rightly, about oil. I
+      didn’t mention that the most heavily exposed countries of all are Saudi Arabia
+      and the Middle Eastern oil exporters. The deal that they made back in 1974 and
+      ‘75 — and I was at the White House sitting in on these deals — was that they can
+      charge whatever they want for their oil, but they have to invest all their oil-export
+      earnings in the U.S. stock and bond markets — not buying control of U.S. companies,
+      but stocks and bonds. Well, all of this money is just as exposed as other countries
+      are. And I think this is the explanation for why the oil prices have been going
+      down. The Americans have strong-armed OPEC countries: You must reduce oil prices
+      because we want to squeeze Russia’s foreign-exchange earnings that come very largely
+      from its exports of oil and gas. The Americans think of Russia as a gas station
+      with atom bombs, not realizing that Russia now exports agriculture, and all sorts
+      of other goods, besides oil and gas. So, Russia’s been doing just fine. It’s growing
+      much more rapidly than the West. But the U.S. has strong-armed OPEC into providing
+      such a heavy supply of Near Eastern oil that this has driven down the prices.
+      This is done largely to support America’s control of the Near East. All of that
+      is going to be called into question also. The whole political division of the
+      world between the Middle East countries — literally in the middle between the
+      East and the West — is going to be all up for grabs — all instability, all up
+      for diplomatic maneuvering between China, Russia, and the BRICS countries, on
+      the one hand; and the United States and its European satellites, on the other.
+      All of that is going to be enough to supply your show with a lot of audience for
+      the next year or two, Nima. ⁣NIMA ALKHORSHID: Yeah. Thank you so much. Richard,
+      do you want to add something before wrapping up? ⁣RICHARD WOLFF: No. No, I want
+      to apologize [to] people: I don’t mean to beat the proverbial dead horse, with
+      this “desperation” and “declining empire;” but I also want to justify that I keep
+      returning to it because it is the context that is often missing in the discussions
+      — so we don’t get lost in the weeds. Important as the details are, we need to
+      periodically remind ourselves, and our audience, of how to see the larger picture
+      within which — otherwise, we will be whipsawed by each day’s evolution. You know,
+      you take the president seriously, when he tells you that by going after Lukoil
+      and Rosneft, he’s done this major — this is all really what folks used to call
+      “smoke and mirrors” — you know, a game, a performance — that has really only to
+      do with the fact that the Europeans know that it’s over in Ukraine, and that their
+      program of demonizing Putin as the (sort of) way to cope with this loss isn’t
+      doing the job. It’s not reviving their popularity; it is not recouping their economy;
+      it is not squeezing out of the United States more support — none of it. Absolutely
+      none of it. And so, they are desperate. They really don’t know where, quite, to
+      turn. And believe me, there are people — there must be — maybe I’m wrong, Michael
+      knows this stuff better than I do — but there must be people in the White House
+      with enough economics history in their head to be able to tell Mr. Trump, and
+      the people who advise him, what the risks are of a stock market — Even the financial
+      press is full of articles — today, yesterday, last week — wondering whether the
+      overpriced stock market is going to blow at any second. It’s not just left wingers,
+      like Michael and me. People should understand, this is a widespread anxiety. When
+      we say people are rushing to gold for safety, that’s what’s happening: they’re
+      leaving the stock market — not enough yet to offset the built-in rising of the
+      borrowing, and the asset inflation. And the inflation you don’t see at the supermarket
+      is because you do see it in the stock market. And beware, if it stops in the stock
+      market, it might really take off in the goods market. And then where will the
+      mass of Americans be? ⁣NIMA ALKHORSHID: Since you’ve mentioned the situation with
+      the White House, Richard, before wrapping up, here is the situation with Trump’s
+      White House. Here is what he said about India: ⁣REPORTER (CLIP): And, you know,
+      you even mentioned that in a recent phone call with Prime Minister [Narendra]
+      Modi, and that Modi had said his country would stop purchasing the Russian oil.
+      But India said that they were not aware. ⁣DONALD TRUMP (CLIP): Well, then they’re
+      going to just keep paying a lot of tariffs. If they said that, but I don’t believe
+      they said that. No, I spoke with Prime Minister Modi of India, and he said he’s
+      not going to be doing the Russian oil thing. ⁣REPORTER (CLIP): Well, why would
+      India say that they’re not going to do that? ⁣DONALD TRUMP (CLIP): I don’t know.
+      But if they want to say that, then they’ll just continue to pay massive tariffs.
+      And they don’t want to do that. ⁣NIMA ALKHORSHID: The guy makes things up. [Laughs]
+      How can you imagine that? ⁣RICHARD WOLFF: Yeah, and he’s going to threaten the
+      whole world with tariffs. It’s his answer, half the time, and with his assistants,
+      it’s the answer all of the time. You know, this reminds me of a famous image.
+      It’s the two guys in trench coats, entering the dry cleaner in some urban area
+      of America, and explaining to the little owner of the dry-cleaning establishment:
+      We’re here to pick up our weekly $200 protection fee. And the little owner turns
+      to them and says: What are you talking about? What do I need protection from?
+      And the two of them smile, and they say to him: You need it — from us. You have
+      to pay so we don’t hurt you. It’s really what Michael said a little bit earlier:
+      You have to pay, or else we will hurt you. Goldman Sachs released this last week
+      their estimate of what the actual tariffs are that have been levied (so far) in
+      the Trump regime, and what portion of them have been absorbed by the businesses,
+      what portion passed on to consumers, and what portion hurting the original exporters.
+      Here we go. Ready? The exporters have lost under 10% — that is, only 10% of the
+      burden of the tariffs has actually fallen on the exporting country; 61% has fallen
+      (if I remember the numbers) on American businesses; and the remainder on American
+      consumers. So, American businesses and American consumers have been whacked by
+      the tariffs. The rest of the world, not so much. Not really anywhere near so much.
+      And that’s before — as the Goldman people point out, correctly — that’s before
+      we get the retaliation that is being planned, debated, and, hesitantly, brought
+      forward in the rest of the world. At which point, the balance will shift. And
+      all they can discuss among themselves at Goldman is: Which is worse for the American
+      economy? The damage to the business’s profits, or the damage to the consumer’s
+      pocketbook? What a place to be, in looking at the effect of the “liberation,”
+      as Mr. Trump called it. ⁣NIMA ALKHORSHID: Thank you so much, Richard and Michael.
+      Great pleasure, as always. ⁣RICHARD WOLFF: Bye-bye. ⁣NIMA ALKHORSHID: See you.
+      Transcription and Diarization: https://scripthub.dev Editing: Kimberly Mims Review:
+      ced Photo by Klara Kulikova on Unsplash The post From Safe Haven to Seizure Risk
+      first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion about the European Union's potential seizure
+      of Russian assets to support Ukraine, Michael Hudson highlights that this situation
+      has led other countries to feel insecure about their wealth under the Western
+      financial system, prompting increased purchases of gold.
+    paragraph_summary: In a discussion on October 23, 2025, Nima Alkhorchid, Michael
+      Hudson, and Richard Wolff addressed the European Union's consideration of seizing
+      Russian assets to support Ukraine amid escalating tensions. Hudson highlighted
+      the growing insecurity among nations regarding the safety of their wealth within
+      the Western financial system, particularly in light of the U.S. and EU's ability
+      to freeze foreign reserves. He noted that this has led countries, especially in
+      the Global Majority like China and Russia, to increasingly invest in gold as a
+      safer alternative for their international savings, reflecting a lack of trust
+      in traditional financial systems dominated by the U.S. dollar. Hudson emphasized
+      that the historical reliance on U.S. and European financial markets for managing
+      exchange rates is being challenged as countries seek more secure options for their
+      reserves.
+    published: '2025-10-28T11:07:05+00:00'
   - title: 'GDP Without Goods: The Rentier Mirage'
     url: https://michael-hudson.com/2025/10/gdp-without-goods-the-rentier-mirage/
     text: 'GLENN DIESEN: Welcome back to the program. We are joined again by our good

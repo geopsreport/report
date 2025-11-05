@@ -7,14 +7,596 @@ description: "Richard Falk is an international law and international relations s
 websites:
   - https://richardfalk.org/
 summary: |
-  The ongoing crisis in Gaza continues to dominate the geopolitical landscape, with recent developments underscoring both the persistence of violence and the mounting international calls for accountability. The final session of the Gaza Peoples’ Tribunal in Istanbul marks a significant moment for civil society efforts to address what many, including **Richard Falk**, have described as the "perceived genocide in Gaza." This tribunal, initiated in response to the lack of effective international action, seeks to document Palestinian erasure and demand justice, highlighting the gap between grassroots mobilization and official diplomatic inertia.
+  The geopolitical situation in Gaza remains fraught despite the recent ceasefire between Israel and Hamas. The latest development is the release of the Istanbul Final Statement by the Steering Committee of the Gaza Tribunal, which strongly condemns what it terms the ongoing genocide in Palestine and calls for the centrality of Palestinian rights in any peace process. As **Richard Falk** notes, the Tribunal’s findings underscore a persistent lack of justice and accountability, even as active hostilities have paused.
   
-  Meanwhile, diplomatic efforts remain stymied. The aftermath of Israel’s missile strike on a Hamas negotiating team in Doha has further complicated prospects for a ceasefire and hostage exchange. As **Richard Falk** notes, this act not only violated Qatari sovereignty but also "jeopardized ongoing diplomatic efforts," raising serious questions about adherence to international law and the broader implications for regional stability. The incident has intensified scrutiny of Israel’s approach and the apparent impunity with which such operations are conducted, particularly given the muted response from Western governments.
+  The Tribunal, a civil society initiative, concluded its final session in Istanbul with a diverse jury aiming to counter prevailing state narratives and highlight the Palestinian experience post-October 7, 2023. According to **Richard Falk**, the Tribunal’s work is a direct response to international inaction and seeks to elevate the demand for justice and recognition of Palestinian suffering, which remains largely unaddressed in mainstream diplomatic forums.
   
-  On the international stage, the recognition of Palestinian statehood by a growing number of countries has not translated into substantive change on the ground. The failures of the Oslo Accords, ongoing Israeli settlement expansion, and the lack of genuine political will from both Israel and the United States continue to obstruct any meaningful progress toward Palestinian self-determination. As **Richard Falk** has observed, "the complexities and failures of the Oslo Accords" persist, with little indication that the current diplomatic trajectory will yield a viable Palestinian state in the near future.
+  While the ceasefire has temporarily halted large-scale violence, the Tribunal’s statement and recent analyses suggest that the underlying issues—namely, the denial of Palestinian rights and the lack of genuine international pressure on Israel—persist. The Western media’s focus, as previously critiqued, continues to prioritize Israeli concerns, often sidelining the humanitarian crisis in Gaza.
   
-  Looking ahead, the trends suggest that civil society initiatives like the Gaza Tribunal will play an increasingly prominent role in shaping the narrative and pushing for accountability, even as official diplomatic channels remain largely ineffective. There is a high chance that international pressure—particularly from European and Global South actors—will intensify, but without a decisive shift in U.S. and EU policy, the prospects for a just resolution remain dim. I guarantee that unless there is a significant change in the international community’s approach, the humanitarian crisis in Gaza will most definitely persist, with accountability efforts remaining largely symbolic rather than transformative.
+  Looking ahead, the prevailing consensus among independent analysts is that without a substantial shift in international policy—particularly from the US and EU—toward imposing meaningful consequences on Israel, the prospects for a just and lasting peace remain dim. There is a high chance that, absent such pressure, the cycle of violence and impunity will continue. As **Richard Falk** concludes, the demand for justice and accountability is likely to intensify, but meaningful change is unlikely without a recalibration of global diplomatic priorities.
 articles:
+  - title: 'Istanbul Final Statement: Gaza Tribunal Concludes, the Gaza Genocide Continues'
+    url: https://richardfalk.org/2025/11/02/istanbul-final-statement-gaza-tribunal-concludes-the-gaza-genocide-continues/
+    text: '[Prefatory Note: On October 26 the Istanbul Statement issued on behalf of
+      the Steering Committee was issued, and expressed the central concluding concern
+      that although a ceasefire was formally agreed upon by Israel and Hamas, the genocide
+      continued, including periodic resumptions of  lethal violence by Israel killing
+      many Palestinians. The struggle for a just peace continues, and includes the rejection
+      of all efforts to exclude Palestinian rights and Palestinian authentic participation.]
+      Istanbul, 26 October 2025 At conclusion of the Final Session of Gaza Tribunal
+      this Istanbul Statement is made on behalf of the Steering Committee at a historic
+      moment of darkness expressive of our continuing quest for the light of justice.
+      The Gaza Tribunal recognizes that the current genocide in Palestine, rooted in
+      a century of colonization and oppression, represents a watershed moment in the
+      history of our world. If the Israeli perpetrators and their western enablers are
+      allowed to escape justice, and the Palestinian survivors are left without meaningful
+      redress and, ultimately, their full liberation from the dehumanizing shackles
+      of Zionism and colonialism, the world will have ratified one of the worst atrocities
+      in history. The Tribunal notes that if colonialism, apartheid, and genocide are
+      not moral redlines, then there are no redlines. And the world that presages will
+      be a world of unprecedented horror. Every member of the human family has a stake
+      in Palestinian justice. Cognizant of this, the Gaza Tribunal was established in
+      London in November 2024, as a people’s tribunal in the tradition of the Russell
+      Tribunal that was established at the height of US aggression in Vietnam. It convened
+      public hearings in Sarajevo in May 2025, adopting the historic Sarajevo Declaration
+      as a statement of the principles of the Tribunal and of the global quest for justice
+      in Palestine. Its work over the past year has consisted of the collection of information
+      and analysis, the hearing of witnesses and survivors, the archiving of evidence,
+      and the issuing of appeals to humanity for action to end the genocide and to secure
+      justice for the Palestinian people. Its convening here in Istanbul has brought
+      together members of the Tribunal, witnesses, survivors, experts, and an international
+      Jury of Conscience to issue a moral judgement on the crimes of the Israeli regime
+      and those complicit in their perpetration, and to set the course for the next
+      phase of the quest for justice in Palestine. The members of the Gaza Tribunal
+      welcome the findings of the Jury of Conscience, applaud their moral clarity, and
+      commit to the struggle to see their implementation in full. The accelerated genocide
+      of the past two years had shocked the conscience of humanity. The images of its
+      audacious cruelty are forever seared in the minds of decent people everywhere,
+      and the echoes of the cries of its victims will forever ring in our ears. We will
+      forget none of it. The brutal attacks on an imprisoned civilian population, the
+      intentional infliction of hunger, thirst, and disease as weapons of genocide,
+      the targeting of bullets and bombs and drones at innocents, the mass arrests and
+      imprisonment in notorious dungeons, the systematic beatings, and torture, and
+      sexual violence of the genocidal perpetrators, the sniping of toddlers for sport,
+      the systematic destruction of  hospitals, schools, churches, mosques, homes, refugee
+      shelters, aid facilities, agricultural fields, food stores, even cemeteries, and
+      the deliberate targeting of civilian truth tellers, journalists, medical personnel,
+      aid workers, and other protected persons. So too will we remember the arrogant
+      genocidal threats and declarations of the perpetrators, and their cruel laughter
+      and public celebration of their crimes, all recorded forever in a catalogue of
+      shame. We warn the world today that the genocide in Palestine has not ended. The
+      Israeli regime continues to murder Palestinians in Gaza with its Western-supplied
+      bullets and bombs.  It continues to obstruct the delivery of food and medicine
+      to the survivors. It continues to impose its unlawful siege on the survivors.
+      Its two-year systematic imposition of hunger, disease, injury, the plaguing of
+      all of Gaza with toxic chemicals and explosive ordinance, its destruction of most
+      shelter as well as the infliction of mass mental disorder and impaired developmental
+      capacities for surviving civilians, will all continue to claim victims of the
+      genocide for years to come. Even as Gaza continues to bleed, the Israeli regime
+      has extended the annihilation phase of the genocide to the West Bank, where land,
+      and livelihoods, and lives are claimed every day in the ethnic cleansing and racist
+      assaults of the Israeli army and its violent settlers. Nor do the colonial maneuvers
+      reflected in the so-called Trump Plan, or in the New York plan, offer any hope
+      for end to the genocide, or for freedom or justice for Palestine. Even as we welcome
+      any ceasefire, we note that the Israeli regime has continued to violate with impunity
+      the current declared cessation with daily killings of Palestinians and the continued
+      obstruction of humanitarian aid. We reject the provisions of both plans that would
+      violate fundamental Palestinian rights of self-determination, the essential elements
+      of which are agency, sovereignty, authentic representation and unified leadership.
+      The proposed Plans presuppose impunity for Israeli genocide and apartheid, normalize
+      the Israeli regime, ignore the rights of the Palestinian people under international
+      law, and impose proxy occupation and colonial control over the victims of genocide,
+      while doing nothing to reign in the perpetrators of genocide. Palestinians must
+      lead the restoration of Gaza, and Israel and its enablers must be held responsible
+      for all reparations. We demand accountability for the perpetrators and their complicit
+      enablers, redress for the victims and survivors, action to address the root causes
+      of Zionist colonization, occupation, and apartheid, rejection of all efforts to
+      normalize the perpetrator regime and its criminal acts, and freedom for Palestine.
+      In sum, we demand justice. To these ends, we call on people of conscience everywhere
+      to intensify their efforts to secure justice for the Palestinian people, through
+      increased and coordinated efforts to isolate the Israeli regime, reject its normalization,
+      and to hold it to account through boycotts, divestment, sanctions, military embargoes,
+      criminal prosecutions of perpetrators and complicit actors, civil actions against
+      those benefitting from harms, education of our neighbors, public protest and civil
+      disobedience, and the amplification of calls for a free Palestine.'
+    one_sentence_summary: The Istanbul Statement, issued by the Steering Committee following
+      the Gaza Tribunal, condemns the ongoing genocide in Palestine despite a ceasefire
+      between Israel and Hamas, emphasizing the need for justice and the inclusion of
+      Palestinian rights in the pursuit of peace.
+    paragraph_summary: On October 26, 2025, the Istanbul Statement was released by the
+      Steering Committee of the Gaza Tribunal, emphasizing the ongoing genocide in Palestine
+      despite a formal ceasefire between Israel and Hamas. The statement highlights
+      the historical context of colonization and oppression that has led to this crisis,
+      asserting that allowing Israeli perpetrators and their supporters to evade justice
+      would signify a grave moral failure for the world. The Tribunal, established in
+      London in November 2024, aims to address these injustices and advocate for Palestinian
+      rights, drawing inspiration from the Russell Tribunal's legacy. It has conducted
+      public hearings and gathered testimonies to support its mission for justice, underscoring
+      that the struggle for Palestinian liberation is a universal concern that impacts
+      all of humanity.
+    published: '2025-11-02T18:43:09+00:00'
+  - title: 'Istanbul Final Statement: Gaza Tribunal Concludes, the Gaza Genocide Continues'
+    url: https://richardfalk.org/2025/11/02/istanbul-final-statement-gaza-tribunal-concludes-the-gaza-genocide-continues/
+    text: '[Prefatory Note: On October 26 the Istanbul Statement issued on behalf of
+      the Steering Committee was issued, and expressed the central concluding concern
+      that although a ceasefire was formally agreed upon by Israel and Hamas, the genocide
+      continued, including periodic resumptions of  lethal violence by Israel killing
+      many Palestinians. The struggle for a just peace continues, and includes the rejection
+      of all efforts to exclude Palestinian rights and Palestinian authentic participation.]
+      Istanbul, 26 October 2025 At conclusion of the Final Session of Gaza Tribunal
+      this Istanbul Statement is made on behalf of the Steering Committee at a historic
+      moment of darkness expressive of our continuing quest for the light of justice.
+      The Gaza Tribunal recognizes that the current genocide in Palestine, rooted in
+      a century of colonization and oppression, represents a watershed moment in the
+      history of our world. If the Israeli perpetrators and their western enablers are
+      allowed to escape justice, and the Palestinian survivors are left without meaningful
+      redress and, ultimately, their full liberation from the dehumanizing shackles
+      of Zionism and colonialism, the world will have ratified one of the worst atrocities
+      in history. The Tribunal notes that if colonialism, apartheid, and genocide are
+      not moral redlines, then there are no redlines. And the world that presages will
+      be a world of unprecedented horror. Every member of the human family has a stake
+      in Palestinian justice. Cognizant of this, the Gaza Tribunal was established in
+      London in November 2024, as a people’s tribunal in the tradition of the Russell
+      Tribunal that was established at the height of US aggression in Vietnam. It convened
+      public hearings in Sarajevo in May 2025, adopting the historic Sarajevo Declaration
+      as a statement of the principles of the Tribunal and of the global quest for justice
+      in Palestine. Its work over the past year has consisted of the collection of information
+      and analysis, the hearing of witnesses and survivors, the archiving of evidence,
+      and the issuing of appeals to humanity for action to end the genocide and to secure
+      justice for the Palestinian people. Its convening here in Istanbul has brought
+      together members of the Tribunal, witnesses, survivors, experts, and an international
+      Jury of Conscience to issue a moral judgement on the crimes of the Israeli regime
+      and those complicit in their perpetration, and to set the course for the next
+      phase of the quest for justice in Palestine. The members of the Gaza Tribunal
+      welcome the findings of the Jury of Conscience, applaud their moral clarity, and
+      commit to the struggle to see their implementation in full. The accelerated genocide
+      of the past two years had shocked the conscience of humanity. The images of its
+      audacious cruelty are forever seared in the minds of decent people everywhere,
+      and the echoes of the cries of its victims will forever ring in our ears. We will
+      forget none of it. The brutal attacks on an imprisoned civilian population, the
+      intentional infliction of hunger, thirst, and disease as weapons of genocide,
+      the targeting of bullets and bombs and drones at innocents, the mass arrests and
+      imprisonment in notorious dungeons, the systematic beatings, and torture, and
+      sexual violence of the genocidal perpetrators, the sniping of toddlers for sport,
+      the systematic destruction of  hospitals, schools, churches, mosques, homes, refugee
+      shelters, aid facilities, agricultural fields, food stores, even cemeteries, and
+      the deliberate targeting of civilian truth tellers, journalists, medical personnel,
+      aid workers, and other protected persons. So too will we remember the arrogant
+      genocidal threats and declarations of the perpetrators, and their cruel laughter
+      and public celebration of their crimes, all recorded forever in a catalogue of
+      shame. We warn the world today that the genocide in Palestine has not ended. The
+      Israeli regime continues to murder Palestinians in Gaza with its Western-supplied
+      bullets and bombs.  It continues to obstruct the delivery of food and medicine
+      to the survivors. It continues to impose its unlawful siege on the survivors.
+      Its two-year systematic imposition of hunger, disease, injury, the plaguing of
+      all of Gaza with toxic chemicals and explosive ordinance, its destruction of most
+      shelter as well as the infliction of mass mental disorder and impaired developmental
+      capacities for surviving civilians, will all continue to claim victims of the
+      genocide for years to come. Even as Gaza continues to bleed, the Israeli regime
+      has extended the annihilation phase of the genocide to the West Bank, where land,
+      and livelihoods, and lives are claimed every day in the ethnic cleansing and racist
+      assaults of the Israeli army and its violent settlers. Nor do the colonial maneuvers
+      reflected in the so-called Trump Plan, or in the New York plan, offer any hope
+      for end to the genocide, or for freedom or justice for Palestine. Even as we welcome
+      any ceasefire, we note that the Israeli regime has continued to violate with impunity
+      the current declared cessation with daily killings of Palestinians and the continued
+      obstruction of humanitarian aid. We reject the provisions of both plans that would
+      violate fundamental Palestinian rights of self-determination, the essential elements
+      of which are agency, sovereignty, authentic representation and unified leadership.
+      The proposed Plans presuppose impunity for Israeli genocide and apartheid, normalize
+      the Israeli regime, ignore the rights of the Palestinian people under international
+      law, and impose proxy occupation and colonial control over the victims of genocide,
+      while doing nothing to reign in the perpetrators of genocide. Palestinians must
+      lead the restoration of Gaza, and Israel and its enablers must be held responsible
+      for all reparations. We demand accountability for the perpetrators and their complicit
+      enablers, redress for the victims and survivors, action to address the root causes
+      of Zionist colonization, occupation, and apartheid, rejection of all efforts to
+      normalize the perpetrator regime and its criminal acts, and freedom for Palestine.
+      In sum, we demand justice. To these ends, we call on people of conscience everywhere
+      to intensify their efforts to secure justice for the Palestinian people, through
+      increased and coordinated efforts to isolate the Israeli regime, reject its normalization,
+      and to hold it to account through boycotts, divestment, sanctions, military embargoes,
+      criminal prosecutions of perpetrators and complicit actors, civil actions against
+      those benefitting from harms, education of our neighbors, public protest and civil
+      disobedience, and the amplification of calls for a free Palestine.'
+    one_sentence_summary: The Istanbul Statement, issued by the Steering Committee following
+      the Gaza Tribunal, condemns the ongoing genocide in Palestine despite a ceasefire
+      between Israel and Hamas, emphasizing the need for justice and the inclusion of
+      Palestinian rights in the pursuit of peace.
+    paragraph_summary: On October 26, 2025, the Istanbul Statement was released by the
+      Steering Committee of the Gaza Tribunal, emphasizing the ongoing genocide in Palestine
+      despite a formal ceasefire between Israel and Hamas. The statement highlights
+      the historical context of colonization and oppression that has led to this crisis,
+      asserting that allowing Israeli perpetrators and their supporters to evade justice
+      would signify a grave moral failure for the world. The Tribunal, established in
+      London in November 2024, aims to address these injustices and advocate for Palestinian
+      rights, drawing inspiration from the Russell Tribunal's legacy. It has conducted
+      public hearings and gathered testimonies to support its mission for justice, underscoring
+      that the struggle for Palestinian liberation is a universal concern that impacts
+      all of humanity.
+    published: '2025-11-02T18:43:09+00:00'
+  - title: The Final Statement of the Gaza Tribunal Jury of Conscience
+    url: https://richardfalk.org/2025/10/29/the-final-statement-of-the-gaza-tribunal-jury-of-conscience/
+    text: '[ Prefatory Remark: I post today the historic outcome of Gaza People’s Tribunal
+      Final Session in Istanbul, May 23-26. The Jury composed of persons of diverse
+      backgrounds, but joined by lives vividly committed  to a lives of engaged citizenship,
+      progressive political consciousness, with actions guided by the deep roots of
+      conscience. The GPT was designed to honor these same features with a particular
+      emphasis on serving as an instrument of truth-telling with respect to the Palestinian
+      ordeal resulting from the Hamas-led attack of October 7, 2023. To expose the truth
+      that emerges from respecting reality and evidence is necessary because of state
+      propaganda and a filtered, biased media that either hides or slants the truth,
+      even to the extent of punitive and lethal action against independent journalists
+      and dismissing as irrelevant the rulings of the International Court of Justice
+      and the International Criminal Court. Its formation inspired by the Russell Tribunal
+      of 1966-67 that reacted to US crimes in the Vietnam War that were not resisted,
+      or even exposed by the organized international community as embodied in the UN.
+      When institutions fail to implement international law in extreme situation people
+      of conscience must act. Israel has become a rogue or pariah state becuase the
+      peoples of the world have reacted, but it is not enough. Palestinian rights must
+      be realized, and future of peace must be shaped by the victims of criminality,
+      not by the perpetrators.] FINAL STATEMENT OF THE GAZA TRIBUNAL JURY OF CONSCIENCE
+      Istanbul, October 26, 2025 We, the undersigned members of the Jury of Conscience,
+      hereby deliver this Statement of Findings and Moral Judgment at the final session
+      of the Gaza Tribunal. The Jury, guided by conscience and informed by international
+      law, does not speak with the authority of states, but when law is silenced by
+      power, conscience must become the final tribunal. The Tribunal is not a court
+      of law so does not purport to determine guilt or liability of any person, organization
+      or state. It is a civil society response to the continuing lack of accountability
+      for the commission by Israel of genocide in the Gaza Strip. We believe that genocide
+      must be named and documented and that impunity feeds continuing violence throughout
+      the globe. Genocide in Gaza is the concern of all humanity. When states are silent
+      civil society can and must speak out. The Gaza Tribunal has brought together a
+      wealth of material in a valuable archive, the existence of which provides lasting
+      evidence of the truth of the genocide against the Palestinian people. The Jury
+      expresses solidarity with the rallies, the marches, the encampments, the flotillas,
+      the strikes and other actions that protest the genocide and states’ unwillingness
+      to hold Israel to account. And it offers a counter-narrative to the security narrative
+      Israel and its allies persistently broadcast and to the labelling of Palestinian
+      suffering as a humanitarian disaster. It is not. It is the deliberate commission
+      of the gravest of crimes, imposed with dire humanitarian consequences. We have
+      heard extensive evidence of the crimes committed by Israel, of the causes of the
+      genocide, of the collusion by and complicity of other actors, of courageous resistance
+      and resilience by Palestinians and by global civil society. We have heard moving
+      personal testimonies of the physical and mental harms wrought by these crimes
+      and the suffering of the Palestinian people. This concluding statement presents
+      our findings based upon this evidence and the legal standards of the Genocide
+      Convention, the human rights treaties, the Rome Statute of the International Criminal
+      Court, and the moral imperatives of natural justice. Yet above all, this decision
+      is grounded in the unyielding belief that every human life has equal worth, and
+      that no state or ideology has the right to destroy an entire people. Our decision
+      builds upon the testimonies, oral and written, the expert evidence and the research
+      and analytical papers carried out by many people over the past months. It reiterates
+      and endorses the Sarajevo Declaration adopted in May 2025. Israel’s Crimes The
+      Jury condemns the ongoing genocide and crimes listed below. We believe these crimes
+      and their impact on the Palestinian people should be separately named to understand
+      the holistic nature of the genocide, its dehumanisation of the people, its sadistic
+      character and its temporality. These crimes did not commence in October 2023 and
+      they will not end with the ceasefire; deaths and severe physical harm will continue.
+      The physical and psychological trauma of the surviving population will be transmitted
+      through the generations. The Jury condemns the commission of the following additional
+      crimes: Starvation and famine through the deliberate denial of food, water and
+      systematic destruction of the entire food system. Domicide is more than the intentional
+      mass destruction of residential properties and their infrastructure – electricity,
+      water and sanitation. A home is about love, life, a repository of memories, hopes
+      and aspiration. Its destruction causes displacement, trauma, the disintegration
+      of communities and profound cultural loss. Ecocide describes a particular kind
+      of warfare based on ruination of land fertility, air quality, sources of food
+      and water: catastrophic environmental damage that destroys the capacity to survive
+      after the bombing ceases. Deliberate destruction and targeting of the healthcare
+      infrastructure, equipment and personnel have been systematic for decades and has
+      become almost total. The most important issue for physical and mental health is
+      the Israeli occupation and the dehumanisation of the population. Reprocide is
+      the intentional and systematic targeting of Palestinian reproductive care through
+      prevention of births, eliminating future lives and the ability to reproduce safely.
+      Scholasticide is the genocide of knowledge, the destruction of Palestine’s intellectual
+      future through the killing, silencing and displacing a generation of students
+      and teachers, obliteration of schools and universities, destroying dreams andaspirations.
+      Attacks on journalists. ‘Genocide documentation’ is carried out by Palestinian
+      journalists and they and their families are targeted. Silencing these journalists
+      is instrumental to the concealment of the genocide and more journalists have been
+      killed than in any other conflict. Torture, sexual violence, disappearances, gender-based
+      violence in detention, at checkpoints, in house searches, in displacement and
+      elsewhere. Politicide is the targeted assassination and kidnapping of political
+      and cultural leaders, representatives, activists, and destruction of civic institutions.
+      The Jury finds a coherent and consistent pattern of exterminatory violence in
+      the intentional and targeted destruction of homes, water supplies, schools, hospitals,
+      clinics, universities, cultural and religious institutions, agricultural land,
+      and natural ecosystems. The weaponization of hunger, denial of medical care, and
+      forced displacement are not collateral damages of war—they are instruments of
+      collective punishment of the entire population and of genocide. They are not justified
+      by any claim of military objectives. Complicity and Collusion The Jury finds Western
+      governments, particularly the United States, and others complicit in, in some
+      cases colluding with, Israel’s commission of genocide through provision of diplomatic
+      cover, weapons, weapon parts, intelligence, military assistance and training,
+      and continuing economic relations. Such actions constitute moral failure and breach
+      of their legal duty to prevent genocide and to cooperate to end a violation of
+      a peremptory norm of international law – genocide and the Palestinian right to
+      self-determination. Silence and inaction in the face of genocide are not an option
+      and are other forms of complicity. The Jury finds a range of non-state actors
+      to be complicit in genocide. Biased media reporting in the west on Palestine and
+      under-reporting of Israeli crimes conform to the economic and political interest
+      of the ruling elites and their allied interests. Academic institutions through
+      their investments support Israel; staff and student endorsements of Palestine
+      are silenced or disciplined. Israel survives through militarisation; global supply
+      chains sustain the genocide through weapons, banks, technology, transportation,
+      and other multinational corporations. The hi-technology sector sustains the machinery
+      of genocide by manipulating contents through algorithms, and allowing Israel to
+      watch and plan every airstrike and assassination. Companies that sell cloud capacity
+      to Israel provide the computer power for genocide. The Jury considers that the
+      political economy of genocide is the highest form of hyper imperialism of the
+      21st century. The Jury finds the current global order, structured by power hierarchies
+      and economic dependencies, to have revealed its incapacity to prevent or punish
+      atrocity crimes when committed by the powerful or their allies. The United Nations,
+      paralyzed by the veto and political selectivity, has abdicated its foundational
+      responsibility “to save succeeding generations from the scourge of war.” The Jury
+      however commends the UNHRC special procedures, including the Commission of Inquiry
+      and especially the steadfastness of the special rapporteur on the occupied Palestinian
+      territories, Francesca Albanese, for their affirmation of genocide. Conclusions
+      The Jury affirms that Israel is perpetrating an ongoing genocide against the Palestinian
+      people in Gaza, within—and enabled by—a broader settler-colonial apartheid regime
+      rooted in the supremacist ideology of Zionism. This campaign is inseparable from
+      over a century-long project targeting Palestinians across all of Palestine and
+      in exile. The root causes of genocide lie in a racist, supremacist ideology—Zionism—that
+      underpins a system aiming to dispossess, dominate, and erase Palestinians, supported
+      by an oppressive neo-colonial power structure led by the United States and its
+      allies, and shielded by international complicity, including from many Arab and
+      Muslim governments. The Jury considers the genocide in Gaza to have several exceptional
+      characteristics. It is perpetuated on a captive population in a tiny, closed territory
+      where Israel controls all entries and exits. It is systematic and carried out
+      with the most advanced technology. Despite Israel’s attempts to prevent reporting,
+      it is highly visible in real time. There has been resort to international judicial
+      bodies, the International Court of Justice by South Africa and the request for
+      an Advisory Opinion by the UN GeneralAssembly with respect to UNRWA and the arrest
+      warrants issued by the ICC, yet these have been ignored with impunity by Israel
+      and other states have made little real protest and minimal sanctions have been
+      imposed. Indeed, it is the ICC personnel and NGOs assisting the Court that have
+      been sanctioned by the United States. Recommendations Ending Impunity and Ensuring
+      Accountability To hold all those responsible, politically, militarily, economically,
+      and ideologically, perpetrators, supporters, enablers, and complicit parties fully
+      accountable by every lawful means and to the fullest extent of the law. To suspend
+      Israel from international organizations and institutions, particularly the United
+      Nations and its affiliates. To activate UN General Assembly Resolution 377 A(V)
+      (Uniting for Peace) so the UNGA can adopt collective measures to mandate a protective
+      force for the Palestinian territories and stop the genocide in Gaza, given the
+      UNSC’s failure to act due to successive U.S. vetoes. Resisting and Dismantling
+      Oppressive Structures The Jury reaffirms the right of the Palestinian people to
+      self-determination and to choose their modes of resistance to achieve liberation,
+      freedom, and independence. The Jury endorses a global, rights-based strategy to
+      dismantle Zionist structures: identify and map the Zionist regime’s sources of
+      power and enabling pillars. The Jury calls for building a worldwide movement that
+      weakens, isolates, and dismantles each source through coordinated political, legal,
+      economic, academic, cultural, technological, and social action. To achieve this
+      objective, two main tasks are paramount: 1.  Steadfastness and non-displacement.
+      Palestinians—in Gaza, the West Bank including Jerusalem, Palestinian communities
+      inside the 1948 lines, must remain rooted in their land. There must be no further
+      forced displacement of Palestinians in exile, particularly refugees across the
+      region. Preventing displacement and sustaining steadfastness are essential to
+      maintain the struggle. 2.  Comprehensive global confrontation. Confront the Zionist
+      movement and regime globally in every sphere—political and diplomatic; legal and
+      human rights; economic and commercial; media, cultural, intellectual, academic,
+      and educational; industrial, technological, and scientific; arts, tourism, and
+      sports. This mobilization centers peoples, movements, parties, unions, civil-society
+      organizations, and individuals so that solidarity becomes power, normalization
+      is resisted, and the Zionist project is besieged on all fronts. The Jury affirms
+      that the struggle is with Zionism as a racist, supremacist, settler-colonial enterprise—not
+      with Jews or Judaism. The strategic horizon is a single rights-based political
+      order grounded in equality, decolonization, restitution, and the unfettered right
+      of return. Only this course can end the ongoing genocide and open a path to a
+      just and durable peace for all who live in Palestine and beyond. We issue this
+      statement in the name of justice, dignity, and peace, and in remembrance of all
+      those who have perished in Gaza and throughout Palestine. Silence is not neutral;
+      silence is complicity; neutrality is surrender to evil. In solidarity with the
+      people of Gaza and in memory of all victims of genocide, The Jury of Conscience
+      (alphabetically) Prof. Sami Al-Arian Prof. Christine Chinkin Dr. Ghada Karmi Author
+      Kenize Mourad Prof. Chandra Muzaffar Prof. Biljana Vankovska'
+    one_sentence_summary: The Gaza People’s Tribunal, held in Istanbul from May 23-26,
+      aimed to uncover the truth about the Palestinian experience following the October
+      7, 2023 Hamas-led attack, countering state propaganda and biased media narratives
+      through a diverse jury committed to engaged citizenship and progressive values.
+    paragraph_summary: The Gaza People's Tribunal held its final session in Istanbul
+      from May 23-26, 2023, with a jury composed of individuals dedicated to engaged
+      citizenship and progressive values, aiming to address the Palestinian plight following
+      the Hamas-led attack on October 7, 2023. The Tribunal sought to counteract state
+      propaganda and biased media narratives that obscure the truth about the conflict
+      and dismiss international legal rulings. Inspired by the historical Russell Tribunal,
+      it emphasized the necessity for people of conscience to act when institutions
+      fail to uphold international law. The jury's final statement underscored that,
+      while lacking the authority of states, their moral judgment serves as a necessary
+      response to the silencing of law by power, advocating for the realization of Palestinian
+      rights and a future shaped by the victims rather than the perpetrators of violence.
+    published: '2025-10-29T15:55:25+00:00'
+  - title: The Final Statement of the Gaza Tribunal Jury of Conscience
+    url: https://richardfalk.org/2025/10/29/the-final-statement-of-the-gaza-tribunal-jury-of-conscience/
+    text: '[ Prefatory Remark: I post today the historic outcome of Gaza People’s Tribunal
+      Final Session in Istanbul, May 23-26. The Jury composed of persons of diverse
+      backgrounds, but joined by lives vividly committed  to a lives of engaged citizenship,
+      progressive political consciousness, with actions guided by the deep roots of
+      conscience. The GPT was designed to honor these same features with a particular
+      emphasis on serving as an instrument of truth-telling with respect to the Palestinian
+      ordeal resulting from the Hamas-led attack of October 7, 2023. To expose the truth
+      that emerges from respecting reality and evidence is necessary because of state
+      propaganda and a filtered, biased media that either hides or slants the truth,
+      even to the extent of punitive and lethal action against independent journalists
+      and dismissing as irrelevant the rulings of the International Court of Justice
+      and the International Criminal Court. Its formation inspired by the Russell Tribunal
+      of 1966-67 that reacted to US crimes in the Vietnam War that were not resisted,
+      or even exposed by the organized international community as embodied in the UN.
+      When institutions fail to implement international law in extreme situation people
+      of conscience must act. Israel has become a rogue or pariah state becuase the
+      peoples of the world have reacted, but it is not enough. Palestinian rights must
+      be realized, and future of peace must be shaped by the victims of criminality,
+      not by the perpetrators.] FINAL STATEMENT OF THE GAZA TRIBUNAL JURY OF CONSCIENCE
+      Istanbul, October 26, 2025 We, the undersigned members of the Jury of Conscience,
+      hereby deliver this Statement of Findings and Moral Judgment at the final session
+      of the Gaza Tribunal. The Jury, guided by conscience and informed by international
+      law, does not speak with the authority of states, but when law is silenced by
+      power, conscience must become the final tribunal. The Tribunal is not a court
+      of law so does not purport to determine guilt or liability of any person, organization
+      or state. It is a civil society response to the continuing lack of accountability
+      for the commission by Israel of genocide in the Gaza Strip. We believe that genocide
+      must be named and documented and that impunity feeds continuing violence throughout
+      the globe. Genocide in Gaza is the concern of all humanity. When states are silent
+      civil society can and must speak out. The Gaza Tribunal has brought together a
+      wealth of material in a valuable archive, the existence of which provides lasting
+      evidence of the truth of the genocide against the Palestinian people. The Jury
+      expresses solidarity with the rallies, the marches, the encampments, the flotillas,
+      the strikes and other actions that protest the genocide and states’ unwillingness
+      to hold Israel to account. And it offers a counter-narrative to the security narrative
+      Israel and its allies persistently broadcast and to the labelling of Palestinian
+      suffering as a humanitarian disaster. It is not. It is the deliberate commission
+      of the gravest of crimes, imposed with dire humanitarian consequences. We have
+      heard extensive evidence of the crimes committed by Israel, of the causes of the
+      genocide, of the collusion by and complicity of other actors, of courageous resistance
+      and resilience by Palestinians and by global civil society. We have heard moving
+      personal testimonies of the physical and mental harms wrought by these crimes
+      and the suffering of the Palestinian people. This concluding statement presents
+      our findings based upon this evidence and the legal standards of the Genocide
+      Convention, the human rights treaties, the Rome Statute of the International Criminal
+      Court, and the moral imperatives of natural justice. Yet above all, this decision
+      is grounded in the unyielding belief that every human life has equal worth, and
+      that no state or ideology has the right to destroy an entire people. Our decision
+      builds upon the testimonies, oral and written, the expert evidence and the research
+      and analytical papers carried out by many people over the past months. It reiterates
+      and endorses the Sarajevo Declaration adopted in May 2025. Israel’s Crimes The
+      Jury condemns the ongoing genocide and crimes listed below. We believe these crimes
+      and their impact on the Palestinian people should be separately named to understand
+      the holistic nature of the genocide, its dehumanisation of the people, its sadistic
+      character and its temporality. These crimes did not commence in October 2023 and
+      they will not end with the ceasefire; deaths and severe physical harm will continue.
+      The physical and psychological trauma of the surviving population will be transmitted
+      through the generations. The Jury condemns the commission of the following additional
+      crimes: Starvation and famine through the deliberate denial of food, water and
+      systematic destruction of the entire food system. Domicide is more than the intentional
+      mass destruction of residential properties and their infrastructure – electricity,
+      water and sanitation. A home is about love, life, a repository of memories, hopes
+      and aspiration. Its destruction causes displacement, trauma, the disintegration
+      of communities and profound cultural loss. Ecocide describes a particular kind
+      of warfare based on ruination of land fertility, air quality, sources of food
+      and water: catastrophic environmental damage that destroys the capacity to survive
+      after the bombing ceases. Deliberate destruction and targeting of the healthcare
+      infrastructure, equipment and personnel have been systematic for decades and has
+      become almost total. The most important issue for physical and mental health is
+      the Israeli occupation and the dehumanisation of the population. Reprocide is
+      the intentional and systematic targeting of Palestinian reproductive care through
+      prevention of births, eliminating future lives and the ability to reproduce safely.
+      Scholasticide is the genocide of knowledge, the destruction of Palestine’s intellectual
+      future through the killing, silencing and displacing a generation of students
+      and teachers, obliteration of schools and universities, destroying dreams andaspirations.
+      Attacks on journalists. ‘Genocide documentation’ is carried out by Palestinian
+      journalists and they and their families are targeted. Silencing these journalists
+      is instrumental to the concealment of the genocide and more journalists have been
+      killed than in any other conflict. Torture, sexual violence, disappearances, gender-based
+      violence in detention, at checkpoints, in house searches, in displacement and
+      elsewhere. Politicide is the targeted assassination and kidnapping of political
+      and cultural leaders, representatives, activists, and destruction of civic institutions.
+      The Jury finds a coherent and consistent pattern of exterminatory violence in
+      the intentional and targeted destruction of homes, water supplies, schools, hospitals,
+      clinics, universities, cultural and religious institutions, agricultural land,
+      and natural ecosystems. The weaponization of hunger, denial of medical care, and
+      forced displacement are not collateral damages of war—they are instruments of
+      collective punishment of the entire population and of genocide. They are not justified
+      by any claim of military objectives. Complicity and Collusion The Jury finds Western
+      governments, particularly the United States, and others complicit in, in some
+      cases colluding with, Israel’s commission of genocide through provision of diplomatic
+      cover, weapons, weapon parts, intelligence, military assistance and training,
+      and continuing economic relations. Such actions constitute moral failure and breach
+      of their legal duty to prevent genocide and to cooperate to end a violation of
+      a peremptory norm of international law – genocide and the Palestinian right to
+      self-determination. Silence and inaction in the face of genocide are not an option
+      and are other forms of complicity. The Jury finds a range of non-state actors
+      to be complicit in genocide. Biased media reporting in the west on Palestine and
+      under-reporting of Israeli crimes conform to the economic and political interest
+      of the ruling elites and their allied interests. Academic institutions through
+      their investments support Israel; staff and student endorsements of Palestine
+      are silenced or disciplined. Israel survives through militarisation; global supply
+      chains sustain the genocide through weapons, banks, technology, transportation,
+      and other multinational corporations. The hi-technology sector sustains the machinery
+      of genocide by manipulating contents through algorithms, and allowing Israel to
+      watch and plan every airstrike and assassination. Companies that sell cloud capacity
+      to Israel provide the computer power for genocide. The Jury considers that the
+      political economy of genocide is the highest form of hyper imperialism of the
+      21st century. The Jury finds the current global order, structured by power hierarchies
+      and economic dependencies, to have revealed its incapacity to prevent or punish
+      atrocity crimes when committed by the powerful or their allies. The United Nations,
+      paralyzed by the veto and political selectivity, has abdicated its foundational
+      responsibility “to save succeeding generations from the scourge of war.” The Jury
+      however commends the UNHRC special procedures, including the Commission of Inquiry
+      and especially the steadfastness of the special rapporteur on the occupied Palestinian
+      territories, Francesca Albanese, for their affirmation of genocide. Conclusions
+      The Jury affirms that Israel is perpetrating an ongoing genocide against the Palestinian
+      people in Gaza, within—and enabled by—a broader settler-colonial apartheid regime
+      rooted in the supremacist ideology of Zionism. This campaign is inseparable from
+      over a century-long project targeting Palestinians across all of Palestine and
+      in exile. The root causes of genocide lie in a racist, supremacist ideology—Zionism—that
+      underpins a system aiming to dispossess, dominate, and erase Palestinians, supported
+      by an oppressive neo-colonial power structure led by the United States and its
+      allies, and shielded by international complicity, including from many Arab and
+      Muslim governments. The Jury considers the genocide in Gaza to have several exceptional
+      characteristics. It is perpetuated on a captive population in a tiny, closed territory
+      where Israel controls all entries and exits. It is systematic and carried out
+      with the most advanced technology. Despite Israel’s attempts to prevent reporting,
+      it is highly visible in real time. There has been resort to international judicial
+      bodies, the International Court of Justice by South Africa and the request for
+      an Advisory Opinion by the UN GeneralAssembly with respect to UNRWA and the arrest
+      warrants issued by the ICC, yet these have been ignored with impunity by Israel
+      and other states have made little real protest and minimal sanctions have been
+      imposed. Indeed, it is the ICC personnel and NGOs assisting the Court that have
+      been sanctioned by the United States. Recommendations Ending Impunity and Ensuring
+      Accountability To hold all those responsible, politically, militarily, economically,
+      and ideologically, perpetrators, supporters, enablers, and complicit parties fully
+      accountable by every lawful means and to the fullest extent of the law. To suspend
+      Israel from international organizations and institutions, particularly the United
+      Nations and its affiliates. To activate UN General Assembly Resolution 377 A(V)
+      (Uniting for Peace) so the UNGA can adopt collective measures to mandate a protective
+      force for the Palestinian territories and stop the genocide in Gaza, given the
+      UNSC’s failure to act due to successive U.S. vetoes. Resisting and Dismantling
+      Oppressive Structures The Jury reaffirms the right of the Palestinian people to
+      self-determination and to choose their modes of resistance to achieve liberation,
+      freedom, and independence. The Jury endorses a global, rights-based strategy to
+      dismantle Zionist structures: identify and map the Zionist regime’s sources of
+      power and enabling pillars. The Jury calls for building a worldwide movement that
+      weakens, isolates, and dismantles each source through coordinated political, legal,
+      economic, academic, cultural, technological, and social action. To achieve this
+      objective, two main tasks are paramount: 1.  Steadfastness and non-displacement.
+      Palestinians—in Gaza, the West Bank including Jerusalem, Palestinian communities
+      inside the 1948 lines, must remain rooted in their land. There must be no further
+      forced displacement of Palestinians in exile, particularly refugees across the
+      region. Preventing displacement and sustaining steadfastness are essential to
+      maintain the struggle. 2.  Comprehensive global confrontation. Confront the Zionist
+      movement and regime globally in every sphere—political and diplomatic; legal and
+      human rights; economic and commercial; media, cultural, intellectual, academic,
+      and educational; industrial, technological, and scientific; arts, tourism, and
+      sports. This mobilization centers peoples, movements, parties, unions, civil-society
+      organizations, and individuals so that solidarity becomes power, normalization
+      is resisted, and the Zionist project is besieged on all fronts. The Jury affirms
+      that the struggle is with Zionism as a racist, supremacist, settler-colonial enterprise—not
+      with Jews or Judaism. The strategic horizon is a single rights-based political
+      order grounded in equality, decolonization, restitution, and the unfettered right
+      of return. Only this course can end the ongoing genocide and open a path to a
+      just and durable peace for all who live in Palestine and beyond. We issue this
+      statement in the name of justice, dignity, and peace, and in remembrance of all
+      those who have perished in Gaza and throughout Palestine. Silence is not neutral;
+      silence is complicity; neutrality is surrender to evil. In solidarity with the
+      people of Gaza and in memory of all victims of genocide, The Jury of Conscience
+      (alphabetically) Prof. Sami Al-Arian Prof. Christine Chinkin Dr. Ghada Karmi Author
+      Kenize Mourad Prof. Chandra Muzaffar Prof. Biljana Vankovska'
+    one_sentence_summary: The Gaza People’s Tribunal, held in Istanbul from May 23-26,
+      aimed to uncover the truth about the Palestinian experience following the October
+      7, 2023 Hamas-led attack, countering state propaganda and biased media narratives
+      through a diverse jury committed to engaged citizenship and progressive values.
+    paragraph_summary: The Gaza People's Tribunal held its final session in Istanbul
+      from May 23-26, 2023, with a jury composed of individuals dedicated to engaged
+      citizenship and progressive values, aiming to address the Palestinian plight following
+      the Hamas-led attack on October 7, 2023. The Tribunal sought to counteract state
+      propaganda and biased media narratives that obscure the truth about the conflict
+      and dismiss international legal rulings. Inspired by the historical Russell Tribunal,
+      it emphasized the necessity for people of conscience to act when institutions
+      fail to uphold international law. The jury's final statement underscored that,
+      while lacking the authority of states, their moral judgment serves as a necessary
+      response to the silencing of law by power, advocating for the realization of Palestinian
+      rights and a future shaped by the victims rather than the perpetrators of violence.
+    published: '2025-10-29T15:55:25+00:00'
   - title: 'The Gaza Peoples’ Tribunal: Exploring Palestinian Erasure'
     url: https://richardfalk.org/2025/10/21/4995/
     text: 'Richard Falk 20 October 2025 21:02 BST | Last update: 11 hours 21 mins ago

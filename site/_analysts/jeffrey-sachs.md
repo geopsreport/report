@@ -8,26 +8,153 @@ websites:
   - https://www.commondreams.org/author/jeffrey-d-sachs
   - https://www.jeffsachs.org/newspaper-articles
 summary: |
-  As of October 29, 2025, the geopolitical landscape remains dominated by the unresolved crises in Gaza and Ukraine, with U.S. foreign policy and Israeli actions at the center of ongoing debate. The most recent analysis by **Jeffrey Sachs** underscores the persistent gap between ceasefires and genuine peace, particularly in the approaches advocated by former President Donald Trump.
+  The past twelve hours have seen significant developments in U.S. foreign policy, particularly regarding Venezuela, as well as ongoing debates over the future of peace in the Middle East and Europe’s strategic orientation. These events reflect persistent patterns in global geopolitics, with resource competition, entrenched interests, and shifting alliances shaping the international landscape.
   
-  **Trump’s Peace Initiatives Under Scrutiny**
+  The most recent and notable development is the United States’ renewed interventionist posture toward Venezuela. As **Jeffrey Sachs** reports, Washington has shifted its justification for involvement from “restoring democracy” to combating “narco-terrorism,” while its underlying objective remains control over Venezuela’s vast oil reserves. The U.S. has escalated its tactics, reimposing economic sanctions, issuing a bounty on President Nicolás Maduro, and normalizing the prospect of military intervention. Sachs highlights that these actions, echoing decades-old regime-change strategies, lack international legal justification and have severe humanitarian consequences for ordinary Venezuelans. The majority view among analysts is that this approach is driven more by resource acquisition than genuine concern for human rights or democracy.
   
-  The latest developments focus on Trump’s proposed peace plans for Gaza and Ukraine. According to **Jeffrey Sachs**, these initiatives are criticized for conflating temporary ceasefires with lasting political solutions. Sachs argues that “Trump’s proposed peace plans lack substance, particularly regarding Palestinian statehood and the root causes of the Ukraine war, which stem from NATO’s expansion and U.S. intervention.” The report emphasizes that without addressing the underlying political grievances—such as Palestinian sovereignty and Russia’s security concerns—any peace will be illusory and short-lived.
+  In the Middle East, the aftermath of the Gaza ceasefire continues to generate debate about the prospects for lasting peace. **Jeffrey Sachs** critiques former President Trump’s proposed peace plans, arguing that they conflate temporary ceasefires with genuine resolutions to underlying political issues. Sachs asserts that “true peace necessitates a political resolution and a break from the influence of the military-industrial complex and other vested interests.” The consensus is that without addressing the root causes—such as Palestinian statehood and the legacy of U.S. and Israeli intervention—any peace will remain fragile.
   
-  **Gaza: Humanitarian Crisis and Calls for Palestinian Agency**
+  Turning to Europe, Sachs contends that the EU’s foreign policy remains hamstrung by exaggerated fears of Russia and China and an overreliance on U.S. strategic leadership. He argues that Europe’s security dilemmas are largely self-inflicted, stemming from a failure to recognize Russia’s legitimate security concerns and a tendency to align with U.S. narratives. Sachs calls for a new European foreign policy that prioritizes the continent’s real economic and security interests, rather than perpetuating a confrontational stance toward Russia.
   
-  The humanitarian situation in Gaza remains dire, with over two million people facing acute food deprivation. Sachs highlights the complicity of U.S. tech companies and continued American diplomatic support for Israel, which he asserts is enabling what he terms “genocide in Gaza.” The majority of independent analysts cited by Sachs call for immediate international action, including recognition of Palestinian statehood and the deployment of a UN Protection Force. There is growing consensus that any viable peace plan must prioritize Palestinian agency and set a clear timeline for Israeli withdrawal, as opposed to indefinite foreign oversight.
+  **Trends and Predictions:**  
+  The U.S. is likely to maintain its aggressive posture in Venezuela, with a high chance of further escalation, given the strategic importance of oil and the precedent of past interventions. In the Middle East, there is a high chance that peace efforts will stall unless substantive political solutions—particularly the recognition of Palestinian statehood—are pursued; superficial ceasefires are unlikely to bring lasting stability. In Europe, there is a growing, though still nascent, movement toward strategic autonomy and a reassessment of relations with Russia, but entrenched narratives and U.S. influence continue to dominate for now.
   
-  **Europe’s Foreign Policy Crossroads**
-  
-  On the European front, Sachs contends that the EU’s foreign policy remains overly dependent on U.S. strategic priorities, particularly regarding Russia. He argues that “Europe’s security dilemmas stem from a historical context of invasions by Western powers and the failure to respect Russia’s security concerns.” The prevailing view is that a reassessment of Europe’s approach to Russia is necessary to reduce tensions and promote mutual security.
-  
-  **Trends and Predictions**
-  
-  The majority of analysts now agree that the absence of a two-state solution is the primary threat to both Israeli and regional security. There is a high chance that international pressure will intensify for the U.S. to lift its veto on Palestinian UN membership and to push for a comprehensive peace settlement. If Trump shifts toward genuine diplomacy and confronts entrenched interests, Sachs asserts there is a high chance—though not a guarantee—of progress toward real peace in both Gaza and Ukraine.
-  
-  In summary, the trend is toward increasing international impatience with U.S. and Israeli policies in the Middle East, coupled with calls for a more autonomous and pragmatic European foreign policy. Without substantive changes, the prospects for lasting peace remain uncertain, but diplomatic openings could emerge if major powers reassess their current strategies.
+  In summary, the current trajectory points toward continued U.S. interventionism in Latin America, persistent instability in the Middle East absent genuine diplomatic breakthroughs, and a slow, contested shift in Europe’s strategic orientation. I guarantee that without a fundamental change in approach—especially regarding respect for sovereignty and addressing root causes of conflict—these patterns will persist.
 articles:
+  - title: Venezuela’s Oil, US-led Regime Change, and America’s Gangster Politics
+    url: https://www.commondreams.org/opinion/us-regime-change-venezuela
+    text: 'The United States is dusting off its old regime-change playbook in Venezuela.
+      Although the slogan has shifted from “restoring democracy” to “fighting narco-terrorists,”
+      the objective remains the same, which is control of Venezuela’s oil. The methods
+      followed by the US are familiar: sanctions that strangle the economy, threats
+      of force, and a $50 million bounty on Venezuelan President Nicolás Maduro as if
+      this were the Wild West.
+
+
+      The US is addicted to war. With the renaming of the Department of War, a proposed
+      Pentagon budget of $1.01 trillion , and more than 750 military bases across some
+      80 countries, this is not a nation pursuing peace. For the past two decades, Venezuela
+      has been a persistent target of US regime change. The motive, which is clearly
+      laid out by President Donald Trump, is the roughly 300 billion barrels of oil
+      reserves beneath the Orinoco belt, the largest petroleum reserves on the planet.
+
+
+      In 2023, Trump openly stated : “When I left, Venezuela was ready to collapse.
+      We would have taken it over, we would have gotten all that oil… but now we''re
+      buying oil from Venezuela, so we''re making a dictator very rich.” His words reveal
+      the underlying logic of US foreign policy that has an utter disregard for sovereignty
+      and instead favors the grabbing of other country’s resources. .
+
+
+      What’s underway today is a typical US-led regime-change operation dressed up in
+      the language of anti-drug interdiction. The US has amassed thousands of troops
+      , warships, and aircraft in the Caribbean Sea and the Pacific Ocean. The president
+      has boastfully authorized the CIA to conduct covert operations inside Venezuela.
+
+
+      The calls by the US government for escalation reflect a reckless disregard for
+      Venezuela’s sovereignty, international law, and human life.
+
+
+      On October 26, 2025, Sen. Lindsey Graham (R-S.C.) went on national television
+      to defend recent US military strikes on Venezuelan vessels and to say land strikes
+      inside Venezuela and Colombia are a “real possibility.” Florida Sen. Rick Scott
+      , in the same news cycle, mused that if he were Nicolás Maduro he’d “head to Russia
+      or China right now.” These senators aim to normalize the idea that Washington
+      decides who governs Venezuela and what happens to its oil. Remember that Graham
+      similarly champions the US fighting Russia in Ukraine to secure the $10 trillion
+      of mineral wealth that Graham fatuously claims are available for the US to grab.
+
+
+      Nor are Trump’s moves a new story vis-à-vis Venezuela. For more than 20 years,
+      successive US administrations have tried to submit Venezuela’s internal politics
+      to Washington’s will. In April 2002, a short-lived military coup briefly ousted
+      then-President Hugo Chávez. The CIA knew the details of the coup in advance, and
+      the US immediately recognized the new government. In the end, Chávez retook power.
+      Yet the US did not end its support for regime change.
+
+
+      In March 2015, Barack Obama codified a remarkable legal fiction. Obama signed
+      Executive Order 13692 , declaring Venezuela’s internal political situation an
+      “unusual and extraordinary threat” to US national security to trigger US economic
+      sanctions. That move set the stage for escalating coercion by the US. The White
+      House has maintained that claim of a US “national emergency” ever since. Trump
+      added increasingly draconian economic sanctions during his first term. Astoundingly,
+      in January 2019, Trump declared Juan Guaidó, then an opposition figure, to be
+      Venezuela’s “interim president,” as if Trump could simply name a new Venezuelan
+      president. This tragicomedy of the US eventually fell to pieces in 2023, when
+      the US dropped this failed and ludicrous gambit.
+
+
+      The US is now starting a new chapter of resource grabbing. Trump has long been
+      vocal about “keeping the oil.” In 2019, when discussing Syria , President Trump
+      said “We are keeping the oil, we have the oil, the oil is secure, we left troops
+      behind only for the oil.” To those in doubt, US troops are still in the northeast
+      of Syria today, occupying the oil fields. Earlier in 2016, on Iraq’s oil , Trump
+      said, “I was saying this constantly and consistently to whoever would listen,
+      I said keep the oil, keep the oil, keep the oil, don’t let somebody else get it.”
+
+
+      Now, with fresh military strikes on Venezuela vessels and open talk of land attacks,
+      the administration is invoking narcotics to justify regime change. Yet Article
+      2(4) of the United Nations Charter expressly prohibits “the threat or use of force
+      against the territorial integrity or political independence of any state.” No
+      US theory of “cartel wars” remotely justifies coercive regime change.
+
+
+      Even before the military strikes, US coercive sanctions have functioned as a siege
+      engine. Obama built the sanctions framework in 2015, and Trump further weaponized
+      it to topple Maduro. The claim was that “maximum pressure” would empower Venezuelans.
+      In practice, the sanctions have caused widespread suffering. As economist and
+      renowned sanctions expert Francisco Rodríguez found in his study of the “Human
+      Consequences of Economic Sanctions,” the result of the coercive US measures has
+      been a catastrophic decline in Venezuelan living standards, starkly worsening
+      health and nutrition, and dire harm to vulnerable populations.
+
+
+      The flimsy moral pretext today is the fight against narcotics, yet the real objective
+      is to overthrow a sovereign government, and the collateral damage is the suffering
+      of the Venezuelan people. If this sounds familiar, that’s because it is. The US
+      has repeatedly undertaken regime-change operations in pursuit of oil, uranium,
+      banana plantations, pipeline routes, and other resources: Iran (1953), Guatemala
+      (1954), Congo (1960), Chile (1973), Iraq (2003), Haiti (2004), Syria (2011), Libya
+      (2011), and Ukraine (2014), just to name a few such cases. Now Venezuela is on
+      the block.
+
+
+      In her brilliant book Covert Regime Change (2017), Professor Lindsay O’Rourke
+      details the machinations, blowbacks, and disasters of no fewer than 64 US covert
+      regime-change operations during the years 1947-1989! She focused on this earlier
+      period because many key documents for that era have by now been declassified.
+      Tragically, the pattern of a US foreign policy based on covert (and not-so-covert)
+      regime-change operations continues to this day.
+
+
+      The calls by the US government for escalation reflect a reckless disregard for
+      Venezuela’s sovereignty, international law, and human life. A war against Venezuela
+      would be a war that Americans do not want, against a country that has not threatened
+      or attacked the US, and on legal grounds that would fail a first-year law student.
+      Bombing vessels, ports, refineries, or soldiers is not a show of strength. It
+      is the epitome of gangsterism.'
+    one_sentence_summary: The United States is reviving its regime-change tactics in
+      Venezuela, now framed as a fight against narco-terrorism, with the underlying
+      goal of seizing control of the country's vast oil reserves, while employing familiar
+      methods such as sanctions, military threats, and covert operations, all of which
+      disregard Venezuela's sovereignty and have led to significant suffering among
+      its population.
+    paragraph_summary: The United States is reviving its regime-change tactics in Venezuela,
+      shifting its rhetoric from "restoring democracy" to "fighting narco-terrorists,"
+      while its primary aim remains the control of Venezuela's vast oil reserves. The
+      US has employed familiar strategies, including economic sanctions, military threats,
+      and a bounty on President Nicolás Maduro, reflecting a long-standing pattern of
+      intervention in Venezuela's politics that dates back over two decades. Recent
+      military actions and escalated rhetoric from US officials indicate a willingness
+      to normalize military intervention, despite the lack of justification under international
+      law and the severe humanitarian impact of sanctions on the Venezuelan population.
+      This approach mirrors past US interventions in various countries, driven by resource
+      acquisition rather than genuine concern for sovereignty or human rights, and raises
+      significant ethical and legal questions about the US's role in global conflicts.
+    published: '2025-11-04T17:23:14+00:00'
   - title: 'From illusion to real peace: Trump’s test in Gaza and Ukraine'
     url: https://www.aljazeera.com/opinions/2025/10/23/from-illusion-to-real-peace-trumps-test-in-gaza-and-ukraine
     text: 'United States President Donald Trump styles himself as a peacemaker. In his
@@ -177,6 +304,1019 @@ articles:
       could potentially foster real peace, but he must confront the entrenched interests
       that perpetuate conflict.
     published: '2025-10-24T05:45:52.221646+00:00'
+  - title: A new foreign policy for Europe
+    url: https://www.other-news.info/noticias/una-nueva-politica-exterior-para-europa/
+    text: 'Por Jeffrey Sachs* – Observatorio de la crisis**
+
+
+      “Europa se encuentra atrapada en una crisis económica y de seguridad, impulsada
+      por el miedo a Rusia y China y la dependencia de Estados Unidos”.
+
+
+      La Unión Europea necesita una nueva política exterior basada en los verdaderos
+      intereses económicos y de seguridad del continente. Hoy en día, Europa se encuentra
+      en una trampa económica y de seguridad, en gran medida autoinfligida: peligrosa
+      hostilidad hacia Rusia, desconfianza mutua hacia China y extrema vulnerabilidad
+      hacia Estados Unidos. La política exterior europea se rige ahora casi por completo
+      por el miedo a Rusia y China, un miedo que ha generado una dependencia de Estados
+      Unidos en materia de seguridad.
+
+
+      La subordinación de Europa a Washington se debe casi exclusivamente a un miedo
+      exagerado a Rusia: un miedo amplificado por los países de Europa del Este con
+      un fuerte sesgo rusófobo y una narrativa distorsionada sobre la guerra en Ucrania.
+      Convencida de que la amenaza a su seguridad proviene principalmente de Moscú,
+      la UE sacrifica todos los demás aspectos de su política exterior —economía, comercio,
+      medio ambiente, tecnología y diplomacia— a los intereses estadounidenses. Irónicamente,
+      se arrima a Washington justo cuando Estados Unidos se vuelve más débil, inestable,
+      errático, irracional e incluso peligroso en su enfoque hacia Europa, hasta el
+      punto de amenazar abiertamente su soberanía (como ocurrió con la cuestión de Groenlandia).
+
+
+      Para esbozar una nueva política exterior,
+
+
+      Europa tendrá que superar la falsa suposición de su extrema vulnerabilidad ante
+      Rusia. La narrativa difundida por Bruselas, Londres y la OTAN sostiene que Moscú
+      es intrínsecamente expansionista y está dispuesta a arrollar a Europa a la primera
+      oportunidad. La ocupación soviética de Europa del Este entre 1945 y 1991 se cita
+      como prueba de esta amenaza. Pero esta interpretación distorsiona profundamente
+      el comportamiento ruso, tanto pasado como presente.
+
+
+      La primera parte de este ensayo pretende desmentir la falsa suposición de que
+      Rusia representa una amenaza mortal para Europa. La segunda parte, en cambio,
+      examina qué nueva política exterior europea podría surgir una vez superada la
+      rusofobia irracional.
+
+
+      La falsa premisa del imperialismo ruso hacia Occidente
+
+
+      La política exterior europea se basa en la idea de que Rusia representa una amenaza
+      directa para la seguridad del continente. Sin embargo, esta suposición es errónea.
+      Rusia ha sido invadida repetidamente por las principales potencias occidentales
+      a lo largo de los siglos (en particular, Gran Bretaña, Francia, Alemania y Estados
+      Unidos en los dos últimos siglos) y desde hace tiempo ha buscado garantizar su
+      seguridad mediante una zona de seguridad entre ella y las fuerzas occidentales.
+      Esta zona de seguridad, muy disputada, abarca las actuales Polonia, Ucrania, Finlandia
+      y los países bálticos. Es en esta región fronteriza entre las potencias occidentales
+      y Rusia donde se concentran los principales dilemas de seguridad entre Rusia y
+      Europa Occidental.
+
+
+      Las principales guerras libradas por Occidente contra Rusia a partir de 1800 incluyen:
+
+
+      – La invasión francesa de 1812 (Guerras Napoleónicas)
+
+
+      – La invasión anglo-francesa de 1853-56 (Guerra de Crimea)
+
+
+      – La declaración de guerra alemana contra Rusia el 1 de agosto de 1914 (Primera
+      Guerra Mundial)
+
+
+      – La intervención de las potencias aliadas en la guerra civil rusa, 1918-1922
+      (Guerra Civil Rusa)
+
+
+      – La invasión alemana de la URSS en 1941 (Segunda Guerra Mundial)
+
+
+      Cada una de estas guerras representó una amenaza existencial para la supervivencia
+      de Rusia. Desde la perspectiva de Moscú, la incapacidad de Alemania para desmilitarizarse
+      tras la Segunda Guerra Mundial, la creación de la OTAN, la entrada de Alemania
+      Occidental en la Alianza en 1955, la expansión de la OTAN hacia el este después
+      de 1991 y el progresivo desarrollo de bases y sistemas de misiles estadounidenses
+      en las fronteras orientales de Europa constituyeron las amenazas más graves para
+      la seguridad nacional rusa desde el final de la Segunda Guerra Mundial.
+
+
+      Rusia, a su vez, ha avanzado hacia Occidente en varias ocasiones:
+
+
+      – El ataque a Prusia Oriental en 1914
+
+
+      – El Pacto Molotov-von Ribbentrop de 1939, con la división de Polonia entre Alemania
+      y la URSS y la anexión de los países bálticos en 1940
+
+
+      – La invasión de Finlandia en 1939 (Guerra de Invierno)
+
+
+      – La ocupación soviética de Europa del Este de 1945 a 1989
+
+
+      – La invasión rusa de Ucrania en febrero de 2022
+
+
+      Estos episodios se consideran en Europa como evidencia objetiva del expansionismo
+      ruso. En realidad, esta interpretación es ingenua, históricamente incorrecta y
+      producto de la propaganda. En los cinco casos, Moscú actuó para proteger su propia
+      seguridad nacional —según su propia opinión—, en lugar de perseguir ambiciones
+      imperialistas como un fin en sí mismas. Esta verdad fundamental es la clave para
+      resolver el conflicto entre Europa y Rusia hoy: Moscú no busca conquistar Occidente,
+      sino asegurar su propia supervivencia. Sin embargo, Occidente se ha negado durante
+      mucho tiempo a reconocer, y mucho menos a respetar, los intereses vitales de seguridad
+      de Rusia.
+
+
+      Los principales casos del supuesto imperialismo ruso
+
+
+      Analicemos los cinco casos principales del supuesto expansionismo ruso.
+
+
+      El primer caso, el ataque a la Europa Oriental prusiana en 1914, puede descartarse
+      rápidamente. Fue el Reich alemán quien declaró la guerra a Rusia el 1 de agosto
+      de 1914. La entrada del ejército zarista en Prusia Oriental fue una respuesta
+      directa a dicha declaración de guerra.
+
+
+      El segundo caso, el acuerdo entre la Rusia soviética y el Tercer Reich de Adolf
+      Hitler para la partición de Polonia en 1939 y la anexión de los estados bálticos
+      en 1940, se considera la prueba más clara de la perfidia rusa. De nuevo, se trata
+      de una interpretación simplista y engañosa de la historia.
+
+
+      Como han documentado cuidadosamente historiadores como E.H. Carr, Stephen Kotkin
+      y Michael Jabara Carley , en 1939 Stalin recurrió a Gran Bretaña y Francia para
+      formar una alianza defensiva contra Hitler, quien había declarado su intención
+      de librar una guerra contra Rusia en el Este (por el espacio vital, la mano de
+      obra eslava esclavizada y la derrota del bolchevismo).
+
+
+      Pero el intento de Stalin de forjar una alianza con las potencias occidentales
+      fue completamente rechazado. Polonia no permitiría el paso de tropas soviéticas
+      por territorio polaco en caso de guerra con Alemania. El odio de las élites occidentales
+      al comunismo soviético era al menos tan grande como su miedo a Hitler. De hecho,
+      una expresión común entre las élites conservadoras británicas a finales de la
+      década de 1930 era: «Mejor hitlerismo que comunismo».
+
+
+      Ante el fracaso en asegurar una alianza defensiva, Stalin se propuso crear una
+      zona de contención contra la inminente invasión alemana de la URSS. La partición
+      de Polonia y la anexión de los países bálticos fueron maniobras tácticas para
+      ganar tiempo para la inminente Batalla de Armagedón contra los ejércitos de Hitler,
+      que tuvo lugar el 22 de junio de 1941 con la invasión alemana de la Unión Soviética
+      durante la Operación Barbarroja. La partición anticipada de Polonia y la anexión
+      de los países bálticos podrían haber retrasado la invasión y salvado a la Unión
+      Soviética de una rápida derrota a manos de Hitler.
+
+
+      El tercer caso, la Guerra de Invierno de Rusia contra Finlandia, se considera
+      de forma similar en Europa Occidental (y especialmente en Finlandia) como prueba
+      del carácter expansionista de Rusia. Sin embargo, una vez más, la motivación principal
+      de la Unión Soviética fue defensiva, no ofensiva. Moscú temía que la invasión
+      alemana se llevara a cabo en parte a través de Finlandia y que Leningrado fuera
+      rápidamente conquistada por Hitler.
+
+
+      Por esta razón, la Unión Soviética ofreció a Finlandia un intercambio territorial
+      (en concreto, la cesión del istmo de Carelia y algunas islas del golfo de Finlandia
+      a cambio de tierras soviéticas) para proteger la segunda ciudad del país.
+
+
+      Finlandia rechazó esta propuesta y la Unión Soviética invadió Finlandia el 30
+      de noviembre de 1939. Posteriormente, Finlandia se unió a los ejércitos de Hitler
+      en la guerra contra la Unión Soviética durante la llamada «Guerra de Continuación»,
+      entre 1941 y 1944.
+
+
+      El cuarto caso, la ocupación soviética de Europa del Este (y su continuo control
+      de los países bálticos) durante la Guerra Fría, se considera en Europa una prueba
+      más de la profunda amenaza que Rusia representa para la seguridad del continente.
+      La ocupación soviética fue sin duda dura, pero incluso en este caso, tuvo una
+      motivación defensiva que se pasa por alto por completo en la narrativa de Europa
+      Occidental y Estados Unidos. La URSS pagó el precio máximo por su victoria sobre
+      Hitler, con la asombrosa cifra de 27 millones de muertos durante la guerra.
+
+
+      Al final del conflicto, Rusia tenía una exigencia primordial: que sus intereses
+      de seguridad estuvieran garantizados por un tratado que la protegiera de futuras
+      amenazas de Alemania y, en general, de Occidente. Occidente, ahora liderado por
+      Estados Unidos, rechazó esta exigencia fundamental de seguridad.
+
+
+      La Guerra Fría surgió de la negativa de Occidente a respetar las preocupaciones
+      fundamentales de seguridad de Rusia. Por supuesto, la historia de la Guerra Fría,
+      tal como la cuenta Occidente, es precisamente la contraria: que la Guerra Fría
+      fue causada únicamente por los belicosos intentos de Rusia de conquistar el mundo.
+
+
+      Esta es la verdadera historia, bien conocida por los historiadores, pero casi
+      completamente ignorada por el público estadounidense y europeo. Al final de la
+      guerra, la Unión Soviética buscó un tratado de paz que estableciera una Alemania
+      unificada, neutral y desmilitarizada. En la Conferencia de Potsdam de julio de
+      1945, a la que asistieron los líderes de la Unión Soviética, el Reino Unido y
+      Estados Unidos, las tres potencias aliadas acordaron el «desarme y la desmilitarización
+      completos de Alemania y la eliminación o el control de toda la industria alemana
+      que pudiera utilizarse para la producción militar».
+
+
+      Alemania quedaría unificada, pacificada y desmilitarizada. Todo esto estaría garantizado
+      por un tratado que pusiera fin a la guerra. En realidad, Estados Unidos y el Reino
+      Unido trabajaron diligentemente para socavar este principio fundamental.
+
+
+      A partir de mayo de 1945, Winston Churchill encargó a su Jefe de Estado Mayor
+      que desarrollara un plan de guerra para un ataque sorpresa contra la Unión Soviética
+      a mediados de 1945, denominado Operación Impensable . Aunque los estrategas militares
+      británicos consideraban impracticable una guerra de este tipo, la idea de que
+      estadounidenses y británicos debían prepararse para una guerra inminente con la
+      Unión Soviética se arraigó rápidamente. Los estrategas militares estimaron que
+      el momento más probable para una guerra de este tipo sería a principios de la
+      década de 1950.
+
+
+      El objetivo de Churchill, al parecer, era evitar que Polonia y otros países de
+      Europa del Este cayeran bajo la influencia soviética. Incluso en Estados Unidos,
+      a las pocas semanas de la rendición de Alemania en mayo de 1945, los principales
+      estrategas militares comenzaron a considerar a la Unión Soviética como el próximo
+      enemigo de Estados Unidos.
+
+
+      Estados Unidos y el Reino Unido reclutaron rápidamente a científicos nazis y altos
+      funcionarios de inteligencia (como Reinhard Gehlen, un líder nazi que recibiría
+      apoyo de Washington para crear la agencia de inteligencia alemana de posguerra)
+      para comenzar a planificar la futura guerra contra la Unión Soviética.
+
+
+      La Guerra Fría estalló principalmente porque Estados Unidos y Gran Bretaña rechazaron
+      la reunificación y desmilitarización de Alemania acordada en Potsdam. En cambio,
+      las potencias occidentales abandonaron el proyecto de reunificación alemana para
+      formar la República Federal de Alemania (RFA o Alemania Occidental) a partir de
+      las tres zonas de ocupación controladas por Estados Unidos, el Reino Unido y Francia.
+      La RFA se reindustrializaría y remilitarizaría bajo la égida estadounidense. En
+      1955, Alemania Occidental fue admitida en la OTAN.
+
+
+      Aunque los historiadores debaten apasionadamente quién respetó el Acuerdo de Potsdam
+      (por ejemplo, Occidente destaca la negativa soviética a permitir un gobierno verdaderamente
+      representativo en Polonia, como se acordó en Potsdam), no hay duda de que la remilitarización
+      de la República Federal de Alemania por parte de Occidente fue la causa principal
+      de la Guerra Fría.
+
+
+      En 1952, Stalin propuso la reunificación de Alemania basada en la neutralidad
+      y la desmilitarización. Esta propuesta fue rechazada por Estados Unidos. En 1955,
+      la Unión Soviética y Austria acordaron que la Unión Soviética retiraría sus fuerzas
+      de ocupación de Austria a cambio del compromiso de este último de mantener una
+      neutralidad permanente. El Tratado del Estado Austriaco fue firmado el 15 de mayo
+      de 1955 por la Unión Soviética, Estados Unidos, Francia y el Reino Unido, junto
+      con Austria, poniendo así fin a la ocupación.
+
+
+      El objetivo de la Unión Soviética no era solo resolver las tensiones sobre Austria,
+      sino también demostrar a Estados Unidos un modelo exitoso de retirada soviética
+      de Europa, combinado con neutralidad. Una vez más, Estados Unidos rechazó el llamado
+      soviético para poner fin a la Guerra Fría basándose en la neutralidad y la desmilitarización
+      de Alemania.
+
+
+      Tan recientemente como en 1957, el principal experto estadounidense en asuntos
+      soviéticos, George Kennan, en su tercera Conferencia Reith para la BBC , hizo
+      un llamamiento público y vehemente a Estados Unidos para que acordara con la Unión
+      Soviética una retirada mutua de tropas de Europa.
+
+
+      La Unión Soviética, enfatizó Kennan, no pretendía ni estaba interesada en una
+      invasión militar de Europa Occidental. Pero los partidarios de la Guerra Fría
+      estadounidenses, liderados por John Foster Dulles, no lo toleraron. Y ningún tratado
+      de paz con Alemania para poner fin a la Segunda Guerra Mundial se firmó hasta
+      la reunificación alemana en 1990.
+
+
+      Cabe destacar que la Unión Soviética respetó la neutralidad de Austria después
+      de 1955, así como la de otros países neutrales de Europa (como Suecia, Finlandia,
+      Suiza, Irlanda, España y Portugal). El presidente finlandés, Alexander Stubb,
+      declaró recientemente que Ucrania debería rechazar la neutralidad, basándose en
+      la experiencia negativa de Finlandia (la neutralidad finlandesa finalizó en 2024,
+      cuando el país se unió a la OTAN).
+
+
+      Esta es una idea extraña. Durante su período de neutralidad, Finlandia disfrutó
+      de paz, alcanzó una notable prosperidad económica y se situó entre los países
+      con mayor índice de felicidad del mundo (según el Informe Mundial de la Felicidad).
+
+
+      El presidente John F. Kennedy demostró una posible vía para poner fin a la Guerra
+      Fría, basada en el respeto mutuo por los intereses de seguridad de todas las partes.
+      Kennedy bloqueó el intento del canciller alemán Konrad Adenauer de adquirir armas
+      nucleares de Francia, apaciguando así las preocupaciones soviéticas sobre una
+      Alemania con armas nucleares.
+
+
+      Sobre esta base, JFK negoció con éxito el Tratado de Prohibición Parcial de los
+      Ensayos Nucleares con su homólogo soviético, Nikita Khrushchev. Es muy probable
+      que Kennedy fuera asesinado unos meses después por un grupo de agentes de la CIA
+      debido a su iniciativa de paz.
+
+
+      Documentos publicados en 2025 confirman la antigua sospecha de que Lee Harvey
+      Oswald estaba bajo la supervisión directa de James Angleton, un alto funcionario
+      de la CIA. El posterior avance de Estados Unidos hacia la paz con la Unión Soviética
+      estuvo liderado por Richard Nixon. Él también fue derrocado por el escándalo de
+      Watergate, que también ofrece pistas sobre una operación de la CIA nunca completamente
+      esclarecida.
+
+
+      Mijaíl Gorbachov puso fin a la Guerra Fría desmantelando unilateralmente el Pacto
+      de Varsovia y promoviendo activamente la democratización de Europa del Este. Asistí
+      a algunos de esos eventos y presencié personalmente algunas de sus iniciativas
+      de paz.
+
+
+      En el verano de 1989, por ejemplo, Gorbachov instó a los líderes comunistas de
+      Polonia a formar un gobierno de coalición con las fuerzas de la oposición, lideradas
+      por el movimiento Solidaridad. La desaparición del Pacto de Varsovia y la democratización
+      de Europa del Este, impulsadas por Gorbachov, impulsaron rápidamente al canciller
+      alemán Helmut Kohl a pedir la reunificación alemana.
+
+
+      Esto condujo a los tratados de reunificación de 1990 entre la RFA y la RDA, y
+      al llamado Acuerdo Dos más Cuatro entre las dos Alemanias y las cuatro potencias
+      aliadas: Estados Unidos, el Reino Unido, Francia y la Unión Soviética. En febrero
+      de 1990, Estados Unidos y Alemania prometieron claramente a Gorbachov que la OTAN
+      no se movería ni un ápice hacia el este en el contexto de la reunificación alemana,
+      un hecho que ahora niegan ampliamente las potencias occidentales, pero que es
+      fácilmente verificable.
+
+
+      Esta promesa clave de no proceder con la ampliación de la OTAN se hizo en varias
+      ocasiones, pero no se incluyó en el texto del Acuerdo Dos más Cuatro, ya que este
+      se refería a la reunificación alemana, no a la expansión oriental de la OTAN.
+
+
+      El quinto caso, la invasión rusa de Ucrania en febrero de 2022, se considera una
+      vez más en Occidente como prueba del incorregible imperialismo ruso hacia Occidente.
+      La expresión favorita de los medios de comunicación, comentaristas y propagandistas
+      occidentales es que la invasión rusa fue «sin provocación» y, por lo tanto, demuestra
+      la férrea voluntad de Putin no solo de restablecer el Imperio ruso, sino también
+      de avanzar más hacia Occidente, lo que significaría que Europa debería prepararse
+      para la guerra con Rusia. Esta es una mentira gigantesca y absurda, pero se repite
+      con tanta frecuencia en los grandes medios de comunicación que se cree ampliamente
+      en Europa.
+
+
+      De hecho, la invasión rusa de febrero de 2022 fue tan claramente provocada por
+      Occidente que se sospecha que en realidad fue un plan estadounidense para involucrar
+      a Rusia en la guerra con el fin de derrotarla o debilitarla.
+
+
+      Esta afirmación es creíble , como lo confirman una larga serie de declaraciones
+      de numerosos funcionarios estadounidenses. Tras la invasión, el secretario de
+      Defensa estadounidense, Lloyd Austin, declaró que el objetivo de Washington era
+      «ver a Rusia debilitada hasta el punto de que ya no pueda llevar a cabo las mismas
+      acciones que llevó a cabo al invadir Ucrania. Ucrania puede ganar si cuenta con
+      el equipo y el apoyo adecuados».
+
+
+      La principal provocación estadounidense contra Rusia fue la expansión de la OTAN
+      hacia el este, contrariamente a sus promesas de 1990, con un objetivo principal:
+      rodear a Rusia con estados miembros de la OTAN en la región del Mar Negro, impidiéndole
+      así proyectar su poder naval, basado en Crimea, hacia el Mediterráneo Oriental
+      y Oriente Medio. En esencia, el objetivo de Estados Unidos era el mismo que el
+      de Lord Palmerston y Napoleón III durante la Guerra de Crimea: expulsar a la flota
+      rusa del Mar Negro.
+
+
+      Los miembros de la OTAN habrían incluido a Ucrania, Rumania, Bulgaria, Turquía
+      y Georgia, formando así una red para estrangular el poder naval ruso en el Mar
+      Negro. Zbigniew Brzezinski describió esta estrategia en su libro de 1997, El Gran
+      Tablero de Ajedrez , donde argumentó que Rusia seguramente se doblegaría ante
+      la voluntad occidental, ya que no tenía otra opción . Brzezinski rechazó específicamente
+      la idea de que Rusia llegara a aliarse con China contra Europa.
+
+
+      Una nueva política exterior para Europa
+
+
+      Todo el período posterior a la disolución de la Unión Soviética en 1991 estuvo
+      marcado por la arrogancia occidental —como la definió el historiador Jonathan
+      Haslam en su magistral relato— , durante la cual Estados Unidos y Europa creyeron
+      poder impulsar la OTAN y los sistemas de armas estadounidenses (como los misiles
+      Aegis) aún más hacia el este, sin tener en cuenta en absoluto las legítimas preocupaciones
+      de Rusia por su propia seguridad nacional.
+
+
+      La lista de provocaciones occidentales es demasiado larga para detallarla, pero
+      se puede extraer un resumen de los siguientes puntos.
+
+
+      Provocaciones occidentales en ocho puntos
+
+
+      En primer lugar, contrariamente a las promesas realizadas en 1990, Estados Unidos
+      inició la expansión de la OTAN hacia el este con los anuncios del presidente Bill
+      Clinton en 1994. En aquel entonces, el secretario de Defensa, William Perry, incluso
+      consideró dimitir debido a las acciones imprudentes de Estados Unidos, que contradecían
+      promesas previas.
+
+
+      La primera ola de expansión de la OTAN tuvo lugar en 1999, incluyendo a Polonia,
+      Hungría y la República Checa. Ese mismo año, las fuerzas de la OTAN bombardearon
+      Serbia, aliada de Rusia, durante 78 días, desmembrándola y estableciendo rápidamente
+      una gran base militar estadounidense en la provincia separatista de Kosovo.
+
+
+      La segunda ola de expansión llegó en 2004, con siete nuevos miembros, incluyendo
+      los países bálticos, que limitan directamente con Rusia, y dos países ribereños
+      del Mar Negro: Bulgaria y Rumanía. En 2008, la mayoría de los países de la Unión
+      Europea reconocieron a Kosovo como estado independiente, a pesar de las continuas
+      declaraciones europeas de que «las fronteras en Europa son sagradas».
+
+
+      En segundo lugar, Estados Unidos abandonó el marco de control de armas nucleares
+      al retirarse unilateralmente del Tratado de Misiles Antibalísticos (ABM) en 2002.
+      En 2019, Washington siguió el ejemplo al abandonar el Tratado sobre Fuerzas Nucleares
+      de Alcance Intermedio (INF). A pesar de las enérgicas objeciones de Rusia, Estados
+      Unidos comenzó a desplegar sistemas de misiles antibalísticos en Polonia y Rumanía,
+      y en enero de 2022 se reservó el derecho a desplegarlos también en Ucrania.
+
+
+      En tercer lugar, Estados Unidos se infiltró profundamente en la política interna
+      ucraniana, invirtiendo miles de millones de dólares en moldear la opinión pública,
+      crear medios de comunicación y moldear la política interna del país. Las elecciones
+      de 2004-2005 en Ucrania se consideran ampliamente una «revolución de color» respaldada
+      por Estados Unidos, que utilizó su influencia y financiación, tanto abierta como
+      encubierta, para favorecer a candidatos proestadounidenses.
+
+
+      En 2013-2014, Washington desempeñó un papel directo en la financiación de las
+      protestas de Maidán y en el apoyo al violento golpe de Estado que derrocó al presidente
+      proneutral Víktor Yanukóvich, allanando así el camino para un gobierno ucraniano
+      orientado a la OTAN.
+
+
+      Casualmente, me invitaron a visitar Maidán poco después del golpe de Estado del
+      22 de febrero de 2014 que derrocó a Yanukóvich; una ONG con sede en Estados Unidos,
+      profundamente involucrada en los acontecimientos, me explicó directamente el papel
+      de la financiación estadounidense en el apoyo a las protestas.
+
+
+      En cuarto lugar, a partir de 2008, a pesar de la oposición de varios líderes europeos,
+      Estados Unidos presionó a la OTAN para que se comprometiera oficialmente a ampliar
+      su presencia a Ucrania y Georgia. En aquel momento, el embajador estadounidense
+      en Moscú, William J. Burns, envió un cable a Washington, ahora famoso, titulado
+      » Nyet Means Nyet: Russia’s NATO Enlargement Redlines «, en el que explicaba que
+      toda la clase política rusa se oponía firmemente a la expansión de la OTAN a Ucrania
+      y temía que dicha medida provocara disturbios civiles en el país.
+
+
+      En quinto lugar, tras el golpe de Estado de Maidán, las regiones de mayoría rusa
+      del este de Ucrania (Donbás) se separaron del nuevo gobierno prooccidental instaurado
+      tras el golpe. Rusia y Alemania negociaron rápidamente los Acuerdos de Minsk,
+      según los cuales las dos regiones separatistas (Donetsk y Lugansk) seguirían formando
+      parte de Ucrania, pero con una amplia autonomía local, inspirada en la región
+      germanófona del Tirol del Sur en Italia.
+
+
+      El segundo acuerdo, Minsk II, también respaldado por el Consejo de Seguridad de
+      la ONU, podría haber puesto fin al conflicto; sin embargo, el gobierno de Kiev,
+      con el apoyo de Washington, decidió no implementar la autonomía. El incumplimiento
+      de Minsk II envenenó las relaciones diplomáticas entre Rusia y Occidente.
+
+
+      En sexto lugar, Estados Unidos expandió de manera constante el ejército ucraniano
+      (tanto tropas activas como de reserva) a aproximadamente un millón de hombres
+      en 2020. Ucrania, junto con sus batallones paramilitares de extrema derecha (como
+      Azov y Sector Derecho), llevó a cabo repetidos ataques contra las dos regiones
+      separatistas, lo que resultó en miles de bajas civiles en el Donbass debido a
+      los bombardeos ucranianos.
+
+
+      En séptimo lugar, a finales de 2021, Rusia propuso a Estados Unidos un borrador
+      de Acuerdo de Seguridad entre Rusia y Estados Unidos , que exigía principalmente
+      el fin de la expansión de la OTAN. Estados Unidos rechazó la propuesta y reafirmó
+      la política de «puertas abiertas» de la alianza, según la cual terceros países,
+      como Rusia, no tendrían voz ni voto en la ampliación de la OTAN. Estados Unidos
+      y los países europeos reiteraron repetidamente la futura adhesión de Ucrania a
+      la OTAN.
+
+
+      Según informes, el secretario de Estado estadounidense comunicó al ministro de
+      Asuntos Exteriores ruso en enero de 2022 que Estados Unidos se reservaba el derecho
+      a desplegar misiles de alcance intermedio en Ucrania, a pesar de las objeciones
+      de Moscú.
+
+
+      Octavo: Tras la invasión rusa del 24 de febrero de 2022, Ucrania accedió rápidamente
+      a iniciar negociaciones de paz basadas en el retorno a la neutralidad. Las conversaciones
+      se celebraron en Estambul, con la mediación de Turquía. A finales de marzo de
+      2022, Rusia y Ucrania publicaron un memorando conjunto que señalaba avances hacia
+      un acuerdo de paz. El 15 de abril, se presentó un borrador de acuerdo que prácticamente
+      se acercaba a una solución integral.
+
+
+      En ese momento, Estados Unidos intervino y comunicó a los ucranianos que no apoyaría
+      el acuerdo, sino que apoyaría a Ucrania en la continuación de la guerra.
+
+
+      Los altos costos de una política exterior fallida
+
+
+      Rusia nunca ha presentado reivindicaciones territoriales contra países de Europa
+      Occidental ni los ha amenazado, salvo en el contexto de su derecho a tomar represalias
+      contra cualquier ataque con misiles con apoyo occidental lanzado contra su territorio.
+      Hasta el golpe de Estado de Maidán en 2014, Rusia ni siquiera había expresado
+      reivindicaciones territoriales sobre Ucrania.
+
+
+      Después de 2014 y hasta finales de 2022, la única reivindicación territorial de
+      Moscú se refería a Crimea, para evitar que la base naval rusa en Sebastopol cayera
+      bajo control occidental.
+
+
+      Solo tras el fracaso del proceso de paz de Estambul —sacudido por la intervención
+      estadounidense— Rusia declaró la anexión de las cuatro regiones ucranianas de
+      Donetsk, Lugansk, Jersón y Zaporiyia. Hoy en día, los objetivos de guerra declarados
+      por Moscú siguen siendo limitados: la neutralidad de Ucrania, la desmilitarización
+      parcial, la renuncia definitiva a la OTAN y el reconocimiento de la transferencia
+      de Crimea y las cuatro regiones mencionadas a Rusia, lo que constituye aproximadamente
+      el 19 % del territorio de Ucrania en 1991.
+
+
+      Estas no son señales del imperialismo ruso dirigido hacia Occidente, ni exigencias
+      no provocadas. Los objetivos bélicos de Rusia se derivan de más de 30 años de
+      protestas contra la expansión oriental de la OTAN, el armamento a Ucrania, el
+      abandono por parte de Estados Unidos de los tratados de control de armas nucleares
+      y la profunda injerencia de Occidente en la política interna ucraniana, que culminó
+      en el golpe de Estado de 2014 que puso a Moscú y la OTAN en una situación de enfrentamiento
+      directo.
+
+
+      Europa ha optado por interpretar los acontecimientos de los últimos 30 años como
+      prueba del inexorable expansionismo ruso, del mismo modo que Occidente afirmó
+      que la Guerra Fría era responsabilidad exclusiva de la Unión Soviética, cuando
+      en realidad la URSS había propuesto reiteradamente caminos hacia la paz basados
+      en la neutralidad, la unificación y el desarme alemanes.
+
+
+      Al igual que durante la Guerra Fría, hoy Occidente también ha preferido provocar
+      a Rusia en lugar de reconocer sus comprensibles preocupaciones de seguridad.
+
+
+      Cada acción rusa se ha interpretado de la forma más negativa posible, como una
+      muestra de mala fe o agresión, sin reconocer jamás la perspectiva rusa en el debate.
+      Este es un claro ejemplo del clásico dilema de seguridad, en el que los adversarios
+      se ignoran mutuamente, asumen lo peor y actúan agresivamente basándose en suposiciones
+      erróneas.
+
+
+      La decisión de Europa de interpretar la Guerra Fría y la posguerra desde esta
+      perspectiva prejuiciosa le ha costado muy caro, y los costos siguen aumentando.
+      Más importante aún, Europa ha llegado a creer que depende totalmente de Estados
+      Unidos para su seguridad. Si Rusia fuera realmente expansionista, Washington sería
+      el salvador indispensable de Europa.
+
+
+      Pero si, por el contrario, el comportamiento ruso siempre hubiera sido una expresión
+      de legítimas preocupaciones de seguridad, la Guerra Fría probablemente habría
+      terminado hace décadas siguiendo el modelo de la neutralidad austriaca, y la posguerra
+      podría haberse convertido en un período de paz y creciente confianza entre Rusia
+      y Europa.
+
+
+      En realidad, las economías de Europa y Rusia son altamente complementarias. Rusia
+      es rica en materias primas (agrícolas, minerales y energéticas) y posee experiencia
+      en ingeniería, mientras que Europa alberga industrias de alto consumo energético
+      y tecnologías avanzadas clave.
+
+
+      Estados Unidos se ha opuesto durante mucho tiempo a los crecientes lazos comerciales
+      entre Europa y Rusia, que surgen de esta complementariedad natural. Washington
+      considera la industria energética rusa un competidor directo del sector energético
+      estadounidense y, en general, considera los fuertes lazos comerciales y de inversión
+      entre Alemania y Rusia una amenaza para el dominio político y económico de Estados
+      Unidos en Europa Occidental.
+
+
+      Por estas razones, Estados Unidos se opuso a los gasoductos Nord Stream 1 y 2
+      mucho antes del conflicto ucraniano. Por estas razones, Joe Biden prometió explícitamente
+      poner fin a Nord Stream 2 —como lo hizo— en caso de una invasión rusa de Ucrania.
+
+
+      La oposición estadounidense a Nord Stream y a las relaciones energéticas ruso-alemanas
+      se basaba en un principio general: la UE y Rusia debían mantenerse a distancia
+      para que Estados Unidos no perdiera su influencia en Europa.
+
+
+      La guerra en Ucrania y la ruptura de relaciones con Rusia han dañado gravemente
+      la economía europea. Las exportaciones europeas a Rusia se han desplomado de unos
+      90 000 millones de euros en 2021 a tan solo 30 000 millones de euros en 2024.
+
+
+      Los costes energéticos se han disparado, ya que Europa ha sustituido el gas natural
+      ruso, barato y suministrado por gasoducto, por el gas natural licuado (GNL) estadounidense,
+      mucho más caro. La industria alemana ha decaído alrededor de un 10 % desde 2020,
+      y tanto el sector químico como el automovilístico están sufriendo graves consecuencias.
+      El Fondo Monetario Internacional prevé un crecimiento económico para la UE de
+      tan solo el 1 % en 2025 y de alrededor del 1,5 % para el resto de la década.
+
+
+      El canciller alemán, Friedrich Merz, ha pedido la prohibición permanente de la
+      reanudación del flujo de gas a través del Nord Stream, pero esto representa prácticamente
+      un suicidio económico para Alemania.
+
+
+      Esta postura se basa en la creencia de Merz de que Rusia tiene ambiciones bélicas
+      contra Alemania; sin embargo, en realidad, es Alemania la que está provocando
+      una guerra con Rusia al adoptar un lenguaje belicista e iniciar un rearme masivo.
+
+
+      Según Merz, «es necesaria una visión realista de las aspiraciones imperialistas
+      de Rusia». Argumenta que «parte de nuestra sociedad tiene un profundo miedo a
+      la guerra. No lo comparto, pero lo entiendo».
+
+
+      Aún más alarmante es su afirmación de que «los medios diplomáticos están agotados»,
+      a pesar de que, según se informa, nunca ha intentado hablar con Vladimir Putin
+      desde que llegó al poder. Merz también parece ignorar deliberadamente lo cerca
+      que estuvo la diplomacia del éxito en 2022, durante el Proceso de Estambul, antes
+      de que Estados Unidos lo bloqueara.
+
+
+      El crecimiento económico chino es antitético a los intereses estadounidenses
+
+
+      El enfoque de Occidente hacia China refleja fielmente su enfoque hacia Rusia.
+
+
+      Occidente tiende a atribuirle malas intenciones a China, las cuales, en muchos
+      sentidos, suelen ser proyecciones de sus propias ambiciones hostiles hacia la
+      República Popular.
+
+
+      El rápido ascenso económico de China entre 1980 y 2010 llevó a los líderes y estrategas
+      estadounidenses a considerar su mayor crecimiento económico como contrario a los
+      intereses estadounidenses.
+
+
+      En 2015, dos influyentes estrategas estadounidenses, Robert Blackwill y Ashley
+      Tellis , explicaron claramente que la estrategia global de Estados Unidos busca
+      la hegemonía estadounidense y que China representa una amenaza para dicha hegemonía
+      debido a su tamaño y éxito. Blackwill y Tellis propusieron un conjunto de medidas
+      por parte de Estados Unidos y sus aliados para obstaculizar el futuro crecimiento
+      económico de China: excluir a Pekín de los nuevos bloques comerciales de Asia-Pacífico,
+      limitar la exportación de tecnologías occidentales a China, imponer aranceles
+      y otras restricciones a las exportaciones chinas, y otras medidas antichinas.
+
+
+      Cabe destacar que estas medidas no se justificaban por las deficiencias específicas
+      de China, sino por el simple hecho de que su crecimiento económico se consideraba
+      incompatible con la supremacía estadounidense.
+
+
+      Un componente clave de esta política exterior hacia Rusia y China es una guerra
+      mediática destinada a desacreditar a los supuestos enemigos de Occidente. En el
+      caso de China, Occidente la ha acusado de genocidio en Xinjiang contra la población
+      uigur. Se trata de una acusación sumamente exagerada, formulada sin pruebas sólidas,
+      mientras Occidente ignora el genocidio real de decenas de miles de palestinos
+      que se está produciendo en Gaza, perpetrado por su aliado israelí.
+
+
+      Además, la propaganda occidental también ha difundido una serie de afirmaciones
+      absurdas sobre la economía china: su iniciativa de infraestructura de la Franja
+      y la Ruta , que ofrece financiación a países en desarrollo para construir infraestructura
+      moderna, se califica de «trampa de deuda».
+
+
+      La extraordinaria capacidad de China para producir tecnologías verdes —como paneles
+      solares, que el mundo necesita con urgencia— es ridiculizada por Occidente como
+      un «exceso de capacidad» que debería limitarse o detenerse.
+
+
+      En el plano militar, el dilema de seguridad que enfrenta China se interpreta de
+      la forma más sombría posible, al igual que ocurre con Rusia. Estados Unidos ha
+      proclamado durante mucho tiempo su capacidad para bloquear las vitales rutas marítimas
+      de China, pero luego acusa a Pekín de militarismo cuando responde adoptando medidas
+      para fortalecer su poder naval.
+
+
+      En lugar de interpretar el desarrollo militar de China como un típico dilema de
+      seguridad que debe abordarse mediante la diplomacia, la Armada estadounidense
+      declara que debe prepararse para la guerra con China para 2027. Al mismo tiempo,
+      la OTAN exige cada vez más un papel activo en Asia Oriental, dirigido contra China.
+      Los aliados europeos de Estados Unidos están adoptando esta postura agresiva,
+      tanto comercial como militarmente.
+
+
+      Diez pasos concretos hacia una nueva política exterior
+
+
+      Europa se ha arrinconado a sí misma, haciéndose subordinada a Estados Unidos,
+      rechazando la diplomacia directa con Rusia, perdiendo su competitividad económica
+      a través de las sanciones y la guerra, incurriendo en un aumento masivo e insostenible
+      del gasto militar y cortando vínculos comerciales y de inversión a largo plazo
+      con Rusia y China.
+
+
+      Como resultado, se enfrenta a una deuda creciente, un estancamiento económico
+      y un riesgo creciente de guerra a gran escala. Una perspectiva que, al parecer,
+      no asusta al canciller alemán Merz, pero que debería aterrorizarnos a todos.
+
+
+      Quizás el conflicto más probable no sea con Rusia, sino con los propios Estados
+      Unidos, que bajo el mandato de Trump amenazó con apoderarse de Groenlandia si
+      no se la vendían o cedían a su soberanía. Es muy posible que Europa se quede sin
+      verdaderos amigos: ni Rusia ni China, ni siquiera Estados Unidos, los países árabes
+      (indignados por la indiferencia europea ante el genocidio israelí en Gaza), África
+      (aún resentida por el colonialismo y el neocolonialismo europeos), etc.
+
+
+      Por supuesto, existe otro camino posible —de hecho, uno muy prometedor— si los
+      líderes europeos logran reconsiderar los verdaderos intereses y riesgos de seguridad
+      del continente, devolviendo la diplomacia al centro de la política exterior europea.
+      Propongo aquí diez pasos concretos para construir una política exterior basada
+      en las necesidades reales de Europa.
+
+
+      1. Abrir un diálogo diplomático directo con Moscú
+
+
+      Fracaso: El fracaso palpable de Europa a la hora de entablar una diplomacia directa
+      con Rusia es devastador. Europa podría incluso estar creyendo en su propia propaganda
+      de política exterior, al evitar discutir directamente temas clave con su homólogo
+      ruso. Es hora de restablecer canales de comunicación serios y estables, independientes
+      de Washington.
+
+
+      2. Preparar una paz negociada con Rusia
+
+
+      Europa debe prepararse para negociar la paz con Rusia sobre Ucrania y la futura
+      seguridad colectiva de Europa. La clave es que Europa acuerde con Rusia el fin
+      de la guerra sobre la base de un compromiso firme e irrevocable de no extender
+      la OTAN a Ucrania, Georgia ni a otras regiones orientales. Además, Europa debe
+      aceptar cambios territoriales pragmáticos en Ucrania que beneficien a Rusia.
+
+
+      3. Rechazar la militarización de las relaciones con China
+
+
+      Por ejemplo, Europa debería oponerse a cualquier intento de expandir la OTAN al
+      este de Asia.
+
+
+      China no representa ninguna amenaza para la seguridad europea, y Europa debería
+      dejar de apoyar ciegamente las pretensiones estadounidenses de hegemonía en Asia,
+      que ya son peligrosas e ilusorias, incluso sin el apoyo europeo. En cambio, Europa
+      debería fortalecer la cooperación con China en materia de comercio, inversión
+      y clima.
+
+
+      4. Reformar las instituciones de la diplomacia europea
+
+
+      La configuración actual es caótica e ineficaz. El Alto Representante de la UE
+      para Asuntos Exteriores y Política de Seguridad actúa esencialmente como portavoz
+      de la rusofobia, mientras que la diplomacia de alto nivel —en la medida en que
+      existe— está dirigida de forma confusa e intermitente por líderes europeos individuales,
+      el Alto Representante de la UE, el presidente de la Comisión Europea, el presidente
+      del Consejo Europeo o una combinación variable de estos. En resumen, nadie habla
+      con claridad en nombre de Europa, ya que, para empezar, no existe una política
+      exterior europea clara.
+
+
+      5. Desvincular la política exterior de la UE de la OTAN
+
+
+      Europa debería reconocer que la política exterior de la UE debe disociarse de
+      la OTAN. En realidad, Europa no necesita la Alianza Atlántica, ya que Rusia no
+      tiene intención de invadir la UE. Europa debería, sin duda, dotarse de una capacidad
+      de defensa autónoma, pero a un coste muy inferior al 5 % del PIB, una cifra absurda,
+      basada en una evaluación completamente exagerada de la amenaza rusa. Además, la
+      defensa europea no debería coincidir con la política exterior europea, a pesar
+      de que ambas se han confundido completamente en los últimos tiempos.
+
+
+      6. Cooperar con Rusia, India y China
+
+
+      La UE, Rusia, India y China deberían cooperar en la transición ecológica, digital
+      y de infraestructuras de todo el espacio euroasiático. El desarrollo sostenible
+      de Eurasia beneficia mutuamente a la UE, Rusia, India y China, y no puede lograrse
+      sin la cooperación pacífica entre las cuatro principales potencias euroasiáticas.
+
+
+      7. Cooperar con la iniciativa «La Franja y la Ruta» de China
+
+
+      Se espera que el European Global Gateway, el brazo financiero para infraestructuras
+      en países no pertenecientes a la UE, colabore con la Iniciativa de la Franja y
+      la Ruta (BRI) de China. Actualmente, se presenta como un competidor de la BRI.
+      En realidad, se espera que ambos programas unan fuerzas para cofinanciar infraestructuras
+      de energía verde, digitales y de transporte para Eurasia.
+
+
+      8. Fortalecer la financiación del Pacto Verde Europeo
+
+
+      La Unión Europea debería aumentar la financiación del Pacto Verde Europeo (PVE),
+      acelerando así la transición hacia una economía baja en carbono, en lugar de destinar
+      aproximadamente el 5 % del PIB a gastos militares innecesarios sin ningún beneficio
+      real para Europa. Una mayor inversión en el PVE aportaría dos beneficios principales.
+      En primer lugar, contribuiría a la seguridad climática regional y global. En segundo
+      lugar, reforzaría la competitividad de Europa en las futuras tecnologías verdes
+      y digitales, sentando las bases para un nuevo modelo de crecimiento sostenible.
+
+
+      9. Colaborar con la Unión Africana
+
+
+      La UE debería colaborar estrechamente con la Unión Africana para promover una
+      amplia expansión de la educación y la formación técnica en sus países miembros.
+      Con un crecimiento previsto de su población de 1.400 millones a aproximadamente
+      2.500 millones para mediados de siglo, en comparación con los aproximadamente
+      450 millones de habitantes de Europa, el destino económico de África estará estrechamente
+      vinculado al de Europa. La clave de la prosperidad africana reside en el rápido
+      desarrollo de la educación superior y la formación profesional.
+
+
+      10. Apoyar el nuevo orden mundial multipolar
+
+
+      La Unión Europea, junto con los países BRICS, debe comunicar claramente a Estados
+      Unidos que el futuro orden mundial no se basa en la hegemonía, sino en el derecho
+      internacional y la Carta de las Naciones Unidas. Este representa el único camino
+      hacia una verdadera seguridad para Europa y el mundo. La dependencia de Estados
+      Unidos y la OTAN es una ilusión peligrosa, especialmente dada la inestabilidad
+      del propio país. Por el contrario, un compromiso renovado con la Carta de las
+      Naciones Unidas puede poner fin a las guerras (por ejemplo, poniendo fin a la
+      impunidad de Israel e implementando los fallos de la Corte Internacional de Justicia
+      sobre la solución de dos Estados) y prevenir futuros conflictos.
+
+
+      *Jeffrey D. Sachs: Economista de renombre mundial, es un referente en el campo
+      del desarrollo sostenible. Director del Centro para el Desarrollo Sostenible de
+      la Universidad de Columbia, también preside la Red de Soluciones para el Desarrollo
+      Sostenible de las Naciones Unidas. Es autor de numerosos libros, entre ellos los
+      éxitos de ventas El fin de la pobreza y El precio de la civilización.
+
+
+      **Ver el original: https://www.cirsd.org/en/horizons/horizons-summer-2025–issue-no-31/a-new-foreign-policy-for-europe'
+    one_sentence_summary: Jeffrey Sachs argues that Europe is ensnared in a self-inflicted
+      economic and security crisis driven by exaggerated fears of Russia and China,
+      leading to an unhealthy dependence on the United States, and advocates for a new
+      foreign policy that recognizes Russia's historical security concerns rather than
+      viewing it as an imperial threat.
+    paragraph_summary: En su artículo, Jeffrey Sachs argumenta que Europa está atrapada
+      en una crisis económica y de seguridad, exacerbada por el miedo a Rusia y China
+      y su dependencia de Estados Unidos. Propone que la Unión Europea necesita una
+      nueva política exterior que reconozca sus verdaderos intereses económicos y de
+      seguridad, en lugar de dejarse guiar por una narrativa de amenaza rusa que, según
+      él, es exagerada y distorsionada. Sachs sostiene que la historia muestra que Rusia
+      ha actuado principalmente en defensa de su seguridad nacional, no como un agresor
+      imperialista, y critica la forma en que Occidente ha ignorado las preocupaciones
+      de seguridad de Rusia, lo que ha llevado a una escalada de tensiones. Para avanzar,
+      Europa debe superar su rusofobia y desarrollar una política exterior que respete
+      los intereses de seguridad de todas las partes involucradas, en lugar de alinearse
+      ciegamente con Estados Unidos.
+    published: '2025-10-17T15:42:07+00:00'
+  - title: Israel Reaches Its Mass-Murder Quota
+    url: https://www.commondreams.org/opinion/israel-reaches-its-mass-murder-quota
+    text: 'The ceasefire observed in Gaza results in part from simple murderous arithmetic.
+      Specifically, Israel’s bloodletting reached its numerical target, so Israel has
+      finally signed on to a ceasefire.
+
+
+      After October 7, 2023, former Israeli military intelligence chief Aharon Haliva
+      declared that for every Israeli killed, “50 Palestinians must die.” Around 1,275
+      Israelis died as a result of the attack on October 7. Israel’s mass murder quota
+      was therefore around 63,750 (= 50 x 1,275). This was reached in recent weeks,
+      according to the Gaza Ministry of Health, and as reported by the United Nations
+      . When the rubble is cleared and epidemiologists do their detailed work, the death
+      toll is likely in fact to reach hundreds of thousands, including those who have
+      died due to lack of medical care, starvation, and other critical shortages of
+      life support.
+
+
+      Israel is committing genocide. This is thoroughly documented by the United Nations
+      , and as confirmed by The International Association of Genocide Scholars . What
+      is the basis of Israel’s despicable campaign? There are in fact two interrelated
+      reasons.
+
+
+      The first reason is that mass murder has been the repeated instrument of choice
+      for colonial-settler societies such as Israel. In her recent book They Called
+      it Peace , historian Lauren Benton described how colonial-settlers deployed mass
+      murder and terror as mechanisms of control. Benton writes that for colonial settlers,
+
+
+      “Peace was imagined not as the cessation of violence but as the imposition of
+      order through fear and punishment.”
+
+
+      Elsewhere, Benton writes, “Punitive expeditions and mass killings were justified
+      as instruments to discipline populations, to break resistance, and to render the
+      conquered both submissive and useful.”
+
+
+      Israel’s genocide in Gaza and annexation of the occupied West Bank follow this
+      precise colonial-settler logic. Israel aims to terrorize Palestinians and break
+      their will—all in pursuit of the maximalist objective of eliminating any possibility
+      of a Palestinian state. What Haliva and those like him wanted most was neither
+      to defeat Hamas, nor to free the hostages (which could have been accomplished
+      through negotiations). He wanted to teach the Palestinians and the international
+      community a lesson. For the Palestinians, the lesson is that they must never challenge
+      their occupier. For the rest of the world, the lesson is that Israel is above
+      international law, even if it commits genocide.
+
+
+      When the rubble is cleared and epidemiologists do their detailed work, the death
+      toll is likely in fact to reach hundreds of thousands, including those who have
+      died due to lack of medical care, starvation, and other critical shortages of
+      life support.
+
+
+      The second and related reason is the Old Testament literalism of part of the Israeli
+      government and society, that espouses an ethics of the 10th century BC rather
+      than an ethics of the 21st century. The Old Testament contains numerous accounts
+      of God-commanded genocides, and Netanyahu and his colleagues cite these Biblical
+      accounts to justify mass murder.
+
+
+      For example, Prime Minister Netanyahu chillingly invoked the ancient Biblical
+      story of the Amalekites. The Amalekites appear in Exodus 17, where they attack
+      the Israelites in the wilderness. Later, in 1 Samuel 15, God commands King Saul
+      through the prophet Samuel to ''utterly destroy'' Amalek – man, woman, child,
+      infant, ox, sheep, camel, and donkey. When Saul murders the men of the Amalekites
+      but takes King Agag hostage and spares some of the animals, Saul is condemned
+      by God for failure to fulfill the command of total mass slaughter. In fact, Saul
+      loses his kingship because he fails to commit a complete and total genocide. And
+      this is Netanyahu’s chosen text!
+
+
+      The link between colonial-settler violence and Old Testament genocide is more
+      direct than it seems. Colonial-settlers often saw themselves as the “New Israel,”
+      in North America, South Africa, and of course in Israel (and occupied Palestine)
+      today. Their violence stems not only from efforts to subdue Indigenous peoples
+      but also from a supremacist belief in a God-given right to act this way.
+
+
+      The genocide in Gaza is an escalation of persistent Israeli behavior—it is, in
+      the words of historian Rashid Khalidi , a “continuation of ethnic cleansing.”
+      This decades-old strategy of “mowing the lawn,” episodic mass killings, is intended
+      to advance Israel’s goal of permanent control over all occupied Palestine, from
+      the Jordan River to the Mediterranean Sea, as promised by the original 1977 Charter
+      of Netanyahu’s Likud Party. To achieve this objective, Netanyahu and his allies
+      are committed to ethnic expulsions, murder, or the severe suppression of nearly
+      seven and a half million Palestinians living in the area they call Greater Israel.
+
+
+      Even with the ceasefire, even with the disarmament of Hamas, Israel will not agree
+      to a State of Palestine alongside Israel.
+
+
+      Netanyahu made that crystal clear during his speech at the UN General Assembly.
+      As he recounted, the Knesset overwhelmingly voted against the two-state solution
+      with 99 out of 120 members opposing it, reflecting the stance of over 90% of Israelis.
+      He clearly stated, “my opposition to a Palestinian state is not simply my policies,
+      or my government''s policy, it''s the policy of the state and people of the State
+      of Israel.”
+
+
+      While fulfilling Israel’s 50-to-1 quota was one reason for its agreement to a
+      ceasefire (when one could have been achieved many deaths earlier), another decisive
+      factor is that Israel and the US now face near-total global isolation over the
+      issue of Palestine, with Israel widely reviled across much of the world. More
+      than 150 countries , with around 87 percent of the world population, have now
+      recognized the State of Palestine, even as the US continues to veto Palestine’s
+      permanent UN membership. Arab and Islamic leaders have made it clear to President
+      Trump that they are committed to Palestinian statehood. And American public opinion
+      has decisively shifted , along with global demonstrations to support the Palestinian
+      cause.
+
+
+      The US government, aware of those dynamics, has therefore begun to bend its policies
+      at least a little bit. The ceasefire therefore signals a vital opportunity to
+      push the US further, and to assert the will of the world community. A lasting
+      peace is within reach, based on implementing the two-state solution. The Arab
+      nations must not once again allow the United States to conjure another phony and
+      endless “peace process.” Israel will never negotiate a peace with Palestine.'
+    one_sentence_summary: The ceasefire in Gaza is a result of Israel achieving its
+      calculated death toll of Palestinians in retaliation for the October 7 attacks,
+      reflecting a genocidal strategy rooted in colonial-settler logic and Old Testament
+      justifications, while also responding to increasing global isolation and calls
+      for Palestinian statehood.
+    paragraph_summary: The recent ceasefire in Gaza is attributed to Israel reaching
+      its calculated target of Palestinian deaths in response to the October 7 attack,
+      where former Israeli military intelligence chief Aharon Haliva stated that for
+      every Israeli killed, 50 Palestinians should die. This resulted in a staggering
+      death toll that could reach hundreds of thousands, exacerbated by a lack of medical
+      care and resources. The article argues that Israel's actions constitute genocide,
+      supported by historical patterns of colonial-settler violence and a literal interpretation
+      of Old Testament texts that justify mass murder. Prime Minister Netanyahu's government
+      has made it clear that it opposes the establishment of a Palestinian state, reflecting
+      a broader sentiment among Israelis. The ceasefire also comes amid growing global
+      condemnation of Israel's actions and a shift in U.S. policy, suggesting a potential
+      opportunity for a renewed push towards a two-state solution, although the article
+      expresses skepticism about Israel's willingness to negotiate peace.
+    published: '2025-10-11T12:08:03+00:00'
   - title: A 20-Point Peace Plan Without US-UK Colonialism
     url: https://www.commondreams.org/opinion/20-point-peace-plan-for-gaza
     text: 'President Trump’s 20-point plan offers some constructive proposals on hostages,
