@@ -184,7 +184,7 @@ def main():
 
     this_edition_articles = recent_articles(articles, hours=24)
     summary = make_context_summary(this_edition_articles, context)
-    sources = list(set([a.analyst for a in articles]))
+    sources = list(set([a.analyst for a in this_edition_articles]))
     sources = [Analyst.find_analyst(a) for a in sources]
     lead = generate_lead(summary)
 
